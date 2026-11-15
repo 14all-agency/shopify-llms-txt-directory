@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-04-21T18:24:19Z
 - Contact Email: Jewelryluxeus@gmail.com
-- Updated At: 2026-11-07T00:29:02.400Z
+- Updated At: 2026-11-15T00:33:11.280Z
 
 ## Products
 
@@ -172,6 +172,59 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_149_transformation_14474.jpg?v=1780728550
     Price: $74.95 USD
+- [Custom Name Hug Necklace - Personalized Gift for Her](https://jewelryluxeus.shop/products/custom-name-hug-necklace): Custom name hug necklace - white gold or gold plated, 45cm chain, personalized engraving. A warm, meaningful gift for her for any occasion.
+  Updated: 2026-11-13T15:39:37Z
+  Vendor: cmoffer
+  Product Type: Mother's Day,New Arrival,2025-4,Personalized Jewelry,Name Necklaces
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cvr20joldusuk63qq2sg.jpg?v=1745737687
+  - [White Gold Plated / 2](https://jewelryluxeus.shop/products/custom-name-hug-necklace?variant=54726769934660)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cvr1tsoldusuk63qq1s0.jpg?v=1745737523
+    Price: $18.99 USD
+  - [White Gold Plated / 3](https://jewelryluxeus.shop/products/custom-name-hug-necklace?variant=54726769967428)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cvr1uk0ldusuk63qq1u0.jpg?v=1745737528
+    Price: $18.99 USD
+  - [White Gold Plated / 4](https://jewelryluxeus.shop/products/custom-name-hug-necklace?variant=54726770000196)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cvr1us0ldusuk63qq21g.jpg?v=1745737532
+    Price: $18.99 USD
+  - [White Gold Plated / 5](https://jewelryluxeus.shop/products/custom-name-hug-necklace?variant=54726770032964)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cvr1uv8ldusuk63qq240.jpg?v=1745737537
+    Price: $18.99 USD
+  - [White Gold Plated / 6](https://jewelryluxeus.shop/products/custom-name-hug-necklace?variant=54726770065732)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cvr1v2oldusuk63qq270.jpg?v=1745737541
+    Price: $18.99 USD
+  - [Gold Plated / 2](https://jewelryluxeus.shop/products/custom-name-hug-necklace?variant=54726770098500)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cvr1v80ldusuk63qq2ag.jpg?v=1745737546
+    Price: $18.99 USD
+  - [Gold Plated / 3](https://jewelryluxeus.shop/products/custom-name-hug-necklace?variant=54726770131268)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cvr1vc8ldusuk63qq2d0.jpg?v=1745737551
+    Price: $18.99 USD
+  - [Gold Plated / 4](https://jewelryluxeus.shop/products/custom-name-hug-necklace?variant=54726770164036)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cvr1vg0ldusuk63qq2h0.jpg?v=1745737556
+    Price: $18.99 USD
+  - [Gold Plated / 5](https://jewelryluxeus.shop/products/custom-name-hug-necklace?variant=54726770196804)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cvr1vj0ldusuk63qq2j0.jpg?v=1745737561
+    Price: $18.99 USD
+  - [Gold Plated / 6](https://jewelryluxeus.shop/products/custom-name-hug-necklace?variant=54726770229572)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cvr1vmgldusuk63qq2m0.jpg?v=1745737566
+    Price: $18.99 USD
+- [Custom Photo Pocket Watch - Personalized Gift for Him](https://jewelryluxeus.shop/products/custom-photo-pocket-watch): Custom photo pocket watch - alloy, 37cm chain, personalized with your cherished photo. A unique & meaningful keepsake gift for him for any occasion.
+  Updated: 2026-11-13T15:39:37Z
+  Vendor: cmoffer
+  Product Type: 2022-11,Watches
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cdkr547uqhav33o9sevg.jpg?v=1745738139
+  Price: $39.00 USD
 - [Custom Name Pocket Watch - Engraved Gift for Him](https://jewelryluxeus.shop/products/custom-name-pocket-watch): Custom name pocket watch - alloy, 37cm chain, personalized engraving. A classic, meaningful keepsake gift for him for Father's Day, birthday & more.
   Updated: 2026-11-06T09:34:41Z
   Vendor: cmoffer
@@ -179,6 +232,79 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cdkr1ivuqhav33o9sea0.jpg?v=1745738177
   Price: $39.50 USD
+- [Custom Photo Heart Charm - Sterling Silver Gift](https://jewelryluxeus.shop/products/custom-photo-heart-charm): Custom photo heart charm in 925 sterling silver with crystal details - personalized with your photo. A beautiful keepsake gift for her for any occasion.
+  Updated: 2026-11-13T15:39:36Z
+  Vendor: cmoffer
+  Product Type: Memorial Jewelry Ideas to Remember Loved Ones,Charms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cdm7id7uqhav33o9t0d0.jpg?v=1745738208
+  Price: $40.99 USD
+- [Paw Shape Necklace - Personalized Pet Mom Gift](https://jewelryluxeus.shop/products/personalized-paw-print-necklace-mom): Personalized paw shape necklace in gold, rose gold or silver stainless steel - custom engraving, 45+5cm. A heartfelt Mother's Day & pet mom gift.
+  Updated: 2026-11-13T15:39:36Z
+  Vendor: cmoffer
+  Product Type: Mother's Day,2024-5,Engraved Necklaces
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cotn40oldusp1t73n7ag.jpg?v=1745738632
+  - [Gold / 1](https://jewelryluxeus.shop/products/personalized-paw-print-necklace-mom?variant=54726777733444)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cotn40oldusp1t73n7a0.jpg?v=1745738541
+    Price: $27.49 USD
+  - [Gold / 2](https://jewelryluxeus.shop/products/personalized-paw-print-necklace-mom?variant=54726777766212)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cotn430ldusp1t73n7d0.jpg?v=1745738546
+    Price: $28.99 USD
+  - [Gold / 3](https://jewelryluxeus.shop/products/personalized-paw-print-necklace-mom?variant=54726777798980)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cotn44oldusp1t73n7e0.jpg?v=1745738552
+    Price: $30.49 USD
+  - [Gold / 4](https://jewelryluxeus.shop/products/personalized-paw-print-necklace-mom?variant=54726777831748)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cotn468ldusp1t73n7f0.jpg?v=1745738557
+    Price: $31.99 USD
+  - [Gold / 5](https://jewelryluxeus.shop/products/personalized-paw-print-necklace-mom?variant=54726777864516)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cotn480ldusp1t73n7g0.jpg?v=1745738562
+    Price: $32.99 USD
+  - [Rose Gold / 1](https://jewelryluxeus.shop/products/personalized-paw-print-necklace-mom?variant=54726777897284)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cotn4a8ldusp1t73n7h0.jpg?v=1745738567
+    Price: $27.49 USD
+  - [Rose Gold / 2](https://jewelryluxeus.shop/products/personalized-paw-print-necklace-mom?variant=54726777930052)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cotn4c0ldusp1t73n7i0.jpg?v=1745738573
+    Price: $28.99 USD
+  - [Rose Gold / 3](https://jewelryluxeus.shop/products/personalized-paw-print-necklace-mom?variant=54726777962820)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cotn4doldusp1t73n7j0.jpg?v=1745738578
+    Price: $30.49 USD
+  - [Rose Gold / 4](https://jewelryluxeus.shop/products/personalized-paw-print-necklace-mom?variant=54726777995588)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cotn4fgldusp1t73n7k0.jpg?v=1745738583
+    Price: $31.99 USD
+  - [Rose Gold / 5](https://jewelryluxeus.shop/products/personalized-paw-print-necklace-mom?variant=54726778028356)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cotn4h8ldusp1t73n7l0.jpg?v=1745738589
+    Price: $32.99 USD
+  - [Steel / 1](https://jewelryluxeus.shop/products/personalized-paw-print-necklace-mom?variant=54726778061124)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cotn4j0ldusp1t73n7m0.jpg?v=1745738594
+    Price: $27.29 USD
+  - [Steel / 2](https://jewelryluxeus.shop/products/personalized-paw-print-necklace-mom?variant=54726778093892)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cotn4koldusp1t73n7n0.jpg?v=1745738599
+    Price: $27.99 USD
+  - [Steel / 3](https://jewelryluxeus.shop/products/personalized-paw-print-necklace-mom?variant=54726778126660)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cotn4mgldusp1t73n7o0.jpg?v=1745738604
+    Price: $29.49 USD
+  - [Steel / 4](https://jewelryluxeus.shop/products/personalized-paw-print-necklace-mom?variant=54726778159428)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cotn4o8ldusp1t73n7p0.jpg?v=1745738609
+    Price: $31.49 USD
+  - [Steel / 5](https://jewelryluxeus.shop/products/personalized-paw-print-necklace-mom?variant=54726778192196)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cotn4q0ldusp1t73n7q0.jpg?v=1745738615
+    Price: $32.99 USD
 - [Memorial Tag Necklace for Loss - Faith & Healing Gift](https://jewelryluxeus.shop/products/memorial-military-tag-necklace-loss): Find comfort with our Memorial Military Tag Necklace. A faith & healing gift for loss of a loved one. High-quality surgical steel, optional engraving. Shop now.
   Updated: 2026-11-06T09:34:41Z
   Vendor: ShineOn Fulfillment
@@ -712,7 +838,7 @@
     Availability: Available
     Price: $74.95 USD
 - [Heart Pendant Necklace for Eternal Love Gift](https://jewelryluxeus.shop/products/your-heart-stopped-but-my-love-for-you-did-not-heart-pendant-necklace-elegant-memorial-jewelry-gift-for-women-perfect-for-mothers-day-valentines-day-anniversary): Honor eternal love with this elegant heart pendant necklace, perfect for memorial gifts, Mother's Day, and special occasions.
-  Updated: 2026-11-06T09:34:49Z
+  Updated: 2026-11-09T10:52:29Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -950,6 +1076,81 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/NGXUJ8_6_1.jpg?v=1749046982
     Price: $68.00 USD
+- [Rainbow Bridge Heart Ornament - Personalized Pet Memorial](https://jewelryluxeus.shop/products/memorial-dog-cat-a-piece-of-my-heart-is-at-the-rainbow-bridge-personalized-heart-shaped-glass-ornament): Commemorate your pet's memory with a personalized heart-shaped glass ornament, A Piece Of My Heart Is At The Rainbow Bridge. Ideal for dog and cat lovers.
+  Updated: 2026-11-13T15:39:29Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/NA612-HEL1594-HG-MK2_ab6cd9c4-b741-4148-b7a1-b610cacc0855.webp?v=1749051331
+  Price: $22.60 USD
+- [Personalized 40oz Tumbler - To My Daughter Gift](https://jewelryluxeus.shop/products/to-my-daughter-whisper-back-i-am-the-storm-personalized-40oz-tumbler-with-straw): Empower your daughter with this personalized 40oz tumbler, inscribed with I Am The Storm. Comes with a straw for on-the-go ease. Perfect gift!
+  Updated: 2026-11-13T15:39:28Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/To-My-Daughter-Whisper-Back-I-Am-The-Storm-Personalized-40oz-Tumbler-With-Straw_5.jpg?v=1749051394
+  Price: $32.36 USD
+- [Personalized Kissing Couple Tumbler - Perfect Couples Gift](https://jewelryluxeus.shop/products/kissing-couple-best-thing-on-the-internet-gift-for-couples-personalized-tumbler): Kissing Couple Personalized Tumbler: The perfect gift for couples. Capture love with custom designs, making every sip a romantic moment!
+  Updated: 2026-11-13T15:39:28Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/KK691-CIN1920-Mockup-Default.jpg?v=1749051424
+  Price: $30.66 USD
+- [Custom Crystal Photo Keychain with Scannable Code Gift](https://jewelryluxeus.shop/products/personalised-keychains-crystal-picture-frame-scannable-code-keychain): Capture memories with our Personalized Crystal Photo Keychain featuring a scannable code. Perfect custom gift for couples & friends.
+  Updated: 2026-11-13T15:39:28Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/SKL046X04_cf2b8d26-5a5b-4869-bf61-9ff72f36b281-0.jpg?v=1749051520
+  Price: $18.36 USD
+- [Pet Memorial Glass Ornament – Personalized Keepsake](https://jewelryluxeus.shop/products/dog-cat-memorial-well-wait-and-play-at-the-rainbow-bridge-personalized-heart-shaped-glass-ornament): Cherish your pet's memory with our personalized glass ornament. A heartfelt tribute for pet lovers, offering comfort and elegance.
+  Updated: 2026-11-13T15:39:27Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/PT1429-HEL1800-MKDEF.webp?v=1749052029
+  Price: $22.60 USD
+- [Custom Baseball Cap - Favorite Players Design](https://jewelryluxeus.shop/products/my-favorite-baseball-players-personalized-classic-cap): Showcase your love for the game with our Personalized Classic Cap featuring your favorite baseball players. Perfect for fans who value style and loyalty.
+  Updated: 2026-11-13T15:39:25Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/TK277-CIN2441_MkWebs2_f1888f31-0cbb-4746-bb4f-2587982baaa9.webp?v=1749052555
+  Price: $24.96 USD
+- [Retired Legend Cap - Personalized Vintage Style Hat](https://jewelryluxeus.shop/products/the-legend-has-retired-vintage-personalized-classic-cap): Celebrate retirement in style with The Legend Has Retired Vintage Personalized Classic Cap. A perfect, timeless gift for the legends in your life!
+  Updated: 2026-11-13T15:39:25Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/AK1139-NAH3476-MK3-_-Woman.webp?v=1749052604
+  Price: $29.96 USD
+- [Travel Enthusiast Personalized Classic Cap - Custom Gift](https://jewelryluxeus.shop/products/just-a-girl-boy-loves-traveling-personalized-classic-cap): Discover the Just A Girl Boy Loves Traveling Personalized Classic Cap—ideal for travel enthusiasts, featuring a custom design to match your wanderlust!
+  Updated: 2026-11-13T15:39:24Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/NA440-HEL1232-CP-MK2.webp?v=1749052628
+  Price: $29.96 USD
+- [Custom Handprints Cap – Unique Father's Day Gift](https://jewelryluxeus.shop/products/grandpa-dad-kids-handprints-personalized-classic-cap): Gift your grandpa or dad a personalized classic cap with kids' handprints. Perfect for Father's Day or birthdays. Unique, heartfelt, and custom-made!
+  Updated: 2026-11-13T15:39:24Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/NN452-HEL1081-MK3.webp?v=1749052647
+  Price: $29.96 USD
+- [Grilling Plate Awesome BBQ - Personalized Plate](https://jewelryluxeus.shop/products/grilling-plate-awesome-bbq-personalized-plate): Elevate your dad's grilling game with our Personalized Plate. Crafted with high-quality materials, this plate is designed to withstand the heat of grilling and the fun of family gatherings. Customize it with cute characters that reflect your family to make it truly unique and meaningful.Ideal for Father's Day, birthdays, anniversaries, Christmas, or any special occasion, our product is a hilarious and heartfelt gift for fathers, grandpas, uncles, brothers, or any man who loves to grill. The adorable character and humorous message make it a delightful and joyful gift that children can proudly give to their dad or their special man.Whether it’s a backyard BBQ or a family picnic, this plate will become a cherished part of his grilling arsenal. Celebrate the awesome BBQ skills of the special men in your life with a Custom Plate that’s as unique and hilarious as they are. Make every grilling session a memorable and fun experience.Message: "Grilling Plate/BBQ Masterpieces/ Awesome BBQ".Description This is a personalized product with a customized design. High-quality material - Crafted from BPA-free plastic, this plate ensures safe and healthy food contact. It contains no melamine or formaldehyde, providing peace of mind for everyday use. The sturdy and lightweight construction makes it perfect for both meals and decorative purposes. Best technique - Our plates are printed using modern printing technology, delivering vibrancy. The detailed, long-lasting prints are resistant to fading, ensuring your custom design remains bright and beautiful. Versatile design - Uniquely designed to add a personal touch to your space, this plate doubles as a functional kitchen accessory and a stylish decorative piece. It’s perfect for displaying on tables, shelves, cabinets, or countertops to enhance your home's décor. Perfect gift idea - This product makes a memorable gift for various occasions like birthdays, anniversaries, Mother's Day, Father's Day, Christmas, etc. Personalize it to create a one-of-a-kind present. Care instructions: Hand wash with mild detergent, non-abrasive materials, and lukewarm water. Dry with a soft cloth to prevent damage. Avoid high heat, do not use it in the dishwasher to maintain print quality. Place a napkin between plates to avoid scratches. Package: 01 plate. The stand is optional. Features Material: BPA-Free plastic Printable area: 1 SIDE Sizes of plate:- 11 x 8 in (~27.9 x 20 cm).- 14 x 10 in (~35.3 x 25.3 cm). Size of stand: 6.89 x 6.3 inches (~ 17.5 x 16 cm) Please allow about 0.5 - 1 inch differences due to manual measurement.PERSONALIZATION: Please complete the fields required to customize options (Name/Characteristics) and recheck carefully all the customized options. Text: Standard English excluding special characters, emojis to ensure the best looking. Characteristics: Pick one-by-one options that match your description.
+  Updated: 2026-11-13T15:39:23Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/DT1163-NGO2301-MK3_a9ab5246-062a-4726-b438-8c05ab610c2d.webp?v=1749052840
+  - [Plate / 11x8in](https://jewelryluxeus.shop/products/grilling-plate-awesome-bbq-personalized-plate?variant=54971465662788)
+    Availability: Available
+    Price: $42.60 USD
+  - [Plate / 14x10in](https://jewelryluxeus.shop/products/grilling-plate-awesome-bbq-personalized-plate?variant=54971465695556)
+    Availability: Available
+    Price: $43.92 USD
 - [Loss Of Dog - Personalized Custom Pet Memorial Stone](https://jewelryluxeus.shop/products/loss-of-dog-personalized-custom-pet-memorial-stone): Memorial garden stone is the perfect keepsake to honor the memory of your loved one. This stone sits flat in a flower bed, garden or walkway, creating a special memorial.Product Details: Material: Hard slate stone Size: 6x6x0.3 in (15x15x0.8 cm) 8x8x0.3 in (20x20x0.8 cm) Weight: 400g for size 6 in and 750g for size 8 in. Feature: The printing is water resistant. Care instructions: To maintain stone's print quality, please follow these guidelines: Keep in cool dry place. Lay at a 45 degree angle. Hand wash only. Do not scrub/soak. Dry using soft cloth. Avoid chemical. Package: 1 stone (stand included)
   Updated: 2026-11-06T09:34:53Z
   Vendor: Inkedjoy
@@ -1004,6 +1205,151 @@
   - [Oval / Pack 5](https://jewelryluxeus.shop/products/a-piece-of-my-heart-memorial-personalized-memorial-garden-slate-hook-sympathy-gift-for-pet-owners-pet-lovers?variant=54971470807364)
     Availability: Available
     Price: $84.72 USD
+- [Home Is Where We Park It You And Me And The Dogs - Gift For Camping Lovers - Personalized Doormat Rug](https://jewelryluxeus.shop/products/home-is-where-we-park-it-you-and-me-and-the-dogs-gift-for-camping-lovers-personalized-doormat): Personalized Doormat is a great gift choice to your friend and family on any occasion: Christmas, Birthday, Valentine's Day, Father’s Day, Mother's Day, Anniversary or Graduation, etc.Message: "Home is where we park itYou & me and the dogs".Description: Rubber Base Doormat is made from luxurious plush velour and features a premium heat dye sublimation print for long-lasting color vibrancy. The underside is constructed from high-quality rubber for a non-slip grip and extra durability. Rugs arrive vacuumed sealed for protection during the shipping process – once opened rugs may take up to 24 hours to lay flat. We recommend a light vacuuming of the rug to assist in the settling process. Available in Size: M: 16 x 24 in L: 18 x 30 in Due to manual measurement, some difference is unavoidable. Please be tolerant!PERSONALIZATION: Please complete fields required to customize options (Name/Characteristics) and recheck carefully all the customized options. Text: Standard English excluding special characters, emojis to ensure the best looking. Characteristics: Pick one-by-one options that match your description.
+  Updated: 2026-11-13T15:39:23Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/HC050-NGO1503-Mk-Web2.jpg?v=1749052987
+  - [16x24in](https://jewelryluxeus.shop/products/home-is-where-we-park-it-you-and-me-and-the-dogs-gift-for-camping-lovers-personalized-doormat?variant=54971474018628)
+    Availability: Available
+    Price: $31.24 USD
+  - [18x30in](https://jewelryluxeus.shop/products/home-is-where-we-park-it-you-and-me-and-the-dogs-gift-for-camping-lovers-personalized-doormat?variant=54971474051396)
+    Availability: Available
+    Price: $38.74 USD
+- [Custom Couple Doormat: Personalized & Unique Gift](https://jewelryluxeus.shop/products/family-couple-a-lovely-lady-and-a-grumpy-old-man-live-here-couple-gift-personalized-custom-doormat): Welcome guests with a custom doormat. Perfect for couples, this personalized gift adds charm to any entryway. Ideal for all occasions.
+  Updated: 2026-11-13T15:39:22Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/doormat-size-home-decor_f07effde-059b-43bf-85a4-60334a489206.jpg?v=1749053105
+  - [16x24in](https://jewelryluxeus.shop/products/family-couple-a-lovely-lady-and-a-grumpy-old-man-live-here-couple-gift-personalized-custom-doormat?variant=54971481882948)
+    Availability: Available
+    Price: $31.24 USD
+  - [18x30in](https://jewelryluxeus.shop/products/family-couple-a-lovely-lady-and-a-grumpy-old-man-live-here-couple-gift-personalized-custom-doormat?variant=54971481915716)
+    Availability: Available
+    Price: $38.74 USD
+- [Please Be Mindful Of The Energy You Bring Into This Space - Birthday, Loving Gift For Yourself, Women, Yoga Lovers Rug - Personalized Doormat](https://jewelryluxeus.shop/products/please-be-mindful-of-the-energy-you-bring-into-this-space-birthday-loving-gift-for-yourself-women-yoga-lovers-personalized-doormat): Personalized Doormat is a great gift choice to your friend and family on any occasion: Christmas, Birthday, Valentine's Day, Father’s Day, Mother's Day, Anniversary or Graduation, etc.Message: "Please be mindful of the energy you bring into this spaceCheck yo energy before you come in my ...".Description: Rubber Base Doormat is made from luxurious plush velour and features a premium heat dye sublimation print for long-lasting color vibrancy. The underside is constructed from high-quality rubber for a non-slip grip and extra durability. Rugs arrive vacuumed sealed for protection during the shipping process – once opened rugs may take up to 24 hours to lay flat. We recommend a light vacuuming of the rug to assist in the settling process. Available in Size: M: 16 x 24 in L: 18 x 30 in Due to manual measurement, some difference is unavoidable. Please be tolerant!PERSONALIZATION: Please complete fields required to customize options (Name/Characteristics) and recheck carefully all the customized options. Text: Standard English excluding special characters, emojis to ensure the best looking. Characteristics: Pick one-by-one options that match your description.
+  Updated: 2026-11-13T15:39:22Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/HP092-HAL1425-Mockup-Default.jpg?v=1749053125
+  - [16x24in](https://jewelryluxeus.shop/products/please-be-mindful-of-the-energy-you-bring-into-this-space-birthday-loving-gift-for-yourself-women-yoga-lovers-personalized-doormat?variant=54971482145092)
+    Availability: Available
+    Price: $31.24 USD
+  - [18x30in](https://jewelryluxeus.shop/products/please-be-mindful-of-the-energy-you-bring-into-this-space-birthday-loving-gift-for-yourself-women-yoga-lovers-personalized-doormat?variant=54971482177860)
+    Availability: Available
+    Price: $38.74 USD
+- [Friendship Thank You I Laugh More Cry Less - Personalized Jewelry Dish](https://jewelryluxeus.shop/products/friendship-thank-you-i-laugh-more-cry-less-personalized-jewelry-dish): This personalized friendship jewelry dish is a heartfelt gift for your best friend, BFF, or soul sisters! It features a delicate design perfect for holding rings, earrings, or other small treasures. You can personalize every detail of the dish to make it extra special for your group. It's ideal for friends who appreciate thoughtful gestures and stylish accessories.Adorned with a heartfelt message, this jewelry dish is an ideal gift for your best friend on birthdays, holidays, or just to show appreciation. The customizable touch adds a unique flair, making it truly special. Whether for storing precious jewelry or displaying trinkets, this personalized friendship jewelry dish embodies the essence of companionship and is a thoughtful Christmas or Xmas gift for the women who light up your life.This personalized dish is designed for easy organization and comes with holiday-themed accents, making it the perfect gift for daughters, moms, friends, sisters, daughter-in-law, coworkers, and even your boss. Give the heartwarming gift of holiday cheer to the special women and girls in your life. Whether it's for storing accessories or adding a festive touch to their décor, this jewelry dish adds an enchanting touch to the holiday season.MESSAGE: Because of You, I Laugh a Little Harder Cry a Little Less and Smile a Lot More.Thank You for Being My Unbiological Sister.PRODUCT DETAILS: Material: Made of high-quality glazed ceramic. The edge of the plate is hand-painted gold threads. Printed on the surface of the jewelry dish using permanent premium vinyl. It is not easy to peel or fall off. Size: 4.02"x4.02" X1" (~10.2 x 10.2 x 2.5 cm). Jewelry type: Rings, earrings, small jewelry. Hand washing is always recommended.
+  Updated: 2026-11-13T15:39:22Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Friendship-Thank-You-I-Laugh-More-Cry-Less-Personalized-Jewelry-Dish-3.jpg?v=1749053213
+  Price: $29.10 USD
+- [To My Daughters Never Forget I Love You Personalized Acrylic Ornament – Sentimental Gift](https://jewelryluxeus.shop/products/personalized-acrylic-ornament-to-my-daughters-never-forget-that-i-love-you-forever): Personalized acrylic ornament for daughters with heartfelt love message. Fade-resistant, clear acrylic. A meaningful birthday, Christmas or graduation gift from parents.
+  Updated: 2026-11-13T15:39:19Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/To-My-Daughters-Never-Forget-That-I-Love-You-Forever-Personalized-Acrylic-Ornament_1.jpg?v=1749053455
+  - [4.25 x 3 inches](https://jewelryluxeus.shop/products/personalized-acrylic-ornament-to-my-daughters-never-forget-that-i-love-you-forever?variant=54971505738052)
+    Availability: Available
+    Price: $21.24 USD
+  - [5.25 x 3.7 inches](https://jewelryluxeus.shop/products/personalized-acrylic-ornament-to-my-daughters-never-forget-that-i-love-you-forever?variant=54971505770820)
+    Availability: Available
+    Price: $21.24 USD
+  - [6.25 x 4.4 inches](https://jewelryluxeus.shop/products/personalized-acrylic-ornament-to-my-daughters-never-forget-that-i-love-you-forever?variant=54971505803588)
+    Availability: Available
+    Price: $21.24 USD
+- [Personalized Christmas Ornaments I'm Always With You](https://jewelryluxeus.shop/products/christmas-ornaments-im-always-with-you-personalized-ceramic-ornament): Honor cherished memories with our personalized ceramic Christmas ornaments, featuring names, photos, and heartfelt messages to keep loved ones close.
+  Updated: 2026-11-13T15:39:19Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas-Ornaments-Im-Always-With-You-Personalized-Ceramic-Ornament_2_8b7a4f82-97ac-4132-9abe-d2d814d24518.jpg?v=1749053482
+  Price: $19.78 USD
+- [I Miss You Memorial Dog Cat - Personalized Heart Shaped Glass Ornament](https://jewelryluxeus.shop/products/i-miss-you-memorial-dog-cat-personalized-heart-shaped-glass-ornament): Dogs are not our whole life, but they make our lives whole.Honor the memory of your cherished pet with the I Miss You Memorial Dog Cat - Personalized Heart-Shaped Glass Ornament. This heartfelt and unique ornament is ideal for Cat Lovers, Dog Lovers, Cat Moms, Cat Dads, Dog Moms, and Dog Dads. Featuring a custom name, it offers a meaningful tribute to beloved pets during special occasions such as Christmas, Thanksgiving, Mother's Day, Father's Day, birthdays, and anniversaries.Designed to be displayed on the Christmas tree, hung in a window, or used as a decorative piece in any room, this Personalized Heart Shaped Glass Ornament adds a thoughtful touch to your home decor. The elegant glass design beautifully captures and reflects light, casting a gentle, comforting glow that serves as a soothing reminder of your pet's presence.This memorable ornament is a perfect way to honor and remember your pet, offering solace and a tangible symbol of enduring love. It provides both emotional comfort and a heartfelt tribute, making it a meaningful keepsake during times of bereavement and sympathy.Message: "I miss youI still talk about youI still miss the sound of your pawsI miss you more each dayWe miss youWe still talk about youWe still miss the sound of your pawsWe miss you more each dayI knowI woof you so muchI'm always with youI'll be waiting for you at the rainbow bridgeWe knowWe woof you so muchWe're always with youWe'll be waiting for you at the rainbow bridge".Description This is a personalized product with a customized design. High-quality material - Made of thick clear glass, a solid piece with beveled edges. It has a nice weight and smooth surface.  durability and sophisticated elegance, you can use it for a long time. Best technique - The high-quality UV printing technology provides bright and crisp colors. The design might appear slightly transparent on the final product. Easy to hang - The top of the ornament is perforated, its lightweight and compact size makes it simple to hang on Christmas trees, wreaths, and windows or display it as home decoration wherever you like. The versatile design fits seamlessly into any arrangement, allowing for quick and easy updates to your festive decor. Versatile decor - Whether you're setting up for a holiday party or a cozy family gathering, this ornament adds instant charm with minimal effort. Its elegant design makes it suitable for Christmas, winter events, or seasonal home decor. Care instructions: Do not drop the ornament from a height or hit it against hard, sharp objects. Use a soft, dry cloth to wipe the surface before use to remove fingerprints. Package: 01 glass ornament and rope included for hanging. Features Material: Glass Printable area: 1 SIDE Thickness: 0.24 inches (~ 0.06 cm) Size: 3.15 x 2.95 inches (~ 8 x 7.5 cm) Please allow about 0.5 - 1 inch differences due to manual measurement.PERSONALIZATION Please complete the fields required to customize options (Name/Characteristics) and recheck carefully all the customized options. Text: Standard English excluding special characters, and emojis to ensure the best looking. Characteristics: Pick one-by-one options that match your description. In the last step, click "Preview" to get a glimpse of the wonderful creation you’ve made ❤️. Please be aware that the Preview may be slightly different from the physical item in terms of color due to our lighting at our product photoshoot or your device’s display.
+  Updated: 2026-11-13T15:39:19Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/YN648-NAH3805-MkDefault.webp?v=1749053520
+  Price: $21.46 USD
+- [Monogram Family Name - Personalized Doormat](https://jewelryluxeus.shop/products/monogram-family-name-personalized-doormat): Family is not an important thing, it’s everything.Welcome guests with warmth and style using the Monogram Family Name - Personalized Doormat. This unique doormat features a personalized monogram and family name, making it an excellent way to showcase your family pride while adding a meaningful touch to your home. It’s the perfect addition to any front porch, entryway, or even a back door, ensuring your guests feel warmth and happiness from the moment they arrive.Crafted for durability and designed to impress, this awesome doormat is both practical and decorative. It’s great for gifting on any occasion such as Christmas, Mother's Day, Father's Day, Thanksgiving, birthdays, anniversaries, or family celebrations. Whether you’re updating your own home or giving it as a thoughtful gift, this doormat will be appreciated by anyone who values both style and function.Add a joyful, personal touch to your doorstep with this delightful family monogram doormat - an inviting way to make any house feel more like a home.Description This is a personalized product with a customized design. Rubber Base Doormat is made from luxurious plush velour and features a premium heat dye sublimation print for long-lasting color vibrancy. The underside is constructed from high-quality rubber for a non-slip grip and extra durability. Rugs arrive vacuumed sealed for protection during the shipping process – once opened rugs may take up to 24 hours to lay flat. We recommend a light vacuuming of the rug to assist in the settling process. Available in Size: M: 16 x 24 in L: 18 x 30 in Due to manual measurement, some difference is unavoidable. Please be tolerant!PERSONALIZATION Please complete fields required to customize options (Name/Characteristics) and recheck carefully all the customized options. Text: Standard English excluding special characters, emojis to ensure the best looking. Characteristics: Pick one-by-one options that match your description.
+  Updated: 2026-11-13T15:39:18Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/QD372-HEL1827-MOCKUP-WEB1.webp?v=1749053562
+  - [16x24in](https://jewelryluxeus.shop/products/monogram-family-name-personalized-doormat?variant=54971508359492)
+    Availability: Available
+    Price: $31.24 USD
+  - [18x30in](https://jewelryluxeus.shop/products/monogram-family-name-personalized-doormat?variant=54971508392260)
+    Availability: Available
+    Price: $38.74 USD
+- [I Wined A Lot - Personalized Stemless Wine Glass](https://jewelryluxeus.shop/products/i-wined-a-lot-personalized-stemless-wine-glass): The future belongs to those who believe in the beauty of their dreams.Celebrate your milestones with the I Wined A Lot - Personalized Stemless Wine Glass—a unique, cool, and hilarious way to toast to graduation, promotions, or any occasion where a little "wine-ing" was involved!This funny and gag-worthy stemless wine glass is perfect for unwinding after a long day, sharing laughs with friends, or as a conversation starter at parties. Whether you prefer red, white, or rosé, this joke-worthy and delightful glass is a must-have for wine lovers.Looking for a fun and thoughtful graduation gift? This personalized wine glass makes a perfect present for college grads, wine enthusiasts, and anyone who loves a good laugh. Customize it with a name for a memorable and relatable keepsake that will make every sip extra special!Message: "I wined a lot but I mastered it!".Description This is a personalized product with a customized design. High-quality material - Our stemless wine glass is crafted from high-quality glass, ensuring durability, a refined appearance, and clarity. Its sturdy construction and clean, polished look, make it a perfect addition to any glassware collection. Best technique - The product is printed in modern technology, durable, and vivid color. Perfect design - Elegantly designed with a balanced weight and a rim crafted for a smooth finish, this glass enhances the sensory experience, inviting you to savor the bouquet and body of your finest wines. Our wine glass's transparent glass allows the true color of your beverages to shine through. Interesting multi-function - Our glass is suitable for a range of beverages and occasions, from casual dining to elegant soirees. Simultaneously, this versatile product is also perfect for decorating your home, bedroom, or living room. Ideal as a special gift for anniversaries, weddings, memorials, Christmas, Mother's Day, Father's Day, and more. Care instruction: Hand wash only. Don't use it with a dishwasher or microwave. No soak in water (both hot and cold water). Avoid exceeding temperature. Do not rub hard. Package: 01 stemless wine glass. Features Material: Glass Printable area: 2 SIDES Size:- Capacity: 15oz- Height: 4.25 inches (~ 10.8 cm) Please allow about 0.5 - 1 inch differences due to manual measurement.PERSONALIZATION Please complete the fields required to customize options (Name/Characteristics) and recheck all the customized options carefully. Text: Standard English excluding special characters, and emojis to ensure the best looking. Characteristics: Pick one-by-one options that match your description. In the last step, click "Preview" to get a glimpse of the wonderful creation you’ve made ❤️. Please be aware that the Preview may be slightly different from the physical item in terms of color due to our lighting at our product photoshoot or your device’s display.
+  Updated: 2026-11-13T15:39:17Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/QD478-NGO3198-MOCKUP-WEB1_de9d4012-5f24-438f-a7f0-c0cb5e5fdaff.webp?v=1749053707
+  Price: $31.44 USD
+- [Personalized Engraved Whiskey Glass For Dad's Special Moments](https://jewelryluxeus.shop/products/congrats-on-being-my-dad-from-the-reason-you-drink-personalized-engraved-whiskey-glass): Celebrate Dad with a personalized engraved whiskey glass that combines humor and elegance, perfect for any occasion and cherished memories.
+  Updated: 2026-11-13T15:39:17Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/AH677-HAL2280-Mockup-1.webp?v=1749053758
+  Price: $26.56 USD
+- [Hangovers Are Temporary But Drunk Stories Are Forever Vacation Best Friends - Bestie BFF Gift - Personalized Custom Wine Tumbler](https://jewelryluxeus.shop/products/hangovers-are-temporary-but-drunk-stories-are-forever-vacation-best-friends-bestie-bff-gift-personalized-custom-wine-tumbler): Personalized Wine Tumbler is a great gift choice to your friend and family on any occasion: Christmas, Birthday, Valentine's Day, Father’s Day, Mother's Day, Anniversary or Graduation, v.v...Take a happy hour on the go. This 12oz wine tumbler conveniently reduces spills and prevents insects or dust from ruining your drink. Whether you're sipping hot cocoa, drinking chilled wine, or enjoying cocktails poolside. The shatterproof wine tumbler keeps your drink at the perfect temperature. Lifetime Guarantee & BPA free Great for both hot & cold liquids Measures about 4.33” tall. The base of the tumbler measures about 2.55" in diameter. The acrylic lid measures about 3.14” in diameter. Only for hand wash Available in 12 Oz Double-walled Stainless Steel Tumbler PERSONALIZATION: Please complete fields required to customize options (Name/Characteristics) and recheck carefully all the customized options. Text: Standard English excluding special characters, emojis to ensure the best looking. Characteristics: Pick one-by-one options that match your description.
+  Updated: 2026-11-13T15:39:17Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/BD661-NAH1597-Default.jpg?v=1749053803
+  Price: $31.20 USD
+- [A Woman Cannot Survive On Wine Alone Dog Mom Dog Dad - Personalized Stemless Wine Glass](https://jewelryluxeus.shop/products/a-woman-cannot-survive-on-wine-alone-dog-mom-dog-dad-personalized-stemless-wine-glass): Celebrate being a pet parent with our personalized stemless wine glass, perfect for dog moms and dads who love wine and their furry companions.
+  Updated: 2026-11-13T15:39:16Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/BD1423-NAH4293-Mk1.webp?v=1749053856
+  Price: $31.34 USD
+- [Couple Personalized Tumbler Hotter Than Coffee Gift](https://jewelryluxeus.shop/products/couple-after-years-hotter-than-this-coffee-gift-for-couples-personalized-tumbler): Celebrate love with our personalized tumbler, perfect for any occasion, featuring "After... years, you're still hotter than this coffee."
+  Updated: 2026-11-13T15:39:16Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/MN839-CIN1562-Mk3.jpg?v=1749053892
+  Price: $30.66 USD
+- [Personalized Dog Mom Stemless Wine Glass Gift](https://jewelryluxeus.shop/products/a-woman-cannot-survive-on-wine-alone-dog-mom-personalized-stemless-wine-glass): Celebrate your love for dogs and wine with this personalized stemless wine glass, perfect for dog moms and a thoughtful gift for any occasion.
+  Updated: 2026-11-13T15:39:15Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/AK1423-NAH4243-Mockup-Default_8aba6af0-84bb-4c5c-9a01-7949c6d22498.webp?v=1749054015
+  Price: $31.34 USD
+- [Daddy Grilling Plate: Personalized Fire Cartoon Gift](https://jewelryluxeus.shop/products/daddy-grilling-plate-fire-cartoon-personalized-plate): Elevate Dad's grill game with our personalized plate. Unique fire cartoon design, perfect for any grillmaster occasion.
+  Updated: 2026-11-13T15:39:14Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/HC370-NGO2325-MK-WEB1.webp?v=1749054614
+  - [11x8in](https://jewelryluxeus.shop/products/daddy-grilling-plate-fire-cartoon-personalized-plate?variant=54971565048132)
+    Availability: Available
+    Price: $39.12 USD
+  - [14x10in](https://jewelryluxeus.shop/products/daddy-grilling-plate-fire-cartoon-personalized-plate?variant=54971565080900)
+    Availability: Available
+    Price: $39.54 USD
+- [Custom Photo Floral Heart Glass Ornament - JewelryLuxeUS](https://jewelryluxeus.shop/products/custom-photo-floral-forever-in-our-hearts-personalized-heart-shaped-glass-ornament): Capture love with our personalized heart glass ornament. Perfect for commemorating cherished memories. Order your unique keepsake today!
+  Updated: 2026-11-13T15:39:13Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/TT1119-NEL2709-mk1.webp?v=1749054697
+  Price: $16.46 USD
 - [To my Soulmate 3D Bar Necklace](https://jewelryluxeus.shop/products/to-my-soulmate-3d-bar-necklace): Specifications: Necklace Size: 50+5cm (20+ 2 inches) Pendant Size: 5x40mm (0.2x1.57 inches) Material: Stainless Steel, 18k Gold plated, or 18k Rose Gold plated Personalization Technique: Laser engraving Customizable: Can be engraved on 2 sides Ready to Ship This personalized item will be ready to ship within 2-5 business days.
   Updated: 2026-11-06T09:34:55Z
   Vendor: OwnPrint
@@ -1524,6 +1870,24 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_130_transformation_343_7aac0fa3-4bb0-42b2-8850-ad69f4f72d84.png?v=1750151279
     Price: $74.95 USD
+- [Reusable Daisy Cloth Napkins – Soft Floral Polyester Table Linens for Weddings, Parties, and Everyday Dining](https://jewelryluxeus.shop/products/reusable-daisy-cloth-napkins-soft-floral-polyester-table-linens-for-weddings-parties-and-everyday-dining): Material: High-quality polyesterAdd elegance and functionality to your table with these beautifully crafted reusable daisy cloth napkins. Made from premium polyester, these napkins are soft, absorbent, quick-drying, and built to last. The wide hems, neat seams, and finely stitched edges provide a polished look perfect for both everyday meals and special events.The elastic, durable fabric resists fading and tearing, while its elegant texture allows you to fold each napkin into delicate, stylish shapes—ideal for creating a luxurious dining experience.Perfect For:Home kitchens and everyday diningWeddings, parties, and banquetsChristmas gatherings and holiday eventsHotels, restaurants, and business occasionsEasy Care Instructions: Our polyester napkins are machine and hand washable for easy cleaning. For a crisp finish, light ironing is recommended. They maintain their color and structure without fading or tearing over time.
+  Updated: 2026-11-13T15:39:08Z
+  Vendor: Printdoors
+  Product Type: Napkins
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/99H6SS_6_1.jpg?v=1750235349
+  - [White / 2PCS](https://jewelryluxeus.shop/products/reusable-daisy-cloth-napkins-soft-floral-polyester-table-linens-for-weddings-parties-and-everyday-dining?variant=55075645489476)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/99H6SS_6_1.jpg?v=1750235349
+    Price: $24.50 USD
+  - [White / 4PCS](https://jewelryluxeus.shop/products/reusable-daisy-cloth-napkins-soft-floral-polyester-table-linens-for-weddings-parties-and-everyday-dining?variant=55075645522244)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/99H6SS_6_1.jpg?v=1750235349
+    Price: $36.78 USD
+  - [White / 6PCS](https://jewelryluxeus.shop/products/reusable-daisy-cloth-napkins-soft-floral-polyester-table-linens-for-weddings-parties-and-everyday-dining?variant=55075645555012)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/99H6SS_6_1.jpg?v=1750235349
+    Price: $46.80 USD
 - [Personalized Ceramic Square Plates | Custom Wedding & Dinner Gift | JewelryLuxeUS](https://jewelryluxeus.shop/products/ceramic-square-plates-weddings-day-appetizers-personalized-dinner-decor-romantic-custom-plates-table-setting-gift-2): Custom engraved ceramic square plates for weddings, anniversaries & housewarmings. Microwave & dishwasher safe. Available in sets of 1, 2, or 4.
   Updated: 2026-11-06T09:35:01Z
   Vendor: JewelryLuxeUS.Shop
@@ -1560,6 +1924,122 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/1739003376-1-NqzO6tWQeq.jpg?v=1750274119
     Price: $53.18 USD
+- [Rustic Daisy Canvas Wall Art – Country Floral Home Decor Gift](https://jewelryluxeus.shop/products/rustic-daisy-canvas-wall-art-for-bedroom-or-living-room-country-style-floral-home-decor-gift): Rustic daisy canvas wall art. Vibrant, fade-resistant, ready to hang. Country style floral decor for bedrooms and living rooms. A perfect housewarming gift.
+  Updated: 2026-11-13T15:39:07Z
+  Vendor: Printdoors
+  Product Type: Decorative painting
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/DC9FOD_6_1.jpg?v=1750274556
+  - [White / 8x12 Inch](https://jewelryluxeus.shop/products/rustic-daisy-canvas-wall-art-for-bedroom-or-living-room-country-style-floral-home-decor-gift?variant=55079620936004)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/DC9FOD_6_1.jpg?v=1750274556
+    Price: $264.75 USD
+  - [White / 12x18 Inch](https://jewelryluxeus.shop/products/rustic-daisy-canvas-wall-art-for-bedroom-or-living-room-country-style-floral-home-decor-gift?variant=55079620968772)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/DC9FOD_6_1.jpg?v=1750274556
+    Price: $317.50 USD
+  - [White / 20x30 Inch](https://jewelryluxeus.shop/products/rustic-daisy-canvas-wall-art-for-bedroom-or-living-room-country-style-floral-home-decor-gift?variant=55079621001540)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/DC9FOD_6_1.jpg?v=1750274556
+    Price: $632.38 USD
+  - [White / 24x36Inch](https://jewelryluxeus.shop/products/rustic-daisy-canvas-wall-art-for-bedroom-or-living-room-country-style-floral-home-decor-gift?variant=55079621034308)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/DC9FOD_6_1.jpg?v=1750274556
+    Price: $745.63 USD
+  - [White / 16x24 Inch](https://jewelryluxeus.shop/products/rustic-daisy-canvas-wall-art-for-bedroom-or-living-room-country-style-floral-home-decor-gift?variant=55079621067076)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/DC9FOD_6_1.jpg?v=1750274556
+    Price: $409.62 USD
+- [Sunflower Canvas Wall Art – Rustic Floral Home Decor](https://jewelryluxeus.shop/products/sunflower-canvas-wall-art-for-living-room-bedroom-or-kitchen-rustic-floral-home-decor): Sunflower canvas wall art. Vibrant, fade-resistant, ready to hang. Rustic floral decor for living rooms, bedrooms and kitchens. A perfect housewarming gift.
+  Updated: 2026-11-13T15:39:07Z
+  Vendor: Printdoors
+  Product Type: Decorative painting
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/QXFNNZ_6_1.jpg?v=1750274775
+  - [White / 8x12 Inch](https://jewelryluxeus.shop/products/sunflower-canvas-wall-art-for-living-room-bedroom-or-kitchen-rustic-floral-home-decor?variant=55079640367428)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/QXFNNZ_6_1.jpg?v=1750274775
+    Price: $52.95 USD
+  - [White / 12x18 Inch](https://jewelryluxeus.shop/products/sunflower-canvas-wall-art-for-living-room-bedroom-or-kitchen-rustic-floral-home-decor?variant=55079640400196)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/QXFNNZ_6_1.jpg?v=1750274775
+    Price: $63.50 USD
+  - [White / 20x30 Inch](https://jewelryluxeus.shop/products/sunflower-canvas-wall-art-for-living-room-bedroom-or-kitchen-rustic-floral-home-decor?variant=55079640432964)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/QXFNNZ_6_1.jpg?v=1750274775
+    Price: $126.48 USD
+  - [White / 24x36Inch](https://jewelryluxeus.shop/products/sunflower-canvas-wall-art-for-living-room-bedroom-or-kitchen-rustic-floral-home-decor?variant=55079640465732)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/QXFNNZ_6_1.jpg?v=1750274775
+    Price: $149.12 USD
+  - [White / 16x24 Inch](https://jewelryluxeus.shop/products/sunflower-canvas-wall-art-for-living-room-bedroom-or-kitchen-rustic-floral-home-decor?variant=55079640498500)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/QXFNNZ_6_1.jpg?v=1750274775
+    Price: $81.92 USD
+- [Custom Photo Canvas Wall Art – Personalized Memory Print Gift](https://jewelryluxeus.shop/products/custom-photo-canvas-wall-art-personalized-memory-print-with-frame-wedding-family-pet-gift-decor-for-living-room-bedroom-office): Custom photo canvas wall art with frame. Personalized, fade-resistant, ready to hang. A beautiful memory print for weddings, families, pets and anniversaries.
+  Updated: 2026-11-13T15:39:07Z
+  Vendor: Printdoors
+  Product Type: Decorative painting
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/UJFQZX_6_1.jpg?v=1750274902
+  - [White / 8x12 Inch](https://jewelryluxeus.shop/products/custom-photo-canvas-wall-art-personalized-memory-print-with-frame-wedding-family-pet-gift-decor-for-living-room-bedroom-office?variant=55079648395588)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/UJFQZX_6_1.jpg?v=1750274902
+    Price: $52.95 USD
+  - [White / 12x18 Inch](https://jewelryluxeus.shop/products/custom-photo-canvas-wall-art-personalized-memory-print-with-frame-wedding-family-pet-gift-decor-for-living-room-bedroom-office?variant=55079648428356)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/UJFQZX_6_1.jpg?v=1750274902
+    Price: $63.50 USD
+  - [White / 20x30 Inch](https://jewelryluxeus.shop/products/custom-photo-canvas-wall-art-personalized-memory-print-with-frame-wedding-family-pet-gift-decor-for-living-room-bedroom-office?variant=55079648461124)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/UJFQZX_6_1.jpg?v=1750274902
+    Price: $126.48 USD
+  - [White / 24x36Inch](https://jewelryluxeus.shop/products/custom-photo-canvas-wall-art-personalized-memory-print-with-frame-wedding-family-pet-gift-decor-for-living-room-bedroom-office?variant=55079648493892)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/UJFQZX_6_1.jpg?v=1750274902
+    Price: $149.12 USD
+  - [White / 16x24 Inch](https://jewelryluxeus.shop/products/custom-photo-canvas-wall-art-personalized-memory-print-with-frame-wedding-family-pet-gift-decor-for-living-room-bedroom-office?variant=55079648526660)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/UJFQZX_6_1.jpg?v=1750274902
+    Price: $81.92 USD
+- [Framed Canvas: Amazing Grace Christian Art](https://jewelryluxeus.shop/products/framed-canvas-i-still-believe-in-amazing-grace-religious-wall-art-christian-home-decor-church-decor-inspirational-gift): Enhance your home with this exclusive floating canvas. Easy to hang, high-quality pine frame. Perfect for inspiring Christian decor.
+  Updated: 2026-11-13T15:39:06Z
+  Vendor: JewelryLuxeUS.store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/framed-canvas-_in_-black-20x30-front-6853d29830d48.jpg?v=1750323871
+  - [Black / 11″×14″](https://jewelryluxeus.shop/products/framed-canvas-i-still-believe-in-amazing-grace-religious-wall-art-christian-home-decor-church-decor-inspirational-gift?variant=55084994265412)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/framed-canvas-_in_-black-11x14-front-6853d29831e8e.jpg?v=1750323872
+    Price: $60.00 USD
+  - [Black / 12″×18″](https://jewelryluxeus.shop/products/framed-canvas-i-still-believe-in-amazing-grace-religious-wall-art-christian-home-decor-church-decor-inspirational-gift?variant=55084994298180)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/framed-canvas-_in_-black-12x18-front-6853d29831f0a.jpg?v=1750323872
+    Price: $68.50 USD
+  - [Black / 18″×24″](https://jewelryluxeus.shop/products/framed-canvas-i-still-believe-in-amazing-grace-religious-wall-art-christian-home-decor-church-decor-inspirational-gift?variant=55084994330948)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/framed-canvas-_in_-black-18x24-front-6853d29831f67.jpg?v=1750323871
+    Price: $119.50 USD
+  - [Black / 20″×30″](https://jewelryluxeus.shop/products/framed-canvas-i-still-believe-in-amazing-grace-religious-wall-art-christian-home-decor-church-decor-inspirational-gift?variant=55084994363716)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/framed-canvas-_in_-black-20x30-front-6853d29830d48.jpg?v=1750323871
+    Price: $147.00 USD
+  - [White / 11″×14″](https://jewelryluxeus.shop/products/framed-canvas-i-still-believe-in-amazing-grace-religious-wall-art-christian-home-decor-church-decor-inspirational-gift?variant=55084994396484)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/framed-canvas-_in_-white-11x14-front-6853d29831ffc.jpg?v=1750323871
+    Price: $60.00 USD
+  - [White / 12″×18″](https://jewelryluxeus.shop/products/framed-canvas-i-still-believe-in-amazing-grace-religious-wall-art-christian-home-decor-church-decor-inspirational-gift?variant=55084994429252)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/framed-canvas-_in_-white-12x18-front-6853d29832087.jpg?v=1750323871
+    Price: $68.50 USD
+  - [White / 18″×24″](https://jewelryluxeus.shop/products/framed-canvas-i-still-believe-in-amazing-grace-religious-wall-art-christian-home-decor-church-decor-inspirational-gift?variant=55084994462020)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/framed-canvas-_in_-white-18x24-front-6853d29832136.jpg?v=1750323872
+    Price: $119.50 USD
+  - [White / 20″×30″](https://jewelryluxeus.shop/products/framed-canvas-i-still-believe-in-amazing-grace-religious-wall-art-christian-home-decor-church-decor-inspirational-gift?variant=55084994494788)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/framed-canvas-_in_-white-20x30-front-6853d298321c2.jpg?v=1750323872
+    Price: $147.00 USD
 - [Elegant Damask Wooden Music Box – Vintage Gift for Her](https://jewelryluxeus.shop/products/elegant-damask-pattern-wooden-music-box-gift-vintage-style-decorative-keepsake-for-her): Elegant damask wooden music box — hand-crank, 6×5.5×4.5cm, natural wood, no batteries. A beautiful vintage keepsake gift for her.
   Updated: 2026-11-06T09:35:01Z
   Vendor: popcustoms
@@ -1594,6 +2074,148 @@
   - [Luxury Necklace (Gold) / Yes](https://jewelryluxeus.shop/products/heart-necklace-butterfly-tears-memorial-jewelryphoto-personalized-i-hide-my-tears-pendant-boho-style-eye-necklace-for-grief-gift-for-her-gift-for-widow?variant=55093370880324)
     Availability: Available
     Price: $74.95 USD
+- [Hibiscus Flower Cloth Napkins – Reusable Elegant Polyester Table Linens](https://jewelryluxeus.shop/products/hibiscus-flower-cloth-napkins-reusable-floral-table-linens-for-tropical-decor-weddings-and-everyday-dining): Add tropical elegance to your table with reusable hibiscus flower napkins. Soft, durable polyester. Perfect for weddings, parties, and everyday dining.
+  Updated: 2026-11-13T15:39:05Z
+  Vendor: Printdoors
+  Product Type: Napkins
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9RKT43_6_1.jpg?v=1750515058
+  - [White / 2PCS](https://jewelryluxeus.shop/products/hibiscus-flower-cloth-napkins-reusable-floral-table-linens-for-tropical-decor-weddings-and-everyday-dining?variant=55101773152580)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9RKT43_6_1.jpg?v=1750515058
+    Price: $24.50 USD
+  - [White / 4PCS](https://jewelryluxeus.shop/products/hibiscus-flower-cloth-napkins-reusable-floral-table-linens-for-tropical-decor-weddings-and-everyday-dining?variant=55101773185348)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9RKT43_6_1.jpg?v=1750515058
+    Price: $36.78 USD
+  - [White / 6PCS](https://jewelryluxeus.shop/products/hibiscus-flower-cloth-napkins-reusable-floral-table-linens-for-tropical-decor-weddings-and-everyday-dining?variant=55101773218116)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9RKT43_6_1.jpg?v=1750515058
+    Price: $46.80 USD
+- [Memorial Canvas Wall Art – In Loving Memory Hydrangea Quote Print](https://jewelryluxeus.shop/products/because-someone-13): Honor a loved one with this beautiful memorial canvas featuring a heartfelt quote and hydrangea floral. A lasting tribute and thoughtful sympathy gift.
+  Updated: 2026-11-13T15:39:05Z
+  Vendor: Printdoors
+  Product Type: Decorative painting
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/K7ZJ2J_6_1.jpg?v=1750515343
+  - [White / 8x12 Inch](https://jewelryluxeus.shop/products/because-someone-13?variant=55101801824580)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/K7ZJ2J_6_1.jpg?v=1750515343
+    Price: $52.95 USD
+  - [White / 12x18 Inch](https://jewelryluxeus.shop/products/because-someone-13?variant=55101801857348)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/K7ZJ2J_6_1.jpg?v=1750515343
+    Price: $63.50 USD
+  - [White / 20x30 Inch](https://jewelryluxeus.shop/products/because-someone-13?variant=55101801890116)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/K7ZJ2J_6_1.jpg?v=1750515343
+    Price: $126.48 USD
+  - [White / 24x36Inch](https://jewelryluxeus.shop/products/because-someone-13?variant=55101801922884)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/K7ZJ2J_6_1.jpg?v=1750515343
+    Price: $149.12 USD
+  - [White / 16x24 Inch](https://jewelryluxeus.shop/products/because-someone-13?variant=55101801955652)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/K7ZJ2J_6_1.jpg?v=1750515343
+    Price: $81.92 USD
+- [Because Someone Wall Art - Unique Design Decor](https://jewelryluxeus.shop/products/because-someone-12): Elevate your space with unique, waterproof wall art that’s perfect for gifting and enhances any room’s charm and coziness.
+  Updated: 2026-11-13T15:39:04Z
+  Vendor: Printdoors
+  Product Type: Decorative painting
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Y5OFJD_6_1_6cde02f3-411c-4c2b-8b33-856b7cc13b92.jpg?v=1750515508
+  - [White / 8x12 Inch](https://jewelryluxeus.shop/products/because-someone-12?variant=55101811294532)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Y5OFJD_6_1_6cde02f3-411c-4c2b-8b33-856b7cc13b92.jpg?v=1750515508
+    Price: $57.19 USD
+  - [White / 12x18 Inch](https://jewelryluxeus.shop/products/because-someone-12?variant=55101811327300)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Y5OFJD_6_1_6cde02f3-411c-4c2b-8b33-856b7cc13b92.jpg?v=1750515508
+    Price: $68.58 USD
+  - [White / 20x30 Inch](https://jewelryluxeus.shop/products/because-someone-12?variant=55101811360068)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Y5OFJD_6_1_6cde02f3-411c-4c2b-8b33-856b7cc13b92.jpg?v=1750515508
+    Price: $136.59 USD
+  - [White / 24x36Inch](https://jewelryluxeus.shop/products/because-someone-12?variant=55101811392836)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Y5OFJD_6_1_6cde02f3-411c-4c2b-8b33-856b7cc13b92.jpg?v=1750515508
+    Price: $161.06 USD
+  - [White / 16x24 Inch](https://jewelryluxeus.shop/products/because-someone-12?variant=55101811425604)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Y5OFJD_6_1_6cde02f3-411c-4c2b-8b33-856b7cc13b92.jpg?v=1750515508
+    Price: $88.48 USD
+- [Triptych Wall Art Inspirational Quote “Every Day is a New Beginning”](https://jewelryluxeus.shop/products/bez-naslova-kopija-27): Inspirational Triptych Canvas Wall Art with "Every Day is a New Beginning" quote – perfect for home, office, or as a thoughtful gift for loved ones.
+  Updated: 2026-11-13T15:39:03Z
+  Vendor: Printdoors
+  Product Type: Decorative painting
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/3ST39L_6_1.jpg?v=1750515572
+  - [White / 8x12 Inch](https://jewelryluxeus.shop/products/bez-naslova-kopija-27?variant=55101814309188)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/3ST39L_6_1.jpg?v=1750515572
+    Price: $105.08 USD
+  - [White / 12x18 Inch](https://jewelryluxeus.shop/products/bez-naslova-kopija-27?variant=55101814341956)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/3ST39L_6_1.jpg?v=1750515572
+    Price: $134.20 USD
+  - [White / 20x30 Inch](https://jewelryluxeus.shop/products/bez-naslova-kopija-27?variant=55101814374724)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/3ST39L_6_1.jpg?v=1750515572
+    Price: $320.28 USD
+  - [White / 24x36 Inch](https://jewelryluxeus.shop/products/bez-naslova-kopija-27?variant=55101814407492)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/3ST39L_6_1.jpg?v=1750515572
+    Price: $368.63 USD
+  - [White / 16x24 Inch](https://jewelryluxeus.shop/products/bez-naslova-kopija-27?variant=55101814440260)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/3ST39L_6_1.jpg?v=1750515572
+    Price: $170.83 USD
+- [Black and White Checkered Kitchen Mat Non-Slip Rug](https://jewelryluxeus.shop/products/black-and-white1): Enhance your home with our non-slip Black and White Checkered Kitchen Mat, combining style, comfort, and easy maintenance for any room.
+  Updated: 2026-11-13T15:39:03Z
+  Vendor: Printdoors
+  Product Type: Drying Pad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9TYI2I_6_1.jpg?v=1750515684
+  Price: $54.57 USD
+- [Blue Butterflies Non-Slip Kitchen Mat – Flannel Rug](https://jewelryluxeus.shop/products/butterflies-1): Blue butterflies non-slip flannel kitchen mat — soft, absorbent, anti-shedding, non-slip backing. Beautiful butterfly rug for kitchen, bath & entryway.
+  Updated: 2026-11-13T15:39:03Z
+  Vendor: Printdoors
+  Product Type: Drying Pad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/ETQKZU_6_1.jpg?v=1750515734
+  Price: $54.57 USD
+- [Black And White Checkered Kitchen Mat For Home Decor](https://jewelryluxeus.shop/products/black-and-white3): Elevate your home decor with this Black and White Checkered Kitchen Mat, featuring a non-slip design and soft flannel for ultimate comfort and style.
+  Updated: 2026-11-13T15:39:02Z
+  Vendor: Printdoors
+  Product Type: Drying Pad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/24A398_6_1.jpg?v=1750515825
+  Price: $54.57 USD
+- [Black and White Striped Kitchen Mat Non-Slip Rug](https://jewelryluxeus.shop/products/stripes-black-and-white): Enhance your home with our stylish Black and White Striped Kitchen Mat, featuring a soft flannel surface and non-slip backing for ultimate comfort and safety.
+  Updated: 2026-11-13T15:39:02Z
+  Vendor: Printdoors
+  Product Type: Drying Pad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/E6HMTW_6_1.jpg?v=1750590339
+  Price: $54.57 USD
+- [Metal Welcome Sign Wall Decor](https://jewelryluxeus.shop/products/metal-welcome-sign-wall-decor): • Art meets Metal.• High quality metal with strong and durable material.• A beautiful addition to any room's gallery walls.• Practical and easy to decorate, add a classic and nostalgic feel.• Easily attract the attention of your guests.• Gently wipe the dirt or dust off with a clean, dry microfiber cloth.
+  Updated: 2026-11-13T15:39:01Z
+  Vendor: JetPrint Fulfillment
+  Product Type: Personalization On Shopify
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/c51f9fbc-6359-49d8-9eb9-2839afb364dc.jpg?v=1750621081
+  - [S](https://jewelryluxeus.shop/products/metal-welcome-sign-wall-decor?variant=55106476736836)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/c51f9fbc-6359-49d8-9eb9-2839afb364dc.jpg?v=1750621081
+    Price: $44.25 USD
+  - [M](https://jewelryluxeus.shop/products/metal-welcome-sign-wall-decor?variant=55106476769604)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/c51f9fbc-6359-49d8-9eb9-2839afb364dc.jpg?v=1750621081
+    Price: $53.25 USD
+  - [L](https://jewelryluxeus.shop/products/metal-welcome-sign-wall-decor?variant=55106476802372)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/c51f9fbc-6359-49d8-9eb9-2839afb364dc.jpg?v=1750621081
+    Price: $82.00 USD
 - [Hexagonal Glass Ring Box – Wedding Ring Bearer](https://jewelryluxeus.shop/products/hexagonal-glass-ring-box): Hexagonal glass ring box with two heart wooden inserts — 16×15×16cm. Elegant wedding ring bearer box for ceremonies, proposals & bridal gifts.
   Updated: 2026-11-06T09:35:02Z
   Vendor: JetPrint Fulfillment
@@ -1608,6 +2230,24 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/5eec501a-faa5-4bbc-97f3-f30a08d8002b.jpg?v=1750621214
   Price: $31.00 USD
+- [Canvas Wall Art: The Best Things in Life by JewelryLuxeUS](https://jewelryluxeus.shop/products/canvas-the-best-things-in-life): Elevate home decor with high-quality, eco-friendly canvas art. Ready to hang, hand-finished, and available in multiple sizes.
+  Updated: 2026-11-13T15:39:01Z
+  Vendor: superfastpod
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/mockup-1750769830435.png?v=1750770398
+  - [30cm x 20cm](https://jewelryluxeus.shop/products/canvas-the-best-things-in-life?variant=55127465394500)
+    Availability: Available
+    Price: $44.72 USD
+  - [45cm  x 30cm](https://jewelryluxeus.shop/products/canvas-the-best-things-in-life?variant=55127465427268)
+    Availability: Available
+    Price: $60.72 USD
+  - [60cm x 40cm](https://jewelryluxeus.shop/products/canvas-the-best-things-in-life?variant=55127465460036)
+    Availability: Available
+    Price: $76.72 USD
+  - [76cm x 50cm](https://jewelryluxeus.shop/products/canvas-the-best-things-in-life?variant=55127465492804)
+    Availability: Available
+    Price: $92.72 USD
 - [Floral Journal - Vegan Leather A5 Notebook](https://jewelryluxeus.shop/products/floral-journal): Explore endless ideas with our vegan leather A5 journal. A perfect gift with lined pages and all-over floral print.
   Updated: 2026-11-06T09:35:03Z
   Vendor: MyPrintStreet
@@ -1637,6 +2277,24 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/f356f417-e795-4643-af85-716d8dc49389_0b196d07-d66c-435c-8a6c-41a52c63a979.jpg?v=1750947821
     Price: $395.00 USD
+- [Seaside in Summer Colors – Coastal Canvas Wall Art](https://jewelryluxeus.shop/products/seaside-in-summer-colors-coastal-canvas-wall-art): Seaside in summer colors coastal canvas wall art — 4 sizes, giclée print, recycled frame, hand-finished, ready to hang. Beautiful beach home decor.
+  Updated: 2026-11-13T15:38:59Z
+  Vendor: superfastpod
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/mockup-1751717903710.png?v=1751718310
+  - [30cm x 20cm](https://jewelryluxeus.shop/products/seaside-in-summer-colors-coastal-canvas-wall-art?variant=55217623204164)
+    Availability: Available
+    Price: $77.95 USD
+  - [45cm  x 30cm](https://jewelryluxeus.shop/products/seaside-in-summer-colors-coastal-canvas-wall-art?variant=55217623236932)
+    Availability: Available
+    Price: $87.95 USD
+  - [60cm x 40cm](https://jewelryluxeus.shop/products/seaside-in-summer-colors-coastal-canvas-wall-art?variant=55217623269700)
+    Availability: Available
+    Price: $97.95 USD
+  - [76cm x 50cm](https://jewelryluxeus.shop/products/seaside-in-summer-colors-coastal-canvas-wall-art?variant=55217623302468)
+    Availability: Available
+    Price: $107.95 USD
 - [To My Wife – Elegant Necklace Gift for Her – Anniversary or Birthday](https://jewelryluxeus.shop/products/to-my-wife-elegant-necklace-gift-for-her-anniversary-or-birthday): Surprise your wife with a timeless necklace she’ll treasure. A heartfelt gift for her birthday, anniversary, or just because. Elegant, meaningful, unforgettable.
   Updated: 2026-11-06T09:35:04Z
   Vendor: MyPrintStreet
@@ -1663,6 +2321,18 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/mockup-1751721423698.png?v=1751721530
     Price: $49.95 USD
+- [Sisters Forever - Personalized Mug](https://jewelryluxeus.shop/products/sisters-forever-personalized-mug): Make every cup of morning caffeine extra special with a personalized coffee mug!This personalized mug will be the perfect celebratory present to mark your incredible friendship with your besties. Show your sisters/besties/brothers, even your pets how much they mean to you with our top-quality personalized gifts for your beloved ones. Just like your relationship, it's beautiful, durable, unique, and priceless. A useful gift to coffee lovers for a Christmas, Birthday, Valentine's Day, Father’s Day, Mother's Day, Anniversary or Graduation.Key Features Microwave safe and dishwasher safe with a mild detergent Glossy finish Made for both cold & hot beverages Easy-grip handle MaterialDurable ceramicSize11oz / 15ozPersonalization Images are printed on both sides Customized the front image with Hairstyles, Skin Colors and Names. The quote side will be fixed on our design. Pick your options to see the preview * Please double check your options
+  Updated: 2026-11-13T15:38:58Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/sisters-forever-personalized-mug-nn-135230.jpg?v=1751879668
+  - [11 Oz](https://jewelryluxeus.shop/products/sisters-forever-personalized-mug?variant=55227675869508)
+    Availability: Available
+    Price: $24.82 USD
+  - [15 Oz](https://jewelryluxeus.shop/products/sisters-forever-personalized-mug?variant=55227675902276)
+    Availability: Available
+    Price: $27.80 USD
 - [To My Husband – Gold Polished Stainless Steel Necklace | Sentimental Gift for Him](https://jewelryluxeus.shop/products/to-my-husband-gold-polished-stainless-steel-necklace-sentimental-gift-for-him): Display your faith with pride with our superb quality artisan polished gold cross, necklace, and custom message card.Celebrate that special occasion by gifting someone our beautifully crafted cross, paired with a unique message. This gold polished stainless-steel necklace is a truly thoughtful gift designed to convey passion, fondness and heartfelt sentiment, and makes a perfect gift for weddings, birthdays, graduations etc.The cross ships with a perfectly matched 18" box chain and 4" extender to make the perfect fit for both men and women. Our products are vacuum plated so are resistant to tarnishing. Polished gold finish Stainless steel base metal 45cm Box chain with 10cm extender for perfect fit Pendant height 3,6cm Pendant width 1,8cm Custom message card Gift box
   Updated: 2026-11-06T09:35:04Z
   Vendor: MyPrintStreet
@@ -1670,6 +2340,31 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/mockup-1751880335672.png?v=1751880396
   Price: $44.95 USD
+- [You Left Me Beautiful Memories Memorial Canvas – Sympathy Gift](https://jewelryluxeus.shop/products/memorial-canvas-wall-art-you-left-me-beautiful-memories-quote-with-hydrangeas-remembrance-gift-for-loss-of-loved-one): You Left Me Beautiful Memories memorial canvas wall art with hydrangea design. Fade-resistant, ready to hang. A meaningful sympathy and remembrance gift.
+  Updated: 2026-11-13T15:38:58Z
+  Vendor: MyPrintStreet
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/mockup-1751881104846.png?v=1751881156
+  - [76cm x 50cm](https://jewelryluxeus.shop/products/memorial-canvas-wall-art-you-left-me-beautiful-memories-quote-with-hydrangeas-remembrance-gift-for-loss-of-loved-one?variant=55227935588676)
+    Availability: Available
+    Price: $77.50 USD
+  - [60cm x 40cm](https://jewelryluxeus.shop/products/memorial-canvas-wall-art-you-left-me-beautiful-memories-quote-with-hydrangeas-remembrance-gift-for-loss-of-loved-one?variant=55227935621444)
+    Availability: Available
+    Price: $69.95 USD
+  - [45cm  x 30cm](https://jewelryluxeus.shop/products/memorial-canvas-wall-art-you-left-me-beautiful-memories-quote-with-hydrangeas-remembrance-gift-for-loss-of-loved-one?variant=55227935654212)
+    Availability: Available
+    Price: $59.95 USD
+  - [30cm x 20cm](https://jewelryluxeus.shop/products/memorial-canvas-wall-art-you-left-me-beautiful-memories-quote-with-hydrangeas-remembrance-gift-for-loss-of-loved-one?variant=55227935686980)
+    Availability: Available
+    Price: $57.50 USD
+- [Sunflower Pattern Non-Slip Carpet Rug - Ultra Soft Crystal Velvet for Living Room & Bedroom](https://jewelryluxeus.shop/products/sunflower-pattern-non-slip-carpet-rug-ultra-soft-crystal-velvet-for-living-room-bedroom): Ultra-Soft Crystal Velvet Comfort: Experience cloud-like softness underfoot with our premium polyester crystal velvet material.  baby-safe fabric with OEKO-TEX® standards ensures gentle contact with skin while providing superior stain resistance – perfect for families with kids and pets.Engineered Safety: The innovative backing features 2,348 anti-slip silicone dots per square foot, creating 30% stronger grip than conventional rugs. Our patented hexagonal dot pattern prevents bunching on hardwood, tile, or laminate floors, reducing tripping hazards by 65% according to home safety tests.Modern Floral Statement: The vibrant sunflower motif with contemporary stripe accents brings nature-inspired elegance to your space. Digital printing technology ensures fade-resistant colors that stay vivid even after 200+ vacuum cycles. Transform your living room or bedroom into a stylish sanctuary with this art-quality floor piece.Smart Living Design: • 0.4" low-profile thickness glides smoothly under doors• Breathable construction prevents moisture buildup• 5 size options (24"×36" to 8'×10') for perfect space coordination• Winner of 2023 Home Decor Innovation AwardEffortless Maintenance: Imagine simply shaking off crumbs or using quick vacuum passes – no special cleaners needed. The quick-dry fabric air-dries 50% faster than traditional rugs, while the mold-resistant backing stays fresh in humid climates. Includes lifetime warranty against backing separation.
+  Updated: 2026-11-13T15:38:58Z
+  Vendor: popcustoms
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/1751967417-1-RSxIX6lq7Q.jpg?v=1751967621
+  Price: $61.54 USD
 - [To My Wonderful Wife Angel Wings Necklace – Love Gift for Wife, Romantic Jewelry for Anniversary, Birthday or Valentine's Day](https://jewelryluxeus.shop/products/to-my-wonderful-wife-angel-wings-necklace-love-gift-for-wife-romantic-jewelry-for-anniversary-birthday-or-valentines-day): Purchase This Best-seller and We Guarantee It Will Exceed Your Highest Expectations! ➜ Our patent-pending jewelry is made of high quality surgical steel with an 18k gold finish option. ➜ Our jewelry is personalized in the U.S.A by awesome working moms just like yours! We hire and train working mothers and pay a living wage. We are proud to support strong communities and keep jobs in America! This Jewelry Item Is the Perfect Keepsake! Whether for Yourself or a Loved One. ➜ If the custom engraving option is available, engrave onto the back of the pendant your loved one's name, your wedding date, an anniversary, or anything else you want to remember and keep you close to her heart. Each personalized piece offers exceptional craftsmanship that is fit to be an instant classic in your family. We Offer a 100% Happiness Guarantee ➜ If you’re not 100% satisfied with your purchase for any reason, please contact us and we will make it right. Your satisfaction is our ultimate goal. Product Dimensions➜ Luxury Necklace: 18-22" (45-56cm) adjustable➜ Heart Pendant: 24mm x 24mm
   Updated: 2026-11-06T09:35:04Z
   Vendor: ShineOn Fulfillment
@@ -1752,6 +2447,42 @@
   - [Luxury Necklace (Gold) / Yes](https://jewelryluxeus.shop/products/my-husband-now-you-are-my-angel-necklace-heart-pendant-tribute-memorial-jewelry-keepsake-gift-for-wife?variant=55253807628612)
     Availability: Available
     Price: $74.95 USD
+- [The Best Things in Life Are Free – Canvas Wall Art](https://jewelryluxeus.shop/products/the-best-things-in-life-are-free-inspirational-quote-canvas-wall-art): "The Best Things in Life Are Free" inspirational canvas wall art — 4 sizes, giclée print, recycled frame, ready to hang. Uplifting home decor.
+  Updated: 2026-11-13T15:38:56Z
+  Vendor: superfastpod
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/mockup-1752415590117.png?v=1752415724
+  - [30cm x 20cm](https://jewelryluxeus.shop/products/the-best-things-in-life-are-free-inspirational-quote-canvas-wall-art?variant=55257697288516)
+    Availability: Available
+    Price: $47.95 USD
+  - [45cm  x 30cm](https://jewelryluxeus.shop/products/the-best-things-in-life-are-free-inspirational-quote-canvas-wall-art?variant=55257697321284)
+    Availability: Available
+    Price: $57.95 USD
+  - [60cm x 40cm](https://jewelryluxeus.shop/products/the-best-things-in-life-are-free-inspirational-quote-canvas-wall-art?variant=55257697354052)
+    Availability: Available
+    Price: $67.95 USD
+  - [76cm x 50cm](https://jewelryluxeus.shop/products/the-best-things-in-life-are-free-inspirational-quote-canvas-wall-art?variant=55257697386820)
+    Availability: Available
+    Price: $77.95 USD
+- [Inspirational Quote Print – The Best Things in Life](https://jewelryluxeus.shop/products/inspirational-quote-print-the-best-things-in-life): Adorn your walls with our meticulously curated canvas art, where each piece promises to bring beauty, warmth, and personality to your living environment. Our canvas prints are designed not just to decorate a room but to enrich it, making every canvas an  in the aesthetic and vibrancy of your home.Key Features: High-Quality Gicle Printing: Ensures sharp, vivid images with high colour accuracy. Sustainable Materials: Frames constructed with 90% recycled material. Easy Installation: Comes ready to hang with a simple mounting system, allowing you to enjoy your art without delay. Expertly Hand-Finished: Every canvas is hand-finished by our professional staff, adding a unique, personal touch that guarantees the highest quality and attention to detail. Tailored Sizes:Available in four sizes to complement any space Landscape Sizes:76cm x 50cm (30" x 20")60cm x 40cm (24" x 16")45cm x 30cm (18" x 12")30cm x 20cm (12" x 8")
+  Updated: 2026-11-13T15:38:56Z
+  Vendor: superfastpod
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/mockup-1752416553985.png?v=1752416616
+  - [30cm x 20cm](https://jewelryluxeus.shop/products/inspirational-quote-print-the-best-things-in-life?variant=55257708167492)
+    Availability: Available
+    Price: $47.95 USD
+  - [45cm  x 30cm](https://jewelryluxeus.shop/products/inspirational-quote-print-the-best-things-in-life?variant=55257708200260)
+    Availability: Available
+    Price: $57.95 USD
+  - [60cm x 40cm](https://jewelryluxeus.shop/products/inspirational-quote-print-the-best-things-in-life?variant=55257708233028)
+    Availability: Available
+    Price: $67.95 USD
+  - [76cm x 50cm](https://jewelryluxeus.shop/products/inspirational-quote-print-the-best-things-in-life?variant=55257708265796)
+    Availability: Available
+    Price: $77.95 USD
 - [Every Day Is a New Beginning – Motivational Acrylic Wall Decor Print](https://jewelryluxeus.shop/products/every-day-is-a-new-beginning-motivational-acrylic-wall-decor-print): Transform your space with our captivating acrylic wall decor print, featuring the inspiring quote, 'Every Day Is a New Beginning.' This motivational piece not only adds a touch of elegance to your environment but also encourages a positive mindset and fresh starts. Material: 4mm (0.15") thick acrylic delivers a vibrant, durable finish that enhances any decor. Design: Features straight-cut corners and a transparent background defaulting to white for optimal visual impact. Hanging Kit: Comes with all necessary hardware, including screws and strategically positioned screw holes for easy mounting. Sizes: Available in 18 different sizes, accommodating both inches (US&CA) and centimeters (global). Perfect for luxury home decor, corporate offices, or galleries. Order now to elevate your space and inspire your daily routine with this stunning acrylic print!
   Updated: 2026-11-06T09:35:05Z
   Vendor: JewelryLuxeUS.store
@@ -1796,643 +2527,46 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9a17efff-6903-444f-ad40-407867074fa7.webp?v=1752418064
     Price: $218.44 USD
-- [Engraved Titanium Beads Leather Bracelet](https://jewelryluxeus.shop/products/engraved-titanium-beads-leather-bracelet): • New arrival daily accessories.• Used as a hand-wear accessory for decoration.• Hand-made & Laser Engraved.• Handmade leather strap with titanium steel beads.• Texts customizable and engraved on the titanium beads, exquisitely polished to display a shiny effect.• Easy to wear for daily casual occasions. • Perfect Present for Weddings, House Warmings, Anniversaries, and Birthday.• Each bead could support a maximum of 10 letters engraved on it.
-  Updated: 2026-11-06T09:35:05Z
-  Vendor: JetPrint Fulfillment
-  Product Type: Personalization On Shopify
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/25ed0b37-c5ec-4012-bb0d-ea091b83665b.jpg?v=1752478733
-  - [Black / 3](https://jewelryluxeus.shop/products/engraved-titanium-beads-leather-bracelet?variant=55261361832260)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/25ed0b37-c5ec-4012-bb0d-ea091b83665b.jpg?v=1752478733
-    Price: $18.75 USD
-  - [Black / 4](https://jewelryluxeus.shop/products/engraved-titanium-beads-leather-bracelet?variant=55261361865028)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/25ed0b37-c5ec-4012-bb0d-ea091b83665b.jpg?v=1752478733
-    Price: $18.75 USD
-  - [Brown / 3](https://jewelryluxeus.shop/products/engraved-titanium-beads-leather-bracelet?variant=55261361897796)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/25ed0b37-c5ec-4012-bb0d-ea091b83665b.jpg?v=1752478733
-    Price: $18.75 USD
-  - [Brown / 4](https://jewelryluxeus.shop/products/engraved-titanium-beads-leather-bracelet?variant=55261361930564)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/25ed0b37-c5ec-4012-bb0d-ea091b83665b.jpg?v=1752478733
-    Price: $18.75 USD
-- [Candle Frosted Glass (Hand Poured 11 oz)](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz): Color: Natural Off-White (No Dyes)Material: Coconut Soy Blended WaxLabel: Matte FinishLid: WoodSize: 11 oz. Jar and 9 oz Wax; 2.93" (W or Diameter) x 3.75" (H with lid), 9.205" (Circumference)Burn Time: Approx. 50+ HoursAvailable Fragrances: Balsam + Cedar, Blackberry Vanilla, Bohemian Rose, Cactus Flower & Jade, Fragrance Free - Cotton Wick, Lemon Verbena, Mango Coconut, Oakmoss + Amber, Ocean Breeze, Spiced Oat Milk, Pumpkin Spice*, Woodland Snow*.Hand-Poured in the USAThe Coconut Soy wax is clean-burning, biodegradable, and natural. A vegan blend of natural apricot, coconut, soy, and a minuscule amount of highly refined food-grade paraffin wax. The wax is toxin-free, paraben-free, phthalate-free, and comes from renewable sources. The wood wick is eco-friendly and made from FSC  Wood, hand-crafted +, and made in the USA.*Pumpkin Spice + Woodland Snow are seasonal fragrances.
-  Updated: 2026-11-06T09:35:05Z
-  Vendor: JewelryLuxeUS.store
-  Product Type: Candles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9e33a093a6b783e6035145649fb26101ed290d5d.jpg?v=1752560564
-  - [Fragrance Free - Cotton Wick](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz?variant=55269386879300)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9e33a093a6b783e6035145649fb26101ed290d5d.jpg?v=1752560564
-    Price: $34.00 USD
-  - [Cactus Flower & Jade](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz?variant=55269386912068)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9e33a093a6b783e6035145649fb26101ed290d5d.jpg?v=1752560564
-    Price: $34.00 USD
-  - [Lemon Verbena](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz?variant=55269386944836)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9e33a093a6b783e6035145649fb26101ed290d5d.jpg?v=1752560564
-    Price: $34.00 USD
-  - [Ocean Breeze](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz?variant=55269386977604)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9e33a093a6b783e6035145649fb26101ed290d5d.jpg?v=1752560564
-    Price: $34.00 USD
-  - [Spiced Oat Milk](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz?variant=55269387010372)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9e33a093a6b783e6035145649fb26101ed290d5d.jpg?v=1752560564
-    Price: $34.00 USD
-  - [Bohemian Rose](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz?variant=55269387043140)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9e33a093a6b783e6035145649fb26101ed290d5d.jpg?v=1752560564
-    Price: $34.00 USD
-  - [Mango Coconut](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz?variant=55269387075908)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9e33a093a6b783e6035145649fb26101ed290d5d.jpg?v=1752560564
-    Price: $34.00 USD
-  - [Blackberry Vanilla](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz?variant=55269387108676)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9e33a093a6b783e6035145649fb26101ed290d5d.jpg?v=1752560564
-    Price: $34.00 USD
-  - [Balsam + Cedar](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz?variant=55269387141444)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9e33a093a6b783e6035145649fb26101ed290d5d.jpg?v=1752560564
-    Price: $34.00 USD
-  - [Pumpkin Spice](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz?variant=55269387174212)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9e33a093a6b783e6035145649fb26101ed290d5d.jpg?v=1752560564
-    Price: $34.00 USD
-  - [Woodland Snow](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz?variant=55269387206980)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9e33a093a6b783e6035145649fb26101ed290d5d.jpg?v=1752560564
-    Price: $34.00 USD
-  - [Oakmoss + Amber](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz?variant=55269387239748)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9e33a093a6b783e6035145649fb26101ed290d5d.jpg?v=1752560564
-    Price: $34.00 USD
-- [Candle Frosted Glass (Hand Poured 11 oz) Husband memorial](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz-husband-memorial): Introducing the Candle Frosted Glass - a beautifully handcrafted 11oz candle designed to evoke memories while filling your space with soothing fragrances. Each candle is carefully hand-poured, ensuring quality and attention to detail. This special edition is perfect for honoring and remembering a beloved husband, providing a sense of comfort and warmth. Choose from twelve captivating scents that suit every mood and occasion, including the calming essence of Fragrance Free - Cotton Wick, the fresh notes of Cactus Flower & Jade, the zesty brightness of Lemon Verbena, and the relaxing aroma of Ocean Breeze. Other options like Spiced Oat Milk and Bohemian Rose create an inviting atmosphere, while seasonal delights such as Pumpkin Spice and Woodland Snow add a festive touch. Whether you are lighting it for reflection or to enhance your home’s ambiance, the Candle Frosted Glass serves as a beautiful tribute while offering a tranquil and aromatic experience. Embrace the memories and add warmth to your space with this exquisite candle.Material: Coconut Apricot Blended WaxLid: WoodSize: 11 oz. Jar and 9 oz Wax; 2.93" (W or Diameter) x 3.75" (H with lid), 9.205" (Circumference)Burn Time: Approx. 50+ HoursHand-Poured in the USA
-  Updated: 2026-11-06T09:35:06Z
-  Vendor: JewelryLuxeUS.store
-  Product Type: Candles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/67e022772afbe1b28c456965de6ff610b4e7caf4_876483b4-d444-4930-bed4-9cfca78267cd.jpg?v=1762677315
-  - [Fragrance Free - Cotton Wick](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz-husband-memorial?variant=55272990966084)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/67e022772afbe1b28c456965de6ff610b4e7caf4.jpg?v=1762677378
-    Price: $34.00 USD
-  - [Cactus Flower & Jade](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz-husband-memorial?variant=55272990998852)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/67e022772afbe1b28c456965de6ff610b4e7caf4.jpg?v=1762677378
-    Price: $34.00 USD
-  - [Lemon Verbena](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz-husband-memorial?variant=55272991031620)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/67e022772afbe1b28c456965de6ff610b4e7caf4.jpg?v=1762677378
-    Price: $34.00 USD
-  - [Ocean Breeze](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz-husband-memorial?variant=55272991064388)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/67e022772afbe1b28c456965de6ff610b4e7caf4.jpg?v=1762677378
-    Price: $34.00 USD
-  - [Spiced Oat Milk](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz-husband-memorial?variant=55272991097156)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/67e022772afbe1b28c456965de6ff610b4e7caf4.jpg?v=1762677378
-    Price: $34.00 USD
-  - [Bohemian Rose](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz-husband-memorial?variant=55272991129924)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/67e022772afbe1b28c456965de6ff610b4e7caf4.jpg?v=1762677378
-    Price: $34.00 USD
-  - [Mango Coconut](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz-husband-memorial?variant=55272991162692)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/67e022772afbe1b28c456965de6ff610b4e7caf4.jpg?v=1762677378
-    Price: $34.00 USD
-  - [Blackberry Vanilla](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz-husband-memorial?variant=55272991195460)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/67e022772afbe1b28c456965de6ff610b4e7caf4.jpg?v=1762677378
-    Price: $34.00 USD
-  - [Balsam + Cedar](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz-husband-memorial?variant=55272991228228)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/67e022772afbe1b28c456965de6ff610b4e7caf4.jpg?v=1762677378
-    Price: $34.00 USD
-  - [Pumpkin Spice](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz-husband-memorial?variant=55272991260996)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/67e022772afbe1b28c456965de6ff610b4e7caf4.jpg?v=1762677378
-    Price: $34.00 USD
-  - [Woodland Snow](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz-husband-memorial?variant=55272991293764)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/67e022772afbe1b28c456965de6ff610b4e7caf4.jpg?v=1762677378
-    Price: $34.00 USD
-  - [Oakmoss + Amber](https://jewelryluxeus.shop/products/candle-frosted-glass-hand-poured-11-oz-husband-memorial?variant=55272991326532)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/67e022772afbe1b28c456965de6ff610b4e7caf4.jpg?v=1762677378
-    Price: $34.00 USD
-- [Romantic Canvas Wall Art – Stretched Love Decor for Home, Wedding, or Anniversary Gift](https://jewelryluxeus.shop/products/romantic-canvas-wall-art-stretched-love-decor-for-home-wedding-or-anniversary-gift): Adorn your walls with our meticulously curated canvas art, where each piece promises to bring beauty, warmth, and personality to your living environment. Our canvas prints are designed not just to decorate a room but to enrich it, making every canvas an  in the aesthetic and vibrancy of your home.Key Features: High-Quality Gicle Printing: Ensures sharp, vivid images with high colour accuracy. Sustainable Materials: Frames constructed with 90% recycled material. Easy Installation: Comes ready to hang with a simple mounting system, allowing you to enjoy your art without delay. Expertly Hand-Finished: Every canvas is hand-finished by our professional staff, adding a unique, personal touch that guarantees the highest quality and attention to detail. Tailored Sizes:Available in four sizes to complement any space Landscape Sizes:76cm x 50cm (30" x 20")60cm x 40cm (24" x 16")45cm x 30cm (18" x 12")30cm x 20cm (12" x 8")
-  Updated: 2026-11-06T09:35:06Z
-  Vendor: superfastpod
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/mockup-1752836068929.png?v=1752836130
-  - [30cm x 20cm](https://jewelryluxeus.shop/products/romantic-canvas-wall-art-stretched-love-decor-for-home-wedding-or-anniversary-gift?variant=55295280939332)
-    Availability: Available
-    Price: $27.95 USD
-  - [45cm  x 30cm](https://jewelryluxeus.shop/products/romantic-canvas-wall-art-stretched-love-decor-for-home-wedding-or-anniversary-gift?variant=55295280972100)
-    Availability: Available
-    Price: $37.95 USD
-  - [60cm x 40cm](https://jewelryluxeus.shop/products/romantic-canvas-wall-art-stretched-love-decor-for-home-wedding-or-anniversary-gift?variant=55295281004868)
-    Availability: Available
-    Price: $47.95 USD
-  - [76cm x 50cm](https://jewelryluxeus.shop/products/romantic-canvas-wall-art-stretched-love-decor-for-home-wedding-or-anniversary-gift?variant=55295281037636)
-    Availability: Available
-    Price: $57.95 USD
-- [Personalized romantic acrylic wall art featuring couple's names and special date, custom anniversary gift for husband and wife, modern minimalist decor](https://jewelryluxeus.shop/products/personalized-romantic-acrylic-wall-art-featuring-couples-names-and-special-date-custom-anniversary-gift-for-husband-and-wife-modern-minimalist-decor): Adorn your walls with our meticulously curated canvas art, where each piece promises to bring beauty, warmth, and personality to your living environment. Our canvas prints are designed not just to decorate a room but to enrich it, making every canvas an  in the aesthetic and vibrancy of your home.Key Features: High-Quality Gicle Printing: Ensures sharp, vivid images with high colour accuracy. Sustainable Materials: Frames constructed with 90% recycled material. Easy Installation: Comes ready to hang with a simple mounting system, allowing you to enjoy your art without delay. Expertly Hand-Finished: Every canvas is hand-finished by our professional staff, adding a unique, personal touch that guarantees the highest quality and attention to detail. Tailored Sizes:Available in four sizes to complement any space Landscape Sizes:76cm x 50cm (30" x 20")60cm x 40cm (24" x 16")45cm x 30cm (18" x 12")30cm x 20cm (12" x 8")
-  Updated: 2026-11-06T09:35:06Z
-  Vendor: superfastpod
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/mockup-1752908579477.png?v=1752908619
-  - [30cm x 20cm](https://jewelryluxeus.shop/products/personalized-romantic-acrylic-wall-art-featuring-couples-names-and-special-date-custom-anniversary-gift-for-husband-and-wife-modern-minimalist-decor?variant=55301812257092)
-    Availability: Available
-    Price: $27.95 USD
-  - [45cm  x 30cm](https://jewelryluxeus.shop/products/personalized-romantic-acrylic-wall-art-featuring-couples-names-and-special-date-custom-anniversary-gift-for-husband-and-wife-modern-minimalist-decor?variant=55301812289860)
-    Availability: Available
-    Price: $37.95 USD
-  - [60cm x 40cm](https://jewelryluxeus.shop/products/personalized-romantic-acrylic-wall-art-featuring-couples-names-and-special-date-custom-anniversary-gift-for-husband-and-wife-modern-minimalist-decor?variant=55301812322628)
-    Availability: Available
-    Price: $47.95 USD
-  - [76cm x 50cm](https://jewelryluxeus.shop/products/personalized-romantic-acrylic-wall-art-featuring-couples-names-and-special-date-custom-anniversary-gift-for-husband-and-wife-modern-minimalist-decor?variant=55301812355396)
-    Availability: Available
-    Price: $57.95 USD
-- [Luxury Yin Yang Circle Necklace – Modern Minimalist Pendant for Her | Designer Jewelry Gift](https://jewelryluxeus.shop/products/luxury-yin-yang-circle-necklace-modern-minimalist-pendant-for-her-designer-jewelry-gift): Purchase This Best-Seller and We Guarantee It Will Exceed Your Highest Expectations! ➜ Our patent-pending jewelry is made of high quality surgical steel with an 18k gold finish option. ➜ Our jewelry is personalized in the U.S.A by awesome working moms just like yours! We hire and train working mothers and pay a living wage. We are proud to support strong communities and keep jobs in America! This Jewelry Item Is the Perfect Keepsake! Whether for Yourself or a Loved One. ➜ If the custom engraving option is available, engrave onto the back of the pendant your loved one's name, your wedding date, an anniversary, or anything else you want to remember and keep you close to her heart. Each personalized piece offers exceptional craftsmanship that is fit to be an instant classic in your family. We Offer a 100% Happiness Guarantee ➜ If you’re not 100% satisfied with your purchase for any reason, please contact us and we will make it right. Your satisfaction is our ultimate goal. Product Dimensions ➜ Luxury Necklace: 18-22" (45-56cm) adjustable ➜ Circle Pendant: 0.9” x 0.9” (23.5mm x 23.5mm)
-  Updated: 2026-11-06T09:35:06Z
-  Vendor: ShineOn Fulfillment
-  Product Type: Jewelry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_10_transformation_256_129e9d09-29e2-4454-98a9-f7381c150fe4.png?v=1753435378
-  - [Luxury Necklace (Silver) / No](https://jewelryluxeus.shop/products/luxury-yin-yang-circle-necklace-modern-minimalist-pendant-for-her-designer-jewelry-gift?variant=55339362976068)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_10_transformation_256_129e9d09-29e2-4454-98a9-f7381c150fe4.png?v=1753435378
-    Price: $54.95 USD
-  - [Luxury Necklace (Silver) / Yes](https://jewelryluxeus.shop/products/luxury-yin-yang-circle-necklace-modern-minimalist-pendant-for-her-designer-jewelry-gift?variant=55339363008836)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_102_transformation_268_fcf3344c-2675-45c8-ace3-861ab40b303d.png?v=1753435381
-    Price: $54.95 USD
-  - [Luxury Necklace (Gold) / No](https://jewelryluxeus.shop/products/luxury-yin-yang-circle-necklace-modern-minimalist-pendant-for-her-designer-jewelry-gift?variant=55339363041604)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_129_transformation_428_32afb71a-c8a6-4583-b99d-e062fa277455.png?v=1753435383
-    Price: $74.95 USD
-  - [Luxury Necklace (Gold) / Yes](https://jewelryluxeus.shop/products/luxury-yin-yang-circle-necklace-modern-minimalist-pendant-for-her-designer-jewelry-gift?variant=55339363074372)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_130_transformation_343_13043e6a-cae3-4054-aa6f-2b37875dd9be.png?v=1753435384
-    Price: $74.95 USD
-- [Luxury Circle Pendant Necklace – "You Are the Most Beautiful Thing I Keep Inside My Heart" | Elegant Graphic Jewelry Gift for Her](https://jewelryluxeus.shop/products/luxury-circle-pendant-necklace-you-are-the-most-beautiful-thing-i-keep-inside-my-heart-elegant-graphic-jewelry-gift-for-her): Purchase This Best-Seller and We Guarantee It Will Exceed Your Highest Expectations! ➜ Our patent-pending jewelry is made of high quality surgical steel with an 18k gold finish option. ➜ Our jewelry is personalized in the U.S.A by awesome working moms just like yours! We hire and train working mothers and pay a living wage. We are proud to support strong communities and keep jobs in America! This Jewelry Item Is the Perfect Keepsake! Whether for Yourself or a Loved One. ➜ If the custom engraving option is available, engrave onto the back of the pendant your loved one's name, your wedding date, an anniversary, or anything else you want to remember and keep you close to her heart. Each personalized piece offers exceptional craftsmanship that is fit to be an instant classic in your family. We Offer a 100% Happiness Guarantee ➜ If you’re not 100% satisfied with your purchase for any reason, please contact us and we will make it right. Your satisfaction is our ultimate goal. Product Dimensions ➜ Luxury Necklace: 18-22" (45-56cm) adjustable ➜ Circle Pendant: 0.9” x 0.9” (23.5mm x 23.5mm)
-  Updated: 2026-11-06T09:35:06Z
-  Vendor: ShineOn Fulfillment
-  Product Type: Jewelry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_10_transformation_256_99ed12bc-99ac-409b-9d61-3fb616099c8b.png?v=1753446896
-  - [Luxury Necklace (Silver) / No](https://jewelryluxeus.shop/products/luxury-circle-pendant-necklace-you-are-the-most-beautiful-thing-i-keep-inside-my-heart-elegant-graphic-jewelry-gift-for-her?variant=55340281692484)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_10_transformation_256_99ed12bc-99ac-409b-9d61-3fb616099c8b.png?v=1753446896
-    Price: $54.95 USD
-  - [Luxury Necklace (Silver) / Yes](https://jewelryluxeus.shop/products/luxury-circle-pendant-necklace-you-are-the-most-beautiful-thing-i-keep-inside-my-heart-elegant-graphic-jewelry-gift-for-her?variant=55340281725252)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_102_transformation_268_7b8cf73c-6c35-4e1d-bcd8-6b492f80983b.png?v=1753446899
-    Price: $54.95 USD
-  - [Luxury Necklace (Gold) / No](https://jewelryluxeus.shop/products/luxury-circle-pendant-necklace-you-are-the-most-beautiful-thing-i-keep-inside-my-heart-elegant-graphic-jewelry-gift-for-her?variant=55340281758020)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_129_transformation_428_02b52b04-5ff3-4189-bb36-7650ed0e51d9.png?v=1753446901
-    Price: $74.95 USD
-  - [Luxury Necklace (Gold) / Yes](https://jewelryluxeus.shop/products/luxury-circle-pendant-necklace-you-are-the-most-beautiful-thing-i-keep-inside-my-heart-elegant-graphic-jewelry-gift-for-her?variant=55340281790788)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_130_transformation_343_cf60b501-92a7-48a0-ad08-0eff2067a41a.png?v=1753446902
-    Price: $74.95 USD
-- [Christmas Tea Towels (cotton, poly) Red Green Holiday Kitchen Decor, Festive Dish Towels, Xmas Decorations, Hostess Gift, Winter Home Decor](https://jewelryluxeus.shop/products/christmas-tea-towels-cotton-poly-red-green-holiday-kitchen-decor-festive-dish-towels-xmas-decorations-hostess-gift-winter-home-decor): Add a festive touch to your kitchen with these vibrant red and green Christmas decoration tea towels. Perfect for those who love to host holiday gatherings and embrace the holiday spirit. Product features - Hemmed edges for durability - Vibrant colors for a lively design - Option of 100% polyester or 100% cotton twill material - Two material options: Cotton Twill and Polyester - Lightweight and easy to use Care instructions - Machine wash: cold (max 30C or 90F), gentle cycle, mild detergent - Do not bleach - Tumble dry: low heat EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CYProduct information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/ECCare instructions: Machine wash: cold (max 30C or 90F), gentle cycle, mild detergent , Do not bleach, Tumble dry: low heat
-  Updated: 2026-11-06T09:35:06Z
-  Vendor: Printify
-  Product Type: Home Decor
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/4279742626542352053_2048.jpg?v=1753705213
-  - [Cotton Twill / 18" × 30"](https://jewelryluxeus.shop/products/christmas-tea-towels-cotton-poly-red-green-holiday-kitchen-decor-festive-dish-towels-xmas-decorations-hostess-gift-winter-home-decor?variant=55353497944388)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/4279742626542352053_2048.jpg?v=1753705213
-    Price: $34.52 USD
-  - [Polyester / 18" × 30"](https://jewelryluxeus.shop/products/christmas-tea-towels-cotton-poly-red-green-holiday-kitchen-decor-festive-dish-towels-xmas-decorations-hostess-gift-winter-home-decor?variant=55353497977156)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/16579681036967545334_2048.jpg?v=1753705224
-    Price: $32.20 USD
-- [Christmas Trees Red Green Table Runner, Holiday Table Decor, Holiday Dinner Accessories - Cotton, Poly, Festive Table Linens, Christmas Home](https://jewelryluxeus.shop/products/christmas-trees-red-green-table-runner-holiday-table-decor-holiday-dinner-accessories-cotton-poly-festive-table-linens-christmas-home): Bring the festive spirit of Christmas into your home with this Christmas Trees Red Green Pattern Table Runner. Perfect for holiday table decor and dinner accessories, this table runner adds a touch of holiday cheer to your dining room. Ideal for those who love celebrating Christmas and decorating their home for the season. Product features - Multiple size options available for convenience - Printed on 100% Polyester for sharp and vibrant designs - Printed on 100% Cotton Twill for a muted classic look - Hemmed edges for durability - Available in two material variants: Cotton Twill and Polyester Care instructions - Machine wash: cold (max 30C or 90F), gentle cycle, mild detergent - Do not bleach - Line dry EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CYProduct information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/ECCare instructions: Machine wash: cold (max 30C or 90F), gentle cycle, mild detergent , Do not bleach, Line dry
-  Updated: 2026-11-06T09:35:07Z
-  Vendor: Printify
-  Product Type: Home Decor
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/671558516938077773_4096.jpg?v=1754064434
-  - [16" × 72" / Cotton Twill](https://jewelryluxeus.shop/products/christmas-trees-red-green-table-runner-holiday-table-decor-holiday-dinner-accessories-cotton-poly-festive-table-linens-christmas-home?variant=55353498370372)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/4122552588843510485_4096.jpg?v=1754064434
-    Price: $54.49 USD
-  - [16" × 72" / Polyester](https://jewelryluxeus.shop/products/christmas-trees-red-green-table-runner-holiday-table-decor-holiday-dinner-accessories-cotton-poly-festive-table-linens-christmas-home?variant=55353498403140)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/8850686123255551867_4096.jpg?v=1754064434
-    Price: $43.73 USD
-  - [16" × 90" / Cotton Twill](https://jewelryluxeus.shop/products/christmas-trees-red-green-table-runner-holiday-table-decor-holiday-dinner-accessories-cotton-poly-festive-table-linens-christmas-home?variant=55353498435908)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/18127323758852596853_4096.jpg?v=1754064434
-    Price: $64.85 USD
-  - [16" × 90" / Polyester](https://jewelryluxeus.shop/products/christmas-trees-red-green-table-runner-holiday-table-decor-holiday-dinner-accessories-cotton-poly-festive-table-linens-christmas-home?variant=55353498468676)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/15546557868941444484_4096.jpg?v=1754064434
-    Price: $51.55 USD
-- [Christmas Table Runner, Festive Holiday Decor, Cotton Poly Blend, Red and White Christmas Decoration, Dining Table Linens, Xmas Kitchen](https://jewelryluxeus.shop/products/christmas-table-runner-festive-holiday-decor-cotton-poly-blend-red-and-white-christmas-decoration-dining-table-linens-xmas-kitchen): This Merry Christmas themed Table Runner in black and white with red decorations exudes a festive and joyous vibe. Perfect for adding a touch of holiday spirit to your dining table or as a gift for someone who loves Christmas decor. Ideal for those who enjoy decorating their homes for Christmas Product features - Multiple sizes available: 16" × 72" and 16" × 90" - Made with 100% Polyester or 100% Cotton Twill for durability - Sharp and vibrant designs with Sublimation or classic look with DTF technology - Hemmed edges for longevity - One sided print for a clean look Care instructions - Machine wash: cold (max 30C or 90F), gentle cycle, mild detergent - Do not bleach - Line dry
-  Updated: 2026-11-06T09:35:07Z
-  Vendor: Printify
-  Product Type: Home Decor
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/18290101343608313453_4096.jpg?v=1754064409
-  - [16" × 72" / Cotton Twill](https://jewelryluxeus.shop/products/christmas-table-runner-festive-holiday-decor-cotton-poly-blend-red-and-white-christmas-decoration-dining-table-linens-xmas-kitchen?variant=55353498763588)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/1770158631524934565_4096.jpg?v=1754064409
-    Price: $54.49 USD
-  - [16" × 72" / Polyester](https://jewelryluxeus.shop/products/christmas-table-runner-festive-holiday-decor-cotton-poly-blend-red-and-white-christmas-decoration-dining-table-linens-xmas-kitchen?variant=55353498796356)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/13268434682115367685_4096.jpg?v=1754064409
-    Price: $43.73 USD
-  - [16" × 90" / Cotton Twill](https://jewelryluxeus.shop/products/christmas-table-runner-festive-holiday-decor-cotton-poly-blend-red-and-white-christmas-decoration-dining-table-linens-xmas-kitchen?variant=55353498829124)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/11244280214000689082_4096.jpg?v=1754064409
-    Price: $64.85 USD
-  - [16" × 90" / Polyester](https://jewelryluxeus.shop/products/christmas-table-runner-festive-holiday-decor-cotton-poly-blend-red-and-white-christmas-decoration-dining-table-linens-xmas-kitchen?variant=55353498861892)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/7541035345786097471_4096.jpg?v=1754064409
-    Price: $51.55 USD
-- [Santa Claus Ho Ho Ho Table Runner – Christmas Decor](https://jewelryluxeus.shop/products/table-runner-christmas-decoration-santa-claus-ho-ho-ho-red-white-cotton-poly-home-decor-holiday-table-linen-festive-dining-accessories): Santa Claus Ho Ho Ho Christmas table runner — red & white, cotton twill or polyester, 16″×72″ or 16″×90″, hemmed. Festive holiday dining decor.
-  Updated: 2026-11-06T09:35:07Z
-  Vendor: Printify
-  Product Type: Home Decor
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/1285640994229111342_4096.jpg?v=1764153648
-  - [16" × 72" / Cotton Twill](https://jewelryluxeus.shop/products/table-runner-christmas-decoration-santa-claus-ho-ho-ho-red-white-cotton-poly-home-decor-holiday-table-linen-festive-dining-accessories?variant=55353499058500)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/1285640994229111342_4096.jpg?v=1764153648
-    Price: $54.49 USD
-  - [16" × 72" / Polyester](https://jewelryluxeus.shop/products/table-runner-christmas-decoration-santa-claus-ho-ho-ho-red-white-cotton-poly-home-decor-holiday-table-linen-festive-dining-accessories?variant=55353499091268)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/11413675596527195726_4096.jpg?v=1764153651
-    Price: $43.73 USD
-  - [16" × 90" / Cotton Twill](https://jewelryluxeus.shop/products/table-runner-christmas-decoration-santa-claus-ho-ho-ho-red-white-cotton-poly-home-decor-holiday-table-linen-festive-dining-accessories?variant=55353499124036)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/4624268454256738718_4096.jpg?v=1764153653
-    Price: $64.85 USD
-  - [16" × 90" / Polyester](https://jewelryluxeus.shop/products/table-runner-christmas-decoration-santa-claus-ho-ho-ho-red-white-cotton-poly-home-decor-holiday-table-linen-festive-dining-accessories?variant=55353499156804)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/1448688472551109514_4096.jpg?v=1764153656
-    Price: $51.55 USD
-- [Christmas Movie Watching Accent Coffee Mug (11, 15oz) - Cozy Holiday Mug, Festive Hot Cocoa Cup, Winter Movie Night Gift, Santa Claus Mug,](https://jewelryluxeus.shop/products/christmas-movie-watching-accent-coffee-mug-11-15oz-cozy-holiday-mug-festive-hot-cocoa-cup-winter-movie-night-gift-santa-claus-mug): This Accent Coffee Mug is perfect for cozying up with your favorite Christmas movies. Whether you're sipping on hot cocoa or mulled wine, this mug adds a festive touch to your holiday routine. Ideal for Christmas movie lovers and holiday enthusiasts. Product features - Microwave and dishwasher-safe - Vibrant colors with crisp printing - Available in two sizes and multiple color options - C-shaped handle for easy grip - Lead and BPA-free Care instructions - Clean in dishwasher or wash by hand with warm water and dish soap
-  Updated: 2026-11-06T09:35:08Z
-  Vendor: Printify
-  Product Type: Mug
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/15504418440495251148_2048.jpg?v=1753705676
-  - [11oz / Black](https://jewelryluxeus.shop/products/christmas-movie-watching-accent-coffee-mug-11-15oz-cozy-holiday-mug-festive-hot-cocoa-cup-winter-movie-night-gift-santa-claus-mug?variant=55353499517252)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/15504418440495251148_2048.jpg?v=1753705676
-    Price: $19.58 USD
-  - [11oz / Navy](https://jewelryluxeus.shop/products/christmas-movie-watching-accent-coffee-mug-11-15oz-cozy-holiday-mug-festive-hot-cocoa-cup-winter-movie-night-gift-santa-claus-mug?variant=55353499550020)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9767432922068881693_2048.jpg?v=1753705692
-    Price: $19.58 USD
-  - [11oz / Pink](https://jewelryluxeus.shop/products/christmas-movie-watching-accent-coffee-mug-11-15oz-cozy-holiday-mug-festive-hot-cocoa-cup-winter-movie-night-gift-santa-claus-mug?variant=55353499582788)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9919054084819492428_2048.jpg?v=1753705697
-    Price: $19.58 USD
-  - [11oz / Red](https://jewelryluxeus.shop/products/christmas-movie-watching-accent-coffee-mug-11-15oz-cozy-holiday-mug-festive-hot-cocoa-cup-winter-movie-night-gift-santa-claus-mug?variant=55353499615556)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/101890874015569849_2048.jpg?v=1753705702
-    Price: $19.58 USD
-  - [11oz / Light Blue](https://jewelryluxeus.shop/products/christmas-movie-watching-accent-coffee-mug-11-15oz-cozy-holiday-mug-festive-hot-cocoa-cup-winter-movie-night-gift-santa-claus-mug?variant=55353499648324)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/2263925318095576250_2048.jpg?v=1753705776
-    Price: $19.58 USD
-  - [15oz / Black](https://jewelryluxeus.shop/products/christmas-movie-watching-accent-coffee-mug-11-15oz-cozy-holiday-mug-festive-hot-cocoa-cup-winter-movie-night-gift-santa-claus-mug?variant=55353499681092)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/13306709234903021856_2048.jpg?v=1753705715
-    Price: $25.45 USD
-  - [15oz / Navy](https://jewelryluxeus.shop/products/christmas-movie-watching-accent-coffee-mug-11-15oz-cozy-holiday-mug-festive-hot-cocoa-cup-winter-movie-night-gift-santa-claus-mug?variant=55353499713860)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/7470614041210982204_2048.jpg?v=1753705740
-    Price: $25.45 USD
-  - [15oz / Pink](https://jewelryluxeus.shop/products/christmas-movie-watching-accent-coffee-mug-11-15oz-cozy-holiday-mug-festive-hot-cocoa-cup-winter-movie-night-gift-santa-claus-mug?variant=55353499746628)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/7395208400973503968_2048.jpg?v=1753705754
-    Price: $25.45 USD
-  - [15oz / Red](https://jewelryluxeus.shop/products/christmas-movie-watching-accent-coffee-mug-11-15oz-cozy-holiday-mug-festive-hot-cocoa-cup-winter-movie-night-gift-santa-claus-mug?variant=55353499779396)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/5589230816338868_2048.jpg?v=1753705765
-    Price: $25.45 USD
-  - [15oz / Light Blue](https://jewelryluxeus.shop/products/christmas-movie-watching-accent-coffee-mug-11-15oz-cozy-holiday-mug-festive-hot-cocoa-cup-winter-movie-night-gift-santa-claus-mug?variant=55353499812164)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/11518016287987776981_2048.jpg?v=1753705786
-    Price: $25.45 USD
-- [Placemat, 1pc](https://jewelryluxeus.shop/products/placemat-1pc): Bring even more jolly to your dining table with these uniquely designed tabletop placemats. With a double-sided construction, one-side print area and a natural back, customize your dining experience to fit your best look. Made from durable cotton for formal or everyday use, these placemats are resilient, easy to clean, and fade-resistant. .: 100% Cotton .: One-sided print .: One size: 18" × 14" (45.72cm x 35.56cm ) .: White seam thread .: Note: Pre-constructed item. Size variance +/- 0.5"
-  Updated: 2026-11-06T09:35:08Z
-  Vendor: Printify
-  Product Type: Home Decor
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/11813095417694496015_2048.jpg?v=1753705382
-  Price: $35.20 USD
-- [Oval Necklace with monogram A](https://jewelryluxeus.shop/products/oval-necklace-with-monogram-a): Add a custom touch to what you're wearing or  unique pieces to DIY enthusiasts with this personalized necklace. The personalized pendant and its chain are made with a robust zinc alloy for dazzling looks that are long-lasting. The print panel is made with aluminum while the pendant itself comes in a unique shape of an ellipse..: Zinc alloy pendant and necklace chain.: Ellipse-shaped pendant.: White aluminum print surface
-  Updated: 2026-11-06T09:35:08Z
-  Vendor: Printify
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/14252804141233593162_2048.jpg?v=1753705531
-  Price: $17.18 USD
-- [Mom's Favorite cookies Christmas Platter, Christmas Dinner Gift for Mom](https://jewelryluxeus.shop/products/moms-favorite-cookies-christmas-platter): 10x14" serving platter manufactured from revolutionary polymer that is: Microwave Safe Oven Safe (250° up to 1 hour) Dishwasher Safe CPSC- FDA-Compliant for food contact 100% Made in the USA Non-toxic water based dyes Durable Finish Unbreakable
-  Updated: 2026-11-06T09:35:09Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Moms_Favorite_cookies_Christmas_Platter_Flat_Mockup.png?v=1754578534
-  Price: $53.00 USD
-- [Mom's Favorite cookies Christmas Platter](https://jewelryluxeus.shop/products/moms-favorite-cookies-christmas-platter-1): 10x14" serving platter manufactured from revolutionary polymer that is: Microwave Safe Oven Safe (250° up to 1 hour) Dishwasher Safe CPSC- FDA-Compliant for food contact 100% Made in the USA Non-toxic water based dyes Durable Finish Unbreakable
-  Updated: 2026-11-06T09:35:09Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Moms_Favorite_cookies_Christmas_Platter_Flat_Mockup_ea3dec47-b078-45dd-b881-6d53d55f50f9.png?v=1754578537
-  Price: $53.00 USD
-- [Personalized Valentine's Day Platter – Couples Gift](https://jewelryluxeus.shop/products/valentines-day-platter-personalized-wedding-day-platter-custom-serving-tray-engagement-gift-couples-gift-anniversary): Personalized Valentine's Day serving platter with names or message — 10×14″, microwave & dishwasher safe, made in USA. A unique couples or wedding gift.
-  Updated: 2026-11-06T09:35:10Z
-  Vendor: JewelryLuxeUS.Shop
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Valentines_Day_Platter_Personalized_We_Flat_Mockup.png?v=1754578541
-  Price: $53.00 USD
-- [Grandma's Little Dwarfs Christmas Platter, Holiday Serving Tray, Festive Kitchen Decor](https://jewelryluxeus.shop/products/grandmas-little-dwarfs-christmas-platter-holiday-serving-tray-festive-kitchen-decor): 10x14" serving platter manufactured from revolutionary polymer that is: Microwave Safe Oven Safe (250° up to 1 hour) Dishwasher Safe CPSC- FDA-Compliant for food contact 100% Made in the USA Non-toxic water based dyes Durable Finish Unbreakable
-  Updated: 2026-11-06T09:35:10Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Grandmas_Little_Dwarfs_Christmas_Platte_Flat_Mockup.png?v=1754578635
-  Price: $49.00 USD
-- [Mom's Cookie Tasting Crew Christmas Platter](https://jewelryluxeus.shop/products/moms-cookie-tasting-crew-christmas-platter): 10x14" serving platter manufactured from revolutionary polymer that is: Microwave Safe Oven Safe (250° up to 1 hour) Dishwasher Safe CPSC- FDA-Compliant for food contact 100% Made in the USA Non-toxic water based dyes Durable Finish Unbreakable
-  Updated: 2026-11-06T09:35:10Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Moms_Cookie_Tasting_Crew_Christmas_Plat_Flat_Mockup.png?v=1754578635
-  Price: $53.00 USD
-- [Mom's Christmas Gift, Mom's Favorite Cookies Plate, Family Platter, Personalized Gingerbread Christmas Plate, Gift for Mom Plate](https://jewelryluxeus.shop/products/moms-christmas-gift-moms-favorite-cookies-plate-family-platter-personalized-gingerbread-christmas-plate-gift-for-mom-plate): 10x14" serving platter manufactured from revolutionary polymer that is: Microwave Safe Oven Safe (250° up to 1 hour) Dishwasher Safe CPSC- FDA-Compliant for food contact 100% Made in the USA Non-toxic water based dyes Durable Finish Unbreakable
-  Updated: 2026-11-06T09:35:11Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Moms_Christmas_Gift_Moms_Favorite_Coo_Flat_Mockup.png?v=1754578635
-  Price: $49.00 USD
-- [Grandma's Little Helpers Christmas Platter, Holiday Serving Tray, Festive Kitchen Decor](https://jewelryluxeus.shop/products/grandmas-little-helpers-christmas-platter-holiday-serving-tray-festive-kitchen-decor): 10x14" serving platter manufactured from revolutionary polymer that is: Microwave Safe Oven Safe (250° up to 1 hour) Dishwasher Safe CPSC- FDA-Compliant for food contact 100% Made in the USA Non-toxic water based dyes Durable Finish Unbreakable
-  Updated: 2026-11-06T09:35:11Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Grandmas_Little_Helpers_Christmas_Platt_Flat_Mockup.png?v=1754578635
-  Price: $49.00 USD
-- [Grandma Christmas Gift, Grandma's Favorite Cookies Plate, Family Platter, Personalized Gingerbread Christmas Plate, Grandma Plate](https://jewelryluxeus.shop/products/grandma-christmas-gift-grandmas-favorite-cookies-plate-family-platter-personalized-gingerbread-christmas-plate-grandma-plate): 10x14" serving platter manufactured from revolutionary polymer that is: Microwave Safe Oven Safe (250° up to 1 hour) Dishwasher Safe CPSC- FDA-Compliant for food contact 100% Made in the USA Non-toxic water based dyes Durable Finish Unbreakable
-  Updated: 2026-11-06T09:35:11Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Grandma_Christmas_Gift_Grandmas_Favori_Flat_Mockup.png?v=1754578635
-  Price: $49.00 USD
-- [Merry Christmas Platter](https://jewelryluxeus.shop/products/merry-christmas-platter): 10x14" serving platter manufactured from revolutionary polymer that is: Microwave Safe Oven Safe (250° up to 1 hour) Dishwasher Safe CPSC- FDA-Compliant for food contact 100% Made in the USA Non-toxic water based dyes Durable Finish Unbreakable
-  Updated: 2026-11-06T09:35:11Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Merry_Christmas_Platter_Flat_Mockup.png?v=1754578639
-  Price: $49.00 USD
-- [Christmas Platter, christmas Food serving, Gift for Cooker, Gift for Baker, Cozy Gift, Table Decor, Kitchen Decor, Serving Platter](https://jewelryluxeus.shop/products/christmas-platter-christmas-food-serving-gift-for-cooker-gift-for-baker-cozy-gift-table-decor-kitchen-decor-serving-platter): Meet your new go-to serving platter! This awesome 10x14" platter is built for everyday use and those "I need to feed a crowd!" moments. Imagine this: You've whipped up a delicious casserole – this platter goes straight from oven to table (up to 300°F). Time for leftovers? Zap them in the microwave without switching dishes! Cleanup? Toss this baby in the dishwasher (yes, even commercial ones). Plus, it's made right here in the USA and completely free of those worrisome chemicals (BPA, melamine, formaldehyde – none of that!). We're talking safe, durable, and so convenient. Get ready to make mealtime a whole lot easier with this versatile serving platter!
-  Updated: 2026-11-06T09:35:12Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_Platter_christmas_Food_servin_Flat_Mockup.png?v=1754578639
-  Price: $49.00 USD
-- [Mom's Christmas Gift, Mom's Christmas Cookie tasting Crew Plate, Family Platter, Personalized Gingerbread Christmas Plate, Gift for Mom Plate](https://jewelryluxeus.shop/products/moms-christmas-gift-moms-christmas-cookie-tasting-crew-plate-family-platter-personalized-gingerbread-christmas-plate-gift-for-mom-plate): Meet your new go-to serving platter! This awesome 10x14" platter is built for everyday use and those "I need to feed a crowd!" moments. Imagine this: You've whipped up a delicious casserole – this platter goes straight from oven to table (up to 300°F). Time for leftovers? Zap them in the microwave without switching dishes! Cleanup? Toss this baby in the dishwasher (yes, even commercial ones). Plus, it's made right here in the USA and completely free of those worrisome chemicals (BPA, melamine, formaldehyde – none of that!). We're talking safe, durable, and so convenient. Get ready to make mealtime a whole lot easier with this versatile serving platter!
-  Updated: 2026-11-06T09:35:14Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Moms_Christmas_Gift_Moms_Christmas_Co_Flat_Mockup.png?v=1754578640
-  Price: $49.00 USD
-- [Mom's Christmas Gift, Mom's Christmas Cookie tasting Crew Plate, Family Platter, Personalized Gingerbread Christmas Plate, Gift for Mom Plate](https://jewelryluxeus.shop/products/moms-christmas-gift-moms-christmas-cookie-tasting-crew-plate-family-platter-personalized-gingerbread-christmas-plate-gift-for-mom-plate-1): Meet your new go-to serving platter! This awesome 10x14" platter is built for everyday use and those "I need to feed a crowd!" moments. Imagine this: You've whipped up a delicious casserole – this platter goes straight from oven to table (up to 300°F). Time for leftovers? Zap them in the microwave without switching dishes! Cleanup? Toss this baby in the dishwasher (yes, even commercial ones). Plus, it's made right here in the USA and completely free of those worrisome chemicals (BPA, melamine, formaldehyde – none of that!). We're talking safe, durable, and so convenient. Get ready to make mealtime a whole lot easier with this versatile serving platter!
-  Updated: 2026-11-06T09:35:14Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Moms_Christmas_Gift_Moms_Christmas_Co_Flat_Mockup_26506469-df86-4bd2-ad63-62ba3841ec7b.png?v=1754578639
-  Price: $49.00 USD
-- [Christmas Platter, christmas Food serving, Gift for Cooker, Gift for Baker, Cozy Gift, Table Decor, Kitchen Decor, Serving Platter](https://jewelryluxeus.shop/products/christmas-platter-christmas-food-serving-gift-for-cooker-gift-for-baker-cozy-gift-table-decor-kitchen-decor-serving-platter-1): Meet your new go-to serving platter! This awesome 10x14" platter is built for everyday use and those "I need to feed a crowd!" moments. Imagine this: You've whipped up a delicious casserole – this platter goes straight from oven to table (up to 300°F). Time for leftovers? Zap them in the microwave without switching dishes! Cleanup? Toss this baby in the dishwasher (yes, even commercial ones). Plus, it's made right here in the USA and completely free of those worrisome chemicals (BPA, melamine, formaldehyde – none of that!). We're talking safe, durable, and so convenient. Get ready to make mealtime a whole lot easier with this versatile serving platter!
-  Updated: 2026-11-06T09:35:15Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_Platter_christmas_Food_servin_Flat_Mockup_fa9a5671-8ee3-4983-8821-1ab6b63f5917.png?v=1754578643
-  Price: $49.00 USD
-- [Grandma Christmas Gift, Grandma's Favorite Cookies Plate, Family Platter, Personalized Gingerbread Christmas Plate, Grandma Plate](https://jewelryluxeus.shop/products/grandma-christmas-gift-grandmas-favorite-cookies-plate-family-platter-personalized-gingerbread-christmas-plate-grandma-plate-1): Meet your new go-to serving platter! This awesome 10x14" platter is built for everyday use and those "I need to feed a crowd!" moments. Imagine this: You've whipped up a delicious casserole – this platter goes straight from oven to table (up to 300°F). Time for leftovers? Zap them in the microwave without switching dishes! Cleanup? Toss this baby in the dishwasher (yes, even commercial ones). Plus, it's made right here in the USA and completely free of those worrisome chemicals (BPA, melamine, formaldehyde – none of that!). We're talking safe, durable, and so convenient. Get ready to make mealtime a whole lot easier with this versatile serving platter!
-  Updated: 2026-11-06T09:35:15Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Grandma_Christmas_Gift_Grandmas_Favori_Flat_Mockup_a8f5f25b-83a3-48ce-ae42-102f1df9bb72.png?v=1754578644
-  Price: $49.00 USD
-- [Mom's Christmas Gift, Mom's Favorite Cookies Plate, Family Platter, Personalized Gingerbread Christmas Plate, Gift for Mom Plate](https://jewelryluxeus.shop/products/moms-christmas-gift-moms-favorite-cookies-plate-family-platter-personalized-gingerbread-christmas-plate-gift-for-mom-plate-1): Meet your new go-to serving platter! This awesome 10x14" platter is built for everyday use and those "I need to feed a crowd!" moments. Imagine this: You've whipped up a delicious casserole – this platter goes straight from oven to table (up to 300°F). Time for leftovers? Zap them in the microwave without switching dishes! Cleanup? Toss this baby in the dishwasher (yes, even commercial ones). Plus, it's made right here in the USA and completely free of those worrisome chemicals (BPA, melamine, formaldehyde – none of that!). We're talking safe, durable, and so convenient. Get ready to make mealtime a whole lot easier with this versatile serving platter!
-  Updated: 2026-11-06T09:35:15Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Moms_Christmas_Gift_Moms_Favorite_Coo_Flat_Mockup_d58e9620-429d-4d7d-876b-7b4aa0314c27.png?v=1754578643
-  Price: $49.00 USD
-- [Platter Merry Christmas, Christmas gift, Table decoration, Christmas Table Decoration, Christmas Dinner](https://jewelryluxeus.shop/products/platter-merry-christmas-christmas-gift-table-decoration-christmas-table-decoration-christmas-dinner): Meet your new go-to serving platter! This awesome 10x14" platter is built for everyday use and those "I need to feed a crowd!" moments. Imagine this: You've whipped up a delicious casserole – this platter goes straight from oven to table (up to 300°F). Time for leftovers? Zap them in the microwave without switching dishes! Cleanup? Toss this baby in the dishwasher (yes, even commercial ones). Plus, it's made right here in the USA and completely free of those worrisome chemicals (BPA, melamine, formaldehyde – none of that!). We're talking safe, durable, and so convenient. Get ready to make mealtime a whole lot easier with this versatile serving platter!
-  Updated: 2026-11-06T09:35:15Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Platter_Merry_Christmas_Christmas_gift_Flat_Mockup.png?v=1754578693
-  Price: $49.00 USD
-- [Platter Merry Christmas, Christmas gift, Table decoration, Christmas Table Decoration, Christmas Dinner](https://jewelryluxeus.shop/products/platter-merry-christmas-christmas-gift-table-decoration-christmas-table-decoration-christmas-dinner-1): Meet your new go-to serving platter! This awesome 10x14" platter is built for everyday use and those "I need to feed a crowd!" moments. Imagine this: You've whipped up a delicious casserole – this platter goes straight from oven to table (up to 300°F). Time for leftovers? Zap them in the microwave without switching dishes! Cleanup? Toss this baby in the dishwasher (yes, even commercial ones). Plus, it's made right here in the USA and completely free of those worrisome chemicals (BPA, melamine, formaldehyde – none of that!). We're talking safe, durable, and so convenient. Get ready to make mealtime a whole lot easier with this versatile serving platter!
-  Updated: 2026-11-06T09:35:15Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Platter_Merry_Christmas_Christmas_gift_Flat_Mockup_fcccebc3-959d-4c28-b734-b06ee214af16.png?v=1754578697
-  Price: $49.00 USD
-- [Platter Merry Christmas, Christmas gift, Table decoration, Christmas Table Decoration, Christmas Dinner](https://jewelryluxeus.shop/products/platter-merry-christmas-christmas-gift-table-decoration-christmas-table-decoration-christmas-dinner-2): Meet your new go-to serving platter! This awesome 10x14" platter is built for everyday use and those "I need to feed a crowd!" moments. Imagine this: You've whipped up a delicious casserole – this platter goes straight from oven to table (up to 300°F). Time for leftovers? Zap them in the microwave without switching dishes! Cleanup? Toss this baby in the dishwasher (yes, even commercial ones). Plus, it's made right here in the USA and completely free of those worrisome chemicals (BPA, melamine, formaldehyde – none of that!). We're talking safe, durable, and so convenient. Get ready to make mealtime a whole lot easier with this versatile serving platter!
-  Updated: 2026-11-06T09:35:16Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Platter_Merry_Christmas_Christmas_gift_Flat_Mockup_e272f222-cccc-46e5-9480-19f32049b793.png?v=1754578695
-  Price: $49.00 USD
-- [Platter Merry Christmas, Christmas gift, Table decoration, Christmas Table Decoration, Christmas Dinner](https://jewelryluxeus.shop/products/platter-merry-christmas-christmas-gift-table-decoration-christmas-table-decoration-christmas-dinner-3): Meet your new go-to serving platter! This awesome 10x14" platter is built for everyday use and those "I need to feed a crowd!" moments. Imagine this: You've whipped up a delicious casserole – this platter goes straight from oven to table (up to 300°F). Time for leftovers? Zap them in the microwave without switching dishes! Cleanup? Toss this baby in the dishwasher (yes, even commercial ones). Plus, it's made right here in the USA and completely free of those worrisome chemicals (BPA, melamine, formaldehyde – none of that!). We're talking safe, durable, and so convenient. Get ready to make mealtime a whole lot easier with this versatile serving platter!
-  Updated: 2026-11-06T09:35:16Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Platter_Merry_Christmas_Christmas_gift_Flat_Mockup_8199cecc-0c19-4300-9292-037ab017d0e3.png?v=1754578695
-  Price: $49.00 USD
-- [Grandma Christmas Gift, Grandma's Favorite Cookies Plate, Family Platter, Personalized Gingerbread Christmas Plate, Grandma Plate](https://jewelryluxeus.shop/products/grandma-christmas-gift-grandmas-favorite-cookies-plate-family-platter-personalized-gingerbread-christmas-plate-grandma-plate-2): Meet your new go-to serving platter! This awesome 10x14" platter is built for everyday use and those "I need to feed a crowd!" moments. Imagine this: You've whipped up a delicious casserole – this platter goes straight from oven to table (up to 300°F). Time for leftovers? Zap them in the microwave without switching dishes! Cleanup? Toss this baby in the dishwasher (yes, even commercial ones). Plus, it's made right here in the USA and completely free of those worrisome chemicals (BPA, melamine, formaldehyde – none of that!). We're talking safe, durable, and so convenient. Get ready to make mealtime a whole lot easier with this versatile serving platter!
-  Updated: 2026-11-06T09:35:16Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Grandma_Christmas_Gift_Grandmas_Favori_Flat_Mockup_f57f3c27-bb8e-4cd8-9e13-22159ff47053.png?v=1754578695
-  Price: $49.00 USD
-- [Grandma Christmas Gift, Grandma's Favorite Cookies Plate, Family Platter, Personalized Gingerbread Christmas Plate, Grandma Plate](https://jewelryluxeus.shop/products/grandma-christmas-gift-grandmas-favorite-cookies-plate-family-platter-personalized-gingerbread-christmas-plate-grandma-plate-3): PRODUCT INFORMATION10" dinner plate manufactured from revolutionary polymer that is: Microwave Safe Oven Safe (250° up to 1 hour) Dishwasher Safe CPSC- FDA-Compliant for food contact 100% Made in the USA Non-toxic water based dyes Durable Finish Unbreakable Safety first, always. This plate is proudly made in the USA,  safe by all the important folks (CPSC and FDA), and colored with non-toxic dyes. Celebrate the joy of the holiday season with our exquisite Christmas plate. Crafted with care and attention to detail, this plate is adorned with intricate festive designs that capture the spirit of Christmas. Whether displayed as part of your holiday decor or used to serve culinary delights at your festive gatherings, this plate is sure to be a cherished addition to your collection. Made from high-quality materials, it exudes elegance and charm, making it a perfect gift for loved ones or a delightful treat for yourself. Embrace the magic of Christmas with this beautifully crafted plate that will bring warmth and cheer to your home throughout the holiday season. Add a touch of seasonal magic to your table setting with this enchanting Christmas plate.
-  Updated: 2026-11-06T09:35:16Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Grandma_Christmas_Gift_Grandmas_Favori_Flat_Mockup_6c984f34-63c5-44d9-acdb-75baabd57e38.png?v=1754578697
-  - [Single](https://jewelryluxeus.shop/products/grandma-christmas-gift-grandmas-favorite-cookies-plate-family-platter-personalized-gingerbread-christmas-plate-grandma-plate-3?variant=55436070093124)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Grandma_Christmas_Gift_Grandmas_Favori_Flat_Mockup_6c984f34-63c5-44d9-acdb-75baabd57e38.png?v=1754578697
-    Price: $36.00 USD
-  - [Set of Two](https://jewelryluxeus.shop/products/grandma-christmas-gift-grandmas-favorite-cookies-plate-family-platter-personalized-gingerbread-christmas-plate-grandma-plate-3?variant=55436070125892)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Grandma_Christmas_Gift_Grandmas_Favori_Flat_Mockup_6c984f34-63c5-44d9-acdb-75baabd57e38.png?v=1754578697
-    Price: $69.00 USD
-  - [Set of Four](https://jewelryluxeus.shop/products/grandma-christmas-gift-grandmas-favorite-cookies-plate-family-platter-personalized-gingerbread-christmas-plate-grandma-plate-3?variant=55436070158660)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Grandma_Christmas_Gift_Grandmas_Favori_Flat_Mockup_6c984f34-63c5-44d9-acdb-75baabd57e38.png?v=1754578697
-    Price: $136.00 USD
-- [Christmas House Plate, Festive Holiday Tableware, Seasonal Serving Platter, Christmas Dinner Decor, Winter Entertaining](https://jewelryluxeus.shop/products/christmas-house-plate-festive-holiday-tableware-seasonal-serving-platter-christmas-dinner-decor-winter-entertaining): PRODUCT INFORMATION10" dinner plate manufactured from revolutionary polymer that is: Microwave Safe Oven Safe (250° up to 1 hour) Dishwasher Safe CPSC- FDA-Compliant for food contact 100% Made in the USA Non-toxic water based dyes Durable Finish Unbreakable Safety first, always. This plate is proudly made in the USA,  safe by all the important folks (CPSC and FDA), and colored with non-toxic dyes. Celebrate the joy of the holiday season with our exquisite Christmas plate. Crafted with care and attention to detail, this plate is adorned with intricate festive designs that capture the spirit of Christmas. Whether displayed as part of your holiday decor or used to serve culinary delights at your festive gatherings, this plate is sure to be a cherished addition to your collection. Made from high-quality materials, it exudes elegance and charm, making it a perfect gift for loved ones or a delightful treat for yourself. Embrace the magic of Christmas with this beautifully crafted plate that will bring warmth and cheer to your home throughout the holiday season. Add a touch of seasonal magic to your table setting with this enchanting Christmas plate.
-  Updated: 2026-11-06T09:35:16Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_House_Plate_Festive_Holiday_T_Flat_Mockup.png?v=1754578699
-  - [Single](https://jewelryluxeus.shop/products/christmas-house-plate-festive-holiday-tableware-seasonal-serving-platter-christmas-dinner-decor-winter-entertaining?variant=55436070224196)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_House_Plate_Festive_Holiday_T_Flat_Mockup.png?v=1754578699
-    Price: $36.00 USD
-  - [Set of Two](https://jewelryluxeus.shop/products/christmas-house-plate-festive-holiday-tableware-seasonal-serving-platter-christmas-dinner-decor-winter-entertaining?variant=55436070256964)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_House_Plate_Festive_Holiday_T_Flat_Mockup.png?v=1754578699
-    Price: $69.00 USD
-  - [Set of Four](https://jewelryluxeus.shop/products/christmas-house-plate-festive-holiday-tableware-seasonal-serving-platter-christmas-dinner-decor-winter-entertaining?variant=55436070289732)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_House_Plate_Festive_Holiday_T_Flat_Mockup.png?v=1754578699
-    Price: $136.00 USD
-- [Christmas Plate with "Merry Christmas" Text, Festive Table Decor, Holiday Serving Platter, Gift For Her](https://jewelryluxeus.shop/products/christmas-plate-with-merry-christmas-text-festive-table-decor-holiday-serving-platter-gift-for-her): PRODUCT INFORMATION10" dinner plate manufactured from revolutionary polymer that is: Microwave Safe Oven Safe (250° up to 1 hour) Dishwasher Safe CPSC- FDA-Compliant for food contact 100% Made in the USA Non-toxic water based dyes Durable Finish Unbreakable Safety first, always. This plate is proudly made in the USA,  safe by all the important folks (CPSC and FDA), and colored with non-toxic dyes. Celebrate the joy of the holiday season with our exquisite Christmas plate. Crafted with care and attention to detail, this plate is adorned with intricate festive designs that capture the spirit of Christmas. Whether displayed as part of your holiday decor or used to serve culinary delights at your festive gatherings, this plate is sure to be a cherished addition to your collection. Made from high-quality materials, it exudes elegance and charm, making it a perfect gift for loved ones or a delightful treat for yourself. Embrace the magic of Christmas with this beautifully crafted plate that will bring warmth and cheer to your home throughout the holiday season. Add a touch of seasonal magic to your table setting with this enchanting Christmas plate.
-  Updated: 2026-11-06T09:35:17Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_Plate_with_Merry_Christmas_T_Flat_Mockup.png?v=1754578699
-  - [Single](https://jewelryluxeus.shop/products/christmas-plate-with-merry-christmas-text-festive-table-decor-holiday-serving-platter-gift-for-her?variant=55436070519108)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_Plate_with_Merry_Christmas_T_Flat_Mockup.png?v=1754578699
-    Price: $36.00 USD
-  - [Set of Two](https://jewelryluxeus.shop/products/christmas-plate-with-merry-christmas-text-festive-table-decor-holiday-serving-platter-gift-for-her?variant=55436070551876)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_Plate_with_Merry_Christmas_T_Flat_Mockup.png?v=1754578699
-    Price: $69.00 USD
-  - [Set of Four](https://jewelryluxeus.shop/products/christmas-plate-with-merry-christmas-text-festive-table-decor-holiday-serving-platter-gift-for-her?variant=55436070584644)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_Plate_with_Merry_Christmas_T_Flat_Mockup.png?v=1754578699
-    Price: $136.00 USD
-- [Christmas Decoration Plate, Holiday Table Decor, Red Green Serving Dish, Festive Xmas Platter](https://jewelryluxeus.shop/products/christmas-decoration-plate-holiday-table-decor-red-green-serving-dish-festive-xmas-platter): PRODUCT INFORMATION10" dinner plate manufactured from revolutionary polymer that is: Microwave Safe Oven Safe (250° up to 1 hour) Dishwasher Safe CPSC- FDA-Compliant for food contact 100% Made in the USA Non-toxic water based dyes Durable Finish Unbreakable Safety first, always. This plate is proudly made in the USA,  safe by all the important folks (CPSC and FDA), and colored with non-toxic dyes. Celebrate the joy of the holiday season with our exquisite Christmas plate. Crafted with care and attention to detail, this plate is adorned with intricate festive designs that capture the spirit of Christmas. Whether displayed as part of your holiday decor or used to serve culinary delights at your festive gatherings, this plate is sure to be a cherished addition to your collection. Made from high-quality materials, it exudes elegance and charm, making it a perfect gift for loved ones or a delightful treat for yourself. Embrace the magic of Christmas with this beautifully crafted plate that will bring warmth and cheer to your home throughout the holiday season. Add a touch of seasonal magic to your table setting with this enchanting Christmas plate.
-  Updated: 2026-11-06T09:35:17Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_Decoration_Plate_Holiday_Tabl_Flat_Mockup_ae64a681-0d0d-48da-baaf-675dbe375f51.png?v=1754578703
-  - [Single](https://jewelryluxeus.shop/products/christmas-decoration-plate-holiday-table-decor-red-green-serving-dish-festive-xmas-platter?variant=55436071141700)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_Decoration_Plate_Holiday_Tabl_Flat_Mockup_ae64a681-0d0d-48da-baaf-675dbe375f51.png?v=1754578703
-    Price: $36.00 USD
-  - [Set of Two](https://jewelryluxeus.shop/products/christmas-decoration-plate-holiday-table-decor-red-green-serving-dish-festive-xmas-platter?variant=55436071174468)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_Decoration_Plate_Holiday_Tabl_Flat_Mockup_ae64a681-0d0d-48da-baaf-675dbe375f51.png?v=1754578703
-    Price: $69.00 USD
-  - [Set of Four](https://jewelryluxeus.shop/products/christmas-decoration-plate-holiday-table-decor-red-green-serving-dish-festive-xmas-platter?variant=55436071207236)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_Decoration_Plate_Holiday_Tabl_Flat_Mockup_ae64a681-0d0d-48da-baaf-675dbe375f51.png?v=1754578703
-    Price: $136.00 USD
-- [Christmas Platter Mrs Claus,  Gift for Cooker, Gift for Baker, Christmas gift](https://jewelryluxeus.shop/products/christmas-platter-mrs-claus-gift-for-cooker-gift-for-baker-christmas-gift): Meet your new go-to serving platter! This awesome 10x14" platter is built for everyday use and those "I need to feed a crowd!" moments. Imagine this: You've whipped up a delicious casserole – this platter goes straight from oven to table (up to 300°F). Time for leftovers? Zap them in the microwave without switching dishes! Cleanup? Toss this baby in the dishwasher (yes, even commercial ones). Plus, it's made right here in the USA and completely free of those worrisome chemicals (BPA, melamine, formaldehyde – none of that!). We're talking safe, durable, and so convenient. Get ready to make mealtime a whole lot easier with this versatile serving platter!
-  Updated: 2026-11-06T09:35:17Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_Platter_Mrs_Claus__Gift_for_C_Flat_Mockup.png?v=1754578704
-  Price: $49.00 USD
-- [Christmas Platter Grandma's favorite Cookies,  Gift for Cooker, Gift for Baker, Christmas gift](https://jewelryluxeus.shop/products/christmas-platter-grandmas-favorite-cookies-gift-for-cooker-gift-for-baker-christmas-gift): Meet your new go-to serving platter! This awesome 10x14" platter is built for everyday use and those "I need to feed a crowd!" moments. Imagine this: You've whipped up a delicious casserole – this platter goes straight from oven to table (up to 300°F). Time for leftovers? Zap them in the microwave without switching dishes! Cleanup? Toss this baby in the dishwasher (yes, even commercial ones). Plus, it's made right here in the USA and completely free of those worrisome chemicals (BPA, melamine, formaldehyde – none of that!). We're talking safe, durable, and so convenient. Get ready to make mealtime a whole lot easier with this versatile serving platter!
-  Updated: 2026-11-06T09:35:17Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_Platter_Grandmas_favorite_Coo_Flat_Mockup.png?v=1754578704
-  Price: $49.00 USD
-- [Christmas Platter Nutcrackers,  Gift for Cooker, Gift for Baker, Christmas gift](https://jewelryluxeus.shop/products/christmas-platter-nutcrackers-gift-for-cooker-gift-for-baker-christmas-gift): Meet your new go-to serving platter! This awesome 10x14" platter is built for everyday use and those "I need to feed a crowd!" moments. Imagine this: You've whipped up a delicious casserole – this platter goes straight from oven to table (up to 300°F). Time for leftovers? Zap them in the microwave without switching dishes! Cleanup? Toss this baby in the dishwasher (yes, even commercial ones). Plus, it's made right here in the USA and completely free of those worrisome chemicals (BPA, melamine, formaldehyde – none of that!). We're talking safe, durable, and so convenient. Get ready to make mealtime a whole lot easier with this versatile serving platter!
-  Updated: 2026-11-06T09:35:17Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_Platter_Nutcrackers__Gift_for_Flat_Mockup.png?v=1754578705
-  Price: $49.00 USD
-- [Christmas Platter](https://jewelryluxeus.shop/products/christmas-platter): Meet your new go-to serving platter! This awesome 10x14" platter is built for everyday use and those "I need to feed a crowd!" moments. Imagine this: You've whipped up a delicious casserole – this platter goes straight from oven to table (up to 300°F). Time for leftovers? Zap them in the microwave without switching dishes! Cleanup? Toss this baby in the dishwasher (yes, even commercial ones). Plus, it's made right here in the USA and completely free of those worrisome chemicals (BPA, melamine, formaldehyde – none of that!). We're talking safe, durable, and so convenient. Get ready to make mealtime a whole lot easier with this versatile serving platter!
-  Updated: 2026-11-06T09:35:17Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Christmas_Platter_Flat_Mockup.png?v=1754578705
-  Price: $49.00 USD
-- [Grandma Christmas Gift, Grandma's Favorite Cookies Plate, Family Platter, Personalized Gingerbread Christmas Plate, Grandma Plate](https://jewelryluxeus.shop/products/grandma-christmas-gift-grandmas-favorite-cookies-plate-family-platter-personalized-gingerbread-christmas-plate-grandma-plate-4): Meet your new go-to serving platter! This awesome 10x14" platter is built for everyday use and those "I need to feed a crowd!" moments. Imagine this: You've whipped up a delicious casserole – this platter goes straight from oven to table (up to 300°F). Time for leftovers? Zap them in the microwave without switching dishes! Cleanup? Toss this baby in the dishwasher (yes, even commercial ones). Plus, it's made right here in the USA and completely free of those worrisome chemicals (BPA, melamine, formaldehyde – none of that!). We're talking safe, durable, and so convenient. Get ready to make mealtime a whole lot easier with this versatile serving platter!
-  Updated: 2026-11-06T09:35:18Z
-  Vendor: teelaunch
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Grandma_Christmas_Gift_Grandmas_Favori_Flat_Mockup_ee709539-9c01-430f-a3b3-e9ab56271a9e.png?v=1754578707
-  Price: $49.00 USD
-[List Continued](https://jewelryluxeus.shop/a/llms-agent/llms.txt?shop=tpr0h9-ns.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTIyNzAxNTg1NjQ1MiwibGFzdF92YWx1ZSI6IjE1MjI3MDE1ODU2NDUyIn0%3D)
+[List Continued](https://jewelryluxeus.shop/a/llms-agent/llms.txt?shop=tpr0h9-ns.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTE5Mzc2MzA4NjY2MCwibGFzdF92YWx1ZSI6IjE1MTkzNzYzMDg2NjYwIn0%3D)
 
 ## Collections
 
 - [Home page](https://jewelryluxeus.shop/collections/frontpage): Shop personalized memorial jewelry, custom gifts, necklaces, rings, bracelets, and keepsakes at JewelryLuxeUS. Meaningful pieces crafted to honor your loved ones.
-  Updated: 2026-11-06T09:34:39Z
+  Updated: 2026-11-10T06:51:07Z
   Total Products: 91
 - [Necklaces](https://jewelryluxeus.shop/collections/necklace): Shop personalized necklaces in sterling silver, gold, and rose gold. Memorial pendants, name necklaces, and custom engravings — meaningful jewelry for every moment.
-  Updated: 2026-11-06T11:51:07Z
-  Total Products: 246
+  Updated: 2026-11-11T12:22:54Z
+  Total Products: 250
 - [Rings](https://jewelryluxeus.shop/collections/ring): Shop personalized and memorial rings in gold, silver, and platinum. Engravable bands, gemstone rings, and custom designs for every meaningful occasion.
   Updated: 2026-11-06T09:34:39Z
   Total Products: 2
 - [Earrings](https://jewelryluxeus.shop/collections/earrings): Shop elegant earrings in sterling silver, gold, and platinum. Studs, hoops, and personalized memorial earrings for every style and occasion.
-  Updated: 2026-11-06T09:34:39Z
+  Updated: 2026-11-10T06:49:55Z
   Total Products: 7
 - [Custom Gifts](https://jewelryluxeus.shop/collections/custom-gifts): Find the perfect personalized gift — engraved jewelry, memorial keepsakes, and custom pieces for birthdays, anniversaries, and remembrance. Ships ready to gift.
-  Updated: 2026-11-06T11:50:24Z
-  Total Products: 334
+  Updated: 2026-11-14T16:38:57Z
+  Total Products: 341
 - [Keychains](https://jewelryluxeus.shop/collections/keychains): Shop personalized engraved keychains — custom names, dates, and messages. Meaningful memorial keepsakes and unique gifts for every occasion.
-  Updated: 2026-11-06T09:34:39Z
-  Total Products: 16
+  Updated: 2026-11-10T06:51:24Z
+  Total Products: 17
 - [What's the Time?](https://jewelryluxeus.shop/collections/watches): Shop personalized watches and memorial timepieces with custom engravings. Classic and modern styles — meaningful gifts for every milestone.
-  Updated: 2026-11-06T09:34:39Z
+  Updated: 2026-11-10T06:51:29Z
   Total Products: 22
 - [Music Box](https://jewelryluxeus.shop/collections/music-box): Shop handcrafted personalized music boxes — meaningful memorial gifts with custom tunes and engravings. Perfect for honoring a loved one or celebrating a milestone.
   Updated: 2026-11-06T09:34:39Z
   Total Products: 10
 - [All Products](https://jewelryluxeus.shop/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - JewelryLuxeUS.Shop
-  Updated: 2026-11-06T11:50:24Z
-  Total Products: 1070
+  Updated: 2026-11-14T16:38:54Z
+  Total Products: 1084
 - [Candles](https://jewelryluxeus.shop/collections/candles): Shop hand-poured soy candles in calming and uplifting scents. Meaningful memorial gifts and luxury home accessories — perfect for gifting or personal comfort.
-  Updated: 2026-11-06T09:34:39Z
+  Updated: 2026-11-10T06:50:51Z
   Total Products: 29
 - [A Piece of Them, Always With You](https://jewelryluxeus.shop/collections/memorial-jewelry): Shop memorial jewelry and personalized remembrance keepsakes — engraved necklaces, rings, and gifts to honor a loved one. Meaningful pieces crafted with care.
-  Updated: 2026-11-06T09:34:39Z
-  Total Products: 161
+  Updated: 2026-11-11T12:22:54Z
+  Total Products: 166
 - [Christmas](https://jewelryluxeus.shop/collections/seasonal-and-holiday): Shop personalized Christmas gifts — custom jewelry, memorial keepsakes, and engraved pieces. Meaningful holiday gifts for the people you love most.
-  Updated: 2026-11-06T09:34:39Z
-  Total Products: 365
+  Updated: 2026-11-14T16:38:57Z
+  Total Products: 371
 - [Bracelets](https://jewelryluxeus.shop/collections/bracelets): Shop personalized bracelets in sterling silver, gold, and rose gold. Memorial charm bracelets, engraved bangles, and custom designs for every occasion.
   Updated: 2026-11-06T09:34:39Z
   Total Products: 9
@@ -2440,38 +2574,44 @@
   Updated: 2026-11-06T09:34:39Z
   Total Products: 2
 - [Plates](https://jewelryluxeus.shop/collections/jewelry-dish): Wedding Plates, Christmas plates, Anniversary Plates
-  Updated: 2026-11-06T09:34:39Z
-  Total Products: 106
+  Updated: 2026-11-14T16:38:57Z
+  Total Products: 109
 - [Wedding & Anniversary Gifts](https://jewelryluxeus.shop/collections/wedding-anniversary): Discover the epitome of elegance and timeless romance with our exclusive Wedding and Anniversary Collection. Meticulously curated to celebrate the most cherished milestones, this collection embodies sophistication and grace, offering a stunning array of pieces designed to commemorate love's most beautiful moments. Our Wedding Collection features an exquisite selection of bridal jewelry, including luminous diamond necklaces, delicately crafted earrings, and statement bracelets that perfectly complement the radiance of a bride's special day. Each piece is thoughtfully designed to capture the essence of true love, ensuring that every bride feels extraordinary as she walks down the aisle. Our collection also offers a range of elegant accessories for the groom, from classic cufflinks to sophisticated tie clips, each piece crafted to add a touch of refinement to his wedding attire. Celebrate enduring love with our Anniversary Collection, where every piece tells a story of commitment and devotion. From intricately designed rings symbolizing everlasting bonds to elegant pendants and bracelets that mark years of cherished memories, this collection is a testament to love that grows stronger with each passing year. Choose from an array of precious metals and gemstones, each expertly crafted to honor the unique journey of every couple. Whether you are planning a wedding or celebrating an anniversary, our collection offers timeless pieces that will be treasured for a lifetime. Embrace the beauty of love with our Wedding and Anniversary Collection, where every piece is a testament to the elegance and enduring nature of true romance. - JewelryLuxeUS.Shop
-  Updated: 2026-11-06T09:34:39Z
+  Updated: 2026-11-10T06:51:11Z
   Total Products: 76
 - [Valentine's Day](https://jewelryluxeus.shop/collections/valentines-day): Celebrate love and make this Valentine's Day unforgettable with our exquisite collection of gifts, designed to delight and inspire the heart. Our curated selection features luxurious items that are perfect for expressing your affection to that special someone. From timeless classics to modern masterpieces, each piece in our collection has been thoughtfully chosen to convey your deepest emotions. Indulge in our range of elegantly crafted jewelry, where each piece is a testament to craftsmanship and beauty. Whether it's a stunning necklace, a pair of delicate earrings, or a sophisticated bracelet, our jewelry selection promises to enhance any romantic moment. For those looking to say "I love you" with the sweetness of indulgence, explore our array of gourmet chocolates and artisan confections. Each bite is a journey of exquisite flavors, designed to tantalize the senses and create lasting memories. Our Valentine's Day collection also includes premium fragrances, perfect for capturing the essence of romance. Choose from a variety of enchanting scents that evoke warmth, passion, and elegance. To create an intimate setting, explore our selection of luxury candles that fill the air with captivating aromas, ensuring your celebration is nothing short of magical. For the ultimate personalized touch, consider our custom gift options that allow you to add a unique message or monogram. Celebrate love in the most meaningful way with our Valentine's Day collection, where every gift is more than just a present—it's a heartfelt expression of love. - JewelryLuxeUS.Shop
-  Updated: 2026-11-06T09:34:39Z
+  Updated: 2026-11-10T06:49:59Z
   Total Products: 42
 - [Memorial Gifts](https://jewelryluxeus.shop/collections/memorial-gifts): Shop personalized memorial gifts — engraved jewelry, remembrance keepsakes, and sympathy gifts to honor a loved one. Meaningful pieces crafted with care.
-  Updated: 2026-11-06T09:34:39Z
-  Total Products: 115
+  Updated: 2026-11-10T06:51:26Z
+  Total Products: 120
 - [Home Decor](https://jewelryluxeus.shop/collections/home-decor)
-  Updated: 2026-11-06T09:34:39Z
-  Total Products: 215
+  Updated: 2026-11-10T06:51:20Z
+  Total Products: 226
 - [Kitchen](https://jewelryluxeus.shop/collections/kitchen)
-  Updated: 2026-11-06T09:34:40Z
-  Total Products: 428
+  Updated: 2026-11-14T16:38:57Z
+  Total Products: 432
 - [Wall Art](https://jewelryluxeus.shop/collections/wall-art)
-  Updated: 2026-11-06T09:34:40Z
+  Updated: 2026-11-10T06:49:53Z
   Total Products: 107
 - [Jewelry](https://jewelryluxeus.shop/collections/jewelry)
-  Updated: 2026-11-06T11:50:24Z
-  Total Products: 286
+  Updated: 2026-11-11T12:22:54Z
+  Total Products: 291
 - [Napkins, Towels, Table Runners](https://jewelryluxeus.shop/collections/napkins)
-  Updated: 2026-11-06T09:34:40Z
+  Updated: 2026-11-10T06:51:11Z
   Total Products: 90
 - [Seasonal & Holidays](https://jewelryluxeus.shop/collections/seasonal-holidays)
-  Updated: 2026-11-06T09:34:40Z
-  Total Products: 438
+  Updated: 2026-11-14T16:38:57Z
+  Total Products: 444
 - [Ornaments](https://jewelryluxeus.shop/collections/ornaments)
-  Updated: 2026-11-06T09:34:40Z
-  Total Products: 46
+  Updated: 2026-11-13T09:45:22Z
+  Total Products: 47
+- [Rugs](https://jewelryluxeus.shop/collections/rugs)
+  Updated: 2026-11-10T06:51:49Z
+  Total Products: 29
+- [Laundry Baskets](https://jewelryluxeus.shop/collections/laundry-baskets)
+  Updated: 2026-11-10T06:52:23Z
+  Total Products: 5
 
 ## Blogs
 
