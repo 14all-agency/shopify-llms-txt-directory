@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2026-02-12T10:15:08Z
 - Contact Email: info@seinajoenkonerengas.fi
-- Updated At: 2026-11-08T00:27:09.661Z
+- Updated At: 2026-11-15T00:27:35.827Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/husqvarna_tukityokaluvyo.jpg?v=1772435792
   Price: 34,90 € EUR
 - [Husqvarna teränhoitosarja raivaussahat | Viila](https://seinajoenkonerengas.fi/products/husqvarna-teranhoitosarja-raivaussahat): Husqvarna teränhoitosarja raivaussahat auttaa viilaamaan raivausterän oikein. Viilanohjain varmistaa oikeat kulmat ja mukana toimitetaan viila. Ei muovitaskua.
-  Updated: 2026-11-08T00:19:35Z
+  Updated: 2026-11-15T00:19:30Z
   Vendor: Husqvarna
   Product Type: Raivaussahojen tarvikkeet
   Availability: Available
@@ -102,7 +102,7 @@
   Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/husqvarna_powerbox_sahalaatikko.jpg?v=1772435802
   Price: 54,90 € EUR
 - [Viilankahva pyörö- ja lattaviilaan](https://seinajoenkonerengas.fi/products/viilankahva-pyoro-ja-lattaviilaan): Patentoitu viilan lukitusjärjestelmä. Sopii 4.0-4.5 mm pyöröviiloille ja 6. tai 8. tuuman lattaviiloille. 25˚:en ja 30˚:en siipien kulmat varmistavat oikean viilauskulman.
-  Updated: 2026-10-24T10:13:18Z
+  Updated: 2026-11-10T13:23:11Z
   Vendor: Husqvarna
   Product Type: Moottorisahojen tarvikkeet
   Availability: Available
@@ -130,7 +130,7 @@
   Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/husqvarna_pyoroviila.jpg?v=1772435807
   Price: 4,25 € EUR
 - [Ruuvisarja 8 kpl, Husqvarna tukityökaluvyöhön](https://seinajoenkonerengas.fi/products/ruuvisarja-8-kpl-husqvarna-tukityokaluvyohon): Ruuvisarja 8 kpl, Husqvarna tukityökaluvyöhön. Kätevä 8-osainen Husqvarna-ruuvisarja huolto- ja korjaustöihin sekä työkalujen mukana kuljetettavaksi.
-  Updated: 2026-09-25T00:50:02Z
+  Updated: 2026-11-14T19:07:35Z
   Vendor: Husqvarna
   Product Type: Husqvarna työkalut ja tarvikkeet
   Availability: Available
@@ -291,7 +291,7 @@
   Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/milwaukee_m18_bmt-421c_monitoimityokalu.jpg?v=1772435833
   Price: 389,00 € EUR
 - [Milwaukee M18 B5 5,0 Ah Akku](https://seinajoenkonerengas.fi/products/milwaukee-m18-b5-5-0-ah-akku): Milwaukee M18 B5 5,0 Ah akku tarjoaa jopa 2,5x pidemmän käyttöajan, 20 % enemmän tehoa ja kestää jopa -20°C pakkasissa ilman käyttöajan vähenemistä.
-  Updated: 2026-11-04T07:53:20Z
+  Updated: 2026-11-12T11:04:16Z
   Vendor: Seinäjoen Konerengas Oy
   Product Type: Milwaukee akkutyökalut
   Availability: Available
@@ -332,15 +332,29 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/husqvarna_automower_suojakatos_1_2b9a96b3-56fe-4e03-9ce0-e7998d052414.jpg?v=1772435841
   Price: 179,00 € EUR
+- [Pyöräharjasarja Automower 310 / 315 / 315X](https://seinajoenkonerengas.fi/products/pyoraharjasarja-automower-310-315-315x): Pyöräharjasarja Automower 310 / 315 / 315X pitää robottiruohonleikkurin pyörät puhtaina ja pidon hyvänä. Pakkaus sisältää 6 harjaa ja 2 kiinnikettä.
+  Updated: 2026-11-12T09:43:51Z
+  Vendor: Seinäjoen Konerengas Oy
+  Product Type: Robottiruohonleikkurien tarvikkeet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/husqvarna_automower_pyo_CC_88ra_CC_88harjasarja.jpg?v=1772435843
+  Price: 28,24 € EUR
 - [Husqvarna Automower latausaseman liitin 5 kpl pakkaus](https://seinajoenkonerengas.fi/products/latausaseman-liitin-5-kpl-pakkaus): Husqvarna Automower latausaseman liitin 5 kpl pakkaus yhdistää robottileikkurin kaapelit latausasemaan. Kätevä profiilipakattu varaosa huoltoon ja asennukseen.
-  Updated: 2026-09-24T23:48:26Z
+  Updated: 2026-11-13T11:04:11Z
   Vendor: Seinäjoen Konerengas Oy
   Product Type: Robottiruohonleikkurien tarvikkeet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/latausaseman_liitin.jpg?v=1772435845
   Price: 11,50 € EUR
+- [Husqvarna Automower 310 / 315 / 315X maastosarja](https://seinajoenkonerengas.fi/products/husqvarna-automower-310-315-315x-maastosarja): Sarja sisältää painavat takapyörät ja pyöräharjat, jotka varmistavat hyvän pidon rinteisellä nurmikolla. Sarja sopii Husqvarna Automower-malleihin 310 ja 315.
+  Updated: 2026-11-12T12:45:15Z
+  Vendor: Seinäjoen Konerengas Oy
+  Product Type: Robottiruohonleikkurien tarvikkeet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/husqvarna_automower_maastosarja.jpg?v=1772435845
+  Price: 80,00 € EUR
 - [Husqvarna Automower 420 / 430X / 440 / 450X maastosarja](https://seinajoenkonerengas.fi/products/husqvarna-automower-420-430x-440-450x-maastosarja): Tutustu Husqvarna Automowerin renkaisiin ja pyöräharjoihin, jotka tarjoavat erinomaisen pidon jopa rinteisillä nurmikoilla. Optimoi leikkaamisen tehokkuus!
-  Updated: 2026-09-04T04:07:53Z
+  Updated: 2026-11-12T12:45:15Z
   Vendor: Seinäjoen Konerengas Oy
   Product Type: Robottiruohonleikkurien tarvikkeet
   Availability: Available
@@ -368,19 +382,12 @@
   Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/husqvarna_536libx.jpg?v=1772435850
   Price: 249,00 € EUR
 - [Husqvarna X-Cut SP33G .325" 1,3 mm 13" 56L teräketju](https://seinajoenkonerengas.fi/products/husqvarna-x-cut-sp33g-325-1-3-mm-13-56l-teraketju): Tutustu Husqvarna X-Cut SP33G teräketjuun! Tämä kestävä ja tehokas 13" ketju, optimaalinen ammattilaisille ja vaativille käyttäjille. Erinomainen sahaustulos!
-  Updated: 2026-11-02T12:03:51Z
+  Updated: 2026-11-12T07:02:35Z
   Vendor: Husqvarna
   Product Type: Husqvarna teräketjut
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/husqvarna_x-cut_sp33g_teraketju.jpg?v=1772435851
   Price: 17,50 € EUR
-- [Husqvarna X-Cut SP33G .325" 1,3 mm 18" 72L teräketju](https://seinajoenkonerengas.fi/products/husqvarna-x-cut-sp33g-325-1-3-mm-18-72l-teraketju): Tutustu Husqvarna X-Cut SP33G teräketjuun, joka on suunniteltu ammattilaisille. Kestävä ja terävä, täyttää vaativat sahaustarpeet. Sopii 18" terälevyyn, 72 vetolenkkiä.
-  Updated: 2026-11-07T09:43:20Z
-  Vendor: Husqvarna
-  Product Type: Husqvarna teräketjut
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/husqvarna_x-cut_sp33g_teraketju_b4e6c52c-c9cc-427f-b448-0e5b36b5d2d1.jpg?v=1772435852
-  Price: 26,90 € EUR
 - [Husqvarna teränhoitosarja X-CUT SP33G](https://seinajoenkonerengas.fi/products/husqvarna-teranhoitosarja-x-cut-sp33g): Husqvarna teränhoitosarja X-CUT SP33G auttaa pitämään moottorisahan ketjun terävänä ja työn turvallisena. Mukana viilanohjain, viilankahva, kaksi pyöröviilaa ja lattaviila teroitukseen.
   Updated: 2026-10-22T10:32:17Z
   Vendor: Husqvarna
@@ -403,7 +410,7 @@
   Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/husqvarna_525bx_puhallin.jpg?v=1772435857
   Price: 449,00 € EUR
 - [Husqvarna X-Cut SP33G .325" 1,3 mm 15" 64L teräketju](https://seinajoenkonerengas.fi/products/husqvarna-x-cut-sp33g-325-1-3-mm-15-64l-teraketju): Husqvarna X-Cut SP33G teräketju, 0.325" ja 1,3 mm, on suunniteltu ammattilaisille. Kestävä ja terävä, tarjoaa erinomaisen sahaustuloksen. Osta nyt!
-  Updated: 2026-11-07T08:02:51Z
+  Updated: 2026-11-12T13:45:48Z
   Vendor: Husqvarna
   Product Type: Husqvarna teräketjut
   Availability: Available
@@ -612,13 +619,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/akkulaturi_CRX320.jpg?v=1772435901
   Price: 99,00 € EUR
-- [Paineilmakompressori 3-V 7,5 hp 925 l / 200 l musta](https://seinajoenkonerengas.fi/products/paineilmakompressori-3v-7-5-hp-925-l-200-l-musta): Paineilmakompressori 3-V 7,5 hp 925 l / 200 l musta tehokkaaseen käyttöön. 925 l/min, 200 l säiliö, 10 bar ja 5,5 kW kolmivaihemoottori korjaamoihin ja verstaisiin.
-  Updated: 2026-10-28T09:43:41Z
-  Vendor: Seinäjoen Konerengas Oy
-  Product Type: Paineilmalaitteet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/paineilmakompressori_XT200925.jpg?v=1772435904
-  Price: 1 590,00 € EUR
 - [Hallilämmitin öljy 15 kW 230 V](https://seinajoenkonerengas.fi/products/hallilammitin-oljy-15-kw-230-v): Tehokas 15 kW hallilämmitin, ylimääräinen tehokkuus dieselöljyllä. Ominaisuuksia: liekkivahti, RST palotila ja elektroninen sytys. Takuu 1 vuosi.
   Updated: 2026-09-04T04:07:58Z
   Vendor: Seinäjoen Konerengas Oy
@@ -668,13 +668,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/milwaukee_msl1000_jalusta_katkaisu-ja_jiirisahalle.jpg?v=1772435932
   Price: 225,00 € EUR
-- [Milwaukee M18 BMT-0 monitoimityökalu runko](https://seinajoenkonerengas.fi/products/milwaukee-m18-bmt-0-monitoimityokalu-runko): Milwaukee M18 BMT-0 monitoimityökalu runko on tehokas akkukäyttöinen työkalu sahaukseen ja materiaalin poistoon. 12 nopeusasetusta, FIXTEC ja LED-valo.
-  Updated: 2026-09-04T04:07:57Z
-  Vendor: Milwaukee
-  Product Type: Milwaukee akkutyökalut
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/milwaukee_m18_bmt-0_monitoimityokalu_runko.jpg?v=1772435935
-  Price: 199,00 € EUR
 - [Milwaukee M18 GG-0 rasvapuristin runko](https://seinajoenkonerengas.fi/products/milwaukee-m18-gg-0-rasvapuristin-runko): Milwaukee M18 GG-0 rasvapuristin runko tarjoaa 562 barin paineen, pitkän käyttöajan ja hyvän ergonomian. Sopii M18-akuille ja 400 ml putkiloille sekä 473 ml massalle.
   Updated: 2026-11-03T11:54:31Z
   Vendor: Milwaukee
@@ -683,7 +676,7 @@
   Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/milwaukee_m18_gg-0_rasvapuristin_runko.jpg?v=1772435936
   Price: 245,00 € EUR
 - [Milwaukee M12-18 FC pikalaturi](https://seinajoenkonerengas.fi/products/milwaukee-m12-18-fc-pikalaturi): Milwaukee M12-18 FC pikalaturi lataa kaikki M18™, M14™ ja M12™ REDLITHIUM™-ION -akut nopeasti ja tehokkaasti. Laturissa on peräkkäinen latausmahdollisuus, joka säästää aikaa.
-  Updated: 2026-11-04T07:53:21Z
+  Updated: 2026-11-10T11:03:02Z
   Vendor: Seinäjoen Konerengas Oy
   Product Type: Milwaukee akkutyökalut
   Availability: Available
@@ -795,7 +788,7 @@
   Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/milwaukee_msl_2000_jalusta_katkaisu_ja_jiirisahalle.jpg?v=1772435974
   Price: 239,00 € EUR
 - [Milwaukee M12 FIWF12-422X 1/2" iskevä mutterinväännin](https://seinajoenkonerengas.fi/products/milwaukee-m12-fiwf12-422x-1-2-iskeva-mutterinvaannin): Tutustu Milwaukee M12 FIWF12-422X 1/2" iskevään mutterinväännin. Kompaktin koon ansiosta ymmärrät voimasi ja hallintasi, jopa 339 Nm maksimivääntö.
-  Updated: 2026-09-28T10:18:16Z
+  Updated: 2026-11-13T09:03:26Z
   Vendor: Seinäjoen Konerengas Oy
   Product Type: Milwaukee akkutyökalut
   Availability: Available
@@ -808,6 +801,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/milwaukee_m12_fdd_akkuporakone_runko.jpg?v=1772435979
   Price: 169,00 € EUR
+- [Milwaukee M12 FIR38-0 Räikkäavain Runko](https://seinajoenkonerengas.fi/products/milwaukee-m12-fir38-0-raikkaavain-runko): Milwaukee M12 FIR38-0 räikkäavain runko tarjoaa jopa 75 Nm vääntömomentin sekä edistyksellisen REDLINK PLUS™-teknologian parantaen työkalun suorituskykyä ja kestävyyttä.
+  Updated: 2026-11-09T11:44:01Z
+  Vendor: Seinäjoen Konerengas Oy
+  Product Type: Milwaukee akkutyökalut
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/milwaukee_m12_fir38-0_raikkaavain_runko.jpg?v=1772435982
+  Price: 209,00 € EUR
 - [Milwaukee M12 SL-0 akkuvalaisin runko](https://seinajoenkonerengas.fi/products/milwaukee-m12-sl-0-akkuvalaisin-runko): Tutustu Milwaukee M12 SL-0 akkuvalaisimeen, joka tuottaa 220 lumenia tehokasta valoa. Kompakti muotoilu ja säädettävä koukku tekevät siitä erinomaisen valinnan!
   Updated: 2026-09-28T10:18:20Z
   Vendor: Seinäjoen Konerengas Oy
@@ -906,13 +906,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/ikh41.jpg?v=1772436025
   Price: 319,00 € EUR
-- [Kierreviila kierteiden korjaamiseen ISO/DIN](https://seinajoenkonerengas.fi/products/kierreviila-kierteiden-korjaamiseen): Kierreviila kierteiden korjaamiseen metrisille ISO/DIN-kierteille. Sopii 0,8–3 mm nousuille ja auttaa palauttamaan vaurioituneet kierteet tarkasti ja tehokkaasti.
-  Updated: 2026-09-23T21:46:34Z
-  Vendor: Seinäjoen Konerengas Oy
-  Product Type: Kierretyökalut
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/ku357971.jpg?v=1772436026
-  Price: 159,00 € EUR
 - [Kierteenkorjaussarja 14 mm tulpalle](https://seinajoenkonerengas.fi/products/kierteenkorjaussarja-14-mm-tulpalle): Kierteenkorjaussarja 14 mm tulpalle korjaa alumiinisen sylinterikannen vaurioituneet kierteet. Mukana kierteytystappi, avarrin ja kierreholkit eri kokoihin.
   Updated: 2026-09-25T01:18:44Z
   Vendor: Seinäjoen Konerengas Oy
@@ -1103,7 +1096,7 @@
   Image: https://cdn.shopify.com/s/files/1/1048/3371/2466/files/MA3240219.jpg?v=1772436062
   Price: 7,90 € EUR
 - [Mato rasvaprässin suukappale 4-leukainen](https://seinajoenkonerengas.fi/products/mato-rasvaprassin-suukappale-4-leukainen): Mato rasvaprässin suukappale 4-leukainen on laadukas nelileukainen kappale kaulanipoille. Karkaistut leuat, DIN 71412 ja R 1/8” liitäntäkierre takaavat varman käytön.
-  Updated: 2026-11-03T07:53:01Z
+  Updated: 2026-11-09T12:24:02Z
   Vendor: Seinäjoen Konerengas Oy
   Product Type: Rasvaprässit
   Availability: Available
@@ -1183,19 +1176,19 @@
   Updated: 2026-09-21T10:30:05Z
   Total Products: 41
 - [Husqvarna moottorisahat](https://seinajoenkonerengas.fi/collections/husqvarna-moottorisahat): Tervetuloa tutustumaan Husqvarna moottorisahoihin! Tehokkuus, kestävyys ja käyttäjäystävällisyys tekevät niistä erinomaisia työkaluja metsään ja pihaan. Tilaa nyt!
-  Updated: 2026-11-01T12:35:24Z
+  Updated: 2026-11-12T12:30:31Z
   Total Products: 39
 - [Husqvarna raivaussahat](https://seinajoenkonerengas.fi/collections/husqvarna-raivaussahat): Löydä tehokkaat Husqvarna raivaussahat metsän töihin! Valitse luotettavat mallit ja nauti työskentelystä tehokkuudella ja erinomaisella ergonomialla. Käy katsomassa!
   Updated: 2026-10-26T11:32:34Z
   Total Products: 10
 - [Husqvarna suojavarusteet](https://seinajoenkonerengas.fi/collections/husqvarna-suojavarusteet): Husqvarna suojavarusteet takaavat turvallisuuden ja mukavuuden metsätyössä. Valitse meiltä oikeat metsurinvarusteet ja työskentele turvallisesti!
-  Updated: 2026-11-05T12:44:31Z
+  Updated: 2026-11-14T12:27:28Z
   Total Products: 63
 - [Milwaukee M18 akkutyökalut](https://seinajoenkonerengas.fi/collections/milwaukee-m18-akkutyokalut): Milwaukee M18 akkutyökalut tarjoavat kevyet ja tehokkaat ratkaisut, jotka tekevät työstäsi helppoa. Hanki omasi nyt ja tunne ero!
   Updated: 2026-10-30T10:52:19Z
   Total Products: 161
 - [Milwaukee M12 akkutyökalut](https://seinajoenkonerengas.fi/collections/milwaukee-m12-akkutyokalut): Tutustu Milwaukee M12 akkutyökaluihin! Kevyet ja tehokkaat Milwaukee M12 akkutyökalut tekevät työskentelystä sujuvampaa ja tehokkaampaa. Luotettava valinta ammattilaisille!
-  Updated: 2026-11-04T15:26:46Z
+  Updated: 2026-11-10T08:49:28Z
   Total Products: 64
 - [Clen pesurit, imurit, pumput](https://seinajoenkonerengas.fi/collections/clen-pesurit-imurit-pumput): Laadukkaat Clen-tuotteet tunnetaan koko Suomessa jo kolmenkymmenen vuoden ajalta ja Clen-laitteita käytetään laajasti kodeissa, maatalouksissa ja teollisuudessa
   Updated: 2026-11-02T12:36:30Z
@@ -1222,13 +1215,13 @@
   Updated: 2026-06-05T14:42:21Z
   Total Products: 6
 - [Husqvarna moottorisahojen tarvikkeet](https://seinajoenkonerengas.fi/collections/husqvarna-moottorisahojen-tarvikkeet): Löydä kaikki Husqvarna moottorisahojen tarvikkeet, kuten ketjut, laipat ja työkalut. Paranna sahasi tehoa ja kestoa - shoppaile nyt!
-  Updated: 2026-11-02T12:36:30Z
+  Updated: 2026-11-13T12:28:28Z
   Total Products: 98
 - [Husqvarna teräketjut](https://seinajoenkonerengas.fi/collections/husqvarna-teraketjut): Löydä parhaat Husqvarna teräketjut moottorisahallesi. Valitse tarpeisiisi sopiva ketju  tehokkaaseen puunkaato- ja leikkaustyöhön!
-  Updated: 2026-11-02T12:36:30Z
+  Updated: 2026-11-13T12:28:28Z
   Total Products: 34
 - [Husqvarna terälevyt](https://seinajoenkonerengas.fi/collections/husqvarna-teralevyt): Tutustu Husqvarna terälevyihin, kuten X-Force ja X-Tough -sarjan vaihtoehtoihin. Löydä täydellinen terälevy moottorisahaasi ja osta nyt!
-  Updated: 2026-11-02T12:36:30Z
+  Updated: 2026-11-13T12:28:28Z
   Total Products: 39
 - [Viilat, ohjaimet ja teroituspaketit](https://seinajoenkonerengas.fi/collections/viilat-ohjaimet-ja-teroituspaketit)
   Updated: 2026-09-23T11:52:45Z
@@ -1246,8 +1239,8 @@
   Updated: 2026-09-21T11:30:49Z
   Total Products: 11
 - [Husqvarna puhaltimet](https://seinajoenkonerengas.fi/collections/husqvarna-puhaltimet): Löydä tehokkaat Husqvarna-puhaltimet erilaiseen käyttöön. Poista lehdet ja puhdista ulkotilat helposti. Tutustu valikoimaamme ja tilaa omasi!
-  Updated: 2026-11-03T12:37:03Z
-  Total Products: 19
+  Updated: 2026-11-13T12:28:28Z
+  Total Products: 20
 - [Husqvarna oksasahat](https://seinajoenkonerengas.fi/collections/husqvarna-oksasahat): Tutustu Husqvarna oksasahoihin, jotka tekevät puiden karsinnasta vaivatonta ja turvallista. Löydä täydellinen malli pihallesi tai ammattikäyttöön!
   Updated: 2026-09-21T11:30:49Z
   Total Products: 5
@@ -1261,7 +1254,7 @@
   Updated: 2026-08-25T08:39:53Z
   Total Products: 10
 - [Husqvarna akkupuhaltimet](https://seinajoenkonerengas.fi/collections/husqvarna-akkupuhaltimet): Husqvarna akkupuhaltimet tarjoavat kevyen ja tasapainoisen käyttökokemuksen. Koe tärinättömyys ja huipputeknologia. Löydä suosikkisi nyt!
-  Updated: 2026-11-01T12:35:24Z
+  Updated: 2026-11-13T12:28:28Z
   Total Products: 14
 - [Husqvarna akkupensasleikkurit](https://seinajoenkonerengas.fi/collections/husqvarna-akkupensasleikkurit): Tutustu Husqvarnan akkupensasleikkureihin! Helppokäyttöiset ja hiljaiset laitteet täydellisiin pensasleikkauksiin. Valitse omasi ja nauti kauniista pihasta!
   Updated: 2026-09-21T11:30:49Z
@@ -1276,10 +1269,10 @@
   Updated: 2026-07-07T11:41:10Z
   Total Products: 24
 - [Husqvarna raivaus- ja metsätyötakit](https://seinajoenkonerengas.fi/collections/husqvarna-raivaus-ja-metsatyotakit): Tutustu Husqvarnan ammattilais- ja työvaatteiden valikoimaan, jotka yhdistävät tyyliä ja turvallisuutta. Löydä oma työasusi nyt!
-  Updated: 2026-11-05T12:44:31Z
+  Updated: 2026-11-13T12:28:28Z
   Total Products: 13
 - [Husqvarna turvahousut ja -haalarit](https://seinajoenkonerengas.fi/collections/husqvarna-turvahousut-ja-haalarit): Tutustu Husqvarnan turvahousuihin ja -haalareihin, jotka tarjoavat turvallisuutta ja tyyliä jokaiselle työpäivälle. Valitse suosikkisi ja pysy suojassa!
-  Updated: 2026-10-21T11:32:29Z
+  Updated: 2026-11-14T12:27:28Z
   Total Products: 16
 - [Husqvarna kypärät](https://seinajoenkonerengas.fi/collections/husqvarna-kyparat): Husqvarna tarjoaa laadukkaita kypäriä metsätyökäyttöön. Valitse suosikkisi valikoimistamme ja suojaa pääsi työskennellessäsi!
   Updated: 2026-10-02T11:36:44Z
@@ -1291,7 +1284,7 @@
   Updated: 2026-10-24T11:27:35Z
   Total Products: 12
 - [Husqvarna sadeasut](https://seinajoenkonerengas.fi/collections/husqvarna-sadeasut): Tutustu Husqvarna sadeasuihin, joissa yhdistyvät hengittävyys ja vedenpitävyys. Valitse itsellesi sopivat takit ja housut. Osta nyt lisää ja pysy kuivana!
-  Updated: 2026-10-13T11:32:02Z
+  Updated: 2026-11-12T12:30:31Z
   Total Products: 6
 - [Husqvarna Rider ajoleikkurit](https://seinajoenkonerengas.fi/collections/husqvarna-rider-ajoleikkurit): Tutustu Husqvarna Rider ajoleikkureihin, joissa yhdistyvät mukavuus ja tehokkuus. Valitse suosikkisi ja tee ruohonleikkauksesta hauskaa. Osta oma nyt!
   Updated: 2026-09-24T13:10:32Z
@@ -1321,13 +1314,13 @@
   Updated: 2026-09-23T11:34:43Z
   Total Products: 33
 - [Husqvarna Xplorer vaatteet](https://seinajoenkonerengas.fi/collections/husqvarna-xplorer-vaatteet): Tutustu Husqvarna Xplorer vaatteisiin, jotka ovat täydellisiä ulkoiluun ja rentoutumiseen. Valitse kuoritakkeja, housuja ja lisää. Osta nyt suosikkisi!
-  Updated: 2026-10-29T11:33:54Z
+  Updated: 2026-11-11T12:30:57Z
   Total Products: 16
 - [Husqvarna Arboristin varusteet ja kiipeilytarvikkeet](https://seinajoenkonerengas.fi/collections/husqvarna-puunhoidon-tyovalineet): Husqvarnan Arborist Essentials -mallisto käsittää arboristin työhön ja kiipeilyyn tarvittavia huippulaatuisia varusteita puunhoidon ammattilaisille.
   Updated: 2026-09-21T13:11:39Z
   Total Products: 43
 - [Milwaukee akkutyökalut](https://seinajoenkonerengas.fi/collections/milwaukee-akkutyokalut): Tutustu Milwaukee akkutyökaluihin, jotka tarjoavat kevyen ja tehokkaan työskentelyn. Löydä parhaat työkalut ja takuut meiltä! Osta Milwaukee nyt!
-  Updated: 2026-11-04T15:26:46Z
+  Updated: 2026-11-14T12:27:28Z
   Total Products: 532
 - [Milwaukee testaus- ja mittauslaitteet](https://seinajoenkonerengas.fi/collections/milwaukee-testaus-ja-mittauslaitteet): Tutustu Milwaukee mittauslaitteisiin, jotka takaavat tarkkuuden ja luotettavuuden työssäsi. Valikoimastamme löydät huipputuotteita ammattilaisille ja kotiharrastajille!
   Updated: 2026-06-05T09:21:55Z
@@ -1384,7 +1377,7 @@
   Updated: 2026-06-04T11:20:06Z
   Total Products: 5
 - [Outlet - poistotuotteet](https://seinajoenkonerengas.fi/collections/outlet-poistotuotteet): Täällä myymme valikoimastamme poistuvien tuotteiden varastossamme jäljellä olevat kappaleet poistohinnoin.
-  Updated: 2026-11-06T11:07:40Z
+  Updated: 2026-11-13T12:28:28Z
   Total Products: 59
 - [Lelut ja pienoismallit](https://seinajoenkonerengas.fi/collections/lelut-ja-pienoismallit)
   Updated: 2026-11-05T08:55:41Z
@@ -1405,10 +1398,10 @@
   Updated: 2026-10-31T11:25:53Z
   Total Products: 35
 - [Työkengät ja suojaimet](https://seinajoenkonerengas.fi/collections/tyokengat-ja-suojaimet)
-  Updated: 2026-11-05T12:44:31Z
+  Updated: 2026-11-14T12:27:28Z
   Total Products: 51
 - [Sievi työkengät](https://seinajoenkonerengas.fi/collections/sievi-tyokengat): Sievi työkengät tarjoavat turvallisuutta ja mukavuutta pitkiin työpäiviin vaativissa työympäristöissä. Löydä oikeat mallit ja paranna työtehokkuuttasi jo tänään!
-  Updated: 2026-11-05T12:44:31Z
+  Updated: 2026-11-13T12:28:28Z
   Total Products: 25
 - [Kuulonsuojaimet](https://seinajoenkonerengas.fi/collections/kuulonsuojaimet)
   Updated: 2026-10-14T10:37:29Z
@@ -1417,16 +1410,16 @@
   Updated: 2026-05-12T13:23:16Z
   Total Products: 12
 - [Suojalasit](https://seinajoenkonerengas.fi/collections/suojalasit)
-  Updated: 2026-11-04T10:45:54Z
+  Updated: 2026-11-14T12:27:28Z
   Total Products: 8
 - [Kasvomaskit](https://seinajoenkonerengas.fi/collections/kasvomaskit)
   Updated: 2026-09-24T11:46:10Z
   Total Products: 2
 - [Työkalut](https://seinajoenkonerengas.fi/collections/tyokalut)
-  Updated: 2026-11-06T14:04:06Z
+  Updated: 2026-11-13T12:28:28Z
   Total Products: 375
 - [Aggregaatit](https://seinajoenkonerengas.fi/collections/aggregaatit): Tutustu aggregaattivalikoimaamme, joka pitää työmaan ja mökin sähköt toimintakunnossa! Osta nyt ja varmista varavirta kätevästi!
-  Updated: 2026-10-28T11:35:08Z
+  Updated: 2026-11-13T12:28:28Z
   Total Products: 6
 - [Akkulaturit ja apukäynnistimet](https://seinajoenkonerengas.fi/collections/akkulaturit-ja-apukaynnistimet): Tutustu laadukkaisiin akkulatureihimme ja apukäynnistimiimme! Tarjoamme tehokkaita ratkaisuja ajoneuvojen sähkön tarpeisiin, olipa se sitten retkellä tai arjessa.
   Updated: 2026-10-12T10:11:51Z
@@ -1435,8 +1428,8 @@
   Updated: 2026-06-08T08:16:25Z
   Total Products: 12
 - [Lämmitys ja ilmanvaihto](https://seinajoenkonerengas.fi/collections/lammitys-ja-ilmanvaihto)
-  Updated: 2026-11-06T14:04:06Z
-  Total Products: 19
+  Updated: 2026-11-11T12:30:57Z
+  Total Products: 26
 - [Paineilmalaitteet](https://seinajoenkonerengas.fi/collections/paineilmalaitteet)
   Updated: 2026-10-23T10:56:38Z
   Total Products: 5
@@ -1492,8 +1485,8 @@
   Updated: 2026-06-01T05:53:17Z
   Total Products: 15
 - [Husqvarna puutarha ja metsänhoito](https://seinajoenkonerengas.fi/collections/husqvarna-puutarha-metsanhoito): Löydä Husqvarnan laadukkaat puutarha- ja metsänhoitotuotteet! Innovatiiviset ratkaisut, robottiruohonleikkurit ja moottorisahat odottavat sinua. Tilaa nyt!
-  Updated: 2026-11-06T09:03:06Z
-  Total Products: 610
+  Updated: 2026-11-14T12:27:28Z
+  Total Products: 611
 - [Milwaukee puukkosahanterät](https://seinajoenkonerengas.fi/collections/milwaukee-puukkosahanterat): Löydä Milwaukee puukkosahanterät, jotka tarjoavat parhaan suorituskyvyn puun ja muovin sahaamiseen. Tutustu kokoelmaamme ja paranna työsi sujuvuutta!
   Updated: 2026-09-22T10:29:17Z
   Total Products: 41
@@ -1655,8 +1648,8 @@
   Updated: 2026-06-05T14:17:13Z
 - [Kverneland-karhottimet](https://seinajoenkonerengas.fi/pages/kverneland-karhottimet): Karhotus työmenetelmänä on nopeasti yleistynyt myös Suomessa korjuukoneitten kasvaessa. Useimmiten karhottimia käytetään karhojen yhdistämiseen, jo...
   Updated: 2026-06-05T14:17:47Z
-- [Yhteystiedot – Seinäjoen Konerengas Oy](https://seinajoenkonerengas.fi/pages/yhteystiedot): Seinäjoen Konerengas Oy (HAUTOMONKATU 14)PL 186, 60101 SEINÄJOKIPuh. 064217450info@seinajoenkonerengas.fi Aukioloajat Arkisin 8 – 17Lauantaisin 9 –...
-  Updated: 2026-06-05T14:25:48Z
+- [Yhteystiedot – Seinäjoen Konerengas Oy](https://seinajoenkonerengas.fi/pages/yhteystiedot): Seinäjoen Konerengas Oy HAUTOMONKATU 1460120 SEINÄJOKIPuh. 064217450info@seinajoenkonerengas.fi Aukioloajat Arkisin 8 – 17Lauantaisin 9 – 13 Maatal...
+  Updated: 2026-11-13T13:47:17Z
 - [Yritys - Seinäjoen Konerengas Oy](https://seinajoenkonerengas.fi/pages/yritys): Seinäjoen Konerengas Oy - konekauppaa vuodesta 1986 Olemme Seinäjoella vuodesta 1986 toiminut kone- ja työkalualan erikoisliike. Laajasta tuotevali...
   Updated: 2026-06-05T14:28:37Z
 - [Verkkokaupan toimitukset](https://seinajoenkonerengas.fi/pages/verkkokaupan-toimitukset): Ilmainen toimitus yli 250€ tilauksiin 25 kg saakka! Tarjoamme ilmaisen toimituksen yli 250€ tilauksiin tuotteille joiden paino on alle 25 kg. Ilmai...
