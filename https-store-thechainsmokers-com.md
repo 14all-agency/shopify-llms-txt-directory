@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2019-03-07T18:46:46Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-08T01:04:10.266Z
+- Updated At: 2026-11-15T01:06:09.907Z
 
 ## Products
 
@@ -115,34 +115,6 @@
   - [2XL](https://store.thechainsmokers.com/products/copy-of-the-chainsmokers-grid-long-sleeve-tee?variant=39691082465342)
     Availability: Available
     Price: $55.00 USD
-- [Oval Tee](https://store.thechainsmokers.com/products/the-chainsmokers-oval-tee-white): UnisexMade in U.S.A.Los Angeles Apparel100% Cotton
-  Updated: 2026-10-20T19:06:01Z
-  Vendor: The Chainsmokers
-  Product Type: SHIRT
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/products/chainsmokers-oval-tee-white_The-Chainsmokers.png?v=1653600266
-  - [S](https://store.thechainsmokers.com/products/the-chainsmokers-oval-tee-white?variant=39718720340030)
-    Availability: Available
-    Price: $35.00 USD
-  - [M](https://store.thechainsmokers.com/products/the-chainsmokers-oval-tee-white?variant=39718720372798)
-    Availability: Available
-    Price: $35.00 USD
-  - [L](https://store.thechainsmokers.com/products/the-chainsmokers-oval-tee-white?variant=39718720405566)
-    Availability: Available
-    Price: $35.00 USD
-  - [XL](https://store.thechainsmokers.com/products/the-chainsmokers-oval-tee-white?variant=39718720438334)
-    Availability: Available
-    Price: $35.00 USD
-  - [2XL](https://store.thechainsmokers.com/products/the-chainsmokers-oval-tee-white?variant=39718720471102)
-    Availability: Available
-    Price: $35.00 USD
-- [TCS Tote](https://store.thechainsmokers.com/products/the-chainsmokers-tcs-tote-bag): 100% Cotton canvas
-  Updated: 2026-10-05T13:01:38Z
-  Vendor: The Chainsmokers
-  Product Type: Tote Bag
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/products/tcs-black-canvas-tote-bag_The-Chainsmokers.png?v=1653601087
-  Price: $20.00 USD
 - [TCS Bucket Hat - Black](https://store.thechainsmokers.com/products/the-chainsmokers-tcs-bucket-hat-black): Select quantities of this item are signed and will be shipped at random. 100% Cotton twillUnstructured, 3 1/2" crown 2" brim One size fits most
   Updated: 2026-10-05T13:01:38Z
   Vendor: The Chainsmokers
@@ -374,13 +346,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/files/TCS_11.png?v=1722891638
   Price: $40.00 USD
-- [Texas Koozie](https://store.thechainsmokers.com/products/texas-koozie)
-  Updated: 2026-10-05T13:01:58Z
-  Vendor: The Chainsmokers
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/files/TCSTEXASKOOZIE-3.png?v=1762447861
-  Price: $2.50 USD
 - [Everyday Hat](https://store.thechainsmokers.com/products/everyday-hat): The Chainsmokers Everyday Hat in black. Mid Profile, durable plastic snap closure
   Updated: 2026-11-06T21:47:02Z
   Vendor: The Chainsmokers
@@ -409,33 +374,12 @@
   - [XXL](https://store.thechainsmokers.com/products/stamp-long-sleeve?variant=52644387684641)
     Availability: Available
     Price: $60.00 USD
-- [Stamp Tee](https://store.thechainsmokers.com/products/stamp-tee): The Chainsmokers Stamp Tee in black with front print only.
-  Updated: 2026-11-05T22:50:16Z
-  Vendor: The Chainsmokers Store
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/files/TCSECHOTEE-2.png?v=1778253576
-  - [S](https://store.thechainsmokers.com/products/stamp-tee?variant=52645546688801)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [M](https://store.thechainsmokers.com/products/stamp-tee?variant=52645546721569)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [L](https://store.thechainsmokers.com/products/stamp-tee?variant=52645546754337)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [XL](https://store.thechainsmokers.com/products/stamp-tee?variant=52645546787105)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [2XL](https://store.thechainsmokers.com/products/stamp-tee?variant=52645546819873)
-    Availability: Available
-    Price: $40.00 USD
 
 ## Collections
 
 - [Home page](https://store.thechainsmokers.com/collections/frontpage)
-  Updated: 2026-11-06T12:03:50Z
-  Total Products: 61
+  Updated: 2026-11-12T15:19:06Z
+  Total Products: 62
 - [New & Featured](https://store.thechainsmokers.com/collections/new-featured)
   Updated: 2026-10-17T11:02:31Z
   Total Products: 7
@@ -443,10 +387,10 @@
   Updated: 2026-10-17T11:02:31Z
   Total Products: 4
 - [APPAREL](https://store.thechainsmokers.com/collections/apparel)
-  Updated: 2026-11-06T12:03:50Z
+  Updated: 2026-11-12T15:19:06Z
   Total Products: 79
 - [ACCESSORIES](https://store.thechainsmokers.com/collections/accessories)
-  Updated: 2026-11-06T12:03:50Z
+  Updated: 2026-11-09T20:50:21Z
   Total Products: 33
 - [MUSIC](https://store.thechainsmokers.com/collections/music)
   Updated: 2026-07-08T21:52:47Z
@@ -458,11 +402,11 @@
   Updated: 2026-10-20T19:06:03Z
   Total Products: 8
 - [](https://store.thechainsmokers.com/collections/salecollection)
-  Updated: 2026-10-20T19:06:04Z
+  Updated: 2026-11-09T20:49:58Z
   Total Products: 22
 - [All](https://store.thechainsmokers.com/collections/all)
-  Updated: 2026-11-06T12:03:50Z
-  Total Products: 136
+  Updated: 2026-11-12T15:19:06Z
+  Total Products: 137
 - [The Party Never Ends](https://store.thechainsmokers.com/collections/the-party-never-ends)
   Updated: 2026-10-20T19:06:03Z
   Total Products: 9
@@ -470,10 +414,10 @@
   Updated: 2026-10-20T19:06:04Z
   Total Products: 8
 - [No Hard Feelings](https://store.thechainsmokers.com/collections/no-hard-feelings)
-  Updated: 2026-09-02T11:02:54Z
+  Updated: 2026-11-09T20:50:21Z
   Total Products: 7
 - [T-Shirts](https://store.thechainsmokers.com/collections/t-shirts)
-  Updated: 2026-11-06T12:03:50Z
+  Updated: 2026-11-12T15:19:06Z
   Total Products: 48
 - [Outerwear](https://store.thechainsmokers.com/collections/outerwear)
   Updated: 2026-10-15T11:03:19Z
@@ -482,10 +426,10 @@
   Updated: 2026-07-08T21:52:48Z
   Total Products: 2
 - [UPSELL](https://store.thechainsmokers.com/collections/upsell)
-  Updated: 2026-10-12T11:02:19Z
+  Updated: 2026-11-09T20:50:11Z
   Total Products: 4
 - [Echo Collection](https://store.thechainsmokers.com/collections/echo-collection)
-  Updated: 2026-11-06T12:03:50Z
+  Updated: 2026-11-12T15:19:06Z
   Total Products: 3
 
 ## Store Pages
