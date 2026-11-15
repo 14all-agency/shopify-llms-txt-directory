@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2022-09-27T20:59:19Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-07T01:07:32.636Z
+- Updated At: 2026-11-15T01:08:45.920Z
 
 ## Products
 
@@ -245,7 +245,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $15.00 USD
 - [Tie Dye Hoodie](https://fortunefeimster.merchmadeeasy.com/products/tie-dye-hoodie): Tie dye hoodie featuring the FF Ice Cream logo. A throwback classic!
-  Updated: 2026-10-06T17:40:35Z
+  Updated: 2026-11-09T21:12:40Z
   Vendor: Fortune Feimster
   Product Type: Hoodie
   Availability: Available
@@ -321,7 +321,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFLLL2023TourPoster.png?v=1690573355
   Price: $20.00 USD
 - [Sunbeam Hoodie](https://fortunefeimster.merchmadeeasy.com/products/sunbeam-hoodie): 80/20 cotton/polyester blend fleece with 100% cotton face hoodie in black
-  Updated: 2026-10-08T08:17:22Z
+  Updated: 2026-11-11T21:05:06Z
   Vendor: Fortune Feimster
   Product Type: Hoodie
   Availability: Available
@@ -336,7 +336,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $55.00 USD
   - [X-Large](https://fortunefeimster.merchmadeeasy.com/products/sunbeam-hoodie?variant=40718259421257)
-    Availability: Not Available
+    Availability: Available
     Price: $55.00 USD
   - [2X-Large](https://fortunefeimster.merchmadeeasy.com/products/sunbeam-hoodie?variant=40718259454025)
     Availability: Available
@@ -423,7 +423,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/473970471-ff-2-sweet-2-salty-poster_4d003fa4-2121-4781-95c6-ec1a8441f321.png?v=1721918880
   Price: $25.00 USD
 - [Fortune In Canada Poster - SIGNED](https://fortunefeimster.merchmadeeasy.com/products/fortune-in-canada-poster-signed): Get a hand-signed moose-tastic Canada poster today!
-  Updated: 2026-10-05T13:02:59Z
+  Updated: 2026-11-13T15:25:12Z
   Vendor: Fortune Feimster
   Product Type: Poster
   Availability: Available
@@ -516,7 +516,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FF_Biscuits_Hat_Front.png?v=1743625296
   Price: $35.00 USD
 - [Takin' Care of Biscuits Hoodie](https://fortunefeimster.merchmadeeasy.com/products/takin-care-of-biscuits-hoodie): 50/50 cotton/poly fleece hoodie in heather navy Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/8 M 29 22 35 1/8 L 30 24 36 1/8 XL 31 26 37 1/8 2XL 32 28 37 1/8 3XL 33 30 38 1/8
-  Updated: 2026-10-22T20:53:56Z
+  Updated: 2026-11-14T19:28:51Z
   Vendor: Fortune Feimster
   Product Type: Hoodie
   Availability: Available
@@ -615,19 +615,19 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://fortunefeimster.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-24T11:08:05Z
+  Updated: 2026-11-12T12:10:27Z
   Total Products: 28
 - [Apparel](https://fortunefeimster.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-24T11:08:05Z
+  Updated: 2026-11-12T12:10:27Z
   Total Products: 20
 - [Accessories](https://fortunefeimster.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-22T11:10:47Z
+  Updated: 2026-11-14T12:07:37Z
   Total Products: 18
 - [All](https://fortunefeimster.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-24T11:08:05Z
+  Updated: 2026-11-14T12:07:37Z
   Total Products: 38
 - [Vintage Merch](https://fortunefeimster.merchmadeeasy.com/collections/old-merch)
-  Updated: 2026-10-22T11:10:47Z
+  Updated: 2026-11-14T12:07:37Z
   Total Products: 8
 - [](https://fortunefeimster.merchmadeeasy.com/collections/)
   Updated: 2026-10-11T11:07:53Z
@@ -636,16 +636,16 @@ your agent can transact everywhere.
   Updated: 2026-10-24T11:08:05Z
   Total Products: 16
 - [Ice Cream Collection](https://fortunefeimster.merchmadeeasy.com/collections/ice-cream-collection)
-  Updated: 2026-10-07T11:08:34Z
+  Updated: 2026-11-10T12:07:56Z
   Total Products: 5
 - [$40](https://fortunefeimster.merchmadeeasy.com/collections/40)
-  Updated: 2026-10-23T11:12:34Z
+  Updated: 2026-11-12T12:10:27Z
   Total Products: 4
 - [$30](https://fortunefeimster.merchmadeeasy.com/collections/30)
   Updated: 2026-10-23T11:12:34Z
   Total Products: 7
 - [$20](https://fortunefeimster.merchmadeeasy.com/collections/20)
-  Updated: 2026-09-15T11:07:48Z
+  Updated: 2026-11-14T12:07:37Z
   Total Products: 6
 - [$10](https://fortunefeimster.merchmadeeasy.com/collections/10)
   Updated: 2026-10-06T19:40:31Z
@@ -657,13 +657,13 @@ your agent can transact everywhere.
   Updated: 2026-07-13T17:38:11Z
   Total Products: 0
 - [Takin' Care of Biscuits](https://fortunefeimster.merchmadeeasy.com/collections/takin-care-of-biscuits)
-  Updated: 2026-10-23T14:09:03Z
+  Updated: 2026-11-12T12:10:27Z
   Total Products: 7
 - [New Arrivals](https://fortunefeimster.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-10-24T11:08:05Z
+  Updated: 2026-11-14T12:07:37Z
   Total Products: 38
 - [Best Sellers](https://fortunefeimster.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-10-24T11:08:05Z
+  Updated: 2026-11-14T12:07:37Z
   Total Products: 38
 - [$5 Treats](https://fortunefeimster.merchmadeeasy.com/collections/5-bin)
   Updated: 2026-10-06T19:40:31Z
