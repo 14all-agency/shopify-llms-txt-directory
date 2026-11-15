@@ -10,7 +10,7 @@
 - Contact Email: shop@iqjersey.com
 - Contact Phone: +44 1534 769320
 - Address: iQ Music and Computer Solutions Ltd, 54-60 King Street, Saint Helier, JE4 8NB, Jersey
-- Updated At: 2026-11-07T00:58:03.813Z
+- Updated At: 2026-11-15T00:56:26.591Z
 
 ## What We 
 
@@ -55,22 +55,15 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/D9A30C79-03AC-4159-B8E5-2409E7F6.png?v=1742552223
   Price: £23.50 GBP
-- [Belkin Boost Charge 3-in-1 Qi Charger - Black](https://iqjersey.com/products/belkin-boost-charge-3-in-1-qi-charger-black)
-  Updated: 2026-10-01T11:22:21Z
-  Vendor: Belkin
-  Product Type: Charger
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/BD52D6B3-DBA6-41B1-9A5F-34989493.png?v=1742552221
-  Price: £87.50 GBP
 - [Belkin Boost Charge Braided USB-C to Lightning Cable - 2m - White](https://iqjersey.com/products/belkin-boost-charge-braided-usb-c-to-lightning-cable-2m-white)
-  Updated: 2026-11-02T19:00:21Z
+  Updated: 2026-11-07T19:00:21Z
   Vendor: Belkin
   Product Type: Charging Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/E892122A-EBC6-49EA-A04E-A561836C.png?v=1742552219
   Price: £20.00 GBP
 - [Belkin Boost Charge Braided USB-C to USB-C Cable - 1m - White](https://iqjersey.com/products/belkin-boost-charge-braided-usb-c-to-usb-c-cable-1m-white)
-  Updated: 2026-11-05T12:06:07Z
+  Updated: 2026-11-13T12:24:53Z
   Vendor: Belkin
   Product Type: Charging Cable
   Availability: Available
@@ -90,27 +83,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-5648955.png?v=1742552119
   Price: £27.00 GBP
-- [13-inch iPad Pro Wi-Fi 2TB Standard Glass - Silver (M4)](https://iqjersey.com/products/13-inch-ipad-pro-m4-mvx93nf-a): iPad Pro. Built for Apple Intelligence. It’s impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display and superfast Wi Fi 6E. Along with Apple Pencil Pro and Magic Keyboard, it brings endless versatility, creativity and productivity to your fingertips.
-  Updated: 2026-10-12T16:13:41Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13192283.jpg?v=1742552118
-  Price: £1,800.00 GBP
-- [42mm Green/Grey Nike Sport Loop](https://iqjersey.com/products/2024-apple-watch-nike-sport-loop-mxty3zm-a): The Nike Sport Loop has been redesigned to use excess yarn from previous seasons to create a soft, breathable and lightweight strap with a bold pattern. The hook-and-loop fastener and a woven pull tab featuring the Nike Swoosh makes it easy to adjust on the go. The double-layer nylon weave has dense loops on the skin side that provide soft cushioning while allowing moisture to escape. The Nike Sport Loop contains at least 68% excess yarn from previous seasons, saving over three tonnes of primary yarn.
-  Updated: 2025-09-18T05:32:53Z
-  Vendor: Apple
-  Product Type: Apple Watch Band
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666732.png?v=1742552112
-  Price: £44.00 GBP
-- [iPhone 15 Plus 512GB Yellow](https://iqjersey.com/products/iphone-15-mu1m3zd-a): iPhone 15 Plus brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
-  Updated: 2026-03-20T11:16:23Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892874.jpg?v=1742552092
-  Price: £962.00 GBP
 - [11-inch iPad Air Wi-Fi 512GB - Starlight (M2)](https://iqjersey.com/products/11-inch-ipad-air-m2-muwn3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip. It features a stunning 11‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
   Updated: 2026-10-13T12:40:28Z
   Vendor: Apple
@@ -118,13 +90,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196088.jpg?v=1742552084
   Price: £687.00 GBP
-- [11-inch iPad Air Wi-Fi 1TB - Blue (M2)](https://iqjersey.com/products/11-inch-ipad-air-m2-muwr3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip. It features a stunning 11‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-10-13T12:39:22Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196059.jpg?v=1766472939
-  Price: £862.00 GBP
 - [iPhone 16 Silicone Case with MagSafe - Plum](https://iqjersey.com/products/iphone-16-silicone-case-with-magsafe-myy43zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
   Updated: 2026-09-01T11:52:59Z
   Vendor: Apple
@@ -132,20 +97,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666245.png?v=1742552071
   Price: £43.50 GBP
-- [13-inch iPad Pro Wi-Fi 256GB Standard Glass - Space Black (M4)](https://iqjersey.com/products/13-inch-ipad-pro-m4-mvx23nf-a): iPad Pro. Built for Apple Intelligence. It’s impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display and superfast Wi Fi 6E. Along with Apple Pencil Pro and Magic Keyboard, it brings endless versatility, creativity and productivity to your fingertips.
-  Updated: 2026-10-12T16:12:12Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13192293_f45ed50d-fe97-4979-b077-9c8a60a17c74.jpg?v=1742552065
-  Price: £1,138.00 GBP
-- [42mm Slate Milanese Loop](https://iqjersey.com/products/2024-apple-watch-milanese-loop-mxmp3zm-a): A modern interpretation of a design developed in Milan at the end of the 19th century. Woven on specialised Italian machines, the smooth stainless steel mesh wraps fluidly around your wrist. And because it’s fully magnetic, the Milanese Loop is infinitely adjustable, ensuring a perfect fit. An additional physical vapour deposition (PVD) layer gives the stainless steel its distinctive finish. This strap is carbon neutral. The Milanese Loop contains 65% recycled content by weight, 100% of manufacturing electricity is covered by clean energy, and 50% or less of all carbon-neutral Apple Watch products are shipped by air.
-  Updated: 2026-05-15T07:13:07Z
-  Vendor: Apple
-  Product Type: Apple Watch Band
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666792.png?v=1742552035
-  Price: £87.00 GBP
 - [45mm Magic Ember Nike Sport Band - M/L](https://iqjersey.com/products/2023-apple-watch-nike-sport-band-muvf3zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-17T19:39:37Z
   Vendor: Apple
@@ -153,20 +104,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526815.png?v=1742552033
   Price: £43.00 GBP
-- [42mm Natural Milanese Loop](https://iqjersey.com/products/2024-apple-watch-milanese-loop-mxmm3zm-a): A modern interpretation of a design developed in Milan at the end of the 19th century. Woven on specialised Italian machines, the smooth stainless steel mesh wraps fluidly around your wrist. And because it’s fully magnetic, the Milanese Loop is infinitely adjustable, ensuring a perfect fit. An additional physical vapour deposition (PVD) layer gives the stainless steel its distinctive finish. This strap is carbon neutral. The Milanese Loop contains 65% recycled content by weight, 100% of manufacturing electricity is covered by clean energy, and 50% or less of all carbon-neutral Apple Watch products are shipped by air.
-  Updated: 2026-05-15T07:12:27Z
-  Vendor: Apple
-  Product Type: Apple Watch Band
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666771.png?v=1742552027
-  Price: £87.00 GBP
-- [iPhone 15 Plus 512GB Blue](https://iqjersey.com/products/iphone-15-mu1p3zd-a): iPhone 15 Plus brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
-  Updated: 2026-03-20T08:01:12Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892850.jpg?v=1742552021
-  Price: £962.00 GBP
 - [45mm Blue Flame Nike Sport Band - M/L](https://iqjersey.com/products/2023-apple-watch-nike-sport-band-muv93zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-17T19:38:37Z
   Vendor: Apple
@@ -174,13 +111,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526739.png?v=1742552009
   Price: £43.00 GBP
-- [46mm Gold Milanese Loop - M/L](https://iqjersey.com/products/2024-apple-watch-milanese-loop-mxmr3zm-a): A modern interpretation of a design developed in Milan at the end of the 19th century. Woven on specialised Italian machines, the smooth stainless steel mesh wraps fluidly around your wrist. And because it’s fully magnetic, the Milanese Loop is infinitely adjustable, ensuring a perfect fit. An additional physical vapour deposition (PVD) layer gives the stainless steel its distinctive finish. This strap is carbon neutral. The Milanese Loop contains 65% recycled content by weight, 100% of manufacturing electricity is covered by clean energy, and 50% or less of all carbon-neutral Apple Watch products are shipped by air.
-  Updated: 2026-05-15T07:13:40Z
-  Vendor: Apple
-  Product Type: Apple Watch Band
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666882.png?v=1742552004
-  Price: £87.00 GBP
 - [45mm Midnight Sky Nike Sport Band - M/L](https://iqjersey.com/products/2023-apple-watch-nike-sport-band-muv53zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-03-18T05:14:44Z
   Vendor: Apple
@@ -196,7 +126,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526618.png?v=1742551970
   Price: £43.00 GBP
 - [iPhone 16 Clear Case with MagSafe](https://iqjersey.com/products/iphone-16-clear-case-with-magsafe-ma6a4zm-a): Thin, light and easy to grip — this Apple-designed case shows off the brilliant coloured finish of iPhone 16 while providing extra protection. Crafted with a blend of optically clear polycarbonate and flexible materials, the case fits over the buttons for easy use. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. On the surface, a scratch-resistant coating has been applied to both the interior and exterior. And all materials and coatings are optimised to prevent yellowing over time. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-11-05T12:00:48Z
+  Updated: 2026-11-13T12:12:26Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
@@ -216,20 +146,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526673.png?v=1742551959
   Price: £43.00 GBP
-- [iPhone 16 Plus 256GB Black](https://iqjersey.com/products/iphone-16-mxwn3qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-10-01T23:46:54Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14778154.jpg?v=1742551949
-  Price: £775.00 GBP
-- [Apple Watch SE GPS 44mm Silver Aluminium Case with Denim Sport Band - M/L](https://iqjersey.com/products/2024-apple-watch-se-sport-band-2nd-generation-mxer3qa-a): Essential features to help you stay connected, active, healthy, and safe.
-  Updated: 2026-05-14T11:57:42Z
-  Vendor: Apple
-  Product Type: Apple Watch
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14854539.jpg?v=1742551947
-  Price: £219.00 GBP
 - [45mm Magic Ember Nike Sport Band - S/M](https://iqjersey.com/products/2023-apple-watch-nike-sport-band-muve3zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-17T19:39:27Z
   Vendor: Apple
@@ -237,34 +153,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526818.png?v=1742551937
   Price: £43.00 GBP
-- [iPhone 16 Plus Silicone Case with MagSafe - Denim](https://iqjersey.com/products/iphone-16-plus-silicone-case-with-magsafe-myya3zm-a): Designed by Apple to complement iPhone 16 Plus, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16 Plus, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-09-10T09:48:50Z
-  Vendor: Apple
-  Product Type: Silicone Case with MagSafe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666104.png?v=1742551929
-  Price: £43.50 GBP
-- [46mm Gold Milanese Loop - S/M](https://iqjersey.com/products/2024-apple-watch-milanese-loop-mc7k4zm-a): A modern interpretation of a design developed in Milan at the end of the 19th century. Woven on specialised Italian machines, the smooth stainless steel mesh wraps fluidly around your wrist. And because it’s fully magnetic, the Milanese Loop is infinitely adjustable, ensuring a perfect fit. An additional physical vapour deposition (PVD) layer gives the stainless steel its distinctive finish. This strap is carbon neutral. The Milanese Loop contains 65% recycled content by weight, 100% of manufacturing electricity is covered by clean energy, and 50% or less of all carbon-neutral Apple Watch products are shipped by air.
-  Updated: 2026-05-15T07:08:46Z
-  Vendor: Apple
-  Product Type: Apple Watch Band
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666885.png?v=1742551927
-  Price: £87.00 GBP
-- [11-inch iPad Pro Wi-Fi 512GB Standard Glass - Silver (M4)](https://iqjersey.com/products/11-inch-ipad-pro-m4-mvvd3nf-a): iPad Pro. Built for Apple Intelligence. It’s impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display and superfast Wi Fi 6E. Along with Apple Pencil Pro and Magic Keyboard, it brings endless versatility, creativity and productivity to your fingertips.
-  Updated: 2026-10-12T16:10:03Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13192243_198c474c-ac0e-4814-939d-df06c0a04f3d.jpg?v=1742551923
-  Price: £975.00 GBP
-- [49mm Black Titanium Milanese Loop - Medium](https://iqjersey.com/products/2024-apple-watch-milanese-loop-mxkg3zm-a): The Titanium Milanese Loop features aerospace-grade titanium mesh with a secure parachute-style buckle. Inspired by stainless steel mesh historically used by divers and designed for ocean activities. Made of lightweight titanium, it’s perfect for any occasion. This strap is carbon neutral. The Titanium Milanese Loop contains 85% recycled content by weight, 100% of manufacturing electricity is covered by clean energy, and 50% or more of all carbon-neutral Apple Watch products are shipped by air.
-  Updated: 2026-05-15T07:11:58Z
-  Vendor: Apple
-  Product Type: Apple Watch Band
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666999.png?v=1742551918
-  Price: £175.00 GBP
 - [41mm Desert Stone Nike Sport Band - M/L](https://iqjersey.com/products/2023-apple-watch-nike-sport-band-muur3zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-17T19:35:09Z
   Vendor: Apple
@@ -272,83 +160,27 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526573.png?v=1742551911
   Price: £43.00 GBP
-- [iPhone 16 Plus Silicone Case with MagSafe - Ultramarine](https://iqjersey.com/products/iphone-16-plus-silicone-case-with-magsafe-myyf3zm-a): Designed by Apple to complement iPhone 16 Plus, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16 Plus, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-09-10T09:48:59Z
-  Vendor: Apple
-  Product Type: Silicone Case with MagSafe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666134.png?v=1742551904
-  Price: £43.50 GBP
-- [iPhone 15 Plus 128GB Yellow](https://iqjersey.com/products/iphone-15-mu123zd-a): iPhone 15 Plus brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
-  Updated: 2026-10-12T08:02:19Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892874_e9a11d1e-1af8-411b-80b3-fdb7e99f2ff6.jpg?v=1742551897
-  Price: £630.00 GBP
-- [iPhone 15 128GB Yellow](https://iqjersey.com/products/iphone-15-mtp23zd-a): iPhone 15 brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
-  Updated: 2026-05-13T14:34:44Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892882.jpg?v=1742551893
-  Price: £512.00 GBP
 - [iPhone 16 128GB Black](https://iqjersey.com/products/iphone-16-mye73qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-11-06T19:02:57Z
+  Updated: 2026-11-13T16:21:08Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14778134_b5097ee8-b9c7-4a08-b013-da4f43443714.jpg?v=1742551868
   Price: £700.00 GBP
 - [iPhone 16 Silicone Case with MagSafe - Fuchsia](https://iqjersey.com/products/iphone-16-silicone-case-with-magsafe-myy53zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-10-05T09:56:29Z
+  Updated: 2026-11-09T12:40:18Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666233.png?v=1742551863
   Price: £43.50 GBP
 - [iPhone 16 128GB White](https://iqjersey.com/products/iphone-16-mye93qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-11-02T12:58:37Z
+  Updated: 2026-11-14T15:18:57Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14778224_6e2aec4c-e0a1-4ecd-a7d4-a683b6cbc13b.jpg?v=1742551855
   Price: £700.00 GBP
-- [49mm Black Titanium Milanese Loop - Small](https://iqjersey.com/products/2024-apple-watch-milanese-loop-mxkf3zm-a): The Titanium Milanese Loop features aerospace-grade titanium mesh with a secure parachute-style buckle. Inspired by stainless steel mesh historically used by divers and designed for ocean activities. Made of lightweight titanium, it’s perfect for any occasion. This strap is carbon neutral. The Titanium Milanese Loop contains 85% recycled content by weight, 100% of manufacturing electricity is covered by clean energy, and 50% or more of all carbon-neutral Apple Watch products are shipped by air.
-  Updated: 2026-05-15T07:11:34Z
-  Vendor: Apple
-  Product Type: Apple Watch Band
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14667002.png?v=1742551841
-  Price: £175.00 GBP
-- [11-inch iPad Pro Wi-Fi 2TB Standard Glass - Silver (M4)](https://iqjersey.com/products/11-inch-ipad-pro-m4-mvvh3nf-a): iPad Pro. Built for Apple Intelligence. It’s impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display and superfast Wi Fi 6E. Along with Apple Pencil Pro and Magic Keyboard, it brings endless versatility, creativity and productivity to your fingertips.
-  Updated: 2026-10-12T16:08:21Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13192243_01e021cb-84d6-46c2-9544-2e91f0b23d84.jpg?v=1742551810
-  Price: £1,550.00 GBP
-- [iPhone 15 512GB Yellow](https://iqjersey.com/products/iphone-15-mtpf3zd-a): iPhone 15 brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
-  Updated: 2026-07-27T18:02:38Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892882_b638308c-41ee-4311-b019-a0fab54f05ac.jpg?v=1742551794
-  Price: £875.00 GBP
-- [iPhone 15 128GB Blue](https://iqjersey.com/products/iphone-15-mtp43zd-a): iPhone 15 brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
-  Updated: 2026-05-13T14:34:43Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892816.jpg?v=1742551790
-  Price: £512.00 GBP
-- [13-inch iPad Air Wi-Fi + Cellular 128GB - Purple (M2)](https://iqjersey.com/products/13-inch-ipad-air-m2-mv6u3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip.It features a stunning 13‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E and 5G capability. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-09-22T08:46:22Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196108.jpg?v=1742551776
-  Price: £731.00 GBP
 - [11-inch iPad Air Wi-Fi 512GB - Space Grey (M2)](https://iqjersey.com/products/11-inch-ipad-air-m2-muwl3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip. It features a stunning 11‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
   Updated: 2026-10-13T12:38:21Z
   Vendor: Apple
@@ -370,13 +202,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14778214_12d48173-7eac-4026-99e6-8daf83de9054.jpg?v=1742551757
   Price: £700.00 GBP
-- [iPhone 15 Plus 512GB Black](https://iqjersey.com/products/iphone-15-mu1h3zd-a): iPhone 15 Plus brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
-  Updated: 2026-05-13T14:06:53Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892842.jpg?v=1742551749
-  Price: £962.00 GBP
 - [iPhone 16 Plus Silicone Case with MagSafe - Lake Green](https://iqjersey.com/products/iphone-16-plus-silicone-case-with-magsafe-myyh3zm-a): Designed by Apple to complement iPhone 16 Plus, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16 Plus, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
   Updated: 2026-08-12T08:16:15Z
   Vendor: Apple
@@ -405,34 +230,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526766.png?v=1742551711
   Price: £43.00 GBP
-- [iPhone 16 Plus 256GB Teal](https://iqjersey.com/products/iphone-16-mxy53qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-11-03T16:08:06Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14778174_f197becd-7b4f-4746-bbad-8738e20768aa.jpg?v=1742551709
-  Price: £775.00 GBP
-- [11-inch iPad Air Wi-Fi 1TB - Purple (M2)](https://iqjersey.com/products/11-inch-ipad-air-m2-muwu3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip. It features a stunning 11‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-10-14T00:37:29Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196069_c592ecfa-829e-4b37-94f5-10f95b07a7d0.jpg?v=1766473154
-  Price: £862.00 GBP
-- [13-inch iPad Air Wi-Fi 1TB - Purple (M2)](https://iqjersey.com/products/13-inch-ipad-air-m2-mv2t3nf-a): The 13 inch iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip.It features a stunning 13 inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-10-14T01:36:03Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196148_f67645e6-3fab-4d5a-8d62-8df99d371537.jpg?v=1742551666
-  Price: £1,038.00 GBP
-- [11-inch iPad Pro Wi-Fi 512GB Standard Glass - Space Black (M4)](https://iqjersey.com/products/11-inch-ipad-pro-m4-mvvc3nf-a): iPad Pro. Built for Apple Intelligence. It’s impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display and superfast Wi Fi 6E. Along with Apple Pencil Pro and Magic Keyboard, it brings endless versatility, creativity and productivity to your fingertips.
-  Updated: 2026-10-13T04:04:57Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13192253_baf6ca60-b8b1-4fd9-b613-530ca0247f9e.jpg?v=1742551657
-  Price: £975.00 GBP
 - [45mm Pure Platinum Nike Sport Band - M/L](https://iqjersey.com/products/2023-apple-watch-nike-sport-band-muv13zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-17T19:37:07Z
   Vendor: Apple
@@ -441,26 +238,12 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526870.png?v=1742551648
   Price: £43.00 GBP
 - [Apple Watch Magnetic Fast Charger to USB-C Cable (1 m)](https://iqjersey.com/products/apple-watch-magnetic-fast-charger-to-usb-c-cable-1-m-mt0h3zm-a): Durable, woven cable with fast-charging capabilities for selected Apple Watch models. Simply hold the connector near the back of the watch, where magnets cause it to snap into place automatically.
-  Updated: 2026-10-08T18:03:34Z
+  Updated: 2026-11-13T19:03:56Z
   Vendor: Apple
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10527007.png?v=1742551634
   Price: £26.00 GBP
-- [iPhone 15 Plus 512GB Green](https://iqjersey.com/products/iphone-15-mu1q3zd-a): iPhone 15 Plus brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
-  Updated: 2026-03-13T19:06:01Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892858.jpg?v=1742551618
-  Price: £962.00 GBP
-- [13-inch iPad Air Wi-Fi 1TB - Space Grey (M2)](https://iqjersey.com/products/13-inch-ipad-air-m2-mv2p3nf-a): The 13 inch iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip.It features a stunning 13 inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-10-14T01:35:09Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196159_f87ec4e5-af55-4b2a-998c-d94d3ff1c2c9.jpg?v=1765972353
-  Price: £1,038.00 GBP
 - [45mm Cargo Khaki Nike Sport Band - M/L](https://iqjersey.com/products/2023-apple-watch-nike-sport-band-muvd3zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-17T19:39:07Z
   Vendor: Apple
@@ -468,20 +251,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526748.png?v=1742551560
   Price: £43.00 GBP
-- [49mm Black Titanium Milanese Loop - Large](https://iqjersey.com/products/2024-apple-watch-milanese-loop-mxkh3zm-a): The Titanium Milanese Loop features aerospace-grade titanium mesh with a secure parachute-style buckle. Inspired by stainless steel mesh historically used by divers and designed for ocean activities. Made of lightweight titanium, it’s perfect for any occasion. This strap is carbon neutral. The Titanium Milanese Loop contains 85% recycled content by weight, 100% of manufacturing electricity is covered by clean energy, and 50% or more of all carbon-neutral Apple Watch products are shipped by air.
-  Updated: 2026-05-15T07:12:11Z
-  Vendor: Apple
-  Product Type: Apple Watch Band
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666996.png?v=1742551558
-  Price: £175.00 GBP
-- [iPhone 15 Plus 256GB Black](https://iqjersey.com/products/iphone-15-mu183zd-a): iPhone 15 Plus brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
-  Updated: 2026-05-13T14:06:53Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892842_2b077d2f-2d3b-4d56-b89a-a8cfd7837b88.jpg?v=1742551545
-  Price: £787.00 GBP
 - [13-inch iPad Air Wi-Fi 1TB - Starlight (M2)](https://iqjersey.com/products/13-inch-ipad-air-m2-mv2r3nf-a): The 13 inch iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip.It features a stunning 13 inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
   Updated: 2026-10-27T09:29:58Z
   Vendor: Apple
@@ -489,20 +258,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196168_d0a99699-670f-47a1-aa7e-cb638a1de9d3.jpg?v=1742551530
   Price: £1,038.00 GBP
-- [AirPods Max - Midnight](https://iqjersey.com/products/airpods-max-mww43zm-a): AirPods Max, the ultimate listening experience. Now in five new colours. An Apple-designed driver provides high-fidelity audio. Every detail, from canopy to cushions, has been designed for an exceptional fit. Pro-level Active Noise Cancellation blocks outside noise, while Transparency mode keeps you connected to your environment. Updated with a USB-C connector for even more convenient charging.
-  Updated: 2026-10-21T21:50:07Z
-  Vendor: Apple
-  Product Type: AirPods
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14772793.jpg?v=1742551500
-  Price: £437.00 GBP
-- [iPhone 16 Plus 128GB Black](https://iqjersey.com/products/iphone-16-mxvu3qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-10-01T22:55:34Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14778154_d78a5268-b131-43a7-9059-20a7538d3a3a.jpg?v=1742551490
-  Price: £687.00 GBP
 - [45mm Desert Stone Nike Sport Band - M/L](https://iqjersey.com/products/2023-apple-watch-nike-sport-band-muv73zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-17T19:38:11Z
   Vendor: Apple
@@ -510,13 +265,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526763.png?v=1742551471
   Price: £43.00 GBP
-- [iPhone 15 512GB Green](https://iqjersey.com/products/iphone-15-mtph3zd-a): iPhone 15 brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
-  Updated: 2026-07-27T18:02:52Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892824_70467617-985b-4471-8f3c-b27a6be71f6f.jpg?v=1742551467
-  Price: £875.00 GBP
 - [iPhone 16 Silicone Case with MagSafe - Ultramarine](https://iqjersey.com/products/iphone-16-silicone-case-with-magsafe-myy63zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
   Updated: 2026-10-05T09:56:36Z
   Vendor: Apple
@@ -531,27 +279,13 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666094.png?v=1742551413
   Price: £43.50 GBP
-- [Apple Watch Series 10 GPS 42mm Silver Aluminium Case with Denim Sport Band - M/L](https://iqjersey.com/products/apple-watch-series-10-sport-band-mwwc3qa-a): Meet Apple Watch Series 10. A bigger display with more screen area and a thinner, lighter design. Get advanced fitness and health features with Sleep Apnoea Notifications, plus faster charging.
-  Updated: 2026-05-14T23:50:49Z
-  Vendor: Apple
-  Product Type: Apple Watch
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14853252_3d09d925-0f56-4ca3-a8de-05e0fa44afd9.jpg?v=1742551408
-  Price: £280.00 GBP
 - [iPhone 16 128GB Pink](https://iqjersey.com/products/iphone-16-myea3qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-11-02T12:58:42Z
+  Updated: 2026-11-14T15:16:46Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14778144_b93391c4-5b83-4bbe-b301-cc4e071aeedc.jpg?v=1742551393
   Price: £700.00 GBP
-- [49mm Natural Titanium Milanese Loop - Small](https://iqjersey.com/products/2024-apple-watch-milanese-loop-mxkc3zm-a): The Titanium Milanese Loop features aerospace-grade titanium mesh with a secure parachute-style buckle. Inspired by stainless steel mesh historically used by divers and designed for ocean activities. Made of lightweight titanium, it’s perfect for any occasion. This strap is carbon neutral. The Titanium Milanese Loop contains 85% recycled content by weight, 100% of manufacturing electricity is covered by clean energy, and 50% or more of all carbon-neutral Apple Watch products are shipped by air.
-  Updated: 2026-05-15T07:10:53Z
-  Vendor: Apple
-  Product Type: Apple Watch Band
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14667077.png?v=1742551391
-  Price: £175.00 GBP
 - [iPhone FineWoven Wallet with MagSafe - Dark Green](https://iqjersey.com/products/iphone-finewoven-wallet-with-magsafe-ma6y4zm-a): Designed with both style and function in mind, the new iPhone FineWoven Wallet with MagSafe is the perfect way to keep your ID and credit cards close at hand. It supports Find My, so you can be notified of your wallet’s last known location if it gets separated from your phone. Made from durable micro-twill, the material has a smooth and seamless feel. The FineWoven material in this accessory is made from 100 per cent post-consumer recycled content and significantly reduces carbon emissions compared to leather. The wallet features strong built-in magnets that allow it to effortlessly snap into place on the back of your iPhone. You can even stack it on top of a case with MagSafe to create a look that’s unique to you. The FineWoven wallet supports up to three cards and is shielded so it’s safe for credit cards.
   Updated: 2026-09-04T15:34:30Z
   Vendor: Apple
@@ -559,13 +293,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666065.png?v=1742551384
   Price: £53.00 GBP
-- [13-inch iPad Air Wi-Fi 1TB - Blue (M2)](https://iqjersey.com/products/13-inch-ipad-air-m2-mv2q3nf-a): The 13 inch iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip.It features a stunning 13 inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-10-16T11:53:35Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196138_421b7a00-03da-4582-b85f-6099587aaffa.jpg?v=1742551383
-  Price: £1,038.00 GBP
 - [45mm Pure Platinum Nike Sport Band - S/M](https://iqjersey.com/products/2023-apple-watch-nike-sport-band-muv03zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-17T19:36:56Z
   Vendor: Apple
@@ -573,29 +300,8 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526873.png?v=1742551379
   Price: £43.00 GBP
-- [iPhone 16 Silicone Case with MagSafe - Lake Green](https://iqjersey.com/products/iphone-16-silicone-case-with-magsafe-myy83zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2025-09-18T05:32:21Z
-  Vendor: Apple
-  Product Type: Silicone Case with MagSafe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666239.png?v=1742551376
-  Price: £43.50 GBP
-- [iPhone 15 Plus 512GB Pink](https://iqjersey.com/products/iphone-15-mu1j3zd-a): iPhone 15 Plus brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
-  Updated: 2026-03-13T19:05:22Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892866_8f0967b1-7f55-440e-8502-d9eb01e0d418.jpg?v=1742551371
-  Price: £962.00 GBP
-- [iPhone 16 Plus 128GB White](https://iqjersey.com/products/iphone-16-mxvv3qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-10-01T23:00:35Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14778194_cb20f2be-0034-435d-90d2-9ef87a4b7c2d.jpg?v=1742551366
-  Price: £687.00 GBP
 - [iPhone 16 128GB Teal](https://iqjersey.com/products/iphone-16-myed3qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-11-02T12:58:57Z
+  Updated: 2026-11-09T15:14:26Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -608,27 +314,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526549.png?v=1742551320
   Price: £43.00 GBP
-- [iPhone 16 Pro Silicone Case with MagSafe - Stone Grey](https://iqjersey.com/products/iphone-16-pro-silicone-case-with-magsafe-myyl3zm-a): Designed by Apple to complement iPhone 16 Pro, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16 Pro, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-01-30T13:52:43Z
-  Vendor: Apple
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666210.png?v=1742551319
-  Price: £43.50 GBP
-- [iPhone 14 Plus 512GB Yellow](https://iqjersey.com/products/iphone-14-mr6g3zd-a): iPhone 14 Plus. Think big with a larger 6.7-inch display and all-day battery life. Capture stunning photos in low light and bright light with the dual-camera system. Get peace of mind with vital safety features.
-  Updated: 2026-05-14T02:24:45Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-8943211_24935db1-72f6-4dad-ac3e-9ec46c6e1468.jpg?v=1742551312
-  Price: £650.00 GBP
-- [iPhone 15 512GB Pink](https://iqjersey.com/products/iphone-15-mtpd3zd-a): iPhone 15 brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
-  Updated: 2026-07-27T18:02:29Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892834_32fa2b02-12c3-483e-bdd0-a45589050cc1.jpg?v=1742551285
-  Price: £875.00 GBP
 - [41mm Midnight Sky Nike Sport Band - S/M](https://iqjersey.com/products/2023-apple-watch-nike-sport-band-muun3zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-28T04:24:32Z
   Vendor: Apple
@@ -636,34 +321,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526621.png?v=1742551284
   Price: £43.00 GBP
-- [46mm Slate Milanese Loop - S/M](https://iqjersey.com/products/2024-apple-watch-milanese-loop-mc7l4zm-a): A modern interpretation of a design developed in Milan at the end of the 19th century. Woven on specialised Italian machines, the smooth stainless steel mesh wraps fluidly around your wrist. And because it’s fully magnetic, the Milanese Loop is infinitely adjustable, ensuring a perfect fit. An additional physical vapour deposition (PVD) layer gives the stainless steel its distinctive finish. This strap is carbon neutral. The Milanese Loop contains 65% recycled content by weight, 100% of manufacturing electricity is covered by clean energy, and 50% or less of all carbon-neutral Apple Watch products are shipped by air.
-  Updated: 2026-05-15T07:10:41Z
-  Vendor: Apple
-  Product Type: Apple Watch Band
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666957.png?v=1742551281
-  Price: £87.00 GBP
-- [49mm Natural Titanium Milanese Loop - Large](https://iqjersey.com/products/2024-apple-watch-milanese-loop-mxke3zm-a): The Titanium Milanese Loop features aerospace-grade titanium mesh with a secure parachute-style buckle. Inspired by stainless steel mesh historically used by divers and designed for ocean activities. Made of lightweight titanium, it’s perfect for any occasion. This strap is carbon neutral. The Titanium Milanese Loop contains 85% recycled content by weight, 100% of manufacturing electricity is covered by clean energy, and 50% or more of all carbon-neutral Apple Watch products are shipped by air.
-  Updated: 2026-05-15T07:11:16Z
-  Vendor: Apple
-  Product Type: Apple Watch Band
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14667071.png?v=1742551276
-  Price: £175.00 GBP
-- [Apple Watch SE GPS 40mm Starlight Aluminium Case with Starlight Sport Band - M/L](https://iqjersey.com/products/2024-apple-watch-se-sport-band-2nd-generation-mxeg3qa-a): Essential features to help you stay connected, active, healthy, and safe.
-  Updated: 2026-05-14T23:52:48Z
-  Vendor: Apple
-  Product Type: Apple Watch
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14854459_180a19a8-7dd8-4b26-869f-ff7645459e89.jpg?v=1742551273
-  Price: £193.00 GBP
-- [iPhone 15 Plus 256GB Yellow](https://iqjersey.com/products/iphone-15-mu1d3zd-a): iPhone 15 Plus brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
-  Updated: 2026-03-13T19:04:50Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892874_9ea40402-8420-42e5-b976-9c99711d90bb.jpg?v=1742551258
-  Price: £787.00 GBP
 - [45mm Cargo Khaki Nike Sport Band - S/M](https://iqjersey.com/products/2023-apple-watch-nike-sport-band-muvc3zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-17T19:38:57Z
   Vendor: Apple
@@ -671,20 +328,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526751.png?v=1742551255
   Price: £43.00 GBP
-- [iPhone 15 512GB Black](https://iqjersey.com/products/iphone-15-mtpc3zd-a): iPhone 15 brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
-  Updated: 2026-03-23T19:02:22Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892808_16870114-cbfd-473a-ad58-83ec5800b7df.jpg?v=1742551251
-  Price: £875.00 GBP
-- [11-inch iPad Air Wi-Fi 512GB - Purple (M2)](https://iqjersey.com/products/11-inch-ipad-air-m2-muwp3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip. It features a stunning 11‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-10-14T00:36:55Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196068_eebf9e1d-9ee6-43d6-80db-b2d99a1ec220.jpg?v=1742551241
-  Price: £687.00 GBP
 - [iPhone 16 Plus Silicone Case with MagSafe - Plum](https://iqjersey.com/products/iphone-16-plus-silicone-case-with-magsafe-myyd3zm-a): Designed by Apple to complement iPhone 16 Plus, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16 Plus, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
   Updated: 2026-03-14T09:13:48Z
   Vendor: Apple
@@ -692,20 +335,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666119.png?v=1742551231
   Price: £43.50 GBP
-- [46mm Natural Milanese Loop - M/L](https://iqjersey.com/products/2024-apple-watch-milanese-loop-mxmq3zm-a): A modern interpretation of a design developed in Milan at the end of the 19th century. Woven on specialised Italian machines, the smooth stainless steel mesh wraps fluidly around your wrist. And because it’s fully magnetic, the Milanese Loop is infinitely adjustable, ensuring a perfect fit. An additional physical vapour deposition (PVD) layer gives the stainless steel its distinctive finish. This strap is carbon neutral. The Milanese Loop contains 65% recycled content by weight, 100% of manufacturing electricity is covered by clean energy, and 50% or less of all carbon-neutral Apple Watch products are shipped by air.
-  Updated: 2026-05-15T07:13:21Z
-  Vendor: Apple
-  Product Type: Apple Watch Band
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666930.png?v=1742551229
-  Price: £87.00 GBP
-- [11-inch iPad Air Wi-Fi 512GB - Blue (M2)](https://iqjersey.com/products/11-inch-ipad-air-m2-muwm3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip. It features a stunning 11‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-10-14T00:36:07Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196058_19c3eb54-d19b-4304-a336-bfbc957a98e1.jpg?v=1742551225
-  Price: £687.00 GBP
 - [iPhone 16 Plus 256GB Ultramarine](https://iqjersey.com/products/iphone-16-mxy23qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
   Updated: 2026-10-23T14:36:31Z
   Vendor: Apple
@@ -713,20 +342,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14778184_4a4caac5-7192-46d4-9075-26eee1cd0abf.jpg?v=1742551215
   Price: £775.00 GBP
-- [11-inch iPad Air Wi-Fi 1TB - Space Grey (M2)](https://iqjersey.com/products/11-inch-ipad-air-m2-muwq3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip. It features a stunning 11‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-10-14T00:36:57Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196079_185f2e5b-6c0f-45dc-adc8-0482c281cdcb.jpg?v=1766473081
-  Price: £862.00 GBP
-- [46mm Slate Milanese Loop - M/L](https://iqjersey.com/products/2024-apple-watch-milanese-loop-mxmt3zm-a): A modern interpretation of a design developed in Milan at the end of the 19th century. Woven on specialised Italian machines, the smooth stainless steel mesh wraps fluidly around your wrist. And because it’s fully magnetic, the Milanese Loop is infinitely adjustable, ensuring a perfect fit. An additional physical vapour deposition (PVD) layer gives the stainless steel its distinctive finish. This strap is carbon neutral. The Milanese Loop contains 65% recycled content by weight, 100% of manufacturing electricity is covered by clean energy, and 50% or less of all carbon-neutral Apple Watch products are shipped by air.
-  Updated: 2026-05-15T06:36:36Z
-  Vendor: Apple
-  Product Type: Apple Watch Band
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666954.png?v=1742551186
-  Price: £87.00 GBP
 - [11-inch iPad Air Wi-Fi 1TB - Starlight (M2)](https://iqjersey.com/products/11-inch-ipad-air-m2-muwt3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip. It features a stunning 11‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
   Updated: 2026-10-14T00:31:26Z
   Vendor: Apple
@@ -741,13 +356,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526576.png?v=1742551181
   Price: £43.00 GBP
-- [46mm Natural Milanese Loop - S/M](https://iqjersey.com/products/2024-apple-watch-milanese-loop-mc7j4zm-a): A modern interpretation of a design developed in Milan at the end of the 19th century. Woven on specialised Italian machines, the smooth stainless steel mesh wraps fluidly around your wrist. And because it’s fully magnetic, the Milanese Loop is infinitely adjustable, ensuring a perfect fit. An additional physical vapour deposition (PVD) layer gives the stainless steel its distinctive finish. This strap is carbon neutral. The Milanese Loop contains 65% recycled content by weight, 100% of manufacturing electricity is covered by clean energy, and 50% or less of all carbon-neutral Apple Watch products are shipped by air.
-  Updated: 2026-05-15T07:08:28Z
-  Vendor: Apple
-  Product Type: Apple Watch Band
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666933.png?v=1742551179
-  Price: £87.00 GBP
 - [41mm Blue Flame Nike Sport Band - S/M](https://iqjersey.com/products/2023-apple-watch-nike-sport-band-muut3zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-17T19:35:30Z
   Vendor: Apple
@@ -762,13 +370,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526558.png?v=1742551140
   Price: £43.00 GBP
-- [Apple Watch Series 10 GPS 46mm Rose Gold Aluminium Case with Plum Sport Loop](https://iqjersey.com/products/apple-watch-series-10-sport-loop-mwwv3qa-a): Meet Apple Watch Series 10. A bigger display with more screen area and a thinner, lighter design. Get advanced fitness and health features with Sleep Apnoea Notifications, plus faster charging.
-  Updated: 2026-05-14T23:46:45Z
-  Vendor: Apple
-  Product Type: Apple Watch
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14853431.jpg?v=1742551137
-  Price: £306.00 GBP
 - [45mm Blue Flame Nike Sport Band - S/M](https://iqjersey.com/products/2023-apple-watch-nike-sport-band-muv83zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-17T19:38:27Z
   Vendor: Apple
@@ -776,27 +377,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526742.png?v=1742551131
   Price: £43.00 GBP
-- [iPhone 16 Plus 256GB Pink](https://iqjersey.com/products/iphone-16-mxy13qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-10-29T19:02:57Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14778164_012b6db2-7771-4062-9fd8-9b4648f4e438.jpg?v=1742551126
-  Price: £775.00 GBP
-- [13-inch iPad Air Wi-Fi + Cellular 128GB - Space Grey (M2)](https://iqjersey.com/products/13-inch-ipad-air-m2-mv6q3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip.It features a stunning 13‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E and 5G capability. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-10-14T01:29:25Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196118_0fc7e098-6300-4754-822b-76199c72f8cc.jpg?v=1742551123
-  Price: £731.00 GBP
-- [iPhone 15 Plus 256GB Green](https://iqjersey.com/products/iphone-15-mu1g3zd-a): iPhone 15 Plus brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
-  Updated: 2026-05-13T14:06:53Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892858_d53d64a7-882d-46f2-beaa-cedb3ce707df.jpg?v=1742551116
-  Price: £787.00 GBP
 - [41mm Pure Platinum Nike Sport Band - M/L](https://iqjersey.com/products/2023-apple-watch-nike-sport-band-muul3zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-17T19:34:07Z
   Vendor: Apple
@@ -818,20 +398,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526824.png?v=1742551074
   Price: £43.00 GBP
-- [iPhone 16e Silicone Case – White](https://iqjersey.com/products/iphone-16e-silicone-case-md3p4zm-a): Designed by Apple to complement iPhone 16e, the Silicone Case is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-09-16T14:59:57Z
-  Vendor: Apple
-  Product Type: Silicone Case
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/2cc83f8e-9ad2-5d34-9fc8-e9b54c89d522_m_jpg_1.jpg?v=1742551060
-  Price: £32.00 GBP
-- [iPhone 16e 256GB White](https://iqjersey.com/products/iphone-16e-md1w4qn-a): iPhone 16e is built for Apple Intelligence and powered by the A18 chip. Shoot super-high-resolution photos with the 48MP Fusion camera. And with supersized battery life, you have more time to text, browse and more.
-  Updated: 2026-03-04T12:39:22Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/373cc234-116d-59b6-b9a8-ae2f92c35338_m_jpg_1.jpg?v=1742551053
-  Price: £613.00 GBP
 - [iPhone 16e 512GB Black](https://iqjersey.com/products/iphone-16e-md1x4qn-a): iPhone 16e is built for Apple Intelligence and powered by the A18 chip. Shoot super-high-resolution photos with the 48MP Fusion camera. And with supersized battery life, you have more time to text, browse and more.
   Updated: 2026-09-25T15:56:28Z
   Vendor: Apple
@@ -846,13 +412,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/83736d9f-dd3d-57a2-bcf4-2668b975f66d_m_jpg_1_3f1be507-94a7-4f95-b0e1-d657a7e6d429.jpg?v=1742551047
   Price: £613.00 GBP
-- [iPhone 16e 512GB White](https://iqjersey.com/products/iphone-16e-md274qn-a): iPhone 16e is built for Apple Intelligence and powered by the A18 chip. Shoot super-high-resolution photos with the 48MP Fusion camera. And with supersized battery life, you have more time to text, browse and more.
-  Updated: 2026-03-04T12:39:40Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/373cc234-116d-59b6-b9a8-ae2f92c35338_m_jpg_1_fd70933b-88b2-4a8c-a9aa-a8ec6f0f0fb5.jpg?v=1742551045
-  Price: £788.00 GBP
 - [iPhone 16e Silicone Case – Black](https://iqjersey.com/products/iphone-16e-silicone-case-md3n4zm-a): Designed by Apple to complement iPhone 16e, the Silicone Case is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
   Updated: 2026-05-18T10:13:37Z
   Vendor: Apple
@@ -867,13 +426,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/be8b9060-de2e-562c-9722-4a414d8e4cf9_m_jpg_1.jpg?v=1742551042
   Price: £32.00 GBP
-- [11-inch iPad Air Wi-Fi 128GB - Purple (M3)](https://iqjersey.com/products/11-inch-ipad-air-m3-mca04kn-a): CONNECTIVITY — Wi-Fi 6E gives you fast wireless connections. Work from almost anywhere with quick transfers of photos, documents and large video files. Connect to external displays and more with the USB-C connector.
-  Updated: 2026-10-14T00:26:42Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16745303.jpg?v=1742551038
-  Price: £475.00 GBP
 - [Mac Studio: Apple M4 Max chip with 14‑core CPU and 32‑core GPU, 512GB SSD](https://iqjersey.com/products/mac-studio-mu963b-a): Mac Studio. The ultimate pro desktop with the phenomenal M4 Max chip. With massive memory, mind-bending graphics, next-level AI capabilities and superfast Thunderbolt 5 ports, Mac Studio is a powerhouse in a compact and quiet design. Built for Apple Intelligence.
   Updated: 2026-10-09T20:46:30Z
   Vendor: Apple
@@ -882,7 +434,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16740428.jpg?v=1742551036
   Price: £2,187.00 GBP
 - [iPad Wi-Fi 256GB - Pink (A16)](https://iqjersey.com/products/2025-ipad-a16-md4p4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-28T12:43:56Z
+  Updated: 2026-11-13T19:04:46Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -930,48 +482,20 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16745443_03c3f815-465a-40ff-8200-252ba435d2e0.jpg?v=1742550999
   Price: £1,025.00 GBP
-- [46mm Periwinkle Sport Band - M/L](https://iqjersey.com/products/2025-apple-watch-sport-band-includes-straps-that-can-be-configured-for-either-s-m-or-m-l-length-mdt84zm-a): Made from a custom high-performance fluoroelastomer, the Sport Band is durable and strong, yet surprisingly soft. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. An innovative pin-and-tuck closure ensures a clean fit.
-  Updated: 2026-02-17T21:34:42Z
-  Vendor: Apple
-  Product Type: Apple Watch Band
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16719732_m_jpg_1.jpg?v=1742550997
-  Price: £43.00 GBP
 - [iPad Wi-Fi 128GB - Silver (A16)](https://iqjersey.com/products/2025-ipad-a16-md3y4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-11-05T19:04:17Z
+  Updated: 2026-11-13T19:04:07Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744992.jpg?v=1742550991
   Price: £376.00 GBP
 - [iPad Wi-Fi 256GB - Silver (A16)](https://iqjersey.com/products/2025-ipad-a16-md4g4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-11-06T19:04:06Z
+  Updated: 2026-11-13T19:04:36Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744992_656097a7-7896-4cf8-b5a9-6f3cd7a567bc.jpg?v=1742550987
   Price: £463.00 GBP
-- [11-inch iPad Air Wi-Fi 1TB - Purple (M3)](https://iqjersey.com/products/11-inch-ipad-air-m3-mcau4kn-a): CONNECTIVITY — Wi-Fi 6E gives you fast wireless connections. Work from almost anywhere with quick transfers of photos, documents and large video files. Connect to external displays and more with the USB-C connector.
-  Updated: 2026-10-14T00:25:08Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16745303_89edaf3c-bf19-4844-855b-8cb2482f2181.jpg?v=1742550985
-  Price: £855.00 GBP
-- [42mm Tangerine Sport Band - M/L](https://iqjersey.com/products/2025-apple-watch-sport-band-includes-straps-that-can-be-configured-for-either-s-m-or-m-l-length-mdt04zm-a): Made from a custom high-performance fluoroelastomer, the Sport Band is durable and strong, yet surprisingly soft. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. An innovative pin-and-tuck closure ensures a clean fit.
-  Updated: 2026-02-17T21:33:43Z
-  Vendor: Apple
-  Product Type: Apple Watch Band
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16719756_m_jpg_1.jpg?v=1742550983
-  Price: £43.00 GBP
-- [11-inch iPad Air Wi-Fi 512GB - Space Grey (M3)](https://iqjersey.com/products/11-inch-ipad-air-m3-mca74kn-a): CONNECTIVITY — Wi-Fi 6E gives you fast wireless connections. Work from almost anywhere with quick transfers of photos, documents and large video files. Connect to external displays and more with the USB-C connector.
-  Updated: 2026-10-14T00:24:51Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16745313.jpg?v=1742550980
-  Price: £705.00 GBP
 - [40mm Tangerine Sport Band - M/L](https://iqjersey.com/products/2025-apple-watch-sport-band-includes-straps-that-can-be-configured-for-either-s-m-or-m-l-length-mdrt4zm-a): Made from a custom high-performance fluoroelastomer, the Sport Band is durable and strong, yet surprisingly soft. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. An innovative pin-and-tuck closure ensures a clean fit.
   Updated: 2026-06-24T12:32:52Z
   Vendor: Apple
@@ -979,15 +503,8 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16719774_m_jpg_1.jpg?v=1742550976
   Price: £43.00 GBP
-- [13-inch iPad Air Wi-Fi 512GB - Purple (M3)](https://iqjersey.com/products/13-inch-ipad-air-m3-mcny4kn-a): The 13-inch iPad Air. Built for Apple Intelligence. Supercharged by the lightning-fast Apple M3 chip. It features a stunning Liquid Retina display, a 12MP Center Stage front camera for even better video calls, and blazing-fast Wi-Fi 6E. And it works with Apple Pencil Pro, Magic Keyboard and Smart Folio, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-10-14T01:27:28Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16745423_c0c59b25-303f-42d1-bf55-4b68cf188ec9.jpg?v=1742550973
-  Price: £850.00 GBP
 - [iPad Wi-Fi 512GB - Pink (A16)](https://iqjersey.com/products/2025-ipad-a16-md5c4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-14T18:59:22Z
+  Updated: 2026-11-09T11:29:46Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1000,15 +517,8 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16714679_m_jpg_1.jpg?v=1742550962
   Price: £43.00 GBP
-- [13-inch iPad Air Wi-Fi 256GB - Blue (M3)](https://iqjersey.com/products/13-inch-ipad-air-m3-mcnp4kn-a): The 13-inch iPad Air. Built for Apple Intelligence. Supercharged by the lightning-fast Apple M3 chip. It features a stunning Liquid Retina display, a 12MP Center Stage front camera for even better video calls, and blazing-fast Wi-Fi 6E. And it works with Apple Pencil Pro, Magic Keyboard and Smart Folio, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-10-14T01:25:40Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16745413.jpg?v=1742550960
-  Price: £787.00 GBP
 - [iPad Wi-Fi + Cellular 128GB - Silver (A16)](https://iqjersey.com/products/2025-ipad-a16-md7f4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6 and 5G, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-14T18:58:16Z
+  Updated: 2026-11-09T11:29:43Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1029,7 +539,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744992_08598030-e9a4-4717-a21d-7f1f11233cc7.jpg?v=1742550950
   Price: £638.00 GBP
 - [iPad Wi-Fi 128GB - Pink (A16)](https://iqjersey.com/products/2025-ipad-a16-md4e4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-11-05T11:55:06Z
+  Updated: 2026-11-13T12:02:46Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1050,7 +560,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744917.jpg?v=1742550947
   Price: £770.00 GBP
 - [iPad Wi-Fi 256GB - Blue (A16)](https://iqjersey.com/products/2025-ipad-a16-md4h4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-11-06T19:04:07Z
+  Updated: 2026-11-12T15:33:08Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1071,7 +581,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744917_bb3c173b-bb2b-4351-a61f-bf2794e0571c.jpg?v=1742550931
   Price: £595.00 GBP
 - [iPad Wi-Fi 128GB - Yellow (A16)](https://iqjersey.com/products/2025-ipad-a16-md4d4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-11-02T13:01:47Z
+  Updated: 2026-11-13T19:04:26Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1098,13 +608,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16745000_17dd47bf-3507-4183-8970-06d1483b6cba.jpg?v=1742550922
   Price: £638.00 GBP
-- [11-inch iPad Air Wi-Fi 1TB - Space Grey (M3)](https://iqjersey.com/products/11-inch-ipad-air-m3-mcah4kn-a): CONNECTIVITY — Wi-Fi 6E gives you fast wireless connections. Work from almost anywhere with quick transfers of photos, documents and large video files. Connect to external displays and more with the USB-C connector.
-  Updated: 2026-10-14T00:22:32Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16745313_12c12a41-7335-4a09-bf01-fe570e3d40c8.jpg?v=1742550921
-  Price: £855.00 GBP
 - [iPad Wi-Fi + Cellular 128GB - Pink (A16)](https://iqjersey.com/products/2025-ipad-a16-md7j4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6 and 5G, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
   Updated: 2026-10-14T18:42:51Z
   Vendor: Apple
@@ -1113,7 +616,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744917_22212ad5-6dc1-45b9-953a-dffaa49c1a4a.jpg?v=1742550920
   Price: £507.00 GBP
 - [iPad Wi-Fi 128GB - Blue (A16)](https://iqjersey.com/products/2025-ipad-a16-md4a4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-11-06T19:03:53Z
+  Updated: 2026-11-13T13:59:52Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1176,7 +679,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/B63903A2-4FDD-4A17-8342-4E52F8EF9D4D.jpg?v=1743592796
   Price: £4,025.00 GBP
 - [Apple Pencil (2nd Generation)](https://iqjersey.com/products/apple-pencil-2nd-generation)
-  Updated: 2026-10-29T09:35:57Z
+  Updated: 2026-11-07T12:35:41Z
   Vendor: Apple
   Product Type: 
   Availability: Available
@@ -1218,14 +721,14 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MWK53.jpg?v=1745843949
   Price: £70.00 GBP
 - [Magic Keyboard for iPad Pro](https://iqjersey.com/products/magic-keyboard-for-ipad-pro)
-  Updated: 2026-11-05T12:00:17Z
+  Updated: 2026-11-09T15:19:41Z
   Vendor: Apple
   Product Type: Magic Keyboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/A6EE7C71-936B-4B8E-AF4E-9BD98E7D4C32.jpg?v=1743592831
   Price: £263.00 GBP
 - [Apple Pencil Pro](https://iqjersey.com/products/apple-pencil-pro)
-  Updated: 2026-11-04T09:40:07Z
+  Updated: 2026-11-12T14:00:17Z
   Vendor: Apple
   Product Type: 
   Availability: Available
@@ -1238,22 +741,8 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T124507.628.png?v=1745833523
   Price: £71.00 GBP
-- [Apple 14-inch Macbook Pro M3](https://iqjersey.com/products/apple-14-inch-macbook-pro-m3)
-  Updated: 2026-09-26T10:25:38Z
-  Vendor: Apple
-  Product Type: Mac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_64_50434499-1520-4195-96dd-31e0c94b86ba.png?v=1745814229
-  Price: £1,250.00 GBP
-- [Apple Thunderbolt 4 Pro Cable](https://iqjersey.com/products/apple-thunderbolt-4-pro-cable)
-  Updated: 2026-10-28T19:00:57Z
-  Vendor: Apple
-  Product Type: Cable
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/4388D61C-BE11-403E-AEC9-B69BB3E7745E.jpg?v=1743593132
-  Price: £113.00 GBP
 - [Belkin Secure Holder with Strap for AirTag](https://iqjersey.com/products/belkin-secure-holder-with-strap-for-airtag): The Belkin Secure Holder with Strap is the perfect sidekick to your new AirTag. The strap is ultrastrong and easy to attach to your belongings, everything from a water bottle to your favorite backpack. Twist & Lock design ensures your AirTag is secured inside a protective shell. And thoughtful design maintains full visibility while the edges are slightly raised for advanced scratch protection. The Secure Holder firmly grips the edges of your AirTag while keeping the elegant design and your personalized engravings visible. Choose from four colors and personalize your look.
-  Updated: 2026-10-28T19:00:36Z
+  Updated: 2026-11-13T19:00:41Z
   Vendor: Belkin
   Product Type: Holder
   Availability: Available
@@ -1274,26 +763,19 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/E832A193-AA2B-490E-9169-68CE2E4EE075.jpg?v=1743593191
   Price: £14.50 GBP
 - [Apple USB-C to USB Adapter](https://iqjersey.com/products/apple-usb-c-to-usb-adapter)
-  Updated: 2026-11-02T19:03:03Z
+  Updated: 2026-11-13T19:03:11Z
   Vendor: Apple
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MJ1M2.jpg?v=1745843615
   Price: £17.00 GBP
 - [Belkin Boost Charge 24w Dual USB-A Wall Charger](https://iqjersey.com/products/belkin-boost-charge-24w-dual-usb-a-wall-charger-1)
-  Updated: 2026-11-04T19:00:26Z
+  Updated: 2026-11-13T19:00:36Z
   Vendor: Belkin
   Product Type: Charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/21955423-20B8-4FCD-A122-0F3FC12ED2D7.jpg?v=1743593217
   Price: £16.00 GBP
-- [Belkin USB-C to HDMI + Charge Adapter](https://iqjersey.com/products/belkin-usb-c-to-hdmi-charge-adapter-1)
-  Updated: 2026-10-01T18:00:28Z
-  Vendor: Belkin
-  Product Type: Adapter
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/F5E16BA3-611C-4EAA-8F19-479C6F68318C_2c5a83c7-4afd-419b-a3fb-93e25be6abde.jpg?v=1743593251
-  Price: £35.00 GBP
 - [Satechi Type-C Aluminum USB Hub & Card Reader](https://iqjersey.com/products/satechi-type-c-aluminum-usb-hub-card-reader)
   Updated: 2026-02-17T19:03:07Z
   Vendor: Satechi
@@ -1301,13 +783,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/0D4D9E32-3EB5-4824-B85D-5D4760B0D4B5.jpg?v=1743593265
   Price: £29.00 GBP
-- [Satechi USB-C Multimedia Adapter](https://iqjersey.com/products/satechi-usb-c-multimedia-adapter)
-  Updated: 2025-12-06T03:04:03Z
-  Vendor: Satechi
-  Product Type: Adapter
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/DA1BD2AF-394D-4FE0-87D2-7D125376957F.jpg?v=1743593276
-  Price: £95.50 GBP
 - [Satechi USB-C to 4K HDMi Adapter](https://iqjersey.com/products/satechi-usb-c-to-4k-hdmi-adapter)
   Updated: 2026-02-17T19:02:37Z
   Vendor: Satechi
@@ -1329,20 +804,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/3EE128DC-24BA-4F73-A1AC-DB486B5711EE.png?v=1743593303
   Price: £120.00 GBP
-- [14-inch MacBook Pro: Apple M4 Pro chip with 12-core CPU and 16-core GPU, 512GB SSD - Silver](https://iqjersey.com/products/14-inch-macbook-pro-m4-pro-mx2e3b-a): The 14‑inch MacBook Pro with M4 Pro and M4 Max chips gives you outrageous performance in a powerhouse laptop built for Apple Intelligence. With up to 22 hours of battery life and a breathtaking Liquid Retina XDR display with up to 1,600 nits peak brightness, it’s pro in every way.
-  Updated: 2026-10-28T10:19:01Z
-  Vendor: Apple
-  Product Type: Mac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15367149_52059d16-d4a4-4498-abb6-40344bf76345.jpg?v=1744051294
-  Price: £1,499.00 GBP
-- [14-inch MacBook Pro: Apple M4 Max chip with 14‑core CPU and 32‑core GPU, 1TB SSD - Silver](https://iqjersey.com/products/14-inch-macbook-pro-m4-max-mx2g3b-a): The 14‑inch MacBook Pro with M4 Pro and M4 Max chips gives you outrageous performance in a powerhouse laptop built for Apple Intelligence. With up to 22 hours of battery life and a breathtaking Liquid Retina XDR display with up to 1,600 nits peak brightness, it’s pro in every way.
-  Updated: 2026-10-21T21:12:53Z
-  Vendor: Apple
-  Product Type: Mac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15367149_24306732-847d-43bb-8baf-2d3edaf9fa5a.jpg?v=1744051302
-  Price: £2,699.00 GBP
 - [16-inch MacBook Pro: Apple M4 Pro chip with 14‑core CPU and 20‑core GPU, 512GB SSD - Space Black](https://iqjersey.com/products/16-inch-macbook-pro-m4-pro-mx2x3b-a): The 16‑inch MacBook Pro with M4 Pro and M4 Max chips gives you outrageous performance in a powerhouse laptop built for Apple Intelligence. With up to 24 hours of battery life and a breathtaking Liquid Retina XDR display with up to 1,600 nits peak brightness, it’s pro in every way.
   Updated: 2026-11-02T11:19:52Z
   Vendor: Apple
@@ -1351,28 +812,21 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15367173_141cfde3-19f8-43af-80dd-fc0311ea98cd.jpg?v=1744051314
   Price: £1,999.00 GBP
 - [Belkin Boost Charge Braided USB-C to USB-C Cable - 1m - Black](https://iqjersey.com/products/belkin-boost-charge-braided-usb-c-to-usb-c-cable-1m-black)
-  Updated: 2026-10-09T18:00:39Z
+  Updated: 2026-11-13T13:01:47Z
   Vendor: Belkin
   Product Type: Charging Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T121208.467.png?v=1745831542
   Price: £13.00 GBP
 - [Belkin Boost Charge Braided Lightning Cable - 1m - Black](https://iqjersey.com/products/belkin-boost-charge-braided-lightning-cable-1m-black)
-  Updated: 2026-10-28T19:00:17Z
+  Updated: 2026-11-10T19:00:18Z
   Vendor: Belkin
   Product Type: Charging Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/f64c119264bb183_CAA002BT0M-BLK_BoostCharge_USB-A_to_LtgCable_Gallery_Shot_03_WEB.jpg?v=1751274637
   Price: £13.00 GBP
-- [Belkin Boost Charge Braided Lightning Cable - 15cm - Black](https://iqjersey.com/products/belkin-boost-charge-braided-lightning-cable-15cm-black)
-  Updated: 2026-09-16T14:34:12Z
-  Vendor: Belkin
-  Product Type: Charging Cable
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T121208.467.png?v=1745831542
-  Price: £11.50 GBP
 - [Belkin Boost Charge Braided Lightning Cable - 1m - White](https://iqjersey.com/products/belkin-boost-charge-braided-lightning-cable-1m-white)
-  Updated: 2026-11-05T12:05:56Z
+  Updated: 2026-11-13T19:00:16Z
   Vendor: Belkin
   Product Type: Charging Cable
   Availability: Available
@@ -1392,22 +846,15 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/81uIhxP1v2L._AC_SL1500.jpg?v=1751275215
   Price: £17.50 GBP
-- [UAG Cable USB-C to Lightning (1.5m)](https://iqjersey.com/products/uag-cable-usb-c-to-lightning-1-5m)
-  Updated: 2026-08-24T11:08:17Z
-  Vendor: Urban Armor Gear
-  Product Type: Charging Cable
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T121553.742.png?v=1745831767
-  Price: £26.50 GBP
 - [BOOST CHARGE™ USB-C to Lightning Cable, Braided, 1M, White](https://iqjersey.com/products/boost-charge-usb-c-to-lightning-cable-braided-1m-white)
-  Updated: 2026-11-05T12:06:16Z
+  Updated: 2026-11-13T12:25:20Z
   Vendor: Belkin
   Product Type: Charging Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T121631.867.png?v=1745831805
   Price: £18.00 GBP
 - [BOOST CHARGE™ 60w USB-C PD Dual 30w Wall Charger, White](https://iqjersey.com/products/boost-charge-60w-usb-c-pd-dual-30w-wall-charger-white)
-  Updated: 2026-11-04T19:02:17Z
+  Updated: 2026-11-11T11:32:43Z
   Vendor: Belkin
   Product Type: Wall Charger
   Availability: Available
@@ -1449,7 +896,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download-2025-04-28T115408.773.png?v=1745830465
   Price: £26.50 GBP
 - [USB4 to 2.5GB Ethernet Adapter](https://iqjersey.com/products/usb4-to-2-5gb-ethernet-adapter)
-  Updated: 2026-09-16T14:42:18Z
+  Updated: 2026-11-12T19:00:58Z
   Vendor: Belkin
   Product Type: Adapter
   Availability: Available
@@ -1491,7 +938,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T124604.646.png?v=1745833577
   Price: £13.50 GBP
 - [SOUNDFORM™ - Headphones with USB-C™ Connector, White](https://iqjersey.com/products/soundform-headphones-with-usb-c-connector-white)
-  Updated: 2026-11-06T19:01:57Z
+  Updated: 2026-11-13T19:01:46Z
   Vendor: Belkin
   Product Type: Headphones
   Availability: Available
@@ -1505,7 +952,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/19de7eb782b1fac7_WCH010_Belkin_1_MPW253_4-PortUsbCGaNWallCharger108W_Front_Web.jpg?v=1745842508
   Price: £75.00 GBP
 - [Belkin 10K Power Bank with USB-C 15W & Dual USB-A (inc 15cm USB-A to C Cable) - Black](https://iqjersey.com/products/belkin-10k-power-bank-with-usb-c-15w-dual-usb-a-inc-15cm-usb-a-to-c-cable-black)
-  Updated: 2026-11-05T12:04:56Z
+  Updated: 2026-11-13T12:20:01Z
   Vendor: Belkin
   Product Type: Power Bank
   Availability: Available
@@ -1526,28 +973,21 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/0E4038A0-3CE8-480A-BF27-B39AECDF6B52_24442f95-140d-4326-80a1-fc0386f67c83.png?v=1745842385
   Price: £17.50 GBP
 - [Belkin 20W USB-C PD Wall Charger](https://iqjersey.com/products/belkin-20w-usb-c-pd-wall-charger)
-  Updated: 2026-10-27T15:34:27Z
+  Updated: 2026-11-12T09:09:57Z
   Vendor: Belkin
   Product Type: Wall Charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/0E4038A0-3CE8-480A-BF27-B39AECDF6B52.png?v=1745842382
   Price: £14.00 GBP
-- [Belkin 65W PD Dual USB-C Charger](https://iqjersey.com/products/belkin-65w-pd-dual-usb-c-charger)
-  Updated: 2026-10-08T18:01:28Z
-  Vendor: Belkin
-  Product Type: Wall Charger
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/132673388_WCH013_Belkin_65W_Dual_USB-C_Wall_Charger_DQ_65W_PORT_WHITE_WEB-683349359.png?v=1745841658
-  Price: £39.50 GBP
 - [High-Speed HDMI Cable with Ethernet 4K/Ultra HD Compatible (2m)](https://iqjersey.com/products/high-speed-hdmi-cable-with-ethernet-4k-ultra-hd-compatible-2m)
-  Updated: 2026-08-14T11:15:38Z
+  Updated: 2026-11-12T19:02:27Z
   Vendor: Belkin
   Product Type: Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/d7faf757-b230-4796-90e0-aebf8fd43943-4200274044.jpg?v=1745841596
   Price: £17.99 GBP
 - [BOOST CHARGE™ Magnetic Wireless Powerbank with kick stand 5,000 mAh Black](https://iqjersey.com/products/boost-charge-magnetic-wireless-powerbank-with-kick-stand-5000-mah-black)
-  Updated: 2026-10-27T12:13:58Z
+  Updated: 2026-11-09T19:01:57Z
   Vendor: Belkin
   Product Type: Power Bank
   Availability: Available
@@ -1560,13 +1000,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/4a1571947d2c29962c4196f8f50d085c-hi-2875224389.jpg?v=1745841434
   Price: £49.00 GBP
-- [200w USB-C 6-Port Pd GaN Charger - Space Grey](https://iqjersey.com/products/200w-usb-c-6-port-pd-gan-charger-space-grey)
-  Updated: 2026-03-26T19:03:19Z
-  Vendor: Satechi
-  Product Type: Charger
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/200w-usb-c-6-port-gan-charger-charging-stations-satechi-us-350495.webp?v=1745841355
-  Price: £140.00 GBP
 - [Slim Wireless Keypad - Space Grey](https://iqjersey.com/products/slim-wireless-keypad-space-grey)
   Updated: 2026-03-12T15:46:43Z
   Vendor: Satechi
@@ -1575,7 +1008,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/satechi_st_salkpm_slim_wireless_bluetooth_keypad_1698092-3920899702.jpg?v=1745841369
   Price: £33.50 GBP
 - [iPad 10th Gen (2022) Origami No1 Original - Black](https://iqjersey.com/products/ipad-10th-gen-2022-origami-no1-original-black)
-  Updated: 2026-11-04T15:38:02Z
+  Updated: 2026-11-13T10:53:27Z
   Vendor: Pipetto
   Product Type: Smart Folio
   Availability: Available
@@ -1596,26 +1029,12 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/PPTP060BLK032000x2000_1445x-2445814084.jpg?v=1745841312
   Price: £44.00 GBP
 - [iPad 10th Gen (2022) Origami No3 Pencil Case - Dark Blue](https://iqjersey.com/products/ipad-10th-gen-2022-origami-no3-pencil-case-dark-blue)
-  Updated: 2026-10-28T19:01:30Z
+  Updated: 2026-11-07T19:00:57Z
   Vendor: Pipetto
   Product Type: Smart Folio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download-2025-04-28T124926.062.png?v=1745833781
   Price: £44.00 GBP
-- [Metropolis SE Bordeaux 2024 - Bordeaux](https://iqjersey.com/products/metropolis-se-bordeaux-2024-bordeaux-1)
-  Updated: 2026-06-10T18:02:42Z
-  Vendor: Urban Armor Gear
-  Product Type: Smart Folio
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T131259.196.png?v=1747219235
-  Price: £66.00 GBP
-- [Metropolis SE Black 2024 - Black](https://iqjersey.com/products/metropolis-se-black-2024-black-1)
-  Updated: 2026-06-10T18:02:59Z
-  Vendor: Urban Armor Gear
-  Product Type: Smart Folio
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/th-2366302227.jpg?v=1747219159
-  Price: £49.00 GBP
 - [Metropolis SE Bordeaux 2024 - Bordeaux](https://iqjersey.com/products/metropolis-se-bordeaux-2024-bordeaux-2)
   Updated: 2026-09-26T09:34:08Z
   Vendor: Urban Armor Gear
@@ -1637,20 +1056,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T125037.789.png?v=1747219413
   Price: £66.00 GBP
-- [OtterBox Defender Apple iPad Pro 11" (M4) - Black](https://iqjersey.com/products/otterbox-defender-apple-ipad-pro-11-m4-black-black)
-  Updated: 2026-02-17T20:05:01Z
-  Vendor: OtterBox
-  Product Type: Smart Folio
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/6513281_sd-1383402313.jpg?v=1745841115
-  Price: £71.00 GBP
-- [OtterBox Premium Glass Antimicrobial Apple iPad Pro 11" (M4) - Clear](https://iqjersey.com/products/otterbox-premium-glass-antimicrobial-apple-ipad-pro-11-m4-clear)
-  Updated: 2026-06-03T18:03:20Z
-  Vendor: OtterBox
-  Product Type: Smart Folio
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/1__36467.1717987938-1440713814.jpg?v=1745840950
-  Price: £32.00 GBP
 - [OtterBox Symmetry Folio Apple iPad Pro 11" (M4) Figment - Purple](https://iqjersey.com/products/otterbox-symmetry-folio-apple-ipad-pro-11-m4-figment-purple-purple)
   Updated: 2026-11-06T09:16:56Z
   Vendor: OtterBox
@@ -1665,13 +1070,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/61q7Vc-SyrL._AC_SL1500.jpg?v=1745841045
   Price: £45.00 GBP
-- [OtterBox Defender Apple iPad Pro 13" (M4) - Black](https://iqjersey.com/products/otterbox-defender-apple-ipad-pro-13-m4-black)
-  Updated: 2026-02-17T20:06:02Z
-  Vendor: OtterBox
-  Product Type: Smart Folio
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/71jxFxOUfQL._AC_SL1500.jpg?v=1745841018
-  Price: £79.00 GBP
 - [OtterBox Symmetry Folio Apple iPad Pro 13" (M4) Figment - Purple](https://iqjersey.com/products/otterbox-symmetry-folio-apple-ipad-pro-13-m4-figment-purple)
   Updated: 2026-07-21T08:40:49Z
   Vendor: OtterBox
@@ -1693,7 +1091,700 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/813854_5CLargeImage_5C8-2865322279.jpg?v=1745840547
   Price: £39.50 GBP
-[List Continued](https://iqjersey.com/a/llms-agent/llms.txt?shop=iq-jersey.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NDgwODcwNDMyOTQ2LCJsYXN0X3ZhbHVlIjoiODQ4MDg3MDQzMjk0NiJ9)
+- [iPad Air 11 (2024) iPad Air 10.9 (2022/2020) Origami No1 Original Case - Metallic Purple](https://iqjersey.com/products/ipad-air-11-2024-ipad-air-10-9-2022-2020-origami-no1-original-case-metallic-purple)
+  Updated: 2026-10-12T14:18:19Z
+  Vendor: Pipetto
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/ipad-air-6-11-2024-origami-no1-case-metallic-purple-front-cover-2768258542.jpg?v=1745840773
+  Price: £39.50 GBP
+- [iPad Air 11 (2024) iPad Air 10.9 (2022/2020) Origami No3 Pencil Case - Black](https://iqjersey.com/products/ipad-air-11-2024-ipad-air-10-9-2022-2020-origami-no3-pencil-case-black)
+  Updated: 2026-10-12T14:18:39Z
+  Vendor: Pipetto
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/5060520955568_vooraanzicht_x_1_8929-3981948248.jpg?v=1745840697
+  Price: £39.50 GBP
+- [iPad Pro 11 (2024) Origami No1 Original Case - Black](https://iqjersey.com/products/ipad-pro-11-2024-origami-no1-original-case-black)
+  Updated: 2026-10-12T14:20:29Z
+  Vendor: Pipetto
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/ipad-pro-13-2024-origami-black-front-cover-4231440603.jpg?v=1745840312
+  Price: £39.50 GBP
+- [iPad Air 11 (2024) iPad Air 10.9 (2022/2020) Origami No3 Pencil Case - Light Blue](https://iqjersey.com/products/ipad-air-11-2024-ipad-air-10-9-2022-2020-origami-no3-pencil-case-light-blue)
+  Updated: 2026-11-03T10:50:08Z
+  Vendor: Pipetto
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/ipad-air-6-11-2024-origami-no3-pencil-case-light_blue-front-cover-4219820245.jpg?v=1745840718
+  Price: £39.50 GBP
+- [iPad Pro 11 (2024) Origami No1 Original Case - Dark Blue](https://iqjersey.com/products/ipad-pro-11-2024-origami-no1-original-case-dark-blue)
+  Updated: 2026-10-12T14:20:39Z
+  Vendor: Pipetto
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/ipad-pro-11-2024-origami-dark_blue-front-cover-1015013191.jpg?v=1745840710
+  Price: £39.50 GBP
+- [iPad Pro 11 (2024) Origami No3 Pencil Case - Black](https://iqjersey.com/products/ipad-pro-11-2024-origami-no3-pencil-case-black)
+  Updated: 2026-10-12T14:20:54Z
+  Vendor: Pipetto
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/5060520955568_vooraanzicht_x_1_8929-3981948248.jpg?v=1745840697
+  Price: £39.50 GBP
+- [iPad Pro 11 (2024) Origami No3 Pencil Case - Dark Blue](https://iqjersey.com/products/ipad-pro-11-2024-origami-no3-pencil-case-dark-blue)
+  Updated: 2026-04-13T08:29:55Z
+  Vendor: Pipetto
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/7e5eacf035e844e9e8e6f322979cd1586d44db11_633614-431196723.jpg?v=1745840688
+  Price: £39.50 GBP
+- [iPad Air 13 (2024) Origami No1 Original Case - Black](https://iqjersey.com/products/ipad-air-13-2024-origami-no1-original-case-black)
+  Updated: 2026-10-29T19:03:17Z
+  Vendor: Pipetto
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/ipad-pro-13-2024-origami-black-front-cover-4231440603.jpg?v=1745840312
+  Price: £44.00 GBP
+- [iPad Air 13 (2024) Origami No1 Original Case - Dark Blue](https://iqjersey.com/products/ipad-air-13-2024-origami-no1-original-case-dark-blue)
+  Updated: 2026-10-29T19:03:21Z
+  Vendor: Pipetto
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/813854_5CLargeImage_5C8-2865322279.jpg?v=1745840547
+  Price: £44.00 GBP
+- [iPad Pro 13 (2024) Origami No1 Original Case - Black](https://iqjersey.com/products/ipad-pro-13-2024-origami-no1-original-case-black)
+  Updated: 2026-10-12T14:21:08Z
+  Vendor: Pipetto
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/ipad-pro-13-2024-origami-black-front-cover-4231440603.jpg?v=1745840312
+  Price: £44.00 GBP
+- [iPad Pro 13 (2024) Origami No3 Pencil Case - Black](https://iqjersey.com/products/ipad-pro-13-2024-origami-no3-pencil-case-black)
+  Updated: 2026-10-12T14:21:19Z
+  Vendor: Pipetto
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/ipad-pro-13-2024-origami-no3-pencil-case-black-front-cover-129705767.jpg?v=1745840303
+  Price: £44.00 GBP
+- [OtterBox Symmetry Core - iPhone 16 Plus - Carnival Night (Black)](https://iqjersey.com/products/otterbox-symmetry-core-iphone-16-plus-carnival-night-black)
+  Updated: 2026-07-14T15:08:07Z
+  Vendor: Otterbox
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/61XHFAIjfyL._AC_SL1500.jpg?v=1745838877
+  Price: £42.00 GBP
+- [OtterBox Symmetry Core - iPhone 16 Plus - Sprinkles (White)](https://iqjersey.com/products/otterbox-symmetry-core-iphone-16-plus-sprinkles-white)
+  Updated: 2026-06-24T13:01:29Z
+  Vendor: Otterbox
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/61AZIGW2OOL._AC_SL1500.jpg?v=1745838778
+  Price: £42.00 GBP
+- [OtterBox Symmetry Core - iPhone 16 - Sprinkles (White)](https://iqjersey.com/products/otterbox-symmetry-core-iphone-16-sprinkles-white)
+  Updated: 2026-06-05T08:39:21Z
+  Vendor: Otterbox
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/61AZIGW2OOL._AC_SL1500.jpg?v=1745838778
+  Price: £42.00 GBP
+- [OtterBox Symmetry Cactus Leather - iPhone 16 Pro - Rich Adobe (Brown)](https://iqjersey.com/products/otterbox-symmetry-cactus-leather-iphone-16-pro-rich-adobe-brown)
+  Updated: 2026-08-14T12:04:08Z
+  Vendor: Otterbox
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/symmetry-cactus-iphd24-richadobe-2.webp?v=1745838371
+  Price: £42.00 GBP
+- [OtterBox React MagSafe Apple iPhone 16 Plus - Clear](https://iqjersey.com/products/otterbox-react-magsafe-apple-iphone-16-plus-clear)
+  Updated: 2026-11-09T13:38:52Z
+  Vendor: Otterbox
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/51_u1c0rB9L._AC_SL1500.jpg?v=1745837827
+  Price: £23.00 GBP
+- [USB-C Multiport MX Adapter - Space Grey](https://iqjersey.com/products/usb-c-multiport-mx-adapter-space-grey)
+  Updated: 2026-09-16T14:45:25Z
+  Vendor: Satechi
+  Product Type: Adapter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/satechi_usbc_multiport_mx_adapter_space_grey_ac61467_64378.jpg?v=1745837216
+  Price: £110.00 GBP
+- [USB-C Clamp Hub for 24" iMac - Silver](https://iqjersey.com/products/usb-c-clamp-hub-for-24-imac-silver)
+  Updated: 2026-04-25T18:02:55Z
+  Vendor: Satechi
+  Product Type: Adapter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/satechi_usbc_clamp_hub_for_24_imac_silver_ac61464_17959-843759251.jpg?v=1745836915
+  Price: £52.50 GBP
+- [USB-C Slim Dock for 24” iMac - Silver](https://iqjersey.com/products/usb-c-slim-dock-for-24-imac-silver)
+  Updated: 2026-08-26T08:19:02Z
+  Vendor: Satechi
+  Product Type: Adapter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/0bb104f0-0aa6-48bf-8cf0-b39379f5a88c-3302017465.jpg?v=1745836847
+  Price: £114.00 GBP
+- [145W USB-C 4-port GaN Travel Charger  - Space Grey](https://iqjersey.com/products/145w-usb-c-4-port-gan-travel-charger-space-grey)
+  Updated: 2026-03-16T10:59:48Z
+  Vendor: Satechi
+  Product Type: Charger
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/7-in-1-usb-c-slim-multiport-adapter-with-ethernet-satechi-space-grey-149430-3892621884.jpg?v=1745836809
+  Price: £114.00 GBP
+- [Satechi Type-C - Type A USB Adapter](https://iqjersey.com/products/satechi-type-c-type-a-usb-adapter)
+  Updated: 2026-09-16T14:45:05Z
+  Vendor: Satechi
+  Product Type: Adapter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/type-a-to-type-c-adapter-usb-c-satechi-silver-894977_1024x-2480568046.jpg?v=1745836794
+  Price: £12.00 GBP
+- [Smart Folio for iPad Pro 11-inch (M4)  - Black](https://iqjersey.com/products/smart-folio-for-ipad-pro-11-inch-m4-black)
+  Updated: 2026-07-02T14:09:29Z
+  Vendor: Apple
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MWK33.jpg?v=1745836704
+  Price: £70.00 GBP
+- [Apple Magic Keyboard Folio for iPad (10th generation) - White](https://iqjersey.com/products/apple-magic-keyboard-folio-for-ipad-10th-generation-white)
+  Updated: 2026-11-13T12:11:57Z
+  Vendor: Apple
+  Product Type: Magic Keyboard Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-23T153429.452.png?v=1745411677
+  Price: £218.00 GBP
+- [Smart Folio for iPad Pro 11-inch (M4) - Denim](https://iqjersey.com/products/smart-folio-for-ipad-pro-11-inch-m4-denim)
+  Updated: 2026-07-31T12:28:09Z
+  Vendor: Apple
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MWK43.jpg?v=1745836723
+  Price: £70.00 GBP
+- [Smart Folio for iPad Pro 13-inch (M4) - White](https://iqjersey.com/products/smart-folio-for-ipad-pro-13-inch-m4-white)
+  Updated: 2026-06-15T11:50:19Z
+  Vendor: Apple
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MWK23.jpg?v=1745836710
+  Price: £88.00 GBP
+- [Smart Folio for iPad Pro 13-inch (M4) - Black](https://iqjersey.com/products/smart-folio-for-ipad-pro-13-inch-m4-black)
+  Updated: 2026-05-26T10:54:28Z
+  Vendor: Apple
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MWK33.jpg?v=1745836704
+  Price: £88.00 GBP
+- [Smart Folio for iPad Pro 13-inch (M4) - Denim](https://iqjersey.com/products/smart-folio-for-ipad-pro-13-inch-m4-denim)
+  Updated: 2026-10-09T14:30:09Z
+  Vendor: Apple
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/51Rb1-X5X9L._AC_SL1500.jpg?v=1745836591
+  Price: £88.00 GBP
+- [Smart Folio for iPad Air 11-inch (M2) - Light Violet](https://iqjersey.com/products/smart-folio-for-ipad-air-11-inch-m2-light-violet)
+  Updated: 2026-10-16T13:19:59Z
+  Vendor: Apple
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/51gOMnkq29L._AC_SL1500.jpg?v=1745836573
+  Price: £70.00 GBP
+- [Magic Keyboard for iPad Pro 11‑inch (M4) - British English - Black](https://iqjersey.com/products/magic-keyboard-for-ipad-pro-11-inch-m4-british-english-black)
+  Updated: 2026-11-05T12:00:23Z
+  Vendor: Apple
+  Product Type: Magic Keyboard
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MWR23B.jpg?v=1745836550
+  Price: £263.00 GBP
+- [Magic Keyboard for iPad Pro 13‑inch (M4) - British English - White](https://iqjersey.com/products/magic-keyboard-for-ipad-pro-13-inch-m4-british-english-white)
+  Updated: 2026-11-13T13:26:22Z
+  Vendor: Apple
+  Product Type: Magic Keyboard
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MWR43B.jpg?v=1745836490
+  Price: £306.00 GBP
+- [Magic Keyboard for iPad Pro 13‑inch (M4) - British English - Black](https://iqjersey.com/products/magic-keyboard-for-ipad-pro-13-inch-m4-british-english-black)
+  Updated: 2026-11-13T12:12:08Z
+  Vendor: Apple
+  Product Type: Magic Keyboard
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MWR53B-3367210797.jpg?v=1745836471
+  Price: £306.00 GBP
+- [Magic Keyboard for iPad Air 13-inch (M3) - British English - White](https://iqjersey.com/products/magic-keyboard-for-ipad-air-13-inch-m3-british-english-white)
+  Updated: 2026-11-14T14:19:46Z
+  Vendor: Apple
+  Product Type: Magic Keyboard
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/71CXovYO92L._AC_SL1500.jpg?v=1745836395
+  Price: £262.00 GBP
+- [Smart Folio for iPad (A16) - Lemonade](https://iqjersey.com/products/smart-folio-for-ipad-a16-lemonade-lemonade)
+  Updated: 2026-10-17T18:03:17Z
+  Vendor: Apple
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MDEN4.jpg?v=1745836321
+  Price: £70.00 GBP
+- [Smart Folio for iPad (A16) - Watermelon](https://iqjersey.com/products/smart-folio-for-ipad-a16-watermelon-watermelon)
+  Updated: 2026-11-07T19:03:32Z
+  Vendor: Apple
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MDEP4.jpg?v=1745836310
+  Price: £70.00 GBP
+- [Smart Folio for iPad (A16) - Sky](https://iqjersey.com/products/smart-folio-for-ipad-a16-sky-sky)
+  Updated: 2026-11-13T12:12:48Z
+  Vendor: Apple
+  Product Type: Smart Folio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MDEQ4.jpg?v=1745836228
+  Price: £70.00 GBP
+- [Mac Studio: Apple  - 1TB - M1 Ultra chip with 20‑core CPU and 48‑core GPU](https://iqjersey.com/products/mac-studio-apple-1tb-m1-ultra-chip-with-20-core-cpu-and-48-core-gpu)
+  Updated: 2026-10-21T20:58:33Z
+  Vendor: Apple
+  Product Type: Mac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/l_10236064.jpg?v=1765982104
+  Price: £2,500.00 GBP
+- [16-inch MacBook Pro: M2 Pro - 512GB - 12-core CPU / 19-core GPU / 16GB - Silver](https://iqjersey.com/products/16-inch-macbook-pro-m2-pro-512gb-12-core-cpu-19-core-gpu-16gb-silver)
+  Updated: 2026-11-14T09:43:56Z
+  Vendor: Apple
+  Product Type: Mac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/C590990E-F920-4D00-B592-191CA92FC617.jpg?v=1745835162
+  Price: £1,500.00 GBP
+- [14-inch MacBook Pro: M2 Pro - 1TB - 12-core CPU / 19-core GPU / 16GB - Space Grey](https://iqjersey.com/products/14-inch-macbook-pro-m2-pro-1tb-12-core-cpu-19-core-gpu-16gb-space-grey)
+  Updated: 2026-10-21T20:54:41Z
+  Vendor: Apple
+  Product Type: Mac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/D272F0AB-0D34-433C-AF18-08D0740C5E4D.jpg?v=1745835220
+  Price: £1,700.00 GBP
+- [Apple Mac mini: M2 Pro chip - 512GB - 10-core CPU / 16-core GPU / 16GB](https://iqjersey.com/products/apple-mac-mini-m2-pro-chip-512gb-10-core-cpu-16-core-gpu-16gb)
+  Updated: 2026-10-21T20:53:09Z
+  Vendor: Apple
+  Product Type: Mac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/A0E6DB18-C291-4BF3-B707-5F902824EAA4.jpg?v=1745835111
+  Price: £850.00 GBP
+- [14-inch MacBook Pro: M2 Max - 1TB - 12-core CPU / 30-core GPU / 32GB - Silver](https://iqjersey.com/products/14-inch-macbook-pro-m2-max-1tb-12-core-cpu-30-core-gpu-32gb-silver)
+  Updated: 2026-10-21T20:45:38Z
+  Vendor: Apple
+  Product Type: Mac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/imgi_56_macbook_pro_14_in_silver_pdp_image_position-1__czcs_4.jpg?v=1753185877
+  Price: £2,150.00 GBP
+- [Mac Studio: Apple  - 512GB - M2 Max chip - Silver](https://iqjersey.com/products/mac-studio-apple-512gb-m2-max-chip-silver)
+  Updated: 2026-11-11T11:25:32Z
+  Vendor: Apple
+  Product Type: Mac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/l_10250798_27386752-e28f-49ba-898f-08fe591d1692.jpg?v=1765982450
+  Price: £1,400.00 GBP
+- [Mac Studio: Apple  - 1TB - M2 Ultra chip - Silver](https://iqjersey.com/products/mac-studio-apple-1tb-m2-ultra-chip-silver)
+  Updated: 2026-10-21T20:37:32Z
+  Vendor: Apple
+  Product Type: Mac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/l_10250798.jpg?v=1765982325
+  Price: £3,200.00 GBP
+- [Apple 14-inch MacBook Pro - M3 Pro chip with 11‑core CPU / 14‑core GPU - 512GB - 18GB RAM - Space Black](https://iqjersey.com/products/apple-14-inch-macbook-pro-m3-pro-chip-with-11-core-cpu-14-core-gpu-512gb-18gb-ram-space-black)
+  Updated: 2026-10-21T20:33:13Z
+  Vendor: Apple
+  Product Type: Mac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_64_50434499-1520-4195-96dd-31e0c94b86ba.png?v=1745814229
+  Price: £1,499.00 GBP
+- [Apple 14-inch MacBook Pro - M3 Max chip with 14‑core CPU / 30‑core GPU - 1TB - 36GB RAM - Silver](https://iqjersey.com/products/apple-14-inch-macbook-pro-m3-max-chip-with-14-core-cpu-30-core-gpu-1tb-36gb-ram-silver)
+  Updated: 2026-10-21T20:31:58Z
+  Vendor: Apple
+  Product Type: Mac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15343894_1500x_1aacdf02-36d8-46d3-b8ec-b27eeb1a5cbe.jpg?v=1765980194
+  Price: £2,399.00 GBP
+- [15-inch MacBook Air - M3 chip with 8-core CPU / 10-core GPU - 16GB - 512GB - Space Grey](https://iqjersey.com/products/15-inch-macbook-air-m3-chip-with-8-core-cpu-10-core-gpu-16gb-512gb-space-grey)
+  Updated: 2026-10-23T13:08:42Z
+  Vendor: Apple
+  Product Type: Mac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/EE8ABA71-9E2A-4426-A0E9-073F5F617356_b68c1601-cecc-4778-a9cd-db9bccd403a9.jpg?v=1745813524
+  Price: £1,100.00 GBP
+- [Apple Thunderbolt to Gigabit Ethernet Adapter](https://iqjersey.com/products/apple-thunderbolt-to-gigabit-ethernet-adapter)
+  Updated: 2026-04-18T18:00:20Z
+  Vendor: Apple
+  Product Type: Adapter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/ThunderbolttoGigabitEthernetAdapter2_1200x1200-325066717.jpg?v=1745834199
+  Price: £25.50 GBP
+- [Magic Keyboard with Touch ID - Apple Silicon - British English - White](https://iqjersey.com/products/magic-keyboard-with-touch-id-apple-silicon-british-english-white)
+  Updated: 2026-09-30T13:16:18Z
+  Vendor: Apple
+  Product Type: Magic Keyboard
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MK2C3-2076514934_3395ed29-9043-4c06-848e-a7d727e0eb47.jpg?v=1745834109
+  Price: £131.00 GBP
+- [Magic Keyboard - British English (USB-C)](https://iqjersey.com/products/magic-keyboard-british-english-usb-c)
+  Updated: 2026-11-13T15:22:07Z
+  Vendor: Apple
+  Product Type: Magic Keyboard
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MXCL3B.jpg?v=1745834081
+  Price: £87.00 GBP
+- [Magic Keyboard with Touch ID and Numeric Keypad - Apple silicon - British English - White Keys (USB-C)](https://iqjersey.com/products/magic-keyboard-with-touch-id-and-numeric-keypad-apple-silicon-british-english-white-keys-usb-c)
+  Updated: 2026-11-13T12:10:22Z
+  Vendor: Apple
+  Product Type: Magic Keyboard
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MK2C3-2076514934.jpg?v=1745834056
+  Price: £158.00 GBP
+- [Magic Keyboard with Touch ID and Numeric Keypad Apple Silicon - British English - Black Keys (USB-C)](https://iqjersey.com/products/magic-keyboard-with-touch-id-and-numeric-keypad-apple-silicon-british-english-black-keys-usb-c)
+  Updated: 2026-11-05T11:59:27Z
+  Vendor: Apple
+  Product Type: Magic Keyboard
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MMMR3B-1575862347.jpg?v=1745834042
+  Price: £174.00 GBP
+- [Magic Trackpad - White Multi-Touch Surface](https://iqjersey.com/products/magic-trackpad-white-multi-touch-surface)
+  Updated: 2026-09-12T16:04:42Z
+  Vendor: Apple
+  Product Type: Magic Trackpad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MXK93.jpg?v=1745834027
+  Price: £113.00 GBP
+- [Magic Trackpad - Black Multi-Touch Surface](https://iqjersey.com/products/magic-trackpad-black-multi-touch-surface)
+  Updated: 2026-11-05T19:03:57Z
+  Vendor: Apple
+  Product Type: Magic Mouse
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/203E1553-DD23-4A9F-BF8A-1C35D2AD9D1F_c76e9dd6-9b83-4f76-af2c-e91b4c6e1101.jpg?v=1745833710
+  Price: £131.00 GBP
+- [Magic Mouse - White - (USB-C)](https://iqjersey.com/products/magic-mouse-white-usb-c)
+  Updated: 2026-11-14T19:02:26Z
+  Vendor: Apple
+  Product Type: Magic Mouse
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MXK53.jpg?v=1745833981
+  Price: £69.00 GBP
+- [Magic Mouse - Black - (USB-C)](https://iqjersey.com/products/magic-mouse-black-usb-c)
+  Updated: 2026-11-05T11:59:37Z
+  Vendor: Apple
+  Product Type: Magic Mouse
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MXK63.jpg?v=1745833972
+  Price: £87.00 GBP
+- [Magic Keyboard with Numeric Keypad - International English - Silver (USB-C)](https://iqjersey.com/products/magic-keyboard-with-numeric-keypad-international-english-silver-usb-c)
+  Updated: 2026-10-19T09:22:32Z
+  Vendor: Apple
+  Product Type: Magic Keyboard
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/3LqkhVx60q1m86hQdFSB8A-3d-3d-4093334924.jpg?v=1745833956
+  Price: £114.00 GBP
+- [Satechi Mac mini M4 Stand & Hub SSD Enclosure](https://iqjersey.com/products/satechi-mac-mini-m4-stand-hub-ssd-enclosure)
+  Updated: 2026-06-05T14:19:27Z
+  Vendor: Satechi
+  Product Type: Stand & Hub SSD Enclosure
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/m-222487769.webp?v=1745833938
+  Price: £88.00 GBP
+- [Apple 140W USB-C Power adapter](https://iqjersey.com/products/apple-140w-usb-c-power-adapter)
+  Updated: 2026-11-13T12:09:47Z
+  Vendor: Apple
+  Product Type: Adapter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MW2M3.jpg?v=1745833881
+  Price: £87.00 GBP
+- [Apple Power Adapter Extension Cable](https://iqjersey.com/products/apple-power-adapter-extension-cable)
+  Updated: 2026-02-17T19:01:27Z
+  Vendor: Apple
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MK122.jpg?v=1745833865
+  Price: £16.50 GBP
+- [Radeon Pro W6600X MPX Module](https://iqjersey.com/products/radeon-pro-w6600x-mpx-module)
+  Updated: 2026-02-17T19:14:03Z
+  Vendor: Apple
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MKGY3.webp?v=1745833852
+  Price: £615.00 GBP
+- [Pro Display XDR - Nano-texture glass](https://iqjersey.com/products/pro-display-xdr-nano-texture-glass)
+  Updated: 2026-02-17T21:43:40Z
+  Vendor: Apple
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/2A41BC07-A4B0-4B17-894B-C1F14CDEBECC.jpg?v=1745833825
+  Price: £4,813.00 GBP
+- [Apple USB-C to Lightning Adapter](https://iqjersey.com/products/apple-usb-c-to-lightning-adapter)
+  Updated: 2026-10-20T08:41:06Z
+  Vendor: Apple
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MUQX3-4055668325.jpg?v=1745833533
+  Price: £26.50 GBP
+- [Apple Pencil USB-C](https://iqjersey.com/products/apple-pencil-usb-c)
+  Updated: 2026-11-14T17:56:06Z
+  Vendor: Apple
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/3FF065DE-98D5-448D-9288-6B966AFAC343_2c576be8-fd37-48bb-a9a2-256d75aa17e5.png?v=1745833417
+  Price: £70.00 GBP
+- [Apple USB-C to Lightning Cable (1m)](https://iqjersey.com/products/apple-usb-c-to-lightning-cable-1m)
+  Updated: 2026-11-14T19:01:16Z
+  Vendor: Apple
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/8A3DC3CC-27F6-45BF-A7A5-C42D79590929.png?v=1745833331
+  Price: £17.00 GBP
+- [Apple Lightning to USB Cable (1m)](https://iqjersey.com/products/apple-lightning-to-usb-cable-1m)
+  Updated: 2026-11-12T19:01:18Z
+  Vendor: Apple
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/EEDEF2FD-AAEF-4172-A3F4-6B4E5163A097.png?v=1745833293
+  Price: £17.00 GBP
+- [Apple 20W USB-C Power Adapter](https://iqjersey.com/products/apple-20w-usb-c-power-adapter)
+  Updated: 2026-11-14T15:34:46Z
+  Vendor: Apple
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/2FFB2B3F-FC5A-49EC-81D2-790190D9BDAD.png?v=1745833248
+  Price: £17.00 GBP
+- [70W USB-C POWER ADAPTER-GBR](https://iqjersey.com/products/70w-usb-c-power-adapter-gbr)
+  Updated: 2026-10-19T13:37:47Z
+  Vendor: Apple
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/77D22EA0-FAC2-41DF-B4C2-A40DC3D85319.png?v=1745833228
+  Price: £61.00 GBP
+- [Apple 240W USB-C Charge Cable (2m)](https://iqjersey.com/products/apple-240w-usb-c-charge-cable-2m)
+  Updated: 2026-11-14T19:01:56Z
+  Vendor: Apple
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/86ED2BC2-42E0-4889-96DB-FE10F4557A51.jpg?v=1745833176
+  Price: £26.00 GBP
+- [USB-C to Headphone Jack Adapter](https://iqjersey.com/products/usb-c-to-headphone-jack-adapter)
+  Updated: 2026-11-13T19:03:47Z
+  Vendor: Apple
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/Usb-C-To-3-5mm-Headphone-Jack-Adapter-Usbc-To-Aux-Audio-Compatible-With-Pro-Air-Android-Phones-And-Tablets.jpg?v=1745832933
+  Price: £8.00 GBP
+- [10.9-inch iPad Air (2022) - 64GB - WiFi+Cell - Starlight](https://iqjersey.com/products/10-9-inch-ipad-air-2022-64gb-wifi-cell-starlight): Stunning 10.9-Inch Liquid Retina Display with True Tone and P3 Wide Color Apple M1 Chip with Neural Engine - 802.11AX Wi-Fi 6 - Stereo Landscape Audio 12MP Wide Camera, 12MP Ultra Wide Front Camera - Up to 10 Hours of Battery Life Touch ID for Secure Authentication - USB-C Connector for Charging and Accessories Support for Magic Keyboard, Smart Keyboard Folio, and Apple Pencil (2nd Generation)
+  Updated: 2026-10-14T18:28:06Z
+  Vendor: Apple
+  Product Type: iPad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/496C36F4-FE86-43A2-BD5B-293867430303.jpg?v=1745832000
+  Price: £500.00 GBP
+- [11-inch iPad Pro Wi-Fi + Cellular (4th Gen) - 128GB - Space Grey](https://iqjersey.com/products/11-inch-ipad-pro-wi-fi-cellular-4th-gen-128gb-space-grey): iPad Pro. With astonishing performance, superfast wireless connectivity, and next-generation Apple Pencil experience. Plus, powerful new productivity and collaboration features in iPadOS 16. iPad Pro is the ultimate iPad.
+  Updated: 2026-10-13T02:11:00Z
+  Vendor: Apple
+  Product Type: iPad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/2E42276C-ABFD-4A29-835A-AFB1CA4E61CB.jpg?v=1745831794
+  Price: £699.00 GBP
+- [iPhone 15 Pro - 1TB - White Titanium](https://iqjersey.com/products/iphone-15-pro-1tb-white-titanium): Originally released September 2023 6.1-inch (diagonal) Super Retina XDR display Always-On display Titanium with textured matte glass back Action button Dynamic Island A17 Pro chip Pro camera system Up to 23 hours video playback⁵
+  Updated: 2026-06-13T12:28:09Z
+  Vendor: Apple
+  Product Type: iPhone
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/9CD5B365-65F9-4ECF-B4F1-CD38C2424946_338ca420-2ef9-4f7d-a53a-eb54b3128d5f.jpg?v=1745830530
+  Price: £900.00 GBP
+- [Apple TV 4K Wi‑Fi + Ethernet with 128GB storage (2022)](https://iqjersey.com/products/apple-tv-4k-wi-fi-ethernet-with-128gb-storage-2022): Apple TV 4K lets you watch shows and movies in stunning 4K Dolby Vision and HDR10+. Get theater-like Spatial Audio with Dolby Atmos that immerses you in sound. Use it as a home hub to connect and control smart home accessories.
+  Updated: 2026-11-13T15:17:48Z
+  Vendor: Apple
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/2E215558-CE0C-47C6-9E46-2016548C5C40.jpg?v=1745830299
+  Price: £218.00 GBP
+- [Beats Pill - Matte Black](https://iqjersey.com/products/beats-pill-matte-black): Power. Precision. Boom. The upgraded Beats Pill is more advanced than ever.¹ It’s more powerful. It’s lighter. It’s more portable. And it’s designed to sound incredible — inside your home and out and about. Enjoy room-filling sound, bigger bass and better tonality across the audio spectrum. A lot more oomph. The Beats Pill has a bigger, bespoke racetrack woofer that displaces 90% more air volume, packing more of a punch with deeper, fuller bass.¹ Loud and clear. The woofer’s material and structure — including its innovative ridges and contours — helps minimize low-end distortion, even at high volumes.¹ Powered by stronger magnets. The upgraded neodymium magnets drive the increased air volume displacement, providing 28% greater motor force for bigger, accurate sound.¹ The updated tweeter is another high note. Secured in its own housing for extra stability to help reduce distortion, the redesigned tweeter delivers crisp highs and rich mid-range tones. IP67 dust and water resistance. At the pool, at the beach, in the rain — the Beats Pill is protected by enhanced internal seals to help keep dirt, sand and water out.² Tilted to project sound upward. The streamlined Beats Pill has a 20-degree upward tilt to help optimize sound delivery toward your head, away from objects that might obstruct them. The intuitive controls are slightly tucked way on the back, still easy to reach. Designed to stay with you. The Beats Pill comes with a removable lanyard and has a soft-grip silicone backing, all to make it easy to take with you. Up to 24 hours of battery life. The Beats Pill has up to 24 hours of continuous playback.³ You can even use it to charge your phone on the go via the included USB-C cable. Apple or Android? You’re good. Whether you’re on iOS or Android, the Pill’s new proprietary chip ensures you get instant one-touch pairing, automatic pairing across your other devices, plus Find My or Find My Device.⁴ Your Pill is a speakerphone too. Take calls and activate your voice assistant right from your paired Beats Pill, all with extended range and fewer dropouts thanks to industry-leading Class 1 Bluetooth® connectivity. Extra Play Modes. Time to party? Amplify Mode syncs two Beats Pill speakers for double the audio experience. Want a surround sound feel? Stereo Mode splits audio between two Beats Pill speakers for dedicated left/right output.
+  Updated: 2026-10-24T13:41:07Z
+  Vendor: Beats
+  Product Type: Audio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/beats-beatspill.png?v=1745829354
+  Price: £132.00 GBP
+- [Beats Pill - Champagne Gold - Gold](https://iqjersey.com/products/beats-pill-champagne-gold-gold): Power. Precision. Boom. The upgraded Beats Pill is more advanced than ever.¹ It’s more powerful. It’s lighter. It’s more portable. And it’s designed to sound incredible — inside your home and out and about. Enjoy room-filling sound, bigger bass and better tonality across the audio spectrum. A lot more oomph. The Beats Pill has a bigger, bespoke racetrack woofer that displaces 90% more air volume, packing more of a punch with deeper, fuller bass.¹ Loud and clear. The woofer’s material and structure — including its innovative ridges and contours — helps minimize low-end distortion, even at high volumes.¹ Powered by stronger magnets. The upgraded neodymium magnets drive the increased air volume displacement, providing 28% greater motor force for bigger, accurate sound.¹ The updated tweeter is another high note. Secured in its own housing for extra stability to help reduce distortion, the redesigned tweeter delivers crisp highs and rich mid-range tones. IP67 dust and water resistance. At the pool, at the beach, in the rain — the Beats Pill is protected by enhanced internal seals to help keep dirt, sand and water out.² Tilted to project sound upward. The streamlined Beats Pill has a 20-degree upward tilt to help optimize sound delivery toward your head, away from objects that might obstruct them. The intuitive controls are slightly tucked way on the back, still easy to reach. Designed to stay with you. The Beats Pill comes with a removable lanyard and has a soft-grip silicone backing, all to make it easy to take with you. Up to 24 hours of battery life. The Beats Pill has up to 24 hours of continuous playback.³ You can even use it to charge your phone on the go via the included USB-C cable. Apple or Android? You’re good. Whether you’re on iOS or Android, the Pill’s new proprietary chip ensures you get instant one-touch pairing, automatic pairing across your other devices, plus Find My or Find My Device.⁴ Your Pill is a speakerphone too. Take calls and activate your voice assistant right from your paired Beats Pill, all with extended range and fewer dropouts thanks to industry-leading Class 1 Bluetooth® connectivity. Extra Play Modes. Time to party? Amplify Mode syncs two Beats Pill speakers for double the audio experience. Want a surround sound feel? Stereo Mode splits audio between two Beats Pill speakers for dedicated left/right output.
+  Updated: 2026-10-19T13:39:21Z
+  Vendor: Beats
+  Product Type: Audio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T113301.056.png?v=1745829183
+  Price: £132.00 GBP
+- [Beats Pill - Statement Red](https://iqjersey.com/products/beats-pill-statement-red): Power. Precision. Boom. The upgraded Beats Pill is more advanced than ever.¹ It’s more powerful. It’s lighter. It’s more portable. And it’s designed to sound incredible — inside your home and out and about. Enjoy room-filling sound, bigger bass and better tonality across the audio spectrum. A lot more oomph. The Beats Pill has a bigger, bespoke racetrack woofer that displaces 90% more air volume, packing more of a punch with deeper, fuller bass.¹ Loud and clear. The woofer’s material and structure — including its innovative ridges and contours — helps minimize low-end distortion, even at high volumes.¹ Powered by stronger magnets. The upgraded neodymium magnets drive the increased air volume displacement, providing 28% greater motor force for bigger, accurate sound.¹ The updated tweeter is another high note. Secured in its own housing for extra stability to help reduce distortion, the redesigned tweeter delivers crisp highs and rich mid-range tones. IP67 dust and water resistance. At the pool, at the beach, in the rain — the Beats Pill is protected by enhanced internal seals to help keep dirt, sand and water out.² Tilted to project sound upward. The streamlined Beats Pill has a 20-degree upward tilt to help optimize sound delivery toward your head, away from objects that might obstruct them. The intuitive controls are slightly tucked way on the back, still easy to reach. Designed to stay with you. The Beats Pill comes with a removable lanyard and has a soft-grip silicone backing, all to make it easy to take with you. Up to 24 hours of battery life. The Beats Pill has up to 24 hours of continuous playback.³ You can even use it to charge your phone on the go via the included USB-C cable. Apple or Android? You’re good. Whether you’re on iOS or Android, the Pill’s new proprietary chip ensures you get instant one-touch pairing, automatic pairing across your other devices, plus Find My or Find My Device.⁴ Your Pill is a speakerphone too. Take calls and activate your voice assistant right from your paired Beats Pill, all with extended range and fewer dropouts thanks to industry-leading Class 1 Bluetooth® connectivity. Extra Play Modes. Time to party? Amplify Mode syncs two Beats Pill speakers for double the audio experience. Want a surround sound feel? Stereo Mode splits audio between two Beats Pill speakers for dedicated left/right output.
+  Updated: 2026-10-19T13:39:36Z
+  Vendor: Beats
+  Product Type: Audio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T113421.656.png?v=1745829265
+  Price: £132.00 GBP
+- [Beats iPhone 16 Case with MagSafe - Summit Stone](https://iqjersey.com/products/beats-iphone-16-case-with-magsafe-summit-stone): The Beats iPhone Case with MagSafe is available in four sizes, each precisely crafted to fit the design and buttons of its corresponding iPhone 16 model.
+  Updated: 2026-08-11T08:46:28Z
+  Vendor: Beats
+  Product Type: Silicone Case with MagSafe
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T112541.953.png?v=1745828745
+  Price: £44.00 GBP
+- [Beats iPhone 16 Case with MagSafe - Riptide Blue](https://iqjersey.com/products/beats-iphone-16-case-with-magsafe-riptide-blue): The Beats iPhone Case with MagSafe is available in four sizes, each precisely crafted to fit the design and buttons of its corresponding iPhone 16 model.
+  Updated: 2026-08-07T09:57:57Z
+  Vendor: Beats
+  Product Type: Silicone Case with MagSafe
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T112857.232.png?v=1745828940
+  Price: £44.00 GBP
+- [Beats iPhone 16 Case with MagSafe - Sunset Purple](https://iqjersey.com/products/beats-iphone-16-case-with-magsafe-sunset-purple): The Beats iPhone Case with MagSafe is available in four sizes, each precisely crafted to fit the design and buttons of its corresponding iPhone 16 model.
+  Updated: 2026-07-15T10:13:39Z
+  Vendor: Beats
+  Product Type: Silicone Case with MagSafe
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T112639.034.png?v=1745828803
+  Price: £44.00 GBP
+- [Beats iPhone 16 Plus Case with MagSafe - Sunset Purple](https://iqjersey.com/products/beats-iphone-16-plus-case-with-magsafe-sunset-purple): The Beats iPhone Case with MagSafe is available in four sizes, each precisely crafted to fit the design and buttons of its corresponding iPhone 16 Plus model.
+  Updated: 2026-09-02T11:24:39Z
+  Vendor: Beats
+  Product Type: Silicone Case with MagSafe
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T112420.893.png?v=1745828665
+  Price: £44.00 GBP
+- [Beats Powerbeats Pro 2  - Jet Black](https://iqjersey.com/products/beats-powerbeats-pro-2-jet-black): Built for Athletes. After relentless testing and refinements, the next-generation Powerbeats Pro 2 is ready for action. And it’s the most advanced product we’ve ever developed. Ultimate Secure Fit Heart Rate Monitoring Sensors Active Noise Cancelling Transparency mode Adaptive EQ Up to 45 Hours of Battery Life¹ Wireless Charging Case² Tried and tested. And tested again. In search of the perfect fit, we conducted over 1,500 hours of rigorous testing with nearly 1,000 athletes. The result: Powerbeats Pro 2 is our best-fitting headphone — ever. Heart Rate Monitoring for workouts. You want real-time data about your workout performance, so we built Powerbeats Pro 2 with accurate Heart Rate Monitoring sensors.³Precision-crafted LED optical sensors pulse light over 100 times per second to measure your blood flow.All this can be relayed to your favorite fitness apps in real time — and of course you can turn heart rate monitoring oﬀ whenever you want. Stays locked in. The updated earhook has been rebuilt with a super-light nickel-titanium alloy that is renowned in material design for its exceptional shape memory and flexibility. Light like a butterfly. The redesigned Powerbeats Pro 2 is 20% lighter than its predecessor. Incredible sound. Incredible noise cancelling. Powerbeats Pro 2 delivers powerful sound for any training environment. Turn on Active Noise Cancelling (ANC) when you want absolute focus, and experience the best noise cancelling we’ve ever developed. Listen in Transparency mode when you need to hear the world around you.⁴ Re-engineered acoustics and Spatial Audio. Powerbeats Pro 2 has a redesigned acoustic architecture, upgraded venting to enhance your sound and comfort, and Personalized Spatial Audio with dynamic head tracking to fully immerse you in your music.⁵ Adaptive EQ is as smart as it sounds. Using the advanced inward-facing microphones, Adaptive EQ continuously scans your specific ear shape to optimize your listening experience.The advanced technology analyzes what you’re hearing in real time based on the individual fit of your earbuds, then adjusts acoustic frequencies for clear, customized sound. Up to 45 hours of battery life with the charging case. And each bud gives up to 10 hours of playback per charge.¹ That’s countless miles or reps. Thanks to Fast Fuel, a five-minute charge gives you up to 90 minutes of playback.⁶ Wireless charging case. Powerbeats Pro 2 is also our very first product that is compatible with wireless charging.² The charging case is now 33% smaller for easy portability.⁷ Five ear tip sizes. For the first time ever, we’ve added a fifth ear tip size to help optimize your personal comfort. Choose from extra-small, small, medium, large and extra-large to find your fit. Sweat and water resistant. Powerbeats Pro 2 is sweat and water resistant with an IPX4 rating, so you can go as hard as you want to without interruption, even in the rain, snow or heat.⁸ Elite microphones. Clutch call quality. Each earbud is equipped with a voice accelerometer and three advanced microphones identical to those used in AirPods Pro 2. The improved microphones are more accurate than any we’ve featured before, with an improved signal-to-noise ratio and exceptional voice targeting and noise suppression. Next-Level Voice Isolation Leveraging advanced computational audio and a machine-learning algorithm, Voice Isolation reduces background noise while isolating and clarifying the sound of your voice during calls.⁹ Stay in command. Use the on-ear buttons or your voice to control your music, so you can focus on your training without disrupting your flow.Each earbud also has a tactile volume rocker for ultimate convenience. Powered by the Apple H2 chip. The updated sound profile, noise cancelling, Heart Rate Monitoring for workouts and exceptional battery life are all enabled by the efficient Apple H2 chip, the same chip that powers AirPods Pro 2.
+  Updated: 2026-11-05T12:06:28Z
+  Vendor: Beats
+  Product Type: Beats Powerbeats Pro 2
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T111435.339.png?v=1745828076
+  Price: £219.00 GBP
+- [Beats Powerbeats Pro 2  - Quick Sand](https://iqjersey.com/products/beats-powerbeats-pro-2-quick-sand): Built for Athletes. After relentless testing and refinements, the next-generation Powerbeats Pro 2 is ready for action. And it’s the most advanced product we’ve ever developed. Ultimate Secure Fit Heart Rate Monitoring Sensors Active Noise Cancelling Transparency mode Adaptive EQ Up to 45 Hours of Battery Life¹ Wireless Charging Case² Tried and tested. And tested again. In search of the perfect fit, we conducted over 1,500 hours of rigorous testing with nearly 1,000 athletes. The result: Powerbeats Pro 2 is our best-fitting headphone — ever. Heart Rate Monitoring for workouts. You want real-time data about your workout performance, so we built Powerbeats Pro 2 with accurate Heart Rate Monitoring sensors.³Precision-crafted LED optical sensors pulse light over 100 times per second to measure your blood flow.All this can be relayed to your favorite fitness apps in real time — and of course you can turn heart rate monitoring oﬀ whenever you want. Stays locked in. The updated earhook has been rebuilt with a super-light nickel-titanium alloy that is renowned in material design for its exceptional shape memory and flexibility. Light like a butterfly. The redesigned Powerbeats Pro 2 is 20% lighter than its predecessor. Incredible sound. Incredible noise cancelling. Powerbeats Pro 2 delivers powerful sound for any training environment. Turn on Active Noise Cancelling (ANC) when you want absolute focus, and experience the best noise cancelling we’ve ever developed. Listen in Transparency mode when you need to hear the world around you.⁴ Re-engineered acoustics and Spatial Audio. Powerbeats Pro 2 has a redesigned acoustic architecture, upgraded venting to enhance your sound and comfort, and Personalized Spatial Audio with dynamic head tracking to fully immerse you in your music.⁵ Adaptive EQ is as smart as it sounds. Using the advanced inward-facing microphones, Adaptive EQ continuously scans your specific ear shape to optimize your listening experience.The advanced technology analyzes what you’re hearing in real time based on the individual fit of your earbuds, then adjusts acoustic frequencies for clear, customized sound. Up to 45 hours of battery life with the charging case. And each bud gives up to 10 hours of playback per charge.¹ That’s countless miles or reps. Thanks to Fast Fuel, a five-minute charge gives you up to 90 minutes of playback.⁶ Wireless charging case. Powerbeats Pro 2 is also our very first product that is compatible with wireless charging.² The charging case is now 33% smaller for easy portability.⁷ Five ear tip sizes. For the first time ever, we’ve added a fifth ear tip size to help optimize your personal comfort. Choose from extra-small, small, medium, large and extra-large to find your fit. Sweat and water resistant. Powerbeats Pro 2 is sweat and water resistant with an IPX4 rating, so you can go as hard as you want to without interruption, even in the rain, snow or heat.⁸ Elite microphones. Clutch call quality. Each earbud is equipped with a voice accelerometer and three advanced microphones identical to those used in AirPods Pro 2. The improved microphones are more accurate than any we’ve featured before, with an improved signal-to-noise ratio and exceptional voice targeting and noise suppression. Next-Level Voice Isolation Leveraging advanced computational audio and a machine-learning algorithm, Voice Isolation reduces background noise while isolating and clarifying the sound of your voice during calls.⁹ Stay in command. Use the on-ear buttons or your voice to control your music, so you can focus on your training without disrupting your flow.Each earbud also has a tactile volume rocker for ultimate convenience. Powered by the Apple H2 chip. The updated sound profile, noise cancelling, Heart Rate Monitoring for workouts and exceptional battery life are all enabled by the efficient Apple H2 chip, the same chip that powers AirPods Pro 2.
+  Updated: 2026-11-05T12:06:37Z
+  Vendor: Beats
+  Product Type: Beats Powerbeats Pro 2
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T111319.827.png?v=1745828024
+  Price: £219.00 GBP
+- [Beats Powerbeats Pro 2  - Electric Orange](https://iqjersey.com/products/beats-powerbeats-pro-2-electric-orange): Built for Athletes. After relentless testing and refinements, the next-generation Powerbeats Pro 2 is ready for action. And it’s the most advanced product we’ve ever developed. Ultimate Secure Fit Heart Rate Monitoring Sensors Active Noise Cancelling Transparency mode Adaptive EQ Up to 45 Hours of Battery Life¹ Wireless Charging Case² Tried and tested. And tested again. In search of the perfect fit, we conducted over 1,500 hours of rigorous testing with nearly 1,000 athletes. The result: Powerbeats Pro 2 is our best-fitting headphone — ever. Heart Rate Monitoring for workouts. You want real-time data about your workout performance, so we built Powerbeats Pro 2 with accurate Heart Rate Monitoring sensors.³Precision-crafted LED optical sensors pulse light over 100 times per second to measure your blood flow.All this can be relayed to your favorite fitness apps in real time — and of course you can turn heart rate monitoring oﬀ whenever you want. Stays locked in. The updated earhook has been rebuilt with a super-light nickel-titanium alloy that is renowned in material design for its exceptional shape memory and flexibility. Light like a butterfly. The redesigned Powerbeats Pro 2 is 20% lighter than its predecessor. Incredible sound. Incredible noise cancelling. Powerbeats Pro 2 delivers powerful sound for any training environment. Turn on Active Noise Cancelling (ANC) when you want absolute focus, and experience the best noise cancelling we’ve ever developed. Listen in Transparency mode when you need to hear the world around you.⁴ Re-engineered acoustics and Spatial Audio. Powerbeats Pro 2 has a redesigned acoustic architecture, upgraded venting to enhance your sound and comfort, and Personalized Spatial Audio with dynamic head tracking to fully immerse you in your music.⁵ Adaptive EQ is as smart as it sounds. Using the advanced inward-facing microphones, Adaptive EQ continuously scans your specific ear shape to optimize your listening experience.The advanced technology analyzes what you’re hearing in real time based on the individual fit of your earbuds, then adjusts acoustic frequencies for clear, customized sound. Up to 45 hours of battery life with the charging case. And each bud gives up to 10 hours of playback per charge.¹ That’s countless miles or reps. Thanks to Fast Fuel, a five-minute charge gives you up to 90 minutes of playback.⁶ Wireless charging case. Powerbeats Pro 2 is also our very first product that is compatible with wireless charging.² The charging case is now 33% smaller for easy portability.⁷ Five ear tip sizes. For the first time ever, we’ve added a fifth ear tip size to help optimize your personal comfort. Choose from extra-small, small, medium, large and extra-large to find your fit. Sweat and water resistant. Powerbeats Pro 2 is sweat and water resistant with an IPX4 rating, so you can go as hard as you want to without interruption, even in the rain, snow or heat.⁸ Elite microphones. Clutch call quality. Each earbud is equipped with a voice accelerometer and three advanced microphones identical to those used in AirPods Pro 2. The improved microphones are more accurate than any we’ve featured before, with an improved signal-to-noise ratio and exceptional voice targeting and noise suppression. Next-Level Voice Isolation Leveraging advanced computational audio and a machine-learning algorithm, Voice Isolation reduces background noise while isolating and clarifying the sound of your voice during calls.⁹ Stay in command. Use the on-ear buttons or your voice to control your music, so you can focus on your training without disrupting your flow.Each earbud also has a tactile volume rocker for ultimate convenience. Powered by the Apple H2 chip. The updated sound profile, noise cancelling, Heart Rate Monitoring for workouts and exceptional battery life are all enabled by the efficient Apple H2 chip, the same chip that powers AirPods Pro 2.
+  Updated: 2026-10-13T15:53:47Z
+  Vendor: Beats
+  Product Type: Beats Powerbeats Pro 2
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T111253.567.png?v=1745827976
+  Price: £219.00 GBP
+- [Beats Powerbeats Pro 2  - Hyper Purple](https://iqjersey.com/products/beats-powerbeats-pro-2-hyper-purple): Built for Athletes. After relentless testing and refinements, the next-generation Powerbeats Pro 2 is ready for action. And it’s the most advanced product we’ve ever developed. Ultimate Secure Fit Heart Rate Monitoring Sensors Active Noise Cancelling Transparency mode Adaptive EQ Up to 45 Hours of Battery Life¹ Wireless Charging Case² Tried and tested. And tested again. In search of the perfect fit, we conducted over 1,500 hours of rigorous testing with nearly 1,000 athletes. The result: Powerbeats Pro 2 is our best-fitting headphone — ever. Heart Rate Monitoring for workouts. You want real-time data about your workout performance, so we built Powerbeats Pro 2 with accurate Heart Rate Monitoring sensors.³Precision-crafted LED optical sensors pulse light over 100 times per second to measure your blood flow.All this can be relayed to your favorite fitness apps in real time — and of course you can turn heart rate monitoring oﬀ whenever you want. Stays locked in. The updated earhook has been rebuilt with a super-light nickel-titanium alloy that is renowned in material design for its exceptional shape memory and flexibility. Light like a butterfly. The redesigned Powerbeats Pro 2 is 20% lighter than its predecessor. Incredible sound. Incredible noise cancelling. Powerbeats Pro 2 delivers powerful sound for any training environment. Turn on Active Noise Cancelling (ANC) when you want absolute focus, and experience the best noise cancelling we’ve ever developed. Listen in Transparency mode when you need to hear the world around you.⁴ Re-engineered acoustics and Spatial Audio. Powerbeats Pro 2 has a redesigned acoustic architecture, upgraded venting to enhance your sound and comfort, and Personalized Spatial Audio with dynamic head tracking to fully immerse you in your music.⁵ Adaptive EQ is as smart as it sounds. Using the advanced inward-facing microphones, Adaptive EQ continuously scans your specific ear shape to optimize your listening experience.The advanced technology analyzes what you’re hearing in real time based on the individual fit of your earbuds, then adjusts acoustic frequencies for clear, customized sound. Up to 45 hours of battery life with the charging case. And each bud gives up to 10 hours of playback per charge.¹ That’s countless miles or reps. Thanks to Fast Fuel, a five-minute charge gives you up to 90 minutes of playback.⁶ Wireless charging case. Powerbeats Pro 2 is also our very first product that is compatible with wireless charging.² The charging case is now 33% smaller for easy portability.⁷ Five ear tip sizes. For the first time ever, we’ve added a fifth ear tip size to help optimize your personal comfort. Choose from extra-small, small, medium, large and extra-large to find your fit. Sweat and water resistant. Powerbeats Pro 2 is sweat and water resistant with an IPX4 rating, so you can go as hard as you want to without interruption, even in the rain, snow or heat.⁸ Elite microphones. Clutch call quality. Each earbud is equipped with a voice accelerometer and three advanced microphones identical to those used in AirPods Pro 2. The improved microphones are more accurate than any we’ve featured before, with an improved signal-to-noise ratio and exceptional voice targeting and noise suppression. Next-Level Voice Isolation Leveraging advanced computational audio and a machine-learning algorithm, Voice Isolation reduces background noise while isolating and clarifying the sound of your voice during calls.⁹ Stay in command. Use the on-ear buttons or your voice to control your music, so you can focus on your training without disrupting your flow.Each earbud also has a tactile volume rocker for ultimate convenience. Powered by the Apple H2 chip. The updated sound profile, noise cancelling, Heart Rate Monitoring for workouts and exceptional battery life are all enabled by the efficient Apple H2 chip, the same chip that powers AirPods Pro 2.
+  Updated: 2026-10-26T11:43:27Z
+  Vendor: Beats
+  Product Type: Beats Powerbeats Pro 2
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T111150.611.png?v=1745827914
+  Price: £219.00 GBP
+- [Beats Studio Buds + - True Wireless Noise Cancelling Earbuds - Black/Gold](https://iqjersey.com/products/beats-studio-buds-true-wireless-noise-cancelling-earbuds-black-gold-black-gold): More than a little powerful. Featuring the tiniest case we’ve ever made, these mighty small earbuds are packed with incredibly big sound. Fully custom acoustic architecture Ergonomically angled acoustic nozzles for a natural fit Extended earbud battery life with up to 18 hours of playback¹ Compatible with both iOS and Android, including one-touch pairing² Designed for music first. The cleanly balanced tuning gives you the full range and emotion of all your favorite music with richly detailed clarity and power with accurate bass reproduction. Custom dual-layer drivers. Each earbud is powered by dual-layer transducers designed to minimize micro-distortions across the frequency curve, and purposefully positioned parallel with each acoustic nozzle to deliver sound directly to your ears. Laser-cut venting. Staying true to our music-first approach, the earbuds’ laser-cut vents were engineered to improve bass performance – and they also gently reduce air pressure for added comfort. Four eartip sizes. To optimize comfort and passive noise isolation for diverse ear types and shapes, Beats Solo Buds come with four eartip sizes — large, medium, small and extra-small. Battery all day. These tiny buds have all-day battery life with up to 18 hours of playback.¹ For extra power on the go, they can charge directly from your phone,³ tablet or laptop. And with Fast Fuel, a 5-minute charge gives up to 1 hour of playback.⁴ iOS and Android friendly. Beats Solo Buds are ready to pair with your Apple or Android device right out of the box. This native compatibility means seamless one-touch pairing, automatic pre-pairing across your devices, plus Find My or Find My Device, for everybody.² Crystal-clear calls Each earbud is equipped with a custom-designed microphone powered by an advanced noise-learning algorithm to help deliver exceptional call quality. Enjoy extended range with fewer dropouts thanks to industry-leading Class 1 Bluetooth®.
+  Updated: 2026-10-09T14:31:47Z
+  Vendor: Beats
+  Product Type: Beats Studio Buds +
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T111119.658.png?v=1745827881
+  Price: £158.00 GBP
+- [Beats Studio Buds + - True Wireless Noise Cancelling Earbuds - Ivory](https://iqjersey.com/products/beats-studio-buds-true-wireless-noise-cancelling-earbuds-ivory-ivory): More than a little powerful. Featuring the tiniest case we’ve ever made, these mighty small earbuds are packed with incredibly big sound. Fully custom acoustic architecture Ergonomically angled acoustic nozzles for a natural fit Extended earbud battery life with up to 18 hours of playback¹ Compatible with both iOS and Android, including one-touch pairing² Designed for music first. The cleanly balanced tuning gives you the full range and emotion of all your favorite music with richly detailed clarity and power with accurate bass reproduction. Custom dual-layer drivers. Each earbud is powered by dual-layer transducers designed to minimize micro-distortions across the frequency curve, and purposefully positioned parallel with each acoustic nozzle to deliver sound directly to your ears. Laser-cut venting. Staying true to our music-first approach, the earbuds’ laser-cut vents were engineered to improve bass performance – and they also gently reduce air pressure for added comfort. Four eartip sizes. To optimize comfort and passive noise isolation for diverse ear types and shapes, Beats Solo Buds come with four eartip sizes — large, medium, small and extra-small. Battery all day. These tiny buds have all-day battery life with up to 18 hours of playback.¹ For extra power on the go, they can charge directly from your phone,³ tablet or laptop. And with Fast Fuel, a 5-minute charge gives up to 1 hour of playback.⁴ iOS and Android friendly. Beats Solo Buds are ready to pair with your Apple or Android device right out of the box. This native compatibility means seamless one-touch pairing, automatic pre-pairing across your devices, plus Find My or Find My Device, for everybody.² Crystal-clear calls Each earbud is equipped with a custom-designed microphone powered by an advanced noise-learning algorithm to help deliver exceptional call quality. Enjoy extended range with fewer dropouts thanks to industry-leading Class 1 Bluetooth®.
+  Updated: 2026-07-15T10:52:19Z
+  Vendor: Beats
+  Product Type: Beats Studio Buds +
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T111055.449.png?v=1745827857
+  Price: £158.00 GBP
+- [Beats Studio Buds + - True Wireless Noise Cancelling Earbuds - Transparent](https://iqjersey.com/products/beats-studio-buds-true-wireless-noise-cancelling-earbuds-transparent-transparent): More than a little powerful. Featuring the tiniest case we’ve ever made, these mighty small earbuds are packed with incredibly big sound. Fully custom acoustic architecture Ergonomically angled acoustic nozzles for a natural fit Extended earbud battery life with up to 18 hours of playback¹ Compatible with both iOS and Android, including one-touch pairing² Designed for music first. The cleanly balanced tuning gives you the full range and emotion of all your favorite music with richly detailed clarity and power with accurate bass reproduction. Custom dual-layer drivers. Each earbud is powered by dual-layer transducers designed to minimize micro-distortions across the frequency curve, and purposefully positioned parallel with each acoustic nozzle to deliver sound directly to your ears. Laser-cut venting. Staying true to our music-first approach, the earbuds’ laser-cut vents were engineered to improve bass performance – and they also gently reduce air pressure for added comfort. Four eartip sizes. To optimize comfort and passive noise isolation for diverse ear types and shapes, Beats Solo Buds come with four eartip sizes — large, medium, small and extra-small. Battery all day. These tiny buds have all-day battery life with up to 18 hours of playback.¹ For extra power on the go, they can charge directly from your phone,³ tablet or laptop. And with Fast Fuel, a 5-minute charge gives up to 1 hour of playback.⁴ iOS and Android friendly. Beats Solo Buds are ready to pair with your Apple or Android device right out of the box. This native compatibility means seamless one-touch pairing, automatic pre-pairing across your devices, plus Find My or Find My Device, for everybody.² Crystal-clear calls Each earbud is equipped with a custom-designed microphone powered by an advanced noise-learning algorithm to help deliver exceptional call quality. Enjoy extended range with fewer dropouts thanks to industry-leading Class 1 Bluetooth®.
+  Updated: 2026-05-05T12:00:57Z
+  Vendor: Beats
+  Product Type: Beats Studio Buds +
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T111014.000.png?v=1745827816
+  Price: £158.00 GBP
+- [Beats Studio Pro Wireless Headphones - Black](https://iqjersey.com/products/beats-studio-pro-wireless-headphones-black-black): Featuring a fully custom acoustic platform. Personalized spatial audio with dynamic head tracking.3 Fully adaptive Active Noise Cancelling. Transparency mode. Lossless audio.2 Up to 40 hours of battery life1 and enhanced Apple and Android compatibility.4
+  Updated: 2026-10-31T15:18:22Z
+  Vendor: Beats
+  Product Type: Beats Studio Pro
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T110944.963.png?v=1745827792
+  Price: £308.00 GBP
+- [Beats Studio Pro Wireless Headphones - Deep Brown](https://iqjersey.com/products/beats-studio-pro-wireless-headphones-deep-brown-deep-brown): Featuring a fully custom acoustic platform. Personalized spatial audio with dynamic head tracking.3 Fully adaptive Active Noise Cancelling. Transparency mode. Lossless audio.2 Up to 40 hours of battery life1 and enhanced Apple and Android compatibility.4
+  Updated: 2026-07-15T13:40:29Z
+  Vendor: Beats
+  Product Type: Beats Studio Pro
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T110811.391.png?v=1745827696
+  Price: £308.00 GBP
+- [Beats Solo Buds - True Wireless Earbuds - Storm Grey](https://iqjersey.com/products/beats-solo-buds-true-wireless-earbuds-storm-grey-storm-grey): More than a little powerful. Featuring the tiniest case we’ve ever made, these mighty small earbuds are packed with incredibly big sound. Fully custom acoustic architecture Ergonomically angled acoustic nozzles for a natural fit Extended earbud battery life with up to 18 hours of playback¹ Compatible with both iOS and Android, including one-touch pairing² Designed for music first. The cleanly balanced tuning gives you the full range and emotion of all your favorite music with richly detailed clarity and power with accurate bass reproduction. Custom dual-layer drivers. Each earbud is powered by dual-layer transducers designed to minimize micro-distortions across the frequency curve, and purposefully positioned parallel with each acoustic nozzle to deliver sound directly to your ears. Laser-cut venting. Staying true to our music-first approach, the earbuds’ laser-cut vents were engineered to improve bass performance – and they also gently reduce air pressure for added comfort. Four eartip sizes. To optimize comfort and passive noise isolation for diverse ear types and shapes, Beats Solo Buds come with four eartip sizes — large, medium, small and extra-small. Battery all day. These tiny buds have all-day battery life with up to 18 hours of playback.¹ For extra power on the go, they can charge directly from your phone,³ tablet or laptop. And with Fast Fuel, a 5-minute charge gives up to 1 hour of playback.⁴ iOS and Android friendly. Beats Solo Buds are ready to pair with your Apple or Android device right out of the box. This native compatibility means seamless one-touch pairing, automatic pre-pairing across your devices, plus Find My or Find My Device, for everybody.² Crystal-clear calls Each earbud is equipped with a custom-designed microphone powered by an advanced noise-learning algorithm to help deliver exceptional call quality. Enjoy extended range with fewer dropouts thanks to industry-leading Class 1 Bluetooth®.
+  Updated: 2026-11-13T12:25:31Z
+  Vendor: Beats
+  Product Type: Beats Solo Buds
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T110655.687.png?v=1745827619
+  Price: £71.00 GBP
+- [Beats Solo Buds - True Wireless Earbuds - Transparent Red](https://iqjersey.com/products/beats-solo-buds-true-wireless-earbuds-transparent-red-transparent-red): More than a little powerful. Featuring the tiniest case we’ve ever made, these mighty small earbuds are packed with incredibly big sound. Fully custom acoustic architecture Ergonomically angled acoustic nozzles for a natural fit Extended earbud battery life with up to 18 hours of playback¹ Compatible with both iOS and Android, including one-touch pairing² Designed for music first. The cleanly balanced tuning gives you the full range and emotion of all your favorite music with richly detailed clarity and power with accurate bass reproduction. Custom dual-layer drivers. Each earbud is powered by dual-layer transducers designed to minimize micro-distortions across the frequency curve, and purposefully positioned parallel with each acoustic nozzle to deliver sound directly to your ears. Laser-cut venting. Staying true to our music-first approach, the earbuds’ laser-cut vents were engineered to improve bass performance – and they also gently reduce air pressure for added comfort. Four eartip sizes. To optimize comfort and passive noise isolation for diverse ear types and shapes, Beats Solo Buds come with four eartip sizes — large, medium, small and extra-small. Battery all day. These tiny buds have all-day battery life with up to 18 hours of playback.¹ For extra power on the go, they can charge directly from your phone,³ tablet or laptop. And with Fast Fuel, a 5-minute charge gives up to 1 hour of playback.⁴ iOS and Android friendly. Beats Solo Buds are ready to pair with your Apple or Android device right out of the box. This native compatibility means seamless one-touch pairing, automatic pre-pairing across your devices, plus Find My or Find My Device, for everybody.² Crystal-clear calls Each earbud is equipped with a custom-designed microphone powered by an advanced noise-learning algorithm to help deliver exceptional call quality. Enjoy extended range with fewer dropouts thanks to industry-leading Class 1 Bluetooth®.
+  Updated: 2026-10-09T13:51:38Z
+  Vendor: Beats
+  Product Type: Beats Solo Buds
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T110610.849.png?v=1745827574
+  Price: £71.00 GBP
+- [Beats Solo4 Wireless Headphones - On-Ear Wireless Headphones - Matte Black](https://iqjersey.com/products/beats-solo4-wireless-headphones-on-ear-wireless-headphones-matte-black-matte-black): The classic. Made new. The original go-to headphones for active music lovers are back — and better than ever. Spatial Audio with Dynamic Head Tracking¹ Lossless audio via USB-C or 3.5 mm audio cable² Up to 50 hours of Battery Life³ Compatible with iOS and Android Re-engineered for incredible sound. Upgraded drivers. Rebalanced acoustics. Improved frequency response. Custom-built 40 mm transducers minimize electronic artifacts, latency, and distortion for extraordinary clarity and range. Like being surrounded by 64 speakers at once. Personalized Spatial Audio with dynamic head tracking uses built-in gyroscopes and accelerometers to surround you with sound as you move, creating a truly immersive listening experience.¹ Powerful sound. Ultralight fit. The ergonomic design was developed with comfort in mind, starting with how light they are — at just 217 grams, you can almost forget you’re wearing them. Softer than soft. The UltraPlush ear cushions are designed for durability and a soft, light touch for all-day comfort. Fits great to sound great. The carefully balanced flex-grip headband, customizable sliders and ergonomically angled ear cups ensure that Beats Solo 4 is comfortable and stays put to deliver sound optimally to your ears. Up to 50 hours of battery life. That’s right — up to 50 hours of battery power.³ That’s a lot of reps. Or flights. Or calls.If you’re low on power, Fast Fuel means charging for just 10 minutes gives up to 5 hours of playback.⁴ No battery? No problem. Listening via the 3.5 mm audio cable doesn’t require any battery power at all — meaning you can enjoy truly endless playback without ever needing to charge. Lossless audio. Designed with a built-in Digital Analog Converter (DAC), Beats Solo 4 can deliver lossless audio.² Plug in via USB-C or 3.5 mm audio cable when you want to experience more richly detailed texture in your music. Apple or Android? Yes. Whether you’re on iOS or Android, you can enjoy the same seamless compatibility.⁵One touch pairing.Automatic pre-pairing across your devices.Find My and Find My Device.Audio sharing⁶Hey Siri⁷ Leveling up the iconic style. Beats Solo 4 comes in new premium colors and finishes, including brushed steel hinges. Style that travels well. With a compact foldable design and soft protective case, Beats Solo 4 is built to go everywhere you do. Exceptional call quality. Beats Solo 4 has multiple digital beam-forming microphones powered by an advanced voice-learning algorithm for environmental noise suppression. The algorithm was tested in over 7,000 hours of noisy environments to be better able to isolate your voice.
+  Updated: 2026-10-26T14:22:58Z
+  Vendor: Beats
+  Product Type: Beats Solo4 Wireless
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T110503.250.png?v=1745827507
+  Price: £177.00 GBP
+- [Beats Solo4 Wireless Headphones - On-Ear Wireless Headphones - Cloud Pink](https://iqjersey.com/products/beats-solo4-wireless-headphones-on-ear-wireless-headphones-cloud): The classic. Made new. The original go-to headphones for active music lovers are back — and better than ever. Spatial Audio with Dynamic Head Tracking¹ Lossless audio via USB-C or 3.5 mm audio cable² Up to 50 hours of Battery Life³ Compatible with iOS and Android Re-engineered for incredible sound. Upgraded drivers. Rebalanced acoustics. Improved frequency response. Custom-built 40 mm transducers minimize electronic artifacts, latency, and distortion for extraordinary clarity and range. Like being surrounded by 64 speakers at once. Personalized Spatial Audio with dynamic head tracking uses built-in gyroscopes and accelerometers to surround you with sound as you move, creating a truly immersive listening experience.¹ Powerful sound. Ultralight fit. The ergonomic design was developed with comfort in mind, starting with how light they are — at just 217 grams, you can almost forget you’re wearing them. Softer than soft. The UltraPlush ear cushions are designed for durability and a soft, light touch for all-day comfort. Fits great to sound great. The carefully balanced flex-grip headband, customizable sliders and ergonomically angled ear cups ensure that Beats Solo 4 is comfortable and stays put to deliver sound optimally to your ears. Up to 50 hours of battery life. That’s right — up to 50 hours of battery power.³ That’s a lot of reps. Or flights. Or calls.If you’re low on power, Fast Fuel means charging for just 10 minutes gives up to 5 hours of playback.⁴ No battery? No problem. Listening via the 3.5 mm audio cable doesn’t require any battery power at all — meaning you can enjoy truly endless playback without ever needing to charge. Lossless audio. Designed with a built-in Digital Analog Converter (DAC), Beats Solo 4 can deliver lossless audio.² Plug in via USB-C or 3.5 mm audio cable when you want to experience more richly detailed texture in your music. Apple or Android? Yes. Whether you’re on iOS or Android, you can enjoy the same seamless compatibility.⁵One touch pairing.Automatic pre-pairing across your devices.Find My and Find My Device.Audio sharing⁶Hey Siri⁷ Leveling up the iconic style. Beats Solo 4 comes in new premium colors and finishes, including brushed steel hinges. Style that travels well. With a compact foldable design and soft protective case, Beats Solo 4 is built to go everywhere you do. Exceptional call quality. Beats Solo 4 has multiple digital beam-forming microphones powered by an advanced voice-learning algorithm for environmental noise suppression. The algorithm was tested in over 7,000 hours of noisy environments to be better able to isolate your voice.
+  Updated: 2026-10-09T13:52:28Z
+  Vendor: Beats
+  Product Type: Beats Solo4 Wireless
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T110438.547.png?v=1745827482
+  Price: £177.00 GBP
+- [Beats Solo4 Wireless Headphones - On-Ear Wireless Headphones - Slate Blue](https://iqjersey.com/products/beats-solo4-wireless-headphones-on-ear-wireless-headphones-slate-blue): The classic. Made new. The original go-to headphones for active music lovers are back — and better than ever. Spatial Audio with Dynamic Head Tracking¹ Lossless audio via USB-C or 3.5 mm audio cable² Up to 50 hours of Battery Life³ Compatible with iOS and Android Re-engineered for incredible sound. Upgraded drivers. Rebalanced acoustics. Improved frequency response. Custom-built 40 mm transducers minimize electronic artifacts, latency, and distortion for extraordinary clarity and range. Like being surrounded by 64 speakers at once. Personalized Spatial Audio with dynamic head tracking uses built-in gyroscopes and accelerometers to surround you with sound as you move, creating a truly immersive listening experience.¹ Powerful sound. Ultralight fit. The ergonomic design was developed with comfort in mind, starting with how light they are — at just 217 grams, you can almost forget you’re wearing them. Softer than soft. The UltraPlush ear cushions are designed for durability and a soft, light touch for all-day comfort. Fits great to sound great. The carefully balanced flex-grip headband, customizable sliders and ergonomically angled ear cups ensure that Beats Solo 4 is comfortable and stays put to deliver sound optimally to your ears. Up to 50 hours of battery life. That’s right — up to 50 hours of battery power.³ That’s a lot of reps. Or flights. Or calls.If you’re low on power, Fast Fuel means charging for just 10 minutes gives up to 5 hours of playback.⁴ No battery? No problem. Listening via the 3.5 mm audio cable doesn’t require any battery power at all — meaning you can enjoy truly endless playback without ever needing to charge. Lossless audio. Designed with a built-in Digital Analog Converter (DAC), Beats Solo 4 can deliver lossless audio.² Plug in via USB-C or 3.5 mm audio cable when you want to experience more richly detailed texture in your music. Apple or Android? Yes. Whether you’re on iOS or Android, you can enjoy the same seamless compatibility.⁵One touch pairing.Automatic pre-pairing across your devices.Find My and Find My Device.Audio sharing⁶Hey Siri⁷ Leveling up the iconic style. Beats Solo 4 comes in new premium colors and finishes, including brushed steel hinges. Style that travels well. With a compact foldable design and soft protective case, Beats Solo 4 is built to go everywhere you do. Exceptional call quality. Beats Solo 4 has multiple digital beam-forming microphones powered by an advanced voice-learning algorithm for environmental noise suppression. The algorithm was tested in over 7,000 hours of noisy environments to be better able to isolate your voice.
+  Updated: 2026-04-16T12:57:10Z
+  Vendor: Beats
+  Product Type: Beats Solo4 Wireless
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T110403.856.png?v=1745827447
+  Price: £177.00 GBP
+- [Beats Flex – All-Day Wireless Earphones - Smoke Gray](https://iqjersey.com/products/beats-flex-all-day-wireless-earphones-smoke-gray): Flex all day In your ears or around your neck, Beats Flex are as versatile as the life you lead. Whether you’re listening to music, taking calls, or scrolling your social feed, you’ll always be ready for what’s next. Magnetic earbuds make listening that much easier by automatically playing music when they’re in your ears and pausing when they’re attached around your neck¹. The Flex-Form cable provides all-day comfort with durable Nitinol construction while four eartip options offer a personalized fit. And when you’re not wearing them, the magnetic earbuds keep Beats Flex tangle-free as they easily coil up into your pocket or purse. The music stops when you do Less charging. More flexing. Beats Flex boasts up to 12 hours of listening time for all-day use. If you need a little extra power, 10-minute Fast Fuel charging gives 1.5 hours of playback when battery is low.² Driven by premium sound Beats Flex employs a dual-chamber acoustic design and a proprietary layered driver to achieve outstanding stereo separation with rich and precise bass response. Laser cut micro-venting provides ear pressure relief, and the optimized driver angle ensures clear, crisp sound. An advanced digital processor fine-tunes your audio for an accurate and emotive listening experience. The result — rich, powerful sound that keeps you inspired all day long. Make the connection Stay connected no matter where your day takes you. With Class 1 Bluetooth® technology, Beats Flex offers extended wireless range and fewer dropouts. An advanced built-in microphone helps reduce wind noise for elevated voice clarity and call performance. On-device controls allow you to adjust volume as well as manage music, take calls, or activate voice assistant. Powered by the Apple W1 chip The Apple W1 chip seamlessly integrates Beats Flex into your world of Apple products. Simply power on and hold near your iPhone or iPad.³ From there, your Beats Flex are ready to be used with any Apple device that is synced to iCloud so you can seamlessly switch between products, check battery status, or share whatever you’re listening to with someone else via Audio Sharing. Listen with a friend Audio Sharing lets you wirelessly share audio with Beats Flex and another pair of Beats headphones or AirPods.⁴ From a song, to a podcast, or even a movie—some things are better together. Now you can easily share whatever you’re listening to on an iPhone, iPad, or Apple TV and each control your own volume. Simply bring the second set of compatible Bluetooth headphones near your Apple device and connect with a tap. All that’s left to do is listen—together. Find your headphones Need help finding your Beats Flex? When they’re nearby one of your Apple devices, use Find My5 to play a sound to locate them or see your headphones on a map. If your Beats Flex are lost or missing, the Find My app can still help you track them down using the vast and global Find My network, made up of hundreds of millions of Apple devices. Devices in the Find My network use secure Bluetooth technology to detect your devices nearby and report their approximate location back to you, so you can find them.
+  Updated: 2026-11-13T10:50:02Z
+  Vendor: Beats
+  Product Type: Beats Flex
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_24.jpg?v=1748600395
+  Price: £65.00 GBP
+- [Beats Flex – All-Day Wireless Earphones - Flame Blue](https://iqjersey.com/products/beats-flex-all-day-wireless-earphones-flame-blue): Flex all day In your ears or around your neck, Beats Flex are as versatile as the life you lead. Whether you’re listening to music, taking calls, or scrolling your social feed, you’ll always be ready for what’s next. Magnetic earbuds make listening that much easier by automatically playing music when they’re in your ears and pausing when they’re attached around your neck¹. The Flex-Form cable provides all-day comfort with durable Nitinol construction while four eartip options offer a personalized fit. And when you’re not wearing them, the magnetic earbuds keep Beats Flex tangle-free as they easily coil up into your pocket or purse. The music stops when you do Less charging. More flexing. Beats Flex boasts up to 12 hours of listening time for all-day use. If you need a little extra power, 10-minute Fast Fuel charging gives 1.5 hours of playback when battery is low.² Driven by premium sound Beats Flex employs a dual-chamber acoustic design and a proprietary layered driver to achieve outstanding stereo separation with rich and precise bass response. Laser cut micro-venting provides ear pressure relief, and the optimized driver angle ensures clear, crisp sound. An advanced digital processor fine-tunes your audio for an accurate and emotive listening experience. The result — rich, powerful sound that keeps you inspired all day long. Make the connection Stay connected no matter where your day takes you. With Class 1 Bluetooth® technology, Beats Flex offers extended wireless range and fewer dropouts. An advanced built-in microphone helps reduce wind noise for elevated voice clarity and call performance. On-device controls allow you to adjust volume as well as manage music, take calls, or activate voice assistant. Powered by the Apple W1 chip The Apple W1 chip seamlessly integrates Beats Flex into your world of Apple products. Simply power on and hold near your iPhone or iPad.³ From there, your Beats Flex are ready to be used with any Apple device that is synced to iCloud so you can seamlessly switch between products, check battery status, or share whatever you’re listening to with someone else via Audio Sharing. Listen with a friend Audio Sharing lets you wirelessly share audio with Beats Flex and another pair of Beats headphones or AirPods.⁴ From a song, to a podcast, or even a movie—some things are better together. Now you can easily share whatever you’re listening to on an iPhone, iPad, or Apple TV and each control your own volume. Simply bring the second set of compatible Bluetooth headphones near your Apple device and connect with a tap. All that’s left to do is listen—together. Find your headphones Need help finding your Beats Flex? When they’re nearby one of your Apple devices, use Find My5 to play a sound to locate them or see your headphones on a map. If your Beats Flex are lost or missing, the Find My app can still help you track them down using the vast and global Find My network, made up of hundreds of millions of Apple devices. Devices in the Find My network use secure Bluetooth technology to detect your devices nearby and report their approximate location back to you, so you can find them.
+  Updated: 2026-10-19T13:38:49Z
+  Vendor: Beats
+  Product Type: Beats Flex
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_6.jpg?v=1748600353
+  Price: £65.00 GBP
+- [Apple Mini DisplayPort to Dual-Link DVI Adapter](https://iqjersey.com/products/apple-mini-displayport-to-dual-link-dvi-adapter): The Apple Mini DisplayPort to Dual-Link DVI Adapter connects a Mac that has a Mini DisplayPortNo alt supplied for Image, Thunderbolt portNo alt supplied for Image, or Thunderbolt 2 portNo alt supplied for Image to a display that uses a dual-link DVI cable. This adapter supports display resolutions up to 2560 x 1600. To use it with a dual-link DVI display such as the 30-inch Apple Cinema HD Display, connect the USB cable from the display to the USB-A portNo alt supplied for Image on the adapter, then connect the USB-A cable on the adapter to the USB-A port on your Mac.
+  Updated: 2026-03-07T16:18:03Z
+  Vendor: Apple
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/opt_8ac8-u00_00_wcom-3489947536.webp?v=1748845697
+  Price: £85.00 GBP
+- [iPad Air 13 (M3/M2)  Origami No1 Original Case - Metallic Purple](https://iqjersey.com/products/ipad-air-13-m3-m2-origami-no1-original-case-metallic-purple-metallic-purple): If you're the sort of person who wants a slim iPad case and doesn't want to compromise on protection or functionality, our Original Origami Case is for you. Designed to offer the best of both worlds, our Original Origami No1 iPad case is made from a flexible and shock-absorbent TPU shell and designed with internal air pockets that allow the case to offer up to 1.1m/3.6ft drop protection. It also has our versatile 5-in-1 folding Origami cover that you won’t want to live without. It allows you to easily fold the front cover and position the iPad into: a portrait position (perfect for reading and video calls) a landscape viewing position (same as Apple's Smart cover) a landscape 'soft surface' position (perfect for watching Netflix in bed or on soft/unstable surfaces) a landscape 'keep clean' or travel position (perfect for general or messy surfaces that you want to minimise contact with) an ergonomic 'lay flat' position (perfect for typing, gaming, or drawing) The cover itself is made from a soft PU material (similar to Apple's Smart Cover) with a luxurious genuine microfibre lining to protect your screen against dirt and spills. As iPad users and lovers ourselves, we know the details matter. So we have also designed the case with a clear polycarbonate back, to keep it lightweight and allow you to personalise your iPad. We've also added a discrete Apple Pencil groove to the side, allowing your Apple Pencil to sync & charge through the case and an auto sleep-wake feature to extend your battery life, giving you up to 20% longer use between charges.
+  Updated: 2026-11-12T19:03:37Z
+  Vendor: Pipetto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/p052-126-ad-5-40275566.jpg?v=1750667306
+  Price: £44.00 GBP
+- [Belkin Tempered Glass for iPad 7th/8th/9th Gen.](https://iqjersey.com/products/belkin-tempered-glass-for-ipad-7th-8th-9th-gen): Keep your iPad screen as pristine and protected as the day you got it. Engineered to be stronger than regular glass, TemperedGlass provides resilient, hard-wearing protection.
+  Updated: 2026-04-04T10:20:29Z
+  Vendor: Belkin
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_36.jpg?v=1748845274
+  Price: £32.00 GBP
+- [iPad Air 13 (M3/M2) Origami No3 Pencil Case - Metallic Purple - Metallic Purple](https://iqjersey.com/products/ipad-air-13-m3-m2-origami-no3-pencil-case-metallic-purple-metallic-purple): If you're the sort of person who wants a slim iPad case and doesn't want to compromise on protection or functionality, our Original Origami Case is for you. Designed to offer the best of both worlds, the Original Origami No1 iPad case is made from a flexible and shock-absorbent TPU shell and designed with internal air pockets that allow the case to offer up to 1.1m/3.6ft drop protection. It also has the versatile 5-in-1 folding Origami cover that you won’t want to live without, that allows you to easily fold the front cover and position the iPad into: A portrait position (perfect for reading and video calls) A landscape viewing position (same as Apple's Smart cover) A landscape 'soft surface' position (perfect for watching Netflix in bed or on soft/unstable surfaces) A landscape 'keep clean' or travel position (perfect for general or messy surfaces that you want to minimise contact with) An ergonomic 'lay flat' position (perfect for typing, gaming, or drawing) The cover itself is made from a soft PU material (similar to Apple's Smart Cover) with a luxurious genuine microfibre lining to protect your screen against dirt and spills. As iPad users and lovers ourselves, we know the details matter. So we have also designed the case with a clear polycarbonate back, to keep it lightweight and allow you to personalise your iPad. We've also added a discrete Apple Pencil groove to the side, allowing your Apple Pencil to sync & charge through the case and an auto sleep wake feature to extend your battery life, giving you up to 20% longer use between charges.
+  Updated: 2026-10-12T14:19:12Z
+  Vendor: Pipetto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/aeef71be07f5ae545fc834c8530b33ec5d5ac80a_643718-3285677108.jpg?v=1748942977
+  Price: £44.00 GBP
+[List Continued](https://iqjersey.com/a/llms-agent/llms.txt?shop=iq-jersey.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NTAwODU2OTE0MDk4LCJsYXN0X3ZhbHVlIjoiODUwMDg1NjkxNDA5OCJ9)
 
 ## Collections
 
@@ -1725,7 +1816,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-05-20T11:45:34Z
   Total Products: 0
 - [MacBook Pro](https://iqjersey.com/collections/macbook-pro)
-  Updated: 2026-11-05T22:42:54Z
+  Updated: 2026-11-09T06:56:11Z
   Total Products: 10
 - [Electronics > Communications > Telephony > Mobile & Smart Phones](https://iqjersey.com/collections/electronics-communications-telephony-mobile-smart-phones)
   Updated: 2025-04-28T14:15:58Z
@@ -1755,7 +1846,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-05-20T11:46:33Z
   Total Products: 0
 - [apl_ps_iPhone 15](https://iqjersey.com/collections/apl-ps-iphone-15)
-  Updated: 2026-10-12T08:02:13Z
+  Updated: 2026-11-09T10:04:00Z
   Total Products: 30
 - [apl_ps_AirPods 4 with Active Noise Cancellation](https://iqjersey.com/collections/apl-ps-airpods-4-with-active-noise-cancellation)
   Updated: 2026-11-06T07:33:07Z
@@ -1779,7 +1870,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-09-30T15:11:02Z
   Total Products: 1
 - [apl_ps_11-inch iPad Pro M4](https://iqjersey.com/collections/apl-ps-11-inch-ipad-pro-m4)
-  Updated: 2026-08-26T11:15:51Z
+  Updated: 2026-11-09T10:03:48Z
   Total Products: 24
 - [apl_ps_2024 Apple Watch SE Sport Loop 2nd generation](https://iqjersey.com/collections/apl-ps-2024-apple-watch-se-sport-loop-2nd-generation)
   Updated: 2026-07-07T14:50:27Z
@@ -1788,16 +1879,16 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-06-04T00:30:10Z
   Total Products: 1
 - [apl_ps_13-inch iPad Pro M4](https://iqjersey.com/collections/apl-ps-13-inch-ipad-pro-m4)
-  Updated: 2026-11-05T13:36:15Z
+  Updated: 2026-11-09T10:04:01Z
   Total Products: 24
 - [apl_ps_iPhone 14](https://iqjersey.com/collections/apl-ps-iphone-14)
-  Updated: 2026-06-04T00:30:03Z
+  Updated: 2026-11-09T09:47:18Z
   Total Products: 20
 - [apl_ps_iPhone 15 Pro Silicone Case with MagSafe](https://iqjersey.com/collections/apl-ps-iphone-15-pro-silicone-case-with-magsafe)
   Updated: 2025-05-27T06:11:03Z
   Total Products: 0
 - [apl_ps_iPad mini A17 Pro](https://iqjersey.com/collections/apl-ps-ipad-mini-a17-pro)
-  Updated: 2026-11-05T10:40:56Z
+  Updated: 2026-11-09T10:03:51Z
   Total Products: 24
 - [apl_ps_2023 Apple Watch Modern Buckle](https://iqjersey.com/collections/apl-ps-2023-apple-watch-modern-buckle)
   Updated: 2025-05-20T11:46:32Z
@@ -1812,7 +1903,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-09-22T09:18:51Z
   Total Products: 0
 - [apl_ps_Apple Watch Series 10 Sport Band](https://iqjersey.com/collections/apl-ps-apple-watch-series-10-sport-band)
-  Updated: 2026-10-20T11:15:42Z
+  Updated: 2026-11-09T10:03:41Z
   Total Products: 12
 - [apl_ps_iPhone 16 Pro Clear Case with MagSafe](https://iqjersey.com/collections/apl-ps-iphone-16-pro-clear-case-with-magsafe)
   Updated: 2026-06-04T00:30:03Z
@@ -1824,7 +1915,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-05-27T06:11:53Z
   Total Products: 0
 - [apl_ps_iPhone 16](https://iqjersey.com/collections/apl_ps_iphone-16)
-  Updated: 2026-10-23T11:17:48Z
+  Updated: 2026-11-12T10:30:09Z
   Total Products: 30
 - [apl_ps_iPhone 15 Pro Max Silicone Case with MagSafe](https://iqjersey.com/collections/apl-ps-iphone-15-pro-max-silicone-case-with-magsafe)
   Updated: 2025-05-20T11:46:19Z
@@ -1845,10 +1936,10 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-05-27T06:11:56Z
   Total Products: 0
 - [apl_ps_2024 Apple Watch SE Sport Band 2nd generation](https://iqjersey.com/collections/apl-ps-2024-apple-watch-se-sport-band-2nd-generation)
-  Updated: 2026-07-07T14:50:26Z
+  Updated: 2026-11-09T10:03:56Z
   Total Products: 12
 - [apl_ps_2024 Apple Watch Nike Sport Loop](https://iqjersey.com/collections/apl_ps_2024-apple-watch-nike-sport-loop)
-  Updated: 2026-06-04T00:30:28Z
+  Updated: 2026-11-12T10:30:03Z
   Total Products: 15
 - [apl_ps_2024 Apple Watch Magnetic Link](https://iqjersey.com/collections/apl-ps-2024-apple-watch-magnetic-link)
   Updated: 2025-05-27T06:12:21Z
@@ -1857,7 +1948,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-05-27T06:12:12Z
   Total Products: 0
 - [apl_ps_Apple Watch Series 10 Sport Loop](https://iqjersey.com/collections/apl-ps-apple-watch-series-10-sport-loop)
-  Updated: 2026-07-07T14:50:25Z
+  Updated: 2026-11-09T10:03:33Z
   Total Products: 6
 - [apl_ps_iPhone 15 Pro Max Clear Case with MagSafe](https://iqjersey.com/collections/apl-ps-iphone-15-pro-max-clear-case-with-magsafe)
   Updated: 2025-05-20T11:45:54Z
@@ -1866,7 +1957,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-06-04T00:30:15Z
   Total Products: 24
 - [apl_ps_13-inch iPad Air M2](https://iqjersey.com/collections/apl-ps-13-inch-ipad-air-m2)
-  Updated: 2026-07-07T14:50:26Z
+  Updated: 2026-11-12T10:30:08Z
   Total Products: 16
 - [apl_ps_iPhone 15 Clear Case with MagSafe](https://iqjersey.com/collections/apl-ps-iphone-15-clear-case-with-magsafe)
   Updated: 2025-05-27T06:12:03Z
@@ -1875,7 +1966,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-05-27T06:12:29Z
   Total Products: 0
 - [apl_ps_iPhone 16 Silicone Case with MagSafe](https://iqjersey.com/collections/apl-ps-iphone-16-silicone-case-with-magsafe)
-  Updated: 2026-07-08T09:18:25Z
+  Updated: 2026-11-12T10:30:09Z
   Total Products: 10
 - [apl_ps_Lightning Digital AV Adapter](https://iqjersey.com/collections/apl-ps-lightning-digital-av-adapter)
   Updated: 2025-05-20T11:45:57Z
@@ -1920,22 +2011,22 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-06-04T00:30:17Z
   Total Products: 1
 - [apl_ps_11-inch iPad Air M2](https://iqjersey.com/collections/apl-ps-11-inch-ipad-air-m2)
-  Updated: 2026-07-16T14:03:41Z
+  Updated: 2026-11-09T10:04:00Z
   Total Products: 11
 - [apl_ps_2022 Siri Remote - 2022](https://iqjersey.com/collections/apl-ps-2022-siri-remote-2022)
   Updated: 2025-05-27T06:11:15Z
   Total Products: 0
 - [apl_ps_iPhone 16 Plus Silicone Case with MagSafe](https://iqjersey.com/collections/apl-ps-iphone-16-plus-silicone-case-with-magsafe)
-  Updated: 2026-09-15T11:09:02Z
+  Updated: 2026-11-09T10:03:55Z
   Total Products: 10
 - [apl_ps_iPhone 16 Pro Silicone Case with MagSafe](https://iqjersey.com/collections/apl-ps-iphone-16-pro-silicone-case-with-magsafe)
-  Updated: 2026-06-04T00:30:18Z
+  Updated: 2026-11-12T10:30:10Z
   Total Products: 11
 - [apl_ps_2024 Apple Watch Nike Sport Band](https://iqjersey.com/collections/apl-ps-2024-apple-watch-nike-sport-band)
   Updated: 2025-05-27T06:12:21Z
   Total Products: 0
 - [apl_ps_2024 Apple Watch Milanese Loop](https://iqjersey.com/collections/apl-ps-2024-apple-watch-milanese-loop)
-  Updated: 2026-10-29T13:21:50Z
+  Updated: 2026-11-12T10:30:13Z
   Total Products: 15
 - [apl_ps_2024 Apple Watch Ocean Band Extension](https://iqjersey.com/collections/apl-ps-2024-apple-watch-ocean-band-extension)
   Updated: 2025-05-27T06:12:21Z
@@ -1944,7 +2035,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-11-03T12:13:35Z
   Total Products: 1
 - [apl_ps_AirPods Max](https://iqjersey.com/collections/apl-ps-airpods-max)
-  Updated: 2026-09-22T09:22:59Z
+  Updated: 2026-11-09T10:03:53Z
   Total Products: 5
 - [apl_ps_2022 10.9-inch iPad 10th generation](https://iqjersey.com/collections/apl-ps-2022-10-9-inch-ipad-10th-generation)
   Updated: 2026-07-07T14:50:26Z
@@ -1968,31 +2059,31 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-07-03T13:12:11Z
   Total Products: 1
 - [apl_ps_iPhone FineWoven Wallet with MagSafe](https://iqjersey.com/collections/apl-ps-iphone-finewoven-wallet-with-magsafe)
-  Updated: 2026-09-17T17:39:11Z
+  Updated: 2026-11-09T10:02:41Z
   Total Products: 15
 - [apl_ps_2024 Apple Watch Modern Buckle](https://iqjersey.com/collections/apl-ps-2024-apple-watch-modern-buckle)
   Updated: 2025-05-27T06:11:55Z
   Total Products: 0
 - [apl_ps_iPhone 16e Silicone Case](https://iqjersey.com/collections/apl-ps-iphone-16e-silicone-case)
-  Updated: 2026-06-26T11:56:57Z
+  Updated: 2026-11-09T10:03:30Z
   Total Products: 6
 - [apl_ps_iPhone 16e](https://iqjersey.com/collections/apl-ps-iphone-16e)
-  Updated: 2026-09-22T09:01:23Z
+  Updated: 2026-11-09T10:03:30Z
   Total Products: 6
 - [trade in variety](https://iqjersey.com/collections/trade-in-variety)
-  Updated: 2026-10-12T13:01:31Z
+  Updated: 2026-11-09T10:02:42Z
   Total Products: 7
 - [apl_ps_Magic Keyboard for iPad Air 11‑inch (M3)](https://iqjersey.com/collections/apl-ps-magic-keyboard-for-ipad-air-11-inch-m3)
   Updated: 2026-06-04T00:39:32Z
   Total Products: 19
 - [apl_ps_11-inch iPad Air M3](https://iqjersey.com/collections/apl-ps-11-inch-ipad-air-m3)
-  Updated: 2026-08-19T14:20:07Z
+  Updated: 2026-11-09T10:03:28Z
   Total Products: 32
 - [apl_ps_2025 iPad A16](https://iqjersey.com/collections/apl-ps-2025-ipad-a16)
-  Updated: 2026-11-05T12:17:03Z
+  Updated: 2026-11-13T12:15:40Z
   Total Products: 24
 - [apl_ps_Magic Keyboard for iPad Air 13‑inch (M3)](https://iqjersey.com/collections/apl-ps-magic-keyboard-for-ipad-air-13-inch-m3)
-  Updated: 2026-09-08T11:17:11Z
+  Updated: 2026-11-08T12:13:49Z
   Total Products: 20
 - [apl_ps_VESA Mount Adapter](https://iqjersey.com/collections/apl-ps-vesa-mount-adapter)
   Updated: 2025-04-28T14:15:55Z
@@ -2001,25 +2092,25 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-06-04T00:39:46Z
   Total Products: 23
 - [apl_ps_13-inch iPad Air M3](https://iqjersey.com/collections/apl-ps-13-inch-ipad-air-m3)
-  Updated: 2026-08-19T14:22:56Z
+  Updated: 2026-11-09T10:03:25Z
   Total Products: 33
 - [apl_ps_Smart Folio for iPad (A16)](https://iqjersey.com/collections/apl-ps-smart-folio-for-ipad-a16)
   Updated: 2026-08-22T11:13:47Z
   Total Products: 4
 - [apl_ps_2025 Apple Watch Sport Band](https://iqjersey.com/collections/apl-ps-2025-apple-watch-sport-band)
-  Updated: 2026-09-08T11:17:11Z
+  Updated: 2026-11-09T10:03:26Z
   Total Products: 36
 - [apl_ps_USB-C to 3.5 mm Audio Cable (1.2 m)](https://iqjersey.com/collections/apl-ps-usb-c-to-3-5-mm-audio-cable-1-2-m)
   Updated: 2025-05-20T11:46:34Z
   Total Products: 0
 - [Belkin Boost](https://iqjersey.com/collections/belkin-boost)
-  Updated: 2026-10-01T11:03:17Z
+  Updated: 2026-11-12T10:30:02Z
   Total Products: 2
 - [Offers](https://iqjersey.com/collections/offers)
-  Updated: 2026-11-05T16:23:07Z
-  Total Products: 52
+  Updated: 2026-11-11T12:15:13Z
+  Total Products: 19
 - [Quick Checkout](https://iqjersey.com/collections/quick-checkout)
-  Updated: 2026-10-15T11:19:02Z
+  Updated: 2026-11-11T09:56:18Z
   Total Products: 9
 - [apl_ps_13-inch MacBook Air M2](https://iqjersey.com/collections/apl_ps_13-inch-macbook-air-m2)
   Updated: 2026-06-04T00:49:49Z
@@ -2028,13 +2119,13 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-11-01T12:13:45Z
   Total Products: 12
 - [apl_ps_13-inch MacBook Pro](https://iqjersey.com/collections/apl_ps_13-inch-macbook-pro)
-  Updated: 2026-06-08T14:51:44Z
+  Updated: 2026-11-12T10:30:21Z
   Total Products: 3
 - [apl_ps_14-inch MacBook Pro](https://iqjersey.com/collections/apl_ps_14-inch-macbook-pro)
   Updated: 2026-09-22T08:37:59Z
   Total Products: 0
 - [apl_ps_14-inch MacBook Pro M3](https://iqjersey.com/collections/apl_ps_14-inch-macbook-pro-m3)
-  Updated: 2026-06-04T00:49:57Z
+  Updated: 2026-11-09T09:47:28Z
   Total Products: 1
 - [apl_ps_14-inch MacBook Pro M3 Max](https://iqjersey.com/collections/apl_ps_14-inch-macbook-pro-m3-max)
   Updated: 2026-10-12T08:14:43Z
@@ -2046,16 +2137,16 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-10-21T11:16:34Z
   Total Products: 5
 - [apl_ps_14-inch MacBook Pro M4 Max](https://iqjersey.com/collections/apl_ps_14-inch-macbook-pro-m4-max)
-  Updated: 2026-07-13T09:59:07Z
+  Updated: 2026-11-12T10:30:15Z
   Total Products: 2
 - [apl_ps_14-inch MacBook Pro M4 Pro](https://iqjersey.com/collections/apl_ps_14-inch-macbook-pro-m4-pro)
-  Updated: 2026-10-27T11:16:27Z
+  Updated: 2026-11-12T10:30:15Z
   Total Products: 4
 - [apl_ps_140W USB-C Power Adapter](https://iqjersey.com/collections/apl_ps_140w-usb-c-power-adapter)
   Updated: 2026-10-28T18:57:05Z
   Total Products: 2
 - [apl_ps_15-inch MacBook Air M3](https://iqjersey.com/collections/apl_ps_15-inch-macbook-air-m3)
-  Updated: 2026-06-04T00:49:57Z
+  Updated: 2026-11-12T10:30:23Z
   Total Products: 4
 - [apl_ps_15-inch MacBook Air M4](https://iqjersey.com/collections/apl_ps_15-inch-macbook-air-m4)
   Updated: 2026-11-05T12:17:03Z
@@ -2064,13 +2155,13 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-09-22T08:37:58Z
   Total Products: 0
 - [apl_ps_16-inch MacBook Pro M3 Max](https://iqjersey.com/collections/apl_ps_16-inch-macbook-pro-m3-max)
-  Updated: 2026-10-12T08:15:07Z
+  Updated: 2026-11-09T09:47:30Z
   Total Products: 3
 - [apl_ps_16-inch MacBook Pro M3 Pro](https://iqjersey.com/collections/apl_ps_16-inch-macbook-pro-m3-pro)
   Updated: 2026-09-22T08:37:59Z
   Total Products: 0
 - [apl_ps_16-inch MacBook Pro M4 Max](https://iqjersey.com/collections/apl_ps_16-inch-macbook-pro-m4-max)
-  Updated: 2026-07-07T14:35:09Z
+  Updated: 2026-11-11T20:26:50Z
   Total Products: 4
 - [apl_ps_16-inch MacBook Pro M4 Pro](https://iqjersey.com/collections/apl_ps_16-inch-macbook-pro-m4-pro)
   Updated: 2026-10-13T11:17:58Z
@@ -2091,10 +2182,10 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-04-25T11:09:52Z
   Total Products: 0
 - [apl_ps_2022 11-inch iPad Pro 4th generation](https://iqjersey.com/collections/apl_ps_2022-11-inch-ipad-pro-4th-generation)
-  Updated: 2026-06-04T00:49:58Z
+  Updated: 2026-11-09T10:02:55Z
   Total Products: 9
 - [apl_ps_2022 12.9-inch iPad Pro 6th generation](https://iqjersey.com/collections/apl_ps_2022-12-9-inch-ipad-pro-6th-generation)
-  Updated: 2026-06-04T00:50:03Z
+  Updated: 2026-11-09T09:47:43Z
   Total Products: 6
 - [apl_ps_2022 49mm Midnight Ocean Band Extension](https://iqjersey.com/collections/apl_ps_2022-49mm-midnight-ocean-band-extension)
   Updated: 2025-04-25T11:09:52Z
@@ -2148,7 +2239,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-04-25T11:09:57Z
   Total Products: 0
 - [apl_ps_2023 Apple Pencil (USB-C)](https://iqjersey.com/collections/apl_ps_2023-apple-pencil-usb-c)
-  Updated: 2026-10-10T11:17:15Z
+  Updated: 2026-11-08T12:13:49Z
   Total Products: 1
 - [apl_ps_2023 Apple Watch SE Sport Band 2nd generation](https://iqjersey.com/collections/apl_ps_2023-apple-watch-se-sport-band-2nd-generation)
   Updated: 2025-04-25T11:09:58Z
@@ -2172,10 +2263,10 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-02-12T14:58:16Z
   Total Products: 0
 - [apl_ps_24-inch iMac with Retina 4.5K display M3](https://iqjersey.com/collections/apl_ps_24-inch-imac-with-retina-4-5k-display-m3)
-  Updated: 2026-06-04T00:49:54Z
+  Updated: 2026-11-09T09:47:31Z
   Total Products: 4
 - [apl_ps_24-inch iMac with Retina 4.5K display M4](https://iqjersey.com/collections/apl_ps_24-inch-imac-with-retina-4-5k-display-m4)
-  Updated: 2026-10-27T15:55:15Z
+  Updated: 2026-11-09T10:03:18Z
   Total Products: 17
 - [apl_ps_240W USB-C Charge Cable (2m)](https://iqjersey.com/collections/apl_ps_240w-usb-c-charge-cable-2m)
   Updated: 2026-10-21T11:16:34Z
@@ -2265,13 +2356,13 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-10-21T13:25:24Z
   Total Products: 2
 - [apl_ps_HomePod mini](https://iqjersey.com/collections/apl_ps_homepod-mini)
-  Updated: 2026-11-05T11:04:17Z
+  Updated: 2026-11-09T09:47:32Z
   Total Products: 5
 - [apl_ps_iPad Air](https://iqjersey.com/collections/apl_ps_ipad-air)
-  Updated: 2026-07-16T14:04:27Z
+  Updated: 2026-11-12T10:30:25Z
   Total Products: 8
 - [apl_ps_iPad mini](https://iqjersey.com/collections/apl_ps_ipad-mini)
-  Updated: 2026-06-04T00:49:56Z
+  Updated: 2026-11-09T10:02:57Z
   Total Products: 6
 - [apl_ps_iPhone 13 Leather Case with MagSafe](https://iqjersey.com/collections/apl_ps_iphone-13-leather-case-with-magsafe)
   Updated: 2025-04-25T11:10:07Z
@@ -2322,7 +2413,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-04-25T11:10:11Z
   Total Products: 0
 - [apl_ps_iPhone 14 Pro](https://iqjersey.com/collections/apl_ps_iphone-14-pro)
-  Updated: 2026-09-09T08:36:59Z
+  Updated: 2026-11-11T10:30:03Z
   Total Products: 7
 - [apl_ps_iPhone 14 Pro Clear Case with MagSafe](https://iqjersey.com/collections/apl_ps_iphone-14-pro-clear-case-with-magsafe)
   Updated: 2025-04-25T11:10:11Z
@@ -2352,7 +2443,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-04-25T11:10:13Z
   Total Products: 0
 - [apl_ps_iPhone 15 Pro](https://iqjersey.com/collections/apl_ps_iphone-15-pro)
-  Updated: 2026-06-04T00:49:59Z
+  Updated: 2026-11-09T10:02:51Z
   Total Products: 14
 - [apl_ps_iPhone 15 Pro Clear Case with MagSafe](https://iqjersey.com/collections/apl_ps_iphone-15-pro-clear-case-with-magsafe)
   Updated: 2025-05-20T11:46:32Z
@@ -2388,7 +2479,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-08-25T14:28:59Z
   Total Products: 1
 - [apl_ps_Mac Studio](https://iqjersey.com/collections/apl_ps_mac-studio)
-  Updated: 2026-09-07T20:34:54Z
+  Updated: 2026-11-11T12:15:13Z
   Total Products: 3
 - [apl_ps_Magic Keyboard (2021)](https://iqjersey.com/collections/apl_ps_magic-keyboard-2021)
   Updated: 2025-04-25T11:10:16Z
@@ -2442,7 +2533,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-08-07T11:16:08Z
   Total Products: 2
 - [apl_ps_MagSafe Charger (1m)](https://iqjersey.com/collections/apl_ps_magsafe-charger-1m)
-  Updated: 2026-06-29T11:32:48Z
+  Updated: 2026-11-12T10:30:23Z
   Total Products: 2
 - [apl_ps_MagSafe Charger (2m)](https://iqjersey.com/collections/apl_ps_magsafe-charger-2m)
   Updated: 2026-10-06T11:17:04Z
@@ -2465,7 +2556,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
 - [View all Music](https://iqjersey.com/pages/view-all-music)
   Updated: 2025-09-09T19:43:47Z
 - [View all TV & Home](https://iqjersey.com/pages/view-all-tv-home)
-  Updated: 2026-10-13T15:46:27Z
+  Updated: 2026-11-10T08:00:14Z
 - [View all Accessories](https://iqjersey.com/pages/view-all-accessories)
   Updated: 2026-09-10T09:20:15Z
 - [Financing](https://iqjersey.com/pages/financing)
@@ -2644,6 +2735,16 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-10-31T19:23:26Z
 - [iPhone 18 Pro B2B](https://iqjersey.com/pages/iphone-18-pro-b2b)
   Updated: 2026-11-06T14:46:43Z
+- [iPhone Duo B2B](https://iqjersey.com/pages/iphone-duo-b2b)
+  Updated: 2026-11-09T06:49:10Z
+- [MacBook Pro M6 B2B](https://iqjersey.com/pages/macbook-pro-m6-b2b)
+  Updated: 2026-11-10T08:22:18Z
+- [MacBook Pro PROLED XDR B2B](https://iqjersey.com/pages/macbook-pro-proled-xdr-b2b)
+  Updated: 2026-11-10T08:24:46Z
+- [HomeView](https://iqjersey.com/pages/homeview)
+  Updated: 2026-11-10T07:40:51Z
+- [HomeView 2D Viewer](https://iqjersey.com/pages/homeview-2d-viewer)
+  Updated: 2026-11-09T16:27:45Z
 
 ## Policies
 
