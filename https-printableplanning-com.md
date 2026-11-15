@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-11-08T08:56:21.371Z
+- Updated At: 2026-11-15T12:52:29.080Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -519,7 +519,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ModernBlankMonthCalendar-6FullPages-PrintablePlanning.jpg?v=1687197371
   Price: $7.95 USD
 - [Undated Monthly Calendar & Important Dates Tracker | Printable](https://printableplanning.com/products/modern-blank-monthly-calendar-rainbow-full-page-printable-bundle): Plan any month with a reusable rainbow-colored calendar plus 3 yearly important-dates pages for birthdays, anniversaries, holidays, and reminders.
-  Updated: 2026-11-05T00:00:25Z
+  Updated: 2026-11-12T00:33:43Z
   Vendor: Artistically Invited
   Product Type: Calendar Pages
   Availability: Available
@@ -610,7 +610,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ModernBlankYearlyDatestoRemember-RAINBOW-PrintablePlanning.jpg?v=1687190177
   Price: $5.95 USD
 - [Weekly Student Assignment Tracker | Printable School Planner](https://printableplanning.com/products/weekly-school-assignments-and-tests-sheet-printable): Track weekly homework, quizzes, tests, and project due dates with this 2-page printable student assignment planner for Monday through Sunday.
-  Updated: 2026-09-15T21:17:28Z
+  Updated: 2026-11-11T22:58:06Z
   Vendor: Artistically Invited
   Product Type: School and Teachers
   Availability: Available
@@ -1254,7 +1254,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/RainbowGinghamDailyOrganizationCategoryTaskSheet-PrintablePlanning.jpg?v=1687023392
   Price: $5.95 USD
 - [Simple Color-Coded Financial Transaction Register - PDF](https://printableplanning.com/products/simple-color-coded-financial-transaction-register-printable): Printable color-coded transaction register PDF for kids, teens, and beginners learning to track dates, credits, debits, totals, and money habits.
-  Updated: 2026-09-15T21:17:57Z
+  Updated: 2026-11-08T16:10:05Z
   Vendor: Artistically Invited
   Product Type: Financial Sheets
   Availability: Available
@@ -1384,28 +1384,28 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-11-05T12:00:53Z
+  Updated: 2026-11-14T12:01:03Z
   Total Products: 424
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
   Updated: 2026-10-30T11:00:42Z
   Total Products: 239
 - [Printable Downloads](https://printableplanning.com/collections/all): Shop printable downloads for caregiver forms, daily planning, home organization, school helpers, and financial tracking, made to be easy to use.
-  Updated: 2026-11-05T12:00:53Z
+  Updated: 2026-11-14T12:01:03Z
   Total Products: 424
 - [Miscellaneous Organization Pages](https://printableplanning.com/collections/miscellaneous-organization-pages): Everyday organization printables like  lists, call logs, trackers, and simple helpers for keeping daily details in one place.
   Updated: 2026-10-30T11:00:42Z
   Total Products: 15
 - [Caregiver, Health, and Housekeeping Forms](https://printableplanning.com/collections/caregivers-health-housekeeping): Printable caregiver forms and logs for families and pet care, plus health info sheets and housekeeping checklists to keep routines organized.
-  Updated: 2026-10-13T11:00:52Z
+  Updated: 2026-11-14T12:01:03Z
   Total Products: 49
 - [Financial Sheets](https://printableplanning.com/collections/financial-sheets): Printable financial sheets to track budgeting, bills, tithing, savings, and debt payoff. Simple pages for monthly planning and everyday money routines.
-  Updated: 2026-11-05T12:00:53Z
+  Updated: 2026-11-09T12:01:05Z
   Total Products: 44
 - [Holiday and Occasion Printable Pages](https://printableplanning.com/collections/holiday-and-occasion-printable-pages): Holiday and occasion printables like gift tags, RSVP and guest list pages, gift planning lists, and more for organized celebrations.
   Updated: 2026-08-12T13:53:19Z
   Total Products: 66
 - [Calendars and Planner Pages](https://printableplanning.com/collections/calendars-and-planner-pages): Printable calendars and planner pages with blank, undated layouts for monthly and weekly planning. Print as needed and organize your schedule your way.
-  Updated: 2026-11-05T12:00:53Z
+  Updated: 2026-11-12T12:01:15Z
   Total Products: 26
 - [Address Labels](https://printableplanning.com/collections/address-labels): Personalized printable return address labels in many designs. Sized for Avery 5160 and compatible sheets. Print as needed for mail and gifts.
   Updated: 2026-08-12T13:53:19Z
@@ -1417,10 +1417,10 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-09-09T11:01:39Z
   Total Products: 53
 - [School and Teachers](https://printableplanning.com/collections/school-and-teachers): School and teacher printables for grading, homework, supply labels, and classroom organization. Download files and print as needed all year.
-  Updated: 2026-10-30T11:00:42Z
+  Updated: 2026-11-12T12:01:15Z
   Total Products: 46
 - [Children's Printable Pages](https://printableplanning.com/collections/childrens-printable-pages): Children’s printables like chore charts, activity pages, and fun helpers for routines at home. Great for families, rewards, and busy days.
-  Updated: 2026-08-12T13:53:19Z
+  Updated: 2026-11-09T12:01:05Z
   Total Products: 30
 - [Diet and Exercise Sheets](https://printableplanning.com/collections/diet-and-exercise-sheets): Diet and exercise printables for tracking meals, workouts, habits, and progress. Simple logs and goal sheets to support healthy routines.
   Updated: 2026-10-30T11:00:42Z
