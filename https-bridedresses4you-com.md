@@ -6,7 +6,7 @@
 - Timezone: Europe/Oslo
 - Created At: 2025-05-29T11:01:59Z
 - Contact Email: gloriousnorway@gmail.com
-- Updated At: 2026-11-07T02:32:16.990Z
+- Updated At: 2026-11-15T00:56:04.465Z
 
 ## Products
 
@@ -644,8 +644,8 @@ mermaid wedding dress
   - [Ivory / 10](https://bridedresses4you.com/products/heavenly-bridedress?variant=51383986520354)
     Availability: Available
     Price: 1 100,00 € EUR
-- [Ivory Wedding Dress Fella | Bridedresses4you](https://bridedresses4you.com/products/weddingdress-fella): Ivory wedding dress Fella with nude backlight details on the corset and skirt. Available in sizes 38–46 from Bridedresses4you.
-  Updated: 2026-09-17T13:59:24Z
+- [Ivory Wedding Dress Fella – Nude Details, Sizes 38–46](https://bridedresses4you.com/products/weddingdress-fella): Ivory wedding dress Fella with nude backlight details on the corset and skirt. Available in sizes 38–46 from Bridedresses4you.
+  Updated: 2026-11-08T15:58:01Z
   Vendor: Bridedresses4you
   Product Type: Bridedress
   Availability: Available
