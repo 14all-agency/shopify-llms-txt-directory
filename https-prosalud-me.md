@@ -6,7 +6,7 @@
 - Timezone: America/Mexico_City
 - Created At: 2026-07-11T13:41:51Z
 - Contact Email: contacto@prosalud.me
-- Updated At: 2026-11-07T00:19:20.167Z
+- Updated At: 2026-11-15T00:20:10.013Z
 
 ## Products
 
@@ -404,15 +404,15 @@
   Image: https://cdn.shopify.com/s/files/1/0740/0298/9167/files/prosalud-me-default-title-tapete-sanitizante-stop-rectangular-90-x-58-54722415067247.jpg?v=1784297549
   Price: 1880,00 $ MXN
 - [Ambiderm Guantes Talla CH / M / Y G Nitrilo Color Azul - Caja de 20 Dispensadores con 100 Guantes (Total 2,000 Guantes)](https://prosalud.me/products/ambiderm-guantes-talla-ch-m-y-g-nitrilo-color-azul-caja-de-20-dispensadores-con-100-guantes-total-2-000-guantes): Ambiderm Nitrilo es el guante de composición sintética y extra-duración que le ofrece la mejor resistencia a rasgaduras, perforaciones y protección contra químicos. Excelente comodidad y relajantes a la fatiga sobre todo en periodos de uso prolongado. 100% libres de látex y polvo lubricante. Recomendados para su uso en todas las especialidades médicas, dentales y laboratorios. Ficha Técnica ficha nitrilo colores
-  Updated: 2026-09-23T16:59:21Z
-  Vendor: Prosalud.me
+  Updated: 2026-11-14T15:53:13Z
+  Vendor: AMBIDERM
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0740/0298/9167/files/prosalud-me-default-title-ambiderm-guantes-talla-ch-m-y-g-nitrilo-color-azul-caja-de-20-dispensadores-con-100-guantes-total-2-000-guantes-54722416345199.png?v=1784297545
   Price: 14.475,00 $ MXN
 - [Ambiderm Guantes Talla M Látex Ésteril - Caja de 20 Dispensadores con 100 Guantes (Total 2,000 Guantes)](https://prosalud.me/products/ambiderm-guantes-talla-m-latex-esteril-caja-de-20-dispensadores-con-100-guantes-total-2-000-guantes): Ambiderm Guantes Talla M Látex Ésteril - Caja de 20 Dispensadores con 100 Guantes (Total 2,000 Guantes) Ambiderm Estéril, es ideal para curaciones menores y procedimientos que requieren esterilidad. Sus presentaciones de un guante o de un par de guantes por bolsa permiten utilizar únicamente el/los guantes necesarios. Bajo en proteínas solubles en agua. Su particular espesor le ofrece la seguridad deseada. Recomendado para su uso en todas las especialidades médicas, dentales y laboratorios. FICHA TÉCNICA: ficha esteril
-  Updated: 2026-09-23T16:59:21Z
-  Vendor: Prosalud.me
+  Updated: 2026-11-14T15:53:13Z
+  Vendor: AMBIDERM
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0740/0298/9167/files/prosalud-me-default-title-ambiderm-guantes-talla-m-latex-esteril-caja-de-20-dispensadores-con-100-guantes-total-2-000-guantes-54722417262703.jpg?v=1784297545
@@ -600,8 +600,8 @@
   Image: https://cdn.shopify.com/s/files/1/0740/0298/9167/files/prosalud-me-default-title-kn-kids-panda-azul-claro-con-estrellas-54722427813999.png?v=1784297510
   Price: 48,28 $ MXN
 - [Clorhexidin-Protec Is o APL](https://prosalud.me/products/clorhexidin-protec-is-o-apl): Clorhexidin-Protec Is o APL
-  Updated: 2026-09-22T14:21:50Z
-  Vendor: Prosalud.me
+  Updated: 2026-11-14T15:53:13Z
+  Vendor: PROTEC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0740/0298/9167/files/prosalud-me-aplicador-de-26-ml-por-pieza-clorhexidin-protec-is-o-apl-54722427945071.jpg?v=1784297510
@@ -618,15 +618,15 @@
     Image: https://cdn.shopify.com/s/files/1/0740/0298/9167/files/prosalud-me-aplicador-de-26-ml-por-pieza-clorhexidin-protec-is-o-apl-54722427945071.jpg?v=1784297510
     Price: 71,76 $ MXN
 - [Clorhexidin-Protec EA 500ml](https://prosalud.me/products/clorhexidin-protec-ea-500ml): Clorhexidin-Protec EA 500ml
-  Updated: 2026-09-22T14:21:48Z
-  Vendor: Prosalud.me
+  Updated: 2026-11-14T15:53:14Z
+  Vendor: PROTEC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0740/0298/9167/files/prosalud-me-default-title-clorhexidin-protec-ea-500ml-54722428534895.jpg?v=1784297510
   Price: 365,00 $ MXN
 - [Clorhexidin-Protec DERMAL SW](https://prosalud.me/products/clorhexidin-protec-dermal-sw): Clorhexidin-Protec DERMAL SW
-  Updated: 2026-09-22T14:21:49Z
-  Vendor: Prosalud.me
+  Updated: 2026-11-14T15:53:13Z
+  Vendor: PROTEC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0740/0298/9167/files/prosalud-me-default-title-clorhexidin-protec-dermal-sw-54722428600431.jpg?v=1784297510
@@ -918,13 +918,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0740/0298/9167/files/prosalud-me-default-title-medidor-de-la-calidad-del-aire-y-co2-inteligentes-netatmo-54722442625135.jpg?v=1784297453
   Price: 3600,00 $ MXN
-- [GABINETE DESINFECTANTE C/LAMPARA UVC 10W MAS OZONO](https://prosalud.me/products/gabinete-desinfectante-c-lampara-uvc-10w-mas-ozono): GABINETE DESINFECTANTE C/LÁMPARA UVC 10W MÁS OZONO Descripción general: Gabinete desinfectante con lámpara esterilizadora UVC de 10W. Integra un generador de ozono para una doble acción esterilizadora. Es ideal para llevar a cabo la desinfección de libros, cuadernos, revistas o artículos de tamaño mediano que puedan introducirse en el interior de la cabina. Cuenta con un temporizador, para un uso más práctico, y con protección de apagado al abrir la puerta, para una mayor seguridad. Características:  Tecnología UVC (253.7nm).  10 W de potencia.  Generador de ozono. Aplicaciones:  Esterilización de libros, cuadernos y/o revistas.  Esterilización de artículos de tamaño mediano. Especificaciones: Parámetros técnicos Características eléctricas de entrada 127VCA, 60Hz Potencia de la lámpara 10W Longitud de onda 253.7nm Fuente de luz Tubo de cuarzo Protecciones Apagado al abrir la puerta del gabinete Dimensiones 400x363x630mm Peso 10kg Dimensiones mecánicas: Unidades:mm 630 363 400 Instrucciones de operación: Antes de poner en funcionamiento este equipo, atienda las siguientes consideraciones de uso: *Una vez terminado el proceso de desinfección, utilice mascarilla o cubrebocas al abrir la puerta del gabinete y ventile el equipo por 30 minutos. Evite inhalar el ozono producido por el generador. 1. Conecte el cable del gabinete a la red eléctrica. Una vez energizado el equipo se encenderá el LED indicador rojo. 2. Abra la puerta del gabinete e introduzca el o los objetos a esterilizar y cierre la puerta. 3. Gire el temporizador hasta elegir el tiempo de desinfección deseado. Una vez iniciado el proceso de desinfección se encenderá el LED indicador verde. Al terminar el proceso de desinfección se escuchará el timbre. 4. Abra la puerta atendiendo las consideraciones de uso y retire el o los objetos esterilizados.
-  Updated: 2026-10-03T18:07:07Z
-  Vendor: Prosalud.me
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0740/0298/9167/files/prosalud-me-default-title-gabinete-desinfectante-c-lampara-uvc-10w-mas-ozono-54722442788975.jpg?v=1784297451
-  Price: 9989,00 $ MXN
 - [Cámara Térmografica Industrial de Seguridad / Lente Térmico 3 mm / 2 METROS de DISTANCIA / IP54 / Grabación en SD Marca HIKVISION](https://prosalud.me/products/camara-termografica-industrial-de-seguridad-lente-termico-3-mm-2-metros-de-distancia-ip54-grabacion-en-sd-marca-hikvision): Cámara Térmografica Industrial de Seguridad / Lente Térmico 3 mm / 2 METROS de DISTANCIA / IP54 / Grabación en SD Marca HIKVISION Características de la cámara térmica: Lente fijo: 3.1 mm. Resolución: 160 x 120. Pantalla LCD: 320 x 240 Características Físicas y Eléctricas: Alimentación: 3.7 Vcd / 0.4 A. (Bateria interna recargable de Litio) Se puede instalar en tripie (Tripie no incluido) Tiempo de operación de batería: hasta 8hrs continuas. Temperatura de operación: 10ºC a 35ºC. Soporta memoria microSD / 8GB Incluida (Expandible hasta 128GB) Protección: IP54. Dimensiones: 196 x 117 x 59 mm. Peso: 350 gramos. Garantía: 3 años. Funciones avanzadas: Rango de temperatura: 30ºC a 45ºC. Rango de eficiencia: 0.5ºC. Muestra la temperatura del escenario a visualizar. Las Cámaras térmicas HIKVISION para detección de temperatura que ofrecen 0.5º de precisión. Diseñada para áreas como aeropuertos, hospitales, fabricas, supermercados, etc. https://www.youtube.com/watch?v=TqQFp_O5sFk https://www.youtube.com/watch?v=iYQtTwcHZww https://www.youtube.com/watch?v=vWHNo5u6FcE
   Updated: 2026-10-17T21:39:18Z
   Vendor: HIKVISION
@@ -932,7 +925,14 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0740/0298/9167/files/prosalud-me-default-title-camara-termografica-industrial-de-seguridad-lente-termico-3-mm-2-metros-de-distancia-ip54-grabacion-en-sd-marca-hikvision-54722443018351.png?v=1784297450
   Price: 14.490,00 $ MXN
-[List Continued](https://prosalud.me/a/llms-agent/llms.txt?shop=ekunft-u1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTM2MTc4MDQ4MjE1OSwibGFzdF92YWx1ZSI6IjE1MzYxNzgwNDgyMTU5In0%3D)
+- [Pedestal Con Despachador Dispensador De Gel Automático V3](https://prosalud.me/products/pedestal-con-despachador-dispensador-de-gel-automatico-v3): Pedestal Con Despachador Dispensador De Gel Automático V3: - Pedestal con despachador dispensador de gel automático para una exposición mínima - Sensor de movimiento infrarrojo inteligente incorporado, operación totalmente automática y sin contacto, no más contacto para evitar la segunda infección cruzada. - Salida individual Máx. 1 ml de líquido, elimina el desperdicio y la suciedad de la encimera. - Súper grande con capacidad de 700 ml, es ideal para lociones, champús, jabones líquidos o desinfectantes, etc. - Fácil de usar, se alimenta por 4 pilas AA (no incluidas), sin cableado, fácil de instalar. Luz indicadora LED, para su uso por la noche. - De gran calidad, material ABS, no tóxico, resistente al calor y anti arañazos, duradero durante años. El contenedor transparente es ideal para verificar la capacidad y limpiarlo fácilmente. - Múltiples usos, la cubierta se puede bloquear, uso ideal en baños, cocinas, jardines de infancia, oficinas, escuelas, hospitales, aeropuertos, hoteles y restaurantes. -Fácil instalación y ensamblado sin necesidad de herramientas. INSTRUCCIONES DE USO: 1. coloque sus manos a una distancia cercana del dispensador siendo esta de 1 cm aproximadamente. 2. Automáticamente el despachador le dará la porción necesaria para la desinfección de sus manos. **Evita tocar superficies logrando un mayor cuidado y protección de su salud y de la de los demás a su alrededor.** QUE INCLUYE: - 1 Dispensador de Gel Antibacterial Infrarrojo - 1 Pedestal de soporte. - 1 letrero con la leyenda: "GEL ANTIBACTERIAL, COLOQUE SU MANO A 1CM DEBAJO DEL DISPENSADOR" CARACTERÍSTICAS DISPENSADOR: - Despachador automático - Sensor de movimiento IR - Capacidad: 700 ml - Dimensiones: alto 17.5 cm ancho 8.5 cm largo 10 cm - Requiere baterías AA (NO INCLUIDAS) - Dimensiones del Letrero: alto 15 cm largo 20cm CARACTERÍSTICAS PEDESTAL: - Tres colores distintos, Negro, Blanco y Gris - Dimensiones: - Tubo base alto 2 cm ancho 35 cm largo 35 cm - Tubo intermedio alto 50cm - tubo superior (sin letrero) alto 53 cm - Dimensiones del Letrero: alto 15 cm largo 20cm
+  Updated: 2026-09-22T14:22:03Z
+  Vendor: Prosalud.me
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0740/0298/9167/files/prosalud-me-default-title-pedestal-con-despachador-dispensador-de-gel-automatico-v3-54722443280495.png?v=1784297448
+  Price: 2320,00 $ MXN
+[List Continued](https://prosalud.me/a/llms-agent/llms.txt?shop=ekunft-u1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTM2MTc4MDUxNDkyNywibGFzdF92YWx1ZSI6IjE1MzYxNzgwNTE0OTI3In0%3D)
 
 ## Collections
 
@@ -940,7 +940,7 @@
   Updated: 2026-07-21T08:49:48Z
   Total Products: 1
 - [Sin categorizar](https://prosalud.me/collections/sin-categorizar)
-  Updated: 2026-09-23T15:29:23Z
+  Updated: 2026-11-14T15:12:22Z
   Total Products: 47
 - [Gel Antibacterial](https://prosalud.me/collections/gel-antibacterial): Gel antibacterial y alcohol en gel al 70% para manos, presentaciones institucionales. Envío a todo México. Cotiza en PROSALUD.
   Updated: 2026-11-04T06:59:40Z
@@ -958,7 +958,7 @@
   Updated: 2026-09-07T15:12:51Z
   Total Products: 4
 - [Guantes](https://prosalud.me/collections/guantes): Guantes de látex, nitrilo y exploración para uso médico. Cajas y mayoreo con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-22T23:44:14Z
+  Updated: 2026-11-14T15:10:27Z
   Total Products: 8
 - [Nebulización y Túneles Sanitizantes](https://prosalud.me/collections/nebulizacion-y-tuneles-sanitizantes): Equipo de aplicación: túneles sanitizantes con bomba y tubería, pistolas nebulizadoras inalámbricas, termonebulizadoras, máquinas de humo y líquidos nebulizables. CFDI y envío a todo México.
   Updated: 2026-11-06T05:01:31Z
@@ -967,7 +967,7 @@
   Updated: 2026-11-02T21:01:28Z
   Total Products: 10
 - [Antisépticos de Piel y Manos](https://prosalud.me/collections/antisepticos-de-piel-y-manos): Antisépticos para piel y manos: gluconato de clorhexidina 2% y 0.25%, alcohol al 70%, toallas antisépticas, atomizadores y generadores de ozono. Uso médico con CFDI y envío a todo México.
-  Updated: 2026-11-04T06:55:19Z
+  Updated: 2026-11-14T15:10:31Z
   Total Products: 35
 - [Dispensadores de Gel y Jabón](https://prosalud.me/collections/dispensadores-de-gel-y-jabon): Dispensadores de gel antibacterial automáticos sin contacto, con pedal, de pedestal y tótems con termómetro integrado, y jaboneras rellenables de 1 litro. CFDI y envío a todo México.
   Updated: 2026-10-29T15:20:02Z
@@ -979,7 +979,7 @@
   Updated: 2026-09-22T23:20:58Z
   Total Products: 12
 - [Equipo Médico](https://prosalud.me/collections/equipo-medico): Más de 2.500 equipos e insumos con registro COFEPRIS, garantía y factura CFDI 4.0. Qué necesita cada tipo de unidad y cómo cotizarlo por partidas.
-  Updated: 2026-10-30T00:43:08Z
+  Updated: 2026-11-14T15:19:33Z
   Total Products: 2566
 - [Concentradores de Oxígeno](https://prosalud.me/collections/concentradores-de-oxigeno): Concentradores de oxígeno estacionarios de 5 y 10 LPM y portátiles de batería: Inogen, Yuwell, Nidek, DeVilbiss y Longfian. Factura CFDI y envío a todo México.
   Updated: 2026-10-29T15:20:03Z
@@ -988,10 +988,10 @@
   Updated: 2026-11-02T21:03:02Z
   Total Products: 5
 - [Pruebas Rápidas de Diagnóstico](https://prosalud.me/collections/pruebas-rapidas-de-diagnostico): Pruebas rápidas de diagnóstico por inmunocromatografía: dengue NS1, SARS-CoV-2, gonorrea, norovirus, Clostridium difficile, Chagas, dímero-D y paneles de drogas. CerTest y Certum. CFDI.
-  Updated: 2026-10-29T15:20:04Z
+  Updated: 2026-11-14T15:10:50Z
   Total Products: 43
 - [Camas Hospitalarias de 2 y 3 Posiciones](https://prosalud.me/collections/camas-hospitalarias-de-2-y-3-posiciones): Camas hospitalarias de 2 y 3 posiciones, manuales y eléctricas, con paneles ABS, pediátricas, con mesilla y colchón de presión alterna. Linet, Handy. CFDI y envío a todo México.
-  Updated: 2026-10-29T15:20:05Z
+  Updated: 2026-11-14T15:19:13Z
   Total Products: 41
 - [Analizadores de Equipos](https://prosalud.me/collections/analizadores-de-equipos): Analizadores y probadores para calibración de equipo médico y biomédico. Envío a todo México. Cotiza en PROSALUD.
   Updated: 2026-09-22T23:44:16Z
@@ -1000,31 +1000,31 @@
   Updated: 2026-09-23T15:19:05Z
   Total Products: 11
 - [Aspiradores de Succión y Accesorios](https://prosalud.me/collections/aspiradores-de-succion-y-accesorios): Aspiradores de succión eléctricos, neumáticos y quirúrgicos de 20 litros, portátiles para traslado, frascos reusables de 1 y 2 litros y mangueras. Medela, Ambu, CA-MI. CFDI y envío a todo México.
-  Updated: 2026-10-29T15:20:05Z
+  Updated: 2026-11-14T15:10:53Z
   Total Products: 15
 - [Autoclaves y Esterilizadores](https://prosalud.me/collections/autoclaves-y-esterilizadores): Autoclaves y esterilizadores de vapor, calor seco y mesa, de 23 a 312 litros, con doble puerta para CEYE. Marcas Steris, Midmark, EBP. Envío a todo México.
-  Updated: 2026-11-02T21:45:38Z
+  Updated: 2026-11-14T15:19:22Z
   Total Products: 16
 - [Bombas y Jeringas de Infusión](https://prosalud.me/collections/bombas-y-jeringas-de-infusion): Bombas de infusión volumétricas y de jeringa, con sus equipos y sets Infusomat Space estándar, para sangre y pediátricos. B. Braun, Terumo, Contec. CFDI y envío a todo México.
-  Updated: 2026-10-29T15:20:07Z
+  Updated: 2026-11-14T15:10:57Z
   Total Products: 15
 - [Calentadores de Fluídos](https://prosalud.me/collections/calentadores-de-fluidos): Calentadores de fluidos y soluciones para procedimientos médicos y quirófano. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-07T15:12:51Z
+  Updated: 2026-11-14T15:11:01Z
   Total Products: 3
 - [Central de Enfermeras](https://prosalud.me/collections/central-de-enfermeras): Centrales de enfermeras y mobiliario modular para áreas hospitalarias. Envío a todo México. Cotiza en PROSALUD.
   Updated: 2026-09-22T23:44:23Z
   Total Products: 2
 - [Consolas para Especialidades](https://prosalud.me/collections/consolas-para-especialidades): Consolas y unidades para especialidades como ORL y oftalmología. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-23T15:26:58Z
+  Updated: 2026-11-14T15:15:01Z
   Total Products: 11
 - [Criocirugía](https://prosalud.me/collections/criocirugia): Equipos de criocirugía y crioterapia para dermatología y ginecología. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-23T15:19:08Z
+  Updated: 2026-11-14T15:11:02Z
   Total Products: 6
 - [CPAP, Apnea del Sueño y Alto Flujo](https://prosalud.me/collections/cpap-apnea-del-sueno-y-alto-flujo): Equipos de CPAP y APAP, monitores para diagnóstico de apnea del sueño, mascarillas oronasales y sistemas de alto flujo con humidificador. ResMed, Fisher & Paykel AIRVO 2. CFDI y envío a todo México.
   Updated: 2026-10-29T15:22:09Z
   Total Products: 6
 - [Desfibriladores y Accesorios](https://prosalud.me/collections/desfibriladores-y-accesorios): Desfibriladores DEA de acceso público y desfibriladores-monitor bifásicos con marcapasos y SpO2, con electrodos y baterías. Zoll, Philips y Mindray. CFDI.
-  Updated: 2026-11-02T21:05:13Z
+  Updated: 2026-11-14T15:19:24Z
   Total Products: 36
 - [Equipos para Corte de Yeso](https://prosalud.me/collections/equipos-para-corte-de-yeso): Sierras y equipos para corte de yeso en traumatología y ortopedia. Seguras y con envío a todo México. Cotiza en PROSALUD.
   Updated: 2026-09-23T15:19:56Z
@@ -1033,115 +1033,115 @@
   Updated: 2026-11-02T21:32:18Z
   Total Products: 5
 - [Electrocirugía](https://prosalud.me/collections/electrocirugia): Unidades de electrocirugía, lápices y electrodos para quirófano. Marcas confiables y envío a todo México. Cotiza tu electrobisturí en PROSALUD.
-  Updated: 2026-11-02T21:34:41Z
+  Updated: 2026-11-14T15:11:21Z
   Total Products: 95
 - [Fuentes De Energía- Ups](https://prosalud.me/collections/fuentes-de-energia-ups): Fuentes de energía ininterrumpida (UPS) y reguladores para equipo médico. Envío a todo México. Cotiza en PROSALUD.
   Updated: 2026-09-22T23:45:46Z
   Total Products: 2
 - [Gases Hospitalarios: Sistemas e Instalación](https://prosalud.me/collections/gases-hospitalarios-sistemas-e-instalacion): Sistemas de gases medicinales: consolas de cabecera, tomas de oxígeno y aire, flujómetros, alarmas dúplex, compresores grado médico y equipos de succión. Powerex, Amico, Aramed. CFDI.
-  Updated: 2026-10-29T15:20:09Z
+  Updated: 2026-11-14T15:11:22Z
   Total Products: 69
 - [Gruas para Paciente](https://prosalud.me/collections/gruas-para-paciente): Grúas y elevadores para traslado seguro de pacientes. Resistentes y con envío a todo México. Cotiza en PROSALUD.
   Updated: 2026-09-22T23:47:10Z
   Total Products: 5
 - [Incubadoras y Cunas Térmicas](https://prosalud.me/collections/incubadoras-y-cunas-termicas): Incubadoras neonatales de control digital y de traslado, cunas térmicas de calor radiante con y sin fototerapia, con báscula integrada y servocontrol. Dräger, Atom, TEHSA, Medix. CFDI.
-  Updated: 2026-10-29T15:20:10Z
+  Updated: 2026-11-14T15:12:02Z
   Total Products: 31
 - [Endoscopía y Cirugía de Mínima Invasión](https://prosalud.me/collections/endoscopia-y-cirugia-de-minima-invasion): Equipo para laparoscopía y endoscopía: fuentes de luz LED, cámaras de video, monitores Full HD, cables de fibra óptica, insufladores y sets de irrigación. Karl Storz, Fujifilm, ConMed. CFDI.
   Updated: 2026-11-02T21:05:12Z
   Total Products: 35
 - [Lámparas para Procedimientos](https://prosalud.me/collections/lamparas-para-procedimientos): Lámparas de exploración, quirúrgicas y de procedimientos LED. Iluminación de alta calidad y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-10-29T15:20:11Z
+  Updated: 2026-11-14T15:15:06Z
   Total Products: 104
 - [Laringoscopios](https://prosalud.me/collections/laringoscopios): Laringoscopios de fibra óptica y convencionales, hojas Miller y Macintosh. Marcas líderes y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-10-29T15:20:12Z
+  Updated: 2026-11-14T15:11:40Z
   Total Products: 144
 - [Mesas Quirurgicas](https://prosalud.me/collections/mesas-quirurgicas): Mesas quirúrgicas eléctricas y manuales para quirófano. Resistentes, ajustables y con envío a todo México. Cotiza tu mesa de cirugía en PROSALUD.
-  Updated: 2026-10-29T15:20:12Z
+  Updated: 2026-11-14T15:19:16Z
   Total Products: 80
 - [Cámaras, Fuentes de Luz y Monitores Quirúrgicos](https://prosalud.me/collections/camaras-fuentes-de-luz-y-monitores-quirurgicos): Cámaras de video para endoscopía, fuentes de luz LED, monitores quirúrgicos y de paciente, adaptadores para sigmoidoscopio y anoscopio. Karl Storz, Sony, Ecleris, Microgyn. CFDI.
-  Updated: 2026-10-29T15:20:13Z
+  Updated: 2026-11-14T15:19:32Z
   Total Products: 28
 - [Equipos de Rayos X](https://prosalud.me/collections/equipos-de-rayos-x): Rayos X digitales (DR), CR y analógicos: fijos de 32 a 52 kW, móviles y portátiles de batería. Philips, Fujifilm, Carestream y DRGEM. Instalación y CFDI.
   Updated: 2026-10-29T15:22:13Z
   Total Products: 44
 - [Resucitadores Manuales (Ambú)](https://prosalud.me/collections/resucitadores-manuales-ambu): Resucitadores manuales desechables y reusables de silicón, adulto, pediátrico y neonatal, con reservorio de O2, válvula PEEP y mascarillas de RCP tipo Pocket Mask. Ambu, Westmed, Ventlab. CFDI.
-  Updated: 2026-10-30T00:43:08Z
+  Updated: 2026-11-14T15:12:11Z
   Total Products: 29
 - [Refrigeradores y Congeladores](https://prosalud.me/collections/refrigeradores-y-congeladores): Refrigeradores y congeladores para vacunas, medicamentos y laboratorio. Control de temperatura y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-11-04T06:55:16Z
+  Updated: 2026-11-14T15:19:23Z
   Total Products: 69
 - [Sillas de Ruedas](https://prosalud.me/collections/sillas-de-ruedas): Sillas de ruedas estándar, eléctricas, de traslado, todo terreno, infantiles y PCI/PCA. Cómo medir el ancho de asiento. Drive  y Eko-Mobility. CFDI.
-  Updated: 2026-10-29T15:20:15Z
+  Updated: 2026-11-14T15:12:12Z
   Total Products: 52
 - [Sierras para Corte](https://prosalud.me/collections/sierras-para-corte): Sierras para corte óseo y quirúrgico en traumatología. Precisas y con envío a todo México. Cotiza en PROSALUD.
   Updated: 2026-09-22T23:49:42Z
   Total Products: 1
 - [Venoscopios para Localización de Venas](https://prosalud.me/collections/venoscopios-para-localizacion-de-venas): Venoscopios y localizadores de venas por luz infrarroja para punción. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-23T15:22:17Z
+  Updated: 2026-11-14T15:12:17Z
   Total Products: 3
 - [Ventiladores Mecánicos](https://prosalud.me/collections/ventiladores-mecanicos): Ventiladores mecánicos de cuidados intensivos, traslado, no invasivos y neonatales: Mindray, Vyaire, Philips, Magnamed y Zoll. Circuitos y refacciones. CFDI.
-  Updated: 2026-11-04T06:55:18Z
+  Updated: 2026-11-14T15:12:52Z
   Total Products: 43
 - [Equipos Dentales](https://prosalud.me/collections/equipos-dentales): Unidades dentales eléctricas, autoclaves de 16 y 22 litros, rayos X intraoral, compresores libres de aceite, lámparas de fotocurado y escariadores ultrasónicos. Midmark, NSK, Dabi Atlante. CFDI.
-  Updated: 2026-10-29T15:20:16Z
+  Updated: 2026-11-14T15:12:59Z
   Total Products: 38
 - [Equipos para Laboratorio Clínico](https://prosalud.me/collections/equipos-para-laboratorio-clinico): Centrífugas clínicas, de hematocrito y de banco de sangre, microscopios, micropipetas Finnpipette, agitadores, incubadoras y espectrofotómetros. COFEPRIS, CFDI y envío a todo México.
-  Updated: 2026-10-29T15:20:17Z
+  Updated: 2026-11-14T15:13:21Z
   Total Products: 117
 - [Equipos para Movilidad: Andaderas, Muletas y Sillas](https://prosalud.me/collections/equipos-para-movilidad-andaderas-muletas-y-sillas): Andaderas plegables, con asiento y rollator, muletas axilares por par, bastones y sillas de ruedas de 14 a 22 pulgadas. Cómo medir la altura. Factura CFDI.
-  Updated: 2026-10-30T11:10:22Z
+  Updated: 2026-11-14T15:12:21Z
   Total Products: 184
 - [Equipos para Rescate y Atención Prehospitalaria](https://prosalud.me/collections/equipos-para-rescate-y-atencion-prehospitalaria): Equipo de rescate y atención prehospitalaria: inmovilizadores de columna adulto y pediátrico, kits de triage, mochilas botiquín, descensores, bloqueadores y arnés. Petzl, Medi Help, Meret. CFDI.
-  Updated: 2026-10-29T15:20:18Z
+  Updated: 2026-11-14T15:12:54Z
   Total Products: 103
 - [Equipos para Fisioterapia y Rehabilitación](https://prosalud.me/collections/equipos-para-fisioterapia-y-rehabilitacion): Electroterapia, ultrasonido terapéutico, magnetoterapia, ondas de choque, compreseros, mesas y mecánoterapia. BTL, Chattanooga y Mettler. Factura CFDI.
-  Updated: 2026-11-02T21:05:10Z
+  Updated: 2026-11-14T15:13:28Z
   Total Products: 287
 - [Equipos para Oftalmología y Optometría](https://prosalud.me/collections/equipos-para-oftalmologia-y-optometria): Equipo para oftalmología y optometría: oftalmoscopios directos e indirectos, forópteros, autorrefractómetros, lensómetros, tablas Snellen y tamizaje visual. Welch Allyn, Heine, Huvitz, Icare. CFDI.
-  Updated: 2026-10-29T15:20:19Z
+  Updated: 2026-11-14T15:13:38Z
   Total Products: 52
 - [Equipos Veterinarios](https://prosalud.me/collections/equipos-veterinarios): Equipo médico veterinario: ultrasonidos portátiles con transductores, electrocardiógrafos, monitores multiparámetros, endoscopía para especies grandes y rayos X. Mindray, Xignal, Utech. CFDI.
-  Updated: 2026-10-29T15:20:20Z
+  Updated: 2026-11-14T15:13:43Z
   Total Products: 16
 - [Anaqueles, Repisas y Gabinetes de Almacenaje](https://prosalud.me/collections/anaqueles-repisas-y-gabinetes-de-almacenaje): Anaqueles esqueleto de 6 y 7 entrepaños, repisas de muro, alacenas altas, gabinetes y anaqueles guarda cómodos para almacén de insumos y central de equipos. Herlis, Moec, Tecny Farma. CFDI.
   Updated: 2026-10-29T15:20:20Z
   Total Products: 23
 - [Bancos, Sillas y Sillones](https://prosalud.me/collections/bancos-sillas-y-sillones): Bancos de exploración giratorios y de cirugía neumáticos, en inoxidable T201 y cromado, sillas de consultorio y sillones de hemodiálisis. Moec y Reysa. CFDI.
-  Updated: 2026-10-29T15:20:21Z
+  Updated: 2026-11-14T15:13:51Z
   Total Products: 105
 - [Banquetas de Altura y Escalinatas](https://prosalud.me/collections/banquetas-de-altura-y-escalinatas): Banquetas de altura de uno y dos peldaños en acero inoxidable, cromadas y esmaltadas, y escalerillas con rampa angular para mesa de exploración. Moec, Ciiasa, Herlis, Esgo. CFDI.
-  Updated: 2026-10-29T15:20:22Z
+  Updated: 2026-11-14T15:13:57Z
   Total Products: 19
 - [Baños de Artesa](https://prosalud.me/collections/banos-de-artesa): Baños de artesa y baño maría para laboratorio clínico. Control de temperatura y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-22T23:56:49Z
+  Updated: 2026-11-14T15:14:00Z
   Total Products: 3
 - [Biombos y Cortinas](https://prosalud.me/collections/biombos-y-cortinas): Biombos y cortinas divisorias para privacidad en hospitales y clínicas. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-10-09T11:11:37Z
+  Updated: 2026-11-14T15:14:09Z
   Total Products: 12
 - [Botes para Basura](https://prosalud.me/collections/botes-para-basura): Botes y contenedores de basura clínicos, de pedal y para RPBI. Resistentes y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-22T23:56:53Z
+  Updated: 2026-11-14T15:14:18Z
   Total Products: 13
 - [Botiquines y Mochilas](https://prosalud.me/collections/botiquines-y-mochilas): Botiquines y mochilas de primeros auxilios para emergencias y traslado. Equipados y con envío a todo México. Cotiza en PROSALUD.
   Updated: 2026-11-02T21:01:28Z
   Total Products: 2
 - [Buros para Cuarto de Hospital](https://prosalud.me/collections/buros-para-cuarto-de-hospital): Burós y mesas de noche para cuarto de hospital, con superficie abatible. Resistentes y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-23T15:25:54Z
+  Updated: 2026-11-14T15:14:19Z
   Total Products: 12
 - [Camas Hospitalarias y Cunas](https://prosalud.me/collections/camas-hospitalarias-y-cunas): Camas hospitalarias manuales y eléctricas de 3 y 5 posiciones, de cuidados críticos, traslado, psiquiátricas y cunas. Linet, Hill-Rom y Paramount Bed. CFDI.
-  Updated: 2026-11-04T06:55:17Z
+  Updated: 2026-11-14T15:14:32Z
   Total Products: 105
 - [Camillas Hospitalarias](https://prosalud.me/collections/camillas-hospitalarias): Camillas hidráulicas de traslado y transferencia, radiotransparentes, de baño, de inmovilización y para ambulancia. Hill-Rom, Stryker y Linet. Factura CFDI.
-  Updated: 2026-10-29T15:20:23Z
+  Updated: 2026-11-14T15:19:15Z
   Total Products: 108
 - [Carros para Uso Hospitalario](https://prosalud.me/collections/carros-para-uso-hospitalario): Carros de curaciones, de paro y de transporte para hospitales y clínicas. Acero inoxidable y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-10-29T15:20:23Z
+  Updated: 2026-11-14T15:19:15Z
   Total Products: 104
 - [Chaisse Long y Divanes](https://prosalud.me/collections/chaisse-long-y-divanes): Chaise longue y divanes para exploración y tratamientos médicos. Cómodos y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-22T23:58:34Z
+  Updated: 2026-11-14T15:19:27Z
   Total Products: 5
 - [Colchones Médicos y Antiescaras](https://prosalud.me/collections/colchones-medicos-y-antiescaras): Colchones seccionados para cama de hospital, antiescaras de compresión alterna y superficies de aire para UCI. Linet, Hill-Rom y Benesta. Factura CFDI.
-  Updated: 2026-10-29T15:20:24Z
+  Updated: 2026-11-14T15:15:00Z
   Total Products: 39
 - [Cómodos y orinales para Hospitales](https://prosalud.me/collections/comodos-y-orinales-para-hospitales): Cómodos, orinales y patos para el cuidado del paciente en hospital y casa. Higiénicos y con envío a todo México. Cotiza en PROSALUD.
   Updated: 2026-11-02T21:01:27Z
@@ -1150,79 +1150,79 @@
   Updated: 2026-09-23T15:26:59Z
   Total Products: 6
 - [Consultorios Completos y Escritorios](https://prosalud.me/collections/consultorios-completos-y-escritorios): Consultorios completos de gabinete clase G, GC y ED para pediatría, ginecología y medicina general, y escritorios secretariales. Marcas Moec, Ciiasa, Herlis y Esgo. CFDI y envío a todo México.
-  Updated: 2026-10-29T15:20:25Z
+  Updated: 2026-11-14T15:15:04Z
   Total Products: 20
 - [Lavamanos y tarjas](https://prosalud.me/collections/lavamanos-y-tarjas): Lavamanos y tarjas de acero inoxidable para áreas médicas y quirófano. Higiénicas y con envío a todo México. Cotiza en PROSALUD.
   Updated: 2026-09-23T15:27:01Z
   Total Products: 13
 - [Mesas para exploración](https://prosalud.me/collections/mesas-para-exploracion): Mesas de exploración y reconocimiento para consultorios y clínicas. Cómodas, resistentes y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-10-29T15:20:25Z
+  Updated: 2026-11-14T15:19:29Z
   Total Products: 49
 - [Negatoscopios](https://prosalud.me/collections/negatoscopios): Negatoscopios LED de uno y varios cuerpos para lectura de radiografías. Iluminación uniforme y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-10-29T15:20:26Z
+  Updated: 2026-11-14T15:15:20Z
   Total Products: 50
 - [Portavenoclisis, Porta Sueros y Percheros](https://prosalud.me/collections/portavenoclisis-porta-sueros-y-percheros): Portavenoclisis y porta sueros rodables de 5 apoyos, tripiés, rieles de pared, porta mandiles plomados y percheros. Herlis, Arveol y Ciiasa. Factura CFDI.
-  Updated: 2026-10-29T15:22:12Z
+  Updated: 2026-11-14T15:15:29Z
   Total Products: 22
 - [Sillones para procedimiento](https://prosalud.me/collections/sillones-para-procedimiento): Sillones para procedimientos, toma de muestras y tratamientos. Cómodos, ajustables y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-23T15:27:35Z
+  Updated: 2026-11-14T15:15:31Z
   Total Products: 14
 - [Vitrinas](https://prosalud.me/collections/vitrinas): Vitrinas y gabinetes de acero para instrumental y material médico. Resistentes y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-10-29T15:20:28Z
+  Updated: 2026-11-14T15:15:40Z
   Total Products: 25
 - [Utensilios de Acero Inoxidable](https://prosalud.me/collections/utensilios-de-acero-inoxidable): Riñones, charolas de Mayo, bandejas para instrumental, cajas Doyen, lebrillos y palanganas, vasos graduados y cubetas de acero inoxidable. Hergom, Prolar, Dewimed, Innova Medic. CFDI.
-  Updated: 2026-10-29T15:20:28Z
+  Updated: 2026-11-14T15:19:17Z
   Total Products: 64
 - [Mobiliario forense](https://prosalud.me/collections/mobiliario-forense): Mesas de autopsia, planchas y mobiliario forense de acero inoxidable. Envío a todo México. Cotiza en PROSALUD.
   Updated: 2026-09-23T15:27:37Z
   Total Products: 12
 - [Equipo de Diagnóstico Médico](https://prosalud.me/collections/equipo-de-diagnostico-medico): Baumánometros, estetoscopios, otoscopios, oxímetros, termómetros, laringoscopios y audiómetros. Cómo armar el equipo de un consultorio. Factura CFDI 4.0.
-  Updated: 2026-11-02T22:23:29Z
+  Updated: 2026-11-14T15:19:35Z
   Total Products: 598
 - [Audiómetros](https://prosalud.me/collections/audiometros): Audiómetros clínicos y de diagnóstico para audiología y otorrinolaringología. Equipo preciso y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-10-29T15:20:30Z
+  Updated: 2026-11-14T15:15:57Z
   Total Products: 39
 - [Timpanometros y Cabinas](https://prosalud.me/collections/timpanometros-y-cabinas): Timpanómetros y cabinas sonoamortiguadas para audiología. Equipo especializado con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-10-29T15:20:30Z
+  Updated: 2026-11-14T15:16:37Z
   Total Products: 104
 - [Básculas Médicas y Medición Corporal](https://prosalud.me/collections/basculas-medicas-y-medicion-corporal): Básculas médicas de columna con estadímetro, de piso, pediátricas, para silla de ruedas y analizadores de composición corporal. SECA, Tanita y Omron. CFDI.
-  Updated: 2026-11-02T21:05:11Z
+  Updated: 2026-11-14T15:16:45Z
   Total Products: 153
 - [Baumánometros y Esfigmomanómetros](https://prosalud.me/collections/baumanometros-y-esfigmomanometros): Baumánometros aneroides de mano, pedestal y pared, y digitales de brazo, con brazaletes de todas las tallas. Welch Allyn, Riester, KaWe y Omron. CFDI.
-  Updated: 2026-11-02T21:05:12Z
+  Updated: 2026-11-14T15:17:05Z
   Total Products: 197
 - [Colposcopios](https://prosalud.me/collections/colposcopios): Colposcopios ópticos y digitales para diagnóstico ginecológico. Marcas confiables y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-10-28T15:20:05Z
+  Updated: 2026-11-14T15:17:11Z
   Total Products: 29
 - [Densitometros óseos](https://prosalud.me/collections/densitometros-oseos): Densitómetros óseos para medición de densidad mineral y diagnóstico de osteoporosis. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-07T15:12:13Z
+  Updated: 2026-11-14T15:17:15Z
   Total Products: 6
 - [Oftalmoscopios y Estuches de Diagnóstico Oftálmico](https://prosalud.me/collections/oftalmoscopios-y-estuches-de-diagnostico-oftalmico): Oftalmoscopios directos, panópticos y binoculares indirectos, estuches de diagnóstico de 2.5 V y 3.5 V, mangos recargables y estuches de bolsillo. Welch Allyn, Heine, Riester. CFDI y envío a todo México.
-  Updated: 2026-10-29T15:20:32Z
+  Updated: 2026-11-14T15:17:16Z
   Total Products: 41
 - [Seguridad e Higiene y Salud Ocupacional](https://prosalud.me/collections/seguridad-e-higiene-y-salud-ocupacional): Alcoholímetros profesionales con impresora, antidoping de 3 a 10 parámetros, termos para vacunas y maniquíes de RCP. Precio por prueba y factura CFDI.
-  Updated: 2026-11-02T21:05:14Z
+  Updated: 2026-11-14T15:19:02Z
   Total Products: 332
 - [Covid](https://prosalud.me/collections/covid): Insumos de protección y prevención COVID-19: pruebas, cubrebocas y sanitizantes. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-23T00:07:08Z
+  Updated: 2026-11-14T15:17:18Z
   Total Products: 5
 - [Alcoholímetros y Detección de Drogas](https://prosalud.me/collections/alcoholimetros-y-deteccion-de-drogas): Alcoholímetros de celda de combustible y semiconductor, con boquillas desechables, y paneles antidoping de 3 a 10 drogas con vaso recolector con termómetro. BACtrack, Alcomate, Rapid Response. CFDI.
-  Updated: 2026-10-29T15:20:34Z
+  Updated: 2026-11-14T15:19:02Z
   Total Products: 25
 - [Lavadoras Ultrasónicas, Lavacomodos y Lavandería](https://prosalud.me/collections/lavadoras-ultrasonicas-lavacomodos-y-lavanderia): Lavadoras ultrasónicas de 30, 60 y 100 litros para instrumental, lavacomodos desinfectores y lavandería industrial hospitalaria. EBP y Tuttnauer. CFDI.
-  Updated: 2026-11-04T06:59:38Z
+  Updated: 2026-11-14T15:17:38Z
   Total Products: 19
 - [Esterilización](https://prosalud.me/collections/esterilizacion): Autoclaves de mesa y horizontales de vapor directo o autogenerado, esterilizadores de calor seco y selladoras. Midmark, Jorsan, Man-Olve y Caisa. CFDI.
   Updated: 2026-11-02T21:05:13Z
   Total Products: 43
 - [Limpieza](https://prosalud.me/collections/limpieza): Productos y equipos de limpieza para áreas hospitalarias y clínicas. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-07T15:12:52Z
+  Updated: 2026-11-14T15:17:40Z
   Total Products: 1
 - [Manejo de Residuos y RPBI](https://prosalud.me/collections/manejo-de-residuos-y-rpbi): Bolsas rojas y amarillas calibre 200 impresas, recolectores de punzocortantes, contenedores de 120 y 240 L y destructores de agujas. NOM-087. Factura CFDI.
-  Updated: 2026-10-29T15:20:35Z
+  Updated: 2026-11-14T15:18:14Z
   Total Products: 40
 - [Protección Radiológica](https://prosalud.me/collections/proteccion-radiologica): Mandiles emplomados, protectores de gónadas y tiroides, lentes plomados, vidrio emplomado, biombos y dosímetros personales de lectura directa. SRY, Shielding, Atomtex. CFDI y envío a todo México.
-  Updated: 2026-10-29T15:20:36Z
+  Updated: 2026-11-14T15:18:34Z
   Total Products: 45
 - [Ropa para personal de salud](https://prosalud.me/collections/ropa-para-personal-de-salud): Uniformes, batas y ropa quirúrgica para personal de salud. Envío a todo México. Cotiza en PROSALUD.
   Updated: 2026-09-23T15:29:21Z
@@ -1231,7 +1231,7 @@
   Updated: 2026-09-07T15:12:52Z
   Total Products: 1
 - [Simulación Clínica y Modelos Anatómicos](https://prosalud.me/collections/simulacion-clinica-y-modelos-anatomicos): Maniquíes de RCP y rescate, entrenadores de vía aérea, simuladores de procedimientos y modelos anatómicos de esqueleto, cráneo, pulmón y sistema circulatorio. Laerdal, Nasco, Zeigen, 3B Scientific.
-  Updated: 2026-10-29T15:20:37Z
+  Updated: 2026-11-14T15:18:59Z
   Total Products: 94
 - [Transporte de vacunas y organos](https://prosalud.me/collections/transporte-de-vacunas-y-organos): Termos y hieleras para vacunas de 9, 45 y 100 litros, paquetes refrigerantes, canastillas y termómetros para la red de frío. Envío a todo México.
   Updated: 2026-11-02T21:33:30Z
@@ -1249,7 +1249,7 @@
   Updated: 2026-09-23T00:08:22Z
   Total Products: 6
 - [Electrocardiógrafos (ECG)](https://prosalud.me/collections/electrocardiografos-ecg): Electrocardiógrafos ECG/EKG de 3, 6 y 12 canales con interpretación, Holter, DICOM y espirómetro. Welch Allyn y Bionet. Factura CFDI y envío a todo México.
-  Updated: 2026-11-02T21:05:12Z
+  Updated: 2026-11-14T15:19:25Z
   Total Products: 16
 - [Mastógrafos](https://prosalud.me/collections/mastografos): Mastógrafos digitales de campo completo (FFDM), con tomosíntesis 3D, estereotaxia y biopsia por vacío. Hologic Selenia Dimensions y PinkView. Instalación y CFDI.
   Updated: 2026-10-29T15:20:39Z
@@ -1261,10 +1261,10 @@
   Updated: 2026-10-29T15:20:39Z
   Total Products: 15
 - [Ultrasonidos](https://prosalud.me/collections/ultrasonidos): Equipos de ultrasonido y ecógrafos para diagnóstico por imagen. Marcas líderes y envío a todo México. Cotiza tu ultrasonido en PROSALUD.
-  Updated: 2026-11-02T20:48:56Z
+  Updated: 2026-11-14T15:19:35Z
   Total Products: 13
 - [Insumos Médicos](https://prosalud.me/collections/insumos-medicos): Guantes de nitrilo y látex, gasas estériles, vendas, jeringas, sondas Nelaton y Foley y fijadores. Precio por pieza y factura CFDI. Envío a todo México.
-  Updated: 2026-11-04T06:50:02Z
+  Updated: 2026-11-14T15:18:31Z
   Total Products: 656
 - [Proteina vegetal](https://prosalud.me/collections/proteina-vegetal)
   Updated: 2026-09-17T03:50:20Z
@@ -1276,7 +1276,7 @@
   Updated: 2026-09-07T15:12:52Z
   Total Products: 1
 - [Espejos Vaginales y de Diagnóstico](https://prosalud.me/collections/espejos-vaginales-y-de-diagnostico): Espejos vaginales bivalvos desechables y de acero inoxidable, y valvas de Sims chica, mediana y grande. Envío a todo México.
-  Updated: 2026-11-02T21:33:31Z
+  Updated: 2026-11-14T15:13:03Z
   Total Products: 44
 - [Incubadoras](https://prosalud.me/collections/incubadoras): Incubadoras neonatales para el cuidado del recién nacido en hospital. Envío a todo México. Cotiza en PROSALUD.
   Updated: 2026-11-02T21:01:27Z
@@ -1288,7 +1288,7 @@
   Updated: 2026-11-02T21:03:02Z
   Total Products: 3
 - [Philips y Philips Respironics](https://prosalud.me/collections/philips-y-philips-respironics): Distribuidor Philips en México: monitores Efficia e IntelliVue, Holter DigiTrak XT, cardiotocógrafo Avalon FM20, desfibrilador DFM100, ventiladores Respironics y refacciones originales. CFDI.
-  Updated: 2026-10-29T15:20:40Z
+  Updated: 2026-11-14T15:19:33Z
   Total Products: 59
 - [Drager](https://prosalud.me/collections/drager): Catálogo de equipo médico Dräger: cuidado respiratorio, anestesia y monitoreo. Envío a todo México. Cotiza en PROSALUD.
   Updated: 2026-09-23T15:20:05Z
@@ -1303,10 +1303,10 @@
   Updated: 2026-10-28T04:36:36Z
   Total Products: 10
 - [Desinfectantes y Sanitizantes](https://prosalud.me/collections/desinfectantes-y-sanitizantes): Desinfectantes y sanitizantes de superficies para clínicas: concentrados diluibles, ácido hipocloroso, cuaternarios, gel antibacterial y presentaciones de 1 a 1000 litros. CFDI y precio por volumen.
-  Updated: 2026-11-06T05:01:31Z
+  Updated: 2026-11-14T01:29:26Z
   Total Products: 92
 - [Termómetros Clínicos y de Refrigeración](https://prosalud.me/collections/termometros-clinicos-y-de-refrigeracion): Termómetros digitales axilares y flexibles, infrarrojos de frente y oído sin contacto, de pared con alarma, bimetálicos y para refrigerador y hielera. Omron, Beurer, Microlife, Taylor. CFDI.
-  Updated: 2026-10-30T00:43:03Z
+  Updated: 2026-11-14T15:17:31Z
   Total Products: 100
 - [Mascarillas N95 y KN95](https://prosalud.me/collections/mascarillas-n95-y-kn95): Mascarillas N95 y KN95 de 3 y 4 capas, certificadas, en caja de 20 a 1000 piezas, adulto e infantil. Komask y Ambiderm. Precio por volumen, CFDI y envío a todo México.
   Updated: 2026-10-29T15:20:42Z
@@ -1318,44 +1318,44 @@
   Updated: 2026-10-30T00:43:06Z
   Total Products: 101
 - [Imagenología y Diagnóstico](https://prosalud.me/collections/imagenologia-y-diagnostico): Equipos de imagen y sus accesorios: rayos X fijo, móvil y portátil, ultrasonidos, transductores, mastógrafos, tomógrafos y negatoscopios. COFEPRIS, CFDI y envío a todo México.
-  Updated: 2026-10-30T00:42:51Z
+  Updated: 2026-11-14T15:19:35Z
   Total Products: 545
 - [Monitoreo y Signos Vitales](https://prosalud.me/collections/monitoreo-y-signos-vitales): Monitores de signos vitales portátiles, de mesa y de traslado, con SpO₂, PANI, ECG y capnografía. Factura CFDI y envío a todo México.
-  Updated: 2026-11-04T06:50:01Z
+  Updated: 2026-11-14T15:19:32Z
   Total Products: 936
 - [Cuidado Respiratorio: Oxigenoterapia e Insumos](https://prosalud.me/collections/cuidado-respiratorio-oxigenoterapia-e-insumos): Cánulas nasales, mascarillas de oxígeno, circuitos para ventilador, nebulizadores, humidificación, succión cerrada y consolas de gases. Fisher & Paykel, Salter Labs, Ventlab, Ambu. CFDI.
-  Updated: 2026-11-06T05:01:30Z
+  Updated: 2026-11-14T15:19:33Z
   Total Products: 950
 - [Especialidades Clínicas](https://prosalud.me/collections/especialidades-clinicas): Equipo médico por especialidad: electrocirugía y criocirugía, videolaringoscopios, audiometría y timpanometría, colposcopía, otorrinolaringología y oftalmología. COFEPRIS, CFDI y envío a todo México.
-  Updated: 2026-11-02T21:05:10Z
+  Updated: 2026-11-14T15:19:20Z
   Total Products: 739
 - [Mobiliario Hospitalario](https://prosalud.me/collections/mobiliario-hospitalario): Mobiliario hospitalario: camas eléctricas, camillas de traslado y recuperación, sillas de ruedas, mesas puente, bancos giratorios, consolas de cabecera y vitrinas. Linet, Hill-Rom, Moec, Herlis. CFDI.
-  Updated: 2026-11-02T21:05:10Z
+  Updated: 2026-11-14T15:19:29Z
   Total Products: 2127
 - [Equipo de Protección Personal (EPP)](https://prosalud.me/collections/equipo-de-proteccion-personal-epp): EPP para unidades médicas: guantes de látex y nitrilo estériles y de examen, cubrebocas tricapa y N95, batas y gorros desechables, protección ocular. Ambiderm, Dentilab. Compra por volumen con CFDI.
-  Updated: 2026-11-02T21:05:14Z
+  Updated: 2026-11-14T15:18:31Z
   Total Products: 127
 - [Higiene, Desinfección y Sanitización](https://prosalud.me/collections/higiene-desinfeccion-y-sanitizacion): Desinfectantes y sanitizantes de uso médico, gel antibacterial, antisépticos de piel, tapetes sanitizantes, dispensadores y equipo de nebulización. Compra por volumen con CFDI y envío a todo México.
-  Updated: 2026-11-06T05:01:31Z
+  Updated: 2026-11-14T15:19:02Z
   Total Products: 221
 - [Manejo y Logística](https://prosalud.me/collections/manejo-y-logistica): Carros de transporte y porta equipos, carros para cilindros de oxígeno, grúas para paciente, sillas de traslado y termos para vacunas con refrigerantes. Herlis, Moec, Coleman. CFDI.
-  Updated: 2026-10-30T00:42:35Z
+  Updated: 2026-11-14T15:19:15Z
   Total Products: 633
 - [Novedades](https://prosalud.me/collections/novedades): Descubre los nuevos ingresos y lanzamientos de equipo médico e insumos en PROSALUD. Registro COFEPRIS, garantía y factura CFDI. Envío a todo México.
-  Updated: 2026-11-06T05:01:31Z
-  Total Products: 16220
+  Updated: 2026-11-14T15:19:35Z
+  Total Products: 16219
 - [Welch Allyn](https://prosalud.me/collections/welch-allyn): Compra equipo Welch Allyn en México: diagnóstico clínico. Cotización para hospitales, clínicas y gobierno, factura CFDI y envío a todo el país.
-  Updated: 2026-10-30T00:48:07Z
-  Total Products: 405
+  Updated: 2026-11-14T15:17:11Z
+  Total Products: 406
 - [Mindray](https://prosalud.me/collections/mindray): Compra equipo Mindray en México: monitoreo, ultrasonido y desfibrilación. Cotización para hospitales, clínicas y gobierno, factura CFDI y envío a todo el país.
-  Updated: 2026-10-30T00:48:07Z
-  Total Products: 157
+  Updated: 2026-11-14T15:20:17Z
+  Total Products: 159
 - [Riester](https://prosalud.me/collections/riester): Compra equipo Riester en México: instrumental de diagnóstico. Cotización para hospitales, clínicas y gobierno, factura CFDI y envío a todo el país.
   Updated: 2026-10-30T00:48:07Z
   Total Products: 137
 - [Herlis](https://prosalud.me/collections/herlis): Compra equipo Herlis en México: mobiliario hospitalario y de consultorio. Cotización para hospitales, clínicas y gobierno, factura CFDI y envío a todo el país.
-  Updated: 2026-10-30T00:48:08Z
-  Total Products: 467
+  Updated: 2026-11-14T15:14:58Z
+  Total Products: 475
 - [Hergom](https://prosalud.me/collections/hergom): Compra instrumental quirúrgico Hergom en México. Cotización para hospitales, clínicas y gobierno, factura CFDI y envío a todo el país.
   Updated: 2026-11-04T06:50:03Z
   Total Products: 398
@@ -1366,14 +1366,14 @@
   Updated: 2026-10-30T00:48:08Z
   Total Products: 110
 - [3M](https://prosalud.me/collections/3m): Compra insumos médicos 3M en México: esterilización, cintas y calentamiento de pacientes. Cotización con factura CFDI y envío nacional.
-  Updated: 2026-10-30T00:48:08Z
-  Total Products: 116
+  Updated: 2026-11-14T15:18:13Z
+  Total Products: 118
 - [Karl Storz](https://prosalud.me/collections/karl-storz): Compra equipo Karl Storz en México: endoscopia y cirugía de mínima invasión. Cotización para hospitales, clínicas y gobierno, con factura CFDI.
   Updated: 2026-10-30T00:48:08Z
   Total Products: 40
 - [Omron](https://prosalud.me/collections/omron): Compra equipo Omron en México: baumanómetros digitales y nebulizadores. Cotización para hospitales, clínicas y gobierno, factura CFDI y envío a todo el país.
-  Updated: 2026-10-30T00:48:08Z
-  Total Products: 46
+  Updated: 2026-11-14T15:11:15Z
+  Total Products: 47
 - [Midmark](https://prosalud.me/collections/midmark): Compra equipo Midmark en México: mesas de exploración y esterilización. Cotización para hospitales, clínicas y gobierno, factura CFDI y envío a todo el país.
   Updated: 2026-10-30T00:48:09Z
   Total Products: 36
@@ -1381,14 +1381,14 @@
   Updated: 2026-10-30T00:48:09Z
   Total Products: 29
 - [Zoll](https://prosalud.me/collections/zoll): Compra equipo Zoll en México: desfibrilación y ventilación. Cotización para hospitales, clínicas y gobierno, factura CFDI y envío a todo el país.
-  Updated: 2026-10-30T00:48:09Z
-  Total Products: 30
+  Updated: 2026-11-14T15:20:03Z
+  Total Products: 31
 - [Linet](https://prosalud.me/collections/linet): Camas de hospital Linet en México: Eleganza, Multicare, Praktika e Imagen 3. Qué determina el precio y cotización por pieza o volumen con factura CFDI.
   Updated: 2026-11-02T22:17:10Z
   Total Products: 31
 - [BTL](https://prosalud.me/collections/btl): Compra equipo BTL en México: fisioterapia y diagnóstico. Cotización para hospitales, clínicas y gobierno, factura CFDI y envío a todo el país.
-  Updated: 2026-11-04T06:50:02Z
-  Total Products: 41
+  Updated: 2026-11-14T14:17:59Z
+  Total Products: 40
 
 ## Blogs
 
