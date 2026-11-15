@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-24T12:23:35Z
 - Contact Email: hobbsgoofficial@gmail.com
-- Updated At: 2026-11-07T01:03:06.439Z
+- Updated At: 2026-11-15T01:04:15.231Z
 
 ## Products
 
 - [Drools Chicken and Egg  Dog Dry Food | HobbsGo](https://hobbsgo.com/products/drools-chicken-and-egg--dog-food-400g): Shop Drools Chicken and Egg  Dog Dry Food at HobbsGo. Complete daily nutrition with quality protein. Genuine brand, quick Lucknow delivery.
-  Updated: 2026-10-29T09:34:16Z
+  Updated: 2026-11-13T10:58:16Z
   Vendor: Drools
   Product Type: Dry Food
   Availability: Available
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/drools-chicken-and-eggs--1_2kg_85c94f36-d763-4b79-b7d2-536a9610102e.jpg?v=1763957445
     Price: ₹247.00 INR
 - [Drools Chicken and Egg Puppy Dog Dry Food | HobbsGo](https://hobbsgo.com/products/drools-chicken-and-egg-puppy-dog-food): Buy Drools Chicken and Egg Puppy Dog Dry Food at HobbsGo. Balanced growth nutrition with DHA and calcium. Trusted seller, fast delivery in Lucknow.
-  Updated: 2026-11-06T10:32:36Z
+  Updated: 2026-11-14T08:49:04Z
   Vendor: Drools
   Product Type: Dry Food
   Availability: Available
@@ -271,7 +271,7 @@
     Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/purepet-chicken-and-veg-puppy-1kg_569f28b0-903d-4ae9-aa03-ca728aafed99.jpg?v=1763958816
     Price: ₹189.05 INR
 - [Royal Canin Maxi Starter Dog Dry Food | HobbsGo](https://hobbsgo.com/products/maxi-starter): Order Royal Canin Maxi Starter Dog Dry Food at HobbsGo. High-energy weaning food for pups and nursing mums. Fast delivery across Lucknow & India.
-  Updated: 2026-11-04T13:38:56Z
+  Updated: 2026-11-07T08:32:56Z
   Vendor: Royal Canin
   Product Type: Dog Food
   Availability: Available
@@ -315,7 +315,7 @@
     Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/Mini_Starter_8kg.jpg?v=1764062112
     Price: ₹6,600.00 INR
 - [Royal Canin Maxi Puppy Dry Food | HobbsGo](https://hobbsgo.com/products/maxi-puppy): Buy Royal Canin Maxi Puppy Dry Food at HobbsGo. Balanced growth nutrition with DHA and calcium. Trusted seller, fast delivery in Lucknow.
-  Updated: 2026-11-04T06:13:28Z
+  Updated: 2026-11-07T08:34:36Z
   Vendor: Royal Canin
   Product Type: Dog Food
   Availability: Available
@@ -411,7 +411,7 @@
     Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/Royal_Canin_Mini_Adult_800gm.webp?v=1764577977
     Price: ₹772.80 INR
 - [Royal Canin Kitten Dry Food | HobbsGo](https://hobbsgo.com/products/kitten-36): Order Royal Canin Kitten Dry Food at HobbsGo. Complete kitten formula with DHA for growth. Best price, delivery across India.
-  Updated: 2026-10-18T06:31:17Z
+  Updated: 2026-11-12T09:51:26Z
   Vendor: Royal Canin
   Product Type: Cat Food
   Availability: Available
@@ -458,7 +458,7 @@
     Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/Persian_Kitten_1kg_522d37c6-d638-4320-83fc-c91ed32f801d.jpg?v=1764068860
     Price: ₹546.00 INR
 - [Royal Canin Persian Cat Dry Food | HobbsGo](https://hobbsgo.com/products/fbn-persian): Shop Royal Canin Persian Cat Dry Food at HobbsGo. High-protein daily meal for  cats. Best price, delivery across India.
-  Updated: 2026-10-21T10:35:05Z
+  Updated: 2026-11-12T06:18:41Z
   Vendor: Royal Canin
   Product Type: Cat Food
   Availability: Available
@@ -544,7 +544,7 @@
     Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/Pedigree_Adult_Chicken_Vegetables_1kg.png?v=1764573682
     Price: ₹269.00 INR
 - [Pedigree Puppy Chicken & Milk Dog Dry Food | HobbsGo](https://hobbsgo.com/products/pcm-2-8kg-po): Buy Pedigree Puppy Chicken & Milk Dog Dry Food at HobbsGo. Balanced growth nutrition with DHA and calcium. Genuine brand, quick Lucknow delivery.
-  Updated: 2026-11-06T05:42:36Z
+  Updated: 2026-11-13T13:39:36Z
   Vendor: Pedigree
   Product Type: Dog Food
   Availability: Available
@@ -1080,7 +1080,7 @@
     Availability: Available
     Price: ₹163.00 INR
 - [Durable Braided Nylon Rope Dog Leash | HobbsGo](https://hobbsgo.com/products/durable-braided-nylon-rope-dog-leash): Order Durable Braided Nylon Rope Dog Leash at HobbsGo. Durable, comfortable design for everyday pet use. Trusted seller, fast delivery in Lucknow.
-  Updated: 2026-11-02T10:27:07Z
+  Updated: 2026-11-07T10:07:15Z
   Vendor: HobbsGo
   Product Type: Leash & Collar
   Availability: Available
@@ -1104,7 +1104,7 @@
     Availability: Available
     Price: ₹340.00 INR
 - [Reflective Pet Collars | HobbsGo](https://hobbsgo.com/products/reflective-pet-collar): Buy Reflective Pet Collars at HobbsGo. Durable, comfortable design for everyday pet use. Fast delivery across Lucknow & India.
-  Updated: 2026-10-18T12:19:06Z
+  Updated: 2026-11-14T11:59:55Z
   Vendor: HobbsGo
   Product Type: Leash & Collar
   Availability: Available
@@ -1474,7 +1474,7 @@
     Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/Cat_Litter_Scooper_d063104e-42a5-45b1-bed9-fb9018dba2ef.png?v=1772218551
     Price: ₹111.00 INR
 - [Small Cat Litter Scoop | HobbsGo](https://hobbsgo.com/products/small-cat-litter-scoop): Buy Small Cat Litter Scoop at HobbsGo. Quick-clumping, low-dust natural clay litter. Genuine brand, quick Lucknow delivery.
-  Updated: 2026-10-14T08:14:15Z
+  Updated: 2026-11-08T06:51:45Z
   Vendor: HobbsGo
   Product Type: Accesssories
   Availability: Available
@@ -1794,7 +1794,7 @@
     Availability: Available
     Price: ₹792.00 INR
 - [JerHigh Chicken Jerky Dog Stick Treats 50gm | HobbsGo](https://hobbsgo.com/products/jerhigh-chicken-jerky-dog-stick-treats): Buy JerHigh Chicken Jerky Dog Stick Treats 50gm at HobbsGo. Real chicken bite-sized treats for training and reward. Fast delivery across Lucknow & India.
-  Updated: 2026-10-30T12:18:56Z
+  Updated: 2026-11-12T06:34:03Z
   Vendor: JerHigh
   Product Type: Dog Food
   Availability: Available
@@ -1908,13 +1908,13 @@
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/711CAIce-JL._AC_SL1500.jpg?v=1784283742
   Price: ₹170.00 INR
 - [HobbsGo Poop Scooper | Pet Waste Picker | India | HobbsGo](https://hobbsgo.com/products/poop-scooper-for-dogs-dog-potty-picker-potty-animal-waste-cleaner): Order HobbsGo Dog Poop Scooper | Pet Waste Picker | India at HobbsGo. Durable, comfortable design for everyday pet use. Best price, delivery across India.
-  Updated: 2026-10-12T07:36:06Z
+  Updated: 2026-11-12T09:12:46Z
   Vendor: HobbsGo
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/71olm2XmZyL._AC_SL1500.jpg?v=1778961868
   - [S](https://hobbsgo.com/products/poop-scooper-for-dogs-dog-potty-picker-potty-animal-waste-cleaner?variant=51643021164834)
-    Availability: Available
+    Availability: Not Available
     Price: ₹196.00 INR
   - [L](https://hobbsgo.com/products/poop-scooper-for-dogs-dog-potty-picker-potty-animal-waste-cleaner?variant=51643021197602)
     Availability: Available
@@ -2002,7 +2002,7 @@
     Availability: Not Available
     Price: ₹638.00 INR
 - [Chicken Jerky Dog Treats - 500g Training Pack | HobbsGo](https://hobbsgo.com/products/chicken-munchy): Real chicken jerky treats, high in protein and low in fat. Ideal training rewards or daily snacks for dogs of all ages. 500g pack. Buy dog treats in India.
-  Updated: 2026-10-12T07:40:00Z
+  Updated: 2026-11-07T10:30:55Z
   Vendor: HobbsGo
   Product Type: Dog Treats
   Availability: Available
@@ -2089,7 +2089,7 @@
     Availability: Available
     Price: ₹553.00 INR
 - [Optimum All In One Fish Food | HobbsGo](https://hobbsgo.com/products/optimum-all-in-one-fish-food): Shop Optimum All In One Fish Food at HobbsGo. Complete daily nutrition for aquarium fish. Genuine brand, quick Lucknow delivery.
-  Updated: 2026-10-09T05:33:41Z
+  Updated: 2026-11-13T08:31:06Z
   Vendor: Optimum
   Product Type: Fish Food
   Availability: Available
@@ -2199,7 +2199,7 @@
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/51yKds2-q4L._AC_SL1001_1898306a-b6c8-4366-b520-be53593a128d.jpg?v=1778961914
   Price: ₹170.00 INR
 - [Bow Collar for Dogs & Cats - Adjustable Nylon | HobbsGo](https://hobbsgo.com/products/bow-collar-nylon-belt-for-dog-and-cats): A lightweight nylon collar with a sweet bow detail and D-ring for ID tags. Adjustable buckle fit for cats and small dogs. Buy pet collars online in India.
-  Updated: 2026-10-27T09:38:01Z
+  Updated: 2026-11-08T09:50:45Z
   Vendor: HobbsGo
   Product Type: Accessories
   Availability: Available
@@ -2213,7 +2213,7 @@
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/81VVaLi-qpL._AC_SL1500.jpg?v=1784283729
   Price: ₹128.00 INR
 - [Cat Wand Toy - Interactive Teaser Stick | HobbsGo](https://hobbsgo.com/products/cats-kittens-playing-sticks): A classic wand teaser that triggers your cat's chase-and-pounce instinct. Great for bonding play and burning indoor energy. Buy cat toys online in India.
-  Updated: 2026-10-12T07:36:14Z
+  Updated: 2026-11-14T11:53:30Z
   Vendor: HobbsGo
   Product Type: Accessories
   Availability: Available
@@ -2238,7 +2238,7 @@
     Availability: Available
     Price: ₹193.20 INR
 - [JerHigh Chicken & Banana Jerky - 70 g | HobbsGo](https://hobbsgo.com/products/jerhigh-chicken-chicken-banana-dog-treat-70g): Shop JerHigh Chicken & Banana Jerky - 70 g at HobbsGo. Real chicken bite-sized treats for training and reward. Genuine brand, quick Lucknow delivery.
-  Updated: 2026-10-28T08:51:46Z
+  Updated: 2026-11-14T13:28:06Z
   Vendor: JerHigh
   Product Type: Dog Treats
   Availability: Available
@@ -2378,7 +2378,7 @@
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/71rWtGf1jAL._AC_SL1500.jpg?v=1778961933
   Price: ₹128.00 INR
 - [Bell Toy for Cats & Dogs | HobbsGo](https://hobbsgo.com/products/bell-for-cat-dog-toy): Order Bell Toy for Cats & Dogs at HobbsGo. Durable, comfortable design for everyday pet use. Trusted seller, fast delivery in Lucknow.
-  Updated: 2026-10-24T14:27:36Z
+  Updated: 2026-11-14T11:59:55Z
   Vendor: HobbsGo
   Product Type: Accessories
   Availability: Available
@@ -2967,7 +2967,7 @@
     Availability: Available
     Price: ₹440.00 INR
 - [Fetch Printed Check Dog Collar - 10mm Nylon | HobbsGo](https://hobbsgo.com/products/fetch-printed-check-collar-10mm): A 10mm nylon collar in a Fetch-themed checks print with adjustable buckle and ID tag D-ring. Ideal for puppies and small breeds. Buy collars in India.
-  Updated: 2026-10-12T07:36:40Z
+  Updated: 2026-11-14T11:51:02Z
   Vendor: HobbsGo
   Product Type: Accessories
   Availability: Available
@@ -2994,7 +2994,7 @@
   Updated: 2026-09-15T21:12:03Z
   Total Products: 32
 - [Cat Dry Food](https://hobbsgo.com/collections/cat-dry-food): Shop specialized dry cat food at Hobbsgo. From growth-focused kitten kibble to tailored Persian cat formulas and balanced  diets, we have it all. Quality nutrition for every stage and breed.
-  Updated: 2026-09-18T15:12:26Z
+  Updated: 2026-11-12T12:17:46Z
   Total Products: 46
 - [Dog Wet Food](https://hobbsgo.com/collections/dog-wet-food): Treat your pup to a delicious meal with HobbsGo’s wet dog food collection. From savory chunks in gravy to smooth pâtés, find high-protein recipes for all breeds. Perfect as a topper or a full meal. Shop now!
   Updated: 2026-10-24T15:12:42Z
@@ -3030,7 +3030,7 @@
   Updated: 2026-11-04T12:15:43Z
   Total Products: 101
 - [10% off on Dog & Cat Food](https://hobbsgo.com/collections/10-off-on-dog-cat-food): Save 10% on premium nutrition for your pets. Shop our best- range of dry and wet food for dogs and cats. High-quality ingredients at prices you’ll love.
-  Updated: 2026-11-04T12:15:43Z
+  Updated: 2026-11-12T12:17:46Z
   Total Products: 171
 - [15% off on Dog & Cat Accessories](https://hobbsgo.com/collections/20-off-on-dog-cat-accessories): Level up your pet's style for less! Enjoy a flat 20%  on all pet accessories, including durable dog leashes & harnesses, beds, interactive cat toys, and designer bowls.
   Updated: 2026-11-04T12:15:43Z
