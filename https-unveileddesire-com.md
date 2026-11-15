@@ -6,1465 +6,1970 @@
 - Timezone: Europe/London
 - Created At: 2025-01-04T12:21:48Z
 - Contact Email: info@unveileddesire.com
-- Updated At: 2026-11-07T01:00:55.925Z
+- Updated At: 2026-11-15T01:05:40.215Z
 
 ## Products
 
-- [Liora Pulse](https://unveileddesire.com/products/silicone-realistic-vibrator): Liora Pulse – Feel the Vibrations Description:Step up your pleasure game with the Liora Pulse Silicone Vibrator. Its realistic veined shaft and contoured bulbous head provide lifelike sensations, while the silky-smooth silicone ensures a comfortable experience every time. With 7 stimulating functions to explore and a waterproof design, the Liora Pulse is perfect for both solo indulgence and intimate moments in the bath or shower. Let the waves of pleasure flow with every pulse. Specifications: Realistic veined texture and contoured head for lifelike pleasure Made from body-safe, ultra-soft silicone 7 stimulating functions for customizable satisfaction Waterproof for bath or shower fun Easy push-button control for seamless function changes Use with water-based lubricants for the best experience. Clean after each use with toy cleaner or mild soap and water.
-  Updated: 2026-10-16T17:23:43Z
-  Vendor: Unveiled Desire
+- [Tabooboo Take Me Back To Bed Remote Control Love Egg](https://unveileddesire.com/products/tabooboo-take-me-back-to-bed-remote-love-egg): Tabooboo Take Me Back To Bed remote control love egg: textured side, 10 functions, waterproof, USB rechargeable. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Tabooboo
+  Product Type: Remote Control Toy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41608980_large_d8f728e8-9906-44b5-8a47-9ef95de2a631.png?v=1794328302
+  Price: £20.99 GBP
+- [Asstronaut Glow-in-the-dark Butt Play Set Butt Plug](https://unveileddesire.com/products/asstronaut-glow-in-the-dark-butt-play-set-butt-plug): Discover the thrill of the backdoor. Shop the Asstronaut Glow-in-the-dark Butt Play Set Butt Plug, discreet UK delivery.
+  Updated: 2026-11-14T14:17:43Z
+  Vendor: b-Vibe
+  Product Type: Butt Plug
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40673841_large_6acd7468-29ea-4d4f-ab5e-83ad85e8f1c6.png?v=1794328302
+  Price: £146.99 GBP
+- [Happy Rabbit Couple's Pleasure Kit](https://unveileddesire.com/products/happy-rabbit-couples-pleasure-kit): Double the touch, double the bliss. Body-safe silicone, waterproof, USB rechargeable. Shop the Happy Rabbit Couple's Pleasure Kit with discreet UK delivery.
+  Updated: 2026-11-14T14:17:43Z
+  Vendor: Happy Rabbit
+  Product Type: Rabbit Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40676996_large_6a3a2eff-b2d0-404a-9626-6901d9836982.png?v=1794328308
+  Price: £90.99 GBP
+- [B-Vibe Anal Training Set - Black Butt Plug](https://unveileddesire.com/products/b-vibe-anal-training-set-black-butt-plug): Snug, secure and wonderfully teasing. Body-safe silicone. Shop the B-Vibe Anal Training Set - Black Butt Plug with discreet UK delivery.
+  Updated: 2026-11-14T14:17:43Z
+  Vendor: b-Vibe
+  Product Type: Butt Plug
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34106847_large_79d5eaa9-0bae-48ab-b17c-e148d0c06208.png?v=1794328307
+  Price: £117.99 GBP
+- [Sexy 6 Dice Couples Game, Pride Edition](https://unveileddesire.com/products/sexy-6-pride-ed): Six dice decide who leads, the props, the outfit, foreplay and positions, with 720 combinations. Sexy 6 Pride Edition. Free UK delivery over £35.
+  Updated: 2026-11-14T14:17:43Z
+  Vendor: Creative Conceptions
+  Product Type: Games
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/24668238_large_86b803a5-2948-44a4-9022-34bb9c362589.png?v=1794328312
+  Price: £20.99 GBP
+- [ON XO Kisses Pleasure Kit with Lip Balm and Arousal Oil](https://unveileddesire.com/products/on-xo-kisses-orgasms-pleasure-kit): A black gift tin with ON strawberry buzzing lip balm, ON Natural Arousal Oil (5 ml) and a sexy kissing guide. Free UK delivery over £35.
+  Updated: 2026-11-14T14:17:43Z
+  Vendor: ON
+  Product Type: Gifts & Novelties
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40725881_large_ff1e9c76-3be8-4244-ae50-0f79937c4e24.png?v=1794328318
+  Price: £29.99 GBP
+- [Mina Starlight Silicone Dildo](https://unveileddesire.com/products/mina-starlight-silicone-dildo): Lifelike detail for truly satisfying fullness. Body-safe silicone. Shop the Mina Starlight Silicone Dildo with discreet UK delivery.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Loving Joy
   Product Type: Realistic Dildo
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/20341765_large_ebbee420-dda2-44cb-843c-11fc90eb5194.png?v=1738699571
-  Price: £29.54 GBP
-- [Desire - Sonata](https://unveileddesire.com/products/desire-by-sonata): Let Sonata guide you to the ultimate crescendo of pleasure. With its ultra-flexible, curved shaft and angled head, this sleek and powerful vibrator is designed to deliver exquisite G-spot stimulation. Specifications: Ergonomic curve for precise G-spot pleasure 3 speeds, 7 functions, and 10 modes Soft, body-safe silicone Compatible with all lubricants, including silicone USB rechargeable for uninterrupted bliss Experience a symphony of sensations with Sonata—where every touch is pure harmony.Specifications:- UPC : 657447108174- Features : Extra Strong, Multi-Speed, Multi-Vibration, Rechargeable
-  Updated: 2026-10-16T17:23:43Z
-  Vendor: Unveiled Desire
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/42038091_large_ea14d9d0-eae0-4cf6-89e0-126e1ad82ff4.png?v=1794328318
+  Price: £31.99 GBP
+- [Mina Taro Silicone Dildo](https://unveileddesire.com/products/mina-taro-silicone-dildo): The feel of the real thing, whenever you want it. Body-safe silicone. Shop the Mina Taro Silicone Dildo with discreet UK delivery.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Loving Joy
+  Product Type: Realistic Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/42038097_large_6fda67ce-4369-476f-ad8c-1a4df426fcf4.png?v=1794328323
+  Price: £31.99 GBP
+- [Mina Minty Silicone Dildo](https://unveileddesire.com/products/mina-minty-silicone-dildo): Natural curves. Real satisfaction. Body-safe silicone. Shop the Mina Minty Silicone Dildo with discreet UK delivery.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Loving Joy
+  Product Type: Realistic Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/42038103_large_0faf6f6b-0d27-4899-91fc-eda8cd0466b4.png?v=1794328324
+  Price: £31.99 GBP
+- [Mina Iridescent Silicone Dildo](https://unveileddesire.com/products/mina-iridescent-silicone-dildo): Natural curves. Real satisfaction. Body-safe silicone. Shop the Mina Iridescent Silicone Dildo with discreet UK delivery.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Loving Joy
+  Product Type: Realistic Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/42038085_large_886d403a-9c15-45b6-8499-ce38169a4930.png?v=1794328330
+  Price: £31.99 GBP
+- [ROMP Hype G-Spot Vibrator, Silicone, IPX7 Waterproof](https://unveileddesire.com/products/romp-hype-g-spot-vibrator-red): ROMP Hype: a curved, rechargeable G-spot vibrator in soft silicone with 6 intensities and 4 patterns. IPX7 waterproof. Free UK delivery over £35.
+  Updated: 2026-11-14T20:37:16Z
+  Vendor: Romp
   Product Type: G-Spot Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/cc.jpg?v=1746654707
-  Price: £50.59 GBP
-- [Desire - Fortuna Smoke](https://unveileddesire.com/products/desire-fortuna-smoke): Let Fortuna guide you to bliss with deep, rumbly G-spot vibrations and an ergonomic handle designed for effortless control. Made from premium, body-safe silicone, this luxurious vibe is your ticket to indulgence. Specifications: Powerful G-spot stimulation 3 speeds & 7 vibration functions 10 thrilling modes Ergonomic handle for comfort USB rechargeable Compatible with all lubricants Ready to roll the dice on pleasure? With Fortuna, you’re always in for a win.Specifications:- UPC : 657447108235- Material : Silicone- Features : Extra Strong, Multi-Speed, Multi-Vibration, Rechargeable
-  Updated: 2026-10-16T17:23:43Z
-  Vendor: Unveiled Desire
-  Product Type: G-Spot Vibrator
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/29857774_large_a1ee34ff-7998-46e6-84d4-de4b61f3d127.png?v=1794328330
+  Price: £27.99 GBP
+- [Tabooboo Under The Sheets Mini Wand Vibrator](https://unveileddesire.com/products/tabooboo-under-the-sheets-wand-vibrator): Tabooboo Under The Sheets mini wand vibrator: deep, rumbling vibrations, 10 functions, waterproof, USB rechargeable, 11.5 cm. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Tabooboo
+  Product Type: Wand Massager
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_97.png?v=1746654895
-  Price: £49.65 GBP
-- [Desire - Fortuna Blue](https://unveileddesire.com/products/desire-fortuna-blue): Get lucky with Fortuna, the elegantly designed vibe that delivers deep, rumbly G-spot vibrations. Featuring an ergonomic handle for effortless control, this luxurious pleasure tool is crafted from premium, body-safe silicone for a smooth, indulgent experience. Specifications: Powerful G-spot stimulation 3 speeds & 7 vibration functions 10 thrilling modes Ergonomic handle for comfort USB rechargeable Compatible with all lubricants, including silicone Let Fortuna take your pleasure to new heights—because luck is on your side.Specifications:- UPC : 657447108242- Material : Silicone- Features : Extra Strong, Multi-Speed, Multi-Vibration, Rechargeable
-  Updated: 2026-10-16T17:23:43Z
-  Vendor: Unveiled Desire
-  Product Type: G-Spot Vibrator
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41609296_large_bfc2e66b-91df-418e-b052-9a522c40144a.png?v=1794328336
+  Price: £17.99 GBP
+- [Loving Joy Silky Water-Based Lubricant 30 ml](https://unveileddesire.com/products/loving-joy-silky-lubricant-30ml): Loving Joy Silky water-based lube: long-lasting, pH neutral, vegan, toy and condom safe, 30 ml. Discreet UK delivery, free on orders over £35.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Loving Joy
+  Product Type: Lubricants
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/24db9976-e639-4467-ba2d-a15292fb9d5a.7ad3680cfeed58137e51645d2c3b3a42.jpg?v=1746654517
-  Price: £49.35 GBP
-- [Desire - Demure Caramel](https://unveileddesire.com/products/desire-demure-caramel): Indulge in discreet, travel-friendly pleasure with Demure, a wearable vibrator designed for dual vaginal and clitoral stimulation. Featuring dual motors and a sleek, ergonomic design, Demure is made from premium, body-safe silicone, textured for extra sensation. Whether you're at home or on the go, this versatile vibe provides 3 speeds, 7 functions, and 10 modes for a customized experience. Specifications: Dual motors for intense vaginal and clitoral stimulation 3 speeds, 7 functions, and 10 modes Made from premium, body-safe silicone Textured for added pleasure Rechargeable and compatible with all lubricants, including silicone Elevate your pleasure discreetly with Demure—perfect for any occasion.Specifications:- UPC : 657447108150- Material : Silicone- Features : For Travel, Multi-Speed, Multi-Vibration, Rechargeable
-  Updated: 2026-10-16T17:23:43Z
-  Vendor: Unveiled Desire
-  Product Type: Wereable and Remote Control Vibrator
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41458990_large_af93c720-15a8-4363-a845-780f8f04b3a9.png?v=1794328338
+  Price: £3.99 GBP
+- [Loving Joy Silk Hybrid Lubricant 30 ml](https://unveileddesire.com/products/loving-joy-silk-hybrid-lubricant-30ml): Loving Joy Silk hybrid lube: water and silicone blend, long-lasting, paraben free, vegan, condom safe, 30 ml pump. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Loving Joy
+  Product Type: Lubricants
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_166.png?v=1747227176
-  Price: £45.03 GBP
-- [Desire - Demure Lavender](https://unveileddesire.com/products/desire-demure-lavender): Demure is a wearable vibrator designed for ultimate pleasure, offering dual motors for intense vaginal and clitoral stimulation. Made from premium, body-safe silicone with a textured surface for extra sensation, Demure provides 3 speeds, 7 functions, and 10 modes to customize your experience. Rechargeable and compatible with all lubricants, including silicone, Demure is the perfect companion for pleasure on the go. Specifications: Dual motors for vaginal and clitoral stimulation 3 speeds, 7 functions, 10 modes Made of premium body-safe silicone Rechargeable Suitable with all lubricants, including silicone Discreet and travel-friendly design Specifications:- UPC : 657447108167- Material : Silicone- Insertable Length : 2.36- Features : For Travel, Multi-Speed, Multi-Vibration, Rechargeable
-  Updated: 2026-10-16T17:23:43Z
-  Vendor: Unveiled Desire
-  Product Type: Wereable and Remote Control Vibrator
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59488158_large_8b44ec37-e5eb-49ed-a3d0-a93002fec92b.png?v=1794328342
+  Price: £3.99 GBP
+- [Bound to Play. Beginners Blindfold](https://unveileddesire.com/products/bound-to-play-beginners-blindfold): Take away one sense, awaken all the others. Feathers. Shop the Bound to Play. Beginners Blindfold with discreet UK delivery.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Bound to Play
+  Product Type: Sensory Toys
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_164_18f3ef45-8731-4c9f-b7b0-8f5e1604b480.png?v=1747227091
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/33138504_large_690d8cfb-b27f-459a-b7ce-7b2cf012b71a.png?v=1794328343
+  Price: £7.99 GBP
+- [Bound to Play. Eye Mask and Feather Tickler Play Kit](https://unveileddesire.com/products/bound-to-play-eye-mask-and-feather-tickler-play-kit): Heighten every touch. Polyester. Shop the Bound to Play. Eye Mask and Feather Tickler Play Kit with discreet UK delivery.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Bound to Play
+  Product Type: Sensory Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/33138449_large_5d31b950-4354-474e-accd-611a2ddf1797.png?v=1794328348
+  Price: £14.99 GBP
+- [Bound to Please Silicone Spanking Paddle Grey](https://unveileddesire.com/products/bound-to-please-silicone-spanking-paddle-grey): A little sting, a lot of thrill. Body-safe silicone. Shop the Bound to Please Silicone Spanking Paddle Grey with discreet UK delivery.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Bound to Please
+  Product Type: Whips Floggers & Paddles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/20340386_large_6a6a0824-d29c-4987-988b-097f57bb409b.png?v=1794328348
+  Price: £11.99 GBP
+- [Bound to Please Strap Spanking Paddle](https://unveileddesire.com/products/bound-to-please-strap-spanking-paddle): A little sting, a lot of thrill. PVC. Shop the Bound to Please Strap Spanking Paddle with discreet UK delivery.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Bound to Please
+  Product Type: Whips Floggers & Paddles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/20338247_large_7b4108a8-2522-46e4-975c-b27b611341b2.png?v=1794328354
+  Price: £5.99 GBP
+- [Bound to Please Love Slapper Paddle](https://unveileddesire.com/products/bound-to-please-love-slapper-paddle): A little sting, a lot of thrill. PVC. Shop the Bound to Please Love Slapper Paddle with discreet UK delivery.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Bound to Please
+  Product Type: Whips Floggers & Paddles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/20338423_large_8e7a51b5-661b-4040-bc26-083e5db2bc00.png?v=1794328354
+  Price: £10.99 GBP
+- [Tabooboo The Lunch Break Bullet Vibrator](https://unveileddesire.com/products/tabooboo-the-lunch-break-bullet-vibrator): Tiny, discreet and surprisingly powerful. Shop the Tabooboo The Lunch Break Bullet Vibrator, discreet UK delivery.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Tabooboo
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41609288_large_704570e0-076f-40fc-8b60-04b57b868646.png?v=1794328361
+  Price: £12.99 GBP
+- [Loving Joy Slide Water-Based Lubricant 30 ml](https://unveileddesire.com/products/loving-joy-slide-water-based-lubricant-30ml): Loving Joy Slide water-based lube with aloe, pH neutral, vegan, toy and condom safe, 30 ml. Discreet UK delivery, free on orders over £35.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Loving Joy
+  Product Type: Lubricants
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41458880_large_367a7be5-7780-4675-bf23-06b1c803cfe5.png?v=1794328361
+  Price: £3.99 GBP
+- [Loving Joy Anal Lubricant 30 ml, Ultra Thick](https://unveileddesire.com/products/loving-joy-anal-lubricant-30ml): Loving Joy ultra-thick anal lube with aloe and plant-based ingredients, pH neutral, vegan, toy and condom safe, 30 ml. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Loving Joy
+  Product Type: Lubricants
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41458985_large_cbc46111-8e47-432a-807a-218c6fa6f8e9.png?v=1794328366
+  Price: £3.99 GBP
+- [Loving Joy Silicone Lubricant 30 ml, Waterproof](https://unveileddesire.com/products/loving-joy-silicone-lubricant-30ml): Loving Joy silicone lubricant: long-lasting, waterproof glide, paraben free, 30 ml dispenser bottle. Discreet UK delivery, free on orders over £35.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Loving Joy
+  Product Type: Lubricants
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40733905_large_1e157799-18b7-48a4-bdab-0de754f79ca5.png?v=1794328367
+  Price: £7.99 GBP
+- [Bound to Play. Feather Teaser](https://unveileddesire.com/products/bound-to-play-feather-teaser): Tease the skin, thrill the mind. Feathers. Shop the Bound to Play. Feather Teaser with discreet UK delivery.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Bound to Play
+  Product Type: Sensory Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/33138511_large_2e5610e7-10c1-45b6-9aaa-b114460ef79d.png?v=1794328373
+  Price: £10.99 GBP
+- [Bound to Please Flogger](https://unveileddesire.com/products/bound-to-please-flogger): A little sting, a lot of thrill. Pu. Shop the Bound to Please Flogger with discreet UK delivery.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Bound to Please
+  Product Type: Whips Floggers & Paddles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/20338828_large_c0eba9be-a823-4317-98d8-858aef51fc4f.png?v=1794328373
+  Price: £10.99 GBP
+- [Bound to Please Heart Slapper Paddle](https://unveileddesire.com/products/bound-to-please-heart-slapper-paddle): From playful taps to delicious intensity. PVC. Shop the Bound to Please Heart Slapper Paddle with discreet UK delivery.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Bound to Please
+  Product Type: Whips Floggers & Paddles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/20338417_large_46a6b1e0-6a80-4669-a01c-1c38c161ba3e.png?v=1794328379
+  Price: £10.99 GBP
+- [Bound to Play Kitty Cat Face Mask Black](https://unveileddesire.com/products/bound-to-play-kitty-cat-face-mask-black): Heighten every touch. Faux leather. Shop the Bound to Play Kitty Cat Face Mask Black with discreet UK delivery.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Bound to Play
+  Product Type: Sensory Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34615744_large_73401bd4-0640-4e4b-970b-c7b3913251d8.png?v=1794328379
+  Price: £12.99 GBP
+- [Little Genie Bedroom Bingo Scratch-Off Couples Game](https://unveileddesire.com/products/bedroom-bingo-scratch-off-romance-game): A two-part scratch-off bingo game for couples: foreplay challenges first, then position challenges. Get five in a row to win. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Little Genie
+  Product Type: Games
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/38890573_large_53d9bf84-9d68-4b3a-bfcc-a31316758c22.png?v=1794328385
+  Price: £7.99 GBP
+- [Little Genie The Dice Made Me Do It Party Edition Dice Game](https://unveileddesire.com/products/little-genie-the-dice-made-me-do-it-party): Roll the dice and follow the instructions for an evening of laughs with  friends. Little Genie party dice game. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Little Genie
+  Product Type: Games
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/32388189_large_d4d2d006-8c7b-417a-8679-16e5e1a58c6e.png?v=1794328385
+  Price: £6.99 GBP
+- [Secret Play  Play Couples Card Game, 55 Cards](https://unveileddesire.com/products/-play-playing-cards): Get to know your partner through questions, seduction and fantasies with this 55-card couples game by Secret Play. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Secret Play
+  Product Type: Games
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/22483509_large_a7e3be02-9027-413d-9626-380213b0cb35.png?v=1794328390
+  Price: £8.99 GBP
+- [Play and Roulette Couples Game, 22 cm Wheel](https://unveileddesire.com/products/play-and-roulette-game): Spin the three-part roulette wheel for an action, a body part and a time, then take turns. A playful game for couples. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Secret Play
+  Product Type: Games
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/22483514_large_ff1bb375-d0de-4189-9e3c-20771efb7ba9.png?v=1794328391
+  Price: £9.99 GBP
+- [Little Genie FU FM Go Fish Style  Party Card Game](https://unveileddesire.com/products/f-ck-you-f-ck-me-card-game): A cheeky, cheerfully rude twist on Go Fish from Little Genie. Ask for cards with flirty phrases and expect saucy replies. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Little Genie
+  Product Type: Games
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41192912_large_28e9d9e1-3f83-4f0f-b5df-d20d706f26ae.png?v=1794328397
+  Price: £9.99 GBP
+- [Me You Us Padded Velvet Wrist and Ankle Cuff Set](https://unveileddesire.com/products/me-you-us-padded-velvet-wrist-and-ankle-cuff-set): Trust, tease and total surrender. Velvet. Shop the Me You Us Padded Velvet Wrist and Ankle Cuff Set with discreet UK delivery.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Me You Us
+  Product Type: Restraints & Harnesses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/403946789_large_b6249a5f-1fed-4c40-a5d9-6673858ec519.png?v=1794328397
+  Price: £14.99 GBP
+- [Me You Us Padded Velvet Wrist Cuffs](https://unveileddesire.com/products/me-you-us-padded-velvet-wrist-cuffs): Trust, tease and total surrender. Velvet. Shop the Me You Us Padded Velvet Wrist Cuffs with discreet UK delivery.
+  Updated: 2026-11-14T14:25:37Z
+  Vendor: Me You Us
+  Product Type: Restraints & Harnesses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/403946787_large_f6cd6759-dd7e-439c-968b-312ce7e598d3.png?v=1794328403
+  Price: £8.99 GBP
+- [Strict Leather Pleather Pleasure Mini Flogger](https://unveileddesire.com/products/strict-leather-pleather-pleasure-mini-flogger): A little sting, a lot of thrill. Faux leather. Shop the Strict Leather Pleather Pleasure Mini Flogger with discreet UK delivery.
+  Updated: 2026-11-14T14:25:38Z
+  Vendor: Strict
+  Product Type: Whips Floggers & Paddles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15681063_large_cac50e82-df2a-4a56-b8da-98c699420414.png?v=1794328402
+  Price: £11.99 GBP
+- [Loving Joy 6 Inch Silicone Dildo with Suction Cup, Midnight Blue](https://unveileddesire.com/products/loving-joy-6-inch-silicone-dildo-with-suction-cup-midnight-blue): Loving Joy 6 Inch Silicone Dildo with Suction Cup: a realistic dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:29:49Z
+  Vendor: Loving Joy
+  Product Type: Realistic Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/20339263_large_d6f7972e-db52-4419-88ba-70133384aed1.png?v=1794328407
+  Price: £11.99 GBP
+- [Me You Us Curved Dildo Blue 6 Inch, Silicone](https://unveileddesire.com/products/me-you-us-curved-dildo-blue-6-inch): Me You Us Curved Dildo Blue 6 Inch: a realistic dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:33:40Z
+  Vendor: Me You Us
+  Product Type: Realistic Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34764987_large_19165873-1f26-4dca-adef-66c8b6faf1f0.png?v=1794328408
+  Price: £16.99 GBP
+- [Mina Thrill G-Spot Rabbit Vibrator](https://unveileddesire.com/products/mina-thrill-g-spot-rabbit-vibrator): Two sweet spots. One unforgettable sensation. Shop the Mina Thrill G-Spot Rabbit Vibrator, discreet UK delivery.
+  Updated: 2026-11-14T14:25:38Z
+  Vendor: Loving Joy
+  Product Type: Rabbit Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41603039_large_d74aa373-5154-45b0-8c6c-f315d694c29c.png?v=1794328414
+  Price: £39.99 GBP
+- [Mina Tide Thrusting Rabbit Vibrator](https://unveileddesire.com/products/mina-tide-thrusting-rabbit-vibrator): Double the touch, double the bliss. 5 functions, body-safe silicone, waterproof. Shop the Mina Tide Thrusting Rabbit Vibrator with discreet UK delivery.
+  Updated: 2026-11-14T14:25:38Z
+  Vendor: Loving Joy
+  Product Type: Rabbit Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41602763_large_3cb58fc9-834f-42f4-ac76-dcc17d97fa49.png?v=1794328414
+  Price: £44.99 GBP
+- [Mina Lover Rabbit Vibrator](https://unveileddesire.com/products/mina-lover-rabbit-vibrator): Inside and out, all at once. Body-safe silicone, waterproof, USB rechargeable. Shop the Mina Lover Rabbit Vibrator with discreet UK delivery.
+  Updated: 2026-11-14T14:25:38Z
+  Vendor: Loving Joy
+  Product Type: Rabbit Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59320100_large_ba07c318-924c-41e9-a63a-88c002f5ca7e.png?v=1794328421
+  Price: £35.99 GBP
+- [Mina Flutter Rabbit Vibrator](https://unveileddesire.com/products/mina-flutter-rabbit-vibrator): Double the touch, double the bliss. Body-safe silicone, waterproof, USB rechargeable. Shop the Mina Flutter Rabbit Vibrator with discreet UK delivery.
+  Updated: 2026-11-14T14:25:38Z
+  Vendor: Loving Joy
+  Product Type: Rabbit Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59320109_large_9caa971c-99f1-4fc4-9409-eb54b182e469.png?v=1794328421
+  Price: £35.99 GBP
+- [Mina Celeste 10 Function Love Egg](https://unveileddesire.com/products/mina-celeste-10-function-love-egg): Small enough to hide, strong enough to thrill. Shop the Mina Celeste 10 Function Love Egg, discreet UK delivery.
+  Updated: 2026-11-14T14:25:38Z
+  Vendor: Loving Joy
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59526297_large_4ccea795-57c2-4546-95b0-6cb159771da8.png?v=1794328426
+  Price: £38.99 GBP
+- [Mina Astral 10 Function Love Egg](https://unveileddesire.com/products/mina-astral-10-function-love-egg): Tiny, discreet and surprisingly powerful. 10 functions, body-safe silicone, waterproof. Shop the Mina Astral 10 Function Love Egg with discreet UK delivery.
+  Updated: 2026-11-14T14:25:38Z
+  Vendor: Loving Joy
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59526306_large_185e571f-0754-423d-8c78-fdd6feb07a3b.png?v=1794328427
+  Price: £38.99 GBP
+- [Mina Shimmer Strap-On Harness, Holographic | Loving Joy](https://unveileddesire.com/products/mina-shimmer-strap-on-harness): Loving Joy Mina Shimmer adjustable strap-on harness with holographic finish, 2 O-rings and bullet pocket. Fits UK 6–28. Free UK delivery over £35.
+  Updated: 2026-11-14T20:35:45Z
+  Vendor: Loving Joy
+  Product Type: Strap-On Kits
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65094509_large_cae5c2f1-154c-4fbb-9457-8b9f63ce5bee.png?v=1794328432
+  Price: £31.99 GBP
+- [Mina Lustre Strap-On Harness, Pink | Loving Joy](https://unveileddesire.com/products/mina-lustre-strap-on-harness): Loving Joy Mina Lustre adjustable strap-on harness with shiny pink finish, 2 O-rings and bullet pocket. Fits UK 6–28. Free UK delivery over £35.
+  Updated: 2026-11-14T20:35:46Z
+  Vendor: Loving Joy
+  Product Type: Strap-On Kits
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65094523_large_58992ee2-1776-445b-820b-42f2f91441fd.png?v=1794328433
+  Price: £31.99 GBP
+- [Mina Divine 10 Function Love Egg](https://unveileddesire.com/products/mina-divine-10-function-love-egg): Pocket-sized pleasure, wherever desire leads. 10 functions, body-safe silicone, waterproof. Shop the Mina Divine 10 Function Love Egg with discreet UK delivery.
+  Updated: 2026-11-14T14:25:38Z
+  Vendor: Loving Joy
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59526302_large_7650ebda-eb7a-46f9-bce2-09061070e058.png?v=1794328438
+  Price: £19.99 GBP
+- [Mina Eclipse Strap-On Harness, Black | Loving Joy](https://unveileddesire.com/products/mina-eclipse-strap-on-harness): Loving Joy Mina Eclipse adjustable strap-on harness with deep black finish, 2 O-rings and bullet pocket. Fits UK 6–28. Free UK delivery over £35.
+  Updated: 2026-11-14T20:35:47Z
+  Vendor: Loving Joy
+  Product Type: Strap-On Kits
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65094516_large_3ab28ee3-4d0a-4bd6-8ebc-b82a03d8f8a7.png?v=1794328439
+  Price: £31.99 GBP
+- [Bodywand 4 Play Suck And Buzz](https://unveileddesire.com/products/bodywand-4-play-suck-and-buzz): Deep, rumbling power from head to toe. Waterproof, USB rechargeable. Shop the Bodywand 4 Play Suck And Buzz with discreet UK delivery.
+  Updated: 2026-11-14T14:25:38Z
+  Vendor: Bodywand
+  Product Type: Wand Massager
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/494635636_large_da13ceeb-3faa-4293-be72-2e23a563dfee.png?v=1794328445
+  Price: £46.99 GBP
+- [Bodywand 4 Play Sweet Suction](https://unveileddesire.com/products/bodywand-4-play-sweet-suction): Melt tension away, then melt completely. Body-safe silicone, waterproof, USB rechargeable. Shop the Bodywand 4 Play Sweet Suction with discreet UK delivery.
+  Updated: 2026-11-14T14:25:38Z
+  Vendor: Bodywand
+  Product Type: Wand Massager
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/494635624_large_3c3894b6-69d1-4e18-a55b-1e19bd145c67.png?v=1794328446
   Price: £41.99 GBP
-- [Luxe - Blush Nimbus](https://unveileddesire.com/products/luxe-blush-nimbus): Experience the ultimate in sensual pleasure with the Nimbus Mini. Crafted from pure, body-safe silicone, this sleek vibe features a smooth satin finish that feels luxurious against the skin. With 10 vibrating functions, including 5 speeds and 5 unique rhythms, Nimbus Mini delivers a range of sensations that will keep you coming back for more. Its waterproof design makes for easy cleaning and enhances your bathtime play. Perfectly sized for discreet travel and foreplay, Nimbus Mini is ready to go wherever you are, whenever you desire. Specifications: 10 vibrating functions: 5 speeds, 5 rhythms Waterproof for easy cleaning and bathtime fun Made from pure, body-safe silicone Smooth satin finish for a luxurious feel Compact and travel-friendly size Compatible with water-based lubricants
-  Updated: 2026-08-29T07:39:52Z
-  Vendor: Blush
-  Product Type: Classic Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_112.png?v=1746737099
-  Price: £36.83 GBP
-- [Miyo - Raspberry](https://unveileddesire.com/products/shunga-miyo-intimate-massager-raspberry): MIYO – Double the Pleasure, Double the Ecstasy Indulge in the ultimate expression of luxury and passion with MIYO. Designed for the woman who desires intensified pleasure, MIYO envelops the clitoral region with precision while delivering deep, irresistible stimulation to the G-spot. Every curve is crafted for pure indulgence, ensuring an experience that is both effortless and exhilarating. Its seamless ergonomic design allows for a perfect grip, inviting you to surrender to your most decadent fantasies and revel in wave after wave of blissful ecstasy. Specifications: Dual-stimulation design for clitoral and G-spot pleasure 10 powerful vibration modes for tailored intensity Ultra-soft, body-safe silicone with a velvety finish Ergonomic grip for effortless control USB rechargeable for uninterrupted pleasure 100% waterproof for indulgence anywhere A masterpiece of pleasure—MIYO redefines sensual luxury.
-  Updated: 2026-10-16T17:23:43Z
-  Vendor: Shunga
-  Product Type: Dual Stimulation Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/0697309905015_S4005775_P00-1000x1000.jpg?v=1746653018
-  Price: £71.31 GBP
-- [Soyo - Purple](https://unveileddesire.com/products/shunga-soyo-intimate-massager-purple): SOYO – Ultimate Sensory Experience For the woman who wants it all! SOYO, with its meticulously designed structure and powerful vibrations, unlocks the gateway to multisensory pleasure. Step into a world of multiple orgasms, where every sensation is expertly crafted to leave you craving more. The unique intensity settings between the upper and lower chambers offer you complete control, targeting the clitoris, labia, perineum, and G-spot simultaneously. SOYO is your key to an unparalleled pleasure journey. Specifications: Dual-chamber design for targeted G-spot and clitoral stimulation Powerful and customizable vibration settings for complete control Soft, body-safe silicone for comfort and safety Whisper-quiet motor for discreet pleasure USB rechargeable for endless fun 100% waterproof for versatile play SOYO brings your fantasies to life with precision and intensity.
-  Updated: 2026-10-16T17:23:43Z
-  Vendor: Shunga
-  Product Type: Dual Stimulation Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/masseur-shunga-soyo-intimate-violet_3310.webp?v=1746652886
-  Price: £72.87 GBP
-- [Sanya - Black](https://unveileddesire.com/products/shunga-sanya-intimate-massager-black): SANYA – Ultimate Luxury and Sensory Pleasure For the woman who desires the ultimate refinement, SANYA offers softness, comfort, and flexibility. Its luxurious and ergonomic design, matched with its power, will satisfy all your desires. Thrills  in style! The finesse of its vibrations will give you a range of exhilarating sensations, leading you to the peak of vaginal or clitoral pleasure. Specifications: Material: Body-safe silicone Vibration modes: Multiple intensity settings Rechargeable: Yes, with USB cable Waterproof: Yes, for easy cleaning and bath-time play Quiet: Discreet for private enjoyment Size: 22 cm length, 4 cm diameter (approx.) Easy to clean and maintain.
-  Updated: 2026-10-16T17:23:43Z
-  Vendor: Shunga
-  Product Type: G-Spot Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/0697309903042_S4005770_P00-1000x1000.jpg?v=1746652726
-  Price: £69.07 GBP
-- [Sanya - Raspberry](https://unveileddesire.com/products/shunga-sanya-intimate-massager-raspberry): SANYA – Ultimate Luxury and Sensory Pleasure For the woman who desires the ultimate refinement, SANYA offers softness, comfort, and flexibility. Its luxurious and ergonomic design, matched with its power, will satisfy all your desires. Thrills  in style! The finesse of its vibrations will give you a range of exhilarating sensations, leading you to the peak of vaginal or clitoral pleasure. Specifications: Material: Body-safe silicone Vibration modes: Multiple intensity settings Rechargeable: Yes, with USB cable Waterproof: Yes, for easy cleaning and bath-time play Quiet: Discreet for private enjoyment Size: 22 cm length, 4 cm diameter (approx.) Easy to clean and maintain.
-  Updated: 2026-10-16T17:23:43Z
-  Vendor: Shunga
-  Product Type: G-Spot Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_87.png?v=1746652595
-  Price: £67.60 GBP
-- [Sanya - Purple](https://unveileddesire.com/products/shunga-sanya-intimate-massager-purple): SANYA – Ultimate Luxury and Sensory Pleasure For the woman who desires the ultimate refinement, SANYA offers softness, comfort, and flexibility. Its luxurious and ergonomic design, matched with its power, will satisfy all your desires. Thrills  in style! The finesse of its vibrations will give you a range of exhilarating sensations, leading you to the peak of vaginal or clitoral pleasure. Specifications: Material: Body-safe silicone Vibration modes: Multiple intensity settings Rechargeable: Yes, with USB cable Waterproof: Yes, for easy cleaning and bath-time play Quiet: Discreet for private enjoyment Size: 22 cm length, 4 cm diameter (approx.) Easy to clean and maintain.
-  Updated: 2026-10-16T17:23:43Z
-  Vendor: Shunga
-  Product Type: G-Spot Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/0697309903035_S4005769_P00-2-1000x1000.jpg?v=1746651814
-  Price: £68.38 GBP
-- [Aiko - Black](https://unveileddesire.com/products/shunga-aiko-intimate-massager-black): AIKO – Indulge in Unmatched Sensations AIKO was designed for the woman looking for new clitoral sensations. Its two powerful motors, wrapped in ultra-silky and flexible silicone, will surprise your clitoris by caressing it with softness. Enjoyment at its best! Its ten vibration modes will make you experience a multitude of emotions, all while making the pleasure last. Specifications: Material: Ultra-soft, body-safe silicone Vibration modes: 10 stimulating modes Dual motors: Powerful and independent for customized pleasure Rechargeable: Yes, via USB Waterproof: Yes, for easy cleaning and aquatic adventures Size: 10 cm length, 3 cm width (approx.) Effortlessly clean with warm water and mild soap for lasting enjoyment.
-  Updated: 2026-10-16T17:23:43Z
-  Vendor: Shunga
-  Product Type: Dual Stimulation Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_80.png?v=1746651593
-  Price: £57.87 GBP
-- [Obi - Black](https://unveileddesire.com/products/shunga-obi-intimate-massager-black): OBI – The Ultimate Clitoral Indulgence OBI is designed for the woman who seeks the ultimate in intense clitoral pleasure. Its powerful vibrations unlock a world of blissful sensations, guiding you to unparalleled orgasms. Thoughtfully crafted to envelop the clitoris, labia, and perineum, OBI offers a full spectrum of sensations, giving you the freedom to explore new heights of ecstasy. Every moment with OBI is a journey toward pure satisfaction—your happiness is just a vibration away. Specifications: Full coverage for clitoral, labial, and perineal stimulation Intense vibrations for mind-blowing pleasure Soft, body-safe silicone for the most comfortable experience Whisper-quiet motor for discreet indulgence USB rechargeable for endless enjoyment 100% waterproof for unlimited exploration OBI is where intense pleasure meets luxurious design.
-  Updated: 2026-10-16T17:23:43Z
-  Vendor: Shunga
-  Product Type: Wereable and Remote Control Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_79.png?v=1746650744
-  Price: £50.88 GBP
-- [Deep Blow Masturbator - Black](https://unveileddesire.com/products/deep-blow-masturbator-black): Deep Blow Black – Transparent Pleasure with a Twist Description:Dare to indulge in the sleek design and sensational pleasure of the Deep Blow White. This avant-garde manual masturbator is a masterpiece that combines aesthetic beauty with intense satisfaction. Its ergonomic case fits comfortably in the hand, while the ultra-elastic, soft sleeves adapt to your size for the perfect fit. The unique sleeve design alternates between narrow and wide channels, decorated with stimulating pearls for added excitement. Whether used with or without the case, the translucent material allows you to fully enjoy the visual experience. Elevate your pleasure with every stroke. Specifications: Ergonomic, hand-friendly design for comfort Ultra-elastic and soft sleeves for a perfect fit Alternating narrow and wide channels with pearl details for varied sensations Translucent material for a visually stimulating experience Can be used with or without the case Includes storage pouch & user manual.Specifications:- UPC : 3700436072905
-  Updated: 2026-08-29T07:39:58Z
-  Vendor: Dorcel
-  Product Type: Blow Masturbator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_5.png?v=1740236772
-  Price: £56.45 GBP
-- [Thrust Blow - Black](https://unveileddesire.com/products/thrust-blow-black): Thrust Blow – Automatic Masturbator with Suction Description:Ready to elevate your solo play? The Thrust Blow by Dorcel brings you an automatic back-and-forth movement, mimicking real-life sensations for an unforgettable experience. With a powerful suction cup for hands-free pleasure on any smooth surface, or used as a traditional masturbator without it, this  toy is designed to intensify your pleasure. Its soft sheath and textured channel enhance the experience, while the transparent window adds a visual element. Choose from 7 exciting toggle modes to customize your pleasure session. Specifications: Automatic back-and-forth movement for realistic sensations Powerful suction cup for hands-free use Can be used without suction cup as a traditional masturbator Soft, textured sheath for added comfort Removable parts for easy cleaning Transparent window for visual excitement 7 toggle modes for varied pleasure Dimensions: 30 x 9 cm (11.81 x 3.54 in.) | Length with suction cup: 39 cm (15.35 in.) | Length insertable: 15 cm (5.9 in.)Lithium battery | Charging time: 3h | Autonomy: 30 mins | USB rechargeable (cable supplied) | Sound level: 70db | Splashproof | Includes storage pouch & user manual.Specifications:- UPC : 3700436072868
-  Updated: 2026-10-16T17:23:43Z
-  Vendor: Dorcel
-  Product Type: Blow Masturbator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_78.png?v=1746650668
-  Price: £103.55 GBP
-- [Mini Must - Black/Gold](https://unveileddesire.com/products/mini-must-black-gold): Mini Must – Gold Vibrator for On-the-Go Pleasure Description:Meet the Mini Must, Dorcel's best- vibrator now in a luxurious gold and matte black silicone finish. This "must-have" vibrator is compact, measuring just 12.5 cm, making it perfect for slipping into your handbag or suitcase for discreet pleasure wherever you go. With its 10 cm insertable length and smooth silicone design, the Mini Must delivers delightful G-spot and vaginal stimulation in an instant. Whether you're on the go or need a quick pleasure boost, the Mini Must is your perfect companion for satisfying moments, anytime. Specifications: Compact design for easy portability 12.5 cm total length, 2.8 cm diameter 10 cm insertable length for targeted stimulation Waterproof for shower or bath use 10 vibration modes Requires AA battery (not included) Ideal for beginners, intermediates, and experts Storage pouch included.Specifications:- UPC : 3700436072011- Functions : Vibrating- Length: 5.0 in
-  Updated: 2026-10-16T17:23:43Z
-  Vendor: Dorcel
-  Product Type: G-Spot Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40671194_large_8a6410b8-42bd-41f4-8bdc-f1b91864a799.png?v=1746650580
-  Price: £41.27 GBP
-- [Fun Bag - Black](https://unveileddesire.com/products/fun-bag-black): FUN BAG – Dual Stimulation for Ultimate Pleasure Description:Elevate your pleasure with FUN BAG, the vibrating stimulator designed to enhance your erection and delay ejaculation. This super stretchy and ergonomic device targets both the penis and testicles, offering a unique dual stimulation experience. With nine vibration modes, you can enjoy tailored pleasure solo or with a partner. Made from soft silicone for comfort and designed to fit all sizes, FUN BAG is your key to double orgasmic satisfaction and ultimate pleasure. Specifications: 2.48 x 3.43 x 1.97 in. (6.3 x 8.7 x 5 cm) Made from soft silicone and ABS 9 vibration modes for customizable pleasure Fits all sizes for solo or couple use USB magnetic rechargeable (cable included) Recharge time: 70-120 minutes Runtime: 50 minutes Waterproof for use in the shower or bath Noise level: 45 dB Perfect for testicles, penis, and perineum stimulation.Specifications:- UPC : 3700436072479- Length: 3.0 in
-  Updated: 2026-10-16T17:23:43Z
-  Vendor: Dorcel
-  Product Type: Balls Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40671361_large_09744238-8aa7-484b-849e-52eb6f105f8b.png?v=1740236802
-  Price: £48.12 GBP
-- [Real Vibration S - Pink](https://unveileddesire.com/products/real-vibration-s-pink): Real Vibration S – Rechargeable Pleasure Generator Description:Introducing the Real Vibration S 2.0, the ultimate pleasure generator designed to elevate your intimate moments. With its sleek, compact design, this vibrator offers intense vaginal or clitoral stimulation, making it the perfect addition to your pleasure collection. Rechargeable for ultimate convenience, it ensures hours of enjoyment, all with the added benefit of being splashproof for easy cleaning. Specifications: Length: 6 inches (15.2 cm) Width: 1.33 inches (3.4 cm) 100% rechargeable (USB cable included) Splashproof for easy cleaning Ideal for vaginal or clitoral stimulation Experience powerful pleasure with the Real Vibration S, your new go-to toy.Specifications:- UPC : 3700436072189
-  Updated: 2026-10-16T17:23:43Z
-  Vendor: Dorcel
-  Product Type: G-Spot Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65079733_large_1fe70552-1dc1-4a4b-9cdf-dffe42bff0fe.png?v=1740236870
-  Price: £55.63 GBP
-- [Furious Rabbit 2.0 - Black](https://unveileddesire.com/products/furious-rabbit-2-0-black): Furious Rabbit 2.0 – Dual Motor Thrusting and Rotating Vibrator Description:Unleash ultimate pleasure with the Furious Rabbit 2.0! This powerful 3-in-1 thrusting vibrator combines a thrusting head, rotating beads, and vibrating ears for an unforgettable experience. Designed to stimulate both the G-spot and clitoris simultaneously, its ultra-soft silicone offers a luxurious feel. With 7 vibration modes and 3 thrusting speeds, you're in control of your pleasure like never before. USB rechargeable and ready to deliver blissful sensations for 45 minutes of pure enjoyment. Specifications: Insertable length: 14.5 cm 7 vibration modes 3 thrusting and rotating speeds USB rechargeable (charging time: 150 min, running time: 45 min) Ultra-soft silicone Double stimulation of the vagina and clitoris Experience the next level of pleasure with the Furious Rabbit 2.0.Specifications:- UPC : 3700436072523- Length: 5.7 in
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Dorcel
-  Product Type: Rabbit Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_75.png?v=1746650325
-  Price: £84.41 GBP
-- [Ultimate Expand - Black](https://unveileddesire.com/products/ultimate-expand-black): Ultimate Expand – Inflatable Pleasure with Dual Stimulation Description:Reach new heights of pleasure with the Ultimate Expand, an inflatable silicone vibrator designed to take your sensations to the next level. Customize your experience by choosing from seven inflation and vibration modes, allowing you to adjust the size for maximum satisfaction. With dual motors stimulating both your perineum and clitoris, Ultimate Expand delivers a fully immersive experience. Perfect for both anal and vaginal use, it’s made from ultra-soft, textured silicone and is splashproof for wet play. Specifications: Ultra-soft, textured silicone Dual motor for dual stimulation 7 vibrating & inflating modes Easy to inflate and deflate with customizable inflation levels Ideal for vaginal and anal use Splashproof For an experience that adapts to you, Ultimate Expand offers customizable pleasure that’s as unique as you are.Specifications:- UPC : 3700436072400- Material : Silicone- Functions : Inflatable- Features : Multi-Vibration, Rechargeable, Remote Controlled
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Dorcel
-  Product Type: Prostate Massager
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65079875_large_82b15057-f8bc-46e8-9c54-8fda83a3e6f6.png?v=1740236899
-  Price: £73.32 GBP
-- [Real Vibration M - Black/Gold](https://unveileddesire.com/products/real-vibration-m-black-gold): Real Vibration S 2.0 – Powerful Rechargeable Pleasure Description:Experience enhanced pleasure with the Real Vibration S 2.0, the smallest yet most powerful model in the Real Vibration series. Featuring 10 vibration modes, it’s more intense than the previous version, providing unmatched sensations. Its semi-realistic design is compact, splash-resistant, and rechargeable via USB. Recharging in just 2 hours, it offers up to 1.5 hours of satisfying vibrations, making it the perfect companion for quick and intense pleasure sessions. Specifications: 10 vibration modes for enhanced pleasure Rechargeable via USB, 2-hour charging time 1.5 hours of runtime Splashproof for use in the shower or bath Semi-realistic design Compact and discreet Perfect for those who want powerful, on-the-go stimulation.Specifications:- UPC : 3700436072233
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Dorcel
-  Product Type: G-Spot Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/6072233-image_1-real_vibration_m_2.0-dorcel-2000x2000.webp?v=1740236903
-  Price: £62.09 GBP
-- [Hype](https://unveileddesire.com/products/hype): Unlock Your Ultimate G-Spot Pleasure Get ready for intense, targeted G-spot stimulation with the Romp Hype. Its curved tip and velvety soft silicone make every thrust feel like a wave of pleasure, while 6 vibration modes and 4 patterns bring variety to your experience. Ergonomic Curve – Perfectly designed to hit your G-spot for intense pleasure. 6 Vibration Modes & 4 Patterns – Explore endless options to find your sweet spot. Tender Touch Silicone – Soft, body-safe, and ultra-hygienic. USB Rechargeable – Convenient, eco-friendly, and always ready for use. IPX7 Waterproof – Dive into playtime in the bath, shower, or pool. With Romp Hype, getting that mind-blowing G-spot orgasm has never been easier—or more fun!Specifications:- Brand : Romp- Barcode : 4251460601276- Size : OS- Color : Orange
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Romp
-  Product Type: G-Spot Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65099024_large_23c31c14-c2e9-4e11-a39a-9621dcb0874e-removebg-preview.png?v=1740237115
-  Price: £36.32 GBP
-- [Pop](https://unveileddesire.com/products/pop): The Ultimate Clitoral Stimulation Elevate your pleasure with Romp Pop, a high-frequency stimulator designed for versatility. Choose between two interchangeable heads for either precise, targeted sensations or flirty, flickering vibes. With 3 intensities and 3 vibration patterns, Romp Pop guarantees powerful, clitoral orgasms with a simple touch. Two Interchangeable Heads – For a variety of sensations: precise or flickering. 3 Intensities & 3 Vibration Patterns – Fully customizable pleasure experience. USB Rechargeable – Ready for endless enjoyment. Waterproof – Perfect for wet and wild fun. Compact, powerful, and always ready to please, Romp Pop is the perfect addition to your collection.Specifications:- Brand : Romp- Barcode : 4251460623520- Color : Red
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Romp
-  Product Type: Orgasm Pen
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34927206_large_3429dc77-b6b6-45b5-b605-a18da1819820-removebg-preview.png?v=1740237180
-  Price: £33.91 GBP
-- [Cello](https://unveileddesire.com/products/cello): Remote-Controlled G-Spot Vibrator Experience tailored pleasure with the ROMP Cello, a remote-controlled G-Spot vibrator designed to hit all the right notes. With a sleek, ergonomic design and silky silicone coating, it’s crafted for targeted pleasure that will have you craving more. Remote-Controlled – Let your partner take control for a new level of play. Silicone Coated – Soft, body-safe material for ultimate comfort. Waterproof & Rechargeable – Perfect for use in any setting, ready whenever you are. Let ROMP Cello take you to new heights of G-Spot pleasure, with precise vibrations that leave you wanting more.Specifications:- Brand : Romp- Barcode : 4251460612272- Size : OS- Color : Aqua
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Romp
-  Product Type: Egg Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65099725_large_41e44dcd-202b-49c7-8005-86cbf3e3b34e-removebg-preview.png?v=1740237207
-  Price: £36.71 GBP
-- [The Queen](https://unveileddesire.com/products/the-queen): Powerful, Precise, and Pleasurable Indulge in full-body bliss with this expertly designed vibrator, crafted for targeted stimulation wherever you desire. Its ergonomic shape and smooth silicone exterior deliver deep, rumbly vibrations that melt away tension and ignite pleasure. With multiple intensities and patterns, you can customize each experience to suit your mood. Features: Targeted Full-Body Stimulation: Perfect for intense pleasure or relaxation. Customizable Sensations: 3 vibration intensities and 10 patterns. Body-Safe & Luxurious: Made from premium silicone and ABS. Splashproof (IPX5): Safe for use in wet environments. USB Rechargeable: Long-lasting battery with up to 120 minutes of use. Whisper Quiet: Designed for discreet, uninterrupted pleasure. Specifications: Material: Silicone + ABS Weight: 11.43 oz (324 g) Battery: 1200 mAh Charging Time: Up to 180 min Use Time: Up to 120 min USB Type: Pin charge Waterproof Rating: IPX5 Feel the power of targeted pleasure, exactly where you want it.Specifications:- UPC : 883124182995- Functions : Vibrating
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Unveiled Desire
+- [Bodywand Mini Bodywand Pink 6in](https://unveileddesire.com/products/bodywand-mini-bodywand-pink-6in): Deep, rumbling power from head to toe. Shop the Bodywand Mini Bodywand Pink 6in with discreet UK delivery.
+  Updated: 2026-11-14T14:25:38Z
+  Vendor: Bodywand
   Product Type: Wand Massager
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_70.png?v=1746649826
-  Price: £55.76 GBP
-- [Allure - Black/Orange](https://unveileddesire.com/products/allure): Reach New Heights of Pleasure Introducing the Allure Lingerie Collection, where sophistication meets sensuality. Each piece is meticulously crafted to celebrate your unique beauty, combining luxurious fabrics with exquisite craftsmanship. Whether youâ€™re seeking elegance for a special occasion or everyday indulgence, Allure Lingerie offers a range of designs to suit your desires. Explore the latest collections, including the Kitten Collection 61, the Adore Collection 88, and the Allure Collection 164, each offering a variety of styles to enhance your intimate apparel. Elevate your intimate wardrobe with the Allure Lingerie Collection, and experience the perfect blend of sophistication, comfort, and sensuality. Specifications: ~ Material: High-quality, body-safe fabrics ~ Colors: A variety of elegant hues to suit your style ~ Sizes: Inclusive sizing to celebrate all body types ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics Note: Specifications may vary depending on the specific model. It is advisable to consult the product information for accurate details.
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/13624509_large_7ef08ecf-01a1-4aa0-8b29-075ee9cdcb77.png?v=1739135392
-  - [MEDIUM ( uk 8/10) / Orange](https://unveileddesire.com/products/allure?variant=50737653252362)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/13624509_large_7ef08ecf-01a1-4aa0-8b29-075ee9cdcb77.png?v=1739135392
-    Price: £27.15 GBP
-  - [SMALL( uk 4/6/8) / Orange](https://unveileddesire.com/products/allure?variant=50737653285130)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/13624509_large_7ef08ecf-01a1-4aa0-8b29-075ee9cdcb77.png?v=1739135392
-    Price: £27.15 GBP
-  - [LARGE (uk 12/14) / Orange](https://unveileddesire.com/products/allure?variant=50737653317898)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/13624509_large_7ef08ecf-01a1-4aa0-8b29-075ee9cdcb77.png?v=1739135392
-    Price: £27.15 GBP
-- [Bare - Black](https://unveileddesire.com/products/bare): Reach New Heights of Pleasure Introducing the Bare Jewel Lingerie collection, where minimalist design meets luxurious elegance. Each piece is meticulously crafted to accentuate your natural beauty, combining comfort with a touch of sparkle. Embrace your inner allure with lingerie that feels as exquisite as it looks. ~ Minimalist Elegance~Sleek designs adorned with subtle jewel accents for a sophisticated look. ~ Luxurious Comfort ~Crafted from premium, body-safe fabrics that caress your skin. ~ Handcrafted Quality ~ Each piece is thoughtfully designed and meticulously constructed for lasting beauty. ~ Versatile Styles ~ Perfect for layering or wearing alone, suitable for any occasion. Specifications: ~ Material: High-quality, body-safe fabrics with jewel embellishments ~ Color Options: Variety of elegant hues to suit your style ~ Sizes: Inclusive sizing to celebrate all body types ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics and embellishments Elevate your intimate wardrobe with the Bare Jewel Lingerie collection, and experience the perfect blend of simplicity, luxury, and sensuality.
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Wiln
-  Product Type: Bodydolls e chemises
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/13207225_large_ec2396bb-96f3-4d96-a9b8-fe80ed0618e0.png?v=1739135411
-  Price: £25.46 GBP
-- [Dare - Black](https://unveileddesire.com/products/dare): Reach New Heights of Pleasure Introducing the Dare Lingerie collection, where comfort meets seduction. Designed in England, Dare Lingerie redefines sensuality and self-confidence for all women. Each piece is crafted from delicately soft materials and features handcrafted embroidery, empowering you to embrace your inner allure.Â ~ Elegant Design~Parisian elegance meets English daring, infused with the la dolce vita lifestyle. ~ Luxurious Comfort ~Soft, high-quality fabrics ensure a comfortable fit without compromising on style. ~ Handcrafted Embroidery ~Intricate designs add a touch of sophistication and uniqueness to each piece. ~ Sustainable Fashion ~Committed to fair trade and sustainability, each purchase is made with love and care. Specifications: ~ Material: Premium, body-safe fabrics ~ Color Options: Variety of elegant hues to suit your style ~ Sizes: Inclusive sizing to celebrate all body types ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics and embroidery Dare to embrace your sensuality with Dare Lingerie, and experience the perfect blend of comfort, elegance, and empowerment.
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Wiln
-  Product Type: Bodydolls e chemises
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/13177068_large_60c219bb-908a-4c17-b19a-3b9acc276e4d.png?v=1739135412
-  - [L / Black](https://unveileddesire.com/products/dare?variant=50737654235402)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/13177071_large_a5bb8461-7900-4f53-b307-51db44ab48f0.png?v=1739135412
-    Price: £27.15 GBP
-  - [M / Black](https://unveileddesire.com/products/dare?variant=50737654268170)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/13177071_large_a5bb8461-7900-4f53-b307-51db44ab48f0.png?v=1739135412
-    Price: £27.15 GBP
-  - [S / Black](https://unveileddesire.com/products/dare?variant=50737654300938)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/13177071_large_a5bb8461-7900-4f53-b307-51db44ab48f0.png?v=1739135412
-    Price: £27.15 GBP
-- [The Hedonist](https://unveileddesire.com/products/the-hedonist): Thrust Into Ecstasy Experience deep, rhythmic pleasure with this thrusting vibrator. Crafted from silky-smooth, body-safe silicone, it combines powerful vibrations with thrusting action to deliver intense sensations. With multiple vibration intensities and patterns, it’s designed to take your pleasure to the next level. Features: Thrusting Sensations: Deep, rhythmic thrusts for ultimate satisfaction. Customizable Pleasure: 5 vibration intensities and 9 patterns. Body-Safe & Silky Smooth: Premium silicone and ABS construction. Waterproof (IPX7): Enjoy in the bath or shower. USB Rechargeable: Long-lasting battery for extended play. Whisper Quiet: Discreet and powerful performance. Specifications: Material: Silicone + ABS Weight: 8 oz (227 g) Battery: 1200 mAh Charging Time: Up to 240 min Use Time: Up to 80 min USB Type: Magnetic charge Waterproof Rating: IPX7 Get ready for deep, pulsating pleasure with every thrust.Specifications:- UPC : 883124183084- Material : Silicone- Functions : Thrusting- Features : Multi-Speed, Multi-Vibration, Quiet, Rechargeable
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Unveiled Desire
-  Product Type: Egg Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65105566_large_aa3ee95f-04a2-4df8-b3bc-217307ae854f.png?v=1740235981
-  Price: £89.30 GBP
-- [Arched Ring Vibe - Green](https://unveileddesire.com/products/arched-ring-vibe-green): AV23 – Arched Ring Vibe Experience next-level pleasure with the AV23 arched ring vibe, designed to enhance intimacy and stimulate with precision. Its ergonomic shape and powerful vibrations make it a must-have for solo or partnered play. Specifications: 3 Vibration Intensities – Choose your perfect level of stimulation. 7 Vibration Patterns – Explore a variety of pleasure modes. Ergonomic Arched Design – Enhances stimulation and comfort. Body-Safe Silicone – Soft, smooth, and hypoallergenic. USB Rechargeable – Enjoy extended pleasure sessions. Whisper Quiet – Discreet use anytime, anywhere. Splashproof (IPX6) – Easy to clean and perfect for wet adventures. For best results, use with water-based lubricant and clean after every use.Specifications:- UPC : 810119281913
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Luv Inc.
-  Product Type: G-Spot Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65105430_large_79d34b92-6402-4453-96fa-a0048e621fac.png?v=1740235985
-  Price: £50.68 GBP
-- [Jeweled Medium Plug - Pink](https://unveileddesire.com/products/jeweled-medium-plug-pink): The Luv Inc JP32 Jeweled Medium Plug with 3 Stones in Light Pink is a body-safe silicone anal plug designed for both beginners and experienced users. It features interchangeable jewels, allowing you to customize your experience. Features: Material: 100% body-safe silicone for comfort and safety. Design: Medium-sized plug with a tapered tip for easy insertion. Interchangeable Jewels: Includes three stones to suit your mood and style. Dimensions: Length: 8.1 cm (3.2 inches); Diameter: 3.4 cm (1.35 inches). Color: Light Pink. Specifications: Material: Body-safe silicone. Dimensions: Length: 8.1 cm (3.2 inches); Diameter: 3.4 cm (1.35 inches). Color: Light Pink. Jewels: Three interchangeable stones. This plug is ideal for those looking to add a touch of elegance to their intimate moments. Its medium size makes it suitable for various experience levels. The interchangeable jewels allow for personalization, enhancing both visual appeal and pleasure. For more information or to purchase, visit SP Boutique's product page.Specifications:- UPC : 663546905057- Insertable Length : 3.2
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Luv Inc.
-  Product Type: Anal Plug
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_60_6a914161-fb3e-445b-a1e2-98b7ca7e9d51.png?v=1746647982
-  Price: £27.82 GBP
-- [Jeweled Small Plug - Red](https://unveileddesire.com/products/jeweled-small-plug-red): The Luv Inc JP31 Jeweled Small Plug is a body-safe silicone butt plug designed for both beginners and experienced users. It features interchangeable jewels, allowing you to customize your experience to match your mood. Key Features: Material: Made from 100% body-safe silicone, ensuring comfort and safety during use. Interchangeable Jewels: Includes three different stones, enabling you to switch up your look and feel. Size: Small dimensions of 2.8 inches (7.1 cm) in length and 1 inch (2.5 cm) in diameter, suitable for various experience levels. Color: Vibrant red hue adds a touch of elegance. Specifications: Length: 2.8 inches (7.1 cm) Diameter: 1 inch (2.5 cm) Material: 100% silicone Color: Red Manufacturer: Luv Inc. UPC: 663546905040 SKU: CNVNAL-81743 This plug is designed to enhance your intimate moments with its luxurious feel and customizable appearance. Its ergonomic design ensures comfort, making it an excellent choice for those looking to explore new sensations. For more information or to purchase, visit retailers such as Risque Fetish or Weird-Dildos.Specifications:- UPC : 663546905040
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Luv Inc.
-  Product Type: Anal Plug
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_59.png?v=1746647870
-  Price: £25.81 GBP
-- [Vibrating Plug - Purple](https://unveileddesire.com/products/vibrating-plug-purple): Luv Inc PR17 – Remote-Controlled Vibrating Plug Discover thrilling backdoor pleasure with the Luv Inc PR17, a remote-controlled vibrating plug designed for comfort and satisfaction. Its sleek, tapered shape allows for easy insertion, while powerful vibrations ensure deep, satisfying sensations. Perfect for solo play or exciting partner control. Specifications: Vibration Intensities: Multiple levels Vibration Patterns: Various modes Control: Wireless remote for hands-free fun Material: Body-safe silicone + ABS Charging: USB rechargeable Use Time: Long-lasting pleasure Water Resistance: Splashproof (IPX6) Color: Green Whisper Quiet: Discreet operation Whether you're a beginner or experienced, this vibrating plug brings new dimensions to your pleasure with its versatile settings and remote convenience.Specifications:- UPC : 810119281937
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Luv Inc.
-  Product Type: Anal Plug
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65099512_large_381136ca-260e-404a-a9d1-10c3fc34f082.png?v=1740236119
-  Price: £50.68 GBP
-- [Vibrating Plug With Remote - Green](https://unveileddesire.com/products/vibrating-plug-with-remote-green): Luv Inc PR17 – Remote-Controlled Vibrating Plug Discover thrilling backdoor pleasure with the Luv Inc PR17, a remote-controlled vibrating plug designed for comfort and satisfaction. Its sleek, tapered shape allows for easy insertion, while powerful vibrations ensure deep, satisfying sensations. Perfect for solo play or exciting partner control. Specifications: Vibration Intensities: Multiple levels Vibration Patterns: Various modes Control: Wireless remote for hands-free fun Material: Body-safe silicone + ABS Charging: USB rechargeable Use Time: Long-lasting pleasure Water Resistance: Splashproof (IPX6) Color: Green Whisper Quiet: Discreet operation Whether you're a beginner or experienced, this vibrating plug brings new dimensions to your pleasure with its versatile settings and remote convenience.Specifications:- UPC : 810119281944
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Luv Inc.
-  Product Type: Anal Plug
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65105225_large_bb16bd49-aca9-4530-8bb2-0a03757f3040.png?v=1746649562
-  Price: £50.68 GBP
-- [Pointed Tip Ring Vibe - Green](https://unveileddesire.com/products/pointed-tip-ring-vibe-green): Luv Inc PT16: Pointed Tip Ring Vibe – Green Elevate your intimate moments with the Luv Inc PT16 Pointed Tip Ring Vibe. Designed for precise G-spot stimulation, this ergonomically crafted vibrator features a pointed tip that targets sensitive areas with ease. With 12 vibration modes and USB rechargeable functionality, it offers versatility and convenience for a personalized experience. Made from 100% body-safe silicone, it's both safe and comfortable for intimate use. The splashproof design ensures easy cleaning and durability. Whether used solo or with a partner, the Luv Inc PT16 enhances pleasure with its powerful performance and sleek design. Features: Ergonomic Design: Pointed tip for targeted G-spot stimulation. Multiple Vibration Modes: 12 vibration modes for customizable pleasure. Body-Safe Silicone: Crafted from 100% body-safe silicone for comfort and safety. USB Rechargeable: Convenient USB charging for continuous use. Splashproof: Splashproof design for easy cleaning and durability. Specifications: Material: 100% body-safe silicone Color: Purple Vibration Modes: 12 modes Charging: USB rechargeable Waterproof Rating: Splashproof Dimensions: 3.3 in (8.4 cm) x 1.4 in (3.6 cm) Weight: 2.4 oz (68 g) Warranty: 1 Year Enhance your pleasure with the Luv Inc PT16 Pointed Tip Ring Vibe – a perfect blend of design, functionality, and safety.Specifications:- UPC : 810119282002
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Luv Inc.
-  Product Type: G-Spot Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65105234_large_565e2de8-4451-4af8-bbcd-a04ba2a208b4.png?v=1746649527
-  Price: £50.68 GBP
-- [Arched Ring Vibe - Purple](https://unveileddesire.com/products/arched-ring-vibe-purple): AV23 – Arched Ring Vibe Experience next-level pleasure with the AV23 arched ring vibe, designed to enhance intimacy and stimulate with precision. Its ergonomic shape and powerful vibrations make it a must-have for solo or partnered play. Specifications: 3 Vibration Intensities – Choose your perfect level of stimulation. 7 Vibration Patterns – Explore a variety of pleasure modes. Ergonomic Arched Design – Enhances stimulation and comfort. Body-Safe Silicone – Soft, smooth, and hypoallergenic. USB Rechargeable – Enjoy extended pleasure sessions. Whisper Quiet – Discreet use anytime, anywhere. Splashproof (IPX6) – Easy to clean and perfect for wet adventures. For best results, use with water-based lubricant and clean after every use.Specifications:- UPC : 810119281920
-  Updated: 2026-10-16T17:23:44Z
-  Vendor: Luv Inc.
-  Product Type: G-Spot Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65105490_large_94dd7cce-07c9-4f30-b84b-4fb9813922b3.png?v=1746649496
-  Price: £50.68 GBP
-- [Tongue Flickering Vibrator - Pink](https://unveileddesire.com/products/tongue-flickering-vibrator-pink): Luv Inc TV08: Tongue Flickering Vibrator Description:The Luv Inc TV08 Tongue Flickering Vibrator is designed to deliver exhilarating external stimulation with a unique tongue-like flickering motion. Whether for clitoral or intimate play, this vibrator mimics the sensation of a tongue, offering precise, gentle flicks that bring incredible pleasure. Featuring multiple vibration intensities and patterns, it lets you customize your experience for ultimate satisfaction. Made from body-safe silicone, this vibrator is soft and gentle on the skin, ensuring a comfortable touch. Its quiet operation and USB rechargeable functionality make it perfect for discreet, convenient pleasure anytime. Specifications: 3 Vibration Intensities 6 Vibration Patterns Body-safe Silicone Whisper Quiet USB Rechargeable Splashproof Design Charging: Up to 90 mins Use Time: Up to 120 mins USB Type: Magnetic charge IPX6 Waterproof Ideal for clitoral stimulation, bringing a playful, tongue-like flicker for intense pleasure.Specifications:- UPC : 663546905095- Length: 3.74 in
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: Clitoral Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_63_aeed3974-f8ae-4f38-9d24-75d91983df7e.png?v=1746648694
-  Price: £56.05 GBP
-- [Kegel Balls Set - Coral](https://unveileddesire.com/products/kegel-balls-set-coral): Luv Inc KG88: Kegel Balls Set Description:The Luv Inc KG88 Kegel Balls Set is designed to enhance your pelvic floor strength and improve intimate sensations. These kegel balls come in a set of two, providing varying weights to cater to beginners and more advanced users. Regular use helps improve muscle control, tightness, and overall pleasure during intimacy. Made from body-safe silicone, these smooth, discreet balls are comfortable to wear and easy to clean. Perfect for those looking to strengthen their core while enjoying a pleasurable experience. Specifications: 2 Weighted Balls for Versatility Body-safe Silicone Smooth Surface for Comfortable Wear Easy to Clean Discreet and Comfortable Ideal for Pelvic Floor Strengthening Portable and Travel-Friendly Perfect for strengthening your pelvic muscles while enjoying discreet pleasure.Specifications:- UPC : 663546905064
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: Training Balls
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_68_67e0b2b2-d1dd-4d04-8051-f13ca52f287c.png?v=1746649466
-  Price: £41.27 GBP
-- [Triple-Action Clitoral Vibrator - Pink](https://unveileddesire.com/products/triple-action-clitoral-vibrator-pink): Luv Inc TV11: Triple-Action Clitoral Vibrator Description:Unleash new waves of pleasure with the Luv Inc TV11 Triple-Action Clitoral Vibrator. Designed for maximum external stimulation, this powerful vibrator delivers multiple sensations with its unique triple-action feature. Experience the magic of its versatile vibrations, ensuring the perfect combination of sensations for every mood. Compact yet powerful, the TV11 provides whisper-quiet operation for discreet enjoyment. Made from body-safe silicone, it’s smooth and comfortable for prolonged use. Whether you're looking for intense pleasure or a gentle caress, this vibrator is your ideal companion. Specifications: 3 Vibrating Intensities 6 Vibration Patterns Body-safe Silicone Whisper Quiet USB Rechargeable Waterproof Rechargeable Battery Charging: Up to 90 mins Use Time: Up to 120 mins USB Type: Magnetic charge IPX6 Waterproof Perfect for those seeking targeted clitoral stimulation with a touch of variety.Specifications:- UPC : 663546905101- Length: 3.94 in
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: Clitoral Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_65_781e516d-d9e5-4ae2-8018-18852ad39270.png?v=1746649222
-  Price: £57.40 GBP
-- [Insertable Panty Vibrator - Pink](https://unveileddesire.com/products/insertable-panty-vibrator-pink): Luv Inc PV71: Insertable Panty Vibrator Description:The Luv Inc PV71 Insertable Panty Vibrator is designed to elevate your pleasure discreetly and comfortably. This sleek, insertable vibrator fits perfectly inside your favorite pair of panties, offering a hands-free experience that’s perfect for solo play or with a partner. With powerful vibration modes, you can easily find the right intensity for your desire. Made from body-safe silicone, this vibrator promises comfort and long-lasting enjoyment, while its whisper-quiet operation ensures privacy. Experience freedom and control with this convenient, rechargeable panty vibrator. Specifications: 3 Vibrating Intensities 6 Vibration Patterns Body-safe Silicone Whisper Quiet USB Rechargeable Waterproof Rechargeable Battery Charging: Up to 90 mins Use Time: Up to 120 mins USB Type: Magnetic charge IPX6 Waterproof Ideal for discreet and comfortable stimulation, perfect for on-the-go pleasure.Specifications:- UPC : 663546905194- Functions : Vibrating
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: Panty Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65105567_large_514fc4ab-f312-44f1-b4b6-2fe1e5941037.png?v=1746649135
-  Price: £52.02 GBP
-- [Plug Ring Vibe - Green](https://unveileddesire.com/products/plug-ring-vibe-green): Luv Inc VR14: Plug Ring Vibe Description:The Luv Inc VR14 Plug Ring Vibe is a versatile pleasure tool that combines the best of both worlds – the satisfying fullness of a plug and the thrilling vibrations of a ring vibe. Designed for both beginners and experienced users, this vibrator offers seamless stimulation with its ergonomic shape and powerful vibrations. The ring ensures a secure fit, while the plug provides exciting sensations for the wearer. Made from body-safe silicone, it guarantees a comfortable experience, whether you're indulging in solo play or intimate moments with a partner. USB rechargeable for your convenience, this vibrating plug ring is ready to deliver pleasure anytime, anywhere. Specifications: 3 Vibration Intensities 6 Vibration Patterns Body-safe Silicone Whisper Quiet USB Rechargeable Waterproof Charging: Up to 90 mins Use Time: Up to 120 mins USB Type: Magnetic charge IPX6 Waterproof Perfect for couples and solo play, offering powerful sensations for ultimate satisfaction.Specifications:- UPC : 810119281890
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: Anal Plug
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65105699_large_4dc31ec3-84cf-432f-85e6-a3a060896294.png?v=1746649024
-  Price: £50.68 GBP
-- [Insertable Panty Vibrator - Taupe](https://unveileddesire.com/products/insertable-panty-vibrator-taupe): Luv Inc PV71: Insertable Panty Vibrator Description:The Luv Inc PV71 Insertable Panty Vibrator is designed to elevate your pleasure discreetly and comfortably. This sleek, insertable vibrator fits perfectly inside your favorite pair of panties, offering a hands-free experience that’s perfect for solo play or with a partner. With powerful vibration modes, you can easily find the right intensity for your desire. Made from body-safe silicone, this vibrator promises comfort and long-lasting enjoyment, while its whisper-quiet operation ensures privacy. Experience freedom and control with this convenient, rechargeable panty vibrator. Specifications: 3 Vibrating Intensities 6 Vibration Patterns Body-safe Silicone Whisper Quiet USB Rechargeable Waterproof Rechargeable Battery Charging: Up to 90 mins Use Time: Up to 120 mins USB Type: Magnetic charge IPX6 Waterproof Ideal for discreet and comfortable stimulation, perfect for on-the-go pleasure.Specifications:- UPC : 663546905187- Functions : Vibrating
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: Panty Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65106824_large_50d39c0f-da6e-4e8b-a8f4-5ec04d293575.png?v=1746649120
-  Price: £52.02 GBP
-- [Heart Bullet Vibrator - Red](https://unveileddesire.com/products/heart-bullet-vibrator-red): Luv Inc HB82: Heart Bullet Vibrator Description:The Luv Inc HB82 Heart Bullet Vibrator is a compact and powerful toy designed for precise and stimulating external pleasure. With its heart-shaped design, it brings a playful touch to your collection while offering intense vibrations that hit the right spots. The sleek, body-safe silicone material ensures a soft and comfortable experience, while the discreet size makes it perfect for travel or on-the-go pleasure. Simple, effective, and ready to make your intimate moments more enjoyable. Specifications: Compact and Discreet Design Powerful Vibrations for Intense Stimulation Body-safe Silicone Material Heart-Shaped for a Fun, Playful Look Rechargeable and Travel-Friendly Easy to Clean and Maintain Ideal for pinpoint stimulation, offering both convenience and powerful pleasure in one delightful design.Specifications:- UPC : 663546905828- Functions : Vibrating
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: Bullet Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/50293327_large_4d3e1bd8-6554-4fe8-a596-fc4d571c4579.png?v=1746649056
-  Price: £41.27 GBP
-- [Beaded Ring Vibe - Purple](https://unveileddesire.com/products/beaded-ring-vibe-purple): Luv Inc BR15: Beaded Ring Vibe Description:The Luv Inc BR15 Beaded Ring Vibe is designed to enhance your pleasure with its unique beaded texture and powerful vibrations. This vibrator features strategically placed beads along the ring, providing added sensations for both partners during use. Perfect for couples, it offers deep, consistent stimulation while being comfortable and discreet. Made from body-safe silicone, this ring vibe is flexible and fits most sizes, making it a great choice for boosting intimacy and pleasure in the bedroom. Specifications: Beaded Texture for Enhanced Sensations Body-safe Silicone Material Flexible Fit for Most Sizes Powerful Vibrations for Stimulating Pleasure Rechargeable and Travel-Friendly Easy to Clean Perfect for adding extra excitement to your intimate moments, offering both stimulation and comfort for a fulfilling experience.Specifications:- UPC : 810119281975
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: Anal Bead
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65106935_large_e092082d-e64e-43e2-b77e-f8534c36ef77.png?v=1746648882
-  Price: £50.68 GBP
-- [Plug Ring Vibe - Purple](https://unveileddesire.com/products/plug-ring-vibe-purple): Luv Inc VR14: Plug Ring Vibe Description:The Luv Inc VR14 Plug Ring Vibe is a versatile pleasure tool that combines the best of both worlds – the satisfying fullness of a plug and the thrilling vibrations of a ring vibe. Designed for both beginners and experienced users, this vibrator offers seamless stimulation with its ergonomic shape and powerful vibrations. The ring ensures a secure fit, while the plug provides exciting sensations for the wearer. Made from body-safe silicone, it guarantees a comfortable experience, whether you're indulging in solo play or intimate moments with a partner. USB rechargeable for your convenience, this vibrating plug ring is ready to deliver pleasure anytime, anywhere. Specifications: 3 Vibration Intensities 6 Vibration Patterns Body-safe Silicone Whisper Quiet USB Rechargeable Waterproof Charging: Up to 90 mins Use Time: Up to 120 mins USB Type: Magnetic charge IPX6 Waterproof Perfect for couples and solo play, offering powerful sensations for ultimate satisfaction.Specifications:- UPC : 810119281906
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: Anal Plug
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65106998_large_d6891805-beb4-4620-b4b6-fe03e40c3f15.png?v=1746649010
-  Price: £50.68 GBP
-- [Curved Vibrator - Light Pink](https://unveileddesire.com/products/curved-vibrator-light-pink): Luv Inc. CV77: Curved Vibrator Description:The Luv Inc. CV77 Curved Vibrator is expertly designed to deliver powerful, targeted pleasure with its ergonomically curved shape. Perfect for G-spot stimulation, its gentle, yet firm curvature ensures maximum contact and optimal pleasure. The vibrator’s versatile vibration settings offer everything from a soft tease to intense satisfaction, making it ideal for exploring your desires. Made from body-safe materials, it’s both durable and comfortable, ensuring a fulfilling experience every time. Specifications: Ergonomic Curved Design for G-Spot Stimulation Multiple Vibration Intensities and Patterns Body-safe Silicone and ABS Materials Whisper-quiet Motor for Discreet Play USB Rechargeable for Convenience Waterproof for Easy Cleaning and Versatile Use Elevate your pleasure with the Luv Inc. CV77 Curved Vibrator—designed to hit the right spot and leave you craving more.Specifications:- UPC : 663546905842- Material : Silicone- Features : Multi-Vibration- Length: 4.8 in
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: G-Spot Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65107003_large_5e541644-caa1-4557-ba32-e843c5dc7f03.png?v=1746648970
-  Price: £50.68 GBP
-- [Rabbit Vibrator - Coral](https://unveileddesire.com/products/rabbit-vibrator-coral): Luv Inc. RV20: Rabbit Vibrator Description:The Luv Inc. RV20 Rabbit Vibrator is a versatile and powerful toy that brings dual stimulation to a whole new level. Designed with a curved shaft for G-spot pleasure and a bunny-shaped clitoral stimulator, this vibrator targets your most sensitive areas for a truly satisfying experience. With multiple vibration modes and intensity levels, you can explore different sensations to discover what works best for you. Made with body-safe silicone, it's soft, durable, and easy to clean, ensuring your pleasure is both safe and fulfilling. Specifications: Dual Stimulation: G-spot and Clitoral Multiple Vibration Modes and Intensity Levels Body-safe Silicone Material Waterproof for Easy Cleaning USB Rechargeable for Convenience Whisper-quiet Motor for Discreet Use Indulge in the perfect combination of pleasure and convenience with the Luv Inc. RV20 Rabbit Vibrator.Specifications:- UPC : 663546905132- Functions : Vibrating
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: Rabbit Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65107194_large_9a42bc81-3d5b-4b4b-aef3-0088bac85766.png?v=1746648937
-  Price: £42.84 GBP
-- [Rabbit Vibrator - Pink](https://unveileddesire.com/products/rabbit-vibrator-pink): Luv Inc. RV20: Rabbit Vibrator Description:The Luv Inc. RV20 Rabbit Vibrator is a versatile and powerful toy that brings dual stimulation to a whole new level. Designed with a curved shaft for G-spot pleasure and a bunny-shaped clitoral stimulator, this vibrator targets your most sensitive areas for a truly satisfying experience. With multiple vibration modes and intensity levels, you can explore different sensations to discover what works best for you. Made with body-safe silicone, it's soft, durable, and easy to clean, ensuring your pleasure is both safe and fulfilling. Specifications: Dual Stimulation: G-spot and Clitoral Multiple Vibration Modes and Intensity Levels Body-safe Silicone Material Waterproof for Easy Cleaning USB Rechargeable for Convenience Whisper-quiet Motor for Discreet Use Indulge in the perfect combination of pleasure and convenience with the Luv Inc. RV20 Rabbit Vibrator.Specifications:- UPC : 663546905125- Functions : Vibrating
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: Rabbit Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65107193_large_816f6801-3255-4fca-8e28-23df1136e1a4.png?v=1746648905
-  Price: £57.40 GBP
-- [Tongue Vibrator - Taupe](https://unveileddesire.com/products/tongue-vibrator-taupe): Luv Inc. TV23 – Tongue Vibrator Description:Experience teasing, flickering sensations with the Luv Inc. TV23 Tongue Vibrator. Designed to mimic the natural movement of oral pleasure, this vibrator delivers sensual waves of stimulation with its soft, flexible tongue-like tip. Featuring multiple vibration patterns and intensity levels, you can tailor your experience for ultimate satisfaction. Made from body-safe silicone, it's gentle on the skin and easy to clean, making it a must-have for solo play or couples' fun. Specifications: Realistic tongue-like motion for intense stimulation Multiple vibration patterns and intensities Soft, body-safe silicone for a luxurious feel Whisper-quiet motor for discreet pleasure USB rechargeable for convenience Splashproof design for easy cleaning Let the Luv Inc. TV23 take your pleasure to the next level with its flickering tongue action and customizable sensations.Specifications:- UPC : 663546905149
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: Panty Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65107195_large_20d6e948-e9f8-4d75-9af5-4d583a321d12.png?v=1746648581
-  Price: £50.68 GBP
-- [Beaded Ring Vibe - Green](https://unveileddesire.com/products/beaded-ring-vibe-green): Luv Inc BR15: Beaded Ring Vibe Description:The Luv Inc BR15 Beaded Ring Vibe is designed to enhance your pleasure with its unique beaded texture and powerful vibrations. This vibrator features strategically placed beads along the ring, providing added sensations for both partners during use. Perfect for couples, it offers deep, consistent stimulation while being comfortable and discreet. Made from body-safe silicone, this ring vibe is flexible and fits most sizes, making it a great choice for boosting intimacy and pleasure in the bedroom. Specifications: Beaded Texture for Enhanced Sensations Body-safe Silicone Material Flexible Fit for Most Sizes Powerful Vibrations for Stimulating Pleasure Rechargeable and Travel-Friendly Easy to Clean Perfect for adding extra excitement to your intimate moments, offering both stimulation and comfort for a fulfilling experience.Specifications:- UPC : 810119281982
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: Anal Bead
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65106934_large_267ecf4e-ac1f-4321-8274-423a28c1eed1.png?v=1746648863
-  Price: £50.68 GBP
-- [Orgasm Pen - Red](https://unveileddesire.com/products/orgasm-pen-red): Luv Inc OP10: Orgasm Pen Description:The Luv Inc OP10 Orgasm Pen is a unique and innovative tool designed to bring targeted, intense pleasure with precision. Perfect for external stimulation, this sleek and discreet vibrator delivers focused vibrations to the most sensitive areas. Its ergonomic design ensures easy handling, while the powerful motor provides satisfying, consistent pulsations. Compact and portable, this pleasure pen is ideal for on-the-go enjoyment or to add an extra dimension to your personal pleasure. Specifications: Precision Vibrations for Focused Stimulation Ergonomic Design for Easy Handling Powerful Motor for Consistent Pulsations Compact and Travel-Friendly Body-safe Silicone and ABS Material Rechargeable for Convenience Enhance your pleasure with pinpoint stimulation wherever you desire—perfect for use solo or with a partner.Specifications:- UPC : 663546905170
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: Orgasm Pen
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_62.png?v=1746648533
-  Price: £50.68 GBP
-- [Panty Vibe - Coral](https://unveileddesire.com/products/panty-vibe-coral): Luv Inc. PV72: Panty Vibe Description:The Luv Inc. PV72 Panty Vibe brings discreet pleasure to new heights with its compact, wearable design. Perfect for on-the-go enjoyment, this powerful panty vibrator fits seamlessly into your underwear, allowing for hands-free stimulation wherever you are. With adjustable vibration intensities, you can personalize your experience to suit your desires, whether you're looking for a gentle tease or intense sensation. Made from body-safe materials, it’s comfortable and reliable, ensuring satisfaction during every use. Specifications: Compact and Wearable Design Adjustable Vibration Intensities Body-safe Silicone and ABS Materials Whisper-quiet Motor for Discreet Use USB Rechargeable for Convenience Waterproof for Easy Cleaning Experience hands-free pleasure anytime, anywhere with the Luv Inc. PV72 Panty Vibe—your secret to discreet excitement.Specifications:- UPC : 663546904814
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: Panty Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/Untitleddesign_64_c87335b3-c771-4ff8-a76d-910161523b05.png?v=1746648839
-  Price: £54.04 GBP
-- [Tongue Vibrator - Pink](https://unveileddesire.com/products/tongue-vibrator-pink): Luv Inc. TV23 – Tongue Vibrator Description:Experience teasing, flickering sensations with the Luv Inc. TV23 Tongue Vibrator. Designed to mimic the natural movement of oral pleasure, this vibrator delivers sensual waves of stimulation with its soft, flexible tongue-like tip. Featuring multiple vibration patterns and intensity levels, you can tailor your experience for ultimate satisfaction. Made from body-safe silicone, it's gentle on the skin and easy to clean, making it a must-have for solo play or couples' fun. Specifications: Realistic tongue-like motion for intense stimulation Multiple vibration patterns and intensities Soft, body-safe silicone for a luxurious feel Whisper-quiet motor for discreet pleasure USB rechargeable for convenience Splashproof design for easy cleaning Let the Luv Inc. TV23 take your pleasure to the next level with its flickering tongue action and customizable sensations.Specifications:- UPC : 663546905156- Length: 6.3 in
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: Panty Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65107197_large_d8bd2f78-b63a-4049-9bcd-37e72891d1fb.png?v=1746648570
-  Price: £50.68 GBP
-- [Orgasm Pen - Coral](https://unveileddesire.com/products/orgasm-pen-coral): Luv Inc OP10: Orgasm Pen Description:The Luv Inc OP10 Orgasm Pen is a unique and innovative tool designed to bring targeted, intense pleasure with precision. Perfect for external stimulation, this sleek and discreet vibrator delivers focused vibrations to the most sensitive areas. Its ergonomic design ensures easy handling, while the powerful motor provides satisfying, consistent pulsations. Compact and portable, this pleasure pen is ideal for on-the-go enjoyment or to add an extra dimension to your personal pleasure. Specifications: Precision Vibrations for Focused Stimulation Ergonomic Design for Easy Handling Powerful Motor for Consistent Pulsations Compact and Travel-Friendly Body-safe Silicone and ABS Material Rechargeable for Convenience Enhance your pleasure with pinpoint stimulation wherever you desire—perfect for use solo or with a partner.Specifications:- UPC : 663546905163- Length: 6.93 in
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Luv Inc.
-  Product Type: Orgasm Pen
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65107063_large_d41e94ec-9887-491c-8be7-532bd8d3ccde.png?v=1746648440
-  Price: £50.68 GBP
-- [Curved Vibrator - Red](https://unveileddesire.com/products/curved-vibrator-red): Luv Inc. CV77: Curved Vibrator Description:The Luv Inc. CV77 Curved Vibrator is expertly designed to deliver powerful, targeted pleasure with its ergonomically curved shape. Perfect for G-spot stimulation, its gentle, yet firm curvature ensures maximum contact and optimal pleasure. The vibrator’s versatile vibration settings offer everything from a soft tease to intense satisfaction, making it ideal for exploring your desires. Made from body-safe materials, it’s both durable and comfortable, ensuring a fulfilling experience every time. Specifications: Ergonomic Curved Design for G-Spot Stimulation Multiple Vibration Intensities and Patterns Body-safe Silicone and ABS Materials Whisper-quiet Motor for Discreet Play USB Rechargeable for Convenience Waterproof for Easy Cleaning and Versatile Use Elevate your pleasure with the Luv Inc. CV77 Curved Vibrator—designed to hit the right spot and leave you craving more.Specifications:- UPC : 663546905859- Material : Silicone- Features : Multi-Vibration- Length: 4.8 in
-  Updated: 2026-08-29T07:40:20Z
-  Vendor: Luv Inc.
-  Product Type: G-Spot Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65106945_large_cb9dc6ce-b727-4bfb-9c8d-7fbd812d6395.png?v=1746648389
-  Price: £49.86 GBP
-- [Hop - Orange](https://unveileddesire.com/products/hop-orange): Playful Dual Stimulation Description:Get ready to hop into pleasure with the Bodywand Mini Vibes Hop! Designed with two soft rabbit ears, this mini vibe delivers enhanced clitoral stimulation with precision. Featuring 10 vibration patterns, it offers a range of sensations to explore. Compact, travel-friendly, and shower-safe, it’s the perfect companion for pleasure on the go. Specifications: 10 vibration patterns for versatile pleasure Dual rabbit ears for targeted stimulation Compact and discreet design Whisper-quiet motor for private enjoyment Body-safe silicone for a smooth feel USB rechargeable for convenience Splashproof for shower-time fun (IPX rating) Small yet powerful, the Mini Vibes Hop is designed to bring you intense pleasure anytime, anywhere.Specifications:- UPC : 848416009794- Features : For Travel
-  Updated: 2026-10-16T17:23:46Z
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684616_large_0d814718-4041-4ffb-b70e-b5716eb14b57.png?v=1794328451
+  Price: £18.99 GBP
+- [Bodywand Multi Function Usb Bodywand Pink](https://unveileddesire.com/products/bodywand-multi-function-usb-bodywand-pink): Deep, rumbling power from head to toe. Waterproof, USB rechargeable. Shop the Bodywand Multi Function Usb Bodywand Pink with discreet UK delivery.
+  Updated: 2026-11-14T14:25:38Z
   Vendor: Bodywand
-  Product Type: Rabbit Vibrator
+  Product Type: Wand Massager
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65107866_large_d6a8437b-6ac6-4b50-ba04-ae12439c7ff7.png?v=1740236142
-  Price: £53.76 GBP
-- [Bop - Purple](https://unveileddesire.com/products/bop-purple): Travel-Ready G-Spot Pleasure Description:Never let a busy schedule get in the way of pleasure! The Bodywand Mini Vibes Bop is designed for those on the go, featuring a flattened bulb tip that delivers precise, targeted vibrations to the G-spot. With 10 vibration patterns to explore, this ultra-convenient vibe ensures satisfaction anytime, anywhere. Specifications: 10 vibration patterns for customized pleasure Flattened bulb design for targeted G-spot stimulation Compact and travel-friendly Whisper-quiet motor for discreet use Body-safe silicone for a smooth, comfortable feel USB rechargeable for easy charging Splashproof for shower-time enjoyment (IPX rating) Powerful, discreet, and always ready—pleasure is just a touch away.Specifications:- UPC : 848416009800- Features : For Travel
-  Updated: 2026-10-16T17:23:46Z
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684414_large_e0542722-307b-4964-92ce-06888666bd3b.png?v=1794328452
+  Price: £52.99 GBP
+- [Bodywand USB Multi function Purple](https://unveileddesire.com/products/bodywand-usb-multi-function-purple): Melt tension away, then melt completely. USB rechargeable. Shop the Bodywand USB Multi function Purple with discreet UK delivery.
+  Updated: 2026-11-14T14:25:38Z
   Vendor: Bodywand
-  Product Type: G-Spot Vibrator
+  Product Type: Wand Massager
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65108436_large_c769ae2f-2179-4493-b970-23ff80723823.png?v=1740236145
-  Price: £53.63 GBP
-- [Blindfold - Rainbow](https://unveileddesire.com/products/blindfold-rainbow): Shine Bright in Style Description:Light up your night with Cosmo’s holographic restraints, designed to add a touch of glam to your play. Featuring rose gold, nickel-free hardware, these restraints are fully adjustable for a universal fit. Made from easy-to-clean vinyl, they are as practical as they are stylish, ensuring your adventures are as fun as they are fabulous. Specifications: Holographic finish for a striking, futuristic look Rose gold, nickel-free hardware for a chic, luxurious touch Fully adjustable for a comfortable, universal fit Made from easy-to-clean, durable vinyl Perfect for both beginners and seasoned adventurers Elevate your play and sparkle with every move.Specifications:- UPC : 657447105654
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Cosmo
-  Product Type: Blindfold
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684314_large_01b664b1-a5bf-427f-af1e-59ebaeb68193.png?v=1794328457
+  Price: £52.99 GBP
+- [Bodywand Aqua Mini Rechargeable Wand Massager Black](https://unveileddesire.com/products/bodywand-aqua-mini-rechargeable-wand-massager-black): Melt tension away, then melt completely. USB rechargeable. Shop the Bodywand Aqua Mini Rechargeable Wand Massager Black with discreet UK delivery.
+  Updated: 2026-11-14T14:25:38Z
+  Vendor: Bodywand
+  Product Type: Wand Massagers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65108536_large_11ee9396-cdee-4581-9d65-f7d26e898fc9.png?v=1740236153
-  Price: £29.46 GBP
-- [Wrist Cuffs - Rainbow](https://unveileddesire.com/products/wrist-cuffs-rainbow): Shine with Style Description:Light up your night with Cosmo’s holographic restraints, designed to add an eye-catching shine to your play. Accented with elegant rose gold, nickel-free hardware, these restraints are fully adjustable to fit most sizes comfortably. Made from easy-to-clean vinyl, they offer durability while remaining soft to the touch for a satisfying experience. Specifications: Holographic finish for a futuristic, shimmering look Rose gold, nickel-free hardware for a luxurious touch Fully adjustable for a secure and comfortable fit Easy-to-clean, durable vinyl material Perfect for those who want to add sparkle and style to their playtime.Specifications:- UPC : 657447105678
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Cosmo
-  Product Type: Wrist Cuffs
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684316_large_1182c859-5fb6-449f-b360-4d07a14ebfc2.png?v=1794328457
+  Price: £52.99 GBP
+- [Bodywand Lavender Mini Bodywand Lavender](https://unveileddesire.com/products/bodywand-lavender-mini-bodywand-lavender): The classic wand, made irresistible. Shop the Bodywand Lavender Mini Bodywand Lavender with discreet UK delivery.
+  Updated: 2026-11-14T14:25:38Z
+  Vendor: Bodywand
+  Product Type: Wand Massager
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65108596_large_5d9d6b3f-c386-4760-8e59-326d1605d197.png?v=1740236156
-  Price: £40.71 GBP
-- [Flogger - Rainbow](https://unveileddesire.com/products/flogger-rainbow): Dazzling Control Description:Add a touch of glamour to your play with Cosmo’s holographic restraints. Designed for both style and function, these restraints feature stunning rose gold, nickel-free hardware and a fully adjustable fit for maximum comfort. Made from easy-to-clean vinyl, they ensure durability while keeping things sleek and smooth. Specifications: Holographic finish for a radiant look Rose gold, nickel-free hardware for elegance and durability Fully adjustable for a secure, universal fit Easy-to-clean vinyl material Shimmer, shine, and surrender in style. Specifications:- UPC : 657447105692
-  Updated: 2026-10-16T17:23:46Z
-  Vendor: Cosmo
-  Product Type: Whip
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684603_large_60af0f32-1601-4faa-b95a-cab3765c6c10.png?v=1794328463
+  Price: £18.99 GBP
+- [Rocks Off Red Alert Red Bullet Vibrator](https://unveileddesire.com/products/rocks-off-red-alert-red-bullet-vibrator): Pocket-sized pleasure, wherever desire leads. 10 functions, waterproof. Shop the Rocks Off Red Alert Red Bullet Vibrator with discreet UK delivery.
+  Updated: 2026-11-14T14:25:38Z
+  Vendor: Rocks Off
+  Product Type: Bullet & Egg Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65108537_large_2288504c-7d77-4a27-8c73-0d2f26ff209e.png?v=1740236164
-  Price: £37.27 GBP
-- [Hogtie - Rainbow](https://unveileddesire.com/products/hogtie-rainbow): Radiant Control Description:Turn up the heat with Cosmo’s holographic restraints, designed to add a shimmering touch to your play. Featuring stunning rose gold, nickel-free hardware and a fully adjustable fit, these restraints combine luxury with function. Crafted from easy-to-clean vinyl, they offer durability and comfort for every encounter. Specifications: Holographic finish for a dazzling look Rose gold, nickel-free hardware for elegance and safety Fully adjustable design for a secure, universal fit Made from easy-to-clean, high-quality vinyl Glamorous, seductive, and built for pleasure.Specifications:- UPC : 657447105708
-  Updated: 2026-10-16T17:23:47Z
-  Vendor: Cosmo
-  Product Type: Harness
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15676720_large_122213f1-e6a3-4831-b717-7b7cc9d346ff.png?v=1794328463
+  Price: £16.99 GBP
+- [Rocks Off RO-80mm Champagne Bullet Vibrator](https://unveileddesire.com/products/rocks-off-ro-80mm-champagne-bullet-vibrator): Pocket-sized pleasure, wherever desire leads. Waterproof. Shop the Rocks Off RO-80mm Champagne Bullet Vibrator with discreet UK delivery.
+  Updated: 2026-11-14T14:25:40Z
+  Vendor: Rocks Off
+  Product Type: Bullet & Egg Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65108538_large_c524068a-da98-4c4d-9ce6-2169cde019e4.png?v=1740236170
-  Price: £38.35 GBP
-- [Pro 4 - White](https://unveileddesire.com/products/pro-4-white): Shared Pleasure, Ultimate Stimulation Description:Take your intimacy to the next level with the Satisfyer Pro 4 Couples, designed to deliver dual pleasure for both partners. Its ergonomic U-shaped design offers deep G-spot stimulation, while the clitoral stimulator excites with Satisfyer’s signature pressure waves and intense vibrations. Made from velvety soft, body-safe silicone, the slim shaft ensures a comfortable fit, enhancing pleasure without distraction. With 11 pressure wave settings and 10 vibration modes, you can explore endless combinations to find your perfect rhythm. Fully waterproof, it’s ready for wet and wild fun in the bath or shower, and the USB rechargeable battery ensures it’s always ready for play. Specifications: Slim U-shaped design for G-spot & clitoral stimulation Intense pressure waves & deep vibrations Ergonomic fit for shared pleasure Soft, body-safe silicone 11 pressure wave settings & 10 vibration modes Waterproof (IPX7) for bath & shower play USB rechargeable with magnetic charging cable Experience next-level intimacy with the Satisfyer Pro 4 Couples – because pleasure is better together!Specifications:- Brand : Satisfyer- Barcode : 4049369015498- Size : OS- Color : White
-  Updated: 2026-10-16T17:23:47Z
-  Vendor: Satisfyer
-  Product Type: Dual Stimulation Vibrator
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15677508_large_bf20943f-52f5-429f-9439-dd2fb5b12b2f.png?v=1794328469
+  Price: £8.99 GBP
+- [Rocks Off Bullet Vibrator Chrome 80mm](https://unveileddesire.com/products/rocks-off-bullet-vibrator-chrome-80mm): Pocket-sized pleasure, wherever desire leads. Waterproof. Shop the Rocks Off Bullet Vibrator Chrome 80mm with discreet UK delivery.
+  Updated: 2026-11-14T14:25:40Z
+  Vendor: Rocks Off
+  Product Type: Bullet & Egg Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/mysecretcase-satisfyer-pro-4-couples-prodottoprodotto4_2_2048x2048_773b9876-052f-46a7-8b34-1ead692841bd.webp?v=1742415112
-  Price: £37.46 GBP
-- [Love Triangle - White](https://unveileddesire.com/products/love-triangle-white): Satisfyer Love Triangle – Triple the Pleasure Discover a new level of pleasure with the Satisfyer Love Triangle. This unique vibrator is designed to bring you intense sensations with its triple stimulation. Featuring two powerful motors, the Love Triangle offers targeted pleasure to your clitoris and G-spot simultaneously. Its ergonomic design and soft, body-safe silicone ensure comfort and effortless use, while the whisper-quiet motor makes it perfect for discreet enjoyment. With 11 pressure wave settings and 10 vibration modes, you can easily find your ideal combination for ultimate satisfaction. Waterproof and rechargeable, this toy is ready for pleasure anytime, anywhere. Specifications: Dual motors for clitoral and G-spot stimulation 11 pressure wave settings and 10 vibration modes Whisper-quiet motor for discreet play Made from body-safe, soft silicone Waterproof for easy cleaning and use in the shower or bathtub USB rechargeable for environmentally friendly fun Specifications:- Brand : Satisfyer- Barcode : 4061504001777- Color : White
-  Updated: 2026-10-16T17:23:47Z
-  Vendor: Satisfyer
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/25464834_large_3ba05bfa-f94b-4442-bade-29728ba663a3.png?v=1794328469
+  Price: £8.99 GBP
+- [Rocks Off Courtesan Bullet Vibrator Pink](https://unveileddesire.com/products/rocks-off-courtesan-bullet-vibrator-pink): Small enough to hide, strong enough to thrill. 10 functions, waterproof. Shop the Rocks Off Courtesan Bullet Vibrator Pink with discreet UK delivery.
+  Updated: 2026-11-14T14:25:40Z
+  Vendor: Rocks Off
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41260041_large_0cb5837f-acd4-4332-b411-644a77b2d09f.png?v=1794328475
+  Price: £13.99 GBP
+- [Rocks Off Astryx Rechargeable Plug Purple](https://unveileddesire.com/products/rocks-off-astryx-rechargeable-plug-purple): Discover the thrill of the backdoor. Body-safe silicone, USB rechargeable. Shop the Rocks Off Astryx Rechargeable Plug Purple with discreet UK delivery.
+  Updated: 2026-11-14T14:25:40Z
+  Vendor: Rocks Off
+  Product Type: Butt Plugs
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/412285654_large_d5b37f99-3215-4b97-b74d-522506b28cd4.png?v=1794328475
+  Price: £22.99 GBP
+- [Rocks Off O-Boy 7 Male Prostate Massagers Black](https://unveileddesire.com/products/rocks-off-o-boy-7-male-prostate-massagers-black): Find his hidden pleasure point. 3 speeds, body-safe silicone, waterproof. Shop the Rocks Off O-Boy 7 Male Prostate Massagers Black with discreet UK delivery.
+  Updated: 2026-11-14T14:25:40Z
+  Vendor: Rocks Off
+  Product Type: Prostate Massagers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15680486_large_4948fc41-8947-44e4-8a59-edfd1a01b630.png?v=1794328481
+  Price: £21.99 GBP
+- [Rocks Off Bad-Boy 7 Male Prostate Massagers Black](https://unveileddesire.com/products/rocks-off-bad-boy-7-male-prostate-massagers-black): Find his hidden pleasure point. Shop the Rocks Off Bad-Boy 7 Male Prostate Massagers Black, discreet UK delivery.
+  Updated: 2026-11-15T01:01:45Z
+  Vendor: Rocks Off
+  Product Type: Prostate Massagers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15680319_large_88603638-6146-4bf8-8e78-f9bc2981d4db.png?v=1794328481
+  Price: £28.99 GBP
+- [Rocks Off Sovereign Rechargeable Prostate Massager](https://unveileddesire.com/products/rocks-off-sovereign-rechargeable-prostate-massager): Unlock a whole new kind of climax. Shop the Rocks Off Sovereign Rechargeable Prostate Massager, discreet UK delivery.
+  Updated: 2026-11-14T14:25:40Z
+  Vendor: Rocks Off
+  Product Type: Prostate Massagers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/412285661_large_7203c5b5-46b9-40c5-8bd2-4c3a86e65410.png?v=1794328487
+  Price: £29.99 GBP
+- [Rocks Off Petite Sensations Bubbles Purple Vibrator](https://unveileddesire.com/products/rocks-off-petite-sensations-bubbles-purple-vibrator): Turn up the feeling. Turn down the world. Shop the Rocks Off Petite Sensations Bubbles Purple Vibrator, discreet UK delivery.
+  Updated: 2026-11-14T14:25:40Z
+  Vendor: Rocks Off
+  Product Type: Vibrators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15680484_large_b6e28418-af37-4c90-b80f-ee4873bd40b2.png?v=1794328487
+  Price: £16.99 GBP
+- [Rocks Off Dominion Rechargeable Prostate Massager](https://unveileddesire.com/products/rocks-off-dominion-rechargeable-prostate-massager): Unlock a whole new kind of climax. Shop the Rocks Off Dominion Rechargeable Prostate Massager, discreet UK delivery.
+  Updated: 2026-11-14T14:25:40Z
+  Vendor: Rocks Off
+  Product Type: Prostate Massagers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/412285625_large_c0195e15-5c2b-4f93-9629-9bf7ad8cb394.png?v=1794328493
+  Price: £29.99 GBP
+- [Rocks Off Petite Sensations Teazer Black Anal Vibrator](https://unveileddesire.com/products/rocks-off-petite-sensations-teazer-black-anal-vibrator): Vibrations that go deeper. 3 speeds, body-safe silicone, waterproof. Shop the Rocks Off Petite Sensations Teazer Black Anal Vibrator with discreet UK delivery.
+  Updated: 2026-11-14T14:25:40Z
+  Vendor: Rocks Off
+  Product Type: Anal Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/31420567_large_c29377ad-cf9c-44a9-8b42-97c5a49849e7.png?v=1794328493
+  Price: £16.99 GBP
+- [Rocks Off Solaris Rechargeable Plug Purple](https://unveileddesire.com/products/rocks-off-solaris-rechargeable-plug-purple): Discover the thrill of the backdoor. Body-safe silicone, USB rechargeable. Shop the Rocks Off Solaris Rechargeable Plug Purple with discreet UK delivery.
+  Updated: 2026-11-14T14:25:40Z
+  Vendor: Rocks Off
+  Product Type: Butt Plug
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/412285641_large_2a0ad001-3eab-4169-b9ef-ef3c82e81d20.png?v=1794328498
+  Price: £22.99 GBP
+- [Rocks Off Petite Sensations Plug Black](https://unveileddesire.com/products/rocks-off-petite-sensations-plug-black): Discover the thrill of the backdoor. 3 speeds, body-safe silicone, waterproof. Shop the Rocks Off Petite Sensations Plug Black with discreet UK delivery.
+  Updated: 2026-11-14T14:25:40Z
+  Vendor: Rocks Off
+  Product Type: Butt Plug
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15680412_large_b7a35577-e8d4-4e03-8579-3e073c724b1b.png?v=1794328498
+  Price: £16.99 GBP
+- [Rocks Off Ruby Glow Purple Clitoral Vibrator](https://unveileddesire.com/products/rocks-off-ruby-glow-purple-clitoral-vibrator): Focused pleasure, exactly where you want it. 10 functions. Shop the Rocks Off Ruby Glow Purple Clitoral Vibrator with discreet UK delivery.
+  Updated: 2026-11-14T14:25:40Z
+  Vendor: Rocks Off
   Product Type: Clitoral Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15686912_large_8ae4081c-8bbc-4562-908c-d1bf1cafff50.png?v=1739818026
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/31416846_large_0f9917eb-07cf-4ed1-b6bd-5dd688803128.png?v=1794328505
+  Price: £29.99 GBP
+- [Rocks Off Be Mine Set Black/Gold](https://unveileddesire.com/products/rocks-off-be-mine-set-black-gold): Feel irresistible from the first layer. 7 functions, waterproof. Shop the Rocks Off Be Mine Set Black/Gold with discreet UK delivery.
+  Updated: 2026-11-14T14:25:40Z
+  Vendor: Rocks Off
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15683266_large_2e7ca4f8-2115-42ca-8059-454c1505b76e.png?v=1794328505
+  Price: £18.99 GBP
+- [Mina Flow Dual-Ended Wand Vibrator](https://unveileddesire.com/products/mina-flow-dual-ended-wand-vibrator): The classic wand, made irresistible. 10 functions, waterproof, USB rechargeable. Shop the Mina Flow Dual-Ended Wand Vibrator with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Loving Joy
+  Product Type: Wand Massager
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/488441763_large_b40c23e3-b725-4b8f-ab10-34ad9e421346.png?v=1794328510
   Price: £40.99 GBP
-- [Penguin](https://unveileddesire.com/products/penguin): Satisfyer Penguin – Wave of Pleasure Description:This sleek, playful device offers targeted pleasure with a soft, ergonomic design that fits comfortably in your hand. Designed for powerful, discreet satisfaction, the Satisfyer Penguin creates waves of intense sensations with ease, bringing you a delightful experience every time. Specifications: Ergonomic, compact design for easy handling Multiple intensity levels for customizable pleasure Waterproof for easy cleaning and shower use Quiet operation for discreet enjoyment Rechargeable for eco-friendly convenience Usage notes: Clean thoroughly before and after each use. Store in a cool, dry place. Recharge as needed.Specifications:- Brand : Satisfyer- Barcode : 4049369015108- Color : Black/White
-  Updated: 2026-10-16T17:23:47Z
-  Vendor: Satisfyer
-  Product Type: Clitoral Vibrator
+- [Mina Echo Remote Vibrating Strapless Strap-On | Loving Joy](https://unveileddesire.com/products/mina-echo-remote-vibrating-strapless-strap-on): Loving Joy Mina Echo strapless strap-on: silicone, 2 motors, 10 vibration modes, remote control, rechargeable. Free UK delivery over £35.
+  Updated: 2026-11-14T20:35:47Z
+  Vendor: Loving Joy
+  Product Type: Strap-On Kits
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/satisfyer-penguin-airpulse-first-view_1_-removebg-preview.png?v=1742418664
-  Price: £40.01 GBP
-- [High Fly - Red](https://unveileddesire.com/products/high-fly-red): Finger Vibes That Take You Higher Description:Take pleasure into your own hands with the High Fly, a sleek and versatile finger vibrator designed to glide effortlessly over all your erogenous zones. Whether you're teasing your clitoris, nipples, or anywhere in between, its ergonomic wings and rounded tip ensure maximum comfort and control. Don’t be fooled by its compact size—this power-packed toy delivers 12 deep, rumbly vibration programs, perfect for both gentle teasing and intense pleasure. Slip your finger between the flexible wings, and let the intuitive design put you in total control. Made from super-soft, body-safe silicone, the High Fly feels incredible against your skin and is 100% waterproof (IPX7) for steamy sessions in the shower or bath. Plus, it’s USB rechargeable, ensuring it's always ready for your next adventure. Specifications: Versatile finger vibrator for clitoral & erogenous zone stimulation 12 vibration programs for deep, powerful sensations Ergonomic winged design for intuitive control Super-soft, body-safe silicone for a smooth touch Waterproof (IPX7) for bath & shower fun USB rechargeable for endless pleasure Slip it on, turn it up, and let the High Fly take you to new heights!Specifications:- Brand : Satisfyer- Barcode : 4061504004129- Color : Red
-  Updated: 2026-10-16T17:23:47Z
-  Vendor: Satisfyer
-  Product Type: Panty Vibrator
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41211940_large_1eb761c6-9d05-4903-8e2f-25ee39cb22ec.png?v=1794328511
+  Price: £64.99 GBP
+- [Mina Veil Remote Controlled Panty Vibrator](https://unveileddesire.com/products/mina-veil-remote-controlled-panty-vibrator): Hand over the remote. Surrender to the thrill. Shop the Mina Veil Remote Controlled Panty Vibrator, discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Loving Joy
+  Product Type: Remote Control Toy
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/satisfyer-high-fly-magenta-finger-vibrator-front-viewzgmqTYXZwLOcS-removebg-preview_1.png?v=1742419180
-  Price: £29.03 GBP
-- [Pro To Go - Light Blue](https://unveileddesire.com/products/pro-to-go-light-blue): Powerful Clitoral Pleasure, Anytime, Anywhere Description:The sleek black Pro To Go 3 by Satisfyer is a compact powerhouse designed to deliver intense clitoral stimulation. Using advanced air pulse vibration technology, this suction vibrator creates irresistible sensations that prove size isn’t everything. Made from soft, smooth silicone, it’s also waterproof and rechargeable, making it the perfect toy for pleasure on the go. Specifications: Air pulse technology for clitoral suction stimulation Compact and travel-friendly design Soft, smooth silicone for a luxurious feel Waterproof (IPX7) for bath or shower use Rechargeable with USB cable included Experience satisfaction wherever life takes you with the Pro To Go 3.Specifications:- Brand : Satisfyer- Barcode : 4061504045139- Color : Blue
-  Updated: 2026-10-16T17:23:47Z
-  Vendor: Satisfyer
-  Product Type: Clitoral Vibrator
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/160703534_large_398dcf46-14aa-4660-8227-05d7dc42b993.png?v=1794328517
+  Price: £40.99 GBP
+- [Mina Bloom 2 in 1 Rabbit Vibrator](https://unveileddesire.com/products/mina-bloom-2-in-1-rabbit-vibrator): Inside and out, all at once. 10 functions, body-safe silicone, waterproof. Shop the Mina Bloom 2 in 1 Rabbit Vibrator with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Loving Joy
+  Product Type: Rabbit Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/ptg3-01.webp?v=1742413903
-  Price: £37.10 GBP
-- [Dare - Red](https://unveileddesire.com/products/dare-red): Introducing the Dare Red Playsuit, where elegance meets boldness. This seductive playsuit is designed to empower your inner confidence, featuring luxurious satin fabric that hugs your curves. With intricate straps and a flattering cut, it combines sensuality and sophistication in one piece. Whether you are dressing up for a special occasion or enjoying an intimate evening, this playsuit will make you feel like a true vision of allure. **~ Striking Design ~** The bold satin straps and cut-out details create a seductive and daring look, perfect for those who love to make a statement. **~ Luxurious Comfort ~** Crafted from high-quality satin that feels soft against the skin while providing a comfortable fit. **~ Handcrafted Quality ~** Each piece is carefully designed to ensure both beauty and durability, allowing you to feel confident and empowered. **~ Versatile Elegance ~** Perfect for layering or wearing alone, this playsuit is ideal for special occasions or intimate moments. ~Material: Soft, breathable satin that offers a flattering and comfortable fit. ~ Color Options: Bold red, exuding confidence and sensuality. ~Sizes: Available in Small (UK 6/8), Medium (UK 8/10), and Large (UK 12/14). ~ Care Instructions: Hand wash recommended to maintain the integrity of the fabric and detailing. Elevate your intimate wardrobe with the Dare Red Playsuit and experience the perfect blend of elegance, luxury, and empowerment. LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-10-16T17:23:47Z
-  Vendor: Wiln
-  Product Type: Bodydolls e chemises
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/488441779_large_fb70d2d7-45d9-4298-affa-40ee82920d88.png?v=1794328518
+  Price: £52.99 GBP
+- [Mina Surge Thrusting Strapless Strap-On | Loving Joy](https://unveileddesire.com/products/mina-surge-remote-thrusting-vibrating-strapless-strap-on): Loving Joy Mina Surge strapless strap-on: silicone, 3 thrusting and 10 vibration modes, remote control, rechargeable. Free UK delivery over £35.
+  Updated: 2026-11-14T20:35:48Z
+  Vendor: Loving Joy
+  Product Type: Strap-On Kits
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/19657007_large_2dc6b30f-1bcf-473c-9de4-b748590073c2.png?v=1739249171
-  - [M / Wine](https://unveileddesire.com/products/dare-red?variant=50743420322058)
-    Availability: Available
-    Price: £27.15 GBP
-  - [S / Wine](https://unveileddesire.com/products/dare-red?variant=50743420354826)
-    Availability: Available
-    Price: £27.15 GBP
-  - [L / Wine](https://unveileddesire.com/products/dare-red?variant=50743420387594)
-    Availability: Available
-    Price: £27.15 GBP
-- [Thrill- Black/Pink](https://unveileddesire.com/products/thrill-black-and-pink): Introducing the THRILL 3-Piece Lingerie Set, a captivating ensemble designed to make you feel both elegant and empowered. This exquisite set features contrasting black floral lace and delicate baby pink mesh, creating a sensual and refined look. Key Features: ~ Design: A harmonious blend of black floral lace and soft pink mesh, featuring adjustable straps for a perfect fit. ~ Material: High-quality, soft mesh ensures comfort and a flattering fit. ~ Components: Includes an underwired open cup bralet, high-rise thong underwear, and a matching garter belt. ~ Color: Contrasting black and baby pink, exuding sophistication and allure. ~ Sizes: Available in Small (UK 4/6/8), Medium (UK 8/10), and Large (UK 12/14) to suit different body types. ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics and detailing. Elevate your intimate apparel with the THRILL 3-Piece Lingerie Set, perfect for special occasions or intimate evenings when you want to feel both elegant and empowered. Note: For more information and to explore the collection, you may visit the official product page. LOOK AFTER ME All of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry. RETURNS Please note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-10-16T17:23:47Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41211952_large_63df9616-4a4b-4c3c-b33d-1d1664af17d5.png?v=1794328523
+  Price: £40.99 GBP
+- [Mina Sensation Rechargeable Rabbit Vibrator](https://unveileddesire.com/products/mina-sensation-rabbit-vibrator): Dual G-spot and clitoral bliss in silky, body-safe silicone. 10 functions, waterproof and USB rechargeable. Shop the Mina Sensation rabbit vibrator UK.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Loving Joy
+  Product Type: Rabbit Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/25381521_large_5874dcd0-c993-4956-9844-b939404ca29c.png?v=1739249173
-  - [S with STOCKINGS / Black](https://unveileddesire.com/products/thrill-black-and-pink?variant=50743420453130)
-    Availability: Not Available
-    Price: £29.49 GBP
-  - [L (uk12/14) / Black](https://unveileddesire.com/products/thrill-black-and-pink?variant=50743420485898)
-    Availability: Available
-    Price: £24.03 GBP
-  - [S (uk4/6/8) / Black](https://unveileddesire.com/products/thrill-black-and-pink?variant=50743420518666)
-    Availability: Not Available
-    Price: £24.03 GBP
-  - [M with STOCKINGS / Black](https://unveileddesire.com/products/thrill-black-and-pink?variant=50743420551434)
-    Availability: Not Available
-    Price: £29.49 GBP
-  - [M (uk8/10) / Black](https://unveileddesire.com/products/thrill-black-and-pink?variant=50743420584202)
-    Availability: Not Available
-    Price: £24.03 GBP
-- [Devotion - White](https://unveileddesire.com/products/devotion-white): Introducing the DEVOTION White Teddy Body Piece Romantic Lingerie Set, a captivating ensemble designed to make you feel like a goddess. This exquisite set features luxurious lace adorned with delicate embroidery flowers and a sheer peach outline, adding a touch of opulence to your intimate wardrobe. The lightly wired bra enhances support and emphasizes your natural beauty, while the intricate embroidery highlights all the right places. Perfect for brides, anniversaries, or any occasion when you want to feel special. Key Features: ~ Design: Delicate white lace complemented by intricate floral embroidery and a sheer peach outline, creating a romantic and elegant look. ~ Material: High-quality, soft lace ensures comfort and a flattering fit. ~ Components: Includes a lightly wired bra and a body piece that emphasizes your natural curves. ~ Color: Timeless white, symbolizing purity and devotion. ~ Sizes: Available in various sizes to suit different body types. ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics and detailing. Elevate your intimate apparel with the DEVOTION White Teddy Body Piece Romantic Lingerie Set, perfect for special occasions or intimate evenings when you want to feel both elegant and empowered. Note: For more information and to explore the collection, you may visit the official product page. LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-10-16T17:23:47Z
-  Vendor: Wiln
-  Product Type: Bodydolls e chemises
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59320095_large_33995f96-11b4-40cd-b780-ddbc0f3e8aa3.png?v=1794328524
+  Price: £35.99 GBP
+- [Mina Glossy Lipstick Vibrator](https://unveileddesire.com/products/mina-glossy-lipstick-vibrator): Made for slow builds and sweet release. Body-safe silicone, waterproof, USB rechargeable. Shop the Mina Glossy Lipstick Vibrator with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Loving Joy
+  Product Type: Vibrators
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/19486189_large_ff085776-98ac-43a8-af63-1b0dcf233e3f.png?v=1739249178
-  - [S](https://unveileddesire.com/products/devotion-white?variant=50743420649738)
-    Availability: Not Available
-    Price: £34.95 GBP
-  - [M](https://unveileddesire.com/products/devotion-white?variant=50743420682506)
-    Availability: Available
-    Price: £34.95 GBP
-  - [S with White Sheer Stockings](https://unveileddesire.com/products/devotion-white?variant=50743420715274)
-    Availability: Not Available
-    Price: £39.63 GBP
-  - [L](https://unveileddesire.com/products/devotion-white?variant=50743420748042)
-    Availability: Available
-    Price: £34.95 GBP
-  - [L with White Sheer Stockings](https://unveileddesire.com/products/devotion-white?variant=50743420780810)
-    Availability: Available
-    Price: £39.63 GBP
-  - [M with White Sheer Stockings](https://unveileddesire.com/products/devotion-white?variant=50743420813578)
-    Availability: Not Available
-    Price: £39.63 GBP
-- [Intimacy - bBack](https://unveileddesire.com/products/intimacy-black): Introducing the INTIMACY 3-Piece Lingerie Set in Black, a captivating ensemble designed to make you feel both elegant and empowered. This exquisite set features delicate black lace adorned with intricate detailing, adding a touch of sophistication to your intimate wardrobe. Key Features: ~ Design: A harmonious blend of lace and satin, creating a sensual and refined look. ~ Material: High-quality, soft lace ensures comfort and a flattering fit. ~ Components: Includes a delicate lace bra, a waist-cinching garter belt, and matching thong bottoms. ~ Color: Timeless black, exuding sophistication and allure. ~ Sizes: Available in various sizes to suit different body types. ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics and detailing. Elevate your intimate apparel with the INTIMACY 3-Piece Lingerie Set in Black, perfect for special occasions or intimate evenings when you want to feel both elegant and empowered. Note: For more information and to explore the collection, you may visit the official product page.Â LOOK AFTER ME All of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry. RETURNS Please note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-10-16T17:23:47Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59530255_large_53a24227-6317-4e34-8f81-a0007276d435.png?v=1794328529
+  Price: £22.99 GBP
+- [Mina Orbit 2-in-1 Rabbit Vibrator with Penis Ring](https://unveileddesire.com/products/mina-orbit-2-in-1-rabbit-vibrator): Mina Orbit 2-in-1 rabbit vibrator with a penis ring attachment: 10 functions, pulsating G-spot tip, waterproof, rechargeable. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Loving Joy
+  Product Type: Rabbit Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/12889177_large_8ddfd4e5-89da-490d-b88a-401d8785b22a.png?v=1739249184
-  - [L](https://unveileddesire.com/products/intimacy-black?variant=50743421042954)
-    Availability: Available
-    Price: £31.05 GBP
-  - [M](https://unveileddesire.com/products/intimacy-black?variant=50743421075722)
-    Availability: Not Available
-    Price: £31.05 GBP
-  - [S](https://unveileddesire.com/products/intimacy-black?variant=50743421108490)
-    Availability: Not Available
-    Price: £31.05 GBP
-- [Feel - Black](https://unveileddesire.com/products/feel-black): Introducing the FEEL 3-Piece Lace Lingerie Set, a captivating ensemble designed to make you feel both elegant and empowered. This exquisite set features delicate lace adorned with intricate floral patterns, adding a touch of sophistication to your intimate wardrobe. Key Features: ~ Design: A harmonious blend of lace and satin, creating a sensual and refined look. ~ Material: High-quality, soft lace ensures comfort and a flattering fit. ~ Components: Includes a delicate lace bra, a waist-cinching garter belt, and matching thong bottoms. ~ Color: Available in classic black, exuding timeless elegance. ~ Sizes: Available in various sizes to suit different body types. ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics and detailing. Elevate your intimate apparel with the FEEL 3-Piece Lace Lingerie Set, perfect for special occasions or intimate evenings when you want to feel both elegant and empowered. Note: For more information and to explore the collection, you may visit the official product page. LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.oft feel against the skin. Unpadded cups and a non-wired construction offer natural shaping.
-  Updated: 2026-10-16T17:23:47Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/36798844_large_fca2067d-2541-4f84-b54c-85c6103d311c.png?v=1739249184
-  - [S](https://unveileddesire.com/products/feel-black?variant=50743421174026)
-    Availability: Available
-    Price: £32.61 GBP
-  - [L](https://unveileddesire.com/products/feel-black?variant=50743421206794)
-    Availability: Available
-    Price: £32.61 GBP
-  - [M](https://unveileddesire.com/products/feel-black?variant=50743421239562)
-    Availability: Available
-    Price: £32.61 GBP
-- [Orgasm - Black](https://unveileddesire.com/products/orgasm-black): Introducing the ORGASM 4-Piece Lace Lingerie Set in Black, a seductive ensemble designed to ignite passion and confidence. This captivating set features intricate black lace, combining elegance with allure. The set includes a delicate lace bra, a waist-cinching garter belt, matching thong bottoms, and adjustable garters, all crafted to enhance your natural beauty and empower your sensuality. Key Features: ~ Design: Delicate black lace complemented by intricate detailing, creating a seductive and elegant look. ~ Material: High-quality, soft lace ensures comfort and a flattering fit. ~ Components: Includes a lace bra, waist-cinching garter belt, matching thong bottoms, and adjustable garters. ~ Color: Timeless black, exuding sophistication and allure. ~ Sizes: Available in various sizes to suit different body types. ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics and detailing. Elevate your intimate apparel with the ORGASM 4-Piece Lace Lingerie Set in Black, perfect for special occasions or intimate evenings when you want to feel both elegant and empowered. Note: For more information and to explore the collection, you may visit the official product page. LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.oft feel against the skin. Unpadded cups and a non-wired construction offer natural shaping.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/25381515_large_3f0e71f3-a91d-43eb-8b51-1db8881935b6.png?v=1739249189
-  - [M (uk 8/10) / Black](https://unveileddesire.com/products/orgasm-black?variant=50743421698314)
-    Availability: Available
-    Price: £29.49 GBP
-  - [L (uk 12/14) / Black](https://unveileddesire.com/products/orgasm-black?variant=50743421731082)
-    Availability: Available
-    Price: £29.49 GBP
-  - [S (uk 6/8) / Black](https://unveileddesire.com/products/orgasm-black?variant=50743421763850)
-    Availability: Available
-    Price: £29.49 GBP
-- [ - Red and Black](https://unveileddesire.com/products/-red-and-black): Introducing the  4-Piece Lingerie Set in Red and Black, a daring ensemble designed to ignite passion and confidence. This seductive set combines bold red lace with sultry black mesh, creating a striking contrast that enhances your curves. The set includes an underwired bra, a waist-cinching garter belt, a matching thong, and adjustable garters, all crafted to make you feel irresistibly empowered. Key Features: ~ Striking Design: A bold mix of red lace and black mesh for a dramatic, seductive look. ~ Premium Material: Soft, breathable lace and mesh for a comfortable yet sensual fit. ~ Complete Set: Includes an underwired bra, garter belt, matching thong, and adjustable garters. ~ Adjustable Fit: Customizable straps and closures to ensure the perfect fit. ~ Available Sizes: Inclusive sizing to celebrate all body types. ~ Care Instructions: Hand wash recommended to maintain fabric integrity and detailing. Command attention and embrace your boldest desires with the  4-Piece Lingerie Set in Red and Blackâ€”because confidence is the sexiest thing you can wear. LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/18481926_large_1cf9b0d6-7756-44d2-8b0d-3e6a9e537f61.png?v=1739249189
-  - [L](https://unveileddesire.com/products/-red-and-black?variant=50743421829386)
-    Availability: Available
-    Price: £34.95 GBP
-  - [S](https://unveileddesire.com/products/-red-and-black?variant=50743421862154)
-    Availability: Not Available
-    Price: £34.95 GBP
-  - [M](https://unveileddesire.com/products/-red-and-black?variant=50743421894922)
-    Availability: Not Available
-    Price: £34.95 GBP
-- [Demand - Black](https://unveileddesire.com/products/demand-black): Introducing the DEMAND 3-Piece Lingerie Set in Black, a must-have ensemble designed to accentuate your silhouette and boost your confidence. This set includes a mesh bra, matching panties, and a garter belt, all crafted to enhance your curves and make you feel both beautiful and empowered.Â Key Features: ~ Design: Sheer black mesh fabric that elegantly highlights your natural contours. ~ Material: High-quality, breathable mesh ensures comfort and durability. ~ Components: A supportive mesh bra, coordinating panties, and a garter belt to complete the ensemble. ~ Adjustability: Adjustable straps and closures provide a personalized fit. ~ Color: Classic black, offering a timeless and versatile look. ~ Sizes: Available in a range of sizes to suit different body types. ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics. Elevate your intimate wardrobe with the DEMAND 3-Piece Lingerie Set in Black, perfect for any occasion when you want to feel fabulous.Â LOOK AFTER ME All of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry. RETURNS Please note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-08-29T07:40:35Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/19643657_large_df960e17-c114-46e2-a2ff-6db5cded56e0.png?v=1739249196
-  - [Black / S](https://unveileddesire.com/products/demand-black?variant=50743422189834)
-    Availability: Available
-    Price: £29.49 GBP
-  - [Black / L](https://unveileddesire.com/products/demand-black?variant=50743422222602)
-    Availability: Available
-    Price: £29.49 GBP
-  - [Black / M](https://unveileddesire.com/products/demand-black?variant=50743422255370)
-    Availability: Available
-    Price: £29.49 GBP
-- [Dominatrix - White](https://unveileddesire.com/products/dominatrix-white): DOMINATRIX PlaysuitRead between the lines of the best- DOMINATRIX Bodysuit. This dominatrix-style bandage number comes with removable accessories like a harness collar and leg garters. Pair it with leather pants and an optional top for a club-ready look; with this form-fitting beauty hiding under your outfit, you’re all set for a sexy reveal later in the night.The thick waistband perfectly nips in your sides for that highly desirable hourglass shape, and the button closure between your legs offers the freedom of a quick escape. Ready to heat up your bedroom look? The DOMINATRIX Bodysuit will do the trick. This  lingerie set will tap your partner in his wildest bondage dreams.DETAILSUnderwire, caged, bandage style cupMesh bodysuit with thick, supportive bandageRemovable neck harness and leg gartersSIZE RECOMMENDATIONSSMALL - best fit UK 6/8MEDIUM - best fit UK 8/10LARGE - best fit UK 12/14LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Bodydolls e chemises
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/19654807_large_07b09c50-5fa5-48df-b13b-4c93fad2fb72.png?v=1739249206
-  - [S / White](https://unveileddesire.com/products/dominatrix-white?variant=50743422320906)
-    Availability: Available
-    Price: £27.93 GBP
-  - [L / White](https://unveileddesire.com/products/dominatrix-white?variant=50743422353674)
-    Availability: Not Available
-    Price: £27.93 GBP
-  - [M / White](https://unveileddesire.com/products/dominatrix-white?variant=50743422386442)
-    Availability: Available
-    Price: £27.93 GBP
-  - [XL / White](https://unveileddesire.com/products/dominatrix-white?variant=50743422419210)
-    Availability: Available
-    Price: £27.93 GBP
-- [Divine - White](https://unveileddesire.com/products/divine-white): Introducing the DIVINE 3-Piece Romantic Lingerie Set, an exquisite ensemble designed to celebrate your natural beauty and add a touch of romance to your intimate moments. This set includes a sheer mesh bra, a matching panty, and a delicate garter belt, all adorned with intricate floral embroidery and charming bow details. Available in soft hues of white, baby blue, and baby pink, its the perfect choice for special occasions like weddings, anniversaries, or any time you wish to feel truly special.Â Elevate your lingerie collection with the DIVINE 3-Piece Romantic Lingerie Set, and experience the perfect blend of elegance, comfort, and sensuality. BONUSThe receiver won't be disappointed.Shipped in beautiful and discrete packaging.Comes in complimentary gift packaging ready to be gifted to your loved one.DETAILSUnderwired Adjustable bra strapsG-string thong bottoms SIZE RECOMMENDATIONSSMALL - best fit UK 4/6/8 MEDIUM - best fit UK 8/10LARGE - best fit UK 12/14LOOK AFTER ME All of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry. RETURNS Please note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/19658892_large_27999829-d6bd-4746-a343-2dee33fd8980.png?v=1739249207
-  - [M / White](https://unveileddesire.com/products/divine-white?variant=50743422484746)
-    Availability: Available
-    Price: £25.59 GBP
-  - [L / White](https://unveileddesire.com/products/divine-white?variant=50743422517514)
-    Availability: Available
-    Price: £25.59 GBP
-  - [XL / White](https://unveileddesire.com/products/divine-white?variant=50743422550282)
-    Availability: Available
-    Price: £25.59 GBP
-  - [S / White](https://unveileddesire.com/products/divine-white?variant=50743422583050)
-    Availability: Available
-    Price: £25.59 GBP
-- [Dominatrix - Red](https://unveileddesire.com/products/dominatrix-red): Read between the lines of the best- DOMINATRIX Bodysuit. This dominatrix-style bandage number comes with removable accessories like a harness collar and leg garters. Pair it with leather pants and an optional top for a club-ready look; with this form-fitting beauty hiding under your outfit, you’re all set for a sexy reveal later in the night.The thick waistband perfectly nips in your sides for that highly desirable hourglass shape, and the button closure between your legs offers the freedom of a quick escape. Ready to heat up your bedroom look? The DOMINATRIX Bodysuit will do the trick. This  lingerie set will tap your partner in his wildest bondage dreams.DETAILSUnderwire, caged, bandage style cupMesh bodysuit with thick, supportive bandageRemovable neck harness and leg gartersSIZE RECOMMENDATIONSSMALL - best fit UK 6/8MEDIUM - best fit UK 8/10LARGE - best fit UK 12/14LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Bodydolls e chemises
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/13355165_large_ac254283-ed3b-40a9-9123-0d37c427197d.png?v=1739249212
-  - [L / Red](https://unveileddesire.com/products/dominatrix-red?variant=50743422714122)
-    Availability: Available
-    Price: £27.93 GBP
-  - [XL / Red](https://unveileddesire.com/products/dominatrix-red?variant=50743422746890)
-    Availability: Available
-    Price: £27.93 GBP
-  - [S / Red](https://unveileddesire.com/products/dominatrix-red?variant=50743422779658)
-    Availability: Available
-    Price: £27.93 GBP
-  - [M / Red](https://unveileddesire.com/products/dominatrix-red?variant=50743422812426)
-    Availability: Available
-    Price: £27.93 GBP
-- [Goddess](https://unveileddesire.com/products/goddess): Introducing the GODDESS Luxurious Satin Robe in White, where opulence meets comfort. Crafted from premium satin, this robe offers a silky-smooth touch against your skin, making it an ideal choice for bridal preparations or indulgent evenings at home. The pristine white hue exudes timeless elegance, ensuring you feel like a true goddess whenever you wear it.Channel your inner royal in this sumptuous bridal Robe in white satin. The elegant flowy long sleeves of the kimono will make you feel like a goddess! It doesn't get much more luxurious - or bridal - than that. Celebrate your wedding day or any other day with this getting-ready dressing gown that'll always remind you of your special day. Your girl will forever have a piece of magic to lounge and relax in, treating them to ultimate luxury. Why wait? Our women's satin robes are the perfect choice for the wedding night, honeymoon, Valentine's Day, anniversary, Christmas day, lingerie party or every hot night with no special occasion. This sexy lingerie set is an ideal Valentine's day gift for your wife or girlfriend.High-quality and excellent craftsmanship for you to feel confident and relaxed allowing you to focus on yourself.BONUSThe receiver won't be disappointed.Shipped in beautiful and discrete packaging.DETAILS Wide Kimono sleeves Feather trim details Ultimate relaxed and glamorous fit Soft and drapped SIZE RECOMMENDATIONSSMALL - best fit UK 6 / 8MEDIUM - best fit UK 8 / 10LARGE - best fit UK 12 / 14 *Model is wearing size S for reference.LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Robes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/21022536_large_dd20c959-a29e-4a8d-b6ba-1d359b547933.png?v=1739249212
-  - [S](https://unveileddesire.com/products/goddess?variant=50743422877962)
-    Availability: Not Available
-    Price: £48.99 GBP
-  - [M](https://unveileddesire.com/products/goddess?variant=50743422910730)
-    Availability: Available
-    Price: £48.99 GBP
-  - [L](https://unveileddesire.com/products/goddess?variant=50743422943498)
-    Availability: Available
-    Price: £48.99 GBP
-- [Flirt](https://unveileddesire.com/products/flirt): Introducing the Flirt Lingerie Collection, where sophistication meets allure. Each piece is thoughtfully designed to enhance your natural beauty, combining comfort with a touch of elegance. Embrace your inner confidence with lingerie that feels as exquisite as it looks. **~ Refined Design ~** Our collection features sleek designs that offer a sophisticated and timeless look. **~ Luxurious Comfort ~** Crafted from premium, body-safe fabrics that gently caress your skin, ensuring a comfortable fit. **~ Handcrafted Quality ~** Each piece is thoughtfully designed and meticulously constructed to provide lasting beauty. **~ Versatile Elegance ~** Perfect for special occasions or to make any day feel extraordinary, available in a variety of colors to suit your personal style. Specifications: ~ Material: High-quality, body-safe fabrics ~ Color Options: A variety of elegant hues to suit your personal style ~ Sizes: Inclusive sizing to celebrate and fit all body types ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics Elevate your intimate wardrobe with the Flirt Lingerie Collection, and experience the perfect blend of elegance, luxury, and sensuality. LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.oft feel against the skin. Unpadded cups and a non-wired construction offer natural shaping.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Bodydolls e chemises
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/29022045_large_2034471a-c28b-4d24-a953-1a34cf44120f.png?v=1739249217
-  - [Black / S](https://unveileddesire.com/products/flirt?variant=50743423402250)
-    Availability: Available
-    Price: £32.61 GBP
-  - [Black / L](https://unveileddesire.com/products/flirt?variant=50743423435018)
-    Availability: Available
-    Price: £32.61 GBP
-  - [Black / XL](https://unveileddesire.com/products/flirt?variant=50743423467786)
-    Availability: Available
-    Price: £32.61 GBP
-  - [Black / M](https://unveileddesire.com/products/flirt?variant=50743423500554)
-    Availability: Available
-    Price: £32.61 GBP
-- [Muse - Red](https://unveileddesire.com/products/muse-red): Introducing the MUSE 3-Piece Lingerie Set in Red, a captivating ensemble designed to make you feel like a goddess. This exquisite set features luxurious lace adorned with feathers and chain details, adding a touch of opulence to your intimate wardrobe. The set includes a soft lace bra, a waist-cinching suspender belt with garter attachments, and matching thong bottoms, all crafted to enhance your natural beauty and confidence. Key Features: ~ Design: Delicate lace complemented by luxurious feathers and chain details, creating a seductive and elegant look. ~ Material: High-quality, soft lace ensures comfort and a flattering fit. ~ Components: A soft lace bra, waist-cinching suspender belt with garter attachments, and matching thong bottoms complete the ensemble. ~ Color: Vibrant red, exuding confidence and allure. ~ Sizes: Available in Small (UK 4/6/8), Medium (UK 8/10), and Large (UK 12/14) to suit different body types. ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics and detailing. Elevate your intimate apparel with the MUSE 3-Piece Lingerie Set in Red, perfect for any occasion when you want to feel both elegant and empowered. LOOK AFTER ME All of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry. RETURNS Please note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/25381659_large_11363695-ddc9-4bd5-abf5-295ffee34d9b.png?v=1739249223
-  - [SMALL( uk 4/6/8) / Red](https://unveileddesire.com/products/muse-red?variant=50743423795466)
-    Availability: Not Available
-    Price: £32.61 GBP
-  - [LARGE (uk 12/14) / Red](https://unveileddesire.com/products/muse-red?variant=50743423828234)
-    Availability: Not Available
-    Price: £32.61 GBP
-  - [MEDIUM ( uk 8/10) / Red](https://unveileddesire.com/products/muse-red?variant=50743423861002)
-    Availability: Available
-    Price: £32.61 GBP
-- [Barbie - Pink](https://unveileddesire.com/products/barbie-pink): Introducing the BARBIE 4-Piece Lingerie Set in Pink, a captivating ensemble designed to make you feel both playful and alluring. This set includes an underwired open cup bralette, adjustable thong bottoms, a matching garter belt, and an adjustable choker, all crafted from delicate and soft mesh in a vibrant lipstick pink shade. The unexpected cut and delightful color make it a perfect choice for any occasion when you want to feel fabulous. Key Features: ~ Design: Underwired open cup bralette paired with adjustable thong bottoms, complemented by a matching garter belt and choker, all in a seductive lipstick pink hue. ~ Material: Crafted from delicate and soft mesh fabric, ensuring both comfort and a flattering fit. ~ Adjustability: Adjustable bra straps, cups, and thong bottoms allow for a personalized and secure fit. ~ Color: Vibrant lipstick pink, adding a playful yet seductive touch to your lingerie collection. ~ Sizes: Available in various sizes to accommodate different body types.~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics and detailing. Elevate your intimate wardrobe with the BARBIE 4-Piece Lingerie Set in Pink, and experience the perfect blend of playfulness, comfort, and sensuality. LOOK AFTER ME All of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry. RETURNS Please note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/32371576_large_b8d466ba-24aa-4bba-9c4f-b93479f69ac9.png?v=1739249229
-  - [S](https://unveileddesire.com/products/barbie-pink?variant=50743424057610)
-    Availability: Available
-    Price: £33.39 GBP
-  - [L](https://unveileddesire.com/products/barbie-pink?variant=50743424090378)
-    Availability: Available
-    Price: £33.39 GBP
-  - [M](https://unveileddesire.com/products/barbie-pink?variant=50743424123146)
-    Availability: Available
-    Price: £33.39 GBP
-- [Crave - White](https://unveileddesire.com/products/crave-white): Introducing the Crave Lingerie Collection, where elegance meets allure. Each piece is thoughtfully designed to enhance your natural beauty, combining comfort with a touch of sophistication. Embrace your inner confidence with lingerie that feels as exquisite as it looks. **~ Elegant Design ~** Our collection features sleek designs that offer a sophisticated and timeless look. **~ Luxurious Comfort ~** Crafted from premium, body-safe fabrics that gently caress your skin, ensuring a comfortable fit. **~ Handcrafted Quality ~** Each piece is meticulously constructed to provide lasting beauty and durability. **~ Versatile Elegance ~** Perfect for special occasions or to make any day feel extraordinary, available in a variety of colors to suit your personal style. Specifications: ~ Material: High-quality, body-safe fabrics ~ Color Options: A variety of elegant hues to suit your personal style ~ Sizes: Inclusive sizing to celebrate and fit all body types ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics Elevate your intimate wardrobe with the Crave Lingerie Collection, and experience the perfect blend of elegance, luxury, and sensuality. LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.oft feel against the skin. Unpadded cups and a non-wired construction offer natural shaping.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/33056860_large_5fefe1b1-ac30-4c1e-84d4-3988fb675ee9.png?v=1739249236
-  - [MEDIUM ( uk 8/10) / White](https://unveileddesire.com/products/crave-white?variant=50743424483594)
-    Availability: Available
-    Price: £26.37 GBP
-  - [LARGE (uk 12/14) / White](https://unveileddesire.com/products/crave-white?variant=50743424516362)
-    Availability: Available
-    Price: £26.37 GBP
-  - [SMALL( uk 4/6/8) / White](https://unveileddesire.com/products/crave-white?variant=50743424549130)
-    Availability: Available
-    Price: £26.37 GBP
-- [Eros - Lavander](https://unveileddesire.com/products/eros-lavander): Introducing the Eros 3-Piece Lace Lingerie Set in elegant lavender an harmonious blend of stretch floral lace and satin, designed to accentuate your natural beauty. This exquisite ensemble includes a soft lace suspender belt, a stretch-lace bra, and a matching thong, offering both comfort and allure for any special occasion. This supremely delicate lingerie set is crafted from stretch-quality floral lace and satin that offers an irresistible romantic vibe for wild nights.Feel amazing in one of our most flattering sets yet! A perfect figure-hugging and elegant 3 piece lavander lingerie set.Why wait for Valentine's Day, Birthday, Anniversary or any other special occasion when you can feel fabulous every single day? Or should we say night?Our EROS Intimates Set is a MUST HAVE in your wardrobe and it the perfect gift for her or him.High-quality and excellent craftsmanship for you to feel confident and relaxed during the day and night.The receiver won't be disappointed.Shipped in beautiful and discrete packaging.DETAILSSoft lace suspender belt Dreamy design with stretch-lace braMatching thongSIZE RECOMMENDATIONSSMALL - best fit UK 6/8MEDIUM - best fit UK 8/10LARGE - best fit UK 12/14LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.oft feel against the skin. Unpadded cups and a non-wired construction offer natural shaping.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/23869685_large_ba5b5a06-cfae-4ef1-b0e9-c90dbfc0999b.png?v=1739249241
-  - [L (uk 12/14) / Lavander](https://unveileddesire.com/products/eros-lavander?variant=50743425138954)
-    Availability: Not Available
-    Price: £28.71 GBP
-  - [M (uk 8/10) / Lavander](https://unveileddesire.com/products/eros-lavander?variant=50743425171722)
-    Availability: Available
-    Price: £28.71 GBP
-  - [S (uk 6/8) / Lavander](https://unveileddesire.com/products/eros-lavander?variant=50743425204490)
-    Availability: Not Available
-    Price: £28.71 GBP
-- [Pleasure](https://unveileddesire.com/products/pleasure): Introducing the Pleasure Lingerie Collection, where elegance meets allure. Each piece is thoughtfully designed to enhance your natural beauty, combining comfort with a touch of sophistication. Embrace your inner confidence with lingerie that feels as exquisite as it looks. **~ Elegant Design ~** Our collection features sleek designs that offer a sophisticated and timeless look. **~ Luxurious Comfort ~** Crafted from premium, body-safe fabrics that gently caress your skin, ensuring a comfortable fit. **~ Handcrafted Quality ~** Each piece is thoughtfully designed and meticulously constructed to provide lasting beauty. **~ Versatile Elegance ~** Perfect for special occasions or to make any day feel extraordinary, available in a variety of colors to suit your personal style. Specifications: ~ Material: High-quality, body-safe fabrics ~ Color Options: A variety of elegant hues to suit your personal style ~ Sizes: Inclusive sizing to celebrate and fit all body types ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics Elevate your intimate wardrobe with the Pleasure Lingerie Collection, and experience the perfect blend of elegance, luxury, and sensuality. LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.oft feel against the skin. Unpadded cups and a non-wired construction offer natural shaping.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/25381487_large_e24e0d3a-1834-4144-9a32-687b0c9d35d0.png?v=1739249246
-  - [MEDIUM ( uk 8/10) / Pastel](https://unveileddesire.com/products/pleasure?variant=50743425270026)
-    Availability: Available
-    Price: £37.29 GBP
-  - [LARGE (uk 12/14) / Pastel](https://unveileddesire.com/products/pleasure?variant=50743425302794)
-    Availability: Available
-    Price: £37.29 GBP
-  - [SMALL( uk 4/6/8) / Pastel](https://unveileddesire.com/products/pleasure?variant=50743425335562)
-    Availability: Available
-    Price: £37.29 GBP
-- [Gasp - Black](https://unveileddesire.com/products/gasp-black): Introducing the Gasp Lingerie Collection, where bold design meets unapologetic allure. Each piece is thoughtfully crafted to accentuate your natural beauty, combining comfort with a touch of daring elegance. Embrace your inner confidence with lingerie that feels as exquisite as it looks. **~ Bold Design ~** Our collection features daring designs that offer a sophisticated and timeless look. **~ Luxurious Comfort ~** Crafted from premium, body-safe fabrics that gently caress your skin, ensuring a comfortable fit. **~ Handcrafted Quality ~** Each piece is thoughtfully designed and meticulously constructed to provide lasting beauty. **~ Versatile Elegance ~** Perfect for special occasions or to make any day feel extraordinary, available in a variety of colors to suit your personal style. Specifications: ~ Material: High-quality, body-safe fabrics ~ Color Options: A variety of elegant hues to suit your personal style ~ Sizes: Inclusive sizing to celebrate and fit all body types ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics Elevate your intimate wardrobe with the Gasp Lingerie Collection, and experience the perfect blend of elegance, luxury, and sensuality. LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.oft feel against the skin. Unpadded cups and a non-wired construction offer natural shaping.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Bodydolls e chemises
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/20080907_large_595351e2-df9e-441c-9695-1a5310ef97d2.png?v=1739249247
-  - [S / Black](https://unveileddesire.com/products/gasp-black?variant=50743425401098)
-    Availability: Not Available
-    Price: £32.61 GBP
-  - [L / Black](https://unveileddesire.com/products/gasp-black?variant=50743425433866)
-    Availability: Available
-    Price: £32.61 GBP
-  - [M / Black](https://unveileddesire.com/products/gasp-black?variant=50743425466634)
-    Availability: Available
-    Price: £32.61 GBP
-- [Crave - Pink](https://unveileddesire.com/products/crave-pink): Introducing the Crave Lingerie Collection, where elegance meets allure. Each piece is thoughtfully designed to enhance your natural beauty, combining comfort with a touch of sophistication. Embrace your inner confidence with lingerie that feels as exquisite as it looks. **~ Elegant Design ~** Our collection features sleek designs that offer a sophisticated and timeless look. **~ Luxurious Comfort ~** Crafted from premium, body-safe fabrics that gently caress your skin, ensuring a comfortable fit. **~ Handcrafted Quality ~** Each piece is meticulously constructed to provide lasting beauty and durability. **~ Versatile Elegance ~** Perfect for special occasions or to make any day feel extraordinary, available in a variety of colors to suit your personal style. Specifications: ~ Material: High-quality, body-safe fabrics ~ Color Options: A variety of elegant hues to suit your personal style ~ Sizes: Inclusive sizing to celebrate and fit all body types ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics Elevate your intimate wardrobe with the Crave Lingerie Collection, and experience the perfect blend of elegance, luxury, and sensuality. LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.oft feel against the skin. Unpadded cups and a non-wired construction offer natural shaping.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/19640702_large_e23c0962-9c73-4192-8240-ad4458244dc9.png?v=1739249253
-  - [SMALL( uk 4/6/8) / Pink](https://unveileddesire.com/products/crave-pink?variant=50743425663242)
-    Availability: Available
-    Price: £26.37 GBP
-  - [MEDIUM ( uk 8/10) / Pink](https://unveileddesire.com/products/crave-pink?variant=50743425696010)
-    Availability: Available
-    Price: £26.37 GBP
-  - [LARGE (uk 12/14) / Pink](https://unveileddesire.com/products/crave-pink?variant=50743425728778)
-    Availability: Available
-    Price: £26.37 GBP
-- [Obscene](https://unveileddesire.com/products/obscene): Introducing the Obscene Lingerie Collection, where bold design meets unapologetic allure. Each piece is meticulously crafted to accentuate your natural beauty, combining comfort with a touch of daring elegance. Embrace your inner confidence with lingerie that feels as exquisite as it looks. **~ Bold Design ~** Our collection features daring designs that offer a sophisticated and timeless look. **~ Luxurious Comfort ~** Crafted from premium, body-safe fabrics that gently caress your skin, ensuring a comfortable fit. **~ Handcrafted Quality ~** Each piece is thoughtfully designed and meticulously constructed to provide lasting beauty. **~ Versatile Elegance ~** Perfect for special occasions or to make any day feel extraordinary, available in a variety of colors to suit your personal style. Specifications: ~ Material: High-quality, body-safe fabrics ~ Color Options: A variety of elegant hues to suit your personal style ~ Sizes: Inclusive sizing to celebrate and fit all body types ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics Elevate your intimate wardrobe with the Obscene Lingerie Collection, and experience the perfect blend of elegance, luxury, and sensuality. LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.oft feel against the skin. Unpadded cups and a non-wired construction offer natural shaping.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/18669070_large_696beca0-7e36-4068-8a0c-17e094bffc16.png?v=1739249258
-  - [S](https://unveileddesire.com/products/obscene?variant=50743425827082)
-    Availability: Available
-    Price: £35.73 GBP
-  - [L](https://unveileddesire.com/products/obscene?variant=50743425859850)
-    Availability: Available
-    Price: £35.73 GBP
-  - [L with Premium Vegan Leather Gloves](https://unveileddesire.com/products/obscene?variant=50743425892618)
-    Availability: Available
-    Price: £45.87 GBP
-  - [M with Premium Vegan Leather Gloves](https://unveileddesire.com/products/obscene?variant=50743425925386)
-    Availability: Available
-    Price: £45.87 GBP
-  - [S with Premium Vegan Leather Gloves](https://unveileddesire.com/products/obscene?variant=50743425958154)
-    Availability: Available
-    Price: £45.87 GBP
-  - [M](https://unveileddesire.com/products/obscene?variant=50743425990922)
-    Availability: Available
-    Price: £35.73 GBP
-- [Hypnosis - Black](https://unveileddesire.com/products/hypnosis-black): Introducing the HYPNOSIS 3 Piece Lingerie Set, where delicate design meets captivating allure. Each piece is meticulously crafted to accentuate your natural beauty, combining comfort with a touch of elegance. Embrace your inner confidence with lingerie that feels as exquisite as it looks. **~ Captivating Design ~** Delicate mesh panels and a soft bustier bra create a sophisticated and alluring look. **~ Luxurious Comfort ~** Crafted from premium, body-safe fabrics that gently caress your skin, ensuring a comfortable fit. **~ Handcrafted Quality ~** Each piece is thoughtfully designed and meticulously constructed to provide lasting beauty. **~ Versatile Elegance ~** Perfect for special occasions or to make any day feel extraordinary, available in Black and Pink. Specifications: ~ Material: High-quality, body-safe mesh fabrics ~ Color Options: Black and Pink ~ Sizes: Small (UK 4/6/8), Medium (UK 8/10), Large (UK 12/14) ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics Elevate your intimate wardrobe with the HYPNOSIS 3 Piece Lingerie Set, and experience the perfect blend of elegance, luxury, and sensuality. LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.oft feel against the skin. Unpadded cups and a non-wired construction offer natural shaping.
-  Updated: 2026-08-29T07:40:43Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/19666738_large_324b0708-2495-434b-afab-fd900d2d5245.png?v=1739249259
-  - [Black / M](https://unveileddesire.com/products/hypnosis-black?variant=50743426056458)
-    Availability: Not Available
-    Price: £27.93 GBP
-  - [Black / S](https://unveileddesire.com/products/hypnosis-black?variant=50743426089226)
-    Availability: Available
-    Price: £27.93 GBP
-  - [Black / L](https://unveileddesire.com/products/hypnosis-black?variant=50743426121994)
-    Availability: Available
-    Price: £27.93 GBP
-- [Exposed - Black](https://unveileddesire.com/products/exposed-black): Introducing the Exposed Lingerie Collection, where bold design meets unapologetic allure. Each piece is thoughtfully crafted to accentuate your natural beauty, combining comfort with a touch of daring elegance. Embrace your inner confidence with lingerie that feels as exquisite as it looks. **~ Bold Design ~** Our collection features daring designs that offer a sophisticated and timeless look. **~ Luxurious Comfort ~** Crafted from premium, body-safe fabrics that gently caress your skin, ensuring a comfortable fit. **~ Handcrafted Quality ~** Each piece is thoughtfully designed and meticulously constructed to provide lasting beauty. **~ Versatile Elegance ~** Perfect for special occasions or to make any day feel extraordinary, available in a variety of colors to suit your personal style. Specifications: ~ Material: High-quality, body-safe fabrics ~ Color Options: A variety of elegant hues to suit your personal style ~ Sizes: Inclusive sizing to celebrate and fit all body types ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics Elevate your intimate wardrobe with the Exposed Lingerie Collection, and experience the perfect blend of elegance, luxury, and sensuality. LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.oft feel against the skin. Unpadded cups and a non-wired construction offer natural shaping.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Bodydolls e chemises
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/12922205_large_4f3d1198-51ff-4801-bfdb-e18b327cdd40.png?v=1739249264
-  Price: £24.03 GBP
-- [Allure](https://unveileddesire.com/products/allure-1): Introducing the Allure Lingerie Collection, where elegance meets allure. Each piece is thoughtfully designed to enhance your natural beauty, combining comfort with a touch of sophistication. Embrace your inner confidence with lingerie that feels as exquisite as it looks. **~ Elegant Design ~** Our collection features sleek designs that offer a sophisticated and timeless look. **~ Luxurious Comfort ~** Crafted from premium, body-safe fabrics that gently caress your skin, ensuring a comfortable fit. **~ Handcrafted Quality ~** Each piece is thoughtfully designed and meticulously constructed to provide lasting beauty. **~ Versatile Elegance ~** Perfect for special occasions or to make any day feel extraordinary, available in a variety of colors to suit your personal style. Specifications: ~ Material: High-quality, body-safe fabrics ~ Color Options: A variety of elegant hues to suit your personal style ~ Sizes: Inclusive sizing to celebrate and fit all body types ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics Elevate your intimate wardrobe with the Allure Lingerie Collection, and experience the perfect blend of elegance, luxury, and sensuality. LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.oft feel against the skin. Unpadded cups and a non-wired construction offer natural shaping.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/33135118_large_56ce452c-56cf-4d29-8afc-223b87caf800.png?v=1739249264
-  - [LARGE (uk 12/14) / Pink](https://unveileddesire.com/products/allure-1?variant=50743426253066)
-    Availability: Not Available
-    Price: £27.15 GBP
-  - [SMALL( uk 4/6/8) / Pink](https://unveileddesire.com/products/allure-1?variant=50743426285834)
-    Availability: Available
-    Price: £27.15 GBP
-  - [MEDIUM ( uk 8/10) / Pink](https://unveileddesire.com/products/allure-1?variant=50743426318602)
-    Availability: Not Available
-    Price: £27.15 GBP
-- [Wrapped](https://unveileddesire.com/products/wrapped): Introducing the Wrapped Lingerie Collection, where elegance meets allure. Each piece is thoughtfully designed to enhance your natural beauty, combining comfort with a touch of sophistication. Embrace your inner confidence with lingerie that feels as exquisite as it looks. **~ Elegant Design ~** Our collection features sleek designs that offer a sophisticated and timeless look. **~ Luxurious Comfort ~** Crafted from premium, body-safe fabrics that gently caress your skin, ensuring a comfortable fit. **~ Handcrafted Quality ~** Each piece is thoughtfully designed and meticulously constructed to provide lasting beauty. **~ Versatile Elegance ~** Perfect for special occasions or to make any day feel extraordinary, available in a variety of colors to suit your personal style. Specifications: ~ Material: High-quality, body-safe fabrics ~ Color Options: A variety of elegant hues to suit your personal style ~ Sizes: Inclusive sizing to celebrate and fit all body types ~ Care Instructions: Hand wash recommended to maintain the integrity of the delicate fabrics Elevate your intimate wardrobe with the Wrapped Lingerie Collection, and experience the perfect blend of elegance, luxury, and sensuality. LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.oft feel against the skin. Unpadded cups and a non-wired construction offer natural shaping.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Bra e panty sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/21417028_large_c24e890c-d1be-408a-81bf-ec10941e515e.png?v=1739249269
-  - [Black](https://unveileddesire.com/products/wrapped?variant=50743426384138)
-    Availability: Available
-    Price: £23.25 GBP
-  - [Red](https://unveileddesire.com/products/wrapped?variant=50743426416906)
-    Availability: Available
-    Price: £23.25 GBP
-- [Elegance](https://unveileddesire.com/products/elegance): Introducing the Elegance 2-Piece Luxurious Satin Lounge Set, where sophistication meets ultimate comfort. This set features a silky satin robe and matching shorts, both designed to embrace your body in luxurious softness. Perfect for unwinding after a long day or lounging in style, the Elegance Lounge Set is the epitome of refined relaxation. **~ Refined Design ~** The robes flowing silhouette and the comfortable, flattering shorts combine to create a look of understated elegance. **~ Luxurious Comfort ~** Crafted from premium satin fabric, this set feels smooth and soft against the skin, offering unparalleled comfort. **~ Handcrafted Quality ~** Each piece is meticulously designed with attention to detail, ensuring both beauty and durability. **~ Versatile Wear ~** Ideal for lounging at home, this set is perfect for relaxing evenings or a chic addition to your nightwear collection. Specifications: ~ Material: Premium satin for a soft, smooth touch and breathable fit. ~ Color Options: Elegant hues to complement your style. ~ Sizes: Available in a range of sizes to flatter different body types. ~ Care Instructions: Hand wash recommended to maintain the fabricâ€™s integrity and luxurious feel. Elevate your loungewear collection with the Elegance 2-Piece Luxurious Satin Lounge Set, and indulge in the perfect combination of comfort, style, and sophistication. LOOK AFTER ME All of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry. RETURNS Please note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Dress
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/24622016_large_f8eec1f4-e2d0-4951-9bce-7fa30ac5137d.png?v=1739249274
-  - [White / M](https://unveileddesire.com/products/elegance?variant=50743427072266)
-    Availability: Available
-    Price: £37.29 GBP
-  - [White / S](https://unveileddesire.com/products/elegance?variant=50743427105034)
-    Availability: Available
-    Price: £37.29 GBP
-  - [White / L](https://unveileddesire.com/products/elegance?variant=50743427137802)
-    Availability: Available
-    Price: £37.29 GBP
-- [Nurse](https://unveileddesire.com/products/nurse): Introducing the 3-Piece Nurse Cosplay Lingerie Set, designed to bring your fantasies to life with playful elegance and seductive charm. This alluring set features a crisp white bodysuit with red accents, complete with a nurse hat and a matching garter belt. Perfect for roleplay or adding a touch of fun to your lingerie collection, this set will make you feel both confident and irresistibly captivating. **~ Playful Seduction ~** A bold combination of white and red, featuring a nurse-inspired design thats both playful and alluring. **~ Luxurious Comfort ~** Crafted from soft, body-safe fabrics that feel comfortable against your skin, while still maintaining a flattering fit. **~ Handcrafted Quality ~** Each piece is thoughtfully designed with attention to detail, ensuring durability and a perfect fit. **~ Versatile Fun ~** Ideal for roleplay or adding a bit of excitement to your intimate wardrobe, this set is sure to spark your imagination. Specifications: ~ Material: Soft, breathable fabric with satin and lace accents for a comfortable yet seductive fit. ~ Color Options: Crisp white with bold red details. ~ Sizes: Available in a variety of sizes to suit different body types. ~ Care Instructions: Hand wash recommended to preserve the delicate fabrics and detailing. Elevate your intimate moments with the 3-Piece Nurse Cosplay Lingerie Set, and embrace your LOOK AFTER ME All of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry. RETURNS Please note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Wiln
-  Product Type: Dress
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/20119023_large_9badd22f-2c33-41a1-a6c0-56d5dd1918a1.png?v=1739249281
-  - [M](https://unveileddesire.com/products/nurse?variant=50743427432714)
-    Availability: Available
-    Price: £24.81 GBP
-  - [S](https://unveileddesire.com/products/nurse?variant=50743427465482)
-    Availability: Available
-    Price: £24.81 GBP
-  - [L](https://unveileddesire.com/products/nurse?variant=50743427498250)
-    Availability: Available
-    Price: £24.81 GBP
-  - [XL](https://unveileddesire.com/products/nurse?variant=50743427531018)
-    Availability: Not Available
-    Price: £24.81 GBP
-- [Between You and Me](https://unveileddesire.com/products/between-you-and-me): Tabooboo Between You and Me Vibrating Love Ring Enhance your intimate moments with the Tabooboo Between You and Me Vibrating Love Ring. Designed for couples, this vibrating love ring offers a thrilling experience for both partners. Made from body-safe silicone, it comfortably fits around the base of the penis to help maintain a firm erection while intensifying pleasure. The integrated vibrating bullet targets the clitoris during intercourse, providing additional stimulation for both partners. Perfect for couples seeking to add extra excitement and shared sensations to their love life, the stretchy ring is easy to use and comfortable to wear. Whether you're in the mood for a quick adventure or extended play, the Tabooboo Between You and Me Vibrating Love Ring is your go-to companion for pleasure. Specifications: Material: Body-safe silicone Vibration: Integrated vibrating bullet for clitoral stimulation Design: Stretchy, flexible ring for comfortable fit Battery: Replaceable or rechargeable battery (check product details) Waterproof: Suitable for use in the shower or bath Length: 8cm Specifications:- Barcode : 5060211965043- Size imperial : Total Length: 3.25 inches, Inner diameter: 1.25 inches- Size metric : Total Length: 8.5 cm, Inner diameter: 3 cm- Power : USB Rechargeable
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Tabooboo
-  Product Type: Vibrating Ring
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65133738_large_2a0918d0-7103-4dc0-a109-1b2e02f6327a.png?v=1744286530
-  Price: £27.13 GBP
-- [Take Me Back To Bed](https://unveileddesire.com/products/take-me-back-to-bed): Tabooboo Take Me Back To Bed Remote Love Egg Elevate your pleasure with the Tabooboo Take Me Back To Bed Remote Love Egg, a discreet and powerful toy designed for ultimate satisfaction. This smooth, body-safe silicone love egg is perfect for both solo play and couple’s fun, offering strong vibrations that can be controlled remotely for hands-free excitement. Its ergonomic shape ensures a comfortable fit while providing intense internal stimulation. Whether you're using it for a private moment or spicing things up with a partner, the remote control lets you customize the experience with ease, taking your pleasure to new heights. Waterproof and rechargeable, it’s designed for enjoyment wherever and whenever the mood strikes. Specifications: Material: Body-safe silicone Vibration: Multiple vibration settings, remote-controlled Control: Wireless remote for easy control Waterproof: Yes, safe for use in the shower or bath Rechargeable: Includes USB charging cable Total Length: 18cm Specifications:- Barcode : 5060211965067- Size imperial : Total Length: 7 inches, Circumference at widest point: 3.8 inches- Size metric : Total Length: 18 cm, Circumference at widest point: 10 cm- Power : USB Rechargeable
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Tabooboo
-  Product Type: Egg Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41608982_large_a8f00c11-7bf5-45a5-834c-8e18e0c1f099.png?v=1744286462
-  Price: £28.75 GBP
-- [Under The Sheets](https://unveileddesire.com/products/under-the-sheets): Tabooboo Under The Sheets Mini Wand Vibrator Indulge in targeted pleasure with the Tabooboo Under The Sheets Mini Wand Vibrator, the perfect tool for powerful yet discreet stimulation. This compact wand offers deep, satisfying vibrations in a sleek, portable design, allowing you to bring intense sensations wherever you go. Despite its mini size, it packs a punch, delivering strong, pinpointed pleasure exactly where you need it. Perfect for quick indulgences or a more extended massage, the flexible head is designed for targeted stimulation, making it a must-have for those who crave convenience without sacrificing power. Made with body-safe silicone, the Tabooboo Under The Sheets Mini Wand Vibrator is easy to clean, waterproof, and rechargeable, making it a reliable companion for your intimate moments. Specifications: Material: Body-safe silicone Vibration: Multiple vibration settings for customizable pleasure Control: Easy push-button control Waterproof: Yes, safe for use in the shower or bath Rechargeable: Includes USB charging cable Length: 11cm Specifications:- Barcode : 5060211965050- Size imperial : Product Length: 4.5 inches, Head Circumference: 4.75 inches- Size metric : Product Length: 11.5cm, Head Circumference: 12 cm- Power : USB Rechargeable
-  Updated: 2026-10-16T17:23:49Z
-  Vendor: Tabooboo
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/488441889_large_f6c66a54-c479-4f35-8670-708c5d3237f9.png?v=1794328530
+  Price: £64.99 GBP
+- [Bodywand 4 Play Little Kiss](https://unveileddesire.com/products/bodywand-4-play-little-kiss): Melt tension away, then melt completely. Body-safe silicone. Shop the Bodywand 4 Play Little Kiss with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Bodywand
   Product Type: Wand Massager
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41609298_large_3b6fe76e-1919-4b07-ab2a-893f1dc11ecd.png?v=1744286420
-  Price: £25.53 GBP
-- [Lace Stockings - White](https://unveileddesire.com/products/lace-stockings-white): Wiln Lace Stockings – Elegant & Alluring Elevate your lingerie collection with these stunning lace stockings from Wiln. Designed to exude elegance and sensuality, these stockings feature delicate lace detailing that wraps your legs in a sophisticated charm. The intricate lacework not only adds a touch of luxury but also enhances your curves, creating a flattering silhouette. Perfect for a night of romance or adding an extra layer of allure to your daily wear, these stockings are made from soft, stretchable material that hugs your legs comfortably without compromising on style. The sheer fabric lets your skin peek through, offering a tantalizing glimpse of what's beneath. Specifications: Material: Lace and nylon blend Length: Approx. 11 inches (28 cm) Elasticity: Stretchable for a comfortable fit Design: Delicate lace pattern
-  Updated: 2026-10-16T17:23:50Z
-  Vendor: Wiln
-  Product Type: Stockings
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/494635632_large_048a5526-cc81-4246-9706-1c4eebcf4420.png?v=1794328536
+  Price: £39.99 GBP
+- [Bodywand Aqua Mini Bodywand Blue](https://unveileddesire.com/products/bodywand-aqua-mini-bodywand-blue): Deep, rumbling power from head to toe. Shop the Bodywand Aqua Mini Bodywand Blue with discreet UK delivery.
+  Updated: 2026-11-15T01:01:45Z
+  Vendor: Bodywand
+  Product Type: Wand Massager
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/25381647_large_9d1f1521-93c1-4023-a3f7-9e93a7816820.png?v=1739250489
-  Price: £20.00 GBP
-- [Thrill Me](https://unveileddesire.com/products/thrill-me): Thrill Me Deep Pleasure, Perfect Stimulation Designed for intense sensations, the You Love Me Thrill Me anal plug brings thrilling pleasure with its ergonomic shape and powerful vibrations. Whether you are a beginner or experienced in anal play, its smooth, body-safe silicone and flared base ensure comfort and safety. With 10 vibration modes, you can explore deep, toe-curling stimulation at your own pace. ~ 10-Speed Vibration, Choose from a range of intensities to match your desires. ~ Perfectly Curved Design, Targets sensitive zones for ultimate satisfaction. ~ Body-Safe Silicone Ultra-soft, durable, and easy to clean. ~ Waterproof, Enjoy pleasure in the shower, bath, or anywhere you dare. ~ Battery Included,Ready to play whenever you are. Let Thrill Me take your pleasure to new heights, because every touch should leave you breathless.Specifications:- Brand : You Love Me- Barcode : 811041014921- Size : OS- Color : Black
-  Updated: 2026-10-16T17:23:50Z
-  Vendor: You Love Me
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684583_large_21f4118a-2e75-4fa3-b9be-199c9b426600.png?v=1794328536
+  Price: £18.99 GBP
+- [Bodywand 4 Play Petite Bliss](https://unveileddesire.com/products/bodywand-4-play-petite-bliss): Deep, rumbling power from head to toe. Body-safe silicone, waterproof, USB rechargeable. Shop the Bodywand 4 Play Petite Bliss with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Bodywand
+  Product Type: Wand Massager
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/494635628_large_5f0200f9-d986-4345-a2d9-f923228d71ba.png?v=1794328541
+  Price: £41.99 GBP
+- [Bodywand 4play Power Bliss Set](https://unveileddesire.com/products/bodywand-4play-power-bliss-set): The classic wand, made irresistible. Body-safe silicone, USB rechargeable. Shop the Bodywand 4play Power Bliss Set with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Bodywand
+  Product Type: Wand Massager
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/494635657_large_6faa1c24-94c2-40e4-9bb0-acf0172c91d2.png?v=1794328542
+  Price: £59.99 GBP
+- [Tabooboo Between You and Me Vibrating Love Ring](https://unveileddesire.com/products/tabooboo-between-you-and-me-vibrating-love-ring): Pleasure, perfectly tuned to you. Waterproof, USB rechargeable. Shop the Tabooboo Between You and Me Vibrating Love Ring with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Tabooboo
+  Product Type: Vibrators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41608970_large_2b5dab77-5b80-4912-872c-341ba62691d6.png?v=1794328547
+  Price: £17.99 GBP
+- [Rocks Off RO-80mm Bullet Rainbow](https://unveileddesire.com/products/rocks-off-ro-80mm-bullet-rainbow): Pocket-sized pleasure, wherever desire leads. 7 speeds, waterproof. Shop the Rocks Off RO-80mm Bullet Rainbow with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15680309_large_3840b7e3-5bc3-401b-b1ff-66a09aa040a1.png?v=1794328547
+  Price: £10.99 GBP
+- [Rocks Off Debutante Bullet Vibrator Gold Red](https://unveileddesire.com/products/rocks-off-debutante-bullet-vibrator-gold-red): Small enough to hide, strong enough to thrill. Shop the Rocks Off Debutante Bullet Vibrator Gold Red, discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41260049_large_28b4ce45-cbe0-4082-9676-5eaca76bc138.png?v=1794328553
+  Price: £13.99 GBP
+- [Rocks Off Chaiamo Vibrator Black](https://unveileddesire.com/products/rocks-off-chaiamo-vibrator-black): Made for slow builds and sweet release. 10 functions, waterproof, USB rechargeable. Shop the Rocks Off Chaiamo Vibrator Black with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
+  Product Type: Vibrators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15677032_large_f050cbca-296e-4689-9071-4e1abd51e3ed.png?v=1794328553
+  Price: £29.99 GBP
+- [Rocks Off Chaiamo G 10 Speed G-Spot Vibrator Black](https://unveileddesire.com/products/rocks-off-chaiamo-g-10-speed-g-spot-vibrator-black): Reach deeper. Feel more. Shop the Rocks Off Chaiamo G 10 Speed G-Spot Vibrator Black, discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
   Product Type: G-Spot Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/51997001_large_e20fd555-a276-4e98-a511-847cfc49d540-removebg-preview.png?v=1740298130
-  Price: £30.79 GBP
-- [Grip Me](https://unveileddesire.com/products/grip-me): Grip Me Ultimate Control, Perfect Fit The GRIPME Cock & Ball Ring is designed to provide ultimate control and a perfect fit for enhanced pleasure and performance. Whether you're looking to intensify your experience or explore new sensations, its ergonomic design and body-safe materials ensure comfort and safety. The GRIPME ring is your perfect companion for deep, thrilling pleasure. Key Features: - Secure Fit: Designed to provide a comfortable and secure fit for enhanced performance.- Body-Safe Materials: Ultra-soft, durable, and easy to clean.- Easy to Use: Simple to adjust and perfect for shared experiences.- Discreet & Portable: Compact design for easy storage and travel. Experience the Control: Let GRIPME elevate your intimate moments with its versatile and performance-boosting design. Whether you're exploring solo or with a partner, this cock and ball ring ensures every touch is unforgettable. Designed for every man to flex, GRIPME is your perfect companion for deep, thrilling pleasure.Specifications:- Brand : You Love Me- Barcode : 811041014914- Size : OS- Color : Green
-  Updated: 2026-10-16T17:23:50Z
-  Vendor: You Love Me
-  Product Type: Vibrating Ring
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41209771_large_a39ff4f8-2415-465e-8385-2ca1de39bb00.png?v=1794328560
+  Price: £29.99 GBP
+- [S-Line Lip Off Some Steam Bullet Vibrator Green Purple](https://unveileddesire.com/products/s-line-lip-off-some-steam-bullet-vibrator-green-purple): Small enough to hide, strong enough to thrill. Shop the S-Line Lip Off Some Steam Bullet Vibrator Green Purple, discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: S-Line
+  Product Type: Bullet & Egg Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/51796818_large_3e4285f2-bb09-47b5-a8d7-96475e886eb0-removebg-preview.png?v=1740299383
-  Price: £25.14 GBP
-- [Hold Me](https://unveileddesire.com/products/hold-me): Hold Me Deep Connection, Perfect Control The Hold Me personal massager offers intimate moments with its ergonomic design and adjustable volume control. Perfect for solo or shared experiences, Hold Me delivers tailored sensations, from gentle caresses to intense pulses, making every touch unforgettable. Key Features: - Perfectly Curved Design: Targets sensitive zones for ultimate satisfaction.- Body-Safe Silicone: Ultra-soft, durable, and easy to clean.- Waterproof: Enjoy pleasure in the shower, bath, or anywhere you dare.- Battery Included: Ready to play whenever you are. Let Hold Me elevate your intimate moments with deep, thrilling pleasure. Specifications:- Brand : You Love Me- Barcode : 811041014815- Size : OS- Color : Blue
-  Updated: 2026-10-16T17:23:50Z
-  Vendor: You Love Me
-  Product Type: Vibrating Ring
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/39170893_large_f1a48a76-8d86-4751-987d-09650fecf453.png?v=1794328561
+  Price: £17.99 GBP
+- [Rocks Off Rouge Allure Red Bullet Vibrator](https://unveileddesire.com/products/rocks-off-rouge-allure-red-bullet-vibrator): Tiny, discreet and surprisingly powerful. 10 functions, waterproof. Shop the Rocks Off Rouge Allure Red Bullet Vibrator with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
+  Product Type: Bullet & Egg Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/51996979_large_d7609e4d-1d9d-4096-899b-eee8b58103c6-removebg-preview.png?v=1740299423
-  Price: £27.97 GBP
-- [Give Me](https://unveileddesire.com/products/give-me): **Give Me Deep Satisfaction, Perfect Tone** The WOLOME Give Me personal massager is designed to deliver deep satisfaction with its advanced 7-speed vibration settings. Whether you're looking to relax or explore new sensations, its ergonomic design and body-safe materials ensure comfort and safety. With 7 vibration modes, you can customize your experience to match your desires, from gentle rhythms to intense pulses. Key Features: - 7-Speed Vibration: Choose from a range of intensities to match your mood and needs.- Perfectly Curved Design: Targets sensitive zones for ultimate satisfaction.- Body-Safe Silicone: Ultra-soft, durable, and easy to clean.- Waterproof: Enjoy your pleasure in the shower, bath, or anywhere you dare.- Battery Included: Ready to play whenever you are. Experience the Tone: Let WOLOME Give Me elevate your intimate moments with its powerful and customizable features. Designed to leave you breathless, Give Me is your perfect companion for deep, thrilling pleasure. Whether you're exploring solo or with a partner, this massager ensures every touch is unforgettable.Specifications:- Brand : You Love Me- Barcode : 811041014945- Size : OS- Color : Multi
-  Updated: 2026-10-16T17:23:50Z
-  Vendor: You Love Me
-  Product Type: Vibrators Kit
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15676810_large_03d3158c-9118-4639-9028-f7fa522ba88c.png?v=1794328567
+  Price: £18.99 GBP
+- [Rocks Off Chaiamo Vibrator Burgundy](https://unveileddesire.com/products/rocks-off-chaiamo-vibrator-burgundy): Turn up the feeling. Turn down the world. Shop the Rocks Off Chaiamo Vibrator Burgundy, discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
+  Product Type: Vibrators
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/51796812_large_ac3a9cf3-5e41-47b2-b263-d0cd0d70ef81-removebg-preview.png?v=1740298053
-  Price: £30.79 GBP
-- [9" Purple Rain Ribbed](https://unveileddesire.com/products/9-purple-rain-ribbed-dildo): Glas 9-inch Purple Rain Ribbed Dildo – Intensely Ribbed for Deep Sensations Description:The Glas 9-inch Purple Rain Ribbed Dildo offers an unforgettable experience with its expertly designed, ribbed texture that enhances every thrust. Made from high-quality, body-safe glass, this dildo features deep, stimulating ridges that provide thrilling sensations with each movement. Its long, firm shaft and striking purple design make it not only a pleasure tool but also a beautiful addition to your collection. Perfect for those who crave deeper, more intense sensations, the Purple Rain Ribbed Dildo is designed to deliver satisfaction. Specifications: Crafted from premium, body-safe glass Ribbed texture for enhanced stimulation with every thrust 9-inch length for deep, fulfilling penetration Smooth, seamless surface for comfort Easy to clean and maintain Usage notes:For a smoother experience, apply plenty of lubricant before use. Clean with warm water and soap or toy cleaner after each session. Store safely in a dry place to maintain its durability. Discreet shipping & support information:Your privacy is our priority with discreet, confidential shipping. For any inquiries or assistance, contact our customer support team for fast responses.Specifications:- Brand : Glas- Barcode : 4890808063163- Size : 9in- Color : Purple
-  Updated: 2026-10-16T17:23:50Z
-  Vendor: Gläs
-  Product Type: Glass Dildo
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15676689_large_726aa821-df81-4e03-9ed0-46672665853f.png?v=1794328566
+  Price: £29.99 GBP
+- [Rocks Off Solaris Rechargeable Plug Black](https://unveileddesire.com/products/rocks-off-solaris-rechargeable-plug-black): A full, delicious feeling that lingers. Body-safe silicone, USB rechargeable. Shop the Rocks Off Solaris Rechargeable Plug Black with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
+  Product Type: Butt Plug
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15685980_large_5970635f-38a1-4447-b85a-c7abf89658da.png?v=1740235301
-  Price: £35.80 GBP
-- [9" Curvy Connection](https://unveileddesire.com/products/9-classic-curved-dual-ended-dildo): Glas 9-inch Classic Curved Dual Ended Dildo – Ultimate Versatility, Perfected Description:The Glas 9-inch Classic Curved Dual Ended Dildo is the perfect choice for those seeking versatility and intense pleasure. Crafted from high-quality, body-safe glass, this dual-ended design offers two options for stimulation, each with a curved shape to target different pleasure zones. Its sleek, smooth surface ensures comfort while providing firm, satisfying sensations. Whether used solo or with a partner, this beautiful, clear glass dildo brings a luxurious touch to every experience. Specifications: Made from premium, body-safe clear glass Dual-ended design for versatile stimulation 9-inch length for deep, satisfying penetration Curved shafts for targeted pleasure Smooth, seamless surface for comfort and ease Easy to clean and maintain Usage notes:Always use with a generous amount of lubricant for a more comfortable experience. Clean thoroughly with warm soapy water or a toy cleaner after use. Store in a dry, safe place for maximum durability. Discreet shipping & support information:Enjoy discreet, private shipping. If you need any assistance, reach out to our customer support team for fast responses.Specifications:- Brand : Glas- Barcode : 4890808264904- Size : OS- Color : Clear
-  Updated: 2026-10-16T17:23:50Z
-  Vendor: Gläs
-  Product Type: Glass Dildo
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/412285636_large_dad98327-de1d-4b86-b140-ce28573785f1.png?v=1794328574
+  Price: £22.99 GBP
+- [Rocks Off Petite Sensations Pearls Purple Vibrator](https://unveileddesire.com/products/rocks-off-petite-sensations-pearls-purple-vibrator): Pleasure, perfectly tuned to you. Shop the Rocks Off Petite Sensations Pearls Purple Vibrator, discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
+  Product Type: Vibrators
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/32761939_large_4e6684c6-9666-4cf5-8a00-8dc8178570d8.png?v=1740235312
-  Price: £26.74 GBP
-- [8" Slimline G-Spot](https://unveileddesire.com/products/8-slimline-g-spot-glass-dildo): Glas 8-inch Slimline G-Spot Dildo – Precision Stimulation, Perfected Description:The Glas 8-inch Slimline G-Spot Dildo is designed for those who seek precision and pleasure. Made from premium, body-safe glass, this sleek dildo features a slim, ergonomic shaft that’s perfectly curved for optimal G-spot stimulation. Its smooth, seamless surface glides effortlessly, while the firm structure provides deep and satisfying sensations. Ideal for solo play or partner use, the Slimline G-Spot Dildo combines beautiful design with exceptional performance for a truly memorable experience. Specifications: Made from high-quality, body-safe glass Slim, ergonomic design for precise G-spot stimulation 8-inch length for deep, fulfilling penetration Smooth, seamless surface for ultimate comfort Easy to clean and maintain Usage notes:For a smoother experience, apply a generous amount of lubricant before use. Clean thoroughly after each session with a toy cleaner or warm soapy water. Store in a safe, dry place for best results. Discreet shipping & support information:Expect discreet and private shipping. For any questions or support, reach out to our customer service team for assistance.Specifications:- Brand : Glas- Barcode : 4890808219225- Size : 8in- Color : Transparent
-  Updated: 2026-10-16T17:23:50Z
-  Vendor: Gläs
-  Product Type: Glass Dildo
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15680344_large_adff9dd2-31d6-42d6-93a8-6f48f8c25768.png?v=1794328573
+  Price: £16.99 GBP
+- [Rocks Off Orbital Rechargeable Plug](https://unveileddesire.com/products/rocks-off-orbital-rechargeable-plug): Discover the thrill of the backdoor. 16 functions, body-safe silicone, USB rechargeable. Shop the Rocks Off Orbital Rechargeable Plug with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
+  Product Type: Butt Plug
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15686262_large_f13e95af-9f4a-4717-8988-da3934970e36.png?v=1740235318
-  Price: £33.19 GBP
-- [8" Silk Sensation](https://unveileddesire.com/products/8-silicone-dual-density-cock): King Cock Elite 8-inch Silicone Dual Density Cock – Unmatched Realism, Ultimate Pleasure Description:The King Cock Elite 8-inch Silicone Dual Density Cock offers the perfect blend of softness and firmness for a truly lifelike experience. Crafted from premium silicone with dual-density technology, this dildo features a soft, skin-like outer layer that provides realistic sensations, while the firm inner core ensures deep, satisfying penetration. The 8-inch length is perfect for those who desire more, delivering an intense and fulfilling experience with every thrust. Ideal for both solo play and partner enjoyment, this elite dildo takes pleasure to new heights. Specifications: Made from high-quality, body-safe silicone with dual-density technology Soft, lifelike outer layer with a firm inner core 8-inch length for deep, satisfying penetration Realistic texture for a natural feel Easy to clean and maintain Usage notes:For the best experience, use with a generous amount of water-based lubricant. Clean thoroughly with warm soapy water or a toy cleaner after each use. Store in a dry, safe place to keep it in top condition. Discreet shipping & support information:We prioritize your privacy with discreet packaging and shipping. For any inquiries or assistance, contact our customer support team for quick and helpful responses.Specifications:- Brand : King Cock- Barcode : 603912769319
-  Updated: 2026-10-16T17:23:50Z
-  Vendor: King Cock
-  Product Type: Realistic Dildo
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/412285631_large_9fc14ad2-c023-4bb7-b599-1103883257be.png?v=1794328580
+  Price: £22.99 GBP
+- [Rocks Off Astryx Rechargeable Prostate Massager Black](https://unveileddesire.com/products/rocks-off-astryx-rechargeable-prostate-massager-black): Unlock a whole new kind of climax. Shop the Rocks Off Astryx Rechargeable Prostate Massager Black, discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
+  Product Type: Prostate Massagers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/39311814_large_8c95601c-a7b5-4a4d-9247-13ca8072313d.png?v=1740235324
-  Price: £54.78 GBP
-- [7" Silk Sensation](https://unveileddesire.com/products/7-silicone-dual-density-cock): King Cock Elite 7-inch Silicone Dual Density Cock – Unmatched Realism, Ultimate Pleasure Description:The King Cock Elite 7-inch Silicone Dual Density Cock offers the perfect blend of softness and firmness for a truly lifelike experience. Crafted from premium silicone with dual-density technology, this dildo features a soft, skin-like outer layer that provides realistic sensations, while the firm inner core ensures deep, satisfying penetration. The 7-inch length is perfect for those who desire more, delivering an intense and fulfilling experience with every thrust. Ideal for both solo play and partner enjoyment, this elite dildo takes pleasure to new heights. Specifications: Made from high-quality, body-safe silicone with dual-density technology Soft, lifelike outer layer with a firm inner core 7-inch length for deep, satisfying penetration Realistic texture for a natural feel Easy to clean and maintain Usage notes:For the best experience, use with a generous amount of water-based lubricant. Clean thoroughly with warm soapy water or a toy cleaner after each use. Store in a dry, safe place to keep it in top condition. Discreet shipping & support information:We prioritize your privacy with discreet packaging and shipping. For any inquiries or assistance, contact our customer support team for quick and helpful responses.Specifications:- Brand : King Cock- Barcode : 603912769289
-  Updated: 2026-10-16T17:23:50Z
-  Vendor: King Cock
-  Product Type: Realistic Dildo
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/412285646_large_ef14c797-7fd2-47bb-9cb8-36c660f436d7.png?v=1794328580
+  Price: £22.99 GBP
+- [Rocks Off Petite Sensations Plug Purple](https://unveileddesire.com/products/rocks-off-petite-sensations-plug-purple): Discover the thrill of the backdoor. 3 speeds, body-safe silicone, waterproof. Shop the Rocks Off Petite Sensations Plug Purple with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
+  Product Type: Butt Plug
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/39311887_large_2c9e501d-7cb6-472d-9ea9-2adbfa21f85b.png?v=1740235326
-  Price: £49.97 GBP
-- [11" Silk Sensation](https://unveileddesire.com/products/11-silicone-dual-density-cock): King Cock Elite 11-inch Silicone Dual Density Cock – Unmatched Realism, Ultimate Pleasure Description:The King Cock Elite 11-inch Silicone Dual Density Cock offers the perfect blend of softness and firmness for a truly lifelike experience. Crafted from premium silicone with dual-density technology, this dildo features a soft, skin-like outer layer that provides realistic sensations, while the firm inner core ensures deep, satisfying penetration. The 11-inch length is perfect for those who desire more, delivering an intense and fulfilling experience with every thrust. Ideal for both solo play and partner enjoyment, this elite dildo takes pleasure to new heights. Specifications: Made from high-quality, body-safe silicone with dual-density technology Soft, lifelike outer layer with a firm inner core 11-inch length for deep, satisfying penetration Realistic texture for a natural feel Easy to clean and maintain Usage notes:For the best experience, use with a generous amount of water-based lubricant. Clean thoroughly with warm soapy water or a toy cleaner after each use. Store in a dry, safe place to keep it in top condition. Discreet shipping & support information:We prioritize your privacy with discreet packaging and shipping. For any inquiries or assistance, contact our customer support team for quick and helpful responses.Specifications:- Brand : King Cock- Barcode : 603912769364
-  Updated: 2026-10-16T17:23:50Z
-  Vendor: King Cock
-  Product Type: Realistic Dildo
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15680336_large_65e621ee-2d80-40e1-ba39-2e357e3886ec.png?v=1794328586
+  Price: £16.99 GBP
+- [Rocks Off Petite Sensations Bubbles Black Vibrator](https://unveileddesire.com/products/rocks-off-petite-sensations-bubbles-black-vibrator): Pleasure, perfectly tuned to you. Shop the Rocks Off Petite Sensations Bubbles Black Vibrator, discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
+  Product Type: Vibrators
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/39311915_large_ad60db66-2928-4d1a-aa94-a84e412a5843.png?v=1740235346
-  Price: £64.42 GBP
-- [9" Silk Sensation](https://unveileddesire.com/products/9-silicone-dual-density-cock): King Cock Elite 9-inch Silicone Dual Density Cock – Unmatched Realism, Ultimate Pleasure Description:The King Cock Elite 9-inch Silicone Dual Density Cock offers the perfect blend of softness and firmness for a truly lifelike experience. Crafted from premium silicone with dual-density technology, this dildo features a soft, skin-like outer layer that provides realistic sensations, while the firm inner core ensures deep, satisfying penetration. The 9-inch length is perfect for those who desire more, delivering an intense and fulfilling experience with every thrust. Ideal for both solo play and partner enjoyment, this elite dildo takes pleasure to new heights. Specifications: Made from high-quality, body-safe silicone with dual-density technology Soft, lifelike outer layer with a firm inner core 9-inch length for deep, satisfying penetration Realistic texture for a natural feel Easy to clean and maintain Usage notes:For the best experience, use with a generous amount of water-based lubricant. Clean thoroughly with warm soapy water or a toy cleaner after each use. Store in a dry, safe place to keep it in top condition. Discreet shipping & support information:We prioritize your privacy with discreet packaging and shipping. For any inquiries or assistance, contact our customer support team for quick and helpful responses.Specifications:- Brand : King Cock- Barcode : 603912769340
-  Updated: 2026-10-16T17:23:50Z
-  Vendor: King Cock
-  Product Type: Realistic Dildo
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15680281_large_98dd0257-493e-43fc-87cd-96ccb37118ed.png?v=1794328585
+  Price: £16.99 GBP
+- [Rocks Off Rude-Boy 7 Male Prostate Massagers Black](https://unveileddesire.com/products/rocks-off-rude-boy-7-male-prostate-massagers-black): Angled for intense, full-body release. Shop the Rocks Off Rude-Boy 7 Male Prostate Massagers Black, discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
+  Product Type: Prostate Massagers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/39311896_large_60c9214c-02bf-40e6-b1c0-7c6e0cbbd74c.png?v=1740235352
-  Price: £57.42 GBP
-- [Novice Plug - Black](https://unveileddesire.com/products/novice): b-Vibe Novice Plug The b-Vibe Novice Plug is designed for those new to anal play, offering a comfortable and enjoyable experience. Its ergonomic shape and tapered tip facilitate easy insertion, while the flared base ensures safety during use. Crafted from 100% body-safe silicone, it provides a smooth and velvety feel. The plug is also waterproof, allowing for versatile use in various settings. Specifications: Materials: 100% body-safe silicone Dimensions: Length: 10.4 cm Diameter: 4.3 cm Features: Ergonomic design Tapered tip for easy insertion Flared base for safety Waterproof Care Instructions: Clean thoroughly before and after each use with warm water and mild soap or a toy cleaner. Dry completely before storing. Enhance your exploration with the b-Vibe Novice Plug.
-  Updated: 2026-10-16T17:24:22Z
-  Vendor: b-Vibe
-  Product Type: Anal Plug
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65191725_large_ebebc1cc-9b31-452a-9a63-a408f4df6a52.png?v=1740235463
-  Price: £78.12 GBP
-- [Expand Plug](https://unveileddesire.com/products/expand-plug): Expand Plug – The Ultimate Stretch & Vibrate Experience The b-Vibe Expand Plug takes anal play to the next level with its innovative expanding design and powerful vibrations. Perfect for those who crave a fuller sensation, this plug inflates internally, allowing for a customizable experience that adapts to your desires. Specifications: Expandable Design – Adjust the size for the perfect stretch. Powerful Vibrations – Enjoy deep, rumbly sensations. Remote Controlled – Hands-free fun up to 30 feet away. Body-Safe Silicone – Soft, seamless, and phthalate-free. Rechargeable – USB charging for convenience. Enhance your pleasure with the Expand Plug and explore new levels of sensation.Specifications:- Brand : B-Vibe- Barcode : 4890808265246- Size : OS- Color : Black
-  Updated: 2026-10-16T17:24:22Z
-  Vendor: b-Vibe
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15680386_large_5d443a35-433a-4c43-8916-4f5a5bdd686e.png?v=1794328591
+  Price: £28.99 GBP
+- [Rocks Off Quest Prostate Bullet Black](https://unveileddesire.com/products/rocks-off-quest-prostate-bullet-black): Angled for intense, full-body release. 10 functions. Shop the Rocks Off Quest Prostate Bullet Black with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
   Product Type: Prostate Massager
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/29934537_large_7391a5c6-70ef-45fd-8624-74e02d590e9b.png?v=1740235468
-  Price: £65.39 GBP
-- [Novice Plug - Fuchsia](https://unveileddesire.com/products/novice-plug-fuchsia): b-Vibe Novice Plug The b-Vibe Novice Plug is designed for those new to anal play, offering a comfortable and enjoyable experience. Its ergonomic shape and tapered tip facilitate easy insertion, while the flared base ensures safety during use. Crafted from 100% body-safe silicone, it provides a smooth and velvety feel. The plug is also waterproof, allowing for versatile use in various settings. Specifications: Materials: 100% body-safe silicone Dimensions: Length: 10.4 cm Diameter: 4.3 cm Features: Ergonomic design Tapered tip for easy insertion Flared base for safety Waterproof Care Instructions: Clean thoroughly before and after each use with warm water and mild soap or a toy cleaner. Dry completely before storing. Enhance your exploration with the b-Vibe Novice Plug.Specifications:- Brand : B-Vibe- Barcode : 4890808182239- Color : Fuchsia/Silver
-  Updated: 2026-10-16T17:24:22Z
-  Vendor: b-Vibe
-  Product Type: Anal Plug
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15676912_large_b46c86ce-99cf-43eb-9ec8-4cdae7a79b5c.png?v=1794328591
+  Price: £18.99 GBP
+- [Rocks Off Ass-Berries Raspberry Pink Butt Plug](https://unveileddesire.com/products/rocks-off-ass-berries-raspberry-pink-butt-plug): Discover the thrill of the backdoor. 7 functions. Shop the Rocks Off Ass-Berries Raspberry Pink Butt Plug with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
+  Product Type: Butt Plug
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65196193_large_9afa91d4-0d28-42e5-873c-3ed12ede8119.png?v=1740235493
-  Price: £57.17 GBP
-- [Vibrating Snug Plug 5 - Black](https://unveileddesire.com/products/vibrating-snug-plug-5-black): b-Vibe Snug Plug 5 – Ultimate Fullness & Weighted Sensation The b-Vibe Snug Plug 5 is designed for experienced users seeking maximum fullness and deep, rumbly pressure. With its weighted core, tapered design, and ultra-soft silicone, this plug provides unparalleled comfort for extended wear and intense anal pleasure. Specifications: Total Length: 13 cm (5.1 in) Insertable Length: 11.5 cm (4.5 in) Diameter: 4.5 cm (1.77 in) Weight: 350 g (12.3 oz) Material: Body-safe silicone (phthalate-free) Waterproof: Yes, fully submersible Use: Best suited for advanced anal players and long-term wear Key Features: ✔ Heavy Internal Weights – Provides deep, satisfying pressure.✔ Tapered Design & Flexible Neck – Ensures easy insertion and a secure fit.✔ Ideal for Experienced Users – Perfect for those craving intense anal sensations.✔ Waterproof & Travel-Friendly – Enjoy anywhere, anytime. 💦 Use with a water-based lubricant. Clean with mild soap or toy cleaner after use.Specifications:- Brand : B-Vibe- Barcode : 4890808242452- Size : Xlarge- Color : Black
-  Updated: 2026-10-16T17:24:22Z
-  Vendor: b-Vibe
-  Product Type: Anal Plug
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15680435_large_4c41419c-d9da-4cf2-8c22-a7b9987d0bdb.png?v=1794328598
+  Price: £14.99 GBP
+- [Rocks Off RO-Zen Black Anal Vibrator](https://unveileddesire.com/products/rocks-off-ro-zen-black-anal-vibrator): Vibrations that go deeper. Body-safe silicone, waterproof, USB rechargeable. Shop the Rocks Off RO-Zen Black Anal Vibrator with discreet UK delivery.
+  Updated: 2026-11-15T01:01:41Z
+  Vendor: Rocks Off
+  Product Type: Anal Vibrators
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684618_large_a025a7d0-4174-434f-a7ae-fb8d0619954b.png?v=1740235499
-  Price: £75.48 GBP
-- [Rimming Plug - Black](https://unveileddesire.com/products/rimming-plug-black): The b-Vibe Rimming Plug 2 is an advanced anal toy designed to provide a unique rimming sensation through rotating beads located at its neck, combined with powerful vibrations at the tip. This combination aims to deliver a comprehensive and pleasurable experience for users seeking enhanced anal stimulation. Key Features: Rotating Beads: Simulate the sensation of rimming by rotating at the neck of the plug. Vibrating Tip: Offers deep, powerful vibrations to stimulate the anal canal. Remote Control: Allows for easy adjustments of settings during use, whether solo or with a partner. Body-Safe Materials: Made from high-quality, phthalate-free silicone for a safe and comfortable experience. Rechargeable: Equipped with a USB rechargeable battery, providing convenience and sustainability. Specifications: Total Length: Approximately 15 cm (5.9 inches) Insertable Length: Approximately 12.3 cm (4.8 inches) Maximum Diameter: Approximately 4 cm (1.5 inches) Weight: Approximately 180 grams Battery Life: Up to 1.5 hours on a single charge Charging Time: Approximately 2 hours Usage Tips: Lubrication: Use a water-based lubricant to enhance comfort during insertion and use. Cleaning: Clean the plug thoroughly before and after each use with warm water and mild soap or a toy cleaner. Ensure it is completely dry before storage. Storage: Store in a cool, dry place away from direct sunlight and separate from other silicone products to maintain material integrity. The b-Vibe Rimming Plug 2 is suitable for users seeking to explore advanced anal play with innovative features that enhance pleasure and provide a unique experience.Specifications:- Brand : B-Vibe- Barcode : 4890808177853- Color : Black
-  Updated: 2026-10-16T17:24:22Z
-  Vendor: b-Vibe
-  Product Type: Anal Plug
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15680477_large_3eae6c28-6aa8-4fe8-91d8-6f144e14e37e.png?v=1794328598
+  Price: £21.99 GBP
+- [Rocks Off Glo-Girl Rabbit Vibrator Purple Pink](https://unveileddesire.com/products/rocks-off-glo-girl-rabbit-vibrator-purple-pink): Double the touch, double the bliss. Body-safe silicone, waterproof. Shop the Rocks Off Glo-Girl Rabbit Vibrator Purple Pink with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
+  Product Type: Rabbit Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684387_large_31d14960-14c9-411f-9509-7caf63905295.png?v=1740235511
-  Price: £92.76 GBP
-- [Snug Plug 3 - Teal](https://unveileddesire.com/products/snug-plug-3-teal): b-Vibe Snug Plug 3 – Weighted for Fullness & Comfort The b-Vibe Snug Plug 3 delivers deep, satisfying pressure with its weighted interior, making it perfect for those seeking a step up in size and sensation. Designed for extended wear, its smooth silicone, tapered tip, and flexible neck ensure comfort and security during use. Specifications: Total Length: 12.5 cm (4.9 in) Insertable Length: 10.8 cm (4.3 in) Diameter: 3.5 cm (1.4 in) Weight: 180 g (6.4 oz) Material: Body-safe silicone (phthalate-free) Waterproof: Yes, fully submersible Use: Ideal for solo or partnered play, discreet for all-day wear Key Features: ✔ Weighted for Deeper Pleasure – Internal balls enhance stimulation with movement.✔ Ergonomic & Comfortable – Flexible neck, tapered tip, and soft silicone.✔ Perfect for Training & Play – A great step up for anal enthusiasts.✔ Waterproof & Easy to Clean – Suitable for bath play and hassle-free maintenance. 💦 Use with water-based lubricant for the best experience. Clean with mild soap or toy cleaner after use.Specifications:- Brand : B-Vibe- Barcode : 4890808196755- Color : Teal
-  Updated: 2026-10-16T17:24:22Z
-  Vendor: b-Vibe
-  Product Type: Anal Plug
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41209782_large_a721a6d7-f46f-46f4-9f4b-b52bff66dfd4.png?v=1794328605
+  Price: £18.99 GBP
+- [Nu Sensuelle Lynx Bullet With Nitro Motor Tiffany Blue](https://unveileddesire.com/products/nu-sensuelle-lynx-bullet-with-nitro-motor-tiffany-blue): Small enough to hide, strong enough to thrill. Body-safe silicone. Shop the Nu Sensuelle Lynx Bullet With Nitro Motor Tiffany Blue with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65196014_large_f19f8de3-0def-4e44-a728-383c03776ca1.png?v=1740235541
-  Price: £48.92 GBP
-- [Snug Plug 3 - Black](https://unveileddesire.com/products/snug-plug-3-black): b-Vibe Snug Plug 3 – Weighted for Fullness & Comfort The b-Vibe Snug Plug 3 delivers deep, satisfying pressure with its weighted interior, making it perfect for those seeking a step up in size and sensation. Designed for extended wear, its smooth silicone, tapered tip, and flexible neck ensure comfort and security during use. Specifications: Total Length: 12.5 cm (4.9 in) Insertable Length: 10.8 cm (4.3 in) Diameter: 3.5 cm (1.4 in) Weight: 180 g (6.4 oz) Material: Body-safe silicone (phthalate-free) Waterproof: Yes, fully submersible Use: Ideal for solo or partnered play, discreet for all-day wear Key Features: ✔ Weighted for Deeper Pleasure – Internal balls enhance stimulation with movement.✔ Ergonomic & Comfortable – Flexible neck, tapered tip, and soft silicone.✔ Perfect for Training & Play – A great step up for anal enthusiasts.✔ Waterproof & Easy to Clean – Suitable for bath play and hassle-free maintenance. 💦 Use with water-based lubricant for the best experience. Clean with mild soap or toy cleaner after use.Specifications:- Brand : B-Vibe- Barcode : 4890808196762- Color : Black
-  Updated: 2026-10-16T17:24:22Z
-  Vendor: b-Vibe
-  Product Type: Anal Plug
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/381995098_large_0afc6a13-d6fc-4c24-9a86-67f4dfc09b96.png?v=1794328605
+  Price: £59.99 GBP
+- [Nu Sensuelle Lynx Bullet With Nitro Motor Magenta](https://unveileddesire.com/products/nu-sensuelle-lynx-bullet-with-nitro-motor-magenta): Pocket-sized pleasure, wherever desire leads. Body-safe silicone. Shop the Nu Sensuelle Lynx Bullet With Nitro Motor Magenta with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65195835_large_04f629ff-00ca-44ee-a37c-c0f905a3aecf.png?v=1740235546
-  Price: £48.67 GBP
-- [Snug Plug 3 Plug - Orange](https://unveileddesire.com/products/snug-plug-3-plug-orange): b-Vibe Snug Plug 3 – Weighted for Fullness & Comfort The b-Vibe Snug Plug 3 delivers deep, satisfying pressure with its weighted interior, making it perfect for those seeking a step up in size and sensation. Designed for extended wear, its smooth silicone, tapered tip, and flexible neck ensure comfort and security during use. Specifications: Total Length: 12.5 cm (4.9 in) Insertable Length: 10.8 cm (4.3 in) Diameter: 3.5 cm (1.4 in) Weight: 180 g (6.4 oz) Material: Body-safe silicone (phthalate-free) Waterproof: Yes, fully submersible Use: Ideal for solo or partnered play, discreet for all-day wear Key Features: ✔ Weighted for Deeper Pleasure – Internal balls enhance stimulation with movement.✔ Ergonomic & Comfortable – Flexible neck, tapered tip, and soft silicone.✔ Perfect for Training & Play – A great step up for anal enthusiasts.✔ Waterproof & Easy to Clean – Suitable for bath play and hassle-free maintenance. 💦 Use with water-based lubricant for the best experience. Clean with mild soap or toy cleaner after use.Specifications:- Brand : B-Vibe- Barcode : 4890808265147- Color : Orange
-  Updated: 2026-10-16T17:24:22Z
-  Vendor: b-Vibe
-  Product Type: Anal Plug
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684306_large_1590a0f1-d095-4ddd-9ebd-c24b9c98124a.png?v=1740235573
-  Price: £49.76 GBP
-- [Vibrating Snug Plug 2 - Rose](https://unveileddesire.com/products/vibrating-snug-plug-2-rose): b-Vibe Vibrating Snug Plug 2 – Fullness & Vibration Combined Description:Say hello to the next level of pleasure with the b-Vibe Vibrating Snug Plug 2. Combining the satisfying feeling of fullness with powerful vibrations, this plug is designed for extended wear and is perfect for solo or couples’ play. Whether you're a beginner or experienced, this plug will elevate your pleasure experience like never before. Crafted from premium body-safe silicone, it features a comfortable neck and a smooth handle. With 4 vibration levels and 6 patterns, it offers versatile sensations for all your desires. Rechargeable and travel-friendly, this plug comes with a storage bag and a guide to anal play, making it ideal for both new and seasoned users. Specifications: Size: 13.8 cm (5.4 in) Insertable Size: 12.4 cm (4.9 in) Neck Length: 3.9 cm (1.5 in) Diameter: 3.7 cm (1.5 in) Neck Diameter: 1 cm (0.4 in) Base Width: 7.2 cm (2.8 in) Weight: 159.4 g Materials: Body-safe, seamless silicone Vibration Levels: 4 Vibration Patterns: 6 Rechargeable: Yes, USB rechargeable Waterproof: Yes Phthalate-free: Yes Latex-free: Yes Includes a guide to anal play, a travel-sized storage bag, and a 1-year limited warranty.Specifications:- Brand : B-Vibe- Barcode : 4890808221174- Size : Medium- Color : Rose
-  Updated: 2026-10-16T17:24:22Z
-  Vendor: b-Vibe
-  Product Type: Anal Plug
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684576_large_32aee25a-23ff-48f6-89e8-57b2c5f22993.png?v=1740235047
-  Price: £51.45 GBP
-- [Aqua Mini - Black](https://unveileddesire.com/products/bodywand-aqua-mini-black): Bodywand Aqua Mini USB Rechargeable Wand This compact and powerful massager is perfect for both travel and relaxation. With its fully waterproof design and multiple vibration settings, it’s ideal for use in the bath or shower, providing ultimate versatility and pleasure. Rechargeable via USB for your convenience, this wand offers discreet and quiet operation, making it a go-to option for any intimate moment. Specifications: Dimensions (approx.): 4.5 x 2.4 x 2.4 inches Weight: 1.4 lbs Rechargeable: Yes (USB) Waterproof: Yes Vibration Settings: Multiple vibration patterns Noise Level: Quiet for discreet use Perfect for relaxation and pleasure, whether at home or on the go.Specifications:- Brand : Bodywand- Barcode : 848416001934- Color : Black
-  Updated: 2026-10-16T17:24:22Z
-  Vendor: Bodywand
-  Product Type: Wand Massager
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684316_large_35367fa1-f1bd-419a-907c-611fbe3350ee.png?v=1740235055
-  Price: £63.91 GBP
-- [Aqua Mini - Purple](https://unveileddesire.com/products/bodywand-aqua-mini-purple): Bodywand Aqua Mini USB Rechargeable Wand This compact and powerful massager is perfect for both travel and relaxation. With its fully waterproof design and multiple vibration settings, it’s ideal for use in the bath or shower, providing ultimate versatility and pleasure. Rechargeable via USB for your convenience, this wand offers discreet and quiet operation, making it a go-to option for any intimate moment. Specifications: Dimensions (approx.): 4.5 x 2.4 x 2.4 inches Weight: 1.4 lbs Rechargeable: Yes (USB) Waterproof: Yes Vibration Settings: Multiple vibration patterns Noise Level: Quiet for discreet use Perfect for relaxation and pleasure, whether at home or on the go.Specifications:- Brand : Bodywand- Barcode : 848416001927- Color : Purple
-  Updated: 2026-10-16T17:24:22Z
-  Vendor: Bodywand
-  Product Type: Wand Massager
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684314_large_d437ca86-6f41-41e9-878b-ba8ceb99873b.png?v=1740235058
-  Price: £56.35 GBP
-- [Mini Vibes Hop](https://unveileddesire.com/products/mini-vibes-hop): Mini Vibes Hop – Compact Pleasure with Powerful Vibrations Description:The Mini Vibes Hop is a discreet and compact vibrator designed to deliver powerful sensations despite its small size. Perfect for those seeking portability without compromising on performance, this mini vibe is ideal for both beginners and experienced users looking for a travel-friendly option. Specifications: Length: 10 cm (3.9 inches) Diameter: 2.5 cm (1 inch) Material: Body-safe silicone Vibration Modes: 10 distinct patterns Power Source: USB rechargeable Waterproof: Yes Noise Level: Whisper-quiet operation Key Features: Compact Design: Easily fits in your purse or pocket for on-the-go pleasure. Powerful Vibrations: Despite its size, delivers intense stimulation. User-Friendly Controls: Simple interface for seamless operation. Body-Safe Materials: Made from high-quality, non-toxic silicone. Waterproof: Suitable for use in the shower or bath and easy to clean. Note: Always use with a water-based lubricant for optimal comfort and clean thoroughly after each use.Specifications:- Brand : Bodywand- Barcode : 848416009794- Size : OS- Color : Red
-  Updated: 2026-10-16T17:24:22Z
-  Vendor: Bodywand
-  Product Type: Clitoral Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/25629895_large_2e425a45-1a53-4b2d-9f1c-e8e34f2136e4.png?v=1740235060
-  Price: £49.45 GBP
-- [Mini Wand - Pink](https://unveileddesire.com/products/bodywand-mini-wand-pink): Bodywand Mini Wand – Compact Power for On-the-Go Pleasure Description:The Bodywand Mini Wand is designed for those seeking powerful stimulation in a compact form. Measuring just 4 inches tall, this discreet massager is engineered for strong and continuous stimulation, making it perfect for travel and on-the-go delights. Its soft-touch material ensures a comfortable experience, while the simple one-finger control allows for easy operation. Despite its small size, the Bodywand Mini Wand delivers impressive power, ensuring satisfaction whenever you need it. Specifications: Length: 4 inches (10.1 cm) Material: Soft-touch silicone Power Source: 1 x AAA battery (not included) Control: Simple turn dial at the base Features: Splashproof, designed with subdued sound levels for discreet use Please ensure to follow the manufacturer's instructions for use and care to maintain the product's longevity and performance.Specifications:- Brand : Bodywand- Barcode : 726633972407- Size : 6in- Color : Pink
-  Updated: 2026-10-16T17:24:22Z
-  Vendor: Bodywand
-  Product Type: Wand Massager
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684616_large_01cdc9e4-685c-4496-9700-fb587b2acbab.png?v=1740235070
-  Price: £29.27 GBP
-- [Mini Wand - Lavender](https://unveileddesire.com/products/bodywand-mini-wand-lavender): Bodywand Mini Wand – Compact Power for On-the-Go Pleasure Description:The Bodywand Mini Wand is designed for those seeking powerful stimulation in a compact form. Measuring just 4 inches tall, this discreet massager is engineered for strong and continuous stimulation, making it perfect for travel and on-the-go delights. Its soft-touch material ensures a comfortable experience, while the simple one-finger control allows for easy operation. Despite its small size, the Bodywand Mini Wand delivers impressive power, ensuring satisfaction whenever you need it. Specifications: Length: 4 inches (10.1 cm) Material: Soft-touch silicone Power Source: 1 x AAA battery (not included) Control: Simple turn dial at the base Features: Splashproof, designed with subdued sound levels for discreet use Please ensure to follow the manufacturer's instructions for use and care to maintain the product's longevity and performance.Specifications:- Brand : Bodywand- Barcode : 726633973336- Size : OS- Color : Lavender
-  Updated: 2026-10-16T17:24:22Z
-  Vendor: Bodywand
-  Product Type: Wand Massager
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684603_large_6a859a77-589e-4b74-a066-b53cd55acb64.png?v=1740235076
-  Price: £29.38 GBP
-- [Aqua Mini - Pink](https://unveileddesire.com/products/bodywand-aqua-mini-pink): Bodywand Aqua Mini USB Rechargeable Wand This compact and powerful massager is perfect for both travel and relaxation. With its fully waterproof design and multiple vibration settings, it’s ideal for use in the bath or shower, providing ultimate versatility and pleasure. Rechargeable via USB for your convenience, this wand offers discreet and quiet operation, making it a go-to option for any intimate moment. Specifications: Dimensions (approx.): 4.5 x 2.4 x 2.4 inches Weight: 1.4 lbs Rechargeable: Yes (USB) Waterproof: Yes Vibration Settings: Multiple vibration patterns Noise Level: Quiet for discreet use Perfect for relaxation and pleasure, whether at home or on the go.Specifications:- Brand : Bodywand- Barcode : 726633977594- Size : OS- Color : Pink
-  Updated: 2026-10-16T17:24:22Z
-  Vendor: Bodywand
-  Product Type: Wand Massager
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684414_large_5c0b8d9c-8083-401a-a2bd-2102e408afae.png?v=1740235078
-  Price: £57.25 GBP
-- [6.5" Mr Swirly](https://unveileddesire.com/products/6-5-mr-swirly-g-spot-glass-dildo): Glas 6.5-inch Mr. Swirly G-Spot Glass Dildo – Clear Description:The Glas 6.5-inch Mr. Swirly G-Spot Glass Dildo is a beautifully crafted, clear glass dildo designed to provide precise G-spot stimulation. Its ergonomic shape and swirled texture enhance pleasure, while the non-porous, body-safe glass ensures easy cleaning and durability. The dildo is compatible with both water-based and silicone-based lubricants, offering versatility for your pleasure. Specifications: Length: 6.5 inches (16.5 cm) Insertable Length: Approximately 5.5 inches (14 cm) Diameter: Varies along the shaft, approximately 1 inch (2.5 cm) at the widest point Material: Borosilicate glass Color: Clear Texture: Swirled design for enhanced stimulation Features: Ergonomic curve for G-spot targeting, non-porous, hypoallergenic, compatible with all lubricants Key Features: Ergonomic Design: Curved shape specifically designed to target the G-spot for enhanced pleasure. Textured Surface: Swirled design provides additional stimulation during use. Body-Safe Material: Made from non-porous, hypoallergenic borosilicate glass, ensuring safety and durability. Easy to Clean: Glass is non-porous and can be cleaned with warm water and mild soap or a toy cleaner. Temperature Play: Glass retains temperature well; can be warmed in warm water or cooled in the refrigerator for varied sensations. Note: Always use with a water-based or silicone-based lubricant for optimal comfort. After use, clean thoroughly with warm water and mild soap or a toy cleaner. Store in a safe place to prevent breakage.Specifications:- Brand : Glas- Barcode : 4890808205594- Size : 6.5in- Color : Clear
-  Updated: 2026-10-16T17:24:22Z
-  Vendor: Gläs
-  Product Type: Glass Dildo
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15686031_large_f51d38d5-956b-4a4c-adee-dd11e9719277.png?v=1740235088
-  Price: £29.64 GBP
-- [Male Edge Pro](https://unveileddesire.com/products/male-edge-pro): Male Edge is a revolutionary new penis extender to deliver maximum results in minimum time! From the makers of the Jes Extender, the most successful penis extender in the world to date, comes this updated, stronger, lighter weight version that is  to make you bigger, quicker! Male Edge works through traction. It expands the skin tissue using its unique traction mechanism. This stimulates cell growth which results in a longer, thicker penis. Male Edge is 100% effective meaning it works for everyone. Combining the biggest traction force on the market with super lightweight materials, Male Edge is perfect for today's lifestyle. Gains of up to 3.5 inches possible! Weighs only 65g The Male Edge Pro Edition comes in a funky carry case and contains: MaleEdge Penis Enlarger Ruler/Measurer MaleEdge Product Box MaleEdge Travel Bag Official MaleEdge Program Four Extra Rubber Straps Two Protection Pad Cohesive Gauze Access to Online Instructional Video Double Money Back Guarantee (terms apply) One Year Warranty My MaleEdge Training Diary Forum Access / Community Specifications:- Barcode : 5710458235002- Materials : polypropylene plastic- Size imperial : adjustable- Size metric : adjustable- MPN : SW8-2/17, 202- Power : None Required
-  Updated: 2026-10-16T17:24:23Z
-  Vendor: Male edge
-  Product Type: Male Toys Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/20341011_large_ce297090-b5f0-42ff-b021-51516186af60.png?v=1740235116
-  Price: £135.28 GBP
-- [Alex Neo 2](https://unveileddesire.com/products/alex-neo-2): Svakom Alex Neo 2 Interactive App-Controlled Thrusting Male Masturbator The Svakom Alex Neo 2 is an advanced interactive masturbator designed to deliver an ultra-realistic experience with cutting-edge technology. Featuring immersive thrusting motions and app-controlled functionality, this high-tech pleasure device takes solo sessions to the next level. Key Features: ~ Realistic Thrusting Action: Enhanced motor provides deep, rhythmic strokes for a lifelike sensation. ~ Interactive App Control: Sync with the Svakom app for remote operation, customizable settings, and interactive content. ~ 7 Powerful Thrusting Modes: Explore multiple intensity levels for varied pleasure. ~ Immersive Interactive Experience: Connects to webcam interactive platforms, syncing with videos for a responsive session. ~ Ergonomic Design: Sleek and modern casing with an easy-to-hold grip for comfortable use. ~ Body-Safe & Hygienic: Made with premium materials, including a soft, textured silicone sleeve. ~ USB Rechargeable & Long-Lasting Battery: Provides extended playtime with quick charging capability. Perfect for tech-savvy pleasure seekers, the Svakom Alex Neo 2 offers an unparalleled combination of innovation, power, and realism.Specifications:- Barcode : 6959633101278- Power : Rechargeable- Size imperial : Product size: 3.38 inches x 11.8 inches- Size metric : Product size: 8.6 cm x 30 cm
-  Updated: 2026-10-16T17:24:23Z
-  Vendor: Svakom
-  Product Type: Blow Masturbator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/22483501_large_a4e573a4-b240-47cb-a87f-331d7f9d019c.png?v=1740235121
-  Price: £100.47 GBP
-- [Phoenix Neo 2 - Pastel Lilac](https://unveileddesire.com/products/phoenix-neo-2): Svakom Phoenix Neo 2 Interactive App-Controlled Vibrator (Lilac) The Svakom Phoenix Neo 2 is a sleek, app-controlled vibrator designed to elevate pleasure with smart connectivity and powerful vibrations. Crafted for both solo and partner play, this device offers an immersive, interactive experience that syncs with videos and can be controlled remotely. Key Features: ~ Interactive App Control: Connects via the Svakom app for customizable settings and long-distance control. ~ Powerful & Quiet Vibrations: Multiple intensity levels and patterns for varied stimulation. ~ Ergonomic, Body-Hugging Design: Contoured shape ensures comfort and targeted pleasure. ~ Syncs with Interactive Content: Can be paired with video platforms for an enhanced experience. ~ Waterproof & Body-Safe: Made with high-quality, skin-friendly silicone for safe use in the bath or shower. ~ USB Rechargeable & Travel-Friendly: Long battery life with convenient charging for on-the-go pleasure. Designed for ultimate discretion and indulgence, the Svakom Phoenix Neo 2 in Lilac is a must-have for those seeking intelligent pleasure with seamless control.Specifications:- Barcode : 6959633103852- Size imperial : Insertable Length: 3.6 inches, Insertable Diameter: 1.3 inches- Size metric : Insertable Length: 9.2 cm, Insertable Diameter: 3.3 cm- Power : Rechargeable
-  Updated: 2026-10-16T17:24:23Z
-  Vendor: Svakom
-  Product Type: Egg Vibrator
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/55724939_large_7e79d418-623a-40b0-b073-55cc220de043.png?v=1740235126
-  Price: £77.37 GBP
-- [Amy 2](https://unveileddesire.com/products/amy-2): Amy 2 G-Spot & Clitoral Vibrator The Amy 2 is a sleek and powerful vibrator designed for both G-spot and clitoral stimulation. With its ergonomic shape, whisper-quiet motor, and velvety-smooth silicone finish, it offers a luxurious and satisfying experience. Key Features: ~ Ergonomic Design: Slim, curved shape for effortless G-spot and external stimulation. ~ Multiple Vibration Modes: Explore a range of intensities for personalized pleasure. ~ Body-Safe Silicone: Ultra-soft, seamless, and hypoallergenic for a comfortable feel. ~ Whisper-Quiet Operation: Discreet yet powerful for uninterrupted pleasure. ~ Waterproof & USB Rechargeable: Perfect for play in the bath or shower with convenient charging. With its elegant design and versatile functionality, the Amy 2 is a must-have for those seeking a sophisticated and effective pleasure companion.Specifications:- Barcode : 6959633102237- Power : USB Rechargeable- Size imperial : Product length: 6.85 inches, Insertable Length: 3.7 inches- Size metric : Product length: 17.4 cm, Insertable Length: 9.3 cm
-  Updated: 2026-10-16T17:24:23Z
-  Vendor: Svakom
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/381995087_large_51501834-9783-4691-bc07-b2719ad987d3.png?v=1794328611
+  Price: £59.99 GBP
+- [Rocks Off Glo-Girl G-Spot Vibrator Purple Pink](https://unveileddesire.com/products/rocks-off-glo-girl-g-spot-vibrator-purple-pink): Curved to find the spot that matters. Body-safe silicone, waterproof. Shop the Rocks Off Glo-Girl G-Spot Vibrator Purple Pink with discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
   Product Type: G-Spot Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34080274_large_24cb2dcb-5ab4-4ab2-99c2-a96950118e6a.png?v=1740235133
-  Price: £58.01 GBP
-- [Mora Neo](https://unveileddesire.com/products/mora): Mora Neo Interactive Rabbit Vibrator with Thrusting Beads The Mora Neo elevates dual stimulation with its advanced technology, blending targeted vibrations with thrusting beads for an intensified experience. Designed for G-spot and clitoral pleasure, this interactive rabbit vibrator offers a luxurious and immersive journey. Key Features: ~ Thrusting Beads Mechanism: Internal beads create a dynamic thrusting sensation for deep stimulation. ~ Dual Stimulation: Rabbit design provides simultaneous G-spot and clitoral pleasure. ~ Interactive App Control: Sync with the app for long-distance play, interactive features, and customization. ~ Multiple Vibration & Intensity Modes: Tailor your pleasure with adjustable settings. ~ Premium Body-Safe Silicone: Ultra-soft, hypoallergenic, and seamless for ultimate comfort.~ Waterproof & USB Rechargeable: Designed for versatile use and effortless charging. Whether you are exploring solo pleasure or engaging in interactive experiences, the Mora Neo delivers sophistication and satisfaction in every session. Specifications:- Barcode : 6959633103494- Size imperial : Product Length: 7.7 inches, Insertable Length: 3.9 inches, External Stimulator Length: 2.3 inches- Size metric : Product Length: 19.6 cm, Insertable Length: 10 cm, External Stimulator Length: 5.8 cm- Power : USB-C Rechargeable
-  Updated: 2026-10-16T17:24:23Z
-  Vendor: Svakom
-  Product Type: Rabbit Vibrator
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41209846_large_bfab0d0f-b02a-4781-a9b1-caa58f41e16c.png?v=1794328611
+  Price: £17.99 GBP
+- [Rocks Off Glo-Girl Wand Vibrator Purple Pink](https://unveileddesire.com/products/rocks-off-glo-girl-wand-vibrator-purple-pink): The classic wand, made irresistible. Shop the Rocks Off Glo-Girl Wand Vibrator Purple Pink, discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Rocks Off
+  Product Type: Wand Massager
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40871887_large_a6463611-71ce-42e5-beb3-2ad31251b441.png?v=1740235135
-  Price: £67.32 GBP
-- [Phoenix Neo 2 - Red](https://unveileddesire.com/products/phoenix): Phoenix Neo 2 Interactive App-Controlled Vibrator Experience the next level of pleasure with the Phoenix Neo 2, an innovative vibrator designed for both solo and partner play. With powerful vibrations, app connectivity, and an ergonomic design, this sleek device offers immersive stimulation tailored to your desires. Key Features: ~ App-Controlled - Sync with the app for customizable settings, long-distance play, and interactive experiences. ~ Powerful Vibrations - Multiple intensity levels and patterns for deep, satisfying pleasure. ~ Ergonomic Design - Contoured shape for targeted G-spot and clitoral stimulation. ~ Interactive Features - Connects to interactive content for a fully immersive experience. ~ Waterproof & Body-Safe - Made with high-quality silicone for safe use in the bath or shower. ~ USB Rechargeable - Long-lasting battery with quick and convenient charging. Whether youâ€™re exploring pleasure alone or with a partner, the Phoenix Neo 2 brings excitement and control to every intimate moment.Specifications:- Barcode : 6959633134559- Power : Rechargeable- Size imperial : Product Insertable Length: 3.6 inches, Insertable Diameter: 1.3 inches- Size metric : Product Insertable Length: 9.2 cm, Insertable Diameter: 3.3 cm
-  Updated: 2026-10-16T17:24:23Z
-  Vendor: Svakom
-  Product Type: Egg Vibrator
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/41209842_large_0e4462cf-57d4-4877-983b-8c5444dfbfbe.png?v=1794328617
+  Price: £18.99 GBP
+- [Nu Sensuelle Remote Control Pleasure Panty 15 Function White](https://unveileddesire.com/products/nu-sensuelle-remote-control-pleasure-panty-15-function-white): Let someone else take control. Shop the Nu Sensuelle Remote Control Pleasure Panty 15 Function White, discreet UK delivery.
+  Updated: 2026-11-14T14:25:41Z
+  Vendor: Nu Sensuelle
+  Product Type: Remote Control Toy
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/22483493_large_85736895-3a43-46e1-b480-2a8f10b1310f.png?v=1740235141
-  Price: £77.37 GBP
-- [Pulse Galaxie - Metallic Lilac](https://unveileddesire.com/products/galaxie): Galaxie Suction Vibrator with Mood Projector (Metallic Lilac) Step into a universe of pleasure with the Galaxie, a uniquely designed suction vibrator that combines powerful stimulation with an enchanting mood projector. This elegant device offers a multi-sensory experience, blending pleasure and ambiance for ultimate relaxation and satisfaction. Key Features: ~ Air-Pulse Suction Technology - Delivers gentle yet intense clitoral stimulation. ~ Built-In Mood Projector - Creates a mesmerizing ambiance for a fully immersive experience. ~ Multiple Intensity Levels - Customize sensations to match your mood and desire. ~ Ergonomic & Stylish Design - Sleek metallic lilac finish for a luxurious touch. ~ Body-Safe Silicone & ABS - Smooth, skin-friendly materials for comfort and safety. ~ USB Rechargeable & Waterproof - Ideal for play anywhere, including the bath or shower. Designed to transport you to new heights of pleasure, the Galaxie offers a cosmic journey of indulgence, passion, and relaxation.Specifications:- Barcode : 6959633103371- Power : USB-C Rechargeable- Size imperial : Product size: 3.3 inches x 4.3 inches, Mouth Diameter: 0.5 inches- Size metric : Product size: 8.4 cm x 11 cm, Mouth Diameter: 1.2 cm
-  Updated: 2026-10-16T17:24:23Z
-  Vendor: Svakom
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684068_large_fc9ab81a-ca42-42ab-8a7c-f42e4266e472.png?v=1794328617
+  Price: £51.99 GBP
+- [Nu Sensuelle Trinitii 3 in 1 Suction Tonuge Vibe Violet Clitoral](https://unveileddesire.com/products/nu-sensuelle-trinitii-3-in-1-suction-tonuge-vibe-violet-clitoral): Small touch. Big feeling. Shop the Nu Sensuelle Trinitii 3 in 1 Suction Tonuge Vibe Violet Clitoral, discreet UK delivery.
+  Updated: 2026-11-14T14:25:43Z
+  Vendor: Nu Sensuelle
   Product Type: Clitoral Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34952854_large_7707fc77-ef36-4030-9bd9-e4da77ea503f.png?v=1740235148
-  Price: £77.37 GBP
-- [Pulse Galaxie - Midnight Black](https://unveileddesire.com/products/galaxie-1): Galaxie Suction Vibrator with Mood Projector Step into a universe of pleasure with the Galaxie, a uniquely designed suction vibrator that combines powerful stimulation with an enchanting mood projector. This elegant device offers a multi-sensory experience, blending pleasure and ambiance for ultimate relaxation and satisfaction. Key Features: ~ Air-Pulse Suction Technology - Delivers gentle yet intense clitoral stimulation. ~ Built-In Mood Projector - Creates a mesmerizing ambiance for a fully immersive experience. ~ Multiple Intensity Levels - Customize sensations to match your mood and desire. ~ Ergonomic & Stylish Design - Sleek metallic lilac finish for a luxurious touch. ~ Body-Safe Silicone & ABS - Smooth, skin-friendly materials for comfort and safety. ~ USB Rechargeable & Waterproof - Ideal for play anywhere, including the bath or shower. Designed to transport you to new heights of pleasure, the Galaxie offers a cosmic journey of indulgence, passion, and relaxation.Specifications:- Barcode : 6959633103388- Power : USB-C Rechargeable- Size imperial : Product size: 3.3 inches x 4.3 inches, Mouth Diameter: 0.5 inches- Size metric : Product size: 8.4 cm x 11 cm, inches, Mouth Diameter: 1.2 cm
-  Updated: 2026-10-16T17:24:23Z
-  Vendor: Svakom
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684113_large_13131b4b-4821-4355-95ac-e83d0080296c.png?v=1794328623
+  Price: £68.99 GBP
+- [Nu Sensuelle Velvet Touch Muse Xlr8 Turbo Boost Bullet Blue](https://unveileddesire.com/products/nu-sensuelle-velvet-touch-muse-xlr8-turbo-boost-bullet-blue): Tiny, discreet and surprisingly powerful. Body-safe silicone. Shop the Nu Sensuelle Velvet Touch Muse Xlr8 Turbo Boost Bullet Blue with discreet UK delivery.
+  Updated: 2026-11-14T14:25:43Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/381995082_large_f0c66cd6-eb8f-474d-b654-3a962e76088c.png?v=1794328623
+  Price: £52.99 GBP
+- [Nu Sensuelle Gemma Nubii Bullet Coral](https://unveileddesire.com/products/nu-sensuelle-gemma-nubii-bullet-coral): Pocket-sized pleasure, wherever desire leads. Shop the Nu Sensuelle Gemma Nubii Bullet Coral with discreet UK delivery.
+  Updated: 2026-11-14T14:25:43Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/381995060_large_a95d3eec-32c3-47d6-9d45-b9ca9a7c355e.png?v=1794328629
+  Price: £41.99 GBP
+- [Nu Sensuelle Gemma Nubii Bullet Blue](https://unveileddesire.com/products/nu-sensuelle-gemma-nubii-bullet-blue): Tiny, discreet and surprisingly powerful. Shop the Nu Sensuelle Gemma Nubii Bullet Blue with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/381995045_large_b7b00ae0-9edb-4903-bce6-bac8b89b8ed0.png?v=1794328630
+  Price: £41.99 GBP
+- [Nu Sensuelle Velvet Touch Muse Xlr8 Turbo Boost Bullet Pink](https://unveileddesire.com/products/nu-sensuelle-velvet-touch-muse-xlr8-turbo-boost-bullet-pink): Pocket-sized pleasure, wherever desire leads. Shop the Nu Sensuelle Velvet Touch Muse Xlr8 Turbo Boost Bullet Pink, discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/381995111_large_6fabf9ba-c7cc-4aa6-9a50-d975162402b1.png?v=1794328635
+  Price: £52.99 GBP
+- [Nu Sensuelle Siren Nubii G Spot Bendable Vibe Blue](https://unveileddesire.com/products/nu-sensuelle-siren-nubii-g-spot-bendable-vibe-blue): Designed for that unmistakable inner glow. Shop the Nu Sensuelle Siren Nubii G Spot Bendable Vibe Blue with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: G-Spot Vibrators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59438780_large_f932cc3c-7583-4248-8331-f974e1351f25.png?v=1794328641
+  Price: £45.99 GBP
+- [Nu Sensuelle Chloe Nubii Warming Slim G-Spot Vibrator Blue](https://unveileddesire.com/products/nu-sensuelle-chloe-nubii-warming-slim-g-spot-vibrator-blue): Designed for that unmistakable inner glow. Shop the Nu Sensuelle Chloe Nubii Warming Slim G-Spot Vibrator Blue with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: G-Spot Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59438776_large_74a21def-84fb-45f6-bf84-61ed0f83050c.png?v=1794328642
+  Price: £35.99 GBP
+- [Nu Sensuelle Jolie Nubii Warming Mini Rabbit Lime Green](https://unveileddesire.com/products/nu-sensuelle-jolie-nubii-warming-mini-rabbit-lime-green): Two sweet spots. One unforgettable sensation. Shop the Nu Sensuelle Jolie Nubii Warming Mini Rabbit Lime Green with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Rabbit Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59438792_large_61026126-78cb-48a3-b129-44f7e2d40589.png?v=1794328647
+  Price: £46.99 GBP
+- [Nu Sensuelle Adore Xlr8 Turbo Boost Mini Wand Black](https://unveileddesire.com/products/nu-sensuelle-adore-xlr8-turbo-boost-mini-wand-black): Deep, rumbling power from head to toe. Shop the Nu Sensuelle Adore Xlr8 Turbo Boost Mini Wand Black, discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Wand Massager
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/416196272_large_48905c78-c83d-4cb8-bd5c-575fc7de7ecf.png?v=1794328647
+  Price: £59.99 GBP
+- [Nu Sensuelle Adore Xlr8 Mini Wand with Warming](https://unveileddesire.com/products/nu-sensuelle-adore-xlr8-turbo-boost-mini-wand-hot-pink): Nu Sensuelle Adore Xlr8 Turbo Boost mini wand: Velvet Touch silicone, 7 speeds, warming function, waterproof, rechargeable. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Wand Massager
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/416196277_large_3acbc9be-230d-4d25-a7b1-c89abad23f2b.png?v=1794328653
+  Price: £59.99 GBP
+- [Nu Sensuelle Bella XLR8 Turbo Boost Vibrator Hot Pink](https://unveileddesire.com/products/nu-sensuelle-bella-xlr8-turbo-boost-vibrator-hot-pink): Made for slow builds and sweet release. Body-safe silicone. Shop the Nu Sensuelle Bella XLR8 Turbo Boost Vibrator Hot Pink with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Vibrators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59434491_large_9112d7cd-daa5-4643-812f-47d909429f2f.png?v=1794328653
+  Price: £55.99 GBP
+- [Nu Sensuelle Kiah Nubii Rabbit Vibrator Blue](https://unveileddesire.com/products/nu-sensuelle-kiah-nubii-rabbit-vibrator-blue): Inside and out, all at once. 3 speeds, waterproof. Shop the Nu Sensuelle Kiah Nubii Rabbit Vibrator Blue with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Rabbit Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/21976152_large_8f13f273-b2d9-4fec-b6a9-b07915b9c8f0.png?v=1794328660
+  Price: £55.99 GBP
+- [Nu Sensuelle Tulla Nubii Bullet Vibrator Yellow](https://unveileddesire.com/products/nu-sensuelle-tulla-nubii-bullet-vibrator-yellow): Pocket-sized pleasure, wherever desire leads. Waterproof, USB rechargeable. Shop the Nu Sensuelle Tulla Nubii Bullet Vibrator Yellow with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/21976149_large_da8e5b14-47bd-420d-a399-d11f90d76a66.png?v=1794328660
+  Price: £33.99 GBP
+- [Nu Sensuelle Tulla Nubii Bullet Vibrator Purple](https://unveileddesire.com/products/nu-sensuelle-tulla-nubii-bullet-vibrator-purple): Tiny, discreet and surprisingly powerful. Waterproof, USB rechargeable. Shop the Nu Sensuelle Tulla Nubii Bullet Vibrator Purple with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/21976159_large_426832b0-33f7-4d73-b1f4-753b62c48de0.png?v=1794328666
+  Price: £30.99 GBP
+- [Nu Sensuelle Harlow Nubii Mini Wand Massager With Masturbator Purple](https://unveileddesire.com/products/nu-sensuelle-harlow-nubii-mini-wand-massager-with-masturbator-purple): Tight, lifelike and ready when you are. Shop the Nu Sensuelle Harlow Nubii Mini Wand Massager With Masturbator Purple with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Masturbator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112549176_large_3c0945e4-90da-4f66-94b0-f088415c5aaf.png?v=1794328666
+  Price: £60.99 GBP
+- [Nu Sensuelle Nubii Sunni Rechargeable Warming Bullet Vibrator Pink](https://unveileddesire.com/products/nu-sensuelle-nubii-sunni-rechargeable-warming-bullet-vibrator-pink): Tiny, discreet and surprisingly powerful. Shop the Nu Sensuelle Nubii Sunni Rechargeable Warming Bullet Vibrator Pink, discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112549179_large_9cb556a0-9a3e-48c9-80b8-7627015d2224.png?v=1794328671
+  Price: £42.99 GBP
+- [Nu Sensuelle Jolie Nubii Warming Mini Rabbit Pink](https://unveileddesire.com/products/nu-sensuelle-jolie-nubii-warming-mini-rabbit-pink): Inside and out, all at once. Shop the Nu Sensuelle Jolie Nubii Warming Mini Rabbit Pink with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Rabbit Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112549255_large_251f6f0b-7b23-4bcf-a53c-26b8571c66a4.png?v=1794328672
+  Price: £46.99 GBP
+- [Nu Sensuelle Raine Nubii External Warming & Tapping Vibrator Purple](https://unveileddesire.com/products/nu-sensuelle-raine-nubii-external-warming-tapping-vibrator-purple): Pleasure, perfectly tuned to you. Shop the Nu Sensuelle Raine Nubii External Warming & Tapping Vibrator Purple with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Vibrators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112549229_large_05e8d70c-bac8-4def-bbc9-81f97863f317.png?v=1794328678
+  Price: £46.99 GBP
+- [Nu Sensuelle Pleasure Panty 15 Function Bullet Black](https://unveileddesire.com/products/nu-sensuelle-pleasure-panty-15-function-bullet-black): Tiny, discreet and surprisingly powerful. USB rechargeable. Shop the Nu Sensuelle Pleasure Panty 15 Function Bullet Black with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59775805_large_3a9676ab-cbe2-4b90-983d-8b40953b8f93.png?v=1794328679
+  Price: £62.99 GBP
+- [Titanz Bendable Rechargeable Vibrator Purple](https://unveileddesire.com/products/titanz-bendable-rechargeable-vibrator-purple): Made for slow builds and sweet release. USB rechargeable. Shop the Titanz Bendable Rechargeable Vibrator Purple with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Titanz
+  Product Type: Vibrators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112550192_large_c46ce2c6-92a5-4230-956d-8dcddf3a1673.png?v=1794328684
+  Price: £16.99 GBP
+- [Titanz Licking Motion Rechargeable Vibrator White](https://unveileddesire.com/products/titanz-licking-motion-rechargeable-vibrator-white): Small touch. Big feeling. USB rechargeable. Shop the Titanz Licking Motion Rechargeable Vibrator White with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Titanz
   Product Type: Clitoral Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34952841_large_596d45b3-76ea-4436-88a9-f3869f7c892f.png?v=1740235151
-  Price: £65.67 GBP
-- [Chika](https://unveileddesire.com/products/chika): Chika App-Controlled Flexible Warming Rabbit Vibrator The Chika rabbit vibrator combines innovative technology with luxurious comfort, offering dual stimulation with a unique warming feature. Designed for personalized pleasure, this app-controlled device adapts to your desires with flexible movement, powerful vibrations, and interactive connectivity. Key Features: ~ Flexible & Ergonomic Design - Moves with your body for precise, comfortable stimulation. ~ Warming Function - Gently heats to body temperature for a more natural, soothing experience. ~ App-Controlled - Connect via the app for customizable settings and long-distance control. ~ Dual Motors - Provides intense, targeted G-spot and clitoral stimulation. ~ Premium Body-Safe Silicone - Ultra-soft, hypoallergenic material for smooth, safe pleasure. ~ USB Rechargeable & Waterproof - Convenient charging and versatile use in the bath or shower. Perfect for solo indulgence or interactive play, the Chika offers a sophisticated and sensual experience with every touch.Specifications:- Barcode : 6959633103500- Size imperial : Product Length: 7.4 inches, Insertable Length: 4.6 inches, External Stimulator Length: 2.2 inches- Size metric : Product Length: 18.8 cm, Insertable Length: 11.8 cm, External Stimulator Length: 5.6 cm- Power : USB-C Rechargeable
-  Updated: 2026-10-16T17:24:23Z
-  Vendor: Svakom
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112550140_large_86a4151e-9788-41f4-9637-33d30b921526.png?v=1794328685
+  Price: £17.99 GBP
+- [Titanz Bendable Rechargeable Vibrator Pink](https://unveileddesire.com/products/titanz-bendable-rechargeable-vibrator-pink): Pleasure, perfectly tuned to you. USB rechargeable. Shop the Titanz Bendable Rechargeable Vibrator Pink with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Titanz
+  Product Type: Vibrators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112550188_large_a21e2990-00a5-49f6-9c3a-da2bae80097a.png?v=1794328691
+  Price: £16.99 GBP
+- [Titanz Thrusting Rechargeable Vibrator White](https://unveileddesire.com/products/titanz-thrusting-rechargeable-vibrator-white): Turn up the feeling. Turn down the world. USB rechargeable. Shop the Titanz Thrusting Rechargeable Vibrator White with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Titanz
+  Product Type: Vibrators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112550202_large_4d0f9282-1cea-4b41-b231-952e12efa2ad.png?v=1794328691
+  Price: £18.99 GBP
+- [Nu Sensuelle Point Bullet Vibrator Black](https://unveileddesire.com/products/nu-sensuelle-point-bullet-vibrator-black): Small enough to hide, strong enough to thrill. Shop the Nu Sensuelle Point Bullet Vibrator Black, discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15684063_large_159ff931-7c46-4e77-9886-79cec0b6ee07.png?v=1794328696
+  Price: £46.99 GBP
+- [Nu Sensuelle Velvet Touch Luna Hot Pink Bullet Vibrator](https://unveileddesire.com/products/nu-sensuelle-velvet-touch-luna-hot-pink-bullet-vibrator): Tiny, discreet and surprisingly powerful. Shop the Nu Sensuelle Velvet Touch Luna Hot Pink Bullet Vibrator, discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/381995103_large_2376b09c-8e5f-4b57-9b97-f7653edfe5b7.png?v=1794328703
+  Price: £63.99 GBP
+- [Nu Sensuelle Nikita Bullet With Nitro Motor Deep Turquoise](https://unveileddesire.com/products/nu-sensuelle-nikita-bullet-with-nitro-motor-deep-turquoise): Small enough to hide, strong enough to thrill. Shop the Nu Sensuelle Nikita Bullet With Nitro Motor Deep Turquoise, discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/428422411_large_c246625d-8339-4953-aaea-b208589c4412.png?v=1794328703
+  Price: £59.99 GBP
+- [Nu Sensuelle Envy Xlr8 Turbo Boost Bullet Deep Turquoise](https://unveileddesire.com/products/nu-sensuelle-envy-xlr8-turbo-boost-bullet-deep-turquoise): Pocket-sized pleasure, wherever desire leads. 7 speeds. Shop the Nu Sensuelle Envy Xlr8 Turbo Boost Bullet Deep Turquoise with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/381995120_large_cd713143-d518-4699-a490-2e13cbe11523.png?v=1794328709
+  Price: £59.99 GBP
+- [Nu Sensuelle Skye XLR8 Turbo Boost Bullet Vibrator Emerald](https://unveileddesire.com/products/nu-sensuelle-skye-xlr8-turbo-boost-bullet-vibrator-emerald): Tiny, discreet and surprisingly powerful. Body-safe silicone. Shop the Nu Sensuelle Skye XLR8 Turbo Boost Bullet Vibrator Emerald with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59434488_large_9b3843fe-7970-4653-94b3-c0f5234fd1e9.png?v=1794328709
+  Price: £50.99 GBP
+- [Nu Sensuelle Envy Xlr8 Turbo Boost Bullet Deep Purple](https://unveileddesire.com/products/nu-sensuelle-envy-xlr8-turbo-boost-bullet-deep-purple): Pocket-sized pleasure, wherever desire leads. 7 speeds. Shop the Nu Sensuelle Envy Xlr8 Turbo Boost Bullet Deep Purple with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/381995092_large_ff2e31b0-370d-4c7c-b29f-06a5983b532a.png?v=1794328714
+  Price: £59.99 GBP
+- [Nu Sensuelle Harlow Nubii Mini Wand Vibrator Pink](https://unveileddesire.com/products/nu-sensuelle-harlow-nubii-mini-wand-vibrator-pink): Melt tension away, then melt completely. Shop the Nu Sensuelle Harlow Nubii Mini Wand Vibrator Pink with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Wand Massager
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59438785_large_0b259478-bad3-4768-a026-704cc40030ab.png?v=1794328715
+  Price: £59.99 GBP
+- [Nu Sensuelle Bella XLR8 Turbo Boost Vibrator Emerald](https://unveileddesire.com/products/nu-sensuelle-bella-xlr8-turbo-boost-vibrator-emerald): Pleasure, perfectly tuned to you. Body-safe silicone. Shop the Nu Sensuelle Bella XLR8 Turbo Boost Vibrator Emerald with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Vibrators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59434431_large_93908bf1-65b0-4788-acd2-dbe21362ced1.png?v=1794328720
+  Price: £52.99 GBP
+- [Nu Sensuelle Velvet Touch Luna Emerald Green Bullet Vibrator](https://unveileddesire.com/products/nu-sensuelle-velvet-touch-luna-emerald-green-bullet-vibrator): Small enough to hide, strong enough to thrill. Shop the Nu Sensuelle Velvet Touch Luna Emerald Green Bullet Vibrator, discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/381995107_large_e9483473-9b99-4201-80a3-d1056646adce.png?v=1794328721
+  Price: £63.99 GBP
+- [Nu Sensuelle Tulla Nubii Bullet Blue](https://unveileddesire.com/products/nu-sensuelle-tulla-nubii-bullet-blue): Tiny, discreet and surprisingly powerful. Waterproof, USB rechargeable. Shop the Nu Sensuelle Tulla Nubii Bullet Blue with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/32519183_large_2c7fa5d1-f56b-4397-838b-064fc52b925b.png?v=1794328726
+  Price: £31.99 GBP
+- [Nu Sensuelle Jolie Nubii Warming Mini Rabbit Blue](https://unveileddesire.com/products/nu-sensuelle-jolie-nubii-warming-mini-rabbit-blue): Two sweet spots. One unforgettable sensation. Shop the Nu Sensuelle Jolie Nubii Warming Mini Rabbit Blue with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
   Product Type: Rabbit Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40871676_large_c07d2592-bd00-417b-927b-97ef5e5fa8a2.png?v=1740235154
-  Price: £64.46 GBP
-- [Avery - Strawberry Pink](https://unveileddesire.com/products/svakom-avery-thrusting-vibrator-with-clitoral-stimulator-pink): Features: Powerful Thrust with multiple modes and intensities Thrusting and vibrating heads 5 different thrusting patterns as well as 5 different levels of intensity Magnetic charging 100% waterproof Made from body safe silicone Product length: 7.6 inches/19.3cm, Insertable Length: 4.3 inches-10.8cm, Thrusting Distance: 0.3 inches-0.8cm 3 hours charging time for 2 hours of fun Specifications:- Barcode : 6959633104743- Size imperial : Product length: 7.6 inches, Insertable Length: 4.3 inches, Thrusting Distance: 0.3 inches- Size metric : Product length: 19.3 cm, Insertable Length: 10.8 cm, Thrusting Distance: 0.8 cm- Power : USB Magnetic Charging
-  Updated: 2026-10-16T17:24:23Z
-  Vendor: Svakom
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112549193_large_fe05ea4e-d856-4872-ba69-e890195c56a0.png?v=1794328727
+  Price: £46.99 GBP
+- [Nu Sensuelle Siren Nubii G Spot Bendable Vibe Pink](https://unveileddesire.com/products/nu-sensuelle-siren-nubii-g-spot-bendable-vibe-pink): Curved to find the spot that matters. Shop the Nu Sensuelle Siren Nubii G Spot Bendable Vibe Pink with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: G-Spot Vibrators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112549237_large_728d9231-f31b-4ecf-8e35-cd2da2d6418c.png?v=1794328732
+  Price: £46.99 GBP
+- [Nubii Sunni Rechargeable Warming Bullet Vibrator Pink Purple](https://unveileddesire.com/products/nu-sensuelle-nubii-sunni-rechargeable-warming-bullet-vibrator-pink-purple): Tiny, discreet and surprisingly powerful. Shop the Nubii Sunni Rechargeable Warming Bullet Vibrator Pink Purple, discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112549246_large_17071816-05de-4ccd-8886-98cfd2268456.png?v=1794328733
+  Price: £42.99 GBP
+- [Nu Sensuelle Chloe Nubii Warming Slim G-Spot Vibrator Purple](https://unveileddesire.com/products/nu-sensuelle-chloe-nubii-warming-slim-g-spot-vibrator-purple): Designed for that unmistakable inner glow. Shop the Nu Sensuelle Chloe Nubii Warming Slim G-Spot Vibrator Purple with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: G-Spot Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112549199_large_e83350db-e8c7-40a1-bd4c-c3a9805c0fb6.png?v=1794328738
+  Price: £35.99 GBP
+- [Nu Sensuelle Triple Action Daisy Ultra Violet Vibrator](https://unveileddesire.com/products/nu-sensuelle-triple-action-daisy-ultra-violet-vibrator): Turn up the feeling. Turn down the world. Shop the Nu Sensuelle Triple Action Daisy Ultra Violet Vibrator with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Vibrators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59569453_large_91af820d-c63a-4716-8802-10d49d46631f.png?v=1794328739
+  Price: £73.99 GBP
+- [Nu Sensuelle Nikita Bullet With Nitro Motor Deep Pink](https://unveileddesire.com/products/nu-sensuelle-nikita-bullet-with-nitro-motor-deep-pink): Small enough to hide, strong enough to thrill. Shop the Nu Sensuelle Nikita Bullet With Nitro Motor Deep Pink with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Nu Sensuelle
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/381995116_large_22db6524-fb04-4b78-b9ab-2fb13443a6fe.png?v=1794328744
+  Price: £59.99 GBP
+- [Titanz Rotating 3.5inch Rechargeable Rabbit With Clit Stimulation Pink](https://unveileddesire.com/products/titanz-rotating-3-5inch-rechargeable-rabbit-with-clit-stimulation-pink): Two sweet spots. One unforgettable sensation. Shop the Titanz Rotating 3.5inch Rechargeable Rabbit With Clit Stimulation Pink, discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Titanz
   Product Type: Rabbit Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/55724970_large_89f7ee74-9f91-4249-a2dc-161db87b9ac5.png?v=1740235190
-  Price: £67.33 GBP
-- [Cici+ 2](https://unveileddesire.com/products/cici): Cici+ 2 App-Controlled Slim Rabbit Vibrator - Precision Meets Pleasure Discover a new level of satisfaction with the Cici+ 2, an app-controlled slim rabbit vibrator designed for targeted pleasure and effortless control. With its flexible head, powerful vibrations, and sleek, ergonomic design, this vibrator is perfect for both external and internal stimulation. Whether you are enjoying solo play or exploring with a partner, the Cici+ 2 delivers customized pleasure at your fingertips. ~ App-Controlled Convenience ~ Connect via the app for hands-free control and interactive pleasure. ~ Flexible & Precise ~ A slim, flexible head adapts to your bodys contours for precise G-spot and clitoral stimulation. ~ Powerful & Quiet ~ Deep, rumbly vibrations with whisper-quiet operation for discreet pleasure. ~ Premium Silicone ~ Made from ultra-soft, body-safe silicone for a luxurious feel. ~ Waterproof & Rechargeable ~ Fully waterproof for bath and shower play, with USB magnetic charging for convenience. Specifications: ~ Material: Body-safe silicone & ABS ~ Color Options: Elegant shades to suit your style ~ Vibration Modes: Multiple intensities and patterns for a customizable experience ~ Battery Life: Long-lasting rechargeable battery with quick charging ~ Waterproof Rating: IPX7 safe for bath and shower play ~ Care Instructions: Wash with warm water and mild soap or use a toy cleaner Experience precise pleasure with the Cici+ 2, your go-to for enhanced intimacy and endless possibilities. Specifications:- Barcode : 6959633104033- Materials : Silicone/ABS- Size imperial : Product: 7 x 1 inches / Packaged: 10 x 4 x 2 inches- Size metric : Product: 18.2 x 2.5 cm / Packaged: 25.5 x 10 x 5.5 cm- Power : USB-C rechargeable
-  Updated: 2026-10-16T17:24:23Z
-  Vendor: Svakom
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112550134_large_7152c493-0af8-40a8-bf3d-3181ba48a259.png?v=1794328745
+  Price: £17.99 GBP
+- [Titanz Spiral 6inch Rechargeable Vibrator Pink](https://unveileddesire.com/products/titanz-spiral-6inch-rechargeable-vibrator-pink): Made for slow builds and sweet release. USB rechargeable. Shop the Titanz Spiral 6inch Rechargeable Vibrator Pink with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Titanz
+  Product Type: Vibrators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112550123_large_2a47ff9a-f83b-45f9-8f86-7e2009f98cba.png?v=1794328751
+  Price: £20.99 GBP
+- [Titanz Rotating 3.5inch Rechargeable Rabbit With Clit Stimulation](https://unveileddesire.com/products/titanz-rotating-3-5inch-rechargeable-rabbit-with-clit-stimulation-purple): Double the touch, double the bliss. USB rechargeable. Shop the Titanz Rotating 3.5inch Rechargeable Rabbit With Clit Stimulation with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Titanz
   Product Type: Rabbit Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/55724948_large_584f6ffe-5f5f-43a4-ad1e-48e93da818c1.png?v=1740235193
-  Price: £58.04 GBP
-[List Continued](https://unveileddesire.com/a/llms-agent/llms.txt?shop=6h50mu-5n.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTQ4MDI0MTExMzcwLCJsYXN0X3ZhbHVlIjoiOTk0ODAyNDExMTM3MCJ9)
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112550128_large_52d935f8-3631-4c31-8e28-d3f7c8f1ed79.png?v=1794328751
+  Price: £17.99 GBP
+- [Titanz Thrusting Rechargeable Vibrator Pink](https://unveileddesire.com/products/titanz-thrusting-rechargeable-vibrator-pink): Pleasure, perfectly tuned to you. USB rechargeable. Shop the Titanz Thrusting Rechargeable Vibrator Pink with discreet UK delivery.
+  Updated: 2026-11-14T14:25:44Z
+  Vendor: Titanz
+  Product Type: Vibrators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112550106_large_65b60c1f-7a62-4258-ae36-95114c00f454.png?v=1794328756
+  Price: £18.99 GBP
+- [Titanz Spiral 6inch Rechargeable Vibrator](https://unveileddesire.com/products/titanz-spiral-6inch-rechargeable-vibrator): Turn up the feeling. Turn down the world. USB rechargeable. Shop the Titanz Spiral 6inch Rechargeable Vibrator with discreet UK delivery.
+  Updated: 2026-11-14T14:25:45Z
+  Vendor: Titanz
+  Product Type: Vibrators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112550119_large_d4ec218a-e871-4935-bf91-3296444e9175.png?v=1794328757
+  Price: £20.99 GBP
+- [Titanz Rotating 5inch Rechargeable Rabbit With Clit Stimulation Pink](https://unveileddesire.com/products/titanz-rotating-5inch-rechargeable-rabbit-with-clit-stimulation-pink): Double the touch, double the bliss. USB rechargeable. Shop the Titanz Rotating 5inch Rechargeable Rabbit With Clit Stimulation Pink with discreet UK delivery.
+  Updated: 2026-11-15T01:01:45Z
+  Vendor: Titanz
+  Product Type: Rabbit Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/112550196_large_5887f07d-bc3b-40c0-a401-323a854e20ef.png?v=1794328763
+  Price: £20.99 GBP
+- [ROMP Luster Silicone Butt Plug Set, 3 Sizes](https://unveileddesire.com/products/romp-luster-butt-plug): ROMP Luster: a set of 3 silicone butt plugs in increasing sizes with a tapered shape, made for beginners. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:45Z
+  Vendor: Romp
+  Product Type: Butt Plug
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65754065_large_549ddeeb-240c-498a-bc17-bd042fab9d07.png?v=1794328763
+  Price: £24.99 GBP
+- [ROMP Presto Compact Wand Vibrator, Rechargeable, Green](https://unveileddesire.com/products/romp-presto-masturbator): ROMP Presto: a compact wand vibrator with a squishy silicone head, 6 intensities and 4 patterns. Waterproof and rechargeable. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:45Z
+  Vendor: Romp
+  Product Type: Wand Massager
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65754068_large_89cf175b-48aa-48d3-92b5-e9dc18c68394.png?v=1794328769
+  Price: £27.99 GBP
+- [ROMP Pulse Rabbit Vibrator with Air Pulse, Dual Motors](https://unveileddesire.com/products/romp-pulse-rabbit-vibrator): ROMP Pulse rabbit vibrator: Pleasure Air clitoral stimulation plus a vibrating G-spot arm, dual motors with adjustable settings. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:45Z
+  Vendor: Romp
+  Product Type: Rabbit Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/65754073_large_3deb2c9e-ef77-4652-afe7-c05f33c4a441.png?v=1794328769
+  Price: £34.99 GBP
+- [ROMP Party Remote-Control Panty Vibrator, Purple](https://unveileddesire.com/products/romp-party-remote-control-vibrator): ROMP Party wearable panty vibrator with remote: 7 intensities, body-safe silicone, IPX7 waterproof, USB rechargeable. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Remote Control Toy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/189753172_large_47265fb6-8834-4442-830c-7760c34d0c1b.png?v=1794328776
+  Price: £34.99 GBP
+- [ROMP Riot Mini Bullet Vibrator, Splashproof, Orange](https://unveileddesire.com/products/romp-riot-bullet-vibrator): ROMP Riot: an ultra-compact, simple bullet vibrator with surprisingly powerful vibrations for focused external play. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/29857753_large_ab47e93a-60c4-4302-8d26-1ac43fdd8059.png?v=1794328777
+  Price: £15.99 GBP
+- [ROMP Shine X Air Pulse Clitoral Stimulator, Pink](https://unveileddesire.com/products/romp-shine-x-clitoral-vibrator): ROMP Shine X: Pleasure Air clitoral stimulator with 10 intensity levels, silky silicone, waterproof and rechargeable. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Clitoral Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34927228_large_fa91115d-bb6b-4698-81b5-28e1762d71f0.png?v=1794328782
+  Price: £35.99 GBP
+- [ROMP Pop Clitoral Vibrator, 2 Heads, Waterproof, Red](https://unveileddesire.com/products/romp-pop-clitoral-stimulator-red): ROMP Pop high-frequency clitoral vibrator with 2 interchangeable heads, 3 intensities and 3 patterns. Waterproof, rechargeable. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Clitoral Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34927206_large_2b0faebf-35fc-45eb-bab9-71744d088d3e.png?v=1794328783
+  Price: £24.99 GBP
+- [ROMP Rose Glow-in-the-Dark Clitoral Stimulator, Blue](https://unveileddesire.com/products/romp-rose-glow-in-the-dark-clitoral-stimulator): ROMP Rose Glow: a glow-in-the-dark clitoral stimulator made from soft material, with different settings for varied sensations. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Clitoral Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/345921924_large_818355c4-86f9-463d-a00e-10415259b335.png?v=1794328789
+  Price: £36.99 GBP
+- [ROMP Pink Peach Clitoral Stimulator](https://unveileddesire.com/products/romp-pink-peach-clitoral-stimulator): ROMP Pink Peach: a playful peach-shaped clitoral stimulator with different speed and pattern settings, for solo or partnered play. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Clitoral Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/345921959_large_3c6e0090-11c3-4e35-a467-e1465135d073.png?v=1794328789
+  Price: £36.99 GBP
+- [Romp Reverb Air Pulse Rabbit Vibrator, Purple](https://unveileddesire.com/products/romp-reverb-rabbit-clitoral-vibrator-double-trouble-purple): Romp Reverb rabbit vibrator: G-spot vibrating arm plus air pulse clitoral head for dual stimulation. Waterproof, rechargeable. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Rabbit Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34927233_large_eeba2758-c75f-4307-90bc-55bbdac50724.png?v=1794328795
+  Price: £41.99 GBP
+- [ROMP Jiggle Thrusting Vibrator, Pink](https://unveileddesire.com/products/romp-jiggle-thrusting-vibrator): ROMP Jiggle: a vibrator with a jiggling, thrusting motion, soft comfortable material and multiple intensity settings. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Vibrators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/345921941_large_4228d65f-b7cb-4c56-a355-2172ce8fbc6c.png?v=1794328795
+  Price: £43.99 GBP
+- [ROMP Dash Manual Stroker with Natural Suction](https://unveileddesire.com/products/romp-dash-masturbator-black): ROMP Dash: a skin-soft manual stroker that uses natural suction, with no batteries needed. Easy to use and clean. Free UK delivery over £35.
+  Updated: 2026-11-14T20:37:16Z
+  Vendor: Romp
+  Product Type: Masturbator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/29857833_large_a66b8c56-ad03-4133-8563-21aea8ee4c3b.png?v=1794328801
+  Price: £24.99 GBP
+- [ROMP Amp Silicone Anal Beads, Graduated Sizes, Purple](https://unveileddesire.com/products/romp-amp-anal-beads-purple): ROMP Amp: small, flexible silicone anal beads in graduated sizes, a gentle introduction to anal toys. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Anal Bead
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/29857719_large_dc5231ac-6257-44a7-ac79-c713a9499f20.png?v=1794328801
+  Price: £13.99 GBP
+- [ROMP Pleasure Kit: Wand, Couples Ring and Air Stimulator](https://unveileddesire.com/products/romp-pleasure--toy-kit-blue-red-purple): Three ROMP toys in one roll bag: Flip wand, Juke vibrating couples ring and Free air-pulse stimulator. A great couples gift. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Gifts & Novelties
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/51458288_large_92976ded-7c1a-444d-868a-d9b1b190d552.png?v=1794328808
+  Price: £61.99 GBP
+- [ROMP Bass Vibrating Butt Plug, Rechargeable, Blue](https://unveileddesire.com/products/romp-bass-vibrating-butt-plug-blue): ROMP Bass: a rechargeable, waterproof vibrating butt plug in soft silicone with 6 intensities and 4 patterns. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Anal Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/29857713_large_1cf69b4d-69a6-4494-a723-9c21b2cf1f81.png?v=1794328808
+  Price: £20.99 GBP
+- [ROMP Rose 2.0 Air Pulse Clitoral Stimulator, Pink](https://unveileddesire.com/products/romp-rose-clitoral-stimulator-2-0): ROMP Rose 2.0: Pleasure Air clitoral stimulator with 6 intensities and 4 patterns, silicone-coated, rechargeable. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Clitoral Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/361484284_large_66a385b5-2807-437e-987d-949cf9706d9c.png?v=1794328814
+  Price: £34.99 GBP
+- [ROMP Wave Lay-On Vibrator, Silicone, Waterproof](https://unveileddesire.com/products/romp-wave-lay-on-vibrator-green): ROMP Wave lay-on vibrator: 6 vibration levels, 4 patterns, whisper-quiet motor, velvety silicone, waterproof, 60-minute runtime. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Vibrators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/29857735_large_fa0b03eb-a040-4dba-80b9-0f7becd0daff.png?v=1794328814
+  Price: £24.99 GBP
+- [ROMP Juke Vibrating Couples Ring, Waterproof, Blue](https://unveileddesire.com/products/romp-juke-vibrating-cock-ring-blue): ROMP Juke: a stretchy silicone vibrating ring for couples with 6 speeds and 4 vibration levels. Quiet and waterproof. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Cock Ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/29857725_large_1d4fa306-5e84-4fe8-8b53-bde67c9be738.png?v=1794328820
+  Price: £20.99 GBP
+- [Doc Johnson Main Squeeze Sybil ULTRASKYN Stroker Pussy](https://unveileddesire.com/products/doc-johnson-main-squeeze-sybil-ultraskyn-stroker-pussy): Every stroke, pure indulgence. Ultraskyn. Shop the Doc Johnson Main Squeeze Sybil ULTRASKYN Stroker Pussy with discreet UK delivery.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Main Squeeze
+  Product Type: Masturbator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40614993_large_da6b3214-def1-4cc1-914a-3ae1d24031dd.png?v=1794328821
+  Price: £52.99 GBP
+- [Doc Johnson Signature Strokers Kenna James ULTRASKYN Pocket Pussy](https://unveileddesire.com/products/doc-johnson-signature-strokers-kenna-james-ultraskyn-pocket-pussy): Solo pleasure, seriously upgraded. Ultraskyn. Shop the Doc Johnson Signature Strokers Kenna James ULTRASKYN Pocket Pussy with discreet UK delivery.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Signature Strokers
+  Product Type: Masturbator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40615232_large_8bead72d-71cb-47cf-b69b-d17f48709ccb.png?v=1794328826
+  Price: £22.99 GBP
+- [Doc Johnson Jessie Andrews All American Realistic Masturbator](https://unveileddesire.com/products/doc-johnson-jessie-andrews-all-american-realistic-masturbator): Every stroke, pure indulgence. Ultraskyn. Shop the Doc Johnson Jessie Andrews All American Realistic Masturbator with discreet UK delivery.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Doc Johnson
+  Product Type: Masturbator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/20338962_large_924e59c2-8ef8-4dde-8103-57e5a83650b2.png?v=1794328826
+  Price: £19.99 GBP
+- [Doc Johnson Main Squeeze Zoey Luna ULTRASKYN Stroker Pussy](https://unveileddesire.com/products/doc-johnson-main-squeeze-zoey-luna-ultraskyn-stroker-pussy): Every stroke, pure indulgence. Ultraskyn. Shop the Doc Johnson Main Squeeze Zoey Luna ULTRASKYN Stroker Pussy with discreet UK delivery.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Main Squeeze
+  Product Type: Masturbator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40615177_large_9f2d8732-9bf3-4620-a451-23ba6ff08a45.png?v=1794328832
+  Price: £52.99 GBP
+- [Doc Johnson Signature Strokers Kenzie Anne ULTRASKYN Pocket Pussy](https://unveileddesire.com/products/doc-johnson-signature-strokers-kenzie-anne-ultraskyn-pocket-pussy): Tight, lifelike and ready when you are. Ultraskyn. Shop the Doc Johnson Signature Strokers Kenzie Anne ULTRASKYN Pocket Pussy with discreet UK delivery.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Signature Strokers
+  Product Type: Masturbator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40615071_large_8f01e4c1-77bb-4356-81cb-3a9d3dc79ca6.png?v=1794328832
+  Price: £22.99 GBP
+- [Creature Cocks Tenta Stroke Silicone Masturbator](https://unveileddesire.com/products/creature-cocks-tenta-stroke-silicone-masturbator): Tight, lifelike and ready when you are. Body-safe silicone. Shop the Creature Cocks Tenta Stroke Silicone Masturbator with discreet UK delivery.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Creature Cocks
+  Product Type: Masturbator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/397663009_large_d0193d31-9181-4d89-860d-90e09a292f66.png?v=1794328837
+  Price: £54.99 GBP
+- [Creature Cocks Slitherine Silicone Cock Ring](https://unveileddesire.com/products/creature-cocks-slitherine-silicone-cock-ring): Hold on to the moment a little longer. Body-safe silicone. Shop the Creature Cocks Slitherine Silicone Cock Ring with discreet UK delivery.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Creature Cocks
+  Product Type: Cock Ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34899909_large_0e3dfb15-09b9-41d0-968a-c63f62e11839.png?v=1794328838
+  Price: £18.99 GBP
+- [Creature Cocks Monstropus Tentacled Marble Green and Yellow Monster](https://unveileddesire.com/products/creature-cocks-monstropus-tentacled-marble-green-and-yellow-monster-silicone-dildo): Creature Cocks Monstropus Tentacled Marble Green and Yellow Monster Silicone Dildo: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:28:30Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15682735_large_82836bb7-52e9-468f-ac0e-e3f01f738137.png?v=1794328844
+  Price: £62.99 GBP
+- [Creature Cocks Wormhole Alien Stroker](https://unveileddesire.com/products/creature-cocks-wormhole-alien-stroker): Every stroke, pure indulgence. Body-safe silicone. Shop the Creature Cocks Wormhole Alien Stroker with discreet UK delivery.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Creature Cocks
+  Product Type: Masturbator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34930117_large_cd8d2266-f19d-4434-911d-3d40beb26899.png?v=1794328844
+  Price: £41.99 GBP
+- [Creature Cocks Dickosaur Dinosaur Silicone Dildo](https://unveileddesire.com/products/creature-cocks-dickosaur-dinosaur-silicone-dildo): Creature Cocks Dickosaur Dinosaur Silicone Dildo: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T00:30:36Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/38833388_large_dffa2f01-f562-4533-a0b2-9c8011c13f7f.png?v=1794328850
+  Price: £34.99 GBP
+- [Creature Cocks Mystique Silicone Unicorn Dildo](https://unveileddesire.com/products/creature-cocks-mystique-silicone-unicorn-dildo): Creature Cocks Mystique Silicone Unicorn Dildo: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T00:30:37Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15683084_large_179a7eeb-b370-49f2-ad53-2f4c1013cff4.png?v=1794328850
+  Price: £64.99 GBP
+- [Creature Cocks Tentacle Cock Silicone Dildo](https://unveileddesire.com/products/creature-cocks-tentacle-cock-silicone-dildo): Creature Cocks Tentacle Cock Silicone Dildo: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:28:36Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40570264_large_fc317b73-bd82-46a1-a135-0a1cf3f33363.png?v=1794328857
+  Price: £43.99 GBP
+- [Creature Cocks Deep Invader Tentacle Ovipositor Silicone Dildo](https://unveileddesire.com/products/creature-cocks-deep-invader-tentacle-ovipositor-silicone-dildo-with-eggs): Creature Cocks Deep Invader Tentacle Ovipositor Silicone Dildo with Eggs: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:27:17Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/35082075_large_31274cfe-753b-4c5f-8b68-046c10b86e8e.png?v=1794328857
+  Price: £75.99 GBP
+- [Creature Cocks Cujo Canine Silicone Dildo X-Large](https://unveileddesire.com/products/creature-cocks-cujo-canine-silicone-dildo-x-large): Creature Cocks Cujo Canine Silicone Dildo X-Large: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T00:30:36Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40575459_large_de755f87-2a55-4c98-a752-57f1510eb8b4.png?v=1794328863
+  Price: £37.99 GBP
+- [Creature Cocks Night Prowler Silicone Dildo Medium](https://unveileddesire.com/products/creature-cocks-night-prowler-silicone-dildo-medium): Creature Cocks Night Prowler Silicone Dildo Medium: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T00:30:36Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/35701494_large_981a9790-2e90-41a0-ab30-02941e261d4a.png?v=1794328863
+  Price: £41.99 GBP
+- [ROMP Piccolo Curved Silicone Dildo, 5 Inch](https://unveileddesire.com/products/romp-piccolo-prostate-massager): ROMP Piccolo: a 5-inch curved, non-realistic silicone dildo with a flared base. Harness compatible and fits the ROMP Riot bullet. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40346064_large_6cb9323c-70ad-4894-85d9-3bbad45cbdad.png?v=1794328869
+  Price: £17.99 GBP
+- [ROMP Kiss Travel-Size Clitoral Suction Stimulator, Peach](https://unveileddesire.com/products/romp-kiss-clitoral-vibrator): ROMP Kiss: a cute, compact clitoral suction stimulator with 3 intensity levels and an ergonomic, travel-ready design. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Clitoral Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40803949_large_a216e6c7-0937-4c8d-b6a1-40ea6deebc74.png?v=1794328870
+  Price: £23.99 GBP
+- [ROMP Piccolo Pegging Kit, Dildo and Adjustable Harness](https://unveileddesire.com/products/romp-piccolo-pegging-kit): ROMP Piccolo Pegging Kit: a 5-inch curved silicone dildo and an adjustable harness for beginners and experienced couples. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Strap-On Kits
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40346058_large_3b667ca3-b8ed-4ab1-954c-f6eef99c35d7.png?v=1794328875
+  Price: £24.99 GBP
+- [Romp Spin Air Pulse Clitoral Stimulator | Waterproof](https://unveileddesire.com/products/romp-spin-air-pulse-stimulator): Romp Spin air pulse clitoral stimulator: 10 intensity levels, 3 patterns, body-safe silicone, waterproof, USB rechargeable. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Clitoral Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/100647622_large_2c33a263-e445-43f0-a63a-7fcfb2dcc8e8.png?v=1794328875
+  Price: £36.99 GBP
+- [ROMP Beat Bullet Vibrator, IPX7 Waterproof, Purple](https://unveileddesire.com/products/romp-beat-bullet-vibrator): ROMP Beat: a super compact, easy-to-use bullet vibrator for precise external pleasure. IPX7 waterproof. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Bullet & Egg Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/29857761_large_95b7763f-0fa5-4568-864c-d782f52b96cb.png?v=1794328881
+  Price: £21.99 GBP
+- [ROMP Switch X Air Pulse Clitoral Stimulator, Orange](https://unveileddesire.com/products/romp-switch-x-compact-clitoral-stimulator-orange): ROMP Switch X compact clitoral stimulator with Pleasure Air Technology, 6 intensity levels and a splashproof design. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Clitoral Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34927223_large_fbdcbd81-6c96-4bca-ae9d-5114870d57b5.png?v=1794328882
+  Price: £20.99 GBP
+- [ROMP Lemon Crush Air Pulse Clitoral Stimulator](https://unveileddesire.com/products/romp-lemon-crush-clitoral-stim): Lemon-shaped ROMP air pulse toy with 10 intensity levels, soft silicone, waterproof and compact, magnetic USB charging. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Clitoral Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/492724416_large_758afd56-62d3-48c9-8fe3-1d59afb72023.png?v=1794328888
+  Price: £36.99 GBP
+- [ROMP Remix Trio Stretchy Penis Rings, Set of 3](https://unveileddesire.com/products/romp-remix-trio-cock-ring): ROMP Remix Trio: three durable, super-stretchy non-vibrating rings that fit all sizes, for solo or partner play. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Cock Rings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/51458290_large_806cc210-182c-4476-a26b-5c6de7c809b9.png?v=1794328889
+  Price: £12.99 GBP
+- [ROMP Cello Remote Control G-Spot Vibrator, Aqua](https://unveileddesire.com/products/romp-cello-g-spot-vibrator-aqua): ROMP Cello: remote-controlled G-spot vibrator in body-safe silicone, shaped for targeted pleasure. Rechargeable and waterproof. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: G-Spot Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/29857821_large_67ac59ae-1ca8-48af-a913-af326bfcf331.png?v=1794328894
+  Price: £28.99 GBP
+- [ROMP Dizi Curved Silicone Dildo, 7 Inch, Waterproof](https://unveileddesire.com/products/romp-dizi-non-realistic-silicone-dildo-orange-pink-7-inch): ROMP Dizi: a 7-inch curved, non-realistic silicone dildo with a flared base. Waterproof and harness compatible. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/51458284_large_04bd2ff3-e682-4819-85fc-4c0e07b4e3fb.png?v=1794328894
+  Price: £20.99 GBP
+- [ROMP Rose Air Pulse Clitoral Stimulator, Pink](https://unveileddesire.com/products/romp-rose-clitoral-stimulator-pink): ROMP Rose uses Pleasure Air Technology: contactless air-pressure waves, 6 intensities and 4 patterns. Rechargeable, silicone. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Clitoral Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/29857837_large_31d97784-7360-4cb5-9533-1098e29d2f9c.png?v=1794328899
+  Price: £34.99 GBP
+- [ROMP Jazz Rabbit Vibrator, Rechargeable & Waterproof, Red](https://unveileddesire.com/products/romp-jazz-rabbit-vibrator-red): ROMP Jazz rabbit vibrator for G-spot and clitoris together: powerful motor, varied patterns, rechargeable, IPX7 waterproof. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:47Z
+  Vendor: Romp
+  Product Type: Rabbit Vibrator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/29857768_large_3dc6cdaa-a83d-4ff4-92f4-c4b3aee79cb1.png?v=1794328900
+  Price: £31.99 GBP
+- [ROMP Mosh Manual Stroker, 2 Textured Sides, Clear](https://unveileddesire.com/products/romp-mosh-stroker-clear): ROMP Mosh: a manual stroker with two different textured surfaces, no batteries needed. Silky, easy to clean. Free UK delivery over £35.
+  Updated: 2026-11-14T14:25:48Z
+  Vendor: Romp
+  Product Type: Masturbator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/29857794_large_fb835e8c-7813-420c-b092-ccf531400078.png?v=1794328905
+  Price: £8.99 GBP
+- [Doc Johnson Vicky Vette Vibrating Ultraskyn Stroker](https://unveileddesire.com/products/doc-johnson-vicky-vette-deep-throat-sucker-vibrating-mastubator): Handheld Ultraskyn stroker with a textured interior and a removable 7-function bullet. Made in the USA. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T14:25:48Z
+  Vendor: Doc Johnson
+  Product Type: Masturbator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/20338826_large_5a26f566-5ab4-422f-bd2a-2cedd663535f.png?v=1794328906
+  Price: £26.99 GBP
+- [Doc Johnson Main Squeeze Jewelz Blu ULTRASKYN Stroker Pussy](https://unveileddesire.com/products/doc-johnson-main-squeeze-jewelz-blu-ultraskyn-stroker-pussy): Every stroke, pure indulgence. Ultraskyn. Shop the Doc Johnson Main Squeeze Jewelz Blu ULTRASKYN Stroker Pussy with discreet UK delivery.
+  Updated: 2026-11-14T14:25:48Z
+  Vendor: Main Squeeze
+  Product Type: Masturbator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40615148_large_747001a6-8657-44bb-970b-43824dc99fff.png?v=1794328912
+  Price: £52.99 GBP
+- [Doc Johnson Signature Strokers Lexi Luna ULTRASKYN Pocket Pussy](https://unveileddesire.com/products/doc-johnson-signature-strokers-lexi-luna-ultraskyn-pocket-pussy): Tight, lifelike and ready when you are. Ultraskyn. Shop the Doc Johnson Signature Strokers Lexi Luna ULTRASKYN Pocket Pussy with discreet UK delivery.
+  Updated: 2026-11-14T14:25:48Z
+  Vendor: Signature Strokers
+  Product Type: Masturbator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40615053_large_ef3a45f8-bd16-4fcb-96b7-ffe3af2e8497.png?v=1794328913
+  Price: £22.99 GBP
+- [Creature Cocks Beast Mode Silicone Cock Ring](https://unveileddesire.com/products/creature-cocks-beast-mode-silicone-cock-ring): More stamina. More sensation. For you both. Body-safe silicone. Shop the Creature Cocks Beast Mode Silicone Cock Ring with discreet UK delivery.
+  Updated: 2026-11-14T14:25:48Z
+  Vendor: Creature Cocks
+  Product Type: Cock Ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34899894_large_d434a545-d8a7-4e3c-8055-f5fd1fb6ef5e.png?v=1794328918
+  Price: £18.99 GBP
+- [Creature Cocks Gorge Inflatable Silicone Dildo](https://unveileddesire.com/products/creature-cocks-gorge-inflatable-silicone-dildo): Creature Cocks Gorge Inflatable Silicone Dildo: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T01:01:37Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/397663001_large_49840a93-1136-4b74-987f-d4d1f415425b.png?v=1794328919
+  Price: £51.99 GBP
+- [Creature Cocks Maelith Vegan Leather Strap-On Harness](https://unveileddesire.com/products/creature-cocks-maelith-strap-on-harness): Creature Cocks Maelith adjustable vegan leather strap-on harness with red and black devil wing panels, iron hardware and 2 O-rings. Free UK delivery over £35.
+  Updated: 2026-11-14T20:35:48Z
+  Vendor: Creature Cocks
+  Product Type: Strap-On Kits
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/397663016_large_38294a9a-4326-4b3a-9b92-0d0f7bcdd907.png?v=1794328924
+  Price: £44.99 GBP
+- [Creature Cocks Poseidon's Octo Ring Silicone Cock Ring](https://unveileddesire.com/products/creature-cocks-poseidon-039-s-octo-ring-silicone-cock-ring): Hold on to the moment a little longer. Body-safe silicone. Shop the Creature Cocks Poseidon's Octo Ring Silicone Cock Ring with discreet UK delivery.
+  Updated: 2026-11-14T14:25:48Z
+  Vendor: Creature Cocks
+  Product Type: Cock Ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34899903_large_f7a617bb-15ca-428f-93ce-065fcc38338d.png?v=1794328925
+  Price: £18.99 GBP
+- [Creature Cocks Rise of the Dragon Silicone Cock Ring](https://unveileddesire.com/products/creature-cocks-rise-of-the-dragon-silicone-cock-ring): Firmer, longer, more intense. Body-safe silicone. Shop the Creature Cocks Rise of the Dragon Silicone Cock Ring with discreet UK delivery.
+  Updated: 2026-11-14T14:25:50Z
+  Vendor: Creature Cocks
+  Product Type: Cock Ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34899913_large_f184cb89-971b-4fbd-996e-5639a185948f.png?v=1794328930
+  Price: £18.99 GBP
+- [Creature Cocks Night Prowler Silicone Dildo Small](https://unveileddesire.com/products/creature-cocks-night-prowler-silicone-dildo-small): Creature Cocks Night Prowler Silicone Dildo Small: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T00:30:39Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/35701502_large_13e1f9a6-9380-4409-bcd4-ed316d0a5bcf.png?v=1794328930
+  Price: £25.99 GBP
+- [Creature Cocks Volkron Silicone Butt Plug](https://unveileddesire.com/products/creature-cocks-volkron-silicone-butt-plug): A full, delicious feeling that lingers. Body-safe silicone. Shop the Creature Cocks Volkron Silicone Butt Plug with discreet UK delivery.
+  Updated: 2026-11-14T14:25:50Z
+  Vendor: Creature Cocks
+  Product Type: Butt Plug
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/397663048_large_76420249-e731-4f27-984c-0bcdf397329c.png?v=1794328936
+  Price: £27.99 GBP
+- [Creature Cocks Blizzard Inflatable Silicone Anal Plug](https://unveileddesire.com/products/creature-cocks-blizzard-inflatable-silicone-anal-plug): Snug, secure and wonderfully teasing. Body-safe silicone. Shop the Creature Cocks Blizzard Inflatable Silicone Anal Plug with discreet UK delivery.
+  Updated: 2026-11-15T01:01:45Z
+  Vendor: Creature Cocks
+  Product Type: Butt Plug
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/397663037_large_1db0350b-302c-41ee-be38-7466f40f26ac.png?v=1794328936
+  Price: £41.99 GBP
+- [Creature Cocks Eryndor Silicone Dildo](https://unveileddesire.com/products/creature-cocks-eryndor-silicone-dildo): Creature Cocks Eryndor Silicone Dildo: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T00:30:39Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/397663011_large_b1925c49-c4ac-467a-9946-cf9c98ebc645.png?v=1794328942
+  Price: £41.99 GBP
+- [Creature Cocks Dragon Snatch Dragon Stroker](https://unveileddesire.com/products/creature-cocks-dragon-snatch-dragon-stroker): Solo pleasure, seriously upgraded. Body-safe silicone. Shop the Creature Cocks Dragon Snatch Dragon Stroker with discreet UK delivery.
+  Updated: 2026-11-14T14:25:50Z
+  Vendor: Creature Cocks
+  Product Type: Masturbator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34930191_large_f2828c44-9194-44de-9b21-b8df706bdcd3.png?v=1794328942
+  Price: £41.99 GBP
+- [Creature Cocks Deep Diver Silicone Dildo](https://unveileddesire.com/products/creature-cocks-deep-diver-silicone-dildo): Creature Cocks Deep Diver Silicone Dildo: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T00:30:40Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/35082122_large_e231d9ce-7b2b-44f3-9f0d-ef548c5e65e0.png?v=1794328949
+  Price: £42.99 GBP
+- [Creature Cocks Solyra Vegan Leather Strap-On Harness](https://unveileddesire.com/products/creature-cocks-solyra-strap-on-harness): Creature Cocks Solyra adjustable vegan leather strap-on harness with white and pink angel wing panels, iron hardware and 2 O-rings. Free UK delivery over £35.
+  Updated: 2026-11-14T20:35:49Z
+  Vendor: Creature Cocks
+  Product Type: Strap-On Kits
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/397663013_large_1e5f8468-d6f4-4174-9787-d39b71ccf5e5.png?v=1794328949
+  Price: £44.99 GBP
+- [Creature Cocks Aqua Cock Glow in the Dark Silicone Dildo](https://unveileddesire.com/products/creature-cocks-aqua-cock-glow-in-the-dark-silicone-dildo): Creature Cocks Aqua Cock Glow in the Dark Silicone Dildo: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T00:30:40Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34930248_large_6f1ced60-4313-451e-a98c-65b7badadf2b.png?v=1794328955
+  Price: £42.99 GBP
+- [Creature Cocks Hell Hound Silicone Girth Enhancer With Ball Strap Large](https://unveileddesire.com/products/creature-cocks-hell-hound-silicone-girth-enhancer-with-ball-strap-large): More stamina. More sensation. For you both. Shop the Creature Cocks Hell Hound Silicone Girth Enhancer With Ball Strap Large, discreet UK delivery.
+  Updated: 2026-11-14T14:25:50Z
+  Vendor: Creature Cocks
+  Product Type: Cock Ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40575405_large_0de880cd-ba5c-4139-a995-d80d5f388e69.png?v=1794328955
+  Price: £21.99 GBP
+- [Creature Cocks Crysta Silicone Dildo](https://unveileddesire.com/products/creature-cocks-crysta-silicone-dildo): Creature Cocks Crysta Silicone Dildo: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T00:30:40Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/397663046_large_e0e14d9b-a725-4799-ad80-2ff3a372d8c0.png?v=1794328961
+  Price: £41.99 GBP
+- [Creature Cocks Xeno Egg Glow-in-the-Dark Silicone Egg, Large](https://unveileddesire.com/products/creature-cocks-xeno-egg-glow-in-the-dark-silicone-egg-pink-large-4-5-inch): Creature Cocks Xeno Egg: glow-in-the-dark silicone egg, 4.5 in insertable, ribbed texture. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T17:36:54Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/21230089_large_33732443-98a1-41a7-b806-8623dc171d69.png?v=1794328961
+  Price: £43.99 GBP
+- [Creature Cocks Seraphina Dragon Silicone Dildo](https://unveileddesire.com/products/creature-cocks-seraphina-dragon-silicone-dildo): Creature Cocks Seraphina Dragon Silicone Dildo: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:28:34Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/397663019_large_36a838f6-6ead-4f2d-8555-937a1846eb25.png?v=1794328967
+  Price: £47.99 GBP
+- [Creature Cocks Majestic Merman Silicone Dildo](https://unveileddesire.com/products/creature-cocks-majestic-merman-silicone-dildo): Creature Cocks Majestic Merman Silicone Dildo: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T00:30:42Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34930121_large_88165750-c043-4a71-93bb-9405d1d08b28.png?v=1794328968
+  Price: £75.99 GBP
+- [Creature Cocks Hell Hound Silicone Girth Enhancer With Ball Strap Medium](https://unveileddesire.com/products/creature-cocks-hell-hound-silicone-girth-enhancer-with-ball-strap-medium): Firmer, longer, more intense. Body-safe silicone. Shop the Creature Cocks Hell Hound Silicone Girth Enhancer With Ball Strap Medium with discreet UK delivery.
+  Updated: 2026-11-14T14:25:50Z
+  Vendor: Creature Cocks
+  Product Type: Cock Ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40575412_large_967d4df2-6320-497b-885b-4a9b3cbffe93.png?v=1794328974
+  Price: £18.99 GBP
+- [Creature Cocks Night Prowler Silicone Girth Enhancer with Ball Strap Medium](https://unveileddesire.com/products/creature-cocks-night-prowler-silicone-girth-enhancer-with-ball-strap-medium): More stamina. More sensation. For you both. Shop the Creature Cocks Night Prowler Silicone Girth Enhancer with Ball Strap Medium, discreet UK delivery.
+  Updated: 2026-11-14T14:25:50Z
+  Vendor: Creature Cocks
+  Product Type: Cock Ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40570249_large_a210d7c7-a4bf-409a-bae1-330a13f7a420.png?v=1794328975
+  Price: £18.99 GBP
+- [Creature Cocks Vibra Beast Vibrating Silicone Dildo](https://unveileddesire.com/products/creature-cocks-vibra-beast-vibrating-silicone-dildo): Creature Cocks Vibra Beast Vibrating Silicone Dildo: a vibrating fantasy dildo in body-safe silicone, rechargeable, waterproof. Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T00:30:42Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59872949_large_7fda1ac7-4da6-453a-af79-b73064294fd9.png?v=1794328981
+  Price: £43.99 GBP
+- [Creature Cocks Cyclone Squishy Silicone Alien Vagina Stroker](https://unveileddesire.com/products/creature-cocks-cyclone-squishy-silicone-alien-vagina-stroker): Every stroke, pure indulgence. Body-safe silicone. Shop the Creature Cocks Cyclone Squishy Silicone Alien Vagina Stroker with discreet UK delivery.
+  Updated: 2026-11-14T14:25:50Z
+  Vendor: Creature Cocks
+  Product Type: Masturbator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/27225241_large_8aebaa57-8284-450c-b367-030f60424086.png?v=1794328981
+  Price: £60.99 GBP
+- [Creature Cocks Sea Stallion Vibrating Silicone Dildo with Remote](https://unveileddesire.com/products/creature-cocks-sea-stallion-vibrating-silicone-dildo-with-remote): Creature Cocks Sea Stallion Vibrating Silicone Dildo with Remote: a remote control fantasy dildo. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:28:33Z
+  Vendor: Creature Cocks
+  Product Type: Remote Control Toy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59873051_large_91b3c7f4-6725-4c5a-9798-636c19169b52.png?v=1794328986
+  Price: £62.99 GBP
+- [Creature Cocks Night Prowler Silicone Girth Enhancer With Ball Strap Large](https://unveileddesire.com/products/creature-cocks-night-prowler-silicone-girth-enhancer-with-ball-strap-large): Firmer, longer, more intense. Body-safe silicone. Shop the Creature Cocks Night Prowler Silicone Girth Enhancer With Ball Strap Large with discreet UK delivery.
+  Updated: 2026-11-14T14:25:50Z
+  Vendor: Creature Cocks
+  Product Type: Cock Ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/40567324_large_1ff33acc-d904-4e04-82a1-17b25f9dff8e.png?v=1794328988
+  Price: £21.99 GBP
+- [Creature Cocks Stegosaurus Spiky Reptile Silicone Dildo](https://unveileddesire.com/products/creature-cocks-stegosaurus-spiky-reptile-silicone-dildo): Creature Cocks Stegosaurus Spiky Reptile Silicone Dildo: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T00:30:43Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/32519334_large_57f3a9a2-d0ab-48b1-9582-a0f2c28a1764.png?v=1794328993
+  Price: £41.99 GBP
+- [Creature Cocks Moon Rider Glow in the Dark Unicorn Dildo, Silicone](https://unveileddesire.com/products/creature-cocks-moon-rider-glow-in-the-dark-unicorn-dildo): Creature Cocks Moon Rider Glow in the Dark Unicorn Dildo: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T00:30:43Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/32519245_large_b1ada189-9906-40e5-8703-d42745d45b8b.png?v=1794328993
+  Price: £41.99 GBP
+- [Creature Cocks Glow in the Dark Silicone Alien Dildo](https://unveileddesire.com/products/creature-cocks-glow-in-the-dark-silicone-alien-dildo): Creature Cocks Glow in the Dark Silicone Alien Dildo: a fantasy dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:27:19Z
+  Vendor: Creature Cocks
+  Product Type: Fantasy Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/24231616_large_7b3ec31a-6a89-4791-8339-2ee4d38aa702.png?v=1794328999
+  Price: £50.99 GBP
+- [Me You Us Ultra Jelly Dildo Pink 7.5 Inch](https://unveileddesire.com/products/me-you-us-ultra-cock-jelly-dong-pink-7-5-inch): Me You Us Ultra Jelly Dildo Pink 7.5 Inch: a realistic jelly dildo. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:35:43Z
+  Vendor: Me You Us
+  Product Type: Double-Ended Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15687992_large_900cd34a-fc8d-4bf3-984f-40c07bf153de.png?v=1794328999
+  Price: £13.99 GBP
+- [RealCocks Dual Layer Bendable Dildo 10 Inch Vanilla](https://unveileddesire.com/products/realcocks-dual-layer-bendable-dildo-10-inch-vanilla): The feel of the real thing, whenever you want it. Shop the RealCocks Dual Layer Bendable Dildo 10 Inch Vanilla with discreet UK delivery.
+  Updated: 2026-11-14T14:25:50Z
+  Vendor: RealCocks
+  Product Type: Realistic Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/39361697_large_4fe4be82-1205-4501-ba61-59a26b1c8c82.png?v=1794329007
+  Price: £42.99 GBP
+- [Loving Joy 7 Inch Dildo with Balls, Clear](https://unveileddesire.com/products/loving-joy-7-inch-dildo-with-balls-clear): Loving Joy 7 Inch Dildo with Balls: a realistic dildo in soft TPE. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:31:13Z
+  Vendor: Loving Joy
+  Product Type: Realistic Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/33138473_large_b59e7561-956b-4ffd-9d64-28620a16eabd.png?v=1794329007
+  Price: £14.99 GBP
+- [Oxballs Rimz Single Ring Clear](https://unveileddesire.com/products/oxballs-rimz-single-ring-clear): Firmer, longer, more intense. Shop the Oxballs Rimz Single Ring Clear with discreet UK delivery.
+  Updated: 2026-11-14T14:25:50Z
+  Vendor: Oxballs
+  Product Type: Cock Ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/415912286_large_ed3ca8f0-fb6d-4b26-b76f-6f27622deb7f.png?v=1794329013
+  Price: £8.99 GBP
+- [Oxballs Rimz Single Ring Pool](https://unveileddesire.com/products/oxballs-rimz-single-ring-pool): More stamina. More sensation. For you both. Shop the Oxballs Rimz Single Ring Pool with discreet UK delivery.
+  Updated: 2026-11-14T14:25:50Z
+  Vendor: Oxballs
+  Product Type: Cock Ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/415912298_large_fec81bfa-38a6-463d-a4d6-9584b42f37f5.png?v=1794329014
+  Price: £8.99 GBP
+- [Oxballs Rimz Single Ring Red](https://unveileddesire.com/products/oxballs-rimz-single-ring-red): Firmer, longer, more intense. Shop the Oxballs Rimz Single Ring Red with discreet UK delivery.
+  Updated: 2026-11-14T14:25:50Z
+  Vendor: Oxballs
+  Product Type: Cock Ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/415912242_large_9f2c37d8-3bd3-43f6-afd3-75a53e302741.png?v=1794329019
+  Price: £8.99 GBP
+- [Oxballs Humpx cockring Clear](https://unveileddesire.com/products/oxballs-humpx-cockring-clear): Firmer, longer, more intense. Body-safe silicone. Shop the Oxballs Humpx cockring Clear with discreet UK delivery.
+  Updated: 2026-11-14T14:25:50Z
+  Vendor: Oxballs
+  Product Type: Cock Ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15688646_large_88cdc061-4705-4104-8e9b-be810a7f9fbc.png?v=1794329019
+  Price: £7.99 GBP
+- [Loving Joy 7 Inch Realistic Silicone Dildo with Suction Cup and Balls](https://unveileddesire.com/products/loving-joy-7-inch-realistic-silicone-dildo-with-suction-cup-and-balls-pink): Loving Joy 7 Inch Realistic Silicone Dildo with Suction Cup and Balls: a realistic dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:31:14Z
+  Vendor: Loving Joy
+  Product Type: Realistic Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/25243329_large_496b58e8-efa5-47f1-ba4c-a8b26f8c64bd.png?v=1794329025
+  Price: £13.99 GBP
+- [Loving Joy 7.5 Inch Suction Cup Dildo, Clear](https://unveileddesire.com/products/loving-joy-7-5-inch-suction-cup-dildo-clear): Loving Joy 7.5 Inch Suction Cup Dildo: a realistic dildo in soft TPE. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:31:11Z
+  Vendor: Loving Joy
+  Product Type: Realistic Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/33138517_large_3be3e699-eb6c-4183-a04a-004365b53048.png?v=1794329026
+  Price: £14.99 GBP
+- [Loving Joy 8 Inch Realistic Silicone Dildo with Suction Cup and Balls](https://unveileddesire.com/products/loving-joy-8-inch-realistic-silicone-dildo-with-suction-cup-and-balls-pink): Loving Joy 8 Inch Realistic Silicone Dildo with Suction Cup and Balls: a realistic dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:32:27Z
+  Vendor: Loving Joy
+  Product Type: Realistic Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/25213367_large_eca9dda1-ecd5-4545-941b-4ad7d4873574.png?v=1794329031
+  Price: £16.99 GBP
+- [Loving Joy 7.5 Inch Suction Cup Dildo, Black](https://unveileddesire.com/products/loving-joy-7-5-inch-suction-cup-dildo-black): Loving Joy 7.5 Inch Suction Cup Dildo: a realistic dildo in soft TPE. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:31:10Z
+  Vendor: Loving Joy
+  Product Type: Realistic Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59320123_large_f7eb1e18-3c6c-4802-809e-6da101700d9d.png?v=1794329031
+  Price: £14.99 GBP
+- [Loving Joy Vibrating Double Strap-On, Silicone](https://unveileddesire.com/products/loving-joy-double-penetration-strap-on-vibrator): Loving Joy vibrating double penetration strap-on in body-safe silicone with a 7-function bullet (1 x AAA). Free UK delivery over £35.
+  Updated: 2026-11-14T20:35:50Z
+  Vendor: Loving Joy
+  Product Type: Strap-On Kits
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34618147_large_e4a138df-9a68-4d49-989e-2121d6af9ad9.png?v=1794329036
+  Price: £17.99 GBP
+- [Loving Joy 7.5 Inch Remote Gyrating & Vibrating Silicone Dildo](https://unveileddesire.com/products/loving-joy-7-5-remote-gyrating-vibrating-silicone-dildo): Loving Joy 7.5 Inch Remote Gyrating & Vibrating Silicone Dildo: a remote control vibrating dildo. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:31:11Z
+  Vendor: Loving Joy
+  Product Type: Remote Control Toy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59580636_large_a6f60391-d207-4d59-8761-b767e7d1592c.png?v=1794329041
+  Price: £37.99 GBP
+- [Loving Joy 7.5 Inch Remote Thrusting & Vibrating Silicone Dildo](https://unveileddesire.com/products/loving-joy-7-5-remote-thrusting-vibrating-silicone-dildo): Loving Joy 7.5 Inch Remote Thrusting & Vibrating Silicone Dildo: a remote control vibrating dildo. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:31:12Z
+  Vendor: Loving Joy
+  Product Type: Remote Control Toy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59580647_large_3f1f6d5f-d55e-4e9a-98e6-80f93ad23939.png?v=1794329043
+  Price: £37.99 GBP
+- [Loving Joy 9.5 Inch Suction Cup Dildo, Black](https://unveileddesire.com/products/loving-joy-9-5-inch-suction-cup-dildo-black): Loving Joy 9.5 Inch Suction Cup Dildo: a realistic dildo in soft TPE. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:32:30Z
+  Vendor: Loving Joy
+  Product Type: Realistic Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/59365664_large_75558fcd-9821-4913-a191-61a0878f66bf.png?v=1794329048
+  Price: £24.99 GBP
+- [Me You Us Twelve Double Dildo Flesh 12 Inch](https://unveileddesire.com/products/me-you-us-twelve-double-dong-flesh-12in): Me You Us Twelve Double Dildo Flesh 12 Inch: a double-ended dildo in PVC, waterproof. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:34:37Z
+  Vendor: Me You Us
+  Product Type: Double-Ended Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/15677408_large_bb8b7ce5-84aa-4ad2-9832-796689bf5e9d.png?v=1794329048
+  Price: £4.99 GBP
+- [Loving Joy 9 Inch Realistic Silicone Dildo with Suction Cup and Balls](https://unveileddesire.com/products/loving-joy-9-inch-realistic-silicone-dildo-with-suction-cup-and-balls-black): Loving Joy 9 Inch Realistic Silicone Dildo with Suction Cup and Balls: a realistic dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:33:33Z
+  Vendor: Loving Joy
+  Product Type: Realistic Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/25213347_large_dde7a05f-3134-40f9-a58d-140225aa7197.png?v=1794329054
+  Price: £39.99 GBP
+- [Loving Joy 7 Inch Realistic Silicone Dildo with Suction Cup and Balls](https://unveileddesire.com/products/loving-joy-7-inch-realistic-silicone-dildo-with-suction-cup-and-balls-purple): Loving Joy 7 Inch Realistic Silicone Dildo with Suction Cup and Balls: a realistic dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:31:14Z
+  Vendor: Loving Joy
+  Product Type: Realistic Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/25243324_large_71ce5b56-1703-4030-98fd-bf5e057094dd.png?v=1794329054
+  Price: £22.99 GBP
+- [Me You Us 6 Inch Black Curved Silicone Dildo](https://unveileddesire.com/products/me-you-us-6-black-curved-silicone-dildo): Me You Us 6 Inch Black Curved Silicone Dildo: a realistic dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:33:38Z
+  Vendor: Me You Us
+  Product Type: Realistic Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34764991_large_13b6c137-5ef0-4c37-be6e-27c04160a82b.png?v=1794329060
+  Price: £16.99 GBP
+- [Me You Us Curved Dildo Purple 7 Inch, Silicone](https://unveileddesire.com/products/me-you-us-curved-dildo-purple-7-inch): Me You Us Curved Dildo Purple 7 Inch: a realistic dildo in body-safe silicone. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:33:40Z
+  Vendor: Me You Us
+  Product Type: Realistic Dildo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0878/0814/7722/files/34764979_large_170b91b1-8b5e-496a-9624-287e9fda89c1.png?v=1794329060
+  Price: £22.99 GBP
+[List Continued](https://unveileddesire.com/a/llms-agent/llms.txt?shop=6h50mu-5n.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDcxMDM0NDMzNTYyNiwibGFzdF92YWx1ZSI6IjEwNzEwMzQ0MzM1NjI2In0%3D)
 
 ## Collections
 
-- [All](https://unveileddesire.com/collections/all)
-  Updated: 2026-10-09T11:55:29Z
-  Total Products: 1499
+- [All](https://unveileddesire.com/collections/all): Explore the Unveiled Desire collection of  toys and intimate wellness essentials. Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T00:00:12Z
+  Total Products: 2833
 - [Smart Products Filter Index - Do not delete](https://unveileddesire.com/collections/globofilter-best--products-index)
-  Updated: 2026-10-09T11:55:29Z
-  Total Products: 1499
-- [Dreamy Dildo](https://unveileddesire.com/collections/dreamy-dildo-1): No batteries. Just pure, unfiltered pleasure.Welcome to Dreamy Dildo — a collection of sensual, sculpted perfection for those who love to take their time and feel everything. Whether you’re craving G-spot pressure, deep penetration, or hands-on control, these dildos deliver intense satisfaction without a buzz. From silky silicone to lifelike textures, realistic shapes to artistic designs — it's all about slow burns, deep moans, and orgasms on your own terms. Tags: dildos, realistic dildo, silicone dildo, g-spot dildo, strap-on compatible, non-vibrating  toys, manual pleasure, luxury dildo, penetrative toys,  toys for women, Unveiled Desire
-  Updated: 2026-06-30T18:58:38Z
-  Total Products: 216
-- [Intense Vibrations](https://unveileddesire.com/collections/intense-vibrations-1)
-  Updated: 2026-06-30T18:58:38Z
-  Total Products: 80
-- [App-Compatible Vibrators](https://unveileddesire.com/collections/app-compatible-vibrators-1): Swipe. Buzz. Moan.Your pleasure, powered by tech. Our app-compatible vibrators connect to your phone for fully customizable vibes, interactive patterns, and real-time partner control — from across the bed or across the globe. Perfect for solo sessions or long-distance love, these toys let you sync vibrations to music, voice, or even touch. Because in the age of smart everything, your orgasm should be too. Tags: app-controlled vibrator, Bluetooth vibrator, remote  toy, smart vibrator, long-distance  toy, interactive vibrator, customizable vibes, couples vibrator, tech-enabled  toy, Unveiled Desire
-  Updated: 2026-06-30T18:58:38Z
-  Total Products: 42
-- [Realistic Dildos](https://unveileddesire.com/collections/realistic-dildos): Look real. Feel unreal.Craving the real thing without the strings? Our realistic dildos are sculpted to satisfy — with lifelike shapes, veins, curves, and textures that make every thrust feel oh-so-authentic. Soft, firm, or flexible, these toys are designed to deliver that just-right fullness and pressure, anytime you want it. Perfect for solo play or harness fun, they bring the fantasy to life — no dinner date required. Tags: realistic dildo, lifelike dildo, strap-on compatible, silicone dildo, phallic  toy, non-vibrating dildo, realistic texture, g-spot dildo, penetrative toy, Unveiled Desire
-  Updated: 2026-06-30T18:58:38Z
-  Total Products: 90
-- [Strap-On Compatible Dildos](https://unveileddesire.com/collections/strap-on-compatible-dildos): Strap in. Take control.Ready to dominate or be devoured? Our strap-on compatible dildos are made for harness play — with flared bases, firm builds, and body-safe materials that stay locked in and ready for action. Whether you're pegging, role-playing, or just switching things up, these toys are all about deep, hands-free pleasure. Designed to fit most harnesses, they’re perfect for all bodies, all roles, and all kinds of wild nights. Tags: strap-on dildo, harness compatible dildo, pegging toy, partner play, flared base dildo, strap-on  toy, g-spot dildo, anal dildo, hands-free penetration, Unveiled Desire
-  Updated: 2026-06-30T18:58:38Z
-  Total Products: 88
-- [Premium Vibrators](https://unveileddesire.com/collections/premium-vibrators)
-  Updated: 2026-06-30T18:58:38Z
-  Total Products: 5
-- [Long-Distance Play Options](https://unveileddesire.com/collections/long-distance-play-options)
-  Updated: 2026-06-30T18:58:38Z
-  Total Products: 79
-- [Mina - Indulge in Elegance & Pleasure](https://unveileddesire.com/collections/mina): Discover the Mina collection, where exquisite craftsmanship meets intense pleasure. Each piece is designed to bring you closer to ultimate satisfaction with luxurious, body-safe silicone and unique features that heighten every sensation. Whether you're looking for a sleek, shimmering dildo or a powerful vibrator, the Mina collection promises unparalleled pleasure for every desire. Explore now and indulge in your fantasy with our premium, hand-crafted creations.
-  Updated: 2026-06-30T18:58:38Z
-  Total Products: 18
-- [Mina - Dildos](https://unveileddesire.com/collections/mina-dildos)
-  Updated: 2026-06-30T18:58:39Z
-  Total Products: 7
-- [Mina - Vibrators](https://unveileddesire.com/collections/mina-vibrators)
-  Updated: 2026-06-30T18:58:39Z
-  Total Products: 5
-- [Mina - Strap-On](https://unveileddesire.com/collections/mina-strap-on)
-  Updated: 2026-06-30T18:58:39Z
-  Total Products: 5
-- [Desire – Unleash Your Deepest Desires](https://unveileddesire.com/collections/desire-unleash-your-deepest-desires): Indulge in a collection that embodies the art of passion. "Desire" is a curated selection of luxurious products designed to awaken your senses and explore your innermost cravings. Whether you're seeking self-discovery or connection, these pieces invite you to experience pleasure like never before. Let your fantasies run wild with the ultimate in sophistication, style, and innovation.
-  Updated: 2026-06-30T18:58:39Z
-  Total Products: 25
-- [G-Spot Vibrators](https://unveileddesire.com/collections/g-spot-vibrators): Go deep. Stay there.Craving that earth-shattering G-spot orgasm? These G-spot vibrators are designed to reach just the right spot — every time. With curved shafts, angled tips, and powerful motors, they know exactly how to stroke your inner sweet spot for mind-blowing pleasure. Whether you're new to G-spot play or a seasoned explorer, these toys offer everything from gentle ripples to deep, rumbly vibes. Perfect for solo sessions or spicing things up with a partner, these pleasure wands are here to unlock your next-level climax. Tags: G-spot vibrators, internal vibrator, curved vibrator, g spot  toy, luxury vibrator, g-spot stimulation, g-spot orgasm, female vibrator, rechargeable vibrator, waterproof vibrator, solo play, Unveiled Desire
-  Updated: 2026-06-30T18:58:39Z
-  Total Products: 89
-- [Butt Plugs](https://unveileddesire.com/collections/butt-plugs): Stay in. Turn on.Whether you’re just starting your anal journey or craving that full, satisfying stretch, our butt plugs are here to fill you up — your way. From petite trainers to weighted and jeweled designs, these plugs stay comfortably in place while delivering deep, delicious pressure. Perfect for solo play, foreplay, or wearing out and about (we won’t tell), they’re your go-to for hands-free backdoor thrills. Tags: butt plugs, beginner butt plug, weighted plug, jeweled butt plug, anal trainer, silicone plug, metal plug, anal  toy, wearable plug, Unveiled Desire
-  Updated: 2026-10-09T11:55:29Z
-  Total Products: 114
-- [Anal Beads](https://unveileddesire.com/collections/anal-beads): Build it up. Let it go.Designed for slow teasing and explosive finishes, anal beads offer a unique kind of backdoor bliss. Slide them in one by one, feel the rising intensity, and when the moment’s right — release for that unforgettable pop of pleasure. From silky silicone to flexible designs and even vibrating options, these beads are perfect for edging, warm-up, or making the big O even bigger. Trust us: once you try it, there’s no going back. Tags: anal beads, silicone anal beads, beginner anal toy, advanced anal play, vibrating anal beads, backdoor stimulation, anal pleasure, bead  toy, anal orgasm toy, Unveiled Desire
-  Updated: 2026-10-09T11:55:29Z
-  Total Products: 57
-- [Prostate Massagers](https://unveileddesire.com/collections/prostate-massagers-1): Hit the P-spot. Unlock the orgasm.Tailored for him, but unforgettable for anyone with a prostate — our prostate massagers are designed to find that hidden sweet spot and make it sing. Curved to perfection and often paired with vibration, these toys offer deep, internal pleasure that builds to body-shaking, hands-free orgasms. Whether you’re exploring solo or with a partner, these powerful tools bring precision, intensity, and a whole new level of backdoor bliss. Tags: prostate massager, p-spot toy, anal toy for men, vibrating prostate toy, curved anal toy, male g-spot, hands-free orgasm, beginner prostate massager, luxury anal toy, Unveiled Desire
-  Updated: 2026-06-30T18:58:39Z
-  Total Products: 31
-- [Backdoor Bliss](https://unveileddesire.com/collections/backdoor-bliss): Smooth entries. Explosive exits.Ready to explore the other side of pleasure? Backdoor Bliss is your curated collection of anal toys designed for all experience levels — from curious beginners to seasoned pros. Whether you’re into gentle teasing, deep penetration, or full-on stretch, we’ve got the plugs, beads, dildos, and vibes to make it unforgettable. With body-safe materials, ergonomic shapes, and designs made to hit just right, this is your invitation to pure, unapologetic anal ecstasy. Tags: anal toys, anal play, butt plugs, anal beads, anal vibrators, prostate toys, anal  toy for beginners, advanced anal toys, backdoor pleasure, Unveiled Desire
-  Updated: 2026-10-09T11:55:29Z
-  Total Products: 189
-- [Luxe – Elevate Your Pleasure](https://unveileddesire.com/collections/luxe-elevate-your-pleasure): Indulge in the art of sophistication and sensation with our Luxe collection. Designed for those who seek refined exploration, these luxurious anal toys blend elegance with comfort, ensuring every moment is as pleasurable as it is unforgettable. Whether you're new to the experience or a connoisseur of desire, Luxe offers premium materials, sleek designs, and unmatched satisfaction.
-  Updated: 2026-06-30T18:58:39Z
-  Total Products: 21
-- [Vibes Unleashed](https://unveileddesire.com/collections/vibes-unleashes): Vibes Unleashed Set your pulse free.Ready to explore your ultimate pleasure? Vibes Unleashed is your go-to collection for high-quality vibrators designed to deliver intense satisfaction. From discreet bullet vibrators to powerful wand massagers and dual-action rabbit vibes, this is where vibrations take center stage. Whether you're flying solo or spicing things up with a partner, our premium vibrators are built to tease, please, and make you scream for more. Explore waterproof, rechargeable, and whisper-quiet options to match every mood and fantasy. Unleash the vibe — and let your body do the talking. Tags: luxury vibrators,  toys, bullet vibrator, wand vibrator, rabbit vibrator, clitoral stimulation, g-spot vibrator, discreet  toys, rechargeable vibrator, solo play, couples vibrator, Unveiled Desire
-  Updated: 2026-06-30T18:58:39Z
-  Total Products: 442
+  Updated: 2026-11-15T01:04:03Z
+  Total Products: 2833
+- [Dreamy Dildo](https://unveileddesire.com/collections/dreamy-dildo-1): Just pure, unfiltered pleasure. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T20:35:55Z
+  Total Products: 360
+- [App-Compatible Vibrators](https://unveileddesire.com/collections/app-compatible-vibrators-1): Your pleasure, powered by tech. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T15:06:06Z
+  Total Products: 12
+- [Realistic Dildos](https://unveileddesire.com/collections/realistic-dildos): Craving the real thing without the strings? Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T17:33:45Z
+  Total Products: 161
+- [Strap-On Compatible Dildos](https://unveileddesire.com/collections/strap-on-compatible-dildos): Ready to dominate or be devoured? Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T17:33:44Z
+  Total Products: 192
+- [Mina](https://unveileddesire.com/collections/mina): Mina rabbit vibrators, love eggs, remote strapless strap-ons, harnesses and silicone dildos from £19.99. Body-safe, rechargeable, discreet UK delivery. 18+.
+  Updated: 2026-11-14T20:35:49Z
+  Total Products: 22
+- [G-Spot Vibrators](https://unveileddesire.com/collections/g-spot-vibrators): Craving that earth-shattering G-spot orgasm? These G-spot vibrators are designed to reach just the right spot — every time. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T12:35:21Z
+  Total Products: 48
+- [Butt Plugs](https://unveileddesire.com/collections/butt-plugs): Shop butt plugs at Unveiled Desire. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T12:38:35Z
+  Total Products: 193
+- [Anal Beads](https://unveileddesire.com/collections/anal-beads): Designed for slow teasing and explosive finishes, anal beads offer a unique kind of backdoor bliss. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T12:38:34Z
+  Total Products: 17
+- [Prostate Massagers](https://unveileddesire.com/collections/prostate-massagers-1): Unlock the orgasm. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T12:38:32Z
+  Total Products: 34
+- [Backdoor Bliss](https://unveileddesire.com/collections/backdoor-bliss): Explosive exits. Ready to explore the other side of pleasure? Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T12:38:35Z
+  Total Products: 283
+- [Vibes Unleashed](https://unveileddesire.com/collections/vibes-unleashes): Vibes Unleashed . Set your pulse free. Ready to explore your ultimate pleasure? Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T15:06:06Z
+  Total Products: 610
 - [Ultimate Search - Do not delete](https://unveileddesire.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best  items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2026-10-09T11:55:29Z
-  Total Products: 1499
-- [Shunga](https://unveileddesire.com/collections/shunga): Shunga – The Deluxe Collection Indulge in the ultimate luxury with the Shunga Deluxe Collection, designed for those who appreciate sophistication and pleasure in perfect harmony. Crafted with the finest materials and precision, this collection offers a sensory journey like no other. Each piece is meticulously designed to deliver unparalleled comfort, intense sensations, and the most luxurious experience possible. From elegantly sculpted designs to powerful, customizable settings, Shunga promises a transformative exploration of pleasure. Elevate your intimate moments with products that blend aesthetics with function, ensuring every touch, every vibration, and every caress is an indulgence in the finest form of luxury. Perfect for the woman who desires nothing less than the best, the Shunga collection is the epitome of indulgence, refinement, and sensuality.
-  Updated: 2026-06-30T18:58:39Z
-  Total Products: 16
-- [Clit-tastic](https://unveileddesire.com/collections/clit-tastic)
-  Updated: 2026-06-30T18:58:39Z
-  Total Products: 17
-- [Obi](https://unveileddesire.com/collections/obi)
-  Updated: 2026-06-30T18:58:39Z
-  Total Products: 3
-- [Aiko](https://unveileddesire.com/collections/aiko)
-  Updated: 2026-06-30T18:58:39Z
-  Total Products: 2
-- [Miyo](https://unveileddesire.com/collections/miyo)
-  Updated: 2026-06-30T18:58:40Z
-  Total Products: 2
-- [Sanya](https://unveileddesire.com/collections/sanya)
-  Updated: 2026-06-30T18:58:40Z
-  Total Products: 3
-- [Soyo](https://unveileddesire.com/collections/soyo)
-  Updated: 2026-06-30T18:58:40Z
-  Total Products: 3
-- [Zoa](https://unveileddesire.com/collections/zoa)
-  Updated: 2026-06-30T18:58:40Z
-  Total Products: 2
-- [Clitoral Vibrators](https://unveileddesire.com/collections/clitoral-vibrators): All tease. All power. All yours.Discover the magic of focused pleasure with our curated collection of clitoral vibrators. Designed to target your most sensitive sweet spot, these little wonders know exactly how to press your buttons — literally. From fluttering air pulses to pinpoint precision vibes, they’re built for toe-curling, body-shaking orgasms. Whether you crave gentle teasing or intense stimulation, these discreet, powerful toys are your key to solo bliss or playful partner sessions. Rechargeable, travel-friendly, and irresistibly seductive — your clit just met its match. Tags: clitoral vibrators, clit  toys, bullet vibrator, suction vibrator, air pulse, luxury vibrator, orgasm toy, female pleasure, solo  toy, waterproof vibrator, rechargeable clitoral stimulator, Unveiled Desire
-  Updated: 2026-06-30T18:58:40Z
-  Total Products: 133
-- [Dual Stimulators](https://unveileddesire.com/collections/dual-stimulators): Twice the pleasure. Zero compromise.Why choose between clitoral and G-spot pleasure when you can have both? Our dual stimulators are designed to deliver blended orgasms with precision and power — teasing your clit while hitting your G-spot just right. Perfectly curved, deeply rumbly, and irresistibly sleek, these toys are your ticket to double the intensity and maximum satisfaction. Whether you're after slow build-up or explosive release, these multitasking beauties know how to handle it all. Tags: dual stimulator, rabbit vibrator, clit and g-spot vibrator, blended orgasm toy, internal and external vibrator, luxury  toy, female pleasure, rechargeable dual stimulator, waterproof vibrator, Unveiled Desire
-  Updated: 2026-06-30T18:58:40Z
-  Total Products: 58
-- [Wand Massagers](https://unveileddesire.com/collections/wand-massagers-1): Big. Bold. Built to rumble.When you want deep, body-shaking pleasure — accept no substitutes. Our wand massagers are the powerhouses of vibration, delivering intense stimulation that melts away tension and unleashes full-body ecstasy. Perfect for clitoral play, sore muscles, or wherever you crave those deep rumbles, these wands come cordless, rechargeable, and dressed to impress. From playful teasing to pulse-pounding orgasms, they're not just toys — they're full-blown experiences. Tags: wand massager, powerful vibrator, clitoral wand, body massager, intense vibrations, cordless wand, rechargeable  toy, full body vibrator, luxury  toy, solo play, Unveiled Desire
-  Updated: 2026-06-30T18:58:40Z
-  Total Products: 27
-- [Bullet & Eggs Vibrators](https://unveileddesire.com/collections/bullet-eggs-vibrators): Small in size. Massive in power.Don’t let their looks fool you — these bullet and egg vibrators are tiny titans of pleasure. Perfect for discreet clitoral play, teasing foreplay, or taking control on the go, they deliver surprisingly intense vibrations exactly where you want them. Slip one in your bag, your hand, or even your partner’s control — because big O’s come in small packages too. Tags: bullet vibrator, egg vibrator, mini vibrator, discreet  toy, clitoral stimulator, remote control vibrator, travel vibrator, compact vibrator, female pleasure, rechargeable bullet, Unveiled Desire
-  Updated: 2026-06-30T18:58:40Z
-  Total Products: 65
-- [Panty Vibrators](https://unveileddesire.com/collections/panty-vibrators): Pleasure you can wear.Slip it on, turn it on — and let the fun begin. Panty vibrators are the ultimate in secret pleasure, designed to nestle against your sweet spot and buzz you into bliss anytime, anywhere. Whether you’re flying solo or handing the remote to someone daring, these discreet toys make public play deliciously private. Perfect for date nights, teasing foreplay, or simply spicing up your day — who knew underwear could be this exciting? Tags: panty vibrator, wearable vibrator, remote control  toy, discreet vibrator, public play toy, clitoral stimulator, hands-free vibrator, couple’s toy, rechargeable panty vibe, Unveiled Desire
-  Updated: 2026-06-30T18:58:40Z
-  Total Products: 40
-- [Glass & Metal Dildos](https://unveileddesire.com/collections/glass-metal-dildos-1): Cold. Hard. Intense.For those who crave precision, pressure, and a touch of luxury, our glass and metal dildos deliver pure, unyielding pleasure. Designed for temperature play, these sculpted beauties can be warmed up or cooled down for a sensory experience like no other. Their firm structure offers unmatched G-spot or prostate stimulation, while their artistic forms make them as stunning as they are satisfying. Elegant, easy to clean, and built for deep, controlled bliss. Tags: glass dildo, metal dildo, temperature play, firm dildo, g-spot dildo, prostate toy, luxury dildo, smooth  toy, non-vibrating dildo, sensual  toy, Unveiled Desire
-  Updated: 2026-06-30T18:58:40Z
-  Total Products: 17
-- [Rabbit Vibrators](https://unveileddesire.com/collections/rabbit-vibrators-1): Hop into blended bliss.The classic that never quits — rabbit vibrators are the queens of dual stimulation. With a curved shaft for G-spot pressure and a teasing external stimulator for your clit, they’re designed to deliver toe-curling blended orgasms. Whether you prefer pulsing ears, rotating beads, or flexible designs that move with you, our luxury rabbits are here to take your pleasure to wild, unstoppable heights. Tags: rabbit vibrator, dual stimulator, clit and g-spot vibrator, blended orgasm, rotating vibrator, luxury  toy, female pleasure toy, rechargeable rabbit, waterproof vibrator, Unveiled Desire
-  Updated: 2026-06-30T18:58:40Z
-  Total Products: 44
-- [Double-Ended Dildos & Dongs](https://unveileddesire.com/collections/double-ended-dildos-1): Two ends. Endless possibilities.Why settle for one when you can have twice the fun? Our double-ended dildos and dongs are designed for shared pleasure, deep exploration, and ultimate flexibility — whether you're playing solo, with a partner, or just feeling adventurous. Perfect for vaginal or anal play, these toys offer full control, smooth curves, and a satisfying stretch from both ends. Slip into the experience and let your fantasies meet in the middle. Tags: double-ended dildo, double dong, partner  toy, strapless dildo, shared pleasure toy, deep penetration toy, flexible dildo, anal and vaginal toy, non-vibrating dildo, Unveiled Desire
-  Updated: 2026-06-30T18:58:40Z
-  Total Products: 25
-- [Fantasy](https://unveileddesire.com/collections/fantasy): Not from this world — and that's the point.Step into the surreal with our fantasy dildos, designed for dreamers, thrill-seekers, and bold explorers of the imagination. Think dragons, tentacles, alien lovers, and mythical beasts — sculpted to satisfy in ways reality never could. With bold textures, unexpected shapes, and mind-bending dimensions, these toys bring your wildest fantasies to life. Go ahead… unleash your inner monster. Tags: fantasy dildo, alien dildo, dragon dildo, tentacle dildo, mythical  toy, fantasy roleplay, textured dildo, oversized dildo, unique dildo design, Unveiled Desire
-  Updated: 2026-06-30T18:58:40Z
-  Total Products: 32
-- [Bondage Kits](https://unveileddesire.com/collections/bondage-kits-1): Everything you need to play dirty — beautifully.Our bondage kits are your all-in-one ticket to the world of restraint, tease, and control. Whether you're a curious beginner or a power play pro, these sets include everything from cuffs and blindfolds to paddles, ropes, and more — perfectly matched for steamy exploration. Seduce, restrain, dominate, surrender. All the tools, all the thrills — ready when you are. Tags: bondage kit, BDSM starter set, kink kits, restraint kit, beginner bondage, BDSM toy set, cuffs and blindfolds,  bondage set, kinky couple toys, Unveiled Desire
-  Updated: 2026-06-30T18:58:40Z
-  Total Products: 21
-- [Restraints, Harnesses & Handcuff](https://unveileddesire.com/collections/restraints-harnesses-1): Tied up. Turned on. Totally yours.Take control or give it up completely with our range of restraints, harnesses, and handcuffs. From soft cuffs for beginners to bold leather straps and strappy body harnesses, every piece is crafted to tease, hold, and thrill. Whether you're into light bondage or intense roleplay, these tools make surrender feel oh-so-satisfying. Wrap them up. Lock them down. Let the games begin. Tags: bondage restraints, handcuffs, body harness, BDSM straps, leather cuffs, bondage accessories, submissive gear, sexy harness, restraint play, Unveiled Desire
-  Updated: 2026-06-30T18:58:41Z
-  Total Products: 33
-- [Sensory Toys (Blindfold, Ticklers ...)](https://unveileddesire.com/collections/sensory-toys): When you take one sense away, the rest ignite.Our sensory toys are all about anticipation — the gasp before the touch, the shiver before the sting. Think feather ticklers, satin blindfolds, cool metals, and teasing textures that awaken every nerve ending. Perfect for playful foreplay or layered kink scenes, these tools turn every touch into something unforgettable. Soft, slow, and oh-so-sinful — pleasure begins with the senses. Tags: sensory toys, blindfold, feather tickler, sensory play, light BDSM toys, teasing tools,  play, sensory kink toys, foreplay accessories, Unveiled Desire
-  Updated: 2026-06-30T18:58:41Z
-  Total Products: 29
-- [Whips, Floggers & Paddles](https://unveileddesire.com/collections/whips-floggers-paddles): Pain, meet pleasure.Whether it's a sharp slap or a slow, rhythmic sting, our whips, floggers, and paddles are built for bold sensation. From beginner-friendly spankers to serious impact toys, this collection lets you explore the edge of pleasure and pain — with style, control, and a whole lot of afterglow. Because sometimes, a little sting makes everything sweeter. Tags: spanking paddle, flogger, whip, impact play, BDSM tools, kinky toys,  spanking, leather paddle, beginner BDSM, Unveiled Desire
-  Updated: 2026-06-30T18:58:41Z
-  Total Products: 31
-- [Latex](https://unveileddesire.com/collections/latex): Tight. Shiny. Unapologetically bold.Slip into your second skin with our latex collection — built for those who crave control, attention, and full-body confidence. Every curve, every shine, every squeak is part of the experience. From sultry bodysuits to daring dresses and gloves, these pieces hug you tight and don’t let go. Fetish? Fashion? Fantasy? Yes. Tags: latex lingerie, latex clothing, fetish wear, shiny latex, bondage fashion, latex bodysuit, rubber outfit, kinky fashion,  latex, Unveiled Desire
-  Updated: 2026-06-30T18:58:41Z
-  Total Products: 16
-- [Sensory & Bondage](https://unveileddesire.com/collections/sensory-bondage): Give in. Take control. Feel everything.Step into the delicious dance of dominance and surrender with our Sensory & Bondage collection. Whether you love to tease or be teased, these tools of seduction are made to heighten every touch, every gasp, and every power play. From silky restraints and blindfolds to paddles, cuffs, and collars — it’s not just about control. It’s about trust, tension, and toe-curling release. Perfect for curious beginners and experienced kinksters alike. Tags: bondage toys, sensory play, BDSM accessories, handcuffs, blindfolds, spanking paddle, dominant and submissive play, kink toys, restraint kits, Unveiled Desire
-  Updated: 2026-06-30T18:58:41Z
-  Total Products: 227
-- [Collars & Chockers](https://unveileddesire.com/collections/collars-chockers): Claim it. Wear it. Own it.From delicate chokers to bold collars, this collection is all about power, presence, and playful submission. Whether you're marking your territory or wearing it as a statement of control (or surrender), each piece blends  symbolism with undeniable style. Perfect for the bedroom — or bold enough for beyond. Tags: BDSM collar, leather choker, submissive collar, kink accessories, fashion choker, bondage collar, ownership play,  jewelry, dom/sub gear, Unveiled Desire
-  Updated: 2026-06-30T18:58:41Z
-  Total Products: 30
-- [Control the Vibes](https://unveileddesire.com/collections/control-the-vibes): You choose when. They feel it.Welcome to Control the Vibes — where pleasure gets a tech upgrade. These remote-controlled and app-connected toys let you or your partner take control from across the room… or across the world. Perfect for public teasing, long-distance play, or just hands-free fun at home, every toy in this collection is built for connection, control, and irresistible anticipation. Touch them without touching them. Power. Play. Pulse. Tags: remote control vibrator, app-controlled  toy, long-distance vibrator, Bluetooth  toy, couples vibrator, wearable vibrator, tech  toys, clitoral remote toy, discreet public play, Unveiled Desire
-  Updated: 2026-06-30T18:58:41Z
-  Total Products: 115
-- [Remote Controlled Toys](https://unveileddesire.com/collections/remote-controlled-toys): You hold the remote. They lose control.Our remote-controlled vibrators are built for teasing, tempting, and total surrender — whether you’re across the table or across the room. With discreet designs and powerful motors, these toys are perfect for public play, power exchange, and partner-led pleasure. Let them beg for the next buzz. You decide when it hits. Tags: remote vibrator, wireless  toy, discreet public play, partner-controlled vibrator, remote clit toy, long-range vibrator, teasing toy, wearable remote vibrator, couples  toy, Unveiled Desire
-  Updated: 2026-06-30T18:58:41Z
-  Total Products: 71
-- [Compact & Travel-Friendly](https://unveileddesire.com/collections/compact-travel-friendly): Pleasure that fits in your palm — or your passport.Wherever you go, your orgasm should follow. These compact and travel-friendly vibrators are made for life on the move — discreet, lightweight, and powerful enough to deliver unforgettable moments anytime, anywhere. Ideal for spontaneous solo sessions or intimate escapes, these toys are TSA-friendly, whisper-quiet, and small enough to tuck in your bag... or under your pillow. Tags: compact vibrator, mini  toy, travel-friendly vibrator, discreet vibrator, portable  toy, bullet vibe, egg vibrator, luxury travel  toy, on-the-go pleasure, Unveiled Desire
-  Updated: 2026-06-30T18:58:41Z
-  Total Products: 59
-- [Babydolls & Chemises](https://unveileddesire.com/collections/babydolls-chemises): Floaty, flirty, and oh-so-forbidden.Our babydolls and chemises are sheer perfection — light, lacy, and made to slip off as easily as they slip on. With soft fabrics that skim your skin and flattering cuts that tease just enough, these pieces are perfect for slow seduction or playful reveal. Whether you're after romantic elegance or a sultry edge, these barely-there beauties know exactly how to keep the attention on you. Tags: babydoll lingerie, sheer chemise, sexy sleepwear, lacy nightwear,  lingerie, sensual babydoll, see-through chemise, flirty lingerie, lingerie for women, Unveiled Desire
-  Updated: 2026-06-30T18:58:41Z
-  Total Products: 11
-- [Bodysuit & Teddies](https://unveileddesire.com/collections/bodysuit-teddies): One piece. Endless temptation.Sculpted to hug every curve, our bodysuits and teddies are made for the bold, the sultry, and the effortlessly irresistible. With plunging necklines, sheer panels, strappy details, and figure-loving cuts, these pieces blur the line between lingerie and lingerie-inspired fashion. Wear it in the bedroom or layered under your favorite outfit — because when you feel this sexy, why keep it a secret? Tags: sexy bodysuit, lace teddy, sheer lingerie, one-piece lingerie, seductive teddies, strappy bodysuit,  lingerie, sensual one-piece, lingerie for women, Unveiled Desire
-  Updated: 2026-06-30T18:58:41Z
-  Total Products: 40
-- [Bras & Panties](https://unveileddesire.com/collections/bras-panties): Match made in seduction.From delicate lace to bold cutouts, our bras and panties are designed to do more than just cover — they captivate. Whether you're after a barely-there thong, an underwire boost, or a full set that speaks fluent take me now, this collection is all about confidence, comfort, and irresistible curves. Mix, match, and strip down in style. Tags: sexy bras, lace panties, lingerie sets, thong underwear, matching lingerie, seductive bras, sheer panties, bra and panty sets,  lingerie, Unveiled Desire
-  Updated: 2026-06-30T18:58:41Z
-  Total Products: 65
-- [Bodystocking & Fishnet](https://unveileddesire.com/collections/bodystocking-fishnet): Barely there. Impossible to ignore.For when you want to leave everything to the imagination — and nothing at all. Our bodystockings and fishnet lingerie wrap your body in daring detail, hugging every curve while teasing every inch. From full-length nets to crotchless styles and open cups, these pieces are made to be admired… and removed. Perfect for bold solo moments or unforgettable entrances. Tags: bodystocking, fishnet lingerie, crotchless bodystocking, sheer one-piece, sexy netted lingerie, open-cup bodystocking, full body fishnet,  lingerie, lingerie for women, Unveiled Desire
-  Updated: 2026-06-30T18:58:42Z
-  Total Products: 20
-- [Loungewear & Robes](https://unveileddesire.com/collections/loungewear-robes): Soft to the touch. Hot underneath.Slip into something a little more comfortable — but still completely irresistible. Our loungewear and robes bring effortless seduction to your downtime, with silky fabrics, delicate lace trims, and just the right amount of reveal. Whether you're unwinding solo or preparing for a slow strip tease, these pieces are made to drape, flow, and tempt. Because feeling sexy doesn’t stop when the night ends. Tags: sexy loungewear, lace robe, satin robe, sheer robe, sensual nightwear, lingerie robe, seductive sleepwear, luxury loungewear, wrap robe, Unveiled Desire
-  Updated: 2026-06-30T18:58:42Z
-  Total Products: 6
-- [Accessories (Stockings, Garters & Gloves)](https://unveileddesire.com/collections/accessories-stockings-garters-gloves)
-  Updated: 2026-06-30T18:58:42Z
-  Total Products: 45
-- [Male Underwear](https://unveileddesire.com/collections/male-underwear)
-  Updated: 2026-06-30T18:58:42Z
+  Updated: 2026-11-15T01:04:03Z
+  Total Products: 2833
+- [Clitoral Vibrators](https://unveileddesire.com/collections/clitoral-vibrators): Discover the magic of focused pleasure with our curated collection of clitoral vibrators . Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T12:35:24Z
+  Total Products: 121
+- [Dual Stimulators](https://unveileddesire.com/collections/dual-stimulators): Twice the pleasure. Zero compromise. Why choose between clitoral and G-spot pleasure when you can have both? Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T15:06:06Z
+  Total Products: 95
+- [Wand Massagers](https://unveileddesire.com/collections/wand-massagers-1): Built to rumble. When you want deep, body-shaking pleasure — accept no substitutes. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T08:37:10Z
+  Total Products: 84
+- [Bullet & Eggs Vibrators](https://unveileddesire.com/collections/bullet-eggs-vibrators): Massive in power. Don’t let their looks fool you — these bullet and egg vibrators are tiny titans of pleasure. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T12:36:05Z
+  Total Products: 114
+- [Panty Vibrators](https://unveileddesire.com/collections/panty-vibrators): Pleasure you can wear. Slip it on, turn it on — and let the fun begin. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T02:29:37Z
+  Total Products: 12
+- [Glass & Metal Dildos](https://unveileddesire.com/collections/glass-metal-dildos-1): For those who crave precision, pressure, and a touch of luxury, our glass and metal dildos deliver pure, unyielding pleasure. Discreet UK delivery, free…
+  Updated: 2026-11-14T02:29:54Z
   Total Products: 66
-- [Training Balls](https://unveileddesire.com/collections/training-balls): Tighten up. Turn on.Not just for fitness — our anal training balls are designed to help you build control, sensitivity, and confidence with every wear. Gently weighted and perfectly shaped for progressive play, they’re ideal for beginners looking to ease into anal fun or pros craving a slow, delicious stretch. Wear them during foreplay, solo time, or even around the house — because pleasure is a muscle, and practice makes perfect. Tags: anal training balls, anal exerciser, weighted anal balls, anal training toy, beginner anal toy, progressive anal play, anal strength training, backdoor beads, Unveiled Desire
-  Updated: 2026-06-30T18:58:42Z
-  Total Products: 12
-- [Anal Vibes](https://unveileddesire.com/collections/anal-vibes): Buzz your backdoor into bliss.Ready to take your anal play to the next level? Our anal vibrators combine deep, targeted penetration with rumbly vibrations that make every nerve ending light up. Curved for comfort, flared for safety, and built to please — these toys are perfect for solo sessions or steamy partner play. From gentle pulses to intense vibrations, they’re designed to make your backdoor the main event. Tags: anal vibrators, vibrating butt plug, vibrating anal toy, prostate vibrator, anal  toy, beginner anal vibe, rechargeable anal vibrator, anal stimulation toy, Unveiled Desire
-  Updated: 2026-06-30T18:58:42Z
-  Total Products: 24
-- [Lingerie & Seductive Threads](https://unveileddesire.com/collections/lingerie-seductive-threads): Dress to undress.Turn up the heat and slip into something that says touch me. Seductive Threads is your curated collection of  lingerie, sensual bodysuits, and teasing accessories that flatter every curve and fire up every fantasy. From delicate lace to strappy silhouettes, each piece is designed to make you feel confident, irresistible, and completely unforgettable. Whether it’s for a lover’s eyes or your own mirror moment — these threads don’t just seduce, they empower. Tags: sexy lingerie,  lingerie, lace bodysuit, seductive outfits, intimate wear, strappy lingerie, bedroom fashion, lingerie for women, sensual clothing, Unveiled Desire
-  Updated: 2026-06-30T18:58:42Z
-  Total Products: 229
-- [b-Vibe](https://unveileddesire.com/collections/b-vibe)
-  Updated: 2026-06-30T18:58:42Z
-  Total Products: 23
-- [Bloomgasm](https://unveileddesire.com/collections/bloomgasm)
-  Updated: 2026-06-30T18:58:42Z
-  Total Products: 7
-- [Lubes & Massage Oils](https://unveileddesire.com/collections/lubes-massage-oils): Slide, glide, and take your time.Set the mood and keep things flowing with our curated collection of lubricants and massage oils. Whether you're easing into penetration, enhancing sensation, or turning foreplay into a full-body experience, these silky formulas are made to feel as good as they smell. Water-based, silicone, flavored, warming — whatever your vibe, there’s a bottle waiting to make it better. Smoother skin. Deeper pleasure. Longer nights. Tags: personal lubricant, water-based lube, silicone lube, flavored lubricant, massage oil, sensual massage, intimacy oil, warming lube, -enhancing products, Unveiled Desire
-  Updated: 2026-06-30T18:58:42Z
+- [Rabbit Vibrators](https://unveileddesire.com/collections/rabbit-vibrators-1): Hop into blended bliss. The classic that never quits — rabbit vibrators are the queens of dual stimulation. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T12:35:19Z
+  Total Products: 78
+- [Double-Ended Dildos & Dongs](https://unveileddesire.com/collections/double-ended-dildos-1): Endless possibilities. Why settle for one when you can have twice the fun ? Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T17:33:44Z
   Total Products: 16
-- [Lubricants](https://unveileddesire.com/collections/lubricants): Less friction. More feeling.Whatever your rhythm, the right lubricant makes every move smoother, wetter, and way more satisfying. From gentle water-based lubes to long-lasting silicone formulas and deliciously flavored options, this collection is made to elevate every touch and every thrust. Perfect for solo play, couple fun, toys, and every slippery adventure in between. Tags: personal lubricant, water-based lube, silicone lube, flavored lubricant,  lube, anal lube, toy-safe lubricant, long-lasting lube, intimate gel, Unveiled Desire
-  Updated: 2026-06-30T18:58:42Z
-  Total Products: 12
-- [Massage Oils & Gels](https://unveileddesire.com/collections/massage-oils-gels): Hands on. Clothes off. Let the tension melt.Turn every touch into foreplay with our massage oils and gels — made to glide, tease, and awaken the senses. From silky, skin-softening oils to warming or tingling gels, each formula is crafted to relax the body and ignite desire. Whether it's a slow seduction or a slippery surprise, these bottles bring intimacy to the surface — one stroke at a time. Tags: massage oil, sensual massage gel, warming massage oil, foreplay essentials, intimate body oil, edible massage gel, couple’s massage,  oils, relaxing touch, Unveiled Desire
-  Updated: 2026-06-30T18:58:42Z
-  Total Products: 4
-- [Strap-On You!](https://unveileddesire.com/collections/strap-on-you): Take the lead. Ride the power.Whether you’re in charge or handing over control, Strap-On You is your go-to collection for bold, body-rocking play. From beginner-friendly harness sets to advanced strap-on systems and compatible dildos, this category is all about confidence, connection, and deep, delicious penetration — no matter who’s wearing it. Peg, play, and push all the right boundaries. Tags: strap-on, strap-on harness, pegging toys, strap-on dildos, harness sets, couple’s  toys, strap-on for women, beginner strap-on, dominant play, Unveiled Desire
-  Updated: 2026-06-30T18:58:43Z
-  Total Products: 106
-- [Strap-On Kits](https://unveileddesire.com/collections/strap-on-kits)
-  Updated: 2026-06-30T18:58:43Z
-  Total Products: 14
-- [Tabooboo](https://unveileddesire.com/collections/tabooboo)
-  Updated: 2026-06-30T18:58:43Z
-  Total Products: 8
-- [Party Color](https://unveileddesire.com/collections/party-color)
-  Updated: 2026-06-30T18:58:43Z
-  Total Products: 12
-- [ROMP](https://unveileddesire.com/collections/romp)
-  Updated: 2026-06-30T18:58:43Z
-  Total Products: 28
-- [Satisfyer](https://unveileddesire.com/collections/satisfyer)
-  Updated: 2026-06-30T18:58:43Z
-  Total Products: 101
-- [Svakom](https://unveileddesire.com/collections/svakom)
-  Updated: 2026-06-30T18:58:43Z
-  Total Products: 55
-- [Rocks Off](https://unveileddesire.com/collections/rocks-off)
-  Updated: 2026-06-30T18:58:43Z
-  Total Products: 16
-- [Loving Joy](https://unveileddesire.com/collections/loving-joy)
-  Updated: 2026-06-30T18:58:43Z
-  Total Products: 218
-- [Jessica Rabbit](https://unveileddesire.com/collections/jessica-rabbit)
-  Updated: 2026-06-30T18:58:43Z
-  Total Products: 1
-- [Nauti](https://unveileddesire.com/collections/nauti)
-  Updated: 2026-06-30T18:58:43Z
+- [Fantasy](https://unveileddesire.com/collections/fantasy): Not from this world — and that's the point. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T17:33:41Z
+  Total Products: 96
+- [Bondage Kits](https://unveileddesire.com/collections/bondage-kits-1): Everything you need to play dirty — beautifully. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T02:31:49Z
+  Total Products: 20
+- [Restraints, Harnesses & Handcuffs](https://unveileddesire.com/collections/restraints-harnesses-1): Take control or give it up completely with our range of restraints, harnesses, and handcuffs . Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T01:01:31Z
+  Total Products: 117
+- [Sensory Toys (Blindfold, Ticklers ...)](https://unveileddesire.com/collections/sensory-toys): When you take one sense away, the rest ignite. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T12:36:06Z
+  Total Products: 111
+- [Whips, Floggers & Paddles](https://unveileddesire.com/collections/whips-floggers-paddles): Pain, meet pleasure. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T02:27:27Z
+  Total Products: 57
+- [Latex](https://unveileddesire.com/collections/latex): Unapologetically bold. Discreet UK delivery, free over £35.
+  Updated: 2026-11-10T20:20:35Z
+  Total Products: 3
+- [Sensory & Bondage](https://unveileddesire.com/collections/sensory-bondage): Feel everything. Step into the delicious dance of dominance and surrender with our Sensory & Bondage collection. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T12:36:06Z
+  Total Products: 390
+- [Collars & Chokers](https://unveileddesire.com/collections/collars-chockers): From delicate chokers to bold collars , this collection is all about power, presence, and playful submission. Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T01:01:30Z
+  Total Products: 21
+- [Control the Vibes](https://unveileddesire.com/collections/control-the-vibes): You choose when. Welcome to Control the Vibes — where pleasure gets a tech upgrade. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:32:30Z
+  Total Products: 84
+- [Remote Controlled Toys](https://unveileddesire.com/collections/remote-controlled-toys): You hold the remote. They lose control. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T16:32:30Z
+  Total Products: 72
+- [Compact & Travel-Friendly](https://unveileddesire.com/collections/compact-travel-friendly): Pleasure that fits in your palm — or your passport. Wherever you go, your orgasm should follow. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T12:36:05Z
+  Total Products: 200
+- [Bodysuit & Teddies](https://unveileddesire.com/collections/bodysuit-teddies): Endless temptation. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T17:31:46Z
+  Total Products: 80
+- [Bras & Panties](https://unveileddesire.com/collections/bras-panties): Match made in seduction. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T17:35:41Z
+  Total Products: 91
+- [Bodystocking & Fishnet](https://unveileddesire.com/collections/bodystocking-fishnet): Impossible to ignore. For when you want to leave everything to the imagination — and nothing at all. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T17:31:46Z
+  Total Products: 45
+- [Loungewear & Robes](https://unveileddesire.com/collections/loungewear-robes): Soft to the touch. Slip into something a little more comfortable — but still completely irresistible. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T17:31:45Z
   Total Products: 17
+- [Accessories (Stockings, Garters & Gloves)](https://unveileddesire.com/collections/accessories-stockings-garters-gloves): Shop accessories at Unveiled Desire. Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T00:00:12Z
+  Total Products: 42
+- [Male Underwear](https://unveileddesire.com/collections/male-underwear): Browse men’s underwear, including jockstrap styles, in the Unveiled Desire collection. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T17:35:41Z
+  Total Products: 84
+- [Anal Vibes](https://unveileddesire.com/collections/anal-vibes): Buzz your backdoor into bliss. Ready to take your anal play to the next level? Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T02:30:00Z
+  Total Products: 27
+- [Lingerie & Seductive Threads](https://unveileddesire.com/collections/lingerie-seductive-threads): Dress to undress. Turn up the heat and slip into something that says touch me . Discreet UK delivery, free over £35.
+  Updated: 2026-11-15T00:00:12Z
+  Total Products: 422
+- [b-Vibe](https://unveileddesire.com/collections/b-vibe): Explore the b-Vibe collection, including Snug Plug designs in different sizes. Compare dimensions and features on each listing, and follow the manufacturer’s instructions for use and care.
+  Updated: 2026-11-14T02:30:18Z
+  Total Products: 99
+- [Lubes & Massage Oils](https://unveileddesire.com/collections/lubes-massage-oils): Slide, glide, and take your time. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T02:31:20Z
+  Total Products: 124
+- [Lubricants](https://unveileddesire.com/collections/lubricants): Whatever your rhythm, the right lubricant makes every move smoother, wetter, and way more satisfying. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T02:31:07Z
+  Total Products: 79
+- [Massage Oils & Gels](https://unveileddesire.com/collections/massage-oils-gels): Let the tension melt. Turn every touch into foreplay with our massage oils and gels — made to glide, tease, and awaken the senses. Discreet UK delivery,…
+  Updated: 2026-11-14T02:31:20Z
+  Total Products: 45
+- [Strap-On Kits](https://unveileddesire.com/collections/strap-on-kits): Compare strap-on kits, including beginner-labelled options. Discreet UK delivery, free over £35.
+  Updated: 2026-11-14T20:35:55Z
+  Total Products: 61
+- [Tabooboo](https://unveileddesire.com/collections/tabooboo): Explore the Tabooboo collection, including The Lunch Break bullet vibrator. Compare individual product specifications, dimensions and controls to find a design that suits your preferences.
+  Updated: 2026-11-11T20:29:56Z
+  Total Products: 4
+- [ROMP](https://unveileddesire.com/collections/romp): Explore ROMP  toys, including clitoral vibrators, dildos and rings. Compare individual model specifications, dimensions and care instructions to narrow down your options.
+  Updated: 2026-11-14T08:37:13Z
+  Total Products: 35
+- [Svakom](https://unveileddesire.com/collections/svakom): Explore the Svakom collection, including Amy 2, Cici 2 and Tammy listings. Compare the individual product pages for features, dimensions, available colours and care instructions.
+  Updated: 2026-11-11T14:08:26Z
+  Total Products: 2
+- [Loving Joy](https://unveileddesire.com/collections/loving-joy): Explore the Loving Joy collection, including egg vibrators and wand designs. Compare individual listings for dimensions, settings and care information before choosing.
+  Updated: 2026-11-14T20:35:52Z
+  Total Products: 116
 - [Bound](https://unveileddesire.com/collections/bound)
-  Updated: 2026-06-30T18:58:43Z
-  Total Products: 130
+  Updated: 2026-11-11T14:08:24Z
+  Total Products: 24
+- [For Him](https://unveileddesire.com/collections/for-him): Pleasure made for him. Masturbators, cock rings, pumps and enhancers designed for deeper sensation and lasting confidence.
+  Updated: 2026-11-14T17:35:09Z
+  Total Products: 317
+- [Masturbators](https://unveileddesire.com/collections/masturbators): Lifelike textures and tight, sensual grip. Discover male masturbators crafted for intense, unhurried solo pleasure.
+  Updated: 2026-11-14T08:37:13Z
+  Total Products: 146
+- [Cock Rings](https://unveileddesire.com/collections/cock-rings): Firmer, longer, more intense. Vibrating and classic cock rings to heighten pleasure for him and for you both.
+  Updated: 2026-11-14T17:35:09Z
+  Total Products: 135
+- [Penis Pumps](https://unveileddesire.com/collections/penis-pumps): Boost blood flow and sensitivity with penis pumps built for comfort, control and impressive results.
+  Updated: 2026-11-14T02:22:03Z
+  Total Products: 23
+- [Delay & Enhancers](https://unveileddesire.com/collections/delay-enhancers): Take your time. Delay sprays and enhancers to help him last longer and savour every moment.
+  Updated: 2026-11-14T02:23:12Z
+  Total Products: 5
+- [ Wellness](https://unveileddesire.com/collections/-wellness): Feel confident, cared for and ready. Condoms, arousal enhancers and intimate hygiene for a healthy, pleasurable  life.
+  Updated: 2026-11-14T15:53:00Z
+  Total Products: 50
+- [Condoms](https://unveileddesire.com/collections/condoms): Safe never felt this good. Thin, textured and flavoured condoms for protection without compromise.
+  Updated: 2026-11-14T02:29:28Z
+  Total Products: 22
+- [Arousal & Oral Enhancers](https://unveileddesire.com/collections/arousal-oral-enhancers): Tingle, warm and awaken. Arousal gels and oral enhancers that turn up sensitivity and play.
+  Updated: 2026-11-14T15:53:00Z
+  Total Products: 18
+- [Intimate Hygiene](https://unveileddesire.com/collections/intimate-hygiene): Gentle care before and after play. Toy cleaners and intimate hygiene essentials to keep pleasure fresh.
+  Updated: 2026-11-14T02:29:26Z
+  Total Products: 9
+- [Games & Gifts](https://unveileddesire.com/collections/games-gifts): Playful, cheeky and unforgettable.  games, kinky gifts and novelties to spark laughter and desire.
+  Updated: 2026-11-14T15:52:57Z
+  Total Products: 153
+- [ Games](https://unveileddesire.com/collections/-games): Dare, tease and discover.  card, dice and board games for couples who love to play.
+  Updated: 2026-11-14T12:36:20Z
+  Total Products: 50
+- [Gifts & Novelties](https://unveileddesire.com/collections/gifts-novelties): Naughty little surprises. Cheeky gifts and novelties for hen parties, birthdays and bedroom fun.
+  Updated: 2026-11-14T15:52:57Z
+  Total Products: 100
+- [Dresses & Costumes](https://unveileddesire.com/collections/dresses-costumes): Slip into a fantasy. Seductive dresses and roleplay costumes designed to turn heads and raise temperatures.
+  Updated: 2026-11-14T17:26:08Z
+  Total Products: 63
+- [Rocks Off](https://unveileddesire.com/collections/rocks-off): Shop Rocks Off bullets, prostate massagers, butt plugs and vibrators from £8.99. Body-safe silicone, waterproof, discreet UK delivery free over £35. 18+.
+  Updated: 2026-11-11T20:09:09Z
+  Total Products: 34
+- [Mochi](https://unveileddesire.com/collections/mochi): Mochi: the palm-sized rechargeable Mushroom silicone vibe and ULTRASKYN mini strokers from £11.99. Cute, compact, discreet UK delivery. 18+.
+  Updated: 2026-11-13T03:32:14Z
+  Total Products: 4
+- [Smack Tarts](https://unveileddesire.com/collections/smack-tarts): Smack Tarts by Little Genie: lickable water-based sour lube in watermelon, cherry, grape, apple, pineapple and strawberry from £1.99. UK delivery.
+  Updated: 2026-11-12T14:29:04Z
+  Total Products: 22
+- [Bodywand](https://unveileddesire.com/collections/bodywand): Bodywand wand massagers from £18.99: Mini 6in wands, USB rechargeable Multi Function wands and the 4Play range. Discreet UK delivery. 18+.
+  Updated: 2026-11-11T20:09:09Z
+  Total Products: 11
+- [Top Picks](https://unveileddesire.com/collections/top-picks): Hand-picked favourites from Unveiled Desire: the Christmas Mystery Box, couples' toys, best-loved vibrators and lingerie. Discreet UK delivery. 18+.
+  Updated: 2026-11-14T16:00:29Z
+  Total Products: 18
+- [Offer scope – all except Mystery Box](https://unveileddesire.com/collections/offer-scope-all-except-mystery-box)
+  Updated: 2026-11-15T00:00:12Z
+  Total Products: 2832
+- [We-Vibe](https://unveileddesire.com/collections/we-vibe): Shop We-Vibe couples vibrators, app-controlled toys and gift sets at Unveiled Desire. Body-safe, rechargeable and sent in plain, discreet packaging.
+  Updated: 2026-11-14T16:32:03Z
+  Total Products: 46
+- [Le Désir](https://unveileddesire.com/collections/le-desir): Shop Le Désir bodystockings, teddies, garter belts and fishnet lingerie at Unveiled Desire. One-size and queen-size styles, discreet delivery.
+  Updated: 2026-11-14T16:28:00Z
+  Total Products: 44
+- [Creature Cocks](https://unveileddesire.com/collections/creature-cocks): Fantasy-shaped toys from Creature Cocks. 18+ only.
+  Updated: 2026-11-14T20:35:50Z
+  Total Products: 110
+- [Fetish Fantasy](https://unveileddesire.com/collections/fetish-fantasy): Fetish Fantasy restraints, blindfolds and bondage kits for beginners and beyond. 18+ only.
+  Updated: 2026-11-14T16:32:16Z
+  Total Products: 80
+
+## Blogs
+
+- [News](https://unveileddesire.com/blogs/news)
+  - [Choosing Your First  Toy: A Beginner’s Guide](https://unveileddesire.com/blogs/news/choosing-your-first--toy): Choosing Your First  Toy: A Beginner’s Guide
+    Updated: 2026-11-08T22:34:37Z
+    Author: Unveiled Desire
 
 ## Store Pages
 
-- [Contact](https://unveileddesire.com/pages/contact)
-  Updated: 2025-01-04T12:21:51Z
+- [Contact Unveiled Desire | Product & Order Enquiries](https://unveileddesire.com/pages/contact): Contact Unveiled Desire Unveiled Desire is a UK online shop for  toys, lingerie and intimate wellness essentials. We welcome beginners, couple...
+  Updated: 2026-11-08T20:05:03Z
 - [Your Privacy Choices](https://unveileddesire.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-01-28T15:44:28Z
 - [how to use it - dildo](https://unveileddesire.com/pages/how-to-use-it-dildo): Simply place it wherever you want thanks to the trusty suction cup base. Whether you're getting cozy solo or introducing a little extra spark to th...
@@ -1473,10 +1978,8 @@
   Updated: 2025-03-16T13:36:12Z
 - [Accessibility Policy](https://unveileddesire.com/pages/accessibility-policy): Accessibility Policy At Unveiled Desire, we are dedicated to creating a welcoming, accessible online shopping experience for all our customers. We ...
   Updated: 2025-03-16T13:36:04Z
-- [Frequently Asked Questions](https://unveileddesire.com/pages/avada-faqs): .main-page-title.page-title { display: none !important; } function loadScript() { const elem = document.createElement('script'); elem.type = 'text/...
-  Updated: 2025-01-29T03:27:06Z
 - [Search Results](https://unveileddesire.com/pages/search-results): #usf_container{ visibility:hidden; } @media (max-width: 749px){ .usf-mobile-hidden{ display: none !important; } .usf-skeleton-container .usf-sr-con...
-  Updated: 2025-02-07T13:26:00Z
+  Updated: 2026-11-15T01:01:35Z
 - [Unveil Your Toy - Contest Rules:](https://unveileddesire.com/pages/monthly-contest): How to Enter:Record a short, creative video featuring one of our products! You can do anything from unboxing, a funny skit, or just an introduction...
   Updated: 2025-03-16T13:35:42Z
 - [Unveil Your Best Experience - Contest Rules:](https://unveileddesire.com/pages/unveil-your-best-experience-contest-rules): 1. Eligibility This contest is open to individuals aged 18 and over. Participants must follow @unveileddesire on Instagram. The contest is not affi...
@@ -1487,21 +1990,35 @@
   Updated: 2025-03-16T13:34:39Z
 - [Unveiled Desire Contests](https://unveileddesire.com/pages/unveiled-desire-contests): Get ready to play, share, and win! Our contests are all about fun, creativity, and a little bit of spice. Whether you’re sharing your wildest desir...
   Updated: 2025-03-16T13:37:29Z
-- [Our Story](https://unveileddesire.com/pages/our-story): Unveiled Desire It started with a trip, a crowded market, and a conversation that wouldn't go away. Three friends. One trip to Thailand. And a mark...
-  Updated: 2026-10-08T08:12:26Z
-- [Why Do We Do This?](https://unveileddesire.com/pages/why-do-we-do-this): Seriously! Because pleasure shouldn't come with embarrassment. For something so natural, pleasure has spent far too long being treated as something...
-  Updated: 2026-10-08T08:24:00Z
+- [Our Story | Unveiled Desire  Wellness Shop](https://unveileddesire.com/pages/our-story): Unveiled Desire Unveiled Desire is a UK online shop for  toys, lingerie and intimate wellness essentials. Founded by three friends after a tri...
+  Updated: 2026-11-08T20:18:35Z
+- [Our Mission: Choice Without Judgement | Unveiled Desire](https://unveileddesire.com/pages/why-do-we-do-this): Seriously! Unveiled Desire exists to make choosing  toys and exploring intimate wellness less intimidating. Our mission is to offer choice and...
+  Updated: 2026-11-08T20:18:58Z
+- [Challenge 01 – The Main Attraction](https://unveileddesire.com/pages/secret-room-challenge-1)
+  Updated: 2026-11-09T22:22:42Z
+- [Challenge 02 – Dare to Discover](https://unveileddesire.com/pages/secret-room-challenge-2)
+  Updated: 2026-11-09T22:36:34Z
+- [Challenge 03 – The Confidence Reveal](https://unveileddesire.com/pages/secret-room-challenge-3)
+  Updated: 2026-11-09T22:36:57Z
+- [Challenge 04 – The Sensory Moment](https://unveileddesire.com/pages/secret-room-challenge-4)
+  Updated: 2026-11-09T22:36:52Z
+- [Challenge 05 – The Final Dare](https://unveileddesire.com/pages/secret-room-challenge-5)
+  Updated: 2026-11-09T22:36:47Z
+- [The Secret Room](https://unveileddesire.com/pages/secret-room)
+  Updated: 2026-11-09T22:17:12Z
+- [Frequently Asked Questions](https://unveileddesire.com/pages/faq): Straight answers about ordering, delivery, discreet packaging, returns and product care. Can't find yours? Email info@unveileddesire.com. Orders & ...
+  Updated: 2026-11-14T13:53:37Z
 
 ## Policies
 
 - [Privacy Policy](https://unveileddesire.com/policies/privacy-policy)
   Updated: 2026-10-08T18:57:26Z
 - [Shipping Policy](https://unveileddesire.com/policies/shipping-policy)
-  Updated: 2025-03-30T12:58:46Z
+  Updated: 2026-11-14T13:52:15Z
 - [Refund Policy](https://unveileddesire.com/policies/refund-policy)
-  Updated: 2025-03-30T13:01:13Z
+  Updated: 2026-11-14T13:51:33Z
 - [Terms of Service](https://unveileddesire.com/policies/terms-of-service)
-  Updated: 2025-03-30T13:00:01Z
+  Updated: 2026-11-11T20:08:00Z
 - [Contact Information](https://unveileddesire.com/policies/contact-information)
   Updated: 2025-03-30T13:00:16Z
 
