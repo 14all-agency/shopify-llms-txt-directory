@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-05-02T20:36:05Z
 - Contact Email: deniz@sammelsucht-shop.de
-- Updated At: 2026-11-07T00:33:45.831Z
+- Updated At: 2026-11-15T00:23:24.624Z
 
 ## Products
 
@@ -45,7 +45,7 @@
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57.png?v=1779371683
   Price: 4,00 € EUR
 - [Ambidiffel PFL 107 Fatale Flammen kaufen | Sammelsucht](https://sammelsucht-shop.de/products/ambidiffel-pfl-107-fatale-flammen-pokemon-karte-deutsch-near-mint): Ambidiffel PFL 107 Fatale Flammen (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
-  Updated: 2026-10-30T08:01:57Z
+  Updated: 2026-11-09T10:48:15Z
   Vendor: Sammelsucht
   Product Type: Sammelkarte
   Availability: Available
@@ -101,7 +101,7 @@
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_b638815c-ab3f-4758-98f1-baacb121682b.jpg?v=1779371736
   Price: 1,99 € EUR
 - [Banette TG07/TG30 Illustration Rare Verlorener Ursprung kaufen | Sammelsucht](https://sammelsucht-shop.de/products/banette-tg07-tg30-illustration-rare-verlorener-ursprung-de-nm-pokemon): Banette TG07/TG30 Illustration Rare Verlorener Ursprung (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
-  Updated: 2026-10-12T23:01:10Z
+  Updated: 2026-11-10T09:32:14Z
   Vendor: Sammelsucht
   Product Type: Sammelkarte
   Availability: Available
@@ -429,13 +429,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_12471f3a-8327-4529-a131-4419eb6595dc.jpg?v=1779992412
   Price: 19,99 € EUR
-- [Silvanas Vitalität 184/189 Ultra Rare Astralglanz kaufen | Sammelsucht](https://sammelsucht-shop.de/products/silvanas-vitalitat-184-189-ultra-rare-astralglanz-de-nm-pokemon): Silvanas Vitalität 184/189 Ultra Rare Astralglanz (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
-  Updated: 2026-09-24T06:32:17Z
-  Vendor: Sammelsucht
-  Product Type: Sammelkarte
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_477878f8-81db-4cdc-94c1-9abae5cbcc8c.jpg?v=1779992422
-  Price: 8,99 € EUR
 - [Victini 144/163 Ultra Rare Kampfstile kaufen | Sammelsucht](https://sammelsucht-shop.de/products/victini-144-163-ultra-rare-kampfstile-de-nm-pokemon): Victini 144/163 Ultra Rare Kampfstile (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
   Updated: 2026-09-24T06:32:18Z
   Vendor: Sammelsucht
@@ -554,13 +547,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/karte_132_ac3183d9-6f1c-43dd-af37-6d740a05195e.jpg?v=1785640034
   Price: 4,99 € EUR
-- [Duflor 093/091 Shiny Rare Paldeas Schicksale kaufen | Sammelsucht](https://sammelsucht-shop.de/products/duflor-093-091-shiny-rare-paldeas-schicksale-de-nm-pokemon): Duflor 093/091 Shiny Rare Paldeas Schicksale (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
-  Updated: 2026-09-24T06:32:25Z
-  Vendor: Sammelsucht
-  Product Type: Sammelkarte
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_ad18c8ac-f1f3-46cf-a2cf-670e6106d1e3.jpg?v=1779992508
-  Price: 6,49 € EUR
 - [Sanaconda SV071/SV122 Shiny Rare Glänzendes Schicksal kaufen | Sammelsucht](https://sammelsucht-shop.de/products/sanaconda-sv071-sv122-shiny-rare-glanzendes-schicksal-de-nm-pokemon): Sanaconda SV071/SV122 Shiny Rare Glänzendes Schicksal (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
   Updated: 2026-09-24T06:32:26Z
   Vendor: Sammelsucht
@@ -625,7 +611,7 @@
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_1368bfea-7f85-4c94-90bc-31140bd4765a.jpg?v=1779992580
   Price: 12,49 € EUR
 - [Mimigma SVP 075 Black Star Promo DE NM Pokémon Sealed kaufen | Sammelsucht](https://sammelsucht-shop.de/products/mimigma-svp-075-black-star-promo-de-nm-pokemon-sealed): Mimigma SVP 075 Black Star Promo DE NM Pokémon Sealed (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
-  Updated: 2026-10-12T23:01:15Z
+  Updated: 2026-11-11T23:22:05Z
   Vendor: Sammelsucht
   Product Type: Sammelkarte
   Availability: Available
