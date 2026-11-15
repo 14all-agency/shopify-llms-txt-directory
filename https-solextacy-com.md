@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2021-09-09T14:00:46Z
 - Contact Email: Info@solextacy.com
-- Updated At: 2026-11-08T00:24:27.551Z
+- Updated At: 2026-11-15T00:26:31.741Z
 
 ## Products
 
@@ -279,7 +279,7 @@
     Availability: Available
     Price: $79.99 USD
 - [Helena Pearl Satin Low Heel Shoes | Comfortable Formal Heels | SoleXtacy](https://solextacy.com/products/helena): Helena pearl-studded satin low heel shoes offer cushioned comfort and shimmer. 1-inch block heel with elegant pearl embellishments — perfect for weddings, galas & formal events.
-  Updated: 2026-09-23T23:07:56Z
+  Updated: 2026-11-12T04:14:51Z
   Vendor: SoleXtacy
   Product Type: Shoes
   Availability: Available
@@ -918,13 +918,13 @@
 ## Collections
 
 - [Heels](https://solextacy.com/collections/heels): Shop SoleXtacy's luxury formal heels — pearl pumps, platform heels, and elegant stilettos for weddings, galas, sorority events, church, and every special occasion.
-  Updated: 2026-09-02T11:06:16Z
+  Updated: 2026-11-12T12:02:45Z
   Total Products: 14
 - [Elegant Handbags](https://solextacy.com/collections/elegant-handbags): Shop SoleXtacy's luxury evening bags and clutches — pearl clutches, sphere bags, and formal minaudieres for weddings, galas, sorority events, and church occasions.
   Updated: 2026-08-10T11:06:23Z
   Total Products: 7
 - [Best Sellers](https://solextacy.com/collections/best-sellers): Shop SoleXtacy's best- formal heels, evening bags, and gloves — the most-loved styles for weddings, galas, church events, sorority conferences, and more.
-  Updated: 2026-09-02T11:06:16Z
+  Updated: 2026-11-12T12:02:45Z
   Total Products: 12
 - [Gloves](https://solextacy.com/collections/gloves): Shop SoleXtacy's luxury formal gloves — pearl, satin, rhinestone, and sheer styles for weddings, galas, church events, sorority conferences, and Masonic occasions.
   Updated: 2026-08-03T11:06:25Z
@@ -933,7 +933,7 @@
   Updated: 2026-06-27T19:25:56Z
   Total Products: 3
 - [Bela Collection](https://solextacy.com/collections/bela-collection): Shop the SoleXtacy Bela Collection — bold, glamorous formal heels and accessories for galas, award ceremonies, sorority boules, and retirement celebrations.
-  Updated: 2026-09-02T11:06:16Z
+  Updated: 2026-11-12T12:02:45Z
   Total Products: 24
 - [Spiked Tote (Cabata Inspired)](https://solextacy.com/collections/spiked-tote-cabata-inspired): Signature metallic spikes encircling the handles, a bold sneaker sole and Loubi red lining. It is crafted in grained white leather and features a detachable pouch that can be carried as a clutch. - Dimensions : H 29 x L 39 x W 16 cm
   Updated: 2026-06-14T08:10:30Z
@@ -942,7 +942,7 @@
   Updated: 2026-06-27T19:31:35Z
   Total Products: 6
 - [Church Elegance Collection](https://solextacy.com/collections/church-elegance-collection): Shop the SoleXtacy Church Elegance Collection — refined heels, pearl clutch, and gloves for Women's Day, First Lady events, Sunday service, and church milestones.
-  Updated: 2026-09-02T11:06:16Z
+  Updated: 2026-11-12T12:02:45Z
   Total Products: 6
 - [First Lady Collection](https://solextacy.com/collections/first-lady-collection): Shop the SoleXtacy First Lady Collection — statement heels, pearl sphere bag, and rhinestone gloves for First Lady Anniversary events and formal occasions.
   Updated: 2026-06-27T19:33:12Z
