@@ -6,16 +6,16 @@
 - Timezone: Europe/London
 - Created At: 2025-08-04T15:55:35Z
 - Contact Email: oliver@pickleupshot.com
-- Updated At: 2026-11-08T00:42:44.702Z
+- Updated At: 2026-11-15T00:43:22.939Z
 
 ## Products
 
 - [PickleUp Pro Cramp Shot - Pineapple](https://pickleupshot.com/products/pro-cramp-shot): The Ultimate Cramp-Crushing Performance Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp is your secret  that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
-  Updated: 2026-11-06T17:37:17Z
+  Updated: 2026-11-13T12:23:44Z
   Vendor: PickleUp
   Product Type: 50ml Shot
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/0843/4244/files/New_Old_Style_Product_Photo.png?v=1785699616
+  Image: https://cdn.shopify.com/s/files/1/0943/0843/4244/files/PDP_12_pack.png?v=1794271315
   - [12 PACK](https://pickleupshot.com/products/pro-cramp-shot?variant=55445286355268)
     Availability: Available
     Price: £48.00 GBP
@@ -26,7 +26,7 @@
     Availability: Available
     Price: £122.40 GBP
 - [PickleUp Football Jersey](https://pickleupshot.com/products/pickleup-football-jersey): Our signature football jersey is cut boxy and relaxed. Looks good whether you're warming up, cooling down, or just repping PickleUp out with your pals. Lightweight, breathable, and built for movement. Details Unisex boxy fit with a relaxed drop shoulder and V-neck. 100% polyester, lightweight (165 g/m²) and thin enough to layer or wear solo in summer. Short sleeve. Care Machine wash at 30°C on a gentle cycle. Tumble dry low. Iron on low heat — avoid ironing directly on the print. No bleach, no dry clean. Made to order Every jersey is made to order, so delivery takes a little longer than off-the-shelf kit. It's our way of cutting waste and pushing back against fast fashion. Expect up to 14 working days from order to doorstep. Please note: Minor variations between items can occur due to differences in fabric, dye, and processing. This is normal in apparel manufacturing and we work hard to keep every piece consistent. Size Chart S M L XL cm cm cm cm Chest 59 61 63 65 Length 71 73 75 77 Shoulder 50 51.5 53 54.5 Sleeve length 27.3 27.9 28.5 29.1 gid://shopify/Product/15532168872260
-  Updated: 2026-10-22T12:10:12Z
+  Updated: 2026-11-11T17:38:40Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -48,7 +48,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/0843/4244/files/8f3160af598d46d0a56df52c99bfbe51.png?v=1776359783
     Price: £25.99 GBP
 - [The Trial Pack](https://pickleupshot.com/products/pro-cramp-shots-trail-pack): The Ultimate Cramp-Crushing Performance Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp is your secret  that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
-  Updated: 2026-11-04T15:13:27Z
+  Updated: 2026-11-12T16:46:41Z
   Vendor: PickleUp
   Product Type: 50ml Shot
   Availability: Available
@@ -58,19 +58,19 @@
 ## Collections
 
 - [Home page](https://pickleupshot.com/collections/frontpage)
-  Updated: 2026-11-07T12:23:23Z
+  Updated: 2026-11-14T12:21:01Z
   Total Products: 1
 - [Shop All](https://pickleupshot.com/collections/shop-all)
-  Updated: 2026-11-07T12:23:23Z
+  Updated: 2026-11-14T12:21:01Z
   Total Products: 1
 - [Merch](https://pickleupshot.com/collections/merch)
   Updated: 2026-10-23T11:22:21Z
   Total Products: 1
 - [Performance Cramp Shots](https://pickleupshot.com/collections/performance-cramp-shots)
-  Updated: 2026-11-07T12:23:23Z
+  Updated: 2026-11-14T12:21:01Z
   Total Products: 1
 - [Trial Packs](https://pickleupshot.com/collections/trial-packs)
-  Updated: 2026-11-04T12:20:22Z
+  Updated: 2026-11-13T12:22:02Z
   Total Products: 1
 
 ## Blogs
@@ -330,6 +330,14 @@
     Updated: 2026-11-05T10:14:29Z
     Author: PickleUp
     Tags: is pickle juice good for cramps, muscle cramps and pickle juice, pickle juice and cramps, pickle juice for cramps, Triathlon
+  - [Can You Drink Pickle Juice From the Jar for Cramps? | PickleUp](https://pickleupshot.com/blogs/news/can-you-drink-pickle-juice-from-the-jar-for-cramps): Can You Drink Pickle Juice From the Jar for Cramps? | PickleUp
+    Updated: 2026-11-09T10:16:15Z
+    Author: PickleUp
+    Tags: dill pickle juice, does pickle juice help with cramps, gherkin juice for cramps, pickle juice, pickle juice and cramps, pickle juice for cramps
+  - [Pickle Juice for Badminton Cramps | PickleUp](https://pickleupshot.com/blogs/news/pickle-juice-for-badminton-cramps): Pickle Juice for Badminton Cramps | PickleUp
+    Updated: 2026-11-12T10:13:52Z
+    Author: PickleUp
+    Tags: badminton, dill pickle juice for muscle cramps, does pickle juice help with cramps, drink pickle juice for cramps, pickle juice for cramps
 - [Ambassadors](https://pickleupshot.com/blogs/ambassadors)
   - [Nat Phillips](https://pickleupshot.com/blogs/ambassadors/test-blog)
     Updated: 2025-09-17T14:51:53Z
