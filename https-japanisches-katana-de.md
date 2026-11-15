@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-01-03T07:27:50Z
 - Contact Email: info@japanisches-katana.de
-- Updated At: 2026-11-08T00:32:32.333Z
+- Updated At: 2026-11-15T00:35:28.618Z
 
 ## Products
 
@@ -101,7 +101,7 @@
     Availability: Available
     Price: 300,00 € EUR
 - [Tanto Ginga 銀河 | Japanisches Katana](https://japanisches-katana.de/products/tanto-ginga): SPEZIFIKATIONEN Klinge Blau schimmernder Damaststahl Schwertstichblatt (Tsuba 鍔) Kupfer- und Messinglegierung Säbelscheide (Saya 鞘) Lackiertes Holz & Kurigata aus Stierhorn Griff Katana (tsuka 柄) Leder aus GaluchatMenuki-Set aus Kupfer- und MessinglegierungMekugi aus Bambus DIMENSIONEN Länge mit Scheide 55 cm Länge der Klinge 33 cm Länge des Stiels 17 cm Breite der Klinge 3.2 cm Dicke der Klinge 0.7 cm Gewicht 0.8 Kg mit Scheide
-  Updated: 2026-10-02T10:28:35Z
+  Updated: 2026-11-09T11:34:46Z
   Vendor: Japanisches Katana
   Product Type: Tanto
   Availability: Available
@@ -245,7 +245,7 @@
     Availability: Available
     Price: 350,00 € EUR
 - [Ninjato Nami 波](https://japanisches-katana.de/products/ninjato-nami-波): SPEZIFIKATIONEN Klinge Damaszener Stahl mit rot/blauen Reflexen Schwertstichblatt (Tsuba 鍔) Hochwertiges Kupfer Säbelscheide (Saya 鞘) Schwarz lackierte Holzscheide. Griff Katana (tsuka 柄) Echtes Galuchat-LederMenuki-Set aus Kupfer2 Mekugi aus Bambus DIMENSIONEN Länge mit Scheide 103 cm Länge der Klinge 71 cm Länge des Stiels 26 cm Breite der Klinge 3.2 cm Dicke der Klinge 0.7 cm Gewicht 1.2 Kg mit Scheide
-  Updated: 2026-11-02T09:57:45Z
+  Updated: 2026-11-10T21:40:25Z
   Vendor: Japanisches Katana
   Product Type: Ninjato
   Availability: Available
@@ -365,7 +365,7 @@
     Availability: Available
     Price: 630,00 € EUR
 - [Katana Owari 尾張国 | Japanisches Katana](https://japanisches-katana.de/products/katana-owari): SPEZIFIKATIONEN Klinge Einzigartiger purpurroter Damaststahl.Von einem Meister poliert Schwertstichblatt (Tsuba 鍔) Hochwertiges, fein geformtes Kupfer Säbelscheide (Saya 鞘) Tachi Stilfassung mit Obitori Kanagu Kashiwaba und Kogiri.Die Schnur des Tsuka-Ito Griffs setzt sich auf der Scheide fort. Griff Katana (tsuka 柄) Echtes Galuchat-LederMenuki-Set aus hochwertigem Kupfer2 Mekugi aus Bambus DIMENSIONEN Länge mit Scheide 103 cm Länge der Klinge 72 cm Länge des Stiels 27 cm Breite der Klinge 3.2 cm Dicke der Klinge 0.7 cm Gewicht 1.4 Kg mit Scheide Das Katana Owari 尾張国 ist eine erhabene Darstellung historischer japanischer Handwerkskunst, ein Objekt von hohem Wert sowohl für Praktiker als auch für Sammler. Klinge (刀身) : Die Klinge aus purpurrotem Damaststahl, ein besonderes Merkmal dieses Katana, ist sowohl eine technische als auch eine ästhetische Meisterleistung. Damaststahl ist für seine komplexen Muster und seine außergewöhnliche Festigkeit bekannt, und der Purpurton verleiht ihm eine visuelle Tiefe, die an Noblesse und Geheimnis erinnert. Die Wahl des Stahls spiegelt nicht nur die Schönheit, sondern auch die überlegene Schnittqualität wider, die sich perfekt für die Handhabung und Demonstration eignet. Garde (Tsuba 鍔) : Die fein geschnitzte Garde aus hochwertigem Kupfer ist von unvergleichlicher Opulenz, wobei jedes Detail ein Bekenntnis zur traditionellen Eleganz darstellt. Das Kupfer wurde aufgrund seiner Formbarkeit und Korrosionsbeständigkeit ausgewählt und bietet Haltbarkeit, ohne die Schönheit zu beeinträchtigen. Scheide (Saya 鞘) : Die Saya mit ihrer Fassung im Tachi-Stil zeigt eine seltene Kultiviertheit, die durch Obitori Kanagu Kashiwaba und Kogiri Accessoires noch verstärkt wird. Die Wahl der Tsuka-Ito-Bespannung, die sich bei der Saya fortsetzt, ist nicht nur ästhetisch, sondern auch funktional. Schaft (Tsuka 柄) : Umhüllt von echtem Galuchat-Leder, wird der Tsuka für maximale Haltbarkeit und Griffigkeit hergestellt. Die Textur des Rochenleders, das für seine Robustheit und seinen komfortablen Griff bekannt ist, ist das Material der Wahl für hochwertige Katana-Griffschalen. Das Menuki-Kit und die Mekugi aus hochwertigem Kupfer tragen nicht nur zur Stabilität der Konstruktion, sondern auch zum ästhetischen Reichtum des Ganzen bei. Das Katana Owari 尾張国 mit seinem sorgfältig kalibrierten Gewicht und seinen Abmessungen ist ein Meisterwerk, das bereit ist, seinen Platz in der strengen Praxis oder innerhalb einer Sammlung traditioneller japanischer Waffen einzunehmen.
-  Updated: 2026-11-04T17:33:16Z
+  Updated: 2026-11-13T21:50:35Z
   Vendor: Japanisches Katana
   Product Type: Katana
   Availability: Available
@@ -383,7 +383,7 @@
     Availability: Available
     Price: 400,00 € EUR
 - [Katana Oda 織田 | Japanisches Katana](https://japanisches-katana.de/products/katana-oda): SPEZIFIKATIONEN Klinge T10-Stahl mit Hamon mit einzigartigem MusterPolieren durch einen Meister Schwertstichblatt (Tsuba 鍔) Geformte Zinklegierung Säbelscheide (Saya 鞘) Auf der grün lackierten Scheide ist das Symbol des Oda-Klans zu sehen.Tachi-Stilfassung mit Obitori Kanagu Kashiwaba und Kogiri.Die Schnur des Tsuka-Ito-Griffs setzt sich auf der Scheide fort. Griff Katana (tsuka 柄) Sechtes RochenlederMenuki-Set aus Zinklegierung2 Mekugi aus Bambus DIMENSIONEN Länge mit Scheide 103 cm Länge der Klinge 72 cm Länge des Stiels 27 cm Breite der Klinge 3.2 cm Dicke der Klinge 0.7 cm Gewicht 1.4 Kg mit Scheide Das Katana Oda 織田 ist ein martialisches Kunstwerk, das die Macht und das Erbe des berühmten Oda-Klans widerspiegelt. Klinge (刀身) : Der T10-Stahl, der aufgrund seines hohen Kohlenstoffgehalts für seine Festigkeit und Härte bekannt ist, wurde zu einer Klinge mit einem Hamon mit einzigartigem Muster verarbeitet. Das sorgfältige Polieren durch einen Meisterschmied hebt die Struktur des Stahls und den Hamon hervor und sorgt für eine Ästhetik, die so scharf ist wie ihr Faden. Garde (Tsuba 鍔) : Die Zinklegierung der Tsuba ist mit einer Präzision geschnitzt, die von handwerklichem Geschick zeugt. Die Legierung ist oxidationsbeständig und ermöglicht eine feine Schnitzerei, die Robustheit und raffinierte Details für eine ebenso funktionale wie schöne Uhr kombiniert. Scheide (Saya 鞘) : Die grün lackierte Saya trägt stolz das Symbol des Oda-Klans und fügt einen Hauch von Geschichte und Stolz hinzu. Der Rahmen im Tachi-Stil mit seinen Kashiwaba- und Kogiri-Ornamenten sowie dem Tsuka-Ito, der sich über die Scheide erstreckt, verleiht dem Saya eine unverwechselbare Eleganz und ist gleichzeitig sehr praktisch. Handgriff (Tsuka 柄) : Umhüllt von echtem Rochenleder sorgt der Tsuka für einen sicheren Griff und ein ästhetisch ansprechendes Aussehen. Die Menuki aus Zinklegierung sorgen für Ausgewogenheit und Schönheit, und die Mekugi aus Bambus machen die Konstruktion stabiler. Mit einer Gesamtlänge von 103 cm und einem Gewicht von 1,4 kg ist das Katana Oda ein bemerkenswertes Stück, ausbalanciert für die Praxis und reich an bedeutenden Details, die seinem berühmten Namen Tribut zollen.
-  Updated: 2026-11-04T17:33:16Z
+  Updated: 2026-11-13T13:11:32Z
   Vendor: Japanisches Katana
   Product Type: Katana
   Availability: Available
@@ -467,7 +467,7 @@
     Availability: Available
     Price: 229,00 € EUR
 - [Katana Zoro](https://japanisches-katana.de/products/katana-zoro): Zoros Katana aus One Piece kaufen: handgeschmiedete Klinge aus 1060 Kohlenstoffstahl, 72 cm Klinge, 103 cm gesamt, geschnitzte Eisen-Tsuba. Ab 199 €.
-  Updated: 2026-10-02T10:28:37Z
+  Updated: 2026-11-13T08:05:37Z
   Vendor: Japanisches Katana
   Product Type: Katana
   Availability: Available
@@ -521,7 +521,7 @@
     Availability: Available
     Price: 220,00 € EUR
 - [Katana Enma](https://japanisches-katana.de/products/katana-enma): Enma, Zoros Katana aus One Piece, kaufen: handgeschmiedet aus 1060 Kohlenstoffstahl, 72 cm Klinge, 103 cm gesamt, lackierte Holz-Saya. Ab 199 €.
-  Updated: 2026-11-05T09:49:46Z
+  Updated: 2026-11-08T01:50:45Z
   Vendor: Japanisches Katana
   Product Type: Katana
   Availability: Available
@@ -539,7 +539,7 @@
     Availability: Available
     Price: 229,00 € EUR
 - [Tanjiro Katana V2 (Demon Slayer) – Replik seines zweiten Schwerts](https://japanisches-katana.de/products/katana-tanjiro-v2): Tanjiros zweites Schwert aus Demon Slayer: die V2-Nichirin-Klinge als handgefertigte Replik, originalgetreu nach dem Anime. Jetzt entdecken.
-  Updated: 2026-11-06T05:35:26Z
+  Updated: 2026-11-14T07:24:47Z
   Vendor: Japanisches Katana
   Product Type: Katana
   Availability: Available
@@ -647,7 +647,7 @@
     Availability: Available
     Price: 229,00 € EUR
 - [Tanjiro Kamado Katana (Demon Slayer) – Schwarze Nichirin-Klinge](https://japanisches-katana.de/products/katana-tanjiro-1): Das originale Katana von Tanjiro Kamado aus Demon Slayer Staffel 1: handgefertigte Replik der schwarzen Nichirin-Klinge. Jetzt bestellen.
-  Updated: 2026-10-03T10:31:26Z
+  Updated: 2026-11-11T22:14:56Z
   Vendor: Japanisches Katana
   Product Type: Katana
   Availability: Available
@@ -737,7 +737,7 @@
     Availability: Available
     Price: 300,00 € EUR
 - [Katana Koi 濃い | Japanisches Katana](https://japanisches-katana.de/products/katana-koi): SPEZIFIKATIONEN Farbe der Klinge Natürlicher Stahl Material Manganstahl Schwertstichblatt(Tsuba 鍔) Geschnitztes Eisen Säbelscheide (Saya 鞘) Ebenholz & Kurigata aus Stierhorn mit Schnur Griff Katana (tsuka 柄) Echtes Galuchat-LederMenuki-Set aus Eisen2 Mekugi aus Bambus DIMENSIONEN Länge mit Scheide 103 cm Länge mit Klinge 71 cm Klingenstärke 0.75 cm Länge des Griffs 26 cm Breite der Klinge 3.2 cm Der Katana Koi 濃い ist eine Hommage an die Tiefe und Subtilität des traditionellen japanischen Kunsthandwerks. Sein Name, der an Intensität und Reichtum erinnert, spiegelt sich in jedem Aspekt seines Designs und seiner hochwertigen Materialien wider. Klinge (刀身): Die Klinge ist aus Manganstahl geschmiedet, der für seine Haltbarkeit und seine Fähigkeit, eine scharfe Schneide zu erhalten, bekannt ist. Die natürliche Farbe des Stahls fügt ein Element der Authentizität hinzu und unterstreicht die Reinheit des Metalls und die Meisterschaft des Schmiedens. Garde (Tsuba 鍔): Die aus Eisen geschnitzte Garde ist ein Kunstwerk, das oft Elemente der Natur oder japanische historische Szenen darstellt. Es ist ein Attribut, das unweigerlich Gespräche und Bewunderung hervorruft. Schleife (Saya 鞘): Aus Ebenholz gefertigt, ist die Saya robust und elegant zugleich. Das Kurigata aus Stierhorn, das mit einer raffinierten Bespannung verziert ist, zeigt die Liebe zum Detail und die Verpflichtung zu Qualität und Ästhetik. Hand (Tsuka 柄): Das echte Rochenleder bietet nicht nur einen komfortablen Griff, sondern auch eine reichhaltige Textur, die einen angenehmen Kontrast zur Schlichtheit der Klinge bildet. Dieses Koi-Katana ist mehr als nur ein Sammlerstück oder ein Werkzeug für die Praxis. Es ist eine Erweiterung des Kriegers, eine Verbindung zur Vergangenheit und ein Ausdruck japanischer Handwerkskunst.
-  Updated: 2026-10-02T10:28:39Z
+  Updated: 2026-11-09T18:32:05Z
   Vendor: Japanisches Katana
   Product Type: Katana
   Availability: Available
@@ -935,7 +935,7 @@
     Availability: Available
     Price: 370,00 € EUR
 - [Schärfen Rasiermesser - Von einem Meister gemacht](https://japanisches-katana.de/products/affutage-rasoir-sabre-japonais)
-  Updated: 2026-11-04T18:39:26Z
+  Updated: 2026-11-13T14:17:30Z
   Vendor: Japanisches Katana
   Product Type: Zubehör
   Availability: Available
@@ -1129,7 +1129,7 @@
     Availability: Available
     Price: 410,00 € EUR
 - [Katana Toyotomi 豊臣氏 | Japanisches Katana](https://japanisches-katana.de/products/katana-toyotomi): SPEZIFIKATIONEN Klinge Stahl T10 mit Hamon und BO-HI Schwertstichblatt (Tsuba 鍔) Fein geformtes KupferC Säbelscheide (Saya 鞘) Lackiertes Holz mit dem Motiv des Totoyomi-Klans Griff Katana (tsuka 柄) Echtes schwarzes GaluchatMenuki aus Kupfer DIMENSIONS Länge mit Scheide 103 cm Länge der Klinge 71 cm Dicke der Klinge 0.75 cm Länge des Stiels 26 cm Breite der Klinge 3.2 cm Das Katana Toyotomi 豊臣氏 ist eine Verkörperung von Kunst und Geschichte und wurde entworfen, um das Wesen eines vergangenen Zeitalters einzufangen. Klinge (刀身) : Der T10-Stahl der Klinge wurde aufgrund seiner Reinheit und Stärke ausgewählt, wodurch ein deutlicher Hamon und ein BO-HI (Rinne) entstehen, der nicht nur die Klinge leichter macht, sondern auch einen hohen Klang bei einem schnellen Schlag bietet. Diese Eigenschaften machen die Klinge zu einer optimalen Wahl für die Praxis und Demonstration des Katana-Handlings. Garde (Tsuba 鍔) : Die Tsuba aus fein geschnitztem Kupfer ist nicht nur ästhetisch ansprechend, sondern auch langlebig. Kupfer, das für seine Formbarkeit bekannt ist, ermöglicht komplexe und subtile Details und garantiert gleichzeitig eine lange Lebensdauer des Ganzen - ein Vorteil für Sammler und Praktiker. Gabel (Saya 鞘) : Das lackierte Holz der Saya ist mit Motiven des Toyotomi-Clans verschönert und verleiht dem Katana eine historische Tiefe. Dieses Holz bietet einen zuverlässigen und widerstandsfähigen Schutz für die Klinge, während der Lack für ein glänzendes und langlebiges Finish sorgt. Griff (Tsuka 柄) : Das authentische schwarze Rochenleder bietet einen sicheren und bequemen Griff, wobei seine einzigartige Textur für mehr Griffigkeit sorgt. Die kupferfarbenen Menuki bereichern die Ästhetik und sorgen für zusätzliche Festigkeit bei der Montage des Griffs.
-  Updated: 2026-10-02T10:28:41Z
+  Updated: 2026-11-11T17:20:25Z
   Vendor: Japanisches Katana
   Product Type: Katana
   Availability: Available
@@ -1183,7 +1183,7 @@
     Availability: Available
     Price: 250,00 € EUR
 - [Katana Nami 波 | Japanisches Katana](https://japanisches-katana.de/products/katana-nami): SPEZIFIKATIONEN Klinge Stahl T10 mit Hamon Schwertstichblatt (Tsuba 鍔) Fein geformtes Kupfer Säbelscheide (Saya 鞘) Lackiertes Holz mit Drachenmotiv und Baumwoll-Sageo Griff Katana (tsuka 柄) Echtes weißes GaluchatMenuki aus Kupfer DIMENSIONEN Länge mit Scheide 103 cm Länge der Klinge 71 cm Dicke der Klinge 0.75 cm Länge des Stiels 26 cm Breite der Klinge 3.2 cm Das Katana Nami 波 ist ein funktionales Kunstwerk, das die Kraft und Eleganz der Wellen feiert, ein starkes Symbol in der japanischen Kultur. Klinge (刀身) : Der für diese Klinge gewählte T10-Stahl ist für seine Robustheit und seine Fähigkeit, eine scharfe Schneide zu erhalten, bekannt. Der eingearbeitete Hamon ist nicht nur ein ästhetisches Detail, sondern steht für Elastizität und Harmonie und spiegelt die Fähigkeit der Klinge wider, Stöße zu absorbieren, ohne zu brechen. Garde (Tsuba 鍔) : Die fein geschnitzte Tsuba aus Kupfer veranschaulicht handwerkliches Können und die Liebe zum Detail. Kupfer wird wegen seiner Leitfähigkeit und Formbarkeit geschätzt, die komplexe und detaillierte Schnitzereien ermöglichen. Darüber hinaus bietet es eine Patina, die sich mit der Zeit verändert und dem Katana einen einzigartigen und persönlichen Charakter verleiht. Fourreau (Saya 鞘) : Das lackierte Holz des Saya ist mit seinem Drachenmuster nicht nur optisch ansprechend, sondern schützt die Klinge auch effektiv. Die Lackierung verhindert, dass Feuchtigkeit in das Holz eindringt und schützt die Klinge so vor den Elementen. Der Sageo aus Baumwolle sorgt für einen sicheren Griff und erleichtert den Transport des Katanas. Griff (Tsuka 柄) : Mit seiner Beschichtung aus echtem weißen Rochenleder bietet der Griff aufgrund der natürlich haftenden Textur des Rochenleders einen außergewöhnlich guten Griff. Diese Eigenschaft, zusammen mit den Kupfermenuki, sorgt für eine sichere Handhabung und erhöht den Komfort während des Gebrauchs.
-  Updated: 2026-11-07T03:40:10Z
+  Updated: 2026-11-12T19:45:46Z
   Vendor: Japanisches Katana
   Product Type: Katana
   Availability: Available
@@ -1387,7 +1387,7 @@
     Availability: Available
     Price: 490,00 € EUR
 - [Support Katana | Japanisches Katana](https://japanisches-katana.de/products/support-katana): Eine Reihe von Katana-Ständern für ein, zwei oder drei Schwerter.Es ist nicht möglich, einen einzelnen Ständer ohne Schwert zu bestellen.
-  Updated: 2026-11-07T22:20:36Z
+  Updated: 2026-11-14T12:16:38Z
   Vendor: Japanisches Katana
   Product Type: Zubehör
   Availability: Available
@@ -1574,47 +1574,47 @@
   Updated: 2026-07-13T17:38:41Z
   Total Products: 1
 - [Katana kaufen](https://japanisches-katana.de/collections/katana-kaufen): Katana kaufen bei Japanisches-Katana: handgeschmiedete, funktionale Schwerter aus Kohlenstoffstahl – vom Einsteiger-Katana bis zum Sammlerstück.
-  Updated: 2026-11-07T12:17:29Z
-  Total Products: 157
+  Updated: 2026-11-14T12:14:51Z
+  Total Products: 163
 - [Ninjato](https://japanisches-katana.de/collections/ninjato): Ninjato kaufen: handgeschmiedete Ninja-Schwerter mit gerader Klinge aus Kohlenstoffstahl. Die legendäre Waffe der Shinobi – voll funktional.
   Updated: 2026-10-28T11:15:33Z
   Total Products: 4
 - [Katana Manga](https://japanisches-katana.de/collections/katana-manga): Manga-Katanas kaufen: handgeschmiedete Repliken legendärer Schwerter aus Manga und Anime – Demon Slayer, One Piece, Bleach, Naruto. Voll funktional.
-  Updated: 2026-11-07T12:17:29Z
+  Updated: 2026-11-14T12:14:51Z
   Total Products: 25
 - [Katana One Piece](https://japanisches-katana.de/collections/katana-one-piece): One-Piece-Katanas kaufen: handgeschmiedete Repliken – Zoros Wado Ichimonji, Enma, Yubashiri und Trafalgar Laws Kikoku. Echte Klingen, keine Deko.
-  Updated: 2026-11-07T12:17:29Z
+  Updated: 2026-11-13T12:16:19Z
   Total Products: 5
 - [Wakizashi](https://japanisches-katana.de/collections/wakizashi): Wakizashi kaufen: handgeschmiedete japanische Kurzschwerter aus Kohlenstoffstahl. Der traditionelle Begleiter des Katana – voll funktional, ab Lager.
   Updated: 2026-11-02T12:15:52Z
   Total Products: 9
 - [Katana Bleach](https://japanisches-katana.de/collections/katana-bleach): Bleach-Katanas kaufen: handgeschmiedete Repliken der Zanpakuto aus Bleach – Ichigos Zangetsu, Bankai und mehr. Echte Schwerter aus Kohlenstoffstahl.
-  Updated: 2026-11-05T12:14:13Z
+  Updated: 2026-11-08T12:12:43Z
   Total Products: 3
 - [Katana Demon Slayer](https://japanisches-katana.de/collections/katana-demon-slayer): Demon-Slayer-Katanas kaufen: handgeschmiedete Nichirin-Repliken von Tanjiro, Zenitsu, Rengoku, Giyu und mehr. Echte Schwerter aus Kohlenstoffstahl.
-  Updated: 2026-11-06T12:14:46Z
+  Updated: 2026-11-14T12:14:51Z
   Total Products: 11
 - [Tanto](https://japanisches-katana.de/collections/tanto): Tanto kaufen: handgeschmiedete japanische Kurzschwerter und Messer aus Kohlenstoffstahl – traditionell montiert, voll funktional. Jetzt entdecken.
-  Updated: 2026-11-04T12:14:21Z
+  Updated: 2026-11-14T12:14:51Z
   Total Products: 10
 - [Samurai-Rüstung](https://japanisches-katana.de/collections/samurai-rustung): Samurai-Rüstungen kaufen: tragbare Repliken in traditioneller Lamellenbauweise – Kabuto, Mempo und komplette Yoroi. Jetzt Kollektion entdecken.
   Updated: 2026-07-16T07:11:58Z
   Total Products: 5
 - [Hochwertige Katanas](https://japanisches-katana.de/collections/hochwertige-katanas): Hochwertige Katanas für Sammler: handgeschmiedet, gefalteter Stahl, echter Hamon, Full Tang. Traditionelle japanische Schwertkunst – jetzt entdecken.
-  Updated: 2026-11-04T12:14:21Z
+  Updated: 2026-11-09T12:15:38Z
   Total Products: 143
 - [Katanas Mittelklasse](https://japanisches-katana.de/collections/katanas-mittelklasse): Mittelklasse-Katanas: handgeschmiedet aus 1095- oder T10-Stahl, in Lehm gehärtet, mit echtem Hamon. Ideal für Sammler und Tameshigiri.
-  Updated: 2026-11-07T12:17:29Z
-  Total Products: 86
+  Updated: 2026-11-14T12:14:51Z
+  Total Products: 90
 - [Katanas Einstiegsklasse](https://japanisches-katana.de/collections/katana-einstiegsklasse): Katanas der Einstiegsklasse: handgeschmiedet, funktional und erschwinglich. Ideale erste Klinge für Einsteiger – aus 1045/1060-Kohlenstoffstahl mit Full Tang.
-  Updated: 2026-11-07T12:17:29Z
-  Total Products: 88
+  Updated: 2026-11-14T12:14:51Z
+  Total Products: 91
 - [COMING SOON](https://japanisches-katana.de/collections/coming-soon)
   Updated: 2026-07-13T17:38:43Z
   Total Products: 0
 - [Neuheiten](https://japanisches-katana.de/collections/neue-munzen): Die Neuheiten von Japanisches-Katana: neueste handgeschmiedete Katanas, Anime- und Gaming-Schwerter sowie mittelalterliche Klingen – jetzt entdecken.
-  Updated: 2026-11-02T12:15:52Z
-  Total Products: 33
+  Updated: 2026-11-10T19:45:52Z
+  Total Products: 13
 - [Antike japanische Schwerter (Nihonto)](https://japanisches-katana.de/collections/antike-japanische-schwerter-nihonto): Antike japanische Schwerter (Nihonto) kaufen: authentische Katana und Wakizashi mit Zertifikat, direkt aus Japan. Geprüfte Sammlerstücke entdecken.
   Updated: 2026-10-02T08:49:57Z
   Total Products: 59
@@ -1625,64 +1625,64 @@
   Updated: 2026-10-02T08:51:11Z
   Total Products: 3
 - [Mittelalterliches Schwert](https://japanisches-katana.de/collections/mittelalterliches-schwert): Mittelalterliche Schwerter kaufen: handgeschmiedete, voll funktionale Repliken europäischer Klingen – Langschwerter, Wikingerschwerter und mehr.
-  Updated: 2026-11-02T12:15:52Z
-  Total Products: 30
+  Updated: 2026-11-14T12:14:51Z
+  Total Products: 35
 - [Handgeschmiedete japanische Schwerter](https://japanisches-katana.de/collections/japanese-handmade-swords): Handgeschmiedete japanische Schwerter: Katana, Wakizashi, Tanto und Odachi aus Kohlenstoffstahl, gefertigt nach traditionellen Methoden. Jetzt entdecken.
-  Updated: 2026-11-07T12:17:29Z
-  Total Products: 348
+  Updated: 2026-11-14T12:14:51Z
+  Total Products: 361
 - [Taktische Schwerter](https://japanisches-katana.de/collections/taktische-schwerter): Moderne taktische Schwerter, voll funktionsfähig: Full-Tang-Federstahl, G10-Griffe, Kydex-Scheiden. Blackout-Katanas, Gladius, Kukri & mehr.
-  Updated: 2026-11-02T09:31:53Z
-  Total Products: 33
+  Updated: 2026-11-10T19:43:10Z
+  Total Products: 35
 - [Schwertständer](https://japanisches-katana.de/collections/schwertstander): Elegante Schwertständer aus Holz für Katana, Wakizashi & Tanto. Für ein oder mehrere Schwerter, stabil und dekorativ. Kostenloser Versand.
   Updated: 2026-11-07T12:17:29Z
   Total Products: 9
 - [Zoro Katana – Alle Schwerter von Roronoa Zoro (One Piece)](https://japanisches-katana.de/collections/zoro-katana): Zoro Katana kaufen: handgeschmiedete Repliken aller Schwerter von Roronoa Zoro aus One Piece – Wado Ichimonji, Enma und Yubashiri. Jetzt entdecken.
-  Updated: 2026-11-07T12:17:29Z
+  Updated: 2026-11-13T12:16:19Z
   Total Products: 4
 - [Anime Katana – Schwerter aus Anime & Gaming](https://japanisches-katana.de/collections/anime-katana): Anime-Katanas kaufen: handgeschmiedete Repliken aus Demon Slayer, One Piece, Bleach, Naruto und Elden Ring – echte Schwerter aus Kohlenstoffstahl.
-  Updated: 2026-11-07T12:17:29Z
+  Updated: 2026-11-14T12:14:51Z
   Total Products: 19
 - [Naginata kaufen – Japanische Stangenwaffen](https://japanisches-katana.de/collections/naginata-kaufen): Naginata kaufen: handgeschmiedete japanische Stangenwaffen und antike Naginata-Naoshi-Klingen. Die legendäre Waffe der Samurai und Onna-Bugeisha.
   Updated: 2026-10-02T08:49:51Z
   Total Products: 2
 - [T10-Stahl Katana](https://japanisches-katana.de/collections/t10-stahl-katana): T10-Stahl-Katanas kaufen: handgeschmiedet, in Lehm gehärtet, mit echtem Hamon. Extrem harter Werkzeugstahl für Tameshigiri und Sammler.
-  Updated: 2026-08-10T11:12:47Z
-  Total Products: 5
+  Updated: 2026-11-12T12:14:32Z
+  Total Products: 7
 - [Damast Katana](https://japanisches-katana.de/collections/damast-katana): Damast-Katanas kaufen: handgeschmiedet aus gefaltetem Stahl mit einzigartiger Hada-Maserung. Voll funktionale japanische Schwerter – jetzt entdecken.
-  Updated: 2026-11-01T12:12:17Z
-  Total Products: 6
+  Updated: 2026-11-10T19:42:57Z
+  Total Products: 8
 - [Promo HALLOWEEN10 (hors antiques)](https://japanisches-katana.de/collections/promo-halloween10): Collection technique du code HALLOWEEN10 : tous les produits sauf les antiques (Tokyo Nihonto). Non publiée.
-  Updated: 2026-11-07T12:17:29Z
-  Total Products: 341
+  Updated: 2026-11-14T12:14:51Z
+  Total Products: 354
 - [Promo KATANA30 (katanas hors antiques)](https://japanisches-katana.de/collections/promo-katanas)
-  Updated: 2026-11-07T12:17:29Z
-  Total Products: 215
+  Updated: 2026-11-14T12:14:51Z
+  Total Products: 221
 - [Promo KATANA30 (médiévales hors antiques)](https://japanisches-katana.de/collections/promo-medieval)
-  Updated: 2026-11-02T12:15:52Z
-  Total Products: 33
+  Updated: 2026-11-14T12:14:51Z
+  Total Products: 38
 - [Promo KATANA30 (épées tactiques hors antiques)](https://japanisches-katana.de/collections/promo-modern)
-  Updated: 2026-11-02T09:31:53Z
-  Total Products: 33
+  Updated: 2026-11-10T19:43:10Z
+  Total Products: 35
 - [Kingdom Come: Deliverance Repliken](https://japanisches-katana.de/collections/kingdom-come-deliverance-repliken)
-  Updated: 2026-11-04T13:55:00Z
-  Total Products: 3
+  Updated: 2026-11-14T12:14:51Z
+  Total Products: 4
 - [Der Herr der Ringe Repliken](https://japanisches-katana.de/collections/herr-der-ringe-repliken)
-  Updated: 2026-11-04T13:55:01Z
-  Total Products: 5
+  Updated: 2026-11-12T12:14:32Z
+  Total Products: 6
 - [The Witcher Repliken](https://japanisches-katana.de/collections/the-witcher-repliken)
-  Updated: 2026-11-04T13:55:02Z
-  Total Products: 2
+  Updated: 2026-11-10T19:43:05Z
+  Total Products: 3
 - [Game of Thrones Repliken](https://japanisches-katana.de/collections/game-of-thrones-repliken)
   Updated: 2026-11-04T13:55:03Z
   Total Products: 1
 - [Zweihänder & Bastardschwerter](https://japanisches-katana.de/collections/zweihander-schwerter): Zweihänder sind die Riesen des mittelalterlichen Arsenals: Bidenhänder, Bastardschwerter und Claymore-Klingen mit enormer Präsenz. Jedes Stück ist von Hand aus kohlenstoffreichem Stahl geschmiedet, mit durchgehender Angel und detailreichen Beschlägen – gemacht für Sammler und als Blickfang an der Wand.
-  Updated: 2026-11-04T13:55:05Z
+  Updated: 2026-11-11T12:17:53Z
   Total Products: 3
 - [Taktische Kydex-Schwerter](https://japanisches-katana.de/collections/taktische-kydex-schwerter)
   Updated: 2026-11-04T13:55:10Z
   Total Products: 13
 - [Premium-Katanas](https://japanisches-katana.de/collections/premium-katanas)
-  Updated: 2026-11-04T13:55:11Z
+  Updated: 2026-11-09T12:15:38Z
   Total Products: 59
 - [Katana Naruto](https://japanisches-katana.de/collections/katana-naruto)
   Updated: 2026-11-04T13:55:13Z
@@ -1803,7 +1803,7 @@
     Updated: 2026-07-16T06:49:39Z
     Author: Japanisches Katana
   - [Samurai-Schwert: Geschichte, Stahl, Pflege & Kauf – Der Guide](https://japanisches-katana.de/blogs/blog-katana/umfassender-leitfaden-zum-samuraischwert): Samurai-Schwert: Geschichte, Stahl, Pflege & Kauf – Der Guide
-    Updated: 2026-08-17T06:13:13Z
+    Updated: 2026-11-10T18:49:29Z
     Author: Japanisches Katana
   - [In Lehm gehärtetes Katana | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/in-lehm-gehartetes-katana): In Lehm gehärtetes Katana | Japanisches Katana
     Updated: 2026-07-16T07:08:18Z
@@ -1812,7 +1812,7 @@
     Updated: 2026-07-16T07:08:19Z
     Author: Japanisches Katana
   - [Gibt es heute noch Samurai in Japan? Die klare Antwort](https://japanisches-katana.de/blogs/blog-katana/gibt-es-in-japan-noch-samurai): Gibt es heute noch Samurai in Japan? Die klare Antwort
-    Updated: 2026-07-16T08:28:32Z
+    Updated: 2026-11-11T06:05:04Z
     Author: Japanisches Katana
   - [Ist das Katana eine gute Waffe? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/ist-das-katana-eine-gute-waffe): Ist das Katana eine gute Waffe? | Japanisches Katana
     Updated: 2026-08-17T06:09:41Z
@@ -2000,9 +2000,6 @@
   - [Katana in Deutschland kaufen: legal, seriös & worauf achten](https://japanisches-katana.de/blogs/blog-katana/wo-kann-man-in-deutschland-ein-katana-kaufen): Katana in Deutschland kaufen: legal, seriös & worauf achten
     Updated: 2026-07-16T08:28:41Z
     Author: Japanisches Katana
-  - [Anleitung zum Samurai-Schwert für Anfänger](https://japanisches-katana.de/blogs/blog-katana/anleitung-zum-samurai-schwert-fur-anfanger)
-    Updated: 2026-08-17T06:09:49Z
-    Author: Japanisches Katana
   - [Das teuerste japanische Schwert der Welt: Preise & Rekorde](https://japanisches-katana.de/blogs/blog-katana/das-teuerste-japanische-schwert): Das teuerste japanische Schwert der Welt: Preise & Rekorde
     Updated: 2026-07-16T08:28:05Z
     Author: Japanisches Katana
@@ -2013,7 +2010,7 @@
     Updated: 2026-07-16T08:28:12Z
     Author: Japanisches Katana
   - [Die 15 berühmtesten japanischen Schwertschmiede aller Zeiten](https://japanisches-katana.de/blogs/blog-katana/die-15-beruhmtesten-japanischen-schwertschmiede): Die 15 berühmtesten japanischen Schwertschmiede aller Zeiten
-    Updated: 2026-08-17T06:09:49Z
+    Updated: 2026-11-11T06:05:58Z
     Author: Japanisches Katana
   - [Die 15 berühmtesten japanischen Samurai | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/die-15-beruhmtesten-japanischen-samurai): Die 15 berühmtesten japanischen Samurai | Japanisches Katana
     Updated: 2026-07-16T07:08:39Z
@@ -2058,7 +2055,7 @@
     Updated: 2026-05-31T13:52:12Z
     Author: Japanisches-Katana.de Team
   - [T10 vs. 1095 vs. 1060 vs. Damast: Welchen Katana-Stahl solltest du wirklich kaufen? (2026)](https://japanisches-katana.de/blogs/blog-katana/katana-stahl-vergleich-t10-1095-1060-damast)
-    Updated: 2026-07-16T08:45:42Z
+    Updated: 2026-11-08T04:20:07Z
     Author: Japanisches-Katana.de Team
   - [Ist ein 200-€-Katana es wert? Ehrliche Antwort für Erstkäufer](https://japanisches-katana.de/blogs/blog-katana/ist-ein-200-euro-katana-es-wert)
     Updated: 2026-06-23T21:50:58Z
