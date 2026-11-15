@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-05-12T04:06:04Z
 - Contact Email: hello@harroman.com
-- Updated At: 2026-11-07T00:31:03.431Z
+- Updated At: 2026-11-15T00:31:27.662Z
 
 ## Products
 
 - [HARROMAN 2-in-1 Face Wash & Shave Stick](https://www.harroman.com/products/harroman-2-in-1-face-wash-shave-stick): Discover the HARROMAN shave stick: softens beard roots, protects skin, moisturizes & soothes. Perfect for travel with creamy, convenient 2-in-1 formula.
-  Updated: 2026-11-06T16:44:31Z
+  Updated: 2026-11-14T19:24:35Z
   Vendor: Harroman
   Product Type: 
   Availability: Available
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0684/6198/5948/files/harroman-razor-5-blade-platinum-coated-shaver-for-precision-1202964.jpg?v=1766714890
   Price: $29.00 USD
 - [Harroman Nose Scissors](https://www.harroman.com/products/harroman-nose-scissors)
-  Updated: 2026-11-06T18:57:21Z
+  Updated: 2026-11-14T19:24:32Z
   Vendor: HARROMAN
   Product Type: 
   Availability: Available
@@ -49,16 +49,16 @@
 ## Collections
 
 - [home page](https://www.harroman.com/collections/frontpage)
-  Updated: 2026-11-05T12:22:43Z
+  Updated: 2026-11-14T12:20:16Z
   Total Products: 3
 - [APPPlaza - Best Sellers](https://www.harroman.com/collections/appplaza-best-sellers)
-  Updated: 2026-11-05T12:22:43Z
+  Updated: 2026-11-14T12:20:16Z
   Total Products: 5
 - [AVADA - Best Sellers](https://www.harroman.com/collections/avada-best-sellers)
-  Updated: 2026-11-05T12:22:43Z
+  Updated: 2026-11-14T12:20:16Z
   Total Products: 5
 - [All item](https://www.harroman.com/collections/all-item)
-  Updated: 2026-11-05T12:22:43Z
+  Updated: 2026-11-14T12:20:16Z
   Total Products: 5
 
 ## Blogs
