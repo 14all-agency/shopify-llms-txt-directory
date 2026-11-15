@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-09-16T19:14:07Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-07T01:32:35.284Z
+- Updated At: 2026-11-15T01:09:02.485Z
 
 ## Products
 
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0780/6320/6644/files/SCTOTE-2.png?v=1761753420
   Price: $25.00 USD
 - [Healing Hearts Poster (SIGNED)](https://sofiacamara.merchmadeeasy.com/products/healing-hearts-poster-signed): Sofia Camara Healing Hearts Tour Poster! 11x17
-  Updated: 2026-11-01T02:38:07Z
+  Updated: 2026-11-12T19:39:03Z
   Vendor: Sofia Camara Official Store
   Product Type: Accessories
   Availability: Available
