@@ -8,7 +8,7 @@
 - Contact Email: info@hattonjewels.com
 - Contact Phone: 020 3116 0069
 - Address: 5 Hatton Place, London, EC1N 8RU
-- Updated At: 2026-11-07T00:34:54.552Z
+- Updated At: 2026-11-15T00:31:42.179Z
 
 Hatton Jewels is a specialist fine jewellery business based in Hatton Garden, London's historic jewellery district. We specialise in buying and  antique, vintage, pre-owned and luxury jewellery, bespoke jewellery design, engagement rings and professional jewellery valuations.
 
@@ -27,7 +27,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
 ## Products
 
 - [Amity Oval Diamond Wave Engagement Ring](https://hattonjewels.com/products/18ct-gold-oval-diamond-wave-engagement-ring): Beautifully handcrafted engagement ring uniquely designed and custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Amity Collection, this ring showcases uniquely designed to celebrate the unique bond you share, crafted to stand apart and shine forever. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:55:33Z
+  Updated: 2026-11-13T11:40:15Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -42,13 +42,13 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £10,000.00 GBP
 - [Appointment](https://hattonjewels.com/products/appointment): Appointment
-  Updated: 2026-10-27T00:55:33Z
+  Updated: 2026-11-13T11:40:15Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Price: £0.00 GBP
 - [Timeless Diamond Solitaire Engagement Ring](https://hattonjewels.com/products/timeless-round-diamond-solitaire-engagement-ring): Beautifully handcrafted solitaire engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, paired with a Natural Diamond of your choice, available in a range of carat weights, colour and clarity grades to create a piece that is uniquely yours. Part of our Timeless Collection, this ring embodies enduring elegance that will last a lifetime. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:55:37Z
+  Updated: 2026-11-13T11:40:16Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -66,21 +66,21 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £20,000.00 GBP
 - [Lumine Three Stone Diamond Engagement Ring](https://hattonjewels.com/products/lumine-three-stone-diamond-engagement-ring): Beautifully handcrafted statement engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Lumine collection, meticulously curated high jewellery designs, embodying everlasting elegance and love, and exquisite symbol of love for your most meaningful moment. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:55:37Z
+  Updated: 2026-11-13T11:40:16Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Bespoke_Three_Stone_Engagement_Ring01.jpg?v=1789726269
   Price: £10,000.00 GBP
 - [Amore Asymmetric Toi et Moi Engagement Ring](https://hattonjewels.com/products/amore-asymmetric-toi-et-moi-diamond-engagement-ring): Beautifully handcrafted two stone engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Amore Collection, translating to "You and Me" in French, symbolising the intertwining of two in a timeless design. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:55:37Z
+  Updated: 2026-11-13T11:40:20Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/AmoreAsymmetricToietMoiDiamondEngagmentRing.jpg?v=1789726269
   Price: £6,000.00 GBP
 - [Lumine Oval Diamond and Pear Shape Engagement Ring](https://hattonjewels.com/products/lumine-oval-diamond-engagement-ring): Beautifully handcrafted statement engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Lumine collection, meticulously curated high jewellery designs, embodying everlasting elegance and love, and exquisite symbol of love for your most meaningful moment. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:55:42Z
+  Updated: 2026-11-13T11:40:20Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -95,7 +95,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £45,000.00 GBP
 - [Timeless Oval Diamond Solitaire Engagement Ring](https://hattonjewels.com/products/timeless-oval-diamond-solitaire-engagement-ring): Beautifully handcrafted solitaire engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, paired with a natural Diamond of your choice, available in a range of carat weights, colour and clarity grades to create a piece that is uniquely yours. Part of our Timeless Collection, this ring embodies enduring elegance that will last a lifetime. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:55:42Z
+  Updated: 2026-11-13T11:40:25Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -113,7 +113,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £20,000.00 GBP
 - [Unity Marquise Diamond Engagement Ring](https://hattonjewels.com/products/unity-marquise-diamond-engagement-ring): Beautifully handcrafted three stone engagement ring design, also referred to as a trilogy design, custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Unity Collection, symbolising the past, present and future, showcasing a trio of sparkling stones that represent your unique love story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:55:46Z
+  Updated: 2026-11-13T11:40:25Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -128,7 +128,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £20,000.00 GBP
 - [Vintage Pear Shape Diamond Engagement Ring](https://hattonjewels.com/products/vintage-pear-shape-diamond-engagement-ring): Beautifully handcrafted vintage style engagement ring custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Vintage Collection, designed with the charm and romance of a bygone era, a celebration of enduring style and everlasting beauty. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:55:47Z
+  Updated: 2026-11-13T11:40:33Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -143,21 +143,21 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £20,000.00 GBP
 - [Unity Oval Diamond Three Stone Engagement Ring](https://hattonjewels.com/products/unity-oval-diamond-three-stone-engagement-ring): Beautifully handcrafted three stone engagement ring design, also referred to as a trilogy design, custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Unity Collection, symbolising the past, present and future, showcasing a trio of sparkling stones that represent your unique love story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:55:46Z
+  Updated: 2026-11-13T11:40:48Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Unity_Oval_Diamond_Three_Stone_Engagement_Ring_1.jpg?v=1789726268
   Price: £5,000.00 GBP
 - [Darling Sapphire and Diamond Three Stone Ring](https://hattonjewels.com/products/darling-sapphire-and-diamond-three-stone-ring): Beautifully handcrafted Sapphire ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Darling Collection, featuring gorgeous gemstones that add a personal touch, perfect for reflecting and celebrating a love as unique and colourful as your story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:55:47Z
+  Updated: 2026-11-13T11:40:28Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/DarlingSapphireandRoundDiamondThreeStoneEngagementRing_1.jpg?v=1789726268
   Price: £4,000.00 GBP
 - [Timeless Six Claw Diamond Solitaire Engagement Ring](https://hattonjewels.com/products/timeless-six-claw-round-diamond-solitaire-engagement-ring): Beautifully handcrafted six claw solitaire engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, paired with a natural Diamond of your choice, available in a range of carat weights, colour and clarity grades to create a piece that is uniquely yours. Part of our Timeless Collection, this ring embodies enduring elegance that will last a lifetime. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:55:51Z
+  Updated: 2026-11-13T11:40:47Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -172,14 +172,14 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £10,000.00 GBP
 - [Darling Sapphire and Pear Shape Three Stone Ring](https://hattonjewels.com/products/darling-sapphire-and-pear-shape-three-stone-ring): Beautifully handcrafted Sapphire ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Darling Collection, featuring gorgeous gemstones that add a personal touch, perfect for reflecting and celebrating a love as unique and colourful as your story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:55:52Z
+  Updated: 2026-11-13T11:40:37Z
   Vendor: Hatton Jewels
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/DarlingSapphireandPearShapeDiamondThreeStoneEngagementRing.jpg?v=1789726269
   Price: £4,000.00 GBP
 - [Lumine Six Claw Diamond Solitaire Engagement Ring](https://hattonjewels.com/products/lumine-six-claw-diamond-solitaire-engagement-ring): Beautifully handcrafted statement engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Lumine collection, meticulously curated high jewellery designs, embodying everlasting elegance and love, and exquisite symbol of love for your most meaningful moment. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:55:51Z
+  Updated: 2026-11-13T11:40:54Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -194,21 +194,21 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £70,000.00 GBP
 - [Darling Inverse Sapphire and Diamond Ring](https://hattonjewels.com/products/darling-inverse-sapphire-and-diamond-ring): Beautifully handcrafted Sapphire ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Darling Collection, featuring gorgeous gemstones that add a personal touch, perfect for reflecting and celebrating a love as unique and colourful as your story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:55:56Z
+  Updated: 2026-11-13T11:40:53Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/DarlingInverseSapphireandDiamondEngagementRing.jpg?v=1750866718
   Price: £3,000.00 GBP
 - [Unity Three Stone Engagement Ring](https://hattonjewels.com/products/unity-three-stone-engagement-ring): Beautifully handcrafted three stone engagement ring design, also referred to as a trilogy design, custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Unity Collection, symbolising the past, present and future, showcasing a trio of sparkling stones that represent your unique love story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:55:56Z
+  Updated: 2026-11-13T11:40:54Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Unity_Three_Stone_Engagement_Ring_1.png?v=1789726269
   Price: £3,000.00 GBP
 - [Lumine Diamond Engagement Ring](https://hattonjewels.com/products/lumine-diamond-engagement-ring): Beautifully handcrafted statement engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Lumine collection, meticulously curated high jewellery designs, embodying everlasting elegance and love, and exquisite symbol of love for your most meaningful moment. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:55:56Z
+  Updated: 2026-11-13T11:40:50Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -223,28 +223,28 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £50,000.00 GBP
 - [Darling Ruby and Diamond Three Stone Ring](https://hattonjewels.com/products/darling-ruby-and-diamond-three-stone-ring): Beautifully handcrafted Ruby ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Darling Collection, featuring gorgeous gemstones that add a personal touch, perfect for reflecting and celebrating a love as unique and colourful as your story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:55:56Z
+  Updated: 2026-11-13T11:40:48Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Darling_Ruby_and_Round_Diamond_Three_Stone_Engagement_Ring5_1.jpg?v=1789726269
   Price: £8,000.00 GBP
 - [Essence Emerald Cut Diamond Engagement Ring](https://hattonjewels.com/products/essence-emerald-cut-diamond-engagement-ring): Beautifully handcrafted five Diamond engagement ring designs custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Essence Collection embodies refined beauty and radiant sparkle, that celebrates the true spirit and brilliance of everlasting love. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:01Z
+  Updated: 2026-11-13T11:40:56Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/EssenceEmeraldCutDiamondEngagementRing_1.jpg?v=1750951951
   Price: £7,000.00 GBP
 - [Unity Emerald Cut Diamond Three Stone Engagement Ring](https://hattonjewels.com/products/unity-emerald-cut-diamond-three-stone-engagement-ring): Beautifully handcrafted three stone engagement ring design, also referred to as a trilogy design, custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Unity Collection, symbolising the past, present and future, showcasing a trio of sparkling stones that represent your unique love story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:01Z
+  Updated: 2026-11-13T11:40:55Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Unity_Emerald_Cut_Diamond_Three_Stone_Engagement_Ring.jpg?v=1750952370
   Price: £5,000.00 GBP
 - [Timeless Diamond Solitaire Twist Engagement Ring](https://hattonjewels.com/products/timeless-diamond-solitaire-twist-engagement-ring): Beautifully handcrafted solitaire engagement ring with a twist design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, paired with a natural Diamond of your choice, available in a range of carat weights, colour and clarity grades to create a piece that is uniquely yours. Part of our Timeless Collection, this ring embodies enduring elegance that will last a lifetime. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:01Z
+  Updated: 2026-11-13T11:40:44Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -262,7 +262,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £20,000.00 GBP
 - [Vintage Emerald Cut Diamond Engagement Ring](https://hattonjewels.com/products/vintage-emerald-cut-diamond-engagement-ring): Beautifully handcrafted Art Deco style engagement ring custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Vintage Collection, designed with the charm and romance of a bygone era, a celebration of enduring style and everlasting beauty. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:01Z
+  Updated: 2026-11-13T11:40:50Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -277,7 +277,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £20,000.00 GBP
 - [Timeless Asscher Cut Diamond Engagement Ring](https://hattonjewels.com/products/timeless-asscher-cut-diamond-engagement-ring): Beautifully handcrafted solitaire engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, paired with a natural Diamond of your choice, available in a range of carat weights, colour and clarity grades to create a piece that is uniquely yours. Part of our Timeless Collection, this ring embodies enduring elegance that will last a lifetime. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:06Z
+  Updated: 2026-11-13T11:40:59Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -292,28 +292,28 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £20,000.00 GBP
 - [Unity Round Diamond and Pear Shape Engagement Ring](https://hattonjewels.com/products/unity-round-diamond-and-pear-shape-engagement-ring): Beautifully handcrafted three stone engagement ring design, also referred to as a trilogy design, custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Unity Collection, symbolising the past, present and future, showcasing a trio of sparkling stones that represent your unique love story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:05Z
+  Updated: 2026-11-13T11:40:50Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/UnityRoundDiamondandPearShapeEngagementRing1.jpg?v=1751035586
   Price: £4,000.00 GBP
 - [Vintage Diamond Target Ring](https://hattonjewels.com/products/vintage-diamond-and-ruby-target-ring): Beautifully handcrafted vintage target engagement ring custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Vintage Collection, designed with the charm and romance of a bygone era, a celebration of enduring style and everlasting beauty. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:06Z
+  Updated: 2026-11-13T11:40:52Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/VintageDiamondandRubyTargetRing.jpg?v=1751036488
   Price: £4,000.00 GBP
 - [Darling Emerald and Diamond Five Stone Ring](https://hattonjewels.com/products/darling-emerald-and-diamond-five-stone-ring): Beautifully handcrafted engagement ring designs custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Essence Collection embodies refined beauty and radiant sparkle, that celebrates the true spirit and brilliance of everlasting love. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:11Z
+  Updated: 2026-11-13T11:41:06Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Essence_Emerald_and_Diamond_Five_Stone_Ring.jpg?v=1751037580
   Price: £4,000.00 GBP
 - [Lumine Asscher Cut Diamond Engagement Ring](https://hattonjewels.com/products/lumine-asscher-cut-diamond-engagement-ring): Beautifully handcrafted statement engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Lumine collection, meticulously curated high jewellery designs, embodying everlasting elegance and love, and exquisite symbol of love for your most meaningful moment. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:11Z
+  Updated: 2026-11-13T11:41:06Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -328,7 +328,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £50,000.00 GBP
 - [Lumine Round Diamond and Baguette Engagement Ring](https://hattonjewels.com/products/lumine-round-diamond-and-baguette-engagement-ring): Beautifully handcrafted vintage Edwardian inspired engagement ring custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Vintage Collection, designed with the charm and romance of a bygone era, a celebration of enduring style and everlasting beauty. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:11Z
+  Updated: 2026-11-13T11:40:55Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -343,21 +343,21 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £50,000.00 GBP
 - [Unity Round Diamond and Marquise Engagement Ring](https://hattonjewels.com/products/unity-round-diamond-and-marquise-engagement-ring): Beautifully handcrafted three stone engagement ring design, also referred to as a trilogy design, custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Unity Collection, symbolising the past, present and future, showcasing a trio of sparkling stones that represent your unique love story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:11Z
+  Updated: 2026-11-13T11:40:57Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Unity_Round_Diamond_and_Marquise_Engagement_Ring.jpg?v=1751038917
   Price: £4,000.00 GBP
 - [Unity Emerald Cut and Trapeze Cut Diamond Ring](https://hattonjewels.com/products/unity-emerald-cut-and-trapeze-cut-diamond-ring): Beautifully handcrafted three stone engagement ring design, also referred to as a trilogy design, custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Unity Collection, symbolising the past, present and future, showcasing a trio of sparkling stones that represent your unique love story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:16Z
+  Updated: 2026-11-13T11:40:59Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Unity_Emerald_Cut_and_Trapeze_Cut_Diamond_Ring.jpg?v=1751039774
   Price: £10,000.00 GBP
 - [Serene Diamond Bezel Eternity Ring](https://hattonjewels.com/products/serene-diamond-eternity-ring): A handmade rubover set eternity ring design, this ring has modern and durable design with a scalloped edge to enhance the Diamonds. Part of our Serene Collection, this design showcases a sleek and modern take on classic elegance. Choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:16Z
+  Updated: 2026-11-13T11:41:21Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -369,7 +369,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £3,000.00 GBP
 - [Micro-Set Diamond Eternity Ring](https://hattonjewels.com/products/micro-set-diamond-eternity-ring): A handmade micro-set eternity ring design, set with brilliant cut Diamonds. This ring has modern and durable design with a scalloped edge to enhance the shape of the Diamonds. Choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:16Z
+  Updated: 2026-11-13T11:41:23Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -381,21 +381,21 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £1,800.00 GBP
 - [Everglow Diamond and Baguette Shoulders Engagement Ring](https://hattonjewels.com/products/everglow-diamond-and-baguette-shoulders-engagement-ring): Beautifully handcrafted engagement ring designs custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Everglow Collection, this ring captures an enduring radiance, symbolising a love that shines beautifully through every moment. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:16Z
+  Updated: 2026-11-13T11:41:24Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Everglow_Diamond_and_Baguette_Shoulders_Engagement_Ring.jpg?v=1751280374
   Price: £4,000.00 GBP
 - [Essence Five Stone Ring](https://hattonjewels.com/products/essence-five-stone-engagement-ring): Beautifully handcrafted five stone engagement ring designs custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Essence Collection embodies refined beauty and radiant sparkle, that celebrates the true spirit and brilliance of everlasting love. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:17Z
+  Updated: 2026-11-13T11:41:04Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Five_Stone_Diamond_Ring03.jpg?v=1789726209
   Price: £4,000.00 GBP
 - [Grain-Set Diamond Eternity Ring](https://hattonjewels.com/products/grain-set-diamond-eternity-ring): A handmade grain-set brilliant eternity ring design. Choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:22Z
+  Updated: 2026-11-13T11:41:06Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -407,14 +407,14 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £2,000.00 GBP
 - [Darling Emerald and Asscher Diamond Three Stone Ring](https://hattonjewels.com/products/darling-emerald-and-asscher-diamond-three-stone-ring): Beautifully handcrafted Emerald and Diamond ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Darling Collection, featuring gorgeous gemstones that add a personal touch, perfect for reflecting and celebrating a love as unique and colourful as your story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:22Z
+  Updated: 2026-11-13T11:41:03Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/DarlingEmeraldandAsscherDiamondThreeStoneRing_1.jpg?v=1751283353
   Price: £15,000.00 GBP
 - [Lumine Marquise Diamond Engagement Ring](https://hattonjewels.com/products/lumine-marquise-diamond-engagement-ring): Beautifully handcrafted statement engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Lumine collection, meticulously curated high jewellery designs, embodying everlasting elegance and love, and exquisite symbol of love for your most meaningful moment. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:21Z
+  Updated: 2026-11-13T11:41:31Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -429,14 +429,14 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £60,000.00 GBP
 - [Darling Tourmaline and Diamond Five Stone Ring](https://hattonjewels.com/products/darling-tourmaline-and-diamond-five-stone-ring): Beautifully handcrafted coloured gemstone engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Darling Collection, featuring gorgeous gemstones that add a personal touch, perfect for reflecting and celebrating a love as unique and colourful as your story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:22Z
+  Updated: 2026-11-13T11:41:31Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/DarlingTourmalineandDiamondFiveStone.jpg?v=1789726209
   Price: £3,000.00 GBP
 - [Mini Micro-Set Diamond Eternity Ring](https://hattonjewels.com/products/mini-micro-set-diamond-eternity-ring): A handmade delicate mini-micro set eternity ring design, set with brilliant cuts. Choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:26Z
+  Updated: 2026-11-13T11:41:37Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -448,7 +448,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £1,500.00 GBP
 - [Amity Heart Shape Diamond Ring](https://hattonjewels.com/products/amity-heart-shape-diamond-ring): A sweet heart shaped and marquise cut diamond three stone ring design. Beautifully handcrafted engagement ring uniquely designed and custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Amity Collection, this ring showcases a unique take on a classic three stone design, making for a stunning engagement ring or addition to a fine jewellery collection. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:26Z
+  Updated: 2026-11-13T11:41:19Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -463,14 +463,14 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £25,000.00 GBP
 - [Sapphire and Diamond Step Down Ring](https://hattonjewels.com/products/sapphire-and-diamond-step-down-ring): Handcrafted Dress Ring design, choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Add a touch of glamour with our dress rings, also known as cocktail rings. Featuring gorgeous gemstones and intricate designs, they’re ideal for special occasions or elevating everyday looks. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:27Z
+  Updated: 2026-11-13T11:41:32Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Emerald_Cut_Sapphire_and_Diamond_Ring4.jpg?v=1751453909
   Price: £15,000.00 GBP
 - [Claw-Set Diamond Eternity Ring](https://hattonjewels.com/products/claw-set-diamond-eternity-ring): A handmade claw-set brilliant eternity ring design. Choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:32Z
+  Updated: 2026-11-13T11:41:15Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -482,28 +482,28 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £2,000.00 GBP
 - [Darling Oval Sapphire Solitaire Ring](https://hattonjewels.com/products/darling-oval-sapphire-solitaire-ring): Beautifully handcrafted coloured gemstone engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Darling Collection, featuring gorgeous gemstones that add a personal touch, perfect for reflecting and celebrating a love as unique and colourful as your story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:32Z
+  Updated: 2026-11-13T11:41:37Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Darling_Oval_Sapphire_Soliatire_Ring.jpg?v=1751292329
   Price: £3,000.00 GBP
 - [Darling Oval Sapphire and Baguette Shoulders Ring](https://hattonjewels.com/products/darling-oval-sapphire-and-baguette-shoulders-ring): Beautifully handcrafted coloured gemstone ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Darling Collection, featuring gorgeous gemstones that add a personal touch, perfect for reflecting and celebrating a love as unique and colourful as your story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:32Z
+  Updated: 2026-11-13T11:41:25Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Darling_Oval_Sapphire_and_Baguette_Shoulders_Ring.jpg?v=1751293096
   Price: £5,000.00 GBP
 - [Darling Oval Sapphire and Diamond Five Stone Ring](https://hattonjewels.com/products/darling-oval-sapphire-and-diamond-five-stone-ring): Beautifully handcrafted coloured gemstone ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Darling Collection, featuring gorgeous gemstones that add a personal touch, perfect for reflecting and celebrating a love as unique and colourful as your story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:32Z
+  Updated: 2026-11-13T11:41:31Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Darling_Oval_Sapphire_and_Diamond_Five_Stone_Ring.jpg?v=1751293317
   Price: £6,000.00 GBP
 - [French Cut Diamond Eternity Ring](https://hattonjewels.com/products/french-cut-diamond-eternity-ring): A handmade French cut Diamond eternity ring design. Choose from 18ct White, Yellow, Rose Gold or Platinum to compliment the natural Diamonds, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:36Z
+  Updated: 2026-11-13T11:41:32Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -515,7 +515,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £3,000.00 GBP
 - [Channel Set Diamond Eternity Ring](https://hattonjewels.com/products/channel-set-diamond-eternity-ring): A handmade channel set Diamond eternity ring design. Choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:36Z
+  Updated: 2026-11-13T11:41:20Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -527,14 +527,14 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £3,000.00 GBP
 - [Darling Sapphire and Diamond Step Down Ring](https://hattonjewels.com/products/darling-sapphire-and-diamond-step-down-ring): Beautifully handcrafted coloured gemstone engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Darling Collection, featuring gorgeous gemstones that add a personal touch, perfect for reflecting and celebrating a love as unique and colourful as your story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:36Z
+  Updated: 2026-11-13T11:41:24Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/DarlingSapphireandDiamondFiveStone_1.jpg?v=1751299532
   Price: £5,000.00 GBP
 - [Horizontal Baguette Cut Diamond Eternity Ring](https://hattonjewels.com/products/horizontal-baguette-cut-diamond-eternity-ring): A handmade horizontal baguette cut Diamond eternity ring design. Choose from 18ct White, Yellow, Rose Gold or Platinum to compliment the natural Diamonds, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:36Z
+  Updated: 2026-11-13T11:41:49Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -546,14 +546,14 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £3,000.00 GBP
 - [Vintage Sapphire and Diamond Cluster Ring](https://hattonjewels.com/products/vintage-sapphire-and-diamond-cluster-ring): Beautifully handcrafted vintage style engagement ring custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Vintage Collection, designed with the charm and romance of a bygone era, a celebration of enduring style and everlasting beauty. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:41Z
+  Updated: 2026-11-13T11:41:38Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Vintage_Sapphire_and_Diamond_Cluster_Ring.jpg?v=1751296058
   Price: £7,000.00 GBP
 - [Lumine Emerald Cut Diamond and Baguette Shoulders Engagement Ring](https://hattonjewels.com/products/lumine-emerald-cut-diamond-and-baguette-shoulders-engagement-ring): Beautifully handcrafted engagement ring designs custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Lumine collection, meticulously curated high jewellery designs, embodying everlasting elegance and love, and exquisite symbol of love for your most meaningful moment. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:41Z
+  Updated: 2026-11-13T11:41:32Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -568,7 +568,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £50,000.00 GBP
 - [Vertical Baguette Cut Diamond Eternity Ring](https://hattonjewels.com/products/vertical-baguette-cut-diamond-eternity-ring): A handmade vertical baguette cut Diamond eternity ring design. Choose from 18ct White, Yellow, Rose Gold or Platinum to compliment the natural Diamonds, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:41Z
+  Updated: 2026-11-13T11:41:45Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -580,7 +580,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £3,000.00 GBP
 - [Princess Cut Eternity Ring](https://hattonjewels.com/products/princess-cut-eternity-ring): A handmade princess cut eternity ring design. Choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:46Z
+  Updated: 2026-11-13T11:41:57Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -592,14 +592,14 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £3,000.00 GBP
 - [Darling Sapphire and Diamond Trefoil Ring](https://hattonjewels.com/products/darling-sapphire-and-diamond-trefoil-ring): Beautifully handcrafted coloured gemstone ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Darling Collection, featuring gorgeous gemstones that add a personal touch, perfect for reflecting and celebrating a love as unique and colourful as your story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:46Z
+  Updated: 2026-11-13T11:41:43Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/DarlingSapphireandDiamondTrefoilRing.jpg?v=1751296600
   Price: £8,000.00 GBP
 - [Mixed Cut Diamond Eternity Ring](https://hattonjewels.com/products/mixed-cut-diamond-eternity-ring): A handmade mixed cut Diamond eternity ring design. Choose from 18ct White, Yellow, Rose Gold or Platinum to compliment the natural Diamonds, available in a range of Diamond cuts and specifications, in different widths to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:46Z
+  Updated: 2026-11-13T11:41:43Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -611,7 +611,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £3,000.00 GBP
 - [Everglow Cushion Cut Diamond Engagement Ring](https://hattonjewels.com/products/everglow-cushion-cut-diamond-engagement-ring): Beautifully handcrafted engagement ring designs custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Everglow Collection, this ring captures an enduring radiance, symbolising a love that shines beautifully through every moment. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:47Z
+  Updated: 2026-11-13T11:41:30Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -626,42 +626,42 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £20,000.00 GBP
 - [Darling Emerald Cut Sapphire and Diamond Three Stone Ring](https://hattonjewels.com/products/darling-emerald-cut-sapphire-and-diamond-three-stone-ring): Beautifully handcrafted coloured gemstone engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Darling Collection, featuring gorgeous gemstones that add a personal touch, perfect for reflecting and celebrating a love as unique and colourful as your story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:52Z
+  Updated: 2026-11-13T11:41:51Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Darling_Emerald_Cut_Sapphire_and_Diamond_Three_Stone_Ring_1.jpg?v=1789726208
   Price: £4,000.00 GBP
 - [Vintage Diamond Cluster Engagement Ring](https://hattonjewels.com/products/vintage-diamond-cluster-engagement-ring): Beautifully handcrafted vintage style engagement ring custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Vintage Collection, designed with the charm and romance of a bygone era, a celebration of enduring style and everlasting beauty. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:51Z
+  Updated: 2026-11-13T11:41:36Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Vintage_Diamond_Cluster_Engagement_Ring_1.jpg?v=1751298778
   Price: £5,000.00 GBP
 - [Oval Sapphire Halo Dress Ring](https://hattonjewels.com/products/oval-sapphire-halo-dress-ring): Handcrafted Dress Ring design, choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Add a touch of glamour with our dress rings, also known as cocktail rings. Featuring gorgeous gemstones and intricate designs, they’re ideal for special occasions or elevating everyday looks. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:51Z
+  Updated: 2026-11-13T11:41:53Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/OvalSapphireHaloDressRing_1.jpg?v=1789726208
   Price: £10,000.00 GBP
 - [Eternelle Diamond Halo Engagement Ring](https://hattonjewels.com/products/eternelle-diamond-halo-engagement-ring): Beautifully handcrafted Diamond engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Eternelle Collection, designed to beautifully amplify its brilliance, a radiant symbol of love that lasts forever. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:51Z
+  Updated: 2026-11-13T11:41:37Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Eternelle_Diamond_Halo_Engagement_Ring_1.jpg?v=1751310248
   Price: £5,000.00 GBP
 - [Unity Oval Diamond and Pear Shape Engagement Ring](https://hattonjewels.com/products/unity-oval-diamond-and-pear-shape-engagement-ring): Beautifully handcrafted three stone engagement ring design, also referred to as a trilogy design, custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Unity Collection, symbolising the past, present and future, showcasing a trio of sparkling stones that represent your unique love story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:57Z
+  Updated: 2026-11-13T11:41:58Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Unity_Oval_Diamond_and_Pear_Shape_Engagement_Ring5.jpg?v=1789726149
   Price: £8,000.00 GBP
 - [Eternelle Cushion Cut Diamond Halo Engagement Ring](https://hattonjewels.com/products/eternelle-cushion-cut-diamond-halo-engagement-ring): Beautifully handcrafted Diamond engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Eternelle Collection, designed to beautifully amplify its brilliance, a radiant symbol of love that lasts forever. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:57Z
+  Updated: 2026-11-13T11:41:56Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -676,42 +676,42 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £20,000.00 GBP
 - [Lumine Sapphire and Diamond Three Stone Ring](https://hattonjewels.com/products/lumine-sapphire-and-diamond-three-stone-ring): Beautifully handcrafted statement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Lumine collection, meticulously curated high jewellery designs, embodying everlasting elegance and love, and exquisite symbol of love for your most meaningful moment. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:56Z
+  Updated: 2026-11-13T11:41:41Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Lumine_Sapphire_and_Diamond_Three_Stone_Engagement_Ring_1.jpg?v=1789726149
   Price: £10,000.00 GBP
 - [Eternelle Oval Diamond Halo Engagement Ring](https://hattonjewels.com/products/eternelle-oval-diamond-halo-engagement-ring): Beautifully handcrafted Diamond engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Eternelle Collection, designed to beautifully amplify its brilliance, a radiant symbol of love that lasts forever. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:56Z
+  Updated: 2026-11-13T11:41:57Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Eternelle_Oval_Diamond_Halo_Engagement_Ring_1.jpg?v=1751361084
   Price: £4,000.00 GBP
 - [Amity Love Knot Diamond Engagement Ring](https://hattonjewels.com/products/amity-love-knot-diamond-engagement-ring): A beautiful diamond ring in a love knot design. Beautifully handcrafted engagement ring uniquely designed and custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Amity Collection, this ring showcases a unique take on a classic cluster design, making for a stunning engagement ring or addition to a fine jewellery collection. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:56:57Z
+  Updated: 2026-11-13T11:41:52Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Eternelle_Love_Knot_Diamond_Engagement_Ring_1.jpg?v=1751361453
   Price: £7,000.00 GBP
 - [Darling Sapphire and Diamond Halo Ring](https://hattonjewels.com/products/darling-sapphire-and-diamond-halo-ring): Beautifully handcrafted coloured gemstone engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Darling Collection, featuring gorgeous gemstones that add a personal touch, perfect for reflecting and celebrating a love as unique and colourful as your story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:57:02Z
+  Updated: 2026-11-13T11:42:02Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Darling_Sapphire_and_Diamond_Halo_Engagement_Ring_1.jpg?v=1789726149
   Price: £6,000.00 GBP
 - [Unity Asscher Cut Three Stone Engagement Ring](https://hattonjewels.com/products/unity-asscher-cut-three-stone-engagement-ring): Beautifully handcrafted three stone engagement ring design, also referred to as a trilogy design, custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Unity Collection, symbolising the past, present and future, showcasing a trio of sparkling stones that represent your unique love story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:57:02Z
+  Updated: 2026-11-13T11:41:47Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Unity_Asscher_Cut_Three_Stone_Engagement_Ring_1.jpg?v=1789726149
   Price: £15,000.00 GBP
 - [Lumine Diamond Solitaire Engagement Ring](https://hattonjewels.com/products/lumine-diamond-solitaire-engagement-ring): Beautifully handcrafted statement engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Lumine collection, meticulously curated high jewellery designs, embodying everlasting elegance and love, and exquisite symbol of love for your most meaningful moment. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:57:02Z
+  Updated: 2026-11-13T11:41:47Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -726,14 +726,14 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £50,000.00 GBP
 - [Lumine Sapphire and Pear Shape Three Stone Ring](https://hattonjewels.com/products/lumine-sapphire-and-pear-shape-three-stone-ring): Beautifully handcrafted coloured gemstone engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Darling Collection, featuring gorgeous gemstones that add a personal touch, perfect for reflecting and celebrating a love as unique and colourful as your story. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:57:02Z
+  Updated: 2026-11-13T11:41:46Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/DarlingSapphireandPearShapeThreeStoneRing1_1.jpg?v=1789726149
   Price: £10,000.00 GBP
 - [Lumine Oval Diamond Solitaire Engagement Ring](https://hattonjewels.com/products/lumine-oval-diamond-solitaire-engagement-ring): Beautifully handcrafted statement engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Lumine collection, meticulously curated high jewellery designs, embodying everlasting elegance and love, and exquisite symbol of love for your most meaningful moment. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:57:06Z
+  Updated: 2026-11-13T11:42:10Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -748,7 +748,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £35,000.00 GBP
 - [Everglow Diamond Solitaire Engagement Ring](https://hattonjewels.com/products/everglow-diamond-solitaire-engagement-ring): Beautifully handcrafted engagement ring designs custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Everglow Collection, this ring captures an enduring radiance, symbolising a love that shines beautifully through every moment. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:57:06Z
+  Updated: 2026-11-13T11:41:50Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -763,490 +763,490 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £20,000.00 GBP
 - [Ruby and Diamond Three Stone Halo Dress Ring](https://hattonjewels.com/products/ruby-and-diamond-three-stone-halo-dress-ring): Handcrafted Dress Ring design, choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Add a touch of glamour with our dress rings, also known as cocktail rings. Featuring gorgeous gemstones and intricate designs, they’re ideal for special occasions or elevating everyday looks. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:57:07Z
+  Updated: 2026-11-13T11:41:53Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Ruby_and_Diamond_Three_Stone_Halo_Dress_Ring.jpg?v=1751454719
   Price: £8,000.00 GBP
 - [Sapphire and Diamond Marquise Halo Dress Ring](https://hattonjewels.com/products/sapphire-and-diamond-marquise-halo-dress-ring): Handcrafted Dress Ring design, choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Add a touch of glamour with our dress rings, also known as cocktail rings. Featuring gorgeous gemstones and intricate designs, they’re ideal for special occasions or elevating everyday looks. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:57:10Z
+  Updated: 2026-11-13T11:41:55Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Sapphire_and_Diamond_Marquise_Halo_Dress_Ring.jpg?v=1751454971
   Price: £7,000.00 GBP
 - [Aquamarine and Diamond Halo Dress Ring](https://hattonjewels.com/products/aquamarine-and-diamond-halo-dress-ring): Handcrafted Dress Ring design, choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Add a touch of glamour with our dress rings, also known as cocktail rings. Featuring gorgeous gemstones and intricate designs, they’re ideal for special occasions or elevating everyday looks. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:57:11Z
+  Updated: 2026-11-13T11:41:53Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Aquamarine_and_Diamond_Halo_Dress_Ring.jpg?v=1751455304
   Price: £2,000.00 GBP
 - [Multi-Row Diamond Dress Ring](https://hattonjewels.com/products/multi-row-diamond-dress-ring): Handcrafted Dress Ring design, choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Add a touch of glamour with our dress rings, also known as cocktail rings. Featuring gorgeous gemstones and intricate designs, they’re ideal for special occasions or elevating everyday looks. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:57:11Z
+  Updated: 2026-11-13T11:42:08Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Multi-Row_Diamond_Dress_Ring.jpg?v=1751455501
   Price: £15,000.00 GBP
 - [Aquamarine and Diamond Trefoil Dress Ring](https://hattonjewels.com/products/aquamarine-and-diamond-trefoil-dress-ring): Handcrafted Dress Ring design, choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Add a touch of glamour with our dress rings, also known as cocktail rings. Featuring gorgeous gemstones and intricate designs, they’re ideal for special occasions or elevating everyday looks. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:57:11Z
+  Updated: 2026-11-13T11:41:55Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Aquamarine_and_Diamond_Trefoil_Dress_Ring_1.jpg?v=1789726148
   Price: £7,000.00 GBP
 - [Amity Sapphire and Diamond Ring](https://hattonjewels.com/products/amity-sapphire-and-diamond-ring): A gorgeous sapphire and diamond three stone ring design. Beautifully handcrafted ring uniquely designed and custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Amity Collection, this ring showcases a unique take on a classic three stone design, making for a stunning engagement ring or addition to a fine jewellery collection. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:57:16Z
+  Updated: 2026-11-13T11:41:56Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/AmitySapphireandDiamondRing.jpg?v=1789726148
   Price: £5,000.00 GBP
 - [Flat Court Wedding Ring](https://hattonjewels.com/products/flat-court-wedding-ring): Handcrafted wedding ring design, choose from 18ct White, Yellow, Rose Gold or Platinum, to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect wedding ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of. From price based on 2mm light weight band.
-  Updated: 2026-10-27T00:57:17Z
+  Updated: 2026-11-13T11:42:00Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/FlatCourtWeddingRing2.jpg?v=1751554653
   Price: £600.00 GBP
 - [Slight Court Wedding Ring](https://hattonjewels.com/products/slight-court-wedding-ring): Handcrafted wedding ring design, choose from 18ct White, Yellow, Rose Gold or Platinum, to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect wedding ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of. From price based on 2mm light weight band.
-  Updated: 2026-10-27T00:57:16Z
+  Updated: 2026-11-13T11:41:58Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/slightcourtweddingband3.jpg?v=1789726148
   Price: £600.00 GBP
 - [Traditional Court Wedding Ring](https://hattonjewels.com/products/traditional-court-wedding-ring): Handcrafted wedding ring design, choose from 18ct White, Yellow, Rose Gold or Platinum, to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect wedding ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of. From price based on 2mm light weight band.
-  Updated: 2026-10-27T00:57:16Z
+  Updated: 2026-11-13T11:42:00Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/traditionalcourtweddingring4.jpg?v=1789726148
   Price: £600.00 GBP
 - [D Shape Wedding Ring](https://hattonjewels.com/products/d-shape-wedding-ring): Handcrafted wedding ring design, choose from 18ct White, Yellow, Rose Gold or Platinum, to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect wedding ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of. From price based on 2mm light weight band.
-  Updated: 2026-10-27T00:57:18Z
+  Updated: 2026-11-13T11:42:05Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/dshapeweddingring1.jpg?v=1789726148
   Price: £650.00 GBP
 - [Beaded Edge Wedding Ring](https://hattonjewels.com/products/beaded-edge-wedding-ring): Handcrafted wedding ring design, choose from 18ct White, Yellow, Rose Gold or Platinum, to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect wedding ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:57:21Z
+  Updated: 2026-11-13T11:42:05Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/beadededgeweddingring.jpg?v=1789726148
   Price: £1,200.00 GBP
 - [Matte Effect Wedding Ring](https://hattonjewels.com/products/matte-effect-wedding-ring): Handcrafted wedding ring design, choose from 18ct White, Yellow, Rose Gold or Platinum, to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect wedding ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:57:21Z
+  Updated: 2026-11-13T11:42:05Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/matteeffectweddingring.jpg?v=1751557273
   Price: £1,200.00 GBP
 - [Aquamarine and Diamond Drop Earrings](https://hattonjewels.com/products/aquamarine-and-diamond-drop-earrings): Handcrafted Earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:57:21Z
+  Updated: 2026-11-13T11:42:05Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/AquamarineandDiamondDropEarrings.jpg?v=1789726147
   Price: £1,500.00 GBP
 - [Sapphire and Diamond Drop Earrings](https://hattonjewels.com/products/sapphire-and-diamond-drop-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of these design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:57:21Z
+  Updated: 2026-11-13T11:42:08Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Sapphire_and_Diamond_Drop_Earrings.jpg?v=1789726147
   Price: £5,000.00 GBP
 - [Timeless Diamond Line Bracelet](https://hattonjewels.com/products/timeless-diamond-line-bracelet): Handcrafted bracelet design, choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Part of our Timeless Collection, this bracelet embodies enduring elegance that will last a lifetime. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke bracelet you're dreaming of.
-  Updated: 2026-10-27T00:57:26Z
+  Updated: 2026-11-13T11:42:07Z
   Vendor: Hatton Jewels
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/TimelessDiamondLineBracelet.jpg?v=1789726148
   Price: £3,000.00 GBP
 - [Serene Diamond Line Bracelet](https://hattonjewels.com/products/serene-diamond-line-bracelet): Handcrafted bracelet design, choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Part of our Serene Collection, this design showcases a sleek and modern take on classic elegance, using a rubover setting to draw attention to the stone's beauty. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke bracelet you're dreaming of.
-  Updated: 2026-10-27T00:57:27Z
+  Updated: 2026-11-13T11:42:09Z
   Vendor: Hatton Jewels
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Serene_Diamond_Line_Bracelet.jpg?v=1789726149
   Price: £5,000.00 GBP
 - [Princess Cut Diamond Line Bracelet](https://hattonjewels.com/products/princess-cut-diamond-line-bracelet): Handcrafted bracelet design, choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke bracelet you're dreaming of.
-  Updated: 2026-10-27T00:57:26Z
+  Updated: 2026-11-13T11:42:10Z
   Vendor: Hatton Jewels
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/PrincessCutDiamondLineBracelet4_1.png?v=1789726148
   Price: £5,000.00 GBP
 - [Lumine Emerald Cut Diamond Bracelet](https://hattonjewels.com/products/lumine-emerald-cut-diamond-bracelet): Handcrafted bracelet design, choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Part of our Lumine collection, meticulously curated high jewellery designs, embodying everlasting elegance for your most meaningful moment. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke bracelet you're dreaming of.
-  Updated: 2026-10-27T00:57:27Z
+  Updated: 2026-11-13T11:42:10Z
   Vendor: Hatton Jewels
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/LumineEmeraldCutDiamondBracelet.jpg?v=1789726148
   Price: £20,000.00 GBP
 - [Darling Emerald and Diamond Necklace](https://hattonjewels.com/products/emerald-and-diamond-necklace): Handcrafted necklace design, choose from 18ct White, Yellow, Rose Gold or Platinum, in natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke piece you're dreaming of.
-  Updated: 2026-10-27T00:57:31Z
+  Updated: 2026-11-13T11:42:12Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/EmeraldandDiamondNecklace.jpg?v=1789726148
   Price: £2,000.00 GBP
 - [Darling Fancy Yellow Diamond Pendant](https://hattonjewels.com/products/fancy-yellow-diamond-pendant): Handcrafted necklace design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke piece you're dreaming of.
-  Updated: 2026-10-27T00:57:31Z
+  Updated: 2026-11-13T11:42:18Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/FancyYellowDiamondNecklace.jpg?v=1789726148
   Price: £5,000.00 GBP
 - [Darling Sapphire and Diamond Necklace](https://hattonjewels.com/products/sapphire-and-diamond-necklace): Handcrafted necklace design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke piece you're dreaming of.
-  Updated: 2026-10-27T00:57:31Z
+  Updated: 2026-11-13T11:42:14Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/SapphireandDiamondNecklace.png?v=1789726089
   Price: £3,000.00 GBP
 - [Sapphire and Diamond Cluster Necklace](https://hattonjewels.com/products/sapphire-and-diamond-cluster-necklace): Handcrafted necklace design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke piece you're dreaming of.
-  Updated: 2026-10-27T00:57:31Z
+  Updated: 2026-11-13T11:42:15Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Sapphire_and_Diamond_Cluster_Necklace.jpg?v=1789726088
   Price: £2,000.00 GBP
 - [Baguette Cut Diamond Necklace](https://hattonjewels.com/products/baguette-cut-diamond-necklace): Handcrafted necklace design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke piece you're dreaming of.
-  Updated: 2026-10-27T00:57:36Z
+  Updated: 2026-11-13T11:42:20Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Baguette_Cut_Diamond_Necklace.jpg?v=1789726089
   Price: £1,500.00 GBP
 - [Amity Oval Diamond Drop Necklace](https://hattonjewels.com/products/amity-oval-diamond-drop-necklace): Handcrafted necklace design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Part of our Amity Collection, showcasing unique designs to be loved forever. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke piece you're dreaming of.
-  Updated: 2026-10-27T00:57:35Z
+  Updated: 2026-11-13T11:42:18Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/AmityOvalDiamondDropNecklace.jpg?v=1752230552
   Price: £8,000.00 GBP
 - [Eternelle Asscher Cut Diamond Drop Necklace](https://hattonjewels.com/products/eternelle-asscher-cut-diamond-drop-necklace): Handcrafted necklace design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Part of our Eternelle Collection, designed to beautifully amplify its brilliance. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke piece you're dreaming of.
-  Updated: 2026-10-27T00:57:36Z
+  Updated: 2026-11-13T11:42:20Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Eterenelle_Asscher_Cut_Diamond_Pendant.jpg?v=1752231041
   Price: £5,500.00 GBP
 - [Lumine Diamond Line Necklace](https://hattonjewels.com/products/lumine-diamond-line-necklace): Handcrafted necklace design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Part of our Lumine collection, meticulously curated high jewellery designs, embodying everlasting elegance for your most meaningful moment. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke piece you're dreaming of.
-  Updated: 2026-10-27T00:57:36Z
+  Updated: 2026-11-13T11:42:20Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/LumineDiamondLineNecklace.jpg?v=1752231627
   Price: £20,000.00 GBP
 - [Aquamarine and Diamond Necklace](https://hattonjewels.com/products/aquamarine-and-diamond-necklace): Handcrafted necklace design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke piece you're dreaming of.
-  Updated: 2026-10-27T00:57:36Z
+  Updated: 2026-11-13T11:42:25Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Aquamarine_and_Diamond_Necklace_5a43b4db-8f99-44f4-a37e-2d69785ab590.jpg?v=1789726087
   Price: £2,000.00 GBP
 - [Serene Diamond Pendant](https://hattonjewels.com/products/serene-diamond-pendant): Handcrafted necklace design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Part of our Serene Collection, this design showcases a sleek and modern take on classic elegance, using a rubover setting to draw attention to the stone's beauty. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke piece you're dreaming of.
-  Updated: 2026-10-27T00:57:41Z
+  Updated: 2026-11-13T11:42:25Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/SereneDiamondPendant3_1.jpg?v=1789726088
   Price: £3,000.00 GBP
 - [Mini Serene Diamond Pendant](https://hattonjewels.com/products/mini-serene-diamond-pendant): Handcrafted necklace design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Part of our Serene Collection, this design showcases a sleek and modern take on classic elegance, using a rubover setting to draw attention to the stone's beauty. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke piece you're dreaming of.
-  Updated: 2026-10-27T00:57:41Z
+  Updated: 2026-11-13T11:42:25Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/MiniSereneDiamondPendant1.jpg?v=1789726087
   Price: £2,000.00 GBP
 - [Emerald Cut Diamond Necklace](https://hattonjewels.com/products/emerald-cut-diamond-necklace): Handcrafted necklace design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke piece you're dreaming of.
-  Updated: 2026-10-27T00:57:41Z
+  Updated: 2026-11-13T11:42:25Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/EmeraldCutDiamondNecklace_1.jpg?v=1752234819
   Price: £2,000.00 GBP
 - [Mini Diamond Necklace](https://hattonjewels.com/products/mini-diamond-necklace): Handcrafted necklace design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke piece you're dreaming of.
-  Updated: 2026-10-27T00:57:41Z
+  Updated: 2026-11-13T11:42:31Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Mini_Diamond_Necklace_1.jpg?v=1752235240
   Price: £1,000.00 GBP
 - [Large Diamond Necklace](https://hattonjewels.com/products/large-diamond-necklace): Handcrafted necklace design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke piece you're dreaming of.
-  Updated: 2026-10-27T00:57:46Z
+  Updated: 2026-11-13T11:42:28Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Large_Diamond_Necklace4_e5fb0052-d828-4bbb-9558-35e59e34a1a5.jpg?v=1752236539
   Price: £5,000.00 GBP
 - [Classic Diamond Necklace](https://hattonjewels.com/products/classic-diamond-necklace): Handcrafted necklace design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke piece you're dreaming of.
-  Updated: 2026-10-27T00:57:46Z
+  Updated: 2026-11-13T11:42:30Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Classic_Diamond_Necklace4.jpg?v=1752236181
   Price: £3,000.00 GBP
 - [Multi-Gem Eternity Ring](https://hattonjewels.com/products/18ct-gold-multi-gem-eternity-ring): A beautiful handmade channel set full eternity ring with alternating natural rubies, emeralds and sapphires between round brilliant cut natural diamonds, all expertly crafted in 18ct yellow gold. The diamonds are F-G in colour and VS1-VS2 in clarity with a total estimated diamond weight of 1.17ct. Ring size L with the band width measuring 4mm. Comes in Hatton Jewels Presentation box. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product Code: HJK32985
-  Updated: 2026-10-27T00:57:46Z
+  Updated: 2026-11-13T11:42:31Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/18ctGoldMulti-GemEternityRing4_2.jpg?v=1752503602
   Price: £3,850.00 GBP
 - [Art Deco Style Asscher Cut Diamond Drop Earrings](https://hattonjewels.com/products/18ct-gold-multi-gem-eternity-ring-copy): A beautiful pair of handmade art deco style Diamond drop earrings, each showcasing an Asscher cut Diamond at the centre, surrounded by a sparkling halo of grain set Diamonds in an elegant cluster design. The clusters are suspended from a graduated row of round brilliant cut Diamonds, creating exceptional movement and brilliance. Expertly crafted by hand, these earrings offer a timeless and sophisticated design that is perfect for both special occasions and elevated everyday wear. The earrings measure approximately 2.5cm in length and are fitted with secure post and scroll fastenings for comfortable wear. With a total Diamond weight of approximately 2.80ct, the Diamonds have been graded H–J colour and VS clarity. Earrings come complete with a Hatton Jewels presentation box. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product Code: HJNKH765
-  Updated: 2026-10-27T00:57:46Z
+  Updated: 2026-11-13T11:42:30Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/18ct_White_Gold_Asscher_Cut_Diamond_Drop_Earrings_1_1.jpg?v=1752505080
   Price: £10,000.00 GBP
 - [No-Heat Burma Ruby & Diamond Ring](https://hattonjewels.com/products/18ct-white-gold-no-heat-burma-ruby-diamond-ring): A statement, handmade 18ct white gold cluster ring featuring a rare 1.56ct oval cut no-heat Burmese Ruby to the centre, surrounded by a channel set seamless halo of bespoke French cut Diamonds, with two further French-cut Diamonds to each shoulder. Size: N (Complimentary resizing available*) The ring has a total Diamond weight of approximately 0.96ct. Diamonds are graded F-G in colour and VS in clarity. The cluster measures 12.40 x 10.70mm, the shoulders measures 3mm wide and the band measures 2mm wide. The Ruby would be accompanied by a GCS certification stating Burma origin and no evidence of heat . A captivating piece for any occasion, this ring brings a beautiful pop of colour and timeless elegance to every look, effortlessly transitioning from day to night. Comes in Hatton Jewels Presentation box. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product Code: HJNK814
-  Updated: 2026-10-27T00:57:51Z
+  Updated: 2026-11-13T11:42:31Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/18ctWhiteGoldNo-HeatBurmaRuby_DiamondRing1_1.jpg?v=1752505326
   Price: £7,500.00 GBP
 - [Blue Sapphire & Diamond Halo Necklet](https://hattonjewels.com/products/blue-sapphire-and-diamond-halo-necklet): A beautiful Blue Sapphire and Diamond necklet, crafted in 18ct white gold and centred around a striking Blue Sapphire measuring approximately 1.44ct, secured in a classic claw setting. The Sapphire is elegantly framed by a halo of brilliant cut Diamonds in a grain setting, enhancing its rich colour and brilliance. Two further brilliant cut Diamonds are spectacle set along the chain, adding additional sparkle and bringing the total Diamond weight to approximately 0.26ct. The necklace is fitted with a delicate 1.5mm trace link chain measuring 48.5cm in length, with an additional fitting allowing it to be worn at 42cm for versatility. Finished with a secure lobster clasp fastening, this elegant design is perfect for both everyday wear and special occasions. Pendant comes complete with a Hatton Jewels presentation box. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product Code: HJNK1267
-  Updated: 2026-10-27T00:57:51Z
+  Updated: 2026-11-13T11:42:32Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/IntenseBlueSapphire_DiamondClusterPendant1_1.jpg?v=1752505746
   Price: £4,750.00 GBP
 - [Emerald Cut Diamond Necklace](https://hattonjewels.com/products/18ct-white-gold-emerald-cut-diamond-necklace): A beautiful 0.58ct Emerald Cut Diamond pendant, this elegant design showcases a stunning emerald cut Diamond, weighing 0.58 carats, secured in a refined four talon claw setting. Crafted in luxurious 18ct white gold, the pendant is suspended from a delicate trace chain measuring 16 inches in length, creating a timeless and sophisticated silhouette suitable for everyday wear or special occasions. The Diamond has been independently graded E colour and VVS1 clarity. Pendant comes complete with an AnchorCert Diamond Grading Report and Hatton Jewels presentation box. Product Code: HJK3057
-  Updated: 2026-10-27T00:57:51Z
+  Updated: 2026-11-13T11:42:35Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/18ctWhiteGoldEmeraldCutDiamondNecklace3_2.jpg?v=1778837649
   Price: £2,800.00 GBP
 - [Pear Shape Diamond Drop Earrings](https://hattonjewels.com/products/pear-shape-diamond-drop-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:57:51Z
+  Updated: 2026-11-13T11:42:35Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/PearShapeDiamondDropEarrings1.jpg?v=1789726087
   Price: £10,000.00 GBP
 - [Sapphire and Diamond Halo Drop Earrings](https://hattonjewels.com/products/sapphire-and-diamond-halo-drop-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:57:51Z
+  Updated: 2026-11-13T11:42:40Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/SapphireandDiamondClusterDropEarrings.jpg?v=1789726088
   Price: £3,000.00 GBP
 - [Aquamarine and Diamond Halo Stud Earrings](https://hattonjewels.com/products/aquamarine-and-diamond-halo-stud-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:57:56Z
+  Updated: 2026-11-13T11:42:40Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/AquamarineandDiamondHaloStudEarrings_1.jpg?v=1789726088
   Price: £1,500.00 GBP
 - [Ruby and Diamond Halo Stud Earrings](https://hattonjewels.com/products/ruby-and-diamond-halo-stud-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:57:56Z
+  Updated: 2026-11-13T11:42:40Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Ruby_and_Diamond_Halo_Stud_Earrings.png?v=1789726089
   Price: £2,000.00 GBP
 - [Amity Ruby and Diamond Earrings](https://hattonjewels.com/products/amity-ruby-and-diamond-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Part of our Amity Collection, showcasing a unique design, crafted to standout. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:57:56Z
+  Updated: 2026-11-13T11:42:40Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Amity_Ruby_and_Diamond_Earrings.jpg?v=1789726087
   Price: £5,000.00 GBP
 - [Pear Shape Diamond Halo Drop Earrings](https://hattonjewels.com/products/pear-shape-diamond-halo-drop-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:57:56Z
+  Updated: 2026-11-13T11:42:45Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/PearShapeDiamondHaloDropEarrings.jpg?v=1752581754
   Price: £4,000.00 GBP
 - [Sapphire and Diamond Halo Stud Earrings](https://hattonjewels.com/products/sapphire-and-diamond-halo-stud-earrings-copy): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:58:03Z
+  Updated: 2026-11-13T11:42:45Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Sapphire_and_Diamond_Earrings01.jpg?v=1789726088
   Price: £2,000.00 GBP
 - [Sapphire and Diamond Micro Halo Stud Earrings](https://hattonjewels.com/products/sapphire-and-diamond-micro-halo-stud-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:58:01Z
+  Updated: 2026-11-13T11:42:45Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Sapphire_and_Diamond_Micro_Halo_Stud_Earrings2.jpg?v=1789726087
   Price: £2,000.00 GBP
 - [Ruby and Diamond Micro Halo Stud Earrings](https://hattonjewels.com/products/ruby-and-diamond-micro-halo-stud-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:58:01Z
+  Updated: 2026-11-13T11:42:45Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/RubyandDiamondMicroHaloStudEarrings1.jpg?v=1789726087
   Price: £4,000.00 GBP
 - [Sapphire Stud Earrings](https://hattonjewels.com/products/sapphire-stud-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:58:01Z
+  Updated: 2026-11-13T11:42:45Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/SapphireStudEarrings1.jpg?v=1789726087
   Price: £1,500.00 GBP
 - [Pear Shape Diamond Halo Studs](https://hattonjewels.com/products/pear-shape-diamond-halo-studs): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:58:03Z
+  Updated: 2026-11-13T11:42:47Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/PearShapeDiamondHaloStuds1.jpg?v=1789726087
   Price: £5,000.00 GBP
 - [Diamond Trefoil Stud Earrings](https://hattonjewels.com/products/diamond-trefoil-stud-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:58:03Z
+  Updated: 2026-11-13T11:42:50Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Diamond_Trefoil_Stud_Earrings_1.jpg?v=1752591827
   Price: £1,000.00 GBP
 - [Pear-Shape Sapphire & Diamond Drop Pendant](https://hattonjewels.com/products/pear-shape-sapphire-diamond-drop-pendant): A beautiful 18ct White Gold necklet features an intense Blue Sapphire measuring approximately 2.82ct in a claw setting, suspended from a row of three French cut Diamonds in rubover settings, articulated for movement. The total Diamond weight is approximately 0.23ct, with the Diamonds graded H in colour, VS in clarity. Necklace has a trace link chain, measuring 1mm in width, 41.5cm in total length, with secure bolt ring clasp. Comes in Hatton Jewels Presentation box. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product Code: HJNK1385
-  Updated: 2026-10-27T00:58:06Z
+  Updated: 2026-11-13T11:42:50Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Pear-ShapeSapphire_DiamondDropPendant_1.jpg?v=1752656725
   Price: £6,000.00 GBP
 - [Pink Sapphire & Diamond Drop Pendant](https://hattonjewels.com/products/pink-sapphire-diamond-drop-pendant): A beautiful 18ct White Gold necklet, featuring a vivid pink Sapphire of approximately 1.13ct in a claw setting, suspended from a Diamond set design, articulated for movement. The total Diamond weight is approximately 0.33ct, with the Diamonds graded H in colour, VS in clarity. Necklace has a trace link chain, measuring 1mm in width, 41.5cm in total length, with secure bolt ring clasp. Product Code: HJNK1265
-  Updated: 2026-10-27T00:58:06Z
+  Updated: 2026-11-13T11:42:51Z
   Vendor: Hatton Jewels
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/PinkSapphire_DiamondDropPendant2_1.jpg?v=1752657046
   Price: £3,500.00 GBP
 - [Fancy Yellow Diamond Cluster Ring](https://hattonjewels.com/products/fancy-yellow-diamond-cluster-ring): A beautiful pre-owned Yellow Diamond cluster ring, crafted in platinum. At the centre of the ring sits a captivating 0.56ct Fancy Vivid Yellow Cushion Cut Diamond. The vibrant centre stone is framed by a double halo of Brilliant Cut Diamonds, with further Diamonds delicately set along each shoulder, enhancing the ring’s radiant and elegant design. The total surrounding Diamonds weigh at approximately 0.32ct, with the Diamonds graded G in colour and VS in clarity, accompanying the yellow diamond is a digital GIA certificate. Size: K (complimentary resizing available*) A stunning expression of colour and elegance, this ring is equally beautiful as a distinctive engagement ring or simply as a joyful addition to your jewellery collection. This ring comes with a Hatton Jewels presentation box and digital GIA certificate. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. A stunning expression of colour and elegance, this ring is equally beautiful as a distinctive engagement ring or simply as a joyful addition to your jewellery collection. Product Code: HJNK1681
-  Updated: 2026-10-27T00:58:06Z
+  Updated: 2026-11-13T11:42:56Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/FancyYellowDiamondClusterRing.jpg?v=1792073569
   Price: £4,800.00 GBP
 - [Radiant Cut Diamond Halo Stud Earrings](https://hattonjewels.com/products/radiant-cut-diamond-halo-stud-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:58:11Z
+  Updated: 2026-11-13T11:42:55Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Radiant_Cut_Diamond_Halo_Stud_Earrings_1.jpg?v=1789726029
   Price: £10,000.00 GBP
 - [Oval Diamond Stud Earrings](https://hattonjewels.com/products/oval-diamond-stud-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:58:11Z
+  Updated: 2026-11-13T11:42:55Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Oval_Diamond_Stud_Earrings_2.jpg?v=1752669234
   Price: £3,000.00 GBP
 - [Princess Cut Diamond Stud Earrings](https://hattonjewels.com/products/princess-cut-diamond-stud-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:58:11Z
+  Updated: 2026-11-13T11:42:55Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/PrincessCutDiamondStudEarrings3.jpg?v=1789726028
   Price: £3,000.00 GBP
 - [Diamond Huggie Earrings](https://hattonjewels.com/products/diamond-huggie-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:58:12Z
+  Updated: 2026-11-13T11:42:56Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/DiamondHuggieEarrings3_1.jpg?v=1752675278
   Price: £2,000.00 GBP
 - [Diamond Huggie Single Earring](https://hattonjewels.com/products/diamond-huggie-single-earring): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:58:12Z
+  Updated: 2026-11-13T11:43:00Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/DiamondHuggieSingleEarring_1.jpg?v=1752675553
   Price: £1,000.00 GBP
 - [Asymmetric Diamond Earrings](https://hattonjewels.com/products/asymmetric-diamond-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:58:16Z
+  Updated: 2026-11-13T11:43:00Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Asymmetric_Diamond_Earrings_1.jpg?v=1789726029
   Price: £7,000.00 GBP
 - [Mini Diamond Stud Earrings](https://hattonjewels.com/products/mini-diamond-stud-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:58:16Z
+  Updated: 2026-11-13T11:43:01Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Mini_Diamond_Stud_Earrings1.jpg?v=1789726028
   Price: £750.00 GBP
 - [Large Diamond Stud Earrings](https://hattonjewels.com/products/large-diamond-stud-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:58:17Z
+  Updated: 2026-11-13T11:43:01Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Large_Diamond_Stud_Earrings1.jpg?v=1789726029
   Price: £5,000.00 GBP
 - [Classic Diamond Stud Earrings](https://hattonjewels.com/products/classic-diamond-stud-earrings): Handcrafted earring design, choose from 18ct White, Yellow, Rose Gold or Platinum, featuring natural Diamonds or gemstones of your choice, available in a range of widths and specifications to create a piece that is uniquely yours. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke earrings you're dreaming of.
-  Updated: 2026-10-27T00:58:17Z
+  Updated: 2026-11-13T11:43:05Z
   Vendor: Hatton Jewels
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Classic_Diamond_Stud_Earrings1.jpg?v=1789726028
   Price: £1,500.00 GBP
 - [Piaget Multi-Diamond Spinning Ring](https://hattonjewels.com/products/pre-owned-piaget-spinning-ring): Pre-owned Piaget Spinning Ring, crafted in 18ct white gold with Diamonds. The ring features a central spinning band adorned with seven flush-set diamonds, adding dynamic movement to the design. Its unique spinning mechanism enhances visual interest. Perfect for those who appreciate refined luxury and innovative design, this ring embodies both sophistication and playful charm. This ring has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Ring width: 7.3mm Product code: HJK1285
-  Updated: 2026-10-27T00:58:22Z
+  Updated: 2026-11-13T11:43:05Z
   Vendor: Piaget
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Pre-OwnedPiagetSpinningRinglogo.jpg?v=1789726026
   Price: £1,400.00 GBP
 - [Vintage 1.20ct Diamond Ring](https://hattonjewels.com/products/vintage-1-20ct-diamond-engagement-ring): A beautifully crafted pre-owned vintage platinum diamond ring, showcasing a striking 1.20ct round brilliant cut diamond, elegantly secured in a classic six-claw setting. The intricately designed band is adorned with three accent diamonds on each shoulder, enhancing the brilliance of the centre stone. Additional diamonds are delicately set within a hidden halo beneath the centre diamond, adding a subtle touch of sparkle and showcasing exceptional craftsmanship from every angle. Central Diamond is accompanied by a GIA certificate, graded as H colour, VVS2 clarity. This item has been fully serviced by Hatton Jewels. Product Code: HJK3223
-  Updated: 2026-10-27T00:58:21Z
+  Updated: 2026-11-13T11:43:05Z
   Vendor: Unbranded
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Pre-OwnedVintage1.20ctDiamondEngagementRing.jpg?v=1789726027
   Price: £6,200.00 GBP
 - [4.08ct Sapphire & Diamond Cluster Ring](https://hattonjewels.com/products/pre-owned-sapphire-diamond-cluster-ring): A modern pre-owned Sapphire and Diamond cluster ring, crafted in Platinum. The ring features a vibrant 4.08ct round Sapphire, accompanied by an IGI certification. Surrounding the principal Sapphire is a halo of round brilliant cut Diamonds with further Diamonds set into the band, totalling approximately 0.50ct, graded G-H in colour, VS in clarity. Perfect for those who admire the look of an antique ring but appreciate a modern twist. Ring comes with a Hatton Jewels presentation box and and IGI certificate. Product code: HJK3705
-  Updated: 2026-10-27T00:58:22Z
+  Updated: 2026-11-13T11:43:05Z
   Vendor: Unbranded
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Pre-Owned_Platinum_4.08ct_Sapphire_Diamond_Cluster_Ring.jpg?v=1789726028
   Price: £6,000.00 GBP
 - [Vintage 3.00ct Sapphire & Old Cut Diamond Cluster Ring](https://hattonjewels.com/products/pre-owned-sapphire-old-cut-diamond-cluster-ring): A mesmerising pre-owned vintage ring featuring an approximately 3.00ct Sapphire at its centre, beautifully set within a classic platinum band and surrounded by a captivating cluster of old cut Diamonds with a combined weight of approximately 0.80ct. The cornflower blue colour of the Sapphire is complemented by the soft, romantic sparkle of the old cut Diamonds, creating an elegant statement piece with plenty of vintage charm. A timeless design with exceptional character, perfect for those who appreciate the beauty, craftsmanship and individuality of vintage jewellery. Ring size M (Complimentary ring sizing available*). The piece has been fully serviced and is in very good condition. Ring comes in Hatton Jewels presentation box. Product code: HJK2466
-  Updated: 2026-10-27T00:58:21Z
+  Updated: 2026-11-13T11:43:10Z
   Vendor: Unbranded
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK2466_3.00ct_Sapphire_Old_Cut_Diamond_Cluster_Ring_bb12e043-66c6-4df5-a76f-a60f935c69c6.jpg?v=1782810674
   Price: £6,000.00 GBP
 - [2.02ct Radiant Cut Diamond Three Stone Ring](https://hattonjewels.com/products/pre-owned-radiant-cut-diamond-engagement-ring): A beautiful pre-owned platinum three-stone ring, centred with a striking square radiant-cut diamond of approximately 2.02ct that creates a captivating focal point. It is flanked by two 0.20ct trillion-cut diamonds, one on each side, bringing the total diamond weight to approximately 2.42ct. The principal Diamond is graded G-H in colour and SI2-SI3 in clarity, with the side Diamonds graded H-I in colour and SI in clarity by EDR. This item has been fully serviced by Hatton Jewels to be in excellent condition. Three stone, or trilogy, rings make a thoughtful and meaningful ring, representing the past, present and future. Ring comes with a Hatton Jewels presentation box and the original EDR certificate. Product Code: HJK3182
-  Updated: 2026-10-27T00:58:21Z
+  Updated: 2026-11-13T11:43:10Z
   Vendor: Unbranded
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/2.02ct_Radiant_Cut_Diamond_Engagement_Ring.jpg?v=1771259699
   Price: £12,500.00 GBP
 - [0.77ct Princess Cut Diamond Engagement Ring](https://hattonjewels.com/products/pre-owned-0-77ct-princess-cut-diamond-engagement-ring): Pre-owned Platinum solitaire ring featuring a 0.77ct princess cut Diamond, perfect for those seeking a classic yet sophisticated symbol of commitment, this ring combines expert craftsmanship with enduring style. Diamond is  by GIA as F colour, VVS2 clarity, set by four corner claws in a modern mount. Size N (Complimentary ring sizing available*) Ring has wed-fit design, so will sit perfectly next to a wedding ring Product Code: HJKBY6
-  Updated: 2026-10-27T00:58:26Z
+  Updated: 2026-11-13T11:43:10Z
   Vendor: Unbranded
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Pre-Owned0.77ctPrincessCutDiamondEngagementRing.jpg?v=1789726028
   Price: £3,000.00 GBP
 - [4.00ct Heart Shape Diamond Drop Earrings](https://hattonjewels.com/products/pre-owned-4-00ct-heart-shape-diamond-drop-earrings): A striking pair of pre-owned heart-shaped Diamond drop earrings, crafted in platinum. Each earring features a trillion cut Diamond, weighing 1.46ct and 1.72ct, set by three claws, surrounded by a heart shaped halo of micro-set brilliant cut Diamonds, with a total Diamond weight of approximately 4.00ct. The heart shaped cluster is suspended from a levered hoop fitting, set with further brilliant cut Diamonds, with a small decorative trillion cut Diamond in between to add a captivating sparkle. Making the total length 30mm. Principal Diamonds graded by the Gemmological Association of Great Britain as E colour, VS2 and SI1 clarity respectively. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product code: HJNKH913
-  Updated: 2026-10-27T00:58:26Z
+  Updated: 2026-11-13T11:43:11Z
   Vendor: Unbranded
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJNKH913_4.00ct_Heart_Shape_Diamond_Drop_Earrings.jpg?v=1770221368
   Price: £23,000.00 GBP
 - [Lumine Emerald Cut Diamond Three Stone Engagement Ring](https://hattonjewels.com/products/emerald-cut-diamond-three-stone-engagement-ring): Beautifully handcrafted statement engagement ring design custom-made to your exact specifications. Choose from 18ct White, Yellow, Rose Gold or Platinum, with natural Diamonds or gemstones of your choice in any size and specification to create a piece that is uniquely yours. Part of our Lumine collection, meticulously curated high jewellery designs, embodying everlasting elegance and love, and exquisite symbol of love for your most meaningful moment. Book an appointment with our expert team to create your perfect ring, tailored to you. Want a variation of this design? Our creativity knows no limits; use your imagination and our jewellery expertise to create the bespoke jewellery piece you're dreaming of.
-  Updated: 2026-10-27T00:58:26Z
+  Updated: 2026-11-13T11:43:15Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -1261,14 +1261,14 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Availability: Available
     Price: £80,000.00 GBP
 - [Chopard 1.04ct Diamond Solitaire Engagement Ring](https://hattonjewels.com/products/pre-owned-chopard-1-04ct-diamond-solitaire-engagement-ring): Pre-Owned Chopard Platinum Diamond Solitaire Engagement Ring with Diamond shoulders. This ring features a 1.04ct round brilliant cut GIA  Diamond, graded F in colour and VS2 in clarity. This design features four talon claws and the signature 'C' to the side of the shoulder, with seven brilliant cut Diamonds to each shoulder in a grain setting and comes with original box. This item has been fully serviced by Hatton Jewels to be in very good condition. Product Code: HJK3751
-  Updated: 2026-10-27T00:58:26Z
+  Updated: 2026-11-13T11:43:15Z
   Vendor: Chopard
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK3751_Chopard_1.04ct_Diamond_Solitaire_Engagement_Ring_w_logo.jpg?v=1789726028
   Price: £6,500.00 GBP
 - [3.47ct Old Cut Diamond](https://hattonjewels.com/products/3-47ct-old-cut-diamond): Pre-Owned 3.47 carat Old Cut Diamond blends vintage charm with enduring elegance. Graded M in colour and VS2 in clarity by EDR (European Diamond Report), it showcases a soft, warm hue and exceptional internal clarity.  with a Good cut, Good polish, and Very Good symmetry, the diamond also exhibits slight fluorescence, measuring 9.77 – 9.86 x 5.85mm. Pre-owned and full of history, this diamond offers remarkable value without compromising on charm or quality. If you are looking for a Diamond of a particular specification, we have many more available, so please do enquire with us.
-  Updated: 2026-10-27T00:58:31Z
+  Updated: 2026-11-13T11:43:15Z
   Vendor: Unbranded
   Product Type: Diamond
   Availability: Available
@@ -1289,133 +1289,126 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK240221.49ctNaturalSaltwaterPearlandDiamondDressRing5.jpg?v=1789726029
   Price: £18,500.00 GBP
 - [Boodles Diamond Solitaire Ring](https://hattonjewels.com/products/pre-owned-boodles-diamond-solitaire-ring): A pre-owned modern solitaire ring from the Boodles 'Petal' collection' crafted in 18ct yellow gold. The ring features a 1.01ct round cut Diamond to the centre, with approximately 0.33ct of further Diamonds set into two rows in the shoulders. The ring also has a white gold 'V' shaped setting with Diamonds set into the side profile. The centre Diamond is graded F in colour and VS1 in clarity by GIA. Size: M 1/2 (Enquire for resizing*) Effortlessly elegant and timeless in design, this beautiful engagement ring is a piece to cherish now and pass down through generations. This stunning ring comes with a Boodles presentation box and GIA certificate. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product Code: HJK5427
-  Updated: 2026-10-27T00:58:31Z
+  Updated: 2026-11-13T11:43:16Z
   Vendor: Boodles
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5427Boodles1.01ctDiamondEngagementRingwlogo_1.jpg?v=1789726027
   Price: £6,800.00 GBP
 - [Damiani Minou 1.30ct Diamond Pendant](https://hattonjewels.com/products/pre-owned-damiani-minou-1-30ct-diamond-solitaire-pendant): A beautiful pre-owned 1.30ct Diamond pendant from the Damiani Minou collection, this elegant pendant showcases a brilliant-cut Diamond, approximately 1.30 carats, secured in a six-claw setting. A subtle mini-bale allows the chain to run seamlessly through the design, ensuring a clean, sophisticated silhouette. Necklace is attached to an 18ct white gold trace chain with lobster clasp set with a further small Diamond with a chain measuring 44cm. Diamond colour has been graded H and a SI1 clarity grade. Pendant comes with original Damiani Box and Hatton Jewels documentation. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product Code HJK4452
-  Updated: 2026-10-27T00:58:31Z
+  Updated: 2026-11-13T11:43:20Z
   Vendor: Damiani
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK4452_1.30ct_Diamond_Damiani_Minou_Pendant_w_logo.jpg?v=1789726028
   Price: £7,750.00 GBP
 - [Cartier Three Diamond Love Ring - Size 53](https://hattonjewels.com/products/pre-owned-cartier-white-gold-diamond-love-ring): A pre-owned classic Cartier Diamond Love ring, crafted in 18ct white gold, size 53. The ring is set with three brilliant cut Diamonds into alternating screw motifs with a total carat weight 0.23ct. The Love collection began with the iconic bracelet, its iconic screw motif design is one of the most notable lines of jewellery by Cartier. Timeless, easy-to-wear and instantly recognisable, the Cartier love collection has become one of the most popular pieces of jewellery over the past 60 years. Above it's design and popularity it is a symbol for love and affection. Ring is in excellent condition and comes with a Cartier travel pouch and Cartier certificate dated September 2016. Product Code HJK4726
-  Updated: 2026-10-27T00:58:32Z
+  Updated: 2026-11-13T11:43:20Z
   Vendor: Cartier
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK4726CartierWGDiamondLoveRing.jpg?v=1789726028
   Price: £3,000.00 GBP
 - [Pomellato Classic Nudo Amethyst Ring](https://hattonjewels.com/products/pre-owned-pomellato-nudo-amethyst-ring): A beautiful, statement pre-owned ring by Pomellato from their 'Nudo' collection, crafted in 18ct rose gold, featuring a chequerboard cut Amethyst in a modern minimal setting design. The ring has a solid rounded profile band, signed 'Pomellato'. Ring comes with a Hatton Jewels presentation box and Hatton Jewels authentication paperwork. The ring is in very good condition. Product code: HJK4822
-  Updated: 2026-10-27T00:58:37Z
+  Updated: 2026-11-13T11:43:25Z
   Vendor: Pomellato
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK4822_Pomellato_Nudo_Amethyst_Ring1_1.jpg?v=1779465089
   Price: £1,400.00 GBP
 - [Cartier Trinity Drop Earrings](https://hattonjewels.com/products/pre-owned-cartier-trinity-drop-earrings): Pre-Owned 18ct tri-colour gold Cartier earrings each feature the signature trio of interlinked gold circles, suspended from a chain drop with a half hoop fitting. Earrings have secure post with flat disk fittings Earring length is 6cm The origin of Trinity collection began with a ring, a cult design imagined by Louis Cartier in 1924. Everything about it was out of the ordinary: the chromatic association, the fluid movement of the three rings, the simplicity of the design and its symbolic force. A piece of jewellery beaming with significance and emotion. Earrings come with original Cartier presentation box and Hatton Jewels authentication paperwork. This item has been fully serviced by Hatton Jewels to be in excellent condition with no signs of wear. Product Code: HJK4946
-  Updated: 2026-10-27T00:58:36Z
+  Updated: 2026-11-13T11:43:25Z
   Vendor: Cartier
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK4946CartierTrinityDropHoopEarrings-Logo.jpg?v=1789726028
   Price: £4,200.00 GBP
-- [Rare Cartier Diamond 'Mandala' Necklace](https://hattonjewels.com/products/pre-owned-rare-cartier-diamond-mandala-necklace): A rare opportunity to acquire a unique pre-owned Cartier Diamond necklace, crafted in Platinum.The spectacular necklace has a modern geometric style featuring a 70mm pendant set with brilliant cut and asscher cut Diamonds, laid over a rock crystal backing, suspended from the iconic Cartier design Diamond chain. Necklace has a total Diamond weight of approximately 30ct, graded as E-F in colour, VVS -VS in clarity.Necklace can be worn as opera length or shortened to matinee.The necklace has French hallmarks and Cartier serial number to the pendant.The piece is in excellent condition and comes with original Cartier presentation box and duplicate Cartier sales invoice. Product Code: HJK4964
-  Updated: 2026-10-27T00:58:37Z
-  Vendor: Cartier
-  Product Type: Necklace
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK4964RareCartierDiamond_Mandala_Necklacewlogo.jpg?v=1753706172
-  Price: £300,000.00 GBP
 - [Tiffany & Co. Wedding Ring](https://hattonjewels.com/products/pre-owned-tiffany-wedding-ring): A classic and beautifully simple pre-owned Tiffany® Nesting Wedding Band in Platinum This Tiffany & Co. wedding band measures 2.9mm in width, with a V shaped cut out to fit flush with a Tiffany engagement ring. Size: K 1/2 (Enquire for ring sizing*) Ring comes with Hatton Jewels presentation box and Hatton Jewels authentication paperwork. A timeless classic, this wedding band is an elegant and understated choice to mark a special moment. Its versatile design makes it perfect for wearing alone or alongside an engagement ring, creating a beautifully timeless pairing. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product Code: HJK5039
-  Updated: 2026-10-27T00:58:36Z
+  Updated: 2026-11-13T11:43:26Z
   Vendor: Tiffany & Co
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5030Tiffany_CoWeddingBand.jpg?v=1789726028
   Price: £650.00 GBP
 - [White Gold Bulgari B.Zero Diamond Ring](https://hattonjewels.com/products/pre-owned-white-gold-bulgari-b-zero-diamond-ring): An eye catching pre-owned Bulgari ring from the 'B.Zero' collection spiral set with 144 round brilliant cut diamonds in 18ct white gold. This ring has a band width of 1cm and an estimated total carat weight of 2.65ct and the diamonds range from F-G in colour with VVS clarity. A true icon since 1999, B.zero1 defies convention and trends with its signature blend of Roman inspiration, industrial design and state-of-the-art craftsmanship. Size: 51 This item comes with a Hatton Jewels presentation box and Hatton Jewels Authenticity Certificate. This item has been fully serviced by Hatton Jewels to be in excellent condition with no signs of wear. Product Code: HJK5697
-  Updated: 2026-10-27T00:58:36Z
+  Updated: 2026-11-13T11:43:25Z
   Vendor: Bulgari
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5697BulgariBZero1WGDiamondRingwlogo.jpg?v=1789725970
   Price: £8,000.00 GBP
 - [Tiffany & Co. Diamond Eternity Ring](https://hattonjewels.com/products/pre-owned-tiffany-diamond-eternity-ring): A pre-owned Tiffany & Co. Diamond Half Eternity Ring, beautifully crafted in 18ct yellow gold. A classic channel set Diamond half eternity ring from the 'Tiffany®' collection. Set with seventeen round brilliant cut Diamonds, with a total approximate Diamond carat weight of 0.17ct, measuring 2.30m in width. Size: L 1/2 (Enquire for ring sizing*) Ring comes in a Hatton Jewels presentation box with Hatton Jewels authentication paperwork. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product code: HJK5185
-  Updated: 2026-10-27T00:58:41Z
+  Updated: 2026-11-13T11:43:27Z
   Vendor: Tiffany & Co
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5185_Tiffany_Co_YG_Half_Eternity_Ring.jpg?v=1770803875
   Price: £1,600.00 GBP
 - [Van Cleef & Arpels Vintage Chalcedony Alhambra Bracelet](https://hattonjewels.com/products/pre-owned-van-cleef-arpels-vintage-alhambra-bracelet): A stunning pre-owned Chalcedony five motif Van Cleef & Arpels Vintage Alhambra bracelet, crafted in 18ct white gold. Bracelet measures approximately 19.5cm in length. The Alhambra® motif, emblem of luck, embodies a positive vision of life dear to Van Cleef & Arpels. This item has been fully serviced by Hatton Jewels to be in excellent condition with no signs of wear. This item comes with a Van Cleef & Arpels presentation box and Van Cleef & Arpels authentication paperwork. Product Code: HJK6535
-  Updated: 2026-10-27T00:58:41Z
+  Updated: 2026-11-13T11:43:30Z
   Vendor: Van Cleef & Arpels
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5717_VCA_Chalcedony_Alhambra_Bracelet_w_logo.jpg?v=1768564929
   Price: £4,750.00 GBP
 - [Cartier Diamond Paved Love Ring - Size 55](https://hattonjewels.com/products/pre-owned-cartier-diamond-paved-love-ring): An iconic pre-owned Cartier love ring, pave set with round brilliant cut Diamonds, crafted in 18ct yellow gold, size 55. The ring has Cartier engraving to the inside, along with the individual serial number, and measures 4.75mm in width. The piece is in excellent condition, with no eye-visible scratches. This item comes in a Cartier presentation box with Hatton Jewels authentication paperwork. The Love collection with its iconic screw motif design is one of the most notable lines of jewellery by Cartier. Timeless, easy-to-wear and instantly recognisable, the Cartier love pieces have become one of the most popular collections over the past 60 years, since the very first 'Love' item was created by Aldo Cipullo. Product Code: HJK5247
-  Updated: 2026-10-27T00:58:42Z
+  Updated: 2026-11-13T11:43:31Z
   Vendor: Cartier
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5247CartierYellowGoldDiamondPavedLoveRingwlogo.jpg?v=1789725970
   Price: £5,050.00 GBP
-- [Cartier SM Rose Gold Diamond Love Bracelet - Size 17](https://hattonjewels.com/products/pre-owned-cartier-rose-gold-diamond-love-bracelet-sm): Pre-Owned Cartier Rose Gold Love Bracelet, SM model, set with ten round brilliant cut Diamonds in a size 17 This bracelet has been fully serviced by Hatton Jewels to be in excellent condition. Bracelet comes with original Cartier travel pouch, replacement screwdriver and Hatton Jewels authentication paperwork. The Love collection with its iconic screw motif design is one of the most notable lines of jewellery by Cartier. Timeless, easy-to-wear and instantly recognisable, the Cartier love pieces have become one of the most popular collections over the past 60 years, since the very first 'Love' item was created by Aldo Cipullo. Product Code: HJK5311
-  Updated: 2026-10-27T00:58:47Z
+- [Cartier SM Rose Gold Diamond Love Bracelet - Size 17](https://hattonjewels.com/products/pre-owned-cartier-rose-gold-diamond-love-bracelet-sm): An iconic Cartier design, a pre-owned Cartier rose gold SM Love bracelet, featuring ten round brilliant cut Diamonds set within, in a size 17. The SM is a thinner, lighter version of the 1969 classic model. The Love collection with its iconic screw motif design is one of the most notable lines of jewellery by Cartier. Timeless, easy-to-wear and instantly recognisable, the Cartier love pieces have become one of the most popular collections over the past 60 years, since the very first 'Love' item was created by Aldo Cipullo. Complete with its original Cartier travel pouch, replacement screwdriver and Hatton Jewels authentication paperwork. This bracelet has been fully serviced by Hatton Jewels to be in excellent condition. Product Code: HJK5311
+  Updated: 2026-11-13T11:43:31Z
   Vendor: Cartier
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5311CartierRGDiamondLoveBracelet-SM17wlogo.jpg?v=1789725969
   Price: £6,250.00 GBP
 - [Vintage Piaget Diamond Spinning Ring](https://hattonjewels.com/products/pre-owned-piaget-yellow-gold-diamond-spinning-ring): A statement, pre-owned vintage Piaget Diamond spinning ring, crafted in 18ct yellow gold, size 54. The heavy-weight ring has a central spinning band inset into the design, with a flush set round brilliant cut Diamond, weighing approximately 0.10ct. The ring measures 10.80mm in width and weighs 20 grams.The ring has Piaget engraving to the inside, along with the individual serial number and date of manufacture, 1993. The piece is in very condition, with no eye-visible scratches and only minor signs of wear. This item comes in a Hatton Jewels presentation box. Product Code: HJK5283
-  Updated: 2026-10-27T00:58:47Z
+  Updated: 2026-11-13T11:43:36Z
   Vendor: Piaget
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5283Pre-ownedPiagetDiamondSpinningRingwlogo.jpg?v=1789725969
   Price: £5,500.00 GBP
 - [Gucci Icons Earrings](https://hattonjewels.com/products/pre-owned-gucci-icons-earrings): A sleek and sophisticated, pre-owned pair of Gucci hoop earrings from the 'Icons' collection, crafted in 18ct yellow gold. Earrings measure 15mm in diameter, 4mm in width, with secure post and scroll fittings. The earrings are excellent condition and come with Hatton Jewels presentation box. Product Code: HJK5368
-  Updated: 2026-10-27T00:58:46Z
+  Updated: 2026-11-13T11:43:35Z
   Vendor: Gucci
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5368GucciYellowGoldHoopEarringswlogo.jpg?v=1789725969
   Price: £1,250.00 GBP
 - [Bulgari B.zero1 Necklace](https://hattonjewels.com/products/pre-owned-bulgari-bzero1-necklace): A pre-owned Bulgari B.zero1 pavé diamond pendant necklace set in 18ct white gold. This necklace is set with 101 round brilliant cut diamonds giving an estimated total carat weight of 0.87ct. The pendant measures approximately 14mm and the necklace can be worn at four different lengths ranging from 38cm to 45.5cm. A true icon since 1999, the B.zero1 design has a signature blend of Roman inspiration, industrial design and state-of-the-art craftsmanship. Comes in a Hatton Jewels presentation box and with Hatton Jewels authenticity guarantee. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product code: HJK5698
-  Updated: 2026-10-27T00:58:51Z
+  Updated: 2026-11-13T11:43:35Z
   Vendor: Bulgari
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5698_Bulgari_BZero.1_Diamond_Necklace_w_logo.jpg?v=1789725970
   Price: £7,500.00 GBP
 - [Bulgari Bzero1 Earrings](https://hattonjewels.com/products/pre-owned-bulgari-bzero1-earrings): A pair of pre-owned Bulgari BZero1 drop earrings, featuring the signature Bulgari BZero1 rondel to the end of each drop, with two open circle with the Bulgari logo to the circumference incorporated into the design. The earrings have been crafted in 18ct white gold with a secure post and alpha back fittings. Earring drop measures 4.5cm in length from the post. A true icon since 1999, the B.zero1 design has a signature blend of Roman inspiration, industrial design and state-of-the-art craftsmanship. This item comes with a Hatton Jewels presentation box and Hatton Jewels Authenticity Certificate. This item has been fully serviced by Hatton Jewels to be in excellent condition with no signs of wear. Product Code: HJK5365B
-  Updated: 2026-10-27T00:58:51Z
+  Updated: 2026-11-13T11:43:35Z
   Vendor: Bulgari
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5365B_Bulgari_Bzero1_Drop_Earrings_w_logo.jpg?v=1789725968
   Price: £1,750.00 GBP
 - [Bulgari Bzero1 Rock Bracelet](https://hattonjewels.com/products/pre-owned-bulgari-bzero1-bracelet): An exquisite pre-owned Bvlgari BZero1 Rock bracelet, crafted in 18ct rose gold, with studded spiral and diamond-set edges. A true icon since 1999, B.zero1 defies convention and trends with its signature blend of Roman inspiration, industrial design and state-of-the-art craftsmanship. Channelling the timeless aesthetics of Roman architecture, with an unmistakable, avant-garde identity that stands as a powerful expression of Bulgari’s creative vision and relentless drive for innovation. Size: Medium This bracelet comes with a Hatton Jewels presentation box and a Hatton Jewels authenticity certificate. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product Code: HJK6056
-  Updated: 2026-10-27T00:58:51Z
+  Updated: 2026-11-13T11:43:40Z
   Vendor: Bulgari
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK6056BulgariBZeroRGBracelet.jpg?v=1776078231
   Price: £15,000.00 GBP
 - [Etincelle de Cartier Diamond Full Eternity Ring - Size 46](https://hattonjewels.com/products/pre-owned-etincelle-de-cartier-diamond-full-eternity-ring-1): A pre-owned classic Étincelle de Cartier full eternity ring, featuring round brilliant cut Diamonds in an elegant micro-claw setting, crafted in 18ct white gold, size 46. The ring measures 1.50mm in width, with a total Diamond weight of approximately 0.22ct. The Étincelle de Cartier collection is a celebration of delicate brilliance and refined elegance. Named after the French word for “spark,” the collection is characterised by its minimalist design and pavé-set Diamonds. Sleek and contemporary, Étincelle de Cartier features slender bands, subtle curves, and timeless silhouettes, making it ideal for both everyday wear and special occasions. This item comes with an original Cartier presentation box and a Cartier Authenticity Certificate. This item has been fully serviced by Hatton Jewels to be in excellent condition with no signs of wear. Product Code: HJK5421
-  Updated: 2026-10-27T00:58:51Z
+  Updated: 2026-11-13T11:43:40Z
   Vendor: Cartier
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5421EtincelledeCartierDiamondFullEternityRinglogo.jpg?v=1789725969
   Price: £1,700.00 GBP
 - [Art-Deco Burma Ruby & Diamond Ring](https://hattonjewels.com/products/art-deco-ruby-diamond-ring): A beautiful, pre-owned classic art-deco five stone step-down ring featuring a vivid approximately 1.50ct rectangular step cut Burma Ruby set by four claws, with two box set baguette cut Diamonds to each side graduating down in size, crafted in Platinum. Ring has a total Diamond weight of approximately 0.60ct, graded F-G in colour and VS in clarity. Ruby has a verbal from GCS stating Burmese origin, heated. This ring comes in excellent condition. Product Code: HJK5318
-  Updated: 2026-10-27T00:58:56Z
+  Updated: 2026-11-13T11:43:40Z
   Vendor: Unbranded
   Product Type: Ring
   Availability: Available
@@ -1426,14 +1419,14 @@ Customers can also purchase jewellery online or make enquiries without visiting 
 ## Collections
 
 - [New Arrivals](https://hattonjewels.com/collections/new-in): From timeless classics, contemporary designs and loved jewellery houses, our new arrivals are carefully selected to bring you exceptional craftsmanship and effortless style.
-  Updated: 2026-11-06T14:58:51Z
-  Total Products: 58
+  Updated: 2026-11-13T10:02:05Z
+  Total Products: 62
 - [Pre-Owned Cartier Jewellery](https://hattonjewels.com/collections/pre-owned-cartier-jewellery): Discover exquisite pre-owned Cartier jewellery at Hatton Jewels. Shop luxury pieces including rings, bracelets, necklaces, and more, all authenticated.
-  Updated: 2026-11-03T17:04:52Z
+  Updated: 2026-11-12T13:21:22Z
   Total Products: 22
 - [Pre-Owned Jewellery](https://hattonjewels.com/collections/pre-owned-jewellery): Discover expertly curated pre-owned and second-hand jewellery at Hatton Jewels. Shop vintage & designer pieces including Cartier, Tiffany & Van Cleef, all quality-checked and .
-  Updated: 2026-11-06T14:58:51Z
-  Total Products: 386
+  Updated: 2026-11-13T10:02:05Z
+  Total Products: 389
 - [Engagement Rings](https://hattonjewels.com/collections/engagement-rings): Explore vintage, antique & bespoke engagement rings at Hatton Jewels. Discover 1–3 carat diamond rings, unique cuts & custom designs in Hatton Garden.
   Updated: 2026-09-22T10:07:31Z
   Total Products: 69
@@ -1477,20 +1470,20 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-09-22T11:21:20Z
   Total Products: 26
 - [Pre-Owned  Tiffany & Co Jewellery](https://hattonjewels.com/collections/tiffany-co-jewellery): Explore our collection of pre-owned Tiffany & Co. jewellery at Hatton Jewels. Find timeless rings, necklaces, bracelets, and more, all authenticated. Shop now.
-  Updated: 2026-11-05T10:55:39Z
-  Total Products: 18
+  Updated: 2026-11-12T13:20:01Z
+  Total Products: 17
 - [Pre-Owned Van Cleef & Arpels Jewellery](https://hattonjewels.com/collections/van-cleef-arpels-jewellery): Discover exquisite pre-owned Van Cleef & Arpels jewellery at Hatton Jewels. Shop authenticated vintage and contemporary rings, necklaces, and more.
-  Updated: 2026-11-03T12:49:02Z
-  Total Products: 6
+  Updated: 2026-11-11T10:41:57Z
+  Total Products: 5
 - [Gifts Under £2000](https://hattonjewels.com/collections/gifts-under-2000)
-  Updated: 2026-11-04T12:56:39Z
-  Total Products: 33
+  Updated: 2026-11-12T13:20:01Z
+  Total Products: 34
 - [Necklaces & Pendants](https://hattonjewels.com/collections/necklaces-pendants): Explore Hatton Jewels’ collection of diamond necklaces for women, including solitaire diamond necklaces, diamond pendant necklaces, and sapphires. Shop now.
   Updated: 2026-06-02T14:40:49Z
   Total Products: 17
 - [Gifts For Her](https://hattonjewels.com/collections/gifts-for-her): A hand selected collection of beautiful pieces, perfect for gifting to that special someone or for treating yourself.
-  Updated: 2026-11-05T11:00:16Z
-  Total Products: 110
+  Updated: 2026-11-12T13:11:54Z
+  Total Products: 111
 - [Jewellery Gifts](https://hattonjewels.com/collections/gifts-collection): Discover timeless jewellery gifts at Hatton Jewels. From diamond earrings to personalised pieces, find the perfect gift for every occasion and style.
   Updated: 2026-11-03T17:04:52Z
   Total Products: 47
@@ -1498,7 +1491,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-06-02T14:40:51Z
   Total Products: 4
 - [Pre-Owned Engagement Rings](https://hattonjewels.com/collections/pre-owned-engagement-rings): Shop second-hand engagement rings at Hatton Jewels. Discover vintage & pre-owned diamond rings with timeless style, quality craftsmanship & great value.
-  Updated: 2026-11-06T14:58:51Z
+  Updated: 2026-11-13T10:02:05Z
   Total Products: 53
 - [Wedding Jewellery](https://hattonjewels.com/collections/wedding-jewellery): Explore elegant wedding jewellery at Hatton Jewels. Discover wedding rings, diamond bracelets, and timeless pieces to celebrate your special day in style.
   Updated: 2026-11-05T11:04:35Z
@@ -1507,17 +1500,17 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-10-01T08:43:10Z
   Total Products: 16
 - [Antique & Vintage Jewellery](https://hattonjewels.com/collections/antique-jewellery): Discover jewellery with a story to tell. Our collection of antique and vintage jewellery brings together beautifully crafted pieces from bygone eras. Each piece is unique and full of character, ready for a new chapter.
-  Updated: 2026-11-06T14:58:51Z
-  Total Products: 45
+  Updated: 2026-11-13T10:02:05Z
+  Total Products: 46
 - [Branded Luxury Jewellery](https://hattonjewels.com/collections/branded-jewellery): Discover the iconic collections of Cartier, the refined elegance of Tiffany & Co., and the exquisite beauty of Van Cleef & Arpels, alongside a curated selection of world-renowned jewellery houses designed to enchant and inspire.
-  Updated: 2026-11-05T11:00:16Z
-  Total Products: 90
+  Updated: 2026-11-12T13:21:22Z
+  Total Products: 89
 - [Summer Collection](https://hattonjewels.com/collections/summer-collection)
-  Updated: 2026-11-05T11:04:35Z
-  Total Products: 49
+  Updated: 2026-11-12T11:57:48Z
+  Total Products: 50
 - [Birthstone Jewellery](https://hattonjewels.com/collections/birthstone-jewellery)
-  Updated: 2026-11-06T16:51:24Z
-  Total Products: 28
+  Updated: 2026-11-13T10:02:05Z
+  Total Products: 29
 - [Men's Jewellery](https://hattonjewels.com/collections/mens-jewellery)
   Updated: 2026-05-26T17:32:38Z
   Total Products: 3
@@ -1525,22 +1518,22 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-07-02T12:31:05Z
   Total Products: 24
 - [Our Top Picks](https://hattonjewels.com/collections/our-top-picks): A handpicked selection of timeless treasures, chosen for their beauty and charm, each piece chosen with you in mind and ready for you to fall in love with.
-  Updated: 2026-11-05T13:08:50Z
+  Updated: 2026-11-12T11:57:48Z
   Total Products: 71
 - [Pre-Owned High Jewellery](https://hattonjewels.com/collections/pre-owned-high-jewellery): Each piece in this meticulously curated collection is a testament to the artistry and dedication of master jewellers who have transformed precious materials into wearable works of art.
-  Updated: 2026-11-06T14:58:51Z
-  Total Products: 27
+  Updated: 2026-11-12T13:21:22Z
+  Total Products: 24
 - [Cartier Love Collection](https://hattonjewels.com/collections/cartier-love-collection): With its iconic screw motif design is one of the most notable lines of jewellery by Cartier. Timeless, easy-to-wear and instantly recognisable, the Cartier love pieces have become one of the most popular collections.
   Updated: 2026-11-03T17:04:52Z
   Total Products: 13
 - [Autumn Collection](https://hattonjewels.com/collections/autumn-collection): From delicate necklaces to chunky rings made to be noticed, discover the pieces that will become the finishing touch to your autumn wardrobe. Think warm rose gold, colourful gemstones and jewellery that layers beautifully with cosy knits, tailored coats and everything in between..
-  Updated: 2026-11-06T14:58:51Z
-  Total Products: 78
+  Updated: 2026-11-13T10:02:05Z
+  Total Products: 80
 - [Diamond Stud Earrings](https://hattonjewels.com/collections/diamond-stud-earrings)
   Updated: 2026-06-02T16:28:44Z
   Total Products: 8
 - [Cartier Trinity Collection](https://hattonjewels.com/collections/trinity-collection): Bold in every aspect with its unique colour combination, the seamless movement of its three interlocking bands, and its elegant simplicity.
-  Updated: 2026-09-28T14:04:48Z
+  Updated: 2026-11-12T11:57:48Z
   Total Products: 8
 - [Etincelle de Cartier Collection](https://hattonjewels.com/collections/etincelle-de-cartier-collection): Celebrating elegance with minimalist designs and pavé-set diamonds creating sleek, contemporary pieces, perfect for any occasion.
   Updated: 2026-09-28T14:03:20Z
@@ -1573,29 +1566,29 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-11-05T15:44:42Z
   Total Products: 28
 - [Pre-Owned Rings](https://hattonjewels.com/collections/pre-owned-rings)
-  Updated: 2026-11-06T14:58:51Z
+  Updated: 2026-11-13T10:02:05Z
   Total Products: 111
 - [Pre-Owned Earrings](https://hattonjewels.com/collections/pre-owned-earrings)
-  Updated: 2026-11-05T11:03:59Z
-  Total Products: 29
-- [Pre-Owned Bracelets](https://hattonjewels.com/collections/pre-owned-bracelets)
-  Updated: 2026-10-22T15:31:31Z
-  Total Products: 25
-- [Pre-Owned Necklaces & Pendants](https://hattonjewels.com/collections/pre-owned-necklaces-pendants)
-  Updated: 2026-11-05T10:57:41Z
+  Updated: 2026-11-12T12:11:41Z
   Total Products: 30
+- [Pre-Owned Bracelets](https://hattonjewels.com/collections/pre-owned-bracelets)
+  Updated: 2026-11-11T10:41:57Z
+  Total Products: 24
+- [Pre-Owned Necklaces & Pendants](https://hattonjewels.com/collections/pre-owned-necklaces-pendants)
+  Updated: 2026-11-12T13:21:22Z
+  Total Products: 29
 - [Cartier Love Bracelets](https://hattonjewels.com/collections/cartier-love-bracelets)
   Updated: 2026-11-05T10:53:16Z
   Total Products: 21
 - [Everyday Jewellery Essentials](https://hattonjewels.com/collections/jewellery-essentials): A curated selection of pieces that every jewellery box deserves, find the pieces to make your everyday looks feel effortless yet intentional, from chunky statement rings to simple diamond necklaces.
-  Updated: 2026-11-05T13:08:50Z
+  Updated: 2026-11-12T11:57:48Z
   Total Products: 94
 - [Diamond Necklaces](https://hattonjewels.com/collections/diamond-necklaces)
   Updated: 2026-06-02T18:52:47Z
   Total Products: 11
 - [Winter Collection](https://hattonjewels.com/collections/winter-collection)
-  Updated: 2026-11-05T11:04:35Z
-  Total Products: 20
+  Updated: 2026-11-12T09:55:54Z
+  Total Products: 19
 - [Valentine's Collection](https://hattonjewels.com/collections/valentines-day-jewellery): Fall in love all over again with our Valentine Collection, curated to celebrate every kind of love. Each piece is made to spark smiles, steal hearts, and turn simple moments into something unforgettable.
   Updated: 2026-11-05T10:57:39Z
   Total Products: 41
@@ -1606,7 +1599,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-07-02T12:30:29Z
   Total Products: 5
 - [Pre-Owned Wedding Jewellery](https://hattonjewels.com/collections/pre-owned-wedding-jewellery)
-  Updated: 2026-11-05T15:22:41Z
+  Updated: 2026-11-12T13:20:02Z
   Total Products: 58
 - [Pre-Owned Bulgari Jewellery](https://hattonjewels.com/collections/pre-owned-bulgari): Bulgari is known for its bold aesthetic, combining classical Roman inspiration with modern Italian glamour. Renowned for vibrant colours, striking gemstones, and sculptural design
   Updated: 2026-11-05T10:57:41Z
@@ -1615,17 +1608,17 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-11-05T13:06:19Z
   Total Products: 30
 - [Pre-Owned Eternity Rings](https://hattonjewels.com/collections/pre-owned-eternity-rings)
-  Updated: 2026-11-05T11:04:35Z
-  Total Products: 15
+  Updated: 2026-11-12T13:11:54Z
+  Total Products: 16
 - [Pre-Owned Cocktail Rings](https://hattonjewels.com/collections/pre-owned-cocktail-rings)
-  Updated: 2026-10-27T13:12:33Z
+  Updated: 2026-11-13T10:02:05Z
   Total Products: 20
 - [Re-Love Jewellery](https://hattonjewels.com/collections/re-love-jewellery): Fall in love with Pre-Owned, discover a curated selection of exceptional jewellery, ready to be re-loved.
   Updated: 2026-11-05T13:08:50Z
   Total Products: 28
 - [Antique & Vintage Rings](https://hattonjewels.com/collections/antique-vintage-rings)
-  Updated: 2026-11-06T14:58:51Z
-  Total Products: 45
+  Updated: 2026-11-13T10:02:05Z
+  Total Products: 46
 
 ## Blogs
 
@@ -2128,7 +2121,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Updated: 2026-09-18T10:05:29Z
     Author: Bethany Sims
   - [We’re Proud to Announce Our Partnership with John Lewis](https://hattonjewels.com/blogs/news/we-re-proud-to-announce-our-partnership-with-john-lewis)
-    Updated: 2025-12-12T10:13:08Z
+    Updated: 2026-11-11T13:02:20Z
     Author: Bethany Sims
     Tags: In The Press, Spotlights
   - [Jewellery Trends to Embrace in 2026](https://hattonjewels.com/blogs/news/jewellery-trends-to-embrace-in-2026)
@@ -2355,8 +2348,8 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   - [The woman who collects stories through jewels : Jennifer Tilly](https://hattonjewels.com/blogs/news/the-woman-who-collects-stories-through-jewels-jennifer-tilly)
     Updated: 2026-09-18T10:07:25Z
     Author: Rachel Smith
-  - [Modern Heirloom Pieces Worth Passing Down](https://hattonjewels.com/blogs/news/modern-heirloom-pieces-worth-passing-down)
-    Updated: 2026-08-17T16:28:48Z
+  - [Modern Heirloom: Pieces Worth Passing Down](https://hattonjewels.com/blogs/news/modern-heirloom-pieces-worth-passing-down)
+    Updated: 2026-11-11T13:21:18Z
     Author: Bethany Sims
   - [The London Autumn Social Calendar: Events to Know in 2026](https://hattonjewels.com/blogs/news/the-london-autumn-social-calendar-events-to-know-in-2026)
     Updated: 2026-09-18T10:07:30Z
@@ -2405,6 +2398,14 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Updated: 2026-11-02T14:55:59Z
     Author: Bethany Sims
     Tags: Spotlights
+  - [Something Old, Something Special: Why Vintage Jewellery Makes the Perfect Gift](https://hattonjewels.com/blogs/news/something-old-something-special-why-vintage-jewellery-makes-the-perfect-gift)
+    Updated: 2026-11-10T10:04:52Z
+    Author: Bethany Sims
+    Tags: Lifestyle, Spotlights
+  - [Discover Hatton Jewels at John Lewis](https://hattonjewels.com/blogs/news/discover-hatton-jewels-at-john-lewis)
+    Updated: 2026-11-11T13:18:08Z
+    Author: Bethany Sims
+    Tags: Lifestyle, Spotlights
 
 ## Store Pages
 
