@@ -6,7 +6,7 @@
 - Timezone: Europe/Oslo
 - Created At: 2026-07-24T16:43:16Z
 - Contact Email: cozyandstylish@outlook.com
-- Updated At: 2026-11-07T01:07:44.434Z
+- Updated At: 2026-11-15T00:59:36.394Z
 
 ## Products
 
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab24daedfbdb.jpg?v=1791409181
   Price: kr 119.90 NOK
 - [Coffee and Dog Lover T-Shirt - Blend of Comfort & Style](https://cozyandstylish.myshopify.com/products/all-i-need-is-cooffee-and-my-dog-t-shirt): Discover the perfect Coffee and Dog Lover T-Shirt! Show your passion for coffee and dogs while staying comfy - make it part of your wardrobe!
-  Updated: 2026-11-02T18:16:36Z
+  Updated: 2026-11-13T12:28:05Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -83,7 +83,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-v-neck-t-shirt-heather-navy-front-6ab24e8a3befb.jpg?v=1791409243
     Price: kr 191.40 NOK
   - [Heather Navy / M](https://cozyandstylish.myshopify.com/products/all-i-need-is-cooffee-and-my-dog-t-shirt?variant=44904411529267)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-v-neck-t-shirt-heather-navy-front-6ab24e8a3befb.jpg?v=1791409243
     Price: kr 191.40 NOK
   - [Heather Navy / L](https://cozyandstylish.myshopify.com/products/all-i-need-is-cooffee-and-my-dog-t-shirt?variant=44904411562035)
@@ -226,7 +226,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab251ffd3b83.jpg?v=1791409383
   Price: kr 119.90 NOK
 - [Crazy Cat Lady V-Neck T-Shirt - Stylish Cat Lover Comfort](https://cozyandstylish.myshopify.com/products/crazy-cat-lady-t-shirt): Step out in the Crazy Cat Lady V-neck T-shirt. Celebrate your love for cats while staying cozy and stylish - perfect for any casual occasion!
-  Updated: 2026-11-02T18:16:35Z
+  Updated: 2026-11-13T12:28:07Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -256,7 +256,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-v-neck-t-shirt-heather-navy-front-6ab252865914d.jpg?v=1791409444
     Price: kr 163.90 NOK
   - [Heather Navy / M](https://cozyandstylish.myshopify.com/products/crazy-cat-lady-t-shirt?variant=44904429715507)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-v-neck-t-shirt-heather-navy-front-6ab252865914d.jpg?v=1791409444
     Price: kr 163.90 NOK
   - [Heather Navy / L](https://cozyandstylish.myshopify.com/products/crazy-cat-lady-t-shirt?variant=44904429748275)
@@ -3057,6 +3057,18 @@
     Author: Cozy and Stylish
   - [Life is better with a Chinese Crested Travel Mug Exploring Fashionable Gifts for Doglovers and Catlovers](https://cozyandstylish.myshopify.com/blogs/nyheter/life-is-better-with-a-chinese-crested-travel-mug-exploring-fashionable-gifts-for-doglovers-and-catlovers): Life is better with a Chinese Crested Travel Mug Exploring Fashionable Gifts for Doglovers and Catlovers
     Updated: 2026-11-05T00:06:23Z
+    Author: Cozy and Stylish
+  - [Proud Cat Mum Enamel Mug A Chic Gift for Doglovers and Catlovers in Fashion](https://cozyandstylish.myshopify.com/blogs/nyheter/proud-cat-mum-enamel-mug-a-chic-gift-for-doglovers-and-catlovers-in-fashion): Proud Cat Mum Enamel Mug A Chic Gift for Doglovers and Catlovers in Fashion
+    Updated: 2026-11-08T00:06:20Z
+    Author: Cozy and Stylish
+  - [5 Must-Have Gifts for Doglovers and Catlovers Featuring the Fashion-Forward Golden Retriever Mug](https://cozyandstylish.myshopify.com/blogs/nyheter/5-must-have-gifts-for-doglovers-and-catlovers-featuring-the-fashion-forward-golden-retriever-mug): 5 Must-Have Gifts for Doglovers and Catlovers Featuring the Fashion-Forward Golden Retriever Mug
+    Updated: 2026-11-09T01:23:07Z
+    Author: Cozy and Stylish
+  - [Gift Ideas for Catlovers and Doglovers: Embrace Pet-Friendly Fashion with the Proud Cat Mum Ringer T-Shirt](https://cozyandstylish.myshopify.com/blogs/nyheter/gift-ideas-for-catlovers-and-doglovers-embrace-pet-friendly-fashion-with-the-proud-cat-mum-ringer-t-shirt): Gift Ideas for Catlovers and Doglovers: Embrace Pet-Friendly Fashion with the Proud Cat Mum Ringer T-Shirt
+    Updated: 2026-11-12T00:06:00Z
+    Author: Cozy and Stylish
+  - [Elevate Your Morning: Why the Sphynx Mug is the Ultimate Gift for Doglovers and Catlovers Who Love Fashion](https://cozyandstylish.myshopify.com/blogs/nyheter/elevate-your-morning-why-the-sphynx-mug-is-the-ultimate-gift-for-doglovers-and-catlovers-who-love-fashion): Elevate Your Morning: Why the Sphynx Mug is the Ultimate Gift for Doglovers and Catlovers Who Love Fashion
+    Updated: 2026-11-15T00:05:39Z
     Author: Cozy and Stylish
 
 ## Store Pages
