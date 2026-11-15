@@ -10,7 +10,7 @@
 - Contact Email: info@thevitaminstore.ca
 - Contact Phone: 2042283321
 - Address: 91 Royal Crest Drive Winnipeg Manitoba R3P 2R1
-- Updated At: 2026-11-07T00:38:13.430Z
+- Updated At: 2026-11-15T00:36:15.199Z
 
 ## Products
 
@@ -1956,7 +1956,7 @@
   Updated: 2026-10-10T11:19:13Z
   Total Products: 149
 - [Cardiovascular](https://7591eb.myshopify.com/collections/cardiovascular): Cardiovascular supplements support heart health and circulation. They typically contain omega-3 fatty acids, CoQ10, garlic, and antioxidants. These ingredients help lower cholesterol, reduce blood pressure, and improve overall cardiovascular function. Ideal for those seeking to maintain heart health, enhance circulation, and reduce the risk of heart disease.
-  Updated: 2026-10-05T11:16:29Z
+  Updated: 2026-11-07T12:16:13Z
   Total Products: 98
 - [Brain & Memory Support](https://7591eb.myshopify.com/collections/cognitive-neural): Cognitive and neural supplements enhance brain function and support mental clarity. They often include ingredients like omega-3 fatty acids, ginkgo biloba, phosphatidylserine, and Bacopa monnieri. These components improve memory, focus, and overall cognitive performance, making them ideal for individuals seeking to boost mental sharpness and protect brain health.
   Updated: 2026-10-06T11:18:33Z
@@ -1971,7 +1971,7 @@
   Updated: 2026-10-08T11:17:32Z
   Total Products: 132
 - [Essential Fatty Acids](https://7591eb.myshopify.com/collections/essential-fatty-acids): Essential fatty acid supplements support heart, brain, and joint health. They contain omega-3, omega-6, and omega-9 fatty acids, typically derived from fish oil, flaxseed, or algae. These supplements reduce inflammation, improve cardiovascular function, and enhance cognitive performance, making them ideal for overall health and well-being.
-  Updated: 2026-10-02T19:29:30Z
+  Updated: 2026-11-07T12:16:13Z
   Total Products: 45
 - [Eye Health](https://7591eb.myshopify.com/collections/eye-health): Eye health supplements support vision and protect against age-related eye conditions. They often contain ingredients like lutein, zeaxanthin, vitamins A, C, and E, and omega-3 fatty acids. These nutrients enhance visual acuity, reduce oxidative stress, and promote overall eye health, making them ideal for maintaining optimal vision.
   Updated: 2026-10-07T11:18:52Z
@@ -2037,7 +2037,7 @@
   Updated: 2026-09-20T11:17:35Z
   Total Products: 14
 - [Omega Oils](https://7591eb.myshopify.com/collections/omega-oils): Shop high-quality omega oils and essential fatty acids at The Vitamin Store. Discover a premium selection of fish oils, salmon oil, and vegan omega-3 supplements from trusted brands to support heart, brain, and joint health. Enjoy the lowest prices in Canada and free shipping on qualifying orders.
-  Updated: 2026-10-02T19:29:30Z
+  Updated: 2026-11-07T12:16:13Z
   Total Products: 45
 - [Probiotic Blends](https://7591eb.myshopify.com/collections/probiotic-blends): Shop a wide selection of premium probiotic blends and supplements at The Vitamin Store. Improve your digestive health with high-quality, natural formulas from trusted brands at Canada's  lowest prices. Enjoy free shipping on qualifying orders across Canada.
   Updated: 2026-10-02T19:29:31Z
@@ -2064,7 +2064,7 @@
   Updated: 2026-09-30T11:17:33Z
   Total Products: 184
 - [Cyto-Matrix](https://7591eb.myshopify.com/collections/cyto-matrix): Shop Cyto-Matrix supplements at The Vitamin Store. Browse our high-quality selection of professional-grade vitamins, minerals, and natural health products designed to support your wellness journey. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-10-24T11:17:55Z
+  Updated: 2026-11-07T12:16:13Z
   Total Products: 153
 - [Orange Naturals](https://7591eb.myshopify.com/collections/orange-naturals): Shop the Orange Naturals collection at The Vitamin Store for high-quality, family-friendly supplements. Explore a wide range of vitamins, minerals, and natural remedies designed to support kids, women's wellness, and daily health. Free shipping on qualifying Canadian orders.
   Updated: 2026-06-10T17:25:48Z
@@ -2073,7 +2073,7 @@
   Updated: 2026-06-16T01:30:09Z
   Total Products: 4
 - [Health Topics](https://7591eb.myshopify.com/collections/health-topics): Explore a wide range of natural health topics and find the best supplements for your wellness journey at The Vitamin Store. From immune support to skin health, discover high-quality vitamins and minerals with free shipping on qualifying Canadian orders.
-  Updated: 2026-10-24T11:17:55Z
+  Updated: 2026-11-07T12:16:13Z
   Total Products: 982
 - [Acne](https://7591eb.myshopify.com/collections/acne): Shop natural acne treatments and supplements at The Vitamin Store. Discover effective, high-quality vitamins and skincare solutions to help clear your skin and promote a healthy complexion. Free shipping on qualifying Canadian orders.
   Updated: 2026-10-08T11:17:32Z
@@ -2100,7 +2100,7 @@
   Updated: 2026-10-10T11:19:13Z
   Total Products: 33
 - [Arthritis](https://7591eb.myshopify.com/collections/arthritis): Manage arthritis pain naturally with high-quality supplements from The Vitamin Store. Explore our curated collection of vitamins, minerals, and herbal remedies designed to support joint health and mobility. Shop now for effective relief and enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-10-08T11:17:32Z
+  Updated: 2026-11-07T12:16:13Z
   Total Products: 48
 - [Asthma](https://7591eb.myshopify.com/collections/asthma): Shop natural asthma supplements and respiratory health solutions at The Vitamin Store. Discover high-quality vitamins and professional-grade formulas to support lung function and manage symptoms. Enjoy free shipping on qualifying Canadian orders.
   Updated: 2026-08-31T11:17:00Z
@@ -2238,7 +2238,7 @@
   Updated: 2026-10-10T11:19:13Z
   Total Products: 71
 - [Health support](https://7591eb.myshopify.com/collections/health-support)
-  Updated: 2026-10-24T11:17:55Z
+  Updated: 2026-11-07T12:16:13Z
   Total Products: 940
 - [Magnesium & Vitamin D](https://7591eb.myshopify.com/collections/magnesium-vitamin-d)
   Updated: 2026-10-10T11:19:13Z
