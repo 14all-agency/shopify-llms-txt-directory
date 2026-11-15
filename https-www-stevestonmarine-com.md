@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-06-05T07:31:59Z
 - Contact Email: stevemar@stevestonmarine.com
-- Updated At: 2026-11-08T00:19:19.656Z
+- Updated At: 2026-11-15T00:22:20.578Z
 
 ## Products
 
 - [Dickinson Newport Explorer Propane Fireplace - 00-NEW-EXPLORER | Steveston Marine Canada](https://www.stevestonmarine.com/products/dickinson-newport-explorer-propane-fireplace-00-new-explorer): Introducing the Newport Explorer Propane Fireplace: Efficient and Safe: This propane fireplace is designed with an air-tight, direct vent system that ensures the combustion process is isolated from the living space. It includes a built-in blower for more rapid heat distribution. Complete Package: The fireplace comes with all necessary accessories, including a stainless steel backing plate, 28 inches of flexible double stainless chimney, and a wind resistant deck fitting cap. Please note that a propane hose, 11” WC regulator, and fittings are required and sold separately. Everything you need for installation is included! User-Friendly: Easy to install and easy to operate. Features a stainless steel burner and a large ceramic glass viewing window with a safety screen. Safety and Efficiency: Operates via safe, direct-vent operation. Thermally isolated construction prevents contact burns. Push button ignition. Works reliably regardless of boat motion or wind conditions. Rated for up to 5000 feet of elevation. Offers variable heat output and excellent thermal efficiency. Demonstrates low fuel consumption. Durable and Marine-: Constructed with high-quality 304 stainless steel. No risk of interior oxygen depletion. CSA/AISI  for home and recreational vehicle use ABYC  for MARINE use Specifications: Width: 10.75″ Height: 17″ Depth: 8.25″ Weight: 22 lbs Mounting Backplate: Width: 10.25″ Depth: 0.500″ Height: 24.75″ Fuel Consumption (per hour): 1 lb tank: 7 hrs on LOW, 5 hrs on HIGH 20 lb tank: 140 hrs on LOW, 100 hrs on HIGH Heat Output: Low: 3,200 BTU High: 4,700 BTU The Newport Explorer Propane Fireplace offers reliable and safe heating with easy installation and operation. Please ensure you have the necessary propane hose, regulator, and fittings for use. Follow this guide by Dickinson for optimal performance! CSA  for use on Boats, RV Cabins, and Apartments.
-  Updated: 2026-10-07T08:08:08Z
+  Updated: 2026-11-13T07:38:20Z
   Vendor: Dickinson
   Product Type: MAP
   Availability: Available
@@ -32,21 +32,21 @@
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/00SBQL.png?v=1777119294
   Price: $479.61 CAD
 - [Dickinson Caribbean 2-Burner Propane Stove | Steveston Marine](https://www.stevestonmarine.com/products/dickinson-caribbean-2-burner-propane-stove): Shop Dickinson Caribbean 2-Burner Propane Stove (00-CAR2B) at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
-  Updated: 2026-10-06T21:13:10Z
+  Updated: 2026-11-13T07:38:19Z
   Vendor: Dickinson
   Product Type: MAP
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/00-CAR2B_00.png?v=1777119295
   Price: $2,454.39 CAD
 - [Dickinson Mediterranean 3-Burner Propane St | Steveston Marine](https://www.stevestonmarine.com/products/dickinson-mediterranean-3-burner-propane-stove): Shop Dickinson Mediterranean 3-Burner Propane Stove (00-MED3B) at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
-  Updated: 2026-10-06T21:13:10Z
+  Updated: 2026-11-13T07:38:19Z
   Vendor: Dickinson
   Product Type: MAP
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/00-MED3B_00.png?v=1777119298
   Price: $2,562.68 CAD
 - [Dickinson Newport P9000 Propane Fireplace | Steveston Marine Canada](https://www.stevestonmarine.com/products/dickinson-newport-p9000-propane-fireplace): The combustion process is completely isolated from the inside of the boat by the unique, direct vent design. A built-in blower provides good heat circulation. Efficient and Safe: This propane heater is designed with a unique, direct vent system that ensures the combustion process is isolated from the boat's interior. It includes a built-in blower for even heat distribution. Complete Package: The heater comes with all necessary accessories, including a stainless steel backing plate, 28 inches of flexible double stainless chimney, and a deck fitting cap. Please note that a propane hose, 11” WC regulator, and fittings are required and sold separately. Everything you need for installation is included! User-Friendly: Easy to install and easy to operate. Features a stainless steel burner and a large ceramic glass viewing window with a safety screen. Safety and Efficiency: Operates via safe, direct-vent operation. Works reliably regardless of boat motion or wind conditions. Offers variable heat output and excellent thermal efficiency. Demonstrates low fuel consumption. Durable and Marine-: Constructed with high-quality 304 stainless steel. No risk of interior oxygen depletion. ABYC  for MARINE use only. Specifications: Width: 8.5″ Height: 14″ Depth: 5.5″ Weight: 22 lbs Mounting Backplate: Width: 8.375″ Depth: 0.650″ Height: 23″ Fuel Consumption (per hour): 1 lb tank: 7 hrs on LOW, 5 hrs on HIGH 20 lb tank: 140 hrs on LOW, 100 hrs on HIGH Heat Output: Low: 3,200 BTU High: 4,500 BTU The Newport P9000 Propane Fireplace Heater offers reliable and safe heating with easy installation and operation. Please ensure you have the necessary propane hose, regulator, and fittings for use. Follow this installation guide by Dickinson for optimal performance!
-  Updated: 2026-10-06T21:13:10Z
+  Updated: 2026-11-13T07:38:18Z
   Vendor: Dickinson
   Product Type: MAP
   Availability: Available
@@ -67,35 +67,35 @@
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/sudbury-bilge-cleaner-gl-44655.jpg?v=1777117556
   Price: $52.97 CAD
 - [Mastervolt ChargeMaster Plus 12/75-3 - 44310755](https://www.stevestonmarine.com/products/mastervolt-chargemaster-plus-12-75-3-44310755): Mastervolt ChargeMaster Plus 12/75-3 - 44310755 - 44310755 - Battery Chargers - The ChargeMaster Plus by Mastervolt is the next generation of battery chargers that integrate multiple functions into a single device.
-  Updated: 2026-10-06T21:13:11Z
+  Updated: 2026-11-13T07:38:17Z
   Vendor: Mastervolt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/44310755.jpg?v=1777117557
   Price: $2,697.91 CAD
 - [Mastervolt ChargeMaster Plus 12/100-3 - 44311005](https://www.stevestonmarine.com/products/mastervolt-chargemaster-plus-12-100-3-44311005): Mastervolt ChargeMaster Plus 12/100-3 - 44311005 - 44311005 - Battery Chargers - The ChargeMaster Plus by Mastervolt is the next generation of battery chargers that integrate multiple functions into a single device. Replacing auxiliary chargers, battery i
-  Updated: 2026-10-06T21:13:11Z
+  Updated: 2026-11-13T07:38:17Z
   Vendor: Mastervolt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/44311005.jpg?v=1777117556
   Price: $3,496.80 CAD
 - [Mastervolt ChargeMaster Plus 24/40-3 - 44320405](https://www.stevestonmarine.com/products/mastervolt-chargemaster-plus-24-40-3-44320405): Mastervolt ChargeMaster Plus 24/40-3 - 44320405 - 44320405 - Battery Chargers - The ChargeMaster Plus by Mastervolt is the next generation of battery chargers that integrate multiple functions into a single device. Replacing auxiliary chargers, battery is
-  Updated: 2026-10-06T21:13:11Z
+  Updated: 2026-11-13T07:38:16Z
   Vendor: Mastervolt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/44320405.jpg?v=1777117559
   Price: $2,029.99 CAD
 - [Mastervolt ChargeMaster Plus 24/60-3 - 44320605](https://www.stevestonmarine.com/products/mastervolt-chargemaster-plus-24-60-3-44320605): Mastervolt ChargeMaster Plus 24/60-3 - 44320605 - 44320605 - Battery Chargers - The ChargeMaster Plus by Mastervolt is the next generation of battery chargers that integrate multiple functions into a single device. Replacing auxiliary chargers, battery is
-  Updated: 2026-10-06T21:13:12Z
+  Updated: 2026-11-13T07:38:15Z
   Vendor: Mastervolt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/44320605.jpg?v=1777117559
   Price: $2,842.75 CAD
 - [Mastervolt ChargeMaster Plus 24/110-2 - 44321105](https://www.stevestonmarine.com/products/mastervolt-chargemaster-plus-24-110-2-44321105): Mastervolt ChargeMaster Plus 24/110-2 - 44321105 - 44321105 - Battery Chargers - The ChargeMaster Plus by Mastervolt is the next generation of battery chargers that integrate multiple functions into a single device. Replacing auxiliary chargers, battery i
-  Updated: 2026-10-06T21:13:12Z
+  Updated: 2026-11-13T07:38:15Z
   Vendor: Mastervolt
   Product Type: 
   Availability: Available
@@ -424,7 +424,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/sherwood-p-impeller-kit-w-o-ring-44383.jpg?v=1777117590
   Price: $62.99 CAD
 - [Heater Craft Heater 4 Outlet 300 Series - 317H4C | Steveston Marine Canada](https://www.stevestonmarine.com/products/heater-craft-heater-4-outlet-300-series): Heater Craft Heater 4 Outlet 300 Series 1-HA4643 Description : 40000 BTUand#44; 4 Euro Vents
-  Updated: 2026-10-06T21:13:23Z
+  Updated: 2026-11-13T07:44:43Z
   Vendor: HeaterCraft
   Product Type: 
   Availability: Available
@@ -697,7 +697,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/KuumaRodHolderGrillMount.jpg?v=1792425174
   Price: $123.75 CAD
 - [Kuuma 11 Gallon Stainless Steel Water Heate | Steveston Marine](https://www.stevestonmarine.com/products/kuuma-11-gallon-stainless-steel-water-heater-120-volt-front-exchanger): Shop Kuuma 11 Gallon Stainless Steel Water Heater 120 Volt Front Exchanger at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
-  Updated: 2026-10-06T21:13:32Z
+  Updated: 2026-11-13T07:38:13Z
   Vendor: Kuuma
   Product Type: 
   Availability: Available
@@ -1765,11 +1765,11 @@
 ## Collections
 
 - [Best  Products](https://www.stevestonmarine.com/collections/best--products): Shop our most popular marine gear PFDs, VHF radios, BBQs & foul weather wear from Mustang, Garmin, Grundens & more. Trusted by boaters since 1941.
-  Updated: 2026-11-07T12:17:16Z
+  Updated: 2026-11-11T20:05:14Z
   Total Products: 53
 - [Newest Products](https://www.stevestonmarine.com/collections/newest-products): Browse the newest marine products at Steveston Marine — fresh arrivals across boats, electronics, hardware & fishing gear. Ships Canada-wide.
-  Updated: 2026-11-07T23:57:27Z
-  Total Products: 43631
+  Updated: 2026-11-14T12:17:11Z
+  Total Products: 43623
 - [Coolers](https://www.stevestonmarine.com/collections/coolers): Shop Igloo Cooler and Coleman Cooler, mounting kits at Steveston Marine.Trusted performance for fishing, cruising, and marine use.
   Updated: 2026-09-25T20:06:53Z
   Total Products: 7
@@ -1786,7 +1786,7 @@
   Updated: 2026-09-26T14:28:38Z
   Total Products: 13
 - [BBQ Mounts and Parts](https://www.stevestonmarine.com/collections/bbq-mounts-and-parts): Shop Marine Barbecue Mounts, Magma grill mounts, boat BBQ grill mounts, and genuine Magma & Dickinson BBQ parts at Steveston Marine. Top Quality marine hardware.
-  Updated: 2026-11-05T12:19:11Z
+  Updated: 2026-11-10T22:36:33Z
   Total Products: 229
 - [Cabin Heaters](https://www.stevestonmarine.com/collections/cabin-heaters): Shop Dickinson Heater, Propane Heaters  & Webasto Heaters from Electric Boat Heaters, including Dickinson Newport. Reliable marine heating at Steveston Marine.
   Updated: 2026-11-05T12:19:11Z
@@ -1798,16 +1798,16 @@
   Updated: 2026-10-30T11:18:30Z
   Total Products: 104
 - [Stoves and Cooktops](https://www.stevestonmarine.com/collections/stoves-and-cooktops): Shop Dickinson Stoves, Force 10, diesel & gimballed stoves at Steveston Marine. Buy Online stainless steel stove pipe and marine heating solutions in Canada.
-  Updated: 2026-10-14T01:32:58Z
+  Updated: 2026-11-12T12:19:25Z
   Total Products: 60
 - [Water Heaters](https://www.stevestonmarine.com/collections/water-heaters): Shop Online marine water heaters from Johnson Pump, Kuuma, Quick, Seaward & Torrid. Reliable cylindrical water heaters for boats yachts at Steveston Marine.
-  Updated: 2026-11-06T20:30:17Z
+  Updated: 2026-11-11T12:17:59Z
   Total Products: 19
 - [Watermakers](https://www.stevestonmarine.com/collections/watermakers): Buy Online Marine HRO, Head Hunter Mach5 115V, Village Marine Watermakers, Little Wonder & pumps. Trusted marine watermaker experts at Steveston Marine.
   Updated: 2026-10-10T11:22:54Z
   Total Products: 237
 - [All Boat Covers](https://www.stevestonmarine.com/collections/all-boat-covers): Buy Online quality boat covers from Attwood, Lalizas, and Walker Bay. Durable mooring and storage covers designed for protection and long-lasting marine use.
-  Updated: 2026-10-27T14:40:03Z
+  Updated: 2026-11-14T12:17:11Z
   Total Products: 236
 - [Boat Cover Supports](https://www.stevestonmarine.com/collections/boat-cover-supports): Shop boat cover supports, Attwood, Carver & Taylor boat covers, plus SeaDog rail mount bow sockets. Durable marine-grade protection for boats.
   Updated: 2026-09-25T19:13:46Z
@@ -1837,7 +1837,7 @@
   Updated: 2026-10-05T11:20:48Z
   Total Products: 36
 - [Battery And Wire Hardware](https://www.stevestonmarine.com/collections/battery-and-wire-hardware): Buy Online Ancor battery cable, Attwood battery, Cobra wire & Cole Hersee. Find the best marine battery and 12V deep cycle boat battery at Steveston Marine.
-  Updated: 2026-11-06T12:34:33Z
+  Updated: 2026-11-14T07:41:35Z
   Total Products: 682
 - [Battery Meters and Gauges](https://www.stevestonmarine.com/collections/battery-meters-and-gauges): Buy Online Victron, Blue Sea, BEP, Xantrex & more battery meters at Steveston Marine. Monitor boat battery performance with trusted marine brands.
   Updated: 2026-10-14T11:28:03Z
@@ -1942,10 +1942,10 @@
   Updated: 2026-11-06T12:34:33Z
   Total Products: 65
 - [What is the best marine battery charger for your boat?](https://www.stevestonmarine.com/collections/battery-chargers): Shop 200+ marine battery chargers for boats & RVs. Victron, Xantrex, Promariner & more. 12V, 24V, multi-bank & waterproof options. Free shipping over $99 across Canada.
-  Updated: 2026-11-03T12:16:25Z
+  Updated: 2026-11-12T12:19:25Z
   Total Products: 200
 - [Inverter](https://www.stevestonmarine.com/collections/inverter): Buy Online Boat Inverters Samlex, Victron, Xantrex & Newmar Energy batteries and battery isolators at Steveston Marine.
-  Updated: 2026-10-27T11:28:28Z
+  Updated: 2026-11-09T12:16:34Z
   Total Products: 156
 - [Isolators and Relays](https://www.stevestonmarine.com/collections/isolators-and-relays): Buy Online Blue Sea Systems relays, Cole Hersee isolators, Newmar integrators, ProMariner and SurePower battery isolators at Steveston Marine.
   Updated: 2026-09-26T14:23:23Z
@@ -2008,7 +2008,7 @@
   Updated: 2026-10-13T17:43:28Z
   Total Products: 80
 - [Wire](https://www.stevestonmarine.com/collections/wire): Steveston Marine & Hardware has a large selection of Electrical Wires for all your electrical needs! We have wires from Ancor, Pacer Electronics, Sierra, and more. Shop in one of our stores located in Vancouver or Langley! You can contact us if you have any questions. Order online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply)
-  Updated: 2026-10-02T11:22:32Z
+  Updated: 2026-11-13T12:20:18Z
   Total Products: 46
 - [Cabin Lighting](https://www.stevestonmarine.com/collections/cabin-lighting): Buy your boat with premium marine cabin lighting. Shop marine LED cabin lights and boat interior lighting at Steveston Marine for durability and style.
   Updated: 2026-10-13T17:44:32Z
@@ -2065,19 +2065,19 @@
   Updated: 2026-10-19T11:20:52Z
   Total Products: 18
 - [Battery Lugs](https://www.stevestonmarine.com/collections/battery-lugs): Buy Online durable marine battery lugs and battery cable lugs at Steveston Marine. Corrosion-resistant, secure fit, and built for reliable boat power connections.
-  Updated: 2026-09-25T21:42:35Z
+  Updated: 2026-11-13T12:20:18Z
   Total Products: 90
 - [Cable Ties and Mounts](https://www.stevestonmarine.com/collections/cable-ties-and-mounts): Buy online Ancor Cable Ties and Perko cable ties, Raymarine & SEADOG cable ties at Steveston Marine. Durable marine-grade ties for secure.
-  Updated: 2026-10-05T00:56:51Z
+  Updated: 2026-11-12T12:19:25Z
   Total Products: 23
 - [Electrical Tape](https://www.stevestonmarine.com/collections/electrical-tape): Shop Online 3M electrical tape and 3M marine solutions for boats at steveston marine. Durable, waterproof, and reliable electrical tape for marine and outdoor use.
   Updated: 2026-09-04T17:43:07Z
   Total Products: 5
 - [Fuse Blocks](https://www.stevestonmarine.com/collections/fuse-blocks): You Are Looking Blue Sea Systems, Victron, and Littelfuse marine fuse blocks, fuse holders, and mega fuses. Reliable power protection for every boat at Steveston Marine.
-  Updated: 2026-10-13T17:43:22Z
+  Updated: 2026-11-13T12:20:18Z
   Total Products: 69
 - [Fuses](https://www.stevestonmarine.com/collections/fuses): Buy Online marine fuse and boat fuse from Ancor, Cole Hersee, SEADOG, Sierra, Vetus, Victron & Sleipner. Reliable protection for marine electrical systems.
-  Updated: 2026-10-25T11:27:12Z
+  Updated: 2026-11-13T12:20:18Z
   Total Products: 104
 - [Heat Shrink Tubing and Connectors](https://www.stevestonmarine.com/collections/heat-shrink-tubing-and-connectors): Buy Online marine heat shrink tubing, heat shrink connectors & Ancor heat shrink tubing. Waterproof, durable wiring protection at Steveston Marine.
   Updated: 2026-09-25T20:06:38Z
@@ -2134,7 +2134,7 @@
   Updated: 2026-09-04T17:43:08Z
   Total Products: 4
 - [Paper Charts](https://www.stevestonmarine.com/collections/paper-charts): Steveston Marine & Hardware has Paper Charts available for ! We have a variety of charts from Canadian Hydro Graphics. Contact us if you have any questions about paper charts.
-  Updated: 2026-10-30T11:18:30Z
+  Updated: 2026-11-10T12:16:53Z
   Total Products: 159
 - [WaterProof Charts](https://www.stevestonmarine.com/collections/waterproof-charts): Steveston Marine & Hardware has Water Proof Charts from Canadian Hydrographic Services available for you! We have a large selection of charts from various locations for you! You can find these products in one of our stores located in Vancouver, Richmond, or Langley!
   Updated: 2026-09-04T17:43:08Z
@@ -2275,7 +2275,7 @@
   Updated: 2026-10-11T11:22:15Z
   Total Products: 64
 - [Teak Products](https://www.stevestonmarine.com/collections/teak-products): Steveston Marine & Hardware has a large selection of Teak Products for you! We have a wide variety of products from Boatlife, Semco, STARBRITE, and many more. You can find these products in one of our stores located in Vancouver or Langley!
-  Updated: 2026-10-14T01:32:30Z
+  Updated: 2026-11-12T12:19:25Z
   Total Products: 110
 - [Waxes and Polishes](https://www.stevestonmarine.com/collections/waxes-and-polishes): Steveston Marine & Hardware has a huge selection of Waxes and Polishes for you to choose from. We have a variety of items from 3M Marine, Boat Bling, Boatlife, and many more. Shop in one of our stores located in Vancouver or Langley! You can contact us if you have any questions. Order online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply)
   Updated: 2026-09-25T21:19:25Z
@@ -2287,7 +2287,7 @@
   Updated: 2026-11-03T12:16:25Z
   Total Products: 149
 - [Fillers](https://www.stevestonmarine.com/collections/fillers): Shop marine body fillers and epoxy fillers at Steveston Marine. 3M Marine premium and lightweight fillers, Interlux Watertite and West System graphite powder. Ships Canada-wide.
-  Updated: 2026-11-02T23:11:10Z
+  Updated: 2026-11-10T12:16:53Z
   Total Products: 7
 - [Gel-Coat and Fiberglass Compounds](https://www.stevestonmarine.com/collections/gel-coat-and-fiberglass-compounds): Steveston Marine & Hardware has a large selection of Gel-Coat and Fiberglass Compounds for you! We have products from 3M Marine, STARBRITE, Yacht Brite, and more. You can find these products in one of our stores located in Vancouver or Langley!
   Updated: 2026-11-07T12:17:16Z
@@ -2332,7 +2332,7 @@
   Updated: 2026-09-26T13:56:23Z
   Total Products: 18
 - [Fishing Lures](https://www.stevestonmarine.com/collections/fishing-lures): Shop Online premium fishing lures including Gibb Fishing Lures and Gibbs Delta Lures. Durable, high-performance options for successful fishing trips.
-  Updated: 2026-10-22T11:25:50Z
+  Updated: 2026-11-11T12:17:59Z
   Total Products: 87
 - [Fishing Reels](https://www.stevestonmarine.com/collections/fishing-reels): Shop Online premium fishing reels at Steveston Marine. Explore Daiwa, Penn & Fenwick Fishing reels built for performance, durability, and smooth casting.
   Updated: 2026-11-01T12:16:48Z
@@ -2341,7 +2341,7 @@
   Updated: 2026-09-27T11:26:40Z
   Total Products: 23
 - [ Deals - Limited Quantities Available](https://www.stevestonmarine.com/collections/): Check back often for great deals on Marine Electronics, Marine Hardware, Fishing Gear, and many other boating gadgets. These items are limited in stock, so act fast! Steveston Marine & Hardware has the best boating deals in Canada! You can find these products in one of our stores located in Vancouver !
-  Updated: 2026-11-07T23:56:26Z
+  Updated: 2026-11-13T12:20:18Z
   Total Products: 64
 - [AIS Receivers and Transponders](https://www.stevestonmarine.com/collections/ais-receivers-and-transponders): Buy Online AIS receivers, marine AIS transponders & Raymarine AIS transceivers for safer navigation. Improve vessel tracking & collision avoidance today.
   Updated: 2026-10-06T11:24:05Z
@@ -2359,13 +2359,13 @@
   Updated: 2026-09-25T20:32:46Z
   Total Products: 1
 - [Boat Autopilots & Marine Autopilot Systems](https://www.stevestonmarine.com/collections/autopilots): Shop boat autopilots & marine autopilot systems from Garmin, Raymarine & Simrad. Hydraulic & mechanical options for powerboats, sailboats & outboards. NMEA 2000 ready. Free shipping over $99 Canada.
-  Updated: 2026-10-30T11:18:30Z
+  Updated: 2026-11-13T12:20:18Z
   Total Products: 158
 - [VHF Antennas](https://www.stevestonmarine.com/collections/vhf-antennas): Buy Online VHF antennas, boat VHF antennas & marine VHF antennas at Steveston Marine. Reliable range, durable build & fast Canadian shipping.
   Updated: 2026-09-25T21:30:44Z
   Total Products: 29
 - [Electronic Charts](https://www.stevestonmarine.com/collections/electronic-charts): Buy Online marine chart plotters, Raymarine & Garmin units plus Navionics electronic charts. Reliable boat navigation systems at great prices.
-  Updated: 2026-10-12T11:24:12Z
+  Updated: 2026-11-13T22:47:40Z
   Total Products: 32
 - [EPIRB and PLB Devices](https://www.stevestonmarine.com/collections/epirb-and-plb-devices): Shop Online or Offline ACR Electronics PLB and EPIRB devices for marine safety. Reliable emergency beacons with GPS for boats and offshore protection in Canada.
   Updated: 2026-09-26T14:29:10Z
@@ -2401,7 +2401,7 @@
   Updated: 2026-10-05T00:58:43Z
   Total Products: 89
 - [NMEA Network](https://www.stevestonmarine.com/collections/nmea-network): Shop Garmin, Maretron & Ancor NMEA network cables, connectors and marine networking systems for reliable onboard data communication and integration.
-  Updated: 2026-10-29T23:33:43Z
+  Updated: 2026-11-08T12:19:21Z
   Total Products: 163
 - [Radar](https://www.stevestonmarine.com/collections/radar): Buy Online boat radar systems including Raymarine Quantum radar and Garmin marine radar. Reliable navigation, clear target tracking & safety at sea.
   Updated: 2026-10-20T11:21:26Z
@@ -2422,7 +2422,7 @@
   Updated: 2026-09-04T17:43:15Z
   Total Products: 5
 - [VHF Radios - Fixed Mount](https://www.stevestonmarine.com/collections/vhf-radios-fixed-mount): Buy Marine VHF Radios and Boat VHF Radios for clear, reliable communication on the water. Fixed and handheld VHF radios at great prices. Buy online today.
-  Updated: 2026-10-21T11:23:39Z
+  Updated: 2026-11-13T12:20:18Z
   Total Products: 50
 - [VHF Radios - Handheld](https://www.stevestonmarine.com/collections/vhf-radios-handheld): Shop online VHF radios handheld and handheld marine radio for boating safety. Waterproof, floating & reliable models at Steveston Marine.
   Updated: 2026-10-26T11:25:33Z
@@ -2497,7 +2497,7 @@
   Updated: 2026-10-25T00:58:58Z
   Total Products: 41
 - [Livewell - Aerator Pumps](https://www.stevestonmarine.com/collections/livewell-aerator-pumps): Steveston Marine & Hardware has Aerator Pumps for you! We have a large selection of pumps from ITT Jabsco, Flojet, Rule, and Attwood. Shop in one of our stores located in Vancouver or Langley! Or order online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply)
-  Updated: 2026-09-25T21:14:21Z
+  Updated: 2026-11-09T12:16:34Z
   Total Products: 37
 - [Livewell Lights](https://www.stevestonmarine.com/collections/livewell-lights): Buy now for top performance Livewell Lights from Attwood, Lumitec & TH Marine at Steveston Marine and Bright, durable, and efficient marine lighting.
   Updated: 2026-09-04T17:43:16Z
