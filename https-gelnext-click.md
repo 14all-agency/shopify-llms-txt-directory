@@ -6,7 +6,7 @@
 - Timezone: Africa/Casablanca
 - Created At: 2026-06-20T20:18:48Z
 - Contact Email: gelnext1@gmail.com
-- Updated At: 2026-11-08T01:03:04.030Z
+- Updated At: 2026-11-15T01:07:04.075Z
 
 ## Products
 
@@ -2699,7 +2699,7 @@
     Availability: Available
     Price: 12 000,00 FCFA XAF
 - [Air Jordan 1 Low x Travis Scott](https://gelnext.click/products/air-jordan-1-low-x-travis-scott)
-  Updated: 2026-10-15T11:41:15Z
+  Updated: 2026-11-12T13:04:51Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -2786,7 +2786,7 @@
   Updated: 2026-09-23T19:13:54Z
   Total Products: 4
 - [Air Jordan](https://gelnext.click/collections/jordan): - GelNext
-  Updated: 2026-10-15T11:41:16Z
+  Updated: 2026-11-13T12:23:15Z
   Total Products: 1
 
 ## Store Pages
