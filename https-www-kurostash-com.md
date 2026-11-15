@@ -10,7 +10,7 @@ Kurostash es una tienda en línea que vende figuras de acción, peluches, cajas 
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-18T04:03:56Z
 - Contact Email: denicezura@kurostash.com
-- Updated At: 2026-11-08T00:18:24.470Z
+- Updated At: 2026-11-15T00:20:26.468Z
 
 KURO STASH
 Kurostash es una tienda en línea que vende figuras de acción, peluches, cajas sorpresa, sets armables y accesorios de escritorio/setup, todos inspirados en videojuegos y anime. La tienda está conectada a varios proveedores y los productos están inspirados en franquicias populares de videojuegos y anime — ninguno es mercancía licenciada. La tienda envía desde varios proveedores, con la mayoría de los pedidos llegando en 2-3 semanas. Kurostash atiende principalmente a coleccionistas y gamers en Estados Unidos, con contenido disponible en inglés y español.
@@ -268,6 +268,228 @@ Políticas
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/FUNXINEE_1646_piezas_Bloques_de_construcci_n_con_motor_electrico_Drag_n_de_hielo_Kuro_Stash.jpg?v=1791224001
     Price: 145,00 $ USD
+- [Sticker para Tarjeta Anime The Apothecary Diaries Holográfico](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico): Sticker holográfico para tarjeta de crédito o débito inspirado en The Apothecary Diaries. Personaliza tu tarjeta con efecto láser. ¡Ideal para fans del anime!
+  Updated: 2026-11-08T11:11:49Z
+  Vendor: Magic Shark
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H935.webp?v=1794110264
+  - [H931 / Sin chip](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593071203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H931.webp?v=1794110067
+    Price: 6,50 $ USD
+  - [H931 / Chip grande](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593103971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H931.webp?v=1794110067
+    Price: 6,50 $ USD
+  - [H931 / Chip pequeño](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593202275)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H931.webp?v=1794110067
+    Price: 6,50 $ USD
+  - [H932 / Sin chip](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593398883)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H932.webp?v=1794110163
+    Price: 6,50 $ USD
+  - [H932 / Chip grande](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593136739)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H932.webp?v=1794110163
+    Price: 6,50 $ USD
+  - [H932 / Chip pequeño](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593169507)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H932.webp?v=1794110163
+    Price: 6,50 $ USD
+  - [H933 / Sin chip](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593431651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H933.webp?v=1794110084
+    Price: 6,50 $ USD
+  - [H933 / Chip grande](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593464419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H933.webp?v=1794110084
+    Price: 6,50 $ USD
+  - [H933 / Chip pequeño](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593366115)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H933.webp?v=1794110084
+    Price: 6,50 $ USD
+  - [H934 / Sin chip](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593333347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H934.webp?v=1794110048
+    Price: 6,50 $ USD
+  - [H934 / Chip grande](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593235043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H934.webp?v=1794110048
+    Price: 6,50 $ USD
+  - [H934 / Chip pequeño](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593267811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H934.webp?v=1794110048
+    Price: 6,50 $ USD
+  - [H935 / Sin chip](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593628259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H935.webp?v=1794110264
+    Price: 6,50 $ USD
+  - [H935 / Chip grande](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593661027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H935.webp?v=1794110264
+    Price: 6,50 $ USD
+  - [H935 / Chip pequeño](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593300579)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H935.webp?v=1794110264
+    Price: 6,50 $ USD
+  - [H936 / Sin chip](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593529955)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/S453d30095c684104bb1ab98568f79ba8e.webp?v=1794093105
+    Price: 6,50 $ USD
+  - [H936 / Chip grande](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593693795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/S453d30095c684104bb1ab98568f79ba8e.webp?v=1794093105
+    Price: 6,50 $ USD
+  - [H936 / Chip pequeño](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593726563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/S453d30095c684104bb1ab98568f79ba8e.webp?v=1794093105
+    Price: 6,50 $ USD
+  - [H937 / Sin chip](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593562723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H937.webp?v=1794110098
+    Price: 6,50 $ USD
+  - [H937 / Chip grande](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593595491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H937.webp?v=1794110098
+    Price: 6,50 $ USD
+  - [H937 / Chip pequeño](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593497187)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/H937.webp?v=1794110098
+    Price: 6,50 $ USD
+  - [H938 / Sin chip](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593988707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/S56dcbf0514fe4e23bf377f166c056cf9H.webp?v=1794093105
+    Price: 6,50 $ USD
+  - [H938 / Chip grande](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593890403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/S56dcbf0514fe4e23bf377f166c056cf9H.webp?v=1794093105
+    Price: 6,50 $ USD
+  - [H938 / Chip pequeño](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593923171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/S56dcbf0514fe4e23bf377f166c056cf9H.webp?v=1794093105
+    Price: 6,50 $ USD
+  - [H939 / Sin chip](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593759331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Sd7648678be2d49b49d6eb6e7bf428204S.webp?v=1794093105
+    Price: 6,50 $ USD
+  - [H939 / Chip grande](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593792099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Sd7648678be2d49b49d6eb6e7bf428204S.webp?v=1794093105
+    Price: 6,50 $ USD
+  - [H939 / Chip pequeño](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593955939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Sd7648678be2d49b49d6eb6e7bf428204S.webp?v=1794093105
+    Price: 6,50 $ USD
+  - [H940 / Sin chip](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890594021475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/S503b9f244d4546d79e27eaa8978654a6u.webp?v=1794093105
+    Price: 6,50 $ USD
+  - [H940 / Chip grande](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593824867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/S503b9f244d4546d79e27eaa8978654a6u.webp?v=1794093105
+    Price: 6,50 $ USD
+  - [H940 / Chip pequeño](https://www.kurostash.com/products/sticker-tarjeta-anime-apothecary-diaries-holografico?variant=67890593857635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/S503b9f244d4546d79e27eaa8978654a6u.webp?v=1794093105
+    Price: 6,50 $ USD
+- [Disfraz Cosplay Maomao The Apothecary Diaries | Tallas XS-4XL](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size): Disfraz cosplay de Maomao de The Apothecary Diaries: chaqueta, falda y top en poliéster. Tallas XS a 4XL y versión 2.0 mejorada. ¡Pide el tuyo hoy!
+  Updated: 2026-11-08T11:13:49Z
+  Vendor: DOKIDOKI
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Sccb2fbe345384016a3614d814b45700eX.webp?v=1794093224
+  - [Traje 1.0 / XS / IN STOCK](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606932067)
+    Availability: Available
+    Price: 120,00 $ USD
+  - [Traje 1.0 / XS / Pre-venta](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606833763)
+    Availability: Available
+    Price: 120,00 $ USD
+  - [Traje 1.0 / S / IN STOCK](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606178403)
+    Availability: Available
+    Price: 120,00 $ USD
+  - [Traje 1.0 / S / Pre-venta](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606735459)
+    Availability: Available
+    Price: 120,00 $ USD
+  - [Traje 1.0 / M / IN STOCK](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606243939)
+    Availability: Available
+    Price: 120,00 $ USD
+  - [Traje 1.0 / M / Pre-venta](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606899299)
+    Availability: Available
+    Price: 120,00 $ USD
+  - [Traje 1.0 / L / IN STOCK](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606309475)
+    Availability: Available
+    Price: 120,00 $ USD
+  - [Traje 1.0 / L / Pre-venta](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890607521891)
+    Availability: Available
+    Price: 120,00 $ USD
+  - [Traje 1.0 / XL / IN STOCK](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606375011)
+    Availability: Available
+    Price: 120,00 $ USD
+  - [Traje 1.0 / XL / Pre-venta](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890607554659)
+    Availability: Available
+    Price: 120,00 $ USD
+  - [Traje 1.0 / XXL / IN STOCK](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606080099)
+    Availability: Available
+    Price: 120,00 $ USD
+  - [Traje 1.0 / XXL / Pre-venta](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890607587427)
+    Availability: Available
+    Price: 120,00 $ USD
+  - [Traje 1.0 / XXXL / IN STOCK](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606112867)
+    Availability: Available
+    Price: 120,00 $ USD
+  - [Traje 1.0 / XXXL / Pre-venta](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890607620195)
+    Availability: Available
+    Price: 120,00 $ USD
+  - [Traje 1.0 / 4XL / IN STOCK](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606768227)
+    Availability: Available
+    Price: 120,00 $ USD
+  - [Traje 1.0 / 4XL / Pre-venta](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606669923)
+    Availability: Available
+    Price: 120,00 $ USD
+  - [Traje 2.0 / XS / IN STOCK](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890607390819)
+    Availability: Available
+    Price: 200,00 $ USD
+  - [Traje 2.0 / XS / Pre-venta](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890607456355)
+    Availability: Available
+    Price: 200,00 $ USD
+  - [Traje 2.0 / S / IN STOCK](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890607259747)
+    Availability: Available
+    Price: 200,00 $ USD
+  - [Traje 2.0 / S / Pre-venta](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890607325283)
+    Availability: Available
+    Price: 200,00 $ USD
+  - [Traje 2.0 / M / IN STOCK](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890607128675)
+    Availability: Available
+    Price: 200,00 $ USD
+  - [Traje 2.0 / M / Pre-venta](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890607194211)
+    Availability: Available
+    Price: 200,00 $ USD
+  - [Traje 2.0 / L / IN STOCK](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606997603)
+    Availability: Available
+    Price: 200,00 $ USD
+  - [Traje 2.0 / L / Pre-venta](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890607063139)
+    Availability: Available
+    Price: 200,00 $ USD
+  - [Traje 2.0 / XL / IN STOCK](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606866531)
+    Availability: Available
+    Price: 200,00 $ USD
+  - [Traje 2.0 / XL / Pre-venta](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606964835)
+    Availability: Available
+    Price: 200,00 $ USD
+  - [Traje 2.0 / XXL / IN STOCK](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606702691)
+    Availability: Available
+    Price: 200,00 $ USD
+  - [Traje 2.0 / XXL / Pre-venta](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606800995)
+    Availability: Available
+    Price: 200,00 $ USD
+  - [Traje 2.0 / XXXL / IN STOCK](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606571619)
+    Availability: Available
+    Price: 200,00 $ USD
+  - [Traje 2.0 / XXXL / Pre-venta](https://www.kurostash.com/products/partial-ready-for-ship-maomao-cosplay-costume-the-apothecary-diaries-xs-3xl-dokidoki-sr-mao-mao-upgraded-dress-plus-size?variant=67890606604387)
+    Availability: Available
+    Price: 200,00 $ USD
 
 ## Collections
 
@@ -278,17 +500,17 @@ Políticas
   Updated: 2026-10-05T20:58:48Z
   Total Products: 2
 - [Tus videojuegos favoritos](https://www.kurostash.com/collections/videojuegos): Explora la colección de Kurostash de figuras, peluches y coleccionables inspirados en videojuegos — piezas inspiradas en los mundos y personajes que ya conoces.
-  Updated: 2026-11-07T23:40:09Z
-  Total Products: 42
+  Updated: 2026-11-09T01:03:43Z
+  Total Products: 18
 - [Set up gamer](https://www.kurostash.com/collections/set-up-gamer): Explora la colección de Kurostash de esenciales para tu setup gamer — mouse pads, accesorios de escritorio y complementos para controles, para tu espacio.
-  Updated: 2026-11-07T23:33:21Z
-  Total Products: 3
+  Updated: 2026-11-09T01:03:43Z
+  Total Products: 13
 - [Armables](https://www.kurostash.com/collections/armables): Explora la colección de Kurostash de figuras armables con bloques de construcción, inspiradas en épicas figuras — horas de armado, piezas de exhibición serias.
   Updated: 2026-10-05T18:24:46Z
   Total Products: 3
 - [Cajas Sorpresa](https://www.kurostash.com/collections/cajas-sorpresa): Explora la colección de cajas sorpresa de Kurostash — figuras y coleccionables sorpresa para quienes les gusta un poco de caos en su stash.
-  Updated: 2026-10-06T00:05:12Z
-  Total Products: 2
+  Updated: 2026-11-08T06:19:56Z
+  Total Products: 3
 
 ## Blogs
 
