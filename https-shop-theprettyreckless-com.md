@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-28T15:25:03Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-07T00:26:32.546Z
+- Updated At: 2026-11-15T00:32:43.955Z
 
 ## Products
 
 - [The Pretty Reckless Tee - Black](https://shop.theprettyreckless.com/products/bat-logo-tee): 100% cotton t-shirt in black
-  Updated: 2026-11-05T14:45:46Z
+  Updated: 2026-11-12T16:11:58Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -74,7 +74,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Graffiti Tee](https://shop.theprettyreckless.com/products/graffiti-tee): 100% cotton t-shirt in white with For I Am Death graffiti print on front
-  Updated: 2026-10-05T13:04:53Z
+  Updated: 2026-11-12T23:12:40Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -95,14 +95,14 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Pretty Reckless Christmas Glass Ornament](https://shop.theprettyreckless.com/products/pretty-reckless-glass-christmas-ornament): Red glass Christmas ornament with festive print and a string to hang on your tree. Ornament is not shatter-proof so please handle with care!
-  Updated: 2026-11-03T17:29:08Z
+  Updated: 2026-11-13T03:21:45Z
   Vendor: The Pretty Reckless
   Product Type: Ornament
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/7680/7980/files/TPR_0005_166109_1_305295_d.png?v=1762358031
   Price: $30.00 USD
 - [2016 Tour Tee](https://shop.theprettyreckless.com/products/2016-tour-tee): 100% cotton t-shirt in black with a front print and tour dates on the back
-  Updated: 2026-10-19T11:44:06Z
+  Updated: 2026-11-13T05:28:05Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -123,7 +123,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Light Me Up Tee](https://shop.theprettyreckless.com/products/light-me-up-tee): 100% cotton t-shirt in beige Size Chart Size Body Length (in) Chest Width (in) S 28 20 M 29 22 L 30 24 XL 31 26 2XL 32 28
-  Updated: 2026-11-04T01:06:38Z
+  Updated: 2026-11-10T21:39:54Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -157,7 +157,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/7680/7980/files/TPR_Going_to_Hell_Tee.png?v=1748012664
   Price: $30.00 USD
 - [Going to Hell Ladies Tank](https://shop.theprettyreckless.com/products/going-to-hell-ladies-tank): Cotton/polyester ladies tank in heather grey
-  Updated: 2026-10-05T13:04:57Z
+  Updated: 2026-11-12T16:11:58Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -175,7 +175,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Cross Flip Lighter](https://shop.theprettyreckless.com/products/cross-flip-lighter): Everything you love will burn up in the light 🔥 Metal wick oil lighter with spring action flip top case. Snap shut to extinguish flame. Does not contain lighter fluid.
-  Updated: 2026-11-04T09:19:28Z
+  Updated: 2026-11-10T00:56:06Z
   Vendor: The Pretty Reckless
   Product Type: Flip Lighter
   Availability: Available
@@ -189,14 +189,14 @@
   Image: https://cdn.shopify.com/s/files/1/0673/7680/7980/files/TPR_Poster_1117.png?v=1773352303
   Price: $25.00 USD
 - [Dear God Embroidered Hat](https://shop.theprettyreckless.com/products/dear-god-embroidered-hat): 100% cotton twill dad hat with distressed details in washed black
-  Updated: 2026-11-03T00:22:41Z
+  Updated: 2026-11-08T03:18:46Z
   Vendor: The Pretty Reckless
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/7680/7980/files/TPR_Dear_God_Embroidered_Hat_Front.png?v=1773165830
   Price: $35.00 USD
 - [Logo Tee](https://shop.theprettyreckless.com/products/logo-tee): 100% ringspun heavyweight cotton, Comfort Colors t-shirt in pepper; garment-dyed and pre-shrunk for a lived-in feel. Features a photo print on the front
-  Updated: 2026-10-29T03:17:06Z
+  Updated: 2026-11-13T23:17:46Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -245,7 +245,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/7680/7980/files/TPRDearGodVinyl1.png?v=1787258151
   Price: $35.00 USD
 - [Something Wrong Zip Hoodie](https://shop.theprettyreckless.com/products/something-wrong-zip-hoodie): 80% cotton, 20% recycled polyester full zip hoodie in black; made with 3-end fleece for a heavyweight construction. Features a lyric print on the front and a photo print on the back.
-  Updated: 2026-11-03T21:58:21Z
+  Updated: 2026-11-12T17:17:42Z
   Vendor: The Pretty Reckless
   Product Type: Zip Hoodie
   Availability: Available
@@ -269,7 +269,7 @@
     Availability: Available
     Price: $75.00 USD
 - [Dear God Live Tour Tee](https://shop.theprettyreckless.com/products/dear-god-live-tour-tee): 100% ringspun heavyweight cotton, Comfort Colors t-shirt in pepper; garment-dyed and pre-shrunk for a lived-in feel. Features a photo print on the front and tour dates on the back.
-  Updated: 2026-11-06T13:59:08Z
+  Updated: 2026-11-13T23:41:22Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -293,7 +293,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Dear God Portrait Tour Tee](https://shop.theprettyreckless.com/products/dear-god-portrait-tour-tee): 100% ringspun heavyweight cotton, Comfort Colors t-shirt in pepper; garment-dyed and pre-shrunk for a lived-in feel. Features a photo print on the front and tour dates on the back.
-  Updated: 2026-11-06T13:59:06Z
+  Updated: 2026-11-14T21:57:48Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -341,7 +341,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Statue Tee](https://shop.theprettyreckless.com/products/statue-tee): 100% ringspun heavyweight cotton, Comfort Colors t-shirt in black; garment-dyed and pre-shrunk for a lived-in feel. Features a statue design on the front.
-  Updated: 2026-11-06T22:46:26Z
+  Updated: 2026-11-12T07:49:31Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -365,14 +365,14 @@
     Availability: Available
     Price: $40.00 USD
 - [Logo Keychain](https://shop.theprettyreckless.com/products/logo-keychain): Metal keychain in a silver color
-  Updated: 2026-11-06T16:56:57Z
+  Updated: 2026-11-13T01:10:56Z
   Vendor: The Pretty Reckless
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/7680/7980/files/TPR_Logo_Keychain.png?v=1790963021
   Price: $10.00 USD
 - [Doin' Fine Tote](https://shop.theprettyreckless.com/products/doin-fine-tote): 100% cotton tote bag in black with lyric print on one side
-  Updated: 2026-11-05T06:29:56Z
+  Updated: 2026-11-07T17:26:55Z
   Vendor: The Pretty Reckless
   Product Type: Tote
   Availability: Available
@@ -382,37 +382,37 @@
 ## Collections
 
 - [All Products](https://shop.theprettyreckless.com/collections/frontpage)
-  Updated: 2026-11-06T12:15:46Z
+  Updated: 2026-11-14T12:14:43Z
   Total Products: 42
 - [Apparel](https://shop.theprettyreckless.com/collections/apparel)
-  Updated: 2026-11-06T12:15:46Z
+  Updated: 2026-11-14T12:14:43Z
   Total Products: 27
 - [Accessories](https://shop.theprettyreckless.com/collections/accessories)
-  Updated: 2026-11-05T12:13:28Z
+  Updated: 2026-11-13T12:14:15Z
   Total Products: 12
 - [All](https://shop.theprettyreckless.com/collections/all)
-  Updated: 2026-11-06T12:15:46Z
+  Updated: 2026-11-14T12:14:43Z
   Total Products: 42
 - [Music](https://shop.theprettyreckless.com/collections/music)
   Updated: 2026-11-06T12:15:46Z
   Total Products: 3
 - [For I Am Death](https://shop.theprettyreckless.com/collections/for-i-am-death)
-  Updated: 2026-08-17T11:19:02Z
+  Updated: 2026-11-09T12:13:35Z
   Total Products: 2
 - [Buried in '16](https://shop.theprettyreckless.com/collections/buried-in-16)
-  Updated: 2026-11-04T12:12:55Z
+  Updated: 2026-11-13T12:14:15Z
   Total Products: 9
 - [Pretty Reckless Christmas](https://shop.theprettyreckless.com/collections/pretty-reckless-christmas)
-  Updated: 2026-11-04T12:12:55Z
+  Updated: 2026-11-13T12:14:15Z
   Total Products: 7
 - [Tour Tees](https://shop.theprettyreckless.com/collections/tour-tees)
-  Updated: 2026-11-06T12:15:46Z
+  Updated: 2026-11-13T12:14:15Z
   Total Products: 7
 - [Dear God](https://shop.theprettyreckless.com/collections/dear-god)
-  Updated: 2026-11-06T12:15:46Z
+  Updated: 2026-11-14T12:14:43Z
   Total Products: 16
 - [Dear God Tour Merch](https://shop.theprettyreckless.com/collections/dear-god-tour-merch)
-  Updated: 2026-11-06T12:15:46Z
+  Updated: 2026-11-13T12:14:15Z
   Total Products: 8
 
 ## Store Pages
