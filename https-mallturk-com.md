@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-02-18T10:06:25Z
 - Contact Email: info@mallturk.com
-- Updated At: 2026-11-07T01:09:38.964Z
+- Updated At: 2026-11-15T01:02:49.103Z
 
 ## Products
 
@@ -1271,7 +1271,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/17_69f93e88-718b-47a6-b241-15ec22fea36b.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier – AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-16): Illuminate your space with our AURALAMP Turkish Mosaic Chandelier. Handcrafted elegance from the Grand Bazaar, each piece tells a unique story.
-  Updated: 2026-11-01T18:04:57Z
+  Updated: 2026-11-10T09:59:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
@@ -1299,7 +1299,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/20_6904d2c0-4732-450e-9120-9765af81e75b.jpg?v=1786824786
   Price: $94.42 USD
 - [ARZUM Authentic Turkish Coffee Machine - OKKA Minio Model](https://mallturk.com/products/arzum-okka-electric-turk-okka-minio): Experience authentic Turkish coffee with the ARZUM OKKA Minio Pro. Brew up to 4 cups effortlessly and enjoy rich flavors steeped in Grand Bazaar tradition.
-  Updated: 2026-11-05T19:52:10Z
+  Updated: 2026-11-07T13:33:15Z
   Vendor: ARZUM
   Product Type: Türk coffe machine
   Availability: Available
@@ -1417,7 +1417,7 @@
     Availability: Available
     Price: $125.00 USD
 - [Authentic Turkish Coffee Machine by ARZUM OKKA Minio Duo](https://mallturk.com/products/arzum-okka-minio-duo-8-cups): Experience the rich flavors of authentic Turkish coffee with the ARZUM OKKA Minio Duo. Brew up to 8 cups effortlessly and enjoy a taste of tradition.
-  Updated: 2026-11-05T19:46:35Z
+  Updated: 2026-11-07T13:33:16Z
   Vendor: ARZUM
   Product Type: Türk coffe machine
   Availability: Available
@@ -1723,7 +1723,7 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/ff420eff-8aed-4ed5-8263-0fb94cdfe2e2_e6e1305d-2f04-4517-9709-393d5227cde4.jpg?v=1786824906
     Price: $240.00 USD
 - [Authentic Turkish Coffee Machine - Beko BEKO2300 Model](https://mallturk.com/products/beko2300): Discover the Beko BKK 2300 Turkish Coffee Machine. Brew authentic, rich Turkish coffee effortlessly at home, capturing the Grand Bazaar's essence.
-  Updated: 2026-11-06T07:22:03Z
+  Updated: 2026-11-07T13:25:47Z
   Vendor: BEKO
   Product Type: Türk coffe machine
   Availability: Available
@@ -1745,7 +1745,7 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9108726751_1bbc3b18-0cf1-4d1d-8077-8a76c10f5d4a.webp?v=1793906418
     Price: $140.00 USD
 - [Korkmaz Authentic Turkish Coffee Machine for Perfect Brews](https://mallturk.com/products/korkmaz-kahvekolik): Discover authentic Turkish coffee at home with the Korkmaz Kahvekolik Coffee Machine. Experience rich flavors and easy preparation for every occasion.
-  Updated: 2026-11-06T10:39:28Z
+  Updated: 2026-11-07T13:38:22Z
   Vendor: KORKMAZ
   Product Type: Türk coffe machine
   Availability: Available
@@ -1779,7 +1779,7 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237617014_41239974-6a0e-4205-a5db-dfa04f9efa37.webp?v=1793961562
     Price: $200.00 USD
 - [Authentic Turkish Coffee Machine - Arcelik TKM 9961](https://mallturk.com/products/arcelik-tkm9961): Experience authentic Turkish coffee at home with the Arcelik TKM 9961 Telve machine. Enjoy rich flavors and simplicity inspired by Grand Bazaar traditions.
-  Updated: 2026-11-06T10:34:55Z
+  Updated: 2026-11-07T13:26:18Z
   Vendor: ARCELIK
   Product Type: Türk coffe machine
   Availability: Available
@@ -1801,42 +1801,42 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6235355494_37ed5a7f-8073-4a7b-9200-ce6c6a2e4c41.webp?v=1786181809
     Price: $325.00 USD
 - [Authentic Turkish Coffee Machine - ARCELIK FK 9110 I](https://mallturk.com/products/arcelik-fk9110): Experience authentic Turkish coffee culture at home with the Arcelik FK 9110 Grind & Brew. Freshly ground for delightful taste, perfect for daily use!
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-07T13:26:18Z
   Vendor: ARCELIK
   Product Type: Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7176016175_d2e65a50-33a4-4e92-bfe4-da5d5e5fd0f8.webp?v=1786181823
   Price: $350.00 USD
 - [Authentic Turkish Coffee Machine - Arcelik FK 6310 S](https://mallturk.com/products/arcelik-fk6310): Discover the Arcelik FK 6310 S Filter Coffee Maker. Brew authentic Turkish coffee at home effortlessly, serving up to 10 cups for family and friends.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-07T13:26:19Z
   Vendor: ARCELIK
   Product Type: Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7176015775_0355be65-e5f0-4d66-8bf0-82bc1ea87a1b.webp?v=1786181830
   Price: $350.00 USD
 - [Authentic Turkish Coffee Machine - ARCELIK K 8580](https://mallturk.com/products/arcelik-k8580): Experience authentic Turkish coffee culture with the ARCELIK K8580 Eternity Filter Coffee Maker, featuring a 10-cup carafe for all your gatherings.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-07T13:26:20Z
   Vendor: ARCELIK
   Product Type: Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7176016503_3822e9cb-aa96-4470-b0da-76696f4d9127.webp?v=1786181836
   Price: $350.00 USD
 - [Authentic Turkish Coffee Machine - ARCELIK CM 9058 B](https://mallturk.com/products/arcelik-cm9058b): Experience authentic Turkish coffee at home with the ARCELIK CM 9058 B. This automatic machine simplifies brewing for a rich and delightful taste.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-07T13:26:20Z
   Vendor: ARCELIK
   Product Type: Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7176015754_97a2fc4b-6907-4fc4-bfc6-ebad5976ff10.webp?v=1786824725
   Price: $350.00 USD
 - [Authentic Turkish Coffee Machine - ARCELIK K 8115 KM InLove](https://mallturk.com/products/arcelik-k8115inlove): Savor authentic Turkish coffee culture with the ARCELIK K 8115 KM InLove Filter Coffee Maker. Perfect for daily use, brew up to 12 cups effortlessly.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-07T13:26:21Z
   Vendor: ARCELIK
   Product Type: Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/image_4c03c693-10e6-4cf9-be03-56b775fddaac.webp?v=1786824725
   Price: $350.00 USD
 - [Authentic Turkish Türk Coffee Machine - Arcelik Quality](https://mallturk.com/products/arcelik-telve): Experience authentic Turkish coffee at home with the Arcelik K3300. This user-friendly coffee machine blends tradition and modern design effortlessly.
-  Updated: 2026-11-06T10:44:25Z
+  Updated: 2026-11-07T13:26:21Z
   Vendor: ARCELIK
   Product Type: Türk coffe machine
   Availability: Available
@@ -2200,8 +2200,8 @@
   Updated: 2026-10-23T12:13:08Z
   Total Products: 27
 - [Turkish Coffee Machines](https://mallturk.com/collections/turkish-coffee-machines): Shop electric Turkish coffee machines from Turkey's leading brands. Rich, foamy coffee at the touch of a button. Free express shipping worldwide.
-  Updated: 2026-11-06T12:12:52Z
-  Total Products: 89
+  Updated: 2026-11-07T06:14:43Z
+  Total Products: 90
 - [Cookware](https://mallturk.com/collections/cookware): Explore Cookware at MALLTURK. Discover practical and stylish options for everyday cooking and meal preparation.
   Updated: 2026-10-23T12:13:09Z
   Total Products: 596
@@ -2242,7 +2242,7 @@
   Updated: 2026-10-28T11:12:00Z
   Total Products: 347
 - [Teapot Set](https://mallturk.com/collections/teapot-set): Explore Teapot Set options at MALLTURK. Discover elegant and practical designs for serving tea at home and on special occasions.
-  Updated: 2026-10-23T12:13:10Z
+  Updated: 2026-11-07T12:14:20Z
   Total Products: 431
 - [Cutlery](https://mallturk.com/collections/cutlery): Explore Cutlery at MALLTURK. Discover practical and stylish options for everyday dining, special occasions, and elegant table settings.
   Updated: 2026-10-23T12:13:10Z
@@ -2287,7 +2287,7 @@
   Updated: 2026-10-23T12:13:11Z
   Total Products: 1349
 - [Spices & Seasonings](https://mallturk.com/collections/spices-seasonings): Shop Turkish spices and seasonings made in Turkey to bring authentic flavour to your cooking. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:11Z
+  Updated: 2026-11-09T12:14:20Z
   Total Products: 146
 - [Hair Care](https://mallturk.com/collections/hair-care): Explore Hair Care products at MALLTURK. Discover practical options for everyday hair care routines and different hair care needs.
   Updated: 2026-10-23T12:13:11Z
@@ -2356,10 +2356,10 @@
   Updated: 2026-10-23T12:13:12Z
   Total Products: 0
 - [Turkish Snacks](https://mallturk.com/collections/turkish-snacks): Shop popular Turkish snacks: chips, crackers, chocolate bars and more favorites from Turkey. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:12Z
+  Updated: 2026-11-14T12:14:40Z
   Total Products: 66
 - [Turkish Grocery](https://mallturk.com/collections/turkish-grocery): Shop Turkish grocery online: pantry staples, sweets, snacks and drinks made in Turkey. Free express shipping worldwide on every order.
-  Updated: 2026-10-23T12:13:12Z
+  Updated: 2026-11-09T12:14:20Z
   Total Products: 11
 - [Turkish Sweets](https://mallturk.com/collections/turkish-sweets): Shop traditional Turkish sweets: halva, Turkish delight, baklava and more, made in Turkey. Free express shipping worldwide.
   Updated: 2026-10-23T12:13:13Z
@@ -3020,7 +3020,7 @@
 - [Help Centre | MallTurk Customer Support](https://mallturk.com/pages/help-centre): Delivery & Tracking Our money-back guarantee is outside the timeframe for non-delivery.The product must be delivered within 45 days, including ship...
   Updated: 2026-10-20T11:53:13Z
 - [Search Results | Search Turkish Products | MallTurk](https://mallturk.com/pages/rapid-search-results): .RAPID-SEARCH----DO-NOT-DELETE-THIS-PAGE { }
-  Updated: 2026-10-20T11:52:30Z
+  Updated: 2026-11-08T21:44:00Z
 - [Wholesale Contact | MallTurk B2B Sales Team](https://mallturk.com/pages/whosale-contact-us): Email: info@mallturk.com Phone: Mr.Mehmet Okatan +90 5465821660 (English - عربي) Ms.Fatmagul Akkavim +90 5446583608 (Русский - English - 한국인) Worki...
   Updated: 2026-10-20T11:52:55Z
 - [ Program | Partner with MALLTURK](https://mallturk.com/pages/afillite): 
