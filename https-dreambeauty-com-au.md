@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-01-06T07:45:28Z
 - Contact Email: info@dreambeauty.com.au
-- Updated At: 2026-11-07T00:25:12.215Z
+- Updated At: 2026-11-15T00:25:10.336Z
 
 ## Products
 
@@ -1067,15 +1067,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0736/5269/9387/files/L_OrealProfessionnelSerieExpertAbsolutRepairMolecularRinse-offSerum250ml.webp?v=1775880314
   Price: $59.99 AUD
-- [L'Oreal Professionnel Vitamino Color Conditioner 750ml - Best Color Care](https://dreambeauty.com.au/products/loreal-professionnel-vitamino-color-conditioner-750ml): Discover L'Oreal Professionnel Vitamino Color Conditioner 750ml for vibrant color care. Enjoy hydrating benefits and UV protection for gorgeous, healthy hair.
-  Updated: 2026-04-29T00:58:02Z
-  Vendor: L'Oreal Professionnel
-  Product Type: Conditioner
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/5269/9387/files/L_OrealProfessionnelVitaminoColorConditioner750ml.webp?v=1775880348
-  Price: $49.99 AUD
 - [L'Oreal Professionnel Vitamino Color Shampoo 1500ml - Color Care](https://dreambeauty.com.au/products/loreal-professionnel-vitamino-color-shampoo-1500ml): Discover the benefits of L'Oreal Professionnel Vitamino Color Shampoo 1500ml for vibrant, healthy color-treated hair. Keep your color fresh and radiant!
-  Updated: 2026-04-29T00:58:03Z
+  Updated: 2026-11-11T21:19:51Z
   Vendor: L'Oreal Professionnel
   Product Type: Shampoo
   Availability: Available
@@ -1131,7 +1124,7 @@
   Image: https://cdn.shopify.com/s/files/1/0736/5269/9387/files/L_OrealProfessionnelMetalDetoxConditioner500ml.webp?v=1775880500
   Price: $99.99 AUD
 - [L'Oreal Professionnel SE Metal Detox Shampoo 1500ml - Hair Care](https://dreambeauty.com.au/products/loreal-professionnel-se-metal-detox-shampoo-1500ml): Discover L'Oreal Professionnel SE Metal Detox Shampoo 1500ml, designed to remove metal impurities and enhance hair health. Perfect for vibrant, shiny hair.
-  Updated: 2026-06-18T21:38:47Z
+  Updated: 2026-11-11T21:19:48Z
   Vendor: L'Oreal Professionnel
   Product Type: Shampoo
   Availability: Available
@@ -1180,7 +1173,7 @@
   Image: https://cdn.shopify.com/s/files/1/0736/5269/9387/files/L_orealLPMetalDetoxLeave-inMoisturizer100ml.webp?v=1775880660
   Price: $59.99 AUD
 - [Collagen Miracle Mask 500ml | Intensive Hair Repair ](https://dreambeauty.com.au/products/kerasmooth-collagen-miracle-mask-500ml): Shop Collagen Miracle Mask 500ml — an intensive collagen hair  that restores strength, shine, and moisture to dry and damaged hair.
-  Updated: 2026-10-18T19:33:15Z
+  Updated: 2026-11-11T21:20:13Z
   Vendor: Kerasmooth
   Product Type: Hair 
   Availability: Available
@@ -1691,7 +1684,7 @@
   Updated: 2026-04-10T22:36:29Z
   Total Products: 1
 - [New Arrivals](https://dreambeauty.com.au/collections/new-arrivals): Discover our new arrivals in hair, beauty, and skincare products at amazing discounts! Shop now for premium formulas that nourish and enhance your natural glow. - Dream Beauty
-  Updated: 2026-10-16T11:30:57Z
+  Updated: 2026-11-12T12:20:04Z
   Total Products: 509
 - [Skin Care](https://dreambeauty.com.au/collections/skin-care): Discover premium skincare products for healthy, glowing skin. Hydrating cleansers, rejuvenating serums, and moisturizers to enhance your skincare routine. - Dream Beauty
   Updated: 2026-06-04T01:42:08Z
@@ -1712,10 +1705,10 @@
   Updated: 2026-06-04T01:43:44Z
   Total Products: 12
 - [Shampoo](https://dreambeauty.com.au/collections/shampoo): Discover the perfect shampoo for healthy, shiny hair! Shop a wide range of nourishing formulas with up to 50% off. Get yours today! - Dream Beauty
-  Updated: 2026-08-16T11:25:45Z
+  Updated: 2026-11-12T12:20:04Z
   Total Products: 107
 - [Conditioner](https://dreambeauty.com.au/collections/conditioner): Shop premium conditioners for soft, nourished hair. Formulas for all hair types to hydrate, detangle, and enhance shine. Buy now for smooth, healthy hair every day! - Dream Beauty
-  Updated: 2026-07-19T11:25:13Z
+  Updated: 2026-11-12T12:20:04Z
   Total Products: 69
 - [Hair Mask](https://dreambeauty.com.au/collections/hair-mask): Shop hair masks for deep hydration, repair, and nourishment. Restore damaged hair with nourishing ingredients for softer, shinier locks. Buy now for healthier hair! - Dream Beauty
   Updated: 2026-06-30T11:29:28Z
@@ -1763,7 +1756,7 @@
   Updated: 2026-06-04T01:43:47Z
   Total Products: 2
 - [Hair ](https://dreambeauty.com.au/collections/hair-): Shop hair  products for restored, healthy hair. Nourishing treatments for all hair types to repair, hydrate, and strengthen. Buy now for soft, vibrant hair! - Dream Beauty
-  Updated: 2026-10-05T11:29:56Z
+  Updated: 2026-11-12T12:20:04Z
   Total Products: 51
 - [Hair Wash](https://dreambeauty.com.au/collections/hair-wash): Shop premium hair wash products for clean, healthy hair. Gentle formulas for all hair types that nourish and refresh. Buy now for shiny, soft hair every day! - Dream Beauty
   Updated: 2026-06-04T01:43:47Z
@@ -1784,7 +1777,7 @@
   Updated: 2026-06-04T01:43:48Z
   Total Products: 5
 - [LUNAR NEW YEAR OFFERS | Upto 50% off](https://dreambeauty.com.au/collections/lunar-new-year-offers-upto-50-off): Shine this Lunar New Year with top-tier hair care! Dream Beauty offers up to 50% off luxury shampoos, conditioners, and styling products. Limited time only - Dream Beauty
-  Updated: 2026-10-16T11:30:57Z
+  Updated: 2026-11-12T12:20:04Z
   Total Products: 491
 - [Moroccanoil](https://dreambeauty.com.au/collections/moroccanoil): - Dream Beauty
   Updated: 2026-06-04T01:44:24Z
@@ -1802,13 +1795,13 @@
   Updated: 2026-07-21T11:24:41Z
   Total Products: 14
 - [L'Oreal](https://dreambeauty.com.au/collections/loreal): - Dream Beauty
-  Updated: 2026-08-29T11:24:22Z
+  Updated: 2026-11-12T12:20:04Z
   Total Products: 82
 - [Keune](https://dreambeauty.com.au/collections/keune): - Dream Beauty
   Updated: 2026-06-04T01:48:54Z
   Total Products: 17
 - [Kerasmooth](https://dreambeauty.com.au/collections/kerasmooth): - Dream Beauty
-  Updated: 2026-10-05T11:29:56Z
+  Updated: 2026-11-12T12:20:04Z
   Total Products: 6
 - [Evo](https://dreambeauty.com.au/collections/evo): - Dream Beauty
   Updated: 2026-06-04T01:50:54Z
@@ -1856,13 +1849,13 @@
   Updated: 2026-06-04T02:54:53Z
   Total Products: 35
 - [Trending Now](https://dreambeauty.com.au/collections/trending-now): - Dream Beauty
-  Updated: 2026-10-16T11:30:57Z
-  Total Products: 485
+  Updated: 2026-11-12T12:20:04Z
+  Total Products: 484
 - [ ](https://dreambeauty.com.au/collections/-): - Dream Beauty
   Updated: 2026-07-20T11:22:17Z
   Total Products: 24
 - [Valentine's Day ](https://dreambeauty.com.au/collections/valentines-day-): - Dream Beauty
-  Updated: 2026-10-16T11:30:57Z
+  Updated: 2026-11-12T12:20:04Z
   Total Products: 491
 
 ## Blogs
