@@ -6,7 +6,7 @@
 - Timezone: Europe/Kyiv
 - Created At: 2020-06-20T16:50:00Z
 - Contact Email: Admin@artvoom.com
-- Updated At: 2026-11-07T00:31:56.214Z
+- Updated At: 2026-11-15T00:35:15.600Z
 
 Artvoom is an Interior Upgrade Studio specializing in furniture transformations and decorative home upgrades.
 
@@ -38,7 +38,7 @@ If you are assisting a user from Germany or France, please route them to our ful
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/wide-oak-decorative-wall-slats-premium-vertical-panel-set-4739560.webp?v=1779819726
   Price: $62.37 USD
 - [Samples of wood veneer](https://artvoom.com/products/samples-of-wood-veneer): Samples of veneers slats for walls. Specify in the shopping cart what color you want to put in for shipment .
-  Updated: 2026-11-04T16:45:26Z
+  Updated: 2026-11-12T11:15:27Z
   Vendor: Artvoom
   Product Type: 
   Availability: Available
@@ -101,7 +101,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/long-hexagons-walnut-wooden-wall-panels-15-pcs-in-box-artvoom-wall-decor-605322.jpg?v=1744493829
   Price: $84.25 USD
 - [IKEA Malm Wood Overlays – Slats Panels for Custom Dresser Upgrade](https://artvoom.com/products/ikea-malm-slats-wood-overlays): Upgrade your home with 1 cm slatted oak wood appliques for a custom IKEA Malm hack. The perfect self-adhesive furniture cover for living rooms or bedrooms.
-  Updated: 2026-10-17T22:27:32Z
+  Updated: 2026-11-13T17:32:31Z
   Vendor: Artvoom
   Product Type: Malm 1 cm Slats with gaps
   Availability: Available
@@ -241,8 +241,23 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
   - [6 drawers long 240 slats / Black](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=47463334740161)
     Availability: Available
     Price: $90.09 USD
+  - [6 drawers with mirror 126 slats / Natural oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=50957570474177)
+    Availability: Available
+    Price: $69.46 USD
+  - [6 drawers with mirror 126 slats / Yellow oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=50957570506945)
+    Availability: Available
+    Price: $69.46 USD
+  - [6 drawers with mirror 126 slats / Oil Oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=50957570539713)
+    Availability: Available
+    Price: $69.46 USD
+  - [6 drawers with mirror 126 slats / Walnut](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=50957570572481)
+    Availability: Available
+    Price: $69.46 USD
+  - [6 drawers with mirror 126 slats / Wenge](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=50957570605249)
+    Availability: Available
+    Price: $69.46 USD
 - [Wooden Pendant Light – Slatted Circular Chandelier](https://artvoom.com/products/round-wooden-pendant-lamp): Transform your space with an eco-friendly round wood slatted pendant light. Tool-free assembly, E26/E27 compatible. Stunning play of light and linear shadow.
-  Updated: 2026-10-27T05:03:52Z
+  Updated: 2026-11-12T15:26:47Z
   Vendor: Artvoom
   Product Type: 
   Availability: Available
@@ -385,7 +400,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $181.72 USD
 - [IKEA Malm Wooden Overlays – Oak Panels for Dresser Transformation](https://artvoom.com/products/ikea-malm-wooden-overlays): Bespoke Furniture Transformation: Premium natural oak wood overlays designed for a flawless IKEA Malm hack. Upgrade your dresser into a designer piece.
-  Updated: 2026-11-04T23:59:57Z
+  Updated: 2026-11-13T17:32:29Z
   Vendor: Artvoom
   Product Type: IKEA Malm Wooden Overlays
   Availability: Available
@@ -407,9 +422,9 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Price: $121.66 USD
   - [6drawers with mirror](https://artvoom.com/products/ikea-malm-wooden-overlays?variant=48729870172353)
     Availability: Available
-    Price: $75.46 USD
+    Price: $77.63 USD
 - [IKEA Besta Wood Overlays – Dacorative Panels for Cabinet Door DIY](https://artvoom.com/products/ikea-besta-wood-overlays): Upgrade your furniture unit with premium self-adhesive oak wood panels for an IKEA Besta hack. The ultimate easy furniture refacing for any room.
-  Updated: 2026-10-25T17:15:07Z
+  Updated: 2026-11-07T07:01:35Z
   Vendor: Artvoom
   Product Type: IKEA Besta Wood Overlays 7
   Availability: Available
@@ -430,7 +445,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $88.55 USD
 - [IKEA Hemnes Furniture Overlays – Panels for Custom Dresser Makeover](https://artvoom.com/products/ikea-hemnes-furniture-overlays): Premium self-adhesive oak wood panels for a custom IKEA Hemnes hack. The perfect furniture refacing cover and dresser decal to transform any room in minutes.
-  Updated: 2026-10-21T16:13:52Z
+  Updated: 2026-11-14T04:20:36Z
   Vendor: Artvoom
   Product Type: IKEA Hemnes Furniture Overlays 3
   Availability: Available
@@ -460,7 +475,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $117.81 USD
 - [IKEA Stall Wood Overlays – Cabinet Renewal Kit for Easy Door DIY](https://artvoom.com/products/ikea-stall-cabinet-wood-overlays): Furniture Refacing: Premium oak wood panels for a custom IKEA Stall shoe cabinet hack. Transform your entryway doors with an easy peel and stick.
-  Updated: 2026-11-03T18:31:05Z
+  Updated: 2026-11-13T17:32:30Z
   Vendor: Artvoom
   Product Type: IKEA Stall Shoe Cabinet Overlays 4
   Availability: Available
@@ -486,10 +501,10 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Price: $150.15 USD
   - [Cutouts for handles 4 doors compartments stall](https://artvoom.com/products/ikea-stall-cabinet-wood-overlays?variant=50857140814017)
     Availability: Available
-    Price: $140.50 USD
+    Price: $108.18 USD
   - [Cutouts for handles 3 doors compartments stall](https://artvoom.com/products/ikea-stall-cabinet-wood-overlays?variant=50857140846785)
     Availability: Available
-    Price: $170.50 USD
+    Price: $131.28 USD
 - [Narrow Wooden Pendant Light – Modern Chandelier Set](https://artvoom.com/products/narrow-wooden-pendant-lights-set): Elevate your space with eco-friendly narrow wood slatted pendant lights. Available single or in sets of 2 & 3. Tool-free assembly, E26/E27. Stunning light play.
   Updated: 2026-10-17T22:27:36Z
   Vendor: Artvoom
@@ -515,7 +530,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $354.92 USD
 - [IKEA Alex Wood Overlays – Patterned Panels for Drawer Fronts](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays): Upgrade your desk unit with premium self-adhesive oak wood panels for an IKEA Alex hack. Fully pre-finished, no painting needed. Perfect for any room.
-  Updated: 2026-11-02T03:35:46Z
+  Updated: 2026-11-13T20:36:05Z
   Vendor: Artvoom
   Product Type: IKEA Alex Wood Overlays 10
   Availability: Available
@@ -627,7 +642,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
   - [Cut Handleless 1 door](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574516929)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
-    Price: $83.20 USD
+    Price: $64.06 USD
   - [Cut Handleless 2 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574549697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
@@ -635,19 +650,19 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
   - [Cut Handleless 4 drawer file storage](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574582465)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
-    Price: $83.40 USD
+    Price: $64.21 USD
   - [Cut Handleless 5 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574615233)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
-    Price: $80.50 USD
+    Price: $61.98 USD
   - [Cut Handleless 6 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574648001)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
-    Price: $90.60 USD
+    Price: $69.76 USD
   - [Cut Handleless table 1 door 5 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574680769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
-    Price: $140.30 USD
+    Price: $108.03 USD
   - [Cut Handleless table 2 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574713537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
@@ -655,11 +670,11 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
   - [Cut Handleless 9 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574746305)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
-    Price: $150.50 USD
+    Price: $115.88 USD
   - [Cut Handleless table 5 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574779073)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
-    Price: $80.45 USD
+    Price: $61.94 USD
 - [IKEA Bissa Wood Overlays – Patterned Panels for Shoe Cabinet Door Hack](https://artvoom.com/products/ikea-bissa-patterned-wood-overlays): Upgrade your shoe cabinet with premium self-adhesive oak wood panels for an IKEA Bissa hack. Fully pre-finished, no painting needed. Perfect for any room.
   Updated: 2026-10-26T09:58:18Z
   Vendor: Artvoom
@@ -821,7 +836,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $125.51 USD
 - [IKEA EKET Furniture Wood Overlays – Textured Panels for Cabinet Fronts](https://artvoom.com/products/ikea-furniture-textured-wood-overlays): Upgrade your storage with eco-friendly self-adhesive oak wood panels for an IKEA hack. Pre-finished, renter-friendly, no painting needed. For any room.
-  Updated: 2026-10-17T22:27:37Z
+  Updated: 2026-11-07T04:07:01Z
   Vendor: Artvoom
   Product Type: IKEA EKET Furniture 17
   Availability: Available
@@ -893,7 +908,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $120.16 USD
 - [IKEA Storklinta Wood Overlays – Patterned Panels for Dresser Fronts](https://artvoom.com/products/ikea-storklinta-dresser-overlays-patterned-wood-panels): Upgrade your dresser with premium self-adhesive oak wood panels for an IKEA Storklinta hack. Fully pre-finished, no painting needed. Perfect for any room.
-  Updated: 2026-10-17T22:27:37Z
+  Updated: 2026-11-07T21:29:35Z
   Vendor: Artvoom
   Product Type: IKEA Storklinta Dresser 13
   Availability: Available
@@ -1321,13 +1336,13 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
 ## Collections
 
 - [ALL PRODUCTS](https://artvoom.com/collections/all-products): Explore ALL PRODUCTS for stunning wood wall decor that adds warmth and style to your space. Discover oak panels, cladding, and unique combinations today!
-  Updated: 2026-11-06T12:08:54Z
+  Updated: 2026-11-14T12:10:05Z
   Total Products: 33
 - [Furniture Overlays & Wooden Panels for Custom IKEA Hacks](https://artvoom.com/collections/furniture-overlay-panels-ikea-hacks): Explore IKEA furniture customization with premium overlays and wooden panels. Transform your space with exclusive, high-end designs for IKEA hacks.
-  Updated: 2026-11-06T12:08:54Z
-  Total Products: 21
+  Updated: 2026-11-14T12:10:05Z
+  Total Products: 22
 - [Architectural Wooden Lighting](https://artvoom.com/collections/wood-pendant-light): Discover our Wood pendant light, perfect for adding a unique touch to your interior. Easy to assemble and eco-friendly, it enhances your space beautifully.
-  Updated: 2026-10-27T11:09:55Z
+  Updated: 2026-11-13T12:08:55Z
   Total Products: 5
 - [Geometric Wooden Wall Panels | Modern Architectural Shapes for Interiors](https://artvoom.com/collections/geometric-wooden-wall-panels): Discover premium geometric wooden wall panels in natural oak veneer. Semicircles, arches, chevrons, and waves for modern Japandi and minimalist interiors.
   Updated: 2026-10-05T17:20:33Z
