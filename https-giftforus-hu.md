@@ -6,7 +6,7 @@
 - Timezone: Europe/Vienna
 - Created At: 2025-03-06T08:40:55Z
 - Contact Email: info@myprintpix.hu
-- Updated At: 2026-11-07T01:01:06.643Z
+- Updated At: 2026-11-15T00:59:00.808Z
 
 ## Products
 
@@ -81,7 +81,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/6428/1205/files/69204bfc6ef9a.webp?v=1763724905
     Price: 7990,00 Ft HUF
 - [Scrabble - személyre szabott ajándékok](https://giftforus.hu/products/scrabble-szemelyre-szabott-ajandekok): Minden név egy külön történet. Együtt – egy egészen különleges világ. 🧩❤️ Az Scrabble egy egyedi, személyre szabható poszter, amely a megadott neveket Scrabble stílusban, keresztrejtvényszerűen összekapcsolva jeleníti meg. Legyen szó családtagokról vagy baráti társaságról, ez a játékos, mégis megható elrendezés tökéletesen mutatja meg, hogyan kapcsolódnak össze az életek – űről űre, névről névre. 🔠 Mit adhatsz meg hozzá? Neveket, amelyeket automatikusan Scrabble-rácsba rendezünk A családnevet vagy a baráti csapat nevét, ami a poszter címeként jelenik meg Egy idézetet – választhatsz az előre megadott, szeretettel teli sorok közül, vagy megadhatod a saját szövegedet is A dizájnt teljesen személyre szabhatod – akár elegáns, rusztikus, modern vagy színes stílusban 👨👩👧👦 Tökéletes ajándék: Családi poszterként a nappaliba, előszobába vagy ajándékba nagyszülőknek Baráti ajándékként születésnapra, közös élmények emlékére Új otthonba költözéskor vagy évfordulóra 🕒 1 munkanapos gyártás – gyors, megbízható elkészítés🎨 Scrabble stílusú űrács, ízléses és játékos elrendezés📜 Személyre szabható idézet és cím📞 Kiemelt ügyfélszolgálat✅ 100% elégedettségi garancia Ahogy a űk összeérnek, úgy fonódik össze a család vagy a barátság is.Tervezd meg a saját Scrabble-posztered, és mutasd meg: együtt vagytok a legnagyobb érték!
-  Updated: 2026-10-14T06:54:38Z
+  Updated: 2026-11-11T01:00:53Z
   Vendor: TeeInBlue
   Product Type: Customizer
   Availability: Available
@@ -1617,7 +1617,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/6428/1205/files/687625d4a2371_d6778915-68c2-4638-92d9-e2e76fb617f8.webp?v=1773837113
     Price: 9990,00 Ft HUF
 - [Travel - személyre szabott ajándékok pároknak](https://giftforus.hu/products/travel-szemelyre-szabott-ajandekok-paroknak): Egy pillanat a tengerparton, egy mosoly a hegyek között – most egyetlen képen megőrizve. 🧳📸 Az Utazásaink egy személyre szabható, stílusos fotókollázs, amely a nyaralás vagy utazás legjobb pillanatát örökíti meg. A kedvenc fotó(k) mellett automatikusan megjelenik a megadott helyszín a térképen, a poszter pedig egy hangulathoz illő választható háttérrel válik igazán egyedivé. 🏖️ Mit adhatsz meg hozzá? A legjobb saját utazós fotódat, amit a kollázs középpontjába helyezünk A helyszín megadásával (pl. Róma, Balaton, Párizs) automatikusan megjelenik a város vagy ország neve a poszteren Választhatsz többféle háttérdesign közül – tengerparti, hegyvidéki, városi, naplementés vagy térképes hangulatban Kérhetsz hozzá egyedi szöveget vagy idézetet, ami még személyesebbé teszi az emléket 🎁 Ajándéknak tökéletes: Közös utazás után párodnak vagy barátaidnak Évfordulóra, születésnapra emlékként Vagy saját emlékbe, hogy mindig eszedbe jusson az a tökéletes nap 🕒 1 munkanapos gyártás – gyors, precíz kivitelezés📸 Saját fotóval és automatikusan megjelenő helyszínnévvel🎨 Választható háttér témák szerint – teljesen személyre szabható📞 Kiemelt ügyfélszolgálat – segítünk, ha elakadnál✅ 100% elégedettségi garancia Mert egy jó utazás elmúlik, de az emléke örökre velünk marad.Készíts belőle egy képet, amit minden nap újra átélhetsz!
-  Updated: 2026-03-05T17:58:43Z
+  Updated: 2026-11-10T18:27:01Z
   Vendor: TeeInBlue
   Product Type: Customizer
   Availability: Available
@@ -2644,40 +2644,40 @@
   Updated: 2026-10-29T11:36:07Z
   Total Products: 29
 - [Ajándékok férfiaknak](https://giftforus.hu/collections/ajandekok-ferfiaknak): Alkoss egyedi fényképes ajándékokat online, egyszerűen, gyorsan. Ajándékötletek édeapáknak, nagypapának,férfiaknak, barátoknak, vagy testvérnek. Ajándékok születésnapra, névnapra, ballagásra, évfordulóra, karácsonyra.
-  Updated: 2026-10-29T11:36:07Z
+  Updated: 2026-11-11T12:42:17Z
   Total Products: 25
 - [Csaladnak](https://giftforus.hu/collections/csaladnak)
-  Updated: 2026-11-05T12:36:44Z
+  Updated: 2026-11-11T12:42:17Z
   Total Products: 23
 - [Párok](https://giftforus.hu/collections/parok)
-  Updated: 2026-10-25T11:32:09Z
+  Updated: 2026-11-11T12:42:17Z
   Total Products: 35
 - [Gyermekeknek](https://giftforus.hu/collections/gyermekeknek)
   Updated: 2026-10-14T11:58:00Z
   Total Products: 16
 - [Barátoknak](https://giftforus.hu/collections/baratoknak)
-  Updated: 2026-11-05T12:36:44Z
+  Updated: 2026-11-11T12:42:17Z
   Total Products: 12
 - [Esküvő](https://giftforus.hu/collections/eskuvo)
   Updated: 2026-09-18T11:38:40Z
   Total Products: 9
 - [Nyaralás](https://giftforus.hu/collections/nyaralas)
-  Updated: 2026-03-05T19:10:56Z
+  Updated: 2026-11-11T12:42:17Z
   Total Products: 4
 - [Újdonságok](https://giftforus.hu/collections/ujdonsagok)
-  Updated: 2026-10-25T11:32:09Z
+  Updated: 2026-11-11T12:42:17Z
   Total Products: 23
 - [Szezonális](https://giftforus.hu/collections/szezonalis)
-  Updated: 2026-04-29T07:38:20Z
+  Updated: 2026-11-11T12:42:17Z
   Total Products: 8
 - [Képek - fotókollázsok](https://giftforus.hu/collections/kepek-fotokollazsok): Alkoss egyedi fotókollázsokat a család minden tagja számára.
-  Updated: 2026-10-29T11:36:07Z
+  Updated: 2026-11-11T12:42:17Z
   Total Products: 54
 - [Anyák napja](https://giftforus.hu/collections/anyak-napja): Egyedi, megszemélyesített ajándékok Anyák napjára.
   Updated: 2026-10-11T11:36:23Z
   Total Products: 28
 - [Apák napja](https://giftforus.hu/collections/apak-napja): Egyedi ajándékötletek Apák napjára. Kényelmes online felület, különleges megoldások, a siker garantált.
-  Updated: 2026-10-14T11:58:00Z
+  Updated: 2026-11-11T12:42:17Z
   Total Products: 14
 - [Szülőknek, nagyszülőknek](https://giftforus.hu/collections/szuloknek-nagyszuloknek): Egyedi ajándékok szülőknek, nagyszülőknek.
   Updated: 2026-10-29T11:36:07Z
