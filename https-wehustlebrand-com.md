@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-21T13:38:24Z
 - Contact Email: dario@wehustlebrand.com
-- Updated At: 2026-11-07T00:31:52.104Z
+- Updated At: 2026-11-15T00:33:22.282Z
 
 ## Products
 
@@ -50,7 +50,7 @@
     Availability: Available
     Price: $159.00 USD
 - [TROUBLE IN SILK — Men's Satin Co-ord Set | Cuban Collar Shirt & Trousers | HUSTLE](https://wehustlebrand.com/products/trouble-in-silk-set): Men's satin co-ord set: Cuban-collar shirt + matching trousers in breathability-tested Japanese poly satin. Exclusive print, limited to 100 pieces. Ships worldwide duty paid.
-  Updated: 2026-10-19T06:53:27Z
+  Updated: 2026-11-13T22:43:16Z
   Vendor: Wehustlebrand.com
   Product Type: SETS
   Availability: Available
@@ -361,7 +361,7 @@
     Availability: Available
     Price: $159.00 USD
 - [FLYING DRAGON — Men's Satin Co-ord Set | Cuban Collar Shirt & Trousers | HUSTLE](https://wehustlebrand.com/products/flying-dragon-set): Men's satin co-ord set: Cuban-collar shirt + matching trousers in breathability-tested Japanese poly satin. Exclusive print, limited to 100 pieces. Ships worldwide duty paid.
-  Updated: 2026-10-21T09:57:11Z
+  Updated: 2026-11-13T22:43:27Z
   Vendor: Wehustlebrand.com
   Product Type: SETS
   Availability: Available
@@ -427,7 +427,7 @@
     Availability: Available
     Price: $259.00 USD
 - [FENYX RISING — Men's Satin Cuban Collar Shirt | Printed Resort Shirt | HUSTLE](https://wehustlebrand.com/products/fenyx-rising-shirt): Men's satin Cuban collar shirt in breathability-tested Japanese poly satin. Matte sheen, exclusive print, matching trousers available. Ships worldwide duty paid.
-  Updated: 2026-09-11T18:57:53Z
+  Updated: 2026-11-11T12:51:35Z
   Vendor: Wehustlebrand.com
   Product Type: Shirt
   Availability: Available
@@ -532,7 +532,7 @@
     Availability: Available
     Price: $259.00 USD
 - [BLACK IS NEW ORANGE — Men's Satin Cuban Collar Shirt | Printed Resort Shirt | HUSTLE](https://wehustlebrand.com/products/black-is-new-orange-shirt): Men's satin Cuban collar shirt in breathability-tested Japanese poly satin. Matte sheen, exclusive print, matching trousers available. Ships worldwide duty paid.
-  Updated: 2026-10-19T08:05:12Z
+  Updated: 2026-11-13T00:35:25Z
   Vendor: Wehustlebrand.com
   Product Type: Shirt
   Availability: Available
@@ -741,7 +741,7 @@
     Availability: Available
     Price: $259.00 USD
 - [WELCOME TO MIAMI — Men's Satin Cuban Collar Shirt | Printed Resort Shirt | HUSTLE](https://wehustlebrand.com/products/welcome-to-miami-shirt): Men's satin Cuban collar shirt in breathability-tested Japanese poly satin. Matte sheen, exclusive print, matching trousers available. Ships worldwide duty paid.
-  Updated: 2026-10-30T02:11:07Z
+  Updated: 2026-11-09T00:01:25Z
   Vendor: Wehustlebrand.com
   Product Type: Shirt
   Availability: Available
@@ -1110,7 +1110,7 @@
     Availability: Available
     Price: $259.00 USD
 - [TOUCH ME NOT — Men's Satin Co-ord Set | Cuban Collar Shirt & Trousers | HUSTLE](https://wehustlebrand.com/products/touch-me-not-set): Men's satin co-ord set: Cuban-collar shirt + matching trousers in breathability-tested Japanese poly satin. Exclusive print, limited to 100 pieces. Ships worldwide duty paid.
-  Updated: 2026-10-18T13:05:27Z
+  Updated: 2026-11-11T19:32:05Z
   Vendor: Wehustlebrand.com
   Product Type: SETS
   Availability: Available
@@ -1272,7 +1272,7 @@
     Availability: Available
     Price: $159.00 USD
 - [SOUTH BEACH — Men's Satin Cuban Collar Shirt | Printed Resort Shirt | HUSTLE](https://wehustlebrand.com/products/south-beach-shirt): Men's satin Cuban collar shirt in breathability-tested Japanese poly satin. Matte sheen, exclusive print, matching trousers available. Ships worldwide duty paid.
-  Updated: 2026-10-19T04:50:46Z
+  Updated: 2026-11-12T02:23:32Z
   Vendor: Wehustlebrand.com
   Product Type: Shirt
   Availability: Available
@@ -1332,7 +1332,7 @@
     Availability: Available
     Price: $159.00 USD
 - [SCAR CITY — Men's Satin Cuban Collar Shirt | Printed Resort Shirt | HUSTLE](https://wehustlebrand.com/products/scar-city-shirt): Men's satin Cuban collar shirt in breathability-tested Japanese poly satin. Matte sheen, exclusive print, matching trousers available. Ships worldwide duty paid.
-  Updated: 2026-10-19T06:47:21Z
+  Updated: 2026-11-13T10:49:47Z
   Vendor: Wehustlebrand.com
   Product Type: Shirt
   Availability: Available
@@ -1385,7 +1385,7 @@
     Availability: Available
     Price: $159.00 USD
 - [DOLCE VITA — Women's Satin Co-ord Set | Matching Shirt & Trousers | HUSTLE](https://wehustlebrand.com/products/dolce-vita-womens-set): Women's satin co-ord set — matching shirt & high-waist trousers in Japanese poly satin. The her-half of HUSTLE his & hers sets. Limited to 100 pieces per print.
-  Updated: 2026-11-05T05:19:57Z
+  Updated: 2026-11-13T22:43:27Z
   Vendor: Wehustlebrand.com
   Product Type: Sets
   Availability: Available
@@ -1400,7 +1400,7 @@
     Availability: Available
     Price: $159.00 USD
 - [DOLCE VITA — Men's Satin Cuban Collar Shirt | Printed Resort Shirt | HUSTLE](https://wehustlebrand.com/products/dolce-vita-shirt): Men's satin Cuban collar shirt in breathability-tested Japanese poly satin. Matte sheen, exclusive print, matching trousers available. Ships worldwide duty paid.
-  Updated: 2026-11-01T00:27:22Z
+  Updated: 2026-11-11T02:18:46Z
   Vendor: Wehustlebrand.com
   Product Type: Shirt
   Availability: Available
@@ -1514,7 +1514,7 @@
     Availability: Available
     Price: $159.00 USD
 - [POSITANO — Men's Satin Cuban Collar Shirt | Printed Resort Shirt | HUSTLE](https://wehustlebrand.com/products/positano-shirt): Men's satin Cuban collar shirt in breathability-tested Japanese poly satin. Matte sheen, exclusive print, matching trousers available. Ships worldwide duty paid.
-  Updated: 2026-11-03T18:31:55Z
+  Updated: 2026-11-11T03:09:42Z
   Vendor: Wehustlebrand.com
   Product Type: Shirt
   Availability: Available
@@ -1923,22 +1923,22 @@
   Updated: 2026-09-11T14:09:48Z
   Total Products: 1
 - [Men Shirts](https://wehustlebrand.com/collections/tisort): Shop men's bold shirts and tops at We Hustle Brand. Premium streetwear, free worldwide shipping. Pair with our matching pants for the full co-ord look.
-  Updated: 2026-11-04T12:15:25Z
+  Updated: 2026-11-13T12:19:53Z
   Total Products: 17
 - [Man Pants](https://wehustlebrand.com/collections/pants): Shop men's bold pants and trousers at We Hustle Brand. Premium streetwear bottoms, free worldwide shipping. Pair with our matching shirts for the full look.
   Updated: 2026-10-18T11:24:36Z
   Total Products: 13
 - [All Products](https://wehustlebrand.com/collections/all): The full HUSTLE collection — men's and women's satin co-ord sets, Cuban collar shirts, trousers, swim shorts, linen sets and his & hers matching outfits.
-  Updated: 2026-11-06T12:36:33Z
+  Updated: 2026-11-14T12:19:58Z
   Total Products: 68
 - [Men Sets](https://wehustlebrand.com/collections/sets): Shop premium men's matching sets & two-piece co-ords at We Hustle Brand. Bold prints, luxury feel, free international shipping. Find your set today.
-  Updated: 2026-11-06T12:36:33Z
+  Updated: 2026-11-14T12:19:58Z
   Total Products: 17
 - [Men](https://wehustlebrand.com/collections/men): Shop men's premium matching sets, co-ords, pants & shirts at We Hustle Brand. Bold designs. Free worldwide shipping. New collections dropping now.
-  Updated: 2026-11-06T12:36:33Z
+  Updated: 2026-11-14T12:19:58Z
   Total Products: 54
 - [Women](https://wehustlebrand.com/collections/women): Discover women's matching sets and co-ords at We Hustle Brand. Premium quality, bold style, free worldwide shipping. New women's styles coming soon.
-  Updated: 2026-11-05T12:18:24Z
+  Updated: 2026-11-14T12:19:58Z
   Total Products: 11
 - [T-Shirt](https://wehustlebrand.com/collections/wehustle-t-shirt): Everyday We Hustle tees — soft, clean, and easy to live in. The relaxed staple that grounds any outfit. New styles landing here soon.
   Updated: 2026-09-11T14:09:48Z
@@ -1950,16 +1950,16 @@
   Updated: 2026-09-11T14:09:48Z
   Total Products: 3
 - [Women Sets](https://wehustlebrand.com/collections/womens-sets): Women's satin matching sets and co-ords — shirt and high-waist trouser two-pieces in exclusive prints. The her-half of HUSTLE his & hers sets.
-  Updated: 2026-11-05T12:18:24Z
+  Updated: 2026-11-14T12:19:58Z
   Total Products: 8
 - [His & Hers](https://wehustlebrand.com/collections/his-hers): His and hers matching satin sets — every men's print has a matching women's half. Couple co-ords for festivals, holidays and nights out. Ships worldwide duty paid.
-  Updated: 2026-11-06T12:36:33Z
+  Updated: 2026-11-14T12:19:58Z
   Total Products: 28
 - [Men Swimwear Sets](https://wehustlebrand.com/collections/swim-sets): Poolside-ready co-ords built around swim shorts. A matching shirt and swim-short set that takes you from the sun lounger to the beach bar without missing a beat. Vacation mode, fully coordinated.
   Updated: 2026-11-01T12:23:12Z
   Total Products: 4
 - [New! Shopify performance sharing is now turned on](https://wehustlebrand.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-11-06T12:36:33Z
+  Updated: 2026-11-14T12:19:58Z
   Total Products: 68
 - [Women Dress](https://wehustlebrand.com/collections/womens-dress): Women's oversized satin dresses in exclusive prints — wear open as an oversize shirt or belted as a dress. Japanese poly satin, XL–XXL.
   Updated: 2026-09-11T14:09:48Z
