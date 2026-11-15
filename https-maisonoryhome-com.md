@@ -9,7 +9,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-05-24T23:43:09Z
 - Contact Email: gotommylee0522@gmail.com
-- Updated At: 2026-11-08T00:44:25.034Z
+- Updated At: 2026-11-15T00:51:23.937Z
 
 ## Products
 
@@ -798,12 +798,12 @@
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/71EObuFUE5L._AC_SX679.jpg?v=1757429893
   Price: $565.50 USD
 - [Cvortll Faux Fur Bean Bag Chair with Filler – White | MaisonoryHome](https://maisonoryhome.com/products/cvortll-bean-bag-chair-faux-fur-white): Soft, cozy, and stylish — the Cvortll White Bean Bag Chair features plush faux fur and memory foam fill. A perfect accent for any room.
-  Updated: 2026-10-30T05:31:48Z
+  Updated: 2026-11-11T04:59:29Z
   Vendor: Cvortll
   Product Type: Bean Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/81xJd9LfajL._AC_SX679.jpg?v=1757429905
-  Price: $178.10 USD
+  Price: $279.98 USD
 - [EZZUP Dual Motor Power Lift Recliner Chair – Light Grey | MaisonoryHome](https://maisonoryhome.com/products/ezzup-dual-motor-power-lift-recliner-light-grey): The EZZUP Dual Motor Power Lift Recliner in Light Grey offers independent backrest & footrest control with lay-flat capability. Shop now.
   Updated: 2026-10-30T05:31:48Z
   Vendor: EZZUP
@@ -896,7 +896,7 @@
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/91GSjowQ64L._AC_SX679.jpg?v=1757430031
   Price: $221.00 USD
 - [Yaheetech Mid-Century PU Leather Accent Chair Set of 2 – Beige | MaisonoryHome](https://maisonoryhome.com/products/yaheetech-mid-century-pu-leather-accent-chair-set-of-2-beige): Elevate your space with Yaheetech Beige PU Leather Accent Chairs (Set of 2). Button-tufted back, wood legs for bedroom, office & cafe.
-  Updated: 2026-10-30T05:31:50Z
+  Updated: 2026-11-11T11:07:29Z
   Vendor: Yaheetech
   Product Type: Chairs
   Availability: Available
@@ -951,6 +951,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/71TTD04Zp1L._AC_SX679.jpg?v=1757430087
   Price: $565.50 USD
+- [122" Modern L Shaped Modular Sectional Sofa, Boneless Couches for Living Room with Ottoman,4 Seater Convertible Chenille Cloud Couch Sofa Set, No Assembly Required, Beige 1 PCS](https://maisonoryhome.com/products/b0fl26fm58): About This Spacious & Versatile Design: The Luxanimarion modular sectional sofa boasts an impressive 118" width, 26.8" deep seats, and 15" wide armrests. Its expansive design offers a stylish and cozy seating solution, perfect for living rooms, bedrooms, or home offices High-Density Foam Structure: Crafted entirely with 30D high-density foam, this boneless couch ensures exceptional support and lasting durability. The foam features fast rebound technology, maintaining its shape while providing plush yet firm seating. Say goodbye to squeaky frames and hello to pure comfort Breathable Chenille Fabric: The L-shaped couch features high-quality chenille fabric that is very Sturdy and not easy to pilling, which ensures long time use. At the same time, its breathability makes the sofa more comfortable, allowing you to feel refreshed and cosy while sitting on it. Enhance your living space with this elegant and comfort modern cloud couch Flexible Modular Combination: Unleash creativity with modular magic! Each unit can be moved and reconfigured into chaise lounges, sofa bed or sectional sofas. The three main seats include hidden fastening straps to securely connect them as a 3-seater (ottoman is movable by design). Adapt effortlessly to your lifestyle—whether hosting guests or relaxing solo No Assembly Required: Say goodbye to furniture assembly nightmares with our modular cloud couch! Simply unpack, lightly pat the pieces, and allow the couch to regain its full shape within 72 hours. Enjoy a hassle-free setup and the immediate comfort of your new sofa! Overview Brand : Luxanimarion Assembly Required : No Seat Height : 15.75 Inches Product Dimensions : 39.4"D x 122"W x 26.8"H Type : Sectional Color : Beige Special Feature : Vacuums Room Type : Living Room Shape : L-Shape Size : L-Shaped Seating Capacity 4.0 : Style Modern : Seating Capacity 4.0 : Style Modern
+  Updated: 2026-11-08T03:27:04Z
+  Vendor: Luxanimarion
+  Product Type: Sofas & Couches
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/81iDV2qbdsL._AC_SX679.jpg?v=1757430090
+  Price: $1,365.00 USD
 - [Big Joe Cloudberry Foam Bean Bag Chair – Deep Blue Teddy Boucle | MaisonoryHome](https://maisonoryhome.com/products/big-joe-cloudberry-foam-bean-bag-chair-deep-blue-teddy-boucle): Sink into the Big Joe Cloudberry Bean Bag in Deep Blue Teddy Boucle. Foam-filled structured comfort for any living room or lounge space.
   Updated: 2026-10-30T05:31:49Z
   Vendor: BigJoe
@@ -1022,12 +1029,12 @@
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/81fpQ0rBjUL._AC_SX679.jpg?v=1757430140
   Price: $1,189.50 USD
 - [YESER Cloud Loveseat L-Shaped Chenille Sectional with Ottoman – Blue | MaisonoryHome](https://maisonoryhome.com/products/yeser-cloud-loveseat-l-shaped-chenille-sectional-ottoman-blue): Cozy up in the YESER Blue Chenille Cloud Loveseat. Oversized L-shaped sectional with ottoman & throw pillows for deep-seat living room comfort.
-  Updated: 2026-10-30T05:31:50Z
+  Updated: 2026-11-11T04:59:38Z
   Vendor: YESER
   Product Type: Sofas & Couches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/91vYOZJ9l5L._AC_SX679.jpg?v=1757430142
-  Price: $897.00 USD
+  Price: $1,199.96 USD
 - [Yaheetech Mid-Century PU Leather Button Tufted Accent Chair – Beige | MaisonoryHome](https://maisonoryhome.com/products/yaheetech-mid-century-pu-leather-button-tufted-accent-chair-beige): Elevate your space with the Yaheetech Beige PU Leather Accent Chair. Button tufted back, wood legs for bedroom, office & cafe seating.
   Updated: 2026-10-30T05:31:50Z
   Vendor: Yaheetech
@@ -1183,12 +1190,12 @@
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/81qPPdrbA0L._AC_SX679.jpg?v=1757430246
   Price: $278.20 USD
 - [Recaceik Large Plush Memory Foam Bean Bag Chair w/ Armrests – Rainbow | MaisonoryHome](https://maisonoryhome.com/products/recaceik-large-plush-memory-foam-bean-bag-chair-armrests-rainbow): Vibrant Recaceik Rainbow Memory Foam Bean Bag Chair. Plush lounge floor sofa with armrests for adults & kids in living room & dorm.
-  Updated: 2026-10-30T05:31:50Z
+  Updated: 2026-11-11T04:59:38Z
   Vendor: Recaceik
   Product Type: Bean Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/81cc-LNuHEL._AC_SX679.jpg?v=1757430248
-  Price: $191.10 USD
+  Price: $259.98 USD
 - [YESER Cloud Couch 3-Seater Modular Sofa Bed with 5 Pillows – White | MaisonoryHome](https://maisonoryhome.com/products/yeser-cloud-couch-3-seater-modular-sofa-bed-5-pillows-white): Sink into the YESER White Cloud Couch. Oversized 3-seater sectional sofa bed with round bolster armrests & 5 pillows for deep-seat comfort.
   Updated: 2026-10-30T05:31:52Z
   Vendor: YESER
@@ -1504,14 +1511,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/91bW8HbGMzL._AC_SX679.jpg?v=1757430502
   Price: $78.00 USD
-- [Modular Sectional Sofa, 2 Seater Cloud Couch Small Couches for Small Spaces, Modern Deep Seat Couch, Home Sofa Living Room Oversized Loveseat with Bolster Armrests 4 Pillows](https://maisonoryhome.com/products/b0ds8hlc7j): About This Oversized Loveseat Sofa Couch: This is an oversized modular sectional sofa couch for bedroom or living room. The 2-seater sofa couch is made of soft, durable, and exquisite vintage chenille fabric, it offers comfort and soft seating for everyone sitting on it. Exquisite round bolster armrest designs with well-filled inside provide comfort support for the hands, while sitting on it the bolster armrest can also provide your head with the appropriate radian and support Sitting on a Cloud: Cloud-look seat cushions without spring or wood inside offer excellent support and elasticity for your body. The deep seat offers extra support and waist comfort. Throw pillows and waist pillows provide you with extra support. You can sit down and feel the dorm couch backrest fit and support, enjoying unparalleled comfort. Whether you're watching TV, reading books, or chatting with family, this sofa will provide you with the ultimate comfortable experience High-Quality Material: Ensuring you the ultimate comfort and secure experience, our seat cushion is filled with highly resilient sponge and doll cotton on the inside, providing a soft and comfortable feel, just like sitting on a cloud. Whether you want to relax or enjoy a good read, this sofa will offer you an incredibly comfortable experience Flexible Combination: You can freely combine your sofa according to your needs, we have a variety of combinations of choice, single, double, three, four, and a variety of combinations, you can also use it as an armless sofa. The flexible split structure is disassembled into 2 or 3 parts of the sofas, which are flexible and convenient to enter the house. Also, the back is simple and clean, it can be placed from multiple angles, not limited by the size of the house Tips: All the cushions and pillows are vacuum packed for easy transportation, it may take up to 2-7 days to fully expand to its original shape. The item may be slightly different from the photo in terms of color due to the monitor's display, the color should be subject to the actual item Overview Brand : YESER Assembly Required : Yes Seat Depth : 47 inches Seat Height : 17.3 Inches Weight Limit : 250 Pounds Product Dimensions : 36"D x 94.4"W x 35.4"H Type : Loveseat Color : Light Coffee Special Feature : L Shaped Couch, Loveseat with Ottoman, Modular Sectional Sofa, Oversized Loveseat Sectional Couch Room Type : L Shaped Couch, Loveseat with Ottoman, Modular Sectional Sofa, Oversized Loveseat, Velvet Loveseat Seating Capacity 2.0 : Style Modern : Seating Capacity 2.0 : Style Modern Shape Rectangular : Material Chenille : Shape Rectangular : Material Chenille
-  Updated: 2026-10-03T05:16:12Z
-  Vendor: YESER
-  Product Type: Sofas & Couches
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/819jR6j9oDL._AC_SX679.jpg?v=1757430504
-  Price: $859.96 USD
-[List Continued](https://maisonoryhome.com/a/llms-agent/llms.txt?shop=z0ajpf-u7.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NDA0OTIyNDI5NjcwLCJsYXN0X3ZhbHVlIjoiOTQwNDkyMjQyOTY3MCJ9)
+[List Continued](https://maisonoryhome.com/a/llms-agent/llms.txt?shop=z0ajpf-u7.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NDA0OTIyMjk4NTk4LCJsYXN0X3ZhbHVlIjoiOTQwNDkyMjI5ODU5OCJ9)
 
 ## Collections
 
@@ -1519,152 +1519,152 @@
   Updated: 2026-11-01T13:57:48Z
   Total Products: 7
 - [Living Room Decor](https://maisonoryhome.com/collections/living-room-decor): Discover MaisonoryHome’s Living Room Decor — curated furniture, soft textiles, and elegant décor to create a warm, inviting space that feels like home.
-  Updated: 2026-11-07T19:24:08Z
-  Total Products: 1316
+  Updated: 2026-11-14T07:07:56Z
+  Total Products: 1292
 - [Bedroom Decor](https://maisonoryhome.com/collections/bedroom-decor): Shop MaisonoryHome’s Bedroom Decor — soft textiles, modern lighting, and calming wall art to create your perfect sleep sanctuary.
-  Updated: 2026-11-07T14:03:08Z
-  Total Products: 2202
+  Updated: 2026-11-14T14:08:12Z
+  Total Products: 2173
 - [Home Office Vibes](https://maisonoryhome.com/collections/home-office-vibes): Transform your workspace with MaisonoryHome — modern home office decor, desk lighting, and organizers for focus, comfort, and creativity.
-  Updated: 2026-11-07T08:07:09Z
-  Total Products: 349
+  Updated: 2026-11-14T08:07:33Z
+  Total Products: 344
 - [Outdoor & Patio Decor](https://maisonoryhome.com/collections/outdoor-patio-decor): Shop MaisonoryHome’s Outdoor & Patio Decor — rattan furniture, lanterns, and weatherproof accents that turn any patio into a cozy retreat.
-  Updated: 2026-11-07T06:52:19Z
-  Total Products: 93
+  Updated: 2026-11-13T20:37:36Z
+  Total Products: 92
 - [Rustic Farmhouse](https://maisonoryhome.com/collections/rustic-farmhouse): Shop Rustic Farmhouse decor — wooden accents, woven baskets, and cozy textures that bring timeless country charm to your home.
-  Updated: 2026-11-06T19:58:04Z
-  Total Products: 1787
+  Updated: 2026-11-14T17:30:38Z
+  Total Products: 1729
 - [Scandinavian Style](https://maisonoryhome.com/collections/scandinavian-style): Shop Scandinavian Style decor from MaisonoryHome — minimalist, cozy, and timeless pieces inspired by Nordic living and natural warmth.
   Updated: 2026-04-20T16:23:16Z
   Total Products: 0
 - [Coastal & Nautical](https://maisonoryhome.com/collections/coastal-nautical): Shop MaisonoryHome’s Coastal & Nautical Collection — ocean-inspired decor, rope details, and driftwood textures that bring seaside serenity home.
-  Updated: 2026-11-06T19:58:04Z
-  Total Products: 1149
+  Updated: 2026-11-14T17:30:38Z
+  Total Products: 1102
 - [Wall Art & Prints](https://maisonoryhome.com/collections/wall-art-prints): Explore MaisonoryHome’s Wall Art & Prints — curated abstracts, botanicals, and framed art that bring texture, emotion, and elegance to your walls.
-  Updated: 2026-11-06T19:58:04Z
-  Total Products: 1149
+  Updated: 2026-11-14T17:30:38Z
+  Total Products: 1102
 - [Throw Pillows & Cushions](https://maisonoryhome.com/collections/throw-pillows-cushions): Shop MaisonoryHome’s throw pillows and cushions — soft textures, modern colors, and timeless comfort to complete your home décor.
   Updated: 2026-10-26T06:32:43Z
   Total Products: 59
 - [Vases & Planters](https://maisonoryhome.com/collections/vases-planters): Shop MaisonoryHome’s vases and planters — modern, minimal, and artfully designed pieces that bring natural beauty into every space.
-  Updated: 2026-11-07T19:24:08Z
-  Total Products: 735
+  Updated: 2026-11-13T23:50:54Z
+  Total Products: 721
 - [Candles & Holders](https://maisonoryhome.com/collections/candles-holders): Discover MaisonoryHome’s curated candle and holder collection — soy candles, glass holders, and timeless accents that bring warmth and calm to your home.
-  Updated: 2026-11-07T07:55:04Z
-  Total Products: 194
+  Updated: 2026-11-13T22:57:39Z
+  Total Products: 192
 - [Mirrors](https://maisonoryhome.com/collections/mirrors): MaisonoryHome’s Mirrors collection captures the art of reflection — literally and stylistically. From minimalist wall mirrors to ornate statement pieces, these designs amplify light, expand your space, and add depth to your interiors. Perfect for bedrooms, hallways, or living spaces, each mirror brings both function and beauty. Discover shapes, sizes, and finishes that blend seamlessly with any décor style, making every glance a design moment.
-  Updated: 2026-11-07T07:03:06Z
-  Total Products: 260
+  Updated: 2026-11-14T07:07:56Z
+  Total Products: 255
 - [Lamps & Lighting](https://maisonoryhome.com/collections/lamps-lighting): Shop lamps and lighting from MaisonoryHome — warm, modern, and timeless pieces to brighten every corner of your home.
   Updated: 2026-10-16T17:20:09Z
   Total Products: 5
 - [Rugs & Mats](https://maisonoryhome.com/collections/rugs-mats): Explore MaisonoryHome’s Rugs & Mats — modern woven rugs, accent mats, and cozy textures to elevate your floors in every room.
-  Updated: 2026-11-07T08:55:15Z
-  Total Products: 1302
+  Updated: 2026-11-14T08:57:43Z
+  Total Products: 1276
 - [Clocks](https://maisonoryhome.com/collections/clocks): Shop MaisonoryHome’s Clocks — modern wall and desk clocks designed to blend timeless craftsmanship with everyday function and elegant style.
-  Updated: 2026-11-07T09:00:10Z
-  Total Products: 456
+  Updated: 2026-11-14T20:17:38Z
+  Total Products: 449
 - [Storage Baskets & Boxes](https://maisonoryhome.com/collections/storage-baskets-boxes): Shop MaisonoryHome’s woven baskets and storage boxes — functional, stylish, and perfect for keeping every room beautifully organized.
   Updated: 2026-10-16T06:24:37Z
   Total Products: 23
 - [Curtains & Window Treatments](https://maisonoryhome.com/collections/curtains-window-treatments): Shop MaisonoryHome’s Curtains & Window Treatments — elegant sheer and blackout curtains designed for every room and mood.
-  Updated: 2026-11-07T16:20:08Z
-  Total Products: 2700
+  Updated: 2026-11-14T03:27:37Z
+  Total Products: 2695
 - [Seasonal Decor (Spring, Fall, etc.)](https://maisonoryhome.com/collections/seasonal-decor-spring-fall-etc): Shop seasonal home decor from MaisonoryHome — spring florals, autumn accents, and timeless festive pieces that refresh your home year-round.
-  Updated: 2026-11-06T13:29:14Z
-  Total Products: 219
+  Updated: 2026-11-11T12:47:42Z
+  Total Products: 216
 - [Eco-Friendly Decor](https://maisonoryhome.com/collections/eco-friendly-decor): Shop eco-friendly home decor from MaisonoryHome — sustainable, natural, and timeless designs that bring harmony and purpose to every space.
-  Updated: 2026-11-06T13:29:27Z
-  Total Products: 611
+  Updated: 2026-11-11T13:07:40Z
+  Total Products: 600
 - [Luxury Home Accents](https://maisonoryhome.com/collections/luxury-home-accents): Shop MaisonoryHome’s luxury home accents — marble, gold, and crystal details that add timeless elegance to your modern home.
-  Updated: 2026-11-07T08:58:05Z
-  Total Products: 124
+  Updated: 2026-11-14T09:07:43Z
+  Total Products: 123
 - [Drinkware & Hydration](https://maisonoryhome.com/collections/drinkware-hydration): Explore MaisonoryHome’s Drinkware & Hydration collection—featuring bottles, tumblers, mugs, and glassware that combine modern design with daily comfort.
-  Updated: 2026-11-07T02:15:06Z
-  Total Products: 386
+  Updated: 2026-11-13T23:50:53Z
+  Total Products: 378
 - [Water Bottles](https://maisonoryhome.com/collections/water-bottles): Shop reusable and insulated water bottles from MaisonoryHome. Eco-friendly, stylish, and designed to keep drinks fresh wherever you go.
-  Updated: 2026-11-07T00:27:04Z
-  Total Products: 94
+  Updated: 2026-11-12T08:57:37Z
+  Total Products: 91
 - [Thermoses & Travel Mugs](https://maisonoryhome.com/collections/thermoses-travel-mugs): Discover MaisonoryHome’s Thermoses & Travel Mugs for hot coffee, tea, and cocoa lovers—sleek, durable, and travel-ready designs for your day.
-  Updated: 2026-11-07T00:27:04Z
-  Total Products: 262
+  Updated: 2026-11-12T08:57:37Z
+  Total Products: 226
 - [Tumblers & Cups](https://maisonoryhome.com/collections/tumblers-cups): MaisonoryHome’s Tumblers & Cups collection adds charm to everyday hydration. From glass tumblers to durable stainless steel cups, each piece is crafted for comfort, style, and reusability.
-  Updated: 2026-11-07T02:15:06Z
-  Total Products: 302
+  Updated: 2026-11-13T23:50:53Z
+  Total Products: 297
 - [Wine Glasses & Barware](https://maisonoryhome.com/collections/wine-glasses-barware): Shop MaisonoryHome’s Wine Glasses & Barware for your next toast. Elegant glassware designed for modern hosting and timeless charm.
-  Updated: 2026-11-06T17:27:09Z
-  Total Products: 77
+  Updated: 2026-11-11T12:47:32Z
+  Total Products: 75
 - [Coffee & Tea Mugs](https://maisonoryhome.com/collections/coffee-tea-mugs): Explore MaisonoryHome’s Coffee & Tea Mugs—crafted with care to bring warmth, texture, and calm to your morning ritual.
-  Updated: 2026-11-07T02:15:06Z
-  Total Products: 302
+  Updated: 2026-11-13T23:50:53Z
+  Total Products: 297
 - [Straws & Lids](https://maisonoryhome.com/collections/reusable-straws-lids): Shop MaisonoryHome’s Reusable Straws & Lids for sustainable, eco-friendly drinkware accessories that make hydration stylish and waste-free.
   Updated: 2026-10-16T05:49:20Z
   Total Products: 12
 - [Kitchen & Dining](https://maisonoryhome.com/collections/kitchen-dining): Explore MaisonoryHome’s Kitchen & Dining collection—crafted to blend style and function with cookware, tableware, and kitchen essentials that inspire everyday living.
-  Updated: 2026-11-07T14:39:04Z
-  Total Products: 713
+  Updated: 2026-11-14T14:37:42Z
+  Total Products: 704
 - [Kitchen & Dining Accents](https://maisonoryhome.com/collections/kitchen-dining-accents): Add character to your kitchen and dining space with MaisonoryHome’s elegant accents — from tabletop décor to candle holders and modern centerpieces.
-  Updated: 2026-11-07T07:55:04Z
-  Total Products: 194
+  Updated: 2026-11-13T22:57:39Z
+  Total Products: 192
 - [Cookware & Bakeware](https://maisonoryhome.com/collections/cookware-bakeware): Shop MaisonoryHome’s cookware and bakeware essentials — from durable nonstick pans to elegant bake sets. Cook beautifully, every day.
-  Updated: 2026-11-06T23:00:05Z
-  Total Products: 33
+  Updated: 2026-11-13T23:07:39Z
+  Total Products: 32
 - [Utensils & Cutting Tools](https://maisonoryhome.com/collections/utensils-cutting-tools): Explore MaisonoryHome’s utensils and cutting tools — from chef knives to silicone spatulas. Beautiful, functional essentials for every kitchen.
-  Updated: 2026-10-25T09:01:24Z
+  Updated: 2026-11-11T05:06:47Z
   Total Products: 34
 - [Tabletop Decor](https://maisonoryhome.com/collections/tabletop-decor-1): Elevate your dining table with MaisonoryHome’s tabletop decor — from elegant trays and vases to modern candle holders for every occasion.
-  Updated: 2026-11-07T07:55:04Z
-  Total Products: 795
+  Updated: 2026-11-13T22:57:39Z
+  Total Products: 782
 - [Food Storage & Containers](https://maisonoryhome.com/collections/food-storage-containers): Shop MaisonoryHome’s stylish food storage solutions — airtight jars, stackable containers, and silicone bags to keep your kitchen organized beautifully.
-  Updated: 2026-11-07T14:39:04Z
-  Total Products: 680
+  Updated: 2026-11-14T14:37:42Z
+  Total Products: 671
 - [Linens & Napkins](https://maisonoryhome.com/collections/linens-napkins): Discover MaisonoryHome’s soft linen napkins, cotton tablecloths, and table runners — crafted to bring natural texture and timeless beauty to your dining table.
-  Updated: 2026-11-06T13:29:27Z
-  Total Products: 1053
+  Updated: 2026-11-11T13:07:40Z
+  Total Products: 1038
 - [Home & Living](https://maisonoryhome.com/collections/home-living): Explore MaisonoryHome’s Home & Living collection — curated décor, textiles, and art pieces that bring warmth, texture, and personality to your living space.
-  Updated: 2026-11-07T09:00:10Z
-  Total Products: 716
+  Updated: 2026-11-14T20:17:38Z
+  Total Products: 704
 - [Family & Kids](https://maisonoryhome.com/collections/family-kids): The Family & Kids Collection by MaisonoryHome brings comfort, creativity, and safety together in one place.From cozy night lights and plush toys to smart storage solutions and family-friendly décor, every piece is chosen to make your home both playful and practical.Whether you’re decorating a nursery, upgrading a kids’ study space, or organizing family essentials, these designs make home life a little easier — and a lot more joyful.
-  Updated: 2026-11-07T16:02:06Z
-  Total Products: 1064
+  Updated: 2026-11-14T13:12:38Z
+  Total Products: 1047
 - [Nursery & Kids Lighting](https://maisonoryhome.com/collections/nursery-kids-lighting): Shop MaisonoryHome’s Nursery & Kids Lighting — soft night lights and creative lamps that make bedtime cozy, calm, and magical.
-  Updated: 2026-10-26T06:30:52Z
+  Updated: 2026-11-13T23:50:40Z
   Total Products: 8
 - [Storage for Kids Rooms](https://maisonoryhome.com/collections/storage-for-kids-rooms): Organize your child’s room with MaisonoryHome’s soft bins and baskets — cute, functional, and perfect for everyday play.
   Updated: 2026-10-16T17:14:28Z
   Total Products: 4
 - [Toys & Plush Decor](https://maisonoryhome.com/collections/toys-plush-decor): Discover MaisonoryHome’s plush toys and soft décor — adorable companions that make playtime and bedtime magical.
-  Updated: 2026-11-04T13:02:53Z
-  Total Products: 111
+  Updated: 2026-11-11T13:08:19Z
+  Total Products: 110
 - [Study & School Desk Decor](https://maisonoryhome.com/collections/study-school-desk-decor): Shop kids’ study and school desk decor — from fun stationery to motivational stickers and desk organizers that make learning inspiring.
-  Updated: 2026-11-04T12:34:15Z
-  Total Products: 188
+  Updated: 2026-11-11T12:37:44Z
+  Total Products: 180
 - [Outdoor & Garden](https://maisonoryhome.com/collections/outdoor-garden): Shop outdoor & garden decor at MaisonoryHome — from rustic farmhouse accents to coastal patio essentials that bring beauty and calm to your outdoor spaces.
-  Updated: 2026-11-07T19:26:04Z
-  Total Products: 2578
+  Updated: 2026-11-14T19:49:44Z
+  Total Products: 2555
 - [price](https://maisonoryhome.com/collections/price)
-  Updated: 2026-11-07T07:32:58Z
-  Total Products: 1671
+  Updated: 2026-11-14T07:08:00Z
+  Total Products: 1615
 - [Furniture](https://maisonoryhome.com/collections/furniture): Shop quality furniture for every room. Find sofas, sectionals, tables, chairs, bookcases, and storage solutions. Free shipping on select items. Transform your home today.
-  Updated: 2026-11-07T09:50:04Z
-  Total Products: 2218
+  Updated: 2026-11-14T14:33:38Z
+  Total Products: 2153
 - [Sofas & Sectionals](https://maisonoryhome.com/collections/sofas-sectionals): Shop comfortable sofas and modular sectionals. Cloud couches, L-shaped sectionals, sleeper sofas in velvet, corduroy & linen. Free shipping available. Find your perfect couch.
-  Updated: 2026-11-07T07:32:58Z
-  Total Products: 693
+  Updated: 2026-11-13T23:08:16Z
+  Total Products: 651
 - [Bookcases & Shelving](https://maisonoryhome.com/collections/bookcases-shelving): Shop bookcases and shelving units. Cube organizers, 3-tier bookshelves, mid-century modern designs. Perfect for home office, bedroom, living room. Free shipping on select items.
-  Updated: 2026-11-07T08:07:09Z
-  Total Products: 308
+  Updated: 2026-11-14T08:07:33Z
+  Total Products: 304
 - [Nightstands & Bedside Tables](https://maisonoryhome.com/collections/nightstands-bedside-tables): Shop nightstands and bedside tables with drawers, charging stations, and storage. Fluted, mid-century modern, and farmhouse styles. Sets of 2 available. Free shipping on select items.
-  Updated: 2026-11-06T23:13:04Z
-  Total Products: 96
+  Updated: 2026-11-14T14:33:38Z
+  Total Products: 95
 - [Storage Solutions](https://maisonoryhome.com/collections/storage-solutions): Shop storage solutions including under-bed containers, fabric bins, closet organizers, and storage baskets. Keep your home organized and clutter-free. Free shipping available.
-  Updated: 2026-11-07T10:18:05Z
-  Total Products: 418
+  Updated: 2026-11-14T15:46:42Z
+  Total Products: 413
 - [Halloween Decor](https://maisonoryhome.com/collections/halloween-decor): Shop Halloween decorations including table runners, kitchen mats, placemats, and spider web décor. Spooky designs with ghosts, pumpkins, and skeletons. Free shipping available.
-  Updated: 2026-11-07T14:03:12Z
-  Total Products: 788
+  Updated: 2026-11-14T14:08:11Z
+  Total Products: 730
 - [Dining Chairs](https://maisonoryhome.com/collections/dining-chairs): Shop dining chairs in sets of 2 and 4. Mid-century modern rattan, farmhouse, and upholstered designs. Comfortable seating for dining rooms and kitchens. Free shipping available.
-  Updated: 2026-11-07T09:18:05Z
-  Total Products: 698
+  Updated: 2026-11-14T09:27:47Z
+  Total Products: 684
 - [TV Stands & Media Consoles](https://maisonoryhome.com/collections/tv-stands-media-consoles): Shop TV stands and entertainment centers for all TV sizes. Mid-century modern and farmhouse designs with storage. Perfect for living rooms and bedrooms. Free shipping available.
   Updated: 2026-04-20T16:23:19Z
   Total Products: 0
@@ -1672,50 +1672,50 @@
   Updated: 2026-10-28T17:18:02Z
   Total Products: 5
 - [Living Room Essentials](https://maisonoryhome.com/collections/living-room-essentials): Shop our curated living room furniture collection featuring sofas, TV stands, end tables, area rugs, and lighting. Create your perfect living space with premium home decor.
-  Updated: 2026-11-07T19:31:07Z
-  Total Products: 3549
+  Updated: 2026-11-14T09:57:59Z
+  Total Products: 3451
 - [Small Space Solutions](https://maisonoryhome.com/collections/small-space-solutions): Discover space-saving furniture and smart storage solutions for small apartments and compact rooms. Maximize your space with functional, stylish pieces designed for modern living.
-  Updated: 2026-11-07T16:02:06Z
-  Total Products: 4733
+  Updated: 2026-11-14T19:03:41Z
+  Total Products: 4681
 - [Spring Refresh](https://maisonoryhome.com/collections/spring-refresh): Refresh your home for spring with our seasonal decor collection. Light, airy furniture and accessories in fresh colors to brighten your living space this season.
-  Updated: 2026-11-07T19:24:08Z
-  Total Products: 12653
+  Updated: 2026-11-14T20:17:38Z
+  Total Products: 12488
 - [Under $50](https://maisonoryhome.com/collections/under-50): Shop stylish home decor and furniture under $50. Budget-friendly pieces that don't compromise on quality. Transform your space affordably with MaisonoryHome.
-  Updated: 2026-11-07T19:26:04Z
-  Total Products: 8524
+  Updated: 2026-11-14T19:27:44Z
+  Total Products: 8363
 - [Modern Minimalist](https://maisonoryhome.com/collections/modern-minimalist): Discover modern minimalist furniture and decor with clean lines and neutral tones. Create a serene, uncluttered home with our curated minimalist collection.
-  Updated: 2026-11-07T09:50:04Z
-  Total Products: 759
+  Updated: 2026-11-14T14:33:38Z
+  Total Products: 752
 - [Bohemian & Eclectic](https://maisonoryhome.com/collections/bohemian-eclectic): Shop bohemian and eclectic home decor featuring rattan furniture, vibrant textiles, and artistic pieces. Create a unique, personalized living space with character.
-  Updated: 2026-11-07T10:18:05Z
-  Total Products: 2218
+  Updated: 2026-11-14T15:46:42Z
+  Total Products: 2181
 - [Industrial Chic](https://maisonoryhome.com/collections/industrial-chic): Shop industrial chic furniture with metal accents and reclaimed wood. Create an urban loft aesthetic with our modern industrial home decor collection.
-  Updated: 2026-11-07T08:07:09Z
-  Total Products: 819
+  Updated: 2026-11-14T09:24:42Z
+  Total Products: 810
 - [Accent Furniture](https://maisonoryhome.com/collections/accent-furniture): Discover unique accent furniture including side tables, benches, and ottomans. Add character and functionality to your home with our statement furniture pieces.
-  Updated: 2026-11-07T09:50:04Z
-  Total Products: 1144
+  Updated: 2026-11-14T14:33:38Z
+  Total Products: 1125
 - [Textiles & Soft Furnishings](https://maisonoryhome.com/collections/textiles-soft-furnishings): Shop home textiles including area rugs, throw pillows, and curtains. Add warmth and comfort to your space with our soft furnishings collection.
-  Updated: 2026-11-07T10:18:05Z
-  Total Products: 1567
+  Updated: 2026-11-14T15:46:42Z
+  Total Products: 1536
 - [Holiday & Christmas](https://maisonoryhome.com/collections/holiday-christmas): Shop Christmas and holiday home decor to create a festive atmosphere. Seasonal decorations, ornaments, and cozy pieces for your holiday celebrations.
-  Updated: 2026-11-07T14:28:18Z
-  Total Products: 1106
+  Updated: 2026-11-14T19:49:44Z
+  Total Products: 1077
 - [Summer Outdoor Living](https://maisonoryhome.com/collections/summer-outdoor-living): Shop summer outdoor furniture and patio decor. Create the perfect outdoor living space with weather-resistant pieces for entertaining and relaxation.
-  Updated: 2026-11-07T14:01:05Z
-  Total Products: 5999
+  Updated: 2026-11-14T19:49:44Z
+  Total Products: 5914
 - [Premium Collection](https://maisonoryhome.com/collections/premium-collection): Explore our premium luxury furniture collection featuring high-end pieces with superior craftsmanship. Elevate your home with timeless, sophisticated design.
-  Updated: 2026-11-07T19:31:07Z
-  Total Products: 10733
+  Updated: 2026-11-14T20:17:38Z
+  Total Products: 10521
 - [Sustainable & Natural Materials](https://maisonoryhome.com/collections/sustainable-natural-materials): Shop sustainable home furniture made from natural, eco-friendly materials. Responsibly sourced pieces that combine environmental consciousness with beautiful design.
-  Updated: 2026-11-07T19:26:04Z
-  Total Products: 7516
+  Updated: 2026-11-14T19:27:44Z
+  Total Products: 7399
 - [Smart Home Accessories](https://maisonoryhome.com/collections/smart-home-accessories): Discover smart home furniture with built-in charging stations and tech features. Modern, functional pieces designed for connected living and convenience.
-  Updated: 2026-11-07T14:28:18Z
-  Total Products: 2116
+  Updated: 2026-11-14T17:13:37Z
+  Total Products: 2084
 - [Wellness & Self-Care](https://maisonoryhome.com/collections/wellness-self-care): Create a wellness sanctuary at home with furniture and decor for meditation, yoga, and relaxation. Peaceful pieces designed to nurture your well-being.
-  Updated: 2026-11-07T19:24:08Z
-  Total Products: 12890
+  Updated: 2026-11-14T20:17:38Z
+  Total Products: 12722
 - [MaisonoryHome Best Sellers](https://maisonoryhome.com/collections/best-sellers-maisonoryhome): Shop MaisonoryHome's best- home decor and furniture. Customer favorites in rugs, sofas, shelving, lighting, and more — all in stock and ready to ship.
   Updated: 2026-10-29T15:07:33Z
   Total Products: 12
