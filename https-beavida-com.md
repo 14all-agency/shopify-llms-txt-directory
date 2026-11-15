@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-09-02T12:59:54Z
 - Contact Email: hello@beavida.com
-- Updated At: 2026-11-07T00:38:56.677Z
+- Updated At: 2026-11-15T00:36:00.098Z
 
 Welcome to Beavida
 
@@ -19,7 +19,7 @@ We encourage responsible use of this information, ensuring that any outputs gene
 ## Products
 
 - [Period Pain Tea 🩸| F the Pain | Beavida](https://beavida.com/products/f-the-pain): Periods can be unpleasant. It’s time to take a break with Beavida’s period pain tea F the Pain. Your monthly sidekick, when you need it the most.
-  Updated: 2026-09-19T20:37:23Z
+  Updated: 2026-11-09T12:52:18Z
   Vendor: Beavida
   Product Type: Tea
   Availability: Available
@@ -47,7 +47,7 @@ We encourage responsible use of this information, ensuring that any outputs gene
     Availability: Available
     Price: €150.00 EUR
 - [De-Stress | Beavida | Online Course 😌](https://beavida.com/products/de-stress): Holistic 4-week relaxation course for women: daily guidance and science-based techniques to de-stress, boost wellbeing, and thrive at every stage of life.
-  Updated: 2026-09-19T20:37:23Z
+  Updated: 2026-11-09T12:52:25Z
   Vendor: Beavida
   Product Type: online course
   Availability: Available
@@ -61,35 +61,35 @@ We encourage responsible use of this information, ensuring that any outputs gene
     Image: https://cdn.shopify.com/s/files/1/0974/9931/6556/files/entspannung-online-kurs.jpg?v=1780576635
     Price: €125.00 EUR
 - [Hot Flash Tea❄️ | Break No Sweat | Beavida](https://beavida.com/products/break-no-sweat): Feeling hot isn’t hot at all. Beavida’s hot flash tea Break No Sweat contains a super cool, soothing herbal blend for your evening ritual.
-  Updated: 2026-09-19T20:37:23Z
+  Updated: 2026-11-09T12:52:25Z
   Vendor: Beavida
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/9931/6556/files/break-no-sweat-front.jpg?v=1780576663
   Price: €21.95 EUR
 - [Libido Tea 🌹| Love is in the Air | Beavida](https://beavida.com/products/love-is-in-the-air): Lust, love and fun don’t come naturally to everyone. Beavida’s libido tea Love is in the Air contains a mischievous and flirtatious herbal blend.
-  Updated: 2026-09-19T20:37:24Z
+  Updated: 2026-11-09T12:52:15Z
   Vendor: Beavida
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/9931/6556/files/love-is-in-the-air-front.jpg?v=1780576667
   Price: €20.95 EUR
 - [Urinary Tea 💧| Bless the Bladder | Beavida](https://beavida.com/products/bless-the-bladder): Going to the loo all the time isn’t fun. Beavida’s Urinary tea Bless the Bladder contains nettle & dandelion when the UT gods are too bossy.
-  Updated: 2026-10-28T14:21:16Z
+  Updated: 2026-11-09T12:52:20Z
   Vendor: Beavida
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/9931/6556/files/bless-the-bladder-front.jpg?v=1780576672
   Price: €17.95 EUR
 - [Positive Mood Tea ☺️ Stay Calm and Drink On | Beavida](https://beavida.com/products/stay-calm-and-drink-on): Pre-menstruation can be a time of unrest. Our positive mood tea Stay Calm and Drink On allows you to relax. A true mini escape during "those days".
-  Updated: 2026-09-19T20:37:25Z
+  Updated: 2026-11-09T12:52:20Z
   Vendor: Beavida
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/9931/6556/files/stay-calm-and-drink-on-front.jpg?v=1780576677
   Price: €20.95 EUR
 - [Beauty Without Toxins | Beavida | Online Course 💄](https://beavida.com/products/beauty-without-toxins-the-ultimate-guide-to-healthy-cosmetics): Discover how to decode cosmetic labels, choose safe ingredients, and create a routine tailored to your skin type. Practical, expert-led skincare beauty simple.
-  Updated: 2026-09-19T20:37:23Z
+  Updated: 2026-11-09T12:52:25Z
   Vendor: Beavida
   Product Type: online course
   Availability: Available
@@ -103,7 +103,7 @@ We encourage responsible use of this information, ensuring that any outputs gene
     Image: https://cdn.shopify.com/s/files/1/0974/9931/6556/files/Naturlich_schon_1.jpg?v=1780576642
     Price: €97.00 EUR
 - [Beavida PMS Mug 🍵 Powered by Tea & Questionable Decisions](https://beavida.com/products/pms-mug): Not every decision has to be good. But a good cup of tea is always the solution. Enjoy your Beavida tea in style and let the world know what's on your mind.
-  Updated: 2026-09-19T20:37:24Z
+  Updated: 2026-11-09T12:52:16Z
   Vendor: Beavida
   Product Type: accessories
   Availability: Available
@@ -119,7 +119,7 @@ We encourage responsible use of this information, ensuring that any outputs gene
     Availability: Available
     Price: €10.70 EUR
 - [Beavida Mug 🍵 Menopause Made Me Do It](https://beavida.com/products/menopause-mug): If you can blame it on menopause... you might as well have a mug to match! Cheerful, cheeky and perfect for your daily cup of tea.
-  Updated: 2026-09-19T20:37:24Z
+  Updated: 2026-11-09T12:52:15Z
   Vendor: Beavida
   Product Type: accessories
   Availability: Available
@@ -136,7 +136,7 @@ We encourage responsible use of this information, ensuring that any outputs gene
     Availability: Available
     Price: €10.70 EUR
 - [Beavida Period Mug 🍵 Crampy but Cute](https://beavida.com/products/period-mug): When your period strikes, it's not cute at all. That doesn't mean you and your mug can't be! Microwave and dishwasher safe it's equally strong as you are.
-  Updated: 2026-09-19T20:37:24Z
+  Updated: 2026-11-09T12:52:18Z
   Vendor: Beavida
   Product Type: accessories
   Availability: Available
@@ -152,7 +152,7 @@ We encourage responsible use of this information, ensuring that any outputs gene
     Availability: Available
     Price: €10.70 EUR
 - [Beavida Pregnancy Mug 🍵 I'm Not Dramatic.](https://beavida.com/products/pregnancy-mug): This mug shows everyone who's boss: Your hormones. Obviously. Suitable for the microwave and dishwasher, sturdy in cold and hot water.
-  Updated: 2026-09-19T20:37:24Z
+  Updated: 2026-11-09T12:52:26Z
   Vendor: Beavida
   Product Type: accessories
   Availability: Available
@@ -165,7 +165,7 @@ We encourage responsible use of this information, ensuring that any outputs gene
     Availability: Available
     Price: €9.53 EUR
 - [Beavida Mug for Women 🍵 My body. My rules. My tea.](https://beavida.com/products/mug-for-women): Emancipation starts with a cup of tea. My body. My rules. My tea. A mug for women who know that the most revolutionary act is simply claiming what’s yours.
-  Updated: 2026-09-19T20:37:24Z
+  Updated: 2026-11-09T12:52:25Z
   Vendor: Beavida
   Product Type: accessories
   Availability: Available
