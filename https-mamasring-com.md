@@ -43,7 +43,7 @@ The website includes an interactive jewelry builder that helps customers preview
 - Contact Email: emeloul@aol.com
 - Contact Phone: (800)709-9445
 - Address: Central Diamond Center, 818 South Central Expressway, Suite 1 Richardson, Texas 75080, USA
-- Updated At: 2026-11-07T00:32:02.342Z
+- Updated At: 2026-11-15T00:32:04.844Z
 
 # Mama’s Ring
 
@@ -199,7 +199,7 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-09-01T04:04:58Z
   Price: $100.00 USD
 - [Infinity Mothers Ring with 1–6 Birthstones in Silver, 10K or 14K Gold](https://mamasring.com/products/nana-jewels-infinity-mothers-ring-with-1-to-6-birthstones-in-sterling-silver-10k-or-14k-white-yellow-or-rose-gold-copy): Celebrate family love with an infinity mothers ring in silver or gold, set with 1 to 6 simulated birthstones.
-  Updated: 2026-10-18T20:15:46Z
+  Updated: 2026-11-14T09:21:55Z
   Price: $79.95 USD
 - [Central Diamond Center Princess Cut  Lucita Mothers Rings w/ 1 to 7 Simulated Birthstones in Sterling Silver, 10K or 14K Gold](https://mamasring.com/products/nana-jewels-princess-cut-lucita-style-1-to-7-birthstones-mothers-birthstone-ring-in-sterling-silver-solid-10k-or-14k-gold): Custom Lucita Mother's Ring with 1–7 simulated birthstones. Sterling Silver or 10K/14K Gold. A perfect, meaningful gift for moms and grandmas.
   Updated: 2026-10-18T20:15:47Z
@@ -613,7 +613,7 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-10-18T20:16:21Z
   Price: $118.95 USD — $133.95 USD
 - [S-Bar Couples Ring with 2 Simulated Birthstones in Silver or Gold](https://mamasring.com/products/s-bar-couples-2-stone-ring-w-simulated-birthstones-sterling-silver-10k-or-14k-gold): Elegant S-Bar design couples ring with 2 simulated birthstones in sterling silver, 10K, or 14K gold.
-  Updated: 2026-10-08T10:11:36Z
+  Updated: 2026-11-14T08:52:03Z
   Price: $69.00 USD
 - [Nana Jewels Pure Brilliance Zirconia Asscher Cut Tennis Bracelet, 7" Or 8" In Gold Plated Sterling Silver, 13.00Ctw-53.00Ctw](https://mamasring.com/products/nana-jewels-pure-brilliance-zirconia-asscher-cut-tennis-bracelet-7-or-8-in-gold-plated-sterling-silver-13-00ctw-53-00ctw): Shop NANA Asscher Cut Tennis Bracelet 7" or 8" in solid sterling silver with sparkling Pure Brilliance Zirconia, platinum plated, perfect gift jewelry.
   Updated: 2026-10-18T20:16:20Z
