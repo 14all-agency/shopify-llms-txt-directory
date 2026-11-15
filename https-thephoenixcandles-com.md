@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-06-04T13:58:10Z
 - Contact Email: hello@thephoenixcandles.com
-- Updated At: 2026-11-08T00:35:25.306Z
+- Updated At: 2026-11-15T00:37:57.832Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_the_Perseverance_crystal-infused_soy_candle_by_The_Phoenix_Candles_open_matte_cream_vessel_with_wooden_wick_centered.png?v=1782414281
   Price: $36.00 USD
 - [Hope | Amazonite Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/hope-amazonite-crystal-infused-candle): Hope is an Aromachology soy candle with Amazonite. Blanc citrus, neroli, and driftwood with a crackling wooden wick. Hand-poured in NJ.
-  Updated: 2026-11-02T21:13:59Z
+  Updated: 2026-11-14T03:16:15Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
@@ -59,23 +59,23 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_the_Xenacious_crystal-infused_soy_candle.png?v=1782491351
   Price: $60.00 USD
-- [Wooden Wick Trimmer](https://thephoenixcandles.com/products/gold-wooden-wick-trimmer-6-8-length): Care for your Phoenix Candles with this amazing addition to your candle care kit. Trim your wooden wicks to just the right length before each burn with this luxurious wick trimmer. 6.8" length
-  Updated: 2026-11-04T03:02:20Z
+- [Wick Trimmer for Wooden Wick Candles | The Phoenix Candles](https://thephoenixcandles.com/products/wooden-wick-trimmer): A 6.8-inch wick trimmer made for wooden wick candles, in gold, silver, or matte black. Trims cleanly and catches the trimmed wick.
+  Updated: 2026-11-13T09:23:33Z
   Vendor: My Store
   Product Type: Candle Trimmer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Wick_Trimmer_for_Wooden_Wick_Candles_The_Phoenix_Candles.png?v=1793650186
-  - [Gold](https://thephoenixcandles.com/products/gold-wooden-wick-trimmer-6-8-length?variant=46767535718716)
+  - [Gold](https://thephoenixcandles.com/products/wooden-wick-trimmer?variant=46767535718716)
     Availability: Available
     Price: $20.00 USD
-  - [Silver](https://thephoenixcandles.com/products/gold-wooden-wick-trimmer-6-8-length?variant=46767535751484)
+  - [Silver](https://thephoenixcandles.com/products/wooden-wick-trimmer?variant=46767535751484)
     Availability: Available
     Price: $20.00 USD
-  - [Black](https://thephoenixcandles.com/products/gold-wooden-wick-trimmer-6-8-length?variant=52856273600828)
+  - [Black](https://thephoenixcandles.com/products/wooden-wick-trimmer?variant=52856273600828)
     Availability: Available
     Price: $20.00 USD
 - [Namaste | Shiva Lingam Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/namaste): Namaste is a limited-edition Aromachology soy candle with Shiva Lingam. Cinnamon bark, clove, and sandalwood, in 12 oz or a 2.5 oz mini. Hand-poured in NJ.
-  Updated: 2026-11-02T21:15:39Z
+  Updated: 2026-11-08T00:47:05Z
   Vendor: The Phoenix Candles
   Product Type: Candle
   Availability: Available
@@ -118,7 +118,7 @@
     Availability: Available
     Price: $50.00 USD
 - [The Phoenix Candles Gift Card](https://thephoenixcandles.com/products/the-phoenix-candles-gift-card): Give a gift card from The Phoenix Candles. Delivered by email in minutes, redeemable for crystal-infused Aromachology soy candles hand-poured in NJ.
-  Updated: 2026-11-04T02:37:09Z
+  Updated: 2026-11-12T21:21:59Z
   Vendor: The Phoenix Candles
   Product Type: 
   Availability: Available
@@ -178,7 +178,7 @@
     Availability: Available
     Price: $120.00 USD
 - [Gift Set: For the Host](https://thephoenixcandles.com/products/gift-set-for-the-host): A host gift set: Namaste and Nurture, two warm, spiced Aromachology candles with a wick trimmer. Crystal-infused, hand-poured in NJ. Ships free.
-  Updated: 2026-11-04T16:54:51Z
+  Updated: 2026-11-08T00:47:16Z
   Vendor: The Phoenix Candles
   Product Type: gift set
   Availability: Available
@@ -217,7 +217,7 @@
   Updated: 2026-10-17T02:15:55Z
   Total Products: 7
 - [limited editions](https://thephoenixcandles.com/collections/limited-editions): Small-batch Aromachology soy candles crafted seasonally in limited quantities. Built on scent research. Handcrafted in New Jersey.
-  Updated: 2026-11-02T20:55:38Z
+  Updated: 2026-11-08T12:15:46Z
   Total Products: 2
 - [accessories](https://thephoenixcandles.com/collections/accessories)
   Updated: 2026-10-30T13:48:56Z
@@ -226,16 +226,16 @@
   Updated: 2026-11-06T12:16:07Z
   Total Products: 3
 - [shop all](https://thephoenixcandles.com/collections/shop-all): Handcrafted aromachology soy candles infused with crystals, wooden wicks, and toxin-free fragrance. Built on scent science, made by hand in New Jersey. Shop now.
-  Updated: 2026-11-06T12:16:07Z
+  Updated: 2026-11-08T12:15:46Z
   Total Products: 18
 - [summer edit](https://thephoenixcandles.com/collections/summer-edit): Three soy candles for the woman summer drains instead of restores. Be held, choose your light, believe in renewal. Science-backed Aromachology, soul-led ritual.
   Updated: 2026-11-06T12:16:07Z
   Total Products: 4
 - [fall edit](https://thephoenixcandles.com/collections/fall-edit): Fall asks more of you. It always does. The school year. The work push. The holidays stacking up before you've had a chance to catch your breath. From the outside, you handle it. You always do. This edit is for what's happening underneath that. Three candles, one quiet arc: keep going, trust yourself, come home. Perseverance moves alongside you on the days that demand everything. Intuition keeps you company while you trust what you already know. Namaste is for the quiet at the end of the day. Not a reward you have to earn. A place you already belong. Aromachology built on scent notes research has associated with strength, clarity, and grounding. Craftswomanship in every pour.
-  Updated: 2026-11-06T12:16:07Z
+  Updated: 2026-11-08T12:15:46Z
   Total Products: 3
 - [New! Shopify performance sharing is now turned on](https://thephoenixcandles.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-11-06T12:16:07Z
+  Updated: 2026-11-08T12:15:46Z
   Total Products: 25
 - [For the one who carries everything](https://thephoenixcandles.com/collections/for-the-one-who-carries-everything): Candle gifts for the one who carries everything. Crystal-infused Aromachology soy candles, hand-poured in NJ.
   Updated: 2026-11-02T20:33:07Z
@@ -247,10 +247,10 @@
   Updated: 2026-11-06T12:16:07Z
   Total Products: 4
 - [For the Host](https://thephoenixcandles.com/collections/for-the-host): Host gifts that feel personal. Warm, spiced Aromachology soy candles with a crystal sealed inside, hand-poured in NJ.
-  Updated: 2026-11-02T20:55:38Z
+  Updated: 2026-11-08T12:15:46Z
   Total Products: 3
 - [gifts](https://thephoenixcandles.com/collections/gifts): Thoughtful Aromachology candle gifts, hand-poured in NJ. Crystal-infused soy candles and gift sets for the people who carry everything.
-  Updated: 2026-11-06T12:16:07Z
+  Updated: 2026-11-08T12:15:46Z
   Total Products: 22
 - [Gift Sets](https://thephoenixcandles.com/collections/gift-sets): Curated pairs of Aromachology soy candles, each with a wick trimmer. Crystal-infused, hand-poured in NJ, and shipping free.
   Updated: 2026-11-02T20:33:07Z
@@ -372,13 +372,17 @@
     Author: Shaina Brooks
     Tags: Diwali, Fall Edit, founder story, Namaste
   - [Handmade Soy Candles: What to Look For in a Candle Gift](https://thephoenixcandles.com/blogs/rise-up/what-to-look-for-in-a-handmade-candle): <p><span>Candles are everywhere this time of year. So how do you choose one that's actually worth giving? Here's what to look for in a handmade soy candle, from the wax to the wick to what the scent is built on.</span></p>
-    Updated: 2026-10-26T05:00:04Z
+    Updated: 2026-11-10T17:55:43Z
     Author: Shaina Brooks
     Tags: Craftswomanship, Fall Edit, Gift Guide, soy candles
   - [Meaningful Gifts for the One Who Carries Everything](https://thephoenixcandles.com/blogs/rise-up/meaningful-gifts-for-the-one-who-carries-everything): <p spellcheck="false" autocapitalize="off" data-lfile-container="0d965f8d-4309-4afc-9ba1-a6e55bc25c0c" data-pm-slice="1 1 []"><code>Meaningful gifts are hard to find in a month this loud. Here's how to choose fewer, better things, plus four handmade candle gift sets for the people on your list.</code></p>
-    Updated: 2026-11-03T05:01:01Z
+    Updated: 2026-11-10T17:54:22Z
     Author: Shaina Brooks
     Tags: candle gift sets, handmade gifts, meaningful gifts, thoughtful gift ideas
+  - [What Empowerment Smells Like: The Aromachology Behind It](https://thephoenixcandles.com/blogs/rise-up/what-empowerment-smells-like-aromachology): <p>Bergamot, mint leaf, and eucalyptus. What Aromachology research associates with each note in Empowerment, and why we chose them.</p>
+    Updated: 2026-11-10T05:00:06Z
+    Author: Shaina Brooks
+    Tags: aromachology, crystal candles, Empowerment, how scent affects mood, scent notes
 
 ## Store Pages
 
@@ -404,13 +408,13 @@
 - [Privacy Policy](https://thephoenixcandles.com/policies/privacy-policy)
   Updated: 2026-10-29T16:44:44Z
 - [Shipping Policy](https://thephoenixcandles.com/policies/shipping-policy)
-  Updated: 2026-03-20T16:49:51Z
+  Updated: 2026-11-14T03:37:04Z
 - [Refund Policy](https://thephoenixcandles.com/policies/refund-policy)
-  Updated: 2026-03-20T16:50:57Z
+  Updated: 2026-11-14T03:35:06Z
 - [Terms of Service](https://thephoenixcandles.com/policies/terms-of-service)
   Updated: 2026-03-20T18:07:58Z
 - [Contact Information](https://thephoenixcandles.com/policies/contact-information)
-  Updated: 2023-09-05T01:32:49Z
+  Updated: 2026-11-14T03:36:00Z
 
 ## Optional
 
