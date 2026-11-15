@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-16T15:55:12Z
 - Contact Email: admin@hypesinventory.com
-- Updated At: 2026-11-07T02:24:22.801Z
+- Updated At: 2026-11-15T00:47:16.167Z
 
 ## Products
 
@@ -247,7 +247,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-setting-powder-04-pressed-powder-phofay-matte-setting-powder-35159630348541.webp?v=1775784835
     Price: $13.99 USD
 - [Lip Liner Pencil – PHOFAY Waterproof Long-Lasting Lip Liner](https://hypesinventory.com/products/phofay-lip-liner-pencil-waterproof): Shop lip liner pencil by PHOFAY. Waterproof, long-lasting formula defines, shapes, and contours lips for smooth, precise, and fade-resistant wear.
-  Updated: 2026-11-06T11:08:01Z
+  Updated: 2026-11-14T08:17:45Z
   Vendor: Hypes Inventory
   Product Type: Lip Liner
   Availability: Available
@@ -265,7 +265,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-lip-liner-silver-lip-liner-pencil-waterproof-long-lasting-lip-liner-by-phofay-35159658103037.webp?v=1775784912
     Price: $17.68 USD
   - [Set](https://hypesinventory.com/products/phofay-lip-liner-pencil-waterproof?variant=46260564689149)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-lip-liner-silver-lip-liner-pencil-waterproof-long-lasting-lip-liner-by-phofay-35159659577597.webp?v=1775784912
     Price: $23.99 USD
   - [8Color Set](https://hypesinventory.com/products/phofay-lip-liner-pencil-waterproof?variant=46260564721917)
@@ -331,7 +331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-liquid-blush-pink-liquid-blush-phofay-mousse-lightweight-blush-35159685595389.webp?v=1775784972
     Price: $19.98 USD
 - [Cream and Powder Blush Duo | PHOFAY Buildable Glow](https://hypesinventory.com/products/phofay-cream-and-powder-blush-duo): Shop cream and powder blush duo by PHOFAY. Buildable cream and powder blush delivers a smooth, radiant glow with long-lasting, lightweight coverage in one compact.
-  Updated: 2026-11-06T09:21:26Z
+  Updated: 2026-11-14T09:14:06Z
   Vendor: Hypes Inventory
   Product Type: Blush Duo
   Availability: Available
@@ -1735,8 +1735,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-activewear-top-camel-brown-s-women-s-long-sleeve-activewear-35473630331133.webp?v=1775785263
     Price: $53.95 USD
-- [Silicone Toe Separators for Bunions – Foot Pain Relief Spacers](https://hypesinventory.com/products/silicone-toe-separators-for-bunions): Relieve foot pain with silicone toe separators for bunions. Designed to align toes, reduce discomfort, and improve daily comfort. Soft, reusable, and effective.
-  Updated: 2026-10-18T22:13:31Z
+- [Silicone Toe Separator for Bunions, 1 Piece | Hypes Inventory](https://hypesinventory.com/products/silicone-toe-separators-for-bunions): Shop a soft gel toe separator with fabric loops. Available in Small or Large. Includes one reusable spacer, with clear fit and care information.
+  Updated: 2026-11-10T00:39:54Z
   Vendor: Hypes Inventory
   Product Type: Foot Care
   Availability: Available
@@ -2853,10 +2853,10 @@
   Updated: 2026-10-21T00:09:52Z
   Total Products: 15
 - [Flairé Fashion Collection](https://hypesinventory.com/collections/flaire-fashion-collection): Explore Flairé women’s denim, leggings, workout sets and everyday clothing. Browse individual product details and size charts at Hypes Inventory.
-  Updated: 2026-10-31T19:49:55Z
+  Updated: 2026-11-13T07:37:15Z
   Total Products: 39
 - [Health & Beauty](https://hypesinventory.com/collections/health-beauty): Explore health and beauty products at Hypes Inventory. Compare product details, available options and everyday care accessories before choosing your essentials.
-  Updated: 2026-10-22T18:57:57Z
+  Updated: 2026-11-09T12:39:29Z
   Total Products: 18
 - [Comfortable Shapewear](https://hypesinventory.com/collections/comfortable-shapewear-collection): Shop comfortable shapewear designed for smoothing, sculpting, tummy control, and all-day confidence with seamless flattering fits.
   Updated: 2026-07-11T11:20:14Z
@@ -2865,22 +2865,22 @@
   Updated: 2026-11-05T12:20:29Z
   Total Products: 21
 - [LÁVINE™ Loungewear & Knitwear](https://hypesinventory.com/collections/cozy-knit-lounge-set-collection): Shop LÁVINE lounge sets, sweaters and knitwear at Hypes Inventory. Explore matching two-piece outfits and check product size charts before ordering.
-  Updated: 2026-11-05T12:20:29Z
+  Updated: 2026-11-13T04:41:19Z
   Total Products: 11
 - [Bag Charms for Purses](https://hypesinventory.com/collections/bag-charms-for-purses): Shop bag charms for purses, keychains, and accessories. Cute, trendy, and gift-ready styles to elevate your bags and everyday look.
-  Updated: 2026-11-07T01:25:31Z
+  Updated: 2026-11-14T13:39:13Z
   Total Products: 29
 - [New Fashion Arrivals ✨](https://hypesinventory.com/collections/new-fashion-arrivals): Shop new fashion arrivals featuring trending women’s activewear, accessories, handbags, jewelry, and stylish everyday fashion.
   Updated: 2026-10-31T19:49:13Z
   Total Products: 10
 - [Women’s Activewear Collection](https://hypesinventory.com/collections/womens-activewear): Shop the Women’s Activewear Collection for leggings, workout sets, gym clothing, and stylish activewear designed for comfort.
-  Updated: 2026-10-31T19:49:23Z
+  Updated: 2026-11-13T07:37:15Z
   Total Products: 35
 - [The Bag Edit](https://hypesinventory.com/collections/bag-edit): Shop The Bag Edit for stylish everyday bags, totes, handbags, and crossbody styles made to elevate your outfits with ease.
-  Updated: 2026-10-31T19:49:36Z
+  Updated: 2026-11-09T14:13:31Z
   Total Products: 32
 - [Mothers Day Gifts](https://hypesinventory.com/collections/mothers-day-gifts): Shop mothers day gifts designed for style and everyday use. Discover elegant bags and thoughtful gift ideas perfect for moms.
-  Updated: 2026-10-26T15:49:56Z
+  Updated: 2026-11-09T14:13:31Z
   Total Products: 9
 
 ## Blogs
