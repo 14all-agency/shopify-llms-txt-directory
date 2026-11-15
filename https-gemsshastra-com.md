@@ -16,108 +16,108 @@ We place strong emphasis on authenticity, quality, transparency, and appropriate
 - Contact Email: gems.shastra@gmail.com
 - Contact Phone: +91 9315335479
 - Address: East patel nagar, Delhi, 110008
-- Updated At: 2026-11-07T01:42:31.815Z
+- Updated At: 2026-11-15T01:14:45.564Z
 
 ## Products
 
 - [Natural Emerald (Panna), 5.50 Ratti | GemsShastra](https://gemsshastra.com/products/natural-emerald-5-50-ratti): Explore this 5.50 Ratti Emerald (Panna), listed with origin Zambia. Request its individual lab report, exact-item video and a quote.
-  Updated: 2026-11-04T15:59:47Z
+  Updated: 2026-11-08T06:56:43Z
   Vendor: GemsShastra
   Product Type: Gemstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0677/9034/0230/files/bb0084db-19f9-4968-87c3-cd3ddcc7f25e.jpg?v=1787598542
 - [Natural Amethyst, 10 Ratti | GemsShastra](https://gemsshastra.com/products/natural-amethyst-10-ratti): Explore this 10 Ratti Amethyst. Request the individual laboratory report, confirm the recorded details and see a video before deciding.
-  Updated: 2026-11-04T15:47:32Z
+  Updated: 2026-11-08T06:55:55Z
   Vendor: GemsShastra
   Product Type: Gemstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0677/9034/0230/files/af0450a0-8db0-4a7e-9d27-1d0dad30404f.jpg?v=1787599580
 - [Natural Garnet Gemstone, 7 Ratti | GemsShastra](https://gemsshastra.com/products/natural-garnet-7-ratti): Enquire about this natural garnet, listed at approximately 7 Ratti. Request its individual lab report, an exact-item video and a quote.
-  Updated: 2026-11-04T15:48:26Z
+  Updated: 2026-11-08T06:57:24Z
   Vendor: GemsShastra
   Product Type: Gemstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0677/9034/0230/files/4f91593b-915e-4efd-bca1-5e7bd604f2d4.jpg?v=1787599124
 - [13 Mukhi Rudraksha from Nepal | GemsShastra](https://gemsshastra.com/products/13-mukhi-rudraksha-nepal): Enquire about the 13 Mukhi Rudraksha listed with origin Nepal. Request its individual laboratory report, exact-item video and current details.
-  Updated: 2026-11-04T15:49:16Z
+  Updated: 2026-11-08T06:55:52Z
   Vendor: GemsShastra
   Product Type: Rudraksha
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0677/9034/0230/files/d3253f0c-de59-4f2d-af12-1112bd40c394.jpg?v=1787599199
 - [Natural Yellow Sapphire (Pukhraj), 6.25 Ratti | GemsShastra](https://gemsshastra.com/products/natural-yellow-sapphire-6-25-ratti): Explore this 6.25 Ratti Yellow Sapphire (Pukhraj), listed with origin Sri Lanka. Request its lab report, exact-stone video and a quote.
-  Updated: 2026-11-06T04:51:17Z
+  Updated: 2026-11-08T06:58:13Z
   Vendor: GemsShastra
   Product Type: Gemstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0677/9034/0230/files/Screenshot_2026-11-04_211949.png?v=1793807454
 - [Natural Ruby (Manik), 5 Ratti | GemsShastra](https://gemsshastra.com/products/natural-ruby-5-ratti): Explore this 5 Ratti Ruby (Manik), listed with origin Ceylon. Request its individual lab report, exact-stone video and a quote.
-  Updated: 2026-11-04T15:58:36Z
+  Updated: 2026-11-08T06:58:05Z
   Vendor: GemsShastra
   Product Type: Gemstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0677/9034/0230/files/Screenshot_2026-09-16_020533.png?v=1789504618
 - [Natural Yellow Sapphire (Pukhraj), 10 Ratti | GemsShastra](https://gemsshastra.com/products/natural-yellow-sapphire-10-ratti): Explore this 10 Ratti Yellow Sapphire (Pukhraj), listed with origin Sri Lanka. Request its lab report, exact-stone video and a quote.
-  Updated: 2026-11-06T06:20:22Z
+  Updated: 2026-11-08T06:58:10Z
   Vendor: GemsShastra
   Product Type: Gemstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0677/9034/0230/files/Screenshot_2026-11-04_212322.png?v=1793807620
 - [Natural Emerald Panna 9.34 Ratti | Zambia | GemsShastra](https://gemsshastra.com/products/natural-emerald-panna-9-34-ratti): Explore a cushion-shaped Natural Emerald (Panna), approx. 9.34 Ratti, with Zambia stated as its origin. Enquire on WhatsApp for the current price and exact-item video.
-  Updated: 2026-11-05T22:28:28Z
+  Updated: 2026-11-08T06:57:23Z
   Vendor: GemsShastra
   Product Type: Gemstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0677/9034/0230/files/natural-emerald-panna-9-34-ratti-cushion-zambia.jpg?v=1793789154
 - [Natural Ruby Manik 5 Ratti | Burmese Origin | GemsShastra](https://gemsshastra.com/products/natural-ruby-manik-5-ratti): Explore a cushion-shaped Natural Ruby (Manik), approx. 5 Ratti, with Burmese origin stated. Enquire on WhatsApp for the current price and exact-item video.
-  Updated: 2026-11-06T02:14:26Z
+  Updated: 2026-11-08T06:58:08Z
   Vendor: GemsShastra
   Product Type: Gemstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0677/9034/0230/files/natural-ruby-manik-5-ratti-cushion-burmese.jpg?v=1793790360
 - [Natural Blue Sapphire Neelam 8.9 Ratti | Ceylon | GemsShastra](https://gemsshastra.com/products/natural-blue-sapphire-neelam-8-9-ratti): Explore a cushion-shaped Natural Blue Sapphire (Neelam), approx. 8.9 Ratti, with Sri Lanka (Ceylon) stated as its origin. Enquire on WhatsApp for the current price and exact-item video.
-  Updated: 2026-11-05T21:53:51Z
+  Updated: 2026-11-08T06:56:41Z
   Vendor: GemsShastra
   Product Type: Gemstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0677/9034/0230/files/natural-blue-sapphire-neelam-8-9-ratti-cushion-ceylon.jpg?v=1793790685
 - [Natural Blue Sapphire Neelam 7 Ratti | Ceylon | GemsShastra](https://gemsshastra.com/products/natural-blue-sapphire-neelam-7-ratti): Explore an oval Natural Blue Sapphire (Neelam), approx. 7 Ratti, with Sri Lanka (Ceylon) stated as its origin. Enquire on WhatsApp for the current price and exact-item video.
-  Updated: 2026-11-05T22:05:08Z
+  Updated: 2026-11-08T06:55:58Z
   Vendor: GemsShastra
   Product Type: Gemstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0677/9034/0230/files/natural-blue-sapphire-neelam-7-ratti-oval-ceylon.jpg?v=1793790901
 - [Natural Emerald Panna 6.5 Ratti | Zambia | GemsShastra](https://gemsshastra.com/products/natural-emerald-panna-6-5-ratti): Explore an octagon-shaped Natural Emerald (Panna), approx. 6.5 Ratti, with Zambia stated as its origin. Enquire on WhatsApp for the current price and exact-item video.
-  Updated: 2026-11-05T23:55:15Z
+  Updated: 2026-11-08T06:57:21Z
   Vendor: GemsShastra
   Product Type: Gemstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0677/9034/0230/files/natural-emerald-panna-6-5-ratti-octagon-zambia.jpg?v=1793791897
 - [Natural Emerald Panna 6 Ratti | Zambia | GemsShastra](https://gemsshastra.com/products/natural-emerald-panna-6-ratti): Explore an octagon-shaped Natural Emerald (Panna), approx. 6 Ratti, with Zambia stated as its origin. Enquire on WhatsApp for the current price and exact-item video.
-  Updated: 2026-11-05T23:49:58Z
+  Updated: 2026-11-08T06:56:45Z
   Vendor: GemsShastra
   Product Type: Gemstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0677/9034/0230/files/natural-emerald-panna-6-ratti-octagon-zambia.jpg?v=1793792245
 - [Natural Yellow Sapphire Pukhraj 9 Ratti | Ceylon | GemsShastra](https://gemsshastra.com/products/natural-yellow-sapphire-pukhraj-9-ratti): Explore an oval Natural Yellow Sapphire (Pukhraj), approx. 9 Ratti, with Sri Lanka (Ceylon) stated as its origin. Enquire on WhatsApp for the current price and exact-item video.
-  Updated: 2026-11-05T22:06:33Z
+  Updated: 2026-11-08T06:58:40Z
   Vendor: GemsShastra
   Product Type: Gemstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0677/9034/0230/files/natural-yellow-sapphire-pukhraj-9-ratti-oval-ceylon.jpg?v=1793792393
 - [Natural Blue Sapphire Neelam 7 Ratti Cushion | Ceylon | GemsShastra](https://gemsshastra.com/products/natural-blue-sapphire-neelam-7-ratti-cushion): Explore a cushion-shaped Natural Blue Sapphire (Neelam), approx. 7 Ratti, with Sri Lanka (Ceylon) stated as its origin. Enquire on WhatsApp for the current price and exact-item video.
-  Updated: 2026-11-05T23:02:25Z
+  Updated: 2026-11-08T06:56:01Z
   Vendor: GemsShastra
   Product Type: Gemstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0677/9034/0230/files/natural-blue-sapphire-neelam-7-ratti-cushion-ceylon.jpg?v=1793792536
 - [Natural Yellow Sapphire Pukhraj 9 Ratti Octagon | Ceylon | GemsShastra](https://gemsshastra.com/products/natural-yellow-sapphire-pukhraj-9-ratti-octagon): Explore an octagon-shaped Natural Yellow Sapphire (Pukhraj), approx. 9 Ratti, with Sri Lanka (Ceylon) stated as its origin. Enquire on WhatsApp for the current price and exact-item video.
-  Updated: 2026-11-05T22:33:48Z
+  Updated: 2026-11-08T06:58:42Z
   Vendor: GemsShastra
   Product Type: Gemstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0677/9034/0230/files/natural-yellow-sapphire-pukhraj-9-ratti-octagon-ceylon.png?v=1793792775
 - [Natural Blue Sapphire Neelam 7.5 Ratti | Ceylon | GemsShastra](https://gemsshastra.com/products/natural-blue-sapphire-neelam-7-5-ratti): Explore an oval Natural Blue Sapphire (Neelam), approx. 7.5 Ratti, with Sri Lanka (Ceylon) stated as its origin. Enquire on WhatsApp for the current price and exact-item video.
-  Updated: 2026-11-06T00:43:46Z
+  Updated: 2026-11-08T06:56:40Z
   Vendor: GemsShastra
   Product Type: Gemstone
   Availability: Available
@@ -129,28 +129,28 @@ We place strong emphasis on authenticity, quality, transparency, and appropriate
   Updated: 2026-10-27T15:13:07Z
   Total Products: 1
 - [Natural Gemstones](https://gemsshastra.com/collections/natural-gemstones): Explore natural Yellow Sapphire, Ruby, Emerald, Garnet and Amethyst from GemsShastra. Every product includes an individual laboratory certificate; request an exact-item video and WhatsApp quote.
-  Updated: 2026-11-04T11:48:24Z
+  Updated: 2026-11-07T19:01:16Z
   Total Products: 16
 - [Yellow Sapphire (Pukhraj)](https://gemsshastra.com/collections/yellow-sapphire-gemstones): Buy 100% natural, lab- Yellow Sapphire (Pukhraj) gemstones. Untreated Ceylon & Vedic stones with authentic lab certification at GemsShastra.
-  Updated: 2026-11-04T11:47:02Z
+  Updated: 2026-11-07T19:02:54Z
   Total Products: 4
 - [Navratna Gemstones](https://gemsshastra.com/collections/navratna-gemstones): Explore currently listed Navratna gemstones including Pukhraj, Manik and Panna. Every product includes an individual laboratory certificate; request an exact-item video and quote.
-  Updated: 2026-11-04T11:48:24Z
+  Updated: 2026-11-07T19:01:34Z
   Total Products: 14
 - [Other Natural Gemstones](https://gemsshastra.com/collections/other-natural-gemstones): Explore listed Garnet and Amethyst gemstones from GemsShastra. Each product has an individual laboratory certificate; request its exact-item video and current WhatsApp quote.
-  Updated: 2026-11-02T17:07:24Z
+  Updated: 2026-11-07T19:02:43Z
   Total Products: 2
 - [Ruby (Manik)](https://gemsshastra.com/collections/ruby-gemstones): Explore 100% authentic, unheated Natural Ruby (Manikya) gemstones.  Vedic Sun stones with genuine lab reports, transparent origin & pricing.
-  Updated: 2026-11-04T11:06:58Z
+  Updated: 2026-11-07T19:02:47Z
   Total Products: 2
 - [Emerald (Panna)](https://gemsshastra.com/collections/emerald-gemstones): Shop authentic, lab- Natural Emerald (Panna) gemstones online. Premium Zambian & Colombian Vedic Mercury stones with  lab reports.
-  Updated: 2026-11-04T11:38:21Z
+  Updated: 2026-11-07T19:01:14Z
   Total Products: 4
 - [Rudraksha](https://gemsshastra.com/collections/rudraksha-beads): Explore the listed 13 Mukhi Rudraksha with Nepal recorded as its origin. Includes an individual laboratory certificate; request an exact-bead video and WhatsApp quote.
-  Updated: 2026-11-02T15:20:21Z
+  Updated: 2026-11-07T19:02:50Z
   Total Products: 1
 - [Blue Sapphire (Neelam)](https://gemsshastra.com/collections/blue-sapphire-neelam): Buy 100% original,  Blue Sapphire (Neelam) gemstones. Natural unheated Ceylon Saturn stones with third-party lab testing and Vedic guidance.
-  Updated: 2026-11-04T11:48:51Z
+  Updated: 2026-11-07T19:00:32Z
   Total Products: 4
 - [Cat's Eye (Lehsunia)](https://gemsshastra.com/collections/cats-eye-lehsunia): Explore authentic, lab- Chrysoberyl Cat's Eye (Lehsunia) gemstones. Powerful Vedic Ketu stones with sharp chatoyancy and  certification.
   Updated: 2026-11-04T10:04:47Z
@@ -168,7 +168,7 @@ We place strong emphasis on authenticity, quality, transparency, and appropriate
   Updated: 2026-11-01T10:37:38Z
   Total Products: 0
 - [Amethyst (Katela)](https://gemsshastra.com/collections/amethyst-katela): Explore the listed natural Amethyst (Katela). Request its individual laboratory report, exact-stone video and current WhatsApp quote.
-  Updated: 2026-11-02T14:45:05Z
+  Updated: 2026-11-07T19:00:28Z
   Total Products: 1
 - [Blue Zircon](https://gemsshastra.com/collections/blue-zircon): Explore Blue Zircon gemstones from GemsShastra. Product availability, recorded details, individual laboratory documentation and current quotations are confirmed for each item. Enquire on WhatsApp for assistance and an actual-item video.
   Updated: 2026-11-01T10:37:38Z
@@ -234,7 +234,7 @@ We place strong emphasis on authenticity, quality, transparency, and appropriate
   Updated: 2026-11-01T10:37:43Z
   Total Products: 0
 - [Red Garnet](https://gemsshastra.com/collections/red-garnet): Explore the listed Garnet. Request its individual laboratory report, actual-stone video, recorded weight and current WhatsApp quote.
-  Updated: 2026-11-02T14:45:05Z
+  Updated: 2026-11-07T19:02:45Z
   Total Products: 1
 - [Smoky Quartz](https://gemsshastra.com/collections/smoky-quartz): Explore Smoky Quartz gemstones from GemsShastra. Product availability, recorded details, individual laboratory documentation and current quotations are confirmed for each item. Enquire on WhatsApp for assistance and an actual-item video.
   Updated: 2026-11-01T10:37:43Z
@@ -327,7 +327,7 @@ We place strong emphasis on authenticity, quality, transparency, and appropriate
   Updated: 2026-11-01T10:37:49Z
   Total Products: 0
 - [13 Mukhi Rudraksha](https://gemsshastra.com/collections/13-mukhi-rudraksha): Explore the listed 13 Mukhi Rudraksha, with Nepal recorded as its origin. Includes an individual laboratory certificate; request a video of the exact bead and a quote.
-  Updated: 2026-11-02T15:20:21Z
+  Updated: 2026-11-07T19:00:26Z
   Total Products: 1
 - [14 Mukhi Rudraksha](https://gemsshastra.com/collections/14-mukhi-rudraksha): Explore 14 Mukhi Rudraksha from GemsShastra. Ask us about the specific bead, visible Mukhi lines, origin details, individual documentation and a video of the exact item. Enquiries are handled personally on WhatsApp.
   Updated: 2026-11-01T10:37:54Z
@@ -342,13 +342,13 @@ We place strong emphasis on authenticity, quality, transparency, and appropriate
   Updated: 2026-11-01T10:37:54Z
   Total Products: 0
 - [Vedic Gemstones](https://gemsshastra.com/collections/vedic-gemstones): Explore the listed Vedic gemstone selection. Ask about available stones, individual laboratory reports and traditional Vedic astrology guidance.
-  Updated: 2026-11-02T14:45:05Z
+  Updated: 2026-11-07T19:02:52Z
   Total Products: 1
 - [Exclusive Gemstones](https://gemsshastra.com/collections/exclusive-gemstones): Explore the Exclusive Gemstones collection at GemsShastra. We confirm current availability, specific item details and individual laboratory documentation where applicable. Contact us on WhatsApp for personal assistance and an actual-item video.
   Updated: 2026-11-01T10:37:54Z
   Total Products: 0
 - [Other Gemstones](https://gemsshastra.com/collections/other-gemstones): Browse listed gemstones, including Garnet and other natural stones. Request the individual laboratory report, exact-item video and current quote.
-  Updated: 2026-11-02T14:45:05Z
+  Updated: 2026-11-07T19:02:40Z
   Total Products: 1
 - [Semi-Precious Stones](https://gemsshastra.com/collections/semi-precious-stones): Explore the Semi-Precious Stones collection at GemsShastra. We confirm current availability, specific item details and individual laboratory documentation where applicable. Contact us on WhatsApp for personal assistance and an actual-item video.
   Updated: 2026-11-01T10:37:55Z
@@ -360,7 +360,7 @@ We place strong emphasis on authenticity, quality, transparency, and appropriate
   Updated: 2026-11-01T10:37:55Z
   Total Products: 0
 - [Astro Gems (Rashi Ratna)](https://gemsshastra.com/collections/astro-gems-rashi-ratna): Explore listed gemstones associated with traditional Rashi Ratna guidance. Ask about individual reports, exact-item videos and personalised Vedic consultation.
-  Updated: 2026-11-04T11:48:24Z
+  Updated: 2026-11-07T19:00:30Z
   Total Products: 14
 - [15 Mukhi Rudraksha](https://gemsshastra.com/collections/15-mukhi-rudraksha): Explore the 15 Mukhi Rudraksha collection at GemsShastra. Individual listings, exact-bead photographs and laboratory documentation will be added as products are curated. Contact our team for guidance and current availability.
   Updated: 2026-11-02T17:07:23Z
@@ -427,6 +427,14 @@ We place strong emphasis on authenticity, quality, transparency, and appropriate
     Updated: 2026-11-05T19:15:10Z
     Author: GemsShastra Editorial Team
     Tags: Mukhi Rudraksha, Rudraksha, Rudraksha Guide, Traditional Significance, Vedic Astrology
+  - [Best Sleeping Direction as per Vastu | GemsShastra](https://gemsshastra.com/blogs/news/which-direction-should-you-sleep-in-vastu-vedic-tradition-guide): Best Sleeping Direction as per Vastu | GemsShastra
+    Updated: 2026-11-11T12:39:48Z
+    Author: GemsShastra Editorial Team
+    Tags: Bedroom Vastu, East Direction, Sleeping Direction, South Direction, Vastu Shastra, Vedic Traditions
+  - [The Complete Ring Size Guide: How to Measure Your Ring Size at Home](https://gemsshastra.com/blogs/news/complete-ring-size-guide-measurement-bis-iso-8653): <p>Learn two practical ways to estimate ring size, use the interactive five-system converter, and compare Indian, US / Canada, UK / Australia, circumference and diameter in the complete 37-row reference chart. Includes practical fit guidance for custom gemstone rings.</p>
+    Updated: 2026-11-12T21:09:21Z
+    Author: GemsShastra Editorial Team
+    Tags: Gemstone Ring Guide, Indian Ring Sizes, Jewellery Education, Ring Measurement, Ring Size Converter, Ring Size Guide
 
 ## Store Pages
 
@@ -446,6 +454,10 @@ We place strong emphasis on authenticity, quality, transparency, and appropriate
   Updated: 2026-11-02T14:45:06Z
 - [Custom Gemstone Jewellery in India | Rings & Pendants | GemsShastra](https://gemsshastra.com/pages/custom-design-enquiry): Looking for custom gemstone jewellery in India? GemsShastra helps customers enquire about gemstone rings, pendants, bracelets and selected Rudraksh...
   Updated: 2026-11-02T15:38:47Z
+- [Ring Size Guide | GemsShastra](https://gemsshastra.com/pages/ring-size-guide)
+  Updated: 2026-11-11T22:41:27Z
+- [Customise a Ring | GemsShastra](https://gemsshastra.com/pages/customise-a-ring)
+  Updated: 2026-11-11T22:41:27Z
 
 ## Policies
 
