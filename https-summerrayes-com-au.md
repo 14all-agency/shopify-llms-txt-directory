@@ -14,7 +14,7 @@ Based in Queensland, Australia, and inspired by the Whitsundays, Summer Rayes co
 - Timezone: Australia/Brisbane
 - Created At: 2025-04-03T08:16:52Z
 - Contact Email: nikki@summerrayes.com.au
-- Updated At: 2026-11-07T00:38:42.563Z
+- Updated At: 2026-11-15T00:36:32.986Z
 
 Summer Rayes is an Australian-made natural skincare brand designed specifically for teens and tweens. Our mission is to simplify skincare for young, sensitive, and breakout-prone skin using gentle, effective, and clean formulations.
 
@@ -36,15 +36,8 @@ We focus on easy daily routines powered by natural ingredients and Australian bo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/Sea_Mist_OA1.jpg?v=1769083002
   Price: $34.00 AUD
-- [Beach Buff 2in1 Scrub & Mask | Teen Skincare | Summer Rayes](https://summerrayes.com.au/products/2-in-1-scrub-mask): 2-in-1 teen scrub & mask | Gently exfoliates, clears pores & brightens with Aussie botanicals | Natural, safe & glow-boosting | Natural Skincare for Teens
-  Updated: 2026-09-22T21:47:20Z
-  Vendor: Summer Rayes
-  Product Type: skincare mask
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/Beach_Buff_scrub_and_mask.jpg?v=1758534611
-  Price: $34.00 AUD
 - [Glow Drops Vitamin B Serum | Teen Skincare | Summer Rayes](https://summerrayes.com.au/products/vitamin-b-serum): Lightweight Vitamin B serum for teens & tweens | Balances oil, calms breakouts & soothes sensitive skin | Australian-made & fragrance free
-  Updated: 2026-10-24T22:41:07Z
+  Updated: 2026-11-14T20:47:45Z
   Vendor: Summer Rayes
   Product Type: serum
   Availability: Available
@@ -79,28 +72,28 @@ We focus on easy daily routines powered by natural ingredients and Australian bo
   Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/Sun_Veil_OA1.jpg?v=1769115786
   Price: $34.00 AUD
 - [Clear Start Trio | Teen Skincare Routine for Breakouts | Summer Rayes](https://summerrayes.com.au/products/clear-start-trio): A simple 3-product teen skincare routine with gentle cleanser, lightweight moisturiser and targeted spot gel. Australian made for tween and teen skin.
-  Updated: 2026-11-04T09:13:36Z
+  Updated: 2026-11-14T23:31:02Z
   Vendor: Summer Rayes
   Product Type: skincare bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/new_clear_start_product_image_1.jpg?v=1789278565
   Price: $95.00 AUD
 - [Sunset Skin Quad | Teen Anti-Blemish Routine | Summer Rayes](https://summerrayes.com.au/products/sunset-skin-quad): A complete 4-step teen skincare routine designed to cleanse, calm and target blemishes. Gentle, Australian-made skincare for sensitive teen and tween skin
-  Updated: 2026-11-04T09:13:36Z
+  Updated: 2026-11-14T00:01:04Z
   Vendor: Summer Rayes
   Product Type: skincare bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/Sunset_Skin_Quad_OA1.jpg?v=1769083774
   Price: $125.00 AUD
 - [Dream Glow Duo | Teen Bundles | Summer Rayes Skincare](https://summerrayes.com.au/products/dream-glow-duo): Custom skincare duo for teens & tweens | Pick your perfect pair to fight blemishes or boost hydration | Natural, Aussie-made glow
-  Updated: 2026-11-04T09:13:36Z
+  Updated: 2026-11-09T08:02:36Z
   Vendor: Summer Rayes
   Product Type: skincare bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/Dream_Glow_Duo_-_front_image.png?v=1756306040
   Price: $63.00 AUD
 - [Fresh Face Trio | Teen Hydration Set | Summer Rayes Skincare](https://summerrayes.com.au/products/fresh-face-trio): Hydrating skincare routine for teens & tweens | Cleanser, mist & moisturiser | Natural, Australian made skincare set for soft, dewy, glowing skin
-  Updated: 2026-11-05T04:31:05Z
+  Updated: 2026-11-14T20:47:45Z
   Vendor: Summer Rayes
   Product Type: skincare bundle
   Availability: Available
@@ -135,74 +128,67 @@ We focus on easy daily routines powered by natural ingredients and Australian bo
   Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/Clear_Tide_ORC_-_OA1.jpg?v=1769082157
   Price: $34.00 AUD
 - [Clean Slate Quad | 4-Step Skincare Routine for Teen Boys](https://summerrayes.com.au/products/clean-slate-quad-teen-anti-blemish-routine): A complete 4-step skincare routine for teenage boys. Cleanse, tone, hydrate and target blemishes with natural, Australian-made skincare.
-  Updated: 2026-11-04T09:13:36Z
+  Updated: 2026-11-14T18:12:43Z
   Vendor: Summer Rayes
   Product Type: skincare bundle
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/BOYS_Clean_Slate_Quad_-_Deck_Image_resized.jpg?v=1784359168
+  Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/NEW_BOYS_Clean_Slate_Quad_1.jpg?v=1794636508
   Price: $125.00 AUD
 - [Clarity Trio – 3-Step Skincare Set for Teen Boys](https://summerrayes.com.au/products/clarity-trio-teen-anti-blemish-routine): A simple 3-step skincare set for teenage boys. Cleanse, tone and hydrate with gentle, Australian-made natural ingredients.
-  Updated: 2026-11-04T09:13:36Z
+  Updated: 2026-11-13T11:11:51Z
   Vendor: Summer Rayes
   Product Type: skincare bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/BOYS_Clarity_Trio_Boat_Deck_RAW.jpg?v=1784360186
   Price: $95.00 AUD
 - [Bare Basics – Minimal Skincare Kit for Teen Boys](https://summerrayes.com.au/products/bare-basics-teen-anti-blemish-routine): A no-fuss 3-step skincare kit for teenage boys. Cleanse, moisturise and target blemishes. Gentle, natural, Australian made.
-  Updated: 2026-11-04T09:13:36Z
+  Updated: 2026-11-10T21:13:26Z
   Vendor: Summer Rayes
   Product Type: skincare bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/BOYS_Bare_Basics_Boat_Deck_2_RAW.jpg?v=1784360185
   Price: $95.00 AUD
 - [Daily Duo – 2 Step Teen Skincare Routine | Summer Rayes](https://summerrayes.com.au/products/daily-duo-2-step-teen-skincare-routine): A simple 2-step skincare routine for teenage skin. Wave Wash cleanser + Calm Surf moisturiser. Gentle, Australian made, no extra steps required.
-  Updated: 2026-11-05T04:49:10Z
+  Updated: 2026-11-12T01:55:36Z
   Vendor: Summer Rayes
   Product Type: skincare bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/DD_Product_Card_2.jpg?v=1790742246
   Price: $63.00 AUD
 - [First Steps Duo – 2-Step Routine for Teen Boys | Summer Rayes](https://summerrayes.com.au/products/first-steps-duo-2-step-skincare-routine-for-teen-boys): A simple 2-step starter skincare routine for teenage boys. Wave Wash cleanser + Calm Surf moisturiser, Outer Reef Collection. Gentle, Australian made.
-  Updated: 2026-11-04T09:13:36Z
+  Updated: 2026-11-10T06:08:35Z
   Vendor: Summer Rayes
   Product Type: skincare bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/First_Step_Duo_Ocean_2.jpg?v=1788002834
   Price: $63.00 AUD
 - [Heart Compact Mirror — Complimentary Gift](https://summerrayes.com.au/products/heart-compact-mirror-complimentary-gift)
-  Updated: 2026-11-05T04:49:15Z
+  Updated: 2026-11-14T23:31:05Z
   Vendor: Summer Rayes
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/Screenshot_2026-10-31_104208.png?v=1793489285
   Price: $8.00 AUD
-- [Pink Skincare Bag — Complimentary Gift](https://summerrayes.com.au/products/pink-skincare-bag-complimentary-gift)
-  Updated: 2026-11-06T10:02:32Z
-  Vendor: Summer Rayes
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/FreeSkincareBag.jpg?v=1793489285
-  Price: $10.00 AUD
 
 ## Collections
 
 - [Teen Skincare Routines & Bundles](https://summerrayes.com.au/collections/bundles): Simple skincare routines for teens. Save on clean, gentle sets designed to hydrate, calm, and fight blemishes naturally.
-  Updated: 2026-11-05T12:06:42Z
+  Updated: 2026-11-14T12:05:29Z
   Total Products: 9
 - [Our New Arrivals](https://summerrayes.com.au/collections/new-arrivals): Discover the latest in teen skincare. Clean, safe, and natural new arrivals designed to hydrate, balance, and glow.
-  Updated: 2026-11-05T12:06:42Z
+  Updated: 2026-11-13T12:06:10Z
   Total Products: 11
 - [Teen Skincare Best Sellers](https://summerrayes.com.au/collections/best-sellers): Shop our best- teen skincare - gentle, natural, and effective. Clear, calm, confident skin powered by Australian fruits and botanicals.
-  Updated: 2026-11-05T12:06:42Z
+  Updated: 2026-11-14T12:05:29Z
   Total Products: 8
 - [Summer Rayes Teen Skincare Collection](https://summerrayes.com.au/collections/skincare): Clean, safe, and effective skincare made for teens and tweens. From daily basics to targeted treatments, every product is designed to nurture young skin.
-  Updated: 2026-11-05T12:06:42Z
+  Updated: 2026-11-14T12:05:29Z
   Total Products: 21
 - [Natural Anti-Blemish Skincare Solutions](https://summerrayes.com.au/collections/anti-blemish-natural-skincare-for-teens): A skincare collection made for teens and tweens navigating oily, blemish-prone skin. Each product helps clear, calm, and restore confidence.
-  Updated: 2026-11-04T12:07:56Z
+  Updated: 2026-11-14T12:05:29Z
   Total Products: 8
 - [Outer Reef Collection – Skincare for Teen Boys](https://summerrayes.com.au/collections/outer-reef-collection): Gentle, natural skincare made for teenage boys. Simple 3-step routines for sport, sweat and first breakouts. Australian made, cruelty-free.
-  Updated: 2026-11-02T12:05:28Z
+  Updated: 2026-11-13T12:06:10Z
   Total Products: 8
 - [Natural Cleansers for Teens](https://summerrayes.com.au/collections/cleansers): Gentle natural cleansers for teens & tweens | Remove oil, dirt & impurities without stripping | Australian-made for clear, balanced skin
   Updated: 2026-09-16T11:08:07Z
@@ -214,10 +200,10 @@ We focus on easy daily routines powered by natural ingredients and Australian bo
   Updated: 2026-10-10T11:12:13Z
   Total Products: 3
 - [Serums for Teens & Tweens](https://summerrayes.com.au/collections/serums): Targeted serums for teens & tweens | Balance oil, calm breakouts & support healthy skin | Lightweight, natural & Australian-made
-  Updated: 2026-10-31T11:06:49Z
+  Updated: 2026-11-10T12:07:07Z
   Total Products: 3
 - [Masks & Scrubs for Teen Skin](https://summerrayes.com.au/collections/masks-scrubs): Gentle masks & scrubs for teens & tweens | Exfoliate, clear pores & boost glow | Natural, Australian-made weekly skin reset
-  Updated: 2026-07-06T22:39:45Z
+  Updated: 2026-11-13T11:49:14Z
   Total Products: 1
 
 ## Blogs
@@ -249,6 +235,9 @@ We focus on easy daily routines powered by natural ingredients and Australian bo
     Author: Nicole Atkins
   - [Signs Your Son Needs a Skincare Routine | Summer Rayes](https://summerrayes.com.au/blogs/news/signs-your-son-needs-a-skincare-routine): Signs Your Son Needs a Skincare Routine | Summer Rayes
     Updated: 2026-08-04T08:11:32Z
+    Author: Nicole Atkins
+  - [Christmas Gifts for Teens and Tweens 2026 | Summer Rayes](https://summerrayes.com.au/blogs/news/christmas-gifts-for-teens-tweens): Christmas Gifts for Teens and Tweens 2026 | Summer Rayes
+    Updated: 2026-11-10T20:30:11Z
     Author: Nicole Atkins
 
 ## Store Pages
