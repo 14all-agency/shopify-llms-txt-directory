@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2021-06-04T07:09:00Z
 - Contact Email: info@katana-japonais.com
-- Updated At: 2026-11-07T00:34:08.083Z
+- Updated At: 2026-11-15T00:26:11.679Z
 
 ## Products
 
@@ -173,7 +173,7 @@
     Availability: Available
     Price: 930,00 € EUR
 - [Katana Fuyu 冬 | Katana Japonais](https://katana-japonais.com/products/katana-fuyu): Le katana Fuyu, à l’esthétique soignée et à la lame robuste, est l’arme parfaite pour les passionnés d’arts martiaux et de culture traditionnelle japonaise.
-  Updated: 2026-11-06T07:58:07Z
+  Updated: 2026-11-14T09:09:27Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -191,7 +191,7 @@
     Availability: Available
     Price: 229,00 € EUR
 - [Katana Murasaki 紫 | Katana Japonais](https://katana-japonais.com/products/katana-murasaki): Le katana Murasaki allie un design unique à une lame raffinée. Conçu pour les passionnés de sabres japonais et d’artisanat authentique, il incarne l’élégance.
-  Updated: 2026-10-31T10:54:30Z
+  Updated: 2026-11-10T20:36:56Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -227,7 +227,7 @@
     Availability: Available
     Price: 560,00 € EUR
 - [Katana Jin 寺院 | Katana Japonais](https://katana-japonais.com/products/katana-jin): Le katana Jin allie design épuré et robustesse exceptionnelle. Une pièce d’exception pour les passionnés d’arts martiaux et de culture traditionnelle japonaise.
-  Updated: 2026-10-02T10:28:01Z
+  Updated: 2026-11-07T18:09:47Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -479,7 +479,7 @@
     Availability: Available
     Price: 320,00 € EUR
 - [Katana Midori no yoru 緑の夜 | Katana Japonais](https://katana-japonais.com/products/katana-midori-no-yoru): Le katana Midori no Yoru, avec son design inspiré par la nuit verte, incarne élégance et précision. Une pièce unique pour les passionnés de culture japonaise.
-  Updated: 2026-11-01T19:40:38Z
+  Updated: 2026-11-14T21:08:55Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -803,7 +803,7 @@
     Availability: Available
     Price: 590,00 € EUR
 - [Support Katana | Katana Japonais](https://katana-japonais.com/products/support-katana): Gamme de supports de Katanas pour un, deux ou trois Sabres. Il n'est pas possible de commander un support seul sans sabre.
-  Updated: 2026-11-06T17:54:22Z
+  Updated: 2026-11-14T21:08:51Z
   Vendor: Katana Japonais
   Product Type: Accessoires
   Availability: Available
@@ -857,7 +857,7 @@
     Availability: Available
     Price: 1 330,00 € EUR
 - [Sur Mesure | Katana Japonais](https://katana-japonais.com/products/katana-sur-mesure): Concevez un katana sur mesure qui correspond à vos goûts et besoins. Choisissez les matériaux, les finitions et les détails pour une lame exclusive.
-  Updated: 2026-11-04T20:17:30Z
+  Updated: 2026-11-14T13:39:35Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -1163,7 +1163,7 @@
     Availability: Available
     Price: 410,00 € EUR
 - [Katana Nami 波 | Katana Japonais](https://katana-japonais.com/products/katana-nami): Le katana Nami, inspiré par les vagues, combine un design élégant et une lame robuste. Un choix idéal pour les amateurs de sabres raffinés.
-  Updated: 2026-10-31T22:19:45Z
+  Updated: 2026-11-12T18:18:11Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -1373,7 +1373,7 @@
     Availability: Available
     Price: 290,00 € EUR
 - [Wakizashi Kaiyō 海洋 | Katana Japonais](https://katana-japonais.com/products/wakizashi-kaiyo): Le wakizashi Kaiyo, inspiré par les océans, combine une lame robuste et un design fluide. Idéal pour les passionnés de sabres japonais et collectionneurs.
-  Updated: 2026-10-02T10:28:10Z
+  Updated: 2026-11-08T14:38:46Z
   Vendor: Katana Japonais
   Product Type: Wakizashi
   Availability: Available
@@ -1640,7 +1640,7 @@
     Availability: Available
     Price: 280,00 € EUR
 - [Katana Koi 濃い | Katana Japonais](https://katana-japonais.com/products/katana-koi): Le katana Koi, avec ses motifs délicats inspirés de la carpe, symbolise persévérance et élégance. Idéal pour les amateurs de sabres uniques.
-  Updated: 2026-10-28T09:04:03Z
+  Updated: 2026-11-13T21:55:21Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -1658,7 +1658,7 @@
     Availability: Available
     Price: 290,00 € EUR
 - [Katana Tengu 天狗 | Katana Japonais](https://katana-japonais.com/products/katana-tengu): Le katana Tengu, inspiré des esprits légendaires japonais, allie un design audacieux à une lame d’une précision exceptionnelle, symbole de puissance et d’élégance.
-  Updated: 2026-10-02T10:28:11Z
+  Updated: 2026-11-10T11:01:55Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -1748,7 +1748,7 @@
     Availability: Available
     Price: 290,00 € EUR
 - [Katana Tanjiro | Katana Japonais](https://katana-japonais.com/products/katana-tanjiro-1): Ce Katana est une réplique du sabre de Tanjiro Kamado dans Demon Slayer, il a été créé par nos forgerons à partir de l'animé et représente fidèlement son légendaire Katana (l'épée du Soleil). Il a été fait à la main dans des matériaux de qualité pour les plus passionnés qui souhaitent s'offrir une vraie pièce de collection. SPÉCIFICATIONS Lame Acier au carbone 1060 Garde (Tsuba 鍔) Fer Sculpté Fourreau (Saya 鞘) Bois léger laqué Manche (tsuka 柄) Cuir de galuchat synthétique Kit de Menuki en Fer sculpté 2 Mekugi en Bambou DIMENSIONS Longueur avec fourreau 103 cm Longueur de la lame 72 cm Longueur du manche 25 cm Largeur de la lame 3.2 cm Épaisseur de la lame 0.7 cm Poids 1.4 Kg avec Fourreau Ce Katana irait parfaitement dans votre décoration avec une Figurine Demon Slayer.
-  Updated: 2026-10-08T09:34:38Z
+  Updated: 2026-11-07T15:20:37Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -1784,7 +1784,7 @@
     Availability: Available
     Price: 229,00 € EUR
 - [Katana Zenitsu | Katana Japonais](https://katana-japonais.com/products/katana-zenitsu): Le katana Zenitsu, inspiré de l’univers japonais, offre une lame précise et un design fidèle. Un choix parfait pour les collectionneurs et fans d’anime.
-  Updated: 2026-11-06T04:10:35Z
+  Updated: 2026-11-11T14:06:09Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -1856,7 +1856,7 @@
     Availability: Available
     Price: 229,00 € EUR
 - [Katana Tanjiro V2 | Katana Japonais](https://katana-japonais.com/products/katana-tanjiro-v2): Le katana Tanjiro V2 combine un design inspiré de l’univers japonais et une fabrication de qualité, parfait pour les fans et les collectionneurs exigeants.
-  Updated: 2026-11-05T13:49:06Z
+  Updated: 2026-11-10T21:41:06Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -1874,7 +1874,7 @@
     Availability: Available
     Price: 229,00 € EUR
 - [Katana Enma | Katana Japonais](https://katana-japonais.com/products/katana-enma): Procurez-vous le katana Enma, sabre emblématique de Zoro dans One Piece. Une réplique de qualité pour les amateurs d'anime et d'armes japonaises.
-  Updated: 2026-11-04T15:56:49Z
+  Updated: 2026-11-12T09:16:43Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -1892,7 +1892,7 @@
     Availability: Available
     Price: 229,00 € EUR
 - [Katana Yubashiri Zoro | Katana Japonais](https://katana-japonais.com/products/katana-yubashiri-zoro): Maniez le katana Yubashiri de Zoro, réplique authentique inspirée de One Piece. Parfait pour les fans et collectionneurs d’anime en quête d’excellence.
-  Updated: 2026-11-03T07:45:56Z
+  Updated: 2026-11-10T12:05:27Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -1910,7 +1910,7 @@
     Availability: Available
     Price: 229,00 € EUR
 - [Katana Trafalgar Law | Katana Japonais](https://katana-japonais.com/products/katana-trafalgar-law): Le katana Trafalgar Law, fidèle à l’univers de One Piece, allie design détaillé et lame de qualité. Idéal pour les fans et collectionneurs d’anime.
-  Updated: 2026-10-22T11:50:07Z
+  Updated: 2026-11-12T13:05:00Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -1928,7 +1928,7 @@
     Availability: Available
     Price: 229,00 € EUR
 - [Katana Zoro — Wado Ichimonji, Réplique Forgée (One Piece)](https://katana-japonais.com/products/katana-zoro): Explorez les katanas de Zoro, répliques fidèles de l’univers One Piece. Des lames de collection idéales pour les passionnés d’anime et de sabres légendaires.
-  Updated: 2026-11-06T17:54:26Z
+  Updated: 2026-11-12T01:58:42Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -1946,7 +1946,7 @@
     Availability: Available
     Price: 229,00 € EUR
 - [Katana Sasuke | Katana Japonais](https://katana-japonais.com/products/katana-sasuke): Le katana Sasuke, inspiré par l’univers ninja, se distingue par son design unique et sa lame performante. Parfait pour les fans et collectionneurs.
-  Updated: 2026-10-31T15:48:40Z
+  Updated: 2026-11-14T21:54:36Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -2282,7 +2282,7 @@
     Availability: Available
     Price: 229,00 € EUR
 - [Katana Tsuyuri Kanao | Katana Japonais](https://katana-japonais.com/products/katana-tsuyuri-kanao): Le katana Tsuyuri Kanao offre un équilibre parfait entre esthétique et précision, pensé pour les amateurs de sabres japonais et de culture traditionnelle.
-  Updated: 2026-10-02T20:47:25Z
+  Updated: 2026-11-12T22:45:40Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -2480,7 +2480,7 @@
     Availability: Available
     Price: 260,00 € EUR
 - [Katana Hai 灰 | Katana Japonais](https://katana-japonais.com/products/katana-hai): Le katana Hai, inspiré par les cendres, combine une lame précise et un design épuré. Parfait pour les amateurs de sabres japonais authentiques.
-  Updated: 2026-11-02T09:54:49Z
+  Updated: 2026-11-13T19:24:06Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -2551,7 +2551,7 @@
   Image: https://cdn.shopify.com/s/files/1/0574/4214/0356/products/psc_nbm8.jpg?v=1677232375
   Price: 75,00 € EUR
 - [Support Heiwa 平和 | Katana Japonais](https://katana-japonais.com/products/support-heiwa-平和): Le support Heiwa, conçu avec soin, combine design raffiné et robustesse. Idéal pour mettre en valeur vos katanas et préserver leur stabilité.
-  Updated: 2026-10-28T16:00:05Z
+  Updated: 2026-11-11T16:31:04Z
   Vendor: Katana Japonais
   Product Type: Accessoires
   Availability: Available
@@ -2626,7 +2626,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/4214/0356/products/1_b30d3f31-846e-4413-9560-1e2530d53ba3.jpg?v=1695476602
     Price: 300,00 € EUR
 - [Katana Ozayaka 鮮やか | Katana Japonais](https://katana-japonais.com/products/katana-ozayaka): Le katana Ozayaka, combinant design raffiné et lame tranchante, est une pièce exceptionnelle conçue pour les collectionneurs et pratiquants d’arts martiaux.
-  Updated: 2026-10-02T20:47:33Z
+  Updated: 2026-11-11T23:17:05Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -2723,72 +2723,72 @@
   Updated: 2026-09-13T11:07:18Z
   Total Products: 1
 - [Katana](https://katana-japonais.com/collections/katana-sabre-japonais): Découvrez notre collection de Katana Japonais forgés à la main. +150 Katanas uniques dans des aciers et forges différentes. Marque #1 sur les Katanas.
-  Updated: 2026-11-06T12:08:32Z
-  Total Products: 244
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 250
 - [Katanas Entrée de Gamme](https://katana-japonais.com/collections/katanas-entree-de-gamme): Découvrez notre collection de Katanas d'Entrée de Gamme. Offrez-vous un Katana fait à la main à partir de 200 €.
-  Updated: 2026-11-06T12:08:32Z
-  Total Products: 103
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 106
 - [Katanas Milieu de Gamme](https://katana-japonais.com/collections/katanas-milieu-de-gamme): Découvrez notre sélection de Katanas Milieu de Gamme. Gamme parfaite pour un Katana de haute qualité avec de nombreux détails offrant la possibilité de pratiquer la coupe. Artisanat, solidité et tranchant.
 Acier T10, Damas, 1095 et vrai Hamon.
-  Updated: 2026-11-05T12:15:00Z
-  Total Products: 90
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 94
 - [Katanas Hauts de Gamme](https://katana-japonais.com/collections/katanas-hauts-de-gamme): Les meilleurs Aciers et techniques de forge réunies dans la création de votre Katana. Parfait pour trancher, décorer et la collection.
 Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par nos meilleurs maîtres de la Forge.
-  Updated: 2026-11-05T12:15:00Z
+  Updated: 2026-11-14T12:12:43Z
   Total Products: 145
 - [THAITSUKISWORD](https://katana-japonais.com/collections/thaitsukisword)
   Updated: 2026-07-10T13:08:59Z
   Total Products: 5
 - [KATANA JAPONAIS](https://katana-japonais.com/collections/katana-japonais)
-  Updated: 2026-11-06T12:08:32Z
+  Updated: 2026-11-14T12:12:43Z
   Total Products: 68
 - [Armure Samourai](https://katana-japonais.com/collections/armure-samourai): Explorez notre collection d’armures de samouraïs, mêlant esthétique et héritage martial. Idéales pour les passionnés d’histoire et de culture japonaise.
   Updated: 2026-10-02T08:47:03Z
   Total Products: 6
 - [Tous nos Produits](https://katana-japonais.com/collections/all)
-  Updated: 2026-11-06T12:08:32Z
-  Total Products: 515
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 528
 - [Tanto](https://katana-japonais.com/collections/tanto-japonais): Explorez notre sélection de tantos japonais, des lames courtes conçues avec précision et élégance. Des pièces parfaites pour collectionneurs et amateurs.
-  Updated: 2026-11-01T12:10:07Z
+  Updated: 2026-11-14T12:12:43Z
   Total Products: 10
 - [Wakizashi](https://katana-japonais.com/collections/wakizashi-japonais): À la recherche d'un wakizashi authentique? Découvrez notre sélection premium des meilleures lames courtes japonaises. Qualité et histoire en un clic.
-  Updated: 2026-11-04T12:07:08Z
+  Updated: 2026-11-14T12:12:43Z
   Total Products: 10
 - [Bokken](https://katana-japonais.com/collections/bokken)
   Updated: 2026-07-10T13:09:00Z
   Total Products: 0
 - [Nouvelles Pièces](https://katana-japonais.com/collections/nouvelles-pieces-katana): Nos derniers Katanas dans cette collection.
-  Updated: 2026-11-06T12:08:32Z
-  Total Products: 53
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 13
 - [Katana Japonais Antique — Lames Authentiques Certifiées](https://katana-japonais.com/collections/sabre-japonais-authentiques): Véritables katanas japonais antiques : lames certifiées NBTHK, tsuba signés, koshirae d'origine. Expédiés directement du Japon avec leurs papiers d'authenticité.
   Updated: 2026-10-02T08:48:22Z
   Total Products: 91
 - [Katana Manga](https://katana-japonais.com/collections/katana-manga): Retrouvez notre collection de katanas inspirés des mangas. Des répliques soignées pour les fans et collectionneurs d’univers animés japonais.
-  Updated: 2026-11-06T12:08:32Z
+  Updated: 2026-11-14T12:12:43Z
   Total Products: 28
 - [Katana Demon Slayer](https://katana-japonais.com/collections/katana-demon-slayer): Explorez la collection des katanas Demon Slayer, des répliques fidèles inspirées des lames emblématiques de l’anime. Parfaites pour les fans et collectionneurs.
-  Updated: 2026-11-06T12:08:32Z
+  Updated: 2026-11-14T12:12:43Z
   Total Products: 15
 - [Katana One Piece](https://katana-japonais.com/collections/katana-one-piece): Explorez notre collection de katanas One Piece, des répliques fidèles des sabres iconiques de l’anime. Idéal pour les fans et les collectionneurs passionnés.
-  Updated: 2026-11-05T12:15:00Z
+  Updated: 2026-11-14T12:12:43Z
   Total Products: 8
 - [Katana Naruto](https://katana-japonais.com/collections/katana-naruto): Plongez dans l'univers Naruto avec nos katanas exclusifs! De Seven Ninja Swordsmen à Sasuke, qualité garantie. Rejoignez le monde des ninjas
   Updated: 2026-11-01T12:10:07Z
   Total Products: 1
 - [Katana Bleach](https://katana-japonais.com/collections/katana-bleach): Fan de Bleach? Trouvez le katana de vos héros préférés! Offres exclusives sur les Zanpakuto authentiques. Incarnez la force Shinigami.
-  Updated: 2026-11-04T12:07:08Z
+  Updated: 2026-11-11T12:09:20Z
   Total Products: 3
 - [Ninjato](https://katana-japonais.com/collections/ninjato): Explorez notre collection de ninjatos japonais, des lames courtes et emblématiques, parfaites pour les amateurs de culture ninja et d’arts martiaux.
   Updated: 2026-11-05T12:15:00Z
   Total Products: 4
 - [Black Friday](https://katana-japonais.com/collections/black-friday-katana-japonais): Profitez de 10 % de réduction sur tous nos sabres en-plus des rabais déjà présents.
-  Updated: 2026-11-06T12:08:32Z
+  Updated: 2026-11-14T12:12:43Z
   Total Products: 99
 - [Gamme Découverte](https://katana-japonais.com/collections/gamme-decouverte-katana-japonais)
-  Updated: 2026-11-01T12:10:07Z
+  Updated: 2026-11-14T12:12:43Z
   Total Products: 5
 - [Supports de Katana](https://katana-japonais.com/collections/supports-de-katana): Choisissez parmi notre collection de supports pour katana, alliant esthétique et robustesse. Parfaits pour exposer et protéger vos sabres japonais.
-  Updated: 2026-11-06T12:08:32Z
+  Updated: 2026-11-14T12:12:43Z
   Total Products: 9
 - [Katana Japonais Authentique](https://katana-japonais.com/collections/katana-japonais-authentique): À la recherche d'un Katana Japonais Authentique ? Découvrez notre collection de sabres directement expédiés depuis le Japon, faits par des forgerons reconnus.
   Updated: 2026-10-02T08:48:22Z
@@ -2803,26 +2803,26 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
   Updated: 2026-07-10T13:09:03Z
   Total Products: 18
 - [all](https://katana-japonais.com/collections/all-1)
-  Updated: 2026-11-06T12:08:32Z
-  Total Products: 513
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 526
 - [Black Friday 2024](https://katana-japonais.com/collections/black-friday-2024)
-  Updated: 2026-11-06T12:08:32Z
-  Total Products: 404
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 417
 - [VENTES FLASH](https://katana-japonais.com/collections/ventes-flash)
-  Updated: 2026-11-06T12:08:32Z
+  Updated: 2026-11-12T12:09:09Z
   Total Products: 15
 - [missing](https://katana-japonais.com/collections/missing)
-  Updated: 2026-11-04T12:07:08Z
+  Updated: 2026-11-14T12:12:43Z
   Total Products: 52
 - [Sabres Odachi](https://katana-japonais.com/collections/sabres-odachi): Collection Odachi – Grandes Sabres Japonais Forgés à la Main (Ōdachi / Nodachi) Découvrez l’impressionnante épée Odachi (aussi appelée Ōdachi ou Nodachi) – la légendaire “grande épée” des samouraïs du Japon féodal. Avec des lames dépassant 90 cm de long, ces longs katana étaient utilisés en combat ouvert durant les périodes Nanboku-chō (1336–1392) et Sengoku. Leur portée écrasante permettait de trancher à travers les piques, la cavalerie et les armures ennemies avec une efficacité redoutable. Qu’est-ce qui rend un Odachi unique ? Taille et portée exceptionnelles – Certains exemplaires historiques comme le Norimitsu Ōdachi mesuraient jusqu’à 3,77 mètres et pesaient 14,5 kg, illustrant la démesure de ces armes de guerre. Conçu pour le champ de bataille – Manié à deux mains, ce sabre permettait des coupes larges et puissantes. Certains étaient également offerts aux sanctuaires shintō comme objets rituels. Maîtrise artisanale – Forger, durcir et polir une lame de cette longueur demande un savoir-faire exceptionnel. Tous nos modèles sont en acier à haute teneur en carbone, trempés à l’argile, et dotés d’une construction full tang. Excellence Artisanale par Katana-Japonais.com Chaque Odachi de notre collection est forgé à la main par des maîtres forgerons expérimentés, selon la géométrie traditionnelle shinogi-zukuri, puis traité thermiquement pour garantir un tranchant durable et un parfait équilibre. Vous pouvez choisir parmi : Acier 1095 / T10 ou acier damas 15 plis Véritable peau de raie (samegawa) et tressage tsuka-maki serré Tsuba en fer, laiton ou cuivre (motifs dragon, vagues, ou mon) Saya (fourreau) en bois de magnolia laqué avec embouts en corne de buffle Gravure personnalisée en option pour une pièce unique Ligne du Temps Historique Période Rôle du Odachi Nanboku-chō (1336–1392) Sabre d’infanterie contre cavalerie et troupes armées de lances Muromachi (1336–1573) Utilisation prolongée sur le champ de bataille ; débuts des offrandes religieuses Edo (1603–1868) Pièce de démonstration et d’apparat symbolisant la maîtrise du forgeron Époque moderne Collection, arts martiaux, décoration ou objets de culte Chaque sabre Odachi est expédié depuis katana-japonais.com avec soin, affûté, huilé et prêt à l’usage ou à l’exposition.
   Updated: 2026-10-23T11:09:09Z
   Total Products: 2
 - [Manganese Steel](https://katana-japonais.com/collections/manganese-steel)
-  Updated: 2026-11-06T12:08:32Z
+  Updated: 2026-11-14T12:12:43Z
   Total Products: 21
 - [T10 Steel](https://katana-japonais.com/collections/t10-steel)
-  Updated: 2026-11-03T12:08:15Z
-  Total Products: 63
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 65
 - [Kobuse](https://katana-japonais.com/collections/kobuse)
   Updated: 2026-07-10T13:16:32Z
   Total Products: 2
@@ -2833,59 +2833,59 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
   Updated: 2026-07-10T13:17:25Z
   Total Products: 1
 - [Damas](https://katana-japonais.com/collections/damas)
-  Updated: 2026-11-04T12:07:08Z
-  Total Products: 48
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 50
 - [1060 Steel](https://katana-japonais.com/collections/1060-steel)
-  Updated: 2026-11-06T12:08:32Z
-  Total Products: 21
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 23
 - [1095 Steel](https://katana-japonais.com/collections/1095-steel)
   Updated: 2026-10-30T11:10:27Z
   Total Products: 4
 - [Épées Médiévales](https://katana-japonais.com/collections/epee-medievale): Les épées médiévales représentent le cœur de l’histoire martiale européenne, ayant évolué au fil des siècles sur les champs de bataille, dans les tournois et les duels. De l’ère viking à la Renaissance, chaque type d’épée était conçu pour répondre aux besoins de son époque — qu’il s’agisse d’écraser les armures, de porter des estocs rapides ou d’imposer une présence sur le champ de bataille. Notre collection réunit des épées inspirées de modèles historiques, conçues pour les collectionneurs, les pratiquants de HEMA, les reconstituteurs et les passionnés de culture médiévale, alliant artisanat traditionnel et durabilité moderne. Pourquoi choisir une épée médiévale ? Contrairement à de nombreuses autres armes, les épées médiévales se distinguent par leur équilibre et leur polyvalence. Ce ne sont pas seulement des outils de guerre mais aussi des icônes culturelles symbolisant statut, honneur et maîtrise martiale. Leur conception impliquait une attention particulière à la répartition du poids, au creusement de la gouttière pour renforcer la lame et la rendre plus souple, ainsi qu’aux quillons et pommeaux conçus pour protéger la main tout en offrant un meilleur contrôle. Choisir une épée médiévale, c’est posséder un fragment d’histoire vivante — une pièce qui incarne à la fois l’art et la fonctionnalité. Qu’il s’agisse de l’élégance d’une épée de chevalier ou de la puissance brute d’un espadon, ces lames vous relient directement aux traditions de l’Europe médiévale. Les principaux types d’épées médiévales La diversité des épées médiévales reflète l’évolution des besoins en combat et en culture. Chaque type avait des caractéristiques propres adaptées à des contextes variés — du duel en un contre un aux batailles rangées, en passant par les affrontements en armures lourdes. Voici les catégories les plus emblématiques : Épée d’armes (Épée de chevalier) – Une lame double tranchant maniée à une main et portée au côté du chevalier. Utilisée du XIᵉ au XVᵉ siècle, c’était l’arme chevaleresque par excellence, idéale avec un bouclier ou une bocle. Épée Espadon – Connue pour sa poignée « une main et demie », elle devint populaire aux XIVᵉ–XVIᵉ siècles. Alliant portée, puissance et précision, elle était prisée autant sur les champs de bataille que lors des duels judiciaires. Aujourd’hui, elle reste centrale dans la pratique du HEMA. Épée bâtarde – Entre l’épée d’armes et l’espadon, l’épée bâtarde offrait une grande flexibilité : assez légère pour être maniée à une main, mais redoutable lorsqu’elle était utilisée à deux mains. Espadon / Zweihänder – Immenses épées à deux mains utilisées à la fin du Moyen Âge et à la Renaissance. Elles excellaient pour briser les formations de piques et intimider par leur taille impressionnante. Claymore – L’iconique épée écossaise à deux mains, reconnaissable à ses gardes inclinées vers l’avant ou en trèfle. Symbole d’orgueil clanique, elle était redoutable en combat ouvert. Épée Viking – Caractérisée par une lame large, une garde courte et un pommeau lobé, l’épée viking illustre l’artisanat du haut Moyen Âge. Conçue pour les coups puissants dans les formations de boucliers, elle est l’une des plus emblématiques des Âges Sombres. Fauchon – Une lame à un seul tranchant proche d’un grand couteau ou machette, prisée pour son efficacité tranchante. Elle fut largement utilisée par l’infanterie pour sa simplicité et sa redoutable puissance. Messer – Populaire en Allemagne, cette épée à un seul tranchant brouillait la frontière entre couteau et espadon. Pratique, abordable et efficace au corps-à-corps. Estoc – Une épée conçue pour l’estoc, avec une lame rigide souvent dépourvue de tranchant, faite pour percer les cottes de mailles et les armures de plates. Elle symbolise l’adaptation des armes face aux progrès défensifs. Épée d’estoc et taille – Hybride de la Renaissance, combinant des tranchants pour la taille et une pointe rigide pour l’estoc, souvent dotée de gardes plus complexes pour protéger la main. Épées médiévales phares de notre collection Notre sélection comprend à la fois des modèles historiques emblématiques et des réinterprétations modernes. Chaque lame est forgée avec soin, solidité et esthétique, adaptée à l’exposition, l’entraînement ou la reconstitution. Découvrez nos pièces phares : Épée Viking Valeur Écarlate – Une arme audacieuse du haut Moyen Âge, conçue pour des coups tranchants puissants. Avec sa large lame et son pommeau lobé, elle évoque la bravoure des guerriers vikings et leurs légendaires raids. Épée Espadon Croc-de-l’Ombre – Équilibrée pour le combat historique comme pour l’exposition, cette épée associe élégance et précision mortelle. Son design reflète les armes polyvalentes à une main et demie des chevaliers du Moyen Âge tardif. Épée Espadon Serment de Fer – D’une prestance imposante, cette immense épée à deux mains incarne l’autorité brute. Parfaite pour les reconstitutions et les collections, elle symbolise la puissance des fantassins et mercenaires médiévaux. Épée Bâtarde Aubépine Noire – Une lame hybride polyvalente adaptée aussi bien au maniement à une main qu’à deux mains. Ses lignes raffinées et son équilibre en font une arme flexible pour divers styles de combat. Comment choisir la bonne épée médiévale Avant d’acheter une épée médiévale, il est essentiel de définir son usage. Toutes les épées ne sont pas conçues pour la même fonction, et choisir la bonne garantit sécurité et satisfaction : Exposition & Collection : Choisissez des épées fidèles aux modèles historiques et esthétiques. Recherchez des finitions traditionnelles, des pommeaux d’époque et des détails décoratifs. HEMA & Entraînement : Pour l’entraînement, privilégiez la maniabilité. Sélectionnez des épées au poids adapté, bien équilibrées, avec des lames solides mais flexibles pour un usage répété en toute sécurité. Reconstitution : Les reconstituteurs ont besoin d’épées robustes capables de résister à un usage fréquent. Privilégiez des montures solides, des tranchants émoussés et des poignées sûres, tout en restant fidèles aux modèles historiques. En identifiant votre objectif principal — décoration, pratique ou reconstitution — vous trouverez l’épée médiévale idéale pour vos besoins. Matériaux & Fabrication d’une épée médiévale La durabilité et la performance d’une épée médiévale reposent sur sa conception. Notre collection met en avant des lames forgées en acier à ressort et aciers à haute teneur en carbone, réputés pour leur solidité et leur capacité à garder un tranchant. Les gardes et pommeaux sont souvent réalisés en acier inoxydable 304 ou en acier forgé, garantissant résistance et fidélité historique. Les poignées possèdent une âme en bois enveloppée de cuir, cordage ou cuir bovin, alliant confort et authenticité. Les gouttières, rainures longitudinales de la lame, sont taillées avec soin pour alléger l’arme tout en conservant sa rigidité. Chaque épée subit un traitement thermique méticuleux, assurant l’équilibre parfait entre souplesse et dureté. Portée culturelle & historique des épées médiévales Les épées médiévales témoignent de siècles d’innovation, répondant aux évolutions des armures, des tactiques et du contexte social. Les épées vikings incarnaient l’esprit des pillards et guerriers, tandis que les épées de chevaliers symbolisaient la chevalerie et le devoir féodal. Avec l’amélioration des armures, les espadons et estocs apparurent pour contrer les plates. En Écosse, les claymores devinrent des symboles d’identité clanique, tandis qu’en Allemagne, messers et grandes épées gagnèrent en popularité. Posséder l’une de ces épées, c’est entrer en contact avec les traditions martiales européennes et préserver un fragment d’histoire qui a façonné des civilisations entières. Comment entretenir votre épée médiévale Un entretien adéquat garantit la longévité et la beauté de votre épée médiévale. Gardez la lame légèrement huilée pour éviter la rouille et la corrosion. Traitez de temps en temps les poignées et fourreaux en cuir pour maintenir leur souplesse et leur aspect. Conservez toujours votre épée dans un endroit sec, à l’abri de l’humidité et des températures extrêmes. Si vous utilisez votre épée pour le HEMA ou les reconstitutions, vérifiez régulièrement la solidité des gardes, poignées et pommeaux pour plus de sécurité. En suivant ces conseils, votre épée conservera son attrait esthétique et sa fiabilité fonctionnelle.
-  Updated: 2026-11-05T12:15:00Z
-  Total Products: 31
+  Updated: 2026-11-10T19:42:50Z
+  Total Products: 36
 - [Sabres Japonais forgés à la Main](https://katana-japonais.com/collections/sabres-japonais-forges-a-la-main)
-  Updated: 2026-11-06T12:08:32Z
-  Total Products: 300
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 308
 - [Sabre Naginata](https://katana-japonais.com/collections/sabre-naginata)
   Updated: 2026-07-10T13:09:07Z
   Total Products: 1
 - [Sabres Kydex Tactique](https://katana-japonais.com/collections/sabres-kydex-tactique): Sabres tactiques modernes, vraiment tranchants : acier ressort pleine soie, poignées G10, fourreaux Kydex. Katanas blackout, gladius, kukri & plus.
-  Updated: 2026-11-06T12:08:32Z
-  Total Products: 27
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 29
 - [Meilleures Ventes](https://katana-japonais.com/collections/meilleures-ventes)
-  Updated: 2026-11-06T12:08:32Z
-  Total Products: 233
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 239
 - [Katana Zoro — Tous les Sabres de Roronoa Zoro (One Piece)](https://katana-japonais.com/collections/katana-zoro): Tous les sabres de Roronoa Zoro en répliques forgées à la main : Wado Ichimonji, Enma, Nidai Kitetsu, Yubashiri. La technique à trois sabres, livraison gratuite.
-  Updated: 2026-11-05T12:15:00Z
+  Updated: 2026-11-12T12:09:09Z
   Total Products: 5
 - [ — Produits éligibles](https://katana-japonais.com/collections/-produits-eligibles): Collection technique : sert de cible au code promo . Exclut tout produit portant le tag no- (antiquites + armures).
-  Updated: 2026-11-06T12:08:32Z
-  Total Products: 418
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 431
 - [PROMO — Katana éligibles (hors antiques)](https://katana-japonais.com/collections/promo-katana-eligibles): Collection technique pour les codes promo katana. Exclut les lames antiques. Ne pas publier.
-  Updated: 2026-11-06T12:08:32Z
-  Total Products: 231
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 237
 - [Promo HALLOWEEN10 (hors antiques)](https://katana-japonais.com/collections/promo-halloween10): Collection technique du code HALLOWEEN10 : tous les produits sauf les antiques (Tokyo Nihonto). Non publiée.
-  Updated: 2026-11-06T12:08:32Z
-  Total Products: 409
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 422
 - [Promo KATANA30 (katanas hors antiques)](https://katana-japonais.com/collections/promo-katanas)
-  Updated: 2026-11-06T12:08:32Z
-  Total Products: 234
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 240
 - [Promo KATANA30 (médiévales hors antiques)](https://katana-japonais.com/collections/promo-medieval)
-  Updated: 2026-11-05T12:15:00Z
-  Total Products: 32
+  Updated: 2026-11-10T19:42:50Z
+  Total Products: 37
 - [Promo KATANA30 (épées tactiques hors antiques)](https://katana-japonais.com/collections/promo-modern)
-  Updated: 2026-11-06T12:08:32Z
-  Total Products: 27
+  Updated: 2026-11-14T12:12:43Z
+  Total Products: 29
 - [Répliques Kingdom Come: Deliverance](https://katana-japonais.com/collections/repliques-kingdom-come-deliverance)
-  Updated: 2026-11-04T13:54:47Z
-  Total Products: 3
-- [Répliques Le Seigneur des Anneaux](https://katana-japonais.com/collections/repliques-seigneur-des-anneaux)
-  Updated: 2026-11-04T13:54:48Z
+  Updated: 2026-11-10T19:42:44Z
   Total Products: 4
+- [Répliques Le Seigneur des Anneaux](https://katana-japonais.com/collections/repliques-seigneur-des-anneaux)
+  Updated: 2026-11-10T19:42:45Z
+  Total Products: 5
 - [Répliques The Witcher](https://katana-japonais.com/collections/repliques-the-witcher)
-  Updated: 2026-11-04T13:54:49Z
-  Total Products: 2
+  Updated: 2026-11-10T19:42:47Z
+  Total Products: 3
 - [Répliques Game of Thrones](https://katana-japonais.com/collections/repliques-game-of-thrones)
   Updated: 2026-11-04T13:54:50Z
   Total Products: 1
@@ -2893,10 +2893,10 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
   Updated: 2026-11-04T13:54:52Z
   Total Products: 3
 - [Épées Tactiques Kydex](https://katana-japonais.com/collections/epees-tactiques-kydex)
-  Updated: 2026-11-06T12:08:32Z
+  Updated: 2026-11-09T12:27:26Z
   Total Products: 11
 - [Katanas Haut de Gamme](https://katana-japonais.com/collections/katana-haut-de-gamme)
-  Updated: 2026-11-05T12:15:00Z
+  Updated: 2026-11-14T12:12:43Z
   Total Products: 61
 
 ## Blogs
@@ -3275,10 +3275,10 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2026-07-15T17:59:55Z
     Author: Katana Japonais
   - [Les 15 Forgerons Japonais les plus célèbres | Katana Japonais](https://katana-japonais.com/blogs/blog-katana/les-15-forgerons-japonais-les-plus-celebres): Les 15 Forgerons Japonais les plus célèbres | Katana Japonais
-    Updated: 2026-07-15T17:59:56Z
+    Updated: 2026-11-11T06:05:56Z
     Author: Katana Japonais
   - [Les 15 Samouraïs les Plus Célèbres de l'Histoire du Japon](https://katana-japonais.com/blogs/blog-katana/les-15-samourais-japonais-les-plus-celebres): Les 15 Samouraïs les Plus Célèbres de l'Histoire du Japon
-    Updated: 2026-07-16T01:24:16Z
+    Updated: 2026-11-11T06:05:05Z
     Author: Katana Japonais
   - [Naginata : l'Arme d'Hast Japonaise Expliquée (Histoire & Usage)](https://katana-japonais.com/blogs/blog-katana/tout-ce-quil-faut-savoir-sur-le-naginata): Naginata : l'Arme d'Hast Japonaise Expliquée (Histoire & Usage)
     Updated: 2026-07-15T17:59:57Z
@@ -3332,7 +3332,7 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2026-05-30T07:47:41Z
     Author: Katana-Japonais.com Team
   - [T10 vs 1095 vs 1060 vs Damas : Quel Acier de Katana Faut-il Vraiment Choisir ? (2026)](https://katana-japonais.com/blogs/blog-katana/comparatif-acier-katana-t10-1095-1060-damas)
-    Updated: 2026-05-30T07:48:19Z
+    Updated: 2026-11-08T04:20:04Z
     Author: Katana-Japonais.com Team
   - [Comment Exposer et Entretenir un Katana : Supports, Huilage et Erreurs à Éviter (2026)](https://katana-japonais.com/blogs/blog-katana/comment-exposer-entretenir-katana)
     Updated: 2026-05-30T07:47:57Z
