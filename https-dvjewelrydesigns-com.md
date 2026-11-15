@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2024-10-21T15:48:20Z
 - Contact Email: info@dvjewelrydesigns.com
-- Updated At: 2026-11-07T00:35:50.080Z
+- Updated At: 2026-11-15T00:34:29.222Z
 
 ## Products
 
 - [Moss Agate Ring - Sterling Silver Twig Design | DV Jewelry](https://dvjewelrydesigns.com/products/moss-agate-gemstone-ring): Hand-sculpted sterling silver moss agate ring with twig crown design. 8x6mm faceted gemstone. Nature-inspired jewelry. Free shipping.
-  Updated: 2026-10-19T03:08:46Z
+  Updated: 2026-11-11T18:23:57Z
   Vendor: DV Jewelry Designs
   Product Type: Ring
   Availability: Available
@@ -155,7 +155,7 @@
     Availability: Available
     Price: $245.00 USD
 - [Pear Moissanite Engagement Ring Set - 14k Gold Twig Design | DV Jewelry](https://dvjewelrydesigns.com/products/pear-shaped-moissanite-twig-solid-gold-wedding-ring-set): Stunning pear-shaped moissanite bridal set in 14k rose gold with hand-sculpted leaf accents. VVS1 D color, 1.25ct stone. Unique nature-inspired design. Free shipping.
-  Updated: 2026-08-31T23:13:48Z
+  Updated: 2026-11-11T18:23:56Z
   Vendor: DV Jewelry Designs
   Product Type: 
   Availability: Available
@@ -205,8 +205,8 @@
   - [10](https://dvjewelrydesigns.com/products/pear-shaped-moissanite-twig-solid-gold-wedding-ring-set?variant=49301490172189)
     Availability: Available
     Price: $2,095.00 USD
-- [Blue Zircon Beach Ring - Sea Fan Coral Sterling Silver | DV Jewelry](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring): Hand-sculpted sea fan coral ring with natural blue zircon gemstones. Sterling silver, size 8.5, resizable. Award-winning Fusion® design. 30mm length.
-  Updated: 2026-09-03T02:47:05Z
+- [Blue Zircon Sea Fan Coral Ring in Sterling Silver](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring): Hand-sculpted sea fan coral ring with natural blue zircon gemstones. Sterling silver, size 8.5, resizable. Award-winning Fusion® design. 30mm length.
+  Updated: 2026-11-12T08:12:27Z
   Vendor: DV Jewelry Designs
   Product Type: 
   Availability: Available
@@ -302,7 +302,7 @@
     Availability: Available
     Price: $165.00 USD
 - [Sea Fan Coral Earrings - Sterling Silver Beach Jewelry | DV Designs](https://dvjewelrydesigns.com/products/sterling-silver-beach-style-earrings-in-a-sea-fan-coral-design): Hand-sculpted sea fan coral dangle earrings in sterling silver. 1 7/8" height, French hook wires. Award-winning ocean-inspired Fusion® design.
-  Updated: 2026-08-31T23:13:49Z
+  Updated: 2026-11-11T18:23:56Z
   Vendor: DV Jewelry Designs
   Product Type: 
   Availability: Available
@@ -314,7 +314,7 @@
     Availability: Available
     Price: $210.00 USD
 - [Sea Fan Coral Pendant - Sterling Silver Beach Jewelry | DV Designs](https://dvjewelrydesigns.com/products/handmade-coral-sea-fan-silver-pendant-with-tiny-sea-bubbles): Hand-sculpted sea fan coral pendant in sterling silver with tiny bubbles. 2 3/8" unique beach-inspired design. Lost wax casting. Perfect ocean lover gift.
-  Updated: 2026-08-31T23:13:50Z
+  Updated: 2026-11-11T18:23:56Z
   Vendor: DV Jewelry Designs
   Product Type: 
   Availability: Available
@@ -326,8 +326,8 @@
   - [Polished](https://dvjewelrydesigns.com/products/handmade-coral-sea-fan-silver-pendant-with-tiny-sea-bubbles?variant=49341241164061)
     Availability: Available
     Price: $230.00 USD
-- [Raw Diamond Pendant - Sterling Silver Twig Design | DV Jewelry](https://dvjewelrydesigns.com/products/raw-rough-diamond-hand-sculpted-pendant-in-sterling-silver): Unique hand-sculpted diamond pendant by DV Jewelry Designs. One-of-a-kind raw rough diamond set in sterling silver twig style design.
-  Updated: 2026-08-31T23:13:50Z
+- [Raw Diamond Twig Pendant in Sterling Silver](https://dvjewelrydesigns.com/products/raw-rough-diamond-hand-sculpted-pendant-in-sterling-silver): Unique hand-sculpted diamond pendant by DV Jewelry Designs. One-of-a-kind raw rough diamond set in sterling silver twig style design.
+  Updated: 2026-11-12T08:12:26Z
   Vendor: DV Jewelry Designs
   Product Type: 
   Availability: Available
@@ -357,7 +357,7 @@
     Availability: Available
     Price: $455.00 USD
 - [Unisex Ocean and Beach Style Wedding Band - Hand-sculpted](https://dvjewelrydesigns.com/products/unisex-beach-style-ring): Hand-sculpted unisex wedding band inspired by the ocean and beach. Available in sterling silver with polished or oxidized finish. Unique Fusion® design.
-  Updated: 2026-11-05T03:09:06Z
+  Updated: 2026-11-11T18:23:56Z
   Vendor: DV Jewelry Designs
   Product Type: Ring
   Availability: Available
@@ -420,7 +420,7 @@
     Availability: Available
     Price: $170.00 USD
 - [Gold Leaf and Vine Twig Cuff Bracelet in 14k Gold | DV Jewelry Designs](https://dvjewelrydesigns.com/products/leaf-and-vine-twig-cuff-bracelet-in-solid-gold): Hand-sculpted 14k gold leaf and vine twig cuff bracelet. Available in white, yellow, or rose gold in 5 sizes. A nature-inspired fine jewelry statement piece.
-  Updated: 2026-08-31T23:13:51Z
+  Updated: 2026-11-11T18:23:56Z
   Vendor: DV Jewelry Designs
   Product Type: 
   Availability: Available
@@ -471,7 +471,7 @@
     Availability: Available
     Price: $1,930.00 USD
 - [Moss Agate Pendant - Sterling Silver Twig Design | DV Jewelry](https://dvjewelrydesigns.com/products/moss-agate-pendant): Handmade nature-inspired jewelry featuring a genuine Moss Agate gemstone set in sterling silver twig design. Available in oxidized or polished finish.
-  Updated: 2026-10-19T03:03:31Z
+  Updated: 2026-11-11T18:23:56Z
   Vendor: DV Jewelry Designs
   Product Type: Necklace Pendant
   Availability: Available
@@ -484,7 +484,7 @@
     Availability: Available
     Price: $275.00 USD
 - [Moss Agate Gemstone Sterling Silver Leaf and Twig Necklace](https://dvjewelrydesigns.com/products/moss-agate-leaf-necklace): Hand-sculpted Moss Agate Leaf Pendant, genuine sterling silver. A beautiful bridesmaid gift for nature lovers. Carry nature close to your heart.
-  Updated: 2026-10-06T07:20:24Z
+  Updated: 2026-11-12T08:12:24Z
   Vendor: DV Jewelry Designs
   Product Type: Necklace Pendant
   Availability: Available
@@ -508,7 +508,7 @@
     Availability: Available
     Price: $305.00 USD
 - [Beach Style Wedding Band Starfish Jewelry](https://dvjewelrydesigns.com/products/fan-coral-cuff): Hand-sculpted Sea Fan Coral Cuff Bracelet in Sterling Silver with optional customization options. Perfect for wrist sizes Small to X-Large.
-  Updated: 2026-08-31T23:13:52Z
+  Updated: 2026-11-11T18:23:57Z
   Vendor: DV Jewelry Designs
   Product Type: 
   Availability: Available
@@ -529,7 +529,7 @@
     Availability: Available
     Price: $530.00 USD
 - [Sterling Silver Leaf Twig Vine Stackable Rings Set](https://dvjewelrydesigns.com/products/stacking-rings): Hand sculpted silver leaf rings with a touch of nature. Oxidized finish adds depth. Available in polished/shiny upon request. Unique and creative jewelry.
-  Updated: 2026-10-21T20:27:35Z
+  Updated: 2026-11-11T18:23:56Z
   Vendor: DV Jewelry Designs
   Product Type: 
   Availability: Available
@@ -587,14 +587,14 @@
     Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/leaf-twig-vine-stackable-rings-in-sterling-silver-set-of-3-319360.jpg?v=1753721787
     Price: $220.00 USD
 - [Starfish Coral Ring - Sterling Silver Beach Jewelry | DV Jewelry](https://dvjewelrydesigns.com/products/sterling-silver-starfish-and-sea-coral-ring): Dive into the beauty of the ocean with our handmade Fan Coral and Starfish Ring. A stunning piece of nature-inspired jewelry in Sterling Silver.
-  Updated: 2026-10-19T03:03:31Z
+  Updated: 2026-11-11T18:23:57Z
   Vendor: DV Jewelry Designs
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/sterling-silver-starfish-and-sea-coral-ring-290168.jpg?v=1741121954
   Price: $145.00 USD
 - [Gold Twig Ring Guard - 14k/18k Wedding Band | DV Jewelry](https://dvjewelrydesigns.com/products/twig-and-branch-ring-guard-in-solid-gold): Handmade nature-inspired 14k/18k gold Twig Ring Guard by DV Jewelry Designs. Made to order and fits most DV Ring Designs. Polished finish.
-  Updated: 2026-10-19T03:03:33Z
+  Updated: 2026-11-11T18:24:02Z
   Vendor: DV Jewelry Designs
   Product Type: 
   Availability: Available
@@ -735,7 +735,7 @@
     Availability: Available
     Price: $1,365.00 USD
 - [DV Jewelry Designs Gift Card - Perfect for any occasion](https://dvjewelrydesigns.com/products/gift-card): Give the gift of choice with a gift card for that special someone who is hard to shop for.
-  Updated: 2026-08-31T23:13:54Z
+  Updated: 2026-11-11T18:23:56Z
   Vendor: DV Jewelry Designs
   Product Type: Gift Card
   Availability: Available
@@ -771,7 +771,7 @@
     Availability: Available
     Price: $500.00 USD
 - [Gold Twig Wedding Band - Hand-Sculpted Branch Ring | DV Jewelry](https://dvjewelrydesigns.com/products/twig-branch-wedding-band-in-solid-gold): Hand-sculpted solid gold twig branch wedding band. Stackable, nature-inspired, perfect as a unique wedding ring or anniversary band | DV Jewelry Designs.
-  Updated: 2026-10-19T03:03:33Z
+  Updated: 2026-11-11T18:24:02Z
   Vendor: DV Jewelry Designs
   Product Type: Ring
   Availability: Available
@@ -960,14 +960,14 @@
     Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/twig-branch-wedding-band-in-solid-gold-688315.png?v=1741121954
     Price: $600.00 USD
 - [Labradorite Sterling Silver Pendant | DV Jewelry Designs](https://dvjewelrydesigns.com/products/labradorite-silver-pendant-1): Handcrafted labradorite cabochon pendant in oxidized sterling silver. One-of-a-kind, lost-wax cast. A stunning nature-inspired statement piece.
-  Updated: 2026-08-31T23:28:28Z
+  Updated: 2026-11-11T18:23:57Z
   Vendor: DV Jewelry Designs
   Product Type: Necklace Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/labradorite-silver-pendant-762562.jpg?v=1741121960
   Price: $610.00 USD
 - [Handcrafted Round Topaz Starfish and Sea Coral Ring](https://dvjewelrydesigns.com/products/sterling-silver-topaz-ring-with-a-starfish-and-sea-fan-coral-design): Handcrafted round topaz starfish and sea coral ring using Lost Wax method. Swiss blue topaz, oxidized finish. Comes with ring box and tote.
-  Updated: 2026-10-19T03:03:37Z
+  Updated: 2026-11-11T18:24:02Z
   Vendor: DV Jewelry Designs
   Product Type: Ring
   Availability: Available
@@ -1020,8 +1020,8 @@
   - [11.5](https://dvjewelrydesigns.com/products/sterling-silver-topaz-ring-with-a-starfish-and-sea-fan-coral-design?variant=49741961429277)
     Availability: Available
     Price: $400.00 USD
-- [Radiant Cut Moissanite Diamond Twig Ring](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring): Hand-sculpted Branch Style Moissanite Engagement Ring in 14k Yellow & White Gold. Conflict-Free with 1.5ct Radiant Cut Moissanite Gemstone.
-  Updated: 2026-09-29T05:26:09Z
+- [Radiant Cut Moissanite Twig Engagement Ring](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring): Hand-sculpted by Dawn, this 1.5ct radiant-cut moissanite engagement ring features a twig design in recycled solid gold. Explore this nature-inspired ring.
+  Updated: 2026-11-11T20:07:59Z
   Vendor: DV Jewelry Designs
   Product Type: Ring
   Availability: Available
@@ -1176,8 +1176,8 @@
   - [7 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741978140957)
     Availability: Available
     Price: $2,350.00 USD
-- [Twig & Branch Ring Guard Bridal Set in Solid Gold](https://dvjewelrydesigns.com/products/1-5-carat-moissanite-twig-branch-style-bridal-set-in-solid-gold): Customize your Moissanite ring set with your choice of metal. Handcrafted in radiant branch style, Conflict-Free Gold setting. Message preferences at checkout.
-  Updated: 2026-08-31T23:13:56Z
+- [Radiant Cut Moissanite Twig Ring Guard Bridal Set](https://dvjewelrydesigns.com/products/1-5-carat-moissanite-twig-branch-style-bridal-set-in-solid-gold): A hand-sculpted 1.5ct radiant-cut moissanite bridal set with a twig-style ring guard in recycled solid gold. Choose metals for the solitaire and guard.
+  Updated: 2026-11-11T20:08:01Z
   Vendor: DV Jewelry Designs
   Product Type: Ring
   Availability: Available
@@ -1237,7 +1237,7 @@
     Availability: Available
     Price: $3,715.00 USD
 - [Pear Moissanite Ring - 14k Gold Engagement Ring | DV Jewelry](https://dvjewelrydesigns.com/products/pear-shaped-moissanite): Handmade nature inspired jewelry featuring a 1.5ct Pear Shape Moissanite Diamond set in Solid 14k Yellow Gold. Perfect for weddings and anniversaries.
-  Updated: 2026-10-19T03:03:37Z
+  Updated: 2026-11-11T18:24:01Z
   Vendor: DV Jewelry Designs
   Product Type: Ring
   Availability: Available
@@ -1360,7 +1360,7 @@
     Availability: Available
     Price: $1,400.00 USD
 - [Yellow Gold Rough Diamond Twig Bridal Set](https://dvjewelrydesigns.com/products/rough-diamond-twig-engagement-bridal-set-in-solid-yellow-gold): Unique hand-sculpted twig design engagement ring set with raw uncut diamond in solid 14k yellow gold. Truly one-of-a-kind creation.
-  Updated: 2026-08-31T23:13:57Z
+  Updated: 2026-11-11T18:24:01Z
   Vendor: DV Jewelry Designs
   Product Type: Ring
   Availability: Available
@@ -1516,7 +1516,7 @@
     Availability: Available
     Price: $1,750.00 USD
 - [Raw Diamond Leaf Wedding Set - Black Rhodium Branch Rings](https://dvjewelrydesigns.com/products/black-rhodium-raw-diamond-leaf-branch-wedding-set-2-rings): Hand-sculpted Raw Diamond Wedding Set, unique creation in 14k Yellow Solid Gold with Black Rhodium Plating. Genuine diamonds sourced responsibly.
-  Updated: 2026-08-31T23:39:36Z
+  Updated: 2026-11-11T18:24:01Z
   Vendor: DV Jewelry Designs
   Product Type: 
   Availability: Available
@@ -1576,14 +1576,14 @@
     Availability: Available
     Price: $3,800.00 USD
 - [Sea Fan Coral Pendant in Sterling Silver | DV Jewelry Designs](https://dvjewelrydesigns.com/products/sea-fan-coral-pendant): Hand-sculpted sterling silver sea fan coral pendant. Unisex ocean-inspired design, award-winning Fusion® collection. A unique gift for beach and ocean lovers.
-  Updated: 2026-11-05T03:09:59Z
+  Updated: 2026-11-11T18:24:01Z
   Vendor: DV Jewelry Designs
   Product Type: Necklace Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/sea-fan-coral-pendant-607807.jpg?v=1741121956
   Price: $255.00 USD
 - [Aquamarine Engagement Ring - 14k Gold Twig Design | DV Jewelry](https://dvjewelrydesigns.com/products/pear-shaped-aquamarine-twig-engagement-ring-or-wedding-set): Hand-sculpted Aquamarine Twig Engagement Ring in 14k Rose Gold. Handmade nature inspired jewelry by DV Jewelry Designs.
-  Updated: 2026-08-31T23:13:58Z
+  Updated: 2026-11-11T18:24:02Z
   Vendor: DV Jewelry Designs
   Product Type: 
   Availability: Available
@@ -3809,8 +3809,8 @@
   Updated: 2026-08-26T11:16:21Z
   Total Products: 12
 - [Rings](https://dvjewelrydesigns.com/collections/rings): Shop handcrafted nature-inspired rings in sterling silver & 14k gold. Twig engagement rings, raw diamond bands & gemstone styles. Free US shipping.
-  Updated: 2026-11-04T15:09:01Z
-  Total Products: 113
+  Updated: 2026-11-09T16:44:11Z
+  Total Products: 112
 
 ## Blogs
 
