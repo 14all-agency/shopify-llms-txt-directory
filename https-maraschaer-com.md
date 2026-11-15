@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2020-03-26T10:39:21Z
 - Contact Email: info@joycorporate.ch
-- Updated At: 2026-11-08T00:51:42.683Z
+- Updated At: 2026-11-15T00:58:49.645Z
 
 Mara Schär – Life & Business Coaching in Basel, Schweiz
 
@@ -730,6 +730,18 @@ Die Angebote sind in Basel, schweizweit und online verfügbar. Die Website enth�
   - [Business Coaching oder Mentoring: Was passt zu dir?](https://maraschaer.com/blogs/news/business-coaching-oder-mentoring): Business Coaching oder Mentoring: Was passt zu dir?
     Updated: 2026-11-06T02:41:59Z
     Author: Admin
+  - [Resilienz im Unternehmen fördern mit System](https://maraschaer.com/blogs/news/resilienz-im-unternehmen-foerdern): Resilienz im Unternehmen fördern mit System
+    Updated: 2026-11-08T02:43:20Z
+    Author: Admin
+  - [Business Coaching für klare Entscheidungen](https://maraschaer.com/blogs/news/business-coaching-klare-entscheidungen): Business Coaching für klare Entscheidungen
+    Updated: 2026-11-10T02:44:18Z
+    Author: Admin
+  - [Als Expat neu anfangen und wirklich ankommen](https://maraschaer.com/blogs/news/als-expat-neu-anfangen): Als Expat neu anfangen und wirklich ankommen
+    Updated: 2026-11-12T02:42:56Z
+    Author: Admin
+  - [Lebenskrise bewältigen und Klarheit finden](https://maraschaer.com/blogs/news/lebenskrise-bewaeltigen): Lebenskrise bewältigen und Klarheit finden
+    Updated: 2026-11-14T02:43:47Z
+    Author: Admin
 
 ## Store Pages
 
@@ -744,7 +756,7 @@ Die Angebote sind in Basel, schweizweit und online verfügbar. Die Website enth�
 - [Corporate Wellbeing](https://maraschaer.com/pages/corporate-wellbeing): Wir bieten innovative Workshops und Seminare für Organisationen, denen die Gesundheit und Prävention am Herzen liegen. Unter unseren Kunden befinde...
   Updated: 2022-09-26T13:00:16Z
 - [Life Coach Basel | Coach Basel | Coaching Basel: Mara Schär Ausbildung](https://maraschaer.com/pages/wer-bin-ch): Coaching Basel - Entdecke dein volles Potenzial Als Life Coach Basel zeichne ich mich durch meine Leidenschaft und Hingabe aus, Menschen dabei zu u...
-  Updated: 2026-11-06T10:09:36Z
+  Updated: 2026-11-12T14:55:48Z
 - [Coaching Angebot Mara Schär: Coaching Pakete](https://maraschaer.com/pages/coaching-pakete): 12 Monate VIP Coaching Paket Das 12-monatige VIP Coaching Paket bietet dir umfassende Unterstützung, um die beste Version deiner selbst zu werden. ...
   Updated: 2024-09-18T14:46:43Z
 - [Auswandern - Auswanderer Coach](https://maraschaer.com/pages/coaching-fur-auswanderer): Auswandern: Die Realität hinter dem Traum Auswandern klingt oft nach einem aufregenden Neuanfang, doch die Realität sieht häufig anders aus. Die Vo...
@@ -777,20 +789,28 @@ Die Angebote sind in Basel, schweizweit und online verfügbar. Die Website enth�
   Updated: 2026-10-27T06:22:22Z
 - [Berufliche Neuorientierung Coaching | Mara Schär](https://maraschaer.com/pages/berufliche-neuorientierung-coaching): Bist du bereit für eine berufliche Veränderung, fühlst dich aber unsicher, welche Richtung du einschlagen sollst? Vielleicht spürst du Unzufriedenh...
   Updated: 2026-10-27T08:26:51Z
-- [Führungscoaching: Rolle klären, Führung stärken | Mara Schär](https://maraschaer.com/pages/fuhrungscoaching): Als Führungskraft stehen dir jeden Tag neue Herausforderungen bevor – sei es in der Führung deines Teams, bei wichtigen Entscheidungen oder bei der...
-  Updated: 2026-10-26T12:52:53Z
+- [Führungscoaching: Rolle klären, Führung stärken | Mara Schär](https://maraschaer.com/pages/fuehrungscoaching): Als Führungskraft stehen dir jeden Tag neue Herausforderungen bevor – sei es in der Führung deines Teams, bei wichtigen Entscheidungen oder bei der...
+  Updated: 2026-11-08T15:21:53Z
 - [Mentoring Basel | Individuelle Begleitung mit Mara Schär](https://maraschaer.com/pages/mentoring): Manchmal brauchen wir jemanden, der uns unterstützt, neue Perspektiven bietet und uns dabei hilft, unsere Ziele zu erreichen. Mentoring Basel mit M...
   Updated: 2026-10-27T08:14:53Z
 - [Führungskräfte Coaching Basel | Mara Schär Coaching](https://maraschaer.com/pages/fuhrungskrafte-coaching): Führungskräfte Coaching ist eine hervorragende Möglichkeit, die Kompetenz weiterzuentwickeln und das eigene Leben als Führungsperson erfolgreich zu...
   Updated: 2026-10-31T05:54:22Z
 - [Segelretreat Kroatien | Achtsamkeit & innere Balance](https://maraschaer.com/pages/segelretreats-achtsamkeit-innere-balance-auf-dem-meer): Wellbeing & Sailing Retreat – im vielleicht schönsten Land Europas für Retreats auf dem Meer Wellbeing · Coaching · Regeneration 7 Tage Auszeit auf...
   Updated: 2026-10-26T10:32:23Z
-- [Transsilvanien Retreat | Dracula & Achtsamkeit Reise](https://maraschaer.com/pages/transsilvanien-dracula-retreats): Psychologische Tiefe in unberührter Natur Selbsterfahrung & Achtsamkeit in den Karpaten Zurück zur Essenz In den Wäldern Transsilvaniens wird das L...
-  Updated: 2026-10-27T05:41:58Z
-- [Retreat Schweizer Berge | Coaching & Wandern mit Mara](https://maraschaer.com/pages/retreats-in-den-schweizer-bergen): Wandern, Psychologie & neue Perspektive Innehalten in den Alpen – Klarheit finden im Gehen Bewegung als Meditation In den Schweizer Alpen begegnen ...
-  Updated: 2026-10-27T05:03:05Z
 - [SMART Modell Coaching | Resilienz & mentale Gesundheit](https://maraschaer.com/pages/smart-modell): Das SMART™-Modell Eine fundierte Methode für Coaching, Prävention und psychologische Erste Hilfe. Das SMART™-Modell verbindet fünf zentrale Element...
   Updated: 2026-10-27T04:44:20Z
+- [Coaching Basel – Persönliche Entwicklung, beruflicher Erfolg und nachhaltige Veränderung](https://maraschaer.com/pages/coaching-basel): Du möchtest etwas verändern, weisst aber noch nicht genau, wo du anfangen sollst? Vielleicht stehst du beruflich unter Druck, erlebst Veränderungen...
+  Updated: 2026-11-08T14:20:51Z
+- [Coach Basel | Life & Business Coach Mara Schär](https://maraschaer.com/pages/coach-basel): Manchmal verändert sich das Leben schneller, als wir darauf vorbereitet sind. Eine Trennung, eine berufliche Neuorientierung, Herausforderungen in ...
+  Updated: 2026-11-08T14:19:03Z
+- [Life Coach Zürich – Dein Weg zu mehr Klarheit, Selbstvertrauen und persönlicher Erfüllung](https://maraschaer.com/pages/life-coach-zuerich): Manchmal braucht es nur einen neuen Blickwinkel, um wieder zu erkennen, welcher Weg der eigene ist. Vielleicht stehst du gerade an einem Wendepunkt...
+  Updated: 2026-11-08T15:06:10Z
+- [Psychologische Beratung – Klarheit gewinnen, Herausforderungen verstehen und neue Wege finden](https://maraschaer.com/pages/psychologische-beratung): Es gibt Situationen im Leben, in denen wir uns mehr wünschen als einen gut gemeinten Ratschlag. Vielleicht beschäftigt dich eine Entscheidung, die ...
+  Updated: 2026-11-08T14:52:22Z
+- [Psychologin Basel? Mein Ausbildungsweg | Mara Schär](https://maraschaer.com/pages/psychologin-basel): Du suchst eine Psychologin in Basel, weil du dir professionelle Unterstützung bei persönlichen Herausforderungen wünschst? Vielleicht befindest du ...
+  Updated: 2026-11-08T14:41:43Z
+- [Psychotherapie Basel: Beratung oder Therapie? | Mara Schär](https://maraschaer.com/pages/psychotherapie-basel): Du suchst nach Psychotherapie in Basel und möchtest herausfinden, welche Form der Unterstützung für deine aktuelle Situation geeignet ist? Vielleic...
+  Updated: 2026-11-08T14:47:33Z
 
 ## Policies
 
