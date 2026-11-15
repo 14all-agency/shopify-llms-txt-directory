@@ -6,7 +6,7 @@
 - Timezone: America/Halifax
 - Created At: 2024-05-30T15:47:20Z
 - Contact Email: sales@elevatedgolfsimulators.com
-- Updated At: 2026-11-07T01:00:33.199Z
+- Updated At: 2026-11-15T01:10:51.073Z
 
 Elevated Golf Simulators
 
@@ -15,19 +15,19 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
 ## Products
 
 - [Carl's Place Golf Swing Camera Set](https://www.elevatedgolfsimulators.com/products/carls-place-golf-swing-cameras): Analyze your swing in 300 FPS with the Carl's Place Golf Swing Camera Set. High-speed USB cameras with wide-angle lenses for instant, slow-motion video feedback
-  Updated: 2026-10-16T22:25:35Z
+  Updated: 2026-11-14T18:48:29Z
   Vendor: Carl's Place
   Product Type: Golf Swing Camera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carlsswingcamera1.webp?v=1776543760
   - [Set of 2 Swing Camera Set / Wall Mount](https://www.elevatedgolfsimulators.com/products/carls-place-golf-swing-cameras?variant=44457575973064)
     Availability: Available
-    Price: $480.00 USD
+    Price: $408.00 USD
   - [Set of 2 Swing Camera Set / Tripod](https://www.elevatedgolfsimulators.com/products/carls-place-golf-swing-cameras?variant=44457576005832)
     Availability: Available
-    Price: $500.00 USD
+    Price: $425.00 USD
 - [Carl's Place HotShot Golf Mat Systems](https://www.elevatedgolfsimulators.com/products/carls-place-hotshot-golf-mat-system): Create your ideal practice environment with Carl’s HotShot Golf Mat, the customizable solution designed to meet your unique golfing style and training needs.
-  Updated: 2026-11-01T14:12:46Z
+  Updated: 2026-11-14T18:48:28Z
   Vendor: Carl's Place
   Product Type: Golf Mat
   Availability: Available
@@ -35,142 +35,142 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   - [Carl's 4 x 5 HotShot Hitting Mat](https://www.elevatedgolfsimulators.com/products/carls-place-hotshot-golf-mat-system?variant=44293282758856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-golf-mat-carl-s-place-hotshot-golf-mat-systems-35990099624136.webp?v=1776543768
-    Price: $420.00 USD
+    Price: $357.00 USD
   - [Carl's 5 x 8 HotShot Hitting Mat](https://www.elevatedgolfsimulators.com/products/carls-place-hotshot-golf-mat-system?variant=44457737912520)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-golf-mat-carl-s-place-hotshot-golf-mat-systems-35990099493064.webp?v=1776543766
-    Price: $685.95 USD
+    Price: $583.05 USD
   - [Carl's 4 x 9 HotShot Hitting Mat](https://www.elevatedgolfsimulators.com/products/carls-place-hotshot-golf-mat-system?variant=44293283938504)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-golf-mat-carl-s-place-hotshot-golf-mat-systems-35990099493064.webp?v=1776543766
-    Price: $700.00 USD
+    Price: $595.00 USD
   - [Carl's 6 x 10 HotShot Hitting Mat](https://www.elevatedgolfsimulators.com/products/carls-place-hotshot-golf-mat-system?variant=44457737945288)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-golf-mat-carl-s-place-hotshot-golf-mat-systems-35990099493064.webp?v=1776543766
-    Price: $980.00 USD
+    Price: $833.00 USD
 - [Carl's Place Floor Mounted Projector Enclosure](https://www.elevatedgolfsimulators.com/products/carls-place-floor-mounted-projector-enclosure): Protect your projector with Carl’s Place Projector Enclosure. Designed for golf simulators, it shields from dust and stray shots while enhancing image quality.
-  Updated: 2026-10-16T22:25:36Z
+  Updated: 2026-11-14T18:48:27Z
   Vendor: Carl's Place
   Product Type: Enclosure Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carlsprojenc6.webp?v=1776543769
-  Price: $299.99 USD
+  Price: $254.99 USD
 - [Carl's Place Pro Golf Simulator Enclosure Kit](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure): Build an indoor golf simulator with Carl's Place Pro Enclosure Kit. Explore the impact screen, enclosure components and setup options for a home golf bay.
-  Updated: 2026-10-31T16:22:22Z
+  Updated: 2026-11-14T18:48:31Z
   Vendor: Carl's Place
   Product Type: Golf Enclosures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/ProEnclosureAngleWithCrossbarandLMMount.webp?v=1776543774
   - [8x10.5 / 5 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914228936)
     Availability: Available
-    Price: $3,409.95 USD
+    Price: $2,898.45 USD
   - [8x10.5 / 5 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764771483848)
     Availability: Available
-    Price: $3,764.95 USD
+    Price: $3,200.20 USD
   - [8x10.5 / 8 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914261704)
     Availability: Available
-    Price: $3,784.95 USD
+    Price: $3,217.20 USD
   - [8x10.5 / 8 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764771516616)
     Availability: Available
-    Price: $4,174.95 USD
+    Price: $3,548.70 USD
   - [8.5x11 / 5 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914360008)
     Availability: Available
-    Price: $3,469.95 USD
+    Price: $2,949.45 USD
   - [8.5x11 / 5 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764771549384)
     Availability: Available
-    Price: $3,829.95 USD
+    Price: $3,255.45 USD
   - [8.5x11 / 8 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914392776)
     Availability: Available
-    Price: $3,844.95 USD
+    Price: $3,268.20 USD
   - [8.5x11 / 8 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764771582152)
     Availability: Available
-    Price: $4,239.95 USD
+    Price: $3,603.95 USD
   - [8.5x14.5 / 5 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914491080)
     Availability: Available
-    Price: $3,734.95 USD
+    Price: $3,174.70 USD
   - [8.5x14.5 / 5 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764771614920)
     Availability: Available
-    Price: $4,119.95 USD
+    Price: $3,501.95 USD
   - [8.5x14.5 / 8 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914523848)
     Availability: Available
-    Price: $4,114.95 USD
+    Price: $3,497.70 USD
   - [8.5x14.5 / 8 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764771647688)
     Availability: Available
-    Price: $4,529.95 USD
+    Price: $3,850.45 USD
   - [10x13 / 5 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914622152)
     Availability: Available
-    Price: $3,659.95 USD
+    Price: $3,110.95 USD
   - [10x13 / 5 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764771680456)
     Availability: Available
-    Price: $4,034.95 USD
+    Price: $3,429.70 USD
   - [10x13 / 8 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914654920)
     Availability: Available
-    Price: $4,034.95 USD
+    Price: $3,429.70 USD
   - [10x13 / 8 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764771713224)
     Availability: Available
-    Price: $4,444.95 USD
+    Price: $3,778.20 USD
   - [10x13 / 10 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914687688)
     Availability: Available
-    Price: $4,289.95 USD
+    Price: $3,646.45 USD
   - [10x13 / 10 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764771745992)
     Availability: Available
-    Price: $4,719.95 USD
+    Price: $4,011.95 USD
   - [10x13 / 15 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914720456)
     Availability: Available
-    Price: $4,919.95 USD
+    Price: $4,181.95 USD
   - [10x13 / 15 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764771778760)
     Availability: Available
-    Price: $5,404.95 USD
+    Price: $4,594.20 USD
   - [9x12 / 5 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914753224)
     Availability: Available
-    Price: $3,549.95 USD
+    Price: $3,017.45 USD
   - [9x12 / 5 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764771811528)
     Availability: Available
-    Price: $3,919.95 USD
+    Price: $3,331.95 USD
   - [9x12 / 8 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914785992)
     Availability: Available
-    Price: $3,929.95 USD
+    Price: $3,340.45 USD
   - [9x12 / 8 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764771844296)
     Availability: Available
-    Price: $4,329.95 USD
+    Price: $3,680.45 USD
   - [9x12 / 10 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914818760)
     Availability: Available
-    Price: $4,179.95 USD
+    Price: $3,552.95 USD
   - [9x12 / 10 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764771877064)
     Availability: Available
-    Price: $4,604.95 USD
+    Price: $3,914.20 USD
   - [9x12 / 15 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914851528)
     Availability: Available
-    Price: $4,809.95 USD
+    Price: $4,088.45 USD
   - [9x12 / 15 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764771909832)
     Availability: Available
-    Price: $5,289.95 USD
+    Price: $4,496.45 USD
   - [10x15.5 / 5 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914884296)
     Availability: Available
-    Price: $3,844.95 USD
+    Price: $3,268.20 USD
   - [10x15.5 / 5 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764771942600)
     Availability: Available
-    Price: $4,239.95 USD
+    Price: $3,603.95 USD
   - [10x15.5 / 8 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914917064)
     Availability: Available
-    Price: $4,224.95 USD
+    Price: $3,591.20 USD
   - [10x15.5 / 8 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764771975368)
     Availability: Available
-    Price: $4,649.95 USD
+    Price: $3,952.45 USD
   - [10x15.5 / 10 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914949832)
     Availability: Available
-    Price: $4,474.95 USD
+    Price: $3,803.70 USD
   - [10x15.5 / 10 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764772008136)
     Availability: Available
-    Price: $4,924.95 USD
+    Price: $4,186.20 USD
   - [10x15.5 / 15 / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44537914982600)
     Availability: Available
-    Price: $5,104.95 USD
+    Price: $4,339.20 USD
   - [10x15.5 / 15 / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-pro-golf-simulator-enclosure?variant=44764772040904)
     Availability: Available
-    Price: $5,609.95 USD
+    Price: $4,768.45 USD
 - [Carl's Place Premium Golf Simulator Impact Screen](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen): Shop Carl's Place Premium Golf Simulator Impact Screen for an indoor hitting bay. Explore premium screen performance, image clarity and enclosure compatibility.
-  Updated: 2026-10-31T16:22:13Z
+  Updated: 2026-11-14T18:48:30Z
   Vendor: Carl's Place
   Product Type: Impact Screens
   Availability: Available
@@ -178,205 +178,205 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   - [Classic / 7.7' x 10' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476893561032)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $570.00 USD
+    Price: $484.50 USD
   - [Classic / 8' x 10.5' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476893593800)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $600.00 USD
+    Price: $510.00 USD
   - [Classic / 8.5' x 11.5' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476893626568)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $660.00 USD
+    Price: $561.00 USD
   - [Classic / 9' x 12' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476893659336)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $690.00 USD
+    Price: $586.50 USD
   - [Classic / 9.5' x 12.5' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476893692104)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $720.00 USD
+    Price: $612.00 USD
   - [Classic / 10' x 13' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476893724872)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $750.00 USD
+    Price: $637.50 USD
   - [Classic / 7.7' x 13' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476893757640)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $745.00 USD
+    Price: $633.25 USD
   - [Classic / 8' x 14' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476893790408)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $800.00 USD
+    Price: $680.00 USD
   - [Classic / 8.5' x 15' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476893823176)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $860.00 USD
+    Price: $731.00 USD
   - [Classic / 9' x 16' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476893855944)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $920.00 USD
+    Price: $782.00 USD
   - [Classic / 9.5' x 17' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476893888712)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $980.00 USD
+    Price: $833.00 USD
   - [Classic / 10' x 18' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476893921480)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $1,035.00 USD
+    Price: $879.75 USD
   - [Classic / 7.7' x 11.5' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476893954248)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $660.00 USD
+    Price: $561.00 USD
   - [Classic / 8' x 12' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476893987016)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $685.00 USD
+    Price: $582.25 USD
   - [Classic / 9' x 14' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894019784)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $800.00 USD
+    Price: $680.00 USD
   - [Classic / 8.5' x 13' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894052552)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $745.00 USD
+    Price: $633.25 USD
   - [Classic / 9.5' x 15' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894085320)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $865.00 USD
+    Price: $735.25 USD
   - [Classic / 10' x 15.5'](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894118088)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $895.00 USD
+    Price: $760.75 USD
   - [Classic / 7.7' x 7.7' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894150856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $440.00 USD
+    Price: $374.00 USD
   - [Classic / 8' x 8' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894183624)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $460.00 USD
+    Price: $391.00 USD
   - [Classic / 8.5' x 8.5' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894216392)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $490.00 USD
+    Price: $416.50 USD
   - [Classic / 9' x 9' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894249160)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $520.00 USD
+    Price: $442.00 USD
   - [Classic / 9.5' x 9.5' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894281928)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $550.00 USD
+    Price: $467.50 USD
   - [Classic / 10' x 10' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894314696)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $580.00 USD
+    Price: $493.00 USD
   - [Classic / 8' x 9'](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894347464)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $515.00 USD
+    Price: $437.75 USD
   - [Classic / 9' x 10'](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894380232)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $575.00 USD
+    Price: $488.75 USD
   - [Classic / 10' x 12'](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894413000)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $700.00 USD
+    Price: $595.00 USD
   - [Classic / 10' x 14'](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894445768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $800.00 USD
+    Price: $680.00 USD
   - [Classic / 10' x 16'](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894478536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166929608.webp?v=1776543787
-    Price: $930.00 USD
+    Price: $790.50 USD
   - [Classic with Flaps / 7.7' x 10' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894511304)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $625.00 USD
+    Price: $531.25 USD
   - [Classic with Flaps / 8' x 10.5' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894544072)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $660.00 USD
+    Price: $561.00 USD
   - [Classic with Flaps / 8.5' x 11.5' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894576840)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $720.00 USD
+    Price: $612.00 USD
   - [Classic with Flaps / 9' x 12' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894609608)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $750.00 USD
+    Price: $637.50 USD
   - [Classic with Flaps / 9.5' x 12.5' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894642376)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $785.00 USD
+    Price: $667.25 USD
   - [Classic with Flaps / 10' x 13' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894675144)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $820.00 USD
+    Price: $697.00 USD
   - [Classic with Flaps / 7.7' x 13' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894707912)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $800.00 USD
+    Price: $680.00 USD
   - [Classic with Flaps / 8' x 14' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894740680)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $870.00 USD
+    Price: $739.50 USD
   - [Classic with Flaps / 8.5' x 15' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894773448)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $930.00 USD
+    Price: $790.50 USD
   - [Classic with Flaps / 9' x 16' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894806216)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $1,000.00 USD
+    Price: $850.00 USD
   - [Classic with Flaps / 9.5' x 17' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894838984)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $1,055.00 USD
+    Price: $896.75 USD
   - [Classic with Flaps / 10' x 18' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894871752)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $1,120.00 USD
+    Price: $952.00 USD
   - [Classic with Flaps / 7.7' x 11.5' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894904520)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $720.00 USD
+    Price: $612.00 USD
   - [Classic with Flaps / 8' x 12' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894937288)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $750.00 USD
+    Price: $637.50 USD
   - [Classic with Flaps / 9' x 14' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476894970056)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $880.00 USD
+    Price: $748.00 USD
   - [Classic with Flaps / 8.5' x 13' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476895002824)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $800.00 USD
+    Price: $680.00 USD
   - [Classic with Flaps / 9.5' x 15' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476895035592)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $940.00 USD
+    Price: $799.00 USD
   - [Classic with Flaps / 10' x 15.5'](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476895068360)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $970.00 USD
+    Price: $824.50 USD
   - [Classic with Flaps / 7.7' x 7.7' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476895101128)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $485.00 USD
+    Price: $412.25 USD
   - [Classic with Flaps / 8' x 8' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476895133896)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $500.00 USD
+    Price: $425.00 USD
   - [Classic with Flaps / 8.5' x 8.5' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-premium-golf-impact-screen?variant=44476895166664)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-premium-golf-impact-screen-35990166896840.webp?v=1776543787
-    Price: $540.00 USD
+    Price: $459.00 USD
 - [Carl's Place Preferred Golf Simulator Impact Screen](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen): Explore Carl's Place Preferred Golf Simulator Impact Screen for indoor practice and projection. Compare screen options for your home golf simulator.
-  Updated: 2026-10-31T16:22:15Z
+  Updated: 2026-11-14T18:48:30Z
   Vendor: Carl's Place
   Product Type: Impact Screens
   Availability: Available
@@ -384,203 +384,203 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   - [Classic / 7.7' x 10' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477013983432)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $390.00 USD
+    Price: $331.50 USD
   - [Classic / 8' x 10.5' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014016200)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $400.00 USD
+    Price: $340.00 USD
   - [Classic / 8.5' x 11.5' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014048968)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $440.00 USD
+    Price: $374.00 USD
   - [Classic / 9' x 12' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014081736)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $470.00 USD
+    Price: $399.50 USD
   - [Classic / 9.5' x 12.5' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014114504)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $485.00 USD
+    Price: $412.25 USD
   - [Classic / 10' x 13' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014147272)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $500.00 USD
+    Price: $425.00 USD
   - [Classic / 7.7' x 13' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014180040)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $500.00 USD
+    Price: $425.00 USD
   - [Classic / 8' x 14' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014212808)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $535.00 USD
+    Price: $454.75 USD
   - [Classic / 8.5' x 15' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014245576)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $575.00 USD
+    Price: $488.75 USD
   - [Classic / 9' x 16' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014278344)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $600.00 USD
+    Price: $510.00 USD
   - [Classic / 9.5' x 17' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014311112)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $650.00 USD
+    Price: $552.50 USD
   - [Classic / 10' x 18' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014343880)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $690.00 USD
+    Price: $586.50 USD
   - [Classic / 7.7' x 11.5' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014376648)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $440.00 USD
+    Price: $374.00 USD
   - [Classic / 8' x 12' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014409416)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $460.00 USD
+    Price: $391.00 USD
   - [Classic / 9' x 14' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014442184)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $535.00 USD
+    Price: $454.75 USD
   - [Classic / 8.5' x 13' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014474952)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $500.00 USD
+    Price: $425.00 USD
   - [Classic / 9.5' x 15' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014507720)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $580.00 USD
+    Price: $493.00 USD
   - [Classic / 10' x 15.5'](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014540488)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $600.00 USD
+    Price: $510.00 USD
   - [Classic / 7.7' x 7.7' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014573256)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $300.00 USD
+    Price: $255.00 USD
   - [Classic / 8' x 8' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014606024)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $300.00 USD
+    Price: $255.00 USD
   - [Classic / 8.5' x 8.5' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014638792)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $330.00 USD
+    Price: $280.50 USD
   - [Classic / 9' x 9' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014671560)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $350.00 USD
+    Price: $297.50 USD
   - [Classic / 9.5' x 9.5' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014704328)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $370.00 USD
+    Price: $314.50 USD
   - [Classic / 10' x 10' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014737096)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $390.00 USD
+    Price: $331.50 USD
   - [Classic / 8' x 9'](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014769864)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $345.00 USD
+    Price: $293.25 USD
   - [Classic / 9' x 10'](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014802632)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $390.00 USD
+    Price: $331.50 USD
   - [Classic / 10' x 12'](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014835400)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $470.00 USD
+    Price: $399.50 USD
   - [Classic / 10' x 14'](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014868168)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $540.00 USD
+    Price: $459.00 USD
   - [Classic / 10' x 16'](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014900936)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990157983944.webp?v=1776543789
-    Price: $620.00 USD
+    Price: $527.00 USD
   - [Classic with Flaps / 7.7' x 10' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014933704)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $440.00 USD
+    Price: $374.00 USD
   - [Classic with Flaps / 8' x 10.5' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014966472)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $460.00 USD
+    Price: $391.00 USD
   - [Classic with Flaps / 8.5' x 11.5' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477014999240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $500.00 USD
+    Price: $425.00 USD
   - [Classic with Flaps / 9' x 12' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015032008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $530.00 USD
+    Price: $450.50 USD
   - [Classic with Flaps / 9.5' x 12.5' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015064776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $550.00 USD
+    Price: $467.50 USD
   - [Classic with Flaps / 10' x 13' (4:3)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015097544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $570.00 USD
+    Price: $484.50 USD
   - [Classic with Flaps / 7.7' x 13' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015130312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $555.00 USD
+    Price: $471.75 USD
   - [Classic with Flaps / 8' x 14' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015163080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $600.00 USD
+    Price: $510.00 USD
   - [Classic with Flaps / 8.5' x 15' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015195848)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $640.00 USD
+    Price: $544.00 USD
   - [Classic with Flaps / 9' x 16' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015228616)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $690.00 USD
+    Price: $586.50 USD
   - [Classic with Flaps / 9.5' x 17' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015261384)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $730.00 USD
+    Price: $620.50 USD
   - [Classic with Flaps / 10' x 18' (16:9)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015294152)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $775.00 USD
+    Price: $658.75 USD
   - [Classic with Flaps / 7.7' x 11.5' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015326920)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $500.00 USD
+    Price: $425.00 USD
   - [Classic with Flaps / 8' x 12' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015359688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $520.00 USD
+    Price: $442.00 USD
   - [Classic with Flaps / 9' x 14' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015392456)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $600.00 USD
+    Price: $510.00 USD
   - [Classic with Flaps / 8.5' x 13' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015425224)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $560.00 USD
+    Price: $476.00 USD
   - [Classic with Flaps / 9.5' x 15' (16:10)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015457992)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $650.00 USD
+    Price: $552.50 USD
   - [Classic with Flaps / 10' x 15.5'](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015490760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $670.00 USD
+    Price: $569.50 USD
   - [Classic with Flaps / 7.7' x 7.7' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015523528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $340.00 USD
+    Price: $289.00 USD
   - [Classic with Flaps / 8' x 8' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015556296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $460.00 USD
+    Price: $391.00 USD
   - [Classic with Flaps / 8.5' x 8.5' (1:1)](https://www.elevatedgolfsimulators.com/products/carls-place-preferred-golf-simulator-impact-screen?variant=44477015589064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-impact-screens-carl-s-place-preferred-golf-impact-screen-35990158082248.webp?v=1776543790
-    Price: $380.00 USD
+    Price: $323.00 USD
 - [Big Moss Long Putt 60' Putting Green](https://www.elevatedgolfsimulators.com/products/big-moss-long-putt-60-putting-green): Master the world’s longest lag putts with the Big Moss 60' Long Putt V2 putting green. Features two-piece 6'x60' construction, and industrial-grade durability.
   Updated: 2026-10-16T22:25:37Z
   Vendor: Big Moss
@@ -659,83 +659,83 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/big-moss-putting-green-big-moss-commander-patio-series-215-putting-chipping-green-35979060281544.webp?v=1776543809
   Price: $368.00 USD
 - [Golf Impact Screen Enclosure Kit by Carl's Place](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen): Upgrade your home golf setup with Carl's Place DIY Golf Impact Screen enclosure kit. Durable, easy to install, perfect for every golfer.
-  Updated: 2026-10-16T22:25:40Z
+  Updated: 2026-11-14T18:48:31Z
   Vendor: Carl's Place
   Product Type: Golf Enclosures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/DIYfrontwithsoftware.webp?v=1776543814
   - [Standard Screen / 7.7' x 10'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212021960)
     Availability: Available
-    Price: $1,149.95 USD
+    Price: $977.45 USD
   - [Standard Screen / 7.7' x 13'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212054728)
     Availability: Available
-    Price: $1,239.95 USD
+    Price: $1,053.95 USD
   - [Standard Screen / 8' x 8'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212087496)
     Availability: Available
-    Price: $999.95 USD
+    Price: $849.95 USD
   - [Standard Screen / 8' x 10.5'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212120264)
     Availability: Available
-    Price: $1,174.95 USD
+    Price: $998.70 USD
   - [Standard Screen / 8.5' x 11.5'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212153032)
     Availability: Available
-    Price: $1,224.95 USD
+    Price: $1,041.20 USD
   - [Standard Screen / 9' x 12'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212185800)
     Availability: Available
-    Price: $1,259.95 USD
+    Price: $1,070.95 USD
   - [Preferred Screen / 7.7' x 10'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212218568)
     Availability: Available
-    Price: $1,289.95 USD
+    Price: $1,096.45 USD
   - [Preferred Screen / 7.7' x 13'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212251336)
     Availability: Available
-    Price: $1,399.95 USD
+    Price: $1,189.95 USD
   - [Preferred Screen / 8' x 8'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212284104)
     Availability: Available
-    Price: $1,229.95 USD
+    Price: $1,045.45 USD
   - [Preferred Screen / 8' x 10.5'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212316872)
     Availability: Available
-    Price: $1,319.95 USD
+    Price: $1,121.95 USD
   - [Preferred Screen / 8.5' x 11.5'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212349640)
     Availability: Available
-    Price: $1,379.95 USD
+    Price: $1,172.95 USD
   - [Preferred Screen / 9' x 12'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212382408)
     Availability: Available
-    Price: $1,419.95 USD
+    Price: $1,206.95 USD
   - [Premium Screen / 7.7' x 10'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212415176)
     Availability: Available
-    Price: $1,564.95 USD
+    Price: $1,330.20 USD
   - [Premium Screen / 7.7' x 13'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212447944)
     Availability: Available
-    Price: $1,719.95 USD
+    Price: $1,461.95 USD
   - [Premium Screen / 8' x 8'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212480712)
     Availability: Available
-    Price: $1,479.95 USD
+    Price: $1,257.95 USD
   - [Premium Screen / 8' x 10.5'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212513480)
     Availability: Available
-    Price: $1,598.95 USD
+    Price: $1,359.10 USD
   - [Premium Screen / 8.5' x 11.5'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212546248)
     Availability: Available
-    Price: $1,694.95 USD
+    Price: $1,440.70 USD
   - [Premium Screen / 9' x 12'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212579016)
     Availability: Available
-    Price: $1,749.95 USD
+    Price: $1,487.45 USD
   - [High-Contrast Grey Screen / 7.7' x 10'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212611784)
     Availability: Available
-    Price: $1,664.95 USD
+    Price: $1,415.20 USD
   - [High-Contrast Grey Screen / 7.7' x 13'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212644552)
     Availability: Available
-    Price: $1,829.95 USD
+    Price: $1,563.95 USD
   - [High-Contrast Grey Screen / 8' x 8'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212677320)
     Availability: Available
-    Price: $1,574.95 USD
+    Price: $1,338.70 USD
   - [High-Contrast Grey Screen / 8' x 10.5'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212710088)
     Availability: Available
-    Price: $1,719.95 USD
+    Price: $1,461.95 USD
   - [High-Contrast Grey Screen / 8.5' x 11.5'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212742856)
     Availability: Available
-    Price: $1,798.95 USD
+    Price: $1,529.10 USD
   - [High-Contrast Grey Screen / 9' x 12'](https://www.elevatedgolfsimulators.com/products/carls-place-diy-golf-simulator-enclosure-kit-with-golf-impact-screen?variant=44763212775624)
     Availability: Available
-    Price: $1,874.95 USD
+    Price: $1,593.70 USD
 - [Big Moss The Augusta 410 Putting Green 2 Hole](https://www.elevatedgolfsimulators.com/products/big-moss-the-augusta-410-putting-green): The Big Moss Augusta 410 V2 is a versatile 4'x10' putting green. Features 2 holes, 11-stimp V2 turf, chipping tools, and a 100% lay-flat rubber backing.
   Updated: 2026-10-16T22:25:40Z
   Vendor: Big Moss
@@ -807,33 +807,33 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/big-moss-golf-enclosures-big-moss-v2-gst-foundation-sim-putting-greens-exact-fit-for-carl-s-place-diy-enclosures-35990674899144.webp?v=1776543834
   Price: $1,547.00 USD
 - [Uneekor EYE MINI Portable Golf Launch Monitor](https://www.elevatedgolfsimulators.com/products/eye-mini-golf-launch-monitor): Explore the Uneekor EYE MINI portable camera-based golf launch monitor for indoor practice and simulation, with ball and club data and an onboard display.
-  Updated: 2026-10-31T16:22:17Z
+  Updated: 2026-11-08T16:50:53Z
   Vendor: Uneekor
   Product Type: Launch Monitor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/uneekor-launch-monitor-uneekor-eye-mini-launch-monitor-36031567036616.webp?v=1776543840
-  Price: $2,999.00 USD
+  Price: $1,999.00 USD
 - [Uneekor EYE MINI LITE Indoor Golf Launch Monitor](https://www.elevatedgolfsimulators.com/products/uneekor-eye-mini-lite-golf-launch-monitor): Shop the Uneekor EYE MINI LITE golf launch monitor for a PC-connected indoor simulator. Explore camera-based shot tracking and Club Optix features.
-  Updated: 2026-10-31T16:22:19Z
+  Updated: 2026-11-08T17:23:58Z
   Vendor: Uneekor
   Product Type: Launch Monitor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/uneekor-launch-monitor-uneekor-eye-mini-lite-launch-monitor-36031708987592.webp?v=1776543852
-  Price: $1,999.00 USD
+  Price: $1,699.00 USD
 - [Uneekor EYE XO AI Studio Overhead Launch Monitor](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo-golf-launch-monitor): Explore the Uneekor EYE XO AI Studio overhead golf launch monitor for indoor simulation. Review camera-based tracking and swing-analysis capabilities.
-  Updated: 2026-10-31T16:28:40Z
+  Updated: 2026-11-08T17:22:37Z
   Vendor: Uneekor
   Product Type: Launch Monitor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/uneekor-launch-monitor-uneekor-eye-xo-launch-monitor-36056217911496.webp?v=1776543863
-  Price: $6,499.00 USD
+  Price: $4,999.00 USD
 - [Uneekor Swing Optix Cameras and Software](https://www.elevatedgolfsimulators.com/products/uneekor-swing-optix-cameras): Analyze your swing in 4K with Uneekor Swing Optix. Features dual 180 FPS cameras, AI-powered coaching, and seamless integration for pro-level swing breakdowns.
-  Updated: 2026-10-16T22:25:43Z
+  Updated: 2026-11-09T05:01:49Z
   Vendor: Uneekor
   Product Type: Golf Swing Camera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/uneekor-golf-swing-camera-uneekor-swing-optix-cameras-and-software-36034973204680.webp?v=1776543879
-  Price: $1,700.00 USD
+  Price: $799.00 USD
 - [Rain or Shine SwingBay Golf Simulator Enclosure](https://www.elevatedgolfsimulators.com/products/rain-or-shine-swingbay-golf-simulaotr-enclosure): Explore the Rain or Shine SwingBay golf simulator enclosure for indoor hitting bays. Review the 8 ft by 10.5 ft enclosure and impact screen setup.
   Updated: 2026-10-31T16:22:20Z
   Vendor: Rain or Shine
@@ -919,65 +919,65 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/big-moss-hitting-mats-and-strips-big-moss-true-launch-plus-r-l-hitting-mat-with-strips-36039693500616.webp?v=1776543915
   Price: $1,200.00 USD
 - [Golf Simulator - Uneekor EYE XO2 Carl's Place Pro Package](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package): Experience premium golf practice with the Uneekor EYE XO2 Golf Simulator package. Accurate, immersive, and perfect for all skill levels.
-  Updated: 2026-10-16T22:25:47Z
+  Updated: 2026-11-08T16:57:17Z
   Vendor: Uneekor
   Product Type: Golf Simulator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/uneekor-launch-monitor-uneekor-eye-xo-launch-monitor-36032016253128.webp?v=1776543868
   - [8 x 10.5 / 5'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300554600648)
     Availability: Available
-    Price: $14,330.00 USD
+    Price: $11,330.00 USD
   - [8 x 10.5 / 8'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300554633416)
     Availability: Available
-    Price: $14,650.00 USD
+    Price: $11,650.00 USD
   - [8.5 x 11 / 5'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300560597192)
     Availability: Available
-    Price: $14,350.00 USD
+    Price: $11,350.00 USD
   - [8.5 x 11 / 8'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300560629960)
     Availability: Available
-    Price: $14,750.00 USD
+    Price: $11,750.00 USD
   - [8.5 x 14.5 / 5'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300561154248)
     Availability: Available
-    Price: $14,650.00 USD
+    Price: $11,650.00 USD
   - [8.5 x 14.5 / 8'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300561187016)
     Availability: Available
-    Price: $15,030.00 USD
+    Price: $12,030.00 USD
   - [10 x 13 / 5'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300453904584)
     Availability: Available
-    Price: $14,550.00 USD
+    Price: $11,550.00 USD
   - [10 x 13 / 8'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300453937352)
     Availability: Available
-    Price: $14,950.00 USD
+    Price: $11,950.00 USD
   - [10 x 13 / 10'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300453970120)
     Availability: Available
-    Price: $15,150.00 USD
+    Price: $12,150.00 USD
   - [10 x 13 / 15'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300454002888)
     Availability: Available
-    Price: $15,810.00 USD
+    Price: $12,810.00 USD
   - [9 x 12 / 5'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300454035656)
     Availability: Available
-    Price: $14,450.00 USD
+    Price: $11,450.00 USD
   - [9 x 12 / 8'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300454068424)
     Availability: Available
-    Price: $14,840.00 USD
+    Price: $11,840.00 USD
   - [9 x 12 / 10'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300454101192)
     Availability: Available
-    Price: $15,050.00 USD
+    Price: $12,050.00 USD
   - [9 x 12 / 15'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300454133960)
     Availability: Available
-    Price: $15,710.00 USD
+    Price: $12,710.00 USD
   - [10x 15.5 / 5'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300454166728)
     Availability: Available
-    Price: $14,750.00 USD
+    Price: $11,750.00 USD
   - [10x 15.5 / 8'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300454199496)
     Availability: Available
-    Price: $15,130.00 USD
+    Price: $12,130.00 USD
   - [10x 15.5 / 10'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300454232264)
     Availability: Available
-    Price: $15,350.00 USD
+    Price: $12,350.00 USD
   - [10x 15.5 / 15'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-golf-simulator-package?variant=44300454265032)
     Availability: Available
-    Price: $15,950.00 USD
+    Price: $12,950.00 USD
 - [The Net Return Golf Net Pro Series](https://www.elevatedgolfsimulators.com/products/net-return-pro-series-golf-net): The Net Return Pro Series V2 is the world’s only multi-sport golf net with automatic ball return and a 250,000-shot guarantee. The ultimate training tool.
   Updated: 2026-10-16T22:25:47Z
   Vendor: The Net Return
@@ -1102,14 +1102,14 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/benq-golf-projector-benq-lk936st-4k-uhd-simulator-projector-36069861228744.webp?v=1776543984
   Price: $4,899.00 USD
 - [Carl's Place Golf ball Tray](https://www.elevatedgolfsimulators.com/products/carls-place-golf-ball-tray): Streamline your practice with the Carl’s Place Golf Ball Tray. Heavy-duty rubber, angled for seamless mat transition, and holds up to 86 balls in one layer.
-  Updated: 2026-10-16T22:25:49Z
+  Updated: 2026-11-14T18:49:00Z
   Vendor: Carl's Place
   Product Type: Ball Tray
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carl-s-place-ball-tray-carl-s-place-golf-ball-tray-36075771363528.webp?v=1776543987
   Price: $139.95 USD
 - [Carl's Place Golf Club Holder for Simulators | 13 Clubs](https://www.elevatedgolfsimulators.com/products/carls-classic-golf-club-holder): Streamline your simulator with the Carl’s Place Club holder. Holds 13 clubs with an integrated tray for balls, tees, and floor-mounted launch monitors.
-  Updated: 2026-10-16T22:25:50Z
+  Updated: 2026-11-14T18:49:00Z
   Vendor: Carl's Place
   Product Type: Club holder
   Availability: Available
@@ -1137,156 +1137,94 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/rapsodo-launch-monitor-rapsodo-mlm2pro-launch-monitor-36085850865864.webp?v=1776543991
   Price: $699.99 USD
 - [SIG10 Golf Simulator Enclosure | Indoor Golf Bay](https://www.elevatedgolfsimulators.com/products/sig-10-golf-simulator-enclosure): Explore the SIG10 golf simulator enclosure with a 10-foot-wide hitting screen. Review dimensions and plan your indoor golf simulator installation.
-  Updated: 2026-10-31T16:28:50Z
+  Updated: 2026-11-14T20:17:44Z
   Vendor: Shop Indoor Golf
   Product Type: Golf Enclosures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/SIG10_7.webp?v=1776543995
-  Price: $1,999.99 USD
+  Price: $1,499.99 USD
 - [SIG8 Golf Simulator Enclosure | Compact Indoor Bay](https://www.elevatedgolfsimulators.com/products/sig8-golf-simulator-enclosure): Explore the SIG8 golf simulator enclosure for a compact indoor hitting bay. Review the impact screen, enclosure dimensions and installation requirements.
-  Updated: 2026-10-31T16:28:49Z
+  Updated: 2026-11-14T20:17:45Z
   Vendor: Shop Indoor Golf
   Product Type: Golf Enclosures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/SIG8_1.webp?v=1776543999
-  Price: $1,799.99 USD
+  Price: $1,349.99 USD
 - [SIG12 Golf Simulator Enclosure | Wide Indoor Bay](https://www.elevatedgolfsimulators.com/products/sig12-golf-simulator-enclosure): Explore the SIG12 golf simulator enclosure for a wide indoor hitting bay. Review the 12-foot screen format and room requirements for your setup.
-  Updated: 2026-10-31T16:28:52Z
+  Updated: 2026-11-14T20:17:44Z
   Vendor: Shop Indoor Golf
   Product Type: Golf Enclosures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/SIG12_1.webp?v=1776544000
-  Price: $2,499.99 USD
-- [SIG8 Golf Simulator Studio](https://www.elevatedgolfsimulators.com/products/sig8-golf-simulator-studio-1): SIG8 Golf Simulator Studio – Compact, Powerful, and Ready for Play The SIG8 Golf Simulator Studio is the perfect solution for golfers who want a high-quality.
-  Updated: 2026-10-26T03:00:07Z
-  Vendor: Shop Indoor Golf
-  Product Type: Golf Enclosures
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/SIG8Studio_1.webp?v=1776544001
-  - [Fairway Series 5' x 5'](https://www.elevatedgolfsimulators.com/products/sig8-golf-simulator-studio-1?variant=44138768728264)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/SIG8Studio_2.webp?v=1776544004
-    Price: $3,199.99 USD
-  - [SIGPRO 4' x 7'](https://www.elevatedgolfsimulators.com/products/sig8-golf-simulator-studio-1?variant=44138768761032)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/SIG8Studio_1.webp?v=1776544001
-    Price: $3,449.99 USD
-  - [SIG8 Golf Simulator Flooring](https://www.elevatedgolfsimulators.com/products/sig8-golf-simulator-studio-1?variant=44138768793800)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/SIG8Studio_3.webp?v=1776544004
-    Price: $5,799.99 USD
-- [SIG10 Golf Simulator Studio | Indoor Golf Simulator Setup](https://www.elevatedgolfsimulators.com/products/sig10-golf-simulator-studio): Explore the SIG10 Golf Simulator Studio for a dedicated indoor golf setup. Compare the SIG10 studio configuration, enclosure footprint and setup requirements.
-  Updated: 2026-10-31T16:28:21Z
-  Vendor: Shop Indoor Golf
-  Product Type: Golf Enclosures
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/SIG10GolfStudio_1.png?v=1776544005
-  - [Fairway Series 5' x 5'](https://www.elevatedgolfsimulators.com/products/sig10-golf-simulator-studio?variant=44138788126920)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sog10_golf_studio_4.png?v=1776544006
-    Price: $3,399.99 USD
-  - [SIGPRO 4' x 7'](https://www.elevatedgolfsimulators.com/products/sig10-golf-simulator-studio?variant=44138788159688)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/SIG10_Golf_studio_3.png?v=1776544006
-    Price: $3,649.99 USD
-  - [SIGPRO 4' x 10'](https://www.elevatedgolfsimulators.com/products/sig10-golf-simulator-studio?variant=44138788192456)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/SIG10GolfStudio_2.png?v=1776544005
-    Price: $3,949.99 USD
-  - [SIG10 Golf Simulator Flooring](https://www.elevatedgolfsimulators.com/products/sig10-golf-simulator-studio?variant=44138788225224)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/SIG10GolfStudio_1.png?v=1776544005
-    Price: $6,299.99 USD
-- [SIG12 Golf Simulator Studio](https://www.elevatedgolfsimulators.com/products/sig12-golf-simulator-studio): SIG12 Golf Simulator Studio – The Ultimate Indoor Golf Experience The SIG12 Golf Simulator Studio provides the most immersive indoor golf experience.
-  Updated: 2026-10-26T03:00:24Z
-  Vendor: Shop Indoor Golf
-  Product Type: Golf Enclosures
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/SIG12_golf_studio_1.webp?v=1776544006
-  - [Fairway Series 5' x 5'](https://www.elevatedgolfsimulators.com/products/sig12-golf-simulator-studio?variant=44138794811592)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig12_golf_studio_2.webp?v=1776544007
-    Price: $3,599.99 USD
-  - [SIGPRO 4' x 7'](https://www.elevatedgolfsimulators.com/products/sig12-golf-simulator-studio?variant=44138794844360)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/SIG12_golf_studio_1.webp?v=1776544006
-    Price: $3,849.99 USD
-  - [SIGPRO 4' x 10'](https://www.elevatedgolfsimulators.com/products/sig12-golf-simulator-studio?variant=44138794877128)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/SIG12_golf_studio_3.webp?v=1776544008
-    Price: $4,149.99 USD
-  - [SIG12 Golf Simulator Flooring](https://www.elevatedgolfsimulators.com/products/sig12-golf-simulator-studio?variant=44138794909896)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/Sig12_golf_studio_4.webp?v=1776544008
-    Price: $6,999.99 USD
+  Price: $1,874.99 USD
 - [SIG DIY Golf Simulator Enclosure](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure): Build your dream studio with the SIG DIY Golf Simulator Enclosure. A high-quality, customizable frame and impact screen kit designed for easy home assembly.
-  Updated: 2026-10-16T22:25:52Z
+  Updated: 2026-11-14T20:17:45Z
   Vendor: Shop Indoor Golf
   Product Type: Golf Enclosures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/SIGDIYGOLF2.webp?v=1776544010
   - [1:1 / 8'4 x 8'4 x 5' / Premium](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44138820272328)
     Availability: Available
-    Price: $1,469.99 USD
+    Price: $1,102.49 USD
   - [1:1 / 8'4 x 8'4 x 5' / Premier Grey](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44771882959048)
     Availability: Available
-    Price: $1,709.99 USD
+    Price: $1,282.49 USD
   - [1:1 / 10'4 x 10'4 x 5' / Premium](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44138820305096)
     Availability: Available
-    Price: $1,559.99 USD
+    Price: $1,169.99 USD
   - [1:1 / 10'4 x 10'4 x 5' / Premier Grey](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44771882991816)
     Availability: Available
-    Price: $1,869.99 USD
+    Price: $1,402.49 USD
   - [4:3 / 10'4 x 7'11 x 5' / Premium](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44138820665544)
     Availability: Available
-    Price: $1,549.99 USD
+    Price: $1,162.49 USD
   - [4:3 / 10'4 x 7'11 x 5' / Premier Grey](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44771883024584)
     Availability: Available
-    Price: $1,859.99 USD
+    Price: $1,394.99 USD
   - [4:3 / 10'10 x 8'4 x 5' / Premium](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44138820698312)
     Availability: Available
-    Price: $1,589.99 USD
+    Price: $1,192.49 USD
   - [4:3 / 10'10 x 8'4 x 5' / Premier Grey](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44771883057352)
     Availability: Available
-    Price: $1,899.99 USD
+    Price: $1,424.99 USD
   - [4:3 / 12'2 x 9'4 x 5' / Premium](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44138820731080)
     Availability: Available
-    Price: $1,739.99 USD
+    Price: $1,304.99 USD
   - [4:3 / 12'2 x 9'4 x 5' / Premier Grey](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44771883090120)
     Availability: Available
-    Price: $2,089.99 USD
+    Price: $1,567.49 USD
   - [4:3 / 12'10 x 9'10 x 5' / Premium](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44138820763848)
     Availability: Available
-    Price: $1,859.99 USD
+    Price: $1,394.99 USD
   - [4:3 / 12'10 x 9'10 x 5' / Premier Grey](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44771883122888)
     Availability: Available
-    Price: $2,239.99 USD
+    Price: $1,679.99 USD
   - [4:3 / 13'7 x 10'4 x 5' / Premium](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44138820796616)
     Availability: Available
-    Price: $1,899.99 USD
+    Price: $1,424.99 USD
   - [4:3 / 13'7 x 10'4 x 5' / Premier Grey](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44771883155656)
     Availability: Available
-    Price: $2,299.99 USD
+    Price: $1,724.99 USD
   - [16:9 / 13'7 x 7'11 x 5' / Premium](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44138821157064)
     Availability: Available
-    Price: $1,709.99 USD
+    Price: $1,282.49 USD
   - [16:9 / 13'7 x 7'11 x 5' / Premier Grey](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44771883188424)
     Availability: Available
-    Price: $2,099.99 USD
+    Price: $1,574.99 USD
   - [16:9 / 14'2 x 8'4 x 5' / Premium](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44138821189832)
     Availability: Available
-    Price: $1,699.99 USD
+    Price: $1,274.99 USD
   - [16:9 / 14'2 x 8'4 x 5' / Premier Grey](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44771883221192)
     Availability: Available
-    Price: $2,119.99 USD
+    Price: $1,589.99 USD
   - [16:10 / 15'4 x 9'10 x 5' / Premium](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44138821550280)
     Availability: Available
-    Price: $1,899.99 USD
+    Price: $1,424.99 USD
   - [16:10 / 15'4 x 9'10 x 5' / Premier Grey](https://www.elevatedgolfsimulators.com/products/sig-diy-golf-simulator-enclosure?variant=44771883253960)
     Availability: Available
-    Price: $2,359.99 USD
+    Price: $1,769.99 USD
 - [Uneekor EYE XO2 SIG10 Golf Simulator Package](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-all-in-sig8-golf-simulator-package): Explore the Uneekor EYE XO2 SIG10 golf simulator package, combining an overhead launch monitor with a SIG10 enclosure for an indoor golf studio.
-  Updated: 2026-10-31T16:28:42Z
+  Updated: 2026-11-08T16:57:17Z
   Vendor: Uneekor
   Product Type: Golf Simulator
   Availability: Available
@@ -1294,44 +1232,44 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   - [Fairway 5' x 5' / EYE XO2 Standalone](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-all-in-sig8-golf-simulator-package?variant=44172059967688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig10eyexo28.webp?v=1776544053
-    Price: $14,749.99 USD
+    Price: $11,749.99 USD
   - [Fairway 5' x 5' / EYE XO2 + Performance Optix](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-all-in-sig8-golf-simulator-package?variant=44172075696328)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig10eyexo28.webp?v=1776544053
-    Price: $16,499.99 USD
+    Price: $13,499.99 USD
   - [SIGPRO 4' x 7' / EYE XO2 Standalone](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-all-in-sig8-golf-simulator-package?variant=44172060000456)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig10eyexo27.webp?v=1776544053
-    Price: $14,949.99 USD
+    Price: $11,949.99 USD
   - [SIGPRO 4' x 7' / EYE XO2 + Performance Optix](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-all-in-sig8-golf-simulator-package?variant=44172075729096)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig10eyexo27.webp?v=1776544053
-    Price: $16,949.99 USD
+    Price: $13,949.99 USD
   - [SIGPRO 4' x 10' / EYE XO2 Standalone](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-all-in-sig8-golf-simulator-package?variant=44172060033224)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig10eyexo26.webp?v=1776544052
-    Price: $15,149.99 USD
+    Price: $12,149.99 USD
   - [SIGPRO 4' x 10' / EYE XO2 + Performance Optix](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-all-in-sig8-golf-simulator-package?variant=44172075761864)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig10eyexo26.webp?v=1776544052
-    Price: $17,149.99 USD
+    Price: $14,149.99 USD
   - [SIG10 Golf Simulator Flooring / EYE XO2 Standalone](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-all-in-sig8-golf-simulator-package?variant=44172060065992)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig12eyexo22_073cd54e-d11e-4c55-9ef5-08054a4a10c5.webp?v=1776544054
-    Price: $19,299.99 USD
+    Price: $16,299.99 USD
   - [SIG10 Golf Simulator Flooring / EYE XO2 + Performance Optix](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-all-in-sig8-golf-simulator-package?variant=44172075794632)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig12eyexo22_073cd54e-d11e-4c55-9ef5-08054a4a10c5.webp?v=1776544054
-    Price: $21,299.99 USD
+    Price: $18,299.99 USD
 - [Uneekor EYE XO2 AI Studio Golf Launch Monitor | Elevated Golf](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-launch-monitor): Buy the Uneekor EYE XO2 AI Studio. The overhead launch monitor with 24 data points, widest hitting zone, Swing Optix & AI Trainer. Price match + free shipping.
-  Updated: 2026-10-16T22:25:53Z
+  Updated: 2026-11-08T17:21:06Z
   Vendor: Uneekor
   Product Type: Launch Monitor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/EYE_XO2_9d2e0519-a2df-4a04-ae39-f737cef69efa.webp?v=1776544054
-  Price: $10,999.00 USD
+  Price: $7,999.00 USD
 - [Uneekor EYE XO2 SIG12 Golf Simulator Package](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-sig12-golf-simulator-package): Unlock a 300% larger hitting zone with the Uneekor EYE XO2 SIG12 Golf SImulator Package. Features 3-camera overhead tracking and a 12ft premium enclosure.
-  Updated: 2026-10-16T22:25:53Z
+  Updated: 2026-11-08T16:57:17Z
   Vendor: Uneekor
   Product Type: Golf Simulator
   Availability: Available
@@ -1339,35 +1277,35 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   - [Fairway 5' x 5' / EYE XO2 Standalone](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-sig12-golf-simulator-package?variant=44172068978888)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig12eyexo24.webp?v=1776544057
-    Price: $14,849.99 USD
+    Price: $11,849.99 USD
   - [Fairway 5' x 5' / EYE XO2 + Performance Optix](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-sig12-golf-simulator-package?variant=44172070944968)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig12eyexo24.webp?v=1776544057
-    Price: $16,849.99 USD
+    Price: $13,849.99 USD
   - [SIGPRO 4' x 7' / EYE XO2 Standalone](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-sig12-golf-simulator-package?variant=44172069011656)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig12eyexo23.webp?v=1776544058
-    Price: $15,049.99 USD
+    Price: $12,049.99 USD
   - [SIGPRO 4' x 7' / EYE XO2 + Performance Optix](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-sig12-golf-simulator-package?variant=44172070977736)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig12eyexo23.webp?v=1776544058
-    Price: $17,049.99 USD
+    Price: $14,049.99 USD
   - [SIGPRO 4' x 10' / EYE XO2 Standalone](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-sig12-golf-simulator-package?variant=44172069044424)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig12eyexo21.webp?v=1776544056
-    Price: $15,249.99 USD
+    Price: $12,249.99 USD
   - [SIGPRO 4' x 10' / EYE XO2 + Performance Optix](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-sig12-golf-simulator-package?variant=44172071010504)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig12eyexo21.webp?v=1776544056
-    Price: $17,249.99 USD
+    Price: $14,249.99 USD
   - [SIG12 Golf Simulator Flooring / EYE XO2 Standalone](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-sig12-golf-simulator-package?variant=44172069077192)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig12eyexo22.webp?v=1776544057
-    Price: $20,249.99 USD
+    Price: $17,249.99 USD
   - [SIG12 Golf Simulator Flooring / EYE XO2 + Performance Optix](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo2-sig12-golf-simulator-package?variant=44172071043272)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig12eyexo22.webp?v=1776544057
-    Price: $22,249.99 USD
+    Price: $19,249.99 USD
 - [G-TRAK Retractable Golf Simulator Impact Screen](https://www.elevatedgolfsimulators.com/products/g-track-retractable-golf-simulator-impact-screen): Explore the G-TRAK retractable golf simulator impact screen for a space-saving garage or indoor golf setup. Review track mounting and screen options.
   Updated: 2026-10-31T16:31:57Z
   Vendor: G-Trak
@@ -1400,7 +1338,7 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/g-trak-net-single.webp?v=1776544060
   Price: $1,849.99 USD
 - [Uneekor EYE XO SIG10 Golf Simulator Package](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo-sig10-golf-simulator-package): Get tour-level data with the Uneekor EYE XO SIG10 Golf Simulator. Features non-marking ball tech and a premium 10ft enclosure. The gold standard for precision.
-  Updated: 2026-10-16T22:25:54Z
+  Updated: 2026-11-08T17:22:37Z
   Vendor: Uneekor
   Product Type: Golf Simulator
   Availability: Available
@@ -1408,21 +1346,21 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   - [Fairway 5' x 5'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo-sig10-golf-simulator-package?variant=44166653444296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig10eyexo4.webp?v=1776544063
-    Price: $11,869.90 USD
+    Price: $8,869.90 USD
   - [SIGPRO 4' x 7'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo-sig10-golf-simulator-package?variant=44166653477064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig10eyexo5.webp?v=1776544064
-    Price: $12,549.99 USD
+    Price: $9,549.99 USD
   - [SIGPRO 4' x 10'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo-sig10-golf-simulator-package?variant=44166653509832)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig10eyexo6.webp?v=1776544062
-    Price: $12,749.99 USD
+    Price: $9,749.99 USD
   - [SIG10 Golf Simulator Flooring](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo-sig10-golf-simulator-package?variant=44166653542600)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig10eyexo1.webp?v=1776544062
-    Price: $16,089.99 USD
+    Price: $13,089.99 USD
 - [Uneekor EYE XO SIG12 Golf Simulator Package](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo-sig12-golf-simulator-package): Experience elite 12ft wide-format golf with the Uneekor EYE XO SIG12 Golf Simulator. Features non-marking ball tech and overhead tracking. Shop now
-  Updated: 2026-10-16T22:25:54Z
+  Updated: 2026-11-08T17:22:37Z
   Vendor: Uneekor
   Product Type: Golf Simulator
   Availability: Available
@@ -1430,19 +1368,19 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   - [Fairway 5' x 5'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo-sig12-golf-simulator-package?variant=44166657900744)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig12eyexo3.webp?v=1776544068
-    Price: $12,249.99 USD
+    Price: $9,249.99 USD
   - [SIGPRO 4' x 7'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo-sig12-golf-simulator-package?variant=44166657933512)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig12eyexo2.webp?v=1776544069
-    Price: $12,749.99 USD
+    Price: $9,749.99 USD
   - [SIGPRO 4' x 10'](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo-sig12-golf-simulator-package?variant=44166657966280)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig12eyexo5.webp?v=1776544068
-    Price: $12,949.99 USD
+    Price: $9,949.99 USD
   - [SIG12 Golf SImulator Flooring](https://www.elevatedgolfsimulators.com/products/uneekor-eye-xo-sig12-golf-simulator-package?variant=44166657999048)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sig12eyexo6.webp?v=1776544066
-    Price: $17,189.99 USD
+    Price: $14,189.99 USD
 - [SIGPRO Side Barrier Netting](https://www.elevatedgolfsimulators.com/products/sigpro-side-barrier-netting): SIG Side Barrier Netting: Safety and Protection for Your Golf Simulator The side barrier netting is designed to provide an extra layer of safety for stray balls
   Updated: 2026-10-16T22:25:55Z
   Vendor: Shop Indoor Golf
@@ -1451,140 +1389,140 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/sigprosidenetting1.webp?v=1776544076
   Price: $399.99 USD
 - [Carl's Place HotShot Hitting Strip - Gel Divot Strip](https://www.elevatedgolfsimulators.com/products/carls-hotshot-hitting-strip-gel-divot-strip): Carl’s Place HotShot Gel Hitting Strip – Realistic Golf Practice with Enhanced Durability Take your golf practice to the next level with the Carl’s Place HotShot Gel Hitting Strip. This premium hitting mat is engineered with a gel-infused layer to deliver unmatched realism and protect your clubs from impact. Perfect for home golf simulators and indoor setups, it provides the feel of real turf with every swing, helping you refine your technique without stepping outside. Whether you’re a beginner or seasoned golfer, the Carl’s Place HotShot Gel Hitting Strip provides a high-quality training experience, allowing you to practice year-round with confidence. Perfect your swing and get the most out of your home golf setup with this durable, realistic hitting strip. Versatile and Durable – Carl’s HotShot Hitting Strips for Every Indoor Golfer Designed to meet the needs of all indoor golfers, Carl introduces three high-quality hitting strips: the HotShot Standard Hitting Strip, HotShot Foam Divot Strip, and HotShot Gel Hitting Strip. Each strip is crafted with precision in Milton, Wisconsin, offering durability and a professional finish that stands up to intense practice. These hitting strips are designed to fit seamlessly into any size of Carl’s HotShot Hitting Mat and can also be used with other hitting mats or flooring systems around 1.75” tall. Simply cut out a section and insert one of these strips to elevate your golf practice setup. Is your hitting area wearing down? No need to buy an entirely new mat—just replace the worn section with one of Carl’s innovative hitting strip options for an easy, affordable upgrade. Key Features True-to-Turf Feel – Experience the feedback of real grass with every hit. The gel core absorbs the impact, reducing bounce for a natural, fairway-like response. Long-Lasting Durability – Built to withstand intensive practice, the HotShot Gel Hitting Strip holds up through thousands of swings, keeping its performance intact. Gentle on Clubs – Protect your golf clubs with the shock-absorbing gel layer, designed to reduce club wear and minimize vibration. Simple Setup – Easily integrates into most golf simulators and home practice areas, offering a convenient upgrade for indoor golf enthusiasts.
-  Updated: 2026-10-16T22:25:55Z
+  Updated: 2026-11-14T18:48:28Z
   Vendor: Carl's Place
   Product Type: Hitting Mats and Strips
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/hotshot-gel-strip-logo_png.webp?v=1776544079
-  Price: $279.95 USD
+  Price: $237.95 USD
 - [Carl's HotShot Foam Divot Hitting Strip | Golf Simulator](https://www.elevatedgolfsimulators.com/products/carls-hotshot-hitting-strip-foam-divot-strip): Practice with realistic divot feedback using Carl's HotShot Foam Divot Hitting Strip. Fits most golf simulator mats. Durable, club-friendly, made in the USA.
-  Updated: 2026-10-16T22:25:55Z
+  Updated: 2026-11-14T18:48:28Z
   Vendor: Carl's Place
   Product Type: Hitting Mats and Strips
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/hotshot-foam-strip-logo_png.webp?v=1776544081
-  Price: $229.95 USD
+  Price: $195.45 USD
 - [Carl’s Place HotShot Hitting Strip - Standard](https://www.elevatedgolfsimulators.com/products/carl-s-standard-hotshot-golf-mat-hitting-strip): Carl’s Place HotShot Standard Hitting Strip – Reliable Performance for Every Swing The Carl’s Place HotShot Standard Hitting Strip is crafted for golfers who value a durable, realistic hitting surface. Built to provide consistent feedback with each swing, this premium hitting strip replicates the feel of fairway turf, making it ideal for both beginner and experienced golfers practicing indoors. Designed to withstand heavy use, the Standard Hitting Strip helps you improve your skills without leaving home. Whether you’re setting up a home golf simulator or enhancing your indoor practice area, the HotShot Standard Hitting Strip offers the stability and resilience needed for effective practice all year round. Versatile and Durable – Carl’s HotShot Hitting Strips for Every Indoor Golfer To meet the diverse needs of indoor golfers, Carl designed three exceptional hitting strips: the HotShot Standard Hitting Strip, HotShot Foam Divot Strip, and HotShot Gel Hitting Strip. Each strip is made with precision in Milton, Wisconsin, ensuring durability and a professional-grade finish suitable for all types of practice. These hitting strips fit perfectly in any size of Carl’s HotShot Hitting Mat and can be installed into other hitting mats or flooring systems around 1.75” tall. Simply cut out a section and insert one of these strips to elevate your golf setup. Worn-out hitting area? No need to buy a whole new mat—just replace the section with one of Carl’s innovative hitting strips for an affordable upgrade. Key Features Interlocking Convenience: Designed to fit perfectly into the Carl’s Place HotShot Mat Base, this strip stays securely in place during the most aggressive swings while remaining easy to swap when needed. Realistic Turf Feedback: The standard turf density is calibrated to mimic the feel of a well-maintained fairway, providing the right balance of "give" and support for both irons and woods. Superior Durability: Built to withstand thousands of high-velocity strikes, the high-quality fibers are UV-resistant and designed to resist mat "burn" from high-speed clubheads. Joint Protection: The specialized backing helps absorb the shock of impact, reducing the strain on your wrists and elbows during long practice sessions.
-  Updated: 2026-11-04T18:19:56Z
+  Updated: 2026-11-14T18:48:28Z
   Vendor: Carl's Place
   Product Type: Hitting Mats and Strips
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/hitting-mat-insert.webp?v=1776544083
-  Price: $79.95 USD
+  Price: $67.95 USD
 - [Carl's Place Curved Golf Simulator Enclosure](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure): Elevate your indoor golf with Carl’s Place Curved Golf Simulator Enclosure, offering a panoramic view and immersive design for a realistic, unmatched experience
-  Updated: 2026-10-16T22:25:56Z
+  Updated: 2026-11-14T18:48:29Z
   Vendor: Carl's Place
   Product Type: Golf Enclosures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/CGEHeroAngleLeftWithImage.webp?v=1776544087
   - [9x14 / 8' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382359290056)
     Availability: Available
-    Price: $4,894.95 USD
+    Price: $4,160.70 USD
   - [9x14 / 8' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753297608)
     Availability: Available
-    Price: $5,294.95 USD
+    Price: $4,500.70 USD
   - [9x14 / 10' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382370922696)
     Availability: Available
-    Price: $5,194.95 USD
+    Price: $4,415.70 USD
   - [9x14 / 10' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753330376)
     Availability: Available
-    Price: $5,599.95 USD
+    Price: $4,759.95 USD
   - [9x14 / 15' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382370955464)
     Availability: Available
-    Price: $5,894.95 USD
+    Price: $5,010.70 USD
   - [9x14 / 15' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753363144)
     Availability: Available
-    Price: $6,354.95 USD
+    Price: $5,401.70 USD
   - [9x15 / 8' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382359322824)
     Availability: Available
-    Price: $5,074.95 USD
+    Price: $4,313.70 USD
   - [9x15 / 8' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753395912)
     Availability: Available
-    Price: $5,074.95 USD
+    Price: $4,313.70 USD
   - [9x15 / 10' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382370988232)
     Availability: Available
-    Price: $5,294.95 USD
+    Price: $4,500.70 USD
   - [9x15 / 10' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753428680)
     Availability: Available
-    Price: $5,294.95 USD
+    Price: $4,500.70 USD
   - [9x15 / 15' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382371021000)
     Availability: Available
-    Price: $5,994.95 USD
+    Price: $5,095.70 USD
   - [9x15 / 15' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753461448)
     Availability: Available
-    Price: $5,994.95 USD
+    Price: $5,095.70 USD
   - [9.5x14.5 / 8' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382359355592)
     Availability: Available
-    Price: $4,994.95 USD
+    Price: $4,245.70 USD
   - [9.5x14.5 / 8' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753494216)
     Availability: Available
-    Price: $5,369.95 USD
+    Price: $4,564.45 USD
   - [9.5x14.5 / 10' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382371053768)
     Availability: Available
-    Price: $5,274.95 USD
+    Price: $4,483.70 USD
   - [9.5x14.5 / 10' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753526984)
     Availability: Available
-    Price: $5,674.95 USD
+    Price: $4,823.70 USD
   - [9.5x14.5 / 15' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382371086536)
     Availability: Available
-    Price: $5,979.95 USD
+    Price: $5,082.95 USD
   - [9.5x14.5 / 15' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753559752)
     Availability: Available
-    Price: $6,429.95 USD
+    Price: $5,465.45 USD
   - [9.5x16 / 8' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382359388360)
     Availability: Available
-    Price: $5,099.95 USD
+    Price: $4,334.95 USD
   - [9.5x16 / 8' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753592520)
     Availability: Available
-    Price: $5,479.95 USD
+    Price: $4,657.95 USD
   - [9.5x16 / 10' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382371119304)
     Availability: Available
-    Price: $5,384.95 USD
+    Price: $4,577.20 USD
   - [9.5x16 / 10' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753625288)
     Availability: Available
-    Price: $5,779.95 USD
+    Price: $4,912.95 USD
   - [9.5x16 / 15' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382371152072)
     Availability: Available
-    Price: $6,084.95 USD
+    Price: $5,172.20 USD
   - [9.5x16 / 15' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753658056)
     Availability: Available
-    Price: $6,514.95 USD
+    Price: $5,537.70 USD
   - [10x15 / 8' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382359421128)
     Availability: Available
-    Price: $5,074.95 USD
+    Price: $4,313.70 USD
   - [10x15 / 8' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753690824)
     Availability: Available
-    Price: $5,449.95 USD
+    Price: $4,632.45 USD
   - [10x15 / 10' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382371184840)
     Availability: Available
-    Price: $5,354.95 USD
+    Price: $4,551.70 USD
   - [10x15 / 10' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753723592)
     Availability: Available
-    Price: $5,754.95 USD
+    Price: $4,891.70 USD
   - [10x15 / 15' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382371217608)
     Availability: Available
-    Price: $6,054.95 USD
+    Price: $5,146.70 USD
   - [10x15 / 15' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753756360)
     Availability: Available
-    Price: $6,354.95 USD
+    Price: $5,401.70 USD
   - [10x17 / 8' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382359453896)
     Availability: Available
-    Price: $5,189.95 USD
+    Price: $4,411.45 USD
   - [10x17 / 8' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753789128)
     Availability: Available
-    Price: $5,569.95 USD
+    Price: $4,734.45 USD
   - [10x17 / 10' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382371250376)
     Availability: Available
-    Price: $5,469.95 USD
+    Price: $4,649.45 USD
   - [10x17 / 10' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753821896)
     Availability: Available
-    Price: $5,874.95 USD
+    Price: $4,993.70 USD
   - [10x17 / 15' / Premium Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44382371283144)
     Availability: Available
-    Price: $6,169.95 USD
+    Price: $5,244.45 USD
   - [10x17 / 15' / High-Contrast Grey Screen](https://www.elevatedgolfsimulators.com/products/carls-place-curved-golf-simulator-enclosure?variant=44764753854664)
     Availability: Available
-    Price: $6,629.95 USD
+    Price: $5,635.45 USD
 - [GolfIN IDRA II Golf Launch Monitor](https://www.elevatedgolfsimulators.com/products/golfin-idra-ii-golf-launch-monitor): IDRA II Golf Launch Monitor delivers tour-level accuracy with Doppler radar & high-speed cameras. Perfect for indoor simulators & outdoor practice. Order now!
   Updated: 2026-10-16T22:25:56Z
   Vendor: GolfIN
@@ -1642,12 +1580,12 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
     Availability: Available
     Price: $160.00 USD
 - [Carl's Place Golf Room Floor Tiles, Qty 5](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-floor-tiles-qty-5): Transform your studio with Carl’s Place Golf Room Floor Tiles. Durable, interlocking, and aesthetic, these tiles protect your floor and elevate your sim's look.
-  Updated: 2026-10-16T22:25:57Z
+  Updated: 2026-11-14T18:48:29Z
   Vendor: Carl's Place
   Product Type: Enclosure Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carlfloortile7.webp?v=1776544110
-  Price: $250.00 USD
+  Price: $212.50 USD
 - [Carl's Place Carpet Floor Tiles, Qty 25](https://www.elevatedgolfsimulators.com/products/carls-place-carpet-floor-tiles): Carl’s Place Carpet Golf Room Floor Tiles – Comfort & Performance for Your Simulator Setup Create the perfect golf simulator space.
   Updated: 2026-10-16T22:25:57Z
   Vendor: Carl's Place
@@ -1771,186 +1709,186 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
     Availability: Available
     Price: $280.00 USD
 - [Carl's Place Golf Room Curtain](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain): Carl’s Place Golf Room Curtain – Flexible Protection for Your Space Enhance your golf simulator setup with the Carl’s Place Golf Room Curtain.
-  Updated: 2026-10-16T22:25:59Z
+  Updated: 2026-11-14T18:48:29Z
   Vendor: Carl's Place
   Product Type: Enclosure Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/curtain-valence-hero.webp?v=1776544121
   - [84" / 48" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457682600136)
     Availability: Available
-    Price: $325.00 USD
+    Price: $276.25 USD
   - [84" / 48" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565074120)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $325.00 USD
+    Price: $276.25 USD
   - [84" / 96" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457682632904)
     Availability: Available
-    Price: $375.00 USD
+    Price: $318.75 USD
   - [84" / 96" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565106888)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $375.00 USD
+    Price: $318.75 USD
   - [84" / 144" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457682665672)
     Availability: Available
-    Price: $425.00 USD
+    Price: $361.25 USD
   - [84" / 144" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565139656)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $425.00 USD
+    Price: $361.25 USD
   - [87" / 48" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457682698440)
     Availability: Available
-    Price: $325.00 USD
+    Price: $276.25 USD
   - [87" / 48" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565172424)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $325.00 USD
+    Price: $276.25 USD
   - [87" / 96" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457682731208)
     Availability: Available
-    Price: $375.00 USD
+    Price: $318.75 USD
   - [87" / 96" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565205192)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $275.00 USD
+    Price: $233.75 USD
   - [87" / 144" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457682763976)
     Availability: Available
-    Price: $425.00 USD
+    Price: $361.25 USD
   - [87" / 144" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565237960)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $425.00 USD
+    Price: $361.25 USD
   - [90" / 48" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457682796744)
     Availability: Available
-    Price: $325.00 USD
+    Price: $276.25 USD
   - [90" / 48" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565270728)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $325.00 USD
+    Price: $276.25 USD
   - [90" / 96" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457682829512)
     Availability: Available
-    Price: $375.00 USD
+    Price: $318.75 USD
   - [90" / 96" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565303496)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $375.00 USD
+    Price: $318.75 USD
   - [90" / 144" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457682862280)
     Availability: Available
-    Price: $425.00 USD
+    Price: $361.25 USD
   - [90" / 144" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565336264)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $425.00 USD
+    Price: $361.25 USD
   - [93" / 48" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457682895048)
     Availability: Available
-    Price: $325.00 USD
+    Price: $276.25 USD
   - [93" / 48" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565369032)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $325.00 USD
+    Price: $276.25 USD
   - [93" / 96" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457682927816)
     Availability: Available
-    Price: $375.00 USD
+    Price: $318.75 USD
   - [93" / 96" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565401800)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $375.00 USD
+    Price: $318.75 USD
   - [93" / 144" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457682960584)
     Availability: Available
-    Price: $425.00 USD
+    Price: $361.25 USD
   - [93" / 144" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565434568)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $425.00 USD
+    Price: $361.25 USD
   - [96" ( Ideal for 8' ceilings ) / 48" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457682993352)
     Availability: Available
-    Price: $325.00 USD
+    Price: $276.25 USD
   - [96" ( Ideal for 8' ceilings ) / 48" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565467336)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $325.00 USD
+    Price: $276.25 USD
   - [96" ( Ideal for 8' ceilings ) / 96" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457683026120)
     Availability: Available
-    Price: $375.00 USD
+    Price: $318.75 USD
   - [96" ( Ideal for 8' ceilings ) / 96" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565500104)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $375.00 USD
+    Price: $318.75 USD
   - [96" ( Ideal for 8' ceilings ) / 144" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457683058888)
     Availability: Available
-    Price: $425.00 USD
+    Price: $361.25 USD
   - [96" ( Ideal for 8' ceilings ) / 144" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565532872)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $425.00 USD
+    Price: $361.25 USD
   - [99" / 48" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457683091656)
     Availability: Available
-    Price: $325.00 USD
+    Price: $276.25 USD
   - [99" / 48" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565565640)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $325.00 USD
+    Price: $276.25 USD
   - [99" / 96" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457683124424)
     Availability: Available
-    Price: $375.00 USD
+    Price: $318.75 USD
   - [99" / 96" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565598408)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $375.00 USD
+    Price: $318.75 USD
   - [99" / 144" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457683157192)
     Availability: Available
-    Price: $425.00 USD
+    Price: $361.25 USD
   - [99" / 144" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565631176)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $425.00 USD
+    Price: $361.25 USD
   - [102" ( Ideal for 8.5' ceilings ) / 48" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457683189960)
     Availability: Available
-    Price: $325.00 USD
+    Price: $276.25 USD
   - [102" ( Ideal for 8.5' ceilings ) / 48" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565663944)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $325.00 USD
+    Price: $276.25 USD
   - [102" ( Ideal for 8.5' ceilings ) / 96" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457683222728)
     Availability: Available
-    Price: $375.00 USD
+    Price: $318.75 USD
   - [102" ( Ideal for 8.5' ceilings ) / 96" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565696712)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $375.00 USD
+    Price: $318.75 USD
   - [102" ( Ideal for 8.5' ceilings ) / 144" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457683255496)
     Availability: Available
-    Price: $425.00 USD
+    Price: $361.25 USD
   - [102" ( Ideal for 8.5' ceilings ) / 144" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565729480)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $425.00 USD
+    Price: $361.25 USD
   - [105" / 48" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457683288264)
     Availability: Available
-    Price: $325.00 USD
+    Price: $276.25 USD
   - [105" / 48" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565762248)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $325.00 USD
+    Price: $276.25 USD
   - [105" / 96" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457683321032)
     Availability: Available
-    Price: $375.00 USD
+    Price: $318.75 USD
   - [105" / 96" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565795016)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $375.00 USD
+    Price: $318.75 USD
   - [105" / 144" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457683353800)
     Availability: Available
-    Price: $425.00 USD
+    Price: $361.25 USD
   - [105" / 144" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565827784)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $425.00 USD
+    Price: $361.25 USD
   - [108" ( Ideal for 9' ceilings ) / 48" / Fabric](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44457683386568)
     Availability: Available
-    Price: $325.00 USD
+    Price: $276.25 USD
   - [108" ( Ideal for 9' ceilings ) / 48" / Net](https://www.elevatedgolfsimulators.com/products/carls-place-golf-room-curtain?variant=44740565860552)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/net-curtain-hanging_1_30.webp?v=1776544125
-    Price: $325.00 USD
+    Price: $276.25 USD
 - [Carl's Place Hardware Kit For Ceiling Mount](https://www.elevatedgolfsimulators.com/products/carls-place-hardware-kit-for-ceiling-mount): Easily install your golf room curtain with Carl’s Place Hardware Kit! Complete with all necessary mounting hardware for a secure, smooth setup. Shop now!
   Updated: 2026-10-16T22:25:59Z
   Vendor: Carl's Place
@@ -1967,38 +1905,38 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
     Availability: Available
     Price: $175.00 USD
 - [Carl's Place Curtain Valance](https://www.elevatedgolfsimulators.com/products/carls-place-curtain-valance): Carl’s Place Curtain Valance – A Professional Look for Your Golf Simulator Enhance the appearance of your golf simulator with the Carl’s Place Curtain Valance.
-  Updated: 2026-10-16T22:25:59Z
+  Updated: 2026-11-14T18:48:30Z
   Vendor: Carl's Place
   Product Type: Enclosure Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carlcurtain6.webp?v=1776544125
   - [48"](https://www.elevatedgolfsimulators.com/products/carls-place-curtain-valance?variant=44457699180744)
     Availability: Available
-    Price: $100.00 USD
+    Price: $85.00 USD
   - [96"](https://www.elevatedgolfsimulators.com/products/carls-place-curtain-valance?variant=44457699213512)
     Availability: Available
-    Price: $110.00 USD
+    Price: $93.50 USD
   - [144"](https://www.elevatedgolfsimulators.com/products/carls-place-curtain-valance?variant=44457699246280)
     Availability: Available
-    Price: $120.00 USD
+    Price: $102.00 USD
 - [Carl's Place HotShot Golf Mat Base](https://www.elevatedgolfsimulators.com/products/carls-place-hotshot-golf-mat-base): Carl’s Place HotShot Golf Mat Base – Stable & Durable Foundation for Your Golf Mat - designed to provide a stable, cushioned foundation for your hitting mat.
-  Updated: 2026-10-16T22:25:59Z
+  Updated: 2026-11-14T18:48:30Z
   Vendor: Carl's Place
   Product Type: Mat Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0653/4640/4552/files/carlmatbase6.webp?v=1776544127
   - [4' x 5'](https://www.elevatedgolfsimulators.com/products/carls-place-hotshot-golf-mat-base?variant=44457724379336)
     Availability: Available
-    Price: $425.00 USD
+    Price: $361.25 USD
   - [4' x 9'](https://www.elevatedgolfsimulators.com/products/carls-place-hotshot-golf-mat-base?variant=44457724444872)
     Availability: Available
-    Price: $750.00 USD
+    Price: $637.50 USD
   - [5' x 8'](https://www.elevatedgolfsimulators.com/products/carls-place-hotshot-golf-mat-base?variant=44457724477640)
     Availability: Available
-    Price: $875.00 USD
+    Price: $743.75 USD
   - [6' x 10'](https://www.elevatedgolfsimulators.com/products/carls-place-hotshot-golf-mat-base?variant=44457724510408)
     Availability: Available
-    Price: $1,450.00 USD
+    Price: $1,232.50 USD
 - [Carl's Place Indoor Golf Simulator Tees](https://www.elevatedgolfsimulators.com/products/carls-place-indoor-golf-simulator-tees): Practice with Carl’s Place Golf Simulator Tees, durable tees designed for simulator mats and indoor practice, delivering consistent height and reliability.
   Updated: 2026-10-18T14:29:06Z
   Vendor: Carl's Place
@@ -2048,22 +1986,22 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
 ## Collections
 
 - [Indoor Golf Simulators](https://www.elevatedgolfsimulators.com/collections/golf-simulators): Shop top-rated home golf simulators for 2026. 4K luxury builds, garage kits, and turnkey packages from Uneekor and SkyTrak. Free USA Shipping on most orders.
-  Updated: 2026-10-31T16:20:35Z
+  Updated: 2026-11-12T22:32:23Z
   Total Products: 52
 - [Golf Simulator Impact Screens](https://www.elevatedgolfsimulators.com/collections/golf-simulator-impact-screens): High-definition, low-noise golf impact screens for 180+ mph ball speeds. Shop premium poly-spacer and 4K-ready replacement screens. Built to last.
-  Updated: 2026-10-26T03:00:13Z
+  Updated: 2026-11-14T18:48:25Z
   Total Products: 13
 - [Golf Simulator Enclosures](https://www.elevatedgolfsimulators.com/collections/golf-simulator-enclosures): Durable, high-impact golf simulator enclosures for home & commercial use. Featuring Carl's Place and SimSpace kits. Safely contain shanks.
-  Updated: 2026-11-04T19:20:47Z
+  Updated: 2026-11-14T20:17:45Z
   Total Products: 28
 - [Hitting Mats](https://www.elevatedgolfsimulators.com/collections/golf-hitting-mats): Protect your joints with premium golf hitting mats. Realistic turf feel, injury prevention & durable designs from SIGPRO & Carl's Place. Shop with Free Shipping
-  Updated: 2026-11-02T12:09:27Z
+  Updated: 2026-11-14T18:48:01Z
   Total Products: 33
 - [Golf Swing Cameras](https://www.elevatedgolfsimulators.com/collections/golf-swing-cameras): Capture every detail of your golf swing with high-definition swing cameras, designed to provide crystal-clear feedback and improve your game. Perfect for all skill levels.
-  Updated: 2026-08-08T15:40:14Z
+  Updated: 2026-11-14T18:48:01Z
   Total Products: 4
 - [Carl's Place](https://www.elevatedgolfsimulators.com/collections/carls-place): Custom Carl's Place enclosures and premium impact screens. Shop DIY & Pro C-Series kits, HotShot mats, and 4K-ready screens. Expert support & Free Shipping
-  Updated: 2026-11-05T12:10:52Z
+  Updated: 2026-11-14T18:49:01Z
   Total Products: 33
 - [Big Moss](https://www.elevatedgolfsimulators.com/collections/big-moss): Experience the "True Roll" of Big Moss. Shop V2 putting greens, GST simulator turf, and True Launch hitting mats. The best short game surfaces.
   Updated: 2026-07-10T13:23:38Z
@@ -2084,22 +2022,22 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   Updated: 2026-10-31T16:20:45Z
   Total Products: 15
 - [Golf Projector Enclosures](https://www.elevatedgolfsimulators.com/collections/golf-projector-enclosures): Durable golf projector enclosures protect your gear while enhancing your simulation setup. Ensure longevity and optimal performance with our top-quality enclosures.
-  Updated: 2026-07-10T13:23:36Z
+  Updated: 2026-11-14T18:48:01Z
   Total Products: 2
 - [Chipping and Putting Greens](https://www.elevatedgolfsimulators.com/collections/chipping-and-putting-greens): Versatile chipping and putting greens for practice and improvement. Perfect your short game with high-quality, realistic surfaces designed for all skill levels.
-  Updated: 2026-11-02T12:09:27Z
+  Updated: 2026-11-14T18:48:01Z
   Total Products: 29
 - [Overhead Golf Launch Monitors](https://www.elevatedgolfsimulators.com/collections/overhead-launch-monitors): Clear the floor with a ceiling-mounted launch monitor. Ideal for left and right-handed play. Shop Uneekor EYE XO and ProTee VX for home simulation.
-  Updated: 2026-08-08T15:55:23Z
+  Updated: 2026-11-08T17:22:38Z
   Total Products: 11
 - [Portable Golf Launch Monitors](https://www.elevatedgolfsimulators.com/collections/portable-launch-monitors): Take your data to the range. Shop portable launch monitors like the Uneekor EYE Mini or the SkyTrak. Accurate ball flight and club data in a compact design.
-  Updated: 2026-09-20T11:11:45Z
+  Updated: 2026-11-08T17:23:59Z
   Total Products: 13
 - [Golf Simulator Projectors](https://www.elevatedgolfsimulators.com/collections/golf-simulator-projectors): Eliminate shadows with short-throw golf projectors. Shop 4K laser models from BenQ for high-lumen optics for lifelike indoor golf.
   Updated: 2026-10-31T16:20:45Z
   Total Products: 15
 - [Ball Trays](https://www.elevatedgolfsimulators.com/collections/ball-trays): Organize and store your golf balls with our durable ball trays. Keep your practice area tidy and efficient with easy access to your golf balls.
-  Updated: 2026-07-13T11:11:49Z
+  Updated: 2026-11-14T18:49:00Z
   Total Products: 3
 - [Launch Monitor Protective Cases](https://www.elevatedgolfsimulators.com/collections/launch-monitor-protective-cases): Protect your launch monitors with our rugged cases. Ensure durability and safe storage for your valuable equipment during travel or storage.
   Updated: 2026-07-10T13:24:16Z
@@ -2108,7 +2046,7 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   Updated: 2026-08-02T02:54:14Z
   Total Products: 3
 - [Uneekor](https://www.elevatedgolfsimulators.com/collections/uneekor): Shop the full Uneekor lineup including EYE MINI LITE, EYE XO2, and the new AIMY AI platform. High-speed camera precision for home sims.
-  Updated: 2026-09-20T11:11:45Z
+  Updated: 2026-11-08T17:25:09Z
   Total Products: 41
 - [Rapsodo](https://www.elevatedgolfsimulators.com/collections/rapsodo): Shop the Rapsodo MLM2PRO with Impact Vision and Dual-Doppler radar. 30,000+ virtual courses & tour-accurate spin data.
   Updated: 2026-07-10T13:23:43Z
@@ -2117,7 +2055,7 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   Updated: 2026-10-26T03:00:11Z
   Total Products: 14
 - [Shop Indoor Golf](https://www.elevatedgolfsimulators.com/collections/shop-indoor-golf): Experience the "Signature" quality of SIG10 & SIG12 enclosures and SIGPRO Softy mats. Full range of 2026 SIG accessories. Best-in-class home sim gear. Shop now!
-  Updated: 2026-10-26T04:59:08Z
+  Updated: 2026-11-14T20:17:45Z
   Total Products: 94
 - [G-Trak](https://www.elevatedgolfsimulators.com/collections/g-trak): Transform your garage into a pro hitting bay in seconds. Shop G-Trak retractable screens with patented track-mounting technology. Easy DIY setup.
   Updated: 2026-07-10T13:23:48Z
@@ -2132,16 +2070,16 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   Updated: 2026-08-08T15:55:23Z
   Total Products: 1
 - [Uneekor Golf Simulators](https://www.elevatedgolfsimulators.com/collections/uneekor-golf-simulators): Discover Uneekor Golf Simulators for unmatched accuracy, instant feedback, and pro-level performance. Elevate your indoor golf game today!
-  Updated: 2026-08-08T15:41:11Z
+  Updated: 2026-11-08T17:25:09Z
   Total Products: 22
 - [Best  Products](https://www.elevatedgolfsimulators.com/collections/best--products)
-  Updated: 2026-11-05T12:10:52Z
+  Updated: 2026-11-14T20:17:45Z
   Total Products: 355
 - [Newest Products](https://www.elevatedgolfsimulators.com/collections/newest-products)
-  Updated: 2026-11-05T12:10:52Z
+  Updated: 2026-11-14T20:17:45Z
   Total Products: 355
 - [Uneekor Launch Monitors](https://www.elevatedgolfsimulators.com/collections/uneekor-launch-monitors): Shop Uneekor launch monitors at Elevated Golf Simulators. Premium optical tracking for home and commercial golf simulators. Free shipping available.
-  Updated: 2026-09-20T11:11:45Z
+  Updated: 2026-11-08T17:23:59Z
   Total Products: 7
 - [GolfIn Launch Monitor](https://www.elevatedgolfsimulators.com/collections/golfin-launch-monitor): Experience the IDRA II Launch Monitor for precise golf data, instant feedback, and pro-level performance. Elevate your game with cutting-edge tracking technology!
   Updated: 2026-08-08T15:55:23Z
@@ -2153,7 +2091,7 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   Updated: 2026-08-08T16:59:10Z
   Total Products: 4
 - [Hitting Strips](https://www.elevatedgolfsimulators.com/collections/hitting-strips): Upgrade your golf simulator with Insert Hitting Strips! Designed for durability and realism, they provide a true fairway feel for every shot. Shop now!
-  Updated: 2026-11-05T12:10:52Z
+  Updated: 2026-11-14T18:48:13Z
   Total Products: 11
 - [Golf Net Packages](https://www.elevatedgolfsimulators.com/collections/golf-net-packages): Find the perfect golf net package for your setup! Durable, high-quality nets designed for safe, realistic practice at home or indoors. Shop now!
   Updated: 2026-08-23T17:22:29Z
@@ -2162,16 +2100,16 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   Updated: 2026-11-04T12:10:29Z
   Total Products: 3
 - [Enclosure Accessories](https://www.elevatedgolfsimulators.com/collections/enclosure-accessories): Upgrade your golf simulator with enclosure accessories! From side barrier netting to projector mounts, find everything you need for a safe, pro-level setup. Shop now!
-  Updated: 2026-11-04T12:10:29Z
+  Updated: 2026-11-14T18:49:01Z
   Total Products: 39
 - [Mat Accessories](https://www.elevatedgolfsimulators.com/collections/mat-accessories): Keep your golf simulator organized and optimized with ball holders, mat bases, and ball trays! Improve convenience, stability, and efficiency for better practice sessions.
-  Updated: 2026-07-13T11:11:49Z
+  Updated: 2026-11-14T18:49:00Z
   Total Products: 5
 - [Retractable Simulator Screens](https://www.elevatedgolfsimulators.com/collections/retractable-simulator-screens): Maximize your space with a retractable golf simulator screen! Enjoy a high-quality impact surface that rolls away when not in use. Perfect for multi-purpose rooms.
-  Updated: 2026-11-04T19:20:47Z
+  Updated: 2026-11-12T22:31:35Z
   Total Products: 3
 - [Carl's Place Indoor Golf Enclosures](https://www.elevatedgolfsimulators.com/collections/carls-place-indoor-golf-enclosures): Transform your space with Carl’s Place Golf Simulator Enclosures! Durable, easy to set up, and designed for realistic play. Build your dream golf setup today!
-  Updated: 2026-07-10T13:23:51Z
+  Updated: 2026-11-14T18:48:13Z
   Total Products: 2
 - [Rain or Shine Enclosures](https://www.elevatedgolfsimulators.com/collections/rain-or-shine-enclosures): Upgrade your golf simulator with the Rain or Shine SwingBay! Durable, high-quality enclosure for realistic play in any space. Perfect for home or commercial setups.
   Updated: 2026-07-10T13:23:33Z
@@ -2180,10 +2118,10 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   Updated: 2026-07-10T13:23:40Z
   Total Products: 1
 - [Enclosure Packages](https://www.elevatedgolfsimulators.com/collections/enclosure-packages): Turn-Key Enclosure Setups for your indoor golf simulator dreams.
-  Updated: 2026-10-26T03:00:21Z
+  Updated: 2026-11-14T20:12:43Z
   Total Products: 6
 - [Golf Launch Monitors](https://www.elevatedgolfsimulators.com/collections/golf-launch-monitors): Track every stat with tour-accurate golf launch monitors. Compare camera vs. radar tech from Uneekor and SkyTrak. Perfect for home sims or the range.
-  Updated: 2026-11-04T19:23:14Z
+  Updated: 2026-11-08T17:23:59Z
   Total Products: 28
 - [ForeSight Sports](https://www.elevatedgolfsimulators.com/collections/foresight-sports): Shop Foresight Sports launch monitors for 2026. Compare the GC3, GC3S, QuadMAX, and Falcon. Tour-level Quadrascopic accuracy for home & pro sims. Shop now!
   Updated: 2026-10-26T03:00:23Z
@@ -2198,25 +2136,25 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   Updated: 2026-07-10T13:24:07Z
   Total Products: 4
 - [Launch Monitors: $1,000 - $5,000](https://www.elevatedgolfsimulators.com/collections/launch-monitors-1000-5000): $1,001-$5,000 Launch Monitors—mid-range golf tech with pro accuracy. Track spin & club data for your setup. Shop now!
-  Updated: 2026-11-04T19:23:50Z
-  Total Products: 10
+  Updated: 2026-11-08T17:23:59Z
+  Total Products: 11
 - [Launch Monitors $5,000+](https://www.elevatedgolfsimulators.com/collections/launch-monitors-5-000): $5,000+ Launch Monitors—elite golf tech for pros. Track spin, club data & more with top accuracy. Shop now!
-  Updated: 2026-11-04T19:23:51Z
-  Total Products: 14
+  Updated: 2026-11-08T17:23:11Z
+  Total Products: 13
 - [Golf Simulators Under $10,000](https://www.elevatedgolfsimulators.com/collections/golf-simulators-under-10000): Get pro-level accuracy on a budget. Shop home golf simulators under $10k. Featuring Uneekor, SkyTrak+, and ForeSightSports DIY kits available
-  Updated: 2026-10-31T16:20:35Z
-  Total Products: 30
+  Updated: 2026-11-12T22:32:23Z
+  Total Products: 33
 - [Golf Simulators: $10,000 - $15,000](https://www.elevatedgolfsimulators.com/collections/golf-simulators-10k-to-15k): Elevate your game with premium overhead golf simulators. Features ceiling-mounted accuracy, 4K visuals, and ambidextrous play. Shop top brands with Free Shipping!
-  Updated: 2026-10-31T16:20:33Z
-  Total Products: 28
+  Updated: 2026-11-08T17:24:32Z
+  Total Products: 25
 - [Golf Simulators: $15,000+](https://www.elevatedgolfsimulators.com/collections/golf-simulators-15000): The ultimate home country club. Shop luxury 4K golf simulators from Foresight and Trackman. Tour-level accuracy and custom architectural finishes. Shop now!
-  Updated: 2026-10-26T03:00:58Z
-  Total Products: 18
+  Updated: 2026-11-08T17:23:21Z
+  Total Products: 14
 - [Putting Turf](https://www.elevatedgolfsimulators.com/collections/putting-turf): Shop putting turfs for golf simulators. Realistic, durable, and ideal for perfecting your short game at home or in commercial spaces.
   Updated: 2026-07-10T13:24:16Z
   Total Products: 4
 - [SurfThing](https://www.elevatedgolfsimulators.com/collections/surfthing): Power your bay with SurfThing SG3 PCs and 4K touchscreens. Featuring RTX 5080 graphics, 2026 Intel Ultra chips, and industrial touch displays. Shop now!
-  Updated: 2026-07-10T13:24:33Z
+  Updated: 2026-11-08T16:34:04Z
   Total Products: 9
 - [Computer Monitors](https://www.elevatedgolfsimulators.com/collections/computer-monitors): Control your bay with 4K golf simulator touchscreens. Industrial-grade monitors from SurfThing & TouchScreen Guru. Optimized for GSPro & E6. Shop now!
   Updated: 2026-07-10T13:24:33Z
@@ -2264,29 +2202,29 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
   Updated: 2026-10-31T16:20:35Z
   Total Products: 4
 - [The SportScreen](https://www.elevatedgolfsimulators.com/collections/the-sportscreen): Shop TheSportScreen Vanish retractable bays and Parlour Series fixed enclosures. 2026 models with 3-ply impact screens and 4K clarity.
-  Updated: 2026-11-04T19:20:47Z
+  Updated: 2026-11-12T22:31:35Z
   Total Products: 3
 - [All Products (ChatGPT-AI Product Description)](https://www.elevatedgolfsimulators.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-11-05T12:10:52Z
+  Updated: 2026-11-14T20:17:45Z
   Total Products: 355
 - [Master's Ready  Event](https://www.elevatedgolfsimulators.com/collections/masters-ready--event): Master’s  Event featuring limited-time deals on golf simulators, launch monitor, screens, enclosures, and accessories from top brands.
-  Updated: 2026-10-26T03:00:21Z
+  Updated: 2026-11-14T20:12:43Z
   Total Products: 12
 - [SIG Golf Enclosures](https://www.elevatedgolfsimulators.com/collections/sig-golf-enclosures): Browse SIG Golf simulator enclosures at Elevated Golf Simulators. Durable, customizable enclosure kits for any room size. Shop and build your setup.
-  Updated: 2026-10-26T03:00:21Z
+  Updated: 2026-11-14T20:17:45Z
   Total Products: 16
 - [Mega Menu - Featured Products](https://www.elevatedgolfsimulators.com/collections/mega-menu-featured-products)
   Updated: 2026-08-08T15:55:23Z
   Total Products: 1
 - [Golf Simulator Computers](https://www.elevatedgolfsimulators.com/collections/golf-simulator-computers): Eliminate shot lag with 4K-ready golf simulator PCs. Optimized for GSPro, E6, and TGC 2019. Featuring NVIDIA RTX graphics for lifelike indoor golf. Shop now!
-  Updated: 2026-07-10T13:24:05Z
+  Updated: 2026-11-08T16:34:04Z
   Total Products: 5
 - [Summer ](https://www.elevatedgolfsimulators.com/collections/elevated-golf-summer-): Shop the Summer  Now! 15% off TheSportScreen VANISH, VANISH LITE, PARLOUR SERIES  golf simulator enclosures! AccuGolf Launch Monitor 20% off.
   Updated: 2026-10-30T20:37:39Z
   Total Products: 0
-- [Black Friday ](https://www.elevatedgolfsimulators.com/collections/black-friday-): Save up to 20% on top golf simulator brands this Black Friday sales season including Carls Place, Uneekor, AccuGolf, Shop Indoor Golf and The Sport Screen.
-  Updated: 2026-11-04T19:23:51Z
-  Total Products: 1
+- [Holdiday ](https://www.elevatedgolfsimulators.com/collections/black-friday-): Save up to 20% on top golf simulator brands this Holiday sales season including Carls Place, Uneekor, AccuGolf, Shop Indoor Golf and The Sport Screen.
+  Updated: 2026-11-14T20:18:26Z
+  Total Products: 55
 
 ## Blogs
 
@@ -2669,6 +2607,18 @@ Elevated Golf Simulators is an online retailer specializing in golf simulators, 
     Author: EGS Creative Team
   - [Comparing Projectors for Stunning Golf Simulator Visuals](https://www.elevatedgolfsimulators.com/blogs/main/comparing-projectors-for-stunning-golf-simulator-visuals): Comparing Projectors for Stunning Golf Simulator Visuals
     Updated: 2026-11-04T09:03:57Z
+    Author: EGS Creative Team
+  - [How Carl's Place HotShot Golf Mat Base Enhances Your Home Setup with Rapsodo Supported Golf Simulators Putting Greens and More](https://www.elevatedgolfsimulators.com/blogs/main/how-carls-place-hotshot-golf-mat-base-enhances-your-home-setup-with-rapsodo-supported-golf-simulators-putting-greens-and-more): How Carl's Place HotShot Golf Mat Base Enhances Your Home Setup with Rapsodo Supported Golf Simulators Putting Greens and More
+    Updated: 2026-11-08T00:04:41Z
+    Author: EGS Creative Team
+  - [Impact Screens for Golf Simulators: Choose the Right One](https://www.elevatedgolfsimulators.com/blogs/main/impact-screens-for-golf-simulators-choose-the-right-one): Impact Screens for Golf Simulators: Choose the Right One
+    Updated: 2026-11-09T09:03:49Z
+    Author: EGS Creative Team
+  - [Maximize Your Golf Experience At Home with a Simulator](https://www.elevatedgolfsimulators.com/blogs/main/maximize-your-golf-experience-at-home-with-a-simulator): Maximize Your Golf Experience At Home with a Simulator
+    Updated: 2026-11-11T09:03:28Z
+    Author: EGS Creative Team
+  - [Unlock Your Indoor Golf Experience with The SportScreen Vanish LITE: Perfect for Golf Simulators Putting Greens and More using Rapsodo and Golf Simulator Projectors](https://www.elevatedgolfsimulators.com/blogs/main/unlock-your-indoor-golf-experience-with-the-sportscreen-vanish-lite-perfect-for-golf-simulators-putting-greens-and-more-using-rapsodo-and-golf-simulator-projectors): Unlock Your Indoor Golf Experience with The SportScreen Vanish LITE: Perfect for Golf Simulators Putting Greens and More using Rapsodo and Golf Simulator Projectors
+    Updated: 2026-11-15T00:03:46Z
     Author: EGS Creative Team
 
 ## Store Pages
