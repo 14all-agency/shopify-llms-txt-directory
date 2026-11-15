@@ -6,7 +6,7 @@
 - Timezone: America/Merida
 - Created At: 2026-02-07T20:34:51Z
 - Contact Email: blacklionbotanicals@gmail.com
-- Updated At: 2026-11-07T00:39:41.693Z
+- Updated At: 2026-11-15T00:38:05.055Z
 
 ## Products
 
@@ -45,24 +45,27 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/image_1.png?v=1787625758
   Price: $8.88 USD
-- [Black Lion Botanicals E-Gift Card — Wellness Gift for Any Occasion](https://blacklionbotanicals.com/products/black-lion-botanicals-e-gift-card-a-gateway-to-wellness-🌿✨): Give the gift of healing with a Black Lion Botanicals e-gift card. Perfect for Reiki sessions, crystals, herbs & more. From $10 to $100.
-  Updated: 2026-10-30T20:16:19Z
+- [E-Gift Card | Black Lion Botanicals](https://blacklionbotanicals.com/products/e-gift-card): Give the gift of healing with a Black Lion Botanicals e-gift card. Perfect for Reiki sessions, herbs & more. From $25 to $297.
+  Updated: 2026-11-14T23:20:17Z
   Vendor: Black Lion Botanicals
   Product Type: Gift Card
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/Hereisthephoto-realisticimageofagiftcardelegantlyplacedonalovelywoodenboholuxurytable_beautifullydecoratedwithcandles_crystals_andotherbohemianluxuryaccents.Thescenecapturestheess.jpg?v=1787625593
-  - [$10.00](https://blacklionbotanicals.com/products/black-lion-botanicals-e-gift-card-a-gateway-to-wellness-🌿✨?variant=49443804479725)
-    Availability: Available
-    Price: $10.00 USD
-  - [$25.00](https://blacklionbotanicals.com/products/black-lion-botanicals-e-gift-card-a-gateway-to-wellness-🌿✨?variant=49443804512493)
+  Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/black-lion-botanicals-e-gift-card.jpg?v=1794677771
+  - [$25.00](https://blacklionbotanicals.com/products/e-gift-card?variant=49443804512493)
     Availability: Available
     Price: $25.00 USD
-  - [$50.00](https://blacklionbotanicals.com/products/black-lion-botanicals-e-gift-card-a-gateway-to-wellness-🌿✨?variant=49443804545261)
+  - [$55.00](https://blacklionbotanicals.com/products/e-gift-card?variant=68313761612013)
     Availability: Available
-    Price: $50.00 USD
-  - [$100.00](https://blacklionbotanicals.com/products/black-lion-botanicals-e-gift-card-a-gateway-to-wellness-🌿✨?variant=49443804578029)
+    Price: $55.00 USD
+  - [$100.00](https://blacklionbotanicals.com/products/e-gift-card?variant=49443804578029)
     Availability: Available
     Price: $100.00 USD
+  - [$150.00](https://blacklionbotanicals.com/products/e-gift-card?variant=68313761644781)
+    Availability: Available
+    Price: $150.00 USD
+  - [$297.00](https://blacklionbotanicals.com/products/e-gift-card?variant=68313761677549)
+    Availability: Available
+    Price: $297.00 USD
 - [Manifestation Creation Kit — Ritual Tools for Intention Setting | Black Lion Botanicals](https://blacklionbotanicals.com/products/manifestation-creation-kit): Manifest your dreams with our curated Manifestation Creation Kit. Crystals, herbs & ritual tools for powerful intention setting. $75 at Black Lion Botanicals.
   Updated: 2026-10-30T22:16:28Z
   Vendor: Black Lion Botanicals
@@ -401,88 +404,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/nettle1ozpic.jpg?v=1787625648
     Price: $7.88 USD
-- [Earth Day Goddess Accent Mug — Floral Forest Illustration | Black Lion Botanicals](https://blacklionbotanicals.com/products/earth-day-goddess-accent-mug-floral-forest-illustration): Sip in style with our Earth Day Goddess Accent Mug. Beautiful floral forest illustration celebrating nature & the divine feminine. Shop Black Lion Botanicals.
-  Updated: 2026-10-30T20:38:25Z
-  Vendor: Printify
-  Product Type: Mug
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/4080136880972642583_2048.jpg?v=1787625648
-  - [11oz / Black](https://blacklionbotanicals.com/products/earth-day-goddess-accent-mug-floral-forest-illustration?variant=49796554031341)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/4080136880972642583_2048.jpg?v=1787625648
-    Price: $14.99 USD
-  - [11oz / Navy](https://blacklionbotanicals.com/products/earth-day-goddess-accent-mug-floral-forest-illustration?variant=49796554064109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/6877600801420389825_2048.jpg?v=1787625648
-    Price: $14.99 USD
-  - [11oz / Pink](https://blacklionbotanicals.com/products/earth-day-goddess-accent-mug-floral-forest-illustration?variant=49796554096877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/7159441296169742107_2048.jpg?v=1787625650
-    Price: $14.99 USD
-  - [11oz / Red](https://blacklionbotanicals.com/products/earth-day-goddess-accent-mug-floral-forest-illustration?variant=49796554129645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/13387262647825193132_2048.jpg?v=1787625651
-    Price: $14.99 USD
-  - [11oz / Light Blue](https://blacklionbotanicals.com/products/earth-day-goddess-accent-mug-floral-forest-illustration?variant=49796554162413)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/6002819751133747263_2048.jpg?v=1787625652
-    Price: $14.99 USD
-  - [11oz / Orange](https://blacklionbotanicals.com/products/earth-day-goddess-accent-mug-floral-forest-illustration?variant=49796554195181)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/16205031423287086603_2048.jpg?v=1787625652
-    Price: $14.99 USD
-  - [11oz / Purple](https://blacklionbotanicals.com/products/earth-day-goddess-accent-mug-floral-forest-illustration?variant=49796554227949)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/8905442372218748778_2048.jpg?v=1787625653
-    Price: $14.99 USD
-  - [11oz / Yellow](https://blacklionbotanicals.com/products/earth-day-goddess-accent-mug-floral-forest-illustration?variant=49796554260717)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/13576044165760546124_2048.jpg?v=1787625655
-    Price: $14.99 USD
-- [Earth Day Nature Goddess T-Shirt — Illustrated Eco Art Tee | Black Lion Botanicals](https://blacklionbotanicals.com/products/happy-earth-day-2024-nature-goddess-t-shirt-earth-day-illustration): Wear your love for the Earth with our Nature Goddess T-Shirt. Beautiful Earth Day illustration on a soft, wearable tee. Shop at Black Lion Botanicals.
-  Updated: 2026-10-30T19:28:45Z
-  Vendor: Printify
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/1490655186240629795_2048.jpg?v=1787625684
-  - [White / S](https://blacklionbotanicals.com/products/happy-earth-day-2024-nature-goddess-t-shirt-earth-day-illustration?variant=49796554391789)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/1490655186240629795_2048.jpg?v=1787625684
-    Price: $24.99 USD
-  - [White / M](https://blacklionbotanicals.com/products/happy-earth-day-2024-nature-goddess-t-shirt-earth-day-illustration?variant=49796554424557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/1490655186240629795_2048.jpg?v=1787625684
-    Price: $25.99 USD
-  - [White / L](https://blacklionbotanicals.com/products/happy-earth-day-2024-nature-goddess-t-shirt-earth-day-illustration?variant=49796554457325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/1490655186240629795_2048.jpg?v=1787625684
-    Price: $24.99 USD
-  - [White / XL](https://blacklionbotanicals.com/products/happy-earth-day-2024-nature-goddess-t-shirt-earth-day-illustration?variant=49796554490093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/1490655186240629795_2048.jpg?v=1787625684
-    Price: $24.99 USD
-  - [White / 2XL](https://blacklionbotanicals.com/products/happy-earth-day-2024-nature-goddess-t-shirt-earth-day-illustration?variant=49796554522861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/1490655186240629795_2048.jpg?v=1787625684
-    Price: $25.99 USD
-  - [White / 3XL](https://blacklionbotanicals.com/products/happy-earth-day-2024-nature-goddess-t-shirt-earth-day-illustration?variant=49796554555629)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/1490655186240629795_2048.jpg?v=1787625684
-    Price: $27.99 USD
-- [Earth Day 2026 Goddess Tote Bag — Eco Nature Canvas Bag | Black Lion Botanicals](https://blacklionbotanicals.com/products/earth-day-2026-goddess-illustration-tote-bag-eco-nature-canvas): Carry your values with our Earth Day 2026 Goddess Illustration Tote Bag. Eco-friendly canvas with stunning nature art. Shop at Black Lion Botanicals.
-  Updated: 2026-08-29T01:49:46Z
-  Vendor: Printify
-  Product Type: Bags
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/4173496465833589169_2048.jpg?v=1787625687
-  Price: $20.99 USD
-- [Gaia Earth Day Tote Bag | Eco Goddess Illustration | Black Lion Botanicals](https://blacklionbotanicals.com/products/gaia-earth-day-illustration-tote-bag-eco-planet-artwork): Carry the earth with you. Heavy-weight cotton canvas tote featuring a Gaia goddess illustration. Durable, eco-conscious, and perfect for everyday use.
-  Updated: 2026-08-29T01:49:46Z
-  Vendor: Printify
-  Product Type: Bags
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/9379560118594439199_2048.jpg?v=1787625692
-  Price: $20.99 USD
 - [Black Cat Eating Ramen Tee — Cute Anime Cat Noodle Bowl Shirt | Black Lion Botanicals](https://blacklionbotanicals.com/products/black-cat-eating-ramen-tee-cute-anime-cat-noodle-bowl-shirt): Wear your love for cats & ramen with this adorable anime-inspired tee. Soft, fun & perfect for cat lovers. Shop kawaii apparel at Black Lion Botanicals.
   Updated: 2026-10-30T20:45:42Z
   Vendor: Printify
@@ -666,50 +587,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/20260421042730-1f13d3a6-8eb9-652e-9e7d-0ee8a964aa93.png?v=1787625740
   Price: $20.99 USD
-- [Earth Mother Gaia Canvas Lunch Bag | Eco Tote | Black Lion Botanicals](https://blacklionbotanicals.com/products/earth-mother-gaia-canvas-lunch-bag-earth-day-eco-tote): Carry your midday ritual with purpose. Gaia-illustrated cotton canvas lunch bag with roll-top closure & shoulder strap. Durable, washable & earth-conscious.
-  Updated: 2026-10-30T19:44:41Z
-  Vendor: Printify
-  Product Type: Bags
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/13311402993672072422_2048.jpg?v=1787625741
-  Price: $18.99 USD
-- [Juneteenth Starburst T-Shirt 2026 — Celebrate Freedom | Black Lion Botanicals](https://blacklionbotanicals.com/products/juneteenth-starburst-t-shirt-juneteenth-2026): Honor Juneteenth with this bold, sunset-toned starburst tee. Soft 100% ring-spun cotton, OEKO-TEX® , and made to wear with pride at every commemoration and gathering.
-  Updated: 2026-08-29T01:49:48Z
-  Vendor: Printify
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/20260603043547-1f15f05b-1408-64fa-b73e-6aa379664c0f.png?v=1787625750
-  - [White / S](https://blacklionbotanicals.com/products/juneteenth-starburst-t-shirt-juneteenth-2026?variant=50065366057197)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/20260603043547-1f15f05b-1408-64fa-b73e-6aa379664c0f.png?v=1787625750
-    Price: $28.99 USD
-  - [White / M](https://blacklionbotanicals.com/products/juneteenth-starburst-t-shirt-juneteenth-2026?variant=50065366089965)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/20260603043547-1f15f05b-1408-64fa-b73e-6aa379664c0f.png?v=1787625750
-    Price: $28.99 USD
-  - [White / L](https://blacklionbotanicals.com/products/juneteenth-starburst-t-shirt-juneteenth-2026?variant=50065366122733)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/20260603043547-1f15f05b-1408-64fa-b73e-6aa379664c0f.png?v=1787625750
-    Price: $28.99 USD
-  - [White / XL](https://blacklionbotanicals.com/products/juneteenth-starburst-t-shirt-juneteenth-2026?variant=50065366155501)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/20260603043547-1f15f05b-1408-64fa-b73e-6aa379664c0f.png?v=1787625750
-    Price: $28.99 USD
-  - [White / 2XL](https://blacklionbotanicals.com/products/juneteenth-starburst-t-shirt-juneteenth-2026?variant=50065366188269)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/20260603043547-1f15f05b-1408-64fa-b73e-6aa379664c0f.png?v=1787625750
-    Price: $30.99 USD
-  - [White / 3XL](https://blacklionbotanicals.com/products/juneteenth-starburst-t-shirt-juneteenth-2026?variant=50065366221037)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/20260603043547-1f15f05b-1408-64fa-b73e-6aa379664c0f.png?v=1787625750
-    Price: $32.99 USD
-- [Juneteenth Flag Celebration Cotton Canvas Tote Bag](https://blacklionbotanicals.com/products/juneteenth-flag-celebration-cotton-canvas-tote-bag-juneteenth-tote): Shop the Juneteenth Flag Celebration Cotton Canvas Tote Bag — 12 oz heavy canvas, reinforced handles, and a meaningful design for everyday use.
-  Updated: 2026-08-29T01:49:49Z
-  Vendor: Printify
-  Product Type: Bags
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/8424741410264442628_2048.jpg?v=1787625751
-  Price: $20.99 USD
 - [Ceremonial Matcha Powder](https://blacklionbotanicals.com/products/ceremonial-matcha-powder): Pure, stone-ground ceremonial matcha from Kyoto. Smooth, umami-rich, and naturally energizing — perfect for daily wellness rituals, traditional preparation, or a creamy matcha latte.
   Updated: 2026-10-30T19:54:05Z
   Vendor: Black Lion Botanicals
@@ -717,13 +594,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/1781667787392-generated-label-image-0.jpg?v=1787625754
   Price: $39.00 USD
-- [Mid-Year Energy & Clarity Alignment — Reiki + Tarot Reading](https://blacklionbotanicals.com/products/mid-year-energy-clarity-alignment): Remote Reiki clearing, 3-card Tarot reading & written energetic evaluation delivered to your inbox in 48 hours. Reset and realign for the second half of the year.
-  Updated: 2026-09-11T00:46:35Z
-  Vendor: Black Lion Botanicals
-  Product Type: Service
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/distance-reiki-session.png?v=1787625770
-  Price: $77.00 USD
 - [Empathetic Listening Session — Compassionate 1-on-1 Support](https://blacklionbotanicals.com/products/empathetic-listening-session): A 30-minute virtual session offering a safe, judgment-free space to be truly heard. Book compassionate, empathetic listening support with Black Lion Botanicals.
   Updated: 2026-08-29T01:49:49Z
   Vendor: Black Lion Botanicals
@@ -738,17 +608,17 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/Here_is_the_photo-realistic_image_of_a_gift_card_elegantly_placed_on_a_lovely_wooden_boho_luxury_table_beautifully_decorated_with_candles_crystals_and_other_bohemian_luxury_accents._T.jpg?v=1787097418
   Price: $150.00 USD
-- [Harvest Moon Ritual of Activation — Distance Session](https://blacklionbotanicals.com/products/harvest-moon-ritual-of-activation-distance-session): Reserve a $26 distance reiki ritual of activation for the September 26 harvest moon. Name one intention, and I’ll hold the work for you.
-  Updated: 2026-09-16T04:48:23Z
+- [Full Moon Ritual of Activation | Black Lion Botanicals](https://blacklionbotanicals.com/products/harvest-moon-ritual-of-activation-distance-session): Join the Full Moon Ritual of Activation on November 23, 2026. A $26 group distance Reiki ritual centered on one intention of your choosing.
+  Updated: 2026-11-08T07:05:07Z
   Vendor: Black Lion Botanicals
   Product Type: Ritual Session
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/pexels-gabby-k-20419206.jpg?v=1789444308
   Price: $26.00 USD
 - [Cozy Cat Morning Bundle | Matcha, Mug & Throw | Black Lion](https://blacklionbotanicals.com/products/anime-ramen-cat-cozy-morning-bundle-matcha-mug-throw): Ceremonial matcha, a black cat ramen mug, and a plush ramen cat throw come together in one cozy morning ritual. Shop Black Lion Botanicals.
-  Updated: 2026-10-01T19:24:21Z
+  Updated: 2026-11-08T06:57:01Z
   Vendor: Black Lion Botanicals
-  Product Type: 
+  Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/cozy-matcha-morning-ritual-bundle.png?v=1789995645
   - [Black](https://blacklionbotanicals.com/products/anime-ramen-cat-cozy-morning-bundle-matcha-mug-throw?variant=50720912703725)
@@ -824,7 +694,7 @@
   Updated: 2026-08-19T22:53:58Z
   Total Products: 3
 - [Matcha](https://blacklionbotanicals.com/collections/matcha): - Black Lion Botanicals
-  Updated: 2026-09-21T15:44:31Z
+  Updated: 2026-11-07T18:56:57Z
   Total Products: 4
 - [Yoga Gear](https://blacklionbotanicals.com/collections/yoga-gear): - Black Lion Botanicals
   Updated: 2026-08-19T22:54:11Z
@@ -860,7 +730,7 @@
   Updated: 2026-08-19T22:55:01Z
   Total Products: 1
 - [Juneteenth](https://blacklionbotanicals.com/collections/juneteenth): - Black Lion Botanicals
-  Updated: 2026-08-19T22:55:02Z
+  Updated: 2026-11-14T23:27:04Z
   Total Products: 2
 - [Swimwear;Fashion;Summer Wear](https://blacklionbotanicals.com/collections/swimwear-fashion-summer-wear): - Black Lion Botanicals
   Updated: 2026-08-19T22:55:08Z
@@ -917,7 +787,7 @@
   Updated: 2026-08-19T22:56:03Z
   Total Products: 1
 - [Services](https://blacklionbotanicals.com/collections/services): Book personalized energy healing and holistic wellness services. Expert sessions to restore balance, enhance vitality, and support your spiritual journey.
-  Updated: 2026-09-15T16:57:42Z
+  Updated: 2026-11-14T23:29:14Z
   Total Products: 9
 - [Retreats & Experiences](https://blacklionbotanicals.com/collections/retreats-experiences): Join our intimate wellness retreats combining Reiki, herbalism, and manifestation practices. Transform your life in paradise with expert-led healing experiences.
   Updated: 2026-09-02T00:00:21Z
@@ -926,13 +796,16 @@
   Updated: 2026-08-25T04:10:59Z
   Total Products: 8
 - [Products](https://blacklionbotanicals.com/collections/premium-herbal-remedies): Explore our collection of premium herbal remedies and botanicals at Black Lion Botanicals. High quality products for your holistic health journey.
-  Updated: 2026-09-23T21:33:32Z
+  Updated: 2026-11-14T17:01:29Z
   Total Products: 30
 - [Bundles](https://blacklionbotanicals.com/collections/bundles): Shop healing bundles from Black Lion Botanicals. Reiki sessions, manifestation journals & personalized affirmations bundled at exceptional value.
-  Updated: 2026-09-21T15:44:31Z
+  Updated: 2026-11-07T18:56:57Z
   Total Products: 2
 - [The Wandering Market](https://blacklionbotanicals.com/collections/the-wandering-market): Original designs by Black Lion Botanicals — playful, whimsical goods made to lift your mood and spark joy. Things we love that we know you will love too.
-  Updated: 2026-09-21T15:44:31Z
+  Updated: 2026-11-14T19:42:35Z
+  Total Products: 6
+- [Holiday Gifts](https://blacklionbotanicals.com/collections/holiday-gifts): A little comfort. Something that says, “I thought of you.” Explore holiday gifts for slow mornings, cozy evenings, and a little time to reset. From matcha and candlelight to herbal baths, distance Reiki, and e-gift cards, this collection brings together thoughtful ways to care for the people you love, yourself included.
+  Updated: 2026-11-14T19:28:32Z
   Total Products: 9
 
 ## Blogs
@@ -1401,6 +1274,22 @@
     Updated: 2026-11-05T13:01:06Z
     Author: Black Lion Botanicals
     Tags: ancestral healing, benefits of distance reiki, distance reiki, energy healing, energy healing for women, healing, holistic healing for women, how distance reiki works, manifestation coaching, nervous system healing, reiki, reiki practitioner online, spiritual healing, women wellness
+  - [Unveiling Manifestation Outcomes with Distance Reiki for Women](https://blacklionbotanicals.com/blogs/news/unveiling-manifestation-outcomes-with-distance-reiki-for-women): Unveiling Manifestation Outcomes with Distance Reiki for Women
+    Updated: 2026-11-07T13:01:05Z
+    Author: Black Lion Botanicals
+    Tags: ancestral healing, benefits of distance reiki, distance healing, distance reiki, distance reiki for manifestation, energy healing for women, energy work, holistic healing for women, manifestation, manifestation coaching, nervous system healing, reiki, reiki practitioner online, spiritual growth, women
+  - [Online Reiki Practitioners: Transforming Energy Healing for Women's Holistic Needs](https://blacklionbotanicals.com/blogs/news/online-reiki-practitioners-transforming-energy-healing-for-womens-holistic-needs): Online Reiki Practitioners: Transforming Energy Healing for Women's Holistic Needs
+    Updated: 2026-11-10T13:01:24Z
+    Author: Black Lion Botanicals
+    Tags: ancestral healing, distance reiki, energy, energy healing for women, healing, holistic energy healing, holistic healing for women, manifestation coaching, nervous system healing, online practitioners, reiki, reiki practitioner online, virtual reiki sessions, women's wellness
+  - [Ancestral Healing Wisdom for Women Through Distance Reiki Practices](https://blacklionbotanicals.com/blogs/news/ancestral-healing-wisdom-for-women-through-distance-reiki-practices): Ancestral Healing Wisdom for Women Through Distance Reiki Practices
+    Updated: 2026-11-12T13:01:05Z
+    Author: Black Lion Botanicals
+    Tags: ancestors, ancestral healing, distance reiki, energy healing for women, energy healing practices, healing, holistic healing for women, manifestation coaching, nervous system healing, reiki, reiki practitioner online, spiritual healing techniques, women's wellness
+  - [Overcoming Nervous System Stress with the Power of Distance Reiki](https://blacklionbotanicals.com/blogs/news/overcoming-nervous-system-stress-with-the-power-of-distance-reiki): Overcoming Nervous System Stress with the Power of Distance Reiki
+    Updated: 2026-11-14T13:00:50Z
+    Author: Black Lion Botanicals
+    Tags: ancestral healing, distance reiki, distance reiki benefits, energy healing, energy healing for women, healing practices, holistic healing for women, holistic therapy, manifestation coaching, nervous system, nervous system healing, overcoming stress naturally, reiki, reiki practitioner online, stress relief
 
 ## Store Pages
 
@@ -1410,8 +1299,6 @@
   Updated: 2026-02-07T22:15:33Z
 - [Wellness  Program - Partner With Black Lion Botanicals](https://blacklionbotanicals.com/pages/partner-with-us): Join Our Wellness Community At Black Lion Botanicals, we believe in the power of holistic wellness and conscious living. We're looking for passiona...
   Updated: 2026-03-06T02:26:29Z
-- [Da Nang Healing Retreat 2027 - Reiki, Herbalism & Manifestation in Vietnam](https://blacklionbotanicals.com/pages/danang-healing-retreat-2027): Transform Your Life in Paradise Da Nang Healing Retreat | January 2027 A Sacred Journey of Reiki, Herbal Wisdom & Manifestation Awaken Your Highest...
-  Updated: 2026-03-06T05:43:50Z
 - [Mother's Day Gifts She'll Love – Black Lion Botanicals](https://blacklionbotanicals.com/pages/mothers-day-gift-guide): For the Mom Who Deserves the World 🌸 She pours into everyone around her — it's time to pour back. Discover our curated collection of gifts that nur...
   Updated: 2026-05-05T20:51:00Z
 - [Summer Botanical Reset Guide](https://blacklionbotanicals.com/pages/summer-botanical-reset-guide)
