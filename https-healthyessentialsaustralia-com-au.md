@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2020-04-21T06:32:26Z
 - Contact Email: info@heaustralia.com.au
-- Updated At: 2026-11-08T00:27:44.075Z
+- Updated At: 2026-11-15T00:28:45.840Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/products/BlessedByNatureAntioxidantEyeSerum20ml2.png?v=1639112375
   Price: $20.64 AUD
 - [Blessed By Nature Soothing Cream Cleanser 125ml | Vegan](https://healthyessentialsaustralia.com.au/products/blessed-by-nature-soothing-cream-cleanser-125ml): Order Blessed By Nature Soothing Cream Cleanser 125ml. Vegan, cruelty free & paraben free facial cleanser. Shop online at Healthy Essentials Australia.
-  Updated: 2026-10-21T09:56:47Z
+  Updated: 2026-11-11T06:57:46Z
   Vendor: Blessed By Nature
   Product Type: Health & Beauty - Facial Cleansers & Exfoliators
   Availability: Available
@@ -74,14 +74,14 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/products/BlessedByNatureSoothingComfortMoisturiser100ml2.png?v=1639112789
   Price: $18.89 AUD
 - [Blessed By Nature Beauty Elixir Botanical Body Lotion 500ml](https://healthyessentialsaustralia.com.au/products/blessed-by-nature-beauty-elixir-botanical-body-lotion-500ml): Discover Blessed By Nature Beauty Elixir Botanical Body Lotion 500ml. Vegan body & hand moisturiser. Order online from Healthy Essentials Australia.
-  Updated: 2026-10-21T11:50:57Z
+  Updated: 2026-11-13T03:53:35Z
   Vendor: Blessed By Nature
   Product Type: Personal Care - Body & Hand Moisturisers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/products/BlessedByNatureBotanicalBodyLotion500ml.png?v=1639112390
   Price: $18.89 AUD
 - [Blessed By Nature Nutrient Rich Hand & Nail Cream 125ml](https://healthyessentialsaustralia.com.au/products/blessed-by-nature-nutrient-rich-hand-nail-cream-125ml): Discover Blessed By Nature Nutrient Rich Hand & Nail Cream 125ml. Vegan body & hand moisturiser. Shop online at Healthy Essentials Australia.
-  Updated: 2026-10-27T04:42:16Z
+  Updated: 2026-11-10T21:57:28Z
   Vendor: Blessed By Nature
   Product Type: Personal Care - Body & Hand Moisturisers
   Availability: Available
@@ -403,7 +403,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Dr_Superfoods_Cherry_Bombs_Dark_Chocolate_125g.png?v=1752646441
   Price: $12.38 AUD
 - [Dr Superfoods Organic Dark Chocolate Raspberries 125g](https://healthyessentialsaustralia.com.au/products/dr-superfoods-organic-dark-chocolate-raspberries-125g): Discover Dr Superfoods Organic Dark Chocolate Raspberries 125g. Vegan & gluten free candy & chocolate. Available at Healthy Essentials Australia.
-  Updated: 2026-10-21T05:20:00Z
+  Updated: 2026-11-14T06:08:16Z
   Vendor: Dr Superfoods
   Product Type: Food & Pantry - Chocolate-Coated Fruit & Nuts
   Availability: Available
@@ -445,7 +445,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Koala_Eco_Bathroom_Cleaner_500ml.png?v=1752648918
   Price: $11.95 AUD
 - [House of Biskota Almond & Chocolate Biscuits 200g | Cookies](https://healthyessentialsaustralia.com.au/products/house-of-biskota-almond-chocolate-biscuits-200g): Discover House of Biskota Almond & Chocolate Biscuits 200g. Vegan & gluten free cookies & sweet biscuits. Available at Healthy Essentials Australia.
-  Updated: 2026-11-02T21:05:36Z
+  Updated: 2026-11-14T08:08:21Z
   Vendor: House of Biskota
   Product Type: Food & Pantry - Cookies & Sweet Biscuits
   Availability: Available
@@ -466,7 +466,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/House_of_Biskota_Macadamia_Cranberry_200g.png?v=1752711080
   Price: $8.10 AUD
 - [House of Biskota Melting Moments 200g | Gluten Free & Vegan](https://healthyessentialsaustralia.com.au/products/house-of-biskota-melting-moments-200g): Order House of Biskota Melting Moments 200g. Vegan, gluten free & dairy free cookies & sweet biscuits. Available at Healthy Essentials Australia.
-  Updated: 2026-10-21T05:19:45Z
+  Updated: 2026-11-10T09:21:37Z
   Vendor: House of Biskota
   Product Type: Food & Pantry - Cookies & Sweet Biscuits
   Availability: Available
@@ -480,21 +480,21 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/House_of_Biskota_Tiramisu_Kisses_200g.png?v=1752640299
   Price: $8.10 AUD
 - [Dalhousie Organic Blueberry Jam 285g | Gluten Free & Vegan](https://healthyessentialsaustralia.com.au/products/dalhousie-organic-blueberry-jam-285g): Order Dalhousie Organic Blueberry Jam 285g. Vegan, gluten free & non-GMO spread. Order from Healthy Essentials Australia, your online health food store.
-  Updated: 2026-10-21T05:19:36Z
+  Updated: 2026-11-14T14:09:26Z
   Vendor: Dalhousie
   Product Type: Food & Pantry - Honey, Jams & Conserves
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Dalhousie_Organic_Blueberry_Jam_285g.png?v=1752643838
   Price: $8.25 AUD
 - [Byron Bay Cookies Gluten Free Triple Choc Fudge Cookie Pouch 100g](https://healthyessentialsaustralia.com.au/products/byron-bay-cookies-gf-triple-choc-fudge-cookie-pouch-100g): Order Byron Bay Cookies Gluten Free Triple Choc Fudge Cookie Pouch 100g. Vegan cookies & sweet biscuits. Available at Healthy Essentials Australia.
-  Updated: 2026-11-02T03:45:42Z
+  Updated: 2026-11-12T15:23:16Z
   Vendor: Byron Bay Cookies
   Product Type: Food & Pantry - Cookies & Sweet Biscuits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Byron_Bay_Cookies_GF_Triple_Choc_Fudge_Cookie_Pouch_100g.png?v=1752640639
   Price: $6.00 AUD
 - [Byron Bay Cookies Gluten Free White Choc Macadamia Cookie Pouch 100g](https://healthyessentialsaustralia.com.au/products/byron-bay-cookies-gf-white-choc-macadamia-cookie-pouch-100g): Shop Byron Bay Cookies Gluten Free White Choc Macadamia Cookie Pouch 100g. Vegan cookies & sweet biscuits. Order online from Healthy Essentials Australia.
-  Updated: 2026-10-21T05:19:33Z
+  Updated: 2026-11-08T01:43:26Z
   Vendor: Byron Bay Cookies
   Product Type: Food & Pantry - Cookies & Sweet Biscuits
   Availability: Available
@@ -515,14 +515,14 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/products/BBCGFWCMSWCookie.jpg?v=1659936881
   Price: $4.00 AUD
 - [Byron Bay Cookies Gluten Free Sticky Date & Ginger Cookie 60g](https://healthyessentialsaustralia.com.au/products/byron-bay-cookies-gf-sticky-date-ginger-cookie-60g): Shop Byron Bay Cookies Gluten Free Sticky Date & Ginger Cookie 60g. Vegan & non-GMO cookies & sweet biscuits. Available at Healthy Essentials Australia.
-  Updated: 2026-10-31T05:35:26Z
+  Updated: 2026-11-10T22:16:06Z
   Vendor: Byron Bay Cookies
   Product Type: Food & Pantry - Cookies & Sweet Biscuits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/products/BBCSDGCookieSW_ec962a7f-0cb4-4688-a7f2-9f8fd39d8542.jpg?v=1659936865
   Price: $4.00 AUD
 - [Byron Bay Cookies Gluten Free Vegan Maple Pecan Cookie 60g](https://healthyessentialsaustralia.com.au/products/byron-bay-cookies-gf-vegan-maple-pecan-cookie-60g): Discover Byron Bay Cookies Gluten Free Vegan Maple Pecan Cookie 60g. Non-GMO cookies & sweet biscuits. Order online from Healthy Essentials Australia.
-  Updated: 2026-10-29T10:11:06Z
+  Updated: 2026-11-08T01:43:27Z
   Vendor: Byron Bay Cookies
   Product Type: Food & Pantry - Cookies & Sweet Biscuits
   Availability: Available
@@ -585,7 +585,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/products/q_45.jpg?v=1639121056
   Price: $15.95 AUD
 - [Organic Times White Chocolate Raspberry Licorice 150g](https://healthyessentialsaustralia.com.au/products/organic-times-white-chocolate-raspberry-licorice-150g): Buy Organic Times White Chocolate Raspberry Licorice 150g. Non-GMO & Australian-owned candy & chocolate. Available at Healthy Essentials Australia.
-  Updated: 2026-11-06T01:40:47Z
+  Updated: 2026-11-11T21:55:16Z
   Vendor: Organic Times
   Product Type: Food & Pantry - Chocolate-Coated Fruit & Nuts
   Availability: Available
@@ -662,7 +662,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Alter_Eco_Organic_Chocolate_Deep_Dark_Salted_Burnt_Caramel_80g.png?v=1752645991
   Price: $7.99 AUD
 - [Alter Eco Organic Chocolate Deepest Dark Super Blackout 75g](https://healthyessentialsaustralia.com.au/products/alter-eco-organic-chocolate-deepest-dark-super-blackout-75g): Buy Alter Eco Organic Chocolate Deepest Dark Super Blackout 75g. Vegan, gluten free & non-GMO dark chocolate. Shop online at Healthy Essentials Australia.
-  Updated: 2026-10-30T01:49:35Z
+  Updated: 2026-11-08T01:43:26Z
   Vendor: Alter Eco
   Product Type: Food & Pantry - Dark Chocolate Bars & Blocks
   Availability: Available
@@ -725,28 +725,28 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Harvest_Box_Strawberry_Milkshake_45g.png?v=1752707147
   Price: $2.75 AUD
 - [Harvest Box Dipped Almonds Classic Dark Chocolate 40g](https://healthyessentialsaustralia.com.au/products/harvest-box-dipped-almonds-classic-dark-chocolate-40g): Order Harvest Box Dipped Almonds Classic Dark Chocolate 40g. Vegan, gluten free & non-GMO nuts & seeds. Available at Healthy Essentials Australia.
-  Updated: 2026-10-21T05:18:54Z
+  Updated: 2026-11-08T01:43:26Z
   Vendor: Harvest Box
   Product Type: Food & Pantry - Chocolate-Coated Fruit & Nuts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Harvest_Box_Dipped_Almonds_Classic_Dark_Chocolate_40g.png?v=1752646598
   Price: $2.75 AUD
 - [Harvest Box Dipped Almonds Raspberry & Dark Chocolate 40g](https://healthyessentialsaustralia.com.au/products/harvest-box-dipped-almonds-raspberry-dark-chocolate-40g): Discover Harvest Box Dipped Almonds Raspberry & Dark Chocolate 40g. Vegan, gluten free & non-GMO nuts & seeds. Shop online at Healthy Essentials Australia.
-  Updated: 2026-10-21T05:18:53Z
+  Updated: 2026-11-14T07:39:27Z
   Vendor: Harvest Box
   Product Type: Food & Pantry - Chocolate-Coated Fruit & Nuts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Harvest_Box_Dipped_Almonds_Raspberry_Dark_Chocolate_40g.png?v=1752646624
   Price: $2.75 AUD
 - [Harvest Box BBQ Crunch 50g | Gluten Free & Vegan](https://healthyessentialsaustralia.com.au/products/harvest-box-bbq-crunch-50g): Buy Harvest Box BBQ Crunch 50g. Vegan, gluten free & non-GMO crunchy snack. Shop online at Healthy Essentials Australia, your online health food store.
-  Updated: 2026-10-21T05:18:53Z
+  Updated: 2026-11-10T00:56:16Z
   Vendor: Harvest Box
   Product Type: Food & Pantry - Chips & Popcorn
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Harvest_Box_BBQ_Crunch_50g.png?v=1752641109
   Price: $2.75 AUD
 - [Harvest Box We Love Nuts 45g | Gluten Free & Vegan](https://healthyessentialsaustralia.com.au/products/harvest-box-we-love-nuts-45g): Buy Harvest Box We Love Nuts 45g. Vegan, gluten free & non-GMO nuts & seeds. Order from Healthy Essentials Australia, your online health food store.
-  Updated: 2026-11-01T12:20:46Z
+  Updated: 2026-11-14T07:39:27Z
   Vendor: Harvest Box
   Product Type: Food & Pantry - Nuts, Seeds & Trail Mix
   Availability: Available
@@ -822,13 +822,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Brookfarm_Mt_Bogong_Walkabout_Mix_35g.png?v=1752706994
   Price: $2.85 AUD
-- [Brookfarm Nightcap Ranges Walkabout Mix 35g | Gluten Free](https://healthyessentialsaustralia.com.au/products/brookfarm-nightcap-ranges-walkabout-mix-35g): Discover Brookfarm Nightcap Ranges Walkabout Mix 35g. Vegan, gluten free & non-GMO nuts & seeds. Order online from Healthy Essentials Australia.
-  Updated: 2026-10-21T05:45:55Z
-  Vendor: Brookfarm
-  Product Type: Food & Pantry - Nuts, Seeds & Trail Mix
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Brookfarm_Nightcap_Ranges_Walkabout_Mix_35g.png?v=1752643563
-  Price: $2.85 AUD
 - [Ceres Organics Sriracha Thai Chilli Chickpea Crisps 100g](https://healthyessentialsaustralia.com.au/products/ceres-organics-sriracha-thai-chilli-chickpea-crisps-100g): Discover Ceres Organics Sriracha Thai Chilli Chickpea Crisps 100g. Vegan, gluten free & non-GMO crunchy snack. Available at Healthy Essentials Australia.
   Updated: 2026-10-21T05:18:20Z
   Vendor: Ceres Organics
@@ -844,7 +837,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Ceres_Organics_Himalayan_Chickpea_Crisps_100g.png?v=1752643766
   Price: $4.50 AUD
 - [Ceres Organics Turmeric & Black Pepper Chickpea Crisps 100g](https://healthyessentialsaustralia.com.au/products/ceres-organics-turmeric-black-pepper-chickpea-crisps-100g): Buy Ceres Organics Turmeric & Black Pepper Chickpea Crisps 100g. Vegan & gluten free crunchy snack. Order online from Healthy Essentials Australia.
-  Updated: 2026-11-04T05:53:05Z
+  Updated: 2026-11-08T01:43:26Z
   Vendor: Ceres Organics
   Product Type: Food & Pantry - Chips & Popcorn
   Availability: Available
@@ -858,21 +851,21 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Ceres_Organics_Cheezy_Onion_Charm_Crispy_Rice_Clouds_50g.png?v=1752643226
   Price: $3.70 AUD
 - [Ceres Organics Salt & Vinegar Smash Crispy Rice Clouds 50g](https://healthyessentialsaustralia.com.au/products/ceres-organics-salt-vinegar-smash-crispy-rice-clouds-50g): Discover Ceres Organics Salt & Vinegar Smash Crispy Rice Clouds 50g. Vegan & gluten free puffed rice cakes. Shop online at Healthy Essentials Australia.
-  Updated: 2026-10-21T05:18:16Z
+  Updated: 2026-11-12T10:15:32Z
   Vendor: Ceres Organics
   Product Type: Food & Pantry - Rice, Pasta & Noodles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Ceres_Organics_Salt_Vinegar_Smash_Crispy_Rice_Clouds_50g.png?v=1752642753
   Price: $3.70 AUD
 - [Ceres Organics Espresso Coconut Wafer Rolls 80g | Cookies](https://healthyessentialsaustralia.com.au/products/ceres-organics-espresso-coconut-wafer-rolls-80g): Discover Ceres Organics Espresso Coconut Wafer Rolls 80g. Vegan, gluten free & dairy free cookies. Order online from Healthy Essentials Australia.
-  Updated: 2026-11-07T09:42:13Z
+  Updated: 2026-11-14T04:34:55Z
   Vendor: Ceres Organics
   Product Type: Food & Pantry - Crackers & Savoury Biscuits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Ceres_Organics_Espresso_Coconut_Wafer_Rolls_80g.png?v=1752643420
   Price: $3.83 AUD
 - [Ceres Organics Original Coconut Wafer Rolls 80g | Cookies](https://healthyessentialsaustralia.com.au/products/ceres-organics-original-coconut-wafer-rolls-80g-1): Buy Ceres Organics Original Coconut Wafer Rolls 80g. Vegan, gluten free & dairy free cookies. Order online from Healthy Essentials Australia.
-  Updated: 2026-11-01T04:20:16Z
+  Updated: 2026-11-14T04:34:56Z
   Vendor: Ceres Organics
   Product Type: Food & Pantry - Crackers & Savoury Biscuits
   Availability: Available
@@ -886,14 +879,14 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Kellys_Candy_Co_Dusted_Turkish_Delight_275g.png?v=1752709398
   Price: $7.95 AUD
 - [Kellys Candy Co Peanut Brittle 75g | Gluten Free & Vegan](https://healthyessentialsaustralia.com.au/products/kellys-candy-co-peanut-brittle-85g): Buy Kellys Candy Co Peanut Brittle 75g. Vegan, gluten free & dairy free confectionery. Shop online at Healthy Essentials Australia.
-  Updated: 2026-11-01T12:20:46Z
+  Updated: 2026-11-14T07:39:26Z
   Vendor: Kellys Candy Co
   Product Type: Food & Pantry - Confectionery & Sweets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Kellys_Candy_Co_Peanut_Brittle_75g.png?v=1752641016
   Price: $3.95 AUD
 - [Kellys Candy Co Caramel Fudge 75g | Gluten Free & Dairy Free](https://healthyessentialsaustralia.com.au/products/kellys-candy-co-caramel-fudge-100g): Buy Kellys Candy Co Caramel Fudge 75g. Gluten free, dairy free & non-GMO nougat & sweet treat. Order online from Healthy Essentials Australia.
-  Updated: 2026-11-01T12:20:46Z
+  Updated: 2026-11-14T07:39:22Z
   Vendor: Kellys Candy Co
   Product Type: Food & Pantry - Nougat, Fudge & Turkish Delight
   Availability: Available
@@ -914,21 +907,21 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Piranha_Snaps_Smokehouse_BBQ_25g.png?v=1752639492
   Price: $2.00 AUD
 - [Wallaby Thins Dark Chocolate with Almonds, Coconut 130g](https://healthyessentialsaustralia.com.au/products/wallaby-thins-dark-chocolate-with-almonds-coconut-cranberries-130g): Order Wallaby Thins Dark Chocolate with Almonds, Coconut & Cranberries 130g. Gluten free candy & chocolate. Available at Healthy Essentials Australia.
-  Updated: 2026-10-21T05:17:49Z
+  Updated: 2026-11-12T04:37:15Z
   Vendor: Wallaby
   Product Type: Food & Pantry - Chocolate-Coated Fruit & Nuts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Wallaby_Thins_Dark_Chocolate_with_Almonds_Coconut_Cranberries_130g.png?v=1752707358
   Price: $6.85 AUD
 - [Handsome Shave Gel 175ml | Vegan & Cruelty Free](https://healthyessentialsaustralia.com.au/products/handsome-shave-gel-175ml): Discover Handsome Shave Gel 175ml. Vegan, cruelty free & paraben free grooming product. Shop online at Healthy Essentials Australia.
-  Updated: 2026-10-21T05:17:42Z
+  Updated: 2026-11-10T09:53:15Z
   Vendor: Handsome
   Product Type: Health & Beauty - Men's Grooming
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Handsome_Shave_Gel_175ml.png?v=1752708199
   Price: $19.89 AUD
 - [Handsome 2 in 1 Shampoo 200ml | Vegan & Cruelty Free](https://healthyessentialsaustralia.com.au/products/handsome-2-in-1-shampoo-200ml): Discover Handsome 2 in 1 Shampoo 200ml. Vegan, cruelty free & paraben free shampoo. Available at Healthy Essentials Australia - online health food store.
-  Updated: 2026-10-24T03:08:11Z
+  Updated: 2026-11-10T09:48:26Z
   Vendor: Handsome
   Product Type: Personal Care - Hair Care
   Availability: Available
@@ -942,7 +935,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/products/handsomehandwash500mlfop.png?v=1639118186
   Price: $20.89 AUD
 - [Handsome Facial Moisturiser 100ml | Vegan & Cruelty Free](https://healthyessentialsaustralia.com.au/products/handsome-facial-moisturiser-100ml): Buy Handsome Facial Moisturiser 100ml. Vegan, cruelty free & paraben free lotion & moisturizer. Shop online at Healthy Essentials Australia.
-  Updated: 2026-11-04T16:12:16Z
+  Updated: 2026-11-14T07:38:08Z
   Vendor: Handsome
   Product Type: Health & Beauty - Men's Grooming
   Availability: Available
@@ -956,21 +949,21 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/products/handsomefacialwash125mlfop.png?v=1639118153
   Price: $20.89 AUD
 - [Handsome Antioxidant Daily Nourishing Cream 75ml | Vegan](https://healthyessentialsaustralia.com.au/products/handsome-antioxidant-daily-nourishing-cream-75ml): Shop Handsome Antioxidant Daily Nourishing Cream 75ml. Vegan, cruelty free & paraben free lotion & moisturizer. Available at Healthy Essentials Australia.
-  Updated: 2026-11-04T16:12:15Z
+  Updated: 2026-11-11T23:17:56Z
   Vendor: Handsome
   Product Type: Health & Beauty - Men's Grooming
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Handsome_Antioxidant_Daily_Nourishing_Cream_75ml.png?v=1752709744
   Price: $20.89 AUD
 - [Handsome Charcoal Face Buff | Vegan & Cruelty Free](https://healthyessentialsaustralia.com.au/products/handsome-charcoal-face-buff): Buy Handsome Charcoal Face Buff. Vegan, cruelty free & paraben free skin care masks & peels. Order online from Healthy Essentials Australia.
-  Updated: 2026-11-04T16:12:15Z
+  Updated: 2026-11-10T01:18:13Z
   Vendor: Handsome
   Product Type: Health & Beauty - Men's Grooming
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/products/handsomecharcoalfacebuff125ml.png?v=1639118044
   Price: $20.89 AUD
 - [Handsome Natural Deodorant 75g | Vegan & Cruelty Free](https://healthyessentialsaustralia.com.au/products/handsome-natural-deodorant-75g): Shop Handsome Natural Deodorant 75g. Vegan, cruelty free & paraben free deodorant for everyday freshness. Available at Healthy Essentials Australia.
-  Updated: 2026-10-27T02:57:42Z
+  Updated: 2026-11-08T09:11:32Z
   Vendor: Handsome
   Product Type: Personal Care - Deodorants
   Availability: Available
@@ -998,7 +991,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/products/handsomefacialmoisturiser50mlfop.png?v=1639118195
   Price: $12.95 AUD
 - [Handsome 2 in 1 Shampoo 50ml | Vegan & Cruelty Free](https://healthyessentialsaustralia.com.au/products/handsome-2-in-1-shampoo-50ml): Shop Handsome 2 in 1 Shampoo 50ml. Vegan, cruelty free & paraben free shampoo for your daily hair care routine. Available at Healthy Essentials Australia.
-  Updated: 2026-10-21T05:17:31Z
+  Updated: 2026-11-14T07:39:26Z
   Vendor: Handsome
   Product Type: Personal Care - Hair Care
   Availability: Available
@@ -1012,7 +1005,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/products/handsomevaluepackwsticker.png?v=1639118302
   Price: $129.00 AUD
 - [Ceres Organics Sea Salt Sunshine Crispy Rice Clouds 50g](https://healthyessentialsaustralia.com.au/products/ceres-organics-sea-salt-sunshine-crispy-rice-clouds-50g): Buy Ceres Organics Sea Salt Sunshine Crispy Rice Clouds 50g. Vegan, gluten free & non-GMO puffed rice cakes. Shop online at Healthy Essentials Australia.
-  Updated: 2026-10-28T17:40:28Z
+  Updated: 2026-11-09T02:52:15Z
   Vendor: Ceres Organics
   Product Type: Food & Pantry - Rice, Pasta & Noodles
   Availability: Available
@@ -1166,7 +1159,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/products/OTALSBCookies150g.jpg?v=1659937375
   Price: $11.30 AUD
 - [Walters Angels Nougat Chocolate Biscuits 150g | Gluten Free](https://healthyessentialsaustralia.com.au/products/walters-angels-nougat-chocolate-biscuits-150g): Discover Walters Angels Nougat Chocolate Biscuits 150g. Gluten free cookies & sweet biscuits. Available at Healthy Essentials Australia.
-  Updated: 2026-10-29T06:48:26Z
+  Updated: 2026-11-11T10:46:35Z
   Vendor: Walters
   Product Type: Food & Pantry - Cookies & Sweet Biscuits
   Availability: Available
@@ -1187,14 +1180,14 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/products/bainswholefoodschillilimechickpea100gfop.jpg?v=1659937005
   Price: $5.00 AUD
 - [Bains Wholefoods Chickpea Chips Smokey BBQ & Tomato 100g](https://healthyessentialsaustralia.com.au/products/bains-wholefoods-chickpea-chips-smokey-bbq-tomato-100g): Discover Bains Wholefoods Chickpea Chips Smokey BBQ & Tomato 100g. Vegan & gluten free crunchy snack. Order online from Healthy Essentials Australia.
-  Updated: 2026-10-21T05:15:55Z
+  Updated: 2026-11-09T01:36:47Z
   Vendor: Bains Wholefoods
   Product Type: Food & Pantry - Chips & Popcorn
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/products/Slide9.jpg?v=1659937019
   Price: $5.00 AUD
 - [Bains Wholefoods Chickpea Chips Rosemary, Salt & Vinegar 100g](https://healthyessentialsaustralia.com.au/products/bains-wholefoods-chickpea-chips-rosemary-salt-vinegar-100g): Discover Bains Wholefoods Chickpea Chips Rosemary, Salt & Vinegar 100g. Vegan, gluten free & non-GMO chips. Available at Healthy Essentials Australia.
-  Updated: 2026-11-01T12:20:41Z
+  Updated: 2026-11-09T01:36:46Z
   Vendor: Bains Wholefoods
   Product Type: Food & Pantry - Condiments, Relishes & Olives
   Availability: Available
@@ -1208,7 +1201,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/products/Slide7.jpg?v=1659937023
   Price: $5.00 AUD
 - [Bains Wholefoods Chickpea Noodle & Nut Mix 100g](https://healthyessentialsaustralia.com.au/products/bains-wholefoods-chickpea-noodle-nut-mix-100g): Shop Bains Wholefoods Chickpea Noodle & Nut Mix 100g. Vegan, gluten free & non-GMO snack foods. Available at Healthy Essentials Australia.
-  Updated: 2026-10-21T05:15:53Z
+  Updated: 2026-11-09T01:36:48Z
   Vendor: Bains Wholefoods
   Product Type: Food & Pantry - Rice, Pasta & Noodles
   Availability: Available
@@ -1222,7 +1215,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/products/BennettoIntenseDark75_Chocolate100g.jpg?v=1659937043
   Price: $7.50 AUD
 - [Bennetto Orange with Chilli Chocolate 100g | Gluten Free](https://healthyessentialsaustralia.com.au/products/bennetto-orange-with-chilli-chocolate-100g): Discover Bennetto Orange with Chilli Chocolate 100g. Organic, vegan & gluten free specialty chocolate. Order online from Healthy Essentials Australia.
-  Updated: 2026-10-21T05:15:51Z
+  Updated: 2026-11-11T03:33:06Z
   Vendor: Bennetto
   Product Type: Food & Pantry - Flavoured & Specialty Chocolate
   Availability: Available
@@ -1243,7 +1236,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/products/BennettoToastedHazelnutChocolate100g.jpg?v=1659937061
   Price: $7.50 AUD
 - [Bennetto Raspberries in Dark Chocolate 100g | Gluten Free](https://healthyessentialsaustralia.com.au/products/bennetto-raspberries-in-dark-chocolate-100g): Shop Bennetto Raspberries in Dark Chocolate 100g. Organic, vegan & gluten free candy & chocolate. Order online from Healthy Essentials Australia.
-  Updated: 2026-11-07T09:42:27Z
+  Updated: 2026-11-14T04:04:37Z
   Vendor: Bennetto
   Product Type: Food & Pantry - Chocolate-Coated Fruit & Nuts
   Availability: Available
@@ -1313,7 +1306,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/GroundedPleasuresOriginalDrinkingChocolate200g.png?v=1750208332
   Price: $14.99 AUD
 - [Grounded Pleasures Drinking Chocolate Varieties 50g](https://healthyessentialsaustralia.com.au/products/grounded-pleasures-drinking-chocolate-varieties-50g): Order Grounded Pleasures Drinking Chocolate Varieties 50g. Vegan & gluten free drink for any time of day. Shop online at Healthy Essentials Australia.
-  Updated: 2026-10-21T05:15:36Z
+  Updated: 2026-11-14T07:39:27Z
   Vendor: Grounded Pleasures
   Product Type: Drinks - Juices & Functional Drinks
   Availability: Available
@@ -1362,7 +1355,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Nutworks_Salted_Chilli_Macadamias_75g.png?v=1750211902
   Price: $8.24 AUD
 - [Nutworks Roast Salt Macadamias 75g | Gluten Free & Vegan](https://healthyessentialsaustralia.com.au/products/nutworks-roast-salt-macadamias-75g): Buy Nutworks Roast Salt Macadamias 75g. Vegan, gluten free & non-GMO nuts & seeds. Available at Healthy Essentials Australia - online health food store.
-  Updated: 2026-11-04T04:59:26Z
+  Updated: 2026-11-10T21:59:36Z
   Vendor: Nutworks
   Product Type: Food & Pantry - Nuts, Seeds & Trail Mix
   Availability: Available
@@ -1383,7 +1376,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Ogilvie_CoAntipastoMedley120g.png?v=1750212350
   Price: $7.00 AUD
 - [Ogilvie & Co Antipasto Olives 115g | Gluten Free & Vegan](https://healthyessentialsaustralia.com.au/products/ogilvie-co-antipasto-olives-115g): Shop Ogilvie & Co Antipasto Olives 115g. Vegan & gluten free condiment. Shop online at Healthy Essentials Australia, your online health food store.
-  Updated: 2026-10-21T05:15:27Z
+  Updated: 2026-11-10T04:21:36Z
   Vendor: Ogilvie & Co
   Product Type: Food & Pantry - Condiments, Relishes & Olives
   Availability: Available
@@ -1411,7 +1404,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/Ogilvie_CoChardonnayPears350g.png?v=1750215378
   Price: $17.50 AUD
 - [Ogilvie & Co Honey with Gold Flakes and Dipper 300g](https://healthyessentialsaustralia.com.au/products/ogilvie-co-honey-with-gold-flakes-and-dipper-300g): Shop Ogilvie & Co Honey with Gold Flakes and Dipper 300g. Gluten free & Australian-owned spread. Order online from Healthy Essentials Australia.
-  Updated: 2026-10-21T05:15:24Z
+  Updated: 2026-11-09T00:44:17Z
   Vendor: Ogilvie & Co
   Product Type: Food & Pantry - Honey, Jams & Conserves
   Availability: Available
@@ -1502,7 +1495,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/8240/3407/files/VitaWerxProteinMilkChocolate35g.png?v=1750220195
   Price: $4.50 AUD
 - [Walters Angels Nougat Salted Caramel Biscuits 150g | Cookies](https://healthyessentialsaustralia.com.au/products/walters-angels-nougat-salted-caramel-biscuits-150g): Shop Walters Angels Nougat Salted Caramel Biscuits 150g. Gluten free cookies & sweet biscuits. Available at Healthy Essentials Australia.
-  Updated: 2026-11-06T21:34:42Z
+  Updated: 2026-11-11T10:46:36Z
   Vendor: Walters
   Product Type: Food & Pantry - Cookies & Sweet Biscuits
   Availability: Available
@@ -1707,13 +1700,13 @@
   Updated: 2022-09-28T07:28:37Z
   Total Products: 0
 - [Drinks](https://healthyessentialsaustralia.com.au/collections/drinks): Explore healthy drinks including natural beverages, wellness drinks, low-sugar options, and refreshing alternatives for everyday hydration and balance.
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 94
+  Updated: 2026-11-10T05:33:20Z
+  Total Products: 98
 - [Gifting](https://healthyessentialsaustralia.com.au/collections/gifting): Find the perfect gift at Healthy Essentials Australia! Shop healthy, organic, and curated hampers and treats for every occasion and recipient.
-  Updated: 2026-10-27T11:07:11Z
-  Total Products: 66
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 89
 - [Health & Beauty](https://healthyessentialsaustralia.com.au/collections/health-beauty): Explore health and beauty products including natural skincare, supplements, and wellness essentials. Discover products to support a healthier, radiant lifestyle
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-13T12:06:52Z
   Total Products: 106
 - [Tea, Coffee, Hot Chocolate](https://healthyessentialsaustralia.com.au/collections/tea-coffee-hot-chocolate): Sip healthier with teas, coffees & hot chocolate from Healthy Essentials Australia! Enjoy organic, natural, and delicious drinks anytime.
   Updated: 2026-11-07T12:06:00Z
@@ -1725,13 +1718,13 @@
   Updated: 2026-09-17T13:43:11Z
   Total Products: 3
 - [deodorants](https://healthyessentialsaustralia.com.au/collections/deodorants): Find the best organic deodorants for you from Healthy Essentials Australia. We provide the best quality organic & natural deodorants into your doorsteps.
-  Updated: 2026-10-27T11:07:11Z
+  Updated: 2026-11-08T12:06:06Z
   Total Products: 12
 - [First Aid & Medicinal](https://healthyessentialsaustralia.com.au/collections/first-aid-medicinal): Looking for organic first aid kit for your Vegan friends or family? Find the best herbal first aid kits from Healthy Essentials today! Order now!
   Updated: 2026-09-17T13:41:53Z
   Total Products: 13
 - [hair care](https://healthyessentialsaustralia.com.au/collections/hair-care): Nourish your hair with healthy hair care from Healthy Essentials Australia! Shop natural, organic, and gentle shampoos, conditioners & treatments.
-  Updated: 2026-10-24T11:05:49Z
+  Updated: 2026-11-10T12:05:12Z
   Total Products: 15
 - [Personal Care](https://healthyessentialsaustralia.com.au/collections/personal-care-hygiene): Shop personal care and hygiene products including natural soaps, body washes, oral care, and grooming essentials for a healthier daily routine.
   Updated: 2026-10-23T11:08:06Z
@@ -1740,7 +1733,7 @@
   Updated: 2026-10-19T11:05:22Z
   Total Products: 16
 - [Organic Skin Care](https://healthyessentialsaustralia.com.au/collections/skin-care): Discover skin care products including cleansers, moisturizers, serums, and natural solutions to nourish, protect, and rejuvenate your skin daily.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-13T12:06:52Z
   Total Products: 44
 - [HOUSEHOLD](https://healthyessentialsaustralia.com.au/collections/household): Shop household essentials including natural cleaning products, eco-friendly home care solutions, and everyday items to keep your home clean and safe.
   Updated: 2026-11-07T12:06:00Z
@@ -1755,31 +1748,31 @@
   Updated: 2026-09-17T13:43:05Z
   Total Products: 1
 - [PANTRY](https://healthyessentialsaustralia.com.au/collections/pantry): Shop organic pantry essentials at Healthy Essentials Australia – from spreads to snacks. Stock your kitchen with healthy, natural, and tasty everyday foods!
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 413
 - [SNACKS & CONFECTIONERY](https://healthyessentialsaustralia.com.au/collections/snacks-confectionery): Shop healthy snacks & confectionery at Healthy Essentials Australia! Enjoy guilt-free, organic, and gluten-free treats for every craving.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 150
 - [Muesli & Wholefood Bars](https://healthyessentialsaustralia.com.au/collections/muesli-protein-bars): Fuel your day with muesli & protein bars from Healthy Essentials Australia! Healthy, tasty, and convenient snacks for energy anytime, anywhere.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-13T12:06:52Z
   Total Products: 57
 - [Sauce](https://healthyessentialsaustralia.com.au/collections/sauce-oil-vinegar): Shop healthy Sauce, Oil & Vinegar from our range of products. Order now & get with fast Australia Wide next day delivery.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-12T12:05:53Z
   Total Products: 28
 - [Health & Supplements](https://healthyessentialsaustralia.com.au/collections/health-supplement): Boost your wellness with health supplements from Healthy Essentials Australia! Shop vitamins, minerals, and natural supplements for a healthier you.
   Updated: 2026-11-05T12:06:38Z
   Total Products: 24
 - [Breakfast & Spreads](https://healthyessentialsaustralia.com.au/collections/breakfast-spreads): Start your day right with healthy breakfast spreads from Healthy Essentials Australia! Shop organic, natural, and delicious options for every toast.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 16
 - [cereals](https://healthyessentialsaustralia.com.au/collections/cereal): Shop healthy cereal from our range of healthy gift hampers. Order now & get with fast Australia Wide next day delivery. Place your order now!
-  Updated: 2026-11-01T12:06:50Z
+  Updated: 2026-11-10T12:05:11Z
   Total Products: 8
 - [Oats & Muesli](https://healthyessentialsaustralia.com.au/collections/oats-muesli): Enjoy wholesome oats & muesli from Healthy Essentials Australia! Shop organic, gluten-free, and nutritious options for a healthy breakfast every day.
-  Updated: 2026-11-01T12:06:50Z
+  Updated: 2026-11-10T12:05:11Z
   Total Products: 7
 - [Chips & Popcorn](https://healthyessentialsaustralia.com.au/collections/chips-popcorn): Shop chips and popcorn at Healthy Essentials. Discover healthier snack options including baked, low-salt, organic, and gluten-free varieties.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 49
 - [Canned Foods & Meal Kits](https://healthyessentialsaustralia.com.au/collections/canned-foods-meal-kits): Looking for the healthy Meal kits for your Vegan friends or family? Find the best healthy meal kits online from Healthy Essentials today! Place your Order now!
   Updated: 2026-09-30T11:07:04Z
@@ -1791,7 +1784,7 @@
   Updated: 2022-09-28T07:28:39Z
   Total Products: 0
 - [Condiments](https://healthyessentialsaustralia.com.au/collections/condiments): Enhance your meals with healthy condiments from Healthy Essentials Australia! Shop organic, natural, and gluten-free sauces, spreads, and dressings.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-08T12:06:06Z
   Total Products: 7
 - [Mayonnaise](https://healthyessentialsaustralia.com.au/collections/mayonnaise): Buy vegan mayonnaise from Healthy Essentials today. We provide the best quality mayonnaise products into your door steps. Place your order  now!
   Updated: 2025-09-01T05:34:13Z
@@ -1801,40 +1794,40 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-09-17T13:44:39Z
   Total Products: 13
 - [Biscuits & Cookies](https://healthyessentialsaustralia.com.au/collections/biscuits-cookies): Shop biscuits and cookies in at Healthy Essentials. Discover delicious, better-for-you snacks including organic, gluten-free, and low-sugar options.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-13T12:06:52Z
   Total Products: 36
 - [BAKING](https://healthyessentialsaustralia.com.au/collections/baking): Find premium baking products at Healthy Essentials Australia—quality ingredients for all your baking needs. Shop now for healthy, delicious baked goods!
-  Updated: 2026-11-03T12:06:37Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 6
 - [Flours](https://healthyessentialsaustralia.com.au/collections/flours): Discover premium healthy flours at Healthy Essentials Australia! Shop gluten-free, organic, and natural flours perfect for all your baking needs.
   Updated: 2026-11-04T12:06:55Z
   Total Products: 2
 - [Yeast & Additives](https://healthyessentialsaustralia.com.au/collections/yeast-additives): Find quality yeast and baking additives at Healthy Essentials Australia—perfect ingredients for perfect baking results. Shop now for all your baking needs!
-  Updated: 2026-11-03T12:06:37Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 4
 - [Herbs & Spices](https://healthyessentialsaustralia.com.au/collections/herbs-spices): Our list of Herbs & Spices names will help you find what you're looking for. Buy a quality selection of Herbs & Spices from healthy essentials today.
   Updated: 2026-11-04T12:06:55Z
   Total Products: 6
 - [Salt](https://healthyessentialsaustralia.com.au/collections/salt): Buy Healthy Mineral Salt from our healthy essentials today! Australia Wide Delivery. To view this range click here now.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 4
 - [Sugar & Sweeteners](https://healthyessentialsaustralia.com.au/collections/sugar-sweeteners): Shop natural sugars & sweeteners at Healthy Essentials Australia! Choose from organic, low-GI, and keto-friendly options for healthier sweetness.
   Updated: 2026-10-16T11:06:02Z
   Total Products: 5
 - [Chocolate](https://healthyessentialsaustralia.com.au/collections/chocolate): Indulge in healthy chocolate at Healthy Essentials Australia! Shop organic, sugar-free, and guilt-free chocolates for a deliciously better treat.
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 124
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 132
 - [Stock & Gravy](https://healthyessentialsaustralia.com.au/collections/stock-gravy): Browse through our stock, gravy products category & find organic and vegan stock & gravy from healthy essentials Australia.
   Updated: 2025-09-01T04:57:53Z
   Total Products: 0
 - [Best Sellers](https://healthyessentialsaustralia.com.au/collections/best-sellers): What Would You Like To Buy? Loving Earth Organic Turkishly Delightful Chocolate Bar 45g | X50 Sea Salt Broccoli Chips 60g | Orgran Apple & Cinnamon Pancake Mix 375g |  So Vegan Organic Lamington Coconut Bite 25g | Well & Good Choc Mud Cake Mix & Choc Frosting 475g | Bragg Organic Apple Cider Vinegar 473ml | Hemp Pet Raw Australian Hemp Oil Feed Supplement for Dogs 100ml
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 1165
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 1196
 - [Cake & Pancake Mixes](https://healthyessentialsaustralia.com.au/collections/cake-pancake-mixes): Shop healthy cake & pancake mixes at Healthy Essentials Australia! Enjoy delicious, easy-to-make, gluten-free, and nutritious baking options today.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 22
 - [spreads](https://healthyessentialsaustralia.com.au/collections/spreads): Shop healthy spreads including nut butters, seed spreads, jams, and natural options made with quality ingredients for everyday meals and snacks.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-09T12:04:39Z
   Total Products: 5
 - [Meal Kit](https://healthyessentialsaustralia.com.au/collections/meal-kit): Buy healthy ready made meal kits from Healthy Essentials Australia. We provide the best quality delicious meal kits into your door steps. Place your Order now!
   Updated: 2026-09-17T13:44:38Z
@@ -1843,34 +1836,34 @@ You will love at our great low prices. Place your order now!
   Updated: 2025-09-10T06:09:43Z
   Total Products: 0
 - [Pasta, Rice & Grains](https://healthyessentialsaustralia.com.au/collections/pasta-rice-grains): Shop healthy pasta, rice & grains at Healthy Essentials Australia! Discover organic, gluten-free, and nutritious options for tasty, wholesome meals.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-12T12:05:53Z
   Total Products: 20
 - [PET](https://healthyessentialsaustralia.com.au/collections/pet): What Would You Like To Buy? Doggylicious Rainbow Cookies 160g | Hemp Pet Raw Australian Hemp Oil Feed Supplement for Dogs 100ml | Bell & Bone Freeze Dried Kangaroo Dog Treats 100g | Ethique Dogs Solid Shampoo Bow Wow Bar 110g | Hemp Pet Organic Beef Liver Hemp Infused Treats for Dogs 80g | Hemp Pet Hemp, Hoki Fish & MCT Oil Feed Supplement for Cats 100ml
   Updated: 2025-09-10T06:23:57Z
   Total Products: 0
 - [ORGANIC FOOD STORE](https://healthyessentialsaustralia.com.au/collections/organic): Our Organic Food Store Organic is not just “chemical free”. It is the whole system or holistic means of growing and handling food and include products that are grown and processed without the use of synthetic chemicals, fertilisers, or GMO’s. Organic is an innovative method of farming and production – and is increasingly recognised as being on the leading edge of food and fibre technology. Use of the term 'Organic' is loosely controlled around the world, making Certification a trusted source of assurance. Organic is thought to be better for the body and the environment, promoting a healthier and more sustainable way of life. Healthy Essential Australia provides organic & quality items for your daily health food needs.
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 340
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 341
 - [Vegan](https://healthyessentialsaustralia.com.au/collections/vegan): Shop the best vegan grocery store online at Healthy Essentials Australia—find plant-based foods, snacks & essentials for a healthy, cruelty-free lifestyle!
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 339
 - [Gluten Free](https://healthyessentialsaustralia.com.au/collections/gluten-free): Shop the best gluten free shop at Healthy Essentials Australia—wide range of tasty, safe gluten-free foods and snacks. Perfect for your healthy lifestyle!
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 331
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 335
 - [AUSTRALIAN](https://healthyessentialsaustralia.com.au/collections/australian-made): Australian Owned, Australian Made Supporting local, Australian Owned indicates that the brand is an Australian owned company, while Australian Made specifies that the product is made in Australia. That being said, however, it does not indicate that the product is made with Australian ingredients. This information can be found on the pack. By purchasing Australian Owned and Australian Make products, you’re supporting both local communities and the national economy. It benefits local producers, manufacturers, retailers, and workers, while supporting small business. Australian made goods can be  Australian Made by the official kangaroo logo to ensure consumers know a product has met specific criteria in manufacturing.
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 304
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 325
 - [DAIRY FREE](https://healthyessentialsaustralia.com.au/collections/dairy-free): Dairy Free A dairy-free diet is, you guessed it, one free of all sources of dairy, including milk, cheese, yoghurt and ice cream. Choosing dairy-free could be due to health, ethical reasons, allergy or intolerance. Dairy is known to contain calcium, phosphorus, magnesium and the vitamins B2 and B12, which are all important in the growth of bones and teeth, but you can get your calcium intake from sources other than milk, like fish, leafy vegetables, seeds & nuts, legumes and whole grains. There are also many alternatives to dairy milk like soy, almond, coconut, oat, rice and hemp milk, all of which you can sub in your essential cup of coffee.
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 254
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 261
 - [Fair Trade](https://healthyessentialsaustralia.com.au/collections/fair-trade): Fair Trade Fairtrade is about stable prices, decent working conditions and the empowerment of farmers and workers around the world. It advocates for better working conditions and improved terms of trade for farmers and workers in developing countries, while supporting marginalised farmers and workers, enabling them to build a better and more secure life for themselves, their co-workers and their families. It’s also helping bridge the gap between gender equality, with women in developing countries facing many challenges associated with the “traditional” gender roles. Fairtrade Australia & New Zealand works directly with businesses, consumers and campaigners to make trade fair by securing a better  for farmers and workers. The Fairtrade Mark is the globally recognised label that adorns Fairtrade  products.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 59
 - [Protein Packed](https://healthyessentialsaustralia.com.au/collections/protein-packed): Source of Protein Protein makes up the building blocks of organs, muscles, skin, and hormones. Your body needs protein to maintain and repair tissues and kids need it to help them grow. It can aid in weight loss, increase muscle mass and strength, lower blood pressure, strengthen your immune system and repair body cells. While protein is known to come from animal sources, you can get plant-based proteins from gains, beans, vegetables and nuts. The Recommended Daily Intake (RDI) for protein is 46g for women and 56g for men.
-  Updated: 2026-11-05T12:06:38Z
-  Total Products: 114
+  Updated: 2026-11-12T12:05:53Z
+  Total Products: 118
 - [Paraben Free](https://healthyessentialsaustralia.com.au/collections/paraben-free): Paraben Free Parabens refer to a group of chemicals, mostly synthetic, that are commonly found in health, beauty and personal care products. They act as a form of preservative, preventing the growth of potentially harmful microbes such as bacteria or fungus, thereby increasing shelf-life.Some studies have shown that parabens may be harmful to the human body if used in large amounts. These concerns include breast cancer and a decrease in reproductive hormones in men, as parabens are believed to disrupt hormone function by mimicking oestrogen. Too much oestrogen can trigger an increase in breast cell division and growth of tumours, which is why paraben use has been linked to breast cancer and reproductive issues.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-13T12:06:52Z
   Total Products: 140
 - [Vegan Gift Hampers](https://healthyessentialsaustralia.com.au/collections/vegan-gift-hampers): Find the perfect gift hampers for vegans at Healthy Essentials Australia—thoughtful, plant-based hampers filled with treats and essentials. Shop vegan gifts now!
   Updated: 2026-10-27T11:07:11Z
@@ -1882,11 +1875,11 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-10-27T11:07:11Z
   Total Products: 12
 - [Hampers by Healthy Hampers](https://healthyessentialsaustralia.com.au/collections/hampers): Discover organic hampers filled with healthy snacks, natural treats, and wellness products. Perfect for gifting or enjoying wholesome goodies at home.
-  Updated: 2026-10-13T11:05:56Z
-  Total Products: 94
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 118
 - [All](https://healthyessentialsaustralia.com.au/collections/all)
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 1165
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 1196
 - [Day 3 Little Bellies & Wholekids](https://healthyessentialsaustralia.com.au/collections/day-3-little-bellies-wholekids)
   Updated: 2022-09-28T07:28:41Z
   Total Products: 0
@@ -1894,19 +1887,19 @@ You will love at our great low prices. Place your order now!
   Updated: 2023-11-10T07:13:57Z
   Total Products: 0
 - [](https://healthyessentialsaustralia.com.au/collections/)
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-13T12:06:52Z
   Total Products: 30
 - [Home Australian Made](https://healthyessentialsaustralia.com.au/collections/home-australian-made)
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 190
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 210
 - [Home GLUTEN FREE RANGE](https://healthyessentialsaustralia.com.au/collections/home-gluten-free-range)
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 454
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 471
 - [All Pukka teas](https://healthyessentialsaustralia.com.au/collections/all-pukka-teas): Shop Pukka Organic at Healthy Essentials Australia! Enjoy organic teas and wellness blends crafted for natural, delicious, and healthy living.
   Updated: 2026-10-16T11:06:02Z
   Total Products: 10
 - [All Ceres Beans](https://healthyessentialsaustralia.com.au/collections/all-ceres-beans)
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 87
 - [All Orgran Crispibread](https://healthyessentialsaustralia.com.au/collections/all-orgran-crispibread)
   Updated: 2025-09-05T10:51:11Z
@@ -1921,23 +1914,23 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-09-17T13:44:24Z
   Total Products: 10
 - [Blessed by Nature](https://healthyessentialsaustralia.com.au/collections/blessed-by-nature)
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-13T12:06:52Z
   Total Products: 18
 - [All products](https://healthyessentialsaustralia.com.au/collections/all-products)
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 1380
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 1412
 - [Mother's day 10% OFF](https://healthyessentialsaustralia.com.au/collections/mothers-day-10-off)
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-13T12:06:52Z
   Total Products: 127
 - [KETO](https://healthyessentialsaustralia.com.au/collections/keto): Explore our curated collection of keto-friendly snacks, sugar-free chocolates, and low-carb pantry essentials. Diet- treats delivered across Australia.
-  Updated: 2026-11-04T12:06:55Z
-  Total Products: 65
+  Updated: 2026-11-12T12:05:53Z
+  Total Products: 67
 - [FODMAP](https://healthyessentialsaustralia.com.au/collections/fodmap)
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 27
 - [BEAUTY](https://healthyessentialsaustralia.com.au/collections/beauty)
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 182
+  Updated: 2026-11-13T12:06:52Z
+  Total Products: 183
 - [SUPERFOODS](https://healthyessentialsaustralia.com.au/collections/superfoods)
   Updated: 2026-09-17T13:44:56Z
   Total Products: 5
@@ -1951,16 +1944,16 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-09-17T13:41:53Z
   Total Products: 6
 - [Gluten Free Snacks](https://healthyessentialsaustralia.com.au/collections/gluten-free-snacks): Discover delicious gluten free snacks at Healthy Essentials Australia—tasty, safe, and perfect for on-the-go. Shop now for healthy, gluten-free treats!
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 218
 - [Gluten Free Pantry](https://healthyessentialsaustralia.com.au/collections/pantry-1): Stock your kitchen with gluten free pantry essentials from Healthy Essentials Australia—safe, tasty staples for every meal. Shop gluten free now!
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 174
 - [Vegan Snacks](https://healthyessentialsaustralia.com.au/collections/vegan-snacks): Discover delicious vegan snacks at Healthy Essentials Australia—tasty, plant-based treats perfect for anytime. Shop now for healthy, cruelty-free options!
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 241
 - [Vegan Pantry](https://healthyessentialsaustralia.com.au/collections/vegan-pantry): Stock your kitchen with vegan pantry items from Healthy Essentials Australia—plant-based staples and essentials for wholesome,cruelty-free cooking. Shop now!
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 276
 - [Aloe vera of Australia](https://healthyessentialsaustralia.com.au/collections/aloe-vera-of-australia)
   Updated: 2025-09-01T03:54:20Z
@@ -1972,52 +1965,52 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-10-27T11:07:11Z
   Total Products: 21
 - [Under $10](https://healthyessentialsaustralia.com.au/collections/under-10)
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 762
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 770
 - [Over $10](https://healthyessentialsaustralia.com.au/collections/over-10)
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 644
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 668
 - [Under $500](https://healthyessentialsaustralia.com.au/collections/under-500)
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 1401
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 1433
 - [Over $500](https://healthyessentialsaustralia.com.au/collections/over-500)
   Updated: 2023-11-10T07:14:01Z
   Total Products: 0
 - [ ](https://healthyessentialsaustralia.com.au/collections/-): All products are drastically reduced to clear. No further discounts apply to  items. Note that products listed may be close to, or just past, their best before date. There are no refunds, exchanges or returns available on any  item listed.
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 654
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 655
 - [Pico](https://healthyessentialsaustralia.com.au/collections/pico)
   Updated: 2025-09-01T03:39:23Z
   Total Products: 0
 - [Bennetto](https://healthyessentialsaustralia.com.au/collections/bennetto): Shop Bennetto at Healthy Essentials Australia! Enjoy premium, healthy chocolate and treats made with organic, natural ingredients for guilt-free indulgence.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 8
 - [Bains Wholefoods](https://healthyessentialsaustralia.com.au/collections/bains-wholefoods): Shop Bains Wholefoods at Healthy Essentials Australia! Discover organic, natural, and nutritious pantry essentials for healthy everyday cooking and baking.
-  Updated: 2026-11-02T12:04:53Z
+  Updated: 2026-11-09T12:04:39Z
   Total Products: 6
 - [PD Custom Collection](https://healthyessentialsaustralia.com.au/collections/pd-custom-collection)
   Updated: 2023-11-10T09:33:35Z
   Total Products: 0
 - [Collection all for Inkybay](https://healthyessentialsaustralia.com.au/collections/inkybay-all)
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 1401
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 1433
 - [Wine](https://healthyessentialsaustralia.com.au/collections/wine): Discover healthy wines including organic, low-sugar, and natural options. Enjoy premium wines made with quality ingredients for a balanced lifestyle.
   Updated: 2026-09-17T13:39:25Z
   Total Products: 10
 - [Spring Hill Farm](https://healthyessentialsaustralia.com.au/collections/spring-hill-farm): Explore the Spring Hill Farm collection – wholesome, delicious snack bars, clusters & slices made with real ingredients. Shop Healthy Essentials Australia today
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 37
 - [AJITAS VEGE](https://healthyessentialsaustralia.com.au/collections/ajitas-vege): Buy Ajitas Vege Chips and Crisps online in Australia. Gluten-free and vegan-friendly options available. Real veggie ingredients, bold flavours, fast delivery.
   Updated: 2026-10-20T11:05:25Z
   Total Products: 10
 - [ALTER ECO](https://healthyessentialsaustralia.com.au/collections/alter-eco): Shop Alter Eco at Healthy Essentials Australia! Enjoy organic, fair-trade, and delicious chocolate, snacks, and treats for guilt-free indulgence.
-  Updated: 2026-10-29T11:05:23Z
+  Updated: 2026-11-08T12:06:06Z
   Total Products: 9
 - [ANNAIS ORGANIC](https://healthyessentialsaustralia.com.au/collections/annais-organic)
   Updated: 2026-09-17T13:38:58Z
   Total Products: 3
 - [Aurelio](https://healthyessentialsaustralia.com.au/collections/aurelio): Shop Aurelio at Healthy Essentials Australia! Enjoy premium, healthy, and delicious snacks and treats perfect for guilt-free indulgence anytime.
-  Updated: 2026-11-04T12:06:55Z
+  Updated: 2026-11-08T12:06:06Z
   Total Products: 9
 - [BLEND CEYLON](https://healthyessentialsaustralia.com.au/collections/blend-ceylon): Discover premium Blend Ceylon teas with rich flavors and natural quality. Perfect for daily enjoyment, gifting, or pairing with your favorite snacks.
   Updated: 2026-09-17T13:39:31Z
@@ -2029,13 +2022,13 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-09-17T13:41:50Z
   Total Products: 2
 - [BYRON BAY COOKIES](https://healthyessentialsaustralia.com.au/collections/byron-bay-cookies): Shop Byron Bay Cookies at Healthy Essentials Australia – delicious, premium cookies made with quality ingredients. Perfect for gifting or snacking. Order now!
-  Updated: 2026-11-02T12:04:53Z
+  Updated: 2026-11-11T12:05:02Z
   Total Products: 12
 - [CERES ORGANICS](https://healthyessentialsaustralia.com.au/collections/ceres-organics): Discover Ceres Organics at Healthy Essentials Australia –  organic snacks, pantry staples & wholesome foods made with pure, natural ingredients.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 68
 - [CHANG'S](https://healthyessentialsaustralia.com.au/collections/changs): Explore Chang’s authentic Asian sauces, noodles & staples at Healthy Essentials Australia – flavourful, quality pantry favourites. Shop now
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-12T12:05:53Z
   Total Products: 26
 - [CLIPPER](https://healthyessentialsaustralia.com.au/collections/clipper)
   Updated: 2026-09-17T13:44:58Z
@@ -2047,7 +2040,7 @@ You will love at our great low prices. Place your order now!
   Updated: 2025-09-10T06:12:02Z
   Total Products: 0
 - [Dalhousie](https://healthyessentialsaustralia.com.au/collections/dalhousie): Explore Dalhousie organic jams at Healthy Essentials Australia – naturally delicious spreads made with real fruit, no preservatives. Shop now !
-  Updated: 2026-10-27T11:07:11Z
+  Updated: 2026-11-08T12:06:06Z
   Total Products: 10
 - [Dandies](https://healthyessentialsaustralia.com.au/collections/dandies)
   Updated: 2025-09-01T04:24:56Z
@@ -2056,13 +2049,13 @@ You will love at our great low prices. Place your order now!
   Updated: 2025-09-01T05:41:16Z
   Total Products: 0
 - [DJ & A](https://healthyessentialsaustralia.com.au/collections/dj-a): Explore DJ & A snacks at Healthy Essentials Australia – plant‑based, crunchy veggie crisps & healthy snacks with natural ingredients. Shop now for snacking!
-  Updated: 2026-11-05T11:11:42Z
+  Updated: 2026-11-12T12:05:53Z
   Total Products: 5
 - [Doctor V](https://healthyessentialsaustralia.com.au/collections/doctor-v)
   Updated: 2025-09-01T03:13:44Z
   Total Products: 0
 - [Double D](https://healthyessentialsaustralia.com.au/collections/double-d): Shop Double D at Healthy Essentials Australia – nutrient‑packed seeds, grains & superfoods to boost your meals & snacks. Order now for wholesome
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-11T12:05:02Z
   Total Products: 23
 - [Dr Bronners](https://healthyessentialsaustralia.com.au/collections/dr-bronners)
   Updated: 2025-09-10T06:20:00Z
@@ -2071,7 +2064,7 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-09-27T11:06:10Z
   Total Products: 109
 - [Dr Superfoods](https://healthyessentialsaustralia.com.au/collections/dr-superfoods): Discover Dr Superfoods at Healthy Essentials Australia – nutrient‑rich superfood powders, snacks & boosters for wellness. Shop now to fuel your lifestyle!
-  Updated: 2026-10-23T11:08:06Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 5
 - [Empire Australia](https://healthyessentialsaustralia.com.au/collections/empire-australia): Shop Empire Australia at Healthy Essentials Australia – vegan, botanical bath & body care made with natural oils for everyday self‑care. Order now!
   Updated: 2026-10-19T11:05:22Z
@@ -2113,7 +2106,7 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-09-17T13:38:55Z
   Total Products: 3
 - [Get Ya Yum On](https://healthyessentialsaustralia.com.au/collections/get-ya-yum-on): Shop Get Ya Yum On snacks at Healthy Essentials Australia – bold, flavour‑packed chips & treats made with natural ingredients. Perfect for snacking anytime.
-  Updated: 2026-11-03T12:06:37Z
+  Updated: 2026-11-08T12:06:06Z
   Total Products: 3
 - [Gingerbread Folks](https://healthyessentialsaustralia.com.au/collections/gingerbread-folks): Shop Gingerbread Folk at Healthy Essentials Australia – artisanal vegan, gluten‑free gingerbread snacks baked with simple, natural ingredients. Order now!
   Updated: 2026-09-17T13:38:34Z
@@ -2125,22 +2118,22 @@ You will love at our great low prices. Place your order now!
   Updated: 2025-09-01T05:43:30Z
   Total Products: 0
 - [GoodnessMe](https://healthyessentialsaustralia.com.au/collections/goodnessme): Shop GoodnessMe healthy snacks & natural products at Healthy Essentials Australia. Discover better-for-you treats and pantry essentials. Order online today!
-  Updated: 2026-10-16T11:06:02Z
+  Updated: 2026-11-12T12:05:53Z
   Total Products: 13
 - [Grounded Pleasures](https://healthyessentialsaustralia.com.au/collections/grounded-pleasures): Shop Grounded Pleasures at Healthy Essentials Australia – premium vegan hot chocolates, chai & cacao delights with rich, gluten‑free flavour. Order now!
-  Updated: 2026-11-04T12:06:55Z
+  Updated: 2026-11-08T12:06:06Z
   Total Products: 5
 - [Halo Sugar](https://healthyessentialsaustralia.com.au/collections/halo-sugar): Browse the Halo Sugar collection – delicious low-sugar, keto-friendly sweets & treats. Shop online at Healthy Essentials Australia for healthier snack
   Updated: 2026-10-28T11:04:57Z
   Total Products: 1
 - [Handsome](https://healthyessentialsaustralia.com.au/collections/handsome): Explore the Handsome collection – premium men’s grooming essentials with natural, organic ingredients. Shop skincare, body care & gift packs online
-  Updated: 2026-10-31T11:06:08Z
+  Updated: 2026-11-10T12:05:12Z
   Total Products: 22
 - [Happy Snack Company](https://healthyessentialsaustralia.com.au/collections/happy-snack-company)
   Updated: 2025-09-01T05:11:58Z
   Total Products: 0
 - [Harvest Box](https://healthyessentialsaustralia.com.au/collections/harvest-box): Explore the Harvest Box collection – nutrient-rich, wholesome snacks & bites made with real ingredients. Shop online at Healthy Essentials Australia today.
-  Updated: 2026-11-05T12:06:38Z
+  Updated: 2026-11-10T12:05:11Z
   Total Products: 9
 - [Healthy Essentials Australia](https://healthyessentialsaustralia.com.au/collections/healthy-essentials-australia): Discover top-quality natural health & wellness products at Healthy Essentials Australia. Shop now for supplements, snacks & essentials that boost your wellbeing!
   Updated: 2026-10-27T11:07:11Z
@@ -2158,7 +2151,7 @@ You will love at our great low prices. Place your order now!
   Updated: 2025-09-01T03:43:29Z
   Total Products: 0
 - [House of Biskota](https://healthyessentialsaustralia.com.au/collections/house-of-biskota): Browse the House of Biskota collection – handmade, gluten-free & vegan-friendly artisan biscuits made in Australia. Shop classic cookies & treats online
-  Updated: 2026-11-03T12:06:37Z
+  Updated: 2026-11-10T12:05:12Z
   Total Products: 9
 - [IQ Bar](https://healthyessentialsaustralia.com.au/collections/iq-bar)
   Updated: 2025-09-01T05:13:01Z
@@ -2179,7 +2172,7 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-11-02T12:04:53Z
   Total Products: 10
 - [Keto Naturals](https://healthyessentialsaustralia.com.au/collections/keto-naturals): Keto Naturals – Smart Snacking for a Low-Carb Lifestyle Clean. Low-Carb. Keto-Friendly Welcome to Keto Naturals, a brand created for people who want delicious snacks without the heavy carbs. Popular across Keto Naturals Australia, this collection features thoughtfully crafted products designed to support low-carb and ketogenic lifestyles. From crunchy snacks to smarter pantry staples, Keto Naturals products offer flavour, convenience and nutrition for those who want to stay on track while enjoying satisfying food. Better Ingredients. Better Balance. Better Snacking. Read more
-  Updated: 2026-11-04T12:06:55Z
+  Updated: 2026-11-11T12:05:02Z
   Total Products: 9
 - [Koala Eco](https://healthyessentialsaustralia.com.au/collections/koala-eco): Shop Koala Eco sustainable products at Healthy Essentials Australia. Discover eco-friendly home, kitchen & personal items. Order online and go green today!
   Updated: 2026-11-07T12:06:00Z
@@ -2194,7 +2187,7 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-10-27T11:07:11Z
   Total Products: 1
 - [Carman's](https://healthyessentialsaustralia.com.au/collections/carmans): Shop Carman’s range at Healthy Essentials Australia – delicious, wholesome muesli bars, snacks & treats made with natural ingredients. Order now!
-  Updated: 2026-10-06T11:08:01Z
+  Updated: 2026-11-12T12:05:53Z
   Total Products: 13
 - [Carob & Hare](https://healthyessentialsaustralia.com.au/collections/carob-hare): Explore Carob Hare products as a natural, healthy alternative to chocolate. Enjoy carob treats, snacks, and baking options for guilt-free indulgence.
   Updated: 2026-09-17T13:39:32Z
@@ -2203,19 +2196,19 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-09-17T13:38:41Z
   Total Products: 1
 - [Monster](https://healthyessentialsaustralia.com.au/collections/monster): Fuel your day with Monster energy drinks and products at Healthy Essentials Australia. Shop now for your favorite energy boosts and order online today!
-  Updated: 2026-11-04T12:06:55Z
+  Updated: 2026-11-10T12:05:11Z
   Total Products: 11
 - [Mount Zero](https://healthyessentialsaustralia.com.au/collections/mount-zero): Explore Mount Zero premium olive oils and gourmet foods made from high-quality, natural ingredients. Perfect for cooking, dressings, and healthy meals.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-12T12:05:53Z
   Total Products: 21
 - [Nutworks](https://healthyessentialsaustralia.com.au/collections/nutworks): Discover Nutworks healthy nuts and snacks made with natural ingredients. Perfect for nutritious, guilt-free snacking anytime at home or on the go.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-09T12:04:39Z
   Total Products: 6
 - [O'Brien](https://healthyessentialsaustralia.com.au/collections/obrien): Discover O’Brien healthy snacks and natural foods made with wholesome ingredients. Perfect for nutritious, convenient, and guilt-free snacking anytime.
   Updated: 2026-09-17T13:38:51Z
   Total Products: 2
 - [Ogilvie & co](https://healthyessentialsaustralia.com.au/collections/ogilvie-co): Explore Ogilvie & Co natural foods and pantry staples made with wholesome ingredients. Perfect for cooking, baking, and creating healthy meals at home.
-  Updated: 2026-10-02T11:06:26Z
+  Updated: 2026-11-10T12:05:11Z
   Total Products: 6
 - [Random Harvest](https://healthyessentialsaustralia.com.au/collections/random-harvest): Discover Random Harvest natural foods and pantry staples made with wholesome ingredients. Perfect for healthy cooking, baking, and nutritious meals.
   Updated: 2026-11-06T12:05:20Z
@@ -2224,7 +2217,7 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-11-07T12:06:00Z
   Total Products: 15
 - [Pure Harvest](https://healthyessentialsaustralia.com.au/collections/pure-harvest): Shop Pure Harvest
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-08T12:06:06Z
   Total Products: 1
 - [Retro Kitchen](https://healthyessentialsaustralia.com.au/collections/retro-kitchen): Retro Kitchen – Classic Style. Everyday Kitchen Essentials. Practical Tools with a Vintage Touch Welcome to Retro Kitchen, a brand known for practical kitchen tools with a classic vintage style. Popular across Retro Kitchen Australia, this collection includes helpful kitchen products designed to make cooking and baking easier. Retro Kitchen focuses on creating products that combine function, durability, and timeless design. Their range of Retro Kitchen products includes cooking tools, baking accessories, and pantry helpers that fit perfectly into everyday kitchens. Whether you are preparing meals, baking treats, or organising your kitchen, Retro Kitchenware offers simple solutions for everyday cooking. Kitchen Essentials Made Simple. h1{ font-size: 34px !important; } h2{ font-size: 26px !important; }
   Updated: 2026-10-14T11:06:45Z
@@ -2233,13 +2226,13 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-09-17T13:39:11Z
   Total Products: 4
 - [Riverina Grove](https://healthyessentialsaustralia.com.au/collections/riverina-grove): Shop Riverina Grove Quality Pantry Foods from Australia Welcome to Riverina Grove, a trusted Australian brand known for delicious pantry products made with quality ingredients. Popular across Riverina Grove Australia, this collection includes a variety of products designed to bring natural flavour to everyday meals. Riverina Grove focuses on creating foods that highlight the taste of carefully selected ingredients. Their range of Riverina Grove products includes olive oils, nuts, dried fruits, and gourmet pantry items that are perfect for cooking, baking, or snacking. Whether you are preparing meals at home or adding flavour to your favourite recipes, Riverina Grove healthy snacks and pantry products offer a simple way to enjoy natural taste. Food Inspired by Fresh Ingredients. Read more
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-11T12:05:02Z
   Total Products: 11
 - [Serious Foods](https://healthyessentialsaustralia.com.au/collections/serious-foods): Explore Serious Foods healthy snacks and natural foods made with wholesome ingredients. Perfect for nutritious, convenient, and guilt-free snacking.
   Updated: 2026-09-17T13:39:09Z
   Total Products: 1
 - [Simply Wize](https://healthyessentialsaustralia.com.au/collections/simply-wize): Shop Simply Wize at Healthy Essentials Australia – wholesome, better‑for‑you snacks, crackers & food products made with natural ingredients. Order now!
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 37
 - [So Moorish](https://healthyessentialsaustralia.com.au/collections/so-moorish): So Moorish – Bold Flavour. Gourmet Snacking. Delicious Snacks Made to Be Shared Welcome to So Moorish, a brand known for flavour-packed snacks made with quality ingredients. Popular across So Moorish Australia, this collection offers gourmet snack options that combine great taste with satisfying crunch. So Moorish focuses on creating snacks that are both enjoyable and convenient. Their range of So Moorish products includes roasted nuts and flavourful snack mixes designed for everyday snacking, entertaining, or sharing with friends and family. Whether you are looking for a quick snack or something special to serve at gatherings, So Moorish gourmet snacks deliver rich flavour and premium quality. Snacking Made More Enjoyable.
   Updated: 2026-10-13T11:05:56Z
@@ -2248,16 +2241,16 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-09-17T13:40:33Z
   Total Products: 7
 - [The Urban Larder](https://healthyessentialsaustralia.com.au/collections/the-urban-larder): Shop The Urban Larder Welcome to The Urban Larder, a collection built around quality ingredients and everyday versatility. Loved by home cooks across The Urban Larder Australia, this range focuses on real food, simple, nourishing and designed to elevate your pantry. From convenient staples to flavour-packed additions, The Urban Larder products are made for people who appreciate clean ingredients and practical kitchen solutions. Stock Your Pantry. Cook with Confidence. Read more
-  Updated: 2026-11-06T12:05:20Z
+  Updated: 2026-11-13T12:06:52Z
   Total Products: 15
 - [Trentham Tucker](https://healthyessentialsaustralia.com.au/collections/trentham-tucker): Explore Trentham Tucker products featuring healthy snacks, natural treats, and gourmet delights made with quality ingredients for everyday enjoyment.
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 38
 - [Valley Produce](https://healthyessentialsaustralia.com.au/collections/valley-produce): Shop Valley Produce at Healthy Essentials Australia – fresh, quality nuts, seeds & pantry staples for wholesome meals & snacks. Order now for healthy goodness!
   Updated: 2026-11-02T12:04:53Z
   Total Products: 7
 - [Vege Rice Crackers](https://healthyessentialsaustralia.com.au/collections/vege-rice-crackers): Shop Vege Rice Crackers at Healthy Essentials Australia – crunchy, wholesome snacks made with veggie goodness. Perfect for dips & lunches. Order now!
-  Updated: 2026-10-16T11:06:02Z
+  Updated: 2026-11-12T12:05:53Z
   Total Products: 6
 - [VEGO](https://healthyessentialsaustralia.com.au/collections/vego): Explore Vego at Healthy Essentials Australia – premium vegan, organic & Fairtrade chocolate spreads, bars & treats made with hazelnuts and cocoa. Shop now!
   Updated: 2026-11-07T12:06:00Z
@@ -2266,22 +2259,22 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-10-30T11:06:07Z
   Total Products: 3
 - [Walters](https://healthyessentialsaustralia.com.au/collections/walters): Indulge in Walters Angels Nougat Chocolate Biscuits 150g at Healthy Essentials Australia. Treat yourself or gift—order delicious biscuits online today!
-  Updated: 2026-11-06T12:05:20Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 23
 - [Wallaby](https://healthyessentialsaustralia.com.au/collections/wallaby): Wallaby – Smooth, Creamy Goodness Inspired by Australia Wholesome. Creamy. Naturally Delicious Welcome to Wallaby, a brand celebrated for its smooth and creamy dairy products made with quality ingredients. Known across Wallaby Australia, this collection brings together delicious options designed to offer comfort, flavour and everyday nourishment. From rich yogurts to naturally satisfying snacks, Wallaby products are crafted for people who enjoy simple foods made with care. Pure Ingredients. Creamy Enjoyment. Read more
-  Updated: 2026-10-10T11:05:55Z
+  Updated: 2026-11-11T12:05:02Z
   Total Products: 7
 - [Well and Good](https://healthyessentialsaustralia.com.au/collections/well-and-good): Well & Good – Gluten-Free Food Made Simple Inclusive. Delicious. Made for Everyone Welcome to Well & Good, an Australian brand dedicated to creating delicious gluten-free foods that everyone can enjoy. Popular across Well & Good Australia, this collection offers a wide range of baking mixes and pantry staples designed to make gluten-free cooking and baking easier. From everyday baking essentials to convenient meal solutions, Well & Good products are crafted to deliver great taste without gluten. Free From Gluten. Full of Flavour. Read more Read more
   Updated: 2026-09-17T13:44:24Z
   Total Products: 10
 - [Well Naturally](https://healthyessentialsaustralia.com.au/collections/well-naturally): Shop Tea, Coffee & Hot Chocolate at Healthy Essentials Australia – premium brews, bold flavours & cozy blends for every occasion.
-  Updated: 2026-10-19T11:05:22Z
+  Updated: 2026-11-13T12:06:52Z
   Total Products: 6
 - [Whisk & Pin](https://healthyessentialsaustralia.com.au/collections/whisk-pin): Shop Whisk & Pin quality kitchen tools at Healthy Essentials Australia. Find baking & cooking essentials to upgrade your kitchen. Order online today!
   Updated: 2026-10-18T11:05:28Z
   Total Products: 2
 - [Whittakers](https://healthyessentialsaustralia.com.au/collections/whittakers): Whittaker’s – Pure Chocolate. Honest Ingredients. Rich Chocolate. Crafted with Care Welcome to Whittaker’s, a chocolate brand known for quality, flavour, and tradition. Loved across Whittaker’s Australia, this collection brings together premium chocolate made with carefully selected ingredients and real cocoa. Whittaker’s focuses on making chocolate the traditional way. Their bean-to-bar process means they control the journey from cocoa bean to finished chocolate bar. This helps create the rich taste and smooth texture that chocolate lovers enjoy. Whether you enjoy classic chocolate flavours or want to explore new combinations, Whittaker’s products offer something for every chocolate fan. Chocolate Made to Be Enjoyed. Read more
-  Updated: 2026-11-06T12:05:20Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 27
 - [Wicked Nuts](https://healthyessentialsaustralia.com.au/collections/wicked-nuts): Shop Wicked Nuts
   Updated: 2026-10-21T11:07:16Z
@@ -2296,7 +2289,7 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-09-23T11:06:21Z
   Total Products: 6
 - [Ceres Organics March Specials](https://healthyessentialsaustralia.com.au/collections/ceres-organics-march-specials)
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 12
 - [Nando's](https://healthyessentialsaustralia.com.au/collections/nandos): Shop Nando’s Peri-Peri sauces, marinades & seasonings online at Healthy Essentials Australia. Add bold flavour to meals—order now for fast delivery!
   Updated: 2026-09-22T23:49:35Z
@@ -2308,7 +2301,7 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-11-04T12:06:55Z
   Total Products: 16
 - [Special Offers](https://healthyessentialsaustralia.com.au/collections/special-offers)
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-13T12:06:52Z
   Total Products: 54
 - [Muscle Nation](https://healthyessentialsaustralia.com.au/collections/muscle-nation)
   Updated: 2026-10-25T11:08:09Z
@@ -2317,7 +2310,7 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-11-02T12:04:53Z
   Total Products: 4
 - [Honey & Jams](https://healthyessentialsaustralia.com.au/collections/honey-jams)
-  Updated: 2026-11-06T12:05:20Z
+  Updated: 2026-11-09T12:04:39Z
   Total Products: 20
 - [Cooking Oil](https://healthyessentialsaustralia.com.au/collections/cooking-oil): Shop premium Australian extra virgin olive oil from Mount Zero. Cold-pressed, vegan-friendly, and full of flavour — the perfect pantry essential. Delivered Australia-wide.
   Updated: 2026-11-07T12:06:00Z
@@ -2332,26 +2325,29 @@ You will love at our great low prices. Place your order now!
   Updated: 2026-09-17T13:43:46Z
   Total Products: 2
 - [Body Care](https://healthyessentialsaustralia.com.au/collections/body-care)
-  Updated: 2026-10-27T11:07:11Z
+  Updated: 2026-11-13T12:06:52Z
   Total Products: 23
 - [Organic](https://healthyessentialsaustralia.com.au/collections/organic-1)
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-14T12:06:39Z
   Total Products: 303
 - [Hydration](https://healthyessentialsaustralia.com.au/collections/hydration)
   Updated: 2026-11-05T12:06:38Z
   Total Products: 8
 - [Cosmetics & Beauty](https://healthyessentialsaustralia.com.au/collections/cosmetics-beauty)
-  Updated: 2026-11-07T12:06:00Z
+  Updated: 2026-11-13T12:06:52Z
   Total Products: 64
 - [August Special Offers](https://healthyessentialsaustralia.com.au/collections/august-special-offers)
-  Updated: 2026-11-05T11:11:42Z
+  Updated: 2026-11-08T12:06:06Z
   Total Products: 14
 - [Monthly ](https://healthyessentialsaustralia.com.au/collections/monthly-)
-  Updated: 2026-11-07T12:06:00Z
-  Total Products: 326
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 332
 - [Add Something Extra](https://healthyessentialsaustralia.com.au/collections/add-something-extra)
   Updated: 2026-10-09T11:07:20Z
   Total Products: 21
+- [Christmas Hampers](https://healthyessentialsaustralia.com.au/collections/christmas-hampers)
+  Updated: 2026-11-14T12:06:39Z
+  Total Products: 24
 
 ## Blogs
 
@@ -2632,6 +2628,9 @@ You will love at our great low prices. Place your order now!
     Tags: Healthy Keto Hampers, Keto Friendly Snacks, Keto Naturals, Keto Products, Keto Snacks Australia
   - [The Conscious Gifting Guide](https://healthyessentialsaustralia.com.au/blogs/hea-blog/the-conscious-gifting-guide)
     Updated: 2026-11-05T01:24:54Z
+    Author: Rumesh Lakpriya
+  - [Christmas Entertaining Made Easy](https://healthyessentialsaustralia.com.au/blogs/hea-blog/christmas-entertaining-made-easy)
+    Updated: 2026-11-09T11:41:41Z
     Author: Rumesh Lakpriya
 
 ## Store Pages
