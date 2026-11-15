@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-04-03T15:48:07Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-08T00:16:11.577Z
+- Updated At: 2026-11-15T00:17:03.248Z
 
 ## Products
 
@@ -94,7 +94,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Josh Groban Vintage Photo Tee | Official Josh Groban Store](https://joshgroban.merchmadeeasy.com/products/josh-groban-vintage-photo-tee): Vintage style photo of Josh on the front Shortsleeve tee in Sand 100% ringspun cotton Unisex
-  Updated: 2026-10-31T00:45:38Z
+  Updated: 2026-11-12T20:02:16Z
   Vendor: Josh Groban
   Product Type: T-Shirt
   Availability: Available
@@ -118,7 +118,7 @@
     Availability: Available
     Price: $40.00 USD
 - [JG Embroidered Hat](https://joshgroban.merchmadeeasy.com/products/jg-embroidered-hat-navy): Embroidered JG emblem on the front Baseball style hat in royal blue, maroon or black 100% cotton Self-fabric slide closure
-  Updated: 2026-10-30T05:09:02Z
+  Updated: 2026-11-12T20:02:18Z
   Vendor: Josh Groban
   Product Type: Hat
   Availability: Available
@@ -212,7 +212,7 @@
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JGCinematicVinyl_21956456-5edf-4bc3-9970-bba6e8b05fd0.png?v=1773072255
   Price: $29.98 USD
 - [CINEMATIC Photobook CD](https://joshgroban.merchmadeeasy.com/products/cinematic-photobook-cd): Josh Groban - the world’s most unmistakable voice. Presenting a collection of his most celebrated recordings on his new album, Gems.
-  Updated: 2026-11-05T15:24:21Z
+  Updated: 2026-11-13T00:07:22Z
   Vendor: Josh Groban
   Product Type: CD
   Availability: Available
@@ -264,7 +264,7 @@
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/BookMark_373cce70-56da-4928-9685-1c7d4aa736b3.png?v=1773165023
   Price: $10.00 USD
 - [CINEMATIC Crewneck](https://joshgroban.merchmadeeasy.com/products/cinematic-crewneck): CINEMATIC album photo sweatshirt Inspired by vintage film reels 100% cotton face Unisex SIZE CHART
-  Updated: 2026-10-29T20:34:33Z
+  Updated: 2026-11-08T16:25:46Z
   Vendor: Josh Groban
   Product Type: Outerwear
   Availability: Available
@@ -347,7 +347,7 @@
     Availability: Available
     Price: $40.00 USD
 - [2026 Live On Tour Tee](https://joshgroban.merchmadeeasy.com/products/2026-live-on-tour-tee): Cinematic album photo tee Inspired by vintage film reels 100% cotton tee in charcoal Unisex
-  Updated: 2026-10-29T20:34:15Z
+  Updated: 2026-11-14T02:48:37Z
   Vendor: Josh Groban
   Product Type: T-Shirt
   Availability: Available
@@ -447,14 +447,14 @@
     Availability: Available
     Price: $60.00 USD
 - [Live On Tour Program](https://joshgroban.merchmadeeasy.com/products/live-on-tour-program): Program from the Live On Tour run with Jennifer Hudson Filled with photos and a special note from Josh
-  Updated: 2026-11-05T15:24:16Z
+  Updated: 2026-11-13T00:07:21Z
   Vendor: Josh Groban
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JGTourProgramtransparent.gif?v=1784218773
   Price: $30.00 USD
 - [2026 World Tour Tee](https://joshgroban.merchmadeeasy.com/products/2026-world-tour-tee): Cinematic album photo tee Inspired by vintage film reels 100% cotton tee in charcoal Unisex
-  Updated: 2026-10-31T13:46:57Z
+  Updated: 2026-11-13T21:18:41Z
   Vendor: Josh Groban
   Product Type: T-Shirt
   Availability: Available
@@ -475,7 +475,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Stage Screen Symphony Tour Tee](https://joshgroban.merchmadeeasy.com/products/stage-screen-symphony-tour-tee): Cinematic album photo tee Inspired by vintage film reels 100% cotton tee in charcoal Unisex
-  Updated: 2026-10-29T20:34:16Z
+  Updated: 2026-11-09T09:33:26Z
   Vendor: Josh Groban
   Product Type: T-Shirt
   Availability: Available
@@ -523,25 +523,25 @@
 ## Collections
 
 - [Home page](https://joshgroban.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-06T12:10:29Z
+  Updated: 2026-11-13T12:11:14Z
   Total Products: 19
 - [Apparel](https://joshgroban.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-06T12:10:29Z
+  Updated: 2026-11-14T12:11:11Z
   Total Products: 19
 - [Accessories](https://joshgroban.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-06T12:10:29Z
+  Updated: 2026-11-13T12:11:14Z
   Total Products: 16
 - [All](https://joshgroban.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-06T12:10:29Z
+  Updated: 2026-11-14T12:11:11Z
   Total Products: 53
 - [Music](https://joshgroban.merchmadeeasy.com/collections/music)
-  Updated: 2026-11-06T12:10:29Z
+  Updated: 2026-11-13T12:11:14Z
   Total Products: 22
 - [Gems](https://joshgroban.merchmadeeasy.com/collections/gems)
-  Updated: 2026-10-31T11:11:56Z
+  Updated: 2026-11-13T12:11:14Z
   Total Products: 8
 - [EasyGift All Products](https://joshgroban.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-11-06T12:10:29Z
+  Updated: 2026-11-14T12:11:11Z
   Total Products: 53
 - [Hats](https://joshgroban.merchmadeeasy.com/collections/hats)
   Updated: 2025-04-29T16:51:02Z
@@ -550,34 +550,34 @@
   Updated: 2026-10-29T20:45:31Z
   Total Products: 5
 - [New Arrivals](https://joshgroban.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-11-06T12:10:29Z
+  Updated: 2026-11-14T12:11:11Z
   Total Products: 28
 - [All excluding new media](https://joshgroban.merchmadeeasy.com/collections/all-except-new-media)
-  Updated: 2026-11-06T12:10:29Z
+  Updated: 2026-11-14T12:11:11Z
   Total Products: 48
 - [Event Merch](https://joshgroban.merchmadeeasy.com/collections/event-merch)
   Updated: 2026-10-29T20:45:31Z
   Total Products: 7
 - [CINEMATIC](https://joshgroban.merchmadeeasy.com/collections/cinematic)
-  Updated: 2026-11-06T12:10:29Z
+  Updated: 2026-11-13T12:11:14Z
   Total Products: 16
 - [Live On Tour](https://joshgroban.merchmadeeasy.com/collections/live-on-tour)
-  Updated: 2026-11-06T12:10:29Z
+  Updated: 2026-11-14T12:11:11Z
   Total Products: 16
 - [$10](https://joshgroban.merchmadeeasy.com/collections/10)
-  Updated: 2026-11-05T12:10:17Z
+  Updated: 2026-11-08T12:11:13Z
   Total Products: 8
 - [$20](https://joshgroban.merchmadeeasy.com/collections/20)
-  Updated: 2026-11-06T12:10:29Z
+  Updated: 2026-11-13T12:11:14Z
   Total Products: 7
 - [$30](https://joshgroban.merchmadeeasy.com/collections/30)
-  Updated: 2026-11-06T12:10:29Z
+  Updated: 2026-11-14T12:11:11Z
   Total Products: 16
 - [$40](https://joshgroban.merchmadeeasy.com/collections/40)
-  Updated: 2026-10-31T11:11:56Z
+  Updated: 2026-11-09T12:10:50Z
   Total Products: 4
 - [Black Friday ](https://joshgroban.merchmadeeasy.com/collections/black-friday-)
-  Updated: 2026-11-06T12:10:29Z
+  Updated: 2026-11-14T12:11:11Z
   Total Products: 35
 
 ## Store Pages
