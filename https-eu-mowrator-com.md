@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-07-16T06:16:58Z
 - Contact Email: support-eu@mowrator.com
-- Updated At: 2026-11-07T00:33:56.811Z
+- Updated At: 2026-11-15T00:31:14.836Z
 
 ## Products
 
@@ -25,19 +25,19 @@
     Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/4WD_3.jpg?v=1781282509
     Price: €4,849.00 EUR
 - [56V 12Ah LiFePO4 Battery | Up to 3000m² Per Charge](https://eu.mowrator.com/products/12ah-56v-battery-for-mowrator-s1): Mowrator's long-lasting battery for the remote control lawn mower offers a reliable power source that can last up to 10 years. With durable construction and efficient performance, this battery ensures consistent and extended operation for a hassle-free mowing experience.
-  Updated: 2026-11-03T01:56:54Z
+  Updated: 2026-11-12T11:59:16Z
   Vendor: MOWRATOR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/848d54e497c60fcde373939472b2e8e5_ccfb1470-de04-479c-a879-ccb5ad66de34.png?v=1721112518
-  Price: €889.00 EUR
+  Price: €720.00 EUR
 - [Auto Dumping Bag For Mowrator S1 Remote Control Electric Lawn Mower](https://eu.mowrator.com/products/auto-dumping-bag-for-mowrator-s1-rc-electric-lawn-mower): The auto-dumping bag for S1 remote control lawn mower - a convenient solution for hassle-free grass disposal. Simply activate the remote control feature to effortlessly empty the bag without manual effort. Enjoy a seamless mowing experience with this innovative accessory.
-  Updated: 2026-11-01T09:22:42Z
+  Updated: 2026-11-12T12:08:29Z
   Vendor: MOWRATOR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/20240604-200815_79734f23-13f9-4aa2-aed4-1366a25e0f1a.jpg?v=1721112518
-  Price: €534.00 EUR
+  Price: €513.00 EUR
 - [Grass Bag Replacement Kit For Mowrator S1 Lawn Mower | Clipping Collect](https://eu.mowrator.com/products/mowrator-s1-grass-bag-replacement-kit): Made from durable, breathable material, this replacement bag ensures efficient grass collection and easy emptying after mowing. Keep your lawn mower performing at its best with this essential replacement part.
   Updated: 2026-10-18T15:21:36Z
   Vendor: MOWRATOR
@@ -46,12 +46,12 @@
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/20241108-101638.webp?v=1736502298
   Price: €69.99 EUR
 - [Mowrator High Lift Mowing Blade 3pcs](https://eu.mowrator.com/products/high-lift-mowing-blade-3-pcs): Estimated Time of Delivery: In Stock, 3-7 days delivery Mowrator 53 cm High Lift Mowing Blade For Mowrator Lawn Mower The innovative sunken blade design provides excellent suction for the efficient collection of grass clippings, particularly in wet conditions. Proficient in cutting and collecting wet grass to prevent clogging. 53 cm cutting width, high mowing efficiency. Made of high-quality 40MnB material, it is highly durable. Customer Support Backed by Mowrator's renowned customer service team for any queries or assistance. Specifications Material: 40MnB Size: 510 x 56 x 20mm Net Weight: 480g Set Quantity: 3pcs Compatible Model: Mowrator S1 Series Thickness: 2.5mm
-  Updated: 2026-10-23T15:04:05Z
+  Updated: 2026-11-12T11:55:12Z
   Vendor: MOWRATOR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/7_7e99e613-0424-44e2-8fd5-988b2bbc559c.webp?v=1721112518
-  Price: €94.00 EUR
+  Price: €75.00 EUR
 - [IP65 Dust and Water Resistance Fast Charger For Mowrator S1 Lawnmower](https://eu.mowrator.com/products/mowrator-s1-ip65-fast-charger-70-mins): Say goodbye to long waiting times and hello to efficient charging, your Mowrator S1 can be fully charged in just 70 minutes, ensuring you spend less time waiting and more time mowing. It is IP65 rated, making it resistant to dust and water, allowing you to charge your mower even in harsh outdoor conditions.
   Updated: 2026-10-18T15:21:36Z
   Vendor: MOWRATOR
@@ -60,12 +60,12 @@
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/1716008046526-ckt_7d4c6b95-10fb-45e2-94da-2714e70d16cb.png?v=1721112518
   Price: €419.00 EUR
 - [18Ah 56V LiFePO4 Long Lasting Battery For Mowrator S1 Lawn Mower](https://eu.mowrator.com/products/18ah-56v-lifepo4-battery-for-mowrator-s1): Mowrator's long-lasting battery for the remote control lawn mower offers a reliable power source that can last up to 10 years. With durable construction and efficient performance, this battery ensures consistent and extended operation for a hassle-free mowing experience.
-  Updated: 2026-10-18T15:21:36Z
+  Updated: 2026-11-12T11:58:55Z
   Vendor: MOWRATOR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/4_0066f43f-0f54-419e-bd6f-8985464567a8.webp?v=1721112518
-  Price: €1,439.00 EUR
+  Price: €1,385.00 EUR
 - [1-Year Extended Warranty](https://eu.mowrator.com/products/1-year-extended-warranty): Availability United States, Canada, United Kingdom, European Union, Australia, New Zealand. Upgrade your peace of mind with our 1-year extended warranty, covering the repair fees for both the main machine and the battery. Protect your  and enjoy worry-free operation with this added coverage. More information of Mowrator's Warranty>>
   Updated: 2026-10-14T13:58:56Z
   Vendor: MOWRATOR
@@ -74,26 +74,26 @@
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/warranty.webp?v=1784120133
   Price: €409.00 EUR
 - [Mowrator Neck Strap](https://eu.mowrator.com/products/neck-strap): Estimated Time of Delivery: In Stock, 3-7 days delivery Mowrator Neck Strap High-Quality Lanyard: Premium materials ensure durability and longevity, with an adjustable length and padded design for a snug, comfortable fit. Convenient Installation: User-friendly twist-lock mechanism allows for quick attachment and detachment. Anti-Slip Interior: Designed with an anti-slip surface to prevent the remote control from sliding or shifting during use. Secure Clip Design: High-quality clip minimizes the risk of accidental drops, keeping the remote control in place. Specifications Material: PU+fiber cloth Size: 610 x 30 x 5.5mm Net Weight: 60g Set Quantity: 1pc Compatible Model: Mowrator S1 Remote Controller
-  Updated: 2026-10-29T13:34:16Z
+  Updated: 2026-11-12T11:58:34Z
   Vendor: MOWRATOR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/b4325fd869e04678a30ac9c7e43dbd18_f640dbc5-e0db-4b6b-bae5-1cb3bf822131.png?v=1721112518
-  Price: €36.00 EUR
+  Price: €26.00 EUR
 - [Pair of S1 4WD Standard Wheels Replacement Kit](https://eu.mowrator.com/products/mowrator-s1-drive-wheels): Estimated Time of Delivery: In Stock, 3-7 days delivery. Pair of Mowrator S1 Lawn Mower Drive Wheels Standard Wheels: Slope Capability: Designed to handle slopes up to 75%. The standard wheel set comes included by default with your lawn mower purchase. These wheels provide an excellent balance of traction and minimize turf damage. Their compact size and patterned treads allow the wheels to easily roll over your lawn while leaving a lighter footprint, protecting your grass from being overly compacted or torn up. Enjoy a pristine cut without sacrificing maneuverability. Note: The 4WD standard wheels are included with the standard packaging of the mower. Additional wheels can be purchased separately if needed. Compare Standard Wheels Wide Wheels - Included by default - Optional traction-boosting upgrade - For Slope ≤75% - For Slope ≤85% - Balance traction and turf protection - Prevent wheel slippage on slopes/uneven ground - Minimize grass compaction/tearing - Distribute weight better to reduce turf damage - Preserve lawn quality - Conquer tough mowing areas with stability
-  Updated: 2026-10-18T15:21:41Z
+  Updated: 2026-11-12T11:59:36Z
   Vendor: MOWRATOR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/20240717-133900-4WD_8096a9bc-14c6-4f46-9a74-7dd4dc2ddd97.webp?v=1723443474
-  Price: €164.00 EUR
+  Price: €131.00 EUR
 - [Mowrator Self-sharpening Mowing Blade 3pcs](https://eu.mowrator.com/products/self-sharpening-mowing-blade-3pcs): Estimated Time of Delivery: In Stock, 3-7 days delivery Mowrator Self-sharpening Mowing Blade For Mowrator Lawn Mower Self-Sharpening Technology: Innovative design keeps the blade sharp, cutting down on maintenance time. Tough Protective Coating: Special covering enhances blade durability and longevity. 53 cm Cutting Width: Ideal size for efficient mowing of large areas and saving your valuable time. Premium-Grade Materials: Constructed using high-quality, corrosion-resistant 40MnB steel. Improved Lawn Health: A consistently sharp blade ensures clean cuts, promoting healthier grass growth. Compatible with Mowrator S1, easy installation. Customer Support Backed by Mowrator's renowned customer service team for any queries or assistance. Specifications Material: 40MnB + wear-resistant coating Size: 508 x 56 x 6.9mm Net Weight: 1.2kg Set Quantity: 3pcs Compatible Model: Mowrator S1 Series Thickness: 2.5mm
-  Updated: 2026-10-19T11:07:06Z
+  Updated: 2026-11-12T11:50:31Z
   Vendor: MOWRATOR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/2x_063e9269-9335-4e33-be1f-5520bae8f859.jpg?v=1735541780
-  Price: €119.00 EUR
+  Price: €83.00 EUR
 - [Pair of Front Wheels Replacement Kit for S1 2WD](https://eu.mowrator.com/products/universal-wheel): Estimated Time of Delivery: In Stock, 3-7 days delivery. Pair of Front Wheels Replacement Kit For Mowrator S1 2WD Lawn Mower It is the replacement front wheel for the Mowrator S1 21'' 2wd drive mower. NOTE: A pair of universal wheels is included with the standard packaging of the Mowrator S1 2WD mower. Additional universal wheels can be purchased separately if needed. Specifications Material: PU Size: Φ172*68mm Net Weight: 1.3kg Set Quantity: 2pcs Compatible Model: Mowrator S1 2WD
   Updated: 2026-03-31T03:55:32Z
   Vendor: MOWRATOR
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/418-2.webp?v=1755497783
   Price: €5,333.00 EUR
 - [Pair of Wide Wheels | For 85% Slope](https://eu.mowrator.com/products/2-pairs-of-wide-wheels): Pair of Mowrator S1 Lawn Mower Wide Wheels Wide Wheels (Optional Upgrade): Slope Capability: Capable of tackling slopes up to 85% Upgrade to the wide wheel kit for enhanced traction and stability on slopes or uneven terrain. The increased footprint and aggressive tread pattern provide superior grip, preventing wheel spin and slippage. These wider wheels also disperse the machine's weight more effectively, further reducing turf damage. Take on challenging mowing conditions with confidence knowing your mower can handle them while still delivering a flawless cut. Specification Name Wide Wheels Material: PU Size: Φ250*100mm Net Weight: 2.8kg Set Quantity: 1 Pair (2 PCS) Compatible Model: 4WD
-  Updated: 2026-10-18T15:21:41Z
+  Updated: 2026-11-12T11:47:34Z
   Vendor: Mowrator EU
   Product Type: 
   Availability: Available
@@ -131,11 +131,11 @@
   - [1 Pair (2-Piece Pack)](https://eu.mowrator.com/products/2-pairs-of-wide-wheels?variant=43753311731811)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/2_2x_93776283-1e99-4d19-a552-3e323bb02f00.webp?v=1759221672
-    Price: €273.00 EUR
+    Price: €216.00 EUR
   - [2 Pairs (4-Piece Pack)](https://eu.mowrator.com/products/2-pairs-of-wide-wheels?variant=43753311764579)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/4_2x_f48ba40c-57bd-4596-b864-8e0bc7d20201.webp?v=1759221701
-    Price: €554.00 EUR
+    Price: €431.00 EUR
 - [Mowrator OTG Cable / Charging cable Replacement Kit](https://eu.mowrator.com/products/mowrator-otg-cable-charging-cable): OTG Cable Replacement Kit For Mowrator S1 Remote Controller Function Upgrade Capability Enables seamless firmware updates and function upgrades for your Mowrator Ensures your robotic mower stays up-to-date with the latest features Remote Controller Charging Conveniently charge your Mowrator remote controller Technical Specifications: Type: OTG Cable Length: 25 cm Package Includes: 1x Mowrator OTG Cable
   Updated: 2026-08-14T09:28:36Z
   Vendor: Mowrator EU
@@ -151,19 +151,19 @@
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/7ebc1aae46d6045b18257ffc2ec683d1.png?v=1729736602
   Price: €36.00 EUR
 - [Mowrator S1 Mowing Blade Replacement Kit 3pcs](https://eu.mowrator.com/products/mowrator-s1-21-inches-mowing-blade-replacement-kit-3pcs)
-  Updated: 2026-08-22T07:40:37Z
+  Updated: 2026-11-07T01:03:06Z
   Vendor: Mowrator EU
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/Self-sharpeningMowingBlade.webp?v=1730283072
   Price: €81.99 EUR
 - [Mowrator Self-sharpening High Lift Mowing Blade 3pcs](https://eu.mowrator.com/products/mowrator-21-inches-self-sharpening-high-lift-mowing-blade-3pcs): Estimated Time of Delivery: In Stock, 3-7 days delivery Mowrator Self-Sharpening High Lift Blade For Mowrator Lawn Mower Combine the advantages of a self-sharpening blade and high lift blade: Self-Sharpening Technology: The innovative design with a special protective covering keeps the blade sharp, minimizing the need for frequent sharpening. Tough Protective Coating: Special covering enhances blade durability and longevity. High Lift Design: This design provides superior suction for effective grass clipping collection, especially in wet conditions. Durable Construction: Constructed from high-quality, corrosion-resistant 40MnB steel, it enhances the blade's durability and longevity. Easy Installation: Seamlessly integrates with Mowrator S1 models, allowing for quick and straightforward replacement. Customer Support Backed by Mowrator's renowned customer service team for any queries or assistance. Specifications Material: 40MnB + wear-resistant coating Size: 510 x 56 x 20mm Net Weight: 1.44kg Set Quantity: 3pcs Compatible Model: Mowrator S1 Series Thickness: 2.5mm
-  Updated: 2026-10-18T15:21:42Z
+  Updated: 2026-11-12T11:50:53Z
   Vendor: MOWRATOR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/2x.jpg?v=1735538427
-  Price: €164.99 EUR
+  Price: €124.00 EUR
 - [Mowrator Snow Plow Kit – Fits Only S1 4WD](https://eu.mowrator.com/products/mowrator-snow-plow-kit): Note: The snow plow kit is compatible only with the Mowrator S1 4WD model.
   Updated: 2026-11-06T09:15:22Z
   Vendor: Mowrator EU
@@ -193,12 +193,12 @@
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/4WD_5.png?v=1781282842
   Price: €5,465.00 EUR
 - [Mowrator Trailer Hitch Kit](https://eu.mowrator.com/products/mowrator-trailer-hitch-kit): Download the User Manual Here Mowrator Trailer Hitch Kit Mowrator Upgrade- Transform your Mowrator into a time-saving powerhouse Universal Fit Multi-Purpose Towing- Fits 99% lawn/garden trailers with 320-480mm height adjustment, haul carts, trailers, sprayers, and more Secure Clamps- The clamps grip 30-52mm bars firmly, with soft rubber pads to prevent scratching of the machine All-Weather Steel- Rust-resistant steel that withstands harsh weather Install-Friendly- No drilling required, easy to assemble and disassemble Key Towing Specifications Precision Tested Performance S1 4WD 55kg Towing Force on hard flat surfaces with counterweight configuration 45kg Towing Force on hard flat surfaces in standard configuration S1 2WD 40kg Towing Force on hard flat surfaces with counterweight configuration 30kg Towing Force on hard flat surfaces in standard configuration Proven Capability Tows 1.8-tonne wheeled vehicles (cars/equipment trailers) Installation Guide-Video
-  Updated: 2026-10-18T15:21:47Z
+  Updated: 2026-11-12T12:09:08Z
   Vendor: Mowrator EU
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/20250326-153806.webp?v=1742980311
-  Price: €71.00 EUR
+  Price: €50.00 EUR
 - [Mowrator S1 Remote Controller](https://eu.mowrator.com/products/mowrator-s1-remote-controller): NOTE: A Remote Controller is included in the standard packaging of the mower. Mowrator S1 Remote Controller Touch Screen Functionality: Easily navigate and control your remote-controlled lawn mower with the intuitive touch screen feature for a seamless user experience. On-Screen Instructions: Stay informed and on track with on-screen instructions that guide you through the mowing process, ensuring optimal results every time. Comfortable Design: The ergonomic and comfortable design of the controller allows for extended use without strain or discomfort, making mowing a breeze. Signal Interference Resistance: Enjoy uninterrupted mowing sessions with a controller that is not affected by signal interference, ensuring reliable performance in all conditions. Precision Control: Achieve precise maneuverability and cutting accuracy with the advanced features of the controller, giving you full control over your lawn mowing tasks.
   Updated: 2026-10-29T13:34:16Z
   Vendor: Mowrator EU
@@ -270,7 +270,7 @@
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/412-3.webp?v=1755496568
   Price: €4,783.00 EUR
 - [Shipping Protection](https://eu.mowrator.com/products/shipping-protection): Add xCotton Shipping Protection at checkout to protect your package against damage, loss and theft. Visit sp.xcottons.com/parcel#/more to learn more.
-  Updated: 2026-11-06T09:15:26Z
+  Updated: 2026-11-14T18:15:56Z
   Vendor: xcotton
   Product Type: shipping-protection
   Availability: Available
@@ -426,7 +426,7 @@
     Availability: Available
     Price: €19.22 EUR
 - [Mowrator Grip Holder for Remote Button](https://eu.mowrator.com/products/mowrator-grip-holder-for-remote-button): Note: 1. Grip holder for remote button is compatible with both left and right sides.2. Remote control is NOT included in the package. Engineered to eliminate continuous button-pressing strain, the Grip Holder converts finger force into natural palm pressure through its pad. Crafted with Eco-PVC and stainless steel, it reduces finger stress by 90% during 2-hour operations—no more aching joints. The soft silicone contact layer conforms to your controller’s buttons, preventing scratches and pressure damage. Fixed to RC surfaces with screw-fastened threaded holes, this grip holder offers instant left/right hand transfer without any tools. Specifications Material PVC, stainless steel, &silicone Dimension 98.8*67.5*25.0mm Weight 29.8g (incl. mounting screws) Installation Guide-Video
-  Updated: 2026-10-18T15:21:51Z
+  Updated: 2026-11-14T18:15:56Z
   Vendor: Mowrator EU
   Product Type: 
   Availability: Available
@@ -434,7 +434,7 @@
   - [Single Pack](https://eu.mowrator.com/products/mowrator-grip-holder-for-remote-button?variant=43493979684963)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/20250625-103755.png?v=1750829915
-    Price: €63.00 EUR
+    Price: €50.00 EUR
   - [Two-Pack](https://eu.mowrator.com/products/mowrator-grip-holder-for-remote-button?variant=43493979717731)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/20250625-103801.png?v=1750829915
@@ -489,12 +489,12 @@
     Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/1_3e3b7a19-7b66-446b-aa0f-002a155435a3.webp?v=1759222011
     Price: €610.00 EUR
 - [Mowrator Mulching Blade 3pcs |  Vacuum Leaves & Mow](https://eu.mowrator.com/products/mowrator-53-cm-mulching-blade-3pcs-leaf-grass-mulching): Mowrator Mulching Blade– Smart Cutting, Lasting Performance Dual-Stage Shredding Tech: Unique high-low blade design enables double shredding for finer cuts and superior leaf suction． Enhanced Power Efficiency: Engineered for low power consumption, it maximizes suction while ensuring longer battery life. Premium Durability: Made from corrosion-resistant 40MnB steel, delivering outstanding strength and extended blade life． Easy Installation: Perfectly compatible with Mowrator S1 models for fast, hassle-free blade replacement． Customer Support Backed by Mowrator's renowned customer service team for any queries or assistance. Specifications Material: 40MnB Size: 508 x 56.5 x 27.5mm Net Weight: 2kg Set Quantity: 3pcs Compatible Model: Mowrator S1 Series Thickness: 3mm
-  Updated: 2026-10-21T13:45:47Z
+  Updated: 2026-11-12T11:46:42Z
   Vendor: Mowrator EU
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/2_b59422e5-9647-4fbf-b2d2-448a97f7e80a.webp?v=1759551800
-  Price: €159.00 EUR
+  Price: €129.00 EUR
 - [2-in-1 Accessory Set | Auto Dumping & Leaf Collection](https://eu.mowrator.com/products/2-in-1-accessory-set-auto-dumping-leaf-collection): 2-in-1 Accessory Set: One-Button Dumping, Worry-Free Mowing & Leaf Collection Mowrator Auto Dumping Bag – Convenience at Your Fingertips Patented One-Button Auto Dumping: Empty the grass bag effortlessly with a single press. Advanced Full-Detection Sensors: Automatically alerts when the bag is full, so you never overfill. Ergonomic & Time-Saving: No more bending or manual checking—simplify your lawn care routine. Mowrator Mulching Blade – Precision Cutting, Lasting Power Dual-Stage Shredding Technology: Unique high-low blade design performs double shredding for ultra-fine cuts and superior leaf suction. Enhanced Power Efficiency: Optimized to reduce energy consumption, extending your battery life while maximizing performance. Premium Durability: Crafted from corrosion-resistant 40MnB steel for exceptional strength and long-lasting use. Self-Sharpening Coating: Innovative protective layer keeps the blade sharp longer, reducing maintenance. Easy Installation: Designed to seamlessly fit Mowrator S1 models for quick, hassle-free blade replacement.
   Updated: 2026-09-23T08:55:31Z
   Vendor: Mowrator EU
@@ -559,7 +559,7 @@
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/4WD-AS.webp?v=1779212195
   Price: €6,303.00 EUR
 - [Mowrator S1 Leaf & Lawn 4WD 18Ah 119%(50°) Extreme Slope with Leaf Shredding Vacuum](https://eu.mowrator.com/products/mowrator-s1-remote-control-lawn-mower-4wd-18ah-100-45-extreme-slope-with-leaf-shredding-vacuum-bundle): Mowrator S1, a Battery-Powered Remote-Control Lawn Mower tailored for Big Yards & Slopes, which delivers all-season lawn care: mowing, collecting, leaf vacuuming, snow removal, land clearing and towing. It easily handles challenging terrains such as 100% steep slopes, lawn dips and obstacles.
-  Updated: 2026-10-24T14:39:53Z
+  Updated: 2026-11-07T01:03:06Z
   Vendor: Mowrator EU
   Product Type: 
   Availability: Available
@@ -653,22 +653,22 @@
 ## Collections
 
 - [Home page](https://eu.mowrator.com/collections/frontpage)
-  Updated: 2026-11-03T02:25:55Z
+  Updated: 2026-11-07T12:14:29Z
   Total Products: 11
 - [AVADA - Best Sellers](https://eu.mowrator.com/collections/avada-best-sellers)
-  Updated: 2026-11-06T12:14:06Z
+  Updated: 2026-11-12T12:14:06Z
   Total Products: 80
 - [S-Series| Remote Control Lawn Mower](https://eu.mowrator.com/collections/m-serious): Remote Control Lawn Mower Series——Experience the unparalleled power and convenience of the Handheld Remote Control Lawn Mower. Embrace a new era of effortless mowing, precision, and connectivity. Discover the limitless possibilities of a beautifully manicured lawn without the constraints of traditional mowing methods. Embrace innovation today and redefine your lawn care routine.
-  Updated: 2026-11-05T12:12:39Z
+  Updated: 2026-11-07T12:14:29Z
   Total Products: 34
 - [All-Season Yard Accessories](https://eu.mowrator.com/collections/accessories): Accessories for Mowrator S1 Remote Control Lawn Mower
-  Updated: 2026-11-06T12:14:06Z
+  Updated: 2026-11-12T12:14:06Z
   Total Products: 36
 - [10% OFF Add-ons](https://eu.mowrator.com/collections/10-off-add-ons)
-  Updated: 2026-11-01T12:12:20Z
+  Updated: 2026-11-12T12:08:30Z
   Total Products: 2
 - [S1 Bundle](https://eu.mowrator.com/collections/s1-bundle): Mowrator S1, the world's first 5-in-1 battery-powered remote control lawn mower with the powerful Beast™ Powertrain System, can effortlessly conquer steep slopes up to 100% (45°) and handles challenging terrains with ease. Designed for tough, thick, and high grass, it delivers gasoline mower-level cutting power.
-  Updated: 2026-11-05T12:12:39Z
+  Updated: 2026-11-07T12:14:29Z
   Total Products: 38
 - [Remote Control Lawn Mower](https://eu.mowrator.com/collections/remote-control-lawn-mower)
   Updated: 2026-11-05T12:12:39Z
@@ -680,25 +680,25 @@
   Updated: 2026-11-03T02:30:41Z
   Total Products: 5
 - [Terrain Bundle](https://eu.mowrator.com/collections/terrain-bundle): Mowrator S1, the world's first 5-in-1 battery-powered remote control lawn mower with the powerful Beast™ Powertrain System, can effortlessly conquer steep slopes up to 100% (45°) and handles challenging terrains with ease. Designed for tough, thick, and high grass, it delivers gasoline mower-level cutting power.
-  Updated: 2026-11-05T12:12:39Z
+  Updated: 2026-11-07T12:14:29Z
   Total Products: 9
 - [Beast LeafVac](https://eu.mowrator.com/collections/beast-leafvac)
   Updated: 2026-11-03T03:04:32Z
   Total Products: 4
 - [Beast LeafVac Accessories](https://eu.mowrator.com/collections/beast-leafvac-accessories)
-  Updated: 2026-11-03T03:10:50Z
+  Updated: 2026-11-07T12:14:29Z
   Total Products: 7
 - [Snow Removal Bundle](https://eu.mowrator.com/collections/snow-removal-bundle)
   Updated: 2026-11-03T03:06:48Z
   Total Products: 4
 - [Remote Control Slope Mowers](https://eu.mowrator.com/collections/remote-control-slope-mowers)
-  Updated: 2026-11-05T12:12:39Z
+  Updated: 2026-11-07T12:14:29Z
   Total Products: 41
 - [Mowrator S1](https://eu.mowrator.com/collections/mowrator-s1)
-  Updated: 2026-11-05T12:12:39Z
+  Updated: 2026-11-07T12:14:29Z
   Total Products: 4
 - [Accessories](https://eu.mowrator.com/collections/accessories-1)
-  Updated: 2026-11-06T12:14:06Z
+  Updated: 2026-11-12T12:14:06Z
   Total Products: 32
 
 ## Blogs
