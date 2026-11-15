@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-01-04T18:48:03Z
 - Contact Email: kunwarjadaorganics@gmail.com
-- Updated At: 2026-11-08T00:18:53.251Z
+- Updated At: 2026-11-15T00:18:55.596Z
 
 # Kodand Honey
 
@@ -15,7 +15,7 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
 ## Products
 
 - [KODAND Honey Stick 120g - KODAND® | Pure. Natural. Ethical. All Rights Reserved.](https://iamkodand.in/products/kodand-honey-stick-120g): KODAND Honey Sticks deliver the rich, natural goodness of raw honey in a pocket-sized format. Free from artificial syrups, added sugars, or heavy industrial processing, each stick preserves the natural enzymes, pollen, and floral notes straight from the hive. Simply snip or tear the top, squeeze, and enjoy straight or stirred into your favorite drink. - KODAND® | Pure. Natural. Ethical. All Rights Reserved.
-  Updated: 2026-10-13T04:22:42Z
+  Updated: 2026-11-10T06:38:24Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: 
   Availability: Available
@@ -29,7 +29,7 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
   Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/ChatGPT_Image_Sep_30_2026_12_26_39_PM-1.png?v=1790751416
   Price: ₹750.00 INR
 - [Pure Jamun Honey: Premium Indian Blackberry Honey for Wellness](https://iamkodand.in/products/jamun-honey-1kg-pure-raw-honey-for-diabetes-support-immunity-kodand): Discover the health benefits of Pure Jamun Honey! Enjoy its rich flavor, natural sweetness, and wellness boost in your daily routine. Elevate your vitality today!
-  Updated: 2026-10-21T03:08:29Z
+  Updated: 2026-11-10T06:25:07Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Jamun Honey
   Availability: Available
@@ -47,7 +47,7 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
     Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/WhatsApp_Image_2026-10-08_at_11.35.42_1.jpg?v=1791530942
     Price: ₹285.00 INR
 - [Pure Raw Ajwain Honey - Elevate Your Health & Flavor](https://iamkodand.in/products/ajwain-honey-1kg-natural-honey-for-digestion-immunity-kodand): Discover Pure Raw Ajwain Honey – a delicious, health-boosting honey from Rajasthan and Gujarat. Elevate your wellness with its bold flavor today!
-  Updated: 2026-10-19T11:06:18Z
+  Updated: 2026-11-10T06:38:24Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Ajwain Honey
   Availability: Available
@@ -64,7 +64,7 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
     Availability: Available
     Price: ₹270.00 INR
 - [Rajasthan Acacia Honey 1 kg | Pure Raw Low Glycemic Honey - KODAND® |](https://iamkodand.in/products/rajasthan-acacia-honey-1kg-pure-natural-honey-for-weight-management-kodand): Kodand Rajasthan Acacia Honey 1kg is a pure raw honey sourced from acacia (kikar) forests in Rajasthan, India. One of the most prized honeys in the world
-  Updated: 2026-11-06T13:10:27Z
+  Updated: 2026-11-10T06:38:23Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Acacia Honey
   Availability: Available
@@ -82,7 +82,7 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
     Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/WhatsApp_Image_2026-10-08_at_11.35.43_1.jpg?v=1791530942
     Price: ₹285.00 INR
 - [Pure Raw Tulsi Honey 1 kg - Unleash Natural Wellness Daily](https://iamkodand.in/products/tulsi-honey-1kg-pure-natural-honey-for-immunity-cold-relief-kodand): Elevate your health with Pure Raw Tulsi Honey 1 kg. Enjoy its unique flavor while benefiting from its natural wellness properties. Discover pure goodness today!
-  Updated: 2026-11-04T06:38:17Z
+  Updated: 2026-11-10T06:25:06Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Tulsi Honey
   Availability: Available
@@ -100,7 +100,7 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
     Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/WhatsApp_Image_2026-10-08_at_11.35.43_2.jpg?v=1791530941
     Price: ₹275.00 INR
 - [HONEY - KODAND Wild Forest Honey 1 kg | Pure & Raw](https://iamkodand.in/products/wild-forest-honey-1kg-pure-raw-honey-with-strong-immunity-benefits-kodand): Indulge in KODAND Wild Forest Honey, a 100% pure multifloral honey packed with natural sweetness and health benefits. Perfect for wellness and culinary uses.
-  Updated: 2026-10-26T19:27:35Z
+  Updated: 2026-11-10T06:25:06Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Wild Forest Honey
   Availability: Available
@@ -118,7 +118,7 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
     Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/WhatsApp_Image_2026-10-08_at_11.35.44.jpg?v=1791530941
     Price: ₹285.00 INR
 - [Deliciously Sweet Pure Raw Litchi Honey 1 kg – Nature's Nectar - KODAND® | Pure. Natural. Ethical. All Rights Reserved.](https://iamkodand.in/products/litchi-honey-1kg-pure-natural-honey-with-rich-taste-kodand): Deliciously Sweet Pure Raw Litchi Honey – Nature's Nectar for Your WellbeingEnhance your health and culinary experiences with our Pure Raw Litchi Honey. Sourced from the delightful nectar of litchi blossoms, this 1 kg jar of honey is not just a sweet treat; it's a natural powerhouse packed with flavor and health benefits. Harvested in India during the short litchi flowering season, this honey captivates with its unique fruity aroma and light golden hue, making it a favorite among honey enthusiasts.Why Choose Our Pure Raw Litchi Honey? Authentically Sweet: Delight in a delicately sweet, floral taste reminiscent of fresh litchi fruit. Natural Aroma: Enjoy a light, fragrant scent that adds a touch of nature to your day. Pure Quality: Our honey is unfiltered, ensuring all nutrients and natural enzymes are preserved. Versatile Uses: Perfect for sweetening your morning tea, drizzling over pancakes, or enriching smoothies. Storage & CareFor optimal freshness, store in a cool, dry place away from direct sunlight. Natural crystallization is a sign of purity and can easily be reversed by warming the jar in water.Join the Pure Honey RevolutionExperience the unforgettable flavor and numerous health benefits of our Pure Raw Litchi Honey. Whether you're looking for a natural sweetener or the perfect gift, this honey is sure to impress. Treat yourself and your loved ones to the pure taste of nature. - KODAND® | Pure. Natural. Ethical. All Rights Reserved.
-  Updated: 2026-10-20T08:20:05Z
+  Updated: 2026-11-10T06:38:23Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Litchi Honey
   Availability: Available
@@ -136,7 +136,7 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
     Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/WhatsApp_Image_2026-10-08_at_11.35.42_2.jpg?v=1791530941
     Price: ₹285.00 INR
 - [Honey for Health: Pure Raw Multiflora Honey - 1kg of Sweetness](https://iamkodand.in/products/multiflora-honey-1kg-pure-natural-honey-for-daily-use-kodand): Pure Raw Multiflora Honey: Nature's Sweetness for Your WellbeingEmbrace the delightful taste of Pure Raw Multiflora Honey and elevate your everyday meals with
-  Updated: 2026-11-03T16:03:43Z
+  Updated: 2026-11-10T06:38:23Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Multiflora Honey
   Availability: Available
@@ -154,7 +154,7 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
     Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/WhatsApp_Image_2026-10-08_at_11.35.43.jpg?v=1791530941
     Price: ₹290.00 INR
 - [Honey for Wellness: Pure & Premium Raw Sidr Honey 1 kg](https://iamkodand.in/products/sidr-honey-1kg-premium-raw-honey-for-immunity-strength-kodand): Elevate Your Wellness with Premium Raw Sidr Honey 1 kgKODAND Premium Raw Sidr Honey 1 kg offers a delicious path to better health and vitality. Sourced from
-  Updated: 2026-11-06T18:17:57Z
+  Updated: 2026-11-10T06:25:05Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Sidr Honey
   Availability: Available
@@ -172,14 +172,14 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
     Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/0a115e61-75fe-45b6-8791-ec4b36a77da3.png?v=1791014784
     Price: ₹270.00 INR
 - [Kodand Navratna Raw Honey Gift Box – 9 Premium Honey Varieties | Luxury Gift Hamper](https://iamkodand.in/products/kodand-navratna-raw-honey-gift-box-9-premium-honey-varieties-luxury-gift-hamper): Nature's Nine Treasures, Beautifully Gifted. Why gift something ordinary when you can gift nine delightful varieties of honey? Introducing the Kodand Navratna Raw Honey Gift Box, an elegant collection of nine assorted raw honey varieties. Each jar brings its own distinctive character, making this collection a wonderful way to explore different honey varieties. Presented in a stunning royal blue box with gold detailing, beautifully arranged glass jars, and luxurious satin interiors, this hamper makes every gifting occasion feel special. Whether you're celebrating a festival, thanking a loved one, or looking for a premium corporate gift, Kodand Navratna offers a memorable gifting experience. 9 Honey Varieties. 1 Premium Gift Box. Just ₹999. What's Inside? 9 assorted Kodand raw honey jars 1 premium royal blue gift box Golden satin-lined presentation tray Elegant gift-ready packaging Perfect For Diwali Gifting | Wedding Hampers | Corporate Gifts | Anniversaries | Birthdays | Family Gifting | Festive Celebrations
-  Updated: 2026-11-06T23:05:00Z
+  Updated: 2026-11-10T06:38:23Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/ChatGPTImageNov5_2026_12_38_47PM-1.png?v=1793862623
   Price: ₹999.00 INR
-- [KODAND Shilajit Honey – Nature’s Goodness in Every Stick (pack of 15)](https://iamkodand.in/products/kodand-shilajit-honey-nature-s-goodness-in-every-stick): Experience the rich blend of premium Shilajit and natural honey in a convenient, ready-to-use stick. Easy to carry, mess-free, and perfect for adding a touch of nature to your everyday wellness routine
-  Updated: 2026-11-07T23:47:14Z
+- [KODAND Shilajit Honey Sticks - 600 mg Himalayan Shilajit | 15 x 8 g](https://iamkodand.in/products/kodand-shilajit-honey-nature-s-goodness-in-every-stick): KODAND Shilajit Honey Sticks combine raw, unprocessed honey with Himalayan Shilajit resin in a convenient single-serve format. Each 8 g stick contains 600 mg of Shilajit, and every box includes 15 sticks (120 g).
+  Updated: 2026-11-10T18:12:18Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: 
   Availability: Available
@@ -219,7 +219,7 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
   Updated: 2026-09-29T09:00:29Z
   Total Products: 0
 - [Best seller](https://iamkodand.in/collections/best-seller): - KODAND® | Pure. Natural. Ethical. All Rights Reserved.
-  Updated: 2026-11-07T12:23:32Z
+  Updated: 2026-11-10T06:04:52Z
   Total Products: 9
 
 ## Blogs
@@ -573,6 +573,14 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
     Updated: 2026-11-04T12:01:37Z
     Author: Kodand Honey Team
     Tags: benefits, health benefits, honey, honey benefits, improve digestion naturally, indian honey, jamun, jamun honey, jamun honey for immunity, kodand honey, monsoon diet, natural honey, nutritional value, pure honey, raw honey
+  - [Raw Kodand Honey: Unveiling Its Unique Indian Health Benefits](https://iamkodand.in/blogs/news/raw-kodand-honey-unveiling-its-unique-indian-health-benefits): Raw Kodand Honey: Unveiling Its Unique Indian Health Benefits
+    Updated: 2026-11-10T12:00:37Z
+    Author: Kodand Honey Team
+    Tags: benefits of jamun honey, health, honey, honey benefits, indian honey, jamun, jamun honey, kodand honey, natural honey, natural sweetener, nutritional benefits, pure honey, raw honey, traditional remedy, unique health benefits of honey
+  - [Exploring Significant Ayurveda Benefits with Natural Jamun Honey](https://iamkodand.in/blogs/news/exploring-significant-ayurveda-benefits-with-natural-jamun-honey): Exploring Significant Ayurveda Benefits with Natural Jamun Honey
+    Updated: 2026-11-11T12:01:49Z
+    Author: Kodand Honey Team
+    Tags: ayurveda, health benefits, honey, honey benefits, indian honey, jamun, jamun honey, jamun honey benefits, kodand honey, natural honey, nutritional value, organic jamun honey, pure honey, raw honey
 - [Benefits of Raw Honey – Why KODAND Raw Honey is a Daily Superfood](https://iamkodand.in/blogs/benefits-of-raw-honey-why-kodand-raw-honey-is-a-daily-superfood)
   - [Honey: Your Complete Guide to Pure, Raw & Natural Honey](https://iamkodand.in/blogs/benefits-of-raw-honey-why-kodand-raw-honey-is-a-daily-superfood/honey-the-ultimate-guide-to-pure-raw-natural-honey-benefits-uses-buying-guide): Honey: Your Complete Guide to Pure, Raw & Natural Honey
     Updated: 2026-08-19T11:23:29Z
@@ -985,17 +993,17 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
 ## Store Pages
 
 - [Honey Support | Contact Kodand Honey for All Your Needs](https://iamkodand.in/pages/contact-kodand-honey-customer-support-honey-orders): Connect with Us for All Your Honey Needs At Kodand Honey, we believe that pure, high-quality honey can enhance your life and wellness. Whether you ...
-  Updated: 2026-08-18T15:43:50Z
+  Updated: 2026-11-10T07:18:00Z
 - [Honey – Quality KODAND Distributorship for Sweet Delights](https://iamkodand.in/pages/kodand-distributorships): Enhance Your Life with Premium Honey from KODANDIf you're a fan of honey, you're in for a treat! KODAND Distributorship offers the finest selection...
-  Updated: 2026-08-18T15:44:04Z
+  Updated: 2026-11-10T07:06:22Z
 - [Honey Bulk Orders – Save More with KODAND 🍯📦](https://iamkodand.in/pages/bulk-order-query): Discover the Benefits of Buying Honey in Bulk Are you looking to enhance your culinary creations or boost your wellness routine? Our bulk order hon...
-  Updated: 2026-08-18T15:44:22Z
+  Updated: 2026-11-10T07:18:24Z
 - [Honey Careers at KODAND: Sweet Opportunities Await!](https://iamkodand.in/pages/careers-at-kodand): Transform Your Life with a Sweet Career at KODAND HoneyIf you're looking for a career that combines passion, innovation, and a love for honey, KODA...
-  Updated: 2026-08-18T15:44:34Z
+  Updated: 2026-11-10T07:05:10Z
 - [Honey Quality Certifications & Registrations - Trust in Every Jar](https://iamkodand.in/pages/company-certifications-registrations): Commitment to Quality with Our Honey Certifications At our company, we believe that quality honey is not just about taste; it’s about trust. Our ho...
-  Updated: 2026-08-18T15:44:48Z
+  Updated: 2026-11-10T07:04:19Z
 - [Honey FAQ - Pure Natural Honey Questions Answered](https://iamkodand.in/pages/kokand-honey-faq): Discover the Benefits of Pure Natural HoneyAre you curious about honey? In our comprehensive FAQ section, we provide in-depth answers about pure na...
-  Updated: 2026-08-18T15:45:14Z
+  Updated: 2026-11-10T07:04:45Z
 - [Honey - Pure & Natural Benefits from KODAND 🌍🍯](https://iamkodand.in/pages/kodand-global-export): Experience the Transformative Power of HoneyAt KODAND, we believe that honey is more than just a sweet treat; it's a natural remedy that enriches y...
   Updated: 2026-08-18T15:45:37Z
 - [Honey Specials: Unbelievable Deals on Premium Honey Products](https://iamkodand.in/pages/special-offers): Discover the Sweet Benefits of Our Honey Specials Our honey specials are not just about savoring the sweet taste; they improve your life by offerin...
@@ -1003,9 +1011,9 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
 - [Honey Shipping Policy | Fast Delivery at Kodand Honey India](https://iamkodand.in/pages/shipping-policy-kodand-honey-india): Enjoy Pure Honey Delivered Right to Your Doorstep At Kodand Honey India, we believe that natural honey should be accessible to everyone. Our shippi...
   Updated: 2026-08-18T15:46:10Z
 - [Honey Return & Refund Policy | Hassle-Free with Kodand Honey](https://iamkodand.in/pages/return-refund-policy-kodand-honey): Your Convenience Matters: Returns & Refunds for HoneyAt Kodand Honey, we believe that your experience with our pure, delicious honey should be noth...
-  Updated: 2026-08-18T15:46:33Z
+  Updated: 2026-11-10T07:20:00Z
 - [Honey Warranty: Pure Quality You Can Trust at KODAND](https://iamkodand.in/pages/products-warranty): 🛡️ Trust Our Honey: Your Assurance of Quality At KODAND, we believe that the best honey should not only taste delightful but also meet the highest ...
-  Updated: 2026-08-18T17:02:05Z
+  Updated: 2026-11-10T07:19:40Z
 - [Honey Product Information: Your Guide to KODAND’s Quality & Benefits](https://iamkodand.in/pages/disclaimer): Discover Essential Honey Product Information for Informed Choices Understanding honey product information is vital for anyone looking to incorporat...
   Updated: 2026-08-18T17:09:52Z
 - [Honey  Opportunities with KODAND – Sweet Returns await](https://iamkodand.in/pages/investors): Discover the Benefits of Investing in Honey with KODAND Are you ready to take your financial portfolio to the next level? Investing in honey is not...
@@ -1013,9 +1021,9 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
 - [Honey: Unlock Its Sweet Health Benefits for Your Well-Being](https://iamkodand.in/pages/class-container-narrow): Unlock the Natural Honey Benefits: Transform Your Health Today Discover how embracing the natural honey benefits can revolutionize your well-being!...
   Updated: 2026-08-19T11:43:23Z
 - [Honey Collection Sitemap: Sweeten Your Search Effortlessly](https://iamkodand.in/pages/kodand-website-sitemap): Discover Your Sweet Tooth with Our Comprehensive Honey Collection Sitemap Welcome to a world of natural sweetness! Our extensive honey collection s...
-  Updated: 2026-08-18T17:08:57Z
+  Updated: 2026-11-10T07:19:16Z
 - [Honey: Join KODAND's  Program for Sweet Earnings!](https://iamkodand.in/pages/kodand--program): Join the KODAND  Program and Discover the Sweet Benefits of Honey! Are you passionate about honey and natural products? By joining the KOD...
-  Updated: 2026-08-18T17:06:27Z
+  Updated: 2026-11-10T07:05:58Z
 - [Honey Collections - Discover Sweet and Healthy Flavors](https://iamkodand.in/pages/all-honey-collections): Explore Our Exquisite Honey Collections Indulge in the natural sweetness of honey that not only delights your taste buds but also enhances your ove...
   Updated: 2026-08-18T17:05:51Z
 - [Honey - Pure Quality from KODAND | Sourced with Trust](https://iamkodand.in/pages/why-our-honey-is-pure): Why Our Honey is Pure and How It Can Benefit YouWhen it comes to honey, purity matters. Our honey not only meets the highest quality standards, but...
@@ -1031,13 +1039,13 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
 - [Honey: Raw vs Processed - Discover the Key Differences](https://iamkodand.in/pages/raw-honey-vs-processed-honey): Raw Honey vs Processed Honey: The Benefits of Honey in Your LifeWhen it comes to honey, understanding the difference between raw honey and processe...
   Updated: 2026-08-18T15:25:26Z
 - [Honey Benefits: Discover Pure KODAND Honey for Health & Wellness](https://iamkodand.in/pages/about-us-kodand): 🍯 Discover the Benefits of Pure KODAND Honey At KODAND, we believe that honey isn't just a sweet treat; it's a natural marvel that can transform yo...
-  Updated: 2026-08-18T15:27:00Z
+  Updated: 2026-11-10T06:51:10Z
 - [Honey - Buy Pure Natural Honey Online in India | Kodand Honey](https://iamkodand.in/pages/where-to-buy-honey-online-in-india): Experience the Benefits of Pure Natural Honey Searching for the best honey to sweeten your life? Look no further! Our pure natural honey is perfect...
   Updated: 2026-08-18T15:26:01Z
 - [Honey - KODAND's Pure Natural Honey & Food Products](https://iamkodand.in/pages/about-us): Transform Your Life with KODAND's Pure Natural Honey At KODAND, we believe that honey isn’t just a sweetener; it's a lifestyle choice. Our pure nat...
   Updated: 2026-08-18T15:27:23Z
-- [Honey: Secure Payments Made Easy - Shop with Confidence](https://iamkodand.in/pages/payment-terms): Secure Your Payments with HoneyWhen it comes to online shopping, safety is paramount. With Honey, you can rest assured that your payment informatio...
-  Updated: 2026-08-18T15:27:34Z
+- [Honey: Secure Payments Made Easy - Shop with Confidence](https://iamkodand.in/pages/payment-terms): Paying for your orderThe payment options available for your order are displayed at checkout. Choose the method that suits you and review the total ...
+  Updated: 2026-11-10T07:20:51Z
 - [Honey Festival Gift Hampers India | Celebrate with Pure Honey](https://iamkodand.in/pages/festival-gift-hampers-india-pure-honey-diwali-wedding-gifts-kodand-honey): Experience the Joy of Gifting with Our Honey Festival Hampers Looking for the perfect gift that spreads sweetness in more ways than one? Our honey ...
   Updated: 2026-08-18T15:28:12Z
 - [Honey Recipes: Healthy & Natural Cooking Ideas with Honey](https://iamkodand.in/pages/honey-food-recipes-healthy-natural-recipes-with-honey-kodand-honey): Discover the Sweetness of Honey in Your MealsHoney isn't just a delicious natural sweetener; it's a powerful ingredient that can elevate your daily...
