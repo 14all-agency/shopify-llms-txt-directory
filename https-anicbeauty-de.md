@@ -10,7 +10,7 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
 - Created At: 2024-12-21T15:29:50Z
 - Contact Email: info@anicbeauty.de
 - Address: 74564 Crailsheim
-- Updated At: 2026-11-07T00:37:07.972Z
+- Updated At: 2026-11-15T00:41:56.663Z
 
 ## Products
 
@@ -79,7 +79,7 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Short_curly_hair__4.jpg?v=1789645418
     Price: 24,90 € EUR
 - [Lace Tint Spray Wasserfest – Perücken Concealer | LUX-Anic](https://anicbeauty.de/products/waterproof-lace-closure-tint-melting-mousse-spray-concealer-front-wigs): Wasserfester Lace Tint Spray für Lace Front Perücken, Flechtfrisuren & alle Haartypen. Kaschiert die Lace für einen natürlichen Auftritt.
-  Updated: 2026-11-04T19:37:33Z
+  Updated: 2026-11-07T18:05:56Z
   Vendor: LUX-Anic
   Product Type: Accessories
   Availability: Available
@@ -195,12 +195,12 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/aloe-jojoba_conditioner_pd_main_512_X_512_1674141220588_8ba00c4d-73a2-44aa-81eb-dcbec919b99d.png?v=1744475046
   Price: 27,95 € EUR
 - [Forever Marine Collagen Portionsbeutel | Strahlende Haut für dich](https://anicbeauty.de/products/forever-marine-collagen™-luminous-youthful-and-smooth-skin-30packets): Entdecke die Forever Marine Collagen Portionsbeutel für straffe, leuchtende Haut! Unterstütze die Kollagenbildung und genieße strahlende Haut mit Leichtigkeit.
-  Updated: 2026-10-31T18:03:58Z
+  Updated: 2026-11-11T11:55:48Z
   Vendor: LUX-Anic
   Product Type: Forever Hair care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever_marine_collagen__pd_main_512_X_512_1666949434151.jpg?v=1789646034
-  Price: 89,95 € EUR
+  Price: 69,95 € EUR
 - [Aloe Liquid Soap – Sanfte Reinigung mit Aloe Vera & Arganöl](https://anicbeauty.de/products/aloe-liquid-soap-aloe-vera-gel-argan-oil-and-jojoba-liquid-soap-473ml): Erleben Sie sanfte Reinigung mit der Aloe Liquid Soap. Perfekt für Gesicht, Körper und Haare. Holen Sie sich intensive Pflege für jeden Hauttyp!
   Updated: 2026-11-04T17:45:18Z
   Vendor: LUX-Anic
@@ -244,7 +244,7 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Lips_Pack_012.jpg?v=1790586058
   Price: 53,75 € EUR
 - [Aloe Vera Deodorant ohne Aluminiumsalze – Natürliche Frische für Sie](https://anicbeauty.de/products/forever-aloe-ever-shield™-deodorant-stick-without-aluminum-salt): Entdecken Sie unser Aloe Vera Deodorant ohne Aluminiumsalze für natürliche Frische und sanfte Hautpflege. Ideal für empfindliche Haut – für ein sicheres, angenehmes Gefühl den ganzen Tag.
-  Updated: 2026-10-31T18:03:57Z
+  Updated: 2026-11-10T09:18:57Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
@@ -655,47 +655,47 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Sb6a5c92c1ad04cc6ab0b4f675d896661D.png?v=1790600323
   Price: 14,90 € EUR
 - [Haustier Reisetasche | Sicher & Komfortabel Reisen](https://anicbeauty.de/products/dog-and-cat-travel-bag-by-pawzone): Transporttasche für Hund & Katze aus strapazierfähigem Material. Weiche Schaumseiten, verstärkter Boden – sicher & komfortabel bei jeder Reise.
-  Updated: 2026-11-04T17:48:22Z
+  Updated: 2026-11-10T14:35:26Z
   Vendor: LUX-Anic
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/16483_11.webp?v=1791814050
   Price: 23,95 € EUR
 - [Katzenbett Hausform 34×37 cm | Gemütlich & Warm](https://anicbeauty.de/products/plusch-katzenbett-haus-stil-box-34-x-37-cm): Katzenbett im Hausformat aus weichem Plüsch, 34×37 cm. Perfekter gemütlicher Rückzugsort für deine Katze – warm, sicher & leicht zu reinigen.
-  Updated: 2026-11-04T17:48:22Z
-  Vendor: Das CozyNest
+  Updated: 2026-11-11T02:30:40Z
+  Vendor: LUX-Anic
   Product Type: LUX-Anic Accessoires
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/16817_1_de6ba35e-33f1-41ae-8520-953013cd431a.jpg?v=1791814080
-  Price: 16,95 € EUR
+  Price: 22,95 € EUR
 - [Bambus-Frühstückstablett XL | Faltbares Betttablett](https://anicbeauty.de/products/bamboo-foldable-breakfast-table-large-laptop-desk): XL Bambus-Frühstückstablett, faltbar & stabil – ideal zum Frühstücken im Bett oder Arbeiten am Laptop. Aus nachhaltigem Bambus, leicht zu reinigen.
-  Updated: 2026-11-04T17:41:48Z
-  Vendor: Das CozyNest
+  Updated: 2026-11-11T02:30:41Z
+  Vendor: LUX-Anic
   Product Type: LUX-Anic Accessoires
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Breakfasttable_3.jpg?v=1791814083
-  Price: 18,95 € EUR
+  Price: 19,95 € EUR
 - [Bambus-Laptoptisch | Verstellbar & Belüftet](https://anicbeauty.de/products/bambus-laptop-tisch-verstellbar-beluftet): Verstellbarer Bambus-Laptoptisch für bis zu 17 Zoll Laptops. Belüftetes Design, nachhaltig & leicht – komfortables Arbeiten überall. Schnelle Lieferung.
-  Updated: 2026-11-04T17:41:48Z
-  Vendor: Das CozyNest
+  Updated: 2026-11-11T02:30:40Z
+  Vendor: LUX-Anic
   Product Type: LUX-Anic Accessoires
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Laptop_table.jpg?v=1791814104
   Price: 24,95 € EUR
 - [Klapprad für Kinder "EasyRoll" - 200mm Räder, Bremse - für Kinder ab 8 Jahren](https://anicbeauty.de/products/faltbarer-kinderroller-easyroll-200mm-rader-bremse-ab-8-jahren): Klapprad für Kinder "EasyRoll" - 200mm Räder, Bremse - für Kinder ab 8 Jahren - LUX-Anic - LUX-Anic Accessoires
-  Updated: 2026-11-01T16:54:01Z
+  Updated: 2026-11-11T02:40:39Z
   Vendor: LUX-Anic
   Product Type: LUX-Anic Accessoires
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Foldable_Kids_Scooter_200_mm_Wheels_Brake_Strap_5_21c7cd86-a57c-48fa-99d9-8f673578739d.jpg?v=1791814144
+  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Foldable_Kids_Scooter_200_mm_Wheels_Brake_Strap_13_6cd4149e-5e34-4752-b668-988e8a1ece6c.jpg?v=1791814159
   - [Schwarz](https://anicbeauty.de/products/faltbarer-kinderroller-easyroll-200mm-rader-bremse-ab-8-jahren?variant=58968117870856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Foldable_Kids_Scooter_200_mm_Wheels_Brake_Strap_5_21c7cd86-a57c-48fa-99d9-8f673578739d.jpg?v=1791814144
-    Price: 49,95 € EUR
+    Price: 48,95 € EUR
   - [Rosa](https://anicbeauty.de/products/faltbarer-kinderroller-easyroll-200mm-rader-bremse-ab-8-jahren?variant=58968117903624)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Foldable_Kids_Scooter_200_mm_Wheels_Brake_Strap_10_4ceab8ba-1d8c-44f3-b05a-347c6d89374e.jpg?v=1791814149
-    Price: 49,95 € EUR
+    Price: 48,95 € EUR
 - [Künstliche Heckenwand Immergrün | Sichtschutz Garten](https://anicbeauty.de/products/artifizielle-heckenwand-von-evergreen-gruner-sichtschutz): Künstliche Heckenwand aus immergrünen Pflanzen – natürlicher Sichtschutz für Garten, Balkon & Zuhause. Wetterfest, pflegeleicht, in 2 Größen.
   Updated: 2026-11-04T17:39:39Z
   Vendor: Das CozyNest
@@ -711,42 +711,42 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Artificialhedgeforfencingbalconywallmesh_5.jpg?v=1791814230
     Price: 21,90 € EUR
 - [Hundebett Purlov Gepolstert | Kleine & Mittlere Hunde](https://anicbeauty.de/products/purlov-soft-padded-dog-bed-for-small-medium-dogs): Weiches, gepolstertes Hundebett für kleine bis mittelgroße Hunde. Warme Polsterung, erhöhte Seiten für Geborgenheit & Komfort – schnelle Lieferung.
-  Updated: 2026-11-04T17:48:23Z
-  Vendor: Das CozyNest
-  Product Type: Imported
+  Updated: 2026-11-11T02:30:40Z
+  Vendor: LUX-Anic
+  Product Type: LUX-Anic Accessoires
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/619jwRhNYRL._AC_SL1280.jpg?v=1791811624
   Price: 18,90 € EUR
 - [Rundes Katzenbett 60 cm | Flauschig für Hunde & Katzen](https://anicbeauty.de/products/60cm-katzenbett-rund-flauschig-haustierbett-fur-grosse-hunde-und-katz): Weiches, rundes Haustierbett 60 cm mit hohen Seiten für Geborgenheit. Ideal für Katzen & kleine Hunde – gemütlicher Rückzugsort. Schnelle Lieferung.
-  Updated: 2026-11-04T17:48:23Z
-  Vendor: Das CozyNest
-  Product Type: Imported
+  Updated: 2026-11-11T02:30:41Z
+  Vendor: LUX-Anic
+  Product Type: LUX-Anic Accessoires
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/16916_1.jpg?v=1791814232
-  Price: 13,90 € EUR
+  Price: 16,90 € EUR
 
 ## Collections
 
 - [Startseite](https://anicbeauty.de/collections/home-page): LUX-Anic – Dein Shop für Forever Living Naturkosmetik, Aloe Vera Pflege. Schnelle Lieferung nach Deutschland & ganz Europa.
-  Updated: 2026-11-03T12:29:32Z
+  Updated: 2026-11-11T11:55:50Z
   Total Products: 76
 - [Echthaar-Perücken-Haarstyling-Geräte und Zubehör](https://anicbeauty.de/collections/echthaar-perucken-haarstyling-gerate): Entdecke unsere Echthaar-Perücken – natürlicher Look, hoher Tragekomfort & vielseitige Frisuren für jeden Anlass. Kostenloser Versand
-  Updated: 2026-11-04T11:54:28Z
+  Updated: 2026-11-08T12:22:12Z
   Total Products: 14
 - [Neuheiten](https://anicbeauty.de/collections/new-arrivals): Entdecke die neuesten Produkte bei LUX-Anic – Forever Living Naturkosmetik, Aloe Vera Pflege. Immer frisch, immer aktuell.
-  Updated: 2026-10-30T02:58:21Z
+  Updated: 2026-11-10T12:24:01Z
   Total Products: 5
 - [Forever Essentials - Hautpflege](https://anicbeauty.de/collections/skin-and-personal-care-aloe-vera-by-forever-living): Entdecke Forever Living Naturkosmetik – Aloe Vera Gels, Cremes & Serum für Feuchtigkeit, Straffung & Regeneration. Für alle Hauttypen. Kaufen bei LUX-Anic.
-  Updated: 2026-10-31T11:22:45Z
+  Updated: 2026-11-11T11:55:50Z
   Total Products: 35
 - [Hair Care - gesundes und glänzendes Haar](https://anicbeauty.de/collections/hair-care-collection-aloe-vera-by-forever-living): Forever Living Aloe Vera Haarpflege – Shampoos, Conditioner & Haarkuren für gesundes, glänzendes Haar. Natürliche Inhaltsstoffe. Kaufen bei LUX-Anic.
-  Updated: 2026-10-16T19:26:25Z
+  Updated: 2026-11-11T11:55:50Z
   Total Products: 6
 - [Aktives Leben – Sport & Fitness – von Forever Living](https://anicbeauty.de/collections/active-life-sport-fitness-by-forever-living): Forever Living Sport & Fitness – Aloe Vera Getränke, Shakes, Nahrungsergänzungsmittel & Vitamine für einen aktiven Lebensstil. Kaufen bei LUX-Anic.
   Updated: 2026-10-16T19:26:23Z
   Total Products: 24
 - [Forever Living Products](https://anicbeauty.de/collections/forever-living-products): Alle Forever Living Produkte auf einen Blick – Aloe Vera Gels, Naturkosmetik, Nahrungsergänzung & mehr. Kaufen bei LUX-Anic, schnelle Lieferung.
-  Updated: 2026-10-31T11:22:45Z
+  Updated: 2026-11-11T11:55:50Z
   Total Products: 63
 - [Haarstyling-Geräte und Zubehör](https://anicbeauty.de/collections/accessories): Entdecke professionelle Haarstyling-Geräte & Zubehör bei LUX-Anic – Haarglätter, Lockenwickler, Bürsten & mehr für perfekte Frisuren zu Hause.
   Updated: 2026-10-30T01:24:12Z
@@ -803,13 +803,13 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
 ## Policies
 
 - [Privacy Policy](https://anicbeauty.de/policies/privacy-policy)
-  Updated: 2026-11-05T19:04:45Z
+  Updated: 2026-11-14T03:17:51Z
 - [Shipping Policy](https://anicbeauty.de/policies/shipping-policy)
   Updated: 2026-11-01T16:34:10Z
 - [Refund Policy](https://anicbeauty.de/policies/refund-policy)
-  Updated: 2026-11-05T19:09:38Z
+  Updated: 2026-11-13T01:52:53Z
 - [Terms of Service](https://anicbeauty.de/policies/terms-of-service)
-  Updated: 2026-11-05T18:56:06Z
+  Updated: 2026-11-13T01:45:44Z
 - [Contact Information](https://anicbeauty.de/policies/contact-information)
   Updated: 2026-07-04T20:02:47Z
 
