@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2024-09-30T18:36:55Z
 - Contact Email: info@zananii.com
-- Updated At: 2026-11-07T00:37:04.494Z
+- Updated At: 2026-11-15T00:38:14.758Z
 
 ## Products
 
@@ -32,7 +32,7 @@
     Availability: Available
     Price: Rs 7,799.00 PKR
 - [Black Ribbon-Striped Set – Dastoor by Zananii](https://zananii.com/products/dastoor): Dastoor by Zananii features a black ribbon-striped cotton shirt with relaxed pants. A chic and timeless set crafted for comfort and modern style.
-  Updated: 2026-07-28T17:07:00Z
+  Updated: 2026-11-10T00:50:35Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -53,7 +53,7 @@
     Availability: Available
     Price: Rs 5,370.00 PKR
 - [Light Denim Co-ord Set – Qabil Collection by Zananii](https://zananii.com/products/qabil): Light blue denim outfit with short shirt and loose pants. A casual and comfortable co-ord set for a simple everyday look.
-  Updated: 2026-09-28T11:29:57Z
+  Updated: 2026-11-09T18:45:31Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -74,7 +74,7 @@
     Availability: Available
     Price: Rs 7,499.00 PKR
 - [Kaftan Shirt – Saakht Collection by Zananii](https://zananii.com/products/saakht): Viscose linen kaftan shirt with tassel and ruffle details. A soft, easy-fit outfit for casual or semi-formal wear.
-  Updated: 2026-07-28T17:06:50Z
+  Updated: 2026-11-09T18:46:21Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -140,7 +140,7 @@
     Availability: Available
     Price: Rs 6,999.00 PKR
 - [Powder Blue Embroidered Set – Maahe Collection by Zananii](https://zananii.com/products/maahe): Powder blue cotton linen outfit with embroidered booti and tulip shalwar. A soft, stylish set blending comfort with a traditional touch.
-  Updated: 2026-09-09T11:43:26Z
+  Updated: 2026-11-12T11:29:31Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -161,7 +161,7 @@
     Availability: Available
     Price: Rs 5,290.00 PKR
 - [Linen Set – Jogan Collection by Zananii](https://zananii.com/products/jogan): Linen outfit with jogi-style top and wide-leg shalwar. Soft, breathable, and easy to wear for relaxed everyday style.
-  Updated: 2026-08-06T10:13:45Z
+  Updated: 2026-11-14T15:13:46Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -247,7 +247,7 @@
     Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/Black_Color_-_Jogan_First_View.webp?v=1784908809
     Price: Rs 5,500.00 PKR
 - [Velvet Blazer Set – Baaghi Collection by Zananii](https://zananii.com/products/baaghi): Velvet blazer and wide-leg trouser set. Soft and stylish outfit that pairs comfort with a polished, modern look.
-  Updated: 2026-07-28T17:06:39Z
+  Updated: 2026-11-09T14:02:36Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -298,7 +298,7 @@
     Availability: Available
     Price: Rs 9,520.00 PKR
 - [Black Grip Linen Set – Simt Collection by Zananii](https://zananii.com/products/simt): Black grip linen kurta with block print and wide-leg shalwar. A soft and comfortable outfit for both summer and winter wear.
-  Updated: 2026-07-18T06:35:56Z
+  Updated: 2026-11-09T15:37:22Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -319,7 +319,7 @@
     Availability: Available
     Price: Rs 7,999.00 PKR
 - [Co-ord Set – Mannat Collection by Zananii](https://zananii.com/products/mannat): Slub viscose outfit with relaxed shirt and bootleg pants. A comfortable set made for a bold everyday look.
-  Updated: 2026-08-20T03:59:26Z
+  Updated: 2026-11-09T18:55:10Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -370,7 +370,7 @@
     Availability: Available
     Price: Rs 5,500.00 PKR
 - [White Embroidered Ensemble – Andaleeb by Zananii](https://zananii.com/products/full-white-kurta-with-white-embroidery): White lawn cotton kurta with delicate embroidery and susi shalwar. A graceful Andaleeb design by Zananii for timeless, refined everyday wear.
-  Updated: 2026-07-28T17:06:15Z
+  Updated: 2026-11-11T20:39:45Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -421,7 +421,7 @@
     Availability: Not Available
     Price: Rs 2,625.00 PKR
 - [White & Maroon Embroidered Lawn Set – Andaleeb by Zananii](https://zananii.com/products/white-with-maroon-embroidery): Elegant white lawn ensemble with maroon embroidery and susi shalwar. The Andaleeb set by Zananii blends heritage craftsmanship with timeless grace.
-  Updated: 2026-07-28T17:06:12Z
+  Updated: 2026-11-11T07:12:40Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -472,7 +472,7 @@
     Availability: Not Available
     Price: Rs 2,625.00 PKR
 - [Grey Short Shirt & Boho Shalwar – Dam Hama Dam by Zananii](https://zananii.com/products/grey-short-shirt-with-butterfly-shalwar): Grey reshmi kurta with susi details paired with a boho shalwar. Soft premium lawn outfit offering comfort and a classic everyday look.
-  Updated: 2026-08-13T03:44:36Z
+  Updated: 2026-11-14T04:12:21Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -508,7 +508,7 @@
     Availability: Available
     Price: Rs 12,199.00 PKR
 - [Striped Lawn Shirt & Boho Shalwar – Dam Hama Dam by Zananii](https://zananii.com/products/stripes-shirt-with-butterfly-shalwar): A soft striped lawn shirt with a boho shalwar. DHD-04 made from breathable fabric in yellow and blue tones—comfortable outfit for everyday summer wear.
-  Updated: 2026-08-17T12:01:36Z
+  Updated: 2026-11-12T16:17:26Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -529,7 +529,7 @@
     Availability: Available
     Price: Rs 9,999.00 PKR
 - [Ajrak Coat & Boho Shalwar – Dam Hama Dam by Zananii](https://zananii.com/products/ajrak-coat-and-mustard-butterfly-shalwar): Experience heritage redefined with our Ajrak Coat & Boho Shalwar. Handcrafted cotton elegance inspired by Sindhi artistry and timeless charm.
-  Updated: 2026-07-28T17:06:15Z
+  Updated: 2026-11-10T17:10:27Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -757,7 +757,7 @@
     Availability: Available
     Price: Rs 11,100.00 PKR
 - [Beige Co-ord Set in Irish Cotton – MAYA Collection by Zananii](https://zananii.com/products/beige-cord): Black and beige co-ord set made from soft Irish cotton with net detail. A comfortable two-piece outfit perfect for daily or casual wear.
-  Updated: 2026-07-28T17:05:58Z
+  Updated: 2026-11-11T08:57:40Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -778,7 +778,7 @@
     Availability: Available
     Price: Rs 11,400.00 PKR
 - [Maroon Kaftan & Beige Net Jacket – Raqs Collection by Zananii](https://zananii.com/products/maroon-kaftan-with-beige-net-jacket): Maroon malai lawn kaftan with a beige net jacket. A soft, flowing outfit that pairs comfort with a modern, graceful look.
-  Updated: 2026-07-31T09:52:03Z
+  Updated: 2026-11-12T14:29:21Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -799,7 +799,7 @@
     Availability: Available
     Price: Rs 8,840.00 PKR
 - [Black & White Tie-Dye Skirt Set – Raqs Collection by Zananii](https://zananii.com/products/raqs-01): Black and white tie-dye skirt with tank top and net jacket. Made from soft malai lawn and net for a stylish and comfortable look.
-  Updated: 2026-07-28T17:05:40Z
+  Updated: 2026-11-09T22:21:01Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -820,7 +820,7 @@
     Availability: Available
     Price: Rs 11,699.00 PKR
 - [Ajrak Detail Shirt – Zoya Collection by Zananii](https://zananii.com/products/black-button-down-with-ajrak-collar-pockets): Timeless shirt with Ajrak pocket detailing. The Zoya Collection by Zananii redefines elegance with heritage-inspired style.
-  Updated: 2026-09-09T13:07:07Z
+  Updated: 2026-11-11T13:43:06Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -886,7 +886,7 @@
     Availability: Available
     Price: Rs 4,799.00 PKR
 - [Flapper Pants – Taab Collection by Zananii](https://zananii.com/products/flapper-pants): Taab flapper pants made from soft slub viscose. Light, breathable, and easy to style for a relaxed and comfortable everyday look.
-  Updated: 2026-08-13T03:44:36Z
+  Updated: 2026-11-09T23:54:51Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1033,7 +1033,7 @@
     Availability: Available
     Price: Rs 7,800.00 PKR
 - [Off-White Chicken Kari Set – Laaj Collection by Zananii](https://zananii.com/products/laaj-01): Off-white chicken kari set with mustard embroidery, tassels, and white pants. A timeless piece from Zananii’s Laaj Collection.
-  Updated: 2026-07-28T17:05:10Z
+  Updated: 2026-11-10T01:02:56Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1054,7 +1054,7 @@
     Availability: Available
     Price: Rs 10,500.00 PKR
 - [Sleeveless Cream Chicken Kurta – Laaj Collection by Zananii](https://zananii.com/products/sleeveless-cream-chicken-kurta-with-white-pants): Sleeveless cream cotton chicken kurta with tassel accents and soft white pants. A timeless piece from Zananii’s Laaj Collection.
-  Updated: 2026-09-14T09:28:20Z
+  Updated: 2026-11-13T11:46:11Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1075,7 +1075,7 @@
     Availability: Available
     Price: Rs 6,125.00 PKR
 - [Lime Green Chicken Kurta – Laaj Collection by Zananii](https://zananii.com/products/lime-green-chicken-kurta-with-white-pants): Lime green embroidered chicken cotton kurta with pearl details and organza accents. A graceful ensemble from Zananii’s Laaj Collection.
-  Updated: 2026-08-06T07:40:44Z
+  Updated: 2026-11-10T01:48:16Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1223,7 +1223,7 @@
     Availability: Available
     Price: Rs 5,100.00 PKR
 - [Yellow Mul Cotton Kurta – Ramz Collection by Zananii](https://zananii.com/products/mustard-with-off-white-chicken-lace): Soft yellow self-textured mul cotton kurta with white chicken lace and elegant button detailing. From Zananii’s Ramz Collection – light, airy, and timeless.
-  Updated: 2026-08-19T12:15:57Z
+  Updated: 2026-11-09T15:19:36Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1265,7 +1265,7 @@
     Availability: Available
     Price: Rs 6,599.00 PKR
 - [White Button-Down Shirt – Zoya Collection by Zananii](https://zananii.com/products/zoya-02): A relaxed white self-lawn shirt with a gents collar and cuffed sleeves. The Zya Collection by Zananii brings effortless sophistication to everyday wear.
-  Updated: 2026-07-28T17:04:41Z
+  Updated: 2026-11-09T17:11:02Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1373,7 +1373,7 @@
     Availability: Available
     Price: Rs 3,799.00 PKR
 - [Linen Button-Down Shirt with Silver Buttons – Zoya by Zananii](https://zananii.com/products/zoya-05): Stay effortlessly chic in this linen shirt featuring a mandarin collar and silver buttons. Soft, airy, and perfect for a relaxed, elegant look.
-  Updated: 2026-08-02T21:28:28Z
+  Updated: 2026-11-12T19:09:07Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1439,7 +1439,7 @@
     Availability: Available
     Price: Rs 3,799.00 PKR
 - [Crop Top & Striped Butterfly Shalwar – Dam Hama Dam by Zananii](https://zananii.com/products/dhd-03): Elevate your style with our crop top and striped shalwar. A flowy lawn outfit blending modern elegance with effortless comfort by Zananii.
-  Updated: 2026-07-28T17:03:50Z
+  Updated: 2026-11-11T22:26:41Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1595,7 +1595,7 @@
     Availability: Available
     Price: Rs 3,199.00 PKR
 - [Butter Yellow Kurta Set – Ramz Collection by Zananii](https://zananii.com/products/ramz-03): Lightweight butter yellow self cotton kurta with pearl buttons and handmade tassels. A graceful piece from Zananii’s Ramz Collection for effortless charm.
-  Updated: 2026-07-28T17:03:45Z
+  Updated: 2026-11-11T21:09:55Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1616,7 +1616,7 @@
     Availability: Available
     Price: Rs 5,500.00 PKR
 - [Khusbakht Couture KCT-01 – Nude Beige Formal 3-Piece Ensemble](https://zananii.com/products/khusbakht-couture-kct-01): KCT-01 is a soft nude beige 3-piece formal outfit featuring an embroidered Korean silk long net shirt, silk bottoms, and a pure silk dupatta with embellishments.
-  Updated: 2026-07-28T17:03:38Z
+  Updated: 2026-11-13T13:06:36Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1662,7 +1662,7 @@
     Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/3_15c5cf2d-3c97-4e87-810a-7e3edb7556a3.jpg?v=1780664406
     Price: Rs 38,679.00 PKR
 - [Khusbakht Couture KCT-01 – Nude Beige Formal 3-Piece Ensemble](https://zananii.com/products/khusbakht-couture-kct-02): Stunning crimson red formal outfit featuring a long net jacket with inner and silk crush lehenga. Bold, elegant, and perfect for festive or formal occasions. Dry clean only.
-  Updated: 2026-08-31T09:46:50Z
+  Updated: 2026-11-11T22:24:16Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1708,7 +1708,7 @@
     Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/6_09a63abe-6381-4932-9e04-4c1e9933e1b2.jpg?v=1780662790
     Price: Rs 40,499.00 PKR
 - [Khusbakht Couture KCT-03 – Taupe Formal 2-Piece Ensemble](https://zananii.com/products/khusbakht-couture-kct-03): Sophisticated taupe formal outfit featuring a long Shamooz jacket with inner and Shamooz silk pants. Elegant draped net sleeves with lace detailing, perfect for festive or formal occasions. Dry clean only.
-  Updated: 2026-07-28T16:53:23Z
+  Updated: 2026-11-09T23:06:21Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1729,7 +1729,7 @@
     Availability: Available
     Price: Rs 21,845.00 PKR
 - [Khusbakht Couture KCT-04 – Rust & Mustard Formal 2-Piece Ensemble](https://zananii.com/products/khusbakht-couture-kct-04): Elegant ZANANII rust and mustard outfit KCT - 04 with short Empro coat, embroidered net shirt, and balloon silk pants. Custom pearl buttons, buttoned cuffs.
-  Updated: 2026-07-28T16:47:41Z
+  Updated: 2026-11-09T23:00:50Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1755,7 +1755,7 @@
     Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/kct-04-1_569977b4-1e38-450e-91a3-48c13b2d46f5.webp?v=1785257225
     Price: Rs 16,600.00 PKR
 - [Khusbakht Couture KCT-05 – Off-White Formal 3-Piece Ensemble](https://zananii.com/products/khusbakht-couture-kct-05): Distinctive off-white formal outfit featuring a tailored Korean silk coat, loose flared pants, and Mukesh chiffon dupatta with jhalar detailing. Perfect for festive occasions. Dry clean only.
-  Updated: 2026-09-07T07:41:07Z
+  Updated: 2026-11-13T11:27:41Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1776,7 +1776,7 @@
     Availability: Available
     Price: Rs 14,999.00 PKR
 - [Khusbakht Couture KCT-06 – Korean Silk Formal 3-Piece Ensemble](https://zananii.com/products/khusbakht-couture-kct-06): Elegant formal outfit in self-color Korean silk featuring organza embroidery on sleeves, fine neckline, sleek shalwar, and Mukesh chiffon contrast dupatta. Perfect for festive or formal occasions. Dry clean only.
-  Updated: 2026-07-28T16:45:58Z
+  Updated: 2026-11-11T21:57:05Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1818,7 +1818,7 @@
     Availability: Available
     Price: Rs 19,210.00 PKR
 - [Khusbakht Couture KCT-08 – Black & Crimson Formal 2-Piece Ensemble](https://zananii.com/products/khusbakht-couture-kct-08): Elegant black embroidered cotton net coat paired with deep crimson crib georget balloon pants. Heritage-inspired embroidery meets contemporary style, perfect for festive occasions. Dry clean only.
-  Updated: 2026-07-29T00:00:54Z
+  Updated: 2026-11-10T18:01:21Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1864,7 +1864,7 @@
     Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/7_25e95f54-a2b0-46ff-8bf0-fbcb3425420c.jpg?v=1785257319
     Price: Rs 24,350.00 PKR
 - [Khusbakht Couture KCT-09 – Grey & Mustard Formal 2-Piece Ensemble](https://zananii.com/products/khusbakht-couture-kct-09): Sophisticated grey formal outfit with mustard accents featuring a sleeveless Korean silk shirt and loose, flared pants. KCT-09 is perfect for festive or formal occasions.
-  Updated: 2026-07-28T16:34:56Z
+  Updated: 2026-11-09T16:07:21Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1924,7 +1924,7 @@
   Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/3_119eafc3-cd79-4aba-afbb-d5f6be79f9b5.jpg?v=1781784685
   Price: Rs 6,800.00 PKR
 - [Mustard & Grey Crochet Tote Bag | Oversized Tote | Zananii by KAH](https://zananii.com/products/oversized-crochet-tote-mustard-grey): Shop mustard & grey oversized crochet tote bag in soft Koocia fabric. Spacious, stylish handbag perfect for work, shopping & casual outings.
-  Updated: 2026-06-24T13:16:27Z
+  Updated: 2026-11-09T17:40:05Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1938,7 +1938,7 @@
   Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/7_8685160a-feaa-4603-ad71-d45c06522490.jpg?v=1781785408
   Price: Rs 4,800.00 PKR
 - [Signature Butterfly Shalwar](https://zananii.com/products/butterfly-shalwar): Fabric: Fine Linen Shalwar Size & Fit: The model is wearing a size small. Care Instructions: Hand wash or dry clean only. Disclaimer: Product color may vary slightly due to lighting and screen settings.
-  Updated: 2026-08-13T03:44:32Z
+  Updated: 2026-11-09T21:49:10Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -2066,7 +2066,7 @@
     Availability: Available
     Price: Rs 3,199.00 PKR
 - [Farshi Shalwar in Grip Linen | Zananii by KAH](https://zananii.com/products/farshi-shalwar): Shop the Farshi Shalwar in premium grip linen, featuring a structured silhouette and graceful drape. Traditional ethnic wear.
-  Updated: 2026-09-20T20:43:16Z
+  Updated: 2026-11-10T09:16:31Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -2172,7 +2172,7 @@
     Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/NavyBlueVariationSimt-FirstView.webp?v=1784296887
     Price: Rs 2,999.00 PKR
 - [Rust Balloon Pants for Women | Zananii by KAH](https://zananii.com/products/rust-balloon-pants): Shop rust Balloon Pants crafted from high-grade grip fabric. Designed with a fluid harem silhouette for comfort, everyday wear, and modern eastern styling.
-  Updated: 2026-08-06T00:23:27Z
+  Updated: 2026-11-10T16:26:51Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -2193,7 +2193,7 @@
     Availability: Available
     Price: Rs 4,799.00 PKR
 - [Crimson Balloon Pants for Women | Zananii by KAH](https://zananii.com/products/balloon-pants): Shop crimson Balloon Pants crafted from high-quality crinkled georgette. A lightweight, comfortable style for festive looks, casual wear, and eastern outfits.
-  Updated: 2026-08-05T12:03:57Z
+  Updated: 2026-11-13T22:50:11Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -2235,7 +2235,7 @@
     Availability: Available
     Price: Rs 4,499.00 PKR
 - [Light Denim Flared Pants for Women | Zananii by KAH](https://zananii.com/products/denim-flayerd-pants): Shop light denim flared pants for women, designed with a relaxed fit and modern silhouette. Comfortable, versatile, and perfect for everyday wear.
-  Updated: 2026-08-05T12:23:21Z
+  Updated: 2026-11-09T23:44:45Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
