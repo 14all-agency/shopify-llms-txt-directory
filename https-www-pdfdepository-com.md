@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-06-09T00:13:32Z
 - Contact Email: pdfdepository.shopify@gmail.com
-- Updated At: 2026-11-08T00:22:11.463Z
+- Updated At: 2026-11-16T00:24:09.046Z
 
 ## Products
 
@@ -503,6 +503,18 @@
     Updated: 2026-11-06T01:20:52Z
     Author: PDF Depository
     Tags: budgeting, budgeting & finance, career growth, enhance overall well-being, financial literacy, improve financial health, money, parenting & family, personal finance, relationships, self-help, well-being, what are career growth strategies, what is the difference between health an
+  - [Enhancing Comparison between Health and Wellness in Personal Budget Allocation](https://www.pdfdepository.com/blogs/news/enhancing-comparison-between-health-and-wellness-in-personal-budget-allocation): Enhancing Comparison between Health and Wellness in Personal Budget Allocation
+    Updated: 2026-11-09T01:28:32Z
+    Author: PDF Depository
+    Tags: allocate resources wisely, budgeting, budgeting & finance, enhance well-being balance, financial well-being, health, money, parenting & family, personal budget, relationships, self-help strategies, wellness, what are career growth strategies, what is the difference between health an
+  - [Exploring the Complex Relationship Between Money and Family Dynamics](https://www.pdfdepository.com/blogs/news/exploring-the-complex-relationship-between-money-and-family-dynamics): Exploring the Complex Relationship Between Money and Family Dynamics
+    Updated: 2026-11-11T01:11:10Z
+    Author: PDF Depository
+    Tags: budgeting, budgeting & finance, emotional support, family, financial health, money, money management, parenting & family, personal budgeting tips, relationship with money, relationships, wellbeing, what are career growth strategies, what is the difference between health an
+  - [Parenting Fundamentals for Financial Well-being: A Step-by-Step Guide](https://www.pdfdepository.com/blogs/news/parenting-fundamentals-for-financial-well-being-a-step-by-step-guide): Parenting Fundamentals for Financial Well-being: A Step-by-Step Guide
+    Updated: 2026-11-13T01:05:58Z
+    Author: PDF Depository
+    Tags: budget management, budgeting, budgeting & finance, family budgeting guide, financial plan, money, parenting, parenting & family, personal finance strategies, relationships, self-help tips, wellness, what are career growth strategies, what is the difference between health an
 
 ## Store Pages
 
