@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-11-16T02:56:27Z
 - Contact Email: support@peamactees.com
-- Updated At: 2026-11-08T00:41:48.876Z
+- Updated At: 2026-11-16T00:38:14.058Z
 
 PeaMacTees is a Canadian online apparel brand offering fun, expressive, and giftable graphic t-shirts and accessories. Our collections focus on hobbies, lifestyle passions, and feel-good self-expression, including pickleball, pets, positivity themes, and playful personality statements.
 
@@ -18,14 +18,14 @@ The official website is https://www.peamactees.com
 ## Products
 
 - [002 Pickleball Court ID - Navy Luggage Tag](https://peamactees.com/products/002-pickleball-court-id-luggage-tag): Navy, sharp, unmistakably yours — the 002 Court ID luggage tag. A durable Court ID travel accessory — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:50Z
+  Updated: 2026-11-11T06:57:06Z
   Vendor: PeaMac Pickleball
   Product Type: Luggage Tag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/002-Pickleball-Court-ID-Navy-Luggage-Tag-img1-PeaMacTees.jpg?v=1788276202
   Price: $24.00 USD
 - [Matrix Burst Pickleball Large Navy Tote Bag — Retro Digital Pickleball Design](https://peamactees.com/products/matrix-burst-pickleball-large-navy-tote-bag-retro-digital-pickleball-design): Neon red, yellow, blue, orange — Matrix Burst energy in a navy tote. A large (18"X18") tote for gear — printed on demand, ships worldwide.
-  Updated: 2026-11-02T18:12:01Z
+  Updated: 2026-11-11T06:57:09Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -47,36 +47,36 @@ The official website is https://www.peamactees.com
     Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/3075176163716489637_2048_custom.jpg?v=1793173243
     Price: $31.00 USD
 - [Green Matrix Burst Large Pickleball Tote Bag 18" x 18" - Retro Exploding Design](https://peamactees.com/products/matrix-burst-pickleball-tote-bag-green-digital-smash-18-x-18): Neon colors burst across this bold, sturdy Matrix Burst tote bag. A large (18"X18") tote for gear — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:51Z
+  Updated: 2026-11-11T06:57:18Z
   Vendor: PeaMac Pickleball
   Product Type: bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Green-Matrix-Burst-Large-Pickleball-Tote-Bag-18x18-Retro-Exploding-Design-Black-lifestyle-PeaMacTees.png?v=1788276203
   Price: $31.00 USD
 - [Green Matrix Burst Large Light Blue Pickleball Tote Bag 18" x 18" - Retro Exploding Design](https://peamactees.com/products/matrix-burst-pickleball-tote-bag-green-yellow-light-blue-18-x-18): Retro pixels, everyday carry — this light blue Matrix Burst tote. A large (18"X18") tote for gear — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:51Z
+  Updated: 2026-11-11T06:57:07Z
   Vendor: PeaMac Pickleball
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Green-Matrix-Burst-Large-Light-Blue-Pickleball-Tote-Bag-18x18-Retro-Exploding-Design-Beige-lifestyle-PeaMacTees.png?v=1788276240
   Price: $31.00 USD
 - [Matrix Burst Pickleball Court ID - Green & Blue - Luggage Tag with Leather Strap & Buckle](https://peamactees.com/products/matrix-burst-pickleball-court-id-green-blue-luggage-tag-with-leather-strap-buckle): Elevate your journey with this green-and-blue Matrix Burst Court ID tag. A durable Court ID travel accessory — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:51Z
+  Updated: 2026-11-11T06:57:06Z
   Vendor: PeaMac Pickleball
   Product Type: Luggage Tag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Matrix-Burst-Pickleball-Court-ID-Green-Blue-Luggage-Tag-Leather-Strap-Buckle-img1-PeaMacTees.jpg?v=1788276241
   Price: $24.00 USD
 - [Matrix Burst Pickleball Court ID - Luggage Tag with Leather Strap & Buckle](https://peamactees.com/products/matrix-burst-pickleball-court-id-luggage-tag-with-leather-strap-buckle): Elevate your journey with this chic, durable Matrix Burst Court ID tag. A durable Court ID travel accessory — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:51Z
+  Updated: 2026-11-11T06:57:02Z
   Vendor: PeaMac Pickleball
   Product Type: Luggage Tag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Matrix-Burst-Pickleball-Court-ID-Luggage-Tag-Leather-Strap-Buckle-img1-PeaMacTees.jpg?v=1788277464
   Price: $24.00 USD
-- [Matrix Burst Pickleball CamelBak Eddy Water Bottle — 20oz and 25oz Sports Bottles - Yellow, Red & Blue digital ball](https://peamactees.com/products/matrix-burst-pickleball-camelbak-eddy-water-bottle-20oz-and-25oz-sports-bottles): Durable hydration with retro edge on this Matrix Burst CamelBak Eddy. Durable, reusable pickleball hydration — printed on demand, ships worldwide.
-  Updated: 2026-11-04T11:41:05Z
-  Vendor: Printify
+- [Matrix Burst Pickleball CamelBak Eddy Water Bottle — 20oz and 25oz Sports Bottles - Yellow, Red & Blue digital ball](https://peamactees.com/products/matrix-burst-pickleball-camelbak-eddy-water-bottle-20oz-and-25oz-sports-bottles): Matrix Burst pickleball CamelBak Eddy bottle, 20 or 25 oz. Shatter-resistant Tritan with a bite valve, so you can sip between points. Hand wash. From $35.
+  Updated: 2026-11-12T11:39:59Z
+  Vendor: PeaMac Pickleball
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Matrix-Burst-Pickleball-CamelBak-Eddy-Water-Bottle-20oz-25oz-Sports-Bottles-Oxford-Blue-model-PeaMacTees.jpg?v=1788277465
@@ -88,8 +88,8 @@ The official website is https://www.peamactees.com
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Matrix-Burst-Pickleball-CamelBak-Eddy-Water-Bottle-20oz-25oz-Sports-Bottles-Charcoal-front-PeaMacTees.jpg?v=1788277465
     Price: $38.00 USD
-- [Matrix Burst Pickleball CamelBak Eddy Water Bottle — 20oz & 25oz Neon Green Sports Bottle](https://peamactees.com/products/matrix-burst-pickleball-camelbak-eddy-water-bottle-20oz-25oz-neon-green-sports-bottle): Neon green, ready for anything — Matrix Burst energy in this CamelBak Eddy. Durable, reusable pickleball hydration — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:52Z
+- [Matrix Burst Pickleball CamelBak Eddy Water Bottle — 20oz & 25oz Neon Green Sports Bottle](https://peamactees.com/products/matrix-burst-pickleball-camelbak-eddy-water-bottle-20oz-25oz-neon-green-sports-bottle): Neon green, Matrix Burst pickleball CamelBak Eddy bottle, 20 or 25 oz. Shatter-resistant Tritan with a bite valve, so you can sip between points. Hand wash. From $35.— printed on demand, ships worldwide.
+  Updated: 2026-11-11T23:38:19Z
   Vendor: PeaMac Pickleball
   Product Type: Mug
   Availability: Available
@@ -103,21 +103,21 @@ The official website is https://www.peamactees.com
     Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Matrix-Burst-Pickleball-CamelBak-Eddy-Water-Bottle-20oz-25oz-Neon-Green-Sports-Bottle-Charcoal-front-PeaMacTees.jpg?v=1788277508
     Price: $38.00 USD
 - [002 Pickleball Court ID - Pride Luggage Tag](https://peamactees.com/products/002-pickleball-court-id-pride-luggage-tag): Pride on your pack — the 002 Court ID Pride luggage tag makes a statement. A durable Court ID travel accessory — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:52Z
+  Updated: 2026-11-11T06:57:06Z
   Vendor: PeaMac Pickleball
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/002-Pickleball-Court-ID-Pride-Luggage-Tag-lifestyle-PeaMacTees.jpg?v=1789786935
   Price: $24.00 USD
 - [002 Pickleball Luggage Tag - Court ID](https://peamactees.com/products/002-pickleball-luggage-tag-court-id): Your court ID, on the go — durable, sharp, built for pickleball travelers. A durable Court ID travel accessory — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:52Z
+  Updated: 2026-11-11T06:57:09Z
   Vendor: PeaMac Pickleball
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/002-Pickleball-Luggage-Tag-Court-ID-img1-PeaMacTees.jpg?v=1788277465
   Price: $24.00 USD
 - [002 Pickleball Court ID - Luggage Tag with Leather Strap & Buckle - White with Pastel Psychedelic Numbers](https://peamactees.com/products/002-pickleball-court-id-luggage-tag-with-leather-strap-buckle-pastel-psychedelic-numbers): Three digits, one meaning — this pastel psychedelic 002 luggage tag marks your bags. A durable Court ID travel accessory — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:52Z
+  Updated: 2026-11-11T06:57:06Z
   Vendor: PeaMac Pickleball
   Product Type: Luggage Tag
   Availability: Available
@@ -270,70 +270,70 @@ The official website is https://www.peamactees.com
     Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Pickler-Definition-Coffee-Mug-Funny-Womens-Pickleball-Ceramic-Mug-11oz-15oz-img2-PeaMacTees.jpg?v=1788281783
     Price: $19.00 USD
 - [Dinks Responsibly Pickleball Car Magnet - 5" x 5"](https://peamactees.com/products/dinks-responsibly-pickleball-car-magnet-5-x-5): Dink responsibly — or don't. This funny car magnet is eye-catching and weatherproof. A weather-resistant car magnet — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:54Z
+  Updated: 2026-11-11T06:57:07Z
   Vendor: PeaMac Pickleball
   Product Type: Auto Magnet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Dinks-Responsibly-Pickleball-Car-Magnet-5x5-img1-PeaMacTees.jpg?v=1788281824
   Price: $16.00 USD
 - [Bold Matrix Burst Pickleball Auto Magnet 5" X 5" white background](https://peamactees.com/products/white-pickleball-car-magnet-bold-matrix-burst-pickleball-design-5-square): Bold bursts of color for your commute — this Matrix Burst magnet brings court energy along. A weather-resistant car magnet — printed on demand, ships worldwide.
-  Updated: 2026-11-04T11:42:23Z
+  Updated: 2026-11-11T06:57:21Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Matrix-Burst-Bold-Pickleball-Auto-Magnet-5x5-img1-PeaMacTees.jpg?v=1788281824
   Price: $16.00 USD
 - [Pickleball Life Auto Magnet — 10" X 3"](https://peamactees.com/products/pickleball-life-car-magnet-10-0-x-3-0): Bright and sassy, this Pickleball Life magnet speaks before you reach the court. A weather-resistant car magnet — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:54Z
+  Updated: 2026-11-11T06:57:21Z
   Vendor: PeaMac Pickleball
   Product Type: Auto Magnet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Pickleball-Life-Auto-Magnet-10x3-img1-PeaMacTees.jpg?v=1788281824
   Price: $17.00 USD
 - [Pickleball Car Magnet — Bold Matrix Burst Pickleball Design (5" Square)](https://peamactees.com/products/pickleball-car-magnet-bold-matrix-burst-pickleball-design-5-square): Court-side wit for your commute. This square Matrix Burst magnet brings bold retro energy to any vehicle.
-  Updated: 2026-11-04T11:42:05Z
+  Updated: 2026-11-11T06:57:13Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Matrix-Burst-Pickleball-Auto-Magnet-5x5-img1-PeaMacTees.png?v=1788282049
   Price: $16.00 USD
 - [Dinking Diva Pickleball Car Magnet - 7.5" x 4.5"](https://peamactees.com/products/dinking-diva-pickleball-car-magnet-7-5-x-4-5): Bright, sassy, and weather-ready — the Dinking Diva magnet says who runs the kitchen. A weather-resistant car magnet — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:54Z
+  Updated: 2026-11-11T06:57:14Z
   Vendor: PeaMac Pickleball
   Product Type: Auto Magnet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Dinking-Diva-Pickleball-Car-Magnet-7.5x4.5-img1-PeaMacTees.png?v=1788271723
   Price: $16.00 USD
 - [Stainless Steel 002 Pickleball GameStart Green Hydration Bottle - 20oz Sports Bottle](https://peamactees.com/products/stainless-steel-002-pickleball-gamestart-green-hydration-bottle-20oz-sports-bottle): GameStart green hydration for players who love bold color and retro vibes. Durable, reusable pickleball hydration — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:54Z
+  Updated: 2026-11-11T06:57:06Z
   Vendor: PeaMac Pickleball
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/7903264444162780158_2048.jpg?v=1790020800
   Price: $35.00 USD
 - [Pride 002 Slim Stainless Steel Water Bottle — Rainbow Pickleball & Sports Hydration](https://peamactees.com/products/pride-002-slim-stainless-steel-water-bottle-rainbow-pickleball-sports-hydration): Color and community in every outing on this slim rainbow Pride bottle. Durable, reusable pickleball hydration — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:55Z
+  Updated: 2026-11-11T06:57:10Z
   Vendor: PeaMac Pickleball
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/14578876400910639137_2048.jpg?v=1789783793
   Price: $35.00 USD
 - [Stainless Steel 002 Pastel Psychedelic Pickleball Hydration Bottle - 20oz Retro Sports Bottle](https://peamactees.com/products/stainless-steel-002-pastel-psychedelic-pickleball-hydration-bottle-20oz-retro-sports-bottle): Retro pastel psychedelic style meets everyday hydration in this 20oz bottle. Durable, reusable pickleball hydration — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:55Z
+  Updated: 2026-11-11T06:57:09Z
   Vendor: PeaMac Pickleball
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/11385049163184585742_2048.jpg?v=1790020686
   Price: $35.00 USD
 - [Stainless Steel Dinking Diva Pickleball Hydration Bottle - 20oz Sports Bottle](https://peamactees.com/products/stainless-steel-dinking-diva-pickleball-hydration-bottle-20oz-sports-bottle): Rule the court and stay quenched with the Dinking Diva hydration bottle. Durable, reusable pickleball hydration — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:55Z
+  Updated: 2026-11-11T06:57:14Z
   Vendor: PeaMac Pickleball
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Stainless-Steel-Dinking-Diva-Pickleball-Hydration-Bottle-20oz-Sports-Bottle-img5-PeaMacTees.jpg?v=1788296295
   Price: $30.00 USD
 - [Pickleball Christmas Ornaments | Decorative Gingerbread Style | 4 Festive Holiday Decor Shapes | Gift for Pickler Friends & Family](https://peamactees.com/products/pickleball-christmas-ornaments-decorative-gingerbread-style-4-festive-holiday-decor-shapes-gift-for-pickler-friends-family): Playful holiday cheer, pickleball style. These gingerbread-inspired ornaments bring joy to any tree.
-  Updated: 2026-10-27T19:52:55Z
+  Updated: 2026-11-11T14:13:16Z
   Vendor: PeaMac Pickleball
   Product Type: Home Decor
   Availability: Available
@@ -386,8 +386,8 @@ The official website is https://www.peamactees.com
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Pickleball-Christmas-Ornaments-Decorative-Gingerbread-Style-4-Festive-Holiday-Decor-Shapes-img12-PeaMacTees.jpg?v=1788300849
     Price: $85.00 USD
-- [Dinking Diva Pickleball Mug — Pink Filigree Ceramic Coffee Cup | 11oz & 15oz](https://peamactees.com/products/dinking-diva-pickleball-mug-pink-filigree-ceramic-coffee-cup-11oz-15oz): Pink filigree for your morning ritual — the Dinking Diva mug celebrates your finesse. A durable ceramic pickleball mug — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:55Z
+- [Dinking Diva Pickleball Mug — Pink Filigree Ceramic Coffee Cup | 11oz & 15oz](https://peamactees.com/products/dinking-diva-pickleball-mug-pink-filigree-ceramic-coffee-cup-11oz-15oz): Dinking Diva pickleball mug with pink filigree on glossy white ceramic. 11 or 15 oz, microwave and dishwasher safe. A morning-coffee gift from $17.
+  Updated: 2026-11-11T23:41:17Z
   Vendor: PeaMac Pickleball
   Product Type: Mug
   Availability: Available
@@ -427,7 +427,7 @@ The official website is https://www.peamactees.com
     Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/17484202580815623575_2048.jpg?v=1781759956
     Price: $37.00 USD
 - [LOVE Pickleball Large Tote Bag 18"X18" - River Blue carryall](https://peamactees.com/products/pickleball-love-tote-bag-river-blue-love-design): River blue and rugged — carry your pickler pride with this bold LOVE tote. A large (18"X18") tote for gear — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:56Z
+  Updated: 2026-11-11T06:57:13Z
   Vendor: PeaMac Pickleball
   Product Type: Bags
   Availability: Available
@@ -449,7 +449,7 @@ The official website is https://www.peamactees.com
     Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/LOVE-Pickleball-Large-Tote-Bag-18X18-River-Blue-carryall-Navy-front-PeaMacTees.jpg?v=1788301028
     Price: $31.00 USD
 - [LOVE Pickleball - Large Dark Green Tote Bag — 18"X18" - 3 handle colors](https://peamactees.com/products/pickleball-love-tote-bag-spacious-sporty-green-gear-tote): Dark sporty green, quiet confidence — this rugged LOVE tote carries your gear. A large (18"X18") tote for gear — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:56Z
+  Updated: 2026-11-11T06:57:09Z
   Vendor: PeaMac Pickleball
   Product Type: Bags
   Availability: Available
@@ -466,7 +466,7 @@ The official website is https://www.peamactees.com
     Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/LOVE-Pickleball-Large-Dark-Green-Tote-Bag-18X18-3-Handle-Colors-Navy-handle-right-4-PeaMacTees.jpg?v=1788274952
     Price: $31.00 USD
 - [Pickleball Classic Large Navy Tote for Gear - Durable 2-Sides Shoulder Bag - Reusable Court & Travel Accessory](https://peamactees.com/products/pickleball-classic-large-navy-tote-for-gear-durable-shoulder-bag): Classic navy script on a durable, roomy tote — built for gear and court days. A large (18"X18") tote for gear — printed on demand, ships worldwide.
-  Updated: 2026-11-05T10:24:08Z
+  Updated: 2026-11-11T06:57:07Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -484,7 +484,7 @@ The official website is https://www.peamactees.com
     Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/14658621141019666058_2048_custom.jpg?v=1793748369
     Price: $31.00 USD
 - [LOVE Pickleball Large Tote Bag 18"X18" - Tropical Palm Rainbow Court-Ready Shoulder Tote](https://peamactees.com/products/tropical-pickleball-love-tote-bag-palm-rainbow-court-ready-shoulder-tote): A tropical sunset palm print with the LOVE pickleball icon — vibrant and beach-ready. A large (18"X18") tote for gear — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:56Z
+  Updated: 2026-11-11T06:57:07Z
   Vendor: PeaMac Pickleball
   Product Type: Bags
   Availability: Available
@@ -506,7 +506,7 @@ The official website is https://www.peamactees.com
     Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/LOVE-Pickleball-Large-Tote-Bag-18X18-Tropical-Palm-Rainbow-Court-Ready-Shoulder-Tote-Navy-front-PeaMacTees.jpg?v=1788432937
     Price: $31.00 USD
 - [LOVE Pickleball Large Tote Bag 18"X18" in Classic Pacific Court Blue with Bold White Graphics](https://peamactees.com/products/pickleball-love-tote-bag-large-classic-court-blue-shoulder-bag): Pacific court blue, bold white graphics — carry your pride in style. A large (18"X18") tote for gear — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:56Z
+  Updated: 2026-11-11T23:47:00Z
   Vendor: PeaMac Pickleball
   Product Type: Bags
   Availability: Available
@@ -566,7 +566,7 @@ The official website is https://www.peamactees.com
     Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Embroidered-Dinking-Diva-Pickleball-Baseball-Cap-Leather-and-Brass-Closure-White-front-PeaMacTees.jpg?v=1788453518
     Price: $37.00 USD
 - [Personalized Pickleball Outdoor Rug — Custom Welcome Message or Name Doormat (4 Sizes)](https://peamactees.com/products/personalized-pickleball-outdoor-rug-custom-welcome-message-or-name-doormat-4-sizes): Court-side energy for your porch. This durable outdoor rug welcomes guests with pickleball pride.
-  Updated: 2026-10-27T19:52:57Z
+  Updated: 2026-11-11T06:57:16Z
   Vendor: PeaMac Pickleball
   Product Type: Home Decor
   Availability: Available
@@ -587,8 +587,8 @@ The official website is https://www.peamactees.com
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Personalized-Pickleball-Outdoor-Rug-Custom-Welcome-Message-or-Name-Doormat-60x84-PeaMacTees.jpg?v=1788453477
     Price: $110.00 USD
-- [002 Pickleball T-Shirt | Tri-Blend Performance Unisex Tee - GameStart Green](https://peamactees.com/products/002-pickleball-tshirt-gamestart-green): GameStart green, first-serve energy on a soft, breathable tri-blend 002 Tee. Premium lightweight activewear — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:57Z
+- [002 Pickleball T-Shirt | Tri-Blend Premium Unisex Tee - GameStart Green](https://peamactees.com/products/002-pickleball-tshirt-gamestart-green): GameStart green, first-serve energy on a soft, breathable tri-blend 002 Tee. Premium lightweight activewear — printed on demand, ships worldwide.
+  Updated: 2026-11-11T18:21:23Z
   Vendor: PeaMac Pickleball
   Product Type: T-Shirt
   Availability: Available
@@ -794,7 +794,7 @@ The official website is https://www.peamactees.com
     Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/002-Pickleball-T-Shirt-Tri-Blend-Performance-Unisex-Tee-GameStart-Green-Solid-White-front-PeaMacTees.png?v=1789956135
     Price: $32.00 USD
 - [002 Pickleball Pride Tee — Unisex Performance Fit](https://peamactees.com/products/002-pickleball-t-shirt-unisex-performance-pride-tee): 002 Pickleball Pride tee, unisex performance fit. Classic court-ID style with pride, humor, and competitive energy.
-  Updated: 2026-10-27T19:52:57Z
+  Updated: 2026-11-11T18:21:40Z
   Vendor: PeaMac Pickleball
   Product Type: T-Shirt
   Availability: Available
@@ -1000,7 +1000,7 @@ The official website is https://www.peamactees.com
     Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/unisex-tri-blend-t-shirt-navy-triblend-front-6ab01a24c489b.jpg?v=1789925937
     Price: $32.00 USD
 - [We Meet at Dawn Pickleball T-Shirt — Premium Unisex Lifestyle Tee](https://peamactees.com/products/we-meet-at-dawn-pickleball-t-shirt-premium-unisex-lifestyle-tee): The court is empty, the sun is rising — this tee is for the ones who live it. Premium lightweight activewear — printed on demand, ships worldwide.
-  Updated: 2026-10-27T19:52:58Z
+  Updated: 2026-11-15T04:06:35Z
   Vendor: PeaMac Pickleball
   Product Type: T-Shirt
   Availability: Available
@@ -1824,7 +1824,7 @@ The official website is https://www.peamactees.com
     Image: https://cdn.shopify.com/s/files/1/0957/0130/3662/files/Dinks-Responsibly-Pickleball-Tee-Funny-Pickleball-Shirt-with-Paddle-and-Ball-Graphic-White-Fleck-front-PeaMacTees.jpg?v=1789620008
     Price: $32.00 USD
 - [LOVE Pickleball Tee — Neon Pop Art Design](https://peamactees.com/products/love-pickleball-tee-neon-pop-art-premium-t-shirt-1): LOVE Pickleball tee in neon pop-art yellow. Bright, sporty, and unmistakably court-ready.
-  Updated: 2026-10-27T19:52:58Z
+  Updated: 2026-11-11T23:49:17Z
   Vendor: PeaMac Pickleball
   Product Type: T-Shirt
   Availability: Available
@@ -2361,26 +2361,26 @@ The official website is https://www.peamactees.com
   Updated: 2026-10-27T19:52:50Z
   Total Products: 5
 - [002 Signature Collection](https://peamactees.com/collections/002-signature-collection): Shop the 002 Signature pickleball collection — bold vertical 002 graphic tees, water bottles & luggage tags. A unique pickleball gift for players who know the score.
-  Updated: 2026-10-27T19:52:50Z
+  Updated: 2026-11-11T06:20:41Z
   Total Products: 10
 - [Auto Magnets](https://peamactees.com/collections/car-magnets): Shop pickleball car magnets — weatherproof, UV-resistant, and boldly designed. A fun pickleball gift for players, coaches & teammates. Multiple sizes available.
   Updated: 2026-11-03T23:42:20Z
   Total Products: 5
 - [Pickleball Pride Collection - LGBTQ2 Collection - Inclusive Apparel](https://peamactees.com/collections/pride-collection): Shop pride pickleball apparel and accessories — bold Pride graphic tees, luggage tags & water bottles. Inclusive designs for players who play loud and proud.
-  Updated: 2026-10-27T19:52:50Z
+  Updated: 2026-11-11T20:11:27Z
   Total Products: 10
 - [Luggage Tags](https://peamactees.com/collections/luggage-tags): Shop pickleball luggage tags — durable acrylic with bold graphics, leather strap & privacy window. Perfect for tournaments, travel & pickleball gifts.
   Updated: 2026-10-27T19:52:50Z
   Total Products: 6
 - [Coffee Mugs 11oz & 15 oz](https://peamactees.com/collections/coffee-mugs-11oz-15-oz): Shop pickleball coffee mugs in 11oz & 15oz — durable ceramic, microwave & dishwasher safe, with vivid pickleball graphics. A perfect pickleball gift for coffee lovers.
-  Updated: 2026-10-27T19:52:50Z
+  Updated: 2026-11-11T20:11:27Z
   Total Products: 7
 - [Cellular Phone Cases](https://peamactees.com/collections/cellular-phone-cases): Shop pickleball phone cases — dual-layer drop protection, MagSafe compatible, glossy or matte finish. Bold pickleball designs & a perfect pickleball gift.
   Updated: 2026-10-27T19:52:50Z
   Total Products: 8
 - [Pickleball Christmas Ornaments](https://peamactees.com/collections/holidays-gift-ideas): Shop pickleball Christmas ornaments & holiday gifts — festive ornaments, youth tees, water bottles & luggage tags. Unique pickleball gifts for players of all ages.
-  Updated: 2026-10-21T18:34:41Z
-  Total Products: 1
+  Updated: 2026-11-11T02:13:10Z
+  Total Products: 2
 - [Pickler Funny Definition Collection](https://peamactees.com/collections/picklers): Shop the Pickler Funny Definition collection — witty His & Hers pickleball tees, mugs & tote bags. A top funny pickleball gift for devoted players and couples.
   Updated: 2026-10-27T19:52:50Z
   Total Products: 6
@@ -2391,7 +2391,7 @@ The official website is https://www.peamactees.com
   Updated: 2026-10-27T19:52:50Z
   Total Products: 8
 - [Water Bottles](https://peamactees.com/collections/water-bottles): Shop pickleball water bottles — BPA-free, leak-proof, and designed with bold original pickleball graphics. Perfect for the court, gym, and everyday adventures.
-  Updated: 2026-11-03T23:41:01Z
+  Updated: 2026-11-11T23:39:55Z
   Total Products: 6
 - [Tote Bags](https://peamactees.com/collections/tote-bags): Shop pickleball tote bags — spacious 18x18" polyester totes with bold pickleball graphics. Perfect for court gear, everyday use & pickleball gifts.
   Updated: 2026-11-03T23:25:33Z
@@ -2400,79 +2400,73 @@ The official website is https://www.peamactees.com
   Updated: 2026-05-29T04:03:24Z
   Total Products: 0
 - [Recommended products (Seguno)](https://peamactees.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-11-05T16:22:57Z
-  Total Products: 105
+  Updated: 2026-11-15T12:17:26Z
+  Total Products: 111
 - [Youth Graphic Tees](https://peamactees.com/collections/youth): Shop pickleball t-shirts for kids — soft, breathable youth tees with bold pickleball graphics for boys and girls. Perfect for play, tournaments & pickleball gifts.
-  Updated: 2026-10-27T19:52:51Z
+  Updated: 2026-11-13T16:13:25Z
   Total Products: 5
 - [*Personalized Pickleball T-Shirts](https://peamactees.com/collections/personalized-tees): Shop personalized pickleball t-shirts — custom name, club logo, or crest. Premium cotton, DTF/DTG printing. Perfect for pickleball clubs & tournaments.
   Updated: 2026-10-27T19:52:51Z
   Total Products: 3
 - [Momentum Collection](https://peamactees.com/collections/momentum-collection): Shop the Momentum Collection featuring artistic pickleball shirts inspired by movement, energy, and flow. Stylish, breathable pickleball apparel for on and off the court.
-  Updated: 2026-10-27T19:52:51Z
+  Updated: 2026-11-13T16:13:25Z
   Total Products: 6
 - [Women's Pickleball Apparel & Accessories — Female Graphics](https://peamactees.com/collections/female-graphics): Shop women's pickleball apparel and accessories — Dinking Diva tees, hats, mugs & tote bags. Bold female-forward designs for confident women who love the game.
-  Updated: 2026-10-27T19:52:51Z
+  Updated: 2026-11-11T23:46:58Z
   Total Products: 13
 - [Men's Pickleball Apparel & Accessories — Male Graphics](https://peamactees.com/collections/male-graphics): Shop men's pickleball apparel and accessories — bold graphic tees, hats, mugs & water bottles. Sport-inspired designs for men who play with confidence and style.
   Updated: 2026-10-27T19:52:51Z
   Total Products: 2
 - [Unisex T-Shirts](https://peamactees.com/collections/unisex-t-shirts): Shop unisex pickleball t-shirts — original bold graphic designs in relaxed fits for every player. Premium soft cotton, multiple colours & sizes. Ships Canada & US.
-  Updated: 2026-10-27T19:52:51Z
-  Total Products: 2
+  Updated: 2026-11-11T23:30:02Z
+  Total Products: 3
 - [Accessories](https://peamactees.com/collections/accessories): Shop pickleball accessories including tote bags, hats, mugs, phone cases & home decor. Bold original designs for players who live the pickleball lifestyle.
-  Updated: 2026-11-03T23:42:57Z
+  Updated: 2026-11-11T23:39:55Z
   Total Products: 54
 - [Funny Pickleball Tees & Accessories](https://peamactees.com/collections/funny-pickleball-tees): Shop funny pickleball t-shirts with clever sayings and original designs. Soft, comfortable tees perfect for players and as pickleball gifts for any occasion.
-  Updated: 2026-10-27T19:52:51Z
-  Total Products: 7
+  Updated: 2026-11-15T12:17:26Z
+  Total Products: 9
 - [Graphic Lifestyle Tees & Accessories](https://peamactees.com/collections/graphic-lifestyle-tees): Shop original pickleball graphic tees for players who live the game on and off the court. Bold designs, premium soft cotton, relaxed fit. Ships across Canada & the US.
-  Updated: 2026-10-27T19:52:51Z
-  Total Products: 26
+  Updated: 2026-11-11T19:20:59Z
+  Total Products: 28
 - [LOVE Pickleball Shirts, Tote Bags, Mugs & Pride Apparel | PeaMac Tees](https://peamactees.com/collections/love-collection): Celebrate the spirit of pickleball with LOVE-inspired shirts, tote bags, and LGBTQ2+ apparel. Unique pickleball gifts and stylish court-ready designs for players across Canada and the USA.
-  Updated: 2026-10-27T19:52:51Z
+  Updated: 2026-11-11T20:11:27Z
   Total Products: 10
 - [Pickleball Gifts](https://peamactees.com/collections/pickleball-gifts): Find the perfect pickleball gift — premium tees, hats, mugs, tote bags, and accessories for every player on your list.
-  Updated: 2026-11-05T16:22:57Z
+  Updated: 2026-11-11T23:49:16Z
   Total Products: 68
-- [Kids' Pickleball Apparel](https://peamactees.com/collections/kids-pickleball): Youth pickleball t-shirts for kids with bold, colourful designs. Soft, breathable and comfortable for active play. Ships across Canada & the US.
-  Updated: 2026-10-27T19:52:51Z
-  Total Products: 3
 - [New Arrivals](https://peamactees.com/collections/new-arrivals): Fresh off the court. PeaMac Tees' newest designs — check back often as new pickleball apparel drops regularly.
-  Updated: 2026-11-05T16:22:57Z
-  Total Products: 102
+  Updated: 2026-11-15T12:17:26Z
+  Total Products: 108
 - [T-Shirts](https://peamactees.com/collections/t-shirts): Shop premium pickleball tees for men, women, and kids. Bold graphics, soft fabrics, and styles made for players who love the game.
-  Updated: 2026-10-27T19:52:51Z
-  Total Products: 42
+  Updated: 2026-11-15T12:17:26Z
+  Total Products: 44
 - [Matrix Collection](https://peamactees.com/collections/matrix-collection)
-  Updated: 2026-11-03T23:42:20Z
+  Updated: 2026-11-11T23:39:55Z
   Total Products: 22
-- [LOVE Collection](https://peamactees.com/collections/love-collection-1)
-  Updated: 2026-10-27T19:52:51Z
-  Total Products: 10
 - [THE 002 Collection](https://peamactees.com/collections/the-002-collection)
-  Updated: 2026-10-27T19:52:51Z
+  Updated: 2026-11-11T06:20:41Z
   Total Products: 10
 - [Dinking Diva](https://peamactees.com/collections/dinking-diva)
   Updated: 2026-10-27T19:52:51Z
   Total Products: 8
 - [Best Pickleball Outfits for Summer](https://peamactees.com/collections/best-pickleball-outfits-for-summer)
-  Updated: 2026-10-27T19:52:51Z
-  Total Products: 11
-- [PRIDE Collection](https://peamactees.com/collections/pride-collection-1)
-  Updated: 2026-10-27T19:52:52Z
-  Total Products: 5
+  Updated: 2026-11-11T23:49:16Z
+  Total Products: 9
 - [Southampton Ontario Canada](https://peamactees.com/collections/southampton-ontario-canada): A classic take on Southampton, a vintage graphic that showcases the Chantry Island Lighthouse and keeper’s cottage surrounded by Lake Huron, sandy shoreline and windswept dunes.
-  Updated: 2026-10-27T19:52:52Z
-  Total Products: 6
+  Updated: 2026-11-13T16:14:36Z
+  Total Products: 10
+- [Christmas & Holiday Collection](https://peamactees.com/collections/christmas-holiday-collection): Bring a little pickleball spirit to the most wonderful time of the year! 🎄 Our Christmas Collection combines festive fun with a touch of court-inspired creativity, making it easy to share your love of pickleball throughout the holiday season. Discover four beautifully designed Christmas ornaments, each bringing its own festive personality to your tree, along with our playful HO HO HO Christmas shirts, available in both short and long sleeves. Whether you're decorating your home, looking for a thoughtful gift for your favourite pickleball partner, or adding a little holiday humour to your wardrobe, there's something here to make the season extra special. Because Christmas is even better when there's a little pickleball in it! Perfect for pickleball players, holiday gift-giving, and anyone who believes that Christmas and a little court time make a wonderful combination.
+  Updated: 2026-11-11T02:21:11Z
+  Total Products: 3
 
 ## Blogs
 
 - [Pickleball Tips & Tricks](https://peamactees.com/blogs/pickleball-tips-tricks): Get expert pickleball tips & tricks for beginners and seasoned players. Improve your game, master scoring, and enjoy every rally on and off the court.
-  - [Pickleball Scoring Explained (Without the Confusion)](https://peamactees.com/blogs/pickleball-tips-tricks/pickleball-scoring-explained-without-the-confusion): <p>Pickleball scoring doesn’t have to be confusing. This easy-to-follow guide breaks down how scoring really works, including serving rules, doubles play, and common mistakes new players make. Whether you’re brand new to the game or just need a refresher, this simple tutorial will help you play with confidence and enjoy every rally.</p>
-    Updated: 2026-09-16T17:22:39Z
+  - [Pickleball tips and beginner guides](https://peamactees.com/blogs/pickleball-tips-tricks/pickleball-tips-and-beginner-guides): Learn the basics of pickleball scoring, then consider apparel and accessories for court days, everyday use, or a gift for a player.
+    Updated: 2026-11-11T07:58:15Z
     Author: Patricia MacPherson
-    Tags: doubles pickleball, how to keep score, learn pickleball, pickleball, pickleball basics, pickleball for beginners, pickleball rules, pickleball scoring, pickleball serve, pickleball tips, pickleball tips & tricks, pickleball tutorial, serving rules
+    Tags: beginner pickleball, pickleball apparel, pickleball gifts, pickleball tips
   - [10 Pickleball Beginner Tips That Instantly Improve Your Game](https://peamactees.com/blogs/pickleball-tips-tricks/10-beginner-pickleball-tips-that-instantly-improve-your-game): <p>Ready to improve your pickleball game? These 10 beginner tips help you build confidence, sharpen positioning, and play smarter from your very next match.</p>
     Updated: 2026-09-16T17:22:13Z
     Author: Patricia MacPherson
@@ -2502,6 +2496,14 @@ The official website is https://www.peamactees.com
     Updated: 2026-09-16T17:25:39Z
     Author: Patricia MacPherson
     Tags: active lifestyle, best pickleball outfits summer 2026, court to coffee pickleball style, cute pickleball tees casual wear, doubles pickleball, gear guide, gifts for grandma pickleball, gifts for pickleball players, moms who play, PeaMacTees, pickleball, pickleball accessories, pickleball clothing printed near you, pickleball doubles, pickleball essentials, pickleball fashion women, pickleball for older adults, pickleball gear, pickleball gifts, pickleball gifts USA fast shipping, pickleball lifestyle, pickleball lifestyle apparel, pickleball lifestyle apparel online, pickleball mom gifts, pickleball style guide women over 40, pickleball tips, pickleball tips & tricks, pickleball water bottle, PickleballApparel, PickleballFashion, PickleballLifestyle, PickleballOutfits, PickleballStyle, PickleballTees, practical pickleball gear, what to wear to pickleball
+  - [Pickleball Gear and Gift Guides](https://peamactees.com/blogs/gear-guides/pickleball-gear-and-gift-guides): <p>A practical guide to choosing pickleball apparel, accessories, and personalized gifts for players, clubs, and teams. <strong><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Canadian-designed.  Printed near you. Delivered fast. Ships worldwide.</span></strong></p>
+    Updated: 2026-11-11T05:38:04Z
+    Author: Patricia MacPherson
+    Tags: gift ideas, gifts for grandma pickleball, gifts for pickleball players, personalized pickleball shirts, pickleball accessories, pickleball apparel, pickleball gift ideas, pickleball gifts, pickleball gifts USA fast shipping, pickleball mom gifts, teacher gift ideas pickleball
+  - [The 2026 Pickleball Gift Guide, Sorted by What You Want to Spend](https://peamactees.com/blogs/gear-guides/the-2026-pickleball-gift-guide-sorted-by-what-you-want-to-spend): <p>The pickleball player on your list already owns a paddle. This year’s gift guide is sorted by what you want to spend, from a $16 car magnet to a personalized doormat that greets the Tuesday-night foursome by name. Order by Monday, December 7 for delivery before the holidays.</p>
+    Updated: 2026-11-13T12:00:05Z
+    Author: Patricia MacPherson
+    Tags: auto magnet, car magnet, Christmas ornaments, dinks responsibly, gift ideas, gifts for grandma pickleball, gifts for pickleball players, Pickleball gift card, pickleball gift ideas, pickleball gifts, pickleball gifts USA fast shipping, pickleball mom gifts, Pickleball Ornaments, Pickler, Pickler Mug, teacher gift ideas pickleball
 - [Community Stories](https://peamactees.com/blogs/community-stories): Read inspiring pickleball stories from players, teams, and fans. Celebrate the community, culture, and fun that make pickleball more than just a game.
   - [Why People Fall in Love with Pickleball Later in Life](https://peamactees.com/blogs/community-stories/why-people-fall-in-love-with-pickleball-later-in-life): <p>Pickleball is quickly becoming a favorite pastime for adults over 50—and for good reason. Easy to learn, social by nature, and incredibly rewarding, it offers a unique blend of fitness, fun, and connection that keeps players coming back for more.</p>
     Updated: 2026-09-16T17:48:35Z
