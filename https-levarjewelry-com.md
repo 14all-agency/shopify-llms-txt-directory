@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-10-23T14:51:10Z
 - Contact Email: info@levarneilsonjewelry.com
-- Updated At: 2026-11-08T00:26:09.735Z
+- Updated At: 2026-11-16T00:29:54.824Z
 
 ## Products
 
@@ -576,7 +576,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/cb6d121e-5992-40a8-9891-c2250c0296da-Max-Origin.webp?v=1777319628
     Price: $219.30 USD
 - [1 Carat Moissanite 925 Sterling Silver Ring](https://levarjewelry.com/products/1-carat-moissanite-925-sterling-silver-ring-1): Pieces:1-piece Includes: A matching box. Moissanite jewelry over 0.3 carats includes a certificate of stone properties. Limited warranty included; please contact us for any issues related to your purchase. Adjustable: Adjustable Material: 925 sterling silver, Moissanite Carat weight:1ct Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry, producing silver chloride and copper sulfide, which can cause the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Width One Size 0.6
-  Updated: 2026-10-31T02:40:06Z
+  Updated: 2026-11-12T06:00:36Z
   Vendor: Le'Var
   Product Type: Rings
   Availability: Available
@@ -622,7 +622,7 @@
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/112e2102-1254-4b43-9c9a-045517ae7372-Max-Origin.webp?v=1777319831
   Price: $69.84 USD
 - [925 Sterling Silver Zircon Butterfly Necklace](https://levarjewelry.com/products/925-sterling-silver-zircon-butterfly-necklace): Pieces: 1-piece Includes: A matching box. Material: 925 sterling silver, Zircon Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 15.7
-  Updated: 2026-10-31T02:40:16Z
+  Updated: 2026-11-15T23:59:01Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -2503,11 +2503,11 @@
   Updated: 2026-10-23T07:44:57Z
   Total Products: 265
 - [Rings](https://levarjewelry.com/collections/rings): Explore rings for men and women at Le'Var Neilson. Express your personal style, celebrate a connection, or find a meaningful gift.
-  Updated: 2026-11-02T08:46:16Z
-  Total Products: 121
+  Updated: 2026-11-15T12:10:01Z
+  Total Products: 125
 - [Bridal & Engagement Jewelry](https://levarjewelry.com/collections/bridal-engagement-jewelry): Explore bridal and engagement jewelry at Le'Var Neilson. Celebrate your commitment, honor your connection, and find a piece for your next chapter.
-  Updated: 2026-10-31T22:49:32Z
-  Total Products: 27
+  Updated: 2026-11-15T12:10:01Z
+  Total Products: 35
 - [Earrings](https://levarjewelry.com/collections/earrings): Explore earrings for men and women at Le'Var Neilson. Find your everyday finishing touch, express your personal style, or choose a meaningful gift.
   Updated: 2026-10-23T07:46:34Z
   Total Products: 27
@@ -2533,8 +2533,8 @@
   Updated: 2026-10-23T08:00:57Z
   Total Products: 3
 - [Moissanite Gift Sets](https://levarjewelry.com/collections/moissanite-gift-sets): Shop curated moissanite gift sets at Le'Var Neilson. Rings, necklaces & earrings bundled for the perfect luxury jewelry gift.
-  Updated: 2026-09-21T10:35:44Z
-  Total Products: 0
+  Updated: 2026-11-15T03:24:31Z
+  Total Products: 1
 - [Moissanite Bridal Sets](https://levarjewelry.com/collections/moissanite-bridal-sets): Shop moissanite bridal jewelry sets at Le'Var Neilson. Curated rings, earrings & necklace pairings for your wedding day.
   Updated: 2026-10-23T07:03:01Z
   Total Products: 12
@@ -2569,14 +2569,14 @@
   Updated: 2026-10-31T22:50:17Z
   Total Products: 3
 - [Women's Rings](https://levarjewelry.com/collections/womens-rings): Explore Le'Var women's rings, from sterling silver and moissanite designs to refined everyday styles made to stand apart.
-  Updated: 2026-11-02T08:19:56Z
-  Total Products: 37
+  Updated: 2026-11-15T02:57:43Z
+  Total Products: 38
 - [Jewelry Sets](https://levarjewelry.com/collections/jewelry-sets): Shop coordinated jewelry sets from Le’Var, featuring polished finishes, symbolic details, and gift-worthy styles for effortless everyday elegance.
-  Updated: 2026-09-29T10:22:30Z
-  Total Products: 7
+  Updated: 2026-11-15T03:23:49Z
+  Total Products: 8
 - [The Grand Occasion Collection by Le’Var](https://levarjewelry.com/collections/grand-occasion): Discover The Grand Occasion Collection by Le’Var. Statement jewelry for wedding celebrations, black-tie evenings, and unforgettable entrances.
-  Updated: 2026-10-23T08:55:39Z
-  Total Products: 0
+  Updated: 2026-11-15T03:24:31Z
+  Total Products: 1
 
 ## Blogs
 
@@ -2659,6 +2659,9 @@
     Author: Le'Var Neilson Jewelry
   - [Exploring Rare and Uncommon Gemstones You Need to Know](https://levarjewelry.com/blogs/news/exploring-rare-and-uncommon-gemstones-you-need-to-know): Exploring Rare and Uncommon Gemstones You Need to Know
     Updated: 2026-11-08T00:04:31Z
+    Author: Le'Var Neilson Jewelry
+  - [The Complete Guide to Cleaning and Caring for Your Gemstones](https://levarjewelry.com/blogs/news/the-complete-guide-to-cleaning-and-caring-for-your-gemstones): The Complete Guide to Cleaning and Caring for Your Gemstones
+    Updated: 2026-11-15T00:03:36Z
     Author: Le'Var Neilson Jewelry
 
 ## Store Pages
