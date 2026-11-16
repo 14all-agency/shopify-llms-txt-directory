@@ -6,33 +6,33 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-02-08T11:10:24Z
 - Contact Email: Info@stickertoo-handmade.com
-- Updated At: 2026-11-09T00:37:49.311Z
+- Updated At: 2026-11-16T00:37:57.659Z
 
 ## Products
 
-- [Mini Pin Handmade Maus Pünktchen – Niedliche Anstecknadel Unikat](https://stickertoo-handmade.com/products/mini-pin-handmade-maus-punktchen): Handgefertigter Mini Pin „Maus Pünktchen“ aus Modelliermasse & UV-Resin. Süßes Maus-Accessoire für Jacken & Taschen. Unikat, Handmade in Deutschland.
-  Updated: 2026-11-08T06:15:57Z
+- [Anstecknadel Maus Pünktchen – handgemachter Mini-Pin](https://stickertoo-handmade.com/products/mini-pin-handmade-maus-punktchen): Handgefertigter Mini Pin „Maus Pünktchen“ aus Modelliermasse & UV-Resin. Süßes Maus-Accessoire für Jacken & Taschen. Unikat, Handmade in Deutschland.
+  Updated: 2026-11-15T13:01:13Z
   Vendor: Stickertoo Handmade
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1787378127243_5845201c-06d3-4871-85f1-5f32948268ec.png?v=1787382253
   Price: 4,90 € EUR
-- [Mini Pin Handmade Dinogreen – Anstecknadel Dinosaurier Unikat](https://stickertoo-handmade.com/products/mini-pin-handmade-dinogreen): Handgefertigter Mini Pin „Dinogreen“ aus Modelliermasse, UV-Resin versiegelt. Süßes Dinosaurier-Accessoire für Jacken & Taschen. Unikat, Handmade in Deutschland.
-  Updated: 2026-11-08T06:15:57Z
+- [Dinosaurier-Anstecknadel Dinogreen – handgemachter Mini-Pin](https://stickertoo-handmade.com/products/mini-pin-handmade-dinogreen): Handgefertigter Mini Pin „Dinogreen“ aus Modelliermasse, UV-Resin versiegelt. Süßes Dinosaurier-Accessoire für Jacken & Taschen. Unikat, Handmade in Deutschland.
+  Updated: 2026-11-15T13:01:15Z
   Vendor: Stickertoo Handmade 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/rn-image_picker_lib_temp_a771da91-3a72-4e5d-8c32-f71fa7b5e282.jpg?v=1790229994
   Price: 4,90 € EUR
-- [Mini Pin Handmade Spooky Maus – Halloween Anstecknadel Unikat](https://stickertoo-handmade.com/products/mini-pin-handmade-spooky-maus): Handgefertigter Mini Pin „Spooky Maus“ aus Modelliermasse & UV-Resin. Gruselig süßes Halloween-Accessoire. Unikat, Handmade in Deutschland.
-  Updated: 2026-11-08T06:15:57Z
+- [Halloween-Anstecknadel Spooky Maus – handgemachter Mini-Pin](https://stickertoo-handmade.com/products/mini-pin-handmade-spooky-maus): Handgefertigter Mini Pin „Spooky Maus“ aus Modelliermasse & UV-Resin. Gruselig süßes Halloween-Accessoire. Unikat, Handmade in Deutschland.
+  Updated: 2026-11-15T13:01:16Z
   Vendor: Stickertoo Handmade
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1787374054609.jpg?v=1790297239
   Price: 4,90 € EUR
-- [Mini Pin Handmade Blume – Florale Anstecknadel Handmade Unikat](https://stickertoo-handmade.com/products/mini-pin-handmade-blume-1): Handgefertigte Blumen-Anstecknadel aus Modelliermasse & UV-Resin. Florales Accessoire für Jacken & Taschen. Verschiedene Varianten. Handmade in Deutschland.
-  Updated: 2026-11-08T06:15:57Z
+- [Blumen-Anstecknadel – handgemachter Mini-Pin](https://stickertoo-handmade.com/products/mini-pin-handmade-blume-1): Handgefertigte Blumen-Anstecknadel aus Modelliermasse & UV-Resin. Florales Accessoire für Jacken & Taschen. Verschiedene Varianten. Handmade in Deutschland.
+  Updated: 2026-11-15T13:01:15Z
   Vendor: Stickertoo Handmade
   Product Type: 
   Availability: Available
@@ -45,22 +45,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1787374054626.jpg?v=1787396978
     Price: 4,90 € EUR
-- [3D Anhänger Mystik "Krähe" – Handgemacht Gothic Schmuck](https://stickertoo-handmade.com/products/3d-anhanger-mystik-krahe): Entdecke die geheimnisvolle Kraft des 3D-Anhängers Mystik „Krähe“ – ein handmodellierter Krähen-Schädel, versiegelt mit schimmerndem UV-Resin. Dieses einzigartige Unikat verleiht deinem Stil dunkle Tiefe und Gothic-Ästhetik, die Blicke auf sich zieht. Ideal als besonderes Geschenk oder Highlight für deine eigene Schmuckkollektion. * Beispiel Bild wie es getragen aussehen könnte, es wird keine Kette mit geliefert* Material: Modelliermasse, Acrylfarben, UV-Resin versiegelt Größe: ca. 5 cm Herstellung: 100 % handgefertigt – Unikat
-  Updated: 2026-11-08T01:50:07Z
+- [Krähen-Anhänger Mystik – handgemachter Gothic-Schmuck](https://stickertoo-handmade.com/products/3d-anhanger-mystik-krahe): Entdecke die geheimnisvolle Kraft des Skulptur-Anhängers Mystik „Krähe“ – ein handmodellierter Krähen-Schädel, versiegelt mit schimmerndem UV-Resin. Dieses einzigartige Unikat verleiht deinem Stil dunkle Tiefe und Gothic-Ästhetik, die Blicke auf sich zieht. Ideal als besonderes Geschenk oder Highlight für deine eigene Schmuckkollektion. * Beispiel Bild wie es getragen aussehen könnte, es wird keine Kette mit geliefert* Material: Modelliermasse, Acrylfarben, UV-Resin versiegelt Größe: ca. 5 cm Herstellung: 100 % handgefertigt – Unikat
+  Updated: 2026-11-15T13:01:14Z
   Vendor: Stickertoo Handmade 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/rn-image_picker_lib_temp_7d9d7729-39fc-4ea0-8815-d6d8cb7c5ae2.jpg?v=1788629801
+  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/rn-image_picker_lib_temp_7d9d7729-39fc-4ea0-8815-d6d8cb7c5ae2.jpg?v=1794368330
   Price: 19,90 € EUR
-- [3D Anhänger Mystik "Fledermaus" – Handgemacht Gothic Schmuck](https://stickertoo-handmade.com/products/3d-anhanger-mystik-fledermaus): Entdecke die faszinierende Mystik dieses detailreich geformten 3D-Fledermaus-Anhängers – ein echtes Unikat aus Modelliermasse und UV-Resin, handgefertigt mit Liebe zum Detail. Jede Kurve und Kontur spürt man förmlich – ein Accessoire, das deine Persönlichkeit zum Leben erweckt und Blicke magisch anzieht. Perfekt für alle, die Gothic-Ästhetik, dunkle Mystik und handgemachten Schmuck lieben. * Beispiel Bild wie es getragen aussehen könnte, es wird keine Kette mit geliefert* Material: Modelliermasse, Acrylfarben, UV-Resin versiegelt Größe: ca. 7 cm Herstellung: 100 % handgefertigt – Unikat
-  Updated: 2026-11-08T01:50:06Z
+- [Fledermaus-Anhänger Mystik – handgemachter Gothic-Schmuck](https://stickertoo-handmade.com/products/3d-anhanger-mystik-fledermaus): Entdecke die faszinierende Mystik dieses detailreich geformten Skulptur-Fledermaus-Anhängers – ein echtes Unikat aus Modelliermasse und UV-Resin, handgefertigt mit Liebe zum Detail. Jede Kurve und Kontur spürt man förmlich – ein Accessoire, das deine Persönlichkeit zum Leben erweckt und Blicke magisch anzieht. Perfekt für alle, die Gothic-Ästhetik, dunkle Mystik und handgemachten Schmuck lieben. * Beispiel Bild wie es getragen aussehen könnte, es wird keine Kette mit geliefert* Material: Modelliermasse, Acrylfarben, UV-Resin versiegelt Größe: ca. 7 cm Herstellung: 100 % handgefertigt – Unikat
+  Updated: 2026-11-15T13:01:20Z
   Vendor: Stickertoo Handmade 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/rn-image_picker_lib_temp_4fb69408-6eea-48d7-b410-6ab4ddc71559.jpg?v=1788630770
+  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/rn-image_picker_lib_temp_4fb69408-6eea-48d7-b410-6ab4ddc71559.jpg?v=1794367841
   Price: 19,90 € EUR
-- [3D Anhänger Handmade " Maske 1"](https://stickertoo-handmade.com/products/3d-anhanger-handmade-maske-1): Entdecke die faszinierende Welt der Masken mit dem handgefertigten 3D Anhänger "Maske 1". Jede Skulptur strahlt geheimnisvolle Tiefe aus, glänzt durch schimmernden Hintergrund und lebendige Acrylfarben – ein einzigartiges Kunstwerk, das dich jeden Tag inspiriert! Materialien: Modelliermasse, Acrylfarben, UV Resin versiegelt Größe: ca 6 cm
-  Updated: 2026-11-08T01:50:05Z
+- [Handgefertigter Masken-Anhänger „Maske 1“ | Stickertoo](https://stickertoo-handmade.com/products/3d-anhanger-handmade-maske-1): Entdecke „Maske 1“: handgefertigter Masken-Anhänger aus Modelliermasse mit Acrylmalerei und UV-Resin-Versiegelung. Ca. 6 cm groß.
+  Updated: 2026-11-13T15:50:24Z
   Vendor: Stickertoo Handmade 
   Product Type: 
   Availability: Available
@@ -88,114 +88,152 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/rn-image_picker_lib_temp_d4ce607e-25bd-4c8a-ba53-2e5e7490d393.png?v=1789311104
     Price: 100,00 € EUR
-- [3D Anhänger Handmade - " Waldmann"](https://stickertoo-handmade.com/products/3d-anhanger-handmade-waldmann): Der 3D Anhänger "Waldmann" ist ein handgefertigtes Schmuckstück mit charmanter Waldmotiv-Ästhetik. Das Design besticht durch feine Details und wurde sorgfältig von Hand gefertigt. Der Anhänger verfügt über einen glitzernden Hintergrund in elegantem Grünton, der das Waldthema perfekt unterstreicht und dem Schmuckstück eine festliche, edle Ausstrahlung verleiht.Das handgemachte 3D-Anhänger passt ideal an Halsketten, oder als eigenständiges Accessoire. Jedes Stück ist ein Unikat und spiegelt die Liebe zum Detail wider, die in der artisanalen Herstellung steckt. Perfekt als Geschenk oder zur Bereicherung der eigenen Schmuckkollektion.
-  Updated: 2026-11-08T01:50:06Z
+- [Skulptur-Anhänger Waldmann – handgemacht mit Waldmotiv](https://stickertoo-handmade.com/products/3d-anhanger-handmade-waldmann): Der Skulptur Anhänger "Waldmann" ist ein handgefertigtes Schmuckstück mit charmanter Waldmotiv-Ästhetik. Das Design besticht durch feine Details und wurde sorgfältig von Hand gefertigt. Der Anhänger verfügt über einen glitzernden Hintergrund in elegantem Grünton, der das Waldthema perfekt unterstreicht und dem Schmuckstück eine festliche, edle Ausstrahlung verleiht.Das handgemachte 3D-Anhänger passt ideal an Halsketten, oder als eigenständiges Accessoire. Jedes Stück ist ein Unikat und spiegelt die Liebe zum Detail wider, die in der artisanalen Herstellung steckt. Perfekt als Geschenk oder zur Bereicherung der eigenen Schmuckkollektion.
+  Updated: 2026-11-15T13:01:17Z
   Vendor: Stickertoo- Handmade 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1790584551043.jpg?v=1790587202
+  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1790584551043.jpg?v=1794292156
   Price: 15,90 € EUR
-- [Digitales Produkt " KI Erstellt" Hexenhut mit Rabe](https://stickertoo-handmade.com/products/digital-product-3): PNG-Datei mit hoher Auflösung für direkte Downloads und sofortige Nutzung. Ideal zum Ausdrucken, digitalen Teilen oder Weiterverarbeitung. Die 841 KB-Datei bietet beste Bildqualität für private und kommerzielle Projekte. Schneller Download, sofort einsatzbereit — kein Versand, kein Warten. Auch wenn es KI erstellt wurde, den bildlichen Wunschinhalt kam von mir. :) Lässt sich super als Wand oder Stehbild verwenden.
-  Updated: 2026-10-27T02:54:36Z
+- [PNG-Download: Hexenhut mit Rabe – KI-Illustration](https://stickertoo-handmade.com/products/digital-product-3): Das Motiv „Hexenhut mit Rabe“ erhältst du als hochauflösende PNG-Datei zum direkten Download und zur sofortigen Nutzung. Ideal zum Ausdrucken, digitalen Teilen oder Weiterverarbeitung. Die 841 KB-Datei bietet beste Bildqualität für private und kommerzielle Projekte. Schneller Download, sofort einsatzbereit — kein Versand, kein Warten. Auch wenn es KI erstellt wurde, den bildlichen Wunschinhalt kam von mir. :) Lässt sich super als Wand oder Stehbild verwenden.
+  Updated: 2026-11-15T13:01:22Z
   Vendor: Stickertoo- Handmade 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1791883803839.jpg?v=1791883902
   Price: 3,90 € EUR
-- [Digitales Produkt " KI erstellt" Hexenhut und Mäuschen](https://stickertoo-handmade.com/products/digitales-produkt-3): Magisches Digitales Design: Hexenhut und MäuschenErleben Sie das Charme handwerklicher Ästhetik in digitaler Form. Diese KI-erstellte Illustration kombiniert niedliche Charaktere mit warmem, nostalgischem Flair – perfekt für Grußkarten, Drucke oder kreative Projekte.Die hochauflösende PNG-Datei (2,8 MB) bietet brillante Farben und klare Details für professionelle Anwendungen. Sofort nach dem Kauf verfügbar – keine Versandzeit, nur digitale Kreativität auf Abruf. Das Download Motiv ist natürlich ohne Wasserzeichen
-  Updated: 2026-11-06T06:41:51Z
+- [PNG-Download: Hexenhut und Mäuschen – KI-Illustration](https://stickertoo-handmade.com/products/digitales-produkt-3): Magisches Digitales Design: Hexenhut und MäuschenErleben Sie das Charme handwerklicher Ästhetik in digitaler Form. Diese KI-erstellte Illustration kombiniert niedliche Charaktere mit warmem, nostalgischem Flair – perfekt für Grußkarten, Drucke oder kreative Projekte.Die hochauflösende PNG-Datei (2,8 MB) bietet brillante Farben und klare Details für professionelle Anwendungen. Sofort nach dem Kauf verfügbar – keine Versandzeit, nur digitale Kreativität auf Abruf. Das Download Motiv ist natürlich ohne Wasserzeichen
+  Updated: 2026-11-15T13:01:19Z
   Vendor: Stickertoo- Handmade 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1791886695169.jpg?v=1791886805
   Price: 3,90 € EUR
-- [Pin Groß Handmade " Mondstern"](https://stickertoo-handmade.com/products/pin-gross-handmade-mondstern): Entdecke den handgefertigten Pin „Mondstern“ – ein strahlendes Kunstwerk aus modellierter Masse, veredelt mit leuchtenden Acrylfarben und schützendem UV-Resin. Die goldenen Metallic-Elemente setzen funkelnde Akzente und machen deinen Look einzigartig! Perfekt, um Persönlichkeit zu zeigen.
-  Updated: 2026-11-06T06:41:49Z
+- [Großer Pin „Mondstern“ – handgemachte Anstecknadel](https://stickertoo-handmade.com/products/pin-gross-handmade-mondstern): Der große, handgefertigte Pin „Mondstern“ ist eine Anstecknadel aus Modelliermasse mit leuchtenden Acrylfarben und goldfarbenen Metallic-Elementen. Die funkelnden Akzente verleihen deinem Look eine persönliche Note.Die Oberfläche ist mit UV-Resin versiegelt, das die Bemalung schützt und für Glanz sorgt. „Mondstern“ verbindet handmodellierte Gestaltung mit einem auffälligen Metallic-Finish. Herstellung: handgefertigt aus Modelliermasse Bemalung: Acrylfarben mit goldfarbenen Metallic-Elementen Oberfläche: mit schützendem UV-Resin versiegelt
+  Updated: 2026-11-13T21:06:26Z
   Vendor: Stickertoo- Handmade 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/rn-image_picker_lib_temp_4df2d8c0-4d14-49b0-8410-4f84802a887f.jpg?v=1792156925
+  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/rn-image_picker_lib_temp_4df2d8c0-4d14-49b0-8410-4f84802a887f.jpg?v=1794292114
   Price: 6,90 € EUR
-- [Harlekin Handmade " Player"](https://stickertoo-handmade.com/products/harlekin-handmade-player): Entdecke die faszinierende Kraft des Harlekin Handmade "Player"! Handgeformt aus Modelliermasse, strahlt er mit schwarzer und goldener Eleganz. Die UV-Resin-Versiegelung sorgt für langlebigen Glanz – ein Kunstwerk, das deinen Raum mit Persönlichkeit erfüllt! Willst du nicht auch so ein einzigartiges Meisterstück? Materialien: Edelstahl Öse, Modelliermasse, Acrylfarben, UV Resin Größe; ca 6,5 cm Gewicht; ca 10 Gramm
-  Updated: 2026-10-27T02:54:36Z
+- [Harlekin-Anhänger Player – handgemacht in Schwarz-Gold](https://stickertoo-handmade.com/products/harlekin-handmade-player): Entdecke die faszinierende Kraft des handgefertigten Harlekin-Anhängers „Player“! Handgeformt aus Modelliermasse, strahlt er mit schwarzer und goldener Eleganz. Die UV-Resin-Versiegelung sorgt für langlebigen Glanz – ein Kunstwerk, das deinen Raum mit Persönlichkeit erfüllt! Willst du nicht auch so ein einzigartiges Meisterstück? Materialien: Edelstahl Öse, Modelliermasse, Acrylfarben, UV Resin Größe; ca 6,5 cm Gewicht; ca 10 Gramm
+  Updated: 2026-11-15T13:01:18Z
   Vendor: Stickertoo- Handmade 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1792485028672.jpg?v=1792486231
+  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1792485028672.jpg?v=1794292083
   Price: 19,90 € EUR
-- [Harlekin Handmade " Stein-Herz"](https://stickertoo-handmade.com/products/harlekin-handmade-stein-herz): Das Harlekin Handmade „Stein-Herz“ verzaubert mit seiner einzigartigen blauen Musterkombination aus Punkten und Herzen. Mit nur 6,5 cm Größe und dem markanten grimmigen Stein auf dem Hut ist es ein kraftvolles Symbol echter Handwerkskunst – kleine Kunst, die große Gefühle weckt! Materialien: Edelstahl Öse, Modelliermasse, Acrylfarben, UV Resin Größe; ca 6,5 cm Gewicht; ca 10 Gramm
-  Updated: 2026-11-06T06:41:50Z
+- [Harlekin-Anhänger „Stein-Herz“ – handgemacht in Blau](https://stickertoo-handmade.com/products/harlekin-handmade-stein-herz): Der handgefertigte Harlekin-Anhänger „Stein-Herz“ verbindet eine blaue Musterkombination aus Punkten und Herzen mit einem markanten Detail: einem grimmigen Stein auf dem Hut. Mit seiner Größe von ca. 6,5 cm ist er ein ausdrucksstarkes Schmuckstück für alle, die ungewöhnliche Motive und kleine Kunstwerke lieben. Aus Modelliermasse gefertigt und mit Acrylfarben gestaltet, bringt „Stein-Herz“ einen verspielten Akzent in deine Schmuckkollektion. Eine Edelstahlöse und UV-Resin gehören ebenfalls zu den verwendeten Materialien. Der Anhänger ist auch eine Geschenkidee für Liebhaber handgemachter Harlekin-Motive. Materialien: Edelstahlöse, Modelliermasse, Acrylfarben und UV-Resin Größe: ca. 6,5 cm Gewicht: ca. 10 Gramm
+  Updated: 2026-11-13T21:12:09Z
   Vendor: Stickertoo- Handmade 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/rn-image_picker_lib_temp_38960175-5426-4f40-9256-37db7fc4c34a.jpg?v=1792486767
+  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/rn-image_picker_lib_temp_38960175-5426-4f40-9256-37db7fc4c34a.jpg?v=1794292050
   Price: 19,90 € EUR
-- [3D Anhänger Handmade " Mond"](https://stickertoo-handmade.com/products/3d-anhanger-handmade-mond): Ein einzigartiges Kunstwerk für Liebhaber des Mystischen und Ausgefallenen: Dieser ausdrucksstarke Kettenanhänger zeigt ein charaktervolles Mondgesicht mit einer plastisch ausgearbeiteten Kraterstruktur. Die schimmernden Augen fangen das Licht magisch ein und verleihen dem Stück eine geheimnisvolle Tiefe. ​Jedes Detail wurde von Hand auf Tonbasis modelliert und sorgfältig mit UV-Harz versiegelt, was der Oberfläche einen feinen Glanz und verlässlichen Schutz verleiht. ​Highlights & Details:​Design: Handmodelliertes Mondgesicht mit Kratertextur und schimmernden Blickpunkten ​Material: Modelliermasse (lufttrocknend), edles Finish versiegelt mit hochwertigem UV-Resin. ​Stil: Passt perfekt zu Vintage-, Gothic- oder Boho-Outfits. Besonders wirkungsvoll an einer langen Silberkette getragen. ​Unikat: Jedes Stück ist ein handgefertigtes Einzelstück – leichte Abweichungen in Form und Detail machen deinen Anhänger zu einem echten Unikat.
-  Updated: 2026-11-08T01:50:05Z
+- [Mond-Anhänger – handmodelliertes Gesicht mit Kraterstruktur](https://stickertoo-handmade.com/products/3d-anhanger-handmade-mond): Ein einzigartiges Kunstwerk für Liebhaber des Mystischen und Ausgefallenen: Dieser ausdrucksstarke Kettenanhänger zeigt ein charaktervolles Mondgesicht mit einer plastisch ausgearbeiteten Kraterstruktur. Die schimmernden Augen fangen das Licht magisch ein und verleihen dem Stück eine geheimnisvolle Tiefe. ​Jedes Detail wurde von Hand auf Tonbasis modelliert und sorgfältig mit UV-Harz versiegelt, was der Oberfläche einen feinen Glanz und verlässlichen Schutz verleiht. ​Highlights & Details:​Design: Handmodelliertes Mondgesicht mit Kratertextur und schimmernden Blickpunkten ​Material: Modelliermasse (lufttrocknend), edles Finish versiegelt mit hochwertigem UV-Resin. ​Stil: Passt perfekt zu Vintage-, Gothic- oder Boho-Outfits. Besonders wirkungsvoll an einer langen Silberkette getragen. ​Unikat: Jedes Stück ist ein handgefertigtes Einzelstück – leichte Abweichungen in Form und Detail machen deinen Anhänger zu einem echten Unikat.
+  Updated: 2026-11-15T21:15:27Z
   Vendor: Stickertoo- Handmade 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/rn-image_picker_lib_temp_067862b2-fad1-4700-8af3-049a65721fed.jpg?v=1792554272
   Price: 19,90 € EUR
-- [Räucher Mütze " Das Kreuz mit Flieger" Handmade](https://stickertoo-handmade.com/products/raucher-mutze-das-kreuz-mit-flieger-handmade): In tief Dunkelbraun mit schwarzen und feinen Metallic-Gold-Akzenten handwerklich verarbeitet. Die eingearbeiteten Belüftungslöcher ermöglichen einen sauberen Abbrand des Räucherkegels und leiten den Rauch nach oben ab. Je nach Verarbeitung kann minimal Rauch an den Kanten entweichen. Veredelt mit Resin-versiegelten Charms auf der Oberfläche. Materialien: Modelliermasse, Acrylfarben, UV Resin Harz, Metallic Charms Größe: 11,7 cm breit/10,5 cm Hoch/ 7 cm Durchmesser Gewicht: ca 12 Gramm Im Paket enthalten der Beipackzettel und natürlich den Gratis Untersetzter für den Räucher Kegel( gängige Größe)
-  Updated: 2026-11-06T06:41:51Z
+- [Räuchermütze Das Kreuz mit Flieger – für Räucherkegel](https://stickertoo-handmade.com/products/raucher-mutze-das-kreuz-mit-flieger-handmade): Die handgefertigte Räuchermütze „Das Kreuz mit Flieger“ für Räucherkegel ist in tiefem Dunkelbraun mit schwarzen und feinen Metallic-Gold-Akzenten gestaltet. Die eingearbeiteten Belüftungslöcher ermöglichen einen sauberen Abbrand des Räucherkegels und leiten den Rauch nach oben ab. Je nach Verarbeitung kann minimal Rauch an den Kanten entweichen. Veredelt mit Resin-versiegelten Charms auf der Oberfläche. Materialien: Modelliermasse, Acrylfarben, UV Resin Harz, Metallic Charms Größe: 11,7 cm breit/10,5 cm Hoch/ 7 cm Durchmesser Gewicht: ca 12 Gramm Im Paket enthalten der Beipackzettel und natürlich den Gratis Untersetzter für den Räucher Kegel( gängige Größe)
+  Updated: 2026-11-15T13:01:24Z
   Vendor: Stickertoo- Handmade 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1792736288527.jpg?v=1792750607
+  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1792736288527.jpg?v=1794291806
   Price: 22,90 € EUR
 - [RäucherMütze " Das Glück" Handmade](https://stickertoo-handmade.com/products/rauchermutze-das-gluck-handmade): Die RäucherMütze „Das Glück" ist ein handgefertigtes Unikat, das Räucherstäbchen stilvoll in Szene setzt. Mit ihrer dezenten Formensprache und warmem Beige passt sie perfekt in jeden Wohnraum – ob Schlafzimmer, Wohnzimmer oder Entspannungsecke.Das sorgfältig verarbeitete Design hält deine Räucherstäbchen sicher und lenkt den Duft gezielt. Jedes Stück entsteht in Handarbeit und trägt daher eine ganz persönliche Note. Ideal als Geschenk für alle, die Räucherwerk und bewusste Raumatmosphäre schätzen. Material: Modelliermasse, UV Resin Harz, Acrylfarben, Metall Charms Größe: 8 cm breit/9 cm Hoch/ 6,5 cm im Durchmesser Gewicht: ca 12 Gramm Im Paket enthalten der Beipackzettel und der Untersetzter für den Räucher Kegel
-  Updated: 2026-11-06T06:41:48Z
+  Updated: 2026-11-10T06:30:10Z
   Vendor: Stickertoo- Handmade 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1792736310032.jpg?v=1792751936
+  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1792736310032.jpg?v=1794291706
   Price: 22,90 € EUR
-- [Räucher Mütze Handmade  "der blaue Apfel"](https://stickertoo-handmade.com/products/raucher-mutze-handmade-der-blaue-apfel): Handgefertigte Räuchermütze aus hochwertiger Modelliermasse mit versiegelter UV-Resin-Oberfläche. Das einzigartige Design "der blaue Apfel" besticht durch die harmonische Farbkombination aus Blau, Blaugrau und glänzenden Metallic-Akzenten. Zierliche Metall-Charms verleihen dem Kunstwerk das gewisse Extra. Ein elegantes Accessoire für deine Räucherstäbchen, das gleichzeitig als dekorativer Blickfang auf Regal oder Kommode wirkt. Materialien: Modelliermasse, Metall Charms, UV Resin Versiegelt, Acrylfarben Größe: 10,5 cm Breit/10 cm Hoch/ 7 cm Durchmesser Gewicht: ca 12 Gramm
-  Updated: 2026-11-06T06:41:50Z
+- [Räuchermütze der blaue Apfel – handgemacht in Blau](https://stickertoo-handmade.com/products/raucher-mutze-handmade-der-blaue-apfel): Handgefertigte Räuchermütze aus hochwertiger Modelliermasse mit versiegelter UV-Resin-Oberfläche. Das einzigartige Design "der blaue Apfel" besticht durch die harmonische Farbkombination aus Blau, Blaugrau und glänzenden Metallic-Akzenten. Zierliche Metall-Charms verleihen dem Kunstwerk das gewisse Extra. Ein elegantes Accessoire für deine Räucherstäbchen, das gleichzeitig als dekorativer Blickfang auf Regal oder Kommode wirkt. Materialien: Modelliermasse, Metall Charms, UV Resin Versiegelt, Acrylfarben Größe: 10,5 cm Breit/10 cm Hoch/ 7 cm Durchmesser Gewicht: ca 12 Gramm
+  Updated: 2026-11-15T13:01:23Z
   Vendor: Stickertoo- Handmade 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1792835020155.jpg?v=1792838063
+  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1792835020160.jpg?v=1794291623
   Price: 22,90 € EUR
-- [Räucher Mütze Harlekin Karo - Handmade](https://stickertoo-handmade.com/products/raucher-mutze-harlekin-karo-handmade): Räucher-Mütze Harlekin Karo – Handgefertigtes UnikatCharmante Räuchermittelhalter aus Modelliermasse, liebevoll von Hand bemalt. Das klassische Harlekin-Karomuster in Rot und Orange verleiht dieser kleinen Dekoration einen verspielten, farbenfrohen Charakter. Die Außenseite ist mit UV Resin versiegelt und schützt die Acrylmalerei vor Abnutzung.Perfekt für Räucherstäbchen oder als dekorativer Akzent auf Regal oder Kommode.Material: Modelliermasse, Acrylfarben, UV-Resin-VersiegelungAbmessungen: 11 cm breit × 9 cm hoch, Durchmesser 7 cmGewicht: 12 Gramm
-  Updated: 2026-11-06T06:41:50Z
+- [Räuchermütze Harlekin Karo – für Räucherkegel](https://stickertoo-handmade.com/products/raucher-mutze-harlekin-karo-handmade): Räucher-Mütze Harlekin Karo – Handgefertigtes UnikatCharmante Räuchermittelhalter aus Modelliermasse, liebevoll von Hand bemalt. Das klassische Harlekin-Karomuster in Rot und Orange verleiht dieser kleinen Dekoration einen verspielten, farbenfrohen Charakter. Die Außenseite ist mit UV Resin versiegelt und schützt die Acrylmalerei vor Abnutzung.Perfekt für Räucher-Kegel oder als dekorativer Akzent auf Regal oder Kommode.Material: Modelliermasse, Acrylfarben, UV-Resin-VersiegelungAbmessungen: 11 cm breit × 9 cm hoch, Durchmesser 7 cmGewicht: 12 Gramm
+  Updated: 2026-11-15T13:01:20Z
   Vendor: Stickertoo- Handmade 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1000000066.jpg?v=1793230758
+  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1000000066.jpg?v=1794291493
   Price: 24,90 € EUR
-- [Geister- Räucher-Pilz mit Schnecke Frieda](https://stickertoo-handmade.com/products/geister-raucher-pilz-mit-schnecke-frieda): Handgearbeiteter Räucher-Pilz mit niedlicher Schnecke Frieda – ein charmantes Unikat für gemütliche Räume. Jedes Stück wird liebevoll aus Modelliermasse modelliert, detailliert mit Acrylfarben bemalt und mit UV-Resin veredelt. Perfekt als Blickfang auf dem Regal oder als durchdachtes Geschenk für alle, die Räucherstäbchen lieben. Ein handmade Highlight für Ihre Räucherritual. Material: Modelliermasse, UV Resin Harz, Acrylfarben Größe; 11 cm x 11 cm x 7 cm Durchmesser Gewicht: 12 Gramm
-  Updated: 2026-11-06T06:41:50Z
+- [Geister-Räucherpilz mit Schnecke Frieda – für Räucherkegel](https://stickertoo-handmade.com/products/geister-raucher-pilz-mit-schnecke-frieda): Der handgefertigte Geister-Räucherpilz mit Schnecke Frieda ist eine besondere Räucherdekoration für Räucherkegel. Das verspielte Pilzmotiv mit der kleinen Schnecke verbindet eine geheimnisvolle Note mit liebevoll gestalteten Details.Jedes Stück wird von Hand aus Modelliermasse geformt, mit Acrylfarben bemalt und mit UV-Resin veredelt. So entsteht ein Unikat, das auch ohne Räucherduft als dekorativer Blickfang auf deinem Regal zur Geltung kommt. Eine Geschenkidee für alle, die fantasievolle Dekoration und handgemachte Einzelstücke mögen.Material: Modelliermasse, UV-Resin-Harz und AcrylfarbenGröße: 11 cm × 11 cm, Durchmesser 7 cmGewicht: 12 Gramm
+  Updated: 2026-11-13T21:08:54Z
   Vendor: Stickertoo- Handmade 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1000000072.jpg?v=1793231250
+  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1000000072.jpg?v=1794291394
   Price: 24,90 € EUR
-- [Capochon Anhänger Handmade " Marbel"](https://stickertoo-handmade.com/products/capochon-anhanger-handmade-marbel): Die Cabochon-Fassung und die Anhängeröse bestehen aus 304-Edelstahl. Die Füllung ist aus Modelliermasse gefertigt, die mit brauner Acrylfarbe eingefärbt wurde. Der Anhänger ist ca. 2 cm groß. „Durch das Vermischen der Modelliermasse mit brauner Acrylfarbe entstehen individuelle Marmorierungen und sanfte Farbverläufe. Das Grunddesign bleibt gleich, doch die Musterung fällt bei jedem Anhänger anders aus. So erhältst du dein ganz persönliches Unikat. Du bestellst einen Anhänger, den ich aus den verfügbaren Stücken für dich auswähle. Eine Auswahl der genauen Musterung ist nicht möglich. Die Fotos zeigen Beispiele für die möglichen Farbverläufe.“ Material: Capochon Anhänger Edelstahl, Modelliermasse, Acrylfarbe, UV Resin
-  Updated: 2026-11-08T03:43:15Z
+- [Cabochon-Anhänger Marbel – marmoriert in 304-Edelstahl](https://stickertoo-handmade.com/products/capochon-anhanger-handmade-marbel): Die Cabochon-Fassung und die Anhängeröse bestehen aus 304-Edelstahl. Die Füllung ist aus Modelliermasse gefertigt, die mit brauner Acrylfarbe eingefärbt wurde. Der Anhänger ist ca. 2 cm groß. „Durch das Vermischen der Modelliermasse mit brauner Acrylfarbe entstehen individuelle Marmorierungen und sanfte Farbverläufe. Das Grunddesign bleibt gleich, doch die Musterung fällt bei jedem Anhänger anders aus. So erhältst du dein ganz persönliches Unikat. Du bestellst einen Anhänger, den ich aus den verfügbaren Stücken für dich auswähle. Eine Auswahl der genauen Musterung ist nicht möglich. Die Fotos zeigen Beispiele für die möglichen Farbverläufe.“ Material: Capochon Anhänger Edelstahl, Modelliermasse, Acrylfarbe, UV Resin
+  Updated: 2026-11-15T13:01:26Z
   Vendor: Stickertoo- Handmade 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1794062689631_4b7d6267-b14a-4952-815e-2219bf027d1e.jpg?v=1794064713
+  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1794062689631_4b7d6267-b14a-4952-815e-2219bf027d1e.jpg?v=1794291062
   Price: 10,50 € EUR
+- [PNG-Download: Fledermaus im Winter – KI-Illustration](https://stickertoo-handmade.com/products/digital-product): Ein kleiner Winterzauber für deine kreativen Ideen: Diese niedliche Fledermaus sitzt warm eingepackt in einer blauen Winterjacke mit orangefarbenem Schal auf einem verschneiten Birkenast. Sanft fallender Schnee, verschneite Tannen und gemütlich leuchtende Häuschen machen die winterliche Szene besonders stimmungsvoll. Das liebevoll gestaltete Motiv eignet sich für winterliche Grußkarten, persönliche Geschenkideen und kreative Papierprojekte. Du erhältst das Motiv als digitale PNG-Datei zum Herunterladen. Es wird kein physisches Produkt versendet. Die Farben können je nach Bildschirm und Druckeinstellung leicht abweichen. Das Motiv wurde mithilfe künstlicher Intelligenz erstellt.
+  Updated: 2026-11-15T13:01:26Z
+  Vendor: Stickertoo- Handmade 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/94220901-f660-4ce2-84bb-098264bc8a5b.webp?v=1794392147
+  Price: 5,00 € EUR
+- [PNG-Download: Weihnachtsbienen für Karten und Hintergrund](https://stickertoo-handmade.com/products/digitales-produkt): Weihnachtliche Bienen als digitaler Hingucker: Nutze die PNG-Datei als Hintergrund für deinen Desktop oder dein Tablet – oder drucke sie aus und gestalte eine süße Weihnachtskarte. Der Download Link wird dir per E-Mail zugesandt nach deinen Bestellvorgang.
+  Updated: 2026-11-15T13:01:21Z
+  Vendor: Stickertoo- Handmade 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/b79c6dfc-295f-448c-bac8-89467d3f3850.webp?v=1794392761
+  Price: 5,00 € EUR
+- [Mini-Pin „Mond“ – handgemachte Mond-Anstecknadel](https://stickertoo-handmade.com/products/mini-pin-mond): Der handgemachte Mini-Pin „Mond“ ist eine ca. 3 cm große Mond-Anstecknadel. Gearbeitet aus Modelliermasse und zum Schutz und für den Glanz mit UV Resin versiegelt. Materialien; Reißnadel aus Metall, Modelliermasse, UV Resin Styling-Ideen für diesen Pin: Jacken-Revers: Am Revers eines dunklen Blazers, einer Denim- oder einer Wolljacke kommt die helle, mürbe Textur besonders gut zur Geltung. Mützen & Caps: Befestigt an der Seite einer Beanie-Strickmütze oder Cap setzt er einen subtilen, künstlerischen Akzent. Taschen & Rucksäcke: Am Schultergurt eines Canvas-Rucksacks oder einer Stofftasche sorgt der Pin für ein individuelles Detail.
+  Updated: 2026-11-15T13:01:25Z
+  Vendor: Stickertoo- Handmade 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/IMG_20261111_094358.jpg?v=1794436560
+  Price: 8,90 € EUR
+- [Anstecknadel mit Handmade Perle "Sushi"](https://stickertoo-handmade.com/products/anstecknadel-mit-handmade-perle-sushi): Diese handgefertigte Anstecknadel verbindet verspielte Sushi-Details mit ausgewählten Perlen. Im Mittelpunkt steht eine etwa 2 cm große Handmade-Perle, die wie gerolltes Sushi gearbeitet ist. Zwei 4 mm große Edelsteinperlen in Black Opal und grüner Jade ergänzen das Design.Perlmuttartige Charms in Blattform, gestaltet wie chinesische Schriftzeichen, und eine kleine Libelle runden die besondere Kombination ab. Ein origineller Schmuckakzent für alle, die handgemachte Accessoires mit liebevollen Details mögen. Materialien: Modelliermasse, Anstecknadel aus Metall, Biegeringe aus Edelstahl, Charms aus Acryl und Metall, Edelsteinperlen, Glanzlack
+  Updated: 2026-11-15T23:45:20Z
+  Vendor: Stickertoo- Handmade 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1794730989042.jpg?v=1794731621
+  Price: 7,90 € EUR
+- [Ringhalter Hexenhut das Glück – handgemacht in Grün](https://stickertoo-handmade.com/products/fingerring-halter-handmade-hexenhut-das-gluck): Dieser handgefertigte Fingerringhalter in Form eines Hexenhuts ist ein zauberhafter Blickfang für deinen Schmuckplatz. Aus einem Stück Modelliermasse geformt und im grünen Marmordesign gestaltet, trägt er eine kleine Kleeblatt-Acrylperle als liebevolles Glücksdetail.Die Oberfläche ist mit UV-Resin versiegelt. Der Ringhalter ist etwa 5 cm breit und 5,5 cm hoch und wiegt ca. 12 g. Da jedes Stück von Hand gefertigt wird, ist jedes ein kleines Unikat. Materialien: Modelliermasse, Acryl Farbe Grün, UV Resin, Acryl Perle Kleeblatt
+  Updated: 2026-11-15T23:45:20Z
+  Vendor: Stickertoo Handmade
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1032/8499/8469/files/1794736177765.jpg?v=1794737637
+  Price: 9,90 € EUR
 
 ## Collections
 
-- [3D Art Schmuckanhänger](https://stickertoo-handmade.com/collections/3d-art-schmuckanhanger): Aus Modelliermasse gearbeitet und mit Acrylfarbe bunt gestaltet. 3D Kettenanhänger aus verschiedenen Themenbereichen. Obst, Garten, Länder, Gegenstände, Tiere. Für den Glanz sorgen natürlich kleine Strasssteine, ich empfehle die Anhänger eher an eine lange Kette zu tragen.
-  Updated: 2026-11-07T15:30:37Z
+- [Skulptur Schmuckanhänger](https://stickertoo-handmade.com/collections/3d-art-schmuckanhanger): Aus Modelliermasse gearbeitet und mit Acrylfarbe bunt gestaltet. Skulptur Kettenanhänger aus verschiedenen Themenbereichen. Obst, Garten, Länder, Gegenstände, Tiere. Für den Glanz sorgen natürlich kleine Strasssteine, ich empfehle die Anhänger eher an eine lange Kette zu tragen.
+  Updated: 2026-11-15T09:15:24Z
   Total Products: 7
 - [Mini Pins](https://stickertoo-handmade.com/collections/mini-pins): Mini Pins ( Anstecker) sind maximal 2,5 cm Groß. Verschieden Formen und Farbdesigns erwartet Euch hier.
-  Updated: 2026-11-03T08:00:50Z
-  Total Products: 4
+  Updated: 2026-11-15T08:38:38Z
+  Total Products: 6
 - [Digitale Download Postkarten/Grußkarten](https://stickertoo-handmade.com/collections/digitale-download-postkarten-grusskarten): Digitale Postkarten & Grußkarten zum Selbstausdrucken. Sofort-Download, alle Formate, für jeden Anlass. Handgemachte Designs von Stickertoo Handmade.
-  Updated: 2026-11-07T15:26:54Z
-  Total Products: 2
+  Updated: 2026-11-13T14:27:33Z
+  Total Products: 4
 - [Räucher Dekoration](https://stickertoo-handmade.com/collections/raucher-dekoration): Die kleinen Räuchermützen mit gruseligen Gesichtern. Und wunderschönen Farbverläufen zum Räuchern wie auch zum LED Teelichter zu verwenden. Ein richtig tolles Geschenk für sich selber oder für die Besten der Familie.
-  Updated: 2026-11-03T08:00:50Z
+  Updated: 2026-11-13T14:27:33Z
   Total Products: 5
 - [Cabochon Anhänger](https://stickertoo-handmade.com/collections/cabochon-anhanger): Entdecke Cabochon-Anhänger mit Fassung und Öse aus 304-Edelstahl. Geplant: Handmalerei und Marmor-Design. Jetzt bei Stickertoo Handmade ansehen.
-  Updated: 2026-11-07T15:27:51Z
+  Updated: 2026-11-13T14:27:33Z
+  Total Products: 1
+- [Fingerring Halter Handmade](https://stickertoo-handmade.com/collections/fingerring-halter-handmade): Aus Modelliermasse gefertigte kleine Dekoration Ideen mit Mehrwert Effekt für deine Ringe. 100% Handarbeit: jedes Stück wird Individuell geformt und bemalt. Kein Stück gleicht dem anderen. Eine super süße Geschenk Idee für Liebhaber von Cottagecore, Mystik und Natur - Ästhetikt.
+  Updated: 2026-11-15T10:15:04Z
   Total Products: 1
 
 ## Blogs
@@ -294,11 +332,14 @@
     Updated: 2026-11-06T06:43:57Z
     Author: Stickertoo Handmade
   - [Blog Mode und Lifestyle: Der 3D Anhänger Mystik Fledermaus als handgefertigter Gothic Schmuck und mehr in der Welt des Schmucks Mode Lifestyle Handmade](https://stickertoo-handmade.com/blogs/neuigkeiten/blog-mode-und-lifestyle-der-3d-anhanger-mystik-fledermaus-als-handgefertigter-gothic-schmuck-und-mehr-in-der-welt-des-schmucks-mode-lifestyle-handmade): Blog Mode und Lifestyle: Der 3D Anhänger Mystik Fledermaus als handgefertigter Gothic Schmuck und mehr in der Welt des Schmucks Mode Lifestyle Handmade
-    Updated: 2026-11-08T11:40:23Z
+    Updated: 2026-11-13T09:14:53Z
     Author: Stickertoo Handmade
   - [Treueprogramm: Punkte sammeln | Stickertoo Handmade](https://stickertoo-handmade.com/blogs/neuigkeiten/treue-wird-jetzt-doppelt-belohnt-unser-neues-community-treueprogramm-ist-da): Treueprogramm: Punkte sammeln | Stickertoo Handmade
     Updated: 2026-11-08T13:33:08Z
     Author: Juliane Dietrich
+  - [Blog Mode Lifestyle und Schmuck: Entdecke die Handmade Magie der RäucherMütze Das Glück](https://stickertoo-handmade.com/blogs/neuigkeiten/blog-mode-lifestyle-und-schmuck-entdecke-die-handmade-magie-der-rauchermutze-das-gluck): Blog Mode Lifestyle und Schmuck: Entdecke die Handmade Magie der RäucherMütze Das Glück
+    Updated: 2026-11-15T10:00:24Z
+    Author: Stickertoo Handmade
 
 ## Store Pages
 
@@ -310,8 +351,8 @@
   Updated: 2026-06-09T14:44:14Z
 - [Order Tracking](https://stickertoo-handmade.com/pages/order-tracking): This is the Order Tracking page
   Updated: 2026-06-20T23:12:30Z
-- [Über mich – Die Handmacherin hinter Stickertoo](https://stickertoo-handmade.com/pages/uber-mich): Ich verate dir gerne wer ich bin
-  Updated: 2026-08-28T16:19:24Z
+- [Über mich – Die Handmacherin hinter Stickertoo](https://stickertoo-handmade.com/pages/uber-mich): Hallo und willkommen in meiner kleinen Welt zwischen Licht und Schatten. Mein Name ist Juliane, ich bin 46 Jahre alt, komme aus dem wunderschönen L...
+  Updated: 2026-11-15T10:34:59Z
 - [FAQ – Häufig gestellte Fragen | Stickertoo Handmade](https://stickertoo-handmade.com/pages/faq): Häufig gestellte Fragen 1. Wie lauten die Rückgabebedingungen? Du kannst selbstverständlich von deinem Widerrufsrecht Gebrauch machen. Weitere Info...
   Updated: 2026-11-07T16:21:00Z
 - [Reset ](https://stickertoo-handmade.com/pages/reset-): .main-page-title,.page-title,.page__title,.template-page h1,.page-header h1,h1.title{display:none!important} .opus-reset-wrap{display:flex;align-it...
@@ -326,13 +367,13 @@
 ## Policies
 
 - [Privacy Policy](https://stickertoo-handmade.com/policies/privacy-policy)
-  Updated: 2026-11-08T12:37:40Z
+  Updated: 2026-11-15T12:23:29Z
 - [Shipping Policy](https://stickertoo-handmade.com/policies/shipping-policy)
   Updated: 2026-10-05T15:06:19Z
 - [Refund Policy](https://stickertoo-handmade.com/policies/refund-policy)
-  Updated: 2026-11-05T18:02:20Z
+  Updated: 2026-11-13T08:10:59Z
 - [Terms of Service](https://stickertoo-handmade.com/policies/terms-of-service)
-  Updated: 2026-11-05T17:58:00Z
+  Updated: 2026-11-13T08:09:42Z
 - [Contact Information](https://stickertoo-handmade.com/policies/contact-information)
   Updated: 2026-03-05T16:11:09Z
 
