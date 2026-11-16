@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-10-09T12:18:15Z
 - Contact Email: mahfuzar@smartdatasoft.net
-- Updated At: 2026-11-08T01:13:43.829Z
+- Updated At: 2026-11-16T00:54:50.307Z
 
 ## Products
 
 - [The Multi-location Snowboard](https://latest-test-2.myshopify.com/products/the-multi-location-snowboard): Stocked at both of our locations, so it ships from whichever one is closest to you.
-  Updated: 2026-11-07T11:51:16Z
+  Updated: 2026-11-09T04:20:46Z
   Vendor: Northline Supply
   Product Type: Snowboard
   Availability: Available
@@ -365,7 +365,7 @@
   Availability: Available
   Price: 0,00 $ USD
 - [Horizon Gallery Composition](https://latest-test-2.myshopify.com/products/creative-2026-horizon-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-11-04T19:22:47Z
+  Updated: 2026-11-15T06:30:18Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
@@ -379,11 +379,10 @@
     Availability: Available
     Price: 0,00 $ USD
 - [Four Wheeler car](https://latest-test-2.myshopify.com/products/creative-2026-amber-studio-visual): A forest killer four wheeler car.
-  Updated: 2026-11-03T18:01:16Z
+  Updated: 2026-11-15T18:30:12Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0948/8629/7873/files/horizon-studio-visual-latest-test-latest-testjpg.jpg?v=1793590389
   Price: 0,00 $ USD
 - [Cobalt Studio Visual](https://latest-test-2.myshopify.com/products/creative-2026-cobalt-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
   Updated: 2026-10-28T23:10:47Z
@@ -398,7 +397,7 @@
   Availability: Available
   Price: 0,00 $ USD
 - [Willow Studio Visual](https://latest-test-2.myshopify.com/products/creative-2026-willow-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-11-04T19:24:07Z
+  Updated: 2026-11-15T06:30:17Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
@@ -412,53 +411,45 @@
     Availability: Available
     Price: 0,00 $ USD
 - [Solstice Studio Visual](https://latest-test-2.myshopify.com/products/creative-2026-solstice-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-11-03T05:39:09Z
+  Updated: 2026-11-15T18:29:48Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0948/8629/7873/files/4-piece-wooden-block-united-states-5.jpg?v=1793618039
   Price: 0,00 $ USD
 - [Drift Studio Visual](https://latest-test-2.myshopify.com/products/creative-2026-drift-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-11-02T23:17:18Z
+  Updated: 2026-11-15T18:30:14Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0948/8629/7873/files/aurora-studio-visual-latest-test-another.jpg?v=1793611023
   Price: 0,00 $ USD
 - [Mosaic Studio Visual](https://latest-test-2.myshopify.com/products/creative-2026-mosaic-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-11-02T04:50:23Z
+  Updated: 2026-11-15T18:30:08Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0948/8629/7873/files/mosaic-studio-visual-latest-test-latest-testjpg.jpg?v=1793590392
   Price: 0,00 $ USD
 - [Aurora Studio Visual](https://latest-test-2.myshopify.com/products/creative-2026-aurora-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-11-02T09:17:04Z
+  Updated: 2026-11-15T18:30:09Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0948/8629/7873/files/aurora-studio-visual-latest-test-another.jpg?v=1793611023
   Price: 0,00 $ USD
 - [Cascade Studio Visual](https://latest-test-2.myshopify.com/products/creative-2026-cascade-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-11-02T09:16:54Z
+  Updated: 2026-11-15T18:30:10Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0948/8629/7873/files/cascade-studio-visual-united-states-edited.jpg?v=1793611013
   Price: 0,00 $ USD
 - [Horizon Studio Visual](https://latest-test-2.myshopify.com/products/creative-2026-horizon-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-11-04T16:18:37Z
+  Updated: 2026-11-15T18:30:14Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0948/8629/7873/files/horizon-studio-visual-latest-test-latest-testjpg.jpg?v=1793590389
   - [Black](https://latest-test-2.myshopify.com/products/creative-2026-horizon-studio-visual?variant=67951197061393)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0948/8629/7873/files/horizon-studio-visual-latest-test-latest-testjpg.jpg?v=1793590389
     Price: 0,00 $ USD
   - [Green](https://latest-test-2.myshopify.com/products/creative-2026-horizon-studio-visual?variant=67951197094161)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0948/8629/7873/files/6c56b5f1-0227-4530-b61c-6945c3648266.jpg?v=1793696348
     Price: 0,00 $ USD
   - [Red](https://latest-test-2.myshopify.com/products/creative-2026-horizon-studio-visual?variant=67951197126929)
     Availability: Available
@@ -467,18 +458,16 @@
     Availability: Available
     Price: 0,00 $ USD
 - [Raptile](https://latest-test-2.myshopify.com/products/rep-1): A wild animal
-  Updated: 2026-11-04T16:18:37Z
+  Updated: 2026-11-15T18:30:14Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0948/8629/7873/files/dce189eac47ae14c7e35d2aa3b29f58c.jpg?v=1793696326
   Price: 0,00 $ USD
 - [4 Piece wooden block](https://latest-test-2.myshopify.com/products/4-piece-wooden-block): Three tins on a repeating plan: standard, special and sample. Skip or cancel any cycle. download image 502 from here 30 Aug 9:54
-  Updated: 2026-11-03T16:27:50Z
+  Updated: 2026-11-15T18:29:44Z
   Vendor: Frostline Labs
   Product Type: Snowboard Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0948/8629/7873/files/4-piece-wooden-block-united-states-2.jpg?v=1793618015
   - [ Plans Ski Wax](https://latest-test-2.myshopify.com/products/4-piece-wooden-block?variant=67803712618769)
     Availability: Available
     Price: 22,95 $ USD
@@ -488,6 +477,12 @@
   - [Sample  Plans Ski Wax](https://latest-test-2.myshopify.com/products/4-piece-wooden-block?variant=67803712684305)
     Availability: Not Available
     Price: 8,95 $ USD
+- [Restore Test Product](https://latest-test-2.myshopify.com/products/restore-test-product): Day 1 description
+  Updated: 2026-11-12T00:04:59Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
 
 ## Collections
 
@@ -524,6 +519,12 @@
 - [Best collection ever for optimization](https://latest-test-2.myshopify.com/collections/best-collection-ever-for-optimization): random text with optimization
   Updated: 2026-11-07T07:03:49Z
   Total Products: 3
+- [QA Restore Custom Collection](https://latest-test-2.myshopify.com/collections/qa-restore-custom-collection): First version
+  Updated: 2026-11-12T08:30:45Z
+  Total Products: 0
+- [QA Restore Smart Collection](https://latest-test-2.myshopify.com/collections/qa-restore-smart-collection)
+  Updated: 2026-11-12T08:27:20Z
+  Total Products: 4
 
 ## Blogs
 
