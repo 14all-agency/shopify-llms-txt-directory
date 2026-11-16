@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-20T23:19:34Z
 - Contact Email: noreply@texasnutra.com
-- Updated At: 2026-11-09T00:54:49.595Z
+- Updated At: 2026-11-16T00:54:55.738Z
 
 # Texas Nutra
 
@@ -182,7 +182,7 @@ Customers can shop individual products, build personalized wellness bundles, or 
   Image: https://cdn.shopify.com/s/files/1/0937/5275/4477/files/TEXAS_NUTRA_VITAMIN_K2_D3_56657-831.png?v=1793583384
   Price: $24.95 USD
 - [Omega-3 Fish Oil 1200 mg EPA & DHA | Texas Nutra](https://texasnutra.com/products/texas-nutra-omega-3-fish-oil): Texas Nutra Omega-3 Fish Oil delivers 1,200 mg fish oil per softgel with EPA and DHA to support heart, brain and joint wellness. Explore the formula and benefits.
-  Updated: 2026-11-03T10:22:47Z
+  Updated: 2026-11-10T20:34:24Z
   Vendor: Texas Nutra
   Product Type: 
   Availability: Available
