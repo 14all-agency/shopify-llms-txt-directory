@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-06T14:57:49Z
 - Contact Email: nexxtmartllc@gmail.com
-- Updated At: 2026-11-08T00:47:51.461Z
+- Updated At: 2026-11-16T00:47:04.153Z
 
 ## Products
 
@@ -76,7 +76,7 @@
     Availability: Available
     Price: $69.99 USD
 - [Nestle Cerelac Maize 1kg, Infant Cereal with Milk | Nexxtmart](https://nexxtmart.com/products/nestle-cerelac-maize-1kg): Buy Nestle Cerelac maize infant cereal 1kg. Follow the age guidance on the pack. Shipped across the United States.
-  Updated: 2026-11-07T05:01:45Z
+  Updated: 2026-11-14T02:44:25Z
   Vendor: Nestlé
   Product Type: 
   Availability: Available
@@ -116,7 +116,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Aboniki_Balm_Pain_Relief_12_packs.png?v=1758922664
     Price: $33.50 USD
 - [Dried Whole Crayfish 1.4lb & 2.8lb, Cleaned | Nexxtmart](https://nexxtmart.com/products/crayfish): Buy whole dried Nigerian crayfish, cleaned and ready to grind. For egusi, ogbono, okra, abacha and moi moi. Shipped across the United States.
-  Updated: 2026-11-08T00:03:45Z
+  Updated: 2026-11-08T15:22:30Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -160,7 +160,7 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Nestle_Milo_Refill.png?v=1758922690
   Price: $15.94 USD
 - [Peanut Burger, Nigerian Groundnut Snack 6 & 12 Pieces | Nexxtmart](https://nexxtmart.com/products/peanut-burger): Buy peanut burger, the caramelised Nigerian groundnut snack. Packs of 6 or 12 pieces. Shipped across the United States.
-  Updated: 2026-11-07T05:01:00Z
+  Updated: 2026-11-15T17:19:57Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -170,7 +170,7 @@
     Price: $8.73 USD
   - [1 Pack (12 Pieces)](https://nexxtmart.com/products/peanut-burger?variant=45833578840116)
     Availability: Available
-    Price: $14.99 USD
+    Price: $15.99 USD
 - [Prekese 6 Pods, Aidan Fruit Dried Whole | Nexxtmart](https://nexxtmart.com/products/aidan-fruit-prekese): Buy 6 whole dried prekese pods, known as aidan fruit, for pepper soup, light soup and nsala. Includes how to crack and use it. Shipped across the US.
   Updated: 2026-11-07T05:02:30Z
   Vendor: Nexxtmart LLC
@@ -243,7 +243,7 @@
     Availability: Available
     Price: $51.99 USD
 - [Alomo Bitters 750ml, Ghanaian Herbal Spirit | Nexxtmart](https://nexxtmart.com/products/alomo-bitters-herbal-extract-drink): Buy Alomo Bitters 750ml, the Ghanaian herbal spirit made from African roots and herbs. Shipped across the US. Ages 21 and over.
-  Updated: 2026-11-07T05:01:05Z
+  Updated: 2026-11-14T21:14:15Z
   Vendor: Alomo
   Product Type: 
   Availability: Available
@@ -471,7 +471,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Blue Band Margarine 250g & 450g, Original & Low Fat | Nexxtmart](https://nexxtmart.com/products/blue-band-margarine): Buy Blue Band margarine, the Nigerian breakfast spread for bread, rice and baking. Original and Low Fat, 250g and 450g. Shipped across the US.
-  Updated: 2026-11-08T00:03:45Z
+  Updated: 2026-11-10T03:03:06Z
   Vendor: Blue Band
   Product Type: 
   Availability: Available
@@ -773,17 +773,20 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Sweet_and_Spicy_Ripe_Plantain_Chips.png?v=1758922877
   Price: $10.99 USD
 - [Whole Stockfish 2-3lb, Okporoko Norwegian Dried Cod | Nexxtmart](https://nexxtmart.com/products/stockfish-cod): Buy whole Norwegian stockfish, okporoko, pack of 4 pieces 2-3lb. Includes how to soak and prepare it. Shipped across the United States.
-  Updated: 2026-11-07T05:01:07Z
+  Updated: 2026-11-08T15:55:55Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/whole_stock_fish.png?v=1758922879
-  - [Pack of 4 pcs (partially cut) 2-3lb](https://nexxtmart.com/products/stockfish-cod?variant=45873049042996)
+  - [Pack of 4 pcs (partially cut) 2-3lbs](https://nexxtmart.com/products/stockfish-cod?variant=45873049042996)
     Availability: Available
     Price: $250.00 USD
-  - [Pack of 4 pcs (whole) 2-3lb](https://nexxtmart.com/products/stockfish-cod?variant=45873049075764)
+  - [Pack of 4 pcs (whole) 2-3lbs](https://nexxtmart.com/products/stockfish-cod?variant=45873049075764)
     Availability: Available
     Price: $250.00 USD
+  - [Pack of 1 (1 lbs)](https://nexxtmart.com/products/stockfish-cod?variant=67972529324084)
+    Availability: Available
+    Price: $53.00 USD
 - [Curry Masala 4.25oz-14.45oz, Aromatic Spice Blend | Nexxtmart](https://nexxtmart.com/products/curry-masala): Buy curry masala, a warmer fuller blend than curry powder. Includes when to use which. 4.25oz to 14.45oz. Shipped across the US.
   Updated: 2026-11-07T05:02:20Z
   Vendor: Nexxtmart LLC
@@ -1386,7 +1389,7 @@
     Availability: Available
     Price: $65.99 USD
 - [Epiderm Cream 15g, Imported Topical Cream | Nexxtmart](https://nexxtmart.com/products/epiderm-creme-for-fungal-infections): Epiderm cream 15g, imported. Contains betamethasone and gentamicin, both -only in the US. Read the safety information before buying.
-  Updated: 2026-11-07T05:01:00Z
+  Updated: 2026-11-12T17:33:35Z
   Vendor: Epiderm
   Product Type: 
   Availability: Available
@@ -1494,34 +1497,34 @@
 ## Collections
 
 - [Food Stuffs](https://nexxtmart.com/collections/food-stuffs): Stock up on high-quality foodstuffs at Nexxtmart! From pantry staples like rice, pasta, and flour to  - Nexxtmart
-  Updated: 2026-10-29T11:11:54Z
-  Total Products: 64
+  Updated: 2026-11-15T17:20:28Z
+  Total Products: 63
 - [New Arrivals](https://nexxtmart.com/collections/new-arrivals): Stay ahead with Nexxtmart’s New Arrivals! Discover the latest and freshest products, from pantry  - Nexxtmart
-  Updated: 2026-10-29T11:11:54Z
+  Updated: 2026-11-13T12:10:56Z
   Total Products: 27
 - [Featured Items](https://nexxtmart.com/collections/featured-items): Discover Nexxtmart’s Featured Items – a handpicked selection of top-quality products chosen just for  - Nexxtmart
-  Updated: 2026-10-29T11:11:54Z
+  Updated: 2026-11-15T12:13:49Z
   Total Products: 145
 - [Best Sellers](https://nexxtmart.com/collections/best-sellers): Shop Nexxtmart’s Best Sellers – the most popular and highly rated products loved by our customers!  - Nexxtmart
-  Updated: 2026-10-29T11:11:54Z
+  Updated: 2026-11-08T15:54:32Z
   Total Products: 57
 - [cooking oil](https://nexxtmart.com/collections/cooking-oil): Discover high-quality cooking oils at Nexxtmart. From healthy vegetable oils to rich palm and  - Nexxtmart
   Updated: 2026-09-15T22:05:03Z
   Total Products: 1
 - [Baby](https://nexxtmart.com/collections/baby): Give your little one the best with Nexxtmart’s Baby collection. From nutritious baby food and gentle  - Nexxtmart
-  Updated: 2026-10-26T15:10:04Z
+  Updated: 2026-11-13T12:10:56Z
   Total Products: 4
 - [Spices](https://nexxtmart.com/collections/spices): Discover Nexxtmart Spices for Every Kitchen Spices are the heart of every dish, adding depth, aroma,  - Nexxtmart
   Updated: 2026-10-29T11:11:54Z
   Total Products: 46
 - [Drinks](https://nexxtmart.com/collections/drinks): Refreshing Drinks for Every Occasion Drinks bring people together, whether it’s a chilled soda on a  - Nexxtmart
-  Updated: 2026-10-26T15:09:42Z
+  Updated: 2026-11-15T12:13:49Z
   Total Products: 18
 - [Condiments](https://nexxtmart.com/collections/condiments): Elevate your cooking with Nexxtmart’s premium selection of condiments. From rich sauces and  - Nexxtmart
-  Updated: 2026-10-29T11:11:54Z
+  Updated: 2026-11-08T15:54:32Z
   Total Products: 44
 - [Health and Beauty](https://nexxtmart.com/collections/health-and-beauty): Nourish Your Body Inside and Out Your health and beauty routine deserves the best. At Nexxtmart, our  - Nexxtmart
-  Updated: 2026-10-26T15:03:36Z
+  Updated: 2026-11-13T12:10:56Z
   Total Products: 4
 - [Fruits & Vegetables](https://nexxtmart.com/collections/fruits-vegetables): Fresh Fruits &amp; Vegetables for a Healthy Lifestyle At Nexxtmart, we bring you the finest  - Nexxtmart
   Updated: 2026-10-26T14:53:19Z
@@ -1530,16 +1533,16 @@
   Updated: 2026-09-26T11:10:51Z
   Total Products: 10
 - [Best  Products](https://nexxtmart.com/collections/best--products): Discover the best  products that everyone is talking about. These products trend due to quality, popularity, and consumer demand. Explore top picks and trends now!
-  Updated: 2026-10-26T15:07:29Z
+  Updated: 2026-11-08T12:10:45Z
   Total Products: 18
 - [Digital Goods VAT Tax](https://nexxtmart.com/collections/digital-goods-vat-tax): - Nexxtmart
   Updated: 2025-09-26T22:02:18Z
   Total Products: 0
 - [Recommended Products (Wiz Email)](https://nexxtmart.com/collections/recommended-products-wiz-email): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-10-29T11:11:54Z
+  Updated: 2026-11-15T12:13:49Z
   Total Products: 108
 - [Recommended Products (Wiz Email)](https://nexxtmart.com/collections/recommended-products-wiz-email-1): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-10-29T11:11:54Z
+  Updated: 2026-11-15T12:13:49Z
   Total Products: 108
 
 ## Blogs
