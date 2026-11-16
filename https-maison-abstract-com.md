@@ -10,7 +10,7 @@ The platform allows customers to browse different artist collections, explore fr
 - Timezone: Europe/London
 - Created At: 2025-10-25T13:47:11Z
 - Contact Email: info@maison-abstract.com
-- Updated At: 2026-11-08T00:39:40.598Z
+- Updated At: 2026-11-16T00:39:59.750Z
 
 ## Products
 
