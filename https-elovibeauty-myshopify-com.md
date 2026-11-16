@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-10-20T14:13:27Z
 - Contact Email: gregorbiadmed@gmail.com
-- Updated At: 2026-11-08T00:58:35.790Z
+- Updated At: 2026-11-16T00:42:59.087Z
 
 ## Products
 
-- [Eyelash Growth Serum with Biotin | Elovi Lash & Brow Serum](https://elovibeauty.myshopify.com/products/eyelash-and-eyebrow-serum-with-biotin-20ml): Eyelash growth serum with biotin, panthenol and rosemary leaf oil. Conditions lashes and brows for a fuller, glossier look with one precision brush.
-  Updated: 2026-11-05T17:49:08Z
+- [Lash & Brow Serum with Biotin, 20 ml](https://elovibeauty.myshopify.com/products/eyelash-and-eyebrow-serum-with-biotin-20ml): Daily lash and brow serum with biotin and panthenol. A 20 ml tube with a precision brush for your lash and brow care routine.
+  Updated: 2026-11-14T23:18:51Z
   Vendor: Elovi
   Product Type: Lash & Brow Serum
   Availability: Available
@@ -19,11 +19,11 @@
   - [1 tube](https://elovibeauty.myshopify.com/products/eyelash-and-eyebrow-serum-with-biotin-20ml?variant=44732431302734)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0769/8841/6078/files/14d0c4e7-47f4-46b7-ba5d-30ae356eee97.jpg?v=1793342722
-    Price: €25.00 EUR
+    Price: €30.00 EUR
   - [2 tubes](https://elovibeauty.myshopify.com/products/eyelash-and-eyebrow-serum-with-biotin-20ml?variant=44732431335502)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0769/8841/6078/files/a49c021b-04b7-4d8d-a6a7-2c6bd96df7b4.jpg?v=1793342722
-    Price: €45.00 EUR
+    Price: €50.00 EUR
   - [3 tubes](https://elovibeauty.myshopify.com/products/eyelash-and-eyebrow-serum-with-biotin-20ml?variant=44732431368270)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0769/8841/6078/files/304a6c90-32bf-4db6-bfdf-607075611f64.jpg?v=1793342722
@@ -36,11 +36,11 @@
 ## Collections
 
 - [Home page](https://elovibeauty.myshopify.com/collections/frontpage)
-  Updated: 2026-11-04T12:18:36Z
-  Total Products: 3
+  Updated: 2026-11-15T12:16:32Z
+  Total Products: 1
 - [Moissanite jewellery](https://elovibeauty.myshopify.com/collections/moissanite-jewellery): Lab-created moissanite pendant and studs in 925 sterling silver, six-claw settings. More fire than diamond. Free tracked EU delivery over €59.
-  Updated: 2026-10-31T16:30:33Z
-  Total Products: 2
+  Updated: 2026-11-11T17:40:16Z
+  Total Products: 0
 
 ## Store Pages
 
