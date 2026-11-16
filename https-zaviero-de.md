@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-11-21T11:18:39Z
 - Contact Email: support@zaviero.de
-- Updated At: 2026-11-08T00:31:06.548Z
+- Updated At: 2026-11-16T00:32:26.971Z
 
 ## Products
 
@@ -376,7 +376,7 @@
     Image: https://cdn.shopify.com/s/files/1/0793/1048/7887/files/2E2A1996-BearbeitetKopie_1_1.jpg?v=1775161802
     Price: 29,90 € EUR
 - [Cross Kette Edelstahl 50cm – Symbol des Glaubens & Kostenloser Versand](https://zaviero.de/products/cross-necklace): Cross Kette ➤ Edelstahl, robust & wasserfest ➤ 50cm Länge ➤ Klassisches Kreuz – Symbol des Glaubens & Stärke ➤ 1-3 Tage Lieferung ➤ Kostenloser Versand
-  Updated: 2026-11-04T09:32:42Z
+  Updated: 2026-11-14T15:13:25Z
   Vendor: ZAVIERO
   Product Type: 
   Availability: Available
@@ -592,7 +592,7 @@
     Image: https://cdn.shopify.com/s/files/1/0793/1048/7887/files/NV-25-9-0565_2000x2000_54700900-baf8-4190-a34a-f537e276dd9a.jpg?v=1775899985
     Price: 52,90 € EUR
 - [Rope Kette Herren 2mm Edelstahl 50cm – Robust & Kostenloser Versand](https://zaviero.de/products/rope-kette-2mm): Rope Kette Herren 2mm ➤ Hochwertiger Edelstahl ➤ Wasserfest & Langlebig ➤ 50cm Länge ➤ Rope-Design ➤ Solo oder mit Anhänger ➤ 1-3 Tage Versand ➤ Rope Chain
-  Updated: 2026-08-29T02:28:38Z
+  Updated: 2026-11-14T15:13:25Z
   Vendor: ZAVIERO
   Product Type: 
   Availability: Available
@@ -881,7 +881,7 @@
     Image: https://cdn.shopify.com/s/files/1/0793/1048/7887/files/ALEXANDER-Vorderseite-Rueckseite-unter-100KB.jpg?v=1789630168
     Price: 49,90 € EUR
 - [Geschenktüte](https://zaviero.de/products/geschentasche)
-  Updated: 2026-10-11T09:14:36Z
+  Updated: 2026-11-14T15:13:26Z
   Vendor: ZAVIERO
   Product Type: 
   Availability: Available
@@ -897,37 +897,37 @@
   Updated: 2026-10-24T11:11:31Z
   Total Products: 12
 - [Ketten](https://zaviero.de/collections/ketten-herren): Herrenketten ✓ Wasserfest ✓ Große Auswahl ✓ Hohe Qualität ✓ Schneller Versand ✓ Exklusive Ketten ✓ Online Kaufen ✓ Panzerketten
-  Updated: 2026-11-04T12:14:02Z
+  Updated: 2026-11-15T12:12:36Z
   Total Products: 19
 - [Clover Schmuck](https://zaviero.de/collections/clover-schmuck-herren): Clover Schmuck für Herren – stilvolle Armbänder & Ketten mit Kleeblatt. Wasserfest, langlebig & hochwertig. Perfekt für jeden Look. Jetzt entdecken!
   Updated: 2026-10-24T11:11:31Z
   Total Products: 10
 - [Bestseller](https://zaviero.de/collections/herren-bestseller)
-  Updated: 2026-11-04T12:14:02Z
+  Updated: 2026-11-15T12:12:36Z
   Total Products: 39
 - [Neu](https://zaviero.de/collections/herren-neu)
-  Updated: 2026-11-04T12:14:02Z
+  Updated: 2026-11-15T12:12:36Z
   Total Products: 34
 - [Anhänger](https://zaviero.de/collections/anhanger)
-  Updated: 2026-11-04T12:14:02Z
+  Updated: 2026-11-15T12:12:36Z
   Total Products: 13
 - [Ringe](https://zaviero.de/collections/herren-ringe)
   Updated: 2026-05-21T11:07:32Z
   Total Products: 4
 - [Meta Bestseller/ Kreuzschmuck](https://zaviero.de/collections/meta-bestseller)
-  Updated: 2026-11-04T12:14:02Z
+  Updated: 2026-11-15T12:12:36Z
   Total Products: 6
 - [Kreuzschmuck](https://zaviero.de/collections/kreuzketten): Entdecke stilvolle Kreuzketten für Damen und Herren in Gold & Silber. Hochwertige Designs, perfekt als Geschenk. Jetzt deine Kreuzkette finden!
-  Updated: 2026-11-04T12:14:02Z
+  Updated: 2026-11-15T12:12:36Z
   Total Products: 8
 - [Gravierbar](https://zaviero.de/collections/gravierbar)
-  Updated: 2026-11-04T12:14:02Z
+  Updated: 2026-11-15T12:12:36Z
   Total Products: 10
 - [Alles/ Q4](https://zaviero.de/collections/alles-q4)
-  Updated: 2026-11-04T12:14:02Z
+  Updated: 2026-11-15T12:12:36Z
   Total Products: 55
 - [Exklusive Gravuren](https://zaviero.de/collections/herren-gravur)
-  Updated: 2026-11-04T12:14:02Z
+  Updated: 2026-11-15T12:12:36Z
   Total Products: 11
 
 ## Blogs
