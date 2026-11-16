@@ -6,26 +6,26 @@
 - Timezone: America/Chicago
 - Created At: 2025-06-06T19:36:34Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-08T00:26:57.045Z
+- Updated At: 2026-11-16T00:27:55.966Z
 
 ## Products
 
 - [Human The Double Album Vinyl | Cody Johnson Official Online Store](https://codyjohnson.merchmadeeasy.com/products/human-the-double-album): The eighth studio album by Cody Johnson, Human The Double Album, released in 2021. Double LP pressing TRACKLIST PART 1 1. “Human” 2. “Honky Tonk Hardwood Floors” 3. “Sad Songs and Waltzes” 4. “’Til You Can’t” 5. “God Bless the Boy (Cori’s Song)” 6. “Known for Loving You” 7. “Driveway” 8. “Son of a Ramblin’ Man” 9. “I Always Wanted To” PART 2 1. “I Don’t Know a Thing About Love” 2. “Longer Than She Did” 3. “Made a Home” 4. “Let’s Build a Fire” 5. “When It Comes to You” 6. “Treasure” 7. “Stronger” 8. “Cowboy Scale of 1 to 10” 9. “By Your Grace”
-  Updated: 2026-11-06T20:32:05Z
+  Updated: 2026-11-11T15:20:43Z
   Vendor: Cody Johnson Store
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/cody-Johnson-human-vinyl_46038a81-261b-409d-925e-16a28b6f9712.png?v=1770309082
   Price: $29.98 USD
 - [Leather Deluxe Edition 3 LP | Cody Johnson Official Online Store](https://codyjohnson.merchmadeeasy.com/products/leather-deluxe-edition-3-lp): The ninth studio album by Cody Johnson, Leather, now available in Deluxe with 13 new songs. Double LP pressing TRACKLIST Disc One Work Boots Double Down Watching My Old Flame That's Texas Dirt Cheap Jesus Loves You Whiskey Bent (feat. Jelly Roll) Leather Disc Two People In The Back Long Live Country Music (feat. Brooks & Dunn) The Painter Make Me A Mop Overdue The Fall How Do You Sleep At Night? Country Boy Singin' The Blues Georgia Peaches Disc Three Damn Good Life C'mon Cowgirl I Wished It Was You Take It Like A Man I'm Gonna Love You – with Carrie Underwood Made In The USA Over Missin' You The Mustang
-  Updated: 2026-11-07T18:18:05Z
+  Updated: 2026-11-15T18:36:06Z
   Vendor: Cody Johnson Store
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/cody-Johnson-leather-deluxe-bg.png?v=1770312369
   Price: $29.98 USD
 - [COJO Blue Sweatshirt | Cody Johnson Official Online Store](https://codyjohnson.merchmadeeasy.com/products/cojo-blue-sweatshirt): COJO graphic and logo on the front Crewneck sweatshirt in heather denim 50/50 Cotton/Polyester Unisex
-  Updated: 2026-11-05T16:56:59Z
+  Updated: 2026-11-08T16:20:35Z
   Vendor: Cody Johnson Store
   Product Type: Sweatshirt
   Availability: Available
@@ -49,13 +49,13 @@
     Availability: Not Available
     Price: $50.00 USD
 - [2024 Leather Tour Tee](https://codyjohnson.merchmadeeasy.com/products/2024-leather-tour-tee): 2024 Leather Tour Tee in Black Comfort Colors 100% Cotton
-  Updated: 2026-11-05T16:52:16Z
+  Updated: 2026-11-14T21:54:01Z
   Vendor: Cody Johnson Store
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/2024-Leather-Tee.jpg?v=1771262995
   - [S](https://codyjohnson.merchmadeeasy.com/products/2024-leather-tour-tee?variant=45866661544090)
-    Availability: Not Available
+    Availability: Available
     Price: $20.00 USD
   - [M](https://codyjohnson.merchmadeeasy.com/products/2024-leather-tour-tee?variant=45866661576858)
     Availability: Not Available
@@ -118,7 +118,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Leather Patch Long Sleeve | Cody Johnson Official Online Store](https://codyjohnson.merchmadeeasy.com/products/leather-patch-long-sleeve): Screen printed Leather inspired graphic on the front and back Unisex Long Sleeve in Teal or Green 100% Cotton
-  Updated: 2026-11-07T16:45:56Z
+  Updated: 2026-11-13T19:23:35Z
   Vendor: Cody Johnson Store
   Product Type: Long Sleeve
   Availability: Available
@@ -194,7 +194,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/CamoWhiteHat_04cb5696-743d-490e-b025-a379b7fce5b8.png?v=1770320087
   Price: $35.00 USD
 - [Camo/Black Patch Hat | Cody Johnson Official Online Store](https://codyjohnson.merchmadeeasy.com/products/camo-black-patch-hat): Snapback hat in camo/black Custom hat with inside taping Black logo patch on the front
-  Updated: 2026-11-06T21:38:26Z
+  Updated: 2026-11-13T18:04:12Z
   Vendor: Cody Johnson Store
   Product Type: Hat
   Availability: Available
@@ -215,14 +215,14 @@
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/cody-Johnson-cowboy-like-me-vinyl.png?v=1770308963
   Price: $26.98 USD
 - [A Different Day Vinyl | Cody Johnson Official Online Store](https://codyjohnson.merchmadeeasy.com/products/a-different-day-vinyl): A Different Day, Cody Johnson's sophomore studio album originally released in 2011, now available on vinyl. Double LP pressing TRACKLIST SIDE A 18 Wheels Guilty As Can Be Diamond In My Pocket Keep Her Man SIDE B Different Day Ride With Me The Way She Loves Me SIDE C What's Left Of Texas? Get Back Home To You Ocean Of Whiskey SIDE D I Don't Care About You Jesus Ain't Watching The Grandpa Song (Acoustic)
-  Updated: 2026-11-06T21:52:22Z
+  Updated: 2026-11-13T21:10:58Z
   Vendor: Cody Johnson Store
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/cody-Johnson-a-different-day-vinyl.png?v=1770309017
   Price: $26.98 USD
 - [Gotta Be Me Vinyl | Cody Johnson Official Online Store](https://codyjohnson.merchmadeeasy.com/products/gotta-be-me-vinyl): Gotta Be Me, originally released in 2016, now available on vinyl. Double LP pressing TRACKLIST SIDE A Gotta Be Me Grass Stains With You I Am Half A Song SIDE B That Only One I Know (Cowboy Life) Walk Away Kiss Goodbye SIDE C Chain Drinkin Wild As You I Know My Way Back (Clara’s Song) Billy’s Brother SIDE D Every Scar Has A Story I Ain’t Going Nowhere Baby I Can’t Even Walk (Without You Holding My Hand)
-  Updated: 2026-11-05T16:56:59Z
+  Updated: 2026-11-11T11:49:05Z
   Vendor: Cody Johnson Store
   Product Type: Vinyl
   Availability: Available
@@ -250,7 +250,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/cody-Johnson-different-day-cd.png?v=1770312763
   Price: $14.98 USD
 - [Ain't Nothin' To It Vinyl | Cody Johnson Official Online Store](https://codyjohnson.merchmadeeasy.com/products/aint-nothin-to-it-vinyl): Ain't Nothin To It, originally released in 2019, now available on vinyl. TRACKLIST "Ain't Nothin' to It" "Noise" "Fenceposts" "Understand Why" "Long Haired Country Boy" (featuring The Rockin' CJB) "Nothin' on You" "Honky Tonk Mood" "Monday Morning Merle" "Y'all People (Dedicated to the 'CoJo Nation')" "Where Cowboys Are King" "On My Way to You" "Doubt Me Now" "Dear Rodeo" "Husbands and Wives" (Live) (Bonus track) "His Name Is Jesus" (Live) (Bonus track)
-  Updated: 2026-11-06T21:52:26Z
+  Updated: 2026-11-13T21:10:16Z
   Vendor: Cody Johnson Store
   Product Type: Vinyl
   Availability: Available
@@ -306,7 +306,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/Stripes-Sticker.jpg?v=1770244782
   Price: $5.00 USD
 - [COJO Retro Flowers Sticker | Cody Johnson Official Online Store](https://codyjohnson.merchmadeeasy.com/products/cojo-retro-flowers-sticker): 2 x 3 inch sticker
-  Updated: 2026-11-05T16:56:57Z
+  Updated: 2026-11-08T01:37:06Z
   Vendor: Cody Johnson Store
   Product Type: Sticker
   Availability: Available
@@ -334,7 +334,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/Red-Koozie.jpg?v=1770245092
   Price: $5.00 USD
 - [Dear Rodeo: The Cody Johnson Story DVD | Cody Johnson Official Online Store](https://codyjohnson.merchmadeeasy.com/products/dear-rodeo-the-cody-johnson-story-dvd): Cody Johnson journeys from the dusty rodeo arenas of rural Texas to the biggest stages in America.
-  Updated: 2026-11-05T16:56:56Z
+  Updated: 2026-11-13T19:41:16Z
   Vendor: Cody Johnson Store
   Product Type: DVD
   Availability: Available
@@ -348,7 +348,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/cody-Johnson-rockin-cjb-live-cd.png?v=1770313534
   Price: $14.98 USD
 - [Aztec Slim Koozie | Cody Johnson Official Online Store](https://codyjohnson.merchmadeeasy.com/products/aztec-slim-koozie): Aztec printed koozie with Cody Johnson bull logo on the front. Fully printed on both sides Made for slim cans you can use all summer long!
-  Updated: 2026-11-05T16:56:56Z
+  Updated: 2026-11-14T01:41:48Z
   Vendor: Cody Johnson Store
   Product Type: Koozie
   Availability: Available
@@ -383,7 +383,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/AztecTrucker_56f178d9-e96f-4598-9133-0595e8e60e1e.png?v=1770933545
   Price: $30.00 USD
 - [Belt Buckle Tour Tee | Cody Johnson Official Merch Store](https://codyjohnson.merchmadeeasy.com/products/belt-buckle-tour-tee): Tonal belt buckle graphic on the front with Cody Johnson Leather Deluxe 2025 tour dates on the back of this 100% cotton Unisex tee in espresso brown
-  Updated: 2026-11-06T21:38:26Z
+  Updated: 2026-11-15T23:25:56Z
   Vendor: Cody Johnson Store
   Product Type: T-Shirt
   Availability: Available
@@ -431,7 +431,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - ['Til You Can't Truck Tee | Cody Johnson Official Merch Store](https://codyjohnson.merchmadeeasy.com/products/truck-tee): If you got a dream, chase it. Blue pickup truck with Cody Johnson's name and 'Til You Can't lyrics printed on the front of this unisex tee in pepper grey
-  Updated: 2026-11-07T23:54:58Z
+  Updated: 2026-11-15T02:14:05Z
   Vendor: Cody Johnson Store
   Product Type: T-Shirt
   Availability: Available
@@ -455,7 +455,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Leather Buckle Sweatshirt | Cody Johnson Official Merch Store](https://codyjohnson.merchmadeeasy.com/products/leather-buckle-sweatshirt): Screenprinted leather looking buckle graphic on the front with Cody Johnson's name and bull logo printed on a unisex, crewneck sweatshirt in military green
-  Updated: 2026-11-06T22:58:31Z
+  Updated: 2026-11-13T21:21:16Z
   Vendor: Cody Johnson Store
   Product Type: Sweatshirt
   Availability: Available
@@ -503,7 +503,7 @@
     Availability: Not Available
     Price: $50.00 USD
 - [Youth Cowboy Tee | Cody Johnson Official Merch Store](https://codyjohnson.merchmadeeasy.com/products/youth-cowboy-tee): Navy youth tee with playful Cody Johnson text on the front and a cowboy riding a horse on the back.
-  Updated: 2026-11-05T16:52:14Z
+  Updated: 2026-11-13T18:04:16Z
   Vendor: Cody Johnson Store
   Product Type: T-Shirt
   Availability: Available
@@ -521,7 +521,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Cowboy Hoodie | Cody Johnson Official Online Store](https://codyjohnson.merchmadeeasy.com/products/cowboy-hoodie): Bull logo in red on the front Cowboys on a fence graphic on the back Unisex hoodie in color bone 80/20 ring-spun cotton/polyester blend fleece with 100% cotton face
-  Updated: 2026-11-07T23:32:55Z
+  Updated: 2026-11-15T18:33:06Z
   Vendor: Cody Johnson Store
   Product Type: Hoodie
   Availability: Available
@@ -545,14 +545,14 @@
     Availability: Available
     Price: $75.00 USD
 - [Embroidered Green COJO Hat | Cody Johnson Official Merch Store](https://codyjohnson.merchmadeeasy.com/products/green-cojo-hat): The crowd favorite COJO hat is now available online. Fully custom in two-tone green/natural with puff embroidery on the front and Cody Johnson taping underneath.
-  Updated: 2026-11-05T16:56:54Z
+  Updated: 2026-11-14T20:30:46Z
   Vendor: Cody Johnson Store
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/Green-Hat-Portrait.jpg?v=1770240316
   Price: $40.00 USD
 - [Cowgirl Tee | Cody Johnson Official Merch Store](https://codyjohnson.merchmadeeasy.com/products/cowgirl-tee): Cowgirl graphic on the front with Cody Johnson typography at the top 100% cotton Unisex tee in Ivory
-  Updated: 2026-11-05T16:52:14Z
+  Updated: 2026-11-14T22:27:45Z
   Vendor: Cody Johnson Store
   Product Type: T-Shirt
   Availability: Available
@@ -576,7 +576,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Embroidered Camo Logo Hat | Cody Johnson Official Online Store](https://codyjohnson.merchmadeeasy.com/products/embroidered-camo-bull-logo-hat): Snapback hat in black 3D Embroidered Bull logo in camo on the front Cody Johnson logo embroidered on the side
-  Updated: 2026-11-07T12:57:41Z
+  Updated: 2026-11-14T17:10:47Z
   Vendor: Cody Johnson Store
   Product Type: Hat
   Availability: Available
@@ -584,7 +584,7 @@
   Price: $35.00 USD
 - [Camo Bull Logo Tee | Cody Johnson Official Merch Store](https://codyjohnson.merchmadeeasy.com/products/camo-bull-logo-tee): Duck Camo graphic with Cody Johnson on the front and back
 Unisex tee in pepper grey
-  Updated: 2026-11-05T16:52:14Z
+  Updated: 2026-11-14T02:37:26Z
   Vendor: Cody Johnson Store
   Product Type: T-Shirt
   Availability: Available
@@ -632,7 +632,7 @@ Unisex tee in pepper grey
     Availability: Not Available
     Price: $50.00 USD
 - [Travelin Solider Tee | Cody Johnson Official Merch Store](https://codyjohnson.merchmadeeasy.com/products/travelin-soldier-tee): Celebrating the release of Cody Johnson's cover of Travelin Soldier. Order in time for Veteran's day. Bull logo on the front chest. Travelin Soldier graphic on the front
-  Updated: 2026-11-07T18:47:36Z
+  Updated: 2026-11-13T21:21:16Z
   Vendor: Cody Johnson Store
   Product Type: T-Shirt
   Availability: Available
@@ -656,7 +656,7 @@ Unisex tee in pepper grey
     Availability: Available
     Price: $35.00 USD
 - [2025 Leather Tour Tee](https://codyjohnson.merchmadeeasy.com/products/2025-leather-tour-tee): 2025 Leather Tour Tee in dark grey Comfort Colors tee 100% Cotton SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26 3XL 32 1/2 27 3/4
-  Updated: 2026-11-05T16:52:13Z
+  Updated: 2026-11-09T14:46:06Z
   Vendor: Cody Johnson Store
   Product Type: T-Shirt
   Availability: Available
@@ -680,7 +680,7 @@ Unisex tee in pepper grey
     Availability: Not Available
     Price: $20.00 USD
 - [Travelin Solider Tee | Cody Johnson Official Merch Store](https://codyjohnson.merchmadeeasy.com/products/grey-camo-logo-tee): Celebrating the release of Cody Johnson's cover of Travelin Soldier. Order in time for Veteran's day. Bull logo on the front chest. Travelin Soldier graphic on the front
-  Updated: 2026-11-07T18:39:25Z
+  Updated: 2026-11-15T16:57:17Z
   Vendor: Cody Johnson Store
   Product Type: T-Shirt
   Availability: Available
@@ -704,7 +704,7 @@ Unisex tee in pepper grey
     Availability: Available
     Price: $35.00 USD
 - [COJO Patriotic Tee | Cody Johnson Official Online Store](https://codyjohnson.merchmadeeasy.com/products/bull-logo-patriotic-tee): Bull Logo with American flag on front COJO Badge screenprinted on the sleeve Bella + Canvas tee in Heather Black 100% Cotton Unisex
-  Updated: 2026-11-06T22:58:36Z
+  Updated: 2026-11-12T15:18:11Z
   Vendor: Cody Johnson Store
   Product Type: T-Shirt
   Availability: Available
@@ -752,7 +752,7 @@ Unisex tee in pepper grey
     Availability: Not Available
     Price: $20.00 USD
 - [COJO Grey Hoodie | Cody Johnson Official Online Store](https://codyjohnson.merchmadeeasy.com/products/cojo-grey-hoodie): Leather inspired screen print on the front Unisex hoodie in garment-dyed green for a more muted look
-  Updated: 2026-11-05T16:56:54Z
+  Updated: 2026-11-14T03:20:15Z
   Vendor: Cody Johnson Store
   Product Type: Hoodie
   Availability: Available
@@ -831,38 +831,12 @@ Unisex tee in pepper grey
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/Cojo-Red-Hat_8e4b486c-75a6-4af7-9eb1-cbff8bf0fa73.jpg?v=1772479825
   Price: $40.00 USD
 - [Rope Patch Hat | Cody Johnson Official Merch Store](https://codyjohnson.merchmadeeasy.com/products/longhorn-patch-hat): Custom rope patch on the front Mid-profile baseball hat in Black/Khaki
-  Updated: 2026-11-07T11:57:45Z
+  Updated: 2026-11-15T14:24:08Z
   Vendor: Cody Johnson Store
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/Rope-Hat-Portrait.jpg?v=1771882340
   Price: $40.00 USD
-- [The Fall Tee | Cody Johnson Official Merch Store](https://codyjohnson.merchmadeeasy.com/products/the-fall-tee): Online exclusive tee, celebrating the anniversary of Cody Johnson's song, 'The Fall'
-
-Wild horses design with lyrics 'The ride was worth the fall' on the front
-  Updated: 2026-11-05T16:52:11Z
-  Vendor: Cody Johnson Store
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/2A2A1748-Edit.png?v=1772138627
-  - [S](https://codyjohnson.merchmadeeasy.com/products/the-fall-tee?variant=47485132210330)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [M](https://codyjohnson.merchmadeeasy.com/products/the-fall-tee?variant=47485132243098)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [L](https://codyjohnson.merchmadeeasy.com/products/the-fall-tee?variant=47485132275866)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [XL](https://codyjohnson.merchmadeeasy.com/products/the-fall-tee?variant=47485132308634)
-    Availability: Available
-    Price: $35.00 USD
-  - [2XL](https://codyjohnson.merchmadeeasy.com/products/the-fall-tee?variant=47485132341402)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [3XL](https://codyjohnson.merchmadeeasy.com/products/the-fall-tee?variant=47485132374170)
-    Availability: Not Available
-    Price: $35.00 USD
 - [Blame Texas Tee | Cody Johnson Official Merch Store](https://codyjohnson.merchmadeeasy.com/products/blame-texas-tee): Celebrating the release of Cody Johnson's new single, 'Blame Texas'
   Updated: 2026-11-05T16:52:11Z
   Vendor: Cody Johnson Store
@@ -888,7 +862,7 @@ Wild horses design with lyrics 'The ride was worth the fall' on the front
     Availability: Not Available
     Price: $35.00 USD
 - [Houston Event Tee](https://codyjohnson.merchmadeeasy.com/products/houston-rodeo-tee): Cody Johnson photo on the front 100% cotton tee in natural Unisex
-  Updated: 2026-11-07T18:47:36Z
+  Updated: 2026-11-10T07:44:07Z
   Vendor: Cody Johnson Store
   Product Type: T-Shirt
   Availability: Available
@@ -943,7 +917,7 @@ Wild horses design with lyrics 'The ride was worth the fall' on the front
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/Cody-Johnson-banks-of-the-trinity-cd_f0572d33-2496-4c9b-a7f7-def6ea3fc1d6.jpg?v=1782503804
   Price: $14.98 USD
 - [Banks Of The Trinity Exclusive Tan Vinyl | Cody Johnson](https://codyjohnson.merchmadeeasy.com/products/banks-of-the-trinity-vinyl): Transparent tan 2xLP vinyl, exclusive to Cody Johnson's official store The tenth studio album by Cody Johnson, Banks Of The Trinity Tracklist Horseback Hello Lonesome Fool Proof (feat. Brothers Osborne) Take Me Back (Leave Me There) Banks Of The Trinity I Want You I Have Bible For A Boy (For Jaycee) Kissing A Married Woman Every Man Motel Miss You Shoot The Bull Cricket On A Hook Time Bomb Thank Somebody Country Yippy Ty Oh Hey Hey
-  Updated: 2026-11-06T21:36:46Z
+  Updated: 2026-11-15T22:01:56Z
   Vendor: Cody Johnson Store
   Product Type: Vinyl
   Availability: Available
@@ -971,14 +945,14 @@ Wild horses design with lyrics 'The ride was worth the fall' on the front
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/CodyMockups_0005_BrownLogoKoozie.jpg?v=1781273916
   Price: $5.00 USD
 - [Sunset Koozie | Cody Johnson Official Online Store](https://codyjohnson.merchmadeeasy.com/products/sunset-koozie): COJO bull logo graphic on a sunset design Fully printed on both sides Fits standard cans
-  Updated: 2026-11-05T16:56:53Z
+  Updated: 2026-11-13T18:49:15Z
   Vendor: Cody Johnson Store
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/CodyMockups_0008_MountainKoozie2.jpg?v=1781273823
   Price: $5.00 USD
 - [White Aztec Koozie | Cody Johnson Official Online Store](https://codyjohnson.merchmadeeasy.com/products/white-aztec-koozie): Aztec print design Fully printed on both sides Fits standard cans
-  Updated: 2026-11-05T16:56:52Z
+  Updated: 2026-11-15T22:09:16Z
   Vendor: Cody Johnson Store
   Product Type: Koozie
   Availability: Available
@@ -1006,7 +980,7 @@ Wild horses design with lyrics 'The ride was worth the fall' on the front
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/COJO_0010_BOTTHatFront.jpg?v=1782401062
   Price: $40.00 USD
 - [Camo Bandana | Cody Johnson Official Merch Store](https://codyjohnson.merchmadeeasy.com/products/camo-bandana): Custom designed bandana Fully printed with COJO camo design 22x22" 100% cotton
-  Updated: 2026-11-05T16:56:52Z
+  Updated: 2026-11-15T22:09:16Z
   Vendor: Cody Johnson Store
   Product Type: Bandana
   Availability: Available
@@ -1020,7 +994,7 @@ Wild horses design with lyrics 'The ride was worth the fall' on the front
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/COJO_0012_BlueLeopardKoozie.jpg?v=1782400911
   Price: $5.00 USD
 - [Wild Horses Crewneck | Cody Johnson Official Merch Store](https://codyjohnson.merchmadeeasy.com/products/wild-horses-crewneck): Wild horses gallop across the front of Cody Johnson text on this bold, screen-printed design Crewneck sweatshirt in Light Grey 50/50 Cotton/Polyester Unisex
-  Updated: 2026-11-07T14:17:07Z
+  Updated: 2026-11-15T22:36:56Z
   Vendor: Cody Johnson Store
   Product Type: Sweatshirt
   Availability: Available
@@ -1044,7 +1018,7 @@ Wild horses design with lyrics 'The ride was worth the fall' on the front
     Availability: Available
     Price: $55.00 USD
 - [River Sketch Tee](https://codyjohnson.merchmadeeasy.com/products/river-sketch-tee): Cody Johnson graphic with bull logo on the front chest Bass fish with Texas outline on the back 100% cotton tee in light green Unisex
-  Updated: 2026-11-06T22:58:31Z
+  Updated: 2026-11-14T21:54:06Z
   Vendor: Cody Johnson Store
   Product Type: T-Shirt
   Availability: Available
@@ -1068,7 +1042,7 @@ Wild horses design with lyrics 'The ride was worth the fall' on the front
     Availability: Available
     Price: $40.00 USD
 - [Deadwood Tree Camo Tee](https://codyjohnson.merchmadeeasy.com/products/deadwood-camo-logo-tee): Cody Johnson graphic with bull logo on the front chest Bass fish with Texas outline on the back 100% cotton tee in light green Unisex
-  Updated: 2026-11-06T17:57:56Z
+  Updated: 2026-11-14T23:33:25Z
   Vendor: Cody Johnson Store
   Product Type: T-Shirt
   Availability: Available
@@ -1099,7 +1073,7 @@ Wild horses design with lyrics 'The ride was worth the fall' on the front
   Image: https://cdn.shopify.com/s/files/1/0681/9420/5850/files/COJO_0005_BOTTCamoHat.jpg?v=1783021919
   Price: $40.00 USD
 - [Horses Tote | Official Cody Johnson Merchandise](https://codyjohnson.merchmadeeasy.com/products/horses-tote): Running horses design on the front with "The ride was worth the fall" lyrics 100% heavy cotton canvas 20" canvas webbed handles
-  Updated: 2026-11-05T16:50:57Z
+  Updated: 2026-11-10T01:37:11Z
   Vendor: Cody Johnson Store
   Product Type: Tote
   Availability: Available
@@ -1109,79 +1083,79 @@ Wild horses design with lyrics 'The ride was worth the fall' on the front
 ## Collections
 
 - [Best Sellers](https://codyjohnson.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-15T12:18:51Z
   Total Products: 38
 - [Apparel](https://codyjohnson.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-15T12:18:51Z
   Total Products: 44
 - [Accessories](https://codyjohnson.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-15T12:18:51Z
   Total Products: 44
 - [Music](https://codyjohnson.merchmadeeasy.com/collections/music)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-14T12:14:59Z
   Total Products: 23
 - [Hats](https://codyjohnson.merchmadeeasy.com/collections/hats)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-15T12:18:51Z
   Total Products: 17
 - [All](https://codyjohnson.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-15T12:18:51Z
   Total Products: 111
 - [](https://codyjohnson.merchmadeeasy.com/collections/)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-15T12:18:51Z
   Total Products: 21
 - [Tour Merch](https://codyjohnson.merchmadeeasy.com/collections/tour-merch): Shop official Cody Johnson merch from tour!
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-15T12:18:51Z
   Total Products: 38
 - [Koozies](https://codyjohnson.merchmadeeasy.com/collections/koozies)
-  Updated: 2026-11-01T12:14:22Z
+  Updated: 2026-11-14T12:14:59Z
   Total Products: 15
 - [COJONATION](https://codyjohnson.merchmadeeasy.com/collections/cojonation)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-15T12:18:51Z
   Total Products: 70
 - [Leather](https://codyjohnson.merchmadeeasy.com/collections/leather)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-15T12:18:51Z
   Total Products: 11
 - [EasyGift All Products](https://codyjohnson.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-15T12:18:51Z
   Total Products: 111
 - [Black Friday ](https://codyjohnson.merchmadeeasy.com/collections/black-friday-)
-  Updated: 2026-11-07T15:43:55Z
-  Total Products: 60
+  Updated: 2026-11-15T12:18:51Z
+  Total Products: 59
 - [Mistletoe Deals](https://codyjohnson.merchmadeeasy.com/collections/mistletoe-deals)
-  Updated: 2026-11-07T15:43:55Z
-  Total Products: 79
+  Updated: 2026-11-15T12:18:51Z
+  Total Products: 78
 - [Stocking Stuffers](https://codyjohnson.merchmadeeasy.com/collections/stocking-stuffers)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-14T12:14:59Z
   Total Products: 30
 - [CDs](https://codyjohnson.merchmadeeasy.com/collections/cds)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-14T12:14:59Z
   Total Products: 12
 - [Vinyl](https://codyjohnson.merchmadeeasy.com/collections/vinyl)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-14T12:14:59Z
   Total Products: 10
 - [$20 Vinyl](https://codyjohnson.merchmadeeasy.com/collections/20-vinyl)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-14T12:14:59Z
   Total Products: 6
 - [Cody Johnson Live ‘26](https://codyjohnson.merchmadeeasy.com/collections/2026-tour-merch)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-15T12:18:51Z
   Total Products: 33
 - [New Arrivals](https://codyjohnson.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-15T12:18:51Z
   Total Products: 28
 - [$20.25 Tour Tees](https://codyjohnson.merchmadeeasy.com/collections/2025-tour-tees)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-15T12:18:51Z
   Total Products: 4
 - [Banks of the Trinity](https://codyjohnson.merchmadeeasy.com/collections/banks-of-the-trinity)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-15T12:18:51Z
   Total Products: 10
 - [Spring BOGO ](https://codyjohnson.merchmadeeasy.com/collections/spring-bogo-)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-15T12:18:51Z
   Total Products: 24
 - [Camo](https://codyjohnson.merchmadeeasy.com/collections/camo)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-15T12:18:51Z
   Total Products: 11
 - [Gift Guide](https://codyjohnson.merchmadeeasy.com/collections/holiday-gifts)
-  Updated: 2026-11-07T12:15:44Z
+  Updated: 2026-11-15T12:18:51Z
   Total Products: 21
 
 ## Store Pages
