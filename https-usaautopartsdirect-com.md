@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2026-09-05T01:22:31Z
 - Contact Email: usaautopartsdirect@gmail.com
-- Updated At: 2026-11-08T01:00:33.209Z
+- Updated At: 2026-11-16T01:10:29.694Z
 
 ## Products
 
@@ -1241,14 +1241,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_2fd1dc61-fe66-4f6d-b7b4-38a5d4f20ee3.webp?v=1788996749
   Price: $110.00 USD
-- [Fuel Tank Pump by Walbro/Ti for Universal Applications F20000313](https://usaautopartsdirect.com/products/walbroti-f20000313-fuel-tank-pump-for-universal-applications-yyyyyyyy-188500249819): Fuel Tank Pump by Walbro/Ti for Universal Applications F20000313. Supplied product details follow. Specifications and fitment Includes: - Walbro/Ti F20000313 Fuel Tank Pump Fits Models: - Universal / check fitment before purchase Model Years: - Check fitment before purchase Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: The Walbro/Ti F20000313 Fuel Tank Pump is designed for high-performance fuel delivery in various applications. This pump is engineered to provide reliable fuel flow, ensuring optimal engine performance and efficiency. It is suitable for a wide range of vehicles, making it a versatile choice for automotive enthusiasts and professionals alike. Features: - High-performance fuel delivery - Durable construction for longevity - Compatible with various fuel types - Easy installation for most applications - Reliable operation under demanding conditions
-  Updated: 2026-09-17T20:30:02Z
-  Vendor: Usa Autoparts Direct
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_9d210584-cfd7-4022-a070-7815f5b67030.webp?v=1788996749
-  Price: $460.00 USD
-[List Continued](https://usaautopartsdirect.com/a/llms-agent/llms.txt?shop=fg6grr-b1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTczMzM1MDM1OTkyLCJsYXN0X3ZhbHVlIjoiODk3MzMzNTAzNTk5MiJ9)
+[List Continued](https://usaautopartsdirect.com/a/llms-agent/llms.txt?shop=fg6grr-b1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTczMzM1MDAzMjI0LCJsYXN0X3ZhbHVlIjoiODk3MzMzNTAwMzIyNCJ9)
 
 ## Collections
 
@@ -1256,7 +1249,7 @@
   Updated: 2026-10-02T02:32:46Z
   Total Products: 0
 - [master](https://usaautopartsdirect.com/collections/master)
-  Updated: 2026-11-07T12:22:15Z
+  Updated: 2026-11-15T12:21:46Z
   Total Products: 1859784
 
 ## Blogs
@@ -1372,6 +1365,18 @@
   - [Exploring OEM Replacement Parts: Performance and Affordability Uncovered](https://usaautopartsdirect.com/blogs/news/exploring-oem-replacement-parts-performance-and-affordability-uncovered): Exploring OEM Replacement Parts: Performance and Affordability Uncovered
     Updated: 2026-11-08T00:08:51Z
     Author: USA Auto Parts Direct
+  - [Car Parts Online Buyer's Guide: Navigating the Auto Accessories Marketplace](https://usaautopartsdirect.com/blogs/news/car-parts-online-buyers-guide-navigating-the-auto-accessories-marketplace): Car Parts Online Buyer's Guide: Navigating the Auto Accessories Marketplace
+    Updated: 2026-11-09T01:23:36Z
+    Author: USA Auto Parts Direct
+  - [Why Aftermarket Auto Parts Are Shaping the Future of Vehicle Upgrades](https://usaautopartsdirect.com/blogs/news/why-aftermarket-auto-parts-are-shaping-the-future-of-vehicle-upgrades): Why Aftermarket Auto Parts Are Shaping the Future of Vehicle Upgrades
+    Updated: 2026-11-13T00:04:32Z
+    Author: USA Auto Parts Direct
+  - [Vehicle Replacement Parts: How to Enhance Safety and Efficiency](https://usaautopartsdirect.com/blogs/news/vehicle-replacement-parts-how-to-enhance-safety-and-efficiency): Vehicle Replacement Parts: How to Enhance Safety and Efficiency
+    Updated: 2026-11-15T00:08:00Z
+    Author: USA Auto Parts Direct
+  - [The Historical Transformation of Auto Parts: From OEM to Aftermarket Wonders](https://usaautopartsdirect.com/blogs/news/the-historical-transformation-of-auto-parts-from-oem-to-aftermarket-wonders): The Historical Transformation of Auto Parts: From OEM to Aftermarket Wonders
+    Updated: 2026-11-16T01:04:11Z
+    Author: USA Auto Parts Direct
 
 ## Store Pages
 
@@ -1383,6 +1388,8 @@
   Updated: 2026-09-11T00:32:42Z
 - [Your Privacy Choices](https://usaautopartsdirect.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-09-11T01:47:16Z
+- [Returns and Refunds](https://usaautopartsdirect.com/pages/refunds-and-returns)
+  Updated: 2026-11-15T00:20:10Z
 
 ## Policies
 
