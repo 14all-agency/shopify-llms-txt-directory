@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-08-20T17:34:28Z
 - Contact Email: chenjie520225@gmail.com
-- Updated At: 2026-11-09T00:58:43.799Z
+- Updated At: 2026-11-16T01:00:58.580Z
 
 VOGUE CUR is an upscale fashion brand specializing in luxury handbags, footwear and fine accessories.
 We focus on premium craftsmanship and timeless style, shipping to most countries around the world.
@@ -1720,7 +1720,7 @@ All products are carefully inspected before dispatch to guarantee quality.
   Updated: 2026-11-06T18:00:02Z
   Total Products: 106
 - [All Products](https://voguecur.com/collections/best-sellers): - Fashion Boutique
-  Updated: 2026-11-07T19:36:48Z
+  Updated: 2026-11-14T12:21:16Z
   Total Products: 602
 - [CHANEL Collection](https://voguecur.com/collections/lali-ga): - Fashion Boutique
   Updated: 2026-11-06T18:00:02Z
@@ -1744,7 +1744,7 @@ All products are carefully inspected before dispatch to guarantee quality.
   Updated: 2026-11-06T18:00:02Z
   Total Products: 72
 - [HERMES Collection](https://voguecur.com/collections/hermes): - Fashion Boutique
-  Updated: 2026-11-07T19:36:48Z
+  Updated: 2026-11-14T12:21:16Z
   Total Products: 32
 - [DIOR Collection](https://voguecur.com/collections/dior): - Fashion Boutique
   Updated: 2026-11-06T18:00:02Z
@@ -1876,10 +1876,10 @@ All products are carefully inspected before dispatch to guarantee quality.
   Updated: 2026-11-06T18:00:05Z
   Total Products: 3
 - [Luxury Bestsellers](https://voguecur.com/collections/luxury-bestsellers): Curated top- luxury bags, watches and fashion accessories, classic styles hot  all year round
-  Updated: 2026-11-07T19:36:48Z
+  Updated: 2026-11-14T12:21:16Z
   Total Products: 78
 - [Designer Handbags](https://voguecur.com/collections/designer-handbags): Curated collection of luxury designer handbags, featuring iconic styles from top fashion houses.
-  Updated: 2026-11-07T16:56:08Z
+  Updated: 2026-11-14T12:21:16Z
   Total Products: 65
 - [Stylish Footwear](https://voguecur.com/collections/designer-sneakers): Premium designer sneakers and luxury footwear for everyday style.
   Updated: 2026-11-06T18:00:05Z
@@ -1891,7 +1891,7 @@ All products are carefully inspected before dispatch to guarantee quality.
   Updated: 2026-11-06T18:00:06Z
   Total Products: 33
 - [New Arrivals: Curated Luxury](https://voguecur.com/collections/discover-more-new-products): Be the first to explore our latest selection of luxury masterpieces. Curated based on standards of quality, craftsmanship, and enduring value—ranging from rare treasures to limited-edition collectibles—these new arrivals are created exclusively for those who appreciate extraordinary beauty.
-  Updated: 2026-11-07T19:36:48Z
+  Updated: 2026-11-14T12:21:16Z
   Total Products: 85
 
 ## Blogs
