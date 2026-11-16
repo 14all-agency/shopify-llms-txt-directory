@@ -6,12 +6,12 @@
 - Timezone: Australia/Melbourne
 - Created At: 2026-06-28T06:45:04Z
 - Contact Email: support@digicollex.com
-- Updated At: 2026-11-08T01:25:04.425Z
+- Updated At: 2026-11-16T01:23:07.672Z
 
 ## Products
 
 - [Restora™ Heart Shaped Memory Foam Pillow](https://naylora.store/products/love-heart-shaped-memory-foam-leg-pillow): Product information: Restora™Size: 25*23 * 13CM Color: dark blue jacquard, gray, blue, white, pink, yellow Material: Memory Foam Details of bedding: memory pillow Applicable object:  Packing list: Foam Leg Pillow x1pc Product Image:
-  Updated: 2026-08-29T03:10:48Z
+  Updated: 2026-11-08T15:07:46Z
   Vendor: Digi Collex
   Product Type: Leg Pillow
   Availability: Available
@@ -92,7 +92,7 @@
   Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_5_2026_04_27_41_PM_1.png?v=1788589995
   Price: $24.99 USD
 - [Magnova™ Magnesium Complex](https://naylora.store/products/magnesium-capsule-complex-health-products): Product Information： Main raw material: magnesium Net content: 50g Type: Capsule Packing List： Capsule * 1 set
-  Updated: 2026-10-17T13:29:25Z
+  Updated: 2026-11-09T00:37:55Z
   Vendor: Digi Collex
   Product Type: health
   Availability: Available
@@ -450,7 +450,7 @@
     Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_19_2026_03_21_04_PM_1.png?v=1789795328
     Price: $39.99 USD
 - [Ergonomic Cervical Memory Foam Pillow](https://naylora.store/products/hot--slow-rebound-memory-pillow): Product information: Product dimensions: 60*40*12 cm Manufacturing process: Foaming process Material: Memory foam Filler: Polyurethane Packing list: Pillow*1 Product Image:
-  Updated: 2026-09-28T21:29:48Z
+  Updated: 2026-11-08T15:07:46Z
   Vendor: Digi Collex
   Product Type: neck pillow
   Availability: Available
@@ -594,7 +594,7 @@
     Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Oct_30_2026_05_20_21_PM-2_ac2d3241-b607-4d35-83f1-c2f045eb7681.png?v=1793341278
     Price: $19.45 USD
 - [Smooth Lightweight Hair Care](https://naylora.store/products/smooth-lightweight-hair-care): Product information: Makeup tool category: Other Suitable population: General population Dimensions: 5*5*15 Color classification: 200ML (only for export sales, prohibited domestic sales, purchase equivalent to default disclaimer) Net content: 200mL Packing list: Shampoo x 1pc Product Image:
-  Updated: 2026-11-06T04:03:25Z
+  Updated: 2026-11-12T21:01:52Z
   Vendor: naylora
   Product Type: 1 Hair Growth Cap
   Availability: Available
@@ -629,14 +629,35 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Nov_1_2026_03_33_14_PM-1.png?v=1793507650
   Price: $14.78 USD
+- [Frostra™ Electric Ice Scraper](https://naylora.store/products/electric-snow-scraper): Overview: 1.【Get Twice the Result with Half the Effort】- Quick, efficient, and even ice removal in just one, even on thick layers. 2.【Easy to Use】- Comfortable solution that requires little pressure when scraping ice. 3.【Box Contents】- Electric window scratch, protective cap, charger, rotating removal disc. Product information: Material: ABS Charging time: 3 hours Use time: 15 minutes Battery: 3.7V2500mah Color: yellow Product size: 11.5*11.5*12cm Product accessories: snow scraper*1 charging cable*1 Packing list: Electric snow scraper*1
+  Updated: 2026-11-15T06:19:38Z
+  Vendor: NAYLORA
+  Product Type: Ice Scraper
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/Electric_Snow_Scraper_in_Action.png?v=1794557074
+  Price: $39.50 USD
+- [Car Window Cleaner Brush](https://naylora.store/products/car-window-cleaner-brush): Product information： colour ： Sky blue, blue, green name ： Car glass brush type ： Car brush Specifications and dimensions ： 39*13*9CM Packing list: Car brush * 1
+  Updated: 2026-11-12T21:47:56Z
+  Vendor: NAYLORA
+  Product Type: 360 floor brush
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/1623483784522.jpg?v=1794476871
+  Price: $15.00 USD
+- [Car Mirror Wiper Retractable](https://naylora.store/products/car-mirror-wiper-retractable): Product information: Application vehicle model: Car Material: stainless steel, rubber Size: black, orange, green, pink, blue Size: Packing list: Wiper x1 Product Image:
+  Updated: 2026-11-15T00:20:31Z
+  Vendor: NAYLORA
+  Product Type: Small Wiper
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Nov_13_2026_04_27_57_PM-1.png?v=1794547766
+  Price: $15.00 USD
 
 ## Collections
 
 - [Home page](https://naylora.store/collections/frontpage)
-  Updated: 2026-11-08T00:15:45Z
+  Updated: 2026-11-09T12:18:31Z
   Total Products: 16
 - [Quality Products](https://naylora.store/collections/quality-products)
-  Updated: 2026-11-08T00:15:45Z
+  Updated: 2026-11-12T22:40:31Z
   Total Products: 4
 - [Must Buy](https://naylora.store/collections/must-buy): Key Features ✅ Warm Fleece Lining – Soft 230G fleece keeps you warm and comfortable in cold weather. ✅ High-Waist Support – Stretchy, tummy-control waistband for a secure and flattering fit. ✅ Comfortable & Flexible – 4-way stretch fabric moves with you without slipping. ✅ Stylish Winter Essential – Pairs perfectly with dresses, skirts, shorts, boots, or jeans. ✅ Perfect for Any Occasion – Great for work, travel, shopping, outdoor activities, and everyday wear. ✅ Lightweight Warmth – Keeps your legs cozy without adding bulk.
   Updated: 2026-08-10T23:49:52Z
@@ -645,7 +666,7 @@
   Updated: 2026-07-21T09:35:39Z
   Total Products: 0
 - [Restora™ Knee Pillow](https://naylora.store/collections/knee-pillow)
-  Updated: 2026-08-26T09:37:36Z
+  Updated: 2026-11-09T12:18:31Z
   Total Products: 1
 - [Waterproof Eyeliner](https://naylora.store/collections/waterproof-eyeliner)
   Updated: 2026-10-14T07:56:57Z
@@ -672,7 +693,7 @@
   Updated: 2026-10-14T07:56:59Z
   Total Products: 0
 - [Trending Now](https://naylora.store/collections/best-seller)
-  Updated: 2026-11-01T00:38:05Z
+  Updated: 2026-11-09T12:18:31Z
   Total Products: 21
 - [SwiftChop™ Vegetable Chopper](https://naylora.store/collections/swiftchop™-vegetable-chopper)
   Updated: 2026-08-14T11:29:29Z
