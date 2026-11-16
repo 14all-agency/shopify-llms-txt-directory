@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-07-28T20:31:13Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-08T00:57:57.725Z
+- Updated At: 2026-11-16T01:04:45.172Z
 
 ## Products
 
 - [Más Amor Hat](https://rickymartin.merchmadeeasy.com/products/mas-amor-hat): Ricky Martin Más Amor Hat in black with adjustable closure.
-  Updated: 2026-10-17T08:10:46Z
+  Updated: 2026-11-13T02:55:16Z
   Vendor: Ricky Martin Merch
   Product Type: Accessories
   Availability: Available
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0758/9039/3342/files/RMPHOTOBOOK-3.png?v=1772644663
   Price: $30.00 USD
 - [Sinfónico Hoodie](https://rickymartin.merchmadeeasy.com/products/sinfonico-hoodie): Ricky Martin Sinfónico Hoodie in black with front and back print.
-  Updated: 2026-10-28T05:17:46Z
+  Updated: 2026-11-10T05:47:26Z
   Vendor: Ricky Martin Merch
   Product Type: Apparel
   Availability: Available
@@ -64,7 +64,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Play Mug](https://rickymartin.merchmadeeasy.com/products/play-mug)
-  Updated: 2026-11-03T16:48:27Z
+  Updated: 2026-11-10T14:23:26Z
   Vendor: Ricky Martin Merch
   Product Type: Accessories
   Availability: Available
@@ -156,16 +156,16 @@
 ## Collections
 
 - [Home page](https://rickymartin.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-07T12:17:24Z
+  Updated: 2026-11-13T12:17:14Z
   Total Products: 13
 - [Apparel](https://rickymartin.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-07T12:17:24Z
+  Updated: 2026-11-10T12:16:32Z
   Total Products: 7
 - [Accessories](https://rickymartin.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-04T12:15:55Z
+  Updated: 2026-11-13T12:17:14Z
   Total Products: 4
 - [All](https://rickymartin.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-07T12:17:24Z
+  Updated: 2026-11-13T12:17:14Z
   Total Products: 11
 
 ## Store Pages
