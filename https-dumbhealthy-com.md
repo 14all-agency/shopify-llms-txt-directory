@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2023-01-10T17:18:42Z
-- Updated At: 2026-11-08T00:20:00.303Z
+- Updated At: 2026-11-16T00:21:06.248Z
 
 ## Products
 
@@ -3127,6 +3127,15 @@
     Author: A.
   - [How Adaptogens in Your Diet Can Offer Focus and Energy Support](https://dumbhealthy.com/blogs/news/how-adaptogens-in-your-diet-can-offer-focus-and-energy-support): How Adaptogens in Your Diet Can Offer Focus and Energy Support
     Updated: 2026-11-07T07:01:22Z
+    Author: A.
+  - [Boost Your Sleep Quality through Liver-Supportive Superfoods](https://dumbhealthy.com/blogs/news/boost-your-sleep-quality-through-liver-supportive-superfoods): Boost Your Sleep Quality through Liver-Supportive Superfoods
+    Updated: 2026-11-12T07:00:24Z
+    Author: A.
+  - [Embrace Non-Toxic Living: Superfoods for Clean Air and Gut Health](https://dumbhealthy.com/blogs/news/embrace-non-toxic-living-superfoods-for-clean-air-and-gut-health): Embrace Non-Toxic Living: Superfoods for Clean Air and Gut Health
+    Updated: 2026-11-13T07:02:49Z
+    Author: A.
+  - [Leveraging Environmental Wellness with the Help of Detoxifying Superfoods](https://dumbhealthy.com/blogs/news/leveraging-environmental-wellness-with-the-help-of-detoxifying-superfoods): Leveraging Environmental Wellness with the Help of Detoxifying Superfoods
+    Updated: 2026-11-14T07:03:28Z
     Author: A.
 
 ## Store Pages
