@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-05-23T08:42:47Z
 - Contact Email: info@mjartisangiftboxco.com
-- Updated At: 2026-11-08T00:31:25.399Z
+- Updated At: 2026-11-16T00:26:16.960Z
 
 ## Products
 
@@ -199,13 +199,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/0528/2634/files/ef2862f3-BIRTHDAY-LETTERBOX-CARE-PACKAGE-PINK.jpg?v=1748274429
   Price: £24.95 GBP
-- [Hug in a box, Thinking of You Letterbox Gift, Eco, Vegan](https://www.mjartisangiftboxco.com/products/hug-in-a-box-care-package-letterbox-postal-gift-eco-vegan): Hug in a box, Thinking of You Letterbox Gift, Eco, Vegan A beautifully thought-out care package gift box for sending love, because sometimes it's just so difficult to know what to say or do at difficult times. A gorgeous mini postal box of self-care and wellness for a friend, work colleague or family member going through a tough time. MJ Artisan Gift Box Co. Hug in a box package contains White Lavender self-heating eye mask by Sensory Retreats with guided meditation music download Lavender heart aromatherapy bath bombs by MJ Otherly vegan milk chocolate bar 25g Calming Aromatherapy roll-on essential oil therapy 'Peace' Lavender aromatherapy soy tea light by VelleDomus (5 hours burn time) Hanging wooden mini heart 'Sending you the biggest hug' Personal message on gift card Gift box and wrap. 100% natural, 100% vegan and cruelty-free, and eco-friendly All wrapped up in a beautifully gift-wrapped box, with a personalised gift card that can be posted directly to your loved one. Box size 11cm x 17cm x 2cm
-  Updated: 2026-10-26T17:37:05Z
-  Vendor: MJ Artisan Gift Co
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/0528/2634/files/hug-in-a-box-thinking-of-you-letterbox-gift-eco-vegan-307.jpg?v=1779963851
-  Price: £23.95 GBP
 - [Sending love hug in a box care package letterbox postal gift | Vegan | DS](https://www.mjartisangiftboxco.com/products/sending-love-hug-in-a-box-care-package-letterbox-postal-gift-vegan): Sending love hug in a box care package letterbox postal gift | Vegan A beautifully thought-out care package gift box for sending love, because sometimes it's just so hard to know what to say or do at difficult times. A gorgeous mini postal box of self-care and wellness for a friend, work colleague or family member going through a tough time. MJ Artisan Gift Box Co. You are loved package contains White Lavender self-heating eye mask by Sensory Retreats with guided meditation music download Lavender heart aromatherapy bath bombs by MJ Otherly vegan milk chocolate bar 25g Calming Aromatherapy roll-on essential oil therapy 'Don't worry' Lavender aromatherapy soy tea light by VelleDomus (5 hours burn time) Hanging wooden mini heart 'You are loved' Personal message on gift card Gift box and wrap. 100% natural, 100% vegan and cruelty-free, and eco-friendly All wrapped up in a beautifully gift-wrapped box, with a personalised gift card that can be posted directly to your loved one. Box size 11cm x 17cm x 2cm
   Updated: 2026-08-29T00:59:33Z
   Vendor: MJ Artisan Gift Co
@@ -387,7 +380,7 @@
   Image: https://cdn.shopify.com/s/files/1/0934/0528/2634/files/8c4d935d-GRIEF-GIFT-HAMPER-BLUE-HUG-IN-A-BOX-1A.jpg?v=1748274430
   Price: £29.56 GBP
 - [Thinking of you gift set | Vegan | All natural | wellness | White | DS](https://www.mjartisangiftboxco.com/products/thinking-of-you-gift-set-vegan-all-natural-wellness-white-ds): Thinking of you gift set | Vegan | All natural | wellness We've designed this care package for those times when someone you love just needs to know that you are thinking of them. Sometimes just knowing that you are there for them and thinking about them in their time of struggle really helps, knowing they are not alone. Perfect for sending to a friend or family member who is experiencing a difficult time, to show you care. English lavender soy candle in a rose gold tin Lavender & Marjoram essential oil heart bath bombs (2) Pukka FEEL NEW tea bags (4) Lavender and marjoram natural essential oil massage oil blended in sweet almond oil. White Lavender Luna self-heating sleep mask, which includes a link to a meditation playlist Personal message on gift card Gift box and wrap. Everything they need to relax, release and promote self-care. Believe us, they will love you for this gift! Everything inside this box is suitable for those with sensitive skin, is pregnancy-safe with pregnancy-safe essential oils! 100% natural, 100% vegan, cruelty-free and eco-friendly Box size 21cm x 15cm x 0.75cm
-  Updated: 2026-08-29T00:59:44Z
+  Updated: 2026-11-11T16:31:17Z
   Vendor: MJ Artisan Gift Co
   Product Type: 
   Availability: Available
@@ -401,7 +394,7 @@
   Image: https://cdn.shopify.com/s/files/1/0934/0528/2634/files/bereavement-gift-sympathy-grief-care-package-letterbox-postal-eco-498.jpg?v=1781524036
   Price: £16.98 GBP
 - [Grief Sympathy Bereavement Gift Care package | Letterbox postal eco gift | Sage | Vegan |DS](https://www.mjartisangiftboxco.com/products/grief-sympathy-bereavement-gift-care-package-letterbox-postal-eco-gift-sage-vegan-ds): Grief Sympathy Bereavement Care package | Letterbox postal eco gift | Sage | Vegan A beautifully thought-out care package gift box for grief, because sometimes it's just so difficult to know what to say or do when someone loses a loved one. A gorgeous mini postal box of self-care and wellness for a friend, work colleague or family member going through a tough time. MJ Artisan Gift Box Co. Grief care package contains White Lavender self-heating eye mask by Sensory Retreats with guided meditation music download Lavender heart aromatherapy bath bombs by MJ Otherly vegan milk chocolate bar 25g Calming Aromatherapy roll-on essential oil therapy 'PEACE' by MJ Lavender aromatherapy soy tea light by VelleDomus (5 hours burn time) Hanging wooden mini heart 'Sending you the biggest hug' Well being card 'Difficult day reminders' Personal message on gift card Gift box and wrap. 100% natural, 100% vegan and cruelty-free, and eco-friendly All wrapped up in a beautifully gift-wrapped box, with a personalised gift card that can be posted directly to your loved one. Box size 11cm x 17cm x 0.22cm
-  Updated: 2026-10-29T10:47:15Z
+  Updated: 2026-11-11T16:32:37Z
   Vendor: MJ Artisan Gift Co
   Product Type: 
   Availability: Available
@@ -415,7 +408,7 @@
   Image: https://cdn.shopify.com/s/files/1/0934/0528/2634/files/2dc375af-mens-hug-in-a-box-gift-aroma.jpg?v=1748274430
   Price: £13.28 GBP
 - [Letterbox postal eco gift | Saying sorry care package DS](https://www.mjartisangiftboxco.com/products/letterbox-postal-eco-gift-saying-sorry-care-package-ds): Letterbox postal gift | Saying sorry gifts care package A beautifully thought-out care package gift box for sending an apology to say sorry, because sometimes saying sorry is hard to do. A gorgeous mini postal box of self-care and wellness for a friend, work colleague or family member. MJ Artisan Gift Box Co. Saying sorry gifts package contains White Lavender self-heating eye mask by Sensory Retreats with guided meditation music download Lavender heart aromatherapy bath bombs by MJ Montezumas vegan milk choclate bar 25g Calming Aromatherapy roll-on essential oil therapy Lavender aromatherapy soy tea light by VelleDomus (5 hours burn time) Hanging wooden mini heart 'Sorry' Personal message on gift card Gift box and wrap. 100% natural, 100% vegan and cruelty-free, and eco-friendly All wrapped up in a beautifully gift-wrapped box, with a personalised gift card that can be posted directly to your loved one. Box size 11cm x 17cm x 2cm
-  Updated: 2026-08-29T00:59:46Z
+  Updated: 2026-11-09T13:23:15Z
   Vendor: MJ Artisan Gift Co
   Product Type: 
   Availability: Available
@@ -450,7 +443,7 @@
   Image: https://cdn.shopify.com/s/files/1/0934/0528/2634/files/e75094b7-Grief-gift-for-him-care-package-3-e1726653864966.jpg?v=1748274430
   Price: £26.60 GBP
 - [Bereavement Gift Hamper | Hug in a Box | Peace Candle Blue with Journal | DS](https://www.mjartisangiftboxco.com/products/bereavement-gift-hamper-hug-in-a-box-peace-candle-blue-with-journal-ds): Grief Gift Hamper | Hug in a Box | Peace Candle Blue with Journal Sometimes there are simply no words to express your love and care when a loved one dies. Send your love and hug in a box with this thoughtful Peace Grief gift hamper by MJ Artisan Gift Box Co. All natural, vegan-friendly, eco-conscious, sustainably, and beautifully packaged and sent directly to friends, family members or work colleagues who are grieving for their loved one. This box contains: Peace soy wax candle - Lavender and Geranium 200g jar candle with lid Peace - Aromatherapy blended pulse roller - Geranium and Bergamot - 10ml Peace - Pukka tea bags Chococco gourmet dark chocolate - 75g bar Wooden message heart hanger - please choose your favourite message 48 page dotted thoughts and feelings journal Gift card with message - Please choose your card and write your message (we will put this on your card) paper flower peony Eco Gift box hamper with ribbon Gift wrapping Sending a gift box to a grieving friend is a lovely idea because it conveys your care, support, and empathy during a difficult time. The thoughtful gesture of a gift box can provide comfort, solace, and a sense of being remembered to the grieving friend. It can also serve as a tangible reminder of your presence and willingness to help them through their grief. The items in the gift box can offer moments of joy, distraction, and self-care, helping the friend feel loved and supported amidst their sorrow. Overall, sending a gift box is a heartfelt way to express compassion and solidarity. You may also like our postal version grief hamper
-  Updated: 2026-08-29T00:59:48Z
+  Updated: 2026-11-09T13:28:41Z
   Vendor: MJ Artisan Gift Co
   Product Type: 
   Availability: Available
@@ -762,10 +755,10 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
   Updated: 2026-08-08T11:04:04Z
   Total Products: 4
 - [Thinking of You Gifts](https://www.mjartisangiftboxco.com/collections/thinking-of-you-gifts): MJ Artisan Gift Co offers eco friendly and vegan thinking of you hampers. These letterbox gifts feature natural self care sets for relaxation and stress relief.
-  Updated: 2026-10-27T11:23:24Z
+  Updated: 2026-11-11T12:26:40Z
   Total Products: 28
 - [Hug In A Box Gifts](https://www.mjartisangiftboxco.com/collections/hug-in-a-box-gifts): Send a heartfelt Hug in a Box care package, designed by a qualified psychotherapist to soothe stress, comfort grief, and nurture mental wellbeing. Shop now.
-  Updated: 2026-10-27T11:23:24Z
+  Updated: 2026-11-11T12:26:40Z
   Total Products: 28
 - [Mum to be Gifts | Natural, Vegan friendly, artisan made in UK](https://www.mjartisangiftboxco.com/collections/mum-to-be-gifts): Beautifully made in the UK, natural, vegan-friendly Mum to Be Gifts and Gift sets, to nurture and pamper Mums to be. Perfect for Baby Shower, New Mum gifts or Pregnancy.
   Updated: 2026-10-10T11:21:32Z
@@ -777,22 +770,22 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
   Updated: 2026-10-10T11:21:32Z
   Total Products: 33
 - [Self Care Spa Gifts](https://www.mjartisangiftboxco.com/collections/self-care-spa-gifts): MJ Artisan Gift Co Self Care Spa Gifts feature handcrafted soaps, botanical bath salts, and organic body oils from local makers and premium wellness brands.
-  Updated: 2026-10-27T11:23:24Z
+  Updated: 2026-11-11T12:26:40Z
   Total Products: 25
 - [New Baby Gifts](https://www.mjartisangiftboxco.com/collections/new-baby-gifts): MJ Artisan Gift Co offers curated gift hampers featuring knitted dinosaurs, vegan treats, and personalised baby boxes in pink, teal, and gender neutral rainbows.
   Updated: 2026-10-12T11:32:18Z
   Total Products: 16
 - [Mental Health Gifts](https://www.mjartisangiftboxco.com/collections/mental-health-gifts): MJ Artisan Gift Co offers a curated selection of self-care boxes, journals, and calming treats designed to provide comfort and support during difficult moments.
-  Updated: 2026-10-27T11:23:24Z
+  Updated: 2026-11-11T12:26:40Z
   Total Products: 34
 - [Sleep Gifts](https://www.mjartisangiftboxco.com/collections/sleep-gifts): MJ Artisan Gift Co sleep gift boxes feature lavender eye masks, organic herbal teas, and soothing bath salts designed to support relaxation and natural rest.
   Updated: 2026-08-04T15:43:15Z
   Total Products: 7
 - [SUE RYDER DROPSHIP](https://www.mjartisangiftboxco.com/collections/sue-ryder-dropship): MJ Artisan Gift Co provides a specialized trade portal for Sue Ryder dropship partners. This collection features discounted giftware and products at agreed prices.
-  Updated: 2026-10-29T11:23:54Z
+  Updated: 2026-11-12T12:25:47Z
   Total Products: 19
 - [Get Well Soon Gifts](https://www.mjartisangiftboxco.com/collections/get-well-soon-gifts): MJ Artisan Gift Co offers eco friendly get well soon hampers and vegan relaxation letterbox gifts featuring natural self care treats for stress and new mothers.
-  Updated: 2026-10-27T11:23:24Z
+  Updated: 2026-11-11T12:26:40Z
   Total Products: 30
 - [New Baby Girl Gifts](https://www.mjartisangiftboxco.com/collections/baby-girl-gifts): MJ Artisan Gift Co offers personalized new baby girl gift boxes and hampers featuring knitted pink dinosaurs and coordinated sets for mum and baby celebrations.
   Updated: 2026-10-12T11:32:18Z
@@ -825,7 +818,7 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
   Updated: 2026-07-23T00:46:37Z
   Total Products: 8
 - [Anxiety Relief Anti Stress Gifts](https://www.mjartisangiftboxco.com/collections/anxiety-relief-anti-stress-gifts): MJ Artisan Gift Co offers curated anti stress gift boxes featuring calming aromatherapy, soothing teas, and wellness essentials designed for comfort and relaxation.
-  Updated: 2026-10-27T11:23:24Z
+  Updated: 2026-11-11T12:26:40Z
   Total Products: 14
 - [Jewellery](https://www.mjartisangiftboxco.com/collections/jewellery): MJ Artisan Gift Co offers a curated selection of handcrafted necklaces, earrings, and bracelets from independent designers and premium artisan jewellery brands.
   Updated: 2026-05-28T00:46:16Z
@@ -834,7 +827,7 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
   Updated: 2026-05-28T00:46:33Z
   Total Products: 0
 - [Letterbox Postal Gifts](https://www.mjartisangiftboxco.com/collections/all-letterbox-gifts): Send thoughtful postal care packages designed by a qualified psychotherapist. Letterbox-friendly self-care gifts delivered straight through the door. Shop now.
-  Updated: 2026-11-05T12:33:26Z
+  Updated: 2026-11-11T12:26:40Z
   Total Products: 54
 - [Luxury New Mum to be gifts](https://www.mjartisangiftboxco.com/collections/luxury-new-mum-to-be-gifts): MJ Artisan Gift Co offers luxury baby-safe gift hampers featuring eco-conscious beauty and bodycare for expectant mothers in white, green, aqua, grey, and yellow.
   Updated: 2026-09-13T11:24:33Z
@@ -855,7 +848,7 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
   Updated: 2026-08-04T15:32:54Z
   Total Products: 3
 - [View All | Vegan friendly Gifts](https://www.mjartisangiftboxco.com/collections/view-all-vegan-friendly-gifts): MJ Artisan Gift Co offers sustainable UK hampers featuring luxury plant based chocolates, botanical skincare, organic snacks, and eco friendly lifestyle brands.
-  Updated: 2026-11-05T12:33:26Z
+  Updated: 2026-11-12T12:25:47Z
   Total Products: 192
 - [Saying Sorry Gifts](https://www.mjartisangiftboxco.com/collections/saying-sorry-gifts): MJ Artisan Gift Co offers vegan bereavement care packages and eco friendly sympathy gifts designed to fit through letterboxes for peaceful and thoughtful support.
   Updated: 2026-06-18T11:27:58Z
@@ -876,10 +869,10 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
   Updated: 2026-08-04T15:28:22Z
   Total Products: 1
 - [Gifts and little treats for friends](https://www.mjartisangiftboxco.com/collections/gifts-and-little-treats-for-friends): MJ Artisan Gift Co offers eco friendly and vegan gift boxes for friends. The collection includes natural self care hampers, relaxation spa sets, and letterbox hugs.
-  Updated: 2026-10-27T11:23:24Z
+  Updated: 2026-11-11T12:26:40Z
   Total Products: 15
 - [Care packages](https://www.mjartisangiftboxco.com/collections/care-packages): MJ Artisan Gift Co offers eco friendly and vegan care packages. These letterbox gifts include natural self care sets and sympathy boxes in sage, peace, and sleep.
-  Updated: 2026-11-05T12:33:26Z
+  Updated: 2026-11-11T12:26:40Z
   Total Products: 32
 - [Happy News Gift boxes](https://www.mjartisangiftboxco.com/collections/happy-news-gift-boxes): MJ Artisan Gift Co offers Happy News Gift boxes featuring curated artisan treats and celebratory items from independent brands designed to spread joy and cheer.
   Updated: 2026-07-23T00:52:24Z
@@ -1141,6 +1134,15 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
     Author: Amanda Waring MBACP MACC
   - [The Art of Crafting Bespoke Hug in a Box Gifts with Impact](https://www.mjartisangiftboxco.com/blogs/practical-ways-to-support-someone-s-mental-health/the-art-of-crafting-bespoke-hug-in-a-box-gifts-with-impact): The Art of Crafting Bespoke Hug in a Box Gifts with Impact
     Updated: 2026-11-06T10:06:37Z
+    Author: Amanda Waring MBACP MACC
+  - [Common Mistakes Made When Creating Hug in a Box Gifts and How to Avoid Them](https://www.mjartisangiftboxco.com/blogs/practical-ways-to-support-someone-s-mental-health/common-mistakes-made-when-creating-hug-in-a-box-gifts-and-how-to-avoid-them): Common Mistakes Made When Creating Hug in a Box Gifts and How to Avoid Them
+    Updated: 2026-11-09T10:03:14Z
+    Author: Amanda Waring MBACP MACC
+  - [The Growing Popularity of Hug in a Box: What You Need to Know](https://www.mjartisangiftboxco.com/blogs/practical-ways-to-support-someone-s-mental-health/the-growing-popularity-of-hug-in-a-box-what-you-need-to-know): The Growing Popularity of Hug in a Box: What You Need to Know
+    Updated: 2026-11-11T10:02:38Z
+    Author: Amanda Waring MBACP MACC
+  - [Step-by-Step: Creating a Memorable Hug in a Box Experience](https://www.mjartisangiftboxco.com/blogs/practical-ways-to-support-someone-s-mental-health/step-by-step-creating-a-memorable-hug-in-a-box-experience): Step-by-Step: Creating a Memorable Hug in a Box Experience
+    Updated: 2026-11-13T10:04:50Z
     Author: Amanda Waring MBACP MACC
 - [Parenting and Mental Health](https://www.mjartisangiftboxco.com/blogs/parenting-and-mental-health)
   - [The Perfect Mum to Be Hamper: Meaningful Gifts](https://www.mjartisangiftboxco.com/blogs/parenting-and-mental-health/the-perfect-mum-to-be-hamper): The Perfect Mum to Be Hamper: Meaningful Gifts
