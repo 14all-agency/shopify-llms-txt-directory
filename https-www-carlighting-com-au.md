@@ -6,7 +6,7 @@
 - Timezone: Australia/Brisbane
 - Created At: 2025-12-12T13:29:26Z
 - Contact Email: info@carlighting.com.au
-- Updated At: 2026-11-08T00:30:54.584Z
+- Updated At: 2026-11-16T00:30:34.389Z
 
 CarLighting.com.au is an Australian supplier of genuine OEM reconditioned headlights, tail lights, modules and automotive lighting components.
 We specialise in Mercedes-Benz, BMW, Audi, Volkswagen, Porsche, Land Rover and other European vehicles.
@@ -15,7 +15,7 @@ Australia-wide shipping is available, with in-store fitment and coding services 
 ## Products
 
 - [Mercedes-Benz C-Class Headlight: W205 LED 2015-2018](https://www.carlighting.com.au/products/mercedes-benz-c-class-headlight): Purchase a reconditioned Mercedes-Benz C-Class Headlight for 2015-2018 W205 models. Genuine OEM Intelligent LED unit tested for RHD and LHD compatibility.
-  Updated: 2026-11-01T01:14:41Z
+  Updated: 2026-11-13T00:50:46Z
   Vendor: Car Headlight Australia
   Product Type: 
   Availability: Available
@@ -71,7 +71,7 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT-2026-10-08T021108.497.png?v=1791392933
     Price: $1,080.00 AUD
 - [Mercedes Headlight A-Class W176 OEM LED 2015-2018 | Australia Stock](https://www.carlighting.com.au/products/mercedes-w176-led-headlight): Used & reconditioned genuine OEM LED headlight for 2015–2018 Mercedes-Benz A-Class W176. Fully tested, RHD & LHD compatible. Australia-wide supply.
-  Updated: 2026-11-01T01:14:40Z
+  Updated: 2026-11-13T00:52:21Z
   Vendor: Car Headlight Australia
   Product Type: 
   Availability: Available
@@ -85,7 +85,7 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT_78.png?v=1791392938
     Price: $1,280.00 AUD
 - [Mercedes Headlight A-Class W177 OEM Matrix 2019-2023 | Australia Stock](https://www.carlighting.com.au/products/mercedes-w177-led-matrix-headlight): Used & reconditioned genuine OEM LED Matrix  headlight for 2019–2023 Mercedes-Benz A-Class W177. Fully tested, RHD & LHD compatible. Australia-wide supply.
-  Updated: 2026-10-15T23:58:06Z
+  Updated: 2026-11-13T01:42:17Z
   Vendor: Car Headlight Australia
   Product Type: 
   Availability: Available
@@ -107,7 +107,7 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT_84.png?v=1791392944
     Price: $1,350.00 AUD
 - [Mercedes-Benz C117 Headlight | Genuine LED 2016–2019](https://www.carlighting.com.au/products/mercedes-cla-c117-led-headlight): Get a reconditioned Mercedes-Benz C117 headlight for 2016–2019 models. Genuine OEM part, fully tested for quality, and compatible with RHD and LHD vehicles.
-  Updated: 2026-10-08T03:55:00Z
+  Updated: 2026-11-13T01:17:27Z
   Vendor: Car Headlight Australia
   Product Type: 
   Availability: Available
@@ -121,7 +121,7 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT_87.png?v=1791392948
     Price: $1,080.00 AUD
 - [Mercedes Headlight CLA C118 OEM LED 2020-2023 | Australia Stock](https://www.carlighting.com.au/products/mercedes-cla-c118-led-headlight): Used & reconditioned genuine OEM LED headlight for 2020–2023 Mercedes-Benz CLA C118. Fully tested, RHD & LHD compatible. Australia-wide supply.libration or programming is not included
-  Updated: 2026-10-07T17:13:58Z
+  Updated: 2026-11-13T00:54:46Z
   Vendor: Car Headlight Australia
   Product Type: 
   Availability: Available
@@ -149,7 +149,7 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/mercedes-benz-gla-w156-2014-2016-reconditioned-led-headlight-rhd-lhd-compatible-1136112.webp?v=1785562398
     Price: $990.00 AUD
 - [Mercedes-Benz E-Class Headlight | W213 LED 2017-2020](https://www.carlighting.com.au/products/mercedes-e-class-w213-headlight): Shop a reconditioned Mercedes-Benz E-Class Headlight for W213 models. Tested LED units compatible with RHD and LHD vehicles, shipping throughout Australia.
-  Updated: 2026-10-07T17:13:59Z
+  Updated: 2026-11-13T01:14:51Z
   Vendor: Car Headlight Australia
   Product Type: 
   Availability: Available
@@ -177,7 +177,7 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT_73.png?v=1791392955
     Price: $1,080.00 AUD
 - [Audi Headlight A3 S3 RS3 OEM LED 2017-2020 | Australia Stock](https://www.carlighting.com.au/products/audi-a3-s3-rs3-led-headlight): Used & reconditioned genuine OEM LED headlight for 2017–2020 Audi A3, S3 and RS3 models. Fully tested. RHD & LHD compatible. Australia-wide supply.
-  Updated: 2026-11-05T06:43:26Z
+  Updated: 2026-11-11T08:06:06Z
   Vendor: Car Headlight Australia
   Product Type: 
   Availability: Available
@@ -233,7 +233,7 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/audi-q3-8u-2015-2018-reconditioned-led-headlight-rhd-lhd-compatible-5445841.webp?v=1785562437
     Price: $990.00 AUD
 - [Audi Headlight Q5 FY OEM LED 2017-2020 | Australia Stock](https://www.carlighting.com.au/products/audi-q5-fy-oem-led-light): Used & reconditioned genuine OEM LED headlight for 2017–2020 Audi Q5 FY models. Fully tested. RHD & LHD compatible. Australia-wide supply.
-  Updated: 2026-10-07T17:14:05Z
+  Updated: 2026-11-13T01:13:36Z
   Vendor: Car Headlight Australia
   Product Type: 
   Availability: Available
@@ -247,7 +247,7 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/audi-q5-fy-2017-2020-reconditioned-led-headlight-rhd-lhd-compatible-5777273.webp?v=1785562444
     Price: $990.00 AUD
 - [Audi Headlight Q5 FY OEM LED 2021-2023 | Australia Stock](https://www.carlighting.com.au/products/audi-q5-fy-led-headlight): Used & reconditioned genuine OEM LED headlight for 2021–2023 Audi Q5 FY models. Fully tested. RHD & LHD compatible. Australia-wide supply.
-  Updated: 2026-10-08T04:42:54Z
+  Updated: 2026-11-13T01:09:26Z
   Vendor: Car Headlight Australia
   Product Type: 
   Availability: Available
@@ -400,6 +400,20 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACH_HEADLIGHT_67.png?v=1791392986
     Price: $1,080.00 AUD
+- [Mercedes-Benz GLS LED Headlight 2019-2023 | X167 OEM](https://www.carlighting.com.au/products/mercedes-gls-x167-led-headlight): Find a reconditioned Mercedes-Benz GLS LED Headlight 2019-2023 for X167 models. This genuine part is fully tested and compatible with RHD and LHD vehicles.
+  Updated: 2026-11-13T00:55:07Z
+  Vendor: Car Headlight Australia
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT_91.png?v=1791392989
+  - [Left](https://www.carlighting.com.au/products/mercedes-gls-x167-led-headlight?variant=46044760637590)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT_89.png?v=1791392992
+    Price: $1,780.00 AUD
+  - [Right](https://www.carlighting.com.au/products/mercedes-gls-x167-led-headlight?variant=46044760670358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT_90.png?v=1791392990
+    Price: $1,780.00 AUD
 - [BMW X5 X6 G05/G06 2019–2022 Laser LED Headlight | OEM](https://www.carlighting.com.au/products/bmw-x5-x6-g05-g06-laser-headlight): Shop a reconditioned BMW X5 X6 G05/G06 2019–2022 Laser LED Headlight. This tested genuine part is compatible with both RHD and LHD BMW SUV models.
   Updated: 2026-11-05T02:17:46Z
   Vendor: Car Headlight Australia
@@ -485,7 +499,7 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT-2026-10-08T024322.438.png?v=1791393004
     Price: $1,480.00 AUD
 - [Audi Headlight A3 S3 RS3 Matrix LED 2017-2020 | Australia Stock](https://www.carlighting.com.au/products/audi-a3-s3-rs3-matrix-headlight): 2017-2020 AUDI A3/S3/RS3 OE/OEM Part Number: 8V0941034C, 8V0941034, 8V0941774K, 8V0941774D，8V0941033C, 8V0941033, 8V0941773, 8V0941773K, 8V0941773D,Ship Australia Wide
-  Updated: 2026-11-05T02:17:46Z
+  Updated: 2026-11-13T01:22:06Z
   Vendor: Car Headlight Australia
   Product Type: 
   Availability: Available
@@ -498,8 +512,22 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT-2026-10-08T024516.604.png?v=1791393009
     Price: $2,150.00 AUD
+- [Mercedes Headlight W177 A200 A220 A250 2019-2023 | Australia Stock](https://www.carlighting.com.au/products/mercedes-a-class-w177-headlight): Used & reconditioned genuine OEM LED headlight for 2019–2022 Mercedes-Benz A-Class W177. Fully tested, RHD & LHD compatible. Australia-wide supply.
+  Updated: 2026-11-13T00:56:21Z
+  Vendor: Car Headlight Australia
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT_81.png?v=1791393012
+  - [Left](https://www.carlighting.com.au/products/mercedes-a-class-w177-headlight?variant=46311082623126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT_80.png?v=1791393014
+    Price: $990.00 AUD
+  - [Right](https://www.carlighting.com.au/products/mercedes-a-class-w177-headlight?variant=46311082655894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT_79.png?v=1791393013
+    Price: $990.00 AUD
 - [Mercedes-Benz W167 GLE Matrix LED Headlight 2019-2023](https://www.carlighting.com.au/products/mercedes-w167-gle-matrix-headlight): Shop this Mercedes-Benz W167 GLE Matrix LED Headlight 2019-2023. This reconditioned unit is compatible with RHD and LHD vehicles for left or right fitment.
-  Updated: 2026-11-05T02:17:48Z
+  Updated: 2026-11-12T05:41:06Z
   Vendor: Car Headlight Australia
   Product Type: 
   Availability: Available
@@ -509,7 +537,7 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT_70.png?v=1791393015
     Price: $2,368.00 AUD
   - [Right](https://www.carlighting.com.au/products/mercedes-w167-gle-matrix-headlight?variant=46352283664534)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT_71.png?v=1791393016
     Price: $2,368.00 AUD
 - [Genuine BMW 5 Series G30 G31 2018–2020 Reconditioned LED Headlight](https://www.carlighting.com.au/products/bmw-g30-g31-led-headlight): Product Description This BMW 5 Series G30 G31 2018–2020 Reconditioned LED Headlight is a professionally tested and reconditioned genuine BMW headlight assembly. Suitable for selected BMW 5 Series G30 Sedan and G31 Touring models. This LED headlight is designed to provide original factory fitment, appearance and performance while offering a cost-effective replacement for damaged or faulty headlight units. All reconditioned headlights are inspected and tested before dispatch. Cosmetic condition may vary slightly due to the nature of genuine used parts. Vehicle Compatibility Manufacturer Part Numbers: 63118499120, 63117414960, 63117439 192, 63118499119, 63118499128, 63118492839, 63117214959, 63117439191 This BMW 5 Series G30 G31 LED Headlight must be matched to your vehicle's existing part number. ⚠️ Please verify your original part number before purchasing. Not compatible with Halogen, Adaptive LED, Matrix LED or Laser Headlight systems unless specifically stated. All mounting tabs and connectors are intact unless stated otherwise Reconditioning refers to functional testing and basic restoration only Coding, calibration or programming is not included Please ensure professional fitting where required for this OEM headlight assembly
@@ -568,6 +596,20 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/7.png?v=1785562633
     Price: $1,480.00 AUD
+- [Genuine Mercedes-Benz C-Class W205 2014–2017 LED Headlight](https://www.carlighting.com.au/products/genuine-mercedes-benz-c-class-w205-2014-2017-led-headlight): Product Description This Mercedes-Benz C-Class W205 LED Headlight 2014–2017 is a professionally tested and reconditioned genuine Mercedes-Benz headlight assembly. Suitable for selected Mercedes-Benz C-Class W205 pre-facelift models, including C180, C200, C250, C300, C350e and related variants where the original specification matches. This LED Headlight is designed to provide original factory fitment, appearance and lighting performance while offering a cost-effective replacement for damaged or faulty headlight units. All reconditioned headlights are inspected and tested before dispatch. Cosmetic condition may vary slightly due to the nature of genuine used parts. Vehicle Compatibility OE/OEM Part Numbers: A2539062504, A2539066901, A2539066303, A2539066403, A2539067001，A2059067303, A2059067302, A2058203661, A2059062302, A2059063703, This Mercedes-Benz C-CLASS W205 LED Headlight must be matched to your vehicle's existing OEM part number. ⚠️ Please verify your original OEM part number before purchasing. Compatibility depends on the original factory specification. Not compatible with Halogen, Adaptive LED, Matrix LED or Laser Headlight systems unless specifically stated.
+  Updated: 2026-11-13T01:15:26Z
+  Vendor: Car Headlight Australia
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT_97.png?v=1791393039
+  - [Left](https://www.carlighting.com.au/products/genuine-mercedes-benz-c-class-w205-2014-2017-led-headlight?variant=46445231964310)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT_95.png?v=1791393041
+    Price: $1,180.00 AUD
+  - [Right](https://www.carlighting.com.au/products/genuine-mercedes-benz-c-class-w205-2014-2017-led-headlight?variant=46445231997078)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/ACHHEADLIGHT_96.png?v=1791393040
+    Price: $1,180.00 AUD
 - [Genuine BMW X1 U11 2022–2024 Reconditioned Headlight (RHD / LHD)](https://www.carlighting.com.au/products/bmw-x1-u11-2022-2024-reconditioned-led-headlight): Product Description This BMW X1 U11 LED Headlight 2022–2024 is a professionally tested and reconditioned genuine BMW headlight assembly. Suitable for selected BMW X1 U11 models, including sDrive18i, sDrive20i, xDrive20i, xDrive23i and related variants where the original specification matches. This LED Headlight is designed to provide original factory fitment, appearance and lighting performance while offering a cost-effective replacement for damaged or faulty headlight units. All reconditioned headlights are inspected and tested before dispatch. Cosmetic condition may vary slightly due to the nature of genuine used parts. Vehicle Compatibility OE/OEM Part Numbers: 5A9A232，5A9A231 This BMW X1 U11 LED Headlight must be matched to your vehicle's existing OEM part number. ⚠️ Please verify your original OEM part number before purchasing. Compatibility depends on the original factory specification, including model year, trim level, lighting system, control modules and regional market specification. Not compatible with Halogen, Adaptive LED, Matrix LED, Laser Headlight or other non-matching headlight systems unless specifically stated.
   Updated: 2026-11-05T02:17:46Z
   Vendor: Car Headlight Australia
@@ -754,25 +796,25 @@ Australia-wide shipping is available, with in-store fitment and coding services 
 ## Collections
 
 - [All Genuine Reconditioned Headlights](https://www.carlighting.com.au/collections/shop-all-car-headlights-australia): Shop reconditioned headlights for BMW, Audi, Mercedes and Porsche. Genuine OEM units, fully tested, with RHD and LHD options.
-  Updated: 2026-11-05T12:19:25Z
+  Updated: 2026-11-12T12:19:01Z
   Total Products: 53
 - [Genuine Mercedes-Benz Reconditioned Headlights](https://www.carlighting.com.au/collections/mercedes-benz-oem-led-headlights): Browse OEM LED headlights for Mercedes-Benz A-Class, C-Class, E-Class, GLC, GLE & GLS. Genuine used & reconditioned units. Australia-wide supply.
-  Updated: 2026-11-05T12:19:25Z
+  Updated: 2026-11-12T12:19:01Z
   Total Products: 22
 - [Genuine BMW Reconditioned Headlights](https://www.carlighting.com.au/collections/bmw-oem-led-headlights): Shop genuine Genuine BMW headlights. Used & professionally reconditioned units, fully tested. Australia-wide supply.
   Updated: 2026-11-02T12:15:48Z
   Total Products: 20
 - [Genuine Audi Reconditioned Headlights](https://www.carlighting.com.au/collections/audi-oem-led-headlights): Shop genuine OEM LED AUDI headlights. Used & professionally reconditioned units, fully tested. RHD & LHD options available. Australia-wide supply.
-  Updated: 2026-11-05T12:19:25Z
+  Updated: 2026-11-11T12:17:12Z
   Total Products: 10
 - [Genuine Porsche Reconditioned Headlights](https://www.carlighting.com.au/collections/porsche-oem-led-headlights): Shop genuine OEM LED headlights for Porsche vehicles. Used & professionally reconditioned units, fully tested. RHD & LHD options available. Australia-wide supply.
   Updated: 2026-10-31T16:36:20Z
   Total Products: 2
 - [AVADA - Best Sellers](https://www.carlighting.com.au/collections/avada-best-sellers)
-  Updated: 2026-11-05T12:19:25Z
+  Updated: 2026-11-12T12:19:01Z
   Total Products: 67
 - [All Products (ChatGPT-AI Product Description)](https://www.carlighting.com.au/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-11-05T12:19:25Z
+  Updated: 2026-11-12T12:19:01Z
   Total Products: 67
 - [Mandatory Fees](https://www.carlighting.com.au/collections/mandatory-fees)
   Updated: 2026-07-24T02:49:31Z
@@ -1280,6 +1322,30 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Author: Harry
   - [Replacing Genuine OEM Headlights on Mercedes-Benz CLA C118: Insights for Sydney](https://www.carlighting.com.au/blogs/news/replacing-genuine-oem-headlights-on-mercedes-benz-cla-c118-insights-for-sydney): Replacing Genuine OEM Headlights on Mercedes-Benz CLA C118: Insights for Sydney
     Updated: 2026-11-07T00:49:14Z
+    Author: Harry
+  - [Genuine BMW X1 U11 Reconditioned OEM Headlights: Diagnostic & Compatibility Insights for Australian Buyers](https://www.carlighting.com.au/blogs/news/genuine-bmw-x1-u11-reconditioned-oem-headlights-diagnostic-compatibility-insights-for-australian-buyers): Genuine BMW X1 U11 Reconditioned OEM Headlights: Diagnostic & Compatibility Insights for Australian Buyers
+    Updated: 2026-11-08T00:31:59Z
+    Author: Harry
+  - [Genuine Audi Q5 FY LED Headlights Upgrade: A Complete Guide to Reconditioned OEM Replacements in Australia](https://www.carlighting.com.au/blogs/news/genuine-audi-q5-fy-led-headlights-upgrade-a-complete-guide-to-reconditioned-oem-replacements-in-australia): Genuine Audi Q5 FY LED Headlights Upgrade: A Complete Guide to Reconditioned OEM Replacements in Australia
+    Updated: 2026-11-09T00:50:49Z
+    Author: Harry
+  - [Understanding Genuine OEM Headlights: Reconditioned Mercedes-Benz C-Class W206 LED Options for Australia](https://www.carlighting.com.au/blogs/news/understanding-genuine-oem-headlights-reconditioned-mercedes-benz-c-class-w206-led-options-for-australia): Understanding Genuine OEM Headlights: Reconditioned Mercedes-Benz C-Class W206 LED Options for Australia
+    Updated: 2026-11-10T00:48:40Z
+    Author: Harry
+  - [The Ultimate Audi Headlight Replacement Guide: Genuine OEM Options and Reconditioned Solutions for Brisbane](https://www.carlighting.com.au/blogs/news/the-ultimate-audi-headlight-replacement-guide-genuine-oem-options-and-reconditioned-solutions-for-brisbane): The Ultimate Audi Headlight Replacement Guide: Genuine OEM Options and Reconditioned Solutions for Brisbane
+    Updated: 2026-11-11T00:50:12Z
+    Author: Harry
+  - [Genuine Audi Q7 Reconditioned Xenon HID Headlights: Your Guide to OEM Compatibility and Replacement in Australia](https://www.carlighting.com.au/blogs/news/genuine-audi-q7-reconditioned-xenon-hid-headlights-your-guide-to-oem-compatibility-and-replacement-in-australia): Genuine Audi Q7 Reconditioned Xenon HID Headlights: Your Guide to OEM Compatibility and Replacement in Australia
+    Updated: 2026-11-12T00:49:51Z
+    Author: Harry
+  - [Genuine Mercedes-Benz C-Class W205 Headlights: Reconditioned OEM Matrix LED Insights for Audi BMW Owners in Australia](https://www.carlighting.com.au/blogs/news/genuine-mercedes-benz-c-class-w205-headlights-reconditioned-oem-matrix-led-insights-for-audi-bmw-owners-in-australia): Genuine Mercedes-Benz C-Class W205 Headlights: Reconditioned OEM Matrix LED Insights for Audi BMW Owners in Australia
+    Updated: 2026-11-13T00:51:52Z
+    Author: Harry
+  - [BMW X1 F48 LCI Genuine OEM Headlights: A Reconditioned Guide for Sydney Brisbane and Melbourne](https://www.carlighting.com.au/blogs/news/bmw-x1-f48-lci-genuine-oem-headlights-a-reconditioned-guide-for-sydney-brisbane-and-melbourne): BMW X1 F48 LCI Genuine OEM Headlights: A Reconditioned Guide for Sydney Brisbane and Melbourne
+    Updated: 2026-11-14T00:46:31Z
+    Author: Harry
+  - [Master DIY Headlight Replacement: Genuine BMW Audi and Mercedes-Benz OEM Solutions for Australian Vehicles](https://www.carlighting.com.au/blogs/news/master-diy-headlight-replacement-genuine-bmw-audi-and-mercedes-benz-oem-solutions-for-australian-vehicles): Master DIY Headlight Replacement: Genuine BMW Audi and Mercedes-Benz OEM Solutions for Australian Vehicles
+    Updated: 2026-11-15T00:30:54Z
     Author: Harry
 
 ## Store Pages
