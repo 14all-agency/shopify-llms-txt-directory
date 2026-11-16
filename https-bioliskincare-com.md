@@ -12,7 +12,7 @@ Beyond its products, Bioli publishes Bionotes, an educational knowledge hub feat
 - Timezone: Europe/Copenhagen
 - Created At: 2022-01-14T11:41:51Z
 - Contact Email: info@bioliskincare.com
-- Updated At: 2026-11-08T00:18:26.774Z
+- Updated At: 2026-11-16T00:17:46.265Z
 
 Bioli is a Danish biotech skincare company founded in 2021. Our mission is to improve skin health while minimizing environmental impact through biotechnology.
 
@@ -75,7 +75,7 @@ https://bioliskincare.com/blogs/bionotes
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/Bioli_Gift_Set_-_Cleanser_Serum_Day_Cream.png?v=1777442179
   Price: kr 1,336.50 DKK
 - [Full Skincare Gift Set – 4 Piece Biotech Bundle | Bioli](https://bioliskincare.com/products/gift-set-cleanser-serum-daycream-towel): Beautiful skincare gift set with cleanser, day cream, serum and a facial towel. Fragrance-free, allergy- and gentle on sensitive skin. Beautifully gift-ready.
-  Updated: 2026-09-24T20:49:56Z
+  Updated: 2026-11-12T12:25:34Z
   Vendor: Bioli
   Product Type: Gift Set
   Availability: Available
@@ -89,7 +89,7 @@ https://bioliskincare.com/blogs/bionotes
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioliskincare.com_Images_4.5.png?v=1780645959
   Price: kr 1,485.00 DKK
 - [Skincare Essentials – Cleanser & Day Cream | Bioli](https://bioliskincare.com/products/cleanser-day-cream): Mindful skincare gift set with cleanser and serum. Fragrance-free, allergy- and gentle on sensitive skin. Save 10% on Routine Sets.
-  Updated: 2026-09-16T21:17:32Z
+  Updated: 2026-11-13T11:42:47Z
   Vendor: Bioli
   Product Type: Bundle
   Availability: Available
@@ -110,14 +110,14 @@ https://bioliskincare.com/blogs/bionotes
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-daycream-unisex-groming-beaty-skincare-versitile-biotech.jpg?v=1788164167
   Price: kr 485.00 DKK
 - [Skincare Gift Set – 2-in-1-cleanser and face towel | Bioli](https://bioliskincare.com/products/gift-set-cleanser-towel): Gift set with Bioli's gentle 2-in-1-cleanser and exfoliator and a soft facial towel. Fragrance-free, unisex skincare for healthy skin in a beautiful gift box. 100% biodegradable packaging.
-  Updated: 2026-09-24T21:47:34Z
+  Updated: 2026-11-12T12:18:46Z
   Vendor: Bioli
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-conscious-gift-set-cleanser-towel-1.jpg?v=1789654063
   Price: kr 500.00 DKK
 - [Skincare Gift Set – Gentle face cream and face towel | Bioli](https://bioliskincare.com/products/gift-set-face-cream-towel): Gift set with Bioli's gentle face cream and a soft facial towel. Fragrance-free, unisex skincare with 8-hour moisturization and antioxidant protection. 100% biodegradable packaging.
-  Updated: 2026-09-24T22:29:57Z
+  Updated: 2026-11-12T12:21:54Z
   Vendor: Bioli
   Product Type: Gift Set
   Availability: Available
@@ -127,13 +127,13 @@ https://bioliskincare.com/blogs/bionotes
 ## Collections
 
 - [Conscious Gift Boxes](https://bioliskincare.com/collections/conscious-gift-set): Thoughtful skincare gift sets for all skin types. Fragrance-free, allergy-, and 100% biodegradable packaging.
-  Updated: 2026-10-22T07:56:15Z
+  Updated: 2026-11-12T12:25:35Z
   Total Products: 4
 - [Bioli Products](https://bioliskincare.com/collections/bioli-products): Everyday biotech skincare with targeted efficacy and silky textures. Fragrance-free, dermatologically , made in Denmark. 100% biodegradable packaging.
-  Updated: 2026-11-07T12:11:28Z
+  Updated: 2026-11-08T12:10:17Z
   Total Products: 3
 - [Routine Sets](https://bioliskincare.com/collections/routine-sets): Complete daily skincare routines with bioactive enzyme technology. Gentle, effective, and eco-friendly.
-  Updated: 2026-10-24T11:06:07Z
+  Updated: 2026-11-14T12:07:10Z
   Total Products: 4
 
 ## Blogs
@@ -272,7 +272,7 @@ https://bioliskincare.com/blogs/bionotes
   - [A guide to sustainable, thoughtful gifts](https://bioliskincare.com/blogs/bionotes/a-guide-to-sustainable-thoughtful-gifts): <p>No matter how well you know someone, selecting the right gift can be difficult. These days, you may also want it to feel thoughtful and long-lasting. <a href="https://www.theguardian.com/lifeandstyle/2026/mar/27/lessons-from-enoughfluencers-how-to-live-happier-simpler-life">The rise of “enoughfluencers”</a> reflects a growing interest in conscious consumption as a way to improve our day-to-day lives – and the world.</p>
 <p>So how do you pick a gift that feels relevant and personal, maybe even a bit luxe, without adding to the pile? While gift-giving is often associated with indulgence, thoughtfully chosen, sustainable gifts offer an impactful way to show you care for both the recipient and the planet.</p>
 <p>But how do you find those? We’ve put together a guide to sustainable, quality gifts that don’t cost the Earth, including a few tips for getting started.<br></p>
-    Updated: 2026-10-01T07:55:10Z
+    Updated: 2026-11-15T10:10:03Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Sustainable care
   - [Interview in Elle – Changing the direction of skincare with biotech](https://bioliskincare.com/blogs/bionotes/interview-in-elle-changing-the-direction-of-skincare-with-biotech): <h5>
@@ -406,8 +406,10 @@ https://bioliskincare.com/blogs/bionotes
   Updated: 2026-10-19T14:11:35Z
 - [Insights](https://bioliskincare.com/pages/insights): We believe transparency and knowledge are essential to making informed choices. By sharing insights, we aim to make complex topics easier to unders...
   Updated: 2026-10-22T18:24:17Z
-- [Meet the authors behind Bioli's insights | Bioli](https://bioliskincare.com/pages/the-authors-behind-biolis-insights): Behind the articles, skincare guides and educational content on Bioli’s website is a team bringing together expertise in biotechnology, scientific ...
-  Updated: 2026-10-23T11:10:02Z
+- [Meet the authors behind Bioli's insights | Bioli](https://bioliskincare.com/pages/the-authors-behind-biolis-insights): Behind the articles, skincare guides and educational content on Bioli’s website is a team that unites expertise in biotechnology, scientific resear...
+  Updated: 2026-11-09T08:11:20Z
+- [ELLE Awards 2026 Nominee: Get a free Day Cream](https://bioliskincare.com/pages/discover): Celebrate Bioli's ELLE Award nomination and get a FREE Day Cream to discover highly effective, biotech-powered, unisex skincare with the purchase o...
+  Updated: 2026-11-12T13:04:04Z
 
 ## Policies
 
