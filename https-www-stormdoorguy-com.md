@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2024-04-09T19:42:44Z
 - Contact Email: office@stormdoorguy.com
-- Updated At: 2026-11-09T12:51:27.063Z
+- Updated At: 2026-11-16T16:48:54.140Z
 
 ## Products
 
@@ -15,7 +15,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.stormdoorguy.com/policies/privacy-policy)
-  Updated: 2026-09-11T15:52:28Z
+  Updated: 2026-11-10T06:41:13Z
 - [Shipping Policy](https://www.stormdoorguy.com/policies/shipping-policy)
   Updated: 2026-09-11T15:53:21Z
 - [Refund Policy](https://www.stormdoorguy.com/policies/refund-policy)
