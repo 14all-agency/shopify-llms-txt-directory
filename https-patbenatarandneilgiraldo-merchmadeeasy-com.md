@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2022-05-04T17:05:02Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-08T00:18:06.184Z
+- Updated At: 2026-11-16T00:16:46.762Z
 
 ## Products
 
 - [1979-2022 Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/pat-and-neil-1979-2022-tee): 100% ringspun combed cotton Mineral washed for vintage look Preshrunk to minimize shrinkage
-  Updated: 2026-10-30T14:22:50Z
+  Updated: 2026-11-12T21:48:39Z
   Vendor: Pat Benatar and Neil Giraldo - Vintage
   Product Type: T-Shirt
   Availability: Available
@@ -34,8 +34,32 @@
   - [3X-Large](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/pat-and-neil-1979-2022-tee?variant=42309677121685)
     Availability: Not Available
     Price: $25.00 USD
+- [2022 De Novo Tour Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/pat-neil-2022-denovo-tour-tee): 4.5 oz./yd², pre-shrunk 100% ringspun USA cotton Reactive-dyed for longer lasting color Ribbed crewneck collar Back neck tape Shoulder-to-shoulder taping Double-needle stitching on sleeves and bottom hem Tear away label
+  Updated: 2026-11-12T21:48:39Z
+  Vendor: Pat Benatar and Neil Giraldo - Vintage
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0616/8399/0677/files/2022DeNovoTourTee.png?v=1752512947
+  - [Small](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/pat-neil-2022-denovo-tour-tee?variant=42309843681429)
+    Availability: Available
+    Price: $25.00 USD
+  - [Medium](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/pat-neil-2022-denovo-tour-tee?variant=42309843714197)
+    Availability: Available
+    Price: $25.00 USD
+  - [Large](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/pat-neil-2022-denovo-tour-tee?variant=42309843746965)
+    Availability: Available
+    Price: $25.00 USD
+  - [X-Large](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/pat-neil-2022-denovo-tour-tee?variant=42309843779733)
+    Availability: Available
+    Price: $25.00 USD
+  - [2X-Large](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/pat-neil-2022-denovo-tour-tee?variant=42309843812501)
+    Availability: Available
+    Price: $25.00 USD
+  - [3X-Large](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/pat-neil-2022-denovo-tour-tee?variant=42309843845269)
+    Availability: Available
+    Price: $25.00 USD
 - [Ladies Wings Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/pat-neil-ladies-wing-tee): 4.3 oz./yd², 50/25/25 polyester/combed ringspun cotton/rayon Fabric laundered Set-in 1x1 triblend baby rib collar with coverstitching Scoop neck Curved hem Side seams Satin label
-  Updated: 2026-10-05T13:02:34Z
+  Updated: 2026-11-12T21:48:38Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -56,7 +80,7 @@
     Availability: Available
     Price: $25.00 USD
 - [1979-2023 Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/1979-2023-tee): Celebrate 44 years of Benatar and Giraldo with the 1979-2023 Tee! 100% Combed Ringspun Cotton
-  Updated: 2026-10-20T02:35:05Z
+  Updated: 2026-11-12T21:48:38Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -80,7 +104,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [2023 De Novo Tour Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/2023-de-novo-tour-tee): This De Novo 2023 Tour Tee was featured on Pat & Neil's Spring tour! Pre-shrunk 100% ringspun USA cotton
-  Updated: 2026-10-20T02:34:50Z
+  Updated: 2026-11-12T21:48:38Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -104,7 +128,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Benatar & Giraldo Photo Hoodie](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/benatar-giraldo-photo-hoodie): This hoodie features some live photos of Pat and Neil! 80/20 cotton/polyester blend fleece with 100% cotton face
-  Updated: 2026-10-20T02:34:28Z
+  Updated: 2026-11-12T21:48:38Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: Hoodie
   Availability: Available
@@ -128,28 +152,28 @@
     Availability: Not Available
     Price: $50.00 USD
 - [Ladies Rose Diamond Wings Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/ladies-pink-wings-tee): 65/35 polyester/combed ringspun cotton Size Chart Size Body Length (in) Chest Width (Laid Flat) S 24 18 1/2 M 24 1/2 19 1/2 L 25 1/4 20 1/2 XL 25 3/4 22 2XL 26 1/2 23 1/2
-  Updated: 2026-10-05T13:02:36Z
+  Updated: 2026-11-12T21:48:37Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8399/0677/files/PBNG_0003_Ladies-Pink-Wings-Tee.png?v=1733845739
   - [Small](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/ladies-pink-wings-tee?variant=43544427987093)
     Availability: Not Available
-    Price: $20.00 USD
+    Price: $25.00 USD
   - [Medium](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/ladies-pink-wings-tee?variant=43544428019861)
     Availability: Not Available
-    Price: $20.00 USD
+    Price: $25.00 USD
   - [Large](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/ladies-pink-wings-tee?variant=43544428052629)
     Availability: Not Available
-    Price: $20.00 USD
+    Price: $25.00 USD
   - [X-Large](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/ladies-pink-wings-tee?variant=43544428085397)
     Availability: Available
-    Price: $20.00 USD
+    Price: $25.00 USD
   - [2X-Large](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/ladies-pink-wings-tee?variant=43544428118165)
     Availability: Available
-    Price: $20.00 USD
+    Price: $25.00 USD
 - [Neon Photo Tee 2024](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/neon-photo-tee): 2024 dates Pre-shrunk 100% ringspun USA cotton
-  Updated: 2026-10-20T02:33:48Z
+  Updated: 2026-11-12T21:48:37Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -173,7 +197,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Funtastic 2023 Tour Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/funtastic-2023-tour-tee): Pre-shrunk 100% ringspun USA cotton
-  Updated: 2026-10-20T02:33:35Z
+  Updated: 2026-11-12T21:48:37Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -197,7 +221,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Mineral Wash Wings Tour Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/mineral-wash-wings-tee): Pre-shrunk 100% heavyweight cotton
-  Updated: 2026-10-28T13:54:41Z
+  Updated: 2026-11-12T21:48:37Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -221,7 +245,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Heartbreaker Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/heartbreaker-tee): Heartbreaker Tee 50/50 ringspun cotton/polyester
-  Updated: 2026-10-20T02:32:56Z
+  Updated: 2026-11-12T21:48:37Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -245,69 +269,69 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Funtastic 2023 Tour Zip Hoodie](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/funtastic-2023-tour-zip-hoodie): 50/50 cotton/poly fleece Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/4 M 29 22 35 1/4 L 30 24 36 1/4 XL 31 26 37 1/4 2XL 32 28 37 1/4 3XL 33 30 38 1/4
-  Updated: 2026-10-19T21:44:06Z
+  Updated: 2026-11-12T21:48:37Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8399/0677/files/PBNG_0007_Funtastic-2023-Tour-Zip-Hoodie-_Back.png?v=1733845743
   - [Small](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/funtastic-2023-tour-zip-hoodie?variant=43546080051349)
     Availability: Available
-    Price: $35.00 USD
+    Price: $45.00 USD
   - [Medium](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/funtastic-2023-tour-zip-hoodie?variant=43546080084117)
     Availability: Available
-    Price: $35.00 USD
+    Price: $45.00 USD
   - [Large](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/funtastic-2023-tour-zip-hoodie?variant=43546080116885)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $45.00 USD
   - [X-Large](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/funtastic-2023-tour-zip-hoodie?variant=43546080149653)
     Availability: Available
-    Price: $35.00 USD
+    Price: $45.00 USD
   - [2X-Large](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/funtastic-2023-tour-zip-hoodie?variant=43546080182421)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $45.00 USD
   - [3X-Large](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/funtastic-2023-tour-zip-hoodie?variant=43546080215189)
     Availability: Available
-    Price: $35.00 USD
+    Price: $45.00 USD
 - [Funtastic 2023 Tour Poster](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/funtastic-2023-tour-poster): Poster from the Funtastic Tour in 2023
-  Updated: 2026-10-20T09:43:24Z
+  Updated: 2026-11-12T21:48:37Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8399/0677/files/PBNG_0009_Funtastic-2023-Tour-Poster.png?v=1733845745
   Price: $10.00 USD
 - [Precious Time CD](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/precious-time-cd): Track Listing Promises In the Dark Fire And Ice Precious Time It's A Tuff Life Take It Any Way You Want It Evil Genius Hard To Believe Helter Skelter
-  Updated: 2026-10-19T21:43:04Z
+  Updated: 2026-11-12T21:48:37Z
   Vendor: Pat Benatar and Neil Giraldo - Vintage
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8399/0677/files/PBNGPreciousTimeCD.png?v=1733845761
   Price: $10.00 USD
 - [Funtastic 2024 Tour Zip Hoodie](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/funtastic-2024-tour-zip-hoodie): 50/50 cotton/poly fleece Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/4 M 29 22 35 1/4 L 30 24 36 1/4 XL 31 26 37 1/4 2XL 32 28 37 1/4 3XL 33 30 38 1/4
-  Updated: 2026-10-19T21:42:45Z
+  Updated: 2026-11-12T21:48:36Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8399/0677/files/PBNG_0004_161855_1_295271_d.png?v=1733845762
   - [Small](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/funtastic-2024-tour-zip-hoodie?variant=44893535436949)
     Availability: Available
-    Price: $35.00 USD
+    Price: $45.00 USD
   - [Medium](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/funtastic-2024-tour-zip-hoodie?variant=44893535469717)
     Availability: Available
-    Price: $35.00 USD
+    Price: $45.00 USD
   - [Large](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/funtastic-2024-tour-zip-hoodie?variant=44893535502485)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $45.00 USD
   - [X-Large](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/funtastic-2024-tour-zip-hoodie?variant=44893535535253)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $45.00 USD
   - [2X-Large](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/funtastic-2024-tour-zip-hoodie?variant=44893535568021)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $45.00 USD
   - [3X-Large](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/funtastic-2024-tour-zip-hoodie?variant=44893535600789)
     Availability: Available
-    Price: $35.00 USD
+    Price: $45.00 USD
 - [Red Stripes Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/spring-2025-tour-red-tee): The official Pat Benatar and Neil Giraldo spring 2025 tour merchandise is online now! Shop while supplies last.
-  Updated: 2026-10-31T08:47:22Z
+  Updated: 2026-11-15T21:13:35Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -349,7 +373,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Spring 2025 Tour Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/spring-2025-tour-tee): The official Pat Benatar and Neil Giraldo spring 2025 tour merchandise is online now! Shop while supplies last.
-  Updated: 2026-10-20T02:29:53Z
+  Updated: 2026-11-12T22:21:18Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -373,7 +397,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Roses Long Sleeve](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/roses-long-sleeve): The official Pat Benatar and Neil Giraldo spring 2025 tour merchandise is online now! Shop while supplies last.
-  Updated: 2026-10-20T02:31:46Z
+  Updated: 2026-11-12T21:48:36Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -397,7 +421,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Benatar + Giraldo Hoodie](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/benatar-giraldo-hoodie): The official Pat Benatar and Neil Giraldo spring 2025 tour merchandise is online now! Shop while supplies last.
-  Updated: 2026-10-20T02:31:31Z
+  Updated: 2026-11-12T21:48:36Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: Hoodie
   Availability: Available
@@ -421,7 +445,7 @@
     Availability: Not Available
     Price: $65.00 USD
 - [Fall 2025 Tour Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/fall-2025-tour-tee-copy): The official Pat Benatar and Neil Giraldo spring 2025 tour merchandise is online now! Shop while supplies last.
-  Updated: 2026-10-20T02:29:44Z
+  Updated: 2026-11-12T21:48:36Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -445,14 +469,14 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Rose Bandana](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/rose-bandana): 22x22" cotton bandana
-  Updated: 2026-10-10T18:37:56Z
+  Updated: 2026-11-12T21:48:36Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: Bandana
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8399/0677/files/Mockup_0002s_0000_PBNG-Rose-Bandana.png?v=1783017801
   Price: $15.00 USD
 - [White Vintage Photo Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/white-vintage-photo-tee): The official Pat Benatar and Neil Giraldo spring 2025 tour merchandise is online now! Shop while supplies last.
-  Updated: 2026-10-30T14:22:27Z
+  Updated: 2026-11-12T21:48:35Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -476,7 +500,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Silhouette Zip Up](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/silhouette-zip-up): The official Pat Benatar and Neil Giraldo spring 2025 tour merchandise is online now! Shop while supplies last.
-  Updated: 2026-10-20T02:30:35Z
+  Updated: 2026-11-12T21:48:35Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: Hoodie
   Availability: Available
@@ -500,14 +524,14 @@
     Availability: Available
     Price: $80.00 USD
 - [Benatar Giraldo Tote Bag](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/benatar-giraldo-tote-bag-1): Benatar Giraldo graphic on the front 100% cotton tote
-  Updated: 2026-10-30T14:29:16Z
+  Updated: 2026-11-12T21:48:35Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8399/0677/files/Mockup_0002_PBNG-Tote_66cf5885-88fa-4c7e-89c7-a3820d35a3a4.png?v=1783018326
   Price: $20.00 USD
 - [Vintage Photo 2026 Tour Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/vintage-photo-2026-tour-tee): The official Pat Benatar and Neil Giraldo spring 2025 tour merchandise is online now! Shop while supplies last.
-  Updated: 2026-10-19T14:29:22Z
+  Updated: 2026-11-12T21:48:35Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -552,49 +576,49 @@
 ## Collections
 
 - [Home page](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-11T11:11:43Z
+  Updated: 2026-11-12T15:33:10Z
   Total Products: 53
 - [Apparel](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-31T11:10:08Z
+  Updated: 2026-11-13T12:10:02Z
   Total Products: 74
 - [Accessories](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-11T11:11:43Z
+  Updated: 2026-11-12T15:27:19Z
   Total Products: 31
 - [All](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-31T11:10:08Z
-  Total Products: 115
+  Updated: 2026-11-13T12:10:02Z
+  Total Products: 26
 - [Funtastic Tour](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/funtastic-tour)
-  Updated: 2026-10-07T11:09:37Z
+  Updated: 2026-11-12T15:33:10Z
   Total Products: 19
 - [Vintage Collection](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/vintage-collection)
-  Updated: 2026-10-07T11:09:37Z
+  Updated: 2026-11-12T15:26:55Z
   Total Products: 10
 - [Vintage Apparel](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/vintage-apparel)
-  Updated: 2026-08-10T11:09:31Z
+  Updated: 2026-11-12T15:26:55Z
   Total Products: 43
 - [Vintage Accessories](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/vintage-accessories)
   Updated: 2026-06-16T19:13:19Z
   Total Products: 6
 - [Bracelets](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/bracelets)
-  Updated: 2026-10-04T11:10:12Z
+  Updated: 2026-11-12T15:27:19Z
   Total Products: 2
 - [Media](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/media)
   Updated: 2026-06-16T20:14:36Z
   Total Products: 5
 - [](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/)
-  Updated: 2026-10-07T11:09:37Z
-  Total Products: 37
+  Updated: 2026-11-12T15:33:46Z
+  Total Products: 35
 - [2024](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/2024)
-  Updated: 2026-10-07T11:09:37Z
+  Updated: 2026-11-12T15:33:10Z
   Total Products: 8
 - [Tees](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/tees)
-  Updated: 2026-10-31T11:10:08Z
+  Updated: 2026-11-13T12:10:02Z
   Total Products: 62
 - [BFCM Bundles](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/bfcm-bundles)
   Updated: 2026-06-30T00:20:22Z
   Total Products: 2
 - [$20.26 Tour Tees](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/2026-tour-tees)
-  Updated: 2026-10-31T11:10:08Z
+  Updated: 2026-11-13T12:10:02Z
   Total Products: 20
 - [$5 FRENZY](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/5-frenzy)
   Updated: 2026-06-16T19:13:21Z
@@ -603,25 +627,22 @@
   Updated: 2026-07-02T18:44:15Z
   Total Products: 12
 - [Tour Merch](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/2026-tour-merch)
-  Updated: 2026-10-31T11:10:08Z
+  Updated: 2026-11-13T12:10:02Z
   Total Products: 17
 - [2 for $12 or 3 for $15](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/memorial-day-vintage-tees)
   Updated: 2026-06-16T19:13:21Z
   Total Products: 31
 - [EasyGift All Products](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-10-31T11:10:08Z
+  Updated: 2026-11-13T12:10:02Z
   Total Products: 115
 - [$10 and under](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/10-and-under)
-  Updated: 2026-10-07T11:09:37Z
+  Updated: 2026-11-12T15:26:55Z
   Total Products: 21
 - [Outerwear](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/outerwear)
-  Updated: 2026-10-13T11:12:23Z
+  Updated: 2026-11-12T15:33:10Z
   Total Products: 13
-- [Black Friday 2025](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/black-friday-2025)
-  Updated: 2026-10-31T11:10:08Z
-  Total Products: 49
 - [Heartbreaker ](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/heartbreaker-)
-  Updated: 2026-10-31T11:10:08Z
+  Updated: 2026-11-13T12:10:02Z
   Total Products: 26
 - [Last Chance](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/last-chance)
   Updated: 2026-06-16T19:13:21Z
