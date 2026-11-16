@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2019-01-08T19:10:02Z
 - Contact Email: nt_wholesale@verizon.net
-- Updated At: 2026-11-09T00:58:24.836Z
+- Updated At: 2026-11-16T01:04:12.850Z
 
 # NT Souvenirs & Gifts — Washington, DC Souvenir Store
 
@@ -263,7 +263,7 @@ Customers can shop online or visit our physical store in Washington, DC. We welc
   Image: https://cdn.shopify.com/s/files/1/0186/2824/7616/files/28-56.jpg?v=1705007236
   Price: $2.00 USD
 - [Plastic Keychain Washington DC Monuments App in iPad, 3.5"](https://ntsouvenirs.com/products/washington-dc-monuments-app-in-ipad-plastic-keychain): Washington DC Monuments App in iPad Plastic Keychain
-  Updated: 2026-10-23T18:09:36Z
+  Updated: 2026-11-11T17:12:27Z
   Vendor: NT Souvenirs & Gifts
   Product Type: Plastic Keychain
   Availability: Available
@@ -553,7 +553,7 @@ Customers can shop online or visit our physical store in Washington, DC. We welc
     Availability: Available
     Price: $22.00 USD
 - [Black & Gold Washington DC Landmark Keychain](https://ntsouvenirs.com/products/washington-dc-3-charm-black-gold-metal-keychain-3-25): Mixed metallic finishes give this Washington DC keychain a distinctive two-tone look. A round Presidential Seal medallion anchors the design, while three hanging landmark charms highlight the Washington Monument, Lincoln Memorial, and White House in raised gold-tone detail over a black-metal background. Each charm moves independently, adding dimension and visual interest whenever the keychain is carried. The polished gold-tone key ring ties the design together and makes it easy to attach to keys, backpacks, purses, or travel bags. A stylish souvenir with a more detailed, collectible feel.
-  Updated: 2026-10-18T23:44:55Z
+  Updated: 2026-11-12T16:49:52Z
   Vendor: NT Souvenirs & Gifts
   Product Type: Metal Keychain
   Availability: Available
@@ -1001,7 +1001,7 @@ Customers can shop online or visit our physical store in Washington, DC. We welc
   Image: https://cdn.shopify.com/s/files/1/0186/2824/7616/files/C30015_1.png?v=1789331381
   Price: $5.99 USD
 - [Washington DC Landmark Collectible Gold Coin](https://ntsouvenirs.com/products/washington-dc-landmark-collectible-gold-coin): Celebrate the history and landmarks of the nation’s capital with this Washington DC Landmark Collectible Gold Coin. One side features a detailed panorama of iconic Washington, DC attractions including the U.S. Capitol, White House, Lincoln Memorial, Jefferson Memorial, and Washington Monument. The reverse displays the Great Seal of the United States with classic eagle imagery and raised lettering. Finished in a polished gold tone and presented in a clear protective capsule, this two-sided coin is perfect for collectors, travelers, history enthusiasts, and gift shoppers seeking a memorable Washington, DC souvenir. Diameter: 1.5 inWeight: 1.41 oz
-  Updated: 2026-10-18T23:46:07Z
+  Updated: 2026-11-12T16:49:53Z
   Vendor: NT Souvenirs & Gifts
   Product Type: Coin
   Availability: Available
@@ -1057,7 +1057,7 @@ Customers can shop online or visit our physical store in Washington, DC. We welc
   Image: https://cdn.shopify.com/s/files/1/0186/2824/7616/files/C30036.png?v=1789331786
   Price: $5.99 USD
 - [The Supreme Court Collectible Gold Coin](https://ntsouvenirs.com/products/the-supreme-court-collectible-gold-coin): Celebrate American history and the judicial branch with this two-sided Supreme Court Collectible Gold Coin. One side features a detailed view of the United States Supreme Court building with the iconic Contemplation of Justice statue and “Washington, DC” lettering. The reverse displays an eagle emblem surrounded by “Seal of the Supreme Court of the United States” lettering with rich red, white, blue, green, and gold accents. Presented in a clear protective capsule, this collectible coin is perfect for travelers, history enthusiasts, collectors, and gift shoppers seeking a distinctive Washington, DC souvenir. Diameter: 1.5 inWeight: 1.66 oz
-  Updated: 2026-10-18T23:46:08Z
+  Updated: 2026-11-12T16:49:56Z
   Vendor: NT Souvenirs & Gifts
   Product Type: Coin
   Availability: Available
@@ -1309,7 +1309,7 @@ Customers can shop online or visit our physical store in Washington, DC. We welc
   Image: https://cdn.shopify.com/s/files/1/0186/2824/7616/files/Screenshot2026-09-26110813.png?v=1790435342
   Price: $5.99 USD
 - [Cherry Blossom DC Panorama Shiny Wood Magnet](https://ntsouvenirs.com/products/cherry-blossom-dc-panorama-shiny-wood-magnet): Celebrate Washington, D.C. in full bloom with this Cherry Blossom DC Panorama Wood Magnet. Featuring iconic landmarks including the U.S. Capitol, Washington Monument, Jefferson Memorial, and White House, the design is surrounded by vibrant pink cherry blossoms for a bright and colorful souvenir look. Bold “Washington D.C.” lettering adds a classic finishing touch, while the layered wood construction gives the magnet added depth and dimension. Perfect for refrigerators, lockers, cabinets, or magnetic displays, this magnet makes a memorable keepsake for travelers, collectors, cherry blossom enthusiasts, and Washington, D.C. gift shoppers. Size: 3 x 2.5 x 0.2 inWeight: 0.077 lb
-  Updated: 2026-10-18T23:45:02Z
+  Updated: 2026-11-12T16:49:56Z
   Vendor: NT Souvenirs & Gifts
   Product Type: Shiny Magnets
   Availability: Available
@@ -1351,7 +1351,7 @@ Customers can shop online or visit our physical store in Washington, DC. We welc
   Image: https://cdn.shopify.com/s/files/1/0186/2824/7616/files/Screenshot2026-09-26112108.png?v=1790436079
   Price: $5.99 USD
 - [Washington D.C. Five Landmarks Ceramic Magnet](https://ntsouvenirs.com/products/washington-d-c-five-landmarks-ceramic-magnet): Celebrate the nation’s capital with this Washington D.C. Five Landmarks Ceramic Magnet. Featuring the U.S. Capitol, Washington Monument, Jefferson Memorial, White House, and Lincoln Memorial, the design combines detailed raised architecture with colorful scenery, cherry blossoms, and bold gold-tone “Washington, D.C.” lettering. The rectangular ceramic construction gives the magnet a substantial decorative feel, while the vibrant blue background helps each landmark stand out. Perfect for refrigerators, lockers, cabinets, or magnetic displays, this magnet makes a memorable keepsake for travelers, collectors, history enthusiasts, and Washington, D.C. gift shoppers. Size: 3.5 x 2.5 x 0.2 inWeight: 0.143 lb
-  Updated: 2026-10-18T23:45:03Z
+  Updated: 2026-11-12T16:49:57Z
   Vendor: NT Souvenirs & Gifts
   Product Type: Ceramic Magnet
   Availability: Available
@@ -1950,7 +1950,7 @@ Customers can shop online or visit our physical store in Washington, DC. We welc
   Image: https://cdn.shopify.com/s/files/1/0186/2824/7616/files/Screenshot2026-09-27100617.png?v=1790518011
   Price: $5.99 USD
 - [Washington DC Cherry Blossom Landmark Charm Keychain](https://ntsouvenirs.com/products/washington-dc-cherry-blossom-landmark-charm-keychain): A colorful mix of blossoms, landmarks, and city pride makes this Washington DC charm keychain a lively souvenir from the capital. The design includes three dangling charms: a bold “Washington” word charm, a pink heart-shaped “I ♥ DC” charm, and a detailed landmark charm featuring the Washington Monument, U.S. Capitol, and White House surrounded by cherry blossoms. Gold-tone hardware adds a polished finish and keeps the charms securely attached to the key ring. A fun, gift-ready keepsake for spring visitors, school trips, and Washington souvenir collections.
-  Updated: 2026-10-18T23:45:02Z
+  Updated: 2026-11-12T16:49:57Z
   Vendor: NT Souvenirs & Gifts
   Product Type: Metal Keychain
   Availability: Available
@@ -2158,7 +2158,7 @@ Customers can shop online or visit our physical store in Washington, DC. We welc
   Updated: 2026-10-25T18:34:55Z
   Total Products: 19
 - [Coffee Mugs](https://ntsouvenirs.com/collections/coffee-mug): Shop Washington, D.C. coffee mugs featuring iconic landmarks, patriotic designs, cherry blossoms, presidential themes, military styles, and classic capital souvenirs. Perfect for coffee, tea, gifts, office use, or everyday keepsakes.
-  Updated: 2026-10-24T11:07:41Z
+  Updated: 2026-11-12T12:07:04Z
   Total Products: 29
 - [Shot Glasses](https://ntsouvenirs.com/collections/shot-glasses)
   Updated: 2026-10-18T16:19:53Z
@@ -2167,25 +2167,25 @@ Customers can shop online or visit our physical store in Washington, DC. We welc
   Updated: 2026-10-18T16:19:53Z
   Total Products: 13
 - [Keychains](https://ntsouvenirs.com/collections/keychains)
-  Updated: 2026-10-24T11:07:41Z
+  Updated: 2026-11-13T12:08:46Z
   Total Products: 46
 - [Metal Keychains](https://ntsouvenirs.com/collections/metal-keychains): Shop Washington, D.C. metal keychains featuring iconic landmarks, patriotic designs, cherry blossoms, military themes, and classic capital souvenirs. Durable, collectible, and perfect for keys, bags, gifts, or everyday keepsakes.
-  Updated: 2026-10-24T11:07:41Z
+  Updated: 2026-11-13T12:08:46Z
   Total Products: 33
 - [Plastic Keychains](https://ntsouvenirs.com/collections/plastic-keychains)
-  Updated: 2026-10-24T11:07:41Z
+  Updated: 2026-11-12T12:07:04Z
   Total Products: 8
 - [Lapel Pins](https://ntsouvenirs.com/collections/lapel-pins): Shop Washington, D.C. lapel pins featuring iconic landmarks, patriotic designs, military themes, cherry blossoms, and classic capital souvenirs. Perfect for collectors, gifts, jackets, bags, and everyday keepsakes.
   Updated: 2026-10-18T16:19:53Z
   Total Products: 17
 - [Magnets](https://ntsouvenirs.com/collections/magnets): Shop Washington, D.C. magnets featuring iconic landmarks, cherry blossoms, patriotic designs, eagles, flags, monuments, and classic capital souvenirs. Perfect for refrigerators, offices, gifts, collections, and memorable keepsakes from the nation’s capital.
-  Updated: 2026-10-24T11:07:41Z
+  Updated: 2026-11-13T12:08:46Z
   Total Products: 66
 - [2D Magnet](https://ntsouvenirs.com/collections/2d-magnet)
   Updated: 2026-10-18T16:19:53Z
   Total Products: 0
 - [Coins](https://ntsouvenirs.com/collections/coins): Shop Washington, D.C. collectible coins featuring iconic landmarks, presidential seals, military themes, patriotic designs, and historic symbols. Perfect for collectors, gifts, display pieces, and memorable keepsakes from the nation’s capital.
-  Updated: 2026-10-25T20:25:57Z
+  Updated: 2026-11-13T12:08:46Z
   Total Products: 20
 - [Plush Toys](https://ntsouvenirs.com/collections/plush-toys): Shop Washington, D.C. plush toys featuring patriotic bears, dinosaurs, unicorns, frogs, dogs, and other fun capital-themed characters. Soft, colorful, and gift-ready, they make great souvenirs for kids, families, collectors, and visitors to the nation’s capital.
   Updated: 2026-10-18T16:19:53Z
@@ -2194,7 +2194,7 @@ Customers can shop online or visit our physical store in Washington, DC. We welc
   Updated: 2026-10-18T16:19:53Z
   Total Products: 12
 - [Cherry Blossom Collection](https://ntsouvenirs.com/collections/cherry-blossom-collection): Celebrate Washington, D.C.’s iconic cherry blossom season with souvenirs featuring pink blossoms, famous landmarks, and colorful capital scenes. Explore magnets, mugs, plates, snow globes, décor, gifts, and collectibles inspired by springtime in Washington, D.C.
-  Updated: 2026-10-25T18:35:09Z
+  Updated: 2026-11-13T12:08:46Z
   Total Products: 74
 - [Apparel](https://ntsouvenirs.com/collections/sweatshirt)
   Updated: 2026-10-18T16:19:53Z
@@ -2251,25 +2251,25 @@ Customers can shop online or visit our physical store in Washington, DC. We welc
   Updated: 2026-11-01T15:02:04Z
   Total Products: 77
 - [Drinkware](https://ntsouvenirs.com/collections/drinkware): Shop Washington, D.C. drinkware featuring iconic landmarks, presidential seals, cherry blossoms, patriotic designs, and classic capital souvenirs. Explore mugs, tumblers, travel cups, and shot glasses that are perfect for gifts, collections, travel memories, and everyday use.
-  Updated: 2026-10-24T11:07:41Z
+  Updated: 2026-11-12T12:07:04Z
   Total Products: 39
 - [White House Collection](https://ntsouvenirs.com/collections/white-house): Shop White House souvenirs and collectibles featuring one of Washington, D.C.’s most iconic landmarks. Explore plates, magnets, mugs, replicas, ornaments, and other keepsakes perfect for gifts, display, and remembering a visit to the nation’s capital.
-  Updated: 2026-10-25T18:35:08Z
+  Updated: 2026-11-11T12:07:39Z
   Total Products: 52
 - [The Capitol Collection](https://ntsouvenirs.com/collections/the-capitol): Shop U.S. Capitol souvenirs and collectibles featuring one of Washington, D.C.’s most recognizable landmarks. Explore replicas, magnets, mugs, plates, apparel, ornaments, and other keepsakes perfect for gifts, display, and memories of the nation’s capital.
   Updated: 2026-10-25T20:25:57Z
   Total Products: 46
 - [All Keepsakes](https://ntsouvenirs.com/collections/all-keepsakes): Explore our complete collection of Washington, D.C. keepsakes featuring iconic landmarks, patriotic designs, cherry blossoms, presidential themes, and classic capital souvenirs. Shop keychains, magnets, plates, figurines, coins, ornaments, snow globes, picture frames, lapel pins, and more for gifts, collections, and lasting memories of Washington, D.C.
-  Updated: 2026-10-25T20:25:57Z
+  Updated: 2026-11-14T12:07:36Z
   Total Products: 259
 - [Best Sellers](https://ntsouvenirs.com/collections/best-sellers)
-  Updated: 2026-10-18T17:27:03Z
+  Updated: 2026-11-13T12:08:46Z
   Total Products: 25
 - [Holiday Gifts Under $15](https://ntsouvenirs.com/collections/dc-gifts-under-15): Shop holiday gifts under $15! Discover Washington DC Christmas ornaments, snow globes, stocking stuffers and affordable keepsakes for everyone.
-  Updated: 2026-10-25T20:33:24Z
+  Updated: 2026-11-14T12:07:36Z
   Total Products: 220
 - [DC Holiday Gifts & Keepsakes](https://ntsouvenirs.com/collections/dc-holiday-gifts-keepsakes): Celebrate the holiday season with a little piece of Washington, D.C.! Discover festive souvenirs, collectible snow globes, cozy winter accessories, ornaments, and thoughtful gifts inspired by the nation's capital. Whether you're shopping for family, friends, or yourself, find memorable DC keepsakes to make the season special.
-  Updated: 2026-10-25T19:14:29Z
+  Updated: 2026-11-14T12:07:36Z
   Total Products: 55
 
 ## Blogs
@@ -2290,7 +2290,9 @@ Customers can shop online or visit our physical store in Washington, DC. We welc
 - [PRIVACY POLICY](https://ntsouvenirs.com/pages/privacy-policy): Last Updated: August 22, 2026 This Privacy Policy describes how NT Souvenirs & Gifts, also referred to as NT Souvenirs (“we,” “us,” or “our”), coll...
   Updated: 2026-10-18T16:19:54Z
 - [Search Results](https://ntsouvenirs.com/pages/rapid-search-results): .RAPID-SEARCH----DO-NOT-DELETE-THIS-PAGE { }
-  Updated: 2026-11-03T21:21:03Z
+  Updated: 2026-11-10T22:40:54Z
+- [Black Friday Deals 2026 in Washington DC | NT Souvenirs](https://ntsouvenirs.com/pages/black-friday-deals-washington-dc): 
+  Updated: 2026-11-15T20:13:50Z
 
 ## Policies
 
