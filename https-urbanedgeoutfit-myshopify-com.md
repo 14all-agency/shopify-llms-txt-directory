@@ -6,12 +6,12 @@
 - Timezone: Europe/Sofia
 - Created At: 2026-09-27T15:45:47Z
 - Contact Email: tbgnik200@gmail.com
-- Updated At: 2026-11-09T22:39:13.287Z
+- Updated At: 2026-11-17T00:15:50.340Z
 
 ## Products
 
 - [Urban Edge Heavyweight Hoodie | Oversized Streetwear Zip](https://urbanedgeoutfit.myshopify.com/products/casual-oversized-mens-hoodie-heavyweight-streetwear-style-long-sleeve-jacket): Shop the Urban Edge heavyweight hoodie. Thick fleece, oversized fit, and six colors for durable urban style.
-  Updated: 2026-10-28T01:57:10Z
+  Updated: 2026-11-09T22:51:21Z
   Vendor: Urban Edge
   Product Type: Hoodies
   Availability: Available
@@ -185,7 +185,7 @@
     Image: https://cdn.shopify.com/s/files/1/1041/1058/8281/files/3BCFD70613D6536E976160F269B9B3E9.jpg?v=1790945088
     Price: €34.99 EUR
 - [Ribbons Cargo Pants: Multi-Pocket Techwear Joggers](https://urbanedgeoutfit.myshopify.com/products/hiqor-ribbons-multi-pockets-cargo-pants-men-harajuku-casual-track-trouser-hip-hop-streetwear-techwear-pants-joggers-men): Discover techwear cargo pants with utility pockets and ribbon accents. Enjoy a relaxed tapered fit designed for everyday streetwear comfort.
-  Updated: 2026-11-07T21:31:20Z
+  Updated: 2026-11-09T22:51:21Z
   Vendor: Urban Edge
   Product Type: 
   Availability: Available
@@ -231,7 +231,7 @@
     Image: https://cdn.shopify.com/s/files/1/1041/1058/8281/files/D214FCB221699B01575157C2BA793FFD.jpg?v=1791105135
     Price: €32.99 EUR
 - [Urban Edge Washed Oversized Tee | Vintage Black Cotton](https://urbanedgeoutfit.myshopify.com/products/vintage-washed-distressed-letter-print-oversized-short-sleeve-t-shirt-unisex-couple-style-heavyweight-tee-top): Explore the Urban Edge washed oversized t-shirt with vintage black cotton and a relaxed streetwear silhouette.
-  Updated: 2026-11-07T21:31:21Z
+  Updated: 2026-11-09T22:51:22Z
   Vendor: eprolo
   Product Type: T-Shirts
   Availability: Available
@@ -297,7 +297,7 @@
     Image: https://cdn.shopify.com/s/files/1/1041/1058/8281/files/1A925B693CDD737DFD9932B610FCE24E.jpg?v=1793102926
     Price: €26.99 EUR
 - [Unisex Hoodie & Jogger Set | Urban Edge](https://urbanedgeoutfit.myshopify.com/products/solid-color-unisex-hoodie-and-sweatpants-set): Discover the Urban Essential hoodie and jogger set. A clean, matching two-piece look for everyday outfits. Check measurements to find your fit.
-  Updated: 2026-10-29T03:03:28Z
+  Updated: 2026-11-09T22:51:22Z
   Vendor: eprolo
   Product Type: Tracksuits
   Availability: Available
@@ -503,7 +503,7 @@
     Image: https://cdn.shopify.com/s/files/1/1041/1058/8281/files/5F203B5693BF03AFBA568030F553805C.jpg?v=1793199636
     Price: €54.99 EUR
 - [Gothic Washed Graphic Tee | Urban Edge](https://urbanedgeoutfit.myshopify.com/products/gothic-letter-printed-washed-round-neck-short-sleeved-shirt): Shop the Gothic Washed Graphic Tee at Urban Edge. Black cotton, a loose fit and contrasting gothic lettering for vintage-inspired streetwear.
-  Updated: 2026-10-29T03:09:23Z
+  Updated: 2026-11-09T22:51:22Z
   Vendor: eprolo
   Product Type: T-Shirts
   Availability: Available
@@ -529,7 +529,7 @@
     Image: https://cdn.shopify.com/s/files/1/1041/1058/8281/files/1ADD261F441E34B6401845DF1EDBD030.jpg?v=1793200082
     Price: €34.99 EUR
 - [Gothic Graphic Sweatpants](https://urbanedgeoutfit.myshopify.com/products/print-unisex-casual-sweatpants): Bring a darker edge to your everyday rotation with these Gothic Graphic Sweatpants. Contrasting graphics along the legs turn a casual staple into a statement piece. Pair them with an oversized tee and sneakers for an easy streetwear look.Details Gothic-inspired printed graphics Elasticated waistband with drawstring Full-length, straight-leg silhouette Cotton-blend fabric with fleece lining, according to supplier specifications Sizes S–XXXL Size guideSupplier measurements in centimetres. Compare these measurements with a similar garment before choosing your size. Size Waist (cm) Hips (cm) Length (cm) Suggested height (cm) S 70–75 98 97 168–172 M 75–80 102 99 173–177 L 80–85 104 101 178–182 XL 85–90 108 103 182–187 XXL 90–95 112 105 187–193 XXXL 95–100 116 107 193–197 Please allow a 2–4 cm variation due to manual measurement. Suggested heights are a supplier guide only; use the measurements to choose your size.
-  Updated: 2026-10-31T03:19:10Z
+  Updated: 2026-11-09T22:51:22Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -679,7 +679,7 @@
     Image: https://cdn.shopify.com/s/files/1/1041/1058/8281/files/4FF2FD15997482D65355A6DFE684486D.jpg?v=1793373454
     Price: €34.99 EUR
 - [Urban Detachable Collar Tee](https://urbanedgeoutfit.myshopify.com/products/detachable-collar-design-short-sleeve-t-shirt-for-men-and-women): One tee. Two ways to wear it.Bring a retro edge to your everyday rotation with the Urban Detachable Collar Tee. Its loose fit, dropped shoulders and clean, solid-colour design make it an easy match for cargo pants, relaxed denim and sneakers.Keep the collar on for a sharper look, or detach it when you want a more laid-back outfit. An effortless pick for city days and casual evenings. Detachable turn-down collar for versatile styling Loose fit with dropped shoulders and short sleeves Cotton fabric Available in black, white and grey Sizes S–XL Size guideMeasurements are in centimetres. Compare them with a similar top you own before choosing your size. Bust refers to the garment measurement, not your body measurement. Size Clothing Length Shoulder Width Bust Size Sleeve Length S 70 56 114 19 M 72 57 118 20 L 74 58 122 21 XL 76 59 126 22
-  Updated: 2026-11-09T03:14:05Z
+  Updated: 2026-11-09T22:51:22Z
   Vendor: eprolo
   Product Type: T-Shirts
   Availability: Available
@@ -733,7 +733,7 @@
     Image: https://cdn.shopify.com/s/files/1/1041/1058/8281/files/DF761E3DCF4819D2FB2AE394DEB7B99F.jpg?v=1794086526
     Price: €29.99 EUR
 - [Urban Essential Crewneck](https://urbanedgeoutfit.myshopify.com/products/mens-style-premium-patchwork-long-sleeve-hoodie): Keep it simple. Make it yours.The Urban Essential Crewneck brings a clean finish to your everyday rotation. Its solid-colour design, loose fit and dropped shoulders make it easy to pair with cargo pants and sneakers, or layer under a jacket when you head out.No bold graphics, just a versatile staple for coffee runs, casual plans and laid-back evenings. Classic crew neckline with no hood Loose fit with dropped shoulders Long sleeves and ribbed hem Polyester fabric Black, Light Gray and White Sizes M–2XL Find your fitUse the garment measurements below rather than your usual size. Compare them with a similar top you own. All measurements are in centimetres; chest refers to the garment circumference. Measurements are supplied by the manufacturer. Size Chest (cm) Length (cm) Shoulder (cm) Sleeve (cm) M 115 70 52 57 L 119 72 54 58 XL 123 74 56 59 2XL 127 76 58 60
-  Updated: 2026-11-08T10:09:01Z
+  Updated: 2026-11-09T22:51:22Z
   Vendor: eprolo
   Product Type: Sweatshirts
   Availability: Available
@@ -787,7 +787,7 @@
     Image: https://cdn.shopify.com/s/files/1/1041/1058/8281/files/E1E6F9FF9CFEEF02F60F6670CD0BFBBD.jpg?v=1794089219
     Price: €32.99 EUR
 - [Urban Essential Relaxed Zip Jacket](https://urbanedgeoutfit.myshopify.com/products/mens-premium-trendy-lapel-relaxed-fit-jacket): EVERYDAY LAYERS. CLEAN STREETWEAR. Keep your look simple with the Urban Essential Relaxed Zip Jacket. Its relaxed silhouette and minimal design make it easy to style over a graphic tee with cargo pants or loose-fit jeans. Zip it up or wear it open for a laid-back finish. DETAILS • Relaxed fit with room for layering• Fold-over collar• Full zip fastening• Long sleeves• No hood• Polyester-based blended fabric• Colours: Black and Light Gray• Sizes: S–3XL SIZE GUIDE All measurements are in centimetres and refer to the garment, not the body. Chest and hem measurements are full circumferences. Size | Back Length | Hem | Chest | Sleeve LengthS | 66 | 112 | 116 | 70.5M | 68 | 115 | 120 | 72.5L | 70 | 118 | 124 | 74.5XL | 72 | 121 | 128 | 76.52XL | 74 | 124 | 132 | 78.53XL | 76 | 127 | 136 | 80.5 Compare these measurements with a jacket you already own to find your preferred fit.
-  Updated: 2026-11-09T09:39:21Z
+  Updated: 2026-11-10T00:24:21Z
   Vendor: eprolo
   Product Type: Jackets
   Availability: Available
@@ -844,13 +844,13 @@
 ## Collections
 
 - [Home page](https://urbanedgeoutfit.myshopify.com/collections/frontpage)
-  Updated: 2026-10-27T13:57:05Z
+  Updated: 2026-11-09T22:51:21Z
   Total Products: 1
 - [Hoodies](https://urbanedgeoutfit.myshopify.com/collections/hoodies): Shop Urban Edge premium heavyweight hoodies. Bold streetwear for those who own the streets.
-  Updated: 2026-11-09T13:08:50Z
+  Updated: 2026-11-09T22:51:21Z
   Total Products: 5
 - [Pants](https://urbanedgeoutfit.myshopify.com/collections/pants): Shop Urban Edge streetwear pants. Cargo pants, joggers, and bold cuts built for street-ready style.
-  Updated: 2026-11-07T21:31:22Z
+  Updated: 2026-11-09T22:51:21Z
   Total Products: 3
 - [Clothing](https://urbanedgeoutfit.myshopify.com/collections/clothing)
   Updated: 2026-11-09T13:08:50Z
@@ -859,10 +859,10 @@
   Updated: 2026-10-16T19:40:17Z
   Total Products: 0
 - [T-Shirts](https://urbanedgeoutfit.myshopify.com/collections/t-shirts): Explore Urban Edge T-shirts with statement graphics and relaxed silhouettes. Find your next everyday tee and style it with your favourite cargo pants.
-  Updated: 2026-11-07T21:31:22Z
+  Updated: 2026-11-09T22:51:21Z
   Total Products: 2
 - [Tracksuits](https://urbanedgeoutfit.myshopify.com/collections/tracksuits): Explore tracksuits and matching hoodie and jogger sets at Urban Edge. Build an effortless streetwear look with coordinated everyday outfits.
-  Updated: 2026-10-28T15:10:57Z
+  Updated: 2026-11-09T22:51:21Z
   Total Products: 1
 
 ## Blogs
@@ -883,6 +883,22 @@
     Updated: 2026-11-09T10:43:48Z
     Author: The Urban Edge Team
     Tags: 2026 style, mens fashion, streetwear, techwear, urban fashion
+  - [Detachable collar shirt style guide for 2026](https://urbanedgeoutfit.myshopify.com/blogs/news/detachable-collar-shirt-style-guide-for-2026): Detachable collar shirt style guide for 2026
+    Updated: 2026-11-16T07:05:43Z
+    Author: The Urban Edge Team
+    Tags: 2026 fashion, detachable collar shirt, streetwear, urban style
+  - [10 Ways to Style Your Urban Edge Washed Tee for Every Season](https://urbanedgeoutfit.myshopify.com/blogs/news/10-ways-to-style-your-urban-edge-washed-tee-for-every-season): 10 Ways to Style Your Urban Edge Washed Tee for Every Season
+    Updated: 2026-11-09T22:43:46Z
+    Author: User
+  - [Gothic Graphic Sweatpants Uncovered How to Style with Confidence](https://urbanedgeoutfit.myshopify.com/blogs/news/gothic-graphic-sweatpants-uncovered-how-to-style-with-confidence): Gothic Graphic Sweatpants Uncovered How to Style with Confidence
+    Updated: 2026-11-11T01:03:29Z
+    Author: User
+  - [Mastering the Art of Layering with the Urban Essential Crewneck: A Comprehensive Guide](https://urbanedgeoutfit.myshopify.com/blogs/news/mastering-the-art-of-layering-with-the-urban-essential-crewneck-a-comprehensive-guide): Mastering the Art of Layering with the Urban Essential Crewneck: A Comprehensive Guide
+    Updated: 2026-11-13T00:41:16Z
+    Author: User
+  - [Unlock Your Inner Rebel with a Guide to Gothic Washed Graphic Tees](https://urbanedgeoutfit.myshopify.com/blogs/news/unlock-your-inner-rebel-with-a-guide-to-gothic-washed-graphic-tees): Unlock Your Inner Rebel with a Guide to Gothic Washed Graphic Tees
+    Updated: 2026-11-16T00:43:16Z
+    Author: User
 
 ## Store Pages
 
