@@ -6,7 +6,7 @@
 - Timezone: Asia/Hebron
 - Created At: 2025-04-25T12:04:35Z
 - Contact Email: palmosaic@gmail.com
-- Updated At: 2026-11-10T00:52:16.519Z
+- Updated At: 2026-11-17T00:59:27.253Z
 
 ## Products
 
@@ -143,13 +143,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/mahmoud-darwish-mosaic-art-black-white-portrait-ston.jpg?v=1755794363
   Price: $100.00 USD
-- [The Golden Meadow — Yellow Floral Tatreez & Stone Mosaic](https://palmosaic.com/products/the-golden-meadow-tatreez-mosaic-frame): Radiant yellow and earthy cross-stitch floral motifs embraced by native Palestinian stone mosaics. A warm, artisanal centerpiece for any living space.
-  Updated: 2026-10-25T16:23:37Z
-  Vendor: Pal-Mosaic
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/flower_embroidery_art_in_red_black_and_yellow_thread3.jpg?v=1755860745
-  Price: $90.00 USD
 - [The Earth Blossom |  Tatreez & Stone Mosaic — Pal-Mosaic](https://palmosaic.com/products/the-earth-blossom-tatreez-mosaic-frame): Warm terracotta and bronze floral tatreez cross-stitch framed in authentic Palestinian hand-cut limestone mosaic. Handcrafted with precision by Maher & Suad.
   Updated: 2026-10-25T16:23:31Z
   Vendor: Pal-Mosaic
@@ -192,6 +185,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/Photoroom.jpg?v=1784906811
   Price: $390.00 USD
+- [The Golden Meadow — Yellow Floral Tatreez & Stone Mosaic](https://palmosaic.com/products/the-golden-meadow-tatreez-mosaic-frame): Radiant yellow and earthy cross-stitch floral motifs embraced by native Palestinian stone mosaics. A warm, artisanal centerpiece for any living space.
+  Updated: 2026-11-14T21:01:41Z
+  Vendor: Pal-Mosaic
+  Product Type: Handmade Mosaic & Tatreez Wall Art
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/Tatreez_wall_art5.jpg?v=1794648097
+  Price: $85.00 USD
 
 ## Collections
 
@@ -199,13 +199,13 @@
   Updated: 2026-08-26T07:52:19Z
   Total Products: 10
 - [Handmade Mosaic & Tatreez](https://palmosaic.com/collections/cultural-embroidery-gifts-pal-mosaic): Discover cultural embroidery gifts at Pal-Mosaic, featuring unique handmade Palestinian mosaic and embroidery art that celebrates heritage.
-  Updated: 2026-08-26T07:54:35Z
-  Total Products: 16
+  Updated: 2026-11-14T09:09:29Z
+  Total Products: 15
 - [Handmade Palestinian Sculptures](https://palmosaic.com/collections/handmade-palestinian-sculptures): Discover handmade Palestinian sculptures at Pal-Mosaic. Exquisite stone pieces blending tradition and artistry for unique decor.
   Updated: 2026-07-28T07:21:16Z
   Total Products: 2
 - [AVADA - Best Sellers](https://palmosaic.com/collections/avada-best-sellers)
-  Updated: 2026-08-26T07:54:35Z
+  Updated: 2026-11-14T09:09:37Z
   Total Products: 29
 - [Handmade Mosaics & Ceramic](https://palmosaic.com/collections/ceramic-unique-ceramic-decor-gifts): Pal-Mosaic offers unique ceramic decor gifts featuring Palestinian handmade Hebron ceramics that celebrate culture and artistry.
   Updated: 2026-08-26T07:52:19Z
@@ -214,20 +214,20 @@
   Updated: 2026-08-26T07:23:34Z
   Total Products: 1
 - [AVADA Email Marketing - Newest Products](https://palmosaic.com/collections/avada-email-marketing-newest-products)
-  Updated: 2026-08-26T07:54:35Z
+  Updated: 2026-11-14T09:09:37Z
   Total Products: 26
 - [AVADA Email Marketing - Best Sellers](https://palmosaic.com/collections/avada-email-marketing-best-sellers)
-  Updated: 2026-08-26T07:54:35Z
+  Updated: 2026-11-14T09:09:37Z
   Total Products: 26
 - [all](https://palmosaic.com/collections/all)
-  Updated: 2026-08-26T07:54:35Z
+  Updated: 2026-11-14T09:09:37Z
   Total Products: 29
 - [[Shipping] 200$](https://palmosaic.com/collections/shipping-135111868600)
-  Updated: 2026-10-23T20:35:36Z
-  Total Products: 28
+  Updated: 2026-11-14T09:09:29Z
+  Total Products: 27
 - [[Shipping] General profile](https://palmosaic.com/collections/shipping-124684828856)
-  Updated: 2026-10-23T20:35:35Z
-  Total Products: 0
+  Updated: 2026-11-14T09:09:37Z
+  Total Products: 1
 
 ## Blogs
 
