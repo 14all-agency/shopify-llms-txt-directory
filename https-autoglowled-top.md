@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-21T02:25:02Z
 - Contact Email: support@autoglowled.top
-- Updated At: 2026-11-10T00:54:32.657Z
+- Updated At: 2026-11-17T00:59:17.869Z
 
 ## Products
 
 - [AutoGlowLED 23 Pcs LED Interior Light Kit Bentley Flying Spur 2005-2013](https://autoglowled.top/products/autoglowled-23-pcs-led-interior-light-kit-bentley-flying-spur-2005-2013): Upgrade your Bentley Flying Spur (2005-2013) with AutoGlowLED 23-pc LED interior kit. Canbus error-free, plug and play, 50,000 hr lifespan. Bright dome, trunk, footwell lights.
-  Updated: 2026-09-28T10:36:20Z
+  Updated: 2026-11-12T01:25:47Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
@@ -1864,46 +1864,24 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_5efe2853-8e0b-4f3f-8d01-91cffacbbe0e.jpg?v=1789033333
     Price: $37.99 USD
-- [AutoGlowLED LED Interior Light Kit for Hyundai Venue 2019-2025](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-hyundai-venue-2019-2025): Upgrade your Hyundai Venue 2019-2025 with AutoGlowLED 12pc LED interior light kit. Bright, error-free, plug-and-play bulbs for dome, map, trunk & license plate. 50,000hr life.
-  Updated: 2026-09-28T10:36:00Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_dfd88719-dfd2-42df-8ae5-864d83a24309.jpg?v=1789066582
-  - [WHITE](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-hyundai-venue-2019-2025?variant=48867760308381)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_a860999a-c857-4554-947a-6495d37558c7.jpg?v=1789033335
-    Price: $37.99 USD
-  - [Warm White](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-hyundai-venue-2019-2025?variant=48867760341149)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_5b90ccec-f177-420e-ad37-b61735007fce.jpg?v=1789033331
-    Price: $31.99 USD
-  - [Red](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-hyundai-venue-2019-2025?variant=48867760373917)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e9e2bc3815_fa982284-dcc5-4576-a535-f9e63c91dae7.jpg?v=1788488072
-    Price: $37.99 USD
-  - [PURPLE](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-hyundai-venue-2019-2025?variant=48867760406685)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_22286764-22b1-441b-a6b6-5dc7e34fe95c.jpg?v=1789033326
-    Price: $31.99 USD
-[List Continued](https://autoglowled.top/a/llms-agent/llms.txt?shop=fja5g2-he.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDM3NzMxMDcwMTA5LCJsYXN0X3ZhbHVlIjoiOTAzNzczMTA3MDEwOSJ9)
+[List Continued](https://autoglowled.top/a/llms-agent/llms.txt?shop=fja5g2-he.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDM3NzI2OTQxMzQxLCJsYXN0X3ZhbHVlIjoiOTAzNzcyNjk0MTM0MSJ9)
 
 ## Collections
 
 - [Car interior lights](https://autoglowled.top/collections/car-interior-lights): AutoGlowLED car interior LED light kits for dome, map and footwell bulbs. CANBUS-ready options, 6000K white and color choices, fitment for 135+ vehicles.
-  Updated: 2026-10-22T11:10:02Z
+  Updated: 2026-11-12T01:51:45Z
   Total Products: 4689
 - [Ford](https://autoglowled.top/collections/ford): AutoGlowLED Ford LED interior light kits for F-150, Focus, Fiesta, Escape, Explorer and more. CANBUS-compatible, plug-and-play bulbs in white or color options.
   Updated: 2026-10-15T06:27:45Z
   Total Products: 343
 - [LED Interior Light Kit](https://autoglowled.top/collections/led-interior-light-kit): AutoGlowLED LED Interior Light Kits fit Chevy Colorado, Hyundai Kona, Kia Seltos, Mitsubishi Eclipse Cross, and VW CC with plug-and-play CANBUS options.
-  Updated: 2026-11-03T12:06:39Z
+  Updated: 2026-11-12T01:51:45Z
   Total Products: 5724
 - [Mercedes-Benz](https://autoglowled.top/collections/mercedes-benz): AutoGlowLED Mercedes-Benz LED interior light kits fit A-Class W169, C-Class W202-W205, S-Class W220, CLK, CLS, GLA, GLK, Viano W639 and more.
   Updated: 2026-10-15T06:27:53Z
   Total Products: 113
 - [AutoGlowLED](https://autoglowled.top/collections/autoglowled): AutoGlowLED interior LED kits for Nissan Sentra, BMW E30, Ford Fiesta MK7, and more. CANBUS-ready dome, map, and trunk bulbs in multiple colors.
-  Updated: 2026-11-03T12:06:39Z
+  Updated: 2026-11-12T01:51:45Z
   Total Products: 6324
 - [Acura](https://autoglowled.top/collections/acura): Shop AutoGlowLED Acura LED interior light kits for MDX, RDX, TSX, RSX, TL, ILX, and RL. Plug-and-play 6000K or 3000K bulbs with CANBUS-ready options.
   Updated: 2026-10-15T06:25:52Z
@@ -1963,7 +1941,7 @@
   Updated: 2026-10-15T06:27:27Z
   Total Products: 140
 - [Land Rover](https://autoglowled.top/collections/land-rover): AutoGlowLED Land Rover LED interior light kits use CANBUS-compatible festoon and T10 bulbs in 6000K cool white or warm white. Check fitment by model and year.
-  Updated: 2026-10-15T06:19:54Z
+  Updated: 2026-11-12T01:51:45Z
   Total Products: 67
 - [Renault](https://autoglowled.top/collections/renault): Shop AutoGlowLED Renault LED interior light kits for Clio, Captur, Megane, Duster and more. CANBUS-ready, plug-and-play bulbs in cool white and ice blue.
   Updated: 2026-10-15T06:27:34Z
@@ -2017,7 +1995,7 @@
   Updated: 2026-10-15T06:27:05Z
   Total Products: 30
 - [Rover](https://autoglowled.top/collections/rover): AutoGlowLED Rover LED interior light kits replace factory cabin bulbs with CANBUS-ready festoon, T10 and BA9s LEDs in 6000K white or warm white.
-  Updated: 2026-10-15T06:19:54Z
+  Updated: 2026-11-12T01:51:45Z
   Total Products: 84
 - [Lincoln](https://autoglowled.top/collections/lincoln): Shop AutoGlowLED Lincoln LED interior light kits for MKX and Navigator. CANBUS-ready, error-free 6000K bulbs with plug-and-play fitment.
   Updated: 2026-10-15T06:23:10Z
@@ -3042,6 +3020,8 @@
   Updated: 2026-09-14T03:11:39Z
 - [LED Interior Lights by Car Brand — Full Fitment List | AutoGlowLED](https://autoglowled.top/pages/led-interior-lights-by-brand): LED Interior Light Kits by BrandAutoGlowLED offers premium CANBUS error-free LED interior light kits for a wide range of vehicle brands. Every kit ...
   Updated: 2026-09-18T09:12:56Z
+- [Unsubscribe](https://autoglowled.top/pages/unsubscribe): Stop email from us If you got an email from us about a cart you left behind and you do not want any more of them, you can stop them in one of two w...
+  Updated: 2026-11-11T01:39:30Z
 
 ## Policies
 
