@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-07-21T11:51:05Z
 - Contact Email: greenmichellejoshua16091992@gmail.com
-- Updated At: 2026-11-09T01:41:53.559Z
+- Updated At: 2026-11-17T01:38:56.769Z
 
 ## Products
 
@@ -1909,6 +1909,18 @@
   - [Introducing the Harper Spindle Accent Chair: A Farmhouse Delight That Complements Your Floral Dinnerware and Enameled Cookware Decor](https://brambelle.shop/blogs/news/introducing-the-harper-spindle-accent-chair-a-farmhouse-delight-that-complements-your-floral-dinnerware-and-enameled-cookware-decor): Introducing the Harper Spindle Accent Chair: A Farmhouse Delight That Complements Your Floral Dinnerware and Enameled Cookware Decor
     Updated: 2026-11-04T11:03:38Z
     Author: Brambelle
+  - [Enhance Your Farmhouse Kitchen Decor with the Brambelle™ Double Griddle Essential and Discover the Charm of Floral Dinnerware Sets Speckled Cookware and More](https://brambelle.shop/blogs/news/enhance-your-farmhouse-kitchen-decor-with-the-brambelle™-double-griddle-essential-and-discover-the-charm-of-floral-dinnerware-sets-speckled-cookware-and-more): Enhance Your Farmhouse Kitchen Decor with the Brambelle™ Double Griddle Essential and Discover the Charm of Floral Dinnerware Sets Speckled Cookware and More
+    Updated: 2026-11-09T11:02:33Z
+    Author: Brambelle
+  - [Brambelle™ Electric Skillet Tips for Integrating Farmhouse Kitchen Decor and Complementing Floral Dinnerware and Speckled Cookware Set](https://brambelle.shop/blogs/news/brambelle™-electric-skillet-tips-for-integrating-farmhouse-kitchen-decor-and-complementing-floral-dinnerware-and-speckled-cookware-set): Brambelle™ Electric Skillet Tips for Integrating Farmhouse Kitchen Decor and Complementing Floral Dinnerware and Speckled Cookware Set
+    Updated: 2026-11-10T11:02:17Z
+    Author: Brambelle
+  - [The Enchanting Path to a Farmhouse Aesthetic: How the Brambelle™ Pioneer Costume Dress Invites Vintage Flair With Floral Dinnerware and a New Enameled Dutch Oven](https://brambelle.shop/blogs/news/the-enchanting-path-to-a-farmhouse-aesthetic-how-the-brambelle™-pioneer-costume-dress-invites-vintage-flair-with-floral-dinnerware-and-a-new-enameled-dutch-oven): The Enchanting Path to a Farmhouse Aesthetic: How the Brambelle™ Pioneer Costume Dress Invites Vintage Flair With Floral Dinnerware and a New Enameled Dutch Oven
+    Updated: 2026-11-11T11:03:17Z
+    Author: Brambelle
+  - [Creating Farmhouse Dining Room Ideas with the Brambelle Cowgirl Lace Dinnerware Set and Floral Accents](https://brambelle.shop/blogs/news/creating-farmhouse-dining-room-ideas-with-the-brambelle-cowgirl-lace-dinnerware-set-and-floral-accents): Creating Farmhouse Dining Room Ideas with the Brambelle Cowgirl Lace Dinnerware Set and Floral Accents
+    Updated: 2026-11-16T11:02:23Z
+    Author: Brambelle
 
 ## Store Pages
 
@@ -1924,13 +1936,13 @@
 - [Privacy Policy](https://brambelle.shop/policies/privacy-policy)
   Updated: 2026-11-01T01:10:45Z
 - [Shipping Policy](https://brambelle.shop/policies/shipping-policy)
-  Updated: 2026-10-09T19:16:48Z
+  Updated: 2026-11-12T17:56:07Z
 - [Refund Policy](https://brambelle.shop/policies/refund-policy)
-  Updated: 2026-10-09T19:10:53Z
+  Updated: 2026-11-12T17:55:32Z
 - [Terms of Service](https://brambelle.shop/policies/terms-of-service)
   Updated: 2026-10-17T04:36:41Z
 - [Contact Information](https://brambelle.shop/policies/contact-information)
-  Updated: 2026-10-09T19:17:21Z
+  Updated: 2026-11-12T17:56:23Z
 
 ## Optional
 
