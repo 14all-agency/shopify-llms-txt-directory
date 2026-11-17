@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-10-15T18:04:26Z
 - Contact Email: nitin.sharma1171998@gmail.com
-- Updated At: 2026-11-10T00:48:22.758Z
+- Updated At: 2026-11-17T00:52:55.059Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/kids-printable-worksheets-premium-hero_fd558b31-3f2f-4995-9876-cd5c7114d974.png?v=1792169477
   Price: ₹199.00 INR
 - [AI Image & Video Prompt Guides PDF | Fileflora](https://fileflora.com/products/ai-image-video-prompt-guides): Explore AI image and video prompt guides with cinematic, fashion, adventure and product photography ideas. Download PDF references; AI tools sold separately.
-  Updated: 2026-10-20T18:05:25Z
+  Updated: 2026-11-10T19:06:49Z
   Vendor: Fileflora
   Product Type: AI Prompts
   Availability: Available
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/satisfying-reels-premium-hero_d2e0f2ef-efab-48b5-83e0-b69f34b2576b.png?v=1792171021
   Price: ₹199.00 INR
 - [AI Object Talking Reels MP4 Video Bundle | Fileflora](https://fileflora.com/products/ai-object-talking-reels-video-bundle): Download object-talking style MP4 video clips for Reels, Shorts and creative editing. Browse talking food, gadgets and character-led visual ideas.
-  Updated: 2026-10-22T13:30:26Z
+  Updated: 2026-11-10T19:06:50Z
   Vendor: Fileflora
   Product Type: Reels & Videos
   Availability: Available
@@ -81,14 +81,14 @@
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/01-motivational-animation-reels-hero_d78729aa-a8b8-4b3c-aabc-eeb722d8b15c.png?v=1792216919
   Price: ₹249.00 INR
 - [Digital Products Mega Bundle | Canva Planners – Fileflora](https://fileflora.com/products/digital-products-mega-bundle-canva-templates-planners): Explore Canva templates, planners, journals, resume layouts and mockups with one PDF access guide. Discover digital design ideas for creators at Fileflora.
-  Updated: 2026-11-01T19:04:50Z
+  Updated: 2026-11-10T19:06:50Z
   Vendor: Fileflora
   Product Type: Digital Resource Bundles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/fileflora-user-design-01-original-60-million-bundle-full-design_c14b4a5e-0c5a-4f0e-bc51-0d8a2476589c.jpg?v=1792258380
   Price: ₹499.00 INR
 - [25,000 AI Image Prompts PDF Bundle | Fileflora](https://fileflora.com/products/25000-ai-image-prompts-pdf-bundle): Explore 25,000 AI image prompts in 10 categories including portraits, fantasy, food and architecture. Four PDF volumes plus a useful prompt guide.
-  Updated: 2026-10-20T18:05:27Z
+  Updated: 2026-11-10T19:06:48Z
   Vendor: Fileflora
   Product Type: AI Prompts
   Availability: Available
@@ -102,18 +102,44 @@
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/fileflora-creating-with-claude-original-ebook-cover_6aeb6ca1-d16d-40a2-8d7f-54f82c89341b.png?v=1792326756
   Price: ₹249.00 INR
 - [870+ Flutter Mobile App Source Code Bundle | Fileflora](https://fileflora.com/products/870-flutter-mobile-app-source-code-bundle): Explore 870+ Flutter mobile app source projects, UI concepts and a PDF catalogue across 44 categories. Built for developers, students and app creators.
-  Updated: 2026-10-27T17:15:38Z
+  Updated: 2026-11-13T06:26:16Z
   Vendor: Fileflora
   Product Type: Digital Source Code Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/01_flutter_870_bundle.jpg?v=1793012794
   Price: ₹299.00 INR
+- [STL 3D Models Mega Bundle – ₹199 | FileFlora](https://fileflora.com/products/80m-stl-3d-models-mega-bundle-digital-3d-printing-files): Explore STL design collections for 3D printing: planters, flexi dragons, lamps, masks, vases and organizers. Digital access guide from FileFlora. ₹199.
+  Updated: 2026-11-16T16:59:39Z
+  Vendor: File Flora
+  Product Type: Digital STL Files
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/fileflora-stl-01-cover.png?v=1794398406
+  Price: ₹199.00 INR
+- [CBSE Class 10 Maths Sample Papers 2027 | FileFlora](https://fileflora.com/products/cbse-class-10-maths-sample-papers-2027): Choose CBSE Maths Basic (241) or Standard (041). Get 10 printable Class 10 sample papers, worked solutions and a 30-day revision plan for the 2027 boards.
+  Updated: 2026-11-14T21:55:26Z
+  Vendor: FileFlora
+  Product Type: Exam Practice PDFs
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/01-fileflora-maths-2027-cover.jpg?v=1794649876
+  - [Basic (241)](https://fileflora.com/products/cbse-class-10-maths-sample-papers-2027?variant=49441627078878)
+    Availability: Available
+    Price: ₹99.00 INR
+  - [Standard (041)](https://fileflora.com/products/cbse-class-10-maths-sample-papers-2027?variant=49441627111646)
+    Availability: Available
+    Price: ₹149.00 INR
+- [100,000+ Digital Product Ideas 2026–2027 | FileFlora](https://fileflora.com/products/100000-digital-product-ideas-2026-2027): Discover 100,000+ Digital Product Ideas 2026–2027. Explore PDF idea guides, niche examples and creative bonuses, including Lightroom presets and sample stock photos.
+  Updated: 2026-11-17T00:18:29Z
+  Vendor: FileFlora
+  Product Type: Digital Product Ideas & Guides
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/fileflora-100k-01_100000_plus_digital_product_ideas_cover.jpg?v=1794831401
+  Price: ₹199.00 INR
 
 ## Collections
 
 - [Home page](https://fileflora.com/collections/frontpage)
-  Updated: 2026-10-23T11:32:32Z
-  Total Products: 9
+  Updated: 2026-11-16T12:24:00Z
+  Total Products: 10
 - [Automation Templates](https://fileflora.com/collections/automation-templates): Discover n8n automation workflow resources for email, webhooks, APIs and business tools. Explore digital templates and integration ideas.
   Updated: 2026-10-20T18:05:24Z
   Total Products: 1
@@ -133,8 +159,11 @@
   Updated: 2026-10-20T18:05:24Z
   Total Products: 1
 - [All Products](https://fileflora.com/collections/all-products): Shop all Fileflora digital products: Canva designs, AI prompts, MP4 video clips, n8n workflow templates, printable worksheets and eBooks.
-  Updated: 2026-10-26T11:17:29Z
-  Total Products: 18
+  Updated: 2026-11-16T12:24:00Z
+  Total Products: 21
+- [Education](https://fileflora.com/collections/education)
+  Updated: 2026-11-14T10:14:19Z
+  Total Products: 1
 
 ## Blogs
 
@@ -173,6 +202,15 @@
   - [Step-by-Step Guide to Utilizing AI Video Prompts](https://fileflora.com/blogs/guides/step-by-step-guide-to-utilizing-ai-video-prompts): Step-by-Step Guide to Utilizing AI Video Prompts
     Updated: 2026-11-09T00:48:43Z
     Author: Fileflora Editorial Team
+  - [Enhance Creativity Using Social Media Post Templates](https://fileflora.com/blogs/guides/enhance-creativity-using-social-media-post-templates): Enhance Creativity Using Social Media Post Templates
+    Updated: 2026-11-11T00:31:46Z
+    Author: Fileflora Editorial Team
+  - [Create Eye-Catching Designs with Canva Templates Easily](https://fileflora.com/blogs/guides/create-eye-catching-designs-with-canva-templates-easily): Create Eye-Catching Designs with Canva Templates Easily
+    Updated: 2026-11-13T00:28:27Z
+    Author: Fileflora Editorial Team
+  - [Guide to Using AI Video Prompts for Beginners](https://fileflora.com/blogs/guides/guide-to-using-ai-video-prompts-for-beginners): Guide to Using AI Video Prompts for Beginners
+    Updated: 2026-11-16T00:40:34Z
+    Author: Fileflora Editorial Team
 
 ## Store Pages
 
@@ -180,6 +218,8 @@
   Updated: 2026-10-15T18:04:31Z
 - [About Fileflora – Digital Downloads That Bloom](https://fileflora.com/pages/about-fileflora): Fileflora is a digital-resource marketplace for people who create, learn and build online. Our focus is straightforward: help shoppers browse desig...
   Updated: 2026-10-16T19:51:23Z
+- [kp account](https://fileflora.com/pages/kp-account)
+  Updated: 2026-11-14T19:49:30Z
 
 ## Policies
 
