@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-09-08T17:39:28Z
 - Contact Email: thedailybetterment@zohomail.com
-- Updated At: 2026-11-09T01:10:06.460Z
+- Updated At: 2026-11-17T01:02:01.015Z
 
 ## Products
 
@@ -116,7 +116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/SignsYourNewbornIsSick_1_12993e7e-e842-48a8-b84b-f3c859ca5229.png?v=1790938873
   Price: $48.99 USD
 - [Toddler Tantrums Guide: Calm Meltdowns Without Yelling (PDF)](https://thedailybetterment.com/products/calm-the-storm-toddler-tantrums-guide): Stop toddler tantrums without yelling. A calm, step-by-step gentle parenting guide with 25 scripts, a 7-day plan and tips for meltdowns, hitting and bedtime.
-  Updated: 2026-11-07T22:30:29Z
+  Updated: 2026-11-09T02:52:32Z
   Vendor: The Daily Betterment
   Product Type: Digital Guide
   Availability: Available
@@ -131,6 +131,9 @@
 - [Bundles](https://thedailybetterment.com/collections/bundles)
   Updated: 2026-10-11T02:39:05Z
   Total Products: 5
+- [Holiday Gift Guide](https://thedailybetterment.com/collections/holiday-gift-guide): Thoughtful gifts that arrive instantly. Every guide is a digital download, delivered to your inbox right after checkout, so it's never too late to give one. Pick a bundle for the couple, the new parents, the nurse in your life, or the reader who wants it all.
+  Updated: 2026-11-11T17:30:25Z
+  Total Products: 4
 
 ## Blogs
 
@@ -181,6 +184,15 @@
     Tags: bedtime, calm parenting, gentle parenting, toddlers
   - [The Future of Reading: Self Help Books to Read Online for Free and PDF Options](https://thedailybetterment.com/blogs/the-daily-read/the-future-of-reading-self-help-books-to-read-online-for-free-and-pdf-options): The Future of Reading: Self Help Books to Read Online for Free and PDF Options
     Updated: 2026-11-08T07:00:19Z
+    Author: The Daily Betterment
+  - [Step by Step Guide to Accessing Self Help PDF Downloads and Online Reads](https://thedailybetterment.com/blogs/the-daily-read/step-by-step-guide-to-accessing-self-help-pdf-downloads-and-online-reads): Step by Step Guide to Accessing Self Help PDF Downloads and Online Reads
+    Updated: 2026-11-10T07:01:25Z
+    Author: The Daily Betterment
+  - [Breaking Barriers with Free Self Help Books and PDF Mindset Resources](https://thedailybetterment.com/blogs/the-daily-read/breaking-barriers-with-free-self-help-books-and-pdf-mindset-resources): Breaking Barriers with Free Self Help Books and PDF Mindset Resources
+    Updated: 2026-11-12T07:01:10Z
+    Author: The Daily Betterment
+  - [Top Free Mindset Books for Beginners You Can Read Online Now](https://thedailybetterment.com/blogs/the-daily-read/top-free-mindset-books-for-beginners-you-can-read-online-now): Top Free Mindset Books for Beginners You Can Read Online Now
+    Updated: 2026-11-15T07:00:19Z
     Author: The Daily Betterment
 
 ## Store Pages
