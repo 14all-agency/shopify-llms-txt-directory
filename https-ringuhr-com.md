@@ -16,7 +16,7 @@ The technical centerpiece is a custom-engineered joint mechanism that allows the
 - Created At: 2025-05-06T13:37:57Z
 - Contact Email: contact@ringuhr.com
 - Address: Königstraße 27, 70173 Stuttgart, Germany
-- Updated At: 2026-11-09T00:35:46.135Z
+- Updated At: 2026-11-17T00:37:54.003Z
 
 ## Collections
 
@@ -48,6 +48,12 @@ The technical centerpiece is a custom-engineered joint mechanism that allows the
     Author: Siegfried Heinrich Huber
   - [Perlmutt-Zifferblatt: Optik, Vorteile und richtige Pflege](https://ringuhr.com/blogs/journal/perlmutt-zifferblatt-erklaert-vorteile-optik-und-pflege-bei-schmuckuhren): Perlmutt-Zifferblatt: Optik, Vorteile und richtige Pflege
     Updated: 2026-11-09T00:00:16Z
+    Author: Siegfried Heinrich Huber
+  - [Fingerring Uhr kaufen: Modelle und Kriterien im Check](https://ringuhr.com/blogs/journal/fingerring-uhr-kaufen-modelle-vergleichen-und-kaufkriterien-pruefen): Fingerring Uhr kaufen: Modelle und Kriterien im Check
+    Updated: 2026-11-11T08:30:15Z
+    Author: Siegfried Heinrich Huber
+  - [Edelstahlring mit Uhr: Vorteile, Pflege und Kaufhilfe](https://ringuhr.com/blogs/journal/edelstahlring-mit-uhr-warum-edelstahl-fuer-ringuhren-beliebt-ist): Edelstahlring mit Uhr: Vorteile, Pflege und Kaufhilfe
+    Updated: 2026-11-11T08:28:36Z
     Author: Siegfried Heinrich Huber
 
 ## Store Pages
