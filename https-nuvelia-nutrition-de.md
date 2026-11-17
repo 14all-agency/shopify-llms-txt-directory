@@ -1,12 +1,15 @@
 # Nuvelia® Nutrition UG (https://nuvelia-nutrition.de)
 
+> Nuvelia Nutrition UG ist eine deutsche Marke für hochwertige Nahrungsergänzungsmittel mit Sitz in Münchsteinach, Bayern. Wir entwickeln Produkte für Menschen, die gerne essen gehen, reisen und genießen, ohne ihren Alltag um Regeln herum zu organisieren. Jede Formulierung folgt einem nachvollziehbaren Grund: hochwertige Rohstoffe, sinnvolle Kombinationen, sorgfältige Entwicklung. Hergestellt in einer nach ISO 22000 zertifizierten Produktion, alle Inhaltsstoffe vollständig deklariert. Erhältlich in unserem Online-Shop.
+
 - Domain: https://nuvelia-nutrition.de
 - Locale: de
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2026-08-12T15:20:27Z
 - Contact Email: info@nuvelia-nutrition.de
-- Updated At: 2026-11-09T10:36:21.439Z
+- Contact Phone: +4991669965182
+- Updated At: 2026-11-17T01:19:58.927Z
 
 ## Products
 
@@ -18,14 +21,14 @@
   Image: https://cdn.shopify.com/s/files/1/1082/4020/8204/files/Genuss_Sache_Daily.webp?v=1791814078
   Price: 64,95 € EUR
 - [GenussSache Moments](https://nuvelia-nutrition.de/products/genusssache-moments): Für die Momente, in denen der Bauch nach dem Essen spannt und der Hosenknopf aufgehen möchte, oder in denen du schon ahnst, dass es gleich so weit ist. Pizzaabend, Geschäftsessen oder im Urlaub: Moments kommt einfach mit und passt vor, zu oder nach dem Essen. Mit Niacin, das zur Erhaltung normaler Schleimhäute beiträgt, wie beispielsweise der Darmschleimhaut. Besonderer Hinweis: Wegen des Gehaltes an Myrrhe ist dieses Produkt für schwangere Frauen nicht geeignet.
-  Updated: 2026-11-07T13:32:07Z
+  Updated: 2026-11-09T13:28:40Z
   Vendor: Nuvelia Nutrition UG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1082/4020/8204/files/Genuss_Sache_Moments.webp?v=1791814031
   Price: 74,95 € EUR
 - [GenussSache Duo](https://nuvelia-nutrition.de/products/genusssache-duo): Genuss Sache Duo: Daily für jeden Tag, Moments für besondere Anlässe. Transparent deklariert, glutenfrei, im Set 10% günstiger.
-  Updated: 2026-11-07T13:32:17Z
+  Updated: 2026-11-09T11:39:51Z
   Vendor: Nuvelia Nutrition UG
   Product Type: 
   Availability: Available
@@ -58,6 +61,10 @@
     Tags: Wissen
   - [Völlegefühl trotz wenig essen: Woran es liegen kann](https://nuvelia-nutrition.de/blogs/neuigkeiten/voellegefuehl-trotz-wenig-essen)
     Updated: 2026-11-07T08:13:47Z
+    Author: Katharina Geyer
+    Tags: Wissen
+  - [Verdauungsenzyme: Was sie sind und was sie tun | Nuvelia®](https://nuvelia-nutrition.de/blogs/neuigkeiten/verdauungsenzyme): Verdauungsenzyme: Was sie sind und was sie tun | Nuvelia®
+    Updated: 2026-11-14T09:44:09Z
     Author: Katharina Geyer
     Tags: Wissen
 
