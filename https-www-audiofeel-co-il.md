@@ -6,33 +6,33 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-01-05T11:50:54Z
 - Contact Email: info@audiofeel.co.il
-- Updated At: 2026-11-10T00:38:26.254Z
+- Updated At: 2026-11-17T00:38:50.046Z
 
 ## Products
 
 - [מסנני סאונד אודיופיל לייב | Silver Glow](https://www.audiofeel.co.il/products/audiofeel-live-silver-glow): יתרונות פילטר אקוסטי לסינון התדרים המזיקים נוח ומתאים לכל האוזניים קל לניקוי ושימוש חוזר מפרט טכני הנחתה אקוסטית מדויקת עד -16SNR ו -7NRR אטמי אוזניים באיכות גבוהה מיועדים לשמירה על השמיעה ללא פגיעה באיכות הצליל התאמה אישית מלאה ארבעה גדלים שונים של קצוות לאוזן מבטיחים התאמה מושלמת קייס נשיאה קומפקטי מושלם לטיולים ולשימוש יומיומי מושלם למסיבות, פסטיבלים, חתונות, הופעות חיות, ועוד
-  Updated: 2026-11-07T11:15:46Z
+  Updated: 2026-11-16T15:32:41Z
   Vendor: AUDIOFEEL
   Product Type: EarPlugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/7639/6425/files/0c3a85a6c2f674bf3c86c4d839d17fbd-e1708367567526.jpg?v=1734507350
   Price: ‏179.00 ‏₪ ILS
 - [מסנני סאונד אודיופיל לייב | RADIANT GOLD](https://www.audiofeel.co.il/products/audiofeel-live-radiant-gold): AudioFeel LIVE - High fidelity Earplugs made by musicians, for concerts, raves, festivals and more. Specially designed acoustic filter ensures pleasure
-  Updated: 2026-11-08T10:20:52Z
+  Updated: 2026-11-15T08:49:31Z
   Vendor: AudioFeel
   Product Type: EarPlugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/7639/6425/files/01d3382322492b04aa651ab685711da8-1-e1708368725718.jpg?v=1732804656
   Price: ‏179.00 ‏₪ ILS
 - [מסנני סאונד אודיופיל לייב | VIVID PURPLE](https://www.audiofeel.co.il/products/audiofeel-live-vivid-purple): AudioFeel LIVE - High fidelity Earplugs made by musicians, for concerts, raves, festivals and more. Specially designed acoustic filter ensures pleasure
-  Updated: 2026-11-01T17:07:36Z
+  Updated: 2026-11-15T17:48:51Z
   Vendor: AudioFeel
   Product Type: EarPlugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/7639/6425/files/98638a1cadf8f31b4a99d13e5bb1f5b6-1-e1708361337410.jpg?v=1732804666
   Price: ‏179.00 ‏₪ ILS
 - [מסנני סאונד אודיופיל לייב | AudioFeel LIVE](https://www.audiofeel.co.il/products/audiofeel-live-1): אטמי אוזניים איכותיים של אודיופיל מיועדים לשמירה על השמיעה ללא פגיעה באיכות הצליל. מושלם למסיבות והופעות, מגיע עם קייס נשיאה קומפקטי | משלוח מהיר עד הבית
-  Updated: 2026-11-10T00:23:41Z
+  Updated: 2026-11-16T21:04:34Z
   Vendor: ®AudioFeel
   Product Type: אטמי אוזניים
   Availability: Available
@@ -50,7 +50,7 @@
     Image: https://cdn.shopify.com/s/files/1/0617/7639/6425/files/01d3382322492b04aa651ab685711da8_c1503076-c1e3-4045-a68c-7d2bfaa1080e.jpg?v=1733739313
     Price: ‏179.00 ‏₪ ILS
 - [קיט ניקוי למסנני סאונד](https://www.audiofeel.co.il/products/קיט-ניקוי-למסנני-סאונד): שמרו על מסנני הסאונד שלכם בצורה הטובה ביותר - יכול לשמש גם כנרתיק נשיאה! מכיל: נרתיק נשיאה מטלית מיקרופייבר מברשת איכותית לניקוי
-  Updated: 2026-11-09T22:24:37Z
+  Updated: 2026-11-16T19:46:36Z
   Vendor: AudioFeel®
   Product Type: 
   Availability: Available
@@ -62,7 +62,7 @@
     Availability: Available
     Price: ‏34.99 ‏₪ ILS
 - [2 זוגות מסנני סאונד אודיופיל לייב -  Silver Glow](https://www.audiofeel.co.il/products/2-silver-glow-pack): 2 זוגות אטמים לאוזניים בצבע כסוף מטאלי יתרונות פילטר אקוסטי לסינון התדרים המזיקים נוח ומתאים לכל האוזניים קל לניקוי ושימוש חוזר מפרט טכני הנחתה אקוסטית מדויקת עד -16SNR ו -7NRR אטמי אוזניים באיכות גבוהה מיועדים לשמירה על השמיעה ללא פגיעה באיכות הצליל התאמה אישית מלאה ארבעה גדלים שונים של קצוות לאוזן מבטיחים התאמה מושלמת קייס נשיאה קומפקטי מושלם לטיולים ולשימוש יומיומי מושלם למסיבות, פסטיבלים, חתונות, הופעות חיות, ועוד
-  Updated: 2026-11-07T19:34:48Z
+  Updated: 2026-11-16T11:52:36Z
   Vendor: AudioFeel®
   Product Type: 
   Availability: Available
@@ -71,14 +71,14 @@
 - [3 זוגות מסנני סאונד אודיופיל לייב -  Silver Glow](https://www.audiofeel.co.il/products/3-silver-glow-pack): 3 זוגות אטמי אוזניים להופעות בצבע כסוף מטאלי
  פילטר אקוסטי לסינון התדרים המזיקים נוח ומתאים לכל האוזניים קל לניקוי ושימוש חוזר
  הנחתה אקוסטית מדויקת עד -16SNR ו -7NRR אטמי אוזניים באיכות גבוהה מיועדים לשמירה על השמיעה ללא פגיעה באיכות הצליל התאמה אישית מלאה ארבעה גדלים שונים של קצוות לאוזן מבטיחים התאמה מושלמת קייס נשיאה קומפקטי מושלם לטיולים ולשימוש יומיומי מושלם למסיבות, פסטיבלים, חתונות, הופעות חיות, ועוד
-  Updated: 2026-11-05T14:54:26Z
+  Updated: 2026-11-14T19:00:05Z
   Vendor: AudioFeel®
   Product Type: EarPlugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/7639/6425/files/3bundlefinalSILVER_a766ce49-47e4-4522-9788-e7ca75219c26.jpg?v=1755675400
   Price: ‏399.00 ‏₪ ILS
 - [2 זוגות מסנני סאונד אודיופיל לייב -  Vivid Purple](https://www.audiofeel.co.il/products/2-זוגות-מסנני-סאונד-אודיופיל-לייב-vivid-purple): שני זוגות אטמי אוזניים מקצועיים Vivid Purple יתרונות פילטר אקוסטי לסינון התדרים המזיקים נוח ומתאים לכל האוזניים קל לניקוי ושימוש חוזר מפרט טכני הנחתה אקוסטית מדויקת עד -16SNR ו -7NRR אטמי אוזניים באיכות גבוהה מיועדים לשמירה על השמיעה ללא פגיעה באיכות הצליל התאמה אישית מלאה ארבעה גדלים שונים של קצוות לאוזן מבטיחים התאמה מושלמת קייס נשיאה קומפקטי מושלם לטיולים ולשימוש יומיומי מושלם למסיבות, פסטיבלים, חתונות, הופעות חיות, ועוד
-  Updated: 2026-11-09T18:04:57Z
+  Updated: 2026-11-13T13:25:45Z
   Vendor: AudioFeel®
   Product Type: EarPlugs
   Availability: Available
@@ -92,7 +92,7 @@
   Image: https://cdn.shopify.com/s/files/1/0617/7639/6425/files/3bundlefinalPURPLE_7910666e-828d-467c-89f2-482f67191b4a.jpg?v=1755676052
   Price: ‏399.00 ‏₪ ILS
 - [2 זוגות מסנני סאונד אודיופיל לייב -  Radiant Gold](https://www.audiofeel.co.il/products/2-זוגות-מסנני-סאונד-אודיופיל-לייב-radiant-gold-pack): שני זוגות אטמי אוזניים מקצועיים Radiant Gold יתרונות פילטר אקוסטי לסינון התדרים המזיקים נוח ומתאים לכל האוזניים קל לניקוי ושימוש חוזר מפרט טכני הנחתה אקוסטית מדויקת עד -16SNR ו -7NRR אטמי אוזניים באיכות גבוהה מיועדים לשמירה על השמיעה ללא פגיעה באיכות הצליל התאמה אישית מלאה ארבעה גדלים שונים של קצוות לאוזן מבטיחים התאמה מושלמת קייס נשיאה קומפקטי מושלם לטיולים ולשימוש יומיומי מושלם למסיבות, פסטיבלים, חתונות, הופעות חיות, ועוד
-  Updated: 2026-11-03T09:02:57Z
+  Updated: 2026-11-16T09:51:36Z
   Vendor: AudioFeel®
   Product Type: EarPlugs
   Availability: Available
@@ -106,7 +106,7 @@
   Image: https://cdn.shopify.com/s/files/1/0617/7639/6425/files/3bundlefinalGOLD_7d4cb8f5-61f8-4310-aa1a-c6638ae7e099.jpg?v=1755676641
   Price: ‏399.00 ‏₪ ILS
 - [AudioFeel Chain - שרשרת ממותגת למסנני סאונד אודיופיל](https://www.audiofeel.co.il/products/שרשרת-ממותגת-למסנני-סאונד-אודיופיל): שמרו על האטמים שלכם בהישג יד – עם הסטייל של AudioFeel.שרשרת יוקרתית מנירוסטה (Stainless Steel) שתשמור על האטמים שלכם קרובים ובטוחים בכל רגע – בלי צורך להחזיר לקייסהפתרון האולטימטיבי למי שמחפש נוחות, הגנה וסטייל באירועים, מסיבות פסטיבלים וסביבות רועשותייחודי ובלעדי לאודיופיל יתרונות: מונעת אובדן של המסנניםמאפשרת שליפה והחזרה מהירה ונוחה לאוזןעמידה בזיעה ומים – עיצוב איכותי מחומר Stainless Steelמשלימה את חוויית השימוש במסנני הסאונד של אודיופיל
-  Updated: 2026-11-09T11:53:06Z
+  Updated: 2026-11-16T17:15:15Z
   Vendor: AudioFeel®
   Product Type: 
   Availability: Available
@@ -120,28 +120,28 @@
     Image: https://cdn.shopify.com/s/files/1/0617/7639/6425/files/audiofeel-chain-gold-white.jpg?v=1792311435
     Price: ‏69.00 ‏₪ ILS
 - [הקיט המושלם AudioFeel LIVE | Silver Glow](https://www.audiofeel.co.il/products/קיט-פסטיבלים-מושלם-audiofeel-live-silver-glow): החוויה האולטימטיבית לפסטיבלים, מסיבות והופעות – עכשיו בגרסת Silver Glow האלגנטית, שמחברת בין סטייל, נוחות והגנה חכמה על השמיעה שלך מה יש בקיט? 🎧 מסנני סאונד AudioFeel LIVE – Silver Glowמסנני פרימיום עם סינון חכם ששומר על המוזיקה חדה, ברורה ועוצמתית – רק בלי הנזק. ככה אפשר להישאר על הרחבה שעות, ליהנות מהסט – ולהתעורר בבוקר בלי צפצופים באוזניים⛓️ שרשרת נשיאה מעוצבתמחברת את האטמים אליך - תרתי משמע. תלייה נוחה על הצוואר/על הבגד, כדי שתוכל להכניס ולהוציא אותם בשנייה, בלי לאבד ובלי לחפש באמצע המסיבה. גם אקססורי, גם שימושי ✨ קיט ניקוי שהוא גם נרתיק נשיאהמארז קומפקטי וחזק שמאפשר:לשמור על המסננים נקיים ומוגנים בין שימוש לשימוש להאריך את חיי המוצר ולשמור על חוויית סאונד מקסימלית לקחת אותם בקלות לכל פסטיבל/טיסה/מסיבה למי זה מתאים? פסטיבלים, רייבים, מסיבות טבע ומועדוניםדיג׳ייז, מוזיקאים וחובבי מוזיקה שרוצים ליהנות מסאונד איכותי בלי לוותר על הבריאותמי שמחפש פתרון אחד שמסדר גם הגנה, גם סטייל וגם תחזוקה למה לבחור בקיט ולא במוצר בודד?✔ כל מה שאתה צריך לחוויה בטוחה ומלאה במקום אחד✔ פחות כאב ראש, פחות סיכוי לאבד – יותר פוקוס על המוזיקה✔ מראה פרימיום Silver Glow – משדרג את הוייב שלך על הרחבה עם AudioFeel LIVE | Silver Glow – קיט פסטיבלים מושלם, אתה לא רק מגן על השמיעה שלך – אתה מרים את כל החוויה רמה מעל 🌘🎶
-  Updated: 2026-11-09T19:41:05Z
+  Updated: 2026-11-16T19:46:47Z
   Vendor: AudioFeel®
   Product Type: EarPlugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/7639/6425/files/1_84b6eb56-3c6e-46f7-b2a6-4fabf40c67c3.jpg?v=1764752235
   Price: ‏247.00 ‏₪ ILS
 - [הקיט המושלם AudioFeel LIVE | Radiant Gold](https://www.audiofeel.co.il/products/קיט-פסטיבלים-מושלם-audiofeel-live-radiant-gold): החוויה האולטימטיבית לפסטיבלים, מסיבות והופעות – עכשיו בגרסת Radiant Gold האלגנטית, שמחברת בין סטייל, נוחות והגנה חכמה על השמיעה שלך. מה יש בקיט? 🎧 מסנני סאונד AudioFeel LIVE – Radiant Goldמסנני פרימיום עם סינון חכם ששומר על המוזיקה חדה, ברורה ועוצמתית – רק בלי הנזק. ככה אפשר להישאר על הרחבה שעות, ליהנות מהסט – ולהתעורר בבוקר בלי צפצופים באוזניים.⛓️ שרשרת נשיאה מעוצבתמחברת את האטמים אליך – תרתי משמע. תלייה נוחה על הצוואר/על הבגד, כדי שתוכל להכניס ולהוציא אותם בשנייה, בלי לאבד ובלי לחפש באמצע המסיבה. גם אקססורי, גם שימושי. ✨ קיט ניקוי שהוא גם נרתיק נשיאהמארז קומפקטי וחזק שמאפשר:לשמור על המסננים נקיים ומוגנים בין שימוש לשימוש להאריך את חיי המוצר ולשמור על חוויית סאונד מקסימלית לקחת אותם בקלות לכל פסטיבל/טיסה/מסיבה למי זה מתאים? פסטיבלים, רייבים, מסיבות טבע ומועדוניםדיג׳ייז, מוזיקאים וחובבי מוזיקה שרוצים ליהנות מסאונד איכותי בלי לוותר על הבריאותמי שמחפש פתרון אחד שמסדר גם הגנה, גם סטייל וגם תחזוקה למה לבחור בקיט ולא במוצר בודד?✔ כל מה שאתה צריך לחוויה בטוחה ומלאה במקום אחד✔ פחות כאב ראש, פחות סיכוי לאבד – יותר פוקוס על המוזיקה✔ מראה פרימיום Silver Glow – משדרג את הוייב שלך על הרחבה עם AudioFeel LIVE | Radiant Gold – קיט פסטיבלים מושלם, אתה לא רק מגן על השמיעה שלך – אתה מרים את כל החוויה רמה מעל. 🌘🎶
-  Updated: 2026-11-09T22:24:46Z
+  Updated: 2026-11-16T17:15:21Z
   Vendor: AudioFeel®
   Product Type: EarPlugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/7639/6425/files/3_65c23155-164e-4bfc-81cc-2800a96291da.png?v=1764752173
   Price: ‏247.00 ‏₪ ILS
 - [הקיט המושלם AudioFeel LIVE | Vivid Purple](https://www.audiofeel.co.il/products/הקיט-המושלם-audiofeel-live-vivid-purple): החוויה האולטימטיבית לפסטיבלים, מסיבות והופעות – עכשיו בגרסת Vivid Purple האלגנטית, שמחברת בין סטייל, נוחות והגנה חכמה על השמיעה שלך. מה יש בקיט? 🎧 מסנני סאונד AudioFeel LIVE – Vivid Purpleמסנני פרימיום עם סינון חכם ששומר על המוזיקה חדה, ברורה ועוצמתית – רק בלי הנזק. ככה אפשר להישאר על הרחבה שעות, ליהנות מהסט – ולהתעורר בבוקר בלי צפצופים באוזניים.⛓️ שרשרת נשיאה מעוצבתמחברת את האטמים אליך – תרתי משמע. תלייה נוחה על הצוואר/על הבגד, כדי שתוכל להכניס ולהוציא אותם בשנייה, בלי לאבד ובלי לחפש באמצע המסיבה. גם אקססורי, גם שימושי. ✨ קיט ניקוי שהוא גם נרתיק נשיאהמארז קומפקטי וחזק שמאפשר:לשמור על המסננים נקיים ומוגנים בין שימוש לשימוש להאריך את חיי המוצר ולשמור על חוויית סאונד מקסימלית לקחת אותם בקלות לכל פסטיבל/טיסה/מסיבה למי זה מתאים? פסטיבלים, רייבים, מסיבות טבע ומועדוניםדיג׳ייז, מוזיקאים וחובבי מוזיקה שרוצים ליהנות מסאונד איכותי בלי לוותר על הבריאותמי שמחפש פתרון אחד שמסדר גם הגנה, גם סטייל וגם תחזוקה למה לבחור בקיט ולא במוצר בודד?✔ כל מה שאתה צריך לחוויה בטוחה ומלאה במקום אחד✔ פחות כאב ראש, פחות סיכוי לאבד – יותר פוקוס על המוזיקה✔ מראה פרימיום Silver Glow – משדרג את הוייב שלך על הרחבה עם AudioFeel LIVE | Vivid Purple – קיט פסטיבלים מושלם, אתה לא רק מגן על השמיעה שלך – אתה מרים את כל החוויה רמה מעל. 🌘🎶
-  Updated: 2026-11-09T19:41:01Z
+  Updated: 2026-11-16T19:46:47Z
   Vendor: AudioFeel®
   Product Type: EarPlugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/7639/6425/files/2_32bb0083-5845-4579-af42-4b9f4bd60ad0.png?v=1764752069
   Price: ‏247.00 ‏₪ ILS
 - [מסנני סאונד אודיופיל זן | AudioFeel ZEN](https://www.audiofeel.co.il/products/audiofeel-zen): אטמי אוזניים איכותיים של אודיופיל מיועדים לשמירה על השמיעה ללא פגיעה באיכות הצליל. מושלם למסיבות והופעות, מגיע עם קייס נשיאה קומפקטי | משלוח מהיר עד הבית
-  Updated: 2026-11-09T22:25:06Z
+  Updated: 2026-11-16T21:15:42Z
   Vendor: ®AudioFeel
   Product Type: אטמי אוזניים
   Availability: Available
@@ -159,7 +159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0617/7639/6425/files/2.5823.jpg?v=1767445379
     Price: ‏199.00 ‏₪ ILS
 - [אודיופיל לייב + זן | AudioFeel LIVE + ZEN](https://www.audiofeel.co.il/products/audiofeel-live-zen)
-  Updated: 2026-11-10T00:23:56Z
+  Updated: 2026-11-16T21:15:53Z
   Vendor: AudioFeel®
   Product Type: אטמי אוזניים
   Availability: Available
@@ -198,16 +198,16 @@
   Updated: 2025-03-18T14:49:07Z
   Total Products: 0
 - [אקססוריז](https://www.audiofeel.co.il/collections/uncategorized)
-  Updated: 2026-11-09T12:13:41Z
+  Updated: 2026-11-16T12:13:19Z
   Total Products: 5
 - [מסנני סאונד](https://www.audiofeel.co.il/collections/earplugs)
-  Updated: 2026-11-09T12:13:41Z
+  Updated: 2026-11-16T12:13:19Z
   Total Products: 9
 - [מארזים](https://www.audiofeel.co.il/collections/bundles)
-  Updated: 2026-11-08T12:15:18Z
+  Updated: 2026-11-16T12:13:19Z
   Total Products: 13
 - [Accessories](https://www.audiofeel.co.il/collections/אקססוריז)
-  Updated: 2026-11-09T12:13:41Z
+  Updated: 2026-11-16T12:13:19Z
   Total Products: 4
 
 ## Blogs
@@ -301,6 +301,8 @@
   Updated: 2026-05-12T06:39:48Z
 - [הצהרת נגישות](https://www.audiofeel.co.il/pages/הצהרת-נגישות): באודיופיל (המופעל על ידי סאונד גארד בע"מ) אנו רואים חשיבות רבה במתן שירות שוויוני לכלל הלקוחות, ופועלים כדי שאתר האינטרנט שלנו יהיה נגיש לאנשים עם ...
   Updated: 2026-07-07T04:41:52Z
+- [ביטול עסקה](https://www.audiofeel.co.il/pages/cancel-order): כדי לבטל עסקה, מלאו את הפרטים ונחזור אליכם בהקדם. לאחר השליחה יישלח אליכם מייל אישור על קבלת הבקשה. שם מלא * אימייל * טלפון * מספר הזמנה * סיבת הבי...
+  Updated: 2026-11-16T13:00:49Z
 
 ## Policies
 
