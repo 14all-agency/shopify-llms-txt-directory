@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-12-14T06:52:14Z
 - Contact Email: denham@dccycles.co.uk
-- Updated At: 2026-11-09T01:39:17.086Z
+- Updated At: 2026-11-17T01:21:19.233Z
 
 ## Products
 
@@ -309,7 +309,7 @@
   Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/ice-tank-10mm-front-hub-36h-black-2032-p.jpg?v=1738839194
   Price: £100.00 GBP
 - [ICE TANK 20mm FRONT HUB 36H BLACK](https://www.dccycles.co.uk/products/ice-tank-20mm-front-hub-36h-black): ICE &#39;&#39;TANK&#39;&#39; 20mm FRONT HUB 36H BLACK (SKU HUB-TANK36K)The ICE Tank 20mm front hub. When reliably fast is the only thing that
-  Updated: 2026-10-19T17:36:06Z
+  Updated: 2026-11-11T20:05:26Z
   Vendor: ICE
   Product Type: Hubs Front
   Availability: Available
@@ -404,7 +404,7 @@
   Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/ice-gate-pedals-red-2075-1-p.jpg?v=1738839352
   Price: £59.99 GBP
 - [ICE CNC alloy Tiny Pedals Black](https://www.dccycles.co.uk/products/ice-cnc-alloy-tiny-pedals-black): ICE CNC alloy &#39;&#39;Tiny&#39;&#39; Pedals Black (SKU PDTINY-K) The saying flat pedals win medals for a reason, ICE has the best choice of flat
-  Updated: 2026-11-02T16:08:40Z
+  Updated: 2026-11-10T20:26:21Z
   Vendor: ICE
   Product Type: Pedals - BMX & MTB Flat
   Availability: Available
@@ -418,7 +418,7 @@
   Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/ice-cnc-alloy-tiny-pedals-red-2081-p.jpg?v=1738839370
   Price: £59.99 GBP
 - [ICE RELAX SEAT POST](https://www.dccycles.co.uk/products/ice-relax-seat-post): ICE RELAX SEAT POST (SKU RELAX-22.2) BMX Aluminium recovery Seatpost Diameters available 22.2, 25.4, 26.8, 27.2mm Sizes available 600mm (for Ã 27.2,
-  Updated: 2026-10-19T17:34:00Z
+  Updated: 2026-11-12T10:20:10Z
   Vendor: ICE
   Product Type: Seatposts
   Availability: Available
@@ -615,7 +615,7 @@
   Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/speed-components-brake-pipe-red-2214-p.jpg?v=1738839699
   Price: £5.00 GBP
 - [SPEED COMPONENTS HEADSET SPACERS KIT 1&34; 1/8](https://www.dccycles.co.uk/products/speed-components-headset-spacers-kit-1-1-8): SPEED COMPONENTS HEADSET SPACERS KIT (SKU SCHS)Speed Components headset spacers are ultra light alloy spacers; without making your wallet the weigh
-  Updated: 2026-08-06T11:52:06Z
+  Updated: 2026-11-11T20:05:37Z
   Vendor: SPEED COMPONENTS
   Product Type: 
   Availability: Available
@@ -1237,7 +1237,7 @@
     Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/gusset-clench-seat-clamp-black-27984-p.jpg?v=1738843718
     Price: £7.99 GBP
 - [Labour](https://www.dccycles.co.uk/products/labour): Workshop labour DC Cycles is a crucial BMX race, Dirt Jump and alternative bike shop, doing all types of bike repair in store in Southampton for any
-  Updated: 2026-11-07T12:26:26Z
+  Updated: 2026-11-11T20:05:32Z
   Vendor: DC Cycles 
   Product Type: 
   Availability: Available
@@ -1305,13 +1305,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/speed-components-power-bars-2.25-rise-28591-p.jpg?v=1738843916
   Price: £40.00 GBP
-- [SPEED COMPONENTS POWER BARS 425&34; RISE](https://www.dccycles.co.uk/products/speed-components-power-bars-4-25-rise): Speed Components &quot;Power Bars&quot; are a great range of Chromoly handlebars Which offer very best quality / price ratio for any riders looking
-  Updated: 2026-09-03T21:40:35Z
-  Vendor: SPEED COMPONENTS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/speed-components-power-bars-4.25-rise-28594-1-p.jpg?v=1738843921
-  Price: £40.00 GBP
 - [SPEED COMPONENTS POWER BARS 65&34; RISE](https://www.dccycles.co.uk/products/speed-components-power-bars-6-5-rise): Speed Components &quot;Power Bars&quot; are a great range of Chromoly handlebars Which offer very best quality / price ratio for any riders looking
   Updated: 2026-08-06T11:52:09Z
   Vendor: SPEED COMPONENTS
@@ -1358,6 +1351,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/speed-components-power-saddle-mini-28892-p.jpg?v=1738843984
   Price: £30.00 GBP
+- [Warm UP Rollers 20](https://www.dccycles.co.uk/products/warm-up-rollers-2-0): The Warmup is a BMX-specific warm-up and recovery stand (for wheels from 18 to 24) which allows riders optimizing their physical capital during a
+  Updated: 2026-11-12T11:04:18Z
+  Vendor: WARM UP
+  Product Type: ROLLERS
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/warm-up-rollers-2.0-28944-p.jpg?v=1738844017
+  Price: £159.99 GBP
 - [ICE External Bottom Bracket Black](https://www.dccycles.co.uk/products/ice-external-bottom-bracket-black): ICE EURO BSA External Bottom brackets, used when you want to go Ice Fast. The perfect little upgrade to keep you spinning while you are winning!! A
   Updated: 2026-09-18T19:53:41Z
   Vendor: ICE
@@ -1691,7 +1691,7 @@
   Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/odi-vans-lock-on-grips-purple-30816-1-p.webp?v=1738845514
   Price: £31.99 GBP
 - [ODI Vans Lock On Grips Grey](https://www.dccycles.co.uk/products/odi-vans-lock-on-grips-grey): Introducing the all new Vans v2.1 Lock-On Grips, an updated version of the classic design we all know and love. These amazing grips are made from
-  Updated: 2026-10-05T11:54:34Z
+  Updated: 2026-11-11T20:05:21Z
   Vendor: ODI
   Product Type: Grips - Lock-on Kits
   Availability: Available
@@ -1856,7 +1856,7 @@
   Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/ice-cnc-alloy-tiny-pedals-oil-slick-31137-p.png?v=1738845754
   Price: £69.99 GBP
 - [ICE HACKER X Disc 36T 15/10mm Rear Hub](https://www.dccycles.co.uk/products/ice-hacker-x-disc-36t-15-10mm-rear-hub): Introducing the ultimate BMX hub - the New ICE HACKER X rear hub! The HACKER X hub is a game-changer in the world of BMX, offering unbeatable value
-  Updated: 2026-09-18T19:52:46Z
+  Updated: 2026-11-11T20:05:26Z
   Vendor: ICE
   Product Type: Hubs - BMX Rear
   Availability: Available
@@ -1877,7 +1877,7 @@
   Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/ice-chain-tensioners-for-15-10-mm-axle-black-31152-p.jpg?v=1738845774
   Price: £39.99 GBP
 - [ICE ISS 42 Integrated Tapered Headset](https://www.dccycles.co.uk/products/ice-iss-42-integrated-tapered-headset-black): ICE SPINNER 52 Headset Black (SKU HS-SPIN52K) Experience unmatched stability and precision with our CE ISS 42 tapered integrated headset in Alu. This
-  Updated: 2026-08-06T11:52:16Z
+  Updated: 2026-11-11T20:05:26Z
   Vendor: ICE
   Product Type: Headsets
   Availability: Available
@@ -2180,7 +2180,7 @@
     Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/100-brisker-cold-weather-glove-47292-1-p.jpg?v=1738846100
     Price: £34.99 GBP
 - [100 Brisker Cold Weather Glove Youth](https://www.dccycles.co.uk/products/100-brisker-cold-weather-glove-youth): Mother Nature has met her match with this low profile glove engineered to keep you going fast in cooler weather. Get the perfect amount of insulation
-  Updated: 2026-11-06T08:55:01Z
+  Updated: 2026-11-10T20:26:22Z
   Vendor: 100%
   Product Type: Gloves
   Availability: Available
@@ -2690,11 +2690,11 @@
   Updated: 2025-07-09T09:58:09Z
   Total Products: 0
 - [All Products](https://www.dccycles.co.uk/collections/all-products): Discover unbeatable deals on bikes & cycling gear at DC Cycles. Shop top brands with free UK delivery on £50+ orders. Limited stock—order today!
-  Updated: 2026-11-08T12:20:29Z
+  Updated: 2026-11-16T12:26:13Z
   Total Products: 1657
 - [SPEED COMPONENTS](https://www.dccycles.co.uk/collections/speed-components)
-  Updated: 2026-10-20T11:22:22Z
-  Total Products: 60
+  Updated: 2026-11-16T07:04:42Z
+  Total Products: 59
 - [Digital Goods VAT Tax](https://www.dccycles.co.uk/collections/digital-goods-vat-tax)
   Updated: 2026-01-09T21:10:29Z
   Total Products: 0
@@ -2702,8 +2702,8 @@
   Updated: 2025-07-09T09:58:09Z
   Total Products: 0
 - [MTB & DH](https://www.dccycles.co.uk/collections/mtb-dh)
-  Updated: 2026-11-08T12:20:29Z
-  Total Products: 291
+  Updated: 2026-11-14T13:01:41Z
+  Total Products: 290
 - [Protection](https://www.dccycles.co.uk/collections/protection)
   Updated: 2026-11-08T12:20:29Z
   Total Products: 13
@@ -2717,11 +2717,11 @@
   Updated: 2026-07-01T11:26:55Z
   Total Products: 5
 - [All Things Race BMX](https://www.dccycles.co.uk/collections/all-things-bmx): Discover the crucial bits you need to hit the track with our Race BMX collection. From lightweight BMX race bikes built for speed, to frames, wheels, tyres, and performance parts, we’ve got the gear to keep you ahead of the competition. Shop trusted brands and upgrade with race-ready components, helmets, and protective kit designed for riders of all levels. Whether you’re competing or just getting started, our Race BMX range has the bikes, parts, and accessories to help you perform at your best.
-  Updated: 2026-11-08T12:20:29Z
-  Total Products: 319
+  Updated: 2026-11-16T07:04:42Z
+  Total Products: 318
 - [All Things MTB](https://www.dccycles.co.uk/collections/all-things-mtb): Built for riders who push limits. Shop mountain bikes, MTB components, and performance accessories for every style of riding. From suspension and brakes to wheels, drivetrains, and protection, we’ve got everything to upgrade your setup. Whether you’re racing downhill, charging enduro, or grinding XC miles, our All Things MTB range is built to keep you faster, stronger, and in control.
-  Updated: 2026-11-08T12:20:29Z
-  Total Products: 291
+  Updated: 2026-11-14T13:01:41Z
+  Total Products: 290
 - [Helmets](https://www.dccycles.co.uk/collections/helmets)
   Updated: 2026-11-08T12:20:29Z
   Total Products: 13
@@ -2855,7 +2855,7 @@
   Updated: 2026-01-09T21:10:20Z
   Total Products: 0
 - [Gloves](https://www.dccycles.co.uk/collections/gloves)
-  Updated: 2026-11-05T20:56:05Z
+  Updated: 2026-11-11T12:27:30Z
   Total Products: 16
 - [Grip Spares](https://www.dccycles.co.uk/collections/grip-spares)
   Updated: 2026-06-07T12:04:45Z
@@ -2864,7 +2864,7 @@
   Updated: 2026-10-17T18:27:57Z
   Total Products: 14
 - [Grips - Lock-on Kits](https://www.dccycles.co.uk/collections/grips-lock-on-kits)
-  Updated: 2026-10-29T11:22:45Z
+  Updated: 2026-11-12T12:23:22Z
   Total Products: 40
 - [Grips - Standard](https://www.dccycles.co.uk/collections/grips-standard)
   Updated: 2026-06-07T12:04:45Z
@@ -2906,7 +2906,7 @@
   Updated: 2026-01-09T21:10:16Z
   Total Products: 0
 - [Hubs - BMX Rear](https://www.dccycles.co.uk/collections/hubs-bmx-rear)
-  Updated: 2026-09-19T11:19:55Z
+  Updated: 2026-11-12T12:23:22Z
   Total Products: 2
 - [Hubs - Discontinued](https://www.dccycles.co.uk/collections/hubs-discontinued)
   Updated: 2026-06-07T12:04:48Z
@@ -2948,7 +2948,7 @@
   Updated: 2026-01-09T21:10:08Z
   Total Products: 0
 - [Pedals - BMX & MTB Flat](https://www.dccycles.co.uk/collections/pedals-bmx-mtb-flat)
-  Updated: 2026-11-03T12:25:46Z
+  Updated: 2026-11-11T12:27:30Z
   Total Products: 56
 - [Pedals - Clipless MTB](https://www.dccycles.co.uk/collections/pedals-clipless-mtb)
   Updated: 2026-07-27T14:52:48Z
@@ -3005,7 +3005,7 @@
   Updated: 2026-06-07T12:06:12Z
   Total Products: 1
 - [ROLLERS](https://www.dccycles.co.uk/collections/rollers)
-  Updated: 2026-10-24T11:20:39Z
+  Updated: 2026-11-12T12:23:22Z
   Total Products: 1
 - [Saddles - BMX & MTB](https://www.dccycles.co.uk/collections/saddles-bmx-mtb)
   Updated: 2026-10-17T18:46:37Z
@@ -3020,7 +3020,7 @@
   Updated: 2026-06-07T12:04:54Z
   Total Products: 11
 - [Seatposts](https://www.dccycles.co.uk/collections/seatposts)
-  Updated: 2026-10-20T11:22:22Z
+  Updated: 2026-11-12T12:23:22Z
   Total Products: 5
 - [Seatposts - Pivotal](https://www.dccycles.co.uk/collections/seatposts-pivotal)
   Updated: 2026-10-31T11:19:56Z
@@ -3029,7 +3029,7 @@
   Updated: 2026-06-07T12:04:55Z
   Total Products: 16
 - [Spokes - Nipples](https://www.dccycles.co.uk/collections/spokes-nipples)
-  Updated: 2026-10-29T18:46:07Z
+  Updated: 2026-11-12T12:23:22Z
   Total Products: 6
 - [Stem Spares](https://www.dccycles.co.uk/collections/stem-spares)
   Updated: 2026-06-07T12:04:55Z
@@ -3125,7 +3125,7 @@
   Updated: 2026-07-27T14:52:48Z
   Total Products: 4
 - [DC Cycles](https://www.dccycles.co.uk/collections/dc-cycles)
-  Updated: 2026-11-08T12:20:29Z
+  Updated: 2026-11-12T12:23:22Z
   Total Products: 32
 - [DMR](https://www.dccycles.co.uk/collections/dmr)
   Updated: 2026-10-20T11:22:22Z
@@ -3173,7 +3173,7 @@
   Updated: 2026-10-30T11:31:54Z
   Total Products: 31
 - [ICE](https://www.dccycles.co.uk/collections/ice)
-  Updated: 2026-11-03T12:25:46Z
+  Updated: 2026-11-12T12:23:22Z
   Total Products: 103
 - [INSIGHT](https://www.dccycles.co.uk/collections/insight)
   Updated: 2026-10-17T18:28:14Z
@@ -3191,7 +3191,7 @@
   Updated: 2026-06-07T12:05:05Z
   Total Products: 7
 - [LEATT](https://www.dccycles.co.uk/collections/leatt)
-  Updated: 2026-11-08T12:20:29Z
+  Updated: 2026-11-15T12:23:00Z
   Total Products: 51
 - [KMC](https://www.dccycles.co.uk/collections/kmc)
   Updated: 2026-07-23T11:25:12Z
@@ -3215,7 +3215,7 @@
   Updated: 2026-06-07T12:05:06Z
   Total Products: 4
 - [ODI](https://www.dccycles.co.uk/collections/odi)
-  Updated: 2026-10-29T11:22:45Z
+  Updated: 2026-11-12T12:23:22Z
   Total Products: 30
 - [ON GUARD](https://www.dccycles.co.uk/collections/on-guard)
   Updated: 2026-10-17T18:28:33Z
@@ -3263,19 +3263,19 @@
   Updated: 2026-10-20T11:22:22Z
   Total Products: 7
 - [WARM UP](https://www.dccycles.co.uk/collections/warm-up)
-  Updated: 2026-10-24T11:20:39Z
+  Updated: 2026-11-12T12:23:22Z
   Total Products: 1
 - [YST](https://www.dccycles.co.uk/collections/yst)
   Updated: 2026-09-30T11:22:25Z
   Total Products: 4
 - [Pedals](https://www.dccycles.co.uk/collections/pedals): High-grip bike pedals built for MTB, BMX and trail riding. Durable platforms, smooth bearings, clipless or flat pedals. Rider-tested control for every session. Shop DC Cycles pedals.
-  Updated: 2026-11-03T12:25:46Z
+  Updated: 2026-11-11T12:27:30Z
   Total Products: 76
 - [Parts](https://www.dccycles.co.uk/collections/parts)
-  Updated: 2026-11-08T12:20:29Z
+  Updated: 2026-11-12T12:23:22Z
   Total Products: 425
 - [Protection](https://www.dccycles.co.uk/collections/protection-1)
-  Updated: 2026-11-08T12:20:29Z
+  Updated: 2026-11-11T12:27:30Z
   Total Products: 54
 - [LOCK](https://www.dccycles.co.uk/collections/lock)
   Updated: 2026-10-17T18:46:44Z
@@ -3572,7 +3572,7 @@
   Updated: 2026-01-09T21:10:24Z
   Total Products: 0
 - [Hubs Front](https://www.dccycles.co.uk/collections/hubs-front)
-  Updated: 2026-10-20T11:22:22Z
+  Updated: 2026-11-12T12:23:22Z
   Total Products: 6
 - [Hubs Rear](https://www.dccycles.co.uk/collections/hubs-rear)
   Updated: 2026-06-07T12:44:23Z
@@ -3590,7 +3590,7 @@
   Updated: 2026-10-27T11:25:53Z
   Total Products: 27
 - [Headsets](https://www.dccycles.co.uk/collections/headsets)
-  Updated: 2026-10-27T11:25:53Z
+  Updated: 2026-11-12T12:23:22Z
   Total Products: 12
 - [Race BMX - Braking](https://www.dccycles.co.uk/collections/race-bmx-braking)
   Updated: 2026-11-01T12:20:05Z
@@ -3665,7 +3665,7 @@
   Updated: 2026-10-03T11:24:42Z
   Total Products: 2
 - [Drivetrain](https://www.dccycles.co.uk/collections/drivetrain)
-  Updated: 2026-11-04T12:23:21Z
+  Updated: 2026-11-11T12:27:30Z
   Total Products: 183
 - [Goggles](https://www.dccycles.co.uk/collections/goggles)
   Updated: 2026-11-05T22:02:18Z
@@ -3674,13 +3674,13 @@
   Updated: 2026-10-17T18:34:31Z
   Total Products: 19
 - [Hubs](https://www.dccycles.co.uk/collections/hubs)
-  Updated: 2026-10-20T11:22:22Z
+  Updated: 2026-11-12T12:23:22Z
   Total Products: 64
 - [All Rims](https://www.dccycles.co.uk/collections/rims-1)
   Updated: 2026-10-20T11:22:22Z
   Total Products: 48
 - [Wheels](https://www.dccycles.co.uk/collections/wheels): Shop bike wheels and components for MTB, BMX and trail riding. Explore complete wheels, hubs, rims, spokes, tyres, inner tubes, freewheels, rear cogs, rim tape, valve caps and hub spares built for strength, speed and reliability.
-  Updated: 2026-11-07T12:26:29Z
+  Updated: 2026-11-12T12:23:22Z
   Total Products: 63
 - [TRUVATIV](https://www.dccycles.co.uk/collections/truvativ)
   Updated: 2026-06-07T16:27:29Z
@@ -3737,7 +3737,7 @@
   Updated: 2026-06-07T19:51:38Z
   Total Products: 1
 - [Sitewide ](https://www.dccycles.co.uk/collections/on-)
-  Updated: 2026-11-08T12:20:29Z
+  Updated: 2026-11-16T12:26:13Z
   Total Products: 1652
 - [SALT](https://www.dccycles.co.uk/collections/salt)
   Updated: 2026-11-04T12:23:21Z
@@ -3758,7 +3758,7 @@
   Updated: 2026-06-07T20:50:42Z
   Total Products: 1
 - [100%](https://www.dccycles.co.uk/collections/100)
-  Updated: 2026-11-05T22:02:18Z
+  Updated: 2026-11-11T12:27:30Z
   Total Products: 41
 - [Rims](https://www.dccycles.co.uk/collections/rims)
   Updated: 2026-10-20T11:22:22Z
@@ -3767,7 +3767,7 @@
   Updated: 2026-07-20T11:24:44Z
   Total Products: 1
 - [Race Pants](https://www.dccycles.co.uk/collections/race-pants-1)
-  Updated: 2026-10-09T13:18:51Z
+  Updated: 2026-11-15T12:23:00Z
   Total Products: 6
 - [REAR DERAILLEUR](https://www.dccycles.co.uk/collections/rear-derailleur)
   Updated: 2026-08-18T00:24:35Z
