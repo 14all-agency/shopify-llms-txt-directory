@@ -6,14 +6,14 @@
 - Timezone: Asia/Tokyo
 - Created At: 2023-02-08T06:19:55Z
 - Contact Email: newtrip1021@gmail.com
-- Updated At: 2026-11-10T08:19:00.966Z
+- Updated At: 2026-11-18T01:01:59.078Z
 
 NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する日本発のトラベルグッズ専門ブランドです。スーツケースを中心に、旅行や出張を快適にするバッグ・トラベルアクセサリーなどを企画・販売しています。軽量性、使いやすさ、機能性、デザイン性のバランスを大切にし、日常の移動から国内・海外旅行まで、さまざまな旅行スタイルに合った製品を提案しています。本ファイルは、NewTripのブランド情報、商品カテゴリー、公式コンテンツをAIアシスタントが正確に理解するための案内です。
 
 ## Products
 
 - [[New Trip] 超軽量スーツケース 拡張機能付き Sサイズ機内持ち込み 0201](https://newtrip.online/products/0201-suitcase): 【New Trip 0201】拡張機能付きスーツケースの決定版。20%の容量アップで、旅先で荷物が増えても安心です。超軽量ながら耐久性抜群のABS＋PC素材を採用。360度スムーズに回転するキャスターと軽量設計で、移動中のストレスをなくし、快適な旅をサポートする機内持ち込みスーツケース。
-  Updated: 2026-11-10T07:24:58Z
+  Updated: 2026-11-18T00:46:55Z
   Vendor: Top.1 最も人気の商品！
   Product Type: 拉链行李箱
   Availability: Available
@@ -29,43 +29,43 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
   - [Sサイズ /機内持ち込み/1～3泊 / ピンク / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50728590410003)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_pink.webp?v=1788334710
-    Price: ￥7,160.00 JPY
+    Price: ￥7,580.00 JPY
   - [Sサイズ /機内持ち込み/1～3泊 / ミッドナイトグリーン / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713515283)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_midnight_green.webp?v=1788334418
-    Price: ￥7,160.00 JPY
+    Price: ￥7,580.00 JPY
   - [Sサイズ /機内持ち込み/1～3泊 / オートミールグレー / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50281016492307)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_oatmeal_gray.webp?v=1788334648
-    Price: ￥7,160.00 JPY
+    Price: ￥7,580.00 JPY
   - [Sサイズ /機内持ち込み/1～3泊 / シャンパンゴールド / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713351443)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_champagne_gold.webp?v=1788334984
-    Price: ￥7,160.00 JPY
+    Price: ￥7,580.00 JPY
   - [Sサイズ /機内持ち込み/1～3泊 / パープル / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713482515)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_midnight_purple.webp?v=1788334922
-    Price: ￥7,160.00 JPY
+    Price: ￥7,580.00 JPY
   - [Sサイズ /機内持ち込み/1～3泊 / イエロー / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713318675)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_yellow.webp?v=1788334515
-    Price: ￥7,160.00 JPY
+    Price: ￥7,580.00 JPY
   - [Sサイズ /機内持ち込み/1～3泊 / シルバー / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713285907)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_silver.webp?v=1788334864
-    Price: ￥7,160.00 JPY
+    Price: ￥7,580.00 JPY
   - [Sサイズ /機内持ち込み/1～3泊 / グリーン / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713384211)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_peacock_green.webp?v=1788335068
-    Price: ￥7,160.00 JPY
+    Price: ￥7,580.00 JPY
   - [Sサイズ /機内持ち込み/1～3泊 / ブルー / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713416979)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_blue.webp?v=1788335117
-    Price: ￥7,160.00 JPY
+    Price: ￥7,580.00 JPY
   - [Sサイズ /機内持ち込み/1～3泊 / 赤色 / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713449747)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_bordeaus_red.webp?v=1788334816
-    Price: ￥7,160.00 JPY
+    Price: ￥7,580.00 JPY
   - [Mサイズ /無料受託手荷物/4～7泊 / アイボリー / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50304647790867)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_ivory_white.webp?v=1788334339
@@ -77,93 +77,93 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
   - [Mサイズ /無料受託手荷物/4～7泊 / ピンク / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50728590442771)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_pink.webp?v=1788334710
-    Price: ￥8,280.00 JPY
+    Price: ￥8,580.00 JPY
   - [Mサイズ /無料受託手荷物/4～7泊 / ミッドナイトグリーン / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713777427)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_midnight_green.webp?v=1788334418
-    Price: ￥8,280.00 JPY
+    Price: ￥8,580.00 JPY
   - [Mサイズ /無料受託手荷物/4～7泊 / オートミールグレー / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50281016525075)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_oatmeal_gray.webp?v=1788334648
-    Price: ￥8,280.00 JPY
+    Price: ￥8,580.00 JPY
   - [Mサイズ /無料受託手荷物/4～7泊 / シャンパンゴールド / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713613587)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_champagne_gold.webp?v=1788334984
-    Price: ￥8,280.00 JPY
+    Price: ￥8,580.00 JPY
   - [Mサイズ /無料受託手荷物/4～7泊 / パープル / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713744659)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_midnight_purple.webp?v=1788334922
-    Price: ￥8,280.00 JPY
+    Price: ￥8,580.00 JPY
   - [Mサイズ /無料受託手荷物/4～7泊 / イエロー / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713580819)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_yellow.webp?v=1788334515
-    Price: ￥8,280.00 JPY
+    Price: ￥8,580.00 JPY
   - [Mサイズ /無料受託手荷物/4～7泊 / シルバー / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713548051)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_silver.webp?v=1788334864
-    Price: ￥8,280.00 JPY
+    Price: ￥8,580.00 JPY
   - [Mサイズ /無料受託手荷物/4～7泊 / グリーン / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713646355)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_peacock_green.webp?v=1788335068
-    Price: ￥8,280.00 JPY
+    Price: ￥8,580.00 JPY
   - [Mサイズ /無料受託手荷物/4～7泊 / ブルー / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713679123)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_blue.webp?v=1788335117
-    Price: ￥8,280.00 JPY
+    Price: ￥8,580.00 JPY
   - [Mサイズ /無料受託手荷物/4～7泊 / 赤色 / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713711891)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_bordeaus_red.webp?v=1788334816
-    Price: ￥8,280.00 JPY
+    Price: ￥8,580.00 JPY
   - [Lサイズ /無料受託手荷物/7泊～長期旅行 / アイボリー / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50304647823635)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_ivory_white.webp?v=1788334339
-    Price: ￥9,480.00 JPY
+    Price: ￥9,680.00 JPY
   - [Lサイズ /無料受託手荷物/7泊～長期旅行 / ブラック / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=47714577940755)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_Black.webp?v=1788334567
-    Price: ￥9,480.00 JPY
+    Price: ￥9,680.00 JPY
   - [Lサイズ /無料受託手荷物/7泊～長期旅行 / ピンク / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50728590475539)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_pink.webp?v=1788334710
-    Price: ￥9,480.00 JPY
+    Price: ￥9,680.00 JPY
   - [Lサイズ /無料受託手荷物/7泊～長期旅行 / ミッドナイトグリーン / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256714039571)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_midnight_green.webp?v=1788334418
-    Price: ￥9,480.00 JPY
+    Price: ￥9,680.00 JPY
   - [Lサイズ /無料受託手荷物/7泊～長期旅行 / オートミールグレー / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50281016557843)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_oatmeal_gray.webp?v=1788334648
-    Price: ￥9,480.00 JPY
+    Price: ￥9,680.00 JPY
   - [Lサイズ /無料受託手荷物/7泊～長期旅行 / シャンパンゴールド / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713875731)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_champagne_gold.webp?v=1788334984
-    Price: ￥9,480.00 JPY
+    Price: ￥9,680.00 JPY
   - [Lサイズ /無料受託手荷物/7泊～長期旅行 / パープル / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256714006803)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_midnight_purple.webp?v=1788334922
-    Price: ￥9,480.00 JPY
+    Price: ￥9,680.00 JPY
   - [Lサイズ /無料受託手荷物/7泊～長期旅行 / イエロー / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713842963)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_yellow.webp?v=1788334515
-    Price: ￥9,480.00 JPY
+    Price: ￥9,680.00 JPY
   - [Lサイズ /無料受託手荷物/7泊～長期旅行 / シルバー / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713810195)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_silver.webp?v=1788334864
-    Price: ￥9,480.00 JPY
+    Price: ￥9,680.00 JPY
   - [Lサイズ /無料受託手荷物/7泊～長期旅行 / グリーン / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713908499)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_peacock_green.webp?v=1788335068
-    Price: ￥9,480.00 JPY
+    Price: ￥9,680.00 JPY
   - [Lサイズ /無料受託手荷物/7泊～長期旅行 / ブルー / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713941267)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_blue.webp?v=1788335117
-    Price: ￥9,480.00 JPY
+    Price: ￥9,680.00 JPY
   - [Lサイズ /無料受託手荷物/7泊～長期旅行 / 赤色 / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713974035)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_bordeaus_red.webp?v=1788334816
-    Price: ￥9,480.00 JPY
+    Price: ￥9,680.00 JPY
 - [旅行用ベルト - New Trip アジャスタブルキャリーケースベルト、オレンジ](https://newtrip.online/products/luggage-strap): 旅行用ベルトの調節範囲は約95〜145cm(Mサイズ)、約140〜205cm(Lサイズ)まで。美観性とスムーズな操作が可能な金属留め具と高弾性ベルトを採用。スーツケースの開き防止や目印としても優れている。ご購入後の保証もあり。
-  Updated: 2026-11-09T09:22:30Z
+  Updated: 2026-11-16T06:37:48Z
   Vendor: スーツケースの開き防止
   Product Type: 行李箱配件
   Availability: Available
@@ -209,7 +209,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/a5cd03a9f0b99e4e4a91838e25a497ab-compressed.webp?v=1777452361
     Price: ￥1,280.00 JPY
 - [[New Trip] マジックテープ式荷物固定用スーツケースベルト](https://newtrip.online/products/magic-luggage-strap): ベルトの長さは約95〜160cmまで調節できます、ベルト幅:約5cm。容量30L～75Lまでのスーツケースに適用されます。ジックテープ式のタイプは、簡単に着脱ができるのが特長です。 金属製のバックルを採用しており、耐久性に優れ、しっかりと引っ張るとより強く固定できます。
-  Updated: 2026-11-09T09:09:23Z
+  Updated: 2026-11-16T06:37:36Z
   Vendor: スーツケースの開き防止
   Product Type: 行李箱配件
   Availability: Available
@@ -231,14 +231,14 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_luggage-magic-strap_orange_color-compressed.webp?v=1777452447
     Price: ￥1,360.00 JPY
 - [[New Trip] 荷物デジタルはかり重量器 旅行スーツケース専用 1m巻尺内蔵 吊り下げ式 最大50kgまで](https://newtrip.online/products/luggage-scale): 飛行機に乗る際、機内持込手荷物および無料受託手荷物にはサイズや重量などの制限があります。 許容量を超える場合は超過料金がかかってしまいます。こちらの荷物はかりは1mのメジャーが内蔵されており、事前にスーツケースの重さと大きさが簡単に測れます。また、旅行先で荷物が増えても、重量オーバーの不安もなく思いっきり旅行を楽しめます。
-  Updated: 2026-11-09T09:22:49Z
+  Updated: 2026-11-16T06:38:09Z
   Vendor: 荷物の重量を簡単に計る必需品
   Product Type: 行李箱配件
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_luggage_scale-compressed.webp?v=1777452441
   Price: ￥1,820.00 JPY
 - [[New Trip] 機内持ち込み スーツケース フロントオープン式 0702](https://newtrip.online/products/0702-suitcase): ビジネス出張も子連れ旅行も快適に！軽量＆耐久のフロントオープン型スーツケースNew Trip 0702！荷物が取り出しやすい前開き設計、USB充電でいつでも充電。TSAロックとYKKファスナーで海外旅行も安心。静音キャスターと多段式キャリーバーで空港や新幹線もスムーズ。内部収納と物掛けフックで、快適な旅をサポート！
-  Updated: 2026-11-09T15:05:49Z
+  Updated: 2026-11-17T05:03:46Z
   Vendor: フロントオープン設計
   Product Type: 拉链行李箱
   Availability: Available
@@ -246,33 +246,33 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
   - [アイボリー / GB0702 / Sサイズ /機内持ち込み/1～3泊](https://newtrip.online/products/0702-suitcase?variant=47560386937107)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/819c3e31ba5f4d67d590ab80ffda528b_87b2fc00-8933-431a-bbe8-2e2322c1d8f2-compressed.webp?v=1777452585
-    Price: ￥15,980.00 JPY
+    Price: ￥9,680.00 JPY
   - [ブラック / GB0702 / Sサイズ /機内持ち込み/1～3泊](https://newtrip.online/products/0702-suitcase?variant=50260178960659)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/4fe40f089696834c4906303a743d01c5_e7dfbee1-058f-4b1f-a10e-0d59494c128a-compressed.webp?v=1777452572
-    Price: ￥15,980.00 JPY
+    Price: ￥9,680.00 JPY
   - [シャンパンゴールド / GB0702 / Sサイズ /機内持ち込み/1～3泊](https://newtrip.online/products/0702-suitcase?variant=50260178927891)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/ecd777f34ee924e2ddd99ca1603c73fb_c36b15ad-ff5a-4bac-81e7-b8577773416d-compressed.webp?v=1777452568
-    Price: ￥15,980.00 JPY
+    Price: ￥9,680.00 JPY
   - [ネイビー / GB0702 / Sサイズ /機内持ち込み/1～3泊](https://newtrip.online/products/0702-suitcase?variant=50260178993427)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/555d22a0aaa8c085e8d5b1251f0991f2_ca2e4406-07c4-42c7-91c3-b8d530bcbc51-compressed.webp?v=1777452575
-    Price: ￥15,980.00 JPY
+    Price: ￥9,680.00 JPY
   - [ローズゴールド / GB0702 / Sサイズ /機内持ち込み/1～3泊](https://newtrip.online/products/0702-suitcase?variant=50260179026195)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/3a70c816181a69dcf3589cc5fccf4bc3_c2ab1970-3ff9-47aa-8839-f961faa15c44-compressed.webp?v=1777452564
-    Price: ￥15,980.00 JPY
+    Price: ￥9,680.00 JPY
   - [シルバー / GB0702 / Sサイズ /機内持ち込み/1～3泊](https://newtrip.online/products/0702-suitcase?variant=50281085796627)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0702_gray_color-compressed.webp?v=1777452561
-    Price: ￥15,980.00 JPY
+    Price: ￥9,680.00 JPY
   - [ガンブラック / GB0702 / Sサイズ /機内持ち込み/1～3泊](https://newtrip.online/products/0702-suitcase?variant=50260178895123)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/804bae0fd100cd46d6ef7c61daa58e24-compressed.webp?v=1777452579
-    Price: ￥15,980.00 JPY
+    Price: ￥9,680.00 JPY
 - [New Trip 0701 Plus｜軽量スーツケース・ストッパー＆物掛けフック付き](https://newtrip.online/products/0701plus-suitcase): New Trip 0701 Plusは、軽量設計とストッパー付きキャスター、便利な物掛けフックを備えたスーツケース。Sサイズは40Lで、1〜3泊の旅行や出張におすすめです。YKKファスナーやTSAロック、整理しやすい内装も魅力。移動のしやすさと収納力を重視する方に。
-  Updated: 2026-11-10T00:41:13Z
+  Updated: 2026-11-17T12:24:49Z
   Vendor: 誰もが大好評
   Product Type: 拉链行李箱
   Availability: Available
@@ -280,7 +280,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
   - [ローズゴールド / Sサイズ /機内持ち込み /1～3泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=50254750744851)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/4_1261318e-d0dd-491d-a4c1-993af184d4e5-compressed.webp?v=1788330690
-    Price: ￥6,980.00 JPY
+    Price: ￥7,280.00 JPY
   - [ローズゴールド / Mサイズ /無料受託手荷物/4～7泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=50254750777619)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/4_1261318e-d0dd-491d-a4c1-993af184d4e5-compressed.webp?v=1788330690
@@ -292,7 +292,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
   - [シャンパンゴールド / Sサイズ /機内持ち込み /1～3泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=48328336736531)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_champagne_gold_color.png?v=1792566530
-    Price: ￥6,980.00 JPY
+    Price: ￥7,280.00 JPY
   - [シャンパンゴールド / Mサイズ /無料受託手荷物/4～7泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=48328336900371)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_champagne_gold_color.png?v=1792566530
@@ -304,7 +304,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
   - [ブラック / Sサイズ /機内持ち込み /1～3泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=48328336670995)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_black_color.webp?v=1792566764
-    Price: ￥6,980.00 JPY
+    Price: ￥7,280.00 JPY
   - [ブラック / Mサイズ /無料受託手荷物/4～7泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=48328336834835)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_black_color.webp?v=1792566764
@@ -316,7 +316,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
   - [ブルー / Sサイズ /機内持ち込み /1～3泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=48328336703763)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_blue_color.webp?v=1792566686
-    Price: ￥6,980.00 JPY
+    Price: ￥7,280.00 JPY
   - [ブルー / Mサイズ /無料受託手荷物/4～7泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=48328336867603)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_blue_color.webp?v=1792566686
@@ -328,7 +328,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
   - [グリーン / Sサイズ /機内持ち込み /1～3泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=48328336769299)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_green_color.webp?v=1792566821
-    Price: ￥6,980.00 JPY
+    Price: ￥7,280.00 JPY
   - [グリーン / Mサイズ /無料受託手荷物/4～7泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=48328336933139)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_green_color.webp?v=1792566821
@@ -340,7 +340,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
   - [シルバー / Sサイズ /機内持ち込み /1～3泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=48328336802067)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/0701plus-sliver.jpg?v=1788330819
-    Price: ￥6,980.00 JPY
+    Price: ￥7,280.00 JPY
   - [シルバー / Mサイズ /無料受託手荷物/4～7泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=48328336965907)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/0701plus-sliver.jpg?v=1788330819
@@ -352,7 +352,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
   - [ホワイト / Sサイズ /機内持ち込み /1～3泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=50254707032339)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_white_color.webp?v=1792566845
-    Price: ￥6,980.00 JPY
+    Price: ￥7,280.00 JPY
   - [ホワイト / Mサイズ /無料受託手荷物/4～7泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=50254707065107)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_white_color.webp?v=1792566845
@@ -364,19 +364,19 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
   - [パープル / Sサイズ /機内持ち込み /1～3泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=50728518025491)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_deep_purple_color.webp?v=1792566651
-    Price: ￥6,980.00 JPY
+    Price: ￥7,280.00 JPY
   - [パープル / Mサイズ /無料受託手荷物/4～7泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=50728518058259)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_deep_purple_color.webp?v=1792566651
     Price: ￥8,580.00 JPY
   - [パープル / Lサイズ /無料受託手荷物/7泊～長期旅行 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=50728518091027)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_deep_purple_color.webp?v=1792566651
     Price: ￥9,680.00 JPY
   - [オートミールグレー / Sサイズ /機内持ち込み /1～3泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=50728518123795)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_oatmeal_gray_color.webp?v=1792566737
-    Price: ￥6,980.00 JPY
+    Price: ￥7,280.00 JPY
   - [オートミールグレー / Mサイズ /無料受託手荷物/4～7泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=50728518156563)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_oatmeal_gray_color.webp?v=1792566737
@@ -388,17 +388,17 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
   - [ミッドナイトグリーン / Sサイズ /機内持ち込み /1～3泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=50728518222099)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_midnightgreen_color.webp?v=1792566574
-    Price: ￥6,980.00 JPY
+    Price: ￥7,280.00 JPY
   - [ミッドナイトグリーン / Mサイズ /無料受託手荷物/4～7泊 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=50728518254867)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_midnightgreen_color.webp?v=1792566574
     Price: ￥8,580.00 JPY
   - [ミッドナイトグリーン / Lサイズ /無料受託手荷物/7泊～長期旅行 / 当日～2営業日発送](https://newtrip.online/products/0701plus-suitcase?variant=50728518287635)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_midnightgreen_color.webp?v=1792566574
     Price: ￥9,680.00 JPY
 - [GB0301 スーツケース 静音ダブルキャスター ストッパー USB充電ポート 物掛けフック TSAロック 高品質ボディ YKKファスナー](https://newtrip.online/products/0301-suitcase): 便利なUSB充電ポート付きのNew Trip 0301 スーツケースは、場所を選ばずいつでもどこでも移動しながら効率よく充電ができます。ABS樹脂は軽くて弾力性と割れに強く、PC（ポリカーボネート）樹脂は耐衝撃性・断熱材に優れる、両素材を混合した耐久性が高いハードタイプの高品質ボディを実現しています。
-  Updated: 2026-11-09T15:04:43Z
+  Updated: 2026-11-16T06:33:22Z
   Vendor: 超軽量USBポート付き
   Product Type: 拉链行李箱
   Availability: Available
@@ -406,65 +406,65 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
   - [ブラック / Sサイズ /機内持ち込み /1～3泊 / 当日～2営業日発送](https://newtrip.online/products/0301-suitcase?variant=48411460731155)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_1031_black_color-compressed.webp?v=1777452700
-    Price: ￥15,680.00 JPY
+    Price: ￥7,980.00 JPY
   - [ブラック / Mサイズ /無料受託手荷物/4～7泊 / 当日～2営業日発送](https://newtrip.online/products/0301-suitcase?variant=48411460763923)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_1031_black_color-compressed.webp?v=1777452700
-    Price: ￥17,680.00 JPY
+    Price: ￥8,980.00 JPY
   - [ブラック / Lサイズ /無料受託手荷物/7泊～長期旅行 / 当日～2営業日発送](https://newtrip.online/products/0301-suitcase?variant=48411460796691)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_1031_black_color-compressed.webp?v=1777452700
-    Price: ￥19,680.00 JPY
+    Price: ￥9,980.00 JPY
   - [ブルー / Sサイズ /機内持ち込み /1～3泊 / 当日～2営業日発送](https://newtrip.online/products/0301-suitcase?variant=48411460829459)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_1031_blue_color-compressed.webp?v=1777452758
-    Price: ￥15,680.00 JPY
+    Price: ￥7,980.00 JPY
   - [ブルー / Mサイズ /無料受託手荷物/4～7泊 / 当日～2営業日発送](https://newtrip.online/products/0301-suitcase?variant=48411460862227)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_1031_blue_color-compressed.webp?v=1777452758
-    Price: ￥17,680.00 JPY
+    Price: ￥8,980.00 JPY
   - [ブルー / Lサイズ /無料受託手荷物/7泊～長期旅行 / 当日～2営業日発送](https://newtrip.online/products/0301-suitcase?variant=48411460894995)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_1031_blue_color-compressed.webp?v=1777452758
-    Price: ￥19,680.00 JPY
+    Price: ￥9,980.00 JPY
   - [シャンパンゴールド / Sサイズ /機内持ち込み /1～3泊 / 当日～2営業日発送](https://newtrip.online/products/0301-suitcase?variant=48411460927763)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_1031_champagne_gold_color-compressed.webp?v=1777452765
-    Price: ￥15,680.00 JPY
+    Price: ￥7,980.00 JPY
   - [シャンパンゴールド / Mサイズ /無料受託手荷物/4～7泊 / 当日～2営業日発送](https://newtrip.online/products/0301-suitcase?variant=48411460960531)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_1031_champagne_gold_color-compressed.webp?v=1777452765
-    Price: ￥17,680.00 JPY
+    Price: ￥8,980.00 JPY
   - [シャンパンゴールド / Lサイズ /無料受託手荷物/7泊～長期旅行 / 当日～2営業日発送](https://newtrip.online/products/0301-suitcase?variant=48411460993299)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_1031_champagne_gold_color-compressed.webp?v=1777452765
-    Price: ￥19,680.00 JPY
+    Price: ￥9,980.00 JPY
   - [ローズゴールド / Sサイズ /機内持ち込み /1～3泊 / 当日～2営業日発送](https://newtrip.online/products/0301-suitcase?variant=48411461026067)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_1031_rose_gold_color-compressed.webp?v=1777452755
-    Price: ￥15,680.00 JPY
+    Price: ￥7,980.00 JPY
   - [ローズゴールド / Mサイズ /無料受託手荷物/4～7泊 / 当日～2営業日発送](https://newtrip.online/products/0301-suitcase?variant=48411461058835)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_1031_rose_gold_color-compressed.webp?v=1777452755
-    Price: ￥17,680.00 JPY
+    Price: ￥8,980.00 JPY
   - [ローズゴールド / Lサイズ /無料受託手荷物/7泊～長期旅行 / 当日～2営業日発送](https://newtrip.online/products/0301-suitcase?variant=48411461091603)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_1031_rose_gold_color-compressed.webp?v=1777452755
-    Price: ￥19,680.00 JPY
+    Price: ￥9,980.00 JPY
   - [シルバー / Sサイズ /機内持ち込み /1～3泊 / 当日～2営業日発送](https://newtrip.online/products/0301-suitcase?variant=48411461124371)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_1031_gray_color-compressed.webp?v=1777452762
-    Price: ￥15,680.00 JPY
+    Price: ￥7,980.00 JPY
   - [シルバー / Mサイズ /無料受託手荷物/4～7泊 / 当日～2営業日発送](https://newtrip.online/products/0301-suitcase?variant=48411461157139)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_1031_gray_color-compressed.webp?v=1777452762
-    Price: ￥17,680.00 JPY
+    Price: ￥8,980.00 JPY
   - [シルバー / Lサイズ /無料受託手荷物/7泊～長期旅行 / 当日～2営業日発送](https://newtrip.online/products/0301-suitcase?variant=48411461189907)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_1031_gray_color-compressed.webp?v=1777452762
-    Price: ￥19,680.00 JPY
+    Price: ￥9,980.00 JPY
 - [1101 耐衝撃アルミフレームスーツケース 静音キャスター・ブレーキ機能・物掛けフック・TSAロック搭載 ポリカーボネート高耐久性](https://newtrip.online/products/1101-suitcase): アルミフレームスーツケースは、360度回転可能なダブルキャスターとショック吸収サスペンションを搭載しており、段差のある場所を走行する際の衝撃を吸収し。超軽量キャリバーは伸縮可能で、ご自分の身長に合わせて最適な高さに調節できます。内装は両面ともファスナー開閉式の中仕切りでしっかりと区切られており、荷物を一杯に詰めても荷崩れしにくく。
-  Updated: 2026-11-09T15:07:03Z
+  Updated: 2026-11-16T06:35:34Z
   Vendor: ビジネスおすすめ
   Product Type: 铝框行李箱
   Availability: Available
@@ -472,53 +472,53 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
   - [シルバー / Sサイズ /機内持ち込み /1～3泊](https://newtrip.online/products/1101-suitcase?variant=48497175363859)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/2adaa317ba69f670f4d1eb501b6c4457_71c63482-e965-418e-aeca-837eae9c5ba4-compressed.webp?v=1777452873
-    Price: ￥25,980.00 JPY
+    Price: ￥13,580.00 JPY
   - [シルバー / Mサイズ /無料受託手荷物/4～7泊](https://newtrip.online/products/1101-suitcase?variant=48497175396627)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/2adaa317ba69f670f4d1eb501b6c4457_71c63482-e965-418e-aeca-837eae9c5ba4-compressed.webp?v=1777452873
-    Price: ￥31,980.00 JPY
+    Price: ￥16,980.00 JPY
   - [シルバー / Lサイズ /無料受託手荷物/7泊～長期旅行](https://newtrip.online/products/1101-suitcase?variant=48497175429395)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/2adaa317ba69f670f4d1eb501b6c4457_71c63482-e965-418e-aeca-837eae9c5ba4-compressed.webp?v=1777452873
-    Price: ￥37,580.00 JPY
+    Price: ￥21,580.00 JPY
   - [ブラック / Sサイズ /機内持ち込み /1～3泊](https://newtrip.online/products/1101-suitcase?variant=48497174839571)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/8ee163965c752b4df31d594396825cee_540d6026-fd42-4d86-8c62-763638a5fd1d-compressed.webp?v=1777452879
-    Price: ￥25,980.00 JPY
+    Price: ￥13,580.00 JPY
   - [ブラック / Mサイズ /無料受託手荷物/4～7泊](https://newtrip.online/products/1101-suitcase?variant=48497174872339)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/8ee163965c752b4df31d594396825cee_540d6026-fd42-4d86-8c62-763638a5fd1d-compressed.webp?v=1777452879
-    Price: ￥31,980.00 JPY
+    Price: ￥16,980.00 JPY
   - [ブラック / Lサイズ /無料受託手荷物/7泊～長期旅行](https://newtrip.online/products/1101-suitcase?variant=48497174905107)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/8ee163965c752b4df31d594396825cee_540d6026-fd42-4d86-8c62-763638a5fd1d-compressed.webp?v=1777452879
-    Price: ￥37,580.00 JPY
+    Price: ￥21,580.00 JPY
   - [ブルー / Sサイズ /機内持ち込み /1～3泊](https://newtrip.online/products/1101-suitcase?variant=48497174937875)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/3827f2bc8de03dc5a7a3a7d052e3b266-compressed.webp?v=1777452896
-    Price: ￥25,980.00 JPY
+    Price: ￥13,580.00 JPY
   - [ブルー / Mサイズ /無料受託手荷物/4～7泊](https://newtrip.online/products/1101-suitcase?variant=48497175003411)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/3827f2bc8de03dc5a7a3a7d052e3b266-compressed.webp?v=1777452896
-    Price: ￥31,980.00 JPY
+    Price: ￥16,980.00 JPY
   - [ブルー / Lサイズ /無料受託手荷物/7泊～長期旅行](https://newtrip.online/products/1101-suitcase?variant=48497175036179)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/3827f2bc8de03dc5a7a3a7d052e3b266-compressed.webp?v=1777452896
-    Price: ￥37,580.00 JPY
+    Price: ￥21,580.00 JPY
   - [ガンブラック / Sサイズ /機内持ち込み /1～3泊](https://newtrip.online/products/1101-suitcase?variant=48498922225939)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/3472a449b1ac517a298c504b15efe404-compressed.webp?v=1777452885
-    Price: ￥25,980.00 JPY
+    Price: ￥13,580.00 JPY
   - [ガンブラック / Mサイズ /無料受託手荷物/4～7泊](https://newtrip.online/products/1101-suitcase?variant=48498922258707)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/3472a449b1ac517a298c504b15efe404-compressed.webp?v=1777452885
-    Price: ￥31,980.00 JPY
+    Price: ￥16,980.00 JPY
   - [ガンブラック / Lサイズ /無料受託手荷物/7泊～長期旅行](https://newtrip.online/products/1101-suitcase?variant=48498922324243)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/3472a449b1ac517a298c504b15efe404-compressed.webp?v=1777452885
-    Price: ￥37,580.00 JPY
+    Price: ￥21,580.00 JPY
 - [【New Trip】キャスターカバー NT3101【10個セット】｜3サイズ展開・静音＆摩耗防止・シンプルデザイン](https://newtrip.online/products/luggage-wheel-covers): New TripのNT3101は、出張や日常使用が多いビジネスユーザーに最適なキャスターカバー。市販のカバーは1サイズという問題がありますが、5cm・5.5cm・6cmの3サイズ展開で、ダブルホイールにぴったりフィット。脱落しにくい設計で摩耗を軽減し、キャスターの寿命を大幅に延長。静音性も高く、早朝や深夜の移動も快適。
-  Updated: 2026-11-10T06:44:17Z
+  Updated: 2026-11-17T15:38:56Z
   Vendor: キャスターを長持ちさせる
   Product Type: 行李箱配件
   Availability: Available
@@ -644,13 +644,13 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/NT3101_caster_orange_color_Light-storing_type-compressed.webp?v=1777452994
     Price: ￥899.00 JPY
 - [New Trip 0201Plus｜機内持ち込みスーツケース USB＆拡張付き 軽量](https://newtrip.online/products/0201plus-suitcase): New Trip 0201Plus 軽量スーツケースは、100％PCボディとYKKファスナーで耐衝撃性抜群。容量20％拡張、USB/Type-C充電ポート、カップホルダー、隠しフックを搭載し、ビジネスやレジャーに最適。TSAロックとキャスターロックで安全・快適な旅をサポート。整理しやすい内部設計で荷物をスマートに収納。
-  Updated: 2026-11-09T14:03:47Z
+  Updated: 2026-11-17T15:38:52Z
   Vendor: USB機能アップグレード
   Product Type: 拉链行李箱
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_plus_champagne_gold_color-compressed.webp?v=1777453009
   - [Sサイズ /機内持ち込み /1～3泊 / シャンパンゴールド / 当日～2営業日発送](https://newtrip.online/products/0201plus-suitcase?variant=50164827095315)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/eda8ff4ef46bf06bf81c61dbd834ef4c-compressed.webp?v=1777453078
     Price: ￥12,980.00 JPY
   - [Sサイズ /機内持ち込み /1～3泊 / オートミールグレー / 当日～2営業日発送](https://newtrip.online/products/0201plus-suitcase?variant=50481127555347)
@@ -710,7 +710,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/2adaa317ba69f670f4d1eb501b6c4457-compressed.webp?v=1777453122
     Price: ￥17,980.00 JPY
 - [New Trip 2201｜30L拡張ビジネスリュック 3WAY 防水 PC収納・USB充電](https://newtrip.online/products/business-travel-backpack): New Trip 2201は、通勤から1〜2泊の出張・旅行まで活躍する30L拡張対応の3WAYビジネスリュック。15.6インチPC収納、USB・Type-Cポート、スーツケースのように開く収納構造を備え、荷物をすっきり整理できます。
-  Updated: 2026-11-09T15:09:15Z
+  Updated: 2026-11-16T06:38:12Z
   Vendor: ビジネスおすすめ
   Product Type: 背包
   Availability: Available
@@ -718,152 +718,152 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
   - [ブラック](https://newtrip.online/products/business-travel-backpack?variant=50211750674707)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_2201_backpack_black_color-compressed.webp?v=1777453117
-    Price: ￥16,980.00 JPY
+    Price: ￥8,980.00 JPY
   - [ネイビー](https://newtrip.online/products/business-travel-backpack?variant=50211750641939)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_2201_backpack_navy_color-compressed.webp?v=1777453162
-    Price: ￥16,980.00 JPY
+    Price: ￥8,980.00 JPY
 [List Continued](https://newtrip.online/a/llms-agent/llms.txt?shop=newtrip-travel.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NzY4NzMyODg1MjY3LCJsYXN0X3ZhbHVlIjoiOTc2ODczMjg4NTI2NyJ9)
 
 ## Collections
 
 - [人気商品](https://newtrip.online/collections/best-suitcase): New Tripのスーツケースは、機能性とデザイン性を兼ね備えた旅行の必需品です。軽量で耐久性のあるボディ、静音キャスター、安心のTSAロックを搭載し、快適かつ安全な旅をサポートします。 さらに、荷物の整理がしやすい仕切り構造や、便利な拡張機能を備えたモデルも多数ご用意。ビジネスからレジャーまで、あらゆるシーンにフィットするラインナップで、多くのお客様から高い評価をいただいています。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 21
 - [旅行小物](https://newtrip.online/collections/travel-accessory): 荷物固定ベルトコレクションで旅行の安心を手に入れよう。新しい旅行アイテムがたくさん揃っています。オレンジ、ローズレッド、ネイビー、グレーなどの色もあります。
-  Updated: 2026-11-09T15:38:11Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 20
 - [新着商品](https://newtrip.online/collections/new-arrival): New Tripの新作コレクションは、旅のニーズに応える実用性と洗練されたデザインを追求しました。軽量で耐久性に優れたスーツケース、多機能収納を備えたバックパック、防水性や快適性にこだわった小物まで、細部にまで配慮したラインナップです。 あなたの旅を、さらにスムーズで特別なものにするためのアイテムをご提案します。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 13
 - [スーツケース一覧](https://newtrip.online/collections/suitcase): New Trip公式のスーツケース一覧。S・M・Lのサイズや重量、フロントオープン、ストッパー、拡張機能などを比較して、旅行日数や使い方に合う一台を見つけましょう。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 43
 - [すべての商品](https://newtrip.online/collections/all-product): New Trip公式オンラインストア。スーツケース・リュックサック、旅行向けの小物など、旅を快適にする全ラインアップを掲載。機能性とデザイン性を両立したアイテムで、あなたの旅をもっと自由に。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 73
 - [Monomiスーツケース](https://newtrip.online/collections/monomi): MonomiはNew Tripのサブブランドで、スーツケースやトラベルバックパックに特化しています。日本ブランドとして、Monomiは製品デザインに日本独自の感性とトレンド美を取り入れ、実用性と融合させることで、若いお客様から広く愛されています。Monomiのスーツケースを使って、快適でおしゃれな旅を楽しんでください。
-  Updated: 2026-11-09T15:09:21Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 9
 - [リュックサック](https://newtrip.online/collections/backpack): 2026年最新｜仕事も旅もこれ一つ。PC収納や防水機能を備えた「New Trip」の多機能リュックを特集。ビジネスシーンに馴染むスリム設計から、1〜2泊の出張に最適な大容量モデルまで。肩への負担を軽減する人間工学デザインで、毎日の移動をより快適に。
-  Updated: 2026-11-09T15:09:21Z
+  Updated: 2026-11-16T06:38:14Z
   Total Products: 4
 - [機内持ち込みスーツケース](https://newtrip.online/collections/carry-on-suitcase): 2026年最新｜機内持ち込みスーツケースの選び方。JAL・ANAからLCC（Peach/Jetstar）まで、厳しい7kg制限をクリアする超軽量モデルを特集。New Tripのフロントオープン型やUSBポート付きなら、空港での待ち時間もスマートに。失敗しないサイズ選びを徹底解説。
-  Updated: 2026-11-09T15:38:17Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 27
 - [拡張機能付きスーツケース](https://newtrip.online/collections/expandable-suitcases): New Trip公式の拡張機能付きスーツケース一覧。ファスナー操作でマチ幅を広げ、旅行中に増えた荷物やお土産も収納しやすいモデルをラインナップ。容量・重量・機能を比較して、自分に合った一台をお選びいただけます。
-  Updated: 2026-11-09T15:06:29Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 15
 - [フロントオープンスーツケース](https://newtrip.online/collections/front-open-suitcases): New Trip公式のフロントオープンスーツケース一覧。前面のポケットからノートPCや小物を取り出しやすく、出張や旅行中の荷物整理にも便利なモデルを紹介。収納構造やサイズ、搭載機能を比較して、自分に合った一台をお選びいただけます。
-  Updated: 2026-11-09T15:38:17Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 11
 - [超軽量スーツケース](https://newtrip.online/collections/ultra-light-suitcase): 女性やお子様でも扱いやすい超軽量スーツケース。機内持ち込みサイズから長期用まで、軽さにこだわったNew Tripの人気ラインナップをご紹介。重い荷物のストレスから解放される、最新の超軽量設計を体感してください。3年保証付きで安心。
-  Updated: 2026-11-09T15:09:21Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 21
-- [静音設計のキャスター](https://newtrip.online/collections/silent-wheels-suitcases): 早朝・深夜の移動も、驚くほど静かに。New Tripの静音キャスター搭載スーツケース特集です。360度回転する高品質なサイレントホイールが、石畳やアスファルトでの走行音を大幅に軽減。滑らかな滑り出しで、重い荷物も軽い力でスムーズに運べます。周囲を気にせずスマートに移動したい方のための、快適な一台を見つけてください。
-  Updated: 2026-11-09T15:38:27Z
-  Total Products: 32
+- [静音キャスター付きスーツケース](https://newtrip.online/collections/silent-wheels-suitcases): New Trip公式の静音キャスター付きスーツケース一覧。移動中の走行音を抑える設計のモデルを紹介。キャスターの静音性や走行性、サイズ・機能を比較して、旅行や出張に合った一台をお選びいただけます。
+  Updated: 2026-11-17T12:06:38Z
+  Total Products: 29
 - [USB充電ポート付きスーツケース](https://newtrip.online/collections/usb-port-suitcases): New Trip公式のUSBポート付きスーツケース一覧。モバイルバッテリーを接続して、移動中もスマートフォンなどを充電できる便利なモデルを紹介。旅行や出張に役立つ機能や使いやすさを比較して、自分に合った一台をお選びいただけます。
-  Updated: 2026-11-09T15:38:17Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 17
-- [TSAロック搭載スーツケース](https://newtrip.online/collections/tsa-lock-suitcases): 海外旅行の必需品。New TripのTSAロック搭載スーツケース特集です。米国領土への渡航時も、鍵をかけたまま航空会社に預けられるため、防犯性と利便性を両立。最新の埋め込み式ダイヤルロックや、検査員による破損を防ぐ安全設計を採用しています。機内持込から大型サイズまで、安心のセキュリティ機能を備えた一台を選びましょう。
-  Updated: 2026-11-09T15:38:27Z
-  Total Products: 32
+- [TSAロック搭載スーツケース](https://newtrip.online/collections/tsa-lock-suitcases): New Trip公式のTSAロック付きスーツケース一覧。海外旅行や飛行機での預け入れに便利なTSAロックの仕組みや選び方を紹介。サイズ・容量・キャスターなどの機能も比較して、自分に合った一台をお選びいただけます。
+  Updated: 2026-11-17T12:06:38Z
+  Total Products: 29
 - [1-3泊に適するスーツケース](https://newtrip.online/collections/suitcases-for-1-3-days): 1〜3泊の短期旅行や出張に最適！New Tripの機内持込対応スーツケース特集です。コンパクトながら、着替えやPCを効率よく収納できる設計。軽量で小回りが利くため、混雑した駅や空港でもスムーズに移動できます。コインロッカーにも入りやすく、フットワークの軽い旅をサポート。
-  Updated: 2026-11-09T15:38:17Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 34
 - [4-7泊に適するスーツケース](https://newtrip.online/collections/suitcases-for-4-7-days): 4〜7泊の旅行や1週間の海外出張に最適！New TripのMサイズスーツケース特集です。着替えやお土産もたっぷり入る余裕の収納力と、軽量でスムーズな走行性能を両立。荷物が増えても安心の容量拡張機能や、防犯性に優れたTSAロックも完備しています。修学旅行からレジャーまで、幅広いシーンで活躍する理想のサイズ。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 21
 - [7泊以上に適するスーツケース](https://newtrip.online/collections/suitcases-for-over-7-days): 7泊以上の長期旅行や海外留学、家族旅行に！New TripのLサイズ・大容量スーツケース特集です。着替えや厚手の荷物、お土産も余裕で収まる圧倒的な収納力を実現。大型ながら軽量な設計と高耐久キャスターで、長距離の移動もスムーズにサポートします。長期滞在を支える安心の堅牢性と、使いやすさを備えた一台を。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 21
-- [海外旅行におすすめのスーツケース](https://newtrip.online/collections/overseas-travel-suitcase): 初めての海外旅行もNew Tripで安心！1週間以上の長期滞在に耐える頑丈なハードケースから、拡張機能付きで帰国時のお土産もたっぷり収納できるモデルまで。2026年の渡航トレンドに合わせ、軽量さと耐久性を両立した「旅のプロ」推奨の1本をご紹介。
-  Updated: 2026-11-09T15:38:27Z
+- [海外旅行におすすめのスーツケース](https://newtrip.online/collections/overseas-travel-suitcase): New Trip公式の海外旅行向けスーツケース一覧。旅行日数や荷物の量に合わせたサイズ選びから、軽量性・TSAロック・拡張機能など、海外旅行に便利な機能まで紹介。自分の旅行スタイルに合った一台をお選びいただけます。
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 30
 - [国内旅行におすすめのスーツケース](https://newtrip.online/collections/domestic-travel): 新幹線や電車移動に便利な国内旅行向けスーツケース。機内持ち込みサイズや軽量スーツケースが人気で、週末旅行や帰省にもぴったりです。キャスターストッパーや前開きデザインなど、日本の旅行スタイルに合わせた機能も充実。短期間の旅を快適にするおすすめキャリーケースをご紹介します。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 36
 - [修学旅行におすすめのスーツケース](https://newtrip.online/collections/school-trip-suitcase): 修学旅行の準備はこれ！スマホ充電ができるUSBポート付きや、荷物の出し入れがスムーズなフロントオープンなど、2026年最新トレンドモデルを特集。New Tripなら、お土産が増えても安心の拡張機能付き。おしゃれで機能的なスーツケースが充実！
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 29
 - [ビジネスにおすすめのスーツケース](https://newtrip.online/collections/business-suitcases): New Tripが提案する出張に最適なスーツケース。PCや書類を即座に取り出せる「0501」フロントオープンモデルや、静音性に優れ移動中もストレスフリーな「0702 Plus」シリーズなど。機内持ち込みサイズから長期出張用まで、プロフェッショナルな旅を支える高機能モデルを厳選。
-  Updated: 2026-11-09T15:38:17Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 16
 - [アウトドアにおすすめのスーツケース](https://newtrip.online/collections/outdoor-friendly-suitcases): キャンプやフェス、アクティブな旅に。New Tripのアウトドア向けスーツケース特集です。未舗装の道でもスムーズに動ける大型・高耐久キャスターや、衝撃に強いタフなボディを採用。大容量でかさばるギアもしっかり収納でき、汚れを拭き取りやすい素材で屋外使用も安心です。自然の中でも頼りになる、タフな相棒を見つけましょう。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 23
 - [ストッパー付きスーツケース](https://newtrip.online/collections/suitcases-with-caster-stopper): New Trip公式のストッパー付きスーツケース一覧。電車やバスでの移動中、キャスターの転がりを抑えるストッパー機能を搭載したモデルを紹介。軽量性やキャスターの使いやすさ、便利な機能を比較して、自分に合った一台をお選びいただけます。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 23
 - [Mサイズのスーツケース](https://newtrip.online/collections/mサイズのスーツケース): New Trip公式のMサイズスーツケース一覧。収納力と持ち運びやすさのバランスに優れたモデルをラインナップ。3〜6泊程度の旅行や出張に適した一台を、容量・重量・機能から比較できます。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 22
 - [Lサイズのスーツケース](https://newtrip.online/collections/lサイズのスーツケース): New Trip公式のLサイズスーツケース一覧。7泊以上の旅行や長期滞在、荷物が多い方に適した大容量モデルをラインナップ。容量・重量・便利な機能を比較して、自分に合った一台をお選びいただけます。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 20
 - [[CloudSearch app] All products](https://newtrip.online/collections/cloud-search-all-products): This collection is used by the Cloud Search & Product Filter app (https://apps.shopify.com/cloudsearch) to query information about products in your store.Please do not edit or delete this collection (unless you've removed the app in which case you can safely delete it).
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 75
 - [Sサイズのスーツケース](https://newtrip.online/collections/sサイズのスーツケース): New Trip公式のSサイズスーツケース一覧。コンパクトで持ち運びやすいモデルを中心に、容量・重量・機能を比較できます。短期旅行や出張など、荷物をすっきりまとめたい方におすすめです。
-  Updated: 2026-11-09T15:38:17Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 27
-- [物掛けフック付きスーツケース](https://newtrip.online/collections/suitcases-with-hanging-hook): 旅行中、増えたお土産や手提げ袋に困ったことはありませんか？New Tripの物掛けフック付きスーツケースなら、サイドのフックに手荷物をサッと掛けられ、両手を塞がずスマートに移動できます。多機能ながら軽量で、空港や駅での待ち時間も快適。ビジネスからレジャーまで、移動のストレスを解消する便利な一台を選びましょう。
-  Updated: 2026-11-09T15:38:27Z
-  Total Products: 27
+- [物掛けフック付きスーツケース](https://newtrip.online/collections/suitcases-with-hanging-hook): New Trip公式の物掛けフック付きスーツケース一覧。ショッピングバッグやサブバッグなどを一時的に掛けられる便利なモデルを紹介。フックの使いやすさやサイズ、キャスターなどの機能を比較して、自分の旅行スタイルに合った一台をお選びいただけます。
+  Updated: 2026-11-17T12:06:38Z
+  Total Products: 24
 - [スーツケースキャスターカバー](https://newtrip.online/collections/suitcase-wheel-cover): スーツケースの走行音が驚くほど静かに！シリコン製「キャスターカバー」のメリットと選び方を解説。傷や汚れから車輪を守るだけでなく、室内を汚さず保管できる衛生面も魅力。New Tripの静音モデルをさらに快適にする、旅の必須アイテムです。
-  Updated: 2026-11-09T12:06:23Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 3
 - [総合ランキング](https://newtrip.online/collections/best-sellers): New Tripで今最も選ばれているスーツケースは？フロントオープンで利便性の高い「0501」や、超軽量で頑丈な「0201」など、ユーザー満足度の高い人気モデルをランキング形式でご紹介。サイズや機能で迷ったら、まずはこのベストセラーリストをチェック！あなたの旅を彩る一台が見つかります。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 26
 - [実店舗ランキング](https://newtrip.online/collections/実店舗ランキング): New Tripの実店舗で売れているスーツケース・バックパックの人気ランキングをチェック。実際のお客様に選ばれている売れ筋アイテムを集めました。軽量で頑丈なスーツケースから、通勤や出張に便利なビジネスリュックまで、リアルな支持を集めるおすすめ商品をご紹介します。旅行や日常使いにぴったりの一品を見つけてください。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 21
 - [桜の季節におすすめ](https://newtrip.online/collections/sakura-color-suitcase): 桜の季節がやってきました！ 春の旅行を計画中のあなたにぴったりのアイテムといえば、やっぱりピンク色のスーツケースですよね。 淡いピンクが桜とマッチして、旅の気分を一気に盛り上げてくれるんです。 今回は、桜の季節におすすめのスーツケースと、注目の新商品をご紹介します！
-  Updated: 2026-11-09T15:06:48Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 18
 - [サイズから選ぶ](https://newtrip.online/collections/size): 1〜3泊に最適な機内持ち込みサイズ（S）、3〜5泊の中型（M）、1週間以上の長期旅行・留学に便利な大型（L）まで幅広くラインナップ。各航空会社の規定に合わせたサイズ選びのポイントも。あなたの旅の期間にぴったりの容量を、New Tripで見つけよう。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 32
 - [機能から選ぶ](https://newtrip.online/collections/features): 出し入れ便利な「フロントオープン」、移動を快適にする「超静音キャスター」、PC保護ポケットや拡張機能など、旅の質を高める機能が満載。あなたのこだわりに応える高スペックなモデルをラインナップ。妥協のない機能美で、次の旅をもっとスマートに。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 34
 - [シーンから選ぶ](https://newtrip.online/collections/travel-scenes): 旅行や出張など利用シーンに合わせて最適なスーツケースを選べるコレクションページ。海外旅行や国内旅行、ビジネス出張、アウトドア活動まで、それぞれの用途に特化したスーツケースをご紹介します。軽量・耐久性・サイズ展開・機能性などを比較しながら、あなたにぴったりのキャリーケースを見つけてください。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 45
 - [New Trip スーツケース](https://newtrip.online/collections/new-trip-suitcase): 【New Trip 公式】旅をより快適に、スマートに。大容量で頑丈な0201シリーズから、フロントオープンが人気の0501モデルまで、機能性とデザインを両立したスーツケースが勢揃い。静音キャスターや高耐久素材を採用した日本ブランドならではの品質を、機内持ち込みから大型まで幅広くラインナップ。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 24
 - [New Trip Monthly ](https://newtrip.online/collections/new-trip-monthly-): 月に一度の特別イベント！スーツケース・キャリーケース・バックパック・旅行アクセサリーまで、人気商品が最大47％オフ。盂蘭盆や新学期、年末年始など、季節やイベントに合わせた約3-4日間限定セールを開催します。旅行や出張に欠かせないトラベルアイテムを、この機会にお得に手に入れてください。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 45
 - [New Trip Daily ](https://newtrip.online/collections/new-trip-daily-): 【毎日更新】New Tripの日替わりセール！人気の超軽量スーツケースやビジネスバックパック、旅行アクセサリーが最大47％OFFの特別価格で登場。数量限定・期間限定のタイムセールにつき、早い者勝ちです。旅を快適にする高品質なアイテムを、どこよりもお得に手に入れるチャンス。今すぐ最新のラインナップをチェック！
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 49
 - [ファスナータイプのスーツケース](https://newtrip.online/collections/zipper-suitcase): New Tripのファスナー型スーツケースは、軽量で多機能。PCを取り出しやすいフロントオープンや、荷物が増えても安心な容量拡張モデルを豊富にラインナップ。機内持込Sサイズから大容量Lサイズまで、用途に合わせたサイズとカラーが選べます。耐久性抜群のボディとTSAロックで、安心・快適な旅を楽しみましょう。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 24
 - [フレームタイプのスーツケース](https://newtrip.online/collections/frame-suitcase): 大切な荷物を強固に守る。New Tripのフレームタイプスーツケース特集です。衝撃に強いアルミニウム合金フレームを採用し、高い堅牢性と防犯性を実現。ワンタッチで開閉できるラッチ式で、ファスナー特有の煩わしさがありません。精密機器や割れ物を運ぶ旅にも最適。高級感溢れるデザインと圧倒的な安心感を、あなたの旅に。
-  Updated: 2026-11-09T15:07:09Z
+  Updated: 2026-11-16T06:35:36Z
   Total Products: 5
 - [女性におすすめのスーツケース](https://newtrip.online/collections/女性におすすめのスーツケース): 旅行や出張をもっと楽しく、もっと自分らしく。こちらのページでは、女性におすすめのスーツケースをテーマに、機能性とデザイン性を兼ね備えたラインナップをご紹介します。軽量で使いやすく、収納力も抜群。さらにかわいいキャリーケースや、思わず写真を撮りたくなるおしゃれなスーツケースも豊富に揃っています。カラーやサイズも多彩なので、初めての一台から長く使える相棒まで、きっとあなたにぴったりのスーツケースが見つかります。
-  Updated: 2026-11-09T15:07:04Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 10
 - [家族旅行](https://newtrip.online/collections/family-travel-suitcases): 2026年最新｜家族旅行をストレスフリーに！パパ・ママが選ぶ「家族向けスーツケース」特集。子供の着替えやお土産で荷物が増えても安心の拡張機能付きや、片手でスイスイ動く静音キャスター搭載のNew Tripモデルを厳選。人数別の最適サイズを詳しく解説します。
-  Updated: 2026-10-24T11:06:15Z
+  Updated: 2026-11-14T12:07:35Z
   Total Products: 10
 - [一人旅向けのスーツケース](https://newtrip.online/collections/single-travel-suitcase): 2026年の一人旅を身軽に！旅行のプロが教える「一人旅に最適なスーツケース」の選び方。機内持ち込みOKの超軽量モデルや、荷物の出し入れが楽なフロントオープン型を徹底比較。New Tripの最新モデルなら、自由でスマートな旅がもっと快適に。
-  Updated: 2026-11-09T15:38:17Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 18
 - [二人旅行向けのスーツケース](https://newtrip.online/collections/couple-travel-suitcase): 二人旅行をより快適に。New Tripが提案する二人旅行に最適なスーツケース特集です。二人の荷物をまとめて収納できるLサイズから、お揃い（ペア）で持ちたいスタイリッシュな機内持込モデルまで豊富にラインナップ。軽量で丈夫なボディとスムーズな走行性で、大切な人との旅の移動をストレスフリーにサポートします。
-  Updated: 2026-11-09T15:38:27Z
+  Updated: 2026-11-17T12:06:38Z
   Total Products: 7
 - [NewTrip & Monomi 折りたたみ傘特集](https://newtrip.online/collections/newtrip-monomi-umbrella): UVカット・遮熱に優れたNew Tripの日傘特集。182gの超軽量3段折から8本骨の男の日傘まで。紫外線カット100%で日光アレルギーや光線過敏症、ポルフィリン症対策にも。美白・アンチエイジングを支える日本製品質の紫外線防止機能。形状記憶のように畳みやすく、日焼け防止を徹底する究極の遮光日傘。
-  Updated: 2026-11-09T15:38:11Z
+  Updated: 2026-11-14T12:07:35Z
   Total Products: 6
 - [スーツケースベルト](https://newtrip.online/collections/suitcase-luggage-strap)
-  Updated: 2026-11-09T09:22:41Z
+  Updated: 2026-11-16T12:05:03Z
   Total Products: 4
 
 ## Blogs
@@ -1056,6 +1056,12 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
   - [New Trip、「mybest」2026年10月度のスーツケースのキャスター部門で第1位にランクイン！](https://newtrip.online/blogs/ニュース/newtrip-mybest-award-2026-10-1): New Trip、「mybest」2026年10月度のスーツケースのキャスター部門で第1位にランクイン！
     Updated: 2026-10-10T09:26:46Z
     Author: NewTrip
+  - [New Trip、「mybest」2026年11月度の出張用バッグ部門で第1位にランクイン！](https://newtrip.online/blogs/ニュース/newtrip-mybest-award-2026-11-2): New Trip、「mybest」2026年11月度の出張用バッグ部門で第1位にランクイン！
+    Updated: 2026-11-16T03:43:02Z
+    Author: NewTrip
+  - [New Trip、「mybest」2026年11月度のビジネス用キャリーバッグ部門で第1位にランクイン！](https://newtrip.online/blogs/ニュース/newtrip-mybest-award-2026-11-01): New Trip、「mybest」2026年11月度のビジネス用キャリーバッグ部門で第1位にランクイン！
+    Updated: 2026-11-16T03:42:17Z
+    Author: NewTrip
 - [Journeys](https://newtrip.online/blogs/journeys)
   - [スーツケースは軽い方がいい？軽量モデルのメリット・デメリットと失敗しない選び方](https://newtrip.online/blogs/journeys/軽量スーツケースで快適な旅を-おすすめモデルとポイント): <p>軽量スーツケースは移動が楽になる一方で、軽さだけで選ぶと後悔することもあります。本記事では、メリット・デメリット、選び方のポイント、おすすめモデルまでわかりやすく解説します。</p>
     Updated: 2026-07-20T05:45:29Z
@@ -1129,8 +1135,8 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Updated: 2025-11-21T10:02:16Z
     Author: MinaiKarte
     Tags: New Trip, YKKファスナー, キャスター, スーツケース カバー, スーツケース 手入れ, スーツケースキャスター壊れた, ソフトケース, ハードケース
-  - [スーツケースのサイズの選び方｜泊数・荷物量・移動方法から最適なサイズを解説](https://newtrip.online/blogs/guides/suitcase-size-guide): スーツケースのサイズの選び方｜泊数・荷物量・移動方法から最適なサイズを解説
-    Updated: 2026-09-11T09:08:20Z
+  - [スーツケースのサイズの選び方｜泊数・荷物量から最適な大きさを解説](https://newtrip.online/blogs/guides/suitcase-size-guide): スーツケースのサイズの選び方｜泊数・荷物量から最適な大きさを解説
+    Updated: 2026-11-12T09:43:09Z
     Author: WataribeSamina
     Tags: New Trip, TSAロック, YKKファスナー, おすすめ スーツケース, スーツケース, スーツケース サイズ, スーツケース 鍵, 新幹線 スーツケース, 機内持ち込み スーツケース, 軽量スーツケース, 選び方
   - [スーツケースベルトの使い方と選び方を解説!!](https://newtrip.online/blogs/guides/おすすめ-ス-ツケ-スベルト): スーツケースベルトの使い方と選び方を解説!!
@@ -1234,7 +1240,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Author: WataribeSamina
     Tags: New Trip, NEW TRIP 0201, おすすめ スーツケース, 新幹線 スーツケース, 棚 スーツケース, 足場 スーツケース
   - [買ってはいけないスーツケースとは？避けたい特徴と失敗しない選び方](https://newtrip.online/blogs/guides/dont-buy-suitcase-guide): 買ってはいけないスーツケースとは？避けたい特徴と失敗しない選び方
-    Updated: 2026-09-14T09:28:22Z
+    Updated: 2026-11-13T09:50:19Z
     Author: WataribeSamina
     Tags: New Trip, TSAロック, YKKファスナー, おすすめ スーツケース, スーツケース おすすめ, 買っ て は いけない スーツ ケース, 軽量スーツケース, 選び方
   - [2泊3日のスーツケースは何L必要？機内持ち込みサイズの選び方を解説](https://newtrip.online/blogs/guides/2-lodge-3-days-suitcase-guide): 2泊3日のスーツケースは何L必要？機内持ち込みサイズの選び方を解説
@@ -1282,8 +1288,8 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Author: WataribeSamina
     Tags: New Trip, NEW TRIP 0201, NEW TRIP 0701PLUS, New Trip 0702, NEW TRIP 1101, New Trip 1302, キャリー ケース フレーム タイプ, スーツ ケース フレーム タイプ, ファスナータイプ, フレームロック
   - [海外旅行スーツケースの選び方｜サイズ目安・TSAロック・おすすめモデルを解説](https://newtrip.online/blogs/guides/overseas-travel-suitcase-guide): 海外旅行スーツケースの選び方｜サイズ目安・TSAロック・おすすめモデルを解説
-    Updated: 2026-08-21T10:22:08Z
-    Author: GemPages
+    Updated: 2026-11-16T09:37:04Z
+    Author: WataribeSamina
     Tags: 1泊旅行 おすすめ, 2泊3日 キャリーケース, 2泊3日 スーツケース, MONOMI, MONOMI 0801, New Trip, NEW TRIP 0201, New Trip 0201Plus, NEW TRIP 0701PLUS, New Trip 0702, New Trip 1302, TSAロック, YKKファスナー, おしゃれ スーツ ケース, おすすめ スーツケース, アルミ スーツ ケース, キャスターカバー, キャリー ケース フレーム タイプ, キャリー ケース 機内 持ち込み, キャリー ケース 頑丈, スーツ ケース mサイズ, スーツ ケース sサイズ, スーツ ケース おすすめ, スーツ ケース かわいい, スーツ ケース フレーム タイプ, スーツケース lサイズ, スーツケース おすすめ, スーツケース 拡張機能, スーツケース 選び方, ソフトケース, ハードケース, ビジネス スーツケース, フロントオープンスーツケース, 一人 旅 おすすめ 女, 丈夫 な スーツ ケース, 日本旅行 準備
   - [父の日に贈る、旅のスタイルに合わせた「New Trip」のスーツケース](https://newtrip.online/blogs/guides/lightweight-suitcase-guide)
     Updated: 2026-08-21T10:21:16Z
@@ -1648,6 +1654,9 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Author: WataribeSamina
   - [冬旅行のスーツケースはどう選ぶ？荷物が増える季節のサイズ・選び方ガイド](https://newtrip.online/blogs/guides/winter-travel-suitcase): 冬旅行のスーツケースはどう選ぶ？荷物が増える季節のサイズ・選び方ガイド
     Updated: 2026-11-04T09:46:33Z
+    Author: WataribeSamina
+  - [スーツケースのドリンクホルダーは便利？使い方・メリットと預ける際の注意点](https://newtrip.online/blogs/guides/suitcase-drink-holder-guide): スーツケースのドリンクホルダーは便利？使い方・メリットと預ける際の注意点
+    Updated: 2026-11-13T06:47:33Z
     Author: WataribeSamina
 - [製品レビューと体験](https://newtrip.online/blogs/reviews): スーツケースの新製品を実際に使ったレビューとリアルな体験談を徹底紹介。旅先での使い心地や耐久性、デザインの感想を詳細にレポートします。写真付きで分かりやすく、あなたに最適なモデルを見つける手助けに。購入前にリアルな声を聞きたい方、スーツケースの実力を知りたい方はぜひこちらをチェックしてください！
   - [New Trip 0201Plus｜100%ポリカーボネート採用の多機能スーツケース](https://newtrip.online/blogs/reviews/new-trip-0201plus-tech-review): New Trip 0201Plus｜100%ポリカーボネート採用の多機能スーツケース
