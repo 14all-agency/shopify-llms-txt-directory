@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2020-04-23T07:14:05Z
 - Contact Email: info@folkmarket.com
-- Updated At: 2026-11-10T01:15:46.617Z
+- Updated At: 2026-11-18T01:14:01.274Z
 
 ## Products
 
@@ -1586,7 +1586,7 @@
   Updated: 2026-11-09T11:41:23Z
   Total Products: 179
 - [Sales Deals on Crystal and Crafts](https://www.folkmarket.com/collections/sales-deals-with-folkmarket): Shop authentic crystals, vintage jewelry, artisan crafts, home decor & more on . Premium quality at special prices. Limited stock available.
-  Updated: 2026-11-09T13:03:38Z
+  Updated: 2026-11-17T12:33:26Z
   Total Products: 98
 - [Polished Crystals - Loose Gems](https://www.folkmarket.com/collections/polished-crystals): Explore high-quality loose gemstones online at Folkmarket Crystal Store. Buy loose gemstones for jewelry or collection — emeralds, rubies, sapphires, peridots, tourmalines, amethysts, and more. Trusted worldwide for loose gemstones for  and gemstones and crystals near me.
   Updated: 2026-10-28T12:01:45Z
@@ -1595,13 +1595,13 @@
   Updated: 2026-07-09T20:07:46Z
   Total Products: 1
 - [Under $500](https://www.folkmarket.com/collections/under-500)
-  Updated: 2026-11-09T13:03:38Z
-  Total Products: 403
+  Updated: 2026-11-17T12:34:07Z
+  Total Products: 404
 - [Under $300USD](https://www.folkmarket.com/collections/deals-under-300-usd)
-  Updated: 2026-11-09T13:03:38Z
-  Total Products: 362
+  Updated: 2026-11-17T12:23:33Z
+  Total Products: 364
 - [Deals $100 USD Crystals | Jewelry | Crafts](https://www.folkmarket.com/collections/folkmarket-craft-sales-under-100-usd): Discover crystals, vintage jewelry, handicrafts, packaging supplies, handbags & home decor under $100. Premium artisan products at affordable prices.
-  Updated: 2026-11-09T13:03:38Z
+  Updated: 2026-11-16T19:46:26Z
   Total Products: 198
 - [Turquoise Crystals](https://www.folkmarket.com/collections/turquoise-crystals): Shop natural turquoise crystals, loose stones & jewelry at Folkmarket. Ethically sourced, bohemian-luxury pieces for collectors & healers.
   Updated: 2026-08-24T20:10:44Z
@@ -1610,8 +1610,8 @@
   Updated: 2026-10-07T11:37:55Z
   Total Products: 127
 - [Start Up Crafts Materials](https://www.folkmarket.com/collections/deals-for-beginners): Start Up Material for New Businesses
-  Updated: 2026-11-09T13:03:38Z
-  Total Products: 368
+  Updated: 2026-11-17T12:23:33Z
+  Total Products: 369
 - [Afghan Vintage Rings](https://www.folkmarket.com/collections/afghan-kuchi-tribal-rings): Shop Afghan Kuchi vintage rings in single pieces & wholesale sets. Handmade in Peshawar with turquoise, coral & lapis lazuli. Buy now at Folkmarket.
   Updated: 2026-07-09T23:44:08Z
   Total Products: 18
@@ -1679,7 +1679,7 @@
   Updated: 2026-10-06T12:43:10Z
   Total Products: 34
 - [Home & Lifestyle Décor Artisans Made](https://www.folkmarket.com/collections/home-decor-home-accessories-crafts): Shop hand-carved artisan home décor and wellness lighting. Natural crystal lamps, sphere lights & salt room kits from $39. Authentic. Secure checkout.
-  Updated: 2026-11-03T22:14:38Z
+  Updated: 2026-11-17T12:33:26Z
   Total Products: 27
 - [Featured Collections](https://www.folkmarket.com/collections/featured-collections): Shop handmade tribal jewelry, natural crystals, boho bags & artisan crafts at Folkmarket. Wholesale deals from $10. Secure checkout. Shop now.
   Updated: 2026-07-09T20:07:55Z
