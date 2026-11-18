@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-08-05T05:52:41Z
 - Contact Email: christowelman4@gmail.com
-- Updated At: 2026-11-11T01:04:43.374Z
+- Updated At: 2026-11-18T01:22:28.670Z
 
 ## Products
 
@@ -600,6 +600,15 @@
     Author: Velocity
   - [Streamline Your Drive: A Comprehensive Guide to Using the 360° Magnetic Dashboard Mount in South Africa](https://czi61i-0j.myshopify.com/blogs/news/streamline-your-drive-a-comprehensive-guide-to-using-the-360-magnetic-dashboard-mount-in-south-africa): Streamline Your Drive: A Comprehensive Guide to Using the 360° Magnetic Dashboard Mount in South Africa
     Updated: 2026-11-09T01:22:38Z
+    Author: Velocity
+  - [Discover the Ultimate Waterproof Motorcycle Cover for All-Weather Protection in South Africa](https://czi61i-0j.myshopify.com/blogs/news/discover-the-ultimate-waterproof-motorcycle-cover-for-all-weather-protection-in-south-africa): Discover the Ultimate Waterproof Motorcycle Cover for All-Weather Protection in South Africa
+    Updated: 2026-11-12T00:05:30Z
+    Author: Velocity
+  - [The Best Way to Entertain Your Passengers: Using the G02 Car Phone Holder for Rear-Seat Viewing](https://czi61i-0j.myshopify.com/blogs/news/the-best-way-to-entertain-your-passengers-using-the-g02-car-phone-holder-for-rear-seat-viewing): The Best Way to Entertain Your Passengers: Using the G02 Car Phone Holder for Rear-Seat Viewing
+    Updated: 2026-11-15T00:05:11Z
+    Author: Velocity
+  - [Unlock Precision Riding: The Advantages of CNC Adjustable Brake and Clutch Levers for Motorcycles in South Africa](https://czi61i-0j.myshopify.com/blogs/news/unlock-precision-riding-the-advantages-of-cnc-adjustable-brake-and-clutch-levers-for-motorcycles-in-south-africa): Unlock Precision Riding: The Advantages of CNC Adjustable Brake and Clutch Levers for Motorcycles in South Africa
+    Updated: 2026-11-16T01:03:21Z
     Author: Velocity
 
 ## Store Pages
