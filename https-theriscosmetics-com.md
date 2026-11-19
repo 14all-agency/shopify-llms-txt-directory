@@ -10,7 +10,7 @@
 - Contact Email: info@theriscosmetics.com
 - Contact Phone: 081 1964 2765
 - Address: Via Leonardo Bianchi, 680131 Napoli NA
-- Updated At: 2026-11-12T00:16:01.464Z
+- Updated At: 2026-11-19T00:18:11.084Z
 
 ## Products
 
@@ -22,7 +22,7 @@
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/DELICIEUX.jpg?v=1773160949
   Price: 36,00 € EUR
 - [Crema corpo idratante leggera – Nuage | Theris](https://theriscosmetics.com/products/nuage-crema-corpo-soffice): Crema corpo idratante leggera con aloe, acido ialuronico, burro di karité e niacinamide: si assorbe in fretta e non unge. Per l'uso quotidiano dopo la doccia.
-  Updated: 2026-11-11T22:59:23Z
+  Updated: 2026-11-17T12:14:01Z
   Vendor: Theris Cosmetics
   Product Type: Crema Corpo
   Availability: Available
@@ -57,14 +57,14 @@
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/VITALITE.jpg?v=1773160937
   Price: 44,10 € EUR
 - [Tonico viso acqua di rose senza alcol – Amoré | Theris](https://theriscosmetics.com/products/amore-tonico): Tonico viso all'acqua di rose senza alcol, con pantenolo e allantoina: completa la detersione e prepara la pelle a siero e crema. Mattina e sera.
-  Updated: 2026-11-11T22:59:24Z
+  Updated: 2026-11-17T12:14:01Z
   Vendor: Theris Cosmetics
   Product Type: Tonico Viso
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/AMORE_TONICO_LIQUIDO_MOD.jpg?v=1773160936
   Price: 18,90 € EUR
 - [Gel detergente viso pelle grassa – Clair | Theris](https://theriscosmetics.com/products/clair-gel-detergente): Gel detergente viso per pelle grassa e mista, con calendula e collagene idrolizzato: rimuove sebo e impurità senza far tirare la pelle. Mattina e sera.
-  Updated: 2026-11-11T22:59:24Z
+  Updated: 2026-11-17T14:13:31Z
   Vendor: Theris Cosmetics
   Product Type: Detergente Viso
   Availability: Available
@@ -106,7 +106,7 @@
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/CLARTE.jpg?v=1773160927
   Price: 36,90 € EUR
 - [Siero al collagene viso rimpolpante – Densité | Theris](https://theriscosmetics.com/products/densite-siero-al-collagene): Siero al collagene viso con collagene idrolizzato e acido ialuronico: idrata, rimpolpa visibilmente e rende la pelle più compatta. Senza profumo. 30 ml.
-  Updated: 2026-11-11T22:59:24Z
+  Updated: 2026-11-18T15:07:07Z
   Vendor: Theris Cosmetics
   Product Type: Siero Viso
   Availability: Available
@@ -134,7 +134,7 @@
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/PUISSANCE_jpg.jpg?v=1773160924
   Price: 57,20 € EUR
 - [Cera sopracciglia effetto laminato – Brow Wax | Theris](https://theriscosmetics.com/products/brow-wax-permanent-make-up): Cera sopracciglia effetto laminato con sorbitolo: modella i peli verso l'alto e li fissa a lungo per sopracciglia piene e ordinate, effetto soap brows.
-  Updated: 2026-11-11T22:59:25Z
+  Updated: 2026-11-17T13:18:56Z
   Vendor: Theris Cosmetics
   Product Type: Make-Up Sopracciglia
   Availability: Available
@@ -148,7 +148,7 @@
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/BROWGELTRANSPARENT.jpg?v=1773917998
   Price: 10,00 € EUR
 - [Kit idratazione viso: detergente, tonico, crema | Theris](https://theriscosmetics.com/products/bundle-idratazione-routine-completa-viso): Kit idratazione viso in 3 passaggi: gel detergente Clair alla calendula, tonico Amoré all'acqua di rose e crema Lumière con bava di lumaca e ialuronico.
-  Updated: 2026-10-12T22:16:00Z
+  Updated: 2026-11-18T15:07:07Z
   Vendor: Theris Cosmetics
   Product Type: Bundle
   Availability: Available
@@ -193,13 +193,13 @@
 ## Collections
 
 - [Sieri viso](https://theriscosmetics.com/collections/sieri-viso): Sieri viso concentrati Made in Italy: vitamina C illuminante, collagene rassodante, acido salicilico per pelle impura e anti-macchie. INCI completo.
-  Updated: 2026-11-11T22:59:33Z
+  Updated: 2026-11-18T12:30:39Z
   Total Products: 7
 - [Detergenti e struccanti viso](https://theriscosmetics.com/collections/detersione): Burro struccante, acqua micellare e gel detergente viso per la doppia detersione: rimuovono trucco, anche waterproof, e sebo senza seccare la pelle.
-  Updated: 2026-11-11T22:59:25Z
+  Updated: 2026-11-18T12:30:39Z
   Total Products: 3
 - [Tonici viso](https://theriscosmetics.com/collections/tonici): Il tonico viso Theris con acqua di rosa damascena, pantenolo e allantoina: completa la detersione, riequilibra la pelle e la prepara a sieri e creme.
-  Updated: 2026-11-11T22:59:25Z
+  Updated: 2026-11-18T12:30:39Z
   Total Products: 1
 - [Creme viso](https://theriscosmetics.com/collections/creme-viso): Creme viso Made in Italy: crema giorno con vitamina C, crema notte antietà con peptidi e crema idratante con bava di lumaca e acido ialuronico.
   Updated: 2026-11-11T22:59:26Z
@@ -208,31 +208,31 @@
   Updated: 2026-11-11T22:59:24Z
   Total Products: 1
 - [Creme e trattamenti corpo](https://theriscosmetics.com/collections/corpo): Creme corpo idratanti per pelle normale e molto secca, scrub corpo al  con oli nutrienti e olio illuminante: la routine corpo Theris in tre gesti.
-  Updated: 2026-11-11T22:59:24Z
+  Updated: 2026-11-18T12:30:39Z
   Total Products: 4
 - [Prodotti per pelle spenta](https://theriscosmetics.com/collections/illuminante-pelle-spenta): Sieri e creme illuminanti per pelle spenta e colorito non uniforme: vitamina C stabilizzata, acido mandelico, siero anti-macchie e olio corpo illuminante.
   Updated: 2026-11-11T22:59:33Z
   Total Products: 4
 - [Prodotti per pelle impura e pori dilatati](https://theriscosmetics.com/collections/pelle-impura-pori-dilatati): Gel detergente, siero all'acido salicilico e siero esfoliante all'acido mandelico per pelle grassa, punti neri e pori dilatati. La routine in tre step.
-  Updated: 2026-11-11T22:59:25Z
+  Updated: 2026-11-18T12:30:39Z
   Total Products: 6
 - [Prodotti anti-age viso](https://theriscosmetics.com/collections/anti-age-rassodante): Routine anti-age con peptidi, acido ialuronico e collagene: siero liftante, siero rassodante, crema notte, crema giorno e contorno occhi antirughe.
-  Updated: 2026-11-11T22:59:26Z
+  Updated: 2026-11-18T12:30:39Z
   Total Products: 6
 - [Prodotti idratanti viso e corpo](https://theriscosmetics.com/collections/idratazione-intensa): Creme idratanti viso e corpo per pelle secca e disidratata: acido ialuronico, bava di lumaca, aloe vera, burro di karité e oli di mandorle e avocado.
-  Updated: 2026-11-11T22:59:25Z
+  Updated: 2026-11-18T12:30:39Z
   Total Products: 5
 - [Esfolianti viso e corpo](https://theriscosmetics.com/collections/esfoliazione-rinnovo-cellulare): Siero esfoliante viso con acido mandelico e salicilico e scrub corpo al  con oli nutrienti: per una pelle più liscia, uniforme e luminosa ogni giorno.
   Updated: 2026-11-11T22:59:25Z
   Total Products: 2
 - [All Products (ChatGPT-AI Product Description)](https://theriscosmetics.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-11-11T22:59:33Z
+  Updated: 2026-11-18T12:30:39Z
   Total Products: 25
 - [Best seller](https://theriscosmetics.com/collections/best-seller): I prodotti Theris più acquistati: il tonico Amoré, la crema notte Puissance, l'acqua micellare Éclat e il gel sopracciglia trasparente Brow Gel.
-  Updated: 2026-11-11T22:59:26Z
+  Updated: 2026-11-18T12:30:39Z
   Total Products: 4
 - [Prodotti per sopracciglia](https://theriscosmetics.com/collections/make-up): Gel sopracciglia trasparente e cera fissante effetto laminato per sopracciglia ordinate, piene e definite tutto il giorno, senza residui visibili.
-  Updated: 2026-11-11T22:59:26Z
+  Updated: 2026-11-18T12:30:39Z
   Total Products: 2
 - [Kit skincare viso](https://theriscosmetics.com/collections/bundle): Kit skincare viso con routine complete già abbinate per detersione, idratazione, anti-age e pelle impura: prodotti Theris pensati per lavorare insieme.
   Updated: 2026-10-12T10:19:01Z
