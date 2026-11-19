@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-08-07T15:06:26Z
 - Contact Email: estidfashion@gmail.com
-- Updated At: 2026-11-11T00:58:26.661Z
+- Updated At: 2026-11-19T01:01:28.037Z
 
 ## Products
 
@@ -368,14 +368,14 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/242248995824103424_a1a9d8c6-c1ef-4570-a654-97d6a99d3484.webp?v=1782159736
   Price: 94,16 € EUR
 - [Mitternacht Tropfen-Ohrringe | Vergoldeter Achat Schmuck | ESTID](https://www.estid-fashion.de/products/tropfen-ohrringe-gold-schwarz): Verleihen Sie Ihrem Stil mit diesen atemberaubenden 18K vergoldeten Tropfen-Ohrringen mit schwarzen Achatsteinen eine besondere Note. Perfekt für anspruchsvollen Alltagsluxus und besondere Anlässe. Free shipping in Germany
-  Updated: 2026-10-30T10:05:01Z
+  Updated: 2026-11-18T12:00:21Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/242059134225567744.webp?v=1782159756
   Price: 118,00 € EUR
 - [Bambus-Segment-Creolen | Vergoldetes Sterlingsilber | ESTID](https://www.estid-fashion.de/products/creolen-gold-bambus): Vom Bambus inspirierte Creolen aus vergoldetem Sterlingsilber, die Selbstbewusstsein und Wärme ausstrahlen. Modernes organisches Design für alltägliche Eleganz und ausdrucksstarkes Styling. Free shipping in Germany
-  Updated: 2026-09-10T08:11:44Z
+  Updated: 2026-11-18T12:00:26Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
@@ -2967,93 +2967,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300516_951_v1_front_1024_a82d113f-edf1-4ecf-8cac-8be4654ba3d0.png?v=1780305962
     Price: 84,95 € EUR
-- [ESTID Damen Oversized Sweatshirt „Grunge Heart“ – Premium Baumwollmix Pullover mit rotem Herz-Print - ESTID Fashion](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print): Zeige Herz im edgy Look – Das ESTID „Grunge Heart“ Damen Sweatshirt Verleihe deinem Alltags-Look eine Extraportion Style und Gefühl! Das ESTID Crewneck Sweatshirt ist die perfekte Mischung aus femininer Lässigkeit und modernem Streetwear-Vibe. Der absolute Blickfang ist das kunstvoll gestaltete, leuchtend rote Herz im angesagten Grunge- bzw. Distressed-Look auf der linken Brust . Es bricht das klassische Design charmant auf und macht den Pullover zu einem echten Statement-Piece – egal ob beim Kaffee-Date, in der Uni oder beim entspannten Stadtbummel. Kuscheliger Premium-Komfort für jeden Tag Dieses Sweatshirt sieht nicht nur umwerfend aus, es fühlt sich auch so an. Hergestellt aus einem hochwertigen Heavy Blend Cotton-Mix (50% Baumwolle / 50% Polyester) schmiegt sich die weich angeraute Innenseite sanft an deine Haut an. Dank der optimalen Materialmischung bleibt der Pullover auch nach vielen Wäschen perfekt in Form, verzieht sich nicht und ist extrem pflegeleicht. Finde deine perfekte Farbe Das minimalistische Herz-Design kommt auf allen drei softem Farbvarianten perfekt zur Geltung: Clean Weiß: Für einen kontrastreichen, strahlenden und minimalistischen Look (unisex-heavy-blend-crewneck-sweatshirt.jpg). Soft Hellblau: Frisch, modern und die ideale Ergänzung zu deiner Lieblingsjeans (unisex-heavy-blend-crewneck-sweatshirt (1).jpg). Pastell Rosa: Romantisch, sanft und absolut im Trend für einen rundum harmonischen Style (unisex-heavy-blend-crewneck-sweatshirt (2).jpg). Produktdetails & Highlights auf einen Blick Brand: ESTID Material: Premium Heavy Blend (50% Baumwolle, 50% Polyester) Schnitt: Klassischer Rundhalsausschnitt (Crewneck) mit moderner, leicht lockerer Passform (für den Oversized-Look einfach eine Nummer größer bestellen). Details: Elastische Rippbündchen an Kragen, Ärmeln und Saum für optimalen Sitz. Print: Hochwertiger, farbintensiver und langlebiger Textildruck auf der Brust. Pflegehinweise Damit das rote Herz dauerhaft strahlt: Bei 30 °C auf links gedreht waschen. Mit ähnlichen Farben waschen. Nicht direkt über den Print bügeln (nur von links). Schonend trocknen. S M L XL 2XL 3XL 4XL 5XL Width, cm 50.80 55.90 60.96 66.04 71.12 76.20 81.28 86.36 Length, cm 68.58 71.12 73.66 76.20 78.74 81.28 83.82 86.36 Sleeve length (from center back), cm 85.09 87.63 90.17 92.71 95.25 97.79 100.33 102.87 Size tolerance, cm 3.81 3.81 3.81 3.81 3.81 3.81 3.81 3.81 EU representative: Ievgen Shvets, estidfashion@gmail.com, Auweg 13, Dillenburg, Hessen, 35683, DE Product information: Gildan 18000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Made in Nicaragua, For adults - ESTID Fashion
-  Updated: 2026-10-30T06:58:00Z
-  Vendor: ESTID Fashion
-  Product Type: Sweatshirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
-  - [S / Light Blue](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171725660)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/439675918108213540_2048.jpg?v=1782130409
-    Price: 44,06 € EUR
-  - [S / Light Pink](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171758428)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/4806418133825946676_2048.jpg?v=1782130418
-    Price: 44,06 € EUR
-  - [S / White](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171791196)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
-    Price: 45,46 € EUR
-  - [M / Light Blue](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171823964)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/439675918108213540_2048.jpg?v=1782130409
-    Price: 44,06 € EUR
-  - [M / Light Pink](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171856732)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/4806418133825946676_2048.jpg?v=1782130418
-    Price: 44,06 € EUR
-  - [M / White](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171889500)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
-    Price: 45,46 € EUR
-  - [L / Light Blue](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171922268)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/439675918108213540_2048.jpg?v=1782130409
-    Price: 44,06 € EUR
-  - [L / Light Pink](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171955036)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/4806418133825946676_2048.jpg?v=1782130418
-    Price: 44,06 € EUR
-  - [L / White](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171987804)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
-    Price: 45,46 € EUR
-  - [XL / Light Blue](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172020572)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/439675918108213540_2048.jpg?v=1782130409
-    Price: 44,06 € EUR
-  - [XL / Light Pink](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172053340)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/4806418133825946676_2048.jpg?v=1782130418
-    Price: 44,06 € EUR
-  - [XL / White](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172086108)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
-    Price: 45,46 € EUR
-  - [2XL / Light Blue](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172118876)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/439675918108213540_2048.jpg?v=1782130409
-    Price: 44,06 € EUR
-  - [2XL / Light Pink](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172151644)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/4806418133825946676_2048.jpg?v=1782130418
-    Price: 44,06 € EUR
-  - [2XL / White](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172184412)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
-    Price: 45,46 € EUR
-  - [3XL / Light Blue](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172217180)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/439675918108213540_2048.jpg?v=1782130409
-    Price: 50,44 € EUR
-  - [3XL / Light Pink](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172249948)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/4806418133825946676_2048.jpg?v=1782130418
-    Price: 50,44 € EUR
-  - [3XL / White](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172282716)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
-    Price: 51,82 € EUR
-  - [4XL / White](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172315484)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
-    Price: 51,82 € EUR
-  - [5XL / White](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172348252)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
-    Price: 51,82 € EUR
-[List Continued](https://www.estid-fashion.de/a/llms-agent/llms.txt?shop=94q2eq-q2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTY0MDY1NTYyNjU4OCwibGFzdF92YWx1ZSI6IjE1NjQwNjU1NjI2NTg4In0%3D)
+[List Continued](https://www.estid-fashion.de/a/llms-agent/llms.txt?shop=94q2eq-q2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTYwODUzNjAwNzAwNCwibGFzdF92YWx1ZSI6IjE1NjA4NTM2MDA3MDA0In0%3D)
 
 ## Collections
 
@@ -3267,13 +3181,22 @@
   - [Perlenhalsketten oder Leder Handtasche: Was sagt Dein Look?](https://www.estid-fashion.de/blogs/fashion-blog/perlenhalsketten-oder-leder-handtasche-was-sagt-dein-look): Perlenhalsketten oder Leder Handtasche: Was sagt Dein Look?
     Updated: 2026-11-08T16:00:28Z
     Author: ESTID
+  - [Einfluss von Ringen auf Ihren Stil: Welcher passt zu Ihnen?](https://www.estid-fashion.de/blogs/fashion-blog/einfluss-von-ringen-auf-ihren-stil-welcher-passt-zu-ihnen): Einfluss von Ringen auf Ihren Stil: Welcher passt zu Ihnen?
+    Updated: 2026-11-13T16:00:53Z
+    Author: ESTID
+  - [Anhänger für jede Gelegenheit wählen: Vom Alltag bis zur Gala](https://www.estid-fashion.de/blogs/fashion-blog/anhanger-fur-jede-gelegenheit-wahlen-vom-alltag-bis-zur-gala): Anhänger für jede Gelegenheit wählen: Vom Alltag bis zur Gala
+    Updated: 2026-11-14T16:00:39Z
+    Author: ESTID
+  - [Die wichtigsten Kriterien bei der Wahl eines Schmuck Sets im Jahr 2026](https://www.estid-fashion.de/blogs/fashion-blog/die-wichtigsten-kriterien-bei-der-wahl-eines-schmuck-sets-im-jahr-2026): Die wichtigsten Kriterien bei der Wahl eines Schmuck Sets im Jahr 2026
+    Updated: 2026-11-15T16:00:26Z
+    Author: ESTID
 
 ## Store Pages
 
 - [Kontakt](https://www.estid-fashion.de/pages/contact)
   Updated: 2025-08-07T15:06:31Z
 - [Suchergebnisse](https://www.estid-fashion.de/pages/rapid-search-results): .RAPID-SEARCH----DO-NOT-DELETE-THIS-PAGE { }
-  Updated: 2026-11-10T21:11:13Z
+  Updated: 2026-11-17T22:21:03Z
 - [Deine Datenschutz-Einstellungen](https://www.estid-fashion.de/pages/data-sharing-opt-out): Wie in unserer Datenschutzrichtlinie beschrieben, erfassen wir personenbezogene Daten aus Ihren Interaktionen mit uns und unserer Website, unter an...
   Updated: 2026-08-13T08:29:38Z
 - [Review Submission](https://www.estid-fashion.de/pages/review-submission)
