@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2026-08-20T05:06:30Z
 - Contact Email: moricenoelle24@gmail.com
-- Updated At: 2026-11-11T01:24:38.825Z
+- Updated At: 2026-11-19T01:06:16.546Z
 
 ## Products
 
@@ -2460,14 +2460,7 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0777/1586/5792/files/Better-Homes-Gardens-3-Cube-Storage-Organizer-Tobacco-Oak_6073728d-c5ad-4e26-ae67-9f5ed297998d.995fb72fe3e69c11a4fef2eacec0a308.jpg?v=1787337653
     Price: $42.00 AUD
-- [Velmora™ Glendale 5 Shelf Bookcase, Rustic Gray Finish](https://velmora.center/products/better-homes-gardens-glendale-5-shelf-bookcase-rustic-gray-finish): Discover the Glendale 5 Shelf Bookcase, Rustic Gray Finish by Velmora™. Premium quality bookcases & standing shelves designed for exceptional style, lasting ...
-  Updated: 2026-08-28T21:52:59Z
-  Vendor: Velmora™
-  Product Type: Bookcases & Standing Shelves
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/1586/5792/files/Better-Homes-Gardens-Glendale-5-Shelf-Bookcase-Rustic-Gray-Finish_6e462a29-9345-4a03-b777-ae938ccf6d89_1.60cb091bcc1bfefb2d10474cefbc0d0c.jpg?v=1787337654
-  Price: $94.90 AUD
-[List Continued](https://velmora.center/a/llms-agent/llms.txt?shop=vpknhp-0c.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Njk2MDcwODY1MDg4LCJsYXN0X3ZhbHVlIjoiODY5NjA3MDg2NTA4OCJ9)
+[List Continued](https://velmora.center/a/llms-agent/llms.txt?shop=vpknhp-0c.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Njk2MDcwNzk5NTUyLCJsYXN0X3ZhbHVlIjoiODY5NjA3MDc5OTU1MiJ9)
 
 ## Collections
 
@@ -2612,6 +2605,15 @@
     Author: Velmora™
   - [Transform Your Space: Velmora™ Starburst Quilt for Warm Minimalism and Modern Home Decor](https://velmora.center/blogs/news/transform-your-space-velmora™-starburst-quilt-for-warm-minimalism-and-modern-home-decor): Transform Your Space: Velmora™ Starburst Quilt for Warm Minimalism and Modern Home Decor
     Updated: 2026-11-10T11:04:44Z
+    Author: Velmora™
+  - [Transform Your Modern Home Decor Using Velmora™ Microfiber Sheets and Minimalist Accent Ideas](https://velmora.center/blogs/news/transform-your-modern-home-decor-using-velmora™-microfiber-sheets-and-minimalist-accent-ideas): Transform Your Modern Home Decor Using Velmora™ Microfiber Sheets and Minimalist Accent Ideas
+    Updated: 2026-11-13T11:00:58Z
+    Author: Velmora™
+  - [Discover Warm Minimalism Decor and Quiet Luxury Home Styling with Velmora™ Rainbow Checkered Shag Area Rug in Modern Home Decor](https://velmora.center/blogs/news/discover-warm-minimalism-decor-and-quiet-luxury-home-styling-with-velmora™-rainbow-checkered-shag-area-rug-in-modern-home-decor): Discover Warm Minimalism Decor and Quiet Luxury Home Styling with Velmora™ Rainbow Checkered Shag Area Rug in Modern Home Decor
+    Updated: 2026-11-16T11:05:31Z
+    Author: Velmora™
+  - [Design Your Cozy Reading Nook: Transform with Velmora™ Microfiber Bucket Accent Chair and Warm Minimalism Decor](https://velmora.center/blogs/news/design-your-cozy-reading-nook-transform-with-velmora™-microfiber-bucket-accent-chair-and-warm-minimalism-decor): Design Your Cozy Reading Nook: Transform with Velmora™ Microfiber Bucket Accent Chair and Warm Minimalism Decor
+    Updated: 2026-11-17T11:04:19Z
     Author: Velmora™
 
 ## Store Pages
