@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-10-23T15:29:14Z
 - Contact Email: customercare@adolf.pk
-- Updated At: 2026-11-11T01:15:17.526Z
+- Updated At: 2026-11-19T01:06:37.826Z
 
 ## Products
 
@@ -395,7 +395,7 @@
     Availability: Available
     Price: Rs 2,500.00 PKR
 - [Men's Burnished Brown Leather Horsebit Loafers | Adolf Footwear](https://adolf.pk/products/adolf-mens-handcrafted-burnished-brown-leather-horsebit-loafers): Shop Adolf premium handcrafted burnished brown leather horsebit loafers for men. Featuring gold hardware and a cushioned insole, these formal shoes are perfect for weddings and business wear. Available in Sheikhupura, Punjab & delivery across Pakistan.
-  Updated: 2026-11-04T02:01:56Z
+  Updated: 2026-11-13T19:45:49Z
   Vendor: Adolf.pk
   Product Type: 
   Availability: Available
@@ -443,7 +443,7 @@
     Availability: Available
     Price: Rs 7,499.00 PKR
 - [Adolf Brown Alligator Leather Loafers | Bee and Tassel Detail](https://adolf.pk/products/adolf-premium-brown-alligator-leather-loafers-with-tassels-and-bee-detail): Discover luxury with Adolf alligator embossed leather loafers. Featuring a unique bee and tassel detail, these handcrafted brown dress shoes offer sophisticated style for men. Order now.
-  Updated: 2026-11-05T07:37:13Z
+  Updated: 2026-11-16T11:36:01Z
   Vendor: Adolf.pk
   Product Type: 
   Availability: Available
@@ -766,13 +766,13 @@ TAGS
 ## Collections
 
 - [Home page](https://adolf.pk/collections/frontpage)
-  Updated: 2026-11-06T12:21:05Z
+  Updated: 2026-11-16T12:20:10Z
   Total Products: 15
 - [Loafers](https://adolf.pk/collections/loafers)
-  Updated: 2026-11-06T12:21:05Z
+  Updated: 2026-11-16T12:20:10Z
   Total Products: 12
 - [FEATURED](https://adolf.pk/collections/featured)
-  Updated: 2026-11-05T12:22:51Z
+  Updated: 2026-11-16T12:20:10Z
   Total Products: 5
 - [Oxford / Dress Shoes](https://adolf.pk/collections/oxford-dress-shoes)
   Updated: 2026-11-03T12:17:42Z
