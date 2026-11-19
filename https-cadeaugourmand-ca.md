@@ -7,7 +7,7 @@
 - Created At: 2017-09-04T21:22:14Z
 - Contact Email: marc@cadeaugourmand.ca
 - Contact Phone: +14506414522
-- Updated At: 2026-11-12T08:53:30.336Z
+- Updated At: 2026-11-19T12:47:07.359Z
 
 ## Products
 
@@ -87,7 +87,7 @@
   Image: https://cdn.shopify.com/s/files/1/2332/8537/files/trio-sauces-piquantes-0626.webp?v=1781013242
   Price: 30,00 $ CAD
 - [Tartinades & Caramels Artisanaux Les Zempotés – 4 Saveurs | Boucherville, Québec](https://cadeaugourmand.ca/products/tartinades-caramels-artisanaux-quebec): Tartinades et caramels artisanaux Les Zempotés de Boucherville : chocolat-framboise-fleur de sel, caramel érable, café et épices. Goût maison, ingrédients simples. Cadeau gourmand.
-  Updated: 2026-10-06T19:54:52Z
+  Updated: 2026-11-13T21:05:06Z
   Vendor: Les Zempotés
   Product Type: Tartinades et confitures
   Availability: Available
@@ -105,18 +105,18 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/zempotes-caramel-erable.webp?v=1772306879
     Price: 10,95 $ CAD
   - [Caramel aux épices](https://cadeaugourmand.ca/products/tartinades-caramels-artisanaux-quebec?variant=41954896609462)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/zempotes-caramel-erable.webp?v=1772306879
     Price: 10,95 $ CAD
 - [Trio de Perles de Chocolat – La Grande Gourmandise | Canneberges, Amandes & Café](https://cadeaugourmand.ca/products/trio-de-perles-de-chocolat): Trio de perles chocolatées artisanales La Grande Gourmandise : canneberges au chocolat noir, amandes caramélisées au chocolat noir et grains de café au chocolat au lait. 210 g de pur plaisir.
-  Updated: 2026-11-09T15:38:11Z
+  Updated: 2026-11-19T00:22:15Z
   Vendor: La Grande Gourmandise
   Product Type: Chocolats et confiseries
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2332/8537/files/perles-chocolats.webp?v=1772306621
   Price: 25,00 $ CAD
 - [Carte-Cadeau Cadeau Gourmand – Coffrets Artisanaux Québécois | Sans Expiration](https://cadeaugourmand.ca/products/carte-cadeau): Offrez une carte-cadeau Cadeau Gourmand et laissez vos proches choisir parmi nos coffrets gourmands artisanaux du Québec. Disponible en 25$, 50$, 75$ et 100$. Sans expiration.
-  Updated: 2026-10-06T19:54:53Z
+  Updated: 2026-11-17T17:48:42Z
   Vendor: La Grande Gourmandise
   Product Type: Carte-cadeau
   Availability: Available
@@ -170,7 +170,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/trio-pintarade-interieur-0626.webp?v=1781013637
     Price: 42,00 $ CAD
 - [Confitures Artisanales Les Zempotés – 5 Saveurs | Boucherville, Québec](https://cadeaugourmand.ca/products/confitures-les-zempotes): Confitures artisanales Les Zempotés de Boucherville : bleuets, framboises, fraises et cerises de terre mijotés au sirop d'érable. Cuisinées un pot à la fois.
-  Updated: 2026-10-06T19:54:54Z
+  Updated: 2026-11-15T20:43:37Z
   Vendor: Les Zempotés
   Product Type: Confiture artisanale
   Availability: Available
@@ -188,7 +188,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/zempotes-confiture-framboises-noires.webp?v=1772143558
     Price: 9,75 $ CAD
   - [Fraises](https://cadeaugourmand.ca/products/confitures-les-zempotes?variant=41954801025206)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/zempotes-confiture-fraises.webp?v=1772143558
     Price: 8,50 $ CAD
   - [Cerises de terre](https://cadeaugourmand.ca/products/confitures-les-zempotes?variant=41954801057974)
@@ -255,14 +255,14 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/sous-verres-gg-1025.jpg?v=1759951689
     Price: 24,00 $ CAD
 - [Chocolat de Dubaï | Pistaches et knafeh, 190 g | Cadeau Gourmand](https://cadeaugourmand.ca/products/chocolat-de-dubai): Découvrez une tablette de chocolat de Dubaï de 190 g : chocolat noir, pistaches et knafeh croustillant. Faite à la main par un pâtissier de Québec.
-  Updated: 2026-10-27T20:44:26Z
+  Updated: 2026-11-17T01:12:37Z
   Vendor: La Grande Gourmandise
   Product Type: Chocolat artisanal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2332/8537/files/dubai-noir-1026.webp?v=1792946204
   Price: 20,00 $ CAD
 - [Panettone traditionnel fait à Montréal | Cadeau Gourmand](https://cadeaugourmand.ca/products/panettone-traditionnel): Offrez un panettone traditionnel fait à Montréal, au levain naturel, à la vanille et aux agrumes confits. Formats 500 g et 1 kg. Précommandez pour Noël.
-  Updated: 2026-10-24T20:02:40Z
+  Updated: 2026-11-12T19:25:56Z
   Vendor: Cadeau Gourmand
   Product Type: Pâtisserie
   Availability: Available
@@ -276,7 +276,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/panettone-situation-1026.webp?v=1792440549
     Price: 76,00 $ CAD
 - [Trio Caramels | Érable, fleur de sel et café | Cadeau Gourmand](https://cadeaugourmand.ca/products/trio-caramels): Offrez Trio Caramels : trois caramels artisanaux québécois à l’érable, à la fleur de sel et au café. Un coffret gourmand à savourer à la cuillère.
-  Updated: 2026-11-09T15:12:03Z
+  Updated: 2026-11-17T01:37:46Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret cadeau
   Availability: Available
@@ -396,7 +396,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/un-petit-bonheur-1026.webp?v=1792870425
     Price: 75,00 $ CAD
 - [Le Temps des sucres | Coffret cadeau érable | Cadeau Gourmand](https://cadeaugourmand.ca/products/le-temps-des-sucres): Offrez Le Temps des sucres : 6 délices artisanaux, dont cornets chocolat-érable, ponce hivernale, sirop bio, beurre, sucre et fondants à l’érable.
-  Updated: 2026-11-02T18:25:56Z
+  Updated: 2026-11-16T15:45:37Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret cadeau
   Availability: Available
@@ -459,7 +459,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/collection-gg-0626.webp?v=1780767400
     Price: 99,00 $ CAD
 - [Trio Apéro | Coffret avec option végé | Cadeau Gourmand](https://cadeaugourmand.ca/products/trio-apero): Offrez le Trio Apéro : 3 produits artisanaux québécois, 4 choix dont une version végé avec terrine Les Goulues. Un cadeau savoureux pour vos 5 à 7.
-  Updated: 2026-11-10T17:39:46Z
+  Updated: 2026-11-18T14:16:26Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret cadeau
   Availability: Available
@@ -524,10 +524,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/trio-apero-boeuf-interieur-0626.webp?v=1781013439
     Price: 35,00 $ CAD
-  - [Terrine sans foie ni gras + confit oignons + gelée fraise et gin / Manchon de carton](https://cadeaugourmand.ca/products/trio-apero?variant=67659893637302)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/Tentations-gourmandes.webp?v=1793215977
-    Price: 40,00 $ CAD
   - [Terrine sans foie ni gras + confit oignons + gelée fraise et gin / Ruban rouge (sans manchon)](https://cadeaugourmand.ca/products/trio-apero?variant=67659893670070)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/Tentations-gourmandes.webp?v=1793215977
@@ -552,7 +548,7 @@
   Image: https://cdn.shopify.com/s/files/1/2332/8537/files/poseidn-gin-tonic-coffret-8-bombes.webp?v=1772315361
   Price: 34,95 $ CAD
 - [Chocolats fins Christophe Morel | Boîtes artisanales québécoises – Cadeau Gourmand](https://cadeaugourmand.ca/products/chocolats-fins-christophe-morel): Offrez les chocolats fins Christophe Morel, maître chocolatier québécois. Sphères caramélisées, ganaches et pralinés faits main. Boîtes de 9, 16 ou 25 pièces. Livraison partout au Canada.
-  Updated: 2026-11-09T15:37:28Z
+  Updated: 2026-11-19T03:23:51Z
   Vendor: La Grande Gourmandise
   Product Type: Chocolats fins
   Availability: Available
@@ -574,14 +570,14 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/morel-9chocolats.webp?v=1794065595
     Price: 29,95 $ CAD
 - [Oursons guimauve et chocolat | Cadeau Gourmand](https://cadeaugourmand.ca/products/oursons-guimauve-et-chocolat): Découvrez 6 oursons artisanaux à la guimauve, enrobés de chocolat noir, au lait ou ruby. Une douceur réconfortante, faite à la main à Montréal.
-  Updated: 2026-11-11T11:11:31Z
+  Updated: 2026-11-19T00:23:25Z
   Vendor: La Grande Gourmandise
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2332/8537/files/3-oursons-inspiration-gourmande.png?v=1789580618
   Price: 19,95 $ CAD
 - [Duo de Petites Attentions | Coffrets cadeaux | Cadeau Gourmand](https://cadeaugourmand.ca/products/duo-de-petites-attentions): Offrez deux Petites Attentions : caramel fleur de sel, confiture bleuets et érable ou tartinade chocolat-framboise, chacun présenté dans un élégant coffret.
-  Updated: 2026-11-05T21:46:45Z
+  Updated: 2026-11-14T15:04:35Z
   Vendor: La Grande Gourmandise
   Product Type: Cadeau gourmand
   Availability: Available
@@ -787,7 +783,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/petite-attention-0626.webp?v=1781012450
     Price: 32,00 $ CAD
 - [Pause Gourmande | Coffret de 7 délices | Cadeau Gourmand](https://cadeaugourmand.ca/products/pause-gourmande): Offrez Pause Gourmande : 7 délices à savourer, dont chocolat Morel, gelée fraise-gin sans alcool, tartinade chocolat-framboise et collations gourmandes.
-  Updated: 2026-11-04T15:45:43Z
+  Updated: 2026-11-17T17:50:24Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret cadeau
   Availability: Available
@@ -833,7 +829,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/pause-gourmande-1026.webp?v=1792508466
     Price: 55,00 $ CAD
 - [Coffret cadeau déjeuner Délicieux matin | Cadeau Gourmand](https://cadeaugourmand.ca/products/delicieux-matin): Offrez un matin gourmand avec ce coffret cadeau déjeuner : café, gruau, sirop d’érable, marmelade, sirop de bleuet et thés artisanaux du Québec.
-  Updated: 2026-11-07T16:20:44Z
+  Updated: 2026-11-17T23:33:04Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret gourmand
   Availability: Available
@@ -939,7 +935,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/douceurs-savourer-coller.webp?v=1772134321
     Price: 60,00 $ CAD
 - [Coffret apéro québécois Festin du Vendredi | Cadeau Gourmand](https://cadeaugourmand.ca/products/festin-du-vendredi): Offrez le Festin du Vendredi : 6 délices artisanaux québécois, terrine, saucisson, craquelins, confit d’oignons, cajous et érable pour un apéro gourmand.
-  Updated: 2026-11-07T20:46:00Z
+  Updated: 2026-11-16T15:30:05Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret cadeau
   Availability: Available
@@ -985,7 +981,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/festin-du-vendredi-1026ok.webp?v=1792608078
     Price: 60,00 $ CAD
 - [Érable Gourmet | Coffret en bois | Cadeau Gourmand](https://cadeaugourmand.ca/products/erable-gourmet): Offrez Érable Gourmet : 6 délices à l'érable, dont les sirops bio Escuminac, beurre et sucre d'érable, réunis dans une élégante boîte en bois.
-  Updated: 2026-10-28T13:35:47Z
+  Updated: 2026-11-15T18:54:06Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret Érable
   Availability: Available
@@ -1041,7 +1037,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/tresor-gourmand-1026_f4ad2d79-1f49-44d2-95a9-f6bf2135c5f3.webp?v=1792858406
     Price: 100,00 $ CAD
 - [Coffret Délices de l’érable | Cadeau Gourmand](https://cadeaugourmand.ca/products/delices-de-lerable): Offrez Délices de l’érable : eau d’érable bio, chocolat, bonbons, sirop, beurre et caramel. Un coffret cadeau québécois pour les amoureux de l’érable.
-  Updated: 2026-10-28T13:35:46Z
+  Updated: 2026-11-14T14:34:26Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret Érable
   Availability: Available
@@ -1101,7 +1097,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/pro-du-bbq-1026.webp?v=1792504255
     Price: 110,00 $ CAD
 - [Coffret L’Élégant | Cadeau gourmand québécois haut de gamme](https://cadeaugourmand.ca/products/lelegant): Offrez L’Élégant : sirop d’érable vieilli en fût, rillettes Wagyu, ail noir et douceurs artisanales. Un coffret cadeau québécois raffiné pour épicuriens.
-  Updated: 2026-11-10T13:33:56Z
+  Updated: 2026-11-13T17:41:04Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret gourmand
   Availability: Available
@@ -1167,7 +1163,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/coffret-boreal-1026.webp?v=1792851463
     Price: 125,00 $ CAD
 - [Le Gastronome | Coffret gastronomique | Cadeau Gourmand](https://cadeaugourmand.ca/products/le-gastronome): Offrez Le Gastronome : 8 produits artisanaux québécois, dont terrine de pintade, balsamique nordique, amandes au chocolat noir et épices Kanel.
-  Updated: 2026-10-26T21:07:12Z
+  Updated: 2026-11-13T18:20:35Z
   Vendor: La Grande Gourmandise
   Product Type: 
   Availability: Available
@@ -1193,7 +1189,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/le-gastronome-1026.webp?v=1792507757
     Price: 145,00 $ CAD
 - [Balade au Québec | Coffret terroir | Cadeau Gourmand](https://cadeaugourmand.ca/products/balade-au-quebec): Offrez Balade au Québec : 10 découvertes artisanales, dont rillettes Wagyu, terrine de canard, sirop Escuminac,... Un voyage gourmand dans 10 régions du Québec.
-  Updated: 2026-11-11T22:11:16Z
+  Updated: 2026-11-15T21:08:07Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret gourmand
   Availability: Available
@@ -1215,7 +1211,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/balade-au-quebec-1026.webp?v=1792789171
     Price: 149,00 $ CAD
 - [Douce Évasion | Coffret détente et gourmandises | Cadeau Gourmand](https://cadeaugourmand.ca/products/douce-evasion): Offrez Douce Évasion : infusion de bain Floèm, thés Camellia Sinensis, chocolat Morel, sablés, bouchée à l’érable et fouta. Une pause bien méritée.
-  Updated: 2026-10-25T10:24:28Z
+  Updated: 2026-11-15T16:09:38Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret gourmand
   Availability: Available
@@ -1241,7 +1237,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/douce-evasion-1026.webp?v=1792792975
     Price: 135,00 $ CAD
 - [Douceurs à partager | Coffret sucré-salé | Cadeau Gourmand](https://cadeaugourmand.ca/products/douceurs-a-partager): Offrez Douceurs à partager : 8 délices sucrés-salés, dont salsa, maïs soufflé à l’érable, noix, chocolats et croustilles de plantain. À savourer ensemble.
-  Updated: 2026-11-02T17:40:13Z
+  Updated: 2026-11-15T12:57:36Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret Gourmet
   Availability: Available
@@ -1271,7 +1267,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/douceursapartager-1026.webp?v=1792506955
     Price: 125,00 $ CAD
 - [Gros Câlin | Coffret réconfort de 8 délices | Cadeau Gourmand](https://cadeaugourmand.ca/products/gros-calin): Offrez Gros Câlin : 8 délices sucrés-salés, dont chocolat chaud, guimauve chocolatée, salsa et popcorn à l’érable. Un cadeau qui fait du bien.
-  Updated: 2026-11-08T08:43:26Z
+  Updated: 2026-11-14T16:38:41Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret cadeau
   Availability: Available
@@ -1323,7 +1319,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/lamaisondubonheur-1026.webp?v=1792507516
     Price: 85,00 $ CAD
 - [Festin Royal | Coffret gourmand prestige | Cadeau Gourmand](https://cadeaugourmand.ca/products/festin-royal): Offrez Festin Royal : rillettes de canard, pepperettes, noix au romarin, sauce Cactus, sel à l’ail noir, confit, gelée et meringues. Huit délices à partager.
-  Updated: 2026-11-05T15:47:17Z
+  Updated: 2026-11-14T16:38:36Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret Prestige
   Availability: Available
@@ -1349,7 +1345,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/festin-royal-1026_295a8450-dab7-4c00-b1aa-67d5c44006dd.webp?v=1792852215
     Price: 129,00 $ CAD
 - [Coffret cadeau de luxe | Le Grand Luxe | Cadeau Gourmand](https://cadeaugourmand.ca/products/le-grand-luxe): Offrez Le Grand Luxe : foie gras, ail noir et saveurs artisanales du Québec dans un coffret raffiné. Un cadeau gourmand pour marquer les grandes occasions.
-  Updated: 2026-10-25T01:47:06Z
+  Updated: 2026-11-13T18:20:37Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret gourmand
   Availability: Available
@@ -1375,7 +1371,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/le-grandluxe-1026.webp?v=1792849567
     Price: 190,00 $ CAD
 - [Coffret cadeau prestige | Le Prestigieux | Cadeau Gourmand](https://cadeaugourmand.ca/products/le-prestigieux): Offrez Le Prestigieux : huiles artisanales, terrine, chocolats et bombes à cocktail dans un coffret québécois raffiné pour les grandes occasions.
-  Updated: 2026-10-25T06:56:06Z
+  Updated: 2026-11-13T18:20:33Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret gourmand
   Availability: Available
@@ -1421,7 +1417,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/le-prestigieux-1026.webp?v=1792868140
     Price: 215,00 $ CAD
 - [Coffret Découverte Végé | Cadeau végétarien | Cadeau Gourmand](https://cadeaugourmand.ca/products/le-coffret-decouverte-vegetale): Offrez le Coffret Découverte Végé : huile de caméline, sel au citron brûlé, terrine végétale et épices. Quatre découvertes artisanales du Québec.
-  Updated: 2026-10-25T01:53:54Z
+  Updated: 2026-11-17T14:27:24Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret gourmand
   Availability: Available
@@ -1447,7 +1443,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/coffret-decouverte-1026.webp?v=1792850286
     Price: 80,00 $ CAD
 - [Coffret sucré Le Gourmand | Cadeau Gourmand](https://cadeaugourmand.ca/products/le-bec-sucre): Offrez Le Gourmand : chocolat Dubaï, tire éponge chocolatée, caramel à l’érable et fudges artisanaux du Québec. Un coffret cadeau pour les dents sucrées.
-  Updated: 2026-10-28T13:35:42Z
+  Updated: 2026-11-14T16:38:36Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret gourmand
   Availability: Available
@@ -1482,13 +1478,13 @@
 ## Collections
 
 - [Nos coups de coeur](https://cadeaugourmand.ca/collections/coups-de-coeur): Ce qu'on aime, on le partage. Notre équipe a sélectionné pour vous les produits qui nous font craquer : des trouvailles artisanales, des saveurs surprenantes et des incontournables qu'on ne se lasse pas de recommander.
-  Updated: 2026-11-07T12:04:25Z
+  Updated: 2026-11-18T12:04:26Z
   Total Products: 4
 - [La Grande Gourmandise](https://cadeaugourmand.ca/collections/la-grande-gourmandise): Notre collection signature. La Grande Gourmandise rassemble nos coffrets et produits les plus généreux et les plus élaborés, pour ceux qui veulent offrir grand, avec goût et sans compromis.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-17T12:04:17Z
   Total Products: 10
 - [Notre sélection](https://cadeaugourmand.ca/collections/cadeaux): Coffrets cadeaux gourmands artisanaux du Québec. Paniers gourmets prêts-à-offrir pour entreprises, clients, famille. Produits du terroir québécois de qualité.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 49
 - [Cartes de voeux](https://cadeaugourmand.ca/collections/cartes-de-voeux): Candide et coloré, son univers illustré vous fera sourire. Stéphanie Renière fait valser les couleurs et l'eau, offrant des illustrations empreintes de légèreté.Choisissez une de ses magnifiques cartes pour vos voeux.
   Updated: 2026-08-21T14:53:34Z
@@ -1497,73 +1493,73 @@
   Updated: 2026-11-05T12:05:15Z
   Total Products: 3
 - [Noël](https://cadeaugourmand.ca/collections/noel): Des coffrets gourmands pensés pour le Temps des Fêtes. Des saveurs chaleureuses, des emballages féeriques et des produits artisanaux pour offrir la magie de la saison.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 24
 - [Épicurien](https://cadeaugourmand.ca/collections/epicurien): Pour ceux qui aiment bien manger et mieux boire. Des coffrets gourmands qui célèbrent les saveurs fines, les produits artisanaux et le plaisir de déguster sans retenue.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 20
 - [Réconfortant](https://cadeaugourmand.ca/collections/reconfortant): Des coffrets qui font du bien. Chaleureux, doux et savoureux, ils sont faits pour envelopper ceux qu’on aime dans un moment de pur réconfort.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 11
 - [Prestigieux](https://cadeaugourmand.ca/collections/prestigieux): Coffrets cadeaux gourmands luxueux à partir de 100$. Pour les grandes occasions et les cadeaux mémorables.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-18T12:04:26Z
   Total Products: 15
 - [À partager](https://cadeaugourmand.ca/collections/a-partager): Des coffrets conçus pour être ouverts ensemble. Parfaits pour animer une tablée, célébrer un moment ou simplement profiter du plaisir de partager de bonnes choses.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 22
 - [Érable du Québec](https://cadeaugourmand.ca/collections/erable-du-quebec): L’or doux du Québec, à savourer toute l’année. Des coffrets et produits célébrant le sirop d’érable et les saveurs de notre terroir, pour offrir un morceau de chez nous en toute saison.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-17T12:04:17Z
   Total Products: 20
 - [Chocolats & bonbons](https://cadeaugourmand.ca/collections/chocolats-bonbons): Chocolats fins, bonbons artisanaux et confiseries québécoises. Produits locaux de qualité supérieure, parfaits pour vos cadeaux gourmands.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 13
 - [Cadeau d'entreprise](https://cadeaugourmand.ca/collections/cadeau-dentreprise): Des coffrets gourmands à l’image de votre marque. Idéaux pour vos clients, employés et partenaires d’affaires, disponibles en grande quantité avec livraison partout au Canada.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 30
 - [Félicitations](https://cadeaugourmand.ca/collections/felicitations): Pour souligner les belles étapes de la vie. Retraite, , remise de diplôme, naissance, mariage et plus encore : des coffrets gourmands pour célébrer avec goût ceux qui le méritent.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 23
 - [Cadeau d'hôtesse](https://cadeaugourmand.ca/collections/cadeau-dhotesse): Un merci qui se mange. Des coffrets gourmands élégants pour remercier celle ou celui qui vous reçoit, avec le soin et le goût qu’ils méritent.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 24
 - [Je pense à toi](https://cadeaugourmand.ca/collections/je-pense-a-toi): Parce que certaines personnes méritent qu’on leur montre qu’on pense à elles, sans attendre une occasion particulière. Des coffrets gourmands pour dire je t’aime, merci, ou simplement : je suis là.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 35
 - [Sans gluten](https://cadeaugourmand.ca/collections/sans-gluten): Des coffrets gourmands sans gluten, pour offrir sans compromis. Des produits artisanaux savoureux, sélectionnés avec soin pour ceux qui ont des restrictions alimentaires.
   Updated: 2026-10-30T11:03:58Z
   Total Products: 3
 - [Végétarien](https://cadeaugourmand.ca/collections/vegetarien): Des coffrets gourmands 100% végétariens, pour offrir avec attention. Des produits artisanaux savoureux, sans viande, sélectionnés pour plaire à tous les palais.
-  Updated: 2026-11-10T12:04:41Z
+  Updated: 2026-11-18T12:04:26Z
   Total Products: 29
 - [Sans taxes](https://cadeaugourmand.ca/collections/sans-taxes): Des produits non taxés
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 11
 - [](https://cadeaugourmand.ca/collections/): Dernière chance de profiter de ces cadeaux à prix réduit
-  Updated: 2026-11-09T12:05:09Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 7
 - [Les Zempotés](https://cadeaugourmand.ca/collections/les-zempotes): Découvrez Les Zempotés : confitures, marmelades, gelées et tartinades artisanales de Boucherville. Produits au sirop d'érable, petits lots, saveurs authentiques.
   Updated: 2026-10-25T16:16:59Z
   Total Products: 5
 - [Coffrets Découverte](https://cadeaugourmand.ca/collections/coffrets-decouverte): Coffrets découverte avec assortiments de produits artisanaux québécois : chocolats, confiseries, sirops. Parfait pour découvrir nos spécialités gourmandes.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-18T12:04:26Z
   Total Products: 14
 - [Campagnes de financement](https://cadeaugourmand.ca/collections/campagnes-financement): Produits gourmands pour campagnes de financement scolaire : 30% de marge, chocolats artisanaux québécois, livraison gratuite. Idéal voyage scolaire et projets.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 5
 - [Je pense à toi / Fête](https://cadeaugourmand.ca/collections/je-pense-a-toi-fete): Coffrets cadeaux gourmands pour anniversaires, fêtes et petites attentions. Livraison partout au Canada.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 40
 - [Entreprise / Quantité](https://cadeaugourmand.ca/collections/entreprise-quantite): Coffrets gourmands pour entreprises et commandes en volume. Livraison partout au Canada.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 29
 - [Noël / Événement](https://cadeaugourmand.ca/collections/noel-evenement): Coffrets gourmands pour Noël, retraite et fêtes spéciales. Livraison partout au Canada.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 39
 - [Moins de 50$](https://cadeaugourmand.ca/collections/moins-de-50): Coffrets cadeaux gourmands à moins de 50$. Des idées cadeaux savoureux et accessibles, livrés partout au Canada.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 39
 - [50$ à 100$](https://cadeaugourmand.ca/collections/50-a-100): Coffrets cadeaux gourmands entre 50$ et 100$. Généreux et savoureux, livrés partout au Canada.
-  Updated: 2026-11-11T12:04:33Z
+  Updated: 2026-11-19T12:04:20Z
   Total Products: 23
 
 ## Blogs
@@ -1603,6 +1599,9 @@
     Author: Marc Pacanowski
   - [Cadeaux d'affaires artisanaux québécois | La Grande Gourmandise](https://cadeaugourmand.ca/blogs/blog-cadeau-gourmand/cadeaux-affaires-artisanaux-quebec): Cadeaux d'affaires artisanaux québécois | La Grande Gourmandise
     Updated: 2026-10-25T20:06:15Z
+    Author: Marc Pacanowski
+  - [Nos essentiels pour les Fêtes 2026 | Cadeau Gourmand](https://cadeaugourmand.ca/blogs/blog-cadeau-gourmand/nos-essentiels-pour-les-fetes-2026): Nos essentiels pour les Fêtes 2026 | Cadeau Gourmand
+    Updated: 2026-11-13T21:40:19Z
     Author: Marc Pacanowski
 
 ## Store Pages
