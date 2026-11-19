@@ -6,7 +6,7 @@
 - Timezone: Africa/Accra
 - Created At: 2026-09-28T15:12:47Z
 - Contact Email: edwardzebulon777@gmail.com
-- Updated At: 2026-11-12T01:10:50.093Z
+- Updated At: 2026-11-19T01:50:03.851Z
 
 ## Products
 
@@ -420,6 +420,15 @@
     Author: Edward Zebulon
   - [Benefits of Incorporating 3D Sandscape Art Into Your Home and Office Decor](https://emberhome-store.myshopify.com/blogs/news/benefits-of-incorporating-3d-sandscape-art-into-your-home-and-office-decor): Benefits of Incorporating 3D Sandscape Art Into Your Home and Office Decor
     Updated: 2026-11-09T13:30:14Z
+    Author: Edward Zebulon
+  - [Explore the Captivating Beauty of 3D Moving Sand Art with These Inspiring Decor Ideas](https://emberhome-store.myshopify.com/blogs/news/explore-the-captivating-beauty-of-3d-moving-sand-art-with-these-inspiring-decor-ideas): Explore the Captivating Beauty of 3D Moving Sand Art with These Inspiring Decor Ideas
+    Updated: 2026-11-13T09:34:10Z
+    Author: Edward Zebulon
+  - [The Ultimate Guide to Choosing the Perfect 3D Sand Art for Your Office and Home Decor](https://emberhome-store.myshopify.com/blogs/news/the-ultimate-guide-to-choosing-the-perfect-3d-sand-art-for-your-office-and-home-decor): The Ultimate Guide to Choosing the Perfect 3D Sand Art for Your Office and Home Decor
+    Updated: 2026-11-15T07:36:11Z
+    Author: Edward Zebulon
+  - [Captivating Decor Explained: Bringing Dynamic Beauty to Your Space with Sand Art](https://emberhome-store.myshopify.com/blogs/news/captivating-decor-explained-bringing-dynamic-beauty-to-your-space-with-sand-art): Captivating Decor Explained: Bringing Dynamic Beauty to Your Space with Sand Art
+    Updated: 2026-11-16T06:37:07Z
     Author: Edward Zebulon
 
 ## Store Pages
