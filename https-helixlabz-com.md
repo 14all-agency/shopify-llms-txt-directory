@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-05T17:17:19Z
 - Contact Email: infohelixlabz@gmail.com
-- Updated At: 2026-11-12T00:16:15.174Z
+- Updated At: 2026-11-19T00:16:52.012Z
 
 ## Products
 
@@ -47,7 +47,7 @@
   Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/oats-main2.png?v=1782210015
   Price: ₹599.00 INR
 - [Helix Labz Protein Bar Combo – 20g Protein, Chocolate & Berry Punch | 6 Pack](https://helixlabz.com/products/helix-labz-high-quality-protein-bar-20g-protein): Buy Helix Labz Protein Bars Combo – Chocolate & Berry Punch flavors  (Pack of 6). Each bar offers 20g protein, high fiber, low sugar. Grab your now!
-  Updated: 2026-11-11T11:41:31Z
+  Updated: 2026-11-14T17:57:16Z
   Vendor: Helix Labz
   Product Type: 
   Availability: Available
@@ -72,7 +72,7 @@
     Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/strawberry-bar2.png?v=1781505386
     Price: ₹349.00 INR
 - [Kraken Pre Workout](https://helixlabz.com/products/helix-labz-kraken-pre-workout): Boost your workout performance with Helix Labz Kraken Pre-Workout. Packed with powerful ingredients for increased energy, focus, and endurance, Kraken helps you crush your fitness goals.
-  Updated: 2026-11-11T22:46:55Z
+  Updated: 2026-11-18T20:44:56Z
   Vendor: Helix Labz
   Product Type: Powder
   Availability: Available
@@ -136,7 +136,7 @@
     Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/main1-active-whey.png?v=1782801588
     Price: ₹3,499.00 INR
 - [Helix Labz L-Carnitine Liquid 3500mg, 30 Servings](https://helixlabz.com/products/helix-labz-l-carnitine-liquid-3500mg-450ml-30-servings): Shop Helix Labz L-Carnitine Liquid 3500mg (450ml). Supports fat metabolism, boosts energy, and aids workout recovery. Convenient liquid format with 30 servings.
-  Updated: 2026-10-27T16:59:16Z
+  Updated: 2026-11-15T15:50:57Z
   Vendor: Helix Labz
   Product Type: 
   Availability: Available
@@ -235,7 +235,7 @@
   Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/1_dd46ee12-a814-4599-97f7-c4716eed26bd.png?v=1778054950
   Price: ₹1,199.00 INR
 - [Helixlabz Sleep 2 Win Tablets – Melatonin 10 mg + Tagar 250 mg with L-Theanine, Chamomile & Vitamin B6 (60 Tablets)](https://helixlabz.com/products/helixlabz-sleep-2-win-tablets-melatonin-10-mg-tagar-250-mg-with-l-theanine-chamomile-vitamin-b6-60-tablets): Description: Experience restful nights and refreshed mornings with Helixlabz Sleep 2 Win Tablets, an advanced sleep support formula designed to promote relaxation and improve sleep quality. Powered by 10 mg Melatonin and 250 mg Tagar (Valeriana wallichii), this blend helps regulate your sleep cycle and supports faster sleep onset. Enriched with calming ingredients like L-Theanine and Chamomile Extract, along with Vitamin B6 for added wellness support, this formula helps reduce stress, calm the mind, and encourage deep, uninterrupted rest. Key Benefits: Supports faster sleep onset Promotes deep and restful sleep Helps calm the mind and reduce stress Formulated with Melatonin, Tagar, L-Theanine & Chamomile Enriched with Vitamin B6 for overall wellness Usage: Take 1 tablet daily, preferably 30 minutes before bedtime, or as advised by your  professional. Note: This product is a nutraceutical supplement and not intended to diagnose, treat, , or prevent any disease.
-  Updated: 2026-10-16T17:25:04Z
+  Updated: 2026-11-16T05:13:27Z
   Vendor: Helix Labz
   Product Type: tablets
   Availability: Available
@@ -291,14 +291,14 @@
   Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/images_7c7b7d57-ac56-4d34-91fc-07067007d511.png?v=1786554182
   Price: ₹499.00 INR
 - [🎁 Helix labz Gym Vest](https://helixlabz.com/products/🎁-helix-labz-gym-vest)
-  Updated: 2026-11-11T20:32:21Z
+  Updated: 2026-11-18T20:44:52Z
   Vendor: Helix Labz
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/images_e706d042-35d7-4d2a-96f3-ba8795906688.png?v=1786604916
   Price: ₹0.00 INR
 - [Helix Creatine Monohydrate Powder – Rocket Pop | 250g](https://helixlabz.com/products/helix-labz-creatine-monohydrate-ultra-micronised-creatine-307-g-83-serving): Shop Helix Creatine Monohydrate Powder – 250g Rocket Pop flavour. Delivers 3.4g micronized creatine per serving. Order Now!
-  Updated: 2026-11-11T12:26:06Z
+  Updated: 2026-11-18T01:32:08Z
   Vendor: Helix Labz
   Product Type: 
   Availability: Available
@@ -316,7 +316,7 @@
     Availability: Available
     Price: ₹999.00 INR
 - [🎁 Kraken Preworkout Sachet - 1N](https://helixlabz.com/products/🎁-kraken-preworkout-sachet-1n)
-  Updated: 2026-11-11T22:46:55Z
+  Updated: 2026-11-18T20:44:53Z
   Vendor: Helix Labz
   Product Type: 
   Availability: Available
@@ -326,10 +326,10 @@
 ## Collections
 
 - [Fat Burner](https://helixlabz.com/collections/fat-burner): Shop Helix Labz Fat Burner Capsules online, designed to support metabolism and daily energy needs. Ideal for fitness enthusiasts focusing on weight management and active living.
-  Updated: 2026-11-06T12:16:19Z
+  Updated: 2026-11-16T12:12:44Z
   Total Products: 2
 - [Pre-Workouts](https://helixlabz.com/collections/pre-workout): Buy premium & powerful pre-workout supplements online from Helix Labz at best prices in India. Explore energy-boosting pre-workout drinks & amino acids.
-  Updated: 2026-11-11T12:15:05Z
+  Updated: 2026-11-18T12:13:40Z
   Total Products: 3
 - [PEANUT BUTTER](https://helixlabz.com/collections/peanut-butter): Shop Helix Labz Peanut Butter in exciting flavors like Chocolate, Mango, Cookies & Vanilla. High-protein, naturally sweetened with jaggery, gluten-free & freshly made for athletes & healthy snacking.
   Updated: 2026-06-29T06:53:54Z
@@ -341,7 +341,7 @@
   Updated: 2026-10-28T11:16:50Z
   Total Products: 5
 - [AMINO ACID](https://helixlabz.com/collections/amino-acids): Shop Helix Labz EAA supplements online. All 9 essential amino acids + electrolytes for hydration & recovery. Order your now!
-  Updated: 2026-11-11T12:15:06Z
+  Updated: 2026-11-18T12:13:40Z
   Total Products: 3
 - [WHEY PROTEIN](https://helixlabz.com/collections/whey-protein-1): Shop premium quality Helix Labz Whey Protein online. Choose 100% Whey Protein blends crafted for superior mixability and taste. Get authentic products delivered with exclusive offers.
   Updated: 2026-11-04T12:14:42Z
@@ -350,7 +350,7 @@
   Updated: 2026-06-29T06:53:58Z
   Total Products: 1
 - [CREATINE](https://helixlabz.com/collections/creatines): Shop Helix Labz Creatine Monohydrate – Pure, Micronized Creatine Powder for enhanced workout performance, muscle volume & fast absorption. Available online.
-  Updated: 2026-11-11T12:15:06Z
+  Updated: 2026-11-18T12:13:40Z
   Total Products: 2
 - [ISOLATE PROTEIN](https://helixlabz.com/collections/isolate-protein): Shop Helix Labz Isolate Protein online. High-quality whey protein isolate designed for lean muscle support and recovery. Order Now!
   Updated: 2026-06-15T10:35:59Z
@@ -359,7 +359,7 @@
   Updated: 2026-11-06T12:16:19Z
   Total Products: 2
 - [PRE-WORKOUT/FAT BURNER](https://helixlabz.com/collections/gainers-pre-workout)
-  Updated: 2026-11-11T12:15:05Z
+  Updated: 2026-11-18T12:13:40Z
   Total Products: 4
 - [NEW ARRIVAL](https://helixlabz.com/collections/new-arrival)
   Updated: 2026-11-11T12:15:06Z
@@ -368,16 +368,16 @@
   Updated: 2026-11-10T12:14:46Z
   Total Products: 7
 - [Protein](https://helixlabz.com/collections/protein)
-  Updated: 2026-11-11T12:15:06Z
+  Updated: 2026-11-15T12:17:06Z
   Total Products: 7
 - [Protein Bar](https://helixlabz.com/collections/protein-bar): Shop Helix Labz Protein Bars online. Enjoy high-protein, delicious bars made with natural ingredients like jaggery & roasted peanuts. Perfect for fitness, weight management & daily snacking.
-  Updated: 2026-11-11T12:15:06Z
+  Updated: 2026-11-15T12:17:06Z
   Total Products: 1
 - [Best Sellers](https://helixlabz.com/collections/best-sellers)
-  Updated: 2026-11-11T12:15:06Z
+  Updated: 2026-11-18T12:13:40Z
   Total Products: 12
 - [Shop](https://helixlabz.com/collections/shop)
-  Updated: 2026-11-11T12:15:06Z
+  Updated: 2026-11-18T12:13:40Z
   Total Products: 51
 - [Rice Cake](https://helixlabz.com/collections/rice-cake): Explore Helix Labz Rice Cakes – low-calorie, high-fiber snacks made for fitness and flavor. Ideal for weight management, clean snacking & energy.
   Updated: 2026-11-08T12:17:44Z
@@ -386,25 +386,25 @@
   Updated: 2026-11-11T12:15:06Z
   Total Products: 1
 - [Foods](https://helixlabz.com/collections/foods)
-  Updated: 2026-11-11T12:15:06Z
+  Updated: 2026-11-15T12:17:06Z
   Total Products: 11
 - [Superfoods](https://helixlabz.com/collections/superfoods)
-  Updated: 2026-11-11T12:15:06Z
+  Updated: 2026-11-15T12:17:06Z
   Total Products: 11
 - [Gainer+Amino](https://helixlabz.com/collections/gainer-amino)
-  Updated: 2026-11-11T12:15:06Z
+  Updated: 2026-11-18T12:13:40Z
   Total Products: 5
 - [Wellness Series](https://helixlabz.com/collections/wellness-series)
-  Updated: 2026-11-06T12:16:19Z
+  Updated: 2026-11-16T12:12:44Z
   Total Products: 11
 - [Gut Sheild](https://helixlabz.com/collections/gut-sheild)
   Updated: 2026-10-29T11:16:18Z
   Total Products: 1
 - [Sleep To Win](https://helixlabz.com/collections/sleep-to-win)
-  Updated: 2026-09-15T11:19:39Z
+  Updated: 2026-11-16T12:12:44Z
   Total Products: 1
 - [Diwali Festive ](https://helixlabz.com/collections/diwali-festive-)
-  Updated: 2026-11-11T12:15:06Z
+  Updated: 2026-11-18T12:13:40Z
   Total Products: 7
 
 ## Blogs
