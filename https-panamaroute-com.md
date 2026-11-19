@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-04-23T15:52:29Z
 - Contact Email: stefano@panamaroute.com
-- Updated At: 2026-11-12T00:49:41.259Z
+- Updated At: 2026-11-19T01:19:36.146Z
 
 ## Products
 
@@ -1275,7 +1275,7 @@
     Availability: Not Available
     Price: 220,00 € EUR
 - [JEFF 06 Grigio melange](https://panamaroute.com/products/jeff-06-grigio-melange-copia): Felpa girocollo con maniche raglan
-  Updated: 2026-10-16T17:30:28Z
+  Updated: 2026-11-16T18:17:15Z
   Vendor: Panama Route
   Product Type: 
   Availability: Available
@@ -1917,7 +1917,7 @@
   Updated: 2026-10-23T11:35:57Z
   Total Products: 30
 - [Cardigan](https://panamaroute.com/collections/cardigan)
-  Updated: 2026-09-14T15:41:37Z
+  Updated: 2026-11-17T12:38:06Z
   Total Products: 10
 - [Accessori](https://panamaroute.com/collections/accessori)
   Updated: 2026-02-24T10:07:50Z
@@ -1929,13 +1929,13 @@
   Updated: 2026-07-18T08:57:00Z
   Total Products: 17
 - [Shop](https://panamaroute.com/collections/shop)
-  Updated: 2026-10-23T11:35:57Z
+  Updated: 2026-11-17T12:38:06Z
   Total Products: 115
 - [SS 26](https://panamaroute.com/collections/spring-summer-26)
   Updated: 2026-10-16T11:30:50Z
   Total Products: 55
 - [FW26/27](https://panamaroute.com/collections/fw26-27)
-  Updated: 2026-10-22T11:31:52Z
+  Updated: 2026-11-17T12:38:06Z
   Total Products: 23
 
 ## Store Pages
