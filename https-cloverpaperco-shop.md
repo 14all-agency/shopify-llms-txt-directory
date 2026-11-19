@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-08-11T21:52:46Z
 - Contact Email: kaderogers51@gmail.com
-- Updated At: 2026-11-11T01:18:10.493Z
+- Updated At: 2026-11-19T01:33:07.634Z
 
 ## Products
 
@@ -3614,13 +3614,13 @@
 - [Privacy Policy](https://cloverpaperco.shop/policies/privacy-policy)
   Updated: 2026-10-31T11:28:26Z
 - [Shipping Policy](https://cloverpaperco.shop/policies/shipping-policy)
-  Updated: 2026-09-21T11:23:29Z
+  Updated: 2026-11-14T07:14:39Z
 - [Refund Policy](https://cloverpaperco.shop/policies/refund-policy)
-  Updated: 2026-09-21T11:21:09Z
+  Updated: 2026-11-14T07:13:55Z
 - [Terms of Service](https://cloverpaperco.shop/policies/terms-of-service)
-  Updated: 2026-09-21T11:22:30Z
+  Updated: 2026-11-14T07:14:21Z
 - [Contact Information](https://cloverpaperco.shop/policies/contact-information)
-  Updated: 2026-09-21T11:23:40Z
+  Updated: 2026-11-14T07:14:58Z
 
 ## Optional
 
