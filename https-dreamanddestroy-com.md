@@ -6,17 +6,10 @@
 - Timezone: America/Los_Angeles
 - Created At: 2020-09-01T05:30:25Z
 - Contact Email: david@dreamanddestroy.com
-- Updated At: 2026-11-11T01:01:18.237Z
+- Updated At: 2026-11-19T01:03:33.333Z
 
 ## Products
 
-- [MAURO GRIFONI DARK NAVY BRUSHED COTTON DOUBLE BREASTED PEACOAT](https://dreamanddestroy.com/products/mauro-grifoni-dark-navy-brushed-cotton-peacoat): Discover the MAURO GRIFONI DARK NAVY BRUSHED COTTON DOUBLE BREASTED PEACOAT, featuring a luxurious velvet-like feel and timeless design.
-  Updated: 2026-07-17T14:20:06Z
-  Vendor: mauro grifoni
-  Product Type: MEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/products/Myproject-1-2023-01-08T130053.292.jpg?v=1677402154
-  Price: $375.00 USD
 - [VICKY TIEL BLUE RUCHED BOW GOWN](https://dreamanddestroy.com/products/vicky-tiel-blue-ruched-bow-gown): Shop the stunning VICKY TIEL BLUE RUCHED BOW GOWN, size 2, brand new, never worn, perfect for a chic and elegant look!
   Updated: 2026-07-14T22:17:27Z
   Vendor: vicky tiel
@@ -24,41 +17,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/products/Myproject-1-2023-01-05T124736.222.jpg?v=1677404299
   Price: $250.00 USD
-- [CHRISTIAN DIOR KIM JONES BLACK OBLIQUE MONOGRAM TOTE BAG - Luxury](https://dreamanddestroy.com/products/christian-dior-kim-jones-black-oblique-monogram-tote-bag): Discover the exquisite CHRISTIAN DIOR KIM JONES BLACK OBLIQUE MONOGRAM TOTE BAG, featuring pristine condition and stylish details for effortless luxury.
-  Updated: 2026-07-08T21:39:36Z
-  Vendor: christian dior
-  Product Type: accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/35C8267D-9F43-40FE-AAF5-71AAED6D097D.jpg?v=1775445664
-  Price: $3,700.00 USD
-- [Armani Collezioni Navy Blue Micro striped 2 Piece Suit](https://dreamanddestroy.com/products/armani-collezioni-navy-blue-micro-striped-2-piece-suit-jacket-pants-set): Discover the Armani Collezioni Navy Blue Micro striped 2 Piece Suit, combining elegance with functionality. Perfect for the modern professional.
-  Updated: 2026-07-17T07:50:20Z
-  Vendor: Armani Collezioni
-  Product Type: MEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Armani_Collezioni_Navy_Blue_Micro_striped_2_Piece_Suit.jpg?v=1780713749
-  Price: $550.00 USD
-- [J.MCLAUGHLIN SAFARI WRAP DRESS - Stunning Tweed Style](https://dreamanddestroy.com/products/j-mclaughlin-safari-wrap-dress): Discover the J.MCLAUGHLIN SAFARI WRAP DRESS in excellent unworn condition, perfect for a stylish U.S. size 4/6.
-  Updated: 2026-07-16T20:24:46Z
-  Vendor: J. McLaughlin
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/J.MCLAUGHLIN_SAFARI_WRAP_DRESS.jpg?v=1780713667
-  Price: $200.00 USD
-- [CAMILA COELHO COYOTE JUMPSUIT PANT SET](https://dreamanddestroy.com/products/camila-coelho-coyote-jumpsuit-pant-set): Shop the stylish CAMILA COELHO COYOTE JUMPSUIT PANT SET! Comes in great condition with a sexy cut-out design. Perfect for sizes 2/4.
-  Updated: 2026-07-18T17:43:48Z
-  Vendor: Camila Coelho
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/6a3859db-ca07-4b88-9afd-13c27f7cde5c.jpg?v=1757113095
-  Price: $225.00 USD
-- [LAFAYETTE 148 GEOMETRIC PRINT MAXI DRESS](https://dreamanddestroy.com/products/lafayette-148-geometric-print-maxi-dress-4): Discover the chic LAFAYETTE 148 GEOMETRIC PRINT MAXI DRESS in size 4, featuring a stylish back zip and convenient side pockets. Perfect for any occasion!
-  Updated: 2026-07-17T09:05:44Z
-  Vendor: Lafayette 148 New York
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/LAFAYETTE_148_GEOMETRIC_PRINT_MAXI_DRESS.jpg?v=1780711736
-  Price: $400.00 USD
 - [AKRIS PUNTO BLACK WOOL BLEND RIDING ZIPPER PANTS](https://dreamanddestroy.com/products/akris-punto-black-wool-blend-riding-zipper-pants): Discover the elegance of AKRIS PUNTO BLACK WOOL BLEND RIDING ZIPPER PANTS, featuring a chic riding seam detail and zippers for a modern touch.
   Updated: 2026-07-08T21:39:54Z
   Vendor: Akris punto
@@ -73,90 +31,55 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/e7cdc934-d9c5-45a5-8996-27421578b878.jpg?v=1757115914
   Price: $400.00 USD
-- [NO VACANCY INN Tie Dye Hoodie](https://dreamanddestroy.com/products/no-vacancy-inn-tie-dye-hoodie): Shop the NO VACANCY INN Tie Dye Hoodie for a stylish oversized fit, made from thick cotton that feels like denim. Perfect for any casual outing!
-  Updated: 2026-07-17T06:40:37Z
-  Vendor: No Vacancy Inn
-  Product Type: MEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/NO_VACANCY_INN_Tie_Dye_Hoodie.jpg?v=1780874602
-  Price: $200.00 USD
 - [JOHN ELLIOTT THE CAST 2 SPRING DIRTY JEANS](https://dreamanddestroy.com/products/bnwt-john-elliott-the-cast-2-spring-dirty-jeans-1): Shop original JOHN ELLIOTT THE CAST 2 SPRING DIRTY JEANS. Slim fit, brand new, with unique factory markings. Ideal for style enthusiasts!
-  Updated: 2026-09-22T03:04:50Z
+  Updated: 2026-11-16T16:24:23Z
   Vendor: John Elliott
   Product Type: MEN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/JOHN_ELLIOTT_THE_CAST_2_SPRING_DIRTY_JEANS.jpg?v=1780711227
   Price: $450.00 USD
 - [MARGIELA WHITE LABEL MAIN LINE WIDE LEG PAPER BAG PANTS](https://dreamanddestroy.com/products/margiela-white-label-main-line-wide-leg-paper-bag-pants): Explore the MARGIELA WHITE LABEL MAIN LINE WIDE LEG PAPER BAG PANTS—crafted in a luxurious cotton-silk blend with a chic paper bag waist design.
-  Updated: 2026-07-16T03:10:52Z
+  Updated: 2026-11-16T16:22:31Z
   Vendor: Maison Margiela
   Product Type: WOMEN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/dda6ff38-3616-4ce3-86cc-25f5e49d1d85.jpg?v=1757119026
   Price: $650.00 USD
 - [HERVE LEGER Metallic Bandage Dress](https://dreamanddestroy.com/products/herve-leger-bandage-bodycon-mini-bondage-metallic-dress-m): HERVE LEGER SILVER BANDAGE DRESS IN A SIZE MEDIUM.
-  Updated: 2026-10-09T11:43:32Z
+  Updated: 2026-11-16T16:20:33Z
   Vendor: Herve Leger
   Product Type: WOMEN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/HERVE_LEGER_BANDAGE_DRESS.jpg?v=1791502991
   Price: $495.00 USD
 - [ADER ERROR 2020 Runway Cropped Sweater](https://dreamanddestroy.com/products/ader-error-2020-runway-cropped-sweater): Shop the ADER ERROR 2020 Runway Cropped Sweater, an avant-garde piece in pristine condition, perfect for a stylish fall/winter look.
-  Updated: 2026-07-17T08:17:04Z
+  Updated: 2026-11-16T16:19:27Z
   Vendor: ADER ERROR
   Product Type: MEN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/441b3c61-2f8b-488d-bb3f-204773702b66.jpg?v=1757120380
-  Price: $300.00 USD
-- [FRAME MERIBEL Wide Leg Flare Jeans](https://dreamanddestroy.com/products/frame-meribel-wide-leg-flare-jeans): Discover the FRAME MERIBEL Wide Leg Flare Jeans, a stylish and comfortable addition to your wardrobe, designed for the modern woman.
-  Updated: 2026-07-17T23:06:04Z
-  Vendor: FRAME
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/FRAME_MERIBEL_Wide_Leg_Flare_Jeans.jpg?v=1780710765
-  Price: $250.00 USD
+  - [M / Cream](https://dreamanddestroy.com/products/ader-error-2020-runway-cropped-sweater?variant=44859639234755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/03b7b206-8a80-430e-bef2-45f043ac3d9f.jpg?v=1757120380
+    Price: $300.00 USD
+  - [MEDIUM / CREAM](https://dreamanddestroy.com/products/ader-error-2020-runway-cropped-sweater?variant=54119791493315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/03b7b206-8a80-430e-bef2-45f043ac3d9f.jpg?v=1757120380
+    Price: $300.00 USD
 - [HELMUT LANG PARACHUTE STRAPS JACKET](https://dreamanddestroy.com/products/helmut-lang-parachute-straps-jacket): Discover the stylish HELMUT LANG PARACHUTE STRAPS JACKET, featuring iconic bondage straps in pristine condition. Perfect for any modern wardrobe.
-  Updated: 2026-07-18T10:04:51Z
+  Updated: 2026-11-16T04:16:57Z
   Vendor: Helmut Lang
   Product Type: vintage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/707fecad-c2a7-4696-a53a-ea7381b28b99.jpg?v=1757120941
   Price: $1,250.00 USD
 - [MOLLIE PARNIS STUDIO COUTURE DRESS](https://dreamanddestroy.com/products/mollie-parnis-studio-couture-dress): Discover the MOLLIE PARNIS STUDIO COUTURE DRESS, a stunning size 6 piece with dolman sleeves and pristine condition. Perfect for your elegant wardrobe!
-  Updated: 2026-07-17T13:22:51Z
+  Updated: 2026-11-16T04:15:27Z
   Vendor: MOLLIE PARNIS
   Product Type: vintage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/9b91e3c1-369b-4023-bdf9-f3e1fbc6d7b5.jpg?v=1757121031
   Price: $400.00 USD
-- [M.M Lafleur Draped Crepe The Deneuve Top - Chic & Versatile](https://dreamanddestroy.com/products/m-m-lafleur-draped-crepe-the-deneuve-top): Elevate your wardrobe with the M.M Lafleur Draped Crepe The Deneuve Top. Perfect for office wear blouses, its flattering design is a must-have!
-  Updated: 2026-07-17T09:21:54Z
-  Vendor: MM Lafleur
-  Product Type: women
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/M.M_LAFLEUR_Blouse.jpg?v=1780709974
-  Price: $120.00 USD
-- [VINTAGE FLORAL 50'S 60'S SHEER JACKET](https://dreamanddestroy.com/products/vintage-floral-50s-60s-sheer-jacket-m): Shop the VINTAGE FLORAL 50'S 60'S SHEER JACKET! This stunning piece features a floral design, cuffed sleeves, and is in great condition. Perfect for vintage lovers!
-  Updated: 2026-07-18T08:05:12Z
-  Vendor: Vintage
-  Product Type: vintage
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/1ffaa0c9-8fe9-4347-bf21-f35e0cb72cba.jpg?v=1757122135
-  Price: $100.00 USD
-- [APC TERRY GYMNASIUM MODEL CROPPED HOODIE SWEATER](https://dreamanddestroy.com/products/apc-terry-gymnasium-model-cropped-hoodie-sweater): Elevate your style with the APC TERRY GYMNASIUM MODEL CROPPED HOODIE SWEATER in size XS, offering comfort and authenticity from a Parisian brand.
-  Updated: 2026-07-18T04:36:01Z
-  Vendor: A.P.C.
-  Product Type: women
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/ff80cd18-7579-4417-899c-b4e0bcd1aab6.jpg?v=1757122450
-  Price: $150.00 USD
-- [VINTAGE LEVIS 505 80'S HIGH WAIST MOM JEANS](https://dreamanddestroy.com/products/vintage-levis-505-80s-high-waist-mom-jeans): Discover the VINTAGE LEVIS 505 80'S HIGH WAIST MOM JEANS in rare size 22. Worn to perfection with unique fading and whiskering. Grab your pair now!
-  Updated: 2026-07-15T05:34:52Z
-  Vendor: Levi's
-  Product Type: vintage
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/6c886720-38b5-4132-b258-7786d36befca.jpg?v=1757122672
-  Price: $200.00 USD
 - [DREAM AND DESTROY WORLD IS FUCKED MLK SHIRT](https://dreamanddestroy.com/products/dream-and-destroy-world-is-fucked-mlk-shirt): Discover the unique DREAM AND DESTROY WORLD IS FUCKED MLK SHIRT, a one-of-a-kind vintage tee crafted for the perfectly imperfect style.
   Updated: 2026-07-17T07:26:38Z
   Vendor: Dream And Destroy
@@ -283,15 +206,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/4bc14c35-bea5-44b8-9f51-b98f38ac0d38.jpg?v=1757206283
   Price: $750.00 USD
-- [NANUSHKA YELLOW VEGAN LEATHER ELASTIC WAIST SHORTS](https://dreamanddestroy.com/products/nanushka-yellow-vegan-leather-elastic-waist-shorts-m): Shop NANUSHKA YELLOW VEGAN LEATHER ELASTIC WAIST SHORTS for a perfect fit. Stylish and comfortable with elastic waist, ideal for your wardrobe.
-  Updated: 2026-07-15T11:59:08Z
-  Vendor: Nanushka
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/ea6ceb2f-09e4-4633-8672-4cb4df0612e6.jpg?v=1764986034
-  Price: $200.00 USD
 - [FABIANA FILIPPI CROPPED PINSTRIPE ELASTIC WAIST PANTS](https://dreamanddestroy.com/products/fabiana-filippi-cropped-pinstripe-elastic-waist-pants): Shop FABIANA FILIPPI CROPPED PINSTRIPE ELASTIC WAIST PANTS in size XXS. Like new, only $895! Check measurements for your perfect fit.
-  Updated: 2026-07-18T03:04:29Z
+  Updated: 2026-11-16T16:10:34Z
   Vendor: Fabiana Filippi
   Product Type: WOMEN
   Availability: Available
@@ -305,61 +221,19 @@
     Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/FABIANA_FILIPPI_CROPPED_PINSTRIPE_ELASTIC_WAIST_PANTS.jpg?v=1780876620
     Price: $350.00 USD
 - [THE ROW STRATTON STRETCH DENIM CROPPED HIGH RISE LEGGINGS](https://dreamanddestroy.com/products/the-row-stratton-stretch-denim-cropped-high-rise-leggings): Shop THE ROW STRATTON STRETCH DENIM CROPPED HIGH RISE LEGGINGS in size L. Perfect condition with detailed measurements for the ideal fit. Limited find!
-  Updated: 2026-07-15T05:04:08Z
+  Updated: 2026-11-16T16:10:10Z
   Vendor: THE ROW
   Product Type: WOMEN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/25b84d83-6da0-47df-aa5d-b3a42c1cee90.jpg?v=1764987078
   Price: $500.00 USD
-- [RAQUEL ALLEGRA RED LEAF PRINT MAXI DRESS](https://dreamanddestroy.com/products/raquel-allegra-red-leaf-print-maxi-dress): Discover the RAQUEL ALLEGRA RED LEAF PRINT MAXI DRESS in size S. Perfect for any occasion, brand new and never worn. Grab this stunning piece!
-  Updated: 2026-07-14T21:37:44Z
-  Vendor: Raquel Allegra
-  Product Type: women
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/5a472aa7-1ccc-4f85-b34b-3c99bcf43318.jpg?v=1764987704
-  Price: $300.00 USD
-- [RAQUEL ALLEGRA VALENTINA LAPIS BLUE SLIP DRESS](https://dreamanddestroy.com/products/raquel-allegra-valentina-lapis-blue-slip-dress): Shop the stunning RAQUEL ALLEGRA VALENTINA LAPIS BLUE SLIP DRESS, brand new with tags, perfect for any occasion. Check measurements for the perfect fit!
-  Updated: 2026-07-14T18:11:54Z
-  Vendor: Raquel Allegra
-  Product Type: women
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/d60ab130-5ef5-4e0c-85ea-ae55f1d50d84.jpg?v=1764988008
-  Price: $300.00 USD
-- [RAQUEL ALLEGRA TIE DYE ALEK BELTED DRESS](https://dreamanddestroy.com/products/raquel-allegra-tie-dye-alek-belted-dress): Explore the stunning RAQUEL ALLEGRA TIE DYE ALEK BELTED DRESS, brand new with tags, in size S. Perfect fit for any occasion!
-  Updated: 2026-07-18T05:39:00Z
-  Vendor: Raquel Allegra
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/1395b444-dd21-41ad-b80a-9dbe7bf5b8f1.jpg?v=1764988258
-  Price: $300.00 USD
-- [KENZO PARIS X NIGO 2 TONE PLAID OVERSIZED SHIRT S](https://dreamanddestroy.com/products/kenzo-paris-x-nigo-2-tone-plaid-oversized-shirt): Discover the KENZO PARIS X NIGO 2 TONE PLAID OVERSIZED SHIRT, featuring a unique blend of retro workwear style and modern comfort.
-  Updated: 2026-07-16T22:50:43Z
-  Vendor: Kenzo
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/a5210d9d-25d4-4303-a385-5d916eb42cfb.jpg?v=1764989087
-  Price: $450.00 USD
-- [SHAHEEN 50'S 60'S HAWAIIAN FLORAL PAINT DRESS 6](https://dreamanddestroy.com/products/shaheen-50s-60s-hawaiian-floral-paint-dress-6): Shop the vintage SHAHEEN 50'S 60'S HAWAIIAN FLORAL PAINT DRESS 6, featuring a stunning floral design and royal blue fabric, perfect for any occasion!
-  Updated: 2026-07-16T20:54:28Z
-  Vendor: Alfred Shaheen
-  Product Type: vintage
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/da82281c-e920-4b01-bc19-3b6cd85de149.jpg?v=1764989203
-  Price: $500.00 USD
 - [Eskandar Oversized Rich Tweed Boucle Coat Jacket](https://dreamanddestroy.com/products/eskandar-oversized-rich-tweed-boucle-coat-jacket): Discover the Eskandar Oversized Rich Tweed Boucle Coat Jacket, a blend of elegance and sophistication in pristine condition, perfect for any occasion.
-  Updated: 2026-07-17T07:11:51Z
+  Updated: 2026-11-16T16:02:34Z
   Vendor: eskandar
   Product Type: women
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/ebd38799-50e0-463e-ac77-8e246a8edb74.jpg?v=1764990889
-  - [S](https://dreamanddestroy.com/products/eskandar-oversized-rich-tweed-boucle-coat-jacket?variant=44982625927363)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/ebd38799-50e0-463e-ac77-8e246a8edb74.jpg?v=1764990889
-    Price: $2,100.00 USD
-  - [small](https://dreamanddestroy.com/products/eskandar-oversized-rich-tweed-boucle-coat-jacket?variant=45096351203523)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/ebd38799-50e0-463e-ac77-8e246a8edb74.jpg?v=1764990889
-    Price: $2,100.00 USD
+  Price: $2,100.00 USD
 - [Goyard Artois MM Tote Bag- Goyardine](https://dreamanddestroy.com/products/goyard-artois-mm-tote-bag-goyardine): Shop the pristine Goyard Artois MM Tote Bag- Goyardine, complete with care cards and dustbag. Authenticity !
   Updated: 2026-10-09T11:11:20Z
   Vendor: Goyard
@@ -368,133 +242,126 @@
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Goyard_Tote.jpg?v=1791500988
   Price: $4,000.00 USD
 - [TOM FORD BLACK DRESS SPECIAL OCCASION PANTS 38- 6](https://dreamanddestroy.com/products/tom-ford-black-dress-special-occasion-pants-38-6): Elevate your style with TOM FORD BLACK DRESS SPECIAL OCCASION PANTS, designed for comfort and elegance, perfect for any special event.
-  Updated: 2026-07-16T03:59:20Z
+  Updated: 2026-11-16T16:01:15Z
   Vendor: Tom Ford
   Product Type: WOMEN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Tom_Ford_pants.jpg?v=1780708916
   Price: $650.00 USD
-- [FERAUD CASHMERE BLEND TRENCH HEATHER GRAY COAT 10](https://dreamanddestroy.com/products/feraud-cashmere-blend-trench-heather-gray-coat-10): Elevate your style with the FERAUD CASHMERE BLEND TRENCH HEATHER GRAY COAT 10, expertly crafted for elegance and comfort. Perfect for any occasion.
-  Updated: 2026-07-16T04:30:08Z
-  Vendor: FERAUD
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/FERAUD_CASHMERE_COAT.jpg?v=1781564462
-  Price: $199.95 USD
 - [YVES SAINT LAURENT YSL EMBROIDERED NECKTIE](https://dreamanddestroy.com/products/yves-saint-laurent-ysl-embroidered-logo-neck-tie): Elevate your style with the YVES SAINT LAURENT YSL EMBROIDERED NECKTIE, a refined piece perfect for any formal occasion.
-  Updated: 2026-07-28T04:05:45Z
+  Updated: 2026-11-16T04:00:13Z
   Vendor: Saint Laurent
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Saint_Laurent_tie.jpg?v=1781650677
   Price: $150.00 USD
 - [CELINE Geometric Logo Print Neck Tie - Elegant Accessory](https://dreamanddestroy.com/products/celine-geometric-logo-print-neck-tie): Elevate your style with the CELINE GEOMETRIC LOGO PRINT NECK TIE. A perfect blend of sophistication and timeless elegance for any outfit.
-  Updated: 2026-07-16T17:02:33Z
+  Updated: 2026-11-16T15:58:31Z
   Vendor: CÉLINE
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/dbd0f1ab-8742-416b-8eea-7fecc9818fc7.jpg?v=1781650825
   Price: $150.00 USD
-- [JAMIE HALLER BLACK HIGH WAIST DENIM JEANS PANTS 26](https://dreamanddestroy.com/products/jamie-haller-black-high-waist-denim-jeans-pants-26): JAMIE HALLER BLACK HIGH WAIST DENIM JEANS PANTS IN A MARKED SIZE 26- FITS A 28 (FOLLOW MEASUREMENTS BELOW. FEATURES A HIGH WAIST, SLIGHT BARREL FIT, 5 POCKET DESIGN. IN EXCELLENT CONDITIONMEASUREMENTS: WAIST: 14 X INSEAM: 30 X FOOT RISE: 9 X FRONT RISE: 12 X THIGH: 13RETAILED AT: $575
-  Updated: 2026-09-11T21:44:20Z
+- [JAMIE HALLER BLACK HIGH WAIST DENIM JEANS](https://dreamanddestroy.com/products/jamie-haller-black-high-waist-denim-jeans-pants-26): JAMIE HALLER BLACK HIGH WAIST DENIM JEANS PANTS IN A MARKED SIZE 26- FITS A 28 (FOLLOW MEASUREMENTS BELOW. FEATURES A HIGH WAIST, SLIGHT BARREL FIT, 5 POCKET DESIGN. IN EXCELLENT CONDITIONMEASUREMENTS: WAIST: 14 X INSEAM: 30 X FOOT RISE: 9 X FRONT RISE: 12 X THIGH: 13RETAILED AT: $575
+  Updated: 2026-11-16T15:56:35Z
   Vendor: JAMIE HALLER
   Product Type: WOMEN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Jamie_Haller_Jeans.jpg?v=1789076911
   Price: $399.00 USD
-- [COMME DES GARCONS HOMME GEORGE COX DIANO CREEPERS SHOES 9](https://dreamanddestroy.com/products/comme-des-garcons-homme-george-cox-diano-creepers-shoes-9): BRAND NEW IN BOX COMME DES GARCONS HOMME PLUS X GEORGE COX BLACK ORIGINAL CREEPERS WITH GROMMETS IN A MARKED SIZE 9. THE SHOES WERE TAKEN OUT OF THE PLASTIC BAG JUST TO TAKE THESE IMAGES, I PURCHASED THESE FROM H LORENZO IN LOS ANGELES ONLINE NOT ACTUALLY REALIZING THE POINTED TOE SOMETHING I CANNOT WEAR AS A HAIRSTYLIST DUE TO MOBILITY WITH MY STYLIST CHAIR, MY $700 PURCHASE IS MY LOSS AND YOUR GAIN. NEVER WORN, NEVER TRIED ON AND NEVER TOUCHED THE FLOOR.The Comme des Garçons Homme Plus Spring/Summer 2025 collection presents the Derby shoes in collaboration with George Cox. The creeper-style design features a pointed moc toe in black leather, metal eyelet embellishments at the vamp and sides, and lace-up closure.
-  Updated: 2026-09-25T13:37:37Z
+- [COMME DES GARCONS HOMME GEORGE COX DIANO CREEPERS SHOES](https://dreamanddestroy.com/products/comme-des-garcons-homme-george-cox-diano-creepers-shoes-9): BRAND NEW IN BOX COMME DES GARCONS HOMME PLUS X GEORGE COX BLACK ORIGINAL CREEPERS WITH GROMMETS IN A MARKED SIZE 9. THE SHOES WERE TAKEN OUT OF THE PLASTIC BAG JUST TO TAKE THESE IMAGES, I PURCHASED THESE FROM H LORENZO IN LOS ANGELES ONLINE NOT ACTUALLY REALIZING THE POINTED TOE SOMETHING I CANNOT WEAR AS A HAIRSTYLIST DUE TO MOBILITY WITH MY STYLIST CHAIR, MY $700 PURCHASE IS MY LOSS AND YOUR GAIN. NEVER WORN, NEVER TRIED ON AND NEVER TOUCHED THE FLOOR.The Comme des Garçons Homme Plus Spring/Summer 2025 collection presents the Derby shoes in collaboration with George Cox. The creeper-style design features a pointed moc toe in black leather, metal eyelet embellishments at the vamp and sides, and lace-up closure.
+  Updated: 2026-11-16T15:56:14Z
   Vendor: COMME DES GARCONS X GEORGE COX
   Product Type: shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/COMME_DES_GARCONS_GEORGE_COX_CREEPERS.jpg?v=1790300291
   Price: $700.00 USD
-- [GABRIELA HEARST GUNNERSBURY CASHMERE MIDI CARDIGAN SWEATER S](https://dreamanddestroy.com/products/gabriela-hearst-gunnersbury-cashmere-midi-cardigan-sweater-s): GABRIELA HEARST GUNNERSBURY CASHMERE AND SILK BLEND MIDI CARDIGAN SWEATER IN A SOFT HEATHER GRAY THAT WILL FIT A SIZE S. OPEN DESIGN, HIP POCKETS. VARIOUS KNIT USE THROUGHOUT. SUPER SOFT!THE INTERIOR CARE TAG HAS BEEN REMOVED/FALLEN OFF- SEE LAST IMAGE FOR REMNANTS OF THE TAG.RETAILED FOR $2460MEASUREMENTS ARE APPROXIMATE AS THERE ARE NO SHOULDER SEAMS AND AN OPEN DESIGN.SHOULDER: 18 X CHEST: 21 X LENGTH: 36 INCHES.PLEASE NOTE: YOU WILL NOT GET THE IVORY COLOR IN THE STOCK IMAGE. THIS IS FOR BETTER A IMAGE... YOU WILL GET THE HEATHER GRAY THAT I HAVE MULTIPLE IMAGES OF.
-  Updated: 2026-09-26T12:57:50Z
+- [GABRIELA HEARST GUNNERSBURY CASHMERE MIDI SWEATER](https://dreamanddestroy.com/products/gabriela-hearst-gunnersbury-cashmere-midi-cardigan-sweater-s): GABRIELA HEARST GUNNERSBURY CASHMERE AND SILK BLEND MIDI CARDIGAN SWEATER IN A SOFT HEATHER GRAY THAT WILL FIT A SIZE S. OPEN DESIGN, HIP POCKETS. VARIOUS KNIT USE THROUGHOUT. SUPER SOFT!THE INTERIOR CARE TAG HAS BEEN REMOVED/FALLEN OFF- SEE LAST IMAGE FOR REMNANTS OF THE TAG.RETAILED FOR $2460MEASUREMENTS ARE APPROXIMATE AS THERE ARE NO SHOULDER SEAMS AND AN OPEN DESIGN.SHOULDER: 18 X CHEST: 21 X LENGTH: 36 INCHES.PLEASE NOTE: YOU WILL NOT GET THE IVORY COLOR IN THE STOCK IMAGE. THIS IS FOR BETTER A IMAGE... YOU WILL GET THE HEATHER GRAY THAT I HAVE MULTIPLE IMAGES OF.
+  Updated: 2026-11-16T15:55:52Z
   Vendor: GABRIELA HEARST
   Product Type: WOMEN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/GABRIELA_HEARST_CASHMERE.jpg?v=1790385060
   Price: $850.00 USD
-- [NWOT HELMUT LANG GRAY PLAID PATENT MINI SKIRT SIZE US 0 26](https://dreamanddestroy.com/products/nwot-helmut-lang-gray-plaid-patent-mini-skirt-size-us-0-26): HARD TO FIND! AUTHENTIC HELMUT LANG POLY VINYL COATING MINI SKIRT IN A MARKED SIZE 0- WILL FIT A U.S SIZE 26. THE SKIRT FEATURES A HIDDEN SIDE ZIP, ALINE CUT WITH A VINYL COATING OVER A GRAY PLAID FABRIC WITH SILK TRIM.PRISTINE, UNWORN CONDITION.MEASUREMENTS: WAIST: 13 X HEM: 19.5 X LENGTH: 15
-  Updated: 2026-09-26T13:18:55Z
+- [HELMUT LANG GRAY PLAID PATENT MINI SKIRT](https://dreamanddestroy.com/products/nwot-helmut-lang-gray-plaid-patent-mini-skirt-size-us-0-26): HARD TO FIND! AUTHENTIC HELMUT LANG POLY VINYL COATING MINI SKIRT IN A MARKED SIZE 0- WILL FIT A U.S SIZE 26. THE SKIRT FEATURES A HIDDEN SIDE ZIP, ALINE CUT WITH A VINYL COATING OVER A GRAY PLAID FABRIC WITH SILK TRIM.PRISTINE, UNWORN CONDITION.MEASUREMENTS: WAIST: 13 X HEM: 19.5 X LENGTH: 15
+  Updated: 2026-11-16T15:55:25Z
   Vendor: Helmut Lang
   Product Type: women
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Helmut_Lang_Vinyl_skirt.jpg?v=1790385677
   Price: $150.00 USD
-- [GUNEX BY BRUNELLO CUCINELLI BLACK STRETCH DRESS CREASE PANTS 6](https://dreamanddestroy.com/products/gunex-by-brunello-cucinelli-black-stretch-dress-crease-pants-6): GUNEX BY BRUNELLO CUCINELLI BLACK STRETCH DRESS CREASE PANTS IN A MARKED SIZE 6. FEATURES A BLACK STRETCH COTTON, CREASE DOWN THE CENTER OF LEGS, FLAT FRONT WITH A ZIP CLOSURE. GORGEOUS PANTS.MEASUREMENTS: 16 X INSEAM: 29 X FOOT: 7
-  Updated: 2026-10-05T22:57:08Z
+- [GUNEX BY BRUNELLO CUCINELLI  DRESS PANTS](https://dreamanddestroy.com/products/gunex-by-brunello-cucinelli-black-stretch-dress-crease-pants-6): GUNEX BY BRUNELLO CUCINELLI BLACK STRETCH DRESS CREASE PANTS IN A MARKED SIZE 6. FEATURES A BLACK STRETCH COTTON, CREASE DOWN THE CENTER OF LEGS, FLAT FRONT WITH A ZIP CLOSURE. GORGEOUS PANTS.MEASUREMENTS: 16 X INSEAM: 29 X FOOT: 7
+  Updated: 2026-11-16T15:54:44Z
   Vendor: Gunex
   Product Type: WOMEN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/gunex_by_brunello_cucinelli.jpg?v=1790986294
   Price: $125.00 USD
-- [ENZA COSTA WIDE LEG SAILOR PLEATS COTTON TWILL DENIM PANTS 6](https://dreamanddestroy.com/products/enza-costa-wide-leg-sailor-pleats-cotton-twill-denim-pants-6): ENZA COSTA WIDE LEG SAILOR PLEATS COTTON TWILL DENIM PANTS THAT WILL FIT A SIZE 6. THE PANTS FEATURE A WIDE LEG, SLASH POCKETS, SIDE ZIP CLOSURE WITH FRONT PLEATS IN A THICK COTTON TWILL DENIM FABRIC.NO VISIBLE ISSUES.MEASUREMENTS:WAIST: 15 X INSEAM: 33.5 X FOOT: 11.5 X FRONT RISE: 12
-  Updated: 2026-10-05T22:57:32Z
+- [ENZA COSTA SAILOR DENIM PANTS](https://dreamanddestroy.com/products/enza-costa-wide-leg-sailor-pleats-cotton-twill-denim-pants-6): ENZA COSTA WIDE LEG SAILOR PLEATS COTTON TWILL DENIM PANTS THAT WILL FIT A SIZE 6. THE PANTS FEATURE A WIDE LEG, SLASH POCKETS, SIDE ZIP CLOSURE WITH FRONT PLEATS IN A THICK COTTON TWILL DENIM FABRIC.NO VISIBLE ISSUES.MEASUREMENTS:WAIST: 15 X INSEAM: 33.5 X FOOT: 11.5 X FRONT RISE: 12
+  Updated: 2026-11-16T15:53:52Z
   Vendor: Enza Costa
   Product Type: WOMEN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/ENZA_COSTA_WIDE_LEG_PANTS.jpg?v=1790986787
   Price: $250.00 USD
-- [Alexander McQueen MCQ Swallow Embroidered Crewneck sweater](https://dreamanddestroy.com/products/alexander-mcqueen-mcq-swallow-embroidered-crewneck-sweater): ALEXANDER MCQUEEN MCQ SWALLOW BIRDS OF PREY EMBROIDERED CREWNECK SWEATER IN A MARKED SIZE SMALL. THE ITEM IS IN PRISTINE CONDITION WITH NO VISIBLE ISSUES.MEASUREMENTS:SHOULDER: 20 X CHEST: 19 X LENGTH: 22.5
-  Updated: 2026-10-05T22:57:50Z
+- [Alexander McQueen MCQ Swallow sweater](https://dreamanddestroy.com/products/alexander-mcqueen-mcq-swallow-embroidered-crewneck-sweater): ALEXANDER MCQUEEN MCQ SWALLOW BIRDS OF PREY EMBROIDERED CREWNECK SWEATER IN A MARKED SIZE SMALL. THE ITEM IS IN PRISTINE CONDITION WITH NO VISIBLE ISSUES.MEASUREMENTS:SHOULDER: 20 X CHEST: 19 X LENGTH: 22.5
+  Updated: 2026-11-16T15:53:27Z
   Vendor: Alexander McQueen
   Product Type: WOMEN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/alexander_mcqueen_crewneck.jpg?v=1790988521
   Price: $200.00 USD
-- [BARBARA I GONGINI BLACK LINEN AVANT GARDE JACKET 38 M](https://dreamanddestroy.com/products/barbara-i-gongini-black-linen-avant-garde-jacket-38-m): BARBARA I GONGINI BLACK LINEN DISCONNECTED ASYMMETRICAL AVANT GARDE JACKET IN A MARKED SIZE 38- FITS A U.S SIZE S/M BEST (SMALL IF PREFERRED OVERSIZED FOR LAYERING). THE JACKET IS INSANE! IT FEATURES A PATCHWORK DESIGN IN BLACK LINEN THAT IS PIECED TOGETHER AND ATTACHED WITH MULTIPLE BLACK MATTE BUTTONS. THERE IS A SINGLE CURVED FRONT CHEST POCKET, ONE ARMPIT THE SLEEVE IS ATTACHED BY BUTTONS WITH A HOLE IN THE ARMPIT- THE OTHER OTHER SLEEVE FEATURES A DOLMAN SLEEVE WITH NO BUTTONS. THE HEM IS ASYMMETRICAL WITH A PANEL THAT IS ATTACHED TO THE THE PANEL WITH BUTTONS FOR AN AVANT GARDE CUT- PERFECT FOR LAYERING (AS STYLED ON THE FIRST IMAGE ON THE MODEL) UNISEX ITEM THIS IS FROM THE FALL/WINTER 2016 COLLECTION SHOWS AT THE COPENHAGEN FASHION WEEK.PLEASE NOTE: THE JACKET IS SOLID BLACK, SOME OF THE IMAGES WERE LIGHTENED/BRIGHTENED SO YOU CAN SEE THE DESIGN OF THE ITEM.MEASUREMENTS: SHOULDER: 30 X CHEST: 29 AND LENGTH (LONGEST PIECE): 52
-  Updated: 2026-10-09T11:24:53Z
+- [BARBARA I GONGINI BLACK LINEN JACKET](https://dreamanddestroy.com/products/barbara-i-gongini-black-linen-avant-garde-jacket-38-m): BARBARA I GONGINI BLACK LINEN DISCONNECTED ASYMMETRICAL AVANT GARDE JACKET IN A MARKED SIZE 38- FITS A U.S SIZE S/M BEST (SMALL IF PREFERRED OVERSIZED FOR LAYERING). THE JACKET IS INSANE! IT FEATURES A PATCHWORK DESIGN IN BLACK LINEN THAT IS PIECED TOGETHER AND ATTACHED WITH MULTIPLE BLACK MATTE BUTTONS. THERE IS A SINGLE CURVED FRONT CHEST POCKET, ONE ARMPIT THE SLEEVE IS ATTACHED BY BUTTONS WITH A HOLE IN THE ARMPIT- THE OTHER OTHER SLEEVE FEATURES A DOLMAN SLEEVE WITH NO BUTTONS. THE HEM IS ASYMMETRICAL WITH A PANEL THAT IS ATTACHED TO THE THE PANEL WITH BUTTONS FOR AN AVANT GARDE CUT- PERFECT FOR LAYERING (AS STYLED ON THE FIRST IMAGE ON THE MODEL) UNISEX ITEM THIS IS FROM THE FALL/WINTER 2016 COLLECTION SHOWS AT THE COPENHAGEN FASHION WEEK.PLEASE NOTE: THE JACKET IS SOLID BLACK, SOME OF THE IMAGES WERE LIGHTENED/BRIGHTENED SO YOU CAN SEE THE DESIGN OF THE ITEM.MEASUREMENTS: SHOULDER: 30 X CHEST: 29 AND LENGTH (LONGEST PIECE): 52
+  Updated: 2026-11-16T15:53:00Z
   Vendor: BARBARA I GONGINI
   Product Type: WOMEN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/BARBARA_I_GONGINI_JACKET.jpg?v=1791502139
   Price: $1,200.00 USD
-- [BNWT ST. JOHN WHITE LABEL MULTI PRINT STRETCH BLOUSE](https://dreamanddestroy.com/products/bnwt-st-john-white-label-multi-print-stretch-blouse): BNWT ST. JOHN WHITE LABEL COLLECTION MULTI PRINT STRETCH BLOUSE IN A MARKED SIZE LARGE. VISCOSE AND SPANDEX FABRIC IN A GREEN PYTHON PRINT. PRISTINE, UNWORN CONDITION.MEASUREMENTS:SHOULDER: 19 X CHEST: 21 X LENGTH: 25RETAILED FOR: $395
-  Updated: 2026-10-11T11:08:13Z
+- [ST. JOHN COLLECTION PRINT STRETCH BLOUSE](https://dreamanddestroy.com/products/bnwt-st-john-white-label-multi-print-stretch-blouse): BNWT ST. JOHN WHITE LABEL COLLECTION MULTI PRINT STRETCH BLOUSE IN A MARKED SIZE LARGE. VISCOSE AND SPANDEX FABRIC IN A GREEN PYTHON PRINT. PRISTINE, UNWORN CONDITION.MEASUREMENTS:SHOULDER: 19 X CHEST: 21 X LENGTH: 25RETAILED FOR: $395
+  Updated: 2026-11-16T15:51:41Z
   Vendor: St. John
   Product Type: WOMEN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/St._John_blouse.jpg?v=1791673846
   Price: $250.00 USD
-- [SHIRIN GUILD TIERED TUXEDO BUTTON CLOSURE JACKET LARGE](https://dreamanddestroy.com/products/shirin-guild-tiered-tuxedo-button-closure-jacket-large): SHIRIN GUILD TUXEDO LIKE JACKET IN A MARKED SIZE LARGE. THE JACKET FEATURES AN ACETATE AND VISCOSE BODY, WITH A HIGH- LOW DESIGN, BUTTON CLOSURE, LONG SLEEVES, SHARP LAPELS, TIERED HEM AT THE BACK WITH A SLIT AT THE BACK HEM. FULLY LINED AND IN STUNNING CONDITION. RELAXED FIT.MEASUREMENTS:SHOULDER: 18 X CHEST: 23 X BACK LENGTH: 26 X FRONT LENGTH: 23 X WAIST APPROX AREA: 22
-  Updated: 2026-10-11T11:18:42Z
+- [SHIRIN GUILD JACKET](https://dreamanddestroy.com/products/shirin-guild-tiered-tuxedo-button-closure-jacket-large): SHIRIN GUILD TUXEDO LIKE JACKET IN A MARKED SIZE LARGE. THE JACKET FEATURES AN ACETATE AND VISCOSE BODY, WITH A HIGH- LOW DESIGN, BUTTON CLOSURE, LONG SLEEVES, SHARP LAPELS, TIERED HEM AT THE BACK WITH A SLIT AT THE BACK HEM. FULLY LINED AND IN STUNNING CONDITION. RELAXED FIT.MEASUREMENTS:SHOULDER: 18 X CHEST: 23 X BACK LENGTH: 26 X FRONT LENGTH: 23 X WAIST APPROX AREA: 22
+  Updated: 2026-11-16T15:51:15Z
   Vendor: Shirin Guild
   Product Type: WOMEN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Shirin_Guild_Jacket.jpg?v=1791674611
   Price: $375.00 USD
-- [Vintage Christian Dior Tuxedo Jacket 44R UNION MADE](https://dreamanddestroy.com/products/vintage-christian-dior-tuxedo-jacket-44r-union-made): VINTAGE AND AUTHENTIC CHRISTIAN DIOR BLACK TUXEDO JACKET THAT FITS A 54R- U.S 44R. THE JACKET FEATURES A BLACK WOOL BODY WITH SILK LAPELS AND PIPING ALONG THE POCKETS. THE JACKET IS IN PRISTINE CONDITION WITH NO VISIBLE ISSUES. FULLY LINED AND IS UNION MADE IN THE UNITED STATES.PLEASE NOTE: ITEM PHOTOGRAPHED IN NATURAL LOFT LIGHTING. ITEM IS SOLID BLACK.HARD TO FIND, PERFECT SIZE. ALTHOUGH SIZE IS UNMARKED THE CHEST IS AT A 54R/44R U.S. FOLLOW MEASUREMENTS BELOW:SHOULDER: 19 X CHEST: 22 X LENGTH: 31.
-  Updated: 2026-10-11T11:27:55Z
+- [Vintage Christian Dior Tuxedo Jacket](https://dreamanddestroy.com/products/vintage-christian-dior-tuxedo-jacket-44r-union-made): VINTAGE AND AUTHENTIC CHRISTIAN DIOR BLACK TUXEDO JACKET THAT FITS A 54R- U.S 44R. THE JACKET FEATURES A BLACK WOOL BODY WITH SILK LAPELS AND PIPING ALONG THE POCKETS. THE JACKET IS IN PRISTINE CONDITION WITH NO VISIBLE ISSUES. FULLY LINED AND IS UNION MADE IN THE UNITED STATES.PLEASE NOTE: ITEM PHOTOGRAPHED IN NATURAL LOFT LIGHTING. ITEM IS SOLID BLACK.HARD TO FIND, PERFECT SIZE. ALTHOUGH SIZE IS UNMARKED THE CHEST IS AT A 54R/44R U.S. FOLLOW MEASUREMENTS BELOW:SHOULDER: 19 X CHEST: 22 X LENGTH: 31.
+  Updated: 2026-11-16T15:50:47Z
   Vendor: Dior
   Product Type: vintage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Christian_Dior_Tuxedo_Jacket.jpg?v=1791675059
   Price: $200.00 USD
-- [LAFAYETTE 148 Baby Blue Oversize Pleated Ruched 3/4 Sleeve Blazer Jacket L 12/14](https://dreamanddestroy.com/products/lafayette-148-baby-blue-oversize-pleated-ruched-3-4-sleeve-blazer-jacket-l-12-14): LAFAYETTE 148 Baby Blue Oversize Pleated Ruched 3/4 Sleeve Blazer Jacket in a marked size Large. Features cinched sleeves, open design with sharp lapels, long cut fit and in pristine condition.Size: Large = 12/14 USColor: baby blueBust 46" (23" laying flat)Length 31"Shoulder/Shoulder 17"Sleeve Length 20"Open Front Oversize Blazer JacketRuched, Pleated 3/4 SleeveSide Seam PocketsLinedNon-Stretch Fabric71% Acetate, 29% Polyester
-  Updated: 2026-10-11T11:45:54Z
+- [LAFAYETTE 148 Baby Blue Oversized Jacket](https://dreamanddestroy.com/products/lafayette-148-baby-blue-oversize-pleated-ruched-3-4-sleeve-blazer-jacket-l-12-14): LAFAYETTE 148 Baby Blue Oversize Pleated Ruched 3/4 Sleeve Blazer Jacket in a marked size Large. Features cinched sleeves, open design with sharp lapels, long cut fit and in pristine condition.Size: Large = 12/14 USColor: baby blueBust 46" (23" laying flat)Length 31"Shoulder/Shoulder 17"Sleeve Length 20"Open Front Oversize Blazer JacketRuched, Pleated 3/4 SleeveSide Seam PocketsLinedNon-Stretch Fabric71% Acetate, 29% Polyester
+  Updated: 2026-11-16T15:50:22Z
   Vendor: Lafayette 148 New York
   Product Type: WOMEN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Lafayette_jacket.jpg?v=1791676094
   Price: $300.00 USD
-- [Noah NYC Houndstooth Flannel Button Down Shirt Mens xs](https://dreamanddestroy.com/products/noah-nyc-houndstooth-flannel-button-down-shirt-mens-xs): NOAH HOUNDSTOOTH BUTTON DOWN IN A MARKED SIZE XS. THE SHIRT FEATURES LONG SLEEVES, BUTTON DOWN, COLLARED AND IS IN EXCELLENT CONDITION. IN A BRUSHED FELT LIKE COTTON.MEASUREMENTS:SHOULDER: 17 X CHEST: 20 X LENGTH: 28RETAILED AT: 198
-  Updated: 2026-10-11T11:54:36Z
+- [Noah NYC Houndstooth Flannel Shirt](https://dreamanddestroy.com/products/noah-nyc-houndstooth-flannel-button-down-shirt-mens-xs): NOAH HOUNDSTOOTH BUTTON DOWN IN A MARKED SIZE XS. THE SHIRT FEATURES LONG SLEEVES, BUTTON DOWN, COLLARED AND IS IN EXCELLENT CONDITION. IN A BRUSHED FELT LIKE COTTON.MEASUREMENTS:SHOULDER: 17 X CHEST: 20 X LENGTH: 28RETAILED AT: 198
+  Updated: 2026-11-16T15:49:53Z
   Vendor: NOAH
   Product Type: MEN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/NOAH_NYC_SHIRT.jpg?v=1791676602
   Price: $110.00 USD
-- [MACKAGE NAVI-Z LAMBSKIN LEATHER PLONGE SUPER SKINNY PANTS 6](https://dreamanddestroy.com/products/mackage-navi-z-lambskin-leather-plonge-super-skinny-pants-6): MACKAGE NAVI-Z ULTRA SKINNY LAMBSKIN SECOND SKIN PLONGE LEATHER PANTS IN A MARKED SIZE 6. THE PANTS FEATURE A SIDE ZIP CLOSURE, HIDDEN ZIPPERS AT THE ANKLES AND A STRETCH LAMBSKIN PLONGE LEATHER. THE PANTS ARE IN PRISTINE CONDITION.MEASUREMENTS:WAIST: 14 X INSEAM: 29.5 X FOOT: 4 X FRONT RISE: 7 X THIGH: 9CURRENT DESIGN, IN STORES NOW AND RETAILS AT: $1090.00FROM THE DESIGNER:NAVI-Z are sleek, unlined leggings crafted from stretch lamb leather. Designed with a branded inner elastic waistband, side seam closure at the waist, and zip openings at the hem. A streamlined silhouette with sleek design.
-  Updated: 2026-10-11T12:01:18Z
+- [MACKAGE NAVI-Z LAMBSKIN LEATHER SKINNY PANTS 6](https://dreamanddestroy.com/products/mackage-navi-z-lambskin-leather-plonge-super-skinny-pants-6): MACKAGE NAVI-Z ULTRA SKINNY LAMBSKIN SECOND SKIN PLONGE LEATHER PANTS IN A MARKED SIZE 6. THE PANTS FEATURE A SIDE ZIP CLOSURE, HIDDEN ZIPPERS AT THE ANKLES AND A STRETCH LAMBSKIN PLONGE LEATHER. THE PANTS ARE IN PRISTINE CONDITION.MEASUREMENTS:WAIST: 14 X INSEAM: 29.5 X FOOT: 4 X FRONT RISE: 7 X THIGH: 9CURRENT DESIGN, IN STORES NOW AND RETAILS AT: $1090.00FROM THE DESIGNER:NAVI-Z are sleek, unlined leggings crafted from stretch lamb leather. Designed with a branded inner elastic waistband, side seam closure at the waist, and zip openings at the hem. A streamlined silhouette with sleek design.
+  Updated: 2026-11-16T15:49:36Z
   Vendor: Mackage
   Product Type: WOMEN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/mackage_leather_pants.jpg?v=1791677127
   Price: $650.00 USD
-- [Marrika Nakk Floral Lace Dress Tiered  Boho Wedding Mariposa Dress 0/S](https://dreamanddestroy.com/products/marrika-nakk-floral-lace-dress-tiered-boho-wedding-mariposa-dress-0-s): AUTHENTIC MARRIKA NAKK BOHO WEDDING DRESS IN A RELEASED ONE SIZE FITS ALL- SEE MEASUREMENTS BELOW. THE DRESS IS A CURRENT DESIGN AND CAME IN 3 DIFFERENT DESIGNS, THIS DRESS WAS THE WEDDING RELEASE AND FEATURES LONGER LACE AT THE BOTTOM. SEE LAST IMAGE SHOWCASING THE DRESS ON HER BUSINESS PAGE.THE DRESS FEATURES AND OVERSIZED BOHO FIT IN A WHITE BODY WITH PURPLE FLORAL PRINT WITH TIERED WITH LACE AT THE HEM AND THE OPERA SLEEVES. THE DRESS IS LIMITED EDITION AND A SMALL RELEASE.NO CONDITION ISSUES TO MENTION. SHOULDER: 20 X CHEST: 22 X WAIST: 24 X LENGTH WITH THE LONGEST PORTION OF LACE: 51.
-  Updated: 2026-10-11T12:15:35Z
+- [Marrika Nakk Floral Boho Wedding Mariposa Dress 0/S](https://dreamanddestroy.com/products/marrika-nakk-floral-lace-dress-tiered-boho-wedding-mariposa-dress-0-s): AUTHENTIC MARRIKA NAKK BOHO WEDDING DRESS IN A RELEASED ONE SIZE FITS ALL- SEE MEASUREMENTS BELOW. THE DRESS IS A CURRENT DESIGN AND CAME IN 3 DIFFERENT DESIGNS, THIS DRESS WAS THE WEDDING RELEASE AND FEATURES LONGER LACE AT THE BOTTOM. SEE LAST IMAGE SHOWCASING THE DRESS ON HER BUSINESS PAGE.THE DRESS FEATURES AND OVERSIZED BOHO FIT IN A WHITE BODY WITH PURPLE FLORAL PRINT WITH TIERED WITH LACE AT THE HEM AND THE OPERA SLEEVES. THE DRESS IS LIMITED EDITION AND A SMALL RELEASE.NO CONDITION ISSUES TO MENTION. SHOULDER: 20 X CHEST: 22 X WAIST: 24 X LENGTH WITH THE LONGEST PORTION OF LACE: 51.
+  Updated: 2026-11-16T15:49:00Z
   Vendor: Marrika Nakk
   Product Type: WOMEN
   Availability: Available
@@ -515,16 +382,16 @@
   Updated: 2026-07-08T21:45:30Z
   Total Products: 17
 - [Vintage](https://dreamanddestroy.com/collections/vintage): Used, Pre-owned, Deadstock items of clothing. Vintage t-shirts and street styles from around the world.
-  Updated: 2026-11-10T18:34:35Z
+  Updated: 2026-11-16T04:03:45Z
   Total Products: 21
 - [Men](https://dreamanddestroy.com/collections/men): High End Luxury Clothing For Men.
-  Updated: 2026-10-12T02:38:37Z
+  Updated: 2026-11-16T04:24:37Z
   Total Products: 31
 - [Women](https://dreamanddestroy.com/collections/women): High End Luxury Items for Women.
-  Updated: 2026-10-11T00:17:27Z
+  Updated: 2026-11-16T04:22:26Z
   Total Products: 92
 - [Shoes](https://dreamanddestroy.com/collections/shoes): A Collection of Men and Women's shoes
-  Updated: 2026-10-08T22:31:51Z
+  Updated: 2026-11-16T03:56:06Z
   Total Products: 14
 - [Collection of Accessories](https://dreamanddestroy.com/collections/best-fashion-accessories): Explore our collection of accessories that elevate your style and complement your wardrobe. Discover unique designs and quality craftsmanship.
   Updated: 2026-10-08T23:16:30Z
