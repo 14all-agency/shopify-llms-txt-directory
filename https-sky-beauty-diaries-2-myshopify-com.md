@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2026-03-16T12:19:08Z
 - Contact Email: 909060726@qq.com
-- Updated At: 2026-11-12T01:27:15.148Z
+- Updated At: 2026-11-19T01:33:50.829Z
 
 ## Products
 
@@ -187,6 +187,15 @@
     Author: User
   - [Crafting Your Self-Care Checklist for Mental Harmony](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/crafting-your-self-care-checklist-for-mental-harmony): Crafting Your Self-Care Checklist for Mental Harmony
     Updated: 2026-11-11T00:06:55Z
+    Author: User
+  - [10 Essential Self-Care Activities for Beginners](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/10-essential-self-care-activities-for-beginners): 10 Essential Self-Care Activities for Beginners
+    Updated: 2026-11-13T00:09:31Z
+    Author: User
+  - [Understanding Common Self-Care Obstacles and Their Solutions](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/understanding-common-self-care-obstacles-and-their-solutions): Understanding Common Self-Care Obstacles and Their Solutions
+    Updated: 2026-11-15T00:09:17Z
+    Author: User
+  - [How to Implement a Successful Self-Care Routine](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/how-to-implement-a-successful-self-care-routine): How to Implement a Successful Self-Care Routine
+    Updated: 2026-11-18T00:06:36Z
     Author: User
 
 ## Store Pages
