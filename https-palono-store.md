@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2026-08-05T11:23:29Z
 - Contact Email: support@palono.store
-- Updated At: 2026-11-11T01:00:42.912Z
+- Updated At: 2026-11-19T00:53:03.674Z
 
 ## Products
 
@@ -18,28 +18,28 @@
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/fKE90QImg9A5kzkc-4xhMd3PyPAXfJHJ.jpg?v=1789036835
   Price: 29,99 € EUR
 - [Niacinamide Gel Moisturiser](https://palono.store/products/niacinamide-gel-moisturiser): PALONO Niacinamide Gel Moisturiser Lightweight hydration. Smooth-looking skin. A fresh, balanced glow. Give your skin a refreshing boost with the PALONO Niacinamide Gel Moisturiser, a lightweight gel moisturiser designed for everyday hydration and a comfortable, fresh skin feel. Its silky gel texture absorbs easily without leaving a heavy or greasy feeling, making it an effortless final step in your daily skincare routine. Formulated with Niacinamide, it helps support a smoother, more balanced-looking complexion while providing the moisture your skin needs. Perfect for everyday use, especially when you want hydration that feels light, fresh and comfortable. Why you'll love it * Lightweight gel texture * Provides everyday hydration * Helps support a smooth, balanced-looking complexion * Formulated with Niacinamide * Absorbs easily without a heavy feel * Ideal for daily skincare How to use Apply an appropriate amount to clean face and neck. Gently massage until absorbed. Use morning and/or evening as the moisturising step in your skincare routine. PALONO — Your beauty. Your ritual. Brightens, Evens out skin tone, With vitamin B3, face-care, Moisturiser (Type), Gluten Free (Claims), Nut Free (Claims), Vegan (Claims), Allergen Label Free (Claims), Dark spots (Concern), All skin types (Skin type), Niacinamide (B3) (Active ingredients), White (Packaging color) Niacinamide, Ginkgo Leaf Extract, Algin
-  Updated: 2026-11-08T10:43:16Z
+  Updated: 2026-11-17T09:59:44Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/uxGux3l2b_jzBzCPDbcjEavQERCEpW8s.jpg?v=1789036840
   Price: 24,99 € EUR
 - [Sensitive Skin Face & Body Cleanser](https://palono.store/products/sensitive-skin-face-body-cleanser): PALONO Sensitive Skin Face & Body Cleanser Gentle cleansing. Comfortable skin. Everyday freshness. Give your skin a clean, refreshed feeling without making your routine complicated. The PALONO Sensitive Skin Face & Body Cleanser is a gentle everyday cleanser designed for both the face and body, making it a simple and convenient addition to your skincare ritual. Its gentle cleansing formula helps remove everyday impurities while leaving the skin feeling clean, fresh and comfortable. Perfect for those who prefer a simple, uncomplicated cleansing routine. Why you'll love it * Designed for face and body * Gentle everyday cleansing * Leaves skin feeling fresh and clean * Comfortable for daily use * Simple addition to your skincare routine * Suitable for sensitive-skin-focused routines How to use Apply to wet skin and gently massage until cleansed. Rinse thoroughly with water. Use daily as part of your skincare routine. PALONO — Your beauty. Your ritual. Gentle to skin, Dermatologically tested, Minimalistic formulation, body-care, Cleanser (Type), Body wash (Type), Dermatologically tested (Claims), Gluten Free (Claims), Nut Free (Claims), Vegan (Claims), Natural  (Claims), Allergen Label Free (Claims), Cleansing (Concern), Dehydrated skin (Concern), Sensitive skin (Concern), All skin types (Skin type), Sodium PCA (Active ingredients), Betaine (Active ingredients), White (Packaging color) Linden Flower Extract, Jasmine Flower Extract, Plum Fruit Extract
-  Updated: 2026-11-06T20:35:06Z
+  Updated: 2026-11-11T06:26:11Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/dV7dzy2ai89740YhwR2sbtWf3HGTLCxV.jpg?v=1789036844
   Price: 24,99 € EUR
 - [Vitamin C Serum](https://palono.store/products/vitamin-c-serum): PALONO Vitamin C Serum Brighten. Smooth. Glow. Give your skin a fresh, radiant-looking boost with the PALONO Vitamin C Serum, a lightweight facial serum designed for everyday skincare. Its silky texture absorbs easily and layers beautifully under moisturiser, helping your complexion look smoother, brighter and more refreshed. Perfect for your morning or evening skincare ritual when you want skin that looks healthy, luminous and revitalised. Why you'll love it * Lightweight, fast-absorbing texture * Helps promote a brighter-looking complexion * Leaves skin looking fresh and radiant * Formulated with Vitamin C * Easy to layer into your skincare routine * Ideal for everyday facial care How to use: Apply a small amount to clean, dry skin and gently massage until absorbed. Follow with your moisturiser. Use morning and/or evening. PALONO — Your beauty. Your ritual. Anti-pigmentation spots, 2% Vitamin C, Healthy Glow, face-care, Serum (Type), Dermatologically tested (Claims), Gluten Free (Claims), Vegan (Claims), Natural  (Claims), Anti-age (Concern), Dark spots (Concern), Dehydrated skin (Concern), All skin types (Skin type), Vitamin C (Active ingredients), Vitamin E (Active ingredients), Hyaluronic Acid (Active ingredients), Sodium PCA (Active ingredients), White (Packaging color) 2% Natural Vitamin C (Ascorbyl Glucoside), 1% Ferulic Acid, 1% Ses-Buckthorn Oil, Vitamin E, Jojoba Seed Oil, Almond Oil, Avocado Oil, Rosehip Seed Oil, Sodium PCA, Hyaluronic Acid.
-  Updated: 2026-11-07T11:18:45Z
+  Updated: 2026-11-13T10:55:25Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/zyj3HVCls6nbuFEg5XIU6X8-X3HINpGs.jpg?v=1789036847
   Price: 29,99 € EUR
 - [Peptide Anti-Aging Serum](https://palono.store/products/peptide-anti-aging-serum): PALONO Peptide Anti-Aging Serum A smoother, firmer-looking complexion starts here. The PALONO Peptide Anti-Aging Serum is a lightweight daily serum formulated with peptides to complement your skincare ritual and help skin look smoother, more refined and youthful. Its elegant texture absorbs comfortably without feeling heavy, making it an effortless addition to your morning and evening routine. Why you'll love it * Lightweight serum texture * Formulated with peptides * Helps skin look smoother and more refined * Designed for daily anti-aging care * Easy to layer with moisturiser How to use: Apply a small amount to clean skin. Gently massage until absorbed, then follow with moisturiser. PALONO — Your beauty. Your ritual. Smooths, Reduces fine lines, face-care, Serum (Type), Anti-age (Concern), Dehydrated skin (Concern), Normal (Skin type), Dry (Skin type), Peptides (Active ingredients), Hyaluronic Acid (Active ingredients), Aloe Juice (Active ingredients), Sodium PCA (Active ingredients), White (Packaging color), Transparent (Packaging color) Hydroxyproline (Peptide), Peptide, Phytosterols, Aloe Juice, Sodium PCA, Hyaluronic Acid, Strawberry Seed oil, Blueberry Seed oil, Ginkgo Leaf Extract
-  Updated: 2026-11-08T10:44:15Z
+  Updated: 2026-11-11T23:51:21Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/jActsfqLNDG8wHK6pFORF__KoOIaFDSe.jpg?v=1789036858
   Price: 29,99 € EUR
 - [Double Hydration Boost Gel + HA](https://palono.store/products/double-hydration-boost-gel-ha): PALONO Double Hydration Boost Gel + HA Deep-feeling hydration. Fresh, supple-looking skin. A lightweight hydration booster designed to give your daily skincare routine an extra moisture boost. Formulated with Hyaluronic Acid, its refreshing gel texture leaves skin feeling soft, comfortable and replenished. Why you'll love it * Lightweight gel texture * Hydration-focused formula * Contains Hyaluronic Acid * Helps skin feel soft and comfortable * Easy to add to your daily routine How to use: Apply to clean skin and gently massage until absorbed. Follow with moisturiser. PALONO — Your beauty. Your ritual. Moisture boost, Sodium PCA + HA, Reduces fine lines, face-care, Moisturiser (Type), Anti-age (Concern), Damaged skin barrier (Concern), Dehydrated skin (Concern), Under-eye fatigue (Concern), Normal (Skin type), Mature (Skin type), Hyaluronic Acid (Active ingredients), Aloe Juice (Active ingredients), Sodium PCA (Active ingredients), White (Packaging color), Transparent (Packaging color) Sodium PCA, Hyaluronic Acid, Aloe Leaf Juice, Sage Extract, White Tea Extract
-  Updated: 2026-11-08T10:44:36Z
+  Updated: 2026-11-12T18:31:02Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
@@ -67,28 +67,28 @@
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/a9kYWc9yt4domIzw29yzZIjw8k7uUXRc.jpg?v=1789036907
   Price: 29,99 € EUR
 - [Ceramide Barrier Night Cream](https://palono.store/products/ceramide-barrier-night-cream): PALONO Ceramide Barrier Night Cream Overnight comfort for beautifully cared-for skin. A rich yet comfortable night cream formulated with Ceramides to complement your evening skincare ritual. It helps leave skin feeling nourished, comfortable and moisturised while you rest. Why you'll love it * Designed for nighttime skincare * Contains Ceramides * Nourishing cream texture * Helps skin feel comfortable and moisturised * Perfect for an evening ritual How to use: Apply to clean face and neck as the final step of your evening skincare routine. PALONO — Your beauty. Your ritual. Deeply moisturizing, Supports skin barrier, face-care, Moisturiser (Type), Anti-age (Concern), Damaged skin barrier (Concern), Dehydrated skin (Concern), Normal (Skin type), Dry (Skin type), Ceramides (Active ingredients), Hyaluronic Acid (Active ingredients), Shea Butter (Active ingredients), Aloe Juice (Active ingredients), White (Packaging color) Ceramides, Aloe Juice Jojoba Oil, Sunflower Oil Cocoa Butter Shea Butter Sodium PCA Hyaluronic Acid
-  Updated: 2026-11-07T12:01:44Z
+  Updated: 2026-11-14T21:59:55Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/dFtwEDUfbVb2YiGhFNwrRLqo_ETomDVB.jpg?v=1789036913
   Price: 29,99 € EUR
 - [Collagen Boost Serum](https://palono.store/products/collagen-boost-serum): PALONO Collagen Boost Serum Smooth-looking skin. Hydration. A fresh, youthful-looking glow. A lightweight daily serum designed to complement your anti-aging skincare ritual. Formulated with Hyaluronic Acid, it helps provide hydration while leaving skin feeling soft and looking smooth and refreshed. Why you'll love it * Lightweight serum texture * Contains Hyaluronic Acid * Designed for anti-aging skincare * Helps skin feel hydrated and comfortable * Easy to incorporate into your routine How to use: Apply to clean skin and gently massage until absorbed. Follow with moisturiser. PALONO — Your beauty. Your ritual. Innovative quick-absorbing texture, Replenishes moisture, face-care, Serum (Type), Anti-age (Concern), Dehydrated skin (Concern), Dry (Skin type), Mature (Skin type), Hyaluronic Acid (Active ingredients), Sodium PCA (Active ingredients), White (Packaging color), Transparent (Packaging color) Sodium PCA, Hyaluronic Acid, Sunflower Oil
-  Updated: 2026-11-07T05:11:10Z
+  Updated: 2026-11-14T04:43:20Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/Z2i3OwpUXVhVz1kPiR1UE3UYTEWOrf_x.jpg?v=1789036917
   Price: 29,99 € EUR
 - [Peptide Ageless AM/PM Cream](https://palono.store/products/peptide-ageless-am-pm-cream): PALONO Peptide Ageless AM/PM Cream All-day comfort. Nighttime nourishment. Timeless-looking skin. A versatile daily cream designed to fit effortlessly into both your morning and evening skincare rituals. Formulated with peptides, it provides a comfortable moisturising finish while supporting a smoother-looking complexion. Why you'll love it * Suitable for AM and PM routines * Contains peptides * Comfortable moisturising texture * Designed for anti-aging skincare * Easy everyday skincare step How to use: Apply to clean face and neck after serum. Use morning and evening. PALONO — Your beauty. Your ritual. smoothes fine lines, hydrating, boosts elasticity, face-care, Moisturiser (Type), Gluten Free (Claims), Nut Free (Claims), Vegan (Claims), Anti-age (Concern), Mature (Skin type), Vitamin C (Active ingredients), Peptides (Active ingredients), Vitamin E (Active ingredients), Hyaluronic Acid (Active ingredients), Sodium PCA (Active ingredients), White (Packaging color) Peptides Vitamin C Vitamin E Hyaluronic Acid Sodium PCA
-  Updated: 2026-11-08T10:46:36Z
+  Updated: 2026-11-14T14:05:35Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/1mrBBKodZveaJBzG1Tas784pedu1WCkD.jpg?v=1789036922
   Price: 29,99 € EUR
 - [Sun Protection SPF50 Stick, no tint](https://palono.store/products/sun-protection-spf50-stick-no-tint): PALONO SPF50 Sun Protection Stick Protection made effortless. A convenient SPF50 sun protection stick designed for easy application wherever your day takes you. Its compact format makes it ideal for keeping sun protection within reach. Why you'll love it * SPF50 sun protection * Convenient stick format * Easy to carry * Simple application * Perfect for on-the-go routines How to use: Apply generously to exposed areas before sun exposure. Reapply regularly, especially after sweating or towelling. PALONO — Your beauty. Your ritual. Easy-to-use, sun protection, face-care, Stick (Type), Sunscreen (Type), Sun care (Concern), All skin types (Skin type), White (Packaging color) Rice Oil, Sunflower Oil, Jojoba Oil
-  Updated: 2026-11-08T10:46:10Z
+  Updated: 2026-11-14T11:24:10Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
@@ -102,7 +102,7 @@
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/a_LTGcSNcWf5jFXd7yXbo5fqOFgePp16.jpg?v=1788510184
   Price: 29,99 € EUR
 - [Peptide Age - Defying Eye Cream](https://palono.store/products/peptide-age-defying-eye-cream): PALONO Peptide Age-Defying Eye Cream A refined ritual for the delicate eye area. A lightweight eye cream formulated with peptides and Vitamin C to complement your daily eye-care routine. Its smooth texture helps leave the delicate eye area feeling moisturised and looking refreshed. Why you'll love it * Designed specifically for the eye area * Contains peptides * Contains Vitamin C * Lightweight texture * Ideal for everyday eye care How to use: Gently tap a small amount around the eye area. Avoid direct contact with the eyes. PALONO — Your beauty. Your ritual. Smoothes fine lines, Hydrating, face-care, Eye cream (Type), Gluten Free (Claims), Nut Free (Claims), Vegan (Claims), Anti-age (Concern), Mature (Skin type), Vitamin C (Active ingredients), Peptides (Active ingredients), Vitamin E (Active ingredients), Sodium PCA (Active ingredients), White (Packaging color) Peptides Vitamin C Vitamin E Sodium PCA
-  Updated: 2026-11-08T07:43:36Z
+  Updated: 2026-11-18T23:50:01Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
@@ -116,7 +116,7 @@
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/7i3wx4QFsJ8NG3H63G88A7IExt2Q8AsX.jpg?v=1788510965
   Price: 29,99 € EUR
 - [Sensitive Skin Oil-To-Milk Cleanser](https://palono.store/products/sensitive-skin-oil-to-milk-cleanser): PALONO Sensitive Skin Oil-To-Milk Cleanser Gentle cleansing. Soft, comfortable skin. A luxurious oil-to-milk cleanser designed to gently cleanse while helping maintain a comfortable skin feel. Its transforming texture makes cleansing feel like a soothing part of your daily ritual. Why you'll love it * Oil-to-milk texture * Gentle cleansing experience * Designed for sensitive skin * Helps leave skin feeling comfortable * Perfect for morning or evening cleansing How to use: Massage onto dry skin, then add water to transform the texture into a milky emulsion. Rinse thoroughly. PALONO — Your beauty. Your ritual. Innovative oil-to-milk texture, Suitable for sensitive skin, Dermatologically tested, face-care, Cleanser (Type), Dermatologically tested (Claims), Cleansing (Concern), Dehydrated skin (Concern), Sensitive skin (Concern), All skin types (Skin type), White (Packaging color) Sunflower Oil Glycolipids Camomile Extract Sea Buckthorn Extract Cloudberry Extract
-  Updated: 2026-11-08T10:47:37Z
+  Updated: 2026-11-17T23:51:42Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
@@ -130,7 +130,7 @@
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/myhxFb7s-rCdValS83fF7onrsNreSif5.jpg?v=1788511564
   Price: 19,99 € EUR
 - [Pigment Perfecting Serum](https://palono.store/products/pigment-perfecting-serum): PALONO Pigment Perfecting Serum Refined-looking tone. Radiant-looking skin. A lightweight facial serum designed for routines focused on a more even, radiant-looking complexion. Its silky texture absorbs easily and layers effortlessly with the rest of your skincare. Why you'll love it * Lightweight serum * Designed for uneven-looking tone * Helps promote a radiant-looking complexion * Contains Vitamin E * Easy to layer How to use: Apply a small amount to clean skin and gently massage until absorbed. Follow with moisturiser. PALONO — Your beauty. Your ritual. lightweight serum, reduces the appearance of dark spots, promotes an even skin tone, face-care, Serum (Type), Dermatologically tested (Claims), Anti-age (Concern), Dark spots (Concern), All skin types (Skin type), Vitamin E (Active ingredients), Hyaluronic Acid (Active ingredients), White (Packaging color), Transparent (Packaging color) Sodium PCA, Vitamin E
-  Updated: 2026-11-07T18:44:09Z
+  Updated: 2026-11-12T23:12:48Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
@@ -144,14 +144,14 @@
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/kpa5sq69qQOe4caY-uBk7l860Kqny5Z.jpg?v=1788512493
   Price: 29,99 € EUR
 - [Glycolic Acid Exfoliating Toner](https://palono.store/products/glycolic-acid-exfoliating-toner): PALONO Glycolic Acid Exfoliating Toner Smooth-looking skin. Refined-looking texture. Fresh radiance. A facial toner formulated with Glycolic Acid to complement an exfoliating skincare routine. Its lightweight liquid texture makes it an easy  step between cleansing and moisturising. Why you'll love it * Contains Glycolic Acid * Exfoliating skincare step * Helps promote smoother-looking skin * Lightweight toner texture * Easy to incorporate into a routine How to use: Apply to clean, dry skin using hands or a cotton pad. Avoid the eye area. Follow with moisturiser. Use sunscreen during the day. PALONO — Your beauty. Your ritual. Exfoliates, removes build-up, promotes the appearance of a more even skin tone, face-care, Toner (Type), Exfoliator (Type), Dark spots (Concern), All skin types (Skin type), Glycolic Acid (Active ingredients), Sodium PCA (Active ingredients), Betaine (Active ingredients), Transparent (Packaging color) Glycolic Acid Potassium Hydroxide Cranberry Extract Ligonberry Extract
-  Updated: 2026-11-07T23:54:40Z
+  Updated: 2026-11-18T04:12:45Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/K5Is1WFS9b1lrQfCFKgZPij-xQLSRn3Q.jpg?v=1788512764
   Price: 24,99 € EUR
 - [Caffeine Gel Booster](https://palono.store/products/caffeine-gel-booster): PALONO Caffeine Gel Booster Wake up your skincare ritual. A lightweight gel booster formulated with Caffeine and designed to complement your daily skincare routine. Its refreshing texture absorbs easily and leaves skin feeling fresh and comfortable. Why you'll love it * Contains Caffeine * Lightweight gel texture * Refreshing skincare step * Easy to layer with your routine * Ideal for targeted daily care How to use: Apply a small amount to clean skin and gently massage until absorbed. Follow with moisturiser. PALONO — Your beauty. Your ritual. Refreshing, No oil, Hydrating, face-care, Booster (Type), Anti-age (Concern), Damaged skin barrier (Concern), Under-eye fatigue (Concern), All skin types (Skin type), Caffeine (Active ingredients), White (Packaging color), Transparent (Packaging color) Caffeine
-  Updated: 2026-11-08T10:48:11Z
+  Updated: 2026-11-15T16:15:17Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
@@ -186,21 +186,21 @@
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/w_jhHLLLPKv-1k4ScxD6Jp-lfzJbMi23.jpg?v=1788518644
   Price: 29,99 € EUR
 - [Icelandic Volcano Face & Body Scrub](https://palono.store/products/icelandic-volcano-face-body-scrub): PALONO Icelandic Volcano Face & Body Scrub Reveal smoother-looking, refreshed skin. Turn exfoliation into a luxurious ritual with the PALONO Icelandic Volcano Face & Body Scrub. Formulated with volcanic sand, it helps exfoliate the skin and remove surface buildup, leaving it feeling smoother and refreshed. Why you'll love it * Contains volcanic sand * Designed for face and body * Helps exfoliate the skin * Leaves skin feeling smoother * Refreshing self-care ritual * Ideal for regular exfoliation How to use: Massage gently onto damp skin using circular motions, then rinse thoroughly. Avoid the eye area and do not use on irritated or damaged skin. PALONO — Your beauty. Your ritual. Gentle exfoliation, with volcanic sand, body-care, Exfoliator (Type), Cleansing (Concern), Lack of glow (Concern), All skin types (Skin type), Volcanic sand (Active ingredients), White (Packaging color) Volcanic sand Castor oil
-  Updated: 2026-11-07T00:54:41Z
+  Updated: 2026-11-12T06:50:10Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/izx_6pOhsIogz0y8vnM4OBHJEX8rCHtW.jpg?v=1788519334
   Price: 29,99 € EUR
 - [Silk Skin Body Serum, Woody Amber & Leather](https://palono.store/products/silk-skin-body-serum-woody-amber-leather): PALONO Silk Skin Body Serum — Woody Amber & Leather Silky skin with an elegant, sophisticated finish. Elevate your body-care ritual with the PALONO Silk Skin Body Serum in Woody Amber & Leather. Its luxurious texture glides smoothly across the skin while helping leave it feeling soft, moisturised and silky. Why you'll love it * Luxurious body-serum texture * Woody Amber & Leather scent profile * Contains Hyaluronic Acid * Helps skin feel soft and hydrated * Elegant addition to your daily body ritual How to use: Apply generously to clean skin and massage gently until absorbed. Use daily whenever your skin needs a silky moisture boost. PALONO — Your beauty. Your ritual. Deep hydration, fast-absorbing formula, soothes and moisturizes, body-care, Body serum (Type), Natural  (Claims), Dehydrated skin (Concern), Dry (Skin type), Hyaluronic Acid (Active ingredients), Sodium PCA (Active ingredients), Betaine (Active ingredients), Amber (Packaging color) Sodium PCA Jojoba Oil Fruit Extract Plant Extract Hyaluronic Acid Lavender Flower Water Betaine
-  Updated: 2026-11-08T10:49:36Z
+  Updated: 2026-11-11T01:31:45Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/eDLjy339L03FHTezVs0ZkYTFPwY4gutr.jpg?v=1788519874
   Price: 29,99 € EUR
 - [Silk Skin Body Serum, Spices & Sandalwood](https://palono.store/products/silk-skin-body-serum-spices-sandalwood): PALONO Silk Skin Body Serum — Spices & Sandalwood Silky softness wrapped in warm sophistication. A luxurious body serum designed to leave your skin feeling smooth, moisturised and beautifully cared for. Its Spices & Sandalwood scent creates an elevated finishing touch to your body-care ritual. Why you'll love it * Luxurious body-serum texture * Warm Spices & Sandalwood scent profile * Contains Cocoa Butter * Helps skin feel soft and moisturised * Perfect for a premium self-care ritual How to use: Apply to clean skin and gently massage until absorbed. Use daily or whenever your skin needs extra nourishment. PALONO — Your beauty. Your ritual. Deep hydration, fast-absorbing formula, soothes and moisturizes, body-care, Body serum (Type), Natural  (Claims), Dehydrated skin (Concern), Dry (Skin type), Cocoa Butter (Active ingredients), Hyaluronic Acid (Active ingredients), Sodium PCA (Active ingredients), Betaine (Active ingredients) Sodium PCA Jojoba Oil Fruit Extract Plant Extract Hyaluronic Acid Lavender Flower Water Betaine
-  Updated: 2026-11-10T13:40:43Z
+  Updated: 2026-11-12T05:02:10Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
@@ -235,7 +235,7 @@
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/7IOhm0ww3fL5PE-Dsn7fJyiLOAQ1_BXr.jpg?v=1788544594
   Price: 34,99 € EUR
 - [Keratin Volume Boost Conditioner](https://palono.store/products/keratin-volume-boost-conditioner): PALONO Keratin Volume Boost Conditioner Softness. Natural-looking volume. Effortless movement. Give your hair the perfect finishing touch with the PALONO Keratin Volume Boost Conditioner, a conditioning formula enriched with Keratin to help leave hair feeling soft, smooth and beautifully cared for. Created for hair that lacks body and glow, it helps make your hair feel more manageable while supporting a fuller, healthier-looking finish. Why you'll love it * Enriched with Keratin * Helps condition and soften hair * Supports a fuller-looking appearance * Helps improve manageability * Leaves hair feeling smooth and refreshed * Perfect for everyday hair care How to use: Apply to clean, damp hair, focusing on the lengths and ends. Leave on for a few minutes, then rinse thoroughly. PALONO — Your beauty. Your ritual. Thickening, Reactivates the scalp, For extra volume, hair-care, Shampoo (Type), Gluten Free (Claims), Lack of glow (Concern), All skin types (Skin type), Keratin (Active ingredients), Vitamin E (Active ingredients), Caffeine (Active ingredients), Sodium PCA (Active ingredients), White (Packaging color) Rosemary Oil Keratin Vitamin E Caffeine Sodium PCA
-  Updated: 2026-11-08T10:51:35Z
+  Updated: 2026-11-16T07:10:43Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
@@ -270,14 +270,14 @@
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/RWnG7YyvPKUZTTmnLRPg6_m40tjlbGkG.jpg?v=1788545705
   Price: 29,99 € EUR
 - [Sensitive Scalp Shampoo](https://palono.store/products/sensitive-scalp-shampoo): PALONO Sensitive Scalp Shampoo Gentle cleanse. Fresh comfort. Everyday scalp care. Care for your scalp with the PALONO Sensitive Scalp Shampoo, a gentle cleansing formula with Betaine designed to refresh the hair while helping maintain a soft, comfortable feel. Its simple, refreshing formula makes it an effortless choice for everyday hair care and a beautiful foundation for your complete PALONO ritual. Why you'll love it * Formulated with Betaine * Provides gentle cleansing care * Helps refresh the scalp and hair * Helps maintain a soft feel * Perfect for regular hair care * Ideal for a simple everyday ritual How to use: Apply to wet hair and gently massage into the scalp and lengths until a lather forms. Rinse thoroughly and follow with conditioner. PALONO — Your beauty. Your ritual. For sensitive scalp, dermatologically tested, delicately fragranced, hair-care, Shampoo (Type), Dermatologically tested (Claims), Natural  (Claims), Lack of volume (Concern), Sensitive skin (Concern), All skin types (Skin type), Betaine (Active ingredients), Wheat Protein (Active ingredients), White (Packaging color) Betaine, Wheat Protein, Flower Extract, Fruit Extract, Plant Extract
-  Updated: 2026-11-07T09:30:26Z
+  Updated: 2026-11-12T18:21:15Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/08vucpftYAA1T0-ATcDdVys6fiM_w1zE.jpg?v=1788545914
   Price: 29,99 € EUR
 - [Gloss Conditioner, Smoky Green Vetiver](https://palono.store/products/gloss-conditioner-smoky-green-vetiver): PALONO Gloss Conditioner, Smoky Green Vetiver Silky softness. Beautiful gloss. Sophisticated freshness. Finish your hair-care ritual with the PALONO Gloss Conditioner, Smoky Green Vetiver, formulated with Panthenol to help condition, soften and smooth the feel of your hair. Its sophisticated Smoky Green Vetiver scent adds an elegant finishing touch, while the conditioning formula helps leave hair looking healthy and beautifully cared for. Why you'll love it * Formulated with Panthenol * Helps leave hair feeling soft and smooth * Helps care for dry ends * Supports healthy-looking shine * Helps improve manageability * Sophisticated Smoky Green Vetiver scent How to use: Apply to clean, damp hair, focusing on the lengths and ends. Leave on for a few minutes, then rinse thoroughly. PALONO — Your beauty. Your ritual. Hepls to reduce split ends, hair becomes silkier, eases styling, hair-care, Conditioner (Type), Dry ends (Concern), Lack of glow (Concern), Lack of volume (Concern), All skin types (Skin type), Panthenol (Active ingredients), Betaine (Active ingredients), Wheat Protein (Active ingredients), White (Packaging color) Panthenol, Betaine, Wheat Protein
-  Updated: 2026-11-07T21:08:16Z
+  Updated: 2026-11-12T15:32:05Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
@@ -291,7 +291,7 @@
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/PqDV3YzqtEmCgo8ZcPyJuJxNS0fLvEcl.jpg?v=1788546274
   Price: 24,99 € EUR
 - [Fresh Conditioner, Citrus Cocktail](https://palono.store/products/fresh-conditioner-citrus-cocktail): PALONO Fresh Conditioner, Citrus Cocktail Fresh feeling. Silky softness. Effortless care. Treat your hair to the PALONO Fresh Conditioner, Citrus Cocktail, a nourishing conditioner formulated with Panthenol to help soften and smooth the hair while improving manageability. Its bright Citrus Cocktail scent brings a fresh, uplifting touch to your everyday ritual, leaving hair feeling soft, refreshed and beautifully cared for. Why you'll love it * Formulated with Panthenol * Helps soften and condition hair * Helps smooth dry-feeling ends * Improves manageability * Leaves hair feeling refreshed * Fresh Citrus Cocktail scent How to use: Apply to clean, damp hair, focusing on the lengths and ends. Leave on for a few minutes, then rinse thoroughly. PALONO — Your beauty. Your ritual. Helps to reduce split ends, Eases styling, Nourishes the hair, hair-care, Conditioner (Type), Dry ends (Concern), Lack of volume (Concern), All skin types (Skin type), Panthenol (Active ingredients), Betaine (Active ingredients), Wheat Protein (Active ingredients), White (Packaging color) Panthenol, Betaine, Wheat Protein
-  Updated: 2026-11-08T10:53:07Z
+  Updated: 2026-11-12T07:07:35Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
@@ -305,7 +305,7 @@
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/Y7C0TM0U8q05zTdkLbg63Ub9ZYI6bA9x.jpg?v=1788546814
   Price: 29,99 € EUR
 - [Nourish and Volumize Shampoo](https://palono.store/products/nourish-and-volumize-shampoo): PALONO Nourish and Volumize Shampoo Nourished strands. Natural-looking volume. Beautiful movement. Give your hair a refreshing, nourishing cleanse with the PALONO Nourish and Volumize Shampoo, formulated with Betaine to help cleanse while supporting a fuller-looking appearance. Perfect for hair that needs both nourishment and volume, it leaves hair feeling fresh, soft and manageable while adding an effortless touch to your daily ritual. Why you'll love it * Formulated with Betaine * Helps cleanse and refresh hair * Supports natural-looking volume * Helps care for dry-feeling hair * Leaves hair feeling soft and manageable * Perfect for everyday hair care How to use: Apply to wet hair and gently massage into the scalp and lengths until a lather forms. Rinse thoroughly and follow with your preferred PALONO conditioner. PALONO — Your beauty. Your ritual. Adds volume, Smooths, For dry ends, hair-care, Shampoo (Type), Dry ends (Concern), Lack of volume (Concern), All skin types (Skin type), Betaine (Active ingredients), Wheat Protein (Active ingredients), White (Packaging color) Betaine, Wheat protein
-  Updated: 2026-11-06T19:34:36Z
+  Updated: 2026-11-14T22:38:15Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
@@ -326,7 +326,7 @@
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/fKE90QImg9A5kzkc-4xhMd3PyPAXfJHJ.jpg?v=1789036835
   Price: 214,99 € EUR
 - [The Luxurious Body Ritual – Cleanse, Soften & Glow Set (6 Products)](https://palono.store/products/the-luxurious-body-ritual-cleanse-soften-glow-set-6-products): Your complete body care ritual in one set. This 6-piece collection is designed to cleanse, gently exfoliate, deeply hydrate, and finish with a soft, luminous glow. Each product has a clear place in your routine, so body care feels simple and intentional. What’s included Hand & Body Wash, Ginger & Smoky Cardamom Icelandic Volcano Face & Body Scrub 5% Urea + 2% Panthenol Body Cream Silk Skin Body Serum, Spices & Sandalwood Omega 6-9 Glowing Skin Body Oil Aluminum-free Roll-on Deodorant Warm scents. Silky textures. Skin that feels cared for from head to toe. How to Use Daily Body Ritual Hand & Body Wash — Use in the shower to cleanse body and hands. 5% Urea + 2% Panthenol Body Cream — After showering, apply to damp skin for deep hydration. Silk Skin Body Serum — Layer over the cream on areas that need extra softness (arms, legs, décolleté). Omega 6-9 Glowing Skin Body Oil — Finish with a few drops on legs, arms, or dry areas for a soft glow. Aluminum-free Roll-on Deodorant — Apply to clean, dry underarms. 2–3 times per week Icelandic Volcano Face & Body Scrub — Use in the shower before body cream. Massage in circular motions, rinse, then continue with cream → serum → oil. Tip: Apply cream and serum while skin is still slightly damp for better absorption. Use the oil as the last step.
-  Updated: 2026-11-10T13:40:50Z
+  Updated: 2026-11-13T01:29:17Z
   Vendor: Palono
   Product Type: 
   Availability: Available
