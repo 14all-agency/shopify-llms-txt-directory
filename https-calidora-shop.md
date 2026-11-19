@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-07-28T08:45:38Z
 - Contact Email: lutebuther339@gmail.com
-- Updated At: 2026-11-12T01:03:28.413Z
+- Updated At: 2026-11-19T01:04:42.240Z
 
 ## Products
 
@@ -3500,6 +3500,15 @@
   - [Timeless Home Styling Ideas: How the Calidora™ Lakelynn Cereal Bowl Elevates Vintage Inspired Furniture and Modern Living Room Decor](https://calidora.shop/blogs/news/timeless-home-styling-ideas-how-the-calidora™-lakelynn-cereal-bowl-elevates-vintage-inspired-furniture-and-modern-living-room-decor): Timeless Home Styling Ideas: How the Calidora™ Lakelynn Cereal Bowl Elevates Vintage Inspired Furniture and Modern Living Room Decor
     Updated: 2026-11-11T11:02:48Z
     Author: Calidora
+  - [Embrace Timeless Home Styling Ideas with Calidora™ Forest Marble Mortar and Pestle: Perfect Pairing for Modern Vintage Kitchen Decor and Cozy Bedroom Aesthetics](https://calidora.shop/blogs/news/embrace-timeless-home-styling-ideas-with-calidora™-forest-marble-mortar-and-pestle-perfect-pairing-for-modern-vintage-kitchen-decor-and-cozy-bedroom-aesthetics): Embrace Timeless Home Styling Ideas with Calidora™ Forest Marble Mortar and Pestle: Perfect Pairing for Modern Vintage Kitchen Decor and Cozy Bedroom Aesthetics
+    Updated: 2026-11-16T11:01:57Z
+    Author: Calidora
+  - [Master Timeless Home Styling Ideas by Integrating Calidora™ Hammered Copper Measuring Cups into Your Modern Vintage Living Room Decor with Luxury Area Rugs and Curated Furniture](https://calidora.shop/blogs/news/master-timeless-home-styling-ideas-by-integrating-calidora™-hammered-copper-measuring-cups-into-your-modern-vintage-living-room-decor-with-luxury-area-rugs-and-curated-furniture): Master Timeless Home Styling Ideas by Integrating Calidora™ Hammered Copper Measuring Cups into Your Modern Vintage Living Room Decor with Luxury Area Rugs and Curated Furniture
+    Updated: 2026-11-17T11:01:25Z
+    Author: Calidora
+  - [Timeless Home Styling with Calidora™ Rustic Glass Stacking Tumbler Bundle in Modern Vintage Living Room Ideas](https://calidora.shop/blogs/news/timeless-home-styling-with-calidora™-rustic-glass-stacking-tumbler-bundle-in-modern-vintage-living-room-ideas): Timeless Home Styling with Calidora™ Rustic Glass Stacking Tumbler Bundle in Modern Vintage Living Room Ideas
+    Updated: 2026-11-18T11:02:30Z
+    Author: Calidora
 
 ## Store Pages
 
@@ -3515,13 +3524,13 @@
 - [Privacy Policy](https://calidora.shop/policies/privacy-policy)
   Updated: 2026-11-01T00:32:20Z
 - [Shipping Policy](https://calidora.shop/policies/shipping-policy)
-  Updated: 2026-10-06T16:13:17Z
+  Updated: 2026-11-12T17:44:05Z
 - [Refund Policy](https://calidora.shop/policies/refund-policy)
-  Updated: 2026-10-06T16:10:07Z
+  Updated: 2026-11-12T17:43:33Z
 - [Terms of Service](https://calidora.shop/policies/terms-of-service)
-  Updated: 2026-10-06T16:11:31Z
+  Updated: 2026-11-12T17:43:50Z
 - [Contact Information](https://calidora.shop/policies/contact-information)
-  Updated: 2026-10-06T16:13:53Z
+  Updated: 2026-11-12T17:44:21Z
 
 ## Optional
 
