@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-23T00:24:20Z
 - Contact Email: youngwilliambrandon15041992@gmail.com
-- Updated At: 2026-11-12T01:03:32.656Z
+- Updated At: 2026-11-19T01:07:12.069Z
 
 ## Products
 
@@ -3512,28 +3512,7 @@
   - [Garden Party / King](https://fernpaperco.shop/products/percale-sheet-set-garden-party?variant=44332464242775)
     Availability: Available
     Price: $201.60 USD
-- [FernPaperCo™ Percale Fitted Sheet - Garden Party](https://fernpaperco.shop/products/percale-fitted-sheet-garden-party): Shop the authentic FernPaperCo™ Percale Fitted Sheet - Garden Party. Crafted with exceptional quality, timeless design, and unmatched style. Order now from...
-  Updated: 2026-10-03T07:52:09Z
-  Vendor: FernPaperCo™
-  Product Type: Bedding & Bath > Blankets & Throws
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0674/8861/2439/files/BDFT08-01_cfe2996b-d13b-4b4b-93a0-cec12afd1e52.jpg?v=1790156252
-  - [Garden Party / Twin XL](https://fernpaperco.shop/products/percale-fitted-sheet-garden-party?variant=44332464308311)
-    Availability: Available
-    Price: $44.10 USD
-  - [Garden Party / Twin](https://fernpaperco.shop/products/percale-fitted-sheet-garden-party?variant=44332464341079)
-    Availability: Available
-    Price: $48.60 USD
-  - [Garden Party / Full](https://fernpaperco.shop/products/percale-fitted-sheet-garden-party?variant=44332464373847)
-    Availability: Available
-    Price: $57.60 USD
-  - [Garden Party / Queen](https://fernpaperco.shop/products/percale-fitted-sheet-garden-party?variant=44332464406615)
-    Availability: Available
-    Price: $66.60 USD
-  - [Garden Party / King](https://fernpaperco.shop/products/percale-fitted-sheet-garden-party?variant=44332464439383)
-    Availability: Available
-    Price: $75.60 USD
-[List Continued](https://fernpaperco.shop/a/llms-agent/llms.txt?shop=p6u0g9-gm.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzkxMTc1MTM5NDE1LCJsYXN0X3ZhbHVlIjoiNzc5MTE3NTEzOTQxNSJ9)
+[List Continued](https://fernpaperco.shop/a/llms-agent/llms.txt?shop=p6u0g9-gm.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzkxMTc1MDczODc5LCJsYXN0X3ZhbHVlIjoiNzc5MTE3NTA3Mzg3OSJ9)
 
 ## Collections
 
@@ -3610,6 +3589,15 @@
   - [Embrace an Eco-Chic Lifestyle with Botanical Stationery and Cozy Home Decor through FernPaperCo™ Woven Blanket - Schoolhouse](https://fernpaperco.shop/blogs/news/embrace-an-eco-chic-lifestyle-with-botanical-stationery-and-cozy-home-decor-through-fernpaperco™-woven-blanket-schoolhouse): Embrace an Eco-Chic Lifestyle with Botanical Stationery and Cozy Home Decor through FernPaperCo™ Woven Blanket - Schoolhouse
     Updated: 2026-11-11T11:02:34Z
     Author: Fern Paper Co
+  - [Create a Floral Haven with FernPaperCo™ Cotton Quilted Sham - Helena and Explore Botanical Stationery and Thoughtful Stationery Gifts](https://fernpaperco.shop/blogs/news/create-a-floral-haven-with-fernpaperco™-cotton-quilted-sham-helena-and-explore-botanical-stationery-and-thoughtful-stationery-gifts): Create a Floral Haven with FernPaperCo™ Cotton Quilted Sham - Helena and Explore Botanical Stationery and Thoughtful Stationery Gifts
+    Updated: 2026-11-16T11:01:44Z
+    Author: Fern Paper Co
+  - [Spotlight on FernPaperCo™ 2026 Kitchen Calendar - Dog of the Month: Transform Your Space with Botanical Stationery and Thoughtful Stationery Gifts](https://fernpaperco.shop/blogs/news/spotlight-on-fernpaperco™-2026-kitchen-calendar-dog-of-the-month-transform-your-space-with-botanical-stationery-and-thoughtful-stationery-gifts): Spotlight on FernPaperCo™ 2026 Kitchen Calendar - Dog of the Month: Transform Your Space with Botanical Stationery and Thoughtful Stationery Gifts
+    Updated: 2026-11-17T11:01:13Z
+    Author: Fern Paper Co
+  - [Elevate Your Aesthetic Planners with FernPaperCo™ Dahlia Cotton Fabric in Aubergine and Florals](https://fernpaperco.shop/blogs/news/elevate-your-aesthetic-planners-with-fernpaperco™-dahlia-cotton-fabric-in-aubergine-and-florals): Elevate Your Aesthetic Planners with FernPaperCo™ Dahlia Cotton Fabric in Aubergine and Florals
+    Updated: 2026-11-18T11:02:19Z
+    Author: Fern Paper Co
 
 ## Store Pages
 
@@ -3625,13 +3613,13 @@
 - [Privacy Policy](https://fernpaperco.shop/policies/privacy-policy)
   Updated: 2026-10-30T19:25:07Z
 - [Shipping Policy](https://fernpaperco.shop/policies/shipping-policy)
-  Updated: 2026-09-24T06:34:47Z
+  Updated: 2026-11-14T07:45:28Z
 - [Refund Policy](https://fernpaperco.shop/policies/refund-policy)
-  Updated: 2026-09-24T06:32:00Z
+  Updated: 2026-11-14T07:44:52Z
 - [Terms of Service](https://fernpaperco.shop/policies/terms-of-service)
-  Updated: 2026-09-24T06:33:39Z
+  Updated: 2026-11-14T07:45:10Z
 - [Contact Information](https://fernpaperco.shop/policies/contact-information)
-  Updated: 2026-09-24T06:35:03Z
+  Updated: 2026-11-14T07:45:50Z
 
 ## Optional
 
