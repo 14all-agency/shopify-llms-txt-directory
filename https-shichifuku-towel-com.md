@@ -6,12 +6,12 @@
 - Timezone: Asia/Tokyo
 - Created At: 2026-02-05T00:34:10Z
 - Contact Email: shichifuku@7fukut.jp
-- Updated At: 2026-11-11T00:59:15.960Z
+- Updated At: 2026-11-19T00:50:49.568Z
 
 ## Products
 
 - [ホテルリゾート ハンドタオル](https://shichifuku-towel.com/products/001363100): 耐久性に優れた高級ホテル仕様。さっぱりとした清潔感のある肌触り。やわらかな色から都会的でシックな色まで豊富なカラーをご用意しました。認定番号：第２００８－０２８号
-  Updated: 2026-11-09T08:20:46Z
+  Updated: 2026-11-16T05:20:35Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -81,7 +81,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_657f4a9c-b016-459c-ab7c-d5577b67853e.jpg?v=1789354790
     Price: ￥1,100.00 JPY
 - [ホテルリゾート フェイスタオル](https://shichifuku-towel.com/products/001363001): 耐久性に優れた高級ホテル仕様。さっぱりとした清潔感のある肌触り。やわらかな色から都会的でシックな色まで豊富なカラーをご用意しました。認定番号：第２００８－０２８号
-  Updated: 2026-11-09T01:05:36Z
+  Updated: 2026-11-19T00:05:56Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -143,7 +143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_bb690406-4701-4151-b82c-2ce0c0930032.jpg?v=1789355139
     Price: ￥2,200.00 JPY
 - [ホテルリゾート バスタオル](https://shichifuku-towel.com/products/001363002): 耐久性に優れた高級ホテル仕様。さっぱりとした清潔感のある肌触り。やわらかな色から都会的でシックな色まで豊富なカラーをご用意しました。認定番号：第２００８－０２８号
-  Updated: 2026-11-10T23:50:46Z
+  Updated: 2026-11-19T00:05:56Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -208,7 +208,7 @@
     Availability: Not Available
     Price: ￥5,500.00 JPY
 - [ホテルリゾート バスマット](https://shichifuku-towel.com/products/001363003): 耐久性に優れた高級ホテル仕様。さっぱりとした清潔感のある肌触り。やわらかな色から都会的でシックな色まで豊富なカラーをご用意しました。認定番号：第２００８－０２８号
-  Updated: 2026-11-03T14:02:24Z
+  Updated: 2026-11-16T05:20:35Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -339,7 +339,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_c0abf6b4-182e-442f-ab45-127ff47c53e9.jpg?v=1789359524
     Price: ￥2,200.00 JPY
 - [ホテルリゾート スポーツタオル](https://shichifuku-towel.com/products/001363006): 耐久性に優れた高級ホテル仕様。さっぱりとした清潔感のある肌触り。やわらかな色から都会的でシックな色まで豊富なカラーをご用意しました。認定番号：第２００８－０２８号
-  Updated: 2026-11-07T16:08:16Z
+  Updated: 2026-11-16T05:20:46Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -393,7 +393,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_d6b910b7-2e95-4240-929b-0534a91004da.jpg?v=1789353619
     Price: ￥2,750.00 JPY
 - [ノーヴィ ハンドタオル](https://shichifuku-towel.com/products/004534100): 細番手の糸を使用したやさしい肌触りと、軽い使い心地が特徴。薄手で持ち運びや収納の際もかさばらず、便利で実用的なタオルです。やわらかで上品なカラーをご用意しました。認定番号：第２０１７－１５５２号
-  Updated: 2026-11-09T08:20:47Z
+  Updated: 2026-11-16T05:20:31Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -447,7 +447,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_5ed94df7-1e19-4e25-9754-4c423772fe88.jpg?v=1789454123
     Price: ￥550.00 JPY
 - [ノーヴィ フェイスタオル](https://shichifuku-towel.com/products/004534001): 細番手の糸を使用したやさしい肌触りと、軽い使い心地が特徴。薄手で持ち運びや収納の際もかさばらず、便利で実用的なタオルです。やわらかで上品なカラーをご用意しました。認定番号：第２０１７－１５５２号
-  Updated: 2026-11-11T00:05:38Z
+  Updated: 2026-11-18T01:35:46Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -501,7 +501,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_cef654ee-6526-4478-8bf3-bdc327332572.jpg?v=1789454380
     Price: ￥1,100.00 JPY
 - [ノーヴィ バスタオル](https://shichifuku-towel.com/products/004534002): 細番手の糸を使用したやさしい肌触りと、軽い使い心地が特徴。薄手で持ち運びや収納の際もかさばらず、便利で実用的なタオルです。やわらかで上品なカラーをご用意しました。認定番号：第２０１７－１５５２号
-  Updated: 2026-11-10T23:50:46Z
+  Updated: 2026-11-18T01:35:46Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -573,7 +573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_128b5cad-69ad-4a4a-9d58-ca60a448be84.jpg?v=1789359947
     Price: ￥2,200.00 JPY
 - [ボニー ハンカチタオル](https://shichifuku-towel.com/products/005341004): フェアトレードのオーガニックコットンを使用したラインナップ。異国情緒漂うカラフルなカラーをモダンなヘリンボーン柄に落とし込んだ表面と、シンプル使いもできる裏面の奥深いカラーをお楽しみください。本製品はｂｉｏＲｅプロジェクトのオーガニックコットンを使用しています。ｂｉｏＲｅプロジェクトとは…スイスのＲｅｍｅｉ社が１９９１年からインドとタンザニアで行っているプロジェクトです。生産利益の一部と寄付金を「ｂｉｏＲｅ基金」として、生産者と地域を支援しています。 認定番号：第２０２３－１０５６号
-  Updated: 2026-11-09T04:05:15Z
+  Updated: 2026-11-18T08:06:03Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -627,7 +627,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_86e93c40-93a0-41b8-9ffd-b88cce02ba2f.jpg?v=1789360115
     Price: ￥880.00 JPY
 - [マジョリカ フェイスタオル](https://shichifuku-towel.com/products/005704001): ふっくら無撚糸と杢糸での多彩な織りあがり。凹凸感が魅力の英国ヴィクトリア朝のタイル柄。 認定番号：第２０２５－１８９２号
-  Updated: 2026-11-09T02:17:16Z
+  Updated: 2026-11-18T07:20:38Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -641,7 +641,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_2a713b3f-5d4d-47f5-944d-947cd06a7faa.jpg?v=1789360452
     Price: ￥2,200.00 JPY
 - [マジョリカ バスタオル](https://shichifuku-towel.com/products/005704002): ふっくら無撚糸と杢糸での多彩な織りあがり。凹凸感が魅力の英国ヴィクトリア朝のタイル柄。 認定番号：第２０２５－１８９２号
-  Updated: 2026-11-07T02:05:46Z
+  Updated: 2026-11-18T00:20:48Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -655,7 +655,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_0d0f003f-2d3f-4a0e-b61f-66cbabaa1b79.jpg?v=1789360208
     Price: ￥4,950.00 JPY
 - [マジョリカ ハンカチタオル](https://shichifuku-towel.com/products/005704004): ふっくら無撚糸と杢糸での多彩な織りあがり。凹凸感が魅力の英国ヴィクトリア朝のタイル柄。 認定番号：第２０２５－１８９２号
-  Updated: 2026-11-10T08:35:46Z
+  Updated: 2026-11-18T08:05:56Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -669,7 +669,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_aa81db00-a96c-441d-a55b-2722f89b7c2c.jpg?v=1789360293
     Price: ￥880.00 JPY
 - [マジョリカ ハンドタオル](https://shichifuku-towel.com/products/005704100): ふっくら無撚糸と杢糸での多彩な織りあがり。凹凸感が魅力の英国ヴィクトリア朝のタイル柄。 認定番号：第２０２５－１８９２号
-  Updated: 2026-11-05T11:14:26Z
+  Updated: 2026-11-17T21:37:01Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -683,7 +683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_5f56aa6f-c66c-4c0f-b4dc-ef379660fcad.jpg?v=1789360397
     Price: ￥1,100.00 JPY
 - [モニ フェイスタオル](https://shichifuku-towel.com/products/005717001): ６色の糸を組み合わせた色とりどりの花々。ふんわりと咲くやわらかな風合いのジャガード織りです。 認定番号：第２０２５－１９６５号
-  Updated: 2026-11-09T05:35:52Z
+  Updated: 2026-11-19T00:05:57Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -697,7 +697,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_b70ae1c8-4fa1-43ac-89dd-b18d0726cdda.jpg?v=1789457360
     Price: ￥2,200.00 JPY
 - [モニ バスタオル](https://shichifuku-towel.com/products/005717002): ６色の糸を組み合わせた色とりどりの花々。ふんわりと咲くやわらかな風合いのジャガード織りです。 認定番号：第２０２５－１９６５号
-  Updated: 2026-11-09T05:35:56Z
+  Updated: 2026-11-19T00:05:47Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -711,7 +711,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_02d861f4-57e9-441f-90d7-c92fed1422c7.jpg?v=1789457181
     Price: ￥4,950.00 JPY
 - [モニ ハンカチタオル](https://shichifuku-towel.com/products/005717004): ６色の糸を組み合わせた色とりどりの花々。ふんわりと咲くやわらかな風合いのジャガード織りです。 認定番号：第２０２５－１９６５号
-  Updated: 2026-11-10T08:35:46Z
+  Updated: 2026-11-18T08:05:56Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -725,7 +725,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_b050ad0d-8487-4945-85c0-ffae44e36cc3.jpg?v=1789457237
     Price: ￥880.00 JPY
 - [モニ ハンドタオル](https://shichifuku-towel.com/products/005717100): ６色の糸を組み合わせた色とりどりの花々。ふんわりと咲くやわらかな風合いのジャガード織りです。 認定番号：第２０２５－１９６５号
-  Updated: 2026-11-09T05:35:52Z
+  Updated: 2026-11-18T04:20:46Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -753,7 +753,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_94fe052a-7448-4e5d-afe5-b436c307d91e.jpg?v=1789633652
     Price: ￥880.00 JPY
 - [グラッド フェイスタオル](https://shichifuku-towel.com/products/005725001): “幸せを呼ぶ贈り物”をテーマに趣向を凝らしたギフトボックス柄。色彩を重ねたギンガムチェックがカラフルな彩りです。 認定番号：第２０２５－１９８３号
-  Updated: 2026-11-11T00:05:37Z
+  Updated: 2026-11-18T23:50:47Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -767,7 +767,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_f905a3e4-9ea6-4574-9277-3576c955de1b.jpg?v=1789351742
     Price: ￥1,650.00 JPY
 - [グラッド バスタオル](https://shichifuku-towel.com/products/005725002): “幸せを呼ぶ贈り物”をテーマに趣向を凝らしたギフトボックス柄。色彩を重ねたギンガムチェックがカラフルな彩りです。 認定番号：第２０２５－１９８３号
-  Updated: 2026-11-11T00:05:36Z
+  Updated: 2026-11-17T03:05:38Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -781,7 +781,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_317819ea-c7a5-4282-9150-403aefeefa7f.jpg?v=1789351554
     Price: ￥3,850.00 JPY
 - [グラッド ハンカチタオル](https://shichifuku-towel.com/products/005725004): “幸せを呼ぶ贈り物”をテーマに趣向を凝らしたギフトボックス柄。色彩を重ねたギンガムチェックがカラフルな彩りです。 認定番号：第２０２５－１９８３号
-  Updated: 2026-11-06T07:05:51Z
+  Updated: 2026-11-18T08:05:52Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -809,7 +809,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_d643add6-4ea5-4c10-afe4-5e61a00bc3f4.jpg?v=1789351685
     Price: ￥880.00 JPY
 - [モダンリゾート ハンドタオル](https://shichifuku-towel.com/products/004028100): 甘撚糸を贅沢に使用したリッチなカラータオル。ボリューム感のあるふかふかな肌触りと抜群の吸水性で快適な使い心地。色選びからこだわって作りました。認定番号：第２０１４－１５２３号
-  Updated: 2026-11-09T08:20:46Z
+  Updated: 2026-11-15T23:50:35Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -879,7 +879,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_ae27ac20-b3e8-4a19-a8ae-6e10977f82c6.jpg?v=1789362317
     Price: ￥1,100.00 JPY
 - [モダンリゾート フェイスタオル](https://shichifuku-towel.com/products/004028001): 甘撚糸を贅沢に使用したリッチなカラータオル。ボリューム感のあるふかふかな肌触りと抜群の吸水性で快適な使い心地。色選びからこだわって作りました。認定番号：第２０１４－１５２３号
-  Updated: 2026-11-10T07:35:36Z
+  Updated: 2026-11-18T14:22:17Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -901,7 +901,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_1e67a38d-7e3f-4706-ae7b-fb907a28c2e7.jpg?v=1789362578
     Price: ￥2,200.00 JPY
   - [レッド](https://shichifuku-towel.com/products/004028001?variant=52348212248877)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_d9d38fb8-dc9c-4b59-9198-72883f5a6ec4.jpg?v=1789362583
     Price: ￥2,200.00 JPY
   - [パープル](https://shichifuku-towel.com/products/004028001?variant=52348212281645)
@@ -949,7 +949,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_ff2b5d4e-3173-431c-8791-c388049a9b69.jpg?v=1789362767
     Price: ￥2,200.00 JPY
 - [モダンリゾート バスタオル](https://shichifuku-towel.com/products/004028002): 甘撚糸を贅沢に使用したリッチなカラータオル。ボリューム感のあるふかふかな肌触りと抜群の吸水性で快適な使い心地。色選びからこだわって作りました。認定番号：第２０１４－１５２３号
-  Updated: 2026-11-09T21:05:46Z
+  Updated: 2026-11-17T23:50:46Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1019,7 +1019,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_b54a5632-4153-4816-a8bc-4404539e0a95.jpg?v=1789361752
     Price: ￥5,500.00 JPY
 - [モダンリゾート バスマット](https://shichifuku-towel.com/products/004028003): 甘撚糸を贅沢に使用したリッチなカラータオル。ボリューム感のあるふかふかな肌触りと抜群の吸水性で快適な使い心地。色選びからこだわって作りました。認定番号：第２０１４－１５２３号
-  Updated: 2026-11-09T01:50:46Z
+  Updated: 2026-11-14T06:46:36Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1089,7 +1089,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_8287e1e9-fed3-491e-9315-52a7016cb7cb.jpg?v=1789362038
     Price: ￥3,300.00 JPY
 - [モダンリゾート プチバスマット](https://shichifuku-towel.com/products/004028005): 甘撚糸を贅沢に使用したリッチなカラータオル。ボリューム感のあるふかふかな肌触りと抜群の吸水性で快適な使い心地。色選びからこだわって作りました。認定番号：第２０１４－１５２３号
-  Updated: 2026-11-09T02:50:46Z
+  Updated: 2026-11-16T05:20:36Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1159,7 +1159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_e032a365-52d1-4098-94dd-6a03c478a1d5.jpg?v=1789363055
     Price: ￥2,200.00 JPY
 - [モダンリゾート スポーツタオル](https://shichifuku-towel.com/products/004028006): 甘撚糸を贅沢に使用したリッチなカラータオル。ボリューム感のあるふかふかな肌触りと抜群の吸水性で快適な使い心地。色選びからこだわって作りました。認定番号：第２０１４－１５２３号
-  Updated: 2026-11-09T08:20:47Z
+  Updated: 2026-11-12T00:35:50Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1229,7 +1229,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_8fe46c9e-8177-4d66-a8fe-ea1f19863f16.jpg?v=1789360687
     Price: ￥2,750.00 JPY
 - [ネオ・リバイブ クロス](https://shichifuku-towel.com/products/004356016): 残り糸を組み合わせて作った、環境にやさしい自然派タオル。２０２３年２月よりリニューアル。房をなくし、サイズを少し小さくすることにより、よりシンプルで使い勝手がよくなりました。通常のタオルの２倍の糸を使っていて、吸水性も抜群。生産ロットにより様々な色目を生み出す、一期一会のタオルです。
-  Updated: 2026-11-09T08:20:32Z
+  Updated: 2026-11-18T08:06:06Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1247,14 +1247,14 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_82340c85-f6ec-42ac-8cd5-34dc82ab4ad2.jpg?v=1789603594
     Price: ￥440.00 JPY
 - [ネオ・リバイブ フェイスタオル](https://shichifuku-towel.com/products/004356001): 残り糸を組み合わせて作った、環境にやさしい自然派タオル。２０２３年２月よりリニューアル。房をなくし、サイズを少し小さくすることにより、よりシンプルで使い勝手がよくなりました。通常のタオルの２倍の糸を使っていて、吸水性も抜群。生産ロットにより様々な色目を生み出す、一期一会のタオルです。
-  Updated: 2026-11-10T08:35:32Z
+  Updated: 2026-11-18T08:05:36Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_8082ca5c-8f55-43ac-8765-e74ea77eb065.jpg?v=1789603720
   Price: ￥1,100.00 JPY
 - [ネオ・リバイブ バスタオル](https://shichifuku-towel.com/products/004356002): 残り糸を組み合わせて作った、環境にやさしい自然派タオル。２０２３年２月よりリニューアル。房をなくし、サイズを少し小さくすることにより、よりシンプルで使い勝手がよくなりました。通常のタオルの２倍の糸を使っていて、吸水性も抜群。生産ロットにより様々な色目を生み出す、一期一会のタオルです。
-  Updated: 2026-11-10T23:50:38Z
+  Updated: 2026-11-18T08:05:46Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1275,7 +1275,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_48417c9d-81be-4117-ae31-b264dbc06db7.jpg?v=1789603758
   Price: ￥1,320.00 JPY
 - [ペロ フェイスタオル](https://shichifuku-towel.com/products/005525001): 表面のシャーリングがベロアのようななめらかな肌触り。裏側は贅沢なふんわり感を、リバーシブルに楽しめる仕上がりです。認定番号：第２０２４－１３５５号
-  Updated: 2026-11-09T02:50:46Z
+  Updated: 2026-11-19T00:05:56Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1297,7 +1297,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_6ab23716-8331-4cbe-a1eb-2d56bf77c933.jpg?v=1789352028
     Price: ￥2,200.00 JPY
 - [ペロ バスタオル](https://shichifuku-towel.com/products/005525002): 表面のシャーリングがベロアのようななめらかな肌触り。裏側は贅沢なふんわり感を、リバーシブルに楽しめる仕上がりです。認定番号：第２０２４－１３５５号
-  Updated: 2026-11-09T02:50:36Z
+  Updated: 2026-11-19T00:05:47Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1319,7 +1319,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_bb982c41-019e-423b-a100-493b12d6087e.jpg?v=1789351828
     Price: ￥4,950.00 JPY
 - [ペロ ハンカチタオル](https://shichifuku-towel.com/products/005525004): 表面のシャーリングがベロアのようななめらかな肌触り。裏側は贅沢なふんわり感を、リバーシブルに楽しめる仕上がりです。認定番号：第２０２４－１３５５号
-  Updated: 2026-11-09T23:50:36Z
+  Updated: 2026-11-17T08:05:37Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1363,7 +1363,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_b0141354-c206-4177-812a-2360cb9ae41d.jpg?v=1789352335
     Price: ￥880.00 JPY
 - [アミィ ヘアタオル](https://shichifuku-towel.com/products/005115240): やわらかくなめらかな風合いでリラックスタイムを豊かにします。厳選された超長綿とコットンの再生繊維キュプラからできた中空糸を使用し、吸水性、速乾性に優れています。また、表面がなめらかなので髪への摩擦・ダメージを軽減します。 認定番号：第２０２１－９８０号 ※本商品は専用ボックス入りです。専用ボックスごと別売りのギフトボックスに入れることはできません。
-  Updated: 2026-11-10T08:35:46Z
+  Updated: 2026-11-18T08:06:06Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1371,17 +1371,17 @@
   - [グリーン](https://shichifuku-towel.com/products/005115240?variant=52348215591213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_0edf16f3-14bc-4782-b14e-dce09334a950.jpg?v=1789601854
-    Price: ￥2,200.00 JPY
+    Price: ￥2,420.00 JPY
   - [ピンク](https://shichifuku-towel.com/products/005115240?variant=52348215623981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_9793d8a2-bf4f-4c41-a9d5-62bad01f4f82.jpg?v=1789601875
-    Price: ￥2,200.00 JPY
+    Price: ￥2,420.00 JPY
   - [ベージュ](https://shichifuku-towel.com/products/005115240?variant=52348215656749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_9a818df1-3f46-47a6-adb7-8988711050d8.jpg?v=1789601885
     Price: ￥2,420.00 JPY
 - [カーヤ ストール](https://shichifuku-towel.com/products/005693243): コットン１００％のふわりとした優しい触り心地。二重ガーゼの色の透け感がたのしめる大判ストールです。ギフトにもおすすめのＢＯＸ入り。 表：ストライプ、裏：無地 ※専用ボックス入りの商品です。ギフトボックスには入れられませんのでご注意ください。 認定番号：第２０２５－１６６１号
-  Updated: 2026-10-29T00:58:44Z
+  Updated: 2026-11-18T04:20:46Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1425,7 +1425,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_87649364-62d1-4900-b390-5528b1026792.jpg?v=1789456979
     Price: ￥1,100.00 JPY
 - [ファーン フェイスタオル](https://shichifuku-towel.com/products/001204001): マイクロファイバー混の糸を使い、ほどよいボリューム感と包み込むようなやわらかさが特徴です。吸水性と速乾性に優れ、使い勝手も抜群。暮らしになじむナチュラルなカラーを取り揃えました。認定番号：第２００７－０３１号
-  Updated: 2026-11-06T02:05:36Z
+  Updated: 2026-11-16T14:58:07Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1481,7 +1481,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_2d97bd85-3eea-4623-923e-fa9c9207515b.jpg?v=1789456879
     Price: ￥5,500.00 JPY
 - [レンヌ フェイスタオル](https://shichifuku-towel.com/products/005524001): 無撚糸とバンブーレーヨンを織り合わせたボリューム感と、天然素材がもたらす落ち着いた色合いのミックス感のある風合いが絶妙なタオルです。認定番号：第２０２４－１０６３号
-  Updated: 2026-11-09T23:35:37Z
+  Updated: 2026-11-18T04:20:53Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1511,7 +1511,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_46920fd2-3593-4ba3-80f0-63a91b8ea706.jpg?v=1789604440
     Price: ￥2,750.00 JPY
 - [レンヌ バスタオル](https://shichifuku-towel.com/products/005524002): 無撚糸とバンブーレーヨンを織り合わせたボリューム感と、天然素材がもたらす落ち着いた色合いのミックス感のある風合いが絶妙なタオルです。認定番号：第２０２４－１０６３号
-  Updated: 2026-10-29T08:20:46Z
+  Updated: 2026-11-18T04:20:57Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1541,7 +1541,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_43937266-a923-479e-b594-6217b34efb3e.jpg?v=1789604320
     Price: ￥6,600.00 JPY
 - [レンヌ ミニバスタオル](https://shichifuku-towel.com/products/005524249): 無撚糸とバンブーレーヨンを織り合わせたボリューム感と、天然素材がもたらす落ち着いた色合いのミックス感のある風合いが絶妙なタオルです。認定番号：第２０２４－１０６３号
-  Updated: 2026-10-29T00:58:45Z
+  Updated: 2026-11-18T04:20:52Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1571,7 +1571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_15cd72ae-3a25-4cb4-9f57-d1e5498ec9a1.jpg?v=1789604529
     Price: ￥4,950.00 JPY
 - [オプス ハンドタオル](https://shichifuku-towel.com/products/005526100): 多色の糸が織りなす色彩豊かなドット柄。ふわふわ感と吸水の利便性を兼ね備えた、両面無撚糸の贅沢なタオルです。認定番号：第２０２４－１１４７号
-  Updated: 2026-11-05T11:14:24Z
+  Updated: 2026-11-19T00:05:52Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1593,7 +1593,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_d0e8149f-4047-4792-860c-b42878f4ad66.jpg?v=1789602608
     Price: ￥1,320.00 JPY
 - [オプス フェイスタオル](https://shichifuku-towel.com/products/005526001): 多色の糸が織りなす色彩豊かなドット柄。ふわふわ感と吸水の利便性を兼ね備えた、両面無撚糸の贅沢なタオルです。認定番号：第２０２４－１１４７号
-  Updated: 2026-11-10T08:35:36Z
+  Updated: 2026-11-19T00:05:57Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1615,7 +1615,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_4c1e9103-2051-479f-8937-3182e55482b2.jpg?v=1789603138
     Price: ￥2,420.00 JPY
 - [オプス バスタオル](https://shichifuku-towel.com/products/005526002): 多色の糸が織りなす色彩豊かなドット柄。ふわふわ感と吸水の利便性を兼ね備えた、両面無撚糸の贅沢なタオルです。認定番号：第２０２４－１１４７号
-  Updated: 2026-11-10T07:35:36Z
+  Updated: 2026-11-19T00:05:47Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1637,7 +1637,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_ae1f0d80-670d-4b10-8544-decd5c31d0a6.jpg?v=1789602427
     Price: ￥5,500.00 JPY
 - [オプス ハンカチタオル](https://shichifuku-towel.com/products/005526004): 多色の糸が織りなす色彩豊かなドット柄。ふわふわ感と吸水の利便性を兼ね備えた、両面無撚糸の贅沢なタオルです。認定番号：第２０２４－１１４７号
-  Updated: 2026-11-10T08:35:55Z
+  Updated: 2026-11-18T23:50:47Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1681,7 +1681,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_d8ed888e-707c-4596-8cb0-a2115f290a3a.jpg?v=1789633243
     Price: ￥990.00 JPY
 - [ミッシュ フェイスタオル](https://shichifuku-towel.com/products/005546001): 多色ジャガードで丁寧に織り上げたツイード調タオル。優雅な色合いと、特許技法が生み出すふっくらとした独特の風合いが魅力です。贅沢なボリュームとやわらかな肌ざわりが、日常に上質なリラックスを添えてくれます。細部までこだわりを込めた、心まで満たされる一枚です。認定番号：第２０２４－１２１３号
-  Updated: 2026-11-09T00:05:46Z
+  Updated: 2026-11-18T23:50:47Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1695,7 +1695,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_c7faab5a-5ea9-4ba5-bbe6-80e6e1fb17ea.jpg?v=1789604207
     Price: ￥3,080.00 JPY
 - [ミッシュ バスタオル](https://shichifuku-towel.com/products/005546002): 多色ジャガードで丁寧に織り上げたツイード調タオル。優雅な色合いと、特許技法が生み出すふっくらとした独特の風合いが魅力です。贅沢なボリュームとやわらかな肌ざわりが、日常に上質なリラックスを添えてくれます。細部までこだわりを込めた、心まで満たされる一枚です。認定番号：第２０２４－１２１３号
-  Updated: 2026-11-09T00:05:47Z
+  Updated: 2026-11-12T07:35:46Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1709,7 +1709,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_dbbfd4a9-e13d-4321-aa54-ed46e6ea2ab4.jpg?v=1789604027
     Price: ￥7,700.00 JPY
 - [ミッシュ ハンカチタオル](https://shichifuku-towel.com/products/005546004): 多色ジャガードで丁寧に織り上げたツイード調タオル。優雅な色合いと、特許技法が生み出すふっくらとした独特の風合いが魅力です。贅沢なボリュームとやわらかな肌ざわりが、日常に上質なリラックスを添えてくれます。細部までこだわりを込めた、心まで満たされる一枚です。認定番号：第２０２４－１２１３号
-  Updated: 2026-11-09T05:35:48Z
+  Updated: 2026-11-18T23:50:47Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1737,7 +1737,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_6d12b6a9-6bd8-4f9d-a64d-627d5a6897a4.jpg?v=1789603892
     Price: ￥22,000.00 JPY
 - [ミッシュ タオルブランケット](https://shichifuku-towel.com/products/005546253): 多色ジャガードで丁寧に織り上げたツイード調タオル。優雅な色合いと、特許技法が生み出すふっくらとした独特の風合いが魅力です。贅沢なボリュームとやわらかな肌ざわりが、日常に上質なリラックスを添えてくれます。細部までこだわりを込めた、心まで満たされる一枚です。認定番号：第２０２４－１２１３号
-  Updated: 2026-11-06T04:50:41Z
+  Updated: 2026-11-12T23:50:56Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1787,7 +1787,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_a070b9d9-e3cb-4fcd-8f55-31b950cf4fa8.jpg?v=1789363384
     Price: ￥2,420.00 JPY
 - [ラディ バスタオル](https://shichifuku-towel.com/products/005724002): ミックスの色糸が織りなすファンシーツイード調。華やかなチェック柄と粒状ネップ糸の上品さが優美。 認定番号：第２０２５－１７４３号
-  Updated: 2026-10-29T00:58:49Z
+  Updated: 2026-11-17T23:50:46Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1801,7 +1801,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_26fba81e-a0f8-4f94-a6bb-8e9b7817f87c.jpg?v=1789363212
     Price: ￥5,500.00 JPY
 - [ラディ ハンカチタオル](https://shichifuku-towel.com/products/005724004): ミックスの色糸が織りなすファンシーツイード調。華やかなチェック柄と粒状ネップ糸の上品さが優美。 認定番号：第２０２５－１７４３号
-  Updated: 2026-11-09T05:35:55Z
+  Updated: 2026-11-18T08:05:56Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1815,7 +1815,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_ed4d345b-11e4-40ee-b313-63d3f35c71d8.jpg?v=1789363263
     Price: ￥990.00 JPY
 - [ラディ ハンドタオル](https://shichifuku-towel.com/products/005724100): ミックスの色糸が織りなすファンシーツイード調。華やかなチェック柄と粒状ネップ糸の上品さが優美。 認定番号：第２０２５－１７４３号
-  Updated: 2026-11-10T08:35:46Z
+  Updated: 2026-11-17T21:37:06Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1911,7 +1911,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_112a6673-5b9e-47a8-ae66-7cfde501d33b.jpg?v=1789633345
     Price: ￥5,500.00 JPY
 - [リーナ ストール](https://shichifuku-towel.com/products/005694243): コットン１００％のふわりとした優しい触り心地。二重ガーゼの色の透け感がたのしめる大判ストールです。ギフトにもおすすめのＢＯＸ入り。 表：マリンボーダー柄、裏：無地＋ライン ※専用ボックス入りの商品です。ギフトボックスには入れられませんのでご注意ください。 認定番号：第２０２５－１６６２号
-  Updated: 2026-10-29T00:58:52Z
+  Updated: 2026-11-18T04:20:46Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1939,7 +1939,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/FT_02e19d49-f503-4a3f-bd51-6fda3d472f16.jpg?v=1789603242
   Price: ￥1,320.00 JPY
 - [エポナ ハンドタオル](https://shichifuku-towel.com/products/005587100): 表面が多色ツイルガーゼ、裏面がパイル地の気持ちいいタオルです。軽量で乾きやすく日常使いに最適です。洗い加工をしているため、手に取った瞬間からやわらかな肌触りを楽しむことができます。オーガニックコットンを使用し、環境にも肌にもやさしいです。認定番号：第２０２４－１９７９号
-  Updated: 2026-10-29T00:58:52Z
+  Updated: 2026-11-12T23:50:55Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1957,7 +1957,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_d264f231-ef86-4552-bcfc-25d4a15a0680.jpg?v=1789601970
     Price: ￥1,320.00 JPY
 - [エポナ フェイスタオル](https://shichifuku-towel.com/products/005587001): 表面が多色ツイルガーゼ、裏面がパイル地の気持ちいいタオルです。軽量で乾きやすく日常使いに最適です。洗い加工をしているため、手に取った瞬間からやわらかな肌触りを楽しむことができます。オーガニックコットンを使用し、環境にも肌にもやさしいです。認定番号：第２０２４－１９７９号
-  Updated: 2026-11-07T02:24:56Z
+  Updated: 2026-11-13T02:20:56Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -1993,7 +1993,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_cbda7ba2-b0ae-459e-b84a-f85296692558.jpg?v=1789602254
     Price: ￥4,400.00 JPY
 - [サーナ ストール](https://shichifuku-towel.com/products/005554243): 二重ガーゼのさらりとした軽い風合いが心地よいストール。簡単に洗濯でき、いつも清潔にお使いいただけます。大判サイズでひざ掛けや日よけなど、様々な用途でご活用いただけます。ギフトにもおすすめ。 ※専用ボックス入りの商品です。ギフトボックスには入れられませんのでご注意ください。認定番号：第２０２４－１８３７号
-  Updated: 2026-10-29T00:58:53Z
+  Updated: 2026-11-18T07:20:36Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -2018,7 +2018,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_0bfa5a98-4467-4069-b30e-6d49afd49f39.jpg?v=1789603338
   Price: ￥2,860.00 JPY
 - [ミッシュ ハンドタオル](https://shichifuku-towel.com/products/005546100): 多色ジャガードで丁寧に織り上げたツイード調タオル。優雅な色合いと、特許技法が生み出すふっくらとした独特の風合いが魅力です。贅沢なボリュームとやわらかな肌ざわりが、日常に上質なリラックスを添えてくれます。細部までこだわりを込めた、心まで満たされる一枚です。認定番号：第２０２４－１２１３号
-  Updated: 2026-11-10T08:35:41Z
+  Updated: 2026-11-18T04:20:36Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -2046,13 +2046,13 @@
   Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/IMG_7829.jpg?v=1790734556
   Price: ￥330.00 JPY
 - [ルミナス ヘアタオル](https://shichifuku-towel.com/products/005785240): やわらかくなめらかな風合いでリラックスタイムを豊かにします。厳選された超長綿とコットンの再生繊維キュプラからできた中空糸を使用し、吸水性、速乾性に優れています。表面がなめらかなので髪への摩擦・ダメージを軽減します。 認定番号：第２０２６－５３３号 ※本商品は専用ボックス入りです。専用ボックスごと別売りのギフトボックスに入れることはできません。
-  Updated: 2026-11-10T08:35:41Z
+  Updated: 2026-11-18T08:05:56Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1614cb289291c96a112f34dfc5e988ce_7bcfbe4a-672f-43b9-9cba-90938ce49a1c.jpg?v=1790552984
   - [ピンク](https://shichifuku-towel.com/products/005785240?variant=67575812817197)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_06ee6547-be45-4c9d-9da4-0d2d2a8a74a2.jpg?v=1790553024
     Price: ￥2,420.00 JPY
   - [ブルー](https://shichifuku-towel.com/products/005785240?variant=67575812849965)
@@ -2064,7 +2064,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_caba018d-bdfd-4f5d-ac73-a8b01b1ee17c.jpg?v=1790553045
     Price: ￥2,420.00 JPY
 - [レンヌ ハンカチタオル](https://shichifuku-towel.com/products/005524004): 無撚糸とバンブーレーヨンを織り合わせたボリューム感と、天然素材がもたらす落ち着いた色合いのミックス感のある風合いが絶妙なタオルです。認定番号：第２０２４－１０６３号
-  Updated: 2026-11-05T08:20:55Z
+  Updated: 2026-11-18T08:06:06Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -2094,7 +2094,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_57e60eba-0301-4853-8167-417b87c5417f.jpg?v=1790554057
     Price: ￥990.00 JPY
 - [レフティア バスタオル](https://shichifuku-towel.com/products/005848002): 「朝焼けの光を受けた水面」「昼の陽が降り注ぐ水面」「夜の月明かりを映す水面」に、移ろいゆく木の葉の影を、深みのある色使いで表現しました。光沢が美しいシャーリング加工で表現したデザインタオルです。認定番号：第２０２６－２１１０号
-  Updated: 2026-11-10T08:35:46Z
+  Updated: 2026-11-18T08:06:12Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -2112,7 +2112,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_9c5101ca-4267-4a3a-aa7a-0f2f87d5cff0.jpg?v=1791959295
     Price: ￥4,950.00 JPY
 - [レフティア フェイスタオル](https://shichifuku-towel.com/products/005848001): 「朝焼けの光を受けた水面」「昼の陽が降り注ぐ水面」「夜の月明かりを映す水面」に、移ろいゆく木の葉の影を、深みのある色使いで表現しました。光沢が美しいシャーリング加工で表現したデザインタオルです。認定番号：第２０２６－２１１０号
-  Updated: 2026-11-10T08:35:47Z
+  Updated: 2026-11-18T08:06:06Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -2130,7 +2130,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_d05fe52e-c35c-4e26-8f4f-925abeb54435.jpg?v=1791958952
     Price: ￥2,200.00 JPY
 - [レフティア ハンドタオル](https://shichifuku-towel.com/products/005848100): 「朝焼けの光を受けた水面」「昼の陽が降り注ぐ水面」「夜の月明かりを映す水面」に、移ろいゆく木の葉の影を、深みのある色使いで表現しました。光沢が美しいシャーリング加工で表現したデザインタオルです。認定番号：第２０２６－２１１０号
-  Updated: 2026-11-10T23:50:36Z
+  Updated: 2026-11-11T05:51:16Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -2148,7 +2148,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_ee16517d-6ef9-4c2b-8424-a7816150f4a9.jpg?v=1791958298
     Price: ￥1,100.00 JPY
 - [レフティア ハンカチタオル](https://shichifuku-towel.com/products/005848004): 「朝焼けの光を受けた水面」「昼の陽が降り注ぐ水面」「夜の月明かりを映す水面」に、移ろいゆく木の葉の影を、深みのある色使いで表現しました。光沢が美しいシャーリング加工で表現したデザインタオルです。認定番号：第２０２６－２１１０号
-  Updated: 2026-11-10T23:50:36Z
+  Updated: 2026-11-18T08:06:03Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -2202,7 +2202,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_fdad3b2e-f0ef-4601-9b1f-59d0997200aa.jpg?v=1791964649
     Price: ￥5,500.00 JPY
 - [ピエット ハンカチタオル](https://shichifuku-towel.com/products/005849004): 新感覚のパッチワーク千鳥格子柄。ふんわりとした無撚糸の柔らかさと、繊細な甘撚糸の透け感を一枚に表現しました。軽やな肌触りと吸水性を兼ね備えた使いやすさが特徴です。認定番号：第２０２６－２０１５号
-  Updated: 2026-11-09T05:36:06Z
+  Updated: 2026-11-18T08:06:06Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -2220,7 +2220,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_bdd86d08-73c7-487a-96d2-19020d66ec81.jpg?v=1791963382
     Price: ￥990.00 JPY
 - [ピエット ハンドタオル](https://shichifuku-towel.com/products/005849100): 新感覚のパッチワーク千鳥格子柄。ふんわりとした無撚糸の柔らかさと、繊細な甘撚糸の透け感を一枚に表現しました。軽やな肌触りと吸水性を兼ね備えた使いやすさが特徴です。認定番号：第２０２６－２０１５号
-  Updated: 2026-11-09T08:20:47Z
+  Updated: 2026-11-17T21:37:05Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -2238,7 +2238,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_d6f25693-5556-4b39-aa59-7d262105dbf7.jpg?v=1791964067
     Price: ￥1,320.00 JPY
 - [シャルル フェイスタオル](https://shichifuku-towel.com/products/005850001): 上品なツイード調の贅沢な肌心地。多色の糸の組み合わせでリッチな風合いを表現したタオルです。今治の織り技術が魅せる匠の技で立体感のあるデザインに仕上げました。表情豊かなこだわりのシリーズです。認定番号：第２０２６－２１７８号
-  Updated: 2026-11-10T23:35:36Z
+  Updated: 2026-11-11T23:50:45Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -2266,7 +2266,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_d246036b-4dc2-4b02-9706-27d08e221d00.jpg?v=1791966175
     Price: ￥6,600.00 JPY
 - [シャルル ハンカチタオル](https://shichifuku-towel.com/products/005850004): 上品なツイード調の贅沢な肌心地。多色の糸の組み合わせでリッチな風合いを表現したタオルです。今治の織り技術が魅せる匠の技で立体感のあるデザインに仕上げました。表情豊かなこだわりのシリーズです。認定番号：第２０２６－２１７８号
-  Updated: 2026-11-09T08:20:37Z
+  Updated: 2026-11-18T08:06:06Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -2280,7 +2280,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_4e7e98dd-9e3a-43c8-87bc-d1c0882f388c.jpg?v=1791965421
     Price: ￥1,100.00 JPY
 - [シャルル ハンドタオル](https://shichifuku-towel.com/products/005850100): 上品なツイード調の贅沢な肌心地。多色の糸の組み合わせでリッチな風合いを表現したタオルです。今治の織り技術が魅せる匠の技で立体感のあるデザインに仕上げました。表情豊かなこだわりのシリーズです。認定番号：第２０２６－２１７８号
-  Updated: 2026-11-10T23:50:37Z
+  Updated: 2026-11-17T21:37:05Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -2294,7 +2294,7 @@
     Image: https://cdn.shopify.com/s/files/1/0946/0603/3197/files/1_49906edb-7dff-48ea-874d-fcd12d59972a.jpg?v=1791965718
     Price: ￥1,430.00 JPY
 - [モニ バスマット](https://shichifuku-towel.com/products/005717003): 弾力のある心地よい踏み心地の今治バスマット。大きな花柄はまるでアートのように空間を彩り、ボーダーカラーがさりげないアクセントとなっています。綿100％のため、いつでも洗濯ができ、清潔にお使いいただけます。認定番号：第２０２５－１９６５号
-  Updated: 2026-11-10T23:50:36Z
+  Updated: 2026-11-12T04:20:56Z
   Vendor: 七福タオル公式通販｜今治タオル オンラインショップ
   Product Type: 
   Availability: Available
@@ -2339,7 +2339,7 @@
 ## Collections
 
 - [フェイスタオル](https://shichifuku-towel.com/collections/facetowel)
-  Updated: 2026-11-09T12:15:48Z
+  Updated: 2026-11-17T12:16:16Z
   Total Products: 27
 - [おしぼりタオル](https://shichifuku-towel.com/collections/osiboritaoru)
   Updated: 2026-10-29T00:58:31Z
@@ -2353,23 +2353,23 @@
 - [ヘアバンド](https://shichifuku-towel.com/collections/heabando)
   Updated: 2026-10-29T00:58:32Z
   Total Products: 1
-- [ヘアタオル](https://shichifuku-towel.com/collections/heataoru)
-  Updated: 2026-11-04T12:18:01Z
+- [ヘアタオル](https://shichifuku-towel.com/collections/hairtowel)
+  Updated: 2026-11-17T12:16:16Z
   Total Products: 2
 - [プチバスマット](https://shichifuku-towel.com/collections/putibasumatuto)
   Updated: 2026-10-29T00:58:32Z
   Total Products: 3
 - [ホテルリゾート](https://shichifuku-towel.com/collections/hotel-resort)
-  Updated: 2026-11-09T12:15:48Z
+  Updated: 2026-11-17T12:16:16Z
   Total Products: 6
 - [ノーヴィ](https://shichifuku-towel.com/collections/novi)
-  Updated: 2026-11-05T12:17:34Z
+  Updated: 2026-11-11T12:18:29Z
   Total Products: 3
 - [モダンリゾート](https://shichifuku-towel.com/collections/modern-resort)
-  Updated: 2026-11-10T12:16:01Z
-  Total Products: 5
+  Updated: 2026-11-14T12:16:45Z
+  Total Products: 6
 - [ハンドタオル](https://shichifuku-towel.com/collections/handtowel)
-  Updated: 2026-11-09T12:15:48Z
+  Updated: 2026-11-18T12:16:24Z
   Total Products: 17
 - [ギフト](https://shichifuku-towel.com/collections/gift)
   Updated: 2026-11-09T12:15:48Z
@@ -2405,7 +2405,7 @@
   Updated: 2026-11-05T08:45:33Z
   Total Products: 2
 - [バスタオル](https://shichifuku-towel.com/collections/bath-towel)
-  Updated: 2026-11-10T12:16:01Z
+  Updated: 2026-11-16T12:16:30Z
   Total Products: 21
 - [カーブ](https://shichifuku-towel.com/collections/curve)
   Updated: 2026-10-29T00:58:33Z
@@ -2420,7 +2420,7 @@
   Updated: 2026-10-29T00:58:33Z
   Total Products: 2
 - [ラディ](https://shichifuku-towel.com/collections/rady)
-  Updated: 2026-11-09T12:15:48Z
+  Updated: 2026-11-18T12:16:24Z
   Total Products: 5
 - [ミッシュ](https://shichifuku-towel.com/collections/mish)
   Updated: 2026-11-06T12:18:05Z
@@ -2429,29 +2429,29 @@
   Updated: 2026-10-29T00:58:33Z
   Total Products: 1
 - [オプス](https://shichifuku-towel.com/collections/ops)
-  Updated: 2026-11-05T12:17:34Z
+  Updated: 2026-11-17T12:16:16Z
   Total Products: 5
 - [レンヌ](https://shichifuku-towel.com/collections/rennes)
   Updated: 2026-10-31T11:16:38Z
   Total Products: 4
 - [ファーン](https://shichifuku-towel.com/collections/fern)
-  Updated: 2026-11-01T12:17:34Z
+  Updated: 2026-11-17T12:16:16Z
   Total Products: 3
 - [カーヤ](https://shichifuku-towel.com/collections/kaya)
   Updated: 2026-11-05T08:45:32Z
   Total Products: 2
 - [アミィ](https://shichifuku-towel.com/collections/amy)
-  Updated: 2026-11-04T12:18:01Z
+  Updated: 2026-11-17T12:16:16Z
   Total Products: 1
 - [ペロ](https://shichifuku-towel.com/collections/pero)
-  Updated: 2026-11-04T12:18:01Z
+  Updated: 2026-11-17T12:16:16Z
   Total Products: 4
 - [ネオ・リバイブ](https://shichifuku-towel.com/collections/neo-revive)
   Updated: 2026-11-09T12:15:48Z
   Total Products: 5
 - [バスマット](https://shichifuku-towel.com/collections/bathmat)
-  Updated: 2026-11-09T12:15:48Z
-  Total Products: 3
+  Updated: 2026-11-14T12:16:45Z
+  Total Products: 4
 - [クロス](https://shichifuku-towel.com/collections/cloth)
   Updated: 2026-11-05T12:17:34Z
   Total Products: 1
@@ -2465,7 +2465,7 @@
   Updated: 2026-11-09T12:15:48Z
   Total Products: 6
 - [マジョリカ](https://shichifuku-towel.com/collections/majorika)
-  Updated: 2026-11-09T12:15:48Z
+  Updated: 2026-11-18T12:16:24Z
   Total Products: 4
 - [ボニー](https://shichifuku-towel.com/collections/bonnie)
   Updated: 2026-11-09T12:15:48Z
@@ -2480,25 +2480,25 @@
   Updated: 2026-10-29T00:58:34Z
   Total Products: 1
 - [【タオル】ランキング](https://shichifuku-towel.com/collections/ranking)
-  Updated: 2026-11-07T12:16:35Z
+  Updated: 2026-11-17T12:16:16Z
   Total Products: 5
 - [ミニバスタオル・スポーツタオル](https://shichifuku-towel.com/collections/mini-bathtowel_sports-towel)
   Updated: 2026-11-08T12:18:42Z
   Total Products: 4
 - [プチバスマット・バスマット](https://shichifuku-towel.com/collections/petit-bathmat_bathmat)
-  Updated: 2026-11-09T12:15:48Z
+  Updated: 2026-11-14T12:16:45Z
   Total Products: 6
 - [スポーツ・アウトドア](https://shichifuku-towel.com/collections/sports-and-outdoors)
-  Updated: 2026-11-08T12:18:42Z
+  Updated: 2026-11-11T12:18:29Z
   Total Products: 7
 - [旅行](https://shichifuku-towel.com/collections/travel)
-  Updated: 2026-11-05T12:17:34Z
+  Updated: 2026-11-11T12:18:29Z
   Total Products: 6
 - [キッチン](https://shichifuku-towel.com/collections/kitchen)
   Updated: 2026-11-05T12:17:34Z
   Total Products: 4
 - [リラックス・睡眠グッズ](https://shichifuku-towel.com/collections/relaxation-and-sleep-products)
-  Updated: 2026-11-04T12:18:01Z
+  Updated: 2026-11-17T12:16:16Z
   Total Products: 5
 - [ギフトセット](https://shichifuku-towel.com/collections/giftset)
   Updated: 2026-11-09T12:15:48Z
@@ -2510,20 +2510,23 @@
   Updated: 2026-11-09T12:15:48Z
   Total Products: 3
 - [すべての商品](https://shichifuku-towel.com/collections/すべての商品)
-  Updated: 2026-11-10T12:16:01Z
+  Updated: 2026-11-18T12:16:24Z
   Total Products: 97
 - [タオルランキングv2](https://shichifuku-towel.com/collections/タオルランキングv2)
-  Updated: 2026-11-10T12:16:01Z
+  Updated: 2026-11-18T12:16:24Z
   Total Products: 92
 - [レフティア](https://shichifuku-towel.com/collections/lehtia)
   Updated: 2026-11-09T12:15:48Z
   Total Products: 4
 - [ピエット](https://shichifuku-towel.com/collections/piette)
-  Updated: 2026-10-29T00:58:34Z
+  Updated: 2026-11-18T12:16:24Z
   Total Products: 4
 - [シャルル](https://shichifuku-towel.com/collections/charles)
-  Updated: 2026-11-09T12:15:48Z
+  Updated: 2026-11-18T12:16:24Z
   Total Products: 4
+- [寒い季節におすすめ](https://shichifuku-towel.com/collections/winter): 寒い季節におすすめのタオルを七福タオル公式通販で。ミッシュ・ラディ・レンヌ・オプスの4シリーズから、バスタオル、フェイスタオル、ハンカチタオル、タオルブランケットなどを集めました。毎日の暮らしに寄り添う一枚を見つけてください。
+  Updated: 2026-11-18T12:16:24Z
+  Total Products: 20
 
 ## Blogs
 
@@ -2545,6 +2548,9 @@
     Author: タオル七福
   - [PHPの脆弱性による不具合について](https://shichifuku-towel.com/blogs/news/phpの脆弱性による不具合について)
     Updated: 2026-10-23T02:41:07Z
+    Author: タオル七福
+  - [スマホ決済・コンビニ決済がご利用いただけるようになりました](https://shichifuku-towel.com/blogs/news/smartphone-convenience-store-payments): <p>お支払い方法に、PayPay・メルペイのスマホ決済と、全国の主要コンビニでお支払いいただけるコンビニ決済が加わりました。ご都合に合わせたお支払いで、七福タオルのお買い物をお楽しみください。</p>
+    Updated: 2026-11-12T09:20:58Z
     Author: タオル七福
 
 ## Store Pages
@@ -2569,6 +2575,8 @@
   Updated: 2026-09-30T00:31:57Z
 - [退会申請の受付｜七福タオル公式通販](https://shichifuku-towel.com/pages/cancel-membership): 
   Updated: 2026-10-27T06:22:46Z
+- [ホテルリゾート｜高級ホテル品質の今治タオル](https://shichifuku-towel.com/pages/hotel-resort): 
+  Updated: 2026-11-17T02:35:24Z
 
 ## Policies
 
