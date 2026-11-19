@@ -9,271 +9,271 @@
 - Created At: 2025-09-09T10:58:51Z
 - Contact Email: sales@qldecor.com
 - Contact Phone: +48572008079
-- Updated At: 2026-11-11T13:18:57.378Z
+- Updated At: 2026-11-19T00:59:22.381Z
 
 ## Products
 
 - [Corteccia](https://qldecor.shop/products/corteccia): Front meblowy Corteccia w ciepłych tonach jasnego brązu z teksturą drewna orzechowego. Wysokiej jakości front WoodSense – idealny do mebli na wymiar.
-  Updated: 2026-08-19T20:14:44Z
+  Updated: 2026-11-18T03:07:37Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888674838.jpg?v=1767348849
   Price: 384,00 zł PLN
 - [Ombra](https://qldecor.shop/products/ombra): Front Ombra z wyrazistą teksturą dębu w odcieniu ciemnego grafitu. Trwały front WoodSense do nowoczesnych mebli na wymiar od QLdecor.
-  Updated: 2026-08-19T20:14:44Z
+  Updated: 2026-11-18T03:27:28Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888605270.jpg?v=1767348849
   Price: 384,00 zł PLN
 - [Ebano](https://qldecor.shop/products/ebano): Front Ebano w niemal czarnym, grafitowym odcieniu z teksturą dębu. Elegancki front WoodSense do mebli na wymiar – sprawdź ofertę QLdecor.
-  Updated: 2026-08-19T20:14:44Z
+  Updated: 2026-11-18T03:27:29Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888755019.jpg?v=1767348849
   Price: 384,00 zł PLN
 - [Frassino](https://qldecor.shop/products/frassino): Front Frassino z teksturą polerowanego betonu w kolorze szarym. Odporny na zarysowania front WoodSense do ekskluzywnych mebli QLdecor.
-  Updated: 2026-08-21T21:12:39Z
+  Updated: 2026-11-18T02:54:29Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888608559.jpg?v=1767348849
   Price: 384,00 zł PLN
 - [Nocciola](https://qldecor.shop/products/nocciola): Front Nocciola z delikatną teksturą jasnego drewna bukowego. Wysokiej jakości front WoodSense do mebli na wymiar – oferta QLdecor.
-  Updated: 2026-08-19T20:14:44Z
+  Updated: 2026-11-18T03:07:36Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888727211.jpg?v=1767348849
   Price: 384,00 zł PLN
-- [Rovere Antico](https://qldecor.shop/products/rovere-antico): Front Rovere Antico z wyrazistym usłojeniem ciemnego drewna dębowego. Trwały front WoodSense do mebli premium – zamów w QLdecor.
-  Updated: 2026-08-19T20:14:44Z
+- [Rovere Antico – front WoodSense ciemny dąb | QLdecor](https://qldecor.shop/products/rovere-antico): Front ROVERE ANTICO WS090074LTekstura inspirowana ciemnym drewnem dębowym. Intensywny, wyraźny rysunek usłojenia podkreśla charakter frontu. Struktura drewna, uwypuklona ciemnobrązowymi przebarwieniami, jest dobrze widoczna i wyczuwalna pod dłonią. Precyzja odwzorowania sprawia, że front sprawdza się w projektach mebli wysokiej jakości.Dane techniczne:Powierzchnia: drewnopodobna, łudząco przypominająca fornirKolor: Ciemny brązGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T03:27:31Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888727067.jpg?v=1767348849
   Price: 384,00 zł PLN
-- [Notte Nero](https://qldecor.shop/products/notte-nero): Front Notte Nero w grafitowo-czarnym odcieniu z teksturą dębu. Elegancki front WoodSense do nowoczesnych mebli na wymiar QLdecor.
-  Updated: 2026-08-21T21:12:56Z
+- [Notte Nero – front WoodSense grafitowy dąb | QLdecor](https://qldecor.shop/products/notte-nero): Front NOTTE NERO Czarny WS090053LTekstura inspirowana dębowym drewnem w kolorze ciemnego grafitu. Układ rysunku odwzorowuje płytę z klejonych desek. Bardzo dobrze widoczne usłojenie, podkreślone grafitowym kolorem, uwypukla charakter drewna, a struktura jest wyczuwalna pod dłonią. Precyzja odwzorowania sprawia, że front sprawdza się w projektach mebli wysokiej jakości.Dane techniczne:Powierzchnia: drewnopodobna, łudząco przypominająca fornirKolor: CzarnyGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T02:54:30Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888511296.jpg?v=1767348849
   Price: 384,00 zł PLN
-- [Regale Dura](https://qldecor.shop/products/regale-dura): Front Regale Dura z fakturą twardego drewna dębowego w brązowym odcieniu. Wysokiej jakości front WoodSense – oferta QLdecor.
-  Updated: 2026-08-19T20:14:45Z
+- [Regale Dura – front WoodSense brązowy dąb | QLdecor](https://qldecor.shop/products/regale-dura): Front REGALE DURA Brąz WS090012LTekstura inspirowana twardym drewnem dębowym, barwionym na brązowo, odwzorowująca płytę z klejonych desek. Wyraźne usłojenie, podkreślone brązowym kolorem, uwypukla charakter drewna. Struktura jest widoczna i wyczuwalna pod dłonią. Precyzja odwzorowania sprawia, że front sprawdza się w projektach mebli wysokiej jakości.Dane techniczne:Powierzchnia: drewnopodobna, łudząco przypominająca fornirKolor: Ciemny brązGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T03:27:28Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888486836.jpg?v=1767348849
   Price: 384,00 zł PLN
-- [Legno classico](https://qldecor.shop/products/legno-classico): Front Legno Classico z efektem lekko postarzonego, jasnego drewna. Elegancki front WoodSense do mebli na wymiar – QLdecor.
-  Updated: 2026-08-21T21:13:09Z
+- [Legno Classico – front WoodSense jasne drewno | QLdecor](https://qldecor.shop/products/legno-classico): Front WOODSENSE LEGNO CLASSICO Jasny Brąz WS0074Z2MTekstura inspirowana twardym, jasnym drewnem z subtelnym efektem postarzenia. Wyraźnie widoczne słoje i przyjemna w dotyku powierzchnia. Jasny odcień brązu z nutą szarości nadaje wnętrzu elegancji. Precyzja odwzorowania drewna sprawia, że front sprawdza się w projektach mebli wysokiej jakości.Dane techniczne:Powierzchnia: drewnopodobna, łudząco przypominająca fornirKolor: Jasny brązGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T03:27:34Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888413163.jpg?v=1767348849
   Price: 355,00 zł PLN
-- [Olio Dorato](https://qldecor.shop/products/olio-dorato): Front Olio Dorato z teksturą drewna bukowego w kremowo-brązowym odcieniu. Wysokiej jakości front WoodSense do mebli QLdecor.
-  Updated: 2026-08-21T21:13:26Z
+- [Olio Dorato – front WoodSense kremowy buk | QLdecor](https://qldecor.shop/products/olio-dorato): Front OLIO DORATO WS0073Z1MTekstura inspirowana drewnem bukowym. Na powierzchni bardzo dobrze widoczne, naturalne usłojenie, a delikatna struktura drewna jest widoczna i wyczuwalna pod dłonią. Precyzja odwzorowania sprawia, że front sprawdza się w projektach mebli wysokiej jakości.Dane techniczne:Powierzchnia: drewnopodobna, łudząco przypominająca fornirKolor: Kremowy brązGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T02:54:30Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888641833.jpg?v=1767348849
   Price: 355,00 zł PLN
-- [Tartufo](https://qldecor.shop/products/tartufo): Front Tartufo z wyrazistą teksturą naturalnego drewna dębowego w szarobrązowym odcieniu. Front WoodSense do mebli premium QLdecor.
-  Updated: 2026-08-19T20:14:45Z
+- [Tartufo – front WoodSense szarobrązowy dąb | QLdecor](https://qldecor.shop/products/tartufo): Front TARTUFO Brąz WS0068Z3MTekstura inspirowana naturalnym drewnem dębu. Intensywny, wyraźny rysunek usłojenia podkreśla charakter frontu. Struktura drewna, uwypuklona brązowymi przebarwieniami, jest dobrze widoczna i wyczuwalna pod dłonią. Precyzja odwzorowania sprawia, że front sprawdza się w projektach mebli wysokiej jakości.Dane techniczne:Powierzchnia: drewnopodobna, łudząco przypominająca fornirKolor: Szary brązGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T03:27:29Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888470884.jpg?v=1767348849
   Price: 355,00 zł PLN
-- [Ciliegio](https://qldecor.shop/products/ciliegio): Front Ciliegio z teksturą jesionowego drewna w jasnym brązie z gradientem odcieni. Wysokiej jakości front WoodSense – QLdecor.
-  Updated: 2026-08-19T20:14:45Z
+- [Ciliegio – front WoodSense jasny brąz | QLdecor](https://qldecor.shop/products/ciliegio): Front CILIEGIO Brąz WS0068Z1MTekstura inspirowana drewnem jesionowym w kolorze jasnego brązu. Bardzo dobrze widoczne usłojenie, podkreślone ciemnymi przebarwieniami brązu, tworzy łagodny gradient między skrajnymi odcieniami. Struktura drewna jest widoczna i wyczuwalna pod dłonią. Precyzja odwzorowania sprawia, że front sprawdza się w projektach mebli wysokiej jakości.Dane techniczne:Powierzchnia: drewnopodobna, łudząco przypominająca fornirKolor: BrązGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T03:27:29Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888605355.jpg?v=1767348849
   Price: 355,00 zł PLN
-- [Eterno](https://qldecor.shop/products/eterno): Front Eterno inspirowany palisandrem indyjskim, gęsta tekstura w ciemnym brązie. Elegancki front WoodSense do mebli QLdecor.
-  Updated: 2026-08-19T20:14:45Z
+- [Eterno – front WoodSense ciemny palisander | QLdecor](https://qldecor.shop/products/eterno): Front ETERNO Ciemny Brąz WS0065Z1MTekstura inspirowana palisandrem indyjskim. Bardzo dobrze widoczne, gęste usłojenie sugeruje mocne, twarde drewno, a delikatna struktura jest widoczna i wyczuwalna pod dłonią. Precyzja odwzorowania sprawia, że front sprawdza się w projektach mebli wysokiej jakości.Dane techniczne:Powierzchnia: drewnopodobna, łudząco przypominająca fornirKolor: Ciemny brązGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T03:27:58Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888686214.jpg?v=1767348849
   Price: 355,00 zł PLN
-- [Castagno](https://qldecor.shop/products/castagno): Front Castagno z efektem postarzanego drewna kasztanowca w szarobrązowym odcieniu. Front WoodSense premium – oferta QLdecor.
-  Updated: 2026-08-19T20:14:45Z
+- [Castagno – front WoodSense szarobrązowy kasztan | QLdecor](https://qldecor.shop/products/castagno): Front CASTAGNO Szary Brąz WS005801MTekstura inspirowana postarzanym drewnem kasztanowca. Szlachetne usłojenie jest doskonale widoczne, a szary odcień przechodzący w brąz podkreśla charakter frontu. Elegancka struktura drewna jest widoczna i wyczuwalna pod dłonią. Precyzja odwzorowania sprawia, że front sprawdza się w projektach mebli najwyższej jakości.Dane techniczne:Powierzchnia: drewnopodobna, łudząco przypominająca fornirKolor: Szary brązGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T03:28:00Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888712502.jpg?v=1767348849
   Price: 355,00 zł PLN
-- [Stella](https://qldecor.shop/products/stella): Front Stella z efektem bielonego, postarzanego drewna i szarym usłojeniem. Elegancki front WoodSense do mebli na wymiar QLdecor.
-  Updated: 2026-08-21T21:25:38Z
+- [Stella – front WoodSense bielone drewno | QLdecor](https://qldecor.shop/products/stella): Front biały STELLA WS004801MTekstura inspirowana postarzanym, bielonym drewnem. Na powierzchni widoczne jest szare usłojenie, a prosta struktura drewna jest widoczna i wyczuwalna pod dłonią. Precyzja odwzorowania sprawia, że front sprawdza się w projektach mebli najwyższej jakości.Dane techniczne:Powierzchnia: drewnopodobna, łudząco przypominająca fornirKolor: BiałyGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T03:27:59Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888712550.jpg?v=1767348849
   Price: 355,00 zł PLN
-- [Perla Nera](https://qldecor.shop/products/perla-nera): Front Perla Nera z grafitowym odcieniem dębu i wyraźnym rysunkiem usłojenia. Wysokiej jakości front WoodSense – QLdecor.
-  Updated: 2026-08-21T21:16:32Z
+- [Perla Nera – front WoodSense grafitowy dąb | QLdecor](https://qldecor.shop/products/perla-nera): Front PERLA NERA WS004501MTekstura inspirowana dębowym drewnem barwionym na grafitowo. Intensywny rysunek usłojenia podkreśla charakter frontu. Struktura drewna, uwypuklona jaśniejszymi przebarwieniami, jest dobrze widoczna i wyczuwalna pod dłonią. Precyzja odwzorowania sprawia, że front sprawdza się w projektach mebli wysokiej jakości.Dane techniczne:Powierzchnia: drewnopodobna, łudząco przypominająca fornirKolor: CzarnyGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T02:54:58Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888722444.jpg?v=1767348849
   Price: 355,00 zł PLN
-- [Essenza](https://qldecor.shop/products/essenza): Front Essenza z naturalną teksturą drewna dębowego w brązowym odcieniu. Trwały front WoodSense do mebli premium QLdecor.
-  Updated: 2026-08-19T20:14:46Z
+- [Essenza – front WoodSense brązowy dąb | QLdecor](https://qldecor.shop/products/essenza): Front ESSENZA Brąz WS0024Z3MTekstura inspirowana naturalnym drewnem dębowym. Intensywny, wyraźny rysunek usłojenia podkreśla charakter frontu. Struktura drewna, uwypuklona brązowymi przebarwieniami, jest dobrze widoczna i wyczuwalna pod dłonią. Precyzja odwzorowania sprawia, że front sprawdza się w projektach mebli wysokiej jakości.Dane techniczne:Powierzchnia: drewnopodobna, łudząco przypominająca fornirKolor: BrązGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T03:27:59Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888692236.jpg?v=1767348849
   Price: 355,00 zł PLN
-- [Quercia Dura](https://qldecor.shop/products/quercia-dura): Front Quercia Dura z fakturą twardego dębu przypominającą klejone deski. Wysokiej jakości front WoodSense – oferta QLdecor.
-  Updated: 2026-08-19T20:14:46Z
+- [Quercia Dura – front WoodSense twardy dąb | QLdecor](https://qldecor.shop/products/quercia-dura): Front QUERCIA DURA Brąz WS0024Z2MTekstura inspirowana twardym drewnem dębowym, barwionym na brązowo, sprawiająca wrażenie klejonych desek. Bardzo dobrze widoczne usłojenie, podkreślone brązowym kolorem, uwypukla charakter drewna. Struktura jest widoczna i wyczuwalna pod dłonią. Precyzja odwzorowania sprawia, że front sprawdza się w projektach mebli wysokiej jakości.Dane techniczne:Powierzchnia: drewnopodobna, łudząco przypominająca fornirKolor: BrązGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T03:27:59Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888481696.jpg?v=1767348849
   Price: 355,00 zł PLN
-- [Rovere](https://qldecor.shop/products/rovere): Front Rovere z naturalną teksturą drewna dębowego i wyrazistym usłojeniem. Elegancki front WoodSense do mebli QLdecor.
-  Updated: 2026-08-19T20:14:46Z
+- [Rovere – front WoodSense naturalny dąb | QLdecor](https://qldecor.shop/products/rovere): Front ROVERE Brąz WS0021Z3MTekstura inspirowana naturalnym drewnem dębowym. Intensywny, wyraźny rysunek usłojenia podkreśla charakter frontu. Struktura drewna, uwypuklona brązowymi przebarwieniami, jest dobrze widoczna i wyczuwalna pod dłonią. Precyzja odwzorowania sprawia, że front idealnie nadaje się do projektów mebli najwyższej jakości.Dane techniczne:Powierzchnia: drewnopodobna, łudząco przypominająca fornirKolor: BrązGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T03:27:59Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888727114.jpg?v=1767348849
   Price: 355,00 zł PLN
-- [Intenso](https://qldecor.shop/products/intenso): Front Intenso z intensywną teksturą dębu w ciemnobrązowym odcieniu. Wysokiej jakości front WoodSense do mebli premium QLdecor.
-  Updated: 2026-08-21T21:13:54Z
+- [Intenso – front WoodSense ciemnobrązowy dąb | QLdecor](https://qldecor.shop/products/intenso): Front INTENSO Ciemny Brąz WS001701MTekstura inspirowana drewnem dębowym. Intensywny rysunek usłojenia podkreśla charakter frontu. Struktura drewna, uwypuklona ciemnobrązowymi przebarwieniami, jest dobrze widoczna i wyczuwalna pod dłonią. Precyzja odwzorowania sprawia, że front sprawdza się w projektach mebli wysokiej jakości.Dane techniczne:Powierzchnia: drewnopodobna, łudząco przypominająca fornirKolor: Ciemny brązGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T02:54:33Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888722334.jpg?v=1767348849
   Price: 355,00 zł PLN
-- [Velluto](https://qldecor.shop/products/velluto): Front Velluto z teksturą tkaniny w szarym odcieniu, odporny na zarysowania. Elegancki front WoodSense do mebli QLdecor.
-  Updated: 2026-08-21T21:14:07Z
+- [Velluto – front WoodSense szara tkanina | QLdecor](https://qldecor.shop/products/velluto): Front VELLUTO Materiał WS000502MPłyta pokryta powłoką inspirowaną strukturą tkaniny, o drobnej fakturze, w kolorze szarym. Wysoka jakość materiału zapewnia trwałość i elegancki wygląd, odpowiedni dla ekskluzywnych projektów.Dane techniczne:Powierzchnia: o fakturze tkaninyKolor: Szary materiałGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T02:54:28Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888589432.jpg?v=1767348849
   Price: 355,00 zł PLN
-- [Autunno](https://qldecor.shop/products/autunno): Front Autunno inspirowany drewnem orzechowym z wyrazistym usłojeniem. Wysokiej jakości front WoodSense do mebli na wymiar QLdecor.
-  Updated: 2026-08-21T21:14:17Z
+- [Autunno – front WoodSense orzech | QLdecor](https://qldecor.shop/products/autunno): Front AUTUNNO Brąz WS0003Z2MTekstura inspirowana drewnem orzechowym. Wyraźnie zarysowane linie usłojenia nadają frontowi atrakcyjny wygląd, a struktura drewna jest widoczna i wyczuwalna pod dłonią. Precyzja odwzorowania sprawia, że front sprawdza się w projektach mebli wysokiej jakości.Dane techniczne:Powierzchnia: drewnopodobna, łudząco przypominająca fornirKolor: Jasny brązGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T03:27:59Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888713249.jpg?v=1767348849
   Price: 355,00 zł PLN
-- [Pietra scura](https://qldecor.shop/products/pietra-scura): Front Pietra Scura z gładką teksturą ciemnego kamienia, odporny na zarysowania. Front WoodSense premium – oferta QLdecor.
-  Updated: 2026-08-19T20:14:47Z
+- [Pietra Scura – front WoodSense ciemny kamień | QLdecor](https://qldecor.shop/products/pietra-scura): Front PIETRA SCURA Kamień WS0001Z2MPłyta pokryta jednolitą, gładką powłoką odwzorowującą ciemny kamień. Powłoka jest twarda i wykazuje wysoką odporność na zarysowania oraz ścieranie. Jakość użytych materiałów sprawia, że front sprawdza się w różnorodnych projektach, w szczególności o ekskluzywnym charakterze.Dane techniczne:Powierzchnia: jednolita, gładka, odwzorowująca ciemny kamieńKolor: Ciemny kamieńGrubość płyty: 18 mmGrubość powłoki PET: 0,45 mm (kolor błyszczący: 0,35 mm)Gęstość płyty: 700 kg/m³UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T03:29:08Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888471358.jpg?v=1767348849
   Price: 355,00 zł PLN
-- [Luminosa](https://qldecor.shop/products/luminosa): Front Luminosa z gładką teksturą szarego kamienia, twardy i odporny na ścieranie. Elegancki front WoodSense QLdecor.
-  Updated: 2026-08-19T20:14:47Z
+- [Luminosa – front WoodSense szary kamień | QLdecor](https://qldecor.shop/products/luminosa): Front szary LUMINOSA WS0001Z1MPłyta pokryta jednolitą, gładką powłoką imitującą szary kamień. Powłoka cechuje się wysoką twardością i dużą odpornością na ścieranie. Jakość użytych materiałów sprawia, że front sprawdza się w różnorodnych projektach, w szczególności o ekskluzywnym charakterze.Dane techniczne:Powierzchnia: jednolita, gładka, imitująca szary kamieńKolor: SzaryGrubość płyty: 18 mmGrubość powłoki PET: 0,45 mm (kolor błyszczący: 0,35 mm)Gęstość płyty: 700 kg/m³UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T03:28:34Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4883151476.jpg?v=1767348849
   Price: 355,00 zł PLN
-- [Moka](https://qldecor.shop/products/moka): Front Moka z ciepłą, jasną teksturą tkaniny i delikatnymi przebarwieniami. Wysokiej jakości front WoodSense do mebli QLdecor.
-  Updated: 2026-08-21T21:43:31Z
+- [Moka – front WoodSense jasna tkanina | QLdecor](https://qldecor.shop/products/moka): Front MOKA Jasna tekstura WS000101MTekstura inspirowana strukturą tkaniny. Efekt podkreślają widoczne przebarwienia płótna. Powierzchnia jest przyjemna w dotyku, a jasny kolor daje wrażenie ciepła. Precyzja odwzorowania sprawia, że front sprawdza się w projektach mebli dla wymagających klientów.Dane techniczne:Powierzchnia: o fakturze tkaninyKolor: Jasna teksturaGrubość płyty: 18 mmGrubość powłoki melaminowej: 0,18 mmMelamina o gramaturze: 90-110 g/m²UWAGA: KOLORY WIDOCZNE NA ZDJĘCIACH MOGĄ NIEZNACZNIE RÓŻNIĆ SIĘ OD RZECZYWISTYCH KOLORÓW PRODUKTUInformacje dotyczące oferty: Oferta dotyczy wyłącznie frontu o powierzchni 1 m². Potrzebujesz innego rozmiaru? Wykonujemy również fronty na wymiar, dopasowane do mebli na zamówienie. Napisz do nas na adres design@qldecor.com – przygotujemy indywidualną ofertę specjalnie dla Ciebie. Cena obejmuje pakowanie i oklejanie. Nasze fronty są dwustronne i oklejone z każdej strony.
+  Updated: 2026-11-18T03:28:35Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888649260.jpg?v=1767348849
   Price: 355,00 zł PLN
 - [Titanio Infinito – front MetaLux Ciemny Srebrny | QLdecor](https://qldecor.shop/products/titanio-infinito): Front Titanio Infinito ze szczotkowanym metalem w ciemnym srebrze. Odporna powłoka MetaLux do ekskluzywnych mebli – QLdecor.
-  Updated: 2026-08-19T20:14:47Z
+  Updated: 2026-11-18T03:29:08Z
   Vendor: QLdecor
   Product Type: Metalux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4890382441.jpg?v=1767348849
   Price: 886,00 zł PLN
 - [Acciaio Rosa – front MetaLux Srebrny | QLdecor](https://qldecor.shop/products/acciaio-rosa): Front Acciaio Rosa ze szczotkowanym aluminium w delikatnie różowym srebrze. Elegancka powłoka MetaLux do mebli premium QLdecor.
-  Updated: 2026-08-19T20:14:47Z
+  Updated: 2026-11-18T03:28:34Z
   Vendor: QLdecor
   Product Type: Metalux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4890409889.jpg?v=1767348849
   Price: 886,00 zł PLN
 - [Puro Platino – front MetaLux Srebrny | QLdecor](https://qldecor.shop/products/puro-platino): Front Puro Platino ze szczotkowanym metalem imitującym stal w kolorze srebra. Odporna powłoka MetaLux – oferta QLdecor.
-  Updated: 2026-08-19T20:14:48Z
+  Updated: 2026-11-18T03:28:35Z
   Vendor: QLdecor
   Product Type: Metalux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4890365773.jpg?v=1767348849
   Price: 886,00 zł PLN
 - [Rame Vivo – front MetaLux Miedź | QLdecor](https://qldecor.shop/products/rame-vivo): Front Rame Vivo ze szczotkowanym metalem w miedzianym kolorze, elegancki i odporny na zarysowania. Powłoka MetaLux QLdecor.
-  Updated: 2026-08-21T21:18:49Z
+  Updated: 2026-11-18T02:54:57Z
   Vendor: QLdecor
   Product Type: Metalux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4890360115.jpg?v=1767348849
   Price: 886,00 zł PLN
 - [Ambra – front MetaLux Złoty | QLdecor](https://qldecor.shop/products/ambra): Front Ambra ze szczotkowanym metalem w złotym odcieniu, odporny na zarysowania i ścieranie. Ekskluzywna powłoka MetaLux QLdecor.
-  Updated: 2026-08-21T21:19:06Z
+  Updated: 2026-11-18T02:54:30Z
   Vendor: QLdecor
   Product Type: Metalux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4890360036.jpg?v=1767348849
   Price: 886,00 zł PLN
 - [Macchiaton – front ColorPro Kaszmir Mat | QLdecor](https://qldecor.shop/products/macchiaton): Front Macchiaton z gładkim, matowym laminatem w kolorze cappuccino. Trwała powłoka ColorPro do ekskluzywnych mebli QLdecor.
-  Updated: 2026-08-19T20:14:48Z
+  Updated: 2026-11-18T03:29:10Z
   Vendor: QLdecor
   Product Type: ColorPro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4970161747.jpg?v=1767348849
   Price: 389,00 zł PLN
 - [Dalia Nera – front ColorPro Grafit Mat | QLdecor](https://qldecor.shop/products/dalia-nera): Front Dalia Nera z jednolitym, matowym laminatem w kolorze grafitowym. Elegancka i odporna powłoka ColorPro – oferta QLdecor.
-  Updated: 2026-08-19T20:14:48Z
+  Updated: 2026-11-18T03:29:10Z
   Vendor: QLdecor
   Product Type: ColorPro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4970155922.jpg?v=1767348849
   Price: 389,00 zł PLN
 - [Mistero – front ColorPro Czarny Mat | QLdecor](https://qldecor.shop/products/mistero): Front Mistero z gładkim, matowym laminatem w intensywnej czerni. Wysokiej jakości powłoka ColorPro do mebli premium QLdecor.
-  Updated: 2026-08-19T20:14:48Z
+  Updated: 2026-11-18T03:29:24Z
   Vendor: QLdecor
   Product Type: ColorPro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4969977675.jpg?v=1767348849
   Price: 389,00 zł PLN
 - [Quarzo Nocciola – front ColorPro Kaszmir | QLdecor](https://qldecor.shop/products/quarzo-nocciola): Front Quarzo Nocciola z błyszczącym laminatem w kolorze kawy z mlekiem. Odporna powłoka ColorPro do ekskluzywnych mebli QLdecor.
-  Updated: 2026-08-19T20:14:48Z
+  Updated: 2026-11-18T03:29:11Z
   Vendor: QLdecor
   Product Type: ColorPro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4883017909.jpg?v=1767348849
   Price: 389,00 zł PLN
 - [Bronzo Lucente – front ColorPro Grafit | QLdecor](https://qldecor.shop/products/bronzo-lucente): Front Bronzo Lucente z błyszczącym laminatem w kolorze grafitowym. Elegancka, odporna na zarysowania powłoka ColorPro QLdecor.
-  Updated: 2026-08-21T21:19:17Z
+  Updated: 2026-11-18T02:54:31Z
   Vendor: QLdecor
   Product Type: ColorPro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4882995350.jpg?v=1767348849
   Price: 389,00 zł PLN
 - [Ossidiana – front ColorPro Czarny Połysk | QLdecor](https://qldecor.shop/products/ossidiana): Front Ossidiana z gładkim laminatem o wysokim połysku w kolorze czerni. Odporna na zarysowania powłoka ColorPro – QLdecor.
-  Updated: 2026-08-19T20:14:49Z
+  Updated: 2026-11-18T03:29:11Z
   Vendor: QLdecor
   Product Type: ColorPro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4882987671.jpg?v=1767348849
   Price: 389,00 zł PLN
 - [Cristallo Blanco – front ColorPro Biały | QLdecor](https://qldecor.shop/products/cristallo-blanco): Front Cristallo Blanco z błyszczącym, białym laminatem odpornym na zarysowania. Ekskluzywna powłoka ColorPro do mebli QLdecor.
-  Updated: 2026-08-19T20:14:49Z
+  Updated: 2026-11-18T03:29:12Z
   Vendor: QLdecor
   Product Type: ColorPro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4970099348.jpg?v=1767348849
   Price: 389,00 zł PLN
 - [OR-8057 – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-8057): Minimalistyczny uchwyt meblowy OR-8057 z aluminium, 200 mm. Dostępny w 4 kolorach – Copper Gold, Orange, Black, Silver Grey. Sklep QLdecor.
-  Updated: 2026-11-11T08:31:24Z
+  Updated: 2026-11-14T09:41:35Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/czarny-01-01.png?v=1766138301
     Price: 105,00 zł PLN
 - [OR-8046 – aluminiowy wieszak meblowy | QLdecor](https://qldecor.shop/products/wieszak-or-8046): Kompaktowy, wytrzymały wieszak meblowy OR-8046 z aluminium. Idealny do kuchni, łazienki i garderoby. Dostępny w 4 kolorach – QLdecor.
-  Updated: 2026-11-11T08:31:25Z
+  Updated: 2026-11-17T18:42:24Z
   Vendor: QLdecor
   Product Type: Hooks
   Availability: Available
@@ -317,7 +317,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/czarnyuchwyt.png?v=1767342495
     Price: 30,00 zł PLN
 - [OR-8042 – aluminiowy wieszak meblowy | QLdecor](https://qldecor.shop/products/wieszak-or-8042): Nowoczesny, minimalistyczny wieszak meblowy OR-8042 z aluminium. Solidna konstrukcja do kuchni i garderoby. Dostępny w 4 kolorach QLdecor.
-  Updated: 2026-11-11T08:31:25Z
+  Updated: 2026-11-14T09:41:36Z
   Vendor: QLdecor
   Product Type: Hooks
   Availability: Available
@@ -339,7 +339,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/zloty-01_9df7debc-370c-4db1-9cea-7c278d52e1e2.png?v=1766138068
     Price: 22,00 zł PLN
 - [OR-8009 – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-8009): Smukły, minimalistyczny uchwyt meblowy OR-8009 w 4 długościach (150-1000 mm). Aluminium odporne na zarysowania. Sklep QLdecor.
-  Updated: 2026-11-11T08:31:25Z
+  Updated: 2026-11-14T09:41:36Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -392,8 +392,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/czarny_150-01.png?v=1766137662
     Price: 40,00 zł PLN
-- [OR-2206-2 – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-2006-2): Nowoczesny uchwyt meblowy OR-2206-2 w wersji prawej i lewej, z aluminium. Idealny do frontów meblowych i drzwi przesuwnych. QLdecor.
-  Updated: 2026-11-11T08:31:25Z
+- [OR-2006-2 – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-2006-2): Aluminiowy uchwyt wpuszczany OR-2006-2 w wersji prawej i lewej. Do frontów meblowych i drzwi przesuwnych. QLdecor.
+  Updated: 2026-11-18T03:07:39Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -463,7 +463,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/czarny-01_right.png?v=1767342147
     Price: 93,00 zł PLN
 - [OR-2007-2 – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-2007-2): Klasyczny, elegancki uchwyt meblowy OR-2007-2 z aluminium, 200 mm. Ponadczasowy design do szafek i komód. Sklep QLdecor.
-  Updated: 2026-11-11T08:31:26Z
+  Updated: 2026-11-14T09:41:36Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -485,7 +485,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/rozmiar-01.png?v=1766136855
     Price: 93,00 zł PLN
 - [OR-1119 – aluminiowa gałka meblowa | QLdecor](https://qldecor.shop/products/galka-or-1119): Minimalistyczna gałka meblowa OR-1119 z aluminium, śr. 30 mm. Uniwersalny design do mebli kuchennych i komód. Sklep QLdecor.
-  Updated: 2026-11-11T08:31:26Z
+  Updated: 2026-11-17T18:42:24Z
   Vendor: QLdecor
   Product Type: Knob
   Availability: Available
@@ -507,7 +507,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/srebrny-01_23ba7a28-7e9f-473e-9449-e6a3c3f50e41.png?v=1767342291
     Price: 28,00 zł PLN
 - [OR-1108A – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-1108a-1): Nowoczesny uchwyt meblowy OR-1108A osadzany we wgłębieniu frontu, 300 mm. Elegancki wygląd bez wystających elementów. QLdecor.
-  Updated: 2026-11-11T08:31:26Z
+  Updated: 2026-11-14T09:41:36Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -525,7 +525,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/czarny-01_c9b239f8-d7fb-43e3-bb02-efec08251fdc.png?v=1766135785
     Price: 184,00 zł PLN
 - [OR-1003 – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-1003): Precyzyjny uchwyt meblowy OR-1003 do szaf i drzwi dwuskrzydłowych. Estetyczne, zlicowane wykończenie z aluminium. Sklep QLdecor.
-  Updated: 2026-11-11T08:31:26Z
+  Updated: 2026-11-14T09:41:37Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -543,7 +543,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/czarny-01_9a5945af-e3ec-4d20-8ae9-311b4968ca75.png?v=1766135648
     Price: 304,00 zł PLN
 - [OR-029 – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-029): Elegancki uchwyt meblowy OR-029 z dekoracyjną ryflowaną fakturą. Dostępny w 2 długościach, aluminium wysokiej jakości. QLdecor.
-  Updated: 2026-11-11T08:31:27Z
+  Updated: 2026-11-14T09:41:37Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -573,7 +573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/czarny-01_b5a5f7ba-eb9c-42f5-bc94-5540d3ee79c0.png?v=1767339665
     Price: 97,00 zł PLN
 - [OR-021 – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-021): Nowoczesny uchwyt meblowy OR-021 z ryflowaną fakturą, dostępny w 5 długościach (145-1000 mm). Aluminium wysokiej jakości. QLdecor.
-  Updated: 2026-11-11T08:31:27Z
+  Updated: 2026-11-14T09:41:37Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -639,7 +639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/czarny_uchwyt_145-01.png?v=1767339526
     Price: 32,00 zł PLN
 - [OR-020A – aluminiowa gałka meblowa | QLdecor](https://qldecor.shop/products/uchwyt-or-020a-1): Elegancka gałka meblowa OR-020A z dekoracyjną ryflowaną powierzchnią, śr. 28 mm. Kompaktowa forma z aluminium. Sklep QLdecor.
-  Updated: 2026-11-11T08:31:27Z
+  Updated: 2026-11-14T09:41:37Z
   Vendor: QLdecor
   Product Type: Knob
   Availability: Available
@@ -657,7 +657,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/Zloty_uchwyt-01_1ceb4fc2-a111-45b5-983f-16f7e31e2850.png?v=1766129755
     Price: 22,00 zł PLN
 - [OR-020 – aluminiowy uchwyt meblowy T-bar | QLdecor](https://qldecor.shop/products/uchwyt-or-020): Uchwyt meblowy OR-020 w kształcie litery T z dekoracyjną fakturą. Dostępny w 5 długościach, aluminium wysokiej jakości. QLdecor.
-  Updated: 2026-11-11T08:50:31Z
+  Updated: 2026-11-14T09:41:37Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -723,133 +723,45 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/zloty-01_f23944ed-2e05-4d54-bf42-a18b1123b698.png?v=1767339605
     Price: 32,00 zł PLN
 - [Blaty stalowe ze stali nierdzewnej 304 | QLdecor](https://qldecor.shop/products/blaty-stalowe-qldecor): Blaty stalowe QLdecor ze stali nierdzewnej 304, opcjonalnie 316 na zapytanie – trwałe, higieniczne, odporne na wysokie temperatury. Wycena indywidualna.
-  Updated: 2026-11-07T06:02:08Z
+  Updated: 2026-11-17T18:42:30Z
   Vendor: QLdecor
   Product Type: Countertop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/Steel_59.jpg?v=1776094360
-  - [Snowflake steel / 10mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346190840156)
+  - [Snowflake steel / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238091612)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/clean.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Snowflake steel / 8mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238026076)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/clean.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Snowflake steel / 6mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238058844)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/clean.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Snowflake steel / 5mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238091612)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/clean.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Time mark / 10mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346190872924)
+    Price: 5627,79 zł PLN
+  - [Time mark / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238189916)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/harsh.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Time mark / 8mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238124380)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/harsh.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Time mark / 6mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238157148)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/harsh.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Time mark / 5mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238189916)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/harsh.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Cross / 10mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346190905692)
+    Price: 5627,79 zł PLN
+  - [Cross / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238288220)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/stars_6c0b5140-3e14-4ff2-af85-2504d4d3e4b7.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Cross / 8mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238222684)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/stars_6c0b5140-3e14-4ff2-af85-2504d4d3e4b7.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Cross / 6mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238255452)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/stars_6c0b5140-3e14-4ff2-af85-2504d4d3e4b7.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Cross / 5mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238288220)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/stars_6c0b5140-3e14-4ff2-af85-2504d4d3e4b7.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Willow stripe / 10mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346190938460)
+    Price: 5627,79 zł PLN
+  - [Willow stripe / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238386524)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/waves_593997e8-398f-49ec-94f5-7955226f03cf.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Willow stripe / 8mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238320988)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/waves_593997e8-398f-49ec-94f5-7955226f03cf.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Willow stripe / 6mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238353756)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/waves_593997e8-398f-49ec-94f5-7955226f03cf.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Willow stripe / 5mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238386524)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/waves_593997e8-398f-49ec-94f5-7955226f03cf.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Ice crack / 10mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346190971228)
+    Price: 5627,79 zł PLN
+  - [Ice crack / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238484828)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/spots-scaled.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Ice crack / 8mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238419292)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/spots-scaled.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Ice crack / 6mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238452060)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/spots-scaled.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Ice crack / 5mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238484828)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/spots-scaled.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Star rain / 10mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346191003996)
+    Price: 5627,79 zł PLN
+  - [Star rain / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238583132)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/squres.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Star rain / 8mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238517596)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/squres.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Star rain / 6mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238550364)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/squres.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Star rain / 5mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238583132)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/squres.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Long brush / 10mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346191069532)
+    Price: 5627,79 zł PLN
+  - [Long brush / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238779740)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/clean2-scaled.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Long brush / 8mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238714204)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/clean2-scaled.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Long brush / 6mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238746972)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/clean2-scaled.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Long brush / 5mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346238779740)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/clean2-scaled.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Martian rock / 5mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346520584540)
+    Price: 5627,79 zł PLN
+  - [Martian rock / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346520584540)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/harsh2-scaled.webp?v=1776094360
-    Price: 1,00 zł PLN
-  - [Martian rock / 10mm / 600mm](https://qldecor.shop/products/blaty-stalowe-qldecor?variant=56346537820508)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/harsh2-scaled.webp?v=1776094360
-    Price: 1,00 zł PLN
+    Price: 8441,69 zł PLN
 - [Próbnik frontów meblowych QLdecor](https://qldecor.shop/products/probnik-frontow-meblowych): Zamów próbki materiałów QLdecor i sprawdź kolor oraz strukturę płyt przed zakupem. Próbniki ColorPro i MetaLux w formie listków już za 3 zł.
-  Updated: 2026-11-11T13:17:08Z
+  Updated: 2026-11-15T18:11:15Z
   Vendor: QLdecor
   Product Type: Sampler
   Availability: Available
@@ -1019,35 +931,35 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/IMG_20251231_123103.jpg?v=1767348849
     Price: 3,00 zł PLN
 - [Próbnik blatów stalowych – 8 wzorów | QLdecor](https://qldecor.shop/products/probnik-blatow-stalowych): Próbnik blatów stalowych QLdecor z 8 wzorami faktur stali nierdzewnej 304 i 4 grubościami (5-10 mm). Idealny dla projektantów wnętrz.
-  Updated: 2026-11-11T07:42:58Z
+  Updated: 2026-11-14T09:41:38Z
   Vendor: QLdecor
   Product Type: Countertop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/IMG_3187.jpg?v=1767170392
   Price: 600,00 zł PLN
 - [Fronty stalowe na wymiar ze stali nierdzewnej | QLdecor](https://qldecor.shop/products/fronty-stalowe-qldecor): Fronty stalowe QLdecor na wymiar – prawdziwa blacha nierdzewna 1,15 mm na rdzeniu aluminiowym. Trwałe, higieniczne, szeroki wybór wzorów.
-  Updated: 2026-11-07T05:42:12Z
+  Updated: 2026-11-17T18:42:31Z
   Vendor: QLdecor
   Product Type: Front
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/Steel_134.jpg?v=1786897868
-  Price: 1,00 zł PLN
+  Price: 6273,00 zł PLN
 - [Foresta – front WoodSense Brąz | QLdecor](https://qldecor.shop/products/foresta): Front Foresta – kasztanowe drewno w czekoladowym odcieniu z wyraźnym usłojeniem. Wysokiej jakości front WoodSense – QLdecor.
-  Updated: 2026-11-11T13:18:06Z
+  Updated: 2026-11-18T03:28:35Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/WS0066Z1M_1.webp?v=1794402583
   Price: 355,00 zł PLN
-- [Pino Dorato – front WoodSense Złoty dąb | QLdecor](https://qldecor.shop/products/pino-dorato): Front Pino Dorato – olejowany dąb w ciepłym, złotym odcieniu z naturalną strukturą. Wysokiej jakości front WoodSense – QLdecor.
-  Updated: 2026-11-11T13:10:26Z
+- [Pino Dorato – front WoodSense Złoty dąb | QLdecor](https://qldecor.shop/products/pino-dorato): Front Pino Dorato – dekor olejowanego dębu w ciepłym, złotym odcieniu z wyraźną strukturą drewna. Front WoodSense – QLdecor.
+  Updated: 2026-11-18T03:07:36Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/WS0008Z1M_1.webp?v=1794402583
   Price: 355,00 zł PLN
 - [Oro – front WoodSense Jasny dąb | QLdecor](https://qldecor.shop/products/oro): Front Oro – jasny dąb z wyrazistym usłojeniem i efektem śladów po pile. Wysokiej jakości front WoodSense – QLdecor.
-  Updated: 2026-11-11T13:18:00Z
+  Updated: 2026-11-18T03:28:35Z
   Vendor: QLdecor
   Product Type: WoodSense
   Availability: Available
@@ -1056,41 +968,41 @@
 
 ## Collections
 
-- [Fronty kolorowe ColorPro](https://qldecor.shop/collections/colorpro): ColorPro to kolekcja, w której kolor staje się narzędziem kreacji. Matowe i satynowe powierzchnie o wysokiej odporności pozwalają tworzyć projekty pełne harmonii i wyrafinowania. To idealny wybór dla przestrzeni, w których design łączy się z funkcjonalnością.
-  Updated: 2026-08-19T20:14:44Z
+- [Fronty kolorowe ColorPro](https://qldecor.shop/collections/colorpro): Fronty ColorPro w jednolitych kolorach, także z połyskiem. Sprawdź dekory i zamów próbki.
+  Updated: 2026-11-17T15:08:18Z
   Total Products: 7
-- [Fronty metalizowane MetaLux](https://qldecor.shop/collections/metalux): MetaLux do połączenia metalicznego połysku z subtelną elegancją. Powierzchnia z tej serii charakteryzuje się głębią, refleksami światła i właściwymi precyzją, tworząc nowoczesny, wyrazisty efekt w aranżacjach kuchni, salonów i przestrzeni komercyjnej.
-  Updated: 2026-08-19T20:14:44Z
+- [Fronty metalizowane MetaLux](https://qldecor.shop/collections/metalux): Fronty MetaLux o metalicznym wykończeniu, m.in. w odcieniach złota i miedzi. Sprawdź dekory i zamów próbki.
+  Updated: 2026-11-17T15:08:18Z
   Total Products: 5
-- [Fronty drewnopodobne WoodSense](https://qldecor.shop/collections/woodsense): WoodSense to kolekcja inspirowana naturalnym charakterem drewna — ciepła, autentyczna i ponadczasowa. Dzięki nowoczesnej technologii odwzorowania struktur, płyty z tej serii oddają głębię i naturalność drewna, zachowując przy tym wyjątkową trwałość i łatwość użytkowania.
-  Updated: 2026-11-11T13:09:56Z
+- [Fronty drewnopodobne WoodSense](https://qldecor.shop/collections/woodsense): Fronty WoodSense z wyczuwalną strukturą drewna, na płycie MDF lub LSB. Sprawdź dekory i zamów próbki.
+  Updated: 2026-11-17T15:08:18Z
   Total Products: 25
-- [Uchwyty](https://qldecor.shop/collections/uchwyty): Uchwyt to detal, który definiuje charakter mebla. W QLdecor łączymy minimalistyczny design z precyzją wykonania w precyzyjnie wykonanych profilach aluminiowych. Różne długości, kolory i profile pozwalają tworzyć spójną kompozycję z frontami meblowymi i blatami.
-  Updated: 2026-08-21T11:04:44Z
+- [Uchwyty](https://qldecor.shop/collections/uchwyty): Aluminiowe uchwyty meblowe QLdecor w różnych długościach i kolorach, także w wersji lewej i prawej. Sprawdź modele.
+  Updated: 2026-11-17T15:08:18Z
   Total Products: 9
-- [Gałki](https://qldecor.shop/collections/galki): Gałka to subtelny akcent, który nadaje meblowi indywidualny charakter. W QLdecor łączymy ponadczasową formę z perfekcyjnym wykończeniem, tworząc detale, które harmonijnie współgrają z frontami, blatami i uchwytami. Każdy model to połączenie precyzji, proporcji i wyczucia materiału.
-  Updated: 2026-08-19T20:14:44Z
+- [Gałki](https://qldecor.shop/collections/galki): Gałki meblowe QLdecor w kilku kolorach wykończenia. Dopasuj je do frontów WoodSense, MetaLux i ColorPro.
+  Updated: 2026-11-17T15:08:18Z
   Total Products: 3
-- [Wieszaki](https://qldecor.shop/collections/wieszaki): Wieszak w naszej interpretacji to nie tylko funkcjonalny element — to świadomy detal aranżacji. Proste formy, solidne materiały i wyważone proporcje sprawiają, że projekty QLdecor wnoszą do przestrzeni porządek, elegancję i trwałość. Minimalizm w najlepszym wydaniu.
-  Updated: 2026-08-19T20:14:44Z
+- [Wieszaki](https://qldecor.shop/collections/wieszaki): Wieszaki meblowe QLdecor w kilku kolorach wykończenia. Dopasuj je do frontów i wnętrza.
+  Updated: 2026-11-17T15:08:18Z
   Total Products: 2
-- [Fronty meblowe](https://qldecor.shop/collections/fronty-meblowe): Fronty meblowe QLdecor w trzech seriach: WoodSense (dekor drewna), MetaLux (metalizowane) i ColorPro (kolory). Wykonujemy je na wymiar, z nawierceniem pod zawiasy, także do kuchni IKEA METOD. Każda seria wyróżnia się unikalną fakturą i charakterem powierzchni.
-  Updated: 2026-11-11T13:09:58Z
+- [Fronty meblowe](https://qldecor.shop/collections/fronty-meblowe): Fronty meblowe na wymiar w seriach WoodSense, MetaLux i ColorPro. Sprawdź dekory, zamów próbki i zapytaj o wycenę.
+  Updated: 2026-11-17T15:08:18Z
   Total Products: 38
-- [Blaty stalowe](https://qldecor.shop/collections/blaty-stalowe-qldecor): Styl, trwałość i nowoczesność. Solidne powierzchnie robocze ze stali nierdzewnej, które podkreślają charakter każdej aranżacji.
-  Updated: 2026-08-19T20:14:44Z
+- [Blaty stalowe](https://qldecor.shop/collections/blaty-stalowe-qldecor): Poznaj blaty stalowe QLdecor, dostępne wzory i próbki. Wyślij wymiary i zapytaj o indywidualną wycenę.
+  Updated: 2026-11-17T15:17:43Z
   Total Products: 2
 - [Meble](https://qldecor.shop/collections/meble): Nasze meble łączą ponadczasową estetykę z nowoczesną funkcjonalnością. Tworzymy biblioteki, komody i zabudowy, które harmonijnie łączą piękno drewna WoodSense z wyrafinowaną elegancją płyt MetaLux. Każdy projekt to indywidualne podejście - od analizy potrzeb, przez dobór materiałów, aż po perfekcyjne wykonanie. Dzięki temu meble QLdecor to rozwiązania, które wyróżniają się jakością i charakterem.
-  Updated: 2026-08-19T20:14:44Z
+  Updated: 2026-11-14T09:41:28Z
   Total Products: 1
 - [Outlet](https://qldecor.shop/collections/promocje): Outlet promocje i wyprzedaże
-  Updated: 2026-08-19T20:14:44Z
+  Updated: 2026-11-14T09:41:29Z
   Total Products: 1
-- [Fronty Stalowe](https://qldecor.shop/collections/fronty-ze-stali)
-  Updated: 2026-08-19T20:14:44Z
+- [Fronty Stalowe](https://qldecor.shop/collections/fronty-ze-stali): Poznaj fronty stalowe QLdecor do kuchni i mebli na wymiar. Wyślij wymiary i zapytaj o indywidualną wycenę.
+  Updated: 2026-11-17T15:25:09Z
   Total Products: 1
 - [Próbki](https://qldecor.shop/collections/probki): Zamów próbki frontów MetaLux, WoodSense, ColorPro i próbnik blatów stalowych QLdecor. Sprawdź kolor i strukturę przed zakupem. Wysyłka do Polski i całej UE.
-  Updated: 2026-11-11T07:45:36Z
+  Updated: 2026-11-16T13:29:19Z
   Total Products: 2
 
 ## Blogs
