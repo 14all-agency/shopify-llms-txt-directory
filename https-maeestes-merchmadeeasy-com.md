@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2026-09-04T16:30:11Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-11T00:58:35.179Z
+- Updated At: 2026-11-19T00:53:15.702Z
 
 ## Products
 
 - [The 90s Called - Signed CD](https://maeestes.merchmadeeasy.com/products/the-90s-called-signed-cd): SIGNED CD OF MAE ESTES' THE 90S CALLED ALBUM The 90s Called She's Not The Cheatin' Kind Moon Over Georgia (ft. Shenandoah) You Can Feel Bad The Fool Do Ya
-  Updated: 2026-11-06T22:16:06Z
+  Updated: 2026-11-14T15:36:56Z
   Vendor: Mae Estes
   Product Type: CD
   Availability: Available
@@ -98,7 +98,7 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://maeestes.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-07T12:23:02Z
+  Updated: 2026-11-15T12:25:31Z
   Total Products: 1
 - [Apparel](https://maeestes.merchmadeeasy.com/collections/apparel)
   Updated: 2026-10-22T21:25:20Z
@@ -110,10 +110,10 @@ your agent can transact everywhere.
   Updated: 2026-10-22T21:25:20Z
   Total Products: 0
 - [Music](https://maeestes.merchmadeeasy.com/collections/music)
-  Updated: 2026-11-07T12:23:02Z
+  Updated: 2026-11-15T12:25:31Z
   Total Products: 1
 - [All](https://maeestes.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-07T12:23:02Z
+  Updated: 2026-11-15T12:25:31Z
   Total Products: 1
 
 ## Store Pages
