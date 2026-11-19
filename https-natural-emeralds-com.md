@@ -6,12 +6,12 @@
 - Timezone: Europe/Prague
 - Created At: 2023-05-17T10:22:34Z
 - Contact Email: eyezsayitall1@gmail.com
-- Updated At: 2026-11-12T01:05:32.850Z
+- Updated At: 2026-11-19T01:34:45.235Z
 
 ## Products
 
 - [150 carats Natural Rough Panjshir Emeralds for Faceting](https://natural-emeralds.com/products/150-carats-natural-rough-panjshir-emeralds-for-faceting): This is parcel of 150 ct Natural raw emerald crystals from Panjsheir Afghanistan. Total Weight: 150 carats Size: 1mm to 15 mm Size in weight: under 1 to 4 carats per piece Clarity: Si, VS, VVS, Eye Clean, : no Form : Raw emeralds Origin: Panjsheir, Afghanistan Panjshir Emeralds is famous for clarity, brilliance and luster. Popular for their quality, these emeralds are considered one fo the hardest emeralds. Panjshir emerald rough stones even has apparent clarity and luster visible. With the expert hand cutting of panjshir emeralds leaves onlookers spellbound. They are mined from the majestic Panjshir Valley. Grab the panjishir  and admire the charm of panjshir emeralds.
-  Updated: 2026-07-08T21:35:38Z
+  Updated: 2026-11-16T16:53:09Z
   Vendor: Panjshir Emeralds
   Product Type: Raw Emeralds
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/7B0D2B3C-922D-48ED-9071-62785EE8819B_1_105_c.jpg?v=1686070083
   Price: $4,000.00 USD
 - [200 CT Natural Panjshir Emeralds Small Size](https://natural-emeralds.com/products/300ct-raw-panjshir-emralds): Grab these 200 carats of natural rough emeralds for Panjshir  for faceting. The stones are having rich green color Origin: Panjshir, Afghanistan Total weight: 200 carats Dimension: 5mm, 10mm, 20mm, 30mm per piece Sizes per piece: under 1 to 4 carats Shape: The stones are having mixed shape in raw i.e. hexagonal shapes and loose shape Color: Rich Green Colour Clarity: Translucent, VVS, VS, Si, Eye clean : minor oil
-  Updated: 2026-07-08T21:35:40Z
+  Updated: 2026-11-16T16:53:09Z
   Vendor: Natural Emeralds
   Product Type: panjshir emerald
   Availability: Available
@@ -74,14 +74,14 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/27C6FDA1-B41A-49D4-993C-D9528FF9D09F_1_105_c.jpg?v=1686259715
   Price: $2,000.00 USD
 - [24 Carat Natural Panjshir Emerald Parcel – 18 Pieces Untreated | Natural Emeralds](https://natural-emeralds.com/products/24-carats-natural-panjshir-emeralds): Buy a 24ct natural Panjshir emerald parcel — 18 pieces, 1–3ct each, untreated, from Afghanistan. Ideal for faceting & wholesale. Bulk pricing available.
-  Updated: 2026-07-08T21:35:41Z
+  Updated: 2026-11-16T16:17:35Z
   Vendor: Natural Emeralds
   Product Type: Panjshir Emerald
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/image_9ee21150-53fe-4726-87d5-ffa18046cae6.heic?v=1703103134
   Price: $950.00 USD
 - [6mm Round Natural Swat Emerald Pair 2.10ct – Loose Matched Stones | Natural Emeralds](https://natural-emeralds.com/products/6-0-mm-round-swat-emerald-pair): Buy a matched 6mm round natural Swat emerald pair — 2.10ct total, vivid green, calibrated. Ideal for earrings & custom jewelry. Wholesale pricing available.
-  Updated: 2026-07-08T21:35:41Z
+  Updated: 2026-11-16T16:23:05Z
   Vendor: Natural Emeralds
   Product Type: Loose Emeralds - Faceted Emeralds- Cut Emeralds
   Availability: Available
@@ -327,7 +327,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/H226e897bdc1945b0afe9f9a1f0642bf24.webp?v=1704139806
     Price: $873.71 USD
 - [Natural Zambian Emerald Square Shape 1.5–3mm Loose Melee | Natural Emeralds](https://natural-emeralds.com/products/emerald-square-shape-1-5mm-3-0mm-genuine-zambian-green-loose-gemstone-good-quality-natural-emerald): Buy calibrated square natural Zambian emerald melee 1.5mm–3.0mm. Vivid green, princess cut, top polish. Ideal for pavé & channel settings. Wholesale pricing.
-  Updated: 2026-07-08T21:35:47Z
+  Updated: 2026-11-16T16:36:29Z
   Vendor: Natural Emeralds
   Product Type: Loose Emeralds - Faceted Emeralds- Cut Emeralds
   Availability: Available
@@ -533,7 +533,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/Hf3c861085b52467fac58bab6df95eee7T.webp?v=1704141702
     Price: $65.03 USD
 - [3.44 Carat Vivid Green Zambian Emerald Loose Stone 7x10mm | Natural Emeralds](https://natural-emeralds.com/products/3-436-carats-natural-vivid-green-natural-emerald-from-zambia): Buy a 3.436ct vivid green natural Zambian emerald — 7x10mm loose faceted stone. Intense color, premium quality. Ideal for rings & pendants. Wholesale pricing.
-  Updated: 2026-07-08T21:35:47Z
+  Updated: 2026-11-16T16:36:29Z
   Vendor: Natural Emeralds
   Product Type: Zambian Emerald
   Availability: Available
@@ -547,13 +547,13 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/B92D1D6E-8C3D-4D42-B022-A3C70515810A.jpg?v=1705091813
   Price: $3,000.00 USD
 - [0.70 carats Best Vivid Green Emerald Stone](https://natural-emeralds.com/products/0-70-carats-best-vivid-green-emerald-stone): Introducing our exquisite Vivid Green Natural Emerald, a testament to elegance and luxury. Here's why it's a must-have: Stone: Vivid Green Natural Emeralds Total Weight: 0.70 carats Total Pieces: 1 Color: brilliant Vivid Green Type: Beryl Clarity: eye-clean : Enhanced with minor oil  to preserve its natural lustre Origin: Sourced from the majestic lands of Afghanistan, embodying a rich heritage and authenticity. Grab this Vivid Green Natural Emerald, an embodiment of timeless elegance and unmatched quality.
-  Updated: 2026-07-08T21:35:49Z
+  Updated: 2026-11-16T16:47:11Z
   Vendor: Natural Emeralds
   Product Type: Loose Emeralds - Faceted Emeralds- Cut Emeralds
   Availability: Available
   Price: $499.00 USD
 - [Wholesale Rough Emerald Deals from Swat](https://natural-emeralds.com/products/2500-crars-emeralds-for--uncut-genuine-swat-emeralds): Grab any del from the this product comprises of 1000carats, 1500, 2000 or 2500 carats matching your need or budget. These stones have rich green color and crafted into beautiful beads, carving shapes or cabochons Origin: Swat Valley, Pakistan Total weight: 2500 carats Dimension: under 1 to 10 carats plus size Shape: The parcel contains crystals with proper hexagonal shapes. However the parcel must have free form loose shapes also. Color: Rich Green Colour with some calcite inclusion Clarity: Opaque to semi transparent or translucent : Minor oil
-  Updated: 2026-07-08T21:35:49Z
+  Updated: 2026-11-16T16:21:31Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
@@ -571,14 +571,14 @@
     Availability: Available
     Price: $2,200.00 USD
 - [200 carats Natural Raw Emerald Green Stones for faceting](https://natural-emeralds.com/products/200-carats-natural-raw-emerald-green-stones-for-faceting): A  of 200 carats of natural raw emerald stones, untreated Panjshir Emeralds for cutting. Stone: Natural Raw Emerald Green StonesTotal Weight: 200 carats Type: Green Beryl Sizes: under 1 to 4.5 carats Clarity: Transparent, Si, Vs, VVS, Eye clean No Heat, No  Color: Light Green Origin: Afghanistan This is very nice raw emerald stone parcel for lapidary artists and gemstone cutters! This is consisted on 200 carats of natural, untreated Panjsheir Emerald stones. Available in sizes 1- 4.5 carats, at an unbeatable price. Don't miss out on this opportunity to add to your collection!
-  Updated: 2026-07-08T21:35:49Z
+  Updated: 2026-11-16T16:21:31Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/55962870-74F1-43B2-8FE2-0DA6785D4AF2.webp?v=1712174381
   Price: $2,800.00 USD
 - [26 carats Natural Vivid Green Emeralds Rough Stones](https://natural-emeralds.com/products/emerald): Grab this vivid green Natural Rough Emerald Stones for faceting. The stones have rich green color. Other Features of the Emerald  Total Weight: ___ 26 carats Sizes: ____ Under 1 to 2.5 carat per piece Shape: ___ Loose Rough , hexagonal Crystals Clarity: ___ Translucent to semi transparent Color: ___ Vivid green, Rich Green : ___ No Origin: ___ Pakistan Photography: ______ Pictures are taken under sunshine
-  Updated: 2026-07-08T21:35:49Z
+  Updated: 2026-11-16T16:21:30Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
@@ -598,7 +598,7 @@
   Availability: Available
   Price: $550.00 USD
 - [Raw Panjshir Emerald Rough for Faceting – 400 Carat Wholesale Lot | Natural Emeralds](https://natural-emeralds.com/products/raw-beryl-emerald-for-faceting): Buy raw Panjshir emerald rough from Afghanistan — 400ct lot, hexagonal crystals, SI to eye-clean clarity. Wholesale pricing, min 150ct order.
-  Updated: 2026-07-08T21:35:50Z
+  Updated: 2026-11-16T16:17:35Z
   Vendor: Natural Emeralds
   Product Type: Loose Emeralds - Faceted Emeralds- Cut Emeralds
   Availability: Available
@@ -612,7 +612,7 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/IMG_4628.jpg?v=1716252738
   Price: $999.00 USD
 - [6 carats Loose Emerald Stone  | Panjshir Emeralds](https://natural-emeralds.com/products/loose-emerald-stone--panjshir-emeralds): Grab this budget friendly  of small bulk loose emerald stones from Panjshir, Afghanistan. They stones have si to eye clean clarity, amazing luster and brilliance. Other details of the Emerald :- Stone Name: Natural Emeralds Type: Polished Loose Emeralds Total Weight: 6 Carats Measurement: in between 3mm to 7mm per stone Clarity: Slightly included, vs, eye clean Color: Medium to good Vivid Green Species: Green, Beryl : minor oil Origin: Afghanistan
-  Updated: 2026-07-08T21:35:51Z
+  Updated: 2026-11-16T16:47:09Z
   Vendor: Natural Emeralds
   Product Type: panjshir emerald
   Availability: Available
@@ -626,21 +626,21 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/WhatsAppImage2025-01-31at10.11.57PM.jpg?v=1738343813
   Price: $2,000.00 USD
 - [1.52 Carat Octagonal Shape Panjshir Emerald-Green](https://natural-emeralds.com/products/1-52-carat-octagonal-shape-panjshir-emerald-green): Buy natural A-quality 1.52 carat Panjshir emerald from Afghanistan for making emerald engagement ring. Key Features Of Cut Emerald Stone Stone Name:_____________________ EmeraldTotal Weight:_____________________ 1.52 CaratShape:____________________________ Octagonal ShapePieces:___________________________ 1Origin:____________________________ Panjshir AfghanistanColour:___________________________ Rich GreenTreatment:________________________ No A -Quality 1.52-carat stone from Panjshir, Afghanistan maintains its natural state as it shows an attractive rich green hue. The Entire Gemstone Remains Untouched Because It Is Unaltered so Its Original Authenticity and Natural Beauty Persists. The polished gemstone achieves further luminous quality because of its already remarkable clarity combined with its exceptional brilliance. Collectors of gemstones and jewelry enthusiasts consider this gemstone.
-  Updated: 2026-07-17T14:55:56Z
+  Updated: 2026-11-16T16:47:09Z
   Vendor: Panjshir Emeralds
   Product Type: panjshir emerald
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/WhatsAppImage2025-01-31at10.13.38PM.jpg?v=1738344738
   Price: $3,500.00 USD
 - [250 carats Natural Raw Emeralds for  | Uncut Swat Emeralds](https://natural-emeralds.com/products/250-carats-natural-raw-emeralds-for--uncut-swat-emeralds): Grab these 250 carats of natural rough emeralds for , perfect for lapidary artists. The stones are from Swat Valley of Pakistan. Key Features Of Cut Emerald Stone Stone Name:_____________________ EmeraldTotal Weight:_____________________ 250 CaratShape:____________________________ roughsizes :___________________________ under carat to 8 caratOrigin:____________________________ swat pakistanColour:___________________________ rich GreenTreatment:________________________ No The Swat Emerald in its rough-cut form stands out because of its brilliant green coloration along with outstanding quality characteristics. With a total weight of 250 carats the stone can be sized between under 1 carat and 8 carats thus enabling faceting purposes. The precious stones originate from Swat in Pakistan where they retain their genuine quality without any kind of . This material portrays both high-end quality and enduring worth that creates elegant gemstones for jewelry creations.
-  Updated: 2026-07-08T21:35:52Z
+  Updated: 2026-11-16T16:21:31Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/WhatsAppImage2025-01-31at10.15.30PM.jpg?v=1738347498
   Price: $8,000.00 USD
 - [400 Carat Good Quality Rough Swat Emerald](https://natural-emeralds.com/products/400-carat-good-quality-rough-swat-emerald): Buy 400 carat good quality rough swat emerald for faceting. Key Features Of Rough Swat Emerald. Stone Name:________________________ EmeraldTotal Weight:________________________ 400 Carat Sizes:_______________________________ under carat up to 10 carat Colour :_____________________________ rich greenTreatment:_________________________ NoOrigin:_____________________________ Swat PakistanThe rough-cut Swat Emerald features both remarkable quality attributes and brilliant green shades. The 400-carat Swat gemstone can take any shape from less than 1 carat up to 10 carats due to its weight capacity hence making it suitable for faceted creations. The original stones come from Swat in Pakistan maintaining their authentic state without receiving any  procedures. This raw material demonstrates excellent quality values while providing sustainable worth to manufacture fashionable gemstones for jewelry design.
-  Updated: 2026-07-08T21:35:52Z
+  Updated: 2026-11-16T16:21:31Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
@@ -668,7 +668,7 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/WhatsAppImage2025-02-03at5.20.27PM_3.jpg?v=1738585621
   Price: $2,000.00 USD
 - [300 Carat Green Colour Rough Swat Emerald](https://natural-emeralds.com/products/300-carat-green-colour-rough-swat-emerald): Buy 300 carat green colour rough swat emerald for Cabbing and Faceting. Key Words Of Rough Peridots. Stone Name :__________________ EmeraldWeight:________________________ 300 caratSizes:_________________________ under carat to 17caratShape :______________________ roughColour:_____________________ Green Origin:_____________________ Swat PakistanTreatment:________________ No This Swat emerald of 300 carats provides the perfect conditions for cabochon cutting which can produce stone sizes from smaller than 1 carat to 17 carats. The gemstone stands out with its green hue as jewelers choose it for making elegant cabochon designs with rough material of high quality because of its versatile nature. The Swat gemstones benefit from this emerald because its attractive colors and diverse dimensions make it excellent for producing elegant jewelry that exhibits the crystal's original beauty.
-  Updated: 2026-07-08T21:35:53Z
+  Updated: 2026-11-16T16:43:12Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
@@ -682,28 +682,28 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/WhatsAppImage2025-02-06at10.38.31PM_1.jpg?v=1738863563
   Price: $2,000.00 USD
 - [Good Colour 100 Carat Emerald From Swat Pakistan](https://natural-emeralds.com/products/good-colour-100-carat-emerald-from-swat-pakistan): Buy these good colour 100 carat emeralds for faceting Key Features Of Rough Emerald Stone.Stone Name:___________________________ EmeraldTotal Weight:___________________________ 100 CaratSizes:___________________________________ Under carat upto 10 caratcolour :_________________________________ Light Green , Rich GreenTreatment:_____________________________ NoOrigin:_________________________________ Swat Pakistan The rough Swat Emerald features remarkable quality attributes and brilliant green shades. The 100-carat Swat gemstone can take any shape from less than 1 carat up to 10 carats due to its weight capacity hence making it suitable for faceted creations. The original stones come from Swat in Pakistan maintaining their authentic state without receiving any  procedures. This raw material demonstrates excellent quality values while providing sustainable worth to manufacture fashionable gemstones for jewelry design.
-  Updated: 2026-07-08T21:35:54Z
+  Updated: 2026-11-16T16:21:26Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/WhatsAppImage2025-02-06at10.55.40PM.jpg?v=1738864944
   Price: $1,500.00 USD
 - [Good Colour 1.70 Carat Emerald](https://natural-emeralds.com/products/good-colour-1-70-carat-emerald): Buy 1.70 carat emerald for ring from panjshir Afghanistan Key Features Of Cut Emerald . Stone Name :_____________________ EmeraldTotal Weight:_____________________ 1.70 CaratDimension :______________________ 7.25*5.48 *5.28Colour :_________________________ Rich Green Origin :__________________________ AfghanistanTreatment:______________________ NoAn exceptional ring has a 1.70 carat. The ring possesses dimensions of 7.255.485.28mm allowing it to combine both practical size and refined beauty. Emerald possesses a deep and rich green color which demonstrates its natural aesthetic qualities. The gemstone hails from the esteemed Afghanistan mining region which produces high-quality emeralds and preserves its original state since no  was applied. The gemstone stands out through its radiant colour along with its flawless state which makes it perfect to be the main attraction in luxury jewelry.
-  Updated: 2026-07-08T21:35:54Z
+  Updated: 2026-11-16T16:43:12Z
   Vendor: Natural Emeralds
   Product Type: Loose Emeralds - Faceted Emeralds- Cut Emeralds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/WhatsAppImage2025-02-06at11.15.31PM_1.jpg?v=1738865774
   Price: $1,000.00 USD
 - [100 Carat Natural Panjshir Emerald Rough Stones VS-VVS | Natural Emeralds](https://natural-emeralds.com/products/100-carats-natural-panjshir-emerald-stones): Buy 100ct natural Panjshir emerald rough from Makni Mine, Afghanistan. Vivid green, VS-VVS clarity, 1-2.5ct stones. Wholesale faceting grade.
-  Updated: 2026-07-08T21:35:54Z
+  Updated: 2026-11-16T16:43:12Z
   Vendor: Natural Emeralds
   Product Type: Panjshir Emerald
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/4B328DA5-A6A9-434C-BA43-CE3582D0D65C.jpg?v=1739908630
   Price: $9,500.00 USD
 - [25 Carat Natural Rough Emerald](https://natural-emeralds.com/products/25-carat-natural-rough-emerald): Buy These Good Quality 25 Carat Rough Emerald Key Features Of Rough Swat Emerald. Stone Name:___________________ EmeraldTotal Weight:___________________ 25 CaratTotal Pieces :____________________ 5Sizes :___________________________ 4 carat upto 6.60 carat Colour :_________________________ GreenOrigin:__________________________ Swat Pakistan The popularity of Rough Swat emeralds rises due to their high-quality and spectacular green color presentation. Twenty-five carats of Swat Valley emeralds from Pakistan exist in five pieces sized between 4 and 6.60 carats. These emeralds acquire market popularity because of their deep natural green coloration thus attracting gem collectors and jewelers to seek them for high-end jewelry production and investments.
-  Updated: 2026-07-08T21:35:54Z
+  Updated: 2026-11-16T16:43:11Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
@@ -724,28 +724,28 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/WhatsAppImage2025-04-16at5.11.17PM.jpg?v=1744806415
   Price: $3,000.00 USD
 - [100 Carat Facet Grade Rough Emerald Gemstone Wholesale ](https://natural-emeralds.com/products/100-carat-facet-grade-rough-emerald-gemstone-wholesale-): 100 Carat Natural emerald from Swat Pakistan. Key Features Of Rough Emeralds. Stone Name: Rough Emerald Sizes : under carat upto 6 carat colour : Rich Green Colour  : Minor Oil Origin : Swat Pakistan This is a facet grade parcel of emerald gems  with lapidary artists and gemstone cutting or crystal collector! 100 Ct . The emeralds sizes will be between less than 1 to 6 carats and will be provided at a highly competitive price. Seize this opportunity and increase your gems  - do not miss it!
-  Updated: 2026-07-08T21:35:55Z
+  Updated: 2026-11-16T16:43:11Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/Raw_Emerald.jpg?v=1761003153
   Price: $3,000.00 USD
 - [50 Carat Facet Grade Rough Emerald ](https://natural-emeralds.com/products/50-carat-facet-grade-rough-emerald-): Vivid Green 50 Ct Emerald – Raw Crystal for Collectors Key Features Of Rough Emeralds Stone Name: EmeraldWeight: 50 Carat.  : NoSize: under carat upto 5 Carat Colour: Vivid GreenClarity: Slightly InclusionsOrigin: Swat Pakistan. This 50 carats of Natural Emeralds consist of two or more lots with carats between 1 carat and 5 carats. These are natural gems that have not undergone any  and their hue is a brilliant green with small inclusions; they are referred to as Swat Pakistan emeralds- an extremely rare emerald that is famous in this region. They are beautiful in their natural form and deep color which makes them fit without any artificial feature to collectors, jewelry makers and people interested in gemstones.
-  Updated: 2026-07-08T21:35:55Z
+  Updated: 2026-11-16T16:43:11Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/Natural_Emeralds..jpg?v=1753643891
   Price: $3,000.00 USD
 - [150 Carat Facet Grade Rough Swat Emerald Small Whole  ](https://natural-emeralds.com/products/150-carat-facet-grade-rough-swat-emerald-small-): 150 Carat Rich Green Colour Rough Emerald  From Swat Pakistan Key Features Of Rough Emeralds Stone Name: Emerald Weight: 150 Carat.  : No Size: under carat upto 7 Carat Colour: Vivid Green Clarity: Slightly Inclusions Origin: Swat Pakistan. Check out a premium 150 carat parcel of rough emeralds, showcasing a rich green color and sourced directly from the famed Swat Valley in Pakistan. This natural collection features 57 untreated emerald pieces, each with slightly included clarity that reflects the authenticity of their origin. As the birthstone for May, these emeralds offer both beauty and symbolic value. The lot includes a well-balanced range of sizes, with 3 pieces under 1 carat, 17 pieces over 1 carat, 18 pieces over 2 carats, 10 pieces over 3 carats, 5 pieces over 4 carats, 3 pieces over 5 carats, and 1 standout piece weighing over 7 carats—ideal for collectors, custom jewelry designers, or gemstone investors seeking rare, natural emeralds.
-  Updated: 2026-07-08T21:35:56Z
+  Updated: 2026-11-16T16:21:31Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/Rough_Swat_Emeralds.jpg?v=1759580164
   Price: $6,000.00 USD
 - [600 Carat Rich Green Rough Swat Emerald – Big Wholesale ](https://natural-emeralds.com/products/600-carat-rough-swat-emerald-big-wholesale-): 600 Carat Rich Green Rough Swat Emerald – Big Wholesale  of Natural Untreated Gemstones Key Features Of Rough Emeralds Stone Name: Emerald Weight: 600 Carat.  : No Size: under carat upto 7 Carat Colour: Rich Green Clarity: Slightly Inclusions Origin: Swat Pakistan. This substantial 600 carat wholesale  offers a premium selection of rough emeralds in a vibrant rich green color, sourced from the famous Swat Valley of Pakistan. Known for their natural beauty, these emeralds are completely untreated and feature slightly included clarity, showcasing their authenticity and origin. As the birthstone for May, they hold both symbolic and aesthetic value. The parcel includes 34 carats of stones under 1 carat, with the remaining pieces ranging from 1 carat up to 7 carats—making it a perfect bulk  for jewelers, resellers, or collectors seeking high-quality rough emeralds in a large, valuable lot.
-  Updated: 2026-07-08T21:35:56Z
+  Updated: 2026-11-16T16:21:26Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
@@ -759,169 +759,205 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/6_Carat_Emerald_Cut_Stone.jpg?v=1759583750
   Price: $950.00 USD
 - [7.50 Carat Rich Green Colour Emerald and Trillion Cut Swat Emerald Stones ](https://natural-emeralds.com/products/7-50-carat-emerald-cut-and-trillion-cut-swat-emerald-stones-): Key Features Of Rough Emeralds Stone Name: Emerald Weight: 7.50 Carat.  : No Colour: Green Dimension: 12 x 8.5 x 7.2 mm Clarity: Included Origin: Swat Pakistan. This exquisite 7.50 carat collection features six natural emerald stones, showcasing a captivating rich green color that reflects their premium quality and natural beauty. Originating from the renowned Swat region of Pakistan, these emeralds are celebrated for their intense hue and natural brilliance. As the birthstone for May, emeralds symbolize renewal and vitality, making them a meaningful addition to any jewelry collection. These stones come untreated, maintaining their natural allure, and have visible inclusions that affirm their authenticity. The stones vary in dimension from 7.9×5.2mm to 6.2×6×3.3mm and include beautifully crafted trillion cut pieces, perfect for custom jewelry settings or collectors seeking rare and natural gems.
-  Updated: 2026-07-08T21:35:56Z
+  Updated: 2026-11-16T16:43:11Z
   Vendor: Natural Emeralds
   Product Type: Loose Emeralds - Faceted Emeralds- Cut Emeralds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/emerald_and_trillion_cut_Loose_Stones.jpg?v=1759594448
   Price: $750.00 USD
 - [44 Carat Rich Green Rough Swat Emerald Stones  – Untreated Gemstone Lot](https://natural-emeralds.com/products/44-carat-rough-swat-emerald-stones-gemstone-lot): Good Quality 44 Carat Rough Green Emeralds from Swat, Pakistan Key Features Of Rough Emeralds Stone Name: EmeraldWeight: 44 Carat.  : NoSize: 3.15, 3.40, 7.85, 8.90, and 20.80 caratsColour: GreenClarity:eye clean to slightly inclussionOrigin: Swat Pakistan. This remarkable 44 carat  features five rough emerald stones, each showcasing a vibrant rich green color and originating from the legendary Swat region of Pakistan, known for producing some of the world's finest emeralds. As the birthstone of May, these natural, untreated emeralds carry both symbolic and aesthetic value. The clarity of each stone is eye-clean to slightly inclusion their natural purity and brilliance in raw form. This set includes individual stones weighing approximately 3.15, 3.40, 7.85, 8.90, and 20.80 carats, offering a stunning range of sizes ideal for custom cutting or collection purposes. These uncut emeralds remain untreated, preserving their authentic character and making them a rare find for collectors and gemstone enthusiasts alike.
-  Updated: 2026-07-08T21:35:57Z
+  Updated: 2026-11-16T16:21:31Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/Rough_Emeralds.jpg?v=1759595997
   Price: $9,000.00 USD
 - [200 Carat Rough Green Emerald Stones ](https://natural-emeralds.com/products/200-carat-rough-green-emerald-stones-): Natural 200 Carat Rough Green Emerald Stones from Swat Pakistan Key Features Of Rough Emerald Stone Stone Name: EmeraldWeight: 200 Carat.  : NoBirthmonth: maySize: under carat upto 4.40 caratColour: greenClarity: Slightly InclussionOrigin: Swat Pakistan Check Out the natural beauty of this exclusive 200 carat rough green emerald stones , featuring uncut emeralds in their raw and authentic form. These emeralds are prized for their rich green hue and originate from the renowned Swat Valley in Pakistan, a region celebrated for producing high-quality gemstones. As the birthstone for May, these emeralds carry symbolic significance and timeless appeal. Each stone varies in size, weighing up to 4.40 carats, with slightly included clarity that adds to their natural character. These untreated emeralds have not undergone any artificial enhancements, making them a perfect choice for collectors, jewelers, or those seeking a genuine connection to nature’s raw elegance.
-  Updated: 2026-07-08T21:35:57Z
+  Updated: 2026-11-16T16:21:31Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/200_Carat_Rough_Emerald.jpg?v=1759688673
   Price: $8,000.00 USD
 - [Buy 42 Carats Natural Rough Swat Emeralds](https://natural-emeralds.com/products/42-carats-natural-rough-swat-emeralds): Gem Specifications Stone: Natural Emerald (Beryl) Total Weight: 42.9 carats Origin: Swat Valley, Pakistan : None (100% natural, untreated) Type: Faceting rough / lapidary rough Condition: Natural rough crystals Crystal System: Hexagonal Color: Grass green to deep forest green Clarity: Naturally included (jardin present) Birthstone: May Use: Faceting, cabochons, custom jewelry, lapidary practice, collection This 42.9-carat lot of natural rough emerald crystals from Swat, Pakistan is ideal for professional lapidaries and gemstone cutters. The stones are untreated, natural emerald (beryl) in their original rough state, featuring classic Swat Valley green tones. The parcel includes a mixed range of sizes, from larger faceting rough to smaller sub-carat pieces suitable for accent stones or practice. Clarity varies naturally, with characteristic emerald inclusions (jardin) confirming authenticity. Perfect for faceting, custom jewelry cutting, lapidary training, collection, or -grade rough, this lot represents genuine material from one of the world’s most respected emerald sources.
-  Updated: 2026-07-08T21:35:57Z
+  Updated: 2026-11-16T16:43:09Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/rough-swat-emerald-.jpg?v=1766077468
   Price: $1,690.00 USD
 - [5.3 Carats Natural Vivid Green Rough Emeralds | Faceting & Cutting Grade](https://natural-emeralds.com/products/5-3-carats-natural-vivid-green-rough-emeralds-faceting-cutting-grade): 5.3 Carats Natural Vivid Green Rough Emeralds | Faceting & Cutting Grade Natural vivid green rough emerald parcel totaling 5.3 carats, suitable for cutting, faceting, and lapidary use. A great option for gemstone cutters and small jewelry projects. Stone: Natural Emerald (Beryl) Total Weight: 5.3 carats Color: Vivid Green Form: Rough / Raw Use: Faceting, Cutting, Lapidary
-  Updated: 2026-11-11T15:38:11Z
+  Updated: 2026-11-16T16:23:02Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/vivid-green-natural-emeralds-rough_6bf2a322-bf73-41fb-89cf-3f4675e2c180.webp?v=1767956729
   Price: $799.00 USD
 - [140 Carat Rough  Swat Emeralds | Small Whole  Lot](https://natural-emeralds.com/products/140-carat-rough-swat-emeralds-small-whole--lot): Description Gemstone: Natural EmeraldTotal Weight: Approx. 140 CaratsIndividual Sizes: From 1 Carat up to 7 CaratsColor: Rich GreenClarity: Slightly Included (Natural inclusions visible): No  (100% Natural)Origin: Swat Valley, PakistanBirthstone: MayCut: Natural / Mixed Cuts (as available)Usage: Ideal for Rings, Pendants, Earrings & Custom JewelryCertification: Available on request (optional line) Is the emerald natural or treated? Yes, the emerald is 100% natural and has no . It has not been oiled, heated, or enhanced in any way. What is the origin of the rough emerald? The rough emerald originates from the Swat Valley, Pakistan.
-  Updated: 2026-07-08T21:35:58Z
+  Updated: 2026-11-16T16:21:31Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/Rough_Emeralds_90.jpg?v=1768589821
   Price: $10,500.00 USD
 - [11 Carat Natural Zambian Emerald Single Stone  | Natural Emeralds](https://natural-emeralds.com/products/11-carats-natural-zambian-emerald): Buy an 11ct natural Zambian emerald — 18.8x13.5mm, rich vivid green, oiled. Rare single stone . Ideal for statement jewelry & .
-  Updated: 2026-07-08T21:35:58Z
+  Updated: 2026-11-16T16:23:06Z
   Vendor: Natural Emeralds
   Product Type: Loose Emeralds - Faceted Emeralds- Cut Emeralds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/Loose_Emerald_Stone.jpg?v=1769098366
   Price: $4,800.00 USD
-- [9.56 Carat Rough Swat Emerald Crystal Parcel – 6 Pieces | Natural Emeralds](https://natural-emeralds.com/products/9-56-carats-natural-rough-swat-emerald-crystal-parcel-6-pieces-collector-cutting-grade-emeralds-from-pakistan): Buy a 9.56ct natural rough Swat emerald parcel — 6 crystals (1–2.7ct each), vivid green, untreated. Collector & cutting grade. Pakistan origin.
-  Updated: 2026-07-08T21:35:58Z
-  Vendor: Natural Emeralds
-  Product Type: Raw Emeralds
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/Close-upviewofnaturalSwatemeraldroughcrystalsshowingrichgreencolorandcrystalformation.jpg?v=1781185017
-  Price: $425.00 USD
 - [3.20 Ct Panjshir Emerald Melee Parcel | 16 Natural Loose Emerald Stones](https://natural-emeralds.com/products/3-20ct-panjshir-emerald-melee-parcel-16pcs): Shop a 3.20 carat Panjshir emerald melee parcel featuring 16 natural loose emerald stones. Bright green Afghan emeralds ideal for jewelry and collections.
-  Updated: 2026-07-08T21:35:58Z
+  Updated: 2026-11-17T05:15:20Z
   Vendor: Natural Emeralds
   Product Type: panjshir emerald
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/LooseAfghanemeraldstonesfeaturingmatchingpairsandsingleemeraldcuts.jpg?v=1781466543
   Price: $950.00 USD
 - [1.2 Carat Natural Panjshir Emerald – Emerald Cut Afghan Emerald Gemstone 8.4 x 5.8 mm](https://natural-emeralds.com/products/1-2-carat-natural-panjshir-emerald-emerald-cut-afghan-emerald-gemstone-8-4-x-5-8-mm): This beautiful 1.2 carat natural Panjshir emerald comes from the world-renowned Panjshir Valley of Afghanistan, a source celebrated for producing some of the finest emeralds available. Featuring a classic emerald cut and attractive green color, this gemstone offers exceptional character and natural beauty. Measuring 8.4 x 5.8 x 3.7 mm, the stone displays the natural inclusions commonly found in genuine emeralds, often referred to as "jardin." These internal features are a hallmark of natural emeralds and contribute to each stone's unique identity. Its elegant emerald-cut faceting enhances the gemstone's color while creating a sophisticated appearance suitable for both contemporary and traditional jewelry designs. The size and proportions make it an excellent choice for custom rings, pendants, earrings, and fine jewelry projects. Panjshir emeralds are highly sought after by collectors, jewelry designers, and gemstone enthusiasts due to their rarity, vibrant color, and growing international demand. Gemstone Details Gemstone: Natural Emerald Origin: Panjshir Valley, Afghanistan Weight: 1.2 Carats Dimensions: 8.4 x 5.8 x 3.7 mm Shape: Emerald Cut Color: Green Transparency: Transparent Clarity: Naturally Included : Not Specified Species: Beryl Variety: Emerald Perfect For Engagement Rings Fine Jewelry Rings Pendant Necklaces Custom Jewelry Designs Emerald Collectors  Gemstone Collections Approximate Jewelry Resale Value The resale value of jewelry featuring this 1.2 carat Panjshir emerald can vary significantly depending on the metal used, craftsmanship, certification, and market conditions. Approximate resale ranges: Sterling Silver Ring: $150 – $400+ 14K Gold Ring: $500 – $1,800+ 18K Gold Ring: $800 – $3,000+ Fine Jewelry Pendant: $400 – $2,000+ Designer or  Jewelry Piece: $1,500 – $5,000+ A professional gemological certificate can significantly enhance buyer confidence and potential resale value.
-  Updated: 2026-07-08T21:35:59Z
-  Vendor: Panjshir Emeralds
+  Updated: 2026-11-17T05:18:12Z
+  Vendor: Natural Emeralds
   Product Type: panjshir emerald
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/LooseAfghanPanjshirEmerald.jpg?v=1781549757
   Price: $550.00 USD
 - [1.98 Carat Natural Swat Emerald Emerald Cut Loose Stone | Natural Emeralds](https://natural-emeralds.com/products/1-98-carat-natural-swat-emerald-emerald-cut): Buy a 1.98ct natural Swat Emerald in emerald cut — rich vivid green, loose stone from Pakistan. Ideal for rings & pendants. Wholesale pricing available.
-  Updated: 2026-07-08T21:35:59Z
+  Updated: 2026-11-16T16:58:06Z
   Vendor: Natural Emeralds
   Product Type: Swat Emerald
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/NaturalSwatemerald1.98ctvividgreenemeraldcloseupimage.jpg?v=1781724639
   Price: $850.00 USD
 - [2.05 Carat Natural Swat Emerald Matching Pair – Emerald Cut | Natural Emeralds](https://natural-emeralds.com/products/2-05-carats-natural-swat-emerald-pair-matching-emerald-cut-green-emeralds-1-15-ct-0-90-ct): Buy a matched 2.05ct natural Swat emerald pair — 1.15ct & 0.90ct emerald cut stones from Pakistan. Ideal for earrings & custom jewelry. Wholesale pricing.
-  Updated: 2026-07-08T21:35:59Z
+  Updated: 2026-11-16T16:43:08Z
   Vendor: Natural Emeralds
   Product Type: Swat Emerald
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/IMG_0112.jpg?v=1781806131
   Price: $700.00 USD
 - [0.62 Carat Natural Emerald Pair – Panjshir & Swat Origins | Natural Emeralds](https://natural-emeralds.com/products/0-62-carat-natural-emerald-pair-panjshir-swat-emeralds-0-42-ct-and-0-20-ct): Buy a 0.62ct natural emerald pair from Panjshir (Afghanistan) & Swat (Pakistan). Vivid green, matched collector set. Ideal for jewelry & collections.
-  Updated: 2026-07-08T21:35:59Z
+  Updated: 2026-11-16T17:19:55Z
   Vendor: Natural Emeralds
   Product Type: panjshir emerald
   Availability: Available
   Price: $400.00 USD
 - [1.87 Ct Natural Panjshir Emerald Parcel | Three Emerald Cut Emeralds](https://natural-emeralds.com/products/1-87-carats-natural-panjshir-emerald-parcel-three-emerald-cut-green-emeralds-afghanistan): Natural Panjshir Emerald parcel totaling 1.87 carats. Three emerald-cut green emeralds from Afghanistan with attractive color and excellent suitability for jewelry or gemstone collections.
-  Updated: 2026-07-08T21:36:00Z
+  Updated: 2026-11-16T17:07:44Z
   Vendor: Natural Emeralds
   Product Type: Panjshir Emerald
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/IMG_7003.jpg?v=1782156177
   Price: $850.00 USD
 - [5.38 Ct Natural Swat Emerald Crystal Parcel | 7 Raw Emerald Crystals](https://natural-emeralds.com/products/5-38-carats-natural-swat-emerald-crystal-parcel-7-raw-emerald-crystals-from-pakistan): Natural Swat Emerald crystal parcel weighing 5.38 carats. Seven vivid green rough emerald crystals from Pakistan, ideal for collectors, lapidary work, , and mineral collections.
-  Updated: 2026-07-08T21:36:00Z
+  Updated: 2026-11-16T16:58:06Z
   Vendor: Raw Emeralds for Faceting
   Product Type: Swat Emerald
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/Natural_emerald_mineral_specimen_parcel.jpg?v=1782329225
   Price: $750.00 USD
 - [1.00 Ct Natural Panjshir Emerald Melee Parcel | 5 Loose Emeralds](https://natural-emeralds.com/products/1-00-carat-natural-panjshir-emerald-melee-parcel-5-stones): Shop a 1.00 carat natural Panjshir Emerald melee parcel featuring five loose emerald-cut gemstones from Afghanistan. Ideal for custom jewellery, matching sets, repairs, and collectors.
-  Updated: 2026-07-29T16:47:28Z
+  Updated: 2026-11-17T05:03:43Z
   Vendor: Natural Emeralds
   Product Type: Panjshir Emerald
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/1.00_Carat_Natural_Panjshir_Emerald_Melee_Parcel.webp?v=1785238673
-  Price: $300.00 USD
+  Price: $450.00 USD
 - [3.18 Carat Natural Rough Swat Emerald Crystal | Hexagonal Emerald Stone](https://natural-emeralds.com/products/3-18-carat-natural-rough-swat-emerald-crystal): Shop a 3.18 carat natural rough Swat emerald crystal from Pakistan. Hexagonal emerald crystal with vivid green color, perfect for collectors, lapidary artists, and custom gemstone cutting.
-  Updated: 2026-08-11T11:01:35Z
+  Updated: 2026-11-16T16:58:04Z
   Vendor: Natural Emeralds
   Product Type: Swat Emerald
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/3.18_carat_natural_rough_swat_emerald_crystal_from_paklistan.webp?v=1785433594
   Price: $400.00 USD
 - [408 Gram Natural Emerald Crystal Specimen on Matrix – Swat Valley, Pakistan | Museum Mineral](https://natural-emeralds.com/products/408-grams-emerald-specimen-swat): 408 Gram Natural Emerald Crystal Specimen from Swat Valley, Pakistan This exceptional natural emerald specimen weighs an impressive 408 grams and measures 100 × 65 × 40 mm. Recovered from the legendary emerald mines of Swat Valley, Pakistan, the specimen showcases multiple well-formed emerald crystals naturally embedded within their original host rock. The vivid green crystal clusters contrast beautifully against the light-colored matrix, creating a striking display piece prized by mineral collectors worldwide. The specimen displays several naturally terminated emerald crystals exhibiting the classic hexagonal growth habit characteristic of high-quality emeralds. The emerald crystals remain exactly as they formed underground millions of years ago, making this an authentic geological treasure rather than a cut gemstone. Whether displayed in a mineral cabinet, museum collection, office, or private gallery, this specimen represents one of Pakistan's most desirable mineral treasures. Each photograph shown is of the exact specimen you will receive. Product Specifications Mineral Natural Emerald (Beryl) Weight 408 Grams Dimensions 100 × 65 × 40 mm Origin Swat Valley, Pakistan Crystal Habit Hexagonal Emerald Crystals on Natural Matrix Colour Natural Vivid Green Matrix Natural Host Rock with Quartz and Associated Minerals  None Display Ready Yes Quantity 1 Natural Specimen Highlights Large 408 gram collector specimen. Multiple natural emerald crystals preserved in matrix. Beautiful hexagonal crystal formations visible. Excellent display specimen for collectors and museums. Authentic emerald from the famous Swat Valley mines. One-of-a-kind natural mineral specimen. The exact specimen shown in the photographs. Why Swat Emerald Specimens? Swat Valley has become internationally recognized for producing some of the world's finest emerald crystals. Their rich green colour, attractive crystal habit, and limited production make authentic Swat emerald specimens increasingly desirable among mineral collectors. Large matrix specimens containing multiple exposed emerald crystals are considerably rarer than loose rough crystals, making them sought-after additions to advanced collections. Unlike polished gemstones, mineral specimens preserve the natural geological environment in which emeralds formed. The combination of emerald crystals with quartz and surrounding host rock provides an authentic glimpse into nature's crystal-growing process. Natural Mineral Disclaimer This is a genuine natural mineral specimen. Natural fractures, inclusions, crystal contacts, and irregular surfaces are part of its geological formation and contribute to its authenticity. Images shown are of the exact specimen available for purchase. Slight colour differences may occur due to lighting and monitor settings.
-  Updated: 2026-07-31T08:36:44Z
+  Updated: 2026-11-16T16:43:05Z
   Vendor: Natural Emeralds
   Product Type: Swat Emerald Specimen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/IMG_7142.webp?v=1785154490
   Price: $400.00 USD
 - [Natural Swat Emerald Specimen on Matrix – 160 Grams](https://natural-emeralds.com/products/160-grams-swat-emerald-specimen): This natural Swat emerald specimen showcases vivid green emerald crystals naturally embedded within their original geological matrix. Sourced from the Swat region of Pakistan, the specimen preserves the natural association between emerald mineralization and the surrounding host rock, making it an attractive piece for mineral collectors, emerald enthusiasts, and natural gemstone specimen collections. The emerald-bearing area is concentrated across the upper portion of the specimen, where several green crystal formations can be seen emerging from the lighter-colored matrix. The crystals display natural growth textures, irregular surfaces, variations in transparency, and rich green coloration. Darker mineral material is also visible around portions of the emerald-bearing zone, creating natural contrast within the specimen. Natural Swat Emerald Specimen Unlike a cut emerald intended for jewelry, this piece has been preserved as a natural mineral specimen. Its character comes from the visible emerald mineralization, natural crystal growth, matrix association, and the geological environment represented by the specimen. The specimen weighs approximately 160 grams and measures 70 x 60 x 40 mm, giving it a substantial presence for display. It is suitable for a mineral collection, emerald display, educational collection, geological study, or as a representative specimen of Pakistani emerald mineralization. Emerald Mineralization in Natural Matrix Swat is one of Pakistan's recognized emerald-producing regions and is known for naturally occurring green emerald crystals. Matrix specimens offer collectors the opportunity to see emerald in its natural geological setting rather than only as a loose or faceted gemstone. In this specimen, the emerald-bearing material remains attached to the surrounding matrix. The natural crystal surfaces, fractures, inclusions, color variations, and matrix textures are part of the specimen's geological character. Specimen Details Mineral: Natural Emerald Specimen Type: Emerald on Natural Matrix Origin: Swat, Pakistan Total Specimen Weight: 160 grams Equivalent Weight: 800 carats Dimensions: 70 x 60 x 40 mm Primary Color: Green Crystal System: Hexagonal Form: Natural Crystal / Crystal Aggregate on Matrix Matrix: Natural Geological Matrix : None known; natural specimen Cut: Not Cut Polish: Natural / Unpolished Transparency: Translucent to Opaque Intended Use: Mineral Collection, Display, Education and Study For Mineral Collectors This is a natural specimen rather than a finished jewelry gemstone. The emerald-bearing areas have not been cut or polished, preserving the natural appearance of the crystals and their surrounding matrix. Natural fractures, inclusions, surface irregularities, variations in crystal size, and differences in color or transparency are expected characteristics of an untreated mineral specimen. These features contribute to its natural geological appearance. The stated 160 gram weight refers to the complete specimen, including the emerald-bearing material and surrounding matrix. It should not be interpreted as the weight of emerald alone. A natural Swat emerald specimen with visible green mineralization preserved in its geological matrix.
-  Updated: 2026-08-14T08:16:22Z
+  Updated: 2026-11-16T16:43:05Z
   Vendor: Natural Emeralds
   Product Type: Swat Emerald Specimen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/natural_swat_emerald_specimen.webp?v=1786653899
   Price: $400.00 USD
 - [Natural Swat Emerald 0.90 Carat | Vivid Green Octagon](https://natural-emeralds.com/products/0-90-carats-natural-swat-emerald): Shop this 0.90-carat natural Swat emerald from Pakistan, with vivid green colour, an octagon shape, VVS clarity and minor oil , measuring 10 mm long.
-  Updated: 2026-11-10T23:03:57Z
+  Updated: 2026-11-16T16:43:05Z
   Vendor: Natural Emeralds
   Product Type: Swat Emerald
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/0.90-ct-emerald-2.jpg?v=1794308437
   Price: $799.00 USD
-- [4 carats Vivid Green Swat Emerald Rough Crystal](https://natural-emeralds.com/products/4-carats-vivid-green-swat-emerald-rough-crystal): This stone is 4 carats with dimension of 8.2 x 7.5 x 7.3mm. The color is vivid green and has shape of hexagonal. The origin is Swat, Pakistan
-  Updated: 2026-11-11T15:33:05Z
+- [Swat Emerald 1.12 ct – Vivid Green Emerald Cut](https://natural-emeralds.com/products/1-12-carats-aa-grade-vivid-green-swat-emerald): 1.12 ct vivid green Swat emerald from Pakistan, emerald cut, 9.5 × 4.8 × 3.3 mm. A single loose gemstone with minor oil  for custom jewelry.
+  Updated: 2026-11-16T16:18:35Z
+  Vendor: Natural Emeralds
+  Product Type: Swat Emerald
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/1.12-ct-emerald-gemstone.jpg?v=1794309104
+  Price: $1,200.00 USD
+- [Swat Emerald 0.80 ct, Vivid Green Emerald Cut](https://natural-emeralds.com/products/0-80-carats-vivid-green-swat-emerald-stone): Natural 0.80 ct Swat emerald from Pakistan, with vivid green color, an emerald cut, VVS clarity and minor oil . Measures 7.7 × 4.8 × 2.8 mm.
+  Updated: 2026-11-16T16:36:23Z
+  Vendor: Natural Emeralds
+  Product Type: Swat Emerald
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/0.81ct-emerald-stone.jpg?v=1794309563
+  Price: $780.00 USD
+- [0.61 ct Swat Emerald | Vivid Green Rectangular Cut](https://natural-emeralds.com/products/0-61-ct-vivid-green-swat-emerald-aaa-color): Natural 0.61 ct Swat emerald from Pakistan with vivid green color, a rectangular cut, VVS clarity and minor oil . Measures 7.7 × 4.3 × 2.6 mm.
+  Updated: 2026-11-16T23:09:04Z
+  Vendor: Natural Emeralds
+  Product Type: Swat Emerald
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/0.64-ct-emerald-stone.jpg?v=1794309928
+  Price: $650.00 USD
+- [Swat Emerald 0.53 Carat | Vivid Green Emerald Cut](https://natural-emeralds.com/products/0-53-carats-aaa-vivid-green-color-swat-emerald-loose-stone): Natural 0.53-carat Swat emerald from Pakistan with vivid green color, an emerald cut and VVS clarity. Minor oil . Measures 7.6 × 3.6 × 2.6 mm.
+  Updated: 2026-11-13T22:29:40Z
+  Vendor: Natural Emeralds
+  Product Type: Swat Emerald
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/o.53ct-emerald.jpg?v=1794310332
+  Price: $750.00 USD
+- [Swat Emerald Rough Crystal, 4 Carats, Vivid Green](https://natural-emeralds.com/products/4-carats-vivid-green-swat-emerald-rough-crystal): 4-carat vivid green Swat emerald rough crystal from Pakistan. Hexagonal form, included clarity, and dimensions of 8.2 x 7.5 x 7.3 mm. Sold as one stone.
+  Updated: 2026-11-16T16:22:59Z
   Vendor: Natural Emeralds
   Product Type: Swat Emerald
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/4-carats-swat-emerald.jpg?v=1794405637
   Price: $750.00 USD
+- [0.50 ct Swat Emerald Rich Green | Near-Square Loose Stone](https://natural-emeralds.com/products/0-50-carats-aa-grade-swat-emerald-stone): Natural 0.50 ct Swat emerald from Pakistan, measuring 4.8 × 4.6 × 3.2 mm. A near-square loose green gemstone for custom rings, pendants or a collection.
+  Updated: 2026-11-16T23:15:20Z
+  Vendor: Natural Emeralds
+  Product Type: Swat Emerald
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/0.50carats-swat-emerald-gem.jpg?v=1794827582
+  Price: $850.00 USD
+- [Swat Emerald 0.50 ct | Untreated Vivid Green Loose Stone](https://natural-emeralds.com/products/0-50-carats-4-8-x-4-6-mm-natural-vivid-green-swat-emerald): Natural 0.50 ct Swat emerald from Pakistan, with vivid green color, VVS clarity and no . Measures 4.8 × 4.6 × 3.2 mm for custom jewelry.
+  Updated: 2026-11-18T16:24:37Z
+  Vendor: Natural Emeralds
+  Product Type: Swat Emerald
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/swat-emerald-NE.jpg?v=1795018585
+  Price: $950.00 USD
+[List Continued](https://natural-emeralds.com/a/llms-agent/llms.txt?shop=4759a1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQ3Njc4NTExOTUzNCwibGFzdF92YWx1ZSI6IjE1NDc2Nzg1MTE5NTM0In0%3D)
 
 ## Collections
 
 - [Home page](https://natural-emeralds.com/collections/frontpage): Shop natural emeralds from Swat, Panjshir, Colombia & Zambia. Rough, loose, and jewelry-grade stones. Ethically sourced, wholesale & retail pricing.
-  Updated: 2026-07-30T17:42:32Z
+  Updated: 2026-11-16T17:18:08Z
   Total Products: 16
 - [Rough Emerald Gemstones | Uncut Emeralds](https://natural-emeralds.com/collections/natural-raw-emerald-stones): Shop natural raw emerald stones for faceting and lapidary work. Ethically sourced, untreated emeralds in varied sizes and qualities. WhatsAapp: +932268999919
-  Updated: 2026-11-11T15:38:13Z
-  Total Products: 47
+  Updated: 2026-11-16T17:28:05Z
+  Total Products: 50
 - [Loose Emerald Stones](https://natural-emeralds.com/collections/natural-cut-loose-emerald-stones): Shop natural loose emerald stones — faceted, calibrated, and custom cut. Sourced from Swat, Panjshir, Zambia & Colombia. Wholesale & retail pricing available.
-  Updated: 2026-11-10T16:40:35Z
-  Total Products: 51
-- [Swat Emeralds](https://natural-emeralds.com/collections/natural-swat-emeralds): Shop vivid green Swat Emeralds — rough, loose, and cut stones sourced directly from Pakistan's Swat Valley. Wholesale & retail prices available.
-  Updated: 2026-11-11T15:38:13Z
+  Updated: 2026-11-18T16:24:31Z
   Total Products: 63
+- [Swat Emeralds](https://natural-emeralds.com/collections/natural-swat-emeralds): Shop vivid green Swat Emeralds — rough, loose, and cut stones sourced directly from Pakistan's Swat Valley. Wholesale & retail prices available.
+  Updated: 2026-11-18T16:24:31Z
+  Total Products: 66
 - [Panjshir Emeralds](https://natural-emeralds.com/collections/natural-panjshir-emeralds): Explore natural Panjshir Emeralds from Afghanistan — rough and loose stones with deep green clarity. Direct from mine, wholesale prices available.
-  Updated: 2026-10-16T11:10:26Z
-  Total Products: 35
+  Updated: 2026-11-16T17:18:08Z
+  Total Products: 34
 - [Chitral Emeralds](https://natural-emeralds.com/collections/natural-chitral-emeralds): Shop rare Chitral Emeralds from Pakistan's northern highlands — rough and loose stones with rich forest-green color. Limited supply, wholesale prices.
   Updated: 2026-07-08T21:37:14Z
   Total Products: 2
@@ -929,17 +965,23 @@
   Updated: 2026-07-08T21:37:28Z
   Total Products: 10
 - [Colombian Emeralds](https://natural-emeralds.com/collections/colombian-emeralds): Shop  Colombian emeralds from Muzo, Chivor & Coscuez. Vivid green, natural origin, exceptional quality. Loose stones & fine jewelry available.
-  Updated: 2026-07-08T21:37:15Z
-  Total Products: 7
+  Updated: 2026-11-16T16:18:07Z
+  Total Products: 6
 - [New Arrivals](https://natural-emeralds.com/collections/new-arrivals): Discover our latest emerald arrivals — freshly sourced rough and loose stones from Swat, Panjshir, Zambia & Colombia. Updated regularly, wholesale available.
-  Updated: 2026-11-11T15:38:13Z
-  Total Products: 51
+  Updated: 2026-11-18T16:24:31Z
+  Total Products: 56
 - [Emerald Jewelry](https://natural-emeralds.com/collections/emerald-jewelry): Shop handcrafted emerald jewelry set with natural stones from Swat, Panjshir, Colombia & Zambia. Rings, necklaces, earrings — custom orders welcome.
-  Updated: 2026-11-11T15:38:13Z
+  Updated: 2026-11-16T17:28:05Z
   Total Products: 32
 - [Shop All Emeralds](https://natural-emeralds.com/collections/all-emeralds): Browse our full collection of natural emeralds — rough, loose, faceted, and jewelry. Sourced from Swat, Panjshir, Zambia, Colombia & more.
-  Updated: 2026-11-11T15:38:13Z
-  Total Products: 111
+  Updated: 2026-11-18T16:24:31Z
+  Total Products: 115
+- [Emerald Fine Specimens](https://natural-emeralds.com/collections/emerald-fine-specimens)
+  Updated: 2026-11-16T16:47:50Z
+  Total Products: 3
+- [Crystals](https://natural-emeralds.com/collections/crystals)
+  Updated: 2026-11-16T16:43:46Z
+  Total Products: 3
 
 ## Blogs
 
