@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-10-10T22:38:09Z
 - Contact Email: myequitygroup@gmail.com
-- Updated At: 2026-11-12T00:16:00.063Z
+- Updated At: 2026-11-19T00:16:24.452Z
 
 ## Products
 
 - [Best Dad Ever - Woven Blanket](https://giftsforyou.net/products/best-dad-ever-woven-blanket-shop-238085-1997): Create a unique keepsake with our Heirloom Artwork Woven Blanket. This custom product is lovingly woven on a loom with cozy 100% cotton yarn. It makes an ideal gift for your beloved partner, family members, or dear friends on special occasions like birthdays, anniversaries, or any event where you want to express your love and appreciation in an unforgettable way. Product specifications: Material: 100% cotton yarn and colorful fringe Please note: This product transitions your image into a woven memento. Actual product colors may vary from mockups due to differences in available yarn colors. Each order is lovingly packaged and ready to be cherished for a lifetime!
-  Updated: 2026-11-09T10:37:02Z
+  Updated: 2026-11-14T21:43:24Z
   Vendor: ShineOn Fulfillment
   Product Type: Blanket
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/best-dad-ever-woven-blanket-9620697.jpg?v=1793127436
     Price: $109.99 USD
 - [To my beautiful daughter, I promise to love you for the rest of my life](https://giftsforyou.net/products/to-my-beautiful-daughter-i-promise-to-love-you-for-the-rest-of-my-life-shop-238085-9917): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T10:36:49Z
+  Updated: 2026-11-14T21:43:24Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -51,7 +51,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_4380_transformation_12027_6f952788-4926-4335-8113-561e13cc105c.jpg?v=1791717996
     Price: $89.95 USD
 - [To My Beautiful Daughter, Just Hold This To Feel My Love](https://giftsforyou.net/products/to-my-beautiful-daughter-just-hold-this-to-feel-my-love-shop-238085-1859): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T10:36:34Z
+  Updated: 2026-11-14T21:43:24Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -73,14 +73,14 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_4380_transformation_12027.jpg?v=1791717995
     Price: $89.95 USD
 - [Floral Scripture Love Journal](https://giftsforyou.net/products/floral-scripture-love-journal-shop-238085-7396): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-11-01T08:56:14Z
+  Updated: 2026-11-14T21:43:24Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/floral-scripture-love-journal-4544626.jpg?v=1793127435
   Price: $39.95 USD
 - [To My Granddaughter, I Love You For The Rest Of My Life](https://giftsforyou.net/products/to-my-granddaughter-i-love-you-for-the-rest-of-my-life-shop-238085-5385): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T10:36:17Z
+  Updated: 2026-11-14T21:43:24Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -102,7 +102,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-granddaughter-i-love-you-for-the-rest-of-my-life-9642123.jpg?v=1793127435
     Price: $94.95 USD
 - [To My Mom, I Will Always Be Your Little Boy](https://giftsforyou.net/products/to-my-mom-i-will-always-be-your-little-boy-shop-238085-3235): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T10:35:59Z
+  Updated: 2026-11-14T21:43:24Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -124,7 +124,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-mom-i-will-always-be-your-little-boy-9250278.jpg?v=1793127436
     Price: $94.95 USD
 - [To My Mommy, Love From Your Tummy](https://giftsforyou.net/products/to-my-mommy-love-from-your-tummy-shop-238085-8748): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T10:35:37Z
+  Updated: 2026-11-14T21:43:24Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -146,7 +146,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-mommy-love-from-your-tummy-2459715.jpg?v=1793127430
     Price: $94.95 USD
 - [Acrylic Square Design Grandpa](https://giftsforyou.net/products/acrylic-square-design-grandpa-shop-238085-7749): Combine modern technology and a heartfelt message with our Square Acrylic Plaque!Your design is printed on crystal-clear premium acrylic and will easily become the centerpiece of any room.We offer 2 wooden base options to light up and display your artwork - a corded USB powered LED base, or a battery powered LED base (batteries not included).This product is perfect for loved ones celebrating any special occasion such as holidays, anniversaries, graduations, or “just because”. Let your creativity go wild! Product Specifications: Premium acrylic with UV printed design Acrylic Depth: 0.1" (5mm) Corded Wooden Base LED Features: Full product size: 6.5" (16.5cm) height x 5.9" (15cm) width x 1.8" (4.5cm) depth USB power cord (59.5" length) with attached controller to power on / off and to customize multiple lighting and color options First Class Energy Efficient (Electric current: 0.012A Power: 1 W) Battery Powered LED Base Features Full product size: 7" (17.8cm) height x 5.9" (15cm) width x 1.8" (45cm) depth Battery Powered LED Base uses a single button to customize light options with an On / Off switch located on the bottom of base First Class Energy Efficient (Electric current: 0.012A Power: 1 W)
-  Updated: 2026-11-09T10:35:22Z
+  Updated: 2026-11-14T21:43:25Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -159,7 +159,7 @@
     Availability: Available
     Price: $39.95 USD
 - [To My Daughter, You Will Always Be My Baby Girls](https://giftsforyou.net/products/to-my-daughter-you-will-always-be-my-baby-girls-shop-238085-7590): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T10:35:05Z
+  Updated: 2026-11-14T21:43:25Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -180,7 +180,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-daughter-you-will-always-be-my-baby-girls-9993691.jpg?v=1793127435
     Price: $89.95 USD
 - [To My Granddaughter, Always Keep Me In Your Heart,](https://giftsforyou.net/products/to-my-granddaughter-always-keep-me-in-your-heart-shop-238085-9241): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T10:34:47Z
+  Updated: 2026-11-14T21:43:25Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -199,28 +199,28 @@
     Availability: Available
     Price: $89.95 USD
 - [Adventure Seeker Journal – Wilderness Sunset Notebook](https://giftsforyou.net/products/adventure-seeker-journal-wilderness-sunset-notebook-shop-238085-7250): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-11-01T08:49:51Z
+  Updated: 2026-11-14T21:43:25Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/adventure-seeker-journal-wilderness-sunset-notebook-4005179.jpg?v=1793127430
   Price: $39.95 USD
 - [Keepsake Acrylic Bundle - You Left Pawprints In My Heart](https://giftsforyou.net/products/keepsake-acrylic-bundle-you-left-pawprints-in-my-heart-shop-238085-3602): Combine modern technology and a heartfelt message with our Square Acrylic Plaque!Your design is printed on crystal-clear premium acrylic and will easily become the centerpiece of any room.We offer 2 wooden base options to light up and display your artwork - a corded USB powered LED base, or a battery powered LED base (batteries not included).This product is perfect for loved ones celebrating any special occasion such as holidays, anniversaries, graduations, or “just because”. Let your creativity go wild! Product Specifications: Premium acrylic with UV printed design Acrylic Depth: 0.1" (5mm) Corded Wooden Base LED Features: Full product size: 6.5" (16.5cm) height x 5.9" (15cm) width x 1.8" (4.5cm) depth USB power cord (59.5" length) with attached controller to power on / off and to customize multiple lighting and color options First Class Energy Efficient (Electric current: 0.012A Power: 1 W) Battery Powered LED Base Features Full product size: 7" (17.8cm) height x 5.9" (15cm) width x 1.8" (45cm) depth Battery Powered LED Base uses a single button to customize light options with an On / Off switch located on the bottom of base First Class Energy Efficient (Electric current: 0.012A Power: 1 W)
-  Updated: 2026-11-09T10:34:30Z
+  Updated: 2026-11-14T21:43:25Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/keepsake-acrylic-bundle-you-left-pawprints-in-my-heart-5626236.jpg?v=1793127431
   Price: $39.95 USD
 - [To My Daughter Butterfly Journal - Mom's Love Letter Notebook](https://giftsforyou.net/products/to-my-daughter-butterfly-journal-moms-love-letter-notebook-shop-238085-7468): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-11-01T08:57:49Z
+  Updated: 2026-11-14T21:43:25Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-daughter-butterfly-journal-moms-love-letter-notebook-3236755.jpg?v=1793127433
   Price: $39.95 USD
 - [To My Daughter, You'll Always Be My Baby Girl](https://giftsforyou.net/products/to-my-daughter-youll-always-be-my-baby-girl-shop-238085-1276): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T10:31:43Z
+  Updated: 2026-11-14T21:43:25Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -242,21 +242,21 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_4380_transformation_12027_53b60e1f-ae1d-4941-b805-a10c72d3ca7f.jpg?v=1791718086
     Price: $89.95 USD
 - [Journey Of A Thousand Miles - Graphic Journal](https://giftsforyou.net/products/journey-of-a-thousand-miles-graphic-journal-shop-238085-6796): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-11-01T08:52:37Z
+  Updated: 2026-11-14T21:43:26Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/journey-of-a-thousand-miles-graphic-journal-1446546.jpg?v=1793127436
   Price: $39.95 USD
 - [Father's Legacy Journal –  Tree of Life Notebook](https://giftsforyou.net/products/fathers-legacy-journal-tree-of-life-notebook-shop-238085-5918): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-11-01T08:50:56Z
+  Updated: 2026-11-14T21:43:26Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/fathers-legacy-journal-tree-of-life-notebook-8224956.jpg?v=1793127429
   Price: $39.95 USD
 - [To My Mom, I Know Its Not Easy](https://giftsforyou.net/products/to-my-mom-i-know-its-not-easy-shop-238085-4605): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T10:33:53Z
+  Updated: 2026-11-14T21:43:26Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -278,7 +278,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-mom-i-know-its-not-easy-6890734.jpg?v=1793127430
     Price: $94.95 USD
 - [To My Daughter, I Will Always Carry You In My Heart](https://giftsforyou.net/products/to-my-daughter-i-will-always-carry-you-in-my-heart-shop-238085-9143): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T22:41:13Z
+  Updated: 2026-11-14T21:43:26Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -300,7 +300,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_4380_transformation_12024_f58c0deb-28eb-43da-8132-19faf0f81189.jpg?v=1791718154
     Price: $89.95 USD
 - [To My Bonus Daughter, Always Shine Like The Brightest Star](https://giftsforyou.net/products/to-my-bonus-daughter-always-shine-like-the-brightest-star-shop-238085-9212): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T22:41:12Z
+  Updated: 2026-11-14T21:43:26Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -321,7 +321,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-bonus-daughter-always-shine-like-the-brightest-star-2526651.jpg?v=1793127429
     Price: $89.95 USD
 - [To My Beautiful Daughter, You Are Braver Than You Believe](https://giftsforyou.net/products/to-my-beautiful-daughter-you-are-braver-than-you-believe-shop-238085-6497): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T22:41:12Z
+  Updated: 2026-11-14T21:43:26Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -343,7 +343,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-beautiful-daughter-you-are-braver-than-you-believe-2911722.jpg?v=1793127430
     Price: $89.95 USD
 - [Family Roots, Celtic Tree Woven Blanket](https://giftsforyou.net/products/family-roots-celtic-tree-woven-blanket-shop-238085-1984): Create a unique keepsake with our Heirloom Artwork Woven Blanket. This custom product is lovingly woven on a loom with cozy 100% cotton yarn. It makes an ideal gift for your beloved partner, family members, or dear friends on special occasions like birthdays, anniversaries, or any event where you want to express your love and appreciation in an unforgettable way. Product specifications: Material: 100% cotton yarn and colorful fringe Please note: This product transitions your image into a woven memento. Actual product colors may vary from mockups due to differences in available yarn colors. Each order is lovingly packaged and ready to be cherished for a lifetime!
-  Updated: 2026-11-09T10:30:28Z
+  Updated: 2026-11-14T21:43:26Z
   Vendor: ShineOn Fulfillment
   Product Type: Blanket
   Availability: Available
@@ -361,7 +361,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/family-roots-celtic-tree-woven-blanket-5903285.jpg?v=1793127436
     Price: $109.99 USD
 - [To My Granddaughter, This Old Woman Will Always Have Your Back](https://giftsforyou.net/products/to-my-granddaughter-this-old-woman-will-always-have-your-back-shop-238085-9880): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T22:41:12Z
+  Updated: 2026-11-14T21:43:26Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -383,7 +383,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-granddaughter-this-old-woman-will-always-have-your-back-3177324.jpg?v=1793127429
     Price: $94.95 USD
 - [To My Granddaughter, Hold This Tight To Feel My Love](https://giftsforyou.net/products/to-my-granddaughter-hold-this-tight-to-feel-my-love-shop-238085-8477): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T22:41:12Z
+  Updated: 2026-11-14T21:43:27Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -405,7 +405,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_4380_transformation_12027_c33adceb-19a6-4fd6-9766-4654454b6520.jpg?v=1791718334
     Price: $89.95 USD
 - [To My Soulmate, I Love You, Forever & Always](https://giftsforyou.net/products/to-my-soulmate-i-love-you-forever-always-shop-238085-4614): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T10:26:39Z
+  Updated: 2026-11-14T21:43:27Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -427,14 +427,14 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-soulmate-i-love-you-forever-always-2346439.jpg?v=1793127437
     Price: $94.95 USD
 - [Keepsake Acrylic Bundle -To my daughter - YOU ARE MY BEST FRIEND](https://giftsforyou.net/products/keepsake-acrylic-bundle-to-my-daughter-you-are-my-best-friend-shop-238085-9990): Combine modern technology and a heartfelt message with our Square Acrylic Plaque!Your design is printed on crystal-clear premium acrylic and will easily become the centerpiece of any room.We offer 2 wooden base options to light up and display your artwork - a corded USB powered LED base, or a battery powered LED base (batteries not included).This product is perfect for loved ones celebrating any special occasion such as holidays, anniversaries, graduations, or “just because”. Let your creativity go wild! Product Specifications: Premium acrylic with UV printed design Acrylic Depth: 0.1" (5mm) Corded Wooden Base LED Features: Full product size: 6.5" (16.5cm) height x 5.9" (15cm) width x 1.8" (4.5cm) depth USB power cord (59.5" length) with attached controller to power on / off and to customize multiple lighting and color options First Class Energy Efficient (Electric current: 0.012A Power: 1 W) Battery Powered LED Base Features Full product size: 7" (17.8cm) height x 5.9" (15cm) width x 1.8" (45cm) depth Battery Powered LED Base uses a single button to customize light options with an On / Off switch located on the bottom of base First Class Energy Efficient (Electric current: 0.012A Power: 1 W)
-  Updated: 2026-11-09T10:26:24Z
+  Updated: 2026-11-14T21:43:27Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/keepsake-acrylic-bundle-to-my-daughter-you-are-my-best-friend-6711388.jpg?v=1793127431
   Price: $39.95 USD
 - [Bohemian Butterfly - Woven Blanket](https://giftsforyou.net/products/bohemian-butterfly-woven-blanket-shop-238085-1301): Create a unique keepsake with our Heirloom Artwork Woven Blanket. This custom product is lovingly woven on a loom with cozy 100% cotton yarn. It makes an ideal gift for your beloved partner, family members, or dear friends on special occasions like birthdays, anniversaries, or any event where you want to express your love and appreciation in an unforgettable way. Product specifications: Material: 100% cotton yarn and colorful fringe Please note: This product transitions your image into a woven memento. Actual product colors may vary from mockups due to differences in available yarn colors. Each order is lovingly packaged and ready to be cherished for a lifetime!
-  Updated: 2026-11-09T10:26:07Z
+  Updated: 2026-11-14T21:43:27Z
   Vendor: ShineOn Fulfillment
   Product Type: Blanket
   Availability: Available
@@ -452,7 +452,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/bohemian-butterfly-woven-blanket-5137577.jpg?v=1793127432
     Price: $109.99 USD
 - [To My Mom, Thank You For Being My Friend](https://giftsforyou.net/products/to-my-mom-thank-you-for-being-my-friend-shop-238085-5648): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T10:25:45Z
+  Updated: 2026-11-14T21:43:27Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -473,7 +473,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_4385_transformation_12107_6132b6c4-df53-4179-9bb5-80faa4312fcc.jpg?v=1791718404
     Price: $94.95 USD
 - [To My Daughter, You Will Never Lose](https://giftsforyou.net/products/to-my-daughter-you-will-never-lose-shop-238085-4946): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T22:41:12Z
+  Updated: 2026-11-14T21:43:27Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -495,7 +495,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-daughter-you-will-never-lose-3697715.jpg?v=1793127430
     Price: $89.95 USD
 - [To My Daughter, I'm Always Right Here In Your Heart](https://giftsforyou.net/products/to-my-daughter-im-always-right-here-in-your-heart-shop-238085-5515): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T10:25:00Z
+  Updated: 2026-11-14T21:43:27Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -517,7 +517,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_4380_transformation_12027_c1f0aec1-d49d-4355-8189-2700e57d0d28.jpg?v=1791718411
     Price: $89.95 USD
 - [To My Grandma - Elephant Woven Blanket](https://giftsforyou.net/products/to-my-grandma-elephant-woven-blanket-shop-238085-4341): Create a unique keepsake with our Heirloom Artwork Woven Blanket. This custom product is lovingly woven on a loom with cozy 100% cotton yarn. It makes an ideal gift for your beloved partner, family members, or dear friends on special occasions like birthdays, anniversaries, or any event where you want to express your love and appreciation in an unforgettable way. Product specifications: Material: 100% cotton yarn and colorful fringe Please note: This product transitions your image into a woven memento. Actual product colors may vary from mockups due to differences in available yarn colors. Each order is lovingly packaged and ready to be cherished for a lifetime!
-  Updated: 2026-11-09T10:24:43Z
+  Updated: 2026-11-14T21:43:28Z
   Vendor: ShineOn Fulfillment
   Product Type: Blanket
   Availability: Available
@@ -535,7 +535,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-grandma-elephant-woven-blanket-1145276.jpg?v=1793127431
     Price: $109.99 USD
 - [To My Mother, Thank You For Always Being There](https://giftsforyou.net/products/to-my-mother-thank-you-for-always-being-there-shop-238085-5515): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T10:24:22Z
+  Updated: 2026-11-14T21:43:28Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -556,14 +556,14 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-mother-thank-you-for-always-being-there-2283807.jpg?v=1793127434
     Price: $94.95 USD
 - [Keepsake Acrylic Bundle - mom - I am forever thankful](https://giftsforyou.net/products/keepsake-acrylic-bundle-mom-i-am-forever-thankful-shop-238085-6642): Combine modern technology and a heartfelt message with our Square Acrylic Plaque!Your design is printed on crystal-clear premium acrylic and will easily become the centerpiece of any room.We offer 2 wooden base options to light up and display your artwork - a corded USB powered LED base, or a battery powered LED base (batteries not included).This product is perfect for loved ones celebrating any special occasion such as holidays, anniversaries, graduations, or “just because”. Let your creativity go wild! Product Specifications: Premium acrylic with UV printed design Acrylic Depth: 0.1" (5mm) Corded Wooden Base LED Features: Full product size: 6.5" (16.5cm) height x 5.9" (15cm) width x 1.8" (4.5cm) depth USB power cord (59.5" length) with attached controller to power on / off and to customize multiple lighting and color options First Class Energy Efficient (Electric current: 0.012A Power: 1 W) Battery Powered LED Base Features Full product size: 7" (17.8cm) height x 5.9" (15cm) width x 1.8" (45cm) depth Battery Powered LED Base uses a single button to customize light options with an On / Off switch located on the bottom of base First Class Energy Efficient (Electric current: 0.012A Power: 1 W)
-  Updated: 2026-11-09T10:24:03Z
+  Updated: 2026-11-14T21:43:28Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_8202_transformation_24594_291baf2c-7418-463a-b1ea-4f57cd33e22b.jpg?v=1791718425
   Price: $39.95 USD
 - [To My Granddaughter, You'll Feel My Love Within This](https://giftsforyou.net/products/to-my-granddaughter-youll-feel-my-love-within-this-shop-238085-3579): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T10:23:49Z
+  Updated: 2026-11-14T21:43:28Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -585,7 +585,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-granddaughter-youll-feel-my-love-within-this-1997722.jpg?v=1793127430
     Price: $94.95 USD
 - [To My Sister, Thank You For Everything](https://giftsforyou.net/products/to-my-sister-thank-you-for-everything-shop-238085-9125): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T10:23:36Z
+  Updated: 2026-11-14T21:43:28Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -607,7 +607,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-sister-thank-you-for-everything-2007009.jpg?v=1793127435
     Price: $94.95 USD
 - [To My Mom, I Loved You My Whole Life](https://giftsforyou.net/products/to-my-mom-i-loved-you-my-whole-life-shop-238085-3523): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T22:41:12Z
+  Updated: 2026-11-14T21:43:28Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -629,7 +629,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-mom-i-loved-you-my-whole-life-4636761.jpg?v=1793127428
     Price: $94.95 USD
 - [To My Beautiful Daughter, You Are Special To Me](https://giftsforyou.net/products/to-my-beautiful-daughter-you-are-special-to-me-shop-238085-7550): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T22:41:11Z
+  Updated: 2026-11-14T21:43:28Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -651,7 +651,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-beautiful-daughter-you-are-special-to-me-2449661.jpg?v=1793127435
     Price: $89.95 USD
 - [To My Mom, Thank You For Everything](https://giftsforyou.net/products/to-my-mom-thank-you-for-everything-shop-238085-6106): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T22:41:11Z
+  Updated: 2026-11-14T21:43:28Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -672,7 +672,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_4385_transformation_12107_25204f76-aaab-4e8e-915f-75f2f7492bed.jpg?v=1791718509
     Price: $94.95 USD
 - [To My Wife - Heirloom Woven Blanket](https://giftsforyou.net/products/to-my-wife-heirloom-woven-blanket-shop-238085-6680): Create a unique keepsake with our Heirloom Artwork Woven Blanket. This custom product is lovingly woven on a loom with cozy 100% cotton yarn. It makes an ideal gift for your beloved partner, family members, or dear friends on special occasions like birthdays, anniversaries, or any event where you want to express your love and appreciation in an unforgettable way. Product specifications: Material: 100% cotton yarn and colorful fringe Please note: This product transitions your image into a woven memento. Actual product colors may vary from mockups due to differences in available yarn colors. Each order is lovingly packaged and ready to be cherished for a lifetime!
-  Updated: 2026-11-09T10:17:09Z
+  Updated: 2026-11-14T21:43:29Z
   Vendor: ShineOn Fulfillment
   Product Type: Blanket
   Availability: Available
@@ -690,7 +690,7 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_8413_transformation_25368_ec5c7b88-7a25-499d-8070-c6a32aad3965.jpg?v=1791718600
     Price: $109.99 USD
 - [Snuggling Kitties - Woven Blanket](https://giftsforyou.net/products/snuggling-kitties-woven-blanket-shop-238085-6797): Create a unique keepsake with our Heirloom Artwork Woven Blanket. This custom product is lovingly woven on a loom with cozy 100% cotton yarn. It makes an ideal gift for your beloved partner, family members, or dear friends on special occasions like birthdays, anniversaries, or any event where you want to express your love and appreciation in an unforgettable way. Product specifications: Material: 100% cotton yarn and colorful fringe Please note: This product transitions your image into a woven memento. Actual product colors may vary from mockups due to differences in available yarn colors. Each order is lovingly packaged and ready to be cherished for a lifetime!
-  Updated: 2026-11-09T22:41:11Z
+  Updated: 2026-11-14T21:43:29Z
   Vendor: ShineOn Fulfillment
   Product Type: Blanket
   Availability: Available
@@ -708,14 +708,14 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/snuggling-kitties-woven-blanket-5984715.jpg?v=1793127440
     Price: $109.99 USD
 - [Keepsake Acrylic Bundle - To My Daughter Wherever your journey in life may take you](https://giftsforyou.net/products/keepsake-acrylic-bundle-to-my-daughter-wherever-your-journey-in-life-may-take-you-shop-238085-2060): Combine modern technology and a heartfelt message with our Square Acrylic Plaque!Your design is printed on crystal-clear premium acrylic and will easily become the centerpiece of any room.We offer 2 wooden base options to light up and display your artwork - a corded USB powered LED base, or a battery powered LED base (batteries not included).This product is perfect for loved ones celebrating any special occasion such as holidays, anniversaries, graduations, or “just because”. Let your creativity go wild! Product Specifications: Premium acrylic with UV printed design Acrylic Depth: 0.1" (5mm) Corded Wooden Base LED Features: Full product size: 6.5" (16.5cm) height x 5.9" (15cm) width x 1.8" (4.5cm) depth USB power cord (59.5" length) with attached controller to power on / off and to customize multiple lighting and color options First Class Energy Efficient (Electric current: 0.012A Power: 1 W) Battery Powered LED Base Features Full product size: 7" (17.8cm) height x 5.9" (15cm) width x 1.8" (45cm) depth Battery Powered LED Base uses a single button to customize light options with an On / Off switch located on the bottom of base First Class Energy Efficient (Electric current: 0.012A Power: 1 W)
-  Updated: 2026-11-09T22:41:11Z
+  Updated: 2026-11-14T21:43:29Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/keepsake-acrylic-bundle-to-my-daughter-wherever-your-journey-in-life-may-take-you-3282878.jpg?v=1793127439
   Price: $39.95 USD
 - [To My Lovely Daughter, Hold This Tight To Feel My Love](https://giftsforyou.net/products/to-my-lovely-daughter-hold-this-tight-to-feel-my-love-shop-238085-7997): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-11-09T22:41:10Z
+  Updated: 2026-11-14T21:43:29Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -736,45 +736,107 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-lovely-daughter-hold-this-tight-to-feel-my-love-5340418.jpg?v=1793127369
     Price: $94.95 USD
+- [Luxury Necklace Personalized](https://giftsforyou.net/products/luxury-necklace-personalized-shop-238085-2936): Purchase This Best-seller and We Guarantee It Will Exceed Your Highest Expectations! ➜ Our patent-pending jewelry is made of high quality surgical steel with an 18k gold finish option. ➜ Our jewelry is personalized in the U.S.A by awesome working moms just like yours! We hire and train working mothers and pay a living wage. We are proud to support strong communities and keep jobs in America! This Jewelry Item Is the Perfect Keepsake! Whether for Yourself or a Loved One. ➜ Add the perfect photo of your loved ones, friends, or even pets - to create a truly unique piece of jewelry! ➜ If the custom engraving option is available, engrave onto the back of the pendant your loved one's name, your wedding date, an anniversary, or anything else you want to remember and keep you close to her heart. Each personalized piece offers exceptional craftsmanship that is fit to be an instant classic in your family. We Offer a 100% Happiness Guarantee ➜ If you’re not 100% satisfied with your purchase for any reason, please contact us and we will make it right. Your satisfaction is our ultimate goal. Product Dimensions➜ Luxury Necklace: 18-22" (45-56cm) adjustable➜ Heart Pendant: 24mm x 24mm
+  Updated: 2026-11-15T20:51:33Z
+  Vendor: ShineOn Fulfillment
+  Product Type: Jewelry
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_explainer_147_transformation_375.jpg?v=1794604960
+  - [Luxury Necklace (Silver) / Yes](https://giftsforyou.net/products/luxury-necklace-personalized-shop-238085-2936?variant=68086765945108)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_explainer_147_transformation_375.jpg?v=1794604960
+    Price: $74.95 USD
+  - [Luxury Necklace (Gold) / No](https://giftsforyou.net/products/luxury-necklace-personalized-shop-238085-2936?variant=68086765977876)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_explainer_150_transformation_27017.jpg?v=1794604964
+    Price: $74.95 USD
+  - [Luxury Necklace (Gold) / Yes](https://giftsforyou.net/products/luxury-necklace-personalized-shop-238085-2936?variant=68086766010644)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_explainer_151_transformation_403.jpg?v=1794604962
+    Price: $94.95 USD
+- [Dog Tag Personalized](https://giftsforyou.net/products/dog-tag-personalized-shop-238085-1657): Purchase This Best-seller and We Guarantee It Will Exceed Your Highest Expectations! ➜ Our patent-pending jewelry is made of high quality surgical steel with an 18k gold finish option. ➜ Our jewelry is personalized in the U.S.A by awesome working moms just like yours! We hire and train working mothers and pay a living wage. We are proud to support strong communities and keep jobs in America! This Jewelry Item Is the Perfect Keepsake! Whether for Yourself or a Loved One. ➜ Add the perfect photo of your loved ones, friends, or even pets - to create a truly unique piece of jewelry! ➜ If the custom engraving option is available, engrave onto the back of the pendant your loved one's name, your wedding date, an anniversary, or anything else you want to remember and keep you close to her heart. Each personalized piece offers exceptional craftsmanship that is fit to be an instant classic in your family. We Offer a 100% Happiness Guarantee ➜ If you’re not 100% satisfied with your purchase for any reason, please contact us and we will make it right. Your satisfaction is our ultimate goal. Product Dimensions➜ Luxury Military Necklace: 24" (61cm) with upgraded clasp➜ Dog Tag: 28.5mm x 51mm
+  Updated: 2026-11-15T20:51:32Z
+  Vendor: ShineOn Fulfillment
+  Product Type: Jewelry
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_explainer_158_transformation_412.jpg?v=1794613966
+  - [Military Chain (Silver) / No](https://giftsforyou.net/products/dog-tag-personalized-shop-238085-1657?variant=68088240537876)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_explainer_157_transformation_27008.jpg?v=1794613967
+    Price: $54.95 USD
+  - [Military Chain (Silver) / Yes](https://giftsforyou.net/products/dog-tag-personalized-shop-238085-1657?variant=68088240570644)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_explainer_158_transformation_412.jpg?v=1794613966
+    Price: $74.95 USD
+  - [Military Chain (Gold) / No](https://giftsforyou.net/products/dog-tag-personalized-shop-238085-1657?variant=68088240603412)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_explainer_159_transformation_27005.jpg?v=1794613970
+    Price: $74.95 USD
+  - [Military Chain (Gold) / Yes](https://giftsforyou.net/products/dog-tag-personalized-shop-238085-1657?variant=68088240636180)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_explainer_160_transformation_415.jpg?v=1794613969
+    Price: $94.95 USD
+- [Circle Necklace Personalized](https://giftsforyou.net/products/circle-necklace-personalized-shop-238085-3130): Purchase This Best-seller and We Guarantee It Will Exceed Your Highest Expectations! ➜ Our patent-pending jewelry is made of high quality surgical steel with an 18k gold finish option. ➜ Our jewelry is personalized in the U.S.A by awesome working moms just like yours! We hire and train working mothers and pay a living wage. We are proud to support strong communities and keep jobs in America! This Jewelry Item Is the Perfect Keepsake! Whether for Yourself or a Loved One. ➜ Add the perfect photo of your loved ones, friends, or even pets - to create a truly unique piece of jewelry! ➜ If the custom engraving option is available, engrave onto the back of the pendant your loved one's name, your wedding date, an anniversary, or anything else you want to remember and keep you close to her heart. Each personalized piece offers exceptional craftsmanship that is fit to be an instant classic in your family. We Offer a 100% Happiness Guarantee ➜ If you’re not 100% satisfied with your purchase for any reason, please contact us and we will make it right. Your satisfaction is our ultimate goal. Product Dimensions➜ Luxury Necklace: 18-22" (45-56cm) adjustable➜ Circle Pendant: 23.5mm x 23.5mm
+  Updated: 2026-11-15T20:51:32Z
+  Vendor: ShineOn Fulfillment
+  Product Type: Jewelry
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_explainer_141_transformation_369.jpg?v=1794615710
+  - [Luxury Necklace (Silver) / No](https://giftsforyou.net/products/circle-necklace-personalized-shop-238085-3130?variant=68089579536660)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_explainer_137_transformation_27010.jpg?v=1794615712
+    Price: $54.95 USD
+  - [Luxury Necklace (Silver) / Yes](https://giftsforyou.net/products/circle-necklace-personalized-shop-238085-3130?variant=68089579569428)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_explainer_141_transformation_369.jpg?v=1794615710
+    Price: $74.95 USD
+  - [Luxury Necklace (Gold) / No](https://giftsforyou.net/products/circle-necklace-personalized-shop-238085-3130?variant=68089579602196)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_explainer_138_transformation_370.jpg?v=1794615719
+    Price: $74.95 USD
+  - [Luxury Necklace (Gold) / Yes](https://giftsforyou.net/products/circle-necklace-personalized-shop-238085-3130?variant=68089579634964)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_explainer_142_transformation_365.jpg?v=1794615714
+    Price: $94.95 USD
 
 ## Collections
 
 - [Journal](https://giftsforyou.net/collections/journal)
-  Updated: 2026-10-31T21:10:58Z
+  Updated: 2026-11-14T21:43:24Z
   Total Products: 5
 - [Acrylic Plaques](https://giftsforyou.net/collections/acrylic-plaques)
-  Updated: 2026-10-29T11:19:09Z
+  Updated: 2026-11-14T21:43:24Z
   Total Products: 5
 - [Blankets](https://giftsforyou.net/collections/blankets)
-  Updated: 2026-10-27T18:54:12Z
+  Updated: 2026-11-14T21:43:24Z
   Total Products: 6
 - [To My Sister](https://giftsforyou.net/collections/to-my-sister)
-  Updated: 2026-10-27T18:54:14Z
+  Updated: 2026-11-14T21:43:24Z
   Total Products: 1
 - [To My Granddaughter](https://giftsforyou.net/collections/to-my-granddaughter)
-  Updated: 2026-10-27T18:54:15Z
+  Updated: 2026-11-14T21:43:24Z
   Total Products: 5
 - [To My Soulmate](https://giftsforyou.net/collections/to-my-soulmate)
-  Updated: 2026-10-27T18:54:17Z
+  Updated: 2026-11-14T21:43:24Z
   Total Products: 1
 - [To My Daughter](https://giftsforyou.net/collections/to-my-daughter)
-  Updated: 2026-10-31T21:10:03Z
+  Updated: 2026-11-14T21:43:24Z
   Total Products: 14
 - [To My Wife](https://giftsforyou.net/collections/to-my-wife)
-  Updated: 2026-10-27T18:54:19Z
+  Updated: 2026-11-14T21:43:24Z
   Total Products: 1
-- [To My Son](https://giftsforyou.net/collections/to-my-son)
-  Updated: 2026-10-27T18:54:21Z
-  Total Products: 0
+- [To My Son](https://giftsforyou.net/collections/to-my-son): Personalized Necklace For Loved One.
+  Updated: 2026-11-14T21:43:24Z
+  Total Products: 3
 - [To My Mom](https://giftsforyou.net/collections/to-my-mom)
-  Updated: 2026-10-31T21:10:03Z
+  Updated: 2026-11-14T21:43:24Z
   Total Products: 8
 - [To My Dad](https://giftsforyou.net/collections/to-my-dad)
-  Updated: 2026-10-31T21:08:34Z
+  Updated: 2026-11-14T21:43:24Z
   Total Products: 2
 - [Recommended Products (Wiz Email)](https://giftsforyou.net/collections/recommended-products-wiz-email): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-10-31T21:10:58Z
-  Total Products: 41
+  Updated: 2026-11-14T00:22:18Z
+  Total Products: 44
 
 ## Blogs
 
@@ -814,6 +876,15 @@
     Author: Gifts For You
   - [How a Woven Blanket for Your Wife Can Be the Most Sentimental Gift](https://giftsforyou.net/blogs/news/how-a-woven-blanket-for-your-wife-can-be-the-most-sentimental-gift): How a Woven Blanket for Your Wife Can Be the Most Sentimental Gift
     Updated: 2026-11-11T01:21:39Z
+    Author: Gifts For You
+  - [Beautiful Acrylic Keepsake Gifts for Your Wife: Why They Matter](https://giftsforyou.net/blogs/news/beautiful-acrylic-keepsake-gifts-for-your-wife-why-they-matter): Beautiful Acrylic Keepsake Gifts for Your Wife: Why They Matter
+    Updated: 2026-11-12T00:24:52Z
+    Author: Gifts For You
+  - [Exploring the Popularity of the Butterfly Woven Blanket for Gift Giving](https://giftsforyou.net/blogs/news/exploring-the-popularity-of-the-butterfly-woven-blanket-for-gift-giving): Exploring the Popularity of the Butterfly Woven Blanket for Gift Giving
+    Updated: 2026-11-17T00:03:23Z
+    Author: Gifts For You
+  - [Solving Gift Dilemmas: Finding the Ideal Sentimental Present for Your Daughter](https://giftsforyou.net/blogs/news/solving-gift-dilemmas-finding-the-ideal-sentimental-present-for-your-daughter): Solving Gift Dilemmas: Finding the Ideal Sentimental Present for Your Daughter
+    Updated: 2026-11-18T01:04:08Z
     Author: Gifts For You
 
 ## Store Pages
