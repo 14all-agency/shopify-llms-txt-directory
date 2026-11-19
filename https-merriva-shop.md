@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-23T00:25:43Z
 - Contact Email: gomezroseronald20012001@gmail.com
-- Updated At: 2026-11-11T01:11:24.124Z
+- Updated At: 2026-11-19T01:06:47.631Z
 
 ## Products
 
@@ -2120,21 +2120,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5539/8796/files/Joyfy-2Pcs-40-Christmas-Gnomes-Plush-Set-of-Christmas-Ornaments-Decorations_ee8eefb0-9395-416d-960a-4ac353f879e0.4f66b412b41a49f7742dc85226e75361.jpg?v=1790357668
   Price: $71.41 USD
-- [Merriva™ 3pcs Lighted Gift Boxes Decorations Christmas](https://merriva.shop/products/ktaxon-3pcs-lighted-gift-boxes-decorations-christmas-tree-decor-lighted-gift-boxes-decorations-for-garden-yard-home): Shop the 3pcs Lighted Gift Boxes Decorations Christmas Tree by Merriva™. Elevate your seasonal celebration with premium craftsmanship, festive charm, and tim...
-  Updated: 2026-10-03T12:11:16Z
-  Vendor: Merriva™
-  Product Type: Seasonal & Holiday Decorations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5539/8796/files/Ktaxon-3pcs-Lighted-Gift-Boxes-Decorations-Christmas-Tree-Decor-Lighted-Gift-Boxes-Decorations-for-Garden-Yard-Home_a7748081-e914-4c38-bb91-521eb3be1b6c.38a67b2c4019055c002f4020019872.jpg?v=1790357669
-  Price: $38.99 USD
-- [Merriva™ Christmas Snowflakes Lighted Outdoor Decoration Foldable](https://merriva.shop/products/ktaxon-christmas-snowflakes-lighted-outdoor-decoration-foldable-snow-for-holiday-lawn-garden-party): Shop the Christmas Snowflakes Lighted Outdoor Decoration Fo by Merriva™. Elevate your seasonal celebration with premium craftsmanship, festive charm, and tim...
-  Updated: 2026-10-03T12:11:17Z
-  Vendor: Merriva™
-  Product Type: Seasonal & Holiday Decorations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5539/8796/files/Ktaxon-Christmas-Snowflakes-Lighted-Outdoor-Decoration-Foldable-Snow-for-Holiday-Lawn-Garden-Party_8efd8663-a6ca-453e-8a4c-6745f5bed19b.7b512def2aa16f6f00b2af0c1b874903.jpg?v=1790357671
-  Price: $48.88 USD
-[List Continued](https://merriva.shop/a/llms-agent/llms.txt?shop=b1zdm7-3k.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDYyNDc0NjUyMDcxNiwibGFzdF92YWx1ZSI6IjEwNjI0NzQ2NTIwNzE2In0%3D)
+[List Continued](https://merriva.shop/a/llms-agent/llms.txt?shop=b1zdm7-3k.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDYyNDc0NjQ1NTE4MCwibGFzdF92YWx1ZSI6IjEwNjI0NzQ2NDU1MTgwIn0%3D)
 
 ## Collections
 
@@ -2226,6 +2212,18 @@
   - [Unleash Your Creativity with Merriva’s Blown Glass Cheese Ornaments for a Stunning Pre Lit Christmas Tree](https://merriva.shop/blogs/news/unleash-your-creativity-with-merriva-s-blown-glass-cheese-ornaments-for-a-stunning-pre-lit-christmas-tree): Unleash Your Creativity with Merriva’s Blown Glass Cheese Ornaments for a Stunning Pre Lit Christmas Tree
     Updated: 2026-11-10T11:02:52Z
     Author: Merriva
+  - [10 Ways to Transform Your Holiday Home Decor with Glitter Peacock Christmas Decorations](https://merriva.shop/blogs/news/10-ways-to-transform-your-holiday-home-decor-with-glitter-peacock-christmas-decorations): 10 Ways to Transform Your Holiday Home Decor with Glitter Peacock Christmas Decorations
+    Updated: 2026-11-11T11:03:54Z
+    Author: Merriva
+  - [Create a Magical Holiday Home Decor Experience with Merriva Lighted and Animated Musical Santa Claus Christmas Decorations and Realistic Artificial Christmas Trees](https://merriva.shop/blogs/news/create-a-magical-holiday-home-decor-experience-with-merriva-lighted-and-animated-musical-santa-claus-christmas-decorations-and-realistic-artificial-christmas-trees): Create a Magical Holiday Home Decor Experience with Merriva Lighted and Animated Musical Santa Claus Christmas Decorations and Realistic Artificial Christmas Trees
+    Updated: 2026-11-16T11:02:58Z
+    Author: Merriva
+  - [The Merriva™ U.S.S Enterprise Ornament is Your Ticket to Out-of-This-World Holiday Home Decor with Realistic Artificial Christmas Trees and Waterproof String Lights](https://merriva.shop/blogs/news/the-merriva™-u-s-s-enterprise-ornament-is-your-ticket-to-out-of-this-world-holiday-home-decor-with-realistic-artificial-christmas-trees-and-waterproof-string-lights): The Merriva™ U.S.S Enterprise Ornament is Your Ticket to Out-of-This-World Holiday Home Decor with Realistic Artificial Christmas Trees and Waterproof String Lights
+    Updated: 2026-11-17T11:02:14Z
+    Author: Merriva
+  - [Timeless Tradition Meets Modern Appeal: Merriva™ Glass Ornaments Transform Artificial Christmas Trees and Outdoor Holiday Decor](https://merriva.shop/blogs/news/timeless-tradition-meets-modern-appeal-merriva™-glass-ornaments-transform-artificial-christmas-trees-and-outdoor-holiday-decor): Timeless Tradition Meets Modern Appeal: Merriva™ Glass Ornaments Transform Artificial Christmas Trees and Outdoor Holiday Decor
+    Updated: 2026-11-18T11:03:37Z
+    Author: Merriva
 
 ## Store Pages
 
@@ -2241,13 +2239,13 @@
 - [Privacy Policy](https://merriva.shop/policies/privacy-policy)
   Updated: 2026-10-29T20:39:06Z
 - [Shipping Policy](https://merriva.shop/policies/shipping-policy)
-  Updated: 2026-09-25T18:00:01Z
+  Updated: 2026-11-12T09:58:54Z
 - [Refund Policy](https://merriva.shop/policies/refund-policy)
-  Updated: 2026-09-25T17:57:48Z
+  Updated: 2026-11-12T09:58:03Z
 - [Terms of Service](https://merriva.shop/policies/terms-of-service)
-  Updated: 2026-09-25T17:59:10Z
+  Updated: 2026-11-12T09:58:30Z
 - [Contact Information](https://merriva.shop/policies/contact-information)
-  Updated: 2026-09-25T18:00:15Z
+  Updated: 2026-11-12T09:59:14Z
 
 ## Optional
 
