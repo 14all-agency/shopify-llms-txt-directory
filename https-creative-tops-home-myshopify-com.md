@@ -7,7 +7,7 @@
 - Created At: 2026-09-02T13:56:49Z
 - Contact Email: info@creativetopsinc.com
 - Contact Phone: 888-702-8281
-- Updated At: 2026-11-11T01:01:41.793Z
+- Updated At: 2026-11-19T01:20:51.601Z
 
 ## Products
 
@@ -110,7 +110,7 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0590_TAUPE.jpg?v=1790185789
     Price: $72.00 USD
 - [Tiseco Purus Antibacterial Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/purus-microban-antibacterial-placemat-rectangular): Tiseco Purus rectangular placemats with Microban antibacterial protection, 13 x 18 in, set of 4. Phthalate free, made for family tables. Designed in Belgium.
-  Updated: 2026-11-06T01:46:12Z
+  Updated: 2026-11-13T07:52:10Z
   Vendor: Tiseco
   Product Type: Placemats
   Availability: Available
@@ -350,35 +350,35 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/9680TAUPE.jpg?v=1790185420
     Price: $35.00 USD
 - [Amalfi Glass Espresso Mugs, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-amalfi-espresso-mug-set-of-6): Amalfi espresso mugs in clear tempered glass, 6 oz, set of 6. A sculpted design made in France, for espresso, cortado or tea.
-  Updated: 2026-10-30T08:15:28Z
+  Updated: 2026-11-13T07:59:47Z
   Vendor: Duralex
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/4001A.jpg?v=1789993920
   Price: $36.00 USD
 - [Caprice Glass Espresso Mugs, Set of 6](https://creative-tops-home.myshopify.com/products/caprice-espresso-mug): Caprice espresso mugs in clear tempered glass, 3 oz, set of 6. Stackable and dishwasher safe, made in France for the daily espresso. Final .
-  Updated: 2026-10-30T08:15:28Z
+  Updated: 2026-11-13T07:59:45Z
   Vendor: Duralex
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/4026A.jpg?v=1789993928
   Price: $30.00 USD
 - [Cosy Large Glass Mugs 11.75 oz, Set of 6](https://creative-tops-home.myshopify.com/products/cosy-mug): Cosy large mugs in clear tempered glass, 11.75 oz, set of 6. Made in France, microwave safe, for lattes, tea and hot chocolate. Final .
-  Updated: 2026-10-30T08:15:30Z
+  Updated: 2026-11-13T07:59:50Z
   Vendor: Duralex
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/4029A.jpg?v=1789993934
   Price: $50.00 USD
 - [Lys Clear Glass Mugs 10.38 oz, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-lys-clear-stackable-mug-10-ounce-set-of-6): Lys stackable mugs in clear tempered glass, 10.375 oz, set of 6. Made in France, microwave safe, for coffee, tea and hot chocolate.
-  Updated: 2026-10-30T08:15:30Z
+  Updated: 2026-11-13T07:59:45Z
   Vendor: Duralex
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/4018A.jpg?v=1789993940
   Price: $45.00 USD
 - [Empilable Stackable Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-empilable-stackable-tumblers-set-of-6): Empilable clear tempered glass tumblers, 5.375 or 6.75 oz, set of 6. A fluted base that stacks neatly, made in France for small kitchens.
-  Updated: 2026-10-30T08:15:30Z
+  Updated: 2026-11-13T07:59:46Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -392,7 +392,7 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1014A.jpg?v=1789993947
     Price: $24.00 USD
 - [Le Gigogne Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-le-gigogne-tumbler-set-of-6): Le Gigogne clear tempered glass tumblers, 3 to 12.125 oz, set of 6. Gigogne means nested: they stack neatly. Made in France.
-  Updated: 2026-10-30T08:15:27Z
+  Updated: 2026-11-13T07:59:45Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -414,14 +414,14 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/unpacked_gigogne_tumbler_36cl_uncoloured_1.jpg?v=1789993956
     Price: $36.00 USD
 - [Le Gigogne Glass Mugs, Set of 6](https://creative-tops-home.myshopify.com/products/gigogne-mug): Le Gigogne clear tempered glass mugs, 7.375 oz, set of 6. Stackable and microwave safe, made in France for coffee, tea and espresso.
-  Updated: 2026-10-30T08:15:27Z
+  Updated: 2026-11-13T07:59:48Z
   Vendor: Duralex
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/4006A.jpg?v=1789993964
   Price: $36.00 USD
 - [Le Picardie Clear Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-clear-tumbler): Le Picardie, the original French tumbler since 1954, in clear tempered glass. Nine sizes from 3 to 19.5 oz, set of 6, made in France.
-  Updated: 2026-10-30T08:15:27Z
+  Updated: 2026-11-13T07:59:47Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -463,7 +463,7 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1085ATB6_unpacked_picardie_tumbler_58cl_uncoloured_front_b06.png?v=1789993976
     Price: $65.00 USD
 - [Le Picardie Marine Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-tumbler-marine-set-of-6): Le Picardie tumblers in marine blue tempered glass, 6.75 to 12.125 oz, set of 6. Made in France, a coastal colour for hot or cold drinks.
-  Updated: 2026-10-30T08:15:27Z
+  Updated: 2026-11-13T07:59:45Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -485,14 +485,14 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1026B_db1bb23e-1b1d-4d9a-b767-434c740a2907.jpg?v=1789993993
     Price: $30.00 USD
 - [Le Picardie Turquoise Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/le-picardie-r-turquoise-glass-tumbler-set-of-6): Le Picardie tumblers in turquoise tempered glass, 8.375 oz, set of 6. Made in France, a bright colour for summer tables and cocktails.
-  Updated: 2026-10-30T08:15:47Z
+  Updated: 2026-11-13T07:54:51Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1027Q_unpacked_picardie_tumbler_25cl_turquoise_4.jpg?v=1789994006
   Price: $32.00 USD
 - [Le Picardie Black Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/le-picardie-r-black-glass-tumbler-set-of-6): Limited edition Le Picardie tumblers in black tempered glass, 3 or 8.375 oz, set of 6. Made in France, for espresso, cocktails and cold brew.
-  Updated: 2026-10-30T08:15:51Z
+  Updated: 2026-11-13T07:59:47Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -506,14 +506,14 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1027K_unpacked_picardie_tumbler_25cl_black_3.jpg?v=1789994023
     Price: $50.00 USD
 - [Lys Marine Glass Mugs 10.38 oz, Set of 6](https://creative-tops-home.myshopify.com/products/lys-marine-stackable-glass-mug-10-38-oz-set-of-6): Lys stackable mugs in marine blue tempered glass, 10.375 oz, set of 6. Made in France, microwave safe, for coffee, tea and hot chocolate.
-  Updated: 2026-10-30T08:15:51Z
+  Updated: 2026-11-13T07:59:45Z
   Vendor: Duralex
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/4018B_unpacked_louise_mug_31cl_marine.jpg?v=1789994031
   Price: $45.00 USD
 - [Prisme Clear Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/prisme-clear-tumbler-set-of-6): Prisme clear tempered glass tumblers with an embossed chequered pattern, 7.375 to 16.875 oz, set of 6. Made in France, dishwasher safe.
-  Updated: 2026-10-30T08:15:51Z
+  Updated: 2026-11-13T07:54:51Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -535,7 +535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1062A.jpg?v=1789994048
     Price: $49.00 USD
 - [Prisme Marine Glass Tumblers, Set of 4 or 6](https://creative-tops-home.myshopify.com/products/prisme-marine-tumbler): Prisme tumblers in marine blue tempered glass with an embossed chequered pattern, 5.625 to 9.25 oz. Made in France for juice and cocktails.
-  Updated: 2026-10-30T08:15:46Z
+  Updated: 2026-11-13T07:54:50Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -557,7 +557,7 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1033B.jpg?v=1789994058
     Price: $34.00 USD
 - [Unie Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-unie-tumbler-set-of-6): Unie clear tempered glass tumblers in five sizes, 6.75 to 18.875 oz, set of 6. A simple classic made in France for water, beer and cocktails.
-  Updated: 2026-10-30T08:15:51Z
+  Updated: 2026-11-13T07:59:46Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -583,7 +583,7 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1045A_04718f7d-1605-4d91-b7b1-44d4b847eae5.jpg?v=1789994068
     Price: $52.00 USD
 - [Provence Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/provence-tumbler): Provence clear tempered glass tumblers in five sizes, 3 to 8.375 oz, set of 6. A pattern inspired by Provençal fabrics, made in France.
-  Updated: 2026-10-30T08:15:47Z
+  Updated: 2026-11-13T07:59:46Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -609,7 +609,7 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1040A.jpg?v=1789994078
     Price: $26.00 USD
 - [Amalfi Glass Tumblers, Set of 4](https://creative-tops-home.myshopify.com/products/duralex-amalfi-tumbler-set-of-4): Amalfi clear tempered glass tumblers in five sizes, 2.25 to 6.75 oz, set of 4. A sculpted design made in France, from espresso to juice.
-  Updated: 2026-10-30T08:15:47Z
+  Updated: 2026-11-13T07:59:47Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -635,7 +635,7 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1005A.jpg?v=1789994089
     Price: $17.00 USD
 - [Le Picardie Grey Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-grey-tumbler-set-of-6): Le Picardie tumblers in smoke grey tempered glass, 8.375 to 12.125 oz, set of 6. Colour is in the glass itself. Made in France.
-  Updated: 2026-10-30T08:15:50Z
+  Updated: 2026-11-13T07:59:44Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -653,7 +653,7 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1029H.jpg?v=1789994106
     Price: $42.00 USD
 - [Le Picardie Green Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-green-tumbler-set-of-6): Le Picardie tumblers in green tempered glass, 8.375 or 10.375 oz, set of 6. Made in France, stackable and suited to hot or cold drinks.
-  Updated: 2026-10-30T08:15:46Z
+  Updated: 2026-11-13T07:59:45Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -667,7 +667,7 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1028G.jpg?v=1789994122
     Price: $38.00 USD
 - [Lys Clear Glass Tumblers, Set of 4 or 6](https://creative-tops-home.myshopify.com/products/lys-clear-tumbler): Lys clear tempered glass tumblers in 5.375, 7 and 9.375 oz. Flared, stackable and made in France, an easy everyday glass for any table.
-  Updated: 2026-10-30T08:15:51Z
+  Updated: 2026-11-13T07:59:46Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -689,7 +689,7 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1012A.jpg?v=1789994132
     Price: $40.00 USD
 - [Le Picardie 18-Piece Glass Drinkware Set](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-18-piece-drinkware-set): Le Picardie 18-piece set in clear, amber and marine tempered glass, three tumbler sizes. Made in France, a complete start for any table.
-  Updated: 2026-10-30T08:15:47Z
+  Updated: 2026-11-13T07:59:47Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -707,28 +707,28 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/3550190504873_02.jpg?v=1789994169
     Price: $100.00 USD
 - [Le Picardie Blush Pink Glass Tumblers, Set of 4](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-blush-pink-tumbler-set-of-4): Le Picardie tumblers in blush pink tempered glass, 8.375 oz, set of 4. Made in France, a soft colour for brunch tables and everyday use.
-  Updated: 2026-10-30T08:15:46Z
+  Updated: 2026-11-13T07:59:45Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1027E.jpg?v=1789994177
   Price: $22.00 USD
 - [Le Picardie Plum Glass Tumblers, Set of 4](https://creative-tops-home.myshopify.com/products/le-picardie-r-plum-tumbler-set-of-4): Le Picardie tumblers in deep plum tempered glass, 8.375 oz, set of 4. The iconic French faceted glass, made in France, for hot or cold drinks.
-  Updated: 2026-10-30T08:15:47Z
+  Updated: 2026-11-13T07:59:45Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1027J_800x1000_c23198aa-303d-41f7-969b-8b19b82a9575.jpg?v=1789994184
   Price: $22.00 USD
 - [Lys Sepia Glass Tumblers 7 oz, Set of 6](https://creative-tops-home.myshopify.com/products/lys-sepia-tumbler): Lys tumblers in warm sepia tempered glass, 7 oz, set of 6. Stackable and made in France, a soft neutral for earthy table settings.
-  Updated: 2026-10-30T08:15:52Z
+  Updated: 2026-11-13T07:59:49Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1011C.jpg?v=1789994192
   Price: $25.00 USD
 - [Lys Amber Glass Tumblers, Set of 4 or 6](https://creative-tops-home.myshopify.com/products/lys-amber-tumbler): Lys amber tempered glass tumblers in three sizes, from 5.375 to 9.375 oz. Stackable, chip resistant and made in France for warm-toned tables.
-  Updated: 2026-10-30T08:15:51Z
+  Updated: 2026-11-13T07:59:46Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -746,21 +746,21 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1011D.jpg?v=1789994199
     Price: $29.00 USD
 - [Lys Sapphire Glass Tumblers 7 oz, Set of 6](https://creative-tops-home.myshopify.com/products/lys-sapphire-tumbler-7-oz-set-of-6): Lys tumblers in sapphire blue tempered glass, 7 oz, set of 6. A flared, stackable shape made in France for everyday drinks and table settings.
-  Updated: 2026-10-30T08:15:51Z
+  Updated: 2026-11-13T07:59:47Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1011F.jpg?v=1789994207
   Price: $30.00 USD
 - [Picardie 80th Anniversary Glass Tumblers, Set of 4](https://creative-tops-home.myshopify.com/products/le-picardie-r-plum-glass-tumbler-set-of-4-copy): Le Picardie 80th anniversary edition in clear tempered glass, 8.375 oz, set of 4. The original French tumbler, made in France since 1954.
-  Updated: 2026-10-30T08:15:51Z
+  Updated: 2026-11-13T07:59:45Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/DURALEX80ANSPACK4-FLEXREALISATION-3_1.jpg?v=1789994216
   Price: $25.00 USD
 - [Le Gigogne Black Glass Tumblers 3 oz, Set of 6](https://creative-tops-home.myshopify.com/products/le-gigogne-r-black-glass-tumbler-set-of-6): Limited edition Le Gigogne tumblers in black tempered glass, 3 oz, set of 6. Stackable, made in France, ideal for espresso and cocktails.
-  Updated: 2026-10-30T08:15:27Z
+  Updated: 2026-11-13T07:59:45Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
