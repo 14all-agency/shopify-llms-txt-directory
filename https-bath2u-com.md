@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2026-11-12T00:55:25.192Z
+- Updated At: 2026-11-20T00:46:40.117Z
 
 ## Products
 
@@ -34,41 +34,6 @@
   - [Large / Gold](https://bath2u.com/products/2-way-wall-bib-tap-brass-chrome-prophex?variant=39949977190484)
     Availability: Available
     Price: RM 50.00 MYR
-- [Concealed Shower Mixer Set Round](https://bath2u.com/products/concealed-shower-mixer-set-round)
-  Updated: 2026-10-27T04:11:52Z
-  Vendor: Bath2u
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/WhatsAppImage2023-01-04at15.10.12.jpg?v=1672844596
-  Price: RM 599.00 MYR
-- [Concealed Shower Mixer Set Square](https://bath2u.com/products/concealed-shower-mixer-set-square)
-  Updated: 2026-10-27T04:11:52Z
-  Vendor: Bath2u
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/WhatsAppImage2023-01-04at15.10.12_1.jpg?v=1672844641
-  Price: RM 699.00 MYR
-- [Non-electric Bidet Seat D-Shape](https://bath2u.com/products/non-electric-bidet-seat-d-shape)
-  Updated: 2026-10-27T04:11:52Z
-  Vendor: Bath2u
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/5.jpg?v=1665061967
-  Price: RM 299.00 MYR
-- [Copy of Concealed Shower Mixer Set Round](https://bath2u.com/products/copy-of-concealed-shower-mixer-set-round)
-  Updated: 2026-10-27T04:11:52Z
-  Vendor: Bath2u
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/3_83d6ddb5-78e2-46c4-ad3c-cc942150c51c.jpg?v=1665111855
-  Price: RM 599.00 MYR
-- [Copy of Non-electric Bidet Seat D-Shape](https://bath2u.com/products/copy-of-non-electric-bidet-seat-d-shape)
-  Updated: 2026-10-27T04:11:52Z
-  Vendor: Bath2u
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/5_57b1e88a-061c-4971-b5cb-3be6d3782459.jpg?v=1665113225
-  Price: RM 299.00 MYR
 - [DOCASA A6000 Ceramic PTRAP STRAP 200MM 250MM 300MM Smart Toilet Bowl Set Auto Sensor Dual Flush Tankless Water Closet](https://bath2u.com/products/docasa-smart-intelligent-one-piece-water-closet): Specification : Dimension: L 490mm x W 385mm x H 675mm Material Ceramic Bowl size: L 490mm x W 385mm x H 675mm Smart Intelligent One Piece Water Closet Flush Type: Syphonic Jet Flushing System: Remote x2 /Knob x 2 /Sensor Kick x 1 Water Resistant: ipx4(Repels Splasing Water) Water Cistern: Built-in(4.5L) Power Supply: AC/Backup Battery Seat Cover: Dual Spray/Thermal/ Air Dryer Inlet: Flexi Hose 3/4 (600mm Length) Water Pressure: Min.0.25/Max. 0.75 (Mpa) c/w Grease Connector, LED High-Definition Digital Screen, Atmosphere light Foam Bubble when Flushing For Better Flushing and Prevent Smell at Bathroom Warranty: 1 Year Fitting / 5 Year ceramic ware Function : Seat Cover: LED Display - Auto Flip Seat Heating: 4 Level(Off/34C/45C/55C) Air Drying: 4 Level(Off/34C/45C/55C) Foam: Liquid Replacement Bidet Function : Hip Clean/ Female Washing/ Temperature: Off/34C/37C/40C Move Washing(Massage Function)/ Nozzle Cleaning(Adjustable) UV Sterilisation/ Infrared Irradiation
   Updated: 2026-10-27T04:11:52Z
   Vendor: DOCASA
@@ -297,7 +262,21 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2026-06-25153406.png?v=1782374764
   Price: RM 352.00 MYR
-[List Continued](https://bath2u.com/a/llms-agent/llms.txt?shop=bestbath-my.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2ODEzODQwMjQ0ODIwLCJsYXN0X3ZhbHVlIjoiNjgxMzg0MDI0NDgyMCJ9)
+- [DOCASA 285H 700mm Counter Top Wash Basin come with single pre-punched tap hole & cap](https://bath2u.com/products/docasa-counter-top-wash-basin-come-with-single-pre-punched-tap-hole-cap-2): Material: Ceramic Dimension: 700 (W) x 380 (L) x 125 (H) mm Type: Counter Top Colour: White Finish: Glossy Note: Tap is not included
+  Updated: 2026-10-27T04:11:53Z
+  Vendor: DOCASA
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2026-06-24145318.png?v=1782355836
+  Price: RM 384.00 MYR
+- [DOCASA 5100 560mm Wall Hung Basin White single Pre-punched Tap Hole c/w Overflow](https://bath2u.com/products/docasa-560mm-wall-hung-basin-single-pre-punched-tap-hole-c-w-overflow): Material: Ceramic Colour: WhiteWidth: 560mmLength: 480mmHeight: 385mm Type: Wall HungPackage Content:- 1x Wall Hung Basin- 1x Fixing KitsNote: Tap is not included
+  Updated: 2026-10-27T04:11:53Z
+  Vendor: DOCASA
+  Product Type: Wall Hung Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2026-06-25111558.png?v=1782363604
+  Price: RM 560.00 MYR
+[List Continued](https://bath2u.com/a/llms-agent/llms.txt?shop=bestbath-my.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2ODEzODk5NzE4NzQwLCJsYXN0X3ZhbHVlIjoiNjgxMzg5OTcxODc0MCJ9)
 
 ## Collections
 
@@ -305,7 +284,7 @@
   Updated: 2026-11-06T17:25:54Z
   Total Products: 366
 - [Featured Products](https://bath2u.com/collections/featured-products)
-  Updated: 2026-11-06T17:25:54Z
+  Updated: 2026-11-12T08:09:37Z
   Total Products: 356
 - [Toilet Seat](https://bath2u.com/collections/toilet-seat): Upgrade your bathroom with our toilet seat covers collections, designed for comfort, hygiene, and everyday use. Our products are made with durable materials for long-lasting performance and easy cleaning. We offer toilet seat covers from trusted brands like Sorento, Docasa, Saniware and Johnson Suisse suitable for most standard toilet bowls. Find the right fit for your bathroom and enjoy a cleaner, more comfortable experience.
   Updated: 2026-11-06T04:26:30Z
@@ -341,13 +320,13 @@
   Updated: 2026-11-06T04:26:20Z
   Total Products: 55
 - [Basin Cabinet](https://bath2u.com/collections/bathroom-cabinet): Premium Basin Cabinets & Vanity Units Elevate your bathroom’s functionality and aesthetics with our curated collection of premium basin cabinets. Serving as the perfect anchor for modern bathrooms, a well-designed vanity unit seamlessly combines essential washing functionality with smart, concealed storage to keep your space clutter-free and pristine. Discover the Perfect Type for Your Space Whether you are designing a compact powder room or a spacious master ensuite, we offer precision-engineered configurations to match your layout: Wall-Hung / Floating Cabinets: Ideal for creating a sleek, minimalist look. By lifting the cabinet off the floor, these units maximize visible floor space, making your bathroom feel larger and significantly easier to clean. Floor-Standing Cabinets: The classic choice for maximum storage capacity. These robust units sit directly on the floor, providing deep drawers or cupboards to comfortably house all your family essentials, plumbing connections, and heavier items. Compact Vanities: Specifically engineered for tight spaces, narrow corridors, or powder rooms, offering a space-saving footprint without sacrificing style or utility. Quick Buying Guide: What to Consider To ensure technical accuracy and long-term satisfaction, keep these essential factors in mind before making your selection: Material & Moisture Resistance: Bathrooms are high-humidity environments. Opt for high-quality, water-resistant materials such as solid aluminum, premium PVC, or moisture-treated MDF to prevent warping, swelling, and water damage over time. Size & Plumbing Layout: Always accurately measure your available wall width and projection depth. Ensure the internal cabinet configuration aligns seamlessly with your existing bottle trap, waste pipe, and hot/cold water inlets. Storage Configuration: Choose between soft-closing drawers (perfect for quick access to smaller toiletries) or traditional cabinet doors (better for stacking taller cleaning bottles and spare towels). Authorized Premium Brands Quality and material durability are paramount when it comes to wet-area furniture. As a trusted supplier in Malaysia, we are proud to offer ready stock and authorized distributions from the industry's leading brands: Sorento | Docasa | Mocha | Itto | Alfred Victoria All our cabinets feature premium soft-close hinges, durable finishes, and contemporary designs crafted to complement modern brassware and ceramic basins perfectly. Need assistance with dimensions or custom setups? Reach out to our BATH2U experts today via WhatsApp to verify compatibility, check stock availability, or receive a personalized installation quote!
-  Updated: 2026-11-10T05:52:04Z
+  Updated: 2026-11-18T06:58:31Z
   Total Products: 48
 - [Basin Waste](https://bath2u.com/collections/basin-waste): A basin waste is a channel designed to enable water in your basin to run off safely, regardless of the sinks design. The basin waste will also allow you to block the pipes of your sink, allowing it to fill up with water.
   Updated: 2026-11-06T04:26:13Z
   Total Products: 24
 - [Bathroom Mirrors](https://bath2u.com/collections/mirror): Shop bathroom mirrors in Malaysia for homes, apartments, hotels and commercial washrooms. Explore wall-mounted and vanity mirrors in modern designs.
-  Updated: 2026-11-06T04:26:14Z
+  Updated: 2026-11-18T04:28:42Z
   Total Products: 75
 - [Exposed Rain Shower Set](https://bath2u.com/collections/exposed-shower): Upgrade your bathroom with an exposed rain shower set engineered to deliver a consistent, full-coverage shower experience with versatile daily operation. This complete wall-mounted shower system features an overhead rain shower head and a multi-function handheld sprayer connected via a flexible, tangle-free shower hose. Designed for straightforward surface-mounted installation without embedding pipework into the wall, it connects directly to standard hot and cold water supply lines, making it an ideal choice for bathroom renovations, modernizations, and new property setups across Malaysia. Featuring smooth divert controls to switch effortlessly between overhead rainfall and hand spray modes, this practical shower fixture combines solid mechanical reliability, easy cleaning maintenance, and comfortable water flow for everyday residential and commercial use.
   Updated: 2026-11-10T05:52:04Z
@@ -416,8 +395,8 @@
   Updated: 2026-11-07T14:01:03Z
   Total Products: 122
 - [Tap](https://bath2u.com/collections/tap): A tap, also known as a faucet, is a plumbing device that controls the flow of water in a sink, bathtub, or shower. Taps typically consist of a handle or lever that controls the flow of water, and a spout that directs the water into the sink or bathtub. Taps can come in a variety of styles, from traditional to modern, and can be made of different materials such as brass, chrome, nickel, and stainless steel. Some taps have a single handle or lever that controls both the flow and temperature of the water, while others have separate controls for hot and cold water. Taps can also have different features such as self-closing, sensor-activated, 2-way, bidet spray and more
-  Updated: 2026-11-10T13:14:39Z
-  Total Products: 21
+  Updated: 2026-11-12T14:25:39Z
+  Total Products: 22
 - [Bath Tub](https://bath2u.com/collections/bath-tub): A bathtub is a plumbing fixture designed for bathing. It is a large container for water that is used for soaking, washing, and relaxing. Bathtubs come in a variety of sizes and shapes, and can be made of different materials such as acrylic, fiberglass, cast iron, and steel. Some bathtubs have built-in features such as jets for a massage effect, or a built-in seat. They can be installed in a bathroom, and can be free-standing or built-in to a surround or alcove. Some bathtubs are also designed for specific types of bathrooms like corner bathtubs, clawfoot bathtubs, walk-in bathtubs, and more. They can come in different finishes like polished, matte, and brushed and can have different features such as a built-in overflow and an anti-slip bottom.
   Updated: 2026-11-06T04:26:14Z
   Total Products: 43
@@ -434,8 +413,8 @@
   Updated: 2026-11-06T04:26:29Z
   Total Products: 0
 - [Floor Drainer](https://bath2u.com/collections/floor-drainer): A floor drainer is a type of drain typically used in bathrooms and shower rooms, which allows water to flow away from the floor and into the drain. It is typically installed in the floor and can have a grate or cover to prevent debris or hair from clogging the drain. Floor drainers can come in different sizes and shapes, and can be made of different materials such as stainless steel, brass, and plastic. Some floor drainers also come with removable covers that can be easily cleaned, and some can be adjusted to different floor thicknesses. They are designed to prevent water from pooling on the floor, reducing the risk of slips, falls, and water damage. They are often used in wet rooms, shower rooms, and bathrooms but can also be used in commercial kitchens, industrial plants and other places where the water needs to be drained away from the floor.
-  Updated: 2026-11-06T04:26:18Z
-  Total Products: 34
+  Updated: 2026-11-12T08:11:42Z
+  Total Products: 35
 - [Soap Dispenser](https://bath2u.com/collections/soap-dispenser): Streamline your hygiene routine with space-saving soap dispensers designed for clean, reliable liquid delivery at the sink or shower. Equipped with precision drip-free pumps, these wall-mounted and deck-mounted dispensers eliminate clutter and keep soap residue off countertops. Easy to refill and maintain, they provide a sleek, hygienic solution for dispensing liquid soap and sanitizer in residential bathrooms, kitchens, and commercial washrooms throughout Malaysia.
   Updated: 2026-11-06T04:26:28Z
   Total Products: 14
@@ -474,13 +453,13 @@ Meta description: Shop LED mirrors in Malaysia for homes, apartments, hotels and
   Updated: 2026-11-06T04:26:29Z
   Total Products: 0
 - [Safety Grab Bar](https://bath2u.com/collections/matt-stainless-steel-grab-bar): Shop our range of safety grab bars, designed to provide extra support and stability in bathrooms, toilets and accessible washrooms. Ideal for homes, hospitals, care facilities, hotels, offices and public washrooms, grab bars help improve safety for elderly users, people with limited mobility and anyone who needs additional support. Available in different sizes and styles, our bathroom safety grab bars and support rails are suitable for installation beside toilets, basins, showers and bathtubs. Browse our collection of safety grab bars, bathroom support rails and handicap grab bars in Malaysia for safer and more accessible bathroom spaces.
-  Updated: 2026-11-11T14:25:44Z
-  Total Products: 36
+  Updated: 2026-11-12T13:59:21Z
+  Total Products: 43
 - [Kitchen Sink](https://bath2u.com/collections/kitchen-sink): A kitchen sink is a plumbing fixture that is installed in a kitchen for the purpose of washing dishes, food preparation, and cleaning. It is typically made of materials such as stainless steel, porcelain, cast iron, or granite. Kitchen sinks come in a wide variety of designs, sizes, and configurations to fit different kitchen layouts and needs. Kitchen sinks can have one, two, or even three bowls, and they can be installed as a drop-in, undermount, or flush mount. Some sinks have a built-in drainer, and others may have a separate drainer that can be placed on the countertop. The sink can be connected to the plumbing with a U-bend pipe and a waste pipe. Kitchen sinks are a practical and essential part of any kitchen, as they are used for a wide range of tasks such as washing dishes, preparing food, and cleaning. They are available in different styles and materials to suit different kitchen decors and preferences. They are also easy to install and maintain, and they can be cleaned with a mild soap and water.
   Updated: 2026-11-10T05:52:04Z
   Total Products: 102
 - [Kitchen Taps](https://bath2u.com/collections/kitchen-taps): Standing as an essential centerpiece for every meal prep and cleaning task, kitchen taps deliver reliable water control tailored to diverse washing habits and sink configurations. This comprehensive lineup encompasses water dispensing solutions designed for every kitchen layout, supporting basic washing needs, specialized food preparation, and full-utility sink setups alike. Smooth-operating control handles ensure precise volume regulation, while efficient internal flow channels deliver a steady stream designed to keep surrounding counter areas tidy. Built to fit seamlessly into busy residential wet kitchens, sleek dry kitchen islands, and apartment spaces across Malaysia, these water fixtures balance everyday functional durability with clean, modern styling.
-  Updated: 2026-11-10T05:52:04Z
+  Updated: 2026-11-18T07:48:00Z
   Total Products: 58
 - [Kitchen Accessories](https://bath2u.com/collections/kitchen-accessories): Kitchen accessories are items that are used to enhance the functionality and appearance of a kitchen. They include a wide range of items such as kitchen organizers, cutting boards, kitchen scales, kitchen timers, and many more. Kitchen accessories can be made of materials such as plastic, wood, metal, or glass and they come in a wide variety of styles and designs to match different kitchen decors. Kitchen accessories serve many purposes. They help to organize and store kitchen essentials, enhance the overall look of the kitchen, and provide additional comfort and convenience for the user. Some accessories like kitchen organizers, cutting boards, and kitchen timers are functional and help to keep kitchen essentials within easy reach. Other accessories like kitchen scales and decorative pieces can add a touch of style and personality to the kitchen. Kitchen accessories are available in various price ranges to suit different budgets and needs. They are also easy to install and maintain, making them a practical and convenient addition to any kitchen. They can be a great addition to any kitchen renovation or remodel and add a touch of personality to the space.
   Updated: 2026-11-10T05:52:04Z
@@ -495,8 +474,8 @@ Meta description: Shop LED mirrors in Malaysia for homes, apartments, hotels and
   Updated: 2026-11-06T04:26:17Z
   Total Products: 1
 - [Bi-Fold Door](https://bath2u.com/collections/aluminium-bi-fold-doors): A bi-fold door is a versatile space-partitioning fixture crafted to provide effortless room division and flexible layout management across residential and commercial properties. Operating as a collapsible barrier, it allows users to open up room transitions fully or close off utility zones instantly depending on daily needs. Its broad range of styles integrates smoothly into contemporary bathroom entrances, kitchen pass-throughs, and commercial washrooms, delivering long-term structural alignment without sagging or jamming over years of continuous use. Essential for modern Malaysian property developments, shophouse upgrades, and condo interior fit-outs, this collection combines search-optimized functionality with sleek space-saving design to transform how you utilize interior square footage.
-  Updated: 2026-11-06T04:26:15Z
-  Total Products: 1
+  Updated: 2026-11-19T09:26:18Z
+  Total Products: 4
 - [Outdoor Water Filter](https://bath2u.com/collections/water-filter): An outdoor water filter is a master point-of-entry filtration system installed directly at your home's main water inlet to purify all incoming municipal water before it enters your internal plumbing. Designed to act as the first line of defense for the entire household, this system traps suspended solids, rust particles, mud, silt, and organic sediment right at the main gate or service boundary. By clearing harsh particulate matter out of the main supply line, it prevents unsightly pipe staining, eliminates murky water from daily kitchen and shower use, and protects expensive downstream appliances—such as instant water heaters, washing machines, and booster pumps—from internal clogging and premature wear. Featuring easy backwashing mechanisms, multi-port control valves, and high-flow rate designs that maintain strong line pressure throughout the house, this collection offers a low-maintenance, high-capacity water purification infrastructure built for landed homes, townhouses, and commercial properties across Malaysia.
   Updated: 2026-11-08T14:25:17Z
   Total Products: 2
@@ -537,7 +516,7 @@ Meta description: Shop LED mirrors in Malaysia for homes, apartments, hotels and
   Updated: 2026-11-06T04:26:32Z
   Total Products: 23
 - [Black Collections](https://bath2u.com/collections/black-bathroom-taps): Black Toilet is also classic and extremely versatile. It creates a clean aesthetic and a very soothing mood, making a space feel welcoming when one wants to just relax in a warm bath. Black also stands out and feels unique and is a nice accent to marble or other stone countertops in bathrooms. Black offers an alternative to the traditional silver and gold metal accessories in bathrooms.
-  Updated: 2026-11-06T17:25:52Z
+  Updated: 2026-11-18T06:58:31Z
   Total Products: 134
 - [Smart Toilet WC / Intelligent Water Closet](https://bath2u.com/collections/smart-intelligent-water-closet): A Smart Intelligent Water Closet, also known as a smart toilet, is a technologically advanced toilet that comes equipped with a range of features and functions designed to enhance the user experience. Smart toilets typically use sensors, cameras, and other electronic components to provide a range of benefits. Overall, smart toilets offer a range of benefits in terms of convenience, hygiene, and sustainability. However, they can be more expensive than traditional toilets and may require additional maintenance or technical expertise. Our collection features quality smart WC from trusted brands like Johnson Suisse, Docasa, Sorento, and Saniware, offering reliable performance and stylish bathroom solutions in Malaysia.
   Updated: 2026-11-06T04:26:28Z
@@ -549,8 +528,8 @@ Meta description: Shop LED mirrors in Malaysia for homes, apartments, hotels and
   Updated: 2026-11-06T04:26:19Z
   Total Products: 0
 - [Wall Hung Basin Cabinet](https://bath2u.com/collections/wall-hung-basin-cabinet): Sleek & Space-Saving Wall-Hung Basin Cabinets Transform your bathroom into a minimalist sanctuary with our range of floating / wall-hung basin cabinets. By lifting the vanity layout off the floor, these contemporary units maximize your visible floor area, make under-cabinet cleaning effortless, and provide highly customizable installation heights tailored specifically to your family's comfort. Wall-Hung Buying Guide: Critical Technical Factors Installing a floating vanity requires a bit more structural planning than a standard floor-standing model. Keep these important considerations in mind before completing your selection: Wall Strength & Reinforcement: Because floating cabinets carry the combined weight of the cabinet, the solid ceramic/glass basin, full water volume, and downward pressure from users, they must be securely anchored. Ensure your bathroom features a solid brick/concrete wall or a heavily reinforced timber/metal stud structure behind the tiles. Concealed Plumbing Layout: For the ultimate floating appearance, bottle traps and waste drainage configurations should ideally pass directly through the back wall rather than down into the floor. Double-check your plumbing rough-in dimensions before finalizing your model choice. Cabinet Material Integrity: Since the underside of a floating cabinet is fully exposed to rising steam and splashing water from nearby floor drains, prioritizing high-grade moisture resistance is non-negotiable. Look for premium multi-layer aluminum or specialized waterproof PVC frameworks. Authorized Premium Brands When choosing a wall-mounted fixture, structural durability and hinge integrity are vital. We are proud to distribute ready stock of wall-hung vanities from Malaysia's most trusted bathroom furniture manufacturers: Alfred Victoria: Acclaimed for providing highly design-forward, complete luxury sets that often arrive fully integrated with matching counter-top basins and custom-selected designer mixers. Sorento: Renowned for engineered precision, offering heavy-duty structural mountings alongside premium soft-close drawer tracking systems that handle daily wear with ease. Docasa: Outstanding options featuring contemporary matte, metallic, and modern wood-grain finishes constructed from robust, water-proof aluminum builds designed for longevity. Duvena: Highly practical and space-efficient configurations featuring durable glass-top options or integrated ceramic basins optimized for narrow bathroom floorplans. Unsure if your bathroom wall can safely support a floating vanity setup? Let our technical team help! Contact our BATH2U specialists via WhatsApp today. We can review
-  Updated: 2026-11-10T05:52:04Z
-  Total Products: 37
+  Updated: 2026-11-18T06:59:03Z
+  Total Products: 34
 - [Vanity Basin](https://bath2u.com/collections/vanity-basin): A vanity basin, also known as a bathroom sink or lavatory, is a type of plumbing fixture that is installed in a bathroom or powder room for washing hands, face, and other small items. It is usually made of materials such as ceramic, porcelain, stainless steel, or glass, and can come in a variety of shapes, sizes, and styles to suit different design preferences and needs. The basin is typically mounted on a vanity or countertop, which may also include storage cabinets or drawers for holding toiletries and other bathroom essentials. Some vanity basins may also have an integrated faucet, while others require a separate faucet installation. Vanity basins can be found in both residential and commercial settings, and are an essential part of any functional bathroom or restroom.
   Updated: 2026-11-06T04:26:31Z
   Total Products: 0
@@ -561,19 +540,19 @@ Meta description: Shop LED mirrors in Malaysia for homes, apartments, hotels and
   Updated: 2026-11-06T04:26:12Z
   Total Products: 30
 - [Brand](https://bath2u.com/collections/brand): asdasdasdas
-  Updated: 2026-11-11T14:27:06Z
-  Total Products: 429
+  Updated: 2026-11-12T14:25:39Z
+  Total Products: 441
 - [Arte Deluxe](https://bath2u.com/collections/brand-arte-deluxe): Arte Deluxe: Exquisite Kitchen & Bathroom Essentials for Modern Malaysian Homes Arte Deluxe is a premier destination for high-quality, contemporary kitchen accessories and bathroom fixtures. Designed to elevate the functionality and aesthetic of any home, Arte Deluxe offers an exquisite selection of sanitary ware, ranging from premium nano-coated stainless steel kitchen sinks to elegant farmhouse-style ceramic basins. Known for combining practical durability with modern design trends, Arte Deluxe products are meticulously crafted to meet the diverse needs of both residential and commercial spaces. Whether you are aiming for a sleek, modern aesthetic or a warm, timeless look, Arte Deluxe provides reliable and stylish solutions that perfectly complement today’s interior styles. Why Choose Arte Deluxe? Contemporary Designs: Featuring modern favorites like multifunctional waterfall sinks, sleek undermount designs, and classic farmhouse basins. Premium Quality: Built using robust, high-grade materials designed for long-lasting durability, easy maintenance, and everyday wear resistance. Versatile Selection: A comprehensive range of kitchen and bathroom essentials that integrate seamlessly into any renovation or architectural project. Aesthetic Appeal: Products engineered to deliver an immediate visual upgrade, adding a touch of luxury and sophistication to your daily routines. As an authorised distributor, we have ready stock available in Malaysia—reach out to our BATH2U experts today to discuss your requirements and receive a customized quote!
   Updated: 2026-11-06T17:25:54Z
   Total Products: 14
 - [Bath2u](https://bath2u.com/collections/brand-bath2u)
-  Updated: 2026-11-06T04:26:14Z
+  Updated: 2026-11-12T08:09:37Z
   Total Products: 151
 - [GLOREX](https://bath2u.com/collections/brand-glorex): Glorex Mirrors & LED Mirrors Premium Illuminated Mirrors & Modern Vanity Reflections in Malaysia Transform your daily grooming routine into a luxurious, well-lit experience with Glorex Mirrors and LED Mirrors. Recognizing that perfect lighting and a crystal-clear reflection are the cornerstones of any functional bathroom, Glorex offers a premium collection of standard and illuminated vanity mirrors designed to enhance spatial perception, amplify ambient light, and add an unmistakable touch of sophistication to Malaysian homes. Whether you are completing a sleek, warm minimalist basin setup or adding a brilliant focal point to a contemporary powder room, Glorex mirrors seamlessly integrate into your carefully curated aesthetic. Their cutting-edge LED mirrors are equipped with smart touch controls and integrated anti-fog technology, ensuring flawless visibility in wet environments while acting as a stunning, modern centerpiece above your vanity unit. Why Choose Glorex LED Mirrors? Smart LED Technology Equipped with intuitive, waterproof touch sensors and adjustable color temperatures, allowing you to easily switch between warm, relaxing ambient glows and bright, natural task lighting. Integrated Demister Pads Engineered specifically for the demanding moisture levels of tropical bathrooms, the built-in anti-fog technology ensures a perfectly clear reflection even after the hottest, steamiest showers. Copper-Free HD Glass Manufactured using premium copper-free and lead-free backing materials that aggressively resist edge corrosion and black spotting, ensuring exceptional longevity and a flawless, high-definition reflection. Minimalist Aesthetics Designed with clean, unobtrusive silhouettes—featuring elegant frameless floating looks or ultra-slim metallic profiles that effortlessly complement modern and contemporary interior styling. As an authorised distributor, we have ready stock available in Malaysia—reach out to our BATH2U experts today to discuss your vanity dimensions and receive a customized quote!
   Updated: 2026-11-06T04:26:20Z
   Total Products: 82
 - [ITRON](https://bath2u.com/collections/brand-itron)
-  Updated: 2026-11-06T04:26:22Z
+  Updated: 2026-11-18T07:48:00Z
   Total Products: 8
 - [ITTO](https://bath2u.com/collections/brand-itto): ITTO Modern Bathroom Fittings & Premium Sanitary Ware in Malaysia Recognized for merging sleek, contemporary design with uncompromising everyday functionality, Itto provides homeowners and interior designers across Malaysia with a premium selection of bathroom fittings and sanitary ware. Dedicated to elevating the standard of daily living, Itto offers fixtures that perfectly balance enduring durability with accessible luxury. Whether you are outfitting a compact urban en-suite or curating a luxurious, warm minimalist bathroom, Itto’s meticulously proportioned products seamlessly integrate into your vision. From elegant, precision-engineered basin taps to seamless, high-performance water closets, their comprehensive range features clean architectural lines and high-quality finishes that act as the perfect functional focal points for any modern interior layout. Why Choose Itto? Warm Minimalist Design Characterized by sleek contours, unobtrusive silhouettes, and refined finishes that effortlessly elevate the visual appeal of modern and contemporary bathroom aesthetics. Robust Durability Expertly crafted using high-grade brass, corrosion-resistant alloys, and premium vitreous china to ensure long-lasting performance in highly demanding wet environments. Precision Engineering Faucets and mixers are equipped with highly reliable internal ceramic cartridges for effortlessly smooth, drip-free operation and highly accurate water control. Optimized Hygiene & Efficiency Their modern water closets and shower systems are engineered for superior water-saving efficiency and feature smooth, easy-to-clean surfaces that minimize daily maintenance. As an authorised distributor, we have ready stock available in Malaysia—reach out to our BATH2U experts today to discuss your requirements and receive a customized quote!
   Updated: 2026-11-06T04:26:22Z
@@ -585,8 +564,8 @@ Meta description: Shop LED mirrors in Malaysia for homes, apartments, hotels and
   Updated: 2026-11-06T04:26:24Z
   Total Products: 7
 - [ONIMI](https://bath2u.com/collections/brand-onimi): Onimi Premium Taps, Showers & Modern Bathroom Fittings in Malaysia Dedicated to elevating daily rituals through refined design, Onimi offers a distinguished collection of premium tapware, shower systems, and bathroom fittings to the Malaysian market. Blending sophisticated visual appeal with robust, heavy-duty engineering, Onimi provides the perfect finishing touches for creating a highly functional, modern sanctuary. Whether you are curating a cozy, warm minimalist bathroom or outfitting a sleek contemporary en-suite, Onimi’s meticulously crafted fixtures seamlessly integrate into your carefully planned layout. Their products are designed not just for aesthetic harmony, but for exacting technical accuracy, ensuring a flawless fit, finish, and water delivery experience in every installation. Why Choose Onimi? Warm Minimalist Aesthetics Characterized by clean silhouettes, elegant contours, and striking premium finishes that perfectly complement and elevate modern interior styling. Precision Installation Engineered for exact technical accuracy, their basin mixers are perfectly proportioned for seamless installation directly onto the basin's tap hole, ensuring a clean, uncluttered vanity setup. Exceptional Shower Performance Their modern rain shower columns and handheld sets are optimized to deliver a deeply relaxing, spa-like bathing experience with consistent, high-volume water coverage. Enduring Durability Expertly forged from high-grade, corrosion-resistant materials and equipped with reliable internal cartridges to guarantee a 100% drip-free lifespan in demanding wet environments. As an authorised distributor, we have ready stock available in Malaysia—reach out to our BATH2U experts today to discuss your requirements and receive a customized quote!
-  Updated: 2026-11-11T14:27:06Z
-  Total Products: 250
+  Updated: 2026-11-12T14:25:40Z
+  Total Products: 262
 - [OUTAI](https://bath2u.com/collections/brand-outai)
   Updated: 2026-11-06T04:26:25Z
   Total Products: 1
@@ -609,8 +588,8 @@ Meta description: Shop LED mirrors in Malaysia for homes, apartments, hotels and
   Updated: 2026-11-06T04:26:20Z
   Total Products: 1
 - [Taps](https://bath2u.com/collections/taps): This is all the available taps for  in bath2u includes wall mounted tap, kitchen tap, deck mounted tap, self-closing tap, bib tap.
-  Updated: 2026-11-11T14:12:59Z
-  Total Products: 233
+  Updated: 2026-11-18T07:48:00Z
+  Total Products: 234
 - [Toilets](https://bath2u.com/collections/toilets)
   Updated: 2026-11-06T04:26:30Z
   Total Products: 2
@@ -621,10 +600,10 @@ Meta description: Shop LED mirrors in Malaysia for homes, apartments, hotels and
   Updated: 2026-11-06T04:26:26Z
   Total Products: 12
 - [Furniture](https://bath2u.com/collections/furniture): For all cabinets, closets, mirrors, vanity units, furniture that is installed into a bathroom
-  Updated: 2026-11-10T05:52:04Z
+  Updated: 2026-11-18T06:58:31Z
   Total Products: 116
 - [One Piece WC](https://bath2u.com/collections/one-piece-wc): Discover our range of one piece water closets from trusted brands like Johnson Suisse, Docasa, Sorento, and Saniware, designed to upgrade your bathroom with a modern and elegant look. Featuring a seamless design that is easy to clean and more hygienic, these toilets also deliver strong flushing performance and water-saving efficiency. Perfect for homes, offices, and commercial spaces, our collection offers reliable quality, comfort, and long-lasting durability at competitive prices.
-  Updated: 2026-11-06T04:26:25Z
+  Updated: 2026-11-18T09:08:31Z
   Total Products: 76
 - [Back To Wall WC](https://bath2u.com/collections/back-to-wall-wc): A back to wall WC is a modern toilet where the bowl sits flush against the wall, helping to hide pipes for a clean and neat bathroom look. Our range from Johnson Suisse, Docasa, Sorento, and Saniware offers a stylish, space-saving, and easy-to-clean solution for any bathroom. Designed for strong flushing performance, water efficiency, and everyday durability, it’s a practical choice for homes, offices, and commercial spaces.
   Updated: 2026-11-06T04:26:13Z
@@ -654,7 +633,7 @@ Meta description: Shop LED mirrors in Malaysia for homes, apartments, hotels and
   Updated: 2026-11-06T04:26:24Z
   Total Products: 0
 - [Sanitaryware](https://bath2u.com/collections/sanitaryware)
-  Updated: 2026-11-11T14:27:06Z
+  Updated: 2026-11-18T06:58:31Z
   Total Products: 296
 - [Flush Button](https://bath2u.com/collections/flush-button): A flush button is the user interface on modern toilet cisterns that activates the flush fitting inside the tank. It replaces the traditional lever handle and is commonly used in water-saving, dual-flush toilet systems. Flush buttons are designed for smooth operation, better water control, and improved efficiency in everyday use, helping to reduce water consumption while maintaining strong flushing performance. This collection features trusted brands such as Docasa, Sorento, Johnson Suisse, and Saniware, offering durable and reliable flush button systems suitable for both residential and commercial bathrooms.
   Updated: 2026-11-06T04:26:18Z
@@ -675,7 +654,7 @@ Meta description: Shop LED mirrors in Malaysia for homes, apartments, hotels and
   Updated: 2026-11-06T04:26:22Z
   Total Products: 230
 - [DOCASA](https://bath2u.com/collections/brand-docasa): Docasa Premium Sanitary Ware, Kitchen Appliances & Bathroom Fittings in Malaysia Elevate your home with Docasa Malaysia, your trusted brand for premium sanitary ware, kitchen appliances, and bathroom fittings. Combining contemporary design with reliable, everyday functionality, Docasa is dedicated to meeting the demanding styling and durability needs of the modern Malaysian household. Why Choose Docasa? Contemporary Aesthetics Perfectly suited for modern and warm minimalist interiors, offering sleek, clean-lined designs that effortlessly elevate the visual appeal of any kitchen or bathroom. Comprehensive Range From luxurious bathtubs and one-piece water closets featuring seamless designs to high-quality faucets and accessories, Docasa offers a complete styling solution. Durable Construction Expertly crafted from premium materials, including heavy-duty stainless steel for kitchen sinks and scratch-resistant ceramics, ensuring long-lasting performance. Precision Engineering Designed with exacting technical accuracy in mind, ensuring components seamlessly integrate into your designated vanity and basin measurements for a perfect fit. As an authorised distributor, we have ready stock available in Malaysia—reach out to our BATH2U experts today to discuss your requirements and receive a customized quote!
-  Updated: 2026-11-06T04:26:17Z
+  Updated: 2026-11-18T09:08:31Z
   Total Products: 209
 - [EltaTrade](https://bath2u.com/collections/brand-eltatrade): Elta Trade Premium Ventilation Solutions & Bathroom Exhaust Fans in Malaysia As a specialized residential and commercial division of the globally renowned Elta Group, Elta Trade brings over 50 years of British fan engineering expertise directly to the Asian market. With a strong local presence in Malaysia, they are the trusted ventilation specialists dedicated to improving indoor air quality and eliminating damaging condensation in modern homes. Whether you are upgrading a warm, contemporary minimalist bathroom or outfitting a high-end commercial washroom, Elta Trade’s high-performance exhaust fans seamlessly integrate into your space. Their advanced range—from the whisper-quiet Silent Response series to ultra-powerful ducted solutions—effectively extracts moisture while maintaining a sleek, unobtrusive aesthetic that complements your carefully curated interior design. Why Choose Elta Trade? Apex Air Science Engineering Every product is designed, developed, and optimized by true fan engineers to ensure maximum airflow, energy efficiency, and reliable performance in demanding wet environments. Ultra-Quiet & Powerful Experience industry-leading extraction rates without the disruptive noise. Their compact, silent exhaust models are perfectly engineered for modern residential bathrooms and powder rooms. Sleek, Unobtrusive Design Offering a range of low-profile, contemporary grilles—including stylish integrated LED options—that sit flush against ceilings and walls to blend flawlessly with minimalist decors. Global Standards, Local Support Backed by rigorous international manufacturing quality benchmarks, Elta Trade provides the distinct advantage of comprehensive local support and rapid supply right here in Malaysia. As an authorised distributor, we have ready stock available in Malaysia—reach out to our BATH2U experts today to discuss your ventilation requirements and receive a customized quote!
   Updated: 2026-11-06T04:26:17Z
@@ -720,7 +699,7 @@ Meta description: Shop LED mirrors in Malaysia for homes, apartments, hotels and
   Updated: 2026-11-06T04:26:24Z
   Total Products: 3
 - [SANIWARE](https://bath2u.com/collections/brand-saniware): Saniware Quality Sanitary Ware & Modern Bathroom Solutions in Malaysia Committed to delivering everyday reliability without compromising on style, Saniware offers a comprehensive range of high-quality sanitary fixtures to the Malaysian market. Designed with both homeowner practicality and enduring durability in mind, Saniware provides the essential foundational pieces needed to build a highly functional, beautifully curated bathroom space. Whether you are outfitting a compact urban en-suite or a serene, warm minimalist master bathroom, Saniware products integrate seamlessly into your carefully planned layout. Featuring exactingly proportioned designs that maximize spatial efficiency, their lineup includes modern water closets with sleek wrapover seat designs and smoothly glazed basins that effortlessly complement a contemporary interior aesthetic. Why Choose Saniware? Premium Ceramic Glaze Crafted from highly durable, scratch-resistant vitreous china and finished with a premium glaze, ensuring a pristine, hygienic surface that resists stains and is incredibly easy to clean. Contemporary Aesthetics Featuring sleek, unobtrusive silhouettes and highly desired seamless wrapover seat designs that effortlessly elevate the look of modern and warm minimalist bathroom layouts. Space-Optimized Engineering Expertly proportioned to fit perfectly into designated bathroom measurements, making them an ideal choice for maximizing utility in compact spaces without sacrificing visual appeal. Water-Efficient Performance Equipped with powerful, advanced flushing technologies engineered to provide exceptional clearing performance while significantly reducing your household's daily water consumption. As an authorised distributor, we have ready stock available in Malaysia—reach out to our BATH2U experts today to discuss your measurements and receive a customized quote!
-  Updated: 2026-11-10T05:52:04Z
+  Updated: 2026-11-16T12:08:50Z
   Total Products: 260
 - [TAGPIN](https://bath2u.com/collections/brand-tagpin): Tagpin Premium Laundry Racks & Modern Storage Baskets in Malaysia Dedicated to transforming functional utility areas into beautifully organized spaces, Tagpin provides an innovative range of premium laundry racks and storage baskets to the Malaysian market. By seamlessly blending smart, space-saving engineering with robust durability, Tagpin ensures that your everyday household chores become more efficient and your home remains effortlessly clutter-free. Whether you are outfitting a compact condo balcony, a dedicated utility room, or a warm minimalist bathroom, Tagpin’s meticulously designed solutions integrate perfectly into your layout. From heavy-duty, retractable drying racks to sleek, contemporary laundry baskets, their products are designed to handle heavy daily use while maintaining clean architectural lines that complement your carefully curated interior aesthetic. Why Choose Tagpin? Space-Optimized Engineering Featuring intelligent, foldable, and retractable designs that maximize your available square footage, allowing you to easily tuck the racks away when not in use to maintain a clean, uncluttered look. Rust-Proof Durability Expertly constructed using premium stainless steel and high-grade aluminum, ensuring lifelong resistance to rust, corrosion, and the heavy moisture of wet laundry in a tropical climate. Heavy-Duty Capacity Built with uncompromising structural integrity to safely support high weight loads, easily accommodating heavy, wet blankets, large towels, and full family laundry batches without bending or warping. Contemporary Aesthetics Designed with smooth contours and unobtrusive, modern profiles, proving that essential utility and storage products can perfectly match the refined elegance of a warm minimalist home. As an authorised distributor, we have ready stock available in Malaysia—reach out to our BATH2U experts today to discuss your space requirements and receive a customized quote!
   Updated: 2026-11-06T04:26:29Z
@@ -729,10 +708,10 @@ Meta description: Shop LED mirrors in Malaysia for homes, apartments, hotels and
   Updated: 2026-11-06T04:26:31Z
   Total Products: 9
 - [Vitally Bathroom & Kitchen Doors](https://bath2u.com/collections/brand-vitally-bathroom-kitchen-doors): Vitally Premium Aluminium Doors & Space-Saving Bathroom Entrances in Malaysia As Malaysia’s leading innovator in aluminium home products, Vitally has redefined interior entryways with its highly durable, beautifully crafted door systems. Specializing in premium bi-fold doors, slide-and-swing doors, and shower enclosures, Vitally delivers the ultimate combination of heavy-duty reliability and flawless spatial efficiency for modern wet environments. Whether you are maximizing space in a compact urban en-suite or ensuring a seamless entryway for a warm minimalist master bathroom, Vitally doors integrate perfectly into your architectural layout. Their trackless designs ensure an uninterrupted floor aesthetic, while their highly customizable panels—ranging from sleek, translucent glass to contemporary wood-grain finishes—allow you to maintain complete design harmony throughout your carefully curated home. Why Choose Vitally Doors? Space-Optimized Mechanisms Expertly engineered bi-fold and slide-and-swing systems fold smoothly out of the way, drastically reducing the door  required and freeing up valuable floor space in tight bathrooms. 100% Rust-Proof Aluminium Constructed from premium, high-grade extruded aluminium frames, ensuring exceptional structural integrity and lifelong resistance to rust, rot, and water damage in humid tropical climates. Seamless Trackless Design Many models feature an innovative bottom-trackless operating system, allowing for a smooth, barrier-free transition between rooms while eliminating dirt traps and tripping hazards. Warm Minimalist Customization Offering an extensive selection of eco-art panels, frosted glass, and sleek frame finishes to flawlessly match the contemporary, warm minimalist aesthetic of your interior styling. As an authorised distributor, we have ready stock available in Malaysia—reach out to our BATH2U experts today to discuss your door measurements and receive a customized quote!
-  Updated: 2026-11-06T04:26:31Z
-  Total Products: 1
+  Updated: 2026-11-19T09:26:18Z
+  Total Products: 4
 - [XUNDA](https://bath2u.com/collections/brand-xunda): Xunda Premium Kitchen Appliances & High-Efficiency Hobs in Malaysia Globally renowned for pioneering innovative cooking technologies, Xunda provides the Malaysian market with a premium selection of high-performance kitchen appliances. Dedicated to elevating the everyday culinary experience, Xunda seamlessly combines robust, heavy-duty engineering with sleek, contemporary design to meet the intense demands of modern households. Whether you are designing a high-efficiency chef's workspace or completing a beautifully curated, warm minimalist open-plan kitchen, Xunda’s appliances integrate flawlessly into your layout. From their signature focused-flame gas hobs to their powerful, intuitively designed cooker hoods, every product is meticulously crafted to ensure your kitchen remains both visually stunning and exceptionally functional. Why Choose Xunda? Focused Flame Technology Engineered with advanced, high-efficiency burners that concentrate heat for powerful, even cooking—delivering the precise thermal control required for heavy wok-style cooking. Warm Minimalist Aesthetics Boasting premium black tempered glass panels and seamless stainless steel profiles that effortlessly elevate the clean architectural lines of modern and contemporary interiors. Powerful Smoke Extraction Their advanced cooker hoods feature high-suction motors and smart, streamlined designs to quickly eliminate grease and odors, keeping your pristine kitchen fresh and clean. Uncompromising Durability Constructed using heavy-duty cast iron pan supports, scratch-resistant surfaces, and highly durable internal components built to withstand the rigorous daily use of passionate home chefs. As an authorised distributor, we have ready stock available in Malaysia—reach out to our BATH2U experts today to discuss your kitchen requirements and receive a customized quote!
-  Updated: 2026-11-10T05:52:04Z
+  Updated: 2026-11-18T04:51:44Z
   Total Products: 8
 - [Laundry Basin & Cabinet](https://bath2u.com/collections/laundry-basin-cabinet): Shop laundry basin and cabinet sets in Malaysia. Deep utility sinks with integrated washboards and moisture-resistant storage cabinets for yards and wet kitchens.
   Updated: 2026-11-06T17:25:50Z
@@ -741,8 +720,8 @@ Meta description: Shop LED mirrors in Malaysia for homes, apartments, hotels and
   Updated: 2026-11-06T17:25:50Z
   Total Products: 207
 - [11.11 Sales](https://bath2u.com/collections/sales-2026): Up to 90% OFF selected Bathroom, Kitchen & Water SolutionsLimited-time offers • While stocks last • Terms & Condition Applied
-  Updated: 2026-11-10T05:52:04Z
-  Total Products: 35
+  Updated: 2026-11-19T09:26:18Z
+  Total Products: 39
 - [Inset Basin](https://bath2u.com/collections/inset-basin): Inset Basin
   Updated: 2026-11-06T04:26:21Z
   Total Products: 10
@@ -798,7 +777,7 @@ Meta description: Shop LED mirrors in Malaysia for homes, apartments, hotels and
   Updated: 2026-11-06T04:26:17Z
   Total Products: 28
 - [Stainless Steel Kitchen Sink](https://bath2u.com/collections/stainless-steel-kitchen-sink): Shop stainless steel kitchen sinks in Malaysia. Durable, easy to clean and available in different sizes for homes, apartments and commercial kitchens.
-  Updated: 2026-11-06T17:25:54Z
+  Updated: 2026-11-16T12:08:50Z
   Total Products: 75
 - [Workstation Kitchen Sink](https://bath2u.com/collections/workstation-kitchen-sink): Shop our range of workstation kitchen sinks, designed to make food preparation, washing and cleaning more convenient. Workstation sinks feature built-in ledges that can support useful accessories such as cutting boards, colanders, drying racks and drain trays, helping you maximise your kitchen workspace. Ideal for modern homes, apartments and renovation projects, a workstation kitchen sink combines smart functionality with a clean, contemporary look. Why Choose a Workstation Kitchen Sink? Maximises kitchen workspace Ideal for food preparation and washing Compatible with useful sink accessories Suitable for modern kitchens Practical for busy family homes Available in different sizes and bowl designs Shop workstation kitchen sinks for a smart, practical and modern kitchen upgrade.
   Updated: 2026-11-06T04:26:32Z
@@ -837,7 +816,7 @@ Meta description: Shop LED mirrors in Malaysia for homes, apartments, hotels and
   Updated: 2026-11-06T04:26:21Z
   Total Products: 7
 - [Gas Hobs](https://bath2u.com/collections/gas-hobs): Bringing instant open-flame response and powerful heat control to daily meal preparation, gas hobs remain the trusted choice for authentic wok cooking and high-heat searing. Designed with high-potency main burners alongside versatile auxiliary rings, these cooking surfaces handle heavy stockpots and rapid stir-frying with equal ease. Raised pan support trivets keep cookware stable and balanced during active cooking, while sealed burner wells stop spills and boiled-over liquids from seeping into surrounding counter zones. Ideal for residential wet kitchens, landed home upgrades, and passionate home cooks across Malaysia, this collection combines smooth burner ignition, responsive control knobs, and easy-to-wipe surfaces for an uncompromised cooking experience.
-  Updated: 2026-11-06T04:26:19Z
+  Updated: 2026-11-18T04:51:44Z
   Total Products: 4
 - [Pillar Kitchen Tap](https://bath2u.com/collections/pillar-kitchen-tap): Streamlining daily food prep and cleanup into one effortless action, pillar kitchen taps bring immediate, dedicated cold-water access right where you need it most. Designed to handle high-frequency kitchen tasks, the upright body delivers a consistent, high-velocity stream that makes quick work of filling deep stockpots, rinsing fresh produce, and scrubbing heavy cookware. A crisp quarter-turn handle mechanism gives you instant control over water flow without requiring full-wrist rotation, while the integrated spout aerator conditions incoming pressure into a rich, splash-resistant column that keeps surrounding countertops clean. It is the definitive, low-maintenance solution for high-traffic wet kitchens, busy washing stations, and practical prep sinks.
   Updated: 2026-11-06T04:26:25Z
@@ -888,7 +867,7 @@ Meta description: Shop LED mirrors in Malaysia for homes, apartments, hotels and
   Updated: 2026-11-11T02:03:34Z
   Total Products: 17
 - [Shipping - Medium](https://bath2u.com/collections/shipping-medium)
-  Updated: 2026-11-11T02:04:25Z
+  Updated: 2026-11-16T12:08:50Z
   Total Products: 75
 - [Shipping - FOC](https://bath2u.com/collections/shipping-foc)
   Updated: 2026-11-11T02:06:39Z
@@ -1005,6 +984,12 @@ Meta description: Shop LED mirrors in Malaysia for homes, apartments, hotels and
   Updated: 2026-11-03T15:30:56Z
 - [Bath2u Polanox Service](https://bath2u.com/pages/bath2u-polanox-service)
   Updated: 2026-11-06T02:37:53Z
+- [Toilet Replacement](https://bath2u.com/pages/toilet-replacement)
+  Updated: 2026-11-12T05:02:56Z
+- [Hood Hob Installation](https://bath2u.com/pages/hood-hob-installation)
+  Updated: 2026-11-13T09:09:13Z
+- [Water Heater Installation](https://bath2u.com/pages/water-heater-installation)
+  Updated: 2026-11-13T10:29:21Z
 
 ## Policies
 
