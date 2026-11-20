@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2018-08-11T23:07:15Z
 - Contact Email: Dashtrendevent@gmail.com
-- Updated At: 2026-11-13T00:52:28.621Z
+- Updated At: 2026-11-20T00:57:03.675Z
 
 ## Products
 
 - [Satin High-Slit Cami Maxi Dress](https://dashtrendstore.com/products/satin-high-slit-cami-maxi-dress): Features:Slit,Lace-Up Stretch:No stretch Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip Bust S 50.8 26 37 32.3 M 51.2 27.6 38.6 33.9 L 51.6 29.1 40.2 35.4 XL 52 30.7 41.7 37
-  Updated: 2026-10-21T09:10:11Z
+  Updated: 2026-11-16T14:56:14Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -161,7 +161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/bbd4a948-c872-4052-ab96-eb48e21de3bd-Max.jpg?v=1775619431
     Price: $76.99 USD
 - [Halter Neck Ruffle Hem Mini Dress](https://dashtrendstore.com/products/halter-neck-ruffle-hem-mini-dress): Features:Ruched Stretch:Slightly stretchy Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip Bust S 18.5 24.4 34.6 25.2 M 18.9 26 36.2 26.8 L 19.3 28.3 38.6 29.1
-  Updated: 2026-10-21T09:10:10Z
+  Updated: 2026-11-16T14:56:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -203,7 +203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/7c89776048374cab94797a6c7459ee59-Max.jpg?v=1775619492
     Price: $60.99 USD
 - [Ruched Halter Neck Maxi Dress](https://dashtrendstore.com/products/ruched-halter-neck-maxi-dress): Features:Backless,Tied Stretch:Moderate stretch Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip S 46.9 41.3 33.1 M 47.2 42.9 34.6 L 47.6 45.3 37
-  Updated: 2026-10-21T09:10:08Z
+  Updated: 2026-11-16T14:56:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -233,7 +233,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/950d26e1-b340-492e-bffb-c81e0871c58e-Max.jpg?v=1775620097
     Price: $65.99 USD
 - [Embellished Cutout Sleeveless Denim Dress](https://dashtrendstore.com/products/embellished-cutout-sleeveless-denim-dress): Features:Cutout Stretch:Slightly stretchy Material composition:95% rayon, 5%polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Hip Length Waist S 31.5 33.1 36.6 25.2 M 33.1 34.6 37 26.8 L 35.4 37 37.4 29.1 XL 37.8 39.4 37.8 31.5
-  Updated: 2026-10-21T09:10:04Z
+  Updated: 2026-11-16T14:56:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -255,7 +255,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/9d025a03-e98f-4bc9-b8ea-d9adff68b14c-Max.jpg?v=1775620137
     Price: $125.99 USD
 - [Zip Front Short Sleeve Denim Dress](https://dashtrendstore.com/products/zip-front-short-sleeve-denim-dress): Features:Tied,Zipper,Pocketed Stretch:Slightly stretchy Material composition:85% cotton, 15% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust S 33.1 35.4 M 33.5 37 L 33.9 39.4 XL 34.3 41.7 2XL 34.6 44.1
-  Updated: 2026-10-21T09:10:12Z
+  Updated: 2026-11-16T14:56:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -341,7 +341,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/86e97cfc-1c44-49fc-a6f3-2e316a5880e7-Max.jpg?v=1775620336
     Price: $85.99 USD
 - [Slit Floral Sequin Bodycon Maxi Dress](https://dashtrendstore.com/products/slit-floral-sequin-bodycon-maxi-dress): Features:Sequin,Slit Stretch:No stretch Body:Lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Bust S 48 26 34.6 M 48.4 27.6 36.2 L 48.8 29.9 38.6 XL 49.2 32.3 40.9
-  Updated: 2026-10-21T09:10:12Z
+  Updated: 2026-11-16T14:56:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -363,7 +363,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/0d3da17a-3020-4d0d-bfe6-463093f18664-Max-Origin.webp?v=1777423050
     Price: $121.99 USD
 - [Cutout Tube Top and Wide Leg Pants Set](https://dashtrendstore.com/products/cutout-tube-top-and-wide-leg-pants-set): Features:Cutout Number of pieces:Two-piece Stretch:No stretch Material composition:100% Polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Bottom Length S 25.2 11 31.5 40.9 M 26.8 11.4 33.1 41.3 L 29.1 11.8 35.4 41.7 XL 31.5 12.2 37.8 42.1 2XL 33.9 12.6 40.2 42.5
-  Updated: 2026-11-11T00:50:15Z
+  Updated: 2026-11-16T14:56:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -409,7 +409,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/4dbe6971-98ad-48d7-acac-439462413ff6-Max-Origin.webp?v=1777423728
     Price: $139.99 USD
 - [Sweetheart Neck Cami and Asymmetrical Plaid Skirt Set](https://dashtrendstore.com/products/sweetheart-neck-cami-and-asymmetrical-plaid-skirt-set): This Sweetheart Neck Cami and Asymmetrical Plaid Skirt Set is a stylish and fashion outfit perfect for making a statement. The sweetheart neckline cami accentuates the bust, while the asymmetrical plaid skirt adds a unique and fashionable touch. Made from a comfortable and breathable fabric blend of cotton and polyester, this set is ideal for parties, events, or a night out. The flattering silhouette enhances your figure, and the high-quality construction ensures durability. The eye-catching plaid pattern adds a touch of sophistication and charm. This set is easy to dress up with heels and accessories or dress down with sneakers for a more casual look. Available in various sizes to fit different body types. Features:Asymmetrical,Layered Number of pieces:Two-piece Stretch:No stretch Material composition:95% Polyester, 5% Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Length Hip S 26 16.5 29.1-30.7 37.4 44.1 M 27.6 16.1 31.1-32.7 37.8 45.7 L 29.1 16.5 33.1-34.6 38.2 47.2 XL 31.5 16.9 35-36.6 38.6 48.8 2XL 33.9 17.3 37-38.6 39 50.4
-  Updated: 2026-10-21T09:10:08Z
+  Updated: 2026-11-16T14:56:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -435,7 +435,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/a783d4e5-e2b0-4ea8-8c2f-cd0a08d2349b-Max-Origin.webp?v=1779724233
     Price: $146.99 USD
 - [Floral Print Flounce Sleeve Mermaid Maxi Dress](https://dashtrendstore.com/products/floral-print-flounce-sleeve-mermaid-maxi-dress): Features:Ruffled,Mesh Stretch:Stretchy Body:Partially lined Material composition:96% polyester, 4% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Shoulder Bust Waist Hip Sleeve Length S 54.3 13.6 31.1 25.6 37 26.6 M 54.7 14 32.7 27.2 38.6 27 L 57.7 14.4 35 29.5 40.9 27.4 XL 55.9 14.8 37.4 31.9 43.3 27.8
-  Updated: 2026-10-28T17:43:54Z
+  Updated: 2026-11-18T05:14:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -473,7 +473,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/e82a9529-f46c-4fd0-8482-5eecd0e54d48-Max-Origin.webp?v=1779724332
     Price: $81.99 USD
 - [Sleeveless Tie Waist Wide Leg Jumpsuit](https://dashtrendstore.com/products/sleeveless-tie-waist-wide-leg-jumpsuit): Features:Tied,Buttoned Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Waist Hip S 55.1 35.4 25.2 41.7 M 55.8 37 26.8 43.3 L 56.5 39.4 29.1 45.7 XL 57.2 41.7 31.5 48
-  Updated: 2026-10-21T09:10:12Z
+  Updated: 2026-11-16T14:56:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -543,7 +543,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/206478dacfc14c629fc47ae0e497e089-Max-Origin.webp?v=1779724407
     Price: $59.99 USD
 - [Floral Embroidered Mesh Off-Shoulder Top](https://dashtrendstore.com/products/floral-embroidered-mesh-off-shoulder-top): Features:Embroidered,Mesh,Sheer Stretch:No stretch Material composition:100% Polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length One Size 15 47.2 19.7
-  Updated: 2026-11-12T06:25:11Z
+  Updated: 2026-11-16T14:56:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -561,7 +561,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/6c9a8a8a33174e8ca668d687b99bec97-Max-Origin.webp?v=1779724502
     Price: $34.99 USD
 - [Open Front Leather Jacket & Dress Set](https://dashtrendstore.com/products/open-front-leather-jacket-dress-set): Features:Basic style Number of pieces:Two-piece Stretch:No stretch Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Length S 21.3 32.7 32.7 M 21.7 34.3 34.3 L 22 36.6 36.6 XL 22.4 39 39 2XL 22.8 41.3 41.3
-  Updated: 2026-11-06T17:26:06Z
+  Updated: 2026-11-16T14:56:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -627,7 +627,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/1fc64a06cf474f5b9f59348a3df35d8f-Max-Origin.webp?v=1779724544
     Price: $92.99 USD
 - [Abstract Print Halter Neck Maxi Dress](https://dashtrendstore.com/products/abstract-print-halter-neck-maxi-dress): Features:Tied Stretch:No stretch Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust S 53.1 35.4 M 53.5 37 L 53.9 39.4 XL 54.3 41.7 2XL 54.7 44.1
-  Updated: 2026-11-13T00:41:05Z
+  Updated: 2026-11-16T14:56:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -712,114 +712,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/b39a1d0a-6e6d-49d8-8f3e-298861c5736b-Max-Origin.webp?v=1779724798
     Price: $69.99 USD
-- [Cold Shoulder Mesh Sleeve Maxi Dress](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress): Features:Ruched Stretch:Slightly stretchy Body:Partially lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip Bust S 56.3 26 37.4 34.6 M 56.7 28 39.4 36.6 L 57.1 29.9 41.3 38.6 XL 57.5 31.9 43.3 40.6 2XL 57.9 33.9 45.3 42.5
-  Updated: 2026-11-06T14:28:11Z
-  Vendor: Trendsi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/aae55aad-f866-4f4d-ab6f-2c0717f222d5-Max-Origin.webp?v=1779724890
-  - [Black / S](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570947764459)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/aae55aad-f866-4f4d-ab6f-2c0717f222d5-Max-Origin.webp?v=1779724890
-    Price: $97.99 USD
-  - [Black / M](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570947797227)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/aae55aad-f866-4f4d-ab6f-2c0717f222d5-Max-Origin.webp?v=1779724890
-    Price: $97.99 USD
-  - [Black / L](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570947829995)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/aae55aad-f866-4f4d-ab6f-2c0717f222d5-Max-Origin.webp?v=1779724890
-    Price: $97.99 USD
-  - [Black / XL](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570947862763)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/aae55aad-f866-4f4d-ab6f-2c0717f222d5-Max-Origin.webp?v=1779724890
-    Price: $97.99 USD
-  - [Black / 2XL](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570947895531)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/aae55aad-f866-4f4d-ab6f-2c0717f222d5-Max-Origin.webp?v=1779724890
-    Price: $97.99 USD
-  - [Gray / S](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570947928299)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/1238bf9ceead4c85a27fa1bf63682e86-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [Gray / M](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570947961067)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/1238bf9ceead4c85a27fa1bf63682e86-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [Gray / L](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570947993835)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/1238bf9ceead4c85a27fa1bf63682e86-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [Gray / XL](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570948026603)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/1238bf9ceead4c85a27fa1bf63682e86-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [Gray / 2XL](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570948059371)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/1238bf9ceead4c85a27fa1bf63682e86-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [White / S](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570948092139)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/928c09eeba014676a2402a8940542459-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [White / M](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570948124907)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/928c09eeba014676a2402a8940542459-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [White / L](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570948157675)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/928c09eeba014676a2402a8940542459-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [White / XL](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570948190443)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/928c09eeba014676a2402a8940542459-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [White / 2XL](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570948223211)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/928c09eeba014676a2402a8940542459-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [Blue / S](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570948255979)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/6662f56df990462aafb4b01f117f0e88-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [Blue / M](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570948288747)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/6662f56df990462aafb4b01f117f0e88-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [Blue / L](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570948321515)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/6662f56df990462aafb4b01f117f0e88-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [Blue / XL](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570948354283)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/6662f56df990462aafb4b01f117f0e88-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [Blue / 2XL](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570948387051)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/6662f56df990462aafb4b01f117f0e88-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [Red / S](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570948419819)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/c420bc4738c84c40b4675254fddabf39-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [Red / M](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570948452587)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/c420bc4738c84c40b4675254fddabf39-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [Red / L](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570948485355)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/c420bc4738c84c40b4675254fddabf39-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [Red / XL](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570948518123)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/c420bc4738c84c40b4675254fddabf39-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
-  - [Red / 2XL](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress?variant=48570948550891)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/c420bc4738c84c40b4675254fddabf39-Max-Origin.webp?v=1779724891
-    Price: $97.99 USD
 - [One-Shoulder Ruched Bodycon Maxi Dress](https://dashtrendstore.com/products/one-shoulder-ruched-bodycon-maxi-dress): Features:Ruched,Slit Stretch:Slightly stretchy Body:Not lined Material composition:95% Polyester, 5% Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust Hip Waist S 64.6 28.3 33.5 24.4 M 65 29.9 35 26 L 65.4 31.5 36.6 27.6 XL 65.7 33.1 38.2 29.1 2XL 66.1 34.6 39.8 30.7
-  Updated: 2026-10-21T09:10:13Z
+  Updated: 2026-11-16T14:56:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -905,7 +799,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/14c5bfce976741948fda6df3daea3399-Max-Origin.webp?v=1779725428
     Price: $100.99 USD
 - [Full Size Asymmetrical Sleeveless Blazer Style Wide Leg Jumpsuit Plus Size](https://dashtrendstore.com/products/full-size-asymmetrical-sleeveless-blazer-style-wide-leg-jumpsuit-plus-size): Features:Chain Material composition:95% Polyester, 5% Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Bust Top Length S 26.8 33.9 57.9 M 28.3 35.4 58.3 L 30.7 37.8 58.7 XL 33.1 40.2 59.1 2XL 35.4 42.5 59.4 3XL 37.8 44.9 59.8
-  Updated: 2026-10-21T09:10:08Z
+  Updated: 2026-11-16T14:56:18Z
   Vendor: Trendsi
   Product Type: Jumpsuits & Rompers
   Availability: Available
@@ -983,7 +877,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/119253b8-2b6e-4f30-bd76-dcbd2d78f1e9-Max-Origin.webp?v=1780248834
     Price: $84.99 USD
 - [Full Size Button Front Denim Overalls with Pockets Plus Size](https://dashtrendstore.com/products/full-size-button-front-denim-overalls-with-pockets-plus-size): Features:Buttoned Stretch:No stretch Material composition:80% Cotton, 20% Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Hip Waist S 62 39.2 28.8 M 62.4 40.8 30.4 L 62.8 42.4 32 XL 63.2 44 33.6 2XL 63.6 45.6 35.2 3XL 64 47.2 36.8
-  Updated: 2026-10-21T09:10:14Z
+  Updated: 2026-11-16T14:56:18Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1085,7 +979,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/2e24f976-2db7-43ab-8c08-37f124c65d27-Max-Origin.webp?v=1780248927
     Price: $108.99 USD
 - [Sleeveless Blazer & Shorts Set with Tie Waist](https://dashtrendstore.com/products/sleeveless-blazer-shorts-set-with-tie-waist): Features:Tied Number of pieces:Two-piece Stretch:No stretch Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Bottom Length Waist Hip S 24.8 35.4 14.2 26.8 39.4 M 25.2 37 14.4 28.3 40.9 L 25.8 39.4 14.6 30.7 43.3 XL 26.4 41.7 14.9 33.1 45.7 2XL 27 44.1 15.1 35.4 48
-  Updated: 2026-11-04T18:39:06Z
+  Updated: 2026-11-16T14:56:19Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1251,7 +1145,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/c4d6ff6a-f408-4ddc-8769-57874313c562-Max.jpg?v=1780383173
     Price: $52.99 USD
 - [Long Sleeve Mock Neck Wide Leg Jumpsuit](https://dashtrendstore.com/products/long-sleeve-mock-neck-wide-leg-jumpsuit): Features: Basic style Sheer: Opaque Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Waist Hip Sleeve Length Top Length M 31.5 23.6 39.4 24.4 60.6 L 33.9 26 41.7 24.8 61.4 XL 36.2 28.3 44.1 25.2 62.2 2XL 38.6 30.7 46.5 25.6 63
-  Updated: 2026-10-21T09:10:14Z
+  Updated: 2026-11-16T14:56:19Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1369,7 +1263,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/8d7a73ca19fb4d31899679e3ca646cc0-Max.jpg?v=1780413784
     Price: $64.00 USD
 - [Western Style Fringe Zip Front Jumpsuit](https://dashtrendstore.com/products/western-style-fringe-zip-front-jumpsuit): Features:Zipper,Tassel Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Inseam Waist S 54.7 34.6 0 0 M 55.1 36.2 0 0 L 55.5 38.6 0 0 XL 55.9 40.9 0 0 2XL 56.3 43.3 0 0
-  Updated: 2026-10-21T09:10:14Z
+  Updated: 2026-11-16T14:56:19Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1395,7 +1289,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/58a7608dc7064cfabe523a3e54bb6083-Max-Origin.webp?v=1780413880
     Price: $129.99 USD
 - [Ruched Flare Leg Jumpsuit](https://dashtrendstore.com/products/ruched-flare-leg-jumpsuit): Features:Ruched Material composition:100% Polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Bust S 24.4 29.9 M 26 31.5 L 27.6 33.1 XL 29.1 34.6 2XL 30.7 36.2
-  Updated: 2026-10-21T09:10:18Z
+  Updated: 2026-11-16T14:56:19Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1461,7 +1355,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/6e3d94eb7a0142d5a67095da726c531c-Max-Origin.webp?v=1780413981
     Price: $101.99 USD
 - [Floral Print Wide Leg Pleated Jumpsuit](https://dashtrendstore.com/products/floral-print-wide-leg-pleated-jumpsuit): Features:Pleated Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Inseam Waist Bust S 26 26.8 37 M 26.2 28.3 38.6 L 26.4 30.7 40.9 XL 26.6 33.1 43.3
-  Updated: 2026-10-21T09:10:20Z
+  Updated: 2026-11-16T14:56:20Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1483,7 +1377,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/e956222f-ed21-4715-b599-0154d374942d-Max-Origin.webp?v=1780414241
     Price: $87.99 USD
 - [Striped Tube Casual Jumpsuit](https://dashtrendstore.com/products/striped-tube-casual-jumpsuit): Features:Pocketed Material composition:95% Polyester, 5% Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Bust Top Length Hip S 23.6 28.3 50.4 42.5 M 25.2 29.9 50.8 44.1 L 27.6 32.3 51.2 46.5 XL 29.9 34.6 51.6 48.8 2XL 32.3 37 52 51.2
-  Updated: 2026-10-21T09:10:15Z
+  Updated: 2026-11-16T14:56:20Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1509,7 +1403,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/a697c0a17c244c5fb531ae0d94743982-Max-Origin.webp?v=1780414270
     Price: $84.99 USD
 - [Halter Neck Abstract Print Wide Leg Jumpsuit](https://dashtrendstore.com/products/halter-neck-abstract-print-wide-leg-jumpsuit): Features:Pocketed Material composition:95% Polyester, 5% Elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Bust S 25.2 29.9 M 26.8 31.5 L 28.3 33.1 XL 29.9 34.6 2XL 31.5 36.2
-  Updated: 2026-10-21T09:10:22Z
+  Updated: 2026-11-16T14:56:20Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1635,7 +1529,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/6fa65f0c5c314e838d617d1ec898676d-Max-Origin.webp?v=1780414441
     Price: $63.99 USD
 - [Abstract Print V-Neck Wide Leg Jumpsuit](https://dashtrendstore.com/products/abstract-print-v-neck-wide-leg-jumpsuit): Features:Belted Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Bust Top Length S 26.8 34.6 57.1 M 28.3 36.2 57.8 L 30.7 38.6 58.5 XL 33.1 40.9 59.2
-  Updated: 2026-10-21T09:10:09Z
+  Updated: 2026-11-16T14:56:21Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1657,7 +1551,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/814de0f3-c89b-4566-ba9f-67532ce158d8-Max.jpg?v=1780414491
     Price: $78.99 USD
 - [Velvet Wide Leg Jumpsuit with Sheer Sleeves](https://dashtrendstore.com/products/velvet-wide-leg-jumpsuit-with-sheer-sleeves): Features:Sheer,Ruched Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Waist Hip S 57.5 32.7 26 35.8 M 58.1 34.3 27.6 37.4 L 58.7 36.6 29.9 39.8 XL 59.1 39.4 32.3 42.1 2XL 59.4 41.7 34.6 44.5
-  Updated: 2026-10-21T09:10:09Z
+  Updated: 2026-11-16T14:56:21Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1683,7 +1577,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/68c8b55fd6e34b3385c6f3646cc4199b-Max.jpg?v=1780414675
     Price: $98.99 USD
 - [Abstract Print Sleeveless Wide Leg Jumpsuit](https://dashtrendstore.com/products/abstract-print-sleeveless-wide-leg-jumpsuit): Features:Tied Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Inseam Waist Bust Hip Top Length S 28 37.8 37.8 40.6 53.1 M 28.1 39.4 39.4 42.1 53.5 L 28.3 41.7 41.7 44.5 53.9 XL 28.5 44.1 44.1 46.9 54.3 2XL 28.7 46.5 46.5 49.2 54.7
-  Updated: 2026-10-21T09:10:10Z
+  Updated: 2026-11-16T14:56:21Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1749,7 +1643,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/9ee37bbd-3f71-406d-85fa-28d4aa0bc99a-Max.jpg?v=1780414770
     Price: $54.99 USD
 - [Chevron Halter Neck Romper](https://dashtrendstore.com/products/chevron-halter-neck-romper): Features:Basic style,Tied,Backless Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 27.2 33.1 M 27.6 34.6 L 28 36.2 XL 28.3 38.6
-  Updated: 2026-10-21T09:10:19Z
+  Updated: 2026-11-16T14:56:21Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1771,7 +1665,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/d7a85dff-a917-4ea9-9f4c-e4aa17a7e5db-Max-Origin.webp?v=1780415001
     Price: $45.99 USD
 - [Floral Ruffle Layered Denim Dress](https://dashtrendstore.com/products/floral-ruffle-layered-denim-dress): Features:Ruffled Stretch:No stretch Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Length Waist Hip S 31.5 31.1 26 51.2 M 33.1 31.5 27.6 52.8 L 34.6 31.9 29.1 54.3
-  Updated: 2026-10-29T20:23:17Z
+  Updated: 2026-11-16T14:56:22Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1789,7 +1683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/6de9e8845b41452d8935f7842813c3aa-Max.jpg?v=1780415219
     Price: $142.99 USD
 - [Raw Hem Maxi Denim Skirt](https://dashtrendstore.com/products/raw-hem-maxi-denim-skirt): Features:Buttoned Stretch:No stretch Material composition:85% cotton, 15% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip S 39 27.6 37.8 M 39.4 29.1 39.4 L 39.8 30.7 40.9 XL 40.2 32.3 41.7
-  Updated: 2026-11-12T17:06:05Z
+  Updated: 2026-11-16T14:56:22Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1907,7 +1801,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/0d3e809d-d74e-4bf7-8972-d9bb869017ac-Max.jpg?v=1780415244
     Price: $77.99 USD
 - [Decor Button Front A-Line Denim Dress](https://dashtrendstore.com/products/decor-button-front-a-line-denim-dress): Features:Buttoned,Pocketed Stretch:No stretch Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Length Waist S 31.5 42.9 27.6 M 33.1 43.3 29.1 L 35.4 43.7 31.5
-  Updated: 2026-10-21T09:10:08Z
+  Updated: 2026-11-16T14:56:22Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1925,7 +1819,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/1b58d999-a1b3-407c-8a89-7560af53a85c-Max.jpg?v=1780415287
     Price: $89.00 USD
 - [Front-Button Adjustable Fishtail Sleeveless Denim Overall Dress](https://dashtrendstore.com/products/front-button-adjustable-fishtail-sleeveless-denim-overall-dress): Features:Buttoned Stretch:Slightly stretchy Material composition:85% cotton, 15% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip S 51.6 26 34.6 M 52.2 27.6 36.2 L 52.8 29.9 38.6 XL 53.3 32.3 40.9
-  Updated: 2026-10-21T09:10:18Z
+  Updated: 2026-11-16T14:56:22Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1947,7 +1841,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/d13041fc-1540-4ea5-ba71-63227b34e3b6-Max-Origin.webp?v=1780415310
     Price: $122.99 USD
 - [Sleeveless Button-Front Denim Dress](https://dashtrendstore.com/products/sleeveless-button-front-denim-dress): Features:Buttoned Stretch:No stretch Material composition:95% rayon, 5% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Shoulder Length S 35.4 11 31.5 M 37.4 11.4 31.9 L 39.4 11.8 32.3 XL 41.3 12.2 32.7
-  Updated: 2026-10-21T09:10:14Z
+  Updated: 2026-11-16T14:56:22Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1985,7 +1879,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/e7af484387fa4a2f96dab1e6f7944995-Max-Origin.webp?v=1780415335
     Price: $100.99 USD
 - [Sleeveless Button-Front Bodycon Denim Dress](https://dashtrendstore.com/products/sleeveless-button-front-bodycon-denim-dress): Features:Buttoned Stretch:No stretch Material composition:95% rayon, 5% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Length Shoulder S 35.4 31.5 14.6 M 37.4 31.9 15 L 39.4 32.3 15.4 XL 41.3 32.7 15.7
-  Updated: 2026-10-21T09:10:22Z
+  Updated: 2026-11-16T14:56:23Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2023,7 +1917,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/146ebf85d00b4615ad9f4e66257d4475-Max-Origin.webp?v=1780415351
     Price: $105.99 USD
 - [Plus Size Pearl Embellished Frayed Hem Denim Skirt](https://dashtrendstore.com/products/plus-size-pearl-embellished-frayed-hem-denim-skirt): Features:Raw Hem,Buttoned Body:Not lined Material composition:95%polyester,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip 0XL 22.4 31.5 37.8 1XL 22.8 33.9 40.2 2XL 23.2 36.2 42.5 3XL 23.6 38.6 44.9 4XL 24 40.9 47.2
-  Updated: 2026-10-21T09:10:10Z
+  Updated: 2026-11-16T14:56:23Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2049,7 +1943,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/1f0c4a1926a145048a45e41a16edc844-Max-Origin.webp?v=1780415385
     Price: $87.99 USD
 - [Button-Front Denim Skirt](https://dashtrendstore.com/products/button-front-denim-skirt): Features:Buttoned,Slit Stretch:Slightly stretchy Material composition:85% cotton，15% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip XS 33.1 26 36.2 S 33.5 27.6 37.8 M 33.9 29.1 39.4 L 34.4 30.7 41.7
-  Updated: 2026-11-05T01:50:55Z
+  Updated: 2026-11-18T19:37:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2071,7 +1965,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/1ffd6bef-931f-450a-b667-9b657b2722a0-Max-Origin.webp?v=1780415428
     Price: $83.99 USD
 - [High Waist Mini Denim Skirt](https://dashtrendstore.com/products/high-waist-mini-denim-skirt): Features:Pocketed Stretch:Slightly stretchy Material composition:85% cotton, 15% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip S 14.2 24.8 34.6 M 14.6 26.4 36.2 L 15.2 28.7 38.6 XL 15.7 31.1 40.9 2XL 16.1 33.5 43.3
-  Updated: 2026-10-21T09:10:11Z
+  Updated: 2026-11-16T14:56:23Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2097,7 +1991,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/0e9342274aac47e6be485dd95091f52f-Max-Origin.webp?v=1780415487
     Price: $58.99 USD
 - [Leopard Sheer Midi Skirt](https://dashtrendstore.com/products/leopard-sheer-midi-skirt): Features:Sheer Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip S 35.8 26.4 36.2 M 36.2 28.7 38.6 L 36.6 31.1 40.9 XL 37 34.3 44.1
-  Updated: 2026-11-10T09:51:13Z
+  Updated: 2026-11-16T14:56:24Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2107,11 +2001,11 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/dd52e749-4e05-4650-a90f-1c4afc60c6b4-Max-Origin.webp?v=1780415646
     Price: $42.99 USD
   - [Leopard / M](https://dashtrendstore.com/products/leopard-sheer-midi-skirt?variant=48684859031787)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/dd52e749-4e05-4650-a90f-1c4afc60c6b4-Max-Origin.webp?v=1780415646
     Price: $42.99 USD
   - [Leopard / L](https://dashtrendstore.com/products/leopard-sheer-midi-skirt?variant=48684859064555)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/dd52e749-4e05-4650-a90f-1c4afc60c6b4-Max-Origin.webp?v=1780415646
     Price: $42.99 USD
   - [Leopard / XL](https://dashtrendstore.com/products/leopard-sheer-midi-skirt?variant=48684859097323)
@@ -2119,7 +2013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/dd52e749-4e05-4650-a90f-1c4afc60c6b4-Max-Origin.webp?v=1780415646
     Price: $42.99 USD
 - [Ruched Slit Midi Skirt](https://dashtrendstore.com/products/ruched-slit-midi-skirt): Features:Drawstring,Slit,Zipper Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip M 31.5 27.2 37 L 31.9 28.7 38.6 XL 32.3 30.3 40.2
-  Updated: 2026-10-21T09:10:08Z
+  Updated: 2026-11-16T14:56:24Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2149,7 +2043,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/c0bc3f67-6e97-4717-8f88-56e5386b2415-Max-Origin.webp?v=1780416737
     Price: $78.99 USD
 - [Striped Tube Top and Slit Skirt Set](https://dashtrendstore.com/products/striped-tube-top-and-slit-skirt-set): Features:Slit Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Length S 25.2 18.5 26.8 35 M 26.4 18.8 28.3 35 L 28.3 19.3 30.7 35.6 XL 30.3 19.8 33.1 36.2
-  Updated: 2026-10-21T09:10:10Z
+  Updated: 2026-11-16T14:56:24Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2171,7 +2065,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/cde4c5691cd644f69e1249a578cdb306-Max-Origin.webp?v=1780515521
     Price: $63.99 USD
 - [Open Toe Wedge Sandals](https://dashtrendstore.com/products/open-toe-wedge-sandals): Includes:Box not included Heel height:High heels Material:PU Leather,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 34(US3) 8.7 35(US4) 8.8 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10
-  Updated: 2026-10-21T09:10:16Z
+  Updated: 2026-11-16T14:56:24Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2241,7 +2135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/f094f5018ac241d29a553d997287e544-Max-Origin.webp?v=1780515628
     Price: $97.99 USD
 - [Men's Full Size Button Up Sleeveless Top and Shorts Plus Size](https://dashtrendstore.com/products/mens-full-size-button-up-sleeveless-top-and-shorts-plus-size): Features:Pocketed Number of pieces:Two-piece Stretch:No stretch Material composition:95% Linen, 5% Polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Bottom Length Waist Hip S 28 18.1 42.9 19.7 29.1 41.3 M 28.7 18.7 44.9 20.5 30.7 42.9 L 29.5 19.3 46.9 21.3 32.3 44.5 XL 30.3 19.9 48.8 22 33.9 46.1 2XL 31.1 20.5 50.8 22.8 35.4 47.6 3XL 31.9 21.1 52.8 23.6 37 49.2
-  Updated: 2026-10-21T09:10:10Z
+  Updated: 2026-11-16T14:56:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2439,7 +2333,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/1fdb81c6-e9e0-4a24-abf8-93deff9b6dd7-Max-Origin.webp?v=1780515677
     Price: $81.99 USD
 - [Men's Full Size Casual Long Sleeve Top & Pants Set Plus Size](https://dashtrendstore.com/products/mens-full-size-casual-long-sleeve-top-pants-set-plus-size): Features:Pocketed Number of pieces:Two-piece Stretch:No stretch Material composition:95%polyester,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length Bottom Length Waist Hip S 27.6 19.7 43.3 24.4 40.2 29.1 42.1 M 28.3 20.5 45.3 25.2 40.9 30.7 43.7 L 29.1 21.3 47.2 26 41.7 32.3 45.3 XL 29.9 22 49.2 26.8 42.5 33.9 46.9 2XL 30.7 22.8 51.2 27.6 43.3 35.4 48.4 3XL 31.5 23.6 53.1 28.3 44.1 37 50
-  Updated: 2026-11-03T20:28:25Z
+  Updated: 2026-11-16T14:56:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2541,7 +2435,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/973fbaf13c0641bb9be7722e9f813299-Max-Origin.webp?v=1780515696
     Price: $110.99 USD
 - [Open Toe Wedge Sandals](https://dashtrendstore.com/products/open-toe-wedge-sandals-1): Includes:Box not included Heel height:High heels Material:PU Leather,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 35(US4) 8.8 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4
-  Updated: 2026-10-21T09:10:10Z
+  Updated: 2026-11-16T14:56:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2691,7 +2585,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/c558d98c-3e68-4d86-8278-24f5943bbe82-Max-Origin.webp?v=1780516034
     Price: $94.99 USD
 - [Open Toe Wedge Sandals](https://dashtrendstore.com/products/open-toe-wedge-sandals-2): Includes:Box not included Heel height:Mid heels Material:PU Leather,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4
-  Updated: 2026-10-21T09:10:15Z
+  Updated: 2026-11-16T14:56:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2793,7 +2687,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/6f00ecc9-bd32-430a-80d3-cd70035a9896-Max-Origin.webp?v=1780516052
     Price: $78.99 USD
 - [Open Toe Wedge Sandals](https://dashtrendstore.com/products/open-toe-wedge-sandals-3): Includes:Box not included Heel height:High heels Material:PU Leather,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 34(US3) 8.7 35(US4) 8.8 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4 44(US12) 10.6
-  Updated: 2026-10-21T09:10:16Z
+  Updated: 2026-11-16T14:56:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2871,7 +2765,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/5d3125aa-74d9-41ef-9c9e-36c62319c1a7-Max-Origin.webp?v=1780516066
     Price: $84.99 USD
 - [Top model 228695](https://dashtrendstore.com/products/top-model-228695): Women's casual tank top with thin straps, with a simple and universal character. Made of high-quality cotton and elastane blend in a ribbed structure, which provides flexibility, comfort and a good fit to the silhouette. The model of standard length has a smooth pattern, which emphasizes its minimalist style and makes the tank top a perfect base for many everyday stylizations. The V-neck subtly slims the neck and adds a feminine character to the whole. The lightweight and comfortable construction makes the tank top perfect for casual outfits, especially on warmer days. It can be easily combined with jeans, shorts or skirts, creating simple and fashionable stylizations. Cotton 90 % Spandex 10 % Size Lenght Hips Chest EU L/XL | US L/XL 60 cm 86 cm 76 cm EU S/M | US S/M 58 cm 82 cm 72 cm
-  Updated: 2026-11-11T23:35:51Z
+  Updated: 2026-11-18T17:41:36Z
   Vendor: Rue Paris
   Product Type: 
   Availability: Available
@@ -2909,7 +2803,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/custom1000x1500_1127676.jpg?v=1780520499
     Price: $32.00 USD
 - [Velvet Dress with Lace Splicing Long SleeveWomen's Fashion Dress](https://dashtrendstore.com/products/velvet-dress-with-lace-splicing-long-sleevewomens-fashion-dress): Style: ElegantPattern Type: Solid ColorMaterial: VelvetFabric: Polyester (Polyester Fiber)Neckline: Round NeckSleeve Length: Long SleeveSleeve Style: Lantern SleeveDress Silhouette: A-lineDress Length: Mid-lengthSize: L, 0XL, 1XL, 2XL, 3XL, 4XL, 5XLColor: BlackUnit: cm Size 0XL 1XL 2XL 3XL 4XL 5XL Bust 96 102 108 114 120 126 Shoulder Width 37.5 39 40.5 42 43.5 45 Sleeve Length 62 63 64 65 66 67 Length 119 120 121 122 123 124
-  Updated: 2026-10-21T09:10:17Z
+  Updated: 2026-11-16T14:56:26Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -2939,7 +2833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/B912AAB8A6F8587EF0E50E88E4E59A68.jpg?v=1780520692
     Price: $73.35 USD
 - [Striped Print Short Sleeve Buttoned Front Turn-down Collar A-line Dress](https://dashtrendstore.com/products/striped-print-short-sleeve-buttoned-front-turn-down-collar-a-line-dress): Fabric name: PolyesterStyle: Basic StyleSkirt length: Long skirtCollar type: Flip collarSleeve Type: Regular SleeveSleeve length: Long sleevesMain fabric composition: polyesterColor: blueSize: S, M, L, XL, XXLStyle type: temperament commutingStyle: Elegant styleSkirt category: DressUnit: cm Size S M L XL XXL Bust 94 98 104 110 116 Length 136 137 138 139 140
-  Updated: 2026-10-21T09:10:10Z
+  Updated: 2026-11-16T14:56:26Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -2965,7 +2859,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/E9165C9B297242BE8D053DD03DE77B41.jpg?v=1780520717
     Price: $57.98 USD
 - [Fashionable V-Neck Floral Maxi Dress with Waist Cinching, Plus Size Women's Long Dress](https://dashtrendstore.com/products/fashionable-v-neck-floral-maxi-dress-with-waist-cinching-plus-size-womens-long-dress): Color: BlueStyle: Elegant StylePattern Type: Solid ColorDesign Element: FlowersProcess: Collage/SplicingFabric: Polyester (Polyester Fiber)Neckline: V-neckSleeve Length: Long SleeveSleeve Style: Regular SleeveDress Silhouette: A-lineDress Length: Long DressSize: 0XL, 1XL, 2XL, 3XL, 4XLUnit: cm Size 0XL 1XL 2XL 3XL 4XL Bust 104 110 116 122 128 Waist 80 86 92 98 104 Length 126 127 128 129 130
-  Updated: 2026-10-21T09:10:16Z
+  Updated: 2026-11-16T14:56:26Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -2990,60 +2884,148 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/308EEE7A907D2EE78B6BB90008ADDB96.jpg?v=1780520741
     Price: $62.04 USD
-[List Continued](https://dashtrendstore.com/a/llms-agent/llms.txt?shop=hair-frenzy-now.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NjE2MjcwNDU5MTE1LCJsYXN0X3ZhbHVlIjoiOTYxNjI3MDQ1OTExNSJ9)
+- [Sexy Knit Strap Long Dress for Women, Summer Crop Top Bodycon Dress, Fitted Slimming Floor-Length Skirt](https://dashtrendstore.com/products/sexy-knit-strap-long-dress-for-women-summer-crop-top-bodycon-dress-fitted-slimming-floor-length-skirt): Style: Private LadyPattern Type: Solid ColorSleeve Length: SleevelessNeckline: Low NeckDress Length: Long DressSkirt Silhouette: A-lineFabric: Polyester (Polyester Fiber)Material: PolyesterClosure Type: PulloverFit Type: Slim FitWaistline: Mid WaistOccasion: DailyGender: UnisexColor: Pink, Light Green, Lavender Purple, Khaki, BlueSize: S, M, LOrigin: JiangsuProcessing: Printing and DyeingDesign Style: Sexy StyleProduct Type: DressComposition: Single PieceUnit：cm Size Dress Length Bust Waist Hip Hem S 126 60 50 70 170 M 127 64 54 74 174 L 128 68 58 78 178
+  Updated: 2026-11-16T14:56:27Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/96753CCE0AFC157267B2AFAF27B8FC7D.jpg?v=1780520764
+  - [Carmine Red / S](https://dashtrendstore.com/products/sexy-knit-strap-long-dress-for-women-summer-crop-top-bodycon-dress-fitted-slimming-floor-length-skirt?variant=48706144076011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/D4744853B68B08F4919490908A77C479.jpg?v=1780520769
+    Price: $64.41 USD
+  - [Carmine Red / M](https://dashtrendstore.com/products/sexy-knit-strap-long-dress-for-women-summer-crop-top-bodycon-dress-fitted-slimming-floor-length-skirt?variant=48706144108779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/D4744853B68B08F4919490908A77C479.jpg?v=1780520769
+    Price: $64.41 USD
+  - [Carmine Red / L](https://dashtrendstore.com/products/sexy-knit-strap-long-dress-for-women-summer-crop-top-bodycon-dress-fitted-slimming-floor-length-skirt?variant=48706144141547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/D4744853B68B08F4919490908A77C479.jpg?v=1780520769
+    Price: $64.41 USD
+  - [Light green / S](https://dashtrendstore.com/products/sexy-knit-strap-long-dress-for-women-summer-crop-top-bodycon-dress-fitted-slimming-floor-length-skirt?variant=48706144174315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/3EC4E587DB02C1E3FA5763F6599E06D5.jpg?v=1780520774
+    Price: $64.41 USD
+  - [Light green / M](https://dashtrendstore.com/products/sexy-knit-strap-long-dress-for-women-summer-crop-top-bodycon-dress-fitted-slimming-floor-length-skirt?variant=48706144207083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/3EC4E587DB02C1E3FA5763F6599E06D5.jpg?v=1780520774
+    Price: $64.41 USD
+  - [Light green / L](https://dashtrendstore.com/products/sexy-knit-strap-long-dress-for-women-summer-crop-top-bodycon-dress-fitted-slimming-floor-length-skirt?variant=48706144239851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/3EC4E587DB02C1E3FA5763F6599E06D5.jpg?v=1780520774
+    Price: $64.41 USD
+  - [Lavender Purple / S](https://dashtrendstore.com/products/sexy-knit-strap-long-dress-for-women-summer-crop-top-bodycon-dress-fitted-slimming-floor-length-skirt?variant=48706144272619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/6B10CE748C7C7DA72AF8CE9D464D47AA.jpg?v=1780520771
+    Price: $64.41 USD
+  - [Lavender Purple / M](https://dashtrendstore.com/products/sexy-knit-strap-long-dress-for-women-summer-crop-top-bodycon-dress-fitted-slimming-floor-length-skirt?variant=48706144305387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/6B10CE748C7C7DA72AF8CE9D464D47AA.jpg?v=1780520771
+    Price: $64.41 USD
+  - [Lavender Purple / L](https://dashtrendstore.com/products/sexy-knit-strap-long-dress-for-women-summer-crop-top-bodycon-dress-fitted-slimming-floor-length-skirt?variant=48706144338155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/6B10CE748C7C7DA72AF8CE9D464D47AA.jpg?v=1780520771
+    Price: $64.41 USD
+  - [Khaki / S](https://dashtrendstore.com/products/sexy-knit-strap-long-dress-for-women-summer-crop-top-bodycon-dress-fitted-slimming-floor-length-skirt?variant=48706144370923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/96753CCE0AFC157267B2AFAF27B8FC7D.jpg?v=1780520764
+    Price: $64.41 USD
+  - [Khaki / M](https://dashtrendstore.com/products/sexy-knit-strap-long-dress-for-women-summer-crop-top-bodycon-dress-fitted-slimming-floor-length-skirt?variant=48706144403691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/96753CCE0AFC157267B2AFAF27B8FC7D.jpg?v=1780520764
+    Price: $64.41 USD
+  - [Khaki / L](https://dashtrendstore.com/products/sexy-knit-strap-long-dress-for-women-summer-crop-top-bodycon-dress-fitted-slimming-floor-length-skirt?variant=48706144436459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/96753CCE0AFC157267B2AFAF27B8FC7D.jpg?v=1780520764
+    Price: $64.41 USD
+  - [Blue / S](https://dashtrendstore.com/products/sexy-knit-strap-long-dress-for-women-summer-crop-top-bodycon-dress-fitted-slimming-floor-length-skirt?variant=48706144469227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/E29B6E680ABD249D746A8E8B7F65F60A.jpg?v=1780520776
+    Price: $64.41 USD
+  - [Blue / M](https://dashtrendstore.com/products/sexy-knit-strap-long-dress-for-women-summer-crop-top-bodycon-dress-fitted-slimming-floor-length-skirt?variant=48706144501995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/E29B6E680ABD249D746A8E8B7F65F60A.jpg?v=1780520776
+    Price: $64.41 USD
+  - [Blue / L](https://dashtrendstore.com/products/sexy-knit-strap-long-dress-for-women-summer-crop-top-bodycon-dress-fitted-slimming-floor-length-skirt?variant=48706144534763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/E29B6E680ABD249D746A8E8B7F65F60A.jpg?v=1780520776
+    Price: $64.41 USD
+- [Hanging neck hollow hip skirt](https://dashtrendstore.com/products/hanging-neck-hollow-hip-skirt): Color: GreenStyle: Strap StyleDress Length: Mid-length DressNeckline: U-neckSleeve Length: SleevelessWaist Type: High WaistMain Fabric Composition: Polyester (Polyester Fiber)Main Fabric Composition 2: SpandexSize: S, M, L, XLSize:unit：cm Size Back Length (cm) Bust (cm) Waist (cm) Hip (cm) S 53.5 64 64 82 M 54.5 68 68 86 L 56 74 74 92 XL 57.5 80 80 98
+  Updated: 2026-11-16T14:56:27Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/7DACF1BD97697427A57E80B943727F40.jpg?v=1780520785
+  - [Green / S](https://dashtrendstore.com/products/hanging-neck-hollow-hip-skirt?variant=48706146074859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/3451F7C61186FB88537860F7EEFD5A01.jpg?v=1780520796
+    Price: $32.37 USD
+  - [Green / M](https://dashtrendstore.com/products/hanging-neck-hollow-hip-skirt?variant=48706146107627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/3451F7C61186FB88537860F7EEFD5A01.jpg?v=1780520796
+    Price: $32.37 USD
+  - [Green / L](https://dashtrendstore.com/products/hanging-neck-hollow-hip-skirt?variant=48706146140395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/3451F7C61186FB88537860F7EEFD5A01.jpg?v=1780520796
+    Price: $32.37 USD
+  - [Green / XL](https://dashtrendstore.com/products/hanging-neck-hollow-hip-skirt?variant=48706146173163)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/3451F7C61186FB88537860F7EEFD5A01.jpg?v=1780520796
+    Price: $32.37 USD
+[List Continued](https://dashtrendstore.com/a/llms-agent/llms.txt?shop=hair-frenzy-now.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NjE2Mjc4NzgyMTg3LCJsYXN0X3ZhbHVlIjoiOTYxNjI3ODc4MjE4NyJ9)
 
 ## Collections
 
 - [OrderlyEmails - Recommended Products](https://dashtrendstore.com/collections/orderlyemails-recommended-products): Enhance your emails with free recommended products that update every 4 hours. Boost sales with OrderlyEmails while enjoying seamless integration.
-  Updated: 2026-11-12T08:53:06Z
-  Total Products: 226
+  Updated: 2026-11-18T09:22:14Z
+  Total Products: 224
 - [Women Sport](https://dashtrendstore.com/collections/women-sport): Discover premium Women's Sport gear designed for performance and style. Shop now for the latest apparel and accessories to boost your workouts.
   Updated: 2026-10-21T07:11:28Z
   Total Products: 0
 - [Women Curvy (Plus) Size](https://dashtrendstore.com/collections/women-curvy-plus-size): Discover our stylish curvy & plus size collection for women. Embrace every curve with chic and comfortable designs tailored just for you.
-  Updated: 2026-10-28T12:48:22Z
+  Updated: 2026-11-16T14:56:14Z
   Total Products: 2
 - [Women Swim Wear](https://dashtrendstore.com/collections/women-swim-wear-coming-soon): Dive into summer with our stylish women's swimwear. Perfect fits, bold designs, and trending styles await you. Get ready to make waves!
   Updated: 2026-10-21T07:11:29Z
   Total Products: 0
 - [Best  Products](https://dashtrendstore.com/collections/best--products): Discover our best  products that customers love. Shop now for top-rated items that deliver true value and exceptional quality.
-  Updated: 2026-11-06T12:03:32Z
-  Total Products: 251
+  Updated: 2026-11-17T17:11:26Z
+  Total Products: 252
 - [Newest Products](https://dashtrendstore.com/collections/newest-products): Explore the latest additions to our collection. Find cutting-edge designs, innovative features, and must-have items to elevate your lifestyle now.
-  Updated: 2026-11-06T12:03:32Z
-  Total Products: 251
+  Updated: 2026-11-17T17:11:26Z
+  Total Products: 252
 - [Recommended products (Seguno)](https://dashtrendstore.com/collections/recommended-products-seguno): Explore top- products in stock from our Top collection
-  Updated: 2026-11-12T08:53:06Z
-  Total Products: 226
+  Updated: 2026-11-18T09:22:14Z
+  Total Products: 224
 - [Women Jewelry](https://dashtrendstore.com/collections/women-jewelry-accessories): Discover our stunning Women Jewelry collection featuring elegant designs that enhance any outfit. Perfect for any occasion and style!
-  Updated: 2026-10-28T12:48:22Z
+  Updated: 2026-11-16T14:56:14Z
   Total Products: 2
 - [Fashion Hand Bags](https://dashtrendstore.com/collections/fashion-hand-bags)
   Updated: 2026-10-21T07:11:29Z
   Total Products: 0
 - [Jumpsuits and Rompers](https://dashtrendstore.com/collections/jumpsuits-and-rompers)
-  Updated: 2026-11-03T12:02:48Z
+  Updated: 2026-11-16T14:56:14Z
   Total Products: 33
 - [Dresses](https://dashtrendstore.com/collections/dresses)
-  Updated: 2026-11-06T12:03:32Z
+  Updated: 2026-11-17T12:02:57Z
   Total Products: 100
 - [Women Tops](https://dashtrendstore.com/collections/women-blouses)
-  Updated: 2026-10-28T12:48:22Z
+  Updated: 2026-11-16T14:56:14Z
   Total Products: 11
 - [Women Pants/Jeans](https://dashtrendstore.com/collections/women-pants-jeans): . Our product is a type of pants designed for the modern woman who wants to be comfortable and fashionable at the same time. There is no need to choose between style or comfort anymore!
-  Updated: 2026-10-28T12:48:22Z
+  Updated: 2026-11-16T14:56:14Z
   Total Products: 7
 - [Women Jackets](https://dashtrendstore.com/collections/women-jackets)
-  Updated: 2026-10-28T12:48:22Z
-  Total Products: 8
+  Updated: 2026-11-17T17:10:49Z
+  Total Products: 9
 - [Women Sweaters](https://dashtrendstore.com/collections/sweaters)
-  Updated: 2026-10-28T12:48:22Z
+  Updated: 2026-11-16T14:56:15Z
   Total Products: 2
 - [Skirts](https://dashtrendstore.com/collections/skirts)
-  Updated: 2026-10-28T12:48:22Z
+  Updated: 2026-11-16T14:56:15Z
   Total Products: 16
 - [Women Clothing Sets](https://dashtrendstore.com/collections/women-clothing-sets)
-  Updated: 2026-10-28T12:48:22Z
+  Updated: 2026-11-16T14:56:15Z
   Total Products: 18
 - [Christmas Themed - Women Apparel](https://dashtrendstore.com/collections/christmas-themed-women-apparel)
   Updated: 2026-10-21T07:11:30Z
@@ -3058,10 +3040,10 @@
   Updated: 2026-10-21T07:11:30Z
   Total Products: 0
 - [All](https://dashtrendstore.com/collections/all)
-  Updated: 2026-11-06T12:03:32Z
-  Total Products: 251
+  Updated: 2026-11-17T17:11:26Z
+  Total Products: 252
 - [Women shorts](https://dashtrendstore.com/collections/women-shorts)
-  Updated: 2026-10-28T12:48:22Z
+  Updated: 2026-11-16T14:56:15Z
   Total Products: 1
 - [Dash Trend -  Shop](https://dashtrendstore.com/collections/dash-trend--shop)
   Updated: 2026-10-21T07:11:30Z
@@ -3079,7 +3061,7 @@
   Updated: 2026-10-21T07:11:30Z
   Total Products: 0
 - [Women shoes](https://dashtrendstore.com/collections/women-shoes)
-  Updated: 2026-10-28T12:48:22Z
+  Updated: 2026-11-16T14:56:15Z
   Total Products: 5
 - [Women Pajamas](https://dashtrendstore.com/collections/women-pajamas)
   Updated: 2026-11-03T12:02:48Z
@@ -3100,7 +3082,7 @@
   Updated: 2026-10-21T07:11:31Z
   Total Products: 0
 - [Sunglasses](https://dashtrendstore.com/collections/sunglasses)
-  Updated: 2026-10-28T12:48:23Z
+  Updated: 2026-11-16T14:56:15Z
   Total Products: 4
 - [Hats](https://dashtrendstore.com/collections/hats)
   Updated: 2026-10-21T07:11:31Z
@@ -3115,31 +3097,31 @@
   Updated: 2026-10-21T07:11:32Z
   Total Products: 0
 - [Formal Dresses](https://dashtrendstore.com/collections/formal-dresses): Shop elegant formal dresses at Dash Trend. From evening gowns to cocktail dresses, find the perfect style for any special event.
-  Updated: 2026-10-28T12:48:23Z
+  Updated: 2026-11-16T14:56:15Z
   Total Products: 2
 - [Accessories](https://dashtrendstore.com/collections/accessories): Complete your look with accessories from Dash Trend. Shop bags, hats, belts & more to elevate any outfit with style.
   Updated: 2026-10-21T07:11:32Z
   Total Products: 0
 - [Men Tops](https://dashtrendstore.com/collections/men-top): Explore men's tops at Dash Trend — from casual tees to stylish shirts. Shop the latest styles with great fits for every occasion.
-  Updated: 2026-10-28T12:48:23Z
+  Updated: 2026-11-16T14:56:15Z
   Total Products: 5
 - [Men Bottoms](https://dashtrendstore.com/collections/men-bottoms): Shop men's bottoms at Dash Trend — pants, joggers, shorts & more. Find the perfect fit for casual or dressed-up looks.
-  Updated: 2026-10-28T12:48:23Z
+  Updated: 2026-11-16T14:56:15Z
   Total Products: 1
 - [Men Clothing Set](https://dashtrendstore.com/collections/men-clothing-set): Shop men's matching clothing sets at Dash Trend. Effortlessly coordinated outfits for every occasion. Free shipping available.
-  Updated: 2026-11-03T12:02:48Z
+  Updated: 2026-11-16T14:56:15Z
   Total Products: 6
 - [Women Beauty/Weight Management](https://dashtrendstore.com/collections/women-beauty-weight-management)
   Updated: 2026-10-21T07:11:32Z
   Total Products: 0
 - [New added](https://dashtrendstore.com/collections/new-added)
-  Updated: 2026-10-28T12:48:23Z
+  Updated: 2026-11-16T14:56:16Z
   Total Products: 1
 - [General Clothes example products](https://dashtrendstore.com/collections/general-clothes-example-products)
   Updated: 2026-10-21T07:11:33Z
   Total Products: 4
 - [Women's Casual Wear example products](https://dashtrendstore.com/collections/womens-casual-wear-example-products)
-  Updated: 2026-10-21T07:11:33Z
+  Updated: 2026-11-16T14:56:16Z
   Total Products: 4
 
 ## Blogs
@@ -3241,6 +3223,15 @@
     Author: Dash Trend
   - [Comparing the Latest Fashion Forward Looks and How to Adopt Them](https://dashtrendstore.com/blogs/dash-trend-blogs/comparing-the-latest-fashion-forward-looks-and-how-to-adopt-them): Comparing the Latest Fashion Forward Looks and How to Adopt Them
     Updated: 2026-11-13T00:28:50Z
+    Author: Dash Trend
+  - [The Impact of Tech on Current Fashion Trends](https://dashtrendstore.com/blogs/dash-trend-blogs/the-impact-of-tech-on-current-fashion-trends): The Impact of Tech on Current Fashion Trends
+    Updated: 2026-11-16T00:40:55Z
+    Author: Dash Trend
+  - [Essential Fabrics Every Wardrobe Should Embrace](https://dashtrendstore.com/blogs/dash-trend-blogs/essential-fabrics-every-wardrobe-should-embrace): Essential Fabrics Every Wardrobe Should Embrace
+    Updated: 2026-11-18T00:30:22Z
+    Author: Dash Trend
+  - [Step-by-Step Guide to Nailing the Monochromatic Look](https://dashtrendstore.com/blogs/dash-trend-blogs/step-by-step-guide-to-nailing-the-monochromatic-look): Step-by-Step Guide to Nailing the Monochromatic Look
+    Updated: 2026-11-20T00:25:37Z
     Author: Dash Trend
 
 ## Store Pages
