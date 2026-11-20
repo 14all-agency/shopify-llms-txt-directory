@@ -10,7 +10,7 @@
 - Contact Email: a.motschenbacher@retourify.de
 - Contact Phone: +4995116094240
 - Address: Geisfelder Straße 16, 96050 Bamberg
-- Updated At: 2026-11-13T00:37:27.518Z
+- Updated At: 2026-11-20T00:44:27.665Z
 
 ## Products
 
@@ -120,7 +120,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/riesiges-memory-spiel-20-x-20-cm-grosse-karten-draussen-und-drinnen-b-ware-1305127.jpg?v=1758788366
   Price: 11,95 € EUR
 - [Hanuri Matratzensauger SVC-202 Neuware kaufen | Retourify](https://www.retourify.de/products/hanuri-matratzensauger-svc-202-600-watt-uvc-licht-sehr-kompakt-und-saugstark-b-ware): Hanuri Matratzensauger SVC-202 mit 600 Watt, UVC-Licht & starker Saugkraft, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-11-05T18:59:56Z
+  Updated: 2026-11-14T06:05:43Z
   Vendor: Hanuri
   Product Type: Matratzensauger
   Availability: Available
@@ -184,7 +184,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/livoo-crepesmaker-crepesmaschine-38-cm-antihaftplatte-c-ware-498866.webp?v=1748691107
   Price: 19,95 € EUR
 - [Mysterybox Spielwaren B-Ware/Gebraucht kaufen | Retourify](https://www.retourify.de/products/mysterybox-spielwaren-ab-3-jahre-b-ware-oder-gebraucht): Mysterybox Spielwaren für Kinder ab 3 Jahren, gemischt aus B-Ware & Gebrauchtware, große Preisersparnis. Jetzt entdecken!
-  Updated: 2026-11-05T19:04:06Z
+  Updated: 2026-11-14T07:31:27Z
   Vendor: Retourify
   Product Type: Spielwaren
   Availability: Available
@@ -460,63 +460,63 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/2-er-set-blomus-vase-peat-rudea-anthrazit-b-ware-872761.webp?v=1748691003
     Price: 29,95 € EUR
 - [HG01 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg01-mysteryset-haushalt-garten--teile--gramm-neu-kopie): HG01 Mysteryset Haushalt/Garten, 5 Teile, 500 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-05T18:59:56Z
+  Updated: 2026-11-14T07:31:24Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg01-mysteryset-haushalt-garten-5-teile-500-gramm-neu-4773867.png?v=1758787352
   Price: 30,00 € EUR
 - [HG02 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg02-mysteryset-haushalt-garten--teile--gramm-neu-kopie-kopie): HG02 Mysteryset Haushalt/Garten, 4 Teile, 1.200 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-05T19:01:26Z
+  Updated: 2026-11-14T07:31:24Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg02-mysteryset-haushalt-garten-4-teile-1200-gramm-neu-4711023.png?v=1758787271
   Price: 22,00 € EUR
 - [HG03 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg03-mysteryset-haushalt-garten--teile--gramm-neu): HG03 Mysteryset Haushalt/Garten, 6 Teile, 1.100 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-05T19:01:26Z
+  Updated: 2026-11-14T07:31:25Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg03-mysteryset-haushalt-garten-6-teile-1100-gramm-neu-3319147.png?v=1758787397
   Price: 30,00 € EUR
 - [HG05 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg04-mysteryset-haushalt-garten--teile--gramm-neu): HG05 Mysteryset Haushalt/Garten, 4 Teile, 2.200 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-05T19:01:26Z
+  Updated: 2026-11-14T07:31:25Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg05-mysteryset-haushalt-garten-4-teile-2200-gramm-neu-3232996.png?v=1758787293
   Price: 59,95 € EUR
 - [HG04 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg04-mysteryset-haushalt-garten--teile--gramm-neu-kopie): HG04 Mysteryset Haushalt/Garten, 2 Teile, 5.650 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-05T19:01:22Z
+  Updated: 2026-11-14T07:31:25Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg04-mysteryset-haushalt-garten-2-teile-5650-gramm-neu-9761158.png?v=1758787279
   Price: 70,00 € EUR
 - [HG06 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg05-mysteryset-haushalt-garten--teile--gramm-neu): HG06 Mysteryset Haushalt/Garten, 3 Teile, 850 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-05T19:01:26Z
+  Updated: 2026-11-14T07:31:25Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg06-mysteryset-haushalt-garten-3-teile-850-gramm-neu-9360869.png?v=1758787381
   Price: 26,00 € EUR
 - [HG07 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg07-mysteryset-haushalt-garten--teile--gramm-neu-kopie): HG07 Mysteryset Haushalt/Garten, 4 Teile, 270 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-05T19:01:26Z
+  Updated: 2026-11-14T07:31:24Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg07-mysteryset-haushalt-garten-4-teile-270-gramm-neu-4235098.png?v=1758787366
   Price: 15,00 € EUR
 - [HG08 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg08-mysteryset-haushalt-garten--teile--gramm-neu-kopie): HG08 Mysteryset Haushalt/Garten, 3 Teile, 350 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-05T19:01:26Z
+  Updated: 2026-11-14T07:31:26Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg08-mysteryset-haushalt-garten-3-teile-350-gramm-neu-5480459.png?v=1758787382
   Price: 20,00 € EUR
 - [Posten Mysterysets Beauty Gesundheit Neuware | Retourify](https://www.retourify.de/products/posten-mysterysets-beauty-gesundheit-versch-ausfuhrungen-neu): Posten Mysterysets Beauty/Gesundheit, versch. Ausführungen, Neuware – große Auswahl, kleiner Preis!
-  Updated: 2026-11-05T19:05:30Z
+  Updated: 2026-11-14T07:31:26Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
@@ -571,40 +571,47 @@
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/solac-ultraschall-luftbefeuchter-air-from-kyoto-ultraleise-neu-5264742.jpg?v=1758787277
   Price: 14,95 € EUR
 - [M03 Mystery Mischset 250g Neuware | Retourify](https://www.retourify.de/products/m03-mystery-mischset-versch-kategorien-ca-250-gramm-neu): M03 Mystery Mischset, verschiedene Kategorien, ca. 250 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-05T19:01:46Z
+  Updated: 2026-11-14T07:31:27Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/m03-mystery-mischset-versch-kategorien-ca-250-gramm-neu-2649717.jpg?v=1758787394
   Price: 22,00 € EUR
 - [M04 Mystery Mischset 400g Neuware | Retourify](https://www.retourify.de/products/m04-mystery-mischset-versch-kategorien-ca-400-gramm-neu): M04 Mystery Mischset, verschiedene Kategorien, ca. 400 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-05T19:01:46Z
+  Updated: 2026-11-14T07:31:25Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/m04-mystery-mischset-versch-kategorien-ca-400-gramm-neu-4522112.jpg?v=1758787393
   Price: 35,00 € EUR
 - [M05 Mystery Mischset 500g Neuware | Retourify](https://www.retourify.de/products/m05-mystery-mischset-versch-kategorien-ca-500-gramm-neu-kopie): M05 Mystery Mischset, verschiedene Kategorien, ca. 500 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-05T19:04:06Z
+  Updated: 2026-11-14T07:31:26Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/m05-mystery-mischset-versch-kategorien-ca-500-gramm-neu-6182856.jpg?v=1758787379
   Price: 37,00 € EUR
 - [M06 Mystery Mischset 450g Neuware | Retourify](https://www.retourify.de/products/m06-mystery-mischset-versch-kategorien-ca-450-gramm-neu): M06 Mystery Mischset, verschiedene Kategorien, ca. 450 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-05T19:04:06Z
+  Updated: 2026-11-14T07:31:26Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/m06-mystery-mischset-versch-kategorien-ca-450-gramm-neu-9332664.jpg?v=1758787392
   Price: 35,00 € EUR
 - [M08 Mystery Mischset 450g Neuware | Retourify](https://www.retourify.de/products/m08-mystery-mischset-versch-kategorien-ca-450-gramm-neu): M08 Mystery Mischset, verschiedene Kategorien, ca. 450 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-05T19:04:06Z
+  Updated: 2026-11-14T07:31:26Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/m08-mystery-mischset-versch-kategorien-ca-450-gramm-neu-2302292.jpg?v=1758787361
   Price: 35,00 € EUR
+- [GoPro Floaty Schwimmkörper HERO 5–8 Neuware | Retourify](https://www.retourify.de/products/gopro-aflty-005-floaty-schwimmkorper-fur-gopro-hero-5-6-7-wasserfest-orange-b-ware): Original GoPro Floaty (AFLTY-005) mit Rückklappen für HERO 5/6/7/8 – hält deine GoPro über Wasser. Unbenutzte Neuware in OVP bei Retourify.
+  Updated: 2026-11-13T22:48:26Z
+  Vendor: GoPro
+  Product Type: Actioncam Zubehör
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/gopro-floaty-unterwasser-gehause-fur-gopro-hero-5-6-7-8-wasserfest-neu-1208889.png?v=1758787300
+  Price: 19,95 € EUR
 - [GoPro HERO 8 Hülle Trageband Neuware | Retourify](https://www.retourify.de/products/gopro-sleeve-lanyard-gopro-hero-8-black-silikon-hulle-schwarz-trageband-b-ware): GoPro HERO 8 Black Hülle + Trageband aus robustem Silikon, Neuware. Jetzt günstig bei Retourify sichern!
   Updated: 2026-11-05T18:59:56Z
   Vendor: GoPro
@@ -749,13 +756,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/3er-bundle-olympia-tf-400-tur-fensteralarm-neu-1-gebrauchtes-set-gratis-dazu-5219550.webp?v=1758787255
   Price: 19,95 € EUR
-- [Cartrend Wireless Ladepad Neuware | Retourify](https://www.retourify.de/products/cartrend-wireless-charging-pad-induktives-laden-fur-smartphones-usb-neu): Cartrend Wireless Ladepad, induktives Laden für Smartphones via USB, Neuware. Jetzt günstig sichern!
-  Updated: 2026-11-05T18:51:06Z
-  Vendor: Cartrend
-  Product Type: Handyhalter
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/cartrend-wireless-ladepad-induktives-laden-fur-smartphones-usb-neu-2157581.jpg?v=1758787277
-  Price: 8,99 € EUR
 - [DMS Germany Hartschalenkofferset B-Ware | Retourify](https://www.retourify.de/products/dms-germany-7-tlg-trolley-hartschalenkofferset-rk-3800db-dunkelblau-neuware): DMS Germany 7-teiliges Trolley-Hartschalenkofferset, dunkelblau, geprüfte B-Ware. Jetzt günstig sichern!
   Updated: 2026-11-05T18:51:06Z
   Vendor: DMS
@@ -1046,7 +1046,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20260120_131803.jpg?v=1768912568
   Price: 29,95 € EUR
 - [Maxxmee Mini Wurfscheibe Frisbee Neuware | Retourify](https://www.retourify.de/products/maxxmee-mini-wurfscheibe-leuchtende-farben-neu): Maxxmee Mini-Wurfscheibe Frisbee, ca. 6cm, leuchtende Farben, Neuware. Spaß für Park, Strand & Wasser.
-  Updated: 2026-11-05T19:04:06Z
+  Updated: 2026-11-17T17:14:00Z
   Vendor: DS Produkte
   Product Type: Freizeit - Spiel und Spaß
   Availability: Available
@@ -1166,7 +1166,7 @@
   Updated: 2026-11-06T09:18:14Z
   Total Products: 26
 - [Freizeit - Spiel und Spaß](https://www.retourify.de/collections/freizeit): Freizeitartikel und Spielwaren als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
-  Updated: 2026-10-02T15:04:34Z
+  Updated: 2026-11-18T12:18:12Z
   Total Products: 14
 - [Sport - Fitness](https://www.retourify.de/collections/fitness): Sport- und Fitnessgeräte als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
   Updated: 2026-11-03T15:18:44Z
@@ -1178,7 +1178,7 @@
   Updated: 2026-08-07T09:45:37Z
   Total Products: 0
 - [Camping - Outdoor](https://www.retourify.de/collections/camping-outdoor): Camping- und Outdoor-Ausrüstung als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
-  Updated: 2026-11-12T18:56:18Z
+  Updated: 2026-11-14T12:24:34Z
   Total Products: 15
 - [Heimwerken](https://www.retourify.de/collections/heimwerken-elektro): Heimwerker-Ausrüstung als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
   Updated: 2026-10-02T14:16:19Z
@@ -1202,7 +1202,7 @@
   Updated: 2026-10-02T15:04:31Z
   Total Products: 11
 - [Hifi - Multimedia](https://www.retourify.de/collections/hifi-multimedia): Hifi- und Multimedia-Technik als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
-  Updated: 2026-11-12T18:56:18Z
+  Updated: 2026-11-16T09:13:31Z
   Total Products: 18
 - [Gutscheine](https://www.retourify.de/collections/gutscheine): Machen Sie Anderen unkompliziert eine Freude... mit einem Gutschein von Retourify! Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
   Updated: 2026-09-16T09:07:18Z
@@ -1235,10 +1235,10 @@
   Updated: 2026-09-16T09:07:19Z
   Total Products: 2
 - [Bundles - Spare im Set!](https://www.retourify.de/collections/bundles-spare-im-set): Attraktive Bundles für Dich zusammengestellt! Infos zu den jeweiligen Sparmöglichkeiten findest Du im jeweiligen Artikel. Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-10-04T11:14:03Z
+  Updated: 2026-11-16T09:13:31Z
   Total Products: 21
 - [_Alle Artikel aus Freizeit, Spiel und Sport](https://www.retourify.de/collections/freizeit-spielwaren): Alles aus unseren Bereichen Spiel, Spaß und Freizeit für die ganze Familie! Wählen Sie an der Seite einfach Ihre Favoriten aus! Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-11-12T18:56:18Z
+  Updated: 2026-11-18T12:18:12Z
   Total Products: 33
 - [_Alle Artikel aus Technik](https://www.retourify.de/collections/technik): Drucker, Gaming Zubehör, Multimedia bunt gemischt. Wählen Sie an der Seite einfach Ihre Favoriten aus! Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
   Updated: 2026-10-02T15:04:32Z
@@ -1508,16 +1508,16 @@
   Updated: 2026-08-07T09:41:26Z
   Total Products: 1
 - [Autozubehör](https://www.retourify.de/collections/autozubehor): Autozubehör als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
-  Updated: 2026-10-04T11:14:03Z
+  Updated: 2026-11-16T09:13:31Z
   Total Products: 9
 - [_Preisupdates - täglich aktualisiert](https://www.retourify.de/collections/preisupdates-taglich-aktualisiert): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-11-12T18:56:18Z
+  Updated: 2026-11-18T12:18:12Z
   Total Products: 230
 - [Optionize Add-ons](https://www.retourify.de/collections/optionize-add-ons): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-11-12T18:56:18Z
+  Updated: 2026-11-18T12:18:12Z
   Total Products: 244
 - [All products](https://www.retourify.de/collections/all): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-11-12T18:56:18Z
+  Updated: 2026-11-18T12:18:12Z
   Total Products: 269
 - [_Weihnachtsdeko - Fertigsets](https://www.retourify.de/collections/weihnachten-fertigsets): Weihnachtsdeko stressfrei gestalten mit unseren Weihnachtsdeko - Fertigsets. Schnell und nachhaltig dekorieren, dabei Geld sparen. Jetzt bei Retourify bestellen!
   Updated: 2026-10-21T15:17:39Z
@@ -1526,10 +1526,10 @@
   Updated: 2026-09-16T09:07:20Z
   Total Products: 1
 - [AVADA - Best Sellers](https://www.retourify.de/collections/avada-best-sellers)
-  Updated: 2026-11-12T18:56:18Z
+  Updated: 2026-11-18T12:18:12Z
   Total Products: 244
 - [Schnapper 5,- bis 10,- Euro](https://www.retourify.de/collections/schnapper-bis-10-euro): Hochwertige Retouren und geprüfte B-Ware zum Sparpreis in unserer Schnapper 5,- bis 10,- Euro. Top-Qualität ohne Kompromisse. Jetzt nachhaltige Deals sichern bei Retourify!
-  Updated: 2026-11-03T12:19:11Z
+  Updated: 2026-11-18T12:18:12Z
   Total Products: 36
 - [Schnapper bis 5,- Euro](https://www.retourify.de/collections/schnapper-bis-5-euro): Nachhaltige B-Ware bis 5 Euro in unserer Schnapper bis 5,- Euro Kollektion. Beste Qualität ohne Kompromisse. Sichere dir jetzt clevere Schnäppchen bei Retourify!
   Updated: 2026-10-21T15:17:54Z
@@ -1541,10 +1541,10 @@
   Updated: 2026-08-07T09:41:26Z
   Total Products: 5
 - [Bereit für den Sommer: Garten, Freizeit & Urlaubs-Deals!](https://www.retourify.de/collections/bereit-fur-den-sommer-garten-freizeit-urlaubs-deals)
-  Updated: 2026-11-12T18:56:18Z
+  Updated: 2026-11-18T12:18:12Z
   Total Products: 31
 - [Aktionsangebote - Versandkostenfrei!](https://www.retourify.de/collections/aktionsangebote-versandkostenfrei): Versandkostenfreie Aktionsangebote – Smarte Deals ohne Extrakosten! Willkommen in unserer Schnäppchen-Ecke für clevere Entscheider!
-  Updated: 2026-11-10T13:48:05Z
+  Updated: 2026-11-18T12:18:12Z
   Total Products: 11
 - [B-Ware](https://www.retourify.de/collections/b-ware): Geprüfte B-Ware und Sonderposten stark reduziert – deutlich günstiger als Neuware, mit klarer Zustandsbeschreibung. Jetzt bei Retourify entdecken.
   Updated: 2026-11-06T09:18:14Z
@@ -1649,6 +1649,10 @@
     Updated: 2026-08-19T18:40:09Z
     Author: Alexander Motschenbacher
     Tags: Paketshop
+  - [30 Tage Rückgaberecht bei Retourify | B-Ware & Retouren](https://www.retourify.de/blogs/news/30-tage-rueckgaberecht-bei-retourify): 30 Tage Rückgaberecht bei Retourify | B-Ware & Retouren
+    Updated: 2026-11-13T19:01:01Z
+    Author: Alexander Motschenbacher
+    Tags: Nachhaltigkeit, Retouren, Service
 
 ## Store Pages
 
@@ -1704,13 +1708,13 @@
 ## Policies
 
 - [Privacy Policy](https://www.retourify.de/policies/privacy-policy)
-  Updated: 2026-11-12T21:44:55Z
+  Updated: 2026-11-18T02:50:57Z
 - [Shipping Policy](https://www.retourify.de/policies/shipping-policy)
   Updated: 2026-09-15T15:32:45Z
 - [Refund Policy](https://www.retourify.de/policies/refund-policy)
-  Updated: 2026-11-12T21:48:03Z
+  Updated: 2026-11-13T13:06:24Z
 - [Terms of Service](https://www.retourify.de/policies/terms-of-service)
-  Updated: 2026-11-12T21:41:58Z
+  Updated: 2026-11-18T02:50:25Z
 - [Contact Information](https://www.retourify.de/policies/contact-information)
   Updated: 2023-05-05T13:40:01Z
 
