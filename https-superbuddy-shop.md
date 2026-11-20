@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-07-21T11:43:23Z
 - Contact Email: gonzalezwilliammadison13072003@gmail.com
-- Updated At: 2026-11-12T01:09:49.416Z
+- Updated At: 2026-11-20T01:22:08.231Z
 
 ## Products
 
@@ -249,7 +249,7 @@
   Image: https://cdn.shopify.com/s/files/1/0841/4711/0132/files/bottle32-smoresdrip.png?v=1791481757
   Price: $34.99 USD
 - [Basketball Drip Water Bottle - Hot or Cold | Super Buddy](https://superbuddy.shop/products/basketball-drip-24oz-insulated-water-bottle): Super Buddy Basketball Drip 24oz insulated water bottle in 18/8 stainless steel. Keeps drinks cold up to 24 hours. Free US shipping. Shop now.
-  Updated: 2026-10-17T04:15:24Z
+  Updated: 2026-11-15T18:39:56Z
   Vendor: Super Buddy
   Product Type: Water Bottles
   Availability: Available
@@ -837,7 +837,7 @@
   Image: https://cdn.shopify.com/s/files/1/0841/4711/0132/files/uni-Legacy_NCAA_Texas_WHT_front.png?v=1791481948
   Price: $44.99 USD
 - [Texas Longhorns Legacy Water Bottle | Super Buddy](https://superbuddy.shop/products/texas-longhorns-legacy-32oz-insulated-water-bottle): Super Buddy Texas Longhorns Legacy 32oz insulated water bottle in 18/8 stainless steel. Keeps drinks cold up to 24 hours. Free US shipping. Shop now.
-  Updated: 2026-10-17T04:15:54Z
+  Updated: 2026-11-12T17:59:06Z
   Vendor: Super Buddy
   Product Type: Water Bottles
   Availability: Available
@@ -3292,28 +3292,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0841/4711/0132/files/unixl-hazyglitz.png?v=1791482700
   Price: $39.99 USD
-- [Royal Glitz XL Can Cooler - Cold for 24 Hours | Super Buddy](https://superbuddy.shop/products/royal-glitz-xl-insulated-can-cooler): Super Buddy Royal Glitz XL insulated can cooler in 18/8 stainless steel. Keeps drinks cold up to 24 hours. Free US shipping. Shop now.
-  Updated: 2026-10-17T04:17:24Z
-  Vendor: Super Buddy
-  Product Type: Can Coolers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0841/4711/0132/files/unixl-royalglitz.png?v=1791482703
-  Price: $39.99 USD
-- [Purple Glitz XL Can Cooler - Cold 24 Hours | Super Buddy](https://superbuddy.shop/products/purple-glitz-xl-insulated-can-cooler): Super Buddy Purple Glitz XL insulated can cooler in 18/8 stainless steel. Keeps drinks cold up to 24 hours. Free US shipping. Shop now.
-  Updated: 2026-10-17T04:17:24Z
-  Vendor: Super Buddy
-  Product Type: Can Coolers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0841/4711/0132/files/unixl-purpleglitz.png?v=1791482707
-  Price: $39.99 USD
-- [Cinnamon XL Can Cooler - Cold for 24 Hours | Super Buddy](https://superbuddy.shop/products/cinnamon-xl-insulated-can-cooler): Super Buddy Cinnamon XL insulated can cooler in 18/8 stainless steel. Keeps drinks cold up to 24 hours. Free US shipping. Shop now.
-  Updated: 2026-10-17T04:17:24Z
-  Vendor: Super Buddy
-  Product Type: Can Coolers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0841/4711/0132/files/unixl-cinnamon_01f66881-96cd-4838-ab76-436bf980afca.png?v=1791482707
-  Price: $39.99 USD
-[List Continued](https://superbuddy.shop/a/llms-agent/llms.txt?shop=vv7prf-he.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQyMzg5OTMwNDE4MCwibGFzdF92YWx1ZSI6IjE1NDIzODk5MzA0MTgwIn0%3D)
+[List Continued](https://superbuddy.shop/a/llms-agent/llms.txt?shop=vv7prf-he.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQyMzg5OTA0MjAzNiwibGFzdF92YWx1ZSI6IjE1NDIzODk5MDQyMDM2In0%3D)
 
 ## Collections
 
@@ -3327,7 +3306,7 @@
   Updated: 2026-11-11T12:28:11Z
   Total Products: 628
 - [Water Bottles](https://superbuddy.shop/collections/water-bottles)
-  Updated: 2026-10-27T11:25:56Z
+  Updated: 2026-11-16T12:25:38Z
   Total Products: 393
 - [Coffee Mugs](https://superbuddy.shop/collections/coffee-mugs)
   Updated: 2026-11-01T12:26:10Z
@@ -3336,7 +3315,7 @@
   Updated: 2026-10-27T11:25:56Z
   Total Products: 7
 - [NCAA](https://superbuddy.shop/collections/ncaa)
-  Updated: 2026-11-11T12:28:11Z
+  Updated: 2026-11-13T12:28:26Z
   Total Products: 717
 - [MLB](https://superbuddy.shop/collections/mlb)
   Updated: 2026-10-26T11:33:34Z
@@ -3348,7 +3327,7 @@
   Updated: 2026-10-17T04:15:15Z
   Total Products: 36
 - [All](https://superbuddy.shop/collections/all)
-  Updated: 2026-11-11T12:28:11Z
+  Updated: 2026-11-16T12:25:38Z
   Total Products: 1790
 
 ## Blogs
@@ -3401,6 +3380,15 @@
     Author: Super Buddy
   - [How to Choose the Best Insulated Travel Tumbler Featuring Super Buddy Vegas Golden Knights Options](https://superbuddy.shop/blogs/news/how-to-choose-the-best-insulated-travel-tumbler-featuring-super-buddy-vegas-golden-knights-options): How to Choose the Best Insulated Travel Tumbler Featuring Super Buddy Vegas Golden Knights Options
     Updated: 2026-11-11T10:03:46Z
+    Author: Super Buddy
+  - [The Essential Guide to Finding the Best 40oz Stainless Steel Tumbler for Gifts and Tailgating Featuring Super Buddy Dark Glitz](https://superbuddy.shop/blogs/news/the-essential-guide-to-finding-the-best-40oz-stainless-steel-tumbler-for-gifts-and-tailgating-featuring-super-buddy-dark-glitz): The Essential Guide to Finding the Best 40oz Stainless Steel Tumbler for Gifts and Tailgating Featuring Super Buddy Dark Glitz
+    Updated: 2026-11-16T10:00:39Z
+    Author: Super Buddy
+  - [The Ultimate List of Tumbler Gift Ideas for Sports Fans Featuring the Super Buddy Sleighcation 40oz Insulated Travel Tumbler](https://superbuddy.shop/blogs/news/the-ultimate-list-of-tumbler-gift-ideas-for-sports-fans-featuring-the-super-buddy-sleighcation-40oz-insulated-travel-tumbler): The Ultimate List of Tumbler Gift Ideas for Sports Fans Featuring the Super Buddy Sleighcation 40oz Insulated Travel Tumbler
+    Updated: 2026-11-17T10:01:55Z
+    Author: Super Buddy
+  - [Exploring How the Super Buddy Navy Insulated Travel Tumbler Stands Out as the Best Insulated Coffee Mug Tailgate Drinkware and Gift for Sports Fans](https://superbuddy.shop/blogs/news/exploring-how-the-super-buddy-navy-insulated-travel-tumbler-stands-out-as-the-best-insulated-coffee-mug-tailgate-drinkware-and-gift-for-sports-fans): Exploring How the Super Buddy Navy Insulated Travel Tumbler Stands Out as the Best Insulated Coffee Mug Tailgate Drinkware and Gift for Sports Fans
+    Updated: 2026-11-18T10:03:05Z
     Author: Super Buddy
 
 ## Store Pages
