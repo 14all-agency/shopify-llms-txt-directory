@@ -6,12 +6,12 @@
 - Timezone: Europe/Zurich
 - Created At: 2026-08-28T07:39:51Z
 - Contact Email: anju@abhatisuisse.com
-- Updated At: 2026-11-12T01:15:24.997Z
+- Updated At: 2026-11-20T00:57:19.298Z
 
 ## Products
 
 - [YAMUNA Nourishing Shampoo (250 ml) | ABHATI Suisse](https://abhatisuisse.com/products/nourishing-shampoo-250-ml): YAMUNA Nourishing Shampoo – An organic hydrating  from wildcrafted botanicals that repairs, hydrates & fortifies unmanageable hair | ABHATI Suisse
-  Updated: 2026-11-11T23:12:20Z
+  Updated: 2026-11-19T00:02:07Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
@@ -24,50 +24,57 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c7d1dcecffa306472237.jpg?v=1790072548
   Price: CHF 20.50 CHF
+- [YAMUNA Nourishing Shampoo | ABHATI Suisse](https://abhatisuisse.com/products/nourishing-shampoo): YAMUNA Nourishing Shampoo – A natural hydrating  from wildcrafted botanicals that repairs, hydrates & fortifies unmanageable hair | ABHATI Suisse
+  Updated: 2026-11-19T08:20:10Z
+  Vendor: ABHATI Suisse
+  Product Type: Shop
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/6271365889ca6498630802.webp?v=1790072549
+  Price: CHF 41.50 CHF
 - [SARANDA High-Performance Conditioner | ABHATI Suisse](https://abhatisuisse.com/products/high-performance-conditioner): SARANDA High-Performance Conditioner is an organic creamy-rich conditioner — a hydrating  that repairs and fortifies unmanageable hair | ABHATI Suisse
-  Updated: 2026-11-11T23:12:21Z
+  Updated: 2026-11-17T16:42:06Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c7d0ec97259188477208.jpg?v=1790073425
   Price: CHF 38.00 CHF
 - [IMLAYA Volumising Shampoo | ABHATI Suisse](https://abhatisuisse.com/products/volumising-shampoo): IMLAYA Volumising Shampoo – Cleanses the scalp, cares for hair health and plumps up the volume for lofty looks that defy gravity | ABHATI Suisse
-  Updated: 2026-11-11T23:12:20Z
+  Updated: 2026-11-16T00:34:35Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c7bfa4ce4e5098960067.jpg?v=1790073426
   Price: CHF 36.00 CHF
 - [NAKKI Whipped Volumising Conditioner | ABHATI Suisse](https://abhatisuisse.com/products/whipped-volumising-conditioner): NAKKI Whipped Volumising Conditioner – An organic hydrating  that repairs, nourishes and fortifies unmanageable hair | ABHATI Suisse
-  Updated: 2026-11-11T23:12:20Z
+  Updated: 2026-11-19T20:54:26Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c7c694eb688147042627.jpg?v=1790073426
   Price: CHF 38.00 CHF
 - [TANSA Shampoo for Coloured Hair | ABHATI Suisse](https://abhatisuisse.com/products/colour-depth-shampoo): TANSA Colour-Depth Shampoo | Our shampoo for coloured hair with colour-lock formula nourishes tresses to the core and lets hair shine | ABHATI Suisse
-  Updated: 2026-11-11T23:12:22Z
+  Updated: 2026-11-17T16:42:06Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c7b5e96236b938874389.jpg?v=1790073427
   Price: CHF 36.00 CHF
 - [CHAMBAL Sacred Hair Oil | ABHATI Suisse](https://abhatisuisse.com/products/sacred-hair-oil): CHAMBAL Sacred Hair Oil – A natural blend of ayurvedic herbs & cold-pressed oils. A hydrating  for dry hair that repairs and fortifies | ABHATI Suisse
-  Updated: 2026-11-11T23:12:22Z
+  Updated: 2026-11-17T16:42:06Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c7be5209762648832622.jpg?v=1790073428
   Price: CHF 45.00 CHF
 - [KANGI 31 Large Detangling Comb | Handcrafted Comb | ABHATI Suisse](https://abhatisuisse.com/products/large-detangling-comb-31): KANGI 31 Large Detangling Comb – Our chic comb is handcrafted in Switzerland by third-generation craftspeople using recycled plant-based acetate | ABHATI Suisse
-  Updated: 2026-11-11T23:12:22Z
+  Updated: 2026-11-17T13:04:29Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c7c0d8a046a340040240.jpg?v=1790073557
   Price: CHF 23.00 CHF
 - [SURYA Balancing Shampoo Bar | ABHATI Suisse](https://abhatisuisse.com/products/balancing-shampoo-bar): SURYA Balancing Shampoo Bar purifies from root to tip by gently conditioning the scalp and removing product build-up from dull and worn-out hair | ABHATI Suisse
-  Updated: 2026-11-11T23:12:23Z
+  Updated: 2026-11-18T06:19:02Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
@@ -81,21 +88,21 @@
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c91fe59bd3f947709521.jpg?v=1790073561
   Price: CHF 21.00 CHF
 - [MANALI Moisturising Shampoo Bar | ABHATI Suisse](https://abhatisuisse.com/products/moisturising-shampoo-bar): MANALI Moisturising Shampoo Bar is a pH-balanced formula that effectively hydrates without weighing hair down. Suitable for all hair types | ABHATI Suisse
-  Updated: 2026-11-11T23:12:23Z
+  Updated: 2026-11-19T20:54:35Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c91f215c471924962983.jpg?v=1790073562
   Price: CHF 21.00 CHF
 - [KAVERI Calming Shampoo Bar | ABHATI Suisse](https://abhatisuisse.com/products/calming-shampoo-bar): Soothe dry, irritated hair and scalp with our KAVERI Calming Shampoo Bar. Kavari is pH-balanced and suitable for all hair types | ABHATI Suisse
-  Updated: 2026-11-11T23:13:21Z
+  Updated: 2026-11-19T17:50:26Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c91e672e71f767506509.jpg?v=1790073563
   Price: CHF 21.00 CHF
 - [Shampoo Bar Holder | ABHATI Suisse](https://abhatisuisse.com/products/shampoo-bar-holder): Keep your ABHATI Suisse shampoo bars safe and dry with our round metal solid Shampoo Bar Holder. It’s reusable and made from 100% recycled materials.
-  Updated: 2026-11-11T23:13:22Z
+  Updated: 2026-11-14T15:26:06Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
@@ -109,19 +116,19 @@
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c7bb8be93f8535562872.jpg?v=1790073565
   Price: CHF 34.00 CHF
 - [KANVA Body Lotion | ABHATI Suisse](https://abhatisuisse.com/products/body-lotion): KANVA Body Lotion – A blend of nourishing and lipid-rich essential oils, Himalayan wild cherry oil and a variety of ayurvedic botanical extracts | ABHATI Suisse
-  Updated: 2026-11-11T23:13:23Z
+  Updated: 2026-11-17T07:17:56Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c7b979d6525749466449.jpg?v=1790073566
   Price: CHF 47.00 CHF
 - [MAHANADI Lip  | ABHATI Suisse](https://abhatisuisse.com/products/lip-): MAHANADI Lip  is a velvety lip conditioner made with all-natural ingredients. It soothes, moisturizes & gives long-lasting protection | ABHATI Suisse
-  Updated: 2026-11-11T23:13:21Z
+  Updated: 2026-11-17T07:17:52Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c91a9a01a9b165286665.jpg?v=1790073568
-  Price: CHF 14.00 CHF
+  Price: CHF 14.50 CHF
 - [SHANTA Rich Facial Cleanser | ABHATI Suisse](https://abhatisuisse.com/products/shanta-rich-facial-cleanser): SHANTA Rich Facial Cleanser works deeply to remove makeup, exfoliate, purify, and balance skin. It improves elasticity and enables self-healing | ABHATI Suisse
   Updated: 2026-11-11T23:13:23Z
   Vendor: ABHATI Suisse
@@ -158,42 +165,42 @@
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c9361dcadd1318162578.jpg?v=1790073580
   Price: CHF 10.00 CHF
 - [ANAMUDI Conditioner Bar | ABHATI Suisse Solid Hair Conditioner](https://abhatisuisse.com/products/conditioner-bar): A solid hair conditioner with peach kernel oil and organic botanicals. ANAMUDI Conditioner Bar enhances the shine and strengthens the hair. ABHATI Suisse
-  Updated: 2026-11-11T23:13:25Z
+  Updated: 2026-11-17T06:55:11Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c91d027b425502528907.jpg?v=1790073584
   Price: CHF 22.00 CHF
 - [SATTAL Perfect Tone Violet Shampoo Bar for blonde to silver hair](https://abhatisuisse.com/products/perfect-tone-shampoo-bar): Our violet shampoo tones and enhances radiance on blonde to silver hair leaving hair nourished and pH-balanced – SATTAL Perfect Tone Shampoo Bar. ABHATI Suisse
-  Updated: 2026-11-11T23:14:33Z
+  Updated: 2026-11-15T09:47:22Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c9218c68fa1082988274.jpg?v=1790073585
   Price: CHF 21.00 CHF
 - [TANU For the Family Hair & Body Bar | A sensitive skin soap-free wash](https://abhatisuisse.com/products/for-the-family-hair-body-bar): A family-friendly wash that gently cleanses, calms and moisturises the sensitive skin, scalp and hair – TANU For the Family Hair & Body Bar. ABHATI Suisse
-  Updated: 2026-11-11T23:14:35Z
+  Updated: 2026-11-12T09:05:56Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c9358083da8942576158.jpg?v=1790073586
   Price: CHF 21.00 CHF
 - [REVA 4-in-1 Travel Bar. Solid Shampoo for Skin and Hair. ABHATI Suisse](https://abhatisuisse.com/products/4-in-1-travel-bar): REVA 4-in-1 travel bar is the ultimate all-in-one solid shampoo for face and body cleansing, conditioning, and shaving. Travel size product that does it all.
-  Updated: 2026-11-11T23:14:34Z
+  Updated: 2026-11-17T06:55:16Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c920b13efc6785537180.jpg?v=1790073599
   Price: CHF 21.00 CHF
 - [Nourishing Shampoo 1 Litre](https://abhatisuisse.com/products/nourishing-shampoo-1-litre): YAMUNA Nourishing Shampoo is a gentle, yet highly effective detoxifying formula of organic botanicals for hair and scalp. It cleanses, hydrates, and fortifies, leaving hair wonderfully soft and fragrant.
-  Updated: 2026-11-11T23:14:35Z
+  Updated: 2026-11-19T00:02:15Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c7e3f165dfe144259151.jpg?v=1790073600
   Price: CHF 99.00 CHF
 - [Colour-Depth Shampoo 1 Litre](https://abhatisuisse.com/products/colour-depth-shampoo-1-litre): TANSA Colour-Depth Shampoo cleanses gently yet thoroughly and nourishes tresses to the core. The colour-lock formula keeps hair looking salon-fresh longer.
-  Updated: 2026-11-11T23:14:34Z
+  Updated: 2026-11-18T08:26:25Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
@@ -207,28 +214,28 @@
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c7e1b2b8fe4972797102.jpg?v=1790073602
   Price: CHF 99.00 CHF
 - [Whipped Volumising Conditioner 1 Litre](https://abhatisuisse.com/products/whipped-volumising-conditioner-1-litre): NAKKI Whipped Volumising Conditioner is a zero-gravity hair repair from cortex to cuticle. It supplies nourishment to the cortex layer, responsible for the hair’s strength, elasticity and pigmentation.
-  Updated: 2026-11-11T23:14:35Z
+  Updated: 2026-11-18T08:26:25Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c7e23b99302788575661.jpg?v=1790073603
   Price: CHF 104.00 CHF
 - [High-Performance Nourishing Conditioner 1 Litre](https://abhatisuisse.com/products/high-performance-nourishing-conditioner-1-litre): SARANDA High-Performance Nourishing Conditioner is a hydrating  that repairs and fortifies otherwise unmanageable hair while creating a smooth and glossy lightweight finish.
-  Updated: 2026-11-11T23:14:35Z
+  Updated: 2026-11-17T17:43:55Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c7e2d5461f7827021687.jpg?v=1790073604
   Price: CHF 104.00 CHF
 - [VENNA Hand Soap | ABHATI Suisse](https://abhatisuisse.com/products/venna-hand-soap): VENNA luxury hand soap blends Edelweiss & wild Himalayan Cherry Oil to gently cleanse, hydrate & nourish your hands while leaving them soft & delicately scented
-  Updated: 2026-11-11T23:14:36Z
+  Updated: 2026-11-13T22:35:46Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/6a0b138921c06371573753.jpg?v=1790073613
   Price: CHF 26.00 CHF
 - [RIMO Scalp Trainer (150ml) | ABHATI Suisse](https://abhatisuisse.com/products/scalp-trainer): RIMO Scalp Trainer – A botanical pre-wash that exfoliates, hydrates & boosts circulation for thicker, stronger hair | ABHATI Suisse
-  Updated: 2026-11-11T23:14:36Z
+  Updated: 2026-11-13T22:34:50Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
@@ -242,63 +249,70 @@
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/69cf81b1c750a947588661.jpg?v=1790073616
   Price: CHF 58.00 CHF
 - [Botanical Soap Refill Pouch | ABHATI Suisse](https://abhatisuisse.com/products/botanical-soap-refill): Refill botanical hand & body wash pouch with Edelweiss, Moringa oil & Turmeric. Gently cleanses, nourishes skin & helps reduce plastic waste. Discover more!
-  Updated: 2026-11-11T23:15:33Z
+  Updated: 2026-11-14T09:57:27Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/69fc7852cd7a6861945413.jpg?v=1790073617
   Price: CHF 46.00 CHF
+- [Scalp and Hair Care Trio | Rimo + Yamuna + Saranda](https://abhatisuisse.com/products/healthy-hair-trio): Refresh your scalp, remove buildup & strengthen hair with this scalp and hair care trio Rimo, Yamuna & Saranda. Scrub, shampoo & conditioner for all hair types.
+  Updated: 2026-11-14T11:02:28Z
+  Vendor: ABHATI Suisse
+  Product Type: Shop
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/6a4cf756d5579009779000.jpg?v=1790073619
+  Price: CHF 99.00 CHF
 - [Hair Revival Trio – Nourishing Shampoo, Conditioner & Hair Oil | ABHATI Suisse](https://abhatisuisse.com/products/hair-revival-trio): The ABHATI Suisse Haircare Set contains our YAMUNA Nourishing Shampoo, SARANDA Nourishing Conditioner and CHAMBAL Sacred Hair Oil. Shop now!
-  Updated: 2026-11-11T23:15:33Z
+  Updated: 2026-11-19T00:02:15Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68d0f3389ce43199471167_77d047e0-b1bf-454a-9082-fc083e476c4d.jpg?v=1793028219
   Price: CHF 110.00 CHF
 - [Hair Revival Trio – Light – Nourishing Shampoo, Conditioner & Hair Oil | ABHATI Suisse](https://abhatisuisse.com/products/hair-trio-light): The ABHATI Suisse Hair Revival Trio Light Set contains our IMLAYA volumising shampoo, NAKKI volumising conditioner, and CHAMBAL Sacred Hair Oil. Shop now!
-  Updated: 2026-11-11T23:15:34Z
+  Updated: 2026-11-19T20:54:36Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68d0f4b1e338e439489873_c675f353-e7b9-48c9-b381-62de669e858b.jpg?v=1793028220
   Price: CHF 110.00 CHF
 - [RIMO + YAMUNA Scalp Exfoliator & Shampoo Set | ABHATI Suisse](https://abhatisuisse.com/products/the-growth-ritual-1): Detoxify your scalp & strengthen hair with RIMO & YAMUNA, the perfect scalp exfoliator & shampoo set for managing buildup, breakage & maintaining healthy shine.
-  Updated: 2026-11-11T23:15:33Z
+  Updated: 2026-11-19T00:02:15Z
   Vendor: Abhati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/thumb_1291_600_600_0_0_crop_29150d9d-26f4-4fef-8af6-3d8100ef2fbb.jpg?v=1793028220
   Price: CHF 63.50 CHF
 - [Volume Duo – Whipped Volumising Conditioner & Shampoo | ABHATI Suisse](https://abhatisuisse.com/products/volume-duo-1): Discover our Volume Duo Set that contains full-sized tubes of IMLAYA Volumising Shampoo & NAKKI Whipped Volumising Conditioner | ABHATI Suisse
-  Updated: 2026-11-11T23:15:34Z
+  Updated: 2026-11-19T20:54:35Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c9181c7f93c678192244_d8c0ef79-f811-403c-b45f-520beaec55f4.jpg?v=1793028220
   Price: CHF 67.00 CHF
 - [Hair Ritual – Sacred Hair Oil & Volumising Conditioner | ABHATI Suisse](https://abhatisuisse.com/products/hair-ritual-1): Find everything you need for healthy, hydrated hair in our Hair Ritual set – CHAMBAL Sacred Hair Oil & NAKKI Whipped Volumising Conditioner | ABHATI Suisse
-  Updated: 2026-11-11T23:15:34Z
+  Updated: 2026-11-19T20:54:35Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c80d1e12b07095196141_07ba807f-405a-4819-952b-06a9319ae1df.jpg?v=1793028220
   Price: CHF 103.00 CHF
 - [Botanical Soap Refill Set | ABHATI Suisse](https://abhatisuisse.com/products/botanical-soap-refill-bundle): Refillable botanical soap set with a glass bottle & eco-friendly pouch. Gentle cleansing and skin nourishment without plastic waste and harming our planet.
-  Updated: 2026-11-11T23:15:35Z
+  Updated: 2026-11-14T09:57:36Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/69fb22b5b9e0e852000981_165a94c6-0d56-4cc4-ab84-1ddc3a323714.jpg?v=1793028221
   Price: CHF 87.00 CHF
 - [Body Duo – PERIYA Body Cleanser & KANVA Body Lotion | ABHATI Suisse](https://abhatisuisse.com/products/body-duo-1): Body Duo Set – Intensive self-care ritual that contains full-sized bottles of our bestselling PERIYA Body Cleanser and KANVA Body Lotion | ABHATI Suisse
-  Updated: 2026-11-11T23:15:35Z
+  Updated: 2026-11-17T07:18:08Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/68c9114698cc7369309964_37abfc47-1c92-4fc1-bbda-4aea03c83ea9.jpg?v=1793028220
   Price: CHF 78.50 CHF
 - [Face Ritual – Facial Cleanser, Cream and Lip  | ABHATI Suisse](https://abhatisuisse.com/products/face-ritual-1): Face Ritual – This set contains full-sized tubes of our SHANTA Rich Facial Cleanser, LALITYA Whipped Moisturising Cream & MAHANADI Lip  | ABHATI Suisse
-  Updated: 2026-11-11T23:15:35Z
+  Updated: 2026-11-17T07:18:02Z
   Vendor: ABHATI Suisse
   Product Type: Shop
   Availability: Available
@@ -330,38 +344,59 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/6374e1f98bb7f437761220_4280b574-8e34-4586-a698-03b6ad3b72d9.jpg?v=1793100529
     Price: CHF 200.00 CHF
+- [Yamuna Botanical Shampoo](https://abhatisuisse.com/products/yamuna-botanical-shampoo): YAMUNA Nourishing Shampoo in our designed glass bottle is a gentle, yet highly effective detoxifying formula of organic botanicals for hair and scalp. It cleanses, hydrates, and fortifies, leaving hair wonderfully soft and fragrant. YAMUNA rids your hair and scalp of build-up and, with its scalp-balancing properties, it addresses a multitude of hair and scalp concerns. Suitable for all hair types.
+  Updated: 2026-11-14T00:16:08Z
+  Vendor: ABHATI Suisse
+  Product Type: Shop
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/ABHATI_Botanical_Shampoo_2048.jpg?v=1794572077
+  Price: CHF 56.00 CHF
+- [Botanical Hand & Body Lotion](https://abhatisuisse.com/products/botanical-lotion): KANVA our Botanical Lotion is a mighty moisturiser with a tantalizing aroma. Together with PERIYA Body Cleanser and botanical soap, this dream team will keep skin soft, nourished, and deliciously fragrant. A blend of nourishing and lipid-rich essential oils, natural antioxidants found in Omega-rich Himalayan Wild Cherry Oil, and a variety of Ayurvedic botanical extracts.
+  Updated: 2026-11-14T01:26:48Z
+  Vendor: ABHATI Suisse
+  Product Type: Shop
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/ABHATI_Botanical_Lotion_2048_1.jpg?v=1794576313
+  Price: CHF 79.00 CHF
+- [Botanical Hair Conditioner](https://abhatisuisse.com/products/botanical-hair-conditioner): NAKKI Whipped Volumising Conditioner is zero-gravity hair repair from cortex to cuticle. It supplies nourishment to the cortex layer, responsible for the hair’s strength, elasticity and pigmentation. It also boosts the hair’s defense system, located in the outer layer or cuticle, to hold in moisture and improve the integrity of overall hair structure without adding weight.
+  Updated: 2026-11-14T08:53:23Z
+  Vendor: ABHATI Suisse
+  Product Type: Shop
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1107/1311/0877/files/ABHATI_Botanical_Conditioner_2048.jpg?v=1794576352
+  Price: CHF 71.00 CHF
 
 ## Collections
 
 - [Home page](https://abhatisuisse.com/collections/frontpage)
-  Updated: 2026-11-10T21:19:58Z
+  Updated: 2026-11-19T12:33:39Z
   Total Products: 4
 - [Hair Care](https://abhatisuisse.com/collections/hair-care): Natural Ayurvedic haircare products. Shampoos, conditioners and a hair oil created from wildcrafted Indian botanicals for lavish haircare | ABHATI Suisse
-  Updated: 2026-11-10T21:19:58Z
-  Total Products: 46
+  Updated: 2026-11-19T12:33:39Z
+  Total Products: 48
 - [Body Care](https://abhatisuisse.com/collections/body-care): Natural Ayurvedic body care products from wildcrafted botanicals. Parabens free, soy free & gluten free cosmetic products | ABHATI Suisse
-  Updated: 2026-11-10T21:19:58Z
-  Total Products: 17
+  Updated: 2026-11-17T12:29:37Z
+  Total Products: 18
 - [Face Care](https://abhatisuisse.com/collections/face-care): Natural Ayurvedic skin care products from wildcrafted botanicals for lavish skincare. Parabens-free, soy-free & gluten-free cosmetic products | ABHATI Suisse
-  Updated: 2026-11-10T21:19:59Z
+  Updated: 2026-11-17T12:29:37Z
   Total Products: 11
 - [Shampoo Bars](https://abhatisuisse.com/collections/shampoo-bars): Organic Ayurvedic shampoo bars rich with natural botanical extracts that detoxify, balance and moisturise hair | Online Shop | ABHATI Suisse
-  Updated: 2026-11-10T21:19:59Z
+  Updated: 2026-11-18T12:32:38Z
   Total Products: 15
 - [Sets & Rituals](https://abhatisuisse.com/collections/sets-rituals): Swiss organic cosmetics from wildcrafted botanicals. Discover our skincare, haircare and body care sets | ABHATI Suisse | Online Shop
-  Updated: 2026-11-10T21:19:59Z
+  Updated: 2026-11-13T23:04:47Z
   Total Products: 28
 - [Bestsellers](https://abhatisuisse.com/collections/bestsellers): The products our customers come back for.
-  Updated: 2026-11-10T21:19:59Z
-  Total Products: 8
+  Updated: 2026-11-19T12:33:39Z
+  Total Products: 9
 - [Accessories](https://abhatisuisse.com/collections/accessories): Elevate your hair ritual with handcrafted combs made from recycled, plant-based materials. Sustainable, durable, and designed for effortless styling.
-  Updated: 2026-11-10T21:19:59Z
+  Updated: 2026-11-18T12:32:38Z
   Total Products: 7
 - [Travel & Minis](https://abhatisuisse.com/collections/travel-minis): Discover natural travel products crafted for conscious beauty on the go. Nourish skin & hair with eco-friendly, travel-friendly essentials from ABHATI.
-  Updated: 2026-11-10T21:19:59Z
+  Updated: 2026-11-17T12:29:37Z
   Total Products: 5
 - [Refills & Litre Sizes](https://abhatisuisse.com/collections/refills-litre-sizes): Reduce waste with ABHATI’s 1 litre shampoo bottles—eco-conscious, long-lasting haircare enriched with botanicals for strong, healthy hair.
-  Updated: 2026-11-10T21:19:59Z
+  Updated: 2026-11-19T12:33:39Z
   Total Products: 8
 - [Gift Cards](https://abhatisuisse.com/collections/gift-cards): Give the gift of choice with an ABHATI Suisse e-gift . Luxurious, conscious beauty for hair, skin & body, crafted with care.
   Updated: 2026-11-10T21:19:59Z
@@ -489,7 +524,7 @@
 - [Wholesale Order](https://abhatisuisse.com/pages/wholesale-order)
   Updated: 2026-11-03T11:03:49Z
 - [Wholesale Order - Hotels](https://abhatisuisse.com/pages/wholesale-order-hotels)
-  Updated: 2026-10-22T13:25:42Z
+  Updated: 2026-11-12T12:17:06Z
 - [Wholesale Order - Stores](https://abhatisuisse.com/pages/wholesale-order-stores)
   Updated: 2026-10-22T13:25:47Z
 - [Our science](https://abhatisuisse.com/pages/our-science)
