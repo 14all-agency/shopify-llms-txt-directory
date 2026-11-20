@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-28T09:17:14Z
 - Contact Email: aztekbhn@gmail.com
-- Updated At: 2026-11-12T01:07:09.086Z
+- Updated At: 2026-11-20T01:23:41.189Z
 
 ## Products
 
@@ -244,6 +244,15 @@
   - [Unlock the Future of Aesthetic Room Decor with Solara™ Hypercube Infinity Night Light from Galaxy Star Projector to Levitating Moon Lamp without Cords](https://solaralight.shop/blogs/news/unlock-the-future-of-aesthetic-room-decor-with-solara™-hypercube-infinity-night-light-from-galaxy-star-projector-to-levitating-moon-lamp-without-cords): Unlock the Future of Aesthetic Room Decor with Solara™ Hypercube Infinity Night Light from Galaxy Star Projector to Levitating Moon Lamp without Cords
     Updated: 2026-11-11T11:03:01Z
     Author: Solara™
+  - [Discover Aesthetic Room Decor Innovations with Solara™ 3D Dragon Night Light from Galaxy Star Projectors to Infinity Cube Lamps](https://solaralight.shop/blogs/news/discover-aesthetic-room-decor-innovations-with-solara™-3d-dragon-night-light-from-galaxy-star-projectors-to-infinity-cube-lamps): Discover Aesthetic Room Decor Innovations with Solara™ 3D Dragon Night Light from Galaxy Star Projectors to Infinity Cube Lamps
+    Updated: 2026-11-16T11:02:10Z
+    Author: Solara™
+  - [Explore Futuristic Desk Setup With Cordless Solara™ Lumi Flat Page Book Light and Other Ambient Mood Lighting Bedroom Options](https://solaralight.shop/blogs/news/explore-futuristic-desk-setup-with-cordless-solara™-lumi-flat-page-book-light-and-other-ambient-mood-lighting-bedroom-options): Explore Futuristic Desk Setup With Cordless Solara™ Lumi Flat Page Book Light and Other Ambient Mood Lighting Bedroom Options
+    Updated: 2026-11-17T11:01:34Z
+    Author: Solara™
+  - [11 Ways the Solara™ Solea Sunset Aura Lamp Enhances Aesthetic Room Decor with Ambient Lighting for Your Bedroom from the Levitating Moon Lamp to the Infinity Cube Lamp](https://solaralight.shop/blogs/news/11-ways-the-solara™-solea-sunset-aura-lamp-enhances-aesthetic-room-decor-with-ambient-lighting-for-your-bedroom-from-the-levitating-moon-lamp-to-the-infinity-cube-lamp): 11 Ways the Solara™ Solea Sunset Aura Lamp Enhances Aesthetic Room Decor with Ambient Lighting for Your Bedroom from the Levitating Moon Lamp to the Infinity Cube Lamp
+    Updated: 2026-11-18T11:02:44Z
+    Author: Solara™
 
 ## Store Pages
 
@@ -259,13 +268,13 @@
 - [Privacy Policy](https://solaralight.shop/policies/privacy-policy)
   Updated: 2026-10-31T22:09:57Z
 - [Shipping Policy](https://solaralight.shop/policies/shipping-policy)
-  Updated: 2026-10-05T06:39:41Z
+  Updated: 2026-11-12T17:34:35Z
 - [Refund Policy](https://solaralight.shop/policies/refund-policy)
-  Updated: 2026-10-05T06:29:58Z
+  Updated: 2026-11-12T17:34:07Z
 - [Terms of Service](https://solaralight.shop/policies/terms-of-service)
-  Updated: 2026-10-05T06:33:06Z
+  Updated: 2026-11-12T17:34:21Z
 - [Contact Information](https://solaralight.shop/policies/contact-information)
-  Updated: 2026-10-05T06:39:57Z
+  Updated: 2026-11-12T17:34:51Z
 
 ## Optional
 
