@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-28T11:02:43Z
 - Contact Email: okunoyakazuiti175@gmail.com
-- Updated At: 2026-11-12T08:30:03.840Z
+- Updated At: 2026-11-20T01:18:50.507Z
 
 ## Products
 
@@ -2821,14 +2821,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0797/7785/7733/files/Costway-Wooden-5-Cube-Chidren-Storage-Cabinet-Bookcase-Toy-Storage-Kids-Rooms-Classroom_0647f089-b127-45ad-b677-01198a4b5e83.e5a1267454498ed372b0871c47081b17.jpg?v=1793978915
     Price: $75.99 USD
-- [Cube Bookcase - Wood Storage | Witchwood](https://witchwood.design/products/cube-bookcase-with-hooks-in-black): Shop the Cube Bookcase with Hooks in Black from Witchwood. Wood storage for books and decor with free US shipping. Order yours today.
-  Updated: 2026-11-08T10:09:42Z
-  Vendor: Witchwood
-  Product Type: Cube Storage Organizers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0797/7785/7733/files/Costway-Wooden-Wall-Mounted-Coat-Rack-Hanging-Cubby-Organizer-Storage-Shelf-with-Hooks-Black_817f4248-a239-4c08-b272-2f987d65f7bb.5f55dd63c60338cb247656dcdc2873dc.jpg?v=1793978918
-  Price: $39.99 USD
-[List Continued](https://witchwood.design/a/llms-agent/llms.txt?shop=ck0wuj-cp.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQwOTY3MTA2NTc5NywibGFzdF92YWx1ZSI6IjEwNDA5NjcxMDY1Nzk3In0%3D)
+[List Continued](https://witchwood.design/a/llms-agent/llms.txt?shop=ck0wuj-cp.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQwOTY3MTAzMzAyOSwibGFzdF92YWx1ZSI6IjEwNDA5NjcxMDMzMDI5In0%3D)
 
 ## Collections
 
@@ -2892,6 +2885,15 @@
     Author: Witchwood
   - [Witchwood's Modern Guide to Chic Interiors: How Floating Wood Shelves and Solid Wood Shelving Transform Space](https://witchwood.design/blogs/news/witchwoods-modern-guide-to-chic-interiors-how-floating-wood-shelves-and-solid-wood-shelving-transform-space): Witchwood's Modern Guide to Chic Interiors: How Floating Wood Shelves and Solid Wood Shelving Transform Space
     Updated: 2026-11-11T11:05:51Z
+    Author: Witchwood
+  - [Maximize Style and Space: Why Floating Wood Shelves Like Witchwood's 2 Tier Desktop Shelf Are Ideal for Modern Homes](https://witchwood.design/blogs/news/maximize-style-and-space-why-floating-wood-shelves-like-witchwoods-2-tier-desktop-shelf-are-ideal-for-modern-homes): Maximize Style and Space: Why Floating Wood Shelves Like Witchwood's 2 Tier Desktop Shelf Are Ideal for Modern Homes
+    Updated: 2026-11-16T11:04:54Z
+    Author: Witchwood
+  - [Transform Your Space with Witchwood's Five Tier Bookcase: Stunning Wooden Wall Shelves for Modern Decor](https://witchwood.design/blogs/news/transform-your-space-with-witchwoods-five-tier-bookcase-stunning-wooden-wall-shelves-for-modern-decor): Transform Your Space with Witchwood's Five Tier Bookcase: Stunning Wooden Wall Shelves for Modern Decor
+    Updated: 2026-11-17T11:03:59Z
+    Author: Witchwood
+  - [Modern Wall Shelf Decor Tips: Elevate Your Home with Witchwood Stackable 3 Tier Bookcase and Solid Wood Shelving](https://witchwood.design/blogs/news/modern-wall-shelf-decor-tips-elevate-your-home-with-witchwood-stackable-3-tier-bookcase-and-solid-wood-shelving): Modern Wall Shelf Decor Tips: Elevate Your Home with Witchwood Stackable 3 Tier Bookcase and Solid Wood Shelving
+    Updated: 2026-11-18T11:05:47Z
     Author: Witchwood
 
 ## Store Pages
