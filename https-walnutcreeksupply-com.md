@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-10-06T06:09:06Z
 - Contact Email: CONTACT@WALNUTCREEKPET.COM
-- Updated At: 2026-11-13T01:04:18.724Z
+- Updated At: 2026-11-20T01:06:18.531Z
 
 ## Products
 
 - [Freeze Dried Lamb Liver | Walnut Creek Supply](https://walnutcreeksupply.com/products/freeze-dried-lamb-liver): Single-ingredient freeze dried liver dog treat — raw nutrition intact, intense flavor dogs work hard for. No fillers, no artificial additives. Ships from the US.
-  Updated: 2026-11-13T00:21:06Z
+  Updated: 2026-11-17T15:48:34Z
   Vendor: The Pet Gourmet®
   Product Type: Consumer
   Availability: Available
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/FreezeDriedLambLiver_092_jpg.png?v=1769965602
     Price: $37.99 USD
 - [Freeze Dried Chicken Breast | Walnut Creek Supply](https://walnutcreeksupply.com/products/freeze-dried-chicken-breast): Single-ingredient freeze dried chicken dog treat — pure protein, bioavailable nutrition, zero additives. High-value training reward or meal topper. Ships fast.
-  Updated: 2026-11-07T20:12:15Z
+  Updated: 2026-11-16T17:18:48Z
   Vendor: The Pet Gourmet®
   Product Type: Consumer
   Availability: Available
@@ -37,21 +37,21 @@
     Availability: Available
     Price: $37.99 USD
 - [PetHub QR Pet ID Wallet & Keychain Card – Emergenc | Walnut](https://walnutcreeksupply.com/products/pethub-qr-pet-id-wallet-keychain-card-emergency-backup-for-your-pet): Dog supply hand-selected for quality and safety. Natural-first, family-tested products for dogs of every size and life stage.
-  Updated: 2026-11-05T18:38:06Z
+  Updated: 2026-11-15T03:48:11Z
   Vendor: PetHub
   Product Type: Digital Pet ID Tag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/walletcard.png?v=1770895792
   Price: $9.95 USD
 - [Organic Salmon Dog Food | Human-Grade Meal | Walnut Creek](https://walnutcreeksupply.com/products/sensational-salmon-case-includes-24-8oz-meals): Human-grade organic salmon dog food with probiotics, glucosamine, and omega-3s. No fillers, no artificial additives. Real nutrition in every serving.
-  Updated: 2026-11-05T18:38:06Z
+  Updated: 2026-11-15T03:48:09Z
   Vendor: Din Din 4 Dogs
   Product Type: Dog Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/ABF596AD-E709-48FF-8F0D-3330476DA1BD_2813087d-b7de-4999-9f11-e50db9a627c8.png?v=1770137317
   Price: $142.32 USD
 - [Turkey Chips for Dogs | All-Natural Single-Ingredi | Walnut](https://walnutcreeksupply.com/products/turkey-chips-for-dogs-all-natural-single-ingredient-healthy-dog-treats): Dog supply hand-selected for quality and safety. Natural-first, family-tested products for dogs of every size and life stage.
-  Updated: 2026-11-12T23:58:46Z
+  Updated: 2026-11-20T00:31:37Z
   Vendor: Farm To Pet
   Product Type: Chip
   Availability: Available
@@ -63,16 +63,16 @@
   - [Value 12oz](https://walnutcreeksupply.com/products/turkey-chips-for-dogs-all-natural-single-ingredient-healthy-dog-treats?variant=46126571782315)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/Farm_to_Pet_Premium_Dog_Treats_Turkey_Chips_12oz_Front.png?v=1769965536
-    Price: $32.95 USD
+    Price: $29.95 USD
 - [Texas Copepod Zooplankton  - 6 Bottle Bundle | Walnut Creek](https://walnutcreeksupply.com/products/texas-copepod-zooplankton-6-bottle-bundle): Aquarium supply hand-selected for quality and effectiveness. Natural-first fishkeeping for freshwater, planted, and reef enthusiasts. Ships from the US.
-  Updated: 2026-11-11T01:38:31Z
+  Updated: 2026-11-16T17:23:59Z
   Vendor: Pod Your Reef
   Product Type: Zooplankton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/TexasBundle-3.png?v=1769561399
   Price: $110.00 USD
 - [INKBIRD Thermostat Controller Bracket | Walnut Creek Supply](https://walnutcreeksupply.com/products/inkbird-thermostat-controller-bracket): Aquarium supply hand-selected for quality and effectiveness. Natural-first fishkeeping for freshwater, planted, and reef enthusiasts. Ships from the US.
-  Updated: 2026-11-12T23:12:31Z
+  Updated: 2026-11-17T17:54:07Z
   Vendor: Printed Reef
   Product Type: Bracket
   Availability: Available
@@ -147,7 +147,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/InkBirdMountOrangeitemsonly.png?v=1771055254
     Price: $38.99 USD
 - [Tunze Osmolator 5017 ATO Controller Bracket | Walnut Creek S](https://walnutcreeksupply.com/products/tunze-osmolator-5017-ato-controller-bracket): Aquarium supply hand-selected for quality and effectiveness. Natural-first fishkeeping for freshwater, planted, and reef enthusiasts. Ships from the US.
-  Updated: 2026-11-05T18:50:28Z
+  Updated: 2026-11-15T03:48:15Z
   Vendor: Printed Reef
   Product Type: Bracket
   Availability: Available
@@ -170,14 +170,14 @@
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/ORANGE-TUNZE_7a090766-4ec1-4d2c-9762-5ed9dbe75a6e.png?v=1769963385
     Price: $14.99 USD
 - [Tasty Turkey -case includes 24, 8oz meals | Walnut Creek Sup](https://walnutcreeksupply.com/products/tasty-turkey-case-includes-24-8oz-meals): Premium dog food hand-selected for nutritional quality — real protein sources, natural ingredients, species-appropriate formulas. No artificial fillers.
-  Updated: 2026-11-05T18:38:02Z
+  Updated: 2026-11-15T03:48:22Z
   Vendor: Din Din 4 Dogs
   Product Type: Dog Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/44EF3144-FDDF-40C4-9D31-E5F1C19E5E59_31bbbad2-4f87-4f08-9bc5-92d47d6e4be2.png?v=1771456861
   Price: $139.32 USD
 - [Silicone Slow Feeder | Walnut Creek Supply](https://walnutcreeksupply.com/products/silicone-slow-feeder): Dog feeding accessory hand-selected for enrichment and healthy eating habits — slow feeders, lick mats, and quality bowls for every dog.
-  Updated: 2026-11-07T20:13:26Z
+  Updated: 2026-11-15T03:48:22Z
   Vendor: Din Din 4 Dogs
   Product Type: Pet accessories
   Availability: Available
@@ -198,21 +198,21 @@
     Availability: Available
     Price: $14.99 USD
 - [Oven Baked Kibble Sampler Pack | Walnut Creek Supply](https://walnutcreeksupply.com/products/oven-baked-kibble-sampler-pack): Premium dog food hand-selected for nutritional quality — real protein sources, natural ingredients, species-appropriate formulas. No artificial fillers.
-  Updated: 2026-11-07T20:12:16Z
+  Updated: 2026-11-15T03:48:28Z
   Vendor: The Pet Gourmet®
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/OvenBakedKibbleSamples.png?v=1780430344
   Price: $2.99 USD
 - [Chicken Treats Dog Treats, 5 Ounce Bag, Single Ing | Walnut](https://walnutcreeksupply.com/products/chicken-treats-dog-treats-5-ounce-bag-single-ingredient-high-protein): Dog supply hand-selected for quality and safety. Natural-first, family-tested products for dogs of every size and life stage.
-  Updated: 2026-11-05T18:38:10Z
+  Updated: 2026-11-19T19:45:55Z
   Vendor: Din Din 4 Dogs
   Product Type: Dog Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/Din-Din-4-Dogs_Edit_2026-07-20_1x_3.png?v=1784596656
   Price: $14.98 USD
 - [Media Basket for Sump | Walnut Creek Supply](https://walnutcreeksupply.com/products/media-basket-for-sump): Aquarium supply hand-selected for quality and effectiveness. Natural-first fishkeeping for freshwater, planted, and reef enthusiasts. Ships from the US.
-  Updated: 2026-11-05T18:51:11Z
+  Updated: 2026-11-15T03:48:45Z
   Vendor: Printed Reef
   Product Type: Animals & Pet Supplies
   Availability: Available
@@ -371,14 +371,14 @@
     Availability: Available
     Price: $94.99 USD
 - [Chicken and Turkey  Combo - case includes 24, 8oz  | Walnut](https://walnutcreeksupply.com/products/chicken-and-turkey-combo-case-includes-24-8oz-meals): Dog supply hand-selected for quality and safety. Natural-first, family-tested products for dogs of every size and life stage.
-  Updated: 2026-11-05T18:38:07Z
+  Updated: 2026-11-15T03:48:46Z
   Vendor: Din Din 4 Dogs
   Product Type: Dog Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/167AE80A-6AB3-4817-810B-58679F580EFA_d1024379-7d0c-4716-822e-3d21a2951b79.png?v=1771368366
   Price: $139.32 USD
 - [Coral Box DCA 6000 Controller Bracket | Walnut Creek Supply](https://walnutcreeksupply.com/products/coral-box-dca-6000-controller-bracket): Reef and coral aquarium supply hand-selected for serious marine hobbyists — chemistry, nutrition, and equipment for thriving reef ecosystems.
-  Updated: 2026-11-05T18:50:24Z
+  Updated: 2026-11-15T03:48:50Z
   Vendor: Printed Reef
   Product Type: 
   Availability: Available
@@ -400,7 +400,7 @@
     Availability: Available
     Price: $14.99 USD
 - [PetHub QR ID Pet Tag - Escape Artist | Walnut Creek Supply](https://walnutcreeksupply.com/products/pethub-qr-id-pet-tag-escape-artist): Dog supply hand-selected for quality and safety. Natural-first, family-tested products for dogs of every size, breed, and life stage.
-  Updated: 2026-11-05T18:50:28Z
+  Updated: 2026-11-15T03:48:53Z
   Vendor: PetHub
   Product Type: Digital Pet ID Tag
   Availability: Available
@@ -412,7 +412,7 @@
     Availability: Available
     Price: $19.95 USD
 - [Neptune Systems GRO Light Shade | Walnut Creek Supply](https://walnutcreeksupply.com/products/neptune-systems-gro-light-shade): Live aquarium plant — natural filtration, oxygen production, and habitat enrichment for fish, shrimp, and aquatic life. Hand-selected for health and vitality.
-  Updated: 2026-11-06T00:15:46Z
+  Updated: 2026-11-15T03:48:54Z
   Vendor: Printed Reef
   Product Type: Animals & Pet Supplies
   Availability: Available
@@ -435,7 +435,7 @@
     Availability: Available
     Price: $29.99 USD
 - [Coral Plug Rock Holders - Set of 10 | Walnut Creek Supply](https://walnutcreeksupply.com/products/coral-plug-rock-holders-set-of-10): Reef and coral aquarium supply hand-selected for serious marine hobbyists — chemistry, nutrition, and equipment for thriving reef ecosystems.
-  Updated: 2026-11-12T13:07:06Z
+  Updated: 2026-11-19T22:29:06Z
   Vendor: Printed Reef
   Product Type: 
   Availability: Available
@@ -477,49 +477,42 @@
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/Orange-Rock-Stand.png?v=1770992322
     Price: $9.99 USD
 - [Medium Split Elk Antler Dog Chew | Walnut Creek Supply](https://walnutcreeksupply.com/products/medium-split-elk-antler-dog-chew): Natural dog treat hand-selected for clean ingredients — single-protein options, no artificial additives, ideal for training and daily enrichment.
-  Updated: 2026-11-05T18:38:08Z
+  Updated: 2026-11-15T03:49:00Z
   Vendor: The Pet Gourmet®
   Product Type: Consumer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/Elk_Antler_Split_d21c8456-7fe5-489b-9f3e-a1c7f06eab18.png?v=1780433522
   Price: $16.49 USD
 - [100% Pork Dog Treats, 5 Ounce Bag, Single Ingredie | Walnut](https://walnutcreeksupply.com/products/100-pork-dog-treats-5-ounce-bag-single-ingredient-high-protein): Natural dog treat hand-selected for clean ingredients. Ideal for training and daily enrichment.
-  Updated: 2026-11-05T18:38:07Z
+  Updated: 2026-11-15T03:49:06Z
   Vendor: Din Din 4 Dogs
   Product Type: Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/Din-Din-4-Dogs_Edit_2026-07-20_1x_1.png?v=1784594787
   Price: $14.98 USD
 - [Small Breed - Sensational Salmon, case includes 30 | Walnut](https://walnutcreeksupply.com/products/small-breed-sensational-salmon-case-includes-30-4oz-meals): Dog supply hand-selected for quality and safety. Natural-first, family-tested products for dogs of every size and life stage.
-  Updated: 2026-11-05T18:38:07Z
+  Updated: 2026-11-15T03:49:05Z
   Vendor: Din Din 4 Dogs
   Product Type: Dog Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/ABF596AD-E709-48FF-8F0D-3330476DA1BD_0972aaa6-c89a-4c80-ab2a-808a49a80a29.png?v=1771456861
   Price: $152.62 USD
-- [Pumpkin Chew 8 Pack | Walnut Creek Supply](https://walnutcreeksupply.com/products/pumpkin-chew-8-pack): Natural dog treat hand-selected for clean ingredients — single-protein options, no artificial additives, ideal for training and daily enrichment.
-  Updated: 2026-11-12T18:13:25Z
-  Vendor: The Pet Gourmet®
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/Pumpkin_and_Honey_Chews_8_pack.png?v=1780432176
-  Price: $10.99 USD
 - [NEW SHAPE ! Calming Health Support Dog Chew -12 oz | Walnut](https://walnutcreeksupply.com/products/new-shape-calming-health-support-dog-chew-12-oz): Dog supply hand-selected for quality and safety. Natural-first, family-tested products for dogs of every size and life stage.
-  Updated: 2026-11-13T00:21:05Z
+  Updated: 2026-11-18T07:01:26Z
   Vendor: The Pet Gourmet®
   Product Type: Consumer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/CalmingTreats.png?v=1780433306
   Price: $13.99 USD
 - [Bristle Worm Trap | Walnut Creek Supply](https://walnutcreeksupply.com/products/bristle-worm-trap): Aquarium supply hand-selected for quality and effectiveness. Natural-first fishkeeping for freshwater, planted, and reef enthusiasts. Ships from the US.
-  Updated: 2026-11-11T20:11:36Z
+  Updated: 2026-11-19T20:21:40Z
   Vendor: Printed Reef
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/I2A4898-Enhanced-NR-Edit.png?v=1770154823
   Price: $19.99 USD
 - [Puppy Packs 'n Snacks Dog Treat Starter Pack | Sin | Walnut](https://walnutcreeksupply.com/products/puppy-packs-n-snacks-dog-treat-starter-pack-single-ingredient-training-treats): Dog supply hand-selected for quality and safety. Natural-first, family-tested products for dogs of every size and life stage.
-  Updated: 2026-11-10T15:58:46Z
+  Updated: 2026-11-17T11:43:06Z
   Vendor: Farm To Pet
   Product Type: Bundle
   Availability: Available
@@ -541,7 +534,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/Farm_to_Pet_Fish_Snack_Packs_for_Dogs_Fish_Treat_Puppy_Packs_N_Snacks_Dog_Treat_Starter_Pack_Front.png?v=1769965503
     Price: $21.95 USD
 - [Adaptive Reef Toggle Box Bracket | Walnut Creek Supply](https://walnutcreeksupply.com/products/adaptive-reef-toggle-box-bracket): Reef and coral aquarium supply hand-selected for serious marine hobbyists — chemistry, nutrition, and equipment for thriving reef ecosystems.
-  Updated: 2026-11-05T18:50:29Z
+  Updated: 2026-11-18T22:30:16Z
   Vendor: Printed Reef
   Product Type: Fish Supplies
   Availability: Available
@@ -563,68 +556,68 @@
     Availability: Available
     Price: $19.99 USD
 - [Small Breed - Chow Down Chicken, case includes 30, | Walnut](https://walnutcreeksupply.com/products/small-breed-chow-down-chicken-case-includes-30-4oz-meals): Dog supply hand-selected for quality and safety. Natural-first, family-tested products for dogs of every size and life stage.
-  Updated: 2026-11-05T18:38:05Z
+  Updated: 2026-11-15T03:49:15Z
   Vendor: Din Din 4 Dogs
   Product Type: Dog Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/28DC3705-E2AA-4572-81D8-B50058C761B6_c8f44a91-45cf-40c1-9257-7dad95938b6a.png?v=1771368683
   Price: $149.62 USD
 - [Large Beef Chew 2lb bag | Walnut Creek Supply](https://walnutcreeksupply.com/products/large-beef-chew-2lb-bag): Natural dog treat hand-selected for clean ingredients — single-protein options, no artificial additives, ideal for training and daily enrichment.
-  Updated: 2026-11-13T00:21:06Z
+  Updated: 2026-11-19T23:55:16Z
   Vendor: The Pet Gourmet®
   Product Type: Consumer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/Beef_Chew_for_Dogs.png?v=1780430088
   Price: $24.99 USD
 - [Printed Reef Bottle Opener — merch | Walnut Creek Supply](https://walnutcreeksupply.com/products/printed-reef-bottle-opener): Introducing the Printed Reef Bottle Opener – Customizable for Your Style! A blend of innovation and personalization, this 3D-printed bottle opener is...
-  Updated: 2026-11-05T18:38:08Z
+  Updated: 2026-11-15T03:49:15Z
   Vendor: Printed Reef
   Product Type: merch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/Printed-Reef-Bottle-Opener.png?v=1769561405
   Price: $19.99 USD
 - [100% Beef Liver Dog Treats, 5 Ounce Bag, Single In | Walnut](https://walnutcreeksupply.com/products/100-beef-liver-dog-treats-5-ounce-bag-single-ingredient-high-protein): Natural dog treat hand-selected for clean ingredients. Ideal for training and daily enrichment.
-  Updated: 2026-11-05T18:38:06Z
+  Updated: 2026-11-15T03:49:15Z
   Vendor: Din Din 4 Dogs
   Product Type: Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/Din-Din-4-Dogs_Photoshoot_Beef-Liver-Dog-Treats_-5-Ounce-Bag_-Single-Ingredient_-High-Protein_Dog-Treat-Portrait_2026-07-20_1x_5af0c3f0-416b-4d97-b2be-e9e8e8c34136.png?v=1784594697
   Price: $14.98 USD
 - [Rotatable Holder Vitamini — Aquarium Accessory | Walnut Creek Supply](https://walnutcreeksupply.com/products/rotatable-holder-vitamini): Shipping from CA or NY Mount your Vitamini on Rails The Illumagic Vitamini acrylic clips come in a pair and work perfectly with the Illumagic Blaze X...
-  Updated: 2026-11-06T13:46:48Z
+  Updated: 2026-11-15T03:49:17Z
   Vendor: Dalua International LLC
   Product Type: Aquarium Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/vitamini_rotatable_holder.jpg?v=1791645899
   Price: $45.95 USD
 - [Freeze-Dried Raw Dog Food — Salmon Mix | Walnut Creek](https://walnutcreeksupply.com/products/salmon-mix): Freeze-dried raw salmon dog food mix — complete nutrition, no fillers, no artificial additives. Species-appropriate raw feeding made simple.
-  Updated: 2026-11-06T18:35:35Z
+  Updated: 2026-11-19T18:06:06Z
   Vendor: Bare Naked Pet Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/Bare_Naked_Pet_Co_r1_01B_0906_2fb13427-988a-47b9-9a3f-f021d0a39624.png?v=1771978046
   - [6oz](https://walnutcreeksupply.com/products/salmon-mix?variant=46097017372843)
     Availability: Available
-    Price: $24.99 USD
+    Price: $21.99 USD
   - [12oz](https://walnutcreeksupply.com/products/salmon-mix?variant=46192342237355)
     Availability: Available
-    Price: $44.99 USD
+    Price: $39.99 USD
 - [QR Pet Comprehensive Identification: Mini ReadyKit | Walnut](https://walnutcreeksupply.com/products/qr-pet-comprehensive-identification-mini-readykit): Cat supply hand-selected for quality and safety. Natural-first products for cats at every life stage — from kittens to senior companions.
-  Updated: 2026-11-05T18:38:07Z
+  Updated: 2026-11-15T03:49:20Z
   Vendor: PetHub
   Product Type: Digital Pet ID Tag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/UPDATED_Shopify_Product_Images_5.png?v=1771461379
   Price: $19.95 USD
 - [Starter Bundle - 4 Bottle of Pods + Phytoplankton](https://walnutcreeksupply.com/products/starter-bundle-4-bottle-of-pods-phytoplankton): Are you stuck in the same old fish tank rut? Feeling like your aquatic world is more "meh" than magnificent? Well, hold onto your fins because I've got something that's gonna blow your underwater mind – the Pod Your Reef Ultimate Transformation Bundle! This set includes Tisbe Biminiensis Copepods (2 bottle) Apocyclops panamensis Reef Copepods (2 bottles) Nannochloropsis phytoplankton (1 bottle) 🌟 Copepods Galore – Double Trouble, Double Fun! 🌟 Picture this: not one, not two, but FOUR bottles of copepods. That's right, the dynamic duo of Tisbe Biminiensis Copepods and Apocyclops panamensis Reef Copepods are teaming up to rock your reef tank like never before. These little powerhouses aren't just your ordinary fish food – they're the secret sauce that turns your aquarium into a reefin' paradise! 🌱 Phytoplankton Power - It's a Game Changer! 🌱 But wait, we're not stopping there! Brace yourself for a one-two punch of awesomeness with Nannochloropsis phytoplankton. This stuff is like a buffet for your corals and fish, giving 'em a feast they won't forget. Watch as your reef transforms into a thriving wonderland, bursting with life and color! Apocyclops panamensis "Apo" copepods are an excellent species to seed a refugium or new reef tank. This copepod is a medium-sized copepod that is easier to see than our tisbe pod but not as large as our Tigriopus californicus "Tig" copepods, affording them the opportunity to reproduce faster than they could fall to predation. Tisbe Biminiensis Copepods: This species of copepods has several life stages, including the egg, nauplius, copepodid, and  stages. They are small in size, ranging from 0.2 to 0.8mm at each stage, and they feed primarily on algae and other small organic particles in the water column. Nannochloropsis phytoplankton, though minuscule in size, packs a colossal punch when it comes to nourishing your reef tank. These microscopic powerhouses are rich in essential nutrients, delivering a diverse nutritional profile that caters to the unique needs of your underwater ecosystem. With cell sizes that perfectly match the appetites of your corals and filter-feeding invertebrates, Nannochloropsis becomes a living buffet, fueling growth, color vibrancy, and overall vitality. By introducing this remarkable phytoplankton into your reef tank, you're opening the door to a thriving and balanced aquatic paradise, where every drop of water pulses with the energy of life. 💡 Why Grab the Transformation Bundle? 💡 ✅ No More Guesswork: Say goodbye to confusing product choices – we've handpicked the ultimate bundle for reef tank success! ✅ Life Explosion: Witness the incredible synergy of copepods and phytoplankton as they create a dance of life right before your eyes. ✅ Set It and Forget It: Sick of endless maintenance? Get ready for a self-sustaining tank that practically takes care of itself. ✅ Free Shipping: Dive into convenience with complimentary shipping on this game-changing bundle – transforming your reef tank has never been easier! 🚚🌊
-  Updated: 2026-11-11T17:16:08Z
+  Updated: 2026-11-19T04:52:46Z
   Vendor: Pod Your Reef
   Product Type: Zooplankton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/Bundle-TheStartUp.png?v=1769561405
   Price: $115.00 USD
 - [BRS Space Saver Jug Stand | Walnut Creek Supply](https://walnutcreeksupply.com/products/brs-space-saver-jug-stand): Maximize your reef tank setup with the BRS Space Saver Jug Stand by Printed Reef – the ideal solution for keeping your jugs neat, stable, and easily...
-  Updated: 2026-11-05T18:50:22Z
+  Updated: 2026-11-18T22:06:07Z
   Vendor: Printed Reef
   Product Type: 
   Availability: Available
@@ -647,28 +640,28 @@
     Availability: Available
     Price: $14.99 USD
 - [Rotifers | Walnut Creek Supply](https://walnutcreeksupply.com/products/rotifers): Aquarium supply hand-selected for quality and effectiveness. Natural-first fishkeeping for freshwater, planted, and reef enthusiasts. Ships from the US.
-  Updated: 2026-11-11T01:38:46Z
+  Updated: 2026-11-18T20:26:16Z
   Vendor: Pod Your Reef
   Product Type: Zooplankton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/RotifiersSingleBottle_d8b44f8d-02c4-4eda-b7d7-9d76a76fe977.png?v=1770034108
   Price: $15.00 USD
 - [Eco-Friendly Poop Bags - 6 Refill Rolls | Walnut Creek Suppl](https://walnutcreeksupply.com/products/eco-friendly-poop-bags-6-refill-rolls): Dog supply hand-selected for quality and safety. Natural-first, family-tested products for dogs of every size, breed, and life stage.
-  Updated: 2026-11-05T18:38:07Z
+  Updated: 2026-11-15T19:11:56Z
   Vendor: The Pet Gourmet®
   Product Type: Consumer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/PoopBags_040_jpg.png?v=1769561409
   Price: $6.99 USD
 - [Nannochloropsis Phytoplankton Culture](https://walnutcreeksupply.com/products/nannochloropsis-phytoplankton-culture): Nannochloropsis is a very important species of phytoplankton, as it has a high protein content and lipid composition which essential for the health of your reef. Phytoplankton is the foundation of the food chain for marine life. Package size: 16 oz Cell size: 2.73 ± 0.13 μm Max Density: 4.7 g∙L-1 100% Aquacultured Diet Advantage: Long fatty acid chain, including eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA). Omega-3 (ω-3) fatty acids are essential components of marine species health. Reef Advantage: Live microalgae culture, provides a natural source of food for corals, clams, filter feeders, copepods, and other zooplankton.
-  Updated: 2026-11-11T17:15:48Z
+  Updated: 2026-11-19T04:52:30Z
   Vendor: Pod Your Reef
   Product Type: Phytoplankton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/GreenPhytoSingleBottle.png?v=1769561407
   Price: $15.00 USD
 - [Coral Feeder Cage | Walnut Creek Supply](https://walnutcreeksupply.com/products/coral-feeder-cage): Premium fish food hand-selected for nutritional quality — species-appropriate protein ratios, natural ingredients, no artificial colors.
-  Updated: 2026-11-06T16:02:26Z
+  Updated: 2026-11-19T22:58:35Z
   Vendor: Printed Reef
   Product Type: 
   Availability: Available
@@ -696,7 +689,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/BLACK-7X5.png?v=1770992305
     Price: $49.99 USD
 - [Innovative Marine Filter Basket | Walnut Creek Supply](https://walnutcreeksupply.com/products/innovative-marine-filter-basket): Aquarium filter hand-selected for reliable performance and capacity. Clean oxygenated water is the foundation of a healthy aquarium.
-  Updated: 2026-11-06T00:18:36Z
+  Updated: 2026-11-15T03:49:35Z
   Vendor: Printed Reef
   Product Type: 
   Availability: Available
@@ -718,14 +711,14 @@
     Availability: Available
     Price: $24.99 USD
 - [Treat Topper Turkey Dog Food Topper | Healthy Meal | Walnut](https://walnutcreeksupply.com/products/treat-topper-turkey-dog-food-topper-healthy-meal-supplement-for-dogs): Poultry health supplement hand-selected for flock wellness — electrolytes, probiotics, and vitamins for productive and resilient birds.
-  Updated: 2026-11-12T22:04:22Z
+  Updated: 2026-11-19T14:39:34Z
   Vendor: Farm To Pet
   Product Type: Topper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/Farm_to_Pet_Lean_Turkey_Topper_Turkey_Dog_Food_Treat_Toppers_Front_0a6f7dd6-6a46-4f78-87a3-a38518919b3c.png?v=1769991672
   Price: $15.95 USD
 - [Printed Reef Coral Coasters Set | Walnut Creek Supply](https://walnutcreeksupply.com/products/printed-reef-coral-coasters-set): Reef and coral supply hand-selected for serious marine hobbyists — chemistry, nutrition, and equipment for thriving reef ecosystems.
-  Updated: 2026-11-12T19:14:18Z
+  Updated: 2026-11-15T03:49:40Z
   Vendor: Printed Reef
   Product Type: merch
   Availability: Available
@@ -749,7 +742,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/ORANGE-COASTER-SET-no-coke.png?v=1769964354
     Price: $19.99 USD
 - [EcoTech Marine Radion XR30 Light Shade | Walnut Creek Supply](https://walnutcreeksupply.com/products/ecotech-marine-radion-xr30-light-shade): Aquarium lighting hand-selected for spectrum and reliability. Supports plant growth, enhances fish color, promotes natural day cycles.
-  Updated: 2026-11-12T19:52:11Z
+  Updated: 2026-11-16T23:59:51Z
   Vendor: Printed Reef
   Product Type: Animals & Pet Supplies
   Availability: Available
@@ -763,7 +756,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/XR30-Wide-Angle-2_e65f5c23-3dfe-4b0b-8ff2-5ae35e5cbcb2.png?v=1769963343
     Price: $67.99 USD
 - [EcoTech Marine Radion XR30 Power Supply Holder | Walnut Cree](https://walnutcreeksupply.com/products/ecotech-marine-radion-xr30-power-supply-holder): Aquarium lighting hand-selected for spectrum and reliability. Full-spectrum output for plant growth, fish color, and natural day-night cycles.
-  Updated: 2026-11-11T22:33:25Z
+  Updated: 2026-11-19T17:38:08Z
   Vendor: Printed Reef
   Product Type: 
   Availability: Available
@@ -821,7 +814,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/XR30-TRIPLE-ORANGE.png?v=1769884743
     Price: $43.99 USD
 - [Puppy Love Dog Treat Duo | Poultry Chip Variety Pa | Walnut](https://walnutcreeksupply.com/products/puppy-love-dog-treat-duo-poultry-chip-variety-pack): Natural dog treat hand-selected for clean ingredients — single-protein options, no artificial additives. Ideal for training and daily enrichment.
-  Updated: 2026-11-11T00:25:27Z
+  Updated: 2026-11-15T03:49:50Z
   Vendor: Farm To Pet
   Product Type: Chip
   Availability: Available
@@ -835,7 +828,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/Farm_to_Pet_Valentine_Puppy_Love_Dog_Treats_Poultry_Treat_Variety_Pack_4_bags_4oz_Combo_Front.png?v=1769965532
     Price: $44.95 USD
 - [AquaIllumination Hydra 32 HD Power Supply Holder | Walnut Cr](https://walnutcreeksupply.com/products/aquaillumination-hydra-32-hd-power-supply-holder): Aquarium lighting hand-selected for spectrum and reliability. Full-spectrum output for plant growth, fish color, and natural day-night cycles.
-  Updated: 2026-11-05T18:50:29Z
+  Updated: 2026-11-18T19:25:21Z
   Vendor: Printed Reef
   Product Type: power supply holder
   Availability: Available
@@ -901,14 +894,14 @@
     Availability: Available
     Price: $34.99 USD
 - [Mr. Peanut's 2 Pak HanD 259 Silicone Pins Pet Groo | Walnut](https://walnutcreeksupply.com/products/mr-peanuts-2-pak-hand-259-silicone-pins-pet-grooming-gloves): Cat grooming tool hand-selected for effective stress-low coat care. Reduces shedding, prevents mats, supports skin and coat health.
-  Updated: 2026-11-08T15:35:55Z
+  Updated: 2026-11-19T23:57:06Z
   Vendor: Mr. Peanut's Pet Carriers
   Product Type: Grooming Aids
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/pixlr_20171209213326604_20180111014737990_20180324131512793_20180328074548762_20180401074813712_20180407060101082.jpg?v=1769561417
   Price: $12.99 USD
 - [Snack Pack Dog Treat Sampler | Walnut Creek Supply](https://walnutcreeksupply.com/products/snack-pack-dog-treat-sampler): Natural dog treat hand-selected for clean ingredients — single-protein options, no artificial additives, ideal for training and daily enrichment.
-  Updated: 2026-11-12T14:57:36Z
+  Updated: 2026-11-19T22:36:17Z
   Vendor: Farm To Pet
   Product Type: Snack Pack
   Availability: Available
@@ -922,7 +915,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/Farm_to_Pet_Heart_Healthy_Dog_Treats_Snack_Pack_Dog_Treat_Sampler_24_pack.png?v=1769970741
     Price: $32.95 USD
 - [Di Resin Packing Set - 3 Sizes! | Walnut Creek Supply](https://walnutcreeksupply.com/products/di-resin-packing-set-3-sizes): Aquarium supply hand-selected for quality and effectiveness. Natural-first fishkeeping for freshwater, planted, and reef enthusiasts.
-  Updated: 2026-11-12T17:50:36Z
+  Updated: 2026-11-19T21:26:51Z
   Vendor: Printed Reef
   Product Type: 
   Availability: Available
@@ -960,7 +953,7 @@
     Availability: Available
     Price: $32.99 USD
 - [Kessil A360X/XE Light Shade | Walnut Creek Supply](https://walnutcreeksupply.com/products/kessil-a360x-xe-light-shade): Aquarium lighting hand-selected for spectrum and reliability. Supports plant growth, enhances fish color, promotes natural day cycles.
-  Updated: 2026-11-06T05:23:36Z
+  Updated: 2026-11-19T23:12:22Z
   Vendor: Printed Reef
   Product Type: 
   Availability: Available
@@ -986,21 +979,21 @@
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/0I2A2848.png?v=1769963253
     Price: $34.99 USD
 - [Tetraselmis chui Phytoplankton | Walnut Creek Supply](https://walnutcreeksupply.com/products/tetraselmis-chui-phytoplankton): Get ready to add some serious health and color to your marine ornamental livestock with Tetraselmis chui Phytoplankton! This microalgae can handle a...
-  Updated: 2026-11-11T17:15:42Z
+  Updated: 2026-11-16T13:53:05Z
   Vendor: Pod Your Reef
   Product Type: Phytoplankton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/TetraselmisPhytoplanktonFinal.png?v=1769561420
   Price: $20.00 USD
 - [Chow Down Chicken - case includes 24, 8oz meals | Walnut Cre](https://walnutcreeksupply.com/products/chow-down-chicken-case-includes-24-8oz-meals): Premium dog food hand-selected for nutritional quality — real protein sources, natural ingredients, species-appropriate formulas. No artificial fillers.
-  Updated: 2026-11-05T18:38:02Z
+  Updated: 2026-11-15T03:50:12Z
   Vendor: Din Din 4 Dogs
   Product Type: Dog Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/28DC3705-E2AA-4572-81D8-B50058C761B6.png?v=1770137318
   Price: $139.32 USD
 - [Illumagic Pixels | Walnut Creek Supply](https://walnutcreeksupply.com/products/illumagic-pixels): Aquarium lighting hand-selected for spectrum and reliability. Supports plant growth, enhances fish color, promotes natural day-night cycles.
-  Updated: 2026-11-06T13:46:48Z
+  Updated: 2026-11-15T03:50:15Z
   Vendor: Dalua International LLC
   Product Type: AQUARIUM LIGHTING
   Availability: Available
@@ -1018,7 +1011,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/refugium_pixel.png?v=1793940198
     Price: $99.00 USD
 - [Mr. Peanut's Gold Series Standard Size Airline Com | Walnut](https://walnutcreeksupply.com/products/mr-peanuts-gold-series-standard-size-airline-compliant-expandable-pet-carrier-v3-0): Cat supply hand-selected for quality and safety. Natural-first products for cats at every life stage — from kittens to senior companions.
-  Updated: 2026-11-12T20:45:26Z
+  Updated: 2026-11-19T21:53:16Z
   Vendor: Mr. Peanut's Pet Carriers
   Product Type: Pet Carrier
   Availability: Available
@@ -1032,14 +1025,14 @@
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/cd69b3676a55d44cf15befbe5111abcc_jpg.png?v=1787534729
     Price: $154.00 USD
 - [Sensational Salmon - Sampler 8 Pack | Walnut Creek Supply](https://walnutcreeksupply.com/products/sensational-salmon-sampler-8-pack): Dog supply hand-selected for quality and safety. Natural-first, family-tested products for dogs of every size, breed, and life stage.
-  Updated: 2026-11-05T18:38:07Z
+  Updated: 2026-11-15T03:50:18Z
   Vendor: Din Din 4 Dogs
   Product Type: Dog Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/SS-packaged_and_bowl.jpg?v=1769561422
   Price: $51.00 USD
 - [PetHub QR Pet ID Tag – Get Me Home Club | Walnut Creek Suppl](https://walnutcreeksupply.com/products/pethub-qr-pet-id-tag-get-me-home-club): Dog supply hand-selected for quality and safety. Natural-first, family-tested products for dogs of every size, breed, and life stage.
-  Updated: 2026-11-08T21:14:36Z
+  Updated: 2026-11-15T03:50:20Z
   Vendor: PetHub
   Product Type: Digital Pet ID Tag
   Availability: Available
@@ -1069,7 +1062,7 @@
     Availability: Available
     Price: $19.95 USD
 - [Beef Recipe Chew Stick | Walnut Creek Supply](https://walnutcreeksupply.com/products/beef-recipe-chew-stick): Premium dog food hand-selected for nutritional quality — real protein sources, natural ingredients, species-appropriate formulas. No artificial fillers.
-  Updated: 2026-11-12T16:14:15Z
+  Updated: 2026-11-18T07:01:19Z
   Vendor: The Pet Gourmet®
   Product Type: 
   Availability: Available
@@ -1083,7 +1076,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/Pet_Gourmet_beef_chew.png?v=1780430862
     Price: $2.49 USD
 - [PetHub QR Pet ID Tag – Classic Aluminum | Walnut Creek Suppl](https://walnutcreeksupply.com/products/pethub-qr-pet-id-tag-classic-aluminum): Dog supply hand-selected for quality and safety. Natural-first, family-tested products for dogs of every size, breed, and life stage.
-  Updated: 2026-11-12T21:00:13Z
+  Updated: 2026-11-17T22:04:46Z
   Vendor: PetHub
   Product Type: Digital Pet ID Tag
   Availability: Available
@@ -1161,7 +1154,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/pink_basic_aluminum.png?v=1769965668
     Price: $11.95 USD
 - [Coral Frag Plug Sand Stands - Set of 5 | Walnut Creek Supply](https://walnutcreeksupply.com/products/coral-frag-plug-sand-stands-set-of-5): Reef and coral supply hand-selected for serious marine hobbyists — chemistry, nutrition, and equipment for thriving reef ecosystems.
-  Updated: 2026-11-12T16:17:15Z
+  Updated: 2026-11-19T22:04:07Z
   Vendor: Printed Reef
   Product Type: Animals & Pet Supplies
   Availability: Available
@@ -1203,276 +1196,276 @@
     Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/OrangeSandStand0.6.png?v=1770992316
     Price: $9.99 USD
 - [Freeze-Dried Raw Dog Food — Beef Mix | Walnut Creek](https://walnutcreeksupply.com/products/beef-mix): Freeze-dried raw beef dog food mix — complete and balanced, single-protein, real ingredients. High-bioavailability nutrition for dogs at every life stage.
-  Updated: 2026-11-12T19:21:17Z
+  Updated: 2026-11-19T18:06:07Z
   Vendor: Bare Naked Pet Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0142/7371/files/Beef_listing_1.png?v=1771978613
   - [6oz](https://walnutcreeksupply.com/products/beef-mix?variant=46097028186283)
     Availability: Available
-    Price: $24.99 USD
+    Price: $21.99 USD
   - [12oz](https://walnutcreeksupply.com/products/beef-mix?variant=46192342204587)
     Availability: Available
-    Price: $44.99 USD
+    Price: $39.99 USD
 [List Continued](https://walnutcreeksupply.com/a/llms-agent/llms.txt?shop=x9w6wz-xf.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NjQzOTQxOTkwNTcxLCJsYXN0X3ZhbHVlIjoiODY0Mzk0MTk5MDU3MSJ9)
 
 ## Collections
 
 - [Dogs!](https://walnutcreeksupply.com/collections/we-love-dogs): Explore our Dogs collection for all essential items including Bones, Balls, Bowls, Collars, Leashes, Kennels, and exclusive offers to keep your dog happy and healthy
-  Updated: 2026-11-12T23:37:48Z
-  Total Products: 7159
+  Updated: 2026-11-19T23:15:58Z
+  Total Products: 7152
 - [Aquatics](https://walnutcreeksupply.com/collections/we-love-aquatics): Your aquarium should be a living work of art — and we've got the supplies to make it happen! Our aquarium supplies and fish supplies collection covers...
-  Updated: 2026-11-13T00:04:08Z
-  Total Products: 662
+  Updated: 2026-11-20T00:01:15Z
+  Total Products: 676
 - [Cats!](https://walnutcreeksupply.com/collections/we-love-cats): Discover the best cat supplies at We Love Cats, your ultimate destination for toys, treats, beds, and accessories to keep your feline friends happy and healthy.
-  Updated: 2026-11-13T00:19:19Z
-  Total Products: 4804
+  Updated: 2026-11-20T01:05:57Z
+  Total Products: 4810
 - [Critters!](https://walnutcreeksupply.com/collections/critters): Shop small animal supplies for rabbits, guinea pigs, hamsters, gerbils, rats and chinchillas — bedding, hay, enclosures, toys and treats.
-  Updated: 2026-11-12T23:01:50Z
-  Total Products: 1181
+  Updated: 2026-11-20T00:01:50Z
+  Total Products: 1186
 - [Reptiles & Amphibians](https://walnutcreeksupply.com/collections/reptiles-amphibians): Discover top-quality Reptiles & Amphibians supplies including terrariums, lights, feeders, and décor. Create a thriving habitat for your cold-blooded friends today!
-  Updated: 2026-11-13T00:04:18Z
-  Total Products: 2884
+  Updated: 2026-11-20T00:52:08Z
+  Total Products: 2887
 - [Birds](https://walnutcreeksupply.com/collections/we-love-birds): Welcome to We Love Birds – Your Feathered Friends’ Favorite Spot!From cheerful parakeets to majestic macaws, charming finches to talkative cockatiels…even canaries too! – we’ve got everything your avian companions need to soar happily. Explore a curated range of cages, perches, toys, nutritious feeds, and care essentials designed for birds of all sizes. Whether you’re setting up a new aviary, upgrading enrichment with swings and foraging toys, or looking for tips on creating a safe and stimulating environment, our bird-loving team is here to help you keep those feathers fluttering in style.
-  Updated: 2026-11-12T19:20:29Z
-  Total Products: 745
+  Updated: 2026-11-19T19:24:38Z
+  Total Products: 746
 - [Dog Beds](https://walnutcreeksupply.com/collections/dog-beds): Shop dog beds from supportive orthopedic mats to plush bolster sofas. Sizes for puppies to giant breeds, washable covers. 10% of every order aids shelters.
-  Updated: 2026-11-10T05:59:09Z
-  Total Products: 156
+  Updated: 2026-11-18T08:52:58Z
+  Total Products: 150
 - [Cat Bedding and Caves](https://walnutcreeksupply.com/collections/cat-bedding-and-caves): Cat Bedding and Caves galore! Open cat beds, Enclosed Cat Bed, or something a bit more all inclusive like a cat house, we have all the necessities and more!
-  Updated: 2026-11-12T16:20:39Z
-  Total Products: 137
+  Updated: 2026-11-18T09:00:49Z
+  Total Products: 130
 - [Cat food](https://walnutcreeksupply.com/collections/cat-food): Shop cat food — wet, dry, raw and freeze-dried recipes high in protein and taurine. Clean-label nutrition for obligate carnivores.
-  Updated: 2026-11-12T23:45:31Z
-  Total Products: 1616
+  Updated: 2026-11-20T00:01:49Z
+  Total Products: 1586
 - [Dog Food](https://walnutcreeksupply.com/collections/dog-food): Shop dog food across wet, dry, raw and freeze-dried recipes — single and limited-ingredient options. No mystery meat, no cheap filler.
-  Updated: 2026-11-13T00:04:14Z
-  Total Products: 5170
+  Updated: 2026-11-20T00:53:23Z
+  Total Products: 5227
 - [Critter Food Treats & Feed](https://walnutcreeksupply.com/collections/critter-food-treats-feed): Delicious Wholesome &amp; Healthy Critter Food &amp; Feed, and Delectible Treats made with Real ingredients you can see! Immunity, Joint, and fur coat support suppli
-  Updated: 2026-11-12T19:20:29Z
-  Total Products: 830
+  Updated: 2026-11-20T00:01:10Z
+  Total Products: 833
 - [Critter Bedding and Accessories](https://walnutcreeksupply.com/collections/critter-bedding-and-accessories): Comfy & Cozy! We carry Beds and Fun Accessory items for Ferret, Guinea Pig, Hampster, Gerbil, Mouse, Rabbit, Rat, Chinchilla and more! Check it out!
-  Updated: 2026-11-10T02:36:07Z
-  Total Products: 51
+  Updated: 2026-11-16T08:37:24Z
+  Total Products: 52
 - [Reptile and Amphibian Enclosures](https://walnutcreeksupply.com/collections/reptile-and-amphibian-habitats): Shop reptile and amphibian habitats — terrariums, enclosures, screen tops and background decor for geckos, snakes, frogs and turtles.
-  Updated: 2026-11-08T02:18:23Z
-  Total Products: 78
+  Updated: 2026-11-13T16:29:11Z
+  Total Products: 79
 - [Bird Cages, Enclosures & Accessories](https://walnutcreeksupply.com/collections/bird-cages-enclosures-accessories): Give your birds a world that feels natural, safe, and endlessly interesting. Our Bird Accessories – Chews & Perches collection is hand-selected to support healthy feet, strong beaks, and happy, engaged minds for parrots, parakeets, finches, cockatiels, and more. From natural wood perches and resting spots to chews, toys, and foraging feeders, every item is chosen with your bird’s comfort and enrichment in mind. You’ll find: Bird rests & perches that support proper foot health and natural gripping Chews & toys to satisfy natural chewing instincts and prevent boredom Feeders & treat holders that encourage foraging and active feeding behavior Bird enclosures & cage accessories to create a safe, stimulating home Custom accessories and add-ons to personalize your setup as your flock grows As a family-owned business in Lancaster County, PA, Walnut Creek Pets focuses on wholesome, bird-safe materials and practical designs that make daily care easier. Whether you’re building a new aviary or upgrading a single cage, our Bird Accessories – Chews & Perches collection helps you create a space where your birds can rest, play, explore, and thrive.
-  Updated: 2026-10-30T00:09:25Z
+  Updated: 2026-11-13T17:00:52Z
   Total Products: 38
 - [Bird Food, Treats & Supplements](https://walnutcreeksupply.com/collections/bird-food-treats-supplements): Shop bird food, treats and supplements — seed blends, pellets, cuttlebone and calcium for parrots, finches and canaries. Clean-label nutrition.
-  Updated: 2026-11-12T15:28:15Z
-  Total Products: 290
+  Updated: 2026-11-19T19:24:38Z
+  Total Products: 293
 - [Reptile & Amphibian Food](https://walnutcreeksupply.com/collections/reptile-and-amphibian-food): Shop reptile and amphibian food — live feeder insects, freeze-dried diets, pellets and calcium supplements for geckos, snakes and frogs.
-  Updated: 2026-11-12T00:19:24Z
+  Updated: 2026-11-17T14:33:14Z
   Total Products: 324
 - [Dog Toys](https://walnutcreeksupply.com/collections/dog-toys): Explore our collection of Dog Toys designed to keep your Best Friend entertained with natural chews, throwing toys, puzzle toys, and treat holders. Shop now for quality fun!
-  Updated: 2026-11-13T00:04:18Z
-  Total Products: 6095
+  Updated: 2026-11-20T00:02:19Z
+  Total Products: 6148
 - [Cat Toys](https://walnutcreeksupply.com/collections/cat-toys): Top-quality Cat Toys including mouse toys, scratching pads, and string toys. Perfect for keeping your feline friends entertained and happy. Explore our collection!
-  Updated: 2026-11-12T23:34:01Z
+  Updated: 2026-11-19T17:30:16Z
   Total Products: 42
 - [Critter Toys and Accessories](https://walnutcreeksupply.com/collections/critter-toys-and-accessories): Critter toys - All the wheels tubes, string things watering bottles and nipples, Hammocks, Balls, Ball pits, Fun Zones, Maze supplies, and playgrounds all the goods!
-  Updated: 2026-11-12T23:01:50Z
-  Total Products: 672
+  Updated: 2026-11-18T10:24:17Z
+  Total Products: 674
 - [Reptile and Amphibian Accessories](https://walnutcreeksupply.com/collections/reptile-and-amphibian-toys): Shop reptile and amphibian enrichment — toys, hides, climbing decor and accessories for frogs, turtles, geckos and lizards. Keeps reptiles active.
-  Updated: 2026-11-12T19:21:18Z
-  Total Products: 228
+  Updated: 2026-11-19T10:05:40Z
+  Total Products: 226
 - [Cat Scratching Posts and Towers](https://walnutcreeksupply.com/collections/cat-scratching-posts-and-towers): All kinds of scratching posts, climbing towers, scratching pads, playhouses, and hides. Give your Cat the kind of personal space for fun and rest that...
-  Updated: 2026-11-11T11:04:37Z
-  Total Products: 61
+  Updated: 2026-11-16T20:36:09Z
+  Total Products: 60
 - [Dog Harness, Collar & Tag](https://walnutcreeksupply.com/collections/dog-harness-collar-tag): Shop dog harnesses, collars, leashes and ID tags — no-pull designs, padded fits and durable hardware for every size of dog.
-  Updated: 2026-11-12T17:36:08Z
+  Updated: 2026-11-20T00:41:04Z
   Total Products: 1235
 - [Aquarium Filters, Pumps & Media](https://walnutcreeksupply.com/collections/aquarium-filters-pumps-media): Keep Your Aquarium Crystal Clear & Thriving Discover our premium selection of aquarium filters, pumps, and media—engineered to create a clean, healthy, and vibrant aquatic environment. Whether you're maintaining a freshwater tank or a complex reef system, our products deliver powerful performance and reliable water circulation to support fish, plants, and corals alike. Filters: From sponge to canister, our filtration systems remove debris, toxins, and impurities for pristine water clarity. Pumps: Ensure optimal flow and oxygenation with energy-efficient pumps designed for quiet operation and long-lasting durability. Media: Customize your filtration with biological, chemical, and mechanical media that target specific water quality needs. Perfect for hobbyists and professionals, our range is trusted by aquarists who demand quality and results. Shop now and elevate your underwater world with equipment that works as hard as you do.
-  Updated: 2026-11-12T19:20:31Z
+  Updated: 2026-11-19T22:54:49Z
   Total Products: 200
 - [Aquarium Decorations and Accessories](https://walnutcreeksupply.com/collections/aquarium-decorations-and-accessories): Transform Your Tank into an Underwater Masterpiece Bring your aquarium to life with our curated collection of decorations and accessories—designed to enhance both the beauty and functionality of your aquatic setup. From natural-looking driftwood and vibrant artificial plants to whimsical ornaments and essential accessories, we have everything you need to create a stunning underwater world. Decorations: Choose from realistic rock formations, themed ornaments, and colorful backgrounds that add depth and personality to your tank. Accessories: Explore tools and enhancements like thermometers, feeding rings, breeding boxes, and cleaning kits that make aquarium care effortless. Safe & Non-Toxic: All items are crafted with fish-safe materials to ensure the health and happiness of your aquatic pets. Perfect for freshwater, saltwater, and nano tanks, our selection helps you express your style while supporting a thriving aquatic ecosystem. Dive in and discover the perfect finishing touches for your aquarium today! Glow-in-the-Dark Aquarium Decorations that Look Natural like Coral, or sea anemone are Fish-Safe, and multi color, make great gifts for the aquarium enthusiast in your family!
-  Updated: 2026-11-11T05:24:38Z
+  Updated: 2026-11-20T00:01:15Z
   Total Products: 158
 - [Cat Collar, Leash, Harness](https://walnutcreeksupply.com/collections/cat-collar-leash-harness): Discover the perfect Cat Collar for your feline, including petite, big sizes, and fun colors like camo! Shop now for all your cat's harness and leash needs.
   Updated: 2026-11-10T10:26:27Z
   Total Products: 41
 - [Aquarium Chems, Conditioners, Cultures](https://walnutcreeksupply.com/collections/aquarium-chems-bacters-cultures): Maintaining a vibrant aquatic environment requires a comprehensive approach to water quality and inhabitant health. Our curated selection of products offers a complete care spectrum designed to support a thriving ecosystem. By utilizing these specialized solutions, you can effectively manage balance and clarity within your living display. Each formulation is crafted to provide gentle yet powerful assistance for your delicate underwater inhabitants. We invite you to explore these premium options to ensure your environment remains both pristine and welcoming.
-  Updated: 2026-11-13T00:04:18Z
+  Updated: 2026-11-19T23:01:21Z
   Total Products: 244
 - [Aquarium Live Plants & More](https://walnutcreeksupply.com/collections/live-aquarium-plants): Shop live aquarium plants, substrate and planted-tank supplies. Real plants absorb nitrate, add oxygen and give fish natural cover. Ships USA-wide.
-  Updated: 2026-11-12T21:32:04Z
+  Updated: 2026-11-18T18:57:08Z
   Total Products: 187
 - [Dog Clothing & Costumes!](https://walnutcreeksupply.com/collections/dog-clothing-costumes): Explore our Dog Clothing & Costumes collection featuring adorable hoodies, vests, cat suits, bowties, bandanas, and neck ties to dress up your pet in style.
-  Updated: 2026-11-11T20:50:25Z
+  Updated: 2026-11-19T04:45:43Z
   Total Products: 476
 - [Cat Clothing & Costumes](https://walnutcreeksupply.com/collections/cat-clothing-costumes): Discover the ultimate pet fashion collection featuring trendy dog hoodies, cute cat suits, and accessories. Dress your pet to impress with our stylish and comfortable options.
-  Updated: 2026-11-12T06:09:48Z
+  Updated: 2026-11-13T16:27:34Z
   Total Products: 69
 - [Healthy & Paleo Pet!](https://walnutcreeksupply.com/collections/healthy-paleo-pet): Discover Healthy & Paleo Pet products with all-natural foods, treats, and chews for vibrant, healthy pets. Shop now for high-quality, safe, and grain-free options!
-  Updated: 2026-11-13T00:04:13Z
+  Updated: 2026-11-20T01:05:57Z
   Total Products: 650
 - [Food for Aquatics](https://walnutcreeksupply.com/collections/food-for-aquatics): Shop aquarium fish food — flakes, pellets, freeze-dried and frozen feeds for tropical, cichlid and marine fish. Clean nutrition, shipped USA-wide.
-  Updated: 2026-11-12T19:20:33Z
+  Updated: 2026-11-19T17:07:18Z
   Total Products: 146
 - [Critter Enclosures](https://walnutcreeksupply.com/collections/critter-enclosures): All the supplies you need to fit out the ultimate pad for your little buddy! wether your goals are to get teh basics, or setup a playground with mazes and all, we've
-  Updated: 2026-11-12T13:01:23Z
-  Total Products: 34
+  Updated: 2026-11-13T16:29:00Z
+  Total Products: 33
 - [Dog Supplements](https://walnutcreeksupply.com/collections/dog-supplements): Discover premium dog supplements for immunity, joints, and coat health. Delicious treats and natural feeds made with real ingredients for your dog's well-being.
-  Updated: 2026-11-12T17:31:08Z
-  Total Products: 250
+  Updated: 2026-11-16T22:57:31Z
+  Total Products: 251
 - [Cat Supplements](https://walnutcreeksupply.com/collections/cat-supplements): Shop cat supplements and  vet diets — vitamins, omega-3, probiotics and joint support for every life stage. Clean-label, USA-shipped.
-  Updated: 2026-11-13T00:04:18Z
-  Total Products: 334
+  Updated: 2026-11-19T04:54:58Z
+  Total Products: 336
 - [Reptile and Amphibian Terrarium Supplies & Accessories](https://walnutcreeksupply.com/collections/reptile-and-amphibian-enclosures-copy): Top-quality Reptile & Amphibian Habitats supplies and accessories to create safe, enriching environments. Perfect for reptiles, amphibians, and exotic pets alike.
-  Updated: 2026-11-12T19:20:36Z
-  Total Products: 487
+  Updated: 2026-11-19T21:02:27Z
+  Total Products: 488
 - [Live Fish & More](https://walnutcreeksupply.com/collections/live-fish-more): Buy live aquarium fish shipped safely to your door — freshwater and saltwater species, insured arrival, USA only. Family-owned, from our family to yours.
-  Updated: 2026-11-11T17:16:09Z
+  Updated: 2026-11-19T14:44:39Z
   Total Products: 310
 - [Christmas for Dogs](https://walnutcreeksupply.com/collections/christmas-for-dogs): Discover the best Christmas for Dogs with our festive collection of holiday sweaters, toys, stockings, and organic treats. Create joyful holiday memories with your pet.
   Updated: 2026-10-17T00:28:56Z
   Total Products: 41
 - [Christmas for Cats](https://walnutcreeksupply.com/collections/christmas-for-cats): Discover the best Christmas for Cats collection with cozy, safe toys, holiday accessories, and festive goodies designed to delight your feline friends this season.
-  Updated: 2026-11-12T23:06:20Z
-  Total Products: 566
+  Updated: 2026-11-19T23:24:04Z
+  Total Products: 562
 - [Christmas for Critters](https://walnutcreeksupply.com/collections/christmas-for-critters): Welcome to Walnut Creek Pets – Christmas Fun for Small Critters & Pocket Pets! Make the holidays special for your guinea pigs, hamsters, gerbils,...
   Updated: 2026-10-08T21:21:04Z
   Total Products: 0
 - [Aquatic Christmas](https://walnutcreeksupply.com/collections/aquatic-christmas): Welcome to Walnut Creek Pets – Christmas Cheer for Fishkeepers & Aquatic Friends! Bring the holiday spirit to your tanks with our Christmas-themed...
-  Updated: 2026-11-12T19:37:18Z
+  Updated: 2026-11-19T22:28:37Z
   Total Products: 641
 - [Christmas for Reptiles & Amphibians](https://walnutcreeksupply.com/collections/christmas-for-reptiles-amphibians): Welcome to We Love Herps – Your Habitat Hub for Reptiles & Amphibians! From slithery snakes to curious geckos, majestic turtles to vibrant frogs…even...
-  Updated: 2026-11-12T22:59:07Z
-  Total Products: 970
+  Updated: 2026-11-20T00:52:08Z
+  Total Products: 969
 - [Bird Accessories – Chews & Perches](https://walnutcreeksupply.com/collections/bird-accessories-chews-perches): Discover top-quality Bird Accessories – Chews & Perches to support your bird’s health, enrichment, and Joy. Hand-selected for parrots, finches, cockatiels, & more.
-  Updated: 2026-11-09T23:10:58Z
+  Updated: 2026-11-18T01:51:28Z
   Total Products: 141
 - [Christmas For Birds](https://walnutcreeksupply.com/collections/christmas-for-birds): Discover festive bird care essentials at We Love Birds. Shop cages, toys, feeds, and accessories to keep your birds happy and healthy this Christmas season.
-  Updated: 2026-11-12T00:42:43Z
-  Total Products: 312
+  Updated: 2026-11-19T19:24:38Z
+  Total Products: 313
 - [Live Feed Delivered!](https://walnutcreeksupply.com/collections/live-feed-delivered): Give your pets the most natural diet possible with our Live Feed collection—carefully selected plankton, aquatic invertebrates, and terrestrial feeders like crickets, grasshoppers, Dubia roaches, worms, and more. At Walnut Creek Pets, we believe live feed isn’t just food—it’s superior nutrition and behavioral fulfillment in one. Live prey helps: Support optimal growth and vibrant health with fresh, species-appropriate nutrition Satisfy natural hunting and predatory instincts, reducing stress and boredom Encourage natural behaviors like stalking, chasing, and foraging for a richer, more engaging life From plankton and aquatic microfauna for fish and amphibians to insects and roaches for reptiles, birds, and small mammals, every option is chosen to be safe, high-quality, and appropriate for your pet’s needs. As a USA-based, family-owned store, our goal is simple:Give your Best Friend the Best Life—with live feeds that nourish their body, challenge their mind, and honor who they are by nature.
-  Updated: 2026-11-11T17:16:46Z
+  Updated: 2026-11-14T15:21:09Z
   Total Products: 40
 - [Dog Treats](https://walnutcreeksupply.com/collections/dog-treats): Treats should be a joy — not a compromise. Our natural dog treats collection is stocked with wholesome, clean-ingredient rewards your dog will...
-  Updated: 2026-11-12T22:36:41Z
-  Total Products: 1439
+  Updated: 2026-11-19T20:47:58Z
+  Total Products: 1445
 - [Dog Essentials](https://walnutcreeksupply.com/collections/dog-essentials): Shop dog supplies and daily essentials — beds, bowls, toys, leashes and grooming gear. Family-owned, Lancaster County, 10% to no-kill shelters.
-  Updated: 2026-11-13T00:56:06Z
-  Total Products: 10177
+  Updated: 2026-11-20T00:53:51Z
+  Total Products: 10170
 - [Dry Dog Food](https://walnutcreeksupply.com/collections/dry-dog-food): Shop wholesome dry dog food with limited, single-ingredient recipes. Clean-label kibble and freeze-dried options — no mystery meat, no cheap filler.
-  Updated: 2026-11-12T22:20:46Z
-  Total Products: 2291
+  Updated: 2026-11-20T00:53:23Z
+  Total Products: 2308
 - [Dog Wet Food](https://walnutcreeksupply.com/collections/dog-wet-food): Wholesome Dog Wet Food! made with single and limited ingredients. Clean, simple recipes crafted to support your dog’s health, happiness, and give them the best life!
-  Updated: 2026-11-12T21:01:41Z
-  Total Products: 658
+  Updated: 2026-11-19T18:10:54Z
+  Total Products: 665
 - [Horses!](https://walnutcreeksupply.com/collections/horses): Shop horse supplies — equine feed, supplements, grooming and handcrafted tack from Lancaster County, PA. Everything for everyday horse care.
-  Updated: 2026-11-13T00:46:24Z
-  Total Products: 2944
+  Updated: 2026-11-20T00:31:05Z
+  Total Products: 3015
 - [Pet Snails](https://walnutcreeksupply.com/collections/garden-snails): Shop pet snail supplies — land snail habitats, calcium for shell growth, substrate and food. A quiet, easy first pet for kids. Family-owned, USA.
-  Updated: 2026-11-12T21:32:04Z
-  Total Products: 140
+  Updated: 2026-11-19T21:53:46Z
+  Total Products: 141
 - [Reef Supplies](https://walnutcreeksupply.com/collections/reef-tank-supplies): Discover top-quality reef tank supplies, including mounts, frag racks, plugs, fixing solutions, nutrients, and live feed. Enhance your reef with our expert supplies.
-  Updated: 2026-11-12T19:14:08Z
+  Updated: 2026-11-18T23:06:38Z
   Total Products: 100
 - [Wild Birds & Large Flocks](https://walnutcreeksupply.com/collections/wild-birds): Shop wild bird feed, feeders, suet and bird houses — bulk seed blends for large flocks and backyard songbirds. Family-owned, USA-shipped.
-  Updated: 2026-11-12T00:42:43Z
-  Total Products: 386
+  Updated: 2026-11-19T19:24:38Z
+  Total Products: 387
 - [Home page - Our Top  Pet Gifts, Tis Season!](https://walnutcreeksupply.com/collections/frontpage-smart): Discover top  pet gifts perfect for this season at Walnut Creek Pets LLC. Shop our carefully curated selection of quality pet gifts to delight your furry friends.
-  Updated: 2026-11-13T00:56:06Z
-  Total Products: 21433
+  Updated: 2026-11-20T00:51:35Z
+  Total Products: 21273
 - [Hermit Crabs](https://walnutcreeksupply.com/collections/hermit-crabs): Shop hermit crab tanks, habitat kits, substrate, shells and food. Everything for a humid, healthy crabitat — family-owned and shipped from the USA.
-  Updated: 2026-11-11T12:12:38Z
+  Updated: 2026-11-19T21:02:27Z
   Total Products: 82
 - [Home page - Our Top  Items!](https://walnutcreeksupply.com/collections/frontpage): Shop Walnut Creek Pets LLC for top  pet gifts that ensure your furry friends' happiness and health. Find premium gifts perfect for the season and every occasion.
-  Updated: 2026-11-13T00:56:07Z
-  Total Products: 22068
+  Updated: 2026-11-20T00:53:51Z
+  Total Products: 21978
 - [Everything in-stock](https://walnutcreeksupply.com/collections/everything-in-stock): Browse every pet and homestead product currently in stock and ready to ship — thousands of items from a family-owned American shop.
-  Updated: 2026-11-13T01:03:32Z
-  Total Products: 84812
+  Updated: 2026-11-20T00:51:36Z
+  Total Products: 84585
 - [Pet Adventure Gear!](https://walnutcreeksupply.com/collections/pet-adventure-gear): Explore our Pet Adventure Gear collection for healthy, active days with your pet. Find portable water bottles, collapsible feed bowls, harnesses, and essentials for outdoor fun.
-  Updated: 2026-11-12T14:28:08Z
-  Total Products: 342
+  Updated: 2026-11-19T06:00:58Z
+  Total Products: 339
 - [Trail Treats: Clean Fuel, No Junk](https://walnutcreeksupply.com/collections/trail-treats-clean-fuel-no-junk): Discover Trail Treats, the perfect clean fuel for your dog's outdoor adventure. High-protein, single-ingredient treats with no fillers or synthetic additives.
-  Updated: 2026-11-12T19:54:48Z
+  Updated: 2026-11-13T21:32:49Z
   Total Products: 38
 - [New Arrivals!](https://walnutcreeksupply.com/collections/new-arrivals): See what's new at Walnut Creek Supply — the latest pet, homestead and garden arrivals. Family-owned, and 10% of every order aids shelters.
-  Updated: 2026-11-13T00:56:07Z
-  Total Products: 20664
+  Updated: 2026-11-20T00:51:36Z
+  Total Products: 20504
 - [Greenhouses, Aviaries, Conservatories,](https://walnutcreeksupply.com/collections/gardening-greenhouses-aviaries-conservatories-and-other-habitats): Discover the best gardening tools, supplies, and design ideas for greenhouses, aviaries, and conservatories. Elevate your gardening projects with expert guidance and premium products.
-  Updated: 2026-11-09T09:53:29Z
+  Updated: 2026-11-17T09:49:51Z
   Total Products: 67
 - [Gardening tools and supplies](https://walnutcreeksupply.com/collections/gardening-tools-and-supplies): Discover top gardening tools and supplies designed for durability and precision. Perfect for all sizes, cultivate with confidence using our exceptional products.
   Updated: 2026-11-04T21:08:40Z
   Total Products: 132
 - [Gardening - Seeds, Bulbs and Plants](https://walnutcreeksupply.com/collections/gardening-seeds-bulbs-plants): Explore gardening - Seeds, Bulbs and Plants featuring premium seeds, bulbs, and plants. Perfect for gardeners of all levels for a thriving, vibrant garden space.
-  Updated: 2026-11-13T00:32:38Z
-  Total Products: 124803
+  Updated: 2026-11-19T21:04:48Z
+  Total Products: 124774
 - [Gardening Supplements, Nutrients, and Treatments](https://walnutcreeksupply.com/collections/gardening-supplements-nutrients-and-treatments): Feed, protect, and optimize your garden with our curated selection of premium supplements, nutrients, fertilizer and treatments. Formulated for results
-  Updated: 2026-11-12T05:01:48Z
+  Updated: 2026-11-19T21:12:34Z
   Total Products: 41
 - [Pet Supplies](https://walnutcreeksupply.com/collections/pet-supplies): Discover top-quality Pet Supplies for dogs, cats, and more. Shop our collection for the best Pet Supplies to keep your pets happy, healthy, and comfortable.
-  Updated: 2026-11-10T21:02:14Z
-  Total Products: 277
+  Updated: 2026-11-18T23:18:22Z
+  Total Products: 278
 - [All Birds](https://walnutcreeksupply.com/collections/all-birds): Discover premium bird supplies including cages, perches, bird food, toys, and accessories for all bird types. Shop Walnut Creek Pets for everything your bird needs.
-  Updated: 2026-11-12T19:20:29Z
-  Total Products: 675
+  Updated: 2026-11-19T19:24:38Z
+  Total Products: 676
 - [All Horse](https://walnutcreeksupply.com/collections/all-horse): Explore our All Horse collection for high-quality horse products. Find everything you need for your horse, from accessories to care essentials in one place.
-  Updated: 2026-11-13T00:46:24Z
-  Total Products: 2974
+  Updated: 2026-11-20T00:31:10Z
+  Total Products: 3044
 - [All Cat](https://walnutcreeksupply.com/collections/all-cat): Discover the All Cat collection for feline lovers. Shop the best selection of All Cat products, accessories, and essentials for your beloved pets today.
-  Updated: 2026-11-13T00:19:19Z
-  Total Products: 4216
+  Updated: 2026-11-20T01:05:57Z
+  Total Products: 4226
 - [All Dog](https://walnutcreeksupply.com/collections/all-dog): Discover the All Dog collection featuring high-quality products for all dog breeds and sizes. Shop now for the best pet accessories, food, and care essentials.
-  Updated: 2026-11-13T00:55:29Z
-  Total Products: 22007
+  Updated: 2026-11-20T00:53:23Z
+  Total Products: 22184
 - [All Fish](https://walnutcreeksupply.com/collections/all-fish): Shop premium aquarium supplies, fish food, tanks, and aquatic accessories for freshwater and saltwater fish. Everything your fish needs at Walnut Creek Pets.
-  Updated: 2026-11-13T00:04:18Z
-  Total Products: 1256
+  Updated: 2026-11-20T00:01:15Z
+  Total Products: 1257
 - [All Reptile](https://walnutcreeksupply.com/collections/all-reptile): Discover the best All Reptile collection, featuring diverse reptile products for enthusiasts. Shop now to find quality reptiles, accessories, and care supplies.
-  Updated: 2026-11-13T00:04:18Z
+  Updated: 2026-11-20T00:01:10Z
   Total Products: 1343
 - [All Small Animal](https://walnutcreeksupply.com/collections/all-small-animal): Explore our All Small Animal collection for premium products tailored for your small pets. Find everything you need to keep your All Small Animal companions happy and healthy.
-  Updated: 2026-11-12T23:01:50Z
-  Total Products: 2499
+  Updated: 2026-11-20T00:01:10Z
+  Total Products: 2501
 - [Tack and Riding Gear](https://walnutcreeksupply.com/collections/horses-copy): Discover top-quality Horse Supplies including feed, grooming, treatments, and handcrafted tack from Lancaster County PA. Perfect for all your equestrian needs!
-  Updated: 2026-11-13T00:46:24Z
-  Total Products: 2700
+  Updated: 2026-11-20T00:31:05Z
+  Total Products: 2771
 - [Poultry Birds](https://walnutcreeksupply.com/collections/poultry-birds): Carefully Selected Live Hatching Eggs — Shipped with Care Bring new life to your flock with our premium hatching eggs, sourced from healthy, well-managed flocks of quail, chickens, ducks, and more. Each egg is hand-selected for fertility, shell integrity, and breed quality — giving you the best possible hatch rates right from the start. Our eggs are packed with precision using industry-best cushioning and temperature-conscious materials, ensuring they arrive safely and ready for your incubator. Whether you're a backyard hobbyist or an experienced breeder, you'll find breeds suited to every goal — from prolific layers and meat birds to rare and heritage varieties. Hatch something extraordinary.
-  Updated: 2026-11-11T16:48:38Z
-  Total Products: 44
+  Updated: 2026-11-16T20:12:46Z
+  Total Products: 46
 - [Poultry Bird Feeders Waterers and other supplies](https://walnutcreeksupply.com/collections/poultry-bird-feeders-waterers-and-other-supplies): Keep your flock fed, watered, and thriving. Explore our curated selection of poultry feeders, waterers, and essential supplies designed for chickens, ducks, geese, and more. From gravity-fed waterers to hanging feeders and coop accessories, everything you need to maintain a healthy, happy flock — all in one place.
   Updated: 2026-11-04T17:13:53Z
   Total Products: 70
 - [Freeze Dried Dog Treats](https://walnutcreeksupply.com/collections/freeze-dried-dog-treats): One ingredient. Zero compromises. Our freeze dried dog treats collection is the purest form of reward you can give your dog — real meat, organs, and...
-  Updated: 2026-11-12T19:54:48Z
+  Updated: 2026-11-18T17:36:28Z
   Total Products: 66
 - [Homestead Supplies](https://walnutcreeksupply.com/collections/homestead-supplies): Shop self-sufficient homestead supplies including poultry feeders, waterers, live birds, and coop accessories. Everything your backyard flock needs.
-  Updated: 2026-11-11T16:48:38Z
-  Total Products: 320
+  Updated: 2026-11-16T20:12:46Z
+  Total Products: 322
 - [Organic Dog Supplements](https://walnutcreeksupply.com/collections/organic-dog-supplements): Shop organic dog supplements — natural joint, skin, digestive and immune support. Clean-label, additive-free formulas from a family-owned shop.
-  Updated: 2026-11-13T00:04:18Z
-  Total Products: 1272
+  Updated: 2026-11-19T22:56:33Z
+  Total Products: 1278
 - [Freeze Dried Cat Food](https://walnutcreeksupply.com/collections/freeze-dried-cat-food): Shop freeze dried cat food made from single-ingredient, additive-free raw protein. High-protein, taurine-rich nutrition for obligate carnivores.
-  Updated: 2026-11-12T21:50:04Z
-  Total Products: 277
+  Updated: 2026-11-19T19:15:32Z
+  Total Products: 280
 - [Survival Gear Kits](https://walnutcreeksupply.com/collections/survival-gear-kits)
-  Updated: 2026-11-12T18:48:38Z
-  Total Products: 106
+  Updated: 2026-11-19T21:04:14Z
+  Total Products: 125
 - [Backyard Chicken Supplies](https://walnutcreeksupply.com/collections/backyard-chicken-supplies): Shop backyard chicken supplies — layer feed, grit, coop bedding, feeders and waterers. Everything a thriving home flock needs for fresh eggs daily.
-  Updated: 2026-10-12T04:08:03Z
-  Total Products: 6
+  Updated: 2026-11-19T22:14:31Z
+  Total Products: 82
 - [Quail Supplies](https://walnutcreeksupply.com/collections/quail-supplies): Quail are one of the most productive, space-efficient livestock animals a homesteader can keep. We carry the feed, waterers, housing accessories, and health supplements that coturnix and bobwhite quail operations need — from starter crumbles for hatchlings through high-protein layer feed for peak egg production. Everything hand-selected for the quality a family homestead demands.
-  Updated: 2026-11-11T16:49:20Z
-  Total Products: 31
+  Updated: 2026-11-16T16:07:46Z
+  Total Products: 33
 - [Duck Supplies](https://walnutcreeksupply.com/collections/duck-supplies): Shop duck supplies for backyard flocks — feed, waterers and care essentials. Curated picks from a family-owned Lancaster County shop.
   Updated: 2026-10-12T13:24:37Z
   Total Products: 5
 - [Goat Feed & Livestock](https://walnutcreeksupply.com/collections/goat-feed): Shop natural goat feed, loose minerals and browse supplements for dairy and meat goats. Clean-label livestock nutrition shipped across the USA.
-  Updated: 2026-11-11T07:32:45Z
+  Updated: 2026-11-17T20:47:08Z
   Total Products: 67
 - [Horse Hay & Forage](https://walnutcreeksupply.com/collections/horse-hay-and-forage): Forage is the foundation of equine nutrition — and the quality of what your horses eat every day matters more than any supplement or grain addition. We...
   Updated: 2026-10-08T21:22:20Z
   Total Products: 0
 - [Heirloom Seeds](https://walnutcreeksupply.com/collections/heirloom-seeds): Shop heirloom seeds — open-pollinated, non-GMO vegetable, herb and flower varieties you can save and regrow season after season. Grow your own food.
-  Updated: 2026-11-13T00:02:06Z
-  Total Products: 19073
+  Updated: 2026-11-19T18:05:58Z
+  Total Products: 19076
 - [Composting Supplies](https://walnutcreeksupply.com/collections/composting-supplies): Healthy soil starts with organic matter — and composting is the most direct way to build it from what your kitchen and garden already produce. We carry composting bins for every scale, accelerators that speed breakdown, worm castings for finished amendment, and the tools that make the process efficient and odor-free. From countertop bokashi systems to backyard three-bin setups.
   Updated: 2026-11-11T07:32:39Z
   Total Products: 350
@@ -1486,16 +1479,16 @@
   Updated: 2026-11-11T07:32:39Z
   Total Products: 344
 - [Aquarium Plants](https://walnutcreeksupply.com/collections/aquarium-plants): Plants are not decorations — they are a functional part of a healthy aquarium. Live aquarium plants absorb nitrate, produce oxygen, provide natural cover that reduces fish stress, and outcompete algae for the nutrients that would otherwise feed an outbreak. Whether you are building a lush planted tank, adding natural cover to a community setup, or starting a simple low-maintenance aquascape, we carry the species that work in real aquariums — not just in photos.
-  Updated: 2026-11-09T01:58:26Z
-  Total Products: 68
+  Updated: 2026-11-18T23:28:03Z
+  Total Products: 67
 - [Betta Fish Tanks & Supplies](https://walnutcreeksupply.com/collections/betta-fish-tank): Shop betta fish tanks, heaters, filters and starter kits sized right for one betta. Skip the bowl — give him a warm, filtered 5-gallon home.
-  Updated: 2026-11-11T23:35:04Z
-  Total Products: 49
+  Updated: 2026-11-15T17:03:28Z
+  Total Products: 52
 - [Freshwater Aquarium Fish Supplies](https://walnutcreeksupply.com/collections/freshwater-aquarium-fish): Buy live freshwater aquarium fish — tetras, guppies, barbs, plecos and more, shipped with insured live arrival. USA only, family-owned.
-  Updated: 2026-11-12T15:00:25Z
-  Total Products: 398
+  Updated: 2026-11-20T00:01:15Z
+  Total Products: 396
 - [Axolotl Supplies & Care](https://walnutcreeksupply.com/collections/axolotl-supplies): Shop axolotl supplies — cold-water filtration, sand substrate, hides and sinking food. Everything for a healthy 60-68°F axolotl tank.
-  Updated: 2026-11-12T22:37:15Z
+  Updated: 2026-11-15T01:49:43Z
   Total Products: 28
 - [Cichlid Fish Supplies](https://walnutcreeksupply.com/collections/cichlid-fish): Buy live cichlids — African, South American and dwarf species shipped safely to your door. Insured live arrival, USA only. Family-owned.
   Updated: 2026-11-06T21:43:04Z
@@ -1504,50 +1497,50 @@
   Updated: 2026-11-07T06:16:27Z
   Total Products: 28
 - [Aquascape Kits & Hardscape](https://walnutcreeksupply.com/collections/aquascape-kits): Shop aquascape kits — planted tank starter sets, aquascaping tools and tongs. Build a natural, living underwater landscape from scratch.
-  Updated: 2026-11-12T21:32:04Z
+  Updated: 2026-11-14T17:46:34Z
   Total Products: 183
 - [Pond Fish & Koi Supplies](https://walnutcreeksupply.com/collections/pond-fish-koi): A well-managed koi pond or backyard water garden is one of the most rewarding outdoor projects a family can undertake — and one of the most easily undermined by inadequate filtration or water management. We carry koi and pond fish food, pond filtration equipment, beneficial bacteria, water treatments, and health care essentials selected for ponds of all sizes, from small garden features to serious koi collections.
-  Updated: 2026-11-11T21:19:53Z
+  Updated: 2026-11-17T13:43:14Z
   Total Products: 109
 - [Nano Aquarium Supplies](https://walnutcreeksupply.com/collections/nano-aquarium): Shop nano aquariums — small desktop tanks and starter kits for shrimp, bettas and planted setups. Big impact from a small footprint.
   Updated: 2026-10-30T00:09:12Z
   Total Products: 2
 - [Aquarium Filters & Filtration](https://walnutcreeksupply.com/collections/aquarium-filters): Filtration is the single most important piece of equipment in any aquarium. A properly sized, reliable filter processes ammonia and nitrite through the nitrogen cycle, keeps water clear and oxygenated, and provides the stable environment fish and invertebrates need to thrive. We carry hang-on-back filters, canister filters, sponge filters, and the filter media that goes inside them — selected for reliability, capacity, and the specific demands of freshwater, planted, and reef systems.
-  Updated: 2026-11-12T19:21:07Z
+  Updated: 2026-11-19T22:55:32Z
   Total Products: 152
 - [Aquarium Lighting](https://walnutcreeksupply.com/collections/aquarium-lighting): Shop aquarium lighting — LED fixtures for planted, freshwater and reef tanks. The right spectrum for healthy plants and vivid fish colour.
-  Updated: 2026-11-12T04:17:57Z
+  Updated: 2026-11-18T21:27:48Z
   Total Products: 88
 - [Aquarium Substrate](https://walnutcreeksupply.com/collections/aquarium-substrate): Shop aquarium substrate — gravel, sand and nutrient-rich planted tank soil. Build a healthy base for live plants, shrimp and bottom-dwellers.
-  Updated: 2026-11-10T19:11:04Z
+  Updated: 2026-11-17T15:29:51Z
   Total Products: 41
 - [Lancaster County Goods](https://walnutcreeksupply.com/collections/lancaster-county-goods)
-  Updated: 2026-11-10T23:52:14Z
+  Updated: 2026-11-18T17:43:39Z
   Total Products: 188
 - [Halloween for pets 10% off!](https://walnutcreeksupply.com/collections/halloween-for-pets): Everything you need to celebrate the spookiest season with your pets. From festive costumes and Halloween-themed toys to seasonal treats and holiday décor, our All Halloween Goods collection brings the fun of the season to every pet in the house. Whether you're dressing up your dog, entertaining your cat, or decking out your small animal's habitat, find it all here — curated for pet owners who love to celebrate in style.
-  Updated: 2026-11-12T16:21:17Z
-  Total Products: 256
+  Updated: 2026-11-20T00:03:00Z
+  Total Products: 249
 - [Halloween Pet Costumes](https://walnutcreeksupply.com/collections/halloween-pet-costumes): Trick or treat? How about TREAT! 🎃 Shop our spook-tacular Halloween costume collection for dogs, cats, rabbits, guinea pigs, hamsters, and more. Deals so good, it's spooky — plus enjoy automatic 10% off at checkout for all pet parents!
-  Updated: 2026-11-12T06:09:50Z
+  Updated: 2026-11-18T13:23:28Z
   Total Products: 179
 - [Mobility & Joint Support Supplements](https://walnutcreeksupply.com/collections/mobility-joint-support): Natural joint & mobility supplements for dogs, cats, horses & more. Shop glucosamine, chondroitin & hip support — Walnut Creek Supply.
-  Updated: 2026-11-12T19:32:27Z
+  Updated: 2026-11-19T03:56:18Z
   Total Products: 324
 - [Digestive Health & Probiotic Supplements](https://walnutcreeksupply.com/collections/digestive-health-supplements): Natural probiotics, digestive enzymes & gut health supplements for dogs, cats & all pets. Organic-first formulas at Walnut Creek Supply.
-  Updated: 2026-11-13T00:04:09Z
-  Total Products: 390
+  Updated: 2026-11-19T18:01:03Z
+  Total Products: 396
 - [Skin & Coat Health Supplements](https://walnutcreeksupply.com/collections/skin-coat-supplements): Omega-3 fish oils, biotin & skin health supplements for dogs, cats & horses. Natural coat support at Walnut Creek Supply.
-  Updated: 2026-11-12T23:22:00Z
-  Total Products: 434
+  Updated: 2026-11-19T04:19:29Z
+  Total Products: 435
 - [Calming & Stress Relief Supplements](https://walnutcreeksupply.com/collections/calming-stress-relief): Natural calming chews, anxiety supplements & stress relief for dogs, cats & all pets. L-theanine & chamomile formulas at Walnut Creek Supply.
-  Updated: 2026-11-13T00:04:10Z
-  Total Products: 387
+  Updated: 2026-11-17T18:59:02Z
+  Total Products: 389
 - [Immune Support & Wellness Supplements](https://walnutcreeksupply.com/collections/immune-support-supplements): Natural immune boosters, antioxidants & multivitamins for dogs, cats & all pets. Organic wellness supplements at Walnut Creek Supply.
-  Updated: 2026-11-13T00:04:13Z
-  Total Products: 754
+  Updated: 2026-11-20T00:21:28Z
+  Total Products: 755
 - [Senior Pet Support & Care](https://walnutcreeksupply.com/collections/senior-pet-support): Supplements & care products for aging dogs, cats, horses & small animals. Cognitive, joint & digestive support at Walnut Creek Supply.
-  Updated: 2026-11-12T17:36:08Z
-  Total Products: 666
+  Updated: 2026-11-20T01:05:57Z
+  Total Products: 667
 - [Hen Houses, Coops & Poultry Housing](https://walnutcreeksupply.com/collections/hen-houses-coops-poultry-housing): Whether you keep a backyard flock of egg-laying hens, a quail colony, a few friendly ducks, or a mixed homestead bird yard — your feathered family...
   Updated: 2026-11-08T08:50:55Z
   Total Products: 73
@@ -1555,76 +1548,76 @@
   Updated: 2026-10-08T21:21:01Z
   Total Products: 0
 - [Reptiles & Amphibians](https://walnutcreeksupply.com/collections/reptiles-amphibians-1): Welcome to We Love Herps – Your Habitat Hub for Reptiles & Amphibians! From slithery snakes to curious geckos, majestic turtles to vibrant frogs…even...
-  Updated: 2026-11-12T19:21:18Z
-  Total Products: 756
+  Updated: 2026-11-20T00:01:40Z
+  Total Products: 736
 - [Birds](https://walnutcreeksupply.com/collections/birds): Welcome to We Love Birds – Your Feathered Friends’ Favorite Spot! From cheerful parakeets to majestic macaws, charming finches to talkative...
-  Updated: 2026-11-12T19:21:10Z
-  Total Products: 256
+  Updated: 2026-11-19T19:25:05Z
+  Total Products: 262
 - [Dog Beds](https://walnutcreeksupply.com/collections/dog-beds-1): The most cozy Dog has the sweetest bed!, everything from basic pads to luxurious sofas access enhancements, we are happy to help you chose the right...
-  Updated: 2026-11-12T16:20:36Z
-  Total Products: 397
+  Updated: 2026-11-19T20:11:08Z
+  Total Products: 395
 - [Cat food](https://walnutcreeksupply.com/collections/cat-food-1): Delicious and Wholesome Cat food, and Delectible Treats made with Real ingredients you can see! Immunity, Joint, and fur coat support suppliments,...
-  Updated: 2026-11-12T23:45:31Z
-  Total Products: 514
+  Updated: 2026-11-19T23:24:43Z
+  Total Products: 512
 - [Dog Food](https://walnutcreeksupply.com/collections/dog-food-1): Delicious and Wholesome Dog food, Delectible Treats, and Natural Organic Feeds and Treats made with Real ingredients you can see! Immunity, Joint, and...
-  Updated: 2026-11-13T00:04:47Z
-  Total Products: 2715
+  Updated: 2026-11-20T00:53:51Z
+  Total Products: 2616
 - [Reptile and Amphibian Enclosures](https://walnutcreeksupply.com/collections/reptile-and-amphibian-enclosures): 🦎 Welcome to the Wild Side: Reptile & Amphibian Habitats and Accessories 🌿 Whether you're housing a curious crested gecko, a chill bearded dragon, or a...
-  Updated: 2026-11-08T02:18:23Z
-  Total Products: 78
+  Updated: 2026-11-13T16:29:11Z
+  Total Products: 79
 - [Bird Cages, Enclosures & Accessories](https://walnutcreeksupply.com/collections/bird-cages-enclosures-accessories-1): Give your birds a world that feels natural, safe, and endlessly interesting. Our Bird Accessories – Chews & Perches collection is hand-selected to...
-  Updated: 2026-10-30T00:09:25Z
+  Updated: 2026-11-13T17:00:52Z
   Total Products: 38
 - [Reptile & Amphibian Food](https://walnutcreeksupply.com/collections/reptile-amphibian-food): Reptile & Amphibian Nutrition Collection Our curated range of reptile and amphibian food products is designed to meet the unique dietary needs of your...
-  Updated: 2026-11-12T00:19:24Z
+  Updated: 2026-11-17T14:33:14Z
   Total Products: 298
 - [Bird Food, Bird Treats, Bird Suppliments](https://walnutcreeksupply.com/collections/bird-food-bird-treats-bird-suppliments-1): All the seed and feed your beloved bird could need! We've covered the basics but what were most proud of is some of the exceptional products made with...
-  Updated: 2026-10-30T00:09:13Z
+  Updated: 2026-11-18T19:29:46Z
   Total Products: 29
 - [Dog Toys](https://walnutcreeksupply.com/collections/dog-toys-1): All the toys and chews your Best Friend Craves, keep them interested for ours with responsibly sourced toys that change through use! Check out our all...
-  Updated: 2026-11-12T04:55:19Z
-  Total Products: 1536
+  Updated: 2026-11-19T23:15:59Z
+  Total Products: 1534
 - [Critter Toys and Accessories](https://walnutcreeksupply.com/collections/critter-toys-and-accessories-1): All the wheels tubes, string things watering bottles and nipples, Hammocks, Balls, Ballpits, Fun Zones, and of course....Maze building supplies, and...
-  Updated: 2026-11-12T23:01:50Z
-  Total Products: 364
+  Updated: 2026-11-18T10:24:17Z
+  Total Products: 369
 - [Dog Harness, Collar & Tag](https://walnutcreeksupply.com/collections/dog-harness-collar-tag-1): Wether for identification, or going on walks together, collars, leashes & tags are an important part of owning a Dog! we have many different kinds,...
-  Updated: 2026-11-11T11:02:08Z
-  Total Products: 653
+  Updated: 2026-11-16T19:40:42Z
+  Total Products: 649
 - [Cat Collar, Leash, Harness](https://walnutcreeksupply.com/collections/cat-collar-leash-harness-1): All the necessities to Collar your cat! petite sizes, big sizes, pretty colors, crazy colors, and more i think theres even a Camo Cat Collar in our...
-  Updated: 2026-11-11T02:37:22Z
-  Total Products: 395
+  Updated: 2026-11-16T19:40:42Z
+  Total Products: 393
 - [Aquarium Filters, Pumps & Media](https://walnutcreeksupply.com/collections/aquarium-filters-pumps-media-1): Keep Your Aquarium Crystal Clear & Thriving Discover our premium selection of aquarium filters, pumps, and media —engineered to create a clean,...
-  Updated: 2026-11-12T19:20:31Z
+  Updated: 2026-11-19T22:54:49Z
   Total Products: 192
 - [Aquarium Decorations and Accessories](https://walnutcreeksupply.com/collections/aquarium-decorations-and-accessories-1): Transform Your Tank into an Underwater Masterpiece Bring your aquarium to life with our curated collection of decorations and accessories —designed to...
-  Updated: 2026-11-11T05:25:13Z
-  Total Products: 113
+  Updated: 2026-11-20T00:01:53Z
+  Total Products: 109
 - [Aquarium Chems, Conditioners, Cultures](https://walnutcreeksupply.com/collections/aquarium-chems-conditioners-cultures): Water chemistry is the invisible foundation of every healthy aquarium. Dechlorinators that neutralize tap water, bottled beneficial bacteria that seed...
-  Updated: 2026-11-06T13:48:32Z
+  Updated: 2026-11-15T00:01:33Z
   Total Products: 136
 - [Dog Clothing & Costumes!](https://walnutcreeksupply.com/collections/dog-clothing-costumes-1): Dog Hoodies and parkas, cute vests too, and we have Cat suits too! Bowties, Scruffs & Bandanas Galore! we even have these cute neck ties you have to...
-  Updated: 2026-11-11T15:22:01Z
-  Total Products: 667
+  Updated: 2026-11-19T21:12:34Z
+  Total Products: 666
 - [Cat Clothing & Costumes](https://walnutcreeksupply.com/collections/cat-clothing-costumes-1): Dress to Impress – Pet Fashion That’s Pawsitively Perfect Welcome to the ultimate destination for dog hoodies , cat suits , and everything in between!...
-  Updated: 2026-11-07T23:12:07Z
+  Updated: 2026-11-19T21:12:34Z
   Total Products: 252
 - [Critter Enclosures](https://walnutcreeksupply.com/collections/critter-enclosures-1): All the supplies you need to fit out the ultimate pad for your little buddy! wether your goals are to get teh basics, or setup a playground with mazes...
   Updated: 2026-10-08T21:21:19Z
   Total Products: 0
 - [Food for Aquatics](https://walnutcreeksupply.com/collections/food-for-aquatics-1): Nourishment for Every Fin & Shell – Premium Aquatic Nutrition Give your fish and aquatic pets the diet they deserve with our high-quality fish food and...
-  Updated: 2026-11-12T19:21:15Z
-  Total Products: 118
+  Updated: 2026-11-19T17:07:18Z
+  Total Products: 122
 - [Cat Suppliments](https://walnutcreeksupply.com/collections/cat-suppliments): Delicious and Wholesome Cat suppliments, and Delectible Treats made with Real ingredients you can see! Immunity, Joint, and fur coat support...
   Updated: 2026-10-08T21:20:58Z
   Total Products: 0
 - [Reptile and Amphibian Terrarium Supplies & Accessories](https://walnutcreeksupply.com/collections/reptile-and-amphibian-terrarium-supplies-accessories): 🦎 Welcome to the Wild Side: Reptile & Amphibian Habitats and Accessories 🌿 Whether you're housing a curious crested gecko, a chill bearded dragon, or a...
-  Updated: 2026-11-12T19:20:25Z
-  Total Products: 181
+  Updated: 2026-11-19T21:02:27Z
+  Total Products: 182
 - [Healthy & Paleo Pet!](https://walnutcreeksupply.com/collections/healthy-paleo-pet-1): Pet Health the Natural Way – Wholesome Nutrition for Happy Pets Give your beloved pets the real — healthy, natural, and wholesome nutrition they...
   Updated: 2026-11-10T22:07:18Z
   Total Products: 5
 - [Live Fish & More](https://walnutcreeksupply.com/collections/live-fish-more-1): Welcome to Walnut Creek Pets – Your Trusted Source for Live Freshwater & Saltwater Fish! Dive into a thriving world of aquatic life with our carefully...
-  Updated: 2026-11-10T15:26:43Z
+  Updated: 2026-11-19T14:44:39Z
   Total Products: 304
 - [Bird Accessories – Chews & Perches](https://walnutcreeksupply.com/collections/bird-accessories-chews-perches-1): Give your birds a world that feels natural, safe, and endlessly interesting. Our Bird Accessories – Chews & Perches collection is hand-selected to...
   Updated: 2026-10-08T21:20:39Z
@@ -1636,11 +1629,11 @@
   Updated: 2026-10-08T21:21:39Z
   Total Products: 0
 - [Pet Snails](https://walnutcreeksupply.com/collections/pet-snails): all the supplies for everyones favorite starter pet, the Garden Snail! The pet born of mindfulness and patience! They are slow and harmless, require...
-  Updated: 2026-11-08T17:57:41Z
-  Total Products: 23
+  Updated: 2026-11-19T21:53:50Z
+  Total Products: 141
 - [Wild Birds! - Large Flocks Too!](https://walnutcreeksupply.com/collections/wild-birds-large-flocks-too): Wild Birds are a critical part of our ecosystem! Providing homes, nesting material, feeders, baths and more keeps your property beautiful and reduces...
-  Updated: 2026-11-12T19:20:29Z
-  Total Products: 939
+  Updated: 2026-11-19T19:24:38Z
+  Total Products: 940
 - [Trail Treats: Clean Fuel, No Junk](https://walnutcreeksupply.com/collections/trail-treats-clean-fuel-no-junk-1): Fuel your dog's next adventure with our curated selection of high-protein, single-ingredient treats. No fillers, no synthetic additives—just pure energy for the trail.
   Updated: 2026-11-12T16:00:31Z
   Total Products: 13
@@ -1648,29 +1641,29 @@
   Updated: 2026-11-04T21:08:40Z
   Total Products: 132
 - [Greenhouses, Aviaries, Conservatories,](https://walnutcreeksupply.com/collections/greenhouses-aviaries-conservatories): Season extension changes what's possible in your garden. A greenhouse, cold frame, or high tunnel can push your first and last harvest dates by weeks —...
-  Updated: 2026-11-09T09:53:29Z
+  Updated: 2026-11-17T09:49:51Z
   Total Products: 67
 - [Pet Supplies](https://walnutcreeksupply.com/collections/pet-supplies-1): Shop Pet Supplies at Walnut Creek Supply — family-owned pet and homestead supplies. Organic, natural, curated products. Free shipping on orders over $49.
-  Updated: 2026-11-13T00:56:07Z
-  Total Products: 22099
+  Updated: 2026-11-20T00:53:52Z
+  Total Products: 22006
 - [All Horse](https://walnutcreeksupply.com/collections/all-horse-1): Everything your horse needs — from daily nutrition to seasonal health care — hand-selected by our family against the same standard we apply to every...
-  Updated: 2026-11-10T06:09:07Z
+  Updated: 2026-11-14T02:52:43Z
   Total Products: 178
 - [All Fish](https://walnutcreeksupply.com/collections/all-fish-1): From freshwater favorites to saltwater showstoppers, our aquatic collection has everything you need to build and maintain a thriving tank. Shop premium...
-  Updated: 2026-11-13T00:04:18Z
-  Total Products: 1789
+  Updated: 2026-11-20T00:01:15Z
+  Total Products: 1790
 - [Tack and Riding Gear](https://walnutcreeksupply.com/collections/tack-and-riding-gear): Equestrian essentials, feed, grroming, treatments and supplements, and exceptional tack thats hand crafted by generational craftsman in Lancaster...
   Updated: 2026-11-11T22:45:54Z
   Total Products: 170
 - [All Small Animal](https://walnutcreeksupply.com/collections/all-small-animal-1): Shop All Small Animal at Walnut Creek Supply — family-owned pet and homestead supplies. Organic, natural, curated products. Free shipping on orders...
-  Updated: 2026-11-12T19:20:29Z
+  Updated: 2026-11-20T00:01:10Z
   Total Products: 1989
 - [Poultry Birds](https://walnutcreeksupply.com/collections/poultry-birds-1): Carefully Selected Live Hatching Eggs — Shipped with Care Bring new life to your flock with our premium hatching eggs, sourced from healthy,...
   Updated: 2026-10-08T21:22:44Z
   Total Products: 0
 - [Poultry Bird Feeders Waterers and other supplies](https://walnutcreeksupply.com/collections/poultry-bird-feeders-waterers-and-other-supplies-1): Keep your flock fed, watered, and thriving. Explore our curated selection of poultry feeders, waterers, and essential supplies designed for chickens,...
-  Updated: 2026-11-13T00:13:58Z
-  Total Products: 1038
+  Updated: 2026-11-19T22:14:31Z
+  Total Products: 1037
 - [Homestead Supplies](https://walnutcreeksupply.com/collections/homestead-supplies-1): Everything You Need to Run a Self-Sufficient Homestead Whether you're raising backyard chickens, tending a flock of ducks, or building out a full-scale...
   Updated: 2026-11-11T08:01:45Z
   Total Products: 228
@@ -1678,8 +1671,8 @@
   Updated: 2026-10-08T21:22:31Z
   Total Products: 0
 - [Freeze Dried Cat Food](https://walnutcreeksupply.com/collections/freeze-dried-cat-food-1): Shop Freeze Dried Cat Food at Walnut Creek Supply — family-owned pet and homestead supplies. Organic, natural, curated products. Free shipping on...
-  Updated: 2026-11-11T18:29:27Z
-  Total Products: 17
+  Updated: 2026-11-14T21:30:02Z
+  Total Products: 16
 - [Survival Gear Kits](https://walnutcreeksupply.com/collections/survival-gear-kits-1): Shop Survival Gear Kits at Walnut Creek Supply — family-owned pet and homestead supplies. Organic, natural, curated products. Free shipping on orders...
   Updated: 2026-10-08T21:23:01Z
   Total Products: 0
@@ -1729,8 +1722,8 @@
   Updated: 2026-10-08T21:20:11Z
   Total Products: 0
 - [Aquascape Kits & Hardscape](https://walnutcreeksupply.com/collections/aquascape-kits-hardscape): Aquascaping is the art of designing a living, planted aquarium with the same intention you would bring to landscaping a garden. The right combination...
-  Updated: 2026-11-12T23:43:00Z
-  Total Products: 1829
+  Updated: 2026-11-20T00:01:15Z
+  Total Products: 1826
 - [Nano Aquarium Supplies](https://walnutcreeksupply.com/collections/nano-aquarium-supplies): Nano aquariums — tanks under 10 gallons — are challenging in ways that beginners often underestimate: smaller water volume means parameters fluctuate...
   Updated: 2026-10-30T00:09:29Z
   Total Products: 0
@@ -1741,11 +1734,11 @@
   Updated: 2026-10-08T21:22:07Z
   Total Products: 0
 - [Lancaster County Goods](https://walnutcreeksupply.com/collections/lancaster-county-goods-1): Shop Lancaster County Goods at Walnut Creek Supply — family-owned pet and homestead supplies. Organic, natural, curated products. Free shipping on...
-  Updated: 2026-11-10T16:14:34Z
+  Updated: 2026-11-17T18:55:09Z
   Total Products: 61
 - [Aquarium Substrate](https://walnutcreeksupply.com/collections/aquarium-substrate-1): Substrate is more than the bottom of your tank — it is the foundation of your filtration, the home for your plant roots, and the living environment for...
-  Updated: 2026-11-13T00:02:04Z
-  Total Products: 1091
+  Updated: 2026-11-20T00:01:15Z
+  Total Products: 1089
 - [Halloween Pet Costumes](https://walnutcreeksupply.com/collections/halloween-pet-costumes-1): Trick or treat? How about TREAT! 🎃 Shop our spook-tacular Halloween costume collection for dogs, cats, rabbits, guinea pigs, hamsters, and more. Deals...
   Updated: 2026-10-08T21:22:09Z
   Total Products: 0
@@ -2748,6 +2741,8 @@
   Updated: 2026-09-23T06:50:42Z
 - [Species Specific Care Guides](https://walnutcreeksupply.com/pages/species-specific-care-guides)
   Updated: 2026-09-26T23:44:57Z
+- [Our Team](https://walnutcreeksupply.com/pages/our-team): Walnut Creek Supply is a family-owned business in Lancaster County, Pennsylvania. Meet the people behind the shop and our design and consulting work.
+  Updated: 2026-11-17T21:18:21Z
 
 ## Policies
 
