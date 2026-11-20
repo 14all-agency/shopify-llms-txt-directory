@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-17T05:39:00Z
 - Contact Email: bonillacross00@gmail.com
-- Updated At: 2026-11-12T01:13:38.814Z
+- Updated At: 2026-11-20T01:02:16.175Z
 
 ## Products
 
@@ -3398,7 +3398,7 @@
   Updated: 2026-11-04T17:17:43Z
   Total Products: 14
 - [Cadet Caps](https://www.unihats.com/collections/cadet-caps)
-  Updated: 2026-11-04T17:17:43Z
+  Updated: 2026-11-12T12:19:48Z
   Total Products: 18
 
 ## Blogs
@@ -3424,6 +3424,15 @@
     Author: Uhatsco
   - [Exploring Essential Roadtrip Style Accessories with Uhatsco Solid Color Dad Hat and the Appeal of Vintage Trucker Hats Retro Baseball Caps and Distressed Caps](https://www.unihats.com/blogs/news/exploring-essential-roadtrip-style-accessories-with-uhatsco-solid-color-dad-hat-and-the-appeal-of-vintage-trucker-hats-retro-baseball-caps-and-distressed-caps): Exploring Essential Roadtrip Style Accessories with Uhatsco Solid Color Dad Hat and the Appeal of Vintage Trucker Hats Retro Baseball Caps and Distressed Caps
     Updated: 2026-11-11T11:05:28Z
+    Author: Uhatsco
+  - [Mastering Retro Baseball Cap Styles: Elevate Your Look with Uhatsco's Cotton Newsboy Cap for Casual Outdoor Vibes and Beyond](https://www.unihats.com/blogs/news/mastering-retro-baseball-cap-styles-elevate-your-look-with-uhatscos-cotton-newsboy-cap-for-casual-outdoor-vibes-and-beyond): Mastering Retro Baseball Cap Styles: Elevate Your Look with Uhatsco's Cotton Newsboy Cap for Casual Outdoor Vibes and Beyond
+    Updated: 2026-11-16T11:04:32Z
+    Author: Uhatsco
+  - [Discover the Charm of Vintage Trucker Hats: Elevate Your Style with Uhatsco's Flat Bill Snapback Six Panel](https://www.unihats.com/blogs/news/discover-the-charm-of-vintage-trucker-hats-elevate-your-style-with-uhatscos-flat-bill-snapback-six-panel): Discover the Charm of Vintage Trucker Hats: Elevate Your Style with Uhatsco's Flat Bill Snapback Six Panel
+    Updated: 2026-11-17T11:03:39Z
+    Author: Uhatsco
+  - [Effortlessly Rock Casual Outdoor Hats: Uhatsco Mesh Cadet Cap Versus Vintage Trucker Hats and Retro Baseball Caps](https://www.unihats.com/blogs/news/effortlessly-rock-casual-outdoor-hats-uhatsco-mesh-cadet-cap-versus-vintage-trucker-hats-and-retro-baseball-caps): Effortlessly Rock Casual Outdoor Hats: Uhatsco Mesh Cadet Cap Versus Vintage Trucker Hats and Retro Baseball Caps
+    Updated: 2026-11-18T11:05:11Z
     Author: Uhatsco
 
 ## Store Pages
