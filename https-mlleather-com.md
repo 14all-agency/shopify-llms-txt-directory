@@ -6,7 +6,17 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-10-07T08:08:26Z
 - Contact Email: wych200@outlook.com
-- Updated At: 2026-11-13T00:54:07.968Z
+- Updated At: 2026-11-20T01:01:42.373Z
+
+## Products
+
+- [Custom Leather Flower Bag Charms | OEM & Private Label](https://mlleather.com/products/custom-leather-flower-bag-charms-oem): Explore four floral leather bag charm directions. Discuss OEM leather options, colors, sizing, branding and packaging for your accessory collection.
+  Updated: 2026-11-19T15:02:46Z
+  Vendor: Minglun
+  Product Type: Leather Bag Charms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0791/2780/6143/files/minglun-floral-leather-charm-01.png?v=1794901637
+  Price: $0.00 USD
 
 ## Collections
 
