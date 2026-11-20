@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-09-08T08:53:04Z
 - Contact Email: charline@makeyourown.fr
-- Updated At: 2026-11-12T00:34:45.209Z
+- Updated At: 2026-11-20T00:27:37.872Z
 
 ## Products
 
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/bouillotte_cherry_01.jpg?v=1771419062
   Price: 40,00 € EUR
 - [Couture libre adultes](https://laboutique.makeyourown.fr/products/couture-libre-carte-dheures): Que vous souhaitiez avancer sur un projet existant, expérimenter de nouvelles techniques ou simplement prendre un moment pour vous, la Couture Libre vous offre toute la liberté pour organiser vos séances comme il vous convient. Vous pouvez venir coudre à votre rythme au Café Couture à et réaliser vos projets personnels dans un espace convivial et équipé. Les tarifs sont dégressifs en fonction du nombre d’heures choisies : • Intéressé•e : 3h / 42€• Enthousiatse : 6h / 78€• Adepte : 12h / 144€ • Passionné•e : 21h / 230€• Addict : 30h / 315€ Chaque carte est valable un an En journée du mardi au vendredi et le samedi sur demande MYO Café Couture à Neuville-sur-Saône Merci de me contacter après votre réservation pour fixer la date de votre première séance Découvrez le Café Couture
-  Updated: 2026-08-29T05:49:43Z
+  Updated: 2026-11-18T12:59:29Z
   Vendor: MYO COUTURE | La boutique
   Product Type: Service
   Availability: Available
@@ -172,7 +172,7 @@
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/bouillotte-cherry-01_6b5810f1-0c79-4dd2-b2fb-e0c13878369a.jpg?v=1771424291
   Price: 3,90 € EUR
 - [Offrir un moment couture](https://laboutique.makeyourown.fr/products/bon-cadeau): À l'occasion d'un anniversaire, d'une future naissance, de Noël, ou juste pour faire plaisir, un moment couture c'est plus qu'une activité créative. C'est une expérience sur mesure qui montre une attention particulière aux intérêts et au bien-être du destinataire. C’est un cadeau qui a un impact personnel profond, qui va au-delà de l’instant. La couture offre une parenthèse hors du tumulte quotidien. Offrir un moment de couture, c’est offrir un moment pour souffler, se recentrer, et retrouver un calme intérieur. Chaque geste, chaque choix de tissu ou de couleur devient un miroir de sa personnalité.Offrir cette expérience, c’est inviter à un moment de création qui révèle une part de soi. C'est un cadeau qui ne prend pas la poussière sur une étagère : il reste gravé dans la mémoire. Chaque point cousu devient un souvenir, chaque création une fierté.Un moment qui marque, qui touche, et qui s’emporte avec soi. Offrir une carte, un cours ou un atelier, c’est bien plus qu’un simple geste. C’est semer une graine de confiance, de créativité et de plaisir durable. C’est permettre à quelqu’un de s’accorder un moment à soi, d’apprendre à son rythme, et de repartir avec quelque chose qu’il a fait de ses mains. Certains ateliers sont fournitures incluses et d'autres sans les fournitures, merci de vérifier sur la fiche correspondante En journée du mardi au vendredi et le samedi sur demande MYO Café Couture à Neuville-sur-Saône Valable 1 an Aucun produit physique ne sera envoyé. Je vous enverrai sous trois jours par e-mail le bon cadeau sous format PDF à imprimer. Il comportera le nom et le prénom de la personne ainsi que votre message personnalisé. Découvrez le Café Couture
-  Updated: 2026-10-18T19:46:25Z
+  Updated: 2026-11-12T21:58:55Z
   Vendor: MYO COUTURE | La boutique
   Product Type: bon cadeau
   Availability: Available
@@ -324,7 +324,7 @@
   Updated: 2026-04-20T16:30:33Z
   Total Products: 0
 - [coudre au Café Couture](https://laboutique.makeyourown.fr/collections/coudre-au-cafe-couture): Le Café Couture à Neuville-sur-Saône est un lieu convivial où la couture devient un moment de partage et de créativité. Vous y trouverez des cours de couture et ateliers de couture adaptés à tous les niveaux, ainsi que des sessions de couture libre pour travailler à votre rythme avec les machines et outils mis à disposition. C'est un atelier qui s’adresse à toutes celles et ceux qui souhaitent prendre un moment pour eux, expérimenter, apprendre et créer dans un espace chaleureux.Vous souhaitez offrir un moment de couture pour un anniversaire, une naissance ou Noël ? Découvrez nos cartes cadeau !
-  Updated: 2026-10-19T11:39:51Z
+  Updated: 2026-11-13T12:39:53Z
   Total Products: 1
 - [patrons de couture](https://laboutique.makeyourown.fr/collections/patrons-de-couture): Découvrez des patrons de couture conçus pour vous accompagner dans toutes vos créations textiles. Ils sont disponibles en téléchargement PDF, prêts à utiliser à la maison ou à l’atelier. Ces patrons vous offrent la liberté de créer des projets uniques, adaptés à votre style et à vos envies. Que vous soyez passionné·e de DIY ou simplement curieux·se de découvrir le monde de la couture, pas besoin d’être expert·e pour vous lancer : chaque patron est pensé pour être clair, détaillé et progressif, avec toutes les instructions nécessaires pour réussir vos projets du début à la fin. Il s'agit de fichiers numériques. Aucun produit physique ne vous sera envoyé. La boutique en ligne a ouvert ses portes au printemps 2026. Des patrons de couture seront ajoutés régulièrement. MYO COUTURE, c’est aussi une chaîne YouTube @MYOCOUTURE, où vous retrouverez des explications vidéo pour chaque patron. Les tutoriels vidéo seront ajoutés progressivement.
   Updated: 2026-08-29T08:42:05Z
@@ -342,7 +342,7 @@
   Updated: 2026-11-08T12:37:39Z
   Total Products: 8
 - [couture libre](https://laboutique.makeyourown.fr/collections/carte-en-acces-libre): La Couture Libre vous permet de venir coudre à votre rythme au Café Couture à et de travailler sur vos projets personnels dans un espace convivial et équipé. Choisissez une carte d’heures : les tarifs sont dégressifs en fonction du nombre d’heures choisies.Réservez un créneau du mardi au vendredi, le matin (9h‑12h) ou l’après-midi (14h‑17h), et le samedi sur demande.Chaque carte est valable un an. Que vous souhaitiez avancer sur un projet existant, expérimenter de nouvelles techniques ou simplement prendre un moment pour vous, la Couture Libre vous offre toute la liberté pour organiser vos séances comme il vous convient.
-  Updated: 2026-08-25T13:02:14Z
+  Updated: 2026-11-19T12:42:24Z
   Total Products: 1
 - [ateliers de couture enfants](https://laboutique.makeyourown.fr/collections/ateliers-de-couture-enfants): Les ateliers enfants du Café Couture sont pensés pour éveiller la créativité de votre enfant tout en lui faisant découvrir les bases de la couture. Chaque session est centrée sur un projet amusant et concret, que votre enfant pourra terminer et emporter. Adaptés aux différents âges et niveaux, ces ateliers permettent à votre enfant de progresser à son rythme, avec un accompagnement bienveillant et ludique. Des ateliers spéciaux sont proposés selon les saisons et les fêtes pour varier les projets et surprendre votre enfant. Découvrez le Café Couture
   Updated: 2026-10-27T12:04:01Z
@@ -354,7 +354,7 @@
   Updated: 2026-10-12T11:50:40Z
   Total Products: 7
 - [Sélection du moment](https://laboutique.makeyourown.fr/collections/selection-du-moment)
-  Updated: 2026-11-08T12:37:39Z
+  Updated: 2026-11-19T12:42:24Z
   Total Products: 8
 
 ## Blogs
