@@ -6,7 +6,7 @@
 - Timezone: Africa/Douala
 - Created At: 2026-10-30T11:21:51Z
 - Contact Email: ulysseskincare@gmail.com
-- Updated At: 2026-11-12T05:01:44.794Z
+- Updated At: 2026-11-20T01:30:35.629Z
 
 ## Products
 
@@ -186,7 +186,7 @@
   Image: https://cdn.shopify.com/s/files/1/0731/4450/0309/files/medicube-zero-pore-peptide-moisturizing-cream-60ml-3441159.jpg?v=1793690288
   Price: €39.90 EUR
 - [MUMUKI Honey Banana BDRN MINI Kit - Compact Fun](https://ulyssee.store/products/mumuki-honey-banana-bdrn-mini-kit): Travel-friendly 4-piece skincare mini kit with honey and banana extracts for moisture and soothing care. Shop MUMUKI at Ulysse.
-  Updated: 2026-11-11T04:32:19Z
+  Updated: 2026-11-19T09:12:06Z
   Vendor: MUMUKI
   Product Type: Skin Care Set
   Availability: Available
@@ -354,7 +354,7 @@
   Image: https://cdn.shopify.com/s/files/1/0731/4450/0309/files/dalba-white-truffle-first-spray-serum-pro-2x-peptide-120ml-4207989.jpg?v=1793640670
   Price: €42.00 EUR
 - [HATHERINE PDRN Micro Eye Lifting Deep Patch - 2 Patches](https://ulyssee.store/products/hatherine-pdrn-micro-eye-lifting-deep-patch-69-x-37mm-2-patches): Revitalize your eyes with HATHERINE PDRN Micro Eye Lifting Deep Patch. Perfect for reducing puffiness and dark circles. Experience rejuvenation!
-  Updated: 2026-11-11T04:32:24Z
+  Updated: 2026-11-17T19:50:42Z
   Vendor: HATHERINE
   Product Type: Eye Patch
   Availability: Available
@@ -392,31 +392,31 @@
 ## Collections
 
 - [Welcome to Your New Home!](https://ulyssee.store/collections/frontpage)
-  Updated: 2026-11-11T04:32:27Z
+  Updated: 2026-11-12T05:28:02Z
   Total Products: 48
 - [Essential Serums & Revitalizing Essences](https://ulyssee.store/collections/serums-essences): Shop Korean serums and essences for hydration, glow and a refined routine. Discover curated skincare favorites at Ulysse.
-  Updated: 2026-11-11T13:01:11Z
+  Updated: 2026-11-12T14:05:08Z
   Total Products: 7
 - [Hydration Heroes: Moisturizers & Toners](https://ulyssee.store/collections/moisturizers-toners): Comforting moisturizers and essence toners with ceramides and peptides to complete your daily skincare ritual at Ulysse.
-  Updated: 2026-11-11T13:01:13Z
+  Updated: 2026-11-12T14:05:10Z
   Total Products: 4
 - [Sun Care Essentials: Protect Your Skin Outdoors](https://ulyssee.store/collections/sun-care): Shop easy-to-reapply SPF50+ PA++++ sun sticks and daily sun care from Korean beauty brands at Ulysse.
-  Updated: 2026-11-11T13:01:14Z
+  Updated: 2026-11-12T14:05:12Z
   Total Products: 3
 - [Essential Cleansers & Exfoliators for Glowing Skin](https://ulyssee.store/collections/cleansers-exfoliants): Cleansing balms, soothing pads and gentle exfoliating masks to start your routine with a fresh, clean canvas. Shop Ulysse.
-  Updated: 2026-11-11T13:01:15Z
+  Updated: 2026-11-12T14:05:13Z
   Total Products: 3
 - [Essentials: Masks, Patches & Lip Care Collection](https://ulyssee.store/collections/masks-patches-lip-care): Hydrating sheet masks, spot and eye patches, nose packs and lip essence. Shop Korean skincare treatments at Ulysse.
-  Updated: 2026-11-11T13:01:16Z
+  Updated: 2026-11-12T14:05:16Z
   Total Products: 5
 - [Essential Sets & Kits for Every Need](https://ulyssee.store/collections/sets-kits): Travel-friendly skincare sets and mini kits to try a full routine. Shop curated Korean beauty kits at Ulysse.
-  Updated: 2026-11-11T13:01:17Z
+  Updated: 2026-11-12T14:05:17Z
   Total Products: 1
 - [Scalp & Hair Care Essentials](https://ulyssee.store/collections/hair-scalp-care): Shop Korean shampoos, scalp treatments and hair care essentials for a fresh, full-looking finish at Ulysse.
-  Updated: 2026-11-11T13:01:19Z
+  Updated: 2026-11-12T14:05:19Z
   Total Products: 7
 - [Essentials for Flawless Makeup Looks](https://ulyssee.store/collections/makeup): Shop Korean foundation and eyeshadow palettes with a skin-caring finish at Ulysse.
-  Updated: 2026-11-11T13:01:20Z
+  Updated: 2026-11-12T14:05:21Z
   Total Products: 2
 - [Essential Oral Care Essentials for a Bright Smile](https://ulyssee.store/collections/oral-care): Toothpaste tablets, mouthwash and sensitive toothpaste from Korean oral care brands. Shop at Ulysse.
   Updated: 2026-11-11T04:32:16Z
@@ -424,8 +424,8 @@
 - [Essential Baby Care Essentials for New Parents](https://ulyssee.store/collections/baby-care): Mild baby lotion and top-to-toe wash from Korean baby care brand nutseline. Shop at Ulysse.
   Updated: 2026-11-11T04:32:17Z
   Total Products: 2
-- [Discover Our Premium Tea Collection Today!](https://ulyssee.store/collections/teas): Discover OSULLOC Korean teas, from green tea to tangerine blends and gift collections. Shop at Ulysse.
-  Updated: 2026-11-11T04:32:13Z
+- [Explore Our Premium Tea Collection Now!](https://ulyssee.store/collections/teas): Discover OSULLOC Korean teas, from green tea to tangerine blends and gift collections. Shop at Ulysse.
+  Updated: 2026-11-12T05:27:02Z
   Total Products: 4
 - [Wellness Sticks: Elevate Your Health in Every Bite](https://ulyssee.store/collections/wellness-sticks): Convenient single-serve organic lemon juice and olive oil sticks for daily wellness routines. Shop at Ulysse.
   Updated: 2026-11-11T04:32:14Z
