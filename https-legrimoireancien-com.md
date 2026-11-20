@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-11-30T11:10:10Z
 - Contact Email: contact@legrimoireancien.com
-- Updated At: 2026-11-12T01:11:53.465Z
+- Updated At: 2026-11-20T00:52:21.273Z
 
 ## Products
 
@@ -430,13 +430,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-bible-perdue-des-remedes-du-medecin-oublie-le-guide-ultime-des-plantes-medicinales-french-edition-8839718.webp?v=1793544906
   Price: 55,05 € EUR
-- [Le Livre ancien des Plantes médicinales : 900+ remèdes naturels pour se soigner sans médicaments, soulager les maux du quotidien et prévenir les maladies. Avec 100+ recettes bien-être. - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-livre-ancien-des-plantes-medicinales-900-remedes-naturels-pour-se-soigner-sans-medicaments-soulager-les-maux-du-quotidien-et-prevenir-les-maladies-avec-100-recettes-bien-etre): Buy Le Livre ancien des Plantes médicinales : 900+ remèdes naturels pour se soigner sans médicaments, soulager les maux du quotidien et prévenir les maladies. Avec 100+ recettes bien-être. for only €29.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-11-01T15:00:06Z
+- [Le Livre ancien des plantes médicinales – Herboristerie](https://legrimoireancien.com/products/le-livre-ancien-des-plantes-medicinales-900-remedes-naturels-pour-se-soigner-sans-medicaments-soulager-les-maux-du-quotidien-et-prevenir-les-maladies-avec-100-recettes-bien-etre): Explorez les traditions herboristes : plus de 900 remèdes et 100 recettes annoncés, des fiches de plantes et un glossaire. Broché, 124 pages.
+  Updated: 2026-11-18T23:06:18Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-livre-ancien-des-plantes-medicinales-900-remedes-naturels-pour-se-soigner-sans-medicaments-soulager-les-maux-du-quotidien-et-prevenir-les-maladies-avec-100-r-3233570.webp?v=1793544909
-  Price: 29,95 € EUR
+  Price: 33,39 € EUR
 - [Rendez-vous - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/appointment): Buy Rendez-vous for only €50.00 at © 2026 Le Grimoire Ancien!
   Updated: 2026-11-01T14:55:16Z
   Vendor: Le Grimoire Ancien
@@ -1780,23 +1780,23 @@
 ## Collections
 
 - [Romans mystiques : explorez des récits captivants et envoûtants](https://legrimoireancien.com/collections/romans): Bienvenue dans notre collection exclusive de romans mystiques, où chaque livre est une invitation à l'explorateur des mondes fascinants, peuplés de secrets et de mystères. Que vous soyez un passionné(e) de fantastique ou que vous cherchiez simplement un moyen d'échapper au quotidien, nos romans vous transporteront dans des univers ensorcelants qui éveilleront votre imagination. Nos romans mystiques se distinguent par des récits déroutants et captivants, explorant la magie, le surnaturel et l'inexplicable. Plongez dans chaque page et laissez-vous envoûter par les personnages intrigants et les intrigues palpitantes qui s'y cachent. - © 2026 Le Grimoire Ancien
-  Updated: 2026-11-02T14:07:16Z
-  Total Products: 296
+  Updated: 2026-11-18T17:49:42Z
+  Total Products: 301
 - [Lectures inspirantes pour Soi](https://legrimoireancien.com/collections/murmure-de-lectures-pour-soi): Comment nos Lectures inspirantes peuvent changer votre vie Chaque livre de cette collection est une porte ouverte vers un nouveau monde de possibilités. L'impact de la lecture sur votre bien-être et votre état d'esprit est immense. Que vous souhaitiez surmonter des obstacles, renforcer votre confiance en vous, ou simplement explorer de nouvelles philosophies, nos conférences inspirantes offrent des récits puissants et des enseignements suscitant la réflexion. Les histoires de succès, les conseils pratiques et les réflexions profondes vous aideront à bâtir la vie que vous méritez. En lisant régulièrement, vous cultivez une mentalité positive, ce qui est essentiel dans un monde en constante évolution. - © 2026 Le Grimoire Ancien
-  Updated: 2026-11-02T14:07:16Z
+  Updated: 2026-11-19T12:32:20Z
   Total Products: 241
 - [BD - Dessins & Art : découvrez l'univers créatif](https://legrimoireancien.com/collections/bandes-dessinees): Bienvenue dans notre collection Art - BD - Dessins, où la créativité rencontre l'imagination au service d'œuvres vibrantes et inspirantes. Chaque pièce de cette collection est le fruit d'un travail méticuleux, conçu pour capturer l'essence de l'art du dessin animé et de la bande dessinée. Que vous soyez un amateur ou un collectionneur, notre sélection saura éveiller votre passion pour l'art BD et transformer votre en une véritable galerie d'art. - © 2026 Le Grimoire Ancien
   Updated: 2026-11-02T14:07:16Z
   Total Products: 120
 - [Savoirs anciens : découvrez la richesse des connaissances oubliées](https://legrimoireancien.com/collections/savoirs-anciens): Découvrez l'univers fascinant des savoirs anciens , où se rencontrent les traditions millénaires et la sagesse des ancêtres. Nos produits mettent en lumière la richesse de ces connaissances oubliées, redonnant vie à des pratiques et philosophies qui ont façonné nos civilisations. Chaque article de cette collection est soigneusement sélectionné pour sa valeur culturelle et historique, offrant à la fois un esthétisme unique et une pertinence dans notre monde moderne. Une immersion dans l'histoire Les savoirs anciens ne se limitent pas à des objets : ils racontent des histoires. Chaque pièce de notre collection est une porte d'entrée vers le passé. En adoptant ces produits, vous ne faites pas seulement un achat ; vous devenez le gardien d'un héritage riche qui mérite d'être célébré et partagé. - © 2026 Le Grimoire Ancien
-  Updated: 2026-11-10T12:31:57Z
+  Updated: 2026-11-19T12:32:20Z
   Total Products: 205
 - [Tarots et Oracles : éveillez votre intuition avec des outils de divination uniques](https://legrimoireancien.com/collections/oracles): Bienvenue dans notre collection exclusive de Tarots et oracles , une sélection soigneusement choisie pour éveiller votre intuition. Que vous soyez novice ou expert en divination, ces outils uniques vous accompagneront dans votre cheminement spirituel, enrichissant votre compréhension de vous-même et de l'univers qui vous entoure. Ne manquez pas l'occasion d'éveiller votre intuition et de transformer votre vie avec nos Tarots et oracles . Explorez notre collection dès maintenant et trouvez le jeu qui résonne en vous. Chaque jeu est une porte ouverte à un monde de possibilités et de compréhension. Alors n'attendez plus, faites le premier pas sur le chemin de la découverte personnelle ! - © 2026 Le Grimoire Ancien
-  Updated: 2026-11-05T12:43:06Z
-  Total Products: 119
+  Updated: 2026-11-18T17:34:37Z
+  Total Products: 122
 - [La Sélection de Myriam : must-haves à découvrir pour la rentrée !](https://legrimoireancien.com/collections/coups-de-coeur): Bienvenue dans La Sélection de Myriam ! Lectures d'été ... Découvrez mes coups de cœur personnels : une collection exclusive de tarots, oracles, grimoires et livres ésotériques soigneusement choisis pour leur qualité exceptionnelle et leur pouvoir transformateur. ✨ Une sélection experte et passionnée  Chaque pièce de cette collection a été choisie avec soin pour vous offrir : Une invitation à la découverte, à l'inspiration et à l'excellence spirituelle. - © 2026 Le Grimoire Ancien
-  Updated: 2026-11-05T12:43:06Z
-  Total Products: 238
+  Updated: 2026-11-18T12:29:56Z
+  Total Products: 239
 - [Mythes et Légendes - UFO : explorez l'inconnu et l'étrange](https://legrimoireancien.com/collections/legendes): Bienvenue dans notre collection captivante de mythes et légendes OVNI , où le mystère rencontre la curiosité. Nous explorons ici le monde fascinant des phénomènes non expliqués, des histoires mystérieuses et des rencontres étranges. Que vous soyez un passionné d'ufologie ou simplement intrigué par l'inconnu, vous trouverez ici des récits et des produits qui éveilleront votre imagination. Ne restez pas dans l'ombre de l'incertitude. Plongez-vous dans notre collection de mythes et légendes OVNI dès aujourd'hui et découvrez des produits qui inspirent, intriguent et enchantent. Explorez maintenant et laissez-vous emporter par l'inconnu ! - © 2026 Le Grimoire Ancien
   Updated: 2026-11-02T14:07:16Z
   Total Products: 45
@@ -1804,26 +1804,26 @@
   Updated: 2026-09-27T08:55:33Z
   Total Products: 3
 - [Remèdes naturels faits maison pour une vie saine](https://legrimoireancien.com/collections/remedes-naturels): Les remèdes naturels faits maison sont une excellente manière d'améliorer votre bien-être au quotidien.  Les erreurs à éviter avec les remèdes naturels Bien qu'ils soient généralement sûrs, il existe quelques erreurs courantes à éviter :  Ne pas se renseigner suffisamment sur les ingrédients utilisés. Trouver un équilibre, car même les remèdes naturels peuvent avoir des effets secondaires s'ils sont mal utilisés. Ignorer les symptômes et prolonger une situation sans consulter un professionnel si nécessaire.  Adopter les  remèdes naturels faits maison dans votre quotidien peut transformer votre façon de prendre soin de vous. Avec des ingrédients simples, vous pouvez améliorer votre santé de manière naturelle et efficace. N'attendez plus pour faire ce changement vers un mode de vie plus sain ! Explorez notre collection dès aujourd'hui et découvrez comment nos remèdes naturels peuvent vous accompagner vers une vie plus saine et épanouissante. - © 2026 Le Grimoire Ancien
-  Updated: 2026-11-02T14:07:16Z
-  Total Products: 54
+  Updated: 2026-11-18T12:54:01Z
+  Total Products: 67
 - [Livres pour enfants et adolescents : aventures captivantes et apprentissages enrichissants](https://legrimoireancien.com/collections/livres-pour-enfants): Découvrez notre sélection enchantée de livres pour enfants, soigneusement choisie pour éveiller l'imagination et nourrir la curiosité des jeunes lecteurs. Des histoires captivantes pour tous les âges, de 3 à 12 ans et au-delà. - © 2026 Le Grimoire Ancien
   Updated: 2026-11-02T14:07:16Z
   Total Products: 99
 - [Livres en Saga](https://legrimoireancien.com/collections/livres-en-saga): Découvrez toutes nos sagas littéraires et plongez dans des univers captivants à travers plusieurs tomes. De la fantasy épique aux aventures jeunesse, en passant par les romans contemporains et les bandes dessinées cultes, retrouvez ici l'intégralité de nos collections en plusieurs volumes. Sagas disponibles : n'hésitez pas à vous abonner !  La Saga du Dagda de Fabien Olicard (3 tomes) Le Café du temps (5 tomes) Destination Jurassique (3 tomes) La Quête de l'oiseau du temps (4 tomes) Harry Potter - Éditions illustrées MinaLima La Rivière à l'envers (2 tomes) La Bible - L'Ancien Testament et bien d'autres ...  Suivez vos héros préférés d'un tome à l'autre et vivez des aventures inoubliables ! - © 2026 Le Grimoire Ancien
-  Updated: 2026-11-02T14:07:16Z
-  Total Products: 267
+  Updated: 2026-11-18T12:54:01Z
+  Total Products: 280
 - [Livres d'Amour et Romance](https://legrimoireancien.com/collections/saint-valentin-livres-amour): Célébrez l'amour avec notre sélection spéciale !  Découvrez notre collection exclusive de livres romantiques, parfaite pour célébrer la Saint-Valentin. Que vous cherchiez une histoire d'amour touchante, un oracle pour comprendre vos relations, ou un roman de bien-être réconfortant, vous trouverez le cadeau parfait pour vous ou votre âme sœur. - Oracles des relations amoureuses - Pour approfondir votre compréhension de l'amour - Romans d'amour captivants - Des histoires qui réchauffent le cœur - Feel-good réconfortants - Pour les amoureux des livres et des belles histoires Offrez un livre qui parle au cœur et créez des moments magiques. - © 2026 Le Grimoire Ancien
   Updated: 2026-11-02T14:07:16Z
   Total Products: 96
 - [APPPlaza - Best Sellers](https://legrimoireancien.com/collections/appplaza-best-sellers): - © 2026 Le Grimoire Ancien
-  Updated: 2026-11-10T12:31:57Z
-  Total Products: 1379
+  Updated: 2026-11-19T12:32:20Z
+  Total Products: 1404
 - [AVADA - Best Sellers](https://legrimoireancien.com/collections/avada-best-sellers): - © 2026 Le Grimoire Ancien
-  Updated: 2026-11-10T12:31:57Z
-  Total Products: 1379
+  Updated: 2026-11-19T12:32:20Z
+  Total Products: 1404
 - [Tous les livres de la Boutique](https://legrimoireancien.com/collections/all): Tout notre catalogue : grimoires anciens, tarots, oracles, philosophie orientale et développement personnel. Des livres choisis avec soin pour chaque chemin.
-  Updated: 2026-11-10T12:31:57Z
-  Total Products: 1084
+  Updated: 2026-11-19T16:42:45Z
+  Total Products: 1404
 - [Accessoires de la Librairie](https://legrimoireancien.com/collections/accessoires-esoteriques): Chaque rituel mérite ses instruments. Découvrez notre sélection d'accessoires  soigneusement choisis pour accompagner votre pratique divinatoire et spirituelle &amp; autres. Bougies rituelles, supports de tirage, pochettes de protection, cristaux et objets symboliques — chaque pièce est sélectionnée pour sa qualité, son authenticité et sa résonance énergétique. Des outils pensés pour sublimer vos séances de cartomancie, de méditation ou de travail intérieur. Le Grimoire Ancien vous invite à composer votre espace sacré avec intention. - © 2026 Le Grimoire Ancien
   Updated: 2026-11-02T14:07:17Z
   Total Products: 58
@@ -1831,16 +1831,16 @@
   Updated: 2026-11-02T14:07:17Z
   Total Products: 71
 - [Séries et sagas en abonnement](https://legrimoireancien.com/collections/series-et-sagas-en-abonnement): Découvrez les séries et sagas du Grimoire Ancien, avec des livres à suivre tome après tome et des offres d’abonnement selon les collections.
-  Updated: 2026-11-02T14:07:17Z
-  Total Products: 61
+  Updated: 2026-11-12T17:21:29Z
+  Total Products: 66
 - [Collection de Noël](https://legrimoireancien.com/collections/collection-de-noel): Sous le givre et la lueur des chandelles, Le Grimoire Ancien vous invite à un Noël enchanté : grimoires, tarots et oracles choisis pour éveiller la magie des longues nuits d'hiver.Des idées de cadeaux ⚜️ pour les âmes curieuses, les liseuses de signes et celles qui croient encore aux légendes.
-  Updated: 2026-11-02T14:07:17Z
+  Updated: 2026-11-18T11:28:39Z
   Total Products: 58
 - [Nos éditions Le Grimoire Ancien](https://legrimoireancien.com/collections/nos-editions-le-grimoire-ancien): Découvrez les livres écrits par Myriam aux Éditions Le Grimoire Ancien : récits, chroniques, série L’église de Ploumberg et intégrales.
-  Updated: 2026-11-02T14:07:17Z
+  Updated: 2026-11-18T11:28:29Z
   Total Products: 5
 - [Noël au coin des livres – Cadeaux pour lecteurs](https://legrimoireancien.com/collections/cadeaux-noel-lecteurs): Offrez un moment à soi pour les fêtes de fin d’année. Du petit marque-page au coffret lecture, découvrez nos idées cadeaux pour celles et ceux qui aiment les livres, les ambiances cosy et les touches de magie.Accessoires de lecture, carnets et coffrets : de jolies attentions à glisser sous le sapin, à choisir selon les envies et le budget de vos proches.
-  Updated: 2026-11-02T14:07:17Z
+  Updated: 2026-11-18T11:28:48Z
   Total Products: 17
 
 ## Blogs
@@ -2032,19 +2032,25 @@
     Author: Myriam Chamand - Le Grimoire Ancien
     Tags: Astrologie, Divination, Ésotérisme, Introspection, Signes du zodiaque, Tarot, Thème astral, Tirage de tarot
   - [Les plantes magiques essentielles et leurs usages](https://legrimoireancien.com/blogs/infos/les-plantes-magiques-essentielles-et-leurs-usages): Les plantes magiques essentielles et leurs usages
-    Updated: 2026-10-28T00:09:20Z
+    Updated: 2026-11-13T13:34:46Z
     Author: Myriam Chamand - Le Grimoire Ancien
   - [Les figures emblématiques de la magie à travers les âges](https://legrimoireancien.com/blogs/infos/les-figures-emblematiques-de-la-magie-a-travers-les-ages): Les figures emblématiques de la magie à travers les âges
     Updated: 2026-11-02T00:08:36Z
     Author: Myriam Chamand - Le Grimoire Ancien
   - [Les 10 meilleures œuvres magiques de la littérature ancienne](https://legrimoireancien.com/blogs/infos/les-10-meilleures-oeuvres-magiques-de-la-litterature-ancienne): Les 10 meilleures œuvres magiques de la littérature ancienne
-    Updated: 2026-11-04T00:09:24Z
+    Updated: 2026-11-13T13:38:03Z
     Author: Myriam Chamand - Le Grimoire Ancien
   - [Introduction pratique aux rituels d'invocation](https://legrimoireancien.com/blogs/infos/introduction-pratique-aux-rituels-dinvocation): Introduction pratique aux rituels d'invocation
-    Updated: 2026-11-09T00:09:07Z
+    Updated: 2026-11-13T13:36:47Z
     Author: Myriam Chamand - Le Grimoire Ancien
   - [Les méthodes éprouvées pour renforcer votre protection spirituelle](https://legrimoireancien.com/blogs/infos/les-methodes-eprouvees-pour-renforcer-votre-protection-spirituelle): Les méthodes éprouvées pour renforcer votre protection spirituelle
-    Updated: 2026-11-11T00:10:52Z
+    Updated: 2026-11-13T13:35:59Z
+    Author: Myriam Chamand - Le Grimoire Ancien
+  - [Mystiques d'autrefois découvrez leurs enseignements modernes](https://legrimoireancien.com/blogs/infos/mystiques-dautrefois-decouvrez-leurs-enseignements-modernes): Mystiques d'autrefois découvrez leurs enseignements modernes
+    Updated: 2026-11-16T00:07:19Z
+    Author: Myriam Chamand - Le Grimoire Ancien
+  - [Répondre aux questions fréquentes sur la symbologie runique](https://legrimoireancien.com/blogs/infos/repondre-aux-questions-frequentes-sur-la-symbologie-runique): Répondre aux questions fréquentes sur la symbologie runique
+    Updated: 2026-11-18T00:09:33Z
     Author: Myriam Chamand - Le Grimoire Ancien
 
 ## Store Pages
@@ -2095,7 +2101,7 @@
 - [Privacy Policy](https://legrimoireancien.com/policies/privacy-policy)
   Updated: 2026-10-15T17:41:31Z
 - [Shipping Policy](https://legrimoireancien.com/policies/shipping-policy)
-  Updated: 2026-10-15T17:40:18Z
+  Updated: 2026-11-17T16:54:37Z
 - [Refund Policy](https://legrimoireancien.com/policies/refund-policy)
   Updated: 2026-10-15T17:41:05Z
 - [Terms of Service](https://legrimoireancien.com/policies/terms-of-service)
