@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-12-09T21:12:30Z
 - Contact Email: contact@vr7fragrance.in
-- Updated At: 2026-11-12T00:44:37.036Z
+- Updated At: 2026-11-20T00:43:46.344Z
 
 ## Products
 
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_sweet_desire_20_ml_new_b.jpg?v=1791969533
     Price: ₹349.00 INR
 - [Midnight Smoke – Smoky Leather Tobacco Oud | VR7](https://vr7fragrance.in/products/midnight-smoke-extrait-de-parfum-vr7-fragrance): Smoky leather, tobacco, rose & oud extrait de parfum for men. 33% oil, 8–12h lasting. Winter-ready scent by VR7 Fragrance. Ships in India.
-  Updated: 2026-10-24T06:09:33Z
+  Updated: 2026-11-15T11:20:46Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
@@ -130,7 +130,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_fragrance_club-x_20_ml_bottle.jpg?v=1792604170
     Price: ₹349.00 INR
 - [Royale Oud Amber Perfume for Men | Long-Lasting Extrait | VR7 Fragrance](https://vr7fragrance.in/products/royale-extrait-de-parfum-vr7-fragrance): Royale by VR7 Fragrance: 33% oil extrait de parfum for men with lasting oud, spicy, and amber notes. Ideal for formal occasions and winter wear.
-  Updated: 2026-10-21T18:18:07Z
+  Updated: 2026-11-17T06:03:35Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
@@ -392,22 +392,22 @@
   Updated: 2026-11-06T16:58:28Z
   Total Products: 4
 - [Intense collection by VR7 Fragrance](https://vr7fragrance.in/collections/intense-collection-by-vr7fragrance): Discover VR7’s Intense Collection—luxury extrait de parfum with 33% oil for bold, lasting scent. Ideal for sophisticated evening wear and unforgettable impressions.
-  Updated: 2026-11-06T17:13:19Z
+  Updated: 2026-11-17T12:18:32Z
   Total Products: 5
 - [Spicy collection by VR7 Fragrance](https://vr7fragrance.in/collections/spicy-collection-by-vr7fragrance): Explore VR7's spicy collection—luxury extrait de parfum with 33% oil, featuring cardamom, amber, and saffron. Bold, long-lasting scents for special occasions.
-  Updated: 2026-11-06T17:13:19Z
+  Updated: 2026-11-17T12:18:32Z
   Total Products: 6
 - [Gourmand collection by VR7 Fragrance](https://vr7fragrance.in/collections/gourmand-collection-vr7fragrance): Explore VR7 Gourmand Collection—luxury extrait de parfum with vanilla, caramel, and spice notes. Long-lasting, unisex, artisan-crafted fragrances.
   Updated: 2026-11-06T18:43:46Z
   Total Products: 4
 - [Latest arrivals by VR7 Fragrance](https://vr7fragrance.in/collections/latest-arrivals-by-vr7fragrance): Explore the new extrait de parfum arrivals by VR7 Fragrance—luxury scents with 33% oil concentration for lasting, sophisticated impressions. Find your signature today.
-  Updated: 2026-11-10T10:47:32Z
+  Updated: 2026-11-17T12:18:32Z
   Total Products: 22
 - [Men's collection by VR7 Fragrance](https://vr7fragrance.in/collections/mens-collection-by-vr7fragrance): Explore men’s extrait de parfum by VR7 Fragrance—luxury scents with 33% oil for lasting impression. Shop top-rated, signature perfumes online.
-  Updated: 2026-11-06T18:43:46Z
+  Updated: 2026-11-17T12:18:32Z
   Total Products: 13
 - [Unisex collection by VR7 Fragrance](https://vr7fragrance.in/collections/unisex-collection-by-vr7fragrance): Explore VR7's Unisex Collection: extrait de parfum with 33% oil concentration, crafted for lasting, gender-inclusive fragrance impressions. Shop unique scents.
-  Updated: 2026-11-06T18:43:46Z
+  Updated: 2026-11-17T12:18:32Z
   Total Products: 12
 - [Discovery sets by VR7 Fragrance](https://vr7fragrance.in/collections/discovery-sets-by-vr7-fragrance): Explore 7 luxury extrait de parfum sprays by VR7 in one premium gift set for men and women. Long-lasting, unisex, travel-ready, just ₹499.
   Updated: 2026-11-10T06:42:28Z
@@ -422,16 +422,16 @@
   Updated: 2026-11-06T18:43:46Z
   Total Products: 7
 - [Party Perfumes](https://vr7fragrance.in/collections/party-perfumes): Shop bold VR7 Extrait de Parfum for parties and nights out—powerful, long-lasting statement fragrances made to stand out.
-  Updated: 2026-11-06T18:43:46Z
+  Updated: 2026-11-15T12:20:15Z
   Total Products: 6
 - [Wedding & Festive Perfumes](https://vr7fragrance.in/collections/wedding-festive-perfumes): Shop rich and luxurious VR7 Extrait de Parfum for weddings, festivals and celebrations—statement fragrances for memorable occasions.
-  Updated: 2026-11-06T18:43:46Z
+  Updated: 2026-11-17T12:18:32Z
   Total Products: 6
 - [Perfume Gifts](https://vr7fragrance.in/collections/perfume-gifts): Shop VR7 perfume gifts, Discovery Sets and luxury Extrait de Parfum gift sets for birthdays, celebrations and special occasions.
   Updated: 2026-11-10T10:35:01Z
   Total Products: 9
 - [All Perfumes](https://vr7fragrance.in/collections/all-perfumes): Explore VR7 Fragrance perfumes and fragrance gift collections. Sample-size 3 ml products and digital education products are shown separately.
-  Updated: 2026-11-10T10:41:29Z
+  Updated: 2026-11-17T12:18:32Z
   Total Products: 28
 
 ## Blogs
