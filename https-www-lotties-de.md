@@ -1,6 +1,6 @@
 # Lotties Naturtextilien (https://www.lotties.de)
 
-> Regionaler ökologischer Hersteller von nachhaltiger Baby- und Kinderkleidung aus zertifizierten Naturmaterialien wie Bio-Baumwolle
+> Hersteller von naturbelassener Bio-Babykleidung und Naturtextilien seit 1989 aus Bayern. Von der Erstausstattung für Babys über mitwachsende Schlafsäcke bis hin zu spezieller Silberfadenkleidung bei Neurodermitis, bietet Lotties Naturtextilien alles von der Geburt bis hin ins Erwachsenenalter immer nach dem Grundsatz aus Liebe zu Mensch und Natur.
 
 - Domain: https://www.lotties.de
 - Locale: de
@@ -10,7 +10,7 @@
 - Contact Email: info@lotties.de
 - Contact Phone: +49 9444 97800
 - Address: Gewerbestraße 12, 93354 Siegenburg, Deutschland
-- Updated At: 2026-11-14T00:42:14.101Z
+- Updated At: 2026-11-21T00:47:49.823Z
 
 ## Products
 
