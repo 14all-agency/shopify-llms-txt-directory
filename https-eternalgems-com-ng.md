@@ -6,7 +6,7 @@
 - Timezone: Africa/Algiers
 - Created At: 2018-10-08T16:46:06Z
 - Contact Email: Helpdesk.eternalgems@gmail.com
-- Updated At: 2026-11-13T17:44:16.266Z
+- Updated At: 2026-11-21T01:12:58.416Z
 
 ## Products
 
@@ -578,7 +578,7 @@
     Availability: Available
     Price: ₦195,000.00 NGN
 - [The Naomi Halo Sterling Silver Moissanite Bridal Ring Set](https://eternalgems.com.ng/products/new): Designed to celebrate life's most meaningful moments, The Naomu Sterling Silver Moissanite Bridal Ring Set combines timeless elegance, exceptional craftsmanship, and brilliant sparkle, making it the perfect symbol of your forever love.
-  Updated: 2026-08-28T18:04:56Z
+  Updated: 2026-11-20T08:13:51Z
   Vendor: Eternal Gems
   Product Type: 
   Availability: Available
@@ -1644,31 +1644,7 @@
   - [12](https://eternalgems.com.ng/products/the-obsidian-crest-titanium-wedding-band?variant=43685157273689)
     Availability: Available
     Price: ₦50,000.00 NGN
-- [Eclipse Edge Titanium Wedding Band | Black & Brushed Silver Men's Ring | 8mm](https://eternalgems.com.ng/products/new-26): Shop the Eclipse Edge Titanium Wedding Band featuring polished black edges, a brushed silver centre, and a comfort-fit interior. Crafted from premium aerospace-grade titanium for exceptional durability, lightweight comfort, and timeless modern style.
-  Updated: 2026-08-28T18:05:13Z
-  Vendor: Eternal Gems
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0059/0505/5833/files/ChatGPTImageJul18_2026_12_17_52PM.png?v=1784373528
-  - [7](https://eternalgems.com.ng/products/new-26?variant=43685177819225)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-  - [8](https://eternalgems.com.ng/products/new-26?variant=43685177851993)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-  - [9](https://eternalgems.com.ng/products/new-26?variant=43685177884761)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-  - [10](https://eternalgems.com.ng/products/new-26?variant=43685177917529)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-  - [11](https://eternalgems.com.ng/products/new-26?variant=43685177950297)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-  - [12](https://eternalgems.com.ng/products/new-26?variant=43685177983065)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-[List Continued](https://eternalgems.com.ng/a/llms-agent/llms.txt?shop=eternalgems.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MjgxOTY3NjU3MDQ5LCJsYXN0X3ZhbHVlIjoiODI4MTk2NzY1NzA0OSJ9)
+[List Continued](https://eternalgems.com.ng/a/llms-agent/llms.txt?shop=eternalgems.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MjgxOTU3Njk1NTc3LCJsYXN0X3ZhbHVlIjoiODI4MTk1NzY5NTU3NyJ9)
 
 ## Collections
 
@@ -1676,7 +1652,7 @@
   Updated: 2026-11-12T19:54:58Z
   Total Products: 173
 - [Men’s Rings](https://eternalgems.com.ng/collections/men-rings): Shop men’s rings in Nigeria. Wedding bands and statement rings crafted in gold, silver and moissanite for modern gentlemen.
-  Updated: 2026-09-30T11:08:14Z
+  Updated: 2026-11-18T12:07:57Z
   Total Products: 110
 - [All Collections](https://eternalgems.com.ng/collections/all-collections): .
   Updated: 2026-07-18T17:12:36Z
@@ -1700,22 +1676,22 @@
   Updated: 2026-07-27T11:10:17Z
   Total Products: 70
 - [Engagement Rings](https://eternalgems.com.ng/collections/engagement-rings): Discover luxury engagement rings in Nigeria. Handcrafted gold and moissanite rings designed to make your proposal unforgettable.
-  Updated: 2026-10-17T11:16:02Z
+  Updated: 2026-11-16T12:09:08Z
   Total Products: 137
 - [Bridal Sets](https://eternalgems.com.ng/collections/bridal-sets): Explore luxury bridal ring sets in Nigeria. Perfectly matched engagement and wedding rings crafted for timeless elegance
   Updated: 2026-11-12T18:51:44Z
   Total Products: 263
 - [Gold Rings](https://eternalgems.com.ng/collections/gold-rings)
-  Updated: 2026-11-12T19:30:38Z
+  Updated: 2026-11-18T12:07:57Z
   Total Products: 198
 - [Moissanite Rings](https://eternalgems.com.ng/collections/moissanite-rings)
   Updated: 2026-07-15T11:31:44Z
   Total Products: 126
 - [Silver Rings](https://eternalgems.com.ng/collections/silver-rings)
-  Updated: 2026-11-12T19:54:58Z
+  Updated: 2026-11-20T12:09:10Z
   Total Products: 589
 - [Gold Titanium Rings](https://eternalgems.com.ng/collections/gold-titanium-rings): Titanium has become one of the most sought-after materials for modern wedding bands because it combines incredible strength with outstanding comfort. It's lightweight, comfortable for all-day wear, highly durable for everyday use, resistant to scratches and corrosion and it's designed to retain its appearance for years to come.
-  Updated: 2026-09-30T11:08:14Z
+  Updated: 2026-11-18T12:07:57Z
   Total Products: 11
 - [Silver Titanium Rings](https://eternalgems.com.ng/collections/silver-titanium-rings): Titanium has become one of the most sought-after materials for modern wedding bands because it combines incredible strength with outstanding comfort. It's lightweight, comfortable for all-day wear, highly durable for everyday use, resistant to scratches and corrosion and it's designed to retain its appearance for years to come.
   Updated: 2026-07-22T21:41:48Z
@@ -1742,7 +1718,7 @@
   Updated: 2026-07-18T15:25:45Z
   Total Products: 5
 - [Sterling Silver & Moissanite Bridal Sets](https://eternalgems.com.ng/collections/sterling-silver-moissanite-bridal-sets): Celebrate your forever with our exquisite collection of Sterling Silver & Moissanite Bridal Sets. Expertly crafted from premium 925 sterling silver and featuring brilliantly cut moissanite gemstones, each matching engagement ring and wedding band set offers exceptional sparkle, timeless elegance, and lasting quality. Designed to symbolize everlasting love, these bridal sets combine luxurious beauty with outstanding value—perfect for proposals, weddings, anniversaries, and every milestone in between.
-  Updated: 2026-08-26T11:10:44Z
+  Updated: 2026-11-20T12:09:10Z
   Total Products: 11
 - [Sterling Silver Wedding Sets](https://eternalgems.com.ng/collections/sterling-silver-wedding-sets)
   Updated: 2026-07-15T11:29:27Z
@@ -1751,19 +1727,19 @@
   Updated: 2026-07-15T11:30:38Z
   Total Products: 0
 - [Sterling Silver Engagement Rings](https://eternalgems.com.ng/collections/sterling-silver-engagement-rings)
-  Updated: 2026-07-25T21:54:53Z
+  Updated: 2026-11-16T12:09:08Z
   Total Products: 12
 - [Sterling Silver & Moissanite Rings](https://eternalgems.com.ng/collections/sterling-silver-moissanite-rings)
   Updated: 2026-07-15T11:34:46Z
   Total Products: 0
 - [Sterling Silver & Moissanite Engagement Rings](https://eternalgems.com.ng/collections/sterling-silver-moissanite-engagement-rings): Celebrate your forever with our exquisite collection of Sterling Silver & Moissanite Engagement Rings. Expertly crafted from premium 925 sterling silver and set with brilliantly cut moissanite stones, each ring offers exceptional fire, timeless elegance, and lasting durability. From classic solitaires to dazzling halo and bridal sets, discover beautifully designed rings that capture the brilliance of love—without compromising on quality or value. Perfect for proposals, anniversaries, and life's most unforgettable moments
-  Updated: 2026-10-17T11:16:02Z
+  Updated: 2026-11-16T12:09:08Z
   Total Products: 20
 - [Best Seller](https://eternalgems.com.ng/collections/best-seller)
-  Updated: 2026-08-26T11:10:44Z
+  Updated: 2026-11-20T12:09:10Z
   Total Products: 24
 - [Wedding Rings](https://eternalgems.com.ng/collections/wedding-rings)
-  Updated: 2026-09-30T11:08:14Z
+  Updated: 2026-11-18T12:07:57Z
   Total Products: 321
 
 ## Blogs
@@ -3762,6 +3738,30 @@ Shop engagement rings, proposal rings, and wedding rings at our stores in Lagos,
     Tags: Care Tips for Wedding Rings, Diamond Rings, Engagement Rings, Gold, how to clean your white gold ring, Male Rings, Ring Size, Silver, Sterling Silver, Tungsten, Wedding, wedding bands, wedding rings, white gold engagement rings in lagos, white gold rings, Women Rings
   - [Discovering Affordable Wedding Rings in Lagos: Why Eternal Gems is the Ultimate Choice](https://eternalgems.com.ng/blogs/know-your-rings/discovering-affordable-wedding-rings-in-lagos-why-eternal-gems-is-the-ultimate-choice): Discovering Affordable Wedding Rings in Lagos: Why Eternal Gems is the Ultimate Choice
     Updated: 2026-11-13T17:42:19Z
+    Author: Eternal Gems
+  - [Top 10 Engagement Ring Trends: From Moissanite to 18k Gold](https://eternalgems.com.ng/blogs/know-your-rings/top-10-engagement-ring-trends-from-moissanite-to-18k-gold): Top 10 Engagement Ring Trends: From Moissanite to 18k Gold
+    Updated: 2026-11-14T01:11:11Z
+    Author: Eternal Gems
+  - [How to Choose the Perfect Diamond Engagement Ring](https://eternalgems.com.ng/blogs/know-your-rings/how-to-choose-the-perfect-diamond-engagement-ring): How to Choose the Perfect Diamond Engagement Ring
+    Updated: 2026-11-15T01:02:02Z
+    Author: Eternal Gems
+  - [Moissanite vs. Diamond Rings: Which is Right for You?](https://eternalgems.com.ng/blogs/know-your-rings/moissanite-vs-diamond-rings-which-is-right-for-you): Moissanite vs. Diamond Rings: Which is Right for You?
+    Updated: 2026-11-16T01:09:02Z
+    Author: Eternal Gems
+  - [Exploring the Beauty of Titanium and Tungsten Wedding Rings](https://eternalgems.com.ng/blogs/know-your-rings/exploring-the-beauty-of-titanium-and-tungsten-wedding-rings): Exploring the Beauty of Titanium and Tungsten Wedding Rings
+    Updated: 2026-11-17T01:06:01Z
+    Author: Eternal Gems
+  - [A Guide to Sterling Silver Proposal and Engagement Rings](https://eternalgems.com.ng/blogs/know-your-rings/a-guide-to-sterling-silver-proposal-and-engagement-rings): A Guide to Sterling Silver Proposal and Engagement Rings
+    Updated: 2026-11-18T01:11:51Z
+    Author: Eternal Gems
+  - [Everything You Need to Know About 18k Gold Wedding Bands](https://eternalgems.com.ng/blogs/know-your-rings/everything-you-need-to-know-about-18k-gold-wedding-bands): Everything You Need to Know About 18k Gold Wedding Bands
+    Updated: 2026-11-19T01:11:52Z
+    Author: Eternal Gems
+  - [Why Moissanite Wedding Rings are the Future of Proposals](https://eternalgems.com.ng/blogs/know-your-rings/why-moissanite-wedding-rings-are-the-future-of-proposals): Why Moissanite Wedding Rings are the Future of Proposals
+    Updated: 2026-11-20T01:08:37Z
+    Author: Eternal Gems
+  - [The Timeless Appeal of Diamond Wedding and Proposal Rings](https://eternalgems.com.ng/blogs/know-your-rings/the-timeless-appeal-of-diamond-wedding-and-proposal-rings): The Timeless Appeal of Diamond Wedding and Proposal Rings
+    Updated: 2026-11-21T01:00:56Z
     Author: Eternal Gems
 - [Care & Tips](https://eternalgems.com.ng/blogs/care-tips): Read about taking care of your rings and how to retain their brilliance always. Find a variety of steps on maintaining sterling silver rings, gold plated rings, diamond rings, gold rings and much more.
 Visit Eternal Gems stores in Lagos, Abuja, Owerri, Ibadan | Nigeria for more info.
