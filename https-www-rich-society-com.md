@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-06-18T01:50:58Z
 - Contact Email: richsoleek@gmail.com
-- Updated At: 2026-11-14T00:56:05.056Z
+- Updated At: 2026-11-21T00:59:47.831Z
 
 ## Products
 
@@ -112,22 +112,22 @@
     Availability: Available
     Price: $80.00 USD
 - [“RICHTOPIA” Thermal](https://www.rich-society.com/products/richtopia-thermal): TRUE TO SIZE DISTRESSED TEE DTG PRINT
-  Updated: 2026-11-09T03:24:15Z
+  Updated: 2026-11-14T13:19:06Z
   Vendor: RICHSO
   Product Type: Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/IMG_3006.jpg?v=1793194700
   - [S](https://www.rich-society.com/products/richtopia-thermal?variant=43904182747197)
-    Availability: Available
+    Availability: Not Available
     Price: $90.00 USD
   - [M](https://www.rich-society.com/products/richtopia-thermal?variant=43904182779965)
     Availability: Available
     Price: $90.00 USD
   - [L](https://www.rich-society.com/products/richtopia-thermal?variant=43904182812733)
-    Availability: Available
+    Availability: Not Available
     Price: $90.00 USD
   - [XL](https://www.rich-society.com/products/richtopia-thermal?variant=43904182845501)
-    Availability: Available
+    Availability: Not Available
     Price: $90.00 USD
 - [“RICHTOPIA” Crewneck](https://www.rich-society.com/products/richtopia-crewneck): TRUE TO SIZE DTG PRINT ONLY 3 MADE
   Updated: 2026-11-13T15:10:37Z
@@ -148,7 +148,7 @@
     Availability: Not Available
     Price: $105.00 USD
 - [Inspired Logo Side Snap Nylon Pant](https://www.rich-society.com/products/inspired-logo-side-snap-nylon-pant)
-  Updated: 2026-11-14T00:00:55Z
+  Updated: 2026-11-16T15:17:02Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
@@ -158,7 +158,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/IMG_6887.jpg?v=1794192761
     Price: $70.00 USD
   - [Green / M](https://www.rich-society.com/products/inspired-logo-side-snap-nylon-pant?variant=44497410490429)
-    Availability: Available
+    Availability: Not Available
     Price: $70.00 USD
   - [Green / L](https://www.rich-society.com/products/inspired-logo-side-snap-nylon-pant?variant=44497410523197)
     Availability: Available
@@ -166,6 +166,42 @@
   - [Green / XL](https://www.rich-society.com/products/inspired-logo-side-snap-nylon-pant?variant=44497410555965)
     Availability: Available
     Price: $70.00 USD
+- [“HOODGEAR” Hoodie 1/1 (navy blue)](https://www.rich-society.com/products/hoodgear-hoodie-1-1)
+  Updated: 2026-11-15T06:02:52Z
+  Vendor: RICHSO
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/IMG_7046.jpg?v=1794679318
+  - [S](https://www.rich-society.com/products/hoodgear-hoodie-1-1?variant=44542951358525)
+    Availability: Available
+    Price: $65.00 USD
+  - [M](https://www.rich-society.com/products/hoodgear-hoodie-1-1?variant=44542951391293)
+    Availability: Not Available
+    Price: $65.00 USD
+  - [L](https://www.rich-society.com/products/hoodgear-hoodie-1-1?variant=44542951424061)
+    Availability: Not Available
+    Price: $65.00 USD
+  - [XL](https://www.rich-society.com/products/hoodgear-hoodie-1-1?variant=44542951456829)
+    Availability: Not Available
+    Price: $65.00 USD
+- [“HOODGEAR” Pants 1/1 (black)](https://www.rich-society.com/products/hoodgear-hoodie-1-1-copy)
+  Updated: 2026-11-15T06:04:21Z
+  Vendor: RICHSO
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/IMG_7055.jpg?v=1794679486
+  - [S](https://www.rich-society.com/products/hoodgear-hoodie-1-1-copy?variant=44542952734781)
+    Availability: Available
+    Price: $65.00 USD
+  - [M](https://www.rich-society.com/products/hoodgear-hoodie-1-1-copy?variant=44542952767549)
+    Availability: Not Available
+    Price: $65.00 USD
+  - [L](https://www.rich-society.com/products/hoodgear-hoodie-1-1-copy?variant=44542952800317)
+    Availability: Not Available
+    Price: $65.00 USD
+  - [XL](https://www.rich-society.com/products/hoodgear-hoodie-1-1-copy?variant=44542952833085)
+    Availability: Not Available
+    Price: $65.00 USD
 
 ## Collections
 
@@ -179,11 +215,11 @@
   Updated: 2026-10-25T23:21:34Z
   Total Products: 7
 - [Tees](https://www.rich-society.com/collections/tees)
-  Updated: 2026-11-14T00:01:41Z
-  Total Products: 8
+  Updated: 2026-11-16T15:16:35Z
+  Total Products: 11
 - [Hoodies](https://www.rich-society.com/collections/hoodies)
-  Updated: 2026-10-28T13:33:38Z
-  Total Products: 2
+  Updated: 2026-11-16T15:16:35Z
+  Total Products: 5
 
 ## Store Pages
 
