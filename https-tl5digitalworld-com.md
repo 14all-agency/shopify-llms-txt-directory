@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-13T14:47:21Z
 - Contact Email: wldunlimitedventures@gmail.com
-- Updated At: 2026-11-14T00:23:24.678Z
+- Updated At: 2026-11-21T00:24:35.872Z
 
 ## Products
 
@@ -689,6 +689,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ScienceDetectives_ExploreandDiscover.png?v=1794355129
   Price: $9.99 USD
+- [Printable Math Workbook for Kids | Math Masters STEM](https://tl5digitalworld.com/products/math-masters-stem-workbook-for-kids-fun-math-activities-real-world-challenges): Make math meaningful with Math Masters, a 30-page printable PDF workbook for kids featuring real-world challenges and positive Black representation.
+  Updated: 2026-11-19T00:22:55Z
+  Vendor: TL5 Digital World
+  Product Type: Digital STEM Workbook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/MathMastersVictoryCover.png?v=1795047115
+  Price: $9.99 USD
 
 ## Collections
 
@@ -786,8 +793,14 @@
   Updated: 2026-10-17T01:31:36Z
   Total Products: 1
 - [STEM Learning](https://tl5digitalworld.com/collections/stem-learning)
-  Updated: 2026-11-11T00:06:41Z
-  Total Products: 6
+  Updated: 2026-11-19T00:18:53Z
+  Total Products: 7
+- [Math Masters](https://tl5digitalworld.com/collections/math-masters)
+  Updated: 2026-11-19T00:18:53Z
+  Total Products: 1
+- [Black boys in STEM](https://tl5digitalworld.com/collections/black-boys-in-stem)
+  Updated: 2026-11-19T00:18:53Z
+  Total Products: 1
 
 ## Blogs
 
@@ -1027,6 +1040,15 @@
     Author: Admin
   - [Credit Utilization Explained Simply for Better Credit](https://tl5digitalworld.com/blogs/news/credit-utilization-explained-simply): Credit Utilization Explained Simply for Better Credit
     Updated: 2026-11-13T03:34:24Z
+    Author: Admin
+  - [Bookkeeping for Beginners That Builds Control](https://tl5digitalworld.com/blogs/news/bookkeeping-for-beginners): Bookkeeping for Beginners That Builds Control
+    Updated: 2026-11-15T03:31:31Z
+    Author: Admin
+  - [What Makes a Business Profitable? 7 Core Drivers](https://tl5digitalworld.com/blogs/news/what-makes-a-business-profitable): What Makes a Business Profitable? 7 Core Drivers
+    Updated: 2026-11-17T03:34:35Z
+    Author: Admin
+  - [Career Change Guide for a Practical New Start](https://tl5digitalworld.com/blogs/news/career-change-guide-practical-new-start): Career Change Guide for a Practical New Start
+    Updated: 2026-11-19T03:42:12Z
     Author: Admin
 
 ## Store Pages
