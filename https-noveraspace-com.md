@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-06T15:37:20Z
 - Contact Email: phillipsmichelleevelyn12122000@gmail.com
-- Updated At: 2026-11-14T01:04:01.880Z
+- Updated At: 2026-11-21T01:14:21.157Z
 
 ## Products
 
 - [Rechargeable Motion Sensor Wall Light | Novera Space](https://noveraspace.com/products/rechargeable-sensor-wall-light): Illuminate your hallways and rooms effortlessly with Novera Space cordless motion sensor wall light. Magnetic mount, rechargeable battery, and auto on/off.
-  Updated: 2026-10-07T08:26:56Z
+  Updated: 2026-11-20T04:26:44Z
   Vendor: Novera Space
   Product Type: Wall Lights
   Availability: Available
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/1015/9607/0260/files/White_Sensor_Light_-_Edited.webp?v=1791102384
     Price: $29.90 USD
 - [Magnetic Rechargeable LED Wall Sconce 360° | Novera Space](https://noveraspace.com/products/led-rechargeable-wall-lightsconce): Shop Novera Space 360° rotatable magnetic wall sconce. Cordless, USB rechargeable, touch dimmable, and renter-friendly reading light for bedroom & living room.
-  Updated: 2026-10-07T08:26:56Z
+  Updated: 2026-11-20T03:16:23Z
   Vendor: Novera Space
   Product Type: Wall Sconces
   Availability: Available
@@ -65,7 +65,7 @@
     Image: https://cdn.shopify.com/s/files/1/1015/9607/0260/files/Smart_Wireless_Charging_Alarm_Clock-Black-52aca6134be66789.webp?v=1791102388
     Price: $79.90 USD
 - [Astronaut Galaxy Star Projector Nebula Light | Novera Space](https://noveraspace.com/products/astronaut-galaxy-projector): Bring the cosmos indoors with Novera Space Astronaut Galaxy Projector. Featuring 360° magnetic rotating head, nebula effects, timer, and remote control.
-  Updated: 2026-10-07T08:26:56Z
+  Updated: 2026-11-20T02:51:23Z
   Vendor: Novera Space
   Product Type: Star Projectors & Night Lights
   Availability: Available
@@ -83,21 +83,21 @@
     Image: https://cdn.shopify.com/s/files/1/1015/9607/0260/files/Astronaut_Galaxy_Projector-Standing_Edition_White_-8b179b262ec792a4.webp?v=1791102393
     Price: $89.90 USD
 - [3D 16-Color Galaxy Moon Lamp with Stand | Novera Space](https://noveraspace.com/products/galaxy-moon-lamp): Transform your bedroom with Novera Space 3D Galaxy Moon Lamp. Includes 16 RGB colors, touch & remote control, rechargeable battery, and wooden display stand.
-  Updated: 2026-10-07T08:26:57Z
+  Updated: 2026-11-20T02:51:23Z
   Vendor: Novera Space
   Product Type: Decorative Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1015/9607/0260/files/Galaxy_Moon_Lamp--363645f5ed0b5783.webp?v=1791102393
   Price: $59.90 USD
 - [Outdoor Cordless Motion Sensor Wall Light | Novera Space](https://noveraspace.com/products/outdoor-rechargeable-wall-light): Light up your porch and patio with Novera Space outdoor rechargeable wall light. IP65 waterproof, motion-sensing, zero wiring, and long-lasting battery life.
-  Updated: 2026-10-07T08:26:57Z
+  Updated: 2026-11-20T04:29:05Z
   Vendor: Novera Space
   Product Type: Outdoor Wall Lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1015/9607/0260/files/Outdoor_Rechargeable_Wall_Light--9134be9eb3f1209bbc52123cc625f8d4.webp?v=1791102395
   Price: $59.90 USD
 - [Wireless LED Picture Light Magnetic Mount | Novera Space](https://noveraspace.com/products/wireless-led-rechargeable-picture-light): Showcase art and frames beautifully with Novera Space magnetic wireless picture light. Touch dimming, 3 color temperatures, timer, and rechargeable battery.
-  Updated: 2026-10-07T08:26:57Z
+  Updated: 2026-11-20T05:01:34Z
   Vendor: Novera Space
   Product Type: Picture Lights
   Availability: Available
@@ -115,14 +115,14 @@
     Image: https://cdn.shopify.com/s/files/1/1015/9607/0260/files/Wireless_LED_Rechargeable_Picture_Light-Gold-5d91ec03d4bd5e3bc2d039beb2ee1b87.webp?v=1791102397
     Price: $69.90 USD
 - [Smart Linkable Motion Sensor Night Lights 2-Pack | Novera Space](https://noveraspace.com/products/motion-activated-night-lights-2-pack): Protect your family at night with Novera Space linkable motion sensor night lights (2-pack). Dual light synchronization, magnetic base, and soft warm glow.
-  Updated: 2026-10-07T08:26:57Z
+  Updated: 2026-11-20T05:59:29Z
   Vendor: Novera Space
   Product Type: Night Lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1015/9607/0260/files/Motion_Activated_Night_Lights_2_Pack_--99727bbbfdfb41bc7f1f6a9930903610.webp?v=1791102398
   Price: $39.90 USD
 - [Magnetic Levitating Floating Moon Lamp 3D | Novera Space](https://noveraspace.com/products/floating-moon-lamp): Experience magic with Novera Space magnetic levitating moon lamp. 3D printed lunar surface floating and spinning in mid-air with warm and cool light modes.
-  Updated: 2026-10-07T08:26:57Z
+  Updated: 2026-11-20T05:59:29Z
   Vendor: Novera Space
   Product Type: Levitating Lamps
   Availability: Available
@@ -209,6 +209,15 @@
     Author: Novera Space
   - [Brighten Any Space with Novera Space's Cordless Motion Sensor Light – Renters' Guide to Smart Ambient Lighting](https://noveraspace.com/blogs/news/brighten-any-space-with-novera-spaces-cordless-motion-sensor-light-renters-guide-to-smart-ambient-lighting): Brighten Any Space with Novera Space's Cordless Motion Sensor Light – Renters' Guide to Smart Ambient Lighting
     Updated: 2026-11-11T11:03:29Z
+    Author: Novera Space
+  - [Illuminate Your Space with Novera Space Magnetic LED Rechargeable Wall Light as a Smarter and Renter-Friendly Solution Featuring Astronaut Galaxy Projectors and Automatic Motion Sensors](https://noveraspace.com/blogs/news/illuminate-your-space-with-novera-space-magnetic-led-rechargeable-wall-light-as-a-smarter-and-renter-friendly-solution-featuring-astronaut-galaxy-projectors-and-automatic-motion-sensors): Illuminate Your Space with Novera Space Magnetic LED Rechargeable Wall Light as a Smarter and Renter-Friendly Solution Featuring Astronaut Galaxy Projectors and Automatic Motion Sensors
+    Updated: 2026-11-16T11:02:35Z
+    Author: Novera Space
+  - [Novera Space Outdoor Solutions: The Perfect Fusion of Cordless Reading Light and Aesthetic Bedroom Decor](https://noveraspace.com/blogs/news/novera-space-outdoor-solutions-the-perfect-fusion-of-cordless-reading-light-and-aesthetic-bedroom-decor): Novera Space Outdoor Solutions: The Perfect Fusion of Cordless Reading Light and Aesthetic Bedroom Decor
+    Updated: 2026-11-17T11:01:54Z
+    Author: Novera Space
+  - [Elevate Your Bedroom Ambiance with Novera Space Astronaut Galaxy Projector and Smart Ambient Lighting Solutions](https://noveraspace.com/blogs/news/elevate-your-bedroom-ambiance-with-novera-space-astronaut-galaxy-projector-and-smart-ambient-lighting-solutions): Elevate Your Bedroom Ambiance with Novera Space Astronaut Galaxy Projector and Smart Ambient Lighting Solutions
+    Updated: 2026-11-18T11:03:10Z
     Author: Novera Space
 
 ## Store Pages
