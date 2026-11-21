@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-01-21T11:17:34Z
 - Contact Email: kashmirgemsjewelry@gmail.com
-- Updated At: 2026-11-14T01:02:19.020Z
+- Updated At: 2026-11-21T01:07:23.695Z
 
 ## Products
 
@@ -582,21 +582,21 @@ collectors. September birthstone.
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/natural_Afghan_ruby_parcel_oval_and_round_cut.jpg?v=1790340197
   Price: $4,000.00 USD
 - [Buy 74 Grams Untreated Raw Peridot Gemstone Lot](https://www.kashmirstones.com/products/facet-grade-raw-peridot): Facet Grade Raw Peridot Parcel — Supat Mine, Pakistan This 74-gram parcel of raw peridot rough for  originates from the Supat Mine in Pakistan. If you are looking for untreated peridot rough for faceting, this lot represents a direct-source parcel without any heat, filling, or chemical enhancement. The material qualifies as facet grade peridot rough, with individual crystals in the small peridot rough crystals under 5 grams range — well-proportioned for cutting peridot into gemstones at home or commissioning a custom cut. Peridot is the recognized August birthstone raw crystal, and peridot birthstone rough for cutting sees consistent demand from custom jewellers and collectors alike. This parcel is sold as a wholesale peridot rough parcel by weight — a single 74-gram lot, ideal for buyers seeking bulk peridot rough crystals for gem cutters or natural peridot rough lot for collectors. For those researching where to buy Pakistani peridot rough online or sourcing loose peridot rough gemstones direct from origin, this parcel offers a traceable, single-mine provenance from one of the most respected peridot mining regions in Asia. FAQs Q: What is the difference between facet grade and collector grade peridot rough? A: Facet-grade peridot rough has sufficient clarity and transparency to be cut into finished gemstones, while collector-grade material is valued for crystal form and display rather than cutting potential. Q: Is raw peridot from the Supat Mine in Pakistan good for cutting into gemstones? A: Yes — Supat Mine peridot is well-regarded among lapidaries for its clean cleavage planes and consistent green colour, making it a reliable choice for faceting small to medium stones. Q: How do I identify natural untreated peridot rough versus treated material? A: Natural untreated peridot typically shows no surface coatings, resin fills, or colour inconsistencies; a gemological loupe or UV light can help confirm the absence of common treatments.
-  Updated: 2026-09-25T23:03:39Z
+  Updated: 2026-11-18T16:20:50Z
   Vendor: Kashmir Stones
   Product Type: Rough Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/74_grams_facet_grade_raw_peridot_parcel.jpg?v=1790340323
   Price: $1,650.00 USD
 - [Buy 90g Untreated Peridot Rough from Pakistan Online](https://www.kashmirstones.com/products/untreated-peridot-rough-from-pakistan): Looking for untreated peridot rough for faceting? This 90g untreated peridot faceting material lot from Pakistan contains green, uncut stones in different shapes and sizes. Each piece of authentic untreated Pakistani peridot rough weighs from under 1 gram to 4 grams. This peridot rough lot from Pakistan is listed for faceting, with no treatments recorded. Key features Gemstone: Peridot rough Total weight: 90 grams Weight per piece: Under 1 gram to 4 grams Origin: Pakistan Color: Light to dark green Form: Uncut stones in different shapes and sizes : No treatments recorded Use: Listed for faceting and gem-cutting projects Frequently asked questions What is the total weight of this peridot rough lot from Pakistan? The lot weighs 90 grams. Each piece weighs from under 1 gram to 4 grams. Is this untreated peridot rough for faceting? Yes. The product is listed as rough peridot for faceting, with no treatments recorded.
-  Updated: 2026-10-08T02:41:00Z
+  Updated: 2026-11-18T16:20:50Z
   Vendor: Kashmir Stones
   Product Type: Rough Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/90g_Untreated_Peridot_Rough_from_Pakistan.jpg?v=1791385214
   Price: $1,400.00 USD
 - [Buy 15.3ct Untreated Fancy Cut Peridot Pair from Pakistan Online](https://www.kashmirstones.com/products/untreated-fancy-cut-peridot-pair-from-pakistan): This untreated fancy cut peridot pair from Pakistan weighs 15.3 carats in total. Each green loose stone measures 9 × 8 mm, with individual weights listed from 7.5 to 7.8 carats. The photos show bright green color and shiny cut faces. This loose peridot gemstone pair is sold without a jewelry setting. For a custom jewelry project, compare the stone measurements with your planned design. View both photos to see this green peridot gemstone pair in detail. Key features Gemstone: Peridot Sold as: Two loose stones Total weight: 15.3 carats Individual weight: 7.5 to 7.8 carats Size: 9 × 8 mm each Cut: Fancy cut Color: Green Listed clarity: VS Origin: Pakistan : None recorded Price: $550 for the pair View both photos to see this green peridot gemstone pair in detail. Colors may look different with lighting and screen settings. Frequently asked questions How much does this 15.3-carat fancy cut peridot pair weigh per stone? Individual weights are listed from 7.5 to 7.8 carats. The pair weighs 15.3 carats in total. What are the measurements of this loose peridot pair for custom jewelry? Each stone measures 9 × 8 mm. Check these measurements against your planned setting. What origin and  are listed for this green peridot gemstone pair? The stones are listed as originating from Pakistan, with no treatments recorded.
-  Updated: 2026-10-08T03:08:06Z
+  Updated: 2026-11-18T16:20:50Z
   Vendor: Kashmir Stones
   Product Type: Loose Gemstones
   Availability: Available
@@ -617,7 +617,7 @@ collectors. September birthstone.
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/natural_tourmaline_gemstone_for_ring_setting.jpg?v=1791741516
   Price: $3,740.00 USD
 - [Buy African Rough Ruby Stones For Collectors](https://www.kashmirstones.com/products/raw-rubies-from-africa): Raw ruby crystals from Africa make up this 100-gram lot of loose gemstones. The total weight applies to the combined lot, not to each individual crystal. The crystals have purplish-pink coloring, with variation in tone across the pieces. Their shapes range from elongated forms to shorter, irregular crystals, and their surfaces have visible texture. These untreated raw ruby crystals have received no treatments. Individual dimensions and an exact piece count are not confirmed, so the total weight is the useful measure of quantity. This is a raw-crystal lot rather than a finished jewelry item, with differences in shape and surface texture between pieces. For background on the gemstone and its origins, read our ruby composition and formation guide. Key details Gemstone: RubyTotal weight: 100 gramsOrigin: AfricaColor: Purplish pinkTreatment: No treatments Frequently asked questions What does the weight mean in this 100-gram raw ruby lot? The 100-gram raw ruby lot weighs 100 grams in total, not per crystal. Are these raw ruby crystals for jewelry making already faceted? No. These raw ruby crystals for jewelry making are not faceted stones or finished jewelry components. What color are these untreated ruby crystals from Africa? These untreated ruby crystals from Africa are purplish pink, with visible differences in tone between crystals.
-  Updated: 2026-10-16T02:08:29Z
+  Updated: 2026-11-18T16:20:50Z
   Vendor: Kashmir Stones
   Product Type: Rough Gemstones
   Availability: Available
@@ -631,18 +631,25 @@ collectors. September birthstone.
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Aquamarine_crystal_pendants.jpg?v=1792074035
   Price: $2,400.00 USD
 - [1 carat Natural Mozambique Ruby](https://www.kashmirstones.com/products/1-carat-natural-mozambique-ruby): 1 carat Natural Mozambique Ruby No heat
-  Updated: 2026-11-05T23:54:37Z
+  Updated: 2026-11-18T16:22:24Z
   Vendor: Kashmir Stones
   Product Type: Loose Gemstones
   Availability: Available
-  Price: $1,500.00 USD
+  Price: $3,000.00 USD
 - [Natural Peridot Pairs, 61.35 Carats | Pakistan](https://www.kashmirstones.com/products/natural-faceted-green-peridot-pairs-from-pakistan): Shop untreated natural green peridot pairs from Pakistan with 61.35 carats total weight, mixed faceted shapes and pair weights ranging from 2.20 to 5.00 carats.
-  Updated: 2026-11-09T22:01:10Z
+  Updated: 2026-11-18T16:20:50Z
   Vendor: Kashmir Stones
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Loose_Peridot_Gemstone_Pair_For_Custom_Earrings.jpg?v=1793965072
   Price: $3,500.00 USD
+- [Blue Aquamarine Pair 8.85 Carats | Afghanistan](https://www.kashmirstones.com/products/8-85-carats-blue-aquamarine): Shop a natural blue aquamarine pair from Afghanistan, totaling 8.85 carats. Each rectangular, faceted stone measures 11 × 8 × 6 mm, with softly clipped corners.
+  Updated: 2026-11-18T06:48:21Z
+  Vendor: Kashmir Stones
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Natural_Faceted_Blue_Aquamarine_Gemstone.jpg?v=1793965772
+  Price: $1,400.00 USD
 - [Bi-Color Tourmaline Gemstones, 15 ct | 6 Afghan Stones](https://www.kashmirstones.com/products/15-90-carats-bi-color-afghan-tourmaline-gemstone-): Shop 15 ct bi-color tourmaline gemstones from Afghanistan. This six-stone parcel has pink and green colour zoning, emerald cuts, and SI to VS clarity grades.
   Updated: 2026-11-09T22:43:40Z
   Vendor: Kashmir Stones
@@ -651,26 +658,69 @@ collectors. September birthstone.
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/bi-color-tourmaline-stones1.jpg?v=1794220954
   Price: $4,800.00 USD
 - [Buy Natural Peridot Pair 12.6 Carats from Pakistan](https://www.kashmirstones.com/products/12-6-carat-faceted-natural-peridot-gemstone-pair): Explore a natural peridot pair from Pakistan, weighing 12.6 carats in total. Two green, untreated faceted loose gemstones with slightly included clarity.
-  Updated: 2026-11-10T01:24:14Z
+  Updated: 2026-11-18T06:45:07Z
   Vendor: Kashmir Stones
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Natural_Green_Peridot_Loose_Gemstones.jpg?v=1794231353
   Price: $1,250.00 USD
 - [Natural Peridot Pairs Lot 47.30 Carats | Pakistan](https://www.kashmirstones.com/products/m): Explore a 47.30-carat natural peridot pairs lot from Pakistan, with green faceted stones in varied shapes and sizes, and near-eye-clean clarity for the lot.
-  Updated: 2026-11-10T01:37:44Z
+  Updated: 2026-11-18T06:44:32Z
   Vendor: Kashmir Stones
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Faceted_Green_Peridot_Pairs_Lot.jpg?v=1794231761
   Price: $750.00 USD
 - [Buy 7.80 Carats Loose Peridot Stones For Jewelry Making](https://www.kashmirstones.com/products/peridot-pair-7-80-carats-green-loose-gems): Explore a green peridot pair from Pakistan, 7.80 carats total. Untreated loose gemstones measuring 9.5 × 8.4 × 5.9 mm each, with VSI to eye-clean clarity.
-  Updated: 2026-11-10T01:48:12Z
+  Updated: 2026-11-18T06:46:40Z
   Vendor: Kashmir Stones
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Matched_Green_Peridot_Stones.jpg?v=1794232232
   Price: $690.00 USD
+- [Kashmir Pink & Purple Sapphires | 1.43 ct, 2 Stones](https://www.kashmirstones.com/products/kashmir-purple-sapphires-2-stones): Explore two natural, untreated Kashmir sapphires totaling 1.43 ct, with an oval and cushion cut in pink-purple tones for custom rings, pendants and jewelry.
+  Updated: 2026-11-20T02:23:23Z
+  Vendor: Kashmir Stones
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/purple-kashmir-sapphire.jpg?v=1795098418
+  Price: $300.00 USD
+- [Natural Aquamarine Gemstones 71.40 Carats | Pakistan](https://www.kashmirstones.com/products/natural-aquamarine-gemstone-lot): Explore 71.40 carats of natural blue aquamarine from Pakistan, with eye-clean clarity, faceted cuts and no . Loose gemstones for jewelry and ornaments.
+  Updated: 2026-11-18T18:48:20Z
+  Vendor: Kashmir Stones
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Pakistan_Aquamarine_Gemstone_Parcel.jpg?v=1794985284
+  Price: $2,150.00 USD
+- [Loose Tanzanite Lot | 56 Carats from Tanzania](https://www.kashmirstones.com/products/56-carats-loose-tanzanite): Shop loose tanzanite from Tanzania in a 56-carat lot. These untreated blue gemstones are 1+ carat each, with faceted shapes for custom jewelry design projects.
+  Updated: 2026-11-18T19:03:04Z
+  Vendor: Kashmir Stones
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Loose_Tanzanite_Stones_For_Jewelry_Designers.jpg?v=1795003703
+  Price: $4,480.00 USD
+- [Natural Emerald 0.50 Carat | Kashmir Stones](https://www.kashmirstones.com/products/0-50-carats-natural-swat-emerald-4-x-4-mm-aaa-grade-color): Explore a 0.50-carat natural emerald from Pakistan with green colour and untreated status. A loose gemstone for custom jewelry designs and May birthstone gifts.
+  Updated: 2026-11-19T04:14:51Z
+  Vendor: Kashmir Stones
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/KS-Swat-Emerald-Gemstone.jpg?v=1795018621
+  Price: $800.00 USD
+- [Loose Peridot Gemstones – 13.80 Carats from Kohistan](https://www.kashmirstones.com/products/5-pieces-kohistan-loose-peridot-cushion-cut-olivine-green): Explore five natural, untreated peridot gemstones from Supat mine, Kohistan, Pakistan, with a total weight of 13.80 carats and two sizes for custom jewelry.
+  Updated: 2026-11-20T16:04:42Z
+  Vendor: Kashmir Stones
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Olivine_Green_Peridot_Pairs.jpg?v=1795189385
+  Price: $760.00 USD
+- [Octagonal Peridot Gemstones – 14.60 Carats, 4 Pieces](https://www.kashmirstones.com/products/4-pieces-of-olivine-green-peridots-octagonal-shape-pakistan-peridots): Explore four olivine-green peridot gemstones from Pakistan, weighing 14.60 carats in total, with octagonal shapes and varied sizes for custom jewelry designs.
+  Updated: 2026-11-20T16:32:02Z
+  Vendor: Kashmir Stones
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/4_Olivine_Green_Loose_Peridots.jpg?v=1795190608
+  Price: $2,000.00 USD
+[List Continued](https://www.kashmirstones.com/a/llms-agent/llms.txt?shop=ihfkez-6g.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTg1MjIyNjU3NjQ5NSwibGFzdF92YWx1ZSI6IjE1ODUyMjI2NTc2NDk1In0%3D)
 
 ## Collections
 
@@ -678,35 +728,35 @@ collectors. September birthstone.
   Updated: 2026-07-08T21:38:33Z
   Total Products: 1
 - [All Type Gemstones](https://www.kashmirstones.com/collections/all-type-gemstones): Shop  natural gemstones including rubies, sapphires, emeralds & rare stones. Authentic loose gems for jewelry making & collecting. Worldwide shipping available.
-  Updated: 2026-11-09T14:02:57Z
-  Total Products: 91
+  Updated: 2026-11-20T16:31:09Z
+  Total Products: 97
 - [Emerald Gemstones](https://www.kashmirstones.com/collections/buy-emeralds-for-): Shop authentic natural emerald gemstones from Swat emeralds, Colombian Emeralds, Afghan Panjshir Emeralds, Zambian Emeralds.  precious gemstones with vivid green color. Perfect for fine jewelry and collectors.
-  Updated: 2026-09-25T12:40:40Z
-  Total Products: 27
+  Updated: 2026-11-18T16:14:49Z
+  Total Products: 28
 - [Loose Gemstones](https://www.kashmirstones.com/collections/loose-gemstones): Shop premium loose gemstones for jewelry making and collecting. Natural rubies, sapphires, emeralds & semi-precious stones.  quality, various cuts & sizes.
-  Updated: 2026-11-09T14:02:57Z
-  Total Products: 73
+  Updated: 2026-11-20T16:31:09Z
+  Total Products: 79
 - [New Arrivals](https://www.kashmirstones.com/collections/new-arrivals-gemstones): Discover our newest gemstone arrivals! Emeralds, Kashmir Rubies, Batakundi Kashmir Sapphire, Burmese Rubies, Ceylon Sapphire, Peridots from Kohistan, Rare gems,  and many more Fresh inventory of rare and unique natural stones. Limited availability. Check our latest precious and semi-precious gems.
-  Updated: 2026-11-09T14:02:57Z
-  Total Products: 84
+  Updated: 2026-11-20T16:32:41Z
+  Total Products: 90
 - [Rough Gemstones](https://www.kashmirstones.com/collections/rough-gemstones-for-): Shop authentic rough faceting, collectors, jewelers & lapidary work. Uncut precious & semi-precious stones. Expert ethical sourcing.
   Updated: 2026-10-15T13:44:47Z
   Total Products: 23
 - [Rubies](https://www.kashmirstones.com/collections/rubies-gemstones-for-): Shop premium natural rubies in stunning red hues.  authentic, ethically sourced ruby gemstones for engagement rings & fine jewelry. Free shipping.
-  Updated: 2026-11-05T11:55:05Z
+  Updated: 2026-11-18T16:22:25Z
   Total Products: 25
 - [Sapphires](https://www.kashmirstones.com/collections/buy-sapphires-gemstones): Shop  natural blue sapphires from Kashmir, Ceylon & Burma. Premium quality sapphire gemstones for engagement rings. Ethically sourced, expert-.
-  Updated: 2026-09-22T13:53:37Z
-  Total Products: 33
+  Updated: 2026-11-19T14:30:34Z
+  Total Products: 34
 - [Mineral Specimens and Crystals](https://www.kashmirstones.com/collections/buy-fine-mineral-specimens): Buy authentic mineral specimens and natural crystals. Museum-quality pieces, healing crystals, rare formations.  genuine, ethically sourced.
   Updated: 2026-09-24T11:11:28Z
   Total Products: 6
 - [Corundum](https://www.kashmirstones.com/collections/corundum): Shop  natural rubies and sapphires from our premium corundum collection. Ethically sourced, -grade gemstones with authentication. Free worldwide shipping.
-  Updated: 2026-11-05T11:55:05Z
-  Total Products: 57
+  Updated: 2026-11-19T14:30:34Z
+  Total Products: 58
 - [Precious Colored Stones](https://www.kashmirstones.com/collections/buy-precious-colored-stones): Shop -grade natural rubies, emeralds & sapphires with authenticity certificates. Expert-curated precious colored stones, transparent sourcing, competitive prices.
-  Updated: 2026-11-05T11:55:05Z
-  Total Products: 84
+  Updated: 2026-11-19T14:30:34Z
+  Total Products: 86
 - [Loose Rubies Stones](https://www.kashmirstones.com/collections/buy-loose-rubies-gemstones): Shop  loose ruby gemstones including pigeon blood, Burmese & Mozambique rubies. Natural, unheated options available. Perfect for engagement rings. Free shipping.
   Updated: 2026-09-29T13:18:14Z
   Total Products: 11
@@ -714,14 +764,14 @@ collectors. September birthstone.
   Updated: 2026-09-22T13:38:18Z
   Total Products: 22
 - [Loose Emeralds](https://www.kashmirstones.com/collections/loose-emeralds-gems-for-): Shop  loose emerald gemstones including Colombian, Zambian & Brazilian emeralds. Natural stones with minor oil . Perfect for engagement rings. Free shipping.
-  Updated: 2026-09-25T12:40:40Z
-  Total Products: 19
+  Updated: 2026-11-18T16:14:49Z
+  Total Products: 20
 - [Natural Kashmir Sapphire Loose & Rough](https://www.kashmirstones.com/collections/natural-kashmir-sapphire-batakundi): Buy natural Kashmir sapphires from Batakundi, Azad Kashmir (Pakistan). We offer loose and rough sapphires for faceting, jewelry, and collectors with full origin disclosure, certification options, and worldwide shipping.
-  Updated: 2026-09-18T21:08:36Z
-  Total Products: 17
+  Updated: 2026-11-19T14:30:34Z
+  Total Products: 18
 - [Swat Emeralds](https://www.kashmirstones.com/collections/buy-swat-emeralds): Swat Emeralds – Natural Emeralds from Swat Valley, Pakistan Swat emeralds are rare natural emerald gemstones mined in the historic Swat Valley of Pakistan. Known for their rich green color, natural crystal formations, and increasing global recognition, Swat emeralds are among the most distinctive emeralds produced outside Colombia. This collection features carefully selected natural loose Swat emeralds, suitable for fine jewelry, gemstone collectors, and buyers seeking  emeralds with transparent origin and documentation. What Are Swat Emeralds? Swat emeralds are natural green beryl gemstones formed in the mountainous region of northern Pakistan. The Swat Valley has been known for emerald mining for decades, producing stones with vibrant to deep green hues, visible natural inclusions, and strong saturation. Unlike mass-market emeralds, Swat emeralds are mined in limited quantities, making them increasingly sought after by collectors and gemstone specialists worldwide. Origin: Swat Valley, Pakistan The Swat Valley is located in northern Pakistan and is part of a geologically complex region favorable for emerald formation. Emeralds from this area are often compared to Panjshir emeralds due to their crystal structure and intense green color. Swat emeralds should not be confused with Indian Kashmir stones.  laboratories clearly identify their origin as Swat Valley, Pakistan. Swat Emerald Characteristics Color: Medium to deep green, sometimes with bluish or yellowish undertones Clarity: Natural inclusions typical of genuine emeralds Crystal Structure: Well-defined hexagonal crystals Hardness: 7.5–8 on the Mohs scale Each Swat emerald is unique, and natural inclusions are considered proof of authenticity rather than flaws. Swat Emeralds vs Other Emerald Origins Swat Emeralds vs Panjshir Emeralds Panjshir emeralds from Afghanistan are known for exceptional transparency, while Swat emeralds often display slightly deeper green tones and distinctive crystal features. Both origins are highly regarded and produced in limited quantities. Swat Emeralds vs Colombian Emeralds Colombian emeralds are famous for bright green color and historical prestige. Swat emeralds offer a more natural, rugged character and are increasingly valued for their rarity and emerging market recognition.  & Certification of Swat Emeralds All Swat emeralds in this collection are 100% natural. Some stones may have undergone minor traditional oiling, a standard and internationally accepted practice used to enhance clarity in emeralds. Each emerald is accompanied by an independent laboratory certificate verifying: Natural origin Geographic source (Swat Valley, Pakistan)  status Color and clarity characteristics Certification is provided by recognized gemological laboratories such as GIA, IGI, and GRS. Uses of Loose Swat Emeralds Custom engagement rings Pendants and fine jewelry Gemstone collections Buyers seeking rare emerald origins Why Choose Our Swat Emeralds? Authentic natural Swat emeralds only Transparent sourcing and certification Hand-selected for color and quality Worldwide secure shipping Trusted gemstone specialists Frequently Asked Questions About Swat Emeralds Are Swat emeralds natural? Yes, Swat emeralds are natural emeralds formed in the Swat Valley of Pakistan and  through certification. Are Swat emeralds valuable? Due to limited mining and increasing global recognition, Swat emeralds are considered valuable by collectors and gemstone buyers. Do Swat emeralds require certification? Yes, certification is essential to confirm natural origin, geographic source, and  details. Can Swat emeralds be used for engagement rings? Yes, Swat emeralds are suitable for engagement rings when properly set and cared for.
-  Updated: 2026-07-21T21:48:14Z
-  Total Products: 15
+  Updated: 2026-11-18T16:14:49Z
+  Total Products: 16
 - [Panjshir Emeralds](https://www.kashmirstones.com/collections/panjshir-emeralds-for-): Discover authentic Panjshir emeralds from Afghanistan. Premium natural emeralds sourced directly from renowned Panjshir Valley mines.  gemstones for collectors.
   Updated: 2026-07-08T21:38:48Z
   Total Products: 7
@@ -741,17 +791,17 @@ collectors. September birthstone.
   Updated: 2026-09-22T13:53:37Z
   Total Products: 9
 - [Beryl](https://www.kashmirstones.com/collections/beryl-gems-for-): Shop  natural beryl gemstones including emeralds, aquamarine, morganite, and heliodor. Ethically sourced, expertly graded loose beryl stones with global shipping.
-  Updated: 2026-11-07T08:35:24Z
-  Total Products: 35
+  Updated: 2026-11-18T16:14:49Z
+  Total Products: 37
 - [Semi Precious Gemstones](https://www.kashmirstones.com/collections/semi-precious-gemstones-for-): Shop  natural semi precious gemstones including tourmaline, peridot, garnet, and aquamarine. Ethically sourced loose stones with gemological certificates.
-  Updated: 2026-11-09T10:41:16Z
-  Total Products: 7
+  Updated: 2026-11-20T15:49:28Z
+  Total Products: 8
 - [Wholesale Gemstones Supply](https://www.kashmirstones.com/collections/wholesale-gemstones-supply): Buy  wholesale gemstones including Kashmir sapphires, pink sapphires & loose stones in bulk. Premium natural gemstones with certificates. Competitive dealer pricing.
   Updated: 2026-07-08T21:38:47Z
   Total Products: 5
 - [Peridot Gemstones](https://www.kashmirstones.com/collections/peridot-gemstones): Explore Authentic Peridot Gemstones - Natural Loose & Rough Stones Discover our exquisite collection of natural peridot gemstones, featuring both loose peridot stones and rough peridot crystals sourced from renowned deposits. Known for their vibrant olive-green to lime-green color, peridots are one of the few gemstones that occur in only one color, making them highly sought after for fine jewelry and gemstone collections. What We Offer at Kashmirstones.com At Kashmirstones.com, we specialize in premium-quality peridot gemstones available in multiple forms: Loose Peridot Stones: Expertly cut and polished loose gemstones ready for jewelry setting, available in various shapes including oval, round, cushion, and emerald cuts Rough Peridot Crystals: Natural, uncut peridot specimens perfect for collectors, lapidary work, and custom cutting projects  Authenticity: Each peridot comes with detailed provenance information and quality assurance Wholesale Options: Competitive pricing for bulk orders and wholesale gemstone supply About Peridot: The August Birthstone Peridot (pronounced "PAIR-ih-dot") is the gem-quality variety of the mineral olivine. This stunning semi-precious gemstone has been treasured for over 3,500 years, with historical sources including Egypt's Zabargad Island and modern deposits in Pakistan, Myanmar, China, and Arizona. As the official August birthstone, peridot symbolizes strength, prosperity, and positive energy. Why Choose Our Peridot Collection? Ethically sourced from premium deposits including Kohistan, Pakistan Hand-selected for superior color saturation and clarity Available in sizes ranging from small accent stones to rare large specimens Competitive wholesale and retail pricing Expert gemological guidance and customer support Frequently Asked Questions About Peridot Gemstones What is peridot gemstone good for? Peridot is excellent for fine jewelry including rings, earrings, pendants, and bracelets. With a Mohs hardness of 6.5-7, it's durable enough for everyday wear with proper care. Peridot is also valued by collectors and is believed to bring prosperity, good health, and restful sleep in crystal healing traditions. How can you tell if a peridot is real? Genuine peridot displays a characteristic olive to lime-green color with slight golden undertones. Real peridots show double refraction when viewed under magnification, have natural inclusions (often lily pad-shaped), and exhibit strong pleochroism. At Kashmirstones.com, all our peridots are  natural with detailed authenticity documentation. What is the difference between rough and loose peridot? Rough peridot refers to natural, uncut crystals in their raw form, ideal for collectors or custom cutting. Loose peridot stones are professionally cut and polished gemstones ready for jewelry setting. Rough stones offer more flexibility for custom designs, while loose stones provide immediate use in jewelry projects. Is peridot expensive? Peridot is generally affordable compared to precious gemstones like emerald or sapphire. Prices vary based on size, color intensity, clarity, and origin. Fine-quality peridots with vivid green color and minimal inclusions command premium prices, while commercial-grade stones remain budget-friendly. Large peridots over 10 carats are rare and more valuable. Can peridot be worn every day? Yes, peridot can be worn daily with proper care. While durable at 6.5-7 on the Mohs scale, it should be protected from harsh chemicals, extreme temperature changes, and hard impacts. Remove peridot jewelry during vigorous activities and clean with mild soap and water. Where does the best peridot come from? Historically, Egypt's Zabargad Island produced the finest peridots. Today, premium specimens come from Pakistan (especially Kohistan), Myanmar, China, and Arizona's San Carlos reservation. Pakistani peridots are particularly prized for their rich color and clarity. Browse our curated selection of natural peridot gemstones and experience the exceptional quality and authenticity that Kashmirstones.com is known for. Whether you're seeking loose stones for jewelry creation or rough specimens for your collection, we offer expert guidance and competitive pricing on every piece.
-  Updated: 2026-11-09T14:02:57Z
-  Total Products: 10
+  Updated: 2026-11-20T16:31:09Z
+  Total Products: 12
 - [Rare Gemstones](https://www.kashmirstones.com/collections/rare-gemstones-list)
   Updated: 2026-08-21T15:28:41Z
   Total Products: 45
@@ -768,8 +818,8 @@ collectors. September birthstone.
   Updated: 2026-07-08T21:38:46Z
   Total Products: 2
 - [Kashmir Gemstones  (Batakundi, Kashmir, Gilgit Baltistan )](https://www.kashmirstones.com/collections/kashmir-gemstones): Shop authenticated Kashmir-origin gemstones — rare Basal sapphires, Batakundi rubies & more.  provenance, natural unheated stones. Trusted by collectors & jewelers.
-  Updated: 2026-09-18T21:08:36Z
-  Total Products: 25
+  Updated: 2026-11-19T14:30:34Z
+  Total Products: 27
 
 ## Blogs
 
