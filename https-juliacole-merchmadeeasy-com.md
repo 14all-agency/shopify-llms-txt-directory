@@ -6,26 +6,26 @@
 - Timezone: America/Chicago
 - Created At: 2022-03-12T22:57:06Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-14T00:17:38.089Z
+- Updated At: 2026-11-21T00:21:22.380Z
 
 ## Products
 
 - [Love You to Death Vinyl](https://juliacole.merchmadeeasy.com/products/love-you-to-death-vinyl): Love You to Death by Julia Cole available on vinyl Tracklist Love You To Death Diamondback Day Late & A Buck Short At My Wedding Treat Me Like Dirt Big Picture Daddy Daughter Dance What It Takes What Could Go Wrong Hunting Boots Give & Take Gunshy Heaven On A Sunday Spicy
-  Updated: 2026-11-12T20:46:03Z
+  Updated: 2026-11-20T16:18:38Z
   Vendor: Julia Cole
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/LYTDVinyl_cdeaa362-d9c0-4e33-940d-bab610d71a62.png?v=1775498022
   Price: $29.98 USD
 - [Love You to Death CD](https://juliacole.merchmadeeasy.com/products/love-you-to-death-cd): Love You to Death by Julia Cole available on CD Tracklist Love You To Death Diamondback Day Late & A Buck Short At My Wedding Treat Me Like Dirt Big Picture Daddy Daughter Dance What It Takes What Could Go Wrong Hunting Boots Give & Take Gunshy Heaven On A Sunday Spicy
-  Updated: 2026-11-12T20:46:02Z
+  Updated: 2026-11-18T01:26:06Z
   Vendor: Julia Cole
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/LYTDCD_71cc0df2-0228-458f-99c4-08ce1a1cf9e4.png?v=1775497949
   Price: $9.98 USD
 - [Love You to Death Vinyl (Signed)](https://juliacole.merchmadeeasy.com/products/love-you-to-death-vinyl-signed): Cover signed by Julia Cole Love You to Death by Julia Cole available on vinyl Tracklist Love You To Death Diamondback Day Late & A Buck Short At My Wedding Treat Me Like Dirt Big Picture Daddy Daughter Dance What It Takes What Could Go Wrong Hunting Boots Give & Take Gunshy Heaven On A Sunday Spicy
-  Updated: 2026-11-13T12:10:45Z
+  Updated: 2026-11-18T17:50:59Z
   Vendor: Julia Cole
   Product Type: Vinyl
   Availability: Available
@@ -98,7 +98,7 @@
   Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/JULIA_Dance_Card_front.png?v=1781287469
   Price: $8.00 USD
 - [Love You To Death Photo Tee](https://juliacole.merchmadeeasy.com/products/love-you-to-death-photo-tee): Love You To Death album cover on the front 100% Cotton tee in Black Unisex
-  Updated: 2026-11-12T20:46:02Z
+  Updated: 2026-11-15T04:07:21Z
   Vendor: Julia Cole
   Product Type: T-Shirt
   Availability: Available
@@ -174,27 +174,37 @@
   - [2XL](https://juliacole.merchmadeeasy.com/products/love-you-to-death-maroon-tee?variant=50457068994752)
     Availability: Available
     Price: $35.00 USD
+- [Logo Keychain](https://juliacole.merchmadeeasy.com/products/logo-keychain): Motel style keychain with keyring Sisterhood Country graphic on one side JC logo on one side
+  Updated: 2026-11-16T22:41:23Z
+  Vendor: Julia Cole
+  Product Type: Keychain
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/JCLogoKeychain1.png?v=1793826027
+  Price: $5.00 USD
 
 ## Collections
 
 - [Home page](https://juliacole.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-13T12:14:23Z
+  Updated: 2026-11-19T12:12:18Z
   Total Products: 16
 - [Apparel](https://juliacole.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-12T12:12:33Z
+  Updated: 2026-11-15T12:14:24Z
   Total Products: 7
 - [Accessories](https://juliacole.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-04T21:01:57Z
+  Updated: 2026-11-16T22:41:23Z
   Total Products: 5
 - [All](https://juliacole.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-13T12:14:23Z
+  Updated: 2026-11-19T12:12:18Z
   Total Products: 15
 - [Music](https://juliacole.merchmadeeasy.com/collections/music)
-  Updated: 2026-11-13T12:14:23Z
+  Updated: 2026-11-19T12:12:18Z
   Total Products: 5
 - [Love You to Death](https://juliacole.merchmadeeasy.com/collections/love-you-to-death)
-  Updated: 2026-11-13T12:14:23Z
+  Updated: 2026-11-19T12:12:18Z
   Total Products: 9
+- [EG All Products - DO NOT EDIT](https://juliacole.merchmadeeasy.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu'elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
+  Updated: 2026-11-19T12:12:18Z
+  Total Products: 23
 
 ## Store Pages
 
