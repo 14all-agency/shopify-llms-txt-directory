@@ -6,7 +6,7 @@
 - Timezone: Australia/Brisbane
 - Created At: 2026-08-20T11:10:03Z
 - Contact Email: cibiscarney@gmail.com
-- Updated At: 2026-11-14T01:04:40.460Z
+- Updated At: 2026-11-21T01:22:25.761Z
 
 ## Products
 
@@ -2125,21 +2125,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/1908/8153/files/Lavish-Home-Adjustable-Floor-Lamp-6ft-Full-Spectrum-Natural-Sunlight-Lamp-with-Bendable-Neck-Beige_d0843f7d-268b-4c40-b1a9-eb8fc09335d0_1.3be4c31b401d0f659eeeb3249c05aa52.jpg?v=1788851102
   Price: $23.26 AUD
-- [Vellune™ Adjustable Floor Lamp for Bedroom with Bendable Neck - Full Spectrum Natural](https://vellune.design/products/lavish-home-adjustable-floor-lamp-for-bedroom-with-bendable-neck-full-spectrum-natural-sunlight-lamp-for-office-light-woodgrain): Elevate your home aesthetic with the Vellune™ Adjustable Floor Lamp for Bedroom with Bendable Neck - Full Spectrum Natural. Designed with premium quality, ambient warmth, and modern efficiency. Enjoy free shipping & 30-Day Money-Back Guarantee!
-  Updated: 2026-10-03T13:40:24Z
-  Vendor: Vellune™
-  Product Type: Floor Lamps
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1022/1908/8153/files/Lavish-Home-Natural-Sunlight-LED-Floor-Lamp-with-Bendable-Neck-60-Inch-Black_07578049-1ef5-406a-8825-59c79c54c4f6_1.3f4923688d83321556c803494c9a0637.jpg?v=1788851104
-  Price: $30.37 AUD
-- [Vellune™ Adjustable LED Floor Lamp with Bendable Neck - Natural Sunlight LED Lamp for](https://vellune.design/products/lavish-home-adjustable-led-floor-lamp-with-bendable-neck-natural-sunlight-led-lamp-for-bedroom-and-living-room-black): Elevate your home aesthetic with the Vellune™ Adjustable LED Floor Lamp with Bendable Neck - Natural Sunlight LED Lamp for. Designed with premium quality, ambient warmth, and modern efficiency. Enjoy free shipping & 30-Day Money-Back Guarantee!
-  Updated: 2026-10-03T13:40:24Z
-  Vendor: Vellune™
-  Product Type: Floor Lamps
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1022/1908/8153/files/Lavish-Home-Natural-Sunlight-LED-Floor-Lamp-with-Bendable-Neck-60-Inch-Black_a7dee873-c76f-40f2-9756-363665d2beed.8fae418abefca3cbb516413b47abdb7c.jpg?v=1788851106
-  Price: $44.53 AUD
-[List Continued](https://vellune.design/a/llms-agent/llms.txt?shop=jpbfsf-bs.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDc5MjA0MTY3NzA4MSwibGFzdF92YWx1ZSI6IjEwNzkyMDQxNjc3MDgxIn0%3D)
+[List Continued](https://vellune.design/a/llms-agent/llms.txt?shop=jpbfsf-bs.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDc5MjA0MTYxMTU0NSwibGFzdF92YWx1ZSI6IjEwNzkyMDQxNjExNTQ1In0%3D)
 
 ## Collections
 
@@ -2245,6 +2231,15 @@
     Author: Vellune
   - [Transform Your Reading Nook: Vellune Tiffany Mini Table Lamp for Cozy Modern Ambient Lighting](https://vellune.design/blogs/news/transform-your-reading-nook-vellune-tiffany-mini-table-lamp-for-cozy-modern-ambient-lighting): Transform Your Reading Nook: Vellune Tiffany Mini Table Lamp for Cozy Modern Ambient Lighting
     Updated: 2026-11-11T01:08:04Z
+    Author: Vellune
+  - [Top 7 Reasons Vellune's Minimalist Floor Lamp is the Pinnacle of Modern Ambient Lighting and Aesthetic Home Decor](https://vellune.design/blogs/news/top-7-reasons-vellunes-minimalist-floor-lamp-is-the-pinnacle-of-modern-ambient-lighting-and-aesthetic-home-decor): Top 7 Reasons Vellune's Minimalist Floor Lamp is the Pinnacle of Modern Ambient Lighting and Aesthetic Home Decor
+    Updated: 2026-11-16T00:10:25Z
+    Author: Vellune
+  - [Maximize Your Living Room's Elegance with Vellune's Smart LED Standing Lamps for Modern Ambient Lighting Updates](https://vellune.design/blogs/news/maximize-your-living-rooms-elegance-with-vellunes-smart-led-standing-lamps-for-modern-ambient-lighting-updates): Maximize Your Living Room's Elegance with Vellune's Smart LED Standing Lamps for Modern Ambient Lighting Updates
+    Updated: 2026-11-17T00:21:45Z
+    Author: Vellune
+  - [Revolutionize Your Smart LED Décor: Discover Vellune Lighting and Minimalist Bedroom Ideas](https://vellune.design/blogs/news/revolutionize-your-smart-led-decor-discover-vellune-lighting-and-minimalist-bedroom-ideas): Revolutionize Your Smart LED Décor: Discover Vellune Lighting and Minimalist Bedroom Ideas
+    Updated: 2026-11-18T01:06:50Z
     Author: Vellune
 
 ## Store Pages
