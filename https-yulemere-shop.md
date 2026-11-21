@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-05T05:41:06Z
 - Contact Email: meyermarlonkl031023@gmail.com
-- Updated At: 2026-11-14T01:19:54.493Z
+- Updated At: 2026-11-21T01:21:47.935Z
 
 ## Products
 
@@ -3162,28 +3162,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/3605/9041/files/GAR1165Pre-LitLongNeedlePine_PineconeChristmasGarlandWinterCenterpiece_1.jpg?v=1792476776
   Price: $228.99 USD
-- [Snow Covered Glitter White Peony Pinecone | Yulemere](https://yulemere.shop/products/snow-covered-glitter-white-peony-pinecone-holiday-centerpiece): Snow Covered Glitter White Peony Pinecone Holiday Centerpiece. A centerpiece for tables and consoles. Add it to your cart today.
-  Updated: 2026-10-20T18:13:15Z
-  Vendor: Yulemere
-  Product Type: Holiday Centerpieces
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0745/3605/9041/files/AR1903LifestyleSnowCoveredGlitterWhitePeony_Pinecone_RedGlitterRosehipBerryinRedGlassVaseChristmasArr.jpg?v=1792476777
-  Price: $98.99 USD
-- [Moving Flameless LED Silver 9 Inch Taper Candles | Yulemere](https://yulemere.shop/products/moving-flameless-led-silver-9-inch-taper-candles): Moving Flameless LED Silver 9 Inch Taper Candles. Candlelight look with no open flame. Shop Yulemere today.
-  Updated: 2026-10-20T18:13:04Z
-  Vendor: Yulemere
-  Product Type: Flameless Candles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0745/3605/9041/files/HMD1716MovingFlamelessLEDSilver9TaperCandleswithRemoteSetof2_2.jpg?v=1792476779
-  Price: $42.99 USD
-- [Gold Metal Circle of Life 9 Candle Modern | Yulemere](https://yulemere.shop/products/gold-metal-circle-of-life-9-candle-modern-menorah): Gold Metal Circle of Life 9 Candle Modern Menorah. A holder for candles on mantels and tables. Order from Yulemere.
-  Updated: 2026-10-20T19:08:31Z
-  Vendor: Yulemere
-  Product Type: Candle Holders
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0745/3605/9041/files/GoldMetalCircleofLife9CandleMenorah-HMD1510.jpg?v=1792476780
-  Price: $53.99 USD
-[List Continued](https://yulemere.shop/a/llms-agent/llms.txt?shop=3yu0md-rp.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4ODA5MTk2MjI0NjczLCJsYXN0X3ZhbHVlIjoiODgwOTE5NjIyNDY3MyJ9)
+[List Continued](https://yulemere.shop/a/llms-agent/llms.txt?shop=3yu0md-rp.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4ODA5MTk1Nzk4Njg5LCJsYXN0X3ZhbHVlIjoiODgwOTE5NTc5ODY4OSJ9)
 
 ## Collections
 
@@ -3197,7 +3176,7 @@
   Updated: 2026-10-20T18:32:08Z
   Total Products: 56
 - [Holiday Stems](https://yulemere.shop/collections/holiday-stems)
-  Updated: 2026-10-20T18:33:02Z
+  Updated: 2026-11-17T12:18:15Z
   Total Products: 91
 - [Christmas Ornaments](https://yulemere.shop/collections/christmas-ornaments)
   Updated: 2026-10-20T18:34:10Z
@@ -3277,6 +3256,15 @@
     Author: Yulemere
   - [How to Elevate Your Holiday Staircase Greenery with Yulemere's Luxurious Pinecones and Burgundy Velvet Ribbon Christmas Decor](https://yulemere.shop/blogs/news/how-to-elevate-your-holiday-staircase-greenery-with-yulemeres-luxurious-pinecones-and-burgundy-velvet-ribbon-christmas-decor): How to Elevate Your Holiday Staircase Greenery with Yulemere's Luxurious Pinecones and Burgundy Velvet Ribbon Christmas Decor
     Updated: 2026-11-11T11:04:52Z
+    Author: Yulemere
+  - [Creating Stunning Front Door Holiday Decor with Yulemere's Dark Burgundy Gold Glitter Velvet Stem and Lifelike Christmas Garland](https://yulemere.shop/blogs/news/creating-stunning-front-door-holiday-decor-with-yulemeres-dark-burgundy-gold-glitter-velvet-stem-and-lifelike-christmas-garland): Creating Stunning Front Door Holiday Decor with Yulemere's Dark Burgundy Gold Glitter Velvet Stem and Lifelike Christmas Garland
+    Updated: 2026-11-16T11:03:57Z
+    Author: Yulemere
+  - [Enhance Your Holiday Ambiance with Yulemere's Real Touch Christmas Mantel and Norfolk Pine Garlands Decorated with Antique Mercury Glass and Burgundy Velvet Ribbon](https://yulemere.shop/blogs/news/enhance-your-holiday-ambiance-with-yulemeres-real-touch-christmas-mantel-and-norfolk-pine-garlands-decorated-with-antique-mercury-glass-and-burgundy-velvet-ribbon): Enhance Your Holiday Ambiance with Yulemere's Real Touch Christmas Mantel and Norfolk Pine Garlands Decorated with Antique Mercury Glass and Burgundy Velvet Ribbon
+    Updated: 2026-11-17T11:03:07Z
+    Author: Yulemere
+  - [Crafting a Vintage Christmas Charm with Yulemere's Lifelike Boxwood Centerpiece for Front Door Holiday Decor and Classic Table Ambiance](https://yulemere.shop/blogs/news/crafting-a-vintage-christmas-charm-with-yulemeres-lifelike-boxwood-centerpiece-for-front-door-holiday-decor-and-classic-table-ambiance): Crafting a Vintage Christmas Charm with Yulemere's Lifelike Boxwood Centerpiece for Front Door Holiday Decor and Classic Table Ambiance
+    Updated: 2026-11-18T11:04:31Z
     Author: Yulemere
 
 ## Store Pages
