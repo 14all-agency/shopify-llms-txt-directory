@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2026-09-16T11:40:41Z
 - Contact Email: office.margal24@gmail.com
-- Updated At: 2026-11-13T01:01:04.567Z
+- Updated At: 2026-11-21T01:00:47.986Z
 
 ## Collections
 
@@ -88,6 +88,18 @@
     Updated: 2026-11-12T09:00:31Z
     Author: Galmar Jawellery
     Tags: care, how to clean rings, jewellery, jewelry, jewelry cleaning tips, preventing tarnish, ring, ring maintenance, tarnish, tips for ring care
+  - [A Beginner's Guide to Basic Jewelry Upkeep for Rings](https://www.galmar-jewellery.com/blogs/news/a-beginners-guide-to-basic-jewelry-upkeep-for-rings): A Beginner's Guide to Basic Jewelry Upkeep for Rings
+    Updated: 2026-11-13T09:02:14Z
+    Author: Galmar Jawellery
+    Tags: basic jewelry upkeep, cleaning, how to clean rings, jewellery, jewelry, maintenance tips, ring, ring care, shine restoration, upkeep
+  - [Jewelry Maintenance Hacks for Making Your Rings Shine](https://www.galmar-jewellery.com/blogs/news/jewelry-maintenance-hacks-for-making-your-rings-shine): Jewelry Maintenance Hacks for Making Your Rings Shine
+    Updated: 2026-11-19T09:00:28Z
+    Author: Galmar Jawellery
+    Tags: care, effective jewelry care techniques, how to clean jewelry, jewellery, jewelry, jewelry maintenance, ring, ring cleaning, rings, shine tips
+  - [Protect Your Rings with These Simple Jewelry Metrics](https://www.galmar-jewellery.com/blogs/news/protect-your-rings-with-these-simple-jewelry-metrics): Protect Your Rings with These Simple Jewelry Metrics
+    Updated: 2026-11-20T09:02:08Z
+    Author: Galmar Jawellery
+    Tags: best practices for jewelry care, care, how to clean rings, jewellery, jewelry, jewelry maintenance, ring, ring protection, rings, silver polishing
 
 ## Store Pages
 
