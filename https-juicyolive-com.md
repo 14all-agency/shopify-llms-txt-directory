@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2023-10-09T12:08:55Z
 - Contact Email: flavours@juicyolive.com
-- Updated At: 2026-11-14T00:32:23.661Z
+- Updated At: 2026-11-21T00:33:38.654Z
 
 Boost your health with our high polyphenol, cold pressed extra virgin olive oil. Lab-tested for purity and flavor. Shop our premium collection today!
 
@@ -91,7 +91,7 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-TIN_2_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
     Price: $298.35 USD
 - [Organic Cold-Pressed Extra Virgin Olive Oil, Mild & Flavorous | Juicy Olive](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous):  organic early-harvest extra virgin olive oil from Troy. Lab- 620 mg/kg polyphenols, cold-pressed with fresh, balanced herbaceous notes.
-  Updated: 2026-11-10T08:40:31Z
+  Updated: 2026-11-16T12:37:45Z
   Vendor: Juicy Olive Squeezed
   Product Type: Standard Items
   Availability: Available
@@ -256,7 +256,7 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Updated: 2026-11-04T07:13:21Z
   Total Products: 74
 - [Main Products](https://juicyolive.com/collections/main-products): Shop single-estate organic extra virgin olive oils from Turkey. Lab-tested up to 840 mg/kg polyphenols across 3 profiles: Fruity, Mild, and Smooth. Free shipping.
-  Updated: 2026-11-10T09:26:16Z
+  Updated: 2026-11-17T12:08:30Z
   Total Products: 18
 
 ## Blogs
@@ -360,6 +360,12 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   - [Is Organic EVOO Better? How to Choose | Juicy Olive](https://juicyolive.com/blogs/article/is-organic-extra-virgin-olive-oil-better): Is Organic EVOO Better? How to Choose | Juicy Olive
     Updated: 2026-11-04T03:25:44Z
     Author: Houman Hosseini
+  - [Unfiltered Olive Oil: What Natural Settling Really Means](https://juicyolive.com/blogs/article/unfiltered-olive-oil-what-natural-settling-means-and-why-it-matters): Unfiltered Olive Oil: What Natural Settling Really Means
+    Updated: 2026-11-16T13:08:12Z
+    Author: Houman Hosseini
+  - [Buying Olive Oil Online: Shipping, Heat & Freshness Explained](https://juicyolive.com/blogs/article/olive-oil-delivery-shipping-freshness): Buying Olive Oil Online: Shipping, Heat & Freshness Explained
+    Updated: 2026-11-16T13:08:13Z
+    Author: Houman Hosseini
 
 ## Store Pages
 
@@ -401,15 +407,23 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Updated: 2026-10-07T09:43:28Z
 - [High-Polyphenol Olive Oil USA: Buy Online](https://juicyolive.com/pages/buy-high-polyphenol-olive-oil-usa): .jo-us-page { max-width: 1080px; margin: 0 auto; padding: 0 20px 60px 20px; color: #242b26; line-height: 1.8; box-sizing: border-box; } .jo-header-...
   Updated: 2026-10-15T05:38:05Z
-- [Private Label Extra Virgin Olive Oil | Organic, Türkiye | Juicy Olive](https://juicyolive.com/pages/private-label-extra-virgin-olive-oil): Juicy Olive produces  organic, single-estate, early harvest extra virgin olive oil in the Troy region of Türkiye. Besides our own bottles,...
-  Updated: 2026-11-10T08:50:32Z
+- [Olive Oil Wholesale & Bulk Supply from Türkiye | ASK FARMS](https://juicyolive.com/pages/olive-oil-wholesale): 
+  Updated: 2026-11-19T15:38:30Z
+- [Bulk Olive Oil Supplier | IBC & Flexitank | ASK FARMS](https://juicyolive.com/pages/bulk-olive-oil): 
+  Updated: 2026-11-19T15:38:19Z
+- [Private Label Olive Oil | Custom Bottles | ASK FARMS](https://juicyolive.com/pages/private-label-olive-oil): 
+  Updated: 2026-11-19T15:38:08Z
+- [ASK FARMS Wholesale | North Aegean Extra Virgin Olive Oil](https://juicyolive.com/pages/ask-farms-wholesale): 
+  Updated: 2026-11-19T15:37:57Z
+- [Juicy Olive Wholesale | Organic Extra Virgin Olive Oil](https://juicyolive.com/pages/juicy-olive-wholesale): 
+  Updated: 2026-11-19T15:37:37Z
 
 ## Policies
 
 - [Privacy Policy](https://juicyolive.com/policies/privacy-policy)
   Updated: 2023-11-04T08:58:40Z
 - [Shipping Policy](https://juicyolive.com/policies/shipping-policy)
-  Updated: 2026-11-10T07:04:20Z
+  Updated: 2026-11-20T10:59:36Z
 - [Refund Policy](https://juicyolive.com/policies/refund-policy)
   Updated: 2026-07-14T09:26:37Z
 - [Terms of Service](https://juicyolive.com/policies/terms-of-service)
