@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-28T13:02:33Z
 - Contact Email: yasarrolande561@gmail.com
-- Updated At: 2026-11-14T01:06:01.309Z
+- Updated At: 2026-11-21T01:22:58.960Z
 
 ## Products
 
@@ -248,7 +248,7 @@
   Image: https://cdn.shopify.com/s/files/1/0838/6537/0877/files/Gemini_Generated_Image_8xpeqm8xpeqm8xpe.png?v=1793121008
   Price: $49.99 USD
 - [Strawberry Candle Warmer Lamp - Flameless | Mossaline](https://mossaline.shop/products/strawberry-glass-candle-warmer-lamp-with-dimmer-and-timer): A strawberry glass candle warmer lamp with dimmer and timer. Melts jar candles with no flame. Shop now with free US shipping.
-  Updated: 2026-10-28T05:10:12Z
+  Updated: 2026-11-17T21:16:21Z
   Vendor: Mossaline
   Product Type: Candle Warmers
   Availability: Available
@@ -1502,7 +1502,7 @@
   Updated: 2026-10-27T18:58:44Z
   Total Products: 7
 - [Cottage Decor](https://mossaline.shop/collections/cottage-decor)
-  Updated: 2026-10-27T18:57:53Z
+  Updated: 2026-11-18T12:21:38Z
   Total Products: 9
 - [Spring and Summer Decor](https://mossaline.shop/collections/spring-and-summer-decor)
   Updated: 2026-10-27T18:57:17Z
@@ -1555,6 +1555,15 @@
     Author: Mossaline
   - [Cottagecore Home Decor Inspiration Featuring the Mossaline Soft Touch White Fern for Cozy Autumn Styling](https://mossaline.shop/blogs/news/cottagecore-home-decor-inspiration-featuring-the-mossaline-soft-touch-white-fern-for-cozy-autumn-styling): Cottagecore Home Decor Inspiration Featuring the Mossaline Soft Touch White Fern for Cozy Autumn Styling
     Updated: 2026-11-11T11:05:40Z
+    Author: Mossaline
+  - [Transform Your Space with the Mossaline™ Triple Fall Tree Iron Decor: Cozy Autumn Home Styling Ideas](https://mossaline.shop/blogs/news/transform-your-space-with-the-mossaline™-triple-fall-tree-iron-decor-cozy-autumn-home-styling-ideas): Transform Your Space with the Mossaline™ Triple Fall Tree Iron Decor: Cozy Autumn Home Styling Ideas
+    Updated: 2026-11-16T11:04:43Z
+    Author: Mossaline
+  - [Mossaline™ Framed Acrylic Elk Painting Inspire Cottagecore Home Decor and Thanksgiving Table Decor](https://mossaline.shop/blogs/news/mossaline™-framed-acrylic-elk-painting-inspire-cottagecore-home-decor-and-thanksgiving-table-decor): Mossaline™ Framed Acrylic Elk Painting Inspire Cottagecore Home Decor and Thanksgiving Table Decor
+    Updated: 2026-11-17T11:03:50Z
+    Author: Mossaline
+  - [Enhance Your Space with Mossaline™ Live Simply Give Thanks Signs for Cozy Cottagecore Home Decor](https://mossaline.shop/blogs/news/enhance-your-space-with-mossaline™-live-simply-give-thanks-signs-for-cozy-cottagecore-home-decor): Enhance Your Space with Mossaline™ Live Simply Give Thanks Signs for Cozy Cottagecore Home Decor
+    Updated: 2026-11-18T11:05:35Z
     Author: Mossaline
 
 ## Store Pages
