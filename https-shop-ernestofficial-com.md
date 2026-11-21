@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-21T15:47:11Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-14T00:16:39.081Z
+- Updated At: 2026-11-21T00:18:16.850Z
 
 ## Products
 
@@ -212,7 +212,7 @@
     Availability: Not Available
     Price: $65.00 USD
 - [Ernest Portrait Tee](https://shop.ernestofficial.com/products/ernest-portrait-tee): Black unisex tee Portrait style photo on the front Legalize Country Music road shows on the back
-  Updated: 2026-10-05T14:01:09Z
+  Updated: 2026-11-16T17:22:59Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -446,7 +446,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [This Fire Tour 2023 Tee](https://shop.ernestofficial.com/products/this-fire-2023-tour-tee): Black unisex tee This Fire tour 2023 graphic on the chest 2023 tour cities on the back 100% Cotton
-  Updated: 2026-10-05T14:01:16Z
+  Updated: 2026-11-16T02:36:45Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -842,14 +842,14 @@
   Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/Deep-Blue-CD.png?v=1773857892
   Price: $13.98 USD
 - [Deep Blue Vinyl](https://shop.ernestofficial.com/products/deep-blue-vinyl): Triple threat talent ERNEST will release his new album Deep Blue on May 1. The 13-song collection continues to mix his country sensibilities with a coastal feel. Produced by ERNEST and Jacob Durrett the album features previously released single “Lorelei,” which Billboard named “a worthy inclusion to country music’s history of balmy, tropical-infused tracks,” and “Boat Named After You.” Deep Blue also includes a previously unreleased demo by Toby Keith, “End of The Night,” which ERNEST first recorded for Apple Music’s ‘Lost & Found’ series in October of 2025. Deep Blue by Ernest on Dark Water 2LP vinyl Gatefold jacket with inner sleeve Tracklist 1 Lorelei2 Edge Of The U.S.A. 3 What’s A Little Rain 4 Lucky 5 Quit While We’re Behind6 Somewhere In The Caribbean7 End Of The Night 8 Waste A Day 9 Deep Blue 10 If I’m Not Careful 11 Same Moon 12 Boat Named After You 13 Time Is A Thief (feat. Lukas Nelson)
-  Updated: 2026-11-13T00:41:45Z
+  Updated: 2026-11-15T01:02:58Z
   Vendor: ERNEST Official Store
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/Deep-Blue-Vinyl_1b275325-9b0f-40bb-957e-9b5a2bbf4df0.png?v=1774626970
   Price: $39.98 USD
 - [Deep Blue Vinyl (Signed)](https://shop.ernestofficial.com/products/deep-blue-vinyl-signed): Triple threat talent ERNEST will release his new album Deep Blue on May 1. The 13-song collection continues to mix his country sensibilities with a coastal feel. Produced by ERNEST and Jacob Durrett the album features previously released single “Lorelei,” which Billboard named “a worthy inclusion to country music’s history of balmy, tropical-infused tracks,” and “Boat Named After You.” Deep Blue also includes a previously unreleased demo by Toby Keith, “End of The Night,” which ERNEST first recorded for Apple Music’s ‘Lost & Found’ series in October of 2025. Deep Blue by Ernest on Dark Water 2LP vinyl Inner sleeve SIGNED by Ernest Gatefold jacket Tracklist 1 Lorelei2 Edge Of The U.S.A. 3 What’s A Little Rain 4 Lucky 5 Quit While We’re Behind6 Somewhere In The Caribbean7 End Of The Night 8 Waste A Day 9 Deep Blue 10 If I’m Not Careful 11 Same Moon 12 Boat Named After You 13 Time Is A Thief (feat. Lukas Nelson)
-  Updated: 2026-11-09T14:15:42Z
+  Updated: 2026-11-17T18:35:28Z
   Vendor: ERNEST Official Store
   Product Type: Vinyl
   Availability: Available
@@ -886,7 +886,7 @@
   Updated: 2026-10-28T11:21:10Z
   Total Products: 12
 - [Apparel](https://shop.ernestofficial.com/collections/apparel)
-  Updated: 2026-10-28T11:21:10Z
+  Updated: 2026-11-17T12:22:41Z
   Total Products: 38
 - [Accessories](https://shop.ernestofficial.com/collections/accessories)
   Updated: 2026-10-28T20:17:29Z
@@ -895,19 +895,19 @@
   Updated: 2026-10-28T20:17:29Z
   Total Products: 11
 - [Music](https://shop.ernestofficial.com/collections/music)
-  Updated: 2026-11-13T12:24:20Z
+  Updated: 2026-11-18T12:24:04Z
   Total Products: 7
 - [All](https://shop.ernestofficial.com/collections/all)
-  Updated: 2026-11-13T12:24:20Z
+  Updated: 2026-11-18T12:24:04Z
   Total Products: 63
 - [Live From The South Tour](https://shop.ernestofficial.com/collections/live-from-the-south-tour)
   Updated: 2026-10-12T11:25:14Z
   Total Products: 7
 - [Deep Blue](https://shop.ernestofficial.com/collections/deep-blue)
-  Updated: 2026-11-13T12:24:20Z
+  Updated: 2026-11-18T12:24:04Z
   Total Products: 8
 - [Summer ](https://shop.ernestofficial.com/collections/summer-)
-  Updated: 2026-10-28T20:17:29Z
+  Updated: 2026-11-17T12:22:41Z
   Total Products: 38
 
 ## Store Pages
