@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-09T11:03:01Z
 - Contact Email: rarelyfllc@gmail.com
-- Updated At: 2026-11-13T01:11:58.384Z
+- Updated At: 2026-11-21T01:09:42.441Z
 
 ## About RareLyf 
 
@@ -42,7 +42,7 @@
 ## Products
 
 - [RareLyf Calm](https://rarelyf.com/products/calm): RareLyf Calm supports stress, sleep, mood, restoration, and the absorption layer that decides whether any of it reaches you. No melatonin. No proprietary blends. No morning fog. Just 15 ingredients with every dose printed on the label. ✔ Quiet the mind instead of sedating the body✔ Wake up clear, not heavy✔ Five layers covered, not one✔ Know exactly what you're taking, down to the milligram Cover one layer and the other four still decide how the night goes.
-  Updated: 2026-11-02T06:20:16Z
+  Updated: 2026-11-15T15:15:35Z
   Vendor: RareLyf
   Product Type: 
   Availability: Available
