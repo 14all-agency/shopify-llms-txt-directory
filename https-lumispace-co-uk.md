@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-08-20T20:23:54Z
 - Contact Email: bozovichgoldina@gmail.com
-- Updated At: 2026-11-14T01:04:43.930Z
+- Updated At: 2026-11-21T01:21:26.782Z
 
 ## Products
 
@@ -457,6 +457,15 @@
     Author: Lumi Space™
   - [Lumispace™ Halo Innovations with Portable Table Lamps for Luxury Ambient Lighting Through Qi Wireless Charging and Waterproof Features](https://lumispace.co.uk/blogs/news/lumispace™-halo-innovations-with-portable-table-lamps-for-luxury-ambient-lighting-through-qi-wireless-charging-and-waterproof-features): Lumispace™ Halo Innovations with Portable Table Lamps for Luxury Ambient Lighting Through Qi Wireless Charging and Waterproof Features
     Updated: 2026-11-11T11:03:41Z
+    Author: Lumi Space™
+  - [Creating Luxurious Atmospheres: The Versatile Lumispace™ Sofia Dome Cordless Rechargeable Table Lamp Experience](https://lumispace.co.uk/blogs/news/creating-luxurious-atmospheres-the-versatile-lumispace™-sofia-dome-cordless-rechargeable-table-lamp-experience): Creating Luxurious Atmospheres: The Versatile Lumispace™ Sofia Dome Cordless Rechargeable Table Lamp Experience
+    Updated: 2026-11-16T11:02:46Z
+    Author: Lumi Space™
+  - [Revolutionize Hospitality with the Lumispace™ Jupiter V2 Cordless Rechargeable Table Lamp: The Future of Luxury Ambient Lighting in Restaurants](https://lumispace.co.uk/blogs/news/revolutionize-hospitality-with-the-lumispace™-jupiter-v2-cordless-rechargeable-table-lamp-the-future-of-luxury-ambient-lighting-in-restaurants): Revolutionize Hospitality with the Lumispace™ Jupiter V2 Cordless Rechargeable Table Lamp: The Future of Luxury Ambient Lighting in Restaurants
+    Updated: 2026-11-17T11:02:05Z
+    Author: Lumi Space™
+  - [Lumispace™ Liberty Rechargeable Cordless Table Lamp: Your Go-To for Luxury Ambient Lighting in Homes and Restaurants](https://lumispace.co.uk/blogs/news/lumispace™-liberty-rechargeable-cordless-table-lamp-your-go-to-for-luxury-ambient-lighting-in-homes-and-restaurants): Lumispace™ Liberty Rechargeable Cordless Table Lamp: Your Go-To for Luxury Ambient Lighting in Homes and Restaurants
+    Updated: 2026-11-18T11:03:24Z
     Author: Lumi Space™
 
 ## Store Pages
