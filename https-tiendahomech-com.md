@@ -6,7 +6,7 @@
 - Timezone: America/Santiago
 - Created At: 2026-09-11T04:27:44Z
 - Contact Email: tutiendahomech@gmail.com
-- Updated At: 2026-11-14T00:52:07.912Z
+- Updated At: 2026-11-21T01:01:15.303Z
 
 ## Products
 
