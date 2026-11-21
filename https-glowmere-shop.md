@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-08T11:39:53Z
 - Contact Email: gilebrooks@gmail.com
-- Updated At: 2026-11-14T01:20:49.239Z
+- Updated At: 2026-11-21T01:27:29.216Z
 
 ## Products
 
@@ -1651,6 +1651,15 @@
     Author: Glowmere
   - [Mastering Light Layers: The Ultimate Guide to Modern Floor Lamps and Accent Lighting in Every Room](https://glowmere.shop/blogs/news/mastering-light-layers-the-ultimate-guide-to-modern-floor-lamps-and-accent-lighting-in-every-room): Mastering Light Layers: The Ultimate Guide to Modern Floor Lamps and Accent Lighting in Every Room
     Updated: 2026-11-11T11:05:17Z
+    Author: Glowmere
+  - [Discover the Magic of Glowmere™ Table Lamps: Tips for Dimmable Mid-Century Modern Lighting and Weatherproof Outdoor String Light Ideas](https://glowmere.shop/blogs/news/discover-the-magic-of-glowmere™-table-lamps-tips-for-dimmable-mid-century-modern-lighting-and-weatherproof-outdoor-string-light-ideas): Discover the Magic of Glowmere™ Table Lamps: Tips for Dimmable Mid-Century Modern Lighting and Weatherproof Outdoor String Light Ideas
+    Updated: 2026-11-16T11:04:19Z
+    Author: Glowmere
+  - [Discovering Glowmere™: Transforming Living Rooms with Modern and Aesthetic Lighting Solutions and Outdoor String Light Ideas](https://glowmere.shop/blogs/news/discovering-glowmere™-transforming-living-rooms-with-modern-and-aesthetic-lighting-solutions-and-outdoor-string-light-ideas): Discovering Glowmere™: Transforming Living Rooms with Modern and Aesthetic Lighting Solutions and Outdoor String Light Ideas
+    Updated: 2026-11-17T11:03:29Z
+    Author: Glowmere
+  - [Glowmere™ Kingpin Transparent Disk Black Marble Table Lamp: Your Guide to Choosing an Aesthetic Bedside Accent Lamp and Modern Living Room Lighting Tips](https://glowmere.shop/blogs/news/glowmere™-kingpin-transparent-disk-black-marble-table-lamp-your-guide-to-choosing-an-aesthetic-bedside-accent-lamp-and-modern-living-room-lighting-tips): Glowmere™ Kingpin Transparent Disk Black Marble Table Lamp: Your Guide to Choosing an Aesthetic Bedside Accent Lamp and Modern Living Room Lighting Tips
+    Updated: 2026-11-18T11:04:57Z
     Author: Glowmere
 
 ## Store Pages
