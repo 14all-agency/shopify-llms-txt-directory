@@ -6,7 +6,7 @@
 - Timezone: Australia/Adelaide
 - Created At: 2024-12-26T06:33:10Z
 - Contact Email: cerberuscoins@proton.me
-- Updated At: 2026-11-13T03:12:32.615Z
+- Updated At: 2026-11-21T00:18:04.204Z
 
 ## Products
 
@@ -2600,14 +2600,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/2319/4547/files/Pf2z9dtB9cF48Mrke5rA7Hqbn3N76C.jpg?v=1787566042
   Price: $34.00 USD
-- [Tetricus I Antoninianus - LAETITIA AVG N](https://www.cerberuscoins.com/products/213): Tetricus I Size: 18mm Weight: 2.4 gramsObverse: IMP TETRICVS AVG radiate cuirassed bust rightReverse: LAETITIA AVG N Laetitia standing left holding wreath and baton
-  Updated: 2026-08-28T20:38:54Z
-  Vendor: Cerberus Coins
-  Product Type: Roman Imperial Coins
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0693/2319/4547/files/Kyw3Fq2TaXC4Yj8nk6zJctC59FpoMx.jpg?v=1787566070
-  Price: $16.99 USD
-[List Continued](https://www.cerberuscoins.com/a/llms-agent/llms.txt?shop=c1iuxf-2w.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MTQxODE5NzA3NTcxLCJsYXN0X3ZhbHVlIjoiODE0MTgxOTcwNzU3MSJ9)
+[List Continued](https://www.cerberuscoins.com/a/llms-agent/llms.txt?shop=c1iuxf-2w.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MTQxODE5NjQyMDM1LCJsYXN0X3ZhbHVlIjoiODE0MTgxOTY0MjAzNSJ9)
 
 ## Collections
 
@@ -2615,19 +2608,19 @@
   Updated: 2026-04-20T18:34:22Z
   Total Products: 0
 - [Other items from this store](https://www.cerberuscoins.com/collections/best--products)
-  Updated: 2026-11-13T02:09:24Z
-  Total Products: 3611
+  Updated: 2026-11-20T23:08:08Z
+  Total Products: 3623
 - [Newest Products](https://www.cerberuscoins.com/collections/newest-products): Cerberus Coins, Cerberuscoins, Vcoins, Newest, Latest, New Stock, Ancient, Coins, Roman, Greek, Persian, Byzantine, Islamic, Silver, gold, bronze
-  Updated: 2026-11-13T02:09:24Z
-  Total Products: 3611
+  Updated: 2026-11-20T23:08:08Z
+  Total Products: 3623
 - [Augustus](https://www.cerberuscoins.com/collections/augustus)
-  Updated: 2026-11-12T12:17:52Z
-  Total Products: 95
+  Updated: 2026-11-20T06:05:47Z
+  Total Products: 98
 - [Featured Ancient Coins & Antiquities](https://www.cerberuscoins.com/collections/featured-products): A selection of our finest Ancient Roman, Greek, Byzantine, Archaemenid and Celtic coins available for .
-  Updated: 2026-11-13T02:06:02Z
-  Total Products: 97
+  Updated: 2026-11-20T06:05:47Z
+  Total Products: 89
 - [Tiberius](https://www.cerberuscoins.com/collections/tiberius)
-  Updated: 2026-11-12T12:17:52Z
+  Updated: 2026-11-17T12:18:01Z
   Total Products: 46
 - [Trebonianus Gallus](https://www.cerberuscoins.com/collections/trebonianus-gallus)
   Updated: 2026-11-08T06:38:25Z
@@ -2690,10 +2683,10 @@
   Updated: 2026-10-31T19:00:47Z
   Total Products: 30
 - [Diocletian](https://www.cerberuscoins.com/collections/diocletian)
-  Updated: 2026-10-31T18:41:17Z
+  Updated: 2026-11-19T12:18:14Z
   Total Products: 35
 - [Constantine I](https://www.cerberuscoins.com/collections/constantine-i)
-  Updated: 2026-11-09T03:34:05Z
+  Updated: 2026-11-20T12:16:40Z
   Total Products: 336
 - [Helena](https://www.cerberuscoins.com/collections/helena)
   Updated: 2026-11-04T12:15:13Z
@@ -2702,13 +2695,13 @@
   Updated: 2026-08-29T16:06:13Z
   Total Products: 21
 - [Constantine II](https://www.cerberuscoins.com/collections/constantine-ii)
-  Updated: 2026-11-09T03:34:05Z
+  Updated: 2026-11-18T12:17:08Z
   Total Products: 140
 - [Constantius II](https://www.cerberuscoins.com/collections/constantius-ii)
-  Updated: 2026-11-09T03:34:05Z
+  Updated: 2026-11-18T12:17:08Z
   Total Products: 175
 - [Constans](https://www.cerberuscoins.com/collections/constans)
-  Updated: 2026-11-09T03:34:05Z
+  Updated: 2026-11-18T12:17:08Z
   Total Products: 104
 - [Constantius Gallus](https://www.cerberuscoins.com/collections/constantius-gallus)
   Updated: 2026-08-29T16:06:06Z
@@ -2753,11 +2746,11 @@
   Updated: 2026-10-31T19:12:21Z
   Total Products: 7
 - [Greek](https://www.cerberuscoins.com/collections/greek)
-  Updated: 2026-11-13T01:58:47Z
-  Total Products: 582
+  Updated: 2026-11-20T02:30:03Z
+  Total Products: 584
 - [Byzantine](https://www.cerberuscoins.com/collections/ancient-byzantine-coins)
-  Updated: 2026-11-11T12:16:30Z
-  Total Products: 160
+  Updated: 2026-11-20T23:04:39Z
+  Total Products: 161
 - [Egyptian](https://www.cerberuscoins.com/collections/ancient-egyptian-coins)
   Updated: 2026-11-04T01:47:53Z
   Total Products: 32
@@ -2765,13 +2758,13 @@
   Updated: 2026-08-29T16:06:11Z
   Total Products: 24
 - [Judaean](https://www.cerberuscoins.com/collections/ancient-judean-coins)
-  Updated: 2026-11-08T12:15:49Z
+  Updated: 2026-11-17T12:18:01Z
   Total Products: 65
 - [Herennia Etruscilla](https://www.cerberuscoins.com/collections/herennia-etruscilla)
   Updated: 2026-09-24T01:14:06Z
   Total Products: 8
 - [Herennius Etruscus](https://www.cerberuscoins.com/collections/herennius-etruscus)
-  Updated: 2026-08-29T16:06:11Z
+  Updated: 2026-11-20T12:16:40Z
   Total Products: 5
 - [Gordian III](https://www.cerberuscoins.com/collections/gordian-iii)
   Updated: 2026-11-07T12:16:51Z
@@ -2831,14 +2824,14 @@
   Updated: 2026-11-13T02:06:11Z
   Total Products: 79
 - [Hadrian](https://www.cerberuscoins.com/collections/hadrian)
-  Updated: 2026-11-09T12:16:19Z
-  Total Products: 73
+  Updated: 2026-11-20T06:09:27Z
+  Total Products: 74
 - [Claudius](https://www.cerberuscoins.com/collections/claudius)
   Updated: 2026-11-01T07:21:03Z
   Total Products: 57
 - [Trajan](https://www.cerberuscoins.com/collections/trajan)
-  Updated: 2026-11-03T12:14:48Z
-  Total Products: 87
+  Updated: 2026-11-20T06:09:27Z
+  Total Products: 89
 - [Nerva](https://www.cerberuscoins.com/collections/nerva)
   Updated: 2026-11-01T06:52:45Z
   Total Products: 11
@@ -2876,7 +2869,7 @@
   Updated: 2026-09-08T00:45:20Z
   Total Products: 1
 - [Septimius Severus](https://www.cerberuscoins.com/collections/septimius-severus)
-  Updated: 2026-10-26T20:02:20Z
+  Updated: 2026-11-19T12:18:14Z
   Total Products: 98
 - [Carausius](https://www.cerberuscoins.com/collections/carausius)
   Updated: 2026-05-14T13:41:34Z
@@ -2903,14 +2896,14 @@
   Updated: 2026-05-14T13:41:34Z
   Total Products: 2
 - [Drusus](https://www.cerberuscoins.com/collections/drusus)
-  Updated: 2026-11-09T02:48:47Z
-  Total Products: 5
+  Updated: 2026-11-20T20:15:43Z
+  Total Products: 6
 - [Macrinus](https://www.cerberuscoins.com/collections/macrinus)
   Updated: 2026-09-29T01:48:47Z
   Total Products: 5
 - [Germanicus](https://www.cerberuscoins.com/collections/germanicus)
-  Updated: 2026-11-09T02:48:48Z
-  Total Products: 13
+  Updated: 2026-11-20T20:15:43Z
+  Total Products: 14
 - [Unidentified](https://www.cerberuscoins.com/collections/unidentified)
   Updated: 2026-04-20T18:34:33Z
   Total Products: 0
@@ -2918,7 +2911,7 @@
   Updated: 2026-07-11T00:59:40Z
   Total Products: 2
 - [Proto-coins](https://www.cerberuscoins.com/collections/proto-coins)
-  Updated: 2026-11-07T05:40:36Z
+  Updated: 2026-11-15T12:16:45Z
   Total Products: 13
 - [Philip II](https://www.cerberuscoins.com/collections/philip-ii)
   Updated: 2026-09-20T22:34:24Z
@@ -2948,11 +2941,11 @@
   Updated: 2026-10-23T22:12:04Z
   Total Products: 7
 - [Gaius](https://www.cerberuscoins.com/collections/gauis)
-  Updated: 2026-11-12T12:17:52Z
-  Total Products: 15
+  Updated: 2026-11-20T06:05:47Z
+  Total Products: 17
 - [Lucius](https://www.cerberuscoins.com/collections/lucius)
-  Updated: 2026-08-29T16:05:58Z
-  Total Products: 4
+  Updated: 2026-11-20T06:05:47Z
+  Total Products: 6
 - [Diadumenian](https://www.cerberuscoins.com/collections/diadumenian)
   Updated: 2026-10-23T03:04:22Z
   Total Products: 7
@@ -2960,8 +2953,8 @@
   Updated: 2026-08-29T16:05:56Z
   Total Products: 1
 - [Caligula](https://www.cerberuscoins.com/collections/caligula)
-  Updated: 2026-11-13T02:01:48Z
-  Total Products: 22
+  Updated: 2026-11-20T23:08:08Z
+  Total Products: 23
 - [Tetricus II](https://www.cerberuscoins.com/collections/tetricus-ii)
   Updated: 2026-08-29T16:06:08Z
   Total Products: 4
@@ -3005,16 +2998,16 @@
   Updated: 2026-05-14T13:39:26Z
   Total Products: 1
 - [Sold Products](https://www.cerberuscoins.com/collections/sold-products)
-  Updated: 2026-11-12T12:17:52Z
-  Total Products: 1354
+  Updated: 2026-11-20T20:11:06Z
+  Total Products: 1383
 - [Sold Products - Automatic DO NOT PUBLISH](https://www.cerberuscoins.com/collections/sold-products-automatic-do-not-publish): DO NOT PUBLISH This collection is used by a shopify flow automation as a list of products to generate a custom sorted of sold-out products stored by date of when the sold out happened and to store JSON in this collections metafield `Out of stock products sorted by inventoryLevels updateAt timestamp`
-  Updated: 2026-11-12T12:17:52Z
-  Total Products: 1354
+  Updated: 2026-11-20T20:11:06Z
+  Total Products: 1383
 - [Agrippina I](https://www.cerberuscoins.com/collections/agrippina-i)
   Updated: 2026-09-17T11:23:50Z
   Total Products: 3
 - [SoldOutDev](https://www.cerberuscoins.com/collections/soldoutdev)
-  Updated: 2026-11-12T21:52:49Z
+  Updated: 2026-11-20T21:52:23Z
   Total Products: 746
 - [Nabatean](https://www.cerberuscoins.com/collections/nabatean)
   Updated: 2026-08-29T16:06:11Z
@@ -3062,8 +3055,8 @@
   Updated: 2026-06-25T04:33:56Z
   Total Products: 1
 - [Archaemenid](https://www.cerberuscoins.com/collections/archaemenid)
-  Updated: 2026-11-13T01:20:07Z
-  Total Products: 51
+  Updated: 2026-11-20T03:15:48Z
+  Total Products: 52
 - [Opals](https://www.cerberuscoins.com/collections/opals): - Cerberus Ancient Coins and Antiquities
   Updated: 2026-09-15T02:14:41Z
   Total Products: 1
@@ -3232,6 +3225,12 @@
     Author: Cerberus Ancient Coins and Antiquities
   - [Unveiling the Mysteries of the Widows Mite in Ancient Judean History](https://www.cerberuscoins.com/blogs/news/unveiling-the-mysteries-of-the-widows-mite-in-ancient-judean-history): Unveiling the Mysteries of the Widows Mite in Ancient Judean History
     Updated: 2026-11-12T00:01:22Z
+    Author: Cerberus Ancient Coins and Antiquities
+  - [Your Historical Companion: Exploring How Roman Coins Reflect the Empire's Story](https://www.cerberuscoins.com/blogs/news/your-historical-companion-exploring-how-roman-coins-reflect-the-empires-story): Your Historical Companion: Exploring How Roman Coins Reflect the Empire's Story
+    Updated: 2026-11-19T00:01:06Z
+    Author: Cerberus Ancient Coins and Antiquities
+  - [How Ancient Judean Coins Reflect the Region's Turbulent War History](https://www.cerberuscoins.com/blogs/news/how-ancient-judean-coins-reflect-the-regions-turbulent-war-history): How Ancient Judean Coins Reflect the Region's Turbulent War History
+    Updated: 2026-11-19T00:01:25Z
     Author: Cerberus Ancient Coins and Antiquities
 
 ## Store Pages
