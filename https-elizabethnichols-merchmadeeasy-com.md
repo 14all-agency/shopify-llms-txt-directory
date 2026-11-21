@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2026-09-14T20:53:46Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-14T00:55:41.057Z
+- Updated At: 2026-11-21T00:57:01.576Z
 
 ## Products
 
 - [I Got A New One Elizabeth Nichols Dad Hat](https://elizabethnichols.merchmadeeasy.com/products/i-got-a-new-one-hat): I Got A New One Dad Hat in shade "stone" with front, back, and side embroidery. Adjustable back closure
-  Updated: 2026-10-10T00:18:55Z
+  Updated: 2026-11-14T02:42:24Z
   Vendor: Elizabeth Nichols
   Product Type: Accessories
   Availability: Available
@@ -60,7 +60,7 @@
     Availability: Available
     Price: $80.00 USD
 - [Elizabeth Nichols Kiss and Tour Tee 100% Cotton](https://elizabethnichols.merchmadeeasy.com/products/kiss-and-tour-tee): Kiss and Tour Tee in white with front print and back print. 100% Cotton
-  Updated: 2026-11-09T15:13:56Z
+  Updated: 2026-11-17T07:29:26Z
   Vendor: Elizabeth Nichols
   Product Type: Apparel
   Availability: Available
@@ -84,22 +84,22 @@
 ## Collections
 
 - [Home page](https://elizabethnichols.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-10T12:24:32Z
+  Updated: 2026-11-17T12:25:56Z
   Total Products: 4
 - [Apparel](https://elizabethnichols.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-10T12:24:32Z
+  Updated: 2026-11-17T12:25:56Z
   Total Products: 3
 - [Accessories](https://elizabethnichols.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-03T11:29:55Z
+  Updated: 2026-11-14T12:25:48Z
   Total Products: 1
 - [Hats](https://elizabethnichols.merchmadeeasy.com/collections/hats)
-  Updated: 2026-10-03T11:29:55Z
+  Updated: 2026-11-14T12:25:48Z
   Total Products: 1
 - [Music](https://elizabethnichols.merchmadeeasy.com/collections/music)
   Updated: 2026-09-28T18:28:59Z
   Total Products: 0
 - [All](https://elizabethnichols.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-10T12:24:32Z
+  Updated: 2026-11-17T12:25:56Z
   Total Products: 4
 
 ## Store Pages
