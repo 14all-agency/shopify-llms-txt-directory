@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-05-17T15:18:22Z
 - Contact Email: bliss108love@gmail.com
-- Updated At: 2026-11-13T01:01:13.780Z
+- Updated At: 2026-11-21T01:01:28.904Z
 
 ## Products
 
-- [A19 Circadian Light Bulb | Low Blue Light LED](https://kindlights.co/products/a19-circadian-light-bulb): Shop the Kind Lights A19 Circadian Light Bulb, a dimmable low blue light LED designed for comfortable day-to-night lighting and natural light rhythms
-  Updated: 2026-11-13T00:42:26Z
+- [Circadian Light Bulbs – A19 LED Bulb | KIND Lights](https://kindlights.co/products/a19-circadian-light-bulb): Shop KIND Lights A19 circadian light bulbs with three color settings, from bright daytime white to warm evening light. Dimmable LED bulbs for everyday use.
+  Updated: 2026-11-19T07:29:46Z
   Vendor: KIND Lights
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
   Image: https://cdn.shopify.com/s/files/1/1006/0034/8953/files/CircadianRetrofitRecessed.png?v=1784011401
   Price: $49.00 USD
 - [Amber Night Light | Warm Amber Light for Evening](https://kindlights.co/products/amber-night-light): Create a warmer nighttime environment with the Kind Lights Amber Night Light. Discover warm amber light designed for relaxing evening spaces and nighttime routines.
-  Updated: 2026-11-13T00:42:26Z
+  Updated: 2026-11-18T01:16:16Z
   Vendor: KIND Lights
   Product Type: 
   Availability: Available
@@ -57,10 +57,10 @@
 ## Collections
 
 - [Starter Kits](https://kindlights.co/collections/starter-kits): Every KIND Light Supports Your Entire Day.
-  Updated: 2026-09-28T09:49:36Z
+  Updated: 2026-11-18T12:24:14Z
   Total Products: 5
 - [A19 Circadian Bulb](https://kindlights.co/collections/a19-circadian-bulb)
-  Updated: 2026-10-15T07:25:55Z
+  Updated: 2026-11-18T12:24:14Z
   Total Products: 1
 - [E12 Circadian Bulb](https://kindlights.co/collections/e12-circadian-bulb)
   Updated: 2026-10-15T07:26:12Z
@@ -72,20 +72,26 @@
   Updated: 2026-10-15T07:26:51Z
   Total Products: 1
 - [Amber Night Light](https://kindlights.co/collections/amber-night-light)
-  Updated: 2026-10-15T07:27:17Z
+  Updated: 2026-11-18T12:24:14Z
   Total Products: 1
 
 ## Blogs
 
 - [Guides](https://kindlights.co/blogs/guides)
   - [Circadian Lighting: Guide to Better Home Lighting](https://kindlights.co/blogs/guides/the-complete-guide-to-circadian-lighting): Circadian Lighting: Guide to Better Home Lighting
-    Updated: 2026-09-24T12:20:43Z
+    Updated: 2026-11-17T05:53:50Z
     Author: Kip A
   - [Color Temperature Explained: 1800K, 3300K, 6000K Options](https://kindlights.co/blogs/guides/color-temperature-explained-1800k-3300k-6000k): Color Temperature Explained: 1800K, 3300K, 6000K Options
-    Updated: 2026-10-26T06:11:48Z
+    Updated: 2026-11-17T07:23:21Z
     Author: Kip A
   - [Complete Guide to Light and Sleep | Kind Lights](https://kindlights.co/blogs/guides/the-complete-guide-to-light-and-sleep): Complete Guide to Light and Sleep | Kind Lights
     Updated: 2026-10-26T06:00:02Z
+    Author: Kip A
+  - [The Complete Guide to Morning Light and Circadian Rhythm](https://kindlights.co/blogs/guides/the-complete-guide-to-morning-light-and-circadian-rhythm)
+    Updated: 2026-11-16T10:03:53Z
+    Author: Kip A
+  - [The Complete Guide to Light, Energy & Alertness | Kind Lights](https://kindlights.co/blogs/guides/the-complete-guide-to-light-energy-alertness): The Complete Guide to Light, Energy & Alertness | Kind Lights
+    Updated: 2026-11-16T09:56:45Z
     Author: Kip A
 - [Circadian home](https://kindlights.co/blogs/circadian-home)
   - [Circadian Lighting Benefits for Daily Rhythm](https://kindlights.co/blogs/circadian-home/why-circadian-lighting-matters-key-benefits-explained): Circadian Lighting Benefits for Daily Rhythm
@@ -103,14 +109,14 @@
   - [Nighttime Bathroom Lighting: Best Light for Late-Night Visits](https://kindlights.co/blogs/circadian-home/nighttime-bathroom-lighting): Nighttime Bathroom Lighting: Best Light for Late-Night Visits
     Updated: 2026-10-26T07:17:56Z
     Author: Kip A
-  - [The Complete Guide to Morning Light and Circadian Rhythm](https://kindlights.co/blogs/circadian-home/the-complete-guide-to-morning-light-and-circadian-rhythm)
-    Updated: 2026-11-09T15:37:04Z
-    Author: Kip A
   - [Home Office Lighting: Create the Perfect Setup | KIND Lights](https://kindlights.co/blogs/circadian-home/the-ultimate-home-office-lighting-guide-for-zoom-calls-eye-comfort): Home Office Lighting: Create the Perfect Setup | KIND Lights
-    Updated: 2026-11-09T14:49:22Z
+    Updated: 2026-11-16T11:20:27Z
     Author: Kip A
   - [Lighting for Afternoon Fatigue: Beat the 3 PM Slump](https://kindlights.co/blogs/circadian-home/lighting-for-afternoon-fatigue-how-to-beat-the-3-pm-slump): Lighting for Afternoon Fatigue: Beat the 3 PM Slump
-    Updated: 2026-11-09T15:27:58Z
+    Updated: 2026-11-16T11:03:02Z
+    Author: Kip A
+  - [Is 6000K Lighting Good for Mornings? A Complete Guide](https://kindlights.co/blogs/circadian-home/is-6000k-lighting-a-good-choice-for-mornings): Is 6000K Lighting Good for Mornings? A Complete Guide
+    Updated: 2026-11-16T10:11:24Z
     Author: Kip A
 - [Science](https://kindlights.co/blogs/science)
   - [How Circadian Lighting Works: Light & Your Body Clock](https://kindlights.co/blogs/science/how-circadian-lighting-works-for-better-daily-rhythms): How Circadian Lighting Works: Light & Your Body Clock
@@ -137,14 +143,17 @@
   - [Blue Light and Melatonin: How Blue Light Affects Sleep](https://kindlights.co/blogs/science/blue-light-and-melatonin-how-it-affects-sleep): Blue Light and Melatonin: How Blue Light Affects Sleep
     Updated: 2026-10-26T06:40:28Z
     Author: Kip A
-  - [The Complete Guide to Light, Energy & Alertness | Kind Lights](https://kindlights.co/blogs/science/the-complete-guide-to-light-energy-alertness): The Complete Guide to Light, Energy & Alertness | Kind Lights
-    Updated: 2026-11-09T15:36:44Z
-    Author: Kip A
-  - [Do Sunrise Alarm Clocks Really Work?](https://kindlights.co/blogs/science/do-sunrise-alarm-clocks-really-work)
-    Updated: 2026-11-09T15:31:27Z
+  - [Do Sunrise Alarm Clocks Really Work? Benefits and Tips](https://kindlights.co/blogs/science/do-sunrise-alarm-clocks-really-work): Do Sunrise Alarm Clocks Really Work? Benefits and Tips
+    Updated: 2026-11-16T10:55:39Z
     Author: Kip A
   - [Morning Light vs Sunrise Alarm Clocks: Which Is Better?](https://kindlights.co/blogs/science/morning-light-vs-sunrise-alarm-clocks-which-is-better-for-waking-up): Morning Light vs Sunrise Alarm Clocks: Which Is Better?
-    Updated: 2026-11-09T15:35:45Z
+    Updated: 2026-11-16T10:29:36Z
+    Author: Kip A
+  - [Coffee or Morning Sunlight: Which Helps You Feel More Awake?](https://kindlights.co/blogs/science/coffee-or-morning-sunlight-which-helps-you-feel-more-awake)
+    Updated: 2026-11-16T10:16:01Z
+    Author: Kip A
+  - [Morning Light Benefits: Why Early-Day Light Matters](https://kindlights.co/blogs/science/morning-light-benefits-why-early-day-light-matters)
+    Updated: 2026-11-19T05:06:53Z
     Author: Kip A
 - [Compare](https://kindlights.co/blogs/compare)
   - [CRI & LED Flicker Explained: How to Choose Better Lighting](https://kindlights.co/blogs/compare/cri-led-flicker-lighting-guide): CRI & LED Flicker Explained: How to Choose Better Lighting
