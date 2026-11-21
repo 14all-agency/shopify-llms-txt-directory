@@ -6,12 +6,12 @@
 - Timezone: America/Detroit
 - Created At: 2026-08-17T07:53:42Z
 - Contact Email: lilianacarmelo555@gmail.com
-- Updated At: 2026-11-13T03:05:19.745Z
+- Updated At: 2026-11-21T00:17:01.772Z
 
 ## Products
 
 - [Inline USB C Charging Protector - 140W Max | Wattwarden](https://wattwarden.shop/products/inline-usb-c-charging-protector-auto-disconnect-140w): Inline USB C charging protector with auto disconnect and two light modes. Use your own charger and cable. Shop now with free US shipping.
-  Updated: 2026-11-01T20:20:20Z
+  Updated: 2026-11-17T22:37:14Z
   Vendor: Wattwarden
   Product Type: Charging Protectors
   Availability: Available
@@ -48,6 +48,15 @@
 - [News](https://wattwarden.shop/blogs/news)
   - [How the Wattwarden™ Inline USB C Charging Protector Can Help You Reduce Your Electricity Bill with a Smart Power Strip](https://wattwarden.shop/blogs/news/how-the-wattwarden™-inline-usb-c-charging-protector-can-help-you-reduce-your-electricity-bill-with-a-smart-power-strip): How the Wattwarden™ Inline USB C Charging Protector Can Help You Reduce Your Electricity Bill with a Smart Power Strip
     Updated: 2026-11-13T03:02:53Z
+    Author: Wattwarden
+  - [Maximize Home Energy Efficiency with Wattwarden™: The Inline USB C Charging Protector and Other Energy Saving Devices](https://wattwarden.shop/blogs/news/maximize-home-energy-efficiency-with-wattwarden™-the-inline-usb-c-charging-protector-and-other-energy-saving-devices): Maximize Home Energy Efficiency with Wattwarden™: The Inline USB C Charging Protector and Other Energy Saving Devices
+    Updated: 2026-11-16T11:05:17Z
+    Author: Wattwarden
+  - [Protect Your Home with Wattwarden™ Inline USB C Charging Protector: The Ultimate Energy Saving Device for Off-Grid Power Solutions](https://wattwarden.shop/blogs/news/protect-your-home-with-wattwarden™-inline-usb-c-charging-protector-the-ultimate-energy-saving-device-for-off-grid-power-solutions): Protect Your Home with Wattwarden™ Inline USB C Charging Protector: The Ultimate Energy Saving Device for Off-Grid Power Solutions
+    Updated: 2026-11-17T11:04:08Z
+    Author: Wattwarden
+  - [Exploring Wattwarden™: Revolutionizing Energy Management with a Home Energy Monitor and Wattage Meter](https://wattwarden.shop/blogs/news/exploring-wattwarden™-revolutionizing-energy-management-with-a-home-energy-monitor-and-wattage-meter): Exploring Wattwarden™: Revolutionizing Energy Management with a Home Energy Monitor and Wattage Meter
+    Updated: 2026-11-18T11:06:01Z
     Author: Wattwarden
 
 ## Store Pages
