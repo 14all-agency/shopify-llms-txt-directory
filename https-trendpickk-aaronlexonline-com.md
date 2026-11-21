@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-08-01T08:18:25Z
 - Contact Email: aaronlexbusinesssolutions@gmail.com
-- Updated At: 2026-11-13T01:16:52.521Z
+- Updated At: 2026-11-21T01:05:18.074Z
 
 ## Products
 
 - [Crystal Jelly Mirror Lip Gloss Long Lasting Moisturising – TrendPickk](https://trendpickk.aaronlexonline.com/products/solid-jelly-lipstick-crystal-lip-balm-water-wave-mirror-lip-gloss-long-lasting-moisturizing-lip-glaze-lip-care-makeup): Shop crystal jelly lip gloss with mirror finish. Long-lasting, moisturising lip glaze in stunning shades. Buy at TrendPickk.
-  Updated: 2026-08-29T03:01:04Z
+  Updated: 2026-11-17T09:27:26Z
   Vendor: AA Vesa
   Product Type: Lip Gloss
   Availability: Available
@@ -113,7 +113,7 @@
     Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/d67ca326-4a4b-4f72-834f-c90e2395248e.jpg?v=1785607070
     Price: ₹2,999.00 INR
 - [Women's Shoulder Messenger Crossbody Bag - TrendPickk](https://trendpickk.aaronlexonline.com/products/europe-and-america-female-shoulder-messenger-bag): Shop our stylish women's shoulder messenger bag. Spacious, trendy & versatile crossbody handbag. Order now at TrendPickk.
-  Updated: 2026-08-29T03:01:05Z
+  Updated: 2026-11-17T09:09:02Z
   Vendor: AA Vesa
   Product Type: Bags & Luggage
   Availability: Available
@@ -155,7 +155,7 @@
     Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/Women_s_Shoulder_Messenger_Bag-Red.jpg?v=1785743062
     Price: ₹5,999.00 INR
 - [Armaf Club De Nuit Intense Edp for Women](https://trendpickk.aaronlexonline.com/products/armaf-club-de-nuit-intense-woman-eau-de-perfum): Armaf Club De Nuit Intense for Women is a bold and elegant fragrance that blends fresh citrus, soft florals, and warm patchouli for a sophisticated feminine scent. This captivating Eau de Parfum is designed for confident women who enjoy a balanced combination of freshness and depth, making it perfect for both everyday wear and evening occasions. The fragrance opens with a bright burst of citrus and fruity notes, creating a fresh and energetic introduction. The heart reveals a beautiful floral bouquet that adds elegance and femininity. As the scent develops, warm patchouli, vanilla, musk, and soft woody notes provide a rich and long-lasting finish that leaves a memorable impression. Club De Nuit Intense for Ladies is versatile, stylish, and ideal as a signature scent with strong projection and lasting performance.
-  Updated: 2026-08-29T03:01:05Z
+  Updated: 2026-11-14T14:28:05Z
   Vendor: ARMAF
   Product Type: Fragrances For Her
   Availability: Available
@@ -520,7 +520,7 @@
     Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/354799726134.jpg?v=1786394315
     Price: ₹899.00 INR
 - [2 Fashion Sunglasses Large Frame Retro](https://trendpickk.aaronlexonline.com/products/2-fashion-sunglasses-large-frame-retro): Product information: Applicable scenarios: sun protection, travel, fashion, driving, party Frame material: Plastic metal Lens Material: PC Popular elements: chain Style: Elegant, casual, stylish OL, simple, European and American, affordable luxury style Packing list: Sunglasses * 1 Product Image:
-  Updated: 2026-08-29T03:01:06Z
+  Updated: 2026-11-14T00:27:30Z
   Vendor: TrendPickk
   Product Type: 
   Availability: Available
@@ -554,7 +554,7 @@
     Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/cb36482a-e7ff-4c23-9b87-04cb83fa672a.jpg?v=1786394498
     Price: ₹1,199.00 INR
 - [Trendy Earrings Female Square Zircon Simple Earrings](https://trendpickk.aaronlexonline.com/products/trendy-earrings-female-square-zircon-simple-earrings): Product information:  process: electroplating Color: white diamond, green diamond, purple diamond, red diamond, navy blue Inlay material: gold-plated inlaid artificial gemstones/semi-precious stones Applicable occasions for gifts: weddings, birthdays, travel commemorations, festivals, housewarming, trade fairs,  promotions, employee benefits, anniversary celebrations, business gifts, opening ceremonies, awards commemoration, public relations planning Style: women's clothing Material: Copper Shape: Square Style: Europe and America Packing list: pair of earrings Product Image:
-  Updated: 2026-08-29T03:01:06Z
+  Updated: 2026-11-18T08:23:30Z
   Vendor: TrendPickk
   Product Type: Fashion
   Availability: Available
@@ -788,14 +788,14 @@
     Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/1619939056592.jpg?v=1786396179
     Price: ₹3,499.00 INR
 - [Portable Charging Mini Juice Cup Household Multi-function](https://trendpickk.aaronlexonline.com/products/portable-charging-mini-juice-cup-household-multi-function): Product information: Rated Voltage: 3.7V Charging Current: 5V Charging Voltage: 1A Product Power: 40W Charging Time: 1-2 hours Battery Capacity: 1500mAh Cup Capacity: 450ml Product Size: 25.9*8*8cm Product Includes: M Box Dimensions: 16.2*9*18.5cm Packing list: ain unit + juicing cup + baby food cup + charging cable + instruction manual Product Image:
-  Updated: 2026-08-29T03:01:08Z
+  Updated: 2026-11-17T10:35:02Z
   Vendor: TrendPickk
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/e6d73ee2-15b1-43e2-957d-dd2a15d13323_trans.jpg?v=1786396263
   Price: ₹899.00 INR
 - [Sheath Dress In A Sheer Fabric](https://trendpickk.aaronlexonline.com/products/sheath-dress-in-a-sheer-fabric): Product information: Pattern: Solid Color Skirt Style: A-line Color: White Waist Type: Mid-waist Size: S, M, L, XL Fit: Slim-fit Style Category: Fresh & Sweet Packaging Type: Single Piece Skirt Length: Mid-length Trendy Element: Cutout Design Style: V-neck Fabric Name: Polyester Applicable Occasions: Travel, Casual, Banquet, Daily Wear, Dating, Party, Stage, Wedding Sleeve Style: Sleeveless Target Audience: Universal Main Fabric Composition: Polyester (Polyester Fiber) Sleeve Length: Sleeveless Skirt Category: Dress Style: Elegant & Graceful Craftsmanship: Stitched with Thread Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress X 1pc Product Image:
-  Updated: 2026-08-29T03:01:09Z
+  Updated: 2026-11-17T01:47:15Z
   Vendor: TrendPickk
   Product Type: 
   Availability: Available
@@ -1718,7 +1718,7 @@
   Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/2f9acfb4-19b4-48b6-999f-18553bce2c1d.jpg?v=1786510484
   Price: ₹5,956.11 INR
 - [6blade Portable Blender Mini Juicer Cup Extractor Smoothie USB Charging Fruit Squeezer Blender Food Mixer Ice Crusher Portable Juicer Machine](https://trendpickk.aaronlexonline.com/products/6blade-portable-blender-mini-juicer-cup-extractor-smoothie-usb-charging-fruit-squeezer-blender-food-mixer-ice-crusher-portable-juicer-machine): Product information: Power: 140W Maximum juice output at one time: 400mL and below Pulp residue box capacity: 500ml or less (including 500ml) Feeding port shape: round The maximum speed of the juicer: 20001 rpm (inclusive) -22000 rpm (inclusive) Additional functions of the juicer: squeeze, stir, beat eggs, make milkshakes Body material: plastic Capacity: 400mL and below Speed: 20001 rpm (inclusive) -22000 rpm (inclusive) Function: Juicing Smart type: Smart is not supported Product specifications: 100mm*96mm*300mm Packing list: host, cup lid, USB cable, manual, Maximum oil output at one time: 400mL and below Color: Tunisian dark blue Voltage: ≤36V
-  Updated: 2026-08-29T03:01:11Z
+  Updated: 2026-11-14T11:44:20Z
   Vendor: AA Vesa
   Product Type: 0
   Availability: Available
@@ -1762,7 +1762,7 @@
     Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/1618301115964.jpg?v=1786510509
     Price: ₹7,515.27 INR
 - [Lid Opener Screw Kitchen Utility Gadget Labor Saving](https://trendpickk.aaronlexonline.com/products/lid-opener-screw-kitchen-utility-gadget-labor-saving): Product information: Product Category: Bottle Opener Material: Stainless steel Specifications: 6.7*6.2*4.8cm Color: green, red Packing list: Bottle opener*1
-  Updated: 2026-08-29T03:01:12Z
+  Updated: 2026-11-20T05:38:50Z
   Vendor: AA Vesa
   Product Type: 0
   Availability: Available
@@ -1874,7 +1874,7 @@
     Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/2865461392955.jpg?v=1786510575
     Price: ₹979.96 INR
 - [Lemon Squeezer](https://trendpickk.aaronlexonline.com/products/lemon-squeezer): heavy duty lemon and lime squeezer, made from high-quality aluminum alloy and steel which gives it a long life and prevents rusting. The Premium quality of lemon and lime squeezer makes sure that the handle doesn't bend when squeezing large lemons. Using the durable aluminum alloy construction to deliver maximum pressure. No matter if you choose to squeeze lemons, limes or blood oranges, this Lemon Squeezer will make your job so easy. This Squeezer is so convenient to use and with an effortless squeeze you can get every bit of juice out of the fruit. Extra Large Bowl can handle whole lemon and lime, put it all in, single press and done! No need to slice the fruit in half anymore! Simply press the lever to extract the every dip of fruit juice out Heavy duty design, suitble for business use as citrus press Product Size: Length: 24 cm Height 11 cm
-  Updated: 2026-08-29T03:01:14Z
+  Updated: 2026-11-20T19:44:55Z
   Vendor: AA Vesa
   Product Type: 0
   Availability: Available
@@ -1953,7 +1953,7 @@
     Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/503672053081.jpg?v=1786510616
     Price: ₹4,484.73 INR
 - [450ml Stainless Steel Water Bottle Double Wall Vacuum Insulated Business Travel Sport  Outdoor Water Bottle](https://trendpickk.aaronlexonline.com/products/450ml-stainless-steel-water-bottle-double-wall-vacuum-insulated-business-travel-sport-outdoor-water-bottle): Overview: The bottle is made from premium gauge stainless steel. It 100% brand new and high quality. Portable,easy to take. Water bottle is double walled and vacuum insulated, which keeps your favorite beverage hot or cold for hours. The exterior of the inner wall, in the vacuum sealed area, is coated in a thin layer of copper for added insulation. Enjoy your coffee, tea, juice, and milk with fun color-changing cups, that are the place for people who put coffee, hot chocolate, or tea. Popular Gift Idea- Valentine's Day, Mother's day, or fathers day. Christmas stocking stuffers, Hanukkah, Xmas secret Santa, holiday office party, or white elephant exchange gift. Arrow mouth reduces spills and sloshing while you drink. Specifications: Capacity: 450ML Style: straight cup Color: black, red, gold, blue Stainless steel vacuum flask Thermos Material: Stainless Steel Material: 304 inside and 201 outside Package Content: 1*Cup
-  Updated: 2026-08-29T03:01:15Z
+  Updated: 2026-11-13T16:42:51Z
   Vendor: AA Vesa
   Product Type: 7
   Availability: Available
@@ -2231,7 +2231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/428778093405.jpg?v=1786510664
     Price: ₹17,201.34 INR
 - [Cushion Covers Sea Turtle Printed Throw Pillow Cases For Home Decor Sofa Chair Seat](https://trendpickk.aaronlexonline.com/products/cushion-covers-sea-turtle-printed-throw-pillow-cases-for-home-decor-sofa-chair-seat): Overview: The finished pillowcase is about 75 grams 2. High-definition digital printing High-definition digital printing technology, imported dyes, safe Environmental protection is delicate and clear, rich in color, and not easy to fade. 3. Invisible zipper High-quality invisible zipper, beautiful appearance It is more convenient to disassemble and wash. Specifications: Product category: cushion cover/pillow cover Style: modern and simple Jacket material: linen Material: Super soft Pattern: Animal Size: 45*45cm Space: living room, bedroom, study room, children's room, commercial space Package Content: 1*Linen sofa cushion
-  Updated: 2026-08-29T03:01:15Z
+  Updated: 2026-11-20T00:30:56Z
   Vendor: AA Vesa
   Product Type: 0
   Availability: Available
@@ -2285,7 +2285,7 @@
     Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/940076305720.jpg?v=1786510687
     Price: ₹1,380.73 INR
 - [Women's Hair Dryer Cap, Absorbent Dry Hair Towel](https://trendpickk.aaronlexonline.com/products/womens-hair-dryer-cap-absorbent-dry-hair-towel): Overview: 100% Brand new and high quality Fashion and easy to use Perfect for drying your hair Note: 1. Because of the size measurements are handmade, so there may be a 0.1-0.5inch error 2. Please understand because of the light irradiation or computer display difference, so I can't guarantee photos and real color is 100% the same. Specification: MagicProduct size: 60 * 25CM (Approx.23.62*8.66 inch) Material: Microfiber Size: 60 * 25CM Material: Fabric Color: Show as pictures Package Content: 1 x dry hair hat
-  Updated: 2026-08-29T03:01:16Z
+  Updated: 2026-11-17T15:31:06Z
   Vendor: AA Vesa
   Product Type: 0
   Availability: Available
@@ -2525,7 +2525,7 @@
     Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/4391253377_2088377480.jpg?v=1786510741
     Price: ₹2,071.56 INR
 - [Bathroom corner shelf bathroom corner](https://trendpickk.aaronlexonline.com/products/bathroom-corner-shelf-bathroom-corner): Product information: Installation method: suction wall Applicable space: kitchen bathroom Style: European Popular elements: retro style Color classification: white gray white black Packing list: 1x Shelf 2x sticky hook
-  Updated: 2026-08-29T03:01:16Z
+  Updated: 2026-11-14T02:53:30Z
   Vendor: AA Vesa
   Product Type: 0
   Availability: Available
