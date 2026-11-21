@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2024-08-01T06:38:55Z
 - Contact Email: hatim@evsifu.com.my
-- Updated At: 2026-11-13T01:18:27.169Z
+- Updated At: 2026-11-21T01:18:21.544Z
 
 ## Products
 
@@ -362,6 +362,18 @@
     Updated: 2026-11-13T00:31:38Z
     Author: Evsifu
     Tags: best ev charger, best home ev charger, best home ev chargers, charger, electric vehicles, ev, ev charger, ev charger installation, ev charger installer near me, ev charger malaysia, ev charging stations, home chargers, home ev charger installation, home ev charger installer, home ev installer, installation, kl home charger installer, malaysia ev charger guide, proton ev charger installation, selangor home ev charger install
+  - [EV Charger Installer Near Me: Top Tips for Finding Reliable Installers](https://evsifu.com.my/blogs/ev-charger/ev-charger-installer-near-me-top-tips-for-finding-reliable-installers): EV Charger Installer Near Me: Top Tips for Finding Reliable Installers
+    Updated: 2026-11-16T00:42:42Z
+    Author: Evsifu
+    Tags: best ev charger, best home ev charger, best installation service, charger, electric, ev charger, ev charger installation, ev charger installer near me, ev charger malaysia, find ev chargers, home ev charger installation, home ev charger installer, home ev installer, installation, kl home charger installer, local electricians, proton ev charger installation, reliable installers, selangor home ev charger install
+  - [Your FAQs Answered: Proton EV Charger Installation Basics](https://evsifu.com.my/blogs/ev-charger/your-faqs-answered-proton-ev-charger-installation-basics): Your FAQs Answered: Proton EV Charger Installation Basics
+    Updated: 2026-11-18T00:41:32Z
+    Author: Evsifu
+    Tags: best ev charger, best ev charger installation tips, best home ev charger, charger, charging stations, ev, ev charger, ev charger installation, ev charger installer near me, ev charger malaysia, home charger, home ev charger installation, home ev charger installer, home ev installer, how to install ev chargers, install, installation guide, kl home charger installer, proton ev charger installation, selangor home ev charger install
+  - [Step-by-Step Checklist for a Smooth Home EV Charger Installation](https://evsifu.com.my/blogs/ev-charger/step-by-step-checklist-for-a-smooth-home-ev-charger-installation): Step-by-Step Checklist for a Smooth Home EV Charger Installation
+    Updated: 2026-11-20T00:27:22Z
+    Author: Evsifu
+    Tags: best ev charger, best home ev charger, charger, electric vehicle charger, ev, ev charger, ev charger installation, ev charger installer near me, ev charger malaysia, ev installation steps, home charger, home ev charger installation, home ev charger installer, home ev installer, install, installation guide, kl home charger installer, proton ev charger installation, residential ev charger installation, selangor home ev charger install
 - [News](https://evsifu.com.my/blogs/news)
   - [Best Charger For Your BYD](https://evsifu.com.my/blogs/news/best-charger-for-your-byd)
     Updated: 2024-11-06T10:23:21Z
