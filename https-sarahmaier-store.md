@@ -9,7 +9,7 @@
 - Created At: 2020-11-02T16:08:42Z
 - Contact Email: claudiamadaleno@sarahmaier.store
 - Contact Phone: +351913522163
-- Updated At: 2026-11-14T00:38:47.252Z
+- Updated At: 2026-11-21T00:40:52.834Z
 
 ## Products
 
