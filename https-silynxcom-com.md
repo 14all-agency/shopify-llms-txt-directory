@@ -9,12 +9,12 @@
 - Created At: 2026-04-06T10:15:38Z
 - Contact Email: info@silynxcom.com
 - Contact Phone: +1 571-748-7152
-- Updated At: 2026-11-14T00:35:50.732Z
+- Updated At: 2026-11-21T00:36:57.740Z
 
 ## Products
 
 - [Silynx CLARUS I — Single/Dual Radio Tactical Headset System](https://silynxcom.com/products/clarus): The Silynx CLARUS I controls up to 2 tactical radios with in-ear hearing protection, Hear-Thru, and Talking from the Ear voice mic. MIL-STD, IP68 ruggedized.
-  Updated: 2026-06-09T07:34:31Z
+  Updated: 2026-11-18T09:38:53Z
   Vendor: Silynx
   Product Type: Sound Protection Radio Controllers
   Availability: Not Available
@@ -614,13 +614,13 @@
   Updated: 2026-07-23T12:40:04Z
   Total Products: 5
 - [Wired & Wireless PTT](https://silynxcom.com/collections/wired-wireless-ptt): Silynx wired and wireless push-to-talk accessories — MWPTT, U94, Finger/Palm PTT, Keyfob PTT, Gas Mask PTT, and Speaker Microphone. MIL-STD, IP68, compatible with all Silynx control boxes.
-  Updated: 2026-09-06T05:16:41Z
+  Updated: 2026-11-16T10:03:18Z
   Total Products: 10
 - [Accessories](https://silynxcom.com/collections/accessories-replacement-parts): Silynx tactical headset accessories and replacement parts — pouches, ear tips, batteries, helmet adapters, and more. Spare parts for the full Silynx ecosystem.
   Updated: 2026-07-15T13:07:58Z
   Total Products: 14
 - [All Products](https://silynxcom.com/collections/all-products): Browse the complete Silynx product catalog — in-ear headsets, radio controllers, PTT accessories, cable adaptors, and tactical accessories for military, law enforcement, and industrial use.
-  Updated: 2026-09-06T05:16:41Z
+  Updated: 2026-11-16T10:03:18Z
   Total Products: 71
 
 ## Blogs
