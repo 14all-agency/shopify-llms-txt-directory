@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-02-12T02:53:18Z
 - Contact Email: info@collectionbynp.com
-- Updated At: 2026-11-14T00:45:49.780Z
+- Updated At: 2026-11-21T00:46:22.225Z
 
 ## Products
 
@@ -556,6 +556,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Moonspell1.jpg?v=1792157884
   Price: $20.00 USD
+- [Envelope Clutch](https://collectionbynp.com/products/envelope-clutch): Add a distinctive finishing touch to your outfit with this beautifully handcrafted envelope clutch. The classic envelope silhouette gives the clutch a timeless shape, while the combination of textured jacquard fabric, delicate lace, and soft fringe adds a distinctive bohemian inspired charm. The base fabric of this handbag is soft, not stiff, in an orange/white jacquard weave. Every clutch is individually handmade, fully lined with a pocket. Whether you're dressing up for a special occasion or adding an unexpected detail to your everyday style, this clutch is designed to make an impression. Thoughtful details make all the difference. Handmade from jacquard fabric: Beautiful soft, textured outer fabric. Hand stitched embellishments: White fringe pompoms and a floral lace accent add character and dimension. Fully lined interior: A finished interior for a polished look. Interior pocket: A convenient place for small essentials. Magnetic closure: Helps keep your belongings securely inside while allowing easy access. Envelope silhouette: A classic shape with a distinctive, decorative twist. Dimensions: 13.25" x 7.5" A versatile accessory Pair it with a dress for a wedding or special event, style it with a relaxed bohemian outfit, or carry it as an accent piece when you want your accessories to do the talking. Please note: As each clutch is handmade, slight variations in the fabric pattern and decorative details may occur, adding to the individuality of each piece. Only 4 units made. Handmade in Beacon, NY. Cotton/Poly blend, spot clean.
+  Updated: 2026-11-18T07:42:41Z
+  Vendor: Percacciolo Collection
+  Product Type: Handbags
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/EnvelopeClutch1.jpg?v=1792178902
+  Price: $80.00 USD
+- [Lace Bandana](https://collectionbynp.com/products/lace-bandana): Add a little dark romance for your everyday look with the Lace Bandana. Featuring delicate, embroidered floral details this bandana is an easy way to add a touch of gothic charm and personality to any outfit. A soft, elastic lace band is sewn to the top of the bandana for an easy tie at the back of the head. Creating a durable and comfortable fit. Wear it with your hair down, tousled up, pig tails; this design looks great with any hairstyle. Available in color Black. Made in USA out of Nylon,Cotton and Elastane. Care: Hand wash delicate lace in cool water with mild detergent, then air dry it flat without wringing
+  Updated: 2026-11-20T13:26:16Z
+  Vendor: Percacciolo Collection
+  Product Type: Headbands
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/LaceBandana4.jpg?v=1794941629
+  Price: $34.00 USD
 
 ## Collections
 
@@ -572,19 +586,19 @@
   Updated: 2026-05-06T19:58:00Z
   Total Products: 4
 - [Head Pieces](https://collectionbynp.com/collections/headbands): Discover the latest Headbands from Percacciolo Collection.
-  Updated: 2026-11-12T19:13:27Z
+  Updated: 2026-11-17T19:07:15Z
   Total Products: 4
 - [Robes](https://collectionbynp.com/collections/robes): Discover the latest Robes from Percacciolo Collection.
   Updated: 2026-09-02T11:08:10Z
   Total Products: 3
 - [All Products](https://collectionbynp.com/collections/all-products): Discover the latest All Products from Percacciolo Collection.
-  Updated: 2026-11-13T10:41:09Z
-  Total Products: 53
+  Updated: 2026-11-17T19:39:54Z
+  Total Products: 54
 - [Bridal](https://collectionbynp.com/collections/bridal): Discover the latest Bridal from Percacciolo Collection.
   Updated: 2026-09-23T22:20:49Z
   Total Products: 24
 - [Handbags](https://collectionbynp.com/collections/handbags): Discover the latest Handbags from Percacciolo Collection.
-  Updated: 2026-11-13T10:41:09Z
+  Updated: 2026-11-17T19:39:54Z
   Total Products: 18
 - [Beanies](https://collectionbynp.com/collections/beanies): Discover the latest Beanies from Percacciolo Collection.
   Updated: 2026-10-18T11:10:04Z
@@ -593,7 +607,7 @@
   Updated: 2026-10-18T11:10:04Z
   Total Products: 20
 - [Darkwear Accessories](https://collectionbynp.com/collections/darkwear-accessories): Discover the latest Darkwear Accessories from Percacciolo Collection.
-  Updated: 2026-11-13T10:41:09Z
+  Updated: 2026-11-17T19:39:54Z
   Total Products: 44
 - [Desert Veil Collection](https://collectionbynp.com/collections/desert-veil-collection): Discover the latest Desert Veil Collection from Percacciolo Collection.
   Updated: 2026-09-10T18:45:51Z
