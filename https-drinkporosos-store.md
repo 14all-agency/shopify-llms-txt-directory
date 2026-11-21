@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2024-01-15T16:17:41Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-14T00:55:58.688Z
+- Updated At: 2026-11-21T01:11:04.737Z
 
 ## Products
 
 - [Bear Tee - Black](https://drinkporosos.store/products/por-osos-black-bear-t-shirt): Made of 100% airlume combed and ring-spun cotton Blank: Bella Canvas 3001Weight: 4.2 oz./yd²32 Singles Size Body Length (in) Chest Width (Laid Flat) Neck Size (in) S 28 18 6 1/2 M 29 20 6 3/4 L 30 22 7 XL 31 24 7 1/2 2XL 32 26 7 3/4 3XL 33 28 7 3/4
-  Updated: 2026-10-28T20:29:42Z
+  Updated: 2026-11-16T19:14:06Z
   Vendor: Por Osos
   Product Type: T-Shirt
   Availability: Available
@@ -59,7 +59,7 @@
     Availability: Available
     Price: $65.00 USD
 - [Black Bear Beanie](https://drinkporosos.store/products/black-bear-beanie): Black fitted & ribbed knit beanie with cuffed hem featuring sewn Por Osos patchOne size fits all
-  Updated: 2026-10-05T13:03:30Z
+  Updated: 2026-11-16T19:14:06Z
   Vendor: Por Osos
   Product Type: 
   Availability: Available
@@ -214,10 +214,10 @@
 ## Collections
 
 - [Featured Products](https://drinkporosos.store/collections/frontpage)
-  Updated: 2026-11-13T12:17:30Z
+  Updated: 2026-11-17T12:16:55Z
   Total Products: 39
 - [Apparel](https://drinkporosos.store/collections/apparel)
-  Updated: 2026-11-03T12:15:37Z
+  Updated: 2026-11-17T12:16:55Z
   Total Products: 22
 - [Accessories](https://drinkporosos.store/collections/accessories)
   Updated: 2026-11-13T12:17:30Z
@@ -232,19 +232,19 @@
   Updated: 2026-10-07T11:18:45Z
   Total Products: 5
 - [T-Shirts](https://drinkporosos.store/collections/t-shirts)
-  Updated: 2026-11-03T12:15:37Z
+  Updated: 2026-11-17T12:16:55Z
   Total Products: 14
 - [Jerseys](https://drinkporosos.store/collections/jerseys)
   Updated: 2026-07-30T19:25:49Z
   Total Products: 2
 - [Drops Of Summer](https://drinkporosos.store/collections/drops-of-summer)
-  Updated: 2026-11-03T12:15:37Z
+  Updated: 2026-11-17T12:16:55Z
   Total Products: 8
 - [Vodka Collection](https://drinkporosos.store/collections/vodka-collection)
   Updated: 2026-09-28T11:16:02Z
   Total Products: 4
 - [ALL](https://drinkporosos.store/collections/all)
-  Updated: 2026-11-13T12:17:30Z
+  Updated: 2026-11-17T12:16:55Z
   Total Products: 12
 - [Just Added](https://drinkporosos.store/collections/just-added)
   Updated: 2026-10-07T11:18:45Z
@@ -265,7 +265,7 @@
   Updated: 2026-09-11T11:17:00Z
   Total Products: 5
 - [POR OSOS PALOOZA](https://drinkporosos.store/collections/por-osos-palooza)
-  Updated: 2026-11-13T12:17:30Z
+  Updated: 2026-11-17T12:16:55Z
   Total Products: 21
 
 ## Store Pages
