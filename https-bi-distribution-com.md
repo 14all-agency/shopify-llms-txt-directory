@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-12-12T23:31:41Z
 - Contact Email: sales@jrsgl.ca
-- Updated At: 2026-11-14T00:15:51.144Z
+- Updated At: 2026-11-21T00:18:39.503Z
 
 ## Products
 
@@ -920,36 +920,46 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/hap-be-lite-953.webp?v=1792354808
   Price: $79.00 USD
+- [MikroTik Wireless Wire Cube Pro 60GHz Kit](https://bi-distribution.com/products/wireless-wire-cube-pro): The MikroTik Wireless Wire Cube Pro (model CubeG-5ac60aypair) is a plug-and-play, pre-configured 60 GHz point-to-point (PtP) wireless bridge kit designed to connect two locations without needing physical fiber or cables
+  Updated: 2026-11-20T19:48:26Z
+  Vendor: Mikrotik
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/wireless-wire-cube-pro-121.webp?v=1795204098
+  Price: $298.00 USD
 
 ## Collections
 
-- [Ethernet Routers](https://bi-distribution.com/collections/ethernet-routers): Discover the best Mikrotik Ethernet Routers for seamless and reliable networking at home or office.
-  Updated: 2026-11-05T20:00:40Z
+- [Ethernet Routers](https://bi-distribution.com/collections/ethernet-routers): BI Distribution provides a wide selection of MikroTik networking products, including Ethernet routers, wireless routers, network switches, and advanced networking devices. The company focuses on supplying reliable and affordable equipment for home networks, businesses, and professional networking projects.
+  Updated: 2026-11-20T18:39:41Z
   Total Products: 22
-- [Switches](https://bi-distribution.com/collections/switches): Explore our range of Mikrotik Network Switches, Ethernet Routers, and Wireless Gear for all your networking needs.
-  Updated: 2026-11-05T20:00:40Z
+- [Switches](https://bi-distribution.com/collections/switches): BI Distribution supplies professional networking equipment, including high-performance routers, Ethernet switches, wireless access points, and essential networking accessories. Its diverse product selection helps businesses, IT professionals, and network installers find suitable hardware for building and maintaining efficient networks.
+  Updated: 2026-11-20T18:42:02Z
   Total Products: 40
-- [Wireless Home & Office](https://bi-distribution.com/collections/wireless-home-office): Explore our range of Mikrotik Home Office Network Equipment to enhance your wireless connectivity at home and in the office.
-  Updated: 2026-11-05T20:00:40Z
+- [LTE/5G Products](https://bi-distribution.com/collections/wireless-home-office): BI Distribution makes networking equipment accessible to businesses and individual customers through a diverse selection of affordable products. From MikroTik routers and network switches to wireless systems and LTE/5G devices, customers can find practical solutions for their connectivity needs.
+  Updated: 2026-11-20T18:43:29Z
   Total Products: 32
-- [New](https://bi-distribution.com/collections/new): Latest ethernet routers, network switches, and wireless systems arrive at BI-DISTRIBUTION A.K.A JRS Global Networks Inc. for home and office setups.
-  Updated: 2026-11-05T20:00:40Z
-  Total Products: 10
-- [In Stock](https://bi-distribution.com/collections/in-stock): BI-DISTRIBUTION A.K.A JRS Global Networks Inc offers in stock Ethernet routers switches and wireless systems for home and office networking since 2019.
-  Updated: 2026-11-12T16:19:41Z
-  Total Products: 129
-- [Wireless Systems](https://bi-distribution.com/collections/wireless-systems): Wireless systems from JRS Global Networks feature Ethernet routers and switches for home and office networking needs.
-  Updated: 2026-11-07T12:19:09Z
+- [New](https://bi-distribution.com/collections/new): BI Distribution offers a comprehensive selection of routers, network switches, and wireless systems for different connectivity requirements. Featuring products from MikroTik and Mimosa, the company serves individuals, businesses, IT professionals, and network installers looking for dependable networking hardware.
+  Updated: 2026-11-20T19:33:16Z
+  Total Products: 12
+- [In Stock](https://bi-distribution.com/collections/in-stock): BI Distribution, also known as JRS Global Networks Inc., offers quality networking equipment and connectivity solutions for businesses, professionals, and individual users. Its product range includes routers, switches, wireless devices, and networking accessories from trusted brands such as MikroTik and Mimosa, since 2019.
+  Updated: 2026-11-20T19:33:16Z
+  Total Products: 130
+- [Wireless Systems](https://bi-distribution.com/collections/wireless-systems): BI Distribution offers reliable networking hardware and wireless connectivity solutions for various applications. Customers can explore routers, switches, wireless systems, and LTE/5G networking devices designed to support modern communication and network infrastructure requirements
+  Updated: 2026-11-20T19:04:17Z
   Total Products: 23
-- [Mimosa](https://bi-distribution.com/collections/mimosa): Explore Mimosa Networks for advanced networking equipment providing exceptional connectivity and performance in various environments.
-  Updated: 2026-11-05T20:00:41Z
+- [Mimosa Network Solutions](https://bi-distribution.com/collections/mimosa): Discover modern networking solutions at BI Distribution, featuring a wide range of MikroTik and Mimosa products. From reliable routing equipment and Ethernet switches to advanced wireless systems, the company provides networking hardware for different residential, commercial, and professional applications.
+  Updated: 2026-11-20T19:05:46Z
   Total Products: 4
-- [MikroTik](https://bi-distribution.com/collections/mikrotik): MikroTik routers, switches, and wireless systems from BI-DISTRIBUTION JRS Global Networks deliver reliable networking hardware for homes and enterprise ISPs.
-  Updated: 2026-11-07T12:19:09Z
-  Total Products: 127
-- [LTE/5G Products](https://bi-distribution.com/collections/lte-5g-products): High speed LTE and 5G products from BI DISTRIBUTION JRS Global Networks include advanced ethernet routers, network switches, and wireless systems.
-  Updated: 2026-11-05T20:00:41Z
+- [MikroTik Routers and Networking Products | BI Distribution](https://bi-distribution.com/collections/mikrotik): BI Distribution provides a wide selection of MikroTik networking products, including Ethernet routers, wireless routers, network switches, and advanced networking devices. The company focuses on supplying reliable and affordable equipment for home networks, businesses, and professional networking projects.
+  Updated: 2026-11-20T19:33:16Z
+  Total Products: 129
+- [Indoor Wireless](https://bi-distribution.com/collections/lte-5g-products): BI Distribution makes networking equipment accessible to businesses and individual customers through a diverse selection of affordable products. From MikroTik routers and network switches to wireless systems and LTE/5G devices, customers can find practical solutions for their connectivity needs.
+  Updated: 2026-11-20T19:02:11Z
   Total Products: 10
+- [60 GHz Products](https://bi-distribution.com/collections/60-ghz-products): MikroTik 60 GHz wireless hardware delivers multi-gigabit, low-latency point-to-point (PtP) and point-to-multipoint (PtMP) links without crowded Wi-Fi interference, including 802.11ay models with automatic 5 GHz failover
+  Updated: 2026-11-20T19:32:33Z
+  Total Products: 2
 
 ## Blogs
 
@@ -1058,6 +1068,22 @@
     Updated: 2026-11-11T18:26:13Z
     Author: Ravinder pal Singh
     Tags: network segmentation, network segmentation best practices, network segmentation examples, network segmentation tools, what is network segmentation and why it matters
+  - [Is 5G Fixed Wireless Reliable for Business?](https://bi-distribution.com/blogs/news/is-5g-fixed-wireless-reliable-for-business): Is 5G Fixed Wireless Reliable for Business?
+    Updated: 2026-11-16T17:50:05Z
+    Author: Ravinder pal Singh
+    Tags: 5g business internet latency vs fiber, 5g fixed wireless, how to configure dual isp failover, is 5g fixed wireless reliable for business
+  - [5 Best PoE Switch Brands: Office Network Buying Guide](https://bi-distribution.com/blogs/news/best-poe-switch-brands-office-networks): 5 Best PoE Switch Brands: Office Network Buying Guide
+    Updated: 2026-11-17T17:48:25Z
+    Author: Ravinder Pal Singh
+    Tags: 5 best poe switch brands for office networks, network switch deployment best practices, poe switch brands, poe switch power budget calculation
+  - [How to Improve Cellular Signal for Office Networks](https://bi-distribution.com/blogs/news/how-to-improve-cellular-signal-for-office): How to Improve Cellular Signal for Office Networks
+    Updated: 2026-11-20T00:38:47Z
+    Author: Ravinder Pal Singh
+    Tags: cell phone signal booster for office, cellular signal for office, how to improve cellular signal for office, how to improve cellular signal for office iphone, how to improve cellular signal for office t-mobile, wi-fi calling for poor office reception
+  - [MikroTik Kit Guide: Choosing the Right LTE Setup](https://bi-distribution.com/blogs/news/mikrotik-kit-guide-choosing-right-lte-setup): MikroTik Kit Guide: Choosing the Right LTE Setup
+    Updated: 2026-11-20T19:39:42Z
+    Author: Ravinder Pal Singh
+    Tags: mikrotik kit
 
 ## Store Pages
 
