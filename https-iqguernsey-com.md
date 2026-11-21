@@ -10,7 +10,7 @@
 - Contact Email: shop@iqguernsey.com
 - Contact Phone: +44 1481 712111
 - Address: 50 High St Guernsey GY1 2JU
-- Updated At: 2026-11-14T00:54:33.206Z
+- Updated At: 2026-11-21T01:02:09.852Z
 
 ## What We 
 
@@ -34,7 +34,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
 ## Products
 
 - [EarPods (USB-C)](https://iqguernsey.com/products/earpods-usb-c-myqy3zm-a): Unlike traditional, circular earbuds, the design of the EarPods is defined by the geometry of the ear. Which makes them more comfortable for more people than any other earbud-style headphones.
-  Updated: 2026-11-03T15:56:46Z
+  Updated: 2026-11-16T21:34:38Z
   Vendor: Apple
   Product Type: EarPods
   Availability: Available
@@ -47,13 +47,6 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-14666245.png?v=1745833565
   Price: £41.00 GBP
-- [13-inch iPad Air Wi-Fi + Cellular 512GB - Space Grey (M2)](https://iqguernsey.com/products/13-inch-ipad-air-m2-mv703nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip.It features a stunning 13‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E and 5G capability. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:27:19Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-13196118.jpg?v=1742658970
-  Price: £970.00 GBP
 - [iPhone 16 Plus 128GB White](https://iqguernsey.com/products/iphone-16-mxvv3qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
   Updated: 2026-10-02T18:01:33Z
   Vendor: Apple
@@ -76,7 +69,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10526748.png?v=1742658915
   Price: £41.00 GBP
 - [iPhone 16 128GB Teal](https://iqguernsey.com/products/iphone-16-myed3qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-11-10T16:31:46Z
+  Updated: 2026-11-17T16:16:56Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -230,7 +223,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10526818.png?v=1742658745
   Price: £41.00 GBP
 - [iPhone 16 128GB Pink](https://iqguernsey.com/products/iphone-16-myea3qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-10-22T10:18:58Z
+  Updated: 2026-11-16T16:09:51Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -258,7 +251,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10526763.png?v=1742658710
   Price: £41.00 GBP
 - [iPhone 16 128GB Black](https://iqguernsey.com/products/iphone-16-mye73qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-11-13T11:09:57Z
+  Updated: 2026-11-17T13:32:28Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -328,7 +321,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10526612.png?v=1742658614
   Price: £41.00 GBP
 - [iPhone 16 Clear Case with MagSafe](https://iqguernsey.com/products/iphone-16-clear-case-with-magsafe-ma6a4zm-a): Thin, light and easy to grip — this Apple-designed case shows off the brilliant coloured finish of iPhone 16 while providing extra protection. Crafted with a blend of optically clear polycarbonate and flexible materials, the case fits over the buttons for easy use. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. On the surface, a scratch-resistant coating has been applied to both the interior and exterior. And all materials and coatings are optimised to prevent yellowing over time. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-10-22T11:42:52Z
+  Updated: 2026-11-14T13:43:26Z
   Vendor: Apple
   Product Type: Case with MagSafe
   Availability: Available
@@ -341,27 +334,13 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/373cc234-116d-59b6-b9a8-ae2f92c35338_m_jpg_1_8fc6b8b1-3ebe-42de-8f4c-6c8495bde7b2.jpg?v=1745837325
   Price: £680.00 GBP
-- [11-inch iPad Air Wi-Fi 128GB - Purple (M3)](https://iqguernsey.com/products/11-inch-ipad-air-m3-mca04kn-a): CONNECTIVITY — Wi-Fi 6E gives you fast wireless connections. Work from almost anywhere with quick transfers of photos, documents and large video files. Connect to external displays and more with the USB-C connector.
-  Updated: 2026-10-16T01:28:49Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16745303.jpg?v=1745837401
-  Price: £450.00 GBP
 - [iPad Wi-Fi 256GB - Pink (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4p4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-11-13T10:49:47Z
+  Updated: 2026-11-20T14:03:09Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16744984.jpg?v=1742658562
   Price: £441.00 GBP
-- [15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU, 512GB SSD - Sky Blue](https://iqguernsey.com/products/15-inch-macbook-air-mc7c4b-a): The 15-inch MacBook Air with the M4 chip lets you fly through work and play. With Apple Intelligence, a spacious Liquid Retina display, up to 18 hours of battery life and a strikingly thin and light design, it’s built to last and can take on just about anything, anywhere.
-  Updated: 2026-10-20T20:34:11Z
-  Vendor: Apple
-  Product Type: Mac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16740281.jpg?v=1745837573
-  Price: £1,066.00 GBP
 - [iPhone 16 Silicone Case with MagSafe – Aquamarine](https://iqguernsey.com/products/iphone-16-silicone-case-with-magsafe-mdgp4zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
   Updated: 2026-10-05T13:41:27Z
   Vendor: Apple
@@ -405,14 +384,14 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16714693_m_jpg_1.jpg?v=1745837742
   Price: £41.00 GBP
 - [iPad Wi-Fi 128GB - Silver (A16)](https://iqguernsey.com/products/2025-ipad-a16-md3y4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-11-13T13:57:27Z
+  Updated: 2026-11-20T13:21:42Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16744992.jpg?v=1742658525
   Price: £358.00 GBP
 - [iPad Wi-Fi 256GB - Silver (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4g4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-11-13T11:06:33Z
+  Updated: 2026-11-14T11:31:07Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -454,14 +433,14 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16744992_3610593f-2f65-4a10-b7e9-edb74959ec92.jpg?v=1742658489
   Price: £608.00 GBP
 - [iPad Wi-Fi 128GB - Pink (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4e4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-11-13T11:34:16Z
+  Updated: 2026-11-20T10:48:18Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16744984_e3764325-782b-41f3-bfd8-d73dd2e6df45.jpg?v=1742658488
   Price: £358.00 GBP
 - [iPad Wi-Fi 512GB - Blue (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4y4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-20T21:56:09Z
+  Updated: 2026-11-16T10:26:56Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -475,7 +454,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16744917.jpg?v=1742658485
   Price: £733.00 GBP
 - [iPad Wi-Fi 256GB - Blue (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4h4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-11-13T11:34:28Z
+  Updated: 2026-11-20T13:21:22Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -531,7 +510,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16744917_689ccc6e-54a0-4218-b6e5-a7b91bfad240.jpg?v=1742658444
   Price: £483.00 GBP
 - [iPad Wi-Fi 128GB - Blue (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4a4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-11-13T14:03:37Z
+  Updated: 2026-11-20T16:40:15Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -545,7 +524,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16744926_562627d6-c2dc-4fa1-b830-cd214cdfb334.jpg?v=1742658434
   Price: £566.00 GBP
 - [iPad Wi-Fi 256GB - Yellow (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4j4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-11-13T10:49:37Z
+  Updated: 2026-11-20T15:14:26Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -566,7 +545,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/B63903A2-4FDD-4A17-8342-4E52F8EF9D4D.jpg?v=1744026772
   Price: £3,833.00 GBP
 - [Magic Keyboard for iPad Air](https://iqguernsey.com/products/magic-keyboard-for-ipad-air)
-  Updated: 2026-11-13T10:36:46Z
+  Updated: 2026-11-16T13:41:47Z
   Vendor: Apple
   Product Type: Magic Keyboard
   Availability: Available
@@ -580,14 +559,14 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/MDEJ4.jpg?v=1749543260
   Price: £66.00 GBP
 - [Apple Pencil (2nd Generation)](https://iqguernsey.com/products/apple-pencil-2nd-generation)
-  Updated: 2026-11-05T14:50:37Z
+  Updated: 2026-11-16T13:40:47Z
   Vendor: Apple
   Product Type: Apple Pencil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/3FF065DE-98D5-448D-9288-6B966AFAC343_0923bbff-8665-4684-9704-6a538145e05a.png?v=1745838888
   Price: £108.00 GBP
 - [Apple Pencil (1st Generation)](https://iqguernsey.com/products/apple-pencil-1st-generation)
-  Updated: 2026-10-01T10:28:57Z
+  Updated: 2026-11-20T15:34:30Z
   Vendor: Apple
   Product Type: Apple Pencil
   Availability: Available
@@ -608,14 +587,14 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/MWK53_8d45fbee-eadf-477d-8d70-f7e4e593fc69.jpg?v=1745917042
   Price: £66.00 GBP
 - [Magic Keyboard for iPad Pro](https://iqguernsey.com/products/magic-keyboard-for-ipad-pro)
-  Updated: 2026-10-17T09:56:56Z
+  Updated: 2026-11-20T09:41:07Z
   Vendor: Apple
   Product Type: Magic Keyboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/A6EE7C71-936B-4B8E-AF4E-9BD98E7D4C32.jpg?v=1744026818
   Price: £250.00 GBP
 - [Apple Pencil Pro](https://iqguernsey.com/products/apple-pencil-pro)
-  Updated: 2026-11-12T16:12:42Z
+  Updated: 2026-11-20T15:25:42Z
   Vendor: Apple
   Product Type: Apple Pencil
   Availability: Available
@@ -656,13 +635,6 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/91F4098B-78FB-4289-839A-9C6633E51E59.jpg?v=1744027044
   Price: £19.00 GBP
-- [14-inch MacBook Pro: Apple M4 Pro chip with 12-core CPU and 16-core GPU, 512GB SSD - Silver](https://iqguernsey.com/products/14-inch-macbook-pro-m4-pro-mx2e3b-a): The 14‑inch MacBook Pro with M4 Pro and M4 Max chips gives you outrageous performance in a powerhouse laptop built for Apple Intelligence. With up to 22 hours of battery life and a breathtaking Liquid Retina XDR display with up to 1,600 nits peak brightness, it’s pro in every way.
-  Updated: 2026-10-20T21:20:38Z
-  Vendor: Apple
-  Product Type: Mac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15367149_7450f53b-c80d-41f2-9aa4-001b8172268c.jpg?v=1745839236
-  Price: £1,616.00 GBP
 - [24-inch iMac with Retina 4.5K display: Apple M4 chip with 10-core CPU and 10-core GPU, 512GB SSD - Silver](https://iqguernsey.com/products/24-inch-imac-with-retina-4-5k-display-m4-mwuv3b-a): iMac. The ultimate all-in-one desktop. Built for Apple Intelligence. Supercharged by the M4 chip, browsing and multitasking across apps feels snappier. With a stunning 24-inch 4.5K Retina displayin an iconic design, and advanced camera, mics and speakers. iMac is brilliant for work and play.
   Updated: 2026-10-29T13:40:16Z
   Vendor: Apple
@@ -692,21 +664,21 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/D9A30C79-03AC-4159-B8E5-2409E7F6_79ac38db-20fc-49f0-b4bd-39f837029055.png?v=1745833272
   Price: £22.50 GBP
 - [Belkin Boost Charge 24w Dual USB-A Wall Charger](https://iqguernsey.com/products/belkin-boost-charge-24w-dual-usb-a-wall-charger)
-  Updated: 2026-11-13T09:01:57Z
+  Updated: 2026-11-17T10:29:02Z
   Vendor: Belkin
   Product Type: Wall Charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/21955423-20B8-4FCD-A122-0F3FC12ED2D7_704a088c-b1db-4961-b251-d94c09861983.jpg?v=1744623280
   Price: £15.00 GBP
 - [Belkin Boost Charge Braided USB-C to Lightning Cable](https://iqguernsey.com/products/belkin-boost-charge-braided-usb-c-to-lightning-cable)
-  Updated: 2026-11-10T11:45:56Z
+  Updated: 2026-11-16T13:44:06Z
   Vendor: Belkin
   Product Type: Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/E892122A-EBC6-49EA-A04E-A561836CE5E9_5325900d-af33-4600-8109-07aa6bae520f.jpg?v=1744623284
   Price: £19.00 GBP
 - [Belkin Boost Charge Braided USB-C to USB-C Cable](https://iqguernsey.com/products/belkin-boost-charge-braided-usb-c-to-usb-c-cable)
-  Updated: 2026-11-13T12:56:07Z
+  Updated: 2026-11-16T13:43:58Z
   Vendor: Belkin
   Product Type: Cable
   Availability: Available
@@ -748,47 +720,12 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/SatechiUSB-CtoEthernetAdapter-SpaceGrey_3fd7d4bc-4336-44fa-9dcd-2e3b71bf5c45.jpg?v=1745833270
   Price: £24.29 GBP
 - [Apple Watch Magnetic Fast Charger to USB-C Cable (1 m)](https://iqguernsey.com/products/apple-watch-magnetic-fast-charger-to-usb-c-cable-1-m-mt0h3zm-a): Durable, woven cable with fast-charging capabilities for selected Apple Watch models. Simply hold the connector near the back of the watch, where magnets cause it to snap into place automatically.
-  Updated: 2026-10-08T11:45:08Z
+  Updated: 2026-11-16T13:41:17Z
   Vendor: Apple
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10527007_dbaa49fe-0e22-4e87-820d-6e03438bba21.png?v=1745835214
   Price: £24.50 GBP
-- [14-inch MacBook Pro - M3 chip with 8‑core CPU / 10‑core GPU - 16GB - 1TB - Silver](https://iqguernsey.com/products/14-inch-macbook-pro-m3-chip-with-8-core-cpu-10-core-gpu-16gb-1tb-silver)
-  Updated: 2026-10-12T11:04:06Z
-  Vendor: Apple
-  Product Type: Mac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-11189720_0cd9a4cc-5e2c-48c1-9d71-4d9fd384a284.jpg?v=1748927573
-  Price: £1,416.00 GBP
-- [Mac Studio: Apple  - 1TB - M1 Ultra chip with 20‑core CPU and 48‑core GPU](https://iqguernsey.com/products/mac-studio-apple-1tb-m1-ultra-chip-with-20-core-cpu-and-48-core-gpu)
-  Updated: 2026-10-26T14:05:19Z
-  Vendor: Apple
-  Product Type: Mac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/l_10236064.jpg?v=1748928182
-  Price: £2,600.00 GBP
-- [iPhone 14 Plus - 512GB - (PRODUCT) RED](https://iqguernsey.com/products/iphone-14-plus-512gb-product-red): iPhone 14 Plus. Think big with a larger 6.7-inch display and all-day battery life. Capture stunning photos in low light and bright light with the dual-camera system. Get peace of mind with vital safety features.
-  Updated: 2026-11-07T10:20:50Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-7337506_ea74dde7-433d-43c0-b00c-7d185173dc6f.webp?v=1748869466
-  Price: £633.00 GBP
-- [Mac Studio: Apple  - 512GB - M2 Max chip - Silver](https://iqguernsey.com/products/mac-studio-apple-512gb-m2-max-chip-silver)
-  Updated: 2026-10-16T23:39:32Z
-  Vendor: Apple
-  Product Type: Mac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/l_10250798_148fecf6-0ff4-4a13-b160-8b64ecce554d.jpg?v=1748928967
-  Price: £1,300.00 GBP
-- [15-inch MacBook Air - M3 chip with 8-core CPU / 10-core GPU - 16GB - 512GB - Starlight](https://iqguernsey.com/products/15-inch-macbook-air-m3-chip-with-8-core-cpu-10-core-gpu-16gb-512gb-starlight)
-  Updated: 2026-10-20T20:28:31Z
-  Vendor: Apple
-  Product Type: Mac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-12357263_4670309a-6eb1-47a0-9e9d-3371c8951223_1.jpg?v=1748611634
-  Price: £1,050.00 GBP
 - [Apple Thunderbolt to Gigabit Ethernet Adapter](https://iqguernsey.com/products/apple-thunderbolt-to-gigabit-ethernet-adapter): Connect your Thunderbolt-equipped Mac to a high-performance 10/100/1000Base-T network with this Apple® MD463ZM/A Thunderbolt-to-Gigabit Ethernet adapter that features a built-in cable for simple setup.
   Updated: 2026-10-29T10:58:02Z
   Vendor: Apple
@@ -804,7 +741,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/MD504.jpg?v=1748941999
   Price: £8.50 GBP
 - [Belkin Boost Charge Braided Lightning Cable - 1m - White](https://iqguernsey.com/products/belkin-boost-charge-braided-lightning-cable-1m-white): Stay charged, synced, and connected with reliable cables that you can use in your home, car and office. Tested to withstand 30,000 bends,* these USB-C cables are built for a long lifespan and will work with any standard USB-C port. They’re also USB-IF  for safe and seamless performance with all your devices.
-  Updated: 2026-11-05T09:33:19Z
+  Updated: 2026-11-20T12:29:51Z
   Vendor: Belkin
   Product Type: 
   Availability: Available
@@ -818,14 +755,14 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/61-Ku7JzAUL._SL1500.jpg?v=1751274785
   Price: £12.50 GBP
 - [Belkin Boost Charge Braided Lightning Cable - 2m - Black](https://iqguernsey.com/products/belkin-boost-charge-braided-lightning-cable-2m-black): Stay charged, synced, and connected with reliable cables that you can use in your home, car and office. Tested to withstand 30,000 bends,* these USB-C cables are built for a long lifespan and will work with any standard USB-C port. They’re also USB-IF  for safe and seamless performance with all your devices.
-  Updated: 2026-11-11T10:36:46Z
+  Updated: 2026-11-17T13:18:37Z
   Vendor: Belkin
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/download_-_2025-06-03T120328.366.png?v=1748941542
   Price: £15.00 GBP
 - [Belkin Boost Charge Braided USB-C to USB-C Cable - 1m - Black](https://iqguernsey.com/products/belkin-boost-charge-braided-usb-c-to-usb-c-cable-1m-black): Stay charged, synced, and connected with reliable cables that you can use in your home, car and office. Tested to withstand 30,000 bends,* these USB-C cables are built for a long lifespan and will work with any standard USB-C port. They’re also USB-IF  for safe and seamless performance with all your devices.
-  Updated: 2026-11-05T09:33:07Z
+  Updated: 2026-11-18T12:26:08Z
   Vendor: Belkin
   Product Type: 
   Availability: Available
@@ -853,7 +790,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/download_6.jpg?v=1748599814
   Price: £62.00 GBP
 - [Belkin BOOST CHARGE™ Lightning to USB-A Cable (Braided) - 3m - White](https://iqguernsey.com/products/belkin-boost-charge-lightning-to-usb-a-cable-braided-3m-white): Add durability and flexibility to your charging cable. BOOST↑CHARGE™ PRO Flex silicone cables have a double braided exterior, making them up to 30X more durable*. Includes a magnetic cable management system.
-  Updated: 2026-11-03T14:46:47Z
+  Updated: 2026-11-19T10:09:56Z
   Vendor: Belkin
   Product Type: 
   Availability: Available
@@ -867,14 +804,14 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/1675344312_1744463.jpg?v=1748939185
   Price: £18.00 GBP
 - [Belkin 10K Power Bank with USB-C 15W & Dual USB-A (inc 15cm USB-A to C Cable) - Black](https://iqguernsey.com/products/belkin-10k-power-bank-with-usb-c-15w-dual-usb-a-inc-15cm-usb-a-to-c-cable-black): Charge three devices at the same time with our BoostCharge Power Bank 10K§. Two USB ports and one USB-C® port keep all your devices powered with up to 40§ hours of battery life for your smartphone and smart devices. Binge movies, make FaceTime calls, and keep your navigation apps running to your destination. The included USB-A to USB-C cable lets you start charging right out of the box and recharge your power bank when the time comes.
-  Updated: 2026-11-13T13:39:46Z
+  Updated: 2026-11-20T12:15:28Z
   Vendor: Belkin
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/31136e14f727a17c_BPB011_BLK_BOOSTCHARGE_PowerBank10K_Angle_Upright_Web.jpg?v=1748938850
   Price: £16.50 GBP
 - [Belkin Boost Charge Power Bank 20K - Black](https://iqguernsey.com/products/belkin-boost-charge-power-bank-20k-black): Charge three devices at the same time with our BoostCharge Power Bank 20 K. Two USB ports and one USB-C® port keep all your devices powered to provide up to an additional 78 hours of battery life to your smartphone and smart devices. Binge movies, make marathon FaceTime calls, and keep your navigation apps running to your destination. The included USB-A to USB-C cable lets you start charging right out of the box and recharge your power bank when the time comes. A 2-year warranty and Connected Equipment Warranty provide peace of mind.
-  Updated: 2026-11-13T13:21:27Z
+  Updated: 2026-11-16T13:44:17Z
   Vendor: Belkin
   Product Type: 
   Availability: Available
@@ -909,14 +846,14 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/belkin-boostcharge-30w-pd-30-pps-usb-c-white-41695896819-715479330.webp?v=1748938043
   Price: £17.00 GBP
 - [iPad 10th Gen (2022) Origami No1 Original - Black](https://iqguernsey.com/products/ipad-10th-gen-2022-origami-no1-original-black): If you're the sort of person who wants a slim iPad case but doesn't want to compromise on protection or functionality, the Origami No1 TPU Case is for you. The Original Origami, our most popular iPad Case, is as good as it gets when it comes to enhancing your iPad experience, due to its versatile 5-in-1 folding design that you won’t want to live without. It offers: 2 positions for typing and viewing (same as Apple's Smart cover) 2 additional folding positions that create a stable wide base (perfect for watching Netflix in bed or on soft/unstable surfaces) 1 further portrait position (perfect for FaceTime and video calls) It also packs a punch when it comes to keeping your iPad safe with its shock absorbent TPU shell, internal air pockets and magnetic front cover. But it doesn’t just protect your iPad, the case is also made using our new range of custom 100%  Antibacterial materials to help protect you. It'll never wipe off or lose potency and remain independently  to kill 99.9% of bacteria for the life of the case. It also has a wipe-clean finish and auto sleep-wake functionality to extend your battery life, giving you up to 20% longer use between charges.
-  Updated: 2026-11-07T10:46:51Z
+  Updated: 2026-11-19T11:59:06Z
   Vendor: Pipetto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/1-1474ipad2022origamioriginalblackfrontcover.webp?v=1748937635
   Price: £38.00 GBP
 - [iPad 10th Gen (2022) Origami No1 Original - Navy](https://iqguernsey.com/products/ipad-10th-gen-2022-origami-no1-original-navy): If you're the sort of person who wants a slim iPad case but doesn't want to compromise on protection or functionality, the Origami No1 TPU Case is for you. The Original Origami, our most popular iPad Case, is as good as it gets when it comes to enhancing your iPad experience, due to its versatile 5-in-1 folding design that you won’t want to live without. It offers: 2 positions for typing and viewing (same as Apple's Smart cover) 2 additional folding positions that create a stable wide base (perfect for watching Netflix in bed or on soft/unstable surfaces) 1 further portrait position (perfect for FaceTime and video calls) It also packs a punch when it comes to keeping your iPad safe with its shock absorbent TPU shell, internal air pockets and magnetic front cover. But it doesn’t just protect your iPad, the case is also made using our new range of custom 100%  Antibacterial materials to help protect you. It'll never wipe off or lose potency and remain independently  to kill 99.9% of bacteria for the life of the case. It also has a wipe-clean finish and auto sleep-wake functionality to extend your battery life, giving you up to 20% longer use between charges.
-  Updated: 2026-11-09T13:38:05Z
+  Updated: 2026-11-19T11:59:11Z
   Vendor: Pipetto
   Product Type: 
   Availability: Available
@@ -978,7 +915,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/MUQX3.jpg?v=1749126066
   Price: £25.00 GBP
 - [Apple Pencil USB-C](https://iqguernsey.com/products/apple-pencil-usb-c): Apple Pencil (USB-C) is perfect for taking notes, sketching, marking up documents, journalling and more. It delivers pixel‑perfect precision, low latency and tilt sensitivity. So it’s as natural to use as a pencil. Apple Pencil (USB-C) pairs and charges via a USB-C Charge Cable. It magnetically attaches to the side of iPad for storage. Apple Pencil (USB-C) supports Apple Pencil hover when used with iPad Pro 13-inch (M4), iPad Pro 11-inch (M4), iPad Pro 12.9-inch (6th generation), iPad Pro 11-inch (4th generation), iPad Air 13-inch (M2) and iPad Air 11-inch (M2).
-  Updated: 2026-11-13T11:10:03Z
+  Updated: 2026-11-20T16:54:26Z
   Vendor: Apple
   Product Type: 
   Availability: Available
@@ -999,14 +936,14 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/149e42f61a76d011_CAB014-WHT_100WBraidedC-CCables_MCB320_03_WEB_a0594dc8-e6c9-4a98-81c0-2bb0f1263cc3.jpg?v=1750667010
   Price: £17.00 GBP
 - [BOOST CHARGE™ 60w USB-C PD Dual 30w Wall Charger, White](https://iqguernsey.com/products/boost-charge-60w-usb-c-pd-dual-30w-wall-charger-white): Safely fast charge iPhone, iPad, Samsung Galaxy and other compatible devices with our powerful USB-C Wall Charger with PPS 60W.
-  Updated: 2026-10-30T11:55:46Z
+  Updated: 2026-11-18T13:36:41Z
   Vendor: Belkin
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/50bb158f1f1609d4_WCB010-UK_60W_Dual30W_WUSB-C_shot01.jpg?v=1748934927
   Price: £25.00 GBP
 - [BOOSTCHARGE 3-Port USB-C Wall Charger with PPS 67w](https://iqguernsey.com/products/boostcharge-3-port-usb-c-wall-charger-with-pps-67w): Fast charge three devices at once or charge a laptop at 67W with our 3 Port USB-C Wall Charger with PPS 67W. Three USB-C PD ports with PPS offer fast charging for all compatible devices. It supports a wide range of USB-C smartphones, tablets and laptops.
-  Updated: 2026-10-16T12:06:20Z
+  Updated: 2026-11-18T11:04:52Z
   Vendor: Belkin
   Product Type: 
   Availability: Available
@@ -1020,7 +957,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/456dd6f767a9c588_BPD004btBK_WH__MPP242_MagneticWirelessPowerBank5K_Stand_FPK_BLK_Shot1_Web.jpg?v=1748934386
   Price: £42.00 GBP
 - [BOOST CHARGE™ 10,000 mAh  PD Powerbank with Integrated Cables (USB-C and Lightning), Black](https://iqguernsey.com/products/boost-charge-10000-mah-pd-powerbank-with-integrated-cables-usb-c-and-lightning-black): This 10K power bank with integrated USB-C and Lightning cables allows you to charge an iPhone 15/14/13/12 series without carrying an additional cord or charge any two devices at once. Enjoy pass through that keeps the power bank itself charged, while your phone powers up.
-  Updated: 2026-10-03T11:18:59Z
+  Updated: 2026-11-16T13:30:58Z
   Vendor: Belkin
   Product Type: 
   Availability: Available
@@ -1062,14 +999,14 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/ff898849dcb48106_INC013.1.jpg?v=1748867128
   Price: £167.00 GBP
 - [SOUNDFORM™ - Headphones with USB-C™ Connector, White](https://iqguernsey.com/products/soundform-headphones-with-usb-c-connector-white): SoundForm Wired Earbuds with USB-C Connector deliver high-quality, immersive Belkin Signature sound, supreme comfort and fit, and are exceptionally durable. Packed with features, including water resistance and noise isolation, these compact earbuds offer superior audio without distraction.
-  Updated: 2026-11-11T15:09:27Z
+  Updated: 2026-11-20T09:23:16Z
   Vendor: Belkin
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/6b743272abdb38da_G3H0002btWHT_SoundFormWiredEarbudswithUSB-CConnector_01_web.jpg?v=1748933656
   Price: £12.50 GBP
 - [BOOST CHARGE™ Qi 10w wireless Charging Stand w PSU (UK Power Supply Included), Black](https://iqguernsey.com/products/boost-charge-qi-10w-wireless-charging-stand-w-psu-uk-power-supply-included-black): Safe, fast wireless charging. Designed for any orientation, it's perfect for charging while scrolling the Internet or streaming videos.
-  Updated: 2026-09-30T10:45:37Z
+  Updated: 2026-11-16T14:49:38Z
   Vendor: Belkin
   Product Type: 
   Availability: Available
@@ -1125,14 +1062,14 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/e36d64dd10b9f49b0343d0b960c88eb6ef1dec45_647020.jpg?v=1748931187
   Price: £25.00 GBP
 - [Everyday Cradle Keyboard Folio for 10.9/11" iPad Air and iPad Pro English](https://iqguernsey.com/products/everyday-cradle-keyboard-folio-for-10-9-11-ipad-air-and-ipad-pro-english)
-  Updated: 2026-06-17T07:55:39Z
+  Updated: 2026-11-18T20:52:09Z
   Vendor: Belkin
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/55bdc7c49b334d3c83ae4468211c4e79.png?v=1748926367
   Price: £84.00 GBP
 - [Magnetic Keyboard Folio for 10.9/11" iPad Air and iPad Pro English](https://iqguernsey.com/products/magnetic-keyboard-folio-for-10-9-11-ipad-air-and-ipad-pro-english)
-  Updated: 2026-11-05T08:44:11Z
+  Updated: 2026-11-18T13:37:07Z
   Vendor: Belkin
   Product Type: Magnetic Keyboard Folio
   Availability: Available
@@ -1146,21 +1083,21 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/3ca9dc649a9d220d_BBZ003uk_B2B_iPad_Pro_12.9_11_keyboard_folio_Gallery_1_WEB__lz__en_GB.jpg?v=1748930724
   Price: £159.00 GBP
 - [Apple USB-C to Lightning Cable (1m)](https://iqguernsey.com/products/apple-usb-c-to-lightning-cable-1m): Connect your device with Lightning connector to your USB-C– or Thunderbolt 3 (USB-C)–enabled device for syncing and charging, or to your USB-C–enabled iPad for charging. You can also use this cable with your Apple 18W, 20W, 29W, 30W, 61W, 87W or 96W USB‑C Power Adapter to charge your iOS device and even take advantage of the fast-charging feature on selected iPhone and iPad models.
-  Updated: 2026-11-13T10:50:17Z
+  Updated: 2026-11-20T11:16:47Z
   Vendor: Apple
   Product Type: Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/MU2G3_1_75c27fa4-2a2d-4744-9c57-2bca6a167ecc.jpg?v=1748926190
   Price: £16.00 GBP
 - [Apple Lightning to USB Cable (1m)](https://iqguernsey.com/products/apple-lightning-to-usb-cable-1m)
-  Updated: 2026-11-12T12:26:21Z
+  Updated: 2026-11-20T12:15:27Z
   Vendor: Apple
   Product Type: Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/MU2G3_1_4bda812d-8c8c-453f-adc9-a7868f77edf8.jpg?v=1748926180
   Price: £16.00 GBP
 - [Apple 20W USB-C Power Adapter](https://iqguernsey.com/products/apple-20w-usb-c-power-adapter)
-  Updated: 2026-11-13T13:17:20Z
+  Updated: 2026-11-20T15:25:10Z
   Vendor: Apple
   Product Type: Adapter
   Availability: Available
@@ -1237,21 +1174,21 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/MWKA3.jpg?v=1748917708
   Price: £83.00 GBP
 - [Magic Keyboard for iPad Pro 11‑inch (M4) - British English - Black](https://iqguernsey.com/products/magic-keyboard-for-ipad-pro-11-inch-m4-british-english-black)
-  Updated: 2026-10-14T10:33:08Z
+  Updated: 2026-11-19T11:56:42Z
   Vendor: Apple
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/MWR53B_eb3447c6-7c56-4e42-84fa-4e76180be079.jpg?v=1748917655
   Price: £250.00 GBP
 - [Magic Keyboard for iPad Pro 13‑inch (M4) - British English  - White](https://iqguernsey.com/products/magic-keyboard-for-ipad-pro-13-inch-m4-british-english-white)
-  Updated: 2026-11-13T10:50:33Z
+  Updated: 2026-11-20T10:47:31Z
   Vendor: Apple
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/MWR43B.jpg?v=1748917645
   Price: £291.00 GBP
 - [Magic Keyboard for iPad Pro 13‑inch (M4) - British English  - Black](https://iqguernsey.com/products/magic-keyboard-for-ipad-pro-13-inch-m4-british-english-black)
-  Updated: 2026-11-11T16:18:26Z
+  Updated: 2026-11-16T13:41:36Z
   Vendor: Apple
   Product Type: 
   Availability: Available
@@ -1300,21 +1237,21 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/MW463.jpg?v=1748916889
   Price: £125.00 GBP
 - [Beats Pill - Statement Red](https://iqguernsey.com/products/beats-pill-statement-red): Power. Precision. Boom. The upgraded Beats Pill is more advanced than ever.¹ It’s more powerful. It’s lighter. It’s more portable. And it’s designed to sound incredible — inside your home and out and about. Enjoy room-filling sound, bigger bass and better tonality across the audio spectrum. A lot more oomph. The Beats Pill has a bigger, bespoke racetrack woofer that displaces 90% more air volume, packing more of a punch with deeper, fuller bass.¹ Loud and clear. The woofer’s material and structure — including its innovative ridges and contours — helps minimize low-end distortion, even at high volumes.¹ Powered by stronger magnets. The upgraded neodymium magnets drive the increased air volume displacement, providing 28% greater motor force for bigger, accurate sound.¹ The updated tweeter is another high note. Secured in its own housing for extra stability to help reduce distortion, the redesigned tweeter delivers crisp highs and rich mid-range tones. IP67 dust and water resistance. At the pool, at the beach, in the rain — the Beats Pill is protected by enhanced internal seals to help keep dirt, sand and water out.² Tilted to project sound upward. The streamlined Beats Pill has a 20-degree upward tilt to help optimize sound delivery toward your head, away from objects that might obstruct them. The intuitive controls are slightly tucked way on the back, still easy to reach. Designed to stay with you. The Beats Pill comes with a removable lanyard and has a soft-grip silicone backing, all to make it easy to take with you. Up to 24 hours of battery life. The Beats Pill has up to 24 hours of continuous playback.³ You can even use it to charge your phone on the go via the included USB-C cable. Apple or Android? You’re good. Whether you’re on iOS or Android, the Pill’s new proprietary chip ensures you get instant one-touch pairing, automatic pairing across your other devices, plus Find My or Find My Device.⁴ Your Pill is a speakerphone too. Take calls and activate your voice assistant right from your paired Beats Pill, all with extended range and fewer dropouts thanks to industry-leading Class 1 Bluetooth® connectivity. Extra Play Modes. Time to party? Amplify Mode syncs two Beats Pill speakers for double the audio experience. Want a surround sound feel? Stereo Mode splits audio between two Beats Pill speakers for dedicated left/right output.
-  Updated: 2026-10-19T11:14:17Z
+  Updated: 2026-11-14T11:55:07Z
   Vendor: Beats
   Product Type: Beats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/MWQW3.jpg?v=1749124537
   Price: £125.00 GBP
 - [70W USB-C POWER ADAPTER-GBR](https://iqguernsey.com/products/70w-usb-c-power-adapter-gbr)
-  Updated: 2026-11-09T13:50:56Z
+  Updated: 2026-11-16T14:40:57Z
   Vendor: Apple
   Product Type: Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/MQLN3_AV1_GEO_GB.jpg?v=1748916792
   Price: £58.00 GBP
 - [Apple 240W USB-C Charge Cable (2m)](https://iqguernsey.com/products/apple-240w-usb-c-charge-cable-2m)
-  Updated: 2026-11-13T14:54:52Z
+  Updated: 2026-11-20T15:14:31Z
   Vendor: Apple
   Product Type: Cable
   Availability: Available
@@ -1370,7 +1307,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/iphd24-react-stardust-2.png?v=1748915182
   Price: £21.00 GBP
 - [High-Speed HDMI Cable with Ethernet 4K/Ultra HD Compatible (2m)](https://iqguernsey.com/products/high-speed-hdmi-cable-with-ethernet-4k-ultra-hd-compatible-2m): Connect your Blu-ray® player, gaming console or other HD device to an HDTV. The Belkin HDMI® Cable with Ethernet is perfect for connecting Wi-Fi enabled devices to your Internet-enabled HDTV to stream movies, listen to music and view content.
-  Updated: 2026-11-12T11:21:28Z
+  Updated: 2026-11-16T13:44:27Z
   Vendor: Belkin
   Product Type: Cable
   Availability: Available
@@ -1398,7 +1335,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/download_-_2025-06-02T150918.584.png?v=1748866296
   Price: £37.50 GBP
 - [iPad Air 11 (2024) iPad Air 10.9 (2022/2020) Origami No3 Pencil Case - Black](https://iqguernsey.com/products/ipad-air-11-2024-ipad-air-10-9-2022-2020-origami-no3-pencil-case-black): If you're the sort of person who wants a slim iPad case and doesn't want to compromise on protection or functionality, our Original Origami Case is for you. Designed to offer the best of both worlds, our Original Origami No1 iPad case is made from a flexible and shock-absorbent TPU shell and designed with internal air pockets that allow the case to offer up to 1.1m/3.6ft drop protection. It also has our versatile 5-in-1 folding Origami cover that you won’t want to live without. It allows you to easily fold the front cover and position the iPad into: A portrait position (perfect for reading and video calls) A landscape viewing position (same as Apple's Smart cover) A landscape 'soft surface' position (perfect for watching Netflix in bed or on soft/unstable surfaces) A landscape 'keep clean' or travel position (perfect for general or messy surfaces that you want to minimise contact with) An ergonomic 'lay flat' position (perfect for typing, gaming, or drawing) The cover itself is made from a soft PU material (similar to Apple's Smart Cover) with a luxurious genuine microfibre lining to protect your screen against dirt and spills. As iPad users and lovers ourselves, we know the details matter. So we have also designed the case with a clear polycarbonate back, to keep it lightweight and allow you to personalise your iPad. We've also added a discrete Apple Pencil groove to the side, allowing your Apple Pencil to sync & charge through the case and an auto sleep- wake feature to extend your battery life, giving you up to 20% longer use between charges.
-  Updated: 2026-11-13T14:41:16Z
+  Updated: 2026-11-19T11:59:25Z
   Vendor: Pipetto
   Product Type: iPad Case
   Availability: Available
@@ -1419,21 +1356,21 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/czM6Ly9wbG9vbmstbWFnZW50by1jZG4tcHJvZHVjdGlvbi12Mi9tZWRpYS9jYXRhbG9nL3Byb2R1Y3QvNS8wLzUwNjA1MjA5NTU2Njdfdm9vcmFhbnppY2h0X3hfMV8xZmY5LmpwZw-3931811450.jpg?v=1748865014
   Price: £37.50 GBP
 - [iPad Pro 11 (2024) Origami No1 Original Case - Dark Blue](https://iqguernsey.com/products/ipad-pro-11-2024-origami-no1-original-case-dark-blue): If you're the sort of person who wants a slim iPad case and doesn't want to compromise on protection or functionality, our Original Origami Case is for you. Designed to offer the best of both worlds, our Original Origami No1 iPad case is made from a flexible and shock-absorbent TPU shell and designed with internal air pockets that allow the case to offer up to 1.1m/3.6ft drop protection. It also has our versatile 5-in-1 folding Origami cover that you won’t want to live without. It allows you to easily fold the front cover and position the iPad into: A portrait position (perfect for reading and video calls) A landscape viewing position (same as Apple's Smart cover) A landscape 'soft surface' position (perfect for watching Netflix in bed or on soft/unstable surfaces) A landscape 'keep clean' or travel position (perfect for general or messy surfaces that you want to minimise contact with) An ergonomic 'lay flat' position (perfect for typing, gaming, or drawing) The cover itself is made from a soft PU material (similar to Apple's Smart Cover) with a luxurious genuine microfibre lining to protect your screen against dirt and spills. As iPad users and lovers ourselves, we know the details matter. So we have also designed the case with a clear polycarbonate back, to keep it lightweight and allow you to personalise your iPad. We've also added a discrete Apple Pencil groove to the side, allowing your Apple Pencil to sync & charge through the case and an auto sleep- wake feature to extend your battery life, giving you up to 20% longer use between charges.
-  Updated: 2026-10-10T10:47:14Z
+  Updated: 2026-11-19T11:59:36Z
   Vendor: Pipetto
   Product Type: iPad Case
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/download_-_2025-06-02T145053.155.png?v=1748865076
   Price: £37.50 GBP
 - [iPad Pro 11 (2024) Origami No3 Pencil Case - Black](https://iqguernsey.com/products/ipad-pro-11-2024-origami-no3-pencil-case-black): If you're the sort of person who wants a slim iPad case and doesn't want to compromise on protection or functionality, our Original Origami Case is for you. Designed to offer the best of both worlds, our Original Origami No1 iPad case is made from a flexible and shock-absorbent TPU shell and designed with internal air pockets that allow the case to offer up to 1.1m/3.6ft drop protection. It also has our versatile 5-in-1 folding Origami cover that you won’t want to live without. It allows you to easily fold the front cover and position the iPad into: A portrait position (perfect for reading and video calls) A landscape viewing position (same as Apple's Smart cover) A landscape 'soft surface' position (perfect for watching Netflix in bed or on soft/unstable surfaces) A landscape 'keep clean' or travel position (perfect for general or messy surfaces that you want to minimise contact with) An ergonomic 'lay flat' position (perfect for typing, gaming, or drawing) The cover itself is made from a soft PU material (similar to Apple's Smart Cover) with a luxurious genuine microfibre lining to protect your screen against dirt and spills. As iPad users and lovers ourselves, we know the details matter. So we have also designed the case with a clear polycarbonate back, to keep it lightweight and allow you to personalise your iPad. We've also added a discrete Apple Pencil groove to the side, allowing your Apple Pencil to sync & charge through the case and an auto sleep- wake feature to extend your battery life, giving you up to 20% longer use between charges.
-  Updated: 2026-11-06T16:35:57Z
+  Updated: 2026-11-19T11:59:36Z
   Vendor: Pipetto
   Product Type: iPad Case
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/download_-_2025-06-02T145243.007.png?v=1748865177
   Price: £37.50 GBP
 - [iPad Air 13 (2024) Origami No1 Original Case - Black](https://iqguernsey.com/products/ipad-air-13-2024-origami-no1-original-case-black): If you're the sort of person who wants a slim iPad case and doesn't want to compromise on protection or functionality, our Original Origami Case is for you. Designed to offer the best of both worlds, our Original Origami No1 iPad case is made from a flexible and shock-absorbent TPU shell and designed with internal air pockets that allow the case to offer up to 1.1m/3.6ft drop protection. It also has our versatile 5-in-1 folding Origami cover that you won’t want to live without. It allows you to easily fold the front cover and position the iPad into: A portrait position (perfect for reading and video calls) A landscape viewing position (same as Apple's Smart cover) A landscape 'soft surface' position (perfect for watching Netflix in bed or on soft/unstable surfaces) A landscape 'keep clean' or travel position (perfect for general or messy surfaces that you want to minimise contact with) An ergonomic 'lay flat' position (perfect for typing, gaming, or drawing) The cover itself is made from a soft PU material (similar to Apple's Smart Cover) with a luxurious genuine microfibre lining to protect your screen against dirt and spills. As iPad users and lovers ourselves, we know the details matter. So we have also designed the case with a clear polycarbonate back, to keep it lightweight and allow you to personalise your iPad. We've also added a discrete Apple Pencil groove to the side, allowing your Apple Pencil to sync & charge through the case and an auto sleep- wake feature to extend your battery life, giving you up to 20% longer use between charges.
-  Updated: 2026-10-29T11:39:06Z
+  Updated: 2026-11-19T11:59:36Z
   Vendor: Pipetto
   Product Type: iPad Case
   Availability: Available
@@ -1475,7 +1412,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/download_-_2025-06-02T144219.944.png?v=1748864575
   Price: £125.00 GBP
 - [Magic Keyboard - British English (USB-C)](https://iqguernsey.com/products/magic-keyboard-british-english-usb-c): Magic Keyboard delivers a remarkably comfortable and precise typing experience for Mac and Apple Vision Pro. It’s also wireless and rechargeable, with an incredibly long-lasting internal battery that will power your keyboard for about a month or more between charges.¹ It pairs automatically with your Mac, so you can get to work right away. It features a USB-C port and includes a woven USB-C Charge Cable that lets you pair and charge by connecting to a USB-C port on your Mac, so you can charge all of your favorite devices with just a single cable. If you would like to pair Magic Keyboard with your Apple Vision Pro, click here to see supported languages.
-  Updated: 2026-10-18T22:23:56Z
+  Updated: 2026-11-19T15:04:47Z
   Vendor: Apple
   Product Type: Magic Keyboard
   Availability: Available
@@ -1510,7 +1447,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/download_-_2025-06-02T142458.848.png?v=1748863529
   Price: £125.00 GBP
 - [Magic Mouse - White - (USB-C)](https://iqguernsey.com/products/magic-mouse-white-usb-c): Magic Mouse is wireless and rechargeable, with an optimized foot design that lets it glide smoothly across your desk. The Multi-Touch surface allows you to perform simple gestures such as swiping between web pages and scrolling through documents. The rechargeable battery will power your Magic Mouse for about a month or more between charges. It’s ready to go right out of the box and pairs automatically with your Mac. It features a USB-C port and includes a woven USB-C Charge Cable that lets you pair and charge by connecting to a USB-C port on your Mac, so you can charge all of your favorite devices with just a single cable.
-  Updated: 2026-11-04T11:29:37Z
+  Updated: 2026-11-16T13:40:17Z
   Vendor: Apple
   Product Type: Magic Mouse
   Availability: Available
@@ -1524,21 +1461,21 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/download_-_2025-06-02T142009.616.png?v=1748863232
   Price: £83.00 GBP
 - [USB-C to Headphone Jack Adapter](https://iqguernsey.com/products/usb-c-to-headphone-jack-adapter): The USB-C to 3.5mm Headphone Jack Adapter lets you connect devices that use a standard 3.5mm audio plug — like headphones or speakers — to your USB-C devices.
-  Updated: 2026-11-07T10:44:45Z
+  Updated: 2026-11-19T13:29:47Z
   Vendor: Apple
   Product Type: Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/download_-_2025-06-02T140438.836.png?v=1748862299
   Price: £7.50 GBP
 - [Apple Watch Magnetic Charging Cable (1m)](https://iqguernsey.com/products/apple-watch-magnetic-charging-cable-1m)
-  Updated: 2026-10-19T14:20:31Z
+  Updated: 2026-11-20T10:46:12Z
   Vendor: Apple
   Product Type: Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/MX2E2.jpg?v=1748915124
   Price: £25.00 GBP
 - [Beats Powerbeats Pro 2  - Jet Black](https://iqguernsey.com/products/beats-powerbeats-pro-2-jet-black): Built for Athletes. After relentless testing and refinements, the next-generation Powerbeats Pro 2 is ready for action. And it’s the most advanced product we’ve ever developed. Ultimate Secure Fit Heart Rate Monitoring Sensors Active Noise Cancelling Transparency mode Adaptive EQ Up to 45 Hours of Battery Life¹ Wireless Charging Case² Tried and tested. And tested again. In search of the perfect fit, we conducted over 1,500 hours of rigorous testing with nearly 1,000 athletes. The result: Powerbeats Pro 2 is our best-fitting headphone — ever. Heart Rate Monitoring for workouts. You want real-time data about your workout performance, so we built Powerbeats Pro 2 with accurate Heart Rate Monitoring sensors.³Precision-crafted LED optical sensors pulse light over 100 times per second to measure your blood flow.All this can be relayed to your favorite fitness apps in real time — and of course you can turn heart rate monitoring oﬀ whenever you want. Stays locked in. The updated earhook has been rebuilt with a super-light nickel-titanium alloy that is renowned in material design for its exceptional shape memory and flexibility. Light like a butterfly. The redesigned Powerbeats Pro 2 is 20% lighter than its predecessor. Incredible sound. Incredible noise cancelling. Powerbeats Pro 2 delivers powerful sound for any training environment. Turn on Active Noise Cancelling (ANC) when you want absolute focus, and experience the best noise cancelling we’ve ever developed. Listen in Transparency mode when you need to hear the world around you.⁴ Re-engineered acoustics and Spatial Audio. Powerbeats Pro 2 has a redesigned acoustic architecture, upgraded venting to enhance your sound and comfort, and Personalized Spatial Audio with dynamic head tracking to fully immerse you in your music.⁵ Adaptive EQ is as smart as it sounds. Using the advanced inward-facing microphones, Adaptive EQ continuously scans your specific ear shape to optimize your listening experience.The advanced technology analyzes what you’re hearing in real time based on the individual fit of your earbuds, then adjusts acoustic frequencies for clear, customized sound. Up to 45 hours of battery life with the charging case. And each bud gives up to 10 hours of playback per charge.¹ That’s countless miles or reps. Thanks to Fast Fuel, a five-minute charge gives you up to 90 minutes of playback.⁶ Wireless charging case. Powerbeats Pro 2 is also our very first product that is compatible with wireless charging.² The charging case is now 33% smaller for easy portability.⁷ Five ear tip sizes. For the first time ever, we’ve added a fifth ear tip size to help optimize your personal comfort. Choose from extra-small, small, medium, large and extra-large to find your fit. Sweat and water resistant. Powerbeats Pro 2 is sweat and water resistant with an IPX4 rating, so you can go as hard as you want to without interruption, even in the rain, snow or heat.⁸ Elite microphones. Clutch call quality. Each earbud is equipped with a voice accelerometer and three advanced microphones identical to those used in AirPods Pro 2. The improved microphones are more accurate than any we’ve featured before, with an improved signal-to-noise ratio and exceptional voice targeting and noise suppression. Next-Level Voice Isolation Leveraging advanced computational audio and a machine-learning algorithm, Voice Isolation reduces background noise while isolating and clarifying the sound of your voice during calls.⁹ Stay in command. Use the on-ear buttons or your voice to control your music, so you can focus on your training without disrupting your flow.Each earbud also has a tactile volume rocker for ultimate convenience. Powered by the Apple H2 chip. The updated sound profile, noise cancelling, Heart Rate Monitoring for workouts and exceptional battery life are all enabled by the efficient Apple H2 chip, the same chip that powers AirPods Pro 2.
-  Updated: 2026-10-14T10:35:22Z
+  Updated: 2026-11-14T12:56:47Z
   Vendor: Beats
   Product Type: Beats Powerbeats Pro 2
   Availability: Available
@@ -1607,7 +1544,21 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/download_-_2025-06-02T111615.880.png?v=1748852410
   Price: £84.00 GBP
-[List Continued](https://iqguernsey.com/a/llms-agent/llms.txt?shop=iq-guernsey.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTk1MDQ0MTkyNTc1LCJsYXN0X3ZhbHVlIjoiOTk5NTA0NDE5MjU3NSJ9)
+- [Beats Studio Buds + - True Wireless Noise Cancelling Earbuds - Black/Gold](https://iqguernsey.com/products/beats-studio-buds-true-wireless-noise-cancelling-earbuds-black-gold-black-gold): Beats Custom Acoustic Platform Beats Studio Buds + custom acoustic platform packs powerful, balanced sound in a sophisticated, pocketable design. Reengineered acoustic venting improves audio precision and gently relieves pressure for a more comfortable all-day fit. Each bud is equipped with a two-layer transducer that flexes to deliver cleaner bass and ultra-low distortion. So whether you’re listening to music or taking calls, Studio Buds + deliver rich, immersive sound wherever you go. Active Noise Cancelling and Transparency Mode At the touch of a button, two dynamic listening modes let you choose whether to keep the world out or let it in. Active Noise Cancelling (ANC) has been engineered to adapt to your personal fit, neutralizing unwanted external noise. Easily switch to Transparency mode when you need awareness of the world around you. More Music, Less Charging With up to 36 hours of total battery life¹ including 27 hours from the sleek, pocket-sized charging case and up to 9 hours from the earbuds, Beats Studio Buds + are ready to go whenever you are. Find yourself low on battery? A 5-minute Fast Fuel charge provides an hour of additional use² so you get more music, podcasts, and calls between every charge. Enhanced Apple and Android Compatibility Beats Studio Buds + offer a robust set of Apple and Android features including one-touch pairing and ‘Find My’ device.³ Enhanced Apple Compatibility Beats Studio Buds + offer a host of native Apple features: One-touch pairing - easy, one-touch setup instantly pairs with every device in your iCloud account⁴ “Hey Siri” - simply say “Hey Siri” to activate your voice assistant⁵ Find My - locate your lost earbuds on a map based on the last known connected location⁶ Over-the-air updates - receive software updates and new features automatically Enhanced Android Compatibility Beats Studio Buds + are equipped with an array of native Android features: Google Fast Pair - connect quickly with a single tap, and automatically pair to all Android or Chrome devices registered to your Gmail account⁷ Audio Switch - seamlessly transition audio between your Android, Chromebook, and other compatible devices⁸ Find My Device - easily locate your lost buds with Google Find My Device⁹ For additional features, download the Beats app to unlock access to product customization, software updates, and new features to get the most out of your headphones. Clear Calls Upgraded voice-targeting microphones in Beats Studio Buds + give you high-quality call performance. These powerful microphones actively filter out background noise to enhance the clarity of your voice. Fit For Better Sound Beats Studio Buds + offer a comfortable fit with a perfect acoustic seal for the best sound experience. With four eartip options (XS, S, M & L), Studio Buds + are designed to fit a wider range of ears. Simple, customizable on-ear controls give you quick access to your favorite settings and sweat and water resistance (IPX4) lets you take them anywhere you want to go.¹⁰
+  Updated: 2026-05-27T08:58:39Z
+  Vendor: Beats
+  Product Type: Beats Studio Buds +
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/download_-_2025-06-02T111020.885.png?v=1748851880
+  Price: £150.00 GBP
+- [Beats Studio Buds + - True Wireless Noise Cancelling Earbuds - Ivory](https://iqguernsey.com/products/beats-studio-buds-true-wireless-noise-cancelling-earbuds-ivory-ivory): Beats Custom Acoustic Platform Beats Studio Buds + custom acoustic platform packs powerful, balanced sound in a sophisticated, pocketable design. Reengineered acoustic venting improves audio precision and gently relieves pressure for a more comfortable all-day fit. Each bud is equipped with a two-layer transducer that flexes to deliver cleaner bass and ultra-low distortion. So whether you’re listening to music or taking calls, Studio Buds + deliver rich, immersive sound wherever you go. Active Noise Cancelling and Transparency Mode At the touch of a button, two dynamic listening modes let you choose whether to keep the world out or let it in. Active Noise Cancelling (ANC) has been engineered to adapt to your personal fit, neutralizing unwanted external noise. Easily switch to Transparency mode when you need awareness of the world around you. More Music, Less Charging With up to 36 hours of total battery life¹ including 27 hours from the sleek, pocket-sized charging case and up to 9 hours from the earbuds, Beats Studio Buds + are ready to go whenever you are. Find yourself low on battery? A 5-minute Fast Fuel charge provides an hour of additional use² so you get more music, podcasts, and calls between every charge. Enhanced Apple and Android Compatibility Beats Studio Buds + offer a robust set of Apple and Android features including one-touch pairing and ‘Find My’ device.³ Enhanced Apple Compatibility Beats Studio Buds + offer a host of native Apple features: One-touch pairing - easy, one-touch setup instantly pairs with every device in your iCloud account⁴ “Hey Siri” - simply say “Hey Siri” to activate your voice assistant⁵ Find My - locate your lost earbuds on a map based on the last known connected location⁶ Over-the-air updates - receive software updates and new features automatically Enhanced Android Compatibility Beats Studio Buds + are equipped with an array of native Android features: Google Fast Pair - connect quickly with a single tap, and automatically pair to all Android or Chrome devices registered to your Gmail account⁷ Audio Switch - seamlessly transition audio between your Android, Chromebook, and other compatible devices⁸ Find My Device - easily locate your lost buds with Google Find My Device⁹ For additional features, download the Beats app to unlock access to product customization, software updates, and new features to get the most out of your headphones. Clear Calls Upgraded voice-targeting microphones in Beats Studio Buds + give you high-quality call performance. These powerful microphones actively filter out background noise to enhance the clarity of your voice. Fit For Better Sound Beats Studio Buds + offer a comfortable fit with a perfect acoustic seal for the best sound experience. With four eartip options (XS, S, M & L), Studio Buds + are designed to fit a wider range of ears. Simple, customizable on-ear controls give you quick access to your favorite settings and sweat and water resistance (IPX4) lets you take them anywhere you want to go.¹⁰
+  Updated: 2026-06-03T08:44:39Z
+  Vendor: Beats
+  Product Type: Beats Studio Buds +
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/download_-_2025-06-02T111047.332.png?v=1748851964
+  Price: £150.00 GBP
+[List Continued](https://iqguernsey.com/a/llms-agent/llms.txt?shop=iq-guernsey.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTk1MDQ0MjkwODc5LCJsYXN0X3ZhbHVlIjoiOTk5NTA0NDI5MDg3OSJ9)
 
 ## Collections
 
@@ -1678,7 +1629,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2026-11-09T10:30:56Z
   Total Products: 24
 - [apl_ps_EarPods (USB-C)](https://iqguernsey.com/collections/apl-ps-earpods-usb-c)
-  Updated: 2026-09-27T11:18:53Z
+  Updated: 2026-11-17T12:17:23Z
   Total Products: 1
 - [apl_ps_iPhone 16 Plus Silicone Case with MagSafe](https://iqguernsey.com/collections/apl-ps-iphone-16-plus-silicone-case-with-magsafe)
   Updated: 2026-11-12T10:30:27Z
@@ -1747,7 +1698,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2026-09-17T12:57:28Z
   Total Products: 1
 - [apl_ps_13-inch iPad Air M2](https://iqguernsey.com/collections/apl-ps-13-inch-ipad-air-m2)
-  Updated: 2026-11-12T10:30:07Z
+  Updated: 2026-11-18T06:44:40Z
   Total Products: 12
 - [apl_ps_iPhone FineWoven Wallet with MagSafe](https://iqguernsey.com/collections/apl-ps-iphone-finewoven-wallet-with-magsafe)
   Updated: 2026-11-09T10:47:16Z
@@ -1846,10 +1797,10 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2026-06-02T07:34:55Z
   Total Products: 19
 - [apl_ps_11-inch iPad Air M3](https://iqguernsey.com/collections/apl-ps-11-inch-ipad-air-m3)
-  Updated: 2026-11-09T10:48:46Z
+  Updated: 2026-11-18T06:44:36Z
   Total Products: 32
 - [apl_ps_2025 iPad A16](https://iqguernsey.com/collections/apl-ps-2025-ipad-a16)
-  Updated: 2026-11-11T12:18:40Z
+  Updated: 2026-11-19T12:17:42Z
   Total Products: 24
 - [apl_ps_Magic Keyboard for iPad Air 13‑inch (M3)](https://iqguernsey.com/collections/apl-ps-magic-keyboard-for-ipad-air-13-inch-m3)
   Updated: 2026-06-24T14:59:22Z
@@ -1903,7 +1854,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2026-09-17T17:44:46Z
   Total Products: 2
 - [apl_ps_iPhone 14](https://iqguernsey.com/collections/apl-ps-iphone-14)
-  Updated: 2026-11-09T10:48:02Z
+  Updated: 2026-11-18T06:44:39Z
   Total Products: 18
 - [apl_ps_iPhone SE](https://iqguernsey.com/collections/apl-ps-iphone-se)
   Updated: 2026-09-17T12:30:48Z
@@ -1912,8 +1863,8 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2026-09-17T12:30:49Z
   Total Products: 0
 - [Offers](https://iqguernsey.com/collections/offers)
-  Updated: 2026-11-11T09:40:37Z
-  Total Products: 6
+  Updated: 2026-11-18T06:45:17Z
+  Total Products: 0
 - [Belkin Boost](https://iqguernsey.com/collections/belkin-boost)
   Updated: 2025-05-20T12:07:19Z
   Total Products: 0
@@ -1930,7 +1881,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2026-09-17T12:30:57Z
   Total Products: 0
 - [apl_ps_14-inch MacBook Pro M3](https://iqguernsey.com/collections/apl_ps_14-inch-macbook-pro-m3)
-  Updated: 2026-11-12T10:30:41Z
+  Updated: 2026-11-18T06:44:41Z
   Total Products: 2
 - [apl_ps_14-inch MacBook Pro M3 Pro](https://iqguernsey.com/collections/apl_ps_14-inch-macbook-pro-m3-pro)
   Updated: 2026-11-09T09:48:29Z
@@ -1948,16 +1899,16 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2026-11-09T10:48:18Z
   Total Products: 5
 - [apl_ps_14-inch MacBook Pro M4 Pro](https://iqguernsey.com/collections/apl_ps_14-inch-macbook-pro-m4-pro)
-  Updated: 2026-09-17T12:30:53Z
+  Updated: 2026-11-18T06:51:45Z
   Total Products: 4
 - [apl_ps_16-inch MacBook Pro M3 Max](https://iqguernsey.com/collections/apl_ps_16-inch-macbook-pro-m3-max)
   Updated: 2026-09-17T12:30:58Z
   Total Products: 0
 - [apl_ps_15-inch MacBook Air M3](https://iqguernsey.com/collections/apl_ps_15-inch-macbook-air-m3)
-  Updated: 2026-11-12T10:30:39Z
+  Updated: 2026-11-18T06:44:38Z
   Total Products: 9
 - [apl_ps_15-inch MacBook Air M4](https://iqguernsey.com/collections/apl_ps_15-inch-macbook-air-m4)
-  Updated: 2026-09-17T12:30:51Z
+  Updated: 2026-11-18T06:44:41Z
   Total Products: 12
 - [apl_ps_16-inch MacBook Pro](https://iqguernsey.com/collections/apl_ps_16-inch-macbook-pro)
   Updated: 2026-11-12T10:30:39Z
@@ -2035,7 +1986,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2026-09-17T12:30:58Z
   Total Products: 0
 - [apl_ps_2022 Mac Studio (M1 Ultra, 2022)](https://iqguernsey.com/collections/apl_ps_2022-mac-studio-m1-ultra-2022)
-  Updated: 2026-09-17T12:30:55Z
+  Updated: 2026-11-18T06:44:32Z
   Total Products: 1
 - [apl_ps_2023 49mm Midnight Ocean Band Extension](https://iqguernsey.com/collections/apl_ps_2023-49mm-midnight-ocean-band-extension)
   Updated: 2025-04-23T07:16:11Z
@@ -2047,13 +1998,13 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2025-04-23T07:16:11Z
   Total Products: 0
 - [apl_ps_2023 Mac Studio (M2 Max, 2023)](https://iqguernsey.com/collections/apl_ps_2023-mac-studio-m2-max-2023)
-  Updated: 2026-09-17T12:30:55Z
+  Updated: 2026-11-18T06:44:37Z
   Total Products: 1
 - [apl_ps_2023 Apple Watch SE Sport Loop 2nd generation](https://iqguernsey.com/collections/apl_ps_2023-apple-watch-se-sport-loop-2nd-generation)
   Updated: 2025-04-23T07:16:11Z
   Total Products: 0
 - [apl_ps_2024 Apple Pencil Pro](https://iqguernsey.com/collections/apl_ps_2024-apple-pencil-pro)
-  Updated: 2026-10-01T11:18:26Z
+  Updated: 2026-11-19T12:17:42Z
   Total Products: 1
 - [apl_ps_2023 Mac Studio (M2 Ultra, 2023)](https://iqguernsey.com/collections/apl_ps_2023-mac-studio-m2-ultra-2023)
   Updated: 2026-11-09T09:48:29Z
@@ -2317,7 +2268,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2025-04-28T14:22:33Z
   Total Products: 0
 - [apl_ps_Magic Keyboard for iPad Pro 13‑inch (M4)](https://iqguernsey.com/collections/apl_ps_magic-keyboard-for-ipad-pro-13-inch-m4)
-  Updated: 2026-07-14T18:03:02Z
+  Updated: 2026-11-20T12:17:21Z
   Total Products: 2
 - [apl_ps_Magic Keyboard with Touch ID (2021)](https://iqguernsey.com/collections/apl_ps_magic-keyboard-with-touch-id-2021)
   Updated: 2025-04-23T07:16:18Z
