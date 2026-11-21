@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-07-27T04:31:22Z
 - Contact Email: ramirezjoshuavpnwu7318@gmail.com
-- Updated At: 2026-11-14T01:04:19.488Z
+- Updated At: 2026-11-21T01:21:24.997Z
 
 ## Products
 
@@ -681,7 +681,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/1980/9983/files/LS9TENSIONOW.jpg?v=1790758159
     Price: $190.20 USD
 - [Takada Mini Cordless Table Lamp | Table Lamps | Geminterior](https://geminterior.com/products/takada-mini-cordless-table-lamp-cordless-rechargeable-lamp): Cozy up your curation with this small table light. Shop Takada Mini Cordless Table Lamp at Geminterior.
-  Updated: 2026-10-03T15:43:42Z
+  Updated: 2026-11-16T12:50:27Z
   Vendor: geminterior
   Product Type: Table Lamps
   Availability: Available
@@ -3055,20 +3055,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/1980/9983/files/payal-table-lamp-lava_1.jpg?v=1790758523
   Price: $280.80 USD
-- [Frederick Pendant Light | Pendant Lights | Geminterior](https://geminterior.com/products/frederick-pendant-light-modern-ceiling-pendant-light-modern-home): Heidi Caillier infuses this exclusive collection with all the warmth, pattern, and nostalgic details that define her celebrated interiors. Shop Frederick.
-  Updated: 2026-10-03T15:44:26Z
-  Vendor: geminterior
-  Product Type: Pendant Lights
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0762/1980/9983/files/Lulu-and-Georgia_FrederickPendantLightbyHeidiCaillier_CreamandAgedBrass_10_Dia_A0661556_6468_Product.jpg?v=1790758525
-  - [Cream and Aged Brass / 10"Dia](https://geminterior.com/products/frederick-pendant-light-modern-ceiling-pendant-light-modern-home?variant=67529476243647)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0762/1980/9983/files/Lulu-and-Georgia_FrederickPendantLightbyHeidiCaillier_CreamandAgedBrass_10_Dia_A0661556_6468_Product.jpg?v=1790758525
-    Price: $238.80 USD
-  - [Aged Brass / 10"Dia](https://geminterior.com/products/frederick-pendant-light-modern-ceiling-pendant-light-modern-home?variant=67529476276415)
-    Availability: Available
-    Price: $238.80 USD
-[List Continued](https://geminterior.com/a/llms-agent/llms.txt?shop=1aibqq-vx.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTM3NTY3MjM3NzUzNSwibGFzdF92YWx1ZSI6IjE1Mzc1NjcyMzc3NTM1In0%3D)
+[List Continued](https://geminterior.com/a/llms-agent/llms.txt?shop=1aibqq-vx.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTM3NTY3MjM0NDc2NywibGFzdF92YWx1ZSI6IjE1Mzc1NjcyMzQ0NzY3In0%3D)
 
 ## Collections
 
@@ -3079,13 +3066,13 @@
   Updated: 2026-10-03T15:43:34Z
   Total Products: 380
 - [Table Lamps](https://geminterior.com/collections/table-lamps)
-  Updated: 2026-10-03T15:43:34Z
+  Updated: 2026-11-17T12:23:08Z
   Total Products: 340
 - [Pendant Lights](https://geminterior.com/collections/pendant-lights)
-  Updated: 2026-10-03T15:43:34Z
+  Updated: 2026-11-16T12:22:25Z
   Total Products: 243
 - [Chandeliers](https://geminterior.com/collections/chandeliers)
-  Updated: 2026-10-03T15:43:34Z
+  Updated: 2026-11-16T12:22:25Z
   Total Products: 210
 - [Floor Lamps](https://geminterior.com/collections/floor-lamps)
   Updated: 2026-10-03T15:43:34Z
@@ -3094,10 +3081,10 @@
   Updated: 2026-10-03T15:43:35Z
   Total Products: 119
 - [Dining Room](https://geminterior.com/collections/dining-room)
-  Updated: 2026-10-03T15:43:35Z
+  Updated: 2026-11-16T12:22:25Z
   Total Products: 453
 - [Living Room](https://geminterior.com/collections/living-room)
-  Updated: 2026-10-03T15:43:35Z
+  Updated: 2026-11-17T12:23:08Z
   Total Products: 490
 - [Bed Room](https://geminterior.com/collections/bed-room)
   Updated: 2026-10-03T15:43:35Z
@@ -3106,10 +3093,10 @@
   Updated: 2026-10-03T15:43:35Z
   Total Products: 4
 - [Entry & Console](https://geminterior.com/collections/entry-console)
-  Updated: 2026-10-03T15:43:35Z
+  Updated: 2026-11-17T12:23:08Z
   Total Products: 340
 - [Cozy Corners](https://geminterior.com/collections/cozy-corners)
-  Updated: 2026-10-03T15:43:35Z
+  Updated: 2026-11-17T12:23:08Z
   Total Products: 34
 - [Best Sellers](https://geminterior.com/collections/best-sellers)
   Updated: 2026-10-03T15:43:35Z
@@ -3177,6 +3164,15 @@
     Author: Geminterior
   - [How the Miray Cordless Table Lamp Complements Designer Pendant Lights and Dining Room Chandeliers for Layered Ambient Lighting](https://geminterior.com/blogs/news/how-the-miray-cordless-table-lamp-complements-designer-pendant-lights-and-dining-room-chandeliers-for-layered-ambient-lighting): How the Miray Cordless Table Lamp Complements Designer Pendant Lights and Dining Room Chandeliers for Layered Ambient Lighting
     Updated: 2026-11-11T01:09:27Z
+    Author: Geminterior
+  - [Modern Energy: Discover Leading Roles of Dining Room Chandeliers and Ambient Wall Sconces in Ultimate Layered Lighting](https://geminterior.com/blogs/news/modern-energy-discover-leading-roles-of-dining-room-chandeliers-and-ambient-wall-sconces-in-ultimate-layered-lighting): Modern Energy: Discover Leading Roles of Dining Room Chandeliers and Ambient Wall Sconces in Ultimate Layered Lighting
+    Updated: 2026-11-16T00:11:31Z
+    Author: Geminterior
+  - [Elevate Your Dining Experience: A Deep Dive into Modern Ceiling Lighting and Dining Room Chandelier Fixtures for Ambient Elegance](https://geminterior.com/blogs/news/elevate-your-dining-experience-a-deep-dive-into-modern-ceiling-lighting-and-dining-room-chandelier-fixtures-for-ambient-elegance): Elevate Your Dining Experience: A Deep Dive into Modern Ceiling Lighting and Dining Room Chandelier Fixtures for Ambient Elegance
+    Updated: 2026-11-17T00:23:00Z
+    Author: Geminterior
+  - [Cavendish Sconce: Transforming Bedrooms with Ambient Wall Sconces and Designer Pendant Lights for Layered Lighting Solutions](https://geminterior.com/blogs/news/cavendish-sconce-transforming-bedrooms-with-ambient-wall-sconces-and-designer-pendant-lights-for-layered-lighting-solutions): Cavendish Sconce: Transforming Bedrooms with Ambient Wall Sconces and Designer Pendant Lights for Layered Lighting Solutions
+    Updated: 2026-11-18T01:08:09Z
     Author: Geminterior
 
 ## Store Pages
