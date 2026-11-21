@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-03-26T00:24:38Z
 - Contact Email: joeadecants@gmail.com
-- Updated At: 2026-11-14T00:37:57.704Z
+- Updated At: 2026-11-21T00:40:03.458Z
 
 Joe A.’s Decants
 [!IMPORTANT]
@@ -32,7 +32,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $47.00 USD
 - [Absinth](https://joeasdecants.com/products/absinth): Top Notes: Mid Notes: Wormwood, Green Notes Base Notes: Vetiver
-  Updated: 2026-09-13T15:55:45Z
+  Updated: 2026-11-15T04:04:02Z
   Vendor: Nasomatto
   Product Type: Absinth
   Availability: Available
@@ -47,7 +47,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $71.00 USD
 - [Ambre Sultan](https://joeasdecants.com/products/ambre-sultan): Top Notes: Coriander Mid Notes: Bay Leaf, Oregano, Angelica, Myrtle Base Notes: Patchouli, Resins, Amber, Myrrh, Benzoin, Sandalwood, Vanilla
-  Updated: 2026-09-13T15:55:45Z
+  Updated: 2026-11-15T04:04:06Z
   Vendor: Serge Lutens
   Product Type: Ambre Sultan
   Availability: Available
@@ -62,7 +62,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $53.00 USD
 - [Aqua Celestia Cologne Forte](https://joeasdecants.com/products/aqua-celestia-cologne-forte): Top Notes: Black Currant, Bergamot Mid Notes: Mimosa, Jasmine Base Notes: Musk
-  Updated: 2026-09-13T15:55:45Z
+  Updated: 2026-11-15T04:04:06Z
   Vendor: Maison Francis Kurkdjian
   Product Type: Aqua Celestia Cologne Forte
   Availability: Available
@@ -77,7 +77,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $33.00 USD
 - [Arabians Tonka](https://joeasdecants.com/products/arabians-tonka): Top Notes: Saffron, Bergamot Mid Notes: Agarwood (Oud), Bulgarian Rose Base Notes: Tonka Bean, Sugar Cane, Amber, White Musk, Oakmoss
-  Updated: 2026-09-13T15:55:45Z
+  Updated: 2026-11-15T04:04:06Z
   Vendor: Montale
   Product Type: Arabians Tonka
   Availability: Available
@@ -92,7 +92,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $27.00 USD
 - [Babycat](https://joeasdecants.com/products/babycat): Top Notes: Black and Pink Pepper, Elemi Mid Notes: Olibanum, Saffron Base Notes: Bourbon Vanilla, Suede, Cedar
-  Updated: 2026-09-13T15:55:46Z
+  Updated: 2026-11-15T04:04:06Z
   Vendor: Yves Saint Laurent
   Product Type: Babycat
   Availability: Available
@@ -107,7 +107,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $78.00 USD
 - [Baccarat Rouge 540 EDP](https://joeasdecants.com/products/baccarat-rouge-540-edp): Top Notes: Saffron, Jasmine Mid Notes: Amberwood, Ambergris, Hedione Base Notes: Fir Resin, Cedar, Sugar, Ambroxan, Oakmoss
-  Updated: 2026-09-13T15:55:46Z
+  Updated: 2026-11-15T04:04:06Z
   Vendor: Maison Francis Kurkdjian
   Product Type: Baccarat Rouge 540 EDP
   Availability: Available
@@ -122,7 +122,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $45.00 USD
 - [Baccarat Rouge 540 EXT](https://joeasdecants.com/products/baccarat-rouge-540-ext): Top Notes: Bitter Almond, Saffron Mid Notes: Egyptian Jasmine, Virginia Cedar Base Notes: Ambergris, Woody Notes, Musk, Ambroxan, Cashmeran
-  Updated: 2026-09-13T15:55:50Z
+  Updated: 2026-11-15T04:04:07Z
   Vendor: Maison Francis Kurkdjian
   Product Type: Baccarat Rouge 540 EXT
   Availability: Available
@@ -137,7 +137,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $59.00 USD
 - [Baraonda](https://joeasdecants.com/products/baraonda): Top Notes: Ambrette (Musk Mallow) Mid Notes: Rose Base Notes: Ambroxan, Whiskey, Musk, Woody Notes
-  Updated: 2026-09-13T15:55:51Z
+  Updated: 2026-11-15T04:04:12Z
   Vendor: Nasomatto
   Product Type: Baraonda
   Availability: Available
@@ -152,7 +152,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $71.00 USD
 - [Beach Hut Man](https://joeasdecants.com/products/beach-hut): Top Notes: Mint, Galbanum, Orange Blossom Mid Notes: Ivy, Vetiver, Moss Base Notes: Woody Notes, Myrrh, Patchouli
-  Updated: 2026-09-13T15:55:51Z
+  Updated: 2026-11-15T04:04:11Z
   Vendor: Amouage
   Product Type: Beach Hut Man
   Availability: Available
@@ -167,7 +167,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $80.00 USD
 - [Bergamote Soleil](https://joeasdecants.com/products/bergamote-soleil): Top Notes: Calabrian Bergamot, Bitter Orange, Ambrette (Musk Mallow) Mid Notes: Lavender, Guatemalan Cardamom, Egyptian Jasmine Base Notes: Haitian Vetiver, Oakmoss, White Amber
-  Updated: 2026-09-13T15:55:55Z
+  Updated: 2026-11-15T04:04:11Z
   Vendor: Atelier Cologne
   Product Type: Bergamote Soleil
   Availability: Available
@@ -182,7 +182,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $23.00 USD
 - [Black Afgano](https://joeasdecants.com/products/black-afgano): Top Notes: , Green Notes, Davana, Saffron, Thyme Mid Notes: Resins, Woodsy Notes, Tobacco, Coffee, Cinnamon, Violet, Raspberry Base Notes: Agarwood (Oud), Incense, Amber, Animal Notes, Guaiac Wood, Musk, Tonka, Gurjan Balsam, Cedar, Ambroxan, Vanilla
-  Updated: 2026-09-13T15:55:55Z
+  Updated: 2026-11-15T04:04:12Z
   Vendor: Nasomatto
   Product Type: Black Afgano
   Availability: Available
@@ -197,7 +197,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $71.00 USD
 - [Blamage](https://joeasdecants.com/products/blamage): Top Notes: Mid Notes: Base Notes: Birch, Musk, White Woods, Leather
-  Updated: 2026-09-13T15:55:55Z
+  Updated: 2026-11-15T04:04:16Z
   Vendor: Nasomatto
   Product Type: Blamage
   Availability: Available
@@ -212,7 +212,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $71.00 USD
 - [Bleecker St.](https://joeasdecants.com/products/bleecker-st): Top Notes: Violet Leaf, Blueberry, Cassis, Thyme Mid Notes: Cedar, Jasmine, Cinnamon Base Notes: Oakmoss, Suede, Patchouli, Amber, Vanilla, Caramel
-  Updated: 2026-09-13T15:55:55Z
+  Updated: 2026-11-15T04:04:17Z
   Vendor: Bond No 9
   Product Type: Bleecker St.
   Availability: Available
@@ -227,7 +227,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $57.00 USD
 - [Bohemian Lime](https://joeasdecants.com/products/bohemian-lime): Top Notes: Finger Lime, Bergamot Mid Notes: Coriander Base Notes: Haitian Vetiver, Moroccan Cedar, Australian Sandalwood
-  Updated: 2026-10-18T21:45:27Z
+  Updated: 2026-11-15T04:04:17Z
   Vendor: Goldfield & Banks
   Product Type: Bohemian Lime
   Availability: Available
@@ -242,7 +242,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $33.00 USD
 - [Bracken](https://joeasdecants.com/products/bracken): Top Notes: Cloves, Cypress, Lavender, Nutmeg, Lemon, Bergamot Mid Notes: Geranium, Cedar, Cinnamon, Sandalwood Base Notes: Patchouli, Musk
-  Updated: 2026-09-13T15:56:01Z
+  Updated: 2026-11-15T04:04:16Z
   Vendor: Amouage
   Product Type: Bracken
   Availability: Available
@@ -257,7 +257,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $80.00 USD
 - [Chergui](https://joeasdecants.com/products/chergui): Top Notes: Mid Notes: Tobacco Leaf, Honey, Iris, Rose Base Notes: Amber, Incense, Sandalwood, Musk, Hay
-  Updated: 2026-10-27T04:34:18Z
+  Updated: 2026-11-15T04:04:16Z
   Vendor: Serge Lutens
   Product Type: Chergui
   Availability: Available
@@ -272,7 +272,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $33.00 USD
 - [Dia Man](https://joeasdecants.com/products/dia): Top Notes: Incense, Cardamom, Labdanum, Bitter Orange Mid Notes: Peony, Plum, Orris Root, Ylang-Ylang Base Notes: Vetiver, Leather, Brazilian Rosewood, Amber, Patchouli
-  Updated: 2026-09-13T15:56:01Z
+  Updated: 2026-11-15T04:04:19Z
   Vendor: Amouage
   Product Type: Dia Man
   Availability: Available
@@ -302,7 +302,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $47.00 USD
 - [Enclave](https://joeasdecants.com/products/enclave): Top Notes: Peppermint, Cardamom, Cinnamon, Pink Pepper Mid Notes: Olibanum, Patchouli, Vetiver, Rose Base Notes: Amber Xtreme, Leather, Labdanum
-  Updated: 2026-09-13T15:56:01Z
+  Updated: 2026-11-15T04:04:21Z
   Vendor: Amouage
   Product Type: Enclave
   Availability: Available
@@ -317,7 +317,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $54.00 USD
 - [Epic Man](https://joeasdecants.com/products/epic): Top Notes: Pink Pepper, Olibanum, Saffron, Nutmeg, Cardamom, Caraway, Mace, Myrtle Mid Notes: Myrrh, Geranium Base Notes: Incense, Agarwood (Oud), Leather, Castoreum, Patchouli, Cedar, Sandalwood, Styrax, Musk
-  Updated: 2026-09-13T15:56:05Z
+  Updated: 2026-11-15T04:04:21Z
   Vendor: Amouage
   Product Type: Epic Man
   Availability: Available
@@ -332,7 +332,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $54.00 USD
 - [Faris](https://joeasdecants.com/products/faris): Top Notes: Lavender, Juniper Berries, Bergamot, Lemon, Apple, Orange Mid Notes: Jasmine, Rose, Nutmeg, Clove, Coriander Base Notes: Amber, Vetiver, Sandalwood, Tonka Bean, Patchouli
-  Updated: 2026-09-13T15:56:05Z
+  Updated: 2026-11-15T04:04:26Z
   Vendor: Kajal
   Product Type: Faris
   Availability: Available
@@ -347,7 +347,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $31.00 USD
 - [Grand Soir](https://joeasdecants.com/products/grand-soir): Top Notes: Spanish Labdanum, Orange Mid Notes: Lavender, Siam Benzoin Base Notes: Amber, Vanilla, Tonka Bean, Musk, Cedar
-  Updated: 2026-10-18T21:39:26Z
+  Updated: 2026-11-15T04:04:26Z
   Vendor: Maison Francis Kurkdjian
   Product Type: Grand Soir
   Availability: Available
@@ -362,7 +362,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $35.00 USD
 - [Honey Aoud](https://joeasdecants.com/products/honey-oud): Top Notes: Mid Notes: Honey, Cinnamon, Flowers Base Notes: Agarwood (Oud), Amber, Madagascar Vanilla, Leather, Patchouli
-  Updated: 2026-09-13T15:56:08Z
+  Updated: 2026-11-15T04:04:26Z
   Vendor: Montale
   Product Type: Honey Aoud
   Availability: Available
@@ -377,7 +377,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $27.00 USD
 - [Imitation](https://joeasdecants.com/products/imitation): Top Notes: Citron, Nutmeg, Black Pepper Mid Notes: Turkish Rose, Orris, Violet Base Notes: Leather, Vetiver, Castoreum, Patchouli, Myrrh
-  Updated: 2026-09-13T15:56:10Z
+  Updated: 2026-11-15T04:04:31Z
   Vendor: Amouage
   Product Type: Imitation
   Availability: Available
@@ -392,7 +392,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $54.00 USD
 - [Imperium](https://joeasdecants.com/products/imperium): Top Notes: Bergamot, Coriander Mid Notes: Jasmine, Lily, Saffron, Neroli, Tuberose, Rose Base Notes: Vanilla, Musk, Guaiac Wood, Patchouli, Amber, Agarwood (Oud)
-  Updated: 2026-09-25T12:52:32Z
+  Updated: 2026-11-15T04:04:32Z
   Vendor: Electimuss
   Product Type: Imperium
   Availability: Available
@@ -407,7 +407,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $31.00 USD
 - [Ingenious Ginger](https://joeasdecants.com/products/ingenious-ginger): Top Notes: Ginger Flower, Lemon, Bergamot Mid Notes: Mandarin Orange, Magnolia, Jasmine, Rose Base Notes: Vanilla, Amber, Sandalwood, Cashmeran, Musk, Patchouli
-  Updated: 2026-09-13T15:56:10Z
+  Updated: 2026-11-15T04:04:32Z
   Vendor: Goldfield & Banks
   Product Type: Ingenious Ginger
   Availability: Available
@@ -422,7 +422,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $33.00 USD
 - [Interlude](https://joeasdecants.com/products/interlude): Top Notes: Oregano, Pepper, Bergamot Mid Notes: Incense, Opoponax, Amber, Labdanum Base Notes: Agarwood (Oud), Leather, Sandalwood, Patchouli
-  Updated: 2026-09-13T15:56:15Z
+  Updated: 2026-11-15T04:04:36Z
   Vendor: Amouage
   Product Type: Interlude
   Availability: Available
@@ -437,7 +437,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $54.00 USD
 - [Interlude 53](https://joeasdecants.com/products/interlude-53): Top Notes: Oregano, Pimento, Bergamot Mid Notes: Incense, Opoponax, Amber, Labdanum Base Notes: Smoke, Agarwood (Oud), Leather, Patchouli, Sandalwood
-  Updated: 2026-09-13T15:56:15Z
+  Updated: 2026-11-15T04:04:35Z
   Vendor: Amouage
   Product Type: Interlude 53
   Availability: Available
@@ -452,7 +452,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $72.00 USD
 - [Interlude Black Iris](https://joeasdecants.com/products/interlude-black-iris): Top Notes: Violet Leaf, Rosemary, Bergamot Mid Notes: Orris, Olibanum, Myrrh, Amber, Labdanum, Vanilla Base Notes: Leather, Agarwood (Oud), Sandalwood, Cedar, Patchouli
-  Updated: 2026-09-13T15:56:18Z
+  Updated: 2026-11-15T04:04:40Z
   Vendor: Interlude Black Iris
   Product Type: Interlude Black Iris
   Availability: Available
@@ -482,7 +482,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $43.00 USD
 - [Journey Man](https://joeasdecants.com/products/journey): Top Notes: Blackberry, Olibanum, Labdanum, Orange, Coriander, Tarragon Mid Notes: Honey, Guaiac Wood, Cinnamon, Clove, Bay Leaf, Rose Orchid, Celery Seeds Base Notes: Opoponax, Agarwood (Oud), Myrrh, Patchouli, Ambergris, Musk, Cedar, Immortelle, Oakmoss
-  Updated: 2026-09-25T12:52:33Z
+  Updated: 2026-11-15T04:04:40Z
   Vendor: Amouage
   Product Type: Journey Man
   Availability: Available
@@ -497,7 +497,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $54.00 USD
 - [Jubilation XXV](https://joeasdecants.com/products/jubilation-xxv): Top Notes: Blackberry, Olibanum, Labdanum, Orange, Coriander, Tarragon Mid Notes: Honey, Guaiac Wood, Cinnamon, Clove, Bay Leaf, Rose, Orchid, Celery Seeds Base Notes: Opoponax, Agarwood (Oud), Myrrh, Patchouli, Ambergris, Musk, Cedar, Immortelle, Oakmoss
-  Updated: 2026-09-25T12:52:31Z
+  Updated: 2026-11-15T04:04:46Z
   Vendor: Amouage
   Product Type: Jubilation XXV
   Availability: Available
@@ -512,7 +512,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $54.00 USD
 - [Lafayette St.](https://joeasdecants.com/products/lafayette-st): Top Notes: Bergamot, Flowers, Coriander Mid Notes: Apple, Ambroxan, Vanilla Base Notes: Tonka Bean, Woodsy Notes, Ambergris
-  Updated: 2026-10-30T20:45:06Z
+  Updated: 2026-11-15T04:04:47Z
   Vendor: Bond No 9
   Product Type: Lafayette St.
   Availability: Available
@@ -527,7 +527,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $57.00 USD
 - [Lyric Man](https://joeasdecants.com/products/lyric): Top Notes: Lime, Bergamot Mid Notes: Rose, Angelica, Ginger, Orange Blossom, Saffron, Nutmeg, Galbanum Base Notes: Musk, Incense, Pine Tree, Sandalwood, Vanilla
-  Updated: 2026-09-13T15:56:25Z
+  Updated: 2026-11-15T04:04:46Z
   Vendor: Amouage
   Product Type: Lyric Man
   Availability: Available
@@ -557,7 +557,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $47.00 USD
 - [Nudiflorum](https://joeasdecants.com/products/nudiflorum): Top Notes: Rhubarb Mid Notes: Raspberry, Amyl Salicylate, Rose Base Notes: Leather, Animal Notes, Oakmoss, Cedar
-  Updated: 2026-09-13T15:56:31Z
+  Updated: 2026-11-15T04:04:46Z
   Vendor: Nasomatto
   Product Type: Nudiflorum
   Availability: Available
@@ -572,7 +572,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $71.00 USD
 - [Oud Tobacco](https://joeasdecants.com/products/oud-tobacco): Top Notes: Sumac, Citruses, Cumin Mid Notes: Agarwood (Oud), Orange Blossom, Incense Base Notes: Tobacco, Tonka Bean, Agarwood (Oud)
-  Updated: 2026-09-13T15:56:31Z
+  Updated: 2026-11-15T04:04:52Z
   Vendor: Montale
   Product Type: Oud Tobacco
   Availability: Available
@@ -587,7 +587,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $27.00 USD
 - [Pacific Rock Moss](https://joeasdecants.com/products/pacific-rock-moss): Top Notes: Italian Lemon Mid Notes: Sage, Geranium Base Notes: Moss, Virginia Cedar
-  Updated: 2026-10-18T21:39:26Z
+  Updated: 2026-11-15T04:04:51Z
   Vendor: Goldfield & Banks
   Product Type: Pacific Rock Moss
   Availability: Available
@@ -602,7 +602,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $33.00 USD
 - [Pardon](https://joeasdecants.com/products/pardon): Top Notes: Magnolia, Flowers Mid Notes: Dark Chocolate, Tonka Bean, Cinnamon Base Notes: Agarwood (Oud), Sandalwood
-  Updated: 2026-09-13T15:56:35Z
+  Updated: 2026-11-15T04:04:56Z
   Vendor: Nasomatto
   Product Type: Pardon
   Availability: Available
@@ -617,7 +617,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $71.00 USD
 - [Reckless Leather](https://joeasdecants.com/products/reckless-leather): Top Notes: Fenugreek, Galbanum, Cardamom, Pink Pepper, Nutmeg Mid Notes: Leather, Agarwood (Oud), Ambergris, Ambroxan, Patchouli Base Notes: Olibanum, Cypriol Oil or Nagarmotha, Sandalwood, Costus, Musk
-  Updated: 2026-09-13T15:56:35Z
+  Updated: 2026-11-15T04:04:57Z
   Vendor: Amouage
   Product Type: Reckless Leather
   Availability: Available
@@ -632,7 +632,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $54.00 USD
 - [Reflection](https://joeasdecants.com/products/reflection): Top Notes: Rosemary, Pink Pepper, Petitgrain Mid Notes: Jasmine, Neroli, Orris Root, Ylang-Ylang Base Notes: Sandalwood, Cedar, Vetiver, Patchouli
-  Updated: 2026-09-13T15:56:40Z
+  Updated: 2026-11-15T04:04:58Z
   Vendor: Amouage
   Product Type: Reflection
   Availability: Available
@@ -647,7 +647,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $54.00 USD
 - [Reflection 45](https://joeasdecants.com/products/reflection-45): Top Notes: Lavender, Juniper Berries, Cardamom, Clary Sage, Benzoin, Pink Pepper Mid Notes: Iris, Jasmine, Neroli, Angelica, Tonka Bean, Vanilla Base Notes: Olibanum, Cedar, Vetiver, Sandalwood, Patchouli, Myrrh, Opoponax
-  Updated: 2026-09-13T15:56:40Z
+  Updated: 2026-11-15T04:04:58Z
   Vendor: Amouage
   Product Type: Reflection 45
   Availability: Available
@@ -662,7 +662,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $72.00 USD
 - [Ristretto Intense Cafe](https://joeasdecants.com/products/ristretto-intense-cafe): Top Notes: Coffee, Turkey Red Rose Mid Notes: Roasted Coffee Beans, French Rose, Woodsy Notes Base Notes: Vanilla, Caramel, White Musk, Amber
-  Updated: 2026-09-13T15:56:40Z
+  Updated: 2026-11-15T04:05:02Z
   Vendor: Montale
   Product Type: Ristretto Intense Cafe
   Availability: Available
@@ -677,7 +677,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $31.00 USD
 - [Rose Incense](https://joeasdecants.com/products/rose-incense): Top Notes: Olibanum, Ink, Elemi Mid Notes: Damask Rose, Olibanum Base Notes: Myrrh, Sandalwood, Cedar, Vanilla
-  Updated: 2026-09-13T15:56:45Z
+  Updated: 2026-11-15T04:05:06Z
   Vendor: Amouage
   Product Type: Rose Incense
   Availability: Available
@@ -692,7 +692,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $54.00 USD
 - [Royal Tobacco](https://joeasdecants.com/products/royal-tobacco): Top Notes: Olibanum, Anise, Elemi Resin, Cardamom, Basil, Bergamot Mid Notes: Tobacco, Licorice, Fenugreek, Lavender, Prunol, Osmanthus, Orange Blossom, Rose Base Notes: Olibanum, Myrrh, Bourbon Vanilla, Birch Tar, Benzoin, Agarwood (Oud), Peru Balsam, Labdanum, Guaiac Wood, Tonka Bean, Vetiver, Musk
-  Updated: 2026-09-13T15:56:45Z
+  Updated: 2026-11-15T04:05:06Z
   Vendor: Amouage
   Product Type: Royal Tobacco
   Availability: Available
@@ -707,7 +707,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $54.00 USD
 - [Sadonaso](https://joeasdecants.com/products/sadonaso): Top Notes: Coffee Mid Notes: Musk, Tobacco, Sandalwood Base Notes: Vanilla, Animal Notes, Amber, Tonka
-  Updated: 2026-09-13T15:56:50Z
+  Updated: 2026-11-15T04:05:07Z
   Vendor: Nasomatto
   Product Type: Sadonaso
   Availability: Available
@@ -722,7 +722,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $71.00 USD
 - [Sunset Hour](https://joeasdecants.com/products/sunset-hour): Top Notes: Quandong Desert Peach, Raspberry, Mandarin Orange, Ginger Mid Notes: Pink Pepper, Jasmine Sambac, Base Notes: Cashmere Wood, Benzoin, Sandalwood
-  Updated: 2026-09-25T12:52:33Z
+  Updated: 2026-11-15T04:05:08Z
   Vendor: Goldfield & Banks
   Product Type: Sunset Hour
   Availability: Available
@@ -737,7 +737,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $33.00 USD
 - [Sunshine Man](https://joeasdecants.com/products/sunshine): Top Notes: Lavender, Brandy, Immortelle, Orange Mid Notes: Juniper Berries, Clary Sage, Bergamot Base Notes: Tonka Bean, Vanilla, Cedar
-  Updated: 2026-09-13T15:56:55Z
+  Updated: 2026-11-15T04:05:10Z
   Vendor: Amouage
   Product Type: Sunshine Man
   Availability: Available
@@ -752,7 +752,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $80.00 USD
 - [Trajan](https://joeasdecants.com/products/trajan): Top Notes: Blood Orange, Mandarin Orange, Lemon, Bergamot Mid Notes: Saffron, Lavender, Sage Base Notes: Ambergris, Cedar, Oakmoss
-  Updated: 2026-09-13T15:56:55Z
+  Updated: 2026-11-15T04:05:17Z
   Vendor: Electimuss
   Product Type: Trajan
   Availability: Available
@@ -767,7 +767,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $31.00 USD
 - [Tuxedo](https://joeasdecants.com/products/tuxedo): Top Notes: Violet Lead, Coriander, Bergamot Mid Notes: Pink, Black Pepper, Lily-of-the-Valley Base Notes: Patchouli, Bourbon Vanilla, Ambergris
-  Updated: 2026-09-13T15:56:55Z
+  Updated: 2026-11-15T04:05:17Z
   Vendor: Yves Saint Laurent
   Product Type: Tuxedo
   Availability: Available
@@ -782,7 +782,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $63.00 USD
 - [Velvet Splendor](https://joeasdecants.com/products/velvet-splendor): Top Notes: Orange Blossom, Mandarin Orange Mid Notes: Jasmine Sambac, Mimosa Base Notes: Tonka Bean, Australian Sandalwood, Haitian Vetiver, Patchouli, Leather
-  Updated: 2026-09-13T15:57:00Z
+  Updated: 2026-11-15T04:05:17Z
   Vendor: Goldfield & Banks
   Product Type: Velvet Splendor
   Availability: Available
@@ -797,7 +797,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $33.00 USD
 - [Wood Infusion](https://joeasdecants.com/products/wood-infusion): Top Notes: Sweet Orange Mid Notes: Lavender, Italian Iris, Amber Base Notes: Exotic Woods, Agarwood (Oud), Island Musk, Indonesian Patchouli Leaf
-  Updated: 2026-09-25T12:52:31Z
+  Updated: 2026-11-15T04:05:21Z
   Vendor: Goldfield & Banks
   Product Type: Wood Infusion
   Availability: Available
@@ -812,7 +812,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $33.00 USD
 - [Wood & Spices](https://joeasdecants.com/products/wood-spices): Top Notes: Mid Notes: Base Notes: Sandalwood, Incense, Vetiver, Agarwood (Oud)
-  Updated: 2026-09-13T15:57:00Z
+  Updated: 2026-11-15T04:05:22Z
   Vendor: Montale
   Product Type: Wood & Spices
   Availability: Available
@@ -827,7 +827,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $23.00 USD
 - [Woods Symphony](https://joeasdecants.com/products/woods-symphony): Top Notes: Orris Root, Rum Mid Notes: Orris Root, Rose, Jasmine Base Notes: Agarwood (Oud), Dry Wood, Civet
-  Updated: 2026-09-25T12:52:34Z
+  Updated: 2026-11-15T04:05:26Z
   Vendor: Amouage
   Product Type: Woods Symphony
   Availability: Available
@@ -841,143 +841,173 @@ This document provides a structured overview of our offerings, brand standards, 
   - [10ML](https://joeasdecants.com/products/woods-symphony?variant=62273055490419)
     Availability: Available
     Price: $54.00 USD
+- [Sweet Tobacco](https://joeasdecants.com/products/sweet-tobacco): Top Notes: Saffron, Dried Fruits, Clove, Clary Sage, Lemon Mid Notes: Vanilla, Tonka Bean, Honey, Amber Base Notes: Musk, Tobacco, Leather, Cedarwood, Patchouli
+  Updated: 2026-11-18T15:14:48Z
+  Vendor: 18.21 Man Made
+  Product Type: Sweet Tobacco
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/18.21_Sweet_Tobacco.png?v=1776273187
+  - [3ML](https://joeasdecants.com/products/sweet-tobacco?variant=52481008697715)
+    Availability: Available
+    Price: $5.00 USD
+  - [5ML](https://joeasdecants.com/products/sweet-tobacco?variant=52481008730483)
+    Availability: Available
+    Price: $7.00 USD
+  - [10ML](https://joeasdecants.com/products/sweet-tobacco?variant=62654669717875)
+    Availability: Available
+    Price: $12.00 USD
 - [Echt Kölnisch Wasser (Eau de Cologne)](https://joeasdecants.com/products/echt-kolnisch-wasser-eau-de-cologne): Top Notes: Bergamot, Lemon, Orange Mid Notes: Lavender, Rosemary Base Notes: Neroli, Petitgrain
-  Updated: 2026-09-13T15:57:11Z
+  Updated: 2026-11-18T15:17:48Z
   Vendor: 4711
   Product Type: Echt Kölnisch Wasser (Eau de Cologne)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/4711original.png?v=1767709206
   - [3ML](https://joeasdecants.com/products/echt-kolnisch-wasser-eau-de-cologne?variant=62653846913395)
-    Availability: Not Available
+    Availability: Available
     Price: $5.00 USD
   - [5ML](https://joeasdecants.com/products/echt-kolnisch-wasser-eau-de-cologne?variant=52481009942899)
     Availability: Available
-    Price: $9.00 USD
+    Price: $7.00 USD
   - [10ML](https://joeasdecants.com/products/echt-kolnisch-wasser-eau-de-cologne?variant=62653846946163)
-    Availability: Not Available
+    Availability: Available
+    Price: $12.00 USD
+- [Remix Cologne Lavender Edition 2019](https://joeasdecants.com/products/remix-cologne-lavender-edition-2019): Top Notes: Lavender, Bergamot, Lemon, Mate Mid Notes: Iris, Freesia, Hibiscus Seed Base Notes: Musk, Sandalwood, Praline
+  Updated: 2026-11-18T15:42:07Z
+  Vendor: 4711
+  Product Type: Remix Cologne Lavender Edition 2019
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/4711RemixLavender.png?v=1767709209
+  - [3ML](https://joeasdecants.com/products/remix-cologne-lavender-edition-2019?variant=62654665687411)
+    Availability: Available
+    Price: $5.00 USD
+  - [5ML](https://joeasdecants.com/products/remix-cologne-lavender-edition-2019?variant=52481010696563)
+    Availability: Available
+    Price: $7.00 USD
+  - [10ML](https://joeasdecants.com/products/remix-cologne-lavender-edition-2019?variant=62654665720179)
+    Availability: Available
     Price: $12.00 USD
 - [Wakening Woods of Scandinavia](https://joeasdecants.com/products/wakening-woods-of-scandinavia): Top Notes: Bergamot, Pink Pepper, Coriander Mid Notes: Rose, Osmanthus, Jasmine Base Notes: Fir, Olibanum, Patchouli
-  Updated: 2026-10-18T21:39:22Z
+  Updated: 2026-11-18T15:38:18Z
   Vendor: 4711
   Product Type: Wakening Woods of Scandinavia
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/4711WakeningWoodsofScandinavia.png?v=1767709214
   - [3ML](https://joeasdecants.com/products/wakening-woods-of-scandinavia?variant=62654683152755)
-    Availability: Not Available
-    Price: $7.00 USD
+    Availability: Available
+    Price: $5.00 USD
   - [5ML](https://joeasdecants.com/products/wakening-woods-of-scandinavia?variant=52481011286387)
     Availability: Available
-    Price: $10.00 USD
+    Price: $7.00 USD
   - [10ML](https://joeasdecants.com/products/wakening-woods-of-scandinavia?variant=62654683185523)
-    Availability: Not Available
-    Price: $15.00 USD
-- [Lemon & Ginger (Eau de Cologne)](https://joeasdecants.com/products/acqua-colonia-lemon-ginger-eau-de-cologne): Top Notes: Amalfi Lemon Mid Notes: Ginger Base Notes:
-  Updated: 2026-09-13T15:57:15Z
+    Availability: Available
+    Price: $12.00 USD
+- [Lemon & Ginger (Eau de Cologne)](https://joeasdecants.com/products/acqua-colonia-lemon-ginger-eau-de-cologne): Top Notes: Amalfi Lemon Mid Notes: Ginger Base Notes: ---
+  Updated: 2026-11-19T03:44:31Z
   Vendor: 4711
   Product Type: Lemon & Ginger (Eau de Cologne)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/4711LemonandGinger.png?v=1767709218
   - [3ML](https://joeasdecants.com/products/acqua-colonia-lemon-ginger-eau-de-cologne?variant=62654640783731)
-    Availability: Not Available
-    Price: $9.00 USD
+    Availability: Available
+    Price: $5.00 USD
   - [5ML](https://joeasdecants.com/products/acqua-colonia-lemon-ginger-eau-de-cologne?variant=52481011450227)
     Availability: Available
-    Price: $10.00 USD
+    Price: $7.00 USD
   - [10ML](https://joeasdecants.com/products/acqua-colonia-lemon-ginger-eau-de-cologne?variant=62654640816499)
-    Availability: Not Available
-    Price: $15.00 USD
+    Availability: Available
+    Price: $12.00 USD
 - [Sunny Seaside of Zanzibar](https://joeasdecants.com/products/sunny-seaside-of-zanzibar): Top Notes: Star Anise, Watermelon Mid Notes: Coconut, Frangipani, Musk Base Notes: Vanilla, Vetiver, Cedar
-  Updated: 2026-09-13T15:57:15Z
+  Updated: 2026-11-18T15:40:47Z
   Vendor: 4711
   Product Type: Sunny Seaside of Zanzibar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/sunnyseasideofzanzibar.png?v=1767709221
   - [3ML](https://joeasdecants.com/products/sunny-seaside-of-zanzibar?variant=62654667948403)
-    Availability: Not Available
+    Availability: Available
     Price: $5.00 USD
   - [5ML](https://joeasdecants.com/products/sunny-seaside-of-zanzibar?variant=52481014989171)
     Availability: Available
-    Price: $8.00 USD
+    Price: $7.00 USD
   - [10ML](https://joeasdecants.com/products/sunny-seaside-of-zanzibar?variant=62654667981171)
-    Availability: Not Available
-    Price: $11.00 USD
+    Availability: Available
+    Price: $12.00 USD
 - [Authentic Man](https://joeasdecants.com/products/authentic-man): Top Notes: Grapefruit, Bergamot, Pink Pepper Mid Notes: Ginger, Sage, Lavender Base Notes: Clearwood, Suede, Oakmoss
-  Updated: 2026-09-13T15:57:20Z
+  Updated: 2026-11-18T16:51:02Z
   Vendor: Abercrombie & Fitch
   Product Type: Authentic Man
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/Authentic_d7422856-d7e4-406d-b3a9-ce6d3c4421b9.png?v=1776273494
   - [3ML](https://joeasdecants.com/products/authentic-man?variant=62653793075571)
-    Availability: Not Available
-    Price: $9.00 USD
+    Availability: Available
+    Price: $5.00 USD
   - [5ML](https://joeasdecants.com/products/authentic-man?variant=52481020789107)
     Availability: Available
-    Price: $11.00 USD
+    Price: $7.00 USD
   - [10ML](https://joeasdecants.com/products/authentic-man?variant=62653793108339)
-    Availability: Not Available
-    Price: $17.00 USD
+    Availability: Available
+    Price: $12.00 USD
 - [First Instinct Blue Man](https://joeasdecants.com/products/first-instinct-blue-man): Top Notes: Apple, Bergamot, Cardamom Mid Notes: Lavender, Rosemary, Pepper Base Notes: Sandalwood, Tonka Bean, Amber
-  Updated: 2026-09-13T15:57:20Z
+  Updated: 2026-11-18T18:23:56Z
   Vendor: Abercrombie & Fitch
   Product Type: First Instinct Blue Man
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/FirstInstinctBlue.png?v=1767709238
   - [3ML](https://joeasdecants.com/products/first-instinct-blue-man?variant=62653862707571)
-    Availability: Not Available
-    Price: $10.00 USD
+    Availability: Available
+    Price: $5.00 USD
   - [5ML](https://joeasdecants.com/products/first-instinct-blue-man?variant=52481026228595)
     Availability: Available
-    Price: $11.00 USD
+    Price: $7.00 USD
   - [10ML](https://joeasdecants.com/products/first-instinct-blue-man?variant=62653862740339)
-    Availability: Not Available
-    Price: $17.00 USD
+    Availability: Available
+    Price: $12.00 USD
 - [Authentic Night Man](https://joeasdecants.com/products/authentic-night-man): Top Notes: Apple, Rhubarb, Lotus Mid Notes: Vanilla, Lavender, Clary Sage Base Notes: Tonka Bean, Leather, Oakmoss
-  Updated: 2026-09-13T15:57:20Z
+  Updated: 2026-11-18T18:44:03Z
   Vendor: Abercrombie & Fitch
   Product Type: Authentic Night Man
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/Authentic_Night_10301681-62d7-46e6-bb4b-e8192302ddc2.png?v=1776273612
   - [3ML](https://joeasdecants.com/products/authentic-night-man?variant=62653793337715)
     Availability: Available
-    Price: $10.00 USD
+    Price: $5.00 USD
   - [5ML](https://joeasdecants.com/products/authentic-night-man?variant=52481028161907)
     Availability: Available
-    Price: $11.00 USD
+    Price: $7.00 USD
   - [10ML](https://joeasdecants.com/products/authentic-night-man?variant=62653793370483)
-    Availability: Not Available
-    Price: $17.00 USD
+    Availability: Available
+    Price: $12.00 USD
 - [Fierce (Cologne)](https://joeasdecants.com/products/fierce-cologne): Top Notes: Fir, Lemon, Orange, Petitgrain, Sea Notes, Cardamom Mid Notes: Rosemary, Lily-of-the-Valley, Jasmine, Sage, Rose Base Notes: Musk, Vetiver, Oakmoss, Brazilian Rosewood, Sandalwood
-  Updated: 2026-09-13T15:57:23Z
+  Updated: 2026-11-18T18:23:57Z
   Vendor: Abercrombie & Fitch
   Product Type: Fierce (Cologne)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/FierceA_F.png?v=1767709250
   - [3ML](https://joeasdecants.com/products/fierce-cologne?variant=62653862642035)
-    Availability: Not Available
-    Price: $10.00 USD
+    Availability: Available
+    Price: $5.00 USD
   - [5ML](https://joeasdecants.com/products/fierce-cologne?variant=52481030652275)
     Availability: Available
-    Price: $11.00 USD
+    Price: $7.00 USD
   - [10ML](https://joeasdecants.com/products/fierce-cologne?variant=62653862674803)
-    Availability: Not Available
-    Price: $17.00 USD
+    Availability: Available
+    Price: $12.00 USD
 - [First Instinct Extreme](https://joeasdecants.com/products/first-instinct-extreme): Top Notes: Carambola (Star Fruit), Pepper, Mandarin Leaf Mid Notes: Violet Leaf, Sichuan Pepper, Cardamom, Saffron Base Notes: Musk, Amber, Coconut Milk, Cashmirwood, Suede
-  Updated: 2026-09-13T15:57:25Z
+  Updated: 2026-11-18T18:23:49Z
   Vendor: Abercrombie & Fitch
   Product Type: First Instinct Extreme
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/FirstInstinctExtreme.png?v=1776273741
   - [3ML](https://joeasdecants.com/products/first-instinct-extreme?variant=62653862773107)
-    Availability: Not Available
-    Price: $10.00 USD
+    Availability: Available
+    Price: $5.00 USD
   - [5ML](https://joeasdecants.com/products/first-instinct-extreme?variant=52481031274867)
     Availability: Available
-    Price: $11.00 USD
+    Price: $7.00 USD
   - [10ML](https://joeasdecants.com/products/first-instinct-extreme?variant=62653862805875)
-    Availability: Not Available
-    Price: $17.00 USD
+    Availability: Available
+    Price: $12.00 USD
 - [Arancia di Capri](https://joeasdecants.com/products/arancia-di-capri): Top Notes: Orange, Sicilian Mandarin, Bergamot, Lemon Mid Notes: Petitgrain, Cardamom Base Notes: Caramel, Musk
-  Updated: 2026-09-13T15:57:30Z
+  Updated: 2026-11-18T18:49:48Z
   Vendor: Acqua di Parma
   Product Type: Arancia di Capri
   Availability: Available
@@ -992,13 +1022,13 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $25.00 USD
 - [Chinotto di Liguria](https://joeasdecants.com/products/chinotto-di-liguria): Top Notes: Chinotto, Mandarin Orange Mid Notes: Rosemary, Jasmine, Geranium, Cardamom Base Notes: Musk, Patchouli
-  Updated: 2026-09-13T15:57:31Z
+  Updated: 2026-11-18T18:49:46Z
   Vendor: Acqua di Parma
   Product Type: Chinotto di Liguria
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/ADPChinottodiLiguria.png?v=1767709258
   - [3ML](https://joeasdecants.com/products/chinotto-di-liguria?variant=62653821485427)
-    Availability: Not Available
+    Availability: Available
     Price: $11.00 USD
   - [5ML](https://joeasdecants.com/products/chinotto-di-liguria?variant=52481038582131)
     Availability: Available
@@ -1007,13 +1037,13 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $23.00 USD
 - [Colonia (Eau de Cologne)](https://joeasdecants.com/products/colonia-eau-de-cologne): Top Notes: Sicilian Citruses, Lemon Verbena Mid Notes: Lavender, Rosemary, Bulgarian Rose, Jasmine, Vervain Base Notes: White Musk, Vetiver, Sandalwood, Patchouli, Amber
-  Updated: 2026-09-13T15:57:30Z
+  Updated: 2026-11-18T18:49:47Z
   Vendor: Acqua di Parma
   Product Type: Colonia (Eau de Cologne)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/ADPColonia.png?v=1767709264
   - [3ML](https://joeasdecants.com/products/colonia-eau-de-cologne?variant=62653839671667)
-    Availability: Not Available
+    Availability: Available
     Price: $14.00 USD
   - [5ML](https://joeasdecants.com/products/colonia-eau-de-cologne?variant=52481039368563)
     Availability: Available
@@ -1022,13 +1052,13 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $33.00 USD
 - [Fico di Amalfi](https://joeasdecants.com/products/fico-di-amalfi): Top Notes: Grapefruit, Bergamot, Citron, Lemon Mid Notes: Fig Nectar, Jasmine, Pink Pepper Base Notes: Fig Tree, Cedar, Benzoin
-  Updated: 2026-09-13T15:57:35Z
+  Updated: 2026-11-18T18:49:46Z
   Vendor: Acqua di Parma
   Product Type: Fico di Amalfi
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/ADPFicodiAmalfi.png?v=1767709265
   - [3ML](https://joeasdecants.com/products/fico-di-amalfi?variant=62653862576499)
-    Availability: Not Available
+    Availability: Available
     Price: $12.00 USD
   - [5ML](https://joeasdecants.com/products/fico-di-amalfi?variant=52481039925619)
     Availability: Available
@@ -1037,13 +1067,13 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $27.00 USD
 - [Bergamotto di Calabria](https://joeasdecants.com/products/bergamotto-di-calabria): Top Notes: Bergamot, Citron Mid Notes: Ginger, Cedar, Flowers Base Notes: Vetiver, Musk, Benzoin
-  Updated: 2026-09-13T15:57:35Z
+  Updated: 2026-11-18T18:49:47Z
   Vendor: Acqua di Parma
   Product Type: Bergamotto di Calabria
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/ADPbergamottodicalabria.png?v=1767709268
   - [3ML](https://joeasdecants.com/products/bergamotto-di-calabria?variant=62653808312691)
-    Availability: Not Available
+    Availability: Available
     Price: $12.00 USD
   - [5ML](https://joeasdecants.com/products/bergamotto-di-calabria?variant=52481040515443)
     Availability: Available
@@ -1052,13 +1082,13 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $25.00 USD
 - [Cipresso di Toscana](https://joeasdecants.com/products/cipresso-di-toscana): Top Notes: Rosemary, Basil, Sage, Grapefruit, Petitgrain Mid Notes: Pine Tree, Lavender, Coriander, Cardamom, Jasmine, Lily-of-the-Valley Base Notes: Cypress, Silver Pine, Vetiver, Cedar, Oakmoss, Patchouli
-  Updated: 2026-09-13T15:57:38Z
+  Updated: 2026-11-18T18:49:46Z
   Vendor: Acqua di Parma
   Product Type: Cipresso di Toscana
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/ADPCipressodiToscana.png?v=1767709274
   - [3ML](https://joeasdecants.com/products/cipresso-di-toscana?variant=62653825024371)
-    Availability: Not Available
+    Availability: Available
     Price: $12.00 USD
   - [5ML](https://joeasdecants.com/products/cipresso-di-toscana?variant=52481040679283)
     Availability: Available
@@ -1067,13 +1097,13 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $27.00 USD
 - [Colonia Essenza (Eau de Cologne)](https://joeasdecants.com/products/colonia-essenza-eau-de-cologne): Top Notes: Bergamot, Grapefruit, Orange, Mandarin Orange Mid Notes: Neroli, Jasmine, Petitgrain, Rosemary, Rose, Lily-of-the-Valley, Sage Base Notes: Musk, Vetiver, Oakmoss, Patchouli, Cloves, Amber
-  Updated: 2026-09-13T15:57:40Z
+  Updated: 2026-11-18T18:49:51Z
   Vendor: Acqua di Parma
   Product Type: Colonia Essenza (Eau de Cologne)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/ADPEssenza.png?v=1767709279
   - [3ML](https://joeasdecants.com/products/colonia-essenza-eau-de-cologne?variant=62653839802739)
-    Availability: Not Available
+    Availability: Available
     Price: $14.00 USD
   - [5ML](https://joeasdecants.com/products/colonia-essenza-eau-de-cologne?variant=52481040941427)
     Availability: Available
@@ -1082,13 +1112,13 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $33.00 USD
 - [Mirto di Panarea](https://joeasdecants.com/products/mirto-di-panarea): Top Notes: Myrtle, Lemon, Bergamot, Basil Mid Notes: Sea Notes, Jasmine, Rose Base Notes: Juniper, Cedar, Mastic or Lentisque, Amber
-  Updated: 2026-09-13T15:57:41Z
+  Updated: 2026-11-18T18:49:47Z
   Vendor: Acqua di Parma
   Product Type: Mirto di Panarea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/ADPMirtodiPanarea.png?v=1767709279
   - [3ML](https://joeasdecants.com/products/mirto-di-panarea?variant=62654643569011)
-    Availability: Not Available
+    Availability: Available
     Price: $12.00 USD
   - [5ML](https://joeasdecants.com/products/mirto-di-panarea?variant=52481042055539)
     Availability: Available
@@ -1112,7 +1142,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $49.00 USD
 - [Acqua di Giò Parfum](https://joeasdecants.com/products/acqua-di-gio-parfum): Top Notes: Marine Notes, Bergamot Mid Notes: Rosemary, Clary Sage, Geranium Base Notes: Olibanum, Patchouli
-  Updated: 2026-09-13T15:57:50Z
+  Updated: 2026-11-15T04:06:01Z
   Vendor: Giorgio Armani
   Product Type: Acqua di Giò Parfum
   Availability: Available
@@ -1127,7 +1157,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $27.00 USD
 - [Acqua di Giò Profondo](https://joeasdecants.com/products/acqua-di-gio-profondo): Top Notes: Sea Notes, Aquozone, Bergamot, Green Mandarin Mid Notes: Rosemary, Lavender, Cypress, Mastic or Lentisque Base Notes: Mineral Notes, Musk, Patchouli, Amber
-  Updated: 2026-09-13T15:57:50Z
+  Updated: 2026-11-15T04:06:04Z
   Vendor: Giorgio Armani
   Product Type: Acqua di Giò Profondo
   Availability: Available
@@ -1142,7 +1172,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $25.00 USD
 - [Armani Code Parfum](https://joeasdecants.com/products/armani-code-parfum): Top Notes: Bergamot, Bergamot Leaf Mid Notes: Iris, Aldehydes, Clary Sage, Orris Base Notes: Tonka Bean, Cedar
-  Updated: 2026-10-18T21:39:26Z
+  Updated: 2026-11-15T04:06:06Z
   Vendor: Giorgio Armani
   Product Type: Armani Code Parfum
   Availability: Available
@@ -1157,7 +1187,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $41.00 USD
 - [Emporio Armani - Stronger With You Intensely](https://joeasdecants.com/products/emporio-armani-stronger-with-you-intensely): Top Notes: Pink Pepper, Juniper, Violet Mid Notes: Toffee, Cinnamon, Lavender, Sage Base Notes: Vanilla, Amber, Tonka Bean, Suede
-  Updated: 2026-09-13T15:57:55Z
+  Updated: 2026-11-15T04:06:05Z
   Vendor: Emporio Armani
   Product Type: Emporio Armani - Stronger With You Intensely
   Availability: Available
@@ -1172,7 +1202,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $23.00 USD
 - [Chrome Parfum](https://joeasdecants.com/products/chrome-parfum): Top Notes: Bergamot Mid Notes: Sage Base Notes: Fir Resin
-  Updated: 2026-09-13T15:57:56Z
+  Updated: 2026-11-15T04:06:06Z
   Vendor: Azzaro
   Product Type: Chrome Parfum
   Availability: Available
@@ -1187,7 +1217,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $31.00 USD
 - [The Most Wanted (Eau de Parfum)](https://joeasdecants.com/products/the-most-wanted): Top Notes: Cardamom Mid Notes: Toffee Base Notes: Amberwood
-  Updated: 2026-09-13T15:58:00Z
+  Updated: 2026-11-15T04:06:11Z
   Vendor: Azzaro
   Product Type: The Most Wanted (Eau de Parfum)
   Availability: Available
@@ -1202,7 +1232,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $23.00 USD
 - [The Most Wanted Parfum](https://joeasdecants.com/products/the-most-wanted-parfum): Top Notes: Ginger Mid Notes: Woodsy Notes Base Notes: Bourbon Vanilla
-  Updated: 2026-09-13T15:58:00Z
+  Updated: 2026-11-15T04:06:11Z
   Vendor: Azzaro
   Product Type: The Most Wanted Parfum
   Availability: Available
@@ -1217,7 +1247,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $23.00 USD
 - [Absolu Aventus](https://joeasdecants.com/products/absolu-aventus): Top Notes: Grapefruit, Bergamot, Pink Pepper, Black Currant, Pineapple, Nutmeg, Cloves Mid Notes: Ginger, Citron, Cinnamon, Cardamom, Rose Base Notes: Patchouli, Vetiver, Oakmoss, Ambroxan, Musk, Sandalwood, Tonka, Evernyl
-  Updated: 2026-10-18T21:39:26Z
+  Updated: 2026-11-15T04:06:13Z
   Vendor: Creed
   Product Type: Absolu Aventus
   Availability: Available
@@ -1232,7 +1262,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $83.00 USD
 - [Aventus](https://joeasdecants.com/products/aventus): Top Notes: Bergamot, Black Currant, Apple, Lemon, Pink Pepper Mid Notes: Pineapple, Patchouli, Moroccan Jasmine Base Notes: Birch, Musk, Oakmoss, Ambroxan, Cedarwood
-  Updated: 2026-09-13T15:58:05Z
+  Updated: 2026-11-15T04:06:17Z
   Vendor: Creed
   Product Type: Aventus
   Availability: Available
@@ -1247,7 +1277,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $59.00 USD
 - [Green Irish Tweed](https://joeasdecants.com/products/green-irish-tweed): Top Notes: Iris, Vervain Mid Notes: Violet Leaf Base Notes: Ambergris, Sandalwood
-  Updated: 2026-10-18T21:39:26Z
+  Updated: 2026-11-15T04:06:16Z
   Vendor: Creed
   Product Type: Green Irish Tweed
   Availability: Available
@@ -1262,7 +1292,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $57.00 USD
 - [Dior Homme Cologne (2022)](https://joeasdecants.com/products/dior-homme-cologne-2013): Top Notes: Calabrian Bergamot Mid Notes: Grapefruit Blossom Base Notes: Musk
-  Updated: 2026-10-18T21:39:25Z
+  Updated: 2026-11-15T04:06:21Z
   Vendor: Dior
   Product Type: Dior Homme Cologne (2022)
   Availability: Available
@@ -1277,7 +1307,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $23.00 USD
 - [Sauvage (Eau de Toilette)](https://joeasdecants.com/products/sauvage): Top Notes: Calabrian Bergamot, Pepper Mid Notes: Sichuan Pepper, Lavender, Pink Pepper, Vetiver, Patchouli, Geranium, Elemi Base Notes: Ambroxan, Cedar, Labdanum
-  Updated: 2026-09-13T15:58:10Z
+  Updated: 2026-11-15T04:06:21Z
   Vendor: Dior
   Product Type: Sauvage (Eau de Toilette)
   Availability: Available
@@ -1292,7 +1322,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $21.00 USD
 - [Sauvage Elixir](https://joeasdecants.com/products/sauvage-elixir): Top Notes: Nutmeg, Cinnamon, Cardamom, Grapefruit Mid Notes: Lavender Base Notes: Licorice, Sandalwood, Amber, Patchouli, Haitian Vetiver
-  Updated: 2026-09-13T15:58:15Z
+  Updated: 2026-11-15T04:06:27Z
   Vendor: Dior
   Product Type: Sauvage Elixir
   Availability: Available
@@ -1307,7 +1337,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $43.00 USD
 - [Sauvage Parfum](https://joeasdecants.com/products/sauvage-parfum): Top Notes: Bergamot, Mandarin Orange, Elemi Mid Notes: Sandalwood Base Notes: Olibanum, Tonka Bean, Vanilla
-  Updated: 2026-09-13T15:58:15Z
+  Updated: 2026-11-15T04:06:26Z
   Vendor: Dior
   Product Type: Sauvage Parfum
   Availability: Available
@@ -1322,7 +1352,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $23.00 USD
 - [Light Blue Eau Intense (Women's)](https://joeasdecants.com/products/light-blue-eau-intense-pour-homme): Top Notes: Lemon, Granny Smith Apple Mid Notes: Jasmine, Marigold Base Notes: Musk, Amberwood
-  Updated: 2026-09-13T15:58:19Z
+  Updated: 2026-11-15T04:06:30Z
   Vendor: Dolce & Gabbana
   Product Type: Light Blue Eau Intense (Women's)
   Availability: Available
@@ -1337,7 +1367,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $21.00 USD
 - [Gentleman Réserve Privée](https://joeasdecants.com/products/gentleman-reserve-privee): Top Notes: Bergamot Mid Notes: Iris, Chestnut Base Notes: Whiskey, Woodsy Notes, Amber
-  Updated: 2026-09-13T15:58:21Z
+  Updated: 2026-11-15T04:06:31Z
   Vendor: Givenchy
   Product Type: Gentleman Réserve Privée
   Availability: Available
@@ -1352,7 +1382,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $25.00 USD
 - [Gentleman Society](https://joeasdecants.com/products/gentleman-society): Top Notes: Cardamom, Sage Mid Notes: French Narcissus, Haitian Vetiver, Madagascar Vetiver Base Notes: Vanilla, Palo Santo, Cedar
-  Updated: 2026-09-13T15:58:25Z
+  Updated: 2026-11-15T04:06:35Z
   Vendor: Givenchy
   Product Type: Gentleman Society
   Availability: Available
@@ -1367,7 +1397,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $25.00 USD
 - [L'Homme Idéal Extrême](https://joeasdecants.com/products/lhomme-ideal-extreme): Top Notes: Almond, Pink Pepper, Bergamot Mid Notes: Plum, Cinnamon, Heliotrope Base Notes: Tobacco, Leather, Patchouli, Cedar
-  Updated: 2026-09-13T15:58:25Z
+  Updated: 2026-11-15T04:06:36Z
   Vendor: Guerlain
   Product Type: L'Homme Idéal Extrême
   Availability: Available
@@ -1382,7 +1412,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $23.00 USD
 - [Le Beau Le Parfum](https://joeasdecants.com/products/le-beau-le-parfum): Top Notes: Pineapple, Iris, Ginger, Cypress Mid Notes: Coconut, Woodsy Notes Base Notes: Tonka Bean, Sandalwood, Amber, Ambergris
-  Updated: 2026-09-13T15:58:25Z
+  Updated: 2026-11-15T04:06:36Z
   Vendor: Jean Paul Gaultier
   Product Type: Le Beau Le Parfum
   Availability: Available
@@ -1397,7 +1427,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $23.00 USD
 - [Le Mâle Elixir](https://joeasdecants.com/products/le-male-elixir): Top Notes: Lavender, Mint Mid Notes: Vanilla, Benzoin Base Notes: Honey, Tonka Bean, Tobacco
-  Updated: 2026-09-13T15:58:31Z
+  Updated: 2026-11-15T04:06:40Z
   Vendor: Jean Paul Gaultier
   Product Type: Le Mâle Elixir
   Availability: Available
@@ -1412,7 +1442,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $21.00 USD
 - [Le Mâle Le Parfum](https://joeasdecants.com/products/le-male-le-parfum): Top Notes: Cardamom Mid Notes: Lavender, Iris Base Notes: Vanilla, Oriental Notes, Woodsy Notes
-  Updated: 2026-09-13T15:58:31Z
+  Updated: 2026-11-15T04:06:41Z
   Vendor: Jean Paul Gaultier
   Product Type: Le Mâle Le Parfum
   Availability: Available
@@ -1427,7 +1457,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $19.00 USD
 - [Angels' Share](https://joeasdecants.com/products/angels-share): Top Notes: Cognac Mid Notes: Cinnamon, Tonka Bean, Oak, Hedione Base Notes: Vanilla, Praline, Sandalwood, Candied Almond
-  Updated: 2026-09-13T15:58:31Z
+  Updated: 2026-11-15T04:06:46Z
   Vendor: By Kilian
   Product Type: Angels' Share
   Availability: Available
@@ -1442,7 +1472,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $65.00 USD
 - [Amore Caffè](https://joeasdecants.com/products/amore-caffe): Top Notes: Coffee, Amaretto Mid Notes: Ice Cream, Speculoos Base Notes: Brown Sugar, Vanilla, Ambergris
-  Updated: 2026-09-13T15:58:35Z
+  Updated: 2026-11-15T04:06:46Z
   Vendor: Mancera
   Product Type: Amore Caffè
   Availability: Available
@@ -1457,7 +1487,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $28.00 USD
 - [Cosmic Pepper](https://joeasdecants.com/products/cosmic-pepper): Top Notes: Lemon, Pink Pepper, Sage, Tangerine Mid Notes: Black Pepper, Damask Rose, Oud Base Notes: White Musk, Tonka Bean, Ambergris, Oakmoss, Labdanum
-  Updated: 2026-10-18T21:39:26Z
+  Updated: 2026-11-15T04:06:51Z
   Vendor: Mancera
   Product Type: Cosmic Pepper
   Availability: Available
@@ -1472,7 +1502,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $28.00 USD
 - [Intense Cedrat Boise](https://joeasdecants.com/products/intense-cedrat-boise): Top Notes: Sicilian Citruses, Black Currant, Spices Mid Notes: Leather, White Sandalwood, Cambodian Oud, Patchouli Leaf, Jasmine Base Notes: Ambergris, Oakmoss, White Musk, Vanilla
-  Updated: 2026-09-13T15:58:40Z
+  Updated: 2026-11-15T04:06:50Z
   Vendor: Mancera
   Product Type: Intense Cedrat Boise
   Availability: Available
@@ -1487,7 +1517,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $30.00 USD
 - [Tonka Cola](https://joeasdecants.com/products/tonka-cola): Top Notes: Cinnamon, Cherry, Sicilian Lemon, Nutmeg Mid Notes: Coca-Cola, Indonesian Patchouli Lead, Orange Blossom Base Notes: Tonka Bean, Vanilla, Benzoin, Labdanum
-  Updated: 2026-09-13T15:58:41Z
+  Updated: 2026-11-15T04:06:51Z
   Vendor: Mancera
   Product Type: Tonka Cola
   Availability: Available
@@ -1502,7 +1532,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $28.00 USD
 - [Explorer](https://joeasdecants.com/products/explorer): Top Notes: Bergamot, Pink Pepper, Clary Sage Mid Notes: Haitian Vetiver, Leather Base Notes: Ambroxan, Akigalawood, Indonesian Patchouli Leaf, Cacao Pod
-  Updated: 2026-09-13T15:58:45Z
+  Updated: 2026-11-15T04:06:56Z
   Vendor: Montblanc
   Product Type: Explorer
   Availability: Available
@@ -1517,7 +1547,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $23.00 USD
 - [Althaïr](https://joeasdecants.com/products/althair): Top Notes: Cinnamon, Cardamom, Orange Blossom, Bergamot Mid Notes: Bourbon Vanilla, Elemi Base Notes: Praline, Musk, Ambroxan, Guaiac Wood, Tonka, Candied Almond
-  Updated: 2026-09-25T12:52:34Z
+  Updated: 2026-11-15T04:06:57Z
   Vendor: Parfums de Marly
   Product Type: Althaïr
   Availability: Available
@@ -1532,7 +1562,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $43.00 USD
 - [Carlisle](https://joeasdecants.com/products/carlisle): Top Notes: Nutmeg, Green Apple, Saffron Mid Notes: Tonka Bean, Rose, Osmanthus, Davana Base Notes: Patchouli, Vanilla, Opoponax
-  Updated: 2026-09-13T15:58:50Z
+  Updated: 2026-11-15T04:06:57Z
   Vendor: Parfums de Marly
   Product Type: Carlisle
   Availability: Available
@@ -1562,7 +1592,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $43.00 USD
 - [Greenley](https://joeasdecants.com/products/greenley): Top Notes: Green Apple, Calabrian Bergamot, Mandarin Orange Mid Notes: Petitgrain, Cedar, Cashmeran, Pomarose, Violet Base Notes: Oakmoss, Musk, Amberwood
-  Updated: 2026-10-18T21:39:26Z
+  Updated: 2026-11-15T04:07:01Z
   Vendor: Parfums de Marly
   Product Type: Greenley
   Availability: Available
@@ -1592,7 +1622,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $54.00 USD
 - [Herod](https://joeasdecants.com/products/herod): Top Notes: Cinnamon, Pepperwood Mid Notes: Tobacco Leaf, Incense, Osmanthus, Labdanum Base Notes: Vanilla, Iso E Super, Cedar, Musk, Cypriol Oil or Nagarmotha, Vetiver
-  Updated: 2026-09-13T15:58:50Z
+  Updated: 2026-11-15T04:07:02Z
   Vendor: Parfums de Marly
   Product Type: Herod
   Availability: Available
@@ -1622,7 +1652,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $43.00 USD
 - [Layton](https://joeasdecants.com/products/layton): Top Notes: Apple, Lavender, Bergamot, Mandarin Orange Mid Notes: Geranium, Violet, Jasmine Base Notes: Vanilla, Cardamom, Sandalwood, Pepper, Guaiac Wood, Patchouli
-  Updated: 2026-09-25T12:52:30Z
+  Updated: 2026-11-15T04:07:06Z
   Vendor: Parfums de Marly
   Product Type: Layton
   Availability: Available
@@ -1652,7 +1682,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $47.00 USD
 - [Pegasus](https://joeasdecants.com/products/pegasus): Top Notes: Heliotrope, Cumin, Bergamot Mid Notes: Bitter Almond, Lavender, Jasmine Base Notes: Vanilla, Sandalwood, Amber
-  Updated: 2026-09-13T15:58:57Z
+  Updated: 2026-11-15T04:07:07Z
   Vendor: Parfums de Marly
   Product Type: Pegasus
   Availability: Available
@@ -1667,7 +1697,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $43.00 USD
 - [Percival](https://joeasdecants.com/products/percival): Top Notes: Lavender, Mandarin Orange, Bergamot, Geranium Mid Notes: Hedione, Violet, Jasmine, Coriander, Cinnamon Base Notes: Ambroxan, Amberwood, Musk, Balsam Fir, Clearwood
-  Updated: 2026-09-13T15:58:56Z
+  Updated: 2026-11-15T04:07:06Z
   Vendor: Parfums de Marly
   Product Type: Percival
   Availability: Available
@@ -1682,7 +1712,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $43.00 USD
 - [Perseus](https://joeasdecants.com/products/perseus): Top Notes: Grapefruit, Bergamot, Black Currant Mid Notes: Vetiver, Green Mandarin, Geranium Base Notes: Dry Wood, Cashmere Wood, Ambergris, Balsam Fir, Cedar, Tonka Bean
-  Updated: 2026-09-25T12:52:33Z
+  Updated: 2026-11-15T04:07:10Z
   Vendor: Parfums de Marly
   Product Type: Perseus
   Availability: Available
@@ -1697,7 +1727,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $43.00 USD
 - [Sedley](https://joeasdecants.com/products/sedley): Top Notes: Lemon, Mint, Bergamot, Grapefruit, Mandarin Orange Mid Notes: Lavender, Rosemary, Geranium, Olibanum Base Notes: Ambroxan, Sandalwood, Cedar, Cashmeran, Vetiver, Patchouli
-  Updated: 2026-09-13T15:59:00Z
+  Updated: 2026-11-15T04:07:11Z
   Vendor: Parfums de Marly
   Product Type: Sedley
   Availability: Available
@@ -1712,7 +1742,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $40.00 USD
 - [Hawas Black](https://joeasdecants.com/products/hawas-black): Top Notes: Bergamot, Pineapple, Grapefruit Mid Notes: Patchouli, Cedarwood, Jasmine Base Notes: Oakmoss, Woody Notes, Amber
-  Updated: 2026-09-13T15:59:05Z
+  Updated: 2026-11-15T04:07:16Z
   Vendor: Rasasi
   Product Type: Hawas Black
   Availability: Available
@@ -1727,7 +1757,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $15.00 USD
 - [Elysium Eau Intense](https://joeasdecants.com/products/elysium-eau-intense): Top Notes: Rhubarb, Grapefruit, Lime, Bergamot, Artemisia, Musk, Lavender, Thyme Mid Notes: Black Currant, Apple, Orange Blossom, Lily-of-the-Valley, Jasmine, Tuberose, Rose de Mai Base Notes: Juniper Berry, Vetiver, Musk, Dry Wood, Cedarwood, Black Pepper, Galbanum, Violet Lead, Ambergris, Vanilla, Labdanum, Leather, Benzoin, Cypriol Oil or Nagarmotha
-  Updated: 2026-09-25T12:52:33Z
+  Updated: 2026-11-15T04:07:16Z
   Vendor: Roja Parfums
   Product Type: Elysium Eau Intense
   Availability: Available
@@ -1742,7 +1772,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $41.00 USD
 - [Elysium Parfum Cologne](https://joeasdecants.com/products/elysium-parfum-cologne): Top Notes: Grapefruit, Lemon, Bergamot, Lime, Thyme, Artemisia, Galbanum Mid Notes: Vetiver, Juniper Berries, Black Currant, Apple, Cedar, Pink Pepper, Cypriol Oil or Nagarmotha, Lily-of-the-Valley, Jasmine, Rose Base Notes: Ambergris, Leather, Vanilla, Benzoin, Labdanum
-  Updated: 2026-09-13T15:59:07Z
+  Updated: 2026-11-15T04:07:22Z
   Vendor: Roja Parfums
   Product Type: Elysium Parfum Cologne
   Availability: Available
@@ -1757,7 +1787,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $39.00 USD
 - [Elysium Pour Homme Parfum](https://joeasdecants.com/products/elysium-pour-homme-parfum): Top Notes: Grapefruit, Lemon, Lime, Galbanum Mid Notes: Apple, Lily-of-the-Valley, Pink Pepper, Woody Notes, Jasmine, Rose Base Notes: Ambergris, Musk, Leather, Benzoin, Labdanum, Vanilla
-  Updated: 2026-09-13T15:59:11Z
+  Updated: 2026-11-15T04:07:21Z
   Vendor: Roja Parfums
   Product Type: Elysium Pour Homme Parfum
   Availability: Available
@@ -1772,7 +1802,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $107.00 USD
 - [Noir Extreme Parfum](https://joeasdecants.com/products/noir-extreme-parfum): Top Notes: Cardamom, Ginger, Mandarin Orange, Neroli, Citruses Mid Notes: Kulfi, Bulgarian Rose, Orange Blossom, Jasmine Base Notes: Vanilla, Leather, Suede, Amber, Tonka Bean, Guaiac Wood, Cedar
-  Updated: 2026-09-13T15:59:11Z
+  Updated: 2026-11-15T04:07:26Z
   Vendor: Tom Ford
   Product Type: Noir Extreme Parfum
   Availability: Available
@@ -1787,7 +1817,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $37.00 USD
 - [Valentino Uomo Intense](https://joeasdecants.com/products/valentino-uomo-intense): Top Notes: Mandarin Orange, Clary Sage Mid Notes: Iris, Tonka Bean Base Notes: Vanilla, Leather
-  Updated: 2026-09-13T15:59:15Z
+  Updated: 2026-11-15T04:07:26Z
   Vendor: Valentino
   Product Type: Valentino Uomo Intense
   Availability: Available
@@ -1802,7 +1832,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $35.00 USD
 - [Eros Energy](https://joeasdecants.com/products/eros-energy): Top Notes: Lemon, Lime, Grapefruit, Blood Orange, Sicilian Bergamot, Mandarin Orange Mid Notes: Pink Pepper, White Amber, Black Currant Base Notes: Musk, Oakmoss, Patchouli
-  Updated: 2026-09-13T15:59:15Z
+  Updated: 2026-11-15T04:07:27Z
   Vendor: Versace
   Product Type: Eros Energy
   Availability: Available
@@ -1832,7 +1862,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $23.00 USD
 - [Eros Eau de Parfum](https://joeasdecants.com/products/eros-parfum): Top Notes: Mint, Candy Apple, Lemon, Mandarin Orange Mid Notes: Ambroxan, Geranium, Clary Sage Base Notes: Vanilla, Cedar, Sandalwood, Bitter Orange, Patchouli, Leather
-  Updated: 2026-09-13T15:59:20Z
+  Updated: 2026-11-15T04:07:31Z
   Vendor: Versace
   Product Type: Eros Eau de Parfum
   Availability: Available
@@ -1847,7 +1877,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $23.00 USD
 - [Spicebomb Extreme](https://joeasdecants.com/products/spicebomb-extreme): Top Notes: Mid Notes: Saffron, Cinnamon Base Notes: Vanilla, Tobacco, Cumin, Bourbon Whiskey
-  Updated: 2026-09-13T15:59:20Z
+  Updated: 2026-11-15T04:07:31Z
   Vendor: Viktor & Rolf
   Product Type: Spicebomb Extreme
   Availability: Available
@@ -1862,7 +1892,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $41.00 USD
 - [Naxos](https://joeasdecants.com/products/naxos): Top Notes: Lavender, Bergamot, Lemon Mid Notes: Honey, Cinnamon, Cashmeran, Jasmine Sambac Base Notes: Tobacco Leaf, Vanilla, Tonka Bean
-  Updated: 2026-09-13T15:59:25Z
+  Updated: 2026-11-15T04:07:36Z
   Vendor: Xerjoff
   Product Type: Naxos
   Availability: Available
@@ -1877,7 +1907,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $42.00 USD
 - [La Nuit de L'Homme](https://joeasdecants.com/products/la-nuit-de-lhomme): Top Notes: Cardamom Mid Notes: Lavender, Virginia Cedar, Bergamot Base Notes: Vetiver, Caraway
-  Updated: 2026-10-18T21:39:27Z
+  Updated: 2026-11-15T04:07:36Z
   Vendor: Yves Saint Laurent
   Product Type: La Nuit de L'Homme
   Availability: Available
@@ -1892,7 +1922,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $31.00 USD
 - [Y (Eau de Parfum)](https://joeasdecants.com/products/y-eau-de-parfum): Top Notes: Apple, Ginger, Bergamot Mid Notes: Sage, Juniper Berries, Geranium Base Notes: Amberwood, Tonka Bean, Cedar, Vetiver, Olibanum
-  Updated: 2026-09-13T15:59:26Z
+  Updated: 2026-11-15T04:07:42Z
   Vendor: Yves Saint Laurent
   Product Type: Y (Eau de Parfum)
   Availability: Available
@@ -1907,7 +1937,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $25.00 USD
 - [Y (Eau de Parfum Intense)](https://joeasdecants.com/products/y-eau-de-parfum-intense): Top Notes: Ginger, Juniper Berries, Bergamot Mid Notes: Sage, Lavender, Geranium Base Notes: Vetiver, Patchouli, Cedar
-  Updated: 2026-09-13T15:59:30Z
+  Updated: 2026-11-15T04:07:42Z
   Vendor: Yves Saint Laurent
   Product Type: Y (Eau de Parfum Intense)
   Availability: Available
@@ -1922,7 +1952,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $27.00 USD
 - [Y Le Parfum (2021)](https://joeasdecants.com/products/y-le-parfum-2021): Top Notes: Apple, Aldehydes, Grapefruit, Ginger Mid Notes: Lavender, Sage, Geranium Base Notes: Tonka Bean, Cedar, Olibanum, Patchouli
-  Updated: 2026-09-13T15:59:31Z
+  Updated: 2026-11-15T04:07:41Z
   Vendor: Yves Saint Laurent
   Product Type: Y Le Parfum (2021)
   Availability: Available
@@ -1937,37 +1967,37 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $29.00 USD
 - [Away Tonight Man](https://joeasdecants.com/products/away-tonight): Top Notes: Pink Pepper, Pink Grapefruit, Bergamot Mid Notes: Vetiver, Geranium, Carrot Base Notes: Sandalwood, Patchouli, Cedar
-  Updated: 2026-08-19T19:24:31Z
+  Updated: 2026-11-18T18:23:51Z
   Vendor: Abercrombie & Fitch
   Product Type: Away Tonight Man
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/AwayTonight_ed48e96a-8023-4ac3-8c78-edda5d0bdee8.png?v=1776278187
   - [3ML](https://joeasdecants.com/products/away-tonight?variant=62653793730931)
-    Availability: Not Available
-    Price: $10.00 USD
+    Availability: Available
+    Price: $5.00 USD
   - [5ML](https://joeasdecants.com/products/away-tonight?variant=52624179167603)
     Availability: Available
-    Price: $12.00 USD
+    Price: $7.00 USD
   - [10ML](https://joeasdecants.com/products/away-tonight?variant=62392540103027)
-    Availability: Not Available
-    Price: $19.00 USD
+    Availability: Available
+    Price: $12.00 USD
 - [Away Weekend Man](https://joeasdecants.com/products/away-weekend): Top Notes: Apple, Bergamot, Clementine, Cardamom Mid Notes: Lavender, Clary Sage, Cypress, Rosemary Base Notes: Atlas Cedar, Patchouli, Cacao
-  Updated: 2026-08-19T19:23:57Z
+  Updated: 2026-11-18T18:23:48Z
   Vendor: Abercrombie & Fitch
   Product Type: Away Weekend Man
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/Away_Weekend_92e0cee7-ceb2-46c0-a5b5-8bb5c95aeb27.png?v=1776278220
   - [3ML](https://joeasdecants.com/products/away-weekend?variant=62653793894771)
-    Availability: Not Available
-    Price: $10.00 USD
+    Availability: Available
+    Price: $5.00 USD
   - [5ML](https://joeasdecants.com/products/away-weekend?variant=52624180347251)
     Availability: Available
-    Price: $12.00 USD
+    Price: $7.00 USD
   - [10ML](https://joeasdecants.com/products/away-weekend?variant=62392538399091)
-    Availability: Not Available
-    Price: $19.00 USD
+    Availability: Available
+    Price: $12.00 USD
 - [Cool Water](https://joeasdecants.com/products/cool-water): Top Notes: Peppermint Mid Notes: Lavender, Rosemary, Geranium, Rosewood Base Notes: Musk, Cedarwood, Tonka Bean
-  Updated: 2026-09-13T15:59:35Z
+  Updated: 2026-11-15T04:07:44Z
   Vendor: Davidoff
   Product Type: Cool Water
   Availability: Available
@@ -1982,7 +2012,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $13.00 USD
 - [Black Orchid (Eau de Parfum)](https://joeasdecants.com/products/black-orchid): Top Notes: Truffle, Gardenia, Black Currant, Ylang-Ylang, Jasmine, Bergamot, Mandarin Orange, Amalfi Lemon Mid Notes: Orchid, Spices, Gardenia, Fruity Notes, Ylang-Ylang, Jasmine, Lotus Base Notes: Mexican Chocolate, Patchouli, Vanille, Incense, Amber, Sandalwood, Vetiver, White Musk
-  Updated: 2026-09-13T15:59:35Z
+  Updated: 2026-11-15T04:07:45Z
   Vendor: Tom Ford
   Product Type: Black Orchid (Eau de Parfum)
   Availability: Available
@@ -1997,7 +2027,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $31.00 USD
 - [Pepe Jeans Celebrate for Him](https://joeasdecants.com/products/celebrate): Top Notes: Black Currant, Lime Mid Notes: Cacao, Tonka Bean, Cinnamon, Clary Sage, Juniper Base Notes: Amberwood, Patchouli, Birch
-  Updated: 2026-09-13T15:59:36Z
+  Updated: 2026-11-15T04:07:46Z
   Vendor: Pepe Jeans
   Product Type: Pepe Jeans Celebrate for Him
   Availability: Available
@@ -2012,7 +2042,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $9.00 USD
 - [The One (Eau de Parfum)](https://joeasdecants.com/products/the-one): Top Notes: Grapefruit, Coriander, Basil Mid Notes: Cardamom, Ginger, Orange Blossom Base Notes: Amber, Tobacco, Cedar
-  Updated: 2026-09-13T15:59:40Z
+  Updated: 2026-11-15T04:07:51Z
   Vendor: Dolce & Gabbana
   Product Type: The One (Eau de Parfum)
   Availability: Available
@@ -2027,7 +2057,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $21.00 USD
 - [K by Dolce & Gabbana EDT](https://joeasdecants.com/products/k-pour-homme): Top Notes: Juniper Berries, Citruses, Blood Orange, Sicilian Lemon Mid Notes: Pimento, Lavender, Clary Sage, Geranium Base Notes: Vetiver, Cedar, Patchouli
-  Updated: 2026-09-13T15:59:40Z
+  Updated: 2026-11-15T04:07:51Z
   Vendor: Dolce & Gabbana
   Product Type: K by Dolce & Gabbana EDT
   Availability: Available
@@ -2042,7 +2072,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $23.00 USD
 - [Wave Pour Homme](https://joeasdecants.com/products/wave-pour-homme): Top Notes: Sea Notes, Citruses, Sicilian Mandarin Mid Notes: Lavender, Clary Sage, Rosemary, Egyptian Pelargonium Base Notes: Vanilla Orchid, Haitian Vetiver, Patchouli, Oakmoss
-  Updated: 2026-09-13T15:59:45Z
+  Updated: 2026-11-15T04:07:56Z
   Vendor: Missoni
   Product Type: Wave Pour Homme
   Availability: Available
@@ -2057,7 +2087,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $17.00 USD
 - [Boundless](https://joeasdecants.com/products/boundless): Top Notes: Cardamom, Blood Orange, Ginger, Elemi Mid Notes: Bourbon Vanilla, Benzoin Base Notes: Tobacco, Myrrh, Incense, Cacao, Guaiac Wood, Patchouli, Vetiver, Papyrus, Oakmoss
-  Updated: 2026-09-13T15:59:45Z
+  Updated: 2026-11-15T04:07:56Z
   Vendor: Amouage
   Product Type: Boundless
   Availability: Available
@@ -2072,7 +2102,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $52.00 USD
 - [Honour](https://joeasdecants.com/products/honour): Top Notes: Pepper, Pink Pepper Mid Notes: Geranium, Elemi, Nutmeg Base Notes: Incense, Vetiver, Virginia Cedar, Musk, Patchouli, Tonka Bean
-  Updated: 2026-09-13T15:59:50Z
+  Updated: 2026-11-15T04:08:01Z
   Vendor: Amouage
   Product Type: Honour
   Availability: Available
@@ -2087,7 +2117,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $47.00 USD
 - [King Blue](https://joeasdecants.com/products/king-blue): Top Notes: Mandarin Orange, Black Currant, Pink Pepper Mid Notes: Frankincense, Amber Base Notes: Agarwood (Oud), Leather, Oak, Sandalwood, Patchouli
-  Updated: 2026-09-13T15:59:50Z
+  Updated: 2026-11-15T04:08:01Z
   Vendor: Amouage
   Product Type: King Blue
   Availability: Available
@@ -2102,7 +2132,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $65.00 USD
 - [Silver Oud](https://joeasdecants.com/products/silver-oud): Top Notes: Cypriol Oil or Nagarmotha, Patchouli, Virginia Cedar Mid Notes: Agarwood (Oud), Madagascar Vanilla Base Notes: Castoreum, Birch, Guaiac Wood, Ambrarome
-  Updated: 2026-09-25T12:52:30Z
+  Updated: 2026-11-15T04:08:06Z
   Vendor: Amouage
   Product Type: Silver Oud
   Availability: Available
@@ -2117,7 +2147,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $65.00 USD
 - [Gold](https://joeasdecants.com/products/gold): Top Notes: Lily-of-the-Valley, Rose Hip, Incense Mid Notes: Jasmine, Orris Root, Myrrh Base Notes: Civet, Musk, Oakmoss, Amber, Sandalwood, Patchouli, Cedar
-  Updated: 2026-09-13T15:59:55Z
+  Updated: 2026-11-15T04:08:07Z
   Vendor: Amouage
   Product Type: Gold
   Availability: Available
@@ -2132,7 +2162,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $54.00 USD
 - [Jubilation 40](https://joeasdecants.com/products/jubilation-40): Top Notes: Blackberry, Labdanum, Black Currant, Orange, Rosemary, Davana Mid Notes: Frankincense, Bay Leaf, Cinnamon, Cloves, Broom, Celery Seeds, Rose Base Notes: Agarwood (Oud), Patchouli, Myrrh, Guaiac Wood, Moss, Musk, Cedar, Ambergris, Cistus Incanus
-  Updated: 2026-10-18T21:39:33Z
+  Updated: 2026-11-15T04:08:06Z
   Vendor: Amouage
   Product Type: Jubilation 40
   Availability: Available
@@ -2147,7 +2177,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $67.00 USD
 - [Meander](https://joeasdecants.com/products/meander): Top Notes: Olibanum, Carrot Seeds, Black Pepper, Pink Pepper Mid Notes: Orris, Cypriol Oil or Nagarmotha, Narcissus, Rose Base Notes: Sandalwood, Olibanum, Vetiver
-  Updated: 2026-09-13T16:00:01Z
+  Updated: 2026-11-15T04:08:12Z
   Vendor: Amouage
   Product Type: Meander
   Availability: Available
@@ -2162,7 +2192,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $50.00 USD
 - [Search](https://joeasdecants.com/products/search): Top Notes: Lime, Lemon, Mandarin Orange Mid Notes: Olibanum, Elemi, Black Pepper Base Notes: Cade Oil, Vetiver, Guaiac Wood
-  Updated: 2026-09-25T12:52:34Z
+  Updated: 2026-11-15T04:08:11Z
   Vendor: Amouage
   Product Type: Search
   Availability: Available
@@ -2177,7 +2207,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $50.00 USD
 - [Overture](https://joeasdecants.com/products/overture): Top Notes: Cognac, Cumin, Cardamom, Saffron, Nutmeg, Ginger, Grapefruit Mid Notes: Myrrh, Benzoin, Cinnamon, Labdanum, Mastic or Lentisque, Patchouli, Geranium Base Notes: Animal Notes, Smoke, Incense, Leather, Sandalwood, Clary Sage
-  Updated: 2026-10-18T21:39:32Z
+  Updated: 2026-11-15T04:08:16Z
   Vendor: Amouage
   Product Type: Overture
   Availability: Available
@@ -2192,7 +2222,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $50.00 USD
 - [9pm Elixir](https://joeasdecants.com/products/9pm-elixir): Top Notes: Cardamom, Nutmeg, Elemi Mid Notes: Pimento, Leather, Lavender Base Notes: Vanilla, Patchouli, Labdanum, Rock Rose
-  Updated: 2026-09-13T16:00:06Z
+  Updated: 2026-11-15T04:08:16Z
   Vendor: Afnan
   Product Type: 9pm Elixir
   Availability: Available
@@ -2207,7 +2237,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $15.00 USD
 - [Spice and Black Vanilla](https://joeasdecants.com/products/spice-and-black-vanilla): Top Notes: Cardamom Mid Notes: Cashmere Wood Base Notes: Bourbon Vanilla, Vetiver
-  Updated: 2026-09-25T12:52:31Z
+  Updated: 2026-11-15T04:08:16Z
   Vendor: Cremo
   Product Type: Spice and Black Vanilla
   Availability: Available
@@ -2246,7 +2276,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $10.00 USD
 - [Ralph's Club Elixir](https://joeasdecants.com/products/ralphs-club-elixir): Top Notes: Cardamom, Green Mandarin, Grapefruit Mid Notes: Orris, Lavender, Sage, Geranium Base Notes: Leather, Olibanum, Patchouli, Balsam Fir
-  Updated: 2026-09-13T16:00:11Z
+  Updated: 2026-11-15T04:08:21Z
   Vendor: Ralph Lauren
   Product Type: Ralph's Club Elixir
   Availability: Available
@@ -2268,7 +2298,7 @@ This document provides a structured overview of our offerings, brand standards, 
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/LemonDulci_1.png?v=1767709579
   Price: $10.00 USD
 - [Polo Red Extreme](https://joeasdecants.com/products/polo-red-extreme): Top Notes: Blood Orange Mid Notes: Coffee Base Notes: Ebony Wood
-  Updated: 2026-09-25T12:52:30Z
+  Updated: 2026-11-15T04:08:21Z
   Vendor: Ralph Lauren
   Product Type: Polo Red Extreme
   Availability: Available
@@ -2297,7 +2327,7 @@ This document provides a structured overview of our offerings, brand standards, 
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/VetiverinWoolIvory_Gold_1200x_cbd0b4b6-4a48-444f-bf3e-77a3b41c9fa5.webp?v=1776279802
   Price: $20.00 USD
 - [Royal Bourbon](https://joeasdecants.com/products/royal-bourbon): Top Notes: Cinnamon, Ginger, Licorice, Black Pepper Mid Notes: Tobacco, Rum, Caramel Base Notes: Vanilla, Amber, Cedar
-  Updated: 2026-09-13T16:00:16Z
+  Updated: 2026-11-15T04:08:26Z
   Vendor: Plume Impression
   Product Type: Royal Bourbon
   Availability: Available
@@ -2312,7 +2342,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $35.00 USD
 - [Vetiver Parfum](https://joeasdecants.com/products/vetiver-parfum): Top Notes: Juniper Berries, Coriander Mid Notes: Licorice, Smoke Base Notes: Vetiver, Tonka Bean
-  Updated: 2026-09-13T16:00:15Z
+  Updated: 2026-11-15T04:08:26Z
   Vendor: Guerlain
   Product Type: Vetiver Parfum
   Availability: Available
@@ -2484,7 +2514,7 @@ This document provides a structured overview of our offerings, brand standards, 
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/Gold_Membership.png?v=1775779499
   Price: $10.00 USD
 - [Apple Brandy On The Rocks](https://joeasdecants.com/products/apple-brandy): Top Notes: Cardamom, Bergamot Mid Notes: Apple, Rum, Brandy, Pineapple, Vanilla, Moss Base Notes: Cedar, Ambroxan
-  Updated: 2026-09-13T16:00:19Z
+  Updated: 2026-11-15T04:08:26Z
   Vendor: By Kilian
   Product Type: Apple Brandy On The Rocks
   Availability: Available
@@ -2499,7 +2529,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $65.00 USD
 - [A*Men Pure Havane](https://joeasdecants.com/products/a-men-pure-havane): Top Notes: White Honey, Tobacco Mid Notes: Vanille, Cacao, Patchouli Base Notes: Amber, French Labdanum, Styrax
-  Updated: 2026-09-13T16:00:21Z
+  Updated: 2026-11-15T04:08:31Z
   Vendor: Mugler
   Product Type: A*Men Pure Havane
   Availability: Available
@@ -2514,7 +2544,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $59.00 USD
 - [Unknown Pleasures](https://joeasdecants.com/products/unknown-pleasures): Top Notes: Lemon, Bergamot Mid Notes: Earl Grey Tea Base Notes: Honey, Tonka Bean, Caramel, Vanilla
-  Updated: 2026-10-27T04:32:42Z
+  Updated: 2026-11-15T04:08:32Z
   Vendor: Kerosene
   Product Type: Unknown Pleasures
   Availability: Available
@@ -2529,7 +2559,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $25.00 USD
 - [Five O'Clock Au Gingembre](https://joeasdecants.com/products/five-oclock-au-gingembre): Top Notes: Tea, Bergamot Mid Notes: Cinnamon, Woodsy Notes, Candied Ginger Base Notes: Pepper, Honey, Amber, Cacao, Patchouli
-  Updated: 2026-09-25T12:52:33Z
+  Updated: 2026-11-15T04:08:36Z
   Vendor: Serge Lutens
   Product Type: Five O'Clock Au Gingembre
   Availability: Available
@@ -2544,7 +2574,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $53.00 USD
 - [Duro](https://joeasdecants.com/products/duro): Top Notes: Spices Mid Notes: Woodsy Notes Base Notes: Leather
-  Updated: 2026-09-13T16:00:25Z
+  Updated: 2026-11-15T04:08:36Z
   Vendor: Nasomatto
   Product Type: Duro
   Availability: Available
@@ -2559,7 +2589,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $71.00 USD
 - [Smoking Hot](https://joeasdecants.com/products/smoking-hot): Top Notes: Apple, Smoke, Cinnamon Mid Notes: Tobacco, Vanilla, Moss Base Notes: Bourbon Vanilla, Licorice, OrcanoxTM, Iso E Super, Clary Sage
-  Updated: 2026-09-13T16:00:27Z
+  Updated: 2026-11-15T04:08:36Z
   Vendor: By Kilian
   Product Type: Smoking Hot
   Availability: Available
@@ -2574,7 +2604,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $69.00 USD
 - [Jazz Club](https://joeasdecants.com/products/jazz-club): Top Notes: Pink Pepper, Neroli, Lemon Mid Notes: Rum, Java Vetiver Oil, Clary Sage Base Notes: Tobacco Leaf, Vanilla Bean, Styrax
-  Updated: 2026-09-13T16:00:30Z
+  Updated: 2026-11-15T04:08:41Z
   Vendor: Maison Margiela
   Product Type: Jazz Club
   Availability: Available
@@ -2589,7 +2619,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $25.00 USD
 - [Commodity Whiskey](https://joeasdecants.com/products/commodity-whiskey): Top Notes: Violet, Black Currant, Plum Mid Notes: Lavender, Wormwood, Patchouli, Saffron Base Notes: Oak, Ambergris, Mahogany, Vanilla, Cedar, Vetiver
-  Updated: 2026-10-18T21:39:32Z
+  Updated: 2026-11-15T04:08:41Z
   Vendor: Commodity
   Product Type: Commodity Whiskey
   Availability: Available
@@ -2604,7 +2634,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $25.00 USD
 - [Old Fashioned](https://joeasdecants.com/products/old-fashioned): Top Notes: Wheat, Davana, Bergamot Mid Notes: Immortelle, Cedar, Whiskey, Orange Blossom, Tuberose Base Notes: Tolu Balsam, Styrax
-  Updated: 2026-09-13T16:00:35Z
+  Updated: 2026-11-15T04:08:45Z
   Vendor: By Kilian
   Product Type: Old Fashioned
   Availability: Available
@@ -2619,7 +2649,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $65.00 USD
 - [Bourbon and Oak](https://joeasdecants.com/products/bourbon-and-oak): Top Notes: Spicy Notes Mid Notes: Whiskey Base Notes: Oak
-  Updated: 2026-09-13T16:00:35Z
+  Updated: 2026-11-15T04:08:45Z
   Vendor: Cremo
   Product Type: Bourbon and Oak
   Availability: Available
@@ -2634,7 +2664,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $11.00 USD
 - [A*Men Pure Malt](https://joeasdecants.com/products/a-men-pure-malt): Top Notes: Fruit Notes, Orange, Bergamot Mid Notes: Malt, Whiskey, Patchouli, Coffee, Cedar Base Notes: Peat, Amber, Vanilla, Musk
-  Updated: 2026-09-13T16:00:40Z
+  Updated: 2026-11-15T04:08:46Z
   Vendor: Mugler
   Product Type: A*Men Pure Malt
   Availability: Available
@@ -2649,7 +2679,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $59.00 USD
 - [Side Effect](https://joeasdecants.com/products/side-effect): Top Notes: Hedione Mid Notes: Saffron, Cinnamon Base Notes: Rum, Tobacco, Sandalwood
-  Updated: 2026-09-13T16:00:40Z
+  Updated: 2026-11-15T04:08:51Z
   Vendor: Initio
   Product Type: Side Effect
   Availability: Available
@@ -2664,7 +2694,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $51.00 USD
 - [Black Phantom](https://joeasdecants.com/products/black-phantom): Top Notes: Rum Mid Notes: Dark Chocolate, Coffee, Almond, Heliotrope Base Notes: Caramel, Sugar Cane, Sandalwood, Vanilla, Tonka, Vetiver
-  Updated: 2026-10-27T22:17:21Z
+  Updated: 2026-11-15T04:08:51Z
   Vendor: By Kilian
   Product Type: Black Phantom
   Availability: Available
@@ -2679,7 +2709,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $85.00 USD
 - [Don](https://joeasdecants.com/products/don): Top Notes: Spun Sugar Mid Notes: Gunpowder Base Notes: Whiskey, Tobacco
-  Updated: 2026-09-13T16:00:45Z
+  Updated: 2026-11-15T04:08:56Z
   Vendor: Xerjoff
   Product Type: Don
   Availability: Available
@@ -2694,7 +2724,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $56.00 USD
 - [Cognac Cafe](https://joeasdecants.com/products/cognac-cafe): Top Notes: Coffee, Brown Sugar, Almond, Licorice Mid Notes: Coffee, Cognac, Sandalwood, Papyrus Base Notes: Vanilla, Oak Tree, Myrrh, Virginia Cedar
-  Updated: 2026-09-13T16:00:45Z
+  Updated: 2026-11-15T04:08:56Z
   Vendor: Galleria Parfums
   Product Type: Cognac Cafe
   Availability: Available
@@ -2709,7 +2739,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $56.00 USD
 - [Khamrah](https://joeasdecants.com/products/khamrah): Top Notes: Cinnamon, Nutmeg, Bergamot Mid Notes: Dates, Praline, Tuberose, Mahonial Base Notes: Vanilla, Tonka Bean, Amberwood, Myrrh, Benzoin, Akigalawood
-  Updated: 2026-10-27T04:32:41Z
+  Updated: 2026-11-15T04:08:56Z
   Vendor: Lattafa
   Product Type: Khamrah
   Availability: Available
@@ -2724,7 +2754,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $13.00 USD
 - [Plum In Cognac](https://joeasdecants.com/products/plum-in-cognac): Top Notes: Plum, Cinnamon, Immortelle, Osmanthus Mid Notes: Labdanum, Rum, Peru Balsam Base Notes: Vanilla, Haitian Vetiver
-  Updated: 2026-10-18T21:39:31Z
+  Updated: 2026-11-15T04:09:01Z
   Vendor: Scents of Wood
   Product Type: Plum In Cognac
   Availability: Available
@@ -2739,7 +2769,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $41.00 USD
 - [Fougere L'Aube](https://joeasdecants.com/products/fougere-laube): Top Notes: Citruses, Hay, Camphor Mid Notes: Geranium, Lavender, Galbanum, Moroccan Rose, Costus Base Notes: Amber, Musk, Oakmoss, Sandalwood
-  Updated: 2026-09-13T16:00:56Z
+  Updated: 2026-11-15T04:09:02Z
   Vendor: Rogue Perfumery
   Product Type: Fougere L'Aube
   Availability: Available
@@ -2754,7 +2784,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $37.00 USD
 - [Absinthe Boreale](https://joeasdecants.com/products/absinthe-boreale): Top Notes: Lemon, Mint, Juniper Berries, Fern, Absinthe, Artemisia, Eucalyptus Mid Notes: Lavender Base Notes: Musk, Resins
-  Updated: 2026-09-13T16:00:52Z
+  Updated: 2026-11-15T04:09:03Z
   Vendor: Maison Crivelli
   Product Type: Absinthe Boreale
   Availability: Available
@@ -2769,7 +2799,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $57.00 USD
 - [L'Heure Verte](https://joeasdecants.com/products/lheure): Top Notes: Absinthe Mid Notes: Licorice, Violet Leaf Base Notes: Patchouli, Vetiver, Sandalwood, Woodsy Notes
-  Updated: 2026-09-13T16:00:55Z
+  Updated: 2026-11-15T04:09:06Z
   Vendor: By Kilian
   Product Type: L'Heure Verte
   Availability: Available
@@ -2784,7 +2814,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $65.00 USD
 - [Seahorse](https://joeasdecants.com/products/seahorse): Top Notes: Fennel, Ambrette (Musk Mallow), Guatemalan Cardamom Mid Notes: Tuberose, Clary Sage, Neroli Base Notes: Algae, Ambergris, Vetiver
-  Updated: 2026-09-13T16:01:01Z
+  Updated: 2026-11-15T04:09:06Z
   Vendor: Zoologist
   Product Type: Seahorse
   Availability: Available
@@ -2799,7 +2829,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $31.00 USD
 - [Saint Julep](https://joeasdecants.com/products/saint-julep): Top Notes: Mint, Tangerine, Watery Notes Mid Notes: Sugar, Magnolia Base Notes: Whiskey, Ambergris
-  Updated: 2026-09-13T16:00:59Z
+  Updated: 2026-11-15T04:09:11Z
   Vendor: Imaginary Authors
   Product Type: Saint Julep
   Availability: Available
@@ -2814,7 +2844,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $33.00 USD
 - [GNTONIC](https://joeasdecants.com/products/gntonic): Top Notes: Tonic Water, Lime, Gin, Peppermint, Ginger, Bigarade, Pink Pepper Mid Notes: Lily-of-the-Valley, Cedar, Cypriol Oil or Nagarmotha, Orange Blossom, Nutmeg Base Notes: Moss, Vetiver, White Musk, Sandalwood, Amber
-  Updated: 2026-09-13T16:01:01Z
+  Updated: 2026-11-15T04:09:12Z
   Vendor: M. Micallef
   Product Type: GNTONIC
   Availability: Available
@@ -2829,7 +2859,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $35.00 USD
 - [Blue Moon Ginger Dash](https://joeasdecants.com/products/blue-moon-ginger-dash): Top Notes: Lemon, Calone, Mint, Aldehydes Mid Notes: Vodka, Ginger Base Notes: Ambroxan, White Musk
-  Updated: 2026-09-13T16:01:05Z
+  Updated: 2026-11-15T04:09:16Z
   Vendor: By Kilian
   Product Type: Blue Moon Ginger Dash
   Availability: Available
@@ -2844,7 +2874,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $65.00 USD
 - [Tobacco Vanille](https://joeasdecants.com/products/tobacco-vanille): Top Notes: Tobacco Leaf, Spicy Notes Mid Notes: Vanilla, Cacao, Tonka Bean, Tobacco Blossom Base Notes: Dried Fruits, Woodsy notes
-  Updated: 2026-09-13T16:01:05Z
+  Updated: 2026-11-15T04:09:16Z
   Vendor: Tom Ford
   Product Type: Tobacco Vanille
   Availability: Available
@@ -2859,7 +2889,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $75.00 USD
 - [Mercedes-Benz Club Black EDT](https://joeasdecants.com/products/mercedes-benz-club-black): Top Notes: Bergamot Mid Notes: Incense, Jasmine Base Notes: Vanilla, Benzoin, Woodsy Notes, Ambroxan
-  Updated: 2026-09-13T16:01:06Z
+  Updated: 2026-11-15T04:09:21Z
   Vendor: Mercedes-Benz
   Product Type: Mercedes-Benz Club Black EDT
   Availability: Available
@@ -2874,7 +2904,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $21.00 USD
 - [Invictus Victory Elixir](https://joeasdecants.com/products/invictus-victory-elixir): Top Notes: Lavender, Cardamom, Black Pepper Mid Notes: Incense, Patchouli Base Notes: Vanilla Pod, Tonka Bean
-  Updated: 2026-09-13T16:01:11Z
+  Updated: 2026-11-15T04:09:22Z
   Vendor: Paco Rabanne
   Product Type: Invictus Victory Elixir
   Availability: Available
@@ -2889,7 +2919,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $33.00 USD
 - [Bianco Latte](https://joeasdecants.com/products/bianco-latte): Top Notes: Caramel Mid Notes: Coumarin, Honey Base Notes: Vanilla, White Musk
-  Updated: 2026-09-13T16:01:15Z
+  Updated: 2026-11-15T04:09:21Z
   Vendor: Giardini di Toscana
   Product Type: Bianco Latte
   Availability: Available
@@ -2904,7 +2934,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $25.00 USD
 - [Absolute Aphrodisiac](https://joeasdecants.com/products/absolute-aphrodisiac): Top Notes: Mid Notes: White Flowers Base Notes: Vanilla, Amber, Castoreum, Leather, Musk
-  Updated: 2026-09-13T16:01:16Z
+  Updated: 2026-11-15T04:09:26Z
   Vendor: Initio
   Product Type: Absolute Aphrodisiac
   Availability: Available
@@ -2919,7 +2949,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $50.00 USD
 - [Vanille Leather](https://joeasdecants.com/products/vanille-leather): Top Notes: Violet, Pink Pepper Mid Notes: Tuberose, Orange Blossom, Jasmine Base Notes: Vanilla, Leather, Orris, Benzoin, Oak, Patchouli
-  Updated: 2026-09-13T16:01:16Z
+  Updated: 2026-11-15T04:09:26Z
   Vendor: BDK Parfums
   Product Type: Vanille Leather
   Availability: Available
@@ -2934,7 +2964,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $39.00 USD
 - [Silky Woods](https://joeasdecants.com/products/silky-woods): Top Notes: Saffron, Ceylon Cinnamon Mid Notes: Suede, Oud, Madagascar Ylang-Ylang, Jasmine Base Notes: Tahitian Vanilla, Australian Sandalwood, Tobacco Leaf, Musk, Olibanum
-  Updated: 2026-09-13T16:01:20Z
+  Updated: 2026-11-15T04:09:31Z
   Vendor: Goldfield & Banks
   Product Type: Silky Woods
   Availability: Available
@@ -2949,14 +2979,14 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $39.00 USD
 - [Vanilla in Bourbon](https://joeasdecants.com/products/vanilla-in-bourbon): Top Notes: Cinnamon, Cardamom, Lemon Zest Mid Notes: Myrrh, Labdanum, Gurjan Balsam Base Notes: Vanilla, Olibanum, Guaiac Wood
-  Updated: 2026-09-25T12:52:30Z
+  Updated: 2026-11-15T04:09:28Z
   Vendor: Scents of Wood
   Product Type: Vanilla in Bourbon
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/IMG_8278.heic?v=1771702375
   Price: $24.00 USD
 - [Vanilla Oud](https://joeasdecants.com/products/vanilla-oud-1): Top Notes: Saffron, Apple, Rhubarb, Bergamot Mid Notes: Cashmere Wood, Rose, Jasmine, Violet, Cyclamen Base Notes: Vanilla, Oud, Caramel, Tonka Bean, Sandalwood, Guaiac Wood, Cedar, Patchouli, Musk, Vetiver
-  Updated: 2026-09-25T12:52:31Z
+  Updated: 2026-11-15T04:09:31Z
   Vendor: Vertus
   Product Type: Vanilla Oud
   Availability: Available
@@ -2971,14 +3001,14 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $39.00 USD
 - [Vanilla Is My Love Language](https://joeasdecants.com/products/vanilla-is-my-love-language): Top Notes: Rum, Italian Lemon, Mango Mid Notes: Sesame, Plumeria, Rose de Mai, Milk, Davana Base Notes: Bourbon Vanilla, Madagascar Vanilla, Tonka Bean, Siam Benzoin, Peru Balsam
-  Updated: 2026-11-10T16:25:36Z
+  Updated: 2026-11-15T04:09:32Z
   Vendor: Aromas de Salazar
   Product Type: Vanilla Is My Love Language
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/IMG_8307.heic?v=1771702897
   Price: $35.00 USD
 - [Valentino Uomo](https://joeasdecants.com/products/valentino-uomo): Top Notes: Bergamot, Myrtle Mid Notes: Hazelnut, Chocolate, Roasted Coffee Beans Base Notes: Leather, Cedar
-  Updated: 2026-09-13T16:01:23Z
+  Updated: 2026-11-15T04:09:33Z
   Vendor: Valentino
   Product Type: Valentino Uomo
   Availability: Available
@@ -2993,7 +3023,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $27.00 USD
 - [L'Instant pour Homme EDP](https://joeasdecants.com/products/linstant-pour-homme-edp): Top Notes: Star Anise, Bergamot, Elemi, Lemon, Pepper Mid Notes: Cacao Pod, Sandalwood, Smoke, Tea, Jasmine Base Notes: Patchouli
-  Updated: 2026-11-07T21:10:56Z
+  Updated: 2026-11-15T04:09:36Z
   Vendor: Guerlain
   Product Type: L'Instant pour Homme EDP
   Availability: Available
@@ -3008,7 +3038,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $29.00 USD
 - [Blue Agava & Cacao](https://joeasdecants.com/products/blue-agava-cacao): Top Notes: Cardamom, Lime Blossom, Grapefruit, Red Berries Mid Notes: Orchid, Lily, Geranium Base Notes: Cacao, Vanilla Pod, Cinnamon, Vetiver, Musk
-  Updated: 2026-10-18T21:39:32Z
+  Updated: 2026-11-15T04:09:36Z
   Vendor: Jo Malone London
   Product Type: Blue Agava & Cacao
   Availability: Available
@@ -3023,7 +3053,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $27.00 USD
 - [Bad Boy Extreme](https://joeasdecants.com/products/bad-boy-extreme): Top Notes: Bergamot, Plum, Indian Ginger Mid Notes: Clary Sage, Olibanum, Labdanum, Davana Base Notes: Cacao, Tonka Bean, Indonesian Patchouli Leaf, Incense, Vetiver, Opoponax
-  Updated: 2026-10-18T21:39:31Z
+  Updated: 2026-11-15T04:09:41Z
   Vendor: Carolina Herrera
   Product Type: Bad Boy Extreme
   Availability: Available
@@ -3038,7 +3068,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $33.00 USD
 - [Cocoa Bliss](https://joeasdecants.com/products/cocoa-bliss): Top Notes: Peach, Passion Fruit Mid Notes: Base Notes: Dark Chocolate
-  Updated: 2026-11-02T20:33:55Z
+  Updated: 2026-11-15T04:09:41Z
   Vendor: Zara
   Product Type: Cocoa Bliss
   Availability: Available
@@ -3053,7 +3083,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $13.00 USD
 - [Odyssey Dubai Chocolat](https://joeasdecants.com/products/odyssey-dubai-chocolat): Top Notes: Coffee, Pistachio, Knafeh, Praline, Hazelnut Mid Notes: Chocolate, Vanilla, Cardamom Base Notes: Caramel, Amberwood, Tonka Bean
-  Updated: 2026-09-13T16:01:31Z
+  Updated: 2026-11-15T04:09:46Z
   Vendor: Armaf
   Product Type: Odyssey Dubai Chocolat
   Availability: Available
@@ -3068,7 +3098,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $13.00 USD
 - [Choco Musk EDP](https://joeasdecants.com/products/choco-musk-edp): Top Notes: Cinnamon Mid Notes: Rose Base Notes: Chocolate, Vanilla, Musk, Spices, Amber, Sandalwood, Oriental Woodsy Notes
-  Updated: 2026-10-18T21:39:31Z
+  Updated: 2026-11-15T04:09:46Z
   Vendor: Al-Rehab
   Product Type: Choco Musk EDP
   Availability: Available
@@ -3083,7 +3113,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $13.00 USD
 - [Chocolate Greedy](https://joeasdecants.com/products/chocolate-greedy): Top Notes: Bitter Orange, Dried Fruits Mid Notes: Coffee Base Notes: Cacao, Vanilla, Tonka Bean
-  Updated: 2026-09-13T16:01:35Z
+  Updated: 2026-11-15T04:09:51Z
   Vendor: Montale
   Product Type: Chocolate Greedy
   Availability: Available
@@ -3098,7 +3128,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $25.00 USD
 - [Choco Violette](https://joeasdecants.com/products/choco-violette): Top Notes: Hazelnut, Orange, Bergamot Mid Notes: Dark Chocolate, Violet Base Notes: Madagascar Vanilla, White Musk
-  Updated: 2026-09-13T16:01:40Z
+  Updated: 2026-11-15T04:09:50Z
   Vendor: Mancera
   Product Type: Choco Violette
   Availability: Available
@@ -3113,7 +3143,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $28.00 USD
 - [Velvet Chocolate](https://joeasdecants.com/products/velvet-chocolate): Top Notes: Mid Notes: Chocolate Base Notes: Cacao, Vanilla, Tonka Bean
-  Updated: 2026-09-13T16:01:40Z
+  Updated: 2026-11-15T04:09:50Z
   Vendor: Theodoros Kalotinis
   Product Type: Velvet Chocolate
   Availability: Available
@@ -3128,7 +3158,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $21.00 USD
 - [Dipped in Chocolate](https://joeasdecants.com/products/dipped-in-chocolate): Top Notes: Cardamom Mid Notes: Chocolate, Waffle Base Notes: Vanilla, Benzoin, Sandalwood
-  Updated: 2026-09-13T16:01:41Z
+  Updated: 2026-11-15T04:09:56Z
   Vendor: Imaginary Authors
   Product Type: Dipped in Chocolate
   Availability: Available
@@ -3143,7 +3173,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $33.00 USD
 - [Double Attack](https://joeasdecants.com/products/double-attack): Top Notes: Bitter Orange, Pimento, Pink Pepper Mid Notes: Cinnamon, Agave, Geranium Base Notes: Dark Chocolate, Madagascar Vanilla, Sandalwood, Bourbon Vetiver
-  Updated: 2026-09-13T16:01:45Z
+  Updated: 2026-11-15T04:09:56Z
   Vendor: Mind Games
   Product Type: Double Attack
   Availability: Available
@@ -3158,7 +3188,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $49.00 USD
 - [Amour De Cacao](https://joeasdecants.com/products/amour-de-cacao): Top Notes: Orange Mid Notes: Cacao, Star Fruit Base Notes: Vanilla
-  Updated: 2026-09-13T16:01:50Z
+  Updated: 2026-11-15T04:10:01Z
   Vendor: Comptoir Sud Pacifique
   Product Type: Amour De Cacao
   Availability: Available
@@ -3173,7 +3203,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $25.00 USD
 - [Akro Dark](https://joeasdecants.com/products/akro-dark): Top Notes: Cinnamon Mid Notes: Dark Chocolate, Hazelnut Base Notes: Cacao, Vanilla
-  Updated: 2026-09-13T16:01:50Z
+  Updated: 2026-11-15T04:10:01Z
   Vendor: Akro
   Product Type: Akro Dark
   Availability: Available
@@ -3188,35 +3218,35 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $39.00 USD
 - [Vanilla Niche Sample Set 3ML - Gourmand Wars](https://joeasdecants.com/products/vanilla-niche-sample-set-3ml-gourmand-wars): Discover the art of vanilla with this curated Gourmand Wars sample set featuring eight exceptional niche fragrances in convenient 3ml bottles. Explore creamy, sophisticated scents from prestigious houses including Parfums de Marly, Initio Parfums Privés, BDK Parfums, and more. Each sample showcases vanilla's versatility—from gourmand sweetness to leather-infused elegance and woody depth. Perfect for fragrance enthusiasts seeking to compare premium vanilla interpretations without committing to full bottles. Experience the complexity and refinement that defines niche perfumery's most coveted vanilla creations.This set has 8 3ML fragrances including:1. Parfums de Marly Althair - 3ML2. Giardini di Toscana Bianco Latte - 3ML3. Initio Parfums Privés Absolute Aphrodisiac - 3ML4. BDK Parfums Vanille Leather - 3ML5. Goldfield & Banks Silky Woods - 3ML6. Scents of Wood Vanilla in Bourbon - 3ML7. Vertus Vanilla Oud -3ML8. Aromas de Salazar Vanilla Is My Love Language - 3ML
-  Updated: 2026-09-13T16:01:50Z
+  Updated: 2026-11-15T04:10:03Z
   Vendor: Joe A.'s Decants
   Product Type: Vanilla Niche Sample Set 3ML - Gourmand Wars
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/pomelli-image_3.png?v=1771899456
   Price: $120.00 USD
 - [Vanilla Designer Sample Set 3ML - Gourmand Wars](https://joeasdecants.com/products/vanilla-designer-sample-set-3ml-gourmand-wars): Discover the ultimate vanilla and gourmand experience with this curated 3ML sample collection featuring eight prestigious designer fragrances. Explore Tom Ford's iconic Tobacco Vanille, the sophisticated warmth of Mercedes-Benz Club Black, and Giorgio Armani's sensual Stronger with You Intensely. This set showcases the best in gourmand luxury, including YSL Babycat, Viktor & Rolf Spicebomb Extreme, Jean Paul Gaultier Le Male Elixir, Paco Rabanne Invictus Victory Elixir, and Azzaro The Most Wanted Parfum. Perfect for fragrance enthusiasts seeking to sample premium scents before committing to full bottles. Each 3ML decant offers exceptional value and the opportunity to find your signature scent among world-renowned designer houses.For clarification, this set includes: 1. Tom Ford Tobacco Vanille - 3ML2. Mercedes-Benz Club Black - 3ML3. Giorgio Armani Stronger with You Intensely - 3ML4. Yves Saint Laurent Babycat - 3ML5. Viktor & Rolf Spicebomb Extreme - 3ML6. Jean Paul Gaultier Le Male Elixir - 3ML7. Paco Rabanne Invictus Victory Elixir - 3ML8. Azzaro The Most Wanted Parfum - 3ML
-  Updated: 2026-09-13T16:01:50Z
+  Updated: 2026-11-15T04:10:02Z
   Vendor: Joe A.'s Decants
   Product Type: Vanilla Designer Sample Set 3ML - Gourmand Wars
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/pomelli-image_3_e188c9b4-b282-478d-ab53-c0797e019577.png?v=1771899511
   Price: $60.00 USD
 - [Chocolate Designer Sample Set 3ML - Gourmand Wars](https://joeasdecants.com/products/chocolate-designer-sample-set-3ml-gourmand-wars): Discover the art of chocolate through fragrance with our Gourmand Wars collection. This curated sample set features eight designer interpretations of cacao, each capturing a unique facet of chocolate's complexity. From Valentino Uomo's warm spice to Kayali's luxurious Chocolate Oud, Jo Malone's fresh Blue Agava & Cacao, and Carolina Herrera's bold Bad Boy Extreme—explore nutty, ambered, airy, and sweet expressions of this beloved note. Perfect for fragrance enthusiasts seeking to experience premium designer scents without commitment. All eight fragrances arrive in convenient 3ML bottles, ideal for travel or sampling before investing in full sizes.For clarification, this sample set comes with: 1. Valentino Uomo - 3ML2. Guerlain L'Instant EDP - 3ML3. Kayali Chocolate Oud - 3ML4. Jo Malone London Blue Agava & Cacao - 3ML5. Carolina Herrera Bad Boy Extreme - 3ML6. Zara Cocoa Bliss - 3ML7. Armaf Odyssey Dubai Chocolat - 3ML8. Al-Rehab Choco Musk EDP - 3ML
-  Updated: 2026-09-13T16:01:51Z
+  Updated: 2026-11-15T04:10:02Z
   Vendor: Joe A.'s Decants
   Product Type: Chocolate Designer Sample Set 3ML - Gourmand Wars
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/pomelli-image_3_e188c9b4-b282-478d-ab53-c0797e019577.png?v=1771899511
   Price: $60.00 USD
 - [Chocolate Niche Sample Set 3ML - Gourmand Wars](https://joeasdecants.com/products/chocolate-niche-sample-set-3ml-gourmand-wars): Discover eight decadent chocolate fragrances in one curated collection. This Gourmand Wars sample set features premium niche brands including Montale Chocolate Greedy, By Kilian Black Phantom, Mancera Choco Violette, Theodoros Kalotinis Velvet Chocolate, Imaginary Authors Dipped in Chocolate, Mind Games Double Attack, Comptoir Sud Pacifique Amour de Cacao, and Akro Dark. Each 3ML bottle lets you explore rich, indulgent scents without committing to full sizes. Perfect for chocolate fragrance enthusiasts seeking variety and luxury in one expertly assembled set.For clarification, this sample set includes:1. Montale Chocolate Greedy - 3ML2. By Kilian Black Phantom - 3ML3. Mancera Choco Violette - 3ML4. Theodoros Kalotinis Velvet Chocolate - 3ML5. Imaginary Authors Dipped in Chocolate - 3ML6. Mind Games Double Attack - 3ML7. Comptoir Sud Pacifique Amour de Cacao - 3ML8. Akro Dark - 3ML
-  Updated: 2026-09-13T16:01:51Z
+  Updated: 2026-11-15T04:10:06Z
   Vendor: Joe A.'s Decants
   Product Type: Chocolate Niche Sample Set 3ML - Gourmand Wars
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/pomelli-image_3_e188c9b4-b282-478d-ab53-c0797e019577.png?v=1771899511
   Price: $120.00 USD
 - [Aromafo - Ambre Crystal](https://joeasdecants.com/products/aromafo-ambre-crystal): Inspired by Baccarat, Aromafo's Ambre Crystal is bold, unflinching and designed to grab attention without compromise. This extrait features exotic notes of rich jasmine and saffron, combined with the warm tone of cedarwood and subtle ambergris. The result? A fragrance that's ideal for wearing for both work and play, with complex, multi-layered scents that adapt to your skin as day turns to night. Available in 10ML and 30ML sizes, Ambre Crystal is a strong, intoxicating fragrance that creates instant impact when you walk into a room. If you're looking for an extrait that delivers without compromise, this is the natural choice for you.
-  Updated: 2026-10-30T16:57:41Z
+  Updated: 2026-11-15T04:10:06Z
   Vendor: Aromafo
   Product Type: Aromafo - Ambre Crystal
   Availability: Available
@@ -3227,14 +3257,7 @@ This document provides a structured overview of our offerings, brand standards, 
   - [30ML](https://joeasdecants.com/products/aromafo-ambre-crystal?variant=62680816648563)
     Availability: Available
     Price: $70.00 USD
-- [Winter 2026 Starter Collection](https://joeasdecants.com/products/winter-2026-starter-collection-kit): Hey guys, Joe A. here with another one for ya’! Every winter the same question pops up: “What fragrances should a beginner start with without spending a fortune?” You don’t need niche bottles, luxury boutiques or a shelf that looks like a department store counter (guilty!). What you need is a small, smart rotation that covers the real situations in life. This $100 Winter Starter Collection for 2026 is built around four roles every guy runs into during the colder months: a versatile everyday scent, a relaxed casual fragrance, something safe for the office and one that steps it up a notch for date nights or formal occasions. There are four scents in this kit. Each comes in an individual 5ml bottle. The authentic bottles and the 5ml decant bottles are shown in the photo.
-  Updated: 2026-09-13T16:01:56Z
-  Vendor: Joe A.'s Decants
-  Product Type: Winter 2026 Starter Collection Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/IMG_8538.heic?v=1772919706
-  Price: $25.00 USD
-[List Continued](https://joeasdecants.com/a/llms-agent/llms.txt?shop=y1hk1w-y1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTMwODI5ODQyMDU5NSwibGFzdF92YWx1ZSI6IjE1MzA4Mjk4NDIwNTk1In0%3D)
+[List Continued](https://joeasdecants.com/a/llms-agent/llms.txt?shop=y1hk1w-y1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTMwMzQ0MDU5NzM2MywibGFzdF92YWx1ZSI6IjE1MzAzNDQwNTk3MzYzIn0%3D)
 
 ## Collections
 
@@ -3242,37 +3265,37 @@ This document provides a structured overview of our offerings, brand standards, 
   Updated: 2026-10-29T10:45:35Z
   Total Products: 4
 - [Summer](https://joeasdecants.com/collections/1)
-  Updated: 2026-10-29T10:45:35Z
+  Updated: 2026-11-18T18:23:44Z
   Total Products: 62
 - [Winter](https://joeasdecants.com/collections/winter)
-  Updated: 2026-10-29T11:14:13Z
+  Updated: 2026-11-18T18:23:44Z
   Total Products: 44
 - [Spring](https://joeasdecants.com/collections/spring)
-  Updated: 2026-10-29T10:45:35Z
+  Updated: 2026-11-18T18:23:44Z
   Total Products: 74
 - [Fall](https://joeasdecants.com/collections/fall)
-  Updated: 2026-10-29T11:14:13Z
+  Updated: 2026-11-18T18:23:44Z
   Total Products: 59
 - [All Products](https://joeasdecants.com/collections/catalog): All of Joe A.'s Products.
-  Updated: 2026-11-13T12:16:26Z
-  Total Products: 2266
+  Updated: 2026-11-18T18:23:44Z
+  Total Products: 2212
 - [The Adventurer](https://joeasdecants.com/collections/the-adventurer)
-  Updated: 2026-10-31T11:12:37Z
+  Updated: 2026-11-18T18:23:44Z
   Total Products: 94
 - [The Gentleman](https://joeasdecants.com/collections/the-gentleman)
   Updated: 2026-08-21T11:18:00Z
   Total Products: 10
 - [The Maverick](https://joeasdecants.com/collections/the-maverick)
-  Updated: 2026-11-10T16:16:37Z
+  Updated: 2026-11-18T18:23:43Z
   Total Products: 108
 - [The Minimalist](https://joeasdecants.com/collections/the-minimalist)
-  Updated: 2026-10-29T10:45:35Z
+  Updated: 2026-11-18T16:50:35Z
   Total Products: 34
 - [The Supportive](https://joeasdecants.com/collections/the-supportive)
-  Updated: 2026-10-29T10:45:34Z
+  Updated: 2026-11-18T15:37:17Z
   Total Products: 21
 - [Aromafo Full Collection](https://joeasdecants.com/collections/aromafo-full-collection)
-  Updated: 2026-10-30T16:57:31Z
+  Updated: 2026-11-15T12:17:22Z
   Total Products: 11
 - [Featured Members Only](https://joeasdecants.com/collections/featured-members-only)
   Updated: 2026-10-27T22:17:22Z
@@ -3290,7 +3313,7 @@ This document provides a structured overview of our offerings, brand standards, 
   Updated: 2026-08-13T19:35:00Z
   Total Products: 4
 - [Aromafo Heritage Collection](https://joeasdecants.com/collections/aromafo-heritage-collection)
-  Updated: 2026-10-30T16:57:31Z
+  Updated: 2026-11-15T12:17:22Z
   Total Products: 1
 
 ## Blogs
