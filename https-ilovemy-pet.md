@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2019-05-19T11:52:45Z
 - Contact Email: hello@ilovemy.pet
-- Updated At: 2026-11-14T00:43:44.747Z
+- Updated At: 2026-11-21T00:56:26.134Z
 
 ## Products
 
@@ -332,14 +332,14 @@ Hand embroidered design on a canvas upper, rubber sole and fabric inner. Availab
     Image: https://cdn.shopify.com/s/files/1/0033/4754/6157/products/butt-corgi-bag.jpg?v=1675931895
     Price: $34.00 USD
 - [Abstract Boston Terrier Mug](https://ilovemy.pet/products/abstract-boston-terrier-mug): You can finally take your pet to work everyday with this Boston Terrier Mug. Made of the best ceramic and sublimation inks available, the artwork on this mug will never peel off. With an easy-grip handle, standard 11 oz capacity, this mug is suitable for both hot and cold drinks, and can be used for home or office. Add another small joy to your life with the Abstract Boston Terrier Mug.
-  Updated: 2026-10-10T16:04:19Z
+  Updated: 2026-11-14T22:27:03Z
   Vendor: Generic
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0033/4754/6157/products/abstract-boston-terrier-mug.jpg?v=1679392290
   Price: $44.00 USD
 - [Color Changing Bull Terrier Mug](https://ilovemy.pet/products/color-changing-bull-terrier-mug): Make every morning a Bull Terrier morning. Made of ceramic porcelain with a cool color changing Bull Terrier design.
-  Updated: 2026-10-10T16:04:19Z
+  Updated: 2026-11-14T22:27:04Z
   Vendor: Generic
   Product Type: Mug
   Availability: Available
@@ -448,7 +448,7 @@ Measuring 10" in height and 8.5" in width.
     Image: https://cdn.shopify.com/s/files/1/0033/4754/6157/products/baby-boston-terrier-summer-sleeping-set.jpg?v=1679392385
     Price: $34.00 USD
 - [French Bulldog Piggy Bank - Abstract French Bulldog Resin Piggy Bank](https://ilovemy.pet/products/french-bulldog-resin-piggy-bank): An Abstract Frenchie Piggy Bank to Encourage Young Savings. Made of high quality resin and available in Texture Blue, White, Sky Blue, Black, Pink and Gold.
-  Updated: 2026-10-10T16:04:23Z
+  Updated: 2026-11-20T04:23:06Z
   Vendor: Homexw
   Product Type: Home Decor
   Availability: Available
@@ -1218,127 +1218,105 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0033/4754/6157/products/cute-dachshund-pattern-socks-2-pairs-4.jpg?v=1679147790
     Price: $14.00 USD
-- [Beagle Socks - Cute Beagle Pattern Socks](https://ilovemy.pet/products/cute-beagle-pattern-socks-2-pairs): Infinite Beagle socks for your infinite Beagle love! Made of cotton, featuring the cutest Beagle design, and available in three colors. Get these cutest Beagle socks for yourself, or gift them to your Beagle-loving family and friends! Beagle merchandise doesn't get cuter than this! View more Beagle Accessories. Material: Cotton
-  Updated: 2026-10-10T16:04:43Z
-  Vendor: I LOVE DAD
-  Product Type: Apparel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0033/4754/6157/products/beagle-socks.jpg?v=1660315618
-  - [Yellow](https://ilovemy.pet/products/cute-beagle-pattern-socks-2-pairs?variant=40461501595709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0033/4754/6157/products/beagle-socks.jpg?v=1660315618
-    Price: $12.00 USD
-  - [White](https://ilovemy.pet/products/cute-beagle-pattern-socks-2-pairs?variant=40461501628477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0033/4754/6157/products/cute-beagle-pattern-socks-5.webp?v=1679378369
-    Price: $12.00 USD
-  - [Mustard](https://ilovemy.pet/products/cute-beagle-pattern-socks-2-pairs?variant=40461501661245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0033/4754/6157/products/cute-beagle-pattern-socks-6.webp?v=1679378373
-    Price: $12.00 USD
-  - [Yellow + White](https://ilovemy.pet/products/cute-beagle-pattern-socks-2-pairs?variant=39413663760445)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0033/4754/6157/products/beagle-socks-womens.jpg?v=1660315618
-    Price: $16.00 USD
-[List Continued](https://ilovemy.pet/a/llms-agent/llms.txt?shop=ilovemy-pet.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo0MDQyNjg3MzE2MDEzLCJsYXN0X3ZhbHVlIjoiNDA0MjY4NzMxNjAxMyJ9)
+[List Continued](https://ilovemy.pet/a/llms-agent/llms.txt?shop=ilovemy-pet.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo0MDQyNjg2ODU3MjYxLCJsYXN0X3ZhbHVlIjoiNDA0MjY4Njg1NzI2MSJ9)
 
 ## Collections
 
 - [Gifts for Dog Lovers](https://ilovemy.pet/collections/dog-lover-gifts): Shop 15,000+ gifts for dog lovers including car bobbleheads, lifelike stuffed animals, dog themed jewellery, and lots more. Perfect presents for dog owners.
-  Updated: 2026-11-13T20:02:33Z
-  Total Products: 15390
+  Updated: 2026-11-20T23:24:52Z
+  Total Products: 15468
 - [Dog Decor for Dog Lovers](https://ilovemy.pet/collections/dog-decor): Shop 5000+ dog decor pieces: wall art, statues, planters, doormats, pillows, signboards and more in 50+ dog breeds. Find your perfect dog home decor today.
-  Updated: 2026-11-13T12:08:01Z
-  Total Products: 4604
+  Updated: 2026-11-20T12:08:24Z
+  Total Products: 4248
 - [Boston Terrier Gifts](https://ilovemy.pet/collections/boston-terrier-gifts): Shop 350+ Boston Terrier gifts including jewellery, pajamas, and home decor. Perfect presents for every Boston Terrier lover. Find something they'll adore.
-  Updated: 2026-10-26T19:27:31Z
-  Total Products: 413
+  Updated: 2026-11-18T12:44:20Z
+  Total Products: 412
 - [French Bulldog Gifts](https://ilovemy.pet/collections/french-bulldog-gifts): Shop French Bulldog gifts including home decor, apparel, and accessories for every Frenchie lover. Great presents for her, for him, or just because.
-  Updated: 2026-11-03T12:09:10Z
-  Total Products: 738
+  Updated: 2026-11-18T12:07:39Z
+  Total Products: 739
 - [Pug Gifts](https://ilovemy.pet/collections/pug-gifts): Shop 500+ Pug dog gifts including silver charms, bobbleheads, doormats, and tote bags. Great presents for Pug lovers. Find a Pug gift they'll adore.
-  Updated: 2026-11-02T12:07:27Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 596
 - [Corgi Gifts](https://ilovemy.pet/collections/corgi-gifts): Shop Corgi gifts and Corgi presents, including pajamas, plush toys, home decor, jewelry, and fun Corgi merchandise for dog lovers.
-  Updated: 2026-11-07T12:08:55Z
-  Total Products: 585
+  Updated: 2026-11-20T12:08:24Z
+  Total Products: 584
 - [Labrador Gifts](https://ilovemy.pet/collections/labrador-retriever-gifts): Shop 50+ Labrador Retriever gifts including home decor, Christmas ornaments, and silver jewelry. Perfect presents for any Lab lover. Find yours today.
-  Updated: 2026-11-09T18:24:36Z
+  Updated: 2026-11-14T23:12:12Z
   Total Products: 700
 - [Dachshund Gifts](https://ilovemy.pet/collections/dachshund-gifts): Shop Dachshund gifts and presents for her and him, including jewelry, blankets, home decor, apparel, plush toys, and fun sausage dog merchandise.
-  Updated: 2026-11-12T12:07:31Z
-  Total Products: 852
+  Updated: 2026-11-20T19:13:41Z
+  Total Products: 853
 - [Schnauzer Gifts](https://ilovemy.pet/collections/schnauzer-gifts-ornaments): Shop 50+ Schnauzer gifts including apparel, silver jewelry, and home decor for every Mini, Standard, or Giant Schnauzer lover. Find the perfect present today.
-  Updated: 2026-11-10T13:48:08Z
-  Total Products: 349
+  Updated: 2026-11-20T12:08:24Z
+  Total Products: 350
 - [Bull Terrier Gifts](https://ilovemy.pet/collections/bull-terrier-gifts-merchandise): Shop Bull Terrier gifts including jewelry, home decor, and apparel for him and her. Find Bull Terrier presents as bold and lovable as the breed.
-  Updated: 2026-11-08T09:42:50Z
+  Updated: 2026-11-14T23:12:17Z
   Total Products: 281
 - [Husky Gifts](https://ilovemy.pet/collections/husky-malamute-gifts-ornaments): Shop Siberian Husky gifts for owners and lovers, including stuffed animals, home decor, slippers, and more. Perfect for him or her. Find something they'll love.
-  Updated: 2026-11-11T12:09:09Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 464
 - [Chihuahua Gifts](https://ilovemy.pet/collections/chihuahua-accessories-ornaments-gifts): Shop 50+ Chihuahua gifts including jewelry, pajamas, and home decor. Perfect presents for Chihuahua lovers who wear their breed with pride.
-  Updated: 2026-11-11T12:09:09Z
-  Total Products: 500
+  Updated: 2026-11-17T12:18:53Z
+  Total Products: 499
 - [German Shepherd Gifts](https://ilovemy.pet/collections/german-shepherd-gifts-accessories): Shop German Shepherd gifts including apparel, home decor, and plush toys. Perfect presents for GSD lovers, owners, and anyone who adores the Alsatian. Shop now.
-  Updated: 2026-11-10T13:48:08Z
+  Updated: 2026-11-14T23:12:14Z
   Total Products: 360
 - [English Bulldog Gifts](https://ilovemy.pet/collections/english-bulldog-gifts): Shop English Bulldog gifts including home decor, apparel, and bobbleheads. Great presents for English Bulldog owners and lovers. Find something they'll adore.
-  Updated: 2026-11-10T10:43:44Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 320
 - [Bichon Frise Gifts](https://ilovemy.pet/collections/bichon-frise-gifts): Shop Bichon Frise gifts including stuffed animals, pajamas, and home decor. Perfect presents for every Bichon lover on your list.
-  Updated: 2026-11-13T12:08:01Z
+  Updated: 2026-11-14T23:12:18Z
   Total Products: 213
 - [Yorkie Gifts](https://ilovemy.pet/collections/yorshire-terrier-yorkie-gifts): Shop 50+ Yorkshire Terrier gifts including apparel, jewelry, and home decor. Perfect gifts for Yorkie lovers and owners. Find something they'll love today.
-  Updated: 2026-11-13T12:08:01Z
+  Updated: 2026-11-18T16:28:36Z
   Total Products: 175
 - [Border Collie Gifts](https://ilovemy.pet/collections/border-collie-gifts): Shop 175+ Border Collie gifts and presents, including home decor, apparel, accessories, and more for every Border Collie lover.
-  Updated: 2026-11-08T09:42:57Z
+  Updated: 2026-11-15T12:10:14Z
   Total Products: 188
 - [Shiba Inu Gifts](https://ilovemy.pet/collections/shiba-inu-akita-inu-gifts): Shop 50+ Shiba Inu gifts including socks, slippers, home decor, and accessories. Perfect presents for Shiba Inu lovers. Find something they'll adore.
-  Updated: 2026-11-13T12:08:01Z
-  Total Products: 459
+  Updated: 2026-11-18T12:07:39Z
+  Total Products: 460
 - [Dalmatian Gifts](https://ilovemy.pet/collections/dalmatian-gifts): Shop Dalmatian gifts and presents, including stuffed animals, pajamas, home decor, apparel, and gift ideas for Dalmatian lovers.
-  Updated: 2026-11-09T10:20:45Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 201
 - [Samoyed Gifts](https://ilovemy.pet/collections/samoyed-gifts): Shop 50+ Samoyed gifts including stuffed animals, cozy blankets, coffee mugs, home decor, apparel, and ornaments. Perfect for every Samoyed lover.
-  Updated: 2026-10-30T11:07:51Z
-  Total Products: 165
+  Updated: 2026-11-20T16:14:30Z
+  Total Products: 166
 - [Poodle Gifts](https://ilovemy.pet/collections/poodle-gifts): Shop 50+ Poodle gifts including jewelry, stuffed animals, home decor, and apparel. Perfect presents for any Poodle lover. Find something they'll adore.
-  Updated: 2026-10-26T19:27:13Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 244
 - [Shih Tzu Gifts](https://ilovemy.pet/collections/shih-tzu-gifts-ornaments): Shop 50+ Shih Tzu gifts including jewelry, Christmas ornaments, plush toys, apparel, and home decor. Perfect presents for Shih Tzu lovers. Find yours today.
-  Updated: 2026-11-08T12:09:11Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 260
 - [Dog Bobbleheads for Cars - 50+ Breeds](https://ilovemy.pet/collections/dog-bobblehead-car): Shop 50+ dog bobbleheads for your car dashboard. Realistic, breed-specific bobble head dogs for cars - from Pugs to Corgis to Dachshunds. Find your breed today.
-  Updated: 2026-11-05T12:07:08Z
-  Total Products: 74
+  Updated: 2026-11-18T12:44:21Z
+  Total Products: 73
 - [Beagle Gifts](https://ilovemy.pet/collections/beagle-gifts): Shop Beagle gifts for Beagle lovers - from cozy blankets and stuffed animals to jewelry and apparel. Find the perfect gift today.
-  Updated: 2026-11-13T12:08:01Z
-  Total Products: 320
+  Updated: 2026-11-14T23:12:19Z
+  Total Products: 321
 - [Scottie Dog Gifts](https://ilovemy.pet/collections/scottish-terrier-gifts): Shop 50+ Scottish Terrier gifts including pajamas, home decor, and accessories for every Scottie Dog lover. Find something special for her, him, or yourself.
-  Updated: 2026-11-09T18:24:36Z
+  Updated: 2026-11-14T23:12:09Z
   Total Products: 185
 - [Golden Retriever Gifts](https://ilovemy.pet/collections/golden-retriever-gifts): Shop Golden Retriever gifts including mugs, wrapping paper, keyrings, figurines, socks, and more. Perfect presents for every Golden lover. Find yours today.
-  Updated: 2026-11-10T13:48:08Z
+  Updated: 2026-11-17T12:18:53Z
   Total Products: 364
 - [Pomeranian Gifts](https://ilovemy.pet/collections/pomeranian-gifts): Shop 50+ Pomeranian gifts including stuffed animals, 925 silver charms, and apparel. Perfect presents for every Pom lover. Find something they'll adore today.
-  Updated: 2026-11-08T09:42:47Z
-  Total Products: 139
+  Updated: 2026-11-18T20:35:03Z
+  Total Products: 141
 - [Weimaraner Gifts](https://ilovemy.pet/collections/weimaraner-gifts): Shop Weimaraner gifts for owners and lovers, including personalized home decor, 925 silver charms, cozy blankets, and more. Find the perfect present today.
   Updated: 2026-11-06T12:45:38Z
   Total Products: 43
 - [Basset Hound Gifts](https://ilovemy.pet/collections/basset-hound-gifts): Shop Basset Hound gifts including women's pajamas, apparel, and stuffed animals. Perfect Basset Hound presents for every lover of this droopy-eared breed.
-  Updated: 2026-11-12T12:07:31Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 251
 - [Jack Russell Terrier Gifts](https://ilovemy.pet/collections/jack-russell-terrier-gifts): Shop Jack Russell Terrier gifts including pajamas, blankets, stuffed animals, and apparel. Perfect presents for Jack Russell owners. Find yours today.
-  Updated: 2026-11-11T12:09:09Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 229
 - [Cocker Spaniel Gifts](https://ilovemy.pet/collections/cocker-spaniel-gifts): Shop Cocker Spaniel gifts for her and him, from ornaments and Christmas decorations to women’s pajamas and personalized Cocker Spaniel gifts.
-  Updated: 2026-11-09T18:24:41Z
-  Total Products: 296
+  Updated: 2026-11-20T12:08:24Z
+  Total Products: 297
 - [Dog Statues for Dog Lovers](https://ilovemy.pet/collections/dog-statues): Shop 200+ dog statues and sculptures in breed-specific designs. Resin, metal, and graffiti-style pieces for your home, desk, or yard. Find your breed.
-  Updated: 2026-10-27T11:09:53Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 244
 - [Dog Figurines for Dog Lovers](https://ilovemy.pet/collections/dog-figurines): Shop 75+ dog figurines in resin, brass, and crystal. Lifelike breed miniatures, teacup desktop ornaments, and home decor pieces. Find your breed today.
   Updated: 2026-11-09T12:12:41Z
@@ -1347,167 +1325,167 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:14Z
   Total Products: 11
 - [Dog Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/stuffed-dog-animal-plush-toys): Shop 1250+ dog stuffed animals, plush toys, and dog teddy bears, with 90+ breeds available. Soft, huggable, and breed-accurate. Find your dog's mini-me.
-  Updated: 2026-11-13T19:35:52Z
-  Total Products: 1385
+  Updated: 2026-11-20T16:14:30Z
+  Total Products: 1393
 - [Pit Bull Gifts](https://ilovemy.pet/collections/staffordshire-terrier-american-pit-bull-gifts): Shop 50+ Pit Bull gifts including stuffed animals, personalized pillows, and apparel. Great presents for Pit Bull lovers, owners, and moms. Find yours today.
-  Updated: 2026-11-13T12:08:01Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 285
 - [Australian Shepherd Gifts](https://ilovemy.pet/collections/australian-shepherd-gifts): Shop Australian Shepherd gifts including pajamas, stuffed animals, and Christmas ornaments. Perfect for any Aussie owner. Find something they'll love.
-  Updated: 2026-11-08T12:09:11Z
+  Updated: 2026-11-14T23:12:20Z
   Total Products: 223
 - [Bernese Mountain Dog Gifts](https://ilovemy.pet/collections/bernese-mountain-dog-gifts): Shop Bernese Mountain Dog gifts including cozy blankets, home decor, and personalized ornaments. Perfect presents for every Berner lover.
-  Updated: 2026-11-08T09:42:45Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 137
 - [Boxer Dog Gifts](https://ilovemy.pet/collections/boxer-gifts): Shop Boxer dog gifts and presents, including home decor, pajamas, and apparel for true Boxer lovers. Find thoughtful Boxer gifts for him and her.
-  Updated: 2026-11-08T09:42:41Z
+  Updated: 2026-11-14T23:12:17Z
   Total Products: 236
 - [Great Pyrenees Gifts](https://ilovemy.pet/collections/great-pyrenees-gifts): Shop Great Pyrenees gifts including stuffed animals, cozy blankets, and personalized apparel. Perfect gift ideas for Great Pyrenees lovers. Find yours today.
-  Updated: 2026-10-28T11:07:54Z
+  Updated: 2026-11-14T23:12:14Z
   Total Products: 60
 - [Whippet Gifts](https://ilovemy.pet/collections/whippet-gifts): Shop 50+ Whippet gifts including blankets, figurines, and apparel for every Whippet lover. Great presents for her, for him, or just because. Browse now.
-  Updated: 2026-11-08T09:42:57Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 187
 - [Cavalier King Charles Spaniel Gifts](https://ilovemy.pet/collections/cavalier-king-charles-spaniel-gifts): Shop Cavalier King Charles Spaniel gifts including apparel, pajamas, stuffed animals, and home decor. Perfect presents for every Cavalier lover.
-  Updated: 2026-11-09T18:24:42Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 208
 - [Doberman Gifts](https://ilovemy.pet/collections/doberman-gifts): Shop Doberman Pinscher gifts including apparel, home decor, and stuffed animals. Great presents for her, for him, or any Doberman lover. Find yours today.
-  Updated: 2026-11-11T12:49:56Z
+  Updated: 2026-11-14T23:12:16Z
   Total Products: 195
 - [Great Dane Gifts](https://ilovemy.pet/collections/great-dane-gifts): Shop Great Dane gifts including bedding sets, stuffed animals, keychains, and mugs. Perfect for every Great Dane owner. Find something they'll love today.
-  Updated: 2026-10-30T11:42:39Z
+  Updated: 2026-11-14T23:12:14Z
   Total Products: 148
 - [Rottweiler Gifts](https://ilovemy.pet/collections/rottweiler-gifts): Shop 50+ Rottweiler gifts including stuffed animals, Christmas ornaments, blankets, and home decor. Perfect for Rottweiler owners and lovers. Find yours today.
-  Updated: 2026-11-09T10:20:45Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 166
 - [Sheltie Gifts](https://ilovemy.pet/collections/sheltie-gifts): Shop 150+ Sheltie gifts including pajamas, mugs, blankets, and home decor. Perfect for Sheltie owners and lovers. Find something they'll truly use and adore.
-  Updated: 2026-11-10T13:56:16Z
-  Total Products: 182
+  Updated: 2026-11-18T20:54:16Z
+  Total Products: 184
 - [Westie Gifts](https://ilovemy.pet/collections/west-highland-terrier-gifts-for-westie-lovers): Shop West Highland Terrier gifts including silver jewelry, cozy pajamas, stuffed animals, home decor, and more. Perfect Westie gifts for her and him.
-  Updated: 2026-11-13T12:08:01Z
-  Total Products: 281
+  Updated: 2026-11-16T11:56:06Z
+  Total Products: 282
 - [Dog Mom Shirts: Tees & Tops for Her](https://ilovemy.pet/collections/dog-mom-shirts): Shop 1000+ dog mom shirts, cotton tees, and all-over print tops made for proud dog mamas. Fun designs for popular dog breeds. Find your favorite today.
-  Updated: 2026-11-13T12:08:01Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 1338
 - [Vizsla Gifts](https://ilovemy.pet/collections/vizsla-gifts): Shop 50+ Vizsla gifts including plush toys, home decor, and apparel. Perfect presents for Vizsla owners and lovers. Find something they'll adore today.
   Updated: 2026-11-13T12:08:01Z
   Total Products: 76
 - [Maltese Gifts](https://ilovemy.pet/collections/maltese-gifts): Shop 50+ Maltese dog gifts including stuffed animals, home decor, and apparel. Perfect for any Maltese lover on your list. Find something they'll adore.
-  Updated: 2026-10-29T11:10:07Z
+  Updated: 2026-11-16T12:08:36Z
   Total Products: 144
 - [Dog Jewelry for Humans: Rings, Necklaces & Charms](https://ilovemy.pet/collections/dog-themed-jewellery): Shop 500+ dog mom jewelry pieces, including rings, necklaces, earrings, and charms in 925 silver and gold. Jewelry for women who wear their love daily.
-  Updated: 2026-11-13T12:08:01Z
-  Total Products: 574
+  Updated: 2026-11-18T12:07:39Z
+  Total Products: 573
 - [Black Lab Gifts](https://ilovemy.pet/collections/black-labrador-gifts): Shop Black Lab gifts that celebrate the loyalty, playful spirit, and lovable charm of the Black Labrador Retriever, perfect for devoted Black Lab lovers.
-  Updated: 2026-11-09T18:25:08Z
+  Updated: 2026-11-14T23:12:13Z
   Total Products: 242
 - [Chocolate Lab Gifts](https://ilovemy.pet/collections/chocolate-labrador-gifts): Shop Chocolate Lab gifts for the Chocolate Lab lover in your life. Find apparel, mugs, and home decor that celebrate that loyal, goofy brown dog they adore.
-  Updated: 2026-11-13T12:08:01Z
+  Updated: 2026-11-14T23:12:12Z
   Total Products: 205
 - [Chow Chow Gifts](https://ilovemy.pet/collections/chow-chow-gifts): Shop Chow Chow gifts including stuffed animals, home decor, mugs, apparel, and Christmas ornaments. Perfect presents for every Chow Chow lover.
-  Updated: 2026-10-26T19:27:27Z
+  Updated: 2026-11-14T23:12:16Z
   Total Products: 89
 - [Shar Pei Gifts](https://ilovemy.pet/collections/shar-pei-gifts): Shop Shar Pei gifts including personalized apparel, throw pillows, and Christmas ornaments. Perfect for her, for him, or any Shar Pei lover. Find yours today.
-  Updated: 2026-11-09T18:24:43Z
+  Updated: 2026-11-14T23:12:09Z
   Total Products: 52
 - [Papillon Gifts](https://ilovemy.pet/collections/papillon-gifts): Shop Papillon gifts including apparel, home decor, and personalized keychains. Perfect for any Papillon lover. Find something they'll truly adore.
-  Updated: 2026-11-11T12:09:09Z
+  Updated: 2026-11-14T23:12:11Z
   Total Products: 47
 - [Newfoundland Dog Gifts](https://ilovemy.pet/collections/newfoundland-gifts): Shop Newfoundland gifts including personalized signs, cozy pillowcases, and home decor made for Newfie lovers. Find the perfect keepsake today.
-  Updated: 2026-10-26T19:27:16Z
-  Total Products: 31
+  Updated: 2026-11-18T20:23:40Z
+  Total Products: 32
 - [Afghan Hound Gifts — Apparel, Blankets & Decor](https://ilovemy.pet/collections/afghan-hound-gifts): Shop Afghan Hound gifts including personalized blankets, apparel, and home decor. Unique finds for every Afghan Hound owner. Find your favorite today.
   Updated: 2026-10-10T16:04:15Z
   Total Products: 30
 - [Saint Bernard Gifts](https://ilovemy.pet/collections/saint-bernard-gifts): Shop 50+ Saint Bernard gifts including plush toys, home decor, and apparel for women and men. Perfect presents for every St Bernard lover.
-  Updated: 2026-11-08T09:42:54Z
+  Updated: 2026-11-14T23:12:10Z
   Total Products: 78
 - [Personalized Dog Gifts](https://ilovemy.pet/collections/personalized-dog-gifts): Shop 35+ Personalized Dog Gifts including custom mugs, dog socks, and photo pillowcases. Unique Custom Dog Presents made for every proud pet parent.
-  Updated: 2026-11-13T12:08:01Z
+  Updated: 2026-11-15T12:10:14Z
   Total Products: 38
 - [American Eskimo Dog Gifts - Plush Toys, Apparel & Decor](https://ilovemy.pet/collections/american-eskimo-dog-gifts): Shop American Eskimo Dog gifts including lifelike stuffed animals, cozy pajamas, and home decor. Perfect for every Eskie lover. Find yours today.
-  Updated: 2026-10-26T19:27:39Z
-  Total Products: 137
+  Updated: 2026-11-16T11:56:06Z
+  Total Products: 138
 - [Alaskan Malamute Gifts - Decor, Plush & More](https://ilovemy.pet/collections/alaskan-malamute-gifts): Shop Alaskan Malamute gifts including Christmas ornaments, home decor, stuffed animals, and personalized blankets. Perfect for every Malamute owner and lover.
-  Updated: 2026-10-26T19:27:41Z
+  Updated: 2026-11-14T23:12:21Z
   Total Products: 39
 - [Blue Heeler Gifts & Australian Cattle Dog Gifts](https://ilovemy.pet/collections/australian-cattle-dog-gifts): Shop Blue Heeler gifts for Australian Cattle Dog lovers - apparel, cozy blankets, personalized pillows, home decor, and more. Find something they'll love.
-  Updated: 2026-11-03T12:09:10Z
+  Updated: 2026-11-14T23:12:18Z
   Total Products: 93
 - [Basenji Gifts](https://ilovemy.pet/collections/basenji-gifts): Shop Basenji gifts including personalized hoodies, sherpa blankets, and Christmas ornaments made for fans of this adorable, catlike breed. Find yours today.
-  Updated: 2026-11-12T12:07:31Z
+  Updated: 2026-11-14T23:12:20Z
   Total Products: 43
 - [Belgian Malinois Gifts](https://ilovemy.pet/collections/belgian-malinois-gifts): Shop Belgian Malinois gifts including apparel, home decor, and personalized mugs. Perfect for every Malinois lover. Find something they'll adore.
-  Updated: 2026-11-08T09:42:43Z
+  Updated: 2026-11-14T23:12:19Z
   Total Products: 45
 - [Border Terrier Gifts](https://ilovemy.pet/collections/border-terrier-gifts): Shop Border Terrier gifts including cozy blankets, personalized socks, and home decor made for true Border Terrier lovers. Find the perfect present today.
   Updated: 2026-10-10T16:04:16Z
   Total Products: 11
 - [Havanese Gifts](https://ilovemy.pet/collections/havanese-gifts): Shop Havanese gifts including personalized accessories, home decor, and apparel made for Havanese owners and lovers. Find the perfect present today.
-  Updated: 2026-11-08T12:09:11Z
+  Updated: 2026-11-14T23:12:14Z
   Total Products: 29
 - [Irish Red Setter Gifts](https://ilovemy.pet/collections/irish-setter-gifts): Shop Irish Setter gifts including personalized jewelry, cozy blankets, and home decor. Perfect presents for Red Setter lovers. Find something they'll adore.
-  Updated: 2026-11-11T12:09:09Z
+  Updated: 2026-11-14T23:12:14Z
   Total Products: 78
 - [English Springer Spaniel Gifts](https://ilovemy.pet/collections/english-springer-spaniel-gifts): Shop English Springer Spaniel gifts and Springer Spaniel presents, including mugs, stockings, merchandise, gifts for her, and lots more.
-  Updated: 2026-11-03T12:09:10Z
+  Updated: 2026-11-14T23:12:15Z
   Total Products: 102
 - [Goldendoodle Gifts](https://ilovemy.pet/collections/goldendoodle-gifts): Shop Goldendoodle gifts, including mugs, stockings, wrapping paper, apparel, jewelry, and fun merchandise for Doodle lovers.
-  Updated: 2026-11-05T12:07:08Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 105
 - [Dog Christmas Decorations](https://ilovemy.pet/collections/dog-christmas-stockings-ornaments-decoration): Shop 3000+ dog Christmas decorations, from breed-specific ornaments and cozy pajamas to personalized stockings. Festive decor for dog lovers.
-  Updated: 2026-11-13T12:08:01Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 3482
 - [American Bully Gifts - Apparel, Home Decor & More](https://ilovemy.pet/collections/american-bully-gifts): Shop American Bully gifts including home decor, apparel, and accessories built for true Bully fans. Find something worthy of that blocky-headed charmer.
-  Updated: 2026-11-09T18:24:36Z
+  Updated: 2026-11-14T23:12:21Z
   Total Products: 50
 - [Black Pug Gifts](https://ilovemy.pet/collections/black-pug-gifts): Shop Black Pug gifts including apparel, home decor, and blankets. Perfect Black Pug presents for her or anyone who adores this bold little breed.
   Updated: 2026-10-24T11:56:54Z
   Total Products: 73
 - [Brittany Spaniel Gifts](https://ilovemy.pet/collections/brittany-spaniel-gifts): Shop 50+ Brittany Spaniel gifts including stuffed animals, home decor, and personalized apparel. Perfect presents for every Brittany lover.
-  Updated: 2026-11-13T12:08:01Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 53
 - [Dog Mom Gifts](https://ilovemy.pet/collections/dog-mom-gifts): Shop 5000+ dog mom gifts, including breed-specific jewelry, pajamas, apparel, and more. Perfect presents for birthdays, Christmas, and Mother's Day.
-  Updated: 2026-11-13T12:08:01Z
-  Total Products: 6407
+  Updated: 2026-11-20T12:08:24Z
+  Total Products: 6408
 - [Dog Mom Sweatshirts & Hoodies](https://ilovemy.pet/collections/dog-mom-sweatshirts): Shop 500+ dog mom sweatshirts, personalized hoodies, and cozy fleece pullovers made for proud dog mamas. Find your pup's breed and make it yours.
-  Updated: 2026-11-11T12:09:09Z
+  Updated: 2026-11-16T12:08:36Z
   Total Products: 587
 - [Dog Dad Gifts](https://ilovemy.pet/collections/dog-dad-gifts): Shop 500+ dog dad gifts, including breed bobbleheads, coffee mugs, wall decor, T-shirts, and more. Great for Father's Day, birthdays, or any day.
-  Updated: 2026-11-05T12:07:08Z
-  Total Products: 541
+  Updated: 2026-11-18T12:44:21Z
+  Total Products: 540
 - [Dog Mom Caps & Hats](https://ilovemy.pet/collections/dog-mom-hats-caps): Shop 300+ Dog Mom baseball caps and bucket hats made for proud dog mamas. Breed-specific designs you'll actually want to wear. Find yours today.
   Updated: 2026-11-10T13:48:08Z
   Total Products: 313
 - [Dog Themed Shirts for Dog Lovers](https://ilovemy.pet/collections/dog-themed-shirts): Shop 1000+ dog themed shirts, tees, and all-over prints for every breed. Cotton and casual dog lover styles made for women and men. Find your perfect fit today.
-  Updated: 2026-11-13T12:08:01Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 1458
 - [Dog Sweatshirts for Dog Lovers](https://ilovemy.pet/collections/sweatshirts-with-dogs): Shop 500+ dog sweatshirts including personalized dog sweatshirt designs for men and women. Breed-specific styles you'll actually want to wear. Browse now.
-  Updated: 2026-11-11T12:09:09Z
+  Updated: 2026-11-16T12:08:36Z
   Total Products: 757
 - [Giant Stuffed Dogs: Large Life-Size Plush Pals](https://ilovemy.pet/collections/giant-dog-stuffed-animals): Shop 100+ giant stuffed dogs and life-size plush toys in breeds like Huskies, Corgis, Labs, and Pugs. Soft, huggable, and perfect for dog lovers.
-  Updated: 2026-11-13T19:36:00Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 104
 - [Realistic Dog Stuffed Animals: Precious Lifelike Plush Dogs](https://ilovemy.pet/collections/realistic-dog-stuffed-animals): Shop 110+ realistic dog stuffed animals, soft toys, and home decor. Find lifelike plush dogs in breeds from Beagles to Golden Retrievers.
-  Updated: 2026-11-13T19:36:07Z
+  Updated: 2026-11-20T16:14:30Z
   Total Products: 163
 - [Dog Posters & Wall Art - Canvas Prints](https://ilovemy.pet/collections/dog-art): Shop 650+ dog posters, canvas prints, and personalized wall art. Starry Night, Renaissance portraits, and watercolour styles for every breed lover.
-  Updated: 2026-10-10T16:04:17Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 661
 - [Dog Garden Statues for Dog Lovers](https://ilovemy.pet/collections/dog-garden-statues): Shop 30+ dog garden statues, from sleeping pups and yoga poses to swinging and namaste designs. Perfect for any dog lover's yard. Find yours today.
-  Updated: 2026-10-10T16:04:17Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 36
 - [Dog Planters & Flower Pots for Dog Lovers](https://ilovemy.pet/collections/dog-planters): Shop 60+ dog planters and flower pots shaped like your favorite breeds. Succulent planters, small flower pots, and 3D dog plant pots made for dog lovers.
-  Updated: 2026-10-10T16:04:17Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 60
 - [Dog Car Decals & Stickers for Dog Lovers](https://ilovemy.pet/collections/dog-car-decals): Shop 45+ dog car decals and stickers, including peeping pups, breed-specific bumper stickers, and dog window decals. Find your breed and hit the road.
   Updated: 2026-11-03T12:09:10Z
   Total Products: 67
 - [Funny Dog Signs for Home & Gifts](https://ilovemy.pet/collections/funny-dog-signs): Shop 300+ funny beware of dog signs, parking signs, and tin signboards for dozens of breeds. Many let you match your dog's actual coat color.
-  Updated: 2026-11-06T09:19:59Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 348
 - [Dog Blankets & Throws for Dog Lovers](https://ilovemy.pet/collections/blankets-with-dogs): Shop 1500+ dog blankets in sherpa fleece and warm throws. Dachshunds, Corgis, French Bulldogs, and more breeds available. Find your perfect cozy gift today.
-  Updated: 2026-11-12T12:07:31Z
-  Total Products: 1502
+  Updated: 2026-11-20T12:08:24Z
+  Total Products: 1512
 - [Dog Welcome Mats: Breed Doormats](https://ilovemy.pet/collections/dog-welcome-mats): Shop 100+ dog welcome mats in breed-specific designs. Cute doormats, funny dog door mats, and outdoor welcome mats for every dog lover. Find your breed today.
   Updated: 2026-10-20T11:14:52Z
   Total Products: 104
@@ -1515,34 +1493,34 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:18Z
   Total Products: 29
 - [Dog Lunch Bags for Dog Lovers](https://ilovemy.pet/collections/dog-lunch-boxes-bags): Shop 200+ dog lunch bags in insulated, neoprene, and PU leather styles. Breed-specific designs for dog lovers who want to carry their pup pride everywhere.
-  Updated: 2026-11-13T12:08:01Z
-  Total Products: 174
+  Updated: 2026-11-18T16:28:36Z
+  Total Products: 173
 - [Dog Bathroom Decor](https://ilovemy.pet/collections/dog-themed-bathroom-decor): Shop 150+ dog bathroom decor items, including breed-themed bath rugs, embroidered towels, and toilet roll holders. Find your breed today.
-  Updated: 2026-10-28T11:07:54Z
-  Total Products: 153
+  Updated: 2026-11-18T12:07:39Z
+  Total Products: 152
 - [Old English Sheepdog Gifts](https://ilovemy.pet/collections/old-english-sheepdog-gifts): Shop Old English Sheepdog gifts including stuffed animals, home decor, apparel, and personalized keepsakes. Perfect for every OES lover. Find yours today.
-  Updated: 2026-11-06T12:45:36Z
+  Updated: 2026-11-14T23:12:11Z
   Total Products: 46
 - [Anatolian Shepherd Gifts](https://ilovemy.pet/collections/anatolian-shepherd-dog-gifts): Shop Anatolian Shepherd gifts including personalized pillows, Christmas ornaments, and tote bags. Perfect for any proud Anatolian Shepherd owner.
-  Updated: 2026-10-26T19:27:39Z
+  Updated: 2026-11-14T23:12:20Z
   Total Products: 28
 - [German Pointer Gifts](https://ilovemy.pet/collections/german-pointer-gifts): Shop German Pointer gifts including personalized apparel, signs, and keychains for German Shorthaired and Wirehaired Pointer owners. Find the perfect GSP present.
-  Updated: 2026-10-26T19:27:23Z
+  Updated: 2026-11-14T23:12:14Z
   Total Products: 29
 - [Rhodesian Ridgeback Gifts](https://ilovemy.pet/collections/rhodesian-ridgeback-gifts): Shop 50+ Rhodesian Ridgeback gifts including stuffed animals, jewelry, and home decor. Personalized options available for every Ridgeback lover. Find yours now.
-  Updated: 2026-10-30T11:32:58Z
+  Updated: 2026-11-14T23:12:10Z
   Total Products: 56
 - [Bloodhound Gifts](https://ilovemy.pet/collections/bloodhound-gifts): Shop Bloodhound gifts including plush pillows, home decor signs, and personalized accessories. Perfect for every Bloodhound lover.
   Updated: 2026-10-10T16:04:18Z
   Total Products: 21
 - [Bearded Collie Gifts](https://ilovemy.pet/collections/bearded-collie-gifts): Shop Bearded Collie gifts including home decor, personalized keychains, and cozy blankets. Perfect for every Beardie lover. Find something they'll adore.
-  Updated: 2026-11-13T12:08:01Z
+  Updated: 2026-11-14T23:12:19Z
   Total Products: 25
 - [Ibizan Hound Gifts](https://ilovemy.pet/collections/ibizan-hound-gifts): Shop Ibizan Hound gifts including blanket hoodies, sherpa fleece blankets, and signs. Personalized options available. Find the perfect present today.
   Updated: 2026-10-24T11:56:37Z
   Total Products: 19
 - [Briard Gifts](https://ilovemy.pet/collections/briard-gifts): Shop Briard gifts including cozy bedding, pajamas, blankets, and personalized accessories made for fans of this shaggy, loyal breed. Find yours today.
-  Updated: 2026-10-26T19:27:31Z
+  Updated: 2026-11-14T23:12:17Z
   Total Products: 48
 - [French Mastiff Gifts](https://ilovemy.pet/collections/french-mastiff-gifts): Shop French Mastiff gifts including quilted bedding sets, sherpa blankets, and women's apparel. Perfect presents for French Mastiff lovers. Find yours today.
   Updated: 2026-10-24T11:56:23Z
@@ -1554,35 +1532,35 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T12:10:11Z
   Total Products: 35
 - [Dog Blanket Hoodies: Oodie-Style Wearable Blankets](https://ilovemy.pet/collections/dog-blanket-hoodie): Shop 500+ wearable dog blanket hoodies in breed-specific prints. Cozy hooded blankets for dog lovers who want warmth with style. Find your breed today!
-  Updated: 2026-11-13T12:08:01Z
+  Updated: 2026-11-15T12:10:14Z
   Total Products: 575
 - [Dog Christmas Stockings: Festive Designs for 50+ Breeds](https://ilovemy.pet/collections/dog-christmas-stockings): Shop 375+ dog Christmas stockings in 50+ breeds. Breed-specific holiday stockings for your dog's spot by the fireplace. Find your breed today.
-  Updated: 2026-11-08T12:09:11Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 385
 - [Christmas Pajamas with Dogs for Women](https://ilovemy.pet/collections/dog-christmas-pajamas): Shop 250+ Christmas pajamas with dogs in breed-specific designs for women. Cozy holiday PJ sets featuring your favorite dog breeds.
   Updated: 2026-11-09T12:12:41Z
   Total Products: 257
 - [Dog Christmas Blankets & Throws for Dog Lovers](https://ilovemy.pet/collections/dog-christmas-blankets): Shop 150+ dog Christmas blankets and sherpa fleece throws featuring dozens of breeds. Cozy, festive designs made for dog lovers.
-  Updated: 2026-11-11T12:09:09Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 441
 - [Dog Mom Apparel](https://ilovemy.pet/collections/dog-mom-apparel): Shop 1000+ dog mom apparel picks, including pajamas, shirts, and blanket hoodies. Dog-themed clothes designed for proud dog mamas. Find your new favorite.
-  Updated: 2026-11-13T12:08:01Z
-  Total Products: 3501
+  Updated: 2026-11-19T12:07:20Z
+  Total Products: 3502
 - [Personalized Dog Mom Gifts](https://ilovemy.pet/collections/personalized-dog-mom-gifts): Shop personalized dog mom gifts, including cozy sweatshirts, shirts, custom mugs, pillowcases, socks, and more, made with your dog's photo and name.
   Updated: 2026-10-10T16:04:19Z
   Total Products: 24
 - [Personalized Dog Dad Gifts: Mugs, Tees & More](https://ilovemy.pet/collections/personalized-dog-dad-gifts): Shop personalized dog dad gifts, including custom mugs, T-shirts, hoodies, and keychains made just for him. Great for Father's Day or any day.
-  Updated: 2026-10-10T16:04:19Z
+  Updated: 2026-11-15T12:10:14Z
   Total Products: 13
 - [Dog Dad Mugs](https://ilovemy.pet/collections/dog-dad-mugs): Shop 150+ dog dad coffee mugs and cups, including breed-themed designs for Father's Day or any morning. Find his new favorite mug today.
-  Updated: 2026-10-10T16:04:20Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 168
 - [Dog Dad Shirts](https://ilovemy.pet/collections/dog-dad-shirts): Shop 100+ dog dad shirts, including personalized breed tees, custom dog dad t-shirts, and festive holiday designs. Find the perfect dog dad tee today.
   Updated: 2026-10-10T16:04:20Z
   Total Products: 117
 - [American Eskimo Dog Plush Toys & Stuffed Animals](https://ilovemy.pet/collections/american-eskimo-dog-stuffed-animals): Shop American Eskimo Dog plush toys, stuffed animals and soft toys - including lifelike standing poses and custom designs. Find your fav. Eskie plushie today.
-  Updated: 2026-10-26T19:27:39Z
-  Total Products: 20
+  Updated: 2026-11-16T11:56:06Z
+  Total Products: 21
 - [Blue Heeler Christmas Ornaments & Decor](https://ilovemy.pet/collections/blue-heeler-australian-cattle-dog-christmas-ornaments): Shop Blue Heeler Christmas ornaments, stockings, blankets, pajamas, and more. Find decorations every Australian Cattle Dog lover will adore.
   Updated: 2026-11-03T12:09:10Z
   Total Products: 23
@@ -1608,7 +1586,7 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:20Z
   Total Products: 24
 - [Basset Hound Christmas Ornaments & Decorations](https://ilovemy.pet/collections/basset-hound-christmas-ornaments): Shop Basset Hound Christmas ornaments, stockings, decorations, cozy pajamas, sweatshirts, and more - festive finds for every Basset lover. Shop now.
-  Updated: 2026-10-24T12:10:36Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 83
 - [Basset Hound Apparel & Clothes for Humans](https://ilovemy.pet/collections/basset-hound-apparel): Shop Basset Hound clothes and apparel styles including women's shirts, pajamas sets, and blanket hoodies. Perfect for every Basset lover. Find your favorite today.
   Updated: 2026-11-08T09:42:45Z
@@ -1629,7 +1607,7 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-13T11:08:08Z
   Total Products: 32
 - [Basset Hound Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/basset-hound-stuffed-animal-plush-toys): Shop Basset Hound stuffed animals, plush toys, and soft toys - including giant huggable sizes and custom designs. Find the perfect Basset Hound plush.
-  Updated: 2026-11-12T12:07:31Z
+  Updated: 2026-11-15T12:10:14Z
   Total Products: 23
 - [Beagle Christmas Ornaments & Decorations](https://ilovemy.pet/collections/beagle-christmas-ornaments-decorations): Shop Beagle Christmas ornaments, stockings, pajamas, and more. Thoughtful Beagle Christmas decorations and holiday gifts for every Beagle lover on your list.
   Updated: 2026-10-27T11:09:53Z
@@ -1647,8 +1625,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-27T11:09:53Z
   Total Products: 24
 - [Beagle Home Decor](https://ilovemy.pet/collections/beagle-home-decor): Shop Beagle home decor pieces including blankets, mugs, cushion covers, and more. Bring your Beagle love home in style. Find your favorites today.
-  Updated: 2026-10-27T11:09:53Z
-  Total Products: 97
+  Updated: 2026-11-14T22:37:29Z
+  Total Products: 90
 - [Beagle Jewelry - Necklaces, Earrings & Rings](https://ilovemy.pet/collections/beagle-jewelry-necklaces-earrings-charms): Shop Beagle jewelry including 925 silver earrings, charms, and rings made for Beagle lovers. Perfect gifts for any occasion. Find yours today.
   Updated: 2026-10-10T16:04:22Z
   Total Products: 18
@@ -1662,10 +1640,10 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:22Z
   Total Products: 30
 - [Beagle Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/beagle-stuffed-animal-plush-toys): Shop Beagle stuffed animals and soft plush toys, including lifelike, sleepy, and roly-poly designs. Find the perfect Beagle stuffed toy for Beagle lovers.
-  Updated: 2026-11-13T12:08:01Z
-  Total Products: 50
+  Updated: 2026-11-14T21:11:56Z
+  Total Products: 51
 - [Bernese Mountain Dog Christmas Ornaments & Decorations](https://ilovemy.pet/collections/bernese-mountain-dog-christmas-ornaments-decorations): Shop Bernese Mountain Dog Christmas decorations - ornaments, stockings, mugs, blankets, sweatshirts & more. Perfect gifts for Berner lovers. Find yours today!
-  Updated: 2026-11-02T12:07:27Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 43
 - [Bernese Mountain Dog Apparel & Clothes for Humans](https://ilovemy.pet/collections/bernese-mountain-dog-apparel): Shop Bernese Mountain Dog apparel styles including t-shirts, hoodies, and sweatshirts, many personalized just for you. Find your perfect Berner look today.
   Updated: 2026-11-08T09:42:45Z
@@ -1677,8 +1655,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:22Z
   Total Products: 16
 - [Bernese Mountain Dog Decor](https://ilovemy.pet/collections/bernese-mountain-dog-home-decor): Shop Bernese Mountain Dog home decor pieces, from cozy sherpa blankets and mugs to pillows, ornaments, and planters. Find your perfect Berner piece today.
-  Updated: 2026-10-10T16:04:22Z
-  Total Products: 37
+  Updated: 2026-11-14T22:36:31Z
+  Total Products: 32
 - [Bernese Mountain Dog Pillows & Cushion Covers](https://ilovemy.pet/collections/bernese-mountain-dog-pillows): Shop Bernese Mountain Dog pillows, including personalized pillowcases, floral throw covers, and plush stuffed animal cushions. Find your perfect pick today.
   Updated: 2026-10-26T19:27:33Z
   Total Products: 14
@@ -1710,8 +1688,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T12:10:42Z
   Total Products: 27
 - [Black Lab Decor](https://ilovemy.pet/collections/black-labrador-home-decor): Shop Black Labrador home decor pieces, from cozy blankets and bedding to mugs, statues, and personalized cushions. Find the perfect decor for any Black Lab lover.
-  Updated: 2026-10-24T12:10:42Z
-  Total Products: 99
+  Updated: 2026-11-14T22:37:34Z
+  Total Products: 88
 - [Black Labrador Pillows & Cushion Covers](https://ilovemy.pet/collections/black-labrador-pillows): Shop Black Labrador pillows, cushion covers, and plush pillows, including personalized designs. Perfect pillows for Black Lab lovers.
   Updated: 2026-10-10T16:04:23Z
   Total Products: 28
@@ -1737,8 +1715,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T12:10:14Z
   Total Products: 20
 - [Border Collie Decor](https://ilovemy.pet/collections/border-collie-home-decor): Shop Border Collie home decor pieces including blankets, Christmas ornaments, and signs made for devoted Border Collie lovers.
-  Updated: 2026-10-24T12:10:14Z
-  Total Products: 57
+  Updated: 2026-11-15T12:10:14Z
+  Total Products: 54
 - [Border Collie Pajamas for Women](https://ilovemy.pet/collections/border-collie-pajamas): Shop Border Collie pajama sets for women, including Christmas styles and watercolor designs. Perfect for BC lovers who sleep in style. Find yours today!
   Updated: 2026-11-08T09:42:57Z
   Total Products: 18
@@ -1752,7 +1730,7 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T11:54:40Z
   Total Products: 40
 - [Boston Terrier Clothes and Apparel for Humans](https://ilovemy.pet/collections/boston-terrier-apparel-for-humans): Shop 120+ Boston Terrier clothes and apparel for humans - cotton tees, soft pajama sets, and cozy blanket hoodies. Find your perfect breed-proud look today.
-  Updated: 2026-10-22T19:24:02Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 132
 - [Boston Terrier Art - Posters & Wall Art](https://ilovemy.pet/collections/boston-terrier-art): Shop 30+ Boston Terrier art prints, canvas posters, and wall art in styles from Pop Art to Cherry Blossom. Plus personalized portraits. Find your favorite today.
   Updated: 2026-10-10T16:04:24Z
@@ -1764,8 +1742,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:24Z
   Total Products: 34
 - [Boston Terrier Home Decor](https://ilovemy.pet/collections/boston-terrier-home-decor): Shop Boston Terrier home decor pieces including cushion covers, desk lamps, and planters. Perfect decor for every Boston Terrier lover.
-  Updated: 2026-10-24T12:36:10Z
-  Total Products: 126
+  Updated: 2026-11-14T22:37:28Z
+  Total Products: 113
 - [Boston Terrier Hoodies & Sweatshirts](https://ilovemy.pet/collections/boston-terrier-hoodies-sweatshirts): Shop Boston Terrier hoodies and sweatshirts for women and men, including personalized styles and Christmas designs. Find your perfect cozy layer today.
   Updated: 2026-10-10T16:04:24Z
   Total Products: 23
@@ -1773,13 +1751,13 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:24Z
   Total Products: 23
 - [Boston Terrier Pajamas for Women](https://ilovemy.pet/collections/boston-terrier-pajamas): Shop Boston Terrier pajamas including women's soft pajama sets, Christmas PJs, and summer sleeping sets. Find your perfect pair today.
-  Updated: 2026-10-22T19:24:02Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 33
 - [Boston Terrier Pillows & Cushion Covers](https://ilovemy.pet/collections/boston-terrier-pillows): Shop Boston Terrier pillows, cushion covers, and personalized pillowcases made for true fans of this tuxedo-coated breed. Find your perfect match today.
   Updated: 2026-10-26T19:27:31Z
   Total Products: 28
 - [Boston Terrier Shirts & T-Shirts](https://ilovemy.pet/collections/boston-terrier-shirts): Shop Boston Terrier shirts and t-shirts for women and men, including personalized tees, watercolor designs, and holiday styles. Find your favorite today.
-  Updated: 2026-10-10T16:04:25Z
+  Updated: 2026-11-17T12:18:53Z
   Total Products: 56
 - [Boston Terrier Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/boston-terrier-soft-toys): Shop Boston Terrier soft toys and stuffed animals - including lifelike poses and custom options. Perfect plush toys for Boston Terrier lovers.
   Updated: 2026-10-26T19:27:31Z
@@ -1791,8 +1769,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T12:10:15Z
   Total Products: 27
 - [Boxer Dog Decor](https://ilovemy.pet/collections/boxer-dog-home-decor): Shop Boxer dog home decor pieces including blankets, statues, and mugs - perfect for any Boxer lover. Find your favorite and bring the breed home.
-  Updated: 2026-10-24T12:36:13Z
-  Total Products: 68
+  Updated: 2026-11-14T22:36:19Z
+  Total Products: 65
 - [Boxer Dog Pajamas for Women](https://ilovemy.pet/collections/boxer-dog-pajamas): Shop Boxer dog pajamas for women, including watercolor sets, Christmas pajamas, and floral designs. Perfect PJs for every Boxer mom.
   Updated: 2026-11-08T09:42:41Z
   Total Products: 36
@@ -1818,7 +1796,7 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T12:10:42Z
   Total Products: 98
 - [Cavalier King Charles Spaniel Blankets](https://ilovemy.pet/collections/cavalier-king-charles-spaniel-blankets): Shop Cavalier King Charles Spaniel blankets, sherpa fleece throws, and blanket bedding sets. Watercolor art and personalized styles available.
-  Updated: 2026-10-24T12:10:42Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 27
 - [Cavalier King Charles Spaniel Pajamas](https://ilovemy.pet/collections/cavalier-king-charles-spaniel-pajamas): Shop Cavalier King Charles Spaniel pajama sets for women, including Christmas and watercolor designs. Perfect PJs for Cavalier lovers.
   Updated: 2026-11-09T18:24:42Z
@@ -1827,10 +1805,10 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:26Z
   Total Products: 19
 - [Cavalier King Charles Spaniel Stuffed Animals & Plush](https://ilovemy.pet/collections/cavalier-king-charles-spaniel-stuffed-animal-plush-toys): Shop Cavalier King Charles Spaniel stuffed animals, from realistic plush toys to interactive and custom options. Find the perfect gift for any CKCS lover.
-  Updated: 2026-10-26T19:27:28Z
+  Updated: 2026-11-17T12:18:53Z
   Total Products: 16
 - [Chihuahua Christmas Ornaments & Decorations](https://ilovemy.pet/collections/chihuahua-christmas-ornaments-decorations): Shop 50+ Chihuahua Christmas ornaments, sweatshirts, stockings, and pajamas. Festive decorations for every Chihuahua lover on your list. Find yours today.
-  Updated: 2026-10-24T12:10:18Z
+  Updated: 2026-11-17T12:18:53Z
   Total Products: 93
 - [Chihuahua Art - Posters & Wall Art](https://ilovemy.pet/collections/chihuahua-art): Shop 36+ pieces of Chihuahua art, from canvas posters to wall art prints. Find personalized portraits and bold artwork made for Chihuahua lovers.
   Updated: 2026-10-10T16:04:26Z
@@ -1839,14 +1817,14 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-11-11T12:09:09Z
   Total Products: 56
 - [Chihuahua Home Decor](https://ilovemy.pet/collections/chihuahua-home-decor): Shop 50+ Chihuahua home decor pieces including resin statues, sherpa blankets, and canvas art. Perfect for any Chihuahua lover's home.
-  Updated: 2026-10-24T12:36:12Z
-  Total Products: 171
+  Updated: 2026-11-17T02:43:36Z
+  Total Products: 152
 - [Chihuahua Hoodies & Sweatshirts](https://ilovemy.pet/collections/chihuahua-hoodies-sweatshirts): Shop 32+ Chihuahua sweatshirts, including styles for men and women, Christmas sweatshirts, and more. Find your perfect fit.
   Updated: 2026-10-10T16:04:26Z
   Total Products: 32
 - [Chihuahua Jewelry - Necklaces, Charms & Rings](https://ilovemy.pet/collections/chihuahua-jewelry-necklaces-charms-earrings): Shop 21+ pieces of Chihuahua jewelry including 925 silver charms, pendant necklaces, stud earrings, and rings. Perfect for any Chihuahua mom, aunt, or sister.
-  Updated: 2026-10-10T16:04:26Z
-  Total Products: 21
+  Updated: 2026-11-17T02:43:36Z
+  Total Products: 20
 - [Chihuahua Pajamas for Women](https://ilovemy.pet/collections/chihuahua-pajamas): Shop 20+ Chihuahua pajama sets, cotton crop top sleeping sets, and other styles designed for women who love their tiny, big-personality dogs.
   Updated: 2026-11-11T12:09:09Z
   Total Products: 28
@@ -1872,8 +1850,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T12:10:45Z
   Total Products: 26
 - [Chocolate Labrador Home Decor](https://ilovemy.pet/collections/chocolate-labrador-home-decor): Shop 50+ Chocolate Labrador home decor pieces, including cozy blankets, quilted bedding, and wall art. Perfect decor for Chocolate Lab lovers.
-  Updated: 2026-10-24T12:10:45Z
-  Total Products: 58
+  Updated: 2026-11-14T22:36:22Z
+  Total Products: 55
 - [Chocolate Labrador Hoodies & Sweatshirts](https://ilovemy.pet/collections/chocolate-labrador-hoodies-sweatshirts): Shop 15+ Chocolate Labrador sweatshirts for men and women, including personalized designs and festive Christmas styles. Find your perfect fit today.
   Updated: 2026-10-10T16:04:27Z
   Total Products: 15
@@ -1887,14 +1865,14 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-30T11:33:00Z
   Total Products: 18
 - [Cocker Spaniel Home Decor](https://ilovemy.pet/collections/cocker-spaniel-home-decor): Shop Cocker Spaniel home decor including blankets, doormats, lamps, mugs, signs, statues, and more. Personalized options available.
-  Updated: 2026-10-24T12:10:19Z
-  Total Products: 90
+  Updated: 2026-11-14T22:35:31Z
+  Total Products: 84
 - [Cocker Spaniel Shirts & T-Shirts](https://ilovemy.pet/collections/cocker-spaniel-shirts): Shop Cocker Spaniel shirts and t-shirts for women, including Christmas tees, personalized mom and dad styles, and all-over prints. Find your favorite today.
   Updated: 2026-10-10T16:04:27Z
   Total Products: 28
 - [Cocker Spaniel Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/cocker-spaniel-stuffed-animal-plush-toys): Shop Cocker Spaniel stuffed animals and plush toys - realistic, playful, and cuddly stuffed toys for every Cocker Spaniel lover.
-  Updated: 2026-11-02T12:07:27Z
-  Total Products: 42
+  Updated: 2026-11-20T12:08:24Z
+  Total Products: 43
 - [Corgi Christmas Decorations & Ornaments](https://ilovemy.pet/collections/corgi-christmas-decorations-ornaments): Shop Corgi Christmas decorations including ornaments, stockings, pajamas, and mugs. Perfect decor for Corgi lovers this holiday season. Find yours today.
   Updated: 2026-11-07T12:08:55Z
   Total Products: 115
@@ -1905,11 +1883,11 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:28Z
   Total Products: 29
 - [Corgi Blankets - Sherpa Fleece & Throw Blankets](https://ilovemy.pet/collections/corgi-blankets): Shop Corgi blankets, sherpa fleece throws, Christmas Corgi blankets, and dog blankets made for Corgi lovers. Soft, cozy, and high quality.
-  Updated: 2026-10-24T12:10:21Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 61
 - [Corgi Home Decor](https://ilovemy.pet/collections/corgi-home-decor): Shop Corgi home decor including sherpa blankets, resin statues, and desk lamps. 50+ decor pieces designed for Corgi lovers.
-  Updated: 2026-10-24T12:10:21Z
-  Total Products: 143
+  Updated: 2026-11-20T12:08:24Z
+  Total Products: 132
 - [Corgi Hoodies & Sweatshirts](https://ilovemy.pet/collections/corgi-hoodies-sweatshirts): Shop Corgi sweatshirts, including personalized designs, Christmas sweatshirts, and styles for women and men. Find your favorite today.
   Updated: 2026-10-10T16:04:28Z
   Total Products: 26
@@ -1917,7 +1895,7 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:28Z
   Total Products: 11
 - [Corgi Pajamas for Women](https://ilovemy.pet/collections/corgi-pajamas): Shop Corgi pajamas made for women who love their Corgis. Find pajama sets, cozy onesies, and Christmas PJs in fun Corgi prints. Browse the full collection.
-  Updated: 2026-10-30T11:07:51Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 55
 - [Corgi Pillows](https://ilovemy.pet/collections/corgi-pillows): Shop Corgi pillows and personalized cushion covers, including plush pillows, body pillows, throw pillowcases, and Christmas Corgi pillows for dog lovers.
   Updated: 2026-10-19T11:12:25Z
@@ -1929,7 +1907,7 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-20T15:12:31Z
   Total Products: 34
 - [Dachshund Christmas Ornaments & Decor](https://ilovemy.pet/collections/dachshund-christmas-ornaments-decorations): Shop Dachshund Christmas decor including ornaments, stockings, mugs, pajamas, and wrapping paper. Perfect Wiener Dog Christmas decor for the holiday season.
-  Updated: 2026-10-24T12:10:41Z
+  Updated: 2026-11-16T12:08:36Z
   Total Products: 188
 - [Dachshund Art - Wall Art & Posters](https://ilovemy.pet/collections/dachshund-art): Shop Dachshund art, from canvas wall art and posters to personalized portraits. Perfect artwork for any Doxie lover's home. Find your favorite today.
   Updated: 2026-10-10T16:04:28Z
@@ -1938,8 +1916,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-11-12T12:07:31Z
   Total Products: 93
 - [Dachshund Home Decor](https://ilovemy.pet/collections/dachshund-home-decor): Shop Dachshund decor and Wiener Dog decor, including home accessories, home goods, and decorative items for every room.
-  Updated: 2026-11-12T12:07:31Z
-  Total Products: 248
+  Updated: 2026-11-18T22:11:44Z
+  Total Products: 232
 - [Dachshund Hoodies & Sweatshirts](https://ilovemy.pet/collections/dachshund-hoodies-sweatshirts): Shop Dachshund sweatshirts for women and men - including Christmas sweatshirts and personalized designs. Find your perfect Wiener dog sweatshirt.
   Updated: 2026-10-10T16:04:29Z
   Total Products: 60
@@ -1965,8 +1943,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T12:10:25Z
   Total Products: 18
 - [Dalmatian Home Decor](https://ilovemy.pet/collections/dalmatian-home-decor): Shop Dalmatian home decor including blankets, bedding, cushion covers, and garden statues. Perfect for Dalmatian lovers who want their home to show it.
-  Updated: 2026-10-24T12:10:25Z
-  Total Products: 51
+  Updated: 2026-11-14T22:36:09Z
+  Total Products: 48
 - [Dalmatian Pajamas for Women - Sets & PJs](https://ilovemy.pet/collections/dalmatian-pajamas): Shop Dalmatian pajama sets made for women who love their spotted dogs. Seasonal and everyday styles are available. Find your favorite Dalmatian PJs.
   Updated: 2026-11-08T09:42:59Z
   Total Products: 12
@@ -1983,8 +1961,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:30Z
   Total Products: 12
 - [Doberman Home Decor](https://ilovemy.pet/collections/doberman-home-decor): Shop Doberman home decor including mugs, sherpa blankets, canvas posters, and tin signs. Decor made for Doberman lovers. Find your favorite today.
-  Updated: 2026-10-24T12:10:25Z
-  Total Products: 72
+  Updated: 2026-11-14T22:37:18Z
+  Total Products: 57
 - [Doberman Shirts & Tees for Women](https://ilovemy.pet/collections/doberman-shirts): Shop Doberman shirts and t-shirts made for women who love this bold, loyal breed. Find cotton tees, personalized styles, and seasonal picks.
   Updated: 2026-10-10T16:04:30Z
   Total Products: 12
@@ -2001,22 +1979,22 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T12:10:26Z
   Total Products: 34
 - [English Bulldog Home Decor](https://ilovemy.pet/collections/english-bulldog-home-decor): Shop English Bulldog home decor including lifelike statues, cozy throw blankets, wall clocks, and pillowcases. Perfect for any Bulldog lover's home.
-  Updated: 2026-10-24T12:10:26Z
-  Total Products: 116
+  Updated: 2026-11-17T18:31:03Z
+  Total Products: 110
 - [English Bulldog Pajamas for Women](https://ilovemy.pet/collections/english-bulldog-pajamas): Shop English Bulldog pajama sets for women, including Christmas pajamas and summer styles. Perfect for any Bulldog lover. Find your favorites today.
   Updated: 2026-10-22T19:24:02Z
   Total Products: 28
 - [English Bulldog Pillows](https://ilovemy.pet/collections/english-bulldog-pillows): Shop English Bulldog pillows, cushion covers, and plush pillows - including personalized designs. Perfect for any Bulldog lover. Find yours today.
-  Updated: 2026-10-26T19:27:23Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 29
 - [English Bulldog Shirts & Tees for Women](https://ilovemy.pet/collections/english-bulldog-shirts): Shop English Bulldog shirts and T-shirts made for women who love this wrinkly, lovable breed. Find seasonal styles, all-over prints, and personalized tees.
   Updated: 2026-10-10T16:04:30Z
   Total Products: 29
 - [English Bulldog Statues](https://ilovemy.pet/collections/english-bulldog-statue): Shop English Bulldog statues including resin figurines, garden statues, and tabletop organizers. Perfect for any Bulldog lover's home. Find yours today.
-  Updated: 2026-10-10T16:04:30Z
+  Updated: 2026-11-17T12:18:53Z
   Total Products: 16
 - [English Bulldog Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/english-bulldog-stuffed-animal-plush-toys): Shop English Bulldog stuffed animals and plush toys, including realistic and teddy bear styles, plus soft plush pillows in small to large sizes.
-  Updated: 2026-11-10T10:43:44Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 12
 - [English Springer Spaniel Pajamas](https://ilovemy.pet/collections/english-springer-spaniel-pajamas): Shop English Springer Spaniel Christmas pajamas for women, featuring cozy pajama sets made for Springer Spaniel lovers.
   Updated: 2026-10-10T16:04:31Z
@@ -2034,13 +2012,13 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T12:10:28Z
   Total Products: 70
 - [French Bulldog Home Decor](https://ilovemy.pet/collections/french-bulldog-home-decor): Shop French Bulldog home decor including statues, blankets, rugs, and wall clocks. Frenchie-themed decor pieces to make any space feel like home.
-  Updated: 2026-10-24T12:10:28Z
-  Total Products: 250
+  Updated: 2026-11-18T12:07:39Z
+  Total Products: 223
 - [French Bulldog Jewelry - Necklaces, Earrings & Rings](https://ilovemy.pet/collections/french-bulldog-jewelry-necklaces-earrings-pendants): Shop French Bulldog jewelry, including 925 silver necklaces, earrings, charms, and rings made for true Frenchie fans. Find your perfect piece today.
   Updated: 2026-10-10T16:04:31Z
   Total Products: 28
 - [French Bulldog Keychains](https://ilovemy.pet/collections/french-bulldog-keychains): Shop French Bulldog keychains including enamel, PU leather, and personalized styles. Perfect keyrings for any Frenchie lover. Find your favorite here.
-  Updated: 2026-10-10T16:04:31Z
+  Updated: 2026-11-14T23:12:15Z
   Total Products: 12
 - [French Bulldog Pajamas for Women](https://ilovemy.pet/collections/french-bulldog-pajamas): Shop French Bulldog pajama sets, Christmas PJs, and cotton sleeping sets made for Frenchie-obsessed women. Find your perfect pair today.
   Updated: 2026-10-10T16:04:31Z
@@ -2052,11 +2030,11 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:31Z
   Total Products: 67
 - [French Bulldog Statues](https://ilovemy.pet/collections/french-bulldog-statues): Shop French Bulldog statues including resin figures, garden statues, and piggy banks. Perfect for any Frenchie lover's home. Find your favorite today.
-  Updated: 2026-10-16T11:13:15Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 43
 - [French Bulldog Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/french-bulldog-stuffed-animal-plush-toy): Shop French Bulldog stuffed animals, plush toys, and soft toys in every coat color - fawn, pied, black, cream, and more. Find yours below.
-  Updated: 2026-10-26T19:27:23Z
-  Total Products: 32
+  Updated: 2026-11-14T21:07:02Z
+  Total Products: 33
 - [German Shepherd Christmas Ornaments & Decor](https://ilovemy.pet/collections/german-shepherd-christmas-ornaments-decorations): Shop German Shepherd Christmas decor including ornaments, stockings, mugs, blankets, and holiday apparel. Festive Christmas decor made for GSD lovers.
   Updated: 2026-10-24T12:10:30Z
   Total Products: 78
@@ -2067,8 +2045,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T12:10:30Z
   Total Products: 35
 - [German Shepherd Home Decor](https://ilovemy.pet/collections/german-shepherd-home-decor): Shop German Shepherd home decor including sherpa blankets, brass figurines, and floor rugs. 50+ decor pieces made for real GSD lovers.
-  Updated: 2026-10-24T12:36:10Z
-  Total Products: 135
+  Updated: 2026-11-14T22:37:33Z
+  Total Products: 122
 - [German Shepherd Jewelry - Necklaces, Charms & Earrings](https://ilovemy.pet/collections/german-shepherd-jewelry-necklaces-charms-earrings): Shop German Shepherd jewelry including 925 silver charms, pendants, necklaces, and earrings made for devoted GSD owners. Find the perfect piece here.
   Updated: 2026-10-10T16:04:32Z
   Total Products: 11
@@ -2094,8 +2072,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T12:10:30Z
   Total Products: 29
 - [Golden Retriever Home Decor](https://ilovemy.pet/collections/golden-retriever-home-decor): Shop Golden Retriever home decor including throw blankets, cushion covers, rugs, and signs. 50+ decor pieces made for Golden lovers.
-  Updated: 2026-11-06T09:19:59Z
-  Total Products: 129
+  Updated: 2026-11-15T12:10:14Z
+  Total Products: 112
 - [Golden Retriever Jewelry - Necklaces, Charms & Rings](https://ilovemy.pet/collections/golden-retriever-jewelry-necklace-earrings): Shop Golden Retriever jewelry including 925 silver necklaces, charms, earrings, and rings made for Golden lovers. Find the perfect piece today.
   Updated: 2026-10-10T16:04:33Z
   Total Products: 29
@@ -2109,16 +2087,16 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:33Z
   Total Products: 23
 - [Golden Retriever Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/golden-retriever-stuffed-animal-plush-toys): Shop Golden Retriever stuffed animals, plush toys, and soft toys - lifelike, huggable, and made for true Golden lovers. Find your favorite today.
-  Updated: 2026-10-30T11:33:00Z
+  Updated: 2026-11-17T12:18:53Z
   Total Products: 42
 - [Goldendoodle Christmas Ornaments & Decor](https://ilovemy.pet/collections/goldendoodle-christmas-ornaments-decorations): Shop Goldendoodle Christmas gifts including ornaments, stockings, holiday apparel, blankets, and home decor. Perfect Christmas decorations for Doodle lovers.
-  Updated: 2026-11-02T12:07:27Z
+  Updated: 2026-11-15T12:10:14Z
   Total Products: 20
 - [Goldendoodle Home Decor](https://ilovemy.pet/collections/goldendoodle-home-decor): Shop Goldendoodle home decor including garden statues, sherpa blankets, personalized pillowcases, and more. Perfect for every Doodle lover.
-  Updated: 2026-10-24T12:10:31Z
-  Total Products: 26
+  Updated: 2026-11-18T12:07:39Z
+  Total Products: 24
 - [Goldendoodle Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/goldendoodle-stuffed-animals-plush-toys): Shop Goldendoodle stuffed animals, plush toys, and soft toy walking dogs made for Doodle lovers. Find the perfect huggable gift. Browse the collection.
-  Updated: 2026-10-26T19:27:22Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 23
 - [Goldendoodle Jewelry - Necklaces, Charms & Earrings](https://ilovemy.pet/collections/goldendoodle-jewelry-necklaces-charms-earrings): Shop Goldendoodle jewelry including 925 silver charms, Doodle earrings, and wrap rings. Perfect gifts for Goldendoodle lovers. Find your favorite piece today.
   Updated: 2026-10-10T16:04:33Z
@@ -2130,7 +2108,7 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:33Z
   Total Products: 14
 - [Greyhound Gifts](https://ilovemy.pet/collections/greyhound-gifts): Shop Greyhound gifts including pajamas, blanket hoodies, statues, and home decor. Perfect presents for Greyhound lovers. Find something they'll truly love.
-  Updated: 2026-11-08T09:42:57Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 203
 - [Greyhound Pajamas for Women & Adults](https://ilovemy.pet/collections/greyhound-pajamas): Shop Greyhound pajama sets, Christmas PJs, and pajama pants made for adults who love this graceful breed. Find your perfect pair today.
   Updated: 2026-11-08T09:42:57Z
@@ -2166,7 +2144,7 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-26T19:27:08Z
   Total Products: 15
 - [Yorkie Shirts & T-Shirts for Women & Men](https://ilovemy.pet/collections/yorkie-shirts): Shop Yorkie shirts and t-shirts for proud Yorkshire Terrier lovers. Cotton tees, personalized Yorkie mom and dad shirts, and holiday styles. Find your favorite.
-  Updated: 2026-11-13T12:08:01Z
+  Updated: 2026-11-14T12:09:09Z
   Total Products: 21
 - [Westie Christmas Decor](https://ilovemy.pet/collections/westie-christmas-ornaments-decorations): Shop Westie Christmas decorations including ornaments, stockings, festive apparel, and more. Find the perfect Christmas home decor for West Highland Terrier lovers.
   Updated: 2026-10-24T12:11:03Z
@@ -2184,8 +2162,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:35Z
   Total Products: 33
 - [Westie Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/westie-stuffed-animal-plush-toys): Shop West Highland Terrier stuffed animals, plush toys, and soft toys made for Westie lovers. Find the perfect cuddly gift today.
-  Updated: 2026-10-26T19:27:05Z
-  Total Products: 51
+  Updated: 2026-11-16T11:56:06Z
+  Total Products: 52
 - [Husky Christmas Decorations](https://ilovemy.pet/collections/husky-christmas-ornaments-decorations): Shop Husky Christmas decorations including ornaments, sweatshirts, pajamas, and more. Perfect Siberian Husky Christmas decorations for every Husky lover.
   Updated: 2026-10-24T12:10:35Z
   Total Products: 87
@@ -2196,16 +2174,16 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T12:10:35Z
   Total Products: 33
 - [Husky Home Decor](https://ilovemy.pet/collections/husky-home-decor): Shop Siberian Husky home decor including wall clocks, mugs, pillowcases, and cozy blankets. Delightful decor for Husky lovers. Find your favorite here.
-  Updated: 2026-10-24T12:10:35Z
-  Total Products: 141
+  Updated: 2026-11-14T22:37:07Z
+  Total Products: 127
 - [Husky Jewelry - Necklaces, Earrings & Charms](https://ilovemy.pet/collections/husky-jewelry-necklaces-earrings-charms): Shop Husky jewelry including 925 silver charms, earrings, and pendant necklaces made for Siberian Husky lovers. Find the perfect piece today.
   Updated: 2026-10-10T16:04:35Z
   Total Products: 11
 - [Husky Keychains - Metal, Leather & Plush](https://ilovemy.pet/collections/husky-keychains): Shop Husky keychains including 3D metal, genuine leather, and plush styles. Perfect keychains for Siberian Husky lovers. Find your favorite now.
-  Updated: 2026-11-03T12:09:10Z
+  Updated: 2026-11-14T23:12:08Z
   Total Products: 11
 - [Husky Pajamas for Women](https://ilovemy.pet/collections/husky-pajamas): Shop Husky pajamas for women, from cozy sleeping sets to cotton shorts and Christmas PJs. Perfect for every Siberian Husky lover. Find your favorite today.
-  Updated: 2026-11-09T18:24:39Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 18
 - [Husky Body Pillows, Pillows & Pillowcases](https://ilovemy.pet/collections/husky-pillows): Shop Siberian Husky body pillows, plush pillows, pillowcases, and custom photo designs, including festive Christmas Husky styles.
   Updated: 2026-10-26T19:27:07Z
@@ -2229,8 +2207,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T12:10:45Z
   Total Products: 84
 - [Labrador Home Decor](https://ilovemy.pet/collections/labrador-home-decor): Shop Labrador Retriever home decor including pillow covers, wall clocks, doormats, rugs, and more. Perfect Lab dog decor for any room.
-  Updated: 2026-10-24T12:10:45Z
-  Total Products: 233
+  Updated: 2026-11-14T22:37:34Z
+  Total Products: 209
 - [Labrador Retriever Jewelry - Necklaces, Rings & Earrings](https://ilovemy.pet/collections/labrador-retriever-jewelry-necklaces-earrings): Shop Labrador Retriever jewelry pieces including 925 silver necklaces, earrings, charms, and bracelets made for true Lab lovers. Find your perfect piece today.
   Updated: 2026-10-22T11:14:30Z
   Total Products: 41
@@ -2247,20 +2225,20 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:36Z
   Total Products: 20
 - [Labrador Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/labrador-stuffed-animal-plush-toys): Shop 50+ Labrador stuffed animals and plush toys, including lifelike Lab plush, sleeping Lab stuffed toys, and soft toys in sizes from mini to giant.
-  Updated: 2026-10-26T19:27:18Z
+  Updated: 2026-11-14T12:09:09Z
   Total Products: 56
 - [Maltese Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/maltese-stuffed-animal-plush-toys): Shop Maltese stuffed animals, plush toys, and pillow plushies made for Maltese lovers. Realistic, giant, and kawaii styles available. Find your favorite today.
   Updated: 2026-10-26T19:27:16Z
   Total Products: 18
 - [Pit Bull Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/pit-bull-stuffed-animal-plush-toys): Shop Pit Bull stuffed animals, plush toys, and teddy bears made for true Pit Bull lovers. Sizes from small to giant. Find your perfect Pit Bull plush today.
-  Updated: 2026-11-13T12:08:01Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 31
 - [Pit Bull Blankets - Sherpa Fleece & Throw Blankets](https://ilovemy.pet/collections/pit-bull-blankets): Shop Pit Bull blankets and bedding sets, including sherpa fleece throws, Christmas blankets, and more. Find the perfect blanket for any Pit Bull lover.
   Updated: 2026-10-24T12:10:49Z
   Total Products: 29
 - [Pit Bull Home Decor](https://ilovemy.pet/collections/pit-bull-home-decor): Shop Pit Bull home decor including sherpa blankets, pillowcases, mugs, and statues. Personalized options available. Find the perfect Pit Bull decor.
-  Updated: 2026-11-13T12:08:01Z
-  Total Products: 101
+  Updated: 2026-11-14T22:37:06Z
+  Total Products: 85
 - [Pit Bull Shirts & Tees for Women](https://ilovemy.pet/collections/pit-bull-shirts): Shop Pit Bull shirts and tees made for proud Pit Bull moms. Find women's cotton tees, personalized Pit Bull mom shirts, and Christmas designs. Browse below.
   Updated: 2026-10-10T16:04:37Z
   Total Products: 20
@@ -2274,7 +2252,7 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:37Z
   Total Products: 15
 - [Pomeranian Plush Toys & Stuffed Animals](https://ilovemy.pet/collections/pomeranian-teddy-bears-plush-toys): Shop Pomeranian stuffed animals, soft toys, and plush pillows made for Pom lovers. Fluffy, cuddly, and seriously cute. Find your favorite today.
-  Updated: 2026-10-26T19:27:13Z
+  Updated: 2026-11-16T12:08:36Z
   Total Products: 22
 - [Poodle Christmas Decor](https://ilovemy.pet/collections/poodle-christmas-ornaments-decorations): Shop Poodle Christmas decor including ornaments, festive mugs, holiday apparel, and more. Thoughtful Christmas decorations for every Poodle lover on your list.
   Updated: 2026-10-24T12:10:51Z
@@ -2283,8 +2261,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:37Z
   Total Products: 18
 - [Poodle Home Decor](https://ilovemy.pet/collections/poodle-home-decor): Shop Poodle home decor including pillow covers, resin figurines, and signs. 50+ home decor pieces that any Poodle lover will adore.
-  Updated: 2026-10-24T12:10:51Z
-  Total Products: 83
+  Updated: 2026-11-14T22:36:07Z
+  Total Products: 79
 - [Poodle Jewelry - Necklaces, Earrings & Rings](https://ilovemy.pet/collections/poodle-jewelry-necklaces-earrings-rings): Shop Poodle jewelry including 925 silver earrings, pendants, charms, and rings made for Poodle lovers. Browse our collection now.
   Updated: 2026-10-10T16:04:38Z
   Total Products: 25
@@ -2298,10 +2276,10 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:38Z
   Total Products: 13
 - [Poodle Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/poodle-stuffed-animal-plush-toys): Shop Poodle stuffed animals, plush toys, and teddy bears for every Poodle lover. Black, white, and pink styles available. Find your perfect Poodle plush today.
-  Updated: 2026-10-26T19:27:13Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 21
 - [Pug Christmas Decor](https://ilovemy.pet/collections/pug-christmas-ornaments-decorations): Shop Pug Christmas decorations including tree ornaments, festive mugs, holiday blankets, and more. Perfect decor for Pug lovers this Christmas season.
-  Updated: 2026-10-24T12:10:51Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 75
 - [Pug Art - Canvas Prints, Posters & Wall Art](https://ilovemy.pet/collections/pug-art): Shop 50+ Pug art prints, canvas posters, and wall art for Pug lovers. From Starry Night to pop art styles, find the perfect piece for any room.
   Updated: 2026-10-10T16:04:38Z
@@ -2310,8 +2288,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T12:20:30Z
   Total Products: 52
 - [Pug Home Decor](https://ilovemy.pet/collections/pug-home-decor): Shop Pug home decor including wall art, throw pillows, doormats, desk lamps, and more. 50+ home decor products made for Pug lovers. Find your favorite today.
-  Updated: 2026-10-26T16:11:15Z
-  Total Products: 201
+  Updated: 2026-11-17T12:18:53Z
+  Total Products: 175
 - [Pug Hoodies & Sweatshirts for Women](https://ilovemy.pet/collections/pug-hoodies-sweatshirts): Shop Pug hoodies and sweatshirts for women, including cozy fleece and Christmas styles made for Pug moms. Find your favorite today.
   Updated: 2026-10-10T16:04:38Z
   Total Products: 37
@@ -2340,8 +2318,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T12:10:52Z
   Total Products: 15
 - [Rottweiler Home Decor](https://ilovemy.pet/collections/rottweiler-home-decor): Shop Rottweiler home decor including funny signs, throw blankets, garden statues, mugs, and more. Great decor for Rottweiler lovers. Browse the full collection.
-  Updated: 2026-10-24T12:10:52Z
-  Total Products: 43
+  Updated: 2026-11-14T22:35:52Z
+  Total Products: 41
 - [Rottweiler Shirts & Tees for Women](https://ilovemy.pet/collections/rottweiler-shirts): Shop Rottweiler shirts, tees, and personalized t-shirts for women. 15+ designs, including Christmas styles and custom options. Find your favorite now.
   Updated: 2026-10-10T16:04:39Z
   Total Products: 13
@@ -2352,17 +2330,17 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T12:10:52Z
   Total Products: 19
 - [Samoyed Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/samoyed-stuffed-animal-cuddly-plush-toys): Shop Samoyed stuffed animals and soft plush toys made for fans of this fluffy, smiling breed. Find the perfect Samoyed plush toy today.
-  Updated: 2026-10-30T11:07:51Z
-  Total Products: 26
+  Updated: 2026-11-20T16:14:30Z
+  Total Products: 27
 - [Schnauzer Christmas Decor](https://ilovemy.pet/collections/schnauzer-christmas-ornaments-decorations): Shop Schnauzer Christmas decor including ornaments, blankets, pajamas, and more. Festive Christmas decorations made for Standard, Giant, and Miniature Schnauzer lovers.
-  Updated: 2026-10-24T12:10:53Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 48
 - [Schnauzer Blankets - Sherpa Fleece & Throw Blankets](https://ilovemy.pet/collections/schnauzer-blankets): Shop Schnauzer blankets, including sherpa fleece throws, Christmas blankets, and dog blankets made for Standard, Giant, and Miniature Schnauzer lovers.
   Updated: 2026-10-24T12:10:53Z
   Total Products: 29
 - [Schnauzer Home Decor](https://ilovemy.pet/collections/schnauzer-home-decor): Shop 50+ Schnauzer home decor pieces including rugs, throw pillows, blankets, and more. Perfect for Standard, Giant, and Miniature Schnauzer lovers. Find yours now.
-  Updated: 2026-10-24T12:10:53Z
-  Total Products: 104
+  Updated: 2026-11-20T12:08:24Z
+  Total Products: 99
 - [Schnauzer Jewelry - Rings, Earrings & Charms](https://ilovemy.pet/collections/schnauzer-jewelry-necklaces-earrings-charms): Shop Schnauzer jewelry including 925 silver earrings, charms, and rings made for Standard, Giant, and Miniature Schnauzer lovers. Find the perfect piece now.
   Updated: 2026-10-10T16:04:40Z
   Total Products: 22
@@ -2370,14 +2348,14 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-22T19:24:02Z
   Total Products: 26
 - [Schnauzer Pillows](https://ilovemy.pet/collections/schnauzer-pillows): Shop Schnauzer pillows including throw pillowcases, cushion covers, and plush body pillows. Personalized options available. Find your favorite today.
-  Updated: 2026-10-26T19:27:10Z
-  Total Products: 31
+  Updated: 2026-11-16T11:56:07Z
+  Total Products: 32
 - [Schnauzer Shirts & T-Shirts for Women](https://ilovemy.pet/collections/schnauzer-shirts): Shop Schnauzer shirts made for women who love their scruffy, spirited dogs. Find cotton tees, mom shirts, Christmas T-shirts, personalized styles, and more.
   Updated: 2026-10-10T16:04:40Z
   Total Products: 34
 - [Schnauzer Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/schnauzer-stuffed-animal-plush-toys): Shop Schnauzer stuffed animals, plush toys, and soft toys, including cuddly sitting, belly-flop, and realistic styles. Find the perfect Schnauzer plush today.
-  Updated: 2026-10-30T11:19:39Z
-  Total Products: 57
+  Updated: 2026-11-16T11:56:07Z
+  Total Products: 58
 - [Scottie Dog Blankets - Sherpa Fleece & Throws](https://ilovemy.pet/collections/scottie-dog-blankets): Shop Scottie dog blankets, including sherpa fleece throws, quilted bedding sets, and personalized designs for Scottish Terrier lovers.
   Updated: 2026-10-24T12:10:54Z
   Total Products: 16
@@ -2388,7 +2366,7 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:41Z
   Total Products: 18
 - [Shiba Inu Christmas Ornaments & Decorations](https://ilovemy.pet/collections/shiba-inu-christmas-ornaments-decorations): Shop Shiba Inu Christmas decorations including ornaments, stockings, apparel, and holiday home decor. Personalized options available for Shiba lovers.
-  Updated: 2026-10-31T11:09:10Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 88
 - [Shiba Inu Art - Wall Art, Posters & Prints](https://ilovemy.pet/collections/shiba-inu-art): Shop Shiba Inu art prints, canvas posters, and wall art for your home. Japanese-inspired designs plus personalized portraits. Find the Shiba artwork now.
   Updated: 2026-10-10T16:04:41Z
@@ -2400,23 +2378,23 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:41Z
   Total Products: 12
 - [Shiba Inu Keychains - Metal, Plush & Leather](https://ilovemy.pet/collections/shiba-inu-keychains): Shop Shiba Inu keychains including plush keychains, carved wood, and leather key rings. Perfect keychains for Shiba Inu lovers. Find yours today.
-  Updated: 2026-10-10T16:04:41Z
+  Updated: 2026-11-14T23:12:08Z
   Total Products: 16
 - [Shiba Inu Pajamas for Women](https://ilovemy.pet/collections/shiba-inu-pajamas): Shop Shiba Inu pajamas for women, including matching sets, Christmas pajamas, and onesies. Perfect for Shiba moms, aunts, and sisters. Find your favorite now.
   Updated: 2026-11-09T18:24:43Z
   Total Products: 24
 - [Shiba Inu Pillows & Body Pillows](https://ilovemy.pet/collections/shiba-inu-pillows): Shop Shiba Inu pillows including body pillows, plush pillows, throw pillowcases, and personalized cushion covers. Perfect pillows for Shiba fans.
-  Updated: 2026-10-26T19:27:08Z
-  Total Products: 39
+  Updated: 2026-11-16T11:56:07Z
+  Total Products: 40
 - [Shiba Inu Shirts & T-Shirts for Women & Men](https://ilovemy.pet/collections/shiba-inu-shirts): Shop Shiba Inu shirts and t-shirts for women and men, including Christmas tees and personalized styles. Find the perfect Shiba tee now.
-  Updated: 2026-10-10T16:04:41Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 44
 - [Shiba Inu Statues & Sculptures](https://ilovemy.pet/collections/shiba-inu-statues): Shop Shiba Inu statues, garden sculptures, and desktop organizers for the Shiba dog lover in your life. Unique pieces to display your Shiba pride.
   Updated: 2026-10-10T16:04:41Z
   Total Products: 6
 - [Shiba Inu Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/shiba-inu-stuffed-animal-plush-toys): Shop 50+ Shiba Inu stuffed animals, plush toys, and soft toys for every Shiba lover. Realistic, cuddly, and seriously hard to put down. Find yours today.
-  Updated: 2026-11-13T12:08:01Z
-  Total Products: 80
+  Updated: 2026-11-16T11:56:07Z
+  Total Products: 81
 - [Shih Tzu Christmas Ornaments & Decorations](https://ilovemy.pet/collections/shih-tzu-christmas-ornaments-decorations): Shop Shih Tzu Christmas decorations including ornaments, festive sweatshirts, stockings, wrapping paper, and more. Perfect Christmas decor for Shih Tzu lovers.
   Updated: 2026-10-10T16:04:41Z
   Total Products: 78
@@ -2427,13 +2405,13 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:42Z
   Total Products: 20
 - [Shih Tzu Home Decor](https://ilovemy.pet/collections/shih-tzu-home-decor): Shop Shih Tzu home decor including wall art, cushion covers, rugs, mugs, and more. 50+ home decor pieces made for Shih Tzu lovers. Find your favorite today.
-  Updated: 2026-10-10T16:04:42Z
-  Total Products: 54
+  Updated: 2026-11-14T22:31:32Z
+  Total Products: 52
 - [Shih Tzu Jewelry - Charms, Necklaces & Rings](https://ilovemy.pet/collections/shih-tzu-jewelry-necklaces-earrings-charms): Shop Shih Tzu jewelry including 925 silver charms, pendant necklaces, earrings, and rings. Perfect jewelry pieces for Shih Tzu lovers.
   Updated: 2026-11-08T12:09:11Z
   Total Products: 16
 - [Shih Tzu Keychains - Metal, Enamel & Plush](https://ilovemy.pet/collections/shih-tzu-keychain): Shop Shih Tzu keychains in metal, enamel, plush, and personalized styles for every Shih Tzu lover. Find your perfect keychain today.
-  Updated: 2026-10-10T16:04:42Z
+  Updated: 2026-11-14T23:12:08Z
   Total Products: 7
 - [Shih Tzu Pajamas for Women](https://ilovemy.pet/collections/shih-tzu-pajamas): Shop Shih Tzu pajamas for women, including cozy pajama sets, summer PJs, and Christmas styles. Perfect jammies for Shih Tzu lovers. Find your favorite now.
   Updated: 2026-11-08T09:42:50Z
@@ -2445,28 +2423,28 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:42Z
   Total Products: 20
 - [Shih Tzu Stuffed Animals & Cuddly Plush Toys](https://ilovemy.pet/collections/shih-tzu-teddy-bear-cuddly-toys): Shop Shih Tzu stuffed animals, plush toys, and cuddly soft toys, including lifelike and kawaii styles. Perfect plushies for Shih Tzu lovers.
-  Updated: 2026-10-26T19:27:06Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 18
 - [Dog Memorial Gifts](https://ilovemy.pet/collections/dog-memorial-gifts): Shop 1000+ dog memorial gifts, including lifelike stuffed animals, dog-themed jewelry, and home decor. Find something meaningful. Browse the collection.
-  Updated: 2026-11-13T12:08:01Z
-  Total Products: 2800
+  Updated: 2026-11-20T16:14:30Z
+  Total Products: 2807
 - [Dog Socks for Dog Lovers: Cute & Custom](https://ilovemy.pet/collections/socks-with-dogs): Shop 150+ dog socks in breed-specific patterns, custom dog socks, and personalized dog socks. Cotton, ankle & mid-calf styles for every dog lover.
-  Updated: 2026-11-13T12:08:01Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 196
 - [Purses with Dogs for Dog Moms](https://ilovemy.pet/collections/purse-with-dogs): Shop 80+ dog-themed purses with breed-specific designs, from Shiba Inus to Golden Retrievers to Beagles. Stylish purses for dog moms. Find yours today.
-  Updated: 2026-10-10T16:04:42Z
+  Updated: 2026-11-14T12:09:09Z
   Total Products: 80
 - [Dog Phone Cases: Custom & Breed-Specific](https://ilovemy.pet/collections/dog-phone-cases): Shop 75+ dog phone cases for iPhone and more. Browse custom breed designs, floral "in Bloom" cases, and personalized options with your dog's name.
   Updated: 2026-10-10T16:04:42Z
   Total Products: 78
 - [350+ Dog Coffee Mugs for Dog Lovers](https://ilovemy.pet/collections/mugs-with-dogs): Shop 350+ dog coffee mugs for every dog lover, including personalized mugs, breed-specific designs, and Christmas mugs. Find one that looks like your dog.
-  Updated: 2026-11-11T12:09:09Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 479
 - [Dog Keychains for Dog Lovers: 250+ Styles](https://ilovemy.pet/collections/dog-keychains): Shop 250+ dog keychains and key rings in breed-specific designs. Enamel, PU leather, and metal styles. Find your breed today.
-  Updated: 2026-11-05T12:07:08Z
+  Updated: 2026-11-17T12:18:53Z
   Total Products: 250
 - [Dog Charms for Pandora-Style Bracelets: 50+ Breeds](https://ilovemy.pet/collections/pandora-style-dog-charms): Shop 150+ Pandora-style dog charms in 925 silver, featuring Dachshunds, French Bulldogs, Labradors, and more. Compatible with Pandora bracelets.
-  Updated: 2026-11-08T12:09:11Z
+  Updated: 2026-11-16T12:08:36Z
   Total Products: 168
 - [Dog Necklaces for Women](https://ilovemy.pet/collections/necklaces-with-dogs): Shop 50+ dog necklaces for women, including sterling silver pendants, crystal dog mom necklaces, and breed-specific charms. Find your perfect piece.
   Updated: 2026-10-10T16:04:43Z
@@ -2478,19 +2456,19 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:43Z
   Total Products: 97
 - [Dog Hoodies for Men & Women](https://ilovemy.pet/collections/hoodies-with-dogs): Shop 50+ dog hoodies for men and women, including personalized breed designs, cotton fleece pullovers, and custom name options. Find your perfect dog lover hoodie today.
-  Updated: 2026-10-10T16:04:43Z
+  Updated: 2026-11-16T12:08:36Z
   Total Products: 182
 - [Personalized Dog Memorial Gifts](https://ilovemy.pet/collections/personalized-dog-memorial-gifts): Shop 20+ personalized dog memorial gifts, including custom keychains, pillows, and portrait art. Meaningful, customized tributes to a beloved pup.
-  Updated: 2026-11-13T12:08:01Z
+  Updated: 2026-11-15T12:10:14Z
   Total Products: 20
 - [Dog Remembrance Jewelry - Necklaces, Pendants & More](https://ilovemy.pet/collections/dog-remembrance-jewellery): Shop 500+ dog memorial jewelry pieces - necklaces, pendants, rings and charms in 925 silver. All made to look exactly like your pup. Made to honor their memory.
-  Updated: 2026-11-13T12:08:01Z
-  Total Products: 574
+  Updated: 2026-11-18T12:07:39Z
+  Total Products: 573
 - [Dog Memorial Keychains: Remembrance Gifts](https://ilovemy.pet/collections/dog-remembrance-keychains): Shop 250+ dog memorial keychains, enamel charms, and personalized remembrance accessories. Keep your pup's memory close with a meaningful keepsake.
-  Updated: 2026-10-27T11:09:53Z
+  Updated: 2026-11-17T12:18:53Z
   Total Products: 146
 - [Dog Memorial Statues & Garden Ornaments](https://ilovemy.pet/collections/dog-memorial-statues): Shop 200+ dog memorial statues, garden ornaments, and angel wings memorials. Beautiful resin and ceramic tributes to honor the dog you'll always love.
-  Updated: 2026-10-27T11:09:53Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 208
 - [Dog Tote Bags for Dog Lovers](https://ilovemy.pet/collections/tote-bags-with-dogs): Shop 300+ dog tote bags in canvas, personalized, and embroidered styles. Find your breed, add your dog's name, and carry your dog love everywhere.
   Updated: 2026-10-10T16:04:43Z
@@ -2502,22 +2480,22 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-24T12:20:31Z
   Total Products: 413
 - [Dog Christmas Ornaments: Personalized for 50+ Breeds](https://ilovemy.pet/collections/dog-christmas-ornaments): Shop 300+ personalized dog Christmas ornaments in 50+ breeds. Add your dog's name to breed-specific holiday ornaments. Find yours today.
-  Updated: 2026-11-10T13:48:08Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 507
 - [Cockapoo Shirts & T-Shirts](https://ilovemy.pet/collections/cockapoo-shirts-t-shirts): Shop Cockapoo shirts, sweatshirts, and tees made for dog moms who love their curly-coated pups. Many styles to choose from. Find your favorite today.
   Updated: 2026-10-14T11:29:43Z
   Total Products: 15
 - [Cockapoo Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/cockapoo-stuffed-animals): Shop Cockapoo stuffed animals, plush toys, and soft toys made for Cockapoo lovers. Cuddly, adorable, and gift-ready. Find your favorite Cockapoo plush today.
-  Updated: 2026-10-21T11:11:19Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 32
 - [Cockapoo Gifts](https://ilovemy.pet/collections/cockapoo-gifts-presents): Shop Cockapoo gifts including stuffed animals, home decor, and jewelry. Perfect presents for any Cockapoo lover. Find something they'll adore today.
-  Updated: 2026-11-09T12:12:41Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 141
 - [iLoveMy.Pet Exclusive](https://ilovemy.pet/collections/ilovemy-pet-exclusive)
-  Updated: 2026-11-13T23:29:42Z
-  Total Products: 11870
+  Updated: 2026-11-20T23:24:53Z
+  Total Products: 11962
 - [Basset Hound Mugs](https://ilovemy.pet/collections/basset-hound-coffee-mugs): Shop Basset Hound coffee mugs, including Starry Night and Christmas holiday designs. Perfect gifts for every Basset lover. Find your favorite below.
-  Updated: 2026-10-10T16:04:44Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 6
 - [Beagle Coffee Mugs & Cups](https://ilovemy.pet/collections/beagle-coffee-mugs): Shop Beagle coffee mugs and cups, from personalized Starry Night designs to holiday and geometric styles. The perfect gift for every Beagle lover. Find yours today.
   Updated: 2026-10-10T16:04:44Z
@@ -2532,7 +2510,7 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:44Z
   Total Products: 12
 - [Boston Terrier Coffee Mugs & Cups](https://ilovemy.pet/collections/boston-terrier-coffee-mug): Shop Boston Terrier coffee mugs and ceramic cups, from festive Christmas mugs to stunning Starry Night designs. Perfect mugs for Boston Terrier lovers.
-  Updated: 2026-10-10T16:04:44Z
+  Updated: 2026-11-18T12:07:39Z
   Total Products: 17
 - [Cavalier King Charles Spaniel Mugs](https://ilovemy.pet/collections/cavalier-king-charles-spaniel-coffee-mugs): Shop Cavalier King Charles Spaniel coffee mugs, including Christmas designs and personalized artwork. Mugs and cups any Cavalier lover will adore.
   Updated: 2026-10-10T16:04:44Z
@@ -2598,35 +2576,35 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-11-13T12:08:01Z
   Total Products: 6
 - [Cat Stuffed Animal Plush Toys](https://ilovemy.pet/collections/cat-stuffed-animal-plush-toys): Shop 750+ cat plush toys including realistic stuffed cats, belly flop poses, and breed-specific designs. Perfect for cat lovers of all ages. Find yours today.
-  Updated: 2026-11-12T12:07:31Z
-  Total Products: 793
+  Updated: 2026-11-19T12:07:20Z
+  Total Products: 801
 - [Black Cat Stuffed Animal Plush Toys](https://ilovemy.pet/collections/black-cat-stuffed-animal-plush-toys): Shop black cat plush toys including realistic stuffed animals, giant plush toys, and tiny soft plush cats. Perfect for cat lovers of all ages. Find yours today.
-  Updated: 2026-11-09T12:12:41Z
-  Total Products: 99
+  Updated: 2026-11-16T11:56:08Z
+  Total Products: 100
 - [Calico Cat Stuffed Animal Plush Toys](https://ilovemy.pet/collections/calico-cat-stuffed-animal-plush-toys): Shop 100+ Calico Cat plush toys, from realistic play-pose stuffed animals to cuddly pillow plushes and Minecraft calico cat designs. Find the perfect one today.
-  Updated: 2026-11-03T12:09:10Z
-  Total Products: 98
+  Updated: 2026-11-19T12:07:20Z
+  Total Products: 99
 - [Black and White Cat Plush Toys](https://ilovemy.pet/collections/black-and-white-cat-stuffed-animal-plush-toys): Shop 40+ black and white cat stuffed animals in realistic and cuddly plush designs. Perfect gifts for cat lovers of all ages. Find yours today.
   Updated: 2026-10-30T11:50:04Z
   Total Products: 78
 - [Tabby Cat Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/striped-tabby-cat-stuffed-animal-plush-toys): Shop 150+ tabby cat stuffed animals in orange, brown, and grey. Realistic plush toys, chonky pillow pals, and belly flop cats for cat lovers of every age.
-  Updated: 2026-11-10T13:48:08Z
-  Total Products: 150
+  Updated: 2026-11-16T12:08:36Z
+  Total Products: 151
 - [Grey Cat Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/grey-cat-stuffed-animal-plush-toys): Shop 30+ grey cat stuffed animals including realistic plush toys, kawaii designs, and giant plush toys. Perfect for grey cat lovers. Find your favorite today.
   Updated: 2026-10-30T11:04:59Z
   Total Products: 29
 - [White Cat Plush Toys & Stuffed Animals](https://ilovemy.pet/collections/white-cat-stuffed-animal-plush-toys): Shop 75+ white cat plush toys, from realistic stuffed animals to kawaii designs and loaf-shaped plush. Soft, charming, and gift-ready. Find your favorite now.
-  Updated: 2026-10-30T11:26:27Z
-  Total Products: 80
+  Updated: 2026-11-19T12:07:20Z
+  Total Products: 81
 - [Orange Cat Plush Toys & Stuffed Animals](https://ilovemy.pet/collections/orange-cat-stuffed-animal-plush-toys): Shop 40+ orange cat stuffed animals, from chonky fat cats to realistic tabby plush toys and giant plush toys. Find your perfect orange cat plush here.
   Updated: 2026-10-30T11:17:38Z
   Total Products: 41
 - [Realistic Cat Plush Toys - Lifelike Stuffed Cats](https://ilovemy.pet/collections/realistic-cat-plush-toys): Shop 120+ realistic cat plush toys, from Maine Coon and Ragdoll stuffed animals to lifelike cats in all coats and colors. Soft, detailed, and totally huggable.
-  Updated: 2026-11-12T12:07:31Z
-  Total Products: 198
+  Updated: 2026-11-19T12:07:20Z
+  Total Products: 200
 - [Grey and White Cat Plush Toys](https://ilovemy.pet/collections/grey-and-white-cat-stuffed-animal-plush-toys): Shop 35+ grey and white cat stuffed animals, from realistic Maine Coon plush to chonky heterochromia cats and sitting teddy bear styles. Find your perfect match.
-  Updated: 2026-11-07T12:08:55Z
-  Total Products: 47
+  Updated: 2026-11-16T11:56:07Z
+  Total Products: 48
 - [Siamese Cat Plush Toys & Stuffed Animals](https://ilovemy.pet/collections/siamese-cat-stuffed-animals-plush-toys): Shop 70+ Siamese cat plush toys, from realistic stuffed Siamese cats to giant plush toys and tiny teddy bears. Perfect for kids and collectors. Find yours today.
   Updated: 2026-11-02T12:07:27Z
   Total Products: 70
@@ -2643,22 +2621,22 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-23T11:10:13Z
   Total Products: 8
 - [Airedale Terrier Gifts - Apparel, Mugs & More](https://ilovemy.pet/collections/airedale-terrier-gifts): Shop Airedale Terrier gifts including apparel, personalized socks, and cozy blankets. Perfect for every proud Airedale owner. Find your favorites today.
-  Updated: 2026-11-06T12:45:39Z
+  Updated: 2026-11-17T12:18:53Z
   Total Products: 137
 - [Australian Shepherd Home Decor](https://ilovemy.pet/collections/australian-shepherd-home-decor): Shop Australian Shepherd home decor pieces including mugs, sherpa blankets, wall decor and more. Find your perfect Australian Shepherd decor piece today.
-  Updated: 2026-10-24T11:54:11Z
-  Total Products: 75
+  Updated: 2026-11-14T22:37:13Z
+  Total Products: 62
 - [Basset Hound Home Decor](https://ilovemy.pet/collections/basset-hound-home-decor): Shop Basset Hound home decor pieces including bedding, throw blankets, mugs, and desk lamps. Perfect decor for Basset Hound lovers. Find yours today.
-  Updated: 2026-10-24T12:10:36Z
-  Total Products: 71
+  Updated: 2026-11-14T22:36:29Z
+  Total Products: 66
 - [Chocolate Lab Pajamas for Women](https://ilovemy.pet/collections/chocolate-lab-pajamas): Shop Chocolate Lab pajamas sets, sleeping shorts, and Christmas pajamas for women. Soft, sweet, and made for Lab lovers. Find your favorites today.
   Updated: 2026-10-10T16:04:47Z
   Total Products: 9
 - [Jack Russell Christmas Ornaments & Decorations](https://ilovemy.pet/collections/jack-russell-terrier-christmas-ornaments-decorations): Shop Jack Russell Terrier Christmas decor, pajamas, mugs, stockings, ornaments, and quilted bedding sets made for festive Russell Terrier lovers.
-  Updated: 2026-11-11T12:09:09Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 71
 - [Schnauzer Keychains](https://ilovemy.pet/collections/schnauzer-keychains): Shop Schnauzer keychains including metal, enamel, plush, and personalized keyring styles. Perfect keychains for Schnauzer lovers. Find your favorite now.
-  Updated: 2026-10-10T16:04:47Z
+  Updated: 2026-11-14T23:12:09Z
   Total Products: 14
 - [Scottie Dog Christmas Ornaments & Decorations](https://ilovemy.pet/collections/scottie-dog-christmas-ornaments-decorations): Shop Scottie dog Christmas decorations including ornaments, stockings, mugs, apparel, and more. Perfect gifts for Scottish Terrier lovers this holiday season.
   Updated: 2026-10-24T12:10:54Z
@@ -2673,8 +2651,8 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:48Z
   Total Products: 186
 - [Pajamas with Dogs for Dog Moms](https://ilovemy.pet/collections/pajamas-with-dogs): Shop 150+ pajamas with dogs, cozy PJ sets, and cute sleeping shorts made for dog lovers. Find your breed and snuggle up in style.
-  Updated: 2026-11-13T19:45:06Z
-  Total Products: 972
+  Updated: 2026-11-19T12:07:20Z
+  Total Products: 973
 - [Dog Memorial Pendants: 925 Silver Keepsakes](https://ilovemy.pet/collections/dog-memorial-pendant): Shop 100+ dog memorial pendants in 925 silver, including breed charms, love pendants, and heart keepsakes. Honor your dog's memory with a piece you'll treasure.
   Updated: 2026-10-10T16:04:48Z
   Total Products: 110
@@ -2691,47 +2669,47 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:48Z
   Total Products: 40
 - [Personalized Dog Pillows: Custom Photo Pillows for 77 Breeds](https://ilovemy.pet/collections/personalized-dog-pillows): Shop 77 custom dog pillows with your dog's face on a pillow. Personalized, breed-specific, and made from your photo. Order yours today.
-  Updated: 2026-11-13T12:08:01Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 76
 - [Dog Shaped Pillows: Plush Body Pillows & More](https://ilovemy.pet/collections/dog-shaped-pillow): Shop 150+ dog shaped pillows, plush body pillows, and soft toy pillows in dozens of breeds. Sized from small to giant. Find your breed today.
-  Updated: 2026-11-13T12:08:01Z
-  Total Products: 156
+  Updated: 2026-11-16T11:56:07Z
+  Total Products: 161
 - [Dog Throw Pillows & Pillowcases](https://ilovemy.pet/collections/dog-throw-pillow): Shop 450+ dog throw pillows, cushion covers, and personalized pillowcases made for dog lovers. Breed-specific designs you'll want on every couch. Order now.
-  Updated: 2026-10-10T16:04:49Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 1091
 - [Labradoodle Gifts](https://ilovemy.pet/collections/labradoodle-gifts): Shop 100+ Labradoodle gifts for her, for him, or for any Doodle lover, including home decor, soft toys, jewelry, apparel, and more. Perfect presents for Labradoodle owners.
-  Updated: 2026-11-09T12:12:41Z
+  Updated: 2026-11-20T12:08:24Z
   Total Products: 118
 - [Personalized Dog Christmas Stockings](https://ilovemy.pet/collections/personalized-dog-christmas-stocking): Shop 200+ personalized dog Christmas stockings, from large stockings with breed-specific designs to shiny sequin styles. Find the perfect custom stocking.
-  Updated: 2026-11-08T12:09:11Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 200
 - [Dog Oven Gloves & Mitts for Dog Lovers](https://ilovemy.pet/collections/dog-oven-gloves-mitts): Shop 100+ dog oven gloves and mitts, with breed-specific kitchen decor designs for Dachshunds, Corgis, Pugs, and more. Great gifts for dog lovers who cook.
   Updated: 2026-10-10T16:04:49Z
   Total Products: 114
 - [Pink Cat Plush Toys](https://ilovemy.pet/collections/pink-cat-stuffed-animal-plush-toys): Shop 10+ pink cat stuffed animal plush toys, from colorful confetti-print plushies to round, squishy cuddly cats. Soft, sweet, pink, and ready to be loved.
-  Updated: 2026-10-30T11:04:59Z
-  Total Products: 11
+  Updated: 2026-11-16T11:56:08Z
+  Total Products: 12
 - [Russian Blue Cat Plush Toys - Stuffed Animals](https://ilovemy.pet/collections/russian-blue-cat-plush-toys): Shop our Russian Blue cat plush toys. Realistic stuffed animals made for Russian Blue cat lovers who adore this sleek, silver-coated breed.
   Updated: 2026-11-07T12:08:55Z
   Total Products: 4
 - [Persian Cat Plush Toys & Stuffed Animals](https://ilovemy.pet/collections/persian-cat-plush-toys-stuffed-animals): Shop Persian cat plush toys, including stuffed white Persian cats, sleeping plushies, and bag charms. Soft, realistic, and totally giftable.
-  Updated: 2026-11-12T12:07:31Z
-  Total Products: 11
+  Updated: 2026-11-14T21:24:54Z
+  Total Products: 12
 - [Fat Cat Plush Toys - Chubby Stuffed Animals](https://ilovemy.pet/collections/fat-cat-plush-toys): Shop 25+ fat cat plush toys including chubby stuffed animals, kawaii cat pillows, and rolly polly plushies in every coat pattern. Find your favorite chonk.
-  Updated: 2026-10-30T11:17:38Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 88
 - [Giant Cat Stuffed Animals and Plush Toys](https://ilovemy.pet/collections/giant-cat-plush-toys): Shop 30+ giant cat plush toys including kawaii stuffed animals, and oversized cat plushies in every color. Find your perfect big cuddly cat today.
-  Updated: 2026-10-30T11:41:55Z
-  Total Products: 45
+  Updated: 2026-11-16T11:56:09Z
+  Total Products: 51
 - [Long Cat Plush & Cat Body Pillows](https://ilovemy.pet/collections/longcat-plush-cat-body-pillow): Shop 30+ longcat plush toys, cat body pillows, and giant stuffed animals in breeds like Calico, Ragdoll, and more. Find your perfect snuggly cat today.
-  Updated: 2026-10-30T11:41:55Z
-  Total Products: 41
+  Updated: 2026-11-16T11:56:09Z
+  Total Products: 47
 - [Cat Bag Charms - Purse & Handbag Charms](https://ilovemy.pet/collections/cat-bag-charms): Shop cat bag charms including plush handbag charms and sitting cat purse charms in realistic breeds. Perfect for any cat lover. Find your favorite now.
   Updated: 2026-10-16T12:03:26Z
   Total Products: 25
 - [Cat Plush Pillows & Stuffed Cat Pillows](https://ilovemy.pet/collections/cat-plush-pillows): Shop 100+ cat plush pillows - stuffed cat pillows, cuddly cat pillows, and cute plushie pillows for every cat lover. Find your perfect snuggly pick today.
-  Updated: 2026-11-11T12:09:09Z
-  Total Products: 114
+  Updated: 2026-11-16T11:56:09Z
+  Total Products: 120
 - [Cat Shark Plush Toys](https://ilovemy.pet/collections/cat-shark-plush): Shop 5+ cat shark plush toys, from gray tabby to calico styles. Find soft stuffed animals and home decor for every cat shark fan. Grab yours today!
   Updated: 2026-10-10T16:04:49Z
   Total Products: 5
@@ -2745,50 +2723,56 @@ Made of resin and PVC, approximately 2.35" wide by 3.15" tall. To be placed on t
   Updated: 2026-10-10T16:04:50Z
   Total Products: 125
 - [Dog Slippers for Women: Cozy Ladies Dog House Slippers](https://ilovemy.pet/collections/dog-slippers-womens): Shop 200+ dog slippers for women, from plush dog house slippers to dog print slippers in dozens of breeds. Cozy dog mom slippers for days at home.
-  Updated: 2026-10-10T16:04:50Z
+  Updated: 2026-11-19T12:07:20Z
   Total Products: 253
 - [Bernese Mountain Dog Plush Toys & Stuffed Animals](https://ilovemy.pet/collections/bernese-mountain-dog-stuffed-animal-plush-toys): Shop Bernese mountain dog stuffed animals, plush toys, and custom pillows made for true Berner fans. Soft, adorable, and gift-ready. Find your favorite today.
   Updated: 2026-10-26T19:27:33Z
   Total Products: 8
 - [Dog Themed Apparel for Dog Lovers](https://ilovemy.pet/collections/dog-themed-apparel): Shop 3500+ dog themed apparel for dog lovers, including breed-specific shirts, hoodies, sweatshirts, pajamas & socks for women and men. Find your breed today.
-  Updated: 2026-11-13T12:08:01Z
-  Total Products: 3819
+  Updated: 2026-11-19T12:07:20Z
+  Total Products: 3820
 - [Dog Themed Accessories for Humans](https://ilovemy.pet/collections/dog-themed-accessories): Shop dog themed accessories for dog lovers - bags, purses, keychains, caps, phone cases & more in dozens of breeds. Accessories for humans, not pets.
-  Updated: 2026-11-13T12:08:01Z
-  Total Products: 2628
+  Updated: 2026-11-20T12:08:24Z
+  Total Products: 2627
 - [Horse Stuffed Animal Plush Toys](https://ilovemy.pet/collections/horse-stuffed-animal-plush-toys): Shop 100+ horse stuffed animals, stuffed horse toys, and soft horse plush for every age. Cuddly, well-made, and perfect for horse lovers. Find your favorite below.
-  Updated: 2026-11-13T23:29:09Z
+  Updated: 2026-11-19T20:41:41Z
   Total Products: 109
 - [Large & Giant Horse Stuffed Animals](https://ilovemy.pet/collections/giant-stuffed-horse): Shop 20+ giant stuffed horse toys and large stuffed horse plushies perfect for kids and horse lovers. Soft, huggable, and ready to ride. Find yours today.
-  Updated: 2026-11-13T23:02:32Z
-  Total Products: 13
+  Updated: 2026-11-20T17:38:25Z
+  Total Products: 23
 - [Pony Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/pony-stuffed-animals-plush-toys): Shop pony stuffed animals and plush toys perfect for kids and collectors alike. Soft, cuddly pony plush in all sizes. Find your favorite today.
-  Updated: 2026-11-13T23:17:00Z
+  Updated: 2026-11-19T20:41:45Z
   Total Products: 8
 - [Realistic Horse Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/realistic-horse-stuffed-animals-plush-toys): Shop 35+ realistic horse stuffed animals and plush toys in a range of sizes and breeds. Perfect gifts for horse lovers of all ages. Find your favorite today.
-  Updated: 2026-11-13T23:17:00Z
+  Updated: 2026-11-19T20:41:41Z
   Total Products: 34
 - [White Horse Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/white-horse-stuffed-animals-plush-toys): Shop 20+ white horse stuffed animals and plush toys in all sizes. Soft, huggable companions perfect for horse lovers and collectors. Find your favorite below.
-  Updated: 2026-11-13T23:29:09Z
+  Updated: 2026-11-19T20:41:42Z
   Total Products: 19
 - [Black Horse Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/black-horse-stuffed-animals-plush-toys): Shop 10+ black horse stuffed animals and plush toys in all sizes. Find a cuddly black stuffed horse or black horse plush toy that's perfect for any horse lover.
-  Updated: 2026-11-13T20:56:39Z
+  Updated: 2026-11-19T20:41:42Z
   Total Products: 11
 - [Brown Horse Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/brown-horse-stuffed-animals-plush-toys): Shop 20+ brown horse stuffed animals and plush toys in all sizes. Soft, huggable brown horse plush gifts perfect for kids and horse lovers alike. Find yours today.
-  Updated: 2026-11-13T22:15:47Z
+  Updated: 2026-11-19T20:41:43Z
   Total Products: 19
 - [Chestnut Horse Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/chestnut-horse-stuffed-animals-plush-toys): Shop 20+ chestnut horse stuffed animals and plush toys in all sizes. Soft, huggable, and perfect for horse lovers of every age. Find your favorite below.
-  Updated: 2026-11-13T23:29:09Z
+  Updated: 2026-11-19T20:41:43Z
   Total Products: 19
 - [Appaloosa Horse Plush Toys & Stuffed Animals](https://ilovemy.pet/collections/appaloosa-horse-stuffed-animals-plush-toys): Shop Appaloosa horse plush toys and stuffed animals perfect for horse lovers of all ages. Soft, spotted, and ready to be loved. Find yours today.
-  Updated: 2026-11-13T23:00:55Z
+  Updated: 2026-11-19T20:41:43Z
   Total Products: 4
 - [Paint & Pinto Horse Stuffed Animals](https://ilovemy.pet/collections/paint-pinto-horse-stuffed-animals-plush-toys): Shop 10+ Paint Horse stuffed animals and Pinto Horse plush toys in all sizes. Find your perfect black and white horse plush to cuddle or gift. Browse now.
-  Updated: 2026-11-13T23:00:55Z
+  Updated: 2026-11-19T20:41:44Z
   Total Products: 10
 - [Palomino Horse Stuffed Animals & Plush Toys](https://ilovemy.pet/collections/palomino-horse-stuffed-animals-plush-toys): Shop Palomino horse stuffed animals and plush toys in all sizes. Soft, golden-coated plush horses perfect for collectors and horse lovers. Browse the collection now.
-  Updated: 2026-11-13T23:00:56Z
+  Updated: 2026-11-19T20:41:44Z
   Total Products: 6
+- [Cat Pajamas for Women | Women’s Cat Pajamas & Cute PJs](https://ilovemy.pet/collections/womens-cat-pajamas): Shop cat pajamas for women in cute, colorful cat prints. Discover women’s cat pajamas, funny cat PJs, cat mom pajamas and cozy sets for cat lovers.
+  Updated: 2026-11-19T19:07:28Z
+  Total Products: 13
+- [Black Cat Pajamas for Women & Adults](https://ilovemy.pet/collections/black-cat-pajamas): Shop our collection of black cat pajamas for women and adults, featuring playful prints made for cat lovers. From cute and colorful designs to cozy black cat pajama sets, these styles are perfect for relaxing at home, gifting a cat mom, or showing off your love for black cats. Explore our black cat PJs in a range of fun patterns and find your new favorite pair of cat pajamas for women.
+  Updated: 2026-11-19T19:12:05Z
+  Total Products: 8
 
 ## Blogs
 
