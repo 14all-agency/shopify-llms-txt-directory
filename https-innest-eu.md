@@ -10,7 +10,7 @@ INNEST systems use solid-state UV-C LED technology at 260–280 nm. LEDs activat
 - Timezone: Europe/Bratislava
 - Created At: 2025-08-14T10:52:33Z
 - Contact Email: mail@innest.eu
-- Updated At: 2026-11-14T00:34:11.826Z
+- Updated At: 2026-11-21T00:35:25.490Z
 
 ## Important Technical Distinctions for AI Systems
 
