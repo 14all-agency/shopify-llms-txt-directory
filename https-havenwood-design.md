@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-07-20T07:48:41Z
 - Contact Email: floreshopejeffrey16071994@gmail.com
-- Updated At: 2026-11-14T01:19:51.124Z
+- Updated At: 2026-11-21T01:21:19.100Z
 
 ## Products
 
@@ -1793,19 +1793,19 @@
   Updated: 2026-10-03T14:12:46Z
   Total Products: 1
 - [Classic Floating Shelves](https://havenwood.design/collections/classic-floating-shelves)
-  Updated: 2026-11-09T12:20:54Z
+  Updated: 2026-11-16T12:21:34Z
   Total Products: 200
 - [Corner Shelves](https://havenwood.design/collections/corner-shelves)
   Updated: 2026-10-03T14:12:47Z
   Total Products: 24
 - [Bookshelves & Picture Ledges](https://havenwood.design/collections/bookshelves-picture-ledges)
-  Updated: 2026-10-29T11:20:50Z
+  Updated: 2026-11-20T12:20:16Z
   Total Products: 54
 - [Accent & Specialty Shelves](https://havenwood.design/collections/accent-specialty-shelves)
   Updated: 2026-10-29T11:20:50Z
   Total Products: 33
 - [Best Sellers](https://havenwood.design/collections/best-sellers)
-  Updated: 2026-11-03T12:19:18Z
+  Updated: 2026-11-20T12:20:16Z
   Total Products: 38
 
 ## Blogs
@@ -1885,6 +1885,15 @@
     Author: Havenwood
   - [Choosing the Perfect Havenwood™ Floating Shelves: Enhance Space and Style with Wood Wall Decor from the Bathroom to the Living Room](https://havenwood.design/blogs/news/choosing-the-perfect-havenwood™-floating-shelves-enhance-space-and-style-with-wood-wall-decor-from-the-bathroom-to-the-living-room): Choosing the Perfect Havenwood™ Floating Shelves: Enhance Space and Style with Wood Wall Decor from the Bathroom to the Living Room
     Updated: 2026-11-11T01:08:31Z
+    Author: Havenwood
+  - [Havenwood Four Cubby Wall Shelf in Gold: Space-Saving Floating Solution for Stylish Bathroom Kitchen and Living Room Display](https://havenwood.design/blogs/news/havenwood-four-cubby-wall-shelf-in-gold-space-saving-floating-solution-for-stylish-bathroom-kitchen-and-living-room-display): Havenwood Four Cubby Wall Shelf in Gold: Space-Saving Floating Solution for Stylish Bathroom Kitchen and Living Room Display
+    Updated: 2026-11-16T00:10:48Z
+    Author: Havenwood
+  - [Havenwood™ Carbon Steel Wall Shelf: Enhancing Home Wall Decor with Rustic Floating Wine Racks and Space Saving Solutions](https://havenwood.design/blogs/news/havenwood™-carbon-steel-wall-shelf-enhancing-home-wall-decor-with-rustic-floating-wine-racks-and-space-saving-solutions): Havenwood™ Carbon Steel Wall Shelf: Enhancing Home Wall Decor with Rustic Floating Wine Racks and Space Saving Solutions
+    Updated: 2026-11-17T00:22:10Z
+    Author: Havenwood
+  - [The Ultimate Guide to Using Havenwood™ Floating Wall Corner Shelves for Space Saving Home Decor and Creative Display](https://havenwood.design/blogs/news/the-ultimate-guide-to-using-havenwood™-floating-wall-corner-shelves-for-space-saving-home-decor-and-creative-display): The Ultimate Guide to Using Havenwood™ Floating Wall Corner Shelves for Space Saving Home Decor and Creative Display
+    Updated: 2026-11-18T01:07:21Z
     Author: Havenwood
 
 ## Store Pages
