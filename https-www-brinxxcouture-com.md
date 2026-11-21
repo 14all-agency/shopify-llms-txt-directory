@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2026-11-14T00:44:05.469Z
+- Updated At: 2026-11-21T00:52:51.986Z
 
 ## Products
 
@@ -428,7 +428,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Straight-Synthetic-Wig-26-Brinxx-Couture-3851.jpg?v=1739988465
   Price: $33.00 USD
 - [Side Slit Drop Shoulder Sweatshirt - Brinxx Couture](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt): Stay stylish while staying comfy with this chic Side Slit Drop Shoulder Sweatshirt. Featuring a unique design with a dramatic side slit, this cozy garment is perfect for everyday wear and special occasions. Its drop shoulder cut ensures maximum comfort and freedom of movement.
-  Updated: 2026-10-31T12:03:45Z
+  Updated: 2026-11-18T00:20:55Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -458,19 +458,19 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-6583.jpg?v=1739988605
     Price: $31.00 USD
   - [White / M](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461222582)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-6583.jpg?v=1739988605
     Price: $31.00 USD
   - [White / L](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461255350)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-6583.jpg?v=1739988605
     Price: $31.00 USD
   - [White / XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461288118)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-6583.jpg?v=1739988605
     Price: $31.00 USD
   - [White / 2XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461320886)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-6583.jpg?v=1739988605
     Price: $31.00 USD
   - [Pink / S](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461353654)
@@ -502,7 +502,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-5232.jpg?v=1739988629
     Price: $31.00 USD
   - [Dull Blue / L](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461583030)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-5232.jpg?v=1739988629
     Price: $31.00 USD
   - [Dull Blue / XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461615798)
@@ -534,15 +534,15 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-5010.jpg?v=1739988641
     Price: $31.00 USD
   - [Gray / S](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461845174)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-1202.jpg?v=1739988662
     Price: $31.00 USD
   - [Gray / M](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461877942)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-1202.jpg?v=1739988662
     Price: $31.00 USD
   - [Gray / L](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461910710)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-1202.jpg?v=1739988662
     Price: $31.00 USD
   - [Gray / XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461943478)
@@ -2166,7 +2166,7 @@
   Updated: 2026-07-08T20:15:34Z
   Total Products: 0
 - [Dresses](https://www.brinxxcouture.com/collections/dresses): Discover elegant dresses for every occasion. From casual day dresses to formal evening gowns, find your perfect fit and style.
-  Updated: 2026-11-11T07:54:07Z
+  Updated: 2026-11-19T08:19:54Z
   Total Products: 244
 - [Beauty](https://www.brinxxcouture.com/collections/beauty): Discover curated beauty essentials from prestige brands. Premium skincare, makeup, and fragrances that elevate your daily ritual. Free shipping.
   Updated: 2026-07-08T21:35:27Z
@@ -2226,7 +2226,7 @@
   Updated: 2026-10-15T11:17:04Z
   Total Products: 40
 - [Curvy & Confident Tops](https://www.brinxxcouture.com/collections/curvy-confident-tops): Shop stylish plus size tops at Brinxx Couture. Flattering blouses, tees & tunics in sizes XL-5XL. Free shipping on all orders. Embrace your curves.
-  Updated: 2026-11-11T07:23:29Z
+  Updated: 2026-11-16T08:31:53Z
   Total Products: 27
 - [Plus Size Dresses](https://www.brinxxcouture.com/collections/plus-size-dresses): Discover stylish plus size dresses for every occasion at Brinxx Couture. Shop now for trendy designs and unbeatable prices!
   Updated: 2026-11-11T07:58:13Z
