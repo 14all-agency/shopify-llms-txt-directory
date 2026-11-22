@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-05-02T20:36:05Z
 - Contact Email: deniz@sammelsucht-shop.de
-- Updated At: 2026-11-15T00:23:24.624Z
+- Updated At: 2026-11-22T00:30:43.129Z
 
 ## Products
 
@@ -24,7 +24,7 @@
   Availability: Available
   Price: 8,49 € EUR
 - [Azugladis ex 036/191 Double Rare Stürmische Funken kaufen | Sammelsucht](https://sammelsucht-shop.de/products/azugladis-ex-036-191-double-rare-sturmische-funken-de-nm-pokemon): Azugladis ex 036/191 Double Rare Stürmische Funken (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
-  Updated: 2026-09-24T06:29:07Z
+  Updated: 2026-11-17T17:51:51Z
   Vendor: Sammelsucht
   Product Type: Sammelkarte
   Availability: Available
@@ -625,7 +625,7 @@
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_ea088957-e339-4bf3-b4a9-19aa56fd0329.jpg?v=1779992586
   Price: 8,49 € EUR
 - [Grypheldis WHT 145 Weiße Flammen kaufen | Sammelsucht](https://sammelsucht-shop.de/products/grypheldis-wht-145-weisse-flammen-pokemon-karte-deutsch-near-mint): Grypheldis WHT 145 Weiße Flammen (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
-  Updated: 2026-09-24T06:33:50Z
+  Updated: 2026-11-18T15:26:56Z
   Vendor: Sammelsucht
   Product Type: Sammelkarte
   Availability: Available
