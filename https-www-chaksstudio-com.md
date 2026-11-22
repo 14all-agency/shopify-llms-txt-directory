@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-02T16:18:26Z
 - Contact Email: info@chaksstudio.com
-- Updated At: 2026-11-14T00:23:53.304Z
+- Updated At: 2026-11-22T00:20:44.076Z
 
 ## Products
 
@@ -340,6 +340,39 @@
   - [5XL](https://www.chaksstudio.com/products/manik-womens-kantha-embroidered-shirt?variant=50673089773706)
     Availability: Available
     Price: ₹4,500.00 INR
+- [GULNAR SHIRT - WOMEN](https://www.chaksstudio.com/products/gulnar-shirt-women): Gulnar is a relaxed camp-collar shirt in deep red, finished with hand-stitched Kantha embroidery in white thread. Pomegranate vines wind across the shoulders and down the front, with blossoms and fruits drawn in fine running stitches by artisans in West Bengal. The fabric has a subtle woven texture that gives the red depth, and tonal buttons run down the placket to keep the look clean. It has short sleeves and an easy, straight fit that falls loose through the body.
+  Updated: 2026-11-21T19:28:32Z
+  Vendor: CHAKS
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/GULNAR_PRODUCT_1_page-0001.jpg?v=1795071501
+  - [XS](https://www.chaksstudio.com/products/gulnar-shirt-women?variant=72149527396490)
+    Availability: Available
+    Price: ₹3,400.00 INR
+  - [S](https://www.chaksstudio.com/products/gulnar-shirt-women?variant=72149527429258)
+    Availability: Available
+    Price: ₹3,400.00 INR
+  - [M](https://www.chaksstudio.com/products/gulnar-shirt-women?variant=72149527462026)
+    Availability: Available
+    Price: ₹3,400.00 INR
+  - [L](https://www.chaksstudio.com/products/gulnar-shirt-women?variant=72149527494794)
+    Availability: Available
+    Price: ₹3,400.00 INR
+  - [XL](https://www.chaksstudio.com/products/gulnar-shirt-women?variant=72149527527562)
+    Availability: Available
+    Price: ₹3,400.00 INR
+  - [2XL](https://www.chaksstudio.com/products/gulnar-shirt-women?variant=72149527560330)
+    Availability: Available
+    Price: ₹3,400.00 INR
+  - [3XL](https://www.chaksstudio.com/products/gulnar-shirt-women?variant=72149527593098)
+    Availability: Available
+    Price: ₹3,400.00 INR
+  - [4XL](https://www.chaksstudio.com/products/gulnar-shirt-women?variant=72149527625866)
+    Availability: Available
+    Price: ₹3,400.00 INR
+  - [5XL](https://www.chaksstudio.com/products/gulnar-shirt-women?variant=72149527658634)
+    Availability: Available
+    Price: ₹3,400.00 INR
 
 ## Collections
 
@@ -347,17 +380,17 @@
   Updated: 2026-11-06T12:19:19Z
   Total Products: 8
 - [WOMENSWEAR](https://www.chaksstudio.com/collections/womenswear): Discover ‘Transit’, CHAKS’ debut collection of hand-stitched Kantha cotton shirts. Handmade in Bengal, inspired by migration, nostalgia, and everyday craft.
-  Updated: 2026-11-04T12:17:24Z
-  Total Products: 6
+  Updated: 2026-11-19T06:42:30Z
+  Total Products: 7
 - [AVADA - Best Sellers](https://www.chaksstudio.com/collections/avada-best-sellers)
-  Updated: 2026-11-06T12:19:19Z
-  Total Products: 14
+  Updated: 2026-11-19T06:42:30Z
+  Total Products: 15
 - [REKHA SHIRT](https://www.chaksstudio.com/collections/rekha-shirt): Discover the allure of the Rekha Shirt—handmade elegance with stunning kantha stitch embroidery. Elevate your style with kantha embroidery artistry
   Updated: 2026-10-31T06:44:05Z
   Total Products: 8
 - [DALIM](https://www.chaksstudio.com/collections/dalim): Discover the Vibrancy of DALIMStep into the world of DALIM, where bold colors and dynamic designs invigorate your style and accentuate your unique identity. Each item in this carefully curated category breathes life into your wardrobe and home, transforming ordinary moments into extraordinary experiences infused with brilliance and character. Elevate Your Wardrobe: Experience a revolution in fashion as you explore DALIM's stunning selection of apparel and accessories. From eye-catching prints that make you the center of attention to versatile pieces that transition smoothly from day to night, DALIM empowers you to express yourself with confidence. Seamlessly blend creativity and comfort as you redefine what it means to make a statement. Enliven Your Living Space: Reimagine your home with DALIM's artistic accents and houseware. Infuse your surroundings with vibrant hues and eclectic designs that create spaces bursting with energy and warmth. Each piece, crafted with meticulous attention to detail, offers more than just aesthetic appeal—it enhances your environment and enriches daily life. Feel the Passion: Every product tells a story, crafted by passionate artisans dedicated to bringing innovation and joy into your life. With DALIM, embrace products that don't just serve functional purposes but also evoke strong emotions and reflect an appreciation for art and design. Crafted for individuals who dare to defy conventions and embrace their vibrant essence, DALIM isn't merely a collection; it's a lifestyle choice that speaks volumes about your taste and personality. Dive into a world where creativity meets practicality, and every purchase becomes an opportunity to bring more inspiration into your life.Ignite your style and surroundings with the vivid energy of DALIM. Explore our collection now, celebrate your individuality, and transform your everyday experiences into extraordinary adventures by shopping today!
-  Updated: 2026-11-06T12:19:19Z
-  Total Products: 2
+  Updated: 2026-11-19T06:42:30Z
+  Total Products: 3
 
 ## Blogs
 
@@ -367,23 +400,23 @@
     Author: CHAKS STUDIO
     Tags: Artisan made, Chaks, Conscious Consumerism, Craft revival, Ethical fashion, Fashion with Purpose, Handcrafted fashion, Handmade clothing, Indian, Indian crafts, Kantha embroidery, Made in India, Slow fashion, Sustainable fashion, Wearable Art
   - [Elevate Your Style: Luxury Travel Meets Sustainable Indian Fashion](https://www.chaksstudio.com/blogs/news/elevate-your-style-3a-luxury-travel-outfits-26-sustainable-indian-fashion): Elevate Your Style: Luxury Travel Meets Sustainable Indian Fashion
-    Updated: 2026-11-02T03:45:49Z
+    Updated: 2026-11-18T04:31:36Z
     Author: CHAKS STUDIO
     Tags: eco-friendly clothing, Indian fashion, luxury fashion, sustainable style, travel outfits
   - [Harmonizing Worlds: When Jazz Meets Craft at CHAKS Studio](https://www.chaksstudio.com/blogs/news/when-jazz-meets-craft-3a-chaks-x-tamil-jazz-collective): Harmonizing Worlds: When Jazz Meets Craft at CHAKS Studio
-    Updated: 2026-11-02T03:45:44Z
+    Updated: 2026-11-18T04:31:53Z
     Author: CHAKS
     Tags: CHAKS Studio, Craft Collaboration, Cultural Fusion, Jazz, Tamil Jazz
-  - [How Our Shirts Are Made: The Craft Behind Every Chaks Kantha Piece](https://www.chaksstudio.com/blogs/news/handcrafted-kantha-embroidery-shirts-craft)
-    Updated: 2026-08-29T08:18:19Z
+  - [How Our Shirts Are Made: The Craft Behind Every Chaks Kantha Piece](https://www.chaksstudio.com/blogs/news/handcrafted-kantha-embroidery-shirts-craft): How Our Shirts Are Made: The Craft Behind Every Chaks Kantha Piece
+    Updated: 2026-11-18T04:32:45Z
     Author: CHAKS STUDIO
     Tags: Artisan made, Chaks, Conscious Consumerism, Craft Collaboration, Craft revival, Cultural Fusion, eco-friendly clothing, Handcrafted fashion, Handmade clothing, Indian crafts, Slow fashion, Sustainable fashion, travel outfits
-  - [Behind the Design: Introducing the Rekha and Nishaan Handcrafted Shirts](https://www.chaksstudio.com/blogs/news/behind-the-design-rekha-nishaan-shirts)
-    Updated: 2026-08-29T08:16:49Z
+  - [Behind the Design: Introducing the Rekha and Nishaan Handcrafted Shirts](https://www.chaksstudio.com/blogs/news/behind-the-design-rekha-nishaan-shirts): Behind the Design: Introducing the Rekha and Nishaan Handcrafted Shirts
+    Updated: 2026-11-18T04:33:05Z
     Author: CHAKS STUDIO
     Tags: Artisan made, Chaks, CHAKS Studio, Conscious Consumerism, Craft Collaboration, Craft revival, Cultural Fusion, eco-friendly clothing, Ethical fashion, Fashion with Purpose, Handcrafted fashion, Handmade clothing, Indian, Indian crafts, Indian fashion, Kantha embroidery, luxury fashion, Made in India, Slow fashion, Sustainable fashion, Wearable Art
-  - [Unique Handcrafted Cotton Shirts: Artisan Charm That](https://www.chaksstudio.com/blogs/news/where-can-i-find-unique-handcrafted-cotton-shirts-with-artisan-charm): Unique Handcrafted Cotton Shirts: Artisan Charm That
-    Updated: 2026-11-05T04:34:27Z
+  - [Where to Find Unique Handcrafted Cotton Shirts With Artisan Charm That Last](https://www.chaksstudio.com/blogs/news/where-can-i-find-unique-handcrafted-cotton-shirts-with-artisan-charm): Where to Find Unique Handcrafted Cotton Shirts With Artisan Charm That Last
+    Updated: 2026-11-18T04:32:10Z
     Author: Tapita
     Tags: Artisan Fashion, Handcrafted Cotton Shirts, Handmade Apparel, Sustainable Fashion, Unique Clothing
 
@@ -395,8 +428,8 @@
   Updated: 2025-08-14T03:50:23Z
 - [Your Privacy Choices](https://www.chaksstudio.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-07-26T11:13:23Z
-- [Contemporary Indian Fashion With an Ethical Edge: Style With Purpose](https://www.chaksstudio.com/pages/contemporary-indian-fashion-with-an-ethical-edge-style-with-purpose): /* FAQ Accordion - Neutral Default Style */ .tptb-faq-accordion { width: 100%; margin: 16px 0; font-family: inherit; } .tptb-faq-header { text-alig...
-  Updated: 2026-10-31T06:04:15Z
+- [Contemporary Indian Fashion With an Ethical Edge: Style With Purpose](https://www.chaksstudio.com/pages/contemporary-indian-fashion-with-an-ethical-edge-style-with-purpose): .tptb-product-card { display: flex; width: 100%; max-width: 850px; align-items: stretch; margin: 0 auto; border: 1px solid rgba(0, 0, 0, 0.08); bor...
+  Updated: 2026-11-18T04:32:26Z
 
 ## Policies
 
