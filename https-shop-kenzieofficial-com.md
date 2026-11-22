@@ -83,33 +83,33 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2024-09-27T14:55:39Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-14T01:31:11.347Z
+- Updated At: 2026-11-22T01:08:05.953Z
 
 ## Products
 
 - [Casualty Hoodie](https://shop.kenzieofficial.com/products/casualty-hoodie): 80/20 cotton/polyester hoodie in black Size Chart Size Body Length (in) Chest Width (Laid Flat) Sleeve Length (in) S 27 20 33 1/2 M 28 22 34 1/2 L 29 24 35 1/2 XL 30 26 36 1/2 2XL 31 28 37 1/2 3XL 32 30 38 1/2
-  Updated: 2026-11-04T14:30:16Z
+  Updated: 2026-11-20T13:27:37Z
   Vendor: Kenzie
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/DSC00684.jpg?v=1731946575
   - [S](https://shop.kenzieofficial.com/products/casualty-hoodie?variant=46240569131263)
     Availability: Available
-    Price: $50.00 USD
+    Price: $30.00 USD
   - [M](https://shop.kenzieofficial.com/products/casualty-hoodie?variant=46240569164031)
     Availability: Available
-    Price: $50.00 USD
+    Price: $30.00 USD
   - [L](https://shop.kenzieofficial.com/products/casualty-hoodie?variant=46240569196799)
     Availability: Available
-    Price: $50.00 USD
+    Price: $30.00 USD
   - [XL](https://shop.kenzieofficial.com/products/casualty-hoodie?variant=46240569229567)
     Availability: Available
-    Price: $50.00 USD
+    Price: $30.00 USD
   - [2XL](https://shop.kenzieofficial.com/products/casualty-hoodie?variant=46240569262335)
     Availability: Available
-    Price: $50.00 USD
+    Price: $30.00 USD
 - [Bow Tee](https://shop.kenzieofficial.com/products/portrait-tee): 100% cotton t-shirt in white Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-11-06T22:38:47Z
+  Updated: 2026-11-20T22:14:25Z
   Vendor: Kenzie
   Product Type: T-Shirt
   Availability: Available
@@ -117,141 +117,141 @@ your agent can transact everywhere.
   - [S / No Tour Dates](https://shop.kenzieofficial.com/products/portrait-tee?variant=46240570802431)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/KNZIETee_1a133430-f175-480c-8c0c-a5b02b684f98.png?v=1727722782
-    Price: $20.00 USD
+    Price: $12.00 USD
   - [S / With Tour Dates](https://shop.kenzieofficial.com/products/portrait-tee?variant=46920832483583)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/Kenzie_Bow_Tee_Back.png?v=1749154355
-    Price: $20.00 USD
+    Price: $12.00 USD
   - [M / No Tour Dates](https://shop.kenzieofficial.com/products/portrait-tee?variant=46240570835199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/KNZIETee_1a133430-f175-480c-8c0c-a5b02b684f98.png?v=1727722782
-    Price: $20.00 USD
+    Price: $12.00 USD
   - [M / With Tour Dates](https://shop.kenzieofficial.com/products/portrait-tee?variant=46920832516351)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/Kenzie_Bow_Tee_Back.png?v=1749154355
-    Price: $20.00 USD
+    Price: $12.00 USD
   - [L / No Tour Dates](https://shop.kenzieofficial.com/products/portrait-tee?variant=46240570867967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/KNZIETee_1a133430-f175-480c-8c0c-a5b02b684f98.png?v=1727722782
-    Price: $20.00 USD
+    Price: $12.00 USD
   - [L / With Tour Dates](https://shop.kenzieofficial.com/products/portrait-tee?variant=46920832549119)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/Kenzie_Bow_Tee_Back.png?v=1749154355
-    Price: $20.00 USD
+    Price: $12.00 USD
   - [XL / No Tour Dates](https://shop.kenzieofficial.com/products/portrait-tee?variant=46240570900735)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/KNZIETee_1a133430-f175-480c-8c0c-a5b02b684f98.png?v=1727722782
-    Price: $20.00 USD
+    Price: $12.00 USD
   - [XL / With Tour Dates](https://shop.kenzieofficial.com/products/portrait-tee?variant=46920832581887)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/Kenzie_Bow_Tee_Back.png?v=1749154355
-    Price: $20.00 USD
+    Price: $12.00 USD
   - [2XL / No Tour Dates](https://shop.kenzieofficial.com/products/portrait-tee?variant=46240570933503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/KNZIETee_1a133430-f175-480c-8c0c-a5b02b684f98.png?v=1727722782
-    Price: $20.00 USD
+    Price: $12.00 USD
   - [2XL / With Tour Dates](https://shop.kenzieofficial.com/products/portrait-tee?variant=46920832614655)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/Kenzie_Bow_Tee_Back.png?v=1749154355
-    Price: $20.00 USD
+    Price: $12.00 USD
 - [Bow Tote](https://shop.kenzieofficial.com/products/bow-tote): 100% cotton tote bag in natural
-  Updated: 2026-10-05T13:04:11Z
+  Updated: 2026-11-19T17:22:44Z
   Vendor: Kenzie
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/P1010112.jpg?v=1731946597
-  Price: $20.00 USD
+  Price: $12.00 USD
 - [Logo Sticker](https://shop.kenzieofficial.com/products/logo-sticker): Black die-cut vinyl sticker featuring Kenzie's logo
-  Updated: 2026-11-04T14:30:17Z
+  Updated: 2026-11-20T22:14:32Z
   Vendor: Kenzie
   Product Type: Sticker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/KNZIE_Logo_Sticker.png?v=1738882332
-  Price: $5.00 USD
+  Price: $3.00 USD
 - [Cat Crop Tank](https://shop.kenzieofficial.com/products/cat-crop-tank): 100% combed cotton, baby rib cropped tank top in white. stretches up to 2x its original size. made in the USA. Size Chart Size Body Length (in) Chest Width (in) XS 15 1/4 11 3/4 S 15 3/4 12 3/4 M 16 1/4 13 3/4 L 16 5/8 15 3/4 XL 17 1/8 16 3/4
-  Updated: 2026-10-05T13:04:13Z
+  Updated: 2026-11-19T14:22:09Z
   Vendor: Kenzie
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/Kenzie_Cat_Tank.png?v=1749050290
   - [XS](https://shop.kenzieofficial.com/products/cat-crop-tank?variant=46904153145599)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $21.00 USD
   - [S](https://shop.kenzieofficial.com/products/cat-crop-tank?variant=46904148230399)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $21.00 USD
   - [M](https://shop.kenzieofficial.com/products/cat-crop-tank?variant=46904148263167)
     Availability: Available
-    Price: $35.00 USD
+    Price: $21.00 USD
   - [L](https://shop.kenzieofficial.com/products/cat-crop-tank?variant=46904148295935)
     Availability: Available
-    Price: $35.00 USD
+    Price: $21.00 USD
   - [XL](https://shop.kenzieofficial.com/products/cat-crop-tank?variant=46904148328703)
     Availability: Available
-    Price: $35.00 USD
+    Price: $21.00 USD
 - [Logo Boxer Shorts](https://shop.kenzieofficial.com/products/logo-boxer-shorts): 100% woven cotton shorts in blue stripe with woven label. Single button fly opening. Size Chart Size Half Waist (in) Full Length (in) S 12 1/2 13 3/4 M 13 3/4 14 L 14 3/4 14 1/2 XL 15 3/4 15 2XL 16 3/4 15 1/4
-  Updated: 2026-10-16T16:07:55Z
+  Updated: 2026-11-19T14:22:09Z
   Vendor: Kenzie
   Product Type: Shorts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/KENZIE_Boxer_Shorts.png?v=1748626673
   - [S](https://shop.kenzieofficial.com/products/logo-boxer-shorts?variant=46904156586239)
     Availability: Available
-    Price: $40.00 USD
+    Price: $24.00 USD
   - [M](https://shop.kenzieofficial.com/products/logo-boxer-shorts?variant=46904156619007)
     Availability: Available
-    Price: $40.00 USD
+    Price: $24.00 USD
   - [L](https://shop.kenzieofficial.com/products/logo-boxer-shorts?variant=46904156651775)
     Availability: Available
-    Price: $40.00 USD
+    Price: $24.00 USD
   - [XL](https://shop.kenzieofficial.com/products/logo-boxer-shorts?variant=46904156684543)
     Availability: Available
-    Price: $40.00 USD
+    Price: $24.00 USD
   - [2XL](https://shop.kenzieofficial.com/products/logo-boxer-shorts?variant=46904156717311)
     Availability: Available
-    Price: $40.00 USD
+    Price: $24.00 USD
 - [Embroidered Dad Hat](https://shop.kenzieofficial.com/products/embroidered-dad-hat): 100% cotton twill dad hat in brown.
-  Updated: 2026-10-05T13:04:14Z
+  Updated: 2026-11-21T00:15:38Z
   Vendor: Kenzie
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/KENZIE_Embroidered_Dad_Hat.png?v=1748626673
-  Price: $30.00 USD
+  Price: $18.00 USD
 - [Mutual Destruction Baby Tee](https://shop.kenzieofficial.com/products/mutual-destruction-baby-tee): if we got to loving, it would end up in our mutual destruction ❤️🔥 100% combed cotton baby rib t-shirt in crème; stretches up to 2 times its original size Size Chart Size Body Length (in) Chest Width (in) S 20 7/8 12 1/8 M 21 3/8 13 1/8 L 21 7/8 14 XL 22 3/8 15 2XL 22 7/8 16
-  Updated: 2026-10-05T13:04:16Z
+  Updated: 2026-11-19T18:03:56Z
   Vendor: Kenzie
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/KNZIE_0019_Mutual-Destruction-Tee.png?v=1775595038
   - [S](https://shop.kenzieofficial.com/products/mutual-destruction-baby-tee?variant=48379135951103)
     Availability: Available
-    Price: $35.00 USD
+    Price: $21.00 USD
   - [M](https://shop.kenzieofficial.com/products/mutual-destruction-baby-tee?variant=48379135983871)
     Availability: Available
-    Price: $35.00 USD
+    Price: $21.00 USD
   - [L](https://shop.kenzieofficial.com/products/mutual-destruction-baby-tee?variant=48379136016639)
     Availability: Available
-    Price: $35.00 USD
+    Price: $21.00 USD
   - [XL](https://shop.kenzieofficial.com/products/mutual-destruction-baby-tee?variant=48379136049407)
     Availability: Available
-    Price: $35.00 USD
+    Price: $21.00 USD
   - [2XL](https://shop.kenzieofficial.com/products/mutual-destruction-baby-tee?variant=48379137294591)
     Availability: Available
-    Price: $35.00 USD
+    Price: $21.00 USD
 
 ## Collections
 
 - [Home page](https://shop.kenzieofficial.com/collections/frontpage)
-  Updated: 2026-11-07T12:22:48Z
+  Updated: 2026-11-21T12:21:19Z
   Total Products: 9
 - [Apparel](https://shop.kenzieofficial.com/collections/apparel)
-  Updated: 2026-11-07T12:22:48Z
+  Updated: 2026-11-21T12:21:19Z
   Total Products: 6
 - [All](https://shop.kenzieofficial.com/collections/all)
-  Updated: 2026-11-07T12:22:48Z
+  Updated: 2026-11-21T12:21:19Z
   Total Products: 7
 - [Accessories](https://shop.kenzieofficial.com/collections/accessories)
-  Updated: 2026-11-05T12:29:56Z
+  Updated: 2026-11-21T12:21:19Z
   Total Products: 4
 - [Hats](https://shop.kenzieofficial.com/collections/hats)
   Updated: 2026-07-08T20:52:14Z
@@ -260,10 +260,10 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:52:14Z
   Total Products: 0
 - [Birthday Collection](https://shop.kenzieofficial.com/collections/birthday-collection)
-  Updated: 2026-09-03T11:21:26Z
+  Updated: 2026-11-21T12:21:19Z
   Total Products: 3
 - [Notes from the In Between](https://shop.kenzieofficial.com/collections/notes-from-the-in-between)
-  Updated: 2026-10-06T19:18:42Z
+  Updated: 2026-11-20T12:21:34Z
   Total Products: 3
 
 ## Store Pages
