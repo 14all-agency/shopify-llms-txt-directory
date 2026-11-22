@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-05-29T17:02:00Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-14T01:14:38.991Z
+- Updated At: 2026-11-22T01:09:27.421Z
 
 ## Products
 
@@ -54,7 +54,7 @@
     Availability: Not Available
     Price: $21.00 USD
 - [Flag Long Sleeve Tee - Black](https://craigmorgan.merchmadeeasy.com/products/flag-long-sleeve-tee-black): Flag Long Sleeve Tee in black with front and back print.
-  Updated: 2026-11-11T15:00:09Z
+  Updated: 2026-11-17T18:15:21Z
   Vendor: Craig Morgan
   Product Type: T-Shirt
   Availability: Available
@@ -126,14 +126,14 @@
     Availability: Available
     Price: $21.00 USD
 - [Enlisted Vinyl (SIGNED)](https://craigmorgan.merchmadeeasy.com/products/enlisted-vinyl-signed): SIGNED Enlisted EP on green vinyl This six-track release offers new takes on four of his biggest hits along with two new tracks and includes appearances by an all-star group of performers including Trace Adkins, Luke Combs, Gary LeVox, Jelly Roll, Blake Shelton, and Lainey Wilson. Tracklist:1. Raise The Bar (Craig Morgan & Luke Combs)2. Almost Home (Craig Morgan & Jelly Roll)3. Redneck Yacht Club (Craig Morgan & Blake Shelton)4. That’s What I Love About Sunday (Craig Morgan & Gary LeVox)5. International Harvester (Craig Morgan & Lainey Wilson)6. That Ain’t Gonna Be Me (Craig Morgan & Trace Adkins)
-  Updated: 2026-11-08T13:51:06Z
+  Updated: 2026-11-20T03:47:25Z
   Vendor: Craig Morgan
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMENLISTEDSIGNEDVINYL.png?v=1751386925
   Price: $34.99 USD
 - [Redneck Yacht Club Tee](https://craigmorgan.merchmadeeasy.com/products/redneck-yacht-club-tee): Redneck Yacht Club Tee in "natural" with front and back print.
-  Updated: 2026-11-11T15:00:11Z
+  Updated: 2026-11-21T03:40:15Z
   Vendor: Craig Morgan
   Product Type: T-Shirt
   Availability: Available
@@ -154,7 +154,7 @@
     Availability: Available
     Price: $21.00 USD
 - [Redneck Yacht Club Hat](https://craigmorgan.merchmadeeasy.com/products/redneck-yacht-club-hat): Craig Morgan Redneck Yacht Club Trucker Hat Foam/Mesh, 5 Panel, High Profile 100% Polyester
-  Updated: 2026-11-11T15:00:11Z
+  Updated: 2026-11-20T03:47:25Z
   Vendor: Craig Morgan
   Product Type: Hat
   Availability: Available
@@ -168,7 +168,7 @@
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMRYCKOOZIE.png?v=1753805537
   Price: $3.00 USD
 - [God, Family, Country - Paperback (SIGNED)](https://craigmorgan.merchmadeeasy.com/products/god-family-country-paperback-signed): Craig Morgan's memoir, God, Family, Country on paperback. Autographed on the inside cover. Hunting down bad guys in the jungles of Panama, working with the CIA, rescuing children from prostitution rings—these aren’t scenes out of an action movie; they’re the real-life exploits of Country Music star Craig Morgan. Even the most devoted fans don’t know all there is to know about the singer and dedicated family man. Now they can go directly to the source, as Craig tells all in his new memoir written with American Sniper co-author Jim DeFelice. God, Family, Country details the many facets of Craig's life. An on-stage appearance with his father’s band at age ten may have planted the seeds for life as a country star, but first he trained as a paratrooper in the army. With a range of combat experience and swift advancement through the ranks, he was on his way to the highest enlisted ranks in the army. Then came a momentous decision: he left the active military to pursue music. With unwavering support from his wife and a pack of part-time jobs, Craig toughed out the lean years and achieved his first big success with the poignant ballad “Almost Home.” Other hits soon followed, from party songs like “Redneck Yacht Club” to the soul-rending “The Father, My Son, and the Holy Ghost.” Born from the anguish of his son Jerry’s passing, the song’s tribute has consoled and inspired millions across the world. Duty to country has been a constant throughout his life and globe-spanning career. In 2006, as “That’s What I Love about Sunday” topped country radio charts, Craig was riding in a convoy of Humvees in Iraq. An avid outdoorsman, a former sheriff’s deputy who’s still a member of the auxiliary, and always a husband and father first, Craig Morgan will inspire you with his life lived by the deepest values: God, family, country.
-  Updated: 2026-11-14T00:04:17Z
+  Updated: 2026-11-18T01:12:26Z
   Vendor: Craig Morgan
   Product Type: Book
   Availability: Available
@@ -203,7 +203,7 @@
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMSUNDAYHAT.png?v=1788365573
   Price: $21.00 USD
 - [Eagle Tee](https://craigmorgan.merchmadeeasy.com/products/eagle-tee-1): Eagle Tee in grey with front and back print. 100% Cotton
-  Updated: 2026-11-14T00:04:16Z
+  Updated: 2026-11-18T17:55:46Z
   Vendor: Craig Morgan
   Product Type: T-Shirt
   Availability: Available
@@ -227,70 +227,63 @@
     Availability: Not Available
     Price: $21.00 USD
 - [My Country - CD Craig Morgan](https://craigmorgan.merchmadeeasy.com/products/my-country-cd): My Country on standard CD
-  Updated: 2026-11-12T14:39:26Z
+  Updated: 2026-11-19T00:22:05Z
   Vendor: Craig Morgan
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMMYCOUNTRYCD-2_2d517ad3-16a8-491c-93bb-65a55b9b77b3.png?v=1789585981
   Price: $14.98 USD
 - [My Country - CD Craig Morgan](https://craigmorgan.merchmadeeasy.com/products/my-country-cd-signed): My Country on SIGNED standard CD
-  Updated: 2026-11-13T17:48:00Z
+  Updated: 2026-11-21T05:39:25Z
   Vendor: Craig Morgan
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMMYCOUNTRYSIGNEDCD.png?v=1789586044
   Price: $19.98 USD
-- [Enlisted CD](https://craigmorgan.merchmadeeasy.com/products/enlisted-cd): This six-track release offers new takes on four of his biggest hits along with two new tracks and includes appearances by an all-star group of performers including Trace Adkins, Luke Combs, Gary LeVox, Jelly Roll, Blake Shelton, and Lainey Wilson. Tracklist:1. Raise The Bar (Craig Morgan & Luke Combs)2. Almost Home (Craig Morgan & Jelly Roll)3. Redneck Yacht Club (Craig Morgan & Blake Shelton)4. That’s What I Love About Sunday (Craig Morgan & Gary LeVox)5. International Harvester (Craig Morgan & Lainey Wilson)6. That Ain’t Gonna Be Me (Craig Morgan & Trace Adkins)
-  Updated: 2026-11-12T14:39:26Z
-  Vendor: Craig Morgan
-  Product Type: CD
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CM_ENLISTED_CD.png?v=1794263481
-  Price: $9.99 USD
 
 ## Collections
 
 - [Home page](https://craigmorgan.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-13T12:21:07Z
+  Updated: 2026-11-21T12:18:33Z
   Total Products: 35
 - [Apparel](https://craigmorgan.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-11T15:00:15Z
+  Updated: 2026-11-21T12:18:33Z
   Total Products: 19
 - [Accessories](https://craigmorgan.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-13T12:21:07Z
+  Updated: 2026-11-20T12:18:47Z
   Total Products: 9
 - [All](https://craigmorgan.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-13T12:21:07Z
-  Total Products: 22
+  Updated: 2026-11-21T12:18:33Z
+  Total Products: 21
 - [Music](https://craigmorgan.merchmadeeasy.com/collections/music)
-  Updated: 2026-11-13T12:21:07Z
+  Updated: 2026-11-21T12:18:33Z
   Total Products: 9
 - [VIP TICKETS](https://craigmorgan.merchmadeeasy.com/collections/vip)
   Updated: 2026-11-11T22:09:48Z
   Total Products: 61
 - [Upsell](https://craigmorgan.merchmadeeasy.com/collections/upsell)
-  Updated: 2026-11-11T15:00:14Z
+  Updated: 2026-11-20T12:18:47Z
   Total Products: 9
 - [LABOR DAY ](https://craigmorgan.merchmadeeasy.com/collections/labor-day-)
-  Updated: 2026-11-11T15:00:15Z
+  Updated: 2026-11-21T12:18:33Z
   Total Products: 19
 - [$20 Tees](https://craigmorgan.merchmadeeasy.com/collections/20-tees)
-  Updated: 2026-11-11T15:00:12Z
+  Updated: 2026-11-21T12:18:33Z
   Total Products: 10
 - [$30 Hoodies](https://craigmorgan.merchmadeeasy.com/collections/30-hoodies)
   Updated: 2026-11-09T17:51:27Z
   Total Products: 3
 - [Spring Break Markdowns](https://craigmorgan.merchmadeeasy.com/collections/spring-break-markdowns)
-  Updated: 2026-11-11T15:00:14Z
+  Updated: 2026-11-21T12:18:33Z
   Total Products: 10
 - [BUY ONE, GET ONE FOR $2.50](https://craigmorgan.merchmadeeasy.com/collections/buy-one-get-one-for-2-50)
-  Updated: 2026-11-11T15:00:15Z
+  Updated: 2026-11-21T12:18:33Z
   Total Products: 7
 - [My Country](https://craigmorgan.merchmadeeasy.com/collections/my-country)
-  Updated: 2026-11-13T12:21:07Z
+  Updated: 2026-11-21T12:18:33Z
   Total Products: 2
 - [40% Off](https://craigmorgan.merchmadeeasy.com/collections/40-off)
-  Updated: 2026-11-11T15:00:15Z
+  Updated: 2026-11-21T12:18:33Z
   Total Products: 12
 
 ## Store Pages
