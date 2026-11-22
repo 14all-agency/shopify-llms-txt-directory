@@ -6,12 +6,12 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2026-07-17T10:31:35Z
 - Contact Email: apexevlabs@gmail.com
-- Updated At: 2026-11-15T00:19:55.103Z
+- Updated At: 2026-11-22T00:21:44.069Z
 
 ## Products
 
 - [Tesla Touchscreen Swivel Mount – 360° Tilt & Rotate | Apex EV Labs](https://apexevlabs.com/products/apex-360-cockpit-swivel-screen-mount-kit): Eliminate sun glare and improve ergonomics with the Apex 360° swivel screen mount for Tesla. Aerospace-grade aluminum, zero wobble, no permanent modifications.
-  Updated: 2026-11-14T20:52:46Z
+  Updated: 2026-11-21T15:28:15Z
   Vendor: Apex EV Labs
   Product Type: 
   Availability: Available
@@ -151,7 +151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/E0897737-772E-4EA9-9053-E70038738238.jpg?v=1785854888
   Price: $289.00 USD
 - [Apex Screen-Edge Pro™ – Foldable MagSafe EV Phone Mount | Apex EV Labs](https://apexevlabs.com/products/apex-screen-edge-pro-magsafe-ev-mount): The cleanest MagSafe phone mount for Tesla Model 3/Y & modern EVs. Folds flat behind your screen. No vents, no clutter. Ships in 24hrs. Shop now.
-  Updated: 2026-11-09T21:57:05Z
+  Updated: 2026-11-21T22:31:56Z
   Vendor: Apex EV Labs
   Product Type: 
   Availability: Available
@@ -622,7 +622,7 @@
     Availability: Available
     Price: $339.99 USD
 - [Apex AutoShade Pro™ | Automatic Retractable Windshield Sunshade for Tesla & Any Car](https://apexevlabs.com/products/apex-autoshade-pro): Block heat before it builds. The Apex AutoShade Pro deploys in one touch, retracts flush when you drive, and is custom-cut for Tesla Model 3, Model Y, Model S, Model X — or any car. No tools, no folding, no oven cabin.
-  Updated: 2026-11-13T22:09:57Z
+  Updated: 2026-11-21T22:33:37Z
   Vendor: Apex EV Labs
   Product Type: Sunshade
   Availability: Available
@@ -733,7 +733,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Magnetic Mini Head Buddy - Tesla Car Interior Figurine](https://apexevlabs.com/products/magnetic-mini-head-buddy): Fun magnetic mini head figurine for your car's interior. Snaps onto Tesla and most vehicle dashboards. A quirky collectible gift for car lovers.
-  Updated: 2026-11-14T06:19:56Z
+  Updated: 2026-11-21T23:07:45Z
   Vendor: Apex EV Labs
   Product Type: 
   Availability: Available
@@ -924,7 +924,7 @@
     Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/apex-alcantara-kit-orange.jpg?v=1788191951
     Price: $339.00 USD
 - [Tesla Cyberstick Vent Fragrance Diffuser | Apex EV Labs](https://apexevlabs.com/products/apex-cyberstick-vent-fragrance-diffuser): Flush-mount fragrance diffuser for the refreshed Model 3 and 2025 Model Y air outlet. Three scents included. 288 reviews, 5.0 stars.
-  Updated: 2026-11-04T09:29:17Z
+  Updated: 2026-11-16T03:41:31Z
   Vendor: Apex EV Labs
   Product Type: Interior Accessories
   Availability: Available
@@ -964,7 +964,7 @@
     Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/acw-white-1.png?v=1788288806
     Price: $599.00 USD
 - [Apex SkyShade™ — Retractable Glass Roof Sun Shade for Tesla Model 3 Highland](https://apexevlabs.com/products/tesla-model-3-highland-retractable-glass-roof-sun-shade): Shop the Apex SkyShade™ — a precision-fit retractable roller sun shade for the 2024–2026 Tesla Model 3 Highland glass roof. Blocks 99% UV & 90% solar heat. Installs in 30 seconds, no tools needed. Free shipping.
-  Updated: 2026-10-07T01:41:27Z
+  Updated: 2026-11-21T18:08:06Z
   Vendor: Apex EV Labs
   Product Type: 
   Availability: Available
@@ -978,7 +978,7 @@
     Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/asky-black-install.jpg?v=1788341282
     Price: $359.99 USD
 - [Tesla Model Y Hidden Trunk Fridge 2020–2026 | 16L Compressor, −6°C | Apex Glacier](https://apexevlabs.com/products/tesla-model-y-hidden-trunk-fridge): A real compressor fridge hidden in the Model Y trunk side wall. 16L holds 20 cans, chills to −6°C, ECO mode, low-voltage protection, zero floor space lost. One version for Model Y 2020–2024, one for Model Y 2025–2026 Juniper. 20-minute reversible install, free tracked shipping.
-  Updated: 2026-11-02T02:29:45Z
+  Updated: 2026-11-17T05:08:06Z
   Vendor: Apex EV Labs
   Product Type: Fridge
   Availability: Available
@@ -1024,7 +1024,7 @@
   Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/1ee6f42d-22b4-4940-ba6c-00f2e2e89adc.jpg?v=1789051122
   Price: $59.00 USD
 - [Apex AutoCover™ – Automatic Solar Car Cover with Remote | Apex EV Labs](https://apexevlabs.com/products/apex-autocover-automatic-solar-car-cover): Press once and your car is covered in 10 seconds. Solar-charged, 4-layer waterproof cover with touch alarm. Sized to your car, free worldwide shipping.
-  Updated: 2026-11-11T19:36:36Z
+  Updated: 2026-11-21T08:33:54Z
   Vendor: Apex EV Labs
   Product Type: Car Cover
   Availability: Available
@@ -1032,21 +1032,21 @@
   - [Graphite Black](https://apexevlabs.com/products/apex-autocover-automatic-solar-car-cover?variant=52626898616551)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/autocover-colour-black.jpg?v=1789317202
-    Price: $299.00 USD
+    Price: $269.00 USD
   - [Silver](https://apexevlabs.com/products/apex-autocover-automatic-solar-car-cover?variant=52626898649319)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/autocover-colour-silver.jpg?v=1789317202
-    Price: $299.00 USD
+    Price: $269.00 USD
   - [Champagne Gold](https://apexevlabs.com/products/apex-autocover-automatic-solar-car-cover?variant=52626898682087)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/autocover-colour-gold.jpg?v=1789317202
-    Price: $299.00 USD
+    Price: $269.00 USD
   - [Pearl White](https://apexevlabs.com/products/apex-autocover-automatic-solar-car-cover?variant=52626928173287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/autocover-colour-white.jpg?v=1789317202
-    Price: $299.00 USD
+    Price: $269.00 USD
 - [Apex EscapeClip™ — Seat-Belt Emergency Tool: Window Breaker + Belt Cutter](https://apexevlabs.com/products/apex-escapeclip-seat-belt-emergency-tool): Spring-loaded window breaker and recessed seat-belt cutter that lives on your seat belt, within reach when the doors won't open. Tempered side windows only.
-  Updated: 2026-11-13T05:33:07Z
+  Updated: 2026-11-20T14:26:05Z
   Vendor: Apex EV Labs
   Product Type: Car safety
   Availability: Available
@@ -1060,7 +1060,7 @@
   Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/pullshade-01.jpg?v=1790261148
   Price: $129.00 USD
 - [Tesla Center Console USB-C Hub 65W | Model 3 & Y | Apex](https://apexevlabs.com/products/apex-powerdock-65w-tesla-center-console-charging-hub): 65W USB-C + 30W Lightning retractable cables plus spare USB-C & USB-A, flush in your Model 3 Highland / Model Y Juniper console. Slides in, no tools. Free shipping.
-  Updated: 2026-11-09T05:46:16Z
+  Updated: 2026-11-19T04:25:56Z
   Vendor: Apex EV Labs
   Product Type: Tesla Charging Accessories
   Availability: Available
@@ -1100,7 +1100,7 @@
     Availability: Available
     Price: $59.99 USD
 - [Apex CyberDock™ 3-in-1 Qi2 15W Wireless Charger | Cybertruck-Inspired](https://apexevlabs.com/products/apex-cyberdock-3-in-1-wireless-charging-station): A 1:25-scale Cybertruck-inspired desk charger that charges iPhone (Qi2 15W magnetic), AirPods and Apple Watch at once. One-touch 90° rotating pad, hidden pop-out watch tray, ambient light bar. Free worldwide shipping.
-  Updated: 2026-10-23T05:51:15Z
+  Updated: 2026-11-21T02:19:04Z
   Vendor: Apex EV Labs
   Product Type: Wireless Charger
   Availability: Available
@@ -1155,7 +1155,7 @@
   Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/SJEG-SB45S_Hero_SJ.jpg?v=1794148552
   Price: $39.99 USD
 - [3D Christmas Emblem Stickers for Tesla — Santa Hat, Antlers & Tree | Apex](https://apexevlabs.com/products/apex-3d-christmas-emblem-stickers-tesla): Festive 3D soft-resin Christmas stickers for the Tesla emblem. Waterproof, easy to apply, removes without residue. Fits Model S, 3, X, Y & Cybertruck.
-  Updated: 2026-11-13T18:25:31Z
+  Updated: 2026-11-17T15:12:29Z
   Vendor: Apex EV Labs
   Product Type: Car Decoration
   Availability: Available
@@ -1176,6 +1176,40 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/xmas-sticker-set-all3.jpg?v=1794225340
     Price: $44.99 USD
+- [VisionShield Glass Kit | Crystal-Clear Windshield & Mirrors in Any Weather](https://apexevlabs.com/products/apex-glaco-rain-ready-kit): Oil-film remover, rain repellent and mirror coat. Buy the 3-bottle kit or single bottles. Free tracked shipping.
+  Updated: 2026-11-21T22:32:11Z
+  Vendor: Apex EV Labs
+  Product Type: Car Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/apex-glaco-19.png?v=1795003509
+  - [Complete Set (all 3)](https://apexevlabs.com/products/apex-glaco-rain-ready-kit?variant=53109409677543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/apex-glaco-19.png?v=1795003509
+    Price: $59.99 USD
+  - [Oil-Film Remover + Rain Repellent](https://apexevlabs.com/products/apex-glaco-rain-ready-kit?variant=53109556347111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/apex-glaco-20.png?v=1795001926
+    Price: $49.99 USD
+  - [Rain Repellent + Mirror Coat](https://apexevlabs.com/products/apex-glaco-rain-ready-kit?variant=53109556379879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/apex-glaco-13.png?v=1795004452
+    Price: $44.99 USD
+  - [Oil-Film Remover + Mirror Coat](https://apexevlabs.com/products/apex-glaco-rain-ready-kit?variant=53109565882599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/apex-glaco-03.png?v=1795003509
+    Price: $42.99 USD
+  - [Oil-Film Remover](https://apexevlabs.com/products/apex-glaco-rain-ready-kit?variant=53109565915367)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/apex-glaco-04.png?v=1795001926
+    Price: $26.99 USD
+  - [Rain Repellent](https://apexevlabs.com/products/apex-glaco-rain-ready-kit?variant=53109565948135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/apex-glaco-09.png?v=1795001926
+    Price: $29.99 USD
+  - [Mirror Coat](https://apexevlabs.com/products/apex-glaco-rain-ready-kit?variant=53109565980903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/apex-glaco-06.png?v=1795003509
+    Price: $22.99 USD
 
 ## Collections
 
@@ -1183,25 +1217,25 @@
   Updated: 2026-09-23T07:25:03Z
   Total Products: 0
 - [Tesla Model S](https://apexevlabs.com/collections/tesla-model-s): Shop premium carbon fiber and Alcantara interior upgrades for Tesla Model S. Precision-crafted components for a luxury cabin experience.
-  Updated: 2026-11-14T12:21:53Z
+  Updated: 2026-11-21T12:22:28Z
   Total Products: 8
 - [Tesla Model 3](https://apexevlabs.com/collections/tesla-model-3): Shop premium interior/exterior upgrades for Tesla Model 3. Precision-crafted components for a luxury cabin experience.
-  Updated: 2026-11-14T12:21:53Z
+  Updated: 2026-11-21T12:22:28Z
   Total Products: 22
 - [Tesla Model X](https://apexevlabs.com/collections/tesla-model-x): Shop premium carbon fiber and Alcantara interior upgrades for Tesla Model X. Precision-crafted components for a luxury SUV cabin experience.
-  Updated: 2026-11-14T12:21:53Z
+  Updated: 2026-11-21T12:22:28Z
   Total Products: 8
 - [Tesla Model Y](https://apexevlabs.com/collections/tesla-model-y): Shop premium interior/exterior upgrades for Tesla Model Y. Precision-crafted components for a luxury crossover cabin experience.
-  Updated: 2026-11-14T12:21:53Z
+  Updated: 2026-11-21T12:22:28Z
   Total Products: 23
 - [Upgrades Under $200](https://apexevlabs.com/collections/upgrades-under-200): Shop the best Tesla upgrades under $200. Affordable interior mods, accessories, and lighting for Model 3 & Model Y. Fitment confirmed before you order.
-  Updated: 2026-11-14T12:21:53Z
-  Total Products: 23
+  Updated: 2026-11-21T12:22:28Z
+  Total Products: 25
 - [Lighting](https://apexevlabs.com/collections/lighting): Shop RGB ambient lighting, BSD alert strips, and illuminated door handles for Tesla Model 3 & Model Y. Premium lighting upgrades from Apex.
   Updated: 2026-09-23T07:25:03Z
   Total Products: 0
 - [Comfort &amp; Convenience](https://apexevlabs.com/collections/comfort-amp-convenience): Ventilated seats, sunshades, tray tables, fridges & more for Tesla Model 3 & Model Y. Premium comfort upgrades, fitment confirmed before you order.
-  Updated: 2026-11-02T12:20:42Z
+  Updated: 2026-11-17T12:22:25Z
   Total Products: 3
 - [Cockpit &amp; Screens](https://apexevlabs.com/collections/cockpit-amp-screens): CarPlay instrument clusters, rear screens & rotary docks for Tesla Model 3 & Model Y. Wireless CarPlay, live vehicle data, plug-in install.
   Updated: 2026-09-23T07:25:04Z
@@ -1210,44 +1244,44 @@
   Updated: 2026-10-24T11:22:42Z
   Total Products: 28
 - [Best Sellers](https://apexevlabs.com/collections/best-sellers): Our best- upgrades, ranked by real sales.
-  Updated: 2026-11-14T12:21:53Z
+  Updated: 2026-11-21T12:22:28Z
   Total Products: 10
 - [Steering Wheels](https://apexevlabs.com/collections/steering-wheels): Upgrade your Tesla interior with our collection of premium aftermarket steering wheels, featuring sporty yoke designs, carbon fiber finishes, and luxurious Nappa leather options. Designed for Tesla enthusiasts who want a more personalized and performance-inspired driving experience.
   Updated: 2026-10-28T12:37:53Z
   Total Products: 4
 - [Tesla Cybertruck](https://apexevlabs.com/collections/tesla-cybertruck): Upgrades that fit the Cybertruck: the custom-cut AutoShade Pro, the starlight sunshade, and universal cabin accessories.
-  Updated: 2026-11-14T12:21:53Z
+  Updated: 2026-11-21T12:22:28Z
   Total Products: 9
 - [New in](https://apexevlabs.com/collections/new-in): The newest Apex EV Labs releases.
-  Updated: 2026-11-13T12:23:21Z
-  Total Products: 8
+  Updated: 2026-11-21T12:22:28Z
+  Total Products: 9
 - [Winter](https://apexevlabs.com/collections/winter): Frost, ice and snow protection for cold mornings — and the gear that keeps your car comfortable all year.
   Updated: 2026-11-09T12:43:05Z
   Total Products: 2
 - [Sunshades & Covers](https://apexevlabs.com/collections/sunshades-covers)
-  Updated: 2026-11-14T12:21:53Z
+  Updated: 2026-11-21T12:22:28Z
   Total Products: 9
 - [Interior Style](https://apexevlabs.com/collections/interior-style)
-  Updated: 2026-11-14T12:21:53Z
+  Updated: 2026-11-21T12:22:28Z
   Total Products: 7
 - [Charging & Keys](https://apexevlabs.com/collections/charging-keys)
-  Updated: 2026-11-09T12:17:42Z
+  Updated: 2026-11-21T12:22:28Z
   Total Products: 4
 - [Car Care & Safety](https://apexevlabs.com/collections/car-care-safety)
-  Updated: 2026-11-13T12:23:21Z
-  Total Products: 3
+  Updated: 2026-11-21T12:22:28Z
+  Total Products: 4
 - [Screens & Mounts](https://apexevlabs.com/collections/screens-mounts)
-  Updated: 2026-11-13T12:23:21Z
+  Updated: 2026-11-20T12:21:27Z
   Total Products: 5
 - [Storage & Comfort](https://apexevlabs.com/collections/storage-comfort)
-  Updated: 2026-11-02T12:20:42Z
+  Updated: 2026-11-17T12:22:25Z
   Total Products: 3
 - [Cart upsell (best sellers, cheap)](https://apexevlabs.com/collections/cart-upsell)
-  Updated: 2026-11-14T12:21:53Z
-  Total Products: 7
+  Updated: 2026-11-21T13:43:20Z
+  Total Products: 8
 - [Black Friday — all products (gift rule)](https://apexevlabs.com/collections/bf-all-products)
-  Updated: 2026-11-14T12:21:53Z
-  Total Products: 70
+  Updated: 2026-11-21T12:22:28Z
+  Total Products: 72
 
 ## Blogs
 
