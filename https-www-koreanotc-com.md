@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-03-17T21:21:04Z
 - Contact Email: koreanotc@gmail.com
-- Updated At: 2026-11-15T00:27:07.444Z
+- Updated At: 2026-11-22T00:27:34.076Z
 
 ## Products
 
 - [Korean Moisturizer for Dry Skin | AESTURA](https://www.koreanotc.com/products/atobarrier-365-cream): AESTURA Atobarrier365 Cream is a Korean moisturizer for dry skin that deeply hydrates, supports the skin barrier, and helps soothe dryness daily.
-  Updated: 2026-10-20T19:44:47Z
+  Updated: 2026-11-19T20:04:46Z
   Vendor: AESTURA
   Product Type: 
   Availability: Available
@@ -114,19 +114,19 @@ This is the strongest direction because the current formula specifically emphasi
 ## Collections
 
 - [Moisturizer](https://www.koreanotc.com/collections/skincare): Discover the benefits of Korean moisturizer for deep hydration, smooth texture, and a healthy glow. Find the best formula for your skin type.
-  Updated: 2026-11-13T12:20:01Z
+  Updated: 2026-11-20T12:18:42Z
   Total Products: 8
 - [Supplements](https://www.koreanotc.com/collections/health): Discover Korean supplements designed to support daily wellness, energy, immunity, and balance with trusted ingredients and easy routines.
   Updated: 2026-09-28T11:22:36Z
   Total Products: 2
 - [Shop All](https://www.koreanotc.com/collections/all-skincare): Shop Korean skincare products designed to hydrate, brighten, and support healthy skin with gentle formulas and daily essentials for every routine.
-  Updated: 2026-11-13T12:20:01Z
+  Updated: 2026-11-20T12:18:42Z
   Total Products: 15
 - [Cleansers](https://www.koreanotc.com/collections/cleansers): Discover Korean cleansers that remove dirt, oil, and makeup while keeping skin soft, calm, and refreshed for daily cleansing.
   Updated: 2026-10-02T11:22:03Z
   Total Products: 1
 - [AESTURA](https://www.koreanotc.com/collections/aestura): Discover AESTURA products designed to support sensitive skin with gentle care, hydration, and daily comfort for a healthier-looking complexion.
-  Updated: 2026-11-13T12:20:01Z
+  Updated: 2026-11-20T12:18:42Z
   Total Products: 10
 - [Vitamins](https://www.koreanotc.com/collections/vitamins): Discover Korean vitamins for daily wellness, energy, and immune support. Explore key benefits, types, and how to choose the right supplement.
   Updated: 2026-09-05T11:22:51Z
@@ -144,7 +144,7 @@ This is the strongest direction because the current formula specifically emphasi
   Updated: 2026-08-27T06:24:02Z
   Total Products: 1
 - [Korean Skincare](https://www.koreanotc.com/collections/korean-skincare): Shop the best Korean skincare products for sensitive, dry, oily and combination skin. Discover Korean moisturizers, toners, serums, cleansers and more at Korean OTC.
-  Updated: 2026-11-13T12:20:01Z
+  Updated: 2026-11-20T12:18:42Z
   Total Products: 11
 
 ## Blogs
@@ -171,7 +171,7 @@ This is the strongest direction because the current formula specifically emphasi
     Author: Yobin
     Tags: aestura, aestura atobarrier 365 cream mist, atobarrier mist, barrier repair mist, ceramide cream, ceramide enriched moisturizer, ceramide face mist, cream, dry skin solution, korean skincare for dry sensitive skin, sensitive skin care, skin
   - [Revitalize Your Skincare Routine With AESTURA Atobarrier 365 Cream Mist The Ultimate Barrier Repair Mist](https://www.koreanotc.com/blogs/aestura-the-best-korean-skincare-brand-for-deep-hydration-and-skin-barrier-repair/revitalize-your-skincare-routine-with-aestura-atobarrier-365-cream-mist-the-ultimate-barrier-repair-mist): Revitalize Your Skincare Routine With AESTURA Atobarrier 365 Cream Mist The Ultimate Barrier Repair Mist
-    Updated: 2026-11-14T15:44:19Z
+    Updated: 2026-11-15T00:34:08Z
     Author: Yobin
     Tags: aestura atobarrier, aestura atobarrier 365 cream mist, barrier repair, barrier repair mist, ceramide face mist, cream, hydration routine, korean skincare for dry sensitive skin, mist, revitalizing skincare products, skincare, ultimate skincare solution
 - [AESTURA Atobarrier 365 Cream Mist: Best Ceramide Face Mist for Dry Sensitive Skin](https://www.koreanotc.com/blogs/aestura-atobarrier-365-cream-mist-best-ceramide-face-mist-for-dry-sensitive-skin)
@@ -254,7 +254,7 @@ This is the strongest direction because the current formula specifically emphasi
     Updated: 2026-10-14T09:01:09Z
     Author: Korean OTC
   - [Beyond Trends: Experience True Korean Skincare and Achieve Glass Skin for Sensitive Skin](https://www.koreanotc.com/blogs/unlock-radiant-skin-with-aestura-atobarrier-365-cream-mist-your-go-to-ceramide-face-mist-for-sensitive-skin-1/beyond-trends-experience-true-korean-skincare-and-achieve-glass-skin-for-sensitive-skin): Beyond Trends: Experience True Korean Skincare and Achieve Glass Skin for Sensitive Skin
-    Updated: 2026-11-14T15:43:38Z
+    Updated: 2026-11-15T00:34:09Z
     Author: Korean OTC
 
 ## Store Pages
