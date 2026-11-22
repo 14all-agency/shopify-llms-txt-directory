@@ -83,96 +83,96 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2024-12-16T17:56:31Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-14T01:16:23.235Z
+- Updated At: 2026-11-22T01:08:47.179Z
 
 ## Products
 
 - [2024 Encore Tour Tee - Black](https://pulpofficial.us/products/2024-tour-tee): 100% cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-11-03T06:49:23Z
+  Updated: 2026-11-21T08:25:46Z
   Vendor: PULP US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/PULP_2024_Tour_Tee_Front.png?v=1734556466
   - [S](https://pulpofficial.us/products/2024-tour-tee?variant=50325620457773)
     Availability: Available
-    Price: $20.00 USD
+    Price: $14.00 USD
   - [M](https://pulpofficial.us/products/2024-tour-tee?variant=50325620490541)
     Availability: Available
-    Price: $20.00 USD
+    Price: $14.00 USD
   - [L](https://pulpofficial.us/products/2024-tour-tee?variant=50325620523309)
     Availability: Available
-    Price: $20.00 USD
+    Price: $14.00 USD
   - [XL](https://pulpofficial.us/products/2024-tour-tee?variant=50325620556077)
     Availability: Not Available
-    Price: $20.00 USD
+    Price: $14.00 USD
   - [2XL](https://pulpofficial.us/products/2024-tour-tee?variant=50325620588845)
     Availability: Available
-    Price: $20.00 USD
+    Price: $14.00 USD
 - [Big Mouth Tee - White](https://pulpofficial.us/products/mouth-tee): 100% cotton t-shirt in white Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-10-08T21:09:03Z
+  Updated: 2026-11-21T20:31:11Z
   Vendor: PULP US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/PULP_Mouth_Tee_Front.png?v=1734556475
   - [S](https://pulpofficial.us/products/mouth-tee?variant=50328353603885)
     Availability: Not Available
-    Price: $20.00 USD
+    Price: $14.00 USD
   - [M](https://pulpofficial.us/products/mouth-tee?variant=50328353636653)
     Availability: Available
-    Price: $20.00 USD
+    Price: $14.00 USD
   - [L](https://pulpofficial.us/products/mouth-tee?variant=50328353669421)
     Availability: Available
-    Price: $20.00 USD
+    Price: $14.00 USD
   - [XL](https://pulpofficial.us/products/mouth-tee?variant=50328353702189)
     Availability: Available
-    Price: $20.00 USD
+    Price: $14.00 USD
   - [2XL](https://pulpofficial.us/products/mouth-tee?variant=50328353734957)
     Availability: Available
-    Price: $20.00 USD
+    Price: $14.00 USD
 - [Encore Tee - Denim Blue](https://pulpofficial.us/products/encore-tee): 100% cotton t-shirt in denim blue Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-10-12T21:17:36Z
+  Updated: 2026-11-20T21:14:06Z
   Vendor: PULP US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/PULP_Encore_Tee_Front.png?v=1734556392
   - [S](https://pulpofficial.us/products/encore-tee?variant=50328362418477)
     Availability: Available
-    Price: $20.00 USD
+    Price: $14.00 USD
   - [M](https://pulpofficial.us/products/encore-tee?variant=50328362451245)
     Availability: Available
-    Price: $20.00 USD
+    Price: $14.00 USD
   - [L](https://pulpofficial.us/products/encore-tee?variant=50328362484013)
     Availability: Available
-    Price: $20.00 USD
+    Price: $14.00 USD
   - [XL](https://pulpofficial.us/products/encore-tee?variant=50328362516781)
     Availability: Available
-    Price: $20.00 USD
+    Price: $14.00 USD
   - [2XL](https://pulpofficial.us/products/encore-tee?variant=50328362549549)
     Availability: Available
-    Price: $20.00 USD
+    Price: $14.00 USD
 - [PULP Logo Hoodie - Black](https://pulpofficial.us/products/pulp-logo-hoodie): 80/20 ring-spun cotton/polyester blend fleece hoodie in black Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/2 M 29 22 35 1/2 L 30 24 36 1/2 XL 31 26 37 2XL 32 27 38
-  Updated: 2026-10-08T21:09:03Z
+  Updated: 2026-11-20T23:28:38Z
   Vendor: PULP US
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/PULP_Logo_Hoodie.png?v=1734545641
   - [S](https://pulpofficial.us/products/pulp-logo-hoodie?variant=50328365728045)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [M](https://pulpofficial.us/products/pulp-logo-hoodie?variant=50328365760813)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [L](https://pulpofficial.us/products/pulp-logo-hoodie?variant=50328365793581)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [XL](https://pulpofficial.us/products/pulp-logo-hoodie?variant=50328365826349)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [2XL](https://pulpofficial.us/products/pulp-logo-hoodie?variant=50328365859117)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
 - [Encore Bandana](https://pulpofficial.us/products/encore-bandana): 20 x 20" cotton bandana, available in red and navy
-  Updated: 2026-10-31T03:01:26Z
+  Updated: 2026-11-18T14:52:09Z
   Vendor: PULP US
   Product Type: Bandana
   Availability: Available
@@ -180,159 +180,159 @@ your agent can transact everywhere.
   - [Navy](https://pulpofficial.us/products/encore-bandana?variant=50328773427501)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/PULP_Encore_Bandana_Navy.png?v=1734545641
-    Price: $25.00 USD
+    Price: $17.50 USD
   - [Red](https://pulpofficial.us/products/encore-bandana?variant=50328773460269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/PULP_Encore_Bandana_Red.png?v=1734545642
-    Price: $25.00 USD
+    Price: $17.50 USD
 - [Joyriders Holographic Bumper Sticker](https://pulpofficial.us/products/joyriders-bumper-sticker): 3x8" holographic vinyl bumper sticker
-  Updated: 2026-10-05T13:04:16Z
+  Updated: 2026-11-20T20:41:27Z
   Vendor: PULP US
   Product Type: Sticker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/PULP_Joyriders_Bumper_Sticker.png?v=1734545641
-  Price: $10.00 USD
+  Price: $7.00 USD
 - [Hollywood Forever Tee - Light Blue](https://pulpofficial.us/products/hollywood-forever-tee): 100% cotton t-shirt in light blue Size Chart Size Body Length (in) Chest Width (in) XL 31 22 2XL 32 24
-  Updated: 2026-10-08T21:09:02Z
+  Updated: 2026-11-20T00:19:38Z
   Vendor: PULP US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/PULP_Hollywood_Forever_Event_Tee.png?v=1734556400
   - [XL](https://pulpofficial.us/products/hollywood-forever-tee?variant=50328796266797)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [2XL](https://pulpofficial.us/products/hollywood-forever-tee?variant=50328796299565)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
 - [Gradient Logo Tee - Natural](https://pulpofficial.us/products/gradient-logo-tee-natural): 100% cotton t-shirt in natural Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-10-08T21:09:02Z
+  Updated: 2026-11-18T14:52:11Z
   Vendor: PULP US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/PULP_Gradient_Logo_Natural.png?v=1750364820
   - [S](https://pulpofficial.us/products/gradient-logo-tee-natural?variant=50840570069293)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $28.00 USD
   - [M](https://pulpofficial.us/products/gradient-logo-tee-natural?variant=50840570102061)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $28.00 USD
   - [L](https://pulpofficial.us/products/gradient-logo-tee-natural?variant=50840570134829)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $28.00 USD
   - [XL](https://pulpofficial.us/products/gradient-logo-tee-natural?variant=50840570167597)
     Availability: Available
-    Price: $40.00 USD
+    Price: $28.00 USD
   - [2XL](https://pulpofficial.us/products/gradient-logo-tee-natural?variant=50840570200365)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $28.00 USD
 - [Here Comes More Tour Tee - Black](https://pulpofficial.us/products/here-comes-more-tour-tee): 100% cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-10-17T18:47:16Z
+  Updated: 2026-11-21T20:42:15Z
   Vendor: PULP US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/Pulp_0007_165608_1_304009_d.png?v=1756403647
   - [S](https://pulpofficial.us/products/here-comes-more-tour-tee?variant=51327398674733)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [M](https://pulpofficial.us/products/here-comes-more-tour-tee?variant=51327398707501)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [L](https://pulpofficial.us/products/here-comes-more-tour-tee?variant=51327398740269)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [XL](https://pulpofficial.us/products/here-comes-more-tour-tee?variant=51327398773037)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [2XL](https://pulpofficial.us/products/here-comes-more-tour-tee?variant=51327398805805)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
 - [Postcard Tee - Natural](https://pulpofficial.us/products/postcard-tee-natural): 100% cotton t-shirt in natural Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-10-08T21:09:02Z
+  Updated: 2026-11-20T03:59:08Z
   Vendor: PULP US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/Pulp_0003_165611_1_304012_d.png?v=1756403704
   - [S](https://pulpofficial.us/products/postcard-tee-natural?variant=51327415583021)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [M](https://pulpofficial.us/products/postcard-tee-natural?variant=51327415615789)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [L](https://pulpofficial.us/products/postcard-tee-natural?variant=51327415648557)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [XL](https://pulpofficial.us/products/postcard-tee-natural?variant=51327415681325)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [2XL](https://pulpofficial.us/products/postcard-tee-natural?variant=51327415714093)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
 - [Come Alive Tote](https://pulpofficial.us/products/come-alive-tote): 75% recycled cotton and 25% recycled polyester tote bag in natural
-  Updated: 2026-11-03T06:49:18Z
+  Updated: 2026-11-18T18:45:26Z
   Vendor: PULP US
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/Pulp_0000_165614_1_304037_d.png?v=1756403636
-  Price: $20.00 USD
+  Price: $14.00 USD
 - [Shadow Logo Tee - Natural](https://pulpofficial.us/products/shadow-logo-tee-natural): 100% cotton t-shirt in natural Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-10-25T12:30:48Z
+  Updated: 2026-11-19T22:11:35Z
   Vendor: PULP US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/PULP_0000_165610_1_304011_d.png?v=1760382816
   - [S](https://pulpofficial.us/products/shadow-logo-tee-natural?variant=51549042016557)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [M](https://pulpofficial.us/products/shadow-logo-tee-natural?variant=51549042049325)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [L](https://pulpofficial.us/products/shadow-logo-tee-natural?variant=51549042082093)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [XL](https://pulpofficial.us/products/shadow-logo-tee-natural?variant=51549042114861)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [2XL](https://pulpofficial.us/products/shadow-logo-tee-natural?variant=51549042147629)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
 - [PULP Logo Water Bottle - Blue](https://pulpofficial.us/products/pulp-logo-water-bottle-blue): Blue 25 oz single wall BPA-free bottle with threaded lid
-  Updated: 2026-10-12T21:17:36Z
+  Updated: 2026-11-20T20:41:36Z
   Vendor: PULP US
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/PULP_0001_165606_1_304006_d.png?v=1760382815
-  Price: $25.00 USD
+  Price: $17.50 USD
 - [Pin Badge Set](https://pulpofficial.us/products/pin-badge-set): Set of 4 pin badges on cardboard backing
-  Updated: 2026-10-05T13:04:22Z
+  Updated: 2026-11-21T20:42:16Z
   Vendor: PULP US
   Product Type: Pin Badge
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/PULP_0002_165350_1_303411_d.png?v=1760382815
-  Price: $15.00 USD
+  Price: $10.50 USD
 - [Pulp 25 Keychain](https://pulpofficial.us/products/pulp-25-keychain): Acrylic motel-style keychain
-  Updated: 2026-11-03T06:49:18Z
+  Updated: 2026-11-20T20:41:26Z
   Vendor: PULP US
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/Pulp_Keychain.png?v=1770307728
-  Price: $5.00 USD
+  Price: $3.50 USD
 
 ## Collections
 
 - [Home page](https://pulpofficial.us/collections/frontpage)
-  Updated: 2026-11-03T12:15:04Z
+  Updated: 2026-11-21T12:13:43Z
   Total Products: 19
 - [Apparel](https://pulpofficial.us/collections/apparel)
-  Updated: 2026-11-03T12:15:04Z
+  Updated: 2026-11-21T12:13:43Z
   Total Products: 12
 - [Accessories](https://pulpofficial.us/collections/accessories)
-  Updated: 2026-11-03T12:15:04Z
+  Updated: 2026-11-21T12:13:43Z
   Total Products: 7
 - [All](https://pulpofficial.us/collections/all)
-  Updated: 2026-11-03T12:15:04Z
+  Updated: 2026-11-21T12:13:43Z
   Total Products: 19
 - [Accessories](https://pulpofficial.us/collections/accessories-1)
-  Updated: 2026-11-03T12:15:04Z
+  Updated: 2026-11-21T12:13:43Z
   Total Products: 7
 - [Hats](https://pulpofficial.us/collections/hats)
   Updated: 2025-01-13T20:56:38Z
@@ -341,13 +341,13 @@ your agent can transact everywhere.
   Updated: 2025-01-13T20:56:38Z
   Total Products: 0
 - [More Merch](https://pulpofficial.us/collections/more-merch)
-  Updated: 2026-11-03T12:15:04Z
+  Updated: 2026-11-21T12:13:43Z
   Total Products: 11
 - [Here Come More Tour](https://pulpofficial.us/collections/here-come-more-tour)
-  Updated: 2026-11-03T12:15:04Z
+  Updated: 2026-11-21T12:13:43Z
   Total Products: 8
 - [T-Shirts](https://pulpofficial.us/collections/t-shirts)
-  Updated: 2026-11-03T12:15:04Z
+  Updated: 2026-11-21T12:13:43Z
   Total Products: 9
 
 ## Store Pages
