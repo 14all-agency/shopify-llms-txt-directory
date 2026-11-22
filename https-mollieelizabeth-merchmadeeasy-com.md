@@ -6,141 +6,141 @@
 - Timezone: America/Chicago
 - Created At: 2025-05-09T15:21:34Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-15T00:18:03.195Z
+- Updated At: 2026-11-22T00:20:28.863Z
 
 ## Products
 
 - [Dirty Blonde EP](https://mollieelizabeth.merchmadeeasy.com/products/dirty-blonde-ep): Mollie Elizabeth's debut EP, Dirty Blonde on Transparent Sky Blue 10" Vinyl
-  Updated: 2026-11-12T22:09:05Z
+  Updated: 2026-11-21T03:40:16Z
   Vendor: Mollie Elizabeth
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3845/4899/files/MOLLIEELIZABETHVINYL.png?v=1748527481
-  Price: $16.00 USD
+  Price: $13.60 USD
 - [Run Rabbit Tee](https://mollieelizabeth.merchmadeeasy.com/products/run-rabbit-tee): run rabbit run rabid 100% cotton tee in light blue Unisex
-  Updated: 2026-11-14T02:10:52Z
+  Updated: 2026-11-21T21:12:37Z
   Vendor: Mollie Elizabeth
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3845/4899/files/Run-Rabbit-Tee.png?v=1779482045
   - [S](https://mollieelizabeth.merchmadeeasy.com/products/run-rabbit-tee?variant=62869328462195)
     Availability: Available
-    Price: $30.00 USD
+    Price: $25.50 USD
   - [M](https://mollieelizabeth.merchmadeeasy.com/products/run-rabbit-tee?variant=62869328494963)
     Availability: Available
-    Price: $30.00 USD
+    Price: $25.50 USD
   - [L](https://mollieelizabeth.merchmadeeasy.com/products/run-rabbit-tee?variant=62869328527731)
     Availability: Available
-    Price: $30.00 USD
+    Price: $25.50 USD
   - [XL](https://mollieelizabeth.merchmadeeasy.com/products/run-rabbit-tee?variant=62869328560499)
     Availability: Available
-    Price: $30.00 USD
+    Price: $25.50 USD
   - [2XL](https://mollieelizabeth.merchmadeeasy.com/products/run-rabbit-tee?variant=62869328593267)
-    Availability: Available
-    Price: $30.00 USD
+    Availability: Not Available
+    Price: $25.50 USD
 - [Puppet Show Tote](https://mollieelizabeth.merchmadeeasy.com/products/puppet-show-tote): I'll stitch you, stuff you, crush you Light pink canvas tote bag Portrait of a doll in a pink dress inside an oval frame with 'Mollie Elizabeth' text Artwork by @lavender_seance
-  Updated: 2026-11-14T02:10:56Z
+  Updated: 2026-11-21T21:12:32Z
   Vendor: Mollie Elizabeth
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3845/4899/files/ME_Puppet_Show_Tote_Revised.png?v=1785861419
-  Price: $20.00 USD
+  Price: $17.00 USD
 - [Bang Bang Baby Tee](https://mollieelizabeth.merchmadeeasy.com/products/barely-hanging-baby-tee): run rabbit run rabid 100% cotton tee in light blue Unisex
-  Updated: 2026-11-09T05:55:12Z
+  Updated: 2026-11-21T02:40:47Z
   Vendor: Mollie Elizabeth
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3845/4899/files/MELIZBarelyHangingTeeFront.png?v=1790885641
   - [S](https://mollieelizabeth.merchmadeeasy.com/products/barely-hanging-baby-tee?variant=67021210026355)
     Availability: Available
-    Price: $35.00 USD
+    Price: $29.75 USD
   - [M](https://mollieelizabeth.merchmadeeasy.com/products/barely-hanging-baby-tee?variant=67021210059123)
     Availability: Available
-    Price: $35.00 USD
+    Price: $29.75 USD
   - [L](https://mollieelizabeth.merchmadeeasy.com/products/barely-hanging-baby-tee?variant=67021210091891)
     Availability: Available
-    Price: $35.00 USD
+    Price: $29.75 USD
   - [XL](https://mollieelizabeth.merchmadeeasy.com/products/barely-hanging-baby-tee?variant=67021210124659)
     Availability: Available
-    Price: $35.00 USD
-- [Mollie Elizabeth Hand Fan](https://mollieelizabeth.merchmadeeasy.com/products/logo-hand-fan): please note: this is a pre-order item. orders containing this item will ship in 3-4 weeks. folding hand fan with wooden handle features a mollie elizabeth logo design
-  Updated: 2026-11-14T02:10:56Z
+    Price: $29.75 USD
+- [Mollie Elizabeth Hand Fan](https://mollieelizabeth.merchmadeeasy.com/products/logo-hand-fan): folding hand fan with wooden handle features a mollie elizabeth logo design
+  Updated: 2026-11-21T21:12:37Z
   Vendor: Mollie Elizabeth
   Product Type: Fan
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3845/4899/files/MELIZLogoHandFan.png?v=1790885641
-  Price: $15.00 USD
+  Price: $12.75 USD
 - [People Pleaser Crewneck](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-crewneck): run rabbit run rabid 100% cotton tee in light blue Unisex
-  Updated: 2026-11-09T16:14:28Z
+  Updated: 2026-11-20T22:19:36Z
   Vendor: Mollie Elizabeth
   Product Type: Crewneck
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3845/4899/files/MELIZPeoplePleaserCrewneck.png?v=1790885641
   - [S](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-crewneck?variant=67021391724915)
     Availability: Available
-    Price: $50.00 USD
+    Price: $42.50 USD
   - [M](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-crewneck?variant=67021391757683)
     Availability: Available
-    Price: $50.00 USD
+    Price: $42.50 USD
   - [L](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-crewneck?variant=67021391790451)
     Availability: Available
-    Price: $50.00 USD
+    Price: $42.50 USD
   - [XL](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-crewneck?variant=67021391823219)
     Availability: Available
-    Price: $50.00 USD
+    Price: $42.50 USD
   - [2XL](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-crewneck?variant=67021391855987)
     Availability: Available
-    Price: $50.00 USD
+    Price: $42.50 USD
   - [3XL](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-crewneck?variant=67021395165555)
     Availability: Not Available
-    Price: $50.00 USD
+    Price: $42.50 USD
 - [People Pleaser Tee](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-tee): 100% cotton tee in natural illustrative drawings inspired by the People Pleaser EP on the front unisex
-  Updated: 2026-11-12T21:06:52Z
+  Updated: 2026-11-21T13:10:16Z
   Vendor: Mollie Elizabeth
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3845/4899/files/ME_EP_Tee.png?v=1792180342
   - [S](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-tee?variant=67136590348659)
     Availability: Available
-    Price: $30.00 USD
+    Price: $25.50 USD
   - [M](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-tee?variant=67136590381427)
     Availability: Available
-    Price: $30.00 USD
+    Price: $25.50 USD
   - [L](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-tee?variant=67136590414195)
     Availability: Available
-    Price: $30.00 USD
+    Price: $25.50 USD
   - [XL](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-tee?variant=67136590446963)
     Availability: Available
-    Price: $30.00 USD
+    Price: $25.50 USD
   - [2XL](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-tee?variant=67136590479731)
     Availability: Available
-    Price: $30.00 USD
+    Price: $25.50 USD
 
 ## Collections
 
 - [Home page](https://mollieelizabeth.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-14T12:17:47Z
+  Updated: 2026-11-21T12:18:31Z
   Total Products: 8
 - [Apparel](https://mollieelizabeth.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-14T12:17:47Z
+  Updated: 2026-11-21T12:18:31Z
   Total Products: 5
 - [Accessories](https://mollieelizabeth.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-14T12:17:47Z
+  Updated: 2026-11-21T12:18:31Z
   Total Products: 2
 - [Hats](https://mollieelizabeth.merchmadeeasy.com/collections/hats)
   Updated: 2026-08-03T18:16:02Z
   Total Products: 0
 - [Music](https://mollieelizabeth.merchmadeeasy.com/collections/music)
-  Updated: 2026-11-13T12:17:59Z
+  Updated: 2026-11-21T12:18:31Z
   Total Products: 1
 - [All](https://mollieelizabeth.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-14T12:17:47Z
+  Updated: 2026-11-21T12:18:31Z
   Total Products: 8
 - [People Pleaser](https://mollieelizabeth.merchmadeeasy.com/collections/people-pleaser)
-  Updated: 2026-11-14T12:17:47Z
+  Updated: 2026-11-21T12:18:31Z
   Total Products: 6
 - [EG All Products - DO NOT EDIT](https://mollieelizabeth.merchmadeeasy.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu'elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-11-14T12:17:47Z
+  Updated: 2026-11-21T12:18:31Z
   Total Products: 8
 
 ## Store Pages
