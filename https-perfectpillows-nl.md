@@ -10,20 +10,20 @@
 - Contact Email: info@perfectpillows.nl
 - Contact Phone: 06-14567151
 - Address: Jarmuiden 30-b, 1046 AD Amsterdam
-- Updated At: 2026-11-15T00:30:11.254Z
+- Updated At: 2026-11-22T00:36:30.873Z
 
 ## Products
 
 - [Strak kussen](https://perfectpillows.nl/products/strak-kussen): Kies een strak kussen met schuimvulling en een strakke afwerking van PerfectPillows. Stel jouw kussen op maat samen voor een comfortable zitplek.
-  Updated: 2026-11-14T22:18:56Z
+  Updated: 2026-11-21T21:58:25Z
 - [Strak kussen met schuine  kanten](https://perfectpillows.nl/products/strak-kussen-met-schuine-kanten): Een kussen nodig met één of twee schuine zijden? Stel jouw strakke kussen op maat samen bij PerfectPillows, passend bij de vorm van jouw zitplek.
-  Updated: 2026-11-13T12:56:20Z
+  Updated: 2026-11-18T12:56:16Z
 - [Rugkussen schuin](https://perfectpillows.nl/products/rugkussen-schuin): Geef je zitplek ondersteuning met een schuin rugkussen van PerfectPillows. Strak afgewerkt en op maat samen te stellen voor jouw bank of zithoek.
-  Updated: 2026-11-14T19:27:06Z
+  Updated: 2026-11-21T20:54:50Z
 - [Plof kussen met zijband](https://perfectpillows.nl/products/plof-kussen-met-zijband): Ontdek het plofkussen met zijband van PerfectPillows. Een zacht kussen met vlokvulling, op maat samen te stellen voor jouw zitplek.
-  Updated: 2026-11-14T13:01:18Z
+  Updated: 2026-11-21T07:12:45Z
 - [Plof kussen zonder zijband](https://perfectpillows.nl/products/plof-kussen-zonder-zijband): Kies een plofkussen zonder zijband met vlokvulling van PerfectPillows. Stel jouw kussen samen in een formaat tot 100 cm.
-  Updated: 2026-11-14T23:23:45Z
+  Updated: 2026-11-21T09:31:18Z
 - [Sunbrella Natté](https://perfectpillows.nl/products/sunbrella-furniture-natte)
   Updated: 2026-10-28T10:31:44Z
 - [Sunbrella Solids](https://perfectpillows.nl/products/sunbrella-furniture-solids)
@@ -94,6 +94,8 @@
   Updated: 2026-11-01T09:16:02Z
 - [Eetkamerbank Junne](https://perfectpillows.nl/products/eetkamerbank-junne): Eetbank Junne a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } De Eetkamerbank Junne is een stijlvolle eyecatcher waarin organische vormen, comfort en vakmanschap samenkomen. De vloeiende hoekopstelling, afgeronde zitting en elegante rugleuning geven de bank een zachte en uitnodigende uitstraling. In combinatie met de karakteristieke houten lattenbasis ontstaat een uniek ontwerp dat direct opvalt in iedere eetkamer. a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Junne is ontworpen voor mensen die op zoek zijn naar iets bijzonders. De afgeronde lijnen zorgen voor een speels en modern karakter, terwijl de doorlopende rugleuning optimale ondersteuning biedt tijdens lange avonden aan tafel. Dankzij de royale zitruimte is deze bank niet alleen mooi om te zien, maar ook heerlijk comfortabel in gebruik. Maatwerk a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Iedere Junne wordt volledig op maat gemaakt in ons eigen atelier. Hierdoor kun je de eetkamerbank exact afstemmen op jouw ruimte, eettafel en persoonlijke woonstijl. a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Variatie in kleur en materiaal a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Met honderden stoffen en kleuren om uit te kiezen creëer je een eetkamerbank die volledig aansluit bij jouw persoonlijke stijl. Wij adviseren je graag in onze showroom, waar je de materialen kunt zien, voelen en vergelijken. a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Waarom kiezen voor de Eetkamerbank Junne? a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } ✔ Volledig op maat gemaakt✔ Organisch hoekdesign met zachte lijnen✔ Luxe houten lattenbasis✔ Comfortabele rugleuning rondom✔ Verkrijgbaar in honderden stoffen en kleuren✔ Ambachtelijk vervaardigd in eigen atelier✔ Geschikt voor moderne, Japandi en hotel chique interieurs Stel jouw ideale eetkamerbank samen a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Bij PerfectPillows wordt iedere Junne speciaal voor jou gemaakt. Je kiest zelf: De exacte afmetingen De gewenste opstelling De stof en kleur De afwerking van de houten lattenbasis Met honderden meubelstoffen in onze showroom zijn de mogelijkheden vrijwel eindeloos. Wij adviseren je graag bij het maken van de perfecte combinatie van stof, kleur en afwerking. a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Elke Junne wordt met zorg geproduceerd in ons eigen atelier in Nederland. Door te werken met hoogwaardige materialen en jarenlange ervaring in maatwerk ben je verzekerd van een eetkamerbank die niet alleen prachtig oogt, maar ook jarenlang comfortabel blijft. Lees in de kennisbank meer over hoe jij de juiste breedte eetbank voor jouw eettafel kiest.
   Updated: 2026-11-01T10:01:43Z
+- [Romi](https://perfectpillows.nl/products/romi)
+  Updated: 2026-11-21T15:06:25Z
 
 ## Collections
 
@@ -113,13 +115,13 @@
   Updated: 2026-09-30T19:43:10Z
   Total Products: 0
 - [Stoffen](https://perfectpillows.nl/collections/stoffen): Kies uit hoogwaardige stoffen zoals Sunbrella. Duurzaam, kleurvast en perfect voor kussens op maat binnen en buiten.
-  Updated: 2026-10-28T11:30:41Z
-  Total Products: 29
+  Updated: 2026-11-21T15:04:50Z
+  Total Products: 30
 - [Kussens op maat](https://perfectpillows.nl/collections/kussens-op-maat): Kussens op maat laten maken voor binnen en buiten. Kies jouw stof, maat en afwerking. Binnen 7 dagen geleverd uit eigen atelier.
   Updated: 2026-09-30T19:43:11Z
   Total Products: 3
 - [Alle producten](https://perfectpillows.nl/collections/all): Ontdek al onze kussens op maat en stel eenvoudig jouw ideale kussen samen. Voor binnen en buiten, perfect passend en binnen 7 dagen geleverd.
-  Updated: 2026-11-14T12:29:44Z
+  Updated: 2026-11-21T12:30:32Z
   Total Products: 5
 - [Matrassen](https://perfectpillows.nl/collections/matrassen): Ontdek de matrassen van PerfectPillows en vind een oplossing die past bij jouw slaapwensen. Laat je adviseren over de mogelijkheden en het comfort.
   Updated: 2026-11-11T10:08:35Z
