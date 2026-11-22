@@ -6,60 +6,60 @@
 - Timezone: America/Chicago
 - Created At: 2024-04-12T17:27:05Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-14T00:32:28.484Z
+- Updated At: 2026-11-22T00:30:18.944Z
 
 ## Products
 
 - [Queen of Hearts Hoodie](https://zolita.merchmadeeasy.com/products/queen-of-hearts-hoodie): 50% cotton/50% polyester hooded sweater Size Chart Size Body Length (in) Chest Width (Laid Flat) Sleeve Length S 28 18 34 M 29 20 35 L 30 22 36 XL 31 24 37 2XL 32 26 38 3XL 33 28 39
-  Updated: 2026-10-12T21:26:22Z
+  Updated: 2026-11-19T16:36:56Z
   Vendor: Zolita
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOLQoHHoodie.png?v=1713554993
   - [S](https://zolita.merchmadeeasy.com/products/queen-of-hearts-hoodie?variant=48478049534236)
     Availability: Not Available
-    Price: $55.00 USD
+    Price: $41.25 USD
   - [M](https://zolita.merchmadeeasy.com/products/queen-of-hearts-hoodie?variant=48478049567004)
     Availability: Not Available
-    Price: $55.00 USD
+    Price: $41.25 USD
   - [L](https://zolita.merchmadeeasy.com/products/queen-of-hearts-hoodie?variant=48478049599772)
     Availability: Not Available
-    Price: $55.00 USD
+    Price: $41.25 USD
   - [XL](https://zolita.merchmadeeasy.com/products/queen-of-hearts-hoodie?variant=48478049632540)
     Availability: Available
-    Price: $55.00 USD
+    Price: $41.25 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/queen-of-hearts-hoodie?variant=48478049665308)
     Availability: Available
-    Price: $55.00 USD
+    Price: $41.25 USD
   - [3XL](https://zolita.merchmadeeasy.com/products/queen-of-hearts-hoodie?variant=48478049698076)
     Availability: Available
-    Price: $55.00 USD
+    Price: $41.25 USD
 - [Queen of Hearts Tee](https://zolita.merchmadeeasy.com/products/queen-of-hearts-tee): 100% cotton heavyweight t-shirt with a drop-shoulder fit. Designed by @peaceandpowershop. Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-12T21:26:27Z
+  Updated: 2026-11-20T20:48:12Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOLQoHTee_7d223f2c-802e-49ca-bd78-cb73f7b763da.png?v=1713796629
   - [S](https://zolita.merchmadeeasy.com/products/queen-of-hearts-tee?variant=48478056349980)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [M](https://zolita.merchmadeeasy.com/products/queen-of-hearts-tee?variant=48478056382748)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [L](https://zolita.merchmadeeasy.com/products/queen-of-hearts-tee?variant=48478056415516)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [XL](https://zolita.merchmadeeasy.com/products/queen-of-hearts-tee?variant=48478056448284)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/queen-of-hearts-tee?variant=48478056481052)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [3XL](https://zolita.merchmadeeasy.com/products/queen-of-hearts-tee?variant=48478056513820)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
 - [Ride A Cowgirl Tee](https://zolita.merchmadeeasy.com/products/ride-a-cowgirl-tee): 100% heavyweight cotton beige t-shirt. Designed by @peaceandpowershop . Please note: This t-shirt is pigment dyed. Pigment-dyed garments are specially dyed for one-of-a-kind coloring. Size Body Length (in) Chest Width (Laid Flat) S 27 3/4 19 M 28 1/2 21 L 29 1/2 23 XL 30 1/2 24 3/4 2XL 31 1/4 26 1/2 3XL 32 1/4 28 1/2
-  Updated: 2026-11-11T19:44:31Z
+  Updated: 2026-11-22T00:20:51Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
@@ -67,119 +67,119 @@
   - [S / Mushroom](https://zolita.merchmadeeasy.com/products/ride-a-cowgirl-tee?variant=48478059823388)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/SAH_ZoEDIT2_474b9948-3a8a-4215-8342-c9ecb9fafd1d.png?v=1716495171
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [S / Beige](https://zolita.merchmadeeasy.com/products/ride-a-cowgirl-tee?variant=50885000691996)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/SAH_ZoEDIT.png?v=1714752204
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [M / Mushroom](https://zolita.merchmadeeasy.com/products/ride-a-cowgirl-tee?variant=48478059856156)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/SAH_ZoEDIT2_474b9948-3a8a-4215-8342-c9ecb9fafd1d.png?v=1716495171
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [M / Beige](https://zolita.merchmadeeasy.com/products/ride-a-cowgirl-tee?variant=50885000724764)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/SAH_ZoEDIT.png?v=1714752204
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [L / Mushroom](https://zolita.merchmadeeasy.com/products/ride-a-cowgirl-tee?variant=48478059888924)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/SAH_ZoEDIT2_474b9948-3a8a-4215-8342-c9ecb9fafd1d.png?v=1716495171
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [L / Beige](https://zolita.merchmadeeasy.com/products/ride-a-cowgirl-tee?variant=50885000757532)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/SAH_ZoEDIT.png?v=1714752204
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [XL / Mushroom](https://zolita.merchmadeeasy.com/products/ride-a-cowgirl-tee?variant=48478059921692)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/SAH_ZoEDIT2_474b9948-3a8a-4215-8342-c9ecb9fafd1d.png?v=1716495171
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [XL / Beige](https://zolita.merchmadeeasy.com/products/ride-a-cowgirl-tee?variant=50885000790300)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/SAH_ZoEDIT.png?v=1714752204
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [2XL / Mushroom](https://zolita.merchmadeeasy.com/products/ride-a-cowgirl-tee?variant=48478059954460)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/SAH_ZoEDIT2_474b9948-3a8a-4215-8342-c9ecb9fafd1d.png?v=1716495171
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [2XL / Beige](https://zolita.merchmadeeasy.com/products/ride-a-cowgirl-tee?variant=50885000823068)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/SAH_ZoEDIT.png?v=1714752204
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [3XL / Mushroom](https://zolita.merchmadeeasy.com/products/ride-a-cowgirl-tee?variant=48478059987228)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/SAH_ZoEDIT2_474b9948-3a8a-4215-8342-c9ecb9fafd1d.png?v=1716495171
-    Price: $35.00 USD
+    Price: $26.25 USD
 - [Heaven Tank](https://zolita.merchmadeeasy.com/products/heaven-tank): 100% cotton tank top. Designed by @peaceandpowershop.
-  Updated: 2026-10-18T12:53:58Z
+  Updated: 2026-11-19T15:00:34Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOLHeavenTank_3c5eed54-681e-4599-9d1f-12709fa52c9a.png?v=1713802737
   - [S](https://zolita.merchmadeeasy.com/products/heaven-tank?variant=48478060871964)
     Availability: Available
-    Price: $25.00 USD
+    Price: $18.75 USD
   - [M](https://zolita.merchmadeeasy.com/products/heaven-tank?variant=48478060904732)
     Availability: Available
-    Price: $25.00 USD
+    Price: $18.75 USD
   - [L](https://zolita.merchmadeeasy.com/products/heaven-tank?variant=48478060937500)
     Availability: Not Available
-    Price: $25.00 USD
+    Price: $18.75 USD
   - [XL](https://zolita.merchmadeeasy.com/products/heaven-tank?variant=48478060970268)
     Availability: Available
-    Price: $25.00 USD
+    Price: $18.75 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/heaven-tank?variant=48478061003036)
     Availability: Available
-    Price: $25.00 USD
+    Price: $18.75 USD
 - [SIGNED God Is Gay Tote](https://zolita.merchmadeeasy.com/products/god-is-gay-tote): 100% cotton tote bag, hand signed by Zolita. Designed by @peaceandpowershop.
-  Updated: 2026-10-05T13:03:52Z
+  Updated: 2026-11-19T15:00:34Z
   Vendor: Zolita
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_GIG_Signed.png?v=1762805242
-  Price: $25.00 USD
+  Price: $18.75 USD
 - [Scissors Tank](https://zolita.merchmadeeasy.com/products/scissors-tank): 52% Airlume combed and ring-spun cotton, 48% polyester ribbed tank top Size Fits Sizes S 2-4 M 6-8 L 8-10 XL 10-14 2XL 14-18
-  Updated: 2026-10-29T04:14:05Z
+  Updated: 2026-11-20T20:48:06Z
   Vendor: Zolita
   Product Type: Tank
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOLScissorsTank_c31ab343-12e2-423b-8ce4-ce96df8fe542.png?v=1715872646
   - [S](https://zolita.merchmadeeasy.com/products/scissors-tank?variant=48747080188188)
     Availability: Available
-    Price: $25.00 USD
+    Price: $18.75 USD
   - [M](https://zolita.merchmadeeasy.com/products/scissors-tank?variant=48747080220956)
     Availability: Available
-    Price: $25.00 USD
+    Price: $18.75 USD
   - [L](https://zolita.merchmadeeasy.com/products/scissors-tank?variant=48747080253724)
     Availability: Available
-    Price: $25.00 USD
+    Price: $18.75 USD
   - [XL](https://zolita.merchmadeeasy.com/products/scissors-tank?variant=48747080286492)
     Availability: Available
-    Price: $25.00 USD
+    Price: $18.75 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/scissors-tank?variant=48747080319260)
     Availability: Available
-    Price: $25.00 USD
+    Price: $18.75 USD
 - [Gay Ass Shorts - Black](https://zolita.merchmadeeasy.com/products/gay-ass-shorts): Please note: these shorts will ship in approximately 2 weeks 100% cotton booty shorts Size Relaxed Waist (in) Inseam (in) Outseam (in) S 12 3/4 2 1/2 6 1/2 M 13 1/4 2 3/4 7 L 13 3/4 3 1/4 7 1/4 XL 14 1/4 3 3/4 7 3/4 2XL 14 3/4 4 1/4 8
-  Updated: 2026-11-11T17:22:02Z
+  Updated: 2026-11-21T03:28:15Z
   Vendor: Zolita
   Product Type: Shorts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_Gay_Ass_Shorts_Black_Back.png?v=1749050132
   - [S](https://zolita.merchmadeeasy.com/products/gay-ass-shorts?variant=48758379217180)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [M](https://zolita.merchmadeeasy.com/products/gay-ass-shorts?variant=48758379249948)
-    Availability: Available
-    Price: $30.00 USD
+    Availability: Not Available
+    Price: $22.50 USD
   - [L](https://zolita.merchmadeeasy.com/products/gay-ass-shorts?variant=48758379282716)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [XL](https://zolita.merchmadeeasy.com/products/gay-ass-shorts?variant=48758379315484)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/gay-ass-shorts?variant=48758379348252)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
 - [Queen of Hearts - Webstore Vinyl](https://zolita.merchmadeeasy.com/products/queen-of-hearts-webstore-exclusive-vinyl-1): Track Listing All Over Again Bloodstream Queen of Hearts All Girls Go to Heaven No One Tells You No When You’re Beautiful Small Town Scandal What If Grown Up Release Date: May 31st, 2024
-  Updated: 2026-10-05T13:03:54Z
+  Updated: 2026-11-21T03:04:07Z
   Vendor: Zolita
   Product Type: Vinyl
   Availability: Available
@@ -221,282 +221,258 @@
     Availability: Available
     Price: $30.00 USD
 - [Gay Ass Mesh Shorts](https://zolita.merchmadeeasy.com/products/gay-ass-mesh-shorts): 100% polyester breathable mesh shorts Size Waist Width (in) Inseam (in) Outseam (in) S 30 5 1/2 16 M 32 5 1/2 16 1/2 L 34 5 1/2 17 XL 36 5 1/2 17 1/2 2XL 38 5 1/2 18
-  Updated: 2026-10-12T18:56:32Z
+  Updated: 2026-11-19T15:00:35Z
   Vendor: Zolita
   Product Type: Shorts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/163480_1_299067_d.png?v=1731967343
   - [S](https://zolita.merchmadeeasy.com/products/gay-ass-mesh-shorts?variant=50387689210140)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [M](https://zolita.merchmadeeasy.com/products/gay-ass-mesh-shorts?variant=50387689242908)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [L](https://zolita.merchmadeeasy.com/products/gay-ass-mesh-shorts?variant=50387689275676)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [XL](https://zolita.merchmadeeasy.com/products/gay-ass-mesh-shorts?variant=50387689308444)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/gay-ass-mesh-shorts?variant=50387689341212)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
 - [Gay Ass Crewneck](https://zolita.merchmadeeasy.com/products/gay-ass-crewneck): 100% cotton crewneck sweater. Made in Los Angeles. Size Chart Size Body Length (in) Chest Width (Laid Flat) Sleeve Length S 28 1/4 20 3/8 24 1/8 M 28 3/8 22 3/8 24 5/8 L 28 1/2 24 3/8 25 1/8 XL 28 5/8 26 3/8 25 5/8 2XL 28 3/4 28 3/8 26 1/8 3XL 28 7/8 30 3/8 26 5/8
-  Updated: 2026-10-12T18:56:32Z
+  Updated: 2026-11-19T15:00:35Z
   Vendor: Zolita
   Product Type: Crewneck
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZLTA_0003_163232_1_298548_blog_733483_1.png?v=1728936847
   - [S](https://zolita.merchmadeeasy.com/products/gay-ass-crewneck?variant=50388423180572)
     Availability: Available
-    Price: $60.00 USD
+    Price: $45.00 USD
   - [M](https://zolita.merchmadeeasy.com/products/gay-ass-crewneck?variant=50388423213340)
     Availability: Available
-    Price: $60.00 USD
+    Price: $45.00 USD
   - [L](https://zolita.merchmadeeasy.com/products/gay-ass-crewneck?variant=50388423246108)
     Availability: Available
-    Price: $60.00 USD
+    Price: $45.00 USD
   - [XL](https://zolita.merchmadeeasy.com/products/gay-ass-crewneck?variant=50388423278876)
     Availability: Available
-    Price: $60.00 USD
+    Price: $45.00 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/gay-ass-crewneck?variant=50388423311644)
     Availability: Available
-    Price: $60.00 USD
+    Price: $45.00 USD
   - [3XL](https://zolita.merchmadeeasy.com/products/gay-ass-crewneck?variant=50388423344412)
     Availability: Available
-    Price: $60.00 USD
+    Price: $45.00 USD
 - [Gay Ass Rugby Shirt](https://zolita.merchmadeeasy.com/products/gay-ass-rugby-shirt): 100% carded cotton heavyweight rugby shirt. Made in Los Angeles. Size Chart Size Body Length (in) Chest Width (Laid Flat) S 29 1/2 19 1/2 M 30 1/4 20 3/4 L 31 1/4 22 1/4 XL 32 23 1/2 2XL 32 3/4 25
-  Updated: 2026-10-12T18:53:28Z
+  Updated: 2026-11-22T00:20:46Z
   Vendor: Zolita
   Product Type: Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZLTA_0004_163230_1_298545_blog_733485_1.png?v=1728937273
   - [S](https://zolita.merchmadeeasy.com/products/gay-ass-rugby-shirt?variant=50388492878108)
     Availability: Available
-    Price: $55.00 USD
+    Price: $41.25 USD
   - [M](https://zolita.merchmadeeasy.com/products/gay-ass-rugby-shirt?variant=50388492910876)
     Availability: Available
-    Price: $55.00 USD
+    Price: $41.25 USD
   - [L](https://zolita.merchmadeeasy.com/products/gay-ass-rugby-shirt?variant=50388492943644)
     Availability: Available
-    Price: $55.00 USD
+    Price: $41.25 USD
   - [XL](https://zolita.merchmadeeasy.com/products/gay-ass-rugby-shirt?variant=50388492976412)
     Availability: Available
-    Price: $55.00 USD
+    Price: $41.25 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/gay-ass-rugby-shirt?variant=50388493009180)
     Availability: Available
-    Price: $55.00 USD
+    Price: $41.25 USD
 - [Gay Ass Tee](https://zolita.merchmadeeasy.com/products/gay-ass-tee): 100% cotton t-shirt. Size Body Length (in) Chest Width (Laid Flat) S 27 3/4 17 1/8 M 28 5/8 19 L 29 1/2 21 XL 30 1/2 22 7/8 2XL 31 3/8 24 3/4 3XL 32 3/8 26 5/8
-  Updated: 2026-10-12T18:53:27Z
+  Updated: 2026-11-19T15:00:35Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOLGayAssTee.png?v=1731969612
   - [S](https://zolita.merchmadeeasy.com/products/gay-ass-tee?variant=50388646134044)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [M](https://zolita.merchmadeeasy.com/products/gay-ass-tee?variant=50388646166812)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [L](https://zolita.merchmadeeasy.com/products/gay-ass-tee?variant=50388646199580)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [XL](https://zolita.merchmadeeasy.com/products/gay-ass-tee?variant=50388646232348)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/gay-ass-tee?variant=50388646265116)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [3XL](https://zolita.merchmadeeasy.com/products/gay-ass-tee?variant=50388685881628)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
 - [Hot Girl on the Internet Baby Tee](https://zolita.merchmadeeasy.com/products/hot-girl-on-the-internet-tee): 52% airlume combed and ringspun cotton / 48% polyester. Microrib baby tee in black/white. Size Body Length (in) Chest Width (Laid Flat) S 25 3/4 16 1/4 M 26 1/4 17 1/4 L 26 3/4 18 1/4 XL 27 1/2 19 3/4 2XL 28 1/2 20 3/4
-  Updated: 2026-10-05T13:04:05Z
+  Updated: 2026-11-19T15:00:32Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_Hot_Girl_Baby_Tee.png?v=1742326019
   - [S](https://zolita.merchmadeeasy.com/products/hot-girl-on-the-internet-tee?variant=51468751798556)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [M](https://zolita.merchmadeeasy.com/products/hot-girl-on-the-internet-tee?variant=51468751831324)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [L](https://zolita.merchmadeeasy.com/products/hot-girl-on-the-internet-tee?variant=51468751864092)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [XL](https://zolita.merchmadeeasy.com/products/hot-girl-on-the-internet-tee?variant=51468751896860)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/hot-girl-on-the-internet-tee?variant=51468751929628)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
 - [Queen of Hearts Poster](https://zolita.merchmadeeasy.com/products/queen-of-hearts-poster): 8.5x11" Queen of Hearts poster
-  Updated: 2026-10-16T02:38:53Z
+  Updated: 2026-11-20T20:48:07Z
   Vendor: Zolita
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_QoH_Poster.png?v=1742335479
-  Price: $15.00 USD
+  Price: $11.25 USD
 - [Gay Ass Shorts - Red](https://zolita.merchmadeeasy.com/products/gay-ass-shorts-red): 100% cotton booty shorts in red Size Relaxed Waist (in) Inseam (in) Outseam (in) S 12 3/4 2 1/2 6 1/2 M 13 1/4 2 3/4 7 L 13 3/4 3 1/4 7 1/4 XL 14 1/4 3 3/4 7 3/4 2XL 14 3/4 4 1/4 8
-  Updated: 2026-10-20T19:34:01Z
+  Updated: 2026-11-21T20:31:06Z
   Vendor: Zolita
   Product Type: Shorts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_Gay_Ass_Shorts_Red_Back.png?v=1748874060
   - [S](https://zolita.merchmadeeasy.com/products/gay-ass-shorts-red?variant=51964154773788)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [M](https://zolita.merchmadeeasy.com/products/gay-ass-shorts-red?variant=51964154806556)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [L](https://zolita.merchmadeeasy.com/products/gay-ass-shorts-red?variant=51964154839324)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [XL](https://zolita.merchmadeeasy.com/products/gay-ass-shorts-red?variant=51964154872092)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/gay-ass-shorts-red?variant=51964154904860)
     Availability: Not Available
-    Price: $30.00 USD
-- [Kitty Kisser Tee](https://zolita.merchmadeeasy.com/products/kitty-kisser-tee): 100% ringspun cotton heavyweight t-shirt in washed black Size Body Length (in) Chest Width (Laid Flat) S 27 3/4 19 3/4 M 28 3/4 20 3/4 L 29 3/4 22 3/4 XL 30 3/4 24 3/4 2XL 31 3/4 26 3/4 3XL 32 3/4 28 3/4
-  Updated: 2026-11-09T19:03:26Z
-  Vendor: Zolita
-  Product Type: Tee
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_KK_Tee.png?v=1759342579
-  - [S](https://zolita.merchmadeeasy.com/products/kitty-kisser-tee?variant=53084906357020)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [M](https://zolita.merchmadeeasy.com/products/kitty-kisser-tee?variant=53084906389788)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [L](https://zolita.merchmadeeasy.com/products/kitty-kisser-tee?variant=53084906422556)
-    Availability: Available
-    Price: $40.00 USD
-  - [XL](https://zolita.merchmadeeasy.com/products/kitty-kisser-tee?variant=53084906455324)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [2XL](https://zolita.merchmadeeasy.com/products/kitty-kisser-tee?variant=53084906488092)
-    Availability: Available
-    Price: $40.00 USD
-  - [3XL](https://zolita.merchmadeeasy.com/products/kitty-kisser-tee?variant=53084934373660)
-    Availability: Not Available
-    Price: $40.00 USD
+    Price: $22.50 USD
 - [Hell's Belles Shorts](https://zolita.merchmadeeasy.com/products/hells-belles-shorts): 100% cotton gym shorts with elastic foldable waistband Size Waist (in) Inseam (in) S 25 1/2 2 1/2 M 27 1/2 2 1/2 L 29 1/2 2 1/2 XL 31 1/2 2 1/2 2XL 32 1/2 2 1/2
-  Updated: 2026-10-05T13:04:07Z
+  Updated: 2026-11-19T15:00:33Z
   Vendor: Zolita
   Product Type: Shorts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOLHellsShorts.png?v=1777924255
   - [S](https://zolita.merchmadeeasy.com/products/hells-belles-shorts?variant=54085131272476)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [M](https://zolita.merchmadeeasy.com/products/hells-belles-shorts?variant=54085131305244)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [L](https://zolita.merchmadeeasy.com/products/hells-belles-shorts?variant=54085131338012)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [XL](https://zolita.merchmadeeasy.com/products/hells-belles-shorts?variant=54085131370780)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/hells-belles-shorts?variant=54085131403548)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
 - [Hell's Belles Baby Tee](https://zolita.merchmadeeasy.com/products/hells-belles-baby-tee): 100% combed cotton baby rib t-shirt in white; stretches up to 2 times its original size Size Chart Size Body Length (in) Chest Width (in) S 20 7/8 12 1/8 M 21 3/8 13 1/8 L 21 7/8 14 XL 22 3/8 15 2XL 22 7/8 16
-  Updated: 2026-11-11T17:21:58Z
+  Updated: 2026-11-19T15:00:33Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOLHellsTee.png?v=1777924255
   - [S](https://zolita.merchmadeeasy.com/products/hells-belles-baby-tee?variant=54088825635100)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [M](https://zolita.merchmadeeasy.com/products/hells-belles-baby-tee?variant=54088825667868)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [L](https://zolita.merchmadeeasy.com/products/hells-belles-baby-tee?variant=54088825700636)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [XL](https://zolita.merchmadeeasy.com/products/hells-belles-baby-tee?variant=54088825733404)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/hells-belles-baby-tee?variant=54088825766172)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
 - [Hell's Belles - Clear Vinyl (SIGNED)](https://zolita.merchmadeeasy.com/products/hells-belles-clear-vinyl-signed): This is a pre-order item - the vinyl will not ship until November 2026. Zolita’s third album Hell’s Belles on 12” 140 gram clear vinyl with single pocket jacket and printed insert. Hand-signed by Zolita Track Listing 1. Hell’s Belles2. Miss Misunderstood3. Everybody’s Lover4. Best Ex of Your Life5. Belle’s HELL (Interlude)6. HARDCORE7. VOODOO DOLL8. DOPPELBANGER9. FINAL FANTASY
-  Updated: 2026-11-07T03:35:57Z
+  Updated: 2026-11-22T00:20:46Z
   Vendor: Zolita
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_Hell_s_Belles_Vinyl_Signed.png?v=1787257269
   Price: $30.00 USD
 - [Gay Cult Tee](https://zolita.merchmadeeasy.com/products/gay-cult-tee): Zolita Gay Cult Tee made of 100% ring-spun USA premium cotton in Black
-  Updated: 2026-11-06T16:26:30Z
+  Updated: 2026-11-21T03:28:15Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOLGayCultTee.png?v=1787257346
   - [S](https://zolita.merchmadeeasy.com/products/gay-cult-tee?variant=54452995293468)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [M](https://zolita.merchmadeeasy.com/products/gay-cult-tee?variant=54452995326236)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [L](https://zolita.merchmadeeasy.com/products/gay-cult-tee?variant=54452995359004)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [XL](https://zolita.merchmadeeasy.com/products/gay-cult-tee?variant=54452995391772)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/gay-cult-tee?variant=54452995424540)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
 - [Hardcore Ribbed Tank](https://zolita.merchmadeeasy.com/products/hardcore-tank-top): Hardcore Tank Top that is 95% combed ring-spun cotton with 5% Spandex in Black
-  Updated: 2026-11-12T23:01:25Z
+  Updated: 2026-11-20T01:55:46Z
   Vendor: Zolita
   Product Type: Tank
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZolitaHardcoreTank.png?v=1787338594
   - [S](https://zolita.merchmadeeasy.com/products/hardcore-tank-top?variant=54453027209500)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [M](https://zolita.merchmadeeasy.com/products/hardcore-tank-top?variant=54453027242268)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [L](https://zolita.merchmadeeasy.com/products/hardcore-tank-top?variant=54453027275036)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [XL](https://zolita.merchmadeeasy.com/products/hardcore-tank-top?variant=54453027307804)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/hardcore-tank-top?variant=54453027340572)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
 - [Hell's Belles SIGNED Vinyl + T-Shirt Bundle](https://zolita.merchmadeeasy.com/products/hells-belles-signed-vinyl-t-shirt-bundle): This is a pre-order item - the vinyl will not ship until November 2026. Zolita’s third album Hell’s Belles on 12” 140 gram clear vinyl with single pocket jacket and printed insert. Hand-signed by Zolita This bundle includes a Gay Cult Tee. Track Listing 1. Hell’s Belles2. Miss Misunderstood3. Everybody’s Lover4. Best Ex of Your Life5. Belle’s HELL (Interlude)6. HARDCORE7. VOODOO DOLL8. DOPPELBANGER9. FINAL FANTASY
-  Updated: 2026-11-07T03:36:06Z
+  Updated: 2026-11-22T00:21:04Z
   Vendor: Zolita
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_Hell_s_Belles_Bundle.png?v=1787338441
   - [S](https://zolita.merchmadeeasy.com/products/hells-belles-signed-vinyl-t-shirt-bundle?variant=54458247840028)
     Availability: Available
-    Price: $60.00 USD
+    Price: $45.00 USD
   - [M](https://zolita.merchmadeeasy.com/products/hells-belles-signed-vinyl-t-shirt-bundle?variant=54458247872796)
     Availability: Available
-    Price: $60.00 USD
+    Price: $45.00 USD
   - [L](https://zolita.merchmadeeasy.com/products/hells-belles-signed-vinyl-t-shirt-bundle?variant=54458247905564)
     Availability: Available
-    Price: $60.00 USD
+    Price: $45.00 USD
   - [XL](https://zolita.merchmadeeasy.com/products/hells-belles-signed-vinyl-t-shirt-bundle?variant=54458247938332)
     Availability: Available
-    Price: $60.00 USD
+    Price: $45.00 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/hells-belles-signed-vinyl-t-shirt-bundle?variant=54458247971100)
     Availability: Available
-    Price: $60.00 USD
+    Price: $45.00 USD
 - [Hell's Belles Tour Tee](https://zolita.merchmadeeasy.com/products/hells-belles-tour-tee): Zolita Gay Cult Tee made of 100% ring-spun USA premium cotton in Black
-  Updated: 2026-11-11T17:22:00Z
+  Updated: 2026-11-19T00:02:57Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
@@ -527,73 +503,73 @@
 ## Collections
 
 - [Home page](https://zolita.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-12T12:13:47Z
+  Updated: 2026-11-21T12:14:56Z
   Total Products: 37
 - [Apparel](https://zolita.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-12T12:13:47Z
+  Updated: 2026-11-21T12:14:56Z
   Total Products: 33
 - [Accessories](https://zolita.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-12T12:13:47Z
+  Updated: 2026-11-21T12:14:56Z
   Total Products: 7
 - [Music](https://zolita.merchmadeeasy.com/collections/media)
-  Updated: 2026-11-09T12:14:13Z
+  Updated: 2026-11-21T12:14:56Z
   Total Products: 11
 - [Hats](https://zolita.merchmadeeasy.com/collections/hats)
-  Updated: 2026-11-12T12:13:47Z
+  Updated: 2026-11-19T15:00:37Z
   Total Products: 2
 - [All](https://zolita.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-12T12:13:47Z
+  Updated: 2026-11-21T12:14:56Z
   Total Products: 50
 - [Queen of Hearts](https://zolita.merchmadeeasy.com/collections/queen-of-hearts)
-  Updated: 2026-10-13T00:24:05Z
+  Updated: 2026-11-21T12:14:56Z
   Total Products: 9
 - [Queen of Hearts Merch](https://zolita.merchmadeeasy.com/collections/queen-of-hearts-merch)
-  Updated: 2026-11-12T12:13:47Z
+  Updated: 2026-11-21T12:14:56Z
   Total Products: 11
 - [Old Favorites](https://zolita.merchmadeeasy.com/collections/old-favorites)
-  Updated: 2026-11-12T12:13:47Z
+  Updated: 2026-11-21T12:14:56Z
   Total Products: 15
 - [Cult of Girls Collection](https://zolita.merchmadeeasy.com/collections/cult-of-girls-collection)
-  Updated: 2026-11-09T12:14:13Z
+  Updated: 2026-11-19T15:00:44Z
   Total Products: 4
 - [Necklace](https://zolita.merchmadeeasy.com/collections/necklace)
-  Updated: 2026-10-02T19:52:06Z
+  Updated: 2026-11-19T15:00:44Z
   Total Products: 1
 - [Queen of Hearts Tour](https://zolita.merchmadeeasy.com/collections/queen-of-hearts-tour)
-  Updated: 2026-11-12T12:13:47Z
+  Updated: 2026-11-21T12:14:56Z
   Total Products: 12
 - [Gay Ass Collection](https://zolita.merchmadeeasy.com/collections/gay-ass-collection)
-  Updated: 2026-11-12T12:13:47Z
+  Updated: 2026-11-21T12:14:56Z
   Total Products: 8
 - [$20.24](https://zolita.merchmadeeasy.com/collections/20-24)
   Updated: 2026-08-05T18:57:59Z
   Total Products: 0
 - [EasyGift All Products](https://zolita.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-11-12T12:13:47Z
+  Updated: 2026-11-21T12:14:56Z
   Total Products: 52
 - [New](https://zolita.merchmadeeasy.com/collections/new)
-  Updated: 2026-11-12T12:13:47Z
+  Updated: 2026-11-21T12:14:56Z
   Total Products: 5
 - [New Arrivals](https://zolita.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-11-12T12:13:47Z
+  Updated: 2026-11-21T12:14:56Z
   Total Products: 52
 - [Best Sellers](https://zolita.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-11-12T12:13:47Z
+  Updated: 2026-11-21T12:14:56Z
   Total Products: 52
 - [](https://zolita.merchmadeeasy.com/collections/)
-  Updated: 2026-11-12T12:13:47Z
-  Total Products: 11
+  Updated: 2026-11-21T12:14:56Z
+  Total Products: 41
 - [Tees & Tanks](https://zolita.merchmadeeasy.com/collections/tees-tanks)
-  Updated: 2026-11-12T12:13:47Z
+  Updated: 2026-11-21T12:14:56Z
   Total Products: 24
 - [I <3 GIRLS](https://zolita.merchmadeeasy.com/collections/i-3-girls)
-  Updated: 2026-08-05T18:57:59Z
+  Updated: 2026-11-19T15:00:34Z
   Total Products: 2
 - [Hell's Belles](https://zolita.merchmadeeasy.com/collections/hells-belles)
-  Updated: 2026-11-12T12:13:47Z
+  Updated: 2026-11-21T12:14:56Z
   Total Products: 9
 - [Hell's Belles Tour](https://zolita.merchmadeeasy.com/collections/hells-belles-tour)
-  Updated: 2026-11-12T12:13:47Z
+  Updated: 2026-11-21T12:14:56Z
   Total Products: 6
 
 ## Store Pages
