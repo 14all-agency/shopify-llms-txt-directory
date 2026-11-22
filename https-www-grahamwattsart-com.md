@@ -5,12 +5,12 @@
 - Domain: https://www.grahamwattsart.com
 - Locale: en
 - Currency: CAD
-- Timezone: America/Los_Angeles
+- Timezone: America/Vancouver
 - Created At: 2026-03-17T20:45:18Z
 - Contact Email: art@grahamwatts.art
 - Contact Phone: (604) 200-0170
 - Address: 1704 Charles Street, Vancouver, BC V5L 2T6
-- Updated At: 2026-11-14T20:14:24.473Z
+- Updated At: 2026-11-22T00:22:02.738Z
 
 ## Products
 
