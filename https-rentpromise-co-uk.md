@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-10-06T14:11:41Z
 - Contact Email: enquiries@rentpromise.co.uk
-- Updated At: 2026-11-14T00:55:11.724Z
+- Updated At: 2026-11-22T00:55:58.549Z
 
 ## Collections
 
@@ -295,6 +295,18 @@
     Updated: 2026-11-13T09:07:12Z
     Author: RentPromise Team
     Tags:  rent,  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, hands-off property management, housing, housing association lease , housing association leases, no void social housing , rent, security, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living, supported living , supported living   r
+  - [Social Housing vs Buy to Let: Navigate the Benefits of  Rent](https://rentpromise.co.uk/blogs/news/social-housing-vs-buy-to-let-navigate-the-benefits-of--rent): Social Housing vs Buy to Let: Navigate the Benefits of  Rent
+    Updated: 2026-11-16T09:08:12Z
+    Author: RentPromise Team
+    Tags:  rent,  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, hands-off property management, housing, housing association lease , housing association leases, leasing, no void social housing , rent, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living , supported living   r, supported living properties
+  - [Optimising UK Rental Investments: The Role of Housing Association Leases](https://rentpromise.co.uk/blogs/news/optimising-uk-rental-investments-the-role-of-housing-association-leases): Optimising UK Rental Investments: The Role of Housing Association Leases
+    Updated: 2026-11-18T09:06:08Z
+    Author: RentPromise Team
+    Tags:  rent for landlords,  rent scheme,  rent schemes,  rent social housing investmen,  rent uk, housing, housing association lease , leases, no void social housing , property management, rent, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living , supported living   r, supported living options, uk landlord services
+  - [ Rent and Hands-Off Management: Transform Your Property Experience](https://rentpromise.co.uk/blogs/news/-rent-and-hands-off-management-transform-your-property-experience):  Rent and Hands-Off Management: Transform Your Property Experience
+    Updated: 2026-11-20T09:05:38Z
+    Author: RentPromise Team
+    Tags:  rent for landlords,  rent scheme,  rent social housing investmen,  rent solutions,  rent uk, hands-off property, housing, housing association lease , management, no void social housing , property leasing, rent, social housing  uk, social housing  with guarantee, social housing lease , social housing management, specialist supported housing , supported living, supported living , supported living   r
 
 ## Store Pages
 
