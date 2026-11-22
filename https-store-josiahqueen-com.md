@@ -6,151 +6,158 @@
 - Timezone: America/Chicago
 - Created At: 2023-08-09T19:17:45Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-14T00:24:50.012Z
+- Updated At: 2026-11-22T00:22:55.648Z
 
 ## Products
 
 - [The Prodigal Tee - Brown](https://store.josiahqueen.com/products/the-prodigal-t-shirt-pre-order): Josiah Queen The Prodigal Tee in Espresso with front and back print. 100% Cotton / Preshrunk, soft-washed, garment-dyed fabric. Comfort colors tee. SIZING CHART: SIZE: width x length S: 17.5" x 26.63" M: 19.5" x 28" L: 21.25" x 29.38" XL: 23" x 30.75" 2X: 25" x 31.63" 3X: 27" x 32.5"
-  Updated: 2026-11-09T20:56:19Z
+  Updated: 2026-11-20T17:46:15Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_PRODIGAL_TEE-4.png?v=1793727306
   - [Small](https://store.josiahqueen.com/products/the-prodigal-t-shirt-pre-order?variant=47990900850965)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [Medium](https://store.josiahqueen.com/products/the-prodigal-t-shirt-pre-order?variant=47990900883733)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [Large](https://store.josiahqueen.com/products/the-prodigal-t-shirt-pre-order?variant=47990900916501)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [X-Large](https://store.josiahqueen.com/products/the-prodigal-t-shirt-pre-order?variant=47990900949269)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [XX-Large](https://store.josiahqueen.com/products/the-prodigal-t-shirt-pre-order?variant=47990900982037)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [-Large](https://store.josiahqueen.com/products/the-prodigal-t-shirt-pre-order?variant=49932733776149)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
 - [The Prodigal - Bone Vinyl](https://store.josiahqueen.com/products/the-prodigal-vinyl-pre-order): Josiah Queen's debut album "The Prodigal" on vinyl. TRACKLIST:SIDE A1. Garden In Manhattan2. In The Fire3. Fishes and Loaves4. Things That Matter5. The Prodigal6. Die A BeggarSIDE B7. Altars Over Stages8. My Promised Land9. Take Me Home10. I Am Barabbas11. Who I Was
-  Updated: 2026-11-13T22:45:25Z
+  Updated: 2026-11-21T21:07:06Z
   Vendor: Josiah Queen
   Product Type: music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_PRODIGAL_VINYL-3.png?v=1793730183
   Price: $24.99 USD
 - [Can't Steal My Joy Hat](https://store.josiahqueen.com/products/cant-steal-my-joy-hat): Josiah Queen Can't Steal My Joy Hat in brown. Adjustable sizing with metal clasp closure.
-  Updated: 2026-11-12T06:04:36Z
+  Updated: 2026-11-21T23:12:56Z
   Vendor: Josiah Queen
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_CSMJ_HAT.png?v=1793727307
   Price: $35.00 USD
 - [Dusty Bibles Tee](https://store.josiahqueen.com/products/dusty-bibles-tee): Josiah Queen Dusty Bibles Tee in "blue jean" with front and back print. 100% Cotton / Preshrunk, soft-washed, garment-dyed fabric. Comfort colors tee. SIZING CHART: Size Body Length (in) Chest Width (Laid Flat) S 26 1/2 18 1/4 M 28 20 1/4 L 29 1/2 22 XL 30 3/4 24 2XL 31 1/2 26
-  Updated: 2026-11-13T22:46:36Z
+  Updated: 2026-11-22T00:00:36Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_DUSTY_BIBLES_TEE.png?v=1793727307
   - [Small](https://store.josiahqueen.com/products/dusty-bibles-tee?variant=49068078039317)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [Medium](https://store.josiahqueen.com/products/dusty-bibles-tee?variant=49068078072085)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [Large](https://store.josiahqueen.com/products/dusty-bibles-tee?variant=49068078104853)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [X-Large](https://store.josiahqueen.com/products/dusty-bibles-tee?variant=49068078137621)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [XX-Large](https://store.josiahqueen.com/products/dusty-bibles-tee?variant=49068078170389)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
 - [Dusty Bibles Youth Tee](https://store.josiahqueen.com/products/dusty-bibles-youth-tee): Josiah Queen Dusty Bibles YOUTH Tee in "blue jean" with front and back print. 100% Cotton / Preshrunk, soft-washed, garment-dyed fabric. Comfort colors tee.
-  Updated: 2026-11-13T19:57:46Z
+  Updated: 2026-11-21T19:08:05Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_DB_YOUTH_TEE-2.png?v=1793727305
   - [Youth X-Small](https://store.josiahqueen.com/products/dusty-bibles-youth-tee?variant=49138610077973)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [Youth Small](https://store.josiahqueen.com/products/dusty-bibles-youth-tee?variant=49138610110741)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [Youth Medium](https://store.josiahqueen.com/products/dusty-bibles-youth-tee?variant=49138610143509)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [Youth Large](https://store.josiahqueen.com/products/dusty-bibles-youth-tee?variant=49138610176277)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [Youth X-Large](https://store.josiahqueen.com/products/dusty-bibles-youth-tee?variant=49138610209045)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
 - [The Prodigal Youth Tee](https://store.josiahqueen.com/products/the-prodigal-youth-tee): Josiah Queen The Prodigal YOUTH Tee in forest green with front and back print. 100% Cotton / Preshrunk, soft-washed, garment-dyed fabric. Comfort colors tee.
-  Updated: 2026-11-13T22:15:21Z
+  Updated: 2026-11-21T00:03:55Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_PRODIGAL_YOUTH_TEE-2.png?v=1793727306
   - [Youth X-Small](https://store.josiahqueen.com/products/the-prodigal-youth-tee?variant=49138792694037)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [Youth Small](https://store.josiahqueen.com/products/the-prodigal-youth-tee?variant=49138792726805)
     Availability: Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [Youth Medium](https://store.josiahqueen.com/products/the-prodigal-youth-tee?variant=49138792759573)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [Youth Large](https://store.josiahqueen.com/products/the-prodigal-youth-tee?variant=49138792792341)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $22.50 USD
   - [Youth X-Large](https://store.josiahqueen.com/products/the-prodigal-youth-tee?variant=49138792825109)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $22.50 USD
 - [Mt. Zion - Vinyl](https://store.josiahqueen.com/products/mt-zion-vinyl): Josiah Queen's new album "Mt. Zion" on vinyl.
-  Updated: 2026-11-13T19:36:05Z
+  Updated: 2026-11-21T19:03:45Z
   Vendor: Josiah Queen
   Product Type: music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_MT_ZION_VINYL-3.png?v=1793729399
   Price: $24.99 USD
 - [Cloud and Fire Tote](https://store.josiahqueen.com/products/cloud-and-fire-tote): Cloud and Fire 12oz Tote in cotton canvas with gusset bottom in shade "natural"15" W x 16" H x 3" D
-  Updated: 2026-11-12T13:48:37Z
+  Updated: 2026-11-21T16:35:17Z
   Vendor: Josiah Queen
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_TOTE.png?v=1793727306
   Price: $15.00 USD
 - [Mt. Zion Tour Tee](https://store.josiahqueen.com/products/mt-zion-tee): Josiah Queen Mt. Zion Tour Tee in mineral washed black with front print and 2026 tour dates printed on back. 100% Cotton
-  Updated: 2026-11-13T22:46:37Z
+  Updated: 2026-11-21T22:08:15Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_MT_ZION_TOUR_TEE.png?v=1793727307
   - [X-Small](https://store.josiahqueen.com/products/mt-zion-tee?variant=49924063789333)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $26.25 USD
   - [Small](https://store.josiahqueen.com/products/mt-zion-tee?variant=49474374009109)
     Availability: Available
-    Price: $15.00 USD
+    Price: $26.25 USD
   - [Medium](https://store.josiahqueen.com/products/mt-zion-tee?variant=49474374041877)
     Availability: Available
-    Price: $15.00 USD
+    Price: $26.25 USD
   - [Large](https://store.josiahqueen.com/products/mt-zion-tee?variant=49474374074645)
     Availability: Available
-    Price: $15.00 USD
+    Price: $26.25 USD
   - [X-Large](https://store.josiahqueen.com/products/mt-zion-tee?variant=49474374107413)
     Availability: Available
-    Price: $15.00 USD
+    Price: $26.25 USD
   - [XX-Large](https://store.josiahqueen.com/products/mt-zion-tee?variant=49474374140181)
     Availability: Available
-    Price: $15.00 USD
+    Price: $26.25 USD
+- [Josiah Queen | Official Online Store | Slow Down, Please Journal](https://store.josiahqueen.com/products/slow-down-please-journal): Slow Down, Please Journal in shade "meadow" with lined pages on the inside. 9.25 x 6.75
+  Updated: 2026-11-18T19:49:47Z
+  Vendor: Josiah Queen
+  Product Type: accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_JOURNAL.png?v=1793727307
+  Price: $30.00 USD
 - [Josiah Queen | Official Online Store | Demons Tee](https://store.josiahqueen.com/products/demons-tee): Josiah Queen Demons Tee in "Vintage Wood Camo" with front and back print. 100% cotton with oversized drop shoulder Size Chart Size Body Length (in) Chest Width (in) S 27 1/4 20 1/2 M 28 1/4 22 L 29 1/4 23 1/2 XL 30 1/4 25 2XL 31 1/4 26 1/2
-  Updated: 2026-11-13T11:09:15Z
+  Updated: 2026-11-21T16:06:06Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
@@ -174,105 +181,105 @@
     Availability: Not Available
     Price: $50.00 USD
 - [Josiah Queen | Official Online Store | JESUS IS COMING BACK SOON HOODIE](https://store.josiahqueen.com/products/adonai-hoodie): Josiah Queen Adonai Hoodie in Classic Navy with front print only. SIZING CHART: Size Body Length (in) Chest Width (in) S 27 1/2 23 1/4 M 28 1/2 24 1/2 L 29 1/2 25 1/2 XL 30 1/2 26 3/4 2XL 32 28
-  Updated: 2026-11-13T12:54:55Z
+  Updated: 2026-11-20T17:42:35Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_ADONAI.png?v=1793727306
   - [Small](https://store.josiahqueen.com/products/adonai-hoodie?variant=49779086557461)
     Availability: Available
-    Price: $50.00 USD
+    Price: $52.50 USD
   - [Medium](https://store.josiahqueen.com/products/adonai-hoodie?variant=49779086590229)
     Availability: Not Available
-    Price: $50.00 USD
+    Price: $52.50 USD
   - [Large](https://store.josiahqueen.com/products/adonai-hoodie?variant=49779086622997)
     Availability: Not Available
-    Price: $50.00 USD
+    Price: $52.50 USD
   - [X-Large](https://store.josiahqueen.com/products/adonai-hoodie?variant=49779086655765)
     Availability: Not Available
-    Price: $50.00 USD
+    Price: $52.50 USD
   - [XX-Large](https://store.josiahqueen.com/products/adonai-hoodie?variant=49779086688533)
     Availability: Available
-    Price: $50.00 USD
+    Price: $52.50 USD
 - [Mt. Zion Sticker Sheet](https://store.josiahqueen.com/products/mt-zion-sticker-sheet): 9 x 6.5 sticker sheet Includes 4 stickers
-  Updated: 2026-11-12T06:04:36Z
+  Updated: 2026-11-20T17:58:55Z
   Vendor: Josiah Queen
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_MT_ZION_STICKER_SHEET.png?v=1793727303
-  Price: $10.00 USD
+  Price: $7.50 USD
 - [Josiah Queen | Official Online Store | Demons Tee](https://store.josiahqueen.com/products/demons-tee-vintage-grey): Now available in Vintage Grey Wood Camo! Josiah Queen Demons Tee with front and back print. 100% cotton with oversized drop shoulder Size Chart Size Body Length (in) Chest Width (in) S 27 1/4 20 1/2 M 28 1/4 22 L 29 1/4 23 1/2 XL 30 1/4 25 2XL 31 1/4 26 1/2
-  Updated: 2026-11-12T20:34:16Z
+  Updated: 2026-11-21T23:09:06Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_DEMONS_TEE-9.png?v=1793727308
   - [Small](https://store.josiahqueen.com/products/demons-tee-vintage-grey?variant=49828188487957)
     Availability: Available
-    Price: $50.00 USD
+    Price: $37.50 USD
   - [Medium](https://store.josiahqueen.com/products/demons-tee-vintage-grey?variant=49828188520725)
     Availability: Not Available
-    Price: $50.00 USD
+    Price: $37.50 USD
   - [Large](https://store.josiahqueen.com/products/demons-tee-vintage-grey?variant=49828188553493)
     Availability: Available
-    Price: $50.00 USD
+    Price: $37.50 USD
   - [X-Large](https://store.josiahqueen.com/products/demons-tee-vintage-grey?variant=49828188586261)
     Availability: Available
-    Price: $50.00 USD
+    Price: $37.50 USD
   - [XX-Large](https://store.josiahqueen.com/products/demons-tee-vintage-grey?variant=49828188619029)
     Availability: Available
-    Price: $50.00 USD
+    Price: $37.50 USD
 - [The Prodigal Bracelet - Blue](https://store.josiahqueen.com/products/the-prodigal-bracelet-blue): Josiah Queen The Prodigal Bracelet in blue!
-  Updated: 2026-11-09T20:59:11Z
+  Updated: 2026-11-21T19:03:36Z
   Vendor: Josiah Queen
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_BRACELET-2.png?v=1793727306
   Price: $5.00 USD
 - [Mt. Zion Bracelet](https://store.josiahqueen.com/products/mt-zion-bracelet): Josiah Queen Mt. Zion Bracelet in gold!
-  Updated: 2026-11-09T20:59:02Z
+  Updated: 2026-11-15T23:15:45Z
   Vendor: Josiah Queen
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_BRACELET.png?v=1793727307
   Price: $5.00 USD
 - [The Prodigal Bracelet - Brown](https://store.josiahqueen.com/products/the-prodigal-bracelet-brown): Josiah Queen The Prodigal Bracelet in brown!
-  Updated: 2026-11-12T14:31:56Z
+  Updated: 2026-11-15T23:15:45Z
   Vendor: Josiah Queen
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_PRODIGAL_BRACELET.png?v=1793727306
   Price: $5.00 USD
 - [Mt. Zion Tour Poster](https://store.josiahqueen.com/products/mt-zion-tour-poster): Mt. Zion Tour Poster 11"W x 17"H
-  Updated: 2026-11-13T19:39:36Z
+  Updated: 2026-11-22T00:00:35Z
   Vendor: Josiah Queen
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_MT_ZION_POSTER.png?v=1793727307
-  Price: $5.00 USD
+  Price: $7.50 USD
 - [Promised Land Tee - Orange](https://store.josiahqueen.com/products/promised-land-tee-orange): Josiah Queen Promised Land Tee in Yam with front and back print. 100% Cotton / Preshrunk, soft-washed, garment-dyed fabric. Comfort colors tee. SIZING CHART: SIZE: width x length S: 17.5" x 26.63" M: 19.5" x 28" L: 21.25" x 29.38" XL: 23" x 30.75" 2X: 25" x 31.63" 3X: 27" x 32.5"
-  Updated: 2026-11-12T23:27:15Z
+  Updated: 2026-11-21T19:08:05Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_PROMISED_LAND_TEE-2.png?v=1793727305
   - [Small](https://store.josiahqueen.com/products/promised-land-tee-orange?variant=50004920697109)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [Medium](https://store.josiahqueen.com/products/promised-land-tee-orange?variant=50004920729877)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [Large](https://store.josiahqueen.com/products/promised-land-tee-orange?variant=50004920762645)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [X-Large](https://store.josiahqueen.com/products/promised-land-tee-orange?variant=50004920795413)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [XX-Large](https://store.josiahqueen.com/products/promised-land-tee-orange?variant=50004920828181)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
 - [The Prodigal Tee - Moss](https://store.josiahqueen.com/products/the-prodigal-tee-moss): Josiah Queen The Prodigal Tee in Moss with front and back print. 100% Cotton / Preshrunk, soft-washed, garment-dyed fabric. Comfort colors tee. SIZING CHART: SIZE: width x length S: 17.5" x 26.63" M: 19.5" x 28" L: 21.25" x 29.38" XL: 23" x 30.75" 2X: 25" x 31.63" 3X: 27" x 32.5"
-  Updated: 2026-11-13T16:11:36Z
+  Updated: 2026-11-21T19:05:36Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
@@ -293,77 +300,77 @@
     Availability: Available
     Price: $35.00 USD
 - [Demons Hat](https://store.josiahqueen.com/products/demons-hat): Camo Demons Hat with yellow embroidery on front. Adjustable sizing with plastic snap closure.
-  Updated: 2026-11-09T02:08:25Z
+  Updated: 2026-11-20T20:46:35Z
   Vendor: Josiah Queen
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_DEMONS_HAT-2.png?v=1793727308
   Price: $35.00 USD
 - [Run & Hide Hoodie](https://store.josiahqueen.com/products/run-and-hide-hoodie): Josiah Queen Demons Hoodie in clay with front and back print. 80/20 ring-spun cotton/polyester 3-end fleece with 100% cotton face yarns SIZE CHART Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 1/2 23 1/4 36 M 28 1/2 24 1/2 37 L 29 1/2 25 1/2 38 XL 30 1/2 26 3/4 39 2XL 32 28 40
-  Updated: 2026-11-13T20:01:36Z
+  Updated: 2026-11-21T21:06:16Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_RUN_HIDE_HOODIE-2.png?v=1793727308
   - [Small](https://store.josiahqueen.com/products/run-and-hide-hoodie?variant=50008107090197)
     Availability: Available
-    Price: $65.00 USD
+    Price: $48.75 USD
   - [Medium](https://store.josiahqueen.com/products/run-and-hide-hoodie?variant=50008107122965)
     Availability: Available
-    Price: $65.00 USD
+    Price: $48.75 USD
   - [Large](https://store.josiahqueen.com/products/run-and-hide-hoodie?variant=50008107155733)
     Availability: Available
-    Price: $65.00 USD
+    Price: $48.75 USD
   - [X-Large](https://store.josiahqueen.com/products/run-and-hide-hoodie?variant=50008107188501)
     Availability: Available
-    Price: $65.00 USD
+    Price: $48.75 USD
   - [XX-Large](https://store.josiahqueen.com/products/run-and-hide-hoodie?variant=50008107221269)
     Availability: Available
-    Price: $65.00 USD
-- [Damascus Road - Red Vinyl](https://store.josiahqueen.com/products/damascus-road-vinyl): Josiah Queen's new album "Damascus Road" on signature red vinyl. This item is a pre-order that will ship mid-November.
-  Updated: 2026-11-13T19:36:06Z
+    Price: $48.75 USD
+- [Damascus Road - Red Vinyl](https://store.josiahqueen.com/products/damascus-road-vinyl): Josiah Queen's new album "Damascus Road" on signature red vinyl.
+  Updated: 2026-11-21T18:46:36Z
   Vendor: Josiah Queen
   Product Type: music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQDAMASCUSROADREDVINYL.png?v=1793299325
   Price: $24.99 USD
-- [Damascus Road - Lenticular Cover + Blueberry Jam Vinyl](https://store.josiahqueen.com/products/damascus-road-lenticular-cover-blueberry-jam-vinyl): Josiah Queen's new album "Damascus Road" on "blueberry jam" vinyl with the exclusive lenticular cover. This item is a pre-order that will ship mid-November.
-  Updated: 2026-11-13T19:23:36Z
+- [Damascus Road - Lenticular Cover + Blueberry Jam Vinyl](https://store.josiahqueen.com/products/damascus-road-lenticular-cover-blueberry-jam-vinyl): Josiah Queen's new album "Damascus Road" on "blueberry jam" vinyl with the exclusive lenticular cover.
+  Updated: 2026-11-20T18:20:55Z
   Vendor: Josiah Queen
   Product Type: music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQDRLENTICULARCOVER.png?v=1793639073
   Price: $39.99 USD
-- [Damascus Road - CD](https://store.josiahqueen.com/products/damascus-road-cd): Josiah Queen's new album "Damascus Road" on CD. This item is a pre-order that will ship mid-November.
-  Updated: 2026-11-13T13:59:31Z
+- [Damascus Road - CD](https://store.josiahqueen.com/products/damascus-road-cd): Josiah Queen's new album "Damascus Road" on CD.
+  Updated: 2026-11-21T18:25:26Z
   Vendor: Josiah Queen
   Product Type: music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQDAMASCUSROADCD.png?v=1793299617
   Price: $7.99 USD
 - [Damascus Road Sticker Sheet](https://store.josiahqueen.com/products/damacus-road-sticker-sheet): 9 x 6.5 sticker sheet Includes 5 stickers
-  Updated: 2026-11-13T22:45:26Z
+  Updated: 2026-11-21T17:51:05Z
   Vendor: Josiah Queen
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_STICKER_SHEET_DR.png?v=1793727305
   Price: $10.00 USD
 - [Make Heaven Crowded Motel Keychain Josiah Queen](https://store.josiahqueen.com/products/make-heaven-crowded-keychain): Black motel keychain
-  Updated: 2026-11-13T22:24:02Z
+  Updated: 2026-11-21T22:22:06Z
   Vendor: Josiah Queen
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_MOTEL_KEYCHAIN.png?v=1793727306
   Price: $5.00 USD
-- [Damascus Road Acrylic Truck Keychain Josiah Queen](https://store.josiahqueen.com/products/truck-keychain): Damascus Road Acrylic Keychain This item is a pre-order that will ship mid-November.
-  Updated: 2026-11-13T22:45:26Z
+- [Damascus Road Acrylic Truck Keychain Josiah Queen](https://store.josiahqueen.com/products/truck-keychain): Damascus Road Acrylic Keychain
+  Updated: 2026-11-21T17:51:07Z
   Vendor: Josiah Queen
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_TRUCK_KEYCHAIN.png?v=1793727307
   Price: $10.00 USD
-- [Out of Breath Tee Josiah Queen 100% Cotton](https://store.josiahqueen.com/products/out-of-breath-tee): Josiah Queen Out of Breath Tee in Espresso with front print. This item is a pre-order that will ship mid-November. 100% Cotton / Preshrunk, soft-washed, garment-dyed fabric. Comfort colors tee.
-  Updated: 2026-11-13T18:49:36Z
+- [Out of Breath Tee Josiah Queen 100% Cotton](https://store.josiahqueen.com/products/out-of-breath-tee): Josiah Queen Out of Breath Tee in Espresso with front print. 100% Cotton / Preshrunk, soft-washed, garment-dyed fabric. Comfort colors tee.
+  Updated: 2026-11-21T22:22:06Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
@@ -383,8 +390,8 @@
   - [XX-Large](https://store.josiahqueen.com/products/out-of-breath-tee?variant=50345207333141)
     Availability: Available
     Price: $35.00 USD
-- [Demons Hoodie - Camo Josiah Queen](https://store.josiahqueen.com/products/demons-camo-hoodie): Josiah Queen Demons Hoodie in Vintage Wood Camo with front and back print. This item is a pre-order that will ship mid-November.
-  Updated: 2026-11-13T19:48:16Z
+- [Demons Hoodie - Camo Josiah Queen](https://store.josiahqueen.com/products/demons-camo-hoodie): Josiah Queen Demons Hoodie in Vintage Wood Camo with front and back print.
+  Updated: 2026-11-21T19:03:41Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
@@ -404,8 +411,8 @@
   - [XX-Large](https://store.josiahqueen.com/products/demons-camo-hoodie?variant=50345227223317)
     Availability: Available
     Price: $100.00 USD
-- [Make Heaven Crowded Tee Josiah Queen 100% Cotton](https://store.josiahqueen.com/products/make-heaven-crowded-tee): Make Heaven Crowded Tee in Denim with front print. This item is a pre-order that will ship mid-November. 100% Cotton / Preshrunk, soft-washed, garment-dyed fabric. Comfort colors tee.
-  Updated: 2026-11-13T21:22:15Z
+- [Make Heaven Crowded Tee Josiah Queen 100% Cotton](https://store.josiahqueen.com/products/make-heaven-crowded-tee): Make Heaven Crowded Tee in Denim with front print. 100% Cotton / Preshrunk, soft-washed, garment-dyed fabric. Comfort colors tee.
+  Updated: 2026-11-21T22:05:46Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
@@ -425,8 +432,8 @@
   - [XX-Large](https://store.josiahqueen.com/products/make-heaven-crowded-tee?variant=50345295446293)
     Availability: Available
     Price: $35.00 USD
-- [Fire In My Soul Tee Josiah Queen 100% Cotton](https://store.josiahqueen.com/products/fire-in-my-soul-tee): Fire In My Soul Tee in Graphite with front and back print. This item is a pre-order that will ship mid-November. 100% Cotton / Preshrunk, soft-washed, garment-dyed fabric. Comfort colors tee.
-  Updated: 2026-11-13T23:50:05Z
+- [Fire In My Soul Tee Josiah Queen 100% Cotton](https://store.josiahqueen.com/products/fire-in-my-soul-tee): Fire In My Soul Tee in Graphite with front and back print. 100% Cotton / Preshrunk, soft-washed, garment-dyed fabric. Comfort colors tee.
+  Updated: 2026-11-21T22:05:46Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
@@ -435,7 +442,7 @@
     Availability: Available
     Price: $40.00 USD
   - [Medium](https://store.josiahqueen.com/products/fire-in-my-soul-tee?variant=50345322021141)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
   - [Large](https://store.josiahqueen.com/products/fire-in-my-soul-tee?variant=50345322053909)
     Availability: Available
@@ -446,8 +453,8 @@
   - [XX-Large](https://store.josiahqueen.com/products/fire-in-my-soul-tee?variant=50345322119445)
     Availability: Available
     Price: $40.00 USD
-- [Run & Hide Tee Josiah Queen 100% Cotton](https://store.josiahqueen.com/products/run-hide-tee): Run & Hide Tee in Pepper with front print. This item is a pre-order that will ship mid-November. 100% Cotton / Preshrunk, soft-washed, garment-dyed fabric. Comfort colors tee.
-  Updated: 2026-11-13T20:01:35Z
+- [Run & Hide Tee Josiah Queen 100% Cotton](https://store.josiahqueen.com/products/run-hide-tee): Run & Hide Tee in Pepper with front print. 100% Cotton / Preshrunk, soft-washed, garment-dyed fabric. Comfort colors tee.
+  Updated: 2026-11-21T18:39:36Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
@@ -467,8 +474,8 @@
   - [XX-Large](https://store.josiahqueen.com/products/run-hide-tee?variant=50345326936341)
     Availability: Available
     Price: $40.00 USD
-- [Damascus Road Tee Josiah Queen 100% Cotton](https://store.josiahqueen.com/products/damascus-road-tee): Damascus Road Tee in White with front and back print. This item is a pre-order that will ship mid-November. 100% Cotton Hanes tee.
-  Updated: 2026-11-13T19:03:27Z
+- [Damascus Road Tee Josiah Queen 100% Cotton](https://store.josiahqueen.com/products/damascus-road-tee): Damascus Road Tee in White with front and back print. 100% Cotton Hanes tee.
+  Updated: 2026-11-21T23:41:46Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
@@ -488,8 +495,8 @@
   - [XX-Large](https://store.josiahqueen.com/products/damascus-road-tee?variant=50345336668437)
     Availability: Available
     Price: $35.00 USD
-- [Damascus Road Hoodie Josiah Queen](https://store.josiahqueen.com/products/damascus-road-hoodie): Josiah Queen Damascus Road Hoodie in Frey Heather with front print. This item is a pre-order that will ship mid-November. 52% cotton / 48% polyester
-  Updated: 2026-11-13T19:03:25Z
+- [Damascus Road Hoodie Josiah Queen](https://store.josiahqueen.com/products/damascus-road-hoodie): Josiah Queen Damascus Road Hoodie in Frey Heather with front print. 52% cotton / 48% polyester
+  Updated: 2026-11-21T14:15:15Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
@@ -509,8 +516,8 @@
   - [XX-Large](https://store.josiahqueen.com/products/damascus-road-hoodie?variant=50345361998101)
     Availability: Available
     Price: $70.00 USD
-- [Josiah Queen Run and Hide Crewneck](https://store.josiahqueen.com/products/run-hide-crewneck): Josiah Queen Run & Hide Crewneck in Bone with front print. This item is a pre-order that will ship mid-November. 80/20 ring-spun cotton/polyester
-  Updated: 2026-11-13T22:45:26Z
+- [Josiah Queen Run and Hide Crewneck](https://store.josiahqueen.com/products/run-hide-crewneck): Josiah Queen Run & Hide Crewneck in Bone with front print. 80/20 ring-spun cotton/polyester
+  Updated: 2026-11-21T15:01:56Z
   Vendor: Josiah Queen
   Product Type: apparel
   Availability: Available
@@ -531,93 +538,169 @@
     Availability: Available
     Price: $55.00 USD
 - [Damascus Road Tote](https://store.josiahqueen.com/products/tracklist-tote): Damascus Road cotton canvas tote in shade "natural"
-  Updated: 2026-11-13T22:15:26Z
+  Updated: 2026-11-21T01:17:26Z
   Vendor: Josiah Queen
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQDRTOTE-2.png?v=1793727414
   Price: $20.00 USD
 - [Damascus Road Hat](https://store.josiahqueen.com/products/damascus-road-hat): Damascus Road Hat in Natural/Navy with front patch. Adjustable sizing with plastic snap closure.
-  Updated: 2026-11-13T21:51:05Z
+  Updated: 2026-11-21T15:50:05Z
   Vendor: Josiah Queen
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_DR_HAT.png?v=1793727307
   Price: $35.00 USD
 - [Guitar Picks](https://store.josiahqueen.com/products/guitar-picks): Set of 3 double-sided picks This item is a pre-order that will ship mid-November.
-  Updated: 2026-11-13T22:46:35Z
+  Updated: 2026-11-21T23:41:46Z
   Vendor: Josiah Queen
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_GUITAR_PICKS-2.png?v=1793727306
   Price: $10.00 USD
 - [Josiah King Sunglasses](https://store.josiahqueen.com/products/josiah-king-sunglasses): Josiah King Pit Viper Sunglasses
-  Updated: 2026-11-13T20:28:16Z
+  Updated: 2026-11-21T18:25:26Z
   Vendor: Josiah Queen
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQ_PIT_VIPERS-4.png?v=1793727306
   Price: $15.00 USD
+- [Demons Pennant](https://store.josiahqueen.com/products/demons-pennant): 8x18 Demons Pennant in brown with white stripe.
+  Updated: 2026-11-21T22:05:49Z
+  Vendor: Josiah Queen
+  Product Type: accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQPENNANT.png?v=1795113985
+  Price: $15.00 USD
+- [AMAZING! Hoodie Josiah Queen](https://store.josiahqueen.com/products/amazing-hoodie): AMAZING! Hoodie in Vintage Red with front print only This item is a pre-order that will ship mid-December. 100% Cotton SIZE CHART Size Body Length (in) Chest Width (in) Sleeve Length (in) XS 25 22 22 1/4 S 26 23 1/2 22 3/4 M 27 25 23 1/4 L 28 26 1/2 23 3/4 XL 29 28 24 1/4 2XL 30 29 1/2 24 3/4
+  Updated: 2026-11-21T23:08:56Z
+  Vendor: Josiah Queen
+  Product Type: apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQAMAZING_HOODIE_1aaa9925-6157-4394-b331-77780fe492b3.png?v=1795032762
+  - [X-Small](https://store.josiahqueen.com/products/amazing-hoodie?variant=50414176600341)
+    Availability: Available
+    Price: $80.00 USD
+  - [Small](https://store.josiahqueen.com/products/amazing-hoodie?variant=50410809327893)
+    Availability: Available
+    Price: $80.00 USD
+  - [Medium](https://store.josiahqueen.com/products/amazing-hoodie?variant=50410809360661)
+    Availability: Available
+    Price: $80.00 USD
+  - [Large](https://store.josiahqueen.com/products/amazing-hoodie?variant=50410809393429)
+    Availability: Available
+    Price: $80.00 USD
+  - [X-Large](https://store.josiahqueen.com/products/amazing-hoodie?variant=50410809426197)
+    Availability: Available
+    Price: $80.00 USD
+  - [XX-Large](https://store.josiahqueen.com/products/amazing-hoodie?variant=50410809458965)
+    Availability: Available
+    Price: $80.00 USD
+- [AMAZING! Boxy Tee Josiah Queen 100% Cotton](https://store.josiahqueen.com/products/amazing-boxy-tee): AMAZING! Boxy Tee in Navy with front print only. 100% Cotton Mid-length with wide rib collar SIZE CHART Size Body Length (in) Chest Width (in) S 25 21 1/2 M 26 23 L 27 25 XL 28 27 2XL 29 29
+  Updated: 2026-11-21T19:08:05Z
+  Vendor: Josiah Queen
+  Product Type: apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQAMAZING_TEE_08f64593-3e61-4a4d-8140-206f8a3ac6f6.png?v=1795032847
+  - [Small](https://store.josiahqueen.com/products/amazing-boxy-tee?variant=50410812670229)
+    Availability: Available
+    Price: $40.00 USD
+  - [Medium](https://store.josiahqueen.com/products/amazing-boxy-tee?variant=50410812702997)
+    Availability: Available
+    Price: $40.00 USD
+  - [Large](https://store.josiahqueen.com/products/amazing-boxy-tee?variant=50410812735765)
+    Availability: Available
+    Price: $40.00 USD
+  - [X-Large](https://store.josiahqueen.com/products/amazing-boxy-tee?variant=50410812768533)
+    Availability: Available
+    Price: $40.00 USD
+  - [XX-Large](https://store.josiahqueen.com/products/amazing-boxy-tee?variant=50410812801301)
+    Availability: Available
+    Price: $40.00 USD
+- [AMAZING! Crop Tee Josiah Queen 100% Cotton](https://store.josiahqueen.com/products/amazing-crop-tee): AMAZING! Boxy Tee in Bone White with front and back print. 100% Cotton Ultra-Cropped / Boxy / Drop Shoulder SIZE CHART Size Body Length (in) Chest Width (in) Sleeve Length (in) S 24 23 9.25 M 25 24 9.5 L 26 25 9.72 XL 27 26 10
+  Updated: 2026-11-21T22:05:48Z
+  Vendor: Josiah Queen
+  Product Type: apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0805/4033/6405/files/JQAMAZING_TEE-2.png?v=1795032917
+  - [Small](https://store.josiahqueen.com/products/amazing-crop-tee?variant=50410815258901)
+    Availability: Available
+    Price: $40.00 USD
+  - [Medium](https://store.josiahqueen.com/products/amazing-crop-tee?variant=50410815291669)
+    Availability: Available
+    Price: $40.00 USD
+  - [Large](https://store.josiahqueen.com/products/amazing-crop-tee?variant=50410815324437)
+    Availability: Available
+    Price: $40.00 USD
+  - [X-Large](https://store.josiahqueen.com/products/amazing-crop-tee?variant=50410815357205)
+    Availability: Available
+    Price: $40.00 USD
+  - [XX-Large](https://store.josiahqueen.com/products/amazing-crop-tee?variant=50410815389973)
+    Availability: Available
+    Price: $40.00 USD
 
 ## Collections
 
 - [Home page](https://store.josiahqueen.com/collections/frontpage)
-  Updated: 2026-11-13T12:08:34Z
-  Total Products: 82
+  Updated: 2026-11-21T12:10:43Z
+  Total Products: 85
 - [All](https://store.josiahqueen.com/collections/all)
-  Updated: 2026-11-13T12:08:34Z
-  Total Products: 92
+  Updated: 2026-11-21T12:10:43Z
+  Total Products: 95
 - [Apparel](https://store.josiahqueen.com/collections/apparel)
-  Updated: 2026-11-13T12:08:34Z
-  Total Products: 41
+  Updated: 2026-11-21T12:10:43Z
+  Total Products: 44
 - [Accessories](https://store.josiahqueen.com/collections/accessories)
-  Updated: 2026-11-13T12:08:34Z
+  Updated: 2026-11-21T12:10:43Z
   Total Products: 38
 - [Music](https://store.josiahqueen.com/collections/music)
-  Updated: 2026-11-13T12:08:34Z
+  Updated: 2026-11-21T12:10:43Z
   Total Products: 9
 - [Last Chance](https://store.josiahqueen.com/collections/)
-  Updated: 2026-11-13T12:08:34Z
+  Updated: 2026-11-21T12:10:43Z
   Total Products: 27
 - [UPSELL](https://store.josiahqueen.com/collections/upsell)
-  Updated: 2026-11-13T12:08:34Z
+  Updated: 2026-11-21T12:10:43Z
   Total Products: 27
 - [Youth Apparel](https://store.josiahqueen.com/collections/youth-apparel)
-  Updated: 2026-11-13T12:08:34Z
+  Updated: 2026-11-21T12:10:43Z
   Total Products: 2
 - [Tour Collection](https://store.josiahqueen.com/collections/new-tour-merch)
-  Updated: 2026-11-13T12:08:34Z
+  Updated: 2026-11-21T12:10:43Z
   Total Products: 24
 - [EasyGift All Products](https://store.josiahqueen.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-11-13T12:08:34Z
-  Total Products: 91
+  Updated: 2026-11-21T12:10:43Z
+  Total Products: 94
 - [Easter Basket](https://store.josiahqueen.com/collections/easter-basket)
-  Updated: 2026-11-13T12:08:34Z
+  Updated: 2026-11-21T12:10:43Z
   Total Products: 11
 - [Best Sellers](https://store.josiahqueen.com/collections/best-sellers)
-  Updated: 2026-11-13T12:08:34Z
+  Updated: 2026-11-21T12:10:43Z
   Total Products: 7
 - [Damascus Road Collection](https://store.josiahqueen.com/collections/damascus-road-collection)
-  Updated: 2026-11-13T12:08:34Z
+  Updated: 2026-11-21T12:10:43Z
   Total Products: 15
 - [Damascus Road Merch Collection](https://store.josiahqueen.com/collections/damascus-road-merch-collection)
-  Updated: 2026-11-13T12:08:34Z
+  Updated: 2026-11-21T12:10:43Z
   Total Products: 15
 - [Damascus Road Music Collection](https://store.josiahqueen.com/collections/damascus-road-music-collection)
-  Updated: 2026-11-13T12:08:33Z
+  Updated: 2026-11-21T12:10:43Z
   Total Products: 3
 - [Damascus Road Outerwear Collection](https://store.josiahqueen.com/collections/damascus-road-outerwear-collection)
-  Updated: 2026-11-12T12:09:13Z
+  Updated: 2026-11-21T12:10:43Z
   Total Products: 3
 - [Bracelets](https://store.josiahqueen.com/collections/bracelets)
-  Updated: 2026-11-13T12:08:34Z
+  Updated: 2026-11-19T12:11:30Z
   Total Products: 3
 - [25% Off Select Items](https://store.josiahqueen.com/collections/25-off-select-items)
-  Updated: 2026-11-13T12:08:34Z
-  Total Products: 12
-- [New Pennant + 25% Off Select Items](https://store.josiahqueen.com/collections/25-off-select-items-copy)
-  Updated: 2026-11-13T12:08:34Z
+  Updated: 2026-11-21T12:10:43Z
   Total Products: 13
+- [25% Off Select Items](https://store.josiahqueen.com/collections/25-off-select-items-copy)
+  Updated: 2026-11-21T12:10:43Z
+  Total Products: 13
+- [AMAZING! Collection](https://store.josiahqueen.com/collections/amazing-collection)
+  Updated: 2026-11-21T12:10:43Z
+  Total Products: 3
 
 ## Store Pages
 
