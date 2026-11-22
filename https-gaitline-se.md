@@ -29,232 +29,736 @@ Kundservice: customerservice@gaitline.com
 - Timezone: Europe/Stockholm
 - Created At: 2022-09-16T10:15:55Z
 - Contact Email: customerservice@gaitline.com
-- Updated At: 2026-11-14T00:52:06.493Z
+- Updated At: 2026-11-22T00:54:32.082Z
 
 ## Products
 
 - [Track Knit - marinblå | Skor på nätet | GaitLine](https://gaitline.se/products/track-knit-navy-white): GaitLine Track Knit mörkblå: Idealiska för utflykter, jobb, aktiviteter och dagligt bruk. Unik SGL-teknologi ger bra dämpning och komfort på asfalt och betong. Köp nu
-  Updated: 2026-11-12T19:23:25Z
+  Updated: 2026-11-21T23:22:46Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Track-Knit-Navy-White-1.jpg?v=1664437592
   - [Navy/White / 36](https://gaitline.se/products/track-knit-navy-white?variant=42037425635504)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Navy/White / 36.5](https://gaitline.se/products/track-knit-navy-white?variant=42037425668272)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Navy/White / 37.5](https://gaitline.se/products/track-knit-navy-white?variant=42037425701040)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Navy/White / 38](https://gaitline.se/products/track-knit-navy-white?variant=42037425733808)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Navy/White / 38.5](https://gaitline.se/products/track-knit-navy-white?variant=42037425766576)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Navy/White / 39](https://gaitline.se/products/track-knit-navy-white?variant=42037425799344)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Navy/White / 40](https://gaitline.se/products/track-knit-navy-white?variant=42037425832112)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Navy/White / 40.5](https://gaitline.se/products/track-knit-navy-white?variant=42037425864880)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Navy/White / 41](https://gaitline.se/products/track-knit-navy-white?variant=42037425897648)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Navy/White / 42](https://gaitline.se/products/track-knit-navy-white?variant=42037425930416)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Navy/White / 42.5](https://gaitline.se/products/track-knit-navy-white?variant=42037425963184)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Navy/White / 43](https://gaitline.se/products/track-knit-navy-white?variant=42037425995952)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Navy/White / 44](https://gaitline.se/products/track-knit-navy-white?variant=42037426028720)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Navy/White / 44.5](https://gaitline.se/products/track-knit-navy-white?variant=42037426061488)
     Availability: Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Navy/White / 45](https://gaitline.se/products/track-knit-navy-white?variant=42037426094256)
     Availability: Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Navy/White / 45.5](https://gaitline.se/products/track-knit-navy-white?variant=42037426127024)
     Availability: Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Navy/White / 46](https://gaitline.se/products/track-knit-navy-white?variant=42037426159792)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Navy/White / 47](https://gaitline.se/products/track-knit-navy-white?variant=42037426192560)
-    Availability: Available
-    Price: 1 999,00 kr SEK
-- [Track Lthr - svart | Skor på nätet | GaitLine | Skinnskor](https://gaitline.se/products/track-lthr-black-black-black): GaitLine Track Lthr, svart: Klassisk, elegant skinnsko med perfekt passform. Norsk SGL-teknologi för bra dämpning och stöd, idealisk för hårda underlag. Kolla in alla
-  Updated: 2026-11-10T08:55:40Z
-  Vendor: Gaitline
-  Product Type: Shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Track-Leather-Black-Black-Black-1.jpg?v=1664437621
-  - [Black/Black/Black / 36](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427208368)
     Availability: Not Available
-    Price: 2 099,00 kr SEK
-  - [Black/Black/Black / 36.5](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427241136)
-    Availability: Available
-    Price: 2 099,00 kr SEK
-  - [Black/Black/Black / 37.5](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427273904)
-    Availability: Not Available
-    Price: 2 099,00 kr SEK
-  - [Black/Black/Black / 38](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427306672)
-    Availability: Not Available
-    Price: 2 099,00 kr SEK
-  - [Black/Black/Black / 38.5](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427339440)
-    Availability: Not Available
-    Price: 2 099,00 kr SEK
-  - [Black/Black/Black / 39](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427372208)
-    Availability: Not Available
-    Price: 2 099,00 kr SEK
-  - [Black/Black/Black / 40](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427404976)
-    Availability: Not Available
-    Price: 2 099,00 kr SEK
-  - [Black/Black/Black / 40.5](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427437744)
-    Availability: Not Available
-    Price: 2 099,00 kr SEK
-  - [Black/Black/Black / 41](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427470512)
-    Availability: Not Available
-    Price: 2 099,00 kr SEK
-  - [Black/Black/Black / 42](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427503280)
-    Availability: Not Available
-    Price: 2 099,00 kr SEK
-  - [Black/Black/Black / 42.5](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427536048)
-    Availability: Not Available
-    Price: 2 099,00 kr SEK
-  - [Black/Black/Black / 43](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427568816)
-    Availability: Not Available
-    Price: 2 099,00 kr SEK
-  - [Black/Black/Black / 44](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427601584)
-    Availability: Available
-    Price: 2 099,00 kr SEK
-  - [Black/Black/Black / 44.5](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427634352)
-    Availability: Not Available
-    Price: 2 099,00 kr SEK
-  - [Black/Black/Black / 45](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427667120)
-    Availability: Not Available
-    Price: 2 099,00 kr SEK
-  - [Black/Black/Black / 45.5](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427699888)
-    Availability: Not Available
-    Price: 2 099,00 kr SEK
-  - [Black/Black/Black / 46](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427732656)
-    Availability: Available
-    Price: 2 099,00 kr SEK
-  - [Black/Black/Black / 47](https://gaitline.se/products/track-lthr-black-black-black?variant=42037427765424)
-    Availability: Not Available
-    Price: 2 099,00 kr SEK
+    Price: 599,00 kr SEK
 - [Track Knit - svart/vit | Skor på nätet | GaitLine](https://gaitline.se/products/track-knit-black-white): GaitLine Track Knit skor, svart/vit: Idealiska för utflykter, jobb, aktiviteter och dagligt bruk. Unik SGL-teknologi ger bra dämpning och komfort på asfalt och betong. Köp nu
-  Updated: 2026-11-08T09:21:46Z
+  Updated: 2026-11-21T11:19:46Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Track-Knit-Black-White-1.jpg?v=1664437679
   - [Black/White / 36](https://gaitline.se/products/track-knit-black-white?variant=42037430419632)
     Availability: Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Black/White / 36.5](https://gaitline.se/products/track-knit-black-white?variant=42037430452400)
     Availability: Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Black/White / 37.5](https://gaitline.se/products/track-knit-black-white?variant=42037430485168)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Black/White / 38](https://gaitline.se/products/track-knit-black-white?variant=42037430517936)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Black/White / 38.5](https://gaitline.se/products/track-knit-black-white?variant=42037430550704)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Black/White / 39](https://gaitline.se/products/track-knit-black-white?variant=42037430583472)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Black/White / 40](https://gaitline.se/products/track-knit-black-white?variant=42037430616240)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Black/White / 40.5](https://gaitline.se/products/track-knit-black-white?variant=42037430649008)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Black/White / 41](https://gaitline.se/products/track-knit-black-white?variant=42037430681776)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Black/White / 42](https://gaitline.se/products/track-knit-black-white?variant=42037430714544)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Black/White / 42.5](https://gaitline.se/products/track-knit-black-white?variant=42037430747312)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Black/White / 43](https://gaitline.se/products/track-knit-black-white?variant=42037430780080)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Black/White / 44](https://gaitline.se/products/track-knit-black-white?variant=42037430812848)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Black/White / 44.5](https://gaitline.se/products/track-knit-black-white?variant=42037430845616)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Black/White / 45](https://gaitline.se/products/track-knit-black-white?variant=42037430878384)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Black/White / 45.5](https://gaitline.se/products/track-knit-black-white?variant=42037430911152)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Black/White / 46](https://gaitline.se/products/track-knit-black-white?variant=42037430943920)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
   - [Black/White / 47](https://gaitline.se/products/track-knit-black-white?variant=42037430976688)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 599,00 kr SEK
+- [Sinober TRX - svart/svart/svart | Skor på nätet | GaitLine](https://gaitline.se/products/sinober-trx-black-black-black): GaitLine Sinober TRX skor svart: Norsk SGL-teknologi, premium, mocka med gummiförstärkning. Tål väder och vind, TRX-sula för stabilt grepp. Köp nu
+  Updated: 2026-11-21T09:00:41Z
+  Vendor: Gaitline
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Sinober-TRX-Black-Black-Black-1.jpg?v=1664437767
+  - [Black/Black/Black / 36](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037434482864)
+    Availability: Available
+    Price: 659,00 kr SEK
+  - [Black/Black/Black / 36.5](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037434515632)
+    Availability: Available
+    Price: 659,00 kr SEK
+  - [Black/Black/Black / 37.5](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037434548400)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/Black/Black / 38](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037434581168)
+    Availability: Available
+    Price: 659,00 kr SEK
+  - [Black/Black/Black / 38.5](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037434613936)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/Black/Black / 39](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037434646704)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/Black/Black / 40](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037434679472)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/Black/Black / 40.5](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037434712240)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/Black/Black / 41](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037434745008)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/Black/Black / 42](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037434777776)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/Black/Black / 42.5](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037434810544)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/Black/Black / 43](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037434843312)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/Black/Black / 44](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037434876080)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/Black/Black / 44.5](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037434908848)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/Black/Black / 45](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037434941616)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/Black/Black / 45.5](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037434974384)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/Black/Black / 46](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037435007152)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/Black/Black / 47](https://gaitline.se/products/sinober-trx-black-black-black?variant=42037435039920)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+- [Sinober TRX - rosa/svart | Skor på nätet | GaitLine](https://gaitline.se/products/sinober-trx-pink-black-specles): GaitLine Sinober TRX skor rosa/svart: Norsk SGL-teknologi, premium, läder med gummiförstärkning. Tål väder och vind, TRX-sula för stabilt grepp. Köp nu
+  Updated: 2026-11-21T12:11:36Z
+  Vendor: Gaitline
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Sinober-TRX-Pink-Black-Specles-1.jpg?v=1664437792
+  - [Pink/Black Specles / 36](https://gaitline.se/products/sinober-trx-pink-black-specles?variant=42037435629744)
+    Availability: Available
+    Price: 659,00 kr SEK
+  - [Pink/Black Specles / 36.5](https://gaitline.se/products/sinober-trx-pink-black-specles?variant=42037435662512)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Pink/Black Specles / 37.5](https://gaitline.se/products/sinober-trx-pink-black-specles?variant=42037435695280)
+    Availability: Available
+    Price: 659,00 kr SEK
+  - [Pink/Black Specles / 38](https://gaitline.se/products/sinober-trx-pink-black-specles?variant=42037435728048)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Pink/Black Specles / 38.5](https://gaitline.se/products/sinober-trx-pink-black-specles?variant=42037435760816)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Pink/Black Specles / 39](https://gaitline.se/products/sinober-trx-pink-black-specles?variant=42037435793584)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Pink/Black Specles / 40](https://gaitline.se/products/sinober-trx-pink-black-specles?variant=42037435826352)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Pink/Black Specles / 40.5](https://gaitline.se/products/sinober-trx-pink-black-specles?variant=42037435859120)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Pink/Black Specles / 41](https://gaitline.se/products/sinober-trx-pink-black-specles?variant=42037435891888)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Pink/Black Specles / 42](https://gaitline.se/products/sinober-trx-pink-black-specles?variant=42037435924656)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+- [Sinober TRX - röd | Skor på nätet | GaitLine](https://gaitline.se/products/sinober-trx-clove-white-specles): GaitLine Sinober TRX skor röd: Norsk SGL-teknologi, premium, mocka med gummiförstärkning. Tål väder och vind, TRX-sula för stabilt grepp. Köp nu
+  Updated: 2026-11-20T20:32:46Z
+  Vendor: Gaitline
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Sinober-TRX-Clove-White-Specles-1.jpg?v=1664437812
+  - [Clove/White/Specles / 36](https://gaitline.se/products/sinober-trx-clove-white-specles?variant=42037436448944)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Clove/White/Specles / 36.5](https://gaitline.se/products/sinober-trx-clove-white-specles?variant=42037436481712)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Clove/White/Specles / 37.5](https://gaitline.se/products/sinober-trx-clove-white-specles?variant=42037436514480)
+    Availability: Available
+    Price: 659,00 kr SEK
+  - [Clove/White/Specles / 38](https://gaitline.se/products/sinober-trx-clove-white-specles?variant=42037436547248)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Clove/White/Specles / 38.5](https://gaitline.se/products/sinober-trx-clove-white-specles?variant=42037436580016)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Clove/White/Specles / 39](https://gaitline.se/products/sinober-trx-clove-white-specles?variant=42037436612784)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Clove/White/Specles / 40](https://gaitline.se/products/sinober-trx-clove-white-specles?variant=42037436645552)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Clove/White/Specles / 40.5](https://gaitline.se/products/sinober-trx-clove-white-specles?variant=42037436678320)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Clove/White/Specles / 41](https://gaitline.se/products/sinober-trx-clove-white-specles?variant=42037436711088)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Clove/White/Specles / 42](https://gaitline.se/products/sinober-trx-clove-white-specles?variant=42037436743856)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+- [Sinober TRX - mosgrön/svart | Skor på nätet | GaitLine](https://gaitline.se/products/sinober-trx-yeti-black): GaitLine Sinober TRX skor i mosgrön: Norsk SGL-teknologi, premium, mocka med gummiförstärkning. Tål väder och vind, TRX-sula för stabilt grepp. Köp nu
+  Updated: 2026-11-20T16:58:07Z
+  Vendor: Gaitline
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Sinober-TRX-Yeti-Black-1.jpg?v=1664437836
+  - [Yeti/Black / 36](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037437497520)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Yeti/Black / 36.5](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037437530288)
+    Availability: Available
+    Price: 659,00 kr SEK
+  - [Yeti/Black / 37.5](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037437563056)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Yeti/Black / 38](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037437595824)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Yeti/Black / 38.5](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037437628592)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Yeti/Black / 39](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037437661360)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Yeti/Black / 40](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037437694128)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Yeti/Black / 40.5](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037437726896)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Yeti/Black / 41](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037437759664)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Yeti/Black / 42](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037437792432)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Yeti/Black / 42.5](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037437825200)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Yeti/Black / 43](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037437857968)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Yeti/Black / 44](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037437890736)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Yeti/Black / 44.5](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037437923504)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Yeti/Black / 45](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037437956272)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Yeti/Black / 45.5](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037437989040)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Yeti/Black / 46](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037438021808)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Yeti/Black / 47](https://gaitline.se/products/sinober-trx-yeti-black?variant=42037438054576)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+- [Kikut TRX - mosgrön | Vinterskor på nätet | GaitLine](https://gaitline.se/products/kikut-trx-yeti-white): GaitLine Kikut TRX skor ljusgrön: marknadens mest bekväma vinterskor. Patenterad SGL-teknologi, varm isolering, mockaskinn och kraftig sula för grepp. Köp nu.
+  Updated: 2026-11-21T20:03:22Z
+  Vendor: Gaitline
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Kikut-TRX-Yeti-White-1.jpg?v=1664437864
+  - [Yeti/White / 36](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037438906544)
+    Availability: Available
+    Price: 749,00 kr SEK
+  - [Yeti/White / 36.5](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037438939312)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Yeti/White / 37.5](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037438972080)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Yeti/White / 38](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037439004848)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Yeti/White / 38.5](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037439037616)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Yeti/White / 39](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037439070384)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Yeti/White / 40](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037439103152)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Yeti/White / 40.5](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037439135920)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Yeti/White / 41](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037439168688)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Yeti/White / 42](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037439201456)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Yeti/White / 42.5](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037439234224)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Yeti/White / 43](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037439266992)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Yeti/White / 44](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037439299760)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Yeti/White / 44.5](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037439332528)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Yeti/White / 45](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037439365296)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Yeti/White / 45.5](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037439398064)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Yeti/White / 46](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037439430832)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Yeti/White / 47](https://gaitline.se/products/kikut-trx-yeti-white?variant=42037439463600)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+- [Route TRX - svart/vit | Skor på nätet | GaitLine](https://gaitline.se/products/route-trx-black-white-specles): GaitLine Route TRX svart/vit: robust vandringssko. SGL-teknologi för komfort, slitstarkt nylon och vattenavvisande membran. Perfekt sko för grus, asfalt, skog och mark.
+  Updated: 2026-11-20T18:25:42Z
+  Vendor: Gaitline
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Route-TRX-Black-White-Specles-1.jpg?v=1664438006
+  - [Black/White Specles / 36](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448081584)
+    Availability: Available
+    Price: 599,00 kr SEK
+  - [Black/White Specles / 36.5](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448114352)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Black/White Specles / 37.5](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448147120)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Black/White Specles / 38](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448179888)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Black/White Specles / 38.5](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448212656)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Black/White Specles / 39](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448245424)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Black/White Specles / 40](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448278192)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Black/White Specles / 40.5](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448310960)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Black/White Specles / 41](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448343728)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Black/White Specles / 42](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448376496)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Black/White Specles / 42.5](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448409264)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Black/White Specles / 43](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448442032)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Black/White Specles / 44](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448474800)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Black/White Specles / 44.5](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448507568)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Black/White Specles / 45](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448540336)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Black/White Specles / 45.5](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448573104)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Black/White Specles / 46](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448605872)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Black/White Specles / 47](https://gaitline.se/products/route-trx-black-white-specles?variant=42037448638640)
+    Availability: Not Available
+    Price: 599,00 kr SEK
 - [Track Lthr - vit | Skor på nätet | GaitLine | Skinnskor](https://gaitline.se/products/track-lthr-white-white-white): GaitLine Track Lthr, vit: Klassisk, elegant skinnsko med perfekt passform. Norsk SGL-teknologi för bra dämpning och stöd, idealisk för hårda underlag. Kolla in alla
-  Updated: 2026-11-12T15:29:36Z
+  Updated: 2026-11-21T22:34:25Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Track-Leather-White-White-White-1.jpg?v=1664438347
   - [White/White/White / 36](https://gaitline.se/products/track-lthr-white-white-white?variant=42037475442864)
     Availability: Available
-    Price: 2 099,00 kr SEK
+    Price: 1 049,00 kr SEK
   - [White/White/White / 36.5](https://gaitline.se/products/track-lthr-white-white-white?variant=42037475475632)
     Availability: Not Available
-    Price: 2 099,00 kr SEK
+    Price: 1 049,00 kr SEK
   - [White/White/White / 37.5](https://gaitline.se/products/track-lthr-white-white-white?variant=42037475508400)
     Availability: Available
-    Price: 2 099,00 kr SEK
+    Price: 1 049,00 kr SEK
   - [White/White/White / 38](https://gaitline.se/products/track-lthr-white-white-white?variant=42037475541168)
     Availability: Available
-    Price: 2 099,00 kr SEK
+    Price: 1 049,00 kr SEK
   - [White/White/White / 38.5](https://gaitline.se/products/track-lthr-white-white-white?variant=42037475573936)
     Availability: Available
-    Price: 2 099,00 kr SEK
+    Price: 1 049,00 kr SEK
   - [White/White/White / 39](https://gaitline.se/products/track-lthr-white-white-white?variant=42037475606704)
     Availability: Available
-    Price: 2 099,00 kr SEK
+    Price: 1 049,00 kr SEK
   - [White/White/White / 40](https://gaitline.se/products/track-lthr-white-white-white?variant=42037475639472)
     Availability: Available
-    Price: 2 099,00 kr SEK
+    Price: 1 049,00 kr SEK
   - [White/White/White / 40.5](https://gaitline.se/products/track-lthr-white-white-white?variant=42037475672240)
     Availability: Available
-    Price: 2 099,00 kr SEK
+    Price: 1 049,00 kr SEK
   - [White/White/White / 41](https://gaitline.se/products/track-lthr-white-white-white?variant=42037475705008)
     Availability: Available
-    Price: 2 099,00 kr SEK
+    Price: 1 049,00 kr SEK
   - [White/White/White / 42](https://gaitline.se/products/track-lthr-white-white-white?variant=42037475737776)
     Availability: Available
-    Price: 2 099,00 kr SEK
+    Price: 1 049,00 kr SEK
   - [White/White/White / 42.5](https://gaitline.se/products/track-lthr-white-white-white?variant=43260345122992)
     Availability: Available
-    Price: 2 099,00 kr SEK
+    Price: 1 049,00 kr SEK
   - [White/White/White / 43](https://gaitline.se/products/track-lthr-white-white-white?variant=43260345155760)
     Availability: Available
-    Price: 2 099,00 kr SEK
+    Price: 1 049,00 kr SEK
+- [Silver Mid TRX - djupbrun | Vinterskor på nätet | GaitLine](https://gaitline.se/products/silver-mid-trx-root-white): GaitLine Silver Mid vinterskor, djupbrun. Bekväm, varm vintersko med mockaovandel för vattenresistens, foder, PU-dämpning, SGL-teknologi och TRX-sula. Köp nu
+  Updated: 2026-11-20T18:40:16Z
+  Vendor: Gaitline
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Silver-Mid-TRX-Root-White-1.jpg?v=1664438424
+  - [Root/White / 36](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037478883504)
+    Availability: Available
+    Price: 719,00 kr SEK
+  - [Root/White / 36.5](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037478916272)
+    Availability: Available
+    Price: 719,00 kr SEK
+  - [Root/White / 37.5](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037478949040)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Root/White / 38](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037478981808)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Root/White / 38.5](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037479014576)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Root/White / 39](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037479047344)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Root/White / 40](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037479080112)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Root/White / 40.5](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037479112880)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Root/White / 41](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037479145648)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Root/White / 42](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037479178416)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Root/White / 42.5](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037479211184)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Root/White / 43](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037479243952)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Root/White / 44](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037479276720)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Root/White / 44.5](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037479309488)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Root/White / 45](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037479342256)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Root/White / 45.5](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037479375024)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Root/White / 46](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037479407792)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Root/White / 47](https://gaitline.se/products/silver-mid-trx-root-white?variant=42037479440560)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+- [Sinober TRX - zebra/vit | Skor på nätet | GaitLine](https://gaitline.se/products/sinober-trx-zebra-white-specles): GaitLine Sinober TRX skor zebra/vit: Norsk SGL-teknologi, premium, läder med gummiförstärkning. Tål väder och vind, TRX-sula för stabilt grepp. Köp nu
+  Updated: 2026-11-20T15:11:27Z
+  Vendor: Gaitline
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Sinober-TRX-Zebra-White-Specles-1.jpg?v=1664438561
+  - [Zebra/White Specles / 36](https://gaitline.se/products/sinober-trx-zebra-white-specles?variant=42037486551216)
+    Availability: Available
+    Price: 659,00 kr SEK
+  - [Zebra/White Specles / 36.5](https://gaitline.se/products/sinober-trx-zebra-white-specles?variant=42037486583984)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Zebra/White Specles / 37.5](https://gaitline.se/products/sinober-trx-zebra-white-specles?variant=42037486616752)
+    Availability: Available
+    Price: 659,00 kr SEK
+  - [Zebra/White Specles / 38](https://gaitline.se/products/sinober-trx-zebra-white-specles?variant=42037486649520)
+    Availability: Available
+    Price: 659,00 kr SEK
+  - [Zebra/White Specles / 38.5](https://gaitline.se/products/sinober-trx-zebra-white-specles?variant=42037486682288)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Zebra/White Specles / 39](https://gaitline.se/products/sinober-trx-zebra-white-specles?variant=42037486715056)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Zebra/White Specles / 40](https://gaitline.se/products/sinober-trx-zebra-white-specles?variant=42037486747824)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Zebra/White Specles / 40.5](https://gaitline.se/products/sinober-trx-zebra-white-specles?variant=42037486780592)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Zebra/White Specles / 41](https://gaitline.se/products/sinober-trx-zebra-white-specles?variant=42037486813360)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Zebra/White Specles / 42](https://gaitline.se/products/sinober-trx-zebra-white-specles?variant=42037486846128)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+- [Sinober TRX - svart/vit | Skor på nätet | GaitLine](https://gaitline.se/products/sinober-trx-black-white-specles): GaitLine Sinober TRX skor svart/vit: Norsk SGL-teknologi, premium, läder med gummiförstärkning. Tål väder och vind, TRX-sula för stabilt grepp. Köp nu
+  Updated: 2026-11-19T23:00:38Z
+  Vendor: Gaitline
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Sinober-TRX-Black-White-Specles-1.jpg?v=1664438652
+  - [Black/White Specles / 36](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489402032)
+    Availability: Available
+    Price: 659,00 kr SEK
+  - [Black/White Specles / 36.5](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489434800)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/White Specles / 37.5](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489467568)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/White Specles / 38](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489500336)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/White Specles / 38.5](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489533104)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/White Specles / 39](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489565872)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/White Specles / 40](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489598640)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/White Specles / 40.5](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489631408)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/White Specles / 41](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489664176)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/White Specles / 42](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489696944)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/White Specles / 42.5](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489729712)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/White Specles / 43](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489762480)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/White Specles / 44](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489795248)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/White Specles / 44.5](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489828016)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/White Specles / 45](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489860784)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/White Specles / 45.5](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489893552)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/White Specles / 46](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489926320)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+  - [Black/White Specles / 47](https://gaitline.se/products/sinober-trx-black-white-specles?variant=42037489959088)
+    Availability: Not Available
+    Price: 659,00 kr SEK
+- [Kikut TRX - leopardmönster | Vinterskor på nätet | GaitLine](https://gaitline.se/products/kikut-trx-leopard-champagne): GaitLine Kikut TRX skor leopard: marknadens mest bekväma vinterskor. Patenterad SGL-teknologi, varm isolering, mockaskinn och kraftig sula för grepp. Köp nu.
+  Updated: 2026-11-21T20:03:26Z
+  Vendor: Gaitline
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Kikut-TRX-Leopard-Champagne-1.jpg?v=1664438680
+  - [Leopard/Champagne / 36](https://gaitline.se/products/kikut-trx-leopard-champagne?variant=42037491073200)
+    Availability: Available
+    Price: 749,00 kr SEK
+  - [Leopard/Champagne / 36.5](https://gaitline.se/products/kikut-trx-leopard-champagne?variant=42037491105968)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Leopard/Champagne / 37.5](https://gaitline.se/products/kikut-trx-leopard-champagne?variant=42037491138736)
+    Availability: Available
+    Price: 749,00 kr SEK
+  - [Leopard/Champagne / 38](https://gaitline.se/products/kikut-trx-leopard-champagne?variant=42037491171504)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Leopard/Champagne / 38.5](https://gaitline.se/products/kikut-trx-leopard-champagne?variant=42037491204272)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Leopard/Champagne / 39](https://gaitline.se/products/kikut-trx-leopard-champagne?variant=42037491237040)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Leopard/Champagne / 40](https://gaitline.se/products/kikut-trx-leopard-champagne?variant=42037491269808)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Leopard/Champagne / 40.5](https://gaitline.se/products/kikut-trx-leopard-champagne?variant=42037491302576)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Leopard/Champagne / 41](https://gaitline.se/products/kikut-trx-leopard-champagne?variant=42037491335344)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+  - [Leopard/Champagne / 42](https://gaitline.se/products/kikut-trx-leopard-champagne?variant=42037491368112)
+    Availability: Not Available
+    Price: 749,00 kr SEK
+- [Silver Mid TRX - svart | Vinterskor på nätet | GaitLine](https://gaitline.se/products/silver-mid-trx-black-black-black): GaitLine Silver Mid vinterskor, svart. Bekväm, varm vintersko med skinnovandel, vattenresistens, PU-dämpning, SGL-teknologi och TRX-sula. Köp nu
+  Updated: 2026-11-21T19:51:02Z
+  Vendor: Gaitline
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Silver-Mid-TRX-Black-Black-Black-1.jpg?v=1664438765
+  - [Black/Black/Black / 36](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037494808752)
+    Availability: Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Black / 36.5](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037494841520)
+    Availability: Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Black / 37.5](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037494874288)
+    Availability: Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Black / 38](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037494907056)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Black / 38.5](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037494939824)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Black / 39](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037494972592)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Black / 40](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037495005360)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Black / 40.5](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037495038128)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Black / 41](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037495103664)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Black / 42](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037495136432)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Black / 42.5](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037495169200)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Black / 43](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037495201968)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Black / 44](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037495234736)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Black / 44.5](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037495267504)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Black / 45](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037495300272)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Black / 45.5](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037495333040)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Black / 46](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037495365808)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Black / 47](https://gaitline.se/products/silver-mid-trx-black-black-black?variant=42037495398576)
+    Availability: Not Available
+    Price: 719,00 kr SEK
 - [Motion Retro - imiterat ormskinn | Skor på nätet | Läderskor](https://gaitline.se/products/motion-retro-black-shark-lizzard-gold): GaitLine Motion Retro imiterat ormskinn: inspirerad av 90-talets sneakers! Mjukt skinn Patenterad SGL-teknologi, optimalt stöd och passform. Se alla
   Updated: 2026-10-16T16:15:11Z
   Vendor: Gaitline
@@ -315,8 +819,68 @@ Kundservice: customerservice@gaitline.com
   - [Black/Shark Lizzard/Gold / 47](https://gaitline.se/products/motion-retro-black-shark-lizzard-gold?variant=42037507522736)
     Availability: Not Available
     Price: 2 199,00 kr SEK
+- [Silver Mid TRX - mörkbrun | Vinterskor på nätet | GaitLine](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles): GaitLine Silver Mid vinterskor, mörkbrun. Bekväm, varm vintersko med skinnovandel för vattenresistens, foder, PU-dämpning, SGL-teknologi och TRX-sula. Köp nu
+  Updated: 2026-11-21T15:26:16Z
+  Vendor: Gaitline
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Silver-Mid-TRX-Dk-Brown-White-Specles-1.jpg?v=1664439086
+  - [DK Brown/White/Specles / 36](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512044720)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [DK Brown/White/Specles / 36.5](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512110256)
+    Availability: Available
+    Price: 719,00 kr SEK
+  - [DK Brown/White/Specles / 37.5](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512143024)
+    Availability: Available
+    Price: 719,00 kr SEK
+  - [DK Brown/White/Specles / 38](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512175792)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [DK Brown/White/Specles / 38.5](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512208560)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [DK Brown/White/Specles / 39](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512241328)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [DK Brown/White/Specles / 40](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512274096)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [DK Brown/White/Specles / 40.5](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512306864)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [DK Brown/White/Specles / 41](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512339632)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [DK Brown/White/Specles / 42](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512372400)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [DK Brown/White/Specles / 42.5](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512405168)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [DK Brown/White/Specles / 43](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512437936)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [DK Brown/White/Specles / 44](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512470704)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [DK Brown/White/Specles / 44.5](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512503472)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [DK Brown/White/Specles / 45](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512536240)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [DK Brown/White/Specles / 45.5](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512569008)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [DK Brown/White/Specles / 46](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512601776)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [DK Brown/White/Specles / 47](https://gaitline.se/products/silver-mid-trx-dk-brown-white-specles?variant=42037512634544)
+    Availability: Not Available
+    Price: 719,00 kr SEK
 - [Skor för breda fötter – Advance PRO | Gaitline](https://gaitline.se/products/advance-pro-black-white): Advance PRO är vår bredaste sneaker, med 4 mm extra utrymme i framfoten. Dämpning och stöd för dig som står och går hela dagen. Fri frakt över 1 500 kr.
-  Updated: 2026-11-01T16:04:31Z
+  Updated: 2026-11-19T12:52:08Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -376,67 +940,127 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 399,00 kr SEK
 - [Kikut TRX - mörkbrun/ | Vinterskor på nätet | GaitLine](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles): GaitLine Kikut TRX skor brun: marknadens mest bekväma vinterskor. Patenterad SGL-teknologi, varm isolering, mockaskinn och kraftig sula för grepp. Köp nu.
-  Updated: 2026-10-28T20:21:31Z
+  Updated: 2026-11-21T17:55:16Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Kikut-TRX-Dk-Brown-Vanilla-Specles-1.jpg?v=1664439239
   - [DK Brown/Vanilla/Specles / 36](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518074032)
     Availability: Available
-    Price: 2 499,00 kr SEK
+    Price: 749,00 kr SEK
   - [DK Brown/Vanilla/Specles / 36.5](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518106800)
     Availability: Available
-    Price: 2 499,00 kr SEK
+    Price: 749,00 kr SEK
   - [DK Brown/Vanilla/Specles / 37.5](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518139568)
     Availability: Available
-    Price: 2 499,00 kr SEK
+    Price: 749,00 kr SEK
   - [DK Brown/Vanilla/Specles / 38](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518172336)
-    Availability: Available
-    Price: 2 499,00 kr SEK
+    Availability: Not Available
+    Price: 749,00 kr SEK
   - [DK Brown/Vanilla/Specles / 38.5](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518205104)
     Availability: Not Available
-    Price: 2 499,00 kr SEK
+    Price: 749,00 kr SEK
   - [DK Brown/Vanilla/Specles / 39](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518237872)
     Availability: Not Available
-    Price: 2 499,00 kr SEK
+    Price: 749,00 kr SEK
   - [DK Brown/Vanilla/Specles / 40](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518270640)
     Availability: Not Available
-    Price: 2 499,00 kr SEK
+    Price: 749,00 kr SEK
   - [DK Brown/Vanilla/Specles / 40.5](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518303408)
     Availability: Not Available
-    Price: 2 499,00 kr SEK
+    Price: 749,00 kr SEK
   - [DK Brown/Vanilla/Specles / 41](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518336176)
     Availability: Not Available
-    Price: 2 499,00 kr SEK
+    Price: 749,00 kr SEK
   - [DK Brown/Vanilla/Specles / 42](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518368944)
     Availability: Not Available
-    Price: 2 499,00 kr SEK
+    Price: 749,00 kr SEK
   - [DK Brown/Vanilla/Specles / 42.5](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518401712)
     Availability: Not Available
-    Price: 2 499,00 kr SEK
+    Price: 749,00 kr SEK
   - [DK Brown/Vanilla/Specles / 43](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518434480)
     Availability: Not Available
-    Price: 2 499,00 kr SEK
+    Price: 749,00 kr SEK
   - [DK Brown/Vanilla/Specles / 44](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518467248)
     Availability: Not Available
-    Price: 2 499,00 kr SEK
+    Price: 749,00 kr SEK
   - [DK Brown/Vanilla/Specles / 44.5](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518500016)
     Availability: Not Available
-    Price: 2 499,00 kr SEK
+    Price: 749,00 kr SEK
   - [DK Brown/Vanilla/Specles / 45](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518532784)
     Availability: Not Available
-    Price: 2 499,00 kr SEK
+    Price: 749,00 kr SEK
   - [DK Brown/Vanilla/Specles / 45.5](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518565552)
     Availability: Not Available
-    Price: 2 499,00 kr SEK
+    Price: 749,00 kr SEK
   - [DK Brown/Vanilla/Specles / 46](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518598320)
     Availability: Not Available
-    Price: 2 499,00 kr SEK
+    Price: 749,00 kr SEK
   - [DK Brown/Vanilla/Specles / 47](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518631088)
     Availability: Not Available
-    Price: 2 499,00 kr SEK
+    Price: 749,00 kr SEK
+- [Tracer TRX WP - svart | Vattentäta skor på nätet | GaitLine](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal): Tracer TRX WP svarta skor GaitLine. Patenterad teknologi, vattentätt membran och PU-förstärkningar. Bra dämpning och ankelstöd. Perfekt för höst och vinter. Köp nu
+  Updated: 2026-11-20T21:32:06Z
+  Vendor: Gaitline
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Tracer-TRX-WP-Black-Black-Charcoal-1.jpg?v=1664439302
+  - [Black/Black/Charcoal / 36](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037520498864)
+    Availability: Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Charcoal / 36.5](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037520531632)
+    Availability: Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Charcoal / 37.5](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037520564400)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Charcoal / 38](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037520597168)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Charcoal / 38.5](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037520629936)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Charcoal / 39](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037520662704)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Charcoal / 40](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037520695472)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Charcoal / 40.5](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037520728240)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Charcoal / 41](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037520761008)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Charcoal / 42](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037520793776)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Charcoal / 42.5](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037520826544)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Charcoal / 43](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037520859312)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Charcoal / 44](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037520892080)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Charcoal / 44.5](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037520924848)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Charcoal / 45](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037520957616)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Charcoal / 45.5](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037520990384)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Charcoal / 46](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037521023152)
+    Availability: Not Available
+    Price: 719,00 kr SEK
+  - [Black/Black/Charcoal / 47](https://gaitline.se/products/tracer-trx-wp-black-black-charcoal?variant=42037521055920)
+    Availability: Not Available
+    Price: 719,00 kr SEK
 - [World Cup PRO - svart/vit | Skor på nätet | GaitLine](https://gaitline.se/products/world-cup-pro-black-white): GaitLine World Cup PRO skor - Svart/Vit: innovativ SGL-teknologi för topprestanda. Ignite PRO-material, lätt, andas, bra dämpning, idealisk för asfalt. Köp nu
-  Updated: 2026-11-12T11:04:51Z
+  Updated: 2026-11-21T22:31:46Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -498,6 +1122,66 @@ Kundservice: customerservice@gaitline.com
   - [Black/White / 47.5](https://gaitline.se/products/world-cup-pro-black-white?variant=43884267307184)
     Availability: Available
     Price: 2 399,00 kr SEK
+- [Route TRX - urban grön/vanilj | Skor på nätet | GaitLine](https://gaitline.se/products/route-trx-urban-green-vanilla-specles): GaitLine Route TRX urban grön: robust vandringssko. SGL-teknologi för komfort, slitstarkt nylon och vattenavvisande membran. Perfekt sko för grus, asfalt, skog och mark.
+  Updated: 2026-11-19T23:00:36Z
+  Vendor: Gaitline
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Route-TRX-UrbanGreen-Vanilla-Specles-1.jpg?v=1677149260
+  - [Urban Green/vanilla/specles / 36](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542362755248)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Urban Green/vanilla/specles / 36.5](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542362788016)
+    Availability: Available
+    Price: 599,00 kr SEK
+  - [Urban Green/vanilla/specles / 37.5](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542362820784)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Urban Green/vanilla/specles / 38](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542362853552)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Urban Green/vanilla/specles / 38.5](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542362886320)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Urban Green/vanilla/specles / 39](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542362919088)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Urban Green/vanilla/specles / 40](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542362951856)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Urban Green/vanilla/specles / 40.5](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542362984624)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Urban Green/vanilla/specles / 41](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542363017392)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Urban Green/vanilla/specles / 42](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542363050160)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Urban Green/vanilla/specles / 42.5](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542363082928)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Urban Green/vanilla/specles / 43](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542363115696)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Urban Green/vanilla/specles / 44](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542363148464)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Urban Green/vanilla/specles / 44.5](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542363181232)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Urban Green/vanilla/specles / 45](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542363214000)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Urban Green/vanilla/specles / 45.5](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542363246768)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Urban Green/vanilla/specles / 46](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542363279536)
+    Availability: Not Available
+    Price: 599,00 kr SEK
+  - [Urban Green/vanilla/specles / 47](https://gaitline.se/products/route-trx-urban-green-vanilla-specles?variant=42542363312304)
+    Availability: Not Available
+    Price: 599,00 kr SEK
 - [Track Lthr - ljusbeige | Skor på nätet | GaitLine | Skinnskor](https://gaitline.se/products/track-lthr-tan-vanilla-gold): GaitLine Track Lthr, beige: Klassisk, elegant skinnsko med perfekt passform. Norsk SGL-teknologi för bra dämpning och stöd, idealisk för hårda underlag. Kolla in alla
   Updated: 2026-10-16T16:15:12Z
   Vendor: Gaitline
@@ -541,67 +1225,67 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 099,00 kr SEK
 - [Route TRX 2.0 Svart/Svart | Skor på nätet | GaitLine](https://gaitline.se/products/route-trx-2-0-black-black-black): GaitLine Route TRX svart: robust vandringssko. Ny SGL-teknologi för komfort, slitstarkt nylon och vattenavvisande membran. Ny yttersula för ett bra grepp. Perfekt sko för grus, asfalt, skog och mark.
-  Updated: 2026-10-19T06:51:36Z
+  Updated: 2026-11-21T10:57:26Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/products/Route-TRX-2.0-Black-Black-Black-1.jpg?v=1688116434
   - [Black/Black/Black / 36](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708754530480)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 659,00 kr SEK
   - [Black/Black/Black / 36.5](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708754563248)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 659,00 kr SEK
   - [Black/Black/Black / 37.5](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708754596016)
-    Availability: Available
-    Price: 2 199,00 kr SEK
+    Availability: Not Available
+    Price: 659,00 kr SEK
   - [Black/Black/Black / 38](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708754628784)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 659,00 kr SEK
   - [Black/Black/Black / 38.5](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708754661552)
-    Availability: Available
-    Price: 2 199,00 kr SEK
+    Availability: Not Available
+    Price: 659,00 kr SEK
   - [Black/Black/Black / 39](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708754694320)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 659,00 kr SEK
   - [Black/Black/Black / 40](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708754727088)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 659,00 kr SEK
   - [Black/Black/Black / 40.5](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708754759856)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 659,00 kr SEK
   - [Black/Black/Black / 41](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708754792624)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 659,00 kr SEK
   - [Black/Black/Black / 42](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708754825392)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 659,00 kr SEK
   - [Black/Black/Black / 42.5](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708754858160)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 659,00 kr SEK
   - [Black/Black/Black / 43](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708754890928)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 659,00 kr SEK
   - [Black/Black/Black / 44](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708754923696)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 659,00 kr SEK
   - [Black/Black/Black / 44.5](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708754956464)
-    Availability: Available
-    Price: 2 199,00 kr SEK
+    Availability: Not Available
+    Price: 659,00 kr SEK
   - [Black/Black/Black / 45](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708754989232)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 659,00 kr SEK
   - [Black/Black/Black / 45.5](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708755022000)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 659,00 kr SEK
   - [Black/Black/Black / 46](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708755054768)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 659,00 kr SEK
   - [Black/Black/Black / 47](https://gaitline.se/products/route-trx-2-0-black-black-black?variant=42708755087536)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 659,00 kr SEK
 - [Skor för breda fötter – Advance PRO | Gaitline](https://gaitline.se/products/advance-pro-black-black-black): Advance PRO är vår bredaste sneaker, med 4 mm extra utrymme i framfoten. Dämpning och stöd för dig som står och går hela dagen. Fri frakt över 1 500 kr.
-  Updated: 2026-11-13T08:39:36Z
+  Updated: 2026-11-21T09:32:36Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -664,7 +1348,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 399,00 kr SEK
 - [World Cup PRO - Svart/Svart | Skor på nätet | GaitLine](https://gaitline.se/products/world-cup-pro-black-black-black): GaitLine World Cup PRO skor - Helsvart: innovativ SGL-teknologi för topprestanda. Ignite PRO-material, lätt, andas, bra dämpning, idealisk för asfalt. Köp nu
-  Updated: 2026-11-13T18:53:08Z
+  Updated: 2026-11-21T19:18:35Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -727,7 +1411,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 399,00 kr SEK
 - [Track Lthr - lDjup brun | Skor på nätet | GaitLine | Skinnskor](https://gaitline.se/products/track-lthr-deep-tan-white-gold): GaitLine Track Lthr, Djup brun: Klassisk, elegant skinnsko med perfekt passform. Norsk SGL-teknologi för bra dämpning och stöd, idealisk för hårda underlag. Kolla alla
-  Updated: 2026-10-16T16:15:12Z
+  Updated: 2026-11-19T12:51:27Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -742,7 +1426,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 099,00 kr SEK
   - [Deep Tan/White/Gold / 38](https://gaitline.se/products/track-lthr-deep-tan-white-gold?variant=42708759675056)
-    Availability: Not Available
+    Availability: Available
     Price: 2 099,00 kr SEK
   - [Deep Tan/White/Gold / 38.5](https://gaitline.se/products/track-lthr-deep-tan-white-gold?variant=42708759707824)
     Availability: Not Available
@@ -787,7 +1471,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 099,00 kr SEK
 - [Flow SP Sandal - svart | Sandaler online | GaitLine](https://gaitline.se/products/flow-sp-sandal-black-black-black): GaitLine Flow SP Sandal i svart. Sulan har innovativ SGL-teknologi för topp prestanda. Sandal för både korta promenader och långa sträckor. Slitstarkt material. Köp nu
-  Updated: 2026-11-12T10:29:35Z
+  Updated: 2026-11-19T12:52:17Z
   Vendor: Gaitline
   Product Type: Sandals
   Availability: Available
@@ -825,8 +1509,71 @@ Kundservice: customerservice@gaitline.com
   - [Black/Black/Black / 46](https://gaitline.se/products/flow-sp-sandal-black-black-black?variant=43171465330864)
     Availability: Available
     Price: 1 999,00 kr SEK
+- [Lunar Lite - svart | Skor på nätet | GaitLine](https://gaitline.se/products/lunar-lite-black-black-black): GaitLine Lunar Lite - svart: vår lättaste och mest luftiga sko. Innovativ SGL-teknologi för topp prestanda. Material som andas, bra dämpning, perfekt för asfalt. Köp nu.
+  Updated: 2026-11-20T10:55:55Z
+  Vendor: Gaitline
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/Lunar-Lite-Black-Black-Black-1.jpg?v=1707467612
+  - [Black/Black/Black / 36](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468181680)
+    Availability: Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 36.5](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468214448)
+    Availability: Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 37.5](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468247216)
+    Availability: Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 38](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468279984)
+    Availability: Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 38.5](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468312752)
+    Availability: Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 39](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468345520)
+    Availability: Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 40](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468378288)
+    Availability: Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 40.5](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468411056)
+    Availability: Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 41](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468443824)
+    Availability: Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 42](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468476592)
+    Availability: Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 42.5](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468509360)
+    Availability: Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 43](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468542128)
+    Availability: Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 44](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468574896)
+    Availability: Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 44.5](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468607664)
+    Availability: Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 45](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468640432)
+    Availability: Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 45.5](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468673200)
+    Availability: Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 46](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468705968)
+    Availability: Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 47](https://gaitline.se/products/lunar-lite-black-black-black?variant=43171468738736)
+    Availability: Not Available
+    Price: 2 199,00 kr SEK
+  - [Black/Black/Black / 47.5](https://gaitline.se/products/lunar-lite-black-black-black?variant=43884206358704)
+    Availability: Available
+    Price: 2 199,00 kr SEK
 - [Haven LX Sandal - helsvart | Sandaler online | GaitLine](https://gaitline.se/products/haven-lx-sandal-black-black-black): GaitLine Haven LX Sandal i svart. Sulan har innovativ norsk SGL-teknologi för topp prestanda. Sandal för både korta promenader och långa sträckor. Slitstarkt material. Köp nu
-  Updated: 2026-10-30T15:57:27Z
+  Updated: 2026-11-19T12:52:52Z
   Vendor: Gaitline
   Product Type: Sandals
   Availability: Available
@@ -856,133 +1603,133 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 199,00 kr SEK
 - [Advance Lite – helvit | Lätt, luftig och stödjande sneaker | Gaitline](https://gaitline.se/products/advance-lite-white-white-white): Sneakern Advance Lite i vit från Gaitline är lätt, luftig och stilren. Sulan har patenterad norsk teknologi som balanserar foten och kroppen optimalt. Fri frakt över 1 500 kr
-  Updated: 2026-11-03T08:56:56Z
+  Updated: 2026-11-21T23:42:36Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/Advance-Lite-White-White-White-1_498e0aad-2262-4ebb-b44b-c4cd99f8b727.jpg?v=1707476480
   - [White/White/White / 36](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524247728)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 36.5](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524280496)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 37.5](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524313264)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 38](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524346032)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 38.5](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524378800)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 39](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524411568)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 40](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524444336)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 40.5](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524477104)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 41](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524509872)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 42](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524542640)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 42.5](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524575408)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 43](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524608176)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 44](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524640944)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 44.5](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524673712)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 45](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524706480)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 45.5](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524739248)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 46](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524772016)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 47](https://gaitline.se/products/advance-lite-white-white-white?variant=43171524804784)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [White/White/White / 47.5](https://gaitline.se/products/advance-lite-white-white-white?variant=44266552656048)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
 - [Gaitline Lunar Lite – Lättviktssneaker för vardagen](https://gaitline.se/products/lunar-lite-ebony-black-silver-white): Lunar Lite balanserar kroppen steg för steg, dag efter dag. Andningsbart mesh och Sensory Gaitline Technology™ för korta och långa distanser. Fri frakt över 1500 kr.
-  Updated: 2026-10-28T13:47:15Z
+  Updated: 2026-11-21T23:42:26Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/Lunar-Lite-Ebony-Black-Silver-White-1_d5d3c2f0-1400-42e9-902d-1b7725962cb8.jpg?v=1707476566
   - [Ebony/Black/Silver/White / 36](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171525525680)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 36.5](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171525558448)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 37.5](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171525591216)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 38](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171525623984)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 38.5](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171525656752)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 39](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171525689520)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 40](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171525722288)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 40.5](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171525755056)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 41](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171525787824)
-    Availability: Available
-    Price: 2 199,00 kr SEK
+    Availability: Not Available
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 42](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171525820592)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 42.5](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171525853360)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 43](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171525886128)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 44](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171525918896)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 44.5](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171525951664)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 45](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171525984432)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 45.5](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171526017200)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 46](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171526049968)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 47](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43171526082736)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
   - [Ebony/Black/Silver/White / 47.5](https://gaitline.se/products/lunar-lite-ebony-black-silver-white?variant=43884207702192)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 099,00 kr SEK
 - [Gaitline Lunar Lite – Lättviktssneaker för vardagen](https://gaitline.se/products/lunar-lite-white-white-white): Lunar Lite balanserar kroppen steg för steg, dag efter dag. Andningsbart mesh och Sensory Gaitline Technology™ för korta och långa distanser. Fri frakt över 1500 kr.
-  Updated: 2026-11-12T11:05:46Z
+  Updated: 2026-11-21T11:53:06Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -1084,52 +1831,52 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 1 999,00 kr SEK
 - [Flow SP Sandal - grön | Smed stöd och dämpning | GaitLine](https://gaitline.se/products/flow-sp-sandal-sage-green-magnet-vanilla): GaitLine Flow SP Sandal i grön. Sulan har innovativ SGL-teknologi för topp prestanda. Sandal för både korta promenader och långa sträckor. Slitstarkt material. Fri frakt över 1500 kr.
-  Updated: 2026-09-28T17:14:46Z
+  Updated: 2026-11-21T16:07:02Z
   Vendor: Gaitline
   Product Type: Sandals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/Flow-SP-Sandal-Sage-Green-Magnet-Vanilla-1_569c128a-d209-48b1-ac51-4cf718ac96d5.jpg?v=1707476627
   - [Sage Green/Magnet/Vanilla / 36](https://gaitline.se/products/flow-sp-sandal-sage-green-magnet-vanilla?variant=43171527164080)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Sage Green/Magnet/Vanilla / 37](https://gaitline.se/products/flow-sp-sandal-sage-green-magnet-vanilla?variant=43171527196848)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Sage Green/Magnet/Vanilla / 38](https://gaitline.se/products/flow-sp-sandal-sage-green-magnet-vanilla?variant=43171527229616)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Sage Green/Magnet/Vanilla / 39](https://gaitline.se/products/flow-sp-sandal-sage-green-magnet-vanilla?variant=43171527262384)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Sage Green/Magnet/Vanilla / 40](https://gaitline.se/products/flow-sp-sandal-sage-green-magnet-vanilla?variant=43171527295152)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Sage Green/Magnet/Vanilla / 41](https://gaitline.se/products/flow-sp-sandal-sage-green-magnet-vanilla?variant=43171527327920)
     Availability: Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Sage Green/Magnet/Vanilla / 42](https://gaitline.se/products/flow-sp-sandal-sage-green-magnet-vanilla?variant=43171527360688)
     Availability: Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Sage Green/Magnet/Vanilla / 43](https://gaitline.se/products/flow-sp-sandal-sage-green-magnet-vanilla?variant=43171527393456)
     Availability: Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Sage Green/Magnet/Vanilla / 44](https://gaitline.se/products/flow-sp-sandal-sage-green-magnet-vanilla?variant=43171527426224)
     Availability: Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Sage Green/Magnet/Vanilla / 45](https://gaitline.se/products/flow-sp-sandal-sage-green-magnet-vanilla?variant=43171527458992)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Sage Green/Magnet/Vanilla / 46](https://gaitline.se/products/flow-sp-sandal-sage-green-magnet-vanilla?variant=43171527491760)
     Availability: Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
 - [Haven LX Sandal - offwhite | Sandaler online | GaitLine](https://gaitline.se/products/haven-lx-sandal-off-white-earth-white): GaitLine Haven LX Sandal i offwhite. Sulan har innovativ norsk SGL-teknologi för topp prestanda. Sandal för både korta promenader och långa sträckor. Slitstarkt material. Köp nu
-  Updated: 2026-10-31T19:35:12Z
+  Updated: 2026-11-20T09:15:47Z
   Vendor: Gaitline
   Product Type: Sandals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/Haven-LX-Sandal-Off-White-Earth-White-1_b380e83e-72cf-48cd-b852-4161fb940461.jpg?v=1707476648
   - [Off White/Earth/White / 36](https://gaitline.se/products/haven-lx-sandal-off-white-earth-white?variant=43171527852208)
-    Availability: Not Available
+    Availability: Available
     Price: 2 199,00 kr SEK
   - [Off White/Earth/White / 37](https://gaitline.se/products/haven-lx-sandal-off-white-earth-white?variant=43171527884976)
     Availability: Available
@@ -1153,106 +1900,106 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 199,00 kr SEK
 - [Advance Lite – Mörkgrön | Lätt, luftig och stödjande sneaker | Gaitline](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white): Sneakern Advance Lite i mörkgrönt från Gaitline är lätt, luftig och stilren. Sulan har patenterad norsk teknologi som balanserar foten och kroppen optimalt. Fri frakt över 1 500 kr.
-  Updated: 2026-09-16T11:32:16Z
+  Updated: 2026-11-21T18:47:55Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/AdvLite-UrbanGreen2024-06-20_12.jpg?v=1723184047
   - [Urban Green/Pale Gold/Black/White / 36](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828043612336)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 36.5](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828043645104)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 37.5](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828043677872)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 38](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828043710640)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 38.5](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828043743408)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 39](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828043776176)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 40](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828043808944)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 40.5](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828043841712)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 41](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828043874480)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 42](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828043907248)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 42.5](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828043940016)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 43](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828043972784)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 44](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828044005552)
-    Availability: Available
-    Price: 2 299,00 kr SEK
+    Availability: Not Available
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 44.5](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828044038320)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 45](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828044071088)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 45.5](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828044103856)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 46](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828044136624)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 47](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828044169392)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Urban Green/Pale Gold/Black/White / 47.5](https://gaitline.se/products/advance-lite-urban-green-pale-gold-black-white?variant=43828044202160)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
 - [Advance Lite – Beige | Lätt, luftig och stödjande sneaker | Gaitline](https://gaitline.se/products/advance-lite-cream-cream-champagne): Sneakern Advance Lite i beige från Gaitline är lätt, luftig och stilren. Sulan har patenterad norsk teknologi som balanserar foten och kroppen optimalt. Fri frakt över 1 500 kr.
-  Updated: 2026-11-09T12:30:25Z
+  Updated: 2026-11-21T11:01:36Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2024-06-20_10.jpg?v=1723184186
   - [Cream/Cream/Champagne / 36](https://gaitline.se/products/advance-lite-cream-cream-champagne?variant=43828044398768)
-    Availability: Available
-    Price: 2 299,00 kr SEK
+    Availability: Not Available
+    Price: 689,00 kr SEK
   - [Cream/Cream/Champagne / 36.5](https://gaitline.se/products/advance-lite-cream-cream-champagne?variant=43828044431536)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Cream/Cream/Champagne / 37.5](https://gaitline.se/products/advance-lite-cream-cream-champagne?variant=43828044464304)
-    Availability: Available
-    Price: 2 299,00 kr SEK
+    Availability: Not Available
+    Price: 689,00 kr SEK
   - [Cream/Cream/Champagne / 38](https://gaitline.se/products/advance-lite-cream-cream-champagne?variant=43828044497072)
-    Availability: Available
-    Price: 2 299,00 kr SEK
+    Availability: Not Available
+    Price: 689,00 kr SEK
   - [Cream/Cream/Champagne / 38.5](https://gaitline.se/products/advance-lite-cream-cream-champagne?variant=43828044529840)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Cream/Cream/Champagne / 39](https://gaitline.se/products/advance-lite-cream-cream-champagne?variant=43828044562608)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Cream/Cream/Champagne / 40](https://gaitline.se/products/advance-lite-cream-cream-champagne?variant=43828044595376)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Cream/Cream/Champagne / 40.5](https://gaitline.se/products/advance-lite-cream-cream-champagne?variant=43828044628144)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Cream/Cream/Champagne / 41](https://gaitline.se/products/advance-lite-cream-cream-champagne?variant=43828044660912)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Cream/Cream/Champagne / 42](https://gaitline.se/products/advance-lite-cream-cream-champagne?variant=43828044693680)
-    Availability: Available
-    Price: 2 299,00 kr SEK
+    Availability: Not Available
+    Price: 689,00 kr SEK
 - [Advance Lite – Svart | Lätt, luftig och stödjande sneaker | Gaitline](https://gaitline.se/products/advance-lite-black-black-black): Sneakern Advance Lite i Svart från Gaitline är lätt, luftig och stilren. Sulan har patenterad norsk teknologi som balanserar foten och kroppen optimalt. Fri frakt över 1 500 kr.
-  Updated: 2026-11-12T21:42:31Z
+  Updated: 2026-11-20T14:16:45Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -1300,7 +2047,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 299,00 kr SEK
   - [Black/Black/Black / 45](https://gaitline.se/products/advance-lite-black-black-black?variant=43828045250736)
-    Availability: Not Available
+    Availability: Available
     Price: 2 299,00 kr SEK
   - [Black/Black/Black / 45.5](https://gaitline.se/products/advance-lite-black-black-black?variant=43828045283504)
     Availability: Available
@@ -1315,7 +2062,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 299,00 kr SEK
 - [Gravel Lite WP - Black/Black/Black](https://gaitline.se/products/gravel-lite-wp-black-black-black): Stad. Natur. Oavsett. Gravel Lite är utvecklad för dig som inte låter vädret bestämma. Vattentät, lätt och redo för allt – från stadens gator till grusvägar, från vardag till helg. Sensory Gaitline Technology™ håller kroppen i balans oavsett underlag. Du väljer inte mellan stil och funktion. Med Gaitline får du båda.
-  Updated: 2026-11-12T12:30:41Z
+  Updated: 2026-11-20T03:41:46Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -1378,70 +2125,70 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 499,00 kr SEK
 - [Kikut Lite - DK Brown/Vanilla/Specles](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles): Kikut Lite har en modern design med inspiration hämtad från den klassiska fjällstöveln. Överdelen är tillverkad i en vacker mocka. Insidan av skon är fodrad med ett lätt syntetmaterial med hög isolering så att du håller dig varm på fötterna. Tungan sys med extra flikar för att förhindra att vatten och snö kommer in i skon. Sulan har ett extra starkt mönster för bra grepp på hala och våta ytor. En fantastisk vinterstövel som passar lika bra i staden som i bergen. Vi rekommenderar regelbunden impregnering av den här skon för att bibehålla dess vattenavvisande funktion. Färg: DK Brown/Vanilla/Speckles
-  Updated: 2026-11-13T16:45:07Z
+  Updated: 2026-11-22T00:47:35Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2024-08-28_011.jpg?v=1727081390
   - [DK Brown/Vanilla/Specles / 36](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048101552)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 36.5](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048134320)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 37.5](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048167088)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 38](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048199856)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 38.5](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048232624)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 39](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048265392)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 40](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048298160)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 40.5](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048330928)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 41](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048363696)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 42](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048396464)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 42.5](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048429232)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 43](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048462000)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 44](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048494768)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 44.5](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048527536)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 45](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048560304)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 45.5](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048593072)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 46](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048625840)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 47](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048658608)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
   - [DK Brown/Vanilla/Specles / 47.5](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles?variant=43828048691376)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 1 679,00 kr SEK
 - [Silver Mid TRX 2.0 - Wheat/Wheat/Natural](https://gaitline.se/products/silver-mid-trx-2-0-wheat-wheat-natural): Silver Mid TRX är den ultimata vinterskon. Med sin ovandel i mjukt läder och ett fodrat innerskikt håller den dina fötter komfortabla och varma även i kallt väder. Yttersulan har uppgraderats med ett nytt mönster och en mjukare gummiblandning, som ger mycket bra grepp på alla typer av underlag - särskilt på våta, hårda ytor som till exempel gatsten och plattor. Trots att detta är en robust vintersko känns skon lätt och bekväm på foten. Vi rekommenderar regelbunden impregnering av den här skon för att bibehålla dess vattenavvisande funktion. Färg: Wheat/Wheat/Natural
-  Updated: 2026-11-13T08:05:56Z
+  Updated: 2026-11-21T11:35:45Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -1504,70 +2251,70 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 599,00 kr SEK
 - [Tracer Lite WP - Urban Green/Bright Yellow/Black/Specles](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles): NYHET! Tracer Lite har förbättrad yttersula för bra grepp. Tracer Lite har ett vattentätt membran som säkerställer att dina fötter håller sig torra i alla väderförhållanden. Ovandelen är gjord av ett slitstarkt Cordura mesh-material med extra PU-förstärkning i häl och tå. Mellansålen har vårt nya IGNITE sålskum som är lätt och ger fantastisk dämpning. Med ett specialdesignat yttersulsmönster och en mjukare gummiblandning ger det en unik greppförmåga även på krävande underlag i fjällen eller på våta hårda underlag i staden. Plösen och hälkappan har ett extra lager skum så att du inte känner tryck mot foten när du snörar på dig kängorna. Det medelhöga skaftet ger dig god stabilitet i fotleden oavsett vilket underlag du rör dig på. Tracer Lite WP är en perfekt höst- och vintersko som tål turer i terräng samtidigt som den trivs bra i urbana miljöer. Vi rekommenderar regelbunden impregnering av den här skon för att bibehålla dess vattenavvisande funktion. Färg: Urban Green/Bright Yellow/Black/Speckles
-  Updated: 2026-10-24T09:24:41Z
+  Updated: 2026-11-21T22:10:45Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2024-08-28_012.jpg?v=1727081633
   - [Urban Green/Bright Yellow/Black/Specles / 36](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050329776)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 36.5](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050362544)
     Availability: Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 37.5](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050395312)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 38](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050428080)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 38.5](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050460848)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 39](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050493616)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 40](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050526384)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 40.5](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050559152)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 41](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050591920)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 42](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050624688)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 42.5](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050657456)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 43](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050690224)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 44](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050722992)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 44.5](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050755760)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 45](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050788528)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 45.5](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050821296)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 46](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050854064)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 47](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050886832)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 47.5](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050919600)
     Availability: Not Available
-    Price: 2 799,00 kr SEK
+    Price: 839,00 kr SEK
 - [Tracer Lite WP - Black/Black/Black](https://gaitline.se/products/tracer-lite-wp-black-black-black): Tracer Lite har förbättrad yttersula för bra grepp. Tracer Lite har ett vattentätt membran som säkerställer att dina fötter håller sig torra i alla väderförhållanden. Ovandelen är gjord av ett slitstarkt Cordura mesh-material med extra PU-förstärkning i häl och tå. Mellansålen har vårt nya IGNITE sålskum som är lätt och ger fantastisk dämpning. Med ett specialdesignat yttersulsmönster och en mjukare gummiblandning ger det en unik greppförmåga även på krävande underlag i fjällen eller på våta hårda underlag i staden. Plösen och hälkappan har ett extra lager skum så att du inte känner tryck mot foten när du snörar på dig kängorna. Det medelhöga skaftet ger dig god stabilitet i fotleden oavsett vilket underlag du rör dig på. Tracer Lite WP är en perfekt höst- och vintersko som tål turer i terräng samtidigt som den trivs bra i urbana miljöer. Vi rekommenderar regelbunden impregnering av den här skon för att bibehålla dess vattenavvisande funktion. Färg: Black/Black/Black
-  Updated: 2026-11-12T11:06:06Z
+  Updated: 2026-11-19T12:52:49Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -1621,156 +2368,156 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 799,00 kr SEK
   - [Black/Black/Black / 46](https://gaitline.se/products/tracer-lite-wp-black-black-black?variant=43828051607728)
-    Availability: Available
+    Availability: Not Available
     Price: 2 799,00 kr SEK
   - [Black/Black/Black / 47](https://gaitline.se/products/tracer-lite-wp-black-black-black?variant=43828051640496)
-    Availability: Available
+    Availability: Not Available
     Price: 2 799,00 kr SEK
   - [Black/Black/Black / 47.5](https://gaitline.se/products/tracer-lite-wp-black-black-black?variant=43828051673264)
     Availability: Available
     Price: 2 799,00 kr SEK
 - [World Cup PRO - Urban Green/Slate/Black/White](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white): World Cup PRO är vår topmodell med maximal respons och demping, perfekt för dig som står och går i timmar. Den är också idealisk för återhämtning och långa dagar, och är bland våra bredaste modeller för extra komfort. Den kombinerar slitstark kvalitet med överlägsen stötdämpning, tack vare vår patenterade SGL-teknologi och IGNITE PRO skum i mellansålen, som säkerställer låg vikt och lång hållbarhet. Häl och mellansula är förstärkta med TPU för god stabilitet, medan den ventilerande, 3D-strickade överlägget ger elasticitet och komfort. Designad för att tåla 12 timmar i rörelse är denna sko perfekt för idrottare, vårdpersonal, butikspersonal och andra som behöver pålitliga, stödjande skor för långa arbetspass. Färg: Urban Green/Slate/Black/White
-  Updated: 2026-10-16T16:15:23Z
+  Updated: 2026-11-20T04:51:33Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/WCP-UrbanGreen2024-06-20_14.jpg?v=1723184550
   - [Urban Green/Slate/Black/White / 36](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828051804336)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 36.5](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828051837104)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 37.5](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828051869872)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 38](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828051902640)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 38.5](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828051935408)
-    Availability: Available
-    Price: 2 399,00 kr SEK
+    Availability: Not Available
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 39](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828051968176)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 40](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828052000944)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 40.5](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828052033712)
-    Availability: Available
-    Price: 2 399,00 kr SEK
+    Availability: Not Available
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 41](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828052066480)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 42](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828052099248)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 42.5](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828052132016)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 43](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828052164784)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 44](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828052197552)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 44.5](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828052230320)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 45](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828052263088)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 45.5](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828052295856)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 46](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828052328624)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 47](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828052361392)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Urban Green/Slate/Black/White / 47.5](https://gaitline.se/products/world-cup-pro-urban-green-slate-black-white?variant=43828052394160)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
 - [World Cup PRO - White/White/White](https://gaitline.se/products/world-cup-pro-white-white-white): World Cup PRO är vår topmodell med maximal respons och demping, perfekt för dig som står och går i timmar. Den är också idealisk för återhämtning och långa dagar, och är bland våra bredaste modeller för extra komfort. Den kombinerar slitstark kvalitet med överlägsen stötdämpning, tack vare vår patenterade SGL-teknologi och IGNITE PRO skum i mellansålen, som säkerställer låg vikt och lång hållbarhet. Häl och mellansula är förstärkta med TPU för god stabilitet, medan den ventilerande, 3D-strickade överlägget ger elasticitet och komfort. Designad för att tåla 12 timmar i rörelse är denna sko perfekt för idrottare, vårdpersonal, butikspersonal och andra som behöver pålitliga, stödjande skor för långa arbetspass. Färg: White/White/White
-  Updated: 2026-11-13T14:52:36Z
+  Updated: 2026-11-21T22:10:46Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2024-06-20_09.jpg?v=1723184627
   - [White/White/White / 36](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828052558000)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [White/White/White / 36.5](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828052590768)
-    Availability: Available
-    Price: 2 399,00 kr SEK
+    Availability: Not Available
+    Price: 1 439,00 kr SEK
   - [White/White/White / 37.5](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828052623536)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [White/White/White / 38](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828052656304)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [White/White/White / 38.5](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828052689072)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [White/White/White / 39](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828052721840)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [White/White/White / 40](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828052754608)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [White/White/White / 40.5](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828052787376)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [White/White/White / 41](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828052820144)
-    Availability: Available
-    Price: 2 399,00 kr SEK
+    Availability: Not Available
+    Price: 1 439,00 kr SEK
   - [White/White/White / 42](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828052852912)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [White/White/White / 42.5](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828052885680)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [White/White/White / 43](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828052918448)
-    Availability: Available
-    Price: 2 399,00 kr SEK
+    Availability: Not Available
+    Price: 1 439,00 kr SEK
   - [White/White/White / 44](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828052951216)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [White/White/White / 44.5](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828052983984)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [White/White/White / 45](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828053016752)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [White/White/White / 45.5](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828053049520)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [White/White/White / 46](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828053082288)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [White/White/White / 47](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828053115056)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [White/White/White / 47.5](https://gaitline.se/products/world-cup-pro-white-white-white?variant=43828053147824)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
 - [Eco Proofer Impregneringsspray](https://gaitline.se/products/eco-proofer-impregneringsspray): Springyard Eco Proofer är en effektiv impregneringsspray som ger långvarigt skydd mot vatten och smuts utan att påverka materialets andningsförmåga. Den vattenbaserade formuleringen är helt fri från PFAS och biologiskt nedbrytbar. Sprayen fungerar på de flesta material, inklusive läder, textil, mocka, nubuck och syntetiska material – även tekniska textilier som Tex-material. Eco Proofer är idealisk för skor, väskor, ytterplagg, barnvagnar och annan utrustning som behöver extra skydd mot väder och smuts. Den kan tryggt användas inomhus och hjälper till att underhålla och förlänga materialets vattenavvisande egenskaper.
-  Updated: 2026-11-13T16:45:16Z
+  Updated: 2026-11-21T22:10:45Z
   Vendor: Gaitline
   Product Type: Spray
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/springyard_active_eco_proofer_1000x1000_ec0542e1-d054-43b2-9b46-a9eb20736ff8.jpg?v=1772631817
   Price: 199,00 kr SEK
 - [Cleaning Kit](https://gaitline.se/products/cleaning-kit): Cleaning Kit från Springyard är en praktisk allt-i-ett-lösning för effektiv skovård. Satsen innehåller en vattenbaserad och miljövänlig rengöringsgel som avlägsnar ingrodd smuts och ger skorna en fräsch doft, samtidigt som den förlänger livslängden. Den passar för alla typer av material och är helt PFAS-fri. Rengöringsborsten är tillverkad av 100% bok med fast syntetisk borst, perfekt för att hantera både ingrodd smuts och smutsiga sulor. Den slitstarka mikrofiberduken kan tvättas och har en praktisk ögla för enkel förvaring. Detta set ger dig allt du behöver för att hålla dina skor rena och fina, oavsett material. Perfekt för dig som vill ta hand om dina skor på ett skonsamt och effektivt sätt!
-  Updated: 2026-11-07T10:25:06Z
+  Updated: 2026-11-21T23:42:36Z
   Vendor: Gaitline
   Product Type: Cleaning
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/510301_springyard_active_cleaning_kit_0-1200x1200.jpg?v=1736419684
   Price: 189,00 kr SEK
 - [SportGrip Runsafe broddar](https://gaitline.se/products/sportgrip-runsafe-brodder): Springyard SportGrip är helfotsbroddar med 3M-reflex som ger dig extra säkerhet i mörkret, perfekt för både promenader och löpning på snö, is och dåligt vinterföre. Broddarna har  utbytbara dubbar i slitstarkt volframkarbid – fyra under framfoten och två under hälen – för att säkra bra grepp på hala underlag. Broddarna är tillverkade i slitstark naturgummi som ger en tät passform, och de sitter bra även vid intensiv användning, vilket gör dem idealiska för både långa promenader och snabba löprundor. SportGrip-broddarna är enkla att ta av och på, och passar de flesta skor. OBS: Observera att naturgummit kan färga av sig på ljusa skor, och vi rekommenderar att undvika användning på barmark för att minska slitage. Detta är det perfekta valet för dig som vill upprätthålla aktiviteten på vinterföre – oavsett om du går eller springer.
-  Updated: 2026-11-10T12:17:06Z
+  Updated: 2026-11-20T14:41:26Z
   Vendor: Springyard
   Product Type: Various
   Availability: Available
@@ -1788,313 +2535,313 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 349,00 kr SEK
 - [Gaitline Nova Lite – Klassisk sneaker i mocka](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony): Nova Lite i mocka och mesh med Sensory Gaitline Technology™. Retrostil för vardagen – utvecklad för dig som vill ha båda. Fri frakt över 1500 kr.
-  Updated: 2026-11-13T08:52:30Z
+  Updated: 2026-11-22T00:03:36Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2025-01-20_03_d20014bf-be27-4d61-9d49-7e002a28effe.jpg?v=1738332344
   - [Blue Jeans/Vanilla/Ebony / 36](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185135481008)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Blue Jeans/Vanilla/Ebony / 36.5](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185135513776)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Blue Jeans/Vanilla/Ebony / 37.5](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185135546544)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Blue Jeans/Vanilla/Ebony / 38](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185135579312)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Blue Jeans/Vanilla/Ebony / 38.5](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185135612080)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Blue Jeans/Vanilla/Ebony / 39](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185135644848)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Blue Jeans/Vanilla/Ebony / 40](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185135677616)
-    Availability: Available
-    Price: 2 299,00 kr SEK
+    Availability: Not Available
+    Price: 689,00 kr SEK
   - [Blue Jeans/Vanilla/Ebony / 40.5](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185135710384)
-    Availability: Available
-    Price: 2 299,00 kr SEK
+    Availability: Not Available
+    Price: 689,00 kr SEK
   - [Blue Jeans/Vanilla/Ebony / 41](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185135743152)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Blue Jeans/Vanilla/Ebony / 42](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185135775920)
-    Availability: Available
-    Price: 2 299,00 kr SEK
+    Availability: Not Available
+    Price: 689,00 kr SEK
   - [Blue Jeans/Vanilla/Ebony / 42.5](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185135808688)
-    Availability: Available
-    Price: 2 299,00 kr SEK
+    Availability: Not Available
+    Price: 689,00 kr SEK
   - [Blue Jeans/Vanilla/Ebony / 43](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185135841456)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Blue Jeans/Vanilla/Ebony / 44](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185135874224)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Blue Jeans/Vanilla/Ebony / 44.5](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185135906992)
-    Availability: Available
-    Price: 2 299,00 kr SEK
+    Availability: Not Available
+    Price: 689,00 kr SEK
   - [Blue Jeans/Vanilla/Ebony / 45](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185135939760)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Blue Jeans/Vanilla/Ebony / 45.5](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185135972528)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Blue Jeans/Vanilla/Ebony / 46](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185136005296)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Blue Jeans/Vanilla/Ebony / 47](https://gaitline.se/products/nova-lite-blue-jeans-vanilla-ebony?variant=44185136038064)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
 - [Gaitline Nova Lite – Klassisk sneaker i mocka](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla): Nova Lite i mocka och mesh med Sensory Gaitline Technology™. Retrostil för vardagen – utvecklad för dig som vill ha båda. Fri frakt över 1500 kr.
-  Updated: 2026-10-14T11:01:05Z
+  Updated: 2026-11-21T21:42:56Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2025-01-20_05_9b50bdbe-d315-4fed-ab15-d584ed492869.jpg?v=1738332372
   - [Bamboo/Leaf/Vanilla / 36](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136332976)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Bamboo/Leaf/Vanilla / 36.5](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136365744)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Bamboo/Leaf/Vanilla / 37.5](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136398512)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Bamboo/Leaf/Vanilla / 38](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136431280)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Bamboo/Leaf/Vanilla / 38.5](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136464048)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Bamboo/Leaf/Vanilla / 39](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136496816)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Bamboo/Leaf/Vanilla / 40](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136529584)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Bamboo/Leaf/Vanilla / 40.5](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136562352)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Bamboo/Leaf/Vanilla / 41](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136595120)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Bamboo/Leaf/Vanilla / 42](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136627888)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Bamboo/Leaf/Vanilla / 42.5](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136660656)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Bamboo/Leaf/Vanilla / 43](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136693424)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Bamboo/Leaf/Vanilla / 44](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136726192)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Bamboo/Leaf/Vanilla / 44.5](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136758960)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Bamboo/Leaf/Vanilla / 45](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136791728)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Bamboo/Leaf/Vanilla / 45.5](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136824496)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Bamboo/Leaf/Vanilla / 46](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136857264)
-    Availability: Available
-    Price: 2 299,00 kr SEK
+    Availability: Not Available
+    Price: 689,00 kr SEK
   - [Bamboo/Leaf/Vanilla / 47](https://gaitline.se/products/nova-lite-bamboo-leaf-vanilla?variant=44185136890032)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
 - [Gaitline Nova Lite – Klassisk sneaker i mocka](https://gaitline.se/products/nova-lite-earth-canteen-vanilla): Nova Lite i mocka och mesh med Sensory Gaitline Technology™. Retrostil för vardagen – utvecklad för dig som vill ha båda. Fri frakt över 1500 kr.
-  Updated: 2026-10-20T19:50:45Z
+  Updated: 2026-11-20T09:35:07Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2025-01-20_04_4014dee0-90ea-480b-b842-ae3e05848e75.jpg?v=1738332398
   - [Earth/Canteen/Vanilla / 36](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137184944)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Earth/Canteen/Vanilla / 36.5](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137217712)
-    Availability: Available
-    Price: 2 299,00 kr SEK
+    Availability: Not Available
+    Price: 689,00 kr SEK
   - [Earth/Canteen/Vanilla / 37.5](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137250480)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Earth/Canteen/Vanilla / 38](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137283248)
-    Availability: Available
-    Price: 2 299,00 kr SEK
+    Availability: Not Available
+    Price: 689,00 kr SEK
   - [Earth/Canteen/Vanilla / 38.5](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137316016)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Earth/Canteen/Vanilla / 39](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137348784)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Earth/Canteen/Vanilla / 40](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137381552)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Earth/Canteen/Vanilla / 40.5](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137414320)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Earth/Canteen/Vanilla / 41](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137447088)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Earth/Canteen/Vanilla / 42](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137479856)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Earth/Canteen/Vanilla / 42.5](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137512624)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Earth/Canteen/Vanilla / 43](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137545392)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Earth/Canteen/Vanilla / 44](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137578160)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Earth/Canteen/Vanilla / 44.5](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137610928)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Earth/Canteen/Vanilla / 45](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137643696)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Earth/Canteen/Vanilla / 45.5](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137676464)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Earth/Canteen/Vanilla / 46](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137709232)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
   - [Earth/Canteen/Vanilla / 47](https://gaitline.se/products/nova-lite-earth-canteen-vanilla?variant=44185137742000)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 689,00 kr SEK
 - [World Cup PRO - Black/Oyster/Vanilla](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla): World Cup PRO är vår topmodell med maximal respons och demping, perfekt för dig som står och går i timmar. Den är också idealisk för återhämtning och långa dagar, och är bland våra bredaste modeller för extra komfort. Den kombinerar slitstark kvalitet med överlägsen stötdämpning, tack vare vår patenterade SGL-teknologi och IGNITE PRO skum i mellansålen, som säkerställer låg vikt och lång hållbarhet. Häl och mellansula är förstärkta med TPU för god stabilitet, medan den ventilerande, 3D-strickade överlägget ger elasticitet och komfort. Designad för att tåla 12 timmar i rörelse är denna sko perfekt för idrottare, vårdpersonal, butikspersonal och andra som behöver pålitliga, stödjande skor för långa arbetspass. Färg: Black/Oyster/Vanilla
-  Updated: 2026-11-03T20:27:05Z
+  Updated: 2026-11-21T21:13:06Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/2024-11-07_03_de9324a1-861a-46d6-8f1c-a28d3bcd337e.jpg?v=1738332426
   - [Black/Oyster/Vanilla / 36](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185138921648)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 36.5](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185138954416)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 37.5](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185138987184)
-    Availability: Available
-    Price: 2 399,00 kr SEK
+    Availability: Not Available
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 38](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139019952)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 38.5](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139052720)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 39](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139085488)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 40](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139118256)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 40.5](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139151024)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 41](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139183792)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 42](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139216560)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 42.5](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139249328)
-    Availability: Available
-    Price: 2 399,00 kr SEK
+    Availability: Not Available
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 43](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139282096)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 44](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139314864)
-    Availability: Available
-    Price: 2 399,00 kr SEK
+    Availability: Not Available
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 44.5](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139347632)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 45](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139380400)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 45.5](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139413168)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 46](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139445936)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 47](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139478704)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
   - [Black/Oyster/Vanilla / 47.5](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139511472)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 199,00 kr SEK
 - [World Cup PRO - Olive Oak/Vanilla/White](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white): World Cup PRO är vår topmodell med maximal respons och demping, perfekt för dig som står och går i timmar. Den är också idealisk för återhämtning och långa dagar, och är bland våra bredaste modeller för extra komfort. Den kombinerar slitstark kvalitet med överlägsen stötdämpning, tack vare vår patenterade SGL-teknologi och IGNITE PRO skum i mellansålen, som säkerställer låg vikt och lång hållbarhet. Häl och mellansula är förstärkta med TPU för god stabilitet, medan den ventilerande, 3D-strickade överlägget ger elasticitet och komfort. Designad för att tåla 12 timmar i rörelse är denna sko perfekt för idrottare, vårdpersonal, butikspersonal och andra som behöver pålitliga, stödjande skor för långa arbetspass. Färg: Olive Oak/Vanilla/White
-  Updated: 2026-11-08T19:20:26Z
+  Updated: 2026-11-21T14:39:15Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/2024-11-07_02_17c30026-35e4-4d52-bfe6-d4d2c885ba05.jpg?v=1738332453
   - [Olive Oak/Vanilla/White / 36](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185140527280)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 36.5](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185140560048)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 37.5](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185140592816)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 38](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185140625584)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 38.5](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185140658352)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 39](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185140691120)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 40](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185140723888)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 40.5](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185140756656)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 41](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185140789424)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 42](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185140822192)
     Availability: Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 42.5](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185140854960)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 43](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185140887728)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 44](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185140920496)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 44.5](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185140953264)
-    Availability: Available
-    Price: 2 399,00 kr SEK
+    Availability: Not Available
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 45](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185140986032)
-    Availability: Available
-    Price: 2 399,00 kr SEK
+    Availability: Not Available
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 45.5](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185141018800)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 46](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185141051568)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 47](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185141084336)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
   - [Olive Oak/Vanilla/White / 47.5](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white?variant=44185141117104)
     Availability: Not Available
-    Price: 2 399,00 kr SEK
+    Price: 1 439,00 kr SEK
 - [Lunar Lite - Blue Monument/White](https://gaitline.se/products/lunar-lite-blue-monument-white): Upplev Gaitlines lättaste och mest andningsbara sneaker — perfekt för en aktiv vardag. Vår bästsäljande sko är utformad för att klara både korta och långa sträckor. Den har utmärkt andningsförmåga, idealisk för varma dagar. Med en ovandel i tunt och luftigt nylonmesh, kombinerat med vårt innovativa IGNITE-skum, väger Lunar Lite endast 270 gram i storlek 40. Den patenterade Sensory Gaitline Technology™ i sulan balanserar foten och kroppen optimalt, vilket är särskilt användbart på hårda och plana underlag. För att säkerställa god passform och stabilitet är hälen och mellanfoten förstärkta med TPU. Valet av material i sulan ger lång hållbarhet, vilket innebär att du kan gå många fler mil med dem. Oavsett om det gäller dagligt bruk, storstadsresor, nattpass eller festivaler, erbjuder dessa skor det stöd och den komfort du behöver. Skorna levereras med extra skosnören i annan färg för att matcha olika outfits. Färg: Blue Monument/White
-  Updated: 2026-10-16T16:15:23Z
+  Updated: 2026-11-19T12:52:07Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -2157,298 +2904,298 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 199,00 kr SEK
 - [Gaitline Lunar Lite – Lättviktssneaker för vardagen](https://gaitline.se/products/lunar-lite-black-white): Lunar Lite balanserar kroppen steg för steg, dag efter dag. Andningsbart mesh och Sensory Gaitline Technology™ för korta och långa distanser. Fri frakt över 1500 kr.
-  Updated: 2026-11-12T11:01:13Z
+  Updated: 2026-11-22T00:03:06Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/2024-11-07_12_4f369c53-5236-4540-97dd-ce6e048e0aa9.jpg?v=1738332562
   - [Black/White / 36](https://gaitline.se/products/lunar-lite-black-white?variant=44185145245872)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 319,00 kr SEK
   - [Black/White / 36.5](https://gaitline.se/products/lunar-lite-black-white?variant=44185145278640)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 319,00 kr SEK
   - [Black/White / 37.5](https://gaitline.se/products/lunar-lite-black-white?variant=44185145311408)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 319,00 kr SEK
   - [Black/White / 38](https://gaitline.se/products/lunar-lite-black-white?variant=44185145344176)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 319,00 kr SEK
   - [Black/White / 38.5](https://gaitline.se/products/lunar-lite-black-white?variant=44185145376944)
-    Availability: Available
-    Price: 2 199,00 kr SEK
+    Availability: Not Available
+    Price: 1 319,00 kr SEK
   - [Black/White / 39](https://gaitline.se/products/lunar-lite-black-white?variant=44185145409712)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 1 319,00 kr SEK
   - [Black/White / 40](https://gaitline.se/products/lunar-lite-black-white?variant=44185145442480)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 1 319,00 kr SEK
   - [Black/White / 40.5](https://gaitline.se/products/lunar-lite-black-white?variant=44185145475248)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 319,00 kr SEK
   - [Black/White / 41](https://gaitline.se/products/lunar-lite-black-white?variant=44185145508016)
-    Availability: Available
-    Price: 2 199,00 kr SEK
+    Availability: Not Available
+    Price: 1 319,00 kr SEK
   - [Black/White / 42](https://gaitline.se/products/lunar-lite-black-white?variant=44185145540784)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 319,00 kr SEK
   - [Black/White / 42.5](https://gaitline.se/products/lunar-lite-black-white?variant=44185145573552)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 319,00 kr SEK
   - [Black/White / 43](https://gaitline.se/products/lunar-lite-black-white?variant=44185145606320)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 319,00 kr SEK
   - [Black/White / 44](https://gaitline.se/products/lunar-lite-black-white?variant=44185145639088)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 319,00 kr SEK
   - [Black/White / 44.5](https://gaitline.se/products/lunar-lite-black-white?variant=44185145671856)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 319,00 kr SEK
   - [Black/White / 45](https://gaitline.se/products/lunar-lite-black-white?variant=44185145704624)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 319,00 kr SEK
   - [Black/White / 45.5](https://gaitline.se/products/lunar-lite-black-white?variant=44185145737392)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 319,00 kr SEK
   - [Black/White / 46](https://gaitline.se/products/lunar-lite-black-white?variant=44185145770160)
-    Availability: Available
-    Price: 2 199,00 kr SEK
+    Availability: Not Available
+    Price: 1 319,00 kr SEK
   - [Black/White / 47](https://gaitline.se/products/lunar-lite-black-white?variant=44185145802928)
     Availability: Not Available
-    Price: 2 199,00 kr SEK
+    Price: 1 319,00 kr SEK
   - [Black/White / 47.5](https://gaitline.se/products/lunar-lite-black-white?variant=44185145835696)
     Availability: Available
-    Price: 2 199,00 kr SEK
+    Price: 1 319,00 kr SEK
 - [Advance Lite – Svart | Lätt, luftig och stödjande sneaker | Gaitline](https://gaitline.se/products/advance-lite-black-white): Sneakern Advance Lite i Svart från Gaitline är lätt, luftig och stilren. Sulan har patenterad norsk teknologi som balanserar foten och kroppen optimalt. Fri frakt över 1 500 kr.
-  Updated: 2026-11-07T05:15:25Z
+  Updated: 2026-11-22T00:05:49Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/AdvLite-Black-White1.jpg?v=1738332588
   - [Black/White / 36](https://gaitline.se/products/advance-lite-black-white?variant=44185146130608)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 36.5](https://gaitline.se/products/advance-lite-black-white?variant=44185146163376)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 37.5](https://gaitline.se/products/advance-lite-black-white?variant=44185146196144)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 38](https://gaitline.se/products/advance-lite-black-white?variant=44185146228912)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 38.5](https://gaitline.se/products/advance-lite-black-white?variant=44185146261680)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 39](https://gaitline.se/products/advance-lite-black-white?variant=44185146294448)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 40](https://gaitline.se/products/advance-lite-black-white?variant=44185146327216)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 40.5](https://gaitline.se/products/advance-lite-black-white?variant=44185146359984)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 41](https://gaitline.se/products/advance-lite-black-white?variant=44185146392752)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 42](https://gaitline.se/products/advance-lite-black-white?variant=44185146425520)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 42.5](https://gaitline.se/products/advance-lite-black-white?variant=44185146458288)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 43](https://gaitline.se/products/advance-lite-black-white?variant=44185146491056)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 44](https://gaitline.se/products/advance-lite-black-white?variant=44185146523824)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 44.5](https://gaitline.se/products/advance-lite-black-white?variant=44185146556592)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 45](https://gaitline.se/products/advance-lite-black-white?variant=44185146589360)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 45.5](https://gaitline.se/products/advance-lite-black-white?variant=44185146622128)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 46](https://gaitline.se/products/advance-lite-black-white?variant=44185146654896)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 47](https://gaitline.se/products/advance-lite-black-white?variant=44185146687664)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Black/White / 47.5](https://gaitline.se/products/advance-lite-black-white?variant=44185146720432)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
 - [Advance Lite – Grön | Lätt, luftig och stödjande sneaker | Gaitline](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white): Sneakern Advance Lite i Grönt från Gaitline är lätt, luftig och stilren. Sulan har patenterad norsk teknologi som balanserar foten och kroppen optimalt. Fri frakt över 1 500 kr.
-  Updated: 2026-11-08T13:16:05Z
+  Updated: 2026-11-21T21:36:06Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2025-01-20_01_a6644aec-ef4b-4251-a1dd-f7955f31d628.jpg?v=1738332615
   - [Ocean Spray/Shadow/White / 36](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147015344)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 36.5](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147048112)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 37.5](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147080880)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 38](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147113648)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 38.5](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147146416)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 39](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147179184)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 40](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147211952)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 40.5](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147244720)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 41](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147277488)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 42](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147310256)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 42.5](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147343024)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 43](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147375792)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 44](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147408560)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 44.5](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147441328)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 45](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147474096)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 45.5](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147506864)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 46](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147539632)
-    Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Availability: Available
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 47](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147572400)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
   - [Ocean Spray/Shadow/White / 47.5](https://gaitline.se/products/advance-lite-ocean-spray-shadow-white?variant=44185147605168)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 1 379,00 kr SEK
 - [Advance Lite – Ljusblå | Lätt, luftig och stödjande sneaker | Gaitline](https://gaitline.se/products/advance-lite-infinity-blue-blue-white): Sneakern Advance Lite i ljusblått från Gaitline är lätt, luftig och stilren. Sulan har patenterad norsk teknologi som balanserar foten och kroppen optimalt. Fri frakt över 1 500 kr.
-  Updated: 2026-11-04T12:50:07Z
+  Updated: 2026-11-21T22:33:45Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2025-01-20_02_26139cce-6a82-4bf8-aa23-e687baeefec9.jpg?v=1738332642
   - [Infinity Blue/Blue/White / 36](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185147998384)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 36.5](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148031152)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 37.5](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148063920)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 38](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148096688)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 38.5](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148129456)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 39](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148162224)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 40](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148194992)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 40.5](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148227760)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 41](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148260528)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 42](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148293296)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 42.5](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148326064)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 43](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148358832)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 44](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148391600)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 44.5](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148424368)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 45](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148457136)
     Availability: Not Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 45.5](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148489904)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 46](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148522672)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 47](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148555440)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
   - [Infinity Blue/Blue/White / 47.5](https://gaitline.se/products/advance-lite-infinity-blue-blue-white?variant=44185148588208)
     Availability: Available
-    Price: 2 299,00 kr SEK
+    Price: 1 149,00 kr SEK
 - [Flow SP Sandal – plum | med stöd och dämpning | Gaitline](https://gaitline.se/products/flow-sp-sandal-lt-plum-vanilla-magnet): Gaitline Flow SP-sandal i plum. Patenterad norsk sulteknologi. För dig som gillar den luftiga känslan hos en sandal, men vill ha stödet som en sko ger. Fri frakt över 1500 kr.
-  Updated: 2026-11-10T20:42:05Z
+  Updated: 2026-11-21T20:02:45Z
   Vendor: Gaitline
   Product Type: Sandals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/Flow-LtPlum1.jpg?v=1738332690
   - [Lt. Plum/Vanilla/Magnet / 36](https://gaitline.se/products/flow-sp-sandal-lt-plum-vanilla-magnet?variant=44185149636784)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Lt. Plum/Vanilla/Magnet / 37](https://gaitline.se/products/flow-sp-sandal-lt-plum-vanilla-magnet?variant=44185149669552)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Lt. Plum/Vanilla/Magnet / 38](https://gaitline.se/products/flow-sp-sandal-lt-plum-vanilla-magnet?variant=44185149702320)
-    Availability: Available
-    Price: 1 999,00 kr SEK
+    Availability: Not Available
+    Price: 999,00 kr SEK
   - [Lt. Plum/Vanilla/Magnet / 39](https://gaitline.se/products/flow-sp-sandal-lt-plum-vanilla-magnet?variant=44185149735088)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Lt. Plum/Vanilla/Magnet / 40](https://gaitline.se/products/flow-sp-sandal-lt-plum-vanilla-magnet?variant=44185149767856)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Lt. Plum/Vanilla/Magnet / 41](https://gaitline.se/products/flow-sp-sandal-lt-plum-vanilla-magnet?variant=44185149800624)
     Availability: Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Lt. Plum/Vanilla/Magnet / 42](https://gaitline.se/products/flow-sp-sandal-lt-plum-vanilla-magnet?variant=44185149833392)
     Availability: Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Lt. Plum/Vanilla/Magnet / 43](https://gaitline.se/products/flow-sp-sandal-lt-plum-vanilla-magnet?variant=44185149866160)
     Availability: Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Lt. Plum/Vanilla/Magnet / 44](https://gaitline.se/products/flow-sp-sandal-lt-plum-vanilla-magnet?variant=44185149898928)
     Availability: Not Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
   - [Lt. Plum/Vanilla/Magnet / 45](https://gaitline.se/products/flow-sp-sandal-lt-plum-vanilla-magnet?variant=44185149931696)
-    Availability: Available
-    Price: 1 999,00 kr SEK
+    Availability: Not Available
+    Price: 999,00 kr SEK
   - [Lt. Plum/Vanilla/Magnet / 46](https://gaitline.se/products/flow-sp-sandal-lt-plum-vanilla-magnet?variant=44185149964464)
     Availability: Available
-    Price: 1 999,00 kr SEK
+    Price: 999,00 kr SEK
 - [Flow SP Sandal - Burnt Olive/Sage/Vanilla](https://gaitline.se/products/flow-sp-sandal-burnt-olive-sage-vanilla): En perfekt sandal för vardagsbruk! Låt inte fel sko förstöra stadslivet, vardagspromenaden eller konsertupplevelsen. Denna passar alla som gillar den luftiga känslan en sandal ger, men vill ha stödet som en sko ger.Flow SP Sandal har en avancerad mellansula konstruerad på exakt samma sätt som alla Gaitline-skor. Materialet i sulan består av IGNITE-skum som är lätt och ger fantastisk stötdämpning. Fotbädden är speciellt utformad för att ge bra stöd för fotvalvet samtidigt som den gör att dina fötter sitter bra i sandalen. Remmarna är tillverkade av slitstarkt material för extra bekvämlighet.Denna sandalfavorit är gjord för att klara många timmar av aktivitet, både på asfalt, grus och strand! Färg: Burnt Olive/Sage/Vanilla
-  Updated: 2026-11-11T13:27:46Z
+  Updated: 2026-11-19T12:52:26Z
   Vendor: Gaitline
   Product Type: Sandals
   Availability: Available
@@ -2460,7 +3207,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 1 999,00 kr SEK
   - [Burnt Olive/Sage/Vanilla / 38](https://gaitline.se/products/flow-sp-sandal-burnt-olive-sage-vanilla?variant=44185150193840)
-    Availability: Not Available
+    Availability: Available
     Price: 1 999,00 kr SEK
   - [Burnt Olive/Sage/Vanilla / 39](https://gaitline.se/products/flow-sp-sandal-burnt-olive-sage-vanilla?variant=44185150226608)
     Availability: Available
@@ -2487,7 +3234,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 1 999,00 kr SEK
 - [K8 LX Sandal - Off White/Lite Taupe](https://gaitline.se/products/kate-lx-sandal-off-white-lite-taupe): Upptäck K8 LX, vår mest eleganta sandal, perfekt för sommarens äventyr. Den här sandalen erbjuder det bästa från två världar – luftig som en sandal, men med samma avancerade stöd som en Gaitline-sko. Den har en enkel och ren design samt en mellansula som garanterar komfort hela dagen. Smala läderremmar ger sandalen ett elegant uttryck, och tillsammans med vårt innovativa IGNITE-skum ger den fantastisk dämpning och energi för både korta och långa promenader. Den patenterade Sensory Gaitline Technology™ i sulan balanserar foten och kroppen optimalt, vilket är särskilt användbart på hårda och platta ytor. Fotbädden har extra fotvalvsstöd som ger stabilitet och passform. Materialvalet i sulan säkerställer lång livslängd, vilket betyder att du kan gå många extra mil med dessa. Perfekt för dagligt bruk eller som resesällskap. Färg: Off White/Lite Taupe
-  Updated: 2026-11-01T21:36:25Z
+  Updated: 2026-11-19T12:51:47Z
   Vendor: Gaitline
   Product Type: Sandals
   Availability: Available
@@ -2517,7 +3264,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 1 999,00 kr SEK
 - [K8 LX Sandal - Black/Black/black](https://gaitline.se/products/kate-lx-sandal-black-black-black): Upptäck K8 LX, vår mest eleganta sandal, perfekt för sommarens äventyr. Den här sandalen erbjuder det bästa från två världar – luftig som en sandal, men med samma avancerade stöd som en Gaitline-sko. Den har en enkel och ren design samt en mellansula som garanterar komfort hela dagen. Smala läderremmar ger sandalen ett elegant uttryck, och tillsammans med vårt innovativa IGNITE-skum ger den fantastisk dämpning och energi för både korta och långa promenader. Den patenterade Sensory Gaitline Technology™ i sulan balanserar foten och kroppen optimalt, vilket är särskilt användbart på hårda och platta ytor. Fotbädden har extra fotvalvsstöd som ger stabilitet och passform. Materialvalet i sulan säkerställer lång livslängd, vilket betyder att du kan gå många extra mil med dessa. Perfekt för dagligt bruk eller som resesällskap. Färg: Black/Black/Black
-  Updated: 2026-11-12T13:00:08Z
+  Updated: 2026-11-19T12:52:06Z
   Vendor: Gaitline
   Product Type: Sandals
   Availability: Available
@@ -2556,16 +3303,16 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 1 999,00 kr SEK
 - [K8 LX Sandal - Earth/Black/Vanilla](https://gaitline.se/products/kate-lx-sandal-earth-black-vanilla): Upptäck K8 LX, vår mest eleganta sandal, perfekt för sommarens äventyr. Den här sandalen erbjuder det bästa från två världar – luftig som en sandal, men med samma avancerade stöd som en Gaitline-sko. Den har en enkel och ren design samt en mellansula som garanterar komfort hela dagen. Smala läderremmar ger sandalen ett elegant uttryck, och tillsammans med vårt innovativa IGNITE-skum ger den fantastisk dämpning och energi för både korta och långa promenader. Den patenterade Sensory Gaitline Technology™ i sulan balanserar foten och kroppen optimalt, vilket är särskilt användbart på hårda och platta ytor. Fotbädden har extra fotvalvsstöd som ger stabilitet och passform. Materialvalet i sulan säkerställer lång livslängd, vilket betyder att du kan gå många extra mil med dessa. Perfekt för dagligt bruk eller som resesällskap. Färg: Earth/Black/Vanilla
-  Updated: 2026-10-16T16:15:23Z
+  Updated: 2026-11-19T12:51:37Z
   Vendor: Gaitline
   Product Type: Sandals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/2024-11-07_14_a582a085-209e-4c60-89cc-4f838be3a705.jpg?v=1738332761
   - [Earth/Black/Vanilla / 36](https://gaitline.se/products/kate-lx-sandal-earth-black-vanilla?variant=44185151635632)
-    Availability: Not Available
+    Availability: Available
     Price: 1 999,00 kr SEK
   - [Earth/Black/Vanilla / 37](https://gaitline.se/products/kate-lx-sandal-earth-black-vanilla?variant=44185151668400)
-    Availability: Not Available
+    Availability: Available
     Price: 1 999,00 kr SEK
   - [Earth/Black/Vanilla / 38](https://gaitline.se/products/kate-lx-sandal-earth-black-vanilla?variant=44185151701168)
     Availability: Not Available
@@ -2595,671 +3342,20 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 1 999,00 kr SEK
 - [Shoe Wipes](https://gaitline.se/products/shoe-wipes): Smidig och effektiv skorengöring på språng! Våra praktiska rengöringsdukar från Springyard är perfekta för alla som vill hålla sina skor rena och fina, även när tiden är knapp. Individuellt förpackade med fräsch doft och i perfekt storlek – ett "måste" i både väskan och i bilen. Egenskaper: Tar bort smuts och fläckar från alla typer av skor - perfekt för vita sneakers och ljusa sandaler Enkel och snabb rengöring som ger synliga resultat på nolltid Tvåsidigt material: använd den mjuka sidan för vanlig rengöring och den mönstrade sidan för svåra fläckar Passar för både slätt läder och syntetiska material Vattenbaserad och miljövänlig PFAS-fri Klar att använda omedelbart - inget vatten eller extra produkter behövs Håll dina skor i toppskick var du än är! Varje förpackning innehåller 12 individuellt förpackade dukar som ger omedelbar rengöring och fräschhet.
-  Updated: 2026-10-23T21:33:36Z
+  Updated: 2026-11-21T19:44:26Z
   Vendor: Springyard
   Product Type: Various
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/Springyard-ShoeWipes-1200x1200.jpg?v=1741868361
   Price: 79,00 kr SEK
 - [Shoe Deo](https://gaitline.se/products/shoe-deo): Effektiv skodeodorant som håller skorna fräscha! Vår vattenbaserade skodeodorant från Springyard är utvecklad för att neutralisera dålig lukt i alla typer av skor. Den hygieniska formeln har en fräsch, ren doft som varar i upp till 24 timmar. Enkel att använda och praktisk i vardagen. Innehåller 99% naturliga ingredienser och kan tryggt användas inomhus. Egenskaper: Neutraliserar och förebygger dålig lukt effektivt Perfekt för alla typer av skor, sportutrustning, mössor, handskar och väskor Ger en fräsch, ren doft i upp till 24 timmar Vattenbaserad och miljövänlig Motverkar bakterietillväxt Användning: Lyft upp plösen och spraya direkt in i skon Låt torka helt innan du använder skorna Spraya regelbundet för bästa resultat
-  Updated: 2026-11-13T16:08:16Z
+  Updated: 2026-11-21T19:44:26Z
   Vendor: Springyard
   Product Type: Spray
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/ShoeDeo1-1200x1200.jpg?v=1741868362
   Price: 99,00 kr SEK
-- [Kikut Lite - DK Olive/Vanilla/Speckles](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles): Kikut Lite har en modern design med inspiration hämtad från den klassiska fjällstöveln. Överdelen är tillverkad i en vacker mocka. Insidan av skon är fodrad med ett lätt syntetmaterial med hög isolering så att du håller dig varm på fötterna. Tungan sys med extra flikar för att förhindra att vatten och snö kommer in i skon. Sulan har ett extra starkt mönster för bra grepp på hala och våta ytor. En fantastisk vinterstövel som passar lika bra i staden som i bergen. Vi rekommenderar regelbunden impregnering av den här skon för att bibehålla dess vattenavvisande funktion. Färg: DK Olive/Vanilla/Speckles
-  Updated: 2026-11-12T10:29:45Z
-  Vendor: Gaitline
-  Product Type: Vintersko
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2023-11-13_12.jpg?v=1762770463
-  - [DK Olive/Vanilla/Speckles / 36](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632266928)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 36.5](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632299696)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 37.5](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632332464)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 38](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632365232)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 38.5](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632398000)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 39](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632430768)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 40](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632463536)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 40.5](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632496304)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 41](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632529072)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 42](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632561840)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 42.5](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632594608)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 43](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632627376)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 44](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632660144)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 44.5](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632692912)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 45](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632725680)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 45.5](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632758448)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 46](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632791216)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 47](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632823984)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [DK Olive/Vanilla/Speckles / 47.5](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles?variant=44656632856752)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-- [Tracer Lite WP - Warm Sand/Falcon/Black/Speckles](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles): Tracer Lite har förbättrad yttersula för bra grepp. Tracer Lite har ett vattentätt membran som säkerställer att dina fötter håller sig torra i alla väderförhållanden. Ovandelen är gjord av ett slitstarkt Cordura mesh-material med extra PU-förstärkning i häl och tå. Mellansålen har vårt nya IGNITE sålskum som är lätt och ger fantastisk dämpning. Med ett specialdesignat yttersulsmönster och en mjukare gummiblandning ger det en unik greppförmåga även på krävande underlag i fjällen eller på våta hårda underlag i staden. Plösen och hälkappan har ett extra lager skum så att du inte känner tryck mot foten när du snörar på dig kängorna. Det medelhöga skaftet ger dig god stabilitet i fotleden oavsett vilket underlag du rör dig på. Tracer Lite WP är en perfekt höst- och vintersko som tål turer i terräng samtidigt som den trivs bra i urbana miljöer. Vi rekommenderar regelbunden impregnering av den här skon för att bibehålla dess vattenavvisande funktion. Farge: Warm Sand/Falcon/Black/Speckles
-  Updated: 2026-11-10T12:31:50Z
-  Vendor: Gaitline
-  Product Type: Vanntette sko
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2025-06-04_10.jpg?v=1754252009
-  - [Warm Sand/Falcon/Black/Speckles / 36](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633118896)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 36.5](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633151664)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 37.5](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633184432)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 38](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633217200)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 38.5](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633249968)
-    Availability: Not Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 39](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633282736)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 40](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633315504)
-    Availability: Not Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 40.5](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633348272)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 41](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633381040)
-    Availability: Not Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 42](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633413808)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 42.5](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633446576)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 43](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633479344)
-    Availability: Not Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 44](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633512112)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 44.5](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633544880)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 45](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633577648)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 45.5](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633610416)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 46](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633643184)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 47](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633675952)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-  - [Warm Sand/Falcon/Black/Speckles / 47.5](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles?variant=44656633708720)
-    Availability: Available
-    Price: 2 799,00 kr SEK
-- [Advance Lite – beige| Lätt, luftig och stödjande sneaker | Gaitline](https://gaitline.se/products/advance-lite-nude-vanilla-white): Sneakern Advance Lite i beige från Gaitline är lätt, luftig och stilren. Sulan har patenterad norsk teknologi som balanserar foten och kroppen optimalt. Fri frakt över 1 500 kr.
-  Updated: 2026-10-23T20:57:27Z
-  Vendor: Gaitline
-  Product Type: Sneakers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2025-06-04_01.jpg?v=1754252026
-  - [Nude/Vanilla/White / 36](https://gaitline.se/products/advance-lite-nude-vanilla-white?variant=44656633774256)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Nude/Vanilla/White / 36.5](https://gaitline.se/products/advance-lite-nude-vanilla-white?variant=44656633807024)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Nude/Vanilla/White / 37.5](https://gaitline.se/products/advance-lite-nude-vanilla-white?variant=44656633839792)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Nude/Vanilla/White / 38](https://gaitline.se/products/advance-lite-nude-vanilla-white?variant=44656633872560)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Nude/Vanilla/White / 38.5](https://gaitline.se/products/advance-lite-nude-vanilla-white?variant=44656633905328)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Nude/Vanilla/White / 39](https://gaitline.se/products/advance-lite-nude-vanilla-white?variant=44656633938096)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Nude/Vanilla/White / 40](https://gaitline.se/products/advance-lite-nude-vanilla-white?variant=44656633970864)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Nude/Vanilla/White / 40.5](https://gaitline.se/products/advance-lite-nude-vanilla-white?variant=44656634003632)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Nude/Vanilla/White / 41](https://gaitline.se/products/advance-lite-nude-vanilla-white?variant=44656634036400)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Nude/Vanilla/White / 42](https://gaitline.se/products/advance-lite-nude-vanilla-white?variant=44656634069168)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Nude/Vanilla/White / 42.5](https://gaitline.se/products/advance-lite-nude-vanilla-white?variant=44656634101936)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Nude/Vanilla/White / 43](https://gaitline.se/products/advance-lite-nude-vanilla-white?variant=44656634134704)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-- [Advance Lite - Beige I Lätt, luftig och stödjande sneaker | Gaitline](https://gaitline.se/products/advance-lite-dk-taupe-tan-white): Sneakern Advance Lite i DK Taupe/Tan/White från Gaitline är lätt, luftig och stilren. Sulan har patenterad norsk teknologi som balanserar foten och kroppen optimalt. Fri frakt över 1 500 kr.
-  Updated: 2026-11-08T22:52:06Z
-  Vendor: Gaitline
-  Product Type: Sneakers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2025-06-04_03.jpg?v=1754252046
-  - [DK Taupe/Tan/White / 36](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634331312)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 36.5](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634364080)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 37.5](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634396848)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 38](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634429616)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 38.5](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634462384)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 39](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634495152)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 40](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634527920)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 40.5](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634560688)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 41](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634593456)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 42](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634626224)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 42.5](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634658992)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 43](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634691760)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 44](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634724528)
-    Availability: Not Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 44.5](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634757296)
-    Availability: Not Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 45](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634790064)
-    Availability: Not Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 45.5](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634822832)
-    Availability: Not Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 46](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634855600)
-    Availability: Not Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 47](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634888368)
-    Availability: Not Available
-    Price: 2 299,00 kr SEK
-  - [DK Taupe/Tan/White / 47.5](https://gaitline.se/products/advance-lite-dk-taupe-tan-white?variant=44656634921136)
-    Availability: Not Available
-    Price: 2 299,00 kr SEK
-- [Gravel Lite WP - Olive/Dried Herb/Black/Speckles](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles): Gravel Lite WP 2.0 är den perfekta sneaker för urban hike! Denna 2.0-version har fått ny vaddering, ett förbättrat hälgrepp och nya invändiga material för ökad komfort. Dessa skor är designade för vardagens utmaningar, perfekta för jobb eller promenader i stan och naturen. Lätta, smidiga och självklart vattentäta för att klara alla slags väder. Den patenterade Sensory Gaitline Technology™ i sålen balanserar foten och kroppen optimalt, vilket är särskilt viktigt på hårda och jämna underlag. Mellansålen är fylld med IGNITE skum som ger enastående dämpning, respons och låg vikt. För att säkerställa bra passform och stabilitet är hälen och mellemfoten förstärkta med TPU. Materialvalet i sålen säkerställer lång livslängd, vilket betyder att du kan gå många extra mil på tur med dessa. Overdelen är tillverkad i ett slitstarkt rip-stop mesh-material med extra PU-forstärkning i hälen och tåpartiet. Detta för att bättre tåla naturens underlag. Gravel ger bra stabilitet till vrisset oavsett vilket underlag du rör dig på. Skon har grov yttersula med mönster, anti-slip-partier och en mjuk gummiblanding. Denna kombination ger gott grepp på alla typer av underlag. Skorna inkluderar extra snörebånd i annan färg för att matcha olika outfits. Vi rekommenderar regelbunden impregnering av den här skon för att bibehålla dess vattenavvisande funktion. Färg: Olive/Dried Herb/Black/Speckles
-  Updated: 2026-11-13T19:35:07Z
-  Vendor: Gaitline
-  Product Type: Vanntette sko
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2025-06-04_09.jpg?v=1754252067
-  - [Olive/Dried Herb/Black/Speckles / 36](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656634953904)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 36.5](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656634986672)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 37.5](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656635019440)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 38](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656635052208)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 38.5](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656635084976)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 39](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656635117744)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 40](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656635150512)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 40.5](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656635183280)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 41](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656635216048)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 42](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656635248816)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 42.5](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656635281584)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 43](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656635314352)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 44](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656635347120)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 44.5](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656635379888)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 45](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656635412656)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 45.5](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656635445424)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 46](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656635478192)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 47](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656635510960)
-    Availability: Not Available
-    Price: 2 499,00 kr SEK
-  - [Olive/Dried Herb/Black/Speckles / 47.5](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles?variant=44656635543728)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-- [Gravel Lite WP - Moss Green/Deep Clay/Black/Speckles](https://gaitline.se/products/gravel-lite-wp-moss-green-deep-clay-black-speckles): Gravel Lite WP 2.0 är den perfekta sneaker för urban hike! Denna 2.0-version har fått ny vaddering, ett förbättrat hälgrepp och nya invändiga material för ökad komfort. Dessa skor är designade för vardagens utmaningar, perfekta för jobb eller promenader i stan och naturen. Lätta, smidiga och självklart vattentäta för att klara alla slags väder. Den patenterade Sensory Gaitline Technology™ i sålen balanserar foten och kroppen optimalt, vilket är särskilt viktigt på hårda och jämna underlag. Mellansålen är fylld med IGNITE skum som ger enastående dämpning, respons och låg vikt. För att säkerställa bra passform och stabilitet är hälen och mellemfoten förstärkta med TPU. Materialvalet i sålen säkerställer lång livslängd, vilket betyder att du kan gå många extra mil på tur med dessa. Overdelen är tillverkad i ett slitstarkt rip-stop mesh-material med extra PU-forstärkning i hälen och tåpartiet. Detta för att bättre tåla naturens underlag. Gravel ger bra stabilitet till vrisset oavsett vilket underlag du rör dig på. Skon har grov yttersula med mönster, anti-slip-partier och en mjuk gummiblanding. Denna kombination ger gott grepp på alla typer av underlag. Skorna inkluderar extra snörebånd i annan färg för att matcha olika outfits. Vi rekommenderar regelbunden impregnering av den här skon för att bibehålla dess vattenavvisande funktion. Farge: Moss Green/Deep Clay/Black/Speckles
-  Updated: 2026-11-12T10:29:36Z
-  Vendor: Gaitline
-  Product Type: Vanntette sko
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2025-06-04_08.jpg?v=1754252083
-  - [Moss Green/Deep Clay/Black/Speckles / 36](https://gaitline.se/products/gravel-lite-wp-moss-green-deep-clay-black-speckles?variant=44656635576496)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Moss Green/Deep Clay/Black/Speckles / 36.5](https://gaitline.se/products/gravel-lite-wp-moss-green-deep-clay-black-speckles?variant=44656635609264)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Moss Green/Deep Clay/Black/Speckles / 37.5](https://gaitline.se/products/gravel-lite-wp-moss-green-deep-clay-black-speckles?variant=44656635642032)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Moss Green/Deep Clay/Black/Speckles / 38](https://gaitline.se/products/gravel-lite-wp-moss-green-deep-clay-black-speckles?variant=44656635674800)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Moss Green/Deep Clay/Black/Speckles / 38.5](https://gaitline.se/products/gravel-lite-wp-moss-green-deep-clay-black-speckles?variant=44656635707568)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Moss Green/Deep Clay/Black/Speckles / 39](https://gaitline.se/products/gravel-lite-wp-moss-green-deep-clay-black-speckles?variant=44656635740336)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Moss Green/Deep Clay/Black/Speckles / 40](https://gaitline.se/products/gravel-lite-wp-moss-green-deep-clay-black-speckles?variant=44656635773104)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Moss Green/Deep Clay/Black/Speckles / 40.5](https://gaitline.se/products/gravel-lite-wp-moss-green-deep-clay-black-speckles?variant=44656635805872)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Moss Green/Deep Clay/Black/Speckles / 41](https://gaitline.se/products/gravel-lite-wp-moss-green-deep-clay-black-speckles?variant=44656635838640)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Moss Green/Deep Clay/Black/Speckles / 42](https://gaitline.se/products/gravel-lite-wp-moss-green-deep-clay-black-speckles?variant=44656635871408)
-    Availability: Available
-    Price: 2 499,00 kr SEK
-  - [Moss Green/Deep Clay/Black/Speckles / 42.5](https://gaitline.se/products/gravel-lite-wp-moss-green-deep-clay-black-speckles?variant=44656635904176)
-    Availability: Not Available
-    Price: 2 499,00 kr SEK
-  - [Moss Green/Deep Clay/Black/Speckles / 43](https://gaitline.se/products/gravel-lite-wp-moss-green-deep-clay-black-speckles?variant=44656635936944)
-    Availability: Not Available
-    Price: 2 499,00 kr SEK
-- [Gaitline Lunar Lite – Lättviktssneaker för vardagen](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white): Lunar Lite balanserar kroppen steg för steg, dag efter dag. Andningsbart mesh och Sensory Gaitline Technology™ för korta och långa distanser. Fri frakt över 1500 kr.
-  Updated: 2026-11-11T21:04:07Z
-  Vendor: Gaitline
-  Product Type: Sneakers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2025-06-04_02.jpg?v=1754252104
-  - [Midnight Blue/Lunar/White / 36](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636002480)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 36.5](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636035248)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 37.5](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636068016)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 38](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636100784)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 38.5](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636133552)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 39](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636166320)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 40](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636199088)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 40.5](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636231856)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 41](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636264624)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 42](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636297392)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 42.5](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636330160)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 43](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636362928)
-    Availability: Not Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 44](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636395696)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 44.5](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636428464)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 45](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636461232)
-    Availability: Not Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 45.5](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636494000)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 46](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636526768)
-    Availability: Not Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 47](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636559536)
-    Availability: Not Available
-    Price: 2 199,00 kr SEK
-  - [Midnight Blue/Lunar/White / 47.5](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white?variant=44656636592304)
-    Availability: Not Available
-    Price: 2 199,00 kr SEK
-- [Gaitline Lunar Lite – Lättviktssneaker för vardagen](https://gaitline.se/products/lunar-lite-ebony-cement-white): Lunar Lite balanserar kroppen steg för steg, dag efter dag. Andningsbart mesh och Sensory Gaitline Technology™ för korta och långa distanser. Fri frakt över 1500 kr.
-  Updated: 2026-11-05T12:19:36Z
-  Vendor: Gaitline
-  Product Type: Sneakers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2025-06-04_04.jpg?v=1754252126
-  - [Ebony/Cement/White / 36](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656636625072)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 36.5](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656636657840)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 37.5](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656636690608)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 38](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656636723376)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 38.5](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656636756144)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 39](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656636788912)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 40](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656636821680)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 40.5](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656636854448)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 41](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656636887216)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 42](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656636919984)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 42.5](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656636952752)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 43](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656636985520)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 44](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656637018288)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 44.5](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656637051056)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 45](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656637083824)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 45.5](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656637116592)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 46](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656637149360)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 47](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656637182128)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-  - [Ebony/Cement/White / 47.5](https://gaitline.se/products/lunar-lite-ebony-cement-white?variant=44656637214896)
-    Availability: Available
-    Price: 2 199,00 kr SEK
-- [Gaitline Nova Lite – Klassisk sneaker i mocka](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla): Nova Lite i mocka och mesh med Sensory Gaitline Technology™. Retrostil för vardagen – utvecklad för dig som vill ha båda. Fri frakt över 1500 kr.
-  Updated: 2026-11-10T11:34:56Z
-  Vendor: Gaitline
-  Product Type: Sneakers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2025-06-04_07.jpg?v=1754252145
-  - [Olive/Black/Taupe/Vanilla / 36](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637280432)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 36.5](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637313200)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 37.5](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637345968)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 38](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637378736)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 38.5](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637411504)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 39](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637444272)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 40](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637477040)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 40.5](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637509808)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 41](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637542576)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 42](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637575344)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 42.5](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637608112)
-    Availability: Not Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 43](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637640880)
-    Availability: Not Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 44](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637673648)
-    Availability: Not Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 44.5](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637706416)
-    Availability: Not Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 45](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637739184)
-    Availability: Not Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 45.5](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637771952)
-    Availability: Not Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 46](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637804720)
-    Availability: Not Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 47](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637837488)
-    Availability: Not Available
-    Price: 2 299,00 kr SEK
-  - [Olive/Black/Taupe/Vanilla / 47.5](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla?variant=44656637870256)
-    Availability: Available
-    Price: 2 299,00 kr SEK
-- [World Cup PRO - Brown/Lt. Beige/Black/White](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white): World Cup PRO är vår topmodell med maximal respons och demping, perfekt för dig som står och går i timmar. Den är också idealisk för återhämtning och långa dagar, och är bland våra bredaste modeller för extra komfort. Den kombinerar slitstark kvalitet med överlägsen stötdämpning, tack vare vår patenterade SGL-teknologi och IGNITE PRO skum i mellansålen, som säkerställer låg vikt och lång hållbarhet. Häl och mellansula är förstärkta med TPU för god stabilitet, medan den ventilerande, 3D-strickade överlägget ger elasticitet och komfort. Designad för att tåla 12 timmar i rörelse är denna sko perfekt för idrottare, vårdpersonal, butikspersonal och andra som behöver pålitliga, stödjande skor för långa arbetspass. Färg: Brown/Lt. Beige/Black/White
-  Updated: 2026-11-10T20:50:16Z
-  Vendor: Gaitline
-  Product Type: Sneakers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2025-06-04_05.jpg?v=1754252169
-  - [Brown/Lt. Beige/Black/White / 36](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638197936)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 36.5](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638230704)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 37.5](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638263472)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 38](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638296240)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 38.5](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638329008)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 39](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638361776)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 40](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638394544)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 40.5](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638427312)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 41](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638460080)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 42](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638492848)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 42.5](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638525616)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 43](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638558384)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 44](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638591152)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 44.5](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638623920)
-    Availability: Not Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 45](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638656688)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 45.5](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638689456)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 46](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638722224)
-    Availability: Not Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 47](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638754992)
-    Availability: Not Available
-    Price: 2 399,00 kr SEK
-  - [Brown/Lt. Beige/Black/White / 47.5](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638787760)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-- [World Cup PRO - Plum/Dream Blue/Black/White](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white): World Cup PRO är vår topmodell med maximal respons och demping, perfekt för dig som står och går i timmar. Den är också idealisk för återhämtning och långa dagar, och är bland våra bredaste modeller för extra komfort. Den kombinerar slitstark kvalitet med överlägsen stötdämpning, tack vare vår patenterade SGL-teknologi och IGNITE PRO skum i mellansålen, som säkerställer låg vikt och lång hållbarhet. Häl och mellansula är förstärkta med TPU för god stabilitet, medan den ventilerande, 3D-strickade överlägget ger elasticitet och komfort. Designad för att tåla 12 timmar i rörelse är denna sko perfekt för idrottare, vårdpersonal, butikspersonal och andra som behöver pålitliga, stödjande skor för långa arbetspass. Färg: Plum/Dream Blue/Black/White
-  Updated: 2026-10-24T15:27:46Z
-  Vendor: Gaitline
-  Product Type: Sneakers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/GaitLine2025-06-04_06.jpg?v=1754252188
-  - [Plum/Dream Blue/Black/White / 36](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639049904)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 36.5](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639082672)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 37.5](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639115440)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 38](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639148208)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 38.5](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639180976)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 39](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639213744)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 40](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639246512)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 40.5](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639279280)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 41](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639312048)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 42](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639344816)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 42.5](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639377584)
-    Availability: Not Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 43](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639410352)
-    Availability: Not Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 44](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639443120)
-    Availability: Not Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 44.5](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639475888)
-    Availability: Not Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 45](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639508656)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 45.5](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639541424)
-    Availability: Not Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 46](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639574192)
-    Availability: Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 47](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639606960)
-    Availability: Not Available
-    Price: 2 399,00 kr SEK
-  - [Plum/Dream Blue/Black/White / 47.5](https://gaitline.se/products/world-cup-pro-plum-dream-blue-black-white?variant=44656639639728)
-    Availability: Not Available
-    Price: 2 399,00 kr SEK
-[List Continued](https://gaitline.se/a/llms-agent/llms.txt?shop=gaitlinese.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3OTA4MzE0OTA2ODAwLCJsYXN0X3ZhbHVlIjoiNzkwODMxNDkwNjgwMCJ9)
+[List Continued](https://gaitline.se/a/llms-agent/llms.txt?shop=gaitlinese.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODA2OTU3NDIwNzIwLCJsYXN0X3ZhbHVlIjoiNzgwNjk1NzQyMDcyMCJ9)
 
 ## Collections
 
@@ -3267,16 +3363,16 @@ Kundservice: customerservice@gaitline.com
   Updated: 2026-07-19T22:00:16Z
   Total Products: 1
 - [OrderlyEmails - Recommended Products](https://gaitline.se/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-11-13T16:08:17Z
-  Total Products: 123
+  Updated: 2026-11-21T12:15:41Z
+  Total Products: 125
 - [Shop](https://gaitline.se/collections/shop)
-  Updated: 2026-11-13T16:08:17Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 109
 - [Health & Lifestyle](https://gaitline.se/collections/health-lifestyle)
-  Updated: 2026-11-10T12:15:24Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 21
 - [Sport & Lifestyle](https://gaitline.se/collections/sport-lifestyle)
-  Updated: 2026-07-20T11:27:22Z
+  Updated: 2026-11-20T16:46:34Z
   Total Products: 12
 - [](https://gaitline.se/collections/)
   Updated: 2026-07-20T11:27:17Z
@@ -3285,31 +3381,31 @@ Kundservice: customerservice@gaitline.com
   Updated: 2023-11-16T13:06:27Z
   Total Products: 0
 - [Dam](https://gaitline.se/collections/dam): I kategorin damskor hittar du alla skor, sneakers, sandaler och vinterskor i storlekarna 36-43.Alla Gaitline-skor är i princip unisex. Design, storlek och passform fungerar både för herr och dam.
-  Updated: 2026-11-13T16:08:17Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 170
 - [Herr](https://gaitline.se/collections/herr): I kategorin herrskor hittar du alla skor, sneakers, sandaler och vinterskor i storlekarna 36-47.Alla Gaitline-skor är i princip unisex. Design, storlek och passform fungerar både för herr och dam.
-  Updated: 2026-11-13T16:08:17Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 137
 - [Sandals](https://gaitline.se/collections/sandals)
-  Updated: 2026-11-09T12:16:20Z
+  Updated: 2026-11-20T12:16:21Z
   Total Products: 14
 - [Fall/Winter](https://gaitline.se/collections/fall-winter)
-  Updated: 2026-11-13T12:18:33Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 68
 - [RouteTRX](https://gaitline.se/collections/routetrx): Route TRX från GaitLine är en robust och mångsidig vandringssko. Ovandelen är i slitstarkt nylon och vattenavvisande membran. Perfekt för grus, asfalt, skog och mark.
-  Updated: 2026-07-20T11:27:22Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 6
 - [Kids](https://gaitline.se/collections/kids): GaitLine Bounce Barnskor: gjorda för att inspirera till lek och naturlig rörelse. Stimulerar fötterna för optimal komfort. Patenterad SGL-teknologi. Se utbudet!
   Updated: 2026-07-20T11:26:50Z
   Total Products: 2
 - [Nyheter](https://gaitline.se/collections/nyheter): I kategorin nyheter hittar du säsongens skor, sandaler och boots i storlek 36-47. Vi vill påpeka att alla Gaitline-skor i grunden är unisex. Design, storlek och passform fungerar över könen.
-  Updated: 2026-11-13T16:08:17Z
+  Updated: 2026-11-20T12:16:21Z
   Total Products: 20
 - [Vinterskor](https://gaitline.se/collections/vinterskor)
-  Updated: 2026-11-10T12:15:24Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 33
 - [Sko med Ignite Pro](https://gaitline.se/collections/ignite-pro)
-  Updated: 2026-11-13T12:18:33Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 38
 - [BlackWeek20%](https://gaitline.se/collections/blackweek20)
   Updated: 2024-11-21T09:17:51Z
@@ -3336,19 +3432,19 @@ Kundservice: customerservice@gaitline.com
   Updated: 2023-11-16T13:04:37Z
   Total Products: 0
 - [Salg 25%](https://gaitline.se/collections/salg)
-  Updated: 2026-11-10T12:15:24Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 25
 - [Track Knit och Track Leather](https://gaitline.se/collections/track): GaitLine Track Knit och Track Leather skor: Dina vardagsskor, arbetsskor, utflyktsskor och stadsskor. Bra dämpning och patenterad SGL-teknologi för komfort. Perfekt på asfalt och betong. Kolla utbudet!
-  Updated: 2026-10-29T11:15:30Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 15
 - [Float 2.0](https://gaitline.se/collections/float-2-0): GaitLine Float 2.0: idrottsutövares favoritskor! Norskt patenterad SGL-teknologi, optimal dämpning och passform med TPU-stöd. Perfekt på hårda underlag. Se urvalet
   Updated: 2026-07-20T11:27:14Z
   Total Products: 14
 - [Advance PRO](https://gaitline.se/collections/advance-pro): Innovativa skor från GaitLine, med unik, norsk teknologi för optimal prestanda. Lätta, andas, perfekta på asfalt. IGNITE PRO skum för bra dämpning. Se utbudet!
-  Updated: 2026-11-13T12:18:33Z
-  Total Products: 18
+  Updated: 2026-11-20T12:16:21Z
+  Total Products: 6
 - [World Cup PRO](https://gaitline.se/collections/world-cup-pro): Innovativa norska skor från GaitLine. SGL-teknologi för optimal passform & prestanda. IGNITE PRO ger bra dämpning och studs. Låg vikt och andas. Se sortimentet
-  Updated: 2026-11-02T12:16:31Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 20
 - [Motion Retro](https://gaitline.se/collections/motion-retro): GaitLine Motion Retro: inspirerad av 90-talets sneakers! Mjukt mockaskinn, Patenterad SGL-teknologi, optimalt stöd och passform, stadsskor. Se alla
   Updated: 2026-07-20T11:27:11Z
@@ -3357,19 +3453,19 @@ Kundservice: customerservice@gaitline.com
   Updated: 2026-06-02T02:20:22Z
   Total Products: 3
 - [Silver Mid TRX](https://gaitline.se/collections/silver-mid-trx): GaitLine Silver Mid: Världens bästa vinterskor! Varm och dämpad med skinnovandel, vattenresistent, foder, PU-dämpning, SGL-teknologi och TRX-sula. Se sortimentet
-  Updated: 2026-11-10T12:15:24Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 11
 - [Route TRX](https://gaitline.se/collections/route-trx): Route TRX models
-  Updated: 2026-07-20T11:27:22Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 8
 - [Tracer TRX WP](https://gaitline.se/collections/tracer-trx-wp): Tracer TRX WP - vattentäta skor från GaitLine. Håller fötterna torra med vattentätt membran och PU-förstärkningar. Bra dämpning och ankelstöd. Perfekt på utflykten. Kolla in alla
-  Updated: 2026-10-19T06:49:13Z
+  Updated: 2026-11-19T23:00:38Z
   Total Products: 4
-- [Kikut TRX](https://gaitline.se/collections/kikut-trx): GaitLine Kikut TRX kombinerar bekväma vinterskor med klassisk bergskänga-design. Patenterad SGL-teknologi, varm isolering och kraftig sula för grepp. Se urval
-  Updated: 2026-10-14T11:19:37Z
+- [Kikut](https://gaitline.se/collections/kikut-trx): GaitLine Kikut TRX kombinerar bekväma vinterskor med klassisk bergskänga-design. Patenterad SGL-teknologi, varm isolering och kraftig sula för grepp. Se urval
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 9
 - [Sinober TRX](https://gaitline.se/collections/sinober-trx): GaitLine Sinober TRX skor: Mode möter funktion! Norskt, SGL-teknologi, premiumläder med gummiförstärkning, TRX-sula för stabilt grepp. Tål väder! Se utbudet
-  Updated: 2026-11-10T12:15:24Z
+  Updated: 2026-11-20T12:16:21Z
   Total Products: 8
 - [Bounce](https://gaitline.se/collections/bounce): Bounce models
   Updated: 2026-07-20T11:26:50Z
@@ -3378,46 +3474,46 @@ Kundservice: customerservice@gaitline.com
   Updated: 2026-06-02T02:23:48Z
   Total Products: 3
 - [FW23](https://gaitline.se/collections/fw23)
-  Updated: 2026-11-10T12:15:24Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 9
 - [Everyday](https://gaitline.se/collections/everyday)
-  Updated: 2026-11-02T12:16:31Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 30
 - [Leather](https://gaitline.se/collections/laderskor): Våra skinn-sneakers kännetecknas av förstklassig kvalitet. De är utrustade med SGL-teknologi för att göra stadsvandringar och arbete till en dröm. Skorna har en passform som känns bekväm direkt ur lådan, utan behov av inbrottstid. Mängden skum runt mellanfoten och hälen har ökats för att maximera komforten under hela dagen. Det italienska lädret är noggrant utvalt från de bästa och certifierade italienska leverantörerna. Utforska denna kollektion för en perfekt kombination av förstklassig komfort och tidlös stil.
-  Updated: 2026-10-29T11:15:30Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 16
 - [Tursko](https://gaitline.se/collections/hiking-trail): Route og Tracer designet for å holde føttene tørre og komfortable selv i våte og krevende omgivelser. Enten du er en dedikert turgåer, en ivrig stiutforsker eller en generell friluftsentusiast, kan du stole på at modellene Route og Tracer gir deg den nødvendige støtten, funksjonaliteten og komforten for alle dine utendørs eventyr. 2.0 versjonene har en ny gummi-såle for deg som krever bedre grep på våte og glatte underlag.
-  Updated: 2026-10-19T06:49:13Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 12
 - [Tracer TRX WP 1.0](https://gaitline.se/collections/tracer-trx-wp-1-0): Tracer TRX WP er en unik sko designet for å fungere under alle forhold. Perfekt for fjellturer, men den føles også hjemme i bymiljøet.
-  Updated: 2026-10-19T06:49:13Z
+  Updated: 2026-11-19T23:00:38Z
   Total Products: 2
 - [Outlet 50%](https://gaitline.se/collections/outlet-50)
-  Updated: 2026-07-20T11:27:19Z
+  Updated: 2026-11-20T12:16:21Z
   Total Products: 8
 - [Outlet 40%](https://gaitline.se/collections/outlet-40)
-  Updated: 2026-07-20T11:27:17Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 13
 - [Arbetsskor](https://gaitline.se/collections/arbetsskor): Hur tar du hand om dina fötter under en hektisk arbetsdag? 8 av 10 kunder svarade att Gaitline hade en positiv effekt på deras fysiska hälsa och prestation i vardagen. Hitta dina nästa arbetsskor hos Gaitline. World Cup PRO är vår jobbfavorit! En mjuk och responsiv Ignite PRO mellansula, som gör skon lätt och bekväm hela dagen. Lunar Lite rekommenderas för dem som önskar en smidigare och mer luftig sneaker. Nova Lite är en klassisk favorit med designinspiration från 90-talet. Blandning av mocka och mesh-material ger fantastisk passform, stabilitet och god andningsförmåga. En gemensam nämnare för alla våra skor är att de har den unika SGL-teknologin som gör dem perfekta för hårda och platta underlag. Du kommer garanterat märka en skillnad!
-  Updated: 2026-11-13T16:08:17Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 17
 - [Vinterkängor för herr](https://gaitline.se/collections/vinterkangor-herr): Upptäck våra vinterskor för män från GaitLine i suede och slätt läder. Isolerade för att hålla dig varm och bekväm i kylan. Köp nu.
-  Updated: 2026-10-19T06:49:13Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 12
 - [Vinterkängor för dam](https://gaitline.se/collections/vinterkangor-dam): Upptäck våra vinterskor för dam från GaitLine i suede och slätt läder. Isolerade för att hålla dig varm och bekväm i kylan. Köp nu.
-  Updated: 2026-09-01T17:58:32Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 15
 - [Alla produkter](https://gaitline.se/collections/alle-produkter)
-  Updated: 2026-11-13T16:08:17Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 119
 - [Sneakers](https://gaitline.se/collections/sneakers)
-  Updated: 2026-11-13T16:08:17Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 65
 - [Track Black Week 40%](https://gaitline.se/collections/track-black-week-40)
-  Updated: 2026-10-29T11:15:30Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 12
 - [Route TRX 1.0](https://gaitline.se/collections/route-trx-1-0)
-  Updated: 2026-07-20T11:27:21Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 7
 - [Float 2.0 Black Week dagstilbud](https://gaitline.se/collections/float-2-0-black-week-dagstilbud)
   Updated: 2026-07-20T11:27:14Z
@@ -3435,88 +3531,88 @@ Kundservice: customerservice@gaitline.com
   Updated: 2026-07-20T11:27:07Z
   Total Products: 2
 - [Silver Mid 1.0 og Kikut](https://gaitline.se/collections/silver-mid-1-0-og-kikut)
-  Updated: 2026-10-14T11:19:37Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 16
 - [Husets favoriter](https://gaitline.se/collections/husets-favoriter)
-  Updated: 2026-11-02T12:16:31Z
+  Updated: 2026-11-20T12:16:21Z
   Total Products: 9
 - [Salg 30%](https://gaitline.se/collections/salg-30)
   Updated: 2026-07-20T11:27:21Z
   Total Products: 7
 - [Salg 40%](https://gaitline.se/collections/salg-40)
-  Updated: 2026-10-19T06:49:13Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 26
 - [Rea](https://gaitline.se/collections/gaitline-rea): Så här filtrerar du på din storlek: Välj önskad storlek Klicka på "Tillgänglighet" och välj "I lager" Nu visas alla modeller med din önskade storlek i lager Se nyheter här
-  Updated: 2026-08-07T15:08:44Z
-  Total Products: 0
+  Updated: 2026-11-21T12:15:41Z
+  Total Products: 55
 - [Herr - nyheter](https://gaitline.se/collections/man-nyankomna)
-  Updated: 2026-11-13T16:08:17Z
+  Updated: 2026-11-20T12:16:21Z
   Total Products: 19
 - [Dam Nyheter](https://gaitline.se/collections/kvinnor-nyankomna)
-  Updated: 2026-11-13T16:08:17Z
+  Updated: 2026-11-20T12:16:21Z
   Total Products: 20
 - [Herr - vandringsskor](https://gaitline.se/collections/man-vandringsskor): Vandringsskor från Gaitline designade för att hålla fötterna torra och bekväma även i blöta och krävande miljöer. Dessa är designade för vardagens utmaningar, perfekta för arbete eller promenader i stad och natur. Lätta, smidiga och naturligtvis vattentäta för att klara alla typer av väder.
-  Updated: 2026-11-11T12:16:16Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 15
 - [Urban Hike](https://gaitline.se/collections/vandringsskor): Vandringsskor från Gaitline designade för att hålla fötterna torra och bekväma även i våta och krävande miljöer. Oavsett om du är en hängiven vandrare, en ivrig stigutforskare eller en allmän friluftsentusiast, kan du lita på att modellerna ger dig det nödvändiga stödet, funktionaliteten och komforten för alla dina utomhusäventyr.
-  Updated: 2026-11-11T12:16:16Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 23
 - [Dam | Hikingskor](https://gaitline.se/collections/kvinnor-vandringsskor): Vandringsskor från Gaitline designade för att hålla fötterna torra och bekväma även i blöta och krävande miljöer. Dessa är designade för vardagens utmaningar, perfekta för arbete eller promenader i stad och natur. Lätta, smidiga och naturligtvis vattentäta för att klara alla typer av väder.
-  Updated: 2026-11-11T12:16:16Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 15
 - [Herr - Sneakers](https://gaitline.se/collections/herr-sneakers): Med innovativa sulor och andningsbara material är Gaitlines sneakers det perfekta valet för aktiva män. Alla våra sneakers är utformade för att ge optimal stöd precis där du behöver det, oavsett om du är på jobbet, storstadsresa eller har långa dagar på hårda underlag som asfalt och betong.
-  Updated: 2026-11-13T16:08:17Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 72
 - [Dam | Sneakers](https://gaitline.se/collections/dam-sneakers): Med innovativa sulor och andningsbara material är Gaitline sneakers det perfekta valet för aktiva kvinnor.
-  Updated: 2026-11-13T16:08:17Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 86
 - [Dam | Läderskor](https://gaitline.se/collections/dam-laderskor)
-  Updated: 2026-10-29T11:15:30Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 16
 - [Herr - Rea](https://gaitline.se/collections/herr-rea): Så här filtrerar du på din storlek: Välj önskad storlek Klicka på "Tillgänglighet" och välj "I lager" Nu visas alla modeller med din önskade storlek i lager Se nyheter här
-  Updated: 2026-08-14T14:29:32Z
-  Total Products: 0
+  Updated: 2026-11-21T12:15:41Z
+  Total Products: 48
 - [Dam | Rea](https://gaitline.se/collections/dam-rea): Så här filtrerar du på din storlek: Välj önskad storlek Klicka på "Tillgänglighet" och välj "I lager" Nu visas alla modeller med din önskade storlek i lager Se nyheter här
-  Updated: 2026-08-07T15:09:21Z
-  Total Products: 0
+  Updated: 2026-11-21T12:15:41Z
+  Total Products: 55
 - [Herr - Sandaler](https://gaitline.se/collections/herr-sandaler)
-  Updated: 2026-11-09T12:16:20Z
+  Updated: 2026-11-20T12:16:21Z
   Total Products: 9
 - [Dam | Sandaler](https://gaitline.se/collections/dam-sandaler)
-  Updated: 2026-11-09T12:16:20Z
+  Updated: 2026-11-20T12:16:21Z
   Total Products: 14
 - [Alle produkter uten salg](https://gaitline.se/collections/alle-produkter-uten-salg)
-  Updated: 2026-11-13T16:08:17Z
-  Total Products: 161
-- [Lunar Lite](https://gaitline.se/collections/lunar-lite)
-  Updated: 2026-11-13T16:08:17Z
+  Updated: 2026-11-20T16:46:46Z
+  Total Products: 106
+- [Lunar Lite](https://gaitline.se/collections/lunar-lite): Lunar Lite är vår bästsäljare. Utvecklad för långa dagar på asfalt och betong och skapad för både korta och långa sträckor, med god ventilation som gör den perfekt för varma dagar.Med patenterad Sensory Gaitline Technology (SGL™) balanseras foten och kroppen på hårda och plana underlag. Förstärkningar i häl och mellanfot ger en stabil passform, medan materialvalet i sulan ger lång hållbarhet.Ett självklart val för jobbet, fritiden, storstadsresor och långa dagar på språng. Trygg, väl beprövad och alltid med dig – hela dagen.
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 13
-- [Advance Lite](https://gaitline.se/collections/advance-lite)
-  Updated: 2026-11-13T12:18:33Z
+- [Advance Lite](https://gaitline.se/collections/advance-lite): Lätt på foten, med lite mer utrymme. Advance Lite har en något bredare passform än de flesta Gaitline-modeller, precis som World Cup PRO och Advance PRO. En andningsbar, sömlös stickad ovandel och responsiv dämpning håller dig bekväm hela dagen, medan vår patenterade Sensory Gaitline Technology™ och förstärkningar i häl och mellanfot ger stöd i varje steg. Ren och mångsidig design. Komfort för vardagen.
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 12
 - [Fall/Winter](https://gaitline.se/collections/fall-winter-1)
-  Updated: 2026-11-11T12:16:16Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 51
 - [Black Week 2024](https://gaitline.se/collections/black-week-2024)
-  Updated: 2026-11-09T12:16:20Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 67
 - [Skovård](https://gaitline.se/collections/skovard): Gaitline erbjuder skovård från Springyard. Vi har impregneringsspray som skyddar mot väder och vind, robusta vinterbroddar som ger dig säkerhet på is, snö och svåra förhållanden, och ett mångsidigt rengöringsset som ser till att dina skor håller sig fräscha och fina!
-  Updated: 2026-10-11T11:17:18Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 5
 - [Valentine's Day](https://gaitline.se/collections/valentines-day): Utforska vårt utbud av rosa skor och sandaler från Gaitline. Sulan är progressiv och stödjer foten exakt där du behöver det. Det är därför vi kallar den "The World's Most Supportive Shoe". Ignite PRO-sulan ger en unik känsla av dämpning och låg vikt. Den perfekta presenten till alla hjärtans dag - eller kanske som en gåva till dig själv? Kom ihåg att impregnera skorna för optimalt skydd mot vatten och smuts.
-  Updated: 2026-10-11T11:17:18Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 8
 - [vintersko](https://gaitline.se/collections/vintersko)
   Updated: 2026-06-26T09:09:49Z
   Total Products: 1
 - [SS25](https://gaitline.se/collections/ss25)
-  Updated: 2026-11-07T12:17:58Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 27
 - [Nova Lite](https://gaitline.se/collections/nova-lite): Nova Lite är en mångsidig vardagssneaker för asfalt och hårda underlag, inspirerad av 2000-talets ikoniska retrostil. Ovandelen i mocka och andningsbar mesh ger ett uttryck som fungerar lika bra på jobbet som på fritiden, medan det lätta IGNITE-sulskummet ger god dämpning hela dagen.Med patenterad Sensory Gaitline Technology™ (SGL™) balanseras foten och kroppen, och förstärkningar i häl och mellanfot ger stabilitet – timme efter timme.Ett självklart val när du vill kombinera stil och komfort. Skorna levereras med extra skosnören i en annan färg, så att du enkelt kan matcha dem med din outfit.
-  Updated: 2026-11-11T12:16:16Z
+  Updated: 2026-11-20T12:16:21Z
   Total Products: 9
 - [Bekväma skor](https://gaitline.se/collections/bekvama-skor): Den 17 maj firar Norge sin nationaldag med folkfester, barnparader och mycket firande över hela landet. Det är en dag då många norrmän klär sig i bunad - traditionella folkdräkter, och går i parad genom gatorna med norska flaggor. Skor och sandaler från Gaitline håller dig gående 12 timmar i sträck!
-  Updated: 2026-11-13T12:18:33Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 10
 - [Haven LX Sandal](https://gaitline.se/collections/haven-lx-sandal)
   Updated: 2026-10-22T11:19:58Z
@@ -3524,72 +3620,75 @@ Kundservice: customerservice@gaitline.com
 - [K8 LX Sandal](https://gaitline.se/collections/k8-lx-sandal)
   Updated: 2026-09-08T11:18:30Z
   Total Products: 5
-- [Flow SP Sandal](https://gaitline.se/collections/flow-sp-sandal)
-  Updated: 2026-11-09T12:16:20Z
+- [Flow SP Sandal](https://gaitline.se/collections/flow-sp-sandal): Luftig som en sandal, med stöd som en sko. Flow SP kombinerar lätt och responsiv IGNITE-dämpning med en formad fotbädd och mjuka, vadderade remmar. Utvecklad för långa dagar på hårda underlag – oavsett om du är på jobbet, ute och reser eller njuter av fritiden.
+  Updated: 2026-11-20T12:16:21Z
   Total Products: 7
 - [FW25](https://gaitline.se/collections/fw25)
-  Updated: 2026-11-13T12:18:33Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 29
 - [Exclude from ads](https://gaitline.se/collections/exclude-from-ads)
-  Updated: 2026-11-13T16:08:55Z
-  Total Products: 119
+  Updated: 2026-11-21T12:15:41Z
+  Total Products: 121
 - [FW25 til ads](https://gaitline.se/collections/fw25-til-ads)
-  Updated: 2026-11-12T12:17:16Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 12
-- [Gravel Lite](https://gaitline.se/collections/gravel-lite)
-  Updated: 2026-11-11T12:16:16Z
+- [Gravel Lite](https://gaitline.se/collections/gravel-lite): Den perfekta sneakern för urban hiking.Staden. Naturen. Allt däremellan. Gravel Lite WP tar dig dit du ska, oavsett väder.Höstens nya version har fått ny vaddering, förbättrat hälgrepp och nya material på insidan. Mer komfort. Samma driv. Med patenterad Sensory Gaitline Technology™ balanseras foten och kroppen, även på hårda och plana underlag. Resultatet? Du går längre – utan att kroppen får betala priset.IGNITE-skum i mellansulan ger enastående dämpning och låg vikt. TPU-förstärkningar i häl och mellanfot håller dig stabil, steg efter steg, mil efter mil.Den grova yttersulan med halkskyddande mönster ger bra grepp, var du än rör dig.Lätta. Smidiga. Vattentäta. Redo för vad dagen än bjuder på.Skorna levereras med extra skosnören i en annan färg, så att du enkelt kan matcha dem med din outfit.Vi rekommenderar regelbunden impregnering för att behålla den vattenavvisande funktionen.
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 8
 - [Tracer Lite](https://gaitline.se/collections/tracer-lite)
-  Updated: 2026-10-19T11:16:01Z
+  Updated: 2026-11-20T12:16:21Z
   Total Products: 3
 - [Black Week 2025](https://gaitline.se/collections/black-week-2025)
-  Updated: 2026-11-10T12:15:24Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 46
 - [SS26](https://gaitline.se/collections/ss26)
-  Updated: 2026-11-11T12:16:16Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 14
 - [Vinterskorkampanj](https://gaitline.se/collections/vinterskorkampanj)
-  Updated: 2026-11-10T12:15:24Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 6
 - [Mid-Season  2026](https://gaitline.se/collections/mid-season--2026)
-  Updated: 2026-11-10T12:15:24Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 9
 - [SS26](https://gaitline.se/collections/ss26-1)
-  Updated: 2026-11-11T12:16:16Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 14
 - [Eclipse Elite](https://gaitline.se/collections/eclipse-elite): Byggd för dem som aldrig gör saker till hälften. Eclipse är vidareutvecklingen av vår bästsäljare Lunar Lite – samma läst, samma fördelar du litar på, men stramats åt i ett renare, mer sofistikerat uttryck. För utseendet spelar roll när du aldrig kopplar av. Designad för långa dagar på asfalt och betong, och klarar både korta och långa distanser med god ventilation för varma dagar. Med Sensory Gaitline Technology™ balanseras foten och kroppen på hårda och platta underlag. Förstärkningar i häl och mellanfot säkrar en stabil passform, medan materialvalet i sulan ger lång livslängd – byggd för att hålla jämna steg med ditt tempo. Där Lunar Lite är den trygga favoriten, är Eclipse ett statement. Ett naturligt val för jobbet, möten, resor och allt du ska hinna med däremellan – utan att kompromissa med vare sig funktion eller stil. Move smarter. Go further.
-  Updated: 2026-11-10T12:15:24Z
+  Updated: 2026-11-18T12:17:39Z
   Total Products: 4
 - [Full Price Products by Sales & Discounts](https://gaitline.se/collections/full-price-products-by-sales-discounts)
-  Updated: 2026-11-13T16:08:17Z
-  Total Products: 161
+  Updated: 2026-11-20T16:46:46Z
+  Total Products: 106
 - [Vitt](https://gaitline.se/collections/vitt)
-  Updated: 2026-10-29T11:15:30Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 9
 - [FW 26](https://gaitline.se/collections/fw-26)
-  Updated: 2026-11-13T16:08:17Z
+  Updated: 2026-11-20T12:16:21Z
   Total Products: 20
 - [Höstskor för vandring och stad](https://gaitline.se/collections/hostskor-for-vandring-och-stad): Hitta höstskor för vandring och stad. Vattentäta vandringsskor och lätta sneakers med patenterat Gaitline SGL Technology som håller hela dagen. Utvecklad i Oslo.
-  Updated: 2026-11-13T12:18:33Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 75
 - [Vattentäta skor](https://gaitline.se/collections/vattentata-skor): Vattentäta skor från Gaitline med PFAS-fritt membran och patenterad SGL-sula. Unisex, stl. 36–47,5. Håll fötterna torra utan att tumma på stödet.
-  Updated: 2026-11-11T12:16:16Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 15
 - [Emils höstfavoriter](https://gaitline.se/collections/emils-hostfavoriter): Se de fyra skorna som Emil Gukild har på sig mellan träningspassen – från lätt stöd till vinterklara modeller med Arctic Grip. Hitta dina höstfavoriter.
-  Updated: 2026-11-10T12:15:24Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 17
 - [Små storlekar](https://gaitline.se/collections/sma-storlekar): Gaitline-skor för vuxna i storlek 36, 36,5 och 37. Samma patenterade SGL-stöd och dämpning, bara i mindre storlekar. Alla modeller är unisex.
-  Updated: 2026-11-13T12:18:33Z
-  Total Products: 78
+  Updated: 2026-11-21T22:11:24Z
+  Total Products: 81
 - [Sinober](https://gaitline.se/collections/sinober): Sinober Lite är en varm vintersko i nubuck med Thinsulate-foder, arctic grip och patenterad SGL-teknologi. Gjord för kalla dagar på hårda underlag.
-  Updated: 2026-11-10T12:15:24Z
+  Updated: 2026-11-21T12:15:41Z
   Total Products: 4
 - [Black Week Rea](https://gaitline.se/collections/black-week-rea)
-  Updated: 2026-11-12T15:10:53Z
-  Total Products: 39
-- [Helsorta Skor](https://gaitline.se/collections/helsorta-skor)
-  Updated: 2026-11-13T16:08:17Z
-  Total Products: 19
+  Updated: 2026-11-21T12:15:41Z
+  Total Products: 41
+- [Helsorta Skor](https://gaitline.se/collections/helsorta-skor): Helsvarta skor är ett mångsidigt val för dig som vill ha ett rent och diskret uttryck, oavsett om du bär dem på jobbet, på promenaden eller till vardags. De passar lika bra till en mörk arbetsgarderob som till en avslappnad stil och är ett självklart val för dig som föredrar svart från sula till ovandel. Här hittar du helsvarta Gaitline-skor med vår SGL-teknik, för dig som vill kombinera ett tidlöst uttryck med komfort hela dagen.
+  Updated: 2026-11-21T12:15:41Z
+  Total Products: 16
+- [Utförsäljning av utgående modeller – 70 %](https://gaitline.se/collections/utforsaljning-av-utgaende-modeller-70)
+  Updated: 2026-11-21T12:15:41Z
+  Total Products: 14
 
 ## Blogs
 
