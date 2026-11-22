@@ -6,26 +6,26 @@
 - Timezone: America/Chicago
 - Created At: 2019-09-11T19:17:57Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-15T00:23:14.364Z
+- Updated At: 2026-11-22T00:28:40.718Z
 
 ## Products
 
 - [H A R D L O V E - Vinyl](https://www.shopneedco.com/products/h-a-r-d-l-o-v-e-vinyl-w-1): H A R D L O V E standard black color vinyl. Track Listing MOUNTAIN, Pt 1 HARD LOVE MONEY & FAME NO EXCUSES WHEN I SING HAPPINESS GREAT NIGHT (Feat. Shovels & Rope) BE HERE LONG DON’T BRING THAT TROUBLE LET’S STAY HOME TONIGHT TESTIFY CLEAR
-  Updated: 2026-11-12T07:10:46Z
+  Updated: 2026-11-20T08:48:36Z
   Vendor: NEEDCO
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/NTB_Hard_Love_Vinyl.png?v=1784048026
   Price: $30.00 USD
 - [Rivers In the Wasteland - Vinyl](https://www.shopneedco.com/products/rivers-in-the-wasteland-vinyl): Rivers In The Wasteland features 11 tracks across a standard 12” vinyl. Tracklist: Side A1. Wasteland2. State I'm In3. Feet Don't Fail Me Now4. Oh Carolina5. Difference Maker6. Rise AgainSide B1. The Heart2. Where The Money Is3. Multiplied4. Brother5. More Heart, Less Attack
-  Updated: 2026-11-08T02:43:46Z
+  Updated: 2026-11-20T12:10:16Z
   Vendor: NEEDCO
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/RITWVINYL.png?v=1744815737
   Price: $30.00 USD
 - [Out of Body - Coke Bottle Green Vinyl](https://www.shopneedco.com/products/out-of-body-d2c-exclusive-vinyl): Coke Bottle Colored Out of Body Vinyl. Tracklist: Mercy's Shore Alive Hang On Survival (feat. Drew + Ellie Holcomb) Child Again Out of Body Who Am I Banks Riding High Bottom Of A Heartbreak Seasons
-  Updated: 2026-11-12T23:48:57Z
+  Updated: 2026-11-20T12:10:16Z
   Vendor: NEEDCO
   Product Type: Vinyl
   Availability: Available
@@ -46,14 +46,14 @@
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/daylight-black-vinyl_NEEDTOBREATHE-removebg-preview.png?v=1744815731
   Price: $30.00 USD
 - [Live From the Woods Vol. 2 - CD](https://www.shopneedco.com/products/live-from-the-woods-vol-2-cd): Live From The Woods Vol. 2 was recorded live on March 13 and 14 at The Caverns in Pelham, TN. This is for a double-disc CD.
-  Updated: 2026-11-03T12:14:08Z
+  Updated: 2026-11-20T08:48:27Z
   Vendor: NEEDCO
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/LiveFromtheWoodsVol.2CD.png?v=1744815726
   Price: $12.00 USD
 - [Flannel Button Down](https://www.shopneedco.com/products/flannel): Long sleeve 100% Cotton double brushed Buffalo Checkered flannel w/ chest pockets. Branded woven label on wearer's left chest pocket. Interior back neckline has printed neck tape. A key staple in anyone's closet. Fits true to size. Only a Small Batch of these custom items will be made. When they’re gone, they’re gone. Product details: Printed Back Neck TapeInterior Printed Back NeckLabelWoven label at hemImprint on PocketCotton
-  Updated: 2026-11-14T01:25:26Z
+  Updated: 2026-11-19T18:46:11Z
   Vendor: NEEDCO
   Product Type: Flannel
   Availability: Available
@@ -77,7 +77,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Need Script Onesie](https://www.shopneedco.com/products/onesie): Super soft baby onesie made with 100% pre-shrunk Pima Cotton. Contrast ribbing around neckline, sleeve hem and leg openings. Screen printed artwork on front, back tag is attached at the exterior back of neck and printed back neck label to avoid irritation on the baby. Only a Small Batch of these custom items will be made. When they’re gone, they’re gone. Product details: Printed Back Neck TapeInterior Printed Back NeckLabelWoven label at hemImprint on Pocket
-  Updated: 2026-11-06T23:05:52Z
+  Updated: 2026-11-18T22:02:21Z
   Vendor: NEEDCO
   Product Type: Onesie
   Availability: Available
@@ -92,28 +92,28 @@
     Availability: Available
     Price: $14.00 USD
 - [Into The Mystery - CD](https://www.shopneedco.com/products/into-the-mystery-cd): Into The Mystery on CD. Track Listing: What I'm Here For Into The Mystery Sunshine Carry Me (feat. Jon Foreman of Switchfoot) I Am Yours Chances Sittin' In The Back Seat Give Me A Chance Don't Throw All The Good Things Away (feat. Natalie Hemby) Innocence I Wanna Remember (feat. Carrie Underwood) West Texas Wind
-  Updated: 2026-10-31T02:31:31Z
+  Updated: 2026-11-20T08:48:35Z
   Vendor: NEEDCO
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/intothemysteryCD.png?v=1744815718
   Price: $10.00 USD
 - [Into The Mystery - Cassette](https://www.shopneedco.com/products/into-the-mystery-cassette): Into The Mystery on Cassette. Track Listing: Side A What I'm Here For Into The Mystery Sunshine Carry Me (feat. Jon Foreman of Switchfoot) I Am Yours Chances Side B Sittin' In The Back Seat Give Me A Chance Don't Throw All The Good Things Away (feat. Natalie Hemby) Innocence I Wanna Remember (feat. Carrie Underwood) West Texas Wind
-  Updated: 2026-11-03T12:14:10Z
+  Updated: 2026-11-18T22:02:21Z
   Vendor: NEEDCO
   Product Type: Cassette
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/IntoTheMysteryCassette.png?v=1744815715
   Price: $12.00 USD
 - [Into The Mystery Film Poster](https://www.shopneedco.com/products/film-poster-2): 24 inches wide x 18 inches tall
-  Updated: 2026-11-10T01:33:16Z
+  Updated: 2026-11-18T22:02:21Z
   Vendor: NEEDCO
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/intothemysteryfilmposter.png?v=1744815713
   Price: $5.00 USD
 - [Into The Mystery Tie Dye Tee](https://www.shopneedco.com/products/desert-tie-dye-tee): Unisex tee with front pocket + back print!
-  Updated: 2026-11-12T15:50:17Z
+  Updated: 2026-11-18T22:02:21Z
   Vendor: NEEDCO
   Product Type: T-Shirt
   Availability: Available
@@ -134,7 +134,7 @@
     Availability: Not Available
     Price: $15.00 USD
 - [Into The Mystery Tour Crewneck](https://www.shopneedco.com/products/eagle-ladies-tee): Unisex fit Limited sizes + quantities available!
-  Updated: 2026-11-12T15:50:17Z
+  Updated: 2026-11-18T22:02:21Z
   Vendor: NEEDCO
   Product Type: Crewneck
   Availability: Available
@@ -162,7 +162,7 @@
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/products/into-the-mystery-clear-fanny-pack_NEEDTOBREATHE.png?v=1744815703
   Price: $17.50 USD
 - [NASHVILLE 2021 TOUR KOOZIE](https://www.shopneedco.com/products/bridgestone-arena-koozie): Please note: this item is final  This 12 oz. koozie is from NEEDTOBREATHE's performance at Bridgestone Arena in Nashville, TN on October 29th, 2021. Available in orange or black!
-  Updated: 2026-11-14T01:25:27Z
+  Updated: 2026-11-18T22:02:21Z
   Vendor: NEEDCO
   Product Type: Koozie
   Availability: Available
@@ -176,21 +176,21 @@
     Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/NTB-BLACK-EVENT-KOOZIE.png?v=1744815693
     Price: $4.00 USD
 - [NASHVILLE 2021 TOUR RALLY TOWEL](https://www.shopneedco.com/products/ntb-nashville-event-rally-flag): Please note: this item is final  This Rally Flag, designed for NEEDTOBREATHE'S Bridgestone Arena show on October 29,2021, is crafted with 100% cotton terry material and measures 15 1/2" W x 13 1/4" H. This item is from the vault, these will no longer be replaced once sold out.
-  Updated: 2026-10-05T13:02:11Z
+  Updated: 2026-11-18T22:02:21Z
   Vendor: NEEDCO
   Product Type: Towel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/products/towel.png?v=1744815693
   Price: $3.00 USD
 - [CAVES - Smoke Vinyl](https://www.shopneedco.com/products/caves-vinyl): Order your copy of NEEDTOBREATHE's studio album "CAVES". This vinyl is in the color smoke. Tracklist: SIDE AThe CaveEverknownHow Wonderful We AreDreams (ft. Judah & The Lion)Fall On Me (ft. Carly Pearce)SIDE BWhen You Forgive SomeoneWasting Time (ft. Old Dominion)HideawayBy and ByReaching Out To Find YouTemporary Tears (ft. Foy Vance) Released 2023
-  Updated: 2026-11-09T17:18:17Z
+  Updated: 2026-11-18T22:02:21Z
   Vendor: NEEDCO
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/CAVES_BLACKICE_MOCKtransparent.png?v=1744815683
   Price: $30.00 USD
 - [Rock & Roll Skull Tee](https://www.shopneedco.com/products/skull-tee): Order the Rock & Roll Skull Tee from the Caves Tour! 100% Cotton
-  Updated: 2026-11-15T00:10:35Z
+  Updated: 2026-11-20T02:24:56Z
   Vendor: NEEDCO
   Product Type: T-Shirt
   Availability: Available
@@ -214,7 +214,7 @@
     Availability: Available
     Price: $24.50 USD
 - [Custom Brixton Hat - Cohen Cowboy](https://www.shopneedco.com/products/brown-custom-brixton-hat): This hat is an exclusive, custom design produced by Brixton in partnership with NEEDTOBREATHE. Previously only available on The CAVES World Tour, a limited amount of these custom hats have been made available on shopneedco.com. This is a western style, structured wide-brim hat with a raw edge. Made from 100% Australian wool with the adjustable interior sweatband to find your perfect fit. It's finished with a thin grosgrain band and a metal Brixton pin, as well as a unique feather detail. Custom bear imprint below the rim for a subtle NEEDTOBREATHE statement. See the size guide here: https://www.brixton.com/pages/headwear-fit-guide#hat-sizing
-  Updated: 2026-11-09T17:53:16Z
+  Updated: 2026-11-18T22:02:21Z
   Vendor: NEEDCO
   Product Type: Hat
   Availability: Available
@@ -235,7 +235,7 @@
     Availability: Not Available
     Price: $80.00 USD
 - [CAVES WORLD TOUR POSTCARDS](https://www.shopneedco.com/products/caves-world-tour-postcards): Please note: this item is final  This is a limited run of printed postcards commemorating specific stops of the CAVES World Tour. These are the final postcards; once they are sold out, they're gone for good. 6 x 4 in
-  Updated: 2026-10-05T13:02:30Z
+  Updated: 2026-11-18T22:02:20Z
   Vendor: NEEDCO
   Product Type: Postcard
   Availability: Available
@@ -269,21 +269,21 @@
     Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/NTB-POSTCARD-MAY-12.png?v=1744815649
     Price: $3.00 USD
 - [Into The Mystery - Coke Bottle Green Vinyl](https://www.shopneedco.com/products/into-the-mystery-coke-bottle-green-vinyl): Into The Mystery D2C Exclusive vinyl is be on an exclusive coke bottle-colored vinyl with an alternate cover. Tracklist: What I'm Here For Into The Mystery Sunshine Carry Me (feat. Jon Foreman of Switchfoot) I Am Yours Chances Sittin' In The Back Seat Give Me A Chance Don't Throw All The Good Things Away (feat. Natalie Hemby) Innocence I Wanna Remember (feat. Carrie Underwood) West Texas Wind
-  Updated: 2026-11-09T17:18:15Z
+  Updated: 2026-11-18T22:02:20Z
   Vendor: NEEDCO
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/NTB-INSIDERS-VINYL-COKE-BOTTLE-GREEN.png?v=1744815643
   Price: $30.00 USD
 - [Acoustic Live Vol. 1 - Double Vinyl w/ Etched B-Side](https://www.shopneedco.com/products/acoustic-live-vol-1-2lp-vinyl-w-etched-b-side): NEEDTOBREATHE's Acoustic Live Vol. 1 album pressed on 2LP standard black vinyl. Three sides will contain music while the fourth will feature an etched b-side for display. Tracklist: RECORD ONE Side A LET’S STAY HOME TONIGHT Drive All Night NO EXCUSES Side B State I’m In Washed By The Water TESTIFY RECORD TWO Side C Oh, Carolina Stand By Me Stones Under Rushing Water (feat. Drew & Ellie Holcomb) Side D White Fences CAGES Brother Originally released in 2015
-  Updated: 2026-10-28T02:47:05Z
+  Updated: 2026-11-21T20:42:56Z
   Vendor: NEEDCO
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/NTB-ACOUSTIC-LIVE-VOL-1-REPRESS.png?v=1744815643
   Price: $45.00 USD
 - [Bridgestone Event Tee](https://www.shopneedco.com/products/bridgestone-event-tee): Bridgestone Event Tee from October 29, 2021, front print only. Limited sizes + quantities available.
-  Updated: 2026-11-03T12:14:08Z
+  Updated: 2026-11-18T22:02:21Z
   Vendor: NEEDCO
   Product Type: T-Shirt
   Availability: Available
@@ -298,7 +298,7 @@
     Availability: Not Available
     Price: $15.00 USD
 - [Live From The Woods Postcard](https://www.shopneedco.com/products/live-from-the-woods-postcard): Please note: this item is final  Live From The Woods Postcard 4 x 6 in
-  Updated: 2026-10-05T13:02:38Z
+  Updated: 2026-11-18T22:02:21Z
   Vendor: NEEDCO
   Product Type: Postcard
   Availability: Available
@@ -326,28 +326,21 @@
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/NTB_LFTW_V2_Print_99820493-10ac-493a-b729-aeb4a18454ba.png?v=1744815632
   Price: $10.00 USD
 - [Skull Patch - Small](https://www.shopneedco.com/products/skull-patch-small): Embroidered appliqué patch
-  Updated: 2026-11-04T14:39:16Z
+  Updated: 2026-11-18T22:02:20Z
   Vendor: NEEDCO
   Product Type: Patch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/NTB_Small_Skull_Patch.png?v=1744815629
   Price: $3.00 USD
 - [Into The Mystery Blanket](https://www.shopneedco.com/products/into-the-mystery-blanket): Authentic Mexican blanket, made from reclaimed acrylic, polyester, and cotton fibers. 72 inches long x 52 inches wide.
-  Updated: 2026-11-11T02:19:55Z
+  Updated: 2026-11-19T18:34:48Z
   Vendor: NEEDCO
   Product Type: Blanket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/NTB_ITM_Blue_Blanket.png?v=1744815624
-  - [Blue](https://www.shopneedco.com/products/into-the-mystery-blanket?variant=46906426917087)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/NTB_ITM_Blue_Blanket.png?v=1744815624
-    Price: $49.00 USD
-  - [Black](https://www.shopneedco.com/products/into-the-mystery-blanket?variant=46906426884319)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/NTB_ITM_Black_Blanket.png?v=1744815624
-    Price: $49.00 USD
+  Price: $49.00 USD
 - [Banks Tee](https://www.shopneedco.com/products/banks-tee): 100% airlume combed and ring-spun cotton t-shirt in light blue Size Chart Size Body Length (in) Chest Width (in) XS 27 16 1/2 S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-11-13T16:25:24Z
+  Updated: 2026-11-19T18:46:11Z
   Vendor: NEEDCO
   Product Type: T-Shirt
   Availability: Available
@@ -374,7 +367,7 @@
     Availability: Available
     Price: $24.50 USD
 - [Tiger Hoodie](https://www.shopneedco.com/products/tiger-hoodie): Heavyweight pullover hoodie in navy. Made from 70/10/20 cotton/polyester/ recycled polyester from plastic bottles. Size Chart Size Body Length (in) Chest Width (in) S 28 1/2 21 M 29 1/2 23 L 30 1/2 24 1/2 XL 31 1/2 26 1/2 2XL 32 1/2 27 1/2 3XL 33 1/2 28 1/2
-  Updated: 2026-11-15T00:10:35Z
+  Updated: 2026-11-20T02:24:58Z
   Vendor: NEEDCO
   Product Type: Hoodie
   Availability: Available
@@ -398,28 +391,28 @@
     Availability: Available
     Price: $49.00 USD
 - [CAVES - Signed Print](https://www.shopneedco.com/products/caves-signed-print): 4.75 x 4.75" CD-sized print, hand-signed by the Bear, Seth, Josh, Tyler, and Randall
-  Updated: 2026-11-13T16:25:25Z
+  Updated: 2026-11-18T22:02:20Z
   Vendor: NEEDCO
   Product Type: Print
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/NTB_CAVES_Signed_CD_Print.png?v=1762963680
   Price: $10.50 USD
 - [The Long Surrender - SIGNED Seafoam Vinyl](https://www.shopneedco.com/products/the-long-surrender-signed-seafoam-vinyl): The Long Surrender is NEEDTOBREATHE landmark 10th studio album. Each album contains an art card hand-signed by NEEDTOBREATHE. Tracklist The Long Surrender Say It Now Highlands Sing To Me Savannah Where You Call Home Strangeness Of It All Take Me Dancing The Door Growing Slow Momma Loves Me (feat. The Red Clay Strays) Take The Blame Spread The Ashes Release Date: March 27th, 2026
-  Updated: 2026-11-14T02:01:26Z
+  Updated: 2026-11-21T23:39:41Z
   Vendor: NEEDCO
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/NTB_TLS_Vinyl_Signed.png?v=1768946573
   Price: $35.00 USD
 - [The Long Surrender - SIGNED CD](https://www.shopneedco.com/products/the-long-surrender-signed-cd): The Long Surrender is NEEDTOBREATHE landmark 10th studio album. Each album contains an art card hand-signed by NEEDTOBREATHE. Tracklist The Long Surrender Say It Now Highlands Sing To Me Savannah Where You Call Home Strangeness Of It All Take Me Dancing The Door Growing Slow Momma Loves Me (feat. The Red Clay Strays) Take The Blame Spread The Ashes Release Date: March 27th, 2026
-  Updated: 2026-11-09T18:30:26Z
+  Updated: 2026-11-20T20:18:36Z
   Vendor: NEEDCO
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/NTB_TLS_Signed_CD.png?v=1768946573
   Price: $15.00 USD
 - [Stallion Hoodie](https://www.shopneedco.com/products/stallion-hoodie): 80/20 ring-spun cotton/polyester hoodie in black. Features a front and back print. Size Chart Size Body Length (in) Chest Width (in) S 27 1/2 23 1/4 M 28 1/2 24 1/2 L 29 1/2 25 1/2 XL 30 1/2 26 3/4 2XL 32 28 3XL 33 29
-  Updated: 2026-11-14T00:03:54Z
+  Updated: 2026-11-21T18:41:21Z
   Vendor: NEEDCO
   Product Type: Hoodie
   Availability: Available
@@ -443,7 +436,7 @@
     Availability: Available
     Price: $49.00 USD
 - [The Long Surrender Tee](https://www.shopneedco.com/products/the-long-surrender-tee): 100% airlume combed and ring-spun cotton t-shirt in natural Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-11-12T01:46:09Z
+  Updated: 2026-11-18T22:02:21Z
   Vendor: NEEDCO
   Product Type: T-Shirt
   Availability: Available
@@ -467,7 +460,7 @@
     Availability: Available
     Price: $24.50 USD
 - [The Long Surrender Long Sleeve](https://www.shopneedco.com/products/the-long-surrender-long-sleeve): 100% ring-spun cotton, heavyweight long sleeve t-shirt in black. Features a front print and two sleeve prints. Size Chart Size Body Length (in) Chest Width (in) S 28 1/2 18 M 29 1/2 20 L 30 1/2 22 XL 31 1/2 24 2XL 32 1/2 26 3XL 33 1/2 28
-  Updated: 2026-11-10T16:35:38Z
+  Updated: 2026-11-18T22:02:21Z
   Vendor: NEEDCO
   Product Type: Long Sleeve
   Availability: Available
@@ -491,14 +484,14 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Stallion Trucker Hat](https://www.shopneedco.com/products/stallion-hat): 100% cotton twill trucker hat with mesh backing and braid in black. Features printed stallion design on front and embroidered logo on side.
-  Updated: 2026-11-13T13:51:36Z
+  Updated: 2026-11-21T16:52:06Z
   Vendor: NEEDCO
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/NTB_0004_166597_1_306356_d.png?v=1768856541
   Price: $24.50 USD
 - [Barely Elegant Acoustic Tour Tee](https://www.shopneedco.com/products/barely-elegant-acoustic-tour-tee): 100% airlume combed and ring-spun cotton t-shirt in asphalt Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-11-14T02:39:46Z
+  Updated: 2026-11-19T17:45:17Z
   Vendor: NEEDCO
   Product Type: T-Shirt
   Availability: Available
@@ -522,7 +515,7 @@
     Availability: Available
     Price: $24.50 USD
 - [Forever On Your Side - White Vinyl](https://www.shopneedco.com/products/forever-on-your-side-10-white-vinyl): NEEDTOBREATHE’s Forever On Your Side (Niles City Sound Sessions) pressed on 12" white vinyl Track Listing Side A Bridges Burn Darling Side B Bullets Forever On Your Side
-  Updated: 2026-11-12T07:10:36Z
+  Updated: 2026-11-19T17:39:26Z
   Vendor: NEEDCO
   Product Type: Vinyl
   Availability: Available
@@ -553,7 +546,7 @@
     Availability: Not Available
     Price: $24.50 USD
 - [NTB Camo Long Sleeve](https://www.shopneedco.com/products/ntb-camo-long-sleeve): 100% cotton, heavyweight boxy fit long sleeve t-shirt in vintage wood camo. Features "NTB" printed on the front Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 1/4 20 1/2 24 M 28 1/4 22 24 1/2 L 29 1/4 23 1/2 25 1/2 XL 30 1/4 25 26 1/4 2XL 32 1/2 26 1/2 26 3/4
-  Updated: 2026-11-13T16:05:35Z
+  Updated: 2026-11-21T20:34:47Z
   Vendor: NEEDCO
   Product Type: Long Sleeve
   Availability: Available
@@ -574,7 +567,7 @@
     Availability: Available
     Price: $35.00 USD
 - [The Long Surrender Tour Tee](https://www.shopneedco.com/products/the-long-surrender-tour-tee): 100% airlume combed and ring-spun cotton t-shirt in asphalt Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-11-14T22:12:08Z
+  Updated: 2026-11-21T18:45:22Z
   Vendor: NEEDCO
   Product Type: T-Shirt
   Availability: Available
@@ -592,35 +585,49 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/NTBMysteryPosterPack.png?v=1794000452
   Price: $30.00 USD
+- [Skull Camo Hat](https://www.shopneedco.com/products/skull-camo-hat): 65% polyester, 35% cotton, 6-panel mid-profile trucker hat with mesh backing and snapback closure in camo. Features embroidered skull & logo design on front.
+  Updated: 2026-11-19T19:38:17Z
+  Vendor: NEEDCO
+  Product Type: Hat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/NTB_Skull_Camo_Hat.png?v=1795104319
+  Price: $40.00 USD
+- [The Long Surrender and the Fellow Passengers of Pain - Deluxe 12" Vinyl](https://www.shopneedco.com/products/the-long-surrender-and-the-fellow-passengers-of-pain-deluxe-12-vinyl): This item will ship in approximately 1-2 weeks. This vinyl release of The Long Surrender and the Fellow Passengers of Pain features the 6 deluxe tracks that expand on the themes of surrender, transformation, and renewal explored on The Long Surrender. Please note, this album does not contain the standard album tracks. Tracklist Side A Last Drink (feat. The Jack Wharff Band) Can’t Apologize (feat. Jonah Kagen) Past The Gates (feat. Anne Wilson) Side B Never Gonna Deserve Ya (feat. Evan Honer) Free Fall (feat. Conner Smith) Sparrow (feat. Bre Kennedy) Release Date: November 19, 2026
+  Updated: 2026-11-21T22:11:02Z
+  Vendor: NEEDCO
+  Product Type: Vinyl
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0273/1579/8100/files/NTBPassengersVinyl.png?v=1794932527
+  Price: $29.50 USD
 
 ## Collections
 
 - [Music](https://www.shopneedco.com/collections/music)
-  Updated: 2026-11-14T12:05:31Z
-  Total Products: 58
+  Updated: 2026-11-21T12:06:24Z
+  Total Products: 59
 - [Vinyl](https://www.shopneedco.com/collections/vinyl)
-  Updated: 2026-11-14T12:05:31Z
-  Total Products: 36
+  Updated: 2026-11-21T12:06:24Z
+  Total Products: 37
 - [Apparel](https://www.shopneedco.com/collections/apparel)
-  Updated: 2026-11-14T12:05:31Z
+  Updated: 2026-11-21T12:06:24Z
   Total Products: 124
 - [Accessories](https://www.shopneedco.com/collections/accessories)
-  Updated: 2026-11-14T12:05:31Z
-  Total Products: 96
+  Updated: 2026-11-20T12:06:01Z
+  Total Products: 97
 - [Small Batch Collection](https://www.shopneedco.com/collections/small-batch-collection)
-  Updated: 2026-11-14T12:05:31Z
+  Updated: 2026-11-20T12:06:01Z
   Total Products: 11
 - [OrderlyEmails - Recommended Products](https://www.shopneedco.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-11-14T12:05:31Z
-  Total Products: 72
+  Updated: 2026-11-21T12:06:24Z
+  Total Products: 74
 - [Featured Collection](https://www.shopneedco.com/collections/caves-tour-collection)
-  Updated: 2026-11-14T12:05:31Z
+  Updated: 2026-11-20T12:06:01Z
   Total Products: 31
 - [Solo Projects](https://www.shopneedco.com/collections/solo-projects)
   Updated: 2026-07-08T20:58:45Z
   Total Products: 4
 - [SIGNED COLLECTION](https://www.shopneedco.com/collections/signed-collection)
-  Updated: 2026-11-14T12:05:31Z
+  Updated: 2026-11-21T12:06:24Z
   Total Products: 25
 - [Restocked Favorites](https://www.shopneedco.com/collections/restocked-favorites)
   Updated: 2026-11-10T12:04:12Z
@@ -629,8 +636,8 @@
   Updated: 2026-11-13T12:05:52Z
   Total Products: 8
 - [The Music Bin](https://www.shopneedco.com/collections/the-music-bin)
-  Updated: 2026-11-14T12:05:31Z
-  Total Products: 45
+  Updated: 2026-11-21T12:06:24Z
+  Total Products: 46
 - [Daylight](https://www.shopneedco.com/collections/daylight)
   Updated: 2026-11-08T12:05:44Z
   Total Products: 1
@@ -644,16 +651,16 @@
   Updated: 2026-11-12T12:05:49Z
   Total Products: 1
 - [Rivers in the Wasteland](https://www.shopneedco.com/collections/rivers-in-the-wasteland)
-  Updated: 2026-11-08T12:05:44Z
+  Updated: 2026-11-21T12:06:24Z
   Total Products: 2
 - [Out of Body](https://www.shopneedco.com/collections/out-of-body)
-  Updated: 2026-11-13T12:05:52Z
+  Updated: 2026-11-21T12:06:24Z
   Total Products: 4
 - [Into The Mystery](https://www.shopneedco.com/collections/into-the-mystery)
-  Updated: 2026-11-13T12:05:52Z
+  Updated: 2026-11-20T12:06:01Z
   Total Products: 20
 - [Caves](https://www.shopneedco.com/collections/caves)
-  Updated: 2026-11-14T12:05:31Z
+  Updated: 2026-11-17T12:05:25Z
   Total Products: 17
 - [Live From The Woods Vol. 2](https://www.shopneedco.com/collections/live-from-the-woods-vol-2)
   Updated: 2026-11-14T12:05:31Z
@@ -662,65 +669,68 @@
   Updated: 2026-11-10T12:04:12Z
   Total Products: 24
 - [The $5 Bin](https://www.shopneedco.com/collections/the-5-bin)
-  Updated: 2026-11-14T12:05:31Z
+  Updated: 2026-11-21T12:06:24Z
   Total Products: 39
 - [Green Stickers](https://www.shopneedco.com/collections/green-sticker)
-  Updated: 2026-11-14T12:05:31Z
+  Updated: 2026-11-21T12:06:24Z
   Total Products: 103
 - [Orange Stickers](https://www.shopneedco.com/collections/orange-sticker)
   Updated: 2026-11-10T12:04:12Z
   Total Products: 30
 - [Yellow Stickers](https://www.shopneedco.com/collections/yellow-sticker)
-  Updated: 2026-11-14T12:05:31Z
-  Total Products: 87
+  Updated: 2026-11-21T12:06:24Z
+  Total Products: 88
 - [Red Stickers](https://www.shopneedco.com/collections/red-sticker)
-  Updated: 2026-11-14T12:05:31Z
-  Total Products: 83
+  Updated: 2026-11-21T12:06:24Z
+  Total Products: 84
 - [The Bundle Bin](https://www.shopneedco.com/collections/the-bundle-bin)
   Updated: 2026-11-09T15:09:49Z
   Total Products: 7
 - [EasyGift All Products](https://www.shopneedco.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-11-14T12:05:31Z
-  Total Products: 329
+  Updated: 2026-11-21T12:06:24Z
+  Total Products: 331
 - [All](https://www.shopneedco.com/collections/all)
-  Updated: 2026-11-14T12:05:31Z
-  Total Products: 328
+  Updated: 2026-11-21T12:06:24Z
+  Total Products: 330
 - [Best Sellers](https://www.shopneedco.com/collections/best-sellers)
-  Updated: 2026-11-14T12:05:31Z
-  Total Products: 329
+  Updated: 2026-11-21T12:06:24Z
+  Total Products: 331
 - [New Arrivals](https://www.shopneedco.com/collections/new-arrivals)
-  Updated: 2026-11-14T12:05:31Z
-  Total Products: 329
+  Updated: 2026-11-21T12:06:24Z
+  Total Products: 331
 - [Momma Loves Me](https://www.shopneedco.com/collections/momma-loves-me)
-  Updated: 2026-11-14T12:05:31Z
+  Updated: 2026-11-21T12:06:24Z
   Total Products: 11
 - [Barely Elegant Tour Merch](https://www.shopneedco.com/collections/barely-elegant-tour-merch)
-  Updated: 2026-11-14T12:05:31Z
+  Updated: 2026-11-20T12:06:01Z
   Total Products: 11
 - [](https://www.shopneedco.com/collections/-items)
-  Updated: 2026-11-14T12:05:31Z
+  Updated: 2026-11-21T12:06:24Z
   Total Products: 158
 - [The Long Surrender](https://www.shopneedco.com/collections/the-long-surrender)
-  Updated: 2026-11-14T12:05:31Z
-  Total Products: 11
+  Updated: 2026-11-21T12:06:24Z
+  Total Products: 12
 - [The Long Surrender Music](https://www.shopneedco.com/collections/the-long-surrender-music)
-  Updated: 2026-11-14T12:05:31Z
-  Total Products: 2
+  Updated: 2026-11-21T12:06:24Z
+  Total Products: 3
 - [The Long Surrender Merch](https://www.shopneedco.com/collections/the-long-surrender-merch)
-  Updated: 2026-11-14T12:05:31Z
+  Updated: 2026-11-20T12:06:01Z
   Total Products: 6
 - [The Long Surrender Bundles](https://www.shopneedco.com/collections/the-long-surrender-bundles)
   Updated: 2026-07-08T20:58:48Z
   Total Products: 3
 - [All Merch](https://www.shopneedco.com/collections/all-merch)
-  Updated: 2026-11-14T12:05:31Z
-  Total Products: 213
+  Updated: 2026-11-21T12:06:24Z
+  Total Products: 214
 - [The Long Surrender Tour Merch](https://www.shopneedco.com/collections/the-long-surrender-tour-merch)
-  Updated: 2026-11-14T12:05:31Z
-  Total Products: 12
-- [T-Shirts](https://www.shopneedco.com/collections/t-shirts)
-  Updated: 2026-11-14T12:05:31Z
+  Updated: 2026-11-21T12:06:24Z
   Total Products: 14
+- [T-Shirts](https://www.shopneedco.com/collections/t-shirts)
+  Updated: 2026-11-21T12:06:24Z
+  Total Products: 14
+- [The Long Surrender and the Fellow Passengers of Pain](https://www.shopneedco.com/collections/the-long-surrender-and-the-fellow-passengers-of-pain)
+  Updated: 2026-11-21T12:06:24Z
+  Total Products: 1
 
 ## Store Pages
 
