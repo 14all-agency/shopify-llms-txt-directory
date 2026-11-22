@@ -6,12 +6,12 @@
 - Timezone: Asia/Karachi
 - Created At: 2024-09-30T18:36:55Z
 - Contact Email: info@zananii.com
-- Updated At: 2026-11-15T00:38:14.758Z
+- Updated At: 2026-11-22T00:39:07.067Z
 
 ## Products
 
 - [Sky Blue Button-Down Set – Safari Collection by Zananii](https://zananii.com/products/safari): Sky blue dobby viscose button-down top with culottes. A soft and easy outfit made for relaxed, everyday wear.
-  Updated: 2026-08-31T10:00:01Z
+  Updated: 2026-11-17T18:42:35Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -715,7 +715,7 @@
     Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/Black_Shalwar_-_DHD_02.webp?v=1784036986
     Price: Rs 4,400.00 PKR
 - [Gohar 3-Piece Lawn Suit – Gohar Collection by Zananii](https://zananii.com/products/3-piece-suit): Ivory self lawn suit with farshi shalwar and tie-dye dupatta. Soft cotton fabric with lace and embroidered details for a traditional look.
-  Updated: 2026-07-28T17:06:04Z
+  Updated: 2026-11-15T10:04:11Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -736,7 +736,7 @@
     Availability: Available
     Price: Rs 11,475.00 PKR
 - [Black & Sea Green Co-ord Set – MAYA Collection by Zananii](https://zananii.com/products/aqua-cord): Two-piece co-ord set in black and sea green Irish cotton with soft net detail. A breathable outfit for a simple and refined everyday look.
-  Updated: 2026-07-28T17:05:59Z
+  Updated: 2026-11-18T21:46:26Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1012,7 +1012,7 @@
     Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/Mustard_-_Taab_First_View.webp?v=1784116506
     Price: Rs 2,400.00 PKR
 - [Olive Green Embroidered Kurta – Ramz Collection by Zananii](https://zananii.com/products/olive-green-kurta-with-white-pants): Breezy olive green mul cotton kurta with white embroidery and button detailing. A timeless piece from the Ramz Collection, crafted for everyday elegance.
-  Updated: 2026-07-28T17:05:29Z
+  Updated: 2026-11-15T21:17:38Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1181,7 +1181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/Laaj_03_-_Blue_Color_First_View.webp?v=1784736395
     Price: Rs 11,899.00 PKR
 - [White Cotton Lawn Kurta with Peach Embroidery – Andaleeb by Zananii](https://zananii.com/products/white-kurta-with-peach-embroidery-on-neckline): A soft white cotton lawn kurta featuring delicate peach embroidery on the neckline. Simple, elegant, and perfect for effortless everyday style.
-  Updated: 2026-07-28T17:04:58Z
+  Updated: 2026-11-16T23:39:51Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1202,7 +1202,7 @@
     Availability: Available
     Price: Rs 5,850.00 PKR
 - [White Kalidar Kurta – Andaleeb Collection by Zananii](https://zananii.com/products/plain-white-kurta-with-brown-piping-and-buttons): White lawn cotton kurta with brown piping and button details. A refined piece from Zananii’s Andaleeb Collection, blending simplicity with timeless charm.
-  Updated: 2026-07-28T17:04:54Z
+  Updated: 2026-11-16T14:59:10Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1244,7 +1244,7 @@
     Availability: Available
     Price: Rs 6,000.00 PKR
 - [Maroon Malai Lawn Kurta with Colorful Buttons – Ramz by Zananii](https://zananii.com/products/maroon-long-kurta-with-colorful-buttons): Stay effortlessly elegant in this maroon malai lawn kurta. Soft, comfy, and detailed with colorful buttons — perfect for everyday wear with a refined touch.
-  Updated: 2026-07-28T17:04:46Z
+  Updated: 2026-11-15T12:39:21Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1286,7 +1286,7 @@
     Availability: Available
     Price: Rs 3,799.00 PKR
 - [White Mul Lawn Kurta Shirt – Zoya Collection by Zananii](https://zananii.com/products/white-shirt-with-light-dark-blue-piping-on-it): A short white mul lawn kurta with a mandarin collar and neat piping. The Zoya Collection by Zananii offers timeless comfort and effortless everyday style.
-  Updated: 2026-07-28T17:04:33Z
+  Updated: 2026-11-21T00:54:26Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1307,7 +1307,7 @@
     Availability: Available
     Price: Rs 3,799.00 PKR
 - [Linen Button-Down Shirt – Zoya Collection by Zananii](https://zananii.com/products/black-button-down-shirt-with-blue-lace-finishing): A breezy linen shirt with blue lace finishing, cuffed sleeves, and crisp detailing. The Zoya Collection blends modern elegance with everyday comfort.
-  Updated: 2026-07-28T17:04:33Z
+  Updated: 2026-11-19T03:53:30Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1797,7 +1797,7 @@
     Availability: Available
     Price: Rs 15,895.00 PKR
 - [Khusbakht Couture KCT-07 – Korean Silk Formal 3-Piece Ensemble](https://zananii.com/products/khusbakht-couture-kct-07): Striking Korean silk formal outfit featuring appliqué and organza details, paired with balloon shalwar and Mukesh chiffon dupatta. Perfect for Eid or festive occasions. Dry clean only.
-  Updated: 2026-09-28T11:35:51Z
+  Updated: 2026-11-16T14:42:06Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1910,14 +1910,14 @@
     Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/KCT_-_09.jpg?v=1780661028
     Price: Rs 15,999.00 PKR
 - [Maroon Potli Bag | Floral Net Handbag for Weddings | Zananii by KAH](https://zananii.com/products/maroon-potli-bag): Shop maroon potli bag with floral lace detailing, resham tassels & beaded handle. Perfect ethnic handbag for weddings, festive wear & parties.
-  Updated: 2026-06-25T01:18:46Z
+  Updated: 2026-11-19T14:03:56Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/5_21cb1321-4b61-40a3-a133-832ab9f573ba.jpg?v=1781783834
   Price: Rs 7,499.00 PKR
 - [Beige Potli Bag | Pearl Handle Net Handbag for Weddings | Zananii by KAH](https://zananii.com/products/beige-potli-bag): Shop beige potli bag with embroidered net fabric, pearl handle, pearl tassel chain & resham tassels. Elegant ethnic handbag for weddings & festive wear.
-  Updated: 2026-06-24T13:10:58Z
+  Updated: 2026-11-19T15:00:56Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1931,7 +1931,7 @@
   Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/KCT-09.jpg?v=1781785222
   Price: Rs 6,200.00 PKR
 - [Black & White Envelope Bag | Embroidered Clutch | Zananii by KAH](https://zananii.com/products/black-white-envelope-bag): Shop black & white embroidered envelope bag with Crosia button closure. Elegant compact clutch for festive events & evening gatherings.
-  Updated: 2026-06-24T13:14:36Z
+  Updated: 2026-11-20T07:33:47Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -2024,7 +2024,7 @@
     Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/Maroon_Shalwar_-_DHD_02.webp?v=1784036987
     Price: Rs 4,400.00 PKR
 - [Straight Trousers for Women in Slub Viscose | Zananii by KAH](https://zananii.com/products/straight-trouser): Shop women's straight trousers crafted from premium slub viscose. Lightweight, comfortable, and designed for everyday wear with kurtas and eastern outfits.
-  Updated: 2026-08-05T12:27:05Z
+  Updated: 2026-11-18T02:58:26Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -2045,7 +2045,7 @@
     Availability: Available
     Price: Rs 3,199.00 PKR
 - [Slub Viscose Culotte Pants for Women | Zananii by KAH](https://zananii.com/products/culotte-pants): Shop women's culotte pants crafted from premium slub viscose. Lightweight, breathable, and designed for everyday comfort with a relaxed, modern silhouette.
-  Updated: 2026-08-06T00:17:35Z
+  Updated: 2026-11-15T23:13:01Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -2214,7 +2214,7 @@
     Availability: Available
     Price: Rs 4,499.00 PKR
 - [Premium Korean Silk Balloon Pants for Women | Zananii by KAH](https://zananii.com/products/classic-balloon-pants): Shop Classic Balloon Pants crafted from premium Korean silk. Designed with a graceful balloon silhouette for festive wear, formal occasions, and modern eastern styling.
-  Updated: 2026-08-05T12:02:09Z
+  Updated: 2026-11-17T02:42:11Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
