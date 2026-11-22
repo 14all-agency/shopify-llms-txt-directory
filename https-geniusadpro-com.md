@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-03-14T23:38:05Z
 - Contact Email: support@geniusadvertisingagency.com
-- Updated At: 2026-11-15T00:27:02.405Z
+- Updated At: 2026-11-22T00:35:09.632Z
 
 ## Products
 
@@ -52,8 +52,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0757/4424/8048/files/genius-ad-pro-reddit-ads-management-cover.png?v=1794521053
   Price: $299.00 USD
-- [SEO Services for Organic Search Growth | Genius Ad Pro](https://geniusadpro.com/products/search-engine-optimization-improve-organic-website-rankings-seo): Improve organic search visibility with SEO services that cover technical audits, keyword research, on-page updates, and content priorities for your website.
-  Updated: 2026-11-14T13:44:57Z
+- [SEO & Answer Engine Optimization Services | Genius Ad Pro](https://geniusadpro.com/products/search-engine-optimization-improve-organic-website-rankings-seo): SEO services with Answer Engine Optimization (AEO), including technical audits, keyword research, on-page improvements, and content updates for AI-powered search.
+  Updated: 2026-11-16T02:46:54Z
   Vendor: Genius Ad Pro
   Product Type: 
   Availability: Available
@@ -101,14 +101,28 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0757/4424/8048/files/genius-ad-pro-conversion-rate-optimization-cover.png?v=1794521283
   Price: $199.00 USD
+- [Website Design & Redesign for $199 | Genius Ad Pro](https://geniusadpro.com/products/website-design-and-redesign): Get site-wide website design or redesign for $199 on Shopify, WordPress, or Wix. Includes a design mockup and usually takes less than two weeks to complete.
+  Updated: 2026-11-17T14:28:22Z
+  Vendor: Genius Ad Pro
+  Product Type: Website Design Service
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0757/4424/8048/files/site-wide-website-redesign.png?v=1794752865
+  Price: $199.00 USD
+- [ChatGPT Ads Management for $299 | Genius Ad Pro](https://geniusadpro.com/products/chatgpt-ads-management): Get senior-led ChatGPT Ads management for $299 per month. Includes campaign planning, setup, ad creative guidance, optimization, and reporting.
+  Updated: 2026-11-17T07:19:34Z
+  Vendor: Genius Ad Pro
+  Product Type:  Management
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0757/4424/8048/files/genius-ad-pro-chatgpt-ads-management.png?v=1794753597
+  Price: $299.00 USD
 
 ## Collections
 
 - [Marketing Services](https://geniusadpro.com/collections/marketing-services): Explore managed Google Ads, Meta Ads, LinkedIn Ads, Bing Ads, SEO, social media, email marketing, and conversion optimization services from Genius Ad Pro.
-  Updated: 2026-11-12T21:34:02Z
-  Total Products: 14
+  Updated: 2026-11-15T14:46:51Z
+  Total Products: 16
 - [Brand Visibility Growth Marketing](https://geniusadpro.com/collections/brand-visibility-growth-marketing): Explore growth marketing that combines SEO, email marketing, and targeted  to help businesses improve brand visibility and reach new audiences.
-  Updated: 2026-11-12T21:38:30Z
+  Updated: 2026-11-15T14:46:51Z
   Total Products: 7
 
 ## Blogs
@@ -597,6 +611,18 @@
     Updated: 2026-11-15T00:22:38Z
     Author: Albert Far
     Tags: , conversion rate optimization, marketing, seo, social media marketing
+  - [Maximize  ROI with Strategic SEO Techniques](https://geniusadpro.com/blogs/news/maximize--roi-with-strategic-seo-techniques): Maximize  ROI with Strategic SEO Techniques
+    Updated: 2026-11-16T01:27:49Z
+    Author: Albert Far
+    Tags: , conversion rate optimization, marketing, seo, social media marketing
+  - [Why Your Website Traffic Is Not Turning Into Leads](https://geniusadpro.com/blogs/news/website-traffic-not-turning-into-leads): Why Your Website Traffic Is Not Turning Into Leads
+    Updated: 2026-11-17T20:31:38Z
+    Author: Genius Ad Pro
+    Tags: , Conversion Rate Optimization, SEO, Web Design
+  - [Google Ads Search Terms vs Keywords: What Owners Miss](https://geniusadpro.com/blogs/news/google-ads-search-terms-vs-keywords): Google Ads Search Terms vs Keywords: What Owners Miss
+    Updated: 2026-11-20T16:13:52Z
+    Author: Genius Ad Pro
+    Tags: Google Ads, Paid Search, Search Intent
 
 ## Store Pages
 
