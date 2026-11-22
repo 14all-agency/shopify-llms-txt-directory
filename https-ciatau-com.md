@@ -6,7 +6,7 @@
 - Timezone: Europe/Vilnius
 - Created At: 2024-10-31T17:49:19Z
 - Contact Email: hello@ciatau.com
-- Updated At: 2026-11-15T00:29:37.740Z
+- Updated At: 2026-11-22T00:35:02.626Z
 
 ## Products
 
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0861/1440/2569/files/Pink_Folk_Pattern_Ribbon_Scarf_CIATAU.jpg?v=1784725400
   Price: €35.00 EUR
 - [Latte Baltic Folk Silk Ribbon, 100% Silk | CIATAU](https://ciatau.com/products/latte-folk-pattern-silk-ribbon-scarf): Latte Baltic folk motif on 100% silk. Style as a headband, ponytail wrap, or bag charm. 85x5cm / 34x2in, hand-sewn hem, gift-ready.
-  Updated: 2026-09-06T11:22:56Z
+  Updated: 2026-11-17T09:04:36Z
   Vendor: CIATAU
   Product Type: Silk Ribbon Scarf
   Availability: Available
@@ -105,7 +105,7 @@
 ## Collections
 
 - [Folk Pattern Silk Ribbon Scarves](https://ciatau.com/collections/folk-pattern-silk-ribbon-scarves): Silk ribbon scarves with a modern take on traditional Baltic folk patterns. 100% silk, 85x5cm, styled as a headband, ponytail wrap, or bag charm.
-  Updated: 2026-09-07T11:19:27Z
+  Updated: 2026-11-17T12:22:04Z
   Total Products: 3
 - [Large Silk Scarves](https://ciatau.com/collections/large-silk-scarves): Large 90x90cm silk scarves with an exclusive Baltic folk pattern and gold-plated pendant. 100% silk, hand-sewn hem.
   Updated: 2026-09-15T11:19:40Z
