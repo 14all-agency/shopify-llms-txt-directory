@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-08-25T06:45:00Z
 - Contact Email: momo128885@gmail.com
-- Updated At: 2026-11-15T00:55:56.416Z
+- Updated At: 2026-11-22T01:09:47.305Z
 
 ## Products
 
@@ -17,8 +17,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/Skincare_Set.png?v=1789719061
   Price: $79.91 USD
-- [【Thanksgiving 】【Black Friday Cyber Monday】Flawless Glow BB Cream – Hydrating Skin Tint with Natural Coverage & Pore-Blurring Finish  （23 Light Beige）](https://www.kadgolo.com/products/flawless-glow-bb-cream-hydrating-skin-tint-with-natural-coverage-pore-blurring-finish): KadGolo Flawless Glow BB Cream 23 Light Beige Feature Details Type Lightweight BB Cream / Skin Tint Coverage Buildable, Natural-Looking Coverage Finish Fresh
-  Updated: 2026-11-14T21:54:01Z
+- [Flawless Glow BB Cream – Hydrating Skin Tint with Natural Coverage](https://www.kadgolo.com/products/flawless-glow-bb-cream-hydrating-skin-tint-with-natural-coverage-pore-blurring-finish): KadGolo Flawless Glow BB Cream 23 Light Beige Feature Details Type Lightweight BB Cream / Skin Tint Coverage Buildable, Natural-Looking Coverage Finish Fresh
+  Updated: 2026-11-22T00:00:06Z
   Vendor: Mein Shop
   Product Type: 
   Availability: Available
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/KadGolo_Green_Tea_Extract_Mask.png?v=1789614896
   Price: $59.91 USD
 - [Charcoal Peel-Off Face Mask with Charcoal Powder – Facial Cleansing Mask](https://www.kadgolo.com/products/charcoal-peel-off-face-mask-with-charcoal-powder): Formulated with charcoal powder, this mask is designed for a refreshing cleansing-focused skincare experience
-  Updated: 2026-10-20T00:48:10Z
+  Updated: 2026-11-16T02:32:41Z
   Vendor: Mein Shop
   Product Type: 
   Availability: Available
@@ -186,7 +186,7 @@
   Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/KadGolo_Salicylic_Acid_Cleanser.png?v=1789438225
   Price: $37.91 USD
 - [Vitamin C Brightening Face Serum with Niacinamide & Arbutin – Radiance & Even-Looking Skin Tone, 30ml](https://www.kadgolo.com/products/vitamin-c-brightening-face-serum-with-niacinamide): Give your daily skincare routine a fresh boost with our Vitamin C Illuminating Serum, a lightweight facial serum designed to help improve the look of dull
-  Updated: 2026-11-08T03:07:21Z
+  Updated: 2026-11-16T17:47:56Z
   Vendor: Mein Shop
   Product Type: 
   Availability: Available
@@ -262,31 +262,109 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/cream-makeup-fixer-product-guide.png?v=1791798908
   Price: $89.91 USD
-- [【BUY 2 GET 1 FREE】【Thanksgiving 】【Black Friday Cyber Monday】Hydrating Complexion Beauty Cream with Natural-Looking Coverage, 40ml](https://www.kadgolo.com/products/hydrating-complexion-beauty-cream-with-natural-looking-coverage): Discover the beauty of effortless everyday makeup with Complexion Beauty Cream, a lightweight BB cream designed to enhance your natural complexion with a smooth
-  Updated: 2026-11-05T13:02:51Z
+- [【BUY 2 GET 1 FREE】Hydrating Complexion Beauty Cream with Natural-Looking Coverage, 40ml](https://www.kadgolo.com/products/hydrating-complexion-beauty-cream-with-natural-looking-coverage): Discover the beauty of effortless everyday makeup with Complexion Beauty Cream, a lightweight BB cream designed to enhance your natural complexion with a smooth
+  Updated: 2026-11-21T02:12:10Z
   Vendor: KadGolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/kadgolo-bb-cream-texture-and-benefits.png?v=1792131093
   Price: $48.91 USD
-- [【2nd Item 50% OFF】【Thanksgiving 】【Black Friday Cyber Monday】Flawless Glow BB Cream – Hydrating Natural Coverage, 40ml](https://www.kadgolo.com/products/flawless-glow-bb-cream-hydrating-natural-coverage): Discover the beauty of effortless everyday makeup with Complexion Beauty Cream, a lightweight BB cream designed to enhance your natural complexion with a smooth
-  Updated: 2026-11-13T02:36:23Z
+- [【2nd Item 50% OFF】Flawless Glow BB Cream – Hydrating Natural Coverage, 40ml](https://www.kadgolo.com/products/flawless-glow-bb-cream-hydrating-natural-coverage): Discover the beauty of effortless everyday makeup with Complexion Beauty Cream, a lightweight BB cream designed to enhance your natural complexion with a smooth
+  Updated: 2026-11-21T03:05:50Z
   Vendor: KadGolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/kadgolo-bb-cream-skincare-ingredients.png?v=1792131093
   Price: $39.91 USD
+- [Fine-Tip Liquid Eyeliner 2-Pack – Soft Black or Cool Coffee Brown](https://www.kadgolo.com/products/fine-tip-liquid-eyeliner): Trace a subtle lash line or finish with a wing. Choose from three shade and tip combinations, with two matching eyeliner pens in each pack
+  Updated: 2026-11-20T09:06:46Z
+  Vendor: KadGolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/liquid-eyeliner-three-look-shade-guide.png?v=1795054334
+  - [Black sponge tip](https://www.kadgolo.com/products/fine-tip-liquid-eyeliner?variant=58422258794836)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/soft-black-sponge-tip-eyeliner-2-pack.png?v=1795054331
+    Price: $44.91 USD
+  - [Black soft-bristled head](https://www.kadgolo.com/products/fine-tip-liquid-eyeliner?variant=58422258827604)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/soft-black-brush-tip-eyeliner-2-pack.png?v=1795054331
+    Price: $44.91 USD
+  - [Brown, soft-haired head](https://www.kadgolo.com/products/fine-tip-liquid-eyeliner?variant=58422258860372)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/cool-coffee-brown-brush-tip-eyeliner-2-pack_png.png?v=1795054330
+    Price: $44.91 USD
+- [Precision Eyeliner – Fine-Tip Liquid Liner or Blendable Eye Pencil - 2 Pcs](https://www.kadgolo.com/products/precision-eyeliner-fine-tip-liquid-liner): Choose your eyeliner by the look you love. For a crisp wing, trace the upper lash line with the liquid liner’s flexible 0.1 mm brush tip
+  Updated: 2026-11-20T08:11:02Z
+  Vendor: KadGolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/liquid-brush-vs-pencil-tip-detail.png?v=1795058770
+  - [Milk-based coffee](https://www.kadgolo.com/products/precision-eyeliner-fine-tip-liquid-liner?variant=58423114957140)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/03-latte-brown-eyeliner-pencil.png?v=1795058763
+    Price: $44.91 USD
+  - [Rich Black](https://www.kadgolo.com/products/precision-eyeliner-fine-tip-liquid-liner?variant=58423114989908)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/02-black-liquid-eyeliner-fine-tip.png?v=1795058767
+    Price: $44.91 USD
+  - [Warm Brown](https://www.kadgolo.com/products/precision-eyeliner-fine-tip-liquid-liner?variant=58423115022676)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/02-warm-brown-eyeliner-pencil.png?v=1795058763
+    Price: $44.91 USD
+  - [Sophisticated Brown](https://www.kadgolo.com/products/precision-eyeliner-fine-tip-liquid-liner?variant=58423115055444)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/01-brown-liquid-eyeliner-swatch.png?v=1795058765
+    Price: $44.91 USD
+- [Fine-Tip Liquid Eyeliner Pen – Straight or 18° Angled Tip - 2 Pcs](https://www.kadgolo.com/products/fine-tip-liquid-eyeliner-pen): Trace the upper lash line for subtle definition, or extend the line at the outer corner for a tapered wing
+  Updated: 2026-11-20T07:06:21Z
+  Vendor: KadGolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/black-precision-eyeliner-model-front-portrait.png?v=1795067806
+  - [Precision Sculpting Pen in Black-Tea Grey](https://www.kadgolo.com/products/fine-tip-liquid-eyeliner-pen?variant=58423211688276)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/precision-liquid-eyeliner-06-black-tea-gray.png?v=1795067800
+    Price: $44.91 USD
+  - [Black Precision Carving Pen](https://www.kadgolo.com/products/fine-tip-liquid-eyeliner-pen?variant=58423211721044)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/precision-liquid-eyeliner-01-black.png?v=1795067798
+    Price: $44.91 USD
+  - [Precision Sculpting Pencil in Ash Brown](https://www.kadgolo.com/products/fine-tip-liquid-eyeliner-pen?variant=58423211753812)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/precision-liquid-eyeliner-04-gray-brown.png?v=1795067799
+    Price: $44.91 USD
+  - [Precision Sculpting Pen in Cool Tea Brown](https://www.kadgolo.com/products/fine-tip-liquid-eyeliner-pen?variant=58423211786580)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/precision-liquid-eyeliner-03-cool-tea-brown.png?v=1795067800
+    Price: $44.91 USD
+  - [Precision Sculpting Pen – Deep Brown](https://www.kadgolo.com/products/fine-tip-liquid-eyeliner-pen?variant=58423211819348)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/precision-liquid-eyeliner-02-dark-brown.png?v=1795067799
+    Price: $44.91 USD
+  - [Black calligraphy pen](https://www.kadgolo.com/products/fine-tip-liquid-eyeliner-pen?variant=58423211852116)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/artist-angled-liquid-eyeliner-01-black.png?v=1795067798
+    Price: $44.91 USD
+  - [Calligraphy-nib pen in Cool Tea Brown](https://www.kadgolo.com/products/fine-tip-liquid-eyeliner-pen?variant=58423211884884)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/artist-angled-liquid-eyeliner-03-cool-tea-brown.png?v=1795067800
+    Price: $44.91 USD
+  - [Dark brown calligraphy pen](https://www.kadgolo.com/products/fine-tip-liquid-eyeliner-pen?variant=58423211917652)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1066/7261/9860/files/artist-angled-liquid-eyeliner-02-dark-brown.png?v=1795067800
+    Price: $44.91 USD
 
 ## Collections
 
 - [Startseite](https://www.kadgolo.com/collections/frontpage)
-  Updated: 2026-10-13T05:41:04Z
-  Total Products: 1
-- [All Products](https://www.kadgolo.com/collections/all-products)
-  Updated: 2026-11-14T12:29:36Z
-  Total Products: 28
+  Updated: 2026-11-21T08:03:36Z
+  Total Products: 41
+- [All Products](https://www.kadgolo.com/collections/all-products): All Products
+  Updated: 2026-11-21T08:03:36Z
+  Total Products: 41
 - [Facial Serum](https://www.kadgolo.com/collections/facial-serum)
-  Updated: 2026-11-08T12:29:08Z
+  Updated: 2026-11-17T12:38:11Z
   Total Products: 6
 - [Facial mask](https://www.kadgolo.com/collections/facial-mask)
   Updated: 2026-10-13T05:41:04Z
@@ -295,8 +373,8 @@
   Updated: 2026-10-31T11:31:35Z
   Total Products: 6
 - [BB Cream](https://www.kadgolo.com/collections/bb-cream)
-  Updated: 2026-11-14T12:29:36Z
-  Total Products: 3
+  Updated: 2026-11-21T08:03:36Z
+  Total Products: 11
 - [Moisturizer](https://www.kadgolo.com/collections/moisturizer)
   Updated: 2026-10-13T05:41:04Z
   Total Products: 3
@@ -305,6 +383,9 @@
   Total Products: 2
 - [Other cosmetics](https://www.kadgolo.com/collections/other-cosmetics)
   Updated: 2026-10-31T11:31:35Z
+  Total Products: 3
+- [Eyeliner pencil](https://www.kadgolo.com/collections/eyeliner-pencil): Eyeliner pencil
+  Updated: 2026-11-19T07:52:14Z
   Total Products: 3
 
 ## Blogs
@@ -546,6 +627,66 @@
     Updated: 2026-11-15T00:44:07Z
     Author: User
     Tags: anti-aging, benefits of retinol for skin, dull skin, retinol, revitalizing retinol serum, serum, skincare, youthful complexion
+  - [The Ultimate Guide to Using Charcoal Peel-Off Face Masks for Clearer Skin](https://www.kadgolo.com/blogs/neuigkeiten/the-ultimate-guide-to-using-charcoal-peel-off-face-masks-for-clearer-skin): The Ultimate Guide to Using Charcoal Peel-Off Face Masks for Clearer Skin
+    Updated: 2026-11-16T00:12:15Z
+    Author: User
+    Tags: charcoal, charcoal masks, clearer skin routine, face masks, masks, peel-off mask tips, skin care benefits, skincare
+  - [Revitalize Your Skincare with Retinol Facial Cream 0.3% Featuring Hyaluronic Acid and Vitamin C for Deep Hydration](https://www.kadgolo.com/blogs/neuigkeiten/revitalize-your-skincare-with-retinol-facial-cream-0-3-featuring-hyaluronic-acid-and-vitamin-c-for-deep-hydration): Revitalize Your Skincare with Retinol Facial Cream 0.3% Featuring Hyaluronic Acid and Vitamin C for Deep Hydration
+    Updated: 2026-11-16T00:50:05Z
+    Author: User
+    Tags: benefits of retinol and hyaluronic acid, best retinol cream for hydration, facial cream, hyaluronic acid, hydration, retinol, skincare, vitamin c
+  - [Hydrate and Softly Glow with Our Milk Peel-Off Face Mask Ultimate Guide](https://www.kadgolo.com/blogs/neuigkeiten/hydrate-and-softly-glow-with-our-milk-peel-off-face-mask-ultimate-guide): Hydrate and Softly Glow with Our Milk Peel-Off Face Mask Ultimate Guide
+    Updated: 2026-11-16T00:50:22Z
+    Author: User
+    Tags: best face masks for hydration, face mask, glow, how to use milk peel mask, mask, milk mask, peel off, skincare
+  - [Discover the Natural Benefits of Birch Sap Hydrating Face Cream with Hyaluronic Acid for Dry and Sensitive Skin](https://www.kadgolo.com/blogs/neuigkeiten/discover-the-natural-benefits-of-birch-sap-hydrating-face-cream-with-hyaluronic-acid-for-dry-and-sensitive-skin): Discover the Natural Benefits of Birch Sap Hydrating Face Cream with Hyaluronic Acid for Dry and Sensitive Skin
+    Updated: 2026-11-17T00:49:18Z
+    Author: User
+    Tags: birch, dry skin, face cream, hyaluronic acid benefits, hydrating, natural skincare products, sensitive skin, skin
+  - [Unlock Glowing Skin: Discover the Benefits of Bio-Collagen Facial Mask Hydrating and Firming Sheet Mask for Smooth and Radiant Skin](https://www.kadgolo.com/blogs/neuigkeiten/unlock-glowing-skin-discover-the-benefits-of-bio-collagen-facial-mask-hydrating-and-firming-sheet-mask-for-smooth-and-radiant-skin): Unlock Glowing Skin: Discover the Benefits of Bio-Collagen Facial Mask Hydrating and Firming Sheet Mask for Smooth and Radiant Skin
+    Updated: 2026-11-17T00:49:38Z
+    Author: User
+    Tags: bio-collagen benefits, collagen, facial , firming sheet mask, glowing, hydrating mask, radiant skin tips, skincare
+  - [Whipped Tallow Moisturizer: The Benefits of Grass-Fed Tallow for Sensitive Skin](https://www.kadgolo.com/blogs/neuigkeiten/whipped-tallow-moisturizer-the-benefits-of-grass-fed-tallow-for-sensitive-skin): Whipped Tallow Moisturizer: The Benefits of Grass-Fed Tallow for Sensitive Skin
+    Updated: 2026-11-18T01:02:40Z
+    Author: User
+    Tags: grass-fed tallow, moisturizer, natural skin care, organic tallow moisturizer, sensitive, skin benefits, tallow, whipped moisturizer
+  - [Hydrate and Revitalize: The Benefits of Using a Turmeric Peel-Off Face Mask for Soothing Facial Care](https://www.kadgolo.com/blogs/neuigkeiten/hydrate-and-revitalize-the-benefits-of-using-a-turmeric-peel-off-face-mask-for-soothing-facial-care): Hydrate and Revitalize: The Benefits of Using a Turmeric Peel-Off Face Mask for Soothing Facial Care
+    Updated: 2026-11-18T01:03:04Z
+    Author: User
+    Tags: face mask, herbal benefits, mask, peel-off mask, revitalizing facial care, skincare, turmeric, turmeric face mask benefits
+  - [Top Benefits of Turmeric Peel-Off Face Mask for Hydrated and Refreshed Skin](https://www.kadgolo.com/blogs/neuigkeiten/top-benefits-of-turmeric-peel-off-face-mask-for-hydrated-and-refreshed-skin): Top Benefits of Turmeric Peel-Off Face Mask for Hydrated and Refreshed Skin
+    Updated: 2026-11-19T01:03:01Z
+    Author: User
+    Tags: benefits of turmeric mask, mask, peel-off mask, refreshed skin tips, skin, skin hydration, turmeric, turmeric face
+  - [Hydrate and Soften Your Skin Effortlessly with Milk Peel-Off Face Mask](https://www.kadgolo.com/blogs/neuigkeiten/hydrate-and-soften-your-skin-effortlessly-with-milk-peel-off-face-mask): Hydrate and Soften Your Skin Effortlessly with Milk Peel-Off Face Mask
+    Updated: 2026-11-19T01:03:23Z
+    Author: User
+    Tags: face mask, gentle exfoliation mask, hydrate skin naturally, mask, milk, peel off, skincare, soft skin
+  - [0.1 Retinol Serum: A Complete Guide to Smoother and Firmer Facial Skin](https://www.kadgolo.com/blogs/neuigkeiten/0-1-retinol-serum-a-complete-guide-to-smoother-and-firmer-facial-skin): 0.1 Retinol Serum: A Complete Guide to Smoother and Firmer Facial Skin
+    Updated: 2026-11-20T01:01:03Z
+    Author: User
+    Tags: anti-aging serum, benefits of retinol serum, facial treatments, how to use retinol, retinol, serum, skincare, smooth skin
+  - [Enhance Your Everyday Beauty Routine with KadGolo BB Premium Beauty Balm Hydrating Cream for Natural Coverage and Skin Perfection](https://www.kadgolo.com/blogs/neuigkeiten/enhance-your-everyday-beauty-routine-with-kadgolo-bb-premium-beauty-balm-hydrating-cream-for-natural-coverage-and-skin-perfection): Enhance Your Everyday Beauty Routine with KadGolo BB Premium Beauty Balm Hydrating Cream for Natural Coverage and Skin Perfection
+    Updated: 2026-11-20T01:01:26Z
+    Author: User
+    Tags: balm, bb cream benefits, beauty, beauty routine, everyday beauty tips, hydration, natural coverage, skin perfection
+  - [10 Reasons the Green Tea Peel-Off Face Mask is Your Ultimate Refreshing and Hydrating Solution for Clear Skin](https://www.kadgolo.com/blogs/neuigkeiten/10-reasons-the-green-tea-peel-off-face-mask-is-your-ultimate-refreshing-and-hydrating-solution-for-clear-skin): 10 Reasons the Green Tea Peel-Off Face Mask is Your Ultimate Refreshing and Hydrating Solution for Clear Skin
+    Updated: 2026-11-21T00:45:45Z
+    Author: User
+    Tags: clear skin benefits, face mask, green, hydrating solution, mask, peel-off mask, refreshing skin , skin
+  - [Cream and Makeup Fixer Set for Effortless Natural Coverage and Radiant Finish](https://www.kadgolo.com/blogs/neuigkeiten/cream-and-makeup-fixer-set-for-effortless-natural-coverage-and-radiant-finish): Cream and Makeup Fixer Set for Effortless Natural Coverage and Radiant Finish
+    Updated: 2026-11-21T00:46:00Z
+    Author: User
+    Tags: beauty products, coverage, cream, effortless application, makeup, makeup setting techniques, natural finish, radiant skin tips
+  - [Maximize Skin Benefits with Whipped Tallow Cream: An Unscented Moisturizer for All Skin Types](https://www.kadgolo.com/blogs/neuigkeiten/maximize-skin-benefits-with-whipped-tallow-cream-an-unscented-moisturizer-for-all-skin-types): Maximize Skin Benefits with Whipped Tallow Cream: An Unscented Moisturizer for All Skin Types
+    Updated: 2026-11-22T00:31:34Z
+    Author: User
+    Tags: all skin types, moisturizer, natural tallow cream, skin benefits, skincare, tallow, unscented moisturizer, whipped cream
+  - [Illuminate This Thanksgiving with Flawless Glow BB Cream for a Natural Radiance Protection with Hydrating Pore-Blurring Finish for Radiant Skin](https://www.kadgolo.com/blogs/neuigkeiten/illuminate-this-thanksgiving-with-flawless-glow-bb-cream-for-a-natural-radiance-protection-with-hydrating-pore-blurring-finish-for-radiant-skin): Illuminate This Thanksgiving with Flawless Glow BB Cream for a Natural Radiance Protection with Hydrating Pore-Blurring Finish for Radiant Skin
+    Updated: 2026-11-22T00:31:51Z
+    Author: User
+    Tags: bb cream, flawless skin, glow, hydrating face cream, hydration, natural beauty, pore-blurring makeup, radiance
 
 ## Store Pages
 
