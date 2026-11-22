@@ -6,59 +6,59 @@
 - Timezone: America/Chicago
 - Created At: 2026-08-19T15:43:14Z
 - Contact Email: shopifyadmin@futureshirts.com
-- Updated At: 2026-11-14T01:20:55.297Z
+- Updated At: 2026-11-22T01:03:04.866Z
 
 ## Products
 
 - [It Ain't The Whiskey Photo Tee](https://store.jakeworthington.com/products/it-aint-the-whiskey-photo-tee): It Ain't The Whiskey Photo Tee in black with front print only.
-  Updated: 2026-10-12T18:55:53Z
+  Updated: 2026-11-20T15:00:06Z
   Vendor: Jake Worthington
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWAINTTHEWHISKEYTEE.png?v=1788981046
   - [S](https://store.jakeworthington.com/products/it-aint-the-whiskey-photo-tee?variant=43745376501837)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://store.jakeworthington.com/products/it-aint-the-whiskey-photo-tee?variant=43745376534605)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://store.jakeworthington.com/products/it-aint-the-whiskey-photo-tee?variant=43745376567373)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://store.jakeworthington.com/products/it-aint-the-whiskey-photo-tee?variant=43745376600141)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://store.jakeworthington.com/products/it-aint-the-whiskey-photo-tee?variant=43745376632909)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [Straws & Ralls Tee](https://store.jakeworthington.com/products/straws-ralls-tee): Straws & Ralls Tee in heather columbia blue with front print only.
-  Updated: 2026-10-27T16:45:09Z
+  Updated: 2026-11-20T15:00:07Z
   Vendor: Jake Worthington
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWSTRAWSTEE.png?v=1788981202
   - [S](https://store.jakeworthington.com/products/straws-ralls-tee?variant=43745389871181)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://store.jakeworthington.com/products/straws-ralls-tee?variant=43745389903949)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://store.jakeworthington.com/products/straws-ralls-tee?variant=43745389936717)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://store.jakeworthington.com/products/straws-ralls-tee?variant=43745389969485)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://store.jakeworthington.com/products/straws-ralls-tee?variant=43745390002253)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [Cowboy Trucker Hat](https://store.jakeworthington.com/products/cowboy-trucker-hat): Cowboy Trucker Hat in black with embroidery on front and mesh back.
-  Updated: 2026-10-22T16:36:29Z
+  Updated: 2026-11-20T15:00:08Z
   Vendor: Jake Worthington
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWHATHAT.png?v=1788981229
-  Price: $35.00 USD
+  Price: $24.50 USD
 - [Logo Hat](https://store.jakeworthington.com/products/logo-hat): Jake Worthington Logo Hat in burnt orange with embroidery on front.
   Updated: 2026-10-29T15:10:42Z
   Vendor: Jake Worthington
@@ -163,59 +163,59 @@
     Availability: Available
     Price: $65.00 USD
 - [Hello Shitty Day Koozie Jake Worthington Tour Merch](https://store.jakeworthington.com/products/hello-shitty-day-koozie): Double sided koozie
-  Updated: 2026-10-12T18:55:55Z
+  Updated: 2026-11-20T21:59:16Z
   Vendor: Jake Worthington
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWKOOZIE-2.png?v=1790273672
   Price: $5.00 USD
 - [SATST Tee](https://store.jakeworthington.com/products/satst-tee): Single at the Same Time Tee in grey with front and back print.
-  Updated: 2026-11-05T17:01:13Z
+  Updated: 2026-11-20T15:00:13Z
   Vendor: Jake Worthington
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWSATSTTEE-2.png?v=1790709870
   - [S](https://store.jakeworthington.com/products/satst-tee?variant=67555863101517)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://store.jakeworthington.com/products/satst-tee?variant=67555863134285)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://store.jakeworthington.com/products/satst-tee?variant=67555863167053)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://store.jakeworthington.com/products/satst-tee?variant=67555863199821)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://store.jakeworthington.com/products/satst-tee?variant=67555863232589)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [3XL](https://store.jakeworthington.com/products/satst-tee?variant=67900862234701)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [Shitty Day Tee](https://store.jakeworthington.com/products/shitty-day-tee): Shitty Day Tee in heather grey with front and back print.
-  Updated: 2026-10-12T18:55:55Z
+  Updated: 2026-11-20T15:00:08Z
   Vendor: Jake Worthington
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWSHITTYDAYTEE.png?v=1790710084
   - [S](https://store.jakeworthington.com/products/shitty-day-tee?variant=67555866312781)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://store.jakeworthington.com/products/shitty-day-tee?variant=67555866345549)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://store.jakeworthington.com/products/shitty-day-tee?variant=67555866378317)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://store.jakeworthington.com/products/shitty-day-tee?variant=67555866411085)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://store.jakeworthington.com/products/shitty-day-tee?variant=67555866443853)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [When I Write The Song - Vinyl (SIGNED)](https://store.jakeworthington.com/products/when-i-write-the-song-vinyl-signed): SIGNED copy of Jake Worthington's "When I Write The Song" on standard black double vinyl.
-  Updated: 2026-10-19T18:14:40Z
+  Updated: 2026-11-20T17:54:07Z
   Vendor: Jake Worthington
   Product Type: Music
   Availability: Available
@@ -229,156 +229,156 @@
   Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWWIWTSCD.png?v=1790710494
   Price: $13.98 USD
 - [Shitty Day Koozie](https://store.jakeworthington.com/products/shitty-day-koozie): Black Shitty Day Koozie
-  Updated: 2026-10-19T18:14:41Z
+  Updated: 2026-11-20T16:54:27Z
   Vendor: Jake Worthington
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWSHITTYKOOZIE.png?v=1790710535
-  Price: $5.00 USD
+  Price: $3.50 USD
 - [TONK Koozie](https://store.jakeworthington.com/products/tonk-koozie): Black TONK Koozie
-  Updated: 2026-10-27T16:35:36Z
+  Updated: 2026-11-20T15:00:09Z
   Vendor: Jake Worthington
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWTONKKOOZIE.png?v=1790710602
-  Price: $5.00 USD
+  Price: $3.50 USD
 - [TONK Tee](https://store.jakeworthington.com/products/tonk-tee-black): OG TONK Tee in black with front print only.
-  Updated: 2026-10-27T16:10:06Z
+  Updated: 2026-11-20T17:54:09Z
   Vendor: Jake Worthington
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWTONKTEE-BLACK.png?v=1790710703
   - [S](https://store.jakeworthington.com/products/tonk-tee-black?variant=67555876929613)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://store.jakeworthington.com/products/tonk-tee-black?variant=67555876962381)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://store.jakeworthington.com/products/tonk-tee-black?variant=67555876995149)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://store.jakeworthington.com/products/tonk-tee-black?variant=67555877027917)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://store.jakeworthington.com/products/tonk-tee-black?variant=67555877060685)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [Stamp Tee Jake Worthington](https://store.jakeworthington.com/products/stamp-tee): Texas Stamp Tee in black with front print.
-  Updated: 2026-11-03T21:29:16Z
+  Updated: 2026-11-20T15:00:10Z
   Vendor: Jake Worthington
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWSTAMPTEE_937ed056-8d2b-4e3c-8d43-730ea8991722.png?v=1793285820
   - [S](https://store.jakeworthington.com/products/stamp-tee?variant=67839191711821)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://store.jakeworthington.com/products/stamp-tee?variant=67839191744589)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://store.jakeworthington.com/products/stamp-tee?variant=67839191777357)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://store.jakeworthington.com/products/stamp-tee?variant=67839191810125)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://store.jakeworthington.com/products/stamp-tee?variant=67839191842893)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [Intent to Tonk Jake Worthington Tour Tee](https://store.jakeworthington.com/products/intent-to-tonk-tour-tee): Intent To Tonk Tour Tee in black with front and back print.
-  Updated: 2026-11-03T21:32:46Z
+  Updated: 2026-11-20T16:45:46Z
   Vendor: Jake Worthington
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWINTENTTOTONJTEE-2.png?v=1793286045
   - [S](https://store.jakeworthington.com/products/intent-to-tonk-tour-tee?variant=67848395849805)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://store.jakeworthington.com/products/intent-to-tonk-tour-tee?variant=67848395882573)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://store.jakeworthington.com/products/intent-to-tonk-tour-tee?variant=67848395915341)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://store.jakeworthington.com/products/intent-to-tonk-tour-tee?variant=67848395948109)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://store.jakeworthington.com/products/intent-to-tonk-tour-tee?variant=67848395980877)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [Jake Worthington Album Tour Tee](https://store.jakeworthington.com/products/album-tee): Jake Worthington Album Tour Tee in black with front and back print.
-  Updated: 2026-11-03T21:31:27Z
+  Updated: 2026-11-20T16:44:06Z
   Vendor: Jake Worthington
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWALBUMTEE.png?v=1793286413
   - [S](https://store.jakeworthington.com/products/album-tee?variant=67848465023053)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://store.jakeworthington.com/products/album-tee?variant=67848465055821)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://store.jakeworthington.com/products/album-tee?variant=67848465088589)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://store.jakeworthington.com/products/album-tee?variant=67848465121357)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://store.jakeworthington.com/products/album-tee?variant=67848465154125)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [Jake Worthington Texas Tee](https://store.jakeworthington.com/products/texas-tee): Jake Worthington Texas Tee in black with front print.
-  Updated: 2026-11-03T21:33:17Z
+  Updated: 2026-11-20T15:00:12Z
   Vendor: Jake Worthington
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWTEXASTEE.png?v=1793286527
   - [S](https://store.jakeworthington.com/products/texas-tee?variant=67848491008077)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://store.jakeworthington.com/products/texas-tee?variant=67848491040845)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://store.jakeworthington.com/products/texas-tee?variant=67848491073613)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://store.jakeworthington.com/products/texas-tee?variant=67848491106381)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://store.jakeworthington.com/products/texas-tee?variant=67848491139149)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 
 ## Collections
 
 - [Home page](https://store.jakeworthington.com/collections/frontpage)
-  Updated: 2026-11-02T18:50:33Z
+  Updated: 2026-11-21T12:14:45Z
   Total Products: 22
 - [Apparel](https://store.jakeworthington.com/collections/apparel)
-  Updated: 2026-10-29T15:10:13Z
+  Updated: 2026-11-21T12:14:45Z
   Total Products: 13
 - [Accessories](https://store.jakeworthington.com/collections/accessories)
-  Updated: 2026-11-02T18:50:33Z
+  Updated: 2026-11-21T12:14:45Z
   Total Products: 6
 - [Hats](https://store.jakeworthington.com/collections/hats)
-  Updated: 2026-11-02T18:50:33Z
+  Updated: 2026-11-20T15:00:09Z
   Total Products: 3
 - [Music](https://store.jakeworthington.com/collections/music)
-  Updated: 2026-10-19T18:14:41Z
+  Updated: 2026-11-21T12:14:45Z
   Total Products: 3
 - [All](https://store.jakeworthington.com/collections/all)
-  Updated: 2026-11-02T18:50:33Z
+  Updated: 2026-11-21T12:14:45Z
   Total Products: 21
 - [Tour Collection](https://store.jakeworthington.com/collections/tour-collection)
-  Updated: 2026-11-02T18:50:33Z
+  Updated: 2026-11-21T12:14:45Z
   Total Products: 6
 - [Archive Collection](https://store.jakeworthington.com/collections/archive-collection)
-  Updated: 2026-10-29T15:10:27Z
+  Updated: 2026-11-21T12:14:45Z
   Total Products: 12
 - [The Archive](https://store.jakeworthington.com/collections/the-archive)
-  Updated: 2026-10-29T15:11:13Z
+  Updated: 2026-11-21T12:14:45Z
   Total Products: 13
 - [EG All Products - DO NOT EDIT](https://store.jakeworthington.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu'elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-11-05T16:49:37Z
+  Updated: 2026-11-21T12:14:45Z
   Total Products: 22
 
 ## Store Pages
