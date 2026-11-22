@@ -83,92 +83,80 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2026-09-10T21:37:49Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-14T01:10:11.855Z
+- Updated At: 2026-11-22T00:58:39.974Z
 
 ## Products
 
 - [Club Country Necklace](https://grahambarham.merchmadeeasy.com/products/club-country-necklace): Silver-colored necklace
-  Updated: 2026-10-19T18:12:46Z
+  Updated: 2026-11-20T17:26:24Z
   Vendor: Graham Barham
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/1305/1726/files/GBAR_Club_Country_Necklace.webp?v=1790014876
-  Price: $25.00 USD
+  Price: $17.50 USD
 - [Club Country Bandana](https://grahambarham.merchmadeeasy.com/products/club-country-bandana): 22" bandana
-  Updated: 2026-10-15T23:19:11Z
+  Updated: 2026-11-20T15:13:01Z
   Vendor: Graham Barham
   Product Type: Bandana
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/1305/1726/files/revised_BANDANAcopyweb.webp?v=1790015758
-  Price: $20.00 USD
+  Price: $14.00 USD
 - [Oil Money Cropped Tee](https://grahambarham.merchmadeeasy.com/products/oil-money-cropped-tee): 60% combed ring-spun cotton / 40% polyester cropped t-shirt in a ladies' fit. Featuring BODY LIKE OIL MONEY printed on the front and the Club Country logo printed on the back.
-  Updated: 2026-10-30T17:51:15Z
+  Updated: 2026-11-20T04:12:11Z
   Vendor: Graham Barham
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/1305/1726/files/front_and_back_frop_bg.webp?v=1790095489
   - [S](https://grahambarham.merchmadeeasy.com/products/oil-money-cropped-tee?variant=44388771921998)
-    Availability: Available
-    Price: $35.00 USD
+    Availability: Not Available
+    Price: $24.50 USD
   - [M](https://grahambarham.merchmadeeasy.com/products/oil-money-cropped-tee?variant=44371747668046)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [L](https://grahambarham.merchmadeeasy.com/products/oil-money-cropped-tee?variant=44371747700814)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [XL](https://grahambarham.merchmadeeasy.com/products/oil-money-cropped-tee?variant=44371747733582)
-    Availability: Available
-    Price: $35.00 USD
+    Availability: Not Available
+    Price: $24.50 USD
   - [2XL](https://grahambarham.merchmadeeasy.com/products/oil-money-cropped-tee?variant=44371747766350)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $24.50 USD
 - [Club Country White Mesh Jersey](https://grahambarham.merchmadeeasy.com/products/club-country-white-mesh-jersey): 100% polyester unisex jersey in white. Features Club Country horse design on the front and 808 on the back.
-  Updated: 2026-10-18T17:55:27Z
+  Updated: 2026-11-20T07:28:52Z
   Vendor: Graham Barham
   Product Type: Jersey
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/1305/1726/files/grahamfinalfinaljersey.webp?v=1790095468
   - [S](https://grahambarham.merchmadeeasy.com/products/club-country-white-mesh-jersey?variant=44375290871886)
     Availability: Not Available
-    Price: $60.00 USD
+    Price: $42.00 USD
   - [2XL](https://grahambarham.merchmadeeasy.com/products/club-country-white-mesh-jersey?variant=44375290839118)
     Availability: Available
-    Price: $60.00 USD
-- [Club Country Hoodie](https://grahambarham.merchmadeeasy.com/products/club-country-hoodie): Cotton/polyester hoodie in black
-  Updated: 2026-10-05T13:06:32Z
-  Vendor: Graham Barham
-  Product Type: Hoodie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0761/1305/1726/files/GBHoodie-ClubCountryFinal.webp?v=1790095443
-  - [M](https://grahambarham.merchmadeeasy.com/products/club-country-hoodie?variant=44375709155406)
-    Availability: Not Available
-    Price: $75.00 USD
-  - [XL](https://grahambarham.merchmadeeasy.com/products/club-country-hoodie?variant=44375295426638)
-    Availability: Available
-    Price: $75.00 USD
+    Price: $42.00 USD
 - [Oil Money Tee](https://grahambarham.merchmadeeasy.com/products/oil-money-tee): 100% cotton heavyweight t-shirt in white. Featuring an Oil Money photo design printed on the front.
-  Updated: 2026-10-05T13:06:33Z
+  Updated: 2026-11-19T14:05:07Z
   Vendor: Graham Barham
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/1305/1726/files/GBAROilMoneyTee.png?v=1790279740
   - [L](https://grahambarham.merchmadeeasy.com/products/oil-money-tee?variant=44388874354766)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [XL](https://grahambarham.merchmadeeasy.com/products/oil-money-tee?variant=44388874387534)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
 
 ## Collections
 
 - [Home page](https://grahambarham.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-31T11:16:17Z
+  Updated: 2026-11-21T12:20:46Z
   Total Products: 6
 - [Apparel](https://grahambarham.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-31T11:16:17Z
+  Updated: 2026-11-20T12:19:08Z
   Total Products: 4
 - [Accessories](https://grahambarham.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-16T11:18:48Z
+  Updated: 2026-11-21T12:20:46Z
   Total Products: 2
 - [Hats](https://grahambarham.merchmadeeasy.com/collections/hats)
   Updated: 2026-09-28T14:11:19Z
@@ -177,7 +165,7 @@ your agent can transact everywhere.
   Updated: 2026-09-28T14:11:19Z
   Total Products: 0
 - [All](https://grahambarham.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-31T11:16:17Z
+  Updated: 2026-11-21T12:20:46Z
   Total Products: 6
 
 ## Store Pages
