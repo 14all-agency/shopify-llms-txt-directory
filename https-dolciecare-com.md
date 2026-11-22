@@ -6,7 +6,7 @@
 - Timezone: Australia/Brisbane
 - Created At: 2025-08-12T02:25:30Z
 - Contact Email: info@dolciecare.com
-- Updated At: 2026-11-15T00:32:55.518Z
+- Updated At: 2026-11-22T00:35:26.726Z
 
 ## Products
 
@@ -65,7 +65,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/72fe788541f35b7d414361685b3a147b.jpg?v=1756791914
     Price: $27.99 AUD
 - [Gold Peel-Off Face Mask — Purify Pores & Hydrate 80g](https://dolciecare.com/products/gold-peel-off-face-mask-gentle-oil-control-face-mask-moisturizing-purify-pores-facial-mask-removes-dirt-tearing-mask-skin-care): Reset skin with a gold peel-off face mask that purifies pores, lifts impurities, and hydrates for a fresh glow—leaving skin soft, smooth, radiant.
-  Updated: 2026-11-14T04:26:10Z
+  Updated: 2026-11-17T04:27:56Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -129,7 +129,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/c44a2f3d4fcf5158cb7ca40f244daaee.jpg?v=1756799805
     Price: $55.99 AUD
 - [Long-Wear Concealer — Lightweight, Oil-Control, Brightening](https://dolciecare.com/products/liquid-concealer-matte-high-coverage-waterproof-oil-control-moisturizing-long-lasting-concealer-professional-face-makeup): long-wear concealer that brightens, conceals & controls shine. Lightweight, buildable, water- and sweat-resistant with a soft, natural finish in 6 shades.
-  Updated: 2026-11-14T04:28:59Z
+  Updated: 2026-11-21T04:27:06Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -184,7 +184,7 @@
   Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/a421d436d230d36f2154ce94f3ac3259.jpg?v=1756800806
   Price: $31.99 AUD
 - [Laikou Hydrogel Eye Patches — Sakura or Gold Snail 50pcs](https://dolciecare.com/products/japan-sakura-or-snail-eye-mask-fade-dark-circles-hydrating-moisturizing-care-eyes-mask-face-care-product-1): Tackle dark circles and puffiness with laikou hydrogel eye patches. Choose Sakura for brightening or Gold Snail for extra nourishment. Gentle for daily use.
-  Updated: 2026-11-10T04:26:13Z
+  Updated: 2026-11-18T04:35:46Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -198,19 +198,19 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/36e8805e35f9ca88a689e426bf774484_528b00d8-457a-4b59-a12b-fdf5fe8b7e66.jpg?v=1756800807
     Price: $40.99 AUD
 - [Laikou Hydrating Facial Serum — Sakura or Rose 100ml](https://dolciecare.com/products/cherry-blossom-or-rose-essence-solution-moisturizing-facial-care-brighten-tighten-hydrating-repair-soothe-soften-100ml): laikou hydrating facial serum in Sakura or Rose delivers deep hydration, balances and nourishes for soft, glowing skin—lightweight 100ml value size.
-  Updated: 2026-11-04T04:20:15Z
+  Updated: 2026-11-20T05:19:07Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/660e5f37b576c367e54aadfa-sakura-serum-rejuvenating-firming.jpg?v=1757051729
-  - [100Ml / Pink](https://dolciecare.com/products/cherry-blossom-or-rose-essence-solution-moisturizing-facial-care-brighten-tighten-hydrating-repair-soothe-soften-100ml?variant=46737484120285)
+  - [100ml / Pink](https://dolciecare.com/products/cherry-blossom-or-rose-essence-solution-moisturizing-facial-care-brighten-tighten-hydrating-repair-soothe-soften-100ml?variant=46737484120285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/c6c8e4d8e2ba98dc1f69712b71aee067.jpg?v=1757051729
-    Price: $53.99 AUD
+    Price: $48.99 AUD
   - [Rose Essence / Pink](https://dolciecare.com/products/cherry-blossom-or-rose-essence-solution-moisturizing-facial-care-brighten-tighten-hydrating-repair-soothe-soften-100ml?variant=46737484153053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/4ba6064f2b9d43388d9603cc4fcf0574.jpg?v=1757051729
-    Price: $52.99 AUD
+    Price: $47.99 AUD
 - [jaysuing summer tanning cream — long-lasting bronzer 100g](https://dolciecare.com/products/jaysuing-summer-tanning-cream-long-lasting-bronzer-100g): jaysuing summer tanning cream delivers a natural, streak-free glow. Buildable color, fast-drying and hydrating; use as sunless tan or booster. 100g.
   Updated: 2026-09-14T06:04:00Z
   Vendor: Dolcie Care
@@ -226,7 +226,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/4ab026be4d1450a4d89e6ad446ef263f.jpg?v=1757316884
     Price: $34.99 AUD
 - [PURC Keratin  — Brazilian Straightening 1000ml](https://dolciecare.com/products/purc-keratin--brazilian-straightening-1000ml): purc keratin  smooths frizz, reduces volume & boosts shine. Salon-grade results in ~30 minutes; lasts up to 3 months with sulfate-free care.
-  Updated: 2026-11-09T12:14:08Z
+  Updated: 2026-11-19T17:32:35Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -252,7 +252,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/df4fff1873079d43defbffc215397f73.jpg?v=1757315683
     Price: $273.99 AUD
 - [OCEAURA Collagen Lifting Body Oil — Firming Feel, Silky Glow & Deep Moisture 100ml](https://dolciecare.com/products/collagen-lifting-body-oil-firming-body-oil-compact-body-oil-massage-oil-body-oil-women-collagen-skin-tightening-100ml): Nourish, smooth, and boost a healthy-looking glow with a lightweight body oil infused with collagen, vitamin C (ascorbic acid), and botanical extracts. The fast-absorbing formula cushions dryness, helps skin feel more elastic, and leaves a satin finish—perfect for daily moisture or a relaxing self-massage. Highlights Supple, firmer feel: supports the look of elasticity for more toned-looking skin. Softer, smoother touch: helps refine rough texture and dry, tight areas. Radiant appearance: vitamin C supports a brighter, more even-looking glow. Botanical nourishment: sunflower seed oil and rosemary leaf extract comfort and condition. Lightweight & fast-absorbing: sinks in quickly without a heavy or greasy residue. For all skin types: gentle, daily-care formula. How to Use Prep: Cleanse and gently pat skin dry. Apply: Warm a few pumps between palms, then smooth over arms, legs, and body. Massage: Use circular motions until fully absorbed. Layer over lotion for extra moisture if desired. Pro tip: For best results, apply on slightly damp skin after showering to lock in hydration. Who It’s For All skin types looking to soften dryness, enhance glow, and achieve a more elastic, conditioned feel from neck to toe. Product Details Item Collagen Lifting Body Oil Texture Lightweight, fast-absorbing oil Key Benefits Moisturizes, softens, supports the look of elasticity, enhances radiance Skin Type All skin types Ingredients AQUA, ASCORBIC ACID, COLLAGEN, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, ROSMARINUS OFFICINALIS (ROSEMARY) LEAF EXTRACT What’s in the Box 1 × OCEAURA Collagen Lifting Body Oil Good to Know For external use only. Avoid contact with eyes and broken or irritated skin. Patch test before first use; discontinue if irritation occurs. Store in a cool, dry place away from direct sunlight. Keep out of reach of children.
-  Updated: 2026-11-14T04:28:17Z
+  Updated: 2026-11-21T04:26:36Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -333,7 +333,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/ca48cd0b6bde85774a9c1b6a8be3fba3.jpg?v=1758193262
     Price: $125.99 AUD
 - [PURC Morocco Argan Oil Shampoo & Conditioner Set](https://dolciecare.com/products/morocco-argan-oil-shampoo-conditioner-set-amino-acid-keratin-smoothing-repair-damaged-hair--sulfate-free-hair-care): A gentle, sulfate-free duo that deeply cleanses and nourishes for silky, satin-smooth hair. Powered by Moroccan argan oil, amino acids, keratin, and collagen to help reduce frizz, soften split ends, and boost healthy shine—without weighing hair down. Why you’ll love it Deep cleanse, zero strip: soap-free formula lifts buildup while respecting scalp pH. Frizz & dryness, tamed: argan oil + keratin smooth and soften from root to tip. Stronger, sleeker strands: amino acids and collagen support elasticity and manageability. Scalp comfort: helps balance oil and flakes for a fresh, light feel. Clean formula: silicone-free & sulfate-free; color-safe and suitable for daily use. Good for All hair types (straight, wavy, curly, coily) Dry, frizzy, or dull hair needing smoothness and shine Oily or easily weighed-down roots seeking lightweight moisture Key ingredients Moroccan Argan Oil (15% blend): nourishes and adds glossy softness. Amino Acids: replenish and smooth the hair cuticle. Keratin: improves feel of strength and reduces the look of split ends. Collagen: helps enhance softness and elasticity. How to use Shampoo: Apply to wet hair, massage into scalp, then rinse. Conditioner: Work through mid-lengths to ends, leave 1–3 minutes, then rinse. Use regularly for best results. Safe for color-treated hair. What’s included 1 × PURC Morocco Argan Oil Shampoo 1 × PURC Morocco Argan Oil Conditioner Note: Results vary by hair type and routine. Avoid contact with eyes. For external use only.
-  Updated: 2026-10-26T16:55:49Z
+  Updated: 2026-11-18T04:35:40Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -373,7 +373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/S6a69dc01b5874dae89db17f8bb6cec292.webp?v=1758174427
     Price: $60.99 AUD
 - [EELHOE Hair Repair Spray - Anti-Frizz Smoothing Serum & Scalp  150ml or 300ml](https://dolciecare.com/products/hair-repair-spray-essential-anti-frizz-spray-smoothing-hair-straighten-serum-scalp--nourishing-hair-spray-150ml): Specifications Condition: 100% brand new and high quality Item Type: Hair Repair Spray Functions: Frizzy hair , repair dry hair, improve split ends, nourish hair, smooth hair, repair damaged hair, straighten hair, soften hair Content: 150 ml / 300 ml Shelf Life: 3 years Storage: Store in a cool, dry place Features Replenishes hair nutrients and adds cuticle protection to boost overall hair health. Nourishes for enhanced luster and noticeably softer feel. Strengthens to correct and help prevent split ends; deeply conditions damaged, fragile hair. Smooths and fortifies to combat damage and restore hair health and texture. Reduces frizz while repairing split and broken strands for a softer, more elastic finish. How to Use Hold nozzle about 10 cm from hair. Spray evenly on hair. Gently massage until fully absorbed. Packing List 1 × 150 ml Hair Care Spray 2 × 150 ml Hair Care Spray Notices Actual color may vary due to different monitor and lighting settings. Allow 1–3 cm deviation due to manual measurement. Gallery
-  Updated: 2026-10-12T19:33:59Z
+  Updated: 2026-11-16T12:01:13Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -385,7 +385,7 @@
   - [300Ml Boxed](https://dolciecare.com/products/hair-repair-spray-essential-anti-frizz-spray-smoothing-hair-straighten-serum-scalp--nourishing-hair-spray-150ml?variant=46806942482653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/0f8a842709c7edf68a1501786366f1a6.jpg?v=1758613120
-    Price: $70.99 AUD
+    Price: $60.99 AUD
 - [YESNOW Fruit Fresh Moisturizing Bubble Body Wash 500ml](https://dolciecare.com/products/fruit-fresh-moisturizing-bubble-body-wash-500ml-milk-citrus-peach-avocado-shower-gel-gentle-cleansing-skin-whitening-bath-lotion): Moisturizing Body Wash – Milk, Citrus, Peach & Avocado Fragrances Transform your daily shower into a refreshing skincare ritual with this Moisturizing Body Wash, available in delightful Milk, Citrus, Peach, and Avocado fragrances. The rich, creamy lather gently cleanses away dirt, excess oil, and everyday impurities while helping to keep your skin feeling soft, smooth, and comfortably hydrated after every wash. Formulated with skin-conditioning ingredients including Citric Acid, Hyaluronic Acid, and Arbutin, this body wash helps improve the appearance of dull-looking skin while supporting a clean, refreshed, and healthy-looking complexion. Key Benefits Gently cleanses away dirt, excess oil, and impurities Helps moisturize dry skin for lasting comfort Leaves skin feeling soft, smooth, and refreshed Rich foaming formula creates a luxurious cleansing experience Available in Milk, Citrus, Peach, and Avocado fragrances Suitable for daily body cleansing Why You'll Love It Rich, creamy foam rinses away easily Refreshing fragrance leaves skin lightly scented Helps improve the appearance of dull, rough-looking skin Comfortable formula suitable for everyday use Ideal for most skin types Key Ingredients Citric Acid – Helps gently exfoliate surface impurities for smoother-looking skin. Hyaluronic Acid – Helps maintain skin moisture and softness. Arbutin – Helps promote a brighter, more even-looking complexion. How to Use Dispense an appropriate amount onto your hands, sponge, or bath puff. Work into a rich lather with water. Massage gently over the entire body. Rinse thoroughly with clean water. Use daily as part of your regular body care routine. Product Details Product Type: Moisturizing Body Wash Fragrances: Milk, Citrus, Peach, Avocado Key Ingredients: Citric Acid, Hyaluronic Acid, Arbutin Skin Type: Suitable for most skin types Shelf Life: 3 Years Package Includes 1 × Moisturizing Body Wash Note For external use only. Avoid direct contact with eyes. Discontinue use if irritation occurs. Store in a cool, dry place away from direct sunlight. Keep out of reach of children.
   Updated: 2026-08-28T19:23:21Z
   Vendor: Dolcie Care
@@ -433,7 +433,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/b11ff8a73d53788bbb4ba0117c1fc4c8.jpg?v=1758610123
     Price: $49.99 AUD
 - [Natural Jade Cooling Eye & Face Mask Massage Sleep Care Tool](https://dolciecare.com/products/natural-jade-eye-face-mask-massager-cooling-sleep-eye-facial-mask-relax-sleep-massager-cold-therapy-mask-spa-beauty-tool): Natural Jade Eye & Face Mask – Reusable Cooling Stone Mask for Relaxation & Sleep Comfort Relax and refresh with the Natural Jade Eye & Face Mask. Crafted from genuine natural jade stone, this reusable cooling mask provides a soothing sensation that helps comfort tired eyes and facial muscles. Perfect for self-care routines, meditation, spa treatments, or unwinding after a long day, it delivers a naturally cooling experience that promotes relaxation and everyday comfort. Designed for both eye and facial use, the flexible handwoven jade construction gently conforms to the contours of your face while remaining comfortable to wear. Use it chilled for an extra refreshing experience whenever your skin needs a cooling boost. Key Benefits Provides a naturally cooling sensation for the eyes and face Helps relax tired-looking eyes and facial muscles Supports a refreshing and calming self-care routine Reusable natural jade stone construction Can be chilled before use for enhanced cooling comfort Suitable for home, travel, spa, and meditation Why You'll Love It Made from natural jade stone Flexible woven design fits comfortably over the face No batteries or electricity required Easy to clean and reuse Ideal for daily relaxation and sleep routines Suitable for both men and women How to Use Place the jade mask in the refrigerator for 15–30 minutes if extra cooling is desired. Lie down comfortably and position the mask over closed eyes or across the face. Relax for approximately 10–15 minutes or as preferred. After use, wipe clean with a soft damp cloth and allow to air dry before storing. Product Details Product Type: Natural Jade Eye & Face Mask Material: Natural Jade Stone Style: Handwoven (Sparse / Encrypted Weaving Options) Use: Eye Relaxation, Facial Massage & Cooling Comfort Application: Direct Use or Cold Compress Suitable For: Adults (Men & Women) Package Includes 1 × Natural Jade Eye & Face Mask Note For external use only. Each jade mask is unique; natural colour and stone pattern may vary. Handle with care to avoid dropping or strong impact. Clean with a soft damp cloth after each use. Store in a cool, dry place when not in use. Keep out of reach of children.
-  Updated: 2026-08-28T19:23:22Z
+  Updated: 2026-11-20T05:46:27Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -445,7 +445,7 @@
   - [C](https://dolciecare.com/products/natural-jade-eye-face-mask-massager-cooling-sleep-eye-facial-mask-relax-sleep-massager-cold-therapy-mask-spa-beauty-tool?variant=47102802854109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/5e9db0f7ed6b71996dc2d4e1c6154787.jpg?v=1765525828
-    Price: $174.99 AUD
+    Price: $124.99 AUD
   - [A](https://dolciecare.com/products/natural-jade-eye-face-mask-massager-cooling-sleep-eye-facial-mask-relax-sleep-massager-cold-therapy-mask-spa-beauty-tool?variant=47102802886877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/46f9534f408d2d97327caa4af6a9bdfa.jpg?v=1765525828
@@ -455,7 +455,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/284e1e977b1b9574b852aab64e2bbf3f.jpg?v=1765525827
     Price: $59.99 AUD
 - [FENYI Sakura Exfoliating Peeling Gel Deep Cleansing & Hydrating 60g](https://dolciecare.com/products/sakura-face-deep-cleaning-exfoliating-gel-skin-care-whitening-moisturizer-repair-facial-scrub-skin-care-60g): Gentle exfoliation • Deep pore cleansing • Smoother skin texture • Sakura-inspired care Specifications Brand: FENYI Condition: 100% brand new and high quality Item Type: Exfoliating Peeling Gel Main Ingredients: Cherry Blossom Extract, Prunus Mume Extract, Sodium Hyaluronate Net Weight: 60 g Shelf Life: 5 years Storage: Store in a cool, dry place away from direct sunlight Features Gently helps remove dead skin cells for a smoother-looking complexion. Supports deep cleansing of pores and removal of excess surface buildup. Helps improve skin texture and refresh dull-looking skin. Formulated with moisturizing ingredients to help maintain skin hydration. Suitable for face and body skincare routines. How to Use Apply an appropriate amount to clean, dry skin. Gently massage in circular motions for a short time. Rinse thoroughly with water. Use 1–2 times per week as part of your skincare routine. Notice New and old packaging may be shipped randomly. Avoid contact with eyes. If contact occurs, rinse thoroughly with water. Discontinue use if irritation occurs. For external use only. Gallery
-  Updated: 2026-11-06T04:24:32Z
+  Updated: 2026-11-16T12:08:30Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -463,17 +463,17 @@
   - [60G](https://dolciecare.com/products/sakura-face-deep-cleaning-exfoliating-gel-skin-care-whitening-moisturizer-repair-facial-scrub-skin-care-60g?variant=47102807965917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/c8497d780437ef2d8db11576eab0fbdf.jpg?v=1765525830
-    Price: $39.99 AUD
-  - [5Pcs](https://dolciecare.com/products/sakura-face-deep-cleaning-exfoliating-gel-skin-care-whitening-moisturizer-repair-facial-scrub-skin-care-60g?variant=47102807998685)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/3b37877f50ccc24c0a4f6ccd2120c0d2.jpg?v=1765525830
-    Price: $135.99 AUD
-  - [2Pcs](https://dolciecare.com/products/sakura-face-deep-cleaning-exfoliating-gel-skin-care-whitening-moisturizer-repair-facial-scrub-skin-care-60g?variant=47102808031453)
+    Price: $29.99 AUD
+  - [2 pcs](https://dolciecare.com/products/sakura-face-deep-cleaning-exfoliating-gel-skin-care-whitening-moisturizer-repair-facial-scrub-skin-care-60g?variant=47102808031453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/d207091279bea659c6f1ea42b7cb85af.jpg?v=1765525830
-    Price: $49.99 AUD
+    Price: $34.99 AUD
+  - [5 pcs](https://dolciecare.com/products/sakura-face-deep-cleaning-exfoliating-gel-skin-care-whitening-moisturizer-repair-facial-scrub-skin-care-60g?variant=47102807998685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/3b37877f50ccc24c0a4f6ccd2120c0d2.jpg?v=1765525830
+    Price: $95.99 AUD
 - [EUQEE Natural Plant Essential Oil with Dropper for Diffuser 10ml](https://dolciecare.com/products/10ml-natural-plant-essential-oil-with-dropper-for-diffuser-humidifier-lavender-jasmine-eucalyptus-vanilla-essential-oils): EUQEE Pure Essential Oil – Aromatherapy Oil for Diffusers, Humidifiers & DIY Projects Create a relaxing atmosphere with EUQEE Pure Essential Oil, a versatile aromatherapy oil designed for diffusers, humidifiers, oil burners, and a variety of DIY creations. Available in multiple fragrance options, each oil is carefully packaged in an amber glass bottle to help preserve freshness and fragrance quality. Whether you're unwinding after a long day, refreshing your living space, or creating handmade soaps and candles, EUQEE Essential Oil is a wonderful addition to your daily wellness and home fragrance routine. Key Benefits Pure essential oil with no added fillers or unnecessary additives Suitable for aromatherapy, diffusers, humidifiers, and oil burners Perfect for DIY candles, soaps, bath products, and massage blends Amber glass bottle helps protect the oil from light exposure Available in a variety of refreshing and relaxing fragrances Beautiful gift-ready packaging for friends and family Why You'll Love It Creates a pleasant, inviting atmosphere in your home Easy to use with most essential oil diffusers and humidifiers Ideal for home, office, spa, or yoga sessions Great for crafting personalized DIY beauty and home products Includes a convenient dropper for precise dispensing How to Use Add a few drops to your diffuser, humidifier, or oil burner according to the manufacturer's instructions. Dilute with a suitable carrier oil before applying to the skin for massage or body care. Use in DIY candles, soaps, bath bombs, lotions, or other homemade products. Always use in a well-ventilated area and follow recommended dilution guidelines. Product Details Brand: EUQEE Product Type: Pure Essential Oil Net Content: 10ml Bottle Type: Amber Glass Bottle Fragrance: Multiple scents available Suitable For: Aromatherapy, Diffusers, Humidifiers, Oil Burners, DIY Projects Package Includes 1 × EUQEE Essential Oil (10ml) 1 × Dropper 1 × Gift Box Note For external use only. Do not ingest. Always dilute with a carrier oil before applying to the skin. Avoid contact with eyes and mucous membranes. Keep out of reach of children and pets. Some citrus essential oils may increase skin sensitivity to sunlight. Store in a cool, dry place away from direct sunlight with the bottle tightly closed.
-  Updated: 2026-11-11T03:54:43Z
+  Updated: 2026-11-19T08:18:55Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -645,21 +645,21 @@
   Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/d7520314b8796e70b22ddd5455e766bb.jpg?v=1765790372
   Price: $39.99 AUD
 - [LEASPRETTY HIFU RF EMS Lifting Gel Ultrasonic Firming & Anti-Wrinkle Massage Gel 100ml](https://dolciecare.com/products/new-1-pcs-hifu-gel-rf-ems-lifting-massager-gel-ultrasonic-body-lifting-facial-skin-care-firming-tighten-anti-wrinkles-gel-100ml): HIFU RF EMS Conductive Lifting Massage Gel for Face & Body (100ml) Enhance your beauty device treatments with this Conductive Lifting Massage Gel, specially formulated to provide a smooth, comfortable glide for facial and body skincare routines. Its lightweight, water-based formula helps maintain skin hydration while allowing compatible beauty devices to move effortlessly across the skin. Ideal for use with HIFU, RF, EMS, and ultrasonic beauty devices, this moisturizing gel supports a comfortable  experience and leaves skin feeling soft, refreshed, and smooth after every session. Key Benefits Provides a smooth conductive layer for beauty devices Helps beauty devices glide comfortably across the skin Lightweight, water-based moisturizing formula Leaves skin feeling soft, refreshed, and hydrated Suitable for facial and body beauty treatments Why You'll Love It Compatible with HIFU, RF, EMS, and ultrasonic devices Non-sticky, easy-to-spread gel texture Suitable for home or professional beauty treatments Can be used on both the face and body Easy to rinse or wipe away after use How to Use Clean and dry the  area. Apply a generous, even layer of gel to the skin. Use your compatible beauty device according to the manufacturer's instructions. After , gently wipe away or rinse off any excess gel if desired. Product Details Product Type: Conductive Lifting & Massage Gel Net Content: 100ml Texture: Smooth, water-based gel Suitable For: Face and body Compatible Devices: HIFU, RF, EMS, Ultrasonic beauty devices Storage: Store in a cool, dry place (4–25°C) away from direct sunlight. Package Includes 1 × Conductive Lifting Massage Gel (100ml) Note For external use only. Do not ingest. Avoid contact with eyes. Discontinue use if irritation occurs. Keep out of reach of children. Store in a cool, dry place away from direct sunlight.
-  Updated: 2026-10-19T03:26:44Z
+  Updated: 2026-11-20T17:19:35Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/a7c0ab55e30b82dfd19edc8361b5cbe4.jpg?v=1765795903
-  Price: $57.99 AUD
+  Price: $47.99 AUD
 - [Organic Magnesium Oil Spray Natural Body Care Relaxation 60ml](https://dolciecare.com/products/organic-magnesium-oil-spray-100-natural-relaxing-body-oil-deep-relaxation-moisturizing-muscle-relax-body-health-care-spray): Magnesium Oil Spray for Daily Body Care (60ml) Refresh your daily wellness routine with this Magnesium Oil Spray, a lightweight topical body spray formulated with a magnesium-rich mineral solution. The fast-absorbing formula is easy to apply and leaves your skin feeling fresh without a greasy residue. Perfect for use after exercise, during travel, or as part of your everyday body care routine, the convenient spray bottle allows for quick, mess-free application whenever you need it. Key Benefits Magnesium-rich topical body spray Fast-absorbing, lightweight formula Easy spray application with no greasy residue Suitable for daily body care routines Convenient for home, gym, office, or travel Why You'll Love It Quick and convenient spray-on application Lightweight formula absorbs easily into the skin Ideal after workouts or long days Portable 60ml bottle for on-the-go use No added artificial colors or fragrances How to Use Shake well before use. Spray directly onto clean, dry skin. Gently massage until fully absorbed. Use daily or whenever desired as part of your body care routine. Product Details Product Type: Magnesium Oil Spray Net Content: 60ml Formula: Magnesium-rich mineral solution Texture: Lightweight liquid spray Recommended Use: Topical body care Storage: Store in a cool, dry place away from direct sunlight. Package Includes 1 × Magnesium Oil Spray (60ml) Note For external use only. Avoid contact with eyes and broken or irritated skin. Discontinue use if irritation occurs. Keep out of reach of children. Store in a cool, dry place away from direct sunlight. Product appearance may vary slightly due to lighting or monitor settings.
-  Updated: 2026-10-19T03:26:40Z
+  Updated: 2026-11-20T14:42:17Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/56b11c38a8e55ec3698fe4ac273a2dd3.jpg?v=1765791652
   Price: $34.99 AUD
 - [MAXFINE Waterproof Liquid Foundation & Concealer – Long-Lasting, Sweat-Resistant Makeup](https://dolciecare.com/products/liquid-foundation-effective-concealer-waterproof-sweat-resistant-makeup-professional-cosmetics): MAXFINE Liquid Foundation & Concealer Achieve a smooth, even-looking complexion with MAXFINE Liquid Foundation & Concealer. Designed to help cover the appearance of blemishes, redness, and uneven skin tone, this liquid makeup provides buildable coverage for a polished finish. Its convenient bottle design makes it suitable for everyday makeup routines and special occasions. Key Features Foundation and Concealer: Helps even the appearance of skin tone and conceal visible imperfections. Waterproof Formula: Described as waterproof and sweat-resistant for makeup wear throughout the day. Buildable Coverage: Apply in light layers to achieve your preferred level of coverage. Smooth Finish: Helps create a more even-looking complexion. Versatile Makeup: Suitable for daily makeup routines, events, and occasions. Product Details Brand: MAXFINE Product Type: Liquid foundation and concealer Formula: Liquid Product Size: Approximately 11 × 3.3 × 3 cm Shelf Life: 3 years, as stated in the supplied product information; check the packaging for the expiry date. How to Use Start with clean, moisturised skin and allow skincare products to absorb. Apply a small amount of foundation to the face. Blend evenly using a makeup sponge, brush, or clean fingertips. Build coverage gradually where additional concealment is desired. Remove makeup thoroughly at the end of the day. Important Information Check the shade and product details before purchasing. Perform a patch test before first use, especially if you have sensitive skin. Avoid direct contact with the eyes and discontinue use if irritation occurs. Keep the container closed when not in use and store away from excessive heat and direct sunlight. Keep out of reach of children. Colours may appear slightly different depending on lighting, photography, and screen settings.
-  Updated: 2026-11-14T04:28:27Z
+  Updated: 2026-11-20T04:35:07Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -713,7 +713,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/82555b7255d856d1897d30dbd1380225.jpg?v=1766036810
     Price: $27.99 AUD
 - [Resin Facial Massage Roller for Face Neck and Eye Lifting Skincare Beauty Tool](https://dolciecare.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools): Product Description This resin facial massage roller is designed to support daily skincare routines by gently massaging the face, neck, and eye area. Regular use helps relax facial muscles, improve circulation, and enhance the absorption of skincare products for healthier-looking skin. Key Features Suitable for face, neck, and eye massage Helps relax facial muscles and relieve tension Supports better absorption of skincare products Lightweight and smooth resin material for comfortable use Ideal for daily beauty and self-care routines Benefits Promotes a refreshed and relaxed appearance Helps improve skin vitality with regular massage Supports lifting and contouring effects over time Non-invasive and easy to use at home or while traveling How to Use Apply your favorite serum, oil, or cream to clean skin. Gently roll upward and outward across the face and neck. Use light pressure when massaging the eye area. Use daily for best results. Care Instructions Wipe clean with a soft cloth after each use. Store in a dry place away from direct sunlight.
-  Updated: 2026-11-14T04:28:57Z
+  Updated: 2026-11-19T04:36:26Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -797,7 +797,7 @@
   Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/eac892038c700dc20560e02e90ec9f0c.jpg?v=1773045058
   Price: $48.99 AUD
 - [EELHOE Self Tanning Spray – Sunless Bronzing Body Mist for Natural Glow & Hydration (100ml / 200ml)](https://dolciecare.com/products/hazel-glowing-tanning-spray-sun-bronzer-suntan-body-lotion-sunbed-tanning-products-moisturizing-sunless-self-tanner-spray): EELHOE Self Tanning Spray – Natural Sunless Bronzing Glow Achieve a natural-looking bronzed glow without sun exposure using the EELHOE Self Tanning Spray. This lightweight mist helps enhance your skin tone with a smooth, even finish while keeping your skin soft and hydrated. Formulated with moisturizing ingredients, it absorbs quickly without a sticky feel, making it ideal for everyday use. Perfect for creating a sun-kissed look all year round. Key Benefits Provides a natural-looking bronzed glow Helps create an even and smooth skin tone Lightweight, non-greasy, and fast-absorbing formula Moisturizes and softens the skin Suitable for face and body use Why You’ll Love It Sunless tanning solution – no UV exposure needed Easy spray application for quick coverage Buildable color for customized results Comfortable, refreshing texture Great for daily glow or special occasions How to Use Start with clean, dry skin. Hold the spray a short distance from the skin. Apply evenly to desired areas (face or body). Allow to dry before dressing. Wash hands after application. Product Details Brand: EELHOE Product Type: Self Tanning Spray Use Area: Face & Body Net Content: 100ml / 200ml Skin Type: Suitable for all skin types Package Includes 1 × Self Tanning Spray Note For external use only. Avoid contact with eyes. Perform a patch test before first use. Color result may vary depending on skin type and application. Store in a cool, dry place away from direct sunlight.
-  Updated: 2026-08-28T19:23:31Z
+  Updated: 2026-11-16T12:01:49Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -805,13 +805,13 @@
   - [100Ml](https://dolciecare.com/products/hazel-glowing-tanning-spray-sun-bronzer-suntan-body-lotion-sunbed-tanning-products-moisturizing-sunless-self-tanner-spray?variant=47739609120989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/28e815cf76db643266dea5101aea83eb.jpg?v=1775640570
-    Price: $49.99 AUD
+    Price: $34.99 AUD
   - [200Ml](https://dolciecare.com/products/hazel-glowing-tanning-spray-sun-bronzer-suntan-body-lotion-sunbed-tanning-products-moisturizing-sunless-self-tanner-spray?variant=47739609153757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/28e815cf76db643266dea5101aea83eb.jpg?v=1775640570
-    Price: $54.99 AUD
+    Price: $39.99 AUD
 - [Coconut Oil Moisturizing Body & Hair Oil – Deep Hydration for Skin & Hair Care (250ml)](https://dolciecare.com/products/250ml-coconut-oil-sooth-dry-skin-lighten-fine-lines-face-massage-oil-nourishes-hair-removes-frizz-hair-care-oil-firming-body-oil): Coconut Oil Moisturizing Oil – Face, Body & Hair Care (250ml) Nourish your skin and hair with this multi-purpose Coconut Oil, designed to provide deep hydration and long-lasting moisture. Its lightweight yet rich formula helps soften dry skin, smooth rough areas, and leave your skin feeling supple and refreshed. Suitable for face, body, and hair care, this versatile oil can be used as a daily moisturizer, massage oil, or hair  to enhance softness and shine. Key Benefits Deeply moisturizes and nourishes dry skin Helps improve skin softness and smoothness Can be used for face, body, and hair care Supports healthier-looking, shinier hair Ideal for massage and daily hydration Why You’ll Love It Multi-purpose beauty oil for skin and hair Lightweight texture with rich nourishment Suitable for daily use Helps reduce dryness and roughness Convenient large size for long-term use How to Use Apply a small amount to clean, dry skin or hair. Massage gently until fully absorbed. Use daily or as needed for best results. For hair: apply to ends or use as a  before washing. Product Details Product Type: Moisturizing Oil Main Ingredient: Coconut Oil Use Area: Face, Body & Hair Net Content: 250ml Package Includes 1 × Coconut Oil (250ml) Note For external use only. Avoid contact with eyes. Use a small amount to prevent a greasy feel. Perform a patch test before first use. Store in a cool, dry place away from direct sunlight.
-  Updated: 2026-11-12T08:12:48Z
+  Updated: 2026-11-16T10:36:19Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -832,7 +832,7 @@
   Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/488b614ffafd3bca1502e0e3367b3050.jpg?v=1775459985
   Price: $51.99 AUD
 - [10 Sets Water Soluble Collagen Facial Mask Sheets – Hydrating & Firming Anti-Ageing Face Care](https://dolciecare.com/products/10sets-water-soluble-collagen-film-gel-facial-mask-paper-anti-aging-moisturizing-wrinkle-remover-face-filler-firming-face-care): Collagen Soluble Film Facial Mask Set (10 Sets) Upgrade your skincare routine with this innovative Collagen Soluble Film Mask, designed to deliver deep hydration and support smoother, firmer-looking skin. Formulated with high-content collagen and sodium hyaluronate, these dissolving film patches help improve skin moisture and enhance overall skin appearance. The lightweight film melts upon application, allowing active ingredients to absorb quickly into the skin for a refreshed, plump, and revitalized look. Key Benefits Helps improve skin hydration and moisture retention Supports smoother and more refined skin texture Helps reduce the appearance of fine lines Promotes firmer and more elastic-looking skin Lightweight film that dissolves for easy absorption Key Ingredients Collagen (99.85%): Helps support skin elasticity and smoothness Sodium Hyaluronate: Provides deep hydration and helps retain moisture Peptides: Support skin conditioning and overall skin appearance Why You’ll Love It Innovative dissolving film technology Lightweight, non-sticky formula Suitable for all skin types Convenient and portable for use anytime How to Use Start with clean, dry skin. Apply the collagen film patches to forehead and cheek areas. Lightly mist or dampen the patches to activate and dissolve. Gently massage until fully absorbed. Use regularly for best results. Package Includes 10 × Forehead patches 10 × Pairs of cheek patches Product Details Product Type: Collagen Film Facial Mask Skin Type: Suitable for all skin types Use Area: Face (forehead & cheeks) Note For external use only. Avoid contact with eyes. If irritation occurs, discontinue use.
-  Updated: 2026-11-13T11:27:17Z
+  Updated: 2026-11-15T04:26:38Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -860,7 +860,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/8be4c374ea8f90a8acd1c74a6f169424.jpg?v=1782191996
     Price: $27.99 AUD
 - [Essential Oil for Diffuser & Humidifier – Vanilla, Lavender, Rose & Eucalyptus](https://dolciecare.com/products/vanilla-lavender-jasmine-eucalyptus-sweet-orange-patchouli-lemongrass-cinnamon-rosemary-rose-citronella-essential-oil): MAYJAM Pure Essential Oil for Aromatherapy, Diffuser & DIY Enjoy the natural aroma of MAYJAM Pure Essential Oil, crafted for aromatherapy, home fragrance, massage blends, and DIY creations. Made with pure plant essential oils and free from added fillers, each bottle delivers a rich, long-lasting fragrance for everyday relaxation and wellness routines. Packaged in an amber glass bottle to help preserve freshness and protect the oil from light, MAYJAM Essential Oil is perfect for use in diffusers, humidifiers, oil burners, spas, and handcrafted beauty or home products. Key Benefits Made with pure plant essential oils No added fillers or unnecessary additives Suitable for diffusers, humidifiers, and oil burners Ideal for massage blends when diluted with a carrier oil Amber glass bottle helps maintain oil freshness Why You'll Love It Creates a relaxing and refreshing atmosphere Perfect for daily aromatherapy routines Great for DIY beauty and home fragrance projects Elegant gift box makes it a thoughtful gift Easy-to-use dropper included for precise dispensing Ways to Use Add a few drops to an essential oil diffuser or humidifier Mix with a carrier oil for massage Create DIY lip balms and solid balms Make scented candles and soaps Add to bath bombs and other handmade crafts Create custom home air fresheners Blend into DIY hair care products Product Details Brand: MAYJAM Product Type: Pure Essential Oil Ingredients: Pure Plant Essential Oil Packaging: Amber Glass Bottle Suitable For: Aromatherapy, Diffusers, Humidifiers, Massage, DIY Projects Package Includes 1 × MAYJAM Pure Essential Oil 1 × Dropper 1 × Gift Box Note For external use only. Always dilute with a carrier oil before applying to the skin. Avoid direct contact with eyes and mucous membranes. Keep out of reach of children. Store in a cool, dry place away from direct sunlight. If pregnant, nursing, or under  care, consult a  professional before use.
-  Updated: 2026-11-11T04:27:02Z
+  Updated: 2026-11-21T04:26:32Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -990,7 +990,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/2129205df8c2d3c6ccf074b09b2ead79.jpg?v=1782781123
     Price: $20.99 AUD
 - [Day & Night Retinol & Collagen Face Cream – Hydrating & Nourishing Moisturiser for Smoother-Looking Skin](https://dolciecare.com/products/retinol-cream-promotes-skin-elasticity-and-luster-nourishing-nourishing-and-locking-moisture-to-improve-skin-texture): Day & Night Retinol & Collagen Face Cream – Hydrating & Nourishing Moisturiser for Smoother-Looking Skin Revitalise your skincare routine with the Retinol Face Cream, a lightweight facial moisturiser designed to hydrate, nourish, and leave your skin feeling soft and smooth. Formulated with retinol, this daily moisturiser helps maintain healthy-looking skin while improving the appearance of uneven skin texture caused by dryness. Its fast-absorbing, non-greasy formula delivers lasting moisture to support a refreshed and radiant-looking complexion. Suitable for all skin types, this nourishing face cream fits seamlessly into both morning and evening skincare routines. Key Benefits Provides long-lasting hydration and moisture Helps improve the appearance of skin texture Leaves skin feeling softer, smoother, and more supple Supports a healthy-looking, radiant complexion Suitable for everyday facial skincare Why You'll Love It Formulated with retinol to support smoother-looking skin Lightweight, fast-absorbing, and non-greasy texture Helps lock in moisture for lasting hydration Comfortable for daily use on all skin types Ideal for both morning and evening skincare routines How to Use Cleanse and dry your face thoroughly. Apply toner or serum if desired. Massage a small amount evenly over the face and neck. Allow the cream to absorb completely before applying makeup. Use sunscreen during the day when using retinol products. Product Details Product Type: Retinol Face Cream Key Ingredient: Retinol Skin Type: Suitable for all skin types Texture: Lightweight Moisturising Cream Benefits: Hydrating, Nourishing, Moisturising, Smoothing Application: Daily Facial Skincare Package Includes 1 × Retinol Face Cream Note For external use only. Perform a patch test before first use. Avoid contact with the eyes. If irritation occurs, discontinue use. Use sunscreen during daytime use. Store in a cool, dry place away from direct sunlight. Keep out of reach of children.
-  Updated: 2026-11-14T04:28:47Z
+  Updated: 2026-11-20T04:35:27Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -1004,7 +1004,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/79f62bb79c9720e3a69fe09069d7ebb7.jpg?v=1783568361
     Price: $37.99 AUD
 - [Gold Collagen Crystal Eye Masks – Hydrating & Firming Under Eye Patches (10 Pairs)](https://dolciecare.com/products/20pcs-10pairs-gold-collagen-crystal-eye-mask-skincare-eye-patches-firming-moisturizing-nourishing-eye-skin-care-products): Gold Collagen Crystal Eye Masks – Hydrating & Firming Under Eye Patches (10 Pairs) Refresh and hydrate your under-eye area with Gold Collagen Crystal Eye Masks. These cooling hydrogel eye patches are designed to deliver intense moisture while helping the delicate skin around the eyes feel smoother, softer, and revitalised. Ideal for daily skincare or a relaxing self-care routine, these collagen-infused eye patches provide a comfortable fit and leave the under-eye area looking refreshed. Suitable for all skin types, they help maintain hydrated, healthy-looking skin with every use. Key Benefits Provides deep hydration to the delicate under-eye area Helps improve the appearance of fine lines caused by dryness Leaves skin feeling smoother, softer, and refreshed Cooling hydrogel patches offer a soothing skincare experience Suitable for all skin types Why You'll Love It Infused with collagen for nourishing eye care Soft hydrogel material adheres comfortably to the skin Perfect for self-care, travel, or before makeup application Easy, mess-free application with no rinsing required Helps maintain a hydrated and refreshed-looking eye area How to Use Cleanse and thoroughly dry your face. Place one eye patch beneath each eye. Leave on for 15–20 minutes. Remove the patches and gently pat the remaining essence into the skin. Use 2–3 times per week or as needed. Product Details Product Type: Crystal Hydrogel Eye Masks Main Ingredient: Collagen Colour: Gold Skin Type: Suitable for all skin types Benefits: Hydrating, Moisturising, Nourishing, Smoothing Quantity: 20 Pieces (10 Pairs) Application: Under-Eye Skincare Package Includes 20 × Gold Collagen Crystal Eye Masks (10 Pairs) Note For external use only. Use immediately after opening the pouch. Avoid direct contact with the eyes. Discontinue use if irritation occurs. Store in a cool, dry place away from direct sunlight. Keep out of reach of children.
-  Updated: 2026-11-13T12:56:36Z
+  Updated: 2026-11-19T03:25:26Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -1026,7 +1026,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/ce3302cc7b712e5d8d78ec18c8064f26.jpg?v=1783568365
     Price: $25.99 AUD
 - [Keratin Hair Repair Mask – Biotin & Collagen Deep Conditioning  for Dry Damaged Hair](https://dolciecare.com/products/hair-repairs-hair-mask-biotin-collagen-keratin--hairs-conditioner-hair-essential-oil-nourishing-for-dry-damaged): Keratin Hair Repair Mask – Biotin & Collagen Deep Conditioning  for Dry Damaged Hair Restore softness and shine with this Keratin Hair Repair Mask, a nourishing deep conditioning  formulated with keratin, biotin, and collagen. Designed to moisturise dry, damaged, and frizzy hair, it helps leave hair feeling smoother, softer, and more manageable after every use. Ideal for all hair types, this intensive hair  helps improve the appearance of dull, rough hair while providing long-lasting hydration. Whether your hair has been affected by heat styling, colouring, or everyday damage, this hair mask helps promote healthier-looking, silky-smooth results. Key Benefits Deeply nourishes and moisturises dry, damaged hair Helps improve the appearance of frizz and roughness Leaves hair feeling softer, smoother, and easier to manage Enhances natural-looking shine and softness Suitable for all hair types, including colour-treated hair Why You'll Love It Enriched with keratin, biotin, and collagen Helps improve the look and feel of damaged hair Provides intensive moisture without weighing hair down Easy at-home deep conditioning  Perfect for weekly hair care or whenever extra nourishment is needed How to Use Wash your hair thoroughly with shampoo. Gently towel dry until hair is damp. Apply the hair mask evenly from mid-lengths to ends. Leave on for 10–30 minutes depending on your hair condition. Rinse thoroughly with clean water and style as desired. Product Details Product Type: Hair Repair Mask Key Ingredients: Keratin, Biotin, Collagen Available Sizes: 30g / 60g Hair Type: Suitable for all hair types Benefits: Nourishing, Moisturising, Smoothing, Deep Conditioning Shelf Life: 3 Years Storage: Store in a cool, dry place Package Includes 1 × Keratin Hair Repair Mask Note For external use only. Avoid contact with eyes. If contact occurs, rinse thoroughly with water. Discontinue use if irritation develops. Store in a cool, dry place away from direct sunlight. Keep out of reach of children. Results may vary depending on individual hair condition.
-  Updated: 2026-11-12T04:32:56Z
+  Updated: 2026-11-18T08:23:04Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -1034,13 +1034,13 @@
   - [60G](https://dolciecare.com/products/hair-repairs-hair-mask-biotin-collagen-keratin--hairs-conditioner-hair-essential-oil-nourishing-for-dry-damaged?variant=48140415172829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/d1ae27b7f6d5453354ce9c26558fdb15.jpg?v=1783568369
-    Price: $44.99 AUD
+    Price: $34.99 AUD
   - [30G](https://dolciecare.com/products/hair-repairs-hair-mask-biotin-collagen-keratin--hairs-conditioner-hair-essential-oil-nourishing-for-dry-damaged?variant=48140415205597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/41a7c4efc95e6172ae1c1092186b52df.jpg?v=1783568369
-    Price: $37.99 AUD
+    Price: $27.99 AUD
 - [Hyaluronic Acid Face Cream – Hydrating & Firming Moisturiser for Smoother-Looking Skin](https://dolciecare.com/products/instant-face-lift-cream-with-hyaluronic-acid-for-wrinkles-firming-solution): Hyaluronic Acid Face Cream – Hydrating & Firming Moisturiser for Smoother-Looking Skin Give your skin a boost of hydration with the Hyaluronic Acid Face Cream. This lightweight facial moisturiser is formulated with hyaluronic acid to help replenish moisture, leaving your skin feeling soft, smooth, and refreshed while supporting a healthy-looking complexion. Suitable for daily use, the fast-absorbing formula provides long-lasting hydration without a greasy finish. Designed for use on the entire face, it helps improve the appearance of fine lines caused by dryness while promoting smoother, more supple-looking skin. Key Benefits Deeply hydrates and moisturises the skin Helps improve the appearance of fine lines caused by dryness Supports firmer and smoother-looking skin Leaves skin feeling soft, refreshed, and nourished Suitable for all skin types and everyday skincare routines Why You'll Love It Enriched with hydrating hyaluronic acid Lightweight, fast-absorbing, and non-greasy formula Suitable for use on the entire face Provides long-lasting moisture for a healthy-looking complexion Ideal for both morning and evening skincare routines How to Use Cleanse and dry your face thoroughly. Apply toner or serum if desired. Massage a small amount of cream evenly over the face and neck. Allow the cream to absorb completely before applying makeup or sunscreen. Use morning and evening for best results. Product Details Product Type: Hyaluronic Acid Face Cream Net Volume: 50ml Key Ingredient: Hyaluronic Acid Skin Type: Suitable for all skin types Texture: Lightweight Moisturising Cream Benefits: Hydrating, Moisturising, Nourishing, Smoothing Application: Daily Facial Skincare Package Includes 1 × Hyaluronic Acid Face Cream (50ml) Note For external use only. Perform a patch test before first use. Avoid direct contact with the eyes. Discontinue use if irritation occurs. Store in a cool, dry place away from direct sunlight. Keep out of reach of children.
-  Updated: 2026-11-12T21:53:56Z
+  Updated: 2026-11-21T15:19:36Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -1054,7 +1054,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/089959275df1188ecde1beb9d102a4ea.jpg?v=1783568372
     Price: $45.99 AUD
 - [Retinol Firming Face Cream – Hydrating & Nourishing Moisturiser for All Skin Types](https://dolciecare.com/products/retinol-lifting-firming-cream-repairing-moisturizing-nourishing-cream-brightening-skin-facial-cream-anti-aging-face-skin-care): Retinol Firming Face Cream – Hydrating & Nourishing Moisturiser for All Skin Types Refresh and nourish your skin with the Retinol Firming Face Cream. Formulated with retinol and moisturising ingredients, this facial cream helps improve the appearance of skin texture while providing lasting hydration for a softer, smoother, and healthier-looking complexion. Suitable for all skin types, this lightweight cream absorbs comfortably into the skin without feeling greasy. It delivers daily moisture to dry skin and supports a well-balanced skincare routine for a refreshed, radiant appearance. Key Benefits Provides deep hydration to help relieve dryness Helps improve the appearance of uneven skin texture Leaves skin feeling softer, smoother, and more supple Nourishes and moisturises for lasting comfort Suitable for daily use on all skin types Why You'll Love It Formulated with retinol to complement your skincare routine Lightweight, fast-absorbing, and non-greasy texture Helps maintain a healthy-looking, radiant complexion Available in two convenient sizes: 30g and 60g Suitable for both morning and evening skincare routines How to Use Cleanse and dry your face thoroughly. Apply toner or serum if desired. Massage a small amount of cream evenly over the face and neck. Allow the cream to absorb completely before applying makeup or sunscreen. If using during the day, apply a broad-spectrum sunscreen as the final step of your skincare routine. Product Details Product Type: Retinol Face Cream Available Sizes: 30g or 60g Key Ingredient: Retinol Skin Type: Suitable for all skin types Benefits: Hydrating, Moisturising, Nourishing, Smoothing Shelf Life: 3 years Package Includes 1 × Retinol Firming Face Cream Note For external use only. Perform a patch test before first use. If you are new to retinol, begin with less frequent application and gradually increase use as tolerated. Avoid direct contact with the eyes. Use sunscreen during the day when using retinol products. Discontinue use if irritation occurs. Store in a cool, dry place away from direct sunlight. Keep out of reach of children.
-  Updated: 2026-11-14T04:29:06Z
+  Updated: 2026-11-20T04:35:28Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -1076,14 +1076,14 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/c1ff9152764a906b9b2b5dd167c1c7ac.jpg?v=1783568371
     Price: $44.99 AUD
 - [PHATOIL Pure Essential Oil – Aromatherapy Oil for Diffusers & Humidifiers 100ml](https://dolciecare.com/products/100ml-natural-essential-oil-for-aromatherapy-lemongrass-eucalyptus-lavender-peppermint-fragrance-essential-oils): PHATOIL 100ml Pure Essential Oil – Aromatherapy Oil for Diffusers & Humidifiers Create a relaxing and refreshing atmosphere with PHATOIL 100ml Pure Essential Oil. Made from pure plant extracts with no added fillers, this versatile essential oil is ideal for aromatherapy, diffusers, humidifiers, oil burners, and a wide range of DIY home and beauty projects. Available in a variety of popular fragrances including Lemongrass, Eucalyptus, Lavender, Peppermint, and more, each oil is packaged in a UV-protective amber glass bottle with a precision glass dropper to help preserve freshness and ensure easy application. Key Benefits 100% pure plant extract essential oil Ideal for aromatherapy, relaxation, and home fragrance Suitable for diffusers, humidifiers, and oil burners Perfect for DIY candles, soaps, bath bombs, and skincare recipes Amber glass bottle helps protect the oil from UV light Why You'll Love It No added fillers or unnecessary additives Available in a range of refreshing and floral fragrances Includes a precision glass dropper for controlled dispensing Large 100ml bottle offers excellent value for regular use Beautifully packaged in a gift box, making it a thoughtful gift How to Use Add a few drops to your favourite diffuser or humidifier to enjoy the aroma. Use with an oil burner to fragrance your living space. Add a few drops to tissues or aroma jewellery for personal aromatherapy. Blend into DIY candles, soaps, bath bombs, or other craft projects. Always dilute with a suitable carrier oil before topical application. Product Details Brand: PHATOIL Product Type: Pure Essential Oil Net Volume: 100ml Available Fragrances: Lemongrass, Eucalyptus, Lavender, Peppermint and more Bottle Type: Amber UV-Protective Glass Bottle Accessories: Glass Dropper Included Application: Aromatherapy, Diffusers, Humidifiers, Oil Burners, DIY Crafts Package Includes 1 × PHATOIL Essential Oil (100ml) 1 × Glass Dropper 1 × Gift Box Note For external use only. Always dilute with a carrier oil before applying to the skin. Avoid direct contact with eyes. Keep out of reach of children and pets. Store in a cool, dry place away from direct sunlight. If pregnant, nursing, or under  care, consult a  professional before use.
-  Updated: 2026-11-13T00:45:17Z
+  Updated: 2026-11-18T21:57:16Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/2a0ddeaee78e3eb2c46c8e3605509324.jpg?v=1783568369
   Price: $42.99 AUD
 - [Retinol Collagen Face Cream – Deep Hydrating & Moisturising Anti-Ageing Cream](https://dolciecare.com/products/retinol-collagen-facial-care-moisturizing-cream-deep-hydration-suitable-for-dry-aging-face-cream-moisturizing-skin-repair): Retinol Collagen Face Cream – Deep Hydrating & Moisturising Anti-Ageing Cream Restore lasting moisture to your skin with the Retinol Collagen Face Cream. Formulated with retinol, collagen, and hydrating ingredients, this nourishing facial moisturiser helps improve the appearance of dry, tired-looking skin while leaving your complexion feeling soft, smooth, and refreshed. Designed for daily skincare, this lightweight cream absorbs comfortably into the skin to provide long-lasting hydration and support a healthier-looking complexion. It is especially suitable for dry and mature skin but can be used as part of any regular skincare routine. Key Benefits Provides deep hydration to help relieve dryness Helps improve the appearance of fine lines and uneven skin texture Supports softer, smoother, and more supple-looking skin Helps maintain skin moisture for a healthy-looking complexion Suitable for daily moisturising and skincare routines Why You'll Love It Enriched with retinol and collagen to support skin care Lightweight, non-greasy formula absorbs quickly Leaves skin feeling hydrated, smooth, and comfortable Suitable for dry, mature, and dehydrated skin Ideal for both morning and evening skincare routines How to Use Cleanse and dry your face thoroughly. Apply toner and serum if part of your skincare routine. Massage a small amount of cream evenly over the face and neck. Allow the cream to absorb completely before applying makeup or sunscreen. For daytime use, follow with a broad-spectrum sunscreen. Product Details Product Type: Retinol Collagen Face Cream Key Ingredients: Retinol, Collagen Skin Type: Suitable for all skin types, especially dry and mature skin Texture: Lightweight Moisturising Cream Benefits: Hydrating, Moisturising, Smoothing, Nourishing Application: Daily Facial Skincare Package Includes 1 × Retinol Collagen Face Cream Note For external use only. Perform a patch test before first use. Avoid direct contact with the eyes. If using retinol during the day, always apply sunscreen. Discontinue use if irritation occurs. Store in a cool, dry place away from direct sunlight. Keep out of reach of children.
-  Updated: 2026-11-14T04:28:57Z
+  Updated: 2026-11-21T04:26:54Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -1105,7 +1105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/b383999c060caf647587af22bd1495ed.jpg?v=1783568366
     Price: $46.99 AUD
 - [LAKERAIN Collagen Multi Balm Stick – Hydrating Wrinkle Bounce Moisturising Balm](https://dolciecare.com/products/moisturizing-wrinkle-bounce-multi-balm-collagen-multi-balm-stick-wrinkle-bounce-balm-multi-cream-dull-cosmetics-korean): LAKERAIN Collagen Multi Balm Stick – Hydrating Wrinkle Bounce Moisturising Balm Keep your skin hydrated and glowing throughout the day with the LAKERAIN Collagen Multi Balm Stick. This convenient multi-use moisturising balm is formulated with collagen, hyaluronic acid, and sunflower seed oil to deliver instant hydration while helping skin feel softer, smoother, and more supple. Perfect for use on dry or dull areas such as the face, neck, and around the eyes, this portable balm glides effortlessly onto the skin without leaving a sticky residue. Its compact stick design makes it ideal for quick touch-ups at home, at work, or while travelling. Key Benefits Provides instant and long-lasting hydration Helps improve the appearance of fine lines and dry skin Supports softer, smoother, and more radiant-looking skin Helps maintain skin elasticity with collagen and hyaluronic acid Convenient stick format for easy, mess-free application Why You'll Love It Enriched with collagen, hyaluronic acid, and sunflower seed oil Multi-purpose balm for the face, neck, eye area, and other dry spots Portable design for on-the-go hydration anytime Lightweight formula glides smoothly without feeling greasy Suitable for all skin types and everyday skincare routines How to Use Cleanse your skin before application. Twist the balm stick and apply directly to dry or dull areas. Use on the face, around the eyes, cheeks, neck, or other areas needing extra moisture. Gently blend if desired. Reapply throughout the day whenever your skin needs additional hydration. Product Details Brand: LAKERAIN Product Type: Collagen Multi Balm Stick Net Weight: 39g Key Ingredients: Collagen, Hyaluronic Acid, Sunflower Seed Oil Skin Type: Suitable for all skin types Features: Hydrating, Moisturising, Radiance-Enhancing, Portable Multi-Use Balm Shelf Life: 3 years Package Includes 1 × LAKERAIN Collagen Multi Balm Stick (39g) Note For external use only. Perform a patch test before first use. Avoid direct contact with eyes. Discontinue use if irritation occurs. Store in a cool, dry place away from direct sunlight. Keep out of reach of children.
-  Updated: 2026-11-13T04:26:36Z
+  Updated: 2026-11-21T04:27:05Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -1119,7 +1119,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/3841/9165/files/ef6d5be0429ef089bd1c3d822fcbf667.jpg?v=1783568371
     Price: $33.99 AUD
 - [Roller Fragrance Oil – Long-Lasting Perfume Oil with Rollerball 10ml](https://dolciecare.com/products/10ml-womens-roller-fragrance-oil-coconut-vanilla-bubble-gum-bright-crystal-bombshell-midnight-rose-angel-aroma-oils): Roller Fragrance Oil – Long-Lasting Perfume Oil with Rollerball 10ml Enjoy your favourite scent wherever you go with the 10ml Women's Roller Fragrance Oil. Designed for convenient everyday use, this compact perfume oil features a smooth rollerball applicator for effortless, mess-free application anytime you need a fragrance refresh. Available in a selection of popular fragrance-inspired scents including Coconut Vanilla, Bubble Gum, Bright Crystal, Bombshell, Midnight Rose, and Angel, this portable perfume oil is perfect for travel, work, or daily wear. The amber glass bottle helps protect the fragrance while maintaining its quality. Key Benefits Long-lasting fragrance in a convenient rollerball bottle Compact 10ml size is ideal for travel and handbags Easy, mess-free application with a stainless steel roller Amber glass bottle helps protect fragrance quality Suitable for daily wear and fragrance touch-ups Why You'll Love It Available in multiple fragrance-inspired scents Alcohol-free oil-based perfume for smooth application Portable design fits easily into your pocket or handbag Can be applied throughout the day whenever desired Presented in an elegant gift box, making it a thoughtful gift How to Use Remove the cap from the roller bottle. Apply directly to pulse points such as the wrists, neck, behind the ears, or inner elbows. Reapply throughout the day as desired. Store upright in a cool, dry place when not in use. Product Details Product Type: Roller Fragrance Oil Net Volume: 10ml Bottle Type: Amber Glass Roller Bottle Application: Wrists, Neck, Behind Ears, Hair Ends, Ankles and Other Pulse Points Available Fragrances: Coconut Vanilla, Bubble Gum, Bright Crystal, Bombshell, Midnight Rose, Angel and more Suitable For: Everyday Wear, Travel, Handbag, Gift Giving Package Includes 1 × 10ml Roller Fragrance Oil 1 × Gift Box Note For external use only. Avoid contact with eyes. Do not apply to broken or irritated skin. Store in a cool, dry place away from direct sunlight. Keep out of reach of children. Discontinue use if irritation occurs.
-  Updated: 2026-11-14T04:28:57Z
+  Updated: 2026-11-21T02:49:02Z
   Vendor: Dolcie Care
   Product Type: 
   Availability: Available
@@ -1256,7 +1256,7 @@
   Updated: 2026-07-09T01:13:00Z
   Total Products: 0
 - [Dolcie Facial Cleanser Collection](https://dolciecare.com/collections/dolcie-facial-cleanser-collection): Indulge in the art of refined skincare with the Dolcie Facial Cleanser Collection — where elegance meets efficacy. Each formulation is meticulously crafted with rare botanicals, nutrient-rich extracts, and a whisper of opulence, delivering a cleansing experience that goes beyond the ordinary. Silky textures and delicate aromas transform your daily ritual into a moment of pure indulgence, leaving your skin immaculately clean, perfectly balanced, and exquisitely radiant. For those who believe skincare is not just a routine, but a luxury.
-  Updated: 2026-10-12T11:55:07Z
+  Updated: 2026-11-20T06:11:28Z
   Total Products: 7
 - [Dolcie Sunscreen Collection](https://dolciecare.com/collections/dolcie-sunscreen-collection): Bask in the beauty of sun-safe skin with the Dolcie Sunscreen Collection — a curated range that blends advanced UV protection with indulgent skincare benefits. Each formula is enriched with nourishing botanicals, hydrating actives, and a silky finish that feels as good as it protects. From everyday wear to beachside escapes, our sunscreens shield against harmful UVA and UVB rays while enhancing your natural radiance. Lightweight, non-greasy, and effortlessly elegant, the Dolcie Sunscreen Collection turns sun care into a daily luxury.
   Updated: 2026-06-25T07:29:29Z
@@ -1265,38 +1265,38 @@
   Updated: 2026-06-25T07:29:29Z
   Total Products: 0
 - [Dolcie Hair Care Collection](https://dolciecare.com/collections/dolcie-hair-care-collection): Experience the elegance of healthy, radiant hair with the Dolcie Hair Care Collection — where science meets sophistication. Each product is infused with nutrient-rich botanicals, restorative oils, and advanced hair-strengthening actives to nourish from root to tip. Whether you seek silky smoothness, voluminous body, or revitalised shine, this collection transforms your haircare routine into a sensorial escape. Indulge in luxurious textures and delicate fragrances, and let every strand reflect your beauty and confidence.
-  Updated: 2026-11-12T12:24:44Z
+  Updated: 2026-11-21T12:20:13Z
   Total Products: 32
 - [Dolcie Care - Self Care Starts Here](https://dolciecare.com/collections/self-care-starts-here): The Self Care Starts Here Collection is a thoughtfully curated range designed to encourage daily rituals of rest, balance, and renewal. Featuring nourishing skincare, soothing aromatherapy, and wellness essentials, this collection transforms simple moments into acts of self-love. Gentle, natural, and effective, each product helps you unwind, recharge, and reconnect—because true beauty and wellbeing begin with taking care of yourself.
-  Updated: 2026-11-11T11:25:15Z
+  Updated: 2026-11-20T05:57:24Z
   Total Products: 61
 - [Dolcie Care - Sensitive & Reactive Skin Care](https://dolciecare.com/collections/sensitive-reactive-skin-care): Sensitive & Reactive Skin Care is specially formulated to calm, protect, and strengthen delicate skin that easily reacts to environmental stressors. Enriched with soothing botanicals and dermatologically tested ingredients, this range helps reduce redness, irritation, and discomfort while restoring the skin’s natural barrier. Gentle, fragrance-free, and hypoallergenic, it provides daily comfort and long-lasting hydration—leaving sensitive skin feeling balanced, resilient, and cared for.
-  Updated: 2026-11-12T08:25:17Z
-  Total Products: 134
+  Updated: 2026-11-20T06:11:28Z
+  Total Products: 136
 - [Dolcie Care - Body Care & Renewal](https://dolciecare.com/collections/body-exfoliation-renewal): Body Care & Renewal is designed to nourish, refresh, and revitalize your skin from head to toe. Featuring a curated selection of cleansers, exfoliators, moisturizers, body oils, and skin-renewing treatments, these products help hydrate dry skin, improve texture, and restore a healthy-looking glow. Whether you're cleansing, exfoliating, or deeply moisturizing, regular body care supports softer, smoother, and more radiant skin while enhancing your daily self-care routine.
-  Updated: 2026-11-12T08:17:39Z
-  Total Products: 44
+  Updated: 2026-11-20T05:20:10Z
+  Total Products: 45
 - [Dolcie Care - Overnight Skin Therapy Collection](https://dolciecare.com/collections/overnight-skin-therapy): Overnight Skin Therapy is an intensive nighttime  designed to restore, hydrate, and rejuvenate your skin while you sleep. Enriched with nourishing botanicals, antioxidants, and deeply hydrating ingredients, this formula works in harmony with the skin’s natural renewal cycle to improve elasticity, smooth texture, and promote a radiant, well-rested complexion by morning. Wake up to skin that feels softer, plumper, and visibly revitalized.
   Updated: 2026-06-25T07:29:30Z
   Total Products: 0
 - [Dolcie Care - Wellness & Aromatherapy Collection](https://dolciecare.com/collections/wellness-aromatherapy-care): Wellness & Aromatherapy Care is designed to nurture the body, mind, and spirit through the natural power of essential oils and holistic rituals. From calming lavender blends that promote relaxation to invigorating citrus scents that uplift and energize, each product is crafted to support balance, wellbeing, and self-care. Free from harsh chemicals and inspired by nature’s healing properties, our aromatherapy range transforms everyday routines into moments of tranquility and renewal—helping you feel grounded, refreshed, and restored.
-  Updated: 2026-11-12T08:16:42Z
-  Total Products: 94
+  Updated: 2026-11-20T06:11:28Z
+  Total Products: 102
 - [Anti-Aging Collection — Smooth, Firm & Brighten](https://dolciecare.com/collections/anti-aging-collection-smooth-firm-amp-brighten): Meet your glow-up routine. Our Anti-Aging Collection brings together targeted serums, creams, eye care, masks, and tools that help soften the look of fine lines, boost visible firmness, and revive radiance—without a heavy feel. Thoughtfully curated for all skin types, from first signs of aging to more mature skin. Why You’ll Love It Results-driven actives: retinol, peptides, niacinamide, vitamin C, hyaluronic acid, ceramides, and botanical antioxidants. Daily comfort: lightweight, layerable textures designed to hydrate while supporting the skin barrier. Targeted care: options for lines, loss of firmness, dark spots, dryness, and uneven texture. Hero Ingredients Retinol (Vitamin A): helps visibly smooth and refine texture. Peptides & Collagen support: promote a firmer, bouncier look. Niacinamide (B3): helps even the look of tone and refine pores. Vitamin C: brightening antioxidant to boost visible radiance. Hyaluronic Acid & Ceramides: multi-level hydration and barrier care. How to Build Your Routine AM: Cleanser → Vitamin C or Niacinamide Serum → Moisturizer → SPF 30+PM: Cleanser → Retinol or Peptide Serum → Rich Cream / Sleeping Mask (2–3× weekly as needed)Eye Care: Apply eye serum/cream after serums, before moisturizer. Shop by Concern Fine Lines & Wrinkles: retinol serums, peptide creams, eye treatments Firmness & Elasticity: collagen/peptide formulas, lifting masks, massage tools Dark Spots & Dullness: vitamin C, niacinamide, gentle exfoliators Dryness & Barrier Support: hyaluronic acid, ceramides, nourishing oils Good to Know Patch test new products. For external use only; avoid contact with eyes. Introduce retinol gradually (2–3×/week), then increase as tolerated. Use SPF daily. Avoid layering strong exfoliants with retinol on the same night.
-  Updated: 2026-11-12T08:16:42Z
+  Updated: 2026-11-20T06:10:48Z
   Total Products: 80
 - [Dolcie Care Make-Up Collection — Everyday Glow, Effortless Glam](https://dolciecare.com/collections/dolcie-care-make-up-collection-everyday-glow-effortless-glam): Build your signature look with Dolcie Care. From skin-like bases to high-impact lips and eyes, our make-up edit is curated for easy application, buildable coverage, and comfortable, all-day wear—for every shade, mood, and moment. Why You’ll Love It Skin-first formulas: lightweight, blendable textures that let your skin look like skin. Buildable payoff: sheer to bold—layer to your vibe without caking or heaviness. Long-wear comfort: flexible, fade-resistant finishes designed to move with you. Shade-inclusive: tones and undertones that flatter across complexions. Routine-ready: plays nicely with skincare and sets beautifully under setting spray or powder. Shop by Category Face: primers, foundations, tinted bases, long-wear concealers, setting powders & sprays. Cheeks: blush (cream & powder), bronzer/contour, soft-focus highlighters. Eyes: mascaras, liners, eyeshadow palettes, brow definers & gels. Lips: glosses & glazes, velvet mattes, nourishing oils, liners. Tools: brushes, sponges, curlers—everything for a smooth, pro-looking finish. Finish & Coverage Guide Natural/skin-like: everyday wear with a soft glow. Soft matte: shine-balanced, camera-ready complexion. Radiant: light-reflecting for lit-from-within lum
-  Updated: 2026-10-14T01:47:30Z
+  Updated: 2026-11-20T06:12:51Z
   Total Products: 13
 - [Dolcie Care - Premium Health Supplements](https://dolciecare.com/collections/supplements): Discover premium health supplements at DolcieCare. Shop vitamins, minerals, collagen, probiotics, immune support, beauty and wellness supplements with fast Australia-wide shipping.
-  Updated: 2026-11-12T08:26:49Z
+  Updated: 2026-11-20T06:13:36Z
   Total Products: 175
 - [All Products](https://dolciecare.com/collections/all-products)
-  Updated: 2026-11-12T12:24:44Z
+  Updated: 2026-11-21T12:20:13Z
   Total Products: 396
 - [Self-Care Devices & Equipment](https://dolciecare.com/collections/self-care-devices-equipment): Discover our Self-Care Devices & Equipment collection, featuring practical tools designed to support your everyday beauty, grooming, relaxation, and personal wellness routines. From skincare devices and hair care tools to massage equipment and personal care gadgets, find convenient solutions to help you care for yourself from the comfort of home.
-  Updated: 2026-11-09T11:41:00Z
-  Total Products: 14
+  Updated: 2026-11-20T05:37:43Z
+  Total Products: 12
 
 ## Blogs
 
