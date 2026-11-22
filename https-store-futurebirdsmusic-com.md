@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2025-01-29T15:35:52Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-14T01:21:01.700Z
+- Updated At: 2026-11-22T01:28:40.727Z
 
 ## Products
 
 - [Thanks Y'all Violet Vinyl](https://store.futurebirdsmusic.com/products/thanks-yall-violet-vinyl): Futurebirds' 2023 album Thanks Y'all pressed on clear violet vinyl On their new live album, …Thanks Y’all, Athens GA-based rock juggernauts The Futurebirds once again team up with My Morning Jacket's guitarist + producer Carl Broemel for the latest chapter of their bountiful partnership The 22-track compilation was recorded over 9 shows in February 2023, and finds the “Carlbirds” firing on all cylinders, with the best highlights captured for posterity TRACKLIST SIDE A All Damn Night Sedan Man Rodeo Carried Away SIDE B Olive Garden Daydream #47 Put Up, Keep Up College Try Monteagle SIDE C Twentyseven Buffet Days APO M J B SIDE D Blue Eyed Girl The Creeper Trippin' St. Teresa SIDE E Sinz & Frenz Johnny Utah 4th of July SIDE F Wear It Out Waiting On a Call My Broken Arm
-  Updated: 2026-11-09T15:34:19Z
+  Updated: 2026-11-19T14:29:56Z
   Vendor: Futurebirds Merch
   Product Type: vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSTHANKSYALLVIOLETVINYL.png?v=1751048530
   Price: $35.00 USD
 - [Futurebirds x Howler Bros Snapfront Shirt](https://store.futurebirdsmusic.com/products/futurebirds-x-howler-bros-snapfront-shirt): The Futurebirds x Howler Brothers collaboration, exclusively available online. Futurebirds rainbow Birdhead embroidered on the chest with the band name on the back left shoulder Quick drying cotton, polyester, & spandex blendVented backPearl snapsSunglass cleaning microfiber at hemRegular fit
-  Updated: 2026-11-06T20:23:08Z
+  Updated: 2026-11-19T14:29:55Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -321,7 +321,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [College Crewneck](https://store.futurebirdsmusic.com/products/college-crewneck): Futurebirds College Crewneck in "sport gray" with front print only.
-  Updated: 2026-11-09T15:34:15Z
+  Updated: 2026-11-18T00:30:27Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -377,7 +377,7 @@
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSPCLPOSTERSIGNED.png?v=1773261199
   Price: $20.00 USD
 - [Bloomin' Poster - Foil](https://store.futurebirdsmusic.com/products/bloomin-poster-foil): Futurebirds Foil Bloomin' Poster
-  Updated: 2026-11-13T08:37:07Z
+  Updated: 2026-11-14T02:27:10Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
@@ -391,14 +391,14 @@
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSTEXSPOSTER.png?v=1773261444
   Price: $10.00 USD
 - [Howlin' Summer II Poster](https://store.futurebirdsmusic.com/products/howlin-summer-poster): Unsigned Howlin' Summer II Poster
-  Updated: 2026-10-05T13:04:31Z
+  Updated: 2026-11-20T15:59:56Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSHOWLINGSUMMERPOSTER_d92c5cdc-6610-4b82-b9c2-7430f5889e6c.png?v=1775678718
   Price: $10.00 USD
 - [West Coast Poster](https://store.futurebirdsmusic.com/products/west-coast-poster): West Coast Tour Poster
-  Updated: 2026-10-05T13:04:32Z
+  Updated: 2026-11-17T14:32:25Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
@@ -605,7 +605,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Birdhead Polo](https://store.futurebirdsmusic.com/products/birdhead-polo): Futurebirds Custom Birdhead Polo in black with front pocket embroidery.
-  Updated: 2026-11-13T08:34:54Z
+  Updated: 2026-11-19T14:29:56Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -629,28 +629,28 @@
 ## Collections
 
 - [Home page](https://store.futurebirdsmusic.com/collections/frontpage)
-  Updated: 2026-11-12T20:38:27Z
+  Updated: 2026-11-20T12:10:20Z
   Total Products: 61
 - [Apparel](https://store.futurebirdsmusic.com/collections/apparel)
-  Updated: 2026-11-12T20:38:27Z
+  Updated: 2026-11-20T12:10:20Z
   Total Products: 33
 - [Accessories](https://store.futurebirdsmusic.com/collections/accessories)
-  Updated: 2026-11-12T20:38:27Z
+  Updated: 2026-11-21T12:10:55Z
   Total Products: 36
 - [All](https://store.futurebirdsmusic.com/collections/all)
-  Updated: 2026-11-12T20:38:17Z
+  Updated: 2026-11-21T12:10:55Z
   Total Products: 47
 - [Music](https://store.futurebirdsmusic.com/collections/music)
-  Updated: 2026-11-12T20:38:12Z
+  Updated: 2026-11-20T12:10:20Z
   Total Products: 5
 - [Summer Collection](https://store.futurebirdsmusic.com/collections/summer-collection)
   Updated: 2026-11-07T12:13:02Z
   Total Products: 12
 - [Fall Collection](https://store.futurebirdsmusic.com/collections/fall-collection)
-  Updated: 2026-11-12T20:38:27Z
+  Updated: 2026-11-18T12:12:12Z
   Total Products: 5
 - [Black Friday ](https://store.futurebirdsmusic.com/collections/black-friday-)
-  Updated: 2026-11-12T20:38:12Z
+  Updated: 2026-11-20T12:10:20Z
   Total Products: 29
 - [Hats](https://store.futurebirdsmusic.com/collections/hats)
   Updated: 2026-11-12T12:14:24Z
@@ -659,22 +659,22 @@
   Updated: 2026-11-12T20:38:27Z
   Total Products: 7
 - [The Red Collection](https://store.futurebirdsmusic.com/collections/trippin)
-  Updated: 2026-11-12T20:38:27Z
+  Updated: 2026-11-18T12:12:12Z
   Total Products: 11
 - [Posters](https://store.futurebirdsmusic.com/collections/posters)
-  Updated: 2026-11-12T20:38:18Z
+  Updated: 2026-11-18T12:12:12Z
   Total Products: 8
 - [Spring Collection](https://store.futurebirdsmusic.com/collections/spring-collection)
   Updated: 2026-11-12T20:38:13Z
   Total Products: 4
 - [EG All Products - DO NOT EDIT](https://store.futurebirdsmusic.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu’elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-11-12T20:38:27Z
+  Updated: 2026-11-21T12:10:55Z
   Total Products: 74
 - [Summer Kickoff](https://store.futurebirdsmusic.com/collections/summer-kickoff)
   Updated: 2026-11-12T20:38:12Z
   Total Products: 16
 - [Far Out Country](https://store.futurebirdsmusic.com/collections/far-out-country)
-  Updated: 2026-11-12T20:39:02Z
+  Updated: 2026-11-20T12:10:20Z
   Total Products: 7
 
 ## Store Pages
