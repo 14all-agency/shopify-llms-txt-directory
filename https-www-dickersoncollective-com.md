@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2020-05-06T18:06:04Z
 - Contact Email: bonitainteriors@yahoo.com
-- Updated At: 2026-11-14T01:01:11.939Z
+- Updated At: 2026-11-22T01:11:58.308Z
 
 ## Products
 
@@ -116,7 +116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/567BDA08-0F4F-4CF6-AD5C-360C70C4C66A.jpg?v=1784613528
   Price: $325.00 USD
 - [Vintage 1970s Black Ottoman on Casters | Dickerson Collective](https://www.dickersoncollective.com/products/armless-slipper-chairs): Vintage 1970s black ottoman with an armless silhouette and front casters for flexible seating or use as a footrest.
-  Updated: 2026-10-12T21:56:13Z
+  Updated: 2026-11-20T08:21:33Z
   Vendor: Dickerson Collective
   Product Type: Ottomans
   Availability: Available
@@ -1375,13 +1375,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/0D084655-0AC2-4799-9258-A26F8EBED7F8.jpg?v=1773978554
   Price: $175.00 USD
-- [Vintage Cloisonné Green Dragon Trinket Box | Dickerson Collective](https://www.dickersoncollective.com/products/vintage-cloisonne-trinket-box-hand-painted-with-floral-bird-design): Vintage cloisonné enamel trinket box with a traditional green dragon motif and gold-tone detailing.
-  Updated: 2026-10-28T13:39:57Z
-  Vendor: Dickerson Collective
-  Product Type: Jewelry Boxes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/35FC999A-E185-4462-A5C3-F70FCC49C99A.jpg?v=1780971588
-  Price: $45.00 USD
 - [Vintage Chinese Cloisonné Floral Trinket Dish | Dickerson Collective](https://www.dickersoncollective.com/products/vintage-cloisonne-floral-trinket-dish): Vintage Chinese cloisonné enamel trinket dish with floral motif, black ground, turquoise border, and brass rim.
   Updated: 2026-10-28T13:37:56Z
   Vendor: Dickerson Collective
@@ -1695,10 +1688,10 @@
 ## Collections
 
 - [Furniture](https://www.dickersoncollective.com/collections/furniture): Shop vintage furniture at Dickerson Collective in Los Angeles. Discover sofas, chairs, tables and cabinets online or visit our Riverside Drive store.
-  Updated: 2026-11-13T19:51:21Z
+  Updated: 2026-11-19T20:21:34Z
   Total Products: 227
 - [Seating](https://www.dickersoncollective.com/collections/seating): Shop Seating at Dickerson Collective.
-  Updated: 2026-11-13T19:51:21Z
+  Updated: 2026-11-19T20:21:34Z
   Total Products: 122
 - [Tables](https://www.dickersoncollective.com/collections/tables): Shop Tables at Dickerson Collective.
   Updated: 2026-11-12T19:00:02Z
@@ -1803,7 +1796,7 @@
   Updated: 2026-07-30T00:09:13Z
   Total Products: 0
 - [Kitchen & Dining](https://www.dickersoncollective.com/collections/kitchen-dining): Shop Kitchen & Dining at Dickerson Collective.
-  Updated: 2026-10-12T03:14:10Z
+  Updated: 2026-11-20T00:48:46Z
   Total Products: 139
 - [Glassware](https://www.dickersoncollective.com/collections/glassware): Shop Glassware at Dickerson Collective.
   Updated: 2026-07-30T00:08:26Z
@@ -1881,7 +1874,7 @@
   Updated: 2026-10-15T11:09:28Z
   Total Products: 14
 - [Glass](https://www.dickersoncollective.com/collections/glass): Shop Glass at Dickerson Collective.
-  Updated: 2026-11-12T18:59:23Z
+  Updated: 2026-11-19T00:30:06Z
   Total Products: 31
 - [Iron](https://www.dickersoncollective.com/collections/iron): Shop Iron at Dickerson Collective.
   Updated: 2026-10-12T03:15:46Z
@@ -1959,13 +1952,13 @@
   Updated: 2026-07-30T00:07:40Z
   Total Products: 0
 - [Art](https://www.dickersoncollective.com/collections/art): Explore original paintings, mixed media, sculpture and artwork by Angela Dickerson at Dickerson Collective in Los Angeles. Shop online or visit by appointment.
-  Updated: 2026-10-30T23:10:25Z
+  Updated: 2026-11-21T21:41:05Z
   Total Products: 320
 - [Angela Dickerson](https://www.dickersoncollective.com/collections/angela-dickerson): Discover original abstract and mixed-media artwork by Angela Dickerson. Featured in Presumed Innocent, Emily Henderson interiors, and Houzz.
-  Updated: 2026-10-27T18:48:28Z
+  Updated: 2026-11-21T21:41:05Z
   Total Products: 75
 - [Featured Artists](https://www.dickersoncollective.com/collections/featured-artists): Featured Artist: Angela Dickerson Angela Dickerson is a Los Angeles-area abstract and mixed-media artist whose work explores expressive color and layered texture. Her earlier art and design business, Bonita Interiors, grew into Dickerson Collective. Her original paintings have appeared in Presumed Innocent and in published interiors by Emily Henderson and Houzz. Meet Angela Dickerson Shop Angela Dickerson Artwork Seen on Screen
-  Updated: 2026-10-27T19:17:54Z
+  Updated: 2026-11-21T21:41:05Z
   Total Products: 75
 - [Guest Artists](https://www.dickersoncollective.com/collections/guest-artists): Shop Guest Artists at Dickerson Collective.
   Updated: 2026-07-30T00:08:27Z
@@ -1974,10 +1967,10 @@
   Updated: 2026-07-30T00:08:14Z
   Total Products: 0
 - [Paintings](https://www.dickersoncollective.com/collections/paintings): Shop Paintings at Dickerson Collective.
-  Updated: 2026-10-30T23:10:25Z
+  Updated: 2026-11-21T21:41:05Z
   Total Products: 128
 - [Abstract Art](https://www.dickersoncollective.com/collections/abstract-art): Shop Abstract Art at Dickerson Collective.
-  Updated: 2026-10-30T23:10:25Z
+  Updated: 2026-11-21T21:41:05Z
   Total Products: 122
 - [Portraits](https://www.dickersoncollective.com/collections/portraits): Shop Portraits at Dickerson Collective.
   Updated: 2026-07-30T00:08:51Z
@@ -2118,16 +2111,16 @@
   Updated: 2026-07-30T00:08:09Z
   Total Products: 0
 - [Under $100](https://www.dickersoncollective.com/collections/under-100): Shop one-of-a-kind vintage art, pottery, clothing and objects priced under $100 from Dickerson Collective.
-  Updated: 2026-11-13T00:21:20Z
-  Total Products: 395
+  Updated: 2026-11-20T00:49:51Z
+  Total Products: 393
 - [Under $500](https://www.dickersoncollective.com/collections/under-500): Shop one-of-a-kind vintage art, pottery, fashion, furniture and objects priced under $500 from Dickerson Collective.
-  Updated: 2026-11-13T00:21:21Z
-  Total Products: 1027
+  Updated: 2026-11-20T00:49:51Z
+  Total Products: 1025
 - [Best  Products](https://www.dickersoncollective.com/collections/best--products)
-  Updated: 2026-11-13T19:51:21Z
+  Updated: 2026-11-21T21:41:05Z
   Total Products: 1585
 - [Newest Products](https://www.dickersoncollective.com/collections/newest-products)
-  Updated: 2026-11-13T19:51:21Z
+  Updated: 2026-11-21T21:41:05Z
   Total Products: 1585
 - [Accessories](https://www.dickersoncollective.com/collections/accessories): Shop Accessories at Dickerson Collective.
   Updated: 2026-10-12T03:15:40Z
@@ -2187,7 +2180,7 @@
   Updated: 2026-07-30T00:08:43Z
   Total Products: 0
 - [Pottery & Objects](https://www.dickersoncollective.com/collections/pottery-and-objects): Shop Pottery & Objects at Dickerson Collective.
-  Updated: 2026-11-13T12:08:39Z
+  Updated: 2026-11-20T00:48:46Z
   Total Products: 569
 - [Production Rentals](https://www.dickersoncollective.com/collections/production-rentals)
   Updated: 2026-07-30T00:08:54Z
@@ -2214,7 +2207,7 @@
   Updated: 2026-10-15T04:09:25Z
   Total Products: 89
 - [Lounge Chairs](https://www.dickersoncollective.com/collections/lounge-chairs): Shop Lounge Chairs at Dickerson Collective.
-  Updated: 2026-10-17T17:23:18Z
+  Updated: 2026-11-19T02:21:45Z
   Total Products: 17
 - [Accent Chairs](https://www.dickersoncollective.com/collections/accent-chairs): Shop Accent Chairs at Dickerson Collective.
   Updated: 2026-11-13T19:51:21Z
@@ -2229,7 +2222,7 @@
   Updated: 2026-10-12T03:09:41Z
   Total Products: 16
 - [Ottomans](https://www.dickersoncollective.com/collections/ottomans): Shop Ottomans at Dickerson Collective.
-  Updated: 2026-10-12T21:56:14Z
+  Updated: 2026-11-19T20:21:34Z
   Total Products: 18
 - [Sofas](https://www.dickersoncollective.com/collections/sofas): Shop Sofas at Dickerson Collective.
   Updated: 2026-10-12T03:15:49Z
