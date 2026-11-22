@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-06-10T19:18:52Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-14T01:17:00.658Z
+- Updated At: 2026-11-22T01:07:51.417Z
 
 ## Products
 
@@ -123,7 +123,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [On The Back Of My Dreams - 2LP](https://jacksondeanofficialstore.merchmadeeasy.com/products/on-the-back-of-my-dreams-mystic-smoke-vinyl-2lp): Jackson Dean's album On The Back Of My Dreams now available on mystic smoke 2LP!
-  Updated: 2026-11-12T20:36:22Z
+  Updated: 2026-11-21T19:34:05Z
   Vendor: Jackson Dean Official Store
   Product Type: Double Vinyl
   Availability: Available
@@ -182,7 +182,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Crow Pocket Tee](https://jacksondeanofficialstore.merchmadeeasy.com/products/crow-pocket-tee): Jackson Dean Crow Pocket Tee in Black 100% Cotton Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 27 18 M 29 20 L 31 22 XL 32 24 2XL 33 26 3XL 34 28
-  Updated: 2026-11-12T20:36:21Z
+  Updated: 2026-11-20T03:59:57Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
@@ -206,7 +206,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Magnolia Tee](https://jacksondeanofficialstore.merchmadeeasy.com/products/magnolia-tee): Jackson Dean Magnolia Tee in Charcoal 100% Cotton Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-11-12T20:36:21Z
+  Updated: 2026-11-21T14:04:35Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
@@ -257,15 +257,22 @@
   - [2XL](https://jacksondeanofficialstore.merchmadeeasy.com/products/coyote-tee?variant=45201335320610)
     Availability: Not Available
     Price: $35.00 USD
+- [Magnolia Sage - Wildfire Smoke Vinyl](https://jacksondeanofficialstore.merchmadeeasy.com/products/magnolia-sage-vinyl): Jackson Dean's new album Magnolia Sage available on wildfire smoke vinyl. Tracklist: Blacktop Blues Make A Liar Be Your Man 5th Of July Tennessee Moon Over And Over Hey Mississippi Something Easy Wildfire Dust On A Dirt Road Heart On The Range
+  Updated: 2026-11-21T21:13:45Z
+  Vendor: Jackson Dean Official Store
+  Product Type: Vinyl
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0580/0165/3794/files/JDMAGNOLIASAGEVINYL_65e7ed88-28ca-489a-8bd1-fa6df2f50bb7.png?v=1777042357
+  Price: $29.98 USD
 - [Magnolia Sage - CD](https://jacksondeanofficialstore.merchmadeeasy.com/products/magnolia-sage-cd): Jackson Dean's new album Magnolia Dreams available on CD Release Date: April 24, 2026
-  Updated: 2026-11-12T20:36:21Z
+  Updated: 2026-11-18T13:50:55Z
   Vendor: Jackson Dean Official Store
   Product Type: Music CDs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0580/0165/3794/files/JDMAGNOLIASAGECD.png?v=1777041540
   Price: $12.98 USD
 - [Magnolia Women's V-Neck](https://jacksondeanofficialstore.merchmadeeasy.com/products/magnolia-womens-v-neck): Jackson Dean Magnolia Tee in Forest Green 100% Cotton Women's cut
-  Updated: 2026-11-12T20:36:21Z
+  Updated: 2026-11-15T04:42:32Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
@@ -289,37 +296,37 @@
 ## Collections
 
 - [Featured](https://jacksondeanofficialstore.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-13T12:08:33Z
+  Updated: 2026-11-21T12:08:19Z
   Total Products: 25
 - [Apparel](https://jacksondeanofficialstore.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-13T12:08:33Z
+  Updated: 2026-11-21T12:08:19Z
   Total Products: 14
 - [Accessories](https://jacksondeanofficialstore.merchmadeeasy.com/collections/accessories)
   Updated: 2026-11-03T12:14:09Z
   Total Products: 7
 - [All](https://jacksondeanofficialstore.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-13T12:08:33Z
-  Total Products: 16
+  Updated: 2026-11-21T12:08:19Z
+  Total Products: 17
 - [Music](https://jacksondeanofficialstore.merchmadeeasy.com/collections/music)
-  Updated: 2026-10-30T11:14:30Z
+  Updated: 2026-11-19T12:07:36Z
   Total Products: 8
 - [On The Back Of My Dreams Collection](https://jacksondeanofficialstore.merchmadeeasy.com/collections/on-the-back-of-my-dreams-collection)
-  Updated: 2026-10-30T11:14:30Z
+  Updated: 2026-11-17T12:10:17Z
   Total Products: 2
 - [New Arrivals](https://jacksondeanofficialstore.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-11-12T12:15:51Z
+  Updated: 2026-11-21T12:08:19Z
   Total Products: 10
 - [EasyGift All Products](https://jacksondeanofficialstore.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-11-13T12:08:33Z
+  Updated: 2026-11-21T12:08:19Z
   Total Products: 29
 - [Memorial Day ](https://jacksondeanofficialstore.merchmadeeasy.com/collections/memorial-day-)
-  Updated: 2026-11-13T12:08:33Z
+  Updated: 2026-11-20T12:15:27Z
   Total Products: 7
 - [Magnolia Sage](https://jacksondeanofficialstore.merchmadeeasy.com/collections/magnolia-sage-collection)
-  Updated: 2026-11-12T12:15:51Z
+  Updated: 2026-11-21T12:08:19Z
   Total Products: 4
 - [Black Friday ](https://jacksondeanofficialstore.merchmadeeasy.com/collections/black-friday-)
-  Updated: 2026-11-13T12:08:33Z
+  Updated: 2026-11-21T12:08:19Z
   Total Products: 13
 
 ## Store Pages
