@@ -83,179 +83,179 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2025-12-01T19:12:19Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-14T01:05:28.846Z
+- Updated At: 2026-11-22T01:33:07.208Z
 
 ## Products
 
 - [2025 Tour Tee](https://james.merchmadeeasy.com/products/2025-tour-tee): 100% combed ring-spun cotton t-shirt in charcoal grey Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-16T17:25:11Z
+  Updated: 2026-11-21T15:32:45Z
   Vendor: James US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/6076/9895/files/JMSS_0010_165704_1_304174_d.png?v=1765473720
   - [S](https://james.merchmadeeasy.com/products/2025-tour-tee?variant=41971551502439)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [M](https://james.merchmadeeasy.com/products/2025-tour-tee?variant=41971551535207)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [L](https://james.merchmadeeasy.com/products/2025-tour-tee?variant=41971551567975)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [XL](https://james.merchmadeeasy.com/products/2025-tour-tee?variant=41971551600743)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [2XL](https://james.merchmadeeasy.com/products/2025-tour-tee?variant=41971551633511)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [3XL](https://james.merchmadeeasy.com/products/2025-tour-tee?variant=41971551731815)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
 - [Mosaic Flower Tee - Cool Blue](https://james.merchmadeeasy.com/products/mosaic-flower-tee-cool-blue): 100% combed ring-spun cotton t-shirt in cool blue Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-11-11T03:36:56Z
+  Updated: 2026-11-21T15:32:46Z
   Vendor: James US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/6076/9895/files/JMSS_0008_165705_1_304175_d.png?v=1765473720
   - [S](https://james.merchmadeeasy.com/products/mosaic-flower-tee-cool-blue?variant=41971754664039)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [M](https://james.merchmadeeasy.com/products/mosaic-flower-tee-cool-blue?variant=41971754696807)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [L](https://james.merchmadeeasy.com/products/mosaic-flower-tee-cool-blue?variant=41971754729575)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [XL](https://james.merchmadeeasy.com/products/mosaic-flower-tee-cool-blue?variant=41971754762343)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [2XL](https://james.merchmadeeasy.com/products/mosaic-flower-tee-cool-blue?variant=41971754795111)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [3XL](https://james.merchmadeeasy.com/products/mosaic-flower-tee-cool-blue?variant=41971754827879)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
 - [Flower Tee - Natural](https://james.merchmadeeasy.com/products/flower-tee-natural): 100% combed ring-spun cotton t-shirt in natural Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-11-11T03:36:56Z
+  Updated: 2026-11-18T16:23:29Z
   Vendor: James US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/6076/9895/files/JMSS_0006_165706_1_304176_d.png?v=1765482415
   - [S](https://james.merchmadeeasy.com/products/flower-tee-natural?variant=41971755352167)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [M](https://james.merchmadeeasy.com/products/flower-tee-natural?variant=41971755384935)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [L](https://james.merchmadeeasy.com/products/flower-tee-natural?variant=41971755417703)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [XL](https://james.merchmadeeasy.com/products/flower-tee-natural?variant=41971755450471)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [2XL](https://james.merchmadeeasy.com/products/flower-tee-natural?variant=41971755483239)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [3XL](https://james.merchmadeeasy.com/products/flower-tee-natural?variant=41971755516007)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
 - [Flower Logo Tee - Maroon](https://james.merchmadeeasy.com/products/flower-logo-tee-maroon): 100% combed ring-spun cotton t-shirt in maroon Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-07T20:43:35Z
+  Updated: 2026-11-21T15:32:46Z
   Vendor: James US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/6076/9895/files/JMSS_0012_165703_1_304173_d.png?v=1765473721
   - [S](https://james.merchmadeeasy.com/products/flower-logo-tee-maroon?variant=41971776979047)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [M](https://james.merchmadeeasy.com/products/flower-logo-tee-maroon?variant=41971777011815)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [L](https://james.merchmadeeasy.com/products/flower-logo-tee-maroon?variant=41971777044583)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [XL](https://james.merchmadeeasy.com/products/flower-logo-tee-maroon?variant=41971777077351)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [2XL](https://james.merchmadeeasy.com/products/flower-logo-tee-maroon?variant=41971777110119)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
   - [3XL](https://james.merchmadeeasy.com/products/flower-logo-tee-maroon?variant=41971777142887)
     Availability: Available
-    Price: $20.00 USD
+    Price: $21.00 USD
 - [Embroidered Flower Hoodie](https://james.merchmadeeasy.com/products/embroidered-flower-hoodie): 80/20 ring-spun cotton/polyester hoodie with contrast hood in jet black/orange Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-11-11T03:36:57Z
+  Updated: 2026-11-19T20:09:26Z
   Vendor: James US
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/6076/9895/files/JMSS_0004_165707_1_304177_d.png?v=1765473720
   - [S](https://james.merchmadeeasy.com/products/embroidered-flower-hoodie?variant=41971780124775)
     Availability: Available
-    Price: $60.00 USD
+    Price: $49.00 USD
   - [M](https://james.merchmadeeasy.com/products/embroidered-flower-hoodie?variant=41971780157543)
-    Availability: Available
-    Price: $60.00 USD
+    Availability: Not Available
+    Price: $49.00 USD
   - [L](https://james.merchmadeeasy.com/products/embroidered-flower-hoodie?variant=41971780190311)
     Availability: Available
-    Price: $60.00 USD
+    Price: $49.00 USD
   - [XL](https://james.merchmadeeasy.com/products/embroidered-flower-hoodie?variant=41971780223079)
     Availability: Available
-    Price: $60.00 USD
+    Price: $49.00 USD
   - [2XL](https://james.merchmadeeasy.com/products/embroidered-flower-hoodie?variant=41971780255847)
     Availability: Available
-    Price: $60.00 USD
+    Price: $49.00 USD
   - [3XL](https://james.merchmadeeasy.com/products/embroidered-flower-hoodie?variant=41971780288615)
     Availability: Available
-    Price: $60.00 USD
+    Price: $49.00 USD
 - [Lolly Beach Towel](https://james.merchmadeeasy.com/products/lolly-beach-towel): 100% microfiber front side / 100% cotton reverse side Beach towel in yellow/orange
-  Updated: 2026-10-05T13:05:25Z
+  Updated: 2026-11-18T14:31:07Z
   Vendor: James US
   Product Type: Beach Towel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/6076/9895/files/JMSS_Lolly_Beach_Towel.png?v=1766428339
-  Price: $25.00 USD
+  Price: $24.50 USD
 - [Flower Campfire Mug](https://james.merchmadeeasy.com/products/flower-campfire-mug): Enamel campfire mug in white
-  Updated: 2026-10-16T17:25:11Z
+  Updated: 2026-11-18T14:31:08Z
   Vendor: James US
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/6076/9895/files/JMSS_Campfire_Mug_Front.png?v=1766428603
-  Price: $15.00 USD
+  Price: $10.50 USD
 - [Flower Picnic Cup](https://james.merchmadeeasy.com/products/flower-picnic-cup): Picnic cup
-  Updated: 2026-10-05T13:05:26Z
+  Updated: 2026-11-21T15:32:46Z
   Vendor: James US
   Product Type: Cup
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/6076/9895/files/JMSS_Picnic_Cup_Front.png?v=1766428338
-  Price: $5.00 USD
+  Price: $3.50 USD
 - [Lolly Enamel Pin Set](https://james.merchmadeeasy.com/products/lolly-enamel-pin-set): Set of three enamel pins with card backing
-  Updated: 2026-10-16T17:25:11Z
+  Updated: 2026-11-19T20:09:38Z
   Vendor: James US
   Product Type: Pin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/6076/9895/files/JMSS_Pin_Set.png?v=1766428339
-  Price: $10.00 USD
+  Price: $10.50 USD
 - [Laid - Vinyl LP](https://james.merchmadeeasy.com/products/laid-vinyl-lp): Laid, the 5th studio album by James, pressed on vinyl. Track listing Out to Get You Sometimes (Lester Piggott) Dream Thrum One of the Three Say Something Five-O P.S. Everybody Knows Knuckle Too Far Low Low Low Laid Lullaby Skindiving
-  Updated: 2026-10-05T13:05:26Z
+  Updated: 2026-11-18T16:23:27Z
   Vendor: James US
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/6076/9895/files/JMSS_Laid_Vinyl.png?v=1766428338
-  Price: $45.00 USD
+  Price: $31.50 USD
 
 ## Collections
 
 - [Home page](https://james.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-11T12:15:55Z
+  Updated: 2026-11-20T12:14:08Z
   Total Products: 13
 - [Apparel](https://james.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-11T12:15:55Z
+  Updated: 2026-11-20T12:14:08Z
   Total Products: 5
 - [Accessories](https://james.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-03T15:01:51Z
+  Updated: 2026-11-20T12:14:08Z
   Total Products: 8
 - [All](https://james.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-11T12:15:55Z
+  Updated: 2026-11-20T12:14:08Z
   Total Products: 13
 
 ## Store Pages
