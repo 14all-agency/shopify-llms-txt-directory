@@ -6,12 +6,12 @@
 - Timezone: America/Tijuana
 - Created At: 2025-12-21T17:43:47Z
 - Contact Email: sales@genssi.com
-- Updated At: 2026-11-14T00:56:35.383Z
+- Updated At: 2026-11-22T00:57:05.717Z
 
 ## Products
 
-- [HID Kit Conversion X-treme Performance Xenon AC 55W](https://genssi.com/products/hid-kit-conversion-x-treme-performance-xenon-ac-55w): Illuminate your drive with the 55W X-treme Series HID Conversion Kit! Get superior visibility and longer-lasting performance for safer nighttime journeys.
-  Updated: 2026-11-13T21:29:16Z
+- [HID Kit Conversion X-treme Performance Xenon | GENSSI](https://genssi.com/products/hid-kit-conversion-x-treme-performance-xenon-ac-55w): Illuminate your drive with the 55W X-treme Series HID Conversion Kit! Get superior visibility and longer-lasting performance for safer nighttime journeys.
+  Updated: 2026-11-21T20:26:15Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -58,106 +58,106 @@
   - [H13 / 9008 Low Beam HID, High Beam Halogen / 6000K Cool White](https://genssi.com/products/hid-kit-conversion-x-treme-performance-xenon-ac-55w?variant=43361995259987)
     Availability: Available
     Price: $69.95 USD
-- [HID Xenon Wire Relay Harness 9006 9005 H10 9145 9055 9012](https://genssi.com/products/hid-xenon-wire-relay-harness-9006-9005-h10-9145-9055-9012): Upgrade your ride with our premium relay harness for HID kits! Easy plug-and-play installation ensures bright, reliable lighting from your battery.
-  Updated: 2026-10-24T16:28:16Z
+- [HID Xenon Wire Relay Harness 9006 9005 H10 | GENSSI](https://genssi.com/products/hid-xenon-wire-relay-harness-9006-9005-h10-9145-9055-9012): Upgrade your ride with our premium relay harness for HID kits! Easy plug-and-play installation ensures bright, reliable lighting from your battery.
+  Updated: 2026-11-17T15:23:22Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/9006-H11-RLY__13592.1504908002.1280.1280.jpg?v=1769033766
   Price: $9.95 USD
-- [HID Xenon Wire Relay Harness H11 H9 H8 880 881](https://genssi.com/products/hid-xenon-wire-relay-harness-h11-h9-h8-880-881): Elevate your vehicle’s lighting with our reliable HID relay harnesses. Easy plug-and-play installation ensures seamless power directly from your battery!
-  Updated: 2026-10-24T16:28:18Z
+- [HID Xenon Wire Relay Harness H11 Pair Kit | GENSSI](https://genssi.com/products/hid-xenon-wire-relay-harness-h11-h9-h8-880-881): Elevate your vehicle’s lighting with our reliable HID relay harnesses. Easy plug-and-play installation ensures seamless power directly from your battery!
+  Updated: 2026-11-17T15:23:22Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/9006-H11-RLY__42068.1504908889.1280.1280.jpg?v=1769033765
   Price: $19.95 USD
-- [D2S D2R Replacement Ballast HID Xenon Controller Universal Type](https://genssi.com/products/d2s-d2r-replacement-ballast-hid-xenon-controller-universal-type): Upgrade your HID system with our Replacement D2 Ballast for D2R/D2S. Cost-effective, CE , and easy to install for lasting performance.
-  Updated: 2026-10-24T17:01:30Z
+- [HID w/ Ballast Lamp Pair, Versa 1999-2004 | GENSSI](https://genssi.com/products/d2s-d2r-replacement-ballast-hid-xenon-controller-universal-type): HID headlight for listed vehicles. Factory-style replacement as listed. OEM/interchange refs: 760-41, 760-21. Confirm options on the product page before.
+  Updated: 2026-11-17T15:23:23Z
   Vendor: AGT
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/AGT-D2-BLST__15084.1505086357.1280.1280.jpg?v=1769033825
   Price: $49.95 USD
-- [Argon Regulator CO2 Mig Tig Flowmeter Gas Welding Gauge](https://genssi.com/products/argon-regulator-co2-mig-tig-flowmeter-gas-welding-gauge): Upgrade your welding experience with GENSSI's premium Argon regulator! Designed for precision and durability, it ensures smooth gas flow for flawless welds.
-  Updated: 2026-10-23T21:49:26Z
+- [Argon Regulator CO2 Mig Tig Flowmeter Pair | GENSSI](https://genssi.com/products/argon-regulator-co2-mig-tig-flowmeter-gas-welding-gauge): replacement headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on.
+  Updated: 2026-11-17T15:23:25Z
   Vendor: GENSSI
   Product Type: Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/ARGON-REG__18872.1505155140.1280.1280.jpg?v=1769063590
   Price: $49.95 USD
-- [Resistor Capacitor Warning Bulb Out Canceller H11 H9 H8 880 881 (2 Pack)](https://genssi.com/products/resistor-capacitor-warning-bulb-out-canceller-h11-h9-h8-880-881-2-pack): Upgrade your lighting experience! Our innovative 60W resistor circuit prevents flickering and error codes when using LED/HID kits, ensuring optimal performance.
-  Updated: 2026-10-23T21:49:25Z
+- [Resistor Capacitor Warning Bulb Out Canceller | GENSSI](https://genssi.com/products/resistor-capacitor-warning-bulb-out-canceller-h11-h9-h8-880-881-2-pack): replacement HID/LED lighting part for listed applications. sold as a pair/kit Refs: H11, H9. Confirm options on the product page before install Review.
+  Updated: 2026-11-17T20:48:20Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/H11-60W-RSTRCAP_012__69599.1505158968.1280.1280.jpg?v=1769033647
   Price: $14.95 USD
-- [Resistor Capacitor Warning Bulb Out Canceller H13 9008 (2 Pack)](https://genssi.com/products/resistor-capacitor-warning-bulb-out-canceller-h13-9008-2-pack): Experience uninterrupted lighting with our H13 Type Error Fixer! Perfect for LED or HID kits, it prevents flickering and error messages for a flawless drive.
-  Updated: 2026-11-07T02:22:30Z
+- [Resistor Capacitor Warning Bulb Out Canceller | GENSSI](https://genssi.com/products/resistor-capacitor-warning-bulb-out-canceller-h13-9008-2-pack): replacement HID/LED lighting part for listed applications. sold as a pair/kit Refs: H13, 9008. Confirm options on the product page before install.
+  Updated: 2026-11-17T20:48:21Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/H13-50W-RSTR__21289.1505159661.1280.1280.jpg?v=1769063758
   Price: $14.95 USD
-- [Resistor Capacitor Warning Bulb Out Canceller 9007 (2 Pack)](https://genssi.com/products/resistor-capacitor-warning-bulb-out-canceller-9007-2-pack): Fix flickering HID/LED lights with our 9007 Error Fixer. Designed for CANBUS systems, ensuring error-free installation for brighter, reliable illumination.
-  Updated: 2026-10-23T21:49:27Z
+- [Resistor Capacitor Warning Bulb Out Canceller | GENSSI](https://genssi.com/products/resistor-capacitor-warning-bulb-out-canceller-9007-2-pack): Fix flickering HID/LED lights with our 9007 Error Fixer. Designed for CANBUS systems, ensuring error-free installation for brighter, reliable illumination.
+  Updated: 2026-11-17T20:48:22Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/9007-50W-RSTR__65371.1505160160.1280.1280.jpg?v=1769033825
   Price: $14.95 USD
-- [55W AC HID Xenon Replacement Slim Ballast](https://genssi.com/products/55w-ac-hid-xenon-replacement-slim-ballast): Illuminate your ride with the 55W AC Series Slim White Ballast. Enjoy superior brightness and unmatched durability—weatherproof & long-lasting!
-  Updated: 2026-11-13T21:33:16Z
+- [55W AC HID Xenon Replacement Slim Ballast | GENSSI](https://genssi.com/products/55w-ac-hid-xenon-replacement-slim-ballast): HID HID/LED lighting part for listed applications. 55W Confirm options on the product page before install Confirm connector style on the page Review.
+  Updated: 2026-11-17T23:43:15Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/55W-BLST_single__19054.1505249823.1280.1280.jpg?v=1769033825
   Price: $19.95 USD
-- [20W Bumper Bar Duely Flood POD LED Light Black](https://genssi.com/products/20w-bumper-bar-duely-flood-pod-led-light-black): Illuminate any project with GENSSI's compact 4 LED Flood Optics. Built tough and IP68 rated, these lights are perfect for versatile applications.
-  Updated: 2026-10-24T04:36:29Z
+- [20W Bumper Bar Duely Flood POD LED Black Pair | GENSSI](https://genssi.com/products/20w-bumper-bar-duely-flood-pod-led-light-black): Illuminate any project with GENSSI's compact 4 LED Flood Optics. Built tough and IP68 rated, these lights are perfect for versatile applications.
+  Updated: 2026-11-17T15:23:32Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/GEN-DUELY-B_generic_1__63970.1506462294.1280.1280.jpg?v=1769369548
   Price: $59.95 USD
-- [9006 50W Load Line Resistor Plug and Play (2 Pack)](https://genssi.com/products/9006-50w-load-line-resistor-plug-and-play-2-pack): Eliminate warning lights and flickering in BMW, Mercedes, Dodge, and Chrysler vehicles with our 50W HID resistor. Ensure optimal performance with ease!
-  Updated: 2026-10-23T21:49:28Z
+- [9006 50W Load Line Resistor Plug and Play | GENSSI](https://genssi.com/products/9006-50w-load-line-resistor-plug-and-play-2-pack): Eliminate warning lights and flickering in BMW, Mercedes, Dodge, and Chrysler vehicles with our 50W HID resistor. Ensure optimal performance with ease!
+  Updated: 2026-11-17T15:23:31Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/H11-50W-PLUGS_3__17171.1506525998.1280.1280.jpg?v=1766445784
   Price: $19.95 USD
-- [50W Load Resistor Packs for HID LED Wiring (2 Pack)](https://genssi.com/products/50w-load-resistor-packs-for-hid-led-wiring-2-pack): Eliminate flickering and warning lights in your HID system! Our 50W resistors are the ultimate solution for BMW, Mercedes, Dodge & Chrysler vehicles.
-  Updated: 2026-10-24T16:28:16Z
+- [50W Load Resistor Packs for HID LED Wiring | GENSSI](https://genssi.com/products/50w-load-resistor-packs-for-hid-led-wiring-2-pack): Eliminate flickering and warning lights in your HID system! Our 50W resistors are the ultimate solution for BMW, Mercedes, Dodge & Chrysler vehicles.
+  Updated: 2026-11-17T15:23:32Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/50W-RESISTORS_4__44299.1506463070.1280.1280.jpg?v=1766445795
   Price: $9.95 USD
-- [AVENGER Hood for Wrangler JK 2007-2018](https://genssi.com/products/avenger-hood-for-wrangler-jk-2007-2018): Upgrade your 2007-2018 JK Wrangler with the AVENGER hood. Crafted from durable stamped steel, it enhances cooling and style. Shop now for a bold look!
-  Updated: 2026-10-24T00:08:31Z
+- [Exterior Part, Wrangler 07-18 Pair Kit Set | GENSSI](https://genssi.com/products/avenger-hood-for-wrangler-jk-2007-2018): Upgrade your 2007-2018 JK Wrangler with the AVENGER hood. Crafted from durable stamped steel, it enhances cooling and style. Shop now for a bold look!
+  Updated: 2026-11-17T15:23:36Z
   Vendor: GENSSI
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/AVG-HOOD_01__11007.1505961075.1280.1280.jpg?v=1769033647
   Price: $799.99 USD
-- [7pcs Grille Inserts for Jeep Wrangler JK 2007-2017](https://genssi.com/products/7pcs-grille-inserts-for-jeep-wrangler-jk-2007-2017): Revamp your Jeep Wrangler's grille with these stylish mesh inserts. Perfect fit for 2007-2017 models, easy install, and durable ABS plastic!
-  Updated: 2026-10-29T18:25:34Z
+- [7pcs Grille Inserts for Jeep, Wrangler 07-17 | GENSSI](https://genssi.com/products/7pcs-grille-inserts-for-jeep-wrangler-jk-2007-2017): replacement headlight for Wrangler 07-17. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T15:23:37Z
   Vendor: GENSSI
   Product Type: Grille
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JKGRL-INSERT-BLK_5__06196.1506462107.1280.1280.jpg?v=1769033706
   Price: $39.95 USD
-- [7 Inch Headlight Bezel Ring For Motorcycles](https://genssi.com/products/7-inch-headlight-bezel-ring-for-motorcycles): Upgrade your ride with our 7-inch chrome motorcycle headlight bezel. Designed for a perfect fit on select models. Ensure compatibility and enhance your style!
-  Updated: 2026-11-07T02:22:31Z
+- [7 Inch Headlight Bezel Ring For Motorcycles | GENSSI](https://genssi.com/products/7-inch-headlight-bezel-ring-for-motorcycles): replacement headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on.
+  Updated: 2026-11-17T15:23:37Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/7INBEZEL__82587.1506461662.1280.1280.jpg?v=1769033707
   Price: $34.95 USD
-- [LED Headlight Conversion Kit for Jeep Wrangler JL 2018-up](https://genssi.com/products/led-headlight-conversion-kit-for-jeep-wrangler-jl-2018-up): Transform your Jeep Wrangler JL with GENSSI® ELITE G7 headlights! Experience unparalleled performance, durability, and easy installation today!
-  Updated: 2026-11-07T02:22:32Z
+- [LED Headlight Conversion Kit for, Wrangler 18-up | GENSSI](https://genssi.com/products/led-headlight-conversion-kit-for-jeep-wrangler-jl-2018-up): LED LED bulb kit for Wrangler JL 18-up. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:23:37Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -208,295 +208,295 @@
   - [H11 / H8 / H9 / H16 OSRAM](https://genssi.com/products/led-headlight-conversion-kit-for-jeep-wrangler-jl-2018-up?variant=43362000732243)
     Availability: Available
     Price: $89.95 USD
-- [5.75 (5 3/4) Inch LED Chrome Projector Headlights Round Set](https://genssi.com/products/5-75-5-3-4-inch-led-chrome-projector-headlights-round-set): Upgrade your visibility with our powerful projector lens! Experience superior optics and durability with exceptional light output and water resistance.
-  Updated: 2026-11-07T02:22:31Z
+- [5.75 Inch LED Chrome Projector Headlights Round | GENSSI](https://genssi.com/products/5-75-5-3-4-inch-led-chrome-projector-headlights-round-set): Upgrade your visibility with our powerful projector lens! Experience superior optics and durability with exceptional light output and water resistance.
+  Updated: 2026-11-17T15:23:38Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/5HDLT-CHRM_53__98294.1506454169.1280.1280.jpg?v=1769033766
   Price: $127.95 USD
-- [GENSSI 4-1/2" Black LED Auxiliary Spot Fog Passing Light Lamp For Harley Motorcycle](https://genssi.com/products/genssi-4-1-2-black-led-auxiliary-spot-fog-passing-light-lamp-for-harley-motorcycle): Illuminate your ride with GENSSI's LED lights for Harley motorcycles! Easy to install, durable, and designed to enhance visibility—light up the road in style!
-  Updated: 2026-10-29T18:25:41Z
+- [GENSSI 4-1/2" Black LED Auxiliary Spot Fog Passing](https://genssi.com/products/genssi-4-1-2-black-led-auxiliary-spot-fog-passing-light-lamp-for-harley-motorcycle): LED fog light for Harley Motorcycle. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:23:40Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/HRLY-AXLRY-BLK_23__52875.1506453817.1280.1280.jpg?v=1766445917
   Price: $49.95 USD
-- [4-1/2" Chrome LED Auxiliary Spot Fog Passing Light Lamp For Harley Motorcycle](https://genssi.com/products/4-1-2-chrome-led-auxiliary-spot-fog-passing-light-lamp-for-harley-motorcycle): Enhance your Harley with GENSSI's Side Auxiliary LED lights! Enjoy long-lasting, waterproof illumination and modern style with easy installation.
-  Updated: 2026-10-23T21:49:31Z
+- [4-1/2" Chrome LED Auxiliary Spot Fog Pair | GENSSI](https://genssi.com/products/4-1-2-chrome-led-auxiliary-spot-fog-passing-light-lamp-for-harley-motorcycle): Enhance your Harley with GENSSI's Side Auxiliary LED lights! Enjoy long-lasting, waterproof illumination and modern style with easy installation.
+  Updated: 2026-11-17T15:23:40Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/HRLY-AXLRY-CHRM_6__63394.1506453642.1280.1280.jpg?v=1766445930
   Price: $49.95 USD
-- [5.75 (5 3/4) Inch LED Black Projector Headlights Round DOT Set](https://genssi.com/products/5-75-5-3-4-inch-led-black-projector-headlights-round-dot-set): Upgrade to CREE LED technology with 3780 lumens of road-slicing brightness—DOT , plug-and-play ready.
-  Updated: 2026-11-07T02:22:30Z
+- [Black LED Projector Lights Left Right Set | GENSSI](https://genssi.com/products/5-75-5-3-4-inch-led-black-projector-headlights-round-dot-set): LED headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T16:34:18Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/GEN-5IN-PRO-BLK_01712__93694.1506453213.1280.1280.jpg?v=1766445947
   Price: $249.95 USD
-- [Dual LED Headlight for Harley Road Glide Chrome](https://genssi.com/products/dual-led-headlight-for-harley-road-glide-chrome): Elevate your Harley Road Glide with our Dual LED Headlamp! Enjoy stunning visibility and a sleek look, featuring 12 powerful emitters for unmatched performance.
-  Updated: 2026-10-29T18:25:43Z
+- [Chrome LED Headlight Set, Road Glide 04-13 | GENSSI](https://genssi.com/products/dual-led-headlight-for-harley-road-glide-chrome): LED headlight for Harley Road Glide. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:23:42Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/RDGLID-HDLT-CHRM_06__86167.1506451746.1280.1280.jpg?v=1769630372
   Price: $309.99 USD
-- [4x6 LED Reflector w/DRL Headlights Chrome Set](https://genssi.com/products/4x6-led-reflector-w-drl-headlights-chrome-set): Illuminate your ride with our 4x6 Sealed Beam LED replacement lamps! High output, versatile compatibility, and stunning brightness for enhanced visibility.
-  Updated: 2026-11-07T02:22:30Z
+- [Chrome LED w/ LED DRL Reflector Lamp Pair | GENSSI](https://genssi.com/products/4x6-led-reflector-w-drl-headlights-chrome-set): Illuminate your ride with our 4x6 Sealed Beam LED replacement lamps! High output, versatile compatibility, and stunning brightness for enhanced visibility.
+  Updated: 2026-11-17T15:23:43Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/XDR9-4X6-HDLT_-_Kenworth_2__47098.1506449807.1280.1280.jpg?v=1769630646
   Price: $89.95 USD
-- [5.75 (5 3/4) In LED Black Projector Headlight Round DOT V2 Set](https://genssi.com/products/5-75-5-3-4-in-led-black-projector-headlight-round-dot-v2-set): Enhance your ride with GENSSI's DOT  5 3/4 Projector LED Headlamps. Experience stunning brightness and top-notch optics for safer night drives!
-  Updated: 2026-11-07T02:22:31Z
+- [5.75 In LED Black Projector Headlight Round | GENSSI](https://genssi.com/products/5-75-5-3-4-in-led-black-projector-headlight-round-dot-v2-set): Enhance your ride with GENSSI's DOT  5 3/4 Projector LED Headlamps. Experience stunning brightness and top-notch optics for safer night drives!
+  Updated: 2026-11-17T15:23:44Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/01Main__37290.1506449513.1280.1280.jpg?v=1769033766
   Price: $127.95 USD
-- [XDR LED Chrome Headlights w/DRL for XJ and YJ](https://genssi.com/products/xdr-led-chrome-headlights-w-drl-for-xj-and-yj): Upgrade your Jeep's style and safety with XDR Chrome Headlights featuring daytime running lights. Direct plug & play replacement for superior visibility!
-  Updated: 2026-10-29T18:25:46Z
+- [XDR LED Chrome Headlights w/DRL for XJ and | GENSSI](https://genssi.com/products/xdr-led-chrome-headlights-w-drl-for-xj-and-yj): Upgrade your Jeep's style and safety with XDR Chrome Headlights featuring daytime running lights. Direct plug & play replacement for superior visibility!
+  Updated: 2026-11-17T15:23:46Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/01__71707.1506368218.1280.1280.jpg?v=1769033826
   Price: $99.95 USD
-- [Rear Bumper for Jeep Wrangler JK 2007-2017 with D-Rings and LED Reverse Lamps](https://genssi.com/products/rear-bumper-for-jeep-wrangler-jk-2007-2017-with-d-rings-and-led-reverse-lamps): Transform your JK Wrangler's rear end with this heavy-duty steel bumper—engineered to handle 5,000 lbs of towing capacity, dual recovery points.
-  Updated: 2026-10-24T17:27:04Z
+- [Rear Bumper for Jeep Wrangler JK, Wrangler 07-17 | GENSSI](https://genssi.com/products/rear-bumper-for-jeep-wrangler-jk-2007-2017-with-d-rings-and-led-reverse-lamps): LED headlight for Wrangler JK 07-17. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:23:48Z
   Vendor: GENSSI
   Product Type: Bumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JK-XTL-BMPR_02__03084.1506381812.500.750.jpg?v=1769225440
   Price: $339.99 USD
-- [4 Inch LED Red Halo Fog Lamp Lights For Jeep Wrangler JK](https://genssi.com/products/4-inch-led-red-halo-fog-lamp-lights-for-jeep-wrangler-jk): Upgrade your Jeep Wrangler with GENSSI's IP68 sealed LED lamps. Cool white light enhances road visibility, dual-color halo adds style. Built to last!
-  Updated: 2026-10-24T17:27:04Z
+- [4 Inch LED Red Halo Fog Lamp Lights Pair Kit | GENSSI](https://genssi.com/products/4-inch-led-red-halo-fog-lamp-lights-for-jeep-wrangler-jk): Upgrade your Jeep Wrangler with GENSSI's IP68 sealed LED lamps. Cool white light enhances road visibility, dual-color halo adds style. Built to last!
+  Updated: 2026-11-17T15:23:49Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/2x_4IN-LED-GRN-RED-BLU-v2_03__94041.1506444151.1280.1280.jpg?v=1769033647
   Price: $69.95 USD
-- [HALO White LED Fog Lamps for Wrangler JK 2007-2018](https://genssi.com/products/halo-white-led-fog-lamps-for-wrangler-jk-2007-2017): Upgrade your JK Wrangler from 2007 to 2017 with our stunning Halo LED Fog Lights. Experience superior brightness, perfect fit, and style on the road!
-  Updated: 2026-10-24T16:41:36Z
+- [LED Lighting, Wrangler 07-18 Pair Kit Set | GENSSI](https://genssi.com/products/halo-white-led-fog-lamps-for-wrangler-jk-2007-2017): Upgrade your JK Wrangler from 2007 to 2017 with our stunning Halo LED Fog Lights. Experience superior brightness, perfect fit, and style on the road!
+  Updated: 2026-11-17T15:23:48Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/2x_4IN-LED-BLK-HLO_02__94583.1513359708.1280.1280.jpg?v=1769033647
   Price: $109.95 USD
-- [4x6 LED Projector Headlights H4651 H4652 H4656 H4666 H6545 Black Set](https://genssi.com/products/4x6-led-projector-headlights-h4651-h4652-h4656-h4666-h6545-black-set): Upgrade your classic square headlight setup with these modern 4x6 projector headlamps—delivering 1,200 effective lumens, a legal beam pattern.
-  Updated: 2026-11-07T02:22:31Z
+- [4x6 LED Projector Headlights H4651 H4652 H4656 | GENSSI](https://genssi.com/products/4x6-led-projector-headlights-h4651-h4652-h4656-h4666-h6545-black-set): LED headlight for listed vehicles. Factory-style replacement as listed. OEM/interchange refs: H4651, H4652. Confirm options on the product page before.
+  Updated: 2026-11-17T15:23:51Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/2x-GEN-4X6PRO-BLK__34405.1507077904.1280.1280.jpg?v=1769225588
   Price: $199.95 USD
-- [4x6 LED Projector Headlights H4651 H4652 H4656 H4666 H6545 Chrome Set](https://genssi.com/products/4x6-led-projector-headlights-h4651-h4652-h4656-h4666-h6545-chrome-set): Illuminate your ride with our Pro Series Projector headlight! Offering 2000 lumens, easy installation, and a stylish chrome finish. Brighten every journey!
-  Updated: 2026-11-07T02:22:30Z
+- [4x6 LED Projector Headlights H4651 H4652 H4656 | GENSSI](https://genssi.com/products/4x6-led-projector-headlights-h4651-h4652-h4656-h4666-h6545-chrome-set): Illuminate your ride with our Pro Series Projector headlight! Offering 2000 lumens, easy installation, and a stylish chrome finish. Brighten every journey!
+  Updated: 2026-11-17T15:23:53Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/GEN-4X6PRO-CHRM_3__98557.1506447933.1280.1280.jpg?v=1766446115
   Price: $249.99 USD
-- [4.65 In LED Black Projector Headlight Harley Davidson Dyna Fat Bob FXDF 2008-2016 Black (2 Pack)](https://genssi.com/products/4-65-in-led-black-projector-headlight-harley-davidson-dyna-fat-bob-fxdf-2008-2016-black-2-pack): Transform your Dyna Fat Bob's front end with these modern LED projector headlamps—delivering up to 1,770 lumens of crisp white light, integrated DRL function.
-  Updated: 2026-10-29T18:25:49Z
+- [Black LED Projector Lights, Fat Bob 08-16 | GENSSI](https://genssi.com/products/4-65-in-led-black-projector-headlight-harley-davidson-dyna-fat-bob-fxdf-2008-2016-black-2-pack): LED headlight for listed vehicles 08-16. sold as a pair Confirm options on the product page before install Confirm connector style on the page Check.
+  Updated: 2026-11-17T15:23:53Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/MainAmazon__08986.1506448497.1280.1280.jpg?v=1766446130
   Price: $199.95 USD
-- [5.75 (5 3/4) In LED Projector Headlights Round DOT V2 Chrome Set](https://genssi.com/products/5-75-5-3-4-in-led-projector-headlights-round-dot-v2-chrome-set): Upgrade your ride's visibility with GENSSI 5 3/4 LED Projector Headlamps. Superior brightness, DOT , and built to last. Illuminate the road ahead!
-  Updated: 2026-11-07T02:22:30Z
+- [5.75 In LED Projector Headlights Round DOT | GENSSI](https://genssi.com/products/5-75-5-3-4-in-led-projector-headlights-round-dot-v2-chrome-set): Upgrade your ride's visibility with GENSSI 5 3/4 LED Projector Headlamps. Superior brightness, DOT , and built to last. Illuminate the road ahead!
+  Updated: 2026-11-17T15:23:55Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/5HDLT-ULTRA-CHRM_052__56295.1506449249.1280.1280.jpg?v=1766446145
   Price: $127.95 USD
-- [GLADIATOR Grille for Wrangler JK 2007-2018](https://genssi.com/products/gladiator-grille-for-wrangler-jk-2007-2017): Transform your Jeep Wrangler JK from 2007-2017 with the Gladiator Grille! Achieve an aggressive look and improved airflow. Stand out on every adventure!
-  Updated: 2026-10-23T22:16:31Z
+- [GLADIATOR Grille for Wrangler JK, Wrangler 07-18 | GENSSI](https://genssi.com/products/gladiator-grille-for-wrangler-jk-2007-2017): Transform your Jeep Wrangler JK from 2007-2017 with the Gladiator Grille! Achieve an aggressive look and improved airflow. Stand out on every adventure!
+  Updated: 2026-11-17T20:48:52Z
   Vendor: GENSSI
   Product Type: Grille
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/AGR-AGRESSIVE-GRL_001__39023.1505923357.1280.1280.jpg?v=1766514832
   Price: $139.99 USD
-- [Remote Control Wireless Police Siren Emergency 7 Tone](https://genssi.com/products/remote-control-wireless-police-siren-emergency-7-tone): Experience ultimate convenience with our wireless horn! Control 7 powerful tones up to 125 dB from anywhere. Perfect for cars, security, and more.
-  Updated: 2026-10-23T21:49:31Z
+- [Remote Control Wireless Police Siren Emergency | GENSSI](https://genssi.com/products/remote-control-wireless-police-siren-emergency-7-tone): Experience ultimate convenience with our wireless horn! Control 7 powerful tones up to 125 dB from anywhere. Perfect for cars, security, and more.
+  Updated: 2026-11-17T15:23:56Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/srn-mh-82003_01_AMAZON__98341.1506383179.1280.1280.jpg?v=1769033825
   Price: $30.95 USD
-- [2 Channel Wireless On Off 12V Controller Waterproof](https://genssi.com/products/2-channel-wireless-on-off-12v-controller-waterproof): Discover the ultimate 12V Wireless Controller with dual outputs! Perfect for LED lights and low power devices, enjoy seamless control up to 100 feet!
-  Updated: 2026-10-27T17:06:07Z
+- [2 Channel Wireless On Off 12V Pair Kit Set | GENSSI](https://genssi.com/products/2-channel-wireless-on-off-12v-controller-waterproof): Discover the ultimate 12V Wireless Controller with dual outputs! Perfect for LED lights and low power devices, enjoy seamless control up to 100 feet!
+  Updated: 2026-11-17T15:23:57Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/WR-02_7__90152.1506388711.1280.1280.jpg?v=1769033706
   Price: $29.95 USD
-- [XPE Honeycomb LED Chrome  Projector Headlights w/DRL for XJ and YJ](https://genssi.com/products/xpe-honeycomb-led-chrome-projector-headlights-w-drl-for-xj-and-yj): Upgrade your Jeep Cherokee XJ or Wrangler YJ with XPE Honeycomb Chrome Projector Headlights. Enjoy plug & play installation and stunning LED performance!
-  Updated: 2026-10-29T18:25:51Z
+- [XPE Honeycomb LED Chrome Projector Headlights w/DRL | GENSSI](https://genssi.com/products/xpe-honeycomb-led-chrome-projector-headlights-w-drl-for-xj-and-yj): Upgrade your Jeep Cherokee XJ or Wrangler YJ with XPE Honeycomb Chrome Projector Headlights. Enjoy plug & play installation and stunning LED performance!
+  Updated: 2026-11-17T15:23:59Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/CRE-7x6-CHRM_toyota__54685.1506352669.1280.1280.jpg?v=1769033707
   Price: $129.95 USD
-- [XPE Honeycomb LED Black Projector Headlights w/DRL for XJ and YJ](https://genssi.com/products/xpe-honeycomb-led-black-projector-headlights-w-drl-for-xj-and-yj): Upgrade your Jeep Cherokee or Wrangler with XPE Honeycomb Black Projector Headlights. Experience brilliant LED technology and easy plug & play installation!
-  Updated: 2026-10-29T18:25:52Z
+- [Black LED w/ LED DRL Projectors Housing Pair | GENSSI](https://genssi.com/products/xpe-honeycomb-led-black-projector-headlights-w-drl-for-xj-and-yj): LED headlight for Wrangler. DRL Confirm options on the product page before install Confirm connector style on the page Sold as a matching left/right set.
+  Updated: 2026-11-17T16:34:20Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/CRE-7X6-BLK-2-pack__51639.1508800547.1280.1280.jpg?v=1769033647
   Price: $129.95 USD
-- [LED Headlight Adapter Harness For Harley 2014-2017 HD Touring](https://genssi.com/products/led-headlight-adapter-harness-for-harley-2014-2017-hd-touring): Upgrade your ride with our LED Headlight Adapter Harness Plugs, essential for converting halogen to LED headlamps in 2014-2017 HD Touring models!
-  Updated: 2026-10-23T22:14:02Z
+- [Headlights Driver Passenger, Harley 14-17 | GENSSI](https://genssi.com/products/led-headlight-adapter-harness-for-harley-2014-2017-hd-touring): Upgrade your ride with our LED Headlight Adapter Harness Plugs, essential for converting halogen to LED headlamps in 2014-2017 HD Touring models!
+  Updated: 2026-11-17T15:24:02Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/HRLY-ADPTR_01__13046.1506382034.1280.1280.jpg?v=1769033765
   Price: $9.95 USD
-- [4x6 LED Projector Demon DRL Eyes Headlights Chrome Set](https://genssi.com/products/4x6-led-projector-demon-drl-eyes-headlights-chrome-set): Transform your classic sealed beam headlights with these modern LED projector lamps—delivering 80W of crisp 6000K white light.
-  Updated: 2026-11-07T02:22:32Z
+- [Chrome LED w/ LED DRL Projectors Housing Pair | GENSSI](https://genssi.com/products/4x6-led-projector-demon-drl-eyes-headlights-chrome-set): LED headlight for listed applications. DRL Confirm options on the product page before install Confirm connector style on the page Review fitment on the.
+  Updated: 2026-11-17T16:34:21Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/4x6-DEMON-HDLT_09__77835.1506381539.1280.1280.jpg?v=1769225865
   Price: $149.95 USD
-- [212 211-2 212-2 Festoon LED Dome Map Interior Light bulbs (2 Pack)](https://genssi.com/products/212-211-2-212-2-festoon-led-dome-map-interior-light-bulbs-2-pack): Upgrade your vehicle's interior with our super bright LED dome and map lights! Designed for seamless fit, enjoy 2-3 times the brightness of standard bulbs.
-  Updated: 2026-10-23T21:49:36Z
+- [212 211-2 212-2 Festoon LED Dome Pair Kit | GENSSI](https://genssi.com/products/212-211-2-212-2-festoon-led-dome-map-interior-light-bulbs-2-pack): Upgrade your vehicle's interior with our super bright LED dome and map lights! Designed for seamless fit, enjoy 2-3 times the brightness of standard bulbs.
+  Updated: 2026-11-17T15:24:03Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/212-LED-BULB.jpg?v=1769754984
   Price: $14.95 USD
-- [29mm 6614F LED Festoon Vanity Visor Bulbs (2 Pack)](https://genssi.com/products/29mm-6614f-led-festoon-vanity-visor-bulbs-2-pack): Upgrade your ride with our 29mm 6614F LED bulbs! Enjoy brighter, cooler white light for your visor or vanity mirrors. A simple flip for optimal performance!
-  Updated: 2026-10-23T21:49:31Z
+- [29mm 6614F LED Festoon Vanity Visor Bulbs | GENSSI](https://genssi.com/products/29mm-6614f-led-festoon-vanity-visor-bulbs-2-pack): LED LED bulb kit for listed vehicles. sold as a pair Confirm options on the product page before install Confirm connector style on the page Check listing.
+  Updated: 2026-11-17T15:24:08Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/29mmW__71147.1506380982.1280.1280.jpg?v=1769033586
   Price: $11.95 USD
-- [194 168 W5W T10 LED Bulbs 2 SMD CANBUS Thin (2 Pack)](https://genssi.com/products/194-168-w5w-t10-led-bulbs-2-smd-canbus-thin-2-pack): Upgrade your vehicle's lighting with our CANBUS error-free wedge bulbs! Compatible with multiple models and designed for durability, enhancing safety & style.
-  Updated: 2026-11-07T02:22:31Z
+- [194 168 W5W T10 LED Bulbs 2 SMD Pair Kit Set | GENSSI](https://genssi.com/products/194-168-w5w-t10-led-bulbs-2-smd-canbus-thin-2-pack): LED LED bulb kit for listed vehicles. sold as a pair OEM/interchange refs: 194. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T20:48:23Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/2x194-2SMD-W_02-2-pack__80358.1506379342.1280.1280.jpg?v=1769033707
   Price: $9.95 USD
-- [3157 3057 4157 3156 LED Tail Light Reverse Back Up Bulbs (2 Pack)](https://genssi.com/products/3157-3057-4157-3156-led-tail-light-reverse-back-up-bulbs-2-pack): Upgrade your vehicle with GENSSI LED bulbs! Brighter and more reliable than factory bulbs, lasting up to 30,000 hours. Perfect fit for many American vehicles.
-  Updated: 2026-10-23T21:14:57Z
+- [LED w/ Bulbs Tail Lights Driver Passenger | GENSSI](https://genssi.com/products/3157-3057-4157-3156-led-tail-light-reverse-back-up-bulbs-2-pack): LED tail light for listed vehicles. sold as a pair OEM/interchange refs: 3157. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:24:07Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/3157-W_4__83967.1506379072.1280.1280.jpg?v=1769033646
   Price: $11.95 USD
-- [3157 3057 4157 3156 LED Tail Light Switch-Back Amber White Bulbs (2 Pack)](https://genssi.com/products/3157-3057-4157-3156-led-tail-light-switch-back-amber-white-bulbs-2-pack): Illuminate your ride with GENSSI's dual-mode 3157 LED bulbs! Enjoy brighter, reliable lighting with up to 30,000 hours of performance for tail and turn signals.
-  Updated: 2026-10-23T21:49:32Z
+- [Amber LED w/ Bulbs Tail Lights Brake Turn | GENSSI](https://genssi.com/products/3157-3057-4157-3156-led-tail-light-switch-back-amber-white-bulbs-2-pack): LED tail light for listed vehicles. sold as a pair OEM/interchange refs: 3157. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:24:08Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/switchback1.webp?v=1777869402
   Price: $24.95 USD
-- [36mm 3423 3425 6411 6418 6423 6461 DE3425 CANBUS Festoon LED Bulbs (2 Pack)](https://genssi.com/products/36mm-3423-3425-6411-6418-6423-6461-de3425-canbus-festoon-led-bulbs-2-pack): Elevate your vehicle's lighting with our premium CANBUS error-free dome lights. Built to last up to 30,000 hours with easy installation—brighten up today!
-  Updated: 2026-11-07T02:22:31Z
+- [36mm 3423 3425 6411 6418 6423 6461 DE3425 | GENSSI](https://genssi.com/products/36mm-3423-3425-6411-6418-6423-6461-de3425-canbus-festoon-led-bulbs-2-pack): Elevate your vehicle's lighting with our premium CANBUS error-free dome lights. Built to last up to 30,000 hours with easy installation—brighten up today!
+  Updated: 2026-11-17T15:24:10Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/36MM-CNBS-W_2__32729.1506377914.1280.1280.jpg?v=1769033647
   Price: $9.95 USD
-- [31mm DE3175 3022 3021 Festoon LED Dome Map Bulb (2 Pack)](https://genssi.com/products/31mm-de3175-3022-3021-festoon-led-dome-map-bulb-2-pack): Illuminate your ride with GENSSI's 31mm LED bulbs, perfect for Honda, Toyota, and Lexus interiors. Enjoy bright 6000K cool white light in a convenient 2-pack!
-  Updated: 2026-10-25T05:32:41Z
+- [31mm DE3175 3022 3021 Festoon LED Dome Map | GENSSI](https://genssi.com/products/31mm-de3175-3022-3021-festoon-led-dome-map-bulb-2-pack): LED LED bulb kit for listed vehicles. sold as a pair Confirm options on the product page before install Confirm connector style on the page Check listing.
+  Updated: 2026-11-17T15:24:11Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/31MM-6SMD-W_53__94718.1506377578.1280.1280.jpg?v=1769033647
   Price: $9.95 USD
-- [7x6 (5x7) H6054 200mm LED Projector w/ Demon DRL Headlights Black Set](https://genssi.com/products/7x6-5x7-h6054-200mm-led-projector-w-demon-drl-headlights-black-set): Upgrade your ride with our GENSSI LED headlamps! Experience exceptional brightness and clarity with easy plug-and-play installation for select vehicles.
-  Updated: 2026-11-07T02:22:31Z
+- [7x6 H6054 200mm LED Projector w/ Demon DRL | GENSSI](https://genssi.com/products/7x6-5x7-h6054-200mm-led-projector-w-demon-drl-headlights-black-set): Upgrade your ride with our GENSSI LED headlamps! Experience exceptional brightness and clarity with easy plug-and-play installation for select vehicles.
+  Updated: 2026-11-17T15:24:12Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/7x6-DEMON-HDLT_01__19356.1506376585.1280.1280.jpg?v=1769033765
   Price: $119.95 USD
-- [Police Siren Emergency Sound 5 Tone with Hand Held PA](https://genssi.com/products/police-siren-emergency-sound-5-tone-with-hand-held-pa): Elevate your ride with our Compact PA Microphone, perfect for DIY enthusiasts. Easy installation in cars or trucks, tailored for personal use. Get yours today!
-  Updated: 2026-10-23T21:49:36Z
+- [Police Siren Emergency Sound 5 Tone Pair Kit | GENSSI](https://genssi.com/products/police-siren-emergency-sound-5-tone-with-hand-held-pa): replacement headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on.
+  Updated: 2026-11-17T15:24:13Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/5SND-PA-SIRN_7__06436.1506358589.1280.1280.jpg?v=1769033647
   Price: $39.95 USD
-- [ARES Monster Grille for Wrangler JK 2007-2018](https://genssi.com/products/ares-monster-grille-for-wrangler-jk-2007-2018): Replace your factory seven-slot grille with the ARES Monster's aggressive six-opening design and built-in headlight eyelids.
-  Updated: 2026-10-24T04:11:47Z
+- [ARES Monster Grille for Wrangler JK, Wrangler 07-18 | GENSSI](https://genssi.com/products/ares-monster-grille-for-wrangler-jk-2007-2018): replacement headlight for Wrangler 07-18. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T15:24:14Z
   Vendor: GENSSI
   Product Type: Grille
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JK-215-GRL_03__01800.1530908721.1280.1280.jpg?v=1766514158
   Price: $159.95 USD
-- [VULCAN Black LED Tail Lights for Wrangler JK 2007-2018](https://genssi.com/products/vulcan-black-led-tail-lights-for-wrangler-jk-2007-2017): Ditch the uninspired, blocky factory tail lights that have plagued the rear end of the JK since launch.
-  Updated: 2026-10-29T18:25:56Z
+- [Black LED Tail Lights, Wrangler 2007-2018 | GENSSI](https://genssi.com/products/vulcan-black-led-tail-lights-for-wrangler-jk-2007-2017): LED tail light for Wrangler JK 07-18. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:24:16Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JK-RND-TAILIGHT__91767.1516649900.1280.1280.jpg?v=1766516157
   Price: $219.95 USD
-- [GOTHAM Aluminum Inner Fender Liner for Wrangler JK 2007-2018](https://genssi.com/products/gotham-aluminum-inner-fender-liner-for-wrangler-jk-2007-2017): GOTHAM Aluminum Inner Fender Liners for 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017 JK Wranglers.
-  Updated: 2026-10-24T16:41:27Z
+- [Exterior Part, Wrangler 07-18 Pair Kit Set | GENSSI](https://genssi.com/products/gotham-aluminum-inner-fender-liner-for-wrangler-jk-2007-2017): replacement headlight for Wrangler 07-18. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T15:24:18Z
   Vendor: GENSSI
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/IMG_20190403_084341__67537.1554396557.1280.1280.jpg?v=1766514870
   Price: $139.95 USD
-- [LED Canceller Capacitor Modules CANBUS for H11 H9 H8 H16 OSRAM (2 Pack)](https://genssi.com/products/led-canceller-capacitor-modules-canbus-for-h11-h9-h8-h16-osram-2-pack): There is nothing worse than finishing a headlight upgrade, turning the key.
-  Updated: 2026-10-24T17:27:07Z
+- [LED Canceller Capacitor Modules CANBUS for | GENSSI](https://genssi.com/products/led-canceller-capacitor-modules-canbus-for-h11-h9-h8-h16-osram-2-pack): LED headlight for listed vehicles. LED module, sold as a pair OEM/interchange refs: H11, H9. Confirm options on the product page before install Check.
+  Updated: 2026-11-17T15:24:19Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/LED-DECODER-H11_55__59371.1506017007.1280.1280.jpg?v=1766446500
   Price: $34.95 USD
-- [H13 9008 LED Decoder Flicker Canceller for LED Kits](https://genssi.com/products/h13-9008-led-decoder-flicker-canceller-for-led-kits): Optimize your Jeep Wrangler's lighting! Our H13 Connector ensures compatibility with LED kits, prevents flickering & bulb out messages for flawless performance.
-  Updated: 2026-11-07T02:22:31Z
+- [H13 9008 LED Decoder Flicker Canceller Pair | GENSSI](https://genssi.com/products/h13-9008-led-decoder-flicker-canceller-for-led-kits): LED headlight for listed vehicles. Factory-style replacement as listed. OEM/interchange refs: H13, 9008. Confirm options on the product page before.
+  Updated: 2026-11-17T20:48:24Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/LED-DECODER-H13__68631.1586460110.1280.1280.jpg?v=1769033646
   Price: $19.95 USD
-- [1157 LED Bulb with Brake Light Flasher Flashing Pattern (2 Pack)](https://genssi.com/products/1157-led-bulb-with-brake-light-flasher-flashing-pattern-2-pack): Upgrade your vehicle with our 1156 Type LED bulbs! High-output red light, flashes for safety, and replaces numerous stock bulbs. Brighten your ride today!
-  Updated: 2026-10-23T21:49:36Z
+- [1157 LED Brake Light Bulbs w/ Flasher Pattern | GENSSI](https://genssi.com/products/1157-led-bulb-with-brake-light-flasher-flashing-pattern-2-pack): 1157 LED brake light bulbs with a flashing brake pattern in a 2-pack. Direct replacement style bulbs for listed 1157 sockets; confirm base and function.
+  Updated: 2026-11-17T15:22:16Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/1156-FLASH-R_08__67887.1506382300.1280.1280.jpg?v=1769033586
   Price: $14.95 USD
-- [4 Inch LED Blue Halo Fog Lamp Lights For Jeep Wrangler JK](https://genssi.com/products/4-inch-led-blue-halo-fog-lamp-lights-for-jeep-wrangler-jk): Upgrade your Jeep Wrangler JK with GENSSI's durable dual-color halo lamps. Enjoy better road visibility and stylish lighting with IP68 protection.
-  Updated: 2026-10-24T17:27:08Z
+- [LED Lighting, Wrangler 07-14 Pair Kit Set | GENSSI](https://genssi.com/products/4-inch-led-blue-halo-fog-lamp-lights-for-jeep-wrangler-jk): Upgrade your Jeep Wrangler JK with GENSSI's durable dual-color halo lamps. Enjoy better road visibility and stylish lighting with IP68 protection.
+  Updated: 2026-11-17T15:24:22Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/2x4IN-LED-BLUE__08246.1506444380.1280.1280.jpg?v=1769033826
   Price: $69.95 USD
-- [4 Inch LED Green Halo Fog Lamp Lights For Jeep Wrangler JK](https://genssi.com/products/4-inch-led-green-halo-fog-lamp-lights-for-jeep-wrangler-jk): Upgrade your ride with GENSSI LED lamps! Bright cool white illumination and durable IP68 protection. Enjoy versatile dual color halo rings for ultimate style.
-  Updated: 2026-10-24T17:27:09Z
+- [4 Inch LED Green Halo Fog Lamp Lights Pair | GENSSI](https://genssi.com/products/4-inch-led-green-halo-fog-lamp-lights-for-jeep-wrangler-jk): LED fog light for Wrangler JK. Factory-style replacement as listed. Confirm options on the product page before install Confirm connector style on the page.
+  Updated: 2026-11-17T15:24:22Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/2x_4IN-LED-GRN-RED-BLU-v2_00__91551.1506444562.1280.1280.jpg?v=1769033767
   Price: $69.95 USD
-- [4.65 In LED Chrome Projector Headlight Harley Davidson Dyna Fat Bob FXDF 2008-2016 Black (2 Pack)](https://genssi.com/products/4-65-in-led-chrome-projector-headlight-harley-davidson-dyna-fat-bob-fxdf-2008-2016-black-2-pack): Upgrade your Harley Davidson Dyna Fat Bob with our stunning Projector LED headlamps. Brighten your ride with cool white, high-quality lighting today!
-  Updated: 2026-10-29T18:25:57Z
+- [Black LED Projector Lights, Fat Bob 08-16 | GENSSI](https://genssi.com/products/4-65-in-led-chrome-projector-headlight-harley-davidson-dyna-fat-bob-fxdf-2008-2016-black-2-pack): Upgrade your Harley Davidson Dyna Fat Bob with our stunning Projector LED headlamps. Brighten your ride with cool white, high-quality lighting today!
+  Updated: 2026-11-17T15:24:24Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/MainAZ__32509.1506448834.1280.1280.jpg?v=1769475857
   Price: $199.95 USD
-- [Dual LED Headlight for Harley Road Glide Black](https://genssi.com/products/dual-led-headlight-for-harley-road-glide-black): This high performance Dual LED Headlamp will update the look of your Harley Road Glide and improve your night vision on the road.
-  Updated: 2026-10-29T18:25:58Z
+- [Black LED Headlight Set, Road Glide 04-13 | GENSSI](https://genssi.com/products/dual-led-headlight-for-harley-road-glide-black): LED headlight for Harley Road Glide. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:24:24Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/RDGLID-HDLT-BLK_3__45871.1506452493.1280.1280.jpg?v=1766446591
   Price: $309.99 USD
-- [HID Xenon Performance Bulbs (2 Pack)](https://genssi.com/products/hid-xenon-performance-bulbs-2-pack): Upgrade your visibility with our HID replacement bulbs! Experience up to 500% more brightness and 2.5x longer life. Perfect fit, enhanced clarity!
-  Updated: 2026-11-13T21:26:16Z
+- [HID Xenon Performance Bulbs Lighting Premium | GENSSI](https://genssi.com/products/hid-xenon-performance-bulbs-2-pack): Upgrade your visibility with our HID replacement bulbs! Experience up to 500% more brightness and 2.5x longer life. Perfect fit, enhanced clarity!
+  Updated: 2026-11-21T20:33:16Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -655,190 +655,190 @@
   - [9007 / HB5 Low Beam HID, High Beam Halogen / 10000K Most Blue](https://genssi.com/products/hid-xenon-performance-bulbs-2-pack?variant=43362014494803)
     Availability: Not Available
     Price: $29.99 USD
-- [8 Module 48 LED RGB Color Wireless Exterior Truck Bed Rock Lights](https://genssi.com/products/8-module-48-led-rgb-color-wireless-exterior-truck-bed-rock-lights): Transform your ride with our universal LED kit! With 2400 lumens, remote control, and low power usage, it's perfect for any installation. Illuminate anywhere!
-  Updated: 2026-10-23T21:49:36Z
+- [8 Module 48 LED RGB Color Wireless Exterior | GENSSI](https://genssi.com/products/8-module-48-led-rgb-color-wireless-exterior-truck-bed-rock-lights): LED headlight for listed vehicles. LED module Confirm options on the product page before install Confirm connector style on the page Check listing specs.
+  Updated: 2026-11-17T15:24:29Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/AMAZON__92316.1506531422.1280.1280.jpg?v=1769033587
   Price: $29.95 USD
-- [RGB LED Strip Amplifier Repeater](https://genssi.com/products/rgb-led-strip-amplifier-repeater): Boost your LED strips with our RGB amplifier! Extend lengths beyond 16FT without dimming. Perfect for vehicles or projects needing consistent brightness!
-  Updated: 2026-10-25T05:32:43Z
+- [RGB LED Strip Amplifier Repeater Pair Kit | GENSSI](https://genssi.com/products/rgb-led-strip-amplifier-repeater): Boost your LED strips with our RGB amplifier! Extend lengths beyond 16FT without dimming. Perfect for vehicles or projects needing consistent brightness!
+  Updated: 2026-11-17T15:24:29Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/RGB-AMP_04__69771.1506535751.1280.1280.jpg?v=1769033826
   Price: $6.99 USD
-- [Front Aluminum Inner Fender Liners for Wrangler JK 2007-2018](https://genssi.com/products/front-aluminum-inner-fender-liners-for-wrangler-jk-2007-2017): Elevate your Jeep Wrangler JK with our Mesh Inner Fender Liners! Perfectly crafted for 2007-2018 models, blend style and protection effortlessly.
-  Updated: 2026-10-25T05:32:45Z
+- [Exterior Part, Wrangler 07-18 Pair Kit Set | GENSSI](https://genssi.com/products/front-aluminum-inner-fender-liners-for-wrangler-jk-2007-2017): Elevate your Jeep Wrangler JK with our Mesh Inner Fender Liners! Perfectly crafted for 2007-2018 models, blend style and protection effortlessly.
+  Updated: 2026-11-17T15:24:29Z
   Vendor: GENSSI
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JK-LNR-02_02__93846.1526064226.1280.1280.jpg?v=1766514609
   Price: $129.99 USD
-- [XPE Smoked LED Tail Lights for Wrangler JK 2007-2018](https://genssi.com/products/xpe-smoked-led-tail-lights-for-wrangler-jk-2007-2018): Upgrade your Jeep JK Wrangler's look with XPE Series Smoked LED Taillight Assemblies! Brighter, longer-lasting, and safer. Illuminate your journey!
-  Updated: 2026-10-29T18:25:59Z
+- [Smoked LED Tail Lights, Wrangler 2007-2018 | GENSSI](https://genssi.com/products/xpe-smoked-led-tail-lights-for-wrangler-jk-2007-2018): Upgrade your Jeep JK Wrangler's look with XPE Series Smoked LED Taillight Assemblies! Brighter, longer-lasting, and safer. Illuminate your journey!
+  Updated: 2026-11-17T15:24:30Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JK-TAILLIGHT-SMOKED__87920.1516647886.1280.1280.jpg?v=1769033826
   Price: $99.95 USD
-- [Switch Pod 6 Channel Power Box for Wrangler JK 2007-2018](https://genssi.com/products/switch-pod-6-channel-power-box-for-wrangler-jk-2007-2017): Enhance your Jeep Wrangler experience with our 6 Channel Pod Module! Effortlessly control accessories from your driver’s seat with style and ease.
-  Updated: 2026-10-29T18:26:00Z
+- [Switch Pod 6 Channel Power Box, Wrangler 07-18 | GENSSI](https://genssi.com/products/switch-pod-6-channel-power-box-for-wrangler-jk-2007-2017): Enhance your Jeep Wrangler experience with our 6 Channel Pod Module! Effortlessly control accessories from your driver’s seat with style and ease.
+  Updated: 2026-11-17T15:24:30Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/Main_az__02180.1505924853.1280.1280.jpg?v=1769033586
   Price: $229.95 USD
-- [Steel Flat Top Metal Fenders for Wrangler JK 2007-2018](https://genssi.com/products/steel-flat-top-metal-fenders-for-wrangler-jk-2007-2018): Upgrade your Jeep Wrangler with our Steel Front Fenders! Durable, rust-proof, and designed for a rugged look. Perfect for larger tires and more !
-  Updated: 2026-10-25T05:32:45Z
+- [Exterior Part, Wrangler 07-18 Pair Kit Set | GENSSI](https://genssi.com/products/steel-flat-top-metal-fenders-for-wrangler-jk-2007-2018): Upgrade your Jeep Wrangler with our Steel Front Fenders! Durable, rust-proof, and designed for a rugged look. Perfect for larger tires and more !
+  Updated: 2026-11-17T15:24:32Z
   Vendor: GENSSI
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JK-NRF-4DR_013__52597.1522435090.1280.1280.jpg?v=1769033766
   Price: $179.99 USD
-- [Front Rock Crawler Bumper for Wrangler JK 2007-2018](https://genssi.com/products/front-rock-crawler-bumper-for-wrangler-jk-2007-2017): Elevate your JK Wrangler's look and protection with the Rock Crawler front bumper. Features modern LED lights & easy bolt-on installation for 2007-2017 models!
-  Updated: 2026-10-25T05:32:50Z
+- [Front Rock Crawler Bumper for, Wrangler 07-18 | GENSSI](https://genssi.com/products/front-rock-crawler-bumper-for-wrangler-jk-2007-2017): replacement LED light for Wrangler 07-18. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T15:24:33Z
   Vendor: GENSSI
   Product Type: Bumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/J40BUMPER__89987.1581460781.1280.1280.jpg?v=1766514752
   Price: $399.95 USD
-- [Wire Harness Relay with Switch for LED Lighting](https://genssi.com/products/wire-harness-relay-with-switch-for-led-lighting): Power up your Jeep with our versatile Wiring Harness for LED light bars. Enjoy heat-shielded protection, easy connection, and ultimate brightness!
-  Updated: 2026-10-25T05:32:48Z
+- [Wire Harness Relay with Switch for Pair Kit | GENSSI](https://genssi.com/products/wire-harness-relay-with-switch-for-led-lighting): Power up your Jeep with our versatile Wiring Harness for LED light bars. Enjoy heat-shielded protection, easy connection, and ultimate brightness!
+  Updated: 2026-11-17T15:24:34Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/W01__69593.1513359932.1280.1280.jpg?v=1769033587
   Price: $24.95 USD
-- [HALO Projector Black LED Headlights for Wrangler 1996-2018](https://genssi.com/products/halo-projector-black-led-headlights-for-wrangler-1996-2017): Transform your Jeep Wrangler with modern HALO LED headlights. Enjoy enhanced safety, a sleek look, and versatile lighting options for night drives.
-  Updated: 2026-11-09T02:25:06Z
+- [Black LED Projector Lights, Wrangler 1996-2018 | GENSSI](https://genssi.com/products/halo-projector-black-led-headlights-for-wrangler-1996-2017): Transform your Jeep Wrangler with modern HALO LED headlights. Enjoy enhanced safety, a sleek look, and versatile lighting options for night drives.
+  Updated: 2026-11-17T15:24:35Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/Halos_7LED__10160.1525276709.1280.1280.jpg?v=1769033647
   Price: $99.95 USD
-- [MPR 10th Anniversary Hood for Wrangler JK 2007-2018](https://genssi.com/products/mpr-10th-anniversary-hood-for-wrangler-jk-2007-2017): Upgrade your JK Wrangler with the MPR 10th Anniversary hood! Durable steel, unique vents for cooling, and aggressive styling. Elevate your ride today!
-  Updated: 2026-10-24T00:09:05Z
+- [Exterior Part, Wrangler 07-18 Pair Kit Set | GENSSI](https://genssi.com/products/mpr-10th-anniversary-hood-for-wrangler-jk-2007-2017): Upgrade your JK Wrangler with the MPR 10th Anniversary hood! Durable steel, unique vents for cooling, and aggressive styling. Elevate your ride today!
+  Updated: 2026-11-17T15:24:39Z
   Vendor: GENSSI
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/MPR-HOOD_2__26382.1505960576.1280.1280.jpg?v=1769033765
   Price: $799.99 USD
-- [APOLLO Chrome Projector LED Headlights for Wrangler 1996-2018](https://genssi.com/products/apollo-chrome-projector-led-headlights-for-wrangler-1996-2017): Elevate your Jeep Wrangler with our Apollo projector headlamps! Enjoy a stylish upgrade, enhanced safety, and brilliant lighting on every adventure.
-  Updated: 2026-10-29T18:26:02Z
+- [Chrome LED Projectors, Wrangler 1996-2018 | GENSSI](https://genssi.com/products/apollo-chrome-projector-led-headlights-for-wrangler-1996-2017): Elevate your Jeep Wrangler with our Apollo projector headlamps! Enjoy a stylish upgrade, enhanced safety, and brilliant lighting on every adventure.
+  Updated: 2026-11-17T15:24:37Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/7_PRO_HEADLIGHTS__20471.1513359948.1280.1280.jpg?v=1769033706
   Price: $229.95 USD
-- [APOLLO Black Projector LED Headlights for Wrangler 1996-2018](https://genssi.com/products/apollo-black-projector-led-headlights-for-wrangler-1996-2017): Upgrade your Jeep Wrangler with our Apollo projector lens headlamps. Enhanced safety, sharp beam pattern, and a sleek look for nighttime drives!
-  Updated: 2026-10-29T18:26:03Z
+- [Black LED Projector Lights, Wrangler 1996-2018 | GENSSI](https://genssi.com/products/apollo-black-projector-led-headlights-for-wrangler-1996-2017): LED headlight for listed vehicles 1996-2018. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:24:39Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/7_PRO_HEADLIGHTS__18473.1513359948.1280.1280.jpg?v=1769033586
   Price: $229.95 USD
-- [7 Inch Honeycomb Array Chrome LED Headlights Set](https://genssi.com/products/7-inch-honeycomb-array-chrome-led-headlights-set): Illuminate Your Journey with GENSSI’s 7 Inch Honeycomb Array LED Headlights Tired of dim, uninspired headlights?
-  Updated: 2026-10-29T18:26:05Z
+- [7 Inch Honeycomb Array Chrome LED Pair Kit | GENSSI](https://genssi.com/products/7-inch-honeycomb-array-chrome-led-headlights-set): LED headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T16:34:28Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/2016-03-29__45097.1507060465.1280.1280.jpg?v=1766446913
   Price: $89.99 USD
-- [LED Light Bar 288W 50 Inches Bracket Wiring Harness Kit for Wrangler JK 2007-2017](https://genssi.com/products/led-light-bar-288w-50-inches-bracket-wiring-harness-kit-for-wrangler-jk-2007-2017): Transform your vehicle with our LED light bar kit! Vehicle-specific design, superior brightness, and quick installation for maximum visibility and style.
-  Updated: 2026-10-29T18:26:06Z
+- [288W Relay Harness, Wrangler 07-17 Pair Kit | GENSSI](https://genssi.com/products/led-light-bar-288w-50-inches-bracket-wiring-harness-kit-for-wrangler-jk-2007-2017): Transform your vehicle with our LED light bar kit! Vehicle-specific design, superior brightness, and quick installation for maximum visibility and style.
+  Updated: 2026-11-17T15:24:40Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/3D-LIGHT-BAR_MAIN-SITE__09049.1506613801.1280.1280.jpg?v=1776805194
   Price: $299.99 USD
-- [HALO RGB Color Projector LED Headlights for Wrangler 1996-2018](https://genssi.com/products/halo-rgb-color-projector-led-headlights-for-wrangler-1996-2017): Upgrade your Jeep Wrangler with our RGB LED Headlights! Modern design, added safety, and customizable colors via smartphone app. Brighten your rides today!
-  Updated: 2026-10-29T18:26:07Z
+- [HALO RGB Color Projector LED Headlights 1996-2018 | GENSSI](https://genssi.com/products/halo-rgb-color-projector-led-headlights-for-wrangler-1996-2017): Upgrade your Jeep Wrangler with our RGB LED Headlights! Modern design, added safety, and customizable colors via smartphone app. Brighten your rides today!
+  Updated: 2026-11-17T15:24:42Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/2X7RGBLED2PIECES__75208.1522793118.1280.1280.jpg?v=1769033346
   Price: $249.95 USD
-- [HALO Projector Chrome LED Headlights for Wrangler 1996-2018](https://genssi.com/products/halo-projector-chrome-led-headlights-for-wrangler-1996-2017): Elevate your Jeep Wrangler with our stunning HALO LED Chrome Headlights. Enhance safety, style, and visibility with bright modern lighting upgrades!
-  Updated: 2026-10-29T18:26:08Z
+- [Chrome LED Projectors, Wrangler 1996-2018 | GENSSI](https://genssi.com/products/halo-projector-chrome-led-headlights-for-wrangler-1996-2017): Elevate your Jeep Wrangler with our stunning HALO LED Chrome Headlights. Enhance safety, style, and visibility with bright modern lighting upgrades!
+  Updated: 2026-11-17T15:24:42Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/2x-7LED-NOTEXT__35342.1528909415.1280.1280.jpg?v=1769033346
   Price: $179.95 USD
-- [HALO RGB CHASE Projector LED Headlights for Wrangler 1996-2018](https://genssi.com/products/halo-rgb-chase-projector-led-headlights-for-wrangler-1996-2017): Upgrade your Jeep Wrangler with our HALO RGB Color Chasing LED Headlamps! Enjoy modern style, enhanced safety, and customizable colors with your smartphone.
-  Updated: 2026-10-29T18:26:09Z
+- [HALO RGB CHASE Projector LED Headlights 1996-2018 | GENSSI](https://genssi.com/products/halo-rgb-chase-projector-led-headlights-for-wrangler-1996-2017): LED headlight for listed vehicles 1996-2018. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:24:45Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/7LED-BLKv2_0501__83731.1513359652.1280.1280.jpg?v=1769033586
   Price: $199.95 USD
-- [7 Inch HALO RGB Color Projector LED Headlights & Fog Lights Kit for Wrangler JK 2007-2017](https://genssi.com/products/7-inch-halo-rgb-color-projector-led-headlights-fog-lights-kit-for-wrangler-jk-2007-2017): Upgrade your Jeep Wrangler with GENSSI's Smartphone Controlled 7" LED RGB Halo Headlights and Fog Lamps. Enhanced visibility and stylish design await!
-  Updated: 2026-11-07T02:22:31Z
+- [LED Fog Lights Driving Lamp, Wrangler 07-17 | GENSSI](https://genssi.com/products/7-inch-halo-rgb-color-projector-led-headlights-fog-lights-kit-for-wrangler-jk-2007-2017): Upgrade your Jeep Wrangler with GENSSI's Smartphone Controlled 7" LED RGB Halo Headlights and Fog Lamps. Enhanced visibility and stylish design await!
+  Updated: 2026-11-17T15:24:46Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/KIT-7LED-RGB-BLK_3__78361.1506571411.1280.1280.jpg?v=1769033286
   Price: $289.95 USD
-- [Rear Rock Crawler Bumper and Tire Carrier for Wrangler JK 2007-2018](https://genssi.com/products/rear-rock-crawler-bumper-and-tire-carrier-for-wrangler-jk-2007-2017): Conquer Any Trail with the GENSSI Rock Crawler Rear Bumper & Tire Carrier Unleash the full potential of your Jeep JK.
-  Updated: 2026-10-25T05:32:57Z
+- [Rear Rock Crawler Bumper and Tire, Wrangler 07-18 | GENSSI](https://genssi.com/products/rear-rock-crawler-bumper-and-tire-carrier-for-wrangler-jk-2007-2017): replacement LED light for Wrangler 07-18. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T15:24:46Z
   Vendor: GENSSI
   Product Type: Bumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/01__83914.1506211946.1280.1280.jpg?v=1766515604
   Price: $599.95 USD
-- [LED Under Body Rock Lights Color with Bluetooth Controller 4x](https://genssi.com/products/led-under-body-rock-lights-color-with-bluetooth-controller-4x): Add a bit of color to your Jeep! Install them anywhere outside of your vehicle, such as under the fenders or bumpers.
-  Updated: 2026-10-24T16:28:18Z
+- [LED Under Body Rock Lights Color Pair Kit | GENSSI](https://genssi.com/products/led-under-body-rock-lights-color-with-bluetooth-controller-4x): LED LED light for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T16:34:27Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/AMAZON__25195.1522277469.1280.1280.jpg?v=1766515304
   Price: $49.99 USD
-- [LED Under Body Rock Lights Color with Bluetooth Controller 8x](https://genssi.com/products/led-under-body-rock-lights-color-with-bluetooth-controller-8x): Illuminate your Jeep with GENSSI's RGB LED Rock Lights! Customizable colors and patterns, waterproof design, and Bluetooth control for vibrant adventures.
-  Updated: 2026-10-29T18:26:11Z
+- [LED Under Body Rock Lights Color Pair Kit | GENSSI](https://genssi.com/products/led-under-body-rock-lights-color-with-bluetooth-controller-8x): Illuminate your Jeep with GENSSI's RGB LED Rock Lights! Customizable colors and patterns, waterproof design, and Bluetooth control for vibrant adventures.
+  Updated: 2026-11-17T15:24:48Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/8X01__37245.1522277494.1280.1280.jpg?v=1769033466
   Price: $59.95 USD
-- [XPE Black LED Tail Lights for Wrangler JK 2007-2018](https://genssi.com/products/xpe-black-led-tail-lights-for-wrangler-jk-2007-2018): Upgrade your Jeep JK with our XPE Series Black Clear LED Taillight Assemblies. Experience modern style, enhanced brightness, and safety for years to come!
-  Updated: 2026-10-29T18:26:12Z
+- [Black LED Tail Lights, Wrangler 2007-2018 | GENSSI](https://genssi.com/products/xpe-black-led-tail-lights-for-wrangler-jk-2007-2018): Upgrade your Jeep JK with our XPE Series Black Clear LED Taillight Assemblies. Experience modern style, enhanced brightness, and safety for years to come!
+  Updated: 2026-11-17T15:24:49Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JK-TAILLIGHT-BLK__94001.1516647995.1280.1280.jpg?v=1769033286
   Price: $129.95 USD
-- [LED Light Bar Curved 288W 50 Inches Bracket Wiring Harness Kit for Ford F250 F350 Superduty 1999-2015](https://genssi.com/products/led-light-bar-curved-288w-50-inches-bracket-wiring-harness-kit-for-ford-f250-f350-superduty-1999-2015): Elevate your ride with our custom LED light bar kit! Designed for easy installation, it offers superior brightness and durability. Shine brighter today!
-  Updated: 2026-10-29T18:26:13Z
+- [288W Relay Harness, Ford F250 F350 1999-2015 | GENSSI](https://genssi.com/products/led-light-bar-curved-288w-50-inches-bracket-wiring-harness-kit-for-ford-f250-f350-superduty-1999-2015): Elevate your ride with our custom LED light bar kit! Designed for easy installation, it offers superior brightness and durability. Shine brighter today!
+  Updated: 2026-11-17T15:24:51Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/cooling__54614.1506621419.1280.1280.jpg?v=1769033467
   Price: $299.99 USD
-- [LED Light Bar Curved 288W 50 Inches Bracket Wiring Harness Kit for GMC Sierra Chevy Silverado Trucks 2007-2013](https://genssi.com/products/led-light-bar-curved-288w-50-inches-bracket-wiring-harness-kit-for-gmc-sierra-chevy-silverado-trucks-2007-2013): Illuminate your ride with our premium LED light bar kit! Easy installation, superior brightness, and a sleek design enhance any vehicle. Shop now!
-  Updated: 2026-10-29T18:26:14Z
+- [288W Relay Harness, Silverado 1500 07-13 Pair | GENSSI](https://genssi.com/products/led-light-bar-curved-288w-50-inches-bracket-wiring-harness-kit-for-gmc-sierra-chevy-silverado-trucks-2007-2013): Illuminate your ride with our premium LED light bar kit! Easy installation, superior brightness, and a sleek design enhance any vehicle. Shop now!
+  Updated: 2026-11-17T15:24:52Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/cooling__17301.1506622622.1280.1280.jpg?v=1769033348
   Price: $299.99 USD
-- [LED Light Bar Curved 288W 50 Inches Bracket Wiring Harness Kit for GMC Sierra Chevy Silverado Trucks 1999-2006](https://genssi.com/products/led-light-bar-curved-288w-50-inches-bracket-wiring-harness-kit-for-gmc-sierra-chevy-silverado-trucks-1999-2006): Upgrade your ride with our LED Light Bar Kit! Enjoy superior brightness, a curved design, and easy installation for optimal visibility on any adventure.
-  Updated: 2026-10-29T18:26:15Z
+- [288W Relay Harness, Silverado 1500 1999-2006 | GENSSI](https://genssi.com/products/led-light-bar-curved-288w-50-inches-bracket-wiring-harness-kit-for-gmc-sierra-chevy-silverado-trucks-1999-2006): Upgrade your ride with our LED Light Bar Kit! Enjoy superior brightness, a curved design, and easy installation for optimal visibility on any adventure.
+  Updated: 2026-11-17T15:24:53Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/cooling__95044.1506622799.1280.1280.jpg?v=1769033527
   Price: $299.99 USD
-- [LED Light Bar Curved 288W 50 Inches Bracket Wiring Harness Kit for GMC Sierra Chevy Silverado Trucks 2014-2017](https://genssi.com/products/led-light-bar-curved-288w-50-inches-bracket-wiring-harness-kit-for-gmc-sierra-chevy-silverado-trucks-2014-2017): Transform your ride with our LED Light Bar Kit! Features curved design, ultra-sharp output, and easy installation. Experience superior brightness now!
-  Updated: 2026-10-29T18:26:16Z
+- [288W Relay Harness, Silverado 1500 14-17 Pair | GENSSI](https://genssi.com/products/led-light-bar-curved-288w-50-inches-bracket-wiring-harness-kit-for-gmc-sierra-chevy-silverado-trucks-2014-2017): Transform your ride with our LED Light Bar Kit! Features curved design, ultra-sharp output, and easy installation. Experience superior brightness now!
+  Updated: 2026-11-17T15:24:54Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/cooling__15771.1506622951.1280.1280.jpg?v=1769033288
   Price: $299.99 USD
-- [36W 7 Inches Slim Black Projector Spot LED Light Bar](https://genssi.com/products/36w-7-inches-slim-black-projector-spot-led-light-bar): Upgrade your ride with GENSSI's premium LED light bars! Perfect for custom installs, these waterproof lights deliver high performance and durability.
-  Updated: 2026-10-24T04:19:09Z
+- [36W 7 Inches Slim Black Projector Spot LED | GENSSI](https://genssi.com/products/36w-7-inches-slim-black-projector-spot-led-light-bar): Upgrade your ride with GENSSI's premium LED light bars! Perfect for custom installs, these waterproof lights deliver high performance and durability.
+  Updated: 2026-11-17T15:24:54Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -851,308 +851,308 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/GEN-36W-B_01__75123.1592928940.500.750.jpg?v=1769033527
     Price: $39.99 USD
-- [Heavy Duty Light Bar Relay Single Output](https://genssi.com/products/heavy-duty-light-bar-relay-single-output): Upgrade your lighting with our GENSSI LED light bar harness & switch. Plug and play for all GENSSI bars, featuring a waterproof switch and robust design!
-  Updated: 2026-10-29T18:26:18Z
+- [Heavy Duty Light Bar Relay Single Pair Kit | GENSSI](https://genssi.com/products/heavy-duty-light-bar-relay-single-output): Upgrade your lighting with our GENSSI LED light bar harness & switch. Plug and play for all GENSSI bars, featuring a waterproof switch and robust design!
+  Updated: 2026-11-17T15:24:56Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/GEN-RLY_4__56141.1507753897.1280.1280.jpg?v=1769033406
   Price: $39.95 USD
-- [Heavy Duty Light Bar Relay Dual Output](https://genssi.com/products/heavy-duty-light-bar-relay-dual-output): Illuminate your adventures with GENSSI's Dual Output LED light bar harness! Effortless plug-and-play design, inline fuse holder & waterproof switch included.
-  Updated: 2026-10-29T18:26:19Z
+- [Heavy Duty Light Bar Relay Dual Output Pair | GENSSI](https://genssi.com/products/heavy-duty-light-bar-relay-dual-output): replacement LED light for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on.
+  Updated: 2026-11-17T15:24:57Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/GEN-RLY-DUO__94795.1506626790.1280.1280.jpg?v=1770074063
   Price: $42.95 USD
-- [5 PIN 40A Relay and Wire Harness SPDT 12V (5 Pack)](https://genssi.com/products/5-pin-40a-relay-and-wire-harness-spdt-12v-5-pack): Upgrade your vehicle's performance with our 5 Pack of Durable 40A 5 Pin Relays. Perfect for various applications, heavy-duty construction ensures reliability!
-  Updated: 2026-10-23T21:49:46Z
+- [5 PIN 40A Relay and Wire Harness SPDT Pair | GENSSI](https://genssi.com/products/5-pin-40a-relay-and-wire-harness-spdt-12v-5-pack): replacement headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on.
+  Updated: 2026-11-17T15:24:58Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/AD01__90795.1506963637.1280.1280.jpg?v=1769033526
   Price: $18.95 USD
-- [AC Power Cord 3 Prong](https://genssi.com/products/ac-power-cord-3-prong): Power your devices with our versatile 6FT AC power cord! Compatible with all power supplies, featuring a reliable ground wire for added safety.
-  Updated: 2026-10-23T21:49:46Z
+- [AC Power Cord 3 Prong Electrical This can | GENSSI](https://genssi.com/products/ac-power-cord-3-prong): replacement headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on.
+  Updated: 2026-11-17T15:24:59Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/AC-CORD__06573.1506973916.1280.1280.jpg?v=1766447229
   Price: $9.95 USD
-- [4 PIN 30A 12V SPST Micro Relay (2 Pack)](https://genssi.com/products/4-pin-30a-12v-spst-micro-relay-10-pack): Upgrade your electrical systems with our heavy-duty 30A Micro Relay kit. Perfect for cooling fans, fuel pumps, and more! Easy installation .
-  Updated: 2026-10-24T16:40:57Z
+- [4 PIN 30A 12V SPST Micro Relay Pair Kit Set | GENSSI](https://genssi.com/products/4-pin-30a-12v-spst-micro-relay-10-pack): Upgrade your electrical systems with our heavy-duty 30A Micro Relay kit. Perfect for cooling fans, fuel pumps, and more! Easy installation .
+  Updated: 2026-11-17T15:25:00Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/MAAS-112__23772.1506983240.1280.1280.jpg?v=1774197102
   Price: $24.95 USD
-- [H10 9145 9155  21 SMD LED Fog Light Bulbs (2 Pack)](https://genssi.com/products/h10-9145-9155-21-smd-led-fog-light-bulbs-2-pack): Enhance your fog lamps with our H10/9145 Accent Upgrade Bulbs! Bright 6000K cool white light, 10X longer life, and only 3W power usage. Illuminate in style!
-  Updated: 2026-10-25T05:33:11Z
+- [H10 9145 9155 21 SMD LED Fog Light Pair Kit | GENSSI](https://genssi.com/products/h10-9145-9155-21-smd-led-fog-light-bulbs-2-pack): LED fog light for listed vehicles. sold as a pair OEM/interchange refs: H10. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:25:02Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/H10-21SMD-W_5__33535.1506985488.1280.1280.jpg?v=1769033346
   Price: $14.95 USD
-- [7 Inch Honeycomb Array Chrome LED Motorcycle Headlight](https://genssi.com/products/7-inch-honeycomb-array-chrome-led-motorcycle-headlight): Illuminate your ride with our 75W LED headlight! Versatile low/high beam & DRL functions, perfect fit for most motorcycles. Bright & moisture-proof!
-  Updated: 2026-10-29T18:26:20Z
+- [7 Inch Honeycomb Array Chrome LED Pair Kit | GENSSI](https://genssi.com/products/7-inch-honeycomb-array-chrome-led-motorcycle-headlight): Illuminate your ride with our 75W LED headlight! Versatile low/high beam & DRL functions, perfect fit for most motorcycles. Bright & moisture-proof!
+  Updated: 2026-11-17T15:25:03Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/HRLY-AXLRY-CHRM-75W__13425.1507061343.1280.1280.jpg?v=1769033466
   Price: $63.95 USD
-- [7 Inch Honeycomb Array Black LED Motorcycle Headlight](https://genssi.com/products/7-inch-honeycomb-array-black-led-motorcycle-headlight): Upgrade your ride with our 75W LED headlight! Boasting up to 3550 Lumens and a durable design, it's perfect for motorcycles needing brightness and reliability.
-  Updated: 2026-10-29T18:26:21Z
+- [7 Inch Honeycomb Array Black LED Pair Kit | GENSSI](https://genssi.com/products/7-inch-honeycomb-array-black-led-motorcycle-headlight): LED headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T16:34:34Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/75W-LED-BLK-v2__02__59784.1507061665.1280.1280.jpg?v=1769033466
   Price: $63.95 USD
-- [7 Inch Black Projector LED Motorcycle Headlight](https://genssi.com/products/7-inch-black-projector-led-motorcycle-headlight): Transform your ride with the ultimate 7" Round LED projector headlights. Unmatched brightness, efficiency & durability for your vehicle or motorcycle!
-  Updated: 2026-11-07T02:22:31Z
+- [7 Inch Black Projector LED Motorcycle Headlight | GENSSI](https://genssi.com/products/7-inch-black-projector-led-motorcycle-headlight): Transform your ride with the ultimate 7" Round LED projector headlights. Unmatched brightness, efficiency & durability for your vehicle or motorcycle!
+  Updated: 2026-11-17T15:25:04Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/GEN-7IN-PRO-BLK_03__83349.1615830082.1280.1280.jpg?v=1769033346
   Price: $118.95 USD
-- [7 Inch Chrome Projector LED Motorcycle Headlight](https://genssi.com/products/copy-of-7-inch-chrome-projector-led-motorcycle-headlight): Transform your ride with our ultimate 7" Round LED projector headlight! Exceptional brightness and durability with CREE XM-L2 LEDs. Perfect beam pattern awaits!
-  Updated: 2026-11-07T02:22:31Z
+- [Chrome LED Projector Lights Left Right Set | GENSSI](https://genssi.com/products/copy-of-7-inch-chrome-projector-led-motorcycle-headlight): LED headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T16:34:34Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/AD03__58515.1507063591.1280.1280.jpg?v=1766447324
   Price: $118.95 USD
-- [7 Inch HALO RGB Chasing Projector LED Motorcycle Headlight](https://genssi.com/products/7-inch-halo-rgb-chasing-projector-led-motorcycle-headlight): Upgrade your motorcycle with our advanced LED headlight featuring Color Changing Halo, enhanced visibility, and remote control. Illuminate the road ahead!
-  Updated: 2026-11-07T02:22:31Z
+- [LED Plug-and-Play Replacement Projector Lights | GENSSI](https://genssi.com/products/7-inch-halo-rgb-chasing-projector-led-motorcycle-headlight): Upgrade your motorcycle with our advanced LED headlight featuring Color Changing Halo, enhanced visibility, and remote control. Illuminate the road ahead!
+  Updated: 2026-11-17T15:25:07Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/music__92149.1507063921.1280.1280.jpg?v=1769033406
   Price: $149.95 USD
-- [G7 Elite LED Motorcycle Headlight Conversion Kit 6000K H4 9003 Bulb](https://genssi.com/products/g7-elite-led-motorcycle-headlight-conversion-kit-6000k-h4-9003-bulb): Elevate your ride with GENSSI® ELITE G7 lighting—superior performance, stylish design, and unmatched durability for every vehicle. Upgrade today!
-  Updated: 2026-11-07T02:22:31Z
+- [G7 Elite LED Motorcycle Headlight Conversion | GENSSI](https://genssi.com/products/g7-elite-led-motorcycle-headlight-conversion-kit-6000k-h4-9003-bulb): Elevate your ride with GENSSI® ELITE G7 lighting—superior performance, stylish design, and unmatched durability for every vehicle. Upgrade today!
+  Updated: 2026-11-17T15:25:10Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/G7-ELT-H4-1-Bulb__54261.1507064368.1280.1280.jpg?v=1769033287
   Price: $68.95 USD
-- [Wire Harness Relay with Switch for LED Lighting Dual Output](https://genssi.com/products/wire-harness-relay-with-switch-for-led-lighting-dual-output): Upgrade your Jeep with our versatile Wiring Harness for LED light bars. Easily connect, power up to 2 lights, and illuminate the night effortlessly.
-  Updated: 2026-10-25T05:33:12Z
+- [Wire Harness Relay with Switch for Pair Kit | GENSSI](https://genssi.com/products/wire-harness-relay-with-switch-for-led-lighting-dual-output): Upgrade your Jeep with our versatile Wiring Harness for LED light bars. Easily connect, power up to 2 lights, and illuminate the night effortlessly.
+  Updated: 2026-11-17T15:25:09Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/W01__21429.1619132873.1280.1280.jpg?v=1769033287
   Price: $24.95 USD
-- [Wire Harness Relay Quad Output with Switch for LED Lighting](https://genssi.com/products/wire-harness-relay-quad-output-with-switch-for-led-lighting): Unlock the full potential of your lighting with our premium 30A harness for up to 4 LED light bars. Easy installation, durable design, and ultimate protection!
-  Updated: 2026-11-04T03:09:01Z
+- [Wire Harness Relay Quad Output with Pair Kit | GENSSI](https://genssi.com/products/wire-harness-relay-quad-output-with-switch-for-led-lighting): replacement headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on.
+  Updated: 2026-11-17T15:25:12Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/W01_23__44744.1507065483.1280.1280.jpg?v=1769033286
   Price: $44.99 USD
-- [7 Inch Projector Black LED Headlights Set](https://genssi.com/products/7-inch-projector-black-led-headlights-set): Upgrade your ride with our powerful LED headlights! Exceptional beam clarity and waterproof design for a safer drive. Perfect fit for many vehicles!
-  Updated: 2026-11-07T02:22:31Z
+- [7 Inch Projector Black LED Headlights Set | GENSSI](https://genssi.com/products/7-inch-projector-black-led-headlights-set): Upgrade your ride with our powerful LED headlights! Exceptional beam clarity and waterproof design for a safer drive. Perfect fit for many vehicles!
+  Updated: 2026-11-17T15:25:13Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/7HDLTPRO-BLK_2x__44547.1507067478.1280.1280.jpg?v=1769033287
   Price: $129.95 USD
-- [7 Inch Projector Black LED Motorcycle Headlight](https://genssi.com/products/7-inch-projector-black-led-motorcycle-headlight): Upgrade your ride with our sleek LED headlights! Brighten your path with superior clarity and moisture-proof design. Perfect for many motorcycles.
-  Updated: 2026-11-07T02:22:31Z
+- [7 Inch Projector Black LED Motorcycle Headlight | GENSSI](https://genssi.com/products/7-inch-projector-black-led-motorcycle-headlight): Upgrade your ride with our sleek LED headlights! Brighten your path with superior clarity and moisture-proof design. Perfect for many motorcycles.
+  Updated: 2026-11-17T15:25:16Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/7HDLTPRO-BLK_002__26042.1507067692.1280.1280.jpg?v=1769033407
   Price: $64.95 USD
-- [7 Inch Projector Chrome LED Headlights Set](https://genssi.com/products/7-inch-projector-chrome-led-headlights-set): Elevate your ride with GENSSI's LED Headlights! Enjoy powerful illumination, sleek design, and durability with up to 3550 lumens. Perfect for most vehicles!
-  Updated: 2026-11-07T02:22:30Z
+- [Chrome LED Projector Lights Left Right Set | GENSSI](https://genssi.com/products/7-inch-projector-chrome-led-headlights-set): LED headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T16:34:37Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/end__67568.1507072739.1280.1280.jpg?v=1769033348
   Price: $129.95 USD
-- [7 Inch Projector Chrome LED Motorcycle Headlight](https://genssi.com/products/7-inch-projector-chrome-led-motorcycle-headlight): Upgrade your ride with our sleek chrome LED headlights! Bright projector beams offer enhanced visibility and style. Perfect fit for standard 7" motorcycles.
-  Updated: 2026-11-07T02:22:31Z
+- [Chrome LED Projector Lights Left Right Set | GENSSI](https://genssi.com/products/7-inch-projector-chrome-led-motorcycle-headlight): LED headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T16:34:38Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/7HDLTPRO-CHROME__67402.1507072875.1280.1280.jpg?v=1769033286
   Price: $64.95 USD
-- [5.75 (5 3/4) In LED Projector Motorcycle Headlight Round DOT V2 Chrome](https://genssi.com/products/5-75-5-3-4-in-led-projector-motorcycle-headlight-round-dot-v2-chrome): Enhance your ride with GENSSI's 5 3/4 Projector LED Headlamp. Boasting up to 3780 lumens, this DOT- light offers superior visibility and durability.
-  Updated: 2026-11-07T02:22:31Z
+- [Chrome LED Projector Lights Left Right Set | GENSSI](https://genssi.com/products/5-75-5-3-4-in-led-projector-motorcycle-headlight-round-dot-v2-chrome): LED headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T16:34:40Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/5HDLT-ULTRA-CHRM_052__33654.1507073151.1280.1280.jpg?v=1769033347
   Price: $63.95 USD
-- [4x6 LED Array Headlights H4651 H4652 H4656 H4666 H6545 Chrome Set](https://genssi.com/products/4x6-led-array-headlights-h4651-h4652-h4656-h4666-h6545-chrome-set): Upgrade your ride with GENSSI's 4x6 Sealed Beam LED Headlights. Enjoy superior brightness, durability, and waterproof design for all driving conditions.
-  Updated: 2026-11-07T02:22:31Z
+- [Chrome LED Plug-and-Play Replacement Headlights | GENSSI](https://genssi.com/products/4x6-led-array-headlights-h4651-h4652-h4656-h4666-h6545-chrome-set): Upgrade your ride with GENSSI's 4x6 Sealed Beam LED Headlights. Enjoy superior brightness, durability, and waterproof design for all driving conditions.
+  Updated: 2026-11-17T15:25:19Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/4X6-LED-HDLT_455__91956.1507077562.1280.1280.jpg?v=1769033406
   Price: $82.95 USD
-- [5.75 (5 3/4) In LED Black Projector Motorcycle Headlight Round DOT V2](https://genssi.com/products/5-75-5-3-4-in-led-black-projector-motorcycle-headlight-round-dot-v2): Enhance your ride with the GENSSI 5 3/4 Projector LED Headlamp. DOT , delivering 2800LM on low beam. Experience unparalleled clarity and brightness!
-  Updated: 2026-11-07T02:22:31Z
+- [Black LED Projector Lights Left Right Set | GENSSI](https://genssi.com/products/5-75-5-3-4-in-led-black-projector-motorcycle-headlight-round-dot-v2): LED headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T16:34:40Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/01Main__89675.1507084714.1280.1280.jpg?v=1769033287
   Price: $99.95 USD
-- [5.75 (5 3/4) Inch LED Black Projector Motorcycle Headlight Round DOT](https://genssi.com/products/5-75-5-3-4-inch-led-black-projector-motorcycle-headlight-round-dot): Enhance your ride with our GENSSI 5 3/4 Projector LED Headlamp! Enjoy brilliant lighting, durability, and DOT- performance. See the road ahead clearly!
-  Updated: 2026-11-07T02:22:31Z
+- [Black LED Projector Lights Left Right Set | GENSSI](https://genssi.com/products/5-75-5-3-4-inch-led-black-projector-motorcycle-headlight-round-dot): LED headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T16:34:43Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/GEN-5IN-PRO-BLK_01712__81697.1507085537.1280.1280.jpg?v=1769033346
   Price: $149.95 USD
-- [5.75 (5 3/4) Inch LED Chrome Projector Motorcycle Headlight Round](https://genssi.com/products/5-75-5-3-4-inch-led-chrome-projector-motorcycle-headlight-round): Upgrade your ride with our advanced projector lens! Experience enhanced clarity, powerful brightness, and durable waterproof design for safer night drives.
-  Updated: 2026-11-07T02:22:31Z
+- [5.75 Inch LED Chrome Projector Motorcycle Headlight | GENSSI](https://genssi.com/products/5-75-5-3-4-inch-led-chrome-projector-motorcycle-headlight-round): Upgrade your ride with our advanced projector lens! Experience enhanced clarity, powerful brightness, and durable waterproof design for safer night drives.
+  Updated: 2026-11-17T15:25:21Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/DSC07714__88856.1561738284.1280.1280.jpg?v=1766447498
   Price: $63.95 USD
-- [5.75 (5 3/4) Inch LED Black  Projector Motorcycle Headlight Round](https://genssi.com/products/5-75-5-3-4-inch-led-black-projector-motorcycle-headlight-round): Upgrade your ride with our Projector Lens! Enjoy improved optics, enhanced light output, and superior visibility. Durable, water-resistant, and compliant.
-  Updated: 2026-11-07T02:22:31Z
+- [5.75 Inch LED Black Projector Motorcycle Headlight | GENSSI](https://genssi.com/products/5-75-5-3-4-inch-led-black-projector-motorcycle-headlight-round): Upgrade your ride with our Projector Lens! Enjoy improved optics, enhanced light output, and superior visibility. Durable, water-resistant, and compliant.
+  Updated: 2026-11-17T15:25:23Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/road__24580.1507087343.1280.1280.jpg?v=1769033287
   Price: $63.95 USD
-- [5.75 (5 3/4) Inch LED Black  Projector Headlights Round Set](https://genssi.com/products/5-75-5-3-4-inch-led-black-projector-headlights-round-set): Upgrade your ride with our high-performance projector lens! Experience improved light output, clarity, and durability with an IP68 water-resistant design.
-  Updated: 2026-11-07T02:22:31Z
+- [5.75 Inch LED Black Projector Headlights Round | GENSSI](https://genssi.com/products/5-75-5-3-4-inch-led-black-projector-headlights-round-set): Upgrade your ride with our high-performance projector lens! Experience improved light output, clarity, and durability with an IP68 water-resistant design.
+  Updated: 2026-11-17T15:25:24Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/5HDLT-BLK.-2pack__12336.1507087618.1280.1280.jpg?v=1769033466
   Price: $127.95 USD
-- [Light Bar Bracket 50 Inch Straight with Pod Mounts for Jeep Wrangler JK JKU 2007-2018](https://genssi.com/products/light-bar-bracket-50-inch-straight-with-pod-mounts-for-jeep-wrangler-jk-jku-2007-2018): Transform your 2007-2018 Jeep Wrangler with our premium LED light bar bracket! Perfect for 2 & 4 door models, enhancing off-road visibility like never before!
-  Updated: 2026-10-25T05:33:16Z
+- [Light Bar Bracket 50 Inch Straight, Wrangler 07-18 | GENSSI](https://genssi.com/products/light-bar-bracket-50-inch-straight-with-pod-mounts-for-jeep-wrangler-jk-jku-2007-2018): replacement LED light for Wrangler 07-18. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T15:25:25Z
   Vendor: JP FEDERATION
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/IMG-20230516-WA0007__85022.1687455706.1280.1280.jpg?v=1769033526
   Price: $79.95 USD
-- [LED Light Bar 14" Hood Bracket for Jeep Wrangler JK 2007-2017](https://genssi.com/products/led-light-bar-14-hood-bracket-for-jeep-wrangler-jk-2007-2017): Transform your ride with our heavy-duty light bar brackets! Full steel construction ensures stability and a sleek appearance for easy installation.
-  Updated: 2026-10-25T05:33:21Z
+- [LED Light Bar, Wrangler 07-17 Pair Kit Set | GENSSI](https://genssi.com/products/led-light-bar-14-hood-bracket-for-jeep-wrangler-jk-2007-2017): Transform your ride with our heavy-duty light bar brackets! Full steel construction ensures stability and a sleek appearance for easy installation.
+  Updated: 2026-11-17T15:25:26Z
   Vendor: GENSSI
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/B18__93106.1690903290.1280.1280.jpg?v=1769033286
   Price: $49.95 USD
-- [LED Fog Lamps for Wrangler JK 2007-2018](https://genssi.com/products/led-fog-lamps-for-wrangler-jk-2007-2017): Upgrade your JK Wrangler with our super bright OEM-fit LED fog lights. Enhance visibility and style while improving road safety with modern D-optics!
-  Updated: 2026-10-25T05:33:24Z
+- [LED Lighting, Wrangler 07-18 Pair Kit Set | GENSSI](https://genssi.com/products/led-fog-lamps-for-wrangler-jk-2007-2017): Upgrade your JK Wrangler with our super bright OEM-fit LED fog lights. Enhance visibility and style while improving road safety with modern D-optics!
+  Updated: 2026-11-17T15:25:26Z
   Vendor: JP FEDERATION
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/2x-4IN-LED-BLK_344__18591.1513359783.1280.1280.jpg?v=1769033406
   Price: $69.95 USD
-- [W5W 194 LED Wedge Interior Exterior Bulbs](https://genssi.com/products/w5w-194-led-wedge-interior-exterior-bulbs): Upgrade your vehicle with GENSSI W5W 194 LED bulbs. Enjoy brilliant white light, longer life, and less power usage. Perfect for all interior needs!
-  Updated: 2026-11-07T02:22:30Z
+- [W5W 194 LED Wedge Interior Exterior Bulbs | GENSSI](https://genssi.com/products/w5w-194-led-wedge-interior-exterior-bulbs): Upgrade your vehicle with GENSSI W5W 194 LED bulbs. Enjoy brilliant white light, longer life, and less power usage. Perfect for all interior needs!
+  Updated: 2026-11-17T15:25:28Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/194-5smd-w_001__00165.1573524244.1280.1280.jpg?v=1769033286
   Price: $9.95 USD
-- [42mm 211-2 578 Festoon LED Bulbs (2 Pack)](https://genssi.com/products/42mm-211-2-578-festoon-led-bulbs-2-pack): Upgrade your vehicle with our 42mm festoon bulbs! Bright cool white LEDs replace various types for interior lights, delivering enhanced visibility and style.
-  Updated: 2026-11-07T02:22:31Z
+- [42mm 211-2 578 Festoon LED Bulbs Pair Kit | GENSSI](https://genssi.com/products/42mm-211-2-578-festoon-led-bulbs-2-pack): LED LED bulb kit for listed vehicles. sold as a pair Confirm options on the product page before install Confirm connector style on the page Check listing.
+  Updated: 2026-11-17T15:25:29Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/42MM-16SMD-W_36__75675.1507147241.1280.1280.jpg?v=1776616396
   Price: $12.95 USD
-- [D2S 85122 66240 Xenon HID Bulb](https://genssi.com/products/d2s-85122-66240-xenon-hid-bulb): Upgrade your lighting with our high-quality D2S HID bulbs, designed for durability and performance. Say goodbye to burnt-out bulbs and hello to clarity!
-  Updated: 2026-10-23T21:49:47Z
+- [HID w/ Bulbs Lights Left Right Set, 07-12 | GENSSI](https://genssi.com/products/d2s-85122-66240-xenon-hid-bulb): Upgrade your lighting with our high-quality D2S HID bulbs, designed for durability and performance. Say goodbye to burnt-out bulbs and hello to clarity!
+  Updated: 2026-11-19T04:33:22Z
   Vendor: AGT
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/D2S-PH-43k-6K-DIAGRAM__07641.1507150386.1280.1280.jpg?v=1766447613
   - [4300K OEM White](https://genssi.com/products/d2s-85122-66240-xenon-hid-bulb?variant=43362026848339)
     Availability: Available
-    Price: $19.95 USD
+    Price: $39.95 USD
   - [5000K White](https://genssi.com/products/d2s-85122-66240-xenon-hid-bulb?variant=43362026881107)
     Availability: Available
-    Price: $19.95 USD
+    Price: $39.95 USD
   - [6000K Cool White](https://genssi.com/products/d2s-85122-66240-xenon-hid-bulb?variant=43362026913875)
     Availability: Available
-    Price: $19.95 USD
-- [D2R 85126 66050 Xenon HID Bulb](https://genssi.com/products/d2r-85126-66050-xenon-hid-bulb): Upgrade your ride with GENSSI HID bulbs! Experience brighter, longer-lasting performance. Replace those dull factory bulbs today and illuminate the road ahead.
-  Updated: 2026-10-25T05:33:27Z
+    Price: $39.95 USD
+- [D2R 85126 66050 Xenon HID Bulb Pair Kit Set | GENSSI](https://genssi.com/products/d2r-85126-66050-xenon-hid-bulb): HID LED bulb kit for listed vehicles. Factory-style replacement as listed. OEM/interchange refs: D2R. Confirm options on the product page before install.
+  Updated: 2026-11-19T04:33:22Z
   Vendor: AGT
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/D2R_04-PH-43k-6K-DIAGRAM__70306.1507223224.1280.1280.jpg?v=1769033466
   - [4300K OEM White](https://genssi.com/products/d2r-85126-66050-xenon-hid-bulb?variant=43362027044947)
     Availability: Available
-    Price: $19.95 USD
+    Price: $39.95 USD
   - [5000K White](https://genssi.com/products/d2r-85126-66050-xenon-hid-bulb?variant=43362027077715)
     Availability: Available
-    Price: $19.95 USD
+    Price: $39.95 USD
   - [6000K Cool White](https://genssi.com/products/d2r-85126-66050-xenon-hid-bulb?variant=43362027110483)
     Availability: Available
-    Price: $19.95 USD
-- [D1S 85415 66144 Xenon HID Bulb](https://genssi.com/products/d1s-85415-66144-xenon-hid-bulb): Upgrade your ride with our high-performance HID bulbs! Replace dimming or color-shifting factory lights for a brighter, safer drive. Fits multiple brands!
-  Updated: 2026-10-25T05:33:26Z
+    Price: $39.95 USD
+- [HID w/ Bulbs Lights Left Right Set, 06-08 | GENSSI](https://genssi.com/products/d1s-85415-66144-xenon-hid-bulb): Upgrade your ride with our high-performance HID bulbs! Replace dimming or color-shifting factory lights for a brighter, safer drive. Fits multiple brands!
+  Updated: 2026-11-19T04:33:22Z
   Vendor: AGT
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/D1S-433K__67218.1507217619.1280.1280.jpg?v=1766447635
   - [4300K OEM White](https://genssi.com/products/d1s-85415-66144-xenon-hid-bulb?variant=43362027241555)
     Availability: Available
-    Price: $24.95 USD
+    Price: $39.95 USD
   - [5000K White](https://genssi.com/products/d1s-85415-66144-xenon-hid-bulb?variant=43362027274323)
     Availability: Available
-    Price: $24.95 USD
+    Price: $39.95 USD
   - [6000K Cool White](https://genssi.com/products/d1s-85415-66144-xenon-hid-bulb?variant=43362027307091)
     Availability: Available
-    Price: $24.95 USD
-- [D1R 85409 66154 Xenon HID Bulb](https://genssi.com/products/d1r-85409-66154-xenon-hid-bulb): Revive your vehicle's lighting with our premium D1R HID bulb! Made in Germany, these direct replacements ensure optimal performance and longevity. Upgrade now!
-  Updated: 2026-10-24T16:41:16Z
+    Price: $39.95 USD
+- [D1R 85409 66154 Xenon HID Bulb Pair Kit Set | GENSSI](https://genssi.com/products/d1r-85409-66154-xenon-hid-bulb): HID LED bulb kit for listed vehicles. Factory-style replacement as listed. OEM/interchange refs: D1R. Confirm options on the product page before install.
+  Updated: 2026-11-19T04:33:21Z
   Vendor: AGT
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/D1S-433K__78121.1507218944.1280.1280.jpg?v=1766447649
   - [4300K OEM White](https://genssi.com/products/d1r-85409-66154-xenon-hid-bulb?variant=43362027405395)
     Availability: Available
-    Price: $24.95 USD
+    Price: $39.95 USD
   - [5000K White](https://genssi.com/products/d1r-85409-66154-xenon-hid-bulb?variant=43362027438163)
     Availability: Available
-    Price: $24.95 USD
+    Price: $39.95 USD
   - [6000K Cool White](https://genssi.com/products/d1r-85409-66154-xenon-hid-bulb?variant=43362027470931)
     Availability: Available
-    Price: $24.95 USD
-- [D4S 42402 66440 Xenon HID Bulb](https://genssi.com/products/d4s-42402-66440-xenon-hid-bulb): Upgrade your ride with our premium HID replacement bulb! Designed for longevity, it ensures optimal performance. Perfect fit for your factory lights!
-  Updated: 2026-10-25T05:33:25Z
+    Price: $39.95 USD
+- [D4S 42402 66440 Xenon HID Bulb Pair Kit Set | GENSSI](https://genssi.com/products/d4s-42402-66440-xenon-hid-bulb): Upgrade your ride with our premium HID replacement bulb! Designed for longevity, it ensures optimal performance. Perfect fit for your factory lights!
+  Updated: 2026-11-19T04:33:21Z
   Vendor: AGT
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/D2S-PH-43k-6K-DIAGRAM__83819.1507220718.1280.1280.jpg?v=1766447661
   - [4300K OEM White](https://genssi.com/products/d4s-42402-66440-xenon-hid-bulb?variant=43362027602003)
     Availability: Available
-    Price: $24.95 USD
+    Price: $39.95 USD
   - [5000K White](https://genssi.com/products/d4s-42402-66440-xenon-hid-bulb?variant=43362027634771)
     Availability: Available
-    Price: $24.95 USD
+    Price: $39.95 USD
   - [6000K Cool White](https://genssi.com/products/d4s-42402-66440-xenon-hid-bulb?variant=43362027667539)
     Availability: Available
-    Price: $24.95 USD
-- [D4R 42406 66450 Xenon HID Bulb](https://genssi.com/products/d4r-42406-66450-xenon-hid-bulb): Upgrade your ride with our premium D4R HID bulb! Lasting up to 3000 hours, it's the perfect direct replacement for superior performance. Made in Germany!
-  Updated: 2026-10-24T16:41:17Z
+    Price: $39.95 USD
+- [D4R 42406 66450 Xenon HID Bulb Pair Kit Set | GENSSI](https://genssi.com/products/d4r-42406-66450-xenon-hid-bulb): Upgrade your ride with our premium D4R HID bulb! Lasting up to 3000 hours, it's the perfect direct replacement for superior performance. Made in Germany!
+  Updated: 2026-11-19T16:38:14Z
   Vendor: AGT
   Product Type: Lighting
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/D4R_5000k__06__95752.1507223259.1280.1280.jpg?v=1769033647
+  Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/D4R_5000k__01__90127.1507221421.1280.1280.jpg?v=1769033648
   - [4300K OEM White](https://genssi.com/products/d4r-42406-66450-xenon-hid-bulb?variant=43362027765843)
     Availability: Available
-    Price: $24.95 USD
+    Price: $39.95 USD
   - [5000K White](https://genssi.com/products/d4r-42406-66450-xenon-hid-bulb?variant=43362027798611)
     Availability: Available
-    Price: $24.95 USD
+    Price: $39.95 USD
   - [6000K Cool White](https://genssi.com/products/d4r-42406-66450-xenon-hid-bulb?variant=43362027831379)
     Availability: Available
-    Price: $24.95 USD
-- [D3S 66340 42302 Xenon HID Bulb](https://genssi.com/products/d3s-66340-42302-xenon-hid-bulb): Revitalize your ride with our D1S HID bulbs! Long-lasting, top-quality replacements designed for factory HID vehicles. Upgrade now for brilliant illumination!
-  Updated: 2026-10-23T21:49:48Z
+    Price: $39.95 USD
+- [D3S 66340 42302 Xenon HID Bulb Pair Kit Set | GENSSI](https://genssi.com/products/d3s-66340-42302-xenon-hid-bulb): HID LED bulb kit for listed vehicles. Factory-style replacement as listed. OEM/interchange refs: D3S. Confirm options on the product page before install.
+  Updated: 2026-11-19T04:33:21Z
   Vendor: AGT
   Product Type: Lighting
   Availability: Available
@@ -1160,43 +1160,43 @@
   - [4300K](https://genssi.com/products/d3s-66340-42302-xenon-hid-bulb?variant=43362027962451)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/D1S-433K__21474.1507222285.500.750.jpg?v=1769033225
-    Price: $29.95 USD
+    Price: $39.95 USD
   - [5000K](https://genssi.com/products/d3s-66340-42302-xenon-hid-bulb?variant=43569499701331)
     Availability: Available
-    Price: $29.95 USD
+    Price: $39.95 USD
   - [6000K](https://genssi.com/products/d3s-66340-42302-xenon-hid-bulb?variant=43569499734099)
     Availability: Available
-    Price: $29.95 USD
-- [194 168 W5W T10 LED Bulbs 50W Projector (2 Pack)](https://genssi.com/products/194-168-w5w-t10-led-bulbs-50w-projector-2-pack): Illuminate your ride with GENSSI's ultra-bright LED wedge bulbs! Experience 360° coverage and up to 800 lumens. Upgrade now for unparalleled brightness!
-  Updated: 2026-11-07T02:22:31Z
+    Price: $39.95 USD
+- [194 168 W5W T10 LED Bulbs 50W Pair Kit Set | GENSSI](https://genssi.com/products/194-168-w5w-t10-led-bulbs-50w-projector-2-pack): Illuminate your ride with GENSSI's ultra-bright LED wedge bulbs! Experience 360° coverage and up to 800 lumens. Upgrade now for unparalleled brightness!
+  Updated: 2026-11-17T15:25:37Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/T10-50W-W_55__74722.1507227439.1280.1280.jpg?v=1769033226
   Price: $14.95 USD
-- [7 Inch Reflector Glass Sealed-Beam Headlights Set](https://genssi.com/products/7-inch-reflector-glass-sealed-beam-headlights-set): Upgrade your vehicle's lighting with our high-quality 7-inch round glass headlights. Durable, customizable with H4 bulbs for enhanced brightness and style!
-  Updated: 2026-10-29T18:26:39Z
+- [7 Inch Reflector Glass Sealed-Beam Headlights | GENSSI](https://genssi.com/products/7-inch-reflector-glass-sealed-beam-headlights-set): Upgrade your vehicle's lighting with our high-quality 7-inch round glass headlights. Durable, customizable with H4 bulbs for enhanced brightness and style!
+  Updated: 2026-11-17T15:25:41Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/HL-102-H4-WOB_33__80788.1507229180.1280.1280.jpg?v=1769033227
   Price: $39.95 USD
-- [7 Inch Reflector Glass Sealed-Beam Motorcycle Headlights Set](https://genssi.com/products/7-inch-reflector-glass-sealed-beam-motorcycle-headlights-set): Upgrade your motorcycle with our high-quality 7 inch round glass headlight! Enjoy enhanced visibility and the option for HID/LED bulbs. Shop now!
-  Updated: 2026-10-29T18:26:41Z
+- [7 Inch Reflector Glass Sealed-Beam Motorcycle | GENSSI](https://genssi.com/products/7-inch-reflector-glass-sealed-beam-motorcycle-headlights-set): Upgrade your motorcycle with our high-quality 7 inch round glass headlight! Enjoy enhanced visibility and the option for HID/LED bulbs. Shop now!
+  Updated: 2026-11-17T15:25:41Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/P1010637__25007.1507229659.1280.1280.jpg?v=1769033226
   Price: $49.95 USD
-- [Stubby Rock Crawler Front Bumper with LED Fog Lamps for Wrangler JK 2007-2017](https://genssi.com/products/stubby-rock-crawler-front-bumper-with-led-fog-lamps-for-wrangler-jk-2007-2017): Transform your Jeep Wrangler JK with the GENSSI Flat Front Bumper. Rugged.
-  Updated: 2026-10-25T05:33:27Z
+- [Stubby Rock Crawler Front Bumper, Wrangler 07-17 | GENSSI](https://genssi.com/products/stubby-rock-crawler-front-bumper-with-led-fog-lamps-for-wrangler-jk-2007-2017): LED fog light for Wrangler JK 07-17. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:25:43Z
   Vendor: GENSSI
   Product Type: Bumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/BUMPER-FN22__72163.1507302410.1280.1280.jpg?v=1769033526
   Price: $324.95 USD
-- [8mm Round LED Lights with 55cm Wire 12V (10 Pack)](https://genssi.com/products/8mm-round-led-lights-with-55cm-wire-12v-10-pack): Illuminate your projects with our super bright 8mm LED lights. Perfect for vehicles, costumes, and hobbies! Enjoy vibrant colors and minimal power usage.
-  Updated: 2026-10-25T05:33:33Z
+- [8mm Round LED Lights with 55cm Pair Kit Set | GENSSI](https://genssi.com/products/8mm-round-led-lights-with-55cm-wire-12v-10-pack): Illuminate your projects with our super bright 8mm LED lights. Perfect for vehicles, costumes, and hobbies! Enjoy vibrant colors and minimal power usage.
+  Updated: 2026-11-17T15:25:43Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1243,78 +1243,78 @@
   - [Dark Purple / 12V Battery Holder](https://genssi.com/products/8mm-round-led-lights-with-55cm-wire-12v-10-pack?variant=43362031108179)
     Availability: Not Available
     Price: $6.95 USD
-- [9V Battery Holder](https://genssi.com/products/9v-battery-holder): Power your LED lights with our standard 9V battery holder! Compact and durable ABS design. (Battery not included). Perfect for all your lighting needs!
-  Updated: 2026-10-25T05:33:29Z
+- [9V Battery Holder Electrical ```html Power | GENSSI](https://genssi.com/products/9v-battery-holder): Power your LED lights with our standard 9V battery holder! Compact and durable ABS design. (Battery not included). Perfect for all your lighting needs!
+  Updated: 2026-11-17T15:25:48Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/9V-BTRY-HLDR__91644.1507322206.1280.1280.jpg?v=1769033526
   Price: $8.95 USD
-- [12V Battery Holder](https://genssi.com/products/12v-battery-holder): Power your LED projects effortlessly with our 12V battery holder! Fits 8 AA batteries, features a handy on/off switch, and a secure cover for easy access.
-  Updated: 2026-10-23T21:49:51Z
+- [12V Battery Holder Electrical This will allow | GENSSI](https://genssi.com/products/12v-battery-holder): Power your LED projects effortlessly with our 12V battery holder! Fits 8 AA batteries, features a handy on/off switch, and a secure cover for easy access.
+  Updated: 2026-11-17T15:25:46Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/12V-BTRY-HLDR_3__75860.1507322430.1280.1280.jpg?v=1769033586
   Price: $9.95 USD
-- [H6M 70023  100W LED Headlight Bulbs (2 Pack)](https://genssi.com/products/h6m-70023-100w-led-headlight-bulbs-2-pack): Enhance your ride with our powerful ATV & scooter LED bulbs. With 1100 lumens and a durable design, enjoy brighter light for longer! Shop GENSSI.com now.
-  Updated: 2026-10-25T05:33:31Z
+- [LED w/ Bulbs Headlight Set 100W 1988-2009 | GENSSI](https://genssi.com/products/h6m-70023-100w-led-headlight-bulbs-2-pack): Enhance your ride with our powerful ATV & scooter LED bulbs. With 1100 lumens and a durable design, enjoy brighter light for longer! Shop GENSSI.com now.
+  Updated: 2026-11-17T15:25:46Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/H6M-100W_22__34321.1507563377.1280.1280.jpg?v=1769033228
   Price: $39.95 USD
-- [LED Strip RGB Controller IR 24 Key Thin Remote](https://genssi.com/products/led-strip-rgb-controller-ir-24-key-thin-remote): Transform your LED lighting experience with our compact 24-Key IR Remote Controller. Effortlessly adjust colors and brightness for the perfect ambiance!
-  Updated: 2026-10-23T21:49:51Z
+- [LED Strip RGB Controller IR 24 Pair Kit Set | GENSSI](https://genssi.com/products/led-strip-rgb-controller-ir-24-key-thin-remote): Transform your LED lighting experience with our compact 24-Key IR Remote Controller. Effortlessly adjust colors and brightness for the perfect ambiance!
+  Updated: 2026-11-17T15:25:47Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/5050-RGB-CNTL__59842.1507573504.1280.1280.jpg?v=1769033765
   Price: $17.95 USD
-- [PY24W 5200s 100W LED Turn Signal Park Lamp Bulbs (2 Pack)](https://genssi.com/products/py24w-5200s-100w-led-turn-signal-park-lamp-bulbs-2-pack): Upgrade your ride with GENSSI's PY24W LED bulbs! Experience brilliant 1100 lumens, long-lasting durability, and low power draw. Illuminate the road ahead!
-  Updated: 2026-10-25T05:33:37Z
+- [PY24W 5200s 100W LED Turn Signal, 08-12 Pair | GENSSI](https://genssi.com/products/py24w-5200s-100w-led-turn-signal-park-lamp-bulbs-2-pack): Upgrade your ride with GENSSI's PY24W LED bulbs! Experience brilliant 1100 lumens, long-lasting durability, and low power draw. Illuminate the road ahead!
+  Updated: 2026-11-17T15:25:48Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/PY24W-100W-W_33__33128.1507601183.1280.1280.jpg?v=1769033586
   Price: $39.95 USD
-- [9012 HIR2 LED Replacement Headlight Lamp Bulbs (2 Pack)](https://genssi.com/products/9012-hir2-led-replacement-headlight-lamp-bulbs-2-pack): Upgrade your ride with GENSSI's 9012 / HIR2 LED bulbs! Enjoy up to 1100 lumens of 6000K cool white light and 10x longer life. Experience brilliance on the road!
-  Updated: 2026-11-07T02:22:31Z
+- [LED w/ Bulbs Plug-and-Play Replacement Headlights | GENSSI](https://genssi.com/products/9012-hir2-led-replacement-headlight-lamp-bulbs-2-pack): LED LED bulb kit for listed vehicles. sold as a pair OEM/interchange refs: HIR2. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:25:50Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/box2__83778.1623100440.1280.1280.jpg?v=1769033467
   Price: $39.95 USD
-- [PSX26W 12278 H28W 100W LED Fog Lamp Bulbs (2 Pack)](https://genssi.com/products/psx26w-12278-h28w-100w-led-fog-lamp-bulbs-2-pack): Upgrade your ride with GENSSI's PSX26W LED fog lamps! Experience 1100 lumens of cool white light and a long-lasting aluminum design for unbeatable performance.
-  Updated: 2026-10-25T05:33:37Z
+- [PSX26W 12278 H28W 100W LED Fog Lamp Bulbs | GENSSI](https://genssi.com/products/psx26w-12278-h28w-100w-led-fog-lamp-bulbs-2-pack): LED fog light for listed vehicles. sold as a pair Confirm options on the product page before install Confirm connector style on the page Check listing.
+  Updated: 2026-11-17T15:25:50Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/2xPSX26W-100W-W_02__17383.1507657337.1280.1280.jpg?v=1769033527
   Price: $39.95 USD
-- [9005 HB3 100W LED Headlight DRL Lamp Bulbs (2 Pack)](https://genssi.com/products/9005-hb3-100w-led-headlight-drl-lamp-bulbs-2-pack): Experience bright, durable lighting with our 9005/HB3 LED bulbs. Enjoy 1100 lumens of cool white light for up to 10x longer. Illuminate your drive today!
-  Updated: 2026-11-07T02:22:30Z
+- [LED w/ LED DRL w/ Bulbs Headlight Set 100W | GENSSI](https://genssi.com/products/9005-hb3-100w-led-headlight-drl-lamp-bulbs-2-pack): Experience bright, durable lighting with our 9005/HB3 LED bulbs. Enjoy 1100 lumens of cool white light for up to 10x longer. Illuminate your drive today!
+  Updated: 2026-11-17T15:25:51Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/100W-CHIPS__05310.1507657706.1280.1280.jpg?v=1769033466
   Price: $39.95 USD
-- [80W LED For Kawasaki ATV 92069-0019 Headlight Bulbs (2 Pack)](https://genssi.com/products/80w-led-for-kawasaki-atv-92069-0019-headlight-bulbs-2-pack): Upgrade your Kawasaki ATV or UTV with our powerful LED headlamps! Enjoy 900 lumens, 360° coverage, and a long-lasting, durable design for optimal performance.
-  Updated: 2026-11-09T12:53:57Z
+- [80W LED For Kawasaki ATV 92069-0019 Pair Kit | GENSSI](https://genssi.com/products/80w-led-for-kawasaki-atv-92069-0019-headlight-bulbs-2-pack): LED LED bulb kit for listed vehicles. sold as a pair Confirm options on the product page before install Confirm connector style on the page Check listing.
+  Updated: 2026-11-19T02:02:25Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/A-800W-W_Main__74728.1579981303.1280.1280.jpg?v=1769033466
   Price: $49.95 USD
-- [80W LED bulbs Compatible With Polaris OEM ATV 27W Low Beam Headlight Bulb 4030059 Modify (Pack of 2)](https://genssi.com/products/80w-led-for-polaris-4030059-headlight-bulbs-2-pack): Revamp your ride with high-quality auto parts and vibrant LED lighting at GENSSI.com. Experience performance and style like never before!
-  Updated: 2026-11-14T00:54:16Z
+- [LED w/ Bulbs Lamp Pair, Polaris 1997-2010 | GENSSI](https://genssi.com/products/80w-led-for-polaris-4030059-headlight-bulbs-2-pack): LED LED bulb kit for listed vehicles. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-21T20:55:53Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/B-80W-W_1333.jpg?v=1769033286
   Price: $49.95 USD
-- [LED Tube Strip 50cm Aluminum Waterproof (2 Pack)](https://genssi.com/products/led-tube-strip-50cm-aluminum-waterproof-2-pack): Elevate your lighting with our compact 5630 SMD LED Strips. Durable, waterproof, and efficient, perfect for long-lasting performance in any space.
-  Updated: 2026-10-25T05:33:39Z
+- [LED Tube Strip 50cm Aluminum Waterproof Pair | GENSSI](https://genssi.com/products/led-tube-strip-50cm-aluminum-waterproof-2-pack): Elevate your lighting with our compact 5630 SMD LED Strips. Durable, waterproof, and efficient, perfect for long-lasting performance in any space.
+  Updated: 2026-11-17T15:25:56Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1325,57 +1325,57 @@
   - [Cool White / 12V 24W Compact LED Power Supply with DC Plug](https://genssi.com/products/led-tube-strip-50cm-aluminum-waterproof-2-pack?variant=43362040512595)
     Availability: Available
     Price: $19.95 USD
-- [3056 3157 LED Bulb with Backup Reverse Light Flasher Flashing Pattern (2 Pack)](https://genssi.com/products/3056-3157-led-bulb-with-backup-reverse-light-flasher-flashing-pattern-2-pack): Upgrade your vehicle with our 3156 LED Backup Bulbs! Enjoy bright white output and reliable performance, perfect for park and reverse lights. Pack of 2!
-  Updated: 2026-10-25T05:33:40Z
+- [3056 3157 LED Bulb with Backup Pair Kit Set | GENSSI](https://genssi.com/products/3056-3157-led-bulb-with-backup-reverse-light-flasher-flashing-pattern-2-pack): Upgrade your vehicle with our 3156 LED Backup Bulbs! Enjoy bright white output and reliable performance, perfect for park and reverse lights. Pack of 2!
+  Updated: 2026-11-17T15:25:56Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/3156-FLASH-W_Az__88412.1512414755.1280.1280.jpg?v=1769033346
   Price: $19.95 USD
-- [LED Smoked Turn Signals for Wrangler 2007-2018](https://genssi.com/products/led-smoked-turn-signals-for-wrangler-2007-2017): Upgrade your ride with our smoked tint front turn signal LED lights for 2007-2017 Wrangler JK/JKU. Enjoy intense brightness, durability, and seamless OEM fit!
-  Updated: 2026-10-26T19:53:41Z
+- [LED Smoked Turn Signals for, Wrangler 07-18 | GENSSI](https://genssi.com/products/led-smoked-turn-signals-for-wrangler-2007-2017): LED headlight for listed vehicles 07-18. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:25:57Z
   Vendor: JP FEDERATION
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/MAIN_JK-BLINKER-BLK__58287.1513015560.1280.1280.jpg?v=1769033286
   Price: $44.95 USD
-- [6 LED Strip Wireless Accent Kit](https://genssi.com/products/6-led-strip-wireless-accent-kit): Transform your vehicle's look with our RGB LED Strip Kit! Control colors and flash patterns effortlessly with a wireless remote. Customize your ride today!
-  Updated: 2026-10-25T05:33:42Z
+- [6 LED Strip Wireless Accent Kit Lighting Illuminate | GENSSI](https://genssi.com/products/6-led-strip-wireless-accent-kit): Transform your vehicle's look with our RGB LED Strip Kit! Control colors and flash patterns effortlessly with a wireless remote. Customize your ride today!
+  Updated: 2026-11-17T15:25:58Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/MainAmazon__61949.1517935140.1280.1280.jpg?v=1769033226
   Price: $24.95 USD
-- [7" HALO Chasing RGB LED Headlights & Fog Lights, Wrangler JK 2007-2017](https://genssi.com/products/7-inch-halo-chasing-rgb-color-projector-led-headlights-fog-lights-kit-for-wrangler-jk-2007-2017): Light Up Your Ride with Customizable RGB Halo Headlights & Fog Lights for Your Jeep Wrangler JK Transform your Jeep Wrangler JK into a head-turning masterpiece with GENSSI’s advanced 7-inch RGB Halo Headlights and Fog Lights Kit. Control millions of colors and dynamic lighting effects right from your smartphone, making every drive, cruise, or show an unforgettable experience. Say goodbye to boring stock lighting and hello to a personalized, high-performance lighting solution that matches your style and enhances your visibility. Why You Need This Unleash Your Creativity: With smartphone Bluetooth control, choose from 16 million colors and 123 different modes, including dynamic "chasing" effects and music synchronization, to create a truly unique light show. Superior Visibility: Experience a brighter, clearer view of the road with powerful LED low beams (45W) and high beams (60W), producing a crisp 6000-6500K cool white light for improved night driving. Built to Last: Engineered with Optimized Heatsink Design Technology and boasting a 30,000-hour lifespan, these LEDs are significantly more durable and longer-lasting than traditional halogen bulbs, perfect for rugged adventures. Effortless Installation: Designed as a direct plug-and-play replacement for your factory sealed beam headlights using H4 or H13 adapters (wiring required for DRL Halo Ring), making installation simple for any DIY enthusiast. Technical Specifications Part Numbers 7 Inch HALO Chasing RGB Color Projector LED Headlights & Fog Lights Kit Fitment Jeep Wrangler JK 2007-2017 (All Models) Specs Headlight Size: 7 Inch Headlight Type: Projector LED Halo Type: RGB Color Chasing Control: Smartphone Bluetooth App (ColorfulLight) Features: Music Color Change, 123 Modes, DRL Halo Ring (Wiring Required) Low Beam Power: 45W High Beam Power: 60W Lumens (High Beam): Up to 4000Lm Lumens (Low Beam): Up to 3000Lm Color Temperature: 6000-6500K (Cool White) Lifespan: 30,000 Hours Certifications: CE, ROHS Error Free: CANBus Ready Connection: H4 (H13 Adapter Included/Optional) The GENSSI Promise: We are committed to providing high-quality automotive lighting solutions that enhance your driving experience. If you have any questions or need assistance with installation, our dedicated support team is here to help you every step of the way. Installation Park on level ground, turn the engine off, and disconnect the negative battery cable. Remove the parts being replaced (grille, headlights, fog lights, or tail lights) following the factory layout for your Jeep. Unplug each old light from the harness and plug in the new one, using any included adapters. Test every light (high/low, DRL, turn, fog, brake/tail as applicable) before final mounting. Mount the new parts with the factory or supplied hardware and reinstall trim. Reconnect the battery and aim the headlights before night driving. Some vehicles may need anti-flicker or CANbus decoders. Professional installation is recommended if you are unsure.
-  Updated: 2026-11-07T02:22:31Z
+- [7 Inch HALO Chasing RGB Color, Wrangler JK 07-17 | GENSSI](https://genssi.com/products/7-inch-halo-chasing-rgb-color-projector-led-headlights-fog-lights-kit-for-wrangler-jk-2007-2017): LED fog light for Wrangler JK 07-17. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:26:00Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/2X7RGBLEDCOMPARATIVE__98863.1517982097.1280.1280.jpg?v=1769033406
   Price: $379.95 USD
-- [5 Pin Automotive 30A/40A Relay 12V (Pack of 5)](https://genssi.com/products/5-pin-automotive-30a-40a-relay-12v-pack-of-5): Upgrade your vehicle with our universal 5PIN automotive relay set. Perfect for HID lighting, alarms, and more! Reliable, heavy-duty performance in every pack.
-  Updated: 2026-10-23T21:49:52Z
+- [5 Pin Automotive 30A/40A Relay 12V Pair Kit | GENSSI](https://genssi.com/products/5-pin-automotive-30a-40a-relay-12v-pack-of-5): replacement headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on.
+  Updated: 2026-11-17T15:26:01Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/5x-5x-40AMP__92353.1641327994.1280.1280.jpg?v=1769033766
   Price: $19.95 USD
-- [LED Sidemarker Smoked Lens Lights for Jeep Wrangler JK 2007-2017](https://genssi.com/products/led-sidemarker-smoked-lens-lights-for-jeep-wrangler-jk-2007-2017): Enhance your Jeep Wrangler JK/JKU with our bright amber LED side marker lights! Easy plug-and-play installation with waterproof, high-quality performance.
-  Updated: 2026-10-25T05:33:43Z
+- [Smoked LED Lighting, Wrangler 07-17 Pair Kit | GENSSI](https://genssi.com/products/led-sidemarker-smoked-lens-lights-for-jeep-wrangler-jk-2007-2017): Enhance your Jeep Wrangler JK/JKU with our bright amber LED side marker lights! Easy plug-and-play installation with waterproof, high-quality performance.
+  Updated: 2026-11-17T15:26:01Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JK-FN-BL-SMKD_01__83532.1520872588.1280.1280.jpg?v=1766448249
   Price: $24.95 USD
-- [3D Hologram Smoked LED Tail Lights for Wrangler JK 2007-2018](https://genssi.com/products/3d-hologram-smoked-led-tail-lights-for-wrangler-jk-2007-2017): Upgrade your Jeep JK with our stylish 3D Hologram Smoked LED Taillight Assemblies. Enhance safety & longevity with brighter, faster lighting today!
-  Updated: 2026-10-29T18:26:43Z
+- [Smoked LED Tail Lights, Wrangler 2007-2018 | GENSSI](https://genssi.com/products/3d-hologram-smoked-led-tail-lights-for-wrangler-jk-2007-2017): Upgrade your Jeep JK with our stylish 3D Hologram Smoked LED Taillight Assemblies. Enhance safety & longevity with brighter, faster lighting today!
+  Updated: 2026-11-17T15:26:03Z
   Vendor: JP FEDERATION
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JK-3D-TAILLIGHT_main__01883.1520294212.1280.1280.jpg?v=1766513980
   Price: $149.95 USD
-- [Xtreme LED Rock Lights 4 Piece Set](https://genssi.com/products/xtreme-led-rock-lights-4-piece-set): Illuminate your Jeep with our vibrant LED Rock Lights! Bright, durable, and expandable for endless customization. Perfect for fenders or interiors!
-  Updated: 2026-11-13T01:34:18Z
+- [Xtreme LED Rock Lights 4 Piece Set Pair Kit | GENSSI](https://genssi.com/products/xtreme-led-rock-lights-4-piece-set): Illuminate your Jeep with our vibrant LED Rock Lights! Bright, durable, and expandable for endless customization. Perfect for fenders or interiors!
+  Updated: 2026-11-17T15:26:04Z
   Vendor: JP FEDERATION
   Product Type: Lighting
   Availability: Available
@@ -1403,57 +1403,57 @@
   - [Amber](https://genssi.com/products/xtreme-led-rock-lights-4-piece-set?variant=43362044051539)
     Availability: Not Available
     Price: $34.95 USD
-- [Forklift Towing Receiver Hitch Adapter Attachment](https://genssi.com/products/forklift-towing-receiver-trailer-fork-lift-hitch-chain-adapter-attachment): Turn your forklift into a precision towing machine. This USA-made hitch adapter handles trailers, campers, and boats up to 3000+ lbs with the maneuverability your workspace demands. Your Forklift Just Got a New Job Tight warehouse corners. Limited turning radius. Sound familiar? When you need to move hitched equipment around your facility but don't have the space for a truck, this forklift hitch adapter solves a problem most people don't realize they have until they need it. Built in California by skilled welders who understand industrial equipment, this adapter brings professional-grade towing capability to your existing forklift. No need to fire up a truck or reposition vehicles—just slide it onto your forks and you're ready to reposition trailers, boats, or campers exactly where they need to go. Key Features at a Glance Robot-Welded Steel Construction: Precision manufacturing ensures consistent strength across every weld point for reliable 3000+ lb capacity Universal Fork Compatibility: Fits standard forks up to 5.5" wide and 1.7" thick—measure 15" back from fork tips to verify fitment Included Safety Chain: Comes complete with 5 feet of safety chain and 1/4" grab hook for secure towing peace of mind Compact Maneuverability: 16"x6"x5" dimensions let you navigate tight spaces that would be impossible with a full-size vehicle How It Works Installation is straightforward: slide the adapter onto your forklift forks, ensuring proper positioning 15" from the fork tips. Add your own receiver hitch and ball (sold separately), attach your trailer or equipment, and secure the safety chain. The low-profile design maintains visibility while giving you the precision control only a forklift can provide. Built for California Workshops, Built for Anywhere Heavy-duty steel construction withstands the demands of daily industrial use. The robot-welded frame eliminates weak points common in hand-welded alternatives, while the powder-coated finish resists rust in humid or coastal environments. What You Get USA-made forklift hitch adapter 5 feet of safety chain with 1/4" grab hook 3000+ lb towing capacity Note: Receiver hitch and ball sold separately. Verify your forklift's rated capacity before towing.
-  Updated: 2026-10-29T18:26:44Z
+- [Forklift Towing Receiver Trailer Fork lift Hitch | GENSSI](https://genssi.com/products/forklift-towing-receiver-trailer-fork-lift-hitch-chain-adapter-attachment): replacement headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on.
+  Updated: 2026-11-17T15:26:06Z
   Vendor: GENSSI
   Product Type: Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/1C__79815.1634403215.1280.1280.jpg?v=1772851804
   Price: $169.95 USD
-- [Running Boards Side Steps Rail Steps Rock Sliders 2007-2018 Jeep Wrangler 4dr](https://genssi.com/products/running-boards-side-steps-rail-steps-rock-sliders-2007-2018-jeep-wrangler-4dr): Enhance your JKU's rugged look and protect against off-road hazards with our heavy-duty, rust-proof steel. Easy installation with original body mount bolts!
-  Updated: 2026-10-24T16:41:56Z
+- [Exterior Part, Wrangler 07-18 Pair Kit Set | GENSSI](https://genssi.com/products/running-boards-side-steps-rail-steps-rock-sliders-2007-2018-jeep-wrangler-4dr): replacement LED light for listed applications 07-18. Factory-style replacement as listed. Confirm options on the product page before install Review.
+  Updated: 2026-11-17T15:26:07Z
   Vendor: JP FEDERATION
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JK-NRF-4DR_07__64550.1522099978.1280.1280.jpg?v=1769033287
   Price: $299.95 USD
-- [Front Transformer Nineteen Bumper w/Bull Bar for Wrangler 2007-2018](https://genssi.com/products/front-transformer-nineteen-bumper-w-bull-bar-for-wrangler-2007-2018): Replace your flimsy factory bumper with 3/16" steel armor—winch-ready, fog lamp compatible, and engineered to handle recovery pulls without breaking a sweat.
-  Updated: 2026-10-24T16:41:26Z
+- [Front Transformer Nineteen Bumper, Wrangler 07-18 | GENSSI](https://genssi.com/products/front-transformer-nineteen-bumper-w-bull-bar-for-wrangler-2007-2018): replacement headlight for listed applications 07-18. Factory-style replacement as listed. Confirm options on the product page before install Review.
+  Updated: 2026-11-17T15:26:09Z
   Vendor: JP FEDERATION
   Product Type: Bumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JF1603-19_04__47675.1522169127.1280.1280.jpg?v=1766514767
   Price: $449.95 USD
-- [Front Transformer Seven Bumper w/Bull Bar for Wrangler 2007-2018](https://genssi.com/products/front-transformer-seven-bumper-w-bull-bar-for-wrangler-2007-2018): Upgrade your 2007-2018 Wrangler JK/JKU with our JF Transformer Series bumpers. Built for strength, style, and easy installation. Enhance your ride today!
-  Updated: 2026-10-25T05:33:46Z
+- [Front Transformer Seven Bumper, Wrangler 07-18 | GENSSI](https://genssi.com/products/front-transformer-seven-bumper-w-bull-bar-for-wrangler-2007-2018): Upgrade your 2007-2018 Wrangler JK/JKU with our JF Transformer Series bumpers. Built for strength, style, and easy installation. Enhance your ride today!
+  Updated: 2026-11-17T15:26:11Z
   Vendor: JP FEDERATION
   Product Type: Bumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JF1603-7_01__04728.1522166285.1280.1280.jpg?v=1769033226
   Price: $449.95 USD
-- [Front Transformer Seventeen Bumper w/Bull Bar for Wrangler 2007-2018](https://genssi.com/products/front-transformer-seventeen-bumper-w-bull-bar-for-wrangler-2007-2018): Upgrade your Wrangler JK/JKU with our JF Transformer Series bumper! Durable, stylish, and easy to install—light up the road ahead with pre-installed fog lamps.
-  Updated: 2026-10-25T05:33:47Z
+- [Front Transformer Seventeen Bumper, Wrangler 07-18 | GENSSI](https://genssi.com/products/front-transformer-seventeen-bumper-w-bull-bar-for-wrangler-2007-2018): replacement headlight for listed applications 07-18. Factory-style replacement as listed. Confirm options on the product page before install Review.
+  Updated: 2026-11-17T15:26:13Z
   Vendor: JP FEDERATION
   Product Type: Bumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JF-1603-17_02__17422.1522169425.1280.1280.jpg?v=1769033407
   Price: $449.95 USD
-- [Front Transformer Thirteen Bumper for Jeep Wrangler 2007-2018](https://genssi.com/products/front-transformer-thirteen-bumper-wrangler-2007-2018): Transform your JK Wrangler's rear end with this heavy-duty steel bumper—engineered to handle 5,000 lbs of towing capacity, dual recovery points.
-  Updated: 2026-10-26T19:53:42Z
+- [Front Transformer Thirteen Bumper, Wrangler 07-18 | GENSSI](https://genssi.com/products/front-transformer-thirteen-bumper-wrangler-2007-2018): replacement headlight for listed applications 07-18. Factory-style replacement as listed. Confirm options on the product page before install Review.
+  Updated: 2026-11-17T15:26:13Z
   Vendor: JP FEDERATION
   Product Type: Bumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JF1603-13_011__34124.1522168475.1280.1280.jpg?v=1766514788
   Price: $449.95 USD
-- [BA20D H6 100W LED Headlight Bulbs (2 Pack)](https://genssi.com/products/ba20d-h6-100w-led-headlight-bulbs-2-pack): Upgrade your ride with our BA20D LED bulbs! Enjoy up to 1100 lumens of cool white light, durable design, and low power draw for longer-lasting performance.
-  Updated: 2026-10-25T05:33:49Z
+- [BA20D H6 100W LED Headlight Bulbs Pair Kit | GENSSI](https://genssi.com/products/ba20d-h6-100w-led-headlight-bulbs-2-pack): Upgrade your ride with our BA20D LED bulbs! Enjoy up to 1100 lumens of cool white light, durable design, and low power draw for longer-lasting performance.
+  Updated: 2026-11-17T15:26:14Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/H6M-100W_22__90799.1528227747.1280.1280.jpg?v=1769033348
   Price: $39.95 USD
-- [LED Canceller Capacitor Modules CANBUS for 1156 H11 H9 H8 H11 H13 H16 9005/9006 9008](https://genssi.com/products/led-canceller-capacitor-modules-canbus-for-1156-h11-h9-h8-h11-h13-h16-9005-9006-9008): Enhance your vehicle's LED setup with our premium connectors! Say goodbye to flashing issues and error codes. Reliable, water-resistant, and sold in pairs!
-  Updated: 2026-11-07T02:22:30Z
+- [LED Canceller Capacitor Modules CANBUS for | GENSSI](https://genssi.com/products/led-canceller-capacitor-modules-canbus-for-1156-h11-h9-h8-h11-h13-h16-9005-9006-9008): Enhance your vehicle's LED setup with our premium connectors! Say goodbye to flashing issues and error codes. Reliable, water-resistant, and sold in pairs!
+  Updated: 2026-11-17T15:26:16Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
@@ -1466,29 +1466,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/76215_source_1528308211.jpg?v=1766448487
     Price: $29.99 USD
-- [High Power LED Fog Light Bulbs for 2010-2021 Jeep Wrangler JK / JL](https://genssi.com/products/high-power-led-fog-light-bulbs-for-2010-2021-jeep-wrangler-jk-jl): Upgrade your Jeep Wrangler with our high-power LED fog lamp bulbs! Experience brighter, longer-lasting light with over 900 lumens and 50,000-hour lifetime.
-  Updated: 2026-11-11T13:02:11Z
-  Vendor: GENSSI
-  Product Type: Lighting
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/01__98628.1531096595.1280.1280.jpg?v=1769033585
-  Price: $29.95 USD
-- [LED Light Bar Combo Kit, AUX Lights & Wiring, Wrangler JK 2007-2018](https://genssi.com/products/led-light-bar-combo-kit-with-aux-lights-bracket-wiring-harness-kit-for-wrangler-jk-2007-2018): Unleash the Night: Conquer Any Trail with GENSSI's Ultimate JK Light Bar Kit Imagine cruising through the wilderness long after the sun has set, your path illuminated with unparalleled clarity. With the GENSSI LED Light Bar Combo Kit, you’re not just upgrading your Jeep Wrangler JK’s lighting; you’re transforming your adventures. Experience the freedom of exploration, day or night, with enhanced visibility and a rugged, sleek aesthetic that commands attention. Why You Need This Unrivaled Illumination: A powerful dual-row light bar combined with auxiliary pods cuts through darkness, revealing every detail of the terrain ahead and to the sides. Zero-Hassle Installation: Designed to utilize your Jeep’s existing mounting points, this kit installs without drilling, saving you time and effort. Built to Endure: Triple powder-coated, rust-proof, and engineered for silent operation, this kit is as tough as your Wrangler and  not to whistle or vibrate. Complete Confidence: Includes everything you need for a comprehensive lighting upgrade, backed by GENSSI’s Lifetime Warranty and a commitment to superior quality. Technical Specifications Part Numbers JK-3DBAR-KIT-S Fitment Jeep Wrangler JK/JKU 2007-2018 Specs Light Bar: 288W, 28800 Lumens, 3D Dual Row, Low Profile Auxiliary Pods: 24W (each), 2400 Lumens (each), 3D Quad Row Projector LED Source: 3 Watt Philips LEDs Waterproof Rating: IP68 Bracket: Triple Powder Coated, Rust-Proof, No-Drill Mount Wiring Harness: 3-Output, Waterproof Switch Included Warranty: Lifetime The GENSSI Promise: We are committed to providing you with the highest quality automotive lighting solutions. Your satisfaction and the enhancement of your driving experience are our top priorities. Drive brighter, drive safer, with GENSSI.
-  Updated: 2026-10-25T05:33:52Z
+- [LED Light Bar Combo Kit with AUX, Wrangler JK 07-18 | GENSSI](https://genssi.com/products/led-light-bar-combo-kit-with-aux-lights-bracket-wiring-harness-kit-for-wrangler-jk-2007-2018): LED headlight for Wrangler JK 07-18. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:26:18Z
   Vendor: JP FEDERATION
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JK-3D-COMBO__32813.1536693712.1280.1280.jpg?v=1769033646
   Price: $439.95 USD
-- [AGGRESSOR Mesh ABS Aggressive Style Grille For Jeep](https://genssi.com/products/aggressor-mesh-abs-aggressive-style-grille-for-jeep-wrangler-jk-2007-2017): Upgrade your Jeep Wrangler JK with our AGGRESSOR MESH grille! Experience improved airflow and a bold look. Easy installation and durable design await!
-  Updated: 2026-10-23T22:17:21Z
+- [AGGRESSOR Mesh ABS Aggressive, Wrangler JK 07-18 | GENSSI](https://genssi.com/products/aggressor-mesh-abs-aggressive-style-grille-for-jeep-wrangler-jk-2007-2017): Upgrade your Jeep Wrangler JK with our AGGRESSOR MESH grille! Experience improved airflow and a bold look. Easy installation and durable design await!
+  Updated: 2026-11-17T15:26:19Z
   Vendor: GENSSI
   Product Type: Grille
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JK-189-GRL_01__09305.1531164310.1280.1280.jpg?v=1769033226
   Price: $149.95 USD
-- [108W 20 Inches Black Spot/Flood Combo LED Light Bar](https://genssi.com/products/108w-20-inches-black-spot-flood-combo-led-light-bar): Illuminate your drive with the GENSSI 20-inch LED Light Bar! Experience unmatched brightness, rugged design, and exceptional performance. Light up the night!
-  Updated: 2026-10-29T18:26:45Z
+- [108W 20 Inches Black Spot/Flood Combo LED | GENSSI](https://genssi.com/products/108w-20-inches-black-spot-flood-combo-led-light-bar): LED LED light for listed applications. 108W, spot/flood combo Confirm options on the product page before install Confirm connector style on the page.
+  Updated: 2026-11-17T16:34:55Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1501,15 +1494,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/3DSLM-108W-S_01__30457.1531169979.500.750.jpg?v=1769033527
     Price: $169.99 USD
-- [Rear Transformer 3D Bumper for Wrangler JK 2007-2018](https://genssi.com/products/rear-transformer-3d-bumper-for-wrangler-jk-2007-2017): Transform your JK Wrangler's rear end with this ultra-rugged Rock Crawler bumper—featuring aggressive 3D styling, bolt-on installation.
-  Updated: 2026-10-24T16:41:56Z
+- [Rear Transformer 3D Bumper for, Wrangler 07-18 | GENSSI](https://genssi.com/products/rear-transformer-3d-bumper-for-wrangler-jk-2007-2017): replacement headlight for Wrangler 07-18. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T15:26:21Z
   Vendor: JP FEDERATION
   Product Type: Bumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/jf-1603-32_01__34818.1531261337.1280.1280.jpg?v=1766511972
   Price: $399.95 USD
-- [180W 32 Inches Black Spot/Flood Combo LED Light Bar](https://genssi.com/products/180w-32-inches-black-spot-flood-combo-led-light-bar): Illuminate your path with our 32" 8D Super Slim Dual Row LED Light Bar. 180W, 14,400 lumens, and advanced optics deliver unmatched brightness!
-  Updated: 2026-10-29T18:26:46Z
+- [180W 32 Inches Black Spot/Flood Combo LED | GENSSI](https://genssi.com/products/180w-32-inches-black-spot-flood-combo-led-light-bar): LED LED light for listed applications. 180W, spot/flood combo Confirm options on the product page before install Confirm connector style on the page.
+  Updated: 2026-11-17T16:34:56Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1522,8 +1515,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/3DSLM-180W-S_01__22578.1531419519.500.750.jpg?v=1769033226
     Price: $199.99 USD
-- [48W 8 Inches Black Spot/Flood Combo LED Light Bar](https://genssi.com/products/48w-8-inches-black-spot-flood-combo-led-light-bar): Illuminate your adventures with our 8D Super SLIM Dual Row LED Light Bar! Compact, powerful, and designed for extreme brightness—transform your ride today!
-  Updated: 2026-10-29T18:26:47Z
+- [48W 8 Inches Black Spot/Flood Combo LED Pair | GENSSI](https://genssi.com/products/48w-8-inches-black-spot-flood-combo-led-light-bar): Illuminate your adventures with our 8D Super SLIM Dual Row LED Light Bar! Compact, powerful, and designed for extreme brightness—transform your ride today!
+  Updated: 2026-11-17T15:26:24Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1536,15 +1529,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/3DSLM-48W-S_01__55169.1531421528.500.750.jpg?v=1769033346
     Price: $199.99 USD
-- [Four Row Cube Pod LED 3 Inches Auxiliary Lights Black](https://genssi.com/products/four-row-cube-pod-led-3-inches-auxiliary-lights-black): Elevate your vehicle's lighting with our Four Row Super Power 3-inch Cube! Delivering 1800 lumens and durable, weather-resistant design. Brighten every drive!
-  Updated: 2026-10-25T05:33:54Z
+- [Four Row Cube Pod LED 3 Black Pair Kit Set | GENSSI](https://genssi.com/products/four-row-cube-pod-led-3-inches-auxiliary-lights-black): LED LED light for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T16:34:57Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/GEN-4R-24W_01__26800.1531427489.1280.1280.jpg?v=1769032926
   Price: $49.95 USD
-- [GX7 Pro LED Conversion Kit 6500K Superior Brightness and Reliability Headlight Bulbs](https://genssi.com/products/led-headlight-conversion-kit-gx7-pro-for-jeep-wrangler-jl-2018-up): Upgrade your Jeep Wrangler JL (2018+) with GENSSI GX7 LED headlight kits for unmatched brightness and durability. Easy plug-and-play installation!
-  Updated: 2026-11-11T02:54:27Z
+- [LED w/ Bulbs Plug-and-Play Headlights, Wrangler 2018](https://genssi.com/products/led-headlight-conversion-kit-gx7-pro-for-jeep-wrangler-jl-2018-up): Upgrade your Jeep Wrangler JL (2018+) with GENSSI GX7 LED headlight kits for unmatched brightness and durability. Easy plug-and-play installation!
+  Updated: 2026-11-17T15:26:25Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1601,155 +1594,148 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/GX7-JEEP2__08437.1532370008.500.750.jpg?v=1775881033
     Price: $84.95 USD
-- [AGGRESSOR MPR 10th Anniversary Hood for Wrangler JK 2007-2018](https://genssi.com/products/aggressor-mpr-10th-anniversary-hood-for-wrangler-jk-2007-2018): Enhance your 2007-2017 JK Wrangler's look with the Aggressor MPR 10th Anniversary hood. Durable, stylish, and functional with unique vents for improved cooling!
-  Updated: 2026-10-24T00:09:41Z
+- [Exterior Part, Wrangler 07-18 Pair Kit Set | GENSSI](https://genssi.com/products/aggressor-mpr-10th-anniversary-hood-for-wrangler-jk-2007-2018): replacement headlight for Wrangler 07-18. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T15:26:25Z
   Vendor: GENSSI
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/Photo_from_Franko1__76657.1537474004.1280.1280.jpg?v=1769033765
   Price: $849.95 USD
-- [AGGRESSOR Side Steps Rail Steps Rock Sliders 2007-2018 Jeep Wrangler 4dr](https://genssi.com/products/aggressor-side-steps-rail-steps-rock-sliders-2007-2018-jeep-wrangler-4dr): Upgrade your Jeep Wrangler with the AGGRESSOR Side Steps for rugged protection and easy access. Built from heavy-duty steel, they're rust-proof and durable!
-  Updated: 2026-10-24T16:41:08Z
+- [Exterior Part, Wrangler 07-18 Pair Kit Set | GENSSI](https://genssi.com/products/aggressor-side-steps-rail-steps-rock-sliders-2007-2018-jeep-wrangler-4dr): replacement LED light for listed applications 07-18. Factory-style replacement as listed. Confirm options on the product page before install Review.
+  Updated: 2026-11-17T15:26:26Z
   Vendor: GENSSI
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JF1601-2-01__50879.1537978682.1280.1280.jpg?v=1766514092
   Price: $349.95 USD
-- [1156 BA15S 80W LED Bulbs (2 Pack)](https://genssi.com/products/1156-ba15s-80w-led-bulbs-2-pack): Experience unmatched brightness with GENSSI's 1156 LED bulb, offering 900 lumens of cool white light. Durable design ensures 10x longer life! Discover it now!
-  Updated: 2026-11-07T02:22:31Z
+- [1156 BA15S 80W LED Bulbs Lighting FITMENT: | GENSSI](https://genssi.com/products/1156-ba15s-80w-led-bulbs-2-pack): LED LED bulb kit for listed vehicles. sold as a pair OEM/interchange refs: 1156. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:26:29Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/1156-80W-W_01__01695.1538435910.1280.1280.jpg?v=1775577458
   Price: $34.95 USD
-- [JF Steel Fender Delete Kit for Wrangler JK 2007-2018](https://genssi.com/products/jf-steel-fender-delete-kit-for-wrangler-jk-2007-2018): Transform your Jeep Wrangler with a sleek, fender-free look! Perfect for off-road fans, these fit 2007-2018 Wrangler JK & JKU models. Durable steel design!
-  Updated: 2026-10-24T00:09:43Z
+- [Exterior Part, Wrangler 07-18 Pair Kit Set | GENSSI](https://genssi.com/products/jf-steel-fender-delete-kit-for-wrangler-jk-2007-2018): Transform your Jeep Wrangler with a sleek, fender-free look! Perfect for off-road fans, these fit 2007-2018 Wrangler JK & JKU models. Durable steel design!
+  Updated: 2026-11-17T15:26:28Z
   Vendor: GENSSI
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JF1609-1112_010__52508.1539962825.1280.1280.jpg?v=1766515091
   Price: $299.99 USD
-- [Quad LED Pod Cube Lower Windshield Pillar Light Mount Kit for Wrangler JL 2018+](https://genssi.com/products/quad-led-pod-cube-lower-windshield-pillar-light-mount-kit-for-wrangler-jl-2018): Enhance your off-road experience with durable lower windshield mounts and rugged cube lights. Brighten up any adventure with our powerful LED lighting!
-  Updated: 2026-10-29T18:26:49Z
+- [LED Lighting, Wrangler 18-18 Pair Kit Set | GENSSI](https://genssi.com/products/quad-led-pod-cube-lower-windshield-pillar-light-mount-kit-for-wrangler-jl-2018): Enhance your off-road experience with durable lower windshield mounts and rugged cube lights. Brighten up any adventure with our powerful LED lighting!
+  Updated: 2026-11-17T15:26:31Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JL-AB-24W-KIT_05__25314.1543445969.1280.1280.jpg?v=1769032926
   Price: $199.95 USD
-- [52 Inches LED Hood Mount Light Bar Kit for Jeep Wrangler JL 2018+](https://genssi.com/products/52-inches-led-hood-mount-light-bar-kit-for-jeep-wrangler-jl-2018): Illuminate your off-road adventures with our 51" 3D Slim light bar for Jeep Wrangler JL. Durable, stylish, and easy to install—power meets elegance!
-  Updated: 2026-10-29T18:26:50Z
+- [LED Light Bar, Wrangler 18-18 Pair Kit Set | GENSSI](https://genssi.com/products/52-inches-led-hood-mount-light-bar-kit-for-jeep-wrangler-jl-2018): Illuminate your off-road adventures with our 51" 3D Slim light bar for Jeep Wrangler JL. Durable, stylish, and easy to install—power meets elegance!
+  Updated: 2026-11-17T15:26:33Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JL-52IN-250S-KIT-01__05133.1543508244.1280.1280.jpg?v=1769033107
   Price: $249.99 USD
-- [Tailgate Rigid LED Strip 60 inches Red White Sequential Amber](https://genssi.com/products/tailgate-rigid-led-strip-60-inches-red-white-sequential-amber): Elevate your vehicle's style with our 60" Triple Row LED Tailgate Light Bar. Features durable, bright lights and easy installation for enhanced visibility.
-  Updated: 2026-10-25T05:33:56Z
+- [Tailgate Rigid LED Strip 60 inches Red Pair | GENSSI](https://genssi.com/products/tailgate-rigid-led-strip-60-inches-red-white-sequential-amber): Elevate your vehicle's style with our 60" Triple Row LED Tailgate Light Bar. Features durable, bright lights and easy installation for enhanced visibility.
+  Updated: 2026-11-17T15:26:33Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/Tailgate-60_01__61710.1543527979.1280.1280.jpg?v=1769032926
   Price: $79.99 USD
-- [5202 2504 Power Wire for Fog Lamps (2 Pack)](https://genssi.com/products/5202-2504-power-wire-for-fog-lamps-2-pack): Upgrade your Jeep Wrangler with this power wire for fog lamps! Easy installation and versatile connectivity, perfect for enhancing your lighting experience.
-  Updated: 2026-10-24T04:11:49Z
+- [5202 2504 Power Wire for Fog Pair Kit Set | GENSSI](https://genssi.com/products/5202-2504-power-wire-for-fog-lamps-2-pack): replacement light for listed applications. sold as a pair/kit Confirm options on the product page before install Confirm connector style on the page.
+  Updated: 2026-11-17T15:26:37Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/5202-INPT_3__14934.1545932150.1280.1280.jpg?v=1769032927
   Price: $19.95 USD
-- [150W 31" Single Row Low Profile LED Light Bar](https://genssi.com/products/150w-31-single-row-low-profile-led-light-bar): Brighten your ride with our compact 150W single row LED light bar. Experience 12,500 lumens of powerful illumination and rugged IP68 weather resistance.
-  Updated: 2026-10-29T18:26:51Z
+- [150W 31" Single Row Low Profile LED Light | GENSSI](https://genssi.com/products/150w-31-single-row-low-profile-led-light-bar): Brighten your ride with our compact 150W single row LED light bar. Experience 12,500 lumens of powerful illumination and rugged IP68 weather resistance.
+  Updated: 2026-11-17T15:26:36Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/GEN-150W-BK_3__60619.1545943733.1280.1280.jpg?v=1769033226
   Price: $99.95 USD
-- [Headlight Bracket Kit for 7" Headlamps for Jeep Wrangler JL 2018+](https://genssi.com/products/headlight-bracket-kit-for-7-headlamps-for-jeep-wrangler-jl-2018): Upgrade your Jeep with 7" Round headlights for Wrangler JL/JLU and Gladiator. Easy installation with direct factory connections. Illuminate your ride today!
-  Updated: 2026-10-25T16:09:35Z
+- [Headlight Bracket Kit for 7", Wrangler JL 18-18 | GENSSI](https://genssi.com/products/headlight-bracket-kit-for-7-headlamps-for-jeep-wrangler-jl-2018): replacement headlight for Wrangler JL 18-18. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T15:26:37Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/jeep_headlight__02267.1556049326.1280.1280.jpg?v=1769033165
   Price: $89.95 USD
-- [Headlight Wiring Adapter Kit for Jeep Wrangler JL 2018-2019](https://genssi.com/products/headlight-wiring-adapter-kit-for-jeep-wrangler-jl-2018-2019): Upgrade your Jeep JL's lighting with our high-quality headlight plug wires. Perfect for seamless installation of 7" LED headlights. Enhance visibility now!
-  Updated: 2026-10-23T22:17:31Z
+- [Headlight Wiring Adapter Kit for, Wrangler JL 18-19 | GENSSI](https://genssi.com/products/headlight-wiring-adapter-kit-for-jeep-wrangler-jl-2018-2019): Upgrade your Jeep JL's lighting with our high-quality headlight plug wires. Perfect for seamless installation of 7" LED headlights. Enhance visibility now!
+  Updated: 2026-11-17T15:26:38Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/HDLT-PLG-JLU_02__75833.1546544968.1280.1280.jpg?v=1766448807
   Price: $29.99 USD
-- [LED Conversion Kit Perfect Fitment No Adapter Need For VW Golf MK6 MK7 Jetta H7](https://genssi.com/products/led-conversion-kit-perfect-fitment-no-adapter-need-for-vw-golf-mk6-mk7-jetta-h7): Upgrade your VW with our direct fit LED conversion kit! Enjoy brighter, longer-lasting illumination with Philips ZES chips. Easy plug-and-play installation!
-  Updated: 2026-10-23T21:50:01Z
+- [LED Conversion Kit Perfect Fitment No H7 Pair | GENSSI](https://genssi.com/products/led-conversion-kit-perfect-fitment-no-adapter-need-for-vw-golf-mk6-mk7-jetta-h7): replacement headlight for listed applications. Factory-style replacement as listed. Refs: H7. Confirm options on the product page before install.
+  Updated: 2026-11-17T15:26:41Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/H7_headlight_housing_with_bulb_side_view__58808.1548197848.1280.1280.jpg?v=1769032987
   Price: $129.95 USD
-- [Billet Aluminum Fuel Door Cap for Jeep Wrangler 2007-2018](https://genssi.com/products/billet-aluminum-fuel-door-cap-for-jeep-wrangler-2007-2017): Elevate your Jeep Wrangler JK with our premium die-cast aluminum emblem. Sleek black satin finish and carbon fiber details offer style and durability.
-  Updated: 2026-10-26T19:53:41Z
+- [Exterior Part, Wrangler 07-18 Pair Kit Set | GENSSI](https://genssi.com/products/billet-aluminum-fuel-door-cap-for-jeep-wrangler-2007-2017): Elevate your Jeep Wrangler JK with our premium die-cast aluminum emblem. Sleek black satin finish and carbon fiber details offer style and durability.
+  Updated: 2026-11-17T15:26:39Z
   Vendor: JP FEDERATION
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JK-FUEL_03__22070.1548866488.1280.1280.jpg?v=1766514196
   Price: $79.99 USD
-- [AGGRESSOR Side Steps Rail Steps Rock Sliders 2007-2018 Jeep Wrangler 2dr](https://genssi.com/products/aggressor-side-steps-rail-steps-rock-sliders-2007-2018-jeep-wrangler-2dr): Elevate your JK's rugged look with our heavy-duty 3/16" steel rock sliders. Direct bolt-on, rust-proof, and designed for easy access. Perfect for off-roading!
-  Updated: 2026-10-24T16:41:07Z
+- [Exterior Part, Wrangler 07-18 Pair Kit Set | GENSSI](https://genssi.com/products/aggressor-side-steps-rail-steps-rock-sliders-2007-2018-jeep-wrangler-2dr): replacement LED light for listed applications 07-18. Factory-style replacement as listed. Confirm options on the product page before install Review.
+  Updated: 2026-11-17T15:26:41Z
   Vendor: JP FEDERATION
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JF1601-2-01__73793.1548957542.1280.1280.jpg?v=1766514087
   Price: $349.95 USD
-- [7X6 H6014 H6052 H6054 Seal-Beam type Replacement Glass Headlights (2 Pack)](https://genssi.com/products/7x6-h6014-h6052-h6054-seal-beam-type-replacement-glass-headlights-2-pack): Upgrade your old-school truck with our REAL GLASS HEADLIGHTS. Customize with H4 bulbs for ultimate brightness! Perfect fit & OEM look. Shine brighter today!
-  Updated: 2026-11-11T12:53:54Z
+- [7X6 H6014 H6052 H6054 Seal-Beam type Pair | GENSSI](https://genssi.com/products/7x6-h6014-h6052-h6054-seal-beam-type-replacement-glass-headlights-2-pack): replacement headlight for listed applications. sold as a pair/kit Refs: H6014, H6054. Confirm options on the product page before install Review fitment on.
+  Updated: 2026-11-17T15:26:46Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/H4-7x6.jpg?v=1794358422
   Price: $59.95 USD
-- [LED Rock Lights Wire Extension 10FT (2 Pack)](https://genssi.com/products/led-rock-lights-wire-extension-10ft-2-pack): Extend your LED Rock lights effortlessly with our 10 FT wire pair. Perfect for long bed trucks and SUVs, compatible with most RGB rock light sets.
-  Updated: 2026-10-24T16:28:16Z
+- [LED Rock Lights Wire Extension 10FT Pair Kit | GENSSI](https://genssi.com/products/led-rock-lights-wire-extension-10ft-2-pack): Extend your LED Rock lights effortlessly with our 10 FT wire pair. Perfect for long bed trucks and SUVs, compatible with most RGB rock light sets.
+  Updated: 2026-11-17T15:26:43Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/LED_ROCK_LIGHT_06__11126.1554402047.1280.1280.jpg?v=1769033046
   Price: $19.99 USD
-- [LED Wheel Lights Kit with Turn Signal and Red Brake Function](https://genssi.com/products/led-wheel-lights-kit-with-turn-signal-and-red-brake-function): Upgrade your ride with our USA-designed 600 LED Wheel Light Kit! Wireless control via app, multi-color chase lights & brake signals. Make your wheels shine!
-  Updated: 2026-10-29T18:26:54Z
+- [LED Wheel Lights Kit with Turn Signal and | GENSSI](https://genssi.com/products/led-wheel-lights-kit-with-turn-signal-and-red-brake-function): LED headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T16:35:06Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/Chase-Wheel-Lights_3__37255.1574799465.1280.1280.jpg?v=1775505983
   Price: $149.95 USD
-- [D5S LED Bulbs Replaces 9285410171 Xenon HID (Pack of 2)](https://genssi.com/products/d5s-led-bulbs-replaces-9285410171-xenon-hid-pack-of-2): Upgrade your ride with D5S LED Bulbs! Super bright at 3200 lumens, featuring built-in heatsink & fan. Perfect fit for multiple Audi and GM models!
-  Updated: 2026-10-23T22:14:18Z
+- [D5S LED Bulbs Replaces 9285410171 Xenon HID | GENSSI](https://genssi.com/products/d5s-led-bulbs-replaces-9285410171-xenon-hid-pack-of-2): Upgrade your ride with D5S LED Bulbs! Super bright at 3200 lumens, featuring built-in heatsink & fan. Perfect fit for multiple Audi and GM models!
+  Updated: 2026-11-17T15:26:47Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/D5_LED_KIT-01__39455.1557773322.1280.1280.jpg?v=1769032926
   Price: $199.95 USD
-- [7440 7443 LED Bulb with Backup Reverse Light Flasher Flashing Pattern (2 Pack)](https://genssi.com/products/7440-7443-led-bulb-with-backup-reverse-light-flasher-flashing-pattern-2-pack): Enhance your vehicle's safety with our 7440 Type LED backup bulbs! Featuring high-output LEDs for brilliant white light and consistent flashing. Pack of 2.
-  Updated: 2026-10-25T05:33:58Z
+- [7440 7443 LED Bulb with Backup Pair Kit Set | GENSSI](https://genssi.com/products/7440-7443-led-bulb-with-backup-reverse-light-flasher-flashing-pattern-2-pack): Enhance your vehicle's safety with our 7440 Type LED backup bulbs! Featuring high-output LEDs for brilliant white light and consistent flashing. Pack of 2.
+  Updated: 2026-11-17T15:26:48Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/3156-FLASH-W_04__07153.1558111076.1280.1280.jpg?v=1769033106
   Price: $19.95 USD
-- [Smoked LED Tail Lights for Jeep Wrangler JL 2018+](https://genssi.com/products/smoked-led-tail-lights-for-jeep-wrangler-jl-2018): Upgrade your Jeep Wrangler JL with our smoked LED tail lights! Experience brilliant brightness and stylish halo design. Easy plug-and-play installation!
-  Updated: 2026-10-29T18:26:54Z
+- [Smoked LED Tail Lights, Wrangler JL 18-18 | GENSSI](https://genssi.com/products/smoked-led-tail-lights-for-jeep-wrangler-jl-2018): Upgrade your Jeep Wrangler JL with our smoked LED tail lights! Experience brilliant brightness and stylish halo design. Easy plug-and-play installation!
+  Updated: 2026-11-17T15:26:48Z
   Vendor: JP FEDERATION
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JL-TAILLIGHT-SMOKED-06__12853.1565037080.1280.1280.jpg?v=1769033286
   Price: $199.95 USD
-- [24W Flush Mount Bumper Cube Bar Duely Flood Strobe POD LED Light Black](https://genssi.com/products/24w-flush-mount-bumper-cube-bar-duely-flood-strobe-pod-led-light-black): Discover the GENSSI Four Row Super Power 3" Cube LED light! With 1800 Lumens and versatile strobe features, elevate your vehicle's visibility now!
-  Updated: 2026-10-24T04:36:28Z
-  Vendor: GENSSI
-  Product Type: Lighting
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/LED-4R-24W-FLUSH-01__16947.1565120723.1280.1280.jpg?v=1766448953
-  Price: $69.95 USD
-- [LED RGB Color Changing Whip Lights 3 Feet 4 Feet 5 Feet](https://genssi.com/products/led-rgb-color-changing-whip-lights-3-feet-4-feet-5-feet): Experience unparalleled brightness with GENSSI's RGB SMD LED whips. Durable, vibrant, and perfectly synced for ultimate light displays on any adventure.
-  Updated: 2026-10-25T05:33:59Z
+- [LED RGB Color Changing Whip Lights 3 Feet | GENSSI](https://genssi.com/products/led-rgb-color-changing-whip-lights-3-feet-4-feet-5-feet): Experience unparalleled brightness with GENSSI's RGB SMD LED whips. Durable, vibrant, and perfectly synced for ultimate light displays on any adventure.
+  Updated: 2026-11-17T15:26:49Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1772,8 +1758,8 @@
   - [5 Feet Dual](https://genssi.com/products/led-rgb-color-changing-whip-lights-3-feet-4-feet-5-feet?variant=43362059780179)
     Availability: Available
     Price: $149.95 USD
-- [LED RGB Color Chasing Whip Lights 3 4 5 Feet](https://genssi.com/products/led-rgb-color-chasing-whip-lights-3-4-5-feet): Experience brilliance with INCREDIBLE 360 PLUS+ LED whips. Enjoy synchronized colors and chasing patterns in a durable, sleek design—illuminate your adventures!
-  Updated: 2026-10-25T05:34:01Z
+- [LED RGB Color Chasing Whip Lights 3 4 Pair | GENSSI](https://genssi.com/products/led-rgb-color-chasing-whip-lights-3-4-5-feet): LED LED light for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T16:35:08Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1802,99 +1788,99 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/629_source_1591801955.jpg?v=1769033526
     Price: $99.95 USD
-- [LED Headlights OEM Style for Volvo VNM 200 300 1998-2014](https://genssi.com/products/led-headlights-oem-style-for-volvo-vnm-200-300-1998-2014): Upgrade to our OEM-style LED headlights for unmatched night visibility! Enjoy lifetime performance with plug-and-play ease. Illuminate your drive today!
-  Updated: 2026-10-29T18:26:56Z
+- [LED Headlights OEM Style, Volvo VNM 200 1998-2014 | GENSSI](https://genssi.com/products/led-headlights-oem-style-for-volvo-vnm-200-300-1998-2014): Upgrade to our OEM-style LED headlights for unmatched night visibility! Enjoy lifetime performance with plug-and-play ease. Illuminate your drive today!
+  Updated: 2026-11-17T15:26:52Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/VNM-HEADLIGHTS__30514.1638239112.1280.1280.jpg?v=1769032926
   Price: $199.95 USD
-- [Steel Flat Top Metal Fender Flares for Wrangler JL JLU 2018+](https://genssi.com/products/steel-flat-top-metal-fender-flares-for-wrangler-jl-jlu-2018): Transform your Jeep Wrangler with our durable steel fenders! Enhance , style, and toughness for your off-road adventures. Elevate your ride today!
-  Updated: 2026-10-24T00:09:50Z
+- [Exterior Part, Wrangler 18-18 Pair Kit Set | GENSSI](https://genssi.com/products/steel-flat-top-metal-fender-flares-for-wrangler-jl-jlu-2018): Transform your Jeep Wrangler with our durable steel fenders! Enhance , style, and toughness for your off-road adventures. Elevate your ride today!
+  Updated: 2026-11-17T15:26:53Z
   Vendor: JP FEDERATION
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JLU-FLAT-FNDR-01__59438.1570463935.1280.1280.jpg?v=1769033047
   Price: $239.95 USD
-- [1 Channel High Power 15A On/Off Wireless Remote Controller 12V](https://genssi.com/products/1-channel-high-power-15a-on-off-wireless-remote-controller-12v): Elevate your automotive experience with our high-power wireless controller! Remote operation, long-range reach, and water resistance for all your vehicles.
-  Updated: 2026-10-23T21:50:02Z
+- [1 Channel High Power 15A On/Off Pair Kit Set | GENSSI](https://genssi.com/products/1-channel-high-power-15a-on-off-wireless-remote-controller-12v): Elevate your automotive experience with our high-power wireless controller! Remote operation, long-range reach, and water resistance for all your vehicles.
+  Updated: 2026-11-17T15:26:55Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/RM02-AMAZON__82737.1574799027.1280.1280.jpg?v=1769033106
   Price: $31.95 USD
-- [LED Conversion Kit Bulbs GX7 Pro Compatible with Peterbilt 330 325 335 340 348 384 386 387 Truck Headlight Lamp Low High](https://genssi.com/products/led-conversion-kit-bulbs-gx7-pro-compatible-with-peterbilt-330-325-335-340-348-384-386-387-truck-headlight-lamp-low-high): Upgrade your Peterbilt with the Pro GX7 LED Headlight bulb kit. Experience up to 3X better visibility and performance with a stunning 8000 Lumens output.
-  Updated: 2026-11-02T03:37:22Z
+- [LED Conversion Kit Bulbs GX7 Pro, Peterbilt 08-19 | GENSSI](https://genssi.com/products/led-conversion-kit-bulbs-gx7-pro-compatible-with-peterbilt-330-325-335-340-348-384-386-387-truck-headlight-lamp-low-high): Upgrade your Peterbilt with the Pro GX7 LED Headlight bulb kit. Experience up to 3X better visibility and performance with a stunning 8000 Lumens output.
+  Updated: 2026-11-17T15:26:56Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/PeterBilt-GX7__40120.1575495838.500.750.jpg?v=1769032926
   Price: $84.95 USD
-- [Cyclone LED Headlights for Wrangler JL &  Gladiator 2018+](https://genssi.com/products/cyclone-led-headlights-for-wrangler-jl-gladiator-2018): Elevate your Wrangler JL/JLU 2018+ with Cyclone LED Headlights! Brighten nighttime adventures & enhance safety with advanced optics and modern design.
-  Updated: 2026-10-29T18:26:58Z
+- [Cyclone LED Headlights for, Wrangler JL 18-18 | GENSSI](https://genssi.com/products/cyclone-led-headlights-for-wrangler-jl-gladiator-2018): Elevate your Wrangler JL/JLU 2018+ with Cyclone LED Headlights! Brighten nighttime adventures & enhance safety with advanced optics and modern design.
+  Updated: 2026-11-17T15:26:55Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JL-9LED-HDLT-W_12__69882.1576022330.1280.1280.jpg?v=1776616603
   Price: $449.95 USD
-- [GENSSI 880 884 885 890 893 899 18SMD LED Light Bulb for Fog Lights DRL 12V High Power (2 Pack)](https://genssi.com/products/genssi-880-884-885-890-893-899-18smd-led-light-bulb-for-fog-lights-drl-12v-high-power-2-pack): Brighten your ride with GENSSI's LED fog light bulbs! Perfect fit for multiple models, delivering 1200 lumens and a cool white glow. Upgrade your lighting!
-  Updated: 2026-10-23T21:50:01Z
+- [LED w/ LED DRL w/ Bulbs Fog Lights Driving Lamp | GENSSI](https://genssi.com/products/genssi-880-884-885-890-893-899-18smd-led-light-bulb-for-fog-lights-drl-12v-high-power-2-pack): Brighten your ride with GENSSI's LED fog light bulbs! Perfect fit for multiple models, delivering 1200 lumens and a cool white glow. Upgrade your lighting!
+  Updated: 2026-11-17T15:26:58Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/881-60w-w-00__05079.1576270345.1280.1280.jpg?v=1769032987
   Price: $24.95 USD
-- [Turbo Blow Off Valve Sound Maker Electronic](https://genssi.com/products/turbo-blow-off-valve-sound-maker-electronic): Elevate your ride with our Electronic Turbo Sound! Create that thrilling PSHHHH sound with a simple switch. Perfect for car enthusiasts seeking a turbo feel!
-  Updated: 2026-10-23T21:50:02Z
+- [Turbo Blow Off Valve Sound Maker Pair Kit | GENSSI](https://genssi.com/products/turbo-blow-off-valve-sound-maker-electronic): replacement headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on.
+  Updated: 2026-11-17T15:26:58Z
   Vendor: GENSSI
   Product Type: Performance
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/TURBO-HORN_01__93326.1577377089.1280.1280.jpg?v=1771259374
   Price: $59.95 USD
-- [Clear LED Tail Lights for Jeep Wrangler JL 2018+](https://genssi.com/products/clear-led-tail-lights-for-jeep-wrangler-jl-2018): Upgrade your Jeep Wrangler JL with stunning clear LED tail lights! Easy plug-and-play installation, waterproof design, and stylish red halo for safety.
-  Updated: 2026-10-29T18:26:59Z
+- [Clear LED Tail Lights for Jeep, Wrangler JL 18-18 | GENSSI](https://genssi.com/products/clear-led-tail-lights-for-jeep-wrangler-jl-2018): Upgrade your Jeep Wrangler JL with stunning clear LED tail lights! Easy plug-and-play installation, waterproof design, and stylish red halo for safety.
+  Updated: 2026-11-17T15:27:00Z
   Vendor: JP FEDERATION
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/CLR-JLU-TAILIGHT_main__38566.1615491403.1280.1280.jpg?v=1769033166
   Price: $199.95 USD
-- [LED Fog Lights for Jeep Wrangler JL JLU Sport Sport S 2018+](https://genssi.com/products/led-fog-lights-for-jeep-wrangler-jl-jlu-sport-sport-s-2018): Upgrade your Jeep Wrangler JL with our powerful LED fog lights! Perfect for 2-door & Sport models. Enjoy superior illumination with cool white 6000K LED!
-  Updated: 2026-10-29T18:27:00Z
+- [LED Fog Lights Driving Lamp, Wrangler 18-18 | GENSSI](https://genssi.com/products/led-fog-lights-for-jeep-wrangler-jl-jlu-sport-sport-s-2018): Upgrade your Jeep Wrangler JL with our powerful LED fog lights! Perfect for 2-door & Sport models. Enjoy superior illumination with cool white 6000K LED!
+  Updated: 2026-11-17T15:27:00Z
   Vendor: JP FEDERATION
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JLFLIGHTLIGHTS55__86274.1561568920.1280.1280.jpg?v=1769032987
   Price: $109.95 USD
-- [LED Halo Fog Lights for Jeep Wrangler JL JLU Sport Sport S 2018+](https://genssi.com/products/led-halo-fog-lights-for-jeep-wrangler-jl-jlu-sport-sport-s-2018): Upgrade your Jeep Wrangler JL with our powerful LED Halo Ring fog lights. Perfect fit for Sport/Sport S models—unleash superior visibility today!
-  Updated: 2026-10-29T18:27:01Z
+- [LED Fog Lights Driving Lamp, Wrangler 18-18 | GENSSI](https://genssi.com/products/led-halo-fog-lights-for-jeep-wrangler-jl-jlu-sport-sport-s-2018): Upgrade your Jeep Wrangler JL with our powerful LED Halo Ring fog lights. Perfect fit for Sport/Sport S models—unleash superior visibility today!
+  Updated: 2026-11-17T15:27:01Z
   Vendor: JP FEDERATION
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JLU-FOG-HLO-BLK-01__40490.1577817310.1280.1280.jpg?v=1769033047
   Price: $119.95 USD
-- [Tube Fenders for Wrangler JL JLU 2018+](https://genssi.com/products/tube-fenders-for-wrangler-jl-jlu-2018): Upgrade your Jeep Wrangler with durable Steel Tube Fenders! Enjoy superior , a rugged look, and rust-proof construction for lasting performance.
-  Updated: 2026-10-25T05:34:05Z
+- [Exterior Part, Wrangler 18-18 Pair Kit Set | GENSSI](https://genssi.com/products/tube-fenders-for-wrangler-jl-jlu-2018): Upgrade your Jeep Wrangler with durable Steel Tube Fenders! Enjoy superior , a rugged look, and rust-proof construction for lasting performance.
+  Updated: 2026-11-17T15:27:04Z
   Vendor: JP FEDERATION
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JLU-TUBE-FRONT-REAR-07__05283.1593372762.1280.1280.jpg?v=1769033108
   Price: $499.95 USD
-- [Front Aluminum Inner Fender Liners for Wrangler JL JLU JT 2018 Up](https://genssi.com/products/front-aluminum-inner-fender-liners-for-wrangler-jl-jlu-jt-2018-up): Enhance your 2018-2021 Wrangler & Gladiator's look with our Mesh Inner Fender Liners. Perfect blend of style and protection awaits at GENSSI.com!
-  Updated: 2026-10-25T05:34:06Z
+- [Exterior Part, Wrangler 18-18 Pair Kit Set | GENSSI](https://genssi.com/products/front-aluminum-inner-fender-liners-for-wrangler-jl-jlu-jt-2018-up): Enhance your 2018-2021 Wrangler & Gladiator's look with our Mesh Inner Fender Liners. Perfect blend of style and protection awaits at GENSSI.com!
+  Updated: 2026-11-17T15:27:04Z
   Vendor: JP FEDERATION
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JLU-FRONT-LNR-01__74056.1578085135.1280.1280.jpg?v=1766514614
   Price: $169.99 USD
-- [Crusher Fenders for Wrangler JL JLU 2018+](https://genssi.com/products/crusher-fenders-for-wrangler-jl-jlu-2018): Upgrade your Jeep Wrangler with our steel front and rear fenders! Boost tire  and add a rugged look. Durable, rust-proof, and built to last.
-  Updated: 2026-10-25T05:34:07Z
+- [Exterior Part, Wrangler 18-18 Pair Kit Set | GENSSI](https://genssi.com/products/crusher-fenders-for-wrangler-jl-jlu-2018): Upgrade your Jeep Wrangler with our steel front and rear fenders! Boost tire  and add a rugged look. Durable, rust-proof, and built to last.
+  Updated: 2026-11-17T15:27:05Z
   Vendor: JP FEDERATION
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JLU-CRSHR-F-R-02__12017.1578438888.1280.1280.jpg?v=1769032987
   Price: $479.95 USD
-- [G2 Titan LED Headlight Conversion Kit Bulbs](https://genssi.com/products/g2-titan-led-headlight-conversion-kit-bulbs): Transform your night driving experience with the TITAN LED Conversion Kit. Up to 300% brighter, easier installation, and cool white illumination.
-  Updated: 2026-11-07T02:22:31Z
+- [G2 Titan LED Headlight Conversion Kit Pair | GENSSI](https://genssi.com/products/g2-titan-led-headlight-conversion-kit-bulbs): Transform your night driving experience with the TITAN LED Conversion Kit. Up to 300% brighter, easier installation, and cool white illumination.
+  Updated: 2026-11-17T15:27:08Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1935,43 +1921,43 @@
   - [880 / 881 / 893 / 884 /885 / 899](https://genssi.com/products/g2-titan-led-headlight-conversion-kit-bulbs?variant=43362063876179)
     Availability: Not Available
     Price: $49.99 USD
-- [LED Pro Headlight Headlamp Pair for International 4100 4200 4300 4400 8500 8600](https://genssi.com/products/led-pro-headlight-headlamp-pair-for-international-4100-4200-4300-4400-8500-8600): Upgrade your ride with GENSSI's LED Headlight Set! Easy installation, DOT compliant, and bright performance for your International trucks. See the road clearly!
-  Updated: 2026-10-29T18:27:03Z
+- [LED Pro Headlight Headlamp Pair for Kit Set | GENSSI](https://genssi.com/products/led-pro-headlight-headlamp-pair-for-international-4100-4200-4300-4400-8500-8600): LED headlight for listed vehicles. sold as a pair Confirm options on the product page before install Confirm connector style on the page Check listing.
+  Updated: 2026-11-17T15:27:11Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/G7-ELT-COMPARE-Brightness-halogen__70060.1579884055.1280.1280.jpg?v=1766449293
   Price: $319.95 USD
-- [Oil Filter Plug Cover for Ram Cummins Diesel 5.9L 6.7L](https://genssi.com/products/oil-filter-plug-cover-for-ram-cummins-diesel-5-9l-6-7l): Enhance your Ram Cummins Diesel with our durable, powder-coated green Oil Filter Plug. Easy to use and made in the USA, perfect for seamless oil changes!
-  Updated: 2026-10-25T05:34:10Z
+- [Oil Filter Plug Cover for Ram Pair Kit Set | GENSSI](https://genssi.com/products/oil-filter-plug-cover-for-ram-cummins-diesel-5-9l-6-7l): Enhance your Ram Cummins Diesel with our durable, powder-coated green Oil Filter Plug. Easy to use and made in the USA, perfect for seamless oil changes!
+  Updated: 2026-11-17T15:27:10Z
   Vendor: GENSSI
   Product Type: Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/RAM-PLUG__92496.1579888647.1280.1280.jpg?v=1769033466
   Price: $29.95 USD
-- [AVENGER Hood for Wrangler JL JLU Gladiator 2018 up](https://genssi.com/products/avenger-hood-for-wrangler-jl-jlu-gladiator-2018-up): Transform your 2018-2021 Jeep Wrangler or Gladiator with the AVENGER hood. Enjoy enhanced cooling, aggressive styling, and durable steel construction.
-  Updated: 2026-10-24T00:09:58Z
+- [Exterior Part, Wrangler 18-21 Pair Kit Set | GENSSI](https://genssi.com/products/avenger-hood-for-wrangler-jl-jlu-gladiator-2018-up): Transform your 2018-2021 Jeep Wrangler or Gladiator with the AVENGER hood. Enjoy enhanced cooling, aggressive styling, and durable steel construction.
+  Updated: 2026-11-17T20:48:53Z
   Vendor: JP FEDERATION
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JLU-AVG-HOOD-02__52466.1588021249.1280.1280.jpg?v=1769032987
   Price: $799.99 USD
-- [MPR Hood for Wrangler JL JLU Gladiator 2018 up](https://genssi.com/products/mpr-hood-for-wrangler-jl-jlu-gladiator-2018-up): Enhance your Jeep's style and performance with the MPR hood for 2018-2021 JL JLU Wrangler Gladiator. Durable steel and unique vents ensure optimal cooling!
-  Updated: 2026-10-25T05:34:11Z
+- [Exterior Part, Wrangler 18-18 Pair Kit Set | GENSSI](https://genssi.com/products/mpr-hood-for-wrangler-jl-jlu-gladiator-2018-up): Enhance your Jeep's style and performance with the MPR hood for 2018-2021 JL JLU Wrangler Gladiator. Durable steel and unique vents ensure optimal cooling!
+  Updated: 2026-11-17T20:48:54Z
   Vendor: JP FEDERATION
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JLU-MPR-HOOD-01__21911.1588021590.1280.1280.jpg?v=1769033168
   Price: $799.99 USD
-- [Running Boards / Rock Sliders for Jeep Wrangler JLU 4-Door 2018+](https://genssi.com/products/running-boards-side-steps-rail-steps-rock-sliders-for-jeep-wrangler-jlu-4dr-2018-up): Upgrade Your Jeep’s Style and Functionality with GENSSI Rock Sliders Transform your Jeep Wrangler JLU 4-door into an off-road beast that’s as practical as it is aggressive. These running boards don’t just add a rugged aesthetic; they provide crucial protection against trail hazards and make getting in and out of your lifted Jeep a breeze. Conquer any terrain with confidence and comfort. Why You Need This Enhanced Off-Road Protection: Constructed from real 3/16" heavy-duty steel, these sliders shield your Jeep’s vulnerable lower body panels from rocks, debris, and trail damage. Rugged, Durable Finish: Featuring a tough, black texture coating, these steps resist rust and corrosion, ensuring they look great and perform reliably for years to come. Simplified Entry and Exit: Gain easier access to your lifted Jeep, making it more comfortable for you and your passengers to get in and out, even after a challenging trail run. Hassle-Free Installation: Designed as a direct bolt-on solution, these rock sliders utilize your Jeep’s original body mount bolts, meaning no extra hardware is needed for a secure and straightforward installation. Technical Specifications Part Numbers JLU-RS-1823-BK Fitment Jeep Wrangler JLU 4-door (2018, 2019, 2020, 2021 ONLY) Material 3/16" Heavy Duty Steel Finish Black Texture Coated (Rust Proof) Installation Direct Bolt-On (Uses Original Body Mount Bolts) The GENSSI Promise: We are committed to providing high-quality automotive accessories that enhance your driving experience. Our products are designed for durability, performance, and style, ensuring you get the best value for your .
-  Updated: 2026-10-24T16:41:58Z
+- [Running Boards Side Steps Rail, Wrangler JL 18-18 | GENSSI](https://genssi.com/products/running-boards-side-steps-rail-steps-rock-sliders-for-jeep-wrangler-jlu-4dr-2018-up): replacement LED light for Wrangler JL 18-18. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T20:48:54Z
   Vendor: JP FEDERATION
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JLU-NRF-4DR-eBay__78565.1588179465.1280.1280.jpg?v=1769032926
   Price: $329.99 USD
-- [288W 50 Inches Slim Black Projector Spot LED Light Bar](https://genssi.com/products/288w-50-inches-slim-black-projector-spot-led-light-bar): Illuminate Your Adventures: The 288W 50-Inch Slim Projector Spot LED Light Bar Conquer the night and elevate your driving experience.
-  Updated: 2026-10-24T04:19:14Z
+- [288W 50 Inches Slim Black Projector Spot LED | GENSSI](https://genssi.com/products/288w-50-inches-slim-black-projector-spot-led-light-bar): LED LED light for listed applications. 288W Confirm options on the product page before install Confirm connector style on the page Review fitment on the.
+  Updated: 2026-11-17T16:35:12Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1984,15 +1970,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/GEN-216W-B__47150.1593033176.500.750.jpg?v=1769033166
     Price: $99.99 USD
-- [Demon Eye Halo Projector Black LED Headlights for Wrangler](https://genssi.com/products/demon-eye-halo-projector-black-led-headlights-and-fog-lights-for-wrangler-jk-2007-2018): Upgrade your ride with our Demon Series LED headlights & fog lights! Experience brilliant projection, stunning design, and remote-controlled halo effects.
-  Updated: 2026-10-29T18:27:04Z
+- [Demon Eye HALO Projector Black, Wrangler JK 07-18 | GENSSI](https://genssi.com/products/demon-eye-halo-projector-black-led-headlights-and-fog-lights-for-wrangler-jk-2007-2018): Upgrade your ride with our Demon Series LED headlights & fog lights! Experience brilliant projection, stunning design, and remote-controlled halo effects.
+  Updated: 2026-11-17T15:27:17Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JK-DEMONEYE_FOG-JK-az__13937.1629138394.1280.1280.jpg?v=1769033706
   Price: $299.95 USD
-- [Demon Eye LED Headlights for Wrangler JL JLU  Gladiator 2018 Up](https://genssi.com/products/demon-eye-led-headlights-for-wrangler-jl-jlu-gladiator-2018-up): Illuminate the night with GENSSI Demon Series LED headlights. Cutting-edge technology, stunning design, and versatile control - perfect for Jeep Wrangler 2018+.
-  Updated: 2026-10-29T18:27:05Z
+- [Demon Eye LED Headlights for, Wrangler JL 18-18 | GENSSI](https://genssi.com/products/demon-eye-led-headlights-for-wrangler-jl-jlu-gladiator-2018-up): LED headlight for Wrangler JL 18-18. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:27:19Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -2005,148 +1991,148 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/351916_source_1628184138.jpg?v=1769033168
     Price: $349.95 USD
-- [GLADIATOR WARRIOR Front Grille for Jeep Wrangler JL & Gladiator 2018+](https://genssi.com/products/gladiator-warrior-front-grille-for-jeep-wrangler-jl-gladiator-2018): Upgrade your JL or JLU Gladiator with the aggressive Matte Black Warrior Mesh Grille. Perfect fit, easy installation, and stylish enhancement for 2018+ models!
-  Updated: 2026-10-25T05:34:15Z
+- [GLADIATOR WARRIOR Front Grille for, Wrangler 18-18 | GENSSI](https://genssi.com/products/gladiator-warrior-front-grille-for-jeep-wrangler-jl-gladiator-2018): replacement headlight for Gladiator JT 18-18. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on.
+  Updated: 2026-11-17T20:48:55Z
   Vendor: GENSSI
   Product Type: Grille
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/Gladiator-jlu-grl-05__91258.1599022898.1280.1280.jpg?v=1769032927
   Price: $159.95 USD
-- [Cyclone HALO LED Headlights for Wrangler JL &  Gladiator 2018-2023](https://genssi.com/products/cyclone-halo-led-headlights-for-wrangler-jl-gladiator-2018-2023): Upgrade your Jeep with the Cyclone LED Headlights! Experience superior visibility and a rugged look for enhanced safety. Perfect for Wrangler JL/JLU 2018+!
-  Updated: 2026-10-29T18:27:06Z
+- [Cyclone HALO LED Headlights for, Wrangler JL 18-23 | GENSSI](https://genssi.com/products/cyclone-halo-led-headlights-for-wrangler-jl-gladiator-2018-2023): Upgrade your Jeep with the Cyclone LED Headlights! Experience superior visibility and a rugged look for enhanced safety. Perfect for Wrangler JL/JLU 2018+!
+  Updated: 2026-11-17T20:48:56Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/IMG_20191019_114832__98998.1599584034.1280.1280.jpg?v=1769033047
   Price: $499.95 USD
-- [Running Boards Side Steps Rail Steps Rock Sliders for Jeep Wrangler JLU 4dr 2018 up Dual Style](https://genssi.com/products/running-boards-side-steps-rail-steps-rock-sliders-for-jeep-wrangler-jlu-4dr-2018-up-dual-style): Transform your 2018-2021 JLU with our heavy-duty steel off-road protection! Enjoy rugged style, enhanced entrance, and durability—all without extra hardware.
-  Updated: 2026-10-24T16:41:56Z
+- [Exterior Part, Wrangler 18-18 Pair Kit Set | GENSSI](https://genssi.com/products/running-boards-side-steps-rail-steps-rock-sliders-for-jeep-wrangler-jlu-4dr-2018-up-dual-style): replacement LED light for Wrangler JL 18-18. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T20:48:57Z
   Vendor: GENSSI
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JLU-19-06-STP_03__70566.1599857032.1280.1280.jpg?v=1769032987
   Price: $399.95 USD
-- [Running Boards Side Steps Rail Steps Rock Sliders for Jeep Wrangler JLU 4dr 2018 up Tube Style](https://genssi.com/products/running-boards-side-steps-rail-steps-rock-sliders-for-jeep-wrangler-jlu-4dr-2018-up-tube-style): Elevate your 2018-2021 JLU's style and protection with our heavy-duty steel rock sliders. Rugged design ensures durability, perfect for off-road adventures!
-  Updated: 2026-10-24T00:10:04Z
+- [Exterior Part, Wrangler 18-18 Pair Kit Set | GENSSI](https://genssi.com/products/running-boards-side-steps-rail-steps-rock-sliders-for-jeep-wrangler-jlu-4dr-2018-up-tube-style): replacement LED light for Wrangler JL 18-18. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T20:48:57Z
   Vendor: GENSSI
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JLU-19-07-SIDESTEPS_02__35527.1600201870.1280.1280.jpg?v=1769033166
   Price: $399.95 USD
-- [Running Boards Side Steps Rail Steps Rock Sliders for Jeep Wrangler JLU 4dr 2018 up Step Style](https://genssi.com/products/running-boards-side-steps-rail-steps-rock-sliders-for-jeep-wrangler-jlu-4dr-2018-up-step-style): Elevate your JLU's style with our heavy-duty, rust-proof rock sliders. Designed for rugged durability and easy entry, they’re perfect for off-road adventures.
-  Updated: 2026-10-24T16:41:57Z
+- [Exterior Part, Wrangler 18-18 Pair Kit Set | GENSSI](https://genssi.com/products/running-boards-side-steps-rail-steps-rock-sliders-for-jeep-wrangler-jlu-4dr-2018-up-step-style): replacement LED light for Wrangler JL 18-18. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T20:48:58Z
   Vendor: GENSSI
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JLU-19-10-SIDESTEPS_01__59486.1600284639.1280.1280.jpg?v=1769033167
   Price: $399.95 USD
-- [Titanium Engine Bay Cover Bolts and Washers for Ferrari 360 and Challenge 14pcs Set](https://genssi.com/products/titanium-engine-bay-cover-bolts-and-washers-for-ferrari-360-and-challenge-14pcs-set): Transform your Ferrari 360 with lightweight, rust-free titanium engine bay cover bolts. Enjoy 50% less weight & superior style with this complete kit!
-  Updated: 2026-10-23T21:50:02Z
+- [Titanium Engine Bay Cover Bolts and Pair Kit | GENSSI](https://genssi.com/products/titanium-engine-bay-cover-bolts-and-washers-for-ferrari-360-and-challenge-14pcs-set): Transform your Ferrari 360 with lightweight, rust-free titanium engine bay cover bolts. Enjoy 50% less weight & superior style with this complete kit!
+  Updated: 2026-11-17T15:27:28Z
   Vendor: GENSSI
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/BOLT-KIT-14_5__58894.1602449333.1280.1280.jpg?v=1766449522
   Price: $64.95 USD
-- [H11 Input Power Wire Car to 9006 Connector (2 Pack)](https://genssi.com/products/h11-input-power-wire-car-to-9006-connector-2-pack): Upgrade your HID kit with GENSSI H11 Input Power Plugs! Enjoy a hassle-free, plug-n-play installation and high-quality copper wiring for peak performance.
-  Updated: 2026-10-23T21:50:03Z
+- [H11 Input Power Wire Car to 9006 Connector | GENSSI](https://genssi.com/products/h11-input-power-wire-car-to-9006-connector-2-pack): Upgrade your HID kit with GENSSI H11 Input Power Plugs! Enjoy a hassle-free, plug-n-play installation and high-quality copper wiring for peak performance.
+  Updated: 2026-11-17T15:27:27Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/H11INPT__28556.1604003754.1280.1280.jpg?v=1769033106
   Price: $8.95 USD
-- [80W LED For Honda trx350 trx420 trx500 MUV700 34901-HP5-601](https://genssi.com/products/80w-led-for-honda-trx350-trx420-trx500-muv700-34901-hp5-601): Enhance your visibility with our durable, cool white LED bulbs! Experience 900 Lumens brightness and up to 10x longer life. Perfect fit for select models!
-  Updated: 2026-11-08T23:53:16Z
+- [80W LED For Honda trx350 trx420 Pair Kit Set | GENSSI](https://genssi.com/products/80w-led-for-honda-trx350-trx420-trx500-muv700-34901-hp5-601): Enhance your visibility with our durable, cool white LED bulbs! Experience 900 Lumens brightness and up to 10x longer life. Perfect fit for select models!
+  Updated: 2026-11-19T16:04:06Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/2x_5259-80w-W-0-main_-_Copy__31987.1605041580.1280.1280.jpg?v=1769032987
   Price: $44.95 USD
-- [LED Conversion Kit Bulbs GX7 Pro Compatible with Volvo VN VNL 2004-2018 Low and High](https://genssi.com/products/led-conversion-kit-bulbs-gx7-pro-compatible-with-volvo-vn-vnl-2004-2018-low-and-high): Upgrade your Volvo truck's visibility with our LED Headlight Bulb Kit. Experience 2-3X brighter performance than halogen bulbs.
-  Updated: 2026-10-23T22:14:20Z
+- [LED Conversion Kit Bulbs GX7 Pro, Volvo VNL 04-18 | GENSSI](https://genssi.com/products/led-conversion-kit-bulbs-gx7-pro-compatible-with-volvo-vn-vnl-2004-2018-low-and-high): LED LED bulb kit for listed vehicles 04-18. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:27:29Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/GX7-9005_VNL__06576.1605112488.1280.1280.jpg?v=1769033046
   Price: $129.95 USD
-- [Fog Light Wiring Harness Connectors for Jeep Wrangler Gladiator](https://genssi.com/products/fog-light-wiring-harness-connectors-for-jeep-wrangler-gladiator): Elevate your Jeep JL or Gladiator with our hassle-free Fog Light Wiring Harness! Designed for seamless installation of LED fog lights. Shine brighter today!
-  Updated: 2026-10-25T05:34:16Z
+- [Fog Light Wiring Harness Connectors for Jeep | GENSSI](https://genssi.com/products/fog-light-wiring-harness-connectors-for-jeep-wrangler-gladiator): replacement light for Gladiator JT. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the product.
+  Updated: 2026-11-17T15:27:30Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JL_halo_fog_light_wiring-02__81007.1605215663.1280.1280.jpg?v=1769033047
   Price: $19.95 USD
-- [LED Wheel Light Kit Chase Moving Signal and Brake Function Wireless 18"](https://genssi.com/products/led-wheel-light-kit-chase-moving-signal-and-brake-function-wireless-18): Elevate your ride with our 600 LED Dual Layer Motion Chasing Wheel Light Kit! Twice the brightness and customizable patterns. Get noticed today!
-  Updated: 2026-10-29T18:27:07Z
+- [LED Wheel Light Kit Chase Moving Pair Set | GENSSI](https://genssi.com/products/led-wheel-light-kit-chase-moving-signal-and-brake-function-wireless-18): LED headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the.
+  Updated: 2026-11-17T16:35:19Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/2020-12-03_1__04933.1607105746.1280.1280.jpg?v=1769033227
   Price: $299.99 USD
 - [Clutch Stop Replacement Upgraded Metal for BMW E36 E46](https://genssi.com/products/clutch-stop-replacement-upgraded-metal-for-bmw): Upgrade your BMW with our durable metal Clutch Stop, improving pedal response and acceleration. Fits various manual models for better performance!
-  Updated: 2026-10-25T05:34:17Z
+  Updated: 2026-11-17T15:27:33Z
   Vendor: GENSSI
   Product Type: Performance
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/ClutchStopMai3n__06693.1609351765.1280.1280.jpg?v=1769033167
   Price: $19.95 USD
-- [Amber 240 LED Emergency Strobe Light Warning Flash Lamp](https://genssi.com/products/amber-240-led-emergency-strobe-light-warning-flash-lamp): Enhance your vehicle's visibility with the Amber 240 LED Car Roof Emergency Strobe Light. Durable, waterproof, and packed with 7 flashing patterns for safety!
-  Updated: 2026-10-29T18:27:08Z
+- [Amber 240 LED Emergency Strobe Light Pair | GENSSI](https://genssi.com/products/amber-240-led-emergency-strobe-light-warning-flash-lamp): LED light for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the product.
+  Updated: 2026-11-17T16:35:21Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/TAUS784_STROBE_5__25365.1609876614.1280.1280.jpg?v=1766449623
   Price: $48.99 USD
-- [White Amber 36 LED Emergency Strobe Light Flash Beacon Lamp](https://genssi.com/products/white-amber-36-led-emergency-strobe-light-flash-beacon-lamp): Illuminate your safety with our White/Amber 36 LED Emergency Warning Flash Strobe Light! Features 15 strobe patterns, long lifespan, and strong magnetic base.
-  Updated: 2026-10-29T18:27:09Z
+- [White Amber 36 LED Emergency Strobe Pair Kit | GENSSI](https://genssi.com/products/white-amber-36-led-emergency-strobe-light-flash-beacon-lamp): LED light for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the product.
+  Updated: 2026-11-17T16:35:22Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/amber_white_strobe_3__83329.1609891707.1280.1280.jpg?v=1769033168
   Price: $49.99 USD
-- [White/Amber 240 LED  Emergency Warning Flash Strobe Light Waterproof 12"](https://genssi.com/products/white-amber-240-led-emergency-warning-flash-strobe-light-waterproof-12): Illuminate your path with GENSSI's Amber/White 240 LED Emergency Strobe Lights. Waterproof and powerful, perfect for any situation! 50,000-hour lifespan!
-  Updated: 2026-10-29T18:27:10Z
+- [White/Amber 240 LED Emergency Warning Flash | GENSSI](https://genssi.com/products/white-amber-240-led-emergency-warning-flash-strobe-light-waterproof-12): Illuminate your path with GENSSI's Amber/White 240 LED Emergency Strobe Lights. Waterproof and powerful, perfect for any situation! 50,000-hour lifespan!
+  Updated: 2026-11-17T15:27:36Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/white_amber_strobe_1__30539.1609966268.1280.1280.jpg?v=1766449649
   Price: $49.99 USD
-- [31" Inch 28 LED Emergency Warning Flash Strobe Light Bar](https://genssi.com/products/31-inch-28-led-emergency-warning-flash-strobe-light-bar): Brighten your road safety with our Amber/White 31" LED Strobe Light Bar! 28 high-intensity LEDs ensure visibility day and night. Perfect for emergencies!
-  Updated: 2026-10-29T18:27:11Z
+- [31" Inch 28 LED Emergency Warning Pair Kit | GENSSI](https://genssi.com/products/31-inch-28-led-emergency-warning-flash-strobe-light-bar): Brighten your road safety with our Amber/White 31" LED Strobe Light Bar! 28 high-intensity LEDs ensure visibility day and night. Perfect for emergencies!
+  Updated: 2026-11-17T15:27:37Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/LED_LIGHT_BAR6__63023.1609983390.1280.1280.jpg?v=1766449662
   Price: $79.95 USD
-- [Amber/White 17" 48 LED Emergency Strobe Visor Light Bars](https://genssi.com/products/amber-white-17-48-led-emergency-strobe-visor-light-bars): Enhance safety with our 17" Amber/White 48W Emergency Split Strobe Visor Light. Features 26 flash modes and lasts over 50,000 hours. Perfect for any vehicle!
-  Updated: 2026-10-29T18:27:12Z
+- [Amber/White 17" 48 LED Emergency Strobe Pair | GENSSI](https://genssi.com/products/amber-white-17-48-led-emergency-strobe-visor-light-bars): LED light for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the product.
+  Updated: 2026-11-17T16:35:24Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/led_light_bar_2_1__40367.1609984802.1280.1280.jpg?v=1769033106
   Price: $129.95 USD
-- [Amber 17" 32 LED  Emergency Strobe Warning Flashing Lamp](https://genssi.com/products/amber-17-32-led-emergency-strobe-warning-flashing-lamp): Elevate safety with the Amber 17" 48W Emergency Strobe Visor Light. Compact, durable, and packed with 26 flash modes. Your ultimate visibility solution!
-  Updated: 2026-10-29T18:27:13Z
+- [Amber 17" 32 LED Emergency Strobe Pair Kit | GENSSI](https://genssi.com/products/amber-17-32-led-emergency-strobe-warning-flashing-lamp): Elevate safety with the Amber 17" 48W Emergency Strobe Visor Light. Compact, durable, and packed with 26 flash modes. Your ultimate visibility solution!
+  Updated: 2026-11-17T15:27:40Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/AAMBER_LED_BARS_1__86528.1609986893.1280.1280.jpg?v=1769033046
   Price: $99.95 USD
-- [LED Headlights OEM Style for Volvo VNL VNM VNX 2004-2017 300/430/630/670/730/780](https://genssi.com/products/led-headlights-oem-style-for-volvo-vnl-vnm-vnx-2004-2017-300-430-630-670-730-780): Illuminate your night drives with our GENSSI LED Headlights! Experience premium quality, sleek design, and effortless installation for enhanced visibility.
-  Updated: 2026-10-25T16:09:41Z
+- [LED Headlights OEM Style for Volvo VNL 04-17 | GENSSI](https://genssi.com/products/led-headlights-oem-style-for-volvo-vnl-vnm-vnx-2004-2017-300-430-630-670-730-780): Illuminate your night drives with our GENSSI LED Headlights! Experience premium quality, sleek design, and effortless installation for enhanced visibility.
+  Updated: 2026-11-17T15:27:39Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/2004-2017__00616.1611777326.1280.1280.jpg?v=1769033406
   Price: $459.95 USD
-- [LED Headlights OEM Style for International ProStar 2008-2017](https://genssi.com/products/led-headlights-oem-style-for-international-prostar-2008-2017): Upgrade your ride with GENSSI's LED Headlights! Experience brighter nights and lasting performance. Sleek design, easy fitment for 2008-2017 INTERNATIONAL.
-  Updated: 2026-10-25T19:34:30Z
+- [LED Headlights OEM Style for International 08-17 | GENSSI](https://genssi.com/products/led-headlights-oem-style-for-international-prostar-2008-2017): Upgrade your ride with GENSSI's LED Headlights! Experience brighter nights and lasting performance. Sleek design, easy fitment for 2008-2017 INTERNATIONAL.
+  Updated: 2026-11-17T15:27:40Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/PROSTAR__04002.1612830650.1280.1280.jpg?v=1769033106
   Price: $299.95 USD
-- [7443 LED No Hyper Flash Only for Jeep Park Lamp Lights (White or Amber)](https://genssi.com/products/7443-led-no-hyper-flash-only-for-jeep-park-lamp-lights-white-or-amber): Upgrade your Jeep Wrangler JL / JLU with our powerful front fender lights! Choose between stunning cool white and amber for enhanced visibility. Error-free!
-  Updated: 2026-10-25T05:34:26Z
+- [7443 LED No Hyper Flash Only for Jeep Amber | GENSSI](https://genssi.com/products/7443-led-no-hyper-flash-only-for-jeep-park-lamp-lights-white-or-amber): LED headlight for listed applications. no hyper flash Refs: 7443. Confirm options on the product page before install Confirm connector style on the page.
+  Updated: 2026-11-17T16:35:24Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -2157,85 +2143,85 @@
   - [Amber](https://genssi.com/products/7443-led-no-hyper-flash-only-for-jeep-park-lamp-lights-white-or-amber?variant=43362076917843)
     Availability: Available
     Price: $31.95 USD
-- [Tire Carrier Spare Tire Color LED Lighting Kit with Remote](https://genssi.com/products/tire-carrier-spare-tire-color-led-lighting-kit-with-remote): Enhance visibility with our Spare Tire LED Light Wheel Carrier! Easily install color options for any lighting condition, perfect for outdoor adventures!
-  Updated: 2026-10-23T21:50:06Z
+- [Tire Carrier Spare Tire Color LED Pair Kit | GENSSI](https://genssi.com/products/tire-carrier-spare-tire-color-led-lighting-kit-with-remote): Enhance visibility with our Spare Tire LED Light Wheel Carrier! Easily install color options for any lighting condition, perfect for outdoor adventures!
+  Updated: 2026-11-17T15:27:43Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/CHASE-TIRELED-LIGHT-RED-AZ__73519.1617120984.1280.1280.jpg?v=1769033108
   Price: $69.95 USD
-- [Adapter Cable For BMW 20 Pin To OBD2 Female 16 Pin 1987-2002](https://genssi.com/products/adapter-cable-for-bmw-20-pin-to-obd2-female-16-pin-1987-2002): Connect your BMW's diagnostic tools effortlessly with our 20 Pin to OBD2 Adapter Cable. Compatible with models from 1987-2002, experience seamless diagnostics!
-  Updated: 2026-10-23T21:59:41Z
+- [Electrical, BMW 20 Pin 1987-2002 Pair Kit | GENSSI](https://genssi.com/products/adapter-cable-for-bmw-20-pin-to-obd2-female-16-pin-1987-2002): replacement headlight for listed applications 1987-2002. Factory-style replacement as listed. Confirm options on the product page before install.
+  Updated: 2026-11-17T15:27:46Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/BM-OBD2__37650.1627403564.1280.1280.jpg?v=1769033046
   Price: $19.95 USD
-- [Adapter Cable for GM 12PIN to OBD2 16PIN ALDL](https://genssi.com/products/adapter-cable-for-gm-12pin-to-obd2-16pin-aldl): Unlock your GM vehicle's diagnostic potential with our 12 Pin OBD1 to 16 Pin OBD2 Converter Cable. Compatible with models pre-1996 for accurate scanning.
-  Updated: 2026-10-25T05:34:28Z
+- [Adapter Cable for GM 12PIN to, 82-95 Pair | GENSSI](https://genssi.com/products/adapter-cable-for-gm-12pin-to-obd2-16pin-aldl): Unlock your GM vehicle's diagnostic potential with our 12 Pin OBD1 to 16 Pin OBD2 Converter Cable. Compatible with models pre-1996 for accurate scanning.
+  Updated: 2026-11-17T15:27:46Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/GM-OBD2_4__77633.1627410577.1280.1280.jpg?v=1769033106
   Price: $19.95 USD
-- [Adapter Cable for Nissan Infiniti 14pin OBD1 to 16pin OBD2](https://genssi.com/products/adapter-cable-for-nissan-infiniti-14pin-obd1-to-16pin-obd2): Easily connect your Nissan's 14-pin Consult port to a standard OBD2 scanner with our adapter. Unlock advanced diagnostics and enjoy seamless compatibility!
-  Updated: 2026-11-10T18:11:46Z
+- [Adapter Cable for Nissan Infiniti 14pin Pair | GENSSI](https://genssi.com/products/adapter-cable-for-nissan-infiniti-14pin-obd1-to-16pin-obd2): Easily connect your Nissan's 14-pin Consult port to a standard OBD2 scanner with our adapter. Unlock advanced diagnostics and enjoy seamless compatibility!
+  Updated: 2026-11-17T15:27:47Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/NSN-OBD2_2__50887.1627420461.1280.1280.jpg?v=1769033046
   Price: $24.95 USD
-- [7" DEMON EYE LED Headlights with Remote & Matching Fog Lamps](https://genssi.com/products/7-inch-demon-eye-led-headlights-with-remote-control-with-matching-fog-lamps): Unleash Your Jeep’s Inner Beast with DEMON EYE LED Headlights & Fog Lights Transform your Jeep into a head-turning machine with the cutting-edge DEMON EYE LED Headlight and Fog Light kit. Featuring a mesmerizing 3D chasing halo ring and powerful dual projector lenses, these lights offer a sleek, modern aesthetic that will set your ride apart from the crowd. Control the vibrant halo effects with a convenient remote or the intuitive PRO RGB app, allowing you to customize your Jeep’s look on the fly. Why You Need This Command Attention: Stand out with unique, customizable halo ring effects that sync to your style, controlled via remote or smartphone app. Superior Illumination: Dual projector lenses deliver crisp, clear light with 3200 Lumens on low beam and 6400 Lumens on high beam (6000-6500K cool white). Effortless Integration: Designed for easy plug-and-play installation with included wiring adapters and comprehensive instructions. Complete Appearance Upgrade: Includes matching fog lamps specifically designed for JK/JKU models to create a unified, aggressive look. Technical Specifications Part Numbers 7 Inch DEMON EYE LED Headlights Kit, Matching Fog Lamps Kit Fitment Headlights: 7 Inch type, fits H6024, H6017. Compatible with Jeep Wrangler CJ, TJ, JK up to 2018. Fog Lamps: Specifically for Jeep Wrangler JK JKU 2 door and 4 door models from 2007 to 2018. Specs Headlight Lumens: Low Beam 3200 LM / High Beam 6400 LM Color Temperature: 6000-6500K Cool White Halo Control: Remote Control or PRO RGB Bluetooth App (iOS/Android) Headlight Connections: H4/H13 harness Halo Power: Wireless controller requiring switched 12V+ power (fuse box recommended) Halo Wire Options: Can be wired to turn signals (Yellow/Green wires) Included in Headlight Kit: 2x 7-inch LED Headlights, 1x Controller, 1x Remote, Wiring Adapters Included in Fog Light Kit: 2x Matching Fog Lamps (for JK/JKU 2007-2018 ONLY) At GENSSI, we stand behind the quality and innovation of our products. Experience the GENSSI Promise: superior performance, cutting-edge technology, and a commitment to customer satisfaction. Installation Park on level ground, turn the engine off, and disconnect the negative battery cable. Remove the parts being replaced (grille, headlights, fog lights, or tail lights) following the factory layout for your Jeep. Unplug each old light from the harness and plug in the new one, using any included adapters. Test every light (high/low, DRL, turn, fog, brake/tail as applicable) before final mounting. Mount the new parts with the factory or supplied hardware and reinstall trim. Reconnect the battery and aim the headlights before night driving. Some vehicles may need anti-flicker or CANbus decoders. Professional installation is recommended if you are unsure.
-  Updated: 2026-10-25T16:09:43Z
+- [7" DEMON EYE LED Headlights with Remote & Matching Fog Lamps](https://genssi.com/products/7-inch-demon-eye-led-headlights-with-remote-control-with-matching-fog-lamps): LED light for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on the product.
+  Updated: 2026-11-17T16:35:27Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JK-DEMONEYE_FOG-JK-az__60328.1628185216.1280.1280.jpg?v=1769032987
   Price: $299.99 USD
-- [Demon Eye LED Headlights Fog Lights Kit for Wrangler JL JLU  Gladiator 2018 Up](https://genssi.com/products/demon-eye-led-headlights-fog-lights-kit-for-wrangler-jl-jlu-gladiator-2018-up): Transform your Jeep with the Demon Series LED headlights/fog combo. Cutting-edge design & features, including a stunning halo ring controlled by app or remote!
-  Updated: 2026-10-29T18:27:15Z
+- [LED Fog Lights Driving Lamp, Wrangler 18-18 | GENSSI](https://genssi.com/products/demon-eye-led-headlights-fog-lights-kit-for-wrangler-jl-jlu-gladiator-2018-up): LED fog light for Wrangler JL 18-18. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:27:52Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JL-DEMONEYE_FOG-JK-az__66414.1628185663.1280.1280.jpg?v=1769033166
   Price: $299.95 USD
-- [Demon Eye LED Headlights Fog Lights Kit for Wrangler JL JLU  Sport Sport S 2018 Up](https://genssi.com/products/demon-eye-led-headlights-fog-lights-kit-for-wrangler-jl-jlu-sport-sport-s-2018-up): Illuminate your ride with GENSSI's Demon Series LED headlights! Powerful dual projectors and stunning 3D halo rings elevate your Jeep Wrangler to new heights.
-  Updated: 2026-10-29T18:27:16Z
+- [LED Fog Lights Driving Lamp, Wrangler 18-18 | GENSSI](https://genssi.com/products/demon-eye-led-headlights-fog-lights-kit-for-wrangler-jl-jlu-sport-sport-s-2018-up): LED fog light for Wrangler JL 18-18. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:27:52Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JL-DEMONEYE_FOG-JL-az__65449.1628186200.1280.1280.jpg?v=1769033046
   Price: $349.95 USD
-- [BA9S 47830 Interior Map Dome Vanity Mirror Light Bulbs White (4 Pack)](https://genssi.com/products/ba9s-47830-interior-map-dome-vanity-mirror-light-bulbs-white-4-pack): Brighten up your ride with our BA9S LED bulbs featuring 5 SMD 5050 per chip! Perfect for instrument clusters, dashboard gauges, and more. Upgrade today!
-  Updated: 2026-10-25T05:34:27Z
+- [BA9S 47830 Interior Map Dome Vanity Pair Kit | GENSSI](https://genssi.com/products/ba9s-47830-interior-map-dome-vanity-mirror-light-bulbs-white-4-pack): Brighten up your ride with our BA9S LED bulbs featuring 5 SMD 5050 per chip! Perfect for instrument clusters, dashboard gauges, and more. Upgrade today!
+  Updated: 2026-11-17T15:27:52Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/BA9S-5SMD-W__78782.1636519827.1280.1280.jpg?v=1769032925
   Price: $9.95 USD
-- [H4351/H4352 LED Sealed Beam Headlights for 1993-1997 Camaro (Pair)](https://genssi.com/products/h4351-h4352-led-sealed-beam-replacement-headlights-for-camaro-1993-1997-2-pack): Fits: 1993-1997 Chevrolet Camaro; 1992-1997 Oldsmobile Cutlass Supreme FWD; 1991-1996 Pontiac Grand Prix; 1992-1993 Geo Storm Why You'll Like It Up to 3x brighter than traditional sealed beams for better night visibility Triple projector design for a focused, sharp beam that keeps glare off oncoming drivers Long life and low power draw from modern LED technology Black housing with a clear polycarbonate lens for a modern front end Specifications Part numbers H4351, H4352 Type LED sealed beam replacement Beam type Triple projector LED wattage 30W per lamp Housing color Black Lens material Polycarbonate What's in the Box Sold as a pair. Buy two sets (4 total) to replace all four lamps. Common Questions Will this fit my 1995 Camaro?Yes. It's made for the 1993-1997 Camaro with any engine, plus the 1992-1997 Cutlass Supreme FWD, 1991-1996 Grand Prix and 1992-1993 Geo Storm. How many do I need?These cars use four lamps. One pair covers two; order two sets for all four. Is shipping free?Yes. Shipping is free on every order to the contiguous lower 48 states. Large items ship UPS (a signature may be required); items under 1 lb ship USPS First Class. Can I return it?Yes. Most new, unopened items can be returned within 30 days of delivery with an RMA number. Used or scratched items may carry a restocking fee of up to 25%, and original shipping isn't refundable. How does the warranty work?Coverage starts on the purchase date for the original purchaser, and a covered part is replaced by exchange. Installation Park on level ground, turn the engine off, and disconnect the negative battery cable. Remove the headlight bezel or trim ring screws to reach the existing sealed-beam headlight. Remove the retaining ring, pull the old headlight forward, and unplug it from the harness. Plug the new headlight into the factory connector and test high/low beam before final mounting. Set the new headlight in the bucket, reinstall the retaining ring and bezel. Reconnect the battery, check all functions, and aim the headlights before night driving. These are direct-replacement sealed-beam style lights for the listed sizes. Some vehicles may need anti-flicker or CANbus decoders. Professional installation is recommended if you are unsure.
-  Updated: 2026-11-12T03:29:17Z
+- [H4351/H4352 LED Sealed Beams, 1993-1997 Camaro | GENSSI](https://genssi.com/products/h4351-h4352-led-sealed-beam-replacement-headlights-for-camaro-1993-1997-2-pack): H4351/H4352 LED sealed beam headlights for 1993-1997 Camaro plus listed GM fits. Each 30W triple-projector lamp is up to 3x brighter than halogen.
+  Updated: 2026-11-17T15:27:53Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/CMRO-HDLT_02__48553.1637255273.1280.1280.jpg?v=1773163732
   Price: $99.95 USD
-- [LED Under Body Fender Bumper Kit for Jeep Wrangler Flexible Wireless](https://genssi.com/products/led-under-body-fender-bumper-kit-for-jeep-wrangler-flexible-wireless): Transform your Jeep Wrangler with our flexible LED Under Body Fender Bumper Kit. Control lighting wirelessly and enhance your off-road style today!
-  Updated: 2026-10-24T16:41:46Z
+- [LED Under Body Fender Bumper Kit for Jeep | GENSSI](https://genssi.com/products/led-under-body-fender-bumper-kit-for-jeep-wrangler-flexible-wireless): Transform your Jeep Wrangler with our flexible LED Under Body Fender Bumper Kit. Control lighting wirelessly and enhance your off-road style today!
+  Updated: 2026-11-17T15:27:54Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/02__06192.1637267788.1280.1280.jpg?v=1769033047
   Price: $159.95 USD
-- [LED Ballast Driver Module Headlight for Ford F150 F250 F350 Expedition](https://genssi.com/products/led-ballast-driver-module-headlight-for-ford-f150-f250-f350-expedition): Upgrade your Ford headlights with our Replacement LED Control Module, eliminating flickering issues. Compatible with select F-Series and Expedition models.
-  Updated: 2026-10-25T05:34:30Z
+- [LED w/ Module Lamp Pair, Expedition 15-20 | GENSSI](https://genssi.com/products/led-ballast-driver-module-headlight-for-ford-f150-f250-f350-expedition): Upgrade your Ford headlights with our Replacement LED Control Module, eliminating flickering issues. Compatible with select F-Series and Expedition models.
+  Updated: 2026-11-17T11:22:50Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/IMG_20211202_162417__65444.1638551899.1280.1280.jpg?v=1766449989
   Price: $129.95 USD
-- [19 Inch Challenge Stradale style Wheels for Ferrari 360 F430](https://genssi.com/products/19-inch-challenge-stradale-style-wheels-for-ferrari-360-f430): Upgrade your Ferrari's style and performance with our set of 4 CNC machined forged wheels. Perfect fit for multiple models, featuring stunning bronze finish!
-  Updated: 2026-09-01T04:32:57Z
+- [19 Inch Challenge Stradale style Wheels Pair | GENSSI](https://genssi.com/products/19-inch-challenge-stradale-style-wheels-for-ferrari-360-f430): replacement headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on.
+  Updated: 2026-11-17T15:27:57Z
   Vendor: GENSSI
   Product Type: Wheels
   Availability: Available
@@ -2255,43 +2241,43 @@
   - [Bronze](https://genssi.com/products/19-inch-challenge-stradale-style-wheels-for-ferrari-360-f430?variant=43362080227411)
     Availability: Available
     Price: $2,799.99 USD
-- [M6 Titanium Hex Nut Grade 5 GR5 Smooth Flange (Pack of 8)](https://genssi.com/products/m6-titanium-hex-nut-grade-5-gr5-smooth-flange-pack-of-8): Upgrade your project with M6 Smooth Flange Grade 5 Titanium Nuts! Stronger than Grade 2, perfect for durability. Pack of 8 for ultimate reliability.
-  Updated: 2026-10-25T05:34:29Z
+- [M6 Titanium Hex Nut Grade 5 GR5 Smooth Pair | GENSSI](https://genssi.com/products/m6-titanium-hex-nut-grade-5-gr5-smooth-flange-pack-of-8): Upgrade your project with M6 Smooth Flange Grade 5 Titanium Nuts! Stronger than Grade 2, perfect for durability. Pack of 8 for ultimate reliability.
+  Updated: 2026-11-17T15:27:57Z
   Vendor: GENSSI
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/M6-NUT_6__62071.1660242760.1280.1280.jpg?v=1769033106
   Price: $20.95 USD
-- [Left Door Seal Rubber for BMW E36 Coupe 2 Door 2dr 51711977727 51712138957](https://genssi.com/products/left-door-seal-rubber-for-bmw-e36-coupe-2-door-2dr-51711977727-51712138957): Upgrade your E36 Coupe with our heavy-duty aftermarket door seal, built to outperform OEM. Experience tighter closes & enhanced durability for a smoother ride!
-  Updated: 2026-10-30T20:13:28Z
+- [Left Door Seal Rubber for BMW Pair Kit Set | GENSSI](https://genssi.com/products/left-door-seal-rubber-for-bmw-e36-coupe-2-door-2dr-51711977727-51712138957): replacement headlight for listed applications. Factory-style replacement as listed. Confirm options on the product page before install Review fitment on.
+  Updated: 2026-11-18T01:54:47Z
   Vendor: GENSSI
   Product Type: Exterior Part
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/DRIVER-RUBBER-SEAL__86846.1666199516.1280.1280.jpg?v=1772852569
   Price: $149.99 USD
-- [OEM Type Xenon HID Ballast for Dodge Charger Challenger 2015-2022 68254149AA Module](https://genssi.com/products/oem-type-xenon-hid-ballast-for-dodge-charger-challenger-2015-2022-68254149aa-module): Upgrade your ride with our OEM Type ballast controller, compatible with Dodge Charger and Challenger (2015-2022). Easy install with included hardware!
-  Updated: 2026-10-24T17:01:36Z
+- [HID w/ Module Lamp Pair, Challenger 15-22 | GENSSI](https://genssi.com/products/oem-type-xenon-hid-ballast-for-dodge-charger-challenger-2015-2022-68254149aa-module): Upgrade your ride with our OEM Type ballast controller, compatible with Dodge Charger and Challenger (2015-2022). Easy install with included hardware!
+  Updated: 2026-11-17T15:28:00Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/Ebay-Main__04233.1666375992.1280.1280.jpg?v=1769033046
   Price: $49.95 USD
-- [LED Controller Replacement Ballast for Ford Explorer XLT Platinum Limited 2016-2019](https://genssi.com/products/led-controller-replacement-ballast-for-ford-explorer-xlt-platinum-limited-2016-2019): Upgrade your Ford Explorer's lighting with our top-grade LED Controller. Perfect fit for 2016-2019 models, ensuring high performance and compatibility.
-  Updated: 2026-10-25T05:34:31Z
+- [LED Lighting, Explorer 16-19 Pair Kit Set | GENSSI](https://genssi.com/products/led-controller-replacement-ballast-for-ford-explorer-xlt-platinum-limited-2016-2019): Upgrade your Ford Explorer's lighting with our top-grade LED Controller. Perfect fit for 2016-2019 models, ensuring high performance and compatibility.
+  Updated: 2026-11-17T15:28:02Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/Main-2__09977.1666733097.1280.1280.jpg?v=1769033047
   Price: $54.95 USD
-- [80W LED For Honda ATV 92069-0019 34901-HR3-A21 Headlight Bulbs (2 Pack)](https://genssi.com/products/80w-led-for-honda-atv-92069-0019-34901-hr3-a21-headlight-bulbs-2-pack): Transform your Honda ATV with 6000K white LEDs for modern style and long-lasting performance. Ditch the halogens and enjoy reliability on every adventure!
-  Updated: 2026-11-09T12:53:58Z
+- [80W LED For Honda ATV 92069-0019 Pair Kit | GENSSI](https://genssi.com/products/80w-led-for-honda-atv-92069-0019-34901-hr3-a21-headlight-bulbs-2-pack): Transform your Honda ATV with 6000K white LEDs for modern style and long-lasting performance. Ditch the halogens and enjoy reliability on every adventure!
+  Updated: 2026-11-19T02:02:26Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/A-800W-W_Main__14857.1669846514.1280.1280.jpg?v=1769032926
   Price: $49.95 USD
-- [LED Conversion Kit Bulbs GX7 Pro Compatible with Western Star 5700XE 2019-2022](https://genssi.com/products/led-conversion-kit-bulbs-gx7-pro-compatible-with-western-star-5700xe-2019-2022): Upgrade your truck's lighting with our LED Headlight Bulb Kit! Enjoy 6000K white light, superior visibility, and long-lasting performance.
-  Updated: 2026-10-29T12:16:25Z
+- [LED Conversion Kit Bulbs GX7, Western Star 19-22 | GENSSI](https://genssi.com/products/led-conversion-kit-bulbs-gx7-pro-compatible-with-western-star-5700xe-2019-2022): LED LED bulb kit for listed vehicles 19-22. Factory-style replacement as listed. Confirm options on the product page before install Check listing specs.
+  Updated: 2026-11-17T15:28:03Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -2314,7 +2300,7 @@
   Updated: 2026-10-30T11:17:22Z
   Total Products: 7
 - [HID Ballasts](https://genssi.com/collections/hid-kits-hid-ballasts): Replacement HID ballasts, igniters and controllers, including 35W and 55W slim ballasts and OEM-type units listed for specific Acura, Dodge, Ford, Honda and…
-  Updated: 2026-11-09T12:14:18Z
+  Updated: 2026-11-17T12:24:49Z
   Total Products: 7
 - [LED Strips & Accent Lighting](https://genssi.com/collections/led-lighting-led-strips): LED strips, whip lights, wheel-light kits and RGB controllers for cars, trucks and Jeeps, plus Jeep-specific cargo and interior lighting kits.
   Updated: 2026-10-24T17:19:32Z
@@ -2326,7 +2312,7 @@
   Updated: 2026-11-11T23:01:04Z
   Total Products: 11
 - [HID Bulbs](https://genssi.com/collections/hid-kits-hid-bulbs): Replacement xenon HID bulbs in D1S, D1R, D2S, D2R, D3S, D4S and D4R with OEM cross-reference numbers, plus HID performance and Bi-Xenon bulb sets. Ships free.
-  Updated: 2026-10-24T17:19:38Z
+  Updated: 2026-11-19T12:15:10Z
   Total Products: 8
 - [Power Supplies](https://genssi.com/collections/led-lighting-power-supply): 12V power supplies, an AC power cord and an 8-gang RGB switch panel for powering LED lighting.
   Updated: 2026-10-24T17:19:32Z
@@ -2353,7 +2339,7 @@
   Updated: 2026-10-24T17:19:34Z
   Total Products: 7
 - [Sirens & Sound](https://genssi.com/collections/accessories-car-audio): Electronic sound accessories: a turbo blow-off valve sound maker and 5- and 7-tone siren/PA units.
-  Updated: 2026-10-24T17:19:34Z
+  Updated: 2026-11-16T12:14:23Z
   Total Products: 3
 - [LED Brake & Tail Bulbs](https://genssi.com/collections/led-bulbs-led-brake-tail-bulbs): LED replacement bulbs for brake, tail, turn and reverse lights: 1156, 1157, 3157 family and 7440/7443.
   Updated: 2026-10-24T17:19:34Z
@@ -2383,7 +2369,7 @@
   Updated: 2026-10-24T17:19:40Z
   Total Products: 15
 - [Vehicle-Specific Light Bars](https://genssi.com/collections/led-lighting-automotive-lighting-led-light-bars-vehicle-specific-led-light-bars): LED light bar kits with brackets and wiring for Jeep Wrangler JL, JK, TJ, YJ, Gladiator, Ford Super Duty and GMC Sierra / Chevy Silverado trucks as listed.
-  Updated: 2026-10-24T17:19:40Z
+  Updated: 2026-11-19T12:15:10Z
   Total Products: 11
 - [Jeep Accessories](https://genssi.com/collections/auto-parts-jeep-accessories): Jeep add-ons: A-pillar cube light brackets, a spare-tire LED lighting kit, fog light wiring connectors, a billet fuel door cap and light bar combo kits.
   Updated: 2026-10-24T17:19:36Z
@@ -2401,31 +2387,31 @@
   Updated: 2026-10-24T17:19:37Z
   Total Products: 2
 - [Door Seals](https://genssi.com/collections/auto-parts-door): Left and right door seal rubbers for BMW E36 coupe (2-door), with OEM part numbers in each title.
-  Updated: 2026-10-28T11:15:51Z
+  Updated: 2026-11-18T12:18:21Z
   Total Products: 2
 - [Performance Wheels](https://genssi.com/collections/wheels): Performance wheels listed for Ferrari 360 and F430, Ferrari 458 Italia and 488 GTB, Acura NSX 1991-2005 and Mitsubishi EVO8 2003-2005, in 17 to 20 inch sizes.
   Updated: 2026-10-24T17:19:40Z
   Total Products: 5
 - [Automotive Lighting](https://genssi.com/collections/automotive-lighting): LED headlights, tail lights, fog lights, light bars, LED and HID bulbs and accent lights for cars, trucks, Jeeps and motorcycles. Free shipping to the lower 48.
-  Updated: 2026-11-13T21:11:59Z
-  Total Products: 1536
+  Updated: 2026-11-21T23:23:32Z
+  Total Products: 1988
 - [Headlights](https://genssi.com/collections/headlights): Shop headlight assemblies by year, make, and model. Halogen, LED, and projector pairs, plus sealed-beam replacements in 7 inch, 5.75 inch, 7x6, and 4x6 sizes.
-  Updated: 2026-11-13T21:11:59Z
-  Total Products: 851
+  Updated: 2026-11-21T12:19:34Z
+  Total Products: 952
 - [LED Headlight Conversion Kits](https://genssi.com/collections/led-conversion-kits): Plug-in LED headlight and fog bulb kits: G7 Elite, GX7 Pro, GX8 and kits listed for semi trucks, pickups, SUVs, ATVs and UTVs. Free shipping to the lower 48.
-  Updated: 2026-11-08T12:17:03Z
+  Updated: 2026-11-18T12:18:21Z
   Total Products: 48
 - [Jeep Parts & Accessories](https://genssi.com/collections/jeep-parts): Parts for Jeep Wrangler (YJ, TJ, JK, JL), Gladiator and Grand Cherokee: grilles, bumpers, fenders, hoods, running boards, lighting and air intakes.
-  Updated: 2026-11-12T12:17:13Z
-  Total Products: 491
+  Updated: 2026-11-20T16:09:29Z
+  Total Products: 512
 - [Wiring & Electrical](https://genssi.com/collections/wiring-electrical): HID relay harnesses by bulb size, Bi-Xenon controllers, load resistors, light bar relays and harnesses, 12V relays and adapters. Free shipping to the lower 48.
-  Updated: 2026-11-13T12:15:05Z
-  Total Products: 52
+  Updated: 2026-11-20T21:00:46Z
+  Total Products: 54
 - [Featured Products](https://genssi.com/collections/-featured): Popular GENSSI picks, including the Camaro H4351/H4352 LED sealed beams, APOLLO XJ/YJ headlights, Ferrari 360/F430 wheels and the forklift towing receiver.
-  Updated: 2026-11-12T12:17:13Z
+  Updated: 2026-11-18T12:18:21Z
   Total Products: 7
 - [Jeep Grilles](https://genssi.com/collections/jeep-grilles): Replacement grilles and inserts for Jeep Wrangler JK (2007-2017), JL, TJ and Gladiator JT. Mesh, Vader, Shark, Warrior and LED styles. Free shipping, lower 48.
-  Updated: 2026-10-25T11:18:11Z
+  Updated: 2026-11-19T12:15:10Z
   Total Products: 71
 - [Jeep Air Intakes](https://genssi.com/collections/jeep-air-intakes): Cold air intakes and snorkels for Jeep Wrangler YJ, TJ, JK and JL, Gladiator, Cherokee, Grand Cherokee and Commander, listed by engine and year. Free shipping.
   Updated: 2026-10-27T11:17:14Z
@@ -2437,32 +2423,32 @@
   Updated: 2026-10-24T03:57:13Z
   Total Products: 22
 - [Jeep Headlights](https://genssi.com/collections/jeep-headlights): LED and projector headlights for Jeep Wrangler JL, JK, TJ, YJ, Gladiator and Cherokee XJ. 9 inch, 7 inch round and 7x6 sizes. Free shipping to the lower 48.
-  Updated: 2026-11-12T00:23:16Z
-  Total Products: 71
+  Updated: 2026-11-18T16:16:14Z
+  Total Products: 76
 - [Jeep Tail Lights](https://genssi.com/collections/jeep-tail-lights): LED and smoked tail lights for Jeep Wrangler JL, JK, TJ, YJ and CJ, Gladiator JT and Cherokee XJ, plus tail light guards. Free shipping to the lower 48.
-  Updated: 2026-11-12T12:17:13Z
-  Total Products: 55
+  Updated: 2026-11-20T16:09:29Z
+  Total Products: 67
 - [Jeep Hoods](https://genssi.com/collections/jeep-hoods): Replacement hoods for Jeep Wrangler JK (2007-2017), Wrangler JL and Gladiator JT (2018 and up) in AVENGER, MPR and AGGRESSOR styles. Free shipping, lower 48.
   Updated: 2026-10-24T00:39:34Z
   Total Products: 5
 - [Jeep Running Boards & Side Steps](https://genssi.com/collections/jeep-side-steps): Running boards, nerf bars, rock sliders and side steps for Jeep Wrangler JK (2007-2017) 2 and 4-door and JL 4-door (2018 and up). Free shipping to the lower 48.
-  Updated: 2026-10-24T00:39:35Z
+  Updated: 2026-11-18T12:18:21Z
   Total Products: 22
 - [Jeep Side Marker & Bumper Lights](https://genssi.com/collections/jeep-side-bumper-lights): Smoked, clear and LED side markers, corner lights and bumper signals for Jeep Wrangler YJ, TJ, JK and JL, Gladiator JT, Cherokee XJ and Grand Cherokee.
-  Updated: 2026-11-12T12:17:13Z
+  Updated: 2026-11-17T12:24:49Z
   Total Products: 29
 - [Jeep LED Fog Lights](https://genssi.com/collections/jeep-fog-lights): LED and halo fog lights for Jeep Wrangler JK (2007-2017), JL Sport, Rubicon and Sahara, Gladiator JT and Grand Cherokee, plus headlight and fog light kits.
   Updated: 2026-10-24T00:39:36Z
   Total Products: 20
 - [Tail Lights](https://genssi.com/collections/tail-lights): LED and smoked tail lights for Jeep Wrangler JL, JK, TJ, YJ, CJ and Gladiator JT, plus bumper reflector and spoiler lights. Free shipping to the lower 48.
-  Updated: 2026-11-12T12:17:13Z
-  Total Products: 347
+  Updated: 2026-11-20T20:59:03Z
+  Total Products: 543
 - [Fog Lights](https://genssi.com/collections/fog-lights): LED and halo fog lights for Jeep Wrangler JL, JK and Gladiator, rear bumper fog lights for Grand Cherokee WK2, and headlight-fog combos. Free US shipping.
-  Updated: 2026-11-13T12:15:05Z
-  Total Products: 82
+  Updated: 2026-11-20T20:58:53Z
+  Total Products: 85
 - [Side Marker & Bumper Lights](https://genssi.com/collections/side-marker-bumper-lights): LED and smoked side markers, corner lights, bumper turn signals and rear bumper lights for Jeep Wrangler JL, JK, TJ, YJ, Cherokee XJ and Grand Cherokee.
-  Updated: 2026-11-12T12:17:13Z
-  Total Products: 29
+  Updated: 2026-11-21T23:23:32Z
+  Total Products: 179
 - [Remote Starters](https://genssi.com/collections/remote-starters): Plug and play remote start kits for Jeep Wrangler JK, Grand Cherokee, Compass, Liberty and Patriot. Start with your factory key fob. Free shipping to lower 48.
   Updated: 2026-10-24T17:19:42Z
   Total Products: 5
@@ -2473,14 +2459,35 @@
   Updated: 2026-10-24T17:19:43Z
   Total Products: 12
 - [Light Bars](https://genssi.com/collections/light-bars): LED light bars from 7 to 50 inches, plus vehicle kits for Jeep, Silverado, Sierra and Super Duty, brackets, A-pillar kits and relay harnesses. Free shipping.
-  Updated: 2026-11-04T12:16:18Z
+  Updated: 2026-11-19T12:15:10Z
   Total Products: 50
 - [HID/LED Ballasts](https://genssi.com/collections/hid-led-ballasts): Replacement HID ballasts, OEM xenon ballast modules, igniters, LED headlight driver and DRL modules. Free shipping to the lower 48.
-  Updated: 2026-11-09T12:14:18Z
+  Updated: 2026-11-18T12:18:21Z
   Total Products: 58
 - [Best Sellers](https://genssi.com/collections/best-sellers)
-  Updated: 2026-11-13T21:11:59Z
-  Total Products: 1879
+  Updated: 2026-11-21T23:23:32Z
+  Total Products: 2472
+- [Tonneau Covers](https://genssi.com/collections/tonneau-covers): Shop GENSSI Tonneau Covers For Pickup Trucks In Soft Roll-Up And Hard Fold Styles By Bed Length.  Fitment For Silverado, Sierra, F-150, And Ram.
+  Updated: 2026-11-17T20:01:14Z
+  Total Products: 141
+- [Featured Best Sellers](https://genssi.com/collections/-bestsellers): Shop curated GENSSI bestsellers including headlights, Jeep Wrangler JL lights, truck tail lights, and tonneau covers selected for fit and demand.
+  Updated: 2026-11-17T20:49:57Z
+  Total Products: 12
+- [H11 LED & HID Bulbs](https://genssi.com/collections/h11-led-hid-bulbs): Shop H11 LED and HID headlight bulbs plus conversion kits. Fan-cooled and CANbus-ready options for cars, trucks, and Jeeps that use H11 bulb bases.
+  Updated: 2026-11-20T19:34:55Z
+  Total Products: 11
+- [Jeep Wrangler JL Lighting & Parts](https://genssi.com/collections/jeep-wrangler-jl-lighting): Shop Jeep Wrangler JL lighting and parts for 2018-up JL and JLU. Headlights, tails, fog lights, grilles, and armor matched to  JL fitment.
+  Updated: 2026-11-19T12:15:10Z
+  Total Products: 219
+- [Ram 2500 / 3500 HD Headlights & Tail Lights](https://genssi.com/collections/ram-2500-3500-hd-lighting): Shop Ram 2500 and 3500 HD headlights and tail lights for  years. Choose Halogen, Full LED, or LED-DRL housings built for factory fitment.
+  Updated: 2026-11-17T20:50:01Z
+  Total Products: 20
+- [CANBUS Error-Free LED & HID Kits](https://genssi.com/collections/canbus-error-free-led-hid-kits): Shop CANbus error-free LED and HID kits with flicker cancellers. Cut bulb-out warnings on trucks and cars with sensitive lighting control modules.
+  Updated: 2026-11-19T07:03:29Z
+  Total Products: 14
+- [Blind Spot (BSM/BLIS) Compatible Tail Lights](https://genssi.com/collections/blind-spot-tail-lights): Shop Blind Spot (BSM/BLIS) compatible tail lights for pickup trucks that retain radar sensors. Always confirm with-BLIS factory trim before ordering.
+  Updated: 2026-11-17T20:50:03Z
+  Total Products: 14
 
 ## Blogs
 
