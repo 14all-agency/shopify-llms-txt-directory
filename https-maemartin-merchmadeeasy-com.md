@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2026-02-20T20:48:59Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-14T01:31:21.275Z
+- Updated At: 2026-11-22T00:55:27.242Z
 
 ## Products
 
 - [Bear Portal Hoodie](https://maemartin.merchmadeeasy.com/products/bear-portal-hoodie): 80/20 cotton/recycled polyester hoodie in army green
-  Updated: 2026-11-14T01:24:20Z
+  Updated: 2026-11-21T16:48:18Z
   Vendor: Mae Martin
   Product Type: Hoodie
   Availability: Available
@@ -112,7 +112,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $39.00 USD
 - [Bear Portal Tour Tee](https://maemartin.merchmadeeasy.com/products/bear-portal-tour-tee): 50% cotton / 50% polyester tee in black
-  Updated: 2026-11-12T15:29:06Z
+  Updated: 2026-11-20T14:42:06Z
   Vendor: Mae Martin
   Product Type: T-Shirt
   Availability: Available
@@ -136,7 +136,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $24.00 USD
 - [Bear Portal Hat](https://maemartin.merchmadeeasy.com/products/bear-portal-hat): 100% cotton twill 6-panel hat with adjustable hook-and-loop closure
-  Updated: 2026-11-12T15:29:05Z
+  Updated: 2026-11-20T14:42:07Z
   Vendor: Mae Martin
   Product Type: Hat
   Availability: Available
@@ -153,16 +153,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://maemartin.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-13T12:24:45Z
+  Updated: 2026-11-21T12:25:46Z
   Total Products: 4
 - [Apparel](https://maemartin.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-13T12:24:45Z
+  Updated: 2026-11-21T12:25:46Z
   Total Products: 2
 - [Accessories](https://maemartin.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-13T12:24:45Z
+  Updated: 2026-11-21T12:25:46Z
   Total Products: 2
 - [All](https://maemartin.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-13T12:24:45Z
+  Updated: 2026-11-21T12:25:46Z
   Total Products: 4
 
 ## Store Pages
