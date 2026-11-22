@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2025-08-04T15:55:35Z
 - Contact Email: oliver@pickleupshot.com
-- Updated At: 2026-11-15T00:43:22.939Z
+- Updated At: 2026-11-22T00:45:19.750Z
 
 ## Products
 
 - [PickleUp Pro Cramp Shot - Pineapple](https://pickleupshot.com/products/pro-cramp-shot): The Ultimate Cramp-Crushing Performance Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp is your secret  that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
-  Updated: 2026-11-13T12:23:44Z
+  Updated: 2026-11-21T19:12:28Z
   Vendor: PickleUp
   Product Type: 50ml Shot
   Availability: Available
@@ -48,7 +48,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/0843/4244/files/8f3160af598d46d0a56df52c99bfbe51.png?v=1776359783
     Price: £25.99 GBP
 - [The Trial Pack](https://pickleupshot.com/products/pro-cramp-shots-trail-pack): The Ultimate Cramp-Crushing Performance Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp is your secret  that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
-  Updated: 2026-11-12T16:46:41Z
+  Updated: 2026-11-20T15:31:10Z
   Vendor: PickleUp
   Product Type: 50ml Shot
   Availability: Available
@@ -58,20 +58,23 @@
 ## Collections
 
 - [Home page](https://pickleupshot.com/collections/frontpage)
-  Updated: 2026-11-14T12:21:01Z
+  Updated: 2026-11-20T12:32:15Z
   Total Products: 1
 - [Shop All](https://pickleupshot.com/collections/shop-all)
-  Updated: 2026-11-14T12:21:01Z
+  Updated: 2026-11-20T12:32:15Z
   Total Products: 1
 - [Merch](https://pickleupshot.com/collections/merch)
   Updated: 2026-10-23T11:22:21Z
   Total Products: 1
 - [Performance Cramp Shots](https://pickleupshot.com/collections/performance-cramp-shots)
-  Updated: 2026-11-14T12:21:01Z
+  Updated: 2026-11-20T12:32:15Z
   Total Products: 1
 - [Trial Packs](https://pickleupshot.com/collections/trial-packs)
   Updated: 2026-11-13T12:22:02Z
   Total Products: 1
+- [Bundles](https://pickleupshot.com/collections/bundles)
+  Updated: 2026-11-17T19:33:49Z
+  Total Products: 0
 
 ## Blogs
 
@@ -338,6 +341,14 @@
     Updated: 2026-11-12T10:13:52Z
     Author: PickleUp
     Tags: badminton, dill pickle juice for muscle cramps, does pickle juice help with cramps, drink pickle juice for cramps, pickle juice for cramps
+  - [Why Do I Cramp in My Feet? Foot Cramps Explained](https://pickleupshot.com/blogs/news/why-do-i-cramp-in-my-feet): Why Do I Cramp in My Feet? Foot Cramps Explained
+    Updated: 2026-11-16T10:15:01Z
+    Author: PickleUp
+    Tags: cramp science, foot cramps, muscle cramps, pickle juice and cramps, pickle juice for cramps
+  - [Pickle Juice for Combat Sports Cramp After Weight Cut](https://pickleupshot.com/blogs/news/pickle-juice-for-combat-sports-cramps): Pickle Juice for Combat Sports Cramp After Weight Cut
+    Updated: 2026-11-19T10:13:39Z
+    Author: PickleUp
+    Tags: combat sports, dill pickle juice for muscle cramps, does pickle juice help with cramps, gherkin juice for cramps, is pickle juice good for cramps, pickle juice for cramps
 - [Ambassadors](https://pickleupshot.com/blogs/ambassadors)
   - [Nat Phillips](https://pickleupshot.com/blogs/ambassadors/test-blog)
     Updated: 2025-09-17T14:51:53Z
