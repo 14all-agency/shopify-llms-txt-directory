@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2023-06-04T13:58:10Z
 - Contact Email: hello@thephoenixcandles.com
-- Updated At: 2026-11-15T00:37:57.832Z
+- Updated At: 2026-11-22T00:38:48.293Z
 
 ## Products
 
-- [Perseverance | Tiger's Eye Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/perseverance-tigers-eye-crystal-infused-candle): Perseverance is an Aromachology soy candle with Tiger's Eye. Mandarin, sea gardenia, and cypress with a crackling wooden wick. Hand-poured in NJ.
-  Updated: 2026-11-05T17:06:56Z
+- [Perseverance | Tiger's Eye Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/perseverance-original-scent): Perseverance is an Aromachology soy candle with Tiger's Eye. Mandarin, sea gardenia, and cypress with a crackling wooden wick. Hand-poured in NJ.
+  Updated: 2026-11-18T09:00:59Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
@@ -60,20 +60,20 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_the_Xenacious_crystal-infused_soy_candle.png?v=1782491351
   Price: $60.00 USD
 - [Wick Trimmer for Wooden Wick Candles | The Phoenix Candles](https://thephoenixcandles.com/products/wooden-wick-trimmer): A 6.8-inch wick trimmer made for wooden wick candles, in gold, silver, or matte black. Trims cleanly and catches the trimmed wick.
-  Updated: 2026-11-13T09:23:33Z
+  Updated: 2026-11-17T15:40:06Z
   Vendor: My Store
   Product Type: Candle Trimmer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Wick_Trimmer_for_Wooden_Wick_Candles_The_Phoenix_Candles.png?v=1793650186
   - [Gold](https://thephoenixcandles.com/products/wooden-wick-trimmer?variant=46767535718716)
     Availability: Available
-    Price: $20.00 USD
+    Price: $15.00 USD
   - [Silver](https://thephoenixcandles.com/products/wooden-wick-trimmer?variant=46767535751484)
     Availability: Available
-    Price: $20.00 USD
+    Price: $15.00 USD
   - [Black](https://thephoenixcandles.com/products/wooden-wick-trimmer?variant=52856273600828)
     Availability: Available
-    Price: $20.00 USD
+    Price: $15.00 USD
 - [Namaste | Shiva Lingam Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/namaste): Namaste is a limited-edition Aromachology soy candle with Shiva Lingam. Cinnamon bark, clove, and sandalwood, in 12 oz or a 2.5 oz mini. Hand-poured in NJ.
   Updated: 2026-11-08T00:47:05Z
   Vendor: The Phoenix Candles
@@ -118,7 +118,7 @@
     Availability: Available
     Price: $50.00 USD
 - [The Phoenix Candles Gift Card](https://thephoenixcandles.com/products/the-phoenix-candles-gift-card): Give a gift card from The Phoenix Candles. Delivered by email in minutes, redeemable for crystal-infused Aromachology soy candles hand-poured in NJ.
-  Updated: 2026-11-12T21:21:59Z
+  Updated: 2026-11-19T13:57:18Z
   Vendor: The Phoenix Candles
   Product Type: 
   Availability: Available
@@ -207,36 +207,43 @@
   - [Xenacious](https://thephoenixcandles.com/products/the-minis?variant=68068687872316)
     Availability: Available
     Price: $15.00 USD
+- [Mystery Classic | Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/mystery-classic): One of our crystal-infused Aromachology soy candles, chosen by us and revealed when you open the box. 12 oz, hand-poured in NJ.
+  Updated: 2026-11-21T04:37:52Z
+  Vendor: The Phoenix Candles
+  Product Type: Candle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/mystery-classic.png?v=1795192733
+  Price: $50.00 USD
 
 ## Collections
 
 - [classics](https://thephoenixcandles.com/collections/classics): The candles that started it all. Seven small-batch Aromachology soy candles, each paired with a genuine crystal and built on fragrance notes research has linked to specific emotional states. Handcrafted in New Jersey.
-  Updated: 2026-11-06T12:16:07Z
+  Updated: 2026-11-17T21:13:25Z
   Total Products: 7
 - [the lab](https://thephoenixcandles.com/collections/the-lab): Small-batch Aromachology soy candles born from our creative process. Poured with the same love and clean ingredients as our core collection. Handcrafted in NJ.
   Updated: 2026-10-17T02:15:55Z
   Total Products: 7
 - [limited editions](https://thephoenixcandles.com/collections/limited-editions): Small-batch Aromachology soy candles crafted seasonally in limited quantities. Built on scent research. Handcrafted in New Jersey.
-  Updated: 2026-11-08T12:15:46Z
-  Total Products: 2
+  Updated: 2026-11-17T20:58:58Z
+  Total Products: 3
 - [accessories](https://thephoenixcandles.com/collections/accessories)
-  Updated: 2026-10-30T13:48:56Z
+  Updated: 2026-11-17T15:40:07Z
   Total Products: 1
 - [spring picks](https://thephoenixcandles.com/collections/spring-picks): You've been running on fumes since January — holding it together through the cold, the dark, the endless demands. But something is shifting. The light is coming back, and so is that quiet voice inside you whispering: it's time. Not time to add more. Time to let yourself bloom. These three candles were chosen for this season because they meet you exactly where you are — exhausted but hopeful, worn but ready. Let them be your first intentional act of renewal.Every candle is hand-poured in small batches — never mass-produced, always made with intention. New drops release every 4 to 6 weeks. Join the List to be the first to know when the next batch is ready.
-  Updated: 2026-11-06T12:16:07Z
-  Total Products: 3
+  Updated: 2026-11-17T17:03:10Z
+  Total Products: 2
 - [shop all](https://thephoenixcandles.com/collections/shop-all): Handcrafted aromachology soy candles infused with crystals, wooden wicks, and toxin-free fragrance. Built on scent science, made by hand in New Jersey. Shop now.
-  Updated: 2026-11-08T12:15:46Z
-  Total Products: 18
+  Updated: 2026-11-20T16:41:29Z
+  Total Products: 21
 - [summer edit](https://thephoenixcandles.com/collections/summer-edit): Three soy candles for the woman summer drains instead of restores. Be held, choose your light, believe in renewal. Science-backed Aromachology, soul-led ritual.
   Updated: 2026-11-06T12:16:07Z
   Total Products: 4
 - [fall edit](https://thephoenixcandles.com/collections/fall-edit): Fall asks more of you. It always does. The school year. The work push. The holidays stacking up before you've had a chance to catch your breath. From the outside, you handle it. You always do. This edit is for what's happening underneath that. Three candles, one quiet arc: keep going, trust yourself, come home. Perseverance moves alongside you on the days that demand everything. Intuition keeps you company while you trust what you already know. Namaste is for the quiet at the end of the day. Not a reward you have to earn. A place you already belong. Aromachology built on scent notes research has associated with strength, clarity, and grounding. Craftswomanship in every pour.
-  Updated: 2026-11-08T12:15:46Z
+  Updated: 2026-11-17T21:14:31Z
   Total Products: 3
 - [New! Shopify performance sharing is now turned on](https://thephoenixcandles.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-11-08T12:15:46Z
-  Total Products: 25
+  Updated: 2026-11-20T16:41:29Z
+  Total Products: 28
 - [For the one who carries everything](https://thephoenixcandles.com/collections/for-the-one-who-carries-everything): Candle gifts for the one who carries everything. Crystal-infused Aromachology soy candles, hand-poured in NJ.
   Updated: 2026-11-02T20:33:07Z
   Total Products: 4
@@ -250,14 +257,14 @@
   Updated: 2026-11-08T12:15:46Z
   Total Products: 3
 - [gifts](https://thephoenixcandles.com/collections/gifts): Thoughtful Aromachology candle gifts, hand-poured in NJ. Crystal-infused soy candles and gift sets for the people who carry everything.
-  Updated: 2026-11-08T12:15:46Z
-  Total Products: 22
+  Updated: 2026-11-17T21:14:31Z
+  Total Products: 24
 - [Gift Sets](https://thephoenixcandles.com/collections/gift-sets): Curated pairs of Aromachology soy candles, each with a wick trimmer. Crystal-infused, hand-poured in NJ, and shipping free.
   Updated: 2026-11-02T20:33:07Z
   Total Products: 5
 - [under $50](https://thephoenixcandles.com/collections/under-50): Candle gifts under $50 from The Phoenix Candles: Aromachology minis, small-batch Lab candles, and wick trimmers. Hand-poured in NJ.
-  Updated: 2026-11-06T12:16:07Z
-  Total Products: 11
+  Updated: 2026-11-20T16:41:29Z
+  Total Products: 12
 
 ## Blogs
 
@@ -383,6 +390,10 @@
     Updated: 2026-11-10T05:00:06Z
     Author: Shaina Brooks
     Tags: aromachology, crystal candles, Empowerment, how scent affects mood, scent notes
+  - [How to Trim a Wooden Wick for a Clean, Even Burn](https://thephoenixcandles.com/blogs/rise-up/how-to-trim-a-wooden-wick): <p>A wooden wick burns best when it's trimmed before every light. How short to cut it, how to light it, and how to keep the crackle going.</p>
+    Updated: 2026-11-17T05:00:01Z
+    Author: Shaina Brooks
+    Tags: candle care, candle tips, how to trim a wooden wick, wooden wick
 
 ## Store Pages
 
