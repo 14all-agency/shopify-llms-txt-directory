@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2025-08-10T20:26:08Z
 - Contact Email: decor8homesinc@gmail.com
-- Updated At: 2026-11-14T00:46:10.977Z
+- Updated At: 2026-11-22T00:43:52.401Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM011-1.jpg?v=1782485765
   Price: $169.99 CAD
 - [Greek Goddess Bust Statue – Matte Black Classical Roman Venus Sculpture](https://www.decor8homes.ca/products/greek-goddess-bust-statue-matte-black-classical-roman-venus-sculpture): Evoke the timeless grandeur of classical antiquities with a bold, contemporary twist. This striking Greek Goddess Bust Statue beautifully merges traditional Roman and Hellenistic art with modern minimalist design. Capturing a profile of serene grace, the sculpture highlights a goddess with intricately styled, wavy hair gathered in a classic bun, draped in elegant, flowing robes.Finished in a premium monochromatic matte black, the smooth porcelain-like surface absorbs light to showcase the soft contours of her face and the deep dramatic folds of her attire. The bust is supported by an ornate, highly detailed Corinthian-style pedestal base complete with acanthus leaves and scrollwork. Perfect for anchoring an entryway console table, accenting a living room bookshelf, or bringing classic luxury to a home office desk, this historical art piece redefines modern sophisticated decor. Key Features: Classical Hellenistic Design: Features precise, museum-quality detailing inspired by traditional sculptures of Venus and ancient Greek goddesses. Sleek Matte Black Finish: A rich matte coat lends a moody, high-end gallery aesthetic that contrasts beautifully against light backgrounds. Ornate Corinthian Pedestal: Set on an intricately carved architectural column base, providing an elevated, majestic stance and superior stability. Versatile Luxury Accent: Effortlessly bridges the gap between classic dark academia, moody modern interiors, and minimalist luxury styles. Care & Maintenance: Wipe gently with a clean, dry microfiber cloth to remove dust and fingerprints. Avoid the use of liquid detergents, water, or abrasive cleaning pads to protect the delicate matte finish. Recommended strictly for indoor tabletop display.
-  Updated: 2026-08-29T04:03:19Z
+  Updated: 2026-11-17T18:15:11Z
   Vendor: Decor8 Homes
   Product Type: 
   Availability: Available
@@ -529,7 +529,7 @@
 ## Collections
 
 - [Sculptures & Figurines](https://www.decor8homes.ca/collections/decor-accents): Discover a stunning range of sculptures and figurines to elevate your home décor. From modern and abstract art pieces to elegant tabletop statues, our collection adds a touch of sophistication to any living space. Perfect for living rooms, offices, and bedrooms.
-  Updated: 2026-07-02T08:05:53Z
+  Updated: 2026-11-17T12:24:17Z
   Total Products: 69
 - [Vintage & Antique Home Décor Items](https://www.decor8homes.ca/collections/vintage-classics): Add character and charm to your home with our vintage and antique décor collection. Featuring wooden models, classic gramophones, retro collectibles, and timeless clocks, these pieces are perfect for collectors and anyone who loves a nostalgic touch in their interior design.
   Updated: 2026-07-02T08:05:53Z
@@ -550,7 +550,7 @@
   Updated: 2026-07-02T04:16:55Z
   Total Products: 0
 - [All Products](https://www.decor8homes.ca/collections/all-products-chatgpt-ai-product-description)
-  Updated: 2026-07-01T22:39:14Z
+  Updated: 2026-11-17T12:24:17Z
   Total Products: 117
 
 ## Blogs
