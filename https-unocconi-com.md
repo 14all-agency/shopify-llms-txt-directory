@@ -9,14 +9,14 @@
 - Created At: 2023-02-25T10:04:29Z
 - Contact Email: valentin.nittbaur@unocconi.com
 - Address: Römersteinweg 21, 70794 Filderstadt
-- Updated At: 2026-11-14T01:09:55.318Z
+- Updated At: 2026-11-22T00:58:10.911Z
 
 ## Products
 
 - [Duschrinne Joulia 3-Rohr mit Wärmetauscher (37 %)](https://unocconi.com/products/joulia-inline-3-rohr): Duschrinne mit Wärmetauscher Joulia 3-Rohr: 37 % Wärmerückgewinnung beim Duschen bei nur 89 mm Einbautiefe. DVGW-zertifiziert, 5 Jahre Garantie, 20 % Zuschuss.
-  Updated: 2026-11-03T21:05:11Z
+  Updated: 2026-11-15T08:55:00Z
   Vendor: Unocconi
-  Product Type: 
+  Product Type: Duschrinne mit Wärmetauscher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_3_Rohr_Duschrinne.png?v=1772031965
   - [wandseitige Montage / geschliffene Abdeckung / mit Turbulatoren](https://unocconi.com/products/joulia-inline-3-rohr?variant=49757039198536)
@@ -68,48 +68,48 @@
     Availability: Available
     Price: 2.543,00 € EUR
 - [Duschrohr mit Wärmetauscher CF 170 cm (63 %)](https://unocconi.com/products/duschrohr-counter-flow-170cm): Duschrohr mit Wärmetauscher Counter Flow 170 cm: 63 % Wärmerückgewinnung beim Duschen. Kupfer, 10 Jahre Garantie, inkl. Montage-Set, Lieferung in 2–3 Werktagen.
-  Updated: 2026-11-03T21:05:11Z
+  Updated: 2026-11-15T08:55:00Z
   Vendor: Unocconi
-  Product Type: 
+  Product Type: Duschrohr mit Wärmetauscher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschrohr_170cm.png?v=1772030001
   Price: 882,00 € EUR
 - [Duschrohr mit Wärmetauscher CF 210 cm (69 %)](https://unocconi.com/products/duschrohr-counter-flow-210cm): Duschrohr mit Wärmetauscher Counter Flow 210 cm: 69 % Wärmerückgewinnung beim Duschen. Kupfer, 10 Jahre Garantie, inkl. Montage-Set, Lieferung in 2–3 Werktagen.
-  Updated: 2026-11-03T21:05:11Z
+  Updated: 2026-11-15T08:55:01Z
   Vendor: Unocconi
-  Product Type: 
+  Product Type: Duschrohr mit Wärmetauscher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschrohr_210cm.png?v=1772030039
   Price: 930,00 € EUR
 - [Duschrohr mit Wärmetauscher CF 210 cm HF (53 %)](https://unocconi.com/products/duschrohr-counter-flow-hf): Duschrohr mit Wärmetauscher Counter Flow 210 cm HF: 53 % Wärmerückgewinnung beim Duschen, ideal für Regenduschen mit hohem Durchfluss. 10 Jahre Garantie.
-  Updated: 2026-11-03T21:05:12Z
+  Updated: 2026-11-15T08:55:01Z
   Vendor: Unocconi
-  Product Type: 
+  Product Type: Duschrohr mit Wärmetauscher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschrohr_210cm_HF.png?v=1772030064
   Price: 1.088,00 € EUR
 - [Duschrinne Joulia 10-Rohr mit Wärmetauscher (60 %)](https://unocconi.com/products/joulia-inline-10-rohr): Duschrinne mit Wärmetauscher Joulia Twinline 10-Rohr: 60 % Wärmerückgewinnung beim Duschen – unser stärkstes Modell. DVGW-zertifiziert, 5 Jahre Garantie.
-  Updated: 2026-11-03T21:05:12Z
+  Updated: 2026-11-17T18:09:25Z
   Vendor: Unocconi
-  Product Type: 
+  Product Type: Duschrinne mit Wärmetauscher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_10-Rohr_Duschrinne_png.png?v=1772030267
   - [wandseitige Montage / kurz (717 mm)](https://unocconi.com/products/joulia-inline-10-rohr?variant=49829020696904)
     Availability: Available
     Price: 3.874,00 € EUR
-  - [wandseitige Montage / lang (917mm)](https://unocconi.com/products/joulia-inline-10-rohr?variant=49829020762440)
+  - [wandseitige Montage / lang (917 mm)](https://unocconi.com/products/joulia-inline-10-rohr?variant=49829020762440)
     Availability: Available
     Price: 4.040,00 € EUR
   - [raumseitige Montage / kurz (717 mm)](https://unocconi.com/products/joulia-inline-10-rohr?variant=49829020959048)
     Availability: Available
     Price: 3.874,00 € EUR
-  - [raumseitige Montage / lang (917mm)](https://unocconi.com/products/joulia-inline-10-rohr?variant=49829021024584)
+  - [raumseitige Montage / lang (917 mm)](https://unocconi.com/products/joulia-inline-10-rohr?variant=49829021024584)
     Availability: Available
     Price: 4.040,00 € EUR
 - [Duschrinne Joulia 6-Rohr mit Wärmetauscher (53 %)](https://unocconi.com/products/joulia-inline-6-rohr): Duschrinne mit Wärmetauscher Joulia Twinline 6-Rohr: 53 % Wärmerückgewinnung beim Duschen bei reduzierter Einbautiefe. DVGW-zertifiziert, 5 Jahre Garantie.
-  Updated: 2026-11-03T21:05:12Z
+  Updated: 2026-11-15T08:55:02Z
   Vendor: Unocconi
-  Product Type: 
+  Product Type: Duschrinne mit Wärmetauscher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_6-Rohr_Duschrinne_png.png?v=1772030344
   - [wandseitige Montage / kurz (717 mm)](https://unocconi.com/products/joulia-inline-6-rohr?variant=49829021450568)
@@ -118,82 +118,82 @@
   - [wandseitige Montage / lang (917 mm)](https://unocconi.com/products/joulia-inline-6-rohr?variant=49829021516104)
     Availability: Available
     Price: 3.707,00 € EUR
-  - [raumseitig Montage / kurz (717 mm)](https://unocconi.com/products/joulia-inline-6-rohr?variant=49829021712712)
+  - [raumseitige Montage / kurz (717 mm)](https://unocconi.com/products/joulia-inline-6-rohr?variant=49829021712712)
     Availability: Available
     Price: 3.541,00 € EUR
-  - [raumseitig Montage / lang (917 mm)](https://unocconi.com/products/joulia-inline-6-rohr?variant=49829021778248)
+  - [raumseitige Montage / lang (917 mm)](https://unocconi.com/products/joulia-inline-6-rohr?variant=49829021778248)
     Availability: Available
     Price: 3.707,00 € EUR
 - [Duschrinne Joulia 5-Rohr mit Wärmetauscher (49 %)](https://unocconi.com/products/joulia-inline-5-rohr): Duschrinne mit Wärmetauscher Joulia 5-Rohr: 49 % Wärmerückgewinnung beim Duschen bei 120 mm Einbautiefe. DVGW-zertifiziert, 5 Jahre Garantie, 20 % Zuschuss.
-  Updated: 2026-11-03T21:05:12Z
+  Updated: 2026-11-15T08:55:02Z
   Vendor: Unocconi
-  Product Type: 
+  Product Type: Duschrinne mit Wärmetauscher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_5_Rohr_Duschrinne.png?v=1772031998
-  - [wandseitig Montage / geschliffene Abdeckung / mit Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040226632)
+  - [wandseitige Montage / geschliffene Abdeckung / mit Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040226632)
     Availability: Available
     Price: 3.005,00 € EUR
-  - [wandseitig Montage / geschliffene Abdeckung / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040259400)
+  - [wandseitige Montage / geschliffene Abdeckung / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040259400)
     Availability: Available
     Price: 2.893,00 € EUR
-  - [wandseitig Montage / geschliffene Abdeckung mit Haarsieb / mit Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040292168)
+  - [wandseitige Montage / geschliffene Abdeckung mit Haarsieb / mit Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040292168)
     Availability: Available
     Price: 3.172,00 € EUR
-  - [wandseitig Montage / geschliffene Abdeckung mit Haarsieb / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040324936)
+  - [wandseitige Montage / geschliffene Abdeckung mit Haarsieb / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040324936)
     Availability: Available
     Price: 3.060,00 € EUR
-  - [wandseitig Montage / polierte Abdeckung / mit Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040357704)
+  - [wandseitige Montage / polierte Abdeckung / mit Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040357704)
     Availability: Available
     Price: 3.127,00 € EUR
-  - [wandseitig Montage / polierte Abdeckung / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040390472)
+  - [wandseitige Montage / polierte Abdeckung / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040390472)
     Availability: Available
     Price: 3.015,00 € EUR
-  - [wandseitig Montage / matte Abdeckung / mit Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040423240)
+  - [wandseitige Montage / matte Abdeckung / mit Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040423240)
     Availability: Available
     Price: 3.072,00 € EUR
-  - [wandseitig Montage / matte Abdeckung / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040456008)
+  - [wandseitige Montage / matte Abdeckung / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040456008)
     Availability: Available
     Price: 2.960,00 € EUR
-  - [raumseitig Montage / geschliffene Abdeckung / mit Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040488776)
+  - [raumseitige Montage / geschliffene Abdeckung / mit Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040488776)
     Availability: Available
     Price: 3.005,00 € EUR
-  - [raumseitig Montage / geschliffene Abdeckung / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040521544)
+  - [raumseitige Montage / geschliffene Abdeckung / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040521544)
     Availability: Available
     Price: 2.893,00 € EUR
-  - [raumseitig Montage / geschliffene Abdeckung mit Haarsieb / mit Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040554312)
+  - [raumseitige Montage / geschliffene Abdeckung mit Haarsieb / mit Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040554312)
     Availability: Available
     Price: 3.172,00 € EUR
-  - [raumseitig Montage / geschliffene Abdeckung mit Haarsieb / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040587080)
+  - [raumseitige Montage / geschliffene Abdeckung mit Haarsieb / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040587080)
     Availability: Available
     Price: 3.060,00 € EUR
-  - [raumseitig Montage / polierte Abdeckung / mit Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040619848)
+  - [raumseitige Montage / polierte Abdeckung / mit Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040619848)
     Availability: Available
     Price: 3.127,00 € EUR
-  - [raumseitig Montage / polierte Abdeckung / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040652616)
+  - [raumseitige Montage / polierte Abdeckung / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040652616)
     Availability: Available
     Price: 3.015,00 € EUR
-  - [raumseitig Montage / matte Abdeckung / mit Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040685384)
+  - [raumseitige Montage / matte Abdeckung / mit Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040685384)
     Availability: Available
     Price: 3.072,00 € EUR
-  - [raumseitig Montage / matte Abdeckung / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040718152)
+  - [raumseitige Montage / matte Abdeckung / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040718152)
     Availability: Available
     Price: 2.960,00 € EUR
 - [Duschrinne 3-Rohr mit Wärmetauscher für Naturstein](https://unocconi.com/products/duschrinne-joulia-3-rohr-mit-exklusivem-bodenbelag): Duschrinne mit Wärmetauscher Joulia 3-Rohr für exklusive Beläge aus Fein- und Naturstein: 37 % Wärmerückgewinnung beim Duschen, 89 mm Einbautiefe, DVGW.
-  Updated: 2026-11-03T21:05:12Z
+  Updated: 2026-11-15T08:55:01Z
   Vendor: Unocconi
-  Product Type: 
+  Product Type: Duschrinne mit Wärmetauscher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_3_Rohr_Duschrinne_fuer_exklusive_Bodenbelaege.png?v=1772032221
   - [raumseitige Montage / mit Turbulatoren](https://unocconi.com/products/duschrinne-joulia-3-rohr-mit-exklusivem-bodenbelag?variant=51490616934728)
     Availability: Available
-    Price: 2.745,00 € EUR
+    Price: 2.815,00 € EUR
   - [raumseitige Montage / ohne Turbulatoren](https://unocconi.com/products/duschrinne-joulia-3-rohr-mit-exklusivem-bodenbelag?variant=51490616967496)
     Availability: Available
-    Price: 2.815,00 € EUR
+    Price: 2.745,00 € EUR
 - [Duschrinne 5-Rohr mit Wärmetauscher für Naturstein](https://unocconi.com/products/duschrinne-joulia-5-rohr-mit-exklusivem-bodenbelag): Duschrinne mit Wärmetauscher Joulia 5-Rohr für exklusive Beläge aus Fein- und Naturstein: 49 % Wärmerückgewinnung beim Duschen, 120 mm Einbautiefe, DVGW.
-  Updated: 2026-11-03T21:05:12Z
+  Updated: 2026-11-15T08:55:01Z
   Vendor: Unocconi
-  Product Type: 
+  Product Type: Duschrinne mit Wärmetauscher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_5_Rohr_Duschrinne_fuer_exklusive_Bodenbelaege.png?v=1772032258
   - [raumseitige Montage / mit Turbulatoren](https://unocconi.com/products/duschrinne-joulia-5-rohr-mit-exklusivem-bodenbelag?variant=51490658386248)
@@ -202,10 +202,10 @@
   - [raumseitige Montage / ohne Turbulatoren](https://unocconi.com/products/duschrinne-joulia-5-rohr-mit-exklusivem-bodenbelag?variant=51490658419016)
     Availability: Available
     Price: 3.474,00 € EUR
-- [Unocconi Duschplatte Original](https://unocconi.com/products/duschplatte-original): Duschplatte mit Wärmetauscher zum Nachrüsten: bis zu 38 % Wirkungsgrad beim Duschen, in 30 Minuten ohne Handwerker montiert – auch zur Miete. 5 J. Garantie.
-  Updated: 2026-11-03T22:23:29Z
+- [Duschplatte Original mit Wärmetauscher (Bambus) – 499 €](https://unocconi.com/products/duschplatte-original): Duschplatte mit Wärmetauscher zum Nachrüsten: bis zu 38 % Wirkungsgrad beim Duschen, in 30 Minuten ohne Handwerker montiert – auch zur Miete. 5 J. Garantie.
+  Updated: 2026-11-15T09:32:50Z
   Vendor: Unocconi
-  Product Type: 
+  Product Type: Duschplatte mit Wärmetauscher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Orginal_1.png?v=1791746015
   - [110 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-original?variant=52862517150024)
@@ -220,10 +220,10 @@
   - [140 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-original?variant=52862517248328)
     Availability: Available
     Price: 499,00 € EUR
-- [Unocconi Duschplatte Pure](https://unocconi.com/products/duschplatte-pure): Duschplatte mit Wärmetauscher zum Nachrüsten: bis zu 38 % Wirkungsgrad beim Duschen, ab 349 € ohne Handwerker montiert – auch zur Miete. 5 Jahre Garantie.
-  Updated: 2026-11-03T22:23:34Z
+- [Duschplatte Pure mit Wärmetauscher – nachrüsten ab 349 €](https://unocconi.com/products/duschplatte-pure): Duschplatte mit Wärmetauscher zum Nachrüsten: bis zu 38 % Wirkungsgrad beim Duschen, ab 349 € ohne Handwerker montiert – auch zur Miete. 5 Jahre Garantie.
+  Updated: 2026-11-15T09:32:50Z
   Vendor: Unocconi
-  Product Type: 
+  Product Type: Duschplatte mit Wärmetauscher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Duschplatte_Pure.png?v=1791746049
   - [110 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-pure?variant=53909183922504)
@@ -239,40 +239,40 @@
   - [140 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-pure?variant=53909184020808)
     Availability: Available
     Price: 349,00 € EUR
-- [Unocconi Duschplatte Übersicht](https://unocconi.com/products/duschplatte-uebersicht): Duschplatte mit Wärmetauscher im Vergleich: Original mit Bambus oder Pure aus Edelstahl. Bis zu 38 % Wirkungsgrad beim Duschen, ab 349 €, ohne Handwerker.
-  Updated: 2026-11-03T22:34:37Z
+- [Duschplatte mit Wärmetauscher: Pure & Original im Vergleich](https://unocconi.com/products/duschplatte-uebersicht): Duschplatte mit Wärmetauscher im Vergleich: Original mit Bambus oder Pure aus Edelstahl. Bis zu 38 % Wirkungsgrad beim Duschen, ab 349 €, ohne Handwerker.
+  Updated: 2026-11-15T09:32:50Z
   Vendor: Unocconi
-  Product Type: 
+  Product Type: Duschplatte mit Wärmetauscher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Orginal.png?v=1787759236
-  - [110 cm / Montageset & Reinigungszubehör / nachwachsendem Bambus](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967550280)
+  - [110 cm / Montageset & Reinigungszubehör / nachwachsender Bambus](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967550280)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Orginal.png?v=1787759236
-    Price: 349,00 € EUR
+    Price: 499,00 € EUR
   - [110 cm / Montageset & Reinigungszubehör / Edelstahl schwarz](https://unocconi.com/products/duschplatte-uebersicht?variant=54343393149256)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Pure.png?v=1787764022
     Price: 349,00 € EUR
-  - [120 cm / Montageset & Reinigungszubehör / nachwachsendem Bambus](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967583048)
+  - [120 cm / Montageset & Reinigungszubehör / nachwachsender Bambus](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967583048)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Orginal.png?v=1787759236
-    Price: 349,00 € EUR
+    Price: 499,00 € EUR
   - [120 cm / Montageset & Reinigungszubehör / Edelstahl schwarz](https://unocconi.com/products/duschplatte-uebersicht?variant=54343393182024)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Pure.png?v=1787764022
     Price: 349,00 € EUR
-  - [130 cm / Montageset & Reinigungszubehör / nachwachsendem Bambus](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967615816)
+  - [130 cm / Montageset & Reinigungszubehör / nachwachsender Bambus](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967615816)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Orginal.png?v=1787759236
-    Price: 349,00 € EUR
+    Price: 499,00 € EUR
   - [130 cm / Montageset & Reinigungszubehör / Edelstahl schwarz](https://unocconi.com/products/duschplatte-uebersicht?variant=54343393214792)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Pure.png?v=1787764022
     Price: 349,00 € EUR
-  - [140 cm / Montageset & Reinigungszubehör / nachwachsendem Bambus](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967648584)
+  - [140 cm / Montageset & Reinigungszubehör / nachwachsender Bambus](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967648584)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Orginal.png?v=1787759236
-    Price: 349,00 € EUR
+    Price: 499,00 € EUR
   - [140 cm / Montageset & Reinigungszubehör / Edelstahl schwarz](https://unocconi.com/products/duschplatte-uebersicht?variant=54343393247560)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Pure.png?v=1787764022
@@ -281,107 +281,107 @@
 ## Collections
 
 - [Duschrinnen mit Wärmetauscher](https://unocconi.com/collections/shop-duschrinnen-mit-warmetauscher): Duschrinnen mit Wärmetauscher im Unocconi Shop: Joulia 3- bis 10-Rohr mit 37–60 % Wärmerückgewinnung beim Duschen. DVGW-zertifiziert, Swiss Made, 5 J. Garantie.
-  Updated: 2026-11-03T21:27:43Z
+  Updated: 2026-11-18T12:16:20Z
   Total Products: 6
 - [Duschrohre mit Wärmetauscher](https://unocconi.com/collections/shop-fallrohr-mit-warmetauscher): Duschrohre mit Wärmetauscher im Unocconi Shop: Counter Flow 170 cm, 210 cm und 210 cm HF mit 53–69 % Wärmerückgewinnung beim Duschen. 10 Jahre Garantie.
-  Updated: 2026-11-03T21:27:43Z
+  Updated: 2026-11-14T21:33:08Z
   Total Products: 3
 - [Alle Produkte](https://unocconi.com/collections/shop): Alle Produkte zur Wärmerückgewinnung beim Duschen: Duschrinnen, Duschrohre und Duschplatten mit Wärmetauscher. Bis zu 69 % Wirkungsgrad, bis 10 J. Garantie.
-  Updated: 2026-11-03T21:27:43Z
-  Total Products: 10
+  Updated: 2026-11-18T12:16:20Z
+  Total Products: 11
 - [Duschrinne 5-Rohr mit Wärmetauscher](https://unocconi.com/collections/duschrinne-joulia-5-rohr): Duschrinne 5-Rohr mit integriertem Wärmetauscher: 49 % Wärmerückgewinnung beim Duschen bei 120 mm Einbautiefe. DVGW-zertifiziert, 5 Jahre Garantie, 20 % Bonus.
-  Updated: 2026-11-03T21:27:43Z
+  Updated: 2026-11-14T21:33:08Z
   Total Products: 2
 - [Duschrinne 3-Rohr mit Wärmetauscher](https://unocconi.com/collections/duschrinne-3-rohr-mit-warmetauscher): Duschrinne 3-Rohr mit integriertem Wärmetauscher: 37 % Wärmerückgewinnung beim Duschen bei nur 89 mm Einbautiefe. DVGW-zertifiziert, 5 J. Garantie, 20 % Bonus.
-  Updated: 2026-11-03T21:27:43Z
+  Updated: 2026-11-14T21:33:08Z
   Total Products: 2
 - [Duschplatten mit Wärmetauscher](https://unocconi.com/collections/duschplatten-mit-warmetauscher): Duschplatten mit Wärmetauscher kaufen: Wärmerückgewinnung beim Duschen in 30 Minuten nachrüsten – ohne Handwerker, auch zur Miete. Ab 349 €, 5 Jahre Garantie.
-  Updated: 2026-11-06T21:18:24Z
+  Updated: 2026-11-14T21:33:08Z
   Total Products: 2
 
 ## Blogs
 
-- [Blog - Wärmerückgewinnung beim Duschen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen)
+- [Blog - Wärmerückgewinnung beim Duschen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen): Ratgeber zur Wärmerückgewinnung beim Duschen: Förderung, Kosten, Praxisberichte von Energieberatern und Installateuren.
   - [Wärmerückgewinnung im Hotel – Wärmewende beim Duschen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/warmewende-im-hotel-jeder-beitrag-zahlt-darum-warmeruckgewinnung-auch-beim-duschen-🚿): Wärmerückgewinnung im Hotel – Wärmewende beim Duschen
-    Updated: 2026-10-27T21:15:30Z
+    Updated: 2026-11-14T20:14:36Z
     Author: Valentin Nittbaur
   - [Steigende CO₂-Preise in der EU: Effizienz zählt](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/steigende-co2-preise-in-der-eu): Steigende CO₂-Preise in der EU: Effizienz zählt
-    Updated: 2026-10-27T21:15:30Z
+    Updated: 2026-11-14T20:14:03Z
     Author: Steffen Nittbaur
   - [Kreislauffähigkeit von Kupfer und Edelstahl im Bad](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/kreislauffahigkeit-von-kupfer-und-edelstahl-nachhaltigkeit-im-sanitarbereich-neu-gedacht): Kreislauffähigkeit von Kupfer und Edelstahl im Bad
-    Updated: 2026-10-27T21:15:30Z
+    Updated: 2026-11-14T20:14:36Z
     Author: Steffen Nittbaur
   - [Investieren mit Weitblick: nachhaltig entscheiden](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/investieren-mit-weitblick-fur-eine-lebenswerte-zukunft-unserer-enkel): Investieren mit Weitblick: nachhaltig entscheiden
-    Updated: 2026-10-27T21:15:30Z
+    Updated: 2026-11-14T20:14:36Z
     Author: Steffen Nittbaur
   - [Wie funktioniert Wärmerückgewinnung beim Duschen?](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/wie-funktioniert-warmeruckgewinnung-beim-duschen-das-prinzip-einfach-erklart-nbsp): Wie funktioniert Wärmerückgewinnung beim Duschen?
-    Updated: 2026-10-27T21:16:03Z
+    Updated: 2026-11-14T20:14:36Z
     Author: Valentin Nittbaur
   - [Wärmerückgewinnung beim Duschen: Technik und Nutzen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/warmeruckgewinnung-beim-duschen): Wärmerückgewinnung beim Duschen: Technik und Nutzen
-    Updated: 2026-10-27T21:16:03Z
+    Updated: 2026-11-14T20:18:37Z
     Author: Valentin Nittbaur
   - [Förderung der Duschwasser-Wärmerückgewinnung (DWRG)](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/forderung-der-duschwasser-warmeruckgewinnung): Förderung der Duschwasser-Wärmerückgewinnung (DWRG)
-    Updated: 2026-10-27T21:16:03Z
+    Updated: 2026-11-14T20:14:37Z
     Author: Steffen Nittbaur
   - [Energieberater Planz: Wärmerückgewinnung beim Duschen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/energieberater-hendrik-planz-aus-kerpen-so-wichtig-ist-warmeruckgewinnung-beim-duschen): Energieberater Planz: Wärmerückgewinnung beim Duschen
-    Updated: 2026-10-27T21:16:03Z
+    Updated: 2026-11-14T20:14:37Z
     Author: Valentin Nittbaur
   - [Wärmerückgewinnung beim Duschen im Good News Magazin](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/endlich-mal-was-gutes-😊-wie-das-good-news-magazin-hoffnung-macht-und-uber-warmeruckgewinnung-berichtet): Wärmerückgewinnung beim Duschen im Good News Magazin
-    Updated: 2026-10-27T21:16:03Z
+    Updated: 2026-11-14T20:15:53Z
     Author: Valentin Nittbaur
   - [Duschwasser-Wärmerückgewinnung bei Hottgenroth](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/duschwasser-warmeruckgewinnung-jetzt-auch-in-der-software-von-hottgenroth-integriert): Duschwasser-Wärmerückgewinnung bei Hottgenroth
-    Updated: 2026-10-27T21:16:03Z
+    Updated: 2026-11-14T20:15:53Z
     Author: Valentin Nittbaur
   - [Duschwasser-Wärmerückgewinnung als Zusatzmaßnahme](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/kleine-massnahme-grosser-effekt-duschwasser-warmeruckgewinnung-clever-einsetzen): Duschwasser-Wärmerückgewinnung als Zusatzmaßnahme
-    Updated: 2026-10-27T21:16:03Z
+    Updated: 2026-11-14T20:15:53Z
     Author: Valentin Nittbaur
   - [Neue Förderchancen für Duschwasser-Wärmerückgewinnung](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/neue-forderchancen-fur-die-duschwasser-warmeruckgewinnung-unocconi-stellt-losungen-fur-neubau-und-sanierung-vor): Neue Förderchancen für Duschwasser-Wärmerückgewinnung
-    Updated: 2026-10-27T21:16:03Z
+    Updated: 2026-11-14T20:16:41Z
     Author: Valentin Nittbaur
   - [Ewald Schäfer: Wärmerückgewinnung beim Duschen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/energieberatung-ewald-schafer-warmeruckgewinnung-beim-duschen): Ewald Schäfer: Wärmerückgewinnung beim Duschen
-    Updated: 2026-10-27T21:16:03Z
+    Updated: 2026-11-14T20:14:37Z
     Author: Valentin Nittbaur
   - [Wärmerückgewinnung & QNG: on. ingenieurbüro](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/energieeffizienz-qng-waermerueckgewinnung-das-on-ingenieurbuero-im-interview): Wärmerückgewinnung & QNG: on. ingenieurbüro
-    Updated: 2026-10-27T21:16:03Z
+    Updated: 2026-11-14T20:14:37Z
     Author: Valentin Nittbaur
   - [Unocconi bei p!kster: Wärmerückgewinnung beim Duschen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/pikster): Unocconi bei p!kster: Wärmerückgewinnung beim Duschen
-    Updated: 2026-10-27T21:16:03Z
+    Updated: 2026-11-14T23:14:20Z
     Author: Valentin Nittbaur
   - [Dein Energiewerk GmbH: Energieberatung und Sanierung](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/dein-energiewerk-gmbh): Dein Energiewerk GmbH: Energieberatung und Sanierung
-    Updated: 2026-10-27T21:16:03Z
+    Updated: 2026-11-14T20:14:37Z
     Author: Valentin Nittbaur
   - [Was kostet Duschen wirklich? Warmwasserkosten 2026](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/wie-viel-kostet-duschen-wirklich-die-versteckten-kosten-einer-t-glichen-dusche-im-jahr-2026): Was kostet Duschen wirklich? Warmwasserkosten 2026
-    Updated: 2026-10-27T21:16:30Z
+    Updated: 2026-11-14T20:14:37Z
     Author: Valentin Nittbaur
   - [Wärmerückgewinnung in der SHK-Branche: Chancen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/warmeruckgewinnung-in-der-shk-branche-chancen-fur-installationsbetriebe): Wärmerückgewinnung in der SHK-Branche: Chancen
-    Updated: 2026-10-27T21:16:30Z
+    Updated: 2026-11-14T20:14:37Z
     Author: Valentin Nittbaur
   - [Durchlauferhitzer mit Wärmerückgewinnung ergänzen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/die-perfekte-ergaenzung-zum-durchlauferhitzer-waermerueckgewinnung-beim-duschen): Durchlauferhitzer mit Wärmerückgewinnung ergänzen
-    Updated: 2026-10-27T21:16:30Z
+    Updated: 2026-11-14T20:14:37Z
     Author: Valentin Nittbaur
   - [Badsanierung Stuttgart: Walz Badmanufaktur & Unocconi](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/walz-badmanufaktur): Badsanierung Stuttgart: Walz Badmanufaktur & Unocconi
-    Updated: 2026-10-27T21:16:30Z
+    Updated: 2026-11-14T20:14:37Z
     Author: Valentin Nittbaur
   - [Wärmerückgewinnung beim Duschen: einfach erklärt](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/einfach-erklaert): Wärmerückgewinnung beim Duschen: einfach erklärt
-    Updated: 2026-10-27T21:16:30Z
+    Updated: 2026-11-14T20:14:37Z
     Author: Steffen Nittbaur
   - [Schmidt-Bad-Heizung GmbH setzt auf Wärmerückgewinnung](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/schmidt-bad-heizung-gmbh): Schmidt-Bad-Heizung GmbH setzt auf Wärmerückgewinnung
-    Updated: 2026-10-27T21:16:30Z
+    Updated: 2026-11-14T20:14:38Z
     Author: Valentin Nittbaur
   - [Wärmerückgewinnung beim Duschen: Chancen für SHK](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/chancen-fur-installationsbetriebe): Wärmerückgewinnung beim Duschen: Chancen für SHK
-    Updated: 2026-10-27T21:16:30Z
+    Updated: 2026-11-14T20:14:38Z
     Author: Valentin Nittbaur
   - [Dusche nachrüsten: Wärmerückgewinnung beim Duschen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/dusche-nachrusten-und-energie-sparen-so-funktioniert-warmeruckgewinnung-beim-duschen): Dusche nachrüsten: Wärmerückgewinnung beim Duschen
-    Updated: 2026-10-30T08:00:41Z
+    Updated: 2026-11-15T16:52:05Z
     Author: Valentin Nittbaur
   - [Wärmerückgewinnung beim Duschen einfach nachrüsten](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/waermerueckgewinnung-beim-duschen-einfach-nachruesten-und-ab-der-ersten-dusche-sparen): Wärmerückgewinnung beim Duschen einfach nachrüsten
-    Updated: 2026-10-27T21:16:30Z
+    Updated: 2026-11-15T16:52:34Z
     Author: Valentin Nittbaur
   - [Referenz Hotel Terrace Engelberg – Wärmerückgewinnung](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/referenzprojekt-waermerueckgewinnung-beim-duschen-hotel-terrace-engelberg): Referenz Hotel Terrace Engelberg – Wärmerückgewinnung
-    Updated: 2026-10-27T21:16:30Z
+    Updated: 2026-11-14T20:14:38Z
     Author: Valentin Nittbaur
   - [Nachhaltigkeit im Handwerk: Chancen für SHK-Betriebe](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/nachhaltigkeit-im-handwerk): Nachhaltigkeit im Handwerk: Chancen für SHK-Betriebe
-    Updated: 2026-11-05T18:45:37Z
+    Updated: 2026-11-14T20:14:38Z
     Author: Steffen Nittbaur
     Tags: Beratung, Handwerk, SHK
   - [Duschwasser-Wärmerückgewinnung: Leitfaden mit Fakten](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/duschwasser-waermerueckgewinnung-leitfaden): Duschwasser-Wärmerückgewinnung: Leitfaden mit Fakten
@@ -394,7 +394,7 @@
 - [Impressum – Unocconi GmbH](https://unocconi.com/pages/impressum-unocconi-gmbh): 
   Updated: 2026-10-27T21:12:51Z
 - [Datenschutzerklärung – Unocconi GmbH](https://unocconi.com/pages/datenschutz): 1. Allgemeine Hinweise und Grundsätze der DatenverarbeitungWir freuen uns, dass Sie unsere Webseite besuchen. Der Schutz Ihrer Privatsphäre und der...
-  Updated: 2026-10-27T21:12:51Z
+  Updated: 2026-11-14T23:42:06Z
 - [Versandbedingungen – Unocconi GmbH](https://unocconi.com/pages/versandbedingungen-unocconi-gmbh): Wir bieten Ihnen einen zuverlässigen und versicherten Versandservice mit DHL für Ihre Bestellungen an. Unsere Produkte werden sorgfältig verpackt u...
   Updated: 2026-10-27T21:12:51Z
 - [Kontakt – Unocconi GmbH](https://unocconi.com/pages/kontakt-unocconi-gmbh): 
@@ -404,7 +404,7 @@
 - [Montage & Reinigung – Duschrinne mit Wärmetauscher](https://unocconi.com/pages/reinigung-und-montage-duschrinnen-mit-waermetauscher): 
   Updated: 2026-10-27T21:12:51Z
 - [FAQ – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/fragen-und-antworten): 
-  Updated: 2026-10-27T21:12:51Z
+  Updated: 2026-11-14T23:37:17Z
 - [Presse-Kit – Unocconi GmbH](https://unocconi.com/pages/presse-kit-unocconi-gmbh): 
   Updated: 2026-10-27T21:12:51Z
 - [Presseartikel – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/presseartikel-unocconi-gmbh): 
@@ -418,7 +418,7 @@
 - [Duschrinne Twinline 10-Rohr mit Wärmetauscher | 60 %](https://unocconi.com/pages/joulia-twinline-10-rohr-duschrinne-mit-integriertem-waermetauscher): 
   Updated: 2026-10-27T21:13:23Z
 - [Legionellen-Risiko bei Wärmerückgewinnung? Nein](https://unocconi.com/pages/kein-erhohtes-legionellen-risiko): Legionellen vermehren sich bis zu potenziell gefährlichen Konzentrationen bei Temperaturen zwischen 25 und 50 °C, falls ein Biofilm vorhanden ist u...
-  Updated: 2026-10-27T21:13:23Z
+  Updated: 2026-11-14T22:12:29Z
 - [Förderung – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/foerderung-waermerueckgewinnung-beim-duschen): 
   Updated: 2026-10-27T21:13:23Z
 - [Über uns – Unocconi GmbH](https://unocconi.com/pages/ueber-uns-unocconi-gmbh): 
@@ -509,8 +509,8 @@
   Updated: 2026-10-27T21:14:58Z
 - [Energieberatung Keseberg – Wärmerückgewinnung](https://unocconi.com/pages/partner-energieberatung-keseberg): 
   Updated: 2026-10-27T21:15:30Z
-- [Kostenlose Prüfung Ihrer Einbausituation](https://unocconi.com/pages/kostenlose-prufung-ihrer-einbausituation): 
-  Updated: 2026-10-28T08:52:14Z
+- [Kostenlos prüfen: Passt die Duschplatte in Ihre Dusche?](https://unocconi.com/pages/kostenlose-prufung-ihrer-einbausituation): 
+  Updated: 2026-11-14T20:54:59Z
 - [Unocconi Duschplatte – Wärmetauscher für die Dusche](https://unocconi.com/pages/unocconi-duschplatte-warmetauscher-fuer-die-dusche): 
   Updated: 2026-10-30T09:23:36Z
 - [Montage – Unocconi Duschplatte mit Wärmetauscher](https://unocconi.com/pages/montage-unocconi-duschplatte-mit-waermetauscher): 
@@ -527,13 +527,13 @@
 ## Policies
 
 - [Privacy Policy](https://unocconi.com/policies/privacy-policy)
-  Updated: 2026-10-24T21:01:57Z
+  Updated: 2026-11-14T23:38:43Z
 - [Shipping Policy](https://unocconi.com/policies/shipping-policy)
-  Updated: 2023-06-30T15:23:32Z
+  Updated: 2026-11-14T23:41:02Z
 - [Refund Policy](https://unocconi.com/policies/refund-policy)
-  Updated: 2026-10-21T19:11:25Z
+  Updated: 2026-11-15T16:51:31Z
 - [Terms of Service](https://unocconi.com/policies/terms-of-service)
-  Updated: 2026-10-26T16:18:32Z
+  Updated: 2026-11-15T16:51:03Z
 - [Contact Information](https://unocconi.com/policies/contact-information)
   Updated: 2026-10-21T19:12:48Z
 
