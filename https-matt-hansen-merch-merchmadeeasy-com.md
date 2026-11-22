@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2024-02-21T16:02:32Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-14T01:10:02.900Z
+- Updated At: 2026-11-22T01:34:43.350Z
 
 ## Products
 
 - [Yellowstone Records Tee](https://matt-hansen-merch.merchmadeeasy.com/products/yellowstone-records-tee): 100% heavyweight cotton, garment-dyed t-shirt in ivory. Features a front and back print. Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 1/4 M 28 20 1/4 L 29 1/2 22 XL 30 3/4 24 2XL 31 1/2 26
-  Updated: 2026-11-06T10:14:17Z
+  Updated: 2026-11-19T23:44:07Z
   Vendor: Matt Hansen
   Product Type: Shirt
   Availability: Available
@@ -108,29 +108,8 @@ your agent can transact everywhere.
   - [2XL](https://matt-hansen-merch.merchmadeeasy.com/products/yellowstone-records-tee?variant=53172745732390)
     Availability: Available
     Price: $40.00 USD
-- [Orchid Motel Hoodie](https://matt-hansen-merch.merchmadeeasy.com/products/orchid-motel-hoodie): 80/20 ringspun cotton/polyester blend hoodie in black with front and back print Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 1/2 23 1/4 36 M 28 1/2 24 1/2 37 L 29 1/2 25 1/2 38 XL 30 1/2 26 3/4 39 2XL 32 28 40
-  Updated: 2026-11-13T10:26:22Z
-  Vendor: Matt Hansen
-  Product Type: Hoodie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0860/5374/9030/files/MH_Orchid_Hotel_Hoodie.png?v=1778774163
-  - [S](https://matt-hansen-merch.merchmadeeasy.com/products/orchid-motel-hoodie?variant=53197736444198)
-    Availability: Available
-    Price: $75.00 USD
-  - [M](https://matt-hansen-merch.merchmadeeasy.com/products/orchid-motel-hoodie?variant=53197736476966)
-    Availability: Available
-    Price: $75.00 USD
-  - [L](https://matt-hansen-merch.merchmadeeasy.com/products/orchid-motel-hoodie?variant=53197736509734)
-    Availability: Available
-    Price: $75.00 USD
-  - [XL](https://matt-hansen-merch.merchmadeeasy.com/products/orchid-motel-hoodie?variant=53197736542502)
-    Availability: Available
-    Price: $75.00 USD
-  - [2XL](https://matt-hansen-merch.merchmadeeasy.com/products/orchid-motel-hoodie?variant=53197736575270)
-    Availability: Available
-    Price: $75.00 USD
 - [Orchid A Frame Hat](https://matt-hansen-merch.merchmadeeasy.com/products/orchid-trucker-hat): 100% cotton twill 5-panel hat in black with embroidered patch detail
-  Updated: 2026-10-15T12:41:17Z
+  Updated: 2026-11-19T16:08:18Z
   Vendor: Matt Hansen
   Product Type: Hat
   Availability: Available
@@ -140,22 +119,22 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://matt-hansen-merch.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-13T12:14:12Z
+  Updated: 2026-11-20T12:11:30Z
   Total Products: 17
 - [Apparel](https://matt-hansen-merch.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-13T12:14:12Z
+  Updated: 2026-11-20T12:11:30Z
   Total Products: 12
 - [Accessories](https://matt-hansen-merch.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-08T11:13:40Z
+  Updated: 2026-11-20T12:11:30Z
   Total Products: 5
 - [Hats](https://matt-hansen-merch.merchmadeeasy.com/collections/hats)
-  Updated: 2026-10-08T11:13:40Z
+  Updated: 2026-11-20T12:11:30Z
   Total Products: 2
 - [Music](https://matt-hansen-merch.merchmadeeasy.com/collections/music)
   Updated: 2026-10-28T11:12:11Z
   Total Products: 2
 - [All](https://matt-hansen-merch.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-13T12:14:12Z
+  Updated: 2026-11-20T12:11:30Z
   Total Products: 22
 - [2024 Fall Tour](https://matt-hansen-merch.merchmadeeasy.com/collections/2024-fall-tour)
   Updated: 2026-06-02T04:52:18Z
@@ -170,7 +149,7 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:41:12Z
   Total Products: 2
 - [Orchid](https://matt-hansen-merch.merchmadeeasy.com/collections/orchid)
-  Updated: 2026-11-13T12:14:12Z
+  Updated: 2026-11-20T12:11:30Z
   Total Products: 9
 - [Music](https://matt-hansen-merch.merchmadeeasy.com/collections/music-1)
   Updated: 2026-10-28T11:12:11Z
