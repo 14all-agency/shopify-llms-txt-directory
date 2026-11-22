@@ -8,7 +8,7 @@
 - Contact Email: info@hattonjewels.com
 - Contact Phone: 020 3116 0069
 - Address: 5 Hatton Place, London, EC1N 8RU
-- Updated At: 2026-11-15T00:31:42.179Z
+- Updated At: 2026-11-22T00:34:17.604Z
 
 Hatton Jewels is a specialist fine jewellery business based in Hatton Garden, London's historic jewellery district. We specialise in buying and  antique, vintage, pre-owned and luxury jewellery, bespoke jewellery design, engagement rings and professional jewellery valuations.
 
@@ -1126,8 +1126,8 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/PinkSapphire_DiamondDropPendant2_1.jpg?v=1752657046
   Price: £3,500.00 GBP
-- [Fancy Yellow Diamond Cluster Ring](https://hattonjewels.com/products/fancy-yellow-diamond-cluster-ring): A beautiful pre-owned Yellow Diamond cluster ring, crafted in platinum. At the centre of the ring sits a captivating 0.56ct Fancy Vivid Yellow Cushion Cut Diamond. The vibrant centre stone is framed by a double halo of Brilliant Cut Diamonds, with further Diamonds delicately set along each shoulder, enhancing the ring’s radiant and elegant design. The total surrounding Diamonds weigh at approximately 0.32ct, with the Diamonds graded G in colour and VS in clarity, accompanying the yellow diamond is a digital GIA certificate. Size: K (complimentary resizing available*) A stunning expression of colour and elegance, this ring is equally beautiful as a distinctive engagement ring or simply as a joyful addition to your jewellery collection. This ring comes with a Hatton Jewels presentation box and digital GIA certificate. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. A stunning expression of colour and elegance, this ring is equally beautiful as a distinctive engagement ring or simply as a joyful addition to your jewellery collection. Product Code: HJNK1681
-  Updated: 2026-11-13T11:42:56Z
+- [Fancy Yellow Diamond Cluster Ring](https://hattonjewels.com/products/fancy-yellow-diamond-cluster-ring): A beautiful pre-owned Yellow Diamond cluster ring, crafted in platinum. At the centre of the ring sits a captivating GIA laser inscribed 0.56ct Fancy Vivid Yellow Cushion Cut Diamond with IF clarity. The vibrant centre stone is framed by a double halo of Brilliant Cut Diamonds, with further Diamonds delicately set along each shoulder, enhancing the ring’s radiant and elegant design. The total surrounding Diamonds weigh at approximately 0.32ct, with the Diamonds graded G in colour and VS in clarity. Size: K (complimentary resizing available*) A stunning expression of colour and elegance, this ring is equally beautiful as a distinctive engagement ring or simply as a joyful addition to your jewellery collection. This ring comes with a Hatton Jewels presentation box and digital GIA certificate. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. A stunning expression of colour and elegance, this ring is equally beautiful as a distinctive engagement ring or simply as a joyful addition to your jewellery collection. Product Code: HJNK1681
+  Updated: 2026-11-20T00:59:19Z
   Vendor: Hatton Jewels
   Product Type: Ring
   Availability: Available
@@ -1196,8 +1196,8 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/Classic_Diamond_Stud_Earrings1.jpg?v=1789726028
   Price: £1,500.00 GBP
-- [Piaget Multi-Diamond Spinning Ring](https://hattonjewels.com/products/pre-owned-piaget-spinning-ring): Pre-owned Piaget Spinning Ring, crafted in 18ct white gold with Diamonds. The ring features a central spinning band adorned with seven flush-set diamonds, adding dynamic movement to the design. Its unique spinning mechanism enhances visual interest. Perfect for those who appreciate refined luxury and innovative design, this ring embodies both sophistication and playful charm. This ring has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Ring width: 7.3mm Product code: HJK1285
-  Updated: 2026-11-13T11:43:05Z
+- [Piaget Multi-Diamond 'Possession' Spinning Ring](https://hattonjewels.com/products/pre-owned-piaget-spinning-ring): Pre-owned Piaget Possession Spinning Ring, crafted in 18ct white gold with Diamonds. The ring features a central spinning band adorned with seven flush-set diamonds, adding dynamic movement to the design. Its unique spinning mechanism enhances visual interest. Perfect for those who appreciate refined luxury and innovative design, this ring embodies both sophistication and playful charm. This ring has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Ring width: 7.3mm Product code: HJK1285
+  Updated: 2026-11-20T02:59:26Z
   Vendor: Piaget
   Product Type: Ring
   Availability: Available
@@ -1289,19 +1289,19 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK240221.49ctNaturalSaltwaterPearlandDiamondDressRing5.jpg?v=1789726029
   Price: £18,500.00 GBP
 - [Boodles Diamond Solitaire Ring](https://hattonjewels.com/products/pre-owned-boodles-diamond-solitaire-ring): A pre-owned modern solitaire ring from the Boodles 'Petal' collection' crafted in 18ct yellow gold. The ring features a 1.01ct round cut Diamond to the centre, with approximately 0.33ct of further Diamonds set into two rows in the shoulders. The ring also has a white gold 'V' shaped setting with Diamonds set into the side profile. The centre Diamond is graded F in colour and VS1 in clarity by GIA. Size: M 1/2 (Enquire for resizing*) Effortlessly elegant and timeless in design, this beautiful engagement ring is a piece to cherish now and pass down through generations. This stunning ring comes with a Boodles presentation box and GIA certificate. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product Code: HJK5427
-  Updated: 2026-11-13T11:43:16Z
+  Updated: 2026-11-18T16:29:00Z
   Vendor: Boodles
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5427Boodles1.01ctDiamondEngagementRingwlogo_1.jpg?v=1789726027
   Price: £6,800.00 GBP
-- [Damiani Minou 1.30ct Diamond Pendant](https://hattonjewels.com/products/pre-owned-damiani-minou-1-30ct-diamond-solitaire-pendant): A beautiful pre-owned 1.30ct Diamond pendant from the Damiani Minou collection, this elegant pendant showcases a brilliant-cut Diamond, approximately 1.30 carats, secured in a six-claw setting. A subtle mini-bale allows the chain to run seamlessly through the design, ensuring a clean, sophisticated silhouette. Necklace is attached to an 18ct white gold trace chain with lobster clasp set with a further small Diamond with a chain measuring 44cm. Diamond colour has been graded H and a SI1 clarity grade. Pendant comes with original Damiani Box and Hatton Jewels documentation. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product Code HJK4452
-  Updated: 2026-11-13T11:43:20Z
+- [Damiani Minou 1.30ct Diamond Pendant](https://hattonjewels.com/products/pre-owned-damiani-minou-1-30ct-diamond-solitaire-pendant): A timeless piece that deserves a place in every jewellery collection. This beautiful pre-owned 1.30ct diamond pendant from Damiani’s Minou collection is the perfect blend of understated elegance and everyday luxury. At its centre sits a brilliant cut diamond, approximately 1.30 carats, secured in a classic six-claw setting to allow the diamond to catch the light beautifully. A subtle mini-bale allows the chain to run seamlessly through the design, creating a clean and sophisticated silhouette. Complete with an 18ct white gold trace chain, measuring 44cm, and finished with a lobster clasp featuring an additional small diamond, every detail has been thoughtfully considered. Graded H colour and SI1 clarity, this is a true jewellery staple whether you're treating yourself or searching for a truly special gift, it's a piece to treasure for years to come. Damiani's classic and iconic 'Minou' collection celebrates the encounter of white gold or platinum with diamonds. Delicate, refined and elegant, the design of this line stands out for its exclusive “raised” diamond setting which accentuates the ethereal splendour of the stone. Pendant comes with original Damiani Box and Hatton Jewels authenticity certificate. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product code: HJK4452
+  Updated: 2026-11-20T23:21:55Z
   Vendor: Damiani
   Product Type: Necklace
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK4452_1.30ct_Diamond_Damiani_Minou_Pendant_w_logo.jpg?v=1789726028
-  Price: £7,750.00 GBP
+  Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK4452_Damiani_Minou_1.30ct_Diamond_Pendant.jpg?v=1795187580
+  Price: £6,500.00 GBP
 - [Cartier Three Diamond Love Ring - Size 53](https://hattonjewels.com/products/pre-owned-cartier-white-gold-diamond-love-ring): A pre-owned classic Cartier Diamond Love ring, crafted in 18ct white gold, size 53. The ring is set with three brilliant cut Diamonds into alternating screw motifs with a total carat weight 0.23ct. The Love collection began with the iconic bracelet, its iconic screw motif design is one of the most notable lines of jewellery by Cartier. Timeless, easy-to-wear and instantly recognisable, the Cartier love collection has become one of the most popular pieces of jewellery over the past 60 years. Above it's design and popularity it is a symbol for love and affection. Ring is in excellent condition and comes with a Cartier travel pouch and Cartier certificate dated September 2016. Product Code HJK4726
   Updated: 2026-11-13T11:43:20Z
   Vendor: Cartier
@@ -1338,7 +1338,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5697BulgariBZero1WGDiamondRingwlogo.jpg?v=1789725970
   Price: £8,000.00 GBP
 - [Tiffany & Co. Diamond Eternity Ring](https://hattonjewels.com/products/pre-owned-tiffany-diamond-eternity-ring): A pre-owned Tiffany & Co. Diamond Half Eternity Ring, beautifully crafted in 18ct yellow gold. A classic channel set Diamond half eternity ring from the 'Tiffany®' collection. Set with seventeen round brilliant cut Diamonds, with a total approximate Diamond carat weight of 0.17ct, measuring 2.30m in width. Size: L 1/2 (Enquire for ring sizing*) Ring comes in a Hatton Jewels presentation box with Hatton Jewels authentication paperwork. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product code: HJK5185
-  Updated: 2026-11-13T11:43:27Z
+  Updated: 2026-11-18T16:17:56Z
   Vendor: Tiffany & Co
   Product Type: Ring
   Availability: Available
@@ -1351,13 +1351,6 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5717_VCA_Chalcedony_Alhambra_Bracelet_w_logo.jpg?v=1768564929
   Price: £4,750.00 GBP
-- [Cartier Diamond Paved Love Ring - Size 55](https://hattonjewels.com/products/pre-owned-cartier-diamond-paved-love-ring): An iconic pre-owned Cartier love ring, pave set with round brilliant cut Diamonds, crafted in 18ct yellow gold, size 55. The ring has Cartier engraving to the inside, along with the individual serial number, and measures 4.75mm in width. The piece is in excellent condition, with no eye-visible scratches. This item comes in a Cartier presentation box with Hatton Jewels authentication paperwork. The Love collection with its iconic screw motif design is one of the most notable lines of jewellery by Cartier. Timeless, easy-to-wear and instantly recognisable, the Cartier love pieces have become one of the most popular collections over the past 60 years, since the very first 'Love' item was created by Aldo Cipullo. Product Code: HJK5247
-  Updated: 2026-11-13T11:43:31Z
-  Vendor: Cartier
-  Product Type: Ring
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5247CartierYellowGoldDiamondPavedLoveRingwlogo.jpg?v=1789725970
-  Price: £5,050.00 GBP
 - [Cartier SM Rose Gold Diamond Love Bracelet - Size 17](https://hattonjewels.com/products/pre-owned-cartier-rose-gold-diamond-love-bracelet-sm): An iconic Cartier design, a pre-owned Cartier rose gold SM Love bracelet, featuring ten round brilliant cut Diamonds set within, in a size 17. The SM is a thinner, lighter version of the 1969 classic model. The Love collection with its iconic screw motif design is one of the most notable lines of jewellery by Cartier. Timeless, easy-to-wear and instantly recognisable, the Cartier love pieces have become one of the most popular collections over the past 60 years, since the very first 'Love' item was created by Aldo Cipullo. Complete with its original Cartier travel pouch, replacement screwdriver and Hatton Jewels authentication paperwork. This bracelet has been fully serviced by Hatton Jewels to be in excellent condition. Product Code: HJK5311
   Updated: 2026-11-13T11:43:31Z
   Vendor: Cartier
@@ -1365,20 +1358,20 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5311CartierRGDiamondLoveBracelet-SM17wlogo.jpg?v=1789725969
   Price: £6,250.00 GBP
-- [Vintage Piaget Diamond Spinning Ring](https://hattonjewels.com/products/pre-owned-piaget-yellow-gold-diamond-spinning-ring): A statement, pre-owned vintage Piaget Diamond spinning ring, crafted in 18ct yellow gold, size 54. The heavy-weight ring has a central spinning band inset into the design, with a flush set round brilliant cut Diamond, weighing approximately 0.10ct. The ring measures 10.80mm in width and weighs 20 grams.The ring has Piaget engraving to the inside, along with the individual serial number and date of manufacture, 1993. The piece is in very condition, with no eye-visible scratches and only minor signs of wear. This item comes in a Hatton Jewels presentation box. Product Code: HJK5283
-  Updated: 2026-11-13T11:43:36Z
+- [Vintage Piaget Diamond 'Possession' Spinning Ring](https://hattonjewels.com/products/pre-owned-piaget-yellow-gold-diamond-spinning-ring): A statement, pre-owned vintage Piaget Possession Diamond spinning ring, crafted in 18ct yellow gold, size 54. The heavy-weight ring has a central spinning band inset into the design, with a flush set round brilliant cut Diamond, weighing approximately 0.10ct. The ring measures 10.80mm in width and weighs 20 grams.The ring has Piaget engraving to the inside, along with the individual serial number and date of manufacture, 1993. The piece is in very condition, with no eye-visible scratches and only minor signs of wear. This item comes in a Hatton Jewels presentation box. Product Code: HJK5283
+  Updated: 2026-11-20T23:03:52Z
   Vendor: Piaget
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5283Pre-ownedPiagetDiamondSpinningRingwlogo.jpg?v=1789725969
   Price: £5,500.00 GBP
 - [Gucci Icons Earrings](https://hattonjewels.com/products/pre-owned-gucci-icons-earrings): A sleek and sophisticated, pre-owned pair of Gucci hoop earrings from the 'Icons' collection, crafted in 18ct yellow gold. Earrings measure 15mm in diameter, 4mm in width, with secure post and scroll fittings. The earrings are excellent condition and come with Hatton Jewels presentation box. Product Code: HJK5368
-  Updated: 2026-11-13T11:43:35Z
+  Updated: 2026-11-20T12:31:35Z
   Vendor: Gucci
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5368GucciYellowGoldHoopEarringswlogo.jpg?v=1789725969
-  Price: £1,250.00 GBP
+  Price: £950.00 GBP
 - [Bulgari B.zero1 Necklace](https://hattonjewels.com/products/pre-owned-bulgari-bzero1-necklace): A pre-owned Bulgari B.zero1 pavé diamond pendant necklace set in 18ct white gold. This necklace is set with 101 round brilliant cut diamonds giving an estimated total carat weight of 0.87ct. The pendant measures approximately 14mm and the necklace can be worn at four different lengths ranging from 38cm to 45.5cm. A true icon since 1999, the B.zero1 design has a signature blend of Roman inspiration, industrial design and state-of-the-art craftsmanship. Comes in a Hatton Jewels presentation box and with Hatton Jewels authenticity guarantee. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product code: HJK5698
   Updated: 2026-11-13T11:43:35Z
   Vendor: Bulgari
@@ -1386,13 +1379,6 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5698_Bulgari_BZero.1_Diamond_Necklace_w_logo.jpg?v=1789725970
   Price: £7,500.00 GBP
-- [Bulgari Bzero1 Earrings](https://hattonjewels.com/products/pre-owned-bulgari-bzero1-earrings): A pair of pre-owned Bulgari BZero1 drop earrings, featuring the signature Bulgari BZero1 rondel to the end of each drop, with two open circle with the Bulgari logo to the circumference incorporated into the design. The earrings have been crafted in 18ct white gold with a secure post and alpha back fittings. Earring drop measures 4.5cm in length from the post. A true icon since 1999, the B.zero1 design has a signature blend of Roman inspiration, industrial design and state-of-the-art craftsmanship. This item comes with a Hatton Jewels presentation box and Hatton Jewels Authenticity Certificate. This item has been fully serviced by Hatton Jewels to be in excellent condition with no signs of wear. Product Code: HJK5365B
-  Updated: 2026-11-13T11:43:35Z
-  Vendor: Bulgari
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5365B_Bulgari_Bzero1_Drop_Earrings_w_logo.jpg?v=1789725968
-  Price: £1,750.00 GBP
 - [Bulgari Bzero1 Rock Bracelet](https://hattonjewels.com/products/pre-owned-bulgari-bzero1-bracelet): An exquisite pre-owned Bvlgari BZero1 Rock bracelet, crafted in 18ct rose gold, with studded spiral and diamond-set edges. A true icon since 1999, B.zero1 defies convention and trends with its signature blend of Roman inspiration, industrial design and state-of-the-art craftsmanship. Channelling the timeless aesthetics of Roman architecture, with an unmistakable, avant-garde identity that stands as a powerful expression of Bulgari’s creative vision and relentless drive for innovation. Size: Medium This bracelet comes with a Hatton Jewels presentation box and a Hatton Jewels authenticity certificate. This item has been fully serviced by Hatton Jewels to be in excellent condition, with no signs of wear. Product Code: HJK6056
   Updated: 2026-11-13T11:43:40Z
   Vendor: Bulgari
@@ -1400,8 +1386,8 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK6056BulgariBZeroRGBracelet.jpg?v=1776078231
   Price: £15,000.00 GBP
-- [Etincelle de Cartier Diamond Full Eternity Ring - Size 46](https://hattonjewels.com/products/pre-owned-etincelle-de-cartier-diamond-full-eternity-ring-1): A pre-owned classic Étincelle de Cartier full eternity ring, featuring round brilliant cut Diamonds in an elegant micro-claw setting, crafted in 18ct white gold, size 46. The ring measures 1.50mm in width, with a total Diamond weight of approximately 0.22ct. The Étincelle de Cartier collection is a celebration of delicate brilliance and refined elegance. Named after the French word for “spark,” the collection is characterised by its minimalist design and pavé-set Diamonds. Sleek and contemporary, Étincelle de Cartier features slender bands, subtle curves, and timeless silhouettes, making it ideal for both everyday wear and special occasions. This item comes with an original Cartier presentation box and a Cartier Authenticity Certificate. This item has been fully serviced by Hatton Jewels to be in excellent condition with no signs of wear. Product Code: HJK5421
-  Updated: 2026-11-13T11:43:40Z
+- [Etincelle de Cartier Diamond Full Eternity Pinky Ring - Size 46](https://hattonjewels.com/products/pre-owned-etincelle-de-cartier-diamond-full-eternity-ring-1): A pre-owned classic Étincelle de Cartier full eternity pinky ring, featuring round brilliant cut Diamonds in an elegant micro-claw setting, crafted in 18ct white gold, size 46. The ring measures 1.50mm in width, with a total Diamond weight of approximately 0.22ct. The Étincelle de Cartier collection is a celebration of delicate brilliance and refined elegance. Named after the French word for “spark,” the collection is characterised by its minimalist design and pavé-set Diamonds. Sleek and contemporary, Étincelle de Cartier features slender bands, subtle curves, and timeless silhouettes, making it ideal for both everyday wear and special occasions. This item comes with an original Cartier presentation box and a Cartier Authenticity Certificate. This item has been fully serviced by Hatton Jewels to be in excellent condition with no signs of wear. Product Code: HJK5421
+  Updated: 2026-11-20T23:58:00Z
   Vendor: Cartier
   Product Type: Ring
   Availability: Available
@@ -1414,19 +1400,26 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/HJK5319Art-DecoRuby_DiamondRing.jpg?v=1789725969
   Price: £5,750.00 GBP
-[List Continued](https://hattonjewels.com/a/llms-agent/llms.txt?shop=fvqsc5-kz.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTY1NDcwNjcwODgyNSwibGFzdF92YWx1ZSI6IjE1NjU0NzA2NzA4ODI1In0%3D)
+- [Vintage Van Cleef & Arpels Onyx 20 Motif Alhambra Necklace](https://hattonjewels.com/products/van-cleef-arpels-20-motif-alhambra-necklace): A Vintage, pre-owned 1970s 18ct yellow gold and Onyx twenty-motif necklace from the iconic Van Cleef & Arpels Alhambra collection. Necklace measure 62.5cm in length and has been fitted with a new replacement 18ct gold clasp. Necklace comes in very good, with a Hatton Jewels presentation box with Hatton Jewels authentication document. The Van Cleef & Arpels Alhambra collection, first introduced in 1968, is renowned for its timeless elegance and signature quatrefoil motif. Inspired by the shape of a four-leaf clover, the collection symbolises luck and has become one of the most recognisable collections by VCA. Product Code: HJK5506
+  Updated: 2026-11-13T11:43:41Z
+  Vendor: Van Cleef & Arpels
+  Product Type: Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0911/1004/8089/files/VCAOnyxNecklac.jpg?v=1789725969
+  Price: £11,500.00 GBP
+[List Continued](https://hattonjewels.com/a/llms-agent/llms.txt?shop=fvqsc5-kz.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTY1NTk4MjEwNDkyMSwibGFzdF92YWx1ZSI6IjE1NjU1OTgyMTA0OTIxIn0%3D)
 
 ## Collections
 
 - [New Arrivals](https://hattonjewels.com/collections/new-in): From timeless classics, contemporary designs and loved jewellery houses, our new arrivals are carefully selected to bring you exceptional craftsmanship and effortless style.
-  Updated: 2026-11-13T10:02:05Z
-  Total Products: 62
+  Updated: 2026-11-19T17:02:20Z
+  Total Products: 66
 - [Pre-Owned Cartier Jewellery](https://hattonjewels.com/collections/pre-owned-cartier-jewellery): Discover exquisite pre-owned Cartier jewellery at Hatton Jewels. Shop luxury pieces including rings, bracelets, necklaces, and more, all authenticated.
-  Updated: 2026-11-12T13:21:22Z
-  Total Products: 22
+  Updated: 2026-11-20T11:57:58Z
+  Total Products: 21
 - [Pre-Owned Jewellery](https://hattonjewels.com/collections/pre-owned-jewellery): Discover expertly curated pre-owned and second-hand jewellery at Hatton Jewels. Shop vintage & designer pieces including Cartier, Tiffany & Van Cleef, all quality-checked and .
-  Updated: 2026-11-13T10:02:05Z
-  Total Products: 389
+  Updated: 2026-11-21T12:20:20Z
+  Total Products: 393
 - [Engagement Rings](https://hattonjewels.com/collections/engagement-rings): Explore vintage, antique & bespoke engagement rings at Hatton Jewels. Discover 1–3 carat diamond rings, unique cuts & custom designs in Hatton Garden.
   Updated: 2026-09-22T10:07:31Z
   Total Products: 69
@@ -1467,23 +1460,23 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-09-09T14:24:19Z
   Total Products: 20
 - [Dress Rings](https://hattonjewels.com/collections/dress-rings)
-  Updated: 2026-09-22T11:21:20Z
+  Updated: 2026-11-19T17:27:16Z
   Total Products: 26
 - [Pre-Owned  Tiffany & Co Jewellery](https://hattonjewels.com/collections/tiffany-co-jewellery): Explore our collection of pre-owned Tiffany & Co. jewellery at Hatton Jewels. Find timeless rings, necklaces, bracelets, and more, all authenticated. Shop now.
-  Updated: 2026-11-12T13:20:01Z
-  Total Products: 17
+  Updated: 2026-11-20T11:56:14Z
+  Total Products: 16
 - [Pre-Owned Van Cleef & Arpels Jewellery](https://hattonjewels.com/collections/van-cleef-arpels-jewellery): Discover exquisite pre-owned Van Cleef & Arpels jewellery at Hatton Jewels. Shop authenticated vintage and contemporary rings, necklaces, and more.
-  Updated: 2026-11-11T10:41:57Z
-  Total Products: 5
+  Updated: 2026-11-20T15:37:25Z
+  Total Products: 4
 - [Gifts Under £2000](https://hattonjewels.com/collections/gifts-under-2000)
-  Updated: 2026-11-12T13:20:01Z
-  Total Products: 34
+  Updated: 2026-11-21T21:54:59Z
+  Total Products: 35
 - [Necklaces & Pendants](https://hattonjewels.com/collections/necklaces-pendants): Explore Hatton Jewels’ collection of diamond necklaces for women, including solitaire diamond necklaces, diamond pendant necklaces, and sapphires. Shop now.
   Updated: 2026-06-02T14:40:49Z
   Total Products: 17
 - [Gifts For Her](https://hattonjewels.com/collections/gifts-for-her): A hand selected collection of beautiful pieces, perfect for gifting to that special someone or for treating yourself.
-  Updated: 2026-11-12T13:11:54Z
-  Total Products: 111
+  Updated: 2026-11-20T12:37:15Z
+  Total Products: 110
 - [Jewellery Gifts](https://hattonjewels.com/collections/gifts-collection): Discover timeless jewellery gifts at Hatton Jewels. From diamond earrings to personalised pieces, find the perfect gift for every occasion and style.
   Updated: 2026-11-03T17:04:52Z
   Total Products: 47
@@ -1491,8 +1484,8 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-06-02T14:40:51Z
   Total Products: 4
 - [Pre-Owned Engagement Rings](https://hattonjewels.com/collections/pre-owned-engagement-rings): Shop second-hand engagement rings at Hatton Jewels. Discover vintage & pre-owned diamond rings with timeless style, quality craftsmanship & great value.
-  Updated: 2026-11-13T10:02:05Z
-  Total Products: 53
+  Updated: 2026-11-19T17:02:20Z
+  Total Products: 54
 - [Wedding Jewellery](https://hattonjewels.com/collections/wedding-jewellery): Explore elegant wedding jewellery at Hatton Jewels. Discover wedding rings, diamond bracelets, and timeless pieces to celebrate your special day in style.
   Updated: 2026-11-05T11:04:35Z
   Total Products: 30
@@ -1500,17 +1493,17 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-10-01T08:43:10Z
   Total Products: 16
 - [Antique & Vintage Jewellery](https://hattonjewels.com/collections/antique-jewellery): Discover jewellery with a story to tell. Our collection of antique and vintage jewellery brings together beautifully crafted pieces from bygone eras. Each piece is unique and full of character, ready for a new chapter.
-  Updated: 2026-11-13T10:02:05Z
-  Total Products: 46
+  Updated: 2026-11-19T17:27:16Z
+  Total Products: 47
 - [Branded Luxury Jewellery](https://hattonjewels.com/collections/branded-jewellery): Discover the iconic collections of Cartier, the refined elegance of Tiffany & Co., and the exquisite beauty of Van Cleef & Arpels, alongside a curated selection of world-renowned jewellery houses designed to enchant and inspire.
-  Updated: 2026-11-12T13:21:22Z
-  Total Products: 89
+  Updated: 2026-11-21T21:54:59Z
+  Total Products: 87
 - [Summer Collection](https://hattonjewels.com/collections/summer-collection)
-  Updated: 2026-11-12T11:57:48Z
-  Total Products: 50
+  Updated: 2026-11-20T15:37:25Z
+  Total Products: 46
 - [Birthstone Jewellery](https://hattonjewels.com/collections/birthstone-jewellery)
-  Updated: 2026-11-13T10:02:05Z
-  Total Products: 29
+  Updated: 2026-11-20T11:14:34Z
+  Total Products: 28
 - [Men's Jewellery](https://hattonjewels.com/collections/mens-jewellery)
   Updated: 2026-05-26T17:32:38Z
   Total Products: 3
@@ -1518,17 +1511,17 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-07-02T12:31:05Z
   Total Products: 24
 - [Our Top Picks](https://hattonjewels.com/collections/our-top-picks): A handpicked selection of timeless treasures, chosen for their beauty and charm, each piece chosen with you in mind and ready for you to fall in love with.
-  Updated: 2026-11-12T11:57:48Z
+  Updated: 2026-11-20T11:14:34Z
   Total Products: 71
 - [Pre-Owned High Jewellery](https://hattonjewels.com/collections/pre-owned-high-jewellery): Each piece in this meticulously curated collection is a testament to the artistry and dedication of master jewellers who have transformed precious materials into wearable works of art.
   Updated: 2026-11-12T13:21:22Z
   Total Products: 24
 - [Cartier Love Collection](https://hattonjewels.com/collections/cartier-love-collection): With its iconic screw motif design is one of the most notable lines of jewellery by Cartier. Timeless, easy-to-wear and instantly recognisable, the Cartier love pieces have become one of the most popular collections.
-  Updated: 2026-11-03T17:04:52Z
-  Total Products: 13
+  Updated: 2026-11-16T10:08:37Z
+  Total Products: 12
 - [Autumn Collection](https://hattonjewels.com/collections/autumn-collection): From delicate necklaces to chunky rings made to be noticed, discover the pieces that will become the finishing touch to your autumn wardrobe. Think warm rose gold, colourful gemstones and jewellery that layers beautifully with cosy knits, tailored coats and everything in between..
-  Updated: 2026-11-13T10:02:05Z
-  Total Products: 80
+  Updated: 2026-11-21T21:54:59Z
+  Total Products: 81
 - [Diamond Stud Earrings](https://hattonjewels.com/collections/diamond-stud-earrings)
   Updated: 2026-06-02T16:28:44Z
   Total Products: 8
@@ -1536,7 +1529,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-11-12T11:57:48Z
   Total Products: 8
 - [Etincelle de Cartier Collection](https://hattonjewels.com/collections/etincelle-de-cartier-collection): Celebrating elegance with minimalist designs and pavé-set diamonds creating sleek, contemporary pieces, perfect for any occasion.
-  Updated: 2026-09-28T14:03:20Z
+  Updated: 2026-11-20T11:57:58Z
   Total Products: 4
 - [Cartier Juste Un Clou Collection](https://hattonjewels.com/collections/juste-un-clou-collection): Transforming an ordinary nail into an extraordinary piece of jewellery, embodying bold minimalism and rebellious elegance.
   Updated: 2026-11-05T10:54:02Z
@@ -1551,74 +1544,74 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-07-20T09:23:04Z
   Total Products: 24
 - [VCA Alhambra](https://hattonjewels.com/collections/vca-alhambra)
-  Updated: 2026-11-03T12:49:02Z
-  Total Products: 4
+  Updated: 2026-11-20T15:37:25Z
+  Total Products: 3
 - [Tiffany 'By The Yard'](https://hattonjewels.com/collections/tiffany-by-the-yard)
-  Updated: 2026-06-02T16:56:21Z
-  Total Products: 1
+  Updated: 2026-11-20T11:56:14Z
+  Total Products: 0
 - [Bulgari B.Zero1](https://hattonjewels.com/collections/bulgari-b-zero1)
-  Updated: 2026-11-05T10:57:41Z
+  Updated: 2026-11-21T21:54:59Z
   Total Products: 7
 - [Christmas Gifts](https://hattonjewels.com/collections/christmas-gifts): Gift with a story to tell. From timeless antiques and vintage treasures to coveted designer names, rare finds and everyday favourites, find something truly special for everyone on your list.
-  Updated: 2026-11-05T15:29:06Z
-  Total Products: 32
+  Updated: 2026-11-21T12:20:20Z
+  Total Products: 33
 - [Stocking Fillers](https://hattonjewels.com/collections/stocking-fillers): Little luxuries, beautifully chosen. Discover our collection of thoughtful stocking fillers, from delicate everyday pieces to unique jewellery treasures, perfect for adding a little extra sparkle to their Christmas.
-  Updated: 2026-11-05T15:44:42Z
+  Updated: 2026-11-20T12:31:36Z
   Total Products: 28
 - [Pre-Owned Rings](https://hattonjewels.com/collections/pre-owned-rings)
-  Updated: 2026-11-13T10:02:05Z
-  Total Products: 111
+  Updated: 2026-11-20T11:57:58Z
+  Total Products: 113
 - [Pre-Owned Earrings](https://hattonjewels.com/collections/pre-owned-earrings)
-  Updated: 2026-11-12T12:11:41Z
-  Total Products: 30
+  Updated: 2026-11-21T21:54:59Z
+  Total Products: 29
 - [Pre-Owned Bracelets](https://hattonjewels.com/collections/pre-owned-bracelets)
-  Updated: 2026-11-11T10:41:57Z
+  Updated: 2026-11-20T12:37:15Z
   Total Products: 24
 - [Pre-Owned Necklaces & Pendants](https://hattonjewels.com/collections/pre-owned-necklaces-pendants)
-  Updated: 2026-11-12T13:21:22Z
-  Total Products: 29
+  Updated: 2026-11-20T11:56:14Z
+  Total Products: 27
 - [Cartier Love Bracelets](https://hattonjewels.com/collections/cartier-love-bracelets)
   Updated: 2026-11-05T10:53:16Z
   Total Products: 21
 - [Everyday Jewellery Essentials](https://hattonjewels.com/collections/jewellery-essentials): A curated selection of pieces that every jewellery box deserves, find the pieces to make your everyday looks feel effortless yet intentional, from chunky statement rings to simple diamond necklaces.
-  Updated: 2026-11-12T11:57:48Z
-  Total Products: 94
+  Updated: 2026-11-21T12:20:20Z
+  Total Products: 96
 - [Diamond Necklaces](https://hattonjewels.com/collections/diamond-necklaces)
   Updated: 2026-06-02T18:52:47Z
   Total Products: 11
 - [Winter Collection](https://hattonjewels.com/collections/winter-collection)
-  Updated: 2026-11-12T09:55:54Z
-  Total Products: 19
+  Updated: 2026-11-20T11:56:14Z
+  Total Products: 17
 - [Valentine's Collection](https://hattonjewels.com/collections/valentines-day-jewellery): Fall in love all over again with our Valentine Collection, curated to celebrate every kind of love. Each piece is made to spark smiles, steal hearts, and turn simple moments into something unforgettable.
-  Updated: 2026-11-05T10:57:39Z
+  Updated: 2026-11-20T11:57:58Z
   Total Products: 41
 - [Spring Collection](https://hattonjewels.com/collections/spring-jewellery)
-  Updated: 2026-11-05T13:11:11Z
+  Updated: 2026-11-21T12:20:20Z
   Total Products: 37
 - [Cushion Cut Diamond Rings](https://hattonjewels.com/collections/cushion-cut-diamond-rings)
   Updated: 2026-07-02T12:30:29Z
   Total Products: 5
 - [Pre-Owned Wedding Jewellery](https://hattonjewels.com/collections/pre-owned-wedding-jewellery)
-  Updated: 2026-11-12T13:20:02Z
-  Total Products: 58
+  Updated: 2026-11-20T11:57:58Z
+  Total Products: 55
 - [Pre-Owned Bulgari Jewellery](https://hattonjewels.com/collections/pre-owned-bulgari): Bulgari is known for its bold aesthetic, combining classical Roman inspiration with modern Italian glamour. Renowned for vibrant colours, striking gemstones, and sculptural design
-  Updated: 2026-11-05T10:57:41Z
+  Updated: 2026-11-21T21:54:59Z
   Total Products: 17
 - [Special Prices](https://hattonjewels.com/collections/special-prices): A curated selection of exceptional pieces, currently available at a special price. Discover these timeless treasures before they're gone.
-  Updated: 2026-11-05T13:06:19Z
-  Total Products: 30
+  Updated: 2026-11-20T12:37:15Z
+  Total Products: 32
 - [Pre-Owned Eternity Rings](https://hattonjewels.com/collections/pre-owned-eternity-rings)
-  Updated: 2026-11-12T13:11:54Z
-  Total Products: 16
+  Updated: 2026-11-20T11:57:58Z
+  Total Products: 15
 - [Pre-Owned Cocktail Rings](https://hattonjewels.com/collections/pre-owned-cocktail-rings)
-  Updated: 2026-11-13T10:02:05Z
-  Total Products: 20
+  Updated: 2026-11-18T12:11:20Z
+  Total Products: 21
 - [Re-Love Jewellery](https://hattonjewels.com/collections/re-love-jewellery): Fall in love with Pre-Owned, discover a curated selection of exceptional jewellery, ready to be re-loved.
-  Updated: 2026-11-05T13:08:50Z
+  Updated: 2026-11-21T12:20:20Z
   Total Products: 28
 - [Antique & Vintage Rings](https://hattonjewels.com/collections/antique-vintage-rings)
-  Updated: 2026-11-13T10:02:05Z
-  Total Products: 46
+  Updated: 2026-11-19T17:27:16Z
+  Total Products: 47
 
 ## Blogs
 
@@ -2406,6 +2399,10 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Updated: 2026-11-11T13:18:08Z
     Author: Bethany Sims
     Tags: Lifestyle, Spotlights
+  - [Christmas in London and the Jewellery to Match](https://hattonjewels.com/blogs/news/christmas-in-london-and-the-jewellery-to-match)
+    Updated: 2026-11-17T11:49:30Z
+    Author: Bethany Sims
+    Tags: Lifestyle
 
 ## Store Pages
 
