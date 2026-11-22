@@ -6,7 +6,7 @@
 - Timezone: Europe/Kyiv
 - Created At: 2024-03-04T11:34:27Z
 - Contact Email: wow777collar@gmail.com
-- Updated At: 2026-11-15T00:58:50.694Z
+- Updated At: 2026-11-22T01:01:53.724Z
 
 ## Products
 
@@ -2769,7 +2769,7 @@
   Updated: 2026-11-13T12:18:12Z
   Total Products: 19
 - [Cat Accessories](https://wowcollar.com/collections/cat-accessories): Shop handmade cat accessories at WowCollar. Discover leather cat harnesses, personalized cat collars, AirTag collars, and matching leather leashes.
-  Updated: 2026-11-06T12:15:03Z
+  Updated: 2026-11-20T12:14:51Z
   Total Products: 12
 - [Accessories](https://wowcollar.com/collections/accessories): Shop stylish pet accessories for dogs and cats at WowCollar. Discover leather poop bag holders, engraved ID tags, and collars with built-in AirTag holders.
   Updated: 2026-11-13T12:18:12Z
@@ -2787,13 +2787,13 @@
   Updated: 2026-09-21T11:16:38Z
   Total Products: 4
 - [Leather Cat Collar](https://wowcollar.com/collections/leather-cat-collar): Enhance your cat's style with our Handmade Leather Cat Collar. This Personalized Cat Collar features your cat's name and number in black, silver, or gold embossing. Choose silver, gold, or copper hardware. Each collar is handcrafted and double-checked for quality. Shop now for safety and elegance.
-  Updated: 2026-11-06T12:15:03Z
+  Updated: 2026-11-20T12:14:51Z
   Total Products: 3
 - [Leather Cat Leashes](https://wowcollar.com/collections/leather-cat-leashes): Shop handcrafted leather cat leashes at WowCollar. Durable, stylish, and made from genuine leather. Perfect match for our collars and harnesses.
   Updated: 2026-09-17T11:20:17Z
   Total Products: 1
 - [Shop](https://wowcollar.com/collections/all): Browse all WowCollar products in one place. Shop handcrafted leather pet collars, dog harnesses, collars with AirTag holders, leashes, and stylish accessories.
-  Updated: 2026-11-13T12:18:12Z
+  Updated: 2026-11-20T12:14:51Z
   Total Products: 32
 - [Leather Dog Harness](https://wowcollar.com/collections/dog-harness): Shop handmade leather dog harnesses at WowCollar. Custom name engraving, AirTag-ready options, and a secure fit for small and big dogs. Durable, stylish & safe.
   Updated: 2026-11-13T12:18:12Z
@@ -2802,7 +2802,7 @@
   Updated: 2026-09-20T11:18:21Z
   Total Products: 3
 - [New! Shopify performance sharing is now turned on](https://wowcollar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-11-13T12:18:12Z
+  Updated: 2026-11-20T12:14:51Z
   Total Products: 32
 
 ## Blogs
@@ -3347,6 +3347,27 @@
     Author: WowCollar
   - [Adapting to Modern Times: AirTag Functionality in Pet Collars and Harnesses](https://wowcollar.com/blogs/news/adapting-to-modern-times-airtag-functionality-in-pet-collars-and-harnesses): Adapting to Modern Times: AirTag Functionality in Pet Collars and Harnesses
     Updated: 2026-11-15T00:30:21Z
+    Author: WowCollar
+  - [Creating Personalized Pet Accessories: A Look at Dog Collars With Name Importance](https://wowcollar.com/blogs/news/creating-personalized-pet-accessories-a-look-at-dog-collars-with-name-importance): Creating Personalized Pet Accessories: A Look at Dog Collars With Name Importance
+    Updated: 2026-11-16T00:44:58Z
+    Author: WowCollar
+  - [Canine Comfort: Choosing the Right Dog Harness for Pulling Dogs](https://wowcollar.com/blogs/news/canine-comfort-choosing-the-right-dog-harness-for-pulling-dogs): Canine Comfort: Choosing the Right Dog Harness for Pulling Dogs
+    Updated: 2026-11-17T00:43:54Z
+    Author: WowCollar
+  - [Revamping Cat and Dog Leashes: What's Trending in 2026](https://wowcollar.com/blogs/news/revamping-cat-and-dog-leashes-whats-trending-in-2026): Revamping Cat and Dog Leashes: What's Trending in 2026
+    Updated: 2026-11-18T00:48:41Z
+    Author: WowCollar
+  - [The Future of Pet Accessories: Exploring the Popularity of AirTag Dog and Cat Collars](https://wowcollar.com/blogs/news/the-future-of-pet-accessories-exploring-the-popularity-of-airtag-dog-and-cat-collars): The Future of Pet Accessories: Exploring the Popularity of AirTag Dog and Cat Collars
+    Updated: 2026-11-19T00:48:59Z
+    Author: WowCollar
+  - [Leather Dog Harnesses vs. Traditional Options: What’s Best for Your Pet?](https://wowcollar.com/blogs/news/leather-dog-harnesses-vs-traditional-options-what-s-best-for-your-pet): Leather Dog Harnesses vs. Traditional Options: What’s Best for Your Pet?
+    Updated: 2026-11-20T00:47:26Z
+    Author: WowCollar
+  - [How to Choose the Perfect Dog Collar with Name Plate: Trends and Innovations](https://wowcollar.com/blogs/news/how-to-choose-the-perfect-dog-collar-with-name-plate-trends-and-innovations): How to Choose the Perfect Dog Collar with Name Plate: Trends and Innovations
+    Updated: 2026-11-21T00:40:39Z
+    Author: WowCollar
+  - [Keeping Our Furry Friends Safe: No Pull Dog Harnesses and Their Growing Popularity](https://wowcollar.com/blogs/news/keeping-our-furry-friends-safe-no-pull-dog-harnesses-and-their-growing-popularity): Keeping Our Furry Friends Safe: No Pull Dog Harnesses and Their Growing Popularity
+    Updated: 2026-11-22T00:26:52Z
     Author: WowCollar
 
 ## Store Pages
