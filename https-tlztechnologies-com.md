@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T13:50:08Z
 - Contact Email: sales@tlztechnologies.com
-- Updated At: 2026-11-15T00:25:49.660Z
+- Updated At: 2026-11-22T00:31:36.778Z
 
 ## Products
 
@@ -389,7 +389,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46506182.jpg?v=1750891513
   Price: $42.34 USD
 - [Sony SNC-EB640 Indoor 1080p IP Network Security Camera](https://tlztechnologies.com/products/sony-snc-eb640-box-type-full-hd-1080p-ip-network-camera-new-in-box): Shop the Sony SNC-EB640 indoor IP security camera. This box-style Full HD 1080p model is listed as new in its original package. Check the model before ordering.
-  Updated: 2026-11-14T13:59:09Z
+  Updated: 2026-11-18T21:02:06Z
   Vendor: Sony
   Product Type: IP Network Camera
   Availability: Available
@@ -746,14 +746,14 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/49894802.jpg?v=1752663735
   Price: $58.67 USD
 - [ID Tech SREDKey 2 Keypad  Reader Point of ](https://tlztechnologies.com/products/id-tech-sredkey-2-point-of--credit-card-reader-keypad-idsk2-535e): Shop ID Tech SREDKey 2 Keypad  Reader Point of  IDSK2-535E. See photos, condition, and model details before ordering from TLZ Technologies.
-  Updated: 2026-11-14T14:05:39Z
+  Updated: 2026-11-21T20:02:46Z
   Vendor: ID Tech
   Product Type:  Reader Keypad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/47163623.jpg?v=1749712985
   Price: $20.67 USD
 - [Jabra Engage Replacement Headband 14121-30 for Jabra Supreme](https://tlztechnologies.com/products/jabra-14121-30-headset-supreme-ultimate-comfort-convertible-headband): Shop Jabra Engage Replacement Headband 14121-30 for Jabra Supreme Headset. See photos, condition, and model details before ordering from TLZ Technologies.
-  Updated: 2026-11-14T14:05:40Z
+  Updated: 2026-11-19T18:55:37Z
   Vendor: Jabra
   Product Type: Business Phones & Video Conferencing
   Availability: Available
@@ -1075,7 +1075,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/products/52602365.jpg?v=1697908385
   Price: $44.43 USD
 - [GTS Replacement Battery 7Ah 24V APCRBC123-GTS for APC BN1250](https://tlztechnologies.com/products/gts-replacement-battery-7ah-24v-apcrbc123-gts-for-apc-bn1250-back-ups-2-pack): Shop GTS Replacement Battery 7Ah 24V APCRBC123-GTS for APC BN1250 Back-UPS - 2 Pack. See photos and check the listed condition and model number before ordering.
-  Updated: 2026-11-14T14:06:19Z
+  Updated: 2026-11-18T10:51:05Z
   Vendor: TLZ Technologies
   Product Type: Replacement Battery
   Availability: Available
@@ -1102,13 +1102,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/54094928.jpg?v=1710407355
   Price: $98.35 USD
-- [Datalogic Gryphon Handheld Barcode Reader Wireless](https://tlztechnologies.com/products/datalogic-gryphon-handheld-barcode-reader-wireless-gm4411-hck10-bpoc-with-base): Shop Datalogic Gryphon Handheld Barcode Reader Wireless GM4411-HCK10-BPOC with Base. See photos and check the listed condition and model number before ordering.
-  Updated: 2026-11-14T14:06:24Z
-  Vendor: Datalogic
-  Product Type: Barcode Reader
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/54090389.jpg?v=1749494671
-  Price: $34.97 USD
 - [Ithaca KITCHENjet 1000 Inkjet Receipt Printer Autocutter](https://tlztechnologies.com/products/ithaca-kitchenjet-1000-inkjet-receipt-printer-autocutter-ith-kj1-eth-2-be): Shop Ithaca KITCHENjet 1000 Inkjet Receipt Printer Autocutter ITH-KJ1-ETH-2-BE. See photos, condition, and model details before ordering from TLZ Technologies.
   Updated: 2026-11-14T14:06:25Z
   Vendor: Ithaca
@@ -1130,13 +1123,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/54184804.jpg?v=1712329280
   Price: $140.28 USD
-- [Zebra ET50/ET55 Expansion Back 8" & Rotating Handstrap](https://tlztechnologies.com/products/zebra-et50-et55-expansion-back-8-rotating-handstrap-zbk-et5x-8rh1-01): Shop Zebra ET50/ET55 Expansion Back 8" & Rotating Handstrap ZBK-ET5X-8RH1-01. See photos, condition, and model details before ordering from TLZ Technologies.
-  Updated: 2026-11-14T14:06:29Z
-  Vendor: Zebra
-  Product Type: Expansion Back
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/54171392.jpg?v=1712152483
-  Price: $92.66 USD
 - [Honeywell 70e Mobile Computer Wireless Handheld Scanner](https://tlztechnologies.com/products/honeywell-70e-mobile-computer-wireless-handheld-scanner-70e-lgn-c122se2): Shop Honeywell 70e Mobile Computer Wireless Handheld Scanner 70E-LGN-C122SE2. See photos, condition, and model details before ordering from TLZ Technologies.
   Updated: 2026-11-14T14:06:29Z
   Vendor: Honeywell
@@ -1284,13 +1270,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/54481772.jpg?v=1787132125
   Price: $52.38 USD
-- [Poly RingCentral VVX 250 VoIP IP Phone 3-Way Call SIP](https://tlztechnologies.com/products/poly-ringcentral-vvx-250-voip-ip-phone-3-way-call-sip-4-lines-poe-89b67aa-aba): Shop Poly RingCentral VVX 250 VoIP IP Phone 3-Way Call SIP 4-Lines POE 89B67AA#ABA. Check the part number, item condition, and package contents before ordering.
-  Updated: 2026-11-14T14:06:44Z
-  Vendor: Polycom
-  Product Type: IP Phone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/54494894.jpg?v=1785506114
-  Price: $70.65 USD
 - [Poly CCX 400 IP Phone Handset Business Desktop Android SIP](https://tlztechnologies.com/products/poly-ccx-400-ip-phone-handset-business-desktop-android-sip-5-display-ggwv00743): Poly CCX 400 IP Phone Handset Business Desktop Android SIP 5" Display GGWV00743. See photos, condition, and model details before ordering from TLZ Technologies.
   Updated: 2026-11-14T14:06:44Z
   Vendor: Polycom
@@ -1669,13 +1648,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/56915746.jpg?v=1744111373
   Price: $18.79 USD
-- [Tannoy VMS 1 Monitor Speakers 5" Woofer Versatile 2 Way](https://tlztechnologies.com/products/tannoy-vms-1-monitor-speakers-5-woofer-versatile-2-way-compact-2-pack-new-1): Shop Tannoy VMS 1 Monitor Speakers  5" Woofer Versatile 2 Way Compact 2 Pack New. Check item condition and compatibility before ordering from TLZ Technologies.
-  Updated: 2026-11-14T14:07:20Z
-  Vendor: Tannoy
-  Product Type: Monitor Speakers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/55893500.jpg?v=1786019823
-  Price: $82.64 USD
 - [Tannoy VMS 1 5" Woofer Versatile 2-Way Compact Monitor](https://tlztechnologies.com/products/tannoy-vms-1-5-woofer-versatile-2-way-compact-monitor-speakers-4-pack-1): Shop Tannoy VMS 1 5" Woofer Versatile 2-Way Compact Monitor Speakers 4 Pack. See photos, condition, and model details before ordering from TLZ Technologies.
   Updated: 2026-11-14T14:07:20Z
   Vendor: Tannoy
@@ -1760,12 +1732,40 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/57169836.jpg?v=1779197040
   Price: $260.94 USD
-[List Continued](https://tlztechnologies.com/a/llms-agent/llms.txt?shop=tlz-technologies.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjY2MTAyMTA4MjA4LCJsYXN0X3ZhbHVlIjoiNzY2NjEwMjEwODIwOCJ9)
+- [Black Box Connect Punchdown Patch Panel Universal CAT6](https://tlztechnologies.com/products/black-box-connect-punchdown-patch-panel-universal-cat6-48-port-jpm648a): Shop Black Box Connect  Punchdown Patch Panel Universal CAT6 48-Port JPM648A. See photos, condition, and model details before ordering from TLZ Technologies.
+  Updated: 2026-11-14T14:07:33Z
+  Vendor: Black Box
+  Product Type: Punchdown Patch Panel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/57179927.jpg?v=1746092847
+  Price: $60.34 USD
+- [Server IPConfigure Surveillance-grade HDD Orchid Core VMS](https://tlztechnologies.com/products/ipconfigure-steelfin-video-surveillance-server-ipc-orc08-dte-42-nvr-8-channel): Shop Server IPConfigure Surveillance-grade HDD Orchid Core VMS IPC-ORC08-DTE-42. See photos, condition, and model details before ordering from TLZ Technologies.
+  Updated: 2026-11-14T14:07:33Z
+  Vendor: IPconfigure
+  Product Type: IPConfigure Surveillance Server 4TB HDD Orchid Core Video NVR IPC-ORC08-DTE-42
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/56993424.jpg?v=1793204687
+  Price: $420.37 USD
+- [Securitron M370 Magnalock Satin Aluminum Assa Abloy 272kg](https://tlztechnologies.com/products/securitron-m370-magnalock-satin-aluminum-assa-abloy-272kg-holding-force-12-24vdc): Securitron M370 Magnalock Satin Aluminum Assa Abloy 272kg Holding Force 12/24VDC. Check item condition and compatibility before ordering from TLZ Technologies.
+  Updated: 2026-11-14T14:07:34Z
+  Vendor: Magnalock
+  Product Type: Magnalock
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/57180766.jpg?v=1756815949
+  Price: $95.67 USD
+- [Black Box Transceiver Media Converter MMLC LPS500A-MM-LC-R3](https://tlztechnologies.com/products/black-box-transceiver-media-converter-mmlc-lps500a-mm-lc-r3-1000-mbit-s-850-nm): Shop Black Box Transceiver Media Converter MMLC LPS500A-MM-LC-R3 1000 Mbit/s 850 Nm. See photos and check the listed condition and model number before ordering.
+  Updated: 2026-11-14T14:07:34Z
+  Vendor: Black Box
+  Product Type: Media Converter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/57185491.jpg?v=1746181097
+  Price: $165.37 USD
+[List Continued](https://tlztechnologies.com/a/llms-agent/llms.txt?shop=tlz-technologies.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjY3NzIxNzk3NjgwLCJsYXN0X3ZhbHVlIjoiNzY2NzcyMTc5NzY4MCJ9)
 
 ## Collections
 
 - [Computer & Accessories](https://tlztechnologies.com/collections/computer-accessories): Shop business computer accessories at TLZ Technologies, including power supplies, adapters, peripherals, and replacement parts. Check model fit before ordering.
-  Updated: 2026-11-14T13:58:32Z
+  Updated: 2026-11-18T12:11:57Z
   Total Products: 61
 - [POS Systems & Scanners](https://tlztechnologies.com/collections/pos-systems-scanners): Shop point-of- equipment, handheld barcode scanners, and related hardware at TLZ Technologies. Compare model numbers and find parts for your existing setup.
   Updated: 2026-11-14T13:58:32Z
@@ -1774,8 +1774,8 @@
   Updated: 2026-11-14T13:58:32Z
   Total Products: 34
 - [Networking Equipment, Servers & Storage](https://tlztechnologies.com/collections/networking-equipment-servers-storage): Browse networking equipment, servers, storage, and replacement hardware at TLZ Technologies. Check model and part numbers to match your network or server setup.
-  Updated: 2026-11-14T13:58:32Z
-  Total Products: 146
+  Updated: 2026-11-18T15:12:53Z
+  Total Products: 149
 - [Business Phones & Video Conferencing](https://tlztechnologies.com/collections/business-phones-video-conferencing): Shop business phones, video conferencing hardware, and related accessories at TLZ Technologies. Compare model numbers to find equipment that fits your office.
   Updated: 2026-11-14T13:58:32Z
   Total Products: 13
@@ -1783,17 +1783,17 @@
   Updated: 2026-11-14T13:58:33Z
   Total Products: 18
 - [Super Saver Deals](https://tlztechnologies.com/collections/): Browse  business electronics and surplus equipment at TLZ Technologies. Check current prices, product condition, and model details before ordering.
-  Updated: 2026-11-14T13:58:33Z
+  Updated: 2026-11-20T17:28:21Z
   Total Products: 1143
 - [Security Systems](https://tlztechnologies.com/collections/security-systems): Browse security cameras, surveillance equipment, and related parts at TLZ Technologies. Compare model numbers and specifications for your installation.
   Updated: 2026-11-14T13:58:33Z
   Total Products: 9
 - [Best Sellers](https://tlztechnologies.com/collections/best-sellers): Explore best- business electronics at TLZ Technologies, including scanners, printers, and accessories. Compare model numbers and check current stock.
-  Updated: 2026-11-14T20:46:53Z
-  Total Products: 859
+  Updated: 2026-11-21T21:53:32Z
+  Total Products: 858
 - [Zebra Products](https://tlztechnologies.com/collections/zebra-technologies): Shop Zebra label printers, barcode scanners, mobile computers, and replacement parts at TLZ Technologies. Match each model and part number to your equipment.
-  Updated: 2026-11-14T20:46:42Z
-  Total Products: 1020
+  Updated: 2026-11-20T14:43:03Z
+  Total Products: 1032
 - [Security Systems (Copy)](https://tlztechnologies.com/collections/security-systems-copy): Browse security cameras, surveillance devices, and related equipment from TLZ Technologies. Check model numbers, condition, and included parts before buying.
   Updated: 2026-11-14T14:06:16Z
   Total Products: 9
@@ -2142,6 +2142,15 @@
     Author: Joe Muita
   - [Unleashing Enterprise Potential with Zebra Technologies](https://tlztechnologies.com/blogs/news/unleashing-enterprise-potential-with-zebra-technologies): Unleashing Enterprise Potential with Zebra Technologies
     Updated: 2026-11-13T00:48:25Z
+    Author: Joe Muita
+  - [Honeywell’s High-End Hardware for Budget-Conscious Enterprises](https://tlztechnologies.com/blogs/news/honeywell-s-high-end-hardware-for-budget-conscious-enterprises): Honeywell’s High-End Hardware for Budget-Conscious Enterprises
+    Updated: 2026-11-16T00:47:06Z
+    Author: Joe Muita
+  - [Enterprise Success Stories: Zebra as a Game Changer](https://tlztechnologies.com/blogs/news/enterprise-success-stories-zebra-as-a-game-changer): Enterprise Success Stories: Zebra as a Game Changer
+    Updated: 2026-11-18T00:47:47Z
+    Author: Joe Muita
+  - [Cost-Efficient Technology: Achieve Excellence with Honeywell](https://tlztechnologies.com/blogs/news/cost-efficient-technology-achieve-excellence-with-honeywell): Cost-Efficient Technology: Achieve Excellence with Honeywell
+    Updated: 2026-11-20T00:45:11Z
     Author: Joe Muita
 
 ## Store Pages
