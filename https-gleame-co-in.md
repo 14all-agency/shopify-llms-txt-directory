@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-09T06:52:22Z
 - Contact Email: noreply@gleame.co.in
-- Updated At: 2026-11-14T01:02:08.047Z
+- Updated At: 2026-11-22T00:19:38.753Z
 
 ## Products
 
 - [Balaclava Ninja Hoodie - Men & Women - Gleame](https://gleame.co.in/products/balaclava-hoodie-with-mask-black): Product Details Crafted from a premium fleece cotton blend, this hoodie combines comfort, durability, and modern streetwear style. Featuring a built-in balaclava mask, it offers versatile wear for both casual and outdoor settings. Features: Material: Fleece Cotton blend (soft, warm, and durable) Sleeve: Long sleeves with ribbed cuffs Neck: Hooded with full zip-up closure Design: All-in-one hoodie with integrated balaclava mask Breathable: Mask made from breathable fabric for all-day comfort Fit: Tailored modern fit for a sleek look Style: Unisex design, suitable for men and women Care Instructions: Machine wash cold at 30°C / 85°F Do not bleach Do not tumble dry Do not dry clean Iron on low heat if needed Additional Details: Standard length hoodie with adjustable coverage Built-in balaclava for extra warmth and protection Ideal for everyday wear, outdoor activities, and urban fashion - Gleame
-  Updated: 2026-11-12T11:55:01Z
+  Updated: 2026-11-17T14:07:16Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -167,7 +167,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/61714366_jpg.webp?v=1780218443
     Price: ₹1,199.00 INR
 - [Monkey D. Luffy – Gear 5 Edition Oversied Jersey](https://gleame.co.in/products/monkey-d-luffy-gear-5-edition-oversied-jersey): Product Details Premium anime jersey inspired by Monkey D. Luffy Gear 5 — the legendary awakened form of the future Pirate King from One Piece. Unleashing the true power of the Hito Hito no Mi, Model: Nika, Gear 5 represents ultimate freedom, limitless creativity, and unmatched strength. Perfect for anime streetwear lovers and One Piece fans who embody a fearless spirit. Character Highlights: Awakened Gear 5 Form of Monkey D. Luffy User of the Mythical Zoan Devil Fruit: Hito Hito no Mi, Model: Nika The Warrior of Liberation Limitless power, freedom, and imagination Features: Fit: Relaxed jersey fit Print: High-definition Gear 5 anime graphic print Style: Unisex anime streetwear jersey Design: Breathable and lightweight sports-style design Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Iconic Gear 5 Nika-inspired design Perfect for One Piece fans and anime streetwear outfits Great choice for conventions, anime events, and everyday wear
-  Updated: 2026-11-12T11:55:02Z
+  Updated: 2026-11-16T14:12:26Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -188,7 +188,7 @@
     Availability: Available
     Price: ₹1,199.00 INR
 - [CNY Inspired Suede Jacket for Men & Women | Premium Streetwear](https://gleame.co.in/products/cny-inspired-suede-jacket-for-men-women-premium-suede-finish-chinese-knot-button-streetwear): Upgrade your winter streetwear with this CNY-inspired premium suede jacket, crafted for those who appreciate distinctive design and elevated craftsmanship. Made from high-quality suede fabric, this jacket offers a soft, luxurious hand feel while ensuring durability for everyday winter wear. Designed with traditional Chinese knot–style button detailing, the jacket blends Eastern cultural aesthetics with modern streetwear energy. The contrast stripe detailing on the sleeves adds a sporty, urban edge, making it ideal for casual outings, winter layering, and standout street looks. Featuring a relaxed streetwear fit, elasticated cuffs, and a snug waistband, this jacket delivers the perfect balance of comfort and structure. Easy to style with cargos, denim, or joggers, it’s a versatile winter essential that elevates any outfit effortlessly. Key Features Premium suede fabric with a soft, luxury finish CNY-inspired Chinese knot button detailing Full front zip closure for easy wear Contrast sleeve stripes for a sporty streetwear look Elasticated cuffs and hem for a structured, comfortable fit Functional side pockets for everyday utility Ideal for winter wear, streetwear styling, and casual fashion Fabric & Care Fabric: Premium Suede Fit: Regular / Relaxed Fit Care Instructions: Dry clean recommended or gentle hand wash Perfect For Streetwear and urban fashion enthusiasts Winter casual and layered outfits College wear and daily styling Festive, CNY-inspired, and statement looks
-  Updated: 2026-11-12T11:55:01Z
+  Updated: 2026-11-16T14:12:26Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -503,7 +503,7 @@
     Availability: Available
     Price: ₹7,999.00 INR
 - [Black Cropped Metal Clasp Leather Jacket](https://gleame.co.in/products/black-cropped-metal-clasp-leather-jacket): Product Details Black Cropped Metal Clasp Leather Jacket designed for a bold, modern streetwear aesthetic. Featuring a sleek black finish, a statement metal clasp closure, and a trendy cropped silhouette, this jacket brings an edgy yet sophisticated touch to any outfit. Its structured design and contemporary styling make it a standout essential for those who appreciate premium streetwear with a rebellious edge. Style Highlights: Statement Metal Clasp Closure Sleek Black Leather-Look Finish Trendy Cropped Silhouette Edgy Minimalist Design with a Premium Streetwear Aesthetic Features: Fit: Contemporary cropped fit Fabric: Leather or leather-look material Closure: Statement metal clasp fastening Color: Classic black Design: Structured silhouette with a sleek, edgy finish Style: Modern luxury-inspired streetwear Care Instructions: Do not machine wash to protect the material and structure. Do not bleach or use harsh cleaning chemicals. Wipe gently with a soft, slightly damp cloth to remove surface dirt. Do not tumble dry or expose to direct heat. Keep away from prolonged direct sunlight to help prevent fading and damage. Store on a padded hanger in a cool, dry place. For stubborn stains, consult a professional cleaner experienced with leather or synthetic leather. Additional Details: A timeless black finish that adds an edgy and sophisticated touch to your wardrobe. A statement metal clasp closure that elevates the jacket's contemporary design. A cropped silhouette perfect for creating bold, fashion-forward outfits. Versatile styling that pairs effortlessly with baggy jeans, cargo pants, fitted tops, and boots. Perfect for everyday streetwear, night outings, concerts, and statement fashion looks. Designed for effortless layering and a confident, modern aesthetic.
-  Updated: 2026-11-12T11:55:02Z
+  Updated: 2026-11-16T14:12:26Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -524,7 +524,7 @@
     Availability: Available
     Price: ₹2,499.00 INR
 - [GLEAME FRAN SHIRT - WHITE SILK](https://gleame.co.in/products/gleame-fran-shirt-white-silk): Crafted in luxurious white silk crepe, the GLEAME Fran Shirt features an oversized silhouette, a refined point collar, a classic button placket, and elegant French cuffs for a modern, understated look. Its signature self-tie sashes offer versatile styling options. Tie them at the back for a cinched fit, cross them at the front for a wrap silhouette, or leave them loose for a relaxed finish. DETAILS Colour: White Fabric: Silk crepe Fit: Oversized Collar: Point collar Closure: Front button placket Cuffs: French cuffs Design: Adjustable self-tie sashes Style: Contemporary luxury CARE INSTRUCTIONS Dry clean only. Do not bleach or use harsh detergents. Avoid wringing or twisting the fabric. Iron on low heat using a protective cloth, if needed. Store in a cool, dry place away from direct sunlight. Hang on a padded hanger to maintain its shape. Avoid direct contact with perfumes and deodorants. GLEAME — Designed to be worn your way.
-  Updated: 2026-11-13T17:03:36Z
+  Updated: 2026-11-21T20:05:55Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -545,7 +545,7 @@
     Availability: Available
     Price: ₹2,799.00 INR
 - [FRAN SHIRT - BLACK CUPRO](https://gleame.co.in/products/fran-shirt-black-cupro): Crafted in luxurious black cupro, the GLEAME Fran Shirt combines an oversized silhouette with a refined point collar, a classic button placket, and elegant French cuffs for a sophisticated, contemporary look. Its signature self-tie sashes create versatile styling possibilities. Tie them at the back for a cinched silhouette, cross them at the front for a wrap effect, or leave them loose for an effortlessly relaxed finish. DETAILS Colour: Black Fabric: Cupro Fit: Oversized Collar: Point collar Closure: Front button placket Cuffs: French cuffs Design: Adjustable self-tie sashes Style: Contemporary luxury CARE INSTRUCTIONS Follow the care label; professional dry cleaning is recommended until the fabric's specific care requirements are confirmed. Do not bleach or use harsh detergents. Avoid wringing or twisting the fabric. Iron on a low temperature suitable for cupro, using a protective cloth if needed. Store in a cool, dry place away from direct sunlight. Hang on a suitable hanger to maintain its shape. Avoid direct contact with perfumes and deodorants. GLEAME — Designed to be worn your way.
-  Updated: 2026-11-13T07:07:36Z
+  Updated: 2026-11-21T19:36:26Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -566,7 +566,7 @@
     Availability: Available
     Price: ₹2,799.00 INR
 - [GLEAME LONG OVERCOAT MEN - BLACK](https://gleame.co.in/products/gleame-long-overcoat-men-black): GLEAME Long Overcoat designed for a refined, modern winter aesthetic. Crafted from a premium wool blend, this below-knee overcoat features a classic double-breasted design, structured shoulders, and a relaxed oversized fit. Finished with a felt collar, neck latch, and adjustable waist belt, it brings together timeless elegance and contemporary streetwear. Style Highlights: Premium Wool Blend Construction Classic Double-Breasted Design Below-Knee Length Silhouette Structured Shoulders with Relaxed Fit Adjustable Waist Belt and Felt Collar Features: Fit: Oversized relaxed fit Fabric: Premium wool blend Closure: Double-breasted button closure Details: Neck latch and adjustable waist belt Shoulders: Lightly padded for a structured look Length: Below-knee length How to Choose Your Size: Choose your regular size for the intended oversized look. Size down for a cleaner, more tailored fit. Refer to our size chart before placing your order. Care Instructions: Dry clean only to maintain the fabric and structure. Do not machine wash or tumble dry. Store on a wide hanger to maintain its shape. Avoid prolonged direct sunlight and excessive moisture. Additional Details: Ideal for mid to heavy winter styling. Pairs effortlessly with hoodies, sweaters, shirts, and formal outfits. Suitable for formal, semi-formal, and elevated streetwear looks. A timeless outerwear essential designed for a sophisticated appearance.
-  Updated: 2026-11-12T21:06:52Z
+  Updated: 2026-11-16T14:12:26Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -584,7 +584,7 @@
 ## Collections
 
 - [Hoodie](https://gleame.co.in/collections/balaclava-hoodies): - Gleame
-  Updated: 2026-11-04T13:05:41Z
+  Updated: 2026-11-18T12:17:03Z
   Total Products: 7
 - [Jacket](https://gleame.co.in/collections/jacket): - Gleame
   Updated: 2026-11-04T13:05:41Z
@@ -596,7 +596,7 @@
   Updated: 2026-11-04T13:05:41Z
   Total Products: 2
 - [Search collection](https://gleame.co.in/collections/search-collection): - Gleame
-  Updated: 2026-11-04T13:05:41Z
+  Updated: 2026-11-18T12:17:03Z
   Total Products: 6
 - [Nihilist Penguine](https://gleame.co.in/collections/nihilist-penguine): - Gleame
   Updated: 2026-11-04T13:05:41Z
@@ -638,7 +638,7 @@
   Updated: 2026-11-04T13:05:42Z
   Total Products: 7
 - [CNY Jacket](https://gleame.co.in/collections/cny-jacket)
-  Updated: 2026-11-04T13:05:42Z
+  Updated: 2026-11-14T12:15:48Z
   Total Products: 10
 - [Football Jersey](https://gleame.co.in/collections/football-jersey)
   Updated: 2026-11-10T17:56:22Z
@@ -647,7 +647,7 @@
   Updated: 2026-11-04T13:05:42Z
   Total Products: 2
 - [Best Seller](https://gleame.co.in/collections/best-seller)
-  Updated: 2026-11-13T12:14:40Z
+  Updated: 2026-11-21T12:16:55Z
   Total Products: 3
 - [Hanfu](https://gleame.co.in/collections/hanfu)
   Updated: 2026-11-04T13:05:42Z
@@ -656,10 +656,10 @@
   Updated: 2026-11-04T13:05:42Z
   Total Products: 2
 - [Search](https://gleame.co.in/collections/search)
-  Updated: 2026-11-04T13:05:42Z
+  Updated: 2026-11-18T12:17:03Z
   Total Products: 3
 - [Shirt](https://gleame.co.in/collections/shirt)
-  Updated: 2026-11-13T12:14:40Z
+  Updated: 2026-11-21T12:16:55Z
   Total Products: 2
 
 ## Blogs
