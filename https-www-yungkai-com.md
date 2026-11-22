@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2025-04-16T17:42:50Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-15T00:20:55.221Z
+- Updated At: 2026-11-22T00:28:03.716Z
 
 ## Products
 
@@ -119,7 +119,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0758/5854/2811/files/YGKI_Tote.png?v=1750258314
   Price: $25.00 USD
 - [flower, moon, star tour tee](https://www.yungkai.com/products/flower-moon-star-tour-tee): 100% US heavyweight cotton t-shirt in powder blue Size Chart Size Chest Width (in) Body Length (in) S 18 26 1/2 M 20 28 1/2 L 22 30 1/2 XL 24 31 1/2 2XL 26 32 1/2
-  Updated: 2026-11-13T19:06:15Z
+  Updated: 2026-11-21T11:55:57Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -140,7 +140,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $20.00 USD
 - [cosmic tee](https://www.yungkai.com/products/cosmic-tee): 100% ringspun cotton, garment-dyed t-shirt in pepper. Pre-shrunk. Size Chart Size Chest Width (in) Body Length (in) S 18 1/4 26 1/2 M 20 1/4 28 L 22 29 1/2 XL 24 30 3/4 2XL 26 31 1/2
-  Updated: 2026-11-12T05:45:21Z
+  Updated: 2026-11-21T11:55:57Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -160,29 +160,8 @@ your agent can transact everywhere.
   - [2XL](https://www.yungkai.com/products/cosmic-tee?variant=47576713920731)
     Availability: Available
     Price: $20.00 USD
-- [flower, moon, star tour zip hoodie](https://www.yungkai.com/products/flower-moon-star-tour-zip-hoodie): 60% cotton, 40% recycled polyester hooded sweatshirt in oatmeal heather Size Chart Size Chest Width (in) Body Length (in) S 20 27 M 22 28 L 24 29 XL 26 30 2XL 28 31
-  Updated: 2026-10-16T22:19:26Z
-  Vendor: yung kai
-  Product Type: Zip Hoodie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/5854/2811/files/YGKI_zip_hood_front.png?v=1757439575
-  - [S](https://www.yungkai.com/products/flower-moon-star-tour-zip-hoodie?variant=47576770871515)
-    Availability: Not Available
-    Price: $75.00 USD
-  - [M](https://www.yungkai.com/products/flower-moon-star-tour-zip-hoodie?variant=47576770904283)
-    Availability: Not Available
-    Price: $75.00 USD
-  - [L](https://www.yungkai.com/products/flower-moon-star-tour-zip-hoodie?variant=47576770937051)
-    Availability: Not Available
-    Price: $75.00 USD
-  - [XL](https://www.yungkai.com/products/flower-moon-star-tour-zip-hoodie?variant=47576770969819)
-    Availability: Not Available
-    Price: $75.00 USD
-  - [2XL](https://www.yungkai.com/products/flower-moon-star-tour-zip-hoodie?variant=47576771002587)
-    Availability: Available
-    Price: $75.00 USD
 - [stay with the ocean tour crewneck](https://www.yungkai.com/products/stay-with-the-ocean-tour-crewneck): 80% cotton, 20% recycled polyester crewneck sweatshirt in navy Size Chart Size Chest Width (in) Body Length (in) XS 18 26 S 20 27 M 22 28 L 24 29 XL 26 30 2XL 28 31
-  Updated: 2026-11-11T18:23:57Z
+  Updated: 2026-11-21T11:55:57Z
   Vendor: yung kai
   Product Type: Crewneck
   Availability: Available
@@ -206,7 +185,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $60.00 USD
 - [stay with the ocean tour tee - navy](https://www.yungkai.com/products/stay-with-the-ocean-tour-tee-navy): 100% US heavyweight cotton, pigment-dyed t-shirt in navy blue Size Chart Size Chest Width (in) Body Length (in) XS 18 1/2 25 S 20 1/2 26 M 22 1/2 27 L 24 1/2 28 XL 26 1/2 29 2XL 28 1/2 30
-  Updated: 2026-11-13T22:20:36Z
+  Updated: 2026-11-21T11:55:59Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -230,7 +209,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $25.00 USD
 - [stay with the ocean tour tee - white](https://www.yungkai.com/products/stay-with-the-ocean-tour-tee-white): 100% US heavyweight cotton, pigment-dyed t-shirt in white Size Chart Size Chest Width (in) Body Length (in) XS 18 1/2 25 S 20 1/2 26 M 22 1/2 27 L 24 1/2 28 XL 26 1/2 29 2XL 28 1/2 30
-  Updated: 2026-10-16T22:19:27Z
+  Updated: 2026-11-20T15:25:51Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -254,7 +233,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [stinky tee](https://www.yungkai.com/products/stinky-tee): 100% US heavyweight cotton, pigment-dyed t-shirt in salmon Size Chart Size Chest Width (in) Body Length (in) XS 18 1/2 25 S 20 1/2 26 M 22 1/2 27 L 24 1/2 28 XL 26 1/2 29 2XL 28 1/2 30
-  Updated: 2026-10-26T15:42:30Z
+  Updated: 2026-11-21T11:55:58Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -278,7 +257,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [sketch ringer tee](https://www.yungkai.com/products/sketch-ringer-tee): 100% 100% ring-spun cotton ringer t-shirt in white/navy Size Chart Size Chest Width (in) Body Length (in) XS 16 1/2 26 S 18 28 M 20 29 L 22 30 XL 24 31 2XL 26 32
-  Updated: 2026-10-26T15:38:20Z
+  Updated: 2026-11-21T11:55:59Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -302,21 +281,21 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $40.00 USD
 - [sketch tote](https://www.yungkai.com/products/sketch-tote): 100% cotton tote bag in natural
-  Updated: 2026-10-26T15:38:17Z
+  Updated: 2026-11-21T11:55:58Z
   Vendor: yung kai
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/5854/2811/files/YGKI_0001_166983_1_307131_d.png?v=1771442545
   Price: $30.00 USD
 - [embroidered flower hat](https://www.yungkai.com/products/embroidered-flower-hat): 100% cotton twill baseball cap in navy with embroidered design
-  Updated: 2026-11-05T12:12:31Z
+  Updated: 2026-11-20T17:48:36Z
   Vendor: yung kai
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/5854/2811/files/YGKI_0004_166925_1_307040_d.png?v=1771449012
   Price: $35.00 USD
 - [logo tee](https://www.yungkai.com/products/logo-tee): 100% combed cotton t-shirt in cream with logo print Size Chart Size Chest Width (in) Body Length (in) M 22 27 1/4 L 23 1/2 28 1/4 XL 25 29 1/4 2XL 26 3/4 30 1/4
-  Updated: 2026-10-16T22:19:29Z
+  Updated: 2026-11-20T17:48:36Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -334,39 +313,60 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [stay with the ocean tour poster](https://www.yungkai.com/products/stay-with-the-ocean-tour-poster): 11x17" poster
-  Updated: 2026-10-16T22:19:29Z
+  Updated: 2026-11-21T11:56:00Z
   Vendor: yung kai
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/5854/2811/files/YGKITourPoster.png?v=1776793471
   Price: $20.00 USD
+- [build your own yung kai bundle](https://www.yungkai.com/products/build-your-own-bundle): build a bundle and save on your faves – buy 1, get 10% off buy 2, get 20% off buy 3, get 30% off buy 4, get 40% off
+  Updated: 2026-11-19T15:31:24Z
+  Vendor: yung kai
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/5854/2811/files/YGKI_BYOB.png?v=1794945952
+  - [Choose 1 - 10% Off](https://www.yungkai.com/products/build-your-own-bundle?variant=48972001837275)
+    Availability: Available
+    Price: $18.00 USD
+  - [Choose 2 - 20% Off](https://www.yungkai.com/products/build-your-own-bundle?variant=48972001870043)
+    Availability: Available
+    Price: $32.00 USD
+  - [Choose 3 - 30% Off](https://www.yungkai.com/products/build-your-own-bundle?variant=48972001902811)
+    Availability: Available
+    Price: $42.00 USD
+  - [Choose 4 - 40% Off](https://www.yungkai.com/products/build-your-own-bundle?variant=51170520826075)
+    Availability: Available
+    Price: $48.00 USD
 
 ## Collections
 
 - [Home page](https://www.yungkai.com/collections/frontpage)
-  Updated: 2026-11-14T12:20:32Z
+  Updated: 2026-11-21T12:17:55Z
   Total Products: 19
 - [apparel](https://www.yungkai.com/collections/apparel)
-  Updated: 2026-11-14T12:20:32Z
+  Updated: 2026-11-21T12:17:55Z
   Total Products: 11
 - [accessories](https://www.yungkai.com/collections/accessories)
-  Updated: 2026-11-05T12:20:14Z
+  Updated: 2026-11-21T12:17:55Z
   Total Products: 6
 - [all](https://www.yungkai.com/collections/all)
-  Updated: 2026-11-14T12:20:32Z
+  Updated: 2026-11-21T12:17:55Z
   Total Products: 21
 - [music](https://www.yungkai.com/collections/music)
-  Updated: 2026-08-27T14:48:23Z
+  Updated: 2026-11-21T12:17:55Z
   Total Products: 3
 - [$20.25](https://www.yungkai.com/collections/20-25)
   Updated: 2026-07-08T20:31:48Z
   Total Products: 0
 - [2026 Tour Merch](https://www.yungkai.com/collections/2026-tour-merch)
-  Updated: 2026-11-14T12:20:32Z
+  Updated: 2026-11-21T12:17:55Z
   Total Products: 10
 - [](https://www.yungkai.com/collections/)
-  Updated: 2026-11-14T12:20:32Z
+  Updated: 2026-11-21T12:17:55Z
   Total Products: 4
+- [Build Your Own Bundle](https://www.yungkai.com/collections/build-your-own-bundle)
+  Updated: 2026-11-19T15:32:36Z
+  Total Products: 1
 
 ## Store Pages
 
