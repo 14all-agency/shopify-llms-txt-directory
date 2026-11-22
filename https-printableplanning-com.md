@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-11-15T12:52:29.080Z
+- Updated At: 2026-11-22T16:48:01.454Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -1384,13 +1384,13 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-11-14T12:01:03Z
+  Updated: 2026-11-20T12:00:55Z
   Total Products: 424
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
-  Updated: 2026-10-30T11:00:42Z
+  Updated: 2026-11-20T12:00:55Z
   Total Products: 239
 - [Printable Downloads](https://printableplanning.com/collections/all): Shop printable downloads for caregiver forms, daily planning, home organization, school helpers, and financial tracking, made to be easy to use.
-  Updated: 2026-11-14T12:01:03Z
+  Updated: 2026-11-20T12:00:55Z
   Total Products: 424
 - [Miscellaneous Organization Pages](https://printableplanning.com/collections/miscellaneous-organization-pages): Everyday organization printables like  lists, call logs, trackers, and simple helpers for keeping daily details in one place.
   Updated: 2026-10-30T11:00:42Z
@@ -1402,7 +1402,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-11-09T12:01:05Z
   Total Products: 44
 - [Holiday and Occasion Printable Pages](https://printableplanning.com/collections/holiday-and-occasion-printable-pages): Holiday and occasion printables like gift tags, RSVP and guest list pages, gift planning lists, and more for organized celebrations.
-  Updated: 2026-08-12T13:53:19Z
+  Updated: 2026-11-20T12:00:55Z
   Total Products: 66
 - [Calendars and Planner Pages](https://printableplanning.com/collections/calendars-and-planner-pages): Printable calendars and planner pages with blank, undated layouts for monthly and weekly planning. Print as needed and organize your schedule your way.
   Updated: 2026-11-12T12:01:15Z
@@ -1420,7 +1420,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-11-12T12:01:15Z
   Total Products: 46
 - [Children's Printable Pages](https://printableplanning.com/collections/childrens-printable-pages): Children’s printables like chore charts, activity pages, and fun helpers for routines at home. Great for families, rewards, and busy days.
-  Updated: 2026-11-09T12:01:05Z
+  Updated: 2026-11-20T12:00:55Z
   Total Products: 30
 - [Diet and Exercise Sheets](https://printableplanning.com/collections/diet-and-exercise-sheets): Diet and exercise printables for tracking meals, workouts, habits, and progress. Simple logs and goal sheets to support healthy routines.
   Updated: 2026-10-30T11:00:42Z
