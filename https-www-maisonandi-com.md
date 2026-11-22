@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-03-04T21:45:03Z
 - Contact Email: hello@maisonandi.com
-- Updated At: 2026-11-14T01:11:55.725Z
+- Updated At: 2026-11-22T01:04:25.066Z
 
 ## Products
 
