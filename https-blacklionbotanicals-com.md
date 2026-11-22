@@ -6,7 +6,7 @@
 - Timezone: America/Merida
 - Created At: 2026-02-07T20:34:51Z
 - Contact Email: blacklionbotanicals@gmail.com
-- Updated At: 2026-11-15T00:38:05.055Z
+- Updated At: 2026-11-22T00:38:27.958Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/energetic-healing-luxury-boho.png?v=1787625761
   Price: $55.00 USD
 - [7-Day Energetic Reset — Distance Reiki & Energy Clearing Program | Black Lion Botanicals](https://blacklionbotanicals.com/products/7-day-energetic-reset): Recharge your energy in 7 days with our Energetic Reset program. Daily distance Reiki & energetic clearing to restore balance. Book at Black Lion Botanicals.
-  Updated: 2026-09-10T22:30:57Z
+  Updated: 2026-11-20T03:46:39Z
   Vendor: Black Lion Botanicals
   Product Type: Energy Healing
   Availability: Available
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/image_1.png?v=1787625758
   Price: $8.88 USD
 - [E-Gift Card | Black Lion Botanicals](https://blacklionbotanicals.com/products/e-gift-card): Give the gift of healing with a Black Lion Botanicals e-gift card. Perfect for Reiki sessions, herbs & more. From $25 to $297.
-  Updated: 2026-11-14T23:20:17Z
+  Updated: 2026-11-15T05:01:24Z
   Vendor: Black Lion Botanicals
   Product Type: Gift Card
   Availability: Available
@@ -1290,6 +1290,18 @@
     Updated: 2026-11-14T13:00:50Z
     Author: Black Lion Botanicals
     Tags: ancestral healing, distance reiki, distance reiki benefits, energy healing, energy healing for women, healing practices, holistic healing for women, holistic therapy, manifestation coaching, nervous system, nervous system healing, overcoming stress naturally, reiki, reiki practitioner online, stress relief
+  - [How Distance Reiki Shapes the Future of Holistic Healing for Women](https://blacklionbotanicals.com/blogs/news/how-distance-reiki-shapes-the-future-of-holistic-healing-for-women): How Distance Reiki Shapes the Future of Holistic Healing for Women
+    Updated: 2026-11-17T13:01:23Z
+    Author: Black Lion Botanicals
+    Tags: ancestral healing, distance reiki, distance reiki benefits, energy, energy healing for women, future of healing practices, healing, holistic healing for women, holistic therapy, manifestation coaching, nervous system healing, reiki, reiki practitioner online, women's wellness
+  - [Empowering Women: Nervous System Harmony Through Distance Reiki](https://blacklionbotanicals.com/blogs/news/empowering-women-nervous-system-harmony-through-distance-reiki): Empowering Women: Nervous System Harmony Through Distance Reiki
+    Updated: 2026-11-19T13:00:52Z
+    Author: Black Lion Botanicals
+    Tags: ancestral healing, distance reiki, emotional balance techniques, energy healing, energy healing for women, healing, holistic healing for women, holistic wellness approaches, manifestation coaching, nervous system, nervous system healing, reiki, reiki practitioner online, women
+  - [Manifestation Coaching Enhanced by the Energetic Power of Distance Reiki](https://blacklionbotanicals.com/blogs/news/manifestation-coaching-enhanced-by-the-energetic-power-of-distance-reiki): Manifestation Coaching Enhanced by the Energetic Power of Distance Reiki
+    Updated: 2026-11-21T13:00:48Z
+    Author: Black Lion Botanicals
+    Tags: ancestral healing, distance healing, distance reiki, distance reiki sessions, energy, energy healing for women, holistic healing for women, life transformation, manifestation, manifestation coaching, manifestation techniques with reiki, nervous system healing, reiki, reiki practitioner online, spiritual coaching
 
 ## Store Pages
 
