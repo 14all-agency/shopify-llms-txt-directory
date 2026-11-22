@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2022-08-30T20:50:56Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-14T01:31:49.914Z
+- Updated At: 2026-11-22T00:55:52.502Z
 
 ## Products
 
@@ -181,7 +181,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $20.00 USD
 - [Sicilian Jacket](https://store.sebastianlive.com/products/sicilian-jacket): Premium varsity-style jacket in cream Size Chart Size Chest Width (in) Body Length (in) Sleeve Length (in) S 23 1/2 27 3/4 33 M 24 1/4 28 1/4 33 1/2 L 25 29 1/4 34 1/4 XL 26 30 35 2XL 27 31 35 3/4 3XL 28 32 36 1/2
-  Updated: 2026-10-30T03:53:56Z
+  Updated: 2026-11-19T20:39:52Z
   Vendor: Sebastian Maniscalco
   Product Type: Jacket
   Availability: Available
@@ -274,7 +274,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [High Roller Tee](https://store.sebastianlive.com/products/high-roller-tee): Up the ante 100% combed ringspun cotton t-shirt in natural Size Chart Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-08T21:30:03Z
+  Updated: 2026-11-19T04:05:57Z
   Vendor: Sebastian Maniscalco
   Product Type: T-Shirt
   Availability: Available
@@ -365,7 +365,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $75.00 USD
 - [Wake Up! Mug](https://store.sebastianlive.com/products/wake-up-mug): 12oz ceramic mug in ivory
-  Updated: 2026-10-08T22:08:01Z
+  Updated: 2026-11-21T16:04:34Z
   Vendor: Sebastian Maniscalco
   Product Type: Mug
   Availability: Available
@@ -378,13 +378,13 @@ your agent can transact everywhere.
   Updated: 2026-04-14T21:02:30Z
   Total Products: 0
 - [All Products](https://store.sebastianlive.com/collections/all-products)
-  Updated: 2026-11-12T12:16:45Z
+  Updated: 2026-11-20T12:16:11Z
   Total Products: 81
 - [Apparel](https://store.sebastianlive.com/collections/apparel)
-  Updated: 2026-11-02T12:08:35Z
+  Updated: 2026-11-20T12:16:11Z
   Total Products: 48
 - [Accessories](https://store.sebastianlive.com/collections/accessories)
-  Updated: 2026-10-08T21:15:31Z
+  Updated: 2026-11-16T12:07:14Z
   Total Products: 27
 - [Outerwear](https://store.sebastianlive.com/collections/outerwear)
   Updated: 2026-06-12T14:40:26Z
@@ -411,46 +411,46 @@ your agent can transact everywhere.
   Updated: 2026-06-12T14:40:27Z
   Total Products: 2
 - [Full House](https://store.sebastianlive.com/collections/atlantic-city)
-  Updated: 2026-08-17T11:08:55Z
+  Updated: 2026-11-19T12:07:50Z
   Total Products: 9
 - [](https://store.sebastianlive.com/collections/)
-  Updated: 2026-10-30T11:15:16Z
+  Updated: 2026-11-20T12:16:11Z
   Total Products: 23
 - [$10](https://store.sebastianlive.com/collections/10)
   Updated: 2026-08-17T11:08:55Z
   Total Products: 11
 - [$20](https://store.sebastianlive.com/collections/20)
-  Updated: 2026-10-08T21:15:31Z
+  Updated: 2026-11-16T12:07:14Z
   Total Products: 15
 - [$30](https://store.sebastianlive.com/collections/30)
   Updated: 2026-08-12T18:07:36Z
   Total Products: 12
 - [$50](https://store.sebastianlive.com/collections/50)
-  Updated: 2026-10-30T11:15:16Z
+  Updated: 2026-11-20T12:16:11Z
   Total Products: 6
 - [$40](https://store.sebastianlive.com/collections/40)
-  Updated: 2026-10-28T11:07:39Z
+  Updated: 2026-11-19T12:07:50Z
   Total Products: 7
 - [It Ain't Right Tour](https://store.sebastianlive.com/collections/it-aint-right-tour)
-  Updated: 2026-10-30T11:15:16Z
+  Updated: 2026-11-20T12:16:11Z
   Total Products: 8
 - [EasyGift All Products](https://store.sebastianlive.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-11-12T12:16:45Z
+  Updated: 2026-11-20T12:16:11Z
   Total Products: 81
 - [$20.24](https://store.sebastianlive.com/collections/20-24)
   Updated: 2026-04-14T21:02:31Z
   Total Products: 0
 - [Tour Merch](https://store.sebastianlive.com/collections/tour-merch)
-  Updated: 2026-10-30T11:15:16Z
+  Updated: 2026-11-20T12:16:11Z
   Total Products: 27
 - [$5](https://store.sebastianlive.com/collections/5-bin)
   Updated: 2026-08-17T11:08:55Z
   Total Products: 8
 - [Best Sellers](https://store.sebastianlive.com/collections/best-sellers)
-  Updated: 2026-11-12T12:16:45Z
+  Updated: 2026-11-20T12:16:11Z
   Total Products: 81
 - [New Arrivals](https://store.sebastianlive.com/collections/new-arrivals)
-  Updated: 2026-11-12T12:16:45Z
+  Updated: 2026-11-20T12:16:11Z
   Total Products: 81
 - [$20.25](https://store.sebastianlive.com/collections/20-25)
   Updated: 2026-04-14T21:02:31Z
@@ -459,7 +459,7 @@ your agent can transact everywhere.
   Updated: 2026-08-12T18:07:37Z
   Total Products: 0
 - [2026 Tour Merch](https://store.sebastianlive.com/collections/2026-tour-merch)
-  Updated: 2026-10-08T21:15:31Z
+  Updated: 2026-11-16T12:07:14Z
   Total Products: 4
 
 ## Store Pages
