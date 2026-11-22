@@ -43,7 +43,7 @@ The website includes an interactive jewelry builder that helps customers preview
 - Contact Email: emeloul@aol.com
 - Contact Phone: (800)709-9445
 - Address: Central Diamond Center, 818 South Central Expressway, Suite 1 Richardson, Texas 75080, USA
-- Updated At: 2026-11-15T00:32:04.844Z
+- Updated At: 2026-11-22T00:34:26.757Z
 
 # Mama’s Ring
 
@@ -136,7 +136,7 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-10-18T20:15:42Z
   Price: $109.95 USD
 - [Dec - Zircon, Natural (+$29.50)](https://mamasring.com/products/dec-zircon-natural-29-50)
-  Updated: 2026-09-01T04:05:08Z
+  Updated: 2026-11-21T19:16:46Z
   Price: $29.50 USD
 - [Nov - Topaz, Natural (+$5.90)](https://mamasring.com/products/nov-topaz-natural-5-90)
   Updated: 2026-09-01T04:05:08Z
@@ -151,10 +151,10 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-09-01T04:05:07Z
   Price: $195.00 USD
 - [Mar - Aquamarine, Natural (+$19.00)](https://mamasring.com/products/mar-aquamarine-natural-19-00)
-  Updated: 2026-09-01T04:05:07Z
+  Updated: 2026-11-21T19:16:56Z
   Price: $19.00 USD
 - [Feb - Amethyst, Natural (+$9.50)](https://mamasring.com/products/feb-amethyst-natural-9-50)
-  Updated: 2026-09-01T04:05:07Z
+  Updated: 2026-11-21T19:16:56Z
   Price: $9.50 USD
 - [Jan - Garnet, Natural (+$4.50)](https://mamasring.com/products/jan-garnet-natural-4-50)
   Updated: 2026-09-01T04:05:06Z
@@ -827,7 +827,7 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-06-06T10:57:49Z
   Total Products: 7
 - [All Products New](https://mamasring.com/collections/all-products-new)
-  Updated: 2026-10-29T08:38:02Z
+  Updated: 2026-11-21T12:14:10Z
   Total Products: 6009
 - [Necklace](https://mamasring.com/collections/necklace)
   Updated: 2026-10-28T06:11:04Z
@@ -893,7 +893,7 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-09-01T03:19:04Z
   Total Products: 14
 - [Stud Earrings](https://mamasring.com/collections/stud-earrings)
-  Updated: 2026-09-21T11:13:35Z
+  Updated: 2026-11-21T12:14:10Z
   Total Products: 20
 - [Birthstone Stud Earrings](https://mamasring.com/collections/birthstone-stud-earrings)
   Updated: 2026-06-19T10:41:04Z
@@ -926,7 +926,7 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-10-29T08:38:02Z
   Total Products: 451
 - [All Products](https://mamasring.com/collections/all-products)
-  Updated: 2026-10-29T08:24:57Z
+  Updated: 2026-11-21T12:14:10Z
   Total Products: 209
 - [No Returns](https://mamasring.com/collections/no-returns)
   Updated: 2026-10-22T11:17:12Z
@@ -959,13 +959,13 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-05-08T22:07:51Z
   Total Products: 2
 - [Stud Earring](https://mamasring.com/collections/stud-earrings-copy)
-  Updated: 2026-09-21T11:13:35Z
+  Updated: 2026-11-21T12:14:10Z
   Total Products: 18
 - [$10 Off  Collection](https://mamasring.com/collections/mothers-day--2026)
   Updated: 2026-10-29T08:24:57Z
   Total Products: 63
 - [20% Off  Collection](https://mamasring.com/collections/20-off-collection)
-  Updated: 2026-09-01T03:09:06Z
+  Updated: 2026-11-21T12:14:10Z
   Total Products: 10
 - [15% Off On Mother's Jewelry](https://mamasring.com/collections/mothers-day--1)
   Updated: 2026-10-29T08:24:57Z
