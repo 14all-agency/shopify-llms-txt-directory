@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-06-26T10:06:58Z
 - Contact Email: larolyn.young@gmail.com
-- Updated At: 2026-11-15T00:19:33.577Z
+- Updated At: 2026-11-22T00:22:18.989Z
 
 ## Collections
 
@@ -222,7 +222,16 @@
     Updated: 2026-11-12T18:44:09Z
     Author: User
   - [An Editorial on Enhancing Volunteer Program Integrity](https://membershipintegrity.org/blogs/news/an-editorial-on-enhancing-volunteer-program-integrity): An Editorial on Enhancing Volunteer Program Integrity
-    Updated: 2026-11-15T00:09:37Z
+    Updated: 2026-11-15T15:47:15Z
+    Author: User
+  - [Trending Risk Management Approaches for Modern Fraternal Societies](https://membershipintegrity.org/blogs/news/trending-risk-management-approaches-for-modern-fraternal-societies): Trending Risk Management Approaches for Modern Fraternal Societies
+    Updated: 2026-11-17T13:49:29Z
+    Author: User
+  - [Elevating Membership Integrity: Proven Strategies for Success](https://membershipintegrity.org/blogs/news/elevating-membership-integrity-proven-strategies-for-success): Elevating Membership Integrity: Proven Strategies for Success
+    Updated: 2026-11-20T10:52:09Z
+    Author: User
+  - [The Future of Non-Dues Revenue in Fraternal Organizations](https://membershipintegrity.org/blogs/news/the-future-of-non-dues-revenue-in-fraternal-organizations): The Future of Non-Dues Revenue in Fraternal Organizations
+    Updated: 2026-11-22T00:08:56Z
     Author: User
 
 ## Store Pages
@@ -245,8 +254,8 @@
   Updated: 2026-11-09T02:02:40Z
 - [Industries We Serve | Membership Integrity Background Screening](https://membershipintegrity.org/pages/industries-we-serve): Industries We ServeMembership Integrity helps membership-based organizations coordinate background screening for members, volunteers, leaders, and ...
   Updated: 2026-11-09T19:41:04Z
-- [FAQ — Membership Integrity Background Screening](https://membershipintegrity.org/pages/faq): Frequently Asked QuestionsBackground screening shouldn’t create more administrative work. Membership Integrity makes it easier for organizations to...
-  Updated: 2026-11-09T01:54:05Z
+- [FAQ — Membership Integrity Background Screening](https://membershipintegrity.org/pages/faq): Frequently Asked Questions Background screening shouldn’t create more administrative work. Membership Integrity makes it easier for organizations t...
+  Updated: 2026-11-20T23:34:57Z
 - [For Organizations | Membership Integrity](https://membershipintegrity.org/pages/who-we-serve): Background Screening for OrganizationsMembership Integrity helps organizations simplify background screening with centralized tracking, flexible pa...
   Updated: 2026-11-09T11:40:27Z
 - [Background Screening for Fraternities | Membership Integrity](https://membershipintegrity.org/pages/who-we-serve-fraternities): ← Who We ServeBackground Screening Solutions for FraternitiesFraternities are built on brotherhood, values, and lifelong bonds. Membership Integrit...
