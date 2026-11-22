@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-10T03:15:18Z
 - Contact Email: david@kingandqueengames.com
-- Updated At: 2026-11-14T00:45:13.909Z
+- Updated At: 2026-11-22T00:47:10.875Z
 
 King And Queen Games, llc
 
@@ -1666,14 +1666,7 @@ King And Queen Games, llc
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Infernape_Masterball.jpg?v=1789873010
   Price: $1.80 USD
-- [Cramorant 2505/07 Master Ball Reverse Holo Pokémon Card](https://kingandqueengames.com/products/cramorant-2505-07-master-ball-reverse-holo-cbb4c-simplified-chinese): Shop Cramorant 2505/07 Master Ball Reverse Holo from Pokémon CBB4C in Simplified Chinese. Near Mint single card.
-  Updated: 2026-09-20T03:05:41Z
-  Vendor: Pokémon
-  Product Type: Single Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Cramorant_Masterball.jpg?v=1789873236
-  Price: $2.00 USD
-[List Continued](https://kingandqueengames.com/a/llms-agent/llms.txt?shop=54csxi-is.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDg5ODc5OTY1NzU2LCJsYXN0X3ZhbHVlIjoiOTA4OTg3OTk2NTc1NiJ9)
+[List Continued](https://kingandqueengames.com/a/llms-agent/llms.txt?shop=54csxi-is.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDg5ODc5NjA1MzA4LCJsYXN0X3ZhbHVlIjoiOTA4OTg3OTYwNTMwOCJ9)
 
 ## Collections
 
@@ -1705,10 +1698,10 @@ King And Queen Games, llc
   Updated: 2026-08-01T05:17:33Z
   Total Products: 4
 - [Smart Products Filter Index - Do not delete](https://kingandqueengames.com/collections/globofilter-best--products-index): - King And Queen Games
-  Updated: 2026-11-02T18:07:58Z
+  Updated: 2026-11-21T10:08:28Z
   Total Products: 376
 - [Pokemon Singles](https://kingandqueengames.com/collections/single--cards): Buy Pokémon singles online at King And Queen Games. Shop rare holos, full arts, alt arts, and competitive staples from every set and expansion.
-  Updated: 2026-11-01T21:33:41Z
+  Updated: 2026-11-21T10:08:28Z
   Total Products: 167
 - [Lorcana Singles](https://kingandqueengames.com/collections/japanese-lorcana-singles): Shop individual Lorcana  cards at King And Queen Games. Find rare and common singles to complete your Disney Lorcana TCG collection.
   Updated: 2026-10-27T04:29:01Z
@@ -1732,10 +1725,10 @@ King And Queen Games, llc
   Updated: 2026-11-02T18:07:58Z
   Total Products: 25
 - [[XCloud Search app] All products](https://kingandqueengames.com/collections/cloud-search-all-products): This collection is used by the XCloud Search & Product Filter app (https://apps.shopify.com/cloudsearch) to query information about products in your store.Please do not edit or delete this collection (unless you've removed the app in which case you can safely delete it). - King And Queen Games
-  Updated: 2026-11-02T18:07:58Z
+  Updated: 2026-11-21T10:08:28Z
   Total Products: 376
 - [Pokémon  Card Game Products](https://kingandqueengames.com/collections/all-pokemon-cards): Shop authentic Pokémon TCG products including booster boxes, elite trainer boxes, single cards, and sealed packs. Premium Japanese and English cards for collectors and players.
-  Updated: 2026-11-02T18:07:58Z
+  Updated: 2026-11-21T10:08:28Z
   Total Products: 240
 - [Yu-Gi-OH Singles](https://kingandqueengames.com/collections/yu-gi-oh): Shop authentic Yu-Gi-Oh  cards and singles. Find rare cards, competitive staples, and collectible Yu-Gi-Oh TCG products at King And Queen Games.
   Updated: 2026-11-01T14:32:32Z
@@ -2042,6 +2035,12 @@ King And Queen Games, llc
     Author: King And Queen Games
   - [Exploring Japanese versus Chinese Booster Boxes Which is Right for You?](https://kingandqueengames.com/blogs/news/exploring-japanese-versus-chinese-booster-boxes-which-is-right-for-you): Exploring Japanese versus Chinese Booster Boxes Which is Right for You?
     Updated: 2026-11-13T00:21:19Z
+    Author: King And Queen Games
+  - [Trend Alert: The Rising Demand for Chinese Booster Boxes Among Pokemon Enthusiasts](https://kingandqueengames.com/blogs/news/trend-alert-the-rising-demand-for-chinese-booster-boxes-among-pokemon-enthusiasts): Trend Alert: The Rising Demand for Chinese Booster Boxes Among Pokemon Enthusiasts
+    Updated: 2026-11-16T00:27:38Z
+    Author: King And Queen Games
+  - [Buying Japanese Pokemon Booster Boxes in the USA What Collectors Need to Know](https://kingandqueengames.com/blogs/news/buying-japanese-pokemon-booster-boxes-in-the-usa-what-collectors-need-to-know): Buying Japanese Pokemon Booster Boxes in the USA What Collectors Need to Know
+    Updated: 2026-11-20T00:10:52Z
     Author: King And Queen Games
 
 ## Store Pages
