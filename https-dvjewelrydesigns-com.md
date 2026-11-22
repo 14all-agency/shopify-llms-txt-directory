@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-10-21T15:48:20Z
 - Contact Email: info@dvjewelrydesigns.com
-- Updated At: 2026-11-15T00:34:29.222Z
+- Updated At: 2026-11-22T00:35:49.655Z
 
 ## Products
 
@@ -205,102 +205,102 @@
   - [10](https://dvjewelrydesigns.com/products/pear-shaped-moissanite-twig-solid-gold-wedding-ring-set?variant=49301490172189)
     Availability: Available
     Price: $2,095.00 USD
-- [Blue Zircon Sea Fan Coral Ring in Sterling Silver](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring): Hand-sculpted sea fan coral ring with natural blue zircon gemstones. Sterling silver, size 8.5, resizable. Award-winning Fusion® design. 30mm length.
-  Updated: 2026-11-12T08:12:27Z
+- [Blue Natural Zircon Gemstone Beach Ring | Sterling Silver](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring): Blue Natural Zircon Gemstone Beach Ring in hand-sculpted sterling silver features three natural blue zircon stones, sea fan coral details, and polished oxidation finish.
+  Updated: 2026-11-17T05:32:28Z
   Vendor: DV Jewelry Designs
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/blue-natural-zircons-gemstones-in-a-sterling-silver-sea-fan-coral-hand-sculpted-ring-907352.jpg?v=1741121956
+  Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/blue-natural-zircon-gemstone-beach-ring-silver-coral-openwork.jpg?v=1794850344
   - [3 / Oxidized](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553080093)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [3 / Polished](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553112861)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [3.5 / Oxidized](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553145629)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [3.5 / Polished](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553178397)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [4 / Oxidized](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553211165)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [4 / Polished](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553243933)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [4.5 / Oxidized](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553276701)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [4.5 / Polished](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553309469)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [5 / Oxidized](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553342237)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [5 / Polished](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553375005)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [5.5 / Oxidized](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553407773)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [5.5 / Polished](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553440541)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [6 / Oxidized](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553473309)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [6 / Polished](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553506077)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [6.5 / Oxidized](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553538845)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [6.5 / Polished](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553571613)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [7 / Oxidized](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553604381)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [7 / Polished](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553637149)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [7.5 / Oxidized](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553669917)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [7.5 / Polished](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553702685)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [8 / Oxidized](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553735453)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [8 / Polished](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553768221)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [8.5 / Oxidized](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553800989)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [8.5 / Polished](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553833757)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [9 / Oxidized](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553866525)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [9 / Polished](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553899293)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [9.5 / Oxidized](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553932061)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [9.5 / Polished](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553964829)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [10 / Oxidized](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310553997597)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
   - [10 / Polished](https://dvjewelrydesigns.com/products/zircons-sea-fan-coral-ring?variant=49310554030365)
     Availability: Available
-    Price: $165.00 USD
+    Price: $375.00 USD
 - [Sea Fan Coral Earrings - Sterling Silver Beach Jewelry | DV Designs](https://dvjewelrydesigns.com/products/sterling-silver-beach-style-earrings-in-a-sea-fan-coral-design): Hand-sculpted sea fan coral dangle earrings in sterling silver. 1 7/8" height, French hook wires. Award-winning ocean-inspired Fusion® design.
   Updated: 2026-11-11T18:23:56Z
   Vendor: DV Jewelry Designs
@@ -735,7 +735,7 @@
     Availability: Available
     Price: $1,365.00 USD
 - [DV Jewelry Designs Gift Card - Perfect for any occasion](https://dvjewelrydesigns.com/products/gift-card): Give the gift of choice with a gift card for that special someone who is hard to shop for.
-  Updated: 2026-11-11T18:23:56Z
+  Updated: 2026-11-20T18:37:22Z
   Vendor: DV Jewelry Designs
   Product Type: Gift Card
   Availability: Available
@@ -1020,160 +1020,160 @@
   - [11.5](https://dvjewelrydesigns.com/products/sterling-silver-topaz-ring-with-a-starfish-and-sea-fan-coral-design?variant=49741961429277)
     Availability: Available
     Price: $400.00 USD
-- [Radiant Cut Moissanite Twig Engagement Ring](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring): Hand-sculpted by Dawn, this 1.5ct radiant-cut moissanite engagement ring features a twig design in recycled solid gold. Explore this nature-inspired ring.
-  Updated: 2026-11-11T20:07:59Z
+- [Radiant Cut Moissanite Engagement Ring | 1.5ct Solitaire](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring): Radiant Cut Moissanite Engagement Ring, hand-sculpted using the lost wax method. Features a 1.5ct stone, with a ring box and small ring tote included.
+  Updated: 2026-11-16T21:29:59Z
   Vendor: DV Jewelry Designs
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/radiant_Moissanite_AI_3-Photoroom.jpg?v=1790616310
-  - [3 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904700743965)
+  - [3 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904700743965)
     Availability: Available
     Price: $2,350.00 USD
-  - [3 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904700776733)
+  - [3 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904700776733)
     Availability: Available
     Price: $2,350.00 USD
-  - [3 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904700809501)
+  - [3 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904700809501)
     Availability: Available
     Price: $2,350.00 USD
-  - [3.25 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904700842269)
+  - [3.25 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904700842269)
     Availability: Available
     Price: $2,350.00 USD
-  - [3.25 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904700875037)
+  - [3.25 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904700875037)
     Availability: Available
     Price: $2,350.00 USD
-  - [3.25 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904700907805)
+  - [3.25 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904700907805)
     Availability: Available
     Price: $2,350.00 USD
-  - [3.5 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977420061)
+  - [3.5 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977420061)
     Availability: Available
     Price: $2,350.00 USD
-  - [3.5 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977452829)
+  - [3.5 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977452829)
     Availability: Available
     Price: $2,350.00 USD
-  - [3.5 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977485597)
+  - [3.5 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977485597)
     Availability: Available
     Price: $2,350.00 USD
-  - [3.75 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904700940573)
+  - [3.75 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904700940573)
     Availability: Available
     Price: $2,350.00 USD
-  - [3.75 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904700973341)
+  - [3.75 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904700973341)
     Availability: Available
     Price: $2,350.00 USD
-  - [3.75 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701006109)
+  - [3.75 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701006109)
     Availability: Available
     Price: $2,350.00 USD
-  - [4 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977518365)
+  - [4 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977518365)
     Availability: Available
     Price: $2,350.00 USD
-  - [4 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977551133)
+  - [4 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977551133)
     Availability: Available
     Price: $2,350.00 USD
-  - [4 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977583901)
+  - [4 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977583901)
     Availability: Available
     Price: $2,350.00 USD
-  - [4.25 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701038877)
+  - [4.25 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701038877)
     Availability: Available
     Price: $2,350.00 USD
-  - [4.25 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701071645)
+  - [4.25 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701071645)
     Availability: Available
     Price: $2,350.00 USD
-  - [4.25 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701104413)
+  - [4.25 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701104413)
     Availability: Available
     Price: $2,350.00 USD
-  - [4.5 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977616669)
+  - [4.5 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977616669)
     Availability: Available
     Price: $2,350.00 USD
-  - [4.5 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977649437)
+  - [4.5 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977649437)
     Availability: Available
     Price: $2,350.00 USD
-  - [4.5 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977682205)
+  - [4.5 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977682205)
     Availability: Available
     Price: $2,350.00 USD
-  - [4.75 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701137181)
+  - [4.75 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701137181)
     Availability: Available
     Price: $2,350.00 USD
-  - [4.75 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701169949)
+  - [4.75 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701169949)
     Availability: Available
     Price: $2,350.00 USD
-  - [4.75 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701202717)
+  - [4.75 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701202717)
     Availability: Available
     Price: $2,350.00 USD
-  - [5 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977714973)
+  - [5 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977714973)
     Availability: Available
     Price: $2,350.00 USD
-  - [5 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977747741)
+  - [5 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977747741)
     Availability: Available
     Price: $2,350.00 USD
-  - [5 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977780509)
+  - [5 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977780509)
     Availability: Available
     Price: $2,350.00 USD
-  - [5.25 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701235485)
+  - [5.25 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701235485)
     Availability: Available
     Price: $2,350.00 USD
-  - [5.25 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701268253)
+  - [5.25 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701268253)
     Availability: Available
     Price: $2,350.00 USD
-  - [5.25 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701301021)
+  - [5.25 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701301021)
     Availability: Available
     Price: $2,350.00 USD
-  - [5.5 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977813277)
+  - [5.5 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977813277)
     Availability: Available
     Price: $2,350.00 USD
-  - [5.5 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977846045)
+  - [5.5 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977846045)
     Availability: Available
     Price: $2,350.00 USD
-  - [5.5 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977878813)
+  - [5.5 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977878813)
     Availability: Available
     Price: $2,350.00 USD
-  - [5.75 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701333789)
+  - [5.75 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701333789)
     Availability: Available
     Price: $2,350.00 USD
-  - [5.75 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701366557)
+  - [5.75 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701366557)
     Availability: Available
     Price: $2,350.00 USD
-  - [5.75 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701399325)
+  - [5.75 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701399325)
     Availability: Available
     Price: $2,350.00 USD
-  - [6 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977911581)
+  - [6 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977911581)
     Availability: Available
     Price: $2,350.00 USD
-  - [6 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977944349)
+  - [6 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977944349)
     Availability: Available
     Price: $2,350.00 USD
-  - [6 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741977977117)
+  - [6 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741977977117)
     Availability: Available
     Price: $2,350.00 USD
-  - [6.25 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701432093)
+  - [6.25 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701432093)
     Availability: Available
     Price: $2,350.00 USD
-  - [6.25 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701464861)
+  - [6.25 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701464861)
     Availability: Available
     Price: $2,350.00 USD
-  - [6.25 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701497629)
+  - [6.25 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701497629)
     Availability: Available
     Price: $2,350.00 USD
-  - [6.5 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741978009885)
+  - [6.5 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741978009885)
     Availability: Available
     Price: $2,350.00 USD
-  - [6.5 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741978042653)
+  - [6.5 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741978042653)
     Availability: Available
     Price: $2,350.00 USD
-  - [6.5 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741978075421)
+  - [6.5 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741978075421)
     Availability: Available
     Price: $2,350.00 USD
-  - [6.75 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701530397)
+  - [6.75 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701530397)
     Availability: Available
     Price: $2,350.00 USD
-  - [6.75 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701563165)
+  - [6.75 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701563165)
     Availability: Available
     Price: $2,350.00 USD
-  - [6.75 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=51904701595933)
+  - [6.75 / 14k Rose Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=51904701595933)
     Availability: Available
     Price: $2,350.00 USD
-  - [7 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741978108189)
+  - [7 / 14k White Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741978108189)
     Availability: Available
     Price: $2,350.00 USD
-  - [7 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-ring?variant=49741978140957)
+  - [7 / 14k Yellow Gold](https://dvjewelrydesigns.com/products/radiant-cut-moissanite-engagement-ring?variant=49741978140957)
     Availability: Available
     Price: $2,350.00 USD
 - [Radiant Cut Moissanite Twig Ring Guard Bridal Set](https://dvjewelrydesigns.com/products/1-5-carat-moissanite-twig-branch-style-bridal-set-in-solid-gold): A hand-sculpted 1.5ct radiant-cut moissanite bridal set with a twig-style ring guard in recycled solid gold. Choose metals for the solitaire and guard.
@@ -3779,10 +3779,10 @@
   Updated: 2026-11-04T16:55:05Z
   Total Products: 25
 - [Beach Style Jewelry](https://dvjewelrydesigns.com/collections/beachy-styles): Handcrafted beach jewelry with starfish, coral & shell designs. Ocean-inspired rings, necklaces & earrings in sterling silver & gold.
-  Updated: 2026-11-04T15:09:55Z
+  Updated: 2026-11-16T17:34:53Z
   Total Products: 13
 - [Gemstone Rings](https://dvjewelrydesigns.com/collections/gemstone-rings): Handcrafted gemstone rings in sterling silver & gold. Nature-inspired designs featuring moss agate, raw diamonds & more. Artisan-made engagement & statement rings.
-  Updated: 2026-11-04T16:22:01Z
+  Updated: 2026-11-16T17:34:53Z
   Total Products: 42
 - [Wedding Bands and Statement Jewelry](https://dvjewelrydesigns.com/collections/wedding-bands-and-statement-jewelry): Artisan wedding bands & statement jewelry in silver & gold. Unique twig, leaf & nature-inspired designs. Handcrafted engagement & wedding ring sets.
   Updated: 2026-11-04T15:09:01Z
@@ -3800,16 +3800,16 @@
   Updated: 2026-07-09T17:56:02Z
   Total Products: 5
 - [Recommended products (Seguno)](https://dvjewelrydesigns.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-11-04T15:09:55Z
+  Updated: 2026-11-16T17:34:53Z
   Total Products: 135
 - [One-of-a-Kind Jewelry](https://dvjewelrydesigns.com/collections/one-of-a-kind-jewelry): Discover unique one-of-a-kind jewelry pieces. Handcrafted rings, necklaces & pendants featuring raw diamonds, gemstones & nature-inspired designs.
-  Updated: 2026-10-20T11:17:21Z
+  Updated: 2026-11-19T21:04:39Z
   Total Products: 14
 - [Gift Card](https://dvjewelrydesigns.com/collections/gift-card): Give the perfect gift with a DV Jewelry Designs gift card. Let them choose their favorite handmade nature-inspired jewelry. Virtual gift cards available.
   Updated: 2026-08-26T11:16:21Z
   Total Products: 12
 - [Rings](https://dvjewelrydesigns.com/collections/rings): Shop handcrafted nature-inspired rings in sterling silver & 14k gold. Twig engagement rings, raw diamond bands & gemstone styles. Free US shipping.
-  Updated: 2026-11-09T16:44:11Z
+  Updated: 2026-11-16T17:34:53Z
   Total Products: 112
 
 ## Blogs
