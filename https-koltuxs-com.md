@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2026-06-10T10:24:28Z
 - Contact Email: info@koltuxs.com
-- Updated At: 2026-11-14T01:12:40.482Z
+- Updated At: 2026-11-22T01:11:48.629Z
 
 ## Products
 
@@ -942,7 +942,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2018.png?v=1787954481
   Price: ₺0,00 TRY
 - [ZUS 2019 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2019-kafe-restoran-sandalyesi)
-  Updated: 2026-08-29T02:16:16Z
+  Updated: 2026-11-14T14:23:37Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -1188,7 +1188,7 @@
   Updated: 2026-11-06T12:22:16Z
   Total Products: 7
 - [Orta Sehpa](https://koltuxs.com/collections/orta-sehpasi)
-  Updated: 2026-11-07T12:20:39Z
+  Updated: 2026-11-14T12:20:55Z
   Total Products: 4
 - [Zigon Sehpa](https://koltuxs.com/collections/zigon-sehpa)
   Updated: 2026-10-17T11:34:23Z
@@ -1323,13 +1323,13 @@
   Updated: 2026-08-15T10:49:03Z
   Total Products: 0
 - [Kafe/Restoran](https://koltuxs.com/collections/kafe-restoran)
-  Updated: 2026-11-12T12:19:01Z
+  Updated: 2026-11-14T14:23:38Z
   Total Products: 61
 - [Düğün Paketi](https://koltuxs.com/collections/dugun-paketi)
   Updated: 2026-08-15T10:49:03Z
   Total Products: 1
 - [Kafe/Restoran Sandalye](https://koltuxs.com/collections/kafe-restoran-sandalye)
-  Updated: 2026-11-11T12:19:34Z
+  Updated: 2026-11-14T14:23:38Z
   Total Products: 57
 
 ## Store Pages
