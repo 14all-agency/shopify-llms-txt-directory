@@ -6,7 +6,7 @@
 - Timezone: Europe/Copenhagen
 - Created At: 2022-06-03T13:54:40Z
 - Contact Email: hello@vaerupcycled.com
-- Updated At: 2026-11-14T00:27:04.558Z
+- Updated At: 2026-11-22T00:24:50.254Z
 
 ## Products
 
@@ -573,10 +573,10 @@
 ## Collections
 
 - [Upcycled sneakers](https://vaerupcycled.com/collections/shop): Shop VAER’s upcycled and recycled sneakers, made from discarded jeans and workwear. Each pair is unique and made for everyday comfort.
-  Updated: 2026-11-10T12:08:39Z
+  Updated: 2026-11-14T12:08:33Z
   Total Products: 16
 - [Phoenix](https://vaerupcycled.com/collections/phoenix): Explore VAER’s Phoenix sneakers in distinctive colourways, with bold designs so that you stand out as a sustainability hero. Each sneaker is unique.
-  Updated: 2026-11-10T12:08:39Z
+  Updated: 2026-11-14T12:08:33Z
   Total Products: 13
 - [Gro](https://vaerupcycled.com/collections/gro): Gro sneakers made from upcycled textile waste and recycled materials.
   Updated: 2026-09-20T11:07:41Z
@@ -591,13 +591,13 @@
   Updated: 2026-09-14T06:19:30Z
   Total Products: 1
 - [Newest in](https://vaerupcycled.com/collections/newest-in): Discover VAER’s newest arrivals with unique designs and made from upcycled textiles for everyday wear.
-  Updated: 2026-11-10T12:08:39Z
+  Updated: 2026-11-14T12:08:33Z
   Total Products: 8
 - [STARK x VAER Phoenix](https://vaerupcycled.com/collections/stark-gensko): Explore STARK x VAER Phoenix sneakers in bold orange, blue, black and yellow colorways, designed for distinctive everyday style.
-  Updated: 2026-11-10T12:08:39Z
+  Updated: 2026-11-14T12:08:33Z
   Total Products: 5
 - [All sneakers](https://vaerupcycled.com/collections/all-sneakers): Explore VAER’s upcycled and recycled sneakers, made from discarded jeans and workwear. Each pair is unique, comfortable and made for everyday wear.
-  Updated: 2026-11-10T12:08:39Z
+  Updated: 2026-11-14T12:08:33Z
   Total Products: 13
 
 ## Blogs
