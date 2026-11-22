@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-05T10:38:43Z
 - Contact Email: hdmans@yahoo.com
-- Updated At: 2026-11-14T01:27:43.602Z
+- Updated At: 2026-11-22T01:27:48.148Z
 
 ## Products
 
@@ -2250,14 +2250,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/db81e0b5-bcf7-4047-bd6f-6288086e32c7_trans.jpg?v=1698013131
   Price: $97.99 USD
-- [Buy Butterfly Tassel Open-Ended Bracelet - Elegant & Trendy | SURAZY](https://surazy.com/products/fashion-design-butterfly-tassel-open-ended-bracelet): Add a dash of playfulness to your look with our Fashion Design Butterfly Tassel Bracelet. Elevate your style with this exquisite open-ended bracelet, crafted with precision for a unique and sophisticated statement piece.
-  Updated: 2026-07-27T10:07:06Z
-  Vendor: SURAZY
-  Product Type: JEWELLERY
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/3807a7a8-4145-4921-a95c-4945a970f9cd.jpg?v=1698013223
-  Price: $125.76 USD
-[List Continued](https://surazy.com/a/llms-agent/llms.txt?shop=hassan-mansaray-gk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Nzg0OTU0MzkyODgwLCJsYXN0X3ZhbHVlIjoiODc4NDk1NDM5Mjg4MCJ9)
+[List Continued](https://surazy.com/a/llms-agent/llms.txt?shop=hassan-mansaray-gk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Nzg0OTUzMzExNTM2LCJsYXN0X3ZhbHVlIjoiODc4NDk1MzMxMTUzNiJ9)
 
 ## Collections
 
@@ -2265,7 +2258,7 @@
   Updated: 2026-07-10T13:41:09Z
   Total Products: 218
 - [Watches & jewellry](https://surazy.com/collections/watches-jewellry)
-  Updated: 2026-07-10T15:21:52Z
+  Updated: 2026-11-16T01:40:30Z
   Total Products: 218
 - [Clothing](https://surazy.com/collections/clothing)
   Updated: 2026-07-10T15:22:31Z
@@ -2361,7 +2354,7 @@
   Updated: 2026-07-10T15:20:28Z
   Total Products: 11
 - [Jewelry](https://surazy.com/collections/jewelry)
-  Updated: 2026-07-10T15:22:29Z
+  Updated: 2026-11-16T01:40:30Z
   Total Products: 26
 - [Room Divider Accessories](https://surazy.com/collections/room-divider-accessories)
   Updated: 2026-07-10T15:20:22Z
@@ -2640,13 +2633,13 @@
   Updated: 2026-07-10T15:21:53Z
   Total Products: 1
 - [Necklace](https://surazy.com/collections/necklace)
-  Updated: 2026-07-10T15:21:52Z
+  Updated: 2026-11-16T01:40:29Z
   Total Products: 5
 - [Silver Necklace](https://surazy.com/collections/silver-necklace)
   Updated: 2026-07-10T15:21:52Z
   Total Products: 1
 - [Earrings](https://surazy.com/collections/earrings)
-  Updated: 2026-07-10T15:21:52Z
+  Updated: 2026-11-16T01:40:28Z
   Total Products: 6
 - [Silver Earrings](https://surazy.com/collections/silver-earrings)
   Updated: 2026-07-10T15:21:52Z
@@ -2664,22 +2657,22 @@
   Updated: 2026-07-10T15:21:50Z
   Total Products: 1
 - [Bracelet](https://surazy.com/collections/bracelet)
-  Updated: 2026-07-10T15:21:50Z
+  Updated: 2026-11-16T01:40:30Z
   Total Products: 3
 - [Silver Plated](https://surazy.com/collections/silver-plated)
   Updated: 2026-07-10T15:21:49Z
   Total Products: 2
 - [Gold Plated](https://surazy.com/collections/gold-plated)
-  Updated: 2026-07-10T15:21:49Z
+  Updated: 2026-11-16T01:40:30Z
   Total Products: 8
 - [Gold Plated Earrings](https://surazy.com/collections/gold-plated-earrings)
-  Updated: 2026-07-10T15:21:49Z
+  Updated: 2026-11-16T01:40:28Z
   Total Products: 2
 - [Pearl](https://surazy.com/collections/pearl)
-  Updated: 2026-07-10T15:21:48Z
+  Updated: 2026-11-16T01:40:29Z
   Total Products: 3
 - [Pendant Necklace](https://surazy.com/collections/pendant-necklace)
-  Updated: 2026-07-10T15:21:48Z
+  Updated: 2026-11-16T01:40:29Z
   Total Products: 2
 - [Silver Bracelet](https://surazy.com/collections/silver-bracelet)
   Updated: 2026-07-10T15:21:46Z
@@ -3071,6 +3064,15 @@
     Author: Surazy.com
   - [The Essential Guide to Maximizing Utility with Men's Multi-function Travel Backpacks](https://surazy.com/blogs/news/the-essential-guide-to-maximizing-utility-with-mens-multi-function-travel-backpacks): The Essential Guide to Maximizing Utility with Men's Multi-function Travel Backpacks
     Updated: 2026-11-14T00:07:48Z
+    Author: Surazy.com
+  - [Exploring Stylish Versatility With the David Jones PU Leather Medium Handbag](https://surazy.com/blogs/news/exploring-stylish-versatility-with-the-david-jones-pu-leather-medium-handbag): Exploring Stylish Versatility With the David Jones PU Leather Medium Handbag
+    Updated: 2026-11-16T00:47:34Z
+    Author: Surazy.com
+  - [Exploring Timeless Elegance with Sweetrain 925 Sterling Silver Moissanite Earrings](https://surazy.com/blogs/news/exploring-timeless-elegance-with-sweetrain-925-sterling-silver-moissanite-earrings): Exploring Timeless Elegance with Sweetrain 925 Sterling Silver Moissanite Earrings
+    Updated: 2026-11-18T00:47:20Z
+    Author: Surazy.com
+  - [Effortlessly Chic Style: How to Wear the Umgee Collared Button Down Romper for Any Occasion](https://surazy.com/blogs/news/effortlessly-chic-style-how-to-wear-the-umgee-collared-button-down-romper-for-any-occasion): Effortlessly Chic Style: How to Wear the Umgee Collared Button Down Romper for Any Occasion
+    Updated: 2026-11-21T00:07:33Z
     Author: Surazy.com
 
 ## Store Pages
