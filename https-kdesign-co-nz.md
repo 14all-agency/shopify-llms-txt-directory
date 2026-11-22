@@ -6,12 +6,12 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-10-07T20:11:51Z
 - Contact Email: k@kdesign.co.nz
-- Updated At: 2026-11-14T01:07:08.502Z
+- Updated At: 2026-11-22T01:02:39.529Z
 
 ## Products
 
 - [Paperweight Ornaments](https://kdesign.co.nz/products/paperweight-ornament): Six iconic New Zealand animals, each one ready to travel the world with you. Whether you're heading overseas or simply want a little piece of New Zealand to keep, these charming ornaments make a gift worth giving. Small enough to tuck into any corner of a suitcase (45mm x 30mm), each one comes in its own special presentation box. Made from solid zinc alloy. Designed in New Zealand.
-  Updated: 2026-11-02T22:54:26Z
+  Updated: 2026-11-14T03:27:17Z
   Vendor: My Store
   Product Type: Figurine
   Availability: Available
@@ -483,7 +483,7 @@
     Image: https://cdn.shopify.com/s/files/1/0724/6590/7958/files/ShoeBagYes.png?v=1786599297
     Price: $13.91 NZD
 - [NZ Tote Bags | Recycled Cotton | Kiwi Designs | K DESIGN](https://kdesign.co.nz/products/tote-bag): Lightweight NZ-themed tote bags made from 100% recycled cotton. Perfect souvenir or everyday bag. Kiwi designs, proudly made in New Zealand. Shop K DESIGN.
-  Updated: 2026-10-31T08:31:26Z
+  Updated: 2026-11-14T03:27:15Z
   Vendor: K DESIGN
   Product Type: Tote Bag
   Availability: Available
@@ -538,7 +538,7 @@
 ## Collections
 
 - [Paperweights](https://kdesign.co.nz/collections/frontpage): Choose from six iconic New Zealand animals — the perfect little gift or keepsake. Compact at just 45 × 30mm, each piece weighs a substantial 75g and comes beautifully presented in its own gift box. Made from solid zinc alloy and designed in New Zealand.
-  Updated: 2026-10-31T11:19:25Z
+  Updated: 2026-11-14T12:20:16Z
   Total Products: 1
 - [Cotton Wallets & Coin Purses](https://kdesign.co.nz/collections/travel-wallets-coin-purses): Keep your documents handy in these stylish, 100% recycled cotton wallets and coin purses featuring a range of New Zealand designs.
   Updated: 2026-10-31T11:19:25Z
@@ -550,13 +550,13 @@
   Updated: 2026-10-31T11:19:25Z
   Total Products: 2
 - [Little Treasures](https://kdesign.co.nz/collections/little-treasures): Little treasures that travel well — the perfect reminder of your New Zealand journey.
-  Updated: 2026-10-31T11:19:25Z
+  Updated: 2026-11-14T12:20:16Z
   Total Products: 3
 - [Kitchen, Tableware & Things](https://kdesign.co.nz/collections/kitchen-tableware): From the kitchen to the table, our Kitchen & Tableware collection brings bold New Zealand design into your everyday. Featuring aprons, coasters, placemats, pot mats, shoe bags and oven mitts — practical pieces that make great gifts too.
-  Updated: 2026-10-31T11:19:25Z
+  Updated: 2026-11-14T12:20:16Z
   Total Products: 15
 - [New Zealand](https://kdesign.co.nz/collections/new-zealand): Take home a little piece of New Zealand with these gorgeous New Zealand momentos.
-  Updated: 2026-10-31T11:19:25Z
+  Updated: 2026-11-14T12:20:16Z
   Total Products: 13
 
 ## Store Pages
