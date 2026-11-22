@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-07T04:54:37Z
 - Contact Email: bonitaaidasl031023@gmail.com
-- Updated At: 2026-11-14T01:37:19.756Z
+- Updated At: 2026-11-22T01:16:18.708Z
 
 ## Products
 
@@ -3542,28 +3542,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1014/9910/9669/files/OW2232285_1.jpg?v=1792528158
   Price: $23.99 USD
-- [Night Before Christmas Ornament - 3 Or 4 Names | Noelyn](https://noelyn.shop/products/personalized-night-before-christmas-family-ornament-for-3-or-4-names): Resin Night Before Christmas Family ornament, personalized with 3 or 4 names. Add your names and order today.
-  Updated: 2026-10-22T14:32:09Z
-  Vendor: Noelyn
-  Product Type: Family Ornaments
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1014/9910/9669/files/OC18017.jpg?v=1792528160
-  - [3 Family Members](https://noelyn.shop/products/personalized-night-before-christmas-family-ornament-for-3-or-4-names?variant=54143480594725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1014/9910/9669/files/OC18017.jpg?v=1792528160
-    Price: $19.99 USD
-  - [4 Family Members](https://noelyn.shop/products/personalized-night-before-christmas-family-ornament-for-3-or-4-names?variant=54143480627493)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1014/9910/9669/files/OC18018.jpg?v=1792528160
-    Price: $19.99 USD
-- [Couple with Cat Ornament - Name and Year | Noelyn](https://noelyn.shop/products/personalized-couple-with-cat-resin-ornament): Resin Couple with Cat ornament, personalized with a name and the year. Add a name and order today.
-  Updated: 2026-10-22T14:31:33Z
-  Vendor: Noelyn
-  Product Type: Couple Ornaments
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1014/9910/9669/files/PX24NOR2672-2_1.jpg?v=1792528162
-  Price: $17.99 USD
-[List Continued](https://noelyn.shop/a/llms-agent/llms.txt?shop=dcq1ew-u1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDcyNjEwNTA4ODI5MywibGFzdF92YWx1ZSI6IjEwNzI2MTA1MDg4MjkzIn0%3D)
+[List Continued](https://noelyn.shop/a/llms-agent/llms.txt?shop=dcq1ew-u1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDcyNjEwNDk1NzIyMSwibGFzdF92YWx1ZSI6IjEwNzI2MTA0OTU3MjIxIn0%3D)
 
 ## Collections
 
@@ -3669,6 +3648,15 @@
     Author: Noelyn Shop
   - [Personalized Christmas Ornaments: Why Noelyn's Black Bear Family Table Topper is the Perfect Keepsake Christmas Ornament with Year](https://noelyn.shop/blogs/news/personalized-christmas-ornaments-why-noelyns-black-bear-family-table-topper-is-the-perfect-keepsake-christmas-ornament-with-year): Personalized Christmas Ornaments: Why Noelyn's Black Bear Family Table Topper is the Perfect Keepsake Christmas Ornament with Year
     Updated: 2026-11-11T11:05:05Z
+    Author: Noelyn Shop
+  - [Explore Thoughtful Personalized Holiday Keepsakes: Noelyn's Unique Customized Ornaments for Grandparents and Families](https://noelyn.shop/blogs/news/explore-thoughtful-personalized-holiday-keepsakes-noelyns-unique-customized-ornaments-for-grandparents-and-families): Explore Thoughtful Personalized Holiday Keepsakes: Noelyn's Unique Customized Ornaments for Grandparents and Families
+    Updated: 2026-11-16T11:04:07Z
+    Author: Noelyn Shop
+  - [Creative Custom Christmas Gift Ideas for Family with Noelyn's Personalized Deer Tangled in Lights Ornament](https://noelyn.shop/blogs/news/creative-custom-christmas-gift-ideas-for-family-with-noelyns-personalized-deer-tangled-in-lights-ornament): Creative Custom Christmas Gift Ideas for Family with Noelyn's Personalized Deer Tangled in Lights Ornament
+    Updated: 2026-11-17T11:03:18Z
+    Author: Noelyn Shop
+  - [How the Noelyn Gold Tassel Class of 2026 Photo Ornament Became a Top Personalized Holiday Keepsake](https://noelyn.shop/blogs/news/how-the-noelyn-gold-tassel-class-of-2026-photo-ornament-became-a-top-personalized-holiday-keepsake): How the Noelyn Gold Tassel Class of 2026 Photo Ornament Became a Top Personalized Holiday Keepsake
+    Updated: 2026-11-18T11:04:44Z
     Author: Noelyn Shop
 
 ## Store Pages
