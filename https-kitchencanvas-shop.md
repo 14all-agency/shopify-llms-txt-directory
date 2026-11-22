@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-05-20T00:56:01Z
 - Contact Email: support@tl5kitchenmarketplace.com
-- Updated At: 2026-11-14T00:29:01.512Z
+- Updated At: 2026-11-22T00:21:47.349Z
 
 ## Products
 
 - [Hot Plate Gripper Tongs | Kitchen Canvas](https://kitchencanvas.shop/products/stainless-steel-hot-plate-gripper-tongs): Lift hot plates, bowls, and trays with stainless steel gripper tongs featuring an anti-scald design and secure silicone anti-slip grip.
-  Updated: 2026-10-09T23:27:07Z
+  Updated: 2026-11-18T02:19:57Z
   Vendor: CJdropshipping
   Product Type: Kitchen Utensils
   Availability: Available
@@ -126,7 +126,7 @@
 ## Collections
 
 - [Home page](https://kitchencanvas.shop/collections/frontpage)
-  Updated: 2026-10-09T01:26:58Z
+  Updated: 2026-11-18T02:35:40Z
   Total Products: 18
 - [NEW ARRIVALS](https://kitchencanvas.shop/collections/new-arrivals)
   Updated: 2026-10-09T01:26:36Z
@@ -135,13 +135,13 @@
   Updated: 2026-10-04T00:50:54Z
   Total Products: 4
 - [TOP RATES](https://kitchencanvas.shop/collections/top-rates)
-  Updated: 2026-10-09T01:26:58Z
+  Updated: 2026-11-18T02:35:40Z
   Total Products: 4
 - [Cookware](https://kitchencanvas.shop/collections/cookware): Discover the Cookware Collection at Kitchen Canvas, featuring practical kitchen essentials designed to make everyday cooking easier and more enjoyable. Explore thoughtfully selected cookware and kitchen tools that bring convenience, functionality, and style to your home.
-  Updated: 2026-10-09T01:26:58Z
+  Updated: 2026-11-18T02:35:40Z
   Total Products: 10
 - [Kitchen Gadgets & Tools](https://kitchencanvas.shop/collections/kitchen-gadgets-tools): Discover practical kitchen gadgets and everyday cooking tools at Kitchen Canvas. From food preparation essentials to clever time-saving accessories, explore thoughtfully selected products designed to make cooking easier, more organized, and enjoyable.
-  Updated: 2026-10-09T01:26:58Z
+  Updated: 2026-11-18T02:35:40Z
   Total Products: 13
 - [Kitchen Storage & Organization](https://kitchencanvas.shop/collections/kitchen-storage-organization): Bring order and convenience to your kitchen with smart storage and organization solutions from Kitchen Canvas. Explore practical organizers, space-saving accessories, sink storage essentials, and innovative products designed to keep your kitchen neat, functional, and beautifully organized.
   Updated: 2026-10-08T23:21:24Z
@@ -426,6 +426,24 @@
   - [Frequently Asked Questions About Innovative Kitchen Gear](https://kitchencanvas.shop/blogs/news/frequently-asked-questions-about-innovative-kitchen-gear): Frequently Asked Questions About Innovative Kitchen Gear
     Updated: 2026-11-13T00:22:28Z
     Author: Kitchen Canvas
+  - [Garlic Press Review for Faster Everyday Prep](https://kitchencanvas.shop/blogs/news/garlic-press-review): Garlic Press Review for Faster Everyday Prep
+    Updated: 2026-11-14T02:32:30Z
+    Author: Admin
+  - [Understanding Kitchen Gadgets Built for Time Management](https://kitchencanvas.shop/blogs/news/understanding-kitchen-gadgets-built-for-time-management): Understanding Kitchen Gadgets Built for Time Management
+    Updated: 2026-11-16T00:28:39Z
+    Author: Kitchen Canvas
+  - [Bakeware Sizing Guide for Pans That Fit](https://kitchencanvas.shop/blogs/news/bakeware-sizing-guide): Bakeware Sizing Guide for Pans That Fit
+    Updated: 2026-11-16T02:31:32Z
+    Author: Admin
+  - [Dish Rack Review: What Really Works at the Sink](https://kitchencanvas.shop/blogs/news/dish-rack-review-what-really-works): Dish Rack Review: What Really Works at the Sink
+    Updated: 2026-11-18T02:34:56Z
+    Author: Admin
+  - [Essential Gadgets for a Space-Savvy Kitchen](https://kitchencanvas.shop/blogs/news/essential-gadgets-for-a-space-savvy-kitchen): Essential Gadgets for a Space-Savvy Kitchen
+    Updated: 2026-11-20T00:11:55Z
+    Author: Kitchen Canvas
+  - [How to Clean a Garlic Press Without the Fuss](https://kitchencanvas.shop/blogs/news/how-to-clean-a-garlic-press): How to Clean a Garlic Press Without the Fuss
+    Updated: 2026-11-20T02:33:59Z
+    Author: Admin
 
 ## Store Pages
 
