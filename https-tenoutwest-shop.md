@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2026-09-09T16:09:52Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-14T01:14:03.351Z
+- Updated At: 2026-11-22T01:04:37.905Z
 
 ## Products
 
 - [OUTWEST TOTE TEN TOUR 100% COTTON](https://tenoutwest.shop/products/outwest-tote): TEN OUTWEST TOUR TOTE BAG in natural with print on one side. This item is a pre-order that will ship mid-November. 100% cotton 15"W x 16"H x 3"D
-  Updated: 2026-11-13T17:04:44Z
+  Updated: 2026-11-21T15:41:36Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/168477_1_310509_d_jpg.png?v=1789575323
   Price: $25.00 USD
 - [TOUR T-SHIRT - BLACK](https://tenoutwest.shop/products/photo-tour-tee): TEN US SHOWCASE PHOTO TOUR TEE in black with print on front and dates on back. 100% Cotton
-  Updated: 2026-11-13T17:28:55Z
+  Updated: 2026-11-21T19:06:06Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
@@ -39,7 +39,7 @@
     Availability: Available
     Price: $40.00 USD
 - [TOUR HOODIE](https://tenoutwest.shop/products/photo-tour-hoodie): TEN US SHOWCASE PHOTO TOUR HOODIE in shade "cement" with front and back print. 100% Cotton
-  Updated: 2026-11-13T15:20:43Z
+  Updated: 2026-11-16T23:08:10Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
@@ -60,14 +60,14 @@
     Availability: Available
     Price: $70.00 USD
 - [TOUR CAP](https://tenoutwest.shop/products/outwest-hat): TEN OUTWEST HAT in lavender with front and back embroidery. Adjustable back closure / 100% cotton Bill/ Brim Length: 2 3/4" Crown Height: 3" Hat Sizing: 6 5/8" - 7 3/8"
-  Updated: 2026-11-13T15:45:25Z
+  Updated: 2026-11-21T21:25:03Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TENOUTWESTHAT.png?v=1789576954
   Price: $45.00 USD
 - [TOUR T-SHIRT (ARTWORK BY TEN) - NATURAL](https://tenoutwest.shop/products/west-tour-tee): TEN WEST TOUR TEE in shade "natural" with print on front and dates on back. 100% Cotton
-  Updated: 2026-11-13T15:45:25Z
+  Updated: 2026-11-20T18:35:56Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
@@ -88,14 +88,14 @@
     Availability: Available
     Price: $40.00 USD
 - [PENDANT KEYCHAIN](https://tenoutwest.shop/products/outwest-irl-keychain): OUTWEST + IRL PENDANT KEYCHAIN SET Acrylic charms with steel wire rings OUTWEST pendant dimensions: 2.4in x .6in IRL pendant dimensions: .8in x .6in
-  Updated: 2026-11-13T15:20:37Z
+  Updated: 2026-11-20T02:08:46Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TENOUTWESTIRLKEYCHAIN.png?v=1789577314
   Price: $10.00 USD
 - [CITY EXCLUSIVE TOUR HOODIE](https://tenoutwest.shop/products/city-exclusive-tour-hoodie): CITY EXCLUSIVE TEN US SHOWCASE PHOTO TOUR HOODIE in shade black with city name on front and back print. 100% Cotton
-  Updated: 2026-11-13T21:21:47Z
+  Updated: 2026-11-21T03:52:26Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
@@ -301,7 +301,7 @@
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_CHI.png?v=1793645754
     Price: $100.00 USD
 - [CITY EXCLUSIVE TOUR CAP](https://tenoutwest.shop/products/city-exclusive-tour-cap): TEN OUTWEST HAT in black with logo on front and city specific embroidery on back. Adjustable back closure / 100% cotton Bill/ Brim Length: 2 3/4" Crown Height: 3" Hat Sizing: 6 5/8" - 7 3/8"
-  Updated: 2026-11-13T17:04:47Z
+  Updated: 2026-11-21T21:25:06Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
@@ -346,22 +346,22 @@
 ## Collections
 
 - [Home page](https://tenoutwest.shop/collections/frontpage)
-  Updated: 2026-11-13T12:17:25Z
+  Updated: 2026-11-21T12:16:50Z
   Total Products: 8
 - [Apparel](https://tenoutwest.shop/collections/apparel)
-  Updated: 2026-11-13T12:17:25Z
+  Updated: 2026-11-21T12:16:50Z
   Total Products: 4
 - [Accessories](https://tenoutwest.shop/collections/accessories)
-  Updated: 2026-11-11T12:19:58Z
+  Updated: 2026-11-20T12:18:10Z
   Total Products: 4
 - [Hats](https://tenoutwest.shop/collections/hats)
-  Updated: 2026-11-11T12:19:58Z
+  Updated: 2026-11-16T12:21:38Z
   Total Products: 2
 - [Music](https://tenoutwest.shop/collections/music)
   Updated: 2026-11-04T21:40:20Z
   Total Products: 0
 - [All](https://tenoutwest.shop/collections/all)
-  Updated: 2026-11-13T12:17:25Z
+  Updated: 2026-11-21T12:16:50Z
   Total Products: 8
 
 ## Store Pages
