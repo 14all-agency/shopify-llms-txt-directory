@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-16T15:55:12Z
 - Contact Email: admin@hypesinventory.com
-- Updated At: 2026-11-15T00:47:16.167Z
+- Updated At: 2026-11-22T01:02:05.703Z
 
 ## Products
 
@@ -247,7 +247,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-setting-powder-04-pressed-powder-phofay-matte-setting-powder-35159630348541.webp?v=1775784835
     Price: $13.99 USD
 - [Lip Liner Pencil – PHOFAY Waterproof Long-Lasting Lip Liner](https://hypesinventory.com/products/phofay-lip-liner-pencil-waterproof): Shop lip liner pencil by PHOFAY. Waterproof, long-lasting formula defines, shapes, and contours lips for smooth, precise, and fade-resistant wear.
-  Updated: 2026-11-14T08:17:45Z
+  Updated: 2026-11-19T10:19:47Z
   Vendor: Hypes Inventory
   Product Type: Lip Liner
   Availability: Available
@@ -331,7 +331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-liquid-blush-pink-liquid-blush-phofay-mousse-lightweight-blush-35159685595389.webp?v=1775784972
     Price: $19.98 USD
 - [Cream and Powder Blush Duo | PHOFAY Buildable Glow](https://hypesinventory.com/products/phofay-cream-and-powder-blush-duo): Shop cream and powder blush duo by PHOFAY. Buildable cream and powder blush delivers a smooth, radiant glow with long-lasting, lightweight coverage in one compact.
-  Updated: 2026-11-14T09:14:06Z
+  Updated: 2026-11-22T00:14:17Z
   Vendor: Hypes Inventory
   Product Type: Blush Duo
   Availability: Available
@@ -2868,19 +2868,19 @@
   Updated: 2026-11-13T04:41:19Z
   Total Products: 11
 - [Bag Charms for Purses](https://hypesinventory.com/collections/bag-charms-for-purses): Shop bag charms for purses, keychains, and accessories. Cute, trendy, and gift-ready styles to elevate your bags and everyday look.
-  Updated: 2026-11-14T13:39:13Z
+  Updated: 2026-11-21T15:52:23Z
   Total Products: 29
 - [New Fashion Arrivals ✨](https://hypesinventory.com/collections/new-fashion-arrivals): Shop new fashion arrivals featuring trending women’s activewear, accessories, handbags, jewelry, and stylish everyday fashion.
-  Updated: 2026-10-31T19:49:13Z
+  Updated: 2026-11-17T12:38:06Z
   Total Products: 10
 - [Women’s Activewear Collection](https://hypesinventory.com/collections/womens-activewear): Shop the Women’s Activewear Collection for leggings, workout sets, gym clothing, and stylish activewear designed for comfort.
   Updated: 2026-11-13T07:37:15Z
   Total Products: 35
 - [The Bag Edit](https://hypesinventory.com/collections/bag-edit): Shop The Bag Edit for stylish everyday bags, totes, handbags, and crossbody styles made to elevate your outfits with ease.
-  Updated: 2026-11-09T14:13:31Z
+  Updated: 2026-11-19T16:09:07Z
   Total Products: 32
 - [Mothers Day Gifts](https://hypesinventory.com/collections/mothers-day-gifts): Shop mothers day gifts designed for style and everyday use. Discover elegant bags and thoughtful gift ideas perfect for moms.
-  Updated: 2026-11-09T14:13:31Z
+  Updated: 2026-11-19T16:09:07Z
   Total Products: 9
 
 ## Blogs
