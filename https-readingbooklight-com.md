@@ -6,16 +6,16 @@
 - Timezone: Asia/Phnom_Penh
 - Created At: 2026-08-17T05:55:22Z
 - Contact Email: support@readingbooklight.com
-- Updated At: 2026-11-15T01:01:19.911Z
+- Updated At: 2026-11-22T01:05:28.473Z
 
 ## Products
 
 - [Acrylic Book Night Light | 3 Color Reading Lamp](https://readingbooklight.com/products/acrylic-flat-book-night-light): Shop an acrylic book night light with 3 color temperatures, stepless dimming and USB charging. A stylish adjustable reading lamp for bedrooms and bedside tables
-  Updated: 2026-11-05T06:08:57Z
+  Updated: 2026-11-20T12:26:31Z
   Vendor: ReadingBookLight
   Product Type: Reading Light
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/image_1c1b9225-907c-417c-9acd-b97e2dcf481b.png?v=1788511356
+  Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/main-image-2_b4b61d73-25a7-495c-bea0-b951886d6278.jpg?v=1786979428
   - [Black](https://readingbooklight.com/products/acrylic-flat-book-night-light?variant=48925898440843)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/main-image-8.jpg?v=1786955115
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/main-image-10.jpg?v=1786955114
     Price: $29.99 USD
 - [Mini Book Light – Clip-On Reading Light | USB Rechargeable](https://readingbooklight.com/products/mini-book-light-portable-clip-on-reading-light): Mini book light with USB charging, 3 dimmable levels & 360° flip design. Perfect clip-on reading light for bed, travel & camping. Eye-friendly LED.
-  Updated: 2026-11-05T06:08:56Z
+  Updated: 2026-11-19T12:34:09Z
   Vendor: ReadingBookLight
   Product Type: Reading Light
   Availability: Available
@@ -42,22 +42,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/white-mini-book-light-product-only.png?v=1787804298
     Price: $17.99 USD
-- [Rechargeable Neck Light – Hands-Free LED Reading Lamp](https://readingbooklight.com/products/led-rechargeable-neck-light-hands-free-reading-lamp): Rechargeable neck reading light with 3 modes & flexible arms. Hands-free LED book light for bed, travel & study. USB rechargeable, lightweight & portable.
-  Updated: 2026-11-05T06:08:56Z
-  Vendor: ReadingBookLight
-  Product Type: Reading Light
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/led-neck-light-lifestyle.png?v=1787810117
-  - [Black](https://readingbooklight.com/products/led-rechargeable-neck-light-hands-free-reading-lamp?variant=49077351284875)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/Sf51e994a1c1f4c999dbbf1cf3897e8e2d.jpg?v=1787810311
-    Price: $24.99 USD
-  - [Pink](https://readingbooklight.com/products/led-rechargeable-neck-light-hands-free-reading-lamp?variant=49281616806027)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/O1CN01ckawVw1Pgy9yrJGku__2219167721871-0-cib_1.jpg?v=1788166770
-    Price: $24.99 USD
-- [Rechargeable Clip-On Book Light – 3 Colors & Dimmable LED](https://readingbooklight.com/products/rechargeable-clip-on-book-light-3-colors-dimmable-led): Rechargeable clip-on book light with 3 color temperatures, dimmable LED & foldable hose. Eye-friendly reading light for bed, study & travel.
-  Updated: 2026-11-05T06:08:56Z
+- [Rechargeable Clip-On Book Light | 3 Colors, Dimmable LED](https://readingbooklight.com/products/rechargeable-clip-on-book-light-3-colors-dimmable-led): Rechargeable clip on book light with 3 color temperatures, stepless dimming, and foldable hose. Eye-friendly for reading, study, and travel.
+  Updated: 2026-11-19T12:34:09Z
   Vendor: ReadingBookLight
   Product Type: Reading Light
   Availability: Available
@@ -78,10 +64,10 @@
 ## Collections
 
 - [Book Reading Lights & Bedside Lamps](https://readingbooklight.com/collections/frontpage): Shop book reading lights with 3 color temperatures, stepless dimming & USB charging. Perfect for bedside, desk & reading corners.
-  Updated: 2026-10-10T11:18:17Z
+  Updated: 2026-11-18T12:19:12Z
   Total Products: 4
 - [Book Reading Lights](https://readingbooklight.com/collections/book-reading-lights): Shop book reading lights for comfortable, focused bedtime reading. Find compact options for books, e-readers, travel, and everyday reading at ReadingBookLight.
-  Updated: 2026-10-10T11:18:17Z
+  Updated: 2026-11-18T12:19:12Z
   Total Products: 4
 - [Bedside Lamps](https://readingbooklight.com/collections/bedside-lamps): Shop bedside lamps for comfortable reading, relaxing, and nighttime routines. Find compact bedroom lighting at ReadingBookLight.
   Updated: 2026-09-08T11:07:11Z
@@ -186,6 +172,10 @@
     Updated: 2026-11-13T00:00:01Z
     Author: ReadingBookLight Admin
     Tags: book light, reading at home, reading corner, reading corner setup, reading nook, reading space
+  - [Best Book Lights for Christmas Gifts](https://readingbooklight.com/blogs/reading-light-guide/best-book-lights-for-christmas-gifts): Best Book Lights for Christmas Gifts
+    Updated: 2026-11-20T00:00:03Z
+    Author: ReadingBookLight Admin
+    Tags: book light Christmas gift, Christmas gift for readers, gifts for book lovers, holiday gift ideas, reading light gift
 
 ## Store Pages
 
