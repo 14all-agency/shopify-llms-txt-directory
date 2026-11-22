@@ -6,7 +6,7 @@
 - Timezone: Europe/Vienna
 - Created At: 2025-03-06T08:40:55Z
 - Contact Email: info@myprintpix.hu
-- Updated At: 2026-11-15T00:59:00.808Z
+- Updated At: 2026-11-22T00:59:19.009Z
 
 ## Products
 
