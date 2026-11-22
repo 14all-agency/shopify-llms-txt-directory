@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-02-27T22:45:08Z
 - Contact Email: support@novaplusstor.com
-- Updated At: 2026-11-14T00:22:36.630Z
+- Updated At: 2026-11-22T00:17:33.751Z
 
 Nova+ est une boutique française spécialisée dans les genouillères et supports de genou pour la récupération, le sport et le quotidien. Site : novaplusstor.com
 
@@ -301,23 +301,23 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
 ## Collections
 
 - [Genouillère Rotulienne](https://novaplusstor.com/collections/genouillere-rotulienne): Découvrez nos genouillères rotuliennes pour soulager les douleurs de la rotule, syndrome rotulien et chondromalacie. Maintien optimal et confort.
-  Updated: 2026-11-08T20:00:36Z
-  Total Products: 1
+  Updated: 2026-11-20T18:57:06Z
+  Total Products: 6
 - [Genouillère Arthrose](https://novaplusstor.com/collections/genouillere-arthrose): Genouillères spéciales arthrose pour soulager les douleurs articulaires, réduire l'inflammation et retrouver de la mobilité au quotidien.
-  Updated: 2026-09-04T19:14:17Z
-  Total Products: 0
+  Updated: 2026-11-20T18:50:05Z
+  Total Products: 5
 - [Genouillère Ligamentaire](https://novaplusstor.com/collections/genouillere-ligamentaire): Genouillères ligamentaires pour stabiliser le genou après entorse, rupture du LCA ou LCL. Maintien fort et protection optimale.
-  Updated: 2026-09-04T18:43:02Z
-  Total Products: 0
+  Updated: 2026-11-20T18:50:05Z
+  Total Products: 7
 - [Genouillère ménisque](https://novaplusstor.com/collections/genouillere-menisque): Genouillères spéciales ménisque pour protéger et soulager les douleurs liées aux lésions méniscales. Maintien stable et confort durable.
-  Updated: 2026-11-08T20:00:39Z
+  Updated: 2026-11-20T18:57:06Z
   Total Products: 10
 - [Genouillère tendinite](https://novaplusstor.com/collections/genouillere-tendinite): Genouillères pour tendinite rotulienne et tendinopathie du genou. Compression ciblée pour soulager la douleur et accélérer la récupération.
-  Updated: 2026-09-04T18:43:03Z
-  Total Products: 0
+  Updated: 2026-11-20T17:51:14Z
+  Total Products: 1
 - [Orthèse de genou](https://novaplusstor.com/collections/orthese-de-genou): Orthèses de genou rigides et semi-rigides pour stabilisation médicale, rééducation et protection après blessure ou opération.
-  Updated: 2026-09-05T21:44:26Z
-  Total Products: 0
+  Updated: 2026-11-20T17:50:55Z
+  Total Products: 1
 - [Toutes Genouillères Sport](https://novaplusstor.com/collections/genouillere-sport): Toutes nos genouillères de sport pour toutes les disciplines. Protection, maintien et performance pour vos activités sportives.
   Updated: 2026-09-05T20:58:31Z
   Total Products: 0
@@ -364,7 +364,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
   Updated: 2026-09-04T18:43:03Z
   Total Products: 0
 - [Genouillère Travail](https://novaplusstor.com/collections/genouillere-travail-hub): Genouillères de travail pour carreleurs, bricoleurs et jardiniers. Protection maximale des genoux pour tous vos travaux professionnels sur Nova+.
-  Updated: 2026-11-08T20:00:36Z
+  Updated: 2026-11-20T17:50:55Z
   Total Products: 2
 - [Genouillère Entorse](https://novaplusstor.com/collections/genouillere-entorse): Genouillères pour entorse du genou : stabilisation, maintien ligamentaire et reprise d'activité. Trouvez la solution adaptée sur Nova+.
   Updated: 2026-08-12T16:36:37Z
@@ -518,6 +518,27 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Updated: 2026-08-01T23:24:16Z
     Author: boubou camara
     Tags: douleur genou, genou, genouillère, instabilité, récupération
+- [Les conseils du Kiné](https://novaplusstor.com/blogs/les-conseils-du-kine): Conseils pratiques sur le genou : douleurs, arthrose, rotule, ménisque, ligaments, sport, récupération et choix d’une genouillère adaptée.
+  - [Est-ce que la marche est bonne pour l’arthrose du genou ?](https://novaplusstor.com/blogs/les-conseils-du-kine/est-ce-que-la-marche-est-bonne-pour-larthrose-du-genou): Comment adapter la marche à l’arthrose du genou ? Repères concrets pour conserver une activité tolérable et choisir un soutien adapté.
+    Updated: 2026-11-21T23:29:52Z
+    Author: Équipe NOVA+
+    Tags: arthrose, marche, NOVA-ATELIER-TEST
+  - [Comment soulager une Douleur au Genou en 2026](https://novaplusstor.com/blogs/les-conseils-du-kine/comment-soulager-douleur-genou): Douleur au genou : repères pour adapter l'activité, distinguer les symptômes, choisir les mesures de confort et savoir quand consulter.
+    Updated: 2026-11-21T23:29:50Z
+    Author: Équipe NOVA+
+    Tags: conseils-kine, douleur-genou, NOVA-ARTICLE-EN-VALIDATION
+  - [Quand porter une Genouillère Ligamentaire ?](https://novaplusstor.com/blogs/les-conseils-du-kine/quand-porter-une-genouillere-ligamentaire): Dans quelles situations une genouillère ligamentaire peut-elle accompagner la marche, la rééducation ou le sport ? Repères de choix et présentations des trois modèles du catalogue.
+    Updated: 2026-11-21T23:29:52Z
+    Author: Équipe NOVA+
+    Tags: conseils-kine, genouillere-ligamentaire, NOVA-ARTICLE-EN-VALIDATION
+  - [Quelle Genouillère pour Arthrose choisir en 2026 ?](https://novaplusstor.com/blogs/les-conseils-du-kine/quel-type-genouillere-pour-arthrose-genou): Découvrez les différents types de genouillères pour l'arthrose : soutien souple, renfort rotulien, décharge et solutions chaud/froid. Les critères utiles pour comparer les modèles.
+    Updated: 2026-11-21T23:29:52Z
+    Author: Équipe NOVA+
+    Tags: arthrose, conseils-kine, gonarthrose, NOVA-ARTICLE-EN-VALIDATION
+  - [Comment Soulager une Douleur au Genou du coté Externe](https://novaplusstor.com/blogs/les-conseils-du-kine/comment-soulager-douleur-genou-externe): Douleur sur la face externe du genou : comprendre les causes possibles, adapter ses activités et comparer les genouillères selon leur fonction.
+    Updated: 2026-11-21T23:50:13Z
+    Author: Équipe NOVA+
+    Tags: conseils-kine, douleur-genou-externe, genou
 
 ## Store Pages
 
@@ -575,6 +596,16 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
   Updated: 2026-09-15T19:34:54Z
 - [Qui sommes-nous](https://novaplusstor.com/pages/qui-sommes-nous)
   Updated: 2026-09-15T21:00:03Z
+- [Politique de remboursement](https://novaplusstor.com/pages/politique-remboursement-source)
+  Updated: 2026-11-15T22:32:29Z
+- [Politique d’expédition](https://novaplusstor.com/pages/politique-expedition-source)
+  Updated: 2026-11-15T23:59:22Z
+- [Mentions légales](https://novaplusstor.com/pages/mentions-legales-source)
+  Updated: 2026-11-16T14:11:52Z
+- [Conditions d’utilisation](https://novaplusstor.com/pages/conditions-generales-vente-source)
+  Updated: 2026-11-16T15:07:34Z
+- [Politique de confidentialité](https://novaplusstor.com/pages/politique-confidentialite-source)
+  Updated: 2026-11-16T16:30:15Z
 
 ## Policies
 
