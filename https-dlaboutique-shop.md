@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-02-04T00:05:27Z
 - Contact Email: dlaboutiqueorders@gmail.com
-- Updated At: 2026-11-14T01:12:28.389Z
+- Updated At: 2026-11-22T01:08:54.185Z
 
 Welcome to D'LA BOUTIQUE 
 
@@ -1183,7 +1183,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/60af55328168497983f75c0deddd16a3-Max-Origin.webp?v=1789507415
     Price: $59.66 USD
 - [Judy Blue Full Size High Waist Tummy Control Straight Jeans](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-tummy-control-straight-jeans): High Waist Tummy Control Jeans are designed to flatter your figure and give you a sleek silhouette. They feature a high waistband that smooths and shapes your tummy area for a slimming effect. These jeans are perfect for creating a stylish and chic look while also providing comfortable support. The tummy control feature helps to accentuate your curves and enhance your overall appearance. These jeans are versatile and can be dressed up or down for various occasions. Say goodbye to muffin tops and hello to a more confident you with High Waist Tummy Control Jeans!Style #:88869 Features: Washed, Pocketed Stretch: Moderate stretch Material composition: 74% cotton, 11% polyester, 6% t400, 7% rayon, 2% lycra Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 32 10 1/25 24 30 32 10 3/26 25 31 32 10.5 5/27 26 32 32 10.5 7/28 27 33 32 11 9/29 28 34 32 11 11/30 29 35 32 11 13/31 30 37 32 11.5 15/32 31 38 32 11.5 14W 31 40 32 11.5 16W 30 40 32 12 18W 32 42 32 12 20W 35 45 32 12.5 22W 37 47 32 13 24W 39 50 32 13.5
-  Updated: 2026-11-06T13:34:46Z
+  Updated: 2026-11-20T16:41:56Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1303,7 +1303,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/4ed98818506d4aad83d52cabb4540e54-Max-Origin.webp?v=1789507480
     Price: $68.34 USD
 - [Judy Blue Full Size Tummy Control Cut Raw Hem Straight Jeans](https://dlaboutique.shop/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans): The Tummy Control Cut Raw Hem Straight jeans combine style and comfort effortlessly. Designed with a flattering high-waist and tummy control feature, they provide a smooth silhouette while enhancing your natural shape. The raw hem adds a trendy touch, making these jeans perfect for both casual and dressed-up looks. Pair them with a fitted top or an oversized sweater for versatile styling options. Made from soft, stretchy fabric, they offer all-day comfort without compromising on fashion. Elevate your wardrobe with these chic and functional straight jeans!Style #: 88848 Features: Washed, Pocketed Stretch: Moderate stretch Material composition:95% Cotton, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 33 11 1/25 24 30 33 11 3/26 25 31 33 11 5/27 26 32 33 11.5 7/28 27 33 33 11.5 9/29 28 34 33 11.5 11/30 29 35 33 12 13/31 30 37 33 12 15/32 31 38 33 12 14W 31 40 33.5 12.5 16W 30 40 33.5 12.5 18W 32 42 33.5 12.5 20W 35 45 33.5 13 22W 37 47 33.5 13 24W 39 50 33.5 13
-  Updated: 2026-11-09T19:26:17Z
+  Updated: 2026-11-19T14:28:26Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1407,7 +1407,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/bbf9cd39-bc3e-4df5-bd99-17abf9976931-Max-Origin.webp?v=1789507507
     Price: $67.76 USD
 - [Double Take Full Size Texture Round Neck Long Sleeve Top and Pants Set](https://dlaboutique.shop/products/double-take-full-size-texture-round-neck-long-sleeve-top-and-pants-set): Features: Basic style Number of pieces: Two-piece Stretch: Slightly stretchy Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Shoulder Bust Sleeve Length Bottom Length Waist Hip S 2/4 25 21.1 42.1 20.1 37.6 39.4 39.4 M 6/8 25.4 22.2 44.5 20.1 38 41.7 41.7 L 10/12 25.8 23.4 46.9 20.1 38.4 44.1 44.1 XL 14 26.2 24.6 49.2 20.1 38.8 46.5 46.5 1XL 16 26.6 25.4 50.8 20.1 39.2 48 49.2 2XL 18/20 27 27.4 54.7 20.1 39.6 52 53.1 3XL 22/24 27.4 29.3 58.7 20.1 40 55.9 57.1
-  Updated: 2026-11-13T15:14:26Z
+  Updated: 2026-11-22T00:21:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1815,13 +1815,13 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/ba0b749773d34f22a96232e0c37df44e-Max-Origin.webp?v=1789507700
     Price: $48.06 USD
 - [Zenana Scuba Half Zip Sweatshirt and Joggers Set](https://dlaboutique.shop/products/zenana-scuba-half-zip-sweatshirt-and-joggers-set): Stay stylish and comfortable in this Scuba Half Zip Sweatshirt and Joggers Set. The scuba fabric gives it a modern and sleek look. The half zip detail adds a sporty touch to the sweatshirt. Coordinated with joggers for a trendy and effortless outfit. Perfect for lounging at home or running errands in style. A must-have set for your casual wardrobe. Features:Pocketed,Zipper Number of pieces:Two-piece Stretch:Moderate stretch Material composition:90%POLYESTER, 6%RAYON, 4%SPANDEX Care instructions:Machine wash cold. Tumble dry low. Imported Product measurements: S:Bust 34-36 in, Waist 26-28 in, HIP 36-38 inM:Bust 37-38 in, Waist 29-31 in, HIP 39-41 inL:Bust 39-40 in, Waist 32-33 in, HIP 42-43 inXL:Bust 41-42 in, Waist 34-35 in, HIP 44-45 in
-  Updated: 2026-11-13T00:22:11Z
+  Updated: 2026-11-18T01:07:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/429dffe7ec374d818e3c6f748e76473b-Max-Origin.webp?v=1789507711
   - [BLACK / S](https://dlaboutique.shop/products/zenana-scuba-half-zip-sweatshirt-and-joggers-set?variant=54085142347971)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/429dffe7ec374d818e3c6f748e76473b-Max-Origin.webp?v=1789507711
     Price: $44.14 USD
   - [BLACK / M](https://dlaboutique.shop/products/zenana-scuba-half-zip-sweatshirt-and-joggers-set?variant=54085142380739)
@@ -2098,73 +2098,7 @@ Welcome to D'LA BOUTIQUE
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/b520ebfe6666455d9227ab727095796a-Max-Origin.webp?v=1789515521
     Price: $64.28 USD
-- [Judy Blue Full Size High Waist Contrast Thread Straight Plus Size](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size): High Waist Contrast Thread Straight jeans are a stylish denim option featuring a high-rise waist and straight leg silhouette with contrasting thread detailing. The high waist provides a flattering fit and elongates the legs, while the straight leg cut offers a classic and versatile look. The contrasting thread adds a pop of color or visual interest to the seams, pockets, or other details of the jeans, creating a unique and eye-catching element. These jeans can be dressed up with a blouse and heels for a chic outfit or worn casually with a t-shirt and sneakers for a more relaxed style. High Waist Contrast Thread Straight jeans are a fashionable choice that allows you to make a statement with your denim while maintaining a timeless appeal.Style #: 88596 Features: Basic style, Pocketed Stretch: Slightly stretchy Material composition: 91%Cotton / 7%Polyester / 2% Spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 32.5 11 1/25 24 30 32.5 11 3/26 25 31 32.5 11 5/27 26 32 32.5 11.5 7/28 27 33 32.5 11.5 9/29 28 34 32.5 11.5 11/30 29 35 32.5 12 13/31 30 37 32.5 12 15/32 31 38 32.5 12 14W 31 40 32.5 12.5 16W 30 40 32.5 12.5 18W 32 42 32.5 12.5 20W 35 45 32.5 13 22W 37 47 32.5 13 24W 39 50 32.5 13
-  Updated: 2026-10-18T13:28:13Z
-  Vendor: Trendsi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-  - [MD / 0(24)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154209987)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 1(25)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154242755)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 3(26)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154275523)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 5(27)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154308291)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 7(28)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154341059)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 9(29)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154373827)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 11(30)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154406595)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 13(31)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154439363)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 15(32)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154472131)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 14W](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154504899)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $65.54 USD
-  - [MD / 16W](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154537667)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $65.54 USD
-  - [MD / 18W](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154570435)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $65.54 USD
-  - [MD / 20W](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154603203)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $65.54 USD
-  - [MD / 22W](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154635971)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $65.54 USD
-  - [MD / 24W](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154668739)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $65.54 USD
-[List Continued](https://dlaboutique.shop/a/llms-agent/llms.txt?shop=s1bc5y-za.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDk0Njk4NjcyMTQ3NSwibGFzdF92YWx1ZSI6IjE0OTQ2OTg2NzIxNDc1In0%3D)
+[List Continued](https://dlaboutique.shop/a/llms-agent/llms.txt?shop=s1bc5y-za.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDk0Njk4NjY4ODcwNywibGFzdF92YWx1ZSI6IjE0OTQ2OTg2Njg4NzA3In0%3D)
 
 ## Collections
 
@@ -2673,6 +2607,40 @@ Welcome to D'LA BOUTIQUE
     Updated: 2026-11-13T03:01:32Z
     Author: Editorial Team
     Tags: boutique clothing exchange policy, how long does a clothing exchange take, how to request a size exchange for boutique clothing, size exchange, size exchange request email template, what to include in an exchange request
+  - [How to Determine Clothing Fit from Online Size Charts](https://dlaboutique.shop/blogs/news/how-to-determine-clothing-fit-from-online-size-charts): How to Determine Clothing Fit from Online Size Charts
+    Updated: 2026-11-14T07:54:51Z
+    Author: Editorial Team
+    Tags: clothing fit, clothing size calculator based on measurements, clothing size chart in inches, find my size by height and weight, how to determine clothing fit from online size charts, how to know my body size for clothes
+  - [Best Modal Tops for Plus Size Women: A Comfortable Fit](https://dlaboutique.shop/blogs/news/best-modal-tops-for-plus-size-women): Best Modal Tops for Plus Size Women: A Comfortable Fit
+    Updated: 2026-11-15T02:29:38Z
+    Author: Editorial Team
+    Tags: best modal tops for plus size women, cotton modal tops for plus-size women, long-sleeve modal tops for plus-size women, modal fabric care and washing, modal tops, short-sleeve modal tops for plus-size women
+  - [Elevating Your Look with Statement Pieces](https://dlaboutique.shop/blogs/news/elevating-your-look-with-statement-pieces): Elevating Your Look with Statement Pieces
+    Updated: 2026-11-16T00:06:24Z
+    Author: D'LA BOUTIQUE
+  - [How to Track Online Clothing Orders Step by Step](https://dlaboutique.shop/blogs/news/how-to-track-online-clothing-orders): How to Track Online Clothing Orders Step by Step
+    Updated: 2026-11-17T03:50:54Z
+    Author: Editorial Team
+    Tags: how to track online clothing orders effectively, track online clothing orders, track order with shop without app, track order with shopify without app, track shop order with confirmation number, what to do when an online order is delayed
+  - [10 Summer Shoe Styles That Will Pair with Any Outfit Effortlessly](https://dlaboutique.shop/blogs/news/10-summer-shoe-styles-that-will-pair-with-any-outfit-effortlessly): 10 Summer Shoe Styles That Will Pair with Any Outfit Effortlessly
+    Updated: 2026-11-18T00:08:40Z
+    Author: D'LA BOUTIQUE
+  - [7 Steps to Report a Missing Item from a Boutique Order](https://dlaboutique.shop/blogs/news/missing-item-report-7-steps-report-missing-item-boutique-order): 7 Steps to Report a Missing Item from a Boutique Order
+    Updated: 2026-11-18T14:31:22Z
+    Author: Editorial Team
+    Tags: how to report a missing item from a boutique order, how to track a boutique order, missing item email template, missing item report, online order missing item refund or replacement, what to do if a retailer does not respond
+  - [7 Ways to Style a Midi Dress for Evening Plans](https://dlaboutique.shop/blogs/news/how-to-style-a-midi-dress-for-evening-plans): 7 Ways to Style a Midi Dress for Evening Plans
+    Updated: 2026-11-19T03:54:38Z
+    Author: Editorial Team
+    Tags: best shoes for midi dresses, capsule wardrobe evening essentials, how to accessorize a midi dress, how to style a midi dress for evening plans, midi dress
+  - [7 Best Modal Tops for Layering That Stay Smooth](https://dlaboutique.shop/blogs/news/best-modal-tops-for-layering): 7 Best Modal Tops for Layering That Stay Smooth
+    Updated: 2026-11-20T05:32:00Z
+    Author: Editorial Team
+    Tags: best modal tops for layering, best modal tops for layering women's, cotton modal tops, modal long sleeve tops, modal tops
+  - [How Do You Pair Hair Claws With Casual Outfits?](https://dlaboutique.shop/blogs/news/how-to-pair-hair-claws-with-casual-outfits): How Do You Pair Hair Claws With Casual Outfits?
+    Updated: 2026-11-21T01:56:41Z
+    Author: Editorial Team
+    Tags: claw clip hairstyles for thin hair, hair claws, how to pair hair claws with casual outfits, how to wear a claw clip with long hair, how to wear a claw clip with medium hair, how to wear a claw clip with short hair
 
 ## Store Pages
 
