@@ -6,19 +6,19 @@
 - Timezone: Europe/Copenhagen
 - Created At: 2014-08-30T11:01:31Z
 - Contact Email: mail@lawadesign.dk
-- Updated At: 2026-11-15T00:24:38.233Z
+- Updated At: 2026-11-23T00:25:14.129Z
 
 ## Products
 
 - [Arc Pendant - White - LAWA DESIGN](https://lawadesign.dk/products/arc-white): Arc Pendant by LAWA DESIGN
-  Updated: 2026-10-17T18:56:47Z
+  Updated: 2026-11-22T23:00:10Z
   Vendor: LAWA DESIGN
   Product Type: Ceiling Light Fixtures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/ARC_WHITE_Lightgreybg_02_lowres.jpg?v=1714044658
-  Price: kr 1,999.00 DKK
+  Price: kr 1,399.00 DKK
 - [Delta Clock Oak](https://lawadesign.dk/products/delta-oak): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-11-12T14:55:03Z
+  Updated: 2026-11-22T23:00:07Z
   Vendor: LAWA DESIGN
   Product Type: Wall Clocks
   Availability: Available
@@ -26,20 +26,20 @@
   - [Black hands](https://lawadesign.dk/products/delta-oak?variant=1261896235)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0638/2041/products/wall-clocks-delta-clock-oak-6.jpg?v=1714248699
-    Price: kr 899.00 DKK
+    Price: kr 719.00 DKK
   - [White hands](https://lawadesign.dk/products/delta-oak?variant=1261899051)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0638/2041/products/wall-clocks-delta-clock-oak-7.jpg?v=1708884768
-    Price: kr 899.00 DKK
+    Price: kr 719.00 DKK
 - [Delta Clock White](https://lawadesign.dk/products/delta-white): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-11-08T01:25:21Z
+  Updated: 2026-11-22T23:00:07Z
   Vendor: LAWA DESIGN
   Product Type: Wall Clocks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/DELTA_WHITE_LIGHTGREYBG_lowres_33edffc0-239c-4480-8a3e-a4332cc1dd3c.jpg?v=1713978661
-  Price: kr 899.00 DKK
+  Price: kr 719.00 DKK
 - [Arc Pendant - Plywood - LAWA DESIGN](https://lawadesign.dk/products/arc-plywood): Arc Pendant by LAWA DESIGN
-  Updated: 2026-10-17T18:51:28Z
+  Updated: 2026-11-22T23:00:10Z
   Vendor: LAWA DESIGN
   Product Type: Ceiling Light Fixtures
   Availability: Available
@@ -47,49 +47,49 @@
   - [Black cable](https://lawadesign.dk/products/arc-plywood?variant=37304017617054)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0638/2041/files/ARC_PLYWOOD_LIGHTGREYBG_blackcord_lowres.jpg?v=1713971943
-    Price: kr 2,599.00 DKK
+    Price: kr 1,819.00 DKK
   - [White cable](https://lawadesign.dk/products/arc-plywood?variant=37304017649822)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0638/2041/files/ARC_PLYWOOD_LIGHTGREYBG_whitecord_lowres.jpg?v=1713971943
-    Price: kr 2,599.00 DKK
+    Price: kr 1,819.00 DKK
 - [Arc Pendant Black Plywood](https://lawadesign.dk/products/arc-black): Arc Pendant by LAWA DESIGN
-  Updated: 2026-10-30T11:30:45Z
+  Updated: 2026-11-22T23:00:10Z
   Vendor: LAWA DESIGN
   Product Type: Ceiling Light Fixtures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/ARC_BLACK_lightgreybg_02_lowres_d9cb89bd-83ab-4992-bd08-9fd452c23409.jpg?v=1714043472
-  Price: kr 2,599.00 DKK
+  Price: kr 1,819.00 DKK
 - [Delta Clock Black Oak](https://lawadesign.dk/products/delta-black): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-11-14T20:52:26Z
+  Updated: 2026-11-22T23:00:08Z
   Vendor: LAWA DESIGN
   Product Type: Wall Clocks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/DELTA_CLOCK_BLACK_OAK_LIGHT_GREY_BG_lowres.jpg?v=1789562458
-  Price: kr 899.00 DKK
+  Price: kr 719.00 DKK
 - [Twist Shelf](https://lawadesign.dk/products/twist-shelf): 2-in-1 wooden shelf and magnetic board.
 Two functions united by a simple twist, turning them into a sculptural object.
-  Updated: 2026-11-07T12:18:46Z
+  Updated: 2026-11-22T23:00:08Z
   Vendor: LAWA DESIGN
   Product Type: Shelves
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/frontal_kitchen_square_lightgrey.jpg?v=1713968942
-  Price: kr 2,049.00 DKK
+  Price: kr 1,639.00 DKK
 - [Delta Stand Black](https://lawadesign.dk/products/delta-stand): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-11-03T10:30:57Z
+  Updated: 2026-11-22T23:00:12Z
   Vendor: LAWA DESIGN
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/FRONTAL_01_black_SQUARE_04_light_lowres.jpg?v=1713993199
-  Price: kr 259.00 DKK
+  Price: kr 181.00 DKK
 - [Delta Stand White](https://lawadesign.dk/products/delta-stand-white): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-11-03T10:30:41Z
+  Updated: 2026-11-22T23:00:12Z
   Vendor: LAWA DESIGN
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/FRONTAL_01_white_SQUARE_04_light_lowres.jpg?v=1713993129
-  Price: kr 259.00 DKK
+  Price: kr 181.00 DKK
 - [Delta Clock Smoked Oak](https://lawadesign.dk/products/delta-clock-smoked-oak): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-11-11T14:39:51Z
+  Updated: 2026-11-22T23:00:08Z
   Vendor: LAWA DESIGN
   Product Type: Wall Clocks
   Availability: Available
@@ -97,41 +97,41 @@ Two functions united by a simple twist, turning them into a sculptural object.
   - [Black hands](https://lawadesign.dk/products/delta-clock-smoked-oak?variant=42545351360759)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0638/2041/files/DELTACLOCKS_LIGHTGREYBG_SMOKED_BLHANDS_lowres.jpg?v=1713981955
-    Price: kr 899.00 DKK
+    Price: kr 719.00 DKK
   - [White hands](https://lawadesign.dk/products/delta-clock-smoked-oak?variant=42545351393527)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0638/2041/files/DELTACLOCKS_LIGHTGREYBG_SMOKED_WHHANDS_lowres.jpg?v=1713981955
-    Price: kr 899.00 DKK
+    Price: kr 719.00 DKK
 - [Stack Organizer Set](https://lawadesign.dk/products/stack-organiser-set): Description Stack is a collection of modular desk organizers that can be combined and stacked in different ways. A flexible storage solution for multiple purposes. Stack Organizer Set contains the following five elements: 1 x Stack Organizer - Small1 x Stack Organizer - Medium1 x Stack Organizer - Large1 x Stack Lid1 x Stack Tray Materials and size Set size 27 cm (width) x 9 cm (depth) x 12 cm (height) Material Beech wood (untreated) Set weight 0.6 kg The wood used for this product is locally harvested in Europe. Our suppliers only use FSC®  wood which is sourced from forests that are responsibly managed in the most environmentally sustainable way possible.Leftover wood from the production is compressed and recycled into other products, such as wood fuel bricks.
-  Updated: 2026-11-02T09:30:33Z
+  Updated: 2026-11-22T23:00:13Z
   Vendor: LAWA DESIGN
   Product Type: Desk Organizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/SET_01_FRONTAL_1B_LIGHTGREY_CROPPED_lowres.jpg?v=1714046243
-  Price: kr 699.00 DKK
+  Price: kr 419.00 DKK
 - [Stack Organizer - Small](https://lawadesign.dk/products/stack-organiser-small): Description Stack is a collection of modular desk organizers that can be combined and stacked in different ways. A flexible storage solution for multiple purposes. The small organizer is ideal for storing objects such as cables, flash drives, earbuds, bracelets, jewelry, etc. It can also contain small stationery items such as erasers or pencil sharpeners - making it a great addition to the larger organizers when you want to seperate items of different sizes.Please note that the above price only includes 1 x Stack Organizer - Small. If you wish to purchase multiple sizes or a set, you can see the full collection of organizers here. Materials and size Size Ø9 cm, height 3.8 cm Material Beech wood (untreated) Weight 75 g The wood used for this product is locally harvested in Europe. Our suppliers only use FSC®  wood which is sourced from forests that are responsibly managed in the most environmentally sustainable way possible.Leftover wood from the production is compressed and recycled into other products, such as wood fuel bricks.
-  Updated: 2026-09-17T05:23:42Z
+  Updated: 2026-11-22T23:00:13Z
   Vendor: LAWA DESIGN
   Product Type: Desk Organizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/S_FRONTAL_1B_GREY_CROPPED_light_lowres.jpg?v=1714047042
-  Price: kr 109.00 DKK
+  Price: kr 65.00 DKK
 - [Stack Organizer - Medium](https://lawadesign.dk/products/stack-organiser-medium): Description Stack is a collection of modular desk organizers that can be combined and stacked in different ways. A flexible storage solution for multiple purposes. The medium organizer is ideal for storing objects such as make up accessories, crayons, small scissors, wrist watches, etc. Please note that the above price only includes 1 x Stack Organizer - Medium. If you wish to purchase multiple sizes or a set, you can see the full collection of organizers here. Materials and size Size Ø9 cm, height 7.4 cm Material Beech wood (untreated) Weight 100 g The wood used for this product is locally harvested in Europe. Our suppliers only use FSC®  wood which is sourced from forests that are responsibly managed in the most environmentally sustainable way possible.Leftover wood from the production is compressed and recycled into other products, such as wood fuel bricks.
-  Updated: 2026-09-17T05:23:36Z
+  Updated: 2026-11-22T23:00:13Z
   Vendor: LAWA DESIGN
   Product Type: Desk Organizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/M_FRONTAL_2B_LIGHTGREY_CROPPED_lowres.jpg?v=1714055986
-  Price: kr 159.00 DKK
+  Price: kr 95.00 DKK
 - [Stack Organizer - Large](https://lawadesign.dk/products/stack-organizer-large): Description Stack is a collection of modular desk organizers that can be combined and stacked in different ways. A flexible storage solution for multiple purposes. The large organizer is ideal for storing objects such as pencils, brushes, rulers, scissors, etc. Please note that the above price only includes 1 x Stack Organizer - Large. If you wish to purchase multiple sizes or a set, you can see the full collection of organizers here. Materials and size Size Ø9 cm, height 11 cm Material Beech wood (untreated) Weight 150 g The wood used for this product is locally harvested in Europe. Our suppliers only use FSC®  wood which is sourced from forests that are responsibly managed in the most environmentally sustainable way possible.Leftover wood from the production is compressed and recycled into other products, such as wood fuel bricks.
-  Updated: 2026-09-17T05:23:12Z
+  Updated: 2026-11-22T23:00:14Z
   Vendor: LAWA DESIGN
   Product Type: Desk Organizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/L_FRONTAL_1B_LIGHTGREY_CROPPED_lowres.jpg?v=1714056589
-  Price: kr 259.00 DKK
+  Price: kr 155.00 DKK
 - [Stack Lid](https://lawadesign.dk/products/stack-lid): Description Stack is a collection of modular desk organizers that can be combined and stacked in different ways. A flexible storage solution for multiple purposes. The lid is compatible with any of the 3 organizers. Select the "smooth" option for a cleaner look or "edge" to store small objects such as rings, earrings, paper clips, etc.Please note that the above price only includes 1 x Stack Lid. If you wish to purchase multiple sizes or a set, you can see the full collection of organizers here. Materials and size Size Ø9 cm Material Beech wood (untreated) Weight 90 g The wood used for this product is locally harvested in Europe. Our suppliers only use FSC®  wood which is sourced from forests that are responsibly managed in the most environmentally sustainable way possible.Leftover wood from the production is compressed and recycled into other products, such as wood fuel bricks.
-  Updated: 2026-10-17T18:51:31Z
+  Updated: 2026-11-22T23:00:14Z
   Vendor: LAWA DESIGN
   Product Type: Desk Organizers
   Availability: Available
@@ -139,49 +139,63 @@ Two functions united by a simple twist, turning them into a sculptural object.
   - [Edge](https://lawadesign.dk/products/stack-lid?variant=42662351831287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0638/2041/files/XS_CLOSEUP_02_light_lowres.jpg?v=1714057251
-    Price: kr 59.00 DKK
+    Price: kr 35.00 DKK
   - [Smooth](https://lawadesign.dk/products/stack-lid?variant=42662351864055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0638/2041/files/XS_CLOSEUP_01_light_lowres.jpg?v=1714057251
-    Price: kr 59.00 DKK
+    Price: kr 35.00 DKK
 - [Stack Tray](https://lawadesign.dk/products/stack-tray): Description Stack is a collection of modular desk organizers that can be combined and stacked in different ways. A flexible storage solution for multiple purposes. The tray is compatible with all 3 organizers as well as the lid. It can also be used on its own to store objects such as jewelry, necklaces, small accessories, etc.Please note that the above price only includes 1 x Stack Tray. If you wish to purchase multiple sizes or a set, you can see the full collection of organizers here. Materials and size Size 27x9x1.4 cm Material Beech wood (untreated) Weight 160 g The wood used for this product is locally harvested in Europe. Our suppliers only use FSC®  wood which is sourced from forests that are responsibly managed in the most environmentally sustainable way possible.Leftover wood from the production is compressed and recycled into other products, such as wood fuel bricks.
-  Updated: 2026-09-17T05:24:33Z
+  Updated: 2026-11-22T23:00:14Z
   Vendor: LAWA DESIGN
   Product Type: Desk Organizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/TRAY_FRONTAL_1B_LIGHTGREY_lowres.jpg?v=1714057582
-  Price: kr 159.00 DKK
+  Price: kr 95.00 DKK
 - [Twist Shelf Smoked Oak](https://lawadesign.dk/products/twist-shelf-smoked-oak): 2-in-1 wooden shelf and magnetic board.
 Two functions united by a simple twist, turning them into a sculptural object.
-  Updated: 2026-10-26T08:59:46Z
+  Updated: 2026-11-22T23:00:09Z
   Vendor: LAWA DESIGN
   Product Type: Shelves
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/TS_SM_frontal_kitchen_square_lightgreybg_lowres_15bee999-07a4-464d-8862-a98929282e02.jpg?v=1713981571
-  Price: kr 2,049.00 DKK
+  Price: kr 1,639.00 DKK
 - [Twist Shelf Black](https://lawadesign.dk/products/twist-shelf-black-1): Description 2-in-1 shelf and magnetic board in black oiled oak.Two functions united by a simple twist. Ideal for kitchens with the magnetic board serving as a knife strip and the shelf as storage for spices. Also applicable in other settings, like in entrance halls, as a magnetic key holder and storage space for accessories. How will you use yours? The shelf comes in 3 colours: Natural oak, smoked oak, and black oiled oak. Materials and size Size 70x6x6 cm Material Black Oiled Oak Weight 0.6 kg The wood used for this product is locally harvested in Europe. Our suppliers only use FSC®  wood which is sourced from forests that are responsibly managed in the most environmentally sustainable way possible.
-  Updated: 2026-11-10T22:51:13Z
+  Updated: 2026-11-22T23:00:09Z
   Vendor: LAWA DESIGN
   Product Type: Shelves
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/TS_SM_frontal_kitchen_square_lightgreybg_lowres.jpg?v=1713981133
-  Price: kr 2,049.00 DKK
+  Price: kr 1,639.00 DKK
+- [Spira Bowl](https://lawadesign.dk/products/spira-bowl): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
+  Updated: 2026-11-22T23:00:11Z
+  Vendor: LAWA DESIGN
+  Product Type: Bowl
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0638/2041/files/02_SQUARE_light_lowres.jpg?v=1713974027
+  Price: kr 349.00 DKK
 - [Squiggle Organiser](https://lawadesign.dk/products/squiggle-organizer): Description Inspired by the curvy lines of a doodle, the Squiggle Organiser twists and turns from top to bottom. Bent from a single piece of premium grade plywood, its four compartments allow you to store and separate items of different sizes. Squiggle not only serves a practical purpose, but also aspires to spark joy and encourage creativity with its playful geometry. The top is made of birch plywood while the base is made of solid beech wood. Both are FSC  and locally harvested in Europe. Materials and size Size 16 cm (width) x 15 cm (depth) x 12 cm (height) Material Top: Birch plywood (untreated)Base: Solid beech wood (untreated) Weight 0.2 kg The wood and plywood used for this product is locally harvested in Europe. Our suppliers only use FSC®  wood which is sourced from forests that are responsibly managed in the most environmentally sustainable way possible.
-  Updated: 2026-11-09T18:27:11Z
+  Updated: 2026-11-22T23:00:11Z
   Vendor: LAWA DESIGN
   Product Type: Desk Organizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/AXO01_PENCILS_LIGHTGREYBG_lowres.jpg?v=1713969528
-  Price: kr 499.00 DKK
+  Price: kr 349.00 DKK
+- [Spira Bowl Smoked Oak](https://lawadesign.dk/products/spira-bowl-smoked-oak): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
+  Updated: 2026-11-22T23:00:11Z
+  Vendor: LAWA DESIGN
+  Product Type: Bowl
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0638/2041/files/MASTER_JEWELRY_light_lowres_4be23a5e-6054-4b08-90c8-bcf1a421f00f.jpg?v=1713983103
+  Price: kr 349.00 DKK
 - [Spira Bowl Black](https://lawadesign.dk/products/spira-bowl-black): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-09-17T05:20:51Z
+  Updated: 2026-11-22T23:00:12Z
   Vendor: LAWA DESIGN
   Product Type: Bowl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/MASTER_JEWELRY_light_lowres.jpg?v=1713982698
-  Price: kr 499.00 DKK
+  Price: kr 349.00 DKK
 - [Movement for Delta Clock](https://lawadesign.dk/products/movement-for-delta-clock): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-11-02T22:34:47Z
+  Updated: 2026-11-16T20:26:48Z
   Vendor: LAWA DESIGN
   Product Type: Spare parts
   Availability: Available
@@ -237,7 +251,7 @@ Two functions united by a simple twist, turning them into a sculptural object.
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/ARCPENDANTCABLE_WHITE_01.jpg?v=1743099323
   Price: kr 129.00 DKK
 - [Gradient Watch Black | Unisex Minimalist Watch | LAWA DESIGN](https://lawadesign.dk/products/gradient-watch-black): Gradient Watch Black – a minimalist 38 mm unisex watch without numbers. Two overlapping gradients show the hours and minutes. 316L steel, Miyota quartz, 5 ATM.
-  Updated: 2026-11-13T17:14:16Z
+  Updated: 2026-11-22T23:00:01Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
@@ -245,13 +259,13 @@ Two functions united by a simple twist, turning them into a sculptural object.
   - [Leather strap](https://lawadesign.dk/products/gradient-watch-black?variant=51783075299668)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0638/2041/files/FRONTAL_01_BLACK_1010_LEATHER_SQUARE_01_lowres_4dbad25c-2005-4212-a609-4a0f7b62f502.jpg?v=1747167086
-    Price: kr 1,499.00 DKK
+    Price: kr 1,199.00 DKK
   - [Mesh band](https://lawadesign.dk/products/gradient-watch-black?variant=51783075332436)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0638/2041/files/FRONTAL_01_BLACK_1010_MESH_SQUARE_01_lowres.jpg?v=1751035658
-    Price: kr 1,499.00 DKK
+    Price: kr 1,199.00 DKK
 - [Gradient Watch Navy Blue | Unisex Minimalist Watch | LAWA DESIGN](https://lawadesign.dk/products/gradient-watch-navy-blue): Gradient Watch Navy Blue – a minimalist 38 mm unisex watch without numbers. Two overlapping gradients show the hours and minutes. 316L steel, 5 ATM.
-  Updated: 2026-11-14T11:23:45Z
+  Updated: 2026-11-22T23:04:50Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
@@ -259,109 +273,102 @@ Two functions united by a simple twist, turning them into a sculptural object.
   - [Mesh band](https://lawadesign.dk/products/gradient-watch-navy-blue?variant=51851908219220)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0638/2041/files/FRONTAL_01_NAVY_MESH_CROP_01_lowres.jpg?v=1750864303
-    Price: kr 1,499.00 DKK
+    Price: kr 1,199.00 DKK
   - [Leather strap](https://lawadesign.dk/products/gradient-watch-navy-blue?variant=51851908186452)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0638/2041/files/FRONTAL_01_NAVY_LEATHER_CROP_01_lowres.jpg?v=1751110885
-    Price: kr 1,499.00 DKK
+    Price: kr 1,199.00 DKK
 - [Gradient Watch Silver | Unisex Minimalist Watch | LAWA DESIGN](https://lawadesign.dk/products/gradient-watch-silver): Gradient Watch Silver – a minimalist 38 mm unisex watch without numbers. Two overlapping gradients show the hours and minutes. 316L steel, 5 ATM.
-  Updated: 2026-11-13T14:30:32Z
+  Updated: 2026-11-22T23:00:02Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/FRONTAL_01_SILVER_1010_SQUARE_01_lowres.jpg?v=1747167362
-  Price: kr 1,499.00 DKK
+  Price: kr 1,199.00 DKK
 - [Gradient Watch Gold | Unisex Minimalist Watch | LAWA DESIGN](https://lawadesign.dk/products/gradient-watch-gold): Gradient Watch Gold – a minimalist 38 mm unisex watch without numbers. Two overlapping gradients show the hours and minutes. 316L steel, Miyota quartz, 5 ATM.
-  Updated: 2026-11-10T23:10:20Z
+  Updated: 2026-11-22T23:00:03Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/FRONTAL_01_GOLD_1010_SQUARE_01_lowres.jpg?v=1747168050
-  Price: kr 1,499.00 DKK
+  Price: kr 1,199.00 DKK
 - [Gradient Watch Rose Gold | Unisex Minimalist Watch | LAWA DESIGN](https://lawadesign.dk/products/gradient-watch-rose-gold): Gradient Watch Rose Gold – a minimalist 38 mm unisex watch without numbers. Two overlapping gradients show the hours and minutes. 316L steel, 5 ATM.
-  Updated: 2026-11-12T12:55:04Z
+  Updated: 2026-11-22T23:00:03Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/FRONTAL_01_ROSE_GOLD_1010_SQUARE_01_lowres.jpg?v=1747168265
-  Price: kr 1,499.00 DKK
+  Price: kr 1,199.00 DKK
 - [Leather Strap Black](https://lawadesign.dk/products/leather-strap-black): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-11-13T14:30:32Z
+  Updated: 2026-11-22T23:00:03Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/STRAP_02_BLACK_leather_lowres.jpg?v=1748771702
-  Price: kr 299.00 DKK
+  Price: kr 239.00 DKK
 - [Leather Strap Navy Blue](https://lawadesign.dk/products/leather-strap-navy-blue): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-11-13T14:30:44Z
+  Updated: 2026-11-22T23:00:04Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/STRAP_01_NAVY_leather_lowres_86fe558c-39f7-481e-87c3-5b2cd049168f.jpg?v=1748773208
-  Price: kr 299.00 DKK
-- [Leather Strap Grey](https://lawadesign.dk/products/leather-strap-grey): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-11-13T15:29:16Z
-  Vendor: LAWA DESIGN
-  Product Type: Watches
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0638/2041/files/STRAP_01_GREY_lowres.jpg?v=1748773088
-  Price: kr 299.00 DKK
+  Price: kr 239.00 DKK
 - [Leather Strap White](https://lawadesign.dk/products/leather-strap-white): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-11-13T14:30:33Z
+  Updated: 2026-11-22T23:00:04Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/STRAP_01_WHITE_GB_lowres.jpg?v=1749214960
   - [Gold buckle](https://lawadesign.dk/products/leather-strap-white?variant=51856119824724)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0638/2041/files/STRAP_01_WHITE_GB_lowres.jpg?v=1749214960
-    Price: kr 299.00 DKK
+    Price: kr 239.00 DKK
   - [Silver buckle](https://lawadesign.dk/products/leather-strap-white?variant=51856119857492)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0638/2041/files/STRAP_01_WHITE_SB_lowres.jpg?v=1749214960
-    Price: kr 299.00 DKK
+    Price: kr 239.00 DKK
 - [Leather Strap Beige](https://lawadesign.dk/products/leather-strap-beige): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-11-13T14:30:38Z
+  Updated: 2026-11-22T23:00:05Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/STRAP_01_BEIGE_lowres.jpg?v=1749215689
-  Price: kr 299.00 DKK
+  Price: kr 239.00 DKK
 - [Mesh Band Black](https://lawadesign.dk/products/mesh-band-black): Black mesh band for Gradient Watch.
-  Updated: 2026-11-13T14:30:56Z
+  Updated: 2026-11-22T23:00:05Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/STRAP_02_BLACK_mesh_lowres.jpg?v=1748113650
-  Price: kr 299.00 DKK
+  Price: kr 239.00 DKK
 - [Mesh Band Navy Blue](https://lawadesign.dk/products/mesh-band-navy-blue): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-10-28T07:11:17Z
+  Updated: 2026-11-22T23:00:05Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/STRAP_01_NAVY_mesh_lowres.jpg?v=1748509324
-  Price: kr 299.00 DKK
+  Price: kr 239.00 DKK
 - [Mesh Band Silver](https://lawadesign.dk/products/mesh-band-silver): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-09-24T08:31:10Z
+  Updated: 2026-11-22T23:00:06Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/STRAP_01_SILVER_lowres_49707085-6ffe-4b5e-9926-d8ec37712df0.jpg?v=1748771178
-  Price: kr 299.00 DKK
+  Price: kr 239.00 DKK
 - [Mesh Band Gold](https://lawadesign.dk/products/mesh-band-gold): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-09-24T08:30:58Z
+  Updated: 2026-11-22T23:00:06Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/STRAP_01_GOLD_lowres_b4656ad5-7153-422a-842b-967367e15268.jpg?v=1749216217
-  Price: kr 299.00 DKK
+  Price: kr 239.00 DKK
 - [Mesh Band Rose Gold](https://lawadesign.dk/products/mesh-band-rose-gold): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-09-22T15:17:55Z
+  Updated: 2026-11-22T23:00:06Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/STRAP_01_ROSE_GOLD_lowres_33a3d4f2-ff98-4fd1-b435-5ddd5ec972fc.jpg?v=1749216455
-  Price: kr 299.00 DKK
+  Price: kr 239.00 DKK
 - [Mounting steel tube for Twist Shelf](https://lawadesign.dk/products/mounting-steel-tube-for-twist-shelf): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
   Updated: 2026-07-11T00:03:10Z
   Vendor: LAWA DESIGN
@@ -370,7 +377,7 @@ Two functions united by a simple twist, turning them into a sculptural object.
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/TWISTSHELFTUBE_01_MASTER.png?v=1781273926
   Price: kr 39.00 DKK
 - [Gradient Watch Pine Green | Unisex Minimalist Watch | LAWA DESIGN](https://lawadesign.dk/products/gradient-watch-pine-green): Gradient Watch Pine Green – a minimalist 38 mm unisex watch without numbers. Two overlapping gradients show the hours and minutes. 316L steel, 5 ATM.
-  Updated: 2026-11-14T05:32:01Z
+  Updated: 2026-11-22T20:53:41Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
@@ -383,26 +390,40 @@ Two functions united by a simple twist, turning them into a sculptural object.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0638/2041/files/FRONTAL_01_GREEN_LEATHER_CROP_01_lowres.jpg?v=1791802561
     Price: kr 1,349.00 DKK
+- [Leather Strap Pine Green](https://lawadesign.dk/products/leather-strap-pine-green): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
+  Updated: 2026-11-22T23:00:07Z
+  Vendor: LAWA DESIGN
+  Product Type: Watches
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0638/2041/files/PINE_GREEN_LEATHER_STRAP_01.jpg?v=1795016135
+  Price: kr 239.00 DKK
+- [Mesh Band Pine Green](https://lawadesign.dk/products/mesh-band-pine-green): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
+  Updated: 2026-11-22T23:00:07Z
+  Vendor: LAWA DESIGN
+  Product Type: Watches
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0638/2041/files/PINE_GREEN_MESH_BAND_01B.jpg?v=1795016425
+  Price: kr 239.00 DKK
 
 ## Collections
 
 - [Clocks](https://lawadesign.dk/collections/wall-clocks)
-  Updated: 2026-11-12T12:00:11Z
+  Updated: 2026-11-22T23:00:09Z
   Total Products: 5
 - [Lamps](https://lawadesign.dk/collections/lamps)
-  Updated: 2026-10-24T11:00:21Z
+  Updated: 2026-11-22T23:00:11Z
   Total Products: 3
 - [Shelves](https://lawadesign.dk/collections/shelves)
-  Updated: 2026-11-11T12:00:13Z
+  Updated: 2026-11-22T23:00:10Z
   Total Products: 3
 - [Accessories](https://lawadesign.dk/collections/accessories)
-  Updated: 2026-09-07T11:00:07Z
+  Updated: 2026-11-22T23:00:13Z
   Total Products: 4
 - [All products](https://lawadesign.dk/collections/all)
-  Updated: 2026-11-14T12:00:13Z
-  Total Products: 43
+  Updated: 2026-11-22T23:00:15Z
+  Total Products: 45
 - [Desk Organisers](https://lawadesign.dk/collections/desk-organizers)
-  Updated: 2026-11-06T10:27:45Z
+  Updated: 2026-11-22T23:00:15Z
   Total Products: 10
 - [Outlet](https://lawadesign.dk/collections/outlet): Welcome to our Sample Store! On this page you can find discounted prototype items that are not in our regular collection. Sample items work completely fine and come in standard packaging. All Delta Clock models come with either black or white hands. Please contact us if you have any questions!
   Updated: 2026-06-03T20:40:50Z
@@ -411,23 +432,23 @@ Two functions united by a simple twist, turning them into a sculptural object.
   Updated: 2026-06-03T20:41:23Z
   Total Products: 3
 - [Watches](https://lawadesign.dk/collections/watches): Read time in colour, not numbers. Gradient Watch tells time with two overlapping gradients. A minimalist watch designed by architects. 38 mm, unisex.
-  Updated: 2026-11-14T12:00:13Z
+  Updated: 2026-11-22T23:00:04Z
   Total Products: 8
 - [Stack Organizer](https://lawadesign.dk/collections/stack-organizer)
-  Updated: 2026-08-23T11:00:11Z
+  Updated: 2026-11-22T23:00:15Z
   Total Products: 6
 - [Disable  codes](https://lawadesign.dk/collections/disable--codes)
-  Updated: 2026-11-14T12:00:13Z
-  Total Products: 49
+  Updated: 2026-11-22T23:00:55Z
+  Total Products: 12
 - [Spare parts](https://lawadesign.dk/collections/spare-parts)
-  Updated: 2026-11-03T12:00:17Z
+  Updated: 2026-11-17T12:00:13Z
   Total Products: 9
 - [All products](https://lawadesign.dk/collections/all-products): For filtering on collections page.
-  Updated: 2026-11-14T12:00:13Z
-  Total Products: 44
+  Updated: 2026-11-22T23:00:15Z
+  Total Products: 46
 - [Straps](https://lawadesign.dk/collections/straps)
-  Updated: 2026-11-13T12:00:16Z
-  Total Products: 10
+  Updated: 2026-11-22T23:00:08Z
+  Total Products: 12
 
 ## Blogs
 
@@ -496,7 +517,7 @@ Two functions united by a simple twist, turning them into a sculptural object.
 - [Profile](https://lawadesign.dk/pages/about-us): LAWA DESIGN by architects Ewa Bryzek and Allen Shakir is a Danish design studio informed by the rules of architecture with a desire to experiment a...
   Updated: 2026-06-15T09:34:10Z
 - [Retailers](https://lawadesign.dk/pages/stores): Denmark LAWA DESIGN Showroom(by appointment only: mail@lawadesign.dk)Jagtvej 1772100 Copenhagenwww.lawadesign.dkARKEN Museum of Modern Art ShopSkov...
-  Updated: 2026-05-13T14:20:12Z
+  Updated: 2026-11-18T19:17:25Z
 - [Handelsbetingelser](https://lawadesign.dk/pages/handelsbetingelser-danish): BETALINGBetaling i webshoppen kan foretages med Paypal eller kreditkort. Data du sender i forbindelse med køb er krypteret med SSL (Secure Socket L...
   Updated: 2019-04-21T14:47:59Z
 - [Privacy](https://lawadesign.dk/pages/persondatapolitik): Personoplysninger afgives aldrig til tredjepart, med mindre du selv udtrykkeligt giver tilsagn hertil, og vi indsamler aldrig personoplysninger, ud...
