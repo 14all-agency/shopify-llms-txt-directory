@@ -12,7 +12,7 @@ Beyond its products, Bioli publishes Bionotes, an educational knowledge hub feat
 - Timezone: Europe/Copenhagen
 - Created At: 2022-01-14T11:41:51Z
 - Contact Email: info@bioliskincare.com
-- Updated At: 2026-11-16T00:17:46.265Z
+- Updated At: 2026-11-23T00:20:48.235Z
 
 Bioli is a Danish biotech skincare company founded in 2021. Our mission is to improve skin health while minimizing environmental impact through biotechnology.
 
@@ -33,21 +33,21 @@ https://bioliskincare.com/blogs/bionotes
 ## Products
 
 - [Moisturizing and Protecting Day Cream – Antioxidant & 8hr Moisture | Bioli](https://bioliskincare.com/products/moisturizing-and-protecting-day-cream): Gift set with Bioli's gentle face cream and a soft facial towel. Fragrance-free, unisex skincare for healthy skin, with 8-hour moisturization and antioxidant protection. In a beautiful gift box. 100% biodegradable packaging
-  Updated: 2026-11-06T22:16:11Z
+  Updated: 2026-11-17T11:59:26Z
   Vendor: Bioli
   Product Type: Day cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-moisturizing-and-protecting-day-cream-unisex-50ml-biotech-skincare.jpg?v=1754219045
   Price: kr 485.00 DKK
 - [Day Cream & Facial Towel Set – Daily Skincare | Bioli](https://bioliskincare.com/products/daily-day-cream-facial-towel): Discover mindful daily skincare with Moisturizing and Protecting Day Cream, paired with a soft Bioli face towel for simple everyday care. Save 10% on Routine Sets.
-  Updated: 2026-09-28T07:55:46Z
+  Updated: 2026-11-22T20:55:45Z
   Vendor: Bioli
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-facial-towel-sensitive-skin-soft.png?v=1780754115
-  Price: kr 549.00 DKK
+  Price: kr 488.00 DKK
 - [Strengthening Serum – Silky soft for a healthy skin | Bioli](https://bioliskincare.com/products/strengthening-serum): Silky-smooth serum filled with bioactives to provide protection, soothe, and support the skin barrier. Leaves skin strong and resilient. 100% biodegradable packaging.
-  Updated: 2026-11-07T20:31:22Z
+  Updated: 2026-11-22T14:13:41Z
   Vendor: Bioli
   Product Type: Serum
   Availability: Available
@@ -68,40 +68,40 @@ https://bioliskincare.com/blogs/bionotes
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/Bioli_Face_Towel_196c8dce-f067-4de9-8934-7bc0fbcbdd66.png?v=1767553438
   Price: kr 125.00 DKK
 - [Skincare Trio Set – Cleanser, Serum & Cream | Bioli](https://bioliskincare.com/products/trio-cleanser-serum-day-cream): Mindful skincare gift set with cleanser, day cream and serum. Fragrance-free, allergy- and gentle on sensitive skin. Save 10% on Routine Sets.
-  Updated: 2026-10-16T20:00:19Z
+  Updated: 2026-11-22T20:52:55Z
   Vendor: Bioli
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/Bioli_Gift_Set_-_Cleanser_Serum_Day_Cream.png?v=1777442179
-  Price: kr 1,336.50 DKK
+  Price: kr 1,188.00 DKK
 - [Full Skincare Gift Set – 4 Piece Biotech Bundle | Bioli](https://bioliskincare.com/products/gift-set-cleanser-serum-daycream-towel): Beautiful skincare gift set with cleanser, day cream, serum and a facial towel. Fragrance-free, allergy- and gentle on sensitive skin. Beautifully gift-ready.
-  Updated: 2026-11-12T12:25:34Z
+  Updated: 2026-11-22T08:36:17Z
   Vendor: Bioli
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-conscious-gift-set-cleanser-serum-daycream-towel-4.5.png?v=1780646584
-  Price: kr 1,610.00 DKK
+  Price: kr 1,449.00 DKK
 - [Skincare Gift Set – Cleanser, Serum & Cream | Bioli](https://bioliskincare.com/products/gift-set-cleanser-serum-daycream): Conscious gift set with cleanser, day cream and serum. Fragrance-free, allergy- and gentle on sensitive skin. 100% biodegradable packaging. For yourself or some you care about.
-  Updated: 2026-09-24T20:48:23Z
+  Updated: 2026-11-22T08:25:05Z
   Vendor: Bioli
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioliskincare.com_Images_4.5.png?v=1780645959
-  Price: kr 1,485.00 DKK
+  Price: kr 1,336.50 DKK
 - [Skincare Essentials – Cleanser & Day Cream | Bioli](https://bioliskincare.com/products/cleanser-day-cream): Mindful skincare gift set with cleanser and serum. Fragrance-free, allergy- and gentle on sensitive skin. Save 10% on Routine Sets.
-  Updated: 2026-11-13T11:42:47Z
+  Updated: 2026-11-22T20:23:59Z
   Vendor: Bioli
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/Cleanser_DayCream.png?v=1780747040
-  Price: kr 774.00 DKK
+  Price: kr 688.00 DKK
 - [Skincare Trio Set – Cleanser & Day Cream | Bioli](https://bioliskincare.com/products/serum-day-cream): Mindful skincare gift set with serum and day cream. Fragrance-free, allergy- and gentle on sensitive skin. Save 10% on Routine Sets.
-  Updated: 2026-10-24T08:52:25Z
+  Updated: 2026-11-22T20:19:56Z
   Vendor: Bioli
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/Serum_DayCream.png?v=1780747700
-  Price: kr 999.00 DKK
+  Price: kr 880.00 DKK
 - [Black Friday skincare  – 2 Face Creams for 1 | Bioli](https://bioliskincare.com/products/moisturizing-and-protecting-day-cream-): Discover Bioli's Black Friday skincare . Get two fragrance-free Moisturizing and Protecting Day Creams for the price of one. Danish biotech skincare for all skin types including sensitive skin. While stocks last.
   Updated: 2026-11-04T19:45:16Z
   Vendor: Bioli
@@ -110,30 +110,30 @@ https://bioliskincare.com/blogs/bionotes
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-daycream-unisex-groming-beaty-skincare-versitile-biotech.jpg?v=1788164167
   Price: kr 485.00 DKK
 - [Skincare Gift Set – 2-in-1-cleanser and face towel | Bioli](https://bioliskincare.com/products/gift-set-cleanser-towel): Gift set with Bioli's gentle 2-in-1-cleanser and exfoliator and a soft facial towel. Fragrance-free, unisex skincare for healthy skin in a beautiful gift box. 100% biodegradable packaging.
-  Updated: 2026-11-12T12:18:46Z
+  Updated: 2026-11-22T08:22:14Z
   Vendor: Bioli
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-conscious-gift-set-cleanser-towel-1.jpg?v=1789654063
-  Price: kr 500.00 DKK
+  Price: kr 450.00 DKK
 - [Skincare Gift Set – Gentle face cream and face towel | Bioli](https://bioliskincare.com/products/gift-set-face-cream-towel): Gift set with Bioli's gentle face cream and a soft facial towel. Fragrance-free, unisex skincare with 8-hour moisturization and antioxidant protection. 100% biodegradable packaging.
-  Updated: 2026-11-12T12:21:54Z
+  Updated: 2026-11-22T08:55:17Z
   Vendor: Bioli
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-conscious-gift-set-cleanser-daycream-1.jpg?v=1790245723
-  Price: kr 610.00 DKK
+  Price: kr 549.00 DKK
 
 ## Collections
 
 - [Conscious Gift Boxes](https://bioliskincare.com/collections/conscious-gift-set): Thoughtful skincare gift sets for all skin types. Fragrance-free, allergy-, and 100% biodegradable packaging.
-  Updated: 2026-11-12T12:25:35Z
+  Updated: 2026-11-22T08:55:18Z
   Total Products: 4
 - [Bioli Products](https://bioliskincare.com/collections/bioli-products): Everyday biotech skincare with targeted efficacy and silky textures. Fragrance-free, dermatologically , made in Denmark. 100% biodegradable packaging.
-  Updated: 2026-11-08T12:10:17Z
+  Updated: 2026-11-18T12:08:01Z
   Total Products: 3
 - [Routine Sets](https://bioliskincare.com/collections/routine-sets): Complete daily skincare routines with bioactive enzyme technology. Gentle, effective, and eco-friendly.
-  Updated: 2026-11-14T12:07:10Z
+  Updated: 2026-11-22T08:55:55Z
   Total Products: 4
 
 ## Blogs
@@ -220,7 +220,7 @@ https://bioliskincare.com/blogs/bionotes
     Author: Nina Wiberg Møller
     Tags: Industry spotlight, Skincare trends, Sustainable care
   - [Men vs. women: does skin differ – and should skincare?](https://bioliskincare.com/blogs/bionotes/men-vs-women-does-skin-differ-and-should-skincare): <p><meta charset="utf-8">Men’s use of skincare is on the rise. Is there a difference between men's skin and women's skin? And if there is, does that mean they need different skincare – or is it all just marketing? In this article, we dive into the science behind skin structure and function to help you make smarter skincare choices.</p>
-    Updated: 2026-09-12T19:25:44Z
+    Updated: 2026-11-16T10:20:17Z
     Author: Nina Wiberg Møller
   - [Inflammation – The hidden issue behind five major skin disorders](https://bioliskincare.com/blogs/bionotes/inflammation-the-hidden-issue-behind-five-major-skin-disorders): <p><meta charset="utf-8">Did you know that many of the most common skin conditions — <meta charset="utf-8">perioral dermatitis, acne, eczema, psoriasis, and rosacea  — are all connected by one root cause: chronic inflammation? In this article, we take a closer look at their triggers, oxidative stress, and why conventional solutions often fall short. We’ll also explore a new approach: enzyme-based antioxidants like Superoxide Dismutase — a powerful yet gentle option that's better for your skin and the planet.</p>
     Updated: 2026-08-13T08:12:11Z
@@ -282,9 +282,10 @@ https://bioliskincare.com/blogs/bionotes
     Updated: 2026-04-30T09:21:24Z
     Author: Nina Wiberg Rosenquist
     Tags: Industry spotlight, Interview
-  - [How perimenopause and menopause affect your skin: causes, symptoms and skincare](https://bioliskincare.com/blogs/bionotes/how-perimenopause-and-menopause-affect-your-skin-causes-symptoms-and-skincare): <p>Perimenopause and menopause begin with hormones, but for many women the first indication that she may be in perimenopause comes from her skin. Motivated by personal experience navigating challenges related to the (suspected) onset of perimenopause, our Comms Lead Elizabeth has compiled an overview of skin-related symptoms associated with perimenopause and menopause, their underlying drivers, and steps you can take to manage these symptoms. The research guiding this article has been vetted by Bioli’s Scientific Researcher Andreia.<br></p>
+  - [How perimenopause and menopause affect your skin: causes, symptoms and skincare](https://bioliskincare.com/blogs/bionotes/how-perimenopause-and-menopause-affect-your-skin-causes-symptoms-and-skincare): <p>Perimenopause and menopause begin with hormones, but for many women the first indication that she may be in perimenopause comes from her skin. Motivated by personal experience navigating challenges related to the (suspected) onset of perimenopause, our Comms Lead Elizabeth has compiled an overview of skin-related symptoms associated with perimenopause and menopause, their underlying drivers, and steps you can take to manage these symptoms. The research guiding this article has been vetted by Bioli’s Scientific Researcher Andreia.<br><br><meta charset="utf-8"></p>
+<p><em>Also featured in Helse, Denmark's leading health magazine (November 2026, p. 34). Read the issue <a href="https://mithelse.dk/3d-flip-book/helse-07-2026/" title="Helse, Denmark's leading health magazine" target="_blank" rel="noopener">here</a>.</em></p>
 <p><!-- notionvc: ae67825d-4701-42ce-8494-8d68c687aab6 --></p>
-    Updated: 2026-10-01T07:54:26Z
+    Updated: 2026-11-17T10:07:32Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Well-being
   - [The evolution of peptides: From collagen to broader skin health, including microbiome support](https://bioliskincare.com/blogs/bionotes/the-evolution-of-peptides-from-collagen-to-broader-skin-health-including-microbiome-support): <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S2212429226005158" target="_blank" title="Peptides in skincare" rel="noopener">Peptides</a> are widely used in skincare because they support collagen production and help reduce the visible signs of ageing. But advances in peptide research and biotechnology are expanding their potential role in skin health, including the skin barrier and microbiome.</p>
@@ -340,7 +341,12 @@ https://bioliskincare.com/blogs/bionotes
     Author: Nina Wiberg Rosenquist
     Tags: Announcement
   - [New skincare packaging collection points across the world](https://bioliskincare.com/blogs/media/new-skincare-packaging-collection-points-across-the-world): <p><meta charset="utf-8">The beauty industry’s ugly side is getting prettier. New collection initiatives are creating more opportunities to dispose of eligible skincare packaging and raising awareness of alternative materials.</p>
-    Updated: 2026-10-25T09:45:49Z
+    Updated: 2026-11-16T08:43:08Z
+    Author: Nina Wiberg Rosenquist
+    Tags: Announcement
+  - [Bioli checks in at 1 Hotel Copenhagen](https://bioliskincare.com/blogs/media/bioli-checks-in-at-1-hotel-copenhagen): <p><meta charset="utf-8"><span>Copenhagen, Denmark November 22, 2026 – Danish skincare brand Bioli is now available at 1 Hotel Copenhagen, bringing its <meta charset="utf-8">biotech skincare to one of the city's newest luxury hospitality destinations. The partnership reflects a shared appreciation for considered design, quality, wellbeing and more mindful choices.</span></p>
+<p><br></p>
+    Updated: 2026-11-22T20:34:31Z
     Author: Nina Wiberg Rosenquist
     Tags: Announcement
 
