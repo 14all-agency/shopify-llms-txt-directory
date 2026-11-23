@@ -10,7 +10,7 @@
 - Contact Email: info@sineolabs.com
 - Contact Phone: +1 (302) 209-5999
 - Address: 15 Boulden Blvd, New Castle, DE 19720, United States
-- Updated At: 2026-11-16T01:02:31.431Z
+- Updated At: 2026-11-23T01:17:12.932Z
 
 ## Products
 
@@ -456,7 +456,7 @@
   Image: https://cdn.shopify.com/s/files/1/0973/3639/4063/files/hair-skin-nails-gummies-hero.jpg?v=1793450011
   Price: $39.99 USD
 - [Grass-Fed Hydrolyzed Collagen Peptides Powder 20g](https://www.sineolabs.com/products/grass-fed-hydrolyzed-collagen-peptides): One ingredient and nothing else: 20 g of unflavored grass-fed collagen peptides a day, made to support healthy skin, hair, nails, tendons and joints.* 20 g of hydrolyzed collagen peptides per scoop to help support healthy skin, hair and nails.* Collagen types 1 and 3 help give structure to tendons, joints, muscles and bones.* Unflavored, with bovine hide collagen peptides as the only ingredient. Mixes in about 5 seconds in a shaker cup; one 280 g jar gives you 14 daily scoops. Nothing to Hide, Nothing AddedYour body's ability to make collagen slowly declines with age, and collagen is what gives your skin, tendons and joints their structure.* A simple daily scoop is one of the easiest habits you can build around that.This jar holds exactly one thing: hydrolyzed collagen peptides from grass-fed bovine hide. Each level scoop gives you 20 g, rich in glycine, proline and hydroxyproline, to help support healthy skin, hair, nails and joints.* There is no added flavor or sweetener, so it slips into your coffee, tea or smoothie.What's InsidePer serving (1 level scoop, 20 g):Hydrolyzed collagen peptides from bovine hide: 20 g of grass-fed collagen types 1 and 3, to support skin, hair, nails and joints.*That is the only ingredient; nothing else is added. Each scoop also has 70 calories, 18 g of protein and 26 mg of calcium (2% DV).How to Take ItAdd one level scoop to 8–10 oz (236–295 ml) of chilled water or your preferred beverage in a shaker cup, and mix for about 5 seconds. Drink one shake each day. One jar holds 14 scoops, a 14-day supply. Adding it to the first drink of your day makes the habit easy to keep.Quality & SafetyMade in the USA in an FDA-registered facility that follows Good Manufacturing Practices (GMP). Gluten-free, lactose-free and corn-free. The collagen comes from bovine hide. Keep out of reach of children. Do not use if the safety seal is damaged or missing. Store in a cool, dry place.
-  Updated: 2026-11-11T12:23:52Z
+  Updated: 2026-11-19T13:00:50Z
   Vendor: SineoLabs
   Product Type: Supplements > Collagen Supplements
   Availability: Available
@@ -1319,6 +1319,18 @@
     Updated: 2026-11-16T00:32:16Z
     Author: Connor Davis
     Tags: best multivitamins for health, choosing multivitamins wisely, daily multivitamins, essential nutrients, health supplements, supplements, vitamins, wellness
+  - [Longevity: Collagen for Youthful Skin Renewal](https://www.sineolabs.com/blogs/wellness-insights/longevity-collagen-for-youthful-skin-renewal): Longevity: Collagen for Youthful Skin Renewal
+    Updated: 2026-11-18T00:32:25Z
+    Author: Connor Davis
+    Tags: anti-aging benefits, benefits of collagen for health, collagen, collagen supplements for skin, health, skin renewal, supplements, youthful skin
+  - [Anti-Aging with Green Tea: Boost Metabolism Gently](https://www.sineolabs.com/blogs/wellness-insights/anti-aging-with-green-tea-boost-metabolism-gently): Anti-Aging with Green Tea: Boost Metabolism Gently
+    Updated: 2026-11-20T00:29:26Z
+    Author: Connor Davis
+    Tags: anti-aging benefits, best health supplements for aging, energy, green tea, health, improve metabolism naturally, metabolism booster, supplements
+  - [Biohacking Energy Levels with Maca Root](https://www.sineolabs.com/blogs/wellness-insights/biohacking-energy-levels-with-maca-root): Biohacking Energy Levels with Maca Root
+    Updated: 2026-11-23T00:31:15Z
+    Author: Connor Davis
+    Tags: boost energy levels, energy, enhance physical performance, health tips, herbal remedy, maca, natural energy, supplements
 
 ## Store Pages
 
