@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-10-22T08:25:43Z
 - Contact Email: customer@peterbowenart.co.uk
-- Updated At: 2026-11-15T01:01:56.352Z
+- Updated At: 2026-11-23T01:05:04.199Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/products/il_fullxfull.2360069811_ds94.jpg?v=1779616774
   Price: £198.00 GBP
 - [Silver Leafy Spoons](https://peterbowenart.co.uk/products/vintage-leafy-spoons): Beautifully made stainless steel spoon with leaf design is perfect for our sugar bowls and jam pots.
-  Updated: 2026-11-11T09:11:56Z
+  Updated: 2026-11-19T21:29:35Z
   Vendor: PeterBowenArt
   Product Type: Spoons
   Availability: Available
@@ -42,35 +42,35 @@
     Availability: Available
     Price: £37.00 GBP
 - [Sugar Bowl Speckled Black Glaze](https://peterbowenart.co.uk/products/sugar-bowl-speckled-black-glaze): A modern-looking ceramic sugar bowl in a speckled black glossy finish with white inside and a matching lid with a stainless steel silver leafy spoon.
-  Updated: 2026-11-14T18:09:52Z
+  Updated: 2026-11-17T21:06:10Z
   Vendor: PeterBowenArt
   Product Type: Sugar Bowl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_6453.jpg?v=1779616705
   Price: £43.00 GBP
 - [Sugar Bowl Ice Blue Glaze](https://peterbowenart.co.uk/products/sugar-bowl-ice-blue-glaze): Handmade Ice Blue Glaze ceramic sugar bowl with matching lid and a stainless steel silver leafy spoon. The perfect addition to any kitchen or table.
-  Updated: 2026-11-14T18:09:52Z
+  Updated: 2026-11-17T21:06:04Z
   Vendor: PeterBowenArt
   Product Type: Sugar Bowl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_6763.jpg?v=1779616679
   Price: £43.00 GBP
 - [Sugar Bowl, Jam Pot, with Leafy Spoon Oatmeal Glaze](https://peterbowenart.co.uk/products/sugar-bowl-jam-pot-with-leafy-spoon-oatmeal-glaze): Oatmeal Glazed ceramic sugar bowl with matching lid and a stainless steel leafy spoon
-  Updated: 2026-11-14T18:09:52Z
+  Updated: 2026-11-17T21:06:03Z
   Vendor: PeterBowenArt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_6493.jpg?v=1779616644
   Price: £43.00 GBP
 - [Sugar Bowl with Lid, Jam Pot, Leafy Spoon, Confetti Glaze](https://peterbowenart.co.uk/products/sugar-bowl-with-lid-jam-pot-leafy-spoon-confetti-glaze): A beautiful modern looking ceramic sugar bowl with matching lid in confetti glaze and a stainless steel gold leafy spoon.
-  Updated: 2026-11-14T18:09:52Z
+  Updated: 2026-11-19T01:05:23Z
   Vendor: PeterBowenArt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_6350.jpg?v=1779616459
-  Price: £43.00 GBP
+  Price: £44.00 GBP
 - [Stoneware Butter Dish with White Lid Yellow Spots](https://peterbowenart.co.uk/products/speckled-yellow-butter-dish): A unique handmade butter dish with a white lid and yellow spots. The speckled yellow dish keeps butter soft and easily spreadable
-  Updated: 2026-11-14T18:09:51Z
+  Updated: 2026-11-17T21:06:05Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish
   Availability: Available
@@ -84,7 +84,7 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_5910.jpg?v=1779616378
   Price: £43.00 GBP
 - [Sugar Bowl with Spoon - Yellow Glaze](https://peterbowenart.co.uk/products/honey-pot-sugar-bowl-jam-pot-leafy-spoon): A beautiful modern looking ceramic sugar bowl with matching lid and a stainless steel gold leafy spoon
-  Updated: 2026-11-14T18:09:51Z
+  Updated: 2026-11-17T21:06:04Z
   Vendor: PeterBowenArt
   Product Type: Sugar Bowl
   Availability: Available
@@ -105,7 +105,7 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/products/il_fullxfull.2007543954_cvm3.jpg?v=1779616281
   Price: £178.00 GBP
 - [Butter Dish with Purple Speckle Glaze](https://peterbowenart.co.uk/products/butter-dish-with-purple-speckle-lid): An unusual pottery butter dish with lid is earthenware pottery with a purple speckle ceramic glaze with jet black glazed dish
-  Updated: 2026-11-14T18:09:50Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish
   Availability: Available
@@ -126,49 +126,42 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_6200.jpg?v=1779616104
   Price: £44.00 GBP
 - [Butter Dish with Speckled Honey Glaze](https://peterbowenart.co.uk/products/handmade-butter-dish-butter-keeper): Handmade ceramic butter dish with lid in a lovely speckled honey glaze is ideal for keeping butter fresh and easily spreadable
-  Updated: 2026-11-14T18:09:49Z
+  Updated: 2026-11-17T21:06:07Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9849.jpg?v=1779616062
   Price: £56.00 GBP
 - [Butter dish sugar bowl and milk jug set](https://peterbowenart.co.uk/products/butter-dish-sugar-bowl-and-milk-jug-set): Discover the timeless appeal of this beautifully designed butter dish sugar bowl and milk jug set handmade by Peter Bowen
-  Updated: 2026-11-14T18:09:49Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish Sugar Bowl Cream Jug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/Butter_dish_set.jpg?v=1794302490
   Price: £118.00 GBP
-- [Sugar Bowl Speckled Purple Glaze](https://peterbowenart.co.uk/products/jam-pot-with-lid-and-spoon-in-speckled-purple-glaze): A purple speckle glaze modern-looking handmade ceramic sugar bowl with matching lid and a stainless steel leafy spoon.
-  Updated: 2026-11-14T18:09:49Z
-  Vendor: PeterBowenArt
-  Product Type: Sugar Bowl
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_6622.jpg?v=1779616004
-  Price: £43.00 GBP
 - [Ceramic Mantel Clock with Enclosed Face - Speckled Red](https://peterbowenart.co.uk/products/ceramic-mantel-clock-enclosed-face-speckled-red): This handmade ceramic mantel clock design is part of my whimsical design for tabletop clocks with each one slightly different
-  Updated: 2026-11-14T18:09:49Z
+  Updated: 2026-11-20T10:09:52Z
   Vendor: PeterBowenArt
   Product Type: Clocks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_8319.jpg?v=1779615867
   Price: £178.00 GBP
 - [Handmade Cheese and Cracker Dish Set](https://peterbowenart.co.uk/products/handmade-cheese-and-cracker-dish): Handmade cheese and cracker dish in the shape and style of a large chunk of cheese created in earthenware clay close to the home of Cheddar cheese Somerset
-  Updated: 2026-11-02T11:47:00Z
+  Updated: 2026-11-15T15:39:58Z
   Vendor: PeterBowenArt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_2747.jpg?v=1779615771
   Price: £54.00 GBP
 - [Sugar Bowl with Spoon Light Speckled Blue](https://peterbowenart.co.uk/products/sugar-bowl-with-spoon-light-speckled-blue): Sugar Bowl with White and light blue speckle an ideal Wedding or Shower Gift.This glazed ceramic sugar bowl with matching lid and a stainless steel spoon
-  Updated: 2026-11-14T18:09:49Z
+  Updated: 2026-11-17T21:06:04Z
   Vendor: PeterBowenArt
   Product Type: Sugar Bowl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_6305.jpg?v=1779615715
   Price: £43.00 GBP
 - [Butter dish sugar bowl and milk jug set](https://peterbowenart.co.uk/products/butter-dish-sugar-bowl-and-milk-jug-set-speckled-yellow): Experience the charm and practicality of the butter dish sugar bowl and milk jug set, handmade by Peter Bowen
-  Updated: 2026-11-14T18:09:49Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish Sugar Bowl Cream Jug
   Availability: Available
@@ -182,14 +175,14 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9543.jpg?v=1779615639
   Price: £38.00 GBP
 - [Sugar Bowl with Lid and Spoon in a Speckled Blue Glaze](https://peterbowenart.co.uk/products/sugar-bowl-with-lid-and-spoon-in-speckled-blue-glaze): A beautiful modern-looking ceramic sugar bowl with a matching lid and a stainless steel leafy spoon ideal for sugar or sweeteners or jam
-  Updated: 2026-11-14T18:09:48Z
+  Updated: 2026-11-17T21:06:07Z
   Vendor: PeterBowenArt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_5873.jpg?v=1779615616
   Price: £43.00 GBP
 - [Butter Dish and Sugar Bowl Set - Yellow Speckle Glaze](https://peterbowenart.co.uk/products/butter-dish-with-matching-sugar-bowl-and-spoon-yellow-speckle-glaze): Ceramic butter dish with lid in a glossy Speckle Yellow Glaze with matching sugar bowl ideal for keeping butter fresh and spreadable
-  Updated: 2026-11-14T18:09:48Z
+  Updated: 2026-11-17T21:06:04Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish Set
   Availability: Available
@@ -203,7 +196,7 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/products/il_fullxfull.2326258562_fuaa.jpg?v=1779615540
   Price: £249.00 GBP
 - [Sugar Bowl with Silver Leafy Spoon Speckled Green Glaze](https://peterbowenart.co.uk/products/sugar-bowl-with-gold-leafy-spoon-speckled-green-glaze): Speckled Green Glazed ceramic sugar bowl with matching lid and a stainless steel silver leafy spoon
-  Updated: 2026-11-14T18:09:48Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Sugar Bowl
   Availability: Available
@@ -217,14 +210,14 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9550.jpg?v=1779615384
   Price: £56.00 GBP
 - [Stoneware cornish copper butter dish](https://peterbowenart.co.uk/products/butter-dish-cornish-copper-glaze): The Stoneware Cornish Copper Butter Dish is a beautifully handcrafted stoneware ceramic piece, thoughtfully designed to keep butter fresh and easy to spread
-  Updated: 2026-11-14T18:09:47Z
+  Updated: 2026-11-19T09:09:25Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9057_464e1a47-fdfe-4970-a091-55a2eaa07c2f.jpg?v=1771678949
   Price: £56.00 GBP
 - [butter dish sugar bowl set speckled green](https://peterbowenart.co.uk/products/butter-dish-sugar-bowl-set-speckled-green): The butter dish sugar bowl set speckled green by Peter Bowen is an exquisite example of stoneware ceramic pottery
-  Updated: 2026-11-14T18:09:47Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish Set
   Availability: Available
@@ -237,14 +230,14 @@
   Availability: Available
   Price: £178.00 GBP
 - [Butter Dish and Sugar Bowl Set Oatmeal Glaze](https://peterbowenart.co.uk/products/butter-dish-and-sugar-bowl-set-oatmeal-glaze): Handmade butter dish with lid and matching sugar bowl with lid and silver leafy spoon, finished with an oatmeal glaze
-  Updated: 2026-11-14T18:09:46Z
+  Updated: 2026-11-17T21:06:05Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9246.jpg?v=1779615173
   Price: £94.00 GBP
 - [Speckled Green Stoneware Butter Dish](https://peterbowenart.co.uk/products/butter-dish-speckled-green-25694): The Speckled Green Stoneware Butter Dish is a beautifully crafted ceramic piece, designed with both functionality and elegance in mind
-  Updated: 2026-11-02T11:47:25Z
+  Updated: 2026-11-17T21:06:05Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish
   Availability: Available
@@ -258,63 +251,63 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_5420.jpg?v=1794241515
   Price: £178.00 GBP
 - [butter dish and spoon rest set](https://peterbowenart.co.uk/products/speckled-yellow-butter-dish-and-spoon-rest-set): butter dish and spoon rest set both beautifully finished in a glossy speckled yellow glaze for those seeking a touch of elegance
-  Updated: 2026-11-13T11:07:23Z
+  Updated: 2026-11-17T21:06:07Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_1193.jpg?v=1779614990
   Price: £72.00 GBP
 - [Black Speckled Canister for Tea, Coffee, etc.](https://peterbowenart.co.uk/products/speckled-black-canister-for-tea-or-coffee): A sleek-looking ceramic canister with lid in a glossy speckled black finish with a white inside and matching lid with a round knob handle
-  Updated: 2026-11-02T11:47:01Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Cannister
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/il_fullxfull.3019523826_fw3i.jpg?v=1779614955
   Price: £49.00 GBP
 - [Wonky Clock -  Priced](https://peterbowenart.co.uk/products/wonky-clock): This wonky clock design is part of my whimsical design for ceramic clocks that are different and look whimsical and wonky..!
-  Updated: 2026-11-14T18:09:45Z
+  Updated: 2026-11-17T21:06:03Z
   Vendor: PeterBowenArt
   Product Type: Clocks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/products/wHRSLMgaTHi8mn9zlhRooQ.jpg?v=1779614932
   Price: £258.00 GBP
 - [Cornish Copper Ceramic Clock Handmade](https://peterbowenart.co.uk/products/cornish-copper-ceramic-clock-open-face): This handmade Cornish Copper ceramic clock, designed by Peter Bowen, brings a delightful touch of character and artistry to any room
-  Updated: 2026-11-14T18:09:45Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Clocks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_1936_b6486439-2239-4da1-baaa-a5bd57f1be4e.jpg?v=1779614896
   Price: £178.00 GBP
 - [Sugar Bowl Cornish Copper](https://peterbowenart.co.uk/products/cornish-copper-sugar-bowl): Ceramic sugar bowl with matching lid and a stainless steel leafy spoon finished with a cornish copper glaze on the outside and white inside
-  Updated: 2026-11-14T18:09:45Z
+  Updated: 2026-11-17T21:06:04Z
   Vendor: PeterBowenArt
   Product Type: Sugar Bowl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_6034.jpg?v=1779614866
   Price: £43.00 GBP
 - [Sugar Bowl with Spoon - Lime Green Glaze](https://peterbowenart.co.uk/products/lime-green-sugar-bowl): A lovely handmade ceramic sugar bowl with matching lid and a stainless steel silver leafy spoon finished with a lime green glaze
-  Updated: 2026-11-14T18:09:45Z
+  Updated: 2026-11-17T21:06:09Z
   Vendor: PeterBowenArt
   Product Type: Sugar Bowl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_5951.jpg?v=1779614827
   Price: £43.00 GBP
 - [Butter Dish with Lid - Honey Speckle Glaze](https://peterbowenart.co.uk/products/country-style-butter-dish-with-lid-honey-speckle-glaze): A country-style butter dish to hold a 250g block of butter or two American style butter sticks.
-  Updated: 2026-11-14T18:09:44Z
+  Updated: 2026-11-17T21:06:05Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9685.jpg?v=1779614806
   Price: £56.00 GBP
 - [Sugar Bowl Abstract Glaze](https://peterbowenart.co.uk/products/sugar-bowl-abstract-glaze): A lovely handmade ceramic sugar bowl with matching lid and a stainless steel silver leafy spoon
-  Updated: 2026-11-14T18:09:44Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Sugar Bowl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_6581.jpg?v=1779614780
   Price: £43.00 GBP
 - [Stoneware Butter Dish Lime Green Glaze](https://peterbowenart.co.uk/products/butter-dish-lime-green-glaze): Handmade butter dish is stoneware pottery and finished with a lime green glaze that has tiny specks of white and black
-  Updated: 2026-11-14T18:09:44Z
+  Updated: 2026-11-17T21:06:05Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish
   Availability: Available
@@ -349,14 +342,14 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/products/PMmcvypvRDy5mm4_52mJRg.jpg?v=1779614498
   Price: £52.00 GBP
 - [Jet Black Glazed Canister for Tea, Coffee, etc.](https://peterbowenart.co.uk/products/jet-black-cannister): A sleek-looking ceramic canister with lid in a glossy speckled black finish with a white inside and matching lid with a round knob handle
-  Updated: 2026-11-02T11:47:06Z
+  Updated: 2026-11-17T21:06:07Z
   Vendor: PeterBowenArt
   Product Type: Cannister
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/il_fullxfull.3085904487_2bf2.jpg?v=1779614452
   Price: £49.00 GBP
 - [blue butter dish and spoon rest set](https://peterbowenart.co.uk/products/blue-butter-dish-and-spoon-rest-set): Discover the charm and functionality of this hand-made blue butter dish and spoon rest set, complete with a speckled yellow lid and a matching spoon rest
-  Updated: 2026-11-13T11:06:41Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish Set
   Availability: Available
@@ -370,28 +363,28 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/products/SBCJ24.jpg?v=1779614380
   Price: £81.00 GBP
 - [butter dish and sugar bowl set - abstract glaze](https://peterbowenart.co.uk/products/butter-dish-and-sugar-bowl-set-abstract-glaze): Discover the charm and practicality of this handmade Butter dish and sugar bowl set - abstract glaze by Peter Bowen, an acclaimed British ceramic artist
-  Updated: 2026-11-02T11:47:25Z
+  Updated: 2026-11-17T21:06:10Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_1384.jpg?v=1779614348
   Price: £94.00 GBP
 - [Ceramic Mantel Clock with Enclosed Face - Cornish Copper](https://peterbowenart.co.uk/products/shelf-clock-with-clock-face): A new design with an enclosed clock face. This clock measures 200mm (8 inches) high by 150mm (6 inches) wide at the front by 65mm (2.5 inches) front to back. Clock with brass rims and Roman numerals on a white dial. Requires an R1UG 1.5V battery included. Catalogue ID: CLTL21EF
-  Updated: 2026-11-14T18:09:43Z
+  Updated: 2026-11-20T10:07:30Z
   Vendor: PeterBowenArt
   Product Type: Clocks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_8326.jpg?v=1779614269
   Price: £178.00 GBP
 - [Butter dish and fruit bowl set abstract glaze](https://peterbowenart.co.uk/products/butter-dish-and-fruit-bowl-set-abstract-glaze): This exquisite ceramic set comprises a butter dish and fruit bowl set abstract glaze beautifully crafted in a random splash of colour glaze
-  Updated: 2026-11-14T18:09:43Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_1322.jpg?v=1779614221
   Price: £98.00 GBP
 - [Sugar Bowl - Graduated Red to Yellow Glaze](https://peterbowenart.co.uk/products/sugar-bowl-graduate-red-to-yellow-glaze): A lovely handmade ceramic sugar bowl with matching lid and a stainless steel silver leafy spoon
-  Updated: 2026-11-14T18:09:43Z
+  Updated: 2026-11-17T21:06:04Z
   Vendor: PeterBowenArt
   Product Type: Sugar Bowl
   Availability: Available
@@ -419,7 +412,7 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/CLWO11_Front.jpg?v=1793275988
   Price: £178.00 GBP
 - [Butter dish and sugar bowl set - speckled purple](https://peterbowenart.co.uk/products/butter-dish-and-sugar-bowl-set-speckled-purple): This exquisite stoneware butter dish and sugar bowl set - speckled purple, handcrafted by renowned ceramicist Peter Bowen
-  Updated: 2026-11-14T18:09:42Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish Set
   Availability: Available
@@ -447,7 +440,7 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9752.jpg?v=1779613816
   Price: £178.00 GBP
 - [Ceramic Mantel Clock, Tabletop Clock, Shelf Clock](https://peterbowenart.co.uk/products/copy-of-mantel-clock-handmade-quirky-design-1): This handmade ceramic mantel clock design is part of my whimsical design for tabletop clocks with each one slightly different
-  Updated: 2026-11-02T11:47:19Z
+  Updated: 2026-11-17T21:06:03Z
   Vendor: PeterBowenArt
   Product Type: Clocks
   Availability: Available
@@ -461,56 +454,63 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9741.jpg?v=1779613538
   Price: £178.00 GBP
 - [Ceramic Toast Rack Honey Speckled Glaze](https://peterbowenart.co.uk/products/toast-rack-honey-speckle-glaze): Toast Rack in a Honey Speckle Glaze to match our Butter Dish for your breakfast table handmade earthenware pottery
-  Updated: 2026-11-02T11:47:05Z
+  Updated: 2026-11-20T20:09:25Z
   Vendor: PeterBowenArt
   Product Type: Toast Rack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/il_fullxfull.4085590734_bx0j.jpg?v=1771409035
-  Price: £42.00 GBP
+  Price: £44.00 GBP
 - [Toast Rack with Celebration Glaze](https://peterbowenart.co.uk/products/toast-rack-with-brightly-coloured-glaze): NEW Toast Rack design finished in a Brightly Coloured Glaze to match our Butter Dish for your breakfast table with extra-wide slots allow for thicker slices of toast
-  Updated: 2026-11-14T18:09:41Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Toast Rack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9751_35eef168-4400-4304-abbe-8493b2b222d2.jpg?v=1771409016
-  Price: £43.00 GBP
+  Price: £44.00 GBP
+- [Ceramic Toast Rack Speckled Blue Glaze](https://peterbowenart.co.uk/products/toast-rack-speckled-blue-glaze): Toast Rack design finished in a Speckled Blue Glaze to match our Butter Dish for your breakfast table. The extra-wide slots allow for thicker slices of toast.
+  Updated: 2026-11-16T09:00:58Z
+  Vendor: PeterBowenArt
+  Product Type: Toast Rack
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/il_fullxfull.4003723959_432h.jpg?v=1771408998
+  Price: £44.00 GBP
 - [Sugar Bowl with Lid and Spoon in a Celebration Glaze](https://peterbowenart.co.uk/products/sugar-bowl-with-lid-and-spoon-in-a-celebration-glaze): The random splashes of colour on this modern looking ceramic sugar bowl with matching lid and a stainless steel gold leafy spoon are quite unique
-  Updated: 2026-11-14T18:09:40Z
+  Updated: 2026-11-17T21:06:04Z
   Vendor: PeterBowenArt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_6241.jpg?v=1771408996
   Price: £43.00 GBP
 - [Ceramic Toast Rack Speckled Black Glaze](https://peterbowenart.co.uk/products/toast-rack-with-speckled-black-glaze): NEW Toast Rack design finished in a Speckled Black Glaze to match our Butter Dish for your breakfast table with extra-wide slots allow for thicker slices of toast
-  Updated: 2026-11-02T11:47:22Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Toast Rack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/il_fullxfull.4150655989_grg7.jpg?v=1768905322
-  Price: £42.00 GBP
+  Price: £44.00 GBP
 - [stoneware butter dish in red glaze](https://peterbowenart.co.uk/products/stoneware-butter-dish-in-red-glaze): Stoneware Butter Dish in Red Glaze is a testament to both traditional craftsmanship and modern practicality
-  Updated: 2026-11-14T18:09:40Z
+  Updated: 2026-11-17T21:06:07Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_1242.jpg?v=1771408985
   Price: £56.00 GBP
 - [Sugar Bowl Pumpkin Orange Glaze](https://peterbowenart.co.uk/products/sugar-bowl-orange-glaze): A lovely handmade ceramic sugar bowl with matching lid and a stainless steel silver leafy spoon
-  Updated: 2026-11-14T18:09:41Z
+  Updated: 2026-11-17T21:06:04Z
   Vendor: PeterBowenArt
   Product Type: Sugar Bowl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_6698.jpg?v=1771408979
   Price: £43.00 GBP
 - [Salt Pig Speckled Blue and White Glaze](https://peterbowenart.co.uk/products/salt-pig-speckled-blue-and-white-glaze): Handmade Salt Pig in a honey speckle glaze is earthenware pottery is 140mm (5.5 inches) in diameter x 180mm (7 inches) high with a 90mm (3.5 inches) diameter opening
-  Updated: 2026-11-07T22:24:07Z
+  Updated: 2026-11-20T14:34:28Z
   Vendor: PeterBowenArt
   Product Type: Salt Pig
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9534_e3ccb73a-3f88-44fe-a333-3e095399fbc0.jpg?v=1771408963
   Price: £58.00 GBP
 - [Art Deco-inspired Mantel Clock](https://peterbowenart.co.uk/products/art-deco-mantel-clock-speckled-red-glaze): Art Deco-inspired mantel clock design with an enclosed clock face is also ideal as a shelf clock. Designed by Peter Bowen in his small ceramics studio in the Somerset countryside.
-  Updated: 2026-11-14T18:09:40Z
+  Updated: 2026-11-20T10:07:28Z
   Vendor: PeterBowenArt
   Product Type: Clocks
   Availability: Available
@@ -523,6 +523,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_8883.jpg?v=1771408921
   Price: £52.00 GBP
+- [Toast Rack Night Sky Blue Glaze](https://peterbowenart.co.uk/products/toast-rack-night-sky-blue-glaze): Toast Rack design finished in a Night Sky Blue Glaze to match our Butter Dish for your breakfast table. The extra-wide slots allow for thicker slices of toast.
+  Updated: 2026-11-17T21:06:08Z
+  Vendor: PeterBowenArt
+  Product Type: Toast Rack
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9739.jpg?v=1768905290
+  Price: £44.00 GBP
 - [Milk Jug Ice Blue](https://peterbowenart.co.uk/products/milk-jug-ice-blue): Handmade ceramic milk jug in a refreshing sky blue glaze matches our sugar bowl and butter dish
   Updated: 2026-11-14T18:09:39Z
   Vendor: PeterBowenArt
@@ -545,7 +552,7 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_5373.jpg?v=1793958564
   Price: £56.00 GBP
 - [Art Deco Mantel Clock](https://peterbowenart.co.uk/products/art-deco-mantel-clock): Art Deco-inspired mantel clock design with an enclosed clock face is also ideal as a shelf clock. Designed by Peter Bowen in his small ceramics studio in the Somerset countryside.
-  Updated: 2026-11-14T18:09:39Z
+  Updated: 2026-11-20T10:07:31Z
   Vendor: PeterBowenArt
   Product Type: Clocks
   Availability: Available
@@ -573,7 +580,7 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/1A6804A6-E199-4A1C-AA45-CBEAFC9C1C1B.heic?v=1690391238
   Price: £54.00 GBP
 - [Cookie/Biscuit Jar Canister Speckled Green](https://peterbowenart.co.uk/products/speckled-green-cookie-biscuit-jar): A unique design handmade cookie jar or biscuit canister makes an ideal housewarming gift or for that someone special a place to hide your chocolate chip cookies or digestives...!
-  Updated: 2026-11-14T18:09:37Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Cannister
   Availability: Available
@@ -587,26 +594,26 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/CLTL11.jpg?v=1771408779
   Price: £178.00 GBP
 - [Cookie/Biscuit Jar Canister Celebration Glaze](https://peterbowenart.co.uk/products/celebration-glaze-cookie-biscuit-jar): A unique design handmade cookie jar or biscuit canister makes an ideal housewarming gift or for that someone special a place to hide your chocolate chip cookies or digestives...!
-  Updated: 2026-11-13T11:09:47Z
+  Updated: 2026-11-17T21:06:07Z
   Vendor: PeterBowenArt
   Product Type: Cannister
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9981.jpg?v=1771408733
   Price: £54.00 GBP
 - [Butter Dish with Lid Speckled Red Glaze](https://peterbowenart.co.uk/products/butter-dish-with-lid-speckled-red-glaze): Butter dish with lid in a unique Speckled Red glaze for keeping butter fresh and spreadable. Microwave and dishwasher safe earthenware pottery is hand made
-  Updated: 2026-11-02T11:47:26Z
+  Updated: 2026-11-17T21:06:04Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_7979.jpg?v=1779612799
   Price: £56.00 GBP
 - [Toast Rack Speckled Green Glaze](https://peterbowenart.co.uk/products/toast-rack-speckled-green-glaze): Toast Rack design finished in a Speckled Green Glaze to match our Butter Dish for your breakfast table. The extra-wide slots allow for thicker slices of toast.
-  Updated: 2026-11-13T11:09:47Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Toast Rack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9722.jpg?v=1771408723
-  Price: £43.00 GBP
+  Price: £44.00 GBP
 - [Tall Ceramic Mantel Clock with Enclosed Face - Speckled Red](https://peterbowenart.co.uk/products/tall-ceramic-mantel-clock-with-enclosed-face-speckled-red): This handmade ceramic mantel clock design is part of my whimsical design for tabletop clocks with each one slightly different
   Updated: 2026-11-02T11:47:25Z
   Vendor: PeterBowenArt
@@ -615,35 +622,35 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/CLTL11EF-TALL.jpg?v=1771408716
   Price: £379.00 GBP
 - [Salt Pig Honey Speckle Glaze](https://peterbowenart.co.uk/products/salt-pig-honey-speckle-glaze): Handmade Salt Pig in a honey speckle glaze is earthenware pottery is 140mm (5.5 inches) in diameter x 180mm (7 inches) high with a 90mm (3.5 inches) diameter opening
-  Updated: 2026-11-02T11:47:05Z
+  Updated: 2026-11-20T14:34:30Z
   Vendor: PeterBowenArt
   Product Type: Salt Pig
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_8981.jpg?v=1771408701
   Price: £58.00 GBP
 - [Butter Dish with Lid - Speckled Yellow](https://peterbowenart.co.uk/products/butter-dish-with-lid-speckled-yellow): A country-style butter dish to hold a 250g block of butter or two American style butter sticks.
-  Updated: 2026-11-13T11:09:47Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9699.jpg?v=1779612759
   Price: £56.00 GBP
 - [Stoneware Butter Dish with Sugar Bowl Set](https://peterbowenart.co.uk/products/butter-dish-with-sugar-bowl-set-yellow-speckle-glaze): Ceramic butter dish with lid in a glossy Speckle Yellow Glaze with matching sugar bowl ideal for keeping butter fresh and spreadable
-  Updated: 2026-11-13T11:09:47Z
+  Updated: 2026-11-17T21:06:04Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9239.jpg?v=1779612727
   Price: £92.00 GBP
 - [Sugar Bowl White with Yellow Spots](https://peterbowenart.co.uk/products/sugar-bowl-white-with-yellow-spots): A beautiful modern looking ceramic sugar bowl with matching lid and a stainless steel silver leafy spoon has unique yellow spots not found anywhere else.
-  Updated: 2026-11-13T11:09:46Z
+  Updated: 2026-11-17T21:06:04Z
   Vendor: PeterBowenArt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_6414.jpg?v=1779612692
   Price: £43.00 GBP
 - [Ceramic mantel clock with enclosed face](https://peterbowenart.co.uk/products/ceramic-mantel-clock-with-enclosed-face): This handmade ceramic mantel clock with enclosed face is part of my whimsical design for mantel and tabletop clocks with each one slightly different
-  Updated: 2026-11-13T11:09:46Z
+  Updated: 2026-11-20T10:08:45Z
   Vendor: PeterBowenArt
   Product Type: Clocks
   Availability: Available
@@ -657,21 +664,21 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/CLTL26EF-TALL300dpiCMYK.png?v=1779612650
   Price: £379.00 GBP
 - [Ceramic Mantel Clock, Tabletop Clock, Shelf Clock](https://peterbowenart.co.uk/products/ceramic-mantel-clock-oatmeal-speckle): This handmade ceramic mantel clock design is part of my whimsical design for tabletop clocks with each one slightly different
-  Updated: 2026-11-02T11:47:26Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Clocks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_7744.jpg?v=1779612505
   Price: £268.00 GBP
 - [Butter Dish with Lid - Celebration Glaze](https://peterbowenart.co.uk/products/butter-dish-with-lid-celebration-glaze): A country-style butter dish to hold a 250g block of butter or two American style butter sticks.
-  Updated: 2026-11-02T11:47:26Z
+  Updated: 2026-11-17T21:06:05Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9696.jpg?v=1771408640
   Price: £56.00 GBP
 - [Fruit bowl and butter dish set](https://peterbowenart.co.uk/products/fruit-bowl-and-butter-dish-set): This exquisite ceramic set comprises a fruit bowl and butter dish set beautifully crafted in a rich Royal Blue glaze
-  Updated: 2026-11-13T11:09:46Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish Set
   Availability: Available
@@ -706,14 +713,14 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/Speckled_Blue_Milk_Jug.jpg?v=1779612123
   Price: £38.00 GBP
 - [Yellow Spoon Rest + Salt Pig](https://peterbowenart.co.uk/products/yellow-spoon-rest-salt-pig): Handmade yellow spoon rest and salt pig are earthenware ceramic pottery that have food-safe glazes
-  Updated: 2026-11-02T11:47:25Z
+  Updated: 2026-11-17T21:06:05Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_7416.jpg?v=1779612075
   Price: £85.00 GBP
 - [Salt Pig Speckled Celebration Glaze](https://peterbowenart.co.uk/products/salt-pig-speckled-celebration-glaze): Handmade Salt Pig in a honey speckle glaze is earthenware pottery is 140mm (5.5 inches) in diameter x 180mm (7 inches) high with a 90mm (3.5 inches) diameter opening
-  Updated: 2026-11-02T11:47:26Z
+  Updated: 2026-11-20T14:34:33Z
   Vendor: PeterBowenArt
   Product Type: Salt Pig
   Availability: Available
@@ -734,28 +741,28 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_8883.jpg?v=1771408921
   Price: £52.00 GBP
 - [Oatmeal Butter Dish with Handle](https://peterbowenart.co.uk/products/oatmeal-butter-dish-with-handle): Butter dish with handle in lid is oatmeal speckle glaze for keeping butter fresh and spreadable
-  Updated: 2026-11-13T11:09:44Z
+  Updated: 2026-11-18T18:49:35Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_8925.jpg?v=1771408552
   Price: £56.00 GBP
 - [Salt Pig White with Yellow Spots](https://peterbowenart.co.uk/products/salt-pig-white-with-yellow-spots): Handmade Salt Pig in a honey speckle glaze is earthenware pottery is 140mm (5.5 inches) in diameter x 180mm (7 inches) high with a 90mm (3.5 inches) diameter opening
-  Updated: 2026-11-06T09:48:12Z
+  Updated: 2026-11-20T14:34:23Z
   Vendor: PeterBowenArt
   Product Type: Salt Pig
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_7405.jpg?v=1771408534
   Price: £58.00 GBP
 - [Cornish Copper Stoneware Butter Dish set](https://peterbowenart.co.uk/products/cornish-copper-stoneware-butter-dish-set): Handmade Stoneware Butter Dish, Milk Jug and Spoon Rest in a Cornish Copper green glaze
-  Updated: 2026-11-02T11:47:26Z
+  Updated: 2026-11-17T21:06:05Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9077.jpg?v=1771408532
   Price: £118.00 GBP
 - [Stoneware Yellow Butter Dish is beautifully handcrafted](https://peterbowenart.co.uk/products/stoneware-yellow-butter-dish): The stoneware yellow butter dish is beautifully handcrafted with all of the care and attention to detail you can expect from an artisan
-  Updated: 2026-11-02T11:47:29Z
+  Updated: 2026-11-16T12:29:37Z
   Vendor: PeterBowenArt
   Product Type: Butter Dish
   Availability: Available
@@ -810,15 +817,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9554.jpg?v=1770473880
   Price: £56.00 GBP
+- [Yellow toast rack handmade and hand glazed](https://peterbowenart.co.uk/products/yellow-toast-rack): The yellow toast rack is crafted from microwave and dishwasher-safe pottery, which is handmade and also individually hand glazed
+  Updated: 2026-11-17T21:06:06Z
+  Vendor: PeterBowenArt
+  Product Type: Toast Rack
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9743_785dfd20-50f9-4442-ae37-92105d18e874.jpg?v=1770473838
+  Price: £44.00 GBP
 - [Confetti glaze toast rack with wide slots for thick toast](https://peterbowenart.co.uk/products/confetti-glaze-toast-rack): Each confetti glaze toast rack is handmade and individually hand glazed, guaranteeing that each piece is unique
-  Updated: 2026-11-02T11:47:26Z
+  Updated: 2026-11-16T09:00:57Z
   Vendor: PeterBowenArt
   Product Type: Toast Rack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_9735.jpg?v=1771408407
-  Price: £43.00 GBP
+  Price: £44.00 GBP
 - [Ceramic Egg Cups - Handmade Quality and Unique Design](https://peterbowenart.co.uk/products/ceramic-egg-cups): Beautifully made ceramic egg cups in a selection of different glaze colours are available in sets of 2, 4, 6 or 8
-  Updated: 2026-11-10T09:26:25Z
+  Updated: 2026-11-17T21:06:06Z
   Vendor: PeterBowenArt
   Product Type: Egg Cups
   Availability: Available
@@ -936,7 +950,7 @@
     Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_1082.jpg?v=1770484080
     Price: £64.00 GBP
 - [pink glazed toast rack handmade](https://peterbowenart.co.uk/products/pink-glazed-toast-rack): The pink glazed toast rack is handmade and welcomes you to the breakfast table each morning to elevate your breakfast routine
-  Updated: 2026-11-02T11:47:27Z
+  Updated: 2026-11-16T09:00:57Z
   Vendor: PeterBowenArt
   Product Type: Toast Rack
   Availability: Available
@@ -950,7 +964,7 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/IMG_1399.jpg?v=1772728354
   Price: £110.00 GBP
 - [Milk Jug White with Yellow Spots Handmade](https://peterbowenart.co.uk/products/large-milk-jug-white-with-yellow-spots): This beautifully crafted modern ceramic Milk Jug White with Yellow Spots, offers a blend of functionality and artistic flair that enhances any kitchen
-  Updated: 2026-11-13T11:09:43Z
+  Updated: 2026-11-17T21:06:08Z
   Vendor: PeterBowenArt
   Product Type: 
   Availability: Available
@@ -1013,12 +1027,19 @@
   Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/BD10a_TR10.jpg?v=1791975784
   Price: £92.00 GBP
 - [Tall Ceramic Mantel Clock - Graduated Red to Yellow](https://peterbowenart.co.uk/products/tall-ceramic-mantel-clock-graduated-red-to-yellow): Designed and handmade by Peter Bowen in England, this clock offers the benefits of personal craftsmanship, a non-ticking battery movement and a smoothly sweeping second hand
-  Updated: 2026-11-13T11:09:42Z
+  Updated: 2026-11-15T17:48:21Z
   Vendor: PeterBowenArt
   Product Type: Clocks
   Availability: Available
   Price: £278.00 GBP
-[List Continued](https://peterbowenart.co.uk/a/llms-agent/llms.txt?shop=peterbowenart.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTU5MjM1Nzg4ODM3NSwibGFzdF92YWx1ZSI6IjE1NTkyMzU3ODg4Mzc1In0%3D)
+- [Butter Dish with Speckled Red Glaze](https://peterbowenart.co.uk/products/butter-dish-with-speckled-red-glaze): Handmade ceramic butter dish with lid in a lovely speckled red glaze is ideal for keeping butter fresh and easily spreadable
+  Updated: 2026-11-22T14:51:34Z
+  Vendor: PeterBowenArt
+  Product Type: Butter Dish
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0499/0864/6054/files/Speckled_Red_Butter_Dish.jpg?v=1795352706
+  Price: £56.00 GBP
+[List Continued](https://peterbowenart.co.uk/a/llms-agent/llms.txt?shop=peterbowenart.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTYxNDQ2NzY3MDM5MSwibGFzdF92YWx1ZSI6IjE1NjE0NDY3NjcwMzkxIn0%3D)
 
 ## Collections
 
@@ -1026,13 +1047,13 @@
   Updated: 2026-04-20T18:35:01Z
   Total Products: 1
 - [Handcrafted stoneware butter dishes with lids](https://peterbowenart.co.uk/collections/handcrafted-butter-dishes): These lovely handcrafted butter dishes with lids are designed to hold up to a 500g (16oz) block of butter or two American style butter sticks
-  Updated: 2026-11-14T18:10:18Z
-  Total Products: 34
+  Updated: 2026-11-22T13:06:29Z
+  Total Products: 35
 - [Ceramic Sugar Bowl with Stainless Steel Leafy Spoon](https://peterbowenart.co.uk/collections/ceramic-sugar-bowls): Beautiful handcrafted ceramic sugar bowls with matching lids and an unusual stainless steel leafy spoon
-  Updated: 2026-11-09T12:13:58Z
+  Updated: 2026-11-21T12:15:01Z
   Total Products: 21
 - [Butter Dish Sets](https://peterbowenart.co.uk/collections/country-kitchen): The Peter Bowen Art country kitchen collection ceramics are handmade from earthenware clay, a strong, durable, natural material. Each item is hand-glazed, with lovely glazes - making each piece unique. The country kitchen collections ceramics are food safe, microwave oven, and dishwasher safe.
-  Updated: 2026-10-21T10:06:08Z
+  Updated: 2026-11-16T12:17:51Z
   Total Products: 27
 - [Art Prints](https://peterbowenart.co.uk/collections/art-prints): Each limited edition print is individually signed and numbered by the artist and bears an embossed authentication with print number. The image area of the print is 11″ x 16″ suitable for framing in a standard 16″ x 20″ frame. Printed on Archival Matt acid free paper.
   Updated: 2026-07-05T08:10:23Z
@@ -1044,23 +1065,23 @@
   Updated: 2026-05-07T18:44:24Z
   Total Products: 4
 - [Butter Dish, Sugar Bowl and Cream Jug Set](https://peterbowenart.co.uk/collections/butter-dish-sugar-bowl-and-cream-jug-set): Handmade Butter Dish, Sugar Bowl and Cream Jug Set by master craftsman Peter Bowen
-  Updated: 2026-10-21T10:06:08Z
+  Updated: 2026-11-16T12:17:51Z
   Total Products: 39
 - [Handcrafted Silver Teaspoons by Peter Bowen](https://peterbowenart.co.uk/collections/handcrafted-silver-teaspoons-by-peter-bowen): Handcrafted silver teaspoons by Peter Bowen combine elegant design and superb craftsmanship
-  Updated: 2026-11-11T12:14:53Z
+  Updated: 2026-11-20T12:17:19Z
   Total Products: 2
 - [Recommended products (Seguno)](https://peterbowenart.co.uk/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-11-14T18:10:18Z
-  Total Products: 145
+  Updated: 2026-11-22T13:06:29Z
+  Total Products: 147
 - [New Butter Dishes](https://peterbowenart.co.uk/collections/new-butter-dishes)
-  Updated: 2026-10-22T11:15:24Z
+  Updated: 2026-11-17T12:16:30Z
   Total Products: 14
 - [Birthday Gifts](https://peterbowenart.co.uk/collections/birthday-gifts)
   Updated: 2026-11-14T18:10:18Z
   Total Products: 5
 - [Handmade Butter Dishes](https://peterbowenart.co.uk/collections/handmade-butter-dishes)
-  Updated: 2026-11-10T12:15:28Z
-  Total Products: 4
+  Updated: 2026-11-22T13:06:29Z
+  Total Products: 5
 - [Decorative Ceramic Mantel Clocks](https://peterbowenart.co.uk/collections/decorative-ceramic-mantel-clocks): Decorative ceramic mantel clocks designed and made by hand by Peter Bowen are unique works of art
   Updated: 2026-11-12T15:39:11Z
   Total Products: 3
@@ -1068,16 +1089,16 @@
   Updated: 2026-10-17T11:19:41Z
   Total Products: 13
 - [Ceramics and Art](https://peterbowenart.co.uk/collections/ceramics-and-art)
-  Updated: 2026-11-05T12:22:15Z
+  Updated: 2026-11-19T12:15:08Z
   Total Products: 29
 - [Ceramic Toast Rack with Extra Wide Slots](https://peterbowenart.co.uk/collections/ceramic-toast-racks): Ceramic toast rack with extra wide slots for thick slices of toast, or toasted bagels
-  Updated: 2026-11-12T12:13:55Z
+  Updated: 2026-11-21T12:15:01Z
   Total Products: 10
 - [Handmade Cookie Jar by Peter Bowen](https://peterbowenart.co.uk/collections/handmade-cookie-jar): In a world full of mass produced kitchenware, choosing a handmade cookie jar is a celebration of quality and individuality
-  Updated: 2026-09-25T11:17:48Z
+  Updated: 2026-11-16T12:17:51Z
   Total Products: 5
 - [Ceramic Salt Pig with food safe glazes](https://peterbowenart.co.uk/collections/ceramic-salt-pig): Ceramic salt pig is beautifully handcrafted and finished with food safe glazes inside and out
-  Updated: 2026-11-08T12:13:37Z
+  Updated: 2026-11-20T12:17:19Z
   Total Products: 8
 - [Milk Jugs](https://peterbowenart.co.uk/collections/milk-jug): Introducing our Milk Jugs, a modern and elegant addition to your kitchenware collection. These handmade milk jugs have a capacity of 1/2 pint or 300mL, perfect for serving milk or cream with your tea or coffee. Each jug is carefully crafted by hand, ensuring the highest level of quality and attention to detail. The milk jugs are individually hand-glazed with a glossy white glaze on the inside, creating a beautiful contrast with the glaze on the outside. Measuring 125mm (5 inches) in height, 75mm (3 inches) in diameter at the bottom, and 50mm (2 inches) in diameter at the top, these jugs are designed to be used with our sugar bowl and butter dish for a complete set. Not only are these milk jugs aesthetically pleasing, they are also practical, dishwasher and microwave oven safe, making it easy to clean and convenient for everyday use.
   Updated: 2026-10-02T11:17:32Z
@@ -1086,11 +1107,11 @@
   Updated: 2026-11-05T12:22:15Z
   Total Products: 4
 - [Spoons](https://peterbowenart.co.uk/collections/spoons): Beautifully made stainless steel spoons with leaf designs is perfect for our sugar bowls and jam pots. These are dishwasher safe with a hard anodised finish that will not tarnish. Each spoon measures 12cm (4.75 inches) long.
-  Updated: 2026-11-11T12:14:53Z
+  Updated: 2026-11-20T12:17:19Z
   Total Products: 2
 - [New! Shopify performance sharing is now turned on](https://peterbowenart.co.uk/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-11-14T18:10:18Z
-  Total Products: 173
+  Updated: 2026-11-22T13:06:29Z
+  Total Products: 174
 - [Bargain Basement](https://peterbowenart.co.uk/collections/bargain-basement): The dictionary defines a Bargain Basement as a section of a store (such as the basement) where merchandise is sold at reduced prices
   Updated: 2026-06-29T06:26:33Z
   Total Products: 5
@@ -1537,6 +1558,18 @@
     Updated: 2026-11-13T12:05:14Z
     Author: Peter Bowen
     Tags: butter dishes, ceramic, ceramic canisters, ceramic mantel clocks, ceramic milk jugs, charm of ceramics, cornish copper butter dish, handmade tableware, mantel clocks, peter bowen, peter bowen collection, salt pigs, stoneware, stoneware butter dish, tableware, wide slot toast racks, yellow butter dish
+  - [Exploring Peter Bowen's Ice Blue Ceramic Milk Jugs and their Perfect Harmony with Butter Dishes and Ceramic Mantel Clocks](https://peterbowenart.co.uk/blogs/peter-bowen-art-news/exploring-peter-bowens-ice-blue-ceramic-milk-jugs-and-their-perfect-harmony-with-butter-dishes-and-ceramic-mantel-clocks): Exploring Peter Bowen's Ice Blue Ceramic Milk Jugs and their Perfect Harmony with Butter Dishes and Ceramic Mantel Clocks
+    Updated: 2026-11-16T12:03:06Z
+    Author: Peter Bowen
+    Tags: butter dish aesthetics, butter dishes, ceramic canisters, ceramic decor, ceramic mantel clocks, ceramic milk jugs, ceramics, clocks, cornish copper butter dish, decorative kitchen accessories, handmade tableware, jugs, mantel clocks, milk jugs, peter bowen, salt pigs, stoneware butter dish, wide slot toast racks, yellow butter dish
+  - [Rediscovering Tradition: Peter Bowen's Celebration Glaze Butter Dish as Centrepiece to Handmade Tableware from Mantel Clocks to Salt Pigs](https://peterbowenart.co.uk/blogs/peter-bowen-art-news/rediscovering-tradition-peter-bowens-celebration-glaze-butter-dish-as-centrepiece-to-handmade-tableware-from-mantel-clocks-to-salt-pigs): Rediscovering Tradition: Peter Bowen's Celebration Glaze Butter Dish as Centrepiece to Handmade Tableware from Mantel Clocks to Salt Pigs
+    Updated: 2026-11-18T12:03:46Z
+    Author: Peter Bowen
+    Tags: butter dish, butter dishes, ceramic canisters, ceramic mantel clocks, ceramic milk jugs, ceramic table settings, cornish copper butter dish, dish, glaze, handmade tableware, mantel clocks, peter bowen, peter bowen creations, pottery, salt pigs, stoneware butter dish, traditional decor, wide slot toast racks, yellow butter dish
+  - [Exploring Salt Pigs: A Deep Dive into Peter Bowen's Handmade Tableware from Stoneware Butter Dishes to Ceramic Mantel Clocks](https://peterbowenart.co.uk/blogs/peter-bowen-art-news/exploring-salt-pigs-a-deep-dive-into-peter-bowens-handmade-tableware-from-stoneware-butter-dishes-to-ceramic-mantel-clocks): Exploring Salt Pigs: A Deep Dive into Peter Bowen's Handmade Tableware from Stoneware Butter Dishes to Ceramic Mantel Clocks
+    Updated: 2026-11-20T12:04:06Z
+    Author: Peter Bowen
+    Tags: artisan home decor, butter dishes, ceramic canisters, ceramic mantel clocks, ceramic milk jugs, ceramics, cornish copper butter dish, handmade gifts, handmade tableware, mantel clocks, peter bowen, pottery, salt, salt pigs, stoneware butter dish, stoneware dishes, tableware designs, unique kitchen accessories, wide slot toast racks, yellow butter dish
 
 ## Store Pages
 
