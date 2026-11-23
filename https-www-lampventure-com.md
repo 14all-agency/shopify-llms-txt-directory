@@ -10,7 +10,7 @@
 - Contact Email: support@lampventure.com
 - Contact Phone: +1 (628) 777-7471
 - Address: 1875 Mission St ste 103, San Francisco, California 94103, United States
-- Updated At: 2026-11-16T01:09:46.660Z
+- Updated At: 2026-11-23T01:09:52.162Z
 
 ## Products
 
@@ -635,7 +635,7 @@ Ideal for creating a chic, sophisticated atmosphere, this ceiling lamp offers li
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/15_ec929af7-9bc7-4b06-84e2-084a6c828fbd.png?v=1763140278
     Price: $49.00 USD
 - [Industrial LED Wall Light – 18" E27 Metallic Arc Indoor Wall Lamp](https://www.lampventure.com/products/nebula-arc-wall-lamp): Striking 18" industrial E27 metallic arc LED wall light with bulb included. Adjustable soft glow for bedrooms, entryways & living rooms. Modern energy-saving design.
-  Updated: 2026-11-01T13:00:33Z
+  Updated: 2026-11-20T13:00:47Z
   Vendor: LampVenture
   Product Type: Lighting > Wall Lights
   Availability: Available
@@ -890,7 +890,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/19_b3b03192-592d-4b44-a984-c5009cefebe1.png?v=1762732021
     Price: $89.00 USD
 - [Scandinavian Wooden Ceiling Lamp – 9-15" Nordic Round Flush Light](https://www.lampventure.com/products/hollenzollern-nordic-glow-round-scandinavian-wooden-ceiling-lamp): Premium solid wood Nordic round ceiling lamp in 9" or 15". Minimalist Scandinavian design for living rooms, dining areas & bedrooms. Cozy natural wood ambiance.
-  Updated: 2026-11-01T08:16:55Z
+  Updated: 2026-11-19T16:49:07Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Flush Mount Ceiling Lights
   Availability: Available
@@ -898,7 +898,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
   - [With Gap / 9"](https://www.lampventure.com/products/hollenzollern-nordic-glow-round-scandinavian-wooden-ceiling-lamp?variant=41441785053297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/10154.jpg?v=1730446921
-    Price: $89.90 USD
+    Price: $99.90 USD
   - [Without Gap / 9"](https://www.lampventure.com/products/hollenzollern-nordic-glow-round-scandinavian-wooden-ceiling-lamp?variant=41441785151601)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/7_c7c2f5d0-9a63-402e-bc7d-01cef293bb22.png?v=1762724625
@@ -1116,7 +1116,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/13_d5df78d3-72b9-4584-8eba-fd56eda4babf.png?v=1762617296
     Price: $46.00 USD
 - [Wireless Adhesive Wall Spotlight – 360° No-Drill USB Rechargeable Light](https://www.lampventure.com/products/alberheim-rechargeable-360-wireless-wall-lamp): No-drill adhesive wireless USB wall light with 360° rotation & remote control. Up to 10-hour battery life. Cordless accent light for any room — no wiring needed.
-  Updated: 2026-11-14T23:45:28Z
+  Updated: 2026-11-18T21:15:20Z
   Vendor: LampVenture
   Product Type: Lighting > Wall Lights
   Availability: Available
@@ -1134,7 +1134,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/26_67ae39cf-e0b5-4fa8-a25c-c5b93df6b8ef.png?v=1771119414
     Price: $59.00 USD
 - [Glass Ceiling Flush Light – 11.8" Modern LED Elegant Ceiling Fixture](https://www.lampventure.com/products/ravensburg-elegant-glass-ceiling-light-fixture): Elegant 11.8" glass flush mount ceiling light with energy-efficient LED. Timeless modern design for living rooms, dining areas & bedrooms. Bright long-lasting illumination.
-  Updated: 2026-11-11T22:15:16Z
+  Updated: 2026-11-19T16:54:32Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Flush Mount Ceiling Lights
   Availability: Available
@@ -1142,19 +1142,19 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
   - [Orange](https://www.lampventure.com/products/ravensburg-elegant-glass-ceiling-light-fixture?variant=41441934901361)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/8_5b6e4c26-2eb5-425c-ac97-4ae6b41ebf0e.png?v=1762466285
-    Price: $98.00 USD
+    Price: $119.90 USD
   - [Green](https://www.lampventure.com/products/ravensburg-elegant-glass-ceiling-light-fixture?variant=41441934868593)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/3_346e0dd3-0355-494e-9953-633d79446901.png?v=1762466285
-    Price: $98.00 USD
+    Price: $119.90 USD
   - [Olive Green](https://www.lampventure.com/products/ravensburg-elegant-glass-ceiling-light-fixture?variant=41441934934129)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/10664.jpg?v=1762466285
-    Price: $98.00 USD
+    Price: $119.90 USD
   - [White](https://www.lampventure.com/products/ravensburg-elegant-glass-ceiling-light-fixture?variant=41441934835825)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/9_cb6295f6-6f38-4d19-8a2c-0da8e216233f.png?v=1762466285
-    Price: $98.00 USD
+    Price: $119.90 USD
 - [Retro Tulip Glass Wall Sconce – Vintage Indoor Wall Light Fixture](https://www.lampventure.com/products/edelweiss-retro-tulip-glass-wall-sconce): Elegant retro tulip-shaped glass wall sconce for a warm vintage ambiance. Soft diffused light for living rooms, hallways & bedrooms. Timeless vintage wall lamp.
   Updated: 2026-11-01T08:17:06Z
   Vendor: LampVenture
@@ -1284,7 +1284,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/3_81fa2861-3b03-4a88-8d18-466c96117959.png?v=1771166150
     Price: $128.00 USD
 - [Solar Christmas Net LED Lights – Outdoor Curtain String Light](https://www.lampventure.com/products/christmas-net-led-light): Solar-powered Christmas LED net curtain lights for indoor & outdoor use. Easy install, sparkling even glow — perfect for gardens, rooflines, trees & holiday decor.
-  Updated: 2026-11-01T08:17:13Z
+  Updated: 2026-11-19T13:00:35Z
   Vendor: LampVenture
   Product Type: Christmas Decorations > Christmas Lights
   Availability: Available
@@ -1326,7 +1326,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/pixelcut-expo2rt.jpg?v=1730647397
     Price: $58.99 USD
 - [Christmas LED Ball Garland Lights – Indoor & Outdoor Festive String](https://www.lampventure.com/products/christmas-lights-garland): Festive LED ball garland lights for indoor & outdoor holiday decorating. Cozy sparkling glow for Christmas trees, railings & walls. Easy to hang, long-lasting LED.
-  Updated: 2026-11-12T13:00:25Z
+  Updated: 2026-11-20T19:15:27Z
   Vendor: LampVenture
   Product Type: Christmas Decorations > Christmas Lights
   Availability: Available
@@ -1504,7 +1504,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/3_452b57d1-ab4f-428a-b140-444273484ce1.png?v=1730823240
     Price: $588.00 USD
 - [We're Open Neon Sign – LED Neon Light for Shop, Café & Salon](https://www.lampventure.com/products/neon-sign-were-open): Vibrant LED neon "We're Open" sign available in multiple colors & sizes. Eye-catching storefront display for shops, cafés, salons & restaurants. Day & night visibility.
-  Updated: 2026-11-15T13:00:27Z
+  Updated: 2026-11-18T13:00:51Z
   Vendor: LampVenture
   Product Type: Lighting > Neon Signs
   Availability: Available
@@ -1656,7 +1656,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/3_2.png?v=1731614234
     Price: $60.00 USD
 - [Magnetic Christmas Car Light Bulbs – 24 Reflective Holiday Decorations](https://www.lampventure.com/products/reflective-magnetic-bulbs): Decorate your car with 24 reflective magnetic Christmas light bulb ornaments. Easy to attach, weather-resistant, and instantly festive for the holiday season.
-  Updated: 2026-11-11T21:45:31Z
+  Updated: 2026-11-22T11:32:36Z
   Vendor: LampVenture
   Product Type: Christmas Decorations > Christmas Ornaments
   Availability: Available
@@ -1795,7 +1795,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/22_578b5ebb-2296-4fbd-8a9a-0f99a291bed0.png?v=1770677097
     Price: $28.90 USD
 - [Modern Sputnik Chandelier – Semi Flush Mid-Century Ceiling Light](https://www.lampventure.com/products/skara-retro-inspired-semi-flush-chandelier-modern-sputnik-ceiling-fixture): Mid-century inspired Sputnik semi-flush chandelier with radiating metal arms. Modern ceiling light fixture for living rooms, bedrooms, kitchens & entryways.
-  Updated: 2026-11-08T13:00:30Z
+  Updated: 2026-11-16T13:00:39Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Chandeliers
   Availability: Available
@@ -1866,64 +1866,64 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
 ## Collections
 
 - [Simprosys Google Feed](https://www.lampventure.com/collections/simprosys)
-  Updated: 2026-11-12T12:13:50Z
+  Updated: 2026-11-22T12:12:43Z
   Total Products: 189
 - [Bedroom Lights](https://www.lampventure.com/collections/bedroom-lights)
-  Updated: 2026-11-12T12:13:50Z
+  Updated: 2026-11-22T12:12:43Z
   Total Products: 168
 - [Outside Lights](https://www.lampventure.com/collections/outside-lights)
-  Updated: 2026-11-12T12:13:50Z
+  Updated: 2026-11-22T12:12:43Z
   Total Products: 33
 - [Cafe Lights](https://www.lampventure.com/collections/cafe-lights)
-  Updated: 2026-11-12T12:13:50Z
+  Updated: 2026-11-22T12:12:43Z
   Total Products: 180
 - [Farmhouse Lights](https://www.lampventure.com/collections/farmhouse-lights)
-  Updated: 2026-11-11T12:11:25Z
+  Updated: 2026-11-22T12:12:43Z
   Total Products: 74
 - [Flushed Lights](https://www.lampventure.com/collections/fixed-style-1)
-  Updated: 2026-11-11T12:11:25Z
+  Updated: 2026-11-20T12:12:37Z
   Total Products: 78
 - [Signature Picks](https://www.lampventure.com/collections/flagships)
-  Updated: 2026-11-12T12:13:50Z
+  Updated: 2026-11-22T12:12:43Z
   Total Products: 58
 - [Living Room Lights](https://www.lampventure.com/collections/living-room-lights)
-  Updated: 2026-11-12T12:13:50Z
+  Updated: 2026-11-22T12:12:43Z
   Total Products: 173
 - [Bulky Lights](https://www.lampventure.com/collections/bulky-style-1)
   Updated: 2026-10-31T20:17:15Z
   Total Products: 13
 - [Kitchen Lights](https://www.lampventure.com/collections/kitchen-lights)
-  Updated: 2026-11-12T12:13:50Z
+  Updated: 2026-11-22T12:12:43Z
   Total Products: 134
 - [Round Lights](https://www.lampventure.com/collections/round-style-1)
-  Updated: 2026-11-12T12:13:50Z
+  Updated: 2026-11-20T12:12:37Z
   Total Products: 78
 - [Long Lights](https://www.lampventure.com/collections/long-lights)
   Updated: 2026-11-04T12:11:54Z
   Total Products: 14
 - [Home Lights](https://www.lampventure.com/collections/home-lights)
-  Updated: 2026-11-12T12:13:50Z
+  Updated: 2026-11-22T12:12:43Z
   Total Products: 187
 - [Other Lights](https://www.lampventure.com/collections/other-lights)
-  Updated: 2026-11-12T12:13:50Z
+  Updated: 2026-11-22T12:12:43Z
   Total Products: 188
 - [Bathroom Lights](https://www.lampventure.com/collections/bathroom-lights)
-  Updated: 2026-11-11T12:11:25Z
+  Updated: 2026-11-20T12:12:37Z
   Total Products: 53
 - [LED](https://www.lampventure.com/collections/led): Lighting fixtures with LED lights built-in
-  Updated: 2026-11-12T12:13:50Z
+  Updated: 2026-11-22T12:12:43Z
   Total Products: 151
 - [Best to buy multiple](https://www.lampventure.com/collections/best-to-buy-multiple)
-  Updated: 2026-11-12T12:13:50Z
+  Updated: 2026-11-22T12:12:43Z
   Total Products: 149
 - [Wall Lights](https://www.lampventure.com/collections/wall-lights)
-  Updated: 2026-11-11T12:11:25Z
+  Updated: 2026-11-20T12:12:37Z
   Total Products: 57
 - [Ceiling Lights](https://www.lampventure.com/collections/ceiling-lights)
-  Updated: 2026-11-11T12:11:25Z
+  Updated: 2026-11-20T12:12:37Z
   Total Products: 110
 - [Christmas](https://www.lampventure.com/collections/christmas)
-  Updated: 2026-11-11T12:11:25Z
+  Updated: 2026-11-22T12:12:43Z
   Total Products: 9
 - [Neon Signs](https://www.lampventure.com/collections/neon-signs)
   Updated: 2026-10-10T21:00:20Z
@@ -1932,22 +1932,22 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
   Updated: 2026-10-31T20:17:18Z
   Total Products: 5
 - [Google Feed](https://www.lampventure.com/collections/google-feed)
-  Updated: 2026-11-12T12:13:50Z
-  Total Products: 63
+  Updated: 2026-11-22T12:12:43Z
+  Total Products: 69
 - [Low cost](https://www.lampventure.com/collections/low-cost)
-  Updated: 2026-11-12T12:13:50Z
+  Updated: 2026-11-22T12:12:43Z
   Total Products: 23
 - [Medium cost](https://www.lampventure.com/collections/medium-cost)
-  Updated: 2026-11-11T12:11:25Z
+  Updated: 2026-11-19T16:54:33Z
   Total Products: 18
 - [High cost](https://www.lampventure.com/collections/high-cost)
   Updated: 2026-11-04T12:11:54Z
   Total Products: 6
 - [Black Friday](https://www.lampventure.com/collections/black-friday)
-  Updated: 2026-11-14T03:12:13Z
+  Updated: 2026-11-22T12:12:43Z
   Total Products: 192
 - [Low Cost Test](https://www.lampventure.com/collections/low-cost-test)
-  Updated: 2026-10-31T20:17:17Z
+  Updated: 2026-11-19T12:13:28Z
   Total Products: 8
 - [Medium Cost Test](https://www.lampventure.com/collections/medium-cost-test)
   Updated: 2026-11-11T12:11:25Z
@@ -1956,7 +1956,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
   Updated: 2026-10-31T20:17:18Z
   Total Products: 4
 - [Table Lamps](https://www.lampventure.com/collections/table-lamps)
-  Updated: 2026-11-12T12:13:50Z
+  Updated: 2026-11-22T12:12:43Z
   Total Products: 10
 
 ## Blogs
@@ -2627,6 +2627,18 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Updated: 2026-11-16T00:41:32Z
     Author: Gabriel Harvey
     Tags: ambiance, bamboo, eco-friendly lighting options, home decor ideas, lighting, natural lighting solutions, pendant lights, serene atmosphere
+  - [Bringing Cozy Ambiance Home: Decorating with Larvik Pendant Ceiling Light](https://www.lampventure.com/blogs/news/bringing-cozy-ambiance-home-decorating-with-larvik-pendant-ceiling-light): Bringing Cozy Ambiance Home: Decorating with Larvik Pendant Ceiling Light
+    Updated: 2026-11-18T00:41:38Z
+    Author: Gabriel Harvey
+    Tags: ambiance, ceiling fixture, cozy, cozy home design, home decor, lighting, modern lighting ideas, pendant light
+  - [Revolutionize Your Home Ambiance with the Aland 360° Cordless LED Touch Lamp](https://www.lampventure.com/blogs/news/revolutionize-your-home-ambiance-with-the-aland-360-cordless-led-touch-lamp): Revolutionize Your Home Ambiance with the Aland 360° Cordless LED Touch Lamp
+    Updated: 2026-11-20T00:30:56Z
+    Author: Gabriel Harvey
+    Tags: ambiance, cordless, home lighting, interior design ideas, lamp, led light, modern home decor, touch control
+  - [Revolutionize Your Industrial Design with Nebula 18' LED Wall Light](https://www.lampventure.com/blogs/news/revolutionize-your-industrial-design-with-nebula-18-led-wall-light): Revolutionize Your Industrial Design with Nebula 18' LED Wall Light
+    Updated: 2026-11-23T00:40:26Z
+    Author: Gabriel Harvey
+    Tags: design, energy-efficient wall lights, home improvement, industrial lighting, led, lighting, modern led lighting solutions, wall light fixture
 
 ## Store Pages
 
