@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2019-01-08T19:10:02Z
 - Contact Email: nt_wholesale@verizon.net
-- Updated At: 2026-11-16T01:04:12.850Z
+- Updated At: 2026-11-23T01:05:38.600Z
 
 # NT Souvenirs & Gifts — Washington, DC Souvenir Store
 
@@ -2290,7 +2290,7 @@ Customers can shop online or visit our physical store in Washington, DC. We welc
 - [PRIVACY POLICY](https://ntsouvenirs.com/pages/privacy-policy): Last Updated: August 22, 2026 This Privacy Policy describes how NT Souvenirs & Gifts, also referred to as NT Souvenirs (“we,” “us,” or “our”), coll...
   Updated: 2026-10-18T16:19:54Z
 - [Search Results](https://ntsouvenirs.com/pages/rapid-search-results): .RAPID-SEARCH----DO-NOT-DELETE-THIS-PAGE { }
-  Updated: 2026-11-10T22:40:54Z
+  Updated: 2026-11-18T05:51:04Z
 - [Black Friday Deals 2026 in Washington DC | NT Souvenirs](https://ntsouvenirs.com/pages/black-friday-deals-washington-dc): 
   Updated: 2026-11-15T20:13:50Z
 
