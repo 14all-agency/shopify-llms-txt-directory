@@ -6,7 +6,7 @@
 - Timezone: America/Santiago
 - Created At: 2023-07-03T20:42:09Z
 - Contact Email: hola@blackdrop.cl
-- Updated At: 2026-11-15T00:32:34.757Z
+- Updated At: 2026-11-23T00:35:37.176Z
 
 ## Products
 
@@ -18,14 +18,14 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/origami-ceramica-blanco-6994945.jpg?v=1778077518
   Price: 14.990,00 $ CLP
 - [Cafetera V60 Transparente | Blackdrop Coffee](https://blackdrop.cl/products/cafetera-v60-plastico): Cafetera V60 Transparente para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T20:13:23Z
+  Updated: 2026-11-22T22:52:36Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafetera-v60-transparente-2729896.jpg?v=1778077519
   Price: 6990,00 $ CLP
 - [Filtros de papel 02 para V60, 50 unidades | Blackdrop Coffee](https://blackdrop.cl/products/cafetera-v60-filtros): Filtros de papel tamaño 02 para cafetera V60: taza limpia y extracción pareja. Paquete de 50 unidades. Despacho a todo Chile.
-  Updated: 2026-11-14T23:05:36Z
+  Updated: 2026-11-22T23:26:27Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/base-dripper-cafe-filtrado.png?v=1784578481
   Price: 13.990,00 $ CLP
 - [LLAVERO COFFEE DRIPPER V60](https://blackdrop.cl/products/llavero-cafe-v60)
-  Updated: 2026-11-03T12:01:05Z
+  Updated: 2026-11-18T05:27:42Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
@@ -87,14 +87,14 @@
   Availability: Available
   Price: 4990,00 $ CLP
 - [Cuchara dosificadora menta | Blackdrop Coffee](https://blackdrop.cl/products/cuchara-menta-cafe-grano): Cuchara dosificadora menta en Blackdrop: café de especialidad y accesorios. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T15:28:05Z
+  Updated: 2026-11-22T19:09:36Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cuchara-dosificadora-menta-5397810.jpg?v=1778077517
   Price: 3990,00 $ CLP
 - [Balanza de café con timer 0,1 g | Blackdrop Coffee](https://blackdrop.cl/products/balanza-cafe): Balanza digital con temporizador para medir ratio café/agua: tazas consistentes y replicables. Compra online, envío a todo Chile.
-  Updated: 2026-11-14T02:31:26Z
+  Updated: 2026-11-22T17:21:21Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
@@ -151,7 +151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/hervidor-kettle-cuello-de-cisne-8965420.jpg?v=1778077518
   Price: 79.990,00 $ CLP
 - [Set 2 Tazas Geometric 150 ML | Blackdrop Coffee](https://blackdrop.cl/products/set-taza-doble-vidrio-150-ml-espresso): Set 2 Tazas Geometric 150 ML: doble pared que mantiene la temperatura y realza tu café. 150 ml. Diseño Blackdrop. Compra online, despacho a todo Chile.
-  Updated: 2026-11-14T22:39:31Z
+  Updated: 2026-11-22T18:08:25Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
@@ -172,28 +172,28 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/taza-latte-400-ml-1326420.jpg?v=1778077516
   Price: 10.990,00 $ CLP
 - [Cápsulas Balance compatibles Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/capsulas-nespresso-aluminio-balance): Blend de Honduras y Colombia en cápsulas compatibles con Nespresso: acaramelado, cítrico y balanceado. 10 un. Despacho a todo Chile.
-  Updated: 2026-11-14T20:45:30Z
+  Updated: 2026-11-22T23:15:01Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-balance-1798883.webp?v=1778077517
   Price: 6990,00 $ CLP
 - [Cápsulas Blackbird compatibles Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/capsulas-nespresso-aluminio-blackbird): Blend intenso estilo italiano en cápsulas compatibles con Nespresso: achocolatado y amaderado, int. 12. 10 un. Despacho a todo Chile.
-  Updated: 2026-11-10T21:06:47Z
+  Updated: 2026-11-22T22:24:05Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-blackbird-1795057.webp?v=1778077516
   Price: 6990,00 $ CLP
 - [Cápsulas Connections Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/capsulas-nespresso-aluminio-connection): Blend de tres continentes en cápsulas compatibles con Nespresso: floral, especiado y achocolatado. 10 un. Despacho a todo Chile.
-  Updated: 2026-11-14T14:34:47Z
+  Updated: 2026-11-20T15:47:16Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-connections-7139122.png?v=1778077516
   Price: 6990,00 $ CLP
 - [Cápsulas descafeinado Neodecaf Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/capsulas-nespresso-aluminio-descafeinado): Descafeinado Swiss Water de Colombia en cápsulas compatibles con Nespresso: achocolatado y con cuerpo. 10 un. Despacho a todo Chile.
-  Updated: 2026-11-03T12:01:07Z
+  Updated: 2026-11-19T03:09:22Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
@@ -205,7 +205,7 @@
     Availability: Not Available
     Price: 32.990,00 $ CLP
 - [Cápsulas Ignite intensidad 13 Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/capsulas-nespresso-ignite-cafe): Nuestro blend más intenso en cápsulas compatibles con Nespresso: chocolate bitter, tabaco y pimienta. 10 un. Despacho a todo Chile.
-  Updated: 2026-11-12T14:32:11Z
+  Updated: 2026-11-22T23:18:55Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
@@ -219,21 +219,21 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/accesorios-cafe-server.jpg?v=1702483662
   Price: 10.990,00 $ CLP
 - [Server de Café 600 ml | Blackdrop Coffee](https://blackdrop.cl/products/server-600-ml-cafe-grano): Server de Café 600 ml para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T20:12:57Z
+  Updated: 2026-11-22T21:33:15Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/server-de-cafe-600-ml-1947814.jpg?v=1778077514
   Price: 12.990,00 $ CLP
 - [Set 2 Tazas Espresso 80 ML | Blackdrop Coffee](https://blackdrop.cl/products/set-taza-doble-vidrio-80-ml-espresso): Set 2 Tazas Espresso 80 ML: doble pared que mantiene la temperatura y realza tu café. 80 ml. Diseño Blackdrop. Compra online, despacho a todo Chile.
-  Updated: 2026-11-14T01:28:17Z
+  Updated: 2026-11-21T15:18:11Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-espresso-80-ml-1641856.jpg?v=1778077515
   Price: 8393,00 $ CLP
 - [Cápsulas Terralungo para lungo, Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/capsulas-nespresso-aluminio-terra-lungo): Blend para lungo en cápsulas compatibles con Nespresso: té negro, caramelo y cítricos. 10 unidades. Compra online, envío a todo Chile.
-  Updated: 2026-11-11T20:31:57Z
+  Updated: 2026-11-18T16:06:38Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
@@ -254,18 +254,11 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/tetera-cuello-cisne-negra.jpg?v=1708517457
   Price: 44.990,00 $ CLP
 - [Cápsulas de café Brasil para Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/capsulas-nespresso-brasil): Single origin Brasil en cápsulas compatibles con Nespresso: achocolatado, cremoso, baja acidez. 10 un. Compra online, envío a todo Chile.
-  Updated: 2026-11-14T19:26:46Z
+  Updated: 2026-11-22T22:16:37Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-brasil-8717440.webp?v=1778077514
-  Price: 7490,00 $ CLP
-- [Cápsulas de café Colombia para Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/capsulas-nespresso-aluminio-colombia): Single origin Colombia (Tolima) en cápsulas compatibles con Nespresso: frutas amarillas y panela. 10 un. Despacho a todo Chile.
-  Updated: 2026-11-11T14:09:00Z
-  Vendor: Blackdrop Coffee
-  Product Type: Cafe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-colombia-9424394.webp?v=1778077514
   Price: 7490,00 $ CLP
 - [Cápsulas de café Etiopía para Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/capsulas-nespresso-aluminio-etiopia): Single origin Etiopía en cápsulas compatibles con Nespresso: frutal, floral y dulce. 10 unidades. Compra online, envío a todo Chile.
   Updated: 2026-11-03T12:01:05Z
@@ -275,7 +268,7 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-etiopia-7505609.webp?v=1778077512
   Price: 7490,00 $ CLP
 - [Café de Brasil en grano de especialidad | Blackdrop Coffee](https://blackdrop.cl/products/cafe-brasil-grano-especialidad): Single origin Brasil de proceso natural: cremoso y achocolatado. Ideal espresso, moka y bebidas con leche. Compra online, envío a todo Chile.
-  Updated: 2026-11-14T23:26:37Z
+  Updated: 2026-11-22T22:04:20Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
@@ -293,7 +286,7 @@
     Availability: Available
     Price: 42.990,00 $ CLP
 - [Café de Colombia en grano de especialidad | Blackdrop Coffee](https://blackdrop.cl/products/cafe-colombia-grano-especialidad): Single origin Colombia: acaramelado, cítrico, con notas a panela y taza limpia. Para filtrado o espresso. Despacho a todo Chile.
-  Updated: 2026-11-14T23:46:15Z
+  Updated: 2026-11-22T23:32:51Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
@@ -311,7 +304,7 @@
     Availability: Available
     Price: 42.990,00 $ CLP
 - [Café descafeinado Neodecaf Swiss Water | Blackdrop Coffee](https://blackdrop.cl/products/cafe-descafeinado-grano-molido): Descafeinado natural Swiss Water de Colombia: chocolate, tabaco y canela. Sabor real sin cafeína, en grano o molido. Despacho a todo Chile.
-  Updated: 2026-11-14T23:43:46Z
+  Updated: 2026-11-22T22:43:26Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
@@ -329,7 +322,7 @@
     Availability: Available
     Price: 45.990,00 $ CLP
 - [Café de Etiopía en grano de especialidad | Blackdrop Coffee](https://blackdrop.cl/products/cafe-etiopia-grano-especialidad): Single origin Etiopía, proceso natural: frutos rojos, vino y gran dulzor. Café en grano para filtrado o espresso. Despacho a todo Chile.
-  Updated: 2026-11-14T23:31:25Z
+  Updated: 2026-11-22T22:25:35Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
@@ -347,49 +340,42 @@
     Availability: Available
     Price: 42.990,00 $ CLP
 - [Caja 5 drip coffee Black Diamond | Blackdrop Coffee](https://blackdrop.cl/products/cafe-grano-drip-black-diamond): Drip coffee Black Diamond: café intenso listo con solo agua caliente. 5 sobres de 10 g de especialidad. Despacho a todo Chile.
-  Updated: 2026-11-14T22:51:26Z
+  Updated: 2026-11-22T23:19:15Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-black-diamond-6583487.png?v=1778077511
   Price: 5490,00 $ CLP
-- [Caja 50 cápsulas Dark Roast Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/capsulas-nespresso-promocion-mix-intensos-caja-50-u): 50 cápsulas intensas compatibles con Nespresso: Ignite, Terralungo y Blackbird. Café de especialidad reciclable. Despacho a todo Chile.
-  Updated: 2026-11-14T22:01:36Z
-  Vendor: Blackdrop Coffee
-  Product Type: Cafe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-50-capsulas-de-cafe-dark-roast-2429441.webp?v=1778077511
-  Price: 30.990,00 $ CLP
 - [Caja 5 drip coffee Colombia | Blackdrop Coffee](https://blackdrop.cl/products/cafe-grano-drip-colombia): Drip coffee single origin Colombia: afrutado y balanceado, solo agrega agua caliente. 5 sobres de 10 g. Despacho a todo Chile.
-  Updated: 2026-11-14T22:51:26Z
+  Updated: 2026-11-22T20:58:18Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-colombia-5684384.png?v=1778077510
   Price: 5490,00 $ CLP
 - [Caja 50 cápsulas Drop Mix para Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/capsulas-nespresso-promocion-mix-caja-50): 50 cápsulas compatibles con Nespresso: blends de la casa más Colombia y Brasil. Variedad para el día a día. Despacho a todo Chile.
-  Updated: 2026-11-14T21:39:46Z
+  Updated: 2026-11-22T22:44:45Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-50-capsulas-de-cafe-dropmix-9889632.png?v=1778077514
   Price: 30.990,00 $ CLP
 - [Caja 5 drip coffee Etiopía | Blackdrop Coffee](https://blackdrop.cl/products/cafe-grano-drip-etiopia): Drip coffee single origin Etiopía: frutal y floral, café de filtro portátil. 5 sobres de 10 g. Compra online, envío a todo Chile.
-  Updated: 2026-11-14T21:31:36Z
+  Updated: 2026-11-22T23:50:05Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-etiopia-4250684.png?v=1778077509
   Price: 5490,00 $ CLP
 - [Caja 5 drip coffee blend Siena | Blackdrop Coffee](https://blackdrop.cl/products/cafe-grano-drip-siena): Drip coffee del blend Siena: achocolatado y cremoso, perfecto con leche. 5 sobres de 10 g. Compra online, envío a todo Chile.
-  Updated: 2026-11-14T22:51:25Z
+  Updated: 2026-11-22T22:37:36Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-siena-5113675.png?v=1778077509
   Price: 5490,00 $ CLP
 - [Café Black Diamond en grano | Blackdrop Coffee](https://blackdrop.cl/products/cafe-blend-grano-black-diamond): Blend intenso de Brasil y Vietnam: chocolate amargo, pasas tostadas y gran cuerpo. Ideal espresso, moka o con leche. Despacho a todo Chile.
-  Updated: 2026-11-14T23:50:05Z
+  Updated: 2026-11-22T23:19:17Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
@@ -407,7 +393,7 @@
     Availability: Available
     Price: 38.990,00 $ CLP
 - [Café Blend Evolve en grano especialidad | Blackdrop Coffee](https://blackdrop.cl/products/cafe-blend-grano-evolve): Blend de Etiopía, Colombia y Honduras: dulce, con notas a uva y chocolate. Para filtrado o espresso. Compra online, despacho a todo Chile.
-  Updated: 2026-11-14T23:29:17Z
+  Updated: 2026-11-22T22:37:06Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
@@ -429,7 +415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-blend-evolve-1213377.png?v=1778077513
     Price: 38.990,00 $ CLP
 - [Café Blend Siena en grano | Blackdrop Coffee](https://blackdrop.cl/products/cafe-blend-grano-siena): Blend de Honduras y Brasil, tueste alto: intenso, achocolatado y cremoso. Ideal espresso, moka y lattes. Compra online en Blackdrop Chile.
-  Updated: 2026-11-14T23:46:16Z
+  Updated: 2026-11-22T23:50:05Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
@@ -447,26 +433,12 @@
     Availability: Available
     Price: 38.990,00 $ CLP
 - [Aeropress clásica cafetera portátil | Blackdrop Coffee](https://blackdrop.cl/products/aeropress-clasica): Aeropress original: extracción 3 en 1 para espresso, americano o cold brew. Ideal para viajes. Compra online, envío a todo Chile.
-  Updated: 2026-11-14T17:53:46Z
+  Updated: 2026-11-22T18:38:21Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/aeropress-clasica-2262589.webp?v=1778077508
   Price: 46.590,00 $ CLP
-- [Pack 300 cápsulas Dark Roast Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/300-capsulas-black-mix): 300 cápsulas intensas compatibles con Nespresso: Ignite, Blackbird y Terralungo. El formato para los del lado oscuro. Envíos a Chile.
-  Updated: 2026-11-14T22:01:41Z
-  Vendor: Blackdrop Coffee
-  Product Type: Cafe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/darkroast300.webp?v=1759683821
-  Price: 156.546,00 $ CLP
-- [Caja 50 cápsulas de origen para Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/origen-mix-caja-50-u): 50 cápsulas compatibles con Nespresso con cafés de origen: Brasil, Colombia y Etiopía. Café de especialidad. Despacho a todo Chile.
-  Updated: 2026-11-03T12:01:06Z
-  Vendor: Blackdrop Coffee
-  Product Type: Cafe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-50-capsulas-de-cafe-origins-5964968.webp?v=1778077509
-  Price: 32.990,00 $ CLP
 - [Molinillo De Café Pro Titanio](https://blackdrop.cl/products/molinillo-gris-1078): Molinillo de Café de Alta Precisión – Ajustes Versátiles y Muelas de Titanio Mejora tu experiencia cafetera con este exclusivo molinillo de café de alta precisión. Diseñado para ofrecer un amplio rango de ajustes, permite personalizar la molienda de tu café para distintos métodos de preparación, desde espresso hasta prensa francesa. Sus muelas recubiertas de titanio garantizan una mayor durabilidad y consistencia en cada molienda, asegurando extracciones perfectas y un sabor excepcional en cada taza. El siguiente paso para llevar tu café al siguiente nivel. Características: Color gris con detalles dorados. Capacidad de 25 gramos. 24 ajustes de molienda por ronda. Muelas de 38 mm con 6 núcleos recubiertos en titanio. Incluye manual y kit de limpieza.
   Updated: 2026-11-03T12:01:07Z
   Vendor: Blackdrop Coffee
@@ -482,21 +454,21 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/molinillo-de-cafe-blackgrind-3720780.png?v=1778077510
   Price: 59.990,00 $ CLP
 - [Set 2 Tazas Geometric Espresso 80 ML | Blackdrop Coffee](https://blackdrop.cl/products/set-taza-doble-vidrio-80-ml-geometrica): Set 2 Tazas Geometric Espresso 80 ML: doble pared que mantiene la temperatura y realza tu café. 80 ml. Diseño Blackdrop. Compra online, despacho a todo Chile.
-  Updated: 2026-11-14T21:07:31Z
+  Updated: 2026-11-22T20:08:05Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-geometric-espresso-80-ml-1281446.jpg?v=1778077510
   Price: 11.990,00 $ CLP
 - [Caja 5 drip coffee Brasil de especialidad | Blackdrop Coffee](https://blackdrop.cl/products/caja-brasil-5-drip): Drip coffee single origin Brasil: achocolatado y dulce, listo en minutos donde estés. 5 sobres de 10 g. Despacho a todo Chile.
-  Updated: 2026-11-14T23:24:56Z
+  Updated: 2026-11-22T21:26:46Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-brasil-2293705.png?v=1778077509
   Price: 5490,00 $ CLP
 - [Café de Honduras Jóvenes Líderes en grano | Blackdrop Coffee](https://blackdrop.cl/products/caja-honduras-fundacion-227-grs): Café con impacto social: producido por jóvenes de Ocotepeque, Honduras. Versátil para filtrado y espresso. Despacho a todo Chile.
-  Updated: 2026-11-14T22:38:46Z
+  Updated: 2026-11-22T23:52:56Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
@@ -514,21 +486,21 @@
     Availability: Available
     Price: 42.990,00 $ CLP
 - [Café de Costa Rica Las Lajas SL-28](https://blackdrop.cl/products/cafe-costa-rica-las-lajas-sl28): Microlote anaeróbico SL-28 de Las Lajas: notas de amaretto y nib de cacao. Café de especialidad en grano. Despacho a todo Chile.
-  Updated: 2026-11-13T22:08:45Z
+  Updated: 2026-11-21T23:39:33Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-de-costa-rica-las-lajas-sl-28-7052218.png?v=1778077510
   Price: 10.794,00 $ CLP
 - [Caja 10 DRIP Coffee Mountains | Blackdrop Coffee](https://blackdrop.cl/products/pack-10-drip-2024-montanas): Caja 10 DRIP Coffee Mountains: drip coffee de especialidad listo con solo agua caliente, donde estés. Compra online con despacho a todo Chile.
-  Updated: 2026-11-03T12:01:07Z
+  Updated: 2026-11-18T14:35:38Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-10-drip-coffee-mountains-9383273.png?v=1778077511
   Price: 13.990,00 $ CLP
 - [Set 2 Tazas Geometric 250 ML | Blackdrop](https://blackdrop.cl/products/set-tazas-geometric-250-ml): Set 2 Tazas Geometric 250 ML: doble pared que mantiene la temperatura y realza tu café. 250 ml. Diseño Blackdrop. Compra online, despacho a todo Chile.
-  Updated: 2026-11-12T22:00:25Z
+  Updated: 2026-11-21T20:18:26Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
@@ -549,125 +521,90 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/matcha-arandano-35gr-adagio-4973583.jpg?v=1778077392
   Price: 14.990,00 $ CLP
 - [Tumbler Negro | Blackdrop](https://blackdrop.cl/products/tumbler-negro-350-ml): Tumbler Negro: lleva tu café a temperatura perfecta por horas. Termo de 350 ml diseño Blackdrop. Despacho a todo Chile.
-  Updated: 2026-11-14T22:37:47Z
+  Updated: 2026-11-22T22:58:26Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/tumbler-negro-8651660.webp?v=1778077391
-  Price: 19.990,00 $ CLP
+  Price: 18.990,00 $ CLP
 - [Portacápsulas negro para Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/portacapsulas-negro): Organiza tus cápsulas compatibles con Nespresso: portacápsulas metálico vertical, elegante y compacto. Despacho a todo Chile.
-  Updated: 2026-11-13T22:58:16Z
+  Updated: 2026-11-22T23:18:24Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/portacapsulas-negro-2702453.webp?v=1778077390
   Price: 12.990,00 $ CLP
-- [Pack 100 cápsulas Best Sellers Nespresso | Blackdrop](https://blackdrop.cl/products/pack-100-capsulas-blends): Pack de 100 cápsulas con los blends más vendidos de Blackdrop, compatibles con Nespresso. Café de especialidad en formato práctico. Despacho a todo Chile.
-  Updated: 2026-11-14T22:01:41Z
-  Vendor: Blackdrop Coffee
-  Product Type: Cafe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-100-capsulas-nespresso-los-mas-vendidos.jpg?v=1739821388
-  Price: 55.081,00 $ CLP
-- [Pack 100 cápsulas Dark Roast Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/pack-100-capsulas-dark-roast): 100 cápsulas intensas compatibles con Nespresso: Ignite, Blackbird y Terralungo. Crema, cuerpo y potencia. Despacho a todo Chile.
-  Updated: 2026-11-14T22:01:41Z
-  Vendor: Blackdrop Coffee
-  Product Type: Cafe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-100-capsulas-tueste-alto-nespresso.jpg?v=1739821032
-  Price: 55.081,00 $ CLP
-- [Pack 200 cápsulas Dark Roast Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/pack-200-capsulas-dark-roast): 200 cápsulas intensas compatibles con Nespresso: Ignite, Blackbird y Terralungo en formato XL. Despacho a todo Chile.
-  Updated: 2026-11-14T22:01:45Z
-  Vendor: Blackdrop Coffee
-  Product Type: Cafe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-200-capsulas-tueste-alto-nespresso.jpg?v=1739821208
-  Price: 107.263,00 $ CLP
-- [Pack 300 cápsulas Best Sellers Nespresso | Blackdrop](https://blackdrop.cl/products/pack-300-capsulas-blends): Pack de 300 cápsulas con los blends más vendidos de Blackdrop, compatibles con Nespresso. Máximo volumen para casa u oficina. Despacho a todo Chile.
-  Updated: 2026-11-14T22:01:46Z
-  Vendor: Blackdrop Coffee
-  Product Type: Cafe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-300-capsulas-de-cafe.jpg?v=1739820668
-  Price: 156.546,00 $ CLP
 - [Origami Ceramica Negro | Blackdrop Coffee](https://blackdrop.cl/products/dripper-ceramica-origami-negro): Origami Ceramica Negro para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T19:57:07Z
+  Updated: 2026-11-21T18:28:37Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/origami-ceramica-negro-6745154.jpg?v=1778077392
   Price: 14.990,00 $ CLP
 - [Cafetera V60 Roja | Blackdrop Coffee](https://blackdrop.cl/products/dripper-plastico-rojo): Cafetera V60 Roja para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-10T05:28:29Z
+  Updated: 2026-11-21T05:30:44Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafetera-v60-roja-5488982.jpg?v=1778077390
   Price: 7990,00 $ CLP
 - [Set 2 Tazas Cerámica Espresso 80 ML | Blackdrop](https://blackdrop.cl/products/set-taza-doble-ceramica-80-ml-2025): Set de tazas premium ideal para compartir tu café o té favorito. Diseño elegante y duradero. Disponible en Blackdrop.
-  Updated: 2026-11-14T22:26:05Z
+  Updated: 2026-11-22T20:19:26Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-ceramica-espresso-80-ml-2324726.jpg?v=1778077390
   Price: 14.990,00 $ CLP
 - [Taza cappuccino cerámica 230 ml negra | Blackdrop Coffee](https://blackdrop.cl/products/taza-doble-ceramica-230-ml-2025): Taza de cerámica doble pared 230 ml, color negro: ideal para cappuccinos y preparaciones con leche. Compra online, despacho a todo Chile.
-  Updated: 2026-11-11T15:01:59Z
+  Updated: 2026-11-17T16:31:54Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/taza-ceramica-cappuccino-230-ml-negro-7587460.jpg?v=1778077390
   Price: 10.990,00 $ CLP
-- [Pack 100 cápsulas Blends & Orígenes Nespresso | Blackdrop](https://blackdrop.cl/products/pack-blends-origins): Pack de 100 cápsulas compatibles con Nespresso: combina blends de la casa y cafés de origen de especialidad. Variedad en cada taza. Despacho a todo Chile.
-  Updated: 2026-11-14T13:54:16Z
-  Vendor: Blackdrop Coffee
-  Product Type: Cafe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-100-capsulas-blends-origenes-nespresso.jpg?v=1739821851
-  Price: 56.981,00 $ CLP
 - [Server Smoke 600 ML | Blackdrop Coffee](https://blackdrop.cl/products/server-600-ml-negro): Server Smoke 600 ML para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T23:24:36Z
+  Updated: 2026-11-22T23:40:06Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/server-smoke-600-ml-4802429.jpg?v=1778077391
   Price: 13.990,00 $ CLP
 - [Pack 200 cápsulas Drop Mix para Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/pack-200-drop-mix): 200 cápsulas compatibles con Nespresso: cinco variedades para alternar cada día. Formato ahorro. Despacho a todo Chile.
-  Updated: 2026-11-14T13:54:12Z
+  Updated: 2026-11-22T22:44:55Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/PACKCAPSULAS-13.jpg?v=1744399873
   Price: 107.263,00 $ CLP
 - [Pack 100 cápsulas Drop Mix para Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/pack-100-drop-mix): 100 cápsulas compatibles con Nespresso: cinco variedades entre blends y orígenes. Café de especialidad. Despacho a todo Chile.
-  Updated: 2026-11-14T13:54:16Z
+  Updated: 2026-11-22T22:44:52Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/PACKCAPSULAS-12.jpg?v=1744400710
   Price: 55.081,00 $ CLP
 - [BOLSA RECICLAJE CAPSULAS | Blackdrop](https://blackdrop.cl/products/bolsa-reciclaje-capsulas): Pack de café compatible con tu cafetera. Selección de especialidad Blackdrop. Sabor intenso en cada taza. Despacho a todo Chile.
-  Updated: 2026-11-14T22:01:34Z
+  Updated: 2026-11-22T22:44:41Z
   Vendor: Blackdrop Coffee
   Product Type: OTROS PRODUCTOS
   Availability: Available
   Price: 1,00 $ CLP
 - [Origami Ceramica Rojo | Blackdrop Coffee](https://blackdrop.cl/products/dripper-ceramica-origami-rojo): Origami Ceramica Rojo para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-09T16:24:23Z
+  Updated: 2026-11-15T18:10:56Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/origami-ceramica-rojo-6505417.png?v=1778077390
   Price: 14.990,00 $ CLP
 - [Bloom Milk Blend café para leche en grano | Blackdrop Coffee](https://blackdrop.cl/products/milk-blend-grano-molido): Blend cremoso y achocolatado diseñado para lattes y cappuccinos. Café de especialidad en grano, tostado fresco. Despacho a todo Chile.
-  Updated: 2026-11-14T21:01:46Z
+  Updated: 2026-11-21T22:10:17Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capuccino-blend.jpg?v=1782427042
   Price: 10.392,00 $ CLP
 - [Pack 3 Doypacks Best Seller Molido](https://blackdrop.cl/products/pack-3-doypacks-best-seller-molido): Pack de regalo Best Seller molido Este pack reúne los favoritos de todos, los infaltables. Sabores que han cautivado a miles y que hoy presentamos en un regalo que, sin duda, no olvidarán. Incluye: Blend Black Diamond 50g molido Single Origin Colombia 50g molido Single Origin Brasil 50g molido
-  Updated: 2026-11-11T16:09:56Z
+  Updated: 2026-11-16T16:13:47Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
@@ -681,34 +618,34 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/BlackdropGIFPack3.gif?v=1749852099
   Price: 15.990,00 $ CLP
 - [Pack 3 Doypacks Espresso Molido | Blackdrop](https://blackdrop.cl/products/pack-3-doypacks-espresso-molido): Pack de café compatible con tu cafetera. Selección de especialidad Blackdrop. Sabor intenso en cada taza. Despacho a todo Chile.
-  Updated: 2026-11-14T17:41:01Z
+  Updated: 2026-11-22T19:22:16Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/Blackdrop-Ecom-Jun2025-11_200dc6ce-9f16-4ada-b2de-54ca6f66b096.png?v=1749494529
   Price: 15.990,00 $ CLP
 - [Pack 3 Doypacks Latte Grano | Blackdrop Coffee](https://blackdrop.cl/products/pack-3-doypacks-latte-grano): Pack 3 Doypacks Latte Grano: pack de regalo con café de especialidad Blackdrop, listo para sorprender. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T22:50:46Z
+  Updated: 2026-11-22T18:01:02Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/BlackdropGIFPack2.gif?v=1749852133
   Price: 12.792,00 $ CLP
 - [Pack 3 Doypacks Latte Molido | Blackdrop Coffee](https://blackdrop.cl/products/pack-3-doypacks-latte-molido): Pack 3 Doypacks Latte Molido: pack de regalo con café de especialidad Blackdrop, listo para sorprender. Compra online con despacho a todo Chile.
-  Updated: 2026-11-12T17:38:24Z
+  Updated: 2026-11-21T21:11:45Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-3-doypacks-latte-molido-5972545.png?v=1778077389
   Price: 12.792,00 $ CLP
 - [MP - PACK TUMBLER | Blackdrop](https://blackdrop.cl/products/mp-pack-tumbler): Pack tumbler para llevar tu café favorito a cualquier lugar. Diseño moderno y práctico. Encuéntralo en Blackdrop.
-  Updated: 2026-11-14T05:29:31Z
+  Updated: 2026-11-22T05:29:05Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Price: 755,00 $ CLP
 - [MP - CUNA TUMBLER | Blackdrop](https://blackdrop.cl/products/mp-cuna-tumbler): Pack tumbler para llevar tu café favorito a cualquier lugar. Diseño moderno y práctico. Encuéntralo en Blackdrop.
-  Updated: 2026-11-14T05:29:26Z
+  Updated: 2026-11-22T05:29:05Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
@@ -721,27 +658,27 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/filtro-de-cafe-ufo-blackdrop-1734707.png?v=1778077391
   Price: 990,00 $ CLP
 - [Prensa Francesa Doble Vidrio 350 ML | Blackdrop](https://blackdrop.cl/products/prensa-francesa-doble-vidrio-350-ml-2025): Prensa francesa 350 ML para extraer todo el sabor de tu café. Diseño resistente y elegante. Compra en Blackdrop.
-  Updated: 2026-11-04T05:38:50Z
+  Updated: 2026-11-21T05:29:19Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/Prensa_francesa_350ml.png?v=1753716883
   Price: 18.990,00 $ CLP
 - [Prensa Francesa Doble Vidrio 600 ML | Blackdrop](https://blackdrop.cl/products/prensa-francesa-doble-vidrio-600-ml): Prensa francesa 600 ML para extraer todo el sabor de tu café. Diseño resistente y elegante. Compra en Blackdrop.
-  Updated: 2026-11-09T05:29:26Z
+  Updated: 2026-11-18T05:27:56Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-francesa-doble-vidrio-600-ml-2879337.png?v=1778077390
   Price: 21.990,00 $ CLP
 - [MP - PACK PRENSA FRANCESA | Blackdrop](https://blackdrop.cl/products/mp-pack-prensa-francesa): Prensa francesa para extraer todo el sabor de tu café. Diseño resistente y elegante. Compra en Blackdrop.
-  Updated: 2026-11-11T22:23:28Z
+  Updated: 2026-11-22T20:44:27Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Price: 1505,00 $ CLP
 - [MP - CUNA PACK PRENSA FRANCESA | Blackdrop](https://blackdrop.cl/products/mp-cuna-pack-prensa-francesa): Prensa francesa para extraer todo el sabor de tu café. Diseño resistente y elegante. Compra en Blackdrop.
-  Updated: 2026-11-11T22:23:25Z
+  Updated: 2026-11-22T20:44:26Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
@@ -760,28 +697,28 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/tumblermatcha1.png?v=1753285860
   Price: 19.990,00 $ CLP
 - [Texturizador de leche eléctrico USB | Blackdrop Coffee](https://blackdrop.cl/products/texturizador-negro-2025): Espumador de leche recargable por USB: espuma cremosa para lattes y cappuccinos en segundos. Compra online, envío a todo Chile.
-  Updated: 2026-11-14T23:44:46Z
+  Updated: 2026-11-22T20:09:06Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/texturizador-de-leche.png?v=1784577790
   Price: 17.990,00 $ CLP
 - [Cafetera Moka Italiana 2 tazas Plata](https://blackdrop.cl/products/cafetera-moka-italiana-2-tazas-plata): Cafetera Moka Italiana 2 tazas Plata para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-10T15:32:47Z
+  Updated: 2026-11-22T06:56:33Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafetera-moka-italiana-2-tazas-plata-3656926.png?v=1778077389
   Price: 20.990,00 $ CLP
 - [Cafetera Moka Italiana 6 tazas Plata](https://blackdrop.cl/products/cafetera-moka-italiana-6-tazas-plata): Cafetera Moka Italiana 6 tazas Plata para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T21:23:20Z
+  Updated: 2026-11-22T23:05:55Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafetera-moka-italiana-6-tazas-plata-3530681.png?v=1778077390
   Price: 30.990,00 $ CLP
 - [Prensa Francesa Negra Acero 350 ML Cobre | Blackdrop Coffee](https://blackdrop.cl/products/prensa-francesa-negra-acero-350-ml-tapa-cobre): Prensa Francesa Negra Acero 350 ML Cobre para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-09T18:37:15Z
+  Updated: 2026-11-22T07:19:44Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
@@ -795,129 +732,115 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/molinillo-pro-titanio-cobre-5595772.png?v=1778077391
   Price: 79.990,00 $ CLP
 - [Set Regalo Tumbler Térmico + Café Siena](https://blackdrop.cl/products/pack-tumbler-siena): Set regalo con tumbler térmico y café de especialidad Siena. Lleva tu café a todas partes. Un regalo práctico y elegante. Despacho a todo Chile.
-  Updated: 2026-11-14T22:51:36Z
+  Updated: 2026-11-22T23:19:26Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/Pack_Regalo_Siena_1.png?v=1790186196
-  Price: 26.990,00 $ CLP
+  Price: 25.990,00 $ CLP
 - [Set Regalo Tumbler Térmico + Café Brasil](https://blackdrop.cl/products/pack-tumbler-negro-brasil): Set regalo con tumbler térmico y café de especialidad Brasil. Lleva tu café a todas partes. Un regalo práctico y elegante. Despacho a todo Chile.
-  Updated: 2026-11-14T23:25:06Z
+  Updated: 2026-11-22T23:19:25Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/CRI_7615_2.png?v=1790105345
-  Price: 26.990,00 $ CLP
+  Price: 25.990,00 $ CLP
 - [Set Regalo Tumbler Térmico + Café Salted Caramel](https://blackdrop.cl/products/pack-tumbler-verde-siena): Set regalo con tumbler térmico y café Salted Caramel. Lleva tu café de especialidad a todas partes. Un regalo práctico. Despacho a todo Chile.
-  Updated: 2026-11-15T00:22:06Z
+  Updated: 2026-11-22T23:19:25Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/CRI_7615.png?v=1790081606
   Price: 26.990,00 $ CLP
 - [Pack Prensa Francesa Colombia Molido | Blackdrop](https://blackdrop.cl/products/pack-prensa-francesa-brasil-molido): Prensa francesa para extraer todo el sabor de tu café. Diseño resistente y elegante. Compra en Blackdrop.
-  Updated: 2026-11-14T20:36:25Z
+  Updated: 2026-11-22T20:44:35Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-prensa-francesa-colombia-molido-4191322.png?v=1778077340
   Price: 34.990,00 $ CLP
 - [MP - CUNA PACK MOKA | Blackdrop](https://blackdrop.cl/products/mp-cuna-pack-moka): MP - CUNA PACK MOKA disponible en Blackdrop. Café de especialidad y accesorios premium para amantes del buen café. Despacho a todo Chile.
-  Updated: 2026-11-10T15:32:46Z
+  Updated: 2026-11-18T23:25:09Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Price: 1505,00 $ CLP
 - [MP - PACK MOKA | Blackdrop](https://blackdrop.cl/products/mp-pack-moka): MP - PACK MOKA disponible en Blackdrop. Café de especialidad y accesorios premium para amantes del buen café. Despacho a todo Chile.
-  Updated: 2026-11-11T12:18:07Z
+  Updated: 2026-11-18T23:25:07Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Price: 1505,00 $ CLP
 - [Pack Moka Etiopia Molido | Blackdrop Coffee](https://blackdrop.cl/products/pack-moka-etiopia-molido): Pack Moka Etiopia Molido para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T20:45:17Z
+  Updated: 2026-11-20T13:21:33Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-moka-etiopia-molido-4372864.png?v=1778077342
   Price: 36.990,00 $ CLP
 - [Pack Moka Siena Molido | Blackdrop Coffee](https://blackdrop.cl/products/pack-moka-siena-molido): Pack Moka Siena Molido para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T16:06:45Z
+  Updated: 2026-11-20T21:57:58Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-moka-siena-molido-9058066.png?v=1778077338
   Price: 35.990,00 $ CLP
 - [Pack Moka Black Diamond Molido | Blackdrop Coffee](https://blackdrop.cl/products/pack-moka-blackdiamond-molido): Pack Moka Black Diamond Molido para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T05:18:55Z
+  Updated: 2026-11-22T23:19:26Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-moka-black-diamond-molido-8121662.png?v=1778077338
   Price: 35.990,00 $ CLP
 - [Contenedor de café al vacío 500 g | Blackdrop Coffee](https://blackdrop.cl/products/tarro-almacenamiento-negro): Canister de acero inoxidable con sistema vacuum: protege tu café de aire, luz y humedad. 500 g. Despacho a todo Chile.
-  Updated: 2026-11-14T19:26:47Z
+  Updated: 2026-11-22T22:57:15Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/contenedor-de-cafe-vacuum-negro-500g-9668548.webp?v=1778077338
   Price: 22.990,00 $ CLP
 - [Set 2 Tazas Geometric Smoke 250 ML | Blackdrop](https://blackdrop.cl/products/set-taza-doble-vidrio-250-ml-geometrica-smoke): Set de tazas premium ideal para compartir tu café o té favorito. Diseño elegante y duradero. Disponible en Blackdrop.
-  Updated: 2026-11-14T23:11:53Z
+  Updated: 2026-11-23T00:12:37Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-geometric-smoke-250-ml-8993783.png?v=1778077337
   Price: 13.990,00 $ CLP
 - [Taza Cerámica Crema con Aza 300 ML | Blackdrop Coffee](https://blackdrop.cl/products/taza-crema-con-aza-300-ml): Taza Cerámica Crema con Aza 300 ML: doble pared que mantiene la temperatura y realza tu café. 300 ml. Diseño Blackdrop. Compra online, despacho a todo Chile.
-  Updated: 2026-11-11T21:00:21Z
+  Updated: 2026-11-20T19:23:57Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/taza-ceramica-crema-con-aza-300-ml-1719877.png?v=1778077337
   Price: 12.990,00 $ CLP
 - [Prensa Francesa Doble Vidrio Smoke 350 ML | Blackdrop Coffee](https://blackdrop.cl/products/prensa-francesa-doble-vidrio-negro-350-ml): Prensa Francesa Doble Vidrio Smoke 350 ML para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T20:11:26Z
+  Updated: 2026-11-22T23:40:01Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-francesa-doble-vidrio-smoke-350-ml-7752632.png?v=1778077338
   Price: 19.990,00 $ CLP
 - [Prensa Francesa Doble Vidrio Smoke 600 ML | Blackdrop Coffee](https://blackdrop.cl/products/prensa-francesa-doble-vidrio-negro-600-ml): Prensa Francesa Doble Vidrio Smoke 600 ML para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T20:48:16Z
+  Updated: 2026-11-23T00:12:37Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-francesa-doble-vidrio-smoke-600-ml-9844499.png?v=1778077338
   Price: 22.990,00 $ CLP
 - [Prensa Francesa Portatil Negro 450 ML | Blackdrop Coffee](https://blackdrop.cl/products/travel-prensa-negro): Prensa Francesa Portatil Negro 450 ML para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T21:10:46Z
+  Updated: 2026-11-20T21:10:04Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-francesa-portatil-cafe.png?v=1784578700
   Price: 19.990,00 $ CLP
 - [Prensa Francesa Portatil Verde 450 ML | Blackdrop](https://blackdrop.cl/products/travel-prensa-verde): Prensa francesa portátil 450 ML para extraer todo el sabor de tu café. Diseño resistente y elegante. Compra en Blackdrop.
-  Updated: 2026-11-03T12:01:07Z
+  Updated: 2026-11-18T13:55:58Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/E33A8046.png?v=1759418899
   Price: 19.990,00 $ CLP
-- [Pack 200 cápsulas Best Sellers Nespresso | Blackdrop](https://blackdrop.cl/products/pack-200-capsulas-best-sellers): Pack de 200 cápsulas con los blends más vendidos de Blackdrop, compatibles con Nespresso. Café de especialidad de alto volumen. Despacho a todo Chile.
-  Updated: 2026-11-14T22:01:46Z
-  Vendor: Blackdrop Coffee
-  Product Type: Cafe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/blend_origenes200_1.webp?v=1759683652
-  Price: 107.263,00 $ CLP
-- [Pack 200 cápsulas Blends & Orígenes Nespresso | Blackdrop](https://blackdrop.cl/products/200-capsulas-blends-origenes): Pack de 200 cápsulas compatibles con Nespresso: blends de la casa y cafés de origen de especialidad en formato de alto volumen. Despacho a todo Chile.
-  Updated: 2026-11-14T13:54:15Z
-  Vendor: Blackdrop Coffee
-  Product Type: Cafe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/blend_origenes200.webp?v=1759683623
-  Price: 110.963,00 $ CLP
 - [Pack 16 Drip Coffee Single Origin | Blackdrop](https://blackdrop.cl/products/pack-16-drips-rectangular-origen): Caja de Drip Coffee de especialidad Blackdrop. Café de calidad listo en minutos, donde estés. Despacho a todo Chile.
   Updated: 2026-11-05T06:36:20Z
   Vendor: Blackdrop Coffee
@@ -926,41 +849,41 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-navidad-con-cafe-metalica.gif?v=1764550044
   Price: 15.992,00 $ CLP
 - [Set 2 Tazas Cerámica Lungo 150 ML Negro | Blackdrop](https://blackdrop.cl/products/set-taza-doble-ceramica-150-ml-2025): Set de tazas premium ideal para compartir tu café o té favorito. Diseño elegante y duradero. Disponible en Blackdrop.
-  Updated: 2026-11-14T21:25:56Z
+  Updated: 2026-11-22T20:00:05Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-ceramica-lungo-150-ml-negro-4167542.jpg?v=1778077336
   Price: 16.990,00 $ CLP
 - [Pack Moka Evolve Molido | Blackdrop](https://blackdrop.cl/products/pack-moka-evolve-molido): Pack Moka Evolve Molido: café de especialidad seleccionado por Blackdrop. Tostado artesanal, sabor de origen. Despacho a todo Chile.
-  Updated: 2026-11-12T21:42:07Z
+  Updated: 2026-11-22T19:32:25Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Price: 35.990,00 $ CLP
 - [Matcha Latte en polvo 250 g | Blackdrop Coffee](https://blackdrop.cl/products/matcha-latte-250-grs): Matcha latte listo para preparar: energía sostenida, detox y sabor umami. 250 g, endulzado con alulosa. Despacho a todo Chile.
-  Updated: 2026-11-14T22:51:25Z
+  Updated: 2026-11-22T22:36:45Z
   Vendor: Blackdrop Coffee
   Product Type: OTROS PRODUCTOS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/matcha-latte-250-grs-9151458.jpg?v=1778077337
   Price: 10.392,00 $ CLP
 - [Beetroot Cacao Latte en polvo 250 g | Blackdrop Coffee](https://blackdrop.cl/products/beetroot-cacao-latte-250-grs): Latte funcional de betarraga, cacao 60% y jengibre: antioxidante y sin azúcar añadida. 250 g. Compra online, envío a todo Chile.
-  Updated: 2026-11-14T23:29:05Z
+  Updated: 2026-11-22T14:29:35Z
   Vendor: Blackdrop Coffee
   Product Type: OTROS PRODUCTOS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/beetroot-cacao-latte-250-grs-6929940.jpg?v=1778077338
   Price: 10.392,00 $ CLP
 - [Butterfly Pea Latte en polvo 250 g | Blackdrop Coffee](https://blackdrop.cl/products/butterfly-pea-latte-250-grs): Latte azul de flor de guisante y jengibre: antioxidante, dulce y natural. 250 g para preparar con leche. Despacho a todo Chile.
-  Updated: 2026-11-14T23:29:05Z
+  Updated: 2026-11-21T18:14:36Z
   Vendor: Blackdrop Coffee
   Product Type: OTROS PRODUCTOS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/butterfly-pea-latte-250-grs-6290407.jpg?v=1778077339
   Price: 10.392,00 $ CLP
 - [Caja Navidad 25 Cápsulas para Nespresso | Blackdrop](https://blackdrop.cl/products/caja-iman-nav-2025-25-capsulas-nav): Pack de café compatible con tu cafetera. Selección de especialidad Blackdrop. Sabor intenso en cada taza. Despacho a todo Chile.
-  Updated: 2026-11-03T12:01:02Z
+  Updated: 2026-11-17T18:24:55Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
@@ -974,28 +897,28 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/regalo-nespresso-bestseller.gif?v=1764240481
   Price: 26.990,00 $ CLP
 - [Caja 5 Drip Coffee Gota Azul | Blackdrop](https://blackdrop.cl/products/caja-5-drip-gota-azul-nav): Caja de Drip Coffee de especialidad Blackdrop. Café de calidad listo en minutos, donde estés. Despacho a todo Chile.
-  Updated: 2026-11-11T20:34:11Z
+  Updated: 2026-11-22T05:28:45Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/regalo-de-cafe-diseno-gota.gif?v=1764240340
   Price: 7992,00 $ CLP
 - [Caja 5 Drip Coffee Gota Roja](https://blackdrop.cl/products/caja-5-drip-gota-roja-nav): Caja Regalo Gota 5 Drip Coffee Recreando la forma de una gota de café, nace el diseño de este icónico pack de regalo experiencial que incluye 5 drip coffee, una cuidada selección de nuestros Blends y Single Origins más solicitados. Ideal para amigo secreto o para cualquier ocasión que tengas en mente. Incluye: Drip Coffee Blend Siena Drip Coffee Blend Black Diamond Drip Coffee Origen Colombia Drip Coffee Blend Evolve Drip Coffee Origen Brasil UN regalo que marca la diferencia.
-  Updated: 2026-11-14T22:07:36Z
+  Updated: 2026-11-22T15:32:35Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/regalo-drip-coffee_62141a78-93e9-4769-bd4f-9fdebeedd38c.jpg?v=1763999288
   Price: 7992,00 $ CLP
 - [Set 2 Tazas Geometric Smoke 80 ML | Blackdrop Coffee](https://blackdrop.cl/products/set-taza-doble-vidrio-80-ml-geometrica-smoked): Set 2 Tazas Geometric Smoke 80 ML: doble pared que mantiene la temperatura y realza tu café. 80 ml. Diseño Blackdrop. Compra online, despacho a todo Chile.
-  Updated: 2026-11-14T21:19:32Z
+  Updated: 2026-11-22T23:08:05Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-geometric-smoke-80-ml-9679874.png?v=1778077335
   Price: 11.990,00 $ CLP
 - [Set 2 Tazas Geometric Smoke 150 ML | Blackdrop Coffee](https://blackdrop.cl/products/set-taza-doble-vidrio-150-ml-geometrica-smoked): Set 2 Tazas Geometric Smoke 150 ML: doble pared que mantiene la temperatura y realza tu café. 150 ml. Diseño Blackdrop. Compra online, despacho a todo Chile.
-  Updated: 2026-11-14T23:43:45Z
+  Updated: 2026-11-22T20:39:55Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
@@ -1014,63 +937,63 @@
   Availability: Available
   Price: 107,00 $ CLP
 - [Pack Moka Brasil Molido | Blackdrop Coffee](https://blackdrop.cl/products/pack-moka-brasil-molido): Pack Moka Brasil Molido para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T23:16:27Z
+  Updated: 2026-11-22T14:59:21Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-moka-brasil-molido-4428456.png?v=1778077334
   Price: 36.990,00 $ CLP
 - [Pack Prensa Francesa Brasil Molido | Blackdrop Coffee](https://blackdrop.cl/products/pack-prensa-francesa-brasil-molido-1): Pack Prensa Francesa Brasil Molido para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T23:16:27Z
+  Updated: 2026-11-22T20:44:35Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-prensa-francesa-brasil-molido-1864180.png?v=1778077334
   Price: 34.990,00 $ CLP
 - [Pack Prensa Francesa Siena Molido | Blackdrop Coffee](https://blackdrop.cl/products/pack-prensa-francesa-siena-molido): Pack Prensa Francesa Siena Molido para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T20:36:26Z
+  Updated: 2026-11-22T20:44:35Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-prensa-francesa-siena-molido-5836429.png?v=1778077335
   Price: 33.990,00 $ CLP
 - [Pack Prensa Francesa Black Diamond Molido | Blackdrop Coffee](https://blackdrop.cl/products/pack-prensa-francesa-black-diamond-molido): Pack Prensa Francesa Black Diamond Molido para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T20:36:28Z
+  Updated: 2026-11-22T23:19:25Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-prensa-francesa-black-diamond-molido-2428000.png?v=1778077334
   Price: 33.990,00 $ CLP
 - [Set 2 tazas espresso 80 ml blancas | Blackdrop Coffee](https://blackdrop.cl/products/set-taza-doble-ceramica-80-ml-blanca): Set de 2 tazas de cerámica doble pared para espresso, color blanco, 80 ml: mantienen la temperatura y realzan tu café. Despacho a todo Chile.
-  Updated: 2026-11-13T21:18:35Z
+  Updated: 2026-11-22T11:52:04Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-ceramica-espresso-80-ml-blanco-5752290.png?v=1778077335
   Price: 14.990,00 $ CLP
 - [Set 2 tazas lungo 150 ml blancas | Blackdrop Coffee](https://blackdrop.cl/products/set-taza-doble-ceramica-150-ml-blanca): Set de 2 tazas de cerámica doble pared para lungo, color blanco, 150 ml: mantienen la temperatura y realzan tu café. Despacho a todo Chile.
-  Updated: 2026-11-14T13:39:07Z
+  Updated: 2026-11-21T15:03:16Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-ceramica-lungo-150-ml-blanco-7073363.png?v=1778077334
   Price: 16.990,00 $ CLP
 - [Taza cappuccino cerámica 230 ml blanca | Blackdrop Coffee](https://blackdrop.cl/products/taza-doble-ceramica-230-ml-blanca): Taza de cerámica doble pared 230 ml, color blanco: ideal para cappuccinos y preparaciones con leche. Compra online, despacho a todo Chile.
-  Updated: 2026-11-14T23:20:28Z
+  Updated: 2026-11-22T22:06:36Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/taza-ceramica-cappuccino-230-ml-blanco-6467936.png?v=1778077333
   Price: 10.990,00 $ CLP
 - [Prensa Francesa Doble Vidrio 350 ML | Blackdrop Coffee](https://blackdrop.cl/products/prensa-francesa-doble-vidrio-350-ml): Prensa Francesa Doble Vidrio 350 ML para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T20:36:16Z
+  Updated: 2026-11-22T20:44:26Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-francesa-doble-vidrio-350-ml-8548340.png?v=1778077334
   Price: 18.990,00 $ CLP
 - [Prensa Francesa Doble Vidrio 600 ML 2026 | Blackdrop](https://blackdrop.cl/products/prensa-francesa-doble-vidrio-600-ml-1): Prensa francesa 600 ML para extraer todo el sabor de tu café. Diseño resistente y elegante. Compra en Blackdrop.
-  Updated: 2026-11-14T19:38:23Z
+  Updated: 2026-11-22T23:03:17Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
@@ -1084,7 +1007,7 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-amaretto-2056928.png?v=1778077332
   Price: 7990,00 $ CLP
 - [Pack 3 Doypacks Unique Moments Grano | Blackdrop Coffee](https://blackdrop.cl/products/pack-3-doypacks-best-seller-nav-grano): Pack 3 Doypacks Unique Moments Grano: pack de regalo con café de especialidad Blackdrop, listo para sorprender. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T21:15:56Z
+  Updated: 2026-11-20T21:57:58Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
@@ -1098,63 +1021,63 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/CajaNavidad_Grano-Molido_3Variedades_2.png?v=1766487278
   Price: 15.990,00 $ CLP
 - [Cápsulas café Masala Chai para Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/chai-capsulas): Cápsulas saborizadas con especias de chai sobre café de especialidad. Compatibles con Nespresso, 10 un. Despacho a todo Chile.
-  Updated: 2026-11-11T20:27:11Z
+  Updated: 2026-11-20T22:10:46Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-masala-chai-9280745.png?v=1778077332
   Price: 7990,00 $ CLP
 - [Cápsulas café Salted Caramel Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/salted-caramel-capsulas): Cápsulas saborizadas con caramelo salado natural sobre café de Brasil. Compatibles con Nespresso, 10 un. Despacho a todo Chile.
-  Updated: 2026-11-14T15:15:59Z
+  Updated: 2026-11-22T15:14:21Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-salted-caramel-2328986.png?v=1778077333
   Price: 7990,00 $ CLP
 - [Pack 3 Doypacks Triologia Espresso Grano | Blackdrop Coffee](https://blackdrop.cl/products/pack-3-doypacks-espresso-nav-grano): Pack 3 Doypacks Triologia Espresso Grano: pack de regalo con café de especialidad Blackdrop, listo para sorprender. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T21:50:46Z
+  Updated: 2026-11-22T07:16:52Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-3-doypacks-triologia-espresso-grano-3154054.png?v=1778077330
   Price: 12.792,00 $ CLP
 - [Pack 3 Doypacks Triologia Espresso Molido | Blackdrop Coffee](https://blackdrop.cl/products/pack-3-doypacks-espresso-nav-molido): Pack 3 Doypacks Triologia Espresso Molido: pack de regalo con café de especialidad Blackdrop, listo para sorprender. Compra online con despacho a todo Chile.
-  Updated: 2026-11-13T14:01:37Z
+  Updated: 2026-11-22T12:30:13Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-3-doypacks-triologia-espresso-molido-9325231.png?v=1778077331
   Price: 12.792,00 $ CLP
 - [Pack 3 Doypacks Origenes Grano | Blackdrop Coffee](https://blackdrop.cl/products/pack-3-doypacks-nav-origen-grano): Pack 3 Doypacks Origenes Grano: pack de regalo con café de especialidad Blackdrop, listo para sorprender. Compra online con despacho a todo Chile.
-  Updated: 2026-11-10T18:06:59Z
+  Updated: 2026-11-22T05:34:43Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-3-doypacks-origenes-grano-2813594.png?v=1778077331
   Price: 12.792,00 $ CLP
 - [Pack 3 Doypacks Origenes Molido | Blackdrop](https://blackdrop.cl/products/pack-3-doypacks-nav-origen-molido): Pack 3 Doypacks Orígenes Molido Este un exclusivo pack que celebra la diversidad y la esencia del café de especialidad. Incluye tres doypacks de café en grano cuidadosamente seleccionados, para que explores y disfrutes de sabores únicos de diferentes orígenes. Presentado en una elegante caja de cartón duro con cierre magnético y detalles en folia, este diseño único no solo protege la calidad del café, sino que también transforma el pack en un regalo sofisticado y memorable. Incluye 3 doypacks con 50 gramos de café: Single Origin Etiopia Single Origin Colombia Single Origin Brasil
-  Updated: 2026-11-14T21:25:57Z
+  Updated: 2026-11-22T22:06:35Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-3-doypacks-origenes-molido-2002024.png?v=1778077331
   Price: 15.990,00 $ CLP
 - [Pack 5 Doypacks Origenes Grano | Blackdrop Coffee](https://blackdrop.cl/products/pack-5-doypacks-nav-origen-grano): Pack 5 Doypacks Origenes Grano: pack de regalo con café de especialidad Blackdrop, listo para sorprender. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T22:09:27Z
+  Updated: 2026-11-22T19:57:51Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-5-doypacks-origenes-molido-1457904.png?v=1778077330
   Price: 18.392,00 $ CLP
 - [Pack 5 Doypacks Origenes Molido | Blackdrop Coffee](https://blackdrop.cl/products/pack-5-doypacks-nav-origen-molido): Pack 5 Doypacks Origenes Molido: pack de regalo con café de especialidad Blackdrop, listo para sorprender. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T18:59:37Z
+  Updated: 2026-11-22T07:16:55Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-5-doypacks-origenes-molido-6426798.png?v=1778077330
   Price: 18.392,00 $ CLP
 - [Café Cold Brew en grano para extracción en frío | Blackdrop](https://blackdrop.cl/products/cold-brew-grano-molido): Blend para extracción en frío: cafés de Etiopía y Brasil, notas a cacao, dátiles y durazno. Ideal para cold brew. En grano. Despacho a todo Chile.
-  Updated: 2026-11-05T06:34:31Z
+  Updated: 2026-11-18T13:37:29Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
@@ -1168,173 +1091,173 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/leche-de-avena-nude-1-litro-8111903.jpg?v=1778077331
   Price: 3990,00 $ CLP
 - [Café Colombia La Margarita natural | Blackdrop Coffee](https://blackdrop.cl/products/colombia-la-margarita-grano): Microlote natural de 160 h de fermentación: vino tinto, cacao y ciruela. Café en grano de edición limitada. Despacho a todo Chile.
-  Updated: 2026-11-14T20:37:25Z
+  Updated: 2026-11-19T22:05:34Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/colombia-la-margarita-8274607.png?v=1778077329
   Price: 14.990,00 $ CLP
 - [Café Gesha La Floresta honey, Colombia | Blackdrop Coffee](https://blackdrop.cl/products/colombia-la-floresta): Ganador Taza de la Excelencia Tolima 2025: Gesha honey floral y cítrico, final limpio. Café en grano Black Series. Despacho a todo Chile.
-  Updated: 2026-11-14T20:42:01Z
+  Updated: 2026-11-22T22:11:14Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/colombia-la-floresta-1728721.png?v=1778077330
   Price: 11.992,00 $ CLP
 - [Set De 4 Bombillas | Blackdrop Coffee](https://blackdrop.cl/products/set-de-4-bombillas): Set De 4 Bombillas en Blackdrop: café de especialidad y accesorios. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T18:01:05Z
+  Updated: 2026-11-22T23:03:15Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-de-4-bombillas-8468679.jpg?v=1778077329
   Price: 4990,00 $ CLP
 - [Set De 4 Vasos Ice Coffee 400 Ml | Blackdrop Coffee](https://blackdrop.cl/products/set-de-4-vasos-cold-brew): Set De 4 Vasos Ice Coffee 400 Ml: doble pared que mantiene la temperatura y realza tu café. 400 ml. Diseño Blackdrop. Compra online, despacho a todo Chile.
-  Updated: 2026-11-12T19:56:26Z
+  Updated: 2026-11-22T23:03:25Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-de-4-vasos-ice-coffee-400-ml-2677888.jpg?v=1778077330
   Price: 14.990,00 $ CLP
 - [Café Salted Caramel molido, saborizado | Blackdrop Coffee](https://blackdrop.cl/products/salted-caramel-grano-molido): Café de especialidad de Brasil con esencia natural de caramelo salado: dulce y cremoso. Molido 227 g. Compra online, envío a todo Chile.
-  Updated: 2026-11-14T22:40:31Z
+  Updated: 2026-11-22T18:47:56Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-sabor-salted-caramel-1456800.png?v=1778077329
   Price: 12.990,00 $ CLP
 - [Café sabor Vainilla molido, saborizado | Blackdrop Coffee](https://blackdrop.cl/products/vainilla-grano-molido): Café de especialidad de Brasil con esencia natural de vainilla: suave, dulce y aromático. Molido 227 g. Despacho a todo Chile.
-  Updated: 2026-11-15T00:21:57Z
+  Updated: 2026-11-22T23:14:16Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-sabor-vainilla-4243331.png?v=1778077330
   Price: 12.990,00 $ CLP
 - [Café Masala Chai molido | Blackdrop Coffee](https://blackdrop.cl/products/masala-chai-grano-molido): Café de especialidad de Brasil con auténtico masala chai: especiado y envolvente, ideal con leche. Molido 227 g. Despacho a todo Chile.
-  Updated: 2026-11-14T21:17:27Z
+  Updated: 2026-11-22T23:52:56Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-sabor-masala-chai-7468949.png?v=1778077329
   Price: 12.990,00 $ CLP
 - [Caja 5 drip coffee blend Evolve | Blackdrop Coffee](https://blackdrop.cl/products/caja-evolve-5-drip): Drip coffee del blend Evolve: dulce y achocolatado, listo con solo agua. 5 sobres de 10 g de especialidad. Despacho a todo Chile.
-  Updated: 2026-11-14T23:00:57Z
+  Updated: 2026-11-22T23:22:46Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/EVOLVE.png?v=1784748558
   Price: 5490,00 $ CLP
 - [Caja 5 drip coffee Masala Chai | Blackdrop Coffee](https://blackdrop.cl/products/caja-masala-chai-5-drip): Drip coffee saborizado Masala Chai: café especiado listo en minutos. 5 sobres de 10 g. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T20:58:46Z
+  Updated: 2026-11-21T20:25:17Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-masala-chai-5809872.png?v=1778077327
   Price: 5490,00 $ CLP
 - [Caja 5 drip coffee Salted Caramel | Blackdrop Coffee](https://blackdrop.cl/products/caja-salted-caramel-5-drip): Drip coffee saborizado a caramelo salado: dulce y cremoso, solo agrega agua. 5 sobres de 10 g. Despacho a todo Chile.
-  Updated: 2026-11-15T00:21:54Z
+  Updated: 2026-11-22T23:05:56Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-salted-caramel-1374419.png?v=1778077327
   Price: 5490,00 $ CLP
 - [Caja 5 drip coffee Vainilla | Blackdrop Coffee](https://blackdrop.cl/products/caja-vainilla-5-drip): Drip coffee saborizado a vainilla natural: suave y aromático, listo donde estés. 5 sobres de 10 g. Despacho a todo Chile.
-  Updated: 2026-11-14T23:29:06Z
+  Updated: 2026-11-22T23:05:55Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-vainilla-4581887.png?v=1778077328
   Price: 5490,00 $ CLP
 - [Tumbler Verde We Are Coffee People | Blackdrop](https://blackdrop.cl/products/tumbler-verde-we-are-coffee-people): Pack tumbler para llevar tu café favorito a cualquier lugar. Diseño moderno y práctico. Encuéntralo en Blackdrop.
-  Updated: 2026-11-14T15:32:46Z
+  Updated: 2026-11-22T20:40:35Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/tumblerverdeWACP.png?v=1770662225
-  Price: 19.990,00 $ CLP
+  Price: 18.990,00 $ CLP
 - [Tumbler Negro Dibujo Taza | Blackdrop Coffee](https://blackdrop.cl/products/tumbler-negro-dibujo): Tumbler Negro Dibujo Taza: doble pared que mantiene la temperatura y realza tu café. Diseño Blackdrop. Compra online, despacho a todo Chile.
-  Updated: 2026-11-14T21:10:56Z
+  Updated: 2026-11-22T23:19:15Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/tumbler-negro-dibujo-taza-4993622.png?v=1778077328
-  Price: 19.990,00 $ CLP
+  Price: 18.990,00 $ CLP
 - [BOLSA DE COMPRA M 2025 | Blackdrop](https://blackdrop.cl/products/bolsa-de-compra-m-2025-2): Bolsa de compra reutilizable Blackdrop, diseño resistente y minimalista. Lleva tu café y accesorios con estilo. Envío a todo Chile.
-  Updated: 2026-11-03T12:01:08Z
+  Updated: 2026-11-18T12:18:24Z
   Vendor: Blackdrop Coffee
   Product Type: OTROS PRODUCTOS
   Availability: Available
-  Price: 1,00 $ CLP
+  Price: 300,00 $ CLP
 - [Set 2 Tazas 150 Ml Nova Amber | Blackdrop Coffee](https://blackdrop.cl/products/set-taza-nova-150-ml-ambar): Set 2 Tazas 150 Ml Nova Amber: doble pared que mantiene la temperatura y realza tu café. 150 ml. Diseño Blackdrop. Compra online, despacho a todo Chile.
-  Updated: 2026-11-14T23:15:06Z
+  Updated: 2026-11-21T13:15:56Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-150-ml-nova-amber-2795989.jpg?v=1778077327
   Price: 13.990,00 $ CLP
 - [Set 2 Tazas 150 Ml Nova Smoke | Blackdrop Coffee](https://blackdrop.cl/products/set-taza-nova-150-ml-smoke): Set 2 Tazas 150 Ml Nova Smoke: doble pared que mantiene la temperatura y realza tu café. 150 ml. Diseño Blackdrop. Compra online, despacho a todo Chile.
-  Updated: 2026-11-14T16:52:02Z
+  Updated: 2026-11-23T00:12:36Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-150-ml-nova-smoke-7209588.jpg?v=1778077328
   Price: 13.990,00 $ CLP
 - [Taza Nova 250 Ml Amber | Blackdrop Coffee](https://blackdrop.cl/products/taza-nova-250-ml-ambar): Taza Nova 250 Ml Amber: doble pared que mantiene la temperatura y realza tu café. 250 ml. Diseño Blackdrop. Compra online, despacho a todo Chile.
-  Updated: 2026-11-12T15:29:01Z
+  Updated: 2026-11-19T17:53:12Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/taza-nova-250-ml-amber-9079811.png?v=1778077327
   Price: 7990,00 $ CLP
 - [Taza Nova 250 Ml Smoke | Blackdrop Coffee](https://blackdrop.cl/products/taza-nova-250-ml-smoke): Taza Nova 250 Ml Smoke: doble pared que mantiene la temperatura y realza tu café. 250 ml. Diseño Blackdrop. Compra online, despacho a todo Chile.
-  Updated: 2026-11-14T22:26:34Z
+  Updated: 2026-11-22T18:26:45Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/taza-nova-250-ml-smoke-4154055.png?v=1778077128
   Price: 7990,00 $ CLP
 - [Taza Block 190 ML Negra | Blackdrop Coffee](https://blackdrop.cl/products/taza-negra-plastic-190-ml): Taza Block 190 ML Negra: doble pared que mantiene la temperatura y realza tu café. 190 ml. Diseño Blackdrop. Compra online, despacho a todo Chile.
-  Updated: 2026-11-14T22:37:21Z
+  Updated: 2026-11-22T12:30:17Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/taza-block-190-ml-negra-2909664.jpg?v=1778077129
   Price: 10.392,00 $ CLP
 - [Taza Block 190 ML Blanca | Blackdrop Coffee](https://blackdrop.cl/products/taza-blanca-plastic-190-ml): Taza Block 190 ML Blanca: doble pared que mantiene la temperatura y realza tu café. 190 ml. Diseño Blackdrop. Compra online, despacho a todo Chile.
-  Updated: 2026-11-14T22:38:34Z
+  Updated: 2026-11-22T16:51:17Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/taza-block-190-ml-blanca-5455361.jpg?v=1778077129
   Price: 10.392,00 $ CLP
 - [Prensa Francesa Portatil Rojo 450 ML | Blackdrop Coffee](https://blackdrop.cl/products/prensa-portatil-rojo-450-ml): Prensa Francesa Portatil Rojo 450 ML para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-03T12:01:04Z
+  Updated: 2026-11-21T21:05:26Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-francesa-portatil-rojo-450-ml-8179818.jpg?v=1778077130
   Price: 19.990,00 $ CLP
 - [Caja 10 Drip Coffee Best Seller | Blackdrop Coffee](https://blackdrop.cl/products/caja-10-drip-best-seller-2026): Caja 10 Drip Coffee Best Seller: drip coffee de especialidad listo con solo agua caliente, donde estés. Compra online con despacho a todo Chile.
-  Updated: 2026-11-03T12:01:09Z
+  Updated: 2026-11-18T14:35:38Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-10-drip-coffee-best-seller-4020547.jpg?v=1778077149
   Price: 13.990,00 $ CLP
 - [Bolsa de compra reutilizable S | Blackdrop Coffee](https://blackdrop.cl/products/bolsa-de-compra-s-2026): Bolsa de compra reutilizable Blackdrop talla S: resistente, con diseño minimalista, para llevar tu café con estilo. Despacho a todo Chile.
-  Updated: 2026-11-14T23:16:16Z
+  Updated: 2026-11-22T23:11:05Z
   Vendor: Blackdrop Coffee
   Product Type: OTROS PRODUCTOS
   Availability: Available
-  Price: 300,00 $ CLP
+  Price: 200,00 $ CLP
 - [Bolsa de compra reutilizable M | Blackdrop Coffee](https://blackdrop.cl/products/bolsa-de-compra-m-2026): Bolsa de compra reutilizable Blackdrop talla M: resistente, con diseño minimalista, para llevar tu café con estilo. Despacho a todo Chile.
-  Updated: 2026-11-14T23:46:16Z
+  Updated: 2026-11-22T23:57:56Z
   Vendor: Blackdrop Coffee
   Product Type: OTROS PRODUCTOS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/bolsa-regalo-cafe.png?v=1785763681
-  Price: 500,00 $ CLP
+  Price: 300,00 $ CLP
 - [Café de Perú en grano de especialidad | Blackdrop Coffee](https://blackdrop.cl/products/cafe-origen-peru): Single origin Pangoa, Perú: achocolatado y especiado, cuerpo cremoso. Café en grano o molido, tostado en Chile. Despacho a todo el país.
-  Updated: 2026-11-14T23:41:35Z
+  Updated: 2026-11-22T22:33:45Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
@@ -1352,14 +1275,14 @@
     Availability: Available
     Price: 42.990,00 $ CLP
 - [Set 2 tazas Minimal 300 ML | Blackdrop Coffee](https://blackdrop.cl/products/set-taza-minimal-300-ml): Set 2 tazas Minimal 300 ML: doble pared que mantiene la temperatura y realza tu café. 300 ml. Diseño Blackdrop. Compra online, despacho a todo Chile.
-  Updated: 2026-11-14T19:28:26Z
+  Updated: 2026-11-21T23:15:11Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-minimal-300-ml-1231377.webp?v=1778919308
   Price: 9990,00 $ CLP
 - [Taza Block 130 ML Negra | Blackdrop Coffee](https://blackdrop.cl/products/taza-negra-plastic-130-ml): Taza Block 130 ML Negra: doble pared que mantiene la temperatura y realza tu café. 130 ml. Diseño Blackdrop. Compra online, despacho a todo Chile.
-  Updated: 2026-11-14T19:15:56Z
+  Updated: 2026-11-22T19:37:08Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
@@ -1398,7 +1321,7 @@
   Availability: Available
   Price: 0,00 $ CLP
 - [Caja 10 Drip Rituals Never Change | Blackdrop Coffee](https://blackdrop.cl/products/caja-10-drip-ddp-2026): Caja 10 Drip Rituals Never Change: drip coffee de especialidad listo con solo agua caliente, donde estés. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T22:00:46Z
+  Updated: 2026-11-22T21:32:26Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
@@ -1412,160 +1335,160 @@
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-16-drip-feliz-dia-papa-1921552.jpg?v=1781114589
   Price: 15.992,00 $ CLP
 - [Caja 10 Drip Coffee Origenes | Blackdrop Coffee](https://blackdrop.cl/products/caja-10-drip-origenes-2026): Caja 10 Drip Coffee Origenes: drip coffee de especialidad listo con solo agua caliente, donde estés. Compra online con despacho a todo Chile.
-  Updated: 2026-11-13T18:33:26Z
+  Updated: 2026-11-20T17:46:46Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/10_drips_origen_2026.png?v=1785936771
   Price: 13.990,00 $ CLP
 - [Pack 3 doypacks Rituals en grano | Blackdrop Coffee](https://blackdrop.cl/products/pack-3-doypacks-ddp-grano): Pack de regalo con tres cafés de especialidad en grano: Siena, Brasil y Black Diamond, 50 g c/u. Caja con cierre magnético. Despacho a todo Chile.
-  Updated: 2026-11-14T14:06:02Z
+  Updated: 2026-11-22T05:11:17Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-3-doypacks-feliz-dia-papa-grano-5560933.jpg?v=1781197451
   Price: 12.792,00 $ CLP
 - [Pack 3 doypacks Rituals molido | Blackdrop Coffee](https://blackdrop.cl/products/pack-3-doypacks-ddp-molido): Pack de regalo con tres cafés de especialidad molidos: Siena, Brasil y Black Diamond, 50 g c/u. Caja con cierre magnético. Despacho a todo Chile.
-  Updated: 2026-11-11T20:31:52Z
+  Updated: 2026-11-22T23:10:35Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-3-doypacks-feliz-dia-papa-molido-5689117.jpg?v=1781197452
   Price: 12.792,00 $ CLP
 - [Pack Prensa Francesa Perú Molido](https://blackdrop.cl/products/pack-prensa-francesa-siena-molido-1)
-  Updated: 2026-11-14T20:36:26Z
+  Updated: 2026-11-22T20:44:34Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Price: 34.990,00 $ CLP
 - [Pack 3 Doypacks A Daily Pause Molido | Blackdrop Coffee](https://blackdrop.cl/products/pack-3-doypacks-ddm-molido): Pack 3 Doypacks A Daily Pause Molido: pack de regalo con café de especialidad Blackdrop, listo para sorprender. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T20:46:15Z
+  Updated: 2026-11-22T16:16:35Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-de-sabores-suaves-de-cafe.png?v=1785763136
   Price: 12.792,00 $ CLP
 - [Pack 3 Doypacks Best Seller Grano | Blackdrop Coffee](https://blackdrop.cl/products/pack-3-doypacks-best-seller-grano-26): Pack 3 Doypacks Best Seller Grano: pack de regalo con café de especialidad Blackdrop, listo para sorprender. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T21:22:02Z
+  Updated: 2026-11-22T22:58:25Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/bestsellers3un_1ed05472-d48c-4470-b23a-4fe7f3c53137.png?v=1782839692
   Price: 12.792,00 $ CLP
 - [Pack 3 doypacks Best Seller molido | Blackdrop Coffee](https://blackdrop.cl/products/pack-3-doypacks-best-seller-molido-26): Trilogía Blackdrop molida: Black Diamond, Colombia y Brasil, 50 g c/u. Un viaje de sabor para regalar. Compra online, despacho a todo Chile.
-  Updated: 2026-11-14T22:47:03Z
+  Updated: 2026-11-22T20:39:06Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/bestsellers3un_78484191-b59c-4cf9-bd2f-4b86e3d62538.png?v=1784055371
   Price: 12.792,00 $ CLP
 - [Cafetera V60 Negra | Blackdrop Coffee](https://blackdrop.cl/products/dripper-plastico-negro): Cafetera V60 Negra para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T23:05:26Z
+  Updated: 2026-11-22T20:20:16Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/v60-dripper-negro.png?v=1784554005
   Price: 7990,00 $ CLP
 - [Cápsulas café Pistacho para Nespresso | Blackdrop Coffee](https://blackdrop.cl/products/pistacho-capsulas): Cápsulas saborizadas con notas naturales de pistacho sobre café de Brasil. Compatibles con Nespresso, 10 un. Despacho a todo Chile.
-  Updated: 2026-11-03T12:01:08Z
+  Updated: 2026-11-17T15:56:21Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/73754e1ae0ed365e1c728780.png?v=1785771792
   Price: 7990,00 $ CLP
 - [Prensa Francesa Portatil Crema 450 ML | Blackdrop Coffee](https://blackdrop.cl/products/prensa-portatil-crema-450-ml): Prensa Francesa Portatil Crema 450 ML para preparar café de especialidad en casa: diseño funcional y elegante. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T23:05:25Z
+  Updated: 2026-11-22T19:32:25Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-portatil-de-cafe.png?v=1784577566
-  Price: 19.990,00 $ CLP
+  Price: 20.990,00 $ CLP
 - [Molinillo Black Copper Pro HX manual | Blackdrop Coffee](https://blackdrop.cl/products/molinillo-cobre-hx-1012g): Molinillo manual con muelas cónicas de acero 420 (38 mm) y 180+ ajustes: de espresso a prensa francesa. Despacho a todo Chile.
-  Updated: 2026-11-14T18:25:06Z
+  Updated: 2026-11-21T22:18:56Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/Molinillo-de-cafe.png?v=1785762866
   Price: 89.990,00 $ CLP
 - [Pack Origen Journey Molido 5 Doypack](https://blackdrop.cl/products/pack-origen-journey-molido-5-doypacks): Pack Origen Journey Molido 5 Doypack: pack de regalo con café de especialidad Blackdrop, listo para sorprender. Compra online con despacho a todo Chile.
-  Updated: 2026-11-14T14:09:15Z
+  Updated: 2026-11-22T05:28:55Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-para-regalar-origenes.png?v=1786719201
   Price: 18.392,00 $ CLP
 - [Pack Origen Journey Grano 5 Doypacks | Blackdrop Coffee](https://blackdrop.cl/products/pack-5-doypacks-origen-journey-grano): Pack Origen Journey Grano 5 Doypacks: pack de regalo con café de especialidad Blackdrop, listo para sorprender. Compra online con despacho a todo Chile.
-  Updated: 2026-11-10T17:22:26Z
+  Updated: 2026-11-21T18:09:47Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-regalo-caf_s.png?v=1786718646
   Price: 18.392,00 $ CLP
 - [Caja 24 Drip Coffee Signature](https://blackdrop.cl/products/caja-24-drip-negra): Signature Drip Coffee Te presentamos una nueva forma de disfrutar el café: una caja metálica de autor que reúne 24 experiencias en formato Drip Coffee. Una completa selección de Single Origins y Blends, con perfiles dulces, achocolatados, cítricos y cremosos. Un recorrido por reconocidos orígenes como Etiopía, Colombia y Brasil, junto a blends de autor que representan el carácter de Blackdrop. Una caja diseñada para descubrir distintos cafés según cada ocasión, gusto y momento. Y lo mejor, solo necesitas agua para prepararlos. La versatilidad del Drip Coffee permite disfrutar un café de especialidad de manera fácil, práctica y sin complicaciones. Experimenta el diseño hecho café. Incluye 4 Drip Coffee Black Diamond 4 Drip Coffee Etiopía 4 Drip Coffee Siena 4 Drip Coffee Brasil 4 Drip Coffee Evolve 4 Drip Coffee Colombia Disfruta una completa rueda de sabores, lista para preparar.
-  Updated: 2026-11-14T20:23:36Z
+  Updated: 2026-11-21T20:37:06Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/drip-coffee-super-regalo_710e6f94-8bdd-4b22-bca8-aca543b05652.png?v=1786561575
   Price: 28.990,00 $ CLP
 - [Moka Only Joke x Blackdrop, arte y café | Blackdrop Coffee](https://blackdrop.cl/products/moka-6-cups-only-joke): Cafetera moka de colección diseñada por Camilo Huinca: arte chileno y café en una pieza única. Compra online, envío a todo Chile.
-  Updated: 2026-11-13T21:22:26Z
+  Updated: 2026-11-21T18:18:14Z
   Vendor: Blackdrop Coffee
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/moka_onlyjoke_83662167-bd30-421d-8b00-5f96d2b0f3b8.jpg?v=1786545411
   Price: 30.990,00 $ CLP
 - [Café Etiopía Gerba lavado Black Series | Blackdrop Coffee](https://blackdrop.cl/products/caja-etiopia-gerba-wash-100-grs-grano): Primer Etiopía de la línea Black Series: lote de Guji procesado en Gerba. Claridad, elegancia y profundidad. Grano 100 g. Envíos a Chile.
-  Updated: 2026-11-14T22:25:57Z
+  Updated: 2026-11-21T22:05:26Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/etiopiablackseries_f50674ed-7e7d-4e4f-84a8-18b377bfea09.png?v=1786043756
   Price: 11.992,00 $ CLP
 - [Blend Only Joke x Blackdrop café en grano | Blackdrop Coffee](https://blackdrop.cl/products/caja-only-joke-227-grs-grano): Blend colaborativo con Only Joke: Honduras y Etiopía, dulce y achocolatado. Edición de arte y café chileno. Despacho a todo Chile.
-  Updated: 2026-11-14T17:33:48Z
+  Updated: 2026-11-22T20:04:16Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/blend_onlyjoke_ae8dc237-1237-48fb-b4e9-87a7b6c0b569.webp?v=1786720203
   Price: 12.990,00 $ CLP
 - [Pack 3 Orígenes en Grano (3 x 227g)](https://blackdrop.cl/products/pack-3-origenes-227-grs-grano): Explora la diversidad de Blackdrop Coffee con tres cafés de origen único seleccionados cuidadosamente. Cada origen ofrece un perfil de sabor distintivo, desde las notas florales de Etiopía hasta la suavidad balanceada de Colombia y la riqueza de Brasil. Incluye: Etiopía 227 g en grano Colombia 227 g en grano Brasil 227 g en grano Ideal para descubrir tus orígenes favoritos y comparar características de cada región cafetera.
-  Updated: 2026-11-14T23:31:36Z
+  Updated: 2026-11-22T23:33:05Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/origenes.png?v=1786738004
   Price: 35.675,00 $ CLP
 - [Pack 3 Blends en Grano (3 x 227g)](https://blackdrop.cl/products/pack-3-blends-en-grano-3-x-227g): Explora la diversidad de Blackdrop Coffee con tres blends cuidadosamente seleccionados. Cada uno presenta un perfil de sabor único que refleja la maestría en la combinación de orígenes, desde perfiles más florales y delicados hasta opciones más robustas y equilibradas. Incluye: Siena 227 g en grano Evolve 227 g en grano Black Diamond 227 g en grano Ideal para descubrir cuál blend se adapta mejor a tu paladar y comparar las características de cada combinación.
-  Updated: 2026-11-14T23:50:16Z
+  Updated: 2026-11-22T23:11:05Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/blends.png?v=1786739778
   Price: 33.125,00 $ CLP
 - [Pack 3 Best Sellers en Grano (3 x 227g)](https://blackdrop.cl/products/pack-3-best-sellers-en-grano-3-x-227g): Descubre los favoritos de Blackdrop Coffee con este pack de tres best sellers en grano. Incluye dos orígenes puros y un blend exclusivo, cada uno con un perfil de sabor distintivo: Siena 227 g en grano Evolve 227 g en grano Black Diamond 227 g en grano Perfecto para explorar la diversidad de nuestro catálogo y encontrar tu favorito. Compara notas, aromas y cuerpo en cada taza.
-  Updated: 2026-11-14T23:26:47Z
+  Updated: 2026-11-22T23:33:06Z
   Vendor: Blackdrop Coffee
   Product Type: Cafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/bestsellers_53242b36-260b-4706-b3d5-39fe729ae8d5.png?v=1786740225
   Price: 34.825,00 $ CLP
 - [Pack 3 Doypacks A Daily Pause Grano](https://blackdrop.cl/products/pack-3-doypacks-ddm-grano): Pack 3 Doypacks A Daily Pause Grano Pack de regalo de café molido ideal para acompañar tus momentos de pausa. Daily Pause reúne Blends y Single Origins de Blackdrop Coffee, Siena, Etiopía y Evolve, con caracteres distintos, perfiles suaves, florales e intensos, para que cada día tenga su propia taza. Un set de café molido perfecto para regalar o regalarte, solo abre, prepara y disfruta una pausa sin complicaciones. Ideal como regalo de café para mujer, detalle de cumpleaños o pack de café para amantes del buen café. Blend Siena 50g Grano Etiopía 50g Grano Blend Evolve 50g Grano Drink Good Coffee.
-  Updated: 2026-11-14T22:44:05Z
+  Updated: 2026-11-22T19:45:25Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/mujer-cafetera_d26e7287-d2ff-46f8-bfb6-13da7c33a695.png?v=1787766724
   Price: 12.792,00 $ CLP
 - [BOLSA DE COMPRA S](https://blackdrop.cl/products/bolsa-de-compra-s-2026-2)
-  Updated: 2026-11-14T23:44:45Z
+  Updated: 2026-11-22T23:52:56Z
   Vendor: Blackdrop Coffee
   Product Type: OTROS PRODUCTOS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0784/1395/5354/files/bolsa-de-regalo_8c1756e6-8a2b-41a1-a27e-71d4ad3f29b4.png?v=1789403131
-  Price: 300,00 $ CLP
+  Price: 200,00 $ CLP
 - [Caja 16 Drip Coffee Best Seller](https://blackdrop.cl/products/pack-16-drips-rectangular-best-seller): Caja 16 Drip Best SellerUna caja con 16 drip coffees, cinco perfiles distintos seleccionados por nuestros baristas. Preparado donde quiera, con agua caliente, sin ceder en criterio.Para quienes viven intensamente y buscan mejores momentos sin complicaciones.Incluye:3 Drip Coffee Siena3 Drip Coffee Black Diamond4 Drip Coffee Brasil3 Drip Coffee Colombia3 Drip Coffee EtiopíaCada sachet contiene 10 g de café de especialidad, tostado y molido a la medida perfecta para extracción inmediata.
-  Updated: 2026-11-14T23:18:41Z
+  Updated: 2026-11-22T23:33:56Z
   Vendor: Blackdrop Coffee
   Product Type: Regalos
   Availability: Available
@@ -1576,200 +1499,200 @@
 ## Collections
 
 - [CAFÉ MOLIDO & GRANO](https://blackdrop.cl/collections/cafe-molido-grano): Compra café molido y en grano en Blackdrop Coffee. Encuentra blends, orígenes y opciones para cada tipo de preparación.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 38
 - [CÁPSULAS COMPATIBLES CON NESPRESSO](https://blackdrop.cl/collections/capsulas): Descubre cápsulas compatibles con Nespresso en Blackdrop Coffee, con gran sabor, aroma y variedad para disfrutar en casa.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 57
 - [DRIP COFFEE](https://blackdrop.cl/collections/drip): Compra Drip Coffee en Blackdrop Coffee y disfruta café de filtro individual, práctico, aromático y perfecto para cualquier momento.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 59
 - [CAFETERAS](https://blackdrop.cl/collections/cafeteras): Descubre cafeteras en Blackdrop Coffee para preparar café con el método que prefieras y disfrutar mejor cada taza.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 22
 - [REGALOS](https://blackdrop.cl/collections/regalos): Encuentra regalos para amantes del café en Blackdrop Coffee, con opciones originales para sorprender en cualquier ocasión.
-  Updated: 2026-11-14T12:11:44Z
-  Total Products: 76
+  Updated: 2026-11-22T12:11:26Z
+  Total Products: 84
 - [TAZAS](https://blackdrop.cl/collections/tazas): Explora tazas para café en Blackdrop Coffee, perfectas para disfrutar tus preparaciones favoritas con estilo y comodidad.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 53
 - [MOLINILLOS](https://blackdrop.cl/collections/molinos): Descubre molinillos de café en Blackdrop Coffee para obtener una molienda fresca y mejorar el sabor en cada preparación.
-  Updated: 2026-11-14T12:11:44Z
-  Total Products: 7
+  Updated: 2026-11-22T12:11:25Z
+  Total Products: 9
 - [OTROS](https://blackdrop.cl/collections/otros): Explora otros productos de Blackdrop Coffee y encuentra cafés, accesorios y opciones especiales para complementar tu experiencia cafetera.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-18T12:13:12Z
   Total Products: 25
 - [PREPARACIÓN](https://blackdrop.cl/collections/preparacion): Encuentra accesorios de preparación de café en Blackdrop Coffee y disfruta una experiencia más completa en cada taza.
-  Updated: 2026-11-14T12:11:44Z
-  Total Products: 20
+  Updated: 2026-11-22T12:11:25Z
+  Total Products: 22
 - [FILTROS](https://blackdrop.cl/collections/filtros): Encuentra filtros para café en Blackdrop Coffee y mejora tu preparación con accesorios ideales para disfrutar un café con mejor sabor y resultado.
-  Updated: 2026-11-14T12:11:42Z
+  Updated: 2026-11-22T12:11:25Z
   Total Products: 3
 - [TERMOS](https://blackdrop.cl/collections/termos): Descubre termos para café en Blackdrop Coffee, ideales para mantener tu bebida caliente por más tiempo con diseño y funcionalidad.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:25Z
   Total Products: 8
 - [ACCESORIOS](https://blackdrop.cl/collections/accesorios): Explora accesorios para café en Blackdrop Coffee y mejora tu experiencia con productos funcionales y de gran diseño.
-  Updated: 2026-11-14T20:43:50Z
-  Total Products: 121
+  Updated: 2026-11-22T12:11:26Z
+  Total Products: 123
 - [   //](https://blackdrop.cl/collections/)
-  Updated: 2026-11-14T22:02:17Z
-  Total Products: 66
+  Updated: 2026-11-22T12:11:26Z
+  Total Products: 58
 - [Día de la Mama](https://blackdrop.cl/collections/mama): Encuentra regalos para el Día de la Madre en Blackdrop Coffee, con café, accesorios y detalles especiales para celebrar.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:25Z
   Total Products: 22
 - [Blackcyber](https://blackdrop.cl/collections/blackcyber): Aprovecha Blackcyber en Blackdrop Coffee con ofertas en café, accesorios y regalos para disfrutar o sorprender.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 60
 - [Dia del Padre](https://blackdrop.cl/collections/dia-del-padre): Descubre regalos para el Día del Padre en Blackdrop Coffee, con café, accesorios y detalles pensados para sorprender.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:25Z
   Total Products: 19
 - [Packs +](https://blackdrop.cl/collections/packs): Descubre packs de café y regalo en Blackdrop Coffee, ideales para sorprender con una experiencia única y llena de sabor.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 40
 - [Los mas vendidos](https://blackdrop.cl/collections/best-seller): Explora los productos más vendidos de Blackdrop Coffee y encuentra cafés, accesorios y regalos favoritos de nuestros clientes.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 104
 - [Coffee Christmas](https://blackdrop.cl/collections/navidad-2024): Descubre Coffee Christmas de Blackdrop Coffee: regalos de Navidad con café, diseño y sabor para sorprender con una experiencia única e inolvidable.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 20
 - [Cápsulas de café yuju](https://blackdrop.cl/collections/capsulas-de-cafe-yuju)
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:25Z
   Total Products: 18
 - [Drip coffee yuju](https://blackdrop.cl/collections/drip-coffee-yuju)
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:25Z
   Total Products: 9
 - [Día de la Madre](https://blackdrop.cl/collections/dia-de-la-madre): Encuentra regalos para el Día de la Madre en Blackdrop Coffee, con café, accesorios y detalles especiales para sorprender.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:25Z
   Total Products: 24
 - [Black Friday 2025](https://blackdrop.cl/collections/blackfriday-2025): Descubre las ofertas de Black Friday 2025 en Blackdrop Coffee y aprovecha descuentos en café, accesorios y regalos.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 46
 - [DIA DEL PADRE 2025](https://blackdrop.cl/collections/dia-del-padre-2025): Encuentra regalos para el Día del Padre 2025 en Blackdrop Coffee, con café, accesorios y opciones originales para sorprender.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 36
 - [Cafe](https://blackdrop.cl/collections/cafe): Descubre café de especialidad en Blackdrop Coffee. Encuentra blends, orígenes y formatos para disfrutar una experiencia única.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 71
 - [NEW IN](https://blackdrop.cl/collections/new-in): DRINK GOOD COFFEE, DRINK DIFFERENT
-  Updated: 2026-11-14T20:33:05Z
-  Total Products: 30
+  Updated: 2026-11-22T12:11:26Z
+  Total Products: 37
 - [Single Origin](https://blackdrop.cl/collections/single-origin): Explora cafés Single Origin en Blackdrop Coffee y descubre sabores, aromas y perfiles únicos de orígenes seleccionados.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:25Z
   Total Products: 10
 - [Pack 50 cápsulas](https://blackdrop.cl/collections/pack-50-capsulas)
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:25Z
   Total Products: 9
 - [Blends](https://blackdrop.cl/collections/blends)
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:25Z
   Total Products: 3
 - [Drip Single Origin](https://blackdrop.cl/collections/single-origin-1): Compra Drip Coffee Single Origin en Blackdrop Coffee y disfruta cafés de origen único en formato práctico y fácil de preparar.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:25Z
   Total Products: 3
 - [Drip Packs](https://blackdrop.cl/collections/drip-packs)
   Updated: 2026-11-04T18:21:39Z
   Total Products: 17
 - [Grano Single Origin](https://blackdrop.cl/collections/grano-single-origin): Descubre café en grano Single Origin en Blackdrop Coffee, con perfiles únicos y orígenes seleccionados para una experiencia especial.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:25Z
   Total Products: 7
 - [Grano Black series](https://blackdrop.cl/collections/grano-black-series)
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 14
 - [Mokas](https://blackdrop.cl/collections/mokas)
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 8
 - [Prensa Francesa](https://blackdrop.cl/collections/prensa-francesa)
-  Updated: 2026-11-14T20:43:50Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 18
 - [Matcha & Lattes](https://blackdrop.cl/collections/matcha): DRINK GOOD LATTES. Exclusiva línea de Chai, Matcha y Lattes elaborados con superalimentos.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 7
 - [Para Ellos](https://blackdrop.cl/collections/para-ellos)
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:25Z
   Total Products: 25
 - [Para Ellas](https://blackdrop.cl/collections/para-ellas)
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:25Z
   Total Products: 19
 - [Regalos Drip Coffee](https://blackdrop.cl/collections/regalos-drip)
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 27
 - [Regalos Packs](https://blackdrop.cl/collections/regalos-packs): Descubre packs de regalo con café en Blackdrop Coffee. Encuentra opciones originales para sorprender con sabor, diseño y una experiencia única.
-  Updated: 2026-11-14T21:20:02Z
-  Total Products: 24
+  Updated: 2026-11-22T19:35:01Z
+  Total Products: 25
 - [Regalos Cápsulas compatibles Nespresso](https://blackdrop.cl/collections/regalos-capsulas-compatibles-nespresso): Drink good coffee, drink different.
-  Updated: 2026-11-05T18:52:43Z
+  Updated: 2026-11-18T12:13:12Z
   Total Products: 15
 - [Regalos Café molido y grano](https://blackdrop.cl/collections/regalos-cafe-molido-y-grano)
-  Updated: 2026-11-14T21:20:02Z
-  Total Products: 49
+  Updated: 2026-11-22T19:35:01Z
+  Total Products: 50
 - [Descuento por Volumen JonyTips](https://blackdrop.cl/collections/descuento-por-volumen-jonytips): ((NO BORRAR NI MODIFICAR ESTA COLECCION))
   Updated: 2026-11-03T17:21:45Z
   Total Products: 8
 - [Tumblers](https://blackdrop.cl/collections/tumblers)
-  Updated: 2026-11-14T20:43:50Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 20
 - [Coffee Christmas 25'](https://blackdrop.cl/collections/coffee-christmas-25): Descubre Coffee Christmas 25 de Blackdrop Coffee: edición limitada de regalos navideños con café, diseño, sabor y una experiencia única para regalar.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 74
 - [Nitro Cold Brew //](https://blackdrop.cl/collections/summer-coffee-2026): Descubre Nitro Cold Brew de Blackdrop Coffee: cold brew e ice coffee refrescantes, intensos y perfectos para disfrutar un café helado con estilo.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 18
 - [Los Regalos Mas Vendidos](https://blackdrop.cl/collections/los-regalos-mas-vendidos): Explora los regalos más vendidos de Blackdrop Coffee y encuentra cafés, accesorios y detalles únicos para sorprender en cualquier ocasión.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 29
 - [14 Febrero](https://blackdrop.cl/collections/14-febrero): Descubre la colección 14 Febrero de Blackdrop Coffee: café, regalos y detalles especiales para celebrar San Valentín con un toque único.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 56
 - [Café molido aromatizado con esencias naturales](https://blackdrop.cl/collections/cafe-saborizado): Descubre nuestro café molido saborizado con esencias naturales: una experiencia aromática única, ideal para quienes buscan un café distinto y delicioso.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 11
 - [Día de la Madre](https://blackdrop.cl/collections/coleccion-de-regalos-dia-de-la-madre)
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 26
 - [Cyber Coffee 2026](https://blackdrop.cl/collections/cyber-coffee-2026)
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 48
 - [Feliz día papá](https://blackdrop.cl/collections/feliz-dia-papa)
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 31
 - [Despacho Express](https://blackdrop.cl/collections/despacho-express)
-  Updated: 2026-11-14T22:02:17Z
-  Total Products: 261
+  Updated: 2026-11-22T19:35:01Z
+  Total Products: 258
 - [Café de grano blend](https://blackdrop.cl/collections/cafe-de-grano-blend)
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:25Z
   Total Products: 8
 - [Café con sabor](https://blackdrop.cl/collections/cafe-con-sabores)
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 3
 - [Más vendidos grano / molido](https://blackdrop.cl/collections/mas-vendidos-grano-molido)
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 164
 - [CAFÉ MOLIDO & GRANO ON ](https://blackdrop.cl/collections/cafe-molido-on-): Compra café molido y en grano en Blackdrop Coffee. Encuentra blends, orígenes y opciones para cada tipo de preparación.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 12
 - [CÁPSULAS COMPATIBLES CON NESPRESSO ON ](https://blackdrop.cl/collections/capsulas-compatibles-con-nespresso-on-): Descubre cápsulas compatibles con Nespresso en Blackdrop Coffee, con gran sabor, aroma y variedad para disfrutar en casa.
-  Updated: 2026-11-04T18:32:41Z
+  Updated: 2026-11-18T09:10:47Z
   Total Products: 28
 - [DRIP COFFEE ON ](https://blackdrop.cl/collections/drip-coffee-on-): Compra Drip Coffee en Blackdrop Coffee y disfruta café de filtro individual, práctico, aromático y perfecto para cualquier momento.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 11
 - [REGALOS ON ](https://blackdrop.cl/collections/regalos-on-): Encuentra regalos para amantes del café en Blackdrop Coffee, con opciones originales para sorprender en cualquier ocasión.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 34
 - [ACCESORIOS ON ](https://blackdrop.cl/collections/accesorios-on-): Explora accesorios para café en Blackdrop Coffee y mejora tu experiencia con productos funcionales y de gran diseño.
-  Updated: 2026-11-14T20:43:50Z
-  Total Products: 120
+  Updated: 2026-11-22T12:11:26Z
+  Total Products: 11
 - [2-WayCup Tazas Barista](https://blackdrop.cl/collections/2-waycup-tazas-barista)
-  Updated: 2026-11-10T12:12:02Z
+  Updated: 2026-11-20T12:12:45Z
   Total Products: 14
 - [FLASH  50% OFF](https://blackdrop.cl/collections/flash--50-off): Por tiempo limitado.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:26Z
   Total Products: 21
 - [Chocolate x Feroz](https://blackdrop.cl/collections/chocolate-x-feroz): Una combinación que reúne lo mejor del cacao y el café de especialidad.
-  Updated: 2026-11-14T12:11:44Z
+  Updated: 2026-11-22T12:11:25Z
   Total Products: 2
 - [Regalos de Café Navidad 2026](https://blackdrop.cl/collections/coffee-christmas-26): Regalos de café de especialidad para esta Navidad: calendario de adviento, cajas de drips, cápsulas y sets con taza. Despacho a todo Chile.
-  Updated: 2026-11-14T20:38:37Z
-  Total Products: 36
+  Updated: 2026-11-22T12:11:26Z
+  Total Products: 37
 
 ## Blogs
 
@@ -1825,8 +1748,8 @@
     Updated: 2026-05-06T14:15:36Z
     Author: Rodrigo Jaeger
     Tags: Metodos de preparacion
-  - [Glosario del mundo del café](https://blackdrop.cl/blogs/news/glosario-del-mundo-del-cafe): El mundo del café nos ofrece una amplia gama de términos, descriptores y conceptos. En nuestro compromiso por ofrecer información valiosa y educativa, ponemos a tu disposición un glosario mundial del café.
-    Updated: 2026-06-30T13:33:20Z
+  - [Glosario de café de especialidad: +190 términos | Blackdrop](https://blackdrop.cl/blogs/news/glosario-del-mundo-del-cafe): Glosario de café de especialidad: +190 términos | Blackdrop
+    Updated: 2026-11-18T14:29:00Z
     Author: Rodrigo Jaeger
     Tags: Glosario
   - [Ice coffee latte](https://blackdrop.cl/blogs/news/lattee)
@@ -1912,10 +1835,22 @@
     Updated: 2026-05-06T14:16:33Z
     Author: Admin
     Tags: Actualidad
+  - [Café para regalar en Navidad: cómo elegir bien | Blackdrop](https://blackdrop.cl/blogs/news/packs-de-cafe-para-regalar-en-navidad): Café para regalar en Navidad: cómo elegir bien | Blackdrop
+    Updated: 2026-11-18T16:56:41Z
+    Author: Rodrigo Jaeger
+    Tags: Guías de regalos
+  - [12 regalos para coffee lovers según presupuesto | Blackdrop](https://blackdrop.cl/blogs/news/mejores-regalos-para-coffee-lovers): 12 regalos para coffee lovers según presupuesto | Blackdrop
+    Updated: 2026-11-18T16:56:41Z
+    Author: Rodrigo Jaeger
+    Tags: Guías de regalos
   - [Cómo elegir café de especialidad sin fallar](https://blackdrop.cl/blogs/news/como-elegir-cafe-de-especialidad): Cómo elegir café de especialidad sin fallar
     Updated: 2026-05-06T14:16:35Z
     Author: Admin
     Tags: Actualidad
+  - [Caja regalo de café y accesorios: cómo elegir | Blackdrop](https://blackdrop.cl/blogs/news/caja-regalo-cafe-y-accesorios-como-elegir-bien): Caja regalo de café y accesorios: cómo elegir | Blackdrop
+    Updated: 2026-11-18T16:56:41Z
+    Author: Rodrigo Jaeger
+    Tags: Guías de regalos
   - [Espresso Martini](https://blackdrop.cl/blogs/news/espresso-martini): <p>Espresso Martini es un icónico cóctel elegante y equilibrado que combina la intensidad del café con la pureza del vodka. Su perfil mezcla energía y sofisticación, ideal para quienes disfrutan del sabor del café en una versión refrescante y con carácter.</p>
     Updated: 2026-05-08T16:05:16Z
     Author: Rodrigo Jaeger
@@ -1933,10 +1868,18 @@
     Updated: 2026-05-08T16:05:21Z
     Author: Rodrigo Jaeger
     Tags: Recetas
+  - [Qué regalar a un cafetero: 12 ideas según su perfil](https://blackdrop.cl/blogs/news/que-regalar-a-un-cafetero): Qué regalar a un cafetero: 12 ideas según su perfil
+    Updated: 2026-11-18T16:56:41Z
+    Author: Rodrigo Jaeger
+    Tags: Guías de regalos
   - [Blackdrop Coffee: Chile en la élite mundial del café](https://blackdrop.cl/blogs/news/blackdrop-coffee-elite-mundial-cafe-2026): Blackdrop Coffee: Chile en la élite mundial del café
-    Updated: 2026-11-03T12:56:26Z
+    Updated: 2026-11-18T17:07:18Z
     Author: Blackdrop Coffee
     Tags: Actualidad
+  - [Blackdrop: primera empresa chilena de café Empresa B](https://blackdrop.cl/blogs/news/blackdrop-primera-empresa-b-cafe-chile): Blackdrop: primera empresa chilena de café Empresa B
+    Updated: 2026-11-22T01:07:57Z
+    Author: Blackdrop Coffee
+    Tags: Actualidad, Sostenibilidad
 
 ## Store Pages
 
