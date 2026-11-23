@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-18T07:39:30Z
 - Contact Email: support@kronivstudio.com
-- Updated At: 2026-11-15T01:06:30.733Z
+- Updated At: 2026-11-23T00:49:53.559Z
 
 ## Products
 
