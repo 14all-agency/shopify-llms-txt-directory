@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-06T14:57:49Z
 - Contact Email: nexxtmartllc@gmail.com
-- Updated At: 2026-11-16T00:47:04.153Z
+- Updated At: 2026-11-23T00:49:19.946Z
 
 ## Products
 
@@ -160,7 +160,7 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Nestle_Milo_Refill.png?v=1758922690
   Price: $15.94 USD
 - [Peanut Burger, Nigerian Groundnut Snack 6 & 12 Pieces | Nexxtmart](https://nexxtmart.com/products/peanut-burger): Buy peanut burger, the caramelised Nigerian groundnut snack. Packs of 6 or 12 pieces. Shipped across the United States.
-  Updated: 2026-11-15T17:19:57Z
+  Updated: 2026-11-16T05:19:49Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
