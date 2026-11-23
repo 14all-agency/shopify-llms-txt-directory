@@ -6,18 +6,18 @@
 - Timezone: America/New_York
 - Created At: 2025-10-09T12:18:15Z
 - Contact Email: mahfuzar@smartdatasoft.net
-- Updated At: 2026-11-16T00:54:50.307Z
+- Updated At: 2026-11-23T00:56:13.696Z
 
 ## Products
 
 - [The Multi-location Snowboard](https://latest-test-2.myshopify.com/products/the-multi-location-snowboard): Stocked at both of our locations, so it ships from whichever one is closest to you.
-  Updated: 2026-11-09T04:20:46Z
+  Updated: 2026-11-16T07:12:06Z
   Vendor: Northline Supply
   Product Type: Snowboard
   Availability: Available
   Price: 579,95 $ USD
 - [Complete Snowboard](https://latest-test-2.myshopify.com/products/the-complete-snowboard): snowboard winter sport snowboarding
-  Updated: 2026-11-07T10:02:12Z
+  Updated: 2026-11-17T05:51:29Z
   Vendor: Summit Rebel
   Product Type: Snowboard
   Availability: Available
@@ -202,287 +202,336 @@
   Product Type: 
   Availability: Available
   Price: 0,00 $ USD
-- [Sienna Motorcycle Portrait](https://latest-test-2.myshopify.com/products/creative-2026-sienna-motorcycle-portrait): A motorcycle portrait concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:46Z
+- [[variant-metafields test]](https://latest-test-2.myshopify.com/products/variant-metafields-test)
+  Updated: 2026-11-17T17:38:53Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  - [Red](https://latest-test-2.myshopify.com/products/variant-metafields-test?variant=68086411395345)
+    Availability: Available
+    Price: 10,00 $ USD
+  - [Blue](https://latest-test-2.myshopify.com/products/variant-metafields-test?variant=68086411919633)
+    Availability: Available
+    Price: 11,00 $ USD
+  - [Green](https://latest-test-2.myshopify.com/products/variant-metafields-test?variant=68086411952401)
+    Availability: Available
+    Price: 12,00 $ USD
+- [Cascade Motorcycle Portrait](https://latest-test-2.myshopify.com/products/cascade-motorcycle-portrait): A motorcycle portrait concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T17:38:57Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
   Price: 0,00 $ USD
-- [Willow Motorcycle Portrait](https://latest-test-2.myshopify.com/products/creative-2026-willow-motorcycle-portrait): A motorcycle portrait concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:53Z
+- [Drift Studio Visual](https://latest-test-2.myshopify.com/products/drift-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T17:39:40Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
   Price: 0,00 $ USD
-- [Solstice Motorcycle Portrait](https://latest-test-2.myshopify.com/products/creative-2026-solstice-motorcycle-portrait): A motorcycle portrait concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:48Z
+- [Sienna Studio Visual](https://latest-test-2.myshopify.com/products/sienna-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:39:41Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
   Price: 0,00 $ USD
-- [Drift Motorcycle Portrait](https://latest-test-2.myshopify.com/products/creative-2026-drift-motorcycle-portrait): A motorcycle portrait concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:47Z
+- [Cascade Studio Visual](https://latest-test-2.myshopify.com/products/cascade-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T17:39:42Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
   Price: 0,00 $ USD
-- [Mosaic Motorcycle Portrait](https://latest-test-2.myshopify.com/products/creative-2026-mosaic-motorcycle-portrait): A motorcycle portrait concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:48Z
+- [Cascade Gallery Composition](https://latest-test-2.myshopify.com/products/cascade-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:39:43Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
   Price: 0,00 $ USD
-- [Aurora Motorcycle Portrait](https://latest-test-2.myshopify.com/products/creative-2026-aurora-motorcycle-portrait): A motorcycle portrait concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:46Z
+- [Amber Road Machine Study](https://latest-test-2.myshopify.com/products/amber-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:39:45Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
   Price: 0,00 $ USD
-- [Cascade Motorcycle Portrait](https://latest-test-2.myshopify.com/products/creative-2026-cascade-motorcycle-portrait): A motorcycle portrait concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:47Z
+- [Willow Studio Visual](https://latest-test-2.myshopify.com/products/willow-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T17:39:48Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
-  Price: 0,00 $ USD
-- [Horizon Motorcycle Portrait](https://latest-test-2.myshopify.com/products/creative-2026-horizon-motorcycle-portrait): A motorcycle portrait concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:48Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Amber Road Machine Study](https://latest-test-2.myshopify.com/products/creative-2026-amber-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:48Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Cobalt Road Machine Study](https://latest-test-2.myshopify.com/products/creative-2026-cobalt-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:48Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Sienna Road Machine Study](https://latest-test-2.myshopify.com/products/creative-2026-sienna-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:46Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Willow Road Machine Study](https://latest-test-2.myshopify.com/products/creative-2026-willow-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:46Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Solstice Road Machine Study](https://latest-test-2.myshopify.com/products/creative-2026-solstice-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:48Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Drift Road Machine Study](https://latest-test-2.myshopify.com/products/creative-2026-drift-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:47Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Mosaic Road Machine Study test](https://latest-test-2.myshopify.com/products/creative-2026-mosaic-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:48Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Aurora Road Machine Study](https://latest-test-2.myshopify.com/products/creative-2026-aurora-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:47Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Cascade Road Machine Study](https://latest-test-2.myshopify.com/products/creative-2026-cascade-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:47Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Horizon Road Machine Study](https://latest-test-2.myshopify.com/products/creative-2026-horizon-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:46Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Amber Gallery Composition](https://latest-test-2.myshopify.com/products/creative-2026-amber-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:07:54Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Cobalt Gallery Composition](https://latest-test-2.myshopify.com/products/creative-2026-cobalt-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:07:54Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Sienna Gallery Composition](https://latest-test-2.myshopify.com/products/creative-2026-sienna-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:07:52Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Willow Gallery Composition](https://latest-test-2.myshopify.com/products/creative-2026-willow-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:07:52Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Solstice Gallery Composition](https://latest-test-2.myshopify.com/products/creative-2026-solstice-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:07:53Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Drift Gallery Composition](https://latest-test-2.myshopify.com/products/creative-2026-drift-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:07:54Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Mosaic Gallery Composition](https://latest-test-2.myshopify.com/products/creative-2026-mosaic-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:07:55Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Aurora Gallery Composition](https://latest-test-2.myshopify.com/products/creative-2026-aurora-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:07:54Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Cascade Gallery Composition](https://latest-test-2.myshopify.com/products/creative-2026-cascade-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:07:53Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Horizon Gallery Composition](https://latest-test-2.myshopify.com/products/creative-2026-horizon-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-11-15T06:30:18Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  - [red](https://latest-test-2.myshopify.com/products/creative-2026-horizon-gallery-composition?variant=67956500529425)
+  - [Rahia](https://latest-test-2.myshopify.com/products/willow-studio-visual?variant=68086384460049)
     Availability: Available
     Price: 0,00 $ USD
-  - [green](https://latest-test-2.myshopify.com/products/creative-2026-horizon-gallery-composition?variant=67956500562193)
+  - [Zahia](https://latest-test-2.myshopify.com/products/willow-studio-visual?variant=68086384787729)
     Availability: Available
     Price: 0,00 $ USD
-  - [blue](https://latest-test-2.myshopify.com/products/creative-2026-horizon-gallery-composition?variant=67956500594961)
+  - [Zahel](https://latest-test-2.myshopify.com/products/willow-studio-visual?variant=68086384820497)
     Availability: Available
     Price: 0,00 $ USD
-- [Four Wheeler car](https://latest-test-2.myshopify.com/products/creative-2026-amber-studio-visual): A forest killer four wheeler car.
-  Updated: 2026-11-15T18:30:12Z
+- [Drift Gallery Composition](https://latest-test-2.myshopify.com/products/drift-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:39:48Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
   Price: 0,00 $ USD
-- [Cobalt Studio Visual](https://latest-test-2.myshopify.com/products/creative-2026-cobalt-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:10:47Z
+- [Drift Road Machine Study](https://latest-test-2.myshopify.com/products/drift-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:39:51Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
   Price: 0,00 $ USD
-- [Sienna Studio Visual](https://latest-test-2.myshopify.com/products/creative-2026-sienna-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-10-28T23:07:54Z
+- [QA History Delete Me](https://latest-test-2.myshopify.com/products/qa-history-delete-me)
+  Updated: 2026-11-17T17:38:51Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 30,00 $ USD
+- [Horizon Motorcycle Portrait](https://latest-test-2.myshopify.com/products/horizon-motorcycle-portrait): A motorcycle portrait concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:39:53Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
   Price: 0,00 $ USD
-- [Willow Studio Visual](https://latest-test-2.myshopify.com/products/creative-2026-willow-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-11-15T06:30:17Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  - [Rahia](https://latest-test-2.myshopify.com/products/creative-2026-willow-studio-visual?variant=67956521697553)
-    Availability: Available
-    Price: 0,00 $ USD
-  - [Zahia](https://latest-test-2.myshopify.com/products/creative-2026-willow-studio-visual?variant=67956521730321)
-    Availability: Available
-    Price: 0,00 $ USD
-  - [Zahel](https://latest-test-2.myshopify.com/products/creative-2026-willow-studio-visual?variant=67956521763089)
-    Availability: Available
-    Price: 0,00 $ USD
-- [Solstice Studio Visual](https://latest-test-2.myshopify.com/products/creative-2026-solstice-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-11-15T18:29:48Z
+- [Sienna Motorcycle Portrait](https://latest-test-2.myshopify.com/products/sienna-motorcycle-portrait): A motorcycle portrait concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:39:56Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
   Price: 0,00 $ USD
-- [Drift Studio Visual](https://latest-test-2.myshopify.com/products/creative-2026-drift-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-11-15T18:30:14Z
+- [Horizon Gallery Composition](https://latest-test-2.myshopify.com/products/horizon-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T17:38:53Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  - [red](https://latest-test-2.myshopify.com/products/horizon-gallery-composition?variant=68086385639697)
+    Availability: Available
+    Price: 0,00 $ USD
+  - [green](https://latest-test-2.myshopify.com/products/horizon-gallery-composition?variant=68086386000145)
+    Availability: Available
+    Price: 0,00 $ USD
+  - [blue](https://latest-test-2.myshopify.com/products/horizon-gallery-composition?variant=68086386032913)
+    Availability: Available
+    Price: 0,00 $ USD
+- [Willow Gallery Composition](https://latest-test-2.myshopify.com/products/willow-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:39:58Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
   Price: 0,00 $ USD
-- [Mosaic Studio Visual](https://latest-test-2.myshopify.com/products/creative-2026-mosaic-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-11-15T18:30:08Z
+- [Sienna Road Machine Study](https://latest-test-2.myshopify.com/products/sienna-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:40:02Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
   Price: 0,00 $ USD
-- [Aurora Studio Visual](https://latest-test-2.myshopify.com/products/creative-2026-aurora-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-11-15T18:30:09Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Cascade Studio Visual](https://latest-test-2.myshopify.com/products/creative-2026-cascade-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-11-15T18:30:10Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  Price: 0,00 $ USD
-- [Horizon Studio Visual](https://latest-test-2.myshopify.com/products/creative-2026-horizon-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
-  Updated: 2026-11-15T18:30:14Z
-  Vendor: Latest Test
-  Product Type: 
-  Availability: Available
-  - [Black](https://latest-test-2.myshopify.com/products/creative-2026-horizon-studio-visual?variant=67951197061393)
-    Availability: Available
-    Price: 0,00 $ USD
-  - [Green](https://latest-test-2.myshopify.com/products/creative-2026-horizon-studio-visual?variant=67951197094161)
-    Availability: Available
-    Price: 0,00 $ USD
-  - [Red](https://latest-test-2.myshopify.com/products/creative-2026-horizon-studio-visual?variant=67951197126929)
-    Availability: Available
-    Price: 0,00 $ USD
-  - [Blue](https://latest-test-2.myshopify.com/products/creative-2026-horizon-studio-visual?variant=67951197159697)
-    Availability: Available
-    Price: 0,00 $ USD
-- [Raptile](https://latest-test-2.myshopify.com/products/rep-1): A wild animal
-  Updated: 2026-11-15T18:30:14Z
+- [Cascade Road Machine Study](https://latest-test-2.myshopify.com/products/cascade-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:40:04Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
   Price: 0,00 $ USD
 - [4 Piece wooden block](https://latest-test-2.myshopify.com/products/4-piece-wooden-block): Three tins on a repeating plan: standard, special and sample. Skip or cancel any cycle. download image 502 from here 30 Aug 9:54
-  Updated: 2026-11-15T18:29:44Z
+  Updated: 2026-11-17T17:40:08Z
   Vendor: Frostline Labs
   Product Type: Snowboard Accessories
   Availability: Available
-  - [ Plans Ski Wax](https://latest-test-2.myshopify.com/products/4-piece-wooden-block?variant=67803712618769)
+  - [ Plans Ski Wax](https://latest-test-2.myshopify.com/products/4-piece-wooden-block?variant=68086386196753)
     Availability: Available
     Price: 22,95 $ USD
-  - [Special  Plans Ski Wax](https://latest-test-2.myshopify.com/products/4-piece-wooden-block?variant=67803712651537)
-    Availability: Not Available
+  - [Special  Plans Ski Wax](https://latest-test-2.myshopify.com/products/4-piece-wooden-block?variant=68086386327825)
+    Availability: Available
     Price: 44,95 $ USD
-  - [Sample  Plans Ski Wax](https://latest-test-2.myshopify.com/products/4-piece-wooden-block?variant=67803712684305)
-    Availability: Not Available
+  - [Sample  Plans Ski Wax sfsf](https://latest-test-2.myshopify.com/products/4-piece-wooden-block?variant=68086386360593)
+    Availability: Available
     Price: 8,95 $ USD
-- [Restore Test Product](https://latest-test-2.myshopify.com/products/restore-test-product): Day 1 description
-  Updated: 2026-11-12T00:04:59Z
+- [Aurora Road Machine Study](https://latest-test-2.myshopify.com/products/aurora-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:40:09Z
   Vendor: Latest Test
   Product Type: 
   Availability: Available
   Price: 0,00 $ USD
+- [Aurora Studio Visual](https://latest-test-2.myshopify.com/products/aurora-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T17:40:15Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Cobalt Road Machine Study](https://latest-test-2.myshopify.com/products/cobalt-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:40:14Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Mosaic Studio Visual](https://latest-test-2.myshopify.com/products/mosaic-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T17:40:20Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Solstice Studio Visual](https://latest-test-2.myshopify.com/products/solstice-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T17:40:20Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Aurora Motorcycle Portrait](https://latest-test-2.myshopify.com/products/aurora-motorcycle-portrait): A motorcycle portrait concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T17:38:53Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Drift Motorcycle Portrait](https://latest-test-2.myshopify.com/products/drift-motorcycle-portrait): A motorcycle portrait concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:40:22Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Cobalt Gallery Composition](https://latest-test-2.myshopify.com/products/cobalt-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:40:23Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Four Wheeler car](https://latest-test-2.myshopify.com/products/four-wheeler-car): A forest killer four wheeler car.
+  Updated: 2026-11-17T17:40:27Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Mosaic Gallery Composition](https://latest-test-2.myshopify.com/products/mosaic-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:40:27Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Mosaic Road Machine Study test](https://latest-test-2.myshopify.com/products/mosaic-road-machine-study-test): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T17:40:30Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Willow Motorcycle Portrait](https://latest-test-2.myshopify.com/products/willow-motorcycle-portrait): A motorcycle portrait concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:41:09Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Willow Road Machine Study](https://latest-test-2.myshopify.com/products/willow-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:40:30Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Sienna Gallery Composition](https://latest-test-2.myshopify.com/products/sienna-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:40:32Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [QA Older History Restore](https://latest-test-2.myshopify.com/products/qa-older-history-restore)
+  Updated: 2026-11-17T17:38:50Z
+  Vendor: Latest Test
+  Product Type: Gift Card
+  Availability: Available
+  Price: 0,00 $ USD
+- [Image Test Rug B (15 images)](https://latest-test-2.myshopify.com/products/image-test-rug-b-15-images): QA product with 15 images for backup image-count testing.
+  Updated: 2026-11-17T17:38:49Z
+  Vendor: StoreSync QA
+  Product Type: Rug
+  Availability: Available
+  Price: 0,00 $ USD
+- [Raptile](https://latest-test-2.myshopify.com/products/raptile): A wild animal
+  Updated: 2026-11-17T17:40:40Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Amber Gallery Composition](https://latest-test-2.myshopify.com/products/amber-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:40:40Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Solstice Gallery Composition](https://latest-test-2.myshopify.com/products/solstice-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:40:43Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Solstice Road Machine Study](https://latest-test-2.myshopify.com/products/solstice-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:40:44Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Solstice Motorcycle Portrait](https://latest-test-2.myshopify.com/products/solstice-motorcycle-portrait): A motorcycle portrait concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:40:45Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Aurora Gallery Composition](https://latest-test-2.myshopify.com/products/aurora-gallery-composition): A gallery composition concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:41:38Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Restore Test Product](https://latest-test-2.myshopify.com/products/restore-test-product): Day 1 description
+  Updated: 2026-11-17T05:40:48Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [QA History New](https://latest-test-2.myshopify.com/products/qa-history-new)
+  Updated: 2026-11-17T17:40:50Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 40,00 $ USD
+- [Horizon Road Machine Study](https://latest-test-2.myshopify.com/products/horizon-road-machine-study): A road machine study concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:40:51Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Mosaic Motorcycle Portrait](https://latest-test-2.myshopify.com/products/mosaic-motorcycle-portrait): A motorcycle portrait concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T05:41:45Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ USD
+- [Horizon Studio Visual](https://latest-test-2.myshopify.com/products/horizon-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-17T17:38:58Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  - [Black](https://latest-test-2.myshopify.com/products/horizon-studio-visual?variant=68086406545681)
+    Availability: Available
+    Price: 0,00 $ USD
+  - [Green](https://latest-test-2.myshopify.com/products/horizon-studio-visual?variant=68086407168273)
+    Availability: Available
+    Price: 0,00 $ USD
+  - [Red](https://latest-test-2.myshopify.com/products/horizon-studio-visual?variant=68086407201041)
+    Availability: Available
+    Price: 0,00 $ USD
+  - [Blue](https://latest-test-2.myshopify.com/products/horizon-studio-visual?variant=68086407233809)
+    Availability: Available
+    Price: 0,00 $ USD
+- [Cobalt Studio Visual](https://latest-test-2.myshopify.com/products/cobalt-studio-visual): A studio visual concept paired with an image from this store. Confirm the item format, image rights and specifications before publishing.
+  Updated: 2026-11-18T19:00:13Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  - [val](https://latest-test-2.myshopify.com/products/cobalt-studio-visual?variant=68088465850641)
+    Availability: Available
+    Price: 0,01 $ USD
+  - [7](https://latest-test-2.myshopify.com/products/cobalt-studio-visual?variant=68088467947793)
+    Availability: Available
+    Price: 8,00 $ USD
+- [QA BH Product](https://latest-test-2.myshopify.com/products/qa-bh-product): Backup history restore test product.
+  Updated: 2026-11-17T11:15:40Z
+  Vendor: Latest Test
+  Product Type: 
+  Availability: Available
+  Price: 19,99 $ USD
 
 ## Collections
 
@@ -490,13 +539,13 @@
   Updated: 2026-10-15T12:17:18Z
   Total Products: 2
 - [Smart collection v1 [SC-Day-2026-05-14]](https://latest-test-2.myshopify.com/collections/smart-collection)
-  Updated: 2026-09-29T08:26:49Z
+  Updated: 2026-11-17T06:28:01Z
   Total Products: 1
 - [Random v3 [CC-Day-2026-06-10]](https://latest-test-2.myshopify.com/collections/random-v3): Auto-updated by tester on 2026-06-10 12:56:10. Seed: 20261511
   Updated: 2026-11-07T07:03:49Z
   Total Products: 2
 - [Let's See](https://latest-test-2.myshopify.com/collections/lets-see): what is the issue lets find out.
-  Updated: 2026-10-18T11:13:01Z
+  Updated: 2026-11-17T05:18:38Z
   Total Products: 4
 - [Test collection](https://latest-test-2.myshopify.com/collections/chiki-chiki): Random Description data
   Updated: 2026-11-07T07:03:49Z
@@ -508,23 +557,29 @@
   Updated: 2026-10-18T11:13:02Z
   Total Products: 0
 - [brand new lets check](https://latest-test-2.myshopify.com/collections/brand-new-lets-check)
-  Updated: 2026-10-18T11:13:04Z
+  Updated: 2026-11-17T05:18:38Z
   Total Products: 2
 - [Pressing next](https://latest-test-2.myshopify.com/collections/pressing-next)
-  Updated: 2026-11-04T11:18:05Z
-  Total Products: 4
+  Updated: 2026-11-17T05:18:32Z
+  Total Products: 2
 - [test](https://latest-test-2.myshopify.com/collections/test)
   Updated: 2026-10-18T11:13:02Z
   Total Products: 0
 - [Best collection ever for optimization](https://latest-test-2.myshopify.com/collections/best-collection-ever-for-optimization): random text with optimization
-  Updated: 2026-11-07T07:03:49Z
+  Updated: 2026-11-17T06:37:07Z
   Total Products: 3
 - [QA Restore Custom Collection](https://latest-test-2.myshopify.com/collections/qa-restore-custom-collection): First version
   Updated: 2026-11-12T08:30:45Z
   Total Products: 0
 - [QA Restore Smart Collection](https://latest-test-2.myshopify.com/collections/qa-restore-smart-collection)
-  Updated: 2026-11-12T08:27:20Z
+  Updated: 2026-11-17T05:22:41Z
   Total Products: 4
+- [QA BH Smart Collection](https://latest-test-2.myshopify.com/collections/qa-bh-smart-collection)
+  Updated: 2026-11-19T08:00:11Z
+  Total Products: 1
+- [QA BH Custom Collection](https://latest-test-2.myshopify.com/collections/qa-bh-custom-collection): Custom collection for backup history restore test.
+  Updated: 2026-11-17T10:39:37Z
+  Total Products: 0
 
 ## Blogs
 
