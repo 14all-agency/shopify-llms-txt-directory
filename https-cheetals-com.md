@@ -6,7 +6,7 @@
 - Timezone: America/Halifax
 - Created At: 2023-03-08T15:01:41Z
 - Contact Email: info@cheetals.com
-- Updated At: 2026-11-15T01:05:06.276Z
+- Updated At: 2026-11-23T01:12:40.826Z
 
 ## Products
 
@@ -153,6 +153,14 @@
     Updated: 2026-11-12T12:01:39Z
     Author: CHEETALS
     Tags: financial moves guide, first time home buyers, first-time home, home buyer due-diligence, income,  property, money, passive income, real estate, smart financial strategies
+  - [Practical Steps Every First-Time Home Buyer Should Take for Smart Purchases](https://cheetals.com/blogs/news/practical-steps-every-first-time-home-buyer-should-take-for-smart-purchases): Practical Steps Every First-Time Home Buyer Should Take for Smart Purchases
+    Updated: 2026-11-17T12:00:48Z
+    Author: CHEETALS
+    Tags: finance, first time home buyers, first-time buyer tips, home buyer, home buyer due-diligence, income, passive income, passive income strategies, property , real estate, smart real estate purchases
+  - [How to Leverage Real Estate  for Passive Income Streams](https://cheetals.com/blogs/news/how-to-leverage-real-estate--for-passive-income-streams): How to Leverage Real Estate  for Passive Income Streams
+    Updated: 2026-11-19T12:01:11Z
+    Author: CHEETALS
+    Tags: build wealth, first time home buyers, home buyer due-diligence, income strategy, , passive income, properties for , real estate, revenue, доход
 
 ## Store Pages
 
