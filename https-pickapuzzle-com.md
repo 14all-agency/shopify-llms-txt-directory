@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-30T08:25:36Z
 - Contact Email: info@pickapuzzle.com
-- Updated At: 2026-11-15T00:28:05.457Z
+- Updated At: 2026-11-23T00:24:50.481Z
 
 ## Products
 
@@ -3221,22 +3221,7 @@
   - [Large](https://pickapuzzle.com/products/whimsical-wooden-jigsaw-puzzle-colorful-jellyfish?variant=43530549067835)
     Availability: Available
     Price: $39.99 USD
-- [Whimsical Wooden Jigsaw Puzzle-MANDALA DRAGONFLY](https://pickapuzzle.com/products/whimsical-wooden-jigsaw-puzzle-mandala-dragonfly): Size Metric Dimensions Imperial Dimensions Piece Count Large 40 x 35 centimeters 15.7 x 13.8 inches 300 pieces Medium 30 x 26.2 centimeters 11.8 x 10.3 inches 200 pieces Small 20 x 17.5 centimeters 7.9 x 6.9 inches 90 pieces
-  Updated: 2026-08-29T10:04:17Z
-  Vendor: pickApuzzle
-  Product Type: Animal Puzzles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0651/5743/1355/files/wooden-jigsaw-puzzle-mandala-dragonfly-2023-12-15_03-06-28_379495.jpg?v=1779257102
-  - [Small](https://pickapuzzle.com/products/whimsical-wooden-jigsaw-puzzle-mandala-dragonfly?variant=43530550444091)
-    Availability: Available
-    Price: $19.99 USD
-  - [Medium](https://pickapuzzle.com/products/whimsical-wooden-jigsaw-puzzle-mandala-dragonfly?variant=43530550476859)
-    Availability: Available
-    Price: $29.99 USD
-  - [Large](https://pickapuzzle.com/products/whimsical-wooden-jigsaw-puzzle-mandala-dragonfly?variant=43530550509627)
-    Availability: Available
-    Price: $39.99 USD
-[List Continued](https://pickapuzzle.com/a/llms-agent/llms.txt?shop=b7iywv-rv.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjA3ODI0Mzg0MDU5LCJsYXN0X3ZhbHVlIjoiNzYwNzgyNDM4NDA1OSJ9)
+[List Continued](https://pickapuzzle.com/a/llms-agent/llms.txt?shop=b7iywv-rv.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjA3ODI0MTU0NjgzLCJsYXN0X3ZhbHVlIjoiNzYwNzgyNDE1NDY4MyJ9)
 
 ## Collections
 
@@ -3555,6 +3540,15 @@
     Author: pickApuzzle
   - [How Wooden Jigsaw Puzzles Enhance Cognitive Skills for All Ages](https://pickapuzzle.com/blogs/general/how-wooden-jigsaw-puzzles-enhance-cognitive-skills-for-all-ages): How Wooden Jigsaw Puzzles Enhance Cognitive Skills for All Ages
     Updated: 2026-11-14T00:07:08Z
+    Author: pickApuzzle
+  - [Why Wooden Jigsaw Puzzles Are Worth Your Time and ](https://pickapuzzle.com/blogs/general/why-wooden-jigsaw-puzzles-are-worth-your-time-and-): Why Wooden Jigsaw Puzzles Are Worth Your Time and 
+    Updated: 2026-11-16T01:05:39Z
+    Author: pickApuzzle
+  - [The History and Evolution of Wooden Jigsaw Puzzles Through the Decades](https://pickapuzzle.com/blogs/general/the-history-and-evolution-of-wooden-jigsaw-puzzles-through-the-decades): The History and Evolution of Wooden Jigsaw Puzzles Through the Decades
+    Updated: 2026-11-18T01:09:05Z
+    Author: pickApuzzle
+  - [Are Intricate Wooden Jigsaw Puzzles Suitable for Beginners](https://pickapuzzle.com/blogs/general/are-intricate-wooden-jigsaw-puzzles-suitable-for-beginners): Are Intricate Wooden Jigsaw Puzzles Suitable for Beginners
+    Updated: 2026-11-21T00:06:01Z
     Author: pickApuzzle
 
 ## Store Pages
