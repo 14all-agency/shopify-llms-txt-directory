@@ -9,7 +9,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-05-24T23:43:09Z
 - Contact Email: gotommylee0522@gmail.com
-- Updated At: 2026-11-15T00:51:23.937Z
+- Updated At: 2026-11-23T00:51:55.017Z
 
 ## Products
 
@@ -266,19 +266,19 @@
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/715uL3eqlHL._AC_SX679.jpg?v=1757429461
   Price: $91.00 USD
 - [Under Bed Storage Containers 90L 2-Pack - 39x20x7 Inch by SpaceWhisper](https://maisonoryhome.com/products/under-bed-storage-containers-90l-2pack-39x20x7): Space-saving 90L under bed storage, 2-pack. 7" low profile fits most beds. Visible windows, reinforced design. Perfect for clothes, comforters & more.
-  Updated: 2026-10-30T05:31:45Z
+  Updated: 2026-11-17T00:34:50Z
   Vendor: 홈데코 빈7 진모4월21일
   Product Type: Under-Bed Storage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/71QsHRhCnTL._AC_SX679.jpg?v=1757429465
-  Price: $28.60 USD
+  Price: $33.98 USD
 - [Under Bed Storage Containers 90L 2-Pack Black - 39x20x8 by SpaceWhisper](https://maisonoryhome.com/products/under-bed-storage-containers-90l-2pack-black-39x20x8): Sleek black under bed storage, 90L 2-pack. 8" low profile, visible windows, reinforced design. Perfect for clothes, linens & bedroom organization.
-  Updated: 2026-10-30T05:31:46Z
+  Updated: 2026-11-17T00:34:54Z
   Vendor: 홈데코 빈7 진모4월21일
   Product Type: Under-Bed Storage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/71g1IFDVSjL._AC_SX679.jpg?v=1757429468
-  Price: $32.50 USD
+  Price: $33.98 USD
 - [Yawinhe Under Bed Storage Beige 2-Pack - Space-Saving Organization](https://maisonoryhome.com/products/yawinhe-under-bed-storage-beige-2-pack): Maximize bedroom storage with Yawinhe under bed organizers in beige. Premium 2-pack set for discreet, efficient space utilization.
   Updated: 2026-10-30T05:31:44Z
   Vendor: Yawinhe
@@ -490,12 +490,12 @@
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/81SV2xxr8vL._AC_SX679.jpg?v=1757429578
   Price: $214.50 USD
 - [Under Bed Storage Containers 90L 2-Pack Blue - Foldable Closet Organizer | SpaceWhisper](https://maisonoryhome.com/products/under-bed-storage-containers-90l-2-pack-blue-spacewhisper): 90L under bed storage containers 2-pack with clear top in blue. Foldable closet organizers for clothing, blankets, comforters. Space-saving storage bins.
-  Updated: 2026-10-30T05:31:47Z
+  Updated: 2026-11-17T00:34:51Z
   Vendor: 홈데코 빈7 진모4월21일
   Product Type: Under-Bed Storage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/71aEi08m9DL._AC_SX679.jpg?v=1757429580
-  Price: $28.60 USD
+  Price: $33.98 USD
 - [Rustic 6 Cube Storage Organizer - Wood Metal Cubby Bookcase 47 Inch | FATORRI](https://maisonoryhome.com/products/rustic-6-cube-wood-metal-storage-organizer-fatorri): Rustic 6-cube storage organizer with shelf in walnut brown. Industrial horizontal bookshelf with wood and metal design. Perfect for living room or office.
   Updated: 2026-10-30T05:31:46Z
   Vendor: FATORRI
@@ -518,12 +518,12 @@
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/71HdAIrciQL._AC_SX679.jpg?v=1757429587
   Price: $273.00 USD
 - [Under Bed Storage Containers 90L 6-Pack Black - Foldable Closet Organizer | SpaceWhisper](https://maisonoryhome.com/products/under-bed-storage-containers-90l-6-pack-black-spacewhisper): 90L under bed storage containers 6-pack with clear top in black. Foldable closet organizers for clothing, blankets, comforters. Space-saving storage bins.
-  Updated: 2026-10-30T05:31:47Z
+  Updated: 2026-11-17T00:34:51Z
   Vendor: 홈데코 빈7 진모4월21일
   Product Type: Under-Bed Storage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/71Yu-Dx6bvL._AC_SX679.jpg?v=1757429590
-  Price: $63.70 USD
+  Price: $65.98 USD
 - [71 Inch Tall 8-Shelf Bookcase White - Wood Bookshelf Storage Organizer Adjustable](https://maisonoryhome.com/products/71-inch-tall-8-shelf-white-bookcase-adjustable): 71-inch tall 8-shelf bookcase in white. Wood bookshelf storage organizer with adjustable shelves for home office or living room. Converts into two 4-shelf units.
   Updated: 2026-10-30T05:31:47Z
   Vendor: BFJDM
@@ -553,12 +553,12 @@
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/71qLcRDUsTL._AC_SX679.jpg?v=1757429605
   Price: $487.50 USD
 - [90L Under Bed Storage Containers 6-Pack - Blue Foldable Bins | MaisonoryHome](https://maisonoryhome.com/products/under-bed-storage-containers-90l-6pack-blue): Maximize bedroom storage with our 90L under bed organizers. 6-pack foldable bins with clear tops and label holders for clothing, blankets, and comforters. Blue design.
-  Updated: 2026-10-30T05:31:46Z
+  Updated: 2026-11-17T00:34:52Z
   Vendor: 홈데코 빈7 진모4월21일
   Product Type: Under-Bed Storage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/71x-S65x7ZL._AC_SX679.jpg?v=1757429606
-  Price: $63.70 USD
+  Price: $65.98 USD
 - [Natural Wood 7 Cube Bookshelf - 3 Tier Boho Display Cabinet | MaisonoryHome](https://maisonoryhome.com/products/natural-wood-7-cube-bookshelf-3-tier): Elevate your space with our modern wooden 7-cube bookshelf. Natural finish with legs, perfect for bedroom, living room, or office. Free-standing boho design.
   Updated: 2026-10-30T05:31:46Z
   Vendor: LEYAOYAO-Findtheshiningpointofyourideallife%EF%BC%81
@@ -567,12 +567,12 @@
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/71WsSHKjgvL._AC_SX679.jpg?v=1757429607
   Price: $175.50 USD
 - [90L Under Bed Storage Containers 8-Pack - Black Foldable Bins | MaisonoryHome](https://maisonoryhome.com/products/under-bed-storage-containers-90l-8pack-black): Organize with our 90L under bed storage bins. 8-pack black foldable containers with clear tops and label holders for clothing, blankets, and pillows.
-  Updated: 2026-10-30T05:31:50Z
+  Updated: 2026-11-17T00:34:53Z
   Vendor: 홈데코 빈7 진모4월21일
   Product Type: Under-Bed Storage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/7144buqsrnL._AC_SX679.jpg?v=1757429614
-  Price: $66.30 USD
+  Price: $79.98 USD
 - [Rustic 6 Cube Storage Organizer with 3 Drawers - 47" Oak Bookshelf | MaisonoryHome](https://maisonoryhome.com/products/rustic-6-cube-storage-organizer-3-drawers-oak): Industrial wood and metal 6-cube storage organizer with 3 drawers. Rustic oak finish, perfect for living room organization. Horizontal bookshelf design.
   Updated: 2026-10-30T05:31:46Z
   Vendor: FATORRI
@@ -630,12 +630,12 @@
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/71mLgTAa4NL._AC_SX679.jpg?v=1757429650
   Price: $487.50 USD
 - [90L Under Bed Storage Containers 4-Pack Blue - Foldable Bins | MaisonoryHome](https://maisonoryhome.com/products/under-bed-storage-containers-90l-4pack-blue): Organize with our 90L under bed storage bins. 4-pack blue foldable containers with clear tops and label holders for clothing, blankets, and pillows.
-  Updated: 2026-10-30T05:31:47Z
+  Updated: 2026-11-17T00:34:53Z
   Vendor: 홈데코 빈7 진모4월21일
   Product Type: Under-Bed Storage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/81Mhzz-KigL._AC_SX679.jpg?v=1757429659
-  Price: $40.30 USD
+  Price: $51.98 USD
 - [Camel Corduroy Modular Sectional Sofa - Cloud Couch Corner Chair | MaisonoryHome](https://maisonoryhome.com/products/camel-corduroy-modular-sectional-sofa-corner-chair): Luxurious modular sectional sofa with corner chair in camel corduroy. Free combination cloud couch design for ultimate comfort and flexible arrangement.
   Updated: 2026-10-30T05:31:47Z
   Vendor: DesignforBetterLife
@@ -1141,12 +1141,12 @@
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/71FAUm5AKvL._AC_SX679.jpg?v=1757430221
   Price: $390.00 USD
 - [Cvortll Tufted Bean Bag Sofa Chair with Memory Foam – Blue | MaisonoryHome](https://maisonoryhome.com/products/cvortll-tufted-bean-bag-sofa-chair-memory-foam-blue): Fluffy & cozy Cvortll Blue Bean Bag Sofa. Tufted soft stuffed filling with memory foam for dorm, apartment & living room lounging.
-  Updated: 2026-10-30T05:31:50Z
+  Updated: 2026-11-21T06:20:18Z
   Vendor: Cvortll
   Product Type: Bean Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/81hem66YNmL._AC_SX679.jpg?v=1757430231
-  Price: $159.90 USD
+  Price: $279.98 USD
 - [YESER Armless Sofa with Pillow – Blue | MaisonoryHome](https://maisonoryhome.com/products/yeser-armless-sofa-with-pillow-blue): Sleek & modern YESER Blue Armless Sofa. Includes 1 pillow for minimalist living room or bedroom seating with a cool blue accent.
   Updated: 2026-10-30T05:31:50Z
   Vendor: YESER
@@ -1400,12 +1400,12 @@
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/61dtzFyernL._AC_SX679.jpg?v=1757430366
   Price: $87.58 USD
 - [Pink Bean Bag Chair with Filler | Tufted Memory Foam Lazy Sofa – MaisonoryHome](https://maisonoryhome.com/products/bean-bag-chair-with-filler-pink): Add a soft, playful touch to any room with this pink tufted bean bag chair filled with memory foam. Cozy, fluffy, and perfect for dorm or living room.
-  Updated: 2026-10-30T05:31:52Z
+  Updated: 2026-11-21T06:20:17Z
   Vendor: Cvortll
   Product Type: Bean Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6671/2038/files/91I5GVuMtTL._AC_SX679.jpg?v=1757430371
-  Price: $157.30 USD
+  Price: $219.98 USD
 - [LATITUDE ZERO Aquamarine Alpaca Wool Throw Blanket | Soft, Hypoallergenic – MaisonoryHome](https://maisonoryhome.com/products/latitude-zero-alpaca-wool-throw-blanket-aquamarine): Indulge in warmth and elegance with the LATITUDE ZERO aquamarine alpaca wool throw. Ultra-soft, breathable, non-itchy, and hypoallergenic for any home.
   Updated: 2026-10-30T05:31:57Z
   Vendor: LatitudeZero%C2%AE
@@ -1519,67 +1519,67 @@
   Updated: 2026-11-01T13:57:48Z
   Total Products: 7
 - [Living Room Decor](https://maisonoryhome.com/collections/living-room-decor): Discover MaisonoryHome’s Living Room Decor — curated furniture, soft textiles, and elegant décor to create a warm, inviting space that feels like home.
-  Updated: 2026-11-14T07:07:56Z
-  Total Products: 1292
+  Updated: 2026-11-21T23:31:22Z
+  Total Products: 1289
 - [Bedroom Decor](https://maisonoryhome.com/collections/bedroom-decor): Shop MaisonoryHome’s Bedroom Decor — soft textiles, modern lighting, and calming wall art to create your perfect sleep sanctuary.
-  Updated: 2026-11-14T14:08:12Z
-  Total Products: 2173
+  Updated: 2026-11-21T23:31:19Z
+  Total Products: 2171
 - [Home Office Vibes](https://maisonoryhome.com/collections/home-office-vibes): Transform your workspace with MaisonoryHome — modern home office decor, desk lighting, and organizers for focus, comfort, and creativity.
-  Updated: 2026-11-14T08:07:33Z
+  Updated: 2026-11-16T12:37:35Z
   Total Products: 344
 - [Outdoor & Patio Decor](https://maisonoryhome.com/collections/outdoor-patio-decor): Shop MaisonoryHome’s Outdoor & Patio Decor — rattan furniture, lanterns, and weatherproof accents that turn any patio into a cozy retreat.
-  Updated: 2026-11-13T20:37:36Z
+  Updated: 2026-11-17T00:34:33Z
   Total Products: 92
 - [Rustic Farmhouse](https://maisonoryhome.com/collections/rustic-farmhouse): Shop Rustic Farmhouse decor — wooden accents, woven baskets, and cozy textures that bring timeless country charm to your home.
-  Updated: 2026-11-14T17:30:38Z
-  Total Products: 1729
+  Updated: 2026-11-21T23:31:06Z
+  Total Products: 1728
 - [Scandinavian Style](https://maisonoryhome.com/collections/scandinavian-style): Shop Scandinavian Style decor from MaisonoryHome — minimalist, cozy, and timeless pieces inspired by Nordic living and natural warmth.
   Updated: 2026-04-20T16:23:16Z
   Total Products: 0
 - [Coastal & Nautical](https://maisonoryhome.com/collections/coastal-nautical): Shop MaisonoryHome’s Coastal & Nautical Collection — ocean-inspired decor, rope details, and driftwood textures that bring seaside serenity home.
-  Updated: 2026-11-14T17:30:38Z
+  Updated: 2026-11-21T23:31:06Z
   Total Products: 1102
 - [Wall Art & Prints](https://maisonoryhome.com/collections/wall-art-prints): Explore MaisonoryHome’s Wall Art & Prints — curated abstracts, botanicals, and framed art that bring texture, emotion, and elegance to your walls.
-  Updated: 2026-11-14T17:30:38Z
+  Updated: 2026-11-21T23:31:06Z
   Total Products: 1102
 - [Throw Pillows & Cushions](https://maisonoryhome.com/collections/throw-pillows-cushions): Shop MaisonoryHome’s throw pillows and cushions — soft textures, modern colors, and timeless comfort to complete your home décor.
   Updated: 2026-10-26T06:32:43Z
   Total Products: 59
 - [Vases & Planters](https://maisonoryhome.com/collections/vases-planters): Shop MaisonoryHome’s vases and planters — modern, minimal, and artfully designed pieces that bring natural beauty into every space.
-  Updated: 2026-11-13T23:50:54Z
-  Total Products: 721
+  Updated: 2026-11-21T06:21:32Z
+  Total Products: 718
 - [Candles & Holders](https://maisonoryhome.com/collections/candles-holders): Discover MaisonoryHome’s curated candle and holder collection — soy candles, glass holders, and timeless accents that bring warmth and calm to your home.
-  Updated: 2026-11-13T22:57:39Z
+  Updated: 2026-11-21T23:31:22Z
   Total Products: 192
 - [Mirrors](https://maisonoryhome.com/collections/mirrors): MaisonoryHome’s Mirrors collection captures the art of reflection — literally and stylistically. From minimalist wall mirrors to ornate statement pieces, these designs amplify light, expand your space, and add depth to your interiors. Perfect for bedrooms, hallways, or living spaces, each mirror brings both function and beauty. Discover shapes, sizes, and finishes that blend seamlessly with any décor style, making every glance a design moment.
-  Updated: 2026-11-14T07:07:56Z
+  Updated: 2026-11-15T11:14:36Z
   Total Products: 255
 - [Lamps & Lighting](https://maisonoryhome.com/collections/lamps-lighting): Shop lamps and lighting from MaisonoryHome — warm, modern, and timeless pieces to brighten every corner of your home.
   Updated: 2026-10-16T17:20:09Z
   Total Products: 5
 - [Rugs & Mats](https://maisonoryhome.com/collections/rugs-mats): Explore MaisonoryHome’s Rugs & Mats — modern woven rugs, accent mats, and cozy textures to elevate your floors in every room.
-  Updated: 2026-11-14T08:57:43Z
-  Total Products: 1276
+  Updated: 2026-11-21T06:21:37Z
+  Total Products: 1273
 - [Clocks](https://maisonoryhome.com/collections/clocks): Shop MaisonoryHome’s Clocks — modern wall and desk clocks designed to blend timeless craftsmanship with everyday function and elegant style.
-  Updated: 2026-11-14T20:17:38Z
-  Total Products: 449
+  Updated: 2026-11-21T23:31:22Z
+  Total Products: 448
 - [Storage Baskets & Boxes](https://maisonoryhome.com/collections/storage-baskets-boxes): Shop MaisonoryHome’s woven baskets and storage boxes — functional, stylish, and perfect for keeping every room beautifully organized.
   Updated: 2026-10-16T06:24:37Z
   Total Products: 23
 - [Curtains & Window Treatments](https://maisonoryhome.com/collections/curtains-window-treatments): Shop MaisonoryHome’s Curtains & Window Treatments — elegant sheer and blackout curtains designed for every room and mood.
-  Updated: 2026-11-14T03:27:37Z
-  Total Products: 2695
+  Updated: 2026-11-21T06:21:35Z
+  Total Products: 2692
 - [Seasonal Decor (Spring, Fall, etc.)](https://maisonoryhome.com/collections/seasonal-decor-spring-fall-etc): Shop seasonal home decor from MaisonoryHome — spring florals, autumn accents, and timeless festive pieces that refresh your home year-round.
-  Updated: 2026-11-11T12:47:42Z
+  Updated: 2026-11-18T09:04:16Z
   Total Products: 216
 - [Eco-Friendly Decor](https://maisonoryhome.com/collections/eco-friendly-decor): Shop eco-friendly home decor from MaisonoryHome — sustainable, natural, and timeless designs that bring harmony and purpose to every space.
-  Updated: 2026-11-11T13:07:40Z
-  Total Products: 600
+  Updated: 2026-11-18T09:03:50Z
+  Total Products: 599
 - [Luxury Home Accents](https://maisonoryhome.com/collections/luxury-home-accents): Shop MaisonoryHome’s luxury home accents — marble, gold, and crystal details that add timeless elegance to your modern home.
-  Updated: 2026-11-14T09:07:43Z
+  Updated: 2026-11-15T06:18:35Z
   Total Products: 123
 - [Drinkware & Hydration](https://maisonoryhome.com/collections/drinkware-hydration): Explore MaisonoryHome’s Drinkware & Hydration collection—featuring bottles, tumblers, mugs, and glassware that combine modern design with daily comfort.
-  Updated: 2026-11-13T23:50:53Z
+  Updated: 2026-11-21T06:21:24Z
   Total Products: 378
 - [Water Bottles](https://maisonoryhome.com/collections/water-bottles): Shop reusable and insulated water bottles from MaisonoryHome. Eco-friendly, stylish, and designed to keep drinks fresh wherever you go.
   Updated: 2026-11-12T08:57:37Z
@@ -1588,44 +1588,44 @@
   Updated: 2026-11-12T08:57:37Z
   Total Products: 226
 - [Tumblers & Cups](https://maisonoryhome.com/collections/tumblers-cups): MaisonoryHome’s Tumblers & Cups collection adds charm to everyday hydration. From glass tumblers to durable stainless steel cups, each piece is crafted for comfort, style, and reusability.
-  Updated: 2026-11-13T23:50:53Z
+  Updated: 2026-11-21T06:21:24Z
   Total Products: 297
 - [Wine Glasses & Barware](https://maisonoryhome.com/collections/wine-glasses-barware): Shop MaisonoryHome’s Wine Glasses & Barware for your next toast. Elegant glassware designed for modern hosting and timeless charm.
   Updated: 2026-11-11T12:47:32Z
   Total Products: 75
 - [Coffee & Tea Mugs](https://maisonoryhome.com/collections/coffee-tea-mugs): Explore MaisonoryHome’s Coffee & Tea Mugs—crafted with care to bring warmth, texture, and calm to your morning ritual.
-  Updated: 2026-11-13T23:50:53Z
+  Updated: 2026-11-21T06:21:24Z
   Total Products: 297
 - [Straws & Lids](https://maisonoryhome.com/collections/reusable-straws-lids): Shop MaisonoryHome’s Reusable Straws & Lids for sustainable, eco-friendly drinkware accessories that make hydration stylish and waste-free.
   Updated: 2026-10-16T05:49:20Z
   Total Products: 12
 - [Kitchen & Dining](https://maisonoryhome.com/collections/kitchen-dining): Explore MaisonoryHome’s Kitchen & Dining collection—crafted to blend style and function with cookware, tableware, and kitchen essentials that inspire everyday living.
-  Updated: 2026-11-14T14:37:42Z
-  Total Products: 704
+  Updated: 2026-11-21T23:31:23Z
+  Total Products: 703
 - [Kitchen & Dining Accents](https://maisonoryhome.com/collections/kitchen-dining-accents): Add character to your kitchen and dining space with MaisonoryHome’s elegant accents — from tabletop décor to candle holders and modern centerpieces.
-  Updated: 2026-11-13T22:57:39Z
+  Updated: 2026-11-21T23:31:22Z
   Total Products: 192
 - [Cookware & Bakeware](https://maisonoryhome.com/collections/cookware-bakeware): Shop MaisonoryHome’s cookware and bakeware essentials — from durable nonstick pans to elegant bake sets. Cook beautifully, every day.
   Updated: 2026-11-13T23:07:39Z
   Total Products: 32
 - [Utensils & Cutting Tools](https://maisonoryhome.com/collections/utensils-cutting-tools): Explore MaisonoryHome’s utensils and cutting tools — from chef knives to silicone spatulas. Beautiful, functional essentials for every kitchen.
-  Updated: 2026-11-11T05:06:47Z
+  Updated: 2026-11-21T23:31:23Z
   Total Products: 34
 - [Tabletop Decor](https://maisonoryhome.com/collections/tabletop-decor-1): Elevate your dining table with MaisonoryHome’s tabletop decor — from elegant trays and vases to modern candle holders for every occasion.
-  Updated: 2026-11-13T22:57:39Z
-  Total Products: 782
+  Updated: 2026-11-21T23:31:22Z
+  Total Products: 781
 - [Food Storage & Containers](https://maisonoryhome.com/collections/food-storage-containers): Shop MaisonoryHome’s stylish food storage solutions — airtight jars, stackable containers, and silicone bags to keep your kitchen organized beautifully.
-  Updated: 2026-11-14T14:37:42Z
-  Total Products: 671
+  Updated: 2026-11-17T00:33:45Z
+  Total Products: 670
 - [Linens & Napkins](https://maisonoryhome.com/collections/linens-napkins): Discover MaisonoryHome’s soft linen napkins, cotton tablecloths, and table runners — crafted to bring natural texture and timeless beauty to your dining table.
-  Updated: 2026-11-11T13:07:40Z
-  Total Products: 1038
+  Updated: 2026-11-18T09:03:58Z
+  Total Products: 1037
 - [Home & Living](https://maisonoryhome.com/collections/home-living): Explore MaisonoryHome’s Home & Living collection — curated décor, textiles, and art pieces that bring warmth, texture, and personality to your living space.
-  Updated: 2026-11-14T20:17:38Z
-  Total Products: 704
+  Updated: 2026-11-21T23:31:22Z
+  Total Products: 703
 - [Family & Kids](https://maisonoryhome.com/collections/family-kids): The Family & Kids Collection by MaisonoryHome brings comfort, creativity, and safety together in one place.From cozy night lights and plush toys to smart storage solutions and family-friendly décor, every piece is chosen to make your home both playful and practical.Whether you’re decorating a nursery, upgrading a kids’ study space, or organizing family essentials, these designs make home life a little easier — and a lot more joyful.
-  Updated: 2026-11-14T13:12:38Z
-  Total Products: 1047
+  Updated: 2026-11-21T23:31:23Z
+  Total Products: 1046
 - [Nursery & Kids Lighting](https://maisonoryhome.com/collections/nursery-kids-lighting): Shop MaisonoryHome’s Nursery & Kids Lighting — soft night lights and creative lamps that make bedtime cozy, calm, and magical.
   Updated: 2026-11-13T23:50:40Z
   Total Products: 8
@@ -1639,32 +1639,32 @@
   Updated: 2026-11-11T12:37:44Z
   Total Products: 180
 - [Outdoor & Garden](https://maisonoryhome.com/collections/outdoor-garden): Shop outdoor & garden decor at MaisonoryHome — from rustic farmhouse accents to coastal patio essentials that bring beauty and calm to your outdoor spaces.
-  Updated: 2026-11-14T19:49:44Z
-  Total Products: 2555
+  Updated: 2026-11-21T23:31:11Z
+  Total Products: 2554
 - [price](https://maisonoryhome.com/collections/price)
-  Updated: 2026-11-14T07:08:00Z
-  Total Products: 1615
+  Updated: 2026-11-21T23:31:24Z
+  Total Products: 1613
 - [Furniture](https://maisonoryhome.com/collections/furniture): Shop quality furniture for every room. Find sofas, sectionals, tables, chairs, bookcases, and storage solutions. Free shipping on select items. Transform your home today.
-  Updated: 2026-11-14T14:33:38Z
-  Total Products: 2153
+  Updated: 2026-11-21T23:31:24Z
+  Total Products: 2150
 - [Sofas & Sectionals](https://maisonoryhome.com/collections/sofas-sectionals): Shop comfortable sofas and modular sectionals. Cloud couches, L-shaped sectionals, sleeper sofas in velvet, corduroy & linen. Free shipping available. Find your perfect couch.
-  Updated: 2026-11-13T23:08:16Z
+  Updated: 2026-11-21T23:31:24Z
   Total Products: 651
 - [Bookcases & Shelving](https://maisonoryhome.com/collections/bookcases-shelving): Shop bookcases and shelving units. Cube organizers, 3-tier bookshelves, mid-century modern designs. Perfect for home office, bedroom, living room. Free shipping on select items.
-  Updated: 2026-11-14T08:07:33Z
+  Updated: 2026-11-16T11:05:35Z
   Total Products: 304
 - [Nightstands & Bedside Tables](https://maisonoryhome.com/collections/nightstands-bedside-tables): Shop nightstands and bedside tables with drawers, charging stations, and storage. Fluted, mid-century modern, and farmhouse styles. Sets of 2 available. Free shipping on select items.
-  Updated: 2026-11-14T14:33:38Z
+  Updated: 2026-11-15T09:17:36Z
   Total Products: 95
 - [Storage Solutions](https://maisonoryhome.com/collections/storage-solutions): Shop storage solutions including under-bed containers, fabric bins, closet organizers, and storage baskets. Keep your home organized and clutter-free. Free shipping available.
-  Updated: 2026-11-14T15:46:42Z
+  Updated: 2026-11-17T00:34:55Z
   Total Products: 413
 - [Halloween Decor](https://maisonoryhome.com/collections/halloween-decor): Shop Halloween decorations including table runners, kitchen mats, placemats, and spider web décor. Spooky designs with ghosts, pumpkins, and skeletons. Free shipping available.
-  Updated: 2026-11-14T14:08:11Z
+  Updated: 2026-11-18T09:04:00Z
   Total Products: 730
 - [Dining Chairs](https://maisonoryhome.com/collections/dining-chairs): Shop dining chairs in sets of 2 and 4. Mid-century modern rattan, farmhouse, and upholstered designs. Comfortable seating for dining rooms and kitchens. Free shipping available.
-  Updated: 2026-11-14T09:27:47Z
-  Total Products: 684
+  Updated: 2026-11-21T23:31:13Z
+  Total Products: 682
 - [TV Stands & Media Consoles](https://maisonoryhome.com/collections/tv-stands-media-consoles): Shop TV stands and entertainment centers for all TV sizes. Mid-century modern and farmhouse designs with storage. Perfect for living rooms and bedrooms. Free shipping available.
   Updated: 2026-04-20T16:23:19Z
   Total Products: 0
@@ -1672,50 +1672,50 @@
   Updated: 2026-10-28T17:18:02Z
   Total Products: 5
 - [Living Room Essentials](https://maisonoryhome.com/collections/living-room-essentials): Shop our curated living room furniture collection featuring sofas, TV stands, end tables, area rugs, and lighting. Create your perfect living space with premium home decor.
-  Updated: 2026-11-14T09:57:59Z
-  Total Products: 3451
+  Updated: 2026-11-21T23:31:24Z
+  Total Products: 3446
 - [Small Space Solutions](https://maisonoryhome.com/collections/small-space-solutions): Discover space-saving furniture and smart storage solutions for small apartments and compact rooms. Maximize your space with functional, stylish pieces designed for modern living.
-  Updated: 2026-11-14T19:03:41Z
-  Total Products: 4681
+  Updated: 2026-11-21T06:21:30Z
+  Total Products: 4676
 - [Spring Refresh](https://maisonoryhome.com/collections/spring-refresh): Refresh your home for spring with our seasonal decor collection. Light, airy furniture and accessories in fresh colors to brighten your living space this season.
-  Updated: 2026-11-14T20:17:38Z
-  Total Products: 12488
+  Updated: 2026-11-21T23:31:22Z
+  Total Products: 12475
 - [Under $50](https://maisonoryhome.com/collections/under-50): Shop stylish home decor and furniture under $50. Budget-friendly pieces that don't compromise on quality. Transform your space affordably with MaisonoryHome.
-  Updated: 2026-11-14T19:27:44Z
-  Total Products: 8363
+  Updated: 2026-11-21T23:31:56Z
+  Total Products: 8336
 - [Modern Minimalist](https://maisonoryhome.com/collections/modern-minimalist): Discover modern minimalist furniture and decor with clean lines and neutral tones. Create a serene, uncluttered home with our curated minimalist collection.
-  Updated: 2026-11-14T14:33:38Z
+  Updated: 2026-11-17T00:34:40Z
   Total Products: 752
 - [Bohemian & Eclectic](https://maisonoryhome.com/collections/bohemian-eclectic): Shop bohemian and eclectic home decor featuring rattan furniture, vibrant textiles, and artistic pieces. Create a unique, personalized living space with character.
-  Updated: 2026-11-14T15:46:42Z
-  Total Products: 2181
+  Updated: 2026-11-21T23:31:13Z
+  Total Products: 2176
 - [Industrial Chic](https://maisonoryhome.com/collections/industrial-chic): Shop industrial chic furniture with metal accents and reclaimed wood. Create an urban loft aesthetic with our modern industrial home decor collection.
-  Updated: 2026-11-14T09:24:42Z
-  Total Products: 810
+  Updated: 2026-11-18T09:03:39Z
+  Total Products: 809
 - [Accent Furniture](https://maisonoryhome.com/collections/accent-furniture): Discover unique accent furniture including side tables, benches, and ottomans. Add character and functionality to your home with our statement furniture pieces.
-  Updated: 2026-11-14T14:33:38Z
-  Total Products: 1125
+  Updated: 2026-11-21T23:31:13Z
+  Total Products: 1122
 - [Textiles & Soft Furnishings](https://maisonoryhome.com/collections/textiles-soft-furnishings): Shop home textiles including area rugs, throw pillows, and curtains. Add warmth and comfort to your space with our soft furnishings collection.
-  Updated: 2026-11-14T15:46:42Z
-  Total Products: 1536
+  Updated: 2026-11-21T06:21:37Z
+  Total Products: 1533
 - [Holiday & Christmas](https://maisonoryhome.com/collections/holiday-christmas): Shop Christmas and holiday home decor to create a festive atmosphere. Seasonal decorations, ornaments, and cozy pieces for your holiday celebrations.
-  Updated: 2026-11-14T19:49:44Z
-  Total Products: 1077
+  Updated: 2026-11-21T23:31:17Z
+  Total Products: 1076
 - [Summer Outdoor Living](https://maisonoryhome.com/collections/summer-outdoor-living): Shop summer outdoor furniture and patio decor. Create the perfect outdoor living space with weather-resistant pieces for entertaining and relaxation.
-  Updated: 2026-11-14T19:49:44Z
-  Total Products: 5914
+  Updated: 2026-11-21T23:31:21Z
+  Total Products: 5901
 - [Premium Collection](https://maisonoryhome.com/collections/premium-collection): Explore our premium luxury furniture collection featuring high-end pieces with superior craftsmanship. Elevate your home with timeless, sophisticated design.
-  Updated: 2026-11-14T20:17:38Z
-  Total Products: 10521
+  Updated: 2026-11-21T23:31:24Z
+  Total Products: 10516
 - [Sustainable & Natural Materials](https://maisonoryhome.com/collections/sustainable-natural-materials): Shop sustainable home furniture made from natural, eco-friendly materials. Responsibly sourced pieces that combine environmental consciousness with beautiful design.
-  Updated: 2026-11-14T19:27:44Z
-  Total Products: 7399
+  Updated: 2026-11-21T23:31:22Z
+  Total Products: 7392
 - [Smart Home Accessories](https://maisonoryhome.com/collections/smart-home-accessories): Discover smart home furniture with built-in charging stations and tech features. Modern, functional pieces designed for connected living and convenience.
-  Updated: 2026-11-14T17:13:37Z
-  Total Products: 2084
+  Updated: 2026-11-21T23:31:17Z
+  Total Products: 2083
 - [Wellness & Self-Care](https://maisonoryhome.com/collections/wellness-self-care): Create a wellness sanctuary at home with furniture and decor for meditation, yoga, and relaxation. Peaceful pieces designed to nurture your well-being.
-  Updated: 2026-11-14T20:17:38Z
-  Total Products: 12722
+  Updated: 2026-11-21T23:31:22Z
+  Total Products: 12709
 - [MaisonoryHome Best Sellers](https://maisonoryhome.com/collections/best-sellers-maisonoryhome): Shop MaisonoryHome's best- home decor and furniture. Customer favorites in rugs, sofas, shelving, lighting, and more — all in stock and ready to ship.
   Updated: 2026-10-29T15:07:33Z
   Total Products: 12
@@ -2691,8 +2691,6 @@
 
 ## Store Pages
 
-- [Contact Us](https://maisonoryhome.com/pages/contact)
-  Updated: 2026-08-13T05:24:38Z
 - [Your Privacy Choices](https://maisonoryhome.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-01-28T16:44:12Z
 - [Our Story - MaisonoryHome](https://maisonoryhome.com/pages/the-story-of-maisonoryhome): At MaisonoryHome, we don’t just  decor. We help you shape the environment where your memories are made, your mornings begin, and your evenings ...
@@ -2709,8 +2707,8 @@
   Updated: 2026-08-13T05:23:17Z
 - [How To Track My Order](https://maisonoryhome.com/pages/how-to-track-my-order): Please enter you tracking number below. if your tracking number doesn't work feel free to contact us at gotommylee0522@gmail.com
   Updated: 2026-08-13T05:22:40Z
-- [Contact](https://maisonoryhome.com/pages/contact-1): Have a question? We’re here to help.For all inquiries about your order, shipping, returns, or product information, feel free to reach out anytime.O...
-  Updated: 2026-08-13T05:24:19Z
+- [Contact Us](https://maisonoryhome.com/pages/contact-1): Have a question? We’re here to help.For all inquiries about your order, shipping, returns, or product information, feel free to reach out anytime.O...
+  Updated: 2026-11-17T02:48:48Z
 - [Refund Policy](https://maisonoryhome.com/pages/refund-policy): We have a 30-day return policy, which means you have 30 days after receiving your item to request a return.To be eligible for a return, your item m...
   Updated: 2026-08-13T05:52:08Z
 
