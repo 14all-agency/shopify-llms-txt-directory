@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-05T14:28:04Z
 - Contact Email: shop@sitzfleisch.eu
-- Updated At: 2026-11-16T00:38:27.500Z
+- Updated At: 2026-11-23T00:39:20.699Z
 
 ## Products
 
@@ -269,7 +269,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/ducati-monster-s4-diamond-black.jpg?v=1753285529
     Price: 99,99 € EUR
 - [DUCATI Monster (2008-2014) Sitzbank Bezug](https://www.sitzfleisch.eu/products/ducati-monster-2008-2014-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Alles was du benötigst ist unser Bezug, ein Handtacker und ein bisschen Zeit. Bei Fragen zur Montage sind wir für dich da – kontaktiere unseren Support! BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Einfach edel. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt. Passend für alle original Sitzbänke folgender Modelle: DUCATI Monster 696 / 796 / 1100 / 1100 Evo (2008-2014)Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-11-02T07:46:27Z
+  Updated: 2026-11-17T09:16:05Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
