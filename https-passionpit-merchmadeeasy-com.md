@@ -6,267 +6,273 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-05T20:56:38Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-15T00:19:17.767Z
+- Updated At: 2026-11-23T00:19:52.590Z
 
 ## Products
 
 - [Diamond Eye Tee](https://passionpit.merchmadeeasy.com/products/diamond-eye-tee): Diamond Eye design on a 100% cotton tee Unisex
-  Updated: 2026-11-12T21:45:37Z
+  Updated: 2026-11-20T06:00:10Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion_Pit_0004_Diamond-Eye-Tee.png?v=1778188058
   - [XS](https://passionpit.merchmadeeasy.com/products/diamond-eye-tee?variant=52178688016667)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [S](https://passionpit.merchmadeeasy.com/products/diamond-eye-tee?variant=52178688049435)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [M](https://passionpit.merchmadeeasy.com/products/diamond-eye-tee?variant=52178688082203)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [L](https://passionpit.merchmadeeasy.com/products/diamond-eye-tee?variant=52178688114971)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [XL](https://passionpit.merchmadeeasy.com/products/diamond-eye-tee?variant=52178688147739)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [2XL](https://passionpit.merchmadeeasy.com/products/diamond-eye-tee?variant=52178688180507)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
 - [Star Child Tee](https://passionpit.merchmadeeasy.com/products/star-child-tee): Star child design on a 100% cotton tee in Black Unisex
-  Updated: 2026-11-12T21:45:37Z
+  Updated: 2026-11-20T06:00:11Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion_Pit_0002_Star-Child-Tee.png?v=1778188265
   - [S](https://passionpit.merchmadeeasy.com/products/star-child-tee?variant=52178692571419)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [M](https://passionpit.merchmadeeasy.com/products/star-child-tee?variant=52178692604187)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [L](https://passionpit.merchmadeeasy.com/products/star-child-tee?variant=52178692636955)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [XL](https://passionpit.merchmadeeasy.com/products/star-child-tee?variant=52178692669723)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [2XL](https://passionpit.merchmadeeasy.com/products/star-child-tee?variant=52178692702491)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
 - [Teeth Tee](https://passionpit.merchmadeeasy.com/products/teeth-tee): Teeth design on a 100% cotton tee in Kelly Green or Olive Green
-  Updated: 2026-11-12T21:45:37Z
+  Updated: 2026-11-20T06:00:12Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/PassionPit_0003_Teeth-Tee-Olive.png?v=1779311012
   - [S / Green](https://passionpit.merchmadeeasy.com/products/teeth-tee?variant=52178693030171)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [S / Olive](https://passionpit.merchmadeeasy.com/products/teeth-tee?variant=52178694275355)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [M / Green](https://passionpit.merchmadeeasy.com/products/teeth-tee?variant=52178694078747)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [M / Olive](https://passionpit.merchmadeeasy.com/products/teeth-tee?variant=52178694308123)
-    Availability: Available
-    Price: $35.00 USD
+    Availability: Not Available
+    Price: $26.25 USD
   - [L / Green](https://passionpit.merchmadeeasy.com/products/teeth-tee?variant=52178694111515)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [L / Olive](https://passionpit.merchmadeeasy.com/products/teeth-tee?variant=52178694340891)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [XL / Green](https://passionpit.merchmadeeasy.com/products/teeth-tee?variant=52178694144283)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [XL / Olive](https://passionpit.merchmadeeasy.com/products/teeth-tee?variant=52178694373659)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
 - [Lifted Tee](https://passionpit.merchmadeeasy.com/products/lifted-tee): 100% cotton tee in Black Unisex
-  Updated: 2026-11-12T21:45:36Z
+  Updated: 2026-11-20T06:00:13Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/PassionPit_0004_Lifted-Tee.png?v=1779310990
   - [XS](https://passionpit.merchmadeeasy.com/products/lifted-tee?variant=52178694930715)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [S](https://passionpit.merchmadeeasy.com/products/lifted-tee?variant=52178694635803)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [M](https://passionpit.merchmadeeasy.com/products/lifted-tee?variant=52178694668571)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [L](https://passionpit.merchmadeeasy.com/products/lifted-tee?variant=52178694701339)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [XL](https://passionpit.merchmadeeasy.com/products/lifted-tee?variant=52178694734107)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
 - [Orb Tee](https://passionpit.merchmadeeasy.com/products/orb-tee-copy): 100% cotton tee in Black Unisex
-  Updated: 2026-11-13T17:26:31Z
+  Updated: 2026-11-20T06:00:14Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/PassionPit_0005_Globe-Tee.png?v=1779311000
   - [S](https://passionpit.merchmadeeasy.com/products/orb-tee-copy?variant=52178695061787)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [M](https://passionpit.merchmadeeasy.com/products/orb-tee-copy?variant=52178695094555)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [L](https://passionpit.merchmadeeasy.com/products/orb-tee-copy?variant=52178695127323)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [XL](https://passionpit.merchmadeeasy.com/products/orb-tee-copy?variant=52178695160091)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $26.25 USD
 - [Bottle Opener Keychain](https://passionpit.merchmadeeasy.com/products/bottle-opener-keychain): Passion Pit design on a bottle opener keychain
-  Updated: 2026-11-12T21:45:36Z
+  Updated: 2026-11-20T06:00:15Z
   Vendor: Passion Pit
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion-Pit-Bottle-opener.png?v=1779310995
-  Price: $5.00 USD
+  Price: $3.75 USD
 - [Faces Tote Bag](https://passionpit.merchmadeeasy.com/products/faces-tote-bag): Cotton canvas tote bag with faces graphic on the front
-  Updated: 2026-11-12T21:45:36Z
+  Updated: 2026-11-20T06:00:15Z
   Vendor: Passion Pit
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion_Pit_0001_PP-Tote.png?v=1778188737
-  Price: $20.00 USD
+  Price: $15.00 USD
 - [Gossamer CD](https://passionpit.merchmadeeasy.com/products/gossamer-cd): Gossamer CD by Passion Pit
-  Updated: 2026-11-12T21:45:35Z
+  Updated: 2026-11-22T18:37:36Z
   Vendor: Passion Pit
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion_Pit_0005_Passion_Pit_Gossamer_CD_5000x_6a3f3803-6aa0-4947-a282-5572f04e81c1.png?v=1779983108
   Price: $14.98 USD
 - [Chunk of Change Vinyl](https://passionpit.merchmadeeasy.com/products/chunk-of-change-vinyl): Tracklist: I've Got Your Number Smile Upon Me Cuddle Fuddle Live to Tell the Tale Better Things Sleepyhead
-  Updated: 2026-11-12T21:45:35Z
+  Updated: 2026-11-15T13:21:40Z
   Vendor: Passion Pit
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion_Pit_0000_Chunk-of-Change-Vinyl.png?v=1778188939
   Price: $29.98 USD
 - [2026 Tour Photo Tee](https://passionpit.merchmadeeasy.com/products/2026-tour-photo-tee): Passion Pit graphic on the front 2026 tour dates on the back 100% cotton tee in Black
-  Updated: 2026-11-12T21:45:35Z
+  Updated: 2026-11-20T06:00:16Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Mockup_0010_Passion-Pit-2026-Tour-Tee.png?v=1778789760
   - [S](https://passionpit.merchmadeeasy.com/products/2026-tour-photo-tee?variant=52211732447515)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [M](https://passionpit.merchmadeeasy.com/products/2026-tour-photo-tee?variant=52211732480283)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [L](https://passionpit.merchmadeeasy.com/products/2026-tour-photo-tee?variant=52211732513051)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [XL](https://passionpit.merchmadeeasy.com/products/2026-tour-photo-tee?variant=52211732545819)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
   - [2XL](https://passionpit.merchmadeeasy.com/products/2026-tour-photo-tee?variant=52211732578587)
     Availability: Available
-    Price: $35.00 USD
+    Price: $26.25 USD
 - [Captcha Tee](https://passionpit.merchmadeeasy.com/products/captcha-tee): Passion Pit captcha graphic on the front 
 100% cotton tee in White
 Unisex
-  Updated: 2026-11-12T21:45:35Z
+  Updated: 2026-11-20T06:00:08Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Mockup_0009_Passion-Pit-Captcha-Tee.png?v=1778790595
   - [S](https://passionpit.merchmadeeasy.com/products/captcha-tee?variant=52211742376219)
     Availability: Available
-    Price: $35.00 USD
+    Price: $29.75 USD
   - [M](https://passionpit.merchmadeeasy.com/products/captcha-tee?variant=52211742408987)
     Availability: Available
-    Price: $35.00 USD
+    Price: $29.75 USD
   - [L](https://passionpit.merchmadeeasy.com/products/captcha-tee?variant=52211742441755)
     Availability: Available
-    Price: $35.00 USD
+    Price: $29.75 USD
   - [XL](https://passionpit.merchmadeeasy.com/products/captcha-tee?variant=52211742474523)
     Availability: Available
-    Price: $35.00 USD
+    Price: $29.75 USD
   - [2XL](https://passionpit.merchmadeeasy.com/products/captcha-tee?variant=52211742507291)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $29.75 USD
 - [Smile Upon Me Tee](https://passionpit.merchmadeeasy.com/products/smile-tee): you'll always smile upon me and i'll smile upon you too
 100% cotton tee in Beige
 Unisex
-  Updated: 2026-11-12T21:45:35Z
+  Updated: 2026-11-20T06:00:10Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Mockup_0004_Passion-Pit-Smile-Tee.png?v=1778790768
   - [S](https://passionpit.merchmadeeasy.com/products/smile-tee?variant=52211743883547)
     Availability: Available
-    Price: $35.00 USD
+    Price: $29.75 USD
   - [M](https://passionpit.merchmadeeasy.com/products/smile-tee?variant=52211743916315)
     Availability: Available
-    Price: $35.00 USD
+    Price: $29.75 USD
   - [L](https://passionpit.merchmadeeasy.com/products/smile-tee?variant=52211743949083)
     Availability: Available
-    Price: $35.00 USD
+    Price: $29.75 USD
   - [XL](https://passionpit.merchmadeeasy.com/products/smile-tee?variant=52211743981851)
     Availability: Available
-    Price: $35.00 USD
+    Price: $29.75 USD
   - [2XL](https://passionpit.merchmadeeasy.com/products/smile-tee?variant=52211744014619)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $29.75 USD
 - [Sleepyhead Hat](https://passionpit.merchmadeeasy.com/products/sleepyhead-hat): Sleepyhead embroidered in blue on the front Passion Pit embroidered on the back Tan baseball cap
-  Updated: 2026-11-12T21:45:35Z
+  Updated: 2026-11-20T06:00:10Z
   Vendor: Passion Pit
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Sleepyhead-Hat-A.png?v=1778791339
-  Price: $40.00 USD
+  Price: $34.00 USD
 - [Passion Pit Tote](https://passionpit.merchmadeeasy.com/products/passion-pit-tote): Passion Pit graphic in orange printed on the front 100% cotton canvas
-  Updated: 2026-11-12T21:45:35Z
+  Updated: 2026-11-20T06:00:17Z
   Vendor: Passion Pit
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Mockup_0007_Passion-Pit-Tote.png?v=1778791414
-  Price: $25.00 USD
+  Price: $18.75 USD
 - [Sticker Pack](https://passionpit.merchmadeeasy.com/products/sticker-pack): Set of 5 stickers
-  Updated: 2026-11-12T21:45:35Z
+  Updated: 2026-11-20T06:00:17Z
   Vendor: Passion Pit
   Product Type: Stickers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion-Pit-Sticker-Pack.jpg?v=1778791506
-  Price: $14.00 USD
+  Price: $10.50 USD
 
 ## Collections
 
 - [Home page](https://passionpit.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-07T12:32:15Z
+  Updated: 2026-11-20T06:00:16Z
   Total Products: 10
 - [Apparel](https://passionpit.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-05T12:23:09Z
+  Updated: 2026-11-20T06:00:17Z
   Total Products: 9
 - [Accessories](https://passionpit.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-11T12:21:43Z
+  Updated: 2026-11-20T06:00:18Z
   Total Products: 5
 - [Music](https://passionpit.merchmadeeasy.com/collections/music)
-  Updated: 2026-11-07T12:32:15Z
+  Updated: 2026-11-16T12:20:12Z
   Total Products: 2
 - [Pretty Penny Tour](https://passionpit.merchmadeeasy.com/collections/tour)
-  Updated: 2026-11-11T12:21:43Z
+  Updated: 2026-11-20T06:00:18Z
   Total Products: 6
 - [Hats](https://passionpit.merchmadeeasy.com/collections/hats)
   Updated: 2026-09-21T17:41:03Z
   Total Products: 0
 - [All](https://passionpit.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-11T12:21:43Z
+  Updated: 2026-11-20T06:00:18Z
   Total Products: 15
 - [T-Shirts](https://passionpit.merchmadeeasy.com/collections/t-shirts)
-  Updated: 2026-11-05T12:23:09Z
+  Updated: 2026-11-20T06:00:17Z
   Total Products: 7
+- [Black Friday ](https://passionpit.merchmadeeasy.com/collections/black-friday-)
+  Updated: 2026-11-20T06:00:18Z
+  Total Products: 13
+- [EG All Products - DO NOT EDIT](https://passionpit.merchmadeeasy.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu'elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
+  Updated: 2026-11-20T06:00:18Z
+  Total Products: 16
 
 ## Store Pages
 
