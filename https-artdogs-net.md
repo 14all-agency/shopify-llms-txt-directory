@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-22T16:28:59Z
 - Contact Email: ArtDog@ArtDogs.co
-- Updated At: 2026-11-16T00:55:57.635Z
+- Updated At: 2026-11-23T01:15:07.646Z
 
 ## Products
 
@@ -3034,8 +3034,8 @@
   Updated: 2026-09-15T03:19:33Z
 - [Refund & Returns Policy](https://artdogs.net/pages/refund-returns-policy): Return, Exchange & Refund PolicyOur Individually Crafted Artwork ModelArtDogs sells artwork expressed through apparel and other physical media. Man...
   Updated: 2026-09-15T03:19:33Z
-- [ Terms & Conditions](https://artdogs.net/pages/-terms-conditions):  Program Join the Pack and become an  The ArtDogs LLC  Program allows you a  of the gross  by the referred...
-  Updated: 2025-12-03T15:24:33Z
+- [ Terms & Conditions](https://artdogs.net/pages/-terms-conditions):  Program Join the Pack and become an  The ArtDogs Wearable Art  Program pays  affiliates a  on qualify...
+  Updated: 2026-11-16T03:29:42Z
 - [Meet the Team](https://artdogs.net/pages/meet-the-team)
   Updated: 2025-12-04T09:17:29Z
 - [Membership Purchase Success](https://artdogs.net/pages/membership-purchase-success): Congratulations, you've successfully purchased the membership!//
