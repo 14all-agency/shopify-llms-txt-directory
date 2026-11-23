@@ -6,96 +6,96 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-01-20T18:12:09Z
 - Contact Email: yugvigyana@gmail.com
-- Updated At: 2026-11-15T00:31:33.361Z
+- Updated At: 2026-11-23T00:36:00.326Z
 
 ## Products
 
-- [Microfiber 300 GSM Reversible Comforter Dark Brown Off-White | Double Bed | MVB](https://mvbyugvigyana.in/products/microfiber-300-gsm-solid-double-bed-reversible-ac-comforter-blanket-for-winter-quilt-duvets-84-x-93): Buy MVB Microfiber 300 GSM Reversible Comforter – Dark Brown & Off-White, 84x93 inch double bed. Hypoallergenic, box-quilted, machine washable. Made in India.
-  Updated: 2026-08-29T00:50:44Z
+- [Comforter 300 GSM Microfiber, Dark Brown & Off-White](https://mvbyugvigyana.in/products/microfiber-300-gsm-solid-double-bed-reversible-ac-comforter-blanket-for-winter-quilt-duvets-84-x-93): Buy MVB Microfiber 300 GSM Reversible Comforter – Dark Brown & Off-White, 84x93 inch double bed. Hypoallergenic, box-quilted, machine washable. Made in India.
+  Updated: 2026-11-19T15:19:45Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CF021-01_8a30c3ae-9d42-4061-9e0a-b1e7c433a9bc.jpg?v=1770975702
   Price: ₹2,999.00 INR
-- [Reversible Microfiber Comforter 300 GSM Navy Blue Lemon Green | MVB](https://mvbyugvigyana.in/products/reversible-microfiber-ac-blanket-for-double-bed-300-gsm-warm-quilt-navy-blue-lemon-green): Buy MVB Reversible Microfiber Comforter 300 GSM – Navy Blue & Lemon Green, 84x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC & winters.
-  Updated: 2026-08-29T00:50:45Z
+- [Comforter 300 GSM Microfiber, Navy Blue & Lemon Green](https://mvbyugvigyana.in/products/reversible-microfiber-ac-blanket-for-double-bed-300-gsm-warm-quilt-navy-blue-lemon-green): Buy MVB Reversible Microfiber Comforter 300 GSM – Navy Blue & Lemon Green, 84x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC & winters.
+  Updated: 2026-11-19T15:19:46Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/01.png?v=1770822118
   Price: ₹2,999.00 INR
-- [Microfiber 300 GSM Reversible AC Comforter Maroon Grey | Double Bed | MVB](https://mvbyugvigyana.in/products/microfiber-300-gsm-solid-double-bed-reversible-ac-comforter): Buy MVB Microfiber 300 GSM Reversible AC Comforter – Maroon & Grey, 84x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC rooms & winters.
-  Updated: 2026-08-29T00:50:45Z
+- [AC Comforter 300 GSM Microfiber, Maroon & Grey](https://mvbyugvigyana.in/products/microfiber-300-gsm-solid-double-bed-reversible-ac-comforter): Buy MVB Microfiber 300 GSM Reversible AC Comforter – Maroon & Grey, 84x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC rooms & winters.
+  Updated: 2026-11-19T15:19:46Z
   Vendor: MVB YUGVIGYANA
   Product Type: Febric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CF025-01.jpg?v=1770818868
   Price: ₹2,999.00 INR
-- [Soft Microfiber Reversible Comforter 300 GSM Sky Blue Lemon Green | MVB](https://mvbyugvigyana.in/products/soft-microfiber-reversible-blanket-cozy-ac-comforter-for-double-beds): Buy MVB Soft Microfiber Reversible Comforter 300 GSM – Sky Blue & Lemon Green, 84x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC & winters.
-  Updated: 2026-08-29T00:50:45Z
+- [Comforter 300 GSM Microfiber, Sky Blue & Lemon Green](https://mvbyugvigyana.in/products/soft-microfiber-reversible-blanket-cozy-ac-comforter-for-double-beds): Buy MVB Soft Microfiber Reversible Comforter 300 GSM – Sky Blue & Lemon Green, 84x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC & winters.
+  Updated: 2026-11-19T15:19:50Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/01.jpg?v=1770821348
   Price: ₹2,999.00 INR
-- [Microfiber 300 GSM Reversible AC Comforter Black Grey | Double Bed | MVB](https://mvbyugvigyana.in/products/microfiber-300-gsm-solid-double-bed-reversible-ac-comforter-1): Buy MVB Microfiber 300 GSM Reversible AC Comforter – Black & Grey, 84x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC rooms & winters.
-  Updated: 2026-08-29T00:50:46Z
+- [AC Comforter 300 GSM Microfiber, Black & Grey](https://mvbyugvigyana.in/products/microfiber-300-gsm-solid-double-bed-reversible-ac-comforter-1): Buy MVB Microfiber 300 GSM Reversible AC Comforter – Black & Grey, 84x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC rooms & winters.
+  Updated: 2026-11-19T15:19:47Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CF024-01.jpg?v=1770820821
   Price: ₹2,999.00 INR
-- [Reversible Microfiber Comforter Navy Blue Red 300 GSM | Double Bed | MVB](https://mvbyugvigyana.in/products/reversible-microfiber-winter-quilt-ac-comforter-for-double-beds): Buy MVB Reversible Microfiber Winter Quilt 300 GSM – Navy Blue & Red, 84x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC & winters.
-  Updated: 2026-08-29T00:50:46Z
+- [Comforter 300 GSM Microfiber, Navy Blue & Red](https://mvbyugvigyana.in/products/reversible-microfiber-winter-quilt-ac-comforter-for-double-beds): Buy MVB Reversible Microfiber Winter Quilt 300 GSM – Navy Blue & Red, 84x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC & winters.
+  Updated: 2026-11-19T15:19:47Z
   Vendor: MVB YUGVIGYANA
   Product Type: Febric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CF026-01.jpg?v=1770819903
   Price: ₹2,999.00 INR
-- [300 GSM Dual-Tone AC Comforter Red Lemon Green Reversible | MVB](https://mvbyugvigyana.in/products/300-gsm-dual-tone-ac-comforter-for-double-bed): Buy MVB 300 GSM Dual-Tone AC Comforter – Red & Lemon Green reversible, 84x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC & winters.
-  Updated: 2026-08-29T00:50:46Z
+- [AC Comforter 300 GSM Reversible, Red & Lemon Green](https://mvbyugvigyana.in/products/300-gsm-dual-tone-ac-comforter-for-double-bed): Buy MVB 300 GSM Dual-Tone AC Comforter – Red & Lemon Green reversible, 84x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC & winters.
+  Updated: 2026-11-19T15:19:52Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CF027-01.jpg?v=1770817474
   Price: ₹2,999.00 INR
-- [Reversible Microfiber Comforter 300 GSM | Warm Soft Double Bed | MVB](https://mvbyugvigyana.in/products/warm-and-soft-microfiber-comforter-300-gsm-reversible-ac-blanket-for-double-beds): Buy MVB Reversible Microfiber Comforter 300 GSM – dual-color, 84x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC rooms & winters.
-  Updated: 2026-08-29T00:50:47Z
+- [Comforter 300 GSM Reversible Microfiber, Double Bed](https://mvbyugvigyana.in/products/warm-and-soft-microfiber-comforter-300-gsm-reversible-ac-blanket-for-double-beds): Buy MVB Reversible Microfiber Comforter 300 GSM – dual-color, 84x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC rooms & winters.
+  Updated: 2026-11-19T15:19:51Z
   Vendor: MVB YUGVIGYANA
   Product Type: Febric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CF028-01.jpg?v=1770824591
   Price: ₹2,999.00 INR
-- [Lightweight Microfiber Comforter 300 GSM Lemon Green Reversible | MVB](https://mvbyugvigyana.in/products/lightweight-microfiber-300-gsm-reversible-comforter): Buy MVB Lightweight Microfiber 300 GSM Reversible Comforter – Lemon Green, 89x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC & winters.
-  Updated: 2026-08-29T00:50:47Z
+- [Comforter 300 GSM Reversible Microfiber, Lemon Green](https://mvbyugvigyana.in/products/lightweight-microfiber-300-gsm-reversible-comforter): Buy MVB Lightweight Microfiber 300 GSM Reversible Comforter – Lemon Green, 89x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC & winters.
+  Updated: 2026-11-19T15:19:51Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CF030-01.jpg?v=1770818441
   Price: ₹2,999.00 INR
-- [Double Bed Microfiber Comforter 300 GSM Aqua Green Reversible | MVB](https://mvbyugvigyana.in/products/double-bed-microfiber-comforter-300-gsm-reversible-duvet-for-winter-ac-rooms): Buy MVB Double Bed Microfiber Comforter 300 GSM – Aqua Green reversible duvet. Hypoallergenic, machine washable. Perfect for winter & AC rooms. Made in India.
-  Updated: 2026-08-29T00:50:47Z
+- [Comforter 300 GSM Reversible Microfiber, Aqua Green](https://mvbyugvigyana.in/products/double-bed-microfiber-comforter-300-gsm-reversible-duvet-for-winter-ac-rooms): Buy MVB Double Bed Microfiber Comforter 300 GSM – Aqua Green reversible duvet. Hypoallergenic, machine washable. Perfect for winter & AC rooms. Made in India.
+  Updated: 2026-11-19T15:19:48Z
   Vendor: MVB YUGVIGYANA
   Product Type: Febric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CF031-01.jpg?v=1770815806
   Price: ₹2,999.00 INR
-- [Soft Microfiber 300 GSM Reversible Comforter Light Grey | Double Bed | MVB](https://mvbyugvigyana.in/products/soft-microfiber-300-gsm-reversible-comforter-double-bed-quilt-with-dual-colors): Buy MVB Soft Microfiber 300 GSM Reversible Comforter – Light Grey dual color, 89x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC & winters.
-  Updated: 2026-08-29T00:50:47Z
+- [Comforter 300 GSM Reversible Microfiber, Light Grey](https://mvbyugvigyana.in/products/soft-microfiber-300-gsm-reversible-comforter-double-bed-quilt-with-dual-colors): Buy MVB Soft Microfiber 300 GSM Reversible Comforter – Light Grey dual color, 89x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC & winters.
+  Updated: 2026-11-19T15:19:57Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CF032-01.jpg?v=1770823930
   Price: ₹2,999.00 INR
-- [All-Season Microfiber Comforter 300 GSM Aqua Green Reversible | MVB](https://mvbyugvigyana.in/products/all-season-microfiber-comforter-300-gsm-double-bed-reversible-ac-quilt): Buy MVB All-Season Microfiber Comforter 300 GSM – Aqua Green reversible, 89x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC & winters.
-  Updated: 2026-08-29T00:50:48Z
+- [All-Season Comforter 300 GSM Microfiber, Aqua Green](https://mvbyugvigyana.in/products/all-season-microfiber-comforter-300-gsm-double-bed-reversible-ac-quilt): Buy MVB All-Season Microfiber Comforter 300 GSM – Aqua Green reversible, 89x93 inch double bed. Hypoallergenic, machine washable. Perfect for AC & winters.
+  Updated: 2026-11-19T15:19:48Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CF033-01.jpg?v=1770578305
   Price: ₹2,999.00 INR
-- [Double Bed Microfiber Comforter 300 GSM Teal Blue Reversible | MVB](https://mvbyugvigyana.in/products/double-bed-microfiber-comforter-300-gsm): Buy MVB Double Bed Microfiber Comforter 300 GSM – Teal Blue reversible, 89x93 inch. Hypoallergenic, machine washable. Perfect for AC rooms & winters.
-  Updated: 2026-08-29T00:50:48Z
+- [Comforter 300 GSM Reversible Microfiber, Teal Blue](https://mvbyugvigyana.in/products/double-bed-microfiber-comforter-300-gsm): Buy MVB Double Bed Microfiber Comforter 300 GSM – Teal Blue reversible, 89x93 inch. Hypoallergenic, machine washable. Perfect for AC rooms & winters.
+  Updated: 2026-11-19T15:19:54Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabric
   Availability: Available
@@ -174,8 +174,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/SB682_1.jpg?v=1770825837
     Price: ₹799.00 INR
-- [Traditional Floral Cotton Single Bedsheet 240 TC | 4 Colors | MVB](https://mvbyugvigyana.in/products/traditional-floral-pure-cotton-single-bedsheet): Buy MVB Traditional Floral Pure Cotton Single Bedsheet – 240 TC, Pink, Grey, Green, Blue. 1 bedsheet + 1 pillow cover. Soft, breathable & machine washable.
-  Updated: 2026-08-29T00:50:49Z
+- [Cotton Single Bedsheet 240 TC, Traditional Floral](https://mvbyugvigyana.in/products/traditional-floral-pure-cotton-single-bedsheet): Buy MVB Traditional Floral Pure Cotton Single Bedsheet – 240 TC, Pink, Grey, Green, Blue. 1 bedsheet + 1 pillow cover. Soft, breathable & machine washable.
+  Updated: 2026-11-19T15:19:53Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -250,8 +250,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/SB709.jpg?v=1771499588
     Price: ₹799.00 INR
-- [Royal Soft Premium Cotton Single Bedsheet 240 TC | 3 Colors | MVB](https://mvbyugvigyana.in/products/royal-soft-premium-cotton-bedsheet): Buy MVB Royal Soft Premium Cotton Single Bedsheet – 240 TC, White-Orange, White-Red, White-Green. 1 bedsheet + 1 pillow cover. Breathable & machine washable.
-  Updated: 2026-08-29T00:50:50Z
+- [Cotton Single Bedsheet 240 TC, Royal Soft](https://mvbyugvigyana.in/products/royal-soft-premium-cotton-bedsheet): Buy MVB Royal Soft Premium Cotton Single Bedsheet – 240 TC, White-Orange, White-Red, White-Green. 1 bedsheet + 1 pillow cover. Breathable & machine washable.
+  Updated: 2026-11-19T15:19:52Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -332,15 +332,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Marble-Meenakari-Work-Pen-Holder-MVB-YUGVIGYANA-53334461907308.jpg?v=1772364734
   Price: ₹835.00 INR
-- [Marble Peacock Pen Holder | Meenakari Kundan Work | MVB Handicraft](https://mvbyugvigyana.in/products/marble-peacock-painting-pen-holder): Buy MVB Marble Peacock Painting Pen Holder – Meenakari & Kundan work, pure white marble, 4.5x2.25 inch. Premium desk décor & gifting. Handcrafted in India.
-  Updated: 2026-08-29T00:50:52Z
+- [Marble Peacock Pen Holder, Meenakari & Kundan Work](https://mvbyugvigyana.in/products/marble-peacock-painting-pen-holder): Buy MVB Marble Peacock Painting Pen Holder – Meenakari & Kundan work, pure white marble, 4.5x2.25 inch. Premium desk décor & gifting. Handcrafted in India.
+  Updated: 2026-11-19T15:19:54Z
   Vendor: MVB YUGVIGYANA
   Product Type: Pen Holder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Marble-Peacock-Painting-Pen-Holder-MVB-YUGVIGYANA-53334466527596.jpg?v=1772364712
   Price: ₹835.00 INR
-- [Buy Marble Ganesh Ji Pen Holder Hand-Painted India – MVB Yugvigyana](https://mvbyugvigyana.in/products/marble-ganesh-ji-painting-pen-holder): Shop hand-painted Marble Ganesh Ji Pen Holder at MVB Yugvigyana. Pure white marble, 4x3x4 inch, perfect for desk decor & gifting. Pan India delivery!
-  Updated: 2026-08-29T00:50:52Z
+- [Marble Ganesh Ji Pen Holder, Hand-Painted](https://mvbyugvigyana.in/products/marble-ganesh-ji-painting-pen-holder): Shop hand-painted Marble Ganesh Ji Pen Holder at MVB Yugvigyana. Pure white marble, 4x3x4 inch, perfect for desk decor & gifting. Pan India delivery!
+  Updated: 2026-11-19T15:19:55Z
   Vendor: MVB YUGVIGYANA
   Product Type: Pen Holder
   Availability: Available
@@ -367,119 +367,119 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Marble-Hanging-And-Table-Top-Laltain-MVB-YUGVIGYANA-53334481174892.jpg?v=1772364650
   Price: ₹2,610.00 INR
-- [Marble Peacock Light Laltain | Hand-Painted Decorative Lantern | MVB](https://mvbyugvigyana.in/products/marble-peacock-painting-light-laltain): Buy MVB Marble Peacock Painting Light Laltain – hand-painted pure marble lantern with electric glow. Available in 4 sizes. Perfect for home décor & gifting.
-  Updated: 2026-08-29T00:50:53Z
+- [Marble Peacock Light Lantern, Hand-Painted](https://mvbyugvigyana.in/products/marble-peacock-painting-light-laltain): Buy MVB Marble Peacock Painting Light Laltain – hand-painted pure marble lantern with electric glow. Available in 4 sizes. Perfect for home décor & gifting.
+  Updated: 2026-11-19T15:19:49Z
   Vendor: MVB YUGVIGYANA
   Product Type: Marbel Laltain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Marble-Peacock-Painting-Light-Laltain-MVB-YUGVIGYANA-53334483468652.jpg?v=1772364641
   Price: ₹2,958.00 INR
-- [MVB Marble Peacock Painting Light Laltain | Handcrafted Indian Marble Lantern | Home Décor India](https://mvbyugvigyana.in/products/marble-peacock-painting-light-laltain-1): Buy MVB Marble Peacock Painting Light Laltain. Handcrafted pure marble lantern with hand-painted peacock design, electric light. 12 inch. Ships across India & USA.
-  Updated: 2026-08-29T00:50:54Z
+- [Marble Peacock Painting Lantern with Electric Light](https://mvbyugvigyana.in/products/marble-peacock-painting-light-laltain-1): Buy MVB Marble Peacock Painting Light Laltain. Handcrafted pure marble lantern with hand-painted peacock design, electric light. 12 inch. Ships across India & USA.
+  Updated: 2026-11-19T15:19:53Z
   Vendor: MVB YUGVIGYANA
   Product Type: Marbel Laltain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Marble-Peacock-Painting-Light-Laltain-MVB-YUGVIGYANA-53334484746604.jpg?v=1772369204
   Price: ₹4,524.00 INR
-- [Rose Aroma Soy Wax Candle | Hand-Poured Copper Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/rose-spark-in-a-copper-metal-luxury-jar): Buy MVB Rose Spark Soy Wax Candle — romantic rose fragrance, hand-poured in copper metal jar, natural soy wax. Long-lasting & toxin-free. Perfect gifting option.
-  Updated: 2026-08-29T00:50:54Z
+- [Rose Soy Wax Candle, Hand-Poured Copper Jar](https://mvbyugvigyana.in/products/rose-spark-in-a-copper-metal-luxury-jar): Buy MVB Rose Spark Soy Wax Candle — romantic rose fragrance, hand-poured in copper metal jar, natural soy wax. Long-lasting & toxin-free. Perfect gifting option.
+  Updated: 2026-11-19T15:19:56Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Rose-Spark-in-a-Copper-Metal-Luxury-Jar-MVB-YUGVIGYANA-53334629253484.jpg?v=1772365116
   Price: ₹699.00 INR
-- [Lime Aroma Soy Wax Candle | Hand-Poured Copper Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/vibrant-lime-spark-in-copper-jar-candle): Buy MVB Lime Spark Soy Wax Candle — zesty lime fragrance, hand-poured in elegant copper metal jar, natural soy wax. Long-lasting & toxin-free. Perfect gifting.
-  Updated: 2026-08-29T00:50:54Z
+- [Lime Soy Wax Candle, Hand-Poured Copper Jar](https://mvbyugvigyana.in/products/vibrant-lime-spark-in-copper-jar-candle): Buy MVB Lime Spark Soy Wax Candle — zesty lime fragrance, hand-poured in elegant copper metal jar, natural soy wax. Long-lasting & toxin-free. Perfect gifting.
+  Updated: 2026-11-19T15:19:56Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Vibrant-Lime-Spark-in-Copper-Jar-Candle-MVB-YUGVIGYANA-53334630334828.jpg?v=1772365095
   Price: ₹699.00 INR
-- [Sandalwood Aroma Soy Wax Candle | Hand-Poured Gold Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/golden-sandalwood-bliss-aroma-candle): Buy MVB Sandalwood Bliss Soy Wax Candle — rich sandalwood fragrance, hand-poured in luxurious gold metal jar, natural soy wax. Long-lasting & toxin-free. Premium gifting.
-  Updated: 2026-08-29T00:50:54Z
+- [Sandalwood Soy Wax Candle, Hand-Poured Gold Jar](https://mvbyugvigyana.in/products/golden-sandalwood-bliss-aroma-candle): Buy MVB Sandalwood Bliss Soy Wax Candle — rich sandalwood fragrance, hand-poured in luxurious gold metal jar, natural soy wax. Long-lasting & toxin-free. Premium gifting.
+  Updated: 2026-11-19T15:19:57Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Golden-Sandalwood-Bliss-Aroma-Candle-MVB-YUGVIGYANA-53334632137068.jpg?v=1772365070
   Price: ₹699.00 INR
-- [Jasmine Aroma Soy Wax Candle | Hand-Poured Gold Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/golden-jasmine-bliss-aroma-candle): Buy MVB Jasmine Bliss Soy Wax Candle — rich jasmine fragrance, hand-poured in luxurious gold metal jar, natural soy wax. Long-lasting & toxin-free. Premium gifting.
-  Updated: 2026-08-29T00:50:55Z
+- [Jasmine Soy Wax Candle, Hand-Poured Gold Jar](https://mvbyugvigyana.in/products/golden-jasmine-bliss-aroma-candle): Buy MVB Jasmine Bliss Soy Wax Candle — rich jasmine fragrance, hand-poured in luxurious gold metal jar, natural soy wax. Long-lasting & toxin-free. Premium gifting.
+  Updated: 2026-11-19T15:19:55Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Golden-Jasmine-Bliss-Aroma-Candle-MVB-YUGVIGYANA-53334633316716.jpg?v=1772365056
   Price: ₹699.00 INR
-- [Mogra Jasmine Aroma Soy Wax Candle | Hand-Poured Silver Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/majestic-mogra-aroma-candle-in-silver-jar): Buy MVB Mogra Jasmine Soy Wax Candle — pure mogra fragrance, hand-poured in sleek silver metal jar, natural soy wax. Long-lasting & toxin-free. Ideal gifting option.
-  Updated: 2026-08-29T00:50:55Z
+- [Mogra Jasmine Soy Wax Candle, Hand-Poured Silver Jar](https://mvbyugvigyana.in/products/majestic-mogra-aroma-candle-in-silver-jar): Buy MVB Mogra Jasmine Soy Wax Candle — pure mogra fragrance, hand-poured in sleek silver metal jar, natural soy wax. Long-lasting & toxin-free. Ideal gifting option.
+  Updated: 2026-11-19T15:19:50Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Majestic-Mogra-Aroma-Candle-In-Silver-Jar-MVB-YUGVIGYANA-53334632825196.jpg?v=1772365030
   Price: ₹699.00 INR
-- [Lavender Aroma Soy Wax Candle | Hand-Poured Silver Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/calming-lavender-aroma-candle-in-silver-jar): Buy MVB Lavender Soy Wax Candle — soothing lavender fragrance, hand-poured in sleek silver metal jar, natural soy wax. Long-lasting & toxin-free. Perfect for relaxation.
-  Updated: 2026-08-29T00:50:55Z
+- [Lavender Soy Wax Candle, Hand-Poured Silver Jar](https://mvbyugvigyana.in/products/calming-lavender-aroma-candle-in-silver-jar): Buy MVB Lavender Soy Wax Candle — soothing lavender fragrance, hand-poured in sleek silver metal jar, natural soy wax. Long-lasting & toxin-free. Perfect for relaxation.
+  Updated: 2026-11-19T15:19:58Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Calming-Lavender-Aroma-Candle-In-Silver-Jar-MVB-YUGVIGYANA-53334633677164.jpg?v=1772365011
   Price: ₹699.00 INR
-- [Lemongrass Aroma Soy Wax Candle | Hand-Poured Glass Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/black-mist-lemongrass-aroma-candle): Buy MVB Lemongrass Soy Wax Candle — refreshing lemongrass fragrance, hand-poured in elegant black glass jar, natural soy wax. Long-lasting & toxin-free. Great gifting.
-  Updated: 2026-08-29T00:50:56Z
+- [Lemongrass Soy Wax Candle, Hand-Poured Glass Jar](https://mvbyugvigyana.in/products/black-mist-lemongrass-aroma-candle): Buy MVB Lemongrass Soy Wax Candle — refreshing lemongrass fragrance, hand-poured in elegant black glass jar, natural soy wax. Long-lasting & toxin-free. Great gifting.
+  Updated: 2026-11-19T15:19:59Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Black-Mist-Lemongrass-Aroma-Candle-MVB-YUGVIGYANA-53334634365292.jpg?v=1772364989
   Price: ₹599.00 INR
-- [Saffron Aroma Soy Wax Candle | Hand-Poured Black Glass Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/black-mist-saffron-aroma-candle): Buy MVB Saffron Soy Wax Candle — exotic saffron fragrance, hand-poured in elegant black glass jar, natural soy wax. Long-lasting & toxin-free. Luxurious gifting option.
-  Updated: 2026-08-29T00:50:56Z
+- [Saffron Soy Wax Candle, Hand-Poured Black Glass Jar](https://mvbyugvigyana.in/products/black-mist-saffron-aroma-candle): Buy MVB Saffron Soy Wax Candle — exotic saffron fragrance, hand-poured in elegant black glass jar, natural soy wax. Long-lasting & toxin-free. Luxurious gifting option.
+  Updated: 2026-11-19T15:19:58Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Price: ₹599.00 INR
-- [Lily Aroma Soy Wax Candle | Hand-Poured White Glass Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/white-elegance-lily-aroma-candle): Buy MVB Lily Soy Wax Candle — delicate lily fragrance, hand-poured in elegant white glass jar, natural soy wax. Long-lasting & toxin-free. Perfect for home ambiance.
-  Updated: 2026-08-29T00:50:56Z
+- [Lily Soy Wax Candle, Hand-Poured White Glass Jar](https://mvbyugvigyana.in/products/white-elegance-lily-aroma-candle): Buy MVB Lily Soy Wax Candle — delicate lily fragrance, hand-poured in elegant white glass jar, natural soy wax. Long-lasting & toxin-free. Perfect for home ambiance.
+  Updated: 2026-11-19T15:19:59Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/White-Elegance-Lily-Aroma-Candle-MVB-YUGVIGYANA-53334634922348.jpg?v=1772364951
   Price: ₹599.00 INR
-- [Vanilla Aroma Soy Wax Candle | Hand-Poured White Glass Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/white-elegance-vanilia-aroma-candle): Buy MVB Vanilla Soy Wax Candle — warm vanilla fragrance, hand-poured in elegant white glass jar, natural soy wax. Long-lasting & toxin-free. Cozy home gifting pick.
-  Updated: 2026-08-29T00:50:56Z
+- [Vanilla Soy Wax Candle, Hand-Poured White Glass Jar](https://mvbyugvigyana.in/products/white-elegance-vanilia-aroma-candle): Buy MVB Vanilla Soy Wax Candle — warm vanilla fragrance, hand-poured in elegant white glass jar, natural soy wax. Long-lasting & toxin-free. Cozy home gifting pick.
+  Updated: 2026-11-19T15:20:00Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/White-Elegance-Vanilia-Aroma-Candle-MVB-YUGVIGYANA-53334635381100.jpg?v=1772364939
   Price: ₹599.00 INR
-- [Cucumber Aroma Soy Wax Candle | Hand-Poured Sea Blue Glass Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/sea-blue-bliss-cucumber-aroma-candle): Buy MVB Cucumber Soy Wax Candle — cool cucumber fragrance, hand-poured in sea blue glass jar, natural soy wax. Long-lasting & toxin-free. Fresh & calming home decor.
-  Updated: 2026-08-29T00:50:57Z
+- [Cucumber Soy Wax Candle, Hand-Poured Sea Blue Glass Jar](https://mvbyugvigyana.in/products/sea-blue-bliss-cucumber-aroma-candle): Buy MVB Cucumber Soy Wax Candle — cool cucumber fragrance, hand-poured in sea blue glass jar, natural soy wax. Long-lasting & toxin-free. Fresh & calming home decor.
+  Updated: 2026-11-19T15:20:01Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Sea-Blue-Bliss-Cucumber-Aroma-Candle-MVB-YUGVIGYANA-53334636167532.jpg?v=1772364918
   Price: ₹599.00 INR
-- [Watermelon Aroma Soy Wax Candle | Hand-Poured Sea Blue Glass Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/sea-blue-bliss-watermelon-aroma-candle): Buy MVB Watermelon Soy Wax Candle — juicy watermelon fragrance, hand-poured in sea blue glass jar, natural soy wax. Long-lasting & toxin-free. Fun & fruity gifting pick.
-  Updated: 2026-08-29T00:50:57Z
+- [Watermelon Soy Wax Candle, Hand-Poured Sea Blue Glass Jar](https://mvbyugvigyana.in/products/sea-blue-bliss-watermelon-aroma-candle): Buy MVB Watermelon Soy Wax Candle — juicy watermelon fragrance, hand-poured in sea blue glass jar, natural soy wax. Long-lasting & toxin-free. Fun & fruity gifting pick.
+  Updated: 2026-11-19T15:20:02Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Sea-Blue-Bliss-Watermelon-Aroma-Candle-MVB-YUGVIGYANA-53334636560748.jpg?v=1772364908
   Price: ₹599.00 INR
-- [Green Apple Aroma Soy Wax Candle | Hand-Poured Thai Bowl | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/thai-bliss-green-apple-aroma-candle): Buy MVB Green Apple Soy Wax Candle — crisp apple fragrance, hand-poured in authentic Thai bowl, natural soy wax. Long-lasting & toxin-free. Unique artisan gifting.
-  Updated: 2026-08-29T00:50:57Z
+- [Green Apple Soy Wax Candle, Hand-Poured Thai Bowl](https://mvbyugvigyana.in/products/thai-bliss-green-apple-aroma-candle): Buy MVB Green Apple Soy Wax Candle — crisp apple fragrance, hand-poured in authentic Thai bowl, natural soy wax. Long-lasting & toxin-free. Unique artisan gifting.
+  Updated: 2026-11-19T15:20:03Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Thai-Bliss-Green-Apple-Aroma-Candle-MVB-YUGVIGYANA-53334637052268.jpg?v=1772364810
   Price: ₹599.00 INR
-- [Orange Aroma Soy Wax Candle | Hand-Poured Thai Bowl | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/thai-bliss-orange-aroma-candle): Buy MVB Orange Soy Wax Candle — zesty orange fragrance, hand-poured in authentic Thai bowl, natural soy wax. Long-lasting & toxin-free. Vibrant artisan gifting pick.
-  Updated: 2026-08-29T00:50:57Z
+- [Orange Soy Wax Candle, Hand-Poured Thai Bowl](https://mvbyugvigyana.in/products/thai-bliss-orange-aroma-candle): Buy MVB Orange Soy Wax Candle — zesty orange fragrance, hand-poured in authentic Thai bowl, natural soy wax. Long-lasting & toxin-free. Vibrant artisan gifting pick.
+  Updated: 2026-11-19T15:20:03Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Thai-Bliss-Orange-Aroma-Candle-MVB-YUGVIGYANA-53450774315372.jpg?v=1772364783
   Price: ₹599.00 INR
-- [MVB Avian Breeze King Size Bedsheet Set | 240 TC 100% Pure Cotton | Nature Print Bedding India](https://mvbyugvigyana.in/products/avian-breeze-king-size-pure-cotton-bedsheet): Buy MVB Avian Breeze 240 TC 100% Cotton King Size Bedsheet Set with 2 pillow covers. Elegant bird print, soft, breathable & skin-friendly. Ships across India & USA.
-  Updated: 2026-08-29T00:50:58Z
+- [King Size Cotton Bedsheet Set 240 TC, Avian Breeze](https://mvbyugvigyana.in/products/avian-breeze-king-size-pure-cotton-bedsheet): Buy MVB Avian Breeze 240 TC 100% Cotton King Size Bedsheet Set with 2 pillow covers. Elegant bird print, soft, breathable & skin-friendly. Ships across India & USA.
+  Updated: 2026-11-19T15:20:02Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -500,8 +500,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS1334.jpg?v=1770656840
     Price: ₹1,750.00 INR
-- [MVB Mocha Royal Mandala King Size Bedsheet Set | 240 TC 100% Pure Cotton | Premium Bedding India](https://mvbyugvigyana.in/products/mocha-royal-mandala-king-size-pure-cotton-bedsheet): Buy MVB Mocha Royal Mandala 240 TC 100% Cotton King Size Bedsheet Set with 2 pillow covers. Soft, breathable & skin-friendly. 4 earthy colors. Ships across India & USA.
-  Updated: 2026-08-29T00:50:58Z
+- [King Size Cotton Bedsheet Set 240 TC, Mocha Royal Mandala](https://mvbyugvigyana.in/products/mocha-royal-mandala-king-size-pure-cotton-bedsheet): Buy MVB Mocha Royal Mandala 240 TC 100% Cotton King Size Bedsheet Set with 2 pillow covers. Soft, breathable & skin-friendly. 4 earthy colors. Ships across India & USA.
+  Updated: 2026-11-19T15:20:01Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -522,8 +522,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS1338_1.jpg?v=1771413297
     Price: ₹1,750.00 INR
-- [MVB Tropical Trio King Size Bedsheet Set | 240 TC 100% Pure Cotton | Premium Bedding India](https://mvbyugvigyana.in/products/tropical-trio-king-size-pure-cotton-bedsheet): Buy MVB Tropical Trio 240 TC 100% Cotton King Size Bedsheet Set with 2 pillow covers. Soft, breathable & skin-friendly. 4 tropical colors. Ships across India & USA.
-  Updated: 2026-08-29T00:50:58Z
+- [Tropical Trio King Size Bedsheet Set | 240 TC Cotton](https://mvbyugvigyana.in/products/tropical-trio-king-size-pure-cotton-bedsheet): Buy MVB Tropical Trio 240 TC 100% Cotton King Size Bedsheet Set with 2 pillow covers. Soft, breathable & skin-friendly. 4 tropical colors. Ships across India & USA.
+  Updated: 2026-11-19T15:20:06Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -544,8 +544,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS1342.jpg?v=1771502050
     Price: ₹1,750.00 INR
-- [MVB Classic Cotton King Size Bedsheet Set | 240 TC 100% Pure Cotton | Premium Bedding India](https://mvbyugvigyana.in/products/classic-cotton-double-bed-sheet-set): Buy MVB Classic 240 TC 100% Cotton King Size Bedsheet Set with 2 pillow covers. Soft, breathable & skin-friendly. 4 elegant colors. Ships across India & USA.
-  Updated: 2026-08-29T00:50:59Z
+- [Classic Cotton King Size Bedsheet Set | 240 TC Cotton](https://mvbyugvigyana.in/products/classic-cotton-double-bed-sheet-set): Buy MVB Classic 240 TC 100% Cotton King Size Bedsheet Set with 2 pillow covers. Soft, breathable & skin-friendly. 4 elegant colors. Ships across India & USA.
+  Updated: 2026-11-19T15:20:06Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -566,8 +566,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS1346_1.jpg?v=1771503254
     Price: ₹1,750.00 INR
-- [Velvet Plush Sherpa Double Bed Blanket | Ultra-Soft Winter Blanket | 4 Colors | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/velvet-plush-double-bed-blanket-layered-with-ultra-soft-sherpa-fabric): Buy MVB Velvet Plush Sherpa Double Bed Blanket — ultra-soft sherpa lining, fade-resistant, 4 colors. Warm & cozy for winter & AC rooms. Premium quality bedding.
-  Updated: 2026-08-29T00:50:59Z
+- [Velvet Plush Sherpa Double Bed Blanket | Winter Blanket](https://mvbyugvigyana.in/products/velvet-plush-double-bed-blanket-layered-with-ultra-soft-sherpa-fabric): Buy MVB Velvet Plush Sherpa Double Bed Blanket — ultra-soft sherpa lining, fade-resistant, 4 colors. Warm & cozy for winter & AC rooms. Premium quality bedding.
+  Updated: 2026-11-19T15:20:07Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -588,8 +588,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/BLN034_1.jpg?v=1771337269
     Price: ₹2,999.00 INR
-- [Premium Velvet Plush Sherpa Double Bed Blanket | Luxury Winter Blanket | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/premium-velvet-plush-double-bed-blanket-layered-with-ultra-soft-sherpa-fabric): Buy MVB Premium Velvet Plush Sherpa Double Bed Blanket — luxuriously soft sherpa lining, fade-resistant, 4 rich colors. Ideal for winter nights & AC rooms.
-  Updated: 2026-08-29T00:50:59Z
+- [Velvet Plush Sherpa Double Bed Blanket | Winter Blanket](https://mvbyugvigyana.in/products/premium-velvet-plush-double-bed-blanket-layered-with-ultra-soft-sherpa-fabric): Buy MVB Premium Velvet Plush Sherpa Double Bed Blanket — luxuriously soft sherpa lining, fade-resistant, 4 rich colors. Ideal for winter nights & AC rooms.
+  Updated: 2026-11-19T15:20:04Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -610,8 +610,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/BLN038F.jpg?v=1771430408
     Price: ₹2,999.00 INR
-- [MVB Bunny Meadow King Size Bedsheet Set | 100% Pure Cotton 240 TC | Premium Bedding India](https://mvbyugvigyana.in/products/bunny-meadow-king-size-pure-cotton-bedsheet): Buy MVB Bunny Meadow 100% Cotton King Size Bedsheet Set with 2 pillow covers. 240 TC, playful design, breathable & skin-friendly. Ships across India & USA.
-  Updated: 2026-08-29T00:50:59Z
+- [Bunny Meadow King Size Bedsheet Set | Cotton 240 TC](https://mvbyugvigyana.in/products/bunny-meadow-king-size-pure-cotton-bedsheet): Buy MVB Bunny Meadow 100% Cotton King Size Bedsheet Set with 2 pillow covers. 240 TC, playful design, breathable & skin-friendly. Ships across India & USA.
+  Updated: 2026-11-19T15:20:15Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -632,8 +632,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS1350_2.jpg?v=1770621730
     Price: ₹1,750.00 INR
-- [Royal Sanganeri Double Bedsheet Set | 100% Pure Cotton | Rajasthani Block Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/royal-sanganeri-double-bedsheet-pure-cotton): Buy MVB Royal Sanganeri Double Bedsheet Set — 100% pure cotton, 153 GSM, traditional Rajasthani block print, 2 pillow covers. Breathable & skin-friendly. ₹999.
-  Updated: 2026-08-29T00:51:00Z
+- [Royal Sanganeri Double Bedsheet Set | Cotton](https://mvbyugvigyana.in/products/royal-sanganeri-double-bedsheet-pure-cotton): Buy MVB Royal Sanganeri Double Bedsheet Set — 100% pure cotton, 153 GSM, traditional Rajasthani block print, 2 pillow covers. Breathable & skin-friendly. ₹999.
+  Updated: 2026-11-19T15:20:08Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -654,8 +654,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1608.jpg?v=1771417301
     Price: ₹1,299.00 INR
-- [Classic Buta Print Double Bedsheet Set | 100% Pure Cotton | Traditional Indian Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/classic-buta-print-double-bedsheet-pure-cotton): Buy MVB Classic Buta Print Double Bedsheet Set — 100% pure cotton, 153 GSM, traditional Indian buta motif, 2 pillow covers. Breathable & skin-friendly. ₹999.
-  Updated: 2026-08-29T00:51:00Z
+- [Classic Buta Print Double Bedsheet Set | Cotton](https://mvbyugvigyana.in/products/classic-buta-print-double-bedsheet-pure-cotton): Buy MVB Classic Buta Print Double Bedsheet Set — 100% pure cotton, 153 GSM, traditional Indian buta motif, 2 pillow covers. Breathable & skin-friendly. ₹999.
+  Updated: 2026-11-19T15:20:15Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -676,8 +676,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1612.jpg?v=1771334298
     Price: ₹1,299.00 INR
-- [Jaipuri Mandala Double Bedsheet Set | 100% Pure Cotton | Heritage Mandala Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/majestic-jaipuri-mandala-double-bedsheet-pure-cotton): Buy MVB Jaipuri Mandala Double Bedsheet Set — 100% pure cotton, 153 GSM, traditional mandala design, 2 pillow covers. Breathable & skin-friendly. ₹999.
-  Updated: 2026-08-29T00:51:00Z
+- [i Mandala Double Bedsheet Set | Cotton](https://mvbyugvigyana.in/products/majestic-jaipuri-mandala-double-bedsheet-pure-cotton): Buy MVB Jaipuri Mandala Double Bedsheet Set — 100% pure cotton, 153 GSM, traditional mandala design, 2 pillow covers. Breathable & skin-friendly. ₹999.
+  Updated: 2026-11-19T15:20:08Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -698,8 +698,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1616.jpg?v=1771247207
     Price: ₹1,299.00 INR
-- [Imperial Floral Bouquet Double Bedsheet Set | 100% Pure Cotton | Romantic Floral Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/imperial-floral-bouquet-double-bedsheet-pure-cotton): Buy MVB Imperial Floral Bouquet Double Bedsheet Set — 100% pure cotton, 153 GSM, romantic floral print, 2 pillow covers. Breathable & skin-friendly. ₹999.
-  Updated: 2026-08-29T00:51:01Z
+- [Imperial Floral Bouquet Double Bedsheet Set | Cotton](https://mvbyugvigyana.in/products/imperial-floral-bouquet-double-bedsheet-pure-cotton): Buy MVB Imperial Floral Bouquet Double Bedsheet Set — 100% pure cotton, 153 GSM, romantic floral print, 2 pillow covers. Breathable & skin-friendly. ₹999.
+  Updated: 2026-11-19T15:20:10Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -720,8 +720,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1620.jpg?v=1771244197
     Price: ₹1,299.00 INR
-- [Sanganeri Buti Double Bedsheet Set | 100% Pure Cotton | Indian Block Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/classic-sanganeri-buti-double-bedsheet-pure-cotton): Buy MVB Sanganeri Buti Double Bedsheet Set — 100% pure cotton, 153 GSM, traditional Indian block print, 2 pillow covers. Breathable & skin-friendly. ₹999.
-  Updated: 2026-08-29T00:51:01Z
+- [Sanganeri Buti Double Bedsheet Set | Cotton](https://mvbyugvigyana.in/products/classic-sanganeri-buti-double-bedsheet-pure-cotton): Buy MVB Sanganeri Buti Double Bedsheet Set — 100% pure cotton, 153 GSM, traditional Indian block print, 2 pillow covers. Breathable & skin-friendly. ₹999.
+  Updated: 2026-11-19T15:20:07Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -742,8 +742,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1628.jpg?v=1771241331
     Price: ₹1,299.00 INR
-- [MVB Geometric Ikat Mosaic Double Bedsheet Set | 100% Pure Cotton | Premium Bedding India](https://mvbyugvigyana.in/products/geometric-ikat-mosaic-double-bedsheet-pure-cotton): Buy MVB Geometric Ikat Mosaic 100% Cotton Double Bedsheet Set with 2 pillow covers. 153 GSM, bold ikat design, breathable & skin-friendly. Ships across India & USA.
-  Updated: 2026-08-29T00:51:01Z
+- [Geometric Ikat Mosaic Double Bedsheet Set | Cotton | Bedding](https://mvbyugvigyana.in/products/geometric-ikat-mosaic-double-bedsheet-pure-cotton): Buy MVB Geometric Ikat Mosaic 100% Cotton Double Bedsheet Set with 2 pillow covers. 153 GSM, bold ikat design, breathable & skin-friendly. Ships across India & USA.
+  Updated: 2026-11-19T15:20:09Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -764,8 +764,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1632.jpg?v=1771239747
     Price: ₹1,299.00 INR
-- [MVB Regal Geometric Border Double Bedsheet Set | 100% Pure Cotton | Premium Bedding India](https://mvbyugvigyana.in/products/regal-geometric-border-double-bedsheet-pure-cotton): Buy MVB Regal Geometric Border 100% Cotton Double Bedsheet Set with 2 pillow covers. 153 GSM, bold design, breathable & skin-friendly. Ships across India & USA.
-  Updated: 2026-08-29T00:51:01Z
+- [Regal Geometric Border Double Bedsheet Set | Cotton](https://mvbyugvigyana.in/products/regal-geometric-border-double-bedsheet-pure-cotton): Buy MVB Regal Geometric Border 100% Cotton Double Bedsheet Set with 2 pillow covers. 153 GSM, bold design, breathable & skin-friendly. Ships across India & USA.
+  Updated: 2026-11-19T15:20:05Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -786,8 +786,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1636.jpg?v=1770660291
     Price: ₹1,299.00 INR
-- [MVB Royal Fern Scroll Double Bedsheet Set | 100% Pure Cotton | Premium Bedding India](https://mvbyugvigyana.in/products/royal-fern-scroll-double-bedsheet-pure-cotton): Buy MVB Royal Fern Scroll 100% Cotton Double Bedsheet Set with 2 pillow covers. 153 GSM, elegant fern design, breathable & skin-friendly. Ships across India & USA.
-  Updated: 2026-08-29T00:51:02Z
+- [Royal Fern Scroll Double Bedsheet Set | Cotton | Bedding](https://mvbyugvigyana.in/products/royal-fern-scroll-double-bedsheet-pure-cotton): Buy MVB Royal Fern Scroll 100% Cotton Double Bedsheet Set with 2 pillow covers. 153 GSM, elegant fern design, breathable & skin-friendly. Ships across India & USA.
+  Updated: 2026-11-19T15:20:14Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -808,8 +808,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1624.jpg?v=1770657827
     Price: ₹1,299.00 INR
-- [MVB Palm Oasis King Size Bedsheet Set | 100% Pure Cotton | Tropical Bedding India](https://mvbyugvigyana.in/products/palm-oasis-king-size-pure-cotton-bedsheet): Buy MVB Palm Oasis 100% Cotton King Size Bedsheet Set with 2 pillow covers. 153 GSM, tropical print, breathable & skin-friendly. Ships across India & USA.
-  Updated: 2026-08-29T00:51:02Z
+- [Palm Oasis King Size Bedsheet Set | Cotton](https://mvbyugvigyana.in/products/palm-oasis-king-size-pure-cotton-bedsheet): Buy MVB Palm Oasis 100% Cotton King Size Bedsheet Set with 2 pillow covers. 153 GSM, tropical print, breathable & skin-friendly. Ships across India & USA.
+  Updated: 2026-11-19T15:20:14Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -830,8 +830,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS1354_1.jpg?v=1771415470
     Price: ₹1,750.00 INR
-- [MVB Mint Coral Winter Wonderland King Size Bedsheet | 100% Pure Cotton | India](https://mvbyugvigyana.in/products/mint-coral-winter-wonderland-king-size-pure-cotton-bedsheet): Buy MVB Mint Coral Winter Wonderland 100% Cotton King Size Bedsheet Set with 2 pillow covers. 153 GSM, breathable & skin-friendly. Ships across India & USA.
-  Updated: 2026-08-29T00:51:02Z
+- [Mint Coral Winter Wonderland King Size Bedsheet | Cotton](https://mvbyugvigyana.in/products/mint-coral-winter-wonderland-king-size-pure-cotton-bedsheet): Buy MVB Mint Coral Winter Wonderland 100% Cotton King Size Bedsheet Set with 2 pillow covers. 153 GSM, breathable & skin-friendly. Ships across India & USA.
+  Updated: 2026-11-19T15:20:13Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -852,8 +852,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS1358.jpg?v=1771407698
     Price: ₹1,750.00 INR
-- [MVB Botanical Paradise King Size Bedsheet Set | 100% Pure Cotton | Floral Bedding India](https://mvbyugvigyana.in/products/botanical-paradise-bedsheet-set-of-1-bedsheet-and-2-pillow-covers): Buy MVB Botanical Paradise 100% Cotton King Size Bedsheet Set with 2 pillow covers. 153 GSM, floral print, breathable & skin-friendly. Ships across India & USA.
-  Updated: 2026-08-29T00:51:02Z
+- [Botanical Paradise King Size Bedsheet Set | Cotton](https://mvbyugvigyana.in/products/botanical-paradise-bedsheet-set-of-1-bedsheet-and-2-pillow-covers): Buy MVB Botanical Paradise 100% Cotton King Size Bedsheet Set with 2 pillow covers. 153 GSM, floral print, breathable & skin-friendly. Ships across India & USA.
+  Updated: 2026-11-19T15:20:13Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -874,8 +874,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS1362_1.jpg?v=1771606287
     Price: ₹1,750.00 INR
-- [MVB Tribal Folk Art Cotton King Size Bedsheet Set | 100% Pure Cotton | India](https://mvbyugvigyana.in/products/tribal-folk-art-design-essence-pure-cotton-bedsheet): Buy MVB Tribal Folk Art 100% Cotton King Size Bedsheet Set with 2 pillow covers. 153 GSM, breathable & skin-friendly. 4 colors. Ships across India & USA.
-  Updated: 2026-08-29T00:51:03Z
+- [Tribal Folk Art Cotton King Size Bedsheet Set | Cotton](https://mvbyugvigyana.in/products/tribal-folk-art-design-essence-pure-cotton-bedsheet): Buy MVB Tribal Folk Art 100% Cotton King Size Bedsheet Set with 2 pillow covers. 153 GSM, breathable & skin-friendly. 4 colors. Ships across India & USA.
+  Updated: 2026-11-19T15:20:12Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -896,8 +896,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS1366.jpg?v=1770659144
     Price: ₹1,750.00 INR
-- [MVB Pure Natural Cotton King Size Bedsheet Set | 100% Cotton | Premium Bedding India](https://mvbyugvigyana.in/products/pure-natural-cotton-king-size-bedsheet): Buy MVB Pure Natural 100% Cotton King Size Bedsheet Set with 2 pillow covers. 153 GSM, breathable & skin-friendly. 4 colors. Ships across India & USA.
-  Updated: 2026-08-29T00:51:03Z
+- [Pure Natural Cotton King Size Bedsheet Set | Cotton](https://mvbyugvigyana.in/products/pure-natural-cotton-king-size-bedsheet): Buy MVB Pure Natural 100% Cotton King Size Bedsheet Set with 2 pillow covers. 153 GSM, breathable & skin-friendly. 4 colors. Ships across India & USA.
+  Updated: 2026-11-19T15:20:11Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -918,8 +918,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS1374.jpg?v=1771243042
     Price: ₹1,750.00 INR
-- [MVB Luxury Cotton King Size Bedsheet Set | 100% Pure Cotton | Premium Bedding India](https://mvbyugvigyana.in/products/luxury-cotton-fabric-king-size-bedsheet): Buy MVB Luxury 100% Cotton King Size Bedsheet Set with 2 pillow covers. 153 GSM, 150 TC, breathable & skin-friendly. 4 colors. Ships across India & USA.
-  Updated: 2026-08-29T00:51:03Z
+- [Cotton King Size Bedsheet Set | Cotton | Bedding](https://mvbyugvigyana.in/products/luxury-cotton-fabric-king-size-bedsheet): Buy MVB Luxury 100% Cotton King Size Bedsheet Set with 2 pillow covers. 153 GSM, 150 TC, breathable & skin-friendly. 4 colors. Ships across India & USA.
+  Updated: 2026-11-19T15:20:12Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -940,8 +940,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS1373.jpg?v=1770658500
     Price: ₹1,750.00 INR
-- [MVB Classic Cotton King Size Bedsheet Set | 100% Pure Cotton | Premium Bedding India](https://mvbyugvigyana.in/products/premium-natural-fiber-king-size-bedsheet): Buy MVB Classic 100% Cotton King Size Bedsheet Set with 2 pillow covers. 153 GSM, 150 TC, breathable & skin-friendly. 4 colors. Ships across India & USA.
-  Updated: 2026-08-29T00:51:04Z
+- [Classic Cotton King Size Bedsheet Set | Cotton | Bedding](https://mvbyugvigyana.in/products/premium-natural-fiber-king-size-bedsheet): Buy MVB Classic 100% Cotton King Size Bedsheet Set with 2 pillow covers. 153 GSM, 150 TC, breathable & skin-friendly. 4 colors. Ships across India & USA.
+  Updated: 2026-11-19T15:20:10Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -962,8 +962,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS1378_2.jpg?v=1769428118
     Price: ₹1,750.00 INR
-- [MVB Soft Touch 100% Cotton King Size Bedsheet Set | Premium Bedding India](https://mvbyugvigyana.in/products/soft-touch-cotton-king-size-bedsheet): Buy MVB Soft Touch 100% Cotton King Size Bedsheet Set with 2 pillow covers. 153 GSM, breathable & skin-friendly. Available in 4 colors. Ships across India & USA.
-  Updated: 2026-08-29T00:51:04Z
+- [Soft Touch Cotton King Size Bedsheet Set | Bedding](https://mvbyugvigyana.in/products/soft-touch-cotton-king-size-bedsheet): Buy MVB Soft Touch 100% Cotton King Size Bedsheet Set with 2 pillow covers. 153 GSM, breathable & skin-friendly. Available in 4 colors. Ships across India & USA.
+  Updated: 2026-11-19T15:20:09Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -984,78 +984,78 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS1382.jpg?v=1770575096
     Price: ₹1,750.00 INR
-- [MVB Metal Diya Urli – Handcrafted Indian Décor Bowl | Festivals & Home](https://mvbyugvigyana.in/products/metal-diya-urli): Buy MVB Metal Diya Urli – handcrafted premium metal bowl for floating candles, flowers & festive décor. Perfect for Diwali, weddings & gifting. Ships across India & USA.
-  Updated: 2026-08-29T00:51:04Z
+- [Metal Diya Urli – Handcrafted Indian Décor Bowl](https://mvbyugvigyana.in/products/metal-diya-urli): Buy MVB Metal Diya Urli – handcrafted premium metal bowl for floating candles, flowers & festive décor. Perfect for Diwali, weddings & gifting. Ships across India & USA.
+  Updated: 2026-11-19T15:20:16Z
   Vendor: MVB YUGVIGYANA
   Product Type: Handicraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Metal-Diya-urli-MVB-YUGVIGYANA-53340065759596.jpg?v=1772364598
   Price: ₹450.00 INR
-- [Rose Urli 10 Inch Handcrafted Metal Bowl | Floating Candle & Home Décor | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/rose-urli): Buy MVB Rose Urli — 10 inch handcrafted metal decorative bowl, perfect for floating candles, flowers & festive décor. Ideal for Diwali, weddings & gifting.
-  Updated: 2026-08-29T00:51:04Z
+- [Rose Urli 10 Inch Handcrafted Metal Bowl](https://mvbyugvigyana.in/products/rose-urli): Buy MVB Rose Urli — 10 inch handcrafted metal decorative bowl, perfect for floating candles, flowers & festive décor. Ideal for Diwali, weddings & gifting.
+  Updated: 2026-11-19T15:20:17Z
   Vendor: MVB YUGVIGYANA
   Product Type: Handicraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Rose-Urli-MVB-YUGVIGYANA-53340069298540.jpg?v=1772364568
   Price: ₹1,100.00 INR
-- [Peacock Urli Set | 12, 14 & 16 Inch Metal Bowls | Floating Candle Décor | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/peacoke-urli-set): Buy MVB Peacock Urli Set — 3 handcrafted metal bowls (12, 14 & 16 inch) for floating candles & festive décor. Perfect for Diwali, pooja & home gifting.
-  Updated: 2026-08-29T00:51:05Z
+- [Peacock Urli Set | 12, 14 & 16 Inch Metal Bowls](https://mvbyugvigyana.in/products/peacoke-urli-set): Buy MVB Peacock Urli Set — 3 handcrafted metal bowls (12, 14 & 16 inch) for floating candles & festive décor. Perfect for Diwali, pooja & home gifting.
+  Updated: 2026-11-19T15:20:17Z
   Vendor: MVB YUGVIGYANA
   Product Type: Handicraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Peacoke-Urli-Set-MVB-YUGVIGYANA-53340074344812.jpg?v=1772364564
   Price: ₹1,999.00 INR
-- [Kamal Leaf Urli 12 Inch Metal Bowl | Lotus Design | Floating Candle Décor | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/kamal-leaf-urli): Buy MVB Kamal Leaf Urli — 12 inch handcrafted metal bowl with lotus leaf design. Perfect for floating candles, flowers & festive pooja décor. Premium gifting.
-  Updated: 2026-08-29T00:51:05Z
+- [Kamal Leaf Urli 12 Inch Metal Bowl | Lotus Design](https://mvbyugvigyana.in/products/kamal-leaf-urli): Buy MVB Kamal Leaf Urli — 12 inch handcrafted metal bowl with lotus leaf design. Perfect for floating candles, flowers & festive pooja décor. Premium gifting.
+  Updated: 2026-11-19T15:20:16Z
   Vendor: MVB YUGVIGYANA
   Product Type: Handicraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Kamal-Leaf-Urli-MVB-YUGVIGYANA-53340076179820.jpg?v=1772364504
   Price: ₹1,100.00 INR
-- [Taar Phool Urli Bowl 9.5 Inch | Handcrafted Metal | Floating Candle & Pooja Décor | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/taar-phool-urli-bowl): Buy MVB Taar Phool Urli — 9.5 inch handcrafted metal bowl for floating candles & pooja décor. Intricate floral design, ideal for Diwali & festive gifting.
-  Updated: 2026-08-29T00:51:05Z
+- [Taar Phool Urli Bowl 9.5 Inch | Handcrafted Metal](https://mvbyugvigyana.in/products/taar-phool-urli-bowl): Buy MVB Taar Phool Urli — 9.5 inch handcrafted metal bowl for floating candles & pooja décor. Intricate floral design, ideal for Diwali & festive gifting.
+  Updated: 2026-11-19T15:20:18Z
   Vendor: MVB YUGVIGYANA
   Product Type: Handicraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Taar-Phool-Urli-Bowl-MVB-YUGVIGYANA-53340077556076.jpg?v=1772364475
   Price: ₹699.00 INR
-- [Leaf Urli 12 Inch Handcrafted Metal Bowl | Floating Candle & Flower Décor | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/leaf-urli): Buy MVB Leaf Urli — 12 inch handcrafted metal bowl with beautiful leaf design. Perfect for floating candles, flowers & festive home décor. Premium gifting.
-  Updated: 2026-08-29T00:51:05Z
+- [Leaf Urli 12 Inch Handcrafted Metal Bowl](https://mvbyugvigyana.in/products/leaf-urli): Buy MVB Leaf Urli — 12 inch handcrafted metal bowl with beautiful leaf design. Perfect for floating candles, flowers & festive home décor. Premium gifting.
+  Updated: 2026-11-19T15:20:24Z
   Vendor: MVB YUGVIGYANA
   Product Type: Handicraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Leaf-Urli-MVB-YUGVIGYANA-53340079980908.jpg?v=1772364456
   Price: ₹799.00 INR
-- [Buy Rangoli With Stand Urli Diya Set Handcrafted Metal India – MVB Yugvigyana](https://mvbyugvigyana.in/products/rangoli-with-stand): Shop Rangoli With Stand Urli Diya Set at MVB Yugvigyana. Handcrafted metal festive decor for Diwali & pooja. Pan India delivery!
-  Updated: 2026-08-29T00:51:06Z
+- [Rangoli With Stand Urli Diya Set Handcrafted Metal](https://mvbyugvigyana.in/products/rangoli-with-stand): Shop Rangoli With Stand Urli Diya Set at MVB Yugvigyana. Handcrafted metal festive decor for Diwali & pooja. Pan India delivery!
+  Updated: 2026-11-19T15:20:24Z
   Vendor: MVB YUGVIGYANA
   Product Type: Handicraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Rangoli-With-Stand-MVB-YUGVIGYANA-53340081488236.jpg?v=1772364434
   Price: ₹2,599.00 INR
-- [Flower Leaf Metal Incense Holder | Handcrafted Agarbatti Stand | Pooja & Gifting | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/flower-leaf-incense-holder): Buy MVB Flower Leaf Metal Incense Holder — handcrafted agarbatti stand with floral leaf design. Perfect for daily pooja, home décor & festive gifting. Made in India.
-  Updated: 2026-08-29T00:51:06Z
+- [Flower Leaf Metal Incense Holder | Pooja & Gifting](https://mvbyugvigyana.in/products/flower-leaf-incense-holder): Buy MVB Flower Leaf Metal Incense Holder — handcrafted agarbatti stand with floral leaf design. Perfect for daily pooja, home décor & festive gifting. Made in India.
+  Updated: 2026-11-19T15:20:22Z
   Vendor: MVB YUGVIGYANA
   Product Type: Handicraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Flower-leaf-incense-Holder-MVB-YUGVIGYANA-53340083224940.jpg?v=1772364353
   Price: ₹1,100.00 INR
-- [Dome Shape Metal Incense Holder | Handcrafted Agarbatti Stand | Home Décor & Pooja | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/dome-shape-incense-holder): Buy MVB Dome Shape Metal Incense Holder — premium handcrafted agarbatti stand with dome design. Ideal for daily pooja, home décor & festive gifting. Made in India.
-  Updated: 2026-08-29T00:51:06Z
+- [Dome Shape Metal Incense Holder | Home Décor & Pooja](https://mvbyugvigyana.in/products/dome-shape-incense-holder): Buy MVB Dome Shape Metal Incense Holder — premium handcrafted agarbatti stand with dome design. Ideal for daily pooja, home décor & festive gifting. Made in India.
+  Updated: 2026-11-19T15:20:20Z
   Vendor: MVB YUGVIGYANA
   Product Type: Handicraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Dome-Shape-Incense-Holder-MVB-YUGVIGYANA-53340083913068.jpg?v=1772364320
   Price: ₹888.00 INR
-- [Buy Metal Urli Kamal Lotus Diya Bowl 10 Inch India – MVB Yugvigyana](https://mvbyugvigyana.in/products/metal-urli-kamal-diya): Shop handcrafted Metal Urli Kamal Diya at MVB Yugvigyana. 10-inch lotus floating candle bowl for pooja & home decor. Pan India delivery!
-  Updated: 2026-08-29T00:51:07Z
+- [Metal Urli Kamal Lotus Diya Bowl 10 Inch](https://mvbyugvigyana.in/products/metal-urli-kamal-diya): Shop handcrafted Metal Urli Kamal Diya at MVB Yugvigyana. 10-inch lotus floating candle bowl for pooja & home decor. Pan India delivery!
+  Updated: 2026-11-19T15:20:19Z
   Vendor: MVB YUGVIGYANA
   Product Type: Handicraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Metal-Urli-Kamal-Diya-MVB-YUGVIGYANA-53340085387628.jpg?v=1772364312
   Price: ₹450.00 INR
-- [Hand Block Printed Blue Trees & Flowers Cotton Curtains | Pure Cotton Drapes | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/hand-block-printed-blue-trees-flowers-cotton-curtains-pure-cotton-drapes): Buy MVB Hand Block Printed Blue Trees & Flowers Cotton Curtains — pure cotton drapes, authentic Indian block print. Available in 5ft, 7ft & 9ft. Free shipping India.
-  Updated: 2026-08-29T00:51:07Z
+- [Hand Block Printed Blue Trees & Flowers Cotton Curtains](https://mvbyugvigyana.in/products/hand-block-printed-blue-trees-flowers-cotton-curtains-pure-cotton-drapes): Buy MVB Hand Block Printed Blue Trees & Flowers Cotton Curtains — pure cotton drapes, authentic Indian block print. Available in 5ft, 7ft & 9ft. Free shipping India.
+  Updated: 2026-11-19T15:20:19Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1072,8 +1072,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT68_1_5e6a70d2-e21c-41b2-9d30-c36ed3b7a5fe.jpg?v=1770811989
     Price: ₹799.00 INR
-- [Traditional Indian Block Print Curtains - Red & Blue Floral Cotton | MVB](https://mvbyugvigyana.in/products/traditional-indian-block-print-curtains-red-blue-flowers-with-grey-leaves-pure-cotton-drapes): Traditional Indian block print curtains with red and blue flowers, grey leaves. Pure cotton drapes, authentic hand block craftsmanship. Premium textiles.
-  Updated: 2026-08-29T00:51:07Z
+- [Indian Block Print Curtains - Red & Blue Floral Cotton](https://mvbyugvigyana.in/products/traditional-indian-block-print-curtains-red-blue-flowers-with-grey-leaves-pure-cotton-drapes): Traditional Indian block print curtains with red and blue flowers, grey leaves. Pure cotton drapes, authentic hand block craftsmanship. Premium textiles.
+  Updated: 2026-11-19T15:20:22Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1090,8 +1090,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT66_2.jpg?v=1770812835
     Price: ₹799.00 INR
-- [Jaipuri Boota Print Curtains - Pink Mustard Floral & Brown Leaf | Cotton](https://mvbyugvigyana.in/products/jaipuri-boota-print-curtains-pink-mustard-floral-brown-leaf-design-100-cotton): Jaipuri Boota print curtains with pink mustard floral and brown leaf design. 100% cotton, traditional hand block craftsmanship. Premium home textiles.
-  Updated: 2026-08-29T00:51:07Z
+- [i Boota Print Curtains - Pink Mustard Floral & Brown Leaf](https://mvbyugvigyana.in/products/jaipuri-boota-print-curtains-pink-mustard-floral-brown-leaf-design-100-cotton): Jaipuri Boota print curtains with pink mustard floral and brown leaf design. 100% cotton, traditional hand block craftsmanship. Premium home textiles.
+  Updated: 2026-11-19T15:20:18Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1108,8 +1108,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT67_2.jpg?v=1770813455
     Price: ₹799.00 INR
-- [Printroots Heritage Hand Block Curtains - Floral Art Cotton Drapes | MVB](https://mvbyugvigyana.in/products/printroots-heritage-cotton-curtains-hand-block-floral-art-for-elegant-interiors): Heritage cotton curtains with hand block floral art for elegant interiors. 100% cotton, traditional Jaipuri craftsmanship. Premium artisan textiles.
-  Updated: 2026-08-29T00:51:08Z
+- [Heritage Hand Block Curtains - Floral Art Cotton Drapes](https://mvbyugvigyana.in/products/printroots-heritage-cotton-curtains-hand-block-floral-art-for-elegant-interiors): Heritage cotton curtains with hand block floral art for elegant interiors. 100% cotton, traditional Jaipuri craftsmanship. Premium artisan textiles.
+  Updated: 2026-11-19T15:20:20Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1144,8 +1144,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT70_2.jpg?v=1770809773
     Price: ₹799.00 INR
-- [Floral Blue Kairi Print Curtains - Traditional Pinar Block Design | Cotton](https://mvbyugvigyana.in/products/floral-blue-kairi-print-curtains-traditional-indian-pinar-block-design): Traditional Indian Pinar block design curtains with blue Kairi floral print. 100% cotton, authentic hand block craftsmanship. Premium home textiles.
-  Updated: 2026-08-29T00:51:08Z
+- [Floral Blue Kairi Print Curtains - Pinar Block Design](https://mvbyugvigyana.in/products/floral-blue-kairi-print-curtains-traditional-indian-pinar-block-design): Traditional Indian Pinar block design curtains with blue Kairi floral print. 100% cotton, authentic hand block craftsmanship. Premium home textiles.
+  Updated: 2026-11-19T15:20:23Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1162,8 +1162,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT71_2.jpg?v=1771097809
     Price: ₹799.00 INR
-- [Ethnic Padma Block Print Curtains - Jaipuri Kairi Floral Green | Cotton](https://mvbyugvigyana.in/products/ethnic-padma-block-print-curtains-jaipuri-kairi-floral-design-in-green-100-cotton): Ethnic Padma block print curtains with Jaipuri Kairi floral design in green. 100% cotton, traditional hand block craftsmanship. Premium home textiles.
-  Updated: 2026-08-29T00:51:08Z
+- [Ethnic Padma Block Print Curtains - i Kairi Floral Green](https://mvbyugvigyana.in/products/ethnic-padma-block-print-curtains-jaipuri-kairi-floral-design-in-green-100-cotton): Ethnic Padma block print curtains with Jaipuri Kairi floral design in green. 100% cotton, traditional hand block craftsmanship. Premium home textiles.
+  Updated: 2026-11-19T15:20:25Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1198,8 +1198,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT73_2.jpg?v=1770810803
     Price: ₹799.00 INR
-- [Classic Floral Hand Block Curtains - Marigold & Grey Boota Pattern | Cotton](https://mvbyugvigyana.in/products/classic-floral-hand-block-curtains-marigold-grey-leaf-boota-pattern): Classic hand block curtains with marigold and grey leaf boota pattern. 100% cotton, traditional Jaipuri craftsmanship. Timeless artisan home textiles.
-  Updated: 2026-08-29T00:51:09Z
+- [Floral Hand Block Curtains - Marigold & Grey Boota Pattern](https://mvbyugvigyana.in/products/classic-floral-hand-block-curtains-marigold-grey-leaf-boota-pattern): Classic hand block curtains with marigold and grey leaf boota pattern. 100% cotton, traditional Jaipuri craftsmanship. Timeless artisan home textiles.
+  Updated: 2026-11-19T15:20:25Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1234,8 +1234,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT75_2.jpg?v=1771099073
     Price: ₹799.00 INR
-- [Jaipuri Aachho Block Print Curtains - Blue Floral Cotton Drapes | MVB](https://mvbyugvigyana.in/products/jaipuri-aachho-block-print-curtains-blue-floral-elegance-in-cotton): Elegant Jaipuri Aachho block print curtains with blue floral design. 100% cotton, traditional hand block craftsmanship. Premium home decor textiles.
-  Updated: 2026-08-29T00:51:10Z
+- [i Aachho Block Print Curtains - Blue Floral Cotton Drapes](https://mvbyugvigyana.in/products/jaipuri-aachho-block-print-curtains-blue-floral-elegance-in-cotton): Elegant Jaipuri Aachho block print curtains with blue floral design. 100% cotton, traditional hand block craftsmanship. Premium home decor textiles.
+  Updated: 2026-11-19T15:20:26Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1252,8 +1252,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT76_2.jpg?v=1770811547
     Price: ₹799.00 INR
-- [Pookalam Bloom Rihaa Hand Block Print Cotton Curtains | Yellow Grey | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/pookalam-bloom-rihaa-hand-block-print-cotton-curtains-yellow-grey): Buy Pookalam Bloom Rihaa hand block print cotton curtains in yellow & grey floral design. 100% pure cotton, 180 GSM, available in 5ft, 7ft & 9ft. South Indian floral rangoli inspired. Free shipping India.
-  Updated: 2026-08-29T00:51:10Z
+- [Pookalam Bloom Rihaa Hand Block Print Cotton Curtains](https://mvbyugvigyana.in/products/pookalam-bloom-rihaa-hand-block-print-cotton-curtains-yellow-grey): Buy Pookalam Bloom Rihaa hand block print cotton curtains in yellow & grey floral design. 100% pure cotton, 180 GSM, available in 5ft, 7ft & 9ft. South Indian floral rangoli inspired. Free shipping India.
+  Updated: 2026-11-19T15:20:26Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1270,8 +1270,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT77_2.jpg?v=1770811089
     Price: ₹799.00 INR
-- [Pinklay Golden Bloom Hand Block Cotton Curtains | Yellow Brown Floral | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/pinklay-golden-bloom-hand-block-print-cotton-curtains-yellow-brown-floral): Buy MVB Pinklay Golden Bloom curtains — warm yellow & brown floral hand block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic Indian artisan craft.
-  Updated: 2026-08-29T00:51:10Z
+- [Golden Bloom Hand Block Cotton Curtains](https://mvbyugvigyana.in/products/pinklay-golden-bloom-hand-block-print-cotton-curtains-yellow-brown-floral): Buy MVB Pinklay Golden Bloom curtains — warm yellow & brown floral hand block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic Indian artisan craft.
+  Updated: 2026-11-19T15:20:21Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1288,8 +1288,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT78_2.jpg?v=1770809155
     Price: ₹799.00 INR
-- [Madhuban Bloom Hand Block Cotton Curtains | Pink Floral Green Leaves | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/madhuban-bloom-hand-block-print-cotton-curtains-pink-floral-green-leaves): Buy MVB Madhuban Bloom curtains — pink florals & green leaves hand block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic Indian artisan craft.
-  Updated: 2026-08-29T00:51:10Z
+- [Madhuban Bloom Hand Block Cotton Curtains](https://mvbyugvigyana.in/products/madhuban-bloom-hand-block-print-cotton-curtains-pink-floral-green-leaves): Buy MVB Madhuban Bloom curtains — pink florals & green leaves hand block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic Indian artisan craft.
+  Updated: 2026-11-19T15:20:27Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1306,8 +1306,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT79_2.jpg?v=1771098627
     Price: ₹799.00 INR
-- [Mela Garden Rose Hand Block Cotton Curtains | Pink Floral Jaipur Design | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/mela-garden-rose-hand-block-print-cotton-curtains-pink-floral): Buy MVB Mela Garden Rose curtains — pink rose bouquet Jaipur block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic Rajasthani artisan craft.
-  Updated: 2026-08-29T00:51:11Z
+- [Mela Garden Rose Hand Block Cotton Curtains](https://mvbyugvigyana.in/products/mela-garden-rose-hand-block-print-cotton-curtains-pink-floral): Buy MVB Mela Garden Rose curtains — pink rose bouquet Jaipur block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic Rajasthani artisan craft.
+  Updated: 2026-11-19T15:20:23Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1324,8 +1324,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT80_2.jpg?v=1771097501
     Price: ₹799.00 INR
-- [Blue Pottery Hand Block Cotton Curtains | Jaipur Design | 100% Pure Cotton | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/timeless-blue-pottery-hand-block-print-cotton-curtains-jaipur): Buy MVB Blue Pottery curtains — iconic Jaipur blue pottery block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Timeless Urban Jaipur artisan craft.
-  Updated: 2026-08-29T00:51:11Z
+- [Blue Pottery Hand Block Cotton Curtains | Design | Cotton](https://mvbyugvigyana.in/products/timeless-blue-pottery-hand-block-print-cotton-curtains-jaipur): Buy MVB Blue Pottery curtains — iconic Jaipur blue pottery block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Timeless Urban Jaipur artisan craft.
+  Updated: 2026-11-19T15:20:27Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1342,8 +1342,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT81_2.jpg?v=1770807941
     Price: ₹799.00 INR
-- [Printroots Heritage Hand Block Cotton Curtains | Green India Design | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/printroots-heritage-hand-block-print-cotton-curtains-green-india): Buy MVB Printroots Heritage curtains — calming green India-inspired block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic artisan craftsmanship.
-  Updated: 2026-08-29T00:51:11Z
+- [Heritage Hand Block Cotton Curtains | Green Design](https://mvbyugvigyana.in/products/printroots-heritage-hand-block-print-cotton-curtains-green-india): Buy MVB Printroots Heritage curtains — calming green India-inspired block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic artisan craftsmanship.
+  Updated: 2026-11-19T15:20:28Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1360,8 +1360,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT82_2.jpg?v=1770807112
     Price: ₹799.00 INR
-- [Jaipur Mela Hand Block Cotton Curtains | Off-White Jaipuri Design | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/jaipur-mela-hand-block-print-cotton-curtains-off-white-jaipuri): Buy MVB Jaipur Mela curtains — elegant off-white Jaipuri block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic Indian artisan craftsmanship.
-  Updated: 2026-08-29T00:51:11Z
+- [Mela Hand Block Cotton Curtains | Off-White Design](https://mvbyugvigyana.in/products/jaipur-mela-hand-block-print-cotton-curtains-off-white-jaipuri): Buy MVB Jaipur Mela curtains — elegant off-white Jaipuri block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic Indian artisan craftsmanship.
+  Updated: 2026-11-19T15:20:28Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1378,8 +1378,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT83_2.jpg?v=1770806819
     Price: ₹799.00 INR
-- [Plush Heritage Hand Block Cotton Curtains | Blue Floral Design | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/plush-heritage-hand-block-print-cotton-curtains-blue-floral): Buy MVB Plush Heritage curtains — rich blue floral hand block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic Indian artisan craftsmanship.
-  Updated: 2026-08-29T00:51:12Z
+- [Plush Heritage Hand Block Cotton Curtains](https://mvbyugvigyana.in/products/plush-heritage-hand-block-print-cotton-curtains-blue-floral): Buy MVB Plush Heritage curtains — rich blue floral hand block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic Indian artisan craftsmanship.
+  Updated: 2026-11-19T15:19:45Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1396,8 +1396,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT84_2.jpg?v=1770806565
     Price: ₹799.00 INR
-- [Vintage Flora Hand Block Print Cotton Curtains | Light Green Floral | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/vintage-flora-hand-block-print-cotton-curtains-light-green-floral): Buy Vintage Flora hand block print cotton curtains in light green floral design. 100% pure cotton, 180 GSM, available in 5ft, 7ft & 9ft. Authentic Indian artisan craftsmanship. Free shipping India.
-  Updated: 2026-10-19T09:17:43Z
+- [Vintage Flora Hand Block Print Cotton Curtains](https://mvbyugvigyana.in/products/vintage-flora-hand-block-print-cotton-curtains-light-green-floral): Buy Vintage Flora hand block print cotton curtains in light green floral design. 100% pure cotton, 180 GSM, available in 5ft, 7ft & 9ft. Authentic Indian artisan craftsmanship. Free shipping India.
+  Updated: 2026-11-19T15:19:46Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1414,8 +1414,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT85_2.jpg?v=1770806375
     Price: ₹799.00 INR
-- [Jaipur Bloom Hand Block Print Curtains | Sea Green Floral | 100% Cotton | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/jaipur-bloom-hand-block-print-curtains-sea-green-floral-tree): Buy Jaipur Bloom hand block print curtains in sea green with trees & flowers. 100% pure cotton, 180 GSM, available in 5ft, 7ft & 9ft. Authentic Jaipuri craftsmanship. Free shipping India.
-  Updated: 2026-08-29T00:51:12Z
+- [Bloom Hand Block Print Curtains | Sea Green Floral | Cotton](https://mvbyugvigyana.in/products/jaipur-bloom-hand-block-print-curtains-sea-green-floral-tree): Buy Jaipur Bloom hand block print curtains in sea green with trees & flowers. 100% pure cotton, 180 GSM, available in 5ft, 7ft & 9ft. Authentic Jaipuri craftsmanship. Free shipping India.
+  Updated: 2026-11-19T15:19:46Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1432,8 +1432,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT65_2.jpg?v=1770803843
     Price: ₹799.00 INR
-- [Elegant Printed Cotton 180TC Double Bedsheet Set | Soft & Stylish | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/elegant-printed-cotton-180tc-double-bedsheet-set): Buy Elegant Printed Cotton 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Lovely printed design, soft, breathable & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:13Z
+- [Elegant Printed Cotton 180TC Double Bedsheet Set](https://mvbyugvigyana.in/products/elegant-printed-cotton-180tc-double-bedsheet-set): Buy Elegant Printed Cotton 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Lovely printed design, soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:47Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1467,8 +1467,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS8615.jpg?v=1771487129
   Price: ₹1,100.00 INR
-- [Soft Sleep Printed Cotton 180TC Double Bedsheet Set | Elegant Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/soft-sleep-printed-cotton-180tc-double-bedsheet-set): Buy Soft Sleep Printed Cotton 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Elegant printed design, soft, breathable & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:14Z
+- [Soft Sleep Printed Cotton 180TC Double Bedsheet Set](https://mvbyugvigyana.in/products/soft-sleep-printed-cotton-180tc-double-bedsheet-set): Buy Soft Sleep Printed Cotton 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Elegant printed design, soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:48Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1481,8 +1481,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Soft-Sleep-Cotton-Bedsheets-MVB-YUGVIGYANA-53401936560492.jpg?v=1772369111
   Price: ₹1,100.00 INR
-- [Stylish Cotton 180TC Double Bedsheet Set | Trendy Printed Design | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/stylish-cotton-180tc-double-bedsheet-set): Buy Stylish Cotton 180TC pure cotton double bedsheet set with 2 pillow covers. Trendy printed design, soft, breathable & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:14Z
+- [Stylish Cotton 180TC Double Bedsheet Set](https://mvbyugvigyana.in/products/stylish-cotton-180tc-double-bedsheet-set): Buy Stylish Cotton 180TC pure cotton double bedsheet set with 2 pillow covers. Trendy printed design, soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:48Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1495,50 +1495,50 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Cotton-Comfort-Double-Bedsheets-MVB-YUGVIGYANA-53421563707756.jpg?v=1772369072
   Price: ₹1,100.00 INR
-- [Elegant Comfort 180TC Cotton Double Bedsheet Set | Soft & Luxurious | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/elegant-comfort-180tc-cotton-double-bedsheet-set): Buy Elegant Comfort 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Gorgeous printed design, soft, breathable & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:15Z
+- [Elegant Comfort 180TC Cotton Double Bedsheet Set](https://mvbyugvigyana.in/products/elegant-comfort-180tc-cotton-double-bedsheet-set): Buy Elegant Comfort 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Gorgeous printed design, soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:49Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS8630.jpg?v=1771432148
   Price: ₹1,100.00 INR
-- [Elegant Cotton Printed 180TC Double Bedsheet Set | Soft & Stylish | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/elegant-cotton-printed-180tc-double-bedsheet-set): Buy Elegant Cotton Printed 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Stylish printed design, soft, breathable & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:15Z
+- [Elegant Cotton Printed 180TC Double Bedsheet Set](https://mvbyugvigyana.in/products/elegant-cotton-printed-180tc-double-bedsheet-set): Buy Elegant Cotton Printed 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Stylish printed design, soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:49Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS8633.jpg?v=1771404594
   Price: ₹1,100.00 INR
-- [Dreamy Cotton Comfort 180TC Double Bedsheet Set | Soft & Elegant | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/dreamy-cotton-comfort-180tc-double-bedsheet-set): Buy Dreamy Cotton Comfort 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Elegant printed design, soft, breathable & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:15Z
+- [Dreamy Cotton Comfort 180TC Double Bedsheet Set](https://mvbyugvigyana.in/products/dreamy-cotton-comfort-180tc-double-bedsheet-set): Buy Dreamy Cotton Comfort 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Elegant printed design, soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:50Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS8636.jpg?v=1771433504
   Price: ₹1,100.00 INR
-- [Classic Cotton Printed 180TC Double Bedsheet Set | Soft & Breathable | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/classic-cotton-printed-180tc-double-bedsheet-set): Buy Classic Cotton Printed 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Elegant printed design, soft, breathable & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:16Z
+- [Classic Cotton Printed 180TC Double Bedsheet Set](https://mvbyugvigyana.in/products/classic-cotton-printed-180tc-double-bedsheet-set): Buy Classic Cotton Printed 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Elegant printed design, soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:50Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS8639.jpg?v=1771320093
   Price: ₹1,100.00 INR
-- [Royal Comfort 100% Cotton Double Bedsheet Set | 180TC | 2 Pillow Covers | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/royal-comfort-100-cotton-bedsheet-set): Buy MVB Royal Comfort 100% pure cotton double bedsheet set — 180TC, 90x108 inch, 2 pillow covers. Soft, breathable & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:16Z
+- [Royal Comfort Cotton Double Bedsheet Set | 180TC](https://mvbyugvigyana.in/products/royal-comfort-100-cotton-bedsheet-set): Buy MVB Royal Comfort 100% pure cotton double bedsheet set — 180TC, 90x108 inch, 2 pillow covers. Soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:51Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS8642.jpg?v=1771262723
   Price: ₹1,100.00 INR
-- [Cotton Bliss Premium Double Bedsheet Set | 180TC Pure Cotton | 2 Pillow Covers | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/cotton-bliss-premium-bedsheet): Buy MVB Cotton Bliss Premium double bedsheet set — 180TC pure cotton, 90x108 inch, 2 pillow covers. Soft, breathable & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:16Z
+- [Cotton Bliss Double Bedsheet Set | 180TC Cotton](https://mvbyugvigyana.in/products/cotton-bliss-premium-bedsheet): Buy MVB Cotton Bliss Premium double bedsheet set — 180TC pure cotton, 90x108 inch, 2 pillow covers. Soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:56Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS8645.jpg?v=1771010533
   Price: ₹1,100.00 INR
-- [Royal Comfort 180TC Cotton Double Bedsheet Set | Green, Blue, Lime Green | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/royal-comfort-180tc-cotton-double-bedsheet-set): Buy Royal Comfort 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Luxurious printed design in Green, Blue & Lime Green. Soft & breathable. Free shipping India.
-  Updated: 2026-08-29T00:51:17Z
+- [Royal Comfort 180TC Cotton Double Bedsheet Set](https://mvbyugvigyana.in/products/royal-comfort-180tc-cotton-double-bedsheet-set): Buy Royal Comfort 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Luxurious printed design in Green, Blue & Lime Green. Soft & breathable. Free shipping India.
+  Updated: 2026-11-19T15:19:52Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1555,8 +1555,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS8648.jpg?v=1769782796
     Price: ₹1,100.00 INR
-- [Soft Cotton Printed 180TC Double Bedsheet Set | Orange, Blue, Olive Green | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/soft-cotton-printed-180tc-double-bedsheet-set): Buy Soft Cotton Printed 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Beautiful printed design in Orange, Blue & Olive Green. Free shipping India.
-  Updated: 2026-08-29T00:51:17Z
+- [Soft Cotton Printed 180TC Double Bedsheet Set](https://mvbyugvigyana.in/products/soft-cotton-printed-180tc-double-bedsheet-set): Buy Soft Cotton Printed 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Beautiful printed design in Orange, Blue & Olive Green. Free shipping India.
+  Updated: 2026-11-19T15:19:52Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1573,8 +1573,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Soft-Cotton-Bedsheets-MVB-YUGVIGYANA-53408523583852.jpg?v=1772369020
     Price: ₹1,100.00 INR
-- [Floral 180TC Cotton Double Bedsheet Set | Brown, Yellow, Navy Blue, Pink | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/floral-180tc-cotton-double-bedsheet-set-with-2-pillow-covers): Buy Floral 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Elegant floral print in Brown, Yellow, Navy Blue & Pink. Soft, breathable. Free shipping India.
-  Updated: 2026-08-29T00:51:17Z
+- [Floral 180TC Cotton Double Bedsheet Set](https://mvbyugvigyana.in/products/floral-180tc-cotton-double-bedsheet-set-with-2-pillow-covers): Buy Floral 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Elegant floral print in Brown, Yellow, Navy Blue & Pink. Soft, breathable. Free shipping India.
+  Updated: 2026-11-19T15:19:54Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1595,8 +1595,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1288-02.jpg?v=1771319726
     Price: ₹1,399.00 INR
-- [Soft Cotton Floral 180TC Double Bedsheet Set | Navy Blue, Maroon, Red, Turquoise | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/soft-cotton-floral-180tc-double-bedsheet-set): Buy Soft Cotton Floral 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Elegant floral print in Navy Blue, Maroon, Red & Turquoise. Free shipping India.
-  Updated: 2026-08-29T00:51:17Z
+- [Soft Cotton Floral 180TC Double Bedsheet Set](https://mvbyugvigyana.in/products/soft-cotton-floral-180tc-double-bedsheet-set): Buy Soft Cotton Floral 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Elegant floral print in Navy Blue, Maroon, Red & Turquoise. Free shipping India.
+  Updated: 2026-11-19T15:19:59Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1617,78 +1617,78 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1356-01.jpg?v=1771394411
     Price: ₹1,399.00 INR
-- [Premium Festive 240TC Cotton Double Bedsheet Set | Tropical Festive Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/premium-festive-240tc-cotton-double-bedsheet-set): Buy Premium Festive 240TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Vibrant tropical festive print, soft, breathable & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:18Z
+- [Festive 240TC Cotton Double Bedsheet Set](https://mvbyugvigyana.in/products/premium-festive-240tc-cotton-double-bedsheet-set): Buy Premium Festive 240TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Vibrant tropical festive print, soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:53Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1385-01.jpg?v=1771263257
   Price: ₹1,399.00 INR
-- [Elephant Festive 240TC Cotton Double Bedsheet Set | Tropical Festive Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/elephant-festive-240tc-cotton-double-bedsheet-set): Buy Elephant Festive 240TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Vibrant tropical elephant print, soft, breathable & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:18Z
+- [Elephant Festive 240TC Cotton Double Bedsheet Set](https://mvbyugvigyana.in/products/elephant-festive-240tc-cotton-double-bedsheet-set): Buy Elephant Festive 240TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Vibrant tropical elephant print, soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:53Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1391A-01.jpg?v=1770813632
   Price: ₹1,399.00 INR
-- [Soft Cotton Floral 150TC Double Bedsheet Set | Elegant Floral Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/soft-cotton-floral-150tc-double-bedsheet-set-with-2-pillow-covers): Buy Soft Cotton Floral 150TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Delicate floral print, soft, breathable & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:18Z
+- [Soft Cotton Floral 150TC Double Bedsheet Set](https://mvbyugvigyana.in/products/soft-cotton-floral-150tc-double-bedsheet-set-with-2-pillow-covers): Buy Soft Cotton Floral 150TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Delicate floral print, soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:57Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1402-02.jpg?v=1771256659
   Price: ₹1,399.00 INR
-- [Multicolor Floral 120TC Cotton Double Bedsheet Set | Soft & Breathable | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/multicolor-floral-120tc-cotton-double-bedsheet-set): Buy Multicolor Floral 120TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Beautiful multicolor floral print, soft, lightweight & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:18Z
+- [Multicolor Floral 120TC Cotton Double Bedsheet Set](https://mvbyugvigyana.in/products/multicolor-floral-120tc-cotton-double-bedsheet-set): Buy Multicolor Floral 120TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Beautiful multicolor floral print, soft, lightweight & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:58Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1423-01.jpg?v=1771254243
   Price: ₹1,399.00 INR
-- [Pure Cotton Floral 180TC Double Bedsheet Set | Green Floral Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/pure-cotton-floral-180tc-double-bedsheet-set-green): Buy Pure Cotton Floral 180TC double bedsheet set (90x108") with 2 pillow covers. Elegant green floral print, soft, breathable & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:19Z
+- [Cotton Floral 180TC Double Bedsheet Set | Green Floral Print](https://mvbyugvigyana.in/products/pure-cotton-floral-180tc-double-bedsheet-set-green): Buy Pure Cotton Floral 180TC double bedsheet set (90x108") with 2 pillow covers. Elegant green floral print, soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:56Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1431-01.jpg?v=1771010823
   Price: ₹1,399.00 INR
-- [Serene Floral 144TC Cotton Double Bedsheet Set | Green Floral Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/serene-floral-144tc-cotton-double-bedsheet-set-green): Buy Serene Floral 144TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Soothing green floral print, soft, breathable & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:19Z
+- [Serene Floral 144TC Cotton Double Bedsheet Set](https://mvbyugvigyana.in/products/serene-floral-144tc-cotton-double-bedsheet-set-green): Buy Serene Floral 144TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Soothing green floral print, soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:57Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1433-01.jpg?v=1771239190
   Price: ₹1,399.00 INR
-- [Elegant Checkered 150TC Cotton Double Bedsheet Set | Multicolor Check Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/elegant-checkered-150tc-cotton-double-bedsheet-set-multicolor): Buy Elegant Checkered 150TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Vibrant multicolor check print, soft, breathable & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:19Z
+- [Elegant Checkered 150TC Cotton Double Bedsheet Set](https://mvbyugvigyana.in/products/elegant-checkered-150tc-cotton-double-bedsheet-set-multicolor): Buy Elegant Checkered 150TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Vibrant multicolor check print, soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:55Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1441-01.jpg?v=1770662586
   Price: ₹1,399.00 INR
-- [Tropical Keri Design 180TC Cotton Double Bedsheet Set | Mango Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/tropical-keri-design-180tc-cotton-double-bedsheet-set-orange): Buy Tropical Keri Design 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Traditional mango/keri print in vibrant orange. Free shipping India.
-  Updated: 2026-08-29T00:51:20Z
+- [Tropical Keri Design 180TC Cotton Double Bedsheet Set](https://mvbyugvigyana.in/products/tropical-keri-design-180tc-cotton-double-bedsheet-set-orange): Buy Tropical Keri Design 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Traditional mango/keri print in vibrant orange. Free shipping India.
+  Updated: 2026-11-19T15:20:00Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1452-01.jpg?v=1770992282
   Price: ₹1,399.00 INR
-- [Floral Harmony 180TC Cotton Double Bedsheet Set | Yellow Floral Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/floral-harmony-180tc-cotton-double-bedsheet-set-yellow): Buy Floral Harmony 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Bright yellow floral print, soft, colorfast & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:20Z
+- [Floral Harmony 180TC Cotton Double Bedsheet Set](https://mvbyugvigyana.in/products/floral-harmony-180tc-cotton-double-bedsheet-set-yellow): Buy Floral Harmony 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Bright yellow floral print, soft, colorfast & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:55Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1464-01.jpg?v=1771235297
   Price: ₹1,399.00 INR
-- [Heritage Paisley Mustard 180TC Cotton Double Bedsheet Set | Paisley Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/heritage-paisley-mustard-180tc-cotton-double-bedsheet-set): Buy Heritage Paisley Mustard 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Traditional paisley print, soft, breathable & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:20Z
+- [Heritage Paisley Mustard 180TC Cotton Double Bedsheet Set](https://mvbyugvigyana.in/products/heritage-paisley-mustard-180tc-cotton-double-bedsheet-set): Buy Heritage Paisley Mustard 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Traditional paisley print, soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:19:59Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1470-01.jpg?v=1771007412
   Price: ₹1,399.00 INR
-- [Indian Sparrow Symphony 180TC Cotton Double Bedsheet Set | Bird Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/indian-sparrow-symphony-180tc-cotton-double-bedsheet-set): Buy Indian Sparrow Symphony 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Nature-inspired bird print in Brown, Blue, Green & Black. Free shipping India.
-  Updated: 2026-08-29T00:51:20Z
+- [Indian Sparrow Symphony 180TC Cotton Double Bedsheet Set](https://mvbyugvigyana.in/products/indian-sparrow-symphony-180tc-cotton-double-bedsheet-set): Buy Indian Sparrow Symphony 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Nature-inspired bird print in Brown, Blue, Green & Black. Free shipping India.
+  Updated: 2026-11-19T15:20:00Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1709,22 +1709,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1484-01.jpg?v=1771091223
     Price: ₹1,399.00 INR
-- [Golden Sunflower Delight 180TC Cotton Double Bedsheet Set | Sunflower Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/golden-sunflower-delight-180tc-cotton-double-bedsheet-set): Buy Golden Sunflower Delight 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Bright sunflower print, soft & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:21Z
+- [Golden Sunflower Delight 180TC Cotton Double Bedsheet Set](https://mvbyugvigyana.in/products/golden-sunflower-delight-180tc-cotton-double-bedsheet-set): Buy Golden Sunflower Delight 180TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Bright sunflower print, soft & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:20:01Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1488-04.jpg?v=1771238482
   Price: ₹1,399.00 INR
-- [Breathable Floral 120TC Cotton Double Bedsheet Set | Soft & Colorfast | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/breathable-floral-120tc-cotton-double-bedsheet-set): Buy Breathable Floral 120TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Soft, colorfast, machine washable floral bedding. Free shipping across India.
-  Updated: 2026-08-29T00:51:21Z
+- [Breathable Floral 120TC Cotton Double Bedsheet Set](https://mvbyugvigyana.in/products/breathable-floral-120tc-cotton-double-bedsheet-set): Buy Breathable Floral 120TC pure cotton double bedsheet set (90x108") with 2 pillow covers. Soft, colorfast, machine washable floral bedding. Free shipping across India.
+  Updated: 2026-11-19T15:20:01Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1489-01.jpg?v=1771238606
   Price: ₹1,399.00 INR
-- [Royal Sanganeri Elegance 180TC Cotton Double Bedsheet Set | Rajasthani Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/royal-sanganeri-elegance-180tc-cotton-double-bedsheet-set): Buy Royal Sanganeri Elegance 180TC cotton double bedsheet set (90x108") with 2 pillow covers. Traditional Rajasthani block print, soft & machine washable. Free shipping India.
-  Updated: 2026-08-29T00:51:21Z
+- [Royal Sanganeri Elegance 180TC Cotton Double Bedsheet Set](https://mvbyugvigyana.in/products/royal-sanganeri-elegance-180tc-cotton-double-bedsheet-set): Buy Royal Sanganeri Elegance 180TC cotton double bedsheet set (90x108") with 2 pillow covers. Traditional Rajasthani block print, soft & machine washable. Free shipping India.
+  Updated: 2026-11-19T15:20:03Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1748,8 +1748,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2023-02.jpg?v=1771226305
     Price: ₹1,599.00 INR
-- [Blooming Elegance 240TC Cotton Double Bedsheet Set | Floral Design | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/blooming-elegance-240tc-cotton-double-bedsheet-set): Buy Blooming Elegance 240TC pure cotton double bedsheet set (108x100") with 2 pillow covers. Soft, breathable, machine washable floral bedding. Free shipping across India.
-  Updated: 2026-08-29T00:51:22Z
+- [Blooming Elegance 240TC Cotton Double Bedsheet Set](https://mvbyugvigyana.in/products/blooming-elegance-240tc-cotton-double-bedsheet-set): Buy Blooming Elegance 240TC pure cotton double bedsheet set (108x100") with 2 pillow covers. Soft, breathable, machine washable floral bedding. Free shipping across India.
+  Updated: 2026-11-19T15:20:02Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1766,8 +1766,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2032-02.jpg?v=1771096649
     Price: ₹1,599.00 INR
-- [Grand Royale 240 TC Cotton Double Bedsheet | Charcoal Grey, Mustard & Walnut | MVB Yugvigyana](https://mvbyugvigyana.in/products/grand-royale-240tc-cotton-bedsheet-set): Buy Grand Royale 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Available in Charcoal Grey, Mustard & Walnut. Sophisticated elegant design. Made in India.
-  Updated: 2026-08-29T00:51:22Z
+- [Grand Royale 240 TC Cotton Double Bedsheet](https://mvbyugvigyana.in/products/grand-royale-240tc-cotton-bedsheet-set): Buy Grand Royale 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Available in Charcoal Grey, Mustard & Walnut. Sophisticated elegant design. Made in India.
+  Updated: 2026-11-19T15:20:03Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1798,8 +1798,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2044-02.jpg?v=1771166361
     Price: ₹1,599.00 INR
-- [Floral Harmony 240 TC Cotton Double Bedsheet | Blue, Orange & Creyola | MVB Yugvigyana](https://mvbyugvigyana.in/products/floral-harmony-240tc-cotton-bedsheet): Buy Floral Harmony 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Available in Blue, Orange & Creyola. Beautiful floral print. Made in India.
-  Updated: 2026-08-29T00:51:23Z
+- [Floral Harmony 240 TC Cotton Double Bedsheet](https://mvbyugvigyana.in/products/floral-harmony-240tc-cotton-bedsheet): Buy Floral Harmony 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Available in Blue, Orange & Creyola. Beautiful floral print. Made in India.
+  Updated: 2026-11-19T15:20:05Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1816,8 +1816,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2047-02.jpg?v=1771077345
     Price: ₹1,599.00 INR
-- [Festival Harmony 240 TC Cotton Double Bedsheet | Midnight Blue, Towney & Forest Green | MVB Yugvigyana](https://mvbyugvigyana.in/products/festival-harmony-240tc-cotton-bedsheet-set): Buy Festival Harmony 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Available in Midnight Blue, Towney & Forest Green. Festive wave design. Made in India.
-  Updated: 2026-08-29T00:51:23Z
+- [Festival Harmony 240 TC Cotton Double Bedsheet](https://mvbyugvigyana.in/products/festival-harmony-240tc-cotton-bedsheet-set): Buy Festival Harmony 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Available in Midnight Blue, Towney & Forest Green. Festive wave design. Made in India.
+  Updated: 2026-11-19T15:20:04Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1834,8 +1834,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Festival-Harmony-240TC-Cotton-Bedsheet-Set-MVB-YUGVIGYANA-53409568522604.jpg?v=1772368943
     Price: ₹1,599.00 INR
-- [Everlasting Bliss 240 TC Cotton Double Bedsheet | Slate, Hickory & Penny | MVB Yugvigyana](https://mvbyugvigyana.in/products/everlasting-bliss-240tc-cotton-bedsheet-set): Buy Everlasting Bliss 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Available in Slate, Hickory & Penny. Classic elegant design. Made in India.
-  Updated: 2026-08-29T00:51:23Z
+- [Everlasting Bliss 240 TC Cotton Double Bedsheet](https://mvbyugvigyana.in/products/everlasting-bliss-240tc-cotton-bedsheet-set): Buy Everlasting Bliss 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Available in Slate, Hickory & Penny. Classic elegant design. Made in India.
+  Updated: 2026-11-19T15:20:04Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1852,8 +1852,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2053-02.jpg?v=1771159403
     Price: ₹1,599.00 INR
-- [Royal Paisley Print Double Bedsheet | 240 TC 100% Cotton | Red Pink, Moss Green & Pine Green | MVB Yugvigyana](https://mvbyugvigyana.in/products/royal-paisley-240tc-cotton-double-bedsheet): Buy Royal Paisley Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Available in Red Pink, Moss Green & Pine Green. Timeless paisley design. Made in India.
-  Updated: 2026-08-29T00:51:23Z
+- [Royal Paisley Print Double Bedsheet | 240 TC Cotton](https://mvbyugvigyana.in/products/royal-paisley-240tc-cotton-double-bedsheet): Buy Royal Paisley Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Available in Red Pink, Moss Green & Pine Green. Timeless paisley design. Made in India.
+  Updated: 2026-11-19T15:20:07Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1870,8 +1870,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2056-02.jpg?v=1771148147
     Price: ₹1,599.00 INR
-- [Floral Bliss Hand Block Print Double Bedsheet | 240 TC 100% Cotton | Green, Pink & Blue | MVB Yugvigyana](https://mvbyugvigyana.in/products/floral-bliss-cotton-bedsheet-set): Buy Floral Bliss Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Available in Green, Pink & Blue. Charming floral design, handcrafted. Made in India.
-  Updated: 2026-08-29T00:51:24Z
+- [Floral Bliss Hand Block Print Double Bedsheet](https://mvbyugvigyana.in/products/floral-bliss-cotton-bedsheet-set): Buy Floral Bliss Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Available in Green, Pink & Blue. Charming floral design, handcrafted. Made in India.
+  Updated: 2026-11-19T15:20:08Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1888,8 +1888,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2426-02.jpg?v=1771072915
     Price: ₹1,999.00 INR
-- [Luminous Bale Hand Block Print Double Bedsheet | 240 TC 100% Cotton | Orange & Pink | MVB Yugvigyana](https://mvbyugvigyana.in/products/luminous-bale-100-cotton-bedsheet): Buy Luminous Bale Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Orange & Pink, distinctive Flickering Bale design, handcrafted. Made in India.
-  Updated: 2026-08-29T00:51:24Z
+- [Luminous Bale Hand Block Print Double Bedsheet](https://mvbyugvigyana.in/products/luminous-bale-100-cotton-bedsheet): Buy Luminous Bale Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Orange & Pink, distinctive Flickering Bale design, handcrafted. Made in India.
+  Updated: 2026-11-19T15:20:07Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1902,8 +1902,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2432-02.jpg?v=1771010158
     Price: ₹1,999.00 INR
-- [Floral Charm Hand Block Print Double Bedsheet | 240 TC 100% Cotton | Blue & Grey | MVB Yugvigyana](https://mvbyugvigyana.in/products/floral-charm-100-cotton-bedsheet): Buy Floral Charm Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Blue & Grey, nature-inspired floral design, handcrafted. Made in India.
-  Updated: 2026-08-29T00:51:24Z
+- [Floral Charm Hand Block Print Double Bedsheet | Blue & Grey](https://mvbyugvigyana.in/products/floral-charm-100-cotton-bedsheet): Buy Floral Charm Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Blue & Grey, nature-inspired floral design, handcrafted. Made in India.
+  Updated: 2026-11-19T15:20:06Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1916,8 +1916,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2435-02.jpg?v=1771008687
     Price: ₹1,999.00 INR
-- [Mor Pankh Peacock Feather Hand Block Print Double Bedsheet | 240 TC 100% Cotton | Green & Blue | MVB Yugvigyana](https://mvbyugvigyana.in/products/mor-pankh-cotton-bedsheet-set): Buy Mor Pankh Peacock Feather Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Green & Blue, auspicious peacock design, handcrafted. Made in India.
-  Updated: 2026-08-29T00:51:25Z
+- [Mor Pankh Peacock Feather Hand Block Print Double Bedsheet](https://mvbyugvigyana.in/products/mor-pankh-cotton-bedsheet-set): Buy Mor Pankh Peacock Feather Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Green & Blue, auspicious peacock design, handcrafted. Made in India.
+  Updated: 2026-11-19T15:20:06Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1937,8 +1937,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2454-01.jpg?v=1770997746
   Price: ₹1,999.00 INR
-- [Artistic Paisley Hand Block Print Double Bedsheet | 240 TC 100% Cotton | Pink & Mustard | MVB Yugvigyana](https://mvbyugvigyana.in/products/artisan-paisley-100-cotton-bedsheet-set): Buy Artistic Paisley Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Pink & Mustard, timeless paisley design, handcrafted. Made in India.
-  Updated: 2026-08-29T00:51:25Z
+- [Artistic Paisley Hand Block Print Double Bedsheet](https://mvbyugvigyana.in/products/artisan-paisley-100-cotton-bedsheet-set): Buy Artistic Paisley Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Pink & Mustard, timeless paisley design, handcrafted. Made in India.
+  Updated: 2026-11-19T15:20:08Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1951,29 +1951,29 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2632-02.jpg?v=1771006438
     Price: ₹1,999.00 INR
-- [Princely Paisley Hand Block Print Double Bedsheet | 240 TC 100% Cotton | Majestic Blue | MVB Yugvigyana](https://mvbyugvigyana.in/products/majestic-blue-paisley-cotton-bedsheet): Buy Princely Paisley Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Majestic blue, royal paisley design, handcrafted. Made in India.
-  Updated: 2026-08-29T00:51:25Z
+- [Princely Paisley Hand Block Print Double Bedsheet](https://mvbyugvigyana.in/products/majestic-blue-paisley-cotton-bedsheet): Buy Princely Paisley Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Majestic blue, royal paisley design, handcrafted. Made in India.
+  Updated: 2026-11-19T15:20:09Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2642-01.jpg?v=1770993006
   Price: ₹1,999.00 INR
-- [Blue Bloom Floral Hand Block Print Double Bedsheet | 240 TC 100% Cotton | MVB Yugvigyana](https://mvbyugvigyana.in/products/blue-bloom-100-cotton-bedsheet): Buy Blue Bloom Floral Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Vibrant blue floral design, handcrafted Indian art. Made in India.
-  Updated: 2026-08-29T00:51:26Z
+- [Blue Bloom Floral Hand Block Print Double Bedsheet](https://mvbyugvigyana.in/products/blue-bloom-100-cotton-bedsheet): Buy Blue Bloom Floral Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Vibrant blue floral design, handcrafted Indian art. Made in India.
+  Updated: 2026-11-19T15:20:10Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2645-01.jpg?v=1771004817
   Price: ₹1,599.00 INR
-- [Pumpkin Hand Block Print Double Bedsheet | 240 TC 100% Cotton | Festive Blue | MVB Yugvigyana](https://mvbyugvigyana.in/products/festive-blue-pumpkin-bedsheet): Buy Pumpkin Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Festive blue, artistic handcrafted Indian design. Made in India.
-  Updated: 2026-08-29T00:51:26Z
+- [Pumpkin Hand Block Print Double Bedsheet | 240 TC Cotton](https://mvbyugvigyana.in/products/festive-blue-pumpkin-bedsheet): Buy Pumpkin Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Festive blue, artistic handcrafted Indian design. Made in India.
+  Updated: 2026-11-19T15:20:10Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2646-01.jpg?v=1770990091
   Price: ₹1,599.00 INR
-- [Fortune Feathers Hand Block Print Double Bedsheet | 240 TC 100% Cotton | Yellow & Pink | MVB Yugvigyana](https://mvbyugvigyana.in/products/fortune-feathers-hand-block-bedsheet): Buy Fortune Feathers Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Yellow & Pink, auspicious feather design, handcrafted. Made in India.
-  Updated: 2026-08-29T00:51:26Z
+- [Fortune Feathers Hand Block Print Double Bedsheet](https://mvbyugvigyana.in/products/fortune-feathers-hand-block-bedsheet): Buy Fortune Feathers Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Yellow & Pink, auspicious feather design, handcrafted. Made in India.
+  Updated: 2026-11-19T15:20:15Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1986,29 +1986,29 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Fortune-Feathers-Hand-Block-Bedsheet-MVB-YUGVIGYANA-53409609580908.jpg?v=1772368894
     Price: ₹1,599.00 INR
-- [Tree Motif Hand Block Print Double Bedsheet | 240 TC 100% Cotton | MVB Yugvigyana](https://mvbyugvigyana.in/products/traditional-tree-motif-hand-block-print-bedding): Buy Tree Motif Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Classic tree design, handcrafted Indian art. Made in India.
-  Updated: 2026-08-29T00:51:26Z
+- [Tree Motif Hand Block Print Double Bedsheet | 240 TC Cotton](https://mvbyugvigyana.in/products/traditional-tree-motif-hand-block-print-bedding): Buy Tree Motif Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Classic tree design, handcrafted Indian art. Made in India.
+  Updated: 2026-11-19T15:20:12Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2657-02.jpg?v=1771088919
   Price: ₹1,599.00 INR
-- [Dotted Flower Hand Block Print Double Bedsheet | 240 TC 100% Cotton | MVB Yugvigyana](https://mvbyugvigyana.in/products/traditional-dotted-flower-block-print-double-bedsheet): Buy Dotted Flower Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Elegant floral design, handcrafted Indian art. Made in India.
-  Updated: 2026-08-29T00:51:27Z
+- [Dotted Flower Hand Block Print Double Bedsheet](https://mvbyugvigyana.in/products/traditional-dotted-flower-block-print-double-bedsheet): Buy Dotted Flower Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Elegant floral design, handcrafted Indian art. Made in India.
+  Updated: 2026-11-19T15:20:11Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/1741970124767.jpg?v=1771005804
   Price: ₹1,599.00 INR
-- [Flighty Green Hand Block Print Double Bedsheet | 240 TC 100% Cotton | MVB Yugvigyana](https://mvbyugvigyana.in/products/multicolor-flighty-green-hand-block-printed-double-bedsheet): Buy Flighty Green Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Vibrant multicolor, handcrafted Indian art. Made in India.
-  Updated: 2026-08-29T00:51:27Z
+- [Flighty Green Hand Block Print Double Bedsheet](https://mvbyugvigyana.in/products/multicolor-flighty-green-hand-block-printed-double-bedsheet): Buy Flighty Green Hand Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Vibrant multicolor, handcrafted Indian art. Made in India.
+  Updated: 2026-11-19T15:20:14Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2662-01Resized.jpg?v=1771007965
   Price: ₹1,599.00 INR
-- [Traditional Bandhej Print Double Bedsheet | 210 TC 100% Cotton | Red & Blue | MVB Yugvigyana](https://mvbyugvigyana.in/products/traditional-bandhej-print-cotton-bed-sheet-with-pillow-covers): Buy Traditional Bandhej 210 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Red & Blue, classic Indian tie-dye print, soft & breathable. Made in India.
-  Updated: 2026-08-29T00:51:27Z
+- [Traditional Bandhej Print Double Bedsheet | 210 TC Cotton](https://mvbyugvigyana.in/products/traditional-bandhej-print-cotton-bed-sheet-with-pillow-covers): Buy Traditional Bandhej 210 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Red & Blue, classic Indian tie-dye print, soft & breathable. Made in India.
+  Updated: 2026-11-19T15:20:11Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2021,43 +2021,43 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2795-02.jpg?v=1771004277
     Price: ₹1,399.00 INR
-- [Jaipur Rangoli Bandhej Print Double Bedsheet | 210 TC 100% Cotton | MVB Yugvigyana](https://mvbyugvigyana.in/products/jaipur-rangoli-design-cotton-bed-sheet-with-pillow-covers): Buy Jaipur Rangoli Bandhej 210 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Vibrant Rajasthani print, soft, breathable & colorfast. Made in India.
-  Updated: 2026-08-29T00:51:27Z
+- [Rangoli Bandhej Print Double Bedsheet | 210 TC Cotton](https://mvbyugvigyana.in/products/jaipur-rangoli-design-cotton-bed-sheet-with-pillow-covers): Buy Jaipur Rangoli Bandhej 210 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Vibrant Rajasthani print, soft, breathable & colorfast. Made in India.
+  Updated: 2026-11-19T15:20:18Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2849-02.jpg?v=1771008427
   Price: ₹1,399.00 INR
-- [Ethnic Rangoli Bandhej Print Double Bedsheet | 210 TC 100% Cotton | MVB Yugvigyana](https://mvbyugvigyana.in/products/ethnic-rangoli-print-cotton-bed-sheet-set): Buy Ethnic Rangoli Bandhej 210 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Vibrant Indian print, soft, breathable & colorfast. Made in India.
-  Updated: 2026-08-29T00:51:28Z
+- [Ethnic Rangoli Bandhej Print Double Bedsheet | 210 TC Cotton](https://mvbyugvigyana.in/products/ethnic-rangoli-print-cotton-bed-sheet-set): Buy Ethnic Rangoli Bandhej 210 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Vibrant Indian print, soft, breathable & colorfast. Made in India.
+  Updated: 2026-11-19T15:20:21Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2851-01.jpg?v=1771145349
   Price: ₹1,399.00 INR
-- [Elegant Weave Bandhej Print Double Bedsheet | 210 TC 100% Cotton | MVB Yugvigyana](https://mvbyugvigyana.in/products/elegant-rangoli-print-cotton-double-bed-sheet-set): Buy Elegant Weave Bandhej 210 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Classic Indian Bandhej print, soft, breathable & colorfast. Made in India.
-  Updated: 2026-08-29T00:51:28Z
+- [Elegant Weave Bandhej Print Double Bedsheet | 210 TC Cotton](https://mvbyugvigyana.in/products/elegant-rangoli-print-cotton-double-bed-sheet-set): Buy Elegant Weave Bandhej 210 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Classic Indian Bandhej print, soft, breathable & colorfast. Made in India.
+  Updated: 2026-11-19T15:20:13Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2852-02.jpg?v=1771004005
   Price: ₹1,399.00 INR
-- [Tie & Dye Kerry Pattern Block Print Double Bedsheet | 240 TC 100% Cotton | MVB Yugvigyana](https://mvbyugvigyana.in/products/colorful-elegance-240-tc-cotton-kerry-pattern-bed-sheet-pillow-covers): Buy Tie & Dye Kerry Pattern 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Vibrant multicolor block print, soft & breathable. Made in India.
-  Updated: 2026-08-29T00:51:28Z
+- [Tie & Dye Kerry Pattern Block Print Double Bedsheet](https://mvbyugvigyana.in/products/colorful-elegance-240-tc-cotton-kerry-pattern-bed-sheet-pillow-covers): Buy Tie & Dye Kerry Pattern 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Vibrant multicolor block print, soft & breathable. Made in India.
+  Updated: 2026-11-19T15:20:20Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS2861-04.jpg?v=1771003210
   Price: ₹1,399.00 INR
-- [Sanganeri Zigzag Print Double Bedsheet | 240 TC 100% Cotton | Green | MVB Yugvigyana](https://mvbyugvigyana.in/products/traditional-sanganeri-zigzag-design-cotton-bed-sheet-90-x-108): Buy Sanganeri Zigzag 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Fresh green, traditional Indian craft with modern design. Made in India.
-  Updated: 2026-08-29T00:51:29Z
+- [Sanganeri Zigzag Print Double Bedsheet | 240 TC Cotton](https://mvbyugvigyana.in/products/traditional-sanganeri-zigzag-design-cotton-bed-sheet-90-x-108): Buy Sanganeri Zigzag 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Fresh green, traditional Indian craft with modern design. Made in India.
+  Updated: 2026-11-19T15:20:22Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/MVBDBS3161-01.jpg?v=1770622471
   Price: ₹1,399.00 INR
-- [Embroidery Patchwork Sanganeri Print Double Bedsheet | 240 TC 100% Cotton | 4 Colors | MVB Yugvigyana](https://mvbyugvigyana.in/products/traditional-embroidery-patchwork-sanganeri-cotton-double-bed-sheet): Buy Embroidery Patchwork Sanganeri 240 TC 100% cotton double bedsheet with 2 pillow covers (90x108"). Cream, Red, Orange, Blue. Artistic Indian craft. Made in India.
-  Updated: 2026-08-29T00:51:29Z
+- [Embroidery Patchwork Sanganeri Print Double Bedsheet](https://mvbyugvigyana.in/products/traditional-embroidery-patchwork-sanganeri-cotton-double-bed-sheet): Buy Embroidery Patchwork Sanganeri 240 TC 100% cotton double bedsheet with 2 pillow covers (90x108"). Cream, Red, Orange, Blue. Artistic Indian craft. Made in India.
+  Updated: 2026-11-19T15:20:18Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2078,8 +2078,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS3408-03.jpg?v=1770986329
     Price: ₹1,100.00 INR
-- [Floral Fantasy Double Bedsheet | 180 TC 100% Cotton | Blue & Green | MVB Yugvigyana](https://mvbyugvigyana.in/products/floral-fantasy-180-tc-cotton-double-bed-sheet-90-x-108): Buy Floral Fantasy 180 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Vibrant floral print, soft, breathable & fade-resistant. Blue & Green. Made in India.
-  Updated: 2026-08-29T00:51:29Z
+- [Floral Fantasy Double Bedsheet | 180 TC Cotton](https://mvbyugvigyana.in/products/floral-fantasy-180-tc-cotton-double-bed-sheet-90-x-108): Buy Floral Fantasy 180 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Vibrant floral print, soft, breathable & fade-resistant. Blue & Green. Made in India.
+  Updated: 2026-11-19T15:20:16Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2091,22 +2091,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS342-02.jpg?v=1770984645
     Price: ₹1,399.00 INR
-- [Sunlit Sanganeri Print Double Bedsheet | 120 TC 100% Cotton | Yellow Bloom | MVB Yugvigyana](https://mvbyugvigyana.in/products/soft-cotton-120-tc-sanganeri-print-double-bedsheet): Buy Sunlit Sanganeri 120 TC 100% cotton double bedsheet with 2 pillow covers (90x108"). Yellow bloom, traditional Rajasthani block print, ultra-breathable. Made in India.
-  Updated: 2026-08-29T00:51:29Z
+- [Sunlit Sanganeri Print Double Bedsheet | 120 TC Cotton](https://mvbyugvigyana.in/products/soft-cotton-120-tc-sanganeri-print-double-bedsheet): Buy Sunlit Sanganeri 120 TC 100% cotton double bedsheet with 2 pillow covers (90x108"). Yellow bloom, traditional Rajasthani block print, ultra-breathable. Made in India.
+  Updated: 2026-11-19T15:20:17Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Soft-Cotton-120-TC-Sanganeri-Print-Double-Bedsheet-MVB-YUGVIGYANA-53417133703532.jpg?v=1772368867
   Price: ₹1,100.00 INR
-- [Royal Rajasthani Zari Silk Bedsheet Set | 240 TC Festive Orange | 2 Pillow Covers | MVB Yugvigyana](https://mvbyugvigyana.in/products/royal-rajasthani-zari-silk-bedsheet-set): Buy Royal Rajasthani Zari 240 TC silk bedsheet set with 2 pillow covers (108x90"). Festive orange, authentic zari embroidery, ultra-soft luxury. Made in India.
-  Updated: 2026-08-29T00:51:30Z
+- [Royal Rajasthani Zari Silk Bedsheet Set | 2 Pillow Covers](https://mvbyugvigyana.in/products/royal-rajasthani-zari-silk-bedsheet-set): Buy Royal Rajasthani Zari 240 TC silk bedsheet set with 2 pillow covers (108x90"). Festive orange, authentic zari embroidery, ultra-soft luxury. Made in India.
+  Updated: 2026-11-19T15:20:14Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Royal-Rajasthani-Zari-Silk-Bedsheet-Set-MVB-YUGVIGYANA-53417143959916.jpg?v=1772368843
   Price: ₹2,200.00 INR
-- [Heritage Zari Work Pure Silk Bedsheet Set | 240 TC Rajasthani Embroidery | MVB Yugvigyana](https://mvbyugvigyana.in/products/heritage-zari-work-bedsheet-set): Buy Heritage Zari Work 240 TC pure silk bedsheet set with 2 pillow covers (108x90"). Authentic Rajasthani zari embroidery. Charcoal Grey, Cream, Black, Chocolaty.
-  Updated: 2026-08-29T00:51:30Z
+- [Heritage Zari Work Pure Silk Bedsheet Set](https://mvbyugvigyana.in/products/heritage-zari-work-bedsheet-set): Buy Heritage Zari Work 240 TC pure silk bedsheet set with 2 pillow covers (108x90"). Authentic Rajasthani zari embroidery. Charcoal Grey, Cream, Black, Chocolaty.
+  Updated: 2026-11-19T15:20:19Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2127,8 +2127,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Heritage-Zari-Work-Bedsheet-Set-MVB-YUGVIGYANA-53417155002732.jpg?v=1772368798
     Price: ₹2,200.00 INR
-- [Embroidery Silk Double Bedsheet | 240 TC Tiger Orange & Mint Green | 2 Pillow Covers | MVB Yugvigyana](https://mvbyugvigyana.in/products/embroidery-240tc-silk-double-bedsheet-with-2-pillow-covers-108-x-90): Buy Embroidery 240 TC 100% pure silk double bedsheet with 2 pillow covers (108x90"). Tiger Orange & Mint Green. Hand embroidered, ultra-soft luxury. Made in India.
-  Updated: 2026-08-29T00:51:30Z
+- [Embroidery Silk Double Bedsheet | 2 Pillow Covers](https://mvbyugvigyana.in/products/embroidery-240tc-silk-double-bedsheet-with-2-pillow-covers-108-x-90): Buy Embroidery 240 TC 100% pure silk double bedsheet with 2 pillow covers (108x90"). Tiger Orange & Mint Green. Hand embroidered, ultra-soft luxury. Made in India.
+  Updated: 2026-11-19T15:20:17Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2141,15 +2141,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Embroidery-240TC-Silk-Double-Bedsheet-with-2-Pillow-Covers-108-x-90-MVB-YUGVIGYANA-53417156149612.jpg?v=1772368729
     Price: ₹2,200.00 INR
-- [Hand Block Printed Silk Double Bedsheet | 240 TC Artisan Crafted | 2 Pillow Covers | MVB Yugvigyana](https://mvbyugvigyana.in/products/hand-block-printed-240tc-silk-double-bedsheet-with-2-pillow-covers): Buy Hand Block Printed 240 TC 100% pure silk double bedsheet with 2 pillow covers (108x90"). Artisan crafted, ultra-soft & luxurious. Perfect luxury gift. Made in India.
-  Updated: 2026-08-29T00:51:31Z
+- [Hand Block Printed Silk Double Bedsheet | 2 Pillow Covers](https://mvbyugvigyana.in/products/hand-block-printed-240tc-silk-double-bedsheet-with-2-pillow-covers): Buy Hand Block Printed 240 TC 100% pure silk double bedsheet with 2 pillow covers (108x90"). Artisan crafted, ultra-soft & luxurious. Perfect luxury gift. Made in India.
+  Updated: 2026-11-19T15:20:21Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS418-01.jpg?v=1770970754
   Price: ₹2,200.00 INR
-- [Paisley Pattern Cotton Bedsheet Set | 180 TC 100% Pure Cotton | Orange & White | MVB Yugvigyana](https://mvbyugvigyana.in/products/paisley-pattern-cotton-bedsheet-set): Buy Paisley Pattern 180 TC 100% pure cotton double bedsheet set with 2 pillow covers (90x108"). Soft, breathable & hypoallergenic. Orange & White. Made in India.
-  Updated: 2026-08-29T00:51:31Z
+- [Paisley Pattern Cotton Bedsheet Set | 180 TC Cotton](https://mvbyugvigyana.in/products/paisley-pattern-cotton-bedsheet-set): Buy Paisley Pattern 180 TC 100% pure cotton double bedsheet set with 2 pillow covers (90x108"). Soft, breathable & hypoallergenic. Orange & White. Made in India.
+  Updated: 2026-11-19T15:20:19Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2162,8 +2162,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS4208-02.jpg?v=1770914819
     Price: ₹1,100.00 INR
-- [Elegant Floral Cotton Bedsheet Set | 180 TC 100% Pure Cotton | Orange & Blue | MVB Yugvigyana](https://mvbyugvigyana.in/products/elegant-floral-cotton-bedsheet-set-90-x-108): Buy Elegant Floral 180 TC 100% pure cotton double bedsheet set with 2 pillow covers (90x108"). Soft, breathable & colorfast. Orange & Blue. Made in India.
-  Updated: 2026-08-29T00:51:31Z
+- [Elegant Floral Cotton Bedsheet Set | 180 TC Cotton](https://mvbyugvigyana.in/products/elegant-floral-cotton-bedsheet-set-90-x-108): Buy Elegant Floral 180 TC 100% pure cotton double bedsheet set with 2 pillow covers (90x108"). Soft, breathable & colorfast. Orange & Blue. Made in India.
+  Updated: 2026-11-19T15:20:12Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2176,8 +2176,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/MVB20910-07.jpg?v=1770625978
     Price: ₹1,100.00 INR
-- [Floral Cotton Double Bedsheet Set | 180 TC 100% Pure Cotton | Blue & Orange | MVB Yugvigyana](https://mvbyugvigyana.in/products/floral-cotton-double-bedsheet-set-with-2-pillow-covers): Buy Floral Cotton 180 TC 100% pure cotton double bedsheet set with 2 pillow covers (90x108"). Soft, breathable & colorfast. Blue & Orange. Made in India.
-  Updated: 2026-08-29T00:51:31Z
+- [Floral Cotton Double Bedsheet Set | 180 TC Cotton](https://mvbyugvigyana.in/products/floral-cotton-double-bedsheet-set-with-2-pillow-covers): Buy Floral Cotton 180 TC 100% pure cotton double bedsheet set with 2 pillow covers (90x108"). Soft, breathable & colorfast. Blue & Orange. Made in India.
+  Updated: 2026-11-19T15:20:22Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2190,8 +2190,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/MVB423740-08.jpg?v=1770913130
     Price: ₹1,100.00 INR
-- [Luxury Embroidery Silk Double Bedsheet | 240 TC Royal Design | 2 Pillow Covers | MVB Yugvigyana](https://mvbyugvigyana.in/products/luxury-240-tc-embroidery-silk-bedsheet-for-double-bed): Buy Luxury 240 TC embroidery silk double bedsheet with 2 pillow covers. Premium silk blend, royal embroidered design. Red & Yellow, Black & Red. Made in India.
-  Updated: 2026-08-29T00:51:32Z
+- [Embroidery Silk Double Bedsheet | 240 TC Royal Design](https://mvbyugvigyana.in/products/luxury-240-tc-embroidery-silk-bedsheet-for-double-bed): Buy Luxury 240 TC embroidery silk double bedsheet with 2 pillow covers. Premium silk blend, royal embroidered design. Red & Yellow, Black & Red. Made in India.
+  Updated: 2026-11-19T15:20:23Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2204,57 +2204,57 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/MVB42627-10.jpg?v=1770637522
     Price: ₹2,999.00 INR
-- [Artistic Jaipuri Print Double Bedsheet | 240 TC 100% Pure Cotton | Green Mustard | MVB Yugvigyana](https://mvbyugvigyana.in/products/artistic-jaipuri-240-tc-cotton-bedsheet-for-double-bed): Buy Artistic Jaipuri 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Rich green & mustard, soft & breathable. Traditional print. Made in India.
-  Updated: 2026-08-29T00:51:32Z
+- [Artistic Print Double Bedsheet | 240 TC Cotton](https://mvbyugvigyana.in/products/artistic-jaipuri-240-tc-cotton-bedsheet-for-double-bed): Buy Artistic Jaipuri 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Rich green & mustard, soft & breathable. Traditional print. Made in India.
+  Updated: 2026-11-19T15:20:24Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Artistic-Jaipuri-240-TC-Cotton-Bedsheet-for-Double-Bed-MVB-YUGVIGYANA-53417198518636.jpg?v=1772370810
   Price: ₹1,100.00 INR
-- [Bloom Bliss Bouquet Double Bedsheet | 240 TC 100% Pure Cotton | 2 Pillow Covers | MVB Yugvigyana](https://mvbyugvigyana.in/products/bloom-bliss-100-cotton-double-bedsheet-set): Buy Bloom Bliss 240 TC 100% pure cotton beautiful bouquet double bedsheet with 2 pillow covers (90x108"). Fade-resistant, soft & breathable. Made in India.
-  Updated: 2026-08-29T00:51:32Z
+- [Bloom Bliss Bouquet Double Bedsheet | 240 TC Cotton](https://mvbyugvigyana.in/products/bloom-bliss-100-cotton-double-bedsheet-set): Buy Bloom Bliss 240 TC 100% pure cotton beautiful bouquet double bedsheet with 2 pillow covers (90x108"). Fade-resistant, soft & breathable. Made in India.
+  Updated: 2026-11-19T15:20:24Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Bloom-Bliss-100-Cotton-Double-Bedsheet-Set-MVB-YUGVIGYANA-53417211494764.jpg?v=1772368684
   Price: ₹1,100.00 INR
-- [Classic Floral Block Print Double Bedsheet | 240 TC 100% Pure Cotton | MVB Yugvigyana](https://mvbyugvigyana.in/products/classic-floral-240-tc-cotton-double-bedsheet): Buy Classic Floral Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Fade-resistant, soft & breathable. Made in India.
-  Updated: 2026-08-29T00:51:32Z
+- [Classic Floral Block Print Double Bedsheet | 240 TC Cotton](https://mvbyugvigyana.in/products/classic-floral-240-tc-cotton-double-bedsheet): Buy Classic Floral Block Print 240 TC 100% pure cotton double bedsheet with 2 pillow covers (90x108"). Fade-resistant, soft & breathable. Made in India.
+  Updated: 2026-11-19T15:20:25Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Classic-Floral-240-TC-Cotton-Double-Bedsheet-MVB-YUGVIGYANA-53417200746860.jpg?v=1772368658
   Price: ₹1,100.00 INR
-- [Paisley Cotton Elegance | 240 TC Block Print Double Bedsheet | 2 Pillow Covers | MVB Yugvigyana](https://mvbyugvigyana.in/products/100-cotton-240-tc-floral-block-printed-double-bedsheet-with-2-pillow-covers): Buy Paisley Cotton Elegance 240 TC 100% pure cotton block print double bedsheet with 2 pillow covers (90x108"). Classic white, soft & breathable. Made in India.
-  Updated: 2026-08-29T00:51:33Z
+- [Paisley Cotton Elegance | 240 TC Block Print Double Bedsheet](https://mvbyugvigyana.in/products/100-cotton-240-tc-floral-block-printed-double-bedsheet-with-2-pillow-covers): Buy Paisley Cotton Elegance 240 TC 100% pure cotton block print double bedsheet with 2 pillow covers (90x108"). Classic white, soft & breathable. Made in India.
+  Updated: 2026-11-19T15:20:25Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/MVB8032-01_efe68a8a-ad06-4d91-b810-1d717930d3c1.jpg?v=1770626726
   Price: ₹1,100.00 INR
-- [240 TC Floral Double Bedsheet | 100% Pure Cotton 100x108 | 2 Pillow Covers | MVB Yugvigyana](https://mvbyugvigyana.in/products/100-cotton-240-tc-floral-double-bedsheet-with-2-pillow-covers-100-x-108): Buy 240 TC floral 100% pure cotton double bedsheet with 2 pillow covers (100x108"). Soft, breathable & elegant. Perfect for double & king beds. Made in India.
-  Updated: 2026-08-29T00:51:33Z
+- [240 TC Floral Double Bedsheet | Cotton 100x108](https://mvbyugvigyana.in/products/100-cotton-240-tc-floral-double-bedsheet-with-2-pillow-covers-100-x-108): Buy 240 TC floral 100% pure cotton double bedsheet with 2 pillow covers (100x108"). Soft, breathable & elegant. Perfect for double & king beds. Made in India.
+  Updated: 2026-11-19T15:20:27Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/MVB7243-01.jpg?v=1770802928
   Price: ₹1,799.00 INR
-- [240 TC Yellow Floral Double Bedsheet | 100% Pure Cotton 100x108 | MVB Yugvigyana](https://mvbyugvigyana.in/products/240-tc-floral-double-bedsheet-with-2-pillow-covers-100-x-108-yellow): Buy 240 TC yellow floral 100% pure cotton double bedsheet with 2 pillow covers (100x108"). Soft, breathable & vibrant. Perfect for double & king beds. Made in India.
-  Updated: 2026-08-29T00:51:33Z
+- [240 TC Yellow Floral Double Bedsheet | Cotton 100x108](https://mvbyugvigyana.in/products/240-tc-floral-double-bedsheet-with-2-pillow-covers-100-x-108-yellow): Buy 240 TC yellow floral 100% pure cotton double bedsheet with 2 pillow covers (100x108"). Soft, breathable & vibrant. Perfect for double & king beds. Made in India.
+  Updated: 2026-11-19T15:20:26Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/MVB7238-01.jpg?v=1770901277
   Price: ₹1,799.00 INR
-- [Pink Floral Double Bed Sheet | 240 TC 100% Pure Cotton | 2 Pillow Covers | MVB Yugvigyana](https://mvbyugvigyana.in/products/pink-floral-double-bed-sheet-with-pillow-covers): Buy Pink Floral 240 TC 100% pure cotton double bedsheet set with 2 pillow covers (90x108"). Soft, breathable & elegant. Perfect wedding & housewarming gift. Made in India.
-  Updated: 2026-08-29T00:51:33Z
+- [Pink Floral Double Bed Sheet | 240 TC Cotton](https://mvbyugvigyana.in/products/pink-floral-double-bed-sheet-with-pillow-covers): Buy Pink Floral 240 TC 100% pure cotton double bedsheet set with 2 pillow covers (90x108"). Soft, breathable & elegant. Perfect wedding & housewarming gift. Made in India.
+  Updated: 2026-11-19T15:20:27Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/MVB7443-01.jpg?v=1770795784
   Price: ₹1,100.00 INR
-- [Soft Floral Print Bedding Set | 240 TC 100% Pure Cotton Double Bed | MVB Yugvigyana](https://mvbyugvigyana.in/products/soft-floral-print-bedding-set-with-pillow-covers): Buy Soft Floral Print 240 TC 100% pure cotton double bedsheet set with 2 pillow covers (90x108"). Elegant design, soft & breathable. Perfect for any bedroom decor.
-  Updated: 2026-08-29T00:51:34Z
+- [Soft Floral Print Bedding Set | 240 TC Cotton Double Bed](https://mvbyugvigyana.in/products/soft-floral-print-bedding-set-with-pillow-covers): Buy Soft Floral Print 240 TC 100% pure cotton double bedsheet set with 2 pillow covers (90x108"). Elegant design, soft & breathable. Perfect for any bedroom decor.
+  Updated: 2026-11-19T15:20:28Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2267,29 +2267,29 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/MVB6059-01.jpg?v=1770747602
   Price: ₹1,100.00 INR
-- [120 TC Floral Sanganeri Cotton Bedding Set | 100% Pure Cotton Double Bed | MVB Yugvigyana](https://mvbyugvigyana.in/products/120-tc-floral-sanganeri-cotton-bedding-set): Buy 120 TC floral Sanganeri 100% pure cotton double bedsheet set with 2 pillow covers (90x108"). Vibrant orange, soft & breathable. Traditional Indian block print.
-  Updated: 2026-08-29T00:51:34Z
+- [120 TC Floral Sanganeri Cotton Bedding Set](https://mvbyugvigyana.in/products/120-tc-floral-sanganeri-cotton-bedding-set): Buy 120 TC floral Sanganeri 100% pure cotton double bedsheet set with 2 pillow covers (90x108"). Vibrant orange, soft & breathable. Traditional Indian block print.
+  Updated: 2026-11-19T15:20:28Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/MVB758-01.jpg?v=1770799469
   Price: ₹1,100.00 INR
-- [Traditional Rangoli Print Bedding Set | 100% Pure Cotton Double Bed | MVB Yugvigyana](https://mvbyugvigyana.in/products/traditional-rangoli-print-bedding-set): Buy Traditional Rangoli Print 120 TC 100% pure cotton double bedsheet set with 2 pillow covers (90x108"). Vibrant orange, soft & breathable. Perfect festival gift.
-  Updated: 2026-08-29T00:51:35Z
+- [Traditional Rangoli Print Bedding Set | Cotton Double Bed](https://mvbyugvigyana.in/products/traditional-rangoli-print-bedding-set): Buy Traditional Rangoli Print 120 TC 100% pure cotton double bedsheet set with 2 pillow covers (90x108"). Vibrant orange, soft & breathable. Perfect festival gift.
+  Updated: 2026-11-19T15:19:46Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS6058_01.jpg?v=1770390224
   Price: ₹1,100.00 INR
-- [Jaipuri Elegance Peacock Printed King Size Bedsheet | 100% Pure Cotton | MVB Yugvigyana](https://mvbyugvigyana.in/products/jaipuri-elegance-king-size-bedsheet-set-of-100-cotton-with-peacock-print): Buy Jaipuri Elegance 180 TC 100% pure cotton peacock printed king size bedsheet with 2 pillow covers (100x108"). AZO-free dyes, soft, breathable. Off-white base.
-  Updated: 2026-08-29T00:51:35Z
+- [Elegance Peacock Printed King Size Bedsheet | Cotton](https://mvbyugvigyana.in/products/jaipuri-elegance-king-size-bedsheet-set-of-100-cotton-with-peacock-print): Buy Jaipuri Elegance 180 TC 100% pure cotton peacock printed king size bedsheet with 2 pillow covers (100x108"). AZO-free dyes, soft, breathable. Off-white base.
+  Updated: 2026-11-19T15:20:30Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Jaipuri-Elegance-King-Size-Bedsheet-Set-of-100-Cotton-with-Peacock-Print-MVB-YUGVIGYANA-53417569223020.jpg?v=1772370258
   Price: ₹1,100.00 INR
-- [Rajasthani Bliss Jaipuri Peacock Printed King Size Bedsheet | Pure Cotton | MVB Yugvigyana](https://mvbyugvigyana.in/products/rajasthani-bliss-pure-cotton-peacock-printed-bedsheet): Buy Rajasthani Bliss 180 TC 100% pure cotton Jaipuri peacock printed king size bedsheet with 2 pillow covers. AZO-free, soft & breathable. White Gold, Blue, Beige.
-  Updated: 2026-08-29T00:51:35Z
+- [Rajasthani Bliss Peacock Printed King Size Bedsheet | Cotton](https://mvbyugvigyana.in/products/rajasthani-bliss-pure-cotton-peacock-printed-bedsheet): Buy Rajasthani Bliss 180 TC 100% pure cotton Jaipuri peacock printed king size bedsheet with 2 pillow covers. AZO-free, soft & breathable. White Gold, Blue, Beige.
+  Updated: 2026-11-19T15:19:45Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2306,8 +2306,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Rajasthani-Bliss-Pure-Cotton-Peacock-Printed-Bedsheet-MVB-YUGVIGYANA-53417570500972.jpg?v=1772370301
     Price: ₹1,100.00 INR
-- [240 TC Eco-Friendly Pure Cotton King Size Bedsheet Set | 2 Pillow Covers | MVB Yugvigyana](https://mvbyugvigyana.in/products/240-tc-eco-friendly-king-size-bedsheet-set): Buy 240 TC 100% pure cotton eco-friendly king size bedsheet set with 2 pillow covers (108x108"). AZO-free dyes, soft & breathable. Azure, Mint Green, Beige, Sage Green.
-  Updated: 2026-08-29T00:51:35Z
+- [240 TC Eco-Friendly Cotton King Size Bedsheet Set](https://mvbyugvigyana.in/products/240-tc-eco-friendly-king-size-bedsheet-set): Buy 240 TC 100% pure cotton eco-friendly king size bedsheet set with 2 pillow covers (108x108"). AZO-free dyes, soft & breathable. Azure, Mint Green, Beige, Sage Green.
+  Updated: 2026-11-19T15:20:31Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2328,8 +2328,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS954-01.jpg?v=1770315189
     Price: ₹1,299.00 INR
-- [240 TC Pure Cotton Ethnic King Size Bedsheet Set | 2 Pillow Covers | MVB Yugvigyana](https://mvbyugvigyana.in/products/240-tc-100-pure-ethnic-bedsheet): Buy 240 TC 100% pure cotton ethnic king size bedsheet set with 2 pillow covers (108x108"). Fade-resistant, soft & breathable. Yellow, Pink, Green, Blue colors.
-  Updated: 2026-08-29T00:51:36Z
+- [240 TC Cotton Ethnic King Size Bedsheet Set](https://mvbyugvigyana.in/products/240-tc-100-pure-ethnic-bedsheet): Buy 240 TC 100% pure cotton ethnic king size bedsheet set with 2 pillow covers (108x108"). Fade-resistant, soft & breathable. Yellow, Pink, Green, Blue colors.
+  Updated: 2026-11-19T15:20:32Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2350,8 +2350,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS958-01.jpg?v=1770313980
     Price: ₹1,299.00 INR
-- [100% Pure Cotton Oasis King Size Bedsheet Set | 240 TC | 2 Pillow Covers | Buy Online India | MVB Yugvigyana](https://mvbyugvigyana.in/products/100-pure-cotton-oasis-double-bedsheet-with-2-pillow-covers): Buy 100% pure cotton Oasis king size bedsheet set online — 240 TC, 2 pillow covers. Soft, breathable & elegant design. Best cotton bedsheet India. Free delivery.
-  Updated: 2026-08-29T00:51:36Z
+- [Cotton Oasis King Size Bedsheet Set | 240 TC | Online](https://mvbyugvigyana.in/products/100-pure-cotton-oasis-double-bedsheet-with-2-pillow-covers): Buy 100% pure cotton Oasis king size bedsheet set online — 240 TC, 2 pillow covers. Soft, breathable & elegant design. Best cotton bedsheet India. Free delivery.
+  Updated: 2026-11-19T15:20:29Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2372,8 +2372,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS962-02.jpg?v=1770313357
     Price: ₹1,299.00 INR
-- [100% Pure Cotton Traditional Double Bedsheet | 240 TC | King Size | 2 Pillow Covers | MVB Yugvigyana](https://mvbyugvigyana.in/products/100-pure-cotton-traditional-double-bedsheet-with-2-pillow-covers): Buy 100% pure cotton traditional double bedsheet online — 240 TC, king size, 2 pillow covers. Classic ethnic Indian design, soft & breathable. Free delivery India.
-  Updated: 2026-08-29T00:51:36Z
+- [Cotton Traditional Double Bedsheet | 240 TC | King Size](https://mvbyugvigyana.in/products/100-pure-cotton-traditional-double-bedsheet-with-2-pillow-covers): Buy 100% pure cotton traditional double bedsheet online — 240 TC, king size, 2 pillow covers. Classic ethnic Indian design, soft & breathable. Free delivery India.
+  Updated: 2026-11-19T15:20:31Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2386,8 +2386,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/100-Pure-Cotton-Traditional-Double-Bedsheet-With-2-Pillow-Covers-MVB-YUGVIGYANA-53417607758188.jpg?v=1772368561
     Price: ₹1,200.00 INR
-- [Artistic Beauty Pure Cotton Super King Bedsheet | 290 TC | 118x118 Inch | 4 Colors | MVB Yugvigyana](https://mvbyugvigyana.in/products/290-tc-pure-cotton-designer-bedsheet-with-2-pillow-covers): Buy Artistic Beauty pure cotton super king bedsheet online — 290 TC, 118x118 inch, 4 colors, 2 pillow covers. Artistic ethnic print. Free delivery across India.
-  Updated: 2026-08-29T00:51:36Z
+- [Artistic Beauty Cotton Super King Bedsheet | 290 TC](https://mvbyugvigyana.in/products/290-tc-pure-cotton-designer-bedsheet-with-2-pillow-covers): Buy Artistic Beauty pure cotton super king bedsheet online — 290 TC, 118x118 inch, 4 colors, 2 pillow covers. Artistic ethnic print. Free delivery across India.
+  Updated: 2026-11-19T15:20:29Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2408,8 +2408,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/290-TC-Pure-Cotton-Designer-Bedsheet-with-2-Pillow-Covers-MVB-YUGVIGYANA-53420556124524.jpg?v=1772370324
     Price: ₹1,450.00 INR
-- [Traditional Block Print Pure Cotton Super King Bedsheet | 290 TC | Brown Orange | 118x118 Inch | MVB Yugvigyana](https://mvbyugvigyana.in/products/traditional-block-print-bedsheet-set): Buy Traditional Block Print pure cotton super king bedsheet online — 290 TC, 118x118 inch, brown & orange, 2 pillow covers. Jaipuri block print. Free delivery India.
-  Updated: 2026-08-29T00:51:37Z
+- [Traditional Block Print Cotton Super King Bedsheet | 290 TC](https://mvbyugvigyana.in/products/traditional-block-print-bedsheet-set): Buy Traditional Block Print pure cotton super king bedsheet online — 290 TC, 118x118 inch, brown & orange, 2 pillow covers. Jaipuri block print. Free delivery India.
+  Updated: 2026-11-19T15:19:47Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2422,8 +2422,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Traditional-Block-Print-Bedsheet-Set-MVB-YUGVIGYANA-53417609757036.jpg?v=1772370402
     Price: ₹1,450.00 INR
-- [Elephant Parade Pure Cotton Super King Bedsheet | 290 TC | 118x118 Inch | 4 Colors | MVB Yugvigyana](https://mvbyugvigyana.in/products/premium-cotton-elephant-parade-design-double-bedsheet-with-2-pillow-covers): Buy Elephant Parade pure cotton super king bedsheet online — 290 TC, 118x118 inch, 4 colors, 2 pillow covers. Rajasthani elephant print. Free delivery India.
-  Updated: 2026-08-29T00:51:37Z
+- [Elephant Parade Cotton Super King Bedsheet | 290 TC](https://mvbyugvigyana.in/products/premium-cotton-elephant-parade-design-double-bedsheet-with-2-pillow-covers): Buy Elephant Parade pure cotton super king bedsheet online — 290 TC, 118x118 inch, 4 colors, 2 pillow covers. Rajasthani elephant print. Free delivery India.
+  Updated: 2026-11-19T15:19:48Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2443,8 +2443,8 @@
   - [Pink](https://mvbyugvigyana.in/products/premium-cotton-elephant-parade-design-double-bedsheet-with-2-pillow-covers?variant=53130671849836)
     Availability: Available
     Price: ₹1,450.00 INR
-- [Wildlife Inspired Pure Cotton Super King Bedsheet | 290 TC | Pastel Green Beige | 118x118 Inch | MVB Yugvigyana](https://mvbyugvigyana.in/products/wildlife-inspired-pure-cotton-bedsheet): Buy Wildlife Inspired pure cotton super king bedsheet online — 290 TC, 118x118 inch, pastel green & beige, 2 pillow covers. Unique wildlife print. Free delivery India.
-  Updated: 2026-08-29T00:51:37Z
+- [Wildlife Inspired Cotton Super King Bedsheet | 290 TC](https://mvbyugvigyana.in/products/wildlife-inspired-pure-cotton-bedsheet): Buy Wildlife Inspired pure cotton super king bedsheet online — 290 TC, 118x118 inch, pastel green & beige, 2 pillow covers. Unique wildlife print. Free delivery India.
+  Updated: 2026-11-19T15:19:46Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2457,8 +2457,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Wildlife-Inspired-Pure-Cotton-Bedsheet-MVB-YUGVIGYANA-53420250333548.jpg?v=1772370653
     Price: ₹1,450.00 INR
-- [Ikat Pure Cotton Super King Bedsheet | 290 TC | Dark Pink & Dark Blue | 118x118 Inch | MVB Yugvigyana](https://mvbyugvigyana.in/products/premium-cotton-ikat-super-king-size-double-bedsheet-with-2-pillow-covers): Buy Ikat pure cotton super king bedsheet online — 290 TC, 118x118 inch, dark pink & dark blue, 2 pillow covers. Traditional Ikat weave print. Free delivery India.
-  Updated: 2026-08-29T00:51:38Z
+- [Ikat Cotton Super King Bedsheet | 290 TC | 118x118 Inch](https://mvbyugvigyana.in/products/premium-cotton-ikat-super-king-size-double-bedsheet-with-2-pillow-covers): Buy Ikat pure cotton super king bedsheet online — 290 TC, 118x118 inch, dark pink & dark blue, 2 pillow covers. Traditional Ikat weave print. Free delivery India.
+  Updated: 2026-11-19T15:20:32Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2471,8 +2471,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Premium-Cotton-Ikat-Super-King-Size-Double-Bedsheet-With-2-Pillow-Covers-MVB-YUGVIGYANA-53420277236076.jpg?v=1772370717
     Price: ₹1,450.00 INR
-- [Ikat Pure Cotton Super King Bedsheet | 290 TC | Sea Green & Pink-Blue | 118x118 Inch | MVB Yugvigyana](https://mvbyugvigyana.in/products/290-tc-premium-cotton-ikat-super-king-size-double-bedsheet-with-2-pillow-covers118-x-118): Buy Ikat pure cotton super king bedsheet online — 290 TC, 118x118 inch, sea green & pink-blue, 2 pillow covers. Traditional Ikat weave print. Free delivery India.
-  Updated: 2026-08-29T00:51:38Z
+- [Ikat Cotton Super King Bedsheet | 290 TC | 118x118 Inch](https://mvbyugvigyana.in/products/290-tc-premium-cotton-ikat-super-king-size-double-bedsheet-with-2-pillow-covers118-x-118): Buy Ikat pure cotton super king bedsheet online — 290 TC, 118x118 inch, sea green & pink-blue, 2 pillow covers. Traditional Ikat weave print. Free delivery India.
+  Updated: 2026-11-19T15:19:48Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2485,8 +2485,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/290-TC-Premium-Cotton-Ikat-Super-King-Size-Double-Bedsheet-With-2-Pillow-Covers-118-X-118-MVB-YUGVIGYANA-53420320719212.jpg?v=1772370747
     Price: ₹1,450.00 INR
-- [Royal Sawari Pure Cotton Super King Bedsheet | 290 TC | 118x118 Inch | Peach Grey | MVB Yugvigyana](https://mvbyugvigyana.in/products/premium-cotton-royal-sawari-super-king-size-double-bedsheet-with-2-pillow-covers): Buy Royal Sawari pure cotton super king bedsheet online — 290 TC, 118x118 inch, peach & grey, 2 pillow covers. Premium ethnic print. Free delivery across India.
-  Updated: 2026-08-29T00:51:38Z
+- [Royal Sawari Cotton Super King Bedsheet | 290 TC](https://mvbyugvigyana.in/products/premium-cotton-royal-sawari-super-king-size-double-bedsheet-with-2-pillow-covers): Buy Royal Sawari pure cotton super king bedsheet online — 290 TC, 118x118 inch, peach & grey, 2 pillow covers. Premium ethnic print. Free delivery across India.
+  Updated: 2026-11-19T15:19:49Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2499,15 +2499,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Premium-Cotton-Royal-Sawari-Super-King-Size-Double-Bedsheet-With-2-Pillow-Covers-MVB-YUGVIGYANA-53420340871532.jpg?v=1772370776
     Price: ₹1,450.00 INR
-- [Safari Adventure Pure Cotton Super King Bedsheet | 290 TC | 118x118 Inch | 2 Pillow Covers | MVB Yugvigyana](https://mvbyugvigyana.in/products/290-tc-premium-cotton-safari-adventure-double-bedsheet): Buy Safari Adventure pure cotton super king bedsheet online — 290 TC, 118x118 inch, 2 pillow covers. Unique wildlife print. Free delivery across India.
-  Updated: 2026-08-29T00:51:38Z
+- [Safari Adventure Cotton Super King Bedsheet | 290 TC](https://mvbyugvigyana.in/products/290-tc-premium-cotton-safari-adventure-double-bedsheet): Buy Safari Adventure pure cotton super king bedsheet online — 290 TC, 118x118 inch, 2 pillow covers. Unique wildlife print. Free delivery across India.
+  Updated: 2026-11-19T15:19:50Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/290-TC-Premium-Cotton-Safari-Adventure-Double-Bedsheet-MVB-YUGVIGYANA-53420350701932.jpg?v=1772370202
   Price: ₹1,450.00 INR
-- [Urban Tribals Pure Cotton Super King Bedsheet | 290 TC | 118x118 Inch | 4 Colors | MVB Yugvigyana](https://mvbyugvigyana.in/products/premium-cotton-urban-tribals-super-king-size-double-bedsheet-with-2-pillow-covers): Buy Urban Tribals pure cotton super king bedsheet online — 290 TC, 118x118 inch, 4 colors, 2 pillow covers. Tribal ethnic print. Free delivery across India.
-  Updated: 2026-08-29T00:51:39Z
+- [Urban Tribals Cotton Super King Bedsheet | 290 TC | 4 Colors](https://mvbyugvigyana.in/products/premium-cotton-urban-tribals-super-king-size-double-bedsheet-with-2-pillow-covers): Buy Urban Tribals pure cotton super king bedsheet online — 290 TC, 118x118 inch, 4 colors, 2 pillow covers. Tribal ethnic print. Free delivery across India.
+  Updated: 2026-11-19T15:19:51Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2528,15 +2528,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Premium-Cotton-Urban-Tribals-Super-King-Size-Double-Bedsheet-With-2-Pillow-Covers-MVB-YUGVIGYANA-53420390482284.jpg?v=1772370193
     Price: ₹1,450.00 INR
-- [Royal Rajasthani Zari Silk Double Bedsheet | 240 TC | 108x90 Inch | Festive Orange | MVB Yugvigyana](https://mvbyugvigyana.in/products/royal-rajasthani-zari-silk-bedsheet-set-with-pillow): Buy Royal Rajasthani Zari Silk double bedsheet online — 240 TC, 108x90 inch, festive orange. Premium silk zari design for weddings & festivals. Free delivery India.
-  Updated: 2026-08-29T00:51:39Z
+- [Royal Rajasthani Zari Silk Double Bedsheet | 240 TC](https://mvbyugvigyana.in/products/royal-rajasthani-zari-silk-bedsheet-set-with-pillow): Buy Royal Rajasthani Zari Silk double bedsheet online — 240 TC, 108x90 inch, festive orange. Premium silk zari design for weddings & festivals. Free delivery India.
+  Updated: 2026-11-19T15:19:49Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS403-01.jpg?v=1770729603
   Price: ₹2,200.00 INR
-- [Rajasthani Bliss Peacock Printed Pure Cotton Double Bedsheet | Jaipuri Print | 2 Pillow Covers | MVB Yugvigyana](https://mvbyugvigyana.in/products/rajasthani-bliss-pure-cotton-peacock-printed-bedsheet-with-pillow-set): Buy Rajasthani Bliss Peacock printed pure cotton double bedsheet online — Jaipuri print, 100x108 inch, 2 pillow covers. Ethnic Indian design. Free delivery India.
-  Updated: 2026-08-29T00:51:39Z
+- [Rajasthani Bliss Peacock Printed Cotton Double Bedsheet](https://mvbyugvigyana.in/products/rajasthani-bliss-pure-cotton-peacock-printed-bedsheet-with-pillow-set): Buy Rajasthani Bliss Peacock printed pure cotton double bedsheet online — Jaipuri print, 100x108 inch, 2 pillow covers. Ethnic Indian design. Free delivery India.
+  Updated: 2026-11-19T15:19:51Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2773,8 +2773,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CC290_1.jpg?v=1770661449
     Price: ₹799.00 INR
-- [Royal Elephant Heritage Quilt Rajai | 300 GSM Premium Cotton | 270x223cm | Rajputana | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/royal-elephant-heritage-quilt): Buy Royal Elephant Heritage quilt rajai. 300 GSM premium cotton, 240TC, 270x223cm, hand-quilted tagaai, authentic Rajputana craft. ₹2,100 only. MVB YUGVIGYANA.
-  Updated: 2026-08-29T00:51:42Z
+- [Royal Elephant Heritage Quilt Rajai | 300 GSM Cotton](https://mvbyugvigyana.in/products/royal-elephant-heritage-quilt): Buy Royal Elephant Heritage quilt rajai. 300 GSM premium cotton, 240TC, 270x223cm, hand-quilted tagaai, authentic Rajputana craft. ₹2,100 only. MVB YUGVIGYANA.
+  Updated: 2026-11-19T15:19:52Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2787,50 +2787,50 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Reversible-Patchwork-Elephant-Print-with-Intricate-Floral-Design-Double-Sided-Quilt-Rajai-MVB-YUGVIGYANA-53429388902764.jpg?v=1772369442
   Price: ₹2,999.00 INR
-- [Emerald Boota Classic Jaipuri Quilt Rajai | 300 GSM Premium Cotton | 260x223cm | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/emerald-boota-classic-jaipuri-quilt): Buy Emerald Boota Classic Jaipuri quilt rajai. 300 GSM premium cotton, 240TC, 260x223cm, hand-quilted tagaai, authentic Jaipuri craft. ₹2,100 only.
-  Updated: 2026-08-29T00:51:43Z
+- [Emerald Boota Classic Quilt Rajai | 300 GSM Cotton](https://mvbyugvigyana.in/products/emerald-boota-classic-jaipuri-quilt): Buy Emerald Boota Classic Jaipuri quilt rajai. 300 GSM premium cotton, 240TC, 260x223cm, hand-quilted tagaai, authentic Jaipuri craft. ₹2,100 only.
+  Updated: 2026-11-19T15:19:57Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Emerald-Boota-Classic-Jaipuri-Quilt-MVB-YUGVIGYANA-53429394112876.jpg?v=1772369419
   Price: ₹2,100.00 INR
-- [Turquoise Medallion Dual-Design Reversible Quilt Rajai | 250 GSM Premium Cotton | 225x270cm | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/reversible-quilt-rajai-with-turquoise-medallion-dual-design-print): Buy Turquoise Medallion dual-design reversible quilt rajai. 250 GSM premium cotton, 240TC, 225x270cm, hand-quilted tagaai, all-season comfort. ₹2,999 only.
-  Updated: 2026-08-29T00:51:43Z
+- [Turquoise Medallion Dual-Design Reversible Quilt Rajai](https://mvbyugvigyana.in/products/reversible-quilt-rajai-with-turquoise-medallion-dual-design-print): Buy Turquoise Medallion dual-design reversible quilt rajai. 250 GSM premium cotton, 240TC, 225x270cm, hand-quilted tagaai, all-season comfort. ₹2,999 only.
+  Updated: 2026-11-19T15:19:55Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Reversible-Quilt-Rajai-with-Turquoise-Medallion-Dual-Design-Print-MVB-YUGVIGYANA-53429400699244.jpg?v=1772369381
   Price: ₹2,999.00 INR
-- [Blue Paan Grey Rangoli Border Quilt Rajai | 200 GSM Microfiber | Cotton Cover | 260x223cm | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/blue-paan-grey-rangoli-border-microfiber-fill-cotton-cover-double-bed-quilt): Buy Blue Paan Grey Rangoli Border quilt rajai. 200 GSM microfiber fill, cotton cover, 260x223cm, hand-quilted tagaai, all-season comfort. ₹2,100 only.
-  Updated: 2026-08-29T00:51:43Z
+- [Blue Paan Grey Rangoli Border Quilt Rajai | Cotton Cover](https://mvbyugvigyana.in/products/blue-paan-grey-rangoli-border-microfiber-fill-cotton-cover-double-bed-quilt): Buy Blue Paan Grey Rangoli Border quilt rajai. 200 GSM microfiber fill, cotton cover, 260x223cm, hand-quilted tagaai, all-season comfort. ₹2,100 only.
+  Updated: 2026-11-19T15:19:53Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Blue-Paan-Grey-Rangoli-Border-Microfiber-Fill-Cotton-Cover-Double-Bed-Quilt-MVB-YUGVIGYANA-53429402698092.jpg?v=1772369366
   Price: ₹2,100.00 INR
-- [Twin Tradition Peach Elephant Blossom Quilt Rajai | 250 GSM Premium Cotton | 225x270cm | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/twin-tradition-peach-elephant-blossom-quilt): Buy Twin Tradition Peach Elephant Blossom quilt rajai. 250 GSM premium cotton, 240TC, 225x270cm, hand-quilted tagaai, reversible, all-season. ₹2,999 only.
-  Updated: 2026-08-29T00:51:44Z
+- [Twin Tradition Peach Elephant Blossom Quilt Rajai](https://mvbyugvigyana.in/products/twin-tradition-peach-elephant-blossom-quilt): Buy Twin Tradition Peach Elephant Blossom quilt rajai. 250 GSM premium cotton, 240TC, 225x270cm, hand-quilted tagaai, reversible, all-season. ₹2,999 only.
+  Updated: 2026-11-19T15:19:52Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Twin-Tradition-Peach-Elephant-Blossom-Quilt-MVB-YUGVIGYANA-53429406597484.jpg?v=1772369334
   Price: ₹2,999.00 INR
-- [Golden Corn Dual-Design Reversible Quilt Rajai | 250 GSM Premium Cotton | 225x270cm | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/reversible-quilt-rajai-with-golden-corn-dual-design-print-for-stylish-bedrooms): Buy Golden Corn Dual-Design reversible quilt rajai. 250 GSM premium cotton, 240TC, 225x270cm, hand-quilted tagaai, hypoallergenic, all-season. ₹2,999 only.
-  Updated: 2026-08-29T00:51:44Z
+- [Golden Corn Dual-Design Reversible Quilt Rajai | 225x270cm](https://mvbyugvigyana.in/products/reversible-quilt-rajai-with-golden-corn-dual-design-print-for-stylish-bedrooms): Buy Golden Corn Dual-Design reversible quilt rajai. 250 GSM premium cotton, 240TC, 225x270cm, hand-quilted tagaai, hypoallergenic, all-season. ₹2,999 only.
+  Updated: 2026-11-19T15:19:57Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Reversible-Quilt-Rajai-with-Golden-Corn-Dual-Design-Print-for-Stylish-Bedrooms-MVB-YUGVIGYANA-53429410824556.jpg?v=1772369295
   Price: ₹2,999.00 INR
-- [Saffron Tree Motif Floral Double Sided Quilt Rajai | 250 GSM Premium Cotton | 225x270cm | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/saffron-tree-motif-harmony-floral-print-double-sided-quilt-rajai): Buy Saffron Tree Motif Harmony Floral double sided quilt rajai. 250 GSM premium cotton, 240TC, 225x270cm, hand-quilted, reversible, all-season. ₹2,999 only.
-  Updated: 2026-08-29T00:51:44Z
+- [Saffron Tree Motif Floral Double Sided Quilt Rajai](https://mvbyugvigyana.in/products/saffron-tree-motif-harmony-floral-print-double-sided-quilt-rajai): Buy Saffron Tree Motif Harmony Floral double sided quilt rajai. 250 GSM premium cotton, 240TC, 225x270cm, hand-quilted, reversible, all-season. ₹2,999 only.
+  Updated: 2026-11-19T15:19:53Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Saffron-Tree-Motif-Harmony-Floral-Print-Double-Sided-Quilt-Rajai-MVB-YUGVIGYANA-53429418557804.jpg?v=1772369257
   Price: ₹2,999.00 INR
-- [Lapis Luxe 150 GSM 100% Pure Cotton Reversible AC Dohar | Super King | Lapis Blue & Ginger Orange | MVB Yugvigyana](https://mvbyugvigyana.in/products/lapis-luxe-100-pure-cotton-reversible-dohar-super-king-size-150-gsm-1): Buy Lapis Luxe 150 GSM 100% pure cotton reversible AC dohar online — super king, lapis blue & ginger orange. Lightweight summer dohar blanket. Free delivery India.
-  Updated: 2026-08-29T00:51:44Z
+- [Lapis Luxe 150 GSM Cotton Reversible AC Dohar | Super King](https://mvbyugvigyana.in/products/lapis-luxe-100-pure-cotton-reversible-dohar-super-king-size-150-gsm-1): Buy Lapis Luxe 150 GSM 100% pure cotton reversible AC dohar online — super king, lapis blue & ginger orange. Lightweight summer dohar blanket. Free delivery India.
+  Updated: 2026-11-19T15:19:59Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2843,8 +2843,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DDH173_2.jpg?v=1770747271
     Price: ₹1,599.00 INR
-- [150 GSM 100% Pure Cotton Reversible AC Dohar | Super King | Pink & Sky Blue | Buy Online India | MVB Yugvigyana](https://mvbyugvigyana.in/products/100-pure-cotton-reversible-ac-dohar-super-king-size): Buy 150 GSM 100% pure cotton reversible AC dohar online — super king, pink & sky blue. Lightweight summer dohar blanket India. Free delivery across India.
-  Updated: 2026-08-29T00:51:45Z
+- [150 GSM Cotton Reversible AC Dohar | Super King | Online](https://mvbyugvigyana.in/products/100-pure-cotton-reversible-ac-dohar-super-king-size): Buy 150 GSM 100% pure cotton reversible AC dohar online — super king, pink & sky blue. Lightweight summer dohar blanket India. Free delivery across India.
+  Updated: 2026-11-19T15:19:58Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2857,8 +2857,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DDH175_4.jpg?v=1770306522
     Price: ₹1,599.00 INR
-- [150 GSM Pure Cotton Reversible AC Dohar | Super King | Peach & Yellow | Buy Online India | MVB Yugvigyana](https://mvbyugvigyana.in/products/premium-100-pure-cotton-dohars-lightweight-comfort-with-timeless-designs): Buy 150 GSM pure cotton reversible AC dohar online — super king, peach & yellow. Lightweight mulmul cotton summer dohar blanket India. Free delivery.
-  Updated: 2026-08-29T00:51:45Z
+- [150 GSM Cotton Reversible AC Dohar | Super King | Online](https://mvbyugvigyana.in/products/premium-100-pure-cotton-dohars-lightweight-comfort-with-timeless-designs): Buy 150 GSM pure cotton reversible AC dohar online — super king, peach & yellow. Lightweight mulmul cotton summer dohar blanket India. Free delivery.
+  Updated: 2026-11-19T15:20:00Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2871,8 +2871,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DDH177_2.jpg?v=1770802428
     Price: ₹1,599.00 INR
-- [NatureHues 150 GSM 100% Cotton Reversible AC Dohar | Super King | Dark Green & Pickle Green | MVB Yugvigyana](https://mvbyugvigyana.in/products/naturehues-reversible-super-king-dohar-150-gsm-pure-cotton): Buy NatureHues 150 GSM 100% cotton reversible AC dohar online — super king, dark green & pickle green. Lightweight summer dohar blanket India. Free delivery.
-  Updated: 2026-08-29T00:51:45Z
+- [NatureHues 150 GSM Cotton Reversible AC Dohar | Super King](https://mvbyugvigyana.in/products/naturehues-reversible-super-king-dohar-150-gsm-pure-cotton): Buy NatureHues 150 GSM 100% cotton reversible AC dohar online — super king, dark green & pickle green. Lightweight summer dohar blanket India. Free delivery.
+  Updated: 2026-11-19T15:19:56Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2885,8 +2885,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DDH179_2.jpg?v=1770747136
     Price: ₹1,599.00 INR
-- [AuraBreeze 150 GSM 100% Cotton Reversible AC Dohar | Super King | Red & Light Blue | MVB Yugvigyana](https://mvbyugvigyana.in/products/aurabreeze-reversible-blanket-150-gsm-cotton-all-season-comfort): Buy AuraBreeze 150 GSM 100% cotton reversible AC dohar online — super king, red & light blue. Lightweight summer dohar blanket India. Free delivery.
-  Updated: 2026-08-29T00:51:45Z
+- [AuraBreeze 150 GSM Cotton Reversible AC Dohar | Super King](https://mvbyugvigyana.in/products/aurabreeze-reversible-blanket-150-gsm-cotton-all-season-comfort): Buy AuraBreeze 150 GSM 100% cotton reversible AC dohar online — super king, red & light blue. Lightweight summer dohar blanket India. Free delivery.
+  Updated: 2026-11-19T15:19:59Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2899,8 +2899,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DDH181_2.jpg?v=1770802042
     Price: ₹1,599.00 INR
-- [SoftGlow 150 GSM 100% Cotton Reversible AC Dohar | Super King | Light Pink & Fresh Green | MVB Yugvigyana](https://mvbyugvigyana.in/products/softglow-100-cotton-ac-dohar-light-pink-fresh-green-150-gsm): Buy SoftGlow 150 GSM 100% cotton reversible AC dohar online — super king, light pink & fresh green. Lightweight summer dohar blanket India. Free delivery.
-  Updated: 2026-08-29T00:51:46Z
+- [SoftGlow 150 GSM Cotton Reversible AC Dohar | Super King](https://mvbyugvigyana.in/products/softglow-100-cotton-ac-dohar-light-pink-fresh-green-150-gsm): Buy SoftGlow 150 GSM 100% cotton reversible AC dohar online — super king, light pink & fresh green. Lightweight summer dohar blanket India. Free delivery.
+  Updated: 2026-11-19T15:19:56Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2913,8 +2913,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DDH183_2.jpg?v=1770748038
     Price: ₹1,599.00 INR
-- [PetalSoft 100% Pure Cotton Single Bed Dohar | Blossomy Collection | Buy Online India | MVB Yugvigyana](https://mvbyugvigyana.in/products/petalsoft-100-pure-cotton-dohar-single-bed-blossomy-collection): Buy PetalSoft 100% pure cotton single bed dohar online — Blossomy Collection. Soft, lightweight & breathable AC dohar blanket. Free delivery across India.
-  Updated: 2026-08-29T00:51:46Z
+- [PetalSoft Cotton Single Bed Dohar | Blossomy Collection](https://mvbyugvigyana.in/products/petalsoft-100-pure-cotton-dohar-single-bed-blossomy-collection): Buy PetalSoft 100% pure cotton single bed dohar online — Blossomy Collection. Soft, lightweight & breathable AC dohar blanket. Free delivery across India.
+  Updated: 2026-11-19T15:19:55Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2927,8 +2927,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DH208_1.jpg?v=1770798770
     Price: ₹1,199.00 INR
-- [Heritage Touch Paisley 150 GSM Pure Cotton Single Bed Dohar | Pink & Blue | Buy Online India | MVB Yugvigyana](https://mvbyugvigyana.in/products/heritage-touch-cotton-paisley-dohar-100-cotton-150-gsm): Buy Heritage Touch Paisley 150 GSM pure cotton single bed dohar online — pink & blue. Ethnic paisley print, lightweight AC dohar. Free delivery across India.
-  Updated: 2026-08-29T00:51:46Z
+- [Heritage Touch Paisley 150 GSM Cotton Single Bed Dohar](https://mvbyugvigyana.in/products/heritage-touch-cotton-paisley-dohar-100-cotton-150-gsm): Buy Heritage Touch Paisley 150 GSM pure cotton single bed dohar online — pink & blue. Ethnic paisley print, lightweight AC dohar. Free delivery across India.
+  Updated: 2026-11-19T15:20:00Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2941,8 +2941,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Heritage-Touch-Cotton-Paisley-Dohar-100-Cotton-150-GSM-MVB-YUGVIGYANA-53434530955628.jpg?v=1772372200
     Price: ₹1,199.00 INR
-- [Everyday Comfort Motif 150 GSM Pure Cotton Single Bed Dohar | Peach & Blue | Buy Online India | MVB Yugvigyana](https://mvbyugvigyana.in/products/everyday-comfort-motif-cotton-dohar-peach-blue-tones): Buy Everyday Comfort Motif 150 GSM pure cotton single bed dohar online — peach & blue. Lightweight reversible AC dohar blanket. Free delivery across India.
-  Updated: 2026-08-29T00:51:46Z
+- [Everyday Comfort Motif 150 GSM Cotton Single Bed Dohar](https://mvbyugvigyana.in/products/everyday-comfort-motif-cotton-dohar-peach-blue-tones): Buy Everyday Comfort Motif 150 GSM pure cotton single bed dohar online — peach & blue. Lightweight reversible AC dohar blanket. Free delivery across India.
+  Updated: 2026-11-19T15:20:02Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2955,7 +2955,70 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Everyday-Comfort-Motif-Cotton-Dohar-Peach-Blue-Tones-MVB-YUGVIGYANA-53434558087532.jpg?v=1772372121
     Price: ₹1,199.00 INR
-[List Continued](https://mvbyugvigyana.in/a/llms-agent/llms.txt?shop=hzm1z2-e9.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTAxMjYyNzY0NDc4MCwibGFzdF92YWx1ZSI6IjE1MDEyNjI3NjQ0NzgwIn0%3D)
+- [Butterfly 150 GSM Cotton Single Bed Dohar | Pink & Blue](https://mvbyugvigyana.in/products/butterfly-cotton-dohar-collection-pink-blue): Buy Butterfly 150 GSM 100% pure cotton single bed dohar online — pink & blue. Lightweight reversible AC dohar blanket. Free delivery across India.
+  Updated: 2026-11-19T15:20:01Z
+  Vendor: MVB YUGVIGYANA
+  Product Type: Fabrics
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Butterfly-Cotton-Dohar-Collection-Pink-Blue-MVB-YUGVIGYANA-53434580959596.jpg?v=1772371941
+  - [Pink](https://mvbyugvigyana.in/products/butterfly-cotton-dohar-collection-pink-blue?variant=53140482556268)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Butterfly-Cotton-Dohar-Collection-Pink-Blue-MVB-YUGVIGYANA-53434580959596.jpg?v=1772371941
+    Price: ₹1,199.00 INR
+  - [Blue](https://mvbyugvigyana.in/products/butterfly-cotton-dohar-collection-pink-blue?variant=53140482589036)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Butterfly-Cotton-Dohar-Collection-Pink-Blue-MVB-YUGVIGYANA-53434581221740.jpg?v=1772371937
+    Price: ₹1,199.00 INR
+- [Elephant Parade 150 GSM Cotton Single Bed Dohar | Online](https://mvbyugvigyana.in/products/elephant-parade-collection-100-cotton-single-bed-dohars): Buy Elephant Parade 150 GSM 100% cotton single bed dohar online — pink & green. Rajasthani elephant print, lightweight AC dohar. Free delivery across India.
+  Updated: 2026-11-19T15:20:03Z
+  Vendor: MVB YUGVIGYANA
+  Product Type: Fabrics
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Elephant-Parade-Collection-100-Cotton-Single-Bed-Dohars-MVB-YUGVIGYANA-53434605437292.jpg?v=1772371900
+  - [Pink](https://mvbyugvigyana.in/products/elephant-parade-collection-100-cotton-single-bed-dohars?variant=53140482654572)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Elephant-Parade-Collection-100-Cotton-Single-Bed-Dohars-MVB-YUGVIGYANA-53434605437292.jpg?v=1772371900
+    Price: ₹1,199.00 INR
+  - [Green](https://mvbyugvigyana.in/products/elephant-parade-collection-100-cotton-single-bed-dohars?variant=53140482687340)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Elephant-Parade-Collection-100-Cotton-Single-Bed-Dohars-MVB-YUGVIGYANA-53434605633900.jpg?v=1772371904
+    Price: ₹1,199.00 INR
+- [Mulmul Whisper 150 GSM Pure MulMul Cotton Reversible AC Dohar | Super King | Peach & Mint | MVB Yugvigyana](https://mvbyugvigyana.in/products/mulmul-whisper-100-pure-cotton-reversible-ac-dohar-peach-mint-super-king): Buy Mulmul Whisper 150 GSM pure mulmul cotton reversible AC dohar online — super king, peach & mint. Lightweight summer dohar blanket India. Free delivery.
+  Updated: 2026-08-29T00:51:47Z
+  Vendor: MVB YUGVIGYANA
+  Product Type: Fabrics
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Mulmul-Whisper-100-Pure-Cotton-Reversible-AC-Dohar-Peach-Mint-Super-King-MVB-YUGVIGYANA-53434668613996.jpg?v=1772371834
+  - [Peach](https://mvbyugvigyana.in/products/mulmul-whisper-100-pure-cotton-reversible-ac-dohar-peach-mint-super-king?variant=53140482982252)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Mulmul-Whisper-100-Pure-Cotton-Reversible-AC-Dohar-Peach-Mint-Super-King-MVB-YUGVIGYANA-53434668613996.jpg?v=1772371834
+    Price: ₹1,799.00 INR
+  - [Mint](https://mvbyugvigyana.in/products/mulmul-whisper-100-pure-cotton-reversible-ac-dohar-peach-mint-super-king?variant=53140483015020)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Mulmul-Whisper-100-Pure-Cotton-Reversible-AC-Dohar-Peach-Mint-Super-King-MVB-YUGVIGYANA-53434668810604.jpg?v=1772371837
+    Price: ₹1,799.00 INR
+- [Mulmul Magic 150 GSM Pure MulMul Cotton Reversible AC Dohar](https://mvbyugvigyana.in/products/mulmul-magic-reversible-cotton-dohar-super-king-persian-blue-carrot-yellow-ocean-blue): Buy Mulmul Magic 150 GSM pure mulmul cotton reversible AC dohar online — super king size, 4 colors. Lightweight summer dohar blanket India. Free delivery.
+  Updated: 2026-11-19T15:20:03Z
+  Vendor: MVB YUGVIGYANA
+  Product Type: Fabrics
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Mulmul-Magic-Reversible-Cotton-Dohar-Super-King-Persian-Blue-Carrot-Yellow-Ocean-Blue-MVB-YUGVIGYANA-53435045347692.jpg?v=1772371718
+  - [Persian Blue](https://mvbyugvigyana.in/products/mulmul-magic-reversible-cotton-dohar-super-king-persian-blue-carrot-yellow-ocean-blue?variant=53140483047788)
+    Availability: Available
+    Price: ₹1,799.00 INR
+  - [Carrot](https://mvbyugvigyana.in/products/mulmul-magic-reversible-cotton-dohar-super-king-persian-blue-carrot-yellow-ocean-blue?variant=53140483080556)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Mulmul-Magic-Reversible-Cotton-Dohar-Super-King-Persian-Blue-Carrot-Yellow-Ocean-Blue-MVB-YUGVIGYANA-53435045347692.jpg?v=1772371718
+    Price: ₹1,799.00 INR
+  - [Yellow](https://mvbyugvigyana.in/products/mulmul-magic-reversible-cotton-dohar-super-king-persian-blue-carrot-yellow-ocean-blue?variant=53140483113324)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Mulmul-Magic-Reversible-Cotton-Dohar-Super-King-Persian-Blue-Carrot-Yellow-Ocean-Blue-MVB-YUGVIGYANA-53435045544300.jpg?v=1772371726
+    Price: ₹1,799.00 INR
+  - [Ocean Blue](https://mvbyugvigyana.in/products/mulmul-magic-reversible-cotton-dohar-super-king-persian-blue-carrot-yellow-ocean-blue?variant=53140483146092)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Mulmul-Magic-Reversible-Cotton-Dohar-Super-King-Persian-Blue-Carrot-Yellow-Ocean-Blue-MVB-YUGVIGYANA-53435045740908.jpg?v=1772371730
+    Price: ₹1,799.00 INR
+[List Continued](https://mvbyugvigyana.in/a/llms-agent/llms.txt?shop=hzm1z2-e9.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTAxMjYyNzg3NDE1NiwibGFzdF92YWx1ZSI6IjE1MDEyNjI3ODc0MTU2In0%3D)
 
 ## Collections
 
