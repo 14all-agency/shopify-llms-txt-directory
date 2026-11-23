@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-31T19:06:41Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-15T00:19:12.212Z
+- Updated At: 2026-11-23T00:17:38.201Z
 
 ## Products
 
@@ -120,7 +120,7 @@
   Image: https://cdn.shopify.com/s/files/1/0647/3537/9521/files/GBCowboySongsHat.png?v=1748370054
   Price: $40.00 USD
 - [George Birge Photo Tee | Official George Birge Merch Store](https://georgebirge.merchmadeeasy.com/products/george-birge-photo-tee): George Birge photo on the front Unisex tee in Black 100% ring-spun cotton
-  Updated: 2026-11-12T20:27:58Z
+  Updated: 2026-11-22T00:32:15Z
   Vendor: George Birge
   Product Type: T-Shirt
   Availability: Available
@@ -232,7 +232,7 @@
   Image: https://cdn.shopify.com/s/files/1/0647/3537/9521/files/GBSaddleUpHat.png?v=1768236303
   Price: $35.00 USD
 - [Longhorn Skull Tee](https://georgebirge.merchmadeeasy.com/products/longhorn-skull-tee): Vintage-style graphic of a longhorn skull with 'GEORGE BIRGE' in blue letters and 'AUSTIN TEXAS 1987' on the front 100% cotton tee in Charcoal Unisex
-  Updated: 2026-11-12T20:27:56Z
+  Updated: 2026-11-20T21:17:18Z
   Vendor: George Birge
   Product Type: T-Shirt
   Availability: Available
@@ -277,13 +277,13 @@
 ## Collections
 
 - [New Arrivals](https://georgebirge.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-14T12:15:11Z
+  Updated: 2026-11-15T12:15:03Z
   Total Products: 15
 - [All](https://georgebirge.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-14T12:15:11Z
+  Updated: 2026-11-21T12:11:32Z
   Total Products: 18
 - [Apparel](https://georgebirge.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-14T12:15:11Z
+  Updated: 2026-11-21T12:11:32Z
   Total Products: 12
 - [Music](https://georgebirge.merchmadeeasy.com/collections/music)
   Updated: 2026-05-26T16:58:26Z
@@ -292,7 +292,7 @@
   Updated: 2026-11-14T12:15:11Z
   Total Products: 6
 - [2026 Tour Merch](https://georgebirge.merchmadeeasy.com/collections/2026-tour-merch)
-  Updated: 2026-11-14T12:15:11Z
+  Updated: 2026-11-21T12:11:32Z
   Total Products: 8
 
 ## Store Pages
