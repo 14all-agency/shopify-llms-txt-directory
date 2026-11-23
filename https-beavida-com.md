@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-09-02T12:59:54Z
 - Contact Email: hello@beavida.com
-- Updated At: 2026-11-15T00:36:00.098Z
+- Updated At: 2026-11-23T00:39:10.053Z
 
 Welcome to Beavida
 
@@ -19,7 +19,7 @@ We encourage responsible use of this information, ensuring that any outputs gene
 ## Products
 
 - [Period Pain Tea 🩸| F the Pain | Beavida](https://beavida.com/products/f-the-pain): Periods can be unpleasant. It’s time to take a break with Beavida’s period pain tea F the Pain. Your monthly sidekick, when you need it the most.
-  Updated: 2026-11-09T12:52:18Z
+  Updated: 2026-11-20T14:49:46Z
   Vendor: Beavida
   Product Type: Tea
   Availability: Available
@@ -61,28 +61,28 @@ We encourage responsible use of this information, ensuring that any outputs gene
     Image: https://cdn.shopify.com/s/files/1/0974/9931/6556/files/entspannung-online-kurs.jpg?v=1780576635
     Price: €125.00 EUR
 - [Hot Flash Tea❄️ | Break No Sweat | Beavida](https://beavida.com/products/break-no-sweat): Feeling hot isn’t hot at all. Beavida’s hot flash tea Break No Sweat contains a super cool, soothing herbal blend for your evening ritual.
-  Updated: 2026-11-09T12:52:25Z
+  Updated: 2026-11-20T14:49:42Z
   Vendor: Beavida
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/9931/6556/files/break-no-sweat-front.jpg?v=1780576663
   Price: €21.95 EUR
 - [Libido Tea 🌹| Love is in the Air | Beavida](https://beavida.com/products/love-is-in-the-air): Lust, love and fun don’t come naturally to everyone. Beavida’s libido tea Love is in the Air contains a mischievous and flirtatious herbal blend.
-  Updated: 2026-11-09T12:52:15Z
+  Updated: 2026-11-20T14:49:40Z
   Vendor: Beavida
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/9931/6556/files/love-is-in-the-air-front.jpg?v=1780576667
   Price: €20.95 EUR
 - [Urinary Tea 💧| Bless the Bladder | Beavida](https://beavida.com/products/bless-the-bladder): Going to the loo all the time isn’t fun. Beavida’s Urinary tea Bless the Bladder contains nettle & dandelion when the UT gods are too bossy.
-  Updated: 2026-11-09T12:52:20Z
+  Updated: 2026-11-20T14:49:42Z
   Vendor: Beavida
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/9931/6556/files/bless-the-bladder-front.jpg?v=1780576672
   Price: €17.95 EUR
 - [Positive Mood Tea ☺️ Stay Calm and Drink On | Beavida](https://beavida.com/products/stay-calm-and-drink-on): Pre-menstruation can be a time of unrest. Our positive mood tea Stay Calm and Drink On allows you to relax. A true mini escape during "those days".
-  Updated: 2026-11-09T12:52:20Z
+  Updated: 2026-11-20T14:49:46Z
   Vendor: Beavida
   Product Type: Tea
   Availability: Available
