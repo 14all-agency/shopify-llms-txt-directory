@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-10-20T14:13:27Z
 - Contact Email: gregorbiadmed@gmail.com
-- Updated At: 2026-11-16T00:42:59.087Z
+- Updated At: 2026-11-23T00:55:25.325Z
 
 ## Products
 
 - [Lash & Brow Serum with Biotin, 20 ml](https://elovibeauty.myshopify.com/products/eyelash-and-eyebrow-serum-with-biotin-20ml): Daily lash and brow serum with biotin and panthenol. A 20 ml tube with a precision brush for your lash and brow care routine.
-  Updated: 2026-11-14T23:18:51Z
+  Updated: 2026-11-22T12:57:36Z
   Vendor: Elovi
   Product Type: Lash & Brow Serum
   Availability: Available
@@ -36,10 +36,10 @@
 ## Collections
 
 - [Home page](https://elovibeauty.myshopify.com/collections/frontpage)
-  Updated: 2026-11-15T12:16:32Z
+  Updated: 2026-11-20T12:19:24Z
   Total Products: 1
 - [Moissanite jewellery](https://elovibeauty.myshopify.com/collections/moissanite-jewellery): Lab-created moissanite pendant and studs in 925 sterling silver, six-claw settings. More fire than diamond. Free tracked EU delivery over €59.
-  Updated: 2026-11-11T17:40:16Z
+  Updated: 2026-11-18T21:23:12Z
   Total Products: 0
 
 ## Store Pages
