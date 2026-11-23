@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2025-02-14T12:28:05Z
 - Contact Email: hello@norrska.com
-- Updated At: 2026-11-15T01:05:21.581Z
+- Updated At: 2026-11-23T00:45:35.681Z
 
 ## Products
 
 - [Halloween Witch Garland](https://www.norrska.com/products/halloween-witches-garland-indoor-halloween-decoration-51-inches-garland): This overly entertaining Halloween witches garland consists of five witches and one haunted house. This product comes as DIY garland.
-  Updated: 2026-11-11T13:13:16Z
+  Updated: 2026-11-15T02:44:46Z
   Vendor: Norrska
   Product Type: Halloween Decorations
   Availability: Available
@@ -24,20 +24,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-4-houses-12-trees-paper-cathedral-christmas-village-set-paper-church-model-paper-decorations-gift-for-architects-51862166602074.jpg?v=1754691910
   Price: £175.00 GBP
-- [Modern Christmas Village | Set 01](https://www.norrska.com/products/modern-christmas-village-set-01): These modern paper village houses will bring elegance and warmth to your home as your Christmas decoration object this year.
-  Updated: 2026-11-04T11:52:01Z
+- [Modern Christmas Village | French Set](https://www.norrska.com/products/modern-christmas-village-set-01): These modern paper village houses will bring elegance and warmth to your home as your Christmas decoration object this year.
+  Updated: 2026-11-21T04:05:40Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-4-houses-12-trees-modern-christmas-village-set-01-51862165750106.jpg?v=1754691917
-  Price: £150.00 GBP
-- [Modern Christmas Village | SET 02](https://www.norrska.com/products/modern-christmas-village-set-02): Become a part of this imaginary world and decorate your home with these modern paper village houses by Norrska!
-  Updated: 2026-11-04T11:47:28Z
+  Price: £90.00 GBP
+- [Modern Christmas Village | German Set](https://www.norrska.com/products/modern-christmas-village-set-02): Become a part of this imaginary world and decorate your home with these modern paper village houses by Norrska!
+  Updated: 2026-11-21T04:06:19Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-4-houses-12-trees-modern-christmas-village-set-02-51862166831450.jpg?v=1752687076
-  Price: £200.00 GBP
+  Price: £120.00 GBP
 - [Paper Christmas Village Set (SET01 + SET02 + The Cathedral)](https://www.norrska.com/products/paper-christmas-village-set-set01-set02-the-cathedral): Become a part of this imaginary world and decorate your home with this beautiful Christmas village paper model!
   Updated: 2026-11-04T12:09:06Z
   Vendor: Norrska
@@ -45,8 +45,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-full-set-24-trees-paper-christmas-village-modern-christmas-decoration-christmas-mantel-decor-set01-set02-the-cathedral-51862167880026.jpg?v=1752687065
   Price: £500.00 GBP
-- [Paper Christmas Village Decoration, SET 03, Dutch Decoration](https://www.norrska.com/products/paper-christmas-village-decoration-set-03-dutch-decoration-1): These modern English Town paper houses will bring elegance and warmth to your home as your Christmas decoration this year.
-  Updated: 2026-10-18T20:45:16Z
+- [Paper Christmas Village | Dutch Set](https://www.norrska.com/products/paper-christmas-village-decoration-set-03-dutch-decoration-1): These modern English Town paper houses will bring elegance and warmth to your home as your Christmas decoration this year.
+  Updated: 2026-11-21T05:46:25Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-default-title-paper-christmas-decor-glass-house-model-christmas-village-51862170075482.jpg?v=1752687056
   Price: £90.00 GBP
 - [Halloween Witch Figurines, Witches' Sabbath](https://www.norrska.com/products/halloween-witch-figurines-witches-sabbath): These modern and stylish Halloween witches decors will be your favourite piece of Halloween decoration this year.
-  Updated: 2026-11-06T20:27:26Z
+  Updated: 2026-11-15T02:44:46Z
   Vendor: Norrska
   Product Type: Halloween Decorations
   Availability: Available
@@ -81,14 +81,14 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-halloween-decorations-default-title-gothic-halloween-cathedral-gothic-halloween-decoration-dark-and-spooky-decoration-51862171025754.jpg?v=1753959918
   Price: £52.50 GBP
 - [Ghosts and Cemetery Halloween Scene, Spooky Halloween Decor](https://www.norrska.com/products/ghosts-and-cemetery-halloween-decor-1): Approximate dimensions: Width: 55 cm ≈ 21.65″Height: 15 cm ≈ 5.91″ Get ready to bring unforgettable excitement to your Halloween party or home decor with our enchanting spooky ghosts and cemetery Halloween scene. Taking inspiration from the most majestic cemeteries worldwide, we have designed this spooky Halloween decor to immerse you in a truly spooky atmosphere! Made in the UK Designed by paper artists. Made with premium German papers. -The Halloween decoration set includes 7 unique ghosts, two cemetery sections with tombstones, and a small chapel. To set it up, you will need glue to secure the tombstones and assemble the chapel. However, the installation process is very simple, and the included instruction manual will guide you every step of the way. We design all of our products with great care and produce them specifically for each order in our small atelier in Salford, UK. The real human stories and history are our greatest sources of inspiration, and we integrate the trace of historical events into the design of all our products. We use premium quality papers with the hope that they will be used for many years, contributing to a sustainable future. We work with the best paper companies in the world to ensure this quality. Additionally, we personalise the papers ourselves to make them special for us. Therefore, the paper used in our products is specially produced for Norrska.
-  Updated: 2026-11-11T15:20:14Z
+  Updated: 2026-11-22T18:34:46Z
   Vendor: Norrska
   Product Type: Halloween Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-halloween-decorations-default-title-halloween-decoration-indoor-halloween-party-decoration-paper-ghosts-and-cemetery-51862171550042.jpg?v=1754691846
   Price: £32.00 GBP
 - [Nordic-Inspired Modern Wall Decoration, Scandi Wall Decor](https://www.norrska.com/products/modern-wall-decoration-scandi-home-decor): Enhance your space with Nordic wall decor! This Nordic-inspired modern paper village adds Scandi charm & minimalist style to any home. Easy to assemble & style!
-  Updated: 2026-11-13T17:31:02Z
+  Updated: 2026-11-19T18:31:15Z
   Vendor: Norrska
   Product Type: Nordic Decorations
   Availability: Available
@@ -101,13 +101,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-default-title-paper-tower-christmas-decor-christmas-village-paper-christmas-decoration-51862173057370.jpg?v=1752687036
   Price: £90.00 GBP
-- [White Forest Paper Trees](https://www.norrska.com/products/white-christmas-tree-decor-all-white-christmas-tree-decoration): A little woodland in an unexpected Christmas palette. This set of eight white paper trees brings colour and a sense of play to your festive home. Arrange them among your Christmas village houses, gather them on a mantelpiece or let a small forest take over the dining table. Three different sizes give your scene depth, while the textured art paper adds a beautifully tactile finish. Carefully stored between seasons, they can become part of your Christmas traditions for years to come. Colours: WhiteIncludes: 8 trees — 1 large, 3 medium and 4 small. Dimensions: Large: 16 × 11 cm / 6.30 × 4.33 in Medium: 11 × 8 cm / 4.33 × 3.15 in Small: 8 × 6 cm / 3.15 × 2.36 in
-  Updated: 2026-11-13T00:36:31Z
-  Vendor: Norrska
-  Product Type: Christmas Decorations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-32-trees-white-christmas-tree-decor-all-white-christmas-tree-decoration-51862173090138.jpg?v=1752687034
-  Price: £12.50 GBP
 - [The Palace Paper Model](https://www.norrska.com/products/paper-palace-christmas-village-paper-christmas-decoration-luxury-christmas-village): Approximate Product Dimensions: Length: 54 cm ≈ 21.26 in Max Height: 23 cm ≈ 9.06 in Max Depth: 13.5 cm ≈ 5.31 in Crafted with premium textured Italian paper: ISO9706 Long Life  FSC®  Laid Textured No Glue Needed Introducing our latest masterpiece in the Pro Model series, the exquisite Palace paper palace model, employing the NO GLUE NEEDED technique meticulously developed by Norrska. - The Glasshouse and The Tower are sold separately. This listing includes only the main palace building. Inspired by Neoclassical Architectural Style Immerse yourself in a world of festive charm as we bring the allure of the world's most captivating palaces to your fingertips. Crafted for hobby craft enthusiasts and connoisseurs of opulent home decor, this collection redefines luxury with its intricate details and exceptional accuracy. Each model is a true work of art, capturing the essence of the palace's architecture and design details, from ornate facades to grand ballrooms. This attention to detail transports you to a realm of opulence, making our paper palace models a true expression of luxury and sophistication.
   Updated: 2026-11-09T17:22:36Z
   Vendor: Norrska
@@ -115,22 +108,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-default-title-paper-palace-christmas-village-paper-christmas-decoration-luxury-christmas-village-51862174138714.jpg?v=1752687031
   Price: £180.00 GBP
-- [Paper Christmas Village, Cherry Red Christmas Village, SET 01](https://www.norrska.com/products/paper-christmas-village-cherry-red-christmas-village-set-01-1): These modern paper village houses will bring elegance and warmth to your home as your Christmas decoration object this year.
-  Updated: 2026-10-18T20:45:26Z
+- [Paper Christmas Village | Cherry Red | French Set](https://www.norrska.com/products/paper-christmas-village-cherry-red-christmas-village-set-01-1): These modern paper village houses will bring elegance and warmth to your home as your Christmas decoration object this year.
+  Updated: 2026-11-21T04:04:20Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-default-title-paper-christmas-village-cherry-red-christmas-village-paper-decoration-set-01-51862175809882.jpg?v=1754691946
-  Price: £150.00 GBP
-- [Cherry Red Christmas Village, SET 02](https://www.norrska.com/products/paper-christmas-decoration-cherry-red-christmas-village-set-02-1): These modern paper village houses will bring elegance and warmth to your home as your Christmas decoration object this year.
-  Updated: 2026-10-18T20:45:26Z
+  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-default-title-paper-christmas-village-cherry-red-christmas-village-paper-decoration-set-01-51862175580506.jpg?v=1754691946
+  Price: £90.00 GBP
+- [Modern Christmas Village | Cherry Red | German Set](https://www.norrska.com/products/paper-christmas-decoration-cherry-red-christmas-village-set-02-1): These modern paper village houses will bring elegance and warmth to your home as your Christmas decoration object this year.
+  Updated: 2026-11-21T04:02:51Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/cherry_red_cristmas_village.jpg?v=1761611057
-  Price: £150.00 GBP
+  Price: £120.00 GBP
 - [All White Christmas Village - Modern Holiday Decor](https://www.norrska.com/products/all-white-christmas-village): Discover our enchanting all white Christmas village, crafted with Italian paper for a modern and elegant holiday touch.
-  Updated: 2026-11-09T17:22:36Z
+  Updated: 2026-11-21T23:05:05Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
@@ -138,22 +131,22 @@
   - [SET 01](https://www.norrska.com/products/all-white-christmas-village?variant=55129508708698)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-set-01-set-02-all-white-christmas-village-51862175777114.jpg?v=1754691939
-    Price: £150.00 GBP
+    Price: £90.00 GBP
   - [SET 02](https://www.norrska.com/products/all-white-christmas-village?variant=55129508741466)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-set-01-set-02-all-white-christmas-village-51862175711578.jpg?v=1754691939
-    Price: £200.00 GBP
+    Price: £120.00 GBP
   - [SET 01 + SET 02](https://www.norrska.com/products/all-white-christmas-village?variant=55129508774234)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-set-01-set-02-all-white-christmas-village-51862175318362.jpg?v=1754691939
-    Price: £300.00 GBP
+    Price: £180.00 GBP
 - [Paper Celestial Garland - Whimsigoth Vintage Accent](https://www.norrska.com/products/paper-celestial-garland): Discover celestial garland decor featuring whimsical sun and moon ornaments. Perfect for Christmas or year-round vintage charm.
-  Updated: 2026-11-15T00:55:24Z
+  Updated: 2026-11-22T19:27:56Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/celestial_low_7.jpg?v=1794008036
-  Price: £16.90 GBP
+  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-default-title-paper-celestial-garland-51862176203098.jpg?v=1772288402
+  Price: £17.50 GBP
 - [Contemporary Architecture Wall Art – Limited Edition](https://www.norrska.com/products/modern-architecture-wall-art): Explore unique handmade architectural wall art models, inspired by Nordic design. Perfect addition to elevate your space!
   Updated: 2026-11-11T03:59:59Z
   Vendor: Norrska
@@ -180,14 +173,14 @@
     Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-nordic-decorations-a4-8-3x11-7-inch-blue-tones-scandinavian-paper-collage-wall-art-handmade-nordic-illustration-52792344969562.jpg?v=1769615488
     Price: £110.00 GBP
 - [Paper Mache Dog Ornament](https://www.norrska.com/products/paper-mache-dog-ornament): Paper mache dog ornament, carefully shaped, layered, and painted by skilled artisans in Jaipur India. These delightful creations bring a touch of joy and playfulness to any space. *Each piece comes in a boxed packaging. Please note that the box may have some dents.*Due to the handmade nature, there may be slight variations in the final finish and appearance. size: W 8 x D 3 x H 6.5 cm
-  Updated: 2026-10-14T21:48:40Z
+  Updated: 2026-11-20T16:53:26Z
   Vendor: Fog Linen Work
   Product Type: Christmas Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/paper_mache_dog_ornament_1.jpg?v=1756157657
   Price: £8.50 GBP
 - [Paper Mache Sheep Ornament](https://www.norrska.com/products/paper-mache-sheep-ornament): Paper mache sheep ornament, carefully shaped, layered, and painted by skilled artisans in Jaipur India. These delightful creations bring a touch of joy and playfulness to any space. *Each piece comes in a boxed packaging. Please note that the box may have some dents.*Due to the handmade nature, there may be slight variations in the final finish and appearance. Size: W 7.5 x D 3.5 x H 8 cm
-  Updated: 2026-11-05T03:54:04Z
+  Updated: 2026-11-20T16:53:11Z
   Vendor: Fog Linen Work
   Product Type: Christmas Decorations
   Availability: Available
@@ -201,7 +194,7 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/1be9b587-il_fullxfull.7026602564_ltuq.jpg?v=1752710019
   Price: £150.00 GBP
 - [Christmas Paper Chain, 10 ft long, 3 meters](https://www.norrska.com/products/christmas-paper-chain): Celebrate Christmas with this beautiful paper chain featuring red and green colors. Made from textured paper in poppy red, apple green, and pine green, it will instantly brighten any corner of your home, making your space stand out! This paper chain is also perfect for Christmas party decor, creating eye-catching displays. Very simple to assemble: no glue required. Just connect the links using a pop-and-slot system, and you can take it apart whenever you wish. Contains 57 paper chains: 19 of each colour in this pack. Approx 3m/10ft long. Stylish packaging: The product comes in an attractively designed envelope, making it a proud gift! Made in England: Crafted in our Manchester atelier using high-quality textured art papers for top quality. Disclaimer: This product is not a toy and is intended for decoration only.
-  Updated: 2026-11-07T18:57:06Z
+  Updated: 2026-11-22T18:34:52Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
@@ -250,19 +243,19 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/XP3LBLK_low-res.jpg?v=1754495060
   Price: £38.50 GBP
 - [Modern Pedestal Bowl, Ash Black, Table Top Home Decor](https://www.norrska.com/products/modern-pedestal-bowl-ash-black-table-top-home-decor): Dimensions: W21 x H18 Handmade Danish design Made from 100% recycled paper and natural latex inside to make it waterproof Decorated with recycled sawdust from the local carpenter industry SEDEX  production Fair trade women project in Sri Lanka Sustainable production & sustainable material Modern Pedestal Bowl – Sculptural sustainability with creative freedomAdd a touch of personality and thoughtfulness to your interior with this beautiful pedestal bowl. Handcrafted from Zero Waste paper and delicately decorated with recycled sawdust from local carpenters in Sri Lanka – a design that offers an intriguing tactile surface and a unique, organic look. The bowl combines simple elegance with natural depth and is ideal for everything from floral arrangements and Christmas decorations to water displays with floating candles or other creative setups. The sculptural form elevates your styling and invites you to express your creativity. Each piece is crafted through OOhh’s fair trade women’s project, enabling women to work from home under respectful and fair working conditions. A beautiful statement in sustainable form – for those who value both aesthetics and responsibility. OOhh Collection goes the extra mile to ensure sustainable production and ethical working environments. With the WOOD’z series, OOhh proves that it’s possible to create beautiful, unique, and eco-friendly products without compromising on quality. And with a strong focus on ethics and social responsibility, this collection is a dream come true for anyone looking to elevate their interior in a conscious and mindful way. OOhh’s Zero Waste paper is produced entirely in-house – a technique we developed in 2018, transforming approximately 20,000 kg of our own paper waste each year, along with other locally collected paper waste, into new paper. The soft texture of the paper allows us to shape elegant, sculptural forms. Zero Waste paper is a shining example of future-forward, green innovation.
-  Updated: 2026-11-06T22:29:31Z
+  Updated: 2026-11-20T17:09:45Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/black-pedestal-bowl.jpg?v=1769615757
-  Price: £35.00 GBP
+  Price: £29.75 GBP
 - [Pedestal Bowl, Caffe Brown, Earthy Home Decor](https://www.norrska.com/products/pedestal-bowl-caffe-brown-earthy-home-decor): Dimensions: W21 x H18 Handmade Danish design Made from 100% recycled paper and natural latex inside to make it waterproof Decorated with recycled sawdust from the local carpenter industry SEDEX  production Fair trade women project in Sri Lanka Sustainable production & sustainable material Modern Pedestal Bowl – Sculptural sustainability with creative freedomAdd a touch of personality and thoughtfulness to your interior with this beautiful pedestal bowl. Handcrafted from Zero Waste paper and delicately decorated with recycled sawdust from local carpenters in Sri Lanka – a design that offers an intriguing tactile surface and a unique, organic look. The bowl combines simple elegance with natural depth and is ideal for everything from floral arrangements and Christmas decorations to water displays with floating candles or other creative setups. The sculptural form elevates your styling and invites you to express your creativity. Each piece is crafted through OOhh’s fair trade women’s project, enabling women to work from home under respectful and fair working conditions. A beautiful statement in sustainable form – for those who value both aesthetics and responsibility. OOhh Collection goes the extra mile to ensure sustainable production and ethical working environments. With the WOOD’z series, OOhh proves that it’s possible to create beautiful, unique, and eco-friendly products without compromising on quality. And with a strong focus on ethics and social responsibility, this collection is a dream come true for anyone looking to elevate their interior in a conscious and mindful way. OOhh’s Zero Waste paper is produced entirely in-house – a technique we developed in 2018, transforming approximately 20,000 kg of our own paper waste each year, along with other locally collected paper waste, into new paper. The soft texture of the paper allows us to shape elegant, sculptural forms. Zero Waste paper is a shining example of future-forward, green innovation.
-  Updated: 2026-11-06T22:29:30Z
+  Updated: 2026-11-20T17:09:45Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/earthy-brown-pedestal-bowl.jpg?v=1769615747
-  Price: £35.00 GBP
+  Price: £29.75 GBP
 - [Earthy Tones Paper Chain Garland, 10 ft long, 3 meters](https://www.norrska.com/products/earthy-tones-paper-chain-garland-autumn-56276): Decorate your home with this stunning earthy tones paper chain garland in bordeaux, autumn yellow, and tangerine. Made from textured paper, it adds a cosy touch to any corner, making your space stand out! Perfect for any occasion, especially if earthy tones dominate your home decor, and it can become a permanent fixture in your home. -Easy setup: No glue needed- just connect the links with a click-and-slot mechanism, and disassemble whenever you like. - Contains 57 paper links: 19 of each colour. - Approximate length: 3 meters (118 inches). -Beautiful packaging: Comes in an attractive envelope, making it a great gift! -Made in England: Crafted in our Manchester studio with high-quality textured art papers for superior quality. Disclaimer: This product is not a toy and is intended for decorative use only.
   Updated: 2026-11-07T02:00:15Z
   Vendor: Norrska
@@ -292,49 +285,49 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7139754695_3wpu.jpg?v=1754691237
   Price: £60.00 GBP
 - [Embossed Traces in the snow Christmas Card - Sleigh](https://www.norrska.com/products/embossed-traces-in-the-snow-christmas-card-sleigh): This exquisite embossed greeting card, crafted in Germany from high-quality cotton paper, features a detailed print and raised design, making it an elegant choice for Christmas greetings. DIN A6 (10,5 x 14,8 cm) 300 g/m² Envelope is included.
-  Updated: 2026-10-14T21:48:45Z
+  Updated: 2026-11-20T16:51:45Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/gmund_papeterie_winterkarte_spuren_im_schnee_schlitten_main_a915.jpg?v=1755727808
   Price: £5.00 GBP
 - [Ice Skating Christmas Card - Embossed](https://www.norrska.com/products/ice-skating-christmas-card-embossed): This exquisite embossed and ice skating print greeting card, crafted in Germany from high-quality cotton paper, features a detailed print and raised design, making it an elegant choice for Christmas greetings. The voluminous paper made of 100% cotton fiber is predestined for letterpress applications due to its texture. A wintry silhouette was imitated here with a filigree blind embossing. Combined with the rich offset print, the result is a beautiful motif that is not only visually pleasing, but also tactile. DIN A6 (10,5 x 14,8 cm) 300 g/m² Envelope is included.
-  Updated: 2026-10-14T21:48:45Z
+  Updated: 2026-11-21T04:52:14Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/gmund_papeterie_winterkarte_spuren_im_schnee_eislauf_main_3b5b.jpg?v=1755729921
+  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/gmund_papeterie_winterkarte_spuren_im_schnee_eislaufen_main_2269.jpg?v=1755729921
   Price: £5.00 GBP
 - [Winter card Traces in the snow - Sledging hill](https://www.norrska.com/products/winter-card-traces-in-the-snow-sledging-hill): This exquisite embossed and sledging hill print greeting card, crafted in Germany from high-quality cotton paper, features a detailed print and raised design, making it an elegant choice for Christmas greetings. The voluminous paper made of 100% cotton fibre is predestined for letterpress applications due to its texture. A wintry silhouette was imitated here with a filigree blind embossing. Combined with the rich offset print, the result is a beautiful motif that is not only visually pleasing but also tactile. DIN A6 (10,5 x 14,8 cm) 300 g/m² Envelope is included.
-  Updated: 2026-10-14T21:48:45Z
+  Updated: 2026-11-20T16:51:18Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/gmund_papeterie_winterkarte_spuren_im_schnee_rodelberg_main_3493.jpg?v=1755730543
   Price: £5.00 GBP
 - [Cargo Bike & Christmas Tree Greeting Card](https://www.norrska.com/products/cargo-bike-christmas-tree-greeting-card): This exquisite embossed and cargo bike and Christmas tree print greeting card, crafted in Germany from high-quality cotton paper, features a detailed print and raised design, making it an elegant choice for Christmas greetings. The voluminous paper made of 100% cotton fiber is predestined for letterpress applications due to its texture. A wintry silhouette was imitated here with a filigree blind embossing. Combined with the rich offset print, the result is a beautiful motif that is not only visually pleasing, but also tactile. DIN A6 (10,5 x 14,8 cm) 300 g/m² Envelope is included.
-  Updated: 2026-10-14T21:48:46Z
+  Updated: 2026-11-20T16:52:36Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/gmund_papeterie_winterkarte_spuren_im_schnee_lastenrad_detail_2_b27f.jpg?v=1755731282
   Price: £5.00 GBP
 - [Mountain bike Greeting Card](https://www.norrska.com/products/mountain-bike-greeting-card): The voluminous paper made of 100% cotton fiber is predestined for letterpress applications due to its texture. A wintry silhouette was imitated here with a filigree blind embossing. Combined with the rich offset print, the result is a beautiful motif that is not only visually pleasing, but also tactile. DIN A6 (10,5 x 14,8 cm) 300 g/m² Envelope is included.
-  Updated: 2026-10-14T21:48:46Z
+  Updated: 2026-11-21T04:49:43Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/gmund_papeterie_grusskarte_spuren_am_tegernsee_mountainbike_detail_2_f87b.jpg?v=1755731507
+  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/gmund_papeterie_grusskarte_spuren_am_tegernsee_mountainbike_detail_1_5eea.jpg?v=1755731507
   Price: £5.00 GBP
 - [Hiker Greeting Card](https://www.norrska.com/products/hiker-greeting-card): The voluminous paper made of 100% cotton fiber is predestined for letterpress applications due to its texture. A wintry silhouette was imitated here with a filigree blind embossing. Combined with the rich offset print, the result is a beautiful motif that is not only visually pleasing, but also tactile. DIN A6 (10,5 x 14,8 cm) 300 g/m² Envelope is included.
-  Updated: 2026-10-14T21:48:46Z
+  Updated: 2026-11-21T04:48:58Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/gmund_papeterie_grusskarte_spuren_am_tegernsee_wanderer_detail_1_53a3.jpg?v=1755731697
+  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/gmund_papeterie_grusskarte_spuren_am_tegernsee_wanderer_main_7fd7.jpg?v=1755731697
   Price: £5.00 GBP
 - [Swimming Summer Card - Embossed](https://www.norrska.com/products/swimming-summer-card-embossed): The voluminous paper made of 100% cotton fiber is predestined for letterpress applications due to its texture. A wintry silhouette was imitated here with a filigree blind embossing. Combined with the rich offset print, the result is a beautiful motif that is not only visually pleasing, but also tactile. DIN A6 (10,5 x 14,8 cm) 300 g/m² Envelope is included.
-  Updated: 2026-10-14T21:48:46Z
+  Updated: 2026-11-20T16:50:40Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
@@ -362,82 +355,82 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7158565852_dosk.jpg?v=1756821491
   Price: £8.00 GBP
 - [Handmade Star Ornament - 5in](https://www.norrska.com/products/christmas-star-ornament-nordic-holiday-18288): This gold Christmas star ornament is hand decorated, making each one truly one of a kind. Due to the hand-decorated nature, slight variations between items are to be expected. These minimalist ornaments are inspired by Nordic stars, bringing an authentic Hygge vibe to your holiday decor. Approx. diameters as follow:- 12.5cm - 5in
-  Updated: 2026-11-05T03:42:59Z
+  Updated: 2026-11-21T12:59:47Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7167949016_6nt3.jpg?v=1759529469
   Price: £15.00 GBP
 - [Large Gold Star Ornament | Hand decorated](https://www.norrska.com/products/large-gold-star-ornament-hand-decorated-25133): This large gold star ornament is hand-decorated, making each piece truly unique. Because of this craftsmanship, slight variations between items are normal. These minimalist ornaments take inspiration from Nordic stars, adding a cosy Hygge touch to your holiday decor. Approx. diameters as follow:- 14cm - 5.5in
-  Updated: 2026-11-05T03:41:47Z
+  Updated: 2026-11-22T06:13:40Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7167927008_5p9v.jpg?v=1761832674
   Price: £19.50 GBP
 - [Large Nordic Star Ornament | Handcrafted](https://www.norrska.com/products/large-nordic-star-ornament-hand-18323): This large wooden Nordic star ornament is hand decorated, making each one truly one of a kind. Due to the hand-decorated nature, slight variations between items are to be expected. These minimalist ornaments are inspired by Nordic stars, bringing an authentic Hygge vibe to your holiday decor. Approx. diameters as follow:- 14cm - 5.5in
-  Updated: 2026-11-05T03:44:40Z
+  Updated: 2026-11-22T06:13:41Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7215880047_q03c.jpg?v=1761832652
   Price: £19.50 GBP
 - [Large Star Ornament, Hand decorated, Minimal Christmas Decor, 5.5in](https://www.norrska.com/products/large-star-ornament-hand-decorated-94920): This large wooden star ornament is hand decorated, making each one truly one of a kind. Due to the hand-decorated nature, slight variations between items are to be expected. These minimalist ornaments are inspired by Nordic stars, bringing an authentic Hygge vibe to your holiday decor. Approx. diameters as follow: - 14cm - 5.5in -Material: Wood, velvet twine
-  Updated: 2026-11-05T03:35:58Z
+  Updated: 2026-11-22T06:13:42Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7167840218_oenm.jpg?v=1761832642
   Price: £19.50 GBP
 - [Handcrafted Star Ornaments | Set of Three](https://www.norrska.com/products/gold-stars-ornaments-set-of-three-90098): These beautiful shimmering gold Nordic star Christmas ornaments are handcrafted with three unique patterns, making each one truly one of a kind. Due to the hand-decorated nature, slight variations between items are to be expected. These minimalist ornaments are inspired by Nordic stars, bringing an authentic Hygge vibe to your holiday decor. Approx. diameters as follow:-10cm-4in, 9cm-3,5in, 10cm-4in
-  Updated: 2026-11-05T03:29:00Z
+  Updated: 2026-11-22T06:13:43Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7167819056_pxd4.jpg?v=1761832631
   Price: £35.00 GBP
 - [Red Forest | Tabletop Decoration](https://www.norrska.com/products/red-christmas-tree-decor-tabletop-97154): A little woodland in an unexpected Christmas palette. This set of eight poppy red and bordeaux paper trees brings colour and a sense of play to your festive home. Arrange them among your Christmas village houses, gather them on a mantelpiece or let a small forest take over the dining table. Three different sizes give your scene depth, while the textured art paper adds a beautifully tactile finish. Carefully stored between seasons, they can become part of your Christmas traditions for years to come. Colours: Poppy red & BordeauxIncludes: 8 trees — 1 large, 3 medium and 4 small. Dimensions: Large: 16 × 11 cm / 6.30 × 4.33 in Medium: 11 × 8 cm / 4.33 × 3.15 in Small: 8 × 6 cm / 3.15 × 2.36 in
-  Updated: 2026-11-14T13:11:12Z
+  Updated: 2026-11-21T12:59:48Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7284826977_6qhw.jpg?v=1759017079
   Price: £12.50 GBP
 - [Blue Forest | Tabletop Decoration](https://www.norrska.com/products/blue-christmas-tree-decor-tabletop-92456): A little woodland in an unexpected Christmas palette. This set of eight turquoise blue and indigo blue paper trees brings colour and a sense of play to your festive home. Arrange them among your Christmas village houses, gather them on a mantelpiece or let a small forest take over the dining table. Three different sizes give your scene depth, while the textured art paper adds a beautifully tactile finish. Carefully stored between seasons, they can become part of your Christmas traditions for years to come. Colours: Turquoise & IndigoIncludes: 8 trees — 1 large, 3 medium and 4 small. Dimensions: Large: 16 × 11 cm / 6.30 × 4.33 in Medium: 11 × 8 cm / 4.33 × 3.15 in Small: 8 × 6 cm / 3.15 × 2.36 in
-  Updated: 2026-11-14T13:40:48Z
+  Updated: 2026-11-21T12:59:48Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7284803223_8egp.jpg?v=1759017085
   Price: £12.50 GBP
 - [Pink Forest | Tabletop Decoration](https://www.norrska.com/products/pink-christmas-tree-decor-tabletop-95487): A little woodland in an unexpected Christmas palette. This set of eight pink and purple paper trees brings colour and a sense of play to your festive home. Arrange them among your Christmas village houses, gather them on a mantelpiece or let a small forest take over the dining table. Three different sizes give your scene depth, while the textured art paper adds a beautifully tactile finish. Carefully stored between seasons, they can become part of your Christmas traditions for years to come. Colours: Pink & PurpleIncludes: 8 trees — 1 large, 3 medium and 4 small. Dimensions: Large: 16 × 11 cm / 6.30 × 4.33 in Medium: 11 × 8 cm / 4.33 × 3.15 in Small: 8 × 6 cm / 3.15 × 2.36 in
-  Updated: 2026-11-13T00:36:31Z
+  Updated: 2026-11-21T12:59:48Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7236824994_okyp.jpg?v=1759017091
   Price: £12.50 GBP
 - [Winter Christmas Scene, Christmas Village Holiday Decor](https://www.norrska.com/products/winter-christmas-scene-christmas-village-92345): Bring Holiday Magic to Your Home Add charm to your holiday decor with this enchanting winter Christmas scene. Designed with delightful details, it features children playing in the snow, a crescent moon surrounded by clouds, and a cozy Christmas village. This whimsical decoration is sure to become one of your favorite holiday accents year after year. Set Includes 4 Pieces: Clouds and mountain scene Crescent moon Christmas tree on a car Christmas village scene Dimensions (W x H): Christmas village scene: 68 × 15 cm (26.8" × 5.9") Crescent: 8 cm diameter (3.1") Clouds and mountain scene: 41 × 9 cm (16.1" × 3.5") Christmas tree on car: 13 × 7 cm (5.1" × 2.8") Please Note: Due to paper availability, the texture may vary between laid or grained finishes.
-  Updated: 2026-11-12T14:44:06Z
+  Updated: 2026-11-22T18:34:51Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7284756713_7pvd.jpg?v=1759527596
   Price: £29.50 GBP
 - [Bag of 12 floating large pebble candles, Melon White](https://www.norrska.com/products/bag-of-12-floating-pebble-candles-melon-white): 5cm / 2 inch diameter Unique qualities of the Vance Kitira candles- Asthma and Allergy friendly candles-  clean candles - tested at SGS laboratory- Average sooting procent as low as 0,01%- Exceptionel long burn hours- Odorless and smokeless- Premium food grade paraffin - REACH - Hand poured- Through colored- Fine dyes from Germany- 100 % US cotton wicks from US- self-extingushing Vance Kitira Floating Candles – Handcrafted Elegance for Your Table SettingCreate a cozy and elegant atmosphere with beautiful floating candles from Vance Kitira. These candles are hand-poured using  food-grade paraffin, ensuring a clean and clear burn. The floating candles are designed to look like small pebbles – hence the name "pebbles." They float gracefully on water, spreading a warm, soft light – perfect for intimate moments and festive occasions. Decorate the water with flowers or other decorative items to create a truly beautiful experience, from romantic dinners to larger events. Features:• Handcrafted Quality: Each candle is carefully poured to ensure a consistent and beautiful finish.• Safe and Clean Burning: Made from  food-grade paraffin, burning cleanly without soot.• Versatile Use: Ideal for decoration in bowls, glasses, or water basins. Combine with flowers, stones, or other items for a personal and unique decoration. The candles can also be used standing on a flat surface or as an alternative to tealights in a glass without water. Delivered in Charming Gift Bags:The floating candles are delivered in beautiful, rustic bags with 12 candles, making them perfect as a gift or a decorative addition to your home. You can choose from 3 color variants: Melon White, Champagne/Taupe, and Sage/Ocean Mist.Are you aware that candles made from paraffin are cleaner than candles made from pure stearin?Vance Kitira Timber® Candles are poured from ‘premium food grade’ paraffin and produced with 100% cotton wicks. This is paraffin  for use in the food industry, fully refined and the cleanest paraffin on the market. A pure and clear paraffin which is completely cleansed for impurities and used in foods like cheese, chocolate and cake etc. The result is a incredible beautiful candle, with a unique warm glow.
-  Updated: 2026-11-05T03:21:28Z
+  Updated: 2026-11-20T15:32:31Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/floating-candle-3.jpg?v=1769616165
   Price: £26.00 GBP
 - [4 arm Candle Holder, Black](https://www.norrska.com/products/4-arm-candle-holder-black): D14xH23 cm Beautiful candleholder in timeless Danish design. Powder-coated. Made from strong recycled metal.
-  Updated: 2026-11-04T15:19:15Z
+  Updated: 2026-11-20T17:09:44Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/four-candle-holder-2.jpg?v=1769615807
-  Price: £35.00 GBP
+  Price: £29.75 GBP
 - [Timber® Taper Candles, set of 2, Moss Green](https://www.norrska.com/products/timber®-taper-candles-set-of-2-moss-green): D2,25 x H31 cm - 0.9 x 12.2 inches Unique qualities of the Vance Kitira candles- Asthma and Allergy friendly candles-  clean candles - tested at SGS laboratory- Average sooting procent as low as 0,01%- Exceptionel long burn hours- Odorless and smokeless- Premium food grade paraffin - REACH - Hand poured- Through colored- Fine dyes from Germany- 100 % US cotton wicks from US- self-extingushing- Burn time: 16-18 hrs.Are you aware that candles made from paraffin are cleaner than candles made from pure stearin?Vance Kitira Timber® Candles are poured from ‘premium food grade’ paraffin and produced with 100% cotton wicks. This is paraffin  for use in the food industry, fully refined and the cleanest paraffin on the market. A pure and clear paraffin which is completely cleansed for impurities and used in foods like cheese, chocolate and cake etc. The result is a incredible beautiful candle, with a unique warm glow and exceptionel long burn hours.The Vance Kitira Timber® candles are tested and  at the SGS Laboratory in France. The test concludes that the candles are free from cancerous particles when burning. The candles are asthmatic and allergy friendly.As a great advantage of the fully refined wax which is cleansed for all impurities and oil residues we get the acknowledge long burn hours compared to bad quality candles where oil residue reduces the burn hours. We can only recommend you to use the Vance Kitira candles. These candles are much more than a candleTip: Let the candles burn to the edge the first time you light them. Trim the wick during use for better burning candles.
   Updated: 2026-11-04T15:17:12Z
   Vendor: Norrska
@@ -460,14 +453,14 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/wine-taper-candle-1.jpg?v=1759240825
   Price: £9.00 GBP
 - [Taper Candle Holder. Black](https://www.norrska.com/products/taper-candle-holder-black): D8.5 x H3 cm - 3.35-1.18in Beautiful candleholder in timeless Danish design. Powder-coated. Made from strong recycled metal.
-  Updated: 2026-11-05T03:18:38Z
+  Updated: 2026-11-20T17:09:46Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/single-candle-holder-2.jpg?v=1769615797
-  Price: £15.00 GBP
+  Price: £12.75 GBP
 - [Africa Travel Journal, Africa Travel Gift, Personalised Notebook - FO Design](https://www.norrska.com/products/africa-travel-journal-africa-travel-gift-personalised-notebook): You can keep your beautiful travel memories in your Africa travel journal. This personalised notebook would be an excellent Africa travel gift for travellers. Customise it with custom texts or names to make it more special. - A5 Size (5.82 x 8.26 in) / (14.8 x 21 cm) - 120 gsm smooth cream sheets - 142 Pages - Plain Layout - Hard back cover - Free to personalise the notebook. Make a custom gift with the names, quotes, special notes or anything you'd like! Thanks to its soft, thick, cream-coloured sheets, you both can sketch and write easily. If you wish, you can also keep your photos, tickets or any travel documents and use the pages as a blank journal to create an unforgettable travel collection in your style. All our notebooks are handmade with love and care in our small workshop in Salford, UK. We craft each notebook from scratch, tailored to your order, and personalise them just for you. Utilising premium quality materials and meticulous workmanship, we ensure that your notebook will accompany you for a long time. You may see our other unique designs; https://www.fodesign.co/category/travel-journals/
-  Updated: 2026-10-14T21:48:52Z
+  Updated: 2026-11-17T10:52:56Z
   Vendor: FO Design
   Product Type: Travel Journals
   Availability: Available
@@ -551,7 +544,7 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/world_map_travel_notebook.jpg?v=1787589296
   Price: £36.00 GBP
 - [Holly Jolly Garland](https://www.norrska.com/products/holly-jolly-garland-55194): Holly Jolly Paper Garland Bring joy to your holiday décor with this charming Holly Jolly paper garland! Made from beautiful, premium-quality vibrant papers, it adds a cheerful and festive touch to any space. Specifications Length: 150 cm (≈ 59 in) Letter Height: 88 mm (≈ 3.5 in) Material: Crafted from premium textured British papers Origin: Made in England
-  Updated: 2026-10-18T20:45:41Z
+  Updated: 2026-11-20T16:43:31Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
@@ -564,29 +557,29 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7375348429_cl3m.jpg?v=1761614419
   Price: £175.00 GBP
-- [Handcrafted Cotton Hanging Wall Decor, 4.8 in](https://www.norrska.com/products/yew-aril-handcrafted-hanging-wall-decor-48871): This handcrafted cotton hanging wall decor features the Yew & Aril design with elegant gold accents for a warm, nature-inspired look. Each piece is finished with gold foil detailing and presented in a premium gift box, making it a unique and thoughtful decor accent or gift.
-  Updated: 2026-10-14T21:48:55Z
+- [Handcrafted Hanging Ornament |  Yew & Aril | 4.8 in](https://www.norrska.com/products/yew-aril-handcrafted-hanging-wall-decor-48871): This handcrafted cotton hanging wall decor features the Yew & Aril design with elegant gold accents for a warm, nature-inspired look. Each piece is finished with gold foil detailing and presented in a premium gift box, making it a unique and thoughtful decor accent or gift.
+  Updated: 2026-11-17T02:50:11Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7502502317_32m5.jpg?v=1764460232
   Price: £50.00 GBP
-- [Campanula Floral Handcrafted Cotton Hanging Wall Decor](https://www.norrska.com/products/campanula-pattern-handcrafted-hanging-47194): Exquisitely made Campanula pattern hanging wall decor brings elegant warmth to any home. Each piece is crafted with skill and care, beautifully finished by hand with gold accents and gold foil detailing. Presented in a premium gift box, it makes a truly unique and thoughtful gift for someone special. Diameter: 12 cm (approx. 4.7 in) Thickness: 5 mm (approx. 0.2 in) Fabric Details: Brand: Morris & Co Composition: 100% cotton Design: Alan Francis Vigers
-  Updated: 2026-10-14T21:48:55Z
+- [Campanula Floral Handcrafted Hanging Wall Decor](https://www.norrska.com/products/campanula-pattern-handcrafted-hanging-47194): Exquisitely made Campanula pattern hanging wall decor brings elegant warmth to any home. Each piece is crafted with skill and care, beautifully finished by hand with gold accents and gold foil detailing. Presented in a premium gift box, it makes a truly unique and thoughtful gift for someone special. Diameter: 12 cm (approx. 4.7 in) Thickness: 5 mm (approx. 0.2 in) Fabric Details: Brand: Morris & Co Composition: 100% cotton Design: Alan Francis Vigers
+  Updated: 2026-11-17T02:50:59Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7454590432_4fij.jpg?v=1773622348
   Price: £50.00 GBP
-- [Golden Lily Handcrafted Cotton Hanging Wall Decor, 4.8"](https://www.norrska.com/products/golden-lily-handcrafted-hanging-wall-decor-38268): Exquisitely made Golden Lily hanging wall decor brings elegant warmth to any home. Each piece is crafted with skill and care, beautifully finished by hand with gold accents and gold foil detailing. Presented in a premium gift box, it makes a truly unique and thoughtful gift for someone special. Diameter: 12 cm (approx. 4.7 in) Thickness: 5 mm (approx. 0.2 in) Fabric Details: Brand: Morris & Co Composition: 100% cotton Design: John Henry Dearle – Golden Lily
-  Updated: 2026-10-14T21:48:55Z
+- [Golden Lily Handcrafted Hanging Ornament | 4.8 in](https://www.norrska.com/products/golden-lily-handcrafted-hanging-wall-decor-38268): Exquisitely made Golden Lily hanging wall decor brings elegant warmth to any home. Each piece is crafted with skill and care, beautifully finished by hand with gold accents and gold foil detailing. Presented in a premium gift box, it makes a truly unique and thoughtful gift for someone special. Diameter: 12 cm (approx. 4.7 in) Thickness: 5 mm (approx. 0.2 in) Fabric Details: Brand: Morris & Co Composition: 100% cotton Design: John Henry Dearle – Golden Lily
+  Updated: 2026-11-17T02:51:23Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7502480737_a47i.jpg?v=1773622418
+  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7502481045_q2d5.jpg?v=1773622418
   Price: £50.00 GBP
-- [Strawberry Thief Handcrafted Hanging Wall Decor, 4.8 inches](https://www.norrska.com/products/strawberry-thief-handcrafted-hanging-wall-37569): Exquisitely made Strawberry Thief hanging wall decor brings elegant warmth to any home. Each piece is crafted with skill and care, beautifully finished by hand with gold accents and gold foil detailing. Presented in a premium gift box, it makes a truly unique and thoughtful gift for someone special. Diameter: 12 cm (approx. 4.7 in) Thickness: 5 mm (approx. 0.2 in) Fabric Details: Brand: Morris & Co Composition: 100% cotton Design: William Morris – Strawberry Thief
-  Updated: 2026-11-05T03:56:22Z
+- [Handcrafted Hanging Decor | Strawberry Thief | 4.8 in](https://www.norrska.com/products/strawberry-thief-handcrafted-hanging-wall-37569): Exquisitely made Strawberry Thief hanging wall decor brings elegant warmth to any home. Each piece is crafted with skill and care, beautifully finished by hand with gold accents and gold foil detailing. Presented in a premium gift box, it makes a truly unique and thoughtful gift for someone special. Diameter: 12 cm (approx. 4.7 in) Thickness: 5 mm (approx. 0.2 in) Fabric Details: Brand: Morris & Co Composition: 100% cotton Design: William Morris – Strawberry Thief
+  Updated: 2026-11-17T02:50:50Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
@@ -849,7 +842,7 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/DSC05281copylow.jpg?v=1775255777
   Price: £50.00 GBP
 - [Architectural Wall Art Set – Earthy Tones, 25 Pieces](https://www.norrska.com/products/architectural-wall-art-earthy-tones): Inspired by architectural facades, this wall art offers the flexibility to design your own artwork. Each piece can be combined in various ways to match your style, allowing you to create a personalised wall display. Made from premium textured heavyweight paper, it adds dynamic movement to your space. The set includes 25 pieces: 5 in mustard, 9 in middle earthy and 11 dark earthy tones. You can adjust the angle for a sharper look during setup, with the included guide ensuring a seamless, trouble-free installation. Double-sided tape is also included.
-  Updated: 2026-10-14T21:49:02Z
+  Updated: 2026-11-19T14:55:07Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
@@ -870,28 +863,28 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/the_chatterbox.jpg?v=1784229733
   Price: £85.00 GBP
 - [Little Rascal, Limited Edition Linocut Print, 8x8in](https://www.norrska.com/products/little-rascal-limited-edition-linocut-print-8x8in): Little Rascal A little arm stretched far out of the window, desperate to join the buzzing street below. But a mother’s gentle grip is always one step ahead, anchoring her tiny adventurer safely inside. “Not just yet, my little rascal!” Behind the Craft This limited-edition print has been designed with the mountboard as an integral part of the artwork. A hand-cut figure is carefully added to each print, bringing the scene to life and adding depth to the composition. This final detail transforms the artwork into a small visual story, inviting the viewer to imagine the everyday moments unfolding within the scene. Each print is signed by the artist and presented in a beautifully packaged box. Limited edition of 50 Print size: 8 × 8 in / 20 × 20 cm Frame: Off-white wooden frame included The frame is manufactured in the UK by our trusted partners. If you would prefer an alternative frame, please get in touch and we'll be happy to discuss the available options. 'O Panaro Collection O’ Panaro is a Mediterranean way of collecting groceries by lowering a basket from the window. Inspired by Neapolitan architecture, from the neighbourhoods of the Quartieri Spagnoli to the Centro Storico, where the culture of 'o panaro is a huge part of daily life. While no one knows exactly where the tradition started, it's thought to have roots in Roman times as a clever solution to multi-story apartment living. Put simply, by lowering a wicker basket on a rope from your balcony, you can grab your groceries or daily essentials without ever stepping foot outside. It’s incredibly practical, especially for the elderly or anyone with limited mobility.The 'o panaro (Neapolitan for a wicker basket) isn’t just found in Naples, though. You can spot this exact same basket lowering custom right across the Mediterranean—from Italy and Malta to Greece, Turkey, and all the way over to Egypt, especially in Cairo.
-  Updated: 2026-11-12T16:53:16Z
+  Updated: 2026-11-21T03:58:45Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/littlerascal-low-01.jpg?v=1784234098
   Price: £95.00 GBP
-- [II Panaro - 1, Limited Edition Linocut Print, 8x12in](https://www.norrska.com/products/ii-panaro-1-limited-edition-linocut-print-5x7in-copy): Il Panaro - 01 Named after the collection itself, ’O Panaro captures one of the most endearing rituals of Mediterranean street life. From a sun-drenched window, a wicker basket is gently lowered on a string—a simple, timeless way to gather the day's necessities without ever stepping outside. It is more than just a practical habit; it is a beautiful dance between the balcony and the cobblestones, and a heartwarming reminder of the slow, connected rhythms of daily life. Behind the Craft This limited-edition print has been designed with the mountboard as an integral part of the artwork. A hand-cut figure and a wicker basket are carefully added to each print, bringing the scene to life and adding depth to the composition. This final detail transforms the artwork into a small visual story, inviting the viewer to imagine the everyday moments unfolding within the scene. Each print is signed by the artist and presented in a beautifully packaged box. Limited edition of 50 Print size: 8 × 12 in / 20.3 cm × 30.5 cm Frame: Off-white wooden frame included The frame is manufactured in the UK by our trusted partners. If you would prefer an alternative frame, please get in touch and we'll be happy to discuss the available options. 'O Panaro Collection O’ Panaro is a Mediterranean way of collecting groceries by lowering a basket from the window. Inspired by Neapolitan architecture, from the neighbourhoods of the Quartieri Spagnoli to the Centro Storico, where the culture of 'o panaro is a huge part of daily life. While no one knows exactly where the tradition started, it's thought to have roots in Roman times as a clever solution to multi-story apartment living. Put simply, by lowering a wicker basket on a rope from your balcony, you can grab your groceries or daily essentials without ever stepping foot outside. It’s incredibly practical, especially for the elderly or anyone with limited mobility.The 'o panaro (Neapolitan for a wicker basket) isn’t just found in Naples, though. You can spot this exact same basket lowering custom right across the Mediterranean—from Italy and Malta to Greece, Turkey, and all the way over to Egypt, especially in Cairo.
-  Updated: 2026-11-12T12:36:20Z
+- [II Panaro - 01, Limited Edition Linocut Print, 8x12in](https://www.norrska.com/products/ii-panaro-1-limited-edition-linocut-print-5x7in-copy): Il Panaro - 01 Named after the collection itself, ’O Panaro captures one of the most endearing rituals of Mediterranean street life. From a sun-drenched window, a wicker basket is gently lowered on a string—a simple, timeless way to gather the day's necessities without ever stepping outside. It is more than just a practical habit; it is a beautiful dance between the balcony and the cobblestones, and a heartwarming reminder of the slow, connected rhythms of daily life. Behind the Craft This limited-edition print has been designed with the mountboard as an integral part of the artwork. A hand-cut figure and a wicker basket are carefully added to each print, bringing the scene to life and adding depth to the composition. This final detail transforms the artwork into a small visual story, inviting the viewer to imagine the everyday moments unfolding within the scene. Each print is signed by the artist and presented in a beautifully packaged box. Limited edition of 50 Print size: 8 × 12 in / 20.3 cm × 30.5 cm Frame: Off-white wooden frame included The frame is manufactured in the UK by our trusted partners. If you would prefer an alternative frame, please get in touch and we'll be happy to discuss the available options. 'O Panaro Collection O’ Panaro is a Mediterranean way of collecting groceries by lowering a basket from the window. Inspired by Neapolitan architecture, from the neighbourhoods of the Quartieri Spagnoli to the Centro Storico, where the culture of 'o panaro is a huge part of daily life. While no one knows exactly where the tradition started, it's thought to have roots in Roman times as a clever solution to multi-story apartment living. Put simply, by lowering a wicker basket on a rope from your balcony, you can grab your groceries or daily essentials without ever stepping foot outside. It’s incredibly practical, especially for the elderly or anyone with limited mobility.The 'o panaro (Neapolitan for a wicker basket) isn’t just found in Naples, though. You can spot this exact same basket lowering custom right across the Mediterranean—from Italy and Malta to Greece, Turkey, and all the way over to Egypt, especially in Cairo.
+  Updated: 2026-11-21T03:58:35Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/iipanaro-edt1-low-02.jpg?v=1784234664
   Price: £125.00 GBP
-- [II Panaro - 2, Limited Edition Linocut Print, 10x12in](https://www.norrska.com/products/ii-panaro-2-limited-edition-linocut-print-10x12in): Il Panaro - 02 Named after the collection itself, ’O Panaro captures one of the most endearing rituals of Mediterranean street life. From a sun-drenched window, a wicker basket is gently lowered on a string—a simple, timeless way to gather the day's necessities without ever stepping outside. It is more than just a practical habit; it is a beautiful dance between the balcony and the cobblestones, and a heartwarming reminder of the slow, connected rhythms of daily life. Behind the Craft This limited-edition print has been designed with the mountboard as an integral part of the artwork. A hand-cut figure and a wicker basket are carefully added to each print, bringing the scene to life and adding depth to the composition. This final detail transforms the artwork into a small visual story, inviting the viewer to imagine the everyday moments unfolding within the scene. Each print is signed by the artist and presented in a beautifully packaged box. Limited edition of 50 Print size: 10 × 12 in / 25.4 × 30.48 cm Frame: Off-white wooden frame included The frame is manufactured in the UK by our trusted partners. If you would prefer an alternative frame, please get in touch and we'll be happy to discuss the available options. 'O Panaro Collection O’ Panaro is a Mediterranean way of collecting groceries by lowering a basket from the window. Inspired by Neapolitan architecture, from the neighbourhoods of the Quartieri Spagnoli to the Centro Storico, where the culture of 'o panaro is a huge part of daily life. While no one knows exactly where the tradition started, it's thought to have roots in Roman times as a clever solution to multi-story apartment living. Put simply, by lowering a wicker basket on a rope from your balcony, you can grab your groceries or daily essentials without ever stepping foot outside. It’s incredibly practical, especially for the elderly or anyone with limited mobility.The 'o panaro (Neapolitan for a wicker basket) isn’t just found in Naples, though. You can spot this exact same basket lowering custom right across the Mediterranean—from Italy and Malta to Greece, Turkey, and all the way over to Egypt, especially in Cairo.
-  Updated: 2026-11-12T12:36:20Z
+- [II Panaro - 02, Limited Edition Linocut Print, 10x12in](https://www.norrska.com/products/ii-panaro-2-limited-edition-linocut-print-10x12in): Il Panaro - 02 Named after the collection itself, ’O Panaro captures one of the most endearing rituals of Mediterranean street life. From a sun-drenched window, a wicker basket is gently lowered on a string—a simple, timeless way to gather the day's necessities without ever stepping outside. It is more than just a practical habit; it is a beautiful dance between the balcony and the cobblestones, and a heartwarming reminder of the slow, connected rhythms of daily life. Behind the Craft This limited-edition print has been designed with the mountboard as an integral part of the artwork. A hand-cut figure and a wicker basket are carefully added to each print, bringing the scene to life and adding depth to the composition. This final detail transforms the artwork into a small visual story, inviting the viewer to imagine the everyday moments unfolding within the scene. Each print is signed by the artist and presented in a beautifully packaged box. Limited edition of 50 Print size: 10 × 12 in / 25.4 × 30.48 cm Frame: Off-white wooden frame included The frame is manufactured in the UK by our trusted partners. If you would prefer an alternative frame, please get in touch and we'll be happy to discuss the available options. 'O Panaro Collection O’ Panaro is a Mediterranean way of collecting groceries by lowering a basket from the window. Inspired by Neapolitan architecture, from the neighbourhoods of the Quartieri Spagnoli to the Centro Storico, where the culture of 'o panaro is a huge part of daily life. While no one knows exactly where the tradition started, it's thought to have roots in Roman times as a clever solution to multi-story apartment living. Put simply, by lowering a wicker basket on a rope from your balcony, you can grab your groceries or daily essentials without ever stepping foot outside. It’s incredibly practical, especially for the elderly or anyone with limited mobility.The 'o panaro (Neapolitan for a wicker basket) isn’t just found in Naples, though. You can spot this exact same basket lowering custom right across the Mediterranean—from Italy and Malta to Greece, Turkey, and all the way over to Egypt, especially in Cairo.
+  Updated: 2026-11-20T07:19:10Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/ii_panaro-edt2-low-02.jpg?v=1784235105
   Price: £135.00 GBP
 - [The Morning Crust, Limited Edition Linocut Print, 10x12in](https://www.norrska.com/products/the-morning-crust-limited-edition-linocut-print-10x12in): The Morning Crust A dialogue between the street and the sky. The Morning Crust captures a fleeting yet timeless moment of the Mediterranean morning: the baker, arms outstretched in anticipation, waiting to welcome the lowered basket from above. Within this handcrafted scene lies the very essence of the neighbourhood, the sensory delight of warm bread, the gentle creak of a rope, and the simple joy of daily rituals shared between neighbours. Behind the Craft This limited-edition print has been designed with the mountboard as an integral part of the artwork. A hand-cut figure is carefully added to each print, bringing the scene to life and adding depth to the composition. This final detail transforms the artwork into a small visual story, inviting the viewer to imagine the everyday moments unfolding within the scene. Each print is signed by the artist and presented in a beautifully packaged box. Limited edition of 50 Print size: 10 × 12 in / 25.4 × 30.48 cm Frame: Off-white wooden frame included The frame is manufactured in the UK by our trusted partners. If you would prefer an alternative frame, please get in touch and we'll be happy to discuss the available options. 'O Panaro Collection O’ Panaro is a Mediterranean way of collecting groceries by lowering a basket from the window. Inspired by Neapolitan architecture, from the neighbourhoods of the Quartieri Spagnoli to the Centro Storico, where the culture of 'o panaro is a huge part of daily life. While no one knows exactly where the tradition started, it's thought to have roots in Roman times as a clever solution to multi-story apartment living. Put simply, by lowering a wicker basket on a rope from your balcony, you can grab your groceries or daily essentials without ever stepping foot outside. It’s incredibly practical, especially for the elderly or anyone with limited mobility.The 'o panaro (Neapolitan for a wicker basket) isn’t just found in Naples, though. You can spot this exact same basket lowering custom right across the Mediterranean—from Italy and Malta to Greece, Turkey, and all the way over to Egypt, especially in Cairo.
-  Updated: 2026-11-12T12:36:20Z
+  Updated: 2026-11-21T03:58:35Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
@@ -912,75 +905,75 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/balconywhispers-low-01.jpg?v=1784238465
   Price: £320.00 GBP
 - [Drying in the Breeze - Limited Edition Paper Art](https://www.norrska.com/products/drying-in-the-breeze-limited-edition-paper-art): Drying in the Breeze Wherever is that lovely scent coming from? It’s completely drifted across the whole street! Architectural Inspiration This artwork serves as a love letter to classic Italian design, drawing rich inspiration from traditional Neapolitan architecture. Elegant modern ornamentation and beautifully detailed modern shutters frame the unfolding story, bringing Mediterranean charm to life. Behind the Craft This distinctive piece showcases Norrska’s signature expertise in transforming paper into intimate, storytelling dimensions of daily life. Every element is crafted using a blend of premium watercolor papers and exclusive custom-made sheets. The creation process is an exercise in patience and precision: Meticulous Hand-Assembly: Each scene is built layer by layer in a slow, intricate process. Hand-Cut Figures: Every human silhouette and architectural detail is individually cut and finished by hand. Architectural Depth: Bridging the gap between fine art and architectural modeling, this piece beautifully highlights the subtle, often unnoticed moments that make everyday life extraordinary. Display & Durability: To ensure lasting durability and structural integrity, the delicate paper layers are reinforced with a sturdy cardboard backing. The artwork is fully prepared for display and can be easily hung on your wall using nails or standard picture frames/hangers. Specifications Dimensions(Length x Height x Depth): 9.4 x 4.7 x 1.6 in / 24 x 12 x 4 cm Edition: Limited Edition of 20 Authentication: Hand-signed by the artist 'O Panaro Collection O’ Panaro is a Mediterranean way of collecting groceries by lowering a basket from the window. Inspired by Neapolitan architecture, from the neighbourhoods of the Quartieri Spagnoli to the Centro Storico, where the culture of 'o panaro is a huge part of daily life. While no one knows exactly where the tradition started, it's thought to have roots in Roman times as a clever solution to multi-story apartment living. Put simply, by lowering a wicker basket on a rope from your balcony, you can grab your groceries or daily essentials without ever stepping foot outside. It’s incredibly practical, especially for the elderly or anyone with limited mobility.The 'o panaro (Neapolitan for a wicker basket) isn’t just found in Naples, though. You can spot this exact same basket lowering custom right across the Mediterranean—from Italy and Malta to Greece, Turkey, and all the way over to Egypt, especially in Cairo.
-  Updated: 2026-11-12T12:36:19Z
+  Updated: 2026-11-21T07:11:45Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/Drying_in_the_Breeze-low-02.jpg?v=1784239984
   Price: £170.00 GBP
 - [The Neighbourhood Watch - Limited Edition Paper Art](https://www.norrska.com/products/the-neighbourhood-watch-limited-edition-paper-art): The Neighbourhood Watch Resting her elbows on a soft cushion draped over the balcony, she keeps a warm, watchful eye on the world below. From the postman’s arrival to the latest gossip, nothing escapes her gentle gaze; the undisputed, most endearing security system on the street. Architectural Inspiration This artwork serves as a love letter to classic Italian design, drawing rich inspiration from traditional Neapolitan architecture. Elegant modern ornamentation and beautifully detailed modern shutters frame the unfolding story, bringing Mediterranean charm to life. Behind the Craft This distinctive piece showcases Norrska’s signature expertise in transforming paper into intimate, storytelling dimensions of daily life. Every element is crafted using a blend of premium watercolor papers and exclusive custom-made sheets. The creation process is an exercise in patience and precision: Meticulous Hand-Assembly: Each scene is built layer by layer in a slow, intricate process. Hand-Cut Figures: Every human silhouette and architectural detail is individually cut and finished by hand. Architectural Depth: Bridging the gap between fine art and architectural modeling, this piece beautifully highlights the subtle, often unnoticed moments that make everyday life extraordinary. Display & Durability: To ensure lasting durability and structural integrity, the delicate paper layers are reinforced with a sturdy cardboard backing. The artwork is fully prepared for display and can be easily hung on your wall using nails or standard picture frames/hangers. Specifications Dimensions(Length x Height x Depth): 9.4 x 4.7 x 1.6 in / 24 x 12 x 4 cm Edition: Limited Edition of 20 Authentication: Hand-signed by the artist 'O Panaro Collection O’ Panaro is a Mediterranean way of collecting groceries by lowering a basket from the window. Inspired by Neapolitan architecture, from the neighbourhoods of the Quartieri Spagnoli to the Centro Storico, where the culture of 'o panaro is a huge part of daily life. While no one knows exactly where the tradition started, it's thought to have roots in Roman times as a clever solution to multi-story apartment living. Put simply, by lowering a wicker basket on a rope from your balcony, you can grab your groceries or daily essentials without ever stepping foot outside. It’s incredibly practical, especially for the elderly or anyone with limited mobility.The 'o panaro (Neapolitan for a wicker basket) isn’t just found in Naples, though. You can spot this exact same basket lowering custom right across the Mediterranean—from Italy and Malta to Greece, Turkey, and all the way over to Egypt, especially in Cairo.
-  Updated: 2026-11-12T12:36:19Z
+  Updated: 2026-11-21T07:11:45Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/neighbourhoodwatch-low-01.jpg?v=1784240714
   Price: £170.00 GBP
-- [57th Street | Sculpture Lantern | Rooftop - Royal Blue](https://www.norrska.com/products/57th-street-sculpture-lantern-rooftop-royal-blue): New York, New York Inspired by the unmistakable character of New York after dark, our New York Lantern collection explores two different sides of the city: Rooftop and Jazz Club. Rooftop takes its palette from the city at night, with deeper, moodier tones and shimmering surfaces that recall illuminated glass towers against a dark blue sky. Jazz Club is warmer and more intimate, with rich oranges and greens — the feeling of sitting somewhere late at night, swirling a glass of wine while Frank Sinatra’s New York, New York plays in the background. Designed with layers of intricate architectural detail, each lantern creates its own miniature cityscape when illuminated. Light travels through the windows and openings, bringing the façade to life and casting a warm atmospheric glow into the room. Rather than simply lighting a space, it introduces a small piece of New York’s nighttime character — somewhere between sculpture, architecture and ambient light. Each piece is handcrafted to order in our atelier using carefully selected fine papers. The subtly shimmering surface responds beautifully to changing light throughout the day, giving the lantern a slightly different character from morning to evening. 57th Street | Rooftop | Royal Blue USB rechargeable RGB+W light with remote control, allowing you to adjust the colour and atmosphere to suit your space. DimensionsL 11.5 cm × W 8.5 cm × H 54.5 cmApprox. L 4.5 in × W 3.3 in × H 21.5 in Made to heirloom quality, with the lighting component designed to be easily replaceable so the piece can be enjoyed for years to come.
-  Updated: 2026-11-03T01:20:16Z
+- [57th Street | Sculpture Lantern | Rooftop - Royal Blue](https://www.norrska.com/products/57th-street-sculpture-lantern-rooftop-royal-blue): New York, New York Inspired by the unmistakable character of New York after dark, our New York Lantern collection explores two different sides of the city: Rooftop and Jazz Club. Rooftop takes its palette from the city at night, with deeper, moodier tones and shimmering surfaces that recall illuminated glass towers against a dark blue sky. Jazz Club is warmer and more intimate, with rich oranges and greens — the feeling of sitting somewhere late at night, swirling a glass of wine while Frank Sinatra’s New York, New York plays in the background. Designed with layers of intricate architectural detail, each lantern creates its own miniature cityscape when illuminated. Light travels through the windows and openings, bringing the façade to life and casting a warm atmospheric glow into the room. Rather than simply lighting a space, it introduces a small piece of New York’s nighttime character — somewhere between sculpture, architecture and ambient light. Each piece is handcrafted to order in our atelier using carefully selected fine papers. The subtly shimmering surface responds beautifully to changing light throughout the day, giving the lantern a slightly different character from morning to evening. 57th Street | Rooftop | Royal Blue Arrives flat-packed. No glue required. Crafted from the world’s finest papers, featuring excellent lightfastness and a beautifully shimmering surface. Lighting is not included. Rechargeable LED puck lights fit neatly inside the base. DimensionsL 11.5 cm × W 8.5 cm × H 54.5 cmApprox. L 4.5 in × W 3.3 in × H 21.5 in
+  Updated: 2026-11-21T03:50:01Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/dark_blue_cover_low.jpg?v=1791388626
-  Price: £290.00 GBP
-- [Wall Street | Sculpture Lantern | Rooftop - Sunset Blue](https://www.norrska.com/products/57th-street-sculpture-lantern-rooftop-sunset-blue): New York, New York Inspired by the unmistakable character of New York after dark, our New York Lantern collection explores two different sides of the city: Rooftop and Jazz Club. Rooftop takes its palette from the city at night, with deeper, moodier tones and shimmering surfaces that recall illuminated glass towers against a dark blue sky. Jazz Club is warmer and more intimate, with rich oranges and greens — the feeling of sitting somewhere late at night, swirling a glass of wine while Frank Sinatra’s New York, New York plays in the background. Designed with layers of intricate architectural detail, each lantern creates its own miniature cityscape when illuminated. Light travels through the windows and openings, bringing the façade to life and casting a warm atmospheric glow into the room. Rather than simply lighting a space, it introduces a small piece of New York’s nighttime character — somewhere between sculpture, architecture and ambient light. Each piece is handcrafted to order in our atelier using carefully selected fine papers. The subtly shimmering surface responds beautifully to changing light throughout the day, giving the lantern a slightly different character from morning to evening. Wall Street | Rooftop | Sunset Blue USB rechargeable RGB+W light with remote control, allowing you to adjust the colour and atmosphere to suit your space. DimensionsL 16 cm × W 9.5 cm × H 29.5 cmApprox. L 6.3 in × W 3.7 in × H 11.6 in Made to heirloom quality, with the lighting component designed to be easily replaceable so the piece can be enjoyed for years to come.
-  Updated: 2026-10-14T21:49:04Z
+  Price: £174.00 GBP
+- [Wall Street | Sculpture Lantern | Rooftop - Sunset Blue](https://www.norrska.com/products/57th-street-sculpture-lantern-rooftop-sunset-blue): New York, New York Inspired by the unmistakable character of New York after dark, our New York Lantern collection explores two different sides of the city: Rooftop and Jazz Club. Rooftop takes its palette from the city at night, with deeper, moodier tones and shimmering surfaces that recall illuminated glass towers against a dark blue sky. Jazz Club is warmer and more intimate, with rich oranges and greens — the feeling of sitting somewhere late at night, swirling a glass of wine while Frank Sinatra’s New York, New York plays in the background. Designed with layers of intricate architectural detail, each lantern creates its own miniature cityscape when illuminated. Light travels through the windows and openings, bringing the façade to life and casting a warm atmospheric glow into the room. Rather than simply lighting a space, it introduces a small piece of New York’s nighttime character — somewhere between sculpture, architecture and ambient light. Each piece is handcrafted to order in our atelier using carefully selected fine papers. The subtly shimmering surface responds beautifully to changing light throughout the day, giving the lantern a slightly different character from morning to evening. Wall Street | Rooftop | Sunset Blue Arrives flat-packed. No glue required. Crafted from the world’s finest papers, featuring excellent lightfastness and a beautifully shimmering surface. Lighting is not included. Rechargeable LED puck lights fit neatly inside the base. DimensionsL 16 cm × W 9.5 cm × H 29.5 cmApprox. L 6.3 in × W 3.7 in × H 11.6 in
+  Updated: 2026-11-21T03:49:47Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/navy_cover_low.jpg?v=1791388556
-  Price: £230.00 GBP
-- [Park Avenue | Sculpture Lantern | Rooftop - Silver Grey](https://www.norrska.com/products/park-avenue-sculpture-lantern-rooftop-silver-grey): New York, New York Inspired by the unmistakable character of New York after dark, our New York Lantern collection explores two different sides of the city: Rooftop and Jazz Club. Rooftop takes its palette from the city at night, with deeper, moodier tones and shimmering surfaces that recall illuminated glass towers against a dark blue sky. Jazz Club is warmer and more intimate, with rich oranges and greens — the feeling of sitting somewhere late at night, swirling a glass of wine while Frank Sinatra’s New York, New York plays in the background. Designed with layers of intricate architectural detail, each lantern creates its own miniature cityscape when illuminated. Light travels through the windows and openings, bringing the façade to life and casting a warm atmospheric glow into the room. Rather than simply lighting a space, it introduces a small piece of New York’s nighttime character — somewhere between sculpture, architecture and ambient light. Each piece is handcrafted to order in our atelier using carefully selected fine papers. The subtly shimmering surface responds beautifully to changing light throughout the day, giving the lantern a slightly different character from morning to evening. Park Avenue | Rooftop | Silver Grey USB rechargeable RGB+W light with remote control, allowing you to adjust the colour and atmosphere to suit your space. DimensionsL 9.5 cm × W 9.5 cm × H 49.5 cmApprox. L 3.7 in × W 3.7 in × H 19.5 in Made to heirloom quality, with the lighting component designed to be easily replaceable so the piece can be enjoyed for years to come.
-  Updated: 2026-10-14T21:49:04Z
+  Price: £138.00 GBP
+- [Park Avenue | Sculpture Lantern | Rooftop - Silver Grey](https://www.norrska.com/products/park-avenue-sculpture-lantern-rooftop-silver-grey): New York, New York Inspired by the unmistakable character of New York after dark, our New York Lantern collection explores two different sides of the city: Rooftop and Jazz Club. Rooftop takes its palette from the city at night, with deeper, moodier tones and shimmering surfaces that recall illuminated glass towers against a dark blue sky. Jazz Club is warmer and more intimate, with rich oranges and greens — the feeling of sitting somewhere late at night, swirling a glass of wine while Frank Sinatra’s New York, New York plays in the background. Designed with layers of intricate architectural detail, each lantern creates its own miniature cityscape when illuminated. Light travels through the windows and openings, bringing the façade to life and casting a warm atmospheric glow into the room. Rather than simply lighting a space, it introduces a small piece of New York’s nighttime character — somewhere between sculpture, architecture and ambient light. Each piece is handcrafted to order in our atelier using carefully selected fine papers. The subtly shimmering surface responds beautifully to changing light throughout the day, giving the lantern a slightly different character from morning to evening. Park Avenue | Rooftop | Silver Grey Arrives flat-packed. No glue required. Crafted from the world’s finest papers, featuring excellent lightfastness and a beautifully shimmering surface. Lighting is not included. Rechargeable LED puck lights fit neatly inside the base. DimensionsL 9.5 cm × W 9.5 cm × H 49.5 cmApprox. L 3.7 in × W 3.7 in × H 19.5 in
+  Updated: 2026-11-21T03:49:33Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/new_york_rooftop_5-low.jpg?v=1791380727
-  Price: £270.00 GBP
-- [Sixth Avenue | Sculpture Lantern | Rooftop - Matt Black](https://www.norrska.com/products/sixth-avenue-sculpture-lantern-rooftop-matt-black): New York, New York Inspired by the unmistakable character of New York after dark, our New York Lantern collection explores two different sides of the city: Rooftop and Jazz Club. Rooftop takes its palette from the city at night, with deeper, moodier tones and shimmering surfaces that recall illuminated glass towers against a dark blue sky. Jazz Club is warmer and more intimate, with rich oranges and greens — the feeling of sitting somewhere late at night, swirling a glass of wine while Frank Sinatra’s New York, New York plays in the background. Designed with layers of intricate architectural detail, each lantern creates its own miniature cityscape when illuminated. Light travels through the windows and openings, bringing the façade to life and casting a warm atmospheric glow into the room. Rather than simply lighting a space, it introduces a small piece of New York’s nighttime character — somewhere between sculpture, architecture and ambient light. Each piece is handcrafted to order in our atelier using carefully selected fine papers. The subtly shimmering surface responds beautifully to changing light throughout the day, giving the lantern a slightly different character from morning to evening. Sixth Avenue | Rooftop | Matt Black USB rechargeable RGB+W light with remote control, allowing you to adjust the colour and atmosphere to suit your space. DimensionsL 10.5 cm × W 10.5 cm × H 37.5 cmApprox. L 4.1 in × W 4.1 in × H 14.8 in Made to heirloom quality, with the lighting component designed to be easily replaceable so the piece can be enjoyed for years to come.
-  Updated: 2026-10-14T21:49:04Z
+  Price: £162.00 GBP
+- [Sixth Avenue | Sculpture Lantern | Rooftop - Matt Black](https://www.norrska.com/products/sixth-avenue-sculpture-lantern-rooftop-matt-black): New York, New York Inspired by the unmistakable character of New York after dark, our New York Lantern collection explores two different sides of the city: Rooftop and Jazz Club. Rooftop takes its palette from the city at night, with deeper, moodier tones and shimmering surfaces that recall illuminated glass towers against a dark blue sky. Jazz Club is warmer and more intimate, with rich oranges and greens — the feeling of sitting somewhere late at night, swirling a glass of wine while Frank Sinatra’s New York, New York plays in the background. Designed with layers of intricate architectural detail, each lantern creates its own miniature cityscape when illuminated. Light travels through the windows and openings, bringing the façade to life and casting a warm atmospheric glow into the room. Rather than simply lighting a space, it introduces a small piece of New York’s nighttime character — somewhere between sculpture, architecture and ambient light. Each piece is handcrafted to order in our atelier using carefully selected fine papers. The subtly shimmering surface responds beautifully to changing light throughout the day, giving the lantern a slightly different character from morning to evening. Sixth Avenue | Rooftop | Matt Black Arrives flat-packed. No glue required. Crafted from the world’s finest papers, featuring excellent lightfastness and a beautifully shimmering surface. Lighting is not included. Rechargeable LED puck lights fit neatly inside the base. DimensionsL 10.5 cm × W 10.5 cm × H 37.5 cmApprox. L 4.1 in × W 4.1 in × H 14.8 in
+  Updated: 2026-11-21T03:49:16Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/new_york_rooftop_3-low.png?v=1791388883
-  Price: £230.00 GBP
-- [57th Street | Sculpture Lantern | Jazz Club - Lime Gold](https://www.norrska.com/products/57th-street-sculpture-lantern-jazz-club-lime-gold): New York, New York Inspired by the unmistakable character of New York after dark, our New York Lantern collection explores two different sides of the city: Rooftop and Jazz Club. Rooftop takes its palette from the city at night, with deeper, moodier tones and shimmering surfaces that recall illuminated glass towers against a dark blue sky. Jazz Club is warmer and more intimate, with rich oranges and greens — the feeling of sitting somewhere late at night, swirling a glass of wine while Frank Sinatra’s New York, New York plays in the background. Designed with layers of intricate architectural detail, each lantern creates its own miniature cityscape when illuminated. Light travels through the windows and openings, bringing the façade to life and casting a warm atmospheric glow into the room. Rather than simply lighting a space, it introduces a small piece of New York’s nighttime character — somewhere between sculpture, architecture and ambient light. Each piece is handcrafted to order in our atelier using carefully selected fine papers. The subtly shimmering surface responds beautifully to changing light throughout the day, giving the lantern a slightly different character from morning to evening. 57th Street | Jazz Club | Lime Gold USB rechargeable RGB+W light with remote control, allowing you to adjust the colour and atmosphere to suit your space. DimensionsL 11.5 cm × W 8.5 cm × H 54.5 cmApprox. L 4.5 in × W 3.3 in × H 21.5 in Made to heirloom quality, with the lighting component designed to be easily replaceable so the piece can be enjoyed for years to come.
-  Updated: 2026-10-14T21:49:05Z
+  Price: £138.00 GBP
+- [57th Street | Sculpture Lantern | Jazz Club - Lime Gold](https://www.norrska.com/products/57th-street-sculpture-lantern-jazz-club-lime-gold): New York, New York Inspired by the unmistakable character of New York after dark, our New York Lantern collection explores two different sides of the city: Rooftop and Jazz Club. Rooftop takes its palette from the city at night, with deeper, moodier tones and shimmering surfaces that recall illuminated glass towers against a dark blue sky. Jazz Club is warmer and more intimate, with rich oranges and greens — the feeling of sitting somewhere late at night, swirling a glass of wine while Frank Sinatra’s New York, New York plays in the background. Designed with layers of intricate architectural detail, each lantern creates its own miniature cityscape when illuminated. Light travels through the windows and openings, bringing the façade to life and casting a warm atmospheric glow into the room. Rather than simply lighting a space, it introduces a small piece of New York’s nighttime character — somewhere between sculpture, architecture and ambient light. Each piece is handcrafted to order in our atelier using carefully selected fine papers. The subtly shimmering surface responds beautifully to changing light throughout the day, giving the lantern a slightly different character from morning to evening. 57th Street | Jazz Club | Lime Gold Arrives flat-packed. No glue required. Crafted from the world’s finest papers, featuring excellent lightfastness and a beautifully shimmering surface. Lighting is not included. Rechargeable LED puck lights fit neatly inside the base. DimensionsL 11.5 cm × W 8.5 cm × H 54.5 cmApprox. L 4.5 in × W 3.3 in × H 21.5 in
+  Updated: 2026-11-21T03:48:46Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/newyorkjazzbargreen2low.png?v=1791388994
-  Price: £290.00 GBP
-- [Wall Street | Sculpture Lantern | Jazz Club - Ocean Green](https://www.norrska.com/products/wall-street-sculpture-lantern-jazz-club-ocean-green): New York, New York Inspired by the unmistakable character of New York after dark, our New York Lantern collection explores two different sides of the city: Rooftop and Jazz Club. Rooftop takes its palette from the city at night, with deeper, moodier tones and shimmering surfaces that recall illuminated glass towers against a dark blue sky. Jazz Club is warmer and more intimate, with rich oranges and greens — the feeling of sitting somewhere late at night, swirling a glass of wine while Frank Sinatra’s New York, New York plays in the background. Designed with layers of intricate architectural detail, each lantern creates its own miniature cityscape when illuminated. Light travels through the windows and openings, bringing the façade to life and casting a warm atmospheric glow into the room. Rather than simply lighting a space, it introduces a small piece of New York’s nighttime character — somewhere between sculpture, architecture and ambient light. Each piece is handcrafted to order in our atelier using carefully selected fine papers. The subtly shimmering surface responds beautifully to changing light throughout the day, giving the lantern a slightly different character from morning to evening. Wall Street | Jazz Club | Ocean Green USB rechargeable RGB+W light with remote control, allowing you to adjust the colour and atmosphere to suit your space. DimensionsL 16 cm × W 9.5 cm × H 29.5 cmApprox. L 6.3 in × W 3.7 in × H 11.6 in Made to heirloom quality, with the lighting component designed to be easily replaceable so the piece can be enjoyed for years to come.
-  Updated: 2026-10-14T21:49:05Z
+  Price: £174.00 GBP
+- [Wall Street | Sculpture Lantern | Jazz Club - Ocean Green](https://www.norrska.com/products/wall-street-sculpture-lantern-jazz-club-ocean-green): New York, New York Inspired by the unmistakable character of New York after dark, our New York Lantern collection explores two different sides of the city: Rooftop and Jazz Club. Rooftop takes its palette from the city at night, with deeper, moodier tones and shimmering surfaces that recall illuminated glass towers against a dark blue sky. Jazz Club is warmer and more intimate, with rich oranges and greens — the feeling of sitting somewhere late at night, swirling a glass of wine while Frank Sinatra’s New York, New York plays in the background. Designed with layers of intricate architectural detail, each lantern creates its own miniature cityscape when illuminated. Light travels through the windows and openings, bringing the façade to life and casting a warm atmospheric glow into the room. Rather than simply lighting a space, it introduces a small piece of New York’s nighttime character — somewhere between sculpture, architecture and ambient light. Each piece is handcrafted to order in our atelier using carefully selected fine papers. The subtly shimmering surface responds beautifully to changing light throughout the day, giving the lantern a slightly different character from morning to evening. Wall Street | Jazz Club | Ocean Green Arrives flat-packed. No glue required. Crafted from the world’s finest papers, featuring excellent lightfastness and a beautifully shimmering surface. Lighting is not included. Rechargeable LED puck lights fit neatly inside the base. DimensionsL 16 cm × W 9.5 cm × H 29.5 cmApprox. L 6.3 in × W 3.7 in × H 11.6 in
+  Updated: 2026-11-21T03:48:25Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/green1low.jpg?v=1791387156
-  Price: £230.00 GBP
-- [Sixth Avenue | Sculpture Lantern | Jazz Club - Emperor Red](https://www.norrska.com/products/sixth-avenue-sculpture-lantern-jazz-club-emperor-red): New York, New York Inspired by the unmistakable character of New York after dark, our New York Lantern collection explores two different sides of the city: Rooftop and Jazz Club. Rooftop takes its palette from the city at night, with deeper, moodier tones and shimmering surfaces that recall illuminated glass towers against a dark blue sky. Jazz Club is warmer and more intimate, with rich oranges and greens — the feeling of sitting somewhere late at night, swirling a glass of wine while Frank Sinatra’s New York, New York plays in the background. Designed with layers of intricate architectural detail, each lantern creates its own miniature cityscape when illuminated. Light travels through the windows and openings, bringing the façade to life and casting a warm atmospheric glow into the room. Rather than simply lighting a space, it introduces a small piece of New York’s nighttime character — somewhere between sculpture, architecture and ambient light. Each piece is handcrafted to order in our atelier using carefully selected fine papers. The subtly shimmering surface responds beautifully to changing light throughout the day, giving the lantern a slightly different character from morning to evening. Sixth Avenue | Jazz Club | Emperor Red USB rechargeable RGB+W light with remote control, allowing you to adjust the colour and atmosphere to suit your space. DimensionsL 10.5 cm × W 10.5 cm × H 37.5 cmApprox. L 4.1 in × W 4.1 in × H 14.8 in Made to heirloom quality, with the lighting component designed to be easily replaceable so the piece can be enjoyed for years to come.
-  Updated: 2026-10-14T21:49:05Z
+  Price: £138.00 GBP
+- [Sixth Avenue | Sculpture Lantern | Jazz Club - Emperor Red](https://www.norrska.com/products/sixth-avenue-sculpture-lantern-jazz-club-emperor-red): New York, New York Inspired by the unmistakable character of New York after dark, our New York Lantern collection explores two different sides of the city: Rooftop and Jazz Club. Rooftop takes its palette from the city at night, with deeper, moodier tones and shimmering surfaces that recall illuminated glass towers against a dark blue sky. Jazz Club is warmer and more intimate, with rich oranges and greens — the feeling of sitting somewhere late at night, swirling a glass of wine while Frank Sinatra’s New York, New York plays in the background. Designed with layers of intricate architectural detail, each lantern creates its own miniature cityscape when illuminated. Light travels through the windows and openings, bringing the façade to life and casting a warm atmospheric glow into the room. Rather than simply lighting a space, it introduces a small piece of New York’s nighttime character — somewhere between sculpture, architecture and ambient light. Each piece is handcrafted to order in our atelier using carefully selected fine papers. The subtly shimmering surface responds beautifully to changing light throughout the day, giving the lantern a slightly different character from morning to evening. Sixth Avenue | Jazz Club | Emperor Red Arrives flat-packed. No glue required. Crafted from the world’s finest papers, featuring excellent lightfastness and a beautifully shimmering surface. Lighting is not included. Rechargeable LED puck lights fit neatly inside the base. DimensionsL 10.5 cm × W 10.5 cm × H 37.5 cmApprox. L 4.1 in × W 4.1 in × H 14.8 in
+  Updated: 2026-11-21T03:48:08Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/red1low.jpg?v=1791387634
-  Price: £230.00 GBP
-- [Park Avenue | Sculpture Lantern | Jazz Club - Orange Gold](https://www.norrska.com/products/park-avenue-sculpture-lantern-jazz-club-orange-gold): New York, New York Inspired by the unmistakable character of New York after dark, our New York Lantern collection explores two different sides of the city: Rooftop and Jazz Club. Rooftop takes its palette from the city at night, with deeper, moodier tones and shimmering surfaces that recall illuminated glass towers against a dark blue sky. Jazz Club is warmer and more intimate, with rich oranges and greens — the feeling of sitting somewhere late at night, swirling a glass of wine while Frank Sinatra’s New York, New York plays in the background. Designed with layers of intricate architectural detail, each lantern creates its own miniature cityscape when illuminated. Light travels through the windows and openings, bringing the façade to life and casting a warm atmospheric glow into the room. Rather than simply lighting a space, it introduces a small piece of New York’s nighttime character — somewhere between sculpture, architecture and ambient light. Each piece is handcrafted to order in our atelier using carefully selected fine papers. The subtly shimmering surface responds beautifully to changing light throughout the day, giving the lantern a slightly different character from morning to evening. Park Avenue | Jazz Club | Orange Gold USB rechargeable RGB+W light with remote control, allowing you to adjust the colour and atmosphere to suit your space. DimensionsL 9.5 cm × W 9.5 cm × H 49.5 cmApprox. L 3.7 in × W 3.7 in × H 19.5 in Made to heirloom quality, with the lighting component designed to be easily replaceable so the piece can be enjoyed for years to come.
-  Updated: 2026-10-14T21:49:05Z
+  Price: £138.00 GBP
+- [Park Avenue | Sculpture Lantern | Jazz Club - Orange Gold](https://www.norrska.com/products/park-avenue-sculpture-lantern-jazz-club-orange-gold): New York, New York Inspired by the unmistakable character of New York after dark, our New York Lantern collection explores two different sides of the city: Rooftop and Jazz Club. Rooftop takes its palette from the city at night, with deeper, moodier tones and shimmering surfaces that recall illuminated glass towers against a dark blue sky. Jazz Club is warmer and more intimate, with rich oranges and greens — the feeling of sitting somewhere late at night, swirling a glass of wine while Frank Sinatra’s New York, New York plays in the background. Designed with layers of intricate architectural detail, each lantern creates its own miniature cityscape when illuminated. Light travels through the windows and openings, bringing the façade to life and casting a warm atmospheric glow into the room. Rather than simply lighting a space, it introduces a small piece of New York’s nighttime character — somewhere between sculpture, architecture and ambient light. Each piece is handcrafted to order in our atelier using carefully selected fine papers. The subtly shimmering surface responds beautifully to changing light throughout the day, giving the lantern a slightly different character from morning to evening. Park Avenue | Jazz Club | Orange Gold Arrives flat-packed. No glue required. Crafted from the world’s finest papers, featuring excellent lightfastness and a beautifully shimmering surface. Lighting is not included. Rechargeable LED puck lights fit neatly inside the base. DimensionsL 9.5 cm × W 9.5 cm × H 49.5 cmApprox. L 3.7 in × W 3.7 in × H 19.5 in
+  Updated: 2026-11-21T03:47:50Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/orange1low.jpg?v=1791387871
-  Price: £270.00 GBP
+  Price: £162.00 GBP
 - [Circus in the Sky | Mantel Clock](https://www.norrska.com/products/circus-in-the-sky-mantel-clock): Circus in the Sky High above the clouds, somewhere between distant planets, a circus comes to life. The latest addition to our Celestial Wonders collection, Circus in the Sky imagines acrobats performing among the stars. Illuminated from within, the clock becomes a miniature theatre, where shimmering surfaces catch the light and suspended figures appear to defy gravity. At its heart is a skeleton quartz movement, its exposed clockwork bringing the familiar rhythm of a ticking clock into this otherworldly scene. Drawing on the character of traditional mechanical clocks, the design combines contemporary architectural forms with the nostalgic charm of circus illustration. An object to enjoy by day and illuminate after dark, it brings a little wonder to the passing hours. Technical Specifications Clock movement: Powered by an AAA battery Lighting: USB rechargeable Maximum height: Approximately 44 cm / 17.3 inches Base: 10 × 10 cm / 3.9 x 3.9 inches Behind the Craft Crafted from some of the world’s most extraordinary papers, Circus in the Sky reveals its character through shimmering textures, reflective surfaces and the changing light. We combine these exceptional papers with board and wood, using our own mixed-material techniques developed through years of working with paper and understanding its nature. Each piece is carefully constructed to achieve heirloom quality: made to last a lifetime, to be treasured and passed down. Hand-cut acrobat illustrations bring character and playful movement to this miniature theatre. Made to order in very limited quantities, each clock reflects the care, patience and imagination behind its creation.
   Updated: 2026-11-12T14:45:19Z
   Vendor: Norrska
@@ -989,61 +982,61 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/3low.jpg?v=1792795743
   Price: £350.00 GBP
 - [The Early Bird](https://www.norrska.com/products/the-early-bird): Always the first out of bed and ready to go, even on Christmas morning. They’re usually wondering what’s taking everyone else so long. Here’s to the early birds! Part of our Celestial Wonders collection, The Early Bird invites you to rediscover your inner child—or celebrate the one you’ve never lost touch with. Entirely handmade in limited numbers, it comes in a beautifully presented box, ready to give to the early bird in your life—or keep for yourself! Dimensions (W × H × D): 12 × 17.5 × 7 cm / 4.72 × 6.89 × 2.76 in
-  Updated: 2026-11-06T23:48:43Z
+  Updated: 2026-11-15T20:15:25Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/rooster1low.jpg?v=1793461451
   Price: £85.00 GBP
 - [Crazy for Christmas](https://www.norrska.com/products/crazy-for-christmas): Every neighbourhood has one: someone who decorates every window, every corner, and still finds room for a few more lights. Just one more decoration, they say. Crazy for Christmas? Absolutely! Part of our Celestial Wonders collection, Crazy for Christmas invites you to rediscover your inner child—or celebrate the one you’ve never lost touch with. Entirely handmade in limited numbers, it comes in a beautifully presented box, ready to give to the early bird in your life—or keep for yourself! Design Year: 2026 Limited Edition of 30 Dimensions (W × H × D): 17 × 11 × 7 cm / 6.69 × 4.33 × 2.76 in
-  Updated: 2026-11-10T05:36:24Z
+  Updated: 2026-11-15T20:17:06Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/crazy1low.jpg?v=1793462220
   Price: £75.00 GBP
 - [Mum Won't Believe This](https://www.norrska.com/products/mum-wont-believe-this): Am I seeing things? That’s Santa, climbing down a ladder from the clouds towards our chimney! I knew I was on the nice list! But Mum won’t believe this… Part of our Celestial Wonders collection, Mum Won't Believe This invites you to rediscover your inner child—or celebrate the one you’ve never lost touch with. Entirely handmade in limited numbers, it comes in a beautifully presented box, ready to give to the early bird in your life—or keep for yourself! Design Year: 2026 Limited Edition of 30 Dimensions (W × H × D): 9 × 28 × 7 cm / 3.54 × 11.02 × 2.76 in Height including Santa: approx. 55 cm / 21.65 in Santa and the ladder can be separated from the house by taking them out of the chimney.
-  Updated: 2026-11-10T05:35:05Z
+  Updated: 2026-11-15T20:15:57Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/santa1low.jpg?v=1793462610
   Price: £115.00 GBP
 - [Countdown to Christmas](https://www.norrska.com/products/countdown-to-christmas): The countdown is on! Is it Christmas yet? Oh, it’s over already? Right, time to start again—only 364 days to go… Part of our Celestial Wonders collection, Countdown to Christmas invites you to rediscover your inner child—or celebrate the one you’ve never lost touch with. Entirely handmade in limited numbers, it comes in a beautifully presented box, ready to give to the early bird in your life—or keep for yourself! Design Year: 2026 Limited Edition of 30 Dimensions (W × H × D): 12 × 22 × 7 cm / 4.72 × 8.66 × 2.76 in Japanese quartz movement — battery included.
-  Updated: 2026-11-10T05:35:06Z
+  Updated: 2026-11-15T20:16:15Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/clock1low.jpg?v=1793463681
   Price: £95.00 GBP
 - [I Know a Place Nobody Knows](https://www.norrska.com/products/i-know-a-place-nobody-knows): I know a place nobody knows, high above the clouds… It sounds a little crazy, but wait until you see it. You won’t believe your eyes! Part of our Celestial Wonders collection, I Know a Place Nobody Knows invites you to rediscover your inner child—or celebrate the one you’ve never lost touch with. Entirely handmade in limited numbers, it comes in a beautifully presented box, ready to give to the early bird in your life—or keep for yourself! Design Year: 2026 Limited Edition of 30 Height: 44 cm / 17.32 in
-  Updated: 2026-11-10T16:38:36Z
+  Updated: 2026-11-17T02:52:49Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/celestialvillage9low.jpg?v=1793464260
+  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/moon1low.jpg?v=1793464259
   Price: £95.00 GBP
 - [Drabardi the Fortune Teller](https://www.norrska.com/products/drabardi-the-fortune-teller): DrabardiThe Fortune Teller Your unusual advent calendar. Drabardi has a few things to tell you about 2027. Expect a little wisdom, gentle warnings and some surprisingly personal observations. She has a sense of humour, too—although she takes her predictions very seriously. How it works Tell us a little about yourself.Complete the personalisation section above with a short introduction to yourself—or the person receiving Drabardi as a gift. Details about personality, interests and hopes for the year ahead help us prepare the fortunes. The information you share will be kept confidential. We prepare your 24 fortunes.Using those details, we create 24 individual messages about 2027 and include them with your Drabardi. Each set is personal to its recipient. Choose one note each day as the crystal ball turns.From 1 to 24 December, take one note at random while the crystal ball is rotating. The notes are unnumbered: let instinct guide your hand and choose whichever feels right. This is Drabardi’s little ritual—chance decides which message finds you that day. Unfold your fortune.Discover what Drabardi has to say. It might be an opportunity to look out for, a habit to reconsider or encouragement to try something you’ve been putting off. Keep your notes to revisit as 2027 unfolds. From 1 to 24 December, choose one fortune at random each day. Unfold it, read what Drabardi has to say, and let her words stay with you for a while. There is no set order; chance decides which message reaches you next. There is just one rule: one fortune a day. Read all 24 at once and, according to Drabardi, you’ll be cursed. We haven’t been brave enough to check. - The crystal ball draws its energy from one AA battery (not included). Add your own energy. - The string lights need a little energy too—they run on three AA batteries. A handcrafted curiosity Drabardi is a handcrafted statement piece, made to be displayed and enjoyed all year round. With her rotating crystal ball and knowing expression, she brings a curious presence to your home. During Advent, she has something personal to share: 24 fortunes about your 2027, written especially for you. Choose one at random each day as the crystal ball turns, and discover what she has to say. Made to order in England, each Drabardi takes approximately 20 hours to craft. Different materials and techniques come together in a detailed art piece, made with the patience a character like hers deserves. Only a very small number can be made each year. Once this year’s production is full, you can join the waiting list for the following Christmas. Your journey with Drabardi continues Drabardi is designed to stay with you for years to come. Monthly and quarterly fortune packs are coming soon, available to order separately so you can replenish her messages and continue your personal ritual beyond Advent. She will, undoubtedly, have more to say. Please note: Orders placed from 1 December 2026 onwards will be dispatched in January 2027 and will include a complimentary monthly fortune pack instead of an advent pack. The last order date for the 2026 Advent Pack is 20 November 2026.
-  Updated: 2026-11-12T14:17:21Z
+  Updated: 2026-11-15T20:17:21Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/drabardi_8_low.jpg?v=1793490505
   Price: £555.00 GBP
 - [Stars of an Undiscovered Universe | Tabletop Decorations](https://www.norrska.com/products/stars-of-an-undiscovered-universe-tabletop-decorations): These stars are not from our galaxy. They come from a quirky, undiscovered universe far, far away, where the laws of physics don’t apply and every star has its own unusual shape. Use these star cut-outs to decorate your mantel, Christmas tree or table, or in ways we haven’t even thought of. We’ll leave the rest to your imagination, so you can add a little magic to any space. Crafted from premium heavyweight paper with a beautiful shimmer. 4 × A4 sheets of star cut-outs in different sizes Stars can be joined together in different ways Simply punch a hole to use them as tree decorations Each pack easily fills a fireplace mantel
-  Updated: 2026-11-07T11:24:06Z
+  Updated: 2026-11-21T17:02:57Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/starslow5.jpg?v=1794005951
-  Price: £25.00 GBP
+  Price: £24.00 GBP
 - [A Galaxy Far, Far Away | Set of 2 Lanterns](https://www.norrska.com/products/a-galaxy-far-far-away-set-of-2-lanterns): A galaxy far, far away. But still close enough to visit in your dreams. This set of two lanterns is designed to bring magic to your space with a beautiful glow. Each one is an art piece in its own right, even when unlit. Arrives pre-assembled and packed flat. No glue required. Lights are not included. Battery-operated or rechargeable puck lights are recommended. Crafted from premium, heavyweight, acid-free watercolour paper.
-  Updated: 2026-11-11T20:54:46Z
+  Updated: 2026-11-20T06:20:04Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/starlanternlow11.png?v=1794094314
-  Price: £45.00 GBP
+  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/starlanternlow11.jpg?v=1794009765
+  Price: £44.00 GBP
 - [Drabardi Fortune Packs | Available from January 2027](https://www.norrska.com/products/drabardi-fortune-packs-available-from-january-2027): Drabardi Has More to Tell You Drabardi is an unusual celebration of life, a cabinet of curiosities and a curious little companion on your journey through it. “Life rarely happens exactly as you expect. But that doesn't mean you shouldn't expect wonderful things,” says Drabardi. Believe in the things you wish to bring into your life, and occasionally ask her: What comes next? Of course, not every prediction will be wonderful. There may be gentle warnings, unexpected turns and a little advice you didn't know you needed. But Drabardi believes life is far too short to worry about every little misfortune. Sometimes, the best thing you can do is laugh, learn and carry on. And remember, Drabardi has a sense of humour, although she takes her predictions very seriously. A Little More Wisdom from Drabardi Drabardi's story doesn't end with Christmas. She has plenty more to tell you throughout the year. These physical fortune packs are created exclusively for existing Drabardi owners. Each collection contains new, individually written predictions, thoughtful advice, gentle warnings and occasionally some rather peculiar observations. Every pack is personally prepared for its recipient, continuing the unique relationship between Drabardi and her owner. Please include your unique Drabardi ID in the order notes so we can identify your original Drabardi and prepare your new fortunes. 15 Fortunes | A Month with Drabardi A little wisdom to accompany you throughout the month. Open a fortune whenever you feel curious about what might come next. Perhaps you'll find some useful advice, a little reassurance or something completely unexpected. 45 Fortunes | A Season with Drabardi A whole season of predictions, curious observations and little surprises. Designed to accompany you over three months, with a new fortune to discover every couple of days, or whenever you feel the need to consult Drabardi. One Very Important Rule One fortune a day. No exceptions. Drabardi does not appreciate impatience, and you really don't want to find out why.
   Updated: 2026-11-12T11:48:18Z
   Vendor: Norrska
@@ -1068,71 +1061,68 @@
 ## Collections
 
 - [Christmas Decorations](https://www.norrska.com/collections/christmas-decorations): Create the perfect holiday atmosphere with modern, unique Christmas decorations from Norrska. Our collection helps you easily bring warmth and style to your home, making this season unforgettable. Let us help you design a space that feels just right for you.
-  Updated: 2026-11-15T00:55:25Z
+  Updated: 2026-11-22T12:28:35Z
   Total Products: 86
 - [Halloween Decorations](https://www.norrska.com/collections/halloween-decorations): Set the mood for a spooky season with Norrska’s unique Halloween decorations. Our collection makes it easy to transform your space into a haunted haven, blending style with fun. Let us help you create the perfect atmosphere for a memorable Halloween.
-  Updated: 2026-11-12T12:26:26Z
+  Updated: 2026-11-15T12:23:09Z
   Total Products: 12
 - [Nordic Collection](https://www.norrska.com/collections/nordic-decorations): Transform your home with timeless style using Norrska’s Nordic decorations. Our collection brings simplicity, elegance, and warmth to your space, helping you create a cozy, modern atmosphere. Let us help you design a home that feels both inviting and unique.
-  Updated: 2026-11-14T12:23:59Z
+  Updated: 2026-11-20T12:30:41Z
   Total Products: 12
 - [Christmas Specials](https://www.norrska.com/collections/best-sellers): Shop our best-sellers: unique, handmade decor loved by our customers. Thoughtfully designed, beautifully crafted.
-  Updated: 2026-11-15T00:55:25Z
+  Updated: 2026-11-22T12:28:35Z
   Total Products: 39
 - [](https://www.norrska.com/collections/)
-  Updated: 2026-11-07T12:27:53Z
-  Total Products: 2
+  Updated: 2026-11-22T12:28:35Z
+  Total Products: 19
 - [Homeware](https://www.norrska.com/collections/homeware): Enhance your everyday spaces with simplicity and purpose. Our Homeware collection includes thoughtfully crafted paper trays, boxes, and organizers designed for modern, minimalist living. Each piece combines refined aesthetics with functional design, crafted from high-quality materials that are both lightweight and durable, and sustainably produced.
-  Updated: 2026-11-08T12:22:23Z
+  Updated: 2026-11-22T12:28:35Z
   Total Products: 44
 - [Organisers & Storage Boxes](https://www.norrska.com/collections/organisers-storage-boxes): Keep your space tidy with our eco-friendly Organisers and Storage Boxes, crafted from durable, recyclable paper materials. Designed with a minimalist Nordic aesthetic, these stylish storage solutions are perfect for desks, shelves, and drawers in both home and office settings. Whether you're sorting stationery, documents, or small household items, our paper-based organisers combine form and function for clutter-free living. Made in England using sustainable practices, they're the ideal choice for conscious, modern living.
   Updated: 2026-10-14T21:48:34Z
   Total Products: 12
 - [Christmas Trees](https://www.norrska.com/collections/christmas-trees): Tabletop Christmas Tree Decorations: Festive Flair for Any Space Transform your home into a winter wonderland with our delightful collection of tabletop Christmas tree decorations. Perfect for adding festive cheer to smaller spaces, offices, dorm rooms, or as an extra touch of holiday magic in any room, these charming ornaments are designed to adorn your miniature tree with style.
-  Updated: 2026-11-14T12:23:59Z
+  Updated: 2026-11-17T12:25:50Z
   Total Products: 15
 - [Christmas Villages](https://www.norrska.com/collections/christmas-villages): Crafting the World's Most Fascinating and Magical Christmas Villages Step into a world of enchanting holiday wonder with Norrska, where architectural precision meets festive imagination. Renowned for their exquisite handcrafted paper creations, Norrska brings a unique blend of Nordic design and global inspiration to your Christmas celebrations, creating decorations that are truly fascinating and magical.
-  Updated: 2026-11-13T12:25:15Z
+  Updated: 2026-11-22T12:28:35Z
   Total Products: 34
 - [Christmas Ornaments](https://www.norrska.com/collections/christmas-ornaments): Bring a touch of artisanal charm and unique character to your holiday display with our exquisite paper mache ornaments. Our paper mache ornaments are more than just baubles; they are miniature works of art that add warmth and personality to any Christmas tree, garland, or festive arrangement. Eco-friendly and beautifully tactile, these ornaments are a testament to the beauty of handmade craftsmanship, promising to become cherished heirlooms for years to come.
-  Updated: 2026-11-15T00:55:25Z
+  Updated: 2026-11-22T12:28:35Z
   Total Products: 23
 - [Vases & Bowls](https://www.norrska.com/collections/vases-bowls): Vases & Bowls: Elevate Your Every Day Curated by architects to elevate your space, with carefully chosen sustainable materials and craftsmanship. Explore our beautiful selection of vases and bowls, ideal for completing any room. Whether as elegant centrepieces or charming decorative accents, discover the perfect piece to display your favourite flowers or stand alone as a style statement. Find unique textures, colours, and shapes crafted to suit every interior.
-  Updated: 2026-11-06T12:24:13Z
+  Updated: 2026-11-20T17:09:46Z
   Total Products: 18
 - [Paper Chains](https://www.norrska.com/collections/paper-chains): Paper chain garlands are sustainable, endlessly versatile and perfect for wrapping trees, draping mantels, or brightening kids’ rooms with festive cheer.
-  Updated: 2026-11-09T12:25:50Z
+  Updated: 2026-11-22T12:28:35Z
   Total Products: 5
 - [Greeting Cards](https://www.norrska.com/collections/christmas-cards-stationery)
   Updated: 2026-11-03T12:28:31Z
   Total Products: 19
 - [Candles & Candle Holders](https://www.norrska.com/collections/candles-candle-holders): Are you aware that candles made from paraffin are cleaner than candles made from pure stearin?Vance Kitira Timber® Candles are poured from ‘premium food grade’ paraffin and produced with 100% cotton wicks. This is paraffin  for use in the food industry, fully refined and the cleanest paraffin on the market. A pure and clear paraffin which is completely cleansed for impurities and used in foods like cheese, chocolate and cake etc. The result is a incredible beautiful candle, with a unique warm glow and exceptionel long burn hours.
-  Updated: 2026-10-18T11:22:08Z
+  Updated: 2026-11-20T17:09:47Z
   Total Products: 6
-- [Recommended Products](https://www.norrska.com/collections/recommended-products)
-  Updated: 2026-11-08T12:22:23Z
-  Total Products: 4
 - [White Wonderland](https://www.norrska.com/collections/white-wonderland): Experience the breathtaking white elegance of Norrska's all-white Christmas collection. This exquisite lineup allows you to craft a stunningly pure white Christmas scene, featuring architect-designed Christmas villages that bring a touch of sophistication to your decor. Each village is meticulously crafted to showcase intricate details, creating a picturesque winter wonderland. Complement your display with our specially curated Christmas collection to enhance the serene beauty of a white holiday ambience.
-  Updated: 2026-11-13T12:25:15Z
+  Updated: 2026-11-22T12:28:35Z
   Total Products: 22
 - [Red Christmas](https://www.norrska.com/collections/red-christmas): Explore our enchanting collection of cherry red Christmas villages that beautifully blend timeless tradition with contemporary design. Inspired by the classic essence of a red Christmas, each piece captures the warm, nostalgic spirit of the holiday season while incorporating modern aesthetics and craftsmanship. If you cherish the charm of traditional red decorations, this curated collection is perfect for you, offering a vibrant and festive twist to your holiday decor. Embrace the joy of the season with these stunning pieces that evoke cherished memories and bring a touch of elegance to your Christmas celebrations.
-  Updated: 2026-11-14T12:23:59Z
+  Updated: 2026-11-20T17:50:34Z
   Total Products: 21
 - [Holly Jolly](https://www.norrska.com/collections/holly-jolly): Experience a Holly Jolly Christmas like never before! This specially curated collection is designed for those seeking the ultimate festive spirit. Packed with vibrant and playful items that evoke joy and inspiration, it captures the essence of youth and enthusiasm. Expect a delightful mix of quirky decorations, cheerful gifts, and uplifting holiday décor that will add a fun twist to your celebrations! Embrace the magic of the season with everything you need to create unforgettable holiday memories.
-  Updated: 2026-11-15T00:55:25Z
+  Updated: 2026-11-22T12:28:35Z
   Total Products: 28
 - [Nordic Grey](https://www.norrska.com/collections/nordic-grey): Discover Norrska's enchanting classic Nordic Grey Christmas villages, where the beauty of winter comes to life. Each village showcases a harmonious blend of elegant white structures and soft grey accents, creating a tranquil and balanced aesthetic that captures the essence of Nordic design. As you wander through these charming landscapes, you'll be mesmerized by the intricate details of the architecture, the twinkling lights adorning the rooftops, and the gentle contrast between the pure snow and the muted tones of the buildings. Experience the magic of the season as you immerse yourself in this picturesque retreat, perfect for celebrating the festivities in style.
-  Updated: 2026-11-13T12:25:15Z
+  Updated: 2026-11-20T17:46:20Z
   Total Products: 37
 - [Stationery](https://www.norrska.com/collections/stationery): Stationery items, notebooks, travel journals and cards.
-  Updated: 2026-11-13T12:25:15Z
+  Updated: 2026-11-17T12:25:50Z
   Total Products: 31
 - [Travel Journals](https://www.norrska.com/collections/travel-journals): Unique travel journals with beautifully cut map covers, personalised with your own text. A meaningful gift for anniversaries, honeymoons, weddings, graduations, or any travel lover.
-  Updated: 2026-11-13T12:25:15Z
+  Updated: 2026-11-17T12:25:50Z
   Total Products: 19
 - [Gifts](https://www.norrska.com/collections/gifts)
-  Updated: 2026-11-13T12:25:15Z
-  Total Products: 33
+  Updated: 2026-11-17T12:25:50Z
+  Total Products: 31
 - [The Bloom Series](https://www.norrska.com/collections/spring-summer-2026): The Bloom Series features a botanical twist, ranging from wildflower patterns to heritage spring floral designs, alongside our signature architect-designed models. Crafted from premium watercolour paper, each house boasts delicate, floral-patterned roofs and our innovative no-glue assembly.
   Updated: 2026-11-05T12:29:14Z
   Total Products: 14
@@ -1143,29 +1133,35 @@
   Updated: 2026-10-14T21:48:36Z
   Total Products: 8
 - [Latest Designs](https://www.norrska.com/collections/latest-designs): Fresh from our studio - discover Norrska's newest architect-designed paper decorations. Each piece is handcrafted in England using premium sustainable materials, bringing contemporary Nordic charm to your home.
-  Updated: 2026-11-14T12:23:59Z
+  Updated: 2026-11-22T12:28:35Z
   Total Products: 41
 - [Architectural Forms](https://www.norrska.com/collections/architectural-forms): Designed by architects and crafted from the world's finest and most innovative papers, Norrska's collection offers a unique tactile experience unlike any other material. Discover a world where timeless craftsmanship, sustainability, and contemporary design come together.
-  Updated: 2026-11-14T12:23:59Z
+  Updated: 2026-11-21T12:31:36Z
   Total Products: 35
 - ['O Panaro](https://www.norrska.com/collections/o-panaro): Inspired by Neapolitan architecture, from the neighbourhoods of the Quartieri Spagnoli to the Centro Storico, where the culture of 'o panaro is a huge part of daily life. While no one knows exactly where the tradition started, it's thought to have roots in Roman times as a clever solution to multi-story apartment living. Put simply, by lowering a wicker basket on a rope from your balcony, you can grab your groceries or daily essentials without ever stepping foot outside. It’s incredibly practical, especially for the elderly or anyone with limited mobility.The 'o panaro (Neapolitan for a wicker basket) isn’t just found in Naples, though. You can spot this exact same basket lowering custom right across the Mediterranean—from Italy and Malta to Greece, Turkey, and all the way over to Egypt, especially in Cairo.
-  Updated: 2026-11-13T12:25:15Z
+  Updated: 2026-11-21T12:31:36Z
   Total Products: 9
 - [The Aqueduct](https://www.norrska.com/collections/the-aqueduct): The Aqueduct Vase Series Inspired by Roman architecture, this new vase collection is designed to elevate dry flowers in an upright, sculptural form. Crafted from a blend of wood and natural pulp, each piece carries a subtle, beautiful wood fragrance that gently fills the room with a fresh, calming scent.
   Updated: 2026-11-07T22:20:27Z
   Total Products: 4
 - [Architecture Collection](https://www.norrska.com/collections/architecture-collection): Explore distinctive architectural designs inspired by iconic buildings, urban landscapes and modernist forms. Thoughtfully crafted pieces that bring architectural beauty into your home.
-  Updated: 2026-11-14T12:23:59Z
+  Updated: 2026-11-21T12:31:36Z
   Total Products: 48
 - [New York, New York](https://www.norrska.com/collections/new-york-new-york): Inspired by New York’s iconic skyline after dark, the New York Lanterns are available in two distinct colourways, each capturing a different side of the city. Rooftop is built around deep navy and darker tones, with subtly shimmering papers that reflect the atmosphere of the city at night. Jazz Club takes a warmer direction, combining rich oranges and greens to evoke the intimate, inviting mood of New York’s jazz clubs and their late-night melodies. Two palettes, two different characters of New York.
-  Updated: 2026-11-07T18:18:41Z
+  Updated: 2026-11-21T12:31:36Z
   Total Products: 8
 - [Celestial Wonders](https://www.norrska.com/collections/celestial-wonders): Discover a world of celestial-inspired decorations, where imaginative designs and intricate details bring a little magic to your home.
-  Updated: 2026-11-15T00:55:25Z
+  Updated: 2026-11-22T12:28:35Z
   Total Products: 21
 - [Christmas Homeware](https://www.norrska.com/collections/christmas-homeware)
-  Updated: 2026-11-04T15:24:25Z
+  Updated: 2026-11-20T17:09:47Z
   Total Products: 8
+- [All Designs](https://www.norrska.com/collections/all): Explore all our designs, from architectural home décor and decorative lanterns to journals and unique paper creations. Discover something special for your home or as a thoughtful gift.
+  Updated: 2026-11-22T12:28:35Z
+  Total Products: 172
+- [Limited Time Offers](https://www.norrska.com/collections/limited-time-offers): Our only offers of the year. Discover selected Norrska designs at special prices, available for a short time and in limited quantities. If you’ve had your eye on a particular piece, this is the moment to make it yours. Our limited edition artworks are excluded from all offers and are never discounted.
+  Updated: 2026-11-22T12:28:35Z
+  Total Products: 31
 
 ## Blogs
 
