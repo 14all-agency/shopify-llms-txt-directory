@@ -8,12 +8,12 @@
 - Timezone: Australia/Melbourne
 - Created At: 2021-03-17T00:53:52Z
 - Contact Email: contact@thetownroaster.com.au
-- Updated At: 2026-11-15T00:36:06.791Z
+- Updated At: 2026-11-23T00:36:00.271Z
 
 ## Products
 
 - [Big Easy Espresso Blend coffee beans at The Town Roaster](https://www.thetownroaster.com.au/products/big-easy-espresso-blend): Buy our most popular coffee, Big Easy Espresso Blend coffee beans from The Town Roaster. A rich coffee with a sweet chocolate finish. Free Delivery for orders over $30.
-  Updated: 2026-11-14T19:40:26Z
+  Updated: 2026-11-22T20:47:26Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -73,7 +73,7 @@
     Availability: Available
     Price: $68.00 AUD
 - [Coffee Espresso Blend Subscription at The Town Roaster](https://www.thetownroaster.com.au/products/espresso-blend-subscription): Never run out of coffee again with Espresso Blend Subscription coffee beans from The Town Roaster. With Free Delivery for all subscriptions.
-  Updated: 2026-11-10T21:04:38Z
+  Updated: 2026-11-21T04:07:27Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -133,7 +133,7 @@
     Availability: Available
     Price: $62.00 AUD
 - [Coffee Single Origin Espresso Subscription at The Town Roaster](https://www.thetownroaster.com.au/products/single-origin-espresso-subscription): Never run out of coffee again with Single Origin Espresso Roast Subscription coffee beans from The Town Roaster. With Free Delivery for all subscriptions.
-  Updated: 2026-11-13T23:20:56Z
+  Updated: 2026-11-20T20:46:17Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -193,28 +193,28 @@
     Availability: Available
     Price: $73.00 AUD
 - [Coffee Filters Hario V60 01 Filters at The Town Roaster](https://www.thetownroaster.com.au/products/hario-v60-01-filters): Buy Hario V60 01 Filters  for pourover coffee from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-10-31T23:40:35Z
+  Updated: 2026-11-19T23:31:37Z
   Vendor: The Town Roaster
   Product Type: Coffee Filters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/01_V60_40_filters.png?v=1774053468
   Price: $6.60 AUD
 - [Coffee Filters Hario V60 02 Filters at The Town Roaster](https://www.thetownroaster.com.au/products/hario-v60-02-filters): Buy Hario V60 02 Filters for pourover coffee from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-10-31T23:40:16Z
+  Updated: 2026-11-19T22:27:22Z
   Vendor: The Town Roaster
   Product Type: Coffee Filters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/02_V60_40_filters.png?v=1774053426
   Price: $6.60 AUD
 - [Coffee Filters AeroPress Micro Filters at The Town Roaster](https://www.thetownroaster.com.au/products/aeropress-micro-filters): Buy AeroPress Micro Filters, 350 pack, from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-10-31T23:40:05Z
+  Updated: 2026-11-20T08:50:41Z
   Vendor: The Town Roaster
   Product Type: Coffee Filters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/Aeropress_Filters.png?v=1774053346
   Price: $16.50 AUD
 - [Colombia Manos Juntas](https://www.thetownroaster.com.au/products/colombia-manos-juntas): There are currently eight producers participating in the Manos Juntas program, each one a smallholder with 1–2 hectares of coffee.
-  Updated: 2026-11-12T20:43:26Z
+  Updated: 2026-11-20T21:59:16Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -274,7 +274,7 @@
     Availability: Available
     Price: $91.00 AUD
 - [Colombia Popayan Decaf coffee beans at The Town Roaster](https://www.thetownroaster.com.au/products/colombia-decaf): Buy Colombia Popayan Decaf coffee beans from The Town Roaster. This coffee is nicely balanced with a chocolate sweetness. With Free Delivery for orders over $30.
-  Updated: 2026-11-11T16:24:46Z
+  Updated: 2026-11-22T09:08:26Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -334,21 +334,21 @@
     Availability: Available
     Price: $78.00 AUD
 - [Coffee Filters Moccamaster #1 Filters at The Town Roaster](https://www.thetownroaster.com.au/products/moccamaster-1-filters): Buy Moccamaster No 1 Filters from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-10-31T23:39:35Z
+  Updated: 2026-11-19T21:23:48Z
   Vendor: The Town Roaster
   Product Type: Coffee Filters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/Mocca_1.png?v=1774053274
   Price: $19.80 AUD
 - [Coffee Filters Moccamaster #4 Filters at The Town Roaster](https://www.thetownroaster.com.au/products/moccamaster-4-filters): Buy Moccamaster No 4 Filters from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-10-31T23:39:15Z
+  Updated: 2026-11-19T23:31:40Z
   Vendor: The Town Roaster
   Product Type: Coffee Filters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/Mocca4-1.png?v=1774053234
   Price: $19.80 AUD
 - [Huskee 6oz Reusable Cup with Lid at The Town Roaster](https://www.thetownroaster.com.au/products/huskee-6oz-reusable-cup-with-lid): Buy sustainable Huskee 6oz Reusable Cup with Lid from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-10-08T01:49:46Z
+  Updated: 2026-11-20T03:29:31Z
   Vendor: The Town Roaster
   Product Type: Coffee cup
   Availability: Available
@@ -360,7 +360,7 @@
     Availability: Available
     Price: $18.00 AUD
 - [Huskee 8oz Reusable Cup with Lid at The Town Roaster](https://www.thetownroaster.com.au/products/huskee-8oz-reusable-cup-with-lid): Buy sustainable Huskee 8oz Reusable Cup with Lid from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-10-27T01:19:11Z
+  Updated: 2026-11-19T21:23:48Z
   Vendor: The Town Roaster
   Product Type: 
   Availability: Available
@@ -372,7 +372,7 @@
     Availability: Available
     Price: $20.00 AUD
 - [Coffee cup Huskee 12oz Reusable Cup with Lid at The Town Roaster](https://www.thetownroaster.com.au/products/huskee-12oz-reusable-cup-with-lid): Buy Huskee 12oz Reusable Cup with Lid from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-06-05T00:49:28Z
+  Updated: 2026-11-20T00:17:12Z
   Vendor: The Town Roaster
   Product Type: Coffee cup
   Availability: Available
@@ -426,7 +426,7 @@
     Availability: Available
     Price: $45.00 AUD
 - [AeroPress Coffee Maker at The Town Roaster](https://www.thetownroaster.com.au/products/aeropress-coffee-maker): Buy AeroPress Coffee Maker from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-07-17T09:14:10Z
+  Updated: 2026-11-20T00:31:16Z
   Vendor: The Town Roaster
   Product Type: Coffee Makers & Espresso Machines
   Availability: Available
@@ -447,7 +447,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/Hario_Tritan_02_Dripper.jpg?v=1793491479
   Price: $24.20 AUD
 - [Coffee Beans Spring Blend at The Town Roaster](https://www.thetownroaster.com.au/products/spring-blend): Buy Seasonal Spring Espresso Blend from The Town Roaster. Rich and sweet coffee great with milk or black. With Free Delivery for orders over $30.
-  Updated: 2026-11-10T00:47:16Z
+  Updated: 2026-11-19T19:35:15Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -507,7 +507,7 @@
     Availability: Available
     Price: $70.00 AUD
 - [Coffee Prepaid Gift Subscription at The Town Roaster](https://www.thetownroaster.com.au/products/big-easy-gift-subscription): Buy Prepaid Coffee Gift Subscription - Big Easy Espresso Blend coffee beans from The Town Roaster. With Free Delivery for all subscriptions.
-  Updated: 2026-09-22T04:34:07Z
+  Updated: 2026-11-19T22:50:58Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -658,7 +658,7 @@
     Availability: Available
     Price: $73.00 AUD
 - [Organic Espresso Blend coffee beans at The Town Roaster](https://www.thetownroaster.com.au/products/organic-blend): Buy Organic Espresso Blend coffee beans from The Town Roaster. Sourced from Fair-Trade & Organic coffee producers. With Free Delivery for orders over $30.
-  Updated: 2026-11-10T22:48:24Z
+  Updated: 2026-11-22T23:05:57Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -725,14 +725,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/SttokeCup8oz.jpg?v=1771971595
   Price: $47.00 AUD
 - [Coffee Filters Hario V60 02 Filters 100 Pack at The Town Roaster](https://www.thetownroaster.com.au/products/hario-v60-02-filters-100): Buy Hario V60 02 White Paper Filters 100 Pack for pour-over from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-09-24T22:26:15Z
+  Updated: 2026-11-20T00:31:13Z
   Vendor: The Town Roaster
   Product Type: Coffee Filters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/02_V60_100_filters.png?v=1773198746
   Price: $16.50 AUD
 - [Coffee beans AM-PM Coffee Kit at The Town Roaster](https://www.thetownroaster.com.au/products/am-pm-coffee-kit): Buy AM-PM Coffee Kit from The Town Roaster to have your morning and afternoon coffee covered. With Free Delivery for orders over $30.
-  Updated: 2026-05-04T23:01:27Z
+  Updated: 2026-11-20T02:28:29Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -816,7 +816,7 @@
     Availability: Available
     Price: $83.00 AUD
 - [Coffee beans Costa Rica Finca Don Jose at The Town Roaster](https://www.thetownroaster.com.au/products/costa-rica-finca-don-jose): Buy Costa Rica Finca Don Jose Light Espresso Roast Single Origin coffee beans from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-11-12T20:43:24Z
+  Updated: 2026-11-16T21:05:21Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -888,7 +888,7 @@
     Availability: Available
     Price: $38.00 AUD
 - [Cascara Tea 100gm](https://www.thetownroaster.com.au/products/cascara-tea): Cascara is the Spanish word used to describe the dried pulp of the coffee cherry once it is removed from the seed, which is used to make a tea-like infusion.
-  Updated: 2026-11-13T03:10:26Z
+  Updated: 2026-11-21T21:33:13Z
   Vendor: The Town Roaster
   Product Type: 
   Availability: Available
@@ -902,7 +902,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/Keychain.jpg?v=1792468598
   Price: $15.00 AUD
 - [Filter roast coffee Ethiopia Abel Guribea at The Town Roaster](https://www.thetownroaster.com.au/products/ethiopia-abel-guribea-filter-roast): Buy Ethiopia Abel Guribeafrom The Town Roaster. Ethiopian Single Origin Filter Roast coffee beans from Hambela. With Free Delivery for orders over $30.
-  Updated: 2026-11-10T22:48:44Z
+  Updated: 2026-11-19T19:35:15Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -965,13 +965,13 @@
 ## Collections
 
 - [Coffee Beans](https://www.thetownroaster.com.au/collections/products): Buy coffee beans online from The Town Roaster. Espresso blends, Single Origins and Filter Roast coffee beans available.
-  Updated: 2026-11-14T12:06:20Z
-  Total Products: 40
+  Updated: 2026-11-22T12:07:15Z
+  Total Products: 41
 - [Coffee Subscriptions](https://www.thetownroaster.com.au/collections/subscriptions): Buy The Town Roaster Coffee Subscription and never run out of coffee
-  Updated: 2026-11-14T12:06:20Z
+  Updated: 2026-11-22T12:07:15Z
   Total Products: 7
 - [Equipment](https://www.thetownroaster.com.au/collections/equipment): Filter papers and reuasble cups for your coffee making needs.
-  Updated: 2026-11-01T00:13:16Z
+  Updated: 2026-11-16T12:07:20Z
   Total Products: 16
 - [Gifts](https://www.thetownroaster.com.au/collections/gifts): The Town Roaster gift ideas for the coffee lovers in your life
   Updated: 2026-10-20T04:05:40Z
