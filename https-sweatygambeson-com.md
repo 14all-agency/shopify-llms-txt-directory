@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-06-04T23:01:09Z
 - Contact Email: jeremymcanally@gmail.com
-- Updated At: 2026-11-15T00:28:13.079Z
+- Updated At: 2026-11-23T00:22:47.471Z
 
 ## Products
 
@@ -79,7 +79,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/all-over-print-womens-rash-guard-white-front-6a2242ad26161.png?v=1780630199
     Price: $50.00 USD
 - [Dancing Corpse Tee](https://sweatygambeson.com/products/dancing-corpse-tee): Pseudo-Hans Döbringer may have mocked flamboyant fencing instructors as Leichmeisters (a play on dance/corpse masters), but we all know the core of all fencing is to be fancy. This is the heaviest, boxiest tee we have, built to outlive its wearer (low bar, given the artwork).
-  Updated: 2026-11-09T18:53:52Z
+  Updated: 2026-11-16T13:01:06Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -113,7 +113,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/mens-box-tee-vintage-black-back-6a28bac7d2d1a.png?v=1781054180
     Price: $35.00 USD
   - [Parchment / S](https://sweatygambeson.com/products/dancing-corpse-tee?variant=44213976334424)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/mens-box-tee-vintage-white-back-6a28bb83d8ccc.png?v=1781054352
     Price: $28.00 USD
   - [Parchment / M](https://sweatygambeson.com/products/dancing-corpse-tee?variant=44213976367192)
@@ -866,7 +866,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/corduroy-hat-camel-right-front-6a29cffb5a29c.png?v=1781125131
     Price: $24.00 USD
 - [Dancing Corpse Hat](https://sweatygambeson.com/products/dancing-corpse-hat): Pseudo-Hans Döbringer may have mocked flamboyant fencing instructors as Leichmeisters (a play on dance/corpse masters), but we all know the core of all fencing is to be fancy.
-  Updated: 2026-08-29T01:21:09Z
+  Updated: 2026-11-19T07:42:46Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -905,7 +905,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/otto-cap-18-772-dusty-rose-right-front-6a2af183646cd.png?v=1781199253
     Price: $24.00 USD
 - [Mordhau Tee](https://sweatygambeson.com/products/mordhau-tee): The most metal of all longsword techniques. The murder-stroke: history's most polite way to ruin a helmet.
-  Updated: 2026-08-29T01:21:10Z
+  Updated: 2026-11-19T07:42:46Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1029,7 +1029,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-sage-front-6a2b7eb8afdb1.png?v=1781235401
     Price: $32.00 USD
 - [Plateful of Meyer Tee](https://sweatygambeson.com/products/meyer-plate-l-tee): Joachim Meyer left more longsword material than any sane person could drill in a lifetime, so we're serving him by the plateful. This shirt features a rendering of Plate L from Meyer’s manual.
-  Updated: 2026-08-29T01:21:10Z
+  Updated: 2026-11-19T07:42:45Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1700,14 +1700,14 @@
   Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/embroidered-patches-black-rectangle-3.5x2.25-front-6a34a131ea0e7.png?v=1781834039
   Price: $12.00 USD
 - [Historically Accurate  Enthusiast Patch (Iron-On/Sew-On)](https://sweatygambeson.com/products/historically-accurate--enthusiast-patch-iron-on-sew-on): You don't do . You do historically documented , with footnotes. Sew it on and watch the fear enter everyone’s eyes.
-  Updated: 2026-08-29T01:21:16Z
+  Updated: 2026-11-19T07:42:45Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/embroidered-patches-black-square-3x3-front-6a340b5f03dcd.png?v=1781795701
   Price: $12.00 USD
 - [Fühlen Güd Patch (Iron-On/Sew-On)](https://sweatygambeson.com/products/fuhlen-gud-patch-iron-on-sew-on): Feel the bind, feel güd, feel free to iron this onto something.
-  Updated: 2026-08-29T01:21:16Z
+  Updated: 2026-11-19T07:42:42Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1863,19 +1863,19 @@
 ## Collections
 
 - [Home page](https://sweatygambeson.com/collections/frontpage)
-  Updated: 2026-07-18T12:48:41Z
+  Updated: 2026-11-19T12:20:16Z
   Total Products: 9
 - [Apparel](https://sweatygambeson.com/collections/apparel): HEMA-themed apparel rated for longsword and grocery run alike: heavyweight tees, four-way-stretch rash guards, hoodies, and jacquard knitwear. Made to order, shipped worldwide.
-  Updated: 2026-08-18T11:21:31Z
+  Updated: 2026-11-19T12:20:16Z
   Total Products: 32
 - [Stickers and Patches](https://sweatygambeson.com/collections/patches-and-stickers): Embroidered patches and weatherproof die-cut stickers with a HEMA bent. Iron-on, sew-on, or Velcro. The merit badges your fencing club would never sanction.
-  Updated: 2026-08-18T11:21:31Z
+  Updated: 2026-11-19T12:20:16Z
   Total Products: 10
 - [Freshly Forged](https://sweatygambeson.com/collections/freshly-forged)
   Updated: 2026-06-25T01:41:00Z
   Total Products: 0
 - [Accessories](https://sweatygambeson.com/collections/accessories): Small wares for the historically : embroidered patches, die-cut stickers, caps, socks, headbands, and bottles. The kit that says you clearly know a guard or two.
-  Updated: 2026-08-18T11:21:31Z
+  Updated: 2026-11-19T12:20:16Z
   Total Products: 19
 
 ## Store Pages
