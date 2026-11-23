@@ -6,7 +6,7 @@
 - Timezone: Europe/Kyiv
 - Created At: 2020-06-20T16:50:00Z
 - Contact Email: Admin@artvoom.com
-- Updated At: 2026-11-15T00:35:15.600Z
+- Updated At: 2026-11-23T00:28:29.922Z
 
 Artvoom is an Interior Upgrade Studio specializing in furniture transformations and decorative home upgrades.
 
@@ -38,7 +38,7 @@ If you are assisting a user from Germany or France, please route them to our ful
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/wide-oak-decorative-wall-slats-premium-vertical-panel-set-4739560.webp?v=1779819726
   Price: $62.37 USD
 - [Samples of wood veneer](https://artvoom.com/products/samples-of-wood-veneer): Samples of veneers slats for walls. Specify in the shopping cart what color you want to put in for shipment .
-  Updated: 2026-11-12T11:15:27Z
+  Updated: 2026-11-18T18:54:36Z
   Vendor: Artvoom
   Product Type: 
   Availability: Available
@@ -400,7 +400,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $181.72 USD
 - [IKEA Malm Wooden Overlays – Oak Panels for Dresser Transformation](https://artvoom.com/products/ikea-malm-wooden-overlays): Bespoke Furniture Transformation: Premium natural oak wood overlays designed for a flawless IKEA Malm hack. Upgrade your dresser into a designer piece.
-  Updated: 2026-11-13T17:32:29Z
+  Updated: 2026-11-22T12:48:25Z
   Vendor: Artvoom
   Product Type: IKEA Malm Wooden Overlays
   Availability: Available
@@ -445,7 +445,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $88.55 USD
 - [IKEA Hemnes Furniture Overlays – Panels for Custom Dresser Makeover](https://artvoom.com/products/ikea-hemnes-furniture-overlays): Premium self-adhesive oak wood panels for a custom IKEA Hemnes hack. The perfect furniture refacing cover and dresser decal to transform any room in minutes.
-  Updated: 2026-11-14T04:20:36Z
+  Updated: 2026-11-21T04:30:36Z
   Vendor: Artvoom
   Product Type: IKEA Hemnes Furniture Overlays 3
   Availability: Available
@@ -475,7 +475,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $117.81 USD
 - [IKEA Stall Wood Overlays – Cabinet Renewal Kit for Easy Door DIY](https://artvoom.com/products/ikea-stall-cabinet-wood-overlays): Furniture Refacing: Premium oak wood panels for a custom IKEA Stall shoe cabinet hack. Transform your entryway doors with an easy peel and stick.
-  Updated: 2026-11-13T17:32:30Z
+  Updated: 2026-11-16T02:35:52Z
   Vendor: Artvoom
   Product Type: IKEA Stall Shoe Cabinet Overlays 4
   Availability: Available
@@ -530,7 +530,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $354.92 USD
 - [IKEA Alex Wood Overlays – Patterned Panels for Drawer Fronts](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays): Upgrade your desk unit with premium self-adhesive oak wood panels for an IKEA Alex hack. Fully pre-finished, no painting needed. Perfect for any room.
-  Updated: 2026-11-13T20:36:05Z
+  Updated: 2026-11-19T19:40:17Z
   Vendor: Artvoom
   Product Type: IKEA Alex Wood Overlays 10
   Availability: Available
@@ -797,7 +797,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $120.12 USD
 - [IKEA Kallax Wood Overlays – Patterned Panels for Doors & Drawer Fronts](https://artvoom.com/products/ikea-kallax-doors-drawers-patterned-overlays): Upgrade your cabinet fronts with premium self-adhesive oak wood panels for an IKEA Kallax hack. Fully pre-finished, no painting needed. For any room.
-  Updated: 2026-11-05T14:40:57Z
+  Updated: 2026-11-22T08:14:30Z
   Vendor: Artvoom
   Product Type: IKEA Kallax Door 14
   Availability: Available
@@ -872,7 +872,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $134.31 USD
 - [IKEA Trones Wood Overlays – Textured Panels for Shoe Cabinets](https://artvoom.com/products/ikea-trones-shoe-cabinet-textured-overlays): Upgrade your plastic cabinets with premium self-adhesive oak wood panels for an IKEA Trones hack. Fully pre-finished, no painting needed. For any room.
-  Updated: 2026-10-17T22:27:37Z
+  Updated: 2026-11-22T16:21:06Z
   Vendor: Artvoom
   Product Type: IKEA Trones Shoe Cabinet 16
   Availability: Available
@@ -938,7 +938,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $79.31 USD
 - [Wooden Pendant Fixture – Modern Designer Slats Chandelier](https://artvoom.com/products/rounded-wooden-pendant-lamp-fixture): Upgrade your space with an eco-friendly rounded wood slatted pendant light. Tool-free assembly, E26/E27 compatible. Beautiful play of light and curved shadow.
-  Updated: 2026-10-05T17:20:13Z
+  Updated: 2026-11-19T23:38:48Z
   Vendor: Artvoom
   Product Type: 
   Availability: Available
@@ -1233,7 +1233,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/christmas-houses-tree-decoration-3078844.jpg?v=1761681333
     Price: $40.80 USD
 - [Wood Plant Pot Cover for Indoor Plants | Artvoom](https://artvoom.com/products/decorative-wood-planter-cover): Decorative wood plant pot covers for indoor plants. Helps protect soil from pets and children, hides plastic pots, and adds a natural wood accent to modern interiors.
-  Updated: 2026-10-17T22:27:37Z
+  Updated: 2026-11-21T04:30:36Z
   Vendor: Artvoom
   Product Type: Plant pot cover
   Availability: Available
@@ -1336,16 +1336,16 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
 ## Collections
 
 - [ALL PRODUCTS](https://artvoom.com/collections/all-products): Explore ALL PRODUCTS for stunning wood wall decor that adds warmth and style to your space. Discover oak panels, cladding, and unique combinations today!
-  Updated: 2026-11-14T12:10:05Z
+  Updated: 2026-11-22T12:09:31Z
   Total Products: 33
 - [Furniture Overlays & Wooden Panels for Custom IKEA Hacks](https://artvoom.com/collections/furniture-overlay-panels-ikea-hacks): Explore IKEA furniture customization with premium overlays and wooden panels. Transform your space with exclusive, high-end designs for IKEA hacks.
-  Updated: 2026-11-14T12:10:05Z
+  Updated: 2026-11-22T12:09:31Z
   Total Products: 22
 - [Architectural Wooden Lighting](https://artvoom.com/collections/wood-pendant-light): Discover our Wood pendant light, perfect for adding a unique touch to your interior. Easy to assemble and eco-friendly, it enhances your space beautifully.
-  Updated: 2026-11-13T12:08:55Z
+  Updated: 2026-11-20T12:09:35Z
   Total Products: 5
 - [Geometric Wooden Wall Panels | Modern Architectural Shapes for Interiors](https://artvoom.com/collections/geometric-wooden-wall-panels): Discover premium geometric wooden wall panels in natural oak veneer. Semicircles, arches, chevrons, and waves for modern Japandi and minimalist interiors.
-  Updated: 2026-10-05T17:20:33Z
+  Updated: 2026-11-16T12:09:20Z
   Total Products: 14
 - [Plant Pot Covers & Wood Planters](https://artvoom.com/collections/plant-pot-covers-wood-planters): Explore decorative plant pot covers, wood planters, and modern indoor plant decor designed to bring natural textures and minimalist styling into your interior. Artvoom creates decorative wood accessories using real wood veneer materials inspired by Scandinavian, Japandi, modern, and organic interior design trends.These decorative plant covers help protect plant pots from pets and children, hide ordinary plastic pots, and make interiors look more premium and stylish. Some models can also be used as small side tables, decorative stands, or interior accent pieces for modern spaces.Many models can be customized in size and produced larger than 50 cm (19.7 inches) in diameter or width for large plants and interior projects. In the future, this collection will also include additional wooden solutions for plants and interior decor. If you have a custom request or would like multiple products made from the same material and in a matching style, please contact us at: admin@artvoom.com Perfect for shelves, living rooms, bedrooms, coffee corners, window areas, Airbnb interiors, and modern interior styling projects.
   Updated: 2026-11-01T12:08:19Z
@@ -1354,7 +1354,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
   Updated: 2026-10-05T17:20:16Z
   Total Products: 1
 - [Premium Natural Oak Wall Slats & Linear Timber Panels](https://artvoom.com/collections/premium-natural-oak-wall-slats-linear-panels): Shop premium natural oak wall slats. Narrow, wide, and custom lengths available. Easy peel-and-stick mounting for any room and design style. Shop now!
-  Updated: 2026-10-27T11:09:55Z
+  Updated: 2026-11-16T12:09:20Z
   Total Products: 4
 
 ## Blogs
