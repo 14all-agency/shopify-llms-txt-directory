@@ -6,45 +6,31 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2024-05-03T17:57:25Z
 - Contact Email: atendimento@esthera.com.br
-- Updated At: 2026-11-16T00:43:59.011Z
+- Updated At: 2026-11-23T00:45:21.793Z
 
 ## Products
 
-- [Bolsa de Ombro Feminina Creme 8PM | Esthera](https://www.esthera.com.br/products/8pm-shoulder-bag-gengibre-esthera): Bolsa de couro legítimo 8PM no tom creme com alça anatômica e detalhes em metal inoxidável. O equilíbrio perfeito entre espaço funcional e elegância.
-  Updated: 2026-11-15T03:02:14Z
-  Vendor: Esthera Brasil
-  Product Type: Bolsas
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/8pm_gengibre_05.webp?v=1754599403
-  Price: R$ 660,00 BRL
 - [Bolsa de Couro Feminina Cerâmica 08:08PM | Esthera](https://www.esthera.com.br/products/08-08pm-handbag-ceramica-esthera): Bolsa handbag no tom cerâmica em couro de cordeiro macio 08:08PM com efeito matelassê. Design sofisticado e espaço ideal para o seu dia a dia.
-  Updated: 2026-11-13T23:31:06Z
+  Updated: 2026-11-22T02:38:06Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/bolsa_cinnamon_frente_alca_8b81c044-4ad8-4a69-b754-20c6593db088.png?v=1776964701
   Price: R$ 850,00 BRL
 - [Bolsa Handbag Preta Matelassê 8:08AM | Esthera](https://www.esthera.com.br/products/08-08am-shoulder-bag-preto-esthera): Bolsa feminina multifuncional com design estruturado e couro macio de alta qualidade. Perfeita para carregar seus essenciais com elegância.
-  Updated: 2026-11-14T02:39:08Z
+  Updated: 2026-11-22T03:00:08Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/0707_shoulder_bag_preta_costas.png?v=1776964855
-  Price: R$ 1.950,00 BRL
-- [Bolsa de Ombro Marrom Matelassê em Couro 08:08AM | Esthera](https://www.esthera.com.br/products/08-08am-shoulder-bag-balaio-esthera): Bolsa shoulder bag marrom em couro de cordeiro macio com textura matelassê. Design espaçoso e toque aveludado ideal para rotinas agitadas.
-  Updated: 2026-10-27T12:03:09Z
-  Vendor: Esthera Brasil
-  Product Type: Bolsas
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/bolsa_coconutshell_frente_5b90ffec-3efc-4476-88ae-02222e258bd2.png?v=1776965315
-  Price: R$ 1.950,00 BRL
+  Price: R$ 975,00 BRL
 - [Bolsa Feminina Handbag Creme em Couro 08:08AM | Esthera](https://www.esthera.com.br/products/08-08am-shoulder-bag-gengibre-esthera): Handbag feminina em couro legítimo com acabamento matelassê e charms exclusivos. Estilo despojado e prático para o dia a dia.
-  Updated: 2026-11-14T02:39:05Z
+  Updated: 2026-11-22T03:00:08Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/bolsa_cloudcream_frente_fe1d82a0-fdf3-425f-9fa8-137e9f32d345.png?v=1776964865
-  Price: R$ 1.950,00 BRL
+  Price: R$ 975,00 BRL
 - [Bolsa Feminina de Luxo Preta Ráfia e Couro Crab | Esthera](https://www.esthera.com.br/products/crab-backpack-preto-esthera): Bolsa mochila preta de ráfia e couro legítimo com mosquetes de caranguejo em metal dourado. Design versátil 2 em 1 para transitar da praia para a cidade.
   Updated: 2026-11-10T09:37:17Z
   Vendor: Esthera Brasil
@@ -60,42 +46,35 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/crabrafiabackpack_frente_balaio.png?v=1754599994
   Price: R$ 1.470,00 BRL
 - [Bolsa Crossbody de Ráfia Natural Crab Preta | Esthera](https://www.esthera.com.br/products/crab-bucket-preto-esthera): Bolsa tiracolo em couro e ráfia natural com pingente de caranguejo. Textura rústica e sofisticada com ricos detalhes em metal dourado para seu estilo.
-  Updated: 2026-11-03T12:51:21Z
+  Updated: 2026-11-22T03:01:11Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/crabrafiacrossbody_frente_preta.png?v=1754600022
-  Price: R$ 3.655,00 BRL
-- [Bolsa Feminina de Luxo Marrom Ráfia e Couro Crab | Esthera](https://www.esthera.com.br/products/crab-bucket-balaio-esthera): Bolsa tiracolo marrom em fibra natural de ráfia e couro legítimo. Design despojado chique com pingente de caranguejo em banho dourado para destacar seu visual.
-  Updated: 2026-10-31T02:33:45Z
-  Vendor: Esthera Brasil
-  Product Type: Bolsas
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/crabrafiacrossbody_frente_balaio.png?v=1754600064
-  Price: R$ 3.655,00 BRL
+  Price: R$ 1.096,50 BRL
 - [Bolsa de Mão Feminina de Ráfia Crab Areia | Esthera](https://www.esthera.com.br/products/crab-tote-areia-esthera): Bolsa handbag em ráfia natural e couro areia com alça de metal articulada. Acompanha mosquetes de caranguejo dourados e volume amplo para seu dia a dia.
-  Updated: 2026-11-14T02:39:06Z
+  Updated: 2026-11-17T02:37:35Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/crabrafia_frente_areia.png?v=1754600085
   Price: R$ 1.521,30 BRL
 - [Bolsa Handbag Preto de Ráfia com Alça de Metal | Esthera](https://www.esthera.com.br/products/crab-tote-preto-esthera): Bolsa de mão areia em couro e ráfia artesanal com fecho de mosquete. O equilíbrio perfeito entre funcionalidade, elegância e versatilidade praiana.
-  Updated: 2026-11-14T10:37:46Z
+  Updated: 2026-11-21T19:17:05Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/crabrafia_frente_black.png?v=1754600120
   Price: R$ 1.521,30 BRL
 - [Bolsa Feminina de Ombro Areia 12PM  | Esthera](https://www.esthera.com.br/products/12pm-shoulder-bag-preto-esthera): Bolsa de couro grande com toque macio, acabamento premium e metais em dourado. A combinação perfeita de sofisticação e espaço para sua rotina.
-  Updated: 2026-11-03T12:51:23Z
+  Updated: 2026-11-22T03:00:06Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/12PM_preta_frente.webp?v=1776432212
-  Price: R$ 4.391,00 BRL
+  Price: R$ 1.756,40 BRL
 - [Bolsa de Ombro 10AM Areia em Couro Legítimo | Esthera](https://www.esthera.com.br/products/10am-shoulder-bag-areia-esthera): Shoulder bag assimétrica areia em couro legítimo com fecho de ímã invisível e alça matelassê. Modelo leve e versátil com alça tiracolo ajustável.
-  Updated: 2026-11-15T14:11:11Z
+  Updated: 2026-11-17T14:09:16Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
@@ -108,48 +87,41 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/bolsa_azul_assimetrica_frente_01_367259eb-913f-452e-99a7-7e98330c3bdd.png?v=1776964733
   Price: R$ 1.425,00 BRL
-- [Bolsa de Ombro Leve e Ampla 9AM Marrom | Esthera](https://www.esthera.com.br/products/09am-shoulder-bag-balaio-esthera): Bolsa de couro legítimo marrom com abertura rápida de ímã, alça macia e excelente espaço. A escolha ideal para quem busca estilo e versatilidade.
-  Updated: 2026-11-16T00:10:06Z
-  Vendor: Esthera Brasil
-  Product Type: Bolsas
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/9am_shoulderbag_balaio_frente.png?v=1776964939
-  Price: R$ 980,00 BRL
 - [Bolsa Feminina de Couro Verde com Lingueta 9AM | Esthera](https://www.esthera.com.br/products/09am-shoulder-bag-jandaia-esthera): Bolsa de couro legítimo verde claro com abertura rápida de ímã, alça macia e excelente espaço. A escolha ideal para quem busca estilo e versatilidade.
-  Updated: 2026-11-06T21:06:22Z
+  Updated: 2026-11-22T14:20:16Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/9am_shoulderbag_jandaia_frente_963f2f1b-e7ec-469d-9da9-8d86eb2d9224.png?v=1776964931
   Price: R$ 980,00 BRL
 - [Bolsa Bodycross Cerâmica de Couro Matelassê 10PM | Esthera](https://www.esthera.com.br/products/10pm-shoulder-bag-ceramica-esthera): Bolsa de ombro preta em couro legítimo com toque suave e estrutura leve. Elegância sem esforço com alça de tiracolo flexível.
-  Updated: 2026-11-13T02:39:08Z
+  Updated: 2026-11-21T23:09:25Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/10pm_shoulderbag_ceramica_frente.png?v=1776965018
   Price: R$ 592,00 BRL
 - [Bolsa Tiracolo Verde Claro em Couro Matelassê 10PM  | Esthera](https://www.esthera.com.br/products/10pm-shoulder-bag-jandaia-esthera): Bolsa de ombro feminina verde claro com couro matelassê 10PM, alça ajustável e design compacto. Ideal para elegância e conforto no seu dia.
-  Updated: 2026-11-15T04:28:46Z
+  Updated: 2026-11-17T16:32:56Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/10pm_shoulderbag_jandaia_frente.png?v=1776965042
   Price: R$ 592,00 BRL
 - [Bolsa Pequena de Couro Cerâmica Tiracolo 12AM | Esthera](https://www.esthera.com.br/products/12am-shoulder-bag-preto-esthera): Micro bolsa de ombro preta em couro 12AM, pode ser usada como tiracolo ou amarrada a bolsas maiores, unindo praticidade e estilo.
-  Updated: 2026-11-13T17:45:29Z
+  Updated: 2026-11-19T19:56:35Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/12am_shoulderbag_preta_alca.png?v=1776965647
-  Price: R$ 390,00 BRL
+  Price: R$ 149,00 BRL
 - [Micro Bolsa de Luxo 12AM Areia em Couro | Esthera](https://www.esthera.com.br/products/12am-shoulder-bag-areia-esthera): Mini bag areia em couro de alta qualidade. Perfeita para levar pequenos essenciais ou personalizar sua bolsa principal.
-  Updated: 2026-11-13T17:45:29Z
+  Updated: 2026-11-19T19:57:22Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/12am_shoulderbag_areia_frente.png?v=1776965463
-  Price: R$ 390,00 BRL
+  Price: R$ 149,00 BRL
 - [Bolsa Tiracolo e Ombro Preta e Dourada 11PM  | Esthera](https://www.esthera.com.br/products/11pm-shoulder-bag-preta-esthera): Bolsa de ombro moderna em couro de alta qualidade com caimento anatômico e fecho magnético. Modelo leve, sofisticado e versátil para diversas ocasiões.
   Updated: 2026-11-03T20:37:15Z
   Vendor: Esthera Brasil
@@ -157,118 +129,90 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/11pm_shoulderbag_preta_frente.png?v=1776965481
   Price: R$ 1.546,50 BRL
-- [Bolsa Pequena de Ráfia Crab Handbag Areia | Esthera](https://www.esthera.com.br/products/crab-mini-raffia-handbag-areia-esthera): Mini handbag em ráfia natural e couro areia com alça metálica articulada. Detalhe de mosquete dourado e volume ideal para passeios e lazer.
-  Updated: 2026-11-13T02:39:06Z
-  Vendor: Esthera Brasil
-  Product Type: Bolsas
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/crabminirafia_frente_areia.png?v=1754600651
-  Price: R$ 1.275,90 BRL
 - [Mini Bolsa Feminina de Luxo Ráfia e Couro Preto | Esthera](https://www.esthera.com.br/products/crab-mini-raffia-handbag-preta-esthera): Mini handbag preta de ráfia em couro legítimo com metais em banho dourado. Modelo compacto e refinado para acompanhar sua rotina da praia à cidade.
-  Updated: 2026-11-08T03:05:10Z
+  Updated: 2026-11-22T14:27:51Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/crabminirafia_frente_preta.png?v=1754600674
   Price: R$ 1.275,90 BRL
 - [Bolsa Saco de Couro Artesanal Marrom Crab | Esthera](https://www.esthera.com.br/products/crab-bucket-bag-marrom-esthera): Bolsa bucket marrom em couro trançado e liso, excelente espaço e com ponteiras de caranguejo. Alça tiracolo confortável e fecho ajustável por cordão.
-  Updated: 2026-11-06T16:19:31Z
+  Updated: 2026-11-22T02:38:06Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/crabraffiabucket_balaio_frente_1d2ab441-badf-47b5-ac15-af03d1c70919.png?v=1754600694
   Price: R$ 1.189,80 BRL
 - [Bolsa Saco Feminina de Ráfia Crab Preta | Esthera](https://www.esthera.com.br/products/crab-bucket-bag-preto-esthera): Bolsa bucket preta em ráfia natural e couro com ponteiras de caranguejo. Alça tiracolo ajustável e cordão de fecho prático com acabamento de luxo.
-  Updated: 2026-11-03T20:50:31Z
+  Updated: 2026-11-22T14:06:16Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/crabraffiabucket_preta_frente.png?v=1754600720
   Price: R$ 1.108,80 BRL
 - [Bolsa Shoulder Bag de Couro Crab Claws Preta | Esthera](https://www.esthera.com.br/products/crab-claws-shoulder-bag-preto-esthera): Bolsa de ombro preta em couro liso com modelagem enrugada street e metais exclusivos. Alça ajustável por fivela e versatilidade total para seu visual.
-  Updated: 2026-11-15T03:02:15Z
+  Updated: 2026-11-19T19:55:40Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/crab_claws_bag_preta_frente.png?v=1754600754
-  Price: R$ 1.872,80 BRL
+  Price: R$ 1.404,60 BRL
 - [Bolsa de Ombro em Couro Legítimo Marrom Crab | Esthera](https://www.esthera.com.br/products/crab-claws-shoulder-bag-balaio-esthera): Bolsa shoulder bag marrom com design urbano inspirado em texturas modernas e couro nobre. Leveza, personalidade e alta qualidade para o dia a dia.
-  Updated: 2026-11-15T03:02:15Z
+  Updated: 2026-11-22T02:38:06Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/crab_claws_bag_balaio_frente.png?v=1754600785
-  Price: R$ 1.872,80 BRL
+  Price: R$ 1.404,60 BRL
 - [Bolsa Porta Celular de Couro Crab Azul Claro | Esthera](https://www.esthera.com.br/products/crab-phone-bag-azul-calli-esthera): Bolsa phone bag azul claro com design autoral em couro de alta qualidade. Detalhe exclusivo em metal nobre para elevar seu visual com praticidade.
-  Updated: 2026-11-15T03:00:10Z
+  Updated: 2026-11-19T19:51:32Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/crabphonebag_azulcalli_frente.png?v=1754600819
-  Price: R$ 1.317,50 BRL
+  Price: R$ 790,50 BRL
 - [Bolsa de Ombro Compacta Crab Phone Bag Branco | Esthera](https://www.esthera.com.br/products/crab-phone-bag-branco-esthera): Bolsa porta celular em couro branco com estrutura fina, detalhes e corrente em metal dourado e compartimento interno para cartões. Sofisticação atemporal.
-  Updated: 2026-11-15T03:00:10Z
+  Updated: 2026-11-19T19:50:44Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/crabphone_branca_frente.png?v=1754600896
-  Price: R$ 1.317,50 BRL
+  Price: R$ 790,50 BRL
 - [Bolsa Feminina de Luxo Crab Sack Cerâmica | Esthera](https://www.esthera.com.br/products/crab-sack-ceramica-esthera): Bolsa de ombro e tiracolo na cor cerâmica em couro macio com ajuste prático na abertura e alça regulável. Sofisticação e elegância para acompanhar a sua rotina.
-  Updated: 2026-11-15T03:02:15Z
+  Updated: 2026-11-20T02:38:47Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/crabsack_ceramica_frente.png?v=1754600980
-  Price: R$ 1.374,00 BRL
+  Price: R$ 1.030,50 BRL
 - [Bolsa Shoulder Bag de Couro Crab Azul Claro | Esthera](https://www.esthera.com.br/products/crab-shoulder-bag-azul-calli-esthera): Bolsa de ombro azul claro pequena com design compacto, ponteiras metálicas douradas formato caranguejo e couro nobre. O acessório ideal para seu look.
-  Updated: 2026-10-27T12:08:22Z
+  Updated: 2026-11-22T03:01:11Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/crabshoulder_azulcali_frente.png?v=1754601040
-  Price: R$ 4.415,00 BRL
+  Price: R$ 1.324,50 BRL
 - [Bolsa de Ombro Preta em Couro Texturizado Crab | Esthera](https://www.esthera.com.br/products/crab-shoulder-bag-preta-esthera): Bolsa tiracolo preta com acabamento refinado, couro legítimo e toque lúdico em metais dourados. Leveza, personalidade e sofisticação para o seu dia.
-  Updated: 2026-11-03T12:51:28Z
+  Updated: 2026-11-22T03:01:11Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/crabshoulderbag_preta_frente_824c9f25-c16a-40d1-8926-8f652d644cad.png?v=1754601081
-  Price: R$ 4.415,00 BRL
+  Price: R$ 1.324,50 BRL
 - [Bolsa Tiracolo e Ombro 10AM Verde Escuro Couro | Esthera](https://www.esthera.com.br/products/10am-shoulder-bag-green-esthera): Bolsa de ombro assimétrica em couro legítimo no tom verde escuro com fecho de ímã invisível e alça matelassê. Modelo leve com opção tiracolo ajustável.
-  Updated: 2026-11-11T02:32:56Z
+  Updated: 2026-11-21T17:11:35Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/10am_verde_frente_517e7adb-1a93-4abb-a51b-3482f5acef36.png?v=1754601176
   Price: R$ 1.425,00 BRL
 - [Bolsa de Ombro e Mão Fur Areia em Couro 7PM | Esthera](https://www.esthera.com.br/products/7pm-handbag-fur-areia-esthera): Bolsa handbag fur areia de luxo em couro macio com tampa magnética e alça regulável. Estrutura pequena e espaçosa para acomodar seus essenciais com estilo.
-  Updated: 2026-11-15T03:02:15Z
+  Updated: 2026-11-22T14:27:51Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/7pm_areia_fur_lateral.png?v=1754601305
   Price: R$ 820,00 BRL
-- [Bolsa Clutch de Couro Legítimo 2AM Prata | Esthera](https://www.esthera.com.br/products/2am-prata-esthera): Bolsa de mão compacta prata em couro legítimo com alças intercambiáveis de couro e corrente. Modelo 5 em 1 com fechamento em flap de ímã e zíper interno.
-  Updated: 2026-11-08T03:00:08Z
-  Vendor: Esthera Brasil
-  Product Type: Bolsas
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/2am_prata_frente.png?v=1754601385
-  Price: R$ 773,60 BRL
-- [Bolsa de Mão e Tiracolo Compacta de Couro 2AM Areia | Esthera](https://www.esthera.com.br/products/2am-areia-esthera): Bolsa clutch feminina areia em couro metalizado prata de luxo com compartimento com zíper. Alças removíveis que oferecem máximo conforto e estilo para festas.
-  Updated: 2026-11-14T12:07:12Z
-  Vendor: Esthera Brasil
-  Product Type: Bolsas
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/2AM_areia_frente.png?v=1754601432
-  Price: R$ 773,60 BRL
-- [Bolsa Clutch Burgundy em Couro com Fecho Magnético 2AM | Esthera](https://www.esthera.com.br/products/2am-burgundy-esthera): Bolsa de mão compacta borgonha em couro nobre com duplo sistema de alças. O acessório luxuoso e compacto ideal para festas e ocasiões especiais.
-  Updated: 2026-11-15T18:04:36Z
-  Vendor: Esthera Brasil
-  Product Type: Bolsas
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/2AM_burgandy_frente.png?v=1754601523
-  Price: R$ 773,60 BRL
 - [Carteira Feminina de Luxo Verde AMPM em Couro | Esthera](https://www.esthera.com.br/products/ampm-wallet-verde-esthera): Carteira de couro legítimo verde com compartimento de zíper e porta-cartões. Estrutura compacta para organizar seus itens com segurança e elegância.
   Updated: 2026-11-13T17:45:30Z
   Vendor: Esthera Brasil
@@ -291,7 +235,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/carteira_preto.png?v=1754601697
   Price: R$ 236,80 BRL
 - [Cinto de Couro Legítimo Marrom 25mm G Acolchoado | Esthera](https://www.esthera.com.br/products/cinto-esthera-belt-balaio-25-mm-g): Cinto feminino marrom 25mm G em couro legítimo com acabamento acolchoado. Fivela em metal nobre e costuras alinhadas no tom para elevar seu estilo.
-  Updated: 2026-11-13T17:45:32Z
+  Updated: 2026-11-19T11:25:55Z
   Vendor: Esthera Brasil
   Product Type: Cintos
   Availability: Available
@@ -336,7 +280,7 @@
     Availability: Available
     Price: R$ 276,00 BRL
 - [Cinto Feminino 20mm  Dupla Face de Couro AMPM | Esthera](https://www.esthera.com.br/products/ampm-reversible-belt-20-mm-preto-areia-g-esthera): Cinto reversível preto e areia em couro de alta qualidade com fivela metálica de estrela. Duas opções de cores em uma única peça refinada e versátil.
-  Updated: 2026-11-13T17:45:34Z
+  Updated: 2026-11-20T02:38:46Z
   Vendor: Esthera Brasil
   Product Type: Cintos
   Availability: Available
@@ -351,7 +295,7 @@
     Availability: Available
     Price: R$ 278,40 BRL
 - [Cinto Dupla Face 20mm G em Couro Azul e Marrom AMPM | Esthera](https://www.esthera.com.br/products/ampm-reversible-belt-20-mm-azul-malote-balaio-g-esthera): Cinto feminino reversível em couro nobre com estrutura leve, duas cores e fivela icônica. Garanta já a combinação perfeita entre praticidade e sofisticação.
-  Updated: 2026-11-13T17:45:34Z
+  Updated: 2026-11-20T02:38:55Z
   Vendor: Esthera Brasil
   Product Type: Cintos
   Availability: Available
@@ -366,7 +310,7 @@
     Availability: Available
     Price: R$ 278,40 BRL
 - [Alça Corrente Dourada 58cm para Bolsa Feminina | Esthera](https://www.esthera.com.br/products/alca-corrente-esthera-dourado): Alça avulsa em corrente metálica dourada com caimento fluido e elegante. O detalhe de luxo ideal para renovar e personalizar a sua bolsa com praticidade.
-  Updated: 2026-11-13T17:45:34Z
+  Updated: 2026-11-22T05:36:35Z
   Vendor: Esthera Brasil
   Product Type: Alças
   Availability: Available
@@ -387,147 +331,126 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/cintocrab_areia_frente.png?v=1754602180
   Price: R$ 490,00 BRL
 - [Bolsa de Mão Pequena em Couro Legítimo 4PM Marrom | Esthera](https://www.esthera.com.br/products/4pm-mini-handbag-marrom-esthera): Mini handbag em couro legítimo marrom com silhueta cúbica e metais em ouro escovado. Estrutura compacta com alças tubulares para uso no dia ou noite.
-  Updated: 2026-11-13T02:33:06Z
+  Updated: 2026-11-22T03:00:07Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/4PM_mini_handbag_castanho_frente.png?v=1754602184
-  Price: R$ 2.780,00 BRL
-- [Bolsa Tote Grande 4PM Marrom em Couro Legítimo | Esthera](https://www.esthera.com.br/products/4pm-maxi-handbag-marrom-esthera): Bolsa maxi handbag em couro legítimo marrom com silhueta escultural e amplo espaço. Modelo tote versátil para transportar notebook e itens do dia a dia.
-  Updated: 2026-11-15T14:51:47Z
-  Vendor: Esthera Brasil
-  Product Type: Bolsas
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/4PM_maxi_handbag_castanho_frente_1_6d5dfbb7-69e7-4ea2-b7d9-6d204e9ec73b.png?v=1754602218
-  Price: R$ 1.750,00 BRL
+  Price: R$ 1.946,00 BRL
 - [Mochila Feminina Marrom 7AM em Nylon com Couro | Esthera](https://www.esthera.com.br/products/7am-backpack-marrom-esthera): Mochila em nylon leve com detalhes em couro legítimo e fechos magnéticos. Múltiplos compartimentos e alças reguláveis para organizar seu dia.
-  Updated: 2026-11-07T18:48:27Z
+  Updated: 2026-11-22T05:36:35Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/7AM_backpack_castanho_frente.png?v=1754602274
   Price: R$ 1.475,00 BRL
 - [Bolsa de Ombro Pequena de Couro Legítimo 1PM Marrom | Esthera](https://www.esthera.com.br/products/1pm-shoulder-bag-marrom-esthera): Bolsa shoulder bag feminina marrom em couro de acabamento impecável com metais banhados. Acessório versátil com estilo atemporal e encaixe perfeito.
-  Updated: 2026-11-12T19:42:35Z
+  Updated: 2026-11-22T02:30:55Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/1PM_shoulderbag_castanho_frente.png?v=1754602314
   Price: R$ 695,00 BRL
 - [Bolsa de Ombro 1PM Preta em Couro Legítimo | Esthera](https://www.esthera.com.br/products/1pm-shoulder-bag-preta-esthera): Bolsa shoulder bag preta em couro legítimo preto com formato geométrico e laterais expansíveis. Alça estilo cinto com fivela de estrela e ajuste prático.
-  Updated: 2026-11-11T17:50:46Z
+  Updated: 2026-11-22T14:20:16Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/1PM_shoulderbag_preto_frente.png?v=1754602350
   Price: R$ 695,00 BRL
 - [Bolsa Shoulder Bag de Couro 1PM Preta com Alça Cinto | Esthera](https://www.esthera.com.br/products/1pm-shoulder-bag-prata-esthera): Bolsa de ombro feminina prata em couro legítimo com fecho exclusivo e tamanho otimizado. Garanta sofisticação e praticidade em uma peça marcante.
-  Updated: 2026-11-05T02:33:57Z
+  Updated: 2026-11-22T05:17:29Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/1pm_shoulderbag_prata_frente.png?v=1754602381
   Price: R$ 695,00 BRL
 - [Mochila Feminina 7AM Preta de Luxo em Nylon  | Esthera](https://www.esthera.com.br/products/7am-backpack-nylon-preta-esthera): Mochila de nylon preta com design arquitetônico minimalista e divisórias inteligentes. A escolha ideal para o trabalho ou viagens com máximo estilo.
-  Updated: 2026-11-05T02:33:56Z
+  Updated: 2026-11-22T01:11:14Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/7AM_BACKPACK_PRETONYLON_FRENTE_6ec014aa-70d8-472e-80ee-4fed44034b0b.png?v=1754602430
   Price: R$ 1.200,00 BRL
 - [Mochila Feminina 7AM Preta com Design Arquitetônico | Esthera](https://www.esthera.com.br/products/7am-backpack-cinza-esthera): Mochila de nylon e couro preta 7AM com compartimento acolchoado, alta durabilidade e bolso para notebook 15. Garanta praticidade e elegância para sua rotina.
-  Updated: 2026-11-13T02:39:06Z
+  Updated: 2026-11-22T02:02:39Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/7AM_backpack_horn_frente.png?v=1754602457
   Price: R$ 1.475,00 BRL
 - [Bolsa Maxi Tote Preta 4PM  em Nylon Premium e Couro | Esthera](https://www.esthera.com.br/products/4pm-maxi-handbag-nylon-preta-esthera): Bolsa tote grande em tecido resistente com alças tubulares para ombro e mão. Estrutura espaçosa e ergonômica para transportar todos os seus essenciais.
-  Updated: 2026-11-04T17:05:36Z
+  Updated: 2026-11-21T23:51:01Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/4PM_maxihandbag_nylonpreto_frente_1_05d83635-8cb7-4c4a-963f-061dd73256a6.png?v=1754602489
   Price: R$ 1.250,00 BRL
-- [Mini handbag 4PM azul celeste em camurça sofisticada](https://www.esthera.com.br/products/4pm-mini-handbag-azul-celeste-esthera): Descubra a 4PM Mini Handbag azul celeste, bolsa em camurça com design escultural e alças versáteis para uso no dia a dia com sofisticação. Veja!
-  Updated: 2026-11-13T15:41:27Z
-  Vendor: Esthera Brasil
-  Product Type: Bolsas
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/4PM_minihandabag_azulceleste_frente_1.png?v=1754602561
-  Price: R$ 1.946,00 BRL
-- [Mini bolsa 4PM verde mangaba em camurça elegante](https://www.esthera.com.br/products/4pm-mini-handbag-verde-esthera): Descubra a mini bolsa 4PM verde em camurça com design arquitetônico, versátil para mão ou ombro, perfeita para um estilo sofisticado. Garanta!
-  Updated: 2026-10-27T12:02:07Z
-  Vendor: Esthera Brasil
-  Product Type: Bolsas
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/4PM_minihandbag_verde_frente.png?v=1754602592
-  Price: R$ 1.946,00 BRL
 - [Maxi bag 10AM preta com desig estruturado arquitetônico](https://www.esthera.com.br/products/10am-maxi-bag-preta-esthera): Confira a maxi bag 10AM preta com design estruturado, alça integrada ao ombro e fechamento por zíper e ímã invisível, em couro liso ou suede. Veja!
-  Updated: 2026-11-15T03:02:15Z
+  Updated: 2026-11-19T16:43:56Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/10pmmaxi_preto_frente_2.png?v=1776432324
   Price: R$ 1.192,00 BRL
 - [Handbag 3PM preta canvas resistente e couro premium](https://www.esthera.com.br/products/3pm-handbag-preta-esthera): A bolsa 3PM handbag preta em canvas e couro possui alças tubulares versáteis, moldura estruturada e espaço ideal para laptop e documentos A4. Veja!
-  Updated: 2026-10-27T14:00:29Z
+  Updated: 2026-11-22T13:00:49Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/3pm_preta_frente_1.png?v=1776432375
   Price: R$ 950,00 BRL
 - [Bolsa de ombro 5PM marrom em couro e fechamento magnético](https://www.esthera.com.br/products/5pm-shoulder-bag-marrom-esthera): Confira a bolsa de ombro 5PM marrom: espaçosa, segura e elegante, com design funcional e metais exclusivos para o dia a dia com estilo. Veja!
-  Updated: 2026-11-15T14:51:47Z
+  Updated: 2026-11-22T17:43:25Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/5PM_castanho_frente_a4f08267-edbc-488c-b3f1-61a5ee398871.png?v=1776432437
   Price: R$ 1.052,00 BRL
 - [Bolsa de ombro 5PM prata em couro com flaps e alças](https://www.esthera.com.br/products/5pm-shoulder-bag-prata-esthera): A bolsa 5PM prata em couro legítimo traz flaps magnéticos, alças tubulares e metais exclusivos Esthera, unindo funcionalidade e sofisticação. Veja!
-  Updated: 2026-11-15T23:58:56Z
+  Updated: 2026-11-16T03:32:31Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/5PM_prata_frente_d83e9c75-d492-47b1-98d9-893a258e52f0.png?v=1776432488
   Price: R$ 1.052,00 BRL
 - [Bolsa de ombro 5PM preta em couro legítimo com flaps](https://www.esthera.com.br/products/5pm-shoulder-bag-nylon-preta-esthera): Descubra a bolsa de ombro 5PM Shoulder Bag preta: funcionalidade, design estruturado e metais exclusivos para elegância no seu dia a dia. Veja!
-  Updated: 2026-11-05T02:33:57Z
+  Updated: 2026-11-22T10:54:26Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/5pm_preto_frente_3ed8d71b-fe84-442f-a2df-7415d6b51a7d.png?v=1776432526
   Price: R$ 840,00 BRL
 - [Handbag 3PM Burgundy: tote bag vertical em canvas e couro](https://www.esthera.com.br/products/3pm-handbag-burgundy-esthera): Descubra a 3PM handbag burgundy, tote bag resistente à água com design sofisticado, ideal para laptop e documentos A4. Acesse e confira!
-  Updated: 2026-10-28T02:33:08Z
+  Updated: 2026-11-22T23:07:06Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/3pm_burgundy_frente_1.png?v=1776432558
   Price: R$ 950,00 BRL
 - [Handbag 3PM marrom com alças tubulares e em couro](https://www.esthera.com.br/products/3pm-handbag-castanho-esthera): Descubra a tote bag 3PM castanho, feita em canvas resistente à água com moldura em couro. Perfeita para levar laptop e documentos com estilo. Veja!
-  Updated: 2026-11-06T01:28:26Z
+  Updated: 2026-11-22T21:41:26Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/3pm_castanho_frente.png?v=1776432609
   Price: R$ 950,00 BRL
 - [Mini bag 10AM prata com alças removíveis e versátil](https://www.esthera.com.br/products/10am-mini-bag-prata-esthera): Explore a mini bag 10AM prata, bolsa compacta em couro para festas e jantares, com alças versáteis que unem elegância e praticidade. Veja mais!
-  Updated: 2026-11-10T10:34:05Z
+  Updated: 2026-11-22T03:29:34Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/10ammini_prata_frente.png?v=1776432658
   Price: R$ 1.185,00 BRL
 - [Mini bag 10AM verde mangaba com alças removíveis](https://www.esthera.com.br/products/10am-mini-bag-verde-esthera): Explore a mini bag 10AM em couro verde, perfeita para eventos noturnos. Versátil, com alças removíveis, combina sofisticação e praticidade. Veja!
-  Updated: 2026-11-03T20:37:15Z
+  Updated: 2026-11-22T06:01:07Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/10ammini_verde_frente.png?v=1776432708
   Price: R$ 1.185,00 BRL
 - [Cinto AMPM reversível marrom e preto P de couro legítimo](https://www.esthera.com.br/products/ampm-reversible-belt-p-esthera): Descubra o cinto reversível de couro legítimo com fivela estrela em acabamento dourado escovado. Elegância e versatilidade para seu estilo. Veja!
-  Updated: 2026-11-13T17:45:35Z
+  Updated: 2026-11-22T04:05:44Z
   Vendor: Esthera Brasil
   Product Type: Cintos
   Availability: Available
@@ -563,7 +486,7 @@
     Availability: Available
     Price: R$ 376,00 BRL
 - [Bolsa com cinto 10AM em camurça e alça removível | Esthera](https://www.esthera.com.br/products/10am-belted-strap-bag-esthera): Descubra a bolsa com cinto 10AM em camurça macia com design assimétrico e alça removível que vira cinto funcional para versatilidade no seu dia!
-  Updated: 2026-11-03T12:31:12Z
+  Updated: 2026-11-22T03:30:01Z
   Vendor: Esthera Brasil
   Product Type: 
   Availability: Available
@@ -605,14 +528,14 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/vela_esthera_areia_2.png?v=1776432756
   Price: R$ 280,00 BRL
 - [10AM maxi bag verde | Esthera](https://www.esthera.com.br/products/10am-maxi-bag-verde-esthera): Explore a maxi bag 10AM verde com design clean, alça integrada e fechamento seguro. Ideal para elegância e praticidade diária. Acesse o site!
-  Updated: 2026-11-15T03:02:15Z
+  Updated: 2026-11-21T02:37:45Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/10pmmaxi_verde_frente_2.png?v=1776432761
   Price: R$ 1.192,00 BRL
 - [10AM maxi bag marrom | Esthera](https://www.esthera.com.br/products/10am-maxi-bag-marrom): Descubra a maxi bag 10AM marrom em couro legítimo, design sofisticado e alça integrada para conforto e segurança no dia a dia. Acesse o site e veja!
-  Updated: 2026-11-15T03:02:15Z
+  Updated: 2026-11-16T15:08:51Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
@@ -724,7 +647,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/rider_verde_frente.webp?v=1773686025
   Price: R$ 784,00 BRL
 - [9PM bag areia | Esthera](https://www.esthera.com.br/products/9pm-shoulder-bag-areia): Bolsa de ombro 9PM areia em couro bovino, com detalhes de metal feitos em liga metálica. Seu fechamento com imã e a alça extra longa, permite a versatilidade de uso.
-  Updated: 2026-11-05T02:34:04Z
+  Updated: 2026-11-23T00:02:56Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
@@ -738,7 +661,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/9pm_cafe_frente.webp?v=1776432968
   Price: R$ 1.650,00 BRL
 - [Bolsa de Ombro 9PM Preta em Couro | Esthera](https://www.esthera.com.br/products/9pm-shoulder-bag-preto): Bolsa tiracolo em couro preta 9PM com alça ajustável extra longa. O equilíbrio perfeito entre praticidade urbana, segurança e sofisticação atemporal.
-  Updated: 2026-11-03T12:51:31Z
+  Updated: 2026-11-21T15:30:05Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
@@ -752,28 +675,28 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/9pm_rosa_frente.webp?v=1776433025
   Price: R$ 825,00 BRL
 - [Bolsa de Ombro Marrom Escuro 10AM em Couro | Esthera](https://www.esthera.com.br/products/10am-belted-bag-marrom-escuro): Bolsa de couro marrom escuro com abertura fácil de ímã e zíper interno de alta segurança. Alça anatômica multifuncional para compor looks únicos e sofisticados.
-  Updated: 2026-11-15T10:31:26Z
+  Updated: 2026-11-19T00:38:15Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/10ambelted_cafe_frente.webp?v=1776433050
   Price: R$ 1.610,00 BRL
 - [10AM belted bag camurça | Esthera](https://www.esthera.com.br/products/10am-belted-bag-camurca): Bolsa 10AM camurça é feita em couro legítimo. Possui um design assimétrico, com abertura fácil de imã invisível e zíper para segurança. Com alça de ombro larga e macia que se transforma em um sinto com fivela em "e", assinatura da marca.
-  Updated: 2026-11-03T12:31:13Z
+  Updated: 2026-11-21T21:10:16Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/10ambelted_caramelo_frente.webp?v=1776433071
   Price: R$ 1.610,00 BRL
 - [Bolsa de ombro em Couro Legítimo Preto 10AM | Esthera](https://www.esthera.com.br/products/10am-belted-bag-preto): Bolsa 10AM preto é feita em couro legítimo. Possui um design assimétrico, com abertura fácil de imã invisível e zíper para segurança. Com alça de ombro larga e macia que se transforma em um sinto com fivela em "e", assinatura da marca.
-  Updated: 2026-11-05T02:34:11Z
+  Updated: 2026-11-21T20:20:46Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/10ambelted_preto_frente.webp?v=1776433112
   Price: R$ 1.610,00 BRL
 - [Bolsa Pouch Preta em Couro Legítimo | Esthera](https://www.esthera.com.br/products/esthera-pouch-preto): Bolsa Pouch preto Esthera em couro legítimo com forro 100% algodão. Adapte o visual sofisticado com alça longa tiracolo e abertura deslizante prática.
-  Updated: 2026-11-15T02:37:26Z
+  Updated: 2026-11-17T17:52:10Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
@@ -787,7 +710,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/0707pm_areia_frente.webp?v=1776433213
   Price: R$ 2.080,00 BRL
 - [Bolsa Baguette de Luxo Vermelha em Couro | Esthera](https://www.esthera.com.br/products/07-07pm-handbag-bag-vermelho): Shoulder bag baguette 07:07PM em tom vermelho com dobras exclusivas em couro legítimo. O equilíbrio perfeito entre estética contemporânea e alta durabilidade.
-  Updated: 2026-11-13T02:33:06Z
+  Updated: 2026-11-22T02:38:11Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
@@ -801,7 +724,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/0707pm_preto_frente.webp?v=1776433254
   Price: R$ 2.080,00 BRL
 - [Bolsa Shoulder Bag Areia em Couro 11PM | Esthera](https://www.esthera.com.br/products/11pm-shoulder-bag-areia): Bolsa de couro tom areia com design autoral assimétrico e fechamento por ímã. Combinação impecável de leveza, estrutura e presença para qualquer ocasião.
-  Updated: 2026-11-15T18:40:56Z
+  Updated: 2026-11-16T14:21:06Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
@@ -815,21 +738,21 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/11pm_preto_frente.webp?v=1776433316
   Price: R$ 1.505,00 BRL
 - [Bolsa Média de Ombro em Couro 10AM Marrom | Esthera](https://www.esthera.com.br/products/10am-medium-bag-marrom): Bolsa tiracolo média marrom em couro 100% com fecho em zíper e acabamento de alto padrão. O equilíbrio perfeito entre funcionalidade, conforto e sofisticação.
-  Updated: 2026-11-14T02:39:16Z
+  Updated: 2026-11-17T14:46:44Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/10AM_M_CARAMELO_FRENTE.webp?v=1776433353
   Price: R$ 1.505,00 BRL
 - [Bolsa de Ombro Média em Couro Preta 10AM | Esthera](https://www.esthera.com.br/products/10am-medium-bag-preto): Bolsa feminina média preta com fechamento em zíper e espaço ideal para os essenciais diários. Elegância e versatilidade do trabalho aos compromissos sociais.
-  Updated: 2026-11-14T02:39:16Z
+  Updated: 2026-11-19T16:19:51Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/10AM_M_PRETO_FRENTE.webp?v=1776433380
   Price: R$ 1.505,00 BRL
 - [Bolsa Shoulder Bag 10AM Rosa em Camurça | Esthera](https://www.esthera.com.br/products/10-am-camurca-medium-bag-rosa): Bolsa média em camurça legítima rosa 10AM com design assimétrico e ímã invisível. Modelo leve com fecho de zíper e toque suave para o dia a dia.
-  Updated: 2026-11-14T02:39:11Z
+  Updated: 2026-11-21T02:37:41Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
@@ -864,7 +787,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/luna_vermelho_frente.webp?v=1773686267
   Price: R$ 896,00 BRL
 - [Bolsa Meia-Lua Preta Luna Crossbody em Couro | Esthera](https://www.esthera.com.br/products/luna-crossbody-bag-preto): Bolsa meia-lua preta em material leve com detalhes em couro. Design espaçoso, alça ajustável com ombreira macia e caimento perfeito ao corpo.
-  Updated: 2026-11-13T17:45:45Z
+  Updated: 2026-11-20T02:38:55Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
@@ -899,14 +822,14 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/nest_verde_frente.webp?v=1773686545
   Price: R$ 352,00 BRL
 - [Bolsa Clutch Areia em Couro Midnight Bloom | Esthera](https://www.esthera.com.br/products/midnight-bloom-areia): Clutch feminina areia versátil para uso na mão ou no ombro. Design inspirado na delicadeza das flores para transformar looks de festas e jantares de luxo.
-  Updated: 2026-11-11T10:55:11Z
+  Updated: 2026-11-22T04:05:48Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/blossom_areia_frente.webp?v=1776433541
   Price: R$ 1.160,00 BRL
 - [Clutch Preta de Luxo Midnight Bloom em Couro | Esthera](https://www.esthera.com.br/products/midnight-bloom-preto): Bolsa clutch de couro no tom preto com porta-cartão integrado e fecho seguro em zíper. O equilíbrio perfeito entre funcionalidade e presença marcante.
-  Updated: 2026-11-14T02:39:12Z
+  Updated: 2026-11-20T02:32:46Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
@@ -938,7 +861,7 @@
     Availability: Available
     Price: R$ 288,00 BRL
 - [Cinto de Couro 2 em 1 Marrom e Azul Marinho | Esthera](https://www.esthera.com.br/products/12am-reversible-belt-20mm-marrom-e-azul-marinho-g): Cinto Esthera Marrom e Azul marinho  em couro natural: acessório de luxo com fivela exclusiva e acabamento impecável para um visual refinado.
-  Updated: 2026-11-13T17:45:48Z
+  Updated: 2026-11-18T17:54:06Z
   Vendor: Esthera Brasil
   Product Type: Cintos
   Availability: Available
@@ -956,7 +879,7 @@
     Availability: Available
     Price: R$ 360,00 BRL
 - [Cinto de Couro Reversível Marrom e Rosa 20mm | Esthera](https://www.esthera.com.br/products/12am-reversible-belt-20mm-marrom-e-rosa-g): Cinto de couro fino 12am reversible belt marrom e rosa. Com duas cores e acabamento flat, acessório icônico com fivela estrela e estilo exclusivo.
-  Updated: 2026-11-13T17:45:49Z
+  Updated: 2026-11-22T02:38:16Z
   Vendor: Esthera Brasil
   Product Type: Cintos
   Availability: Available
@@ -974,7 +897,7 @@
     Availability: Available
     Price: R$ 288,00 BRL
 - [Cinto Fino 2 em 1 Marrom e Burgundy 20mm | Esthera](https://www.esthera.com.br/products/12am-reversible-belt-20mm-marrom-e-burgundy-g): Cinto feminino 20mm em couro legítimo reversível nas cores marrom e burgundy. Estrutura flat elegante finalizada com a fivela estrela exclusiva.
-  Updated: 2026-11-13T17:45:50Z
+  Updated: 2026-11-20T10:25:56Z
   Vendor: Esthera Brasil
   Product Type: Cintos
   Availability: Available
@@ -1028,7 +951,7 @@
     Availability: Available
     Price: R$ 390,00 BRL
 - [Cube silver-buckle belt preto 35mm](https://www.esthera.com.br/products/cube-silver-buckle-belt-preto-35mm-pp-copy): Cinto de couro silver-buckle belt preto 35mm PP, com estrutura com enchimento. Finalizado com nossa nova fivela cube em liga metálica.
-  Updated: 2026-11-13T17:45:52Z
+  Updated: 2026-11-19T15:12:46Z
   Vendor: Esthera Brasil
   Product Type: Cintos
   Availability: Available
@@ -1198,7 +1121,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/pencase_verde_frente.webp?v=1776434038
   Price: R$ 240,00 BRL
 - [Wool scarf cinza | Esthera](https://www.esthera.com.br/products/wool-scarf-cinza): Lenço cinza de lã macia com a logo da Esthera tecida nas bordas.
-  Updated: 2026-11-13T17:46:00Z
+  Updated: 2026-11-22T20:39:26Z
   Vendor: Esthera Brasil
   Product Type: Acessório
   Availability: Available
@@ -1212,7 +1135,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/woolscarf_perola_1.webp?v=1776434063
   Price: R$ 696,00 BRL
 - [Wool scarf rosa claro | Esthera](https://www.esthera.com.br/products/wool-scarf-rosa-claro): Lenço rosa claro de lã macia com a logo da Esthera tecida nas bordas.
-  Updated: 2026-11-13T17:46:00Z
+  Updated: 2026-11-22T20:39:25Z
   Vendor: Esthera Brasil
   Product Type: Acessório
   Availability: Available
@@ -1240,7 +1163,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/MODULAR_WALLET_BURGUNDY_VERSO.webp?v=1776434115
   Price: R$ 350,00 BRL
 - [Carteira Bicolor Laranja e Roxo em Couro | Esthera](https://www.esthera.com.br/products/modular-wallet-laranja-e-roxo): Carteira compacta em couro legítimo laranja e roxo com porta-moedas e cartões. União impecável de versatilidade, cores vivas e alta durabilidade.
-  Updated: 2026-11-13T17:46:01Z
+  Updated: 2026-11-22T01:09:28Z
   Vendor: Esthera Brasil
   Product Type: Carteira
   Availability: Available
@@ -1261,54 +1184,54 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/9pm_swarovski_frente_logo.webp?v=1776434156
   Price: R$ 1.157,50 BRL
 - [Bolsa Média Rosa com Cristais Swarovski® | Esthera](https://www.esthera.com.br/products/10am-medium-bag-swarovski-esthera): 10AM medium bag Swarovski® Esthera: Bolsa em couro com design assimétrico e cristais Swarovski aplicados à mão. Conforto e luxo com metais banhados a ouro.
-  Updated: 2026-11-08T03:02:14Z
+  Updated: 2026-11-19T16:26:06Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/10am_m_swarovski_frente_logo.webp?v=1776434213
   Price: R$ 1.375,00 BRL
 - [Lenço de Lã Rosa com Cristais Swarovski® | Esthera](https://www.esthera.com.br/products/wool-scarf-esthera-diadasmaes): Lenço de inverno rosa em 100% lã pura decorado com cristais Swarovski®. Toque sedoso e leve que garante conforto térmico e aquecimento com elegância.
-  Updated: 2026-11-13T17:46:02Z
+  Updated: 2026-11-19T16:26:11Z
   Vendor: Esthera Brasil
   Product Type: Acessório
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/wool_scarf_swarovski_1_b8ca8b9a-bc7b-4b1d-aaaf-eebf8f15c5e1.webp?v=1776434257
   Price: R$ 1.210,00 BRL
 - [Bolsa de Mão e Tiracolo Preta e Dourada 7PM | Esthera](https://www.esthera.com.br/products/7pm-bag-preto-e-dourado): Bolsa Esthera 7pm bag preto e dourado em couro liso. Bolsa de estrutura definida com alça de mão e tiracolo removível. Design curvo com fechamento metálico.
-  Updated: 2026-11-03T12:51:38Z
+  Updated: 2026-11-17T03:00:15Z
   Vendor: Esthera Brasil | No Ordinary Bags
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/7pm_bag_preto_01_edd82302-c99f-4aea-aa71-e55abafaa1e8.webp?v=1776352925
-  Price: R$ 2.180,00 BRL
+  Price: R$ 1.744,00 BRL
 - [Bolsa de Mão e Tiracolo Preta e Prata 7PM | Esthera](https://www.esthera.com.br/products/7pm-bag-preto-e-dourado-copy): Bolsa feminina de couro preto com metais em tom prata e interior funcional. Mantém a forma elegante e estruturada para acompanhar a sua rotina.
-  Updated: 2026-11-03T12:51:39Z
+  Updated: 2026-11-17T03:00:16Z
   Vendor: Esthera Brasil | No Ordinary Bags
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/7pm_preto.webp?v=1776352975
-  Price: R$ 2.180,00 BRL
+  Price: R$ 1.744,00 BRL
 - [Bolsa 7PM Bag de Couro Vinho Burgundy  | Esthera](https://www.esthera.com.br/products/7pm-bag-burgundy): Bolsa vinho burgundy versátil com alça de mão fixa e alça tiracolo removível. Use no ombro, na transversal ou na mão para compor looks de dia e noite.
-  Updated: 2026-10-18T21:53:39Z
+  Updated: 2026-11-22T19:33:45Z
   Vendor: Esthera Brasil | No Ordinary Bags
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/7pm_bag_burgandy.webp?v=1776352863
-  Price: R$ 2.180,00 BRL
+  Price: R$ 1.744,00 BRL
 - [Bolsa de Mão e Tiracolo Areia e Dourado 7PM | Esthera](https://www.esthera.com.br/products/7pm-bag-areia): Bolsa Esthera 7pm bag areia em couro liso. Bolsa de estrutura definida com alça de mão e tiracolo removível. Design curvo com fechamento metálico flat.
-  Updated: 2026-11-12T02:38:05Z
+  Updated: 2026-11-22T02:30:54Z
   Vendor: Esthera Brasil | No Ordinary Bags
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/7pm_bag_sand.webp?v=1776353011
-  Price: R$ 2.180,00 BRL
+  Price: R$ 1.744,00 BRL
 - [Bolsa Handbag Mel Camurça  7PM | Esthera](https://www.esthera.com.br/products/7pm-bag-camurca): Bolsa de mão em camurça mel com estrutura definida, linhas curvas e volume equilibrado. Modelo versátil, com botão metálico flat e alças removíveis.
-  Updated: 2026-10-13T11:28:37Z
+  Updated: 2026-11-22T08:50:22Z
   Vendor: Esthera Brasil | No Ordinary Bags
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/7pm_suede_honey.webp?v=1776353090
-  Price: R$ 2.180,00 BRL
+  Price: R$ 1.744,00 BRL
 - [Boné Marinho com bordado Molho Brasileiro | Esthera](https://www.esthera.com.br/products/bone-molho-brasileiro): Boné casual Esthera em algodão 100% Marinho bordado Molho Brasileiro. Design moderno e durável, perfeito para um visual versátil e sofisticado no dia a dia.
   Updated: 2026-11-14T02:33:06Z
   Vendor: Esthera Brasil
@@ -1317,56 +1240,56 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/bone_molho_brasileiro_frente.webp?v=1776878106
   Price: R$ 180,00 BRL
 - [Bolsa Crossbody Mel Camurça 11AM | Esthera](https://www.esthera.com.br/products/11am-crossbody-bag-mel-camurca): Bolsa crossbody mel camurça em couro floater com alça regulável, fecho magnético e design compacto. Praticidade e elegância para organizar seus itens diários.
-  Updated: 2026-11-10T03:00:10Z
+  Updated: 2026-11-17T02:59:04Z
   Vendor: Esthera Brasil | No Ordinary Bags
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/11am_suede_bag_brown_01_effed1f3-29c6-47a1-b8c3-c9ca5fe5f3c8.webp?v=1787324833
-  Price: R$ 1.424,00 BRL
+  Price: R$ 1.780,00 BRL
 - [Bolsa Crossbody Verde Sage 11AM | Esthera](https://www.esthera.com.br/products/11am-crossbody-bag-verde-sage): Bolsa crossbody verde sage em couro floater com alça regulável, fecho magnético e design compacto. Praticidade e elegância para organizar seus itens diários.
-  Updated: 2026-11-10T03:00:11Z
+  Updated: 2026-11-17T02:59:05Z
   Vendor: Esthera Brasil | No Ordinary Bags
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/11am_crossbody_bag.webp?v=1780061656
-  Price: R$ 1.424,00 BRL
+  Price: R$ 1.780,00 BRL
 - [Bolsa Crossbody Preto 11AM | Esthera](https://www.esthera.com.br/products/11am-crossbody-bag-preto): Bolsa crossbody preto em couro floater com alça regulável, fecho magnético e design compacto. Praticidade e elegância para organizar seus itens diários.
-  Updated: 2026-11-10T03:00:11Z
+  Updated: 2026-11-17T02:59:06Z
   Vendor: Esthera Brasil | No Ordinary Bags
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/11AM_CROSSBODY_1.webp?v=1785958152
-  Price: R$ 1.424,00 BRL
+  Price: R$ 1.780,00 BRL
 - [Bolsa Messenger Mel Camurça 6AM | Esthera](https://www.esthera.com.br/products/6am-messenger-bag-mel-camurca): Bolsa tiracolo unissex mel camurça em couro legítimo com divisórias internas e suporte para mala. Leve seus itens essenciais com conforto, estilo e praticidade.
-  Updated: 2026-11-10T03:00:11Z
+  Updated: 2026-11-17T02:59:07Z
   Vendor: Esthera Brasil | No Ordinary Bags
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/6am_messenger_suede_bag_21d5b9c3-4c6e-46d8-86be-270b73b8c351.webp?v=1787253590
-  Price: R$ 2.384,00 BRL
+  Price: R$ 2.980,00 BRL
 - [Bolsa Messenger Marrom Escuro 6AM | Esthera](https://www.esthera.com.br/products/6am-messenger-bag-marrom-escuro): Bolsa tiracolo unissex marrom escuro em couro legítimo com divisórias internas e suporte para mala. Leve seus itens essenciais com conforto e estilo.
-  Updated: 2026-11-10T03:00:11Z
+  Updated: 2026-11-17T02:59:08Z
   Vendor: Esthera Brasil | No Ordinary Bags
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/6am_messenger_bag_brown.webp?v=1780062268
-  Price: R$ 2.384,00 BRL
+  Price: R$ 2.980,00 BRL
 - [Bolsa Unissex Messenger Preto 6AM | Esthera](https://www.esthera.com.br/products/6am-messenger-bag-preto): Bolsa tiracolo unissex preto em couro legítimo com divisórias internas e suporte para mala. Leve seus itens essenciais com conforto, estilo e praticidade.
-  Updated: 2026-11-10T03:00:11Z
+  Updated: 2026-11-17T02:59:09Z
   Vendor: Esthera Brasil | No Ordinary Bags
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/6am_messenger_preto_silver.webp?v=1780061364
-  Price: R$ 2.384,00 BRL
+  Price: R$ 2.980,00 BRL
 - [Bolsa Bucket Burgundy 9PM Maxi Versátil | Esthera](https://www.esthera.com.br/products/9pm-maxi-bag-burgundy): Bolsa bucket burgundy em couro liso com design escultural que permite até 5 formas de uso. Alça de ombro removível com argola e botão flat metálico.
-  Updated: 2026-10-28T02:39:06Z
+  Updated: 2026-11-18T11:01:55Z
   Vendor: Esthera Brasil | No Ordinary Bags
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/9pm_maxi_suede_bag_burgundy_c1f1fda6-cd3c-4af1-958b-576094c928d8.webp?v=1787253499
-  Price: R$ 2.480,00 BRL
+  Price: R$ 1.984,00 BRL
 - [Mini handbag 4PM Burgundy em Couro | Esthera](https://www.esthera.com.br/products/4pm-mini-handbag-burgundy): Descubra a mini handbag 4PM burgundy, bolsa em couro legítimo com design arquitetônico e versátil para uso dia e noite. Garanta agora!
-  Updated: 2026-11-15T02:37:30Z
+  Updated: 2026-11-22T01:39:43Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
@@ -1380,7 +1303,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/7am_bag_burgandy_01_5cdfb1f5-a416-4ac9-aa37-7674ded1e853.webp?v=1788284387
   Price: R$ 2.940,00 BRL
 - [Bolsa Clutch Burgundy Midnight Bloom em Couro | Esthera](https://www.esthera.com.br/products/midnight-bloom-bag-burgundy): Bolsa clutch de couro no tom vinho burgundy com porta-cartão integrado e fecho seguro em zíper. O equilíbrio perfeito entre funcionalidade e presença marcante.
-  Updated: 2026-11-07T02:37:07Z
+  Updated: 2026-11-22T01:39:43Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
@@ -1422,33 +1345,33 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/Printed_big_bag_azul_1_f6187332-a528-4ff3-bd1f-fb7384431f75.webp?v=1787573575
   Price: R$ 1.280,00 BRL
 - [Bolsa Bucket Preto e Prata 9PM Maxi | Esthera](https://www.esthera.com.br/products/9pm-maxi-bag-preta-e-prata): Bolsa bucket preto e prata Esthera com 5 maneiras de uso, alça removível e silhueta escultural em couro liso. Eleve seu visual com design escultural.
-  Updated: 2026-11-03T12:51:41Z
+  Updated: 2026-11-17T03:00:16Z
   Vendor: Esthera Brasil | No Ordinary Bags
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/9P_PM_MAXI_PRETO_16760db7-790e-4c0d-bd0c-dc9476dc983c.webp?v=1787236543
-  Price: R$ 2.480,00 BRL
+  Price: R$ 1.984,00 BRL
 - [Bolsa Bucket Preto e Dourado 9PM Maxi | Esthera](https://www.esthera.com.br/products/9pm-maxi-bag-preta-e-dourado): Bolsa bucket preto e dourado Esthera com 5 maneiras de uso, alça removível e silhueta escultural em couro liso. Eleve seu visual com design escultural.
-  Updated: 2026-11-05T02:34:10Z
+  Updated: 2026-11-17T03:00:16Z
   Vendor: Esthera Brasil | No Ordinary Bags
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/9pm_maxi_suede_bag_preto_b8bd0e8f-c7ab-4799-87bf-f3e471235c03.webp?v=1787253426
-  Price: R$ 2.480,00 BRL
+  Price: R$ 1.984,00 BRL
 - [Bolsa Bucket Marrom Camurça 9PM Maxi | Esthera](https://www.esthera.com.br/products/9pm-maxi-bag-marrom-camurca): Bolsa bucket marrom camurça Esthera com 5 maneiras de uso, alça removível e silhueta escultural em couro liso. Eleve seu visual com design escultural.
-  Updated: 2026-11-05T02:34:08Z
+  Updated: 2026-11-17T03:00:16Z
   Vendor: Esthera Brasil | No Ordinary Bags
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/9pm_maxi_brown_0f8a23ad-976b-41f8-b439-404d420d2746.webp?v=1787253221
-  Price: R$ 2.480,00 BRL
+  Price: R$ 1.984,00 BRL
 - [Bolsa Bucket Areia com Marrom 9PM Maxi | Esthera](https://www.esthera.com.br/products/9pm-maxi-bag-canvas-marrom): Bolsa bucket canvas com marrom Esthera com 5 maneiras de uso, alça removível e silhueta escultural em couro liso. Eleve seu visual com design escultural.
-  Updated: 2026-10-18T02:38:27Z
+  Updated: 2026-11-17T03:00:17Z
   Vendor: Esthera Brasil | No Ordinary Bags
   Product Type: Bolsas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/9pm_maxi_canvas_bag.webp?v=1785523204
-  Price: R$ 1.980,00 BRL
+  Price: R$ 1.584,00 BRL
 - [Bolsa Envelope Verde Beads 1AM | Esthera](https://www.esthera.com.br/products/1am-beads-bag-verde): Bolsa envelope verde bordada em esferas com aba em couro, fecho magnético e alça de corrente metálica. Sofisticação lúdica e espaço ideal para o seu essencial.
   Updated: 2026-11-10T02:59:08Z
   Vendor: Esthera Brasil | No Ordinary Bags
@@ -1499,7 +1422,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/lenco_painel_modernista_09_a0961421-dc6f-4c0e-92e8-e1747904c32f.webp?v=1785524273
   Price: R$ 760,00 BRL
 - [Lenço Painel Modernista Rosa em Seda 50x50 | Esthera](https://www.esthera.com.br/products/lenco-90-painel-modernista-azul-1): Lenço feminino em seda pura 100% natural com construção twill de alta durabilidade. O acessório de luxo perfeito para usar no pescoço, cabeça ou bolsa.
-  Updated: 2026-11-13T17:46:05Z
+  Updated: 2026-11-18T02:34:05Z
   Vendor: Esthera Brasil
   Product Type: Acessório
   Availability: Available
@@ -1611,7 +1534,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/twilly_horizonte_modernista.webp?v=1785526714
   Price: R$ 165,00 BRL
 - [Handbag 7AM Marrom Claro em Couro Camurça | Esthera](https://www.esthera.com.br/products/7am-bag-camurca): Descubra a handbag 7AM marrom claro em couro camurça e detalhe em metal, com design espaçoso e detalhes para um dia a dia com estilo. Confira já!
-  Updated: 2026-10-22T02:33:12Z
+  Updated: 2026-11-20T02:32:46Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
@@ -1646,7 +1569,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/12AM_BURGUNDY_1.webp?v=1788284565
   Price: R$ 1.680,00 BRL
 - [Bolsa Clutch Preta de Couro Legítimo 12AM  | Esthera](https://www.esthera.com.br/products/12am-baguette-bag-preta): Bolsa tiracolo preta em couro nobre com proporções equilibradas e caimento leve. Modelo atemporal com organizador interno e acabamento de alto padrão.
-  Updated: 2026-11-03T12:51:44Z
+  Updated: 2026-11-22T02:38:16Z
   Vendor: Esthera Brasil | No Ordinary Bags
   Product Type: Bolsas
   Availability: Available
@@ -1779,7 +1702,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/modular_wallet_light_pink_4b49faa2-1dbd-4d64-b8c5-9e5deb41ae6c.webp?v=1788285579
   Price: R$ 390,00 BRL
 - [Bolsa Pouch Marrom em Camurça e Couro | Esthera](https://www.esthera.com.br/products/esthera-pouch-camurca-copy): Bolsa pouch camurça e couro macio marrom com base ergonômica que se ajusta ao corpo. Abertura deslizante prática, forro 100% algodão e alça longa ajustável.
-  Updated: 2026-11-14T19:35:45Z
+  Updated: 2026-11-23T00:29:15Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
@@ -1800,7 +1723,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/4pm_mini_dark_green.webp?v=1788888204
   Price: R$ 2.580,00 BRL
 - [Bolsa Pouch Verde em Couro Legítimo | Esthera](https://www.esthera.com.br/products/esthera-pouch-verde): Bolsa Pouch verde Esthera em couro legítimo com forro 100% algodão. Adapte o visual sofisticado com alça longa tiracolo e abertura deslizante prática.
-  Updated: 2026-10-27T02:33:05Z
+  Updated: 2026-11-17T19:32:36Z
   Vendor: Esthera Brasil
   Product Type: Bolsas
   Availability: Available
@@ -1834,67 +1757,146 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/Leaf_clutch_5_04e6aeb6-6ba5-473f-83f1-b79c1a96f4b5.webp?v=1788892967
   Price: R$ 2.580,00 BRL
-[List Continued](https://www.esthera.com.br/a/llms-agent/llms.txt?shop=esthera-brasil.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MzMxODA1NzgyMjM4LCJsYXN0X3ZhbHVlIjoiOTMzMTgwNTc4MjIzOCJ9)
+- [Bolsa Tiracolo e Mão Preta em Couro Leaf Clutch | Esthera](https://www.esthera.com.br/products/leaf-clutch-preto): Bolsa clutch preta em couro legítimo texturizado com alça de corrente metálica. Detalhes em metal dourado de folha e fecho magnético prático.
+  Updated: 2026-11-03T12:51:45Z
+  Vendor: Esthera Brasil
+  Product Type: Bolsas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/Leaf_Clutch_1_1f526f4d-703b-431c-8852-6847d2394a74.webp?v=1788893385
+  Price: R$ 2.580,00 BRL
+- [Sapatilha Classic Ballerinas Marrom | Esthera Brasil](https://www.esthera.com.br/products/classic-ballerinas-cognac): Sapatilha  Classic Ballerinas Cognac , feminina, sapatilha premium em sarja, calçado feminino sofisticado, sapatilha confortável de luxo, sapatilha Esthera, moda feminina consciente.
+  Updated: 2026-11-13T17:46:20Z
+  Vendor: Esthera Brasil
+  Product Type: Sapatilha
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/Sapatilha_marron__1.webp?v=1792149695
+  - [Marrom / 34](https://www.esthera.com.br/products/classic-ballerinas-cognac?variant=49013362786526)
+    Availability: Not Available
+    Price: R$ 395,00 BRL
+  - [Marrom / 35](https://www.esthera.com.br/products/classic-ballerinas-cognac?variant=49013362819294)
+    Availability: Not Available
+    Price: R$ 395,00 BRL
+  - [Marrom / 36](https://www.esthera.com.br/products/classic-ballerinas-cognac?variant=49013362852062)
+    Availability: Available
+    Price: R$ 395,00 BRL
+  - [Marrom / 37](https://www.esthera.com.br/products/classic-ballerinas-cognac?variant=49013362884830)
+    Availability: Available
+    Price: R$ 395,00 BRL
+  - [Marrom / 38](https://www.esthera.com.br/products/classic-ballerinas-cognac?variant=49013362917598)
+    Availability: Not Available
+    Price: R$ 395,00 BRL
+  - [Marrom / 39](https://www.esthera.com.br/products/classic-ballerinas-cognac?variant=49013362950366)
+    Availability: Not Available
+    Price: R$ 395,00 BRL
+- [Sapatilha 6pm Rosa  | Esthera Brasil](https://www.esthera.com.br/products/velvet-ballerinas-light-pink): Descubra a Sapatilha Mary Jane Esthera em veludo Rosa Antigo . Toque aveludado, design autoral, solado sustentável e elegância singular para os seus looks. Conheça!
+  Updated: 2026-11-13T17:46:21Z
+  Vendor: Esthera Brasil
+  Product Type: Sapatilha
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/sapato_rosa_veludo__5.webp?v=1790088185
+  - [Rosa / 34](https://www.esthera.com.br/products/velvet-ballerinas-light-pink?variant=49013695414494)
+    Availability: Available
+    Price: R$ 395,00 BRL
+  - [Rosa / 35](https://www.esthera.com.br/products/velvet-ballerinas-light-pink?variant=49013695447262)
+    Availability: Available
+    Price: R$ 395,00 BRL
+  - [Rosa / 36](https://www.esthera.com.br/products/velvet-ballerinas-light-pink?variant=49013695480030)
+    Availability: Available
+    Price: R$ 395,00 BRL
+  - [Rosa / 37](https://www.esthera.com.br/products/velvet-ballerinas-light-pink?variant=49013695512798)
+    Availability: Available
+    Price: R$ 395,00 BRL
+  - [Rosa / 38](https://www.esthera.com.br/products/velvet-ballerinas-light-pink?variant=49013695545566)
+    Availability: Available
+    Price: R$ 395,00 BRL
+  - [Rosa / 39](https://www.esthera.com.br/products/velvet-ballerinas-light-pink?variant=49013695578334)
+    Availability: Available
+    Price: R$ 395,00 BRL
+- [Sapatilha Velvet Ballerinas Burgundy  | Esthera Brasil](https://www.esthera.com.br/products/velvet-ballerinas-burgundy): Descubra a Sapatilha Mary Jane Esthera em veludo vinho. Toque aveludado, design autoral, solado sustentável e elegância singular para os seus looks. Conheça!
+  Updated: 2026-11-13T17:46:21Z
+  Vendor: Esthera Brasil
+  Product Type: Sapatilha
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0695/8828/7710/files/Sapatilha_vinho_veludo__7.webp?v=1790087791
+  - [Burgundy / 34](https://www.esthera.com.br/products/velvet-ballerinas-burgundy?variant=49013723070686)
+    Availability: Available
+    Price: R$ 395,00 BRL
+  - [Burgundy / 35](https://www.esthera.com.br/products/velvet-ballerinas-burgundy?variant=49013723103454)
+    Availability: Not Available
+    Price: R$ 395,00 BRL
+  - [Burgundy / 36](https://www.esthera.com.br/products/velvet-ballerinas-burgundy?variant=49013723136222)
+    Availability: Available
+    Price: R$ 395,00 BRL
+  - [Burgundy / 37](https://www.esthera.com.br/products/velvet-ballerinas-burgundy?variant=49013723168990)
+    Availability: Available
+    Price: R$ 395,00 BRL
+  - [Burgundy / 38](https://www.esthera.com.br/products/velvet-ballerinas-burgundy?variant=49013723201758)
+    Availability: Available
+    Price: R$ 395,00 BRL
+  - [Burgundy / 39](https://www.esthera.com.br/products/velvet-ballerinas-burgundy?variant=49013723234526)
+    Availability: Available
+    Price: R$ 395,00 BRL
+[List Continued](https://www.esthera.com.br/a/llms-agent/llms.txt?shop=esthera-brasil.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MzMzMDUzMzU4MzAyLCJsYXN0X3ZhbHVlIjoiOTMzMzA1MzM1ODMwMiJ9)
 
 ## Collections
 
 - [Acessórios](https://www.esthera.com.br/collections/acessorios): Descubra cintos reversíveis e carteiras exclusivas com design moderno. Ideal para quem busca estilo e funcionalidade em acessórios de moda.
-  Updated: 2026-11-14T12:18:17Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 188
 - [Bolsas de ombro](https://www.esthera.com.br/collections/bolsas-de-ombro): Descubra a fusão perfeita de qualidade, pesquisa e criatividade. Conheça as nossas bolsas de ombro que são declarações de individualidade. Acesse!
-  Updated: 2026-11-15T12:20:48Z
-  Total Products: 81
+  Updated: 2026-11-22T12:17:24Z
+  Total Products: 77
 - [Bolsas transversais](https://www.esthera.com.br/collections/bolsas-transversais): Pesquisa e criatividade são basilares das nossas bolsas transversais. Feitas com material de alta qualidade, os acessórios são únicos. Descubra!
-  Updated: 2026-11-15T12:20:48Z
-  Total Products: 62
-- [Novidades em bolsas, carteiras, cintos e mais](https://www.esthera.com.br/collections/novidades-esthera): Descubra a coleção exclusiva de bolsas Esthera. Encontre modelos versáteis e elegantes para todas as ocasiões, com qualidade premium. Confira!
-  Updated: 2026-11-15T12:20:48Z
-  Total Products: 110
-- [Bolsas](https://www.esthera.com.br/collections/bolsas): Conheça as bolsas Esthera em diferentes modelos e materiais, pensadas para unir praticidade, conforto e elegância no dia a dia. Venha conferir!
-  Updated: 2026-11-15T12:20:48Z
-  Total Products: 101
-- [Bolsas de mão](https://www.esthera.com.br/collections/bolsas-de-mao): Com foco na qualidade e inovação, as bolsas de mão femininas são declarações de individualidade. Descubra nossos modelos luxuosos!
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 54
+- [Novidades em bolsas, carteiras, cintos e mais](https://www.esthera.com.br/collections/novidades-esthera): Descubra a coleção exclusiva de bolsas Esthera. Encontre modelos versáteis e elegantes para todas as ocasiões, com qualidade premium. Confira!
+  Updated: 2026-11-22T12:17:24Z
+  Total Products: 106
+- [Bolsas](https://www.esthera.com.br/collections/bolsas): Conheça as bolsas Esthera em diferentes modelos e materiais, pensadas para unir praticidade, conforto e elegância no dia a dia. Venha conferir!
+  Updated: 2026-11-22T12:17:24Z
+  Total Products: 83
+- [Bolsas de mão](https://www.esthera.com.br/collections/bolsas-de-mao): Com foco na qualidade e inovação, as bolsas de mão femininas são declarações de individualidade. Descubra nossos modelos luxuosos!
+  Updated: 2026-11-22T12:17:24Z
+  Total Products: 48
 - [Bolsas de viagens](https://www.esthera.com.br/collections/bolsas-de-viagem): Descubra bolsas de viagem resistentes, elegantes e práticas, ideais para qualquer tipo de viagem e para manter seus pertences organizados. Confira!
   Updated: 2026-11-12T05:03:53Z
   Total Products: 11
 - [AM/PM Collection: Bolsas para o dia e a noite](https://www.esthera.com.br/collections/am-pm): Descubra nossa coleção exclusiva de bolsas: modelos como handbag e shoulder bag em cores vibrantes e design sofisticado. Veja as melhores ofertas!
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 171
 - [Crab Collection: bolsas tiracolo e transversal](https://www.esthera.com.br/collections/crab-collection): Explore a Crab Collection com bolsas tiracolo e transversal em couro e ráfia. Design sofisticado para o dia a dia e eventos especiais. Descubra!
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 40
 - [PROMOCIONAIS](https://www.esthera.com.br/collections/nao-promocionais): Descubra a coleção exclusiva de bolsas e acessórios em promoção na Esthera. Aproveite ofertas especiais e encontre o estilo perfeito para você. Veja!
-  Updated: 2026-11-15T12:20:48Z
-  Total Products: 271
+  Updated: 2026-11-22T12:17:24Z
+  Total Products: 253
 - [Cintos](https://www.esthera.com.br/collections/cintos): Explore nossa coleção exclusiva de cintos reversíveis e tradicionais com design elegante em diversas cores e fivelas. Confira agora!
-  Updated: 2026-11-12T12:19:54Z
+  Updated: 2026-11-20T12:19:06Z
   Total Products: 67
 - [Carteiras de couro](https://www.esthera.com.br/collections/carteira): Mantenha seus cartões e documentos organizados com as carteiras em couro da Esthera. Design autoral, cores elegantes e acabamento premium. Confira!
-  Updated: 2026-11-12T12:19:54Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 27
 - [Todos os produtos Esthera: bolsas, cintos e mais](https://www.esthera.com.br/collections/todos-os-produtos-1): Descubra todos os produtos Esthera: bolsas, cintos, bonés e acessórios. Qualidade e design superior em cada peça da nossa coleção completa.
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 398
 - [Bolsas Promocionais](https://www.esthera.com.br/collections/bolsas-promocionais): Descubra nossa coleção de bolsas promocionais com variedade de cores e estilos para todos os gostos. Aproveite preços especiais e renove seu visual!
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 92
 - [Casa](https://www.esthera.com.br/collections/casa): Confira mantas elegantes e velas aromáticas premium para transformar o ambiente da sua casa com estilo e aconchego. Acesse o site e descubra!
   Updated: 2026-10-21T19:21:47Z
   Total Products: 9
 - [Podem entrar na Wishlist](https://www.esthera.com.br/collections/podem-entrar-na-wishlist): Coleção para definir quais produtos podem aceitar o cupom de Wishlist
-  Updated: 2026-11-15T12:20:48Z
-  Total Products: 104
+  Updated: 2026-11-22T12:17:24Z
+  Total Products: 88
 - [AVADA - Best Sellers](https://www.esthera.com.br/collections/avada-best-sellers)
-  Updated: 2026-11-15T12:20:48Z
-  Total Products: 273
+  Updated: 2026-11-22T12:17:24Z
+  Total Products: 255
 - [Coleção 003](https://www.esthera.com.br/collections/colecao-003): Esthera Coleção 003 - verão 26
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 24
 - [GIFT](https://www.esthera.com.br/collections/gift): Descubra a coleção GIFT com bolsas, velas e itens exclusivos, aproveitando descontos especiais para presentear com estilo e sofisticação. Confira!
-  Updated: 2026-11-15T12:20:48Z
-  Total Products: 197
+  Updated: 2026-11-22T12:17:24Z
+  Total Products: 181
 - [Bonés](https://www.esthera.com.br/collections/bones): Descubra a coleção de bonés em 100% algodão com bordados detalhados e cores exclusivas, ideais para compor looks casuais com conforto e estilo!
   Updated: 2026-10-30T02:53:28Z
   Total Products: 8
@@ -1902,181 +1904,181 @@
   Updated: 2026-10-30T19:45:13Z
   Total Products: 6
 - [Outlet](https://www.esthera.com.br/collections/outlet): Shop nossa : Garanta peças sofisticadas Esthera com descontos significativos. Ofertas por tempo limitado para elevar seu estilo com economia.
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 79
 - [Presentes](https://www.esthera.com.br/collections/presentes): Surpreenda com a seleção de produtos presenteáveis Esthera. Cintos, lenços, carteiras e alças em design autoral,  em couro e 100% brasileiro . Encontre o presente ideal!
-  Updated: 2026-11-14T12:18:17Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 70
 - [Verão 26](https://www.esthera.com.br/collections/verao-26): Explore o Verão 26 Esthera: a essência do frescor e da elegância. Descubra acessórios exclusivos feitos para brilhar sob o sol com máximo estilo e luxo.
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T03:00:06Z
   Total Products: 32
 - [Presentes](https://www.esthera.com.br/collections/gifts): Guia de Presentes Esthera: Escolha entre bolsas e acessórios de luxo para surpreender quem você ama. Peças atemporais que celebram momentos especiais.
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 106
 - [Festa](https://www.esthera.com.br/collections/festa): Coleção Festa Esthera: Elegância e brilho para seus momentos especiais. Descubra bolsas e acessórios sofisticados, perfeitos para casamentos e eventos.
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 16
 - [Viagem](https://www.esthera.com.br/collections/viagem): Na Esthera, sua viagem ganha estilo com nossa linha de acessórios em couro premium. Bolsas resistentes e sofisticadas para quem não abre mão do luxo ao viajar.
-  Updated: 2026-11-13T12:20:09Z
+  Updated: 2026-11-21T12:19:47Z
   Total Products: 14
 - [Verão](https://www.esthera.com.br/collections/verao): Na Esthera, a moda Verão ganha vida com acessórios de luxo. Encontre bolsas em couro legítimo e nylon premium que unem praticidade e elegância. Confira agora!
-  Updated: 2026-11-15T03:02:11Z
+  Updated: 2026-11-22T03:01:08Z
   Total Products: 11
 - [Gift Guide: Viajante](https://www.esthera.com.br/collections/gift-guide-viajante)
-  Updated: 2026-11-13T12:20:09Z
+  Updated: 2026-11-21T12:19:47Z
   Total Products: 22
 - [Coleção 004](https://www.esthera.com.br/collections/colecao-004)
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 109
 - [Best Sellers](https://www.esthera.com.br/collections/best-seller): As Bolsas mais queridas e vendidas na Esthera ! Conheça nossa coleção de Best Sellers e garanta a sua !
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 24
 - [Inverno 26](https://www.esthera.com.br/collections/inverno-26): Na Esthera, o Inverno 2026 chega com acessórios de luxo que unem conforto e elegância. Explore bolsas em couro legítimo com design autoral. Garanta a sua!
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 136
 - [Esthera com Cristais Swarovski®](https://www.esthera.com.br/collections/esthera-cristais-swarovski): Esthera com Cristais Swarovski. Conjunto premium em tom rose com aplicação de cristais. Inclui bolsas e acessório com acabamento brilhante e elegante.
-  Updated: 2026-11-14T12:18:17Z
+  Updated: 2026-11-20T12:19:06Z
   Total Products: 21
 - [Gift Guide dia das Mães](https://www.esthera.com.br/collections/gift-guide-dia-das-maes): Esthera Gift guide dia das mães com curadoria exclusiva de bolsas e acessórios. Encontre o presente ideal em couro legítimo com design sofisticado e atemporal.
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 55
 - [In Motion](https://www.esthera.com.br/collections/in-motion): Na Esthera, a coleção In Motion traz bolsas de nylon com estética moderna e toque de luxo. Design versátil para acompanhar seu ritmo com elegância e conforto total.
-  Updated: 2026-11-14T12:18:17Z
+  Updated: 2026-11-19T12:18:01Z
   Total Products: 9
 - [Bolsas de Nylon](https://www.esthera.com.br/collections/bolsas-de-nylon)
-  Updated: 2026-11-14T12:18:17Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 12
 - [Bolsas de Camurça](https://www.esthera.com.br/collections/bolsas-de-nylon-copy)
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 15
 - [Bolsas de Canva](https://www.esthera.com.br/collections/bolsas-de-camurca-copy)
-  Updated: 2026-11-06T12:16:59Z
+  Updated: 2026-11-18T12:21:05Z
   Total Products: 3
 - [Bolsas de trabalho](https://www.esthera.com.br/collections/bolsas-de-trabalho): Encontre bolsas femininas para trabalho e notebook em couro legítimo na Esthera. Modelos executivos, maxi bags e mochilas elegantes para o escritório.
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 49
 - [Bolsas de festa](https://www.esthera.com.br/collections/bolsas-de-festas): Descubra a coleção de bolsas de festa e clutches em couro legítimo da Esthera. Peças compactas em couro e camurça com design exclusivo para momentos especiais.
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 39
 - [Espectro do Amor](https://www.esthera.com.br/collections/dia-dos-namorados-esthera): Dia dos Namorados O amor não tem uma cor só. Tem tons. Cada um com uma temperatura, uma intensidade, um momento.Vermelho acelera, rosa acolhe. Um chega sem avisar, o outro fica sem pedir. Entre os dois existe um espectro inteiro e toda relação real vive nessa mistura.Qual a cor do seu amor?
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 58
 - [bolsa de couro](https://www.esthera.com.br/collections/bolsa-de-couro)
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 197
 - [Bolsa Pouch](https://www.esthera.com.br/collections/bolsa-pouch)
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-21T12:19:47Z
   Total Products: 11
 - [Porta celular](https://www.esthera.com.br/collections/porta-celular)
-  Updated: 2026-11-15T03:00:10Z
+  Updated: 2026-11-21T12:19:47Z
   Total Products: 9
 - [Bolsa clutch](https://www.esthera.com.br/collections/bolsa-clutch)
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 20
 - [Mochila Esthera](https://www.esthera.com.br/collections/mochila-esthera)
-  Updated: 2026-11-12T12:19:54Z
+  Updated: 2026-11-20T12:19:06Z
   Total Products: 5
 - [Cinto 2 em 1](https://www.esthera.com.br/collections/cinto-2-em-1)
-  Updated: 2026-11-11T12:19:58Z
+  Updated: 2026-11-22T12:17:23Z
   Total Products: 16
 - [Porta Passaporte](https://www.esthera.com.br/collections/porta-passaporte)
   Updated: 2026-11-03T12:51:38Z
   Total Products: 7
 - [Lenços Esthera](https://www.esthera.com.br/collections/lencos-esthera)
-  Updated: 2026-11-02T12:18:26Z
+  Updated: 2026-11-20T12:19:06Z
   Total Products: 4
 - [Estojo Esthera](https://www.esthera.com.br/collections/estojo-esthera)
   Updated: 2026-11-14T12:18:17Z
   Total Products: 6
 - [Alças](https://www.esthera.com.br/collections/alcas): Esthera apresenta alças exclusivas para transformar suas bolsas. Garanta versatilidade e estilo com modelos tiracolo em couro e correntes em ouro escovado.
-  Updated: 2026-11-14T12:18:17Z
+  Updated: 2026-11-20T12:19:06Z
   Total Products: 10
 - [Rider](https://www.esthera.com.br/collections/rider)
   Updated: 2026-11-14T12:18:17Z
   Total Products: 3
 - [Esthera X Tangle Teezer](https://www.esthera.com.br/collections/esthera-x-tangle-teezer)
-  Updated: 2026-11-12T12:19:54Z
+  Updated: 2026-11-19T12:18:01Z
   Total Products: 3
 - [Gift Guide - Dia dos Namorados](https://www.esthera.com.br/collections/gift-guide-dia-dos-namorados)
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 47
 - [NÃO MEXER!!](https://www.esthera.com.br/collections/nao-mexer)
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 414
 - [All Products](https://www.esthera.com.br/collections/all)
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 414
 - [EG All Products - DO NOT EDIT](https://www.esthera.com.br/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu’elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 398
 - [Burgundy](https://www.esthera.com.br/collections/burgundy)
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 24
 - [Camurça](https://www.esthera.com.br/collections/camurca)
-  Updated: 2026-11-06T17:23:39Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 8
 - [Molho Brasileiro](https://www.esthera.com.br/collections/molho-brasileiro): Seleção Esthera para vibrar com o Brasil na Copa do mundo 26
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:23Z
   Total Products: 38
 - [BLACK 30% OFF](https://www.esthera.com.br/collections/-30-off-new): Conheça a Esthera: bolsas de couro e acessórios femininos com design sofisticado e acabamento impecável com 30% Off. Eleve seu estilo a cada detalhe. Compre online!
-  Updated: 2026-11-15T12:20:48Z
-  Total Products: 16
+  Updated: 2026-11-22T12:17:24Z
+  Total Products: 19
 - [BLACK 50% OFF](https://www.esthera.com.br/collections/-50-off-new): Garanta 50% OFF na seleção de bolsas e acessórios em couro Esthera. Design sofisticado, acabamento impecável e elegância com desconto exclusivo. Confira!
-  Updated: 2026-11-15T12:20:48Z
-  Total Products: 31
+  Updated: 2026-11-22T12:17:23Z
+  Total Products: 32
 - [](https://www.esthera.com.br/collections/): Na  da Esthera, você encontra bolsas de couro legítimo em promoção. Garanta designs exclusivos com condições imperdíveis e estoque limitado.
   Updated: 2026-11-03T12:31:02Z
   Total Products: 1
 - [Verde Mangaba](https://www.esthera.com.br/collections/verde-mangaba)
-  Updated: 2026-11-15T03:02:14Z
+  Updated: 2026-11-21T12:19:47Z
   Total Products: 3
 - [Produtos fora de ](https://www.esthera.com.br/collections/produtos-em-)
-  Updated: 2026-11-15T12:20:48Z
-  Total Products: 277
+  Updated: 2026-11-22T12:17:24Z
+  Total Products: 267
 - [ - SELEÇÃO ESPECIAL](https://www.esthera.com.br/collections/-selecao-especial)
   Updated: 2026-11-03T20:37:12Z
   Total Products: 5
 - [Best Sellers (Cópia)](https://www.esthera.com.br/collections/best-sellers-copia): Best Sellers Esthera, não perca!
-  Updated: 2026-11-15T12:20:48Z
-  Total Products: 101
+  Updated: 2026-11-22T12:17:24Z
+  Total Products: 83
 - [Coleção 005](https://www.esthera.com.br/collections/colecao-005)
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 49
 - [Modernismo Brasileiro](https://www.esthera.com.br/collections/modernismo-brasileiro)
   Updated: 2026-11-14T12:18:17Z
   Total Products: 23
 - [Lenços, Twillys e mais](https://www.esthera.com.br/collections/lencos-twillys-e-mais): Transforme seu visual com os lenços e twillys em seda pura e cachecóis em lã. Design modernista e cores elegantes para personalizar o seu estilo. Confira!
-  Updated: 2026-11-14T12:18:17Z
+  Updated: 2026-11-20T12:19:06Z
   Total Products: 22
 - [Black Friday Esthera](https://www.esthera.com.br/collections/black-friday-esthera): Confira as ofertas de Black Friday em Bolsas Esthera: Shoulder Bags, Mochilas e acessórios em couro com até 50% OFF e frete grátis. Garanta a sua!
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 102
 - [Bolsas das Novelas](https://www.esthera.com.br/collections/bolsas-das-novelas): Descubra as bolsas Esthera que conquistaram as telas das novelas. Modelos sofisticados, autorais e atemporais para levar mais personalidade ao seu cotidiano.
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 13
 - [Calçados](https://www.esthera.com.br/collections/calcados): Renove seu estilo com os Calçados Esthera! Conforto incomparável, design exclusivo e o melhor da moda em calçados femininos. Acesse a loja e aproveite as novidades!
   Updated: 2026-10-21T19:21:51Z
   Total Products: 10
 - [Acesso Antecipado](https://www.esthera.com.br/collections/acesso-antecipado)
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 101
 - [Coleção Ráfia | Alto Verão 27](https://www.esthera.com.br/collections/colecao-rafia-alto-verao-27)
   Updated: 2026-11-05T12:19:04Z
   Total Products: 3
 - [BLACK 20% OFF](https://www.esthera.com.br/collections/-20-off-new): A nova coleção Esthera chegou com 20% OFF! Encontre bolsas para renovar seu estilo com elegância. Aproveite o frete!
-  Updated: 2026-11-11T12:19:58Z
+  Updated: 2026-11-22T12:17:23Z
   Total Products: 18
 - [BLACK 60% OFF](https://www.esthera.com.br/collections/black-60-off-new): Garanta até 60% OFF em bolsas femininas de couro na Esthera. Peças atemporais com descontos especiais por tempo limitado. Peça a sua antes que acabe!
-  Updated: 2026-11-15T12:20:48Z
-  Total Products: 25
+  Updated: 2026-11-22T12:17:24Z
+  Total Products: 24
 - [BLACK 70% OFF](https://www.esthera.com.br/collections/black-70-off-new): Economize 70% OFF em bolsas femininas de couro na Esthera. Peças exclusivas e atemporais com os menores preços. Peça a sua antes que esgote!
-  Updated: 2026-11-15T12:20:48Z
-  Total Products: 8
+  Updated: 2026-11-22T12:17:24Z
+  Total Products: 19
 - [Halloween](https://www.esthera.com.br/collections/halloween): O Halloween da Esthera chegou! Descubra a seleção especial de bolsas pretas e acessórios elegantes a partir de  20% OFF. Escolha a sua online!
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 47
 - [GOLDEN STICKERS CLUB](https://www.esthera.com.br/collections/golden-stickers-club): Coleção exclusiva para os apaixonados em bolsa Esthera.
-  Updated: 2026-11-15T12:20:48Z
+  Updated: 2026-11-22T12:17:24Z
   Total Products: 80
 
 ## Store Pages
