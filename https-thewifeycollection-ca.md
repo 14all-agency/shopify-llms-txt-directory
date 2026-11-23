@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2016-08-27T01:53:23Z
 - Contact Email: admin@thewifeycollection.ca
-- Updated At: 2026-11-15T00:21:49.527Z
+- Updated At: 2026-11-23T00:19:30.918Z
 
 he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abayas, kaftans, gowns, cloaks, and outerwear in Canada. Our pieces are made to order, modest in silhouette, and designed for the woman who dresses with intention and grace.
 
@@ -331,6 +331,18 @@ he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abay
     Updated: 2026-11-14T09:00:50Z
     Author: The Wifey Collection
     Tags: chic attire, contemporary clothing, elegant design, fashion, modest fashion, modest fashion trends, modesty, stylish modest outfits
+  - [Infinite Grace: The Purity of Modesty in High-End Fashion](https://thewifeycollection.ca/blogs/news/infinite-grace-the-purity-of-modesty-in-high-end-fashion): Infinite Grace: The Purity of Modesty in High-End Fashion
+    Updated: 2026-11-17T09:00:25Z
+    Author: The Wifey Collection
+    Tags: chic modesty, elegant modest clothing, fashion, high-end fashion, modest, modest clothing, modest fashion trends, style
+  - [Art and Artistry: Celebrating Canada's Commitment to Modest Dress](https://thewifeycollection.ca/blogs/news/art-and-artistry-celebrating-canadas-commitment-to-modest-dress): Art and Artistry: Celebrating Canada's Commitment to Modest Dress
+    Updated: 2026-11-19T09:01:03Z
+    Author: The Wifey Collection
+    Tags: artistry in fashion, canadian fashion, celebrating modesty in canada, cultural attire, fashion, modest, modest dress, style
+  - [Voices of Moderation: Why Modest Fashion Captures Timelessness](https://thewifeycollection.ca/blogs/news/voices-of-moderation-why-modest-fashion-captures-timelessness): Voices of Moderation: Why Modest Fashion Captures Timelessness
+    Updated: 2026-11-21T09:00:51Z
+    Author: The Wifey Collection
+    Tags: chic modesty, embrace modest dressing, fashion, modern modesty, modest fashion, modest fashion styles, modesty, timeless
 
 ## Store Pages
 
