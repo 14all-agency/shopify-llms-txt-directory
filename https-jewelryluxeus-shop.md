@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-04-21T18:24:19Z
 - Contact Email: Jewelryluxeus@gmail.com
-- Updated At: 2026-11-15T00:33:11.280Z
+- Updated At: 2026-11-23T00:28:16.821Z
 
 ## Products
 
@@ -172,6 +172,28 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_149_transformation_14474.jpg?v=1780728550
     Price: $74.95 USD
+- [Custom Family Tree Necklace - Stainless Steel & Birthstone](https://jewelryluxeus.shop/products/custom-family-tree-necklace): Discover our Custom Family Tree Necklace, crafted from durable stainless steel. Personalize with birthstones – a cherished gift. Shop now!
+  Updated: 2026-11-22T18:58:32Z
+  Vendor: cmoffer
+  Product Type: Best Pieces of Family & Mother's Jewelry ,Birthstone Necklaces
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cdqaaenuqhav33o9uml0.jpg?v=1745737471
+  - [2](https://jewelryluxeus.shop/products/custom-family-tree-necklace?variant=54726769410372)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cdqaarfuqhav33o9umr0.jpg?v=1745737435
+    Price: $16.09 USD
+  - [3](https://jewelryluxeus.shop/products/custom-family-tree-necklace?variant=54726769443140)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cdqaamvuqhav33o9umq0.jpg?v=1745737440
+    Price: $16.49 USD
+  - [4](https://jewelryluxeus.shop/products/custom-family-tree-necklace?variant=54726769475908)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cdqaajnuqhav33o9ump0.jpg?v=1745737444
+    Price: $16.89 USD
+  - [5](https://jewelryluxeus.shop/products/custom-family-tree-necklace?variant=54726769508676)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cdqaaenuqhav33o9umi0.jpg?v=1745737449
+    Price: $17.29 USD
 - [Custom Name Hug Necklace - Personalized Gift for Her](https://jewelryluxeus.shop/products/custom-name-hug-necklace): Custom name hug necklace - white gold or gold plated, 45cm chain, personalized engraving. A warm, meaningful gift for her for any occasion.
   Updated: 2026-11-13T15:39:37Z
   Vendor: cmoffer
@@ -218,6 +240,13 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cvr1vmgldusuk63qq2m0.jpg?v=1745737566
     Price: $18.99 USD
+- [Infinity Birthstone Ring: Customized Elegance](https://jewelryluxeus.shop/products/custom-birthstone-infinity-earring): Create your unique Custom Birthstone Infinity Earring. Personalize with your birthstone, crafted in white gold plated copper. Find yours today!
+  Updated: 2026-11-22T18:57:22Z
+  Vendor: cmoffer
+  Product Type: Birthstone Earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/ce7aq8nuqhav33oa34hg.jpg?v=1745738079
+  Price: $24.69 USD
 - [Custom Photo Pocket Watch - Personalized Gift for Him](https://jewelryluxeus.shop/products/custom-photo-pocket-watch): Custom photo pocket watch - alloy, 37cm chain, personalized with your cherished photo. A unique & meaningful keepsake gift for him for any occasion.
   Updated: 2026-11-13T15:39:37Z
   Vendor: cmoffer
@@ -939,6 +968,38 @@
   - [Luxury Necklace (Gold) / Yes](https://jewelryluxeus.shop/products/heartfelt-luxury-gift-from-dad-stunning-heart-pendant-necklace-for-daughter-symbol-of-love-affection?variant=54814388683076)
     Availability: Available
     Price: $59.95 USD
+- [Custom Graduation Pendant Necklace for Class of 2025](https://jewelryluxeus.shop/products/custom-graduation-pendant-necklace): Celebrate your achievement with our Custom Graduation Pendant Necklace, a personalized keepsake in stunning finishes to honor the Class of 2025.
+  Updated: 2026-11-22T18:57:09Z
+  Vendor: cmoffer
+  Product Type: 2023-05,Graduate & Class Rings,Engraved Necklaces
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/chfgcjoldusr1ado17h0.jpg?v=1747205238
+  - [White Gold Plated](https://jewelryluxeus.shop/products/custom-graduation-pendant-necklace?variant=54839046013252)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/chfgcjoldusr1ado17ig.jpg?v=1747205213
+    Price: $32.50 USD
+  - [Gold Plated](https://jewelryluxeus.shop/products/custom-graduation-pendant-necklace?variant=54839046046020)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/chfgct0ldusr1ado17l0.jpg?v=1747205218
+    Price: $32.50 USD
+  - [Rose Gold Plated](https://jewelryluxeus.shop/products/custom-graduation-pendant-necklace?variant=54839046078788)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/chfgdtgldusr1ado17m0.jpg?v=1747205222
+    Price: $32.50 USD
+- [Custom Name Horse Heart Keychain for Horse Lovers](https://jewelryluxeus.shop/products/custom-name-acrylic-valentine-day-keychain-horse-heart-shape-keychain): Personalize your keys with our Custom Name Horse Heart Keychain, a stylish acrylic gift perfect for horse lovers this Valentine’s Day!
+  Updated: 2026-11-22T18:57:27Z
+  Vendor: cmoffer
+  Product Type: 2023-12,Valentine's Day,Key Chains
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/clsj6ooldusu18ua6c8g.jpg?v=1747205317
+  Price: $24.92 USD
+- [Custom Letter Cufflinks for Men – Personalized Gift](https://jewelryluxeus.shop/products/custom-letter-cufflinks): Elevate any outfit with personalized stainless steel cufflinks, perfect for grooms, dads, or husbands on special occasions or everyday elegance.
+  Updated: 2026-11-22T18:57:23Z
+  Vendor: cmoffer
+  Product Type: New Arrival,2025-1,Cufflinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cu71vr8ldusomppjtbh0.jpg?v=1747205493
+  Price: $14.99 USD
 - [Custom Engraved Pocket Watch – Personalized Gift for Him](https://jewelryluxeus.shop/products/custom-pocket-watch): Discover the elegance of our custom engraved pocket watch, a timeless keepsake perfect for anniversaries, weddings, and heartfelt gifts.
   Updated: 2026-11-06T09:34:51Z
   Vendor: cmoffer
@@ -1030,6 +1091,13 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_130_transformation_343_6bae0062-f863-41a6-a3a5-be436094356f.png?v=1747644293
     Price: $74.95 USD
+- [Custom Photo Projection Necklace - JewelryLuxeUS.store](https://jewelryluxeus.shop/products/custom-photo-projection-birthstone-necklace): Unique birthstone necklace with photo projection. Gold plated, personalized for lasting elegance.
+  Updated: 2026-11-22T18:57:22Z
+  Vendor: cmoffer
+  Product Type: New Arrival,2025-5,Birthstone Necklaces,Photo Necklaces
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/d0i64qoldusuk63qrccg.jpg?v=1748677988
+  Price: $19.99 USD
 - [Luxury Heart Necklace: To My Wife, My Best Friend](https://jewelryluxeus.shop/products/luxury-graphic-heart-necklace-to-my-wife-you-are-my-best-friend-i-always-love-you-heart-pendant-necklace-to-wife-anniversary-birthday-gift-from-husband): Luxury Graphic Heart Necklace - the perfect anniversary or birthday gift for your wife. Show her she's your best friend and true love.
   Updated: 2026-11-06T09:34:52Z
   Vendor: ShineOn Fulfillment
@@ -1289,6 +1357,27 @@
   - [18x30in](https://jewelryluxeus.shop/products/monogram-family-name-personalized-doormat?variant=54971508392260)
     Availability: Available
     Price: $38.74 USD
+- [Friends & Alcohol The Glue Holding This Together - Personalized Whiskey Glass](https://jewelryluxeus.shop/products/friends-alcohol-the-glue-holding-this-together-personalized-whiskey-glass): Best friends are the siblings God forgot to give us.Celebrate the bond that holds everything together with the "Friends & Alcohol The Glue Holding This Together - Personalized Whiskey Glass." This unique and awesome gift is perfect for brothers, siblings, or your bestie who share a love for good drinks and great company. Whether it's for Thanksgiving, birthdays, anniversaries, a special occasion, or just a fun surprise, this meaningful and delightful glass will be a reminder of the laughter, memories, and conversations shared over drinks.Personalized with a special touch, this whiskey glass brings an extra level of thoughtfulness to your gift-giving. It's perfect for enjoying a night of relaxation at home or at a casual hangout with friends. Whether for a drink by the fire or a celebratory toast, this glass is designed to bring joy and appreciation to any occasion. Your sibling or best friend will cherish this happy and heartfelt gift, making every sip even more memorable.Message: "Friends & Alcohol The Glue Holding This Shit Show Together".Description This is a personalized product with a customized design. High-quality material - Expertly crafted from high-quality glass, our whiskey glass offers a clear finish that enhances the presentation of your favorite whiskey, bourbon, or scotch, showcasing its rich hues and inviting texture. Best technique - The product is printed in modern UV print technology. The design is both durable and visually striking, ensuring it remains beautiful and intact over time. Enhanced sensory experience - Wide mouth makes it easy to add ice and feel the strong flavor of the whiskey. Enjoy every nuance of flavor as they play out in harmony, creating the ultimate tasting journey. Timeless and elegant design - This whiskey glass elevates any barware collection with its classic and sophisticated aesthetic. Perfect for both casual sipping and formal occasions, it’s a versatile accessory that complements any setting. A thoughtful gift for enthusiasts - Ideal for whiskey lovers, this glass makes a memorable gift for birthdays, anniversaries, or special celebrations, combining functionality with refined style. Package: 01 whiskey glass. Features Material: Glass Printable area: 2 SIDES Size:- Capacity: 11oz- Height: 3.23 inches (~ 8.2 cm)- Rim diameter: 3.15 inches (~ 8 cm) Please allow about 0.5 - 1 inch differences due to manual measurement.PERSONALIZATION Please complete fields required to customize options (Name/Characteristics) and recheck carefully all the customized options. Text: Standard English excluding special characters, emojis to ensure the best looking. Characteristics: Pick one-by-one options that match your description.
+  Updated: 2026-11-22T19:00:26Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/TS710-CLA742-Mockup1.webp?v=1749053627
+  Price: $29.22 USD
+- [Friends & Alcohol The Glue Holding This Together - Personalized Engraved Whiskey Glass](https://jewelryluxeus.shop/products/friends-alcohol-the-glue-holding-this-together-personalized-engraved-whiskey-glass): You and I are more than friends. We’re like a really small gang.Celebrate the perfect blend of friendship and fun with the Friends & Alcohol The Glue Holding This Together - Personalized Engraved Whiskey Glass. This awesome and unique gift is ideal for your brothers or besties who appreciate both a good drink and great company. Engraved with a humorous and meaningful message, this whiskey glass is a delightful keepsake that’s sure to bring a smile to anyone’s face.Perfect for Thanksgiving, birthdays, anniversaries, or as a thoughtful gift for any occasion, this personalized glass makes a great addition to any collection. Whether used for enjoying a favorite whiskey, bourbon, or cocktail, the Friends & Alcohol The Glue Holding This Together - Personalized Engraved Whiskey Glass adds a special touch to every drink.This meaningful and joyful gift will be appreciated and cherished by those who value their friendships and the memories created over good drinks and great times. A truly unforgettable  of friendship!Message: "Friends & Alcohol The Glue Holding This Shit Show Together".Description This is a personalized product with a customized design. High-quality material - Our whiskey glass is meticulously crafted from glass, ensuring a clear vessel that beautifully showcases the rich hues of your chosen libation. Best technique - With modern engraved technology and featuring precision, the design is both durable and visually striking, ensuring it remains beautiful and intact over time. Enhanced sensory experience - Wide mouth makes it easy to add ice and feel the strong flavor of the whiskey. Enjoy every nuance of flavor as they play out in harmony, creating the ultimate tasting journey. Timeless and elegant design - This whiskey glass elevates any barware collection with a classic and sophisticated aesthetic. Perfect for both casual sipping and formal occasions, it’s a versatile accessory that complements any setting. A thoughtful gift for enthusiasts - Ideal for whiskey lovers, this glass makes a memorable gift for birthdays, anniversaries, or special celebrations, combining functionality with refined style. Care instruction: Can be washed in the dishwasher. Package: 01 whiskey glass. Features Material: Glass Engraved area: Bottom (Outside) Thickness: 0.12 inches (~ 0.3 cm) Size:- Capacity: 11oz- Height: 3.58 inches (~ 9.1 cm)- Upper diameter: 3.21 inches (~ 8.15cm)- Weight: 400g Please allow about 0.5 - 1 inch differences due to manual measurement.PERSONALIZATION Please complete fields required to customize options (Name/Characteristics) and recheck carefully all the customized options. Text: Standard English excluding special characters, emojis to ensure the best looking. Characteristics: Pick one-by-one options that match your description.
+  Updated: 2026-11-22T19:00:22Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/BD1421-CLA664-Mk4.webp?v=1749053656
+  Price: $29.22 USD
+- [Never Too Far To Drink Together - Personalized Engraved Whiskey Glass](https://jewelryluxeus.shop/products/never-too-far-to-drink-together-personalized-engraved-whiskey-glass): No matter how far apart we are, you will always be in my heart.Celebrate the bond of friendship and family with the Never Too Far To Drink Together - Personalized Engraved Whiskey Glass. This awesome and unique whiskey glass is the perfect gift for besties, brothers, or any special men in your life. The heartfelt engraving makes it a meaningful reminder that no distance can ever diminish the connection you share, ensuring your loved ones feel appreciated with every sip.Ideal for birthdays, Thanksgiving, anniversaries, or as a delightful surprise, this personalized whiskey glass adds a personal touch to any occasion. Whether it’s used for enjoying whiskey, bourbon, or any favorite drink, it’s sure to bring a happy and joyful vibe to gatherings, celebrations, or quiet evenings.Perfect for the home bar, office, or man cave, this thoughtful gift will always be cherished, making it a great way to honor the friendships and relationships that mean the most.Message: "Never Too Far To Drink Together".Description This is a personalized product with a customized design. High-quality material - Our whiskey glass is meticulously crafted from glass, ensuring a clear vessel that beautifully showcases the rich hues of your chosen libation. Best technique - With modern engraved technology and featuring precision, the design is both durable and visually striking, ensuring it remains beautiful and intact over time. Enhanced sensory experience - Wide mouth makes it easy to add ice and feel the strong flavor of the whiskey. Enjoy every nuance of flavor as they play out in harmony, creating the ultimate tasting journey. Timeless and elegant design - This whiskey glass elevates any barware collection with a classic and sophisticated aesthetic. Perfect for both casual sipping and formal occasions, it’s a versatile accessory that complements any setting. A thoughtful gift for enthusiasts - Ideal for whiskey lovers, this glass makes a memorable gift for birthdays, anniversaries, or special celebrations, combining functionality with refined style. Care instruction: Can be washed in the dishwasher. Package: 01 whiskey glass. Features Material: Glass Engraved area: Bottom (Outside) Thickness: 0.12 inches (~ 0.3 cm) Size:- Capacity: 11oz- Height: 3.58 inches (~ 9.1 cm)- Upper diameter: 3.21 inches (~ 8.15cm)- Weight: 400g Please allow about 0.5 - 1 inch differences due to manual measurement.PERSONALIZATION Please complete fields required to customize options (Name/Characteristics) and recheck carefully all the customized options. Text: Standard English excluding special characters, emojis to ensure the best looking. Characteristics: Pick one-by-one options that match your description.
+  Updated: 2026-11-22T19:00:21Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/BD1411-CLA643-Mk1.webp?v=1749053675
+  Price: $29.22 USD
 - [I Wined A Lot - Personalized Stemless Wine Glass](https://jewelryluxeus.shop/products/i-wined-a-lot-personalized-stemless-wine-glass): The future belongs to those who believe in the beauty of their dreams.Celebrate your milestones with the I Wined A Lot - Personalized Stemless Wine Glass—a unique, cool, and hilarious way to toast to graduation, promotions, or any occasion where a little "wine-ing" was involved!This funny and gag-worthy stemless wine glass is perfect for unwinding after a long day, sharing laughs with friends, or as a conversation starter at parties. Whether you prefer red, white, or rosé, this joke-worthy and delightful glass is a must-have for wine lovers.Looking for a fun and thoughtful graduation gift? This personalized wine glass makes a perfect present for college grads, wine enthusiasts, and anyone who loves a good laugh. Customize it with a name for a memorable and relatable keepsake that will make every sip extra special!Message: "I wined a lot but I mastered it!".Description This is a personalized product with a customized design. High-quality material - Our stemless wine glass is crafted from high-quality glass, ensuring durability, a refined appearance, and clarity. Its sturdy construction and clean, polished look, make it a perfect addition to any glassware collection. Best technique - The product is printed in modern technology, durable, and vivid color. Perfect design - Elegantly designed with a balanced weight and a rim crafted for a smooth finish, this glass enhances the sensory experience, inviting you to savor the bouquet and body of your finest wines. Our wine glass's transparent glass allows the true color of your beverages to shine through. Interesting multi-function - Our glass is suitable for a range of beverages and occasions, from casual dining to elegant soirees. Simultaneously, this versatile product is also perfect for decorating your home, bedroom, or living room. Ideal as a special gift for anniversaries, weddings, memorials, Christmas, Mother's Day, Father's Day, and more. Care instruction: Hand wash only. Don't use it with a dishwasher or microwave. No soak in water (both hot and cold water). Avoid exceeding temperature. Do not rub hard. Package: 01 stemless wine glass. Features Material: Glass Printable area: 2 SIDES Size:- Capacity: 15oz- Height: 4.25 inches (~ 10.8 cm) Please allow about 0.5 - 1 inch differences due to manual measurement.PERSONALIZATION Please complete the fields required to customize options (Name/Characteristics) and recheck all the customized options carefully. Text: Standard English excluding special characters, and emojis to ensure the best looking. Characteristics: Pick one-by-one options that match your description. In the last step, click "Preview" to get a glimpse of the wonderful creation you’ve made ❤️. Please be aware that the Preview may be slightly different from the physical item in terms of color due to our lighting at our product photoshoot or your device’s display.
   Updated: 2026-11-13T15:39:17Z
   Vendor: Inkedjoy
@@ -1331,6 +1420,33 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/AK1423-NAH4243-Mockup-Default_8aba6af0-84bb-4c5c-9a01-7949c6d22498.webp?v=1749054015
   Price: $31.34 USD
+- [Remembering You - Personalized Photo Stained Glass Window Hanging Suncatcher](https://jewelryluxeus.shop/products/remembering-you-personalized-photo-stained-glass-window-hanging-suncatcher): "Honor the memory of a loved one with our personalized photo stained glass window hanging suncatcher, a beautiful and heartfelt memorial or sympathy gift for family members. Crafted with care and precision, this suncatcher features a cherished photo encased in vibrant stained glass, creating a stunning tribute that catches the light and brings warmth to any space.Customize it with a beloved image and a special message to create a unique and personal keepsake. Each time the sun shines through, it will cast colorful reflections, serving as a gentle reminder of the love and memories shared.This elegant and meaningful gift is perfect for commemorating a loved one’s life and providing comfort during difficult times. Let this personalized stained glass suncatcher be a source of solace and a lasting tribute to those who have passed, keeping their spirit alive in the hearts of those who remember them."MESSAGE:Remembering you is easyWe do it every dayMissing you is a heartache that never goes away.PRODUCT DETAILS:Made from exquisite stained glass, known for its vibrant colors and light-shaping properties.Size: 6 inches (~15.24 cm), 7.8 inches(~19.8 cm).Thickness: 0.12 inches (~ 0.3 cm).1-sided design.Black hanging chain.
+  Updated: 2026-11-22T18:58:59Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Remembering-You--Personalized-Photo-Stained-Glass-Window-Hanging-Suncatcher_1.png?v=1749054556
+  - [6 inches](https://jewelryluxeus.shop/products/remembering-you-personalized-photo-stained-glass-window-hanging-suncatcher?variant=54971560067396)
+    Availability: Available
+    Price: $28.52 USD
+  - [7.8 inches](https://jewelryluxeus.shop/products/remembering-you-personalized-photo-stained-glass-window-hanging-suncatcher?variant=54971560100164)
+    Availability: Available
+    Price: $33.00 USD
+- [Personalized Birth Flower Stained Glass Friendship Suncatcher](https://jewelryluxeus.shop/products/birth-flower-grow-an-old-friend-personalized-stained-glass-window-hanging-suncatcher): Elegant personalized stained glass suncatcher by Inkedjoy. A meaningful gift celebrating friendship with vibrant birth flower designs. Perfect for special occasions.
+  Updated: 2026-11-22T18:58:56Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/FL661-NEL2719-MkWeb01.webp?v=1749054577
+  - [Glass / 4in](https://jewelryluxeus.shop/products/birth-flower-grow-an-old-friend-personalized-stained-glass-window-hanging-suncatcher?variant=54971561607492)
+    Availability: Available
+    Price: $20.28 USD
+  - [Glass / 6in](https://jewelryluxeus.shop/products/birth-flower-grow-an-old-friend-personalized-stained-glass-window-hanging-suncatcher?variant=54971561640260)
+    Availability: Available
+    Price: $28.52 USD
+  - [Glass / 7.8in - Best ](https://jewelryluxeus.shop/products/birth-flower-grow-an-old-friend-personalized-stained-glass-window-hanging-suncatcher?variant=54971561673028)
+    Availability: Available
+    Price: $33.00 USD
 - [Daddy Grilling Plate: Personalized Fire Cartoon Gift](https://jewelryluxeus.shop/products/daddy-grilling-plate-fire-cartoon-personalized-plate): Elevate Dad's grill game with our personalized plate. Unique fire cartoon design, perfect for any grillmaster occasion.
   Updated: 2026-11-13T15:39:14Z
   Vendor: Inkedjoy
@@ -1343,6 +1459,18 @@
   - [14x10in](https://jewelryluxeus.shop/products/daddy-grilling-plate-fire-cartoon-personalized-plate?variant=54971565080900)
     Availability: Available
     Price: $39.54 USD
+- [Pet Loss - Personalized Photo Stained Glass Window Hanging Suncatcher](https://jewelryluxeus.shop/products/pet-loss-personalized-photo-stained-glass-window-hanging-suncatcher): Anyone who sees this heartfelt pet memorial gift will be reminded of their own cherished memories with their pets. This handcrafted pet loss suncatcher, created in memory of a beloved pet who has crossed the Rainbow Bridge, features a cute and unique design that ensures the unforgettable moments spent with their pets are always remembered.MESSAGE: You were my favorite hello and my hardest goodbye. Forever loved. Forever in my heart. Not a day goes by that you are not missed. I'm always with you. PRODUCT DETAILS: Made from exquisite stained glass, known for its vibrant colors and light-shaping properties. Size: 6 inches (~15.24 cm), 7.8 inches (~19.8 cm). Thickness: 0.12 inches (~ 0.3 cm). 1-sided design. Black hanging chain.
+  Updated: 2026-11-22T18:59:00Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/Pet-Loss-Personalized-Photo-Stained-Glass-Window-Hanging-Suncatcher_2.jpg?v=1749054637
+  - [6 inches](https://jewelryluxeus.shop/products/pet-loss-personalized-photo-stained-glass-window-hanging-suncatcher?variant=54971566686532)
+    Availability: Available
+    Price: $28.52 USD
+  - [7.8 inches](https://jewelryluxeus.shop/products/pet-loss-personalized-photo-stained-glass-window-hanging-suncatcher?variant=54971566719300)
+    Availability: Available
+    Price: $33.00 USD
 - [Custom Photo Floral Heart Glass Ornament - JewelryLuxeUS](https://jewelryluxeus.shop/products/custom-photo-floral-forever-in-our-hearts-personalized-heart-shaped-glass-ornament): Capture love with our personalized heart glass ornament. Perfect for commemorating cherished memories. Order your unique keepsake today!
   Updated: 2026-11-13T15:39:13Z
   Vendor: Inkedjoy
@@ -1350,6 +1478,70 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/TT1119-NEL2709-mk1.webp?v=1749054697
   Price: $16.46 USD
+- [925 Sterling Silver Lab Pink Sapphire Ring - Elegant Personalized Jewelry](https://jewelryluxeus.shop/products/925-sterling-silver-lab-pink-sapphire-ring): Elegant 925 Sterling Silver Lab Pink Sapphire Ring with customizable gold, white, or rose gold plating. A heartfelt gift and timeless personalized jewelry piece.
+  Updated: 2026-11-22T18:57:17Z
+  Vendor: cmoffer
+  Product Type: 2023-05,Gemstone Jewelry
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/chcuso0ldusr1ado0s80.jpg?v=1749144217
+  - [5](https://jewelryluxeus.shop/products/925-sterling-silver-lab-pink-sapphire-ring?variant=54979443786052)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/chcuso0ldusr1ado0sa0.jpg?v=1749144141
+    Price: $80.00 USD
+  - [5.5](https://jewelryluxeus.shop/products/925-sterling-silver-lab-pink-sapphire-ring?variant=54979443818820)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/chcuso0ldusr1ado0sa0_b3ae2dcf-de0d-45f2-8237-c119de1f4359.jpg?v=1749144146
+    Price: $80.00 USD
+  - [6](https://jewelryluxeus.shop/products/925-sterling-silver-lab-pink-sapphire-ring?variant=54979443851588)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/chcuso0ldusr1ado0sa0_70b60ba6-2967-4179-991e-e7fcc2b73bce.jpg?v=1749144152
+    Price: $80.00 USD
+  - [6.5](https://jewelryluxeus.shop/products/925-sterling-silver-lab-pink-sapphire-ring?variant=54979443884356)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/chcuso0ldusr1ado0sa0_c7b42fae-a7a3-4245-a5eb-acaea32c2965.jpg?v=1749144158
+    Price: $80.00 USD
+  - [7](https://jewelryluxeus.shop/products/925-sterling-silver-lab-pink-sapphire-ring?variant=54979443917124)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/chcuso0ldusr1ado0sa0_d0f7aa08-d73a-48d8-b9eb-3db6b978b777.jpg?v=1749144164
+    Price: $80.00 USD
+  - [7.5](https://jewelryluxeus.shop/products/925-sterling-silver-lab-pink-sapphire-ring?variant=54979443949892)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/chcuso0ldusr1ado0sa0_c757459e-cdc0-497e-943b-54708952a783.jpg?v=1749144171
+    Price: $80.00 USD
+  - [8](https://jewelryluxeus.shop/products/925-sterling-silver-lab-pink-sapphire-ring?variant=54979443982660)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/chcuso0ldusr1ado0sa0_3eae20ae-d96a-4c91-a8d7-c9c5e0ff3910.jpg?v=1749144176
+    Price: $80.00 USD
+  - [8.5](https://jewelryluxeus.shop/products/925-sterling-silver-lab-pink-sapphire-ring?variant=54979444015428)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/chcuso0ldusr1ado0sa0_31fd0c89-10d2-4d4a-9649-3ae6238be929.jpg?v=1749144182
+    Price: $80.00 USD
+  - [9](https://jewelryluxeus.shop/products/925-sterling-silver-lab-pink-sapphire-ring?variant=54979444048196)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/chcuso0ldusr1ado0sa0_20879cf9-c59e-40a3-8b7b-7362477014fb.jpg?v=1749144188
+    Price: $80.00 USD
+  - [9.5](https://jewelryluxeus.shop/products/925-sterling-silver-lab-pink-sapphire-ring?variant=54979444080964)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/chcuso0ldusr1ado0sa0_7f225eaf-3689-41f0-b99b-72a3126f5dfa.jpg?v=1749144193
+    Price: $80.00 USD
+  - [10](https://jewelryluxeus.shop/products/925-sterling-silver-lab-pink-sapphire-ring?variant=54979444113732)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/chcuso0ldusr1ado0sa0_7e73197d-2f98-4a82-ade3-4284ee85b78e.jpg?v=1749144199
+    Price: $80.00 USD
+- [925 Sterling Silver Lab Alexandrite Necklace – Personalized Luxury Gift](https://jewelryluxeus.shop/products/925-sterling-silver-lab-alexandrite-necklace): Elegant 925 Sterling Silver Lab Alexandrite Necklace by cmoffer—color-changing gemstone, customizable finishes, perfect personalized gift for her.
+  Updated: 2026-11-22T18:57:19Z
+  Vendor: cmoffer
+  Product Type: 2023-08,Gemstone Jewelry
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/cjo1790ldusteku7v85g.jpg?v=1749144252
+  Price: $118.00 USD
+- [Custom Photo Keychain: Personalized Stainless Steel](https://jewelryluxeus.shop/products/custom-photo-keychain): Create a unique keepsake with our steel custom photo keychain. Perfect gift, exclusively from JewelryLuxeUS.store.
+  Updated: 2026-11-22T18:58:44Z
+  Vendor: cmoffer
+  Product Type: New Arrival,2025-5,Key Chains
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/d0psel0ldusuk63qrsa0.jpg?v=1749144295
+  Price: $14.99 USD
 - [To my Soulmate 3D Bar Necklace](https://jewelryluxeus.shop/products/to-my-soulmate-3d-bar-necklace): Specifications: Necklace Size: 50+5cm (20+ 2 inches) Pendant Size: 5x40mm (0.2x1.57 inches) Material: Stainless Steel, 18k Gold plated, or 18k Rose Gold plated Personalization Technique: Laser engraving Customizable: Can be engraved on 2 sides Ready to Ship This personalized item will be ready to ship within 2-5 business days.
   Updated: 2026-11-06T09:34:55Z
   Vendor: OwnPrint
@@ -2321,213 +2513,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/mockup-1751721423698.png?v=1751721530
     Price: $49.95 USD
-- [Sisters Forever - Personalized Mug](https://jewelryluxeus.shop/products/sisters-forever-personalized-mug): Make every cup of morning caffeine extra special with a personalized coffee mug!This personalized mug will be the perfect celebratory present to mark your incredible friendship with your besties. Show your sisters/besties/brothers, even your pets how much they mean to you with our top-quality personalized gifts for your beloved ones. Just like your relationship, it's beautiful, durable, unique, and priceless. A useful gift to coffee lovers for a Christmas, Birthday, Valentine's Day, Father’s Day, Mother's Day, Anniversary or Graduation.Key Features Microwave safe and dishwasher safe with a mild detergent Glossy finish Made for both cold & hot beverages Easy-grip handle MaterialDurable ceramicSize11oz / 15ozPersonalization Images are printed on both sides Customized the front image with Hairstyles, Skin Colors and Names. The quote side will be fixed on our design. Pick your options to see the preview * Please double check your options
-  Updated: 2026-11-13T15:38:58Z
-  Vendor: Inkedjoy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/sisters-forever-personalized-mug-nn-135230.jpg?v=1751879668
-  - [11 Oz](https://jewelryluxeus.shop/products/sisters-forever-personalized-mug?variant=55227675869508)
-    Availability: Available
-    Price: $24.82 USD
-  - [15 Oz](https://jewelryluxeus.shop/products/sisters-forever-personalized-mug?variant=55227675902276)
-    Availability: Available
-    Price: $27.80 USD
-- [To My Husband – Gold Polished Stainless Steel Necklace | Sentimental Gift for Him](https://jewelryluxeus.shop/products/to-my-husband-gold-polished-stainless-steel-necklace-sentimental-gift-for-him): Display your faith with pride with our superb quality artisan polished gold cross, necklace, and custom message card.Celebrate that special occasion by gifting someone our beautifully crafted cross, paired with a unique message. This gold polished stainless-steel necklace is a truly thoughtful gift designed to convey passion, fondness and heartfelt sentiment, and makes a perfect gift for weddings, birthdays, graduations etc.The cross ships with a perfectly matched 18" box chain and 4" extender to make the perfect fit for both men and women. Our products are vacuum plated so are resistant to tarnishing. Polished gold finish Stainless steel base metal 45cm Box chain with 10cm extender for perfect fit Pendant height 3,6cm Pendant width 1,8cm Custom message card Gift box
-  Updated: 2026-11-06T09:35:04Z
-  Vendor: MyPrintStreet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/mockup-1751880335672.png?v=1751880396
-  Price: $44.95 USD
-- [You Left Me Beautiful Memories Memorial Canvas – Sympathy Gift](https://jewelryluxeus.shop/products/memorial-canvas-wall-art-you-left-me-beautiful-memories-quote-with-hydrangeas-remembrance-gift-for-loss-of-loved-one): You Left Me Beautiful Memories memorial canvas wall art with hydrangea design. Fade-resistant, ready to hang. A meaningful sympathy and remembrance gift.
-  Updated: 2026-11-13T15:38:58Z
-  Vendor: MyPrintStreet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/mockup-1751881104846.png?v=1751881156
-  - [76cm x 50cm](https://jewelryluxeus.shop/products/memorial-canvas-wall-art-you-left-me-beautiful-memories-quote-with-hydrangeas-remembrance-gift-for-loss-of-loved-one?variant=55227935588676)
-    Availability: Available
-    Price: $77.50 USD
-  - [60cm x 40cm](https://jewelryluxeus.shop/products/memorial-canvas-wall-art-you-left-me-beautiful-memories-quote-with-hydrangeas-remembrance-gift-for-loss-of-loved-one?variant=55227935621444)
-    Availability: Available
-    Price: $69.95 USD
-  - [45cm  x 30cm](https://jewelryluxeus.shop/products/memorial-canvas-wall-art-you-left-me-beautiful-memories-quote-with-hydrangeas-remembrance-gift-for-loss-of-loved-one?variant=55227935654212)
-    Availability: Available
-    Price: $59.95 USD
-  - [30cm x 20cm](https://jewelryluxeus.shop/products/memorial-canvas-wall-art-you-left-me-beautiful-memories-quote-with-hydrangeas-remembrance-gift-for-loss-of-loved-one?variant=55227935686980)
-    Availability: Available
-    Price: $57.50 USD
-- [Sunflower Pattern Non-Slip Carpet Rug - Ultra Soft Crystal Velvet for Living Room & Bedroom](https://jewelryluxeus.shop/products/sunflower-pattern-non-slip-carpet-rug-ultra-soft-crystal-velvet-for-living-room-bedroom): Ultra-Soft Crystal Velvet Comfort: Experience cloud-like softness underfoot with our premium polyester crystal velvet material.  baby-safe fabric with OEKO-TEX® standards ensures gentle contact with skin while providing superior stain resistance – perfect for families with kids and pets.Engineered Safety: The innovative backing features 2,348 anti-slip silicone dots per square foot, creating 30% stronger grip than conventional rugs. Our patented hexagonal dot pattern prevents bunching on hardwood, tile, or laminate floors, reducing tripping hazards by 65% according to home safety tests.Modern Floral Statement: The vibrant sunflower motif with contemporary stripe accents brings nature-inspired elegance to your space. Digital printing technology ensures fade-resistant colors that stay vivid even after 200+ vacuum cycles. Transform your living room or bedroom into a stylish sanctuary with this art-quality floor piece.Smart Living Design: • 0.4" low-profile thickness glides smoothly under doors• Breathable construction prevents moisture buildup• 5 size options (24"×36" to 8'×10') for perfect space coordination• Winner of 2023 Home Decor Innovation AwardEffortless Maintenance: Imagine simply shaking off crumbs or using quick vacuum passes – no special cleaners needed. The quick-dry fabric air-dries 50% faster than traditional rugs, while the mold-resistant backing stays fresh in humid climates. Includes lifetime warranty against backing separation.
-  Updated: 2026-11-13T15:38:58Z
-  Vendor: popcustoms
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/1751967417-1-RSxIX6lq7Q.jpg?v=1751967621
-  Price: $61.54 USD
-- [To My Wonderful Wife Angel Wings Necklace – Love Gift for Wife, Romantic Jewelry for Anniversary, Birthday or Valentine's Day](https://jewelryluxeus.shop/products/to-my-wonderful-wife-angel-wings-necklace-love-gift-for-wife-romantic-jewelry-for-anniversary-birthday-or-valentines-day): Purchase This Best-seller and We Guarantee It Will Exceed Your Highest Expectations! ➜ Our patent-pending jewelry is made of high quality surgical steel with an 18k gold finish option. ➜ Our jewelry is personalized in the U.S.A by awesome working moms just like yours! We hire and train working mothers and pay a living wage. We are proud to support strong communities and keep jobs in America! This Jewelry Item Is the Perfect Keepsake! Whether for Yourself or a Loved One. ➜ If the custom engraving option is available, engrave onto the back of the pendant your loved one's name, your wedding date, an anniversary, or anything else you want to remember and keep you close to her heart. Each personalized piece offers exceptional craftsmanship that is fit to be an instant classic in your family. We Offer a 100% Happiness Guarantee ➜ If you’re not 100% satisfied with your purchase for any reason, please contact us and we will make it right. Your satisfaction is our ultimate goal. Product Dimensions➜ Luxury Necklace: 18-22" (45-56cm) adjustable➜ Heart Pendant: 24mm x 24mm
-  Updated: 2026-11-06T09:35:04Z
-  Vendor: ShineOn Fulfillment
-  Product Type: Jewelry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_106_transformation_298_3edf2e27-3f82-46aa-8850-1b1648b43832.png?v=1752081170
-  - [Luxury Necklace (Silver) / No](https://jewelryluxeus.shop/products/to-my-wonderful-wife-angel-wings-necklace-love-gift-for-wife-romantic-jewelry-for-anniversary-birthday-or-valentines-day?variant=55240923709764)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_106_transformation_298_3edf2e27-3f82-46aa-8850-1b1648b43832.png?v=1752081170
-    Price: $54.95 USD
-  - [Luxury Necklace (Silver) / Yes](https://jewelryluxeus.shop/products/to-my-wonderful-wife-angel-wings-necklace-love-gift-for-wife-romantic-jewelry-for-anniversary-birthday-or-valentines-day?variant=55240923742532)
-    Availability: Available
-    Price: $54.95 USD
-  - [Luxury Necklace (Gold) / No](https://jewelryluxeus.shop/products/to-my-wonderful-wife-angel-wings-necklace-love-gift-for-wife-romantic-jewelry-for-anniversary-birthday-or-valentines-day?variant=55240923775300)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_125_transformation_430_fcc0bc94-c4b2-4cb1-bf40-d4932224453b.png?v=1752081174
-    Price: $74.95 USD
-  - [Luxury Necklace (Gold) / Yes](https://jewelryluxeus.shop/products/to-my-wonderful-wife-angel-wings-necklace-love-gift-for-wife-romantic-jewelry-for-anniversary-birthday-or-valentines-day?variant=55240923808068)
-    Availability: Available
-    Price: $74.95 USD
-- [Angel Wings Necklace – Personalized Luxury Gift for Her](https://jewelryluxeus.shop/products/angel-wings-necklace-to-my-wonderful-wife-love-gift-sentimental-jewelry-for-wifes-birthday-anniversary-or-just-because): Elegant Angel Wings Necklace—personalized luxury jewelry gift for her birthday, anniversary, or just because. Custom engraved keepsake with 18k gold finish.
-  Updated: 2026-11-06T09:35:04Z
-  Vendor: ShineOn Fulfillment
-  Product Type: Jewelry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_106_transformation_550_3276b2ff-0970-4aef-b57f-c1a15e84135e.jpg?v=1752237940
-  - [Luxury Necklace (Silver) / No](https://jewelryluxeus.shop/products/angel-wings-necklace-to-my-wonderful-wife-love-gift-sentimental-jewelry-for-wifes-birthday-anniversary-or-just-because?variant=55241019294020)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_106_transformation_298_6f2c4403-1d1b-48e4-a5fd-c7ac07951a33.png?v=1752237940
-    Price: $54.95 USD
-  - [Luxury Necklace (Silver) / Yes](https://jewelryluxeus.shop/products/angel-wings-necklace-to-my-wonderful-wife-love-gift-sentimental-jewelry-for-wifes-birthday-anniversary-or-just-because?variant=55241019326788)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_108_transformation_299_60b2aabe-06d7-4374-a5ad-9c812432c5bb.png?v=1752237966
-    Price: $54.95 USD
-  - [Luxury Necklace (Gold) / No](https://jewelryluxeus.shop/products/angel-wings-necklace-to-my-wonderful-wife-love-gift-sentimental-jewelry-for-wifes-birthday-anniversary-or-just-because?variant=55241019359556)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_125_transformation_6635.jpg?v=1752238003
-    Price: $74.95 USD
-  - [Luxury Necklace (Gold) / Yes](https://jewelryluxeus.shop/products/angel-wings-necklace-to-my-wonderful-wife-love-gift-sentimental-jewelry-for-wifes-birthday-anniversary-or-just-because?variant=55241019392324)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_126_transformation_335_6c2517da-f97f-42b2-97e4-1c9d01dd9de0.png?v=1752237971
-    Price: $74.95 USD
-- [To My Wife Jewelry Gift – Romantic Necklace for Birthday, Anniversary, or Everyday Love](https://jewelryluxeus.shop/products/to-my-wife-jewelry-gift-romantic-necklace-for-birthday-anniversary-or-everyday-love): Purchase This Best-seller and We Guarantee It Will Exceed Your Highest Expectations! ➜ Our patent-pending jewelry is made of high quality surgical steel with an 18k gold finish option. ➜ Our jewelry is personalized in the U.S.A by awesome working moms just like yours! We hire and train working mothers and pay a living wage. We are proud to support strong communities and keep jobs in America! This Jewelry Item Is the Perfect Keepsake! Whether for Yourself or a Loved One. ➜ If the custom engraving option is available, engrave onto the back of the pendant your loved one's name, your wedding date, an anniversary, or anything else you want to remember and keep you close to her heart. Each personalized piece offers exceptional craftsmanship that is fit to be an instant classic in your family. We Offer a 100% Happiness Guarantee ➜ If you’re not 100% satisfied with your purchase for any reason, please contact us and we will make it right. Your satisfaction is our ultimate goal. Product Dimensions➜ Luxury Necklace: 18-22" (45-56cm) adjustable➜ Heart Pendant: 24mm x 24mm
-  Updated: 2026-11-06T09:35:04Z
-  Vendor: ShineOn Fulfillment
-  Product Type: Jewelry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_106_transformation_298_939a36aa-87e8-4810-9a76-d1860f3f3c18.png?v=1752237978
-  - [Luxury Necklace (Silver) / No](https://jewelryluxeus.shop/products/to-my-wife-jewelry-gift-romantic-necklace-for-birthday-anniversary-or-everyday-love?variant=55251236651332)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_106_transformation_298_939a36aa-87e8-4810-9a76-d1860f3f3c18.png?v=1752237978
-    Price: $54.95 USD
-  - [Luxury Necklace (Silver) / Yes](https://jewelryluxeus.shop/products/to-my-wife-jewelry-gift-romantic-necklace-for-birthday-anniversary-or-everyday-love?variant=55251236684100)
-    Availability: Available
-    Price: $54.95 USD
-  - [Luxury Necklace (Gold) / No](https://jewelryluxeus.shop/products/to-my-wife-jewelry-gift-romantic-necklace-for-birthday-anniversary-or-everyday-love?variant=55251236716868)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_125_transformation_430_c53fdf71-935a-4f59-b483-03cc9b7f0c85.png?v=1752237981
-    Price: $74.95 USD
-  - [Luxury Necklace (Gold) / Yes](https://jewelryluxeus.shop/products/to-my-wife-jewelry-gift-romantic-necklace-for-birthday-anniversary-or-everyday-love?variant=55251236749636)
-    Availability: Available
-    Price: $74.95 USD
-- [My Husband Now You Are My Angel Necklace – Memorial Gift](https://jewelryluxeus.shop/products/my-husband-now-you-are-my-angel-necklace-heart-pendant-tribute-memorial-jewelry-keepsake-gift-for-wife): My Husband Now You Are My Angel heart pendant necklace. Elegant memorial jewelry for grieving wives. A meaningful sympathy and remembrance keepsake gift.
-  Updated: 2026-11-06T09:35:05Z
-  Vendor: ShineOn Fulfillment
-  Product Type: Jewelry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_106_transformation_298_efb02ca4-20bd-4fab-b080-bd5ab1e8edf1.png?v=1752305851
-  - [Luxury Necklace (Silver) / No](https://jewelryluxeus.shop/products/my-husband-now-you-are-my-angel-necklace-heart-pendant-tribute-memorial-jewelry-keepsake-gift-for-wife?variant=55253807530308)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_106_transformation_298_efb02ca4-20bd-4fab-b080-bd5ab1e8edf1.png?v=1752305851
-    Price: $54.95 USD
-  - [Luxury Necklace (Silver) / Yes](https://jewelryluxeus.shop/products/my-husband-now-you-are-my-angel-necklace-heart-pendant-tribute-memorial-jewelry-keepsake-gift-for-wife?variant=55253807563076)
-    Availability: Available
-    Price: $54.95 USD
-  - [Luxury Necklace (Gold) / No](https://jewelryluxeus.shop/products/my-husband-now-you-are-my-angel-necklace-heart-pendant-tribute-memorial-jewelry-keepsake-gift-for-wife?variant=55253807595844)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/asset_125_transformation_430_493b87a2-7a00-4a9f-89cb-18e9c2e5b5c3.png?v=1752305854
-    Price: $74.95 USD
-  - [Luxury Necklace (Gold) / Yes](https://jewelryluxeus.shop/products/my-husband-now-you-are-my-angel-necklace-heart-pendant-tribute-memorial-jewelry-keepsake-gift-for-wife?variant=55253807628612)
-    Availability: Available
-    Price: $74.95 USD
-- [The Best Things in Life Are Free – Canvas Wall Art](https://jewelryluxeus.shop/products/the-best-things-in-life-are-free-inspirational-quote-canvas-wall-art): "The Best Things in Life Are Free" inspirational canvas wall art — 4 sizes, giclée print, recycled frame, ready to hang. Uplifting home decor.
-  Updated: 2026-11-13T15:38:56Z
-  Vendor: superfastpod
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/mockup-1752415590117.png?v=1752415724
-  - [30cm x 20cm](https://jewelryluxeus.shop/products/the-best-things-in-life-are-free-inspirational-quote-canvas-wall-art?variant=55257697288516)
-    Availability: Available
-    Price: $47.95 USD
-  - [45cm  x 30cm](https://jewelryluxeus.shop/products/the-best-things-in-life-are-free-inspirational-quote-canvas-wall-art?variant=55257697321284)
-    Availability: Available
-    Price: $57.95 USD
-  - [60cm x 40cm](https://jewelryluxeus.shop/products/the-best-things-in-life-are-free-inspirational-quote-canvas-wall-art?variant=55257697354052)
-    Availability: Available
-    Price: $67.95 USD
-  - [76cm x 50cm](https://jewelryluxeus.shop/products/the-best-things-in-life-are-free-inspirational-quote-canvas-wall-art?variant=55257697386820)
-    Availability: Available
-    Price: $77.95 USD
-- [Inspirational Quote Print – The Best Things in Life](https://jewelryluxeus.shop/products/inspirational-quote-print-the-best-things-in-life): Adorn your walls with our meticulously curated canvas art, where each piece promises to bring beauty, warmth, and personality to your living environment. Our canvas prints are designed not just to decorate a room but to enrich it, making every canvas an  in the aesthetic and vibrancy of your home.Key Features: High-Quality Gicle Printing: Ensures sharp, vivid images with high colour accuracy. Sustainable Materials: Frames constructed with 90% recycled material. Easy Installation: Comes ready to hang with a simple mounting system, allowing you to enjoy your art without delay. Expertly Hand-Finished: Every canvas is hand-finished by our professional staff, adding a unique, personal touch that guarantees the highest quality and attention to detail. Tailored Sizes:Available in four sizes to complement any space Landscape Sizes:76cm x 50cm (30" x 20")60cm x 40cm (24" x 16")45cm x 30cm (18" x 12")30cm x 20cm (12" x 8")
-  Updated: 2026-11-13T15:38:56Z
-  Vendor: superfastpod
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/mockup-1752416553985.png?v=1752416616
-  - [30cm x 20cm](https://jewelryluxeus.shop/products/inspirational-quote-print-the-best-things-in-life?variant=55257708167492)
-    Availability: Available
-    Price: $47.95 USD
-  - [45cm  x 30cm](https://jewelryluxeus.shop/products/inspirational-quote-print-the-best-things-in-life?variant=55257708200260)
-    Availability: Available
-    Price: $57.95 USD
-  - [60cm x 40cm](https://jewelryluxeus.shop/products/inspirational-quote-print-the-best-things-in-life?variant=55257708233028)
-    Availability: Available
-    Price: $67.95 USD
-  - [76cm x 50cm](https://jewelryluxeus.shop/products/inspirational-quote-print-the-best-things-in-life?variant=55257708265796)
-    Availability: Available
-    Price: $77.95 USD
-- [Every Day Is a New Beginning – Motivational Acrylic Wall Decor Print](https://jewelryluxeus.shop/products/every-day-is-a-new-beginning-motivational-acrylic-wall-decor-print): Transform your space with our captivating acrylic wall decor print, featuring the inspiring quote, 'Every Day Is a New Beginning.' This motivational piece not only adds a touch of elegance to your environment but also encourages a positive mindset and fresh starts. Material: 4mm (0.15") thick acrylic delivers a vibrant, durable finish that enhances any decor. Design: Features straight-cut corners and a transparent background defaulting to white for optimal visual impact. Hanging Kit: Comes with all necessary hardware, including screws and strategically positioned screw holes for easy mounting. Sizes: Available in 18 different sizes, accommodating both inches (US&CA) and centimeters (global). Perfect for luxury home decor, corporate offices, or galleries. Order now to elevate your space and inspire your daily routine with this stunning acrylic print!
-  Updated: 2026-11-06T09:35:05Z
-  Vendor: JewelryLuxeUS.store
-  Product Type: Print Material
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9a17efff-6903-444f-ad40-407867074fa7.webp?v=1752418064
-  - [20x30 cm / 8x12″](https://jewelryluxeus.shop/products/every-day-is-a-new-beginning-motivational-acrylic-wall-decor-print?variant=55257770393924)
-    Availability: Available
-    Price: $62.20 USD
-  - [30x40 cm / 12x16″](https://jewelryluxeus.shop/products/every-day-is-a-new-beginning-motivational-acrylic-wall-decor-print?variant=55257770426692)
-    Availability: Available
-    Price: $84.32 USD
-  - [30x45 cm / 12x18″](https://jewelryluxeus.shop/products/every-day-is-a-new-beginning-motivational-acrylic-wall-decor-print?variant=55257770459460)
-    Availability: Available
-    Price: $98.14 USD
-  - [40x50 cm / 16x20″](https://jewelryluxeus.shop/products/every-day-is-a-new-beginning-motivational-acrylic-wall-decor-print?variant=55257770492228)
-    Availability: Available
-    Price: $106.44 USD
-  - [40x60 cm / 16x24″](https://jewelryluxeus.shop/products/every-day-is-a-new-beginning-motivational-acrylic-wall-decor-print?variant=55257770524996)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/93fa1862-536c-4f4f-a8d1-6cdefb6f443d.webp?v=1752418065
-    Price: $109.22 USD
-  - [45x60 cm / 18x24″](https://jewelryluxeus.shop/products/every-day-is-a-new-beginning-motivational-acrylic-wall-decor-print?variant=55257770557764)
-    Availability: Available
-    Price: $116.12 USD
-  - [50x70 cm / 20x28″](https://jewelryluxeus.shop/products/every-day-is-a-new-beginning-motivational-acrylic-wall-decor-print?variant=55257770590532)
-    Availability: Available
-    Price: $139.62 USD
-  - [50x75 cm / 20x30″](https://jewelryluxeus.shop/products/every-day-is-a-new-beginning-motivational-acrylic-wall-decor-print?variant=55257770623300)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/1caf1f3f-cb35-42f9-8077-29d1f48bf2cd.webp?v=1752418069
-    Price: $156.22 USD
-  - [60x80 cm / 24x32″](https://jewelryluxeus.shop/products/every-day-is-a-new-beginning-motivational-acrylic-wall-decor-print?variant=55257770656068)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/2c9a1fe2-b5b4-4db8-b2bb-f1e8db9748c8.webp?v=1752418070
-    Price: $161.76 USD
-  - [60x90 cm / 24x36″](https://jewelryluxeus.shop/products/every-day-is-a-new-beginning-motivational-acrylic-wall-decor-print?variant=55257770688836)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/f0ecf986-84ea-46a0-80ad-7f5811f960aa.webp?v=1752418068
-    Price: $178.34 USD
-  - [70x100 cm / 28x40″](https://jewelryluxeus.shop/products/every-day-is-a-new-beginning-motivational-acrylic-wall-decor-print?variant=55257770721604)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/9a17efff-6903-444f-ad40-407867074fa7.webp?v=1752418064
-    Price: $218.44 USD
-[List Continued](https://jewelryluxeus.shop/a/llms-agent/llms.txt?shop=tpr0h9-ns.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTE5Mzc2MzA4NjY2MCwibGFzdF92YWx1ZSI6IjE1MTkzNzYzMDg2NjYwIn0%3D)
+[List Continued](https://jewelryluxeus.shop/a/llms-agent/llms.txt?shop=tpr0h9-ns.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTE4NDMwNTY1MjAzNiwibGFzdF92YWx1ZSI6IjE1MTg0MzA1NjUyMDM2In0%3D)
 
 ## Collections
 
@@ -2535,74 +2521,74 @@
   Updated: 2026-11-10T06:51:07Z
   Total Products: 91
 - [Necklaces](https://jewelryluxeus.shop/collections/necklace): Shop personalized necklaces in sterling silver, gold, and rose gold. Memorial pendants, name necklaces, and custom engravings — meaningful jewelry for every moment.
-  Updated: 2026-11-11T12:22:54Z
+  Updated: 2026-11-22T18:57:16Z
   Total Products: 250
 - [Rings](https://jewelryluxeus.shop/collections/ring): Shop personalized and memorial rings in gold, silver, and platinum. Engravable bands, gemstone rings, and custom designs for every meaningful occasion.
   Updated: 2026-11-06T09:34:39Z
   Total Products: 2
 - [Earrings](https://jewelryluxeus.shop/collections/earrings): Shop elegant earrings in sterling silver, gold, and platinum. Studs, hoops, and personalized memorial earrings for every style and occasion.
-  Updated: 2026-11-10T06:49:55Z
+  Updated: 2026-11-22T18:57:11Z
   Total Products: 7
 - [Custom Gifts](https://jewelryluxeus.shop/collections/custom-gifts): Find the perfect personalized gift — engraved jewelry, memorial keepsakes, and custom pieces for birthdays, anniversaries, and remembrance. Ships ready to gift.
-  Updated: 2026-11-14T16:38:57Z
-  Total Products: 341
+  Updated: 2026-11-22T18:58:48Z
+  Total Products: 344
 - [Keychains](https://jewelryluxeus.shop/collections/keychains): Shop personalized engraved keychains — custom names, dates, and messages. Meaningful memorial keepsakes and unique gifts for every occasion.
-  Updated: 2026-11-10T06:51:24Z
+  Updated: 2026-11-22T18:57:08Z
   Total Products: 17
 - [What's the Time?](https://jewelryluxeus.shop/collections/watches): Shop personalized watches and memorial timepieces with custom engravings. Classic and modern styles — meaningful gifts for every milestone.
   Updated: 2026-11-10T06:51:29Z
   Total Products: 22
 - [Music Box](https://jewelryluxeus.shop/collections/music-box): Shop handcrafted personalized music boxes — meaningful memorial gifts with custom tunes and engravings. Perfect for honoring a loved one or celebrating a milestone.
-  Updated: 2026-11-06T09:34:39Z
+  Updated: 2026-11-22T18:58:48Z
   Total Products: 10
 - [All Products](https://jewelryluxeus.shop/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - JewelryLuxeUS.Shop
-  Updated: 2026-11-14T16:38:54Z
-  Total Products: 1084
+  Updated: 2026-11-22T20:37:57Z
+  Total Products: 1088
 - [Candles](https://jewelryluxeus.shop/collections/candles): Shop hand-poured soy candles in calming and uplifting scents. Meaningful memorial gifts and luxury home accessories — perfect for gifting or personal comfort.
   Updated: 2026-11-10T06:50:51Z
   Total Products: 29
 - [A Piece of Them, Always With You](https://jewelryluxeus.shop/collections/memorial-jewelry): Shop memorial jewelry and personalized remembrance keepsakes — engraved necklaces, rings, and gifts to honor a loved one. Meaningful pieces crafted with care.
-  Updated: 2026-11-11T12:22:54Z
+  Updated: 2026-11-22T18:57:11Z
   Total Products: 166
 - [Christmas](https://jewelryluxeus.shop/collections/seasonal-and-holiday): Shop personalized Christmas gifts — custom jewelry, memorial keepsakes, and engraved pieces. Meaningful holiday gifts for the people you love most.
-  Updated: 2026-11-14T16:38:57Z
-  Total Products: 371
+  Updated: 2026-11-21T21:11:05Z
+  Total Products: 374
 - [Bracelets](https://jewelryluxeus.shop/collections/bracelets): Shop personalized bracelets in sterling silver, gold, and rose gold. Memorial charm bracelets, engraved bangles, and custom designs for every occasion.
-  Updated: 2026-11-06T09:34:39Z
+  Updated: 2026-11-22T18:57:14Z
   Total Products: 9
 - [Cufflinks](https://jewelryluxeus.shop/collections/cufflinks): Shop personalized engraved cufflinks — custom designs for weddings, memorials, and special occasions. Elegant gifts for the discerning gentleman.
-  Updated: 2026-11-06T09:34:39Z
+  Updated: 2026-11-22T18:57:05Z
   Total Products: 2
 - [Plates](https://jewelryluxeus.shop/collections/jewelry-dish): Wedding Plates, Christmas plates, Anniversary Plates
-  Updated: 2026-11-14T16:38:57Z
-  Total Products: 109
+  Updated: 2026-11-22T20:37:57Z
+  Total Products: 110
 - [Wedding & Anniversary Gifts](https://jewelryluxeus.shop/collections/wedding-anniversary): Discover the epitome of elegance and timeless romance with our exclusive Wedding and Anniversary Collection. Meticulously curated to celebrate the most cherished milestones, this collection embodies sophistication and grace, offering a stunning array of pieces designed to commemorate love's most beautiful moments. Our Wedding Collection features an exquisite selection of bridal jewelry, including luminous diamond necklaces, delicately crafted earrings, and statement bracelets that perfectly complement the radiance of a bride's special day. Each piece is thoughtfully designed to capture the essence of true love, ensuring that every bride feels extraordinary as she walks down the aisle. Our collection also offers a range of elegant accessories for the groom, from classic cufflinks to sophisticated tie clips, each piece crafted to add a touch of refinement to his wedding attire. Celebrate enduring love with our Anniversary Collection, where every piece tells a story of commitment and devotion. From intricately designed rings symbolizing everlasting bonds to elegant pendants and bracelets that mark years of cherished memories, this collection is a testament to love that grows stronger with each passing year. Choose from an array of precious metals and gemstones, each expertly crafted to honor the unique journey of every couple. Whether you are planning a wedding or celebrating an anniversary, our collection offers timeless pieces that will be treasured for a lifetime. Embrace the beauty of love with our Wedding and Anniversary Collection, where every piece is a testament to the elegance and enduring nature of true romance. - JewelryLuxeUS.Shop
-  Updated: 2026-11-10T06:51:11Z
+  Updated: 2026-11-22T18:57:05Z
   Total Products: 76
 - [Valentine's Day](https://jewelryluxeus.shop/collections/valentines-day): Celebrate love and make this Valentine's Day unforgettable with our exquisite collection of gifts, designed to delight and inspire the heart. Our curated selection features luxurious items that are perfect for expressing your affection to that special someone. From timeless classics to modern masterpieces, each piece in our collection has been thoughtfully chosen to convey your deepest emotions. Indulge in our range of elegantly crafted jewelry, where each piece is a testament to craftsmanship and beauty. Whether it's a stunning necklace, a pair of delicate earrings, or a sophisticated bracelet, our jewelry selection promises to enhance any romantic moment. For those looking to say "I love you" with the sweetness of indulgence, explore our array of gourmet chocolates and artisan confections. Each bite is a journey of exquisite flavors, designed to tantalize the senses and create lasting memories. Our Valentine's Day collection also includes premium fragrances, perfect for capturing the essence of romance. Choose from a variety of enchanting scents that evoke warmth, passion, and elegance. To create an intimate setting, explore our selection of luxury candles that fill the air with captivating aromas, ensuring your celebration is nothing short of magical. For the ultimate personalized touch, consider our custom gift options that allow you to add a unique message or monogram. Celebrate love in the most meaningful way with our Valentine's Day collection, where every gift is more than just a present—it's a heartfelt expression of love. - JewelryLuxeUS.Shop
-  Updated: 2026-11-10T06:49:59Z
+  Updated: 2026-11-22T18:57:04Z
   Total Products: 42
 - [Memorial Gifts](https://jewelryluxeus.shop/collections/memorial-gifts): Shop personalized memorial gifts — engraved jewelry, remembrance keepsakes, and sympathy gifts to honor a loved one. Meaningful pieces crafted with care.
-  Updated: 2026-11-10T06:51:26Z
+  Updated: 2026-11-21T12:24:02Z
   Total Products: 120
 - [Home Decor](https://jewelryluxeus.shop/collections/home-decor)
-  Updated: 2026-11-10T06:51:20Z
-  Total Products: 226
+  Updated: 2026-11-22T18:57:04Z
+  Total Products: 228
 - [Kitchen](https://jewelryluxeus.shop/collections/kitchen)
-  Updated: 2026-11-14T16:38:57Z
-  Total Products: 432
+  Updated: 2026-11-22T20:37:57Z
+  Total Products: 433
 - [Wall Art](https://jewelryluxeus.shop/collections/wall-art)
   Updated: 2026-11-10T06:49:53Z
   Total Products: 107
 - [Jewelry](https://jewelryluxeus.shop/collections/jewelry)
-  Updated: 2026-11-11T12:22:54Z
+  Updated: 2026-11-22T18:57:16Z
   Total Products: 291
 - [Napkins, Towels, Table Runners](https://jewelryluxeus.shop/collections/napkins)
   Updated: 2026-11-10T06:51:11Z
   Total Products: 90
 - [Seasonal & Holidays](https://jewelryluxeus.shop/collections/seasonal-holidays)
-  Updated: 2026-11-14T16:38:57Z
-  Total Products: 444
+  Updated: 2026-11-22T18:57:04Z
+  Total Products: 447
 - [Ornaments](https://jewelryluxeus.shop/collections/ornaments)
   Updated: 2026-11-13T09:45:22Z
   Total Products: 47
