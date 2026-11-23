@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-10-20T17:54:38Z
-- Updated At: 2026-11-15T00:51:58.030Z
+- Updated At: 2026-11-23T00:46:22.933Z
 
 ## Products
 
@@ -58,20 +58,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_344e7258-ebb7-47e0-ac43-fd64b6566e9e.jpg?v=1787246645
     Price: £22.00 GBP
-- [20cl Chamomile & Lavender Soy wax candle](https://siaroma.co.uk/products/20cl-lavender-chamomile-vanilla-candle): What Does It Smell Like? Unwind and embrace a moment of tranquillity with our Chamomile & Lavender scented candle. A beautifully soothing fragrance that combines the gentle floral aroma of lavender with the soft, comforting scent of chamomile. Delicate herbal notes create a peaceful atmosphere, while the subtle powdery floral character adds a touch of elegance. Perfect for relaxing evenings, self-care rituals, or simply creating a calming sanctuary within your home. A beautifully balanced fragrance designed to bring a sense of comfort, serenity and relaxation to your surroundings. Scent Notes Top Notes: Gentle Chamomile, Fresh Herbal Notes Heart Notes: Lavender, Soft Floral Accords Base Notes: Powdery Florals, Warm Herbal Notes Product Details Fragrance: Chamomile & Lavender Product: 20CL Luxury Soy Wax Candle Wax: Natural Soy Wax Fragrance: Paraben-Free Fragrance Oils Vegan-Friendly Elegant Rose Gold Mirrored Glass Approximate Burn Time: 35–40 Hours* Perfect for Bedrooms, Living Rooms and Relaxation Spaces Experience the beauty of a peaceful moment with Si Aroma. Burn time is approximate and depends on usage and care.
-  Updated: 2026-11-07T04:33:32Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/4183DFAC-5548-4B78-A592-D26EB2280D78.png?v=1793982738
-  Price: £12.00 GBP
-- [20cl Blackberry & Bay Leaf candle](https://siaroma.co.uk/products/20cl-blackberry-bay-leaf-candle): Indulge your senses with our 20cl Blackberry & Bay Leaf candle. Made with high-quality soy wax, enjoy up to 30 hours of burn time. Immerse yourself in nature with its dark berry, fresh green leaf, and woody undertones, evoking the enchanting feeling of a forest stroll.
-  Updated: 2026-10-19T06:31:45Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_4d2c095e-40ae-46d4-9af0-72b59ab0ad68.jpg?v=1777983968
-  Price: £12.00 GBP
 - [30cl Pink blush Soy Wax Candle](https://siaroma.co.uk/products/30cl-pinkblush-candle): A Delicate Floral Dream Embrace the essence of a sun-drenched garden in full bloom. Our Pink Blush candle is a masterclass in floral elegance, blending the soft, romantic notes of crushed petals with a refreshing, modern twist. Whether housed in our high-shine Rose Gold or sleek Silver vessel, this fragrance creates an atmosphere of pure serenity and grace. The Scent Profile:A gracefully balanced bouquet that captures the spirit of a fresh spring morning. It opens with a bright, airy floral sweetness and settles into a smooth, sophisticated finish that lingers beautifully in the air. • Top Notes: Freshly picked pink peonies and sparkling red apple. • Heart Notes: Velvety rose petals, blooming jasmine, and delicate gillyflower. • Base Notes: Soft suede, warm amber, and a touch of white musk. Why You’ll Love It: • Romantically Chic: This scent is the epitome of feminine elegance—perfect for creating a relaxing and luxurious sanctuary in bedrooms, dressing rooms, or bathrooms. • Dual-Tone Luxury: Available in both Rose Gold and Silver, the mirror-finish vessels catch every flicker of the flame, turning your candle into a stunning piece of home decor. • Superior Scent Throw: Hand-poured by Si Aroma using our signature natural wax blend and premium fragrance oils to ensure a consistent, room-filling aroma throughout its life. Product Details: • Volume: 30cl • Burn Time: Approx. 45-50 hours • Packaging: Presented in our signature luxury black and rose gold gift box, making it an exquisite gift for someone special—or a well-deserved treat for yourself.
   Updated: 2026-09-21T16:17:46Z
   Vendor: Si Aroma
@@ -100,41 +86,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_b6522737-f02c-4a88-98d8-5ae632303122.jpg?v=1778000011
   Price: £15.00 GBP
-- [20cl Sheer Pink candle](https://siaroma.co.uk/products/20cl-sheer-pink-candle): Experience the light and airy blend of fruity, floral, and sweet notes with our 20cl Sheer Pink candle. With a wooden wick and approximately 30 hours of burn time, you can enjoy a delicate aroma and a longer-lasting fragrance. Made with soy wax, this luxurious candle is sure to elevate any space.
-  Updated: 2026-09-21T16:17:26Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_09a76a11-25c4-4468-bb19-77fcb4a43a99.jpg?v=1777985890
-  Price: £12.00 GBP
-- [20cl Plush candle](https://siaroma.co.uk/products/20cl-plush-candle): Experience relaxation and ambiance with our 20cl Plush candle. Made with soy wax and a wooden wick, this candle offers approximately 30 hours of burn time. The soft, floral, and powdery notes will create a calming atmosphere in any room.
-  Updated: 2026-09-21T16:17:22Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_aae658b0-2d96-4b55-81e1-d8800a4b6451.jpg?v=1777984802
-  Price: £12.00 GBP
-- [20cl Pear Drops candle](https://siaroma.co.uk/products/20cl-pear-drops-candle): Indulge in the sweet aroma of Pear Drops with this 20cl soy wax candle. With approximately 30 hours of burn time, this candle is perfect for creating a warm and inviting atmosphere. The blend of fruity, sweet pears with a dash of sugar will remind you of your favorite childhood candy. Enjoy top notes of pear and raspberry, followed by a mix of floral and spicy middle notes, and a base of powdery raspberry, vanilla, and musk. A must-have for any candle lover.
-  Updated: 2026-09-21T16:17:19Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_88a84db2-9578-43d5-883a-310581a87fe2.jpg?v=1777987648
-  - [Black](https://siaroma.co.uk/products/20cl-pear-drops-candle?variant=55794806292812)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_88a84db2-9578-43d5-883a-310581a87fe2.jpg?v=1777987648
-    Price: £12.00 GBP
-  - [Rose gold](https://siaroma.co.uk/products/20cl-pear-drops-candle?variant=55794806325580)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_32483759-f750-46b0-b5a4-72d9ea9a4bda.jpg?v=1777987670
-    Price: £12.00 GBP
-- [Car Freshener](https://siaroma.co.uk/products/untitled-oct30_15-01): Premium 8ml Hanging Car Fresheners Elevate your driving experience with our 8ml car air fresheners, available in black colour to match any interior style. Designed with a sleek, minimalist, and modern look, these hanging car diffusers perfectly complement the aesthetic of any vehicle. Each diffuser is easy to install — simply tighten the attached cord and bead to hang securely in place. Choose from a range of luxurious inspired fragrances that can last up to 6 weeks, keeping your car smelling fresh and inviting. How to Use: Uncap the glass bottle. Take the plastic stopper out. Screw the wooden lid back on securely. Gently shake to allow the cork top to absorb a small amount of oil. ⚠️ Important: Always keep the bottle upright to prevent leakage. Avoid contact with your car’s interior surfaces, as any spillage may cause damage. We are not responsible for any damage resulting from misuse or failure to follow instructions. Add a touch of elegance and long-lasting fragrance to your car today with our premium hanging car fresheners. Disclaimer - Our fragrances are no way affiliated with the designer fragrances. Our diffusers are inspired by, and simply smell similar.
-  Updated: 2026-09-21T16:17:16Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3133.jpg?v=1761836520
-  Price: £4.00 GBP
 - [Ghost decorative candle](https://siaroma.co.uk/products/ghost-decorative-candle): This Ghost decorative candle is approximately 120g soy wax candle with a unique and spooky design. While intended for decoration, it can also be burned safely with a heat resistant dish underneath. Perfect for adding a touch of haunting ambiance to any room.
   Updated: 2026-10-11T11:24:31Z
   Vendor: Si Aroma
@@ -191,24 +142,6 @@
   - [Pastel purple / fresh / Opulence](https://siaroma.co.uk/products/bubble-cube-candle?variant=55938046460236)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-7451_676b9681-f24e-4da4-83fe-ac2a66cfbfc7.png?v=1776439763
-    Price: £8.00 GBP
-- [3D Stacking Elephant Candle](https://siaroma.co.uk/products/3d-stacking-elephant-candle): This 3D Stacking Elephant Candle is a perfect addition to any room. Its beautiful design and customizable color and scent options make it a versatile and stylish ornament. With a weight of approximately 140g and a length of approximately 12cm, it provides a long-lasting and visually appealing ambiance. Candle Safety Information: This candle is intended primarily for decorative purposes. If you choose to burn it, always place it on a stable, heat-resistant surface to prevent heat damage or wax spills. Never leave a lit candle unattended, and keep it away from flammable materials, children, and pets. Trim the wick to 5 mm before lighting for a cleaner, safer burn, and extinguish the candle when approximately 1 cm of wax remains. Disclaimer - Our fragrances are no way affiliated with the designer fragrances. Our diffusers are inspired by, and simply smell similar.
-  Updated: 2026-09-21T16:17:05Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3719.png?v=1785770485
-  - [White / Opulence](https://siaroma.co.uk/products/3d-stacking-elephant-candle?variant=55967785091404)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3719.png?v=1785770485
-    Price: £8.00 GBP
-  - [Pastel purple / fresh / Opulence](https://siaroma.co.uk/products/3d-stacking-elephant-candle?variant=55967785124172)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3722.png?v=1763413146
-    Price: £8.00 GBP
-  - [Grey / Minimal](https://siaroma.co.uk/products/3d-stacking-elephant-candle?variant=55971076047180)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3746.png?v=1763460048
     Price: £8.00 GBP
 - [Drumstick Lolly wax melt pot](https://siaroma.co.uk/products/drumstick-lolly-wax-melt-pot): The Drumstick Lolly wax melt pot contains 50g of wax designed to evoke memories of childhood with its candy-sweet fragrance. The scent profile features juicy raspberry and smooth creamy milk, layered with vanilla-cream undertones, creating a warm, sugary aroma. Ideal for enthusiasts of fruity gourmand fragrances, this product offers an inviting and playful ambiance suitable for any space.
   Updated: 2026-10-19T06:31:45Z
@@ -344,42 +277,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6018.png?v=1773150691
     Price: £8.00 GBP
-- [🌸 8ml Hanging Car Freshener – Floral Design](https://siaroma.co.uk/products/untitled-mar11_10-25): Add a touch of colour and fragrance to your car with these beautiful 8ml hanging car fresheners. Each bottle features a vibrant flower-pattern design and a natural wooden lid, making it both a stylish accessory and a practical way to keep your space smelling fresh. Perfect for cars, vans, wardrobes, offices, or small rooms, these compact fresheners slowly release fragrance to create a pleasant atmosphere wherever they hang. ✨ Choose your favourite scent and colour from the options listed to create your perfect combination. ✨ Product Features 8ml fragrance oil car freshener Beautiful floral patterned bottle designs Natural wooden lid with hanging cord Long-lasting fragrance Compact and stylish Ideal for cars, wardrobes, lockers, offices & small spaces 🚗 How to Use: Carefully unscrew the wooden lid and remove the plastic stopper. Screw the lid back on tightly. Gently tip the bottle upside down for a few seconds to allow the fragrance oil to soak into the wooden lid. Hang the freshener in your car (rear-view mirror is ideal). When the scent fades, tip the bottle briefly again to refresh the fragrance. ⚠️ Do not oversaturate the lid. ⚠️ Safety Information Keep out of reach of children and pets. Avoid contact with skin, eyes, fabrics, and car surfaces as fragrance oils may cause damage or staining. Do not ingest. If spillage occurs, wipe immediately. Keep bottle upright at all times. Store away from direct sunlight and heat. For fragrance use only. 🎁 Perfect For Car interiors Gift ideas New drivers Car lovers Small space fragrance
-  Updated: 2026-11-14T10:07:56Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6038.png?v=1773225326
-  - [Sweet Jasmine/ Light grey](https://siaroma.co.uk/products/untitled-mar11_10-25?variant=56951434608972)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6050_064d36d5-afdc-4b5a-992c-954d8d065980.jpg?v=1773226278
-    Price: £5.00 GBP
-  - [White Gardenia/ Blue](https://siaroma.co.uk/products/untitled-mar11_10-25?variant=56951434641740)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6045_cd80dc1d-d9c2-4bc7-82bc-cc13670d5c58.jpg?v=1773226350
-    Price: £5.00 GBP
-  - [White Gardenia/ Red](https://siaroma.co.uk/products/untitled-mar11_10-25?variant=56951434674508)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6042_609e73f5-492d-4cea-83b4-ff8f912dc361.jpg?v=1773226364
-    Price: £5.00 GBP
-- [8 ml Diamond-Shaped Hanging Car Freshener 💎](https://siaroma.co.uk/products/8-ml-diamond-shaped-hanging-car-freshener-💎): Add a touch of elegance and freshness to your car with our 8 ml Diamond-Shaped Hanging Car Freshener. Designed with a beautiful crystal-like diamond bottle, this stylish accessory not only keeps your vehicle smelling amazing but also enhances your interior with a modern decorative look. The clear faceted design reflects light beautifully, making it a small but eye-catching detail for any car. Each freshener contains 8 ml of premium fragrance oil that gradually releases scent into your vehicle, creating a pleasant and relaxing driving experience. Simply choose your favorite fragrance from the available scent options to match your personal style. ✨ Features: Elegant diamond-shaped bottle for a luxurious look 8 ml fragrance capacity for long-lasting scent Compact hanging design – perfect for rearview mirrors Durable rope and wooden cap for easy hanging Multiple scent options available – choose your favorite 🚗 How to Use Unscrew the wooden cap and carefully remove the inner plastic stopper. Screw the wooden cap back onto the bottle tightly. Turn the bottle upside down for 1–2 seconds to allow the cap to absorb the fragrance. Hang the freshener from your rearview mirror or another secure place in your car. When the scent fades, gently tilt the bottle again to refresh the fragrance in the wooden cap. ⚠️ Safety Information Avoid prolonged contact of the liquid with car surfaces, plastic, leather, or dashboards as it may cause damage. Keep out of reach of children and pets. Do not ingest or apply to skin or eyes. If spilled, wipe immediately with a cloth. Keep away from direct sunlight and high heat. Use only as intended as an air freshener. Bring style and freshness together with this beautiful diamond car freshener, the perfect combination of decoration and fragrance for any vehicle. 🚘✨
-  Updated: 2026-11-07T14:48:45Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6064.png?v=1773229470
-  - [White Gardenia](https://siaroma.co.uk/products/8-ml-diamond-shaped-hanging-car-freshener-💎?variant=56951627186508)
-    Availability: Available
-    Price: £7.00 GBP
-  - [Japanese Cherry Blossom](https://siaroma.co.uk/products/8-ml-diamond-shaped-hanging-car-freshener-💎?variant=56993730330956)
-    Availability: Available
-    Price: £7.00 GBP
-  - [Black Opium](https://siaroma.co.uk/products/8-ml-diamond-shaped-hanging-car-freshener-💎?variant=56993730363724)
-    Availability: Available
-    Price: £7.00 GBP
-  - [Crystal Clean](https://siaroma.co.uk/products/8-ml-diamond-shaped-hanging-car-freshener-💎?variant=56993730396492)
-    Availability: Available
-    Price: £7.00 GBP
 - [30cl Forgotten Ferns & Oak – Natural Soy Wax Candle](https://siaroma.co.uk/products/forgotten-ferns-oak-natural-soy-wax-candle-30cl): Step into the quiet depth of the forest with Forgotten Ferns & Oak. This earthy, atmospheric fragrance captures the feeling of wandering through shaded woodland paths where wild ferns grow freely beneath ancient oak trees. Hand-poured using 100% natural soy wax, this 30cl candle offers a clean, slow burn while gently releasing its fresh green aroma layered with warm, grounding wood notes. The bamboo wood lid preserves the fragrance between burns and adds a natural, minimalist finish. Perfect for evenings of calm, slow mornings, or bringing a subtle touch of nature into your home. Details 30cl natural soy wax candle Approx. 40–50 hour burn time Bamboo wood lid Clean, slow burn Hand-poured in small batches Fragrance Profile Top notes: Fresh green ferns Heart notes: Soft woodland moss Base notes: Warm oak wood
   Updated: 2026-08-23T22:38:12Z
   Vendor: Si Aroma
@@ -394,13 +291,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_b7111c11-5725-43e9-9fc5-18822791133b.jpg?v=1778057947
     Price: £22.00 GBP
-- [30cl Shea Dreams – Natural Soy Wax Candle](https://siaroma.co.uk/products/shea-dreams-natural-soy-wax-candle-30cl): Indulge in the soft, comforting aroma of Shea Dreams, a beautifully crafted 30cl natural soy wax candle designed to bring warmth and relaxation to any space. Hand-poured using premium soy wax, this candle offers a clean, slow burn while filling your room with a gentle, soothing fragrance. Finished with an elegant bamboo wooden lid, it keeps the candle dust-free while adding a natural, minimalist touch that looks beautiful in any home. Scent Notes ✨ Top Notes: Soft Almond, Creamy Coconut 🌸 Heart Notes: Shea Butter, Vanilla Blossom 🌿 Base Notes: Warm Sandalwood, Tonka Bean The comforting blend creates a smooth, creamy fragrance that feels cosy, calming, and subtly luxurious. Details Size: 30cl Wax: 100% Natural Soy Wax Lid: Natural Bamboo Wooden Lid Clean, even burn Approximate burn time: 45–50 hours Perfect for relaxing evenings, self-care moments, or creating a warm and inviting atmosphere in your home.
-  Updated: 2026-10-27T17:41:26Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_f236aabd-4edb-4200-9107-6009284aad29.jpg?v=1778074082
-  Price: £16.99 GBP
 - [30cl Sour Patches Natural Soy Wax Candle](https://siaroma.co.uk/products/sour-patches-natural-soy-wax-candle-30cl): Add a playful burst of sweetness to your space with Sour Patches, a vibrant and uplifting candle inspired by the nostalgic scent of fruity sour candy. Hand-poured using 100% natural soy wax, this candle provides a clean, slow burn while filling your home with a bright, mouth-watering fragrance. Finished with a natural bamboo wooden lid, it keeps your candle fresh and dust-free while adding a stylish, eco-friendly touch that complements any decor. Scent Notes 🍋 Top Notes: Zesty Lemon, Tangy Lime 🍓 Heart Notes: Juicy Strawberry, Sweet Raspberry 🍬 Base Notes: Sugary Candy, Soft Vanilla The scent opens with a sharp citrus twist before revealing sweet, fruity notes that settle into a delicious candy-like finish. Details Size: 30cl Wax: 100% Natural Soy Wax Lid: Bamboo Wooden Lid Clean and even burn Approximate burn time: 45–50 hours Perfect for brightening your home, creating a fun atmosphere, or gifting to someone who loves sweet, fruity fragrances. Sour Patches is a candle that smells as joyful as it looks.
   Updated: 2026-08-23T22:39:02Z
   Vendor: Si Aroma
@@ -415,47 +305,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_cfbb4c12-fcee-433a-806e-fafacb909e4f.jpg?v=1778059005
   Price: £22.00 GBP
-- [8ml Hanging Car Freshener – Skittles type Inspired](https://siaroma.co.uk/products/8ml-hanging-car-freshener-skittles-type-inspired): Bring a refined touch of sweetness to your everyday drive with our 8ml hanging car freshener, inspired by the vibrant scent of Skittles. Housed in an elegant glass bottle and finished with a natural wooden diffuser cap, it offers both visual appeal and a beautifully balanced fragrance. Fragrance Profile – Skittles Inspired: A bright, uplifting blend of fruity notes with a soft, sweet finish: Top Notes: Orange, lemon, and lime zest Heart Notes: Strawberry, raspberry, and mixed berries Base Notes: Vanilla and a light candy sweetness A smooth, playful scent that feels fresh, nostalgic, and effortlessly enjoyable. Product Details: 8ml fragrance capacity Long-lasting scent diffusion Natural wooden cap for gradual release Elegant hanging design Suitable for cars and small spaces Available in a selection of colours Colour Options: Choose your preferred colour from the available options to match your style. How to Use: Unscrew the cap, remove the stopper, and reattach the wooden lid. Gently tilt to allow the fragrance to absorb, then hang and enjoy. A simple yet elegant way to add a touch of fragrance and personality to your space.
-  Updated: 2026-08-06T19:16:30Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6277.png?v=1773756906
-  - [Purple](https://siaroma.co.uk/products/8ml-hanging-car-freshener-skittles-type-inspired?variant=57005336232268)
-    Availability: Available
-    Price: £7.00 GBP
-  - [Yellow](https://siaroma.co.uk/products/8ml-hanging-car-freshener-skittles-type-inspired?variant=57005336265036)
-    Availability: Available
-    Price: £7.00 GBP
-  - [Red](https://siaroma.co.uk/products/8ml-hanging-car-freshener-skittles-type-inspired?variant=57005336330572)
-    Availability: Available
-    Price: £7.00 GBP
-  - [Pink](https://siaroma.co.uk/products/8ml-hanging-car-freshener-skittles-type-inspired?variant=57005336363340)
-    Availability: Available
-    Price: £7.00 GBP
-  - [Turquoise](https://siaroma.co.uk/products/8ml-hanging-car-freshener-skittles-type-inspired?variant=57005336396108)
-    Availability: Available
-    Price: £7.00 GBP
-- [30Cl Black Opium Inspired Soy Wax Candle](https://siaroma.co.uk/products/30cl-black-opium-inspired-candle): Indulge your senses with this luxurious 30cl Black Opium–inspired candle, designed to bring warmth, elegance, and a touch of mystery to any space. Hand-poured using natural soy wax, it offers a cleaner, longer-lasting burn while filling your room with an irresistibly rich and captivating fragrance. Housed in a stunning rose gold glass vessel and finished with a smooth bamboo wood lid, this candle is as much a statement piece as it is a sensory experience—perfect for elevating your home décor or gifting someone special. With an approximate burn time of 45–50 hours, you can enjoy its enchanting aroma again and again. Scent profile: Top notes: Pink pepper, orange blossom, pear Heart notes: Rich coffee, jasmine Base notes: Vanilla, patchouli, cedarwood The fragrance opens with a soft sweetness and subtle spice, deepens into a bold and energising coffee-floral heart, and settles into a warm, creamy base—creating a perfectly balanced, addictive scent that lingers beautifully.
-  Updated: 2026-11-14T10:08:36Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_e21bfd84-142d-4b1e-b05b-bcfed472e995.jpg?v=1778070981
-  Price: £22.00 GBP
 - [30cl Muscle Therapy Soy Wax Candle](https://siaroma.co.uk/products/30cl-muscle-therapy-candle): Unwind, recover, and recharge with our 30cl Muscle Therapy candle, thoughtfully crafted to soothe both body and mind. Made from 100% natural soy wax, this candle offers a clean, slow burn that fills your space with a comforting and revitalizing aroma. The Muscle Therapy scent is designed to evoke the calming effect of a post-massage experience—perfect for relaxation, recovery, or creating a spa-like atmosphere at home. Scent Notes: • Top notes: Eucalyptus, Peppermint • Heart notes: Lavender, Rosemary • Base notes: Camphor, Soft Woods This refreshing yet grounding blend helps ease tension, clear the mind, and promote a sense of well-being. Burn Time:Approx. 40 - 50 hours Whether you’re winding down after a long day or setting the tone for self-care, this candle is your go-to companion for restorative moments
   Updated: 2026-10-27T17:40:47Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_90038c2f-a3a7-4921-aced-71bd84c842fa.jpg?v=1778056361
-  Price: £17.99 GBP
-- [30cl Captivate Soy Wax Candle](https://siaroma.co.uk/products/30cl-captivate-soy-wax-candle): Transform your space with the warm glow and irresistible aroma of our Captivate soy wax candle. Designed to create a calming yet sophisticated atmosphere, this candle is the perfect balance of elegance and comfort. ✨ Fragrance Profile A beautifully layered scent that draws you in and lingers: Top Notes: Fresh citrus, soft green accords Heart Notes: Delicate florals, gentle spice Base Notes: Warm amber, musk, and smooth woods 🕯️ Product Details Wax: 100% natural soy wax for a clean, even burn Size: 30cl Burn Time: Approx. 35–40 hours Jar: Rose gold glass Lid: Sustainable bamboo lid 🌿 Why You’ll Love It Clean-burning and long-lasting Stylish rose gold finish to complement any décor Perfect for relaxation, self-care, or gifting Reusable jar for sustainable living 🎁 Perfect For Evening unwinding, cozy nights in, or adding a luxurious touch to your home.
-  Updated: 2026-10-27T17:41:03Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_6c377465-c7e9-46a8-a487-71c275650a87.jpg?v=1778060880
   Price: £17.99 GBP
 - [30cl Lavender & Leather Candle](https://siaroma.co.uk/products/30cl-lavender-leather-candle): Unwind in style with the calming yet distinctive aroma of our Lavender & Leather soy wax candle. Blending soft herbal notes with rich, masculine depth, this scent creates a perfectly balanced atmosphere of relaxation and sophistication. ✨ Fragrance Profile A unique fusion of fresh and warm tones: Top Notes: Fresh lavender, herbal greens Heart Notes: Soft florals, subtle spice Base Notes: Rich leather, warm amber, earthy woods 🕯️ Product Details Wax: 100% natural soy wax for a clean, even burn Size: 30cl Burn Time: Approx. 40 hours Jar: Rose gold glass Lid: Sustainable bamboo lid 🌿 Why You’ll Love It Clean-burning and long-lasting A calming yet bold scent combination Elegant rose gold design to elevate any space Reusable jar for eco-conscious living 🎁 Perfect For Relaxing evenings, creating a cosy atmosphere, or gifting something unique and refined.
   Updated: 2026-08-23T22:40:07Z
@@ -464,40 +319,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_bb204ee8-1dcc-468f-a196-86f15cd8df5a.jpg?v=1778072037
   Price: £22.00 GBP
-- [Teddy bear holding a heart decorative candle](https://siaroma.co.uk/products/teddy-bear-holding-a-heart-decorative-candle): Add a sweet and cozy touch to your space with this adorable decorative teddy candle. Carefully handcrafted from natural soy wax, each piece features a charming teddy bear holding a heart—perfect for gifting or styling your home. Product Details: Approximate weight: 115g Made from high-quality soy wax Cute teddy bear design holding a heart Available in a variety of colours and scents – simply choose your preferred option Ideal for gifts, decor, baby showers, or special occasions Each candle is lovingly made, so slight variations in colour or finish may occur, adding to its unique charm. Safety Information: If you choose to burn your candle, please place it on a suitable heat-resistant dish to catch any melted wax. Never leave a burning candle unattended, and keep away from children, pets, and flammable materials.
-  Updated: 2026-11-08T00:16:45Z
-  Vendor: Si Aroma
-  Product Type: Candles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6387.png?v=1785767102
-  - [Random Colour](https://siaroma.co.uk/products/teddy-bear-holding-a-heart-decorative-candle?variant=58284494324044)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_6a87e85b-dc19-4f9f-803e-c402546009b5.jpg?v=1785769043
-    Price: £6.50 GBP
-  - [Pastel purple / fresh](https://siaroma.co.uk/products/teddy-bear-holding-a-heart-decorative-candle?variant=57024614465868)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6387.png?v=1785767102
-    Price: £6.50 GBP
-  - [Yellow](https://siaroma.co.uk/products/teddy-bear-holding-a-heart-decorative-candle?variant=57024614531404)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6377.jpg?v=1773926756
-    Price: £6.50 GBP
-  - [Green/ cane sticks](https://siaroma.co.uk/products/teddy-bear-holding-a-heart-decorative-candle?variant=57107040403788)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6701.png?v=1774709639
-    Price: £6.50 GBP
-  - [Pink/ Floral](https://siaroma.co.uk/products/teddy-bear-holding-a-heart-decorative-candle?variant=57318212075852)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-7459.png?v=1776440449
-    Price: £6.50 GBP
-  - [Pink/ love hearts](https://siaroma.co.uk/products/teddy-bear-holding-a-heart-decorative-candle?variant=58284458934604)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_83156338-5867-4ba7-832c-af8140c41049.jpg?v=1785768567
-    Price: £6.50 GBP
-  - [Purple/ Skittle Type](https://siaroma.co.uk/products/teddy-bear-holding-a-heart-decorative-candle?variant=58284474827084)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_17b6072a-33cb-43c3-8bdc-8e1e48c3e11a.jpg?v=1785768793
-    Price: £6.50 GBP
 - [30cl Tropical Twist Soy Wax Candle](https://siaroma.co.uk/products/tropical-twist-soy-wax-candle-30cl-bamboo-lid): Bring the essence of a sun-soaked paradise into your home with our Tropical Twist soy wax candle. Hand-poured using 100% natural soy wax, this 30cl candle offers a clean, slow burn while filling your space with a vibrant, uplifting fragrance. Housed in a sleek glass vessel and topped with a sustainable bamboo wooden lid, it’s designed to look as beautiful as it smells—perfect for both relaxation and décor. Fragrance Notes: Top: Juicy pineapple, zesty citrus, ripe mango Heart: Creamy coconut, peach nectar Base: Soft vanilla, sugarcane The result is a bright, fruity blend balanced with smooth, comforting sweetness—like a tropical getaway in a jar. Burn Time: Approximately 45 hours, depending on use and care. Perfect for unwinding after a long day or adding a refreshing, exotic touch to any room.
   Updated: 2026-08-23T22:40:39Z
   Vendor: Si Aroma
@@ -518,13 +339,6 @@
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_c84ae31a-5769-4b8e-ab59-81ab277be7b6.jpg?v=1778072769
-  Price: £22.00 GBP
-- [30cl Japanese Cherry Blossom Natural Soy Wax Candle](https://siaroma.co.uk/products/japanese-cherry-blossom-natural-soy-wax-candle-30cl-with-bamboo-lid): Create a calm and elegant atmosphere with our 30cl Japanese Cherry Blossom Natural Soy Wax Candle. Hand-poured using eco-friendly soy wax, this candle offers a clean, even burn while releasing a soft, floral fragrance inspired by the beauty of springtime blossoms. Encased in a sleek glass jar and finished with a sustainable bamboo wooden lid, it’s a timeless piece designed to complement any home while keeping your candle fresh between uses. Scent Notes: Top: Delicate cherry blossom, fresh green notes Heart: Jasmine, rose petals Base: Soft musk, warm sandalwood This graceful fragrance blends light florals with a gentle warmth, creating a soothing and uplifting scent that brings a sense of tranquillity to any space. Burn Time: Approximately 40–50 hours Perfect for relaxing evenings, self-care moments, or adding a touch of serenity and elegance to your home
-  Updated: 2026-11-14T09:56:00Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_7d6d948d-bc96-4cec-97a3-20481b931f91.jpg?v=1778060034
   Price: £22.00 GBP
 - [30cl Crystal Clear Natural Soy Wax Candle](https://siaroma.co.uk/products/crystal-clear-natural-soy-wax-candle-30cl-with-bamboo-lid): Refresh your space with the clean, uplifting aroma of our 30cl Crystal Clear Natural Soy Wax Candle. Hand-poured using eco-friendly soy wax, this candle delivers a smooth, even burn while filling your home with a light, airy fragrance that feels crisp, pure, and effortlessly refreshing. Housed in a sleek glass jar and finished with a sustainable bamboo wooden lid, it’s a modern, minimalist addition to any room while helping to preserve the scent between uses. Scent Notes: Top: Fresh citrus, green apple Heart: Clean linen, white florals Base: Soft musk, light woods This fragrance captures the essence of freshly cleaned spaces and cool, clear air—perfect for creating a calm, revitalising atmosphere. Burn Time: Approximately 40–50 hours Ideal for everyday freshness, resetting your space, or adding a clean, sophisticated touch to your home.
   Updated: 2026-08-23T22:39:16Z
@@ -570,21 +384,6 @@
   - [Sour Patches 6pcs](https://siaroma.co.uk/products/3-vacuum-cleaner-freshener-discs-choose-your-favourite-scent?variant=57203547767116)
     Availability: Available
     Price: £4.50 GBP
-- [Puppy Head Candle Gift – Scented Dog Decorative Candle](https://siaroma.co.uk/products/cute-puppy-head-candle-gift-scented-dog-decorative-candle-150g-gift-wrapped): Add a cute and cosy touch to any space with our Puppy Head Candle – a beautifully detailed decorative candle that comes ready gift wrapped, making it the perfect present for dog lovers. This scented dog candle is designed to bring warmth and personality to your home decor. Whether you’re shopping for a birthday, special occasion, or just a thoughtful surprise, this ready-to-gift candle makes it easy. Each candle weighs approximately 150g and measures around 6.5cm in height and 8.5cm in width, making it ideal for shelves, desks, or bedside styling. Simply choose your favourite design and scent from our available options to create a personalised gift. Product Features: Adorable puppy head design Approx. 150g weight Size: 6.5cm (H) x 8.5cm (W) Multiple scent options available Perfect gift for dog lovers & home decor lovers This candle is primarily intended for decorative purposes. If you choose to burn it, please place it on a suitable heat-resistant dish to catch melting wax and ensure safe use. Never leave a burning candle unattended. A thoughtful, ready-made gift that’s as cute as it is cosy 🐾
-  Updated: 2026-08-04T05:44:08Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_689c8e0d-6f14-4eeb-9149-0a4ae3a3fd7b.jpg?v=1785779009
-  - [Grey minimal](https://siaroma.co.uk/products/cute-puppy-head-candle-gift-scented-dog-decorative-candle-150g-gift-wrapped?variant=57239814144332)
-    Availability: Available
-    Price: £10.00 GBP
-  - [White](https://siaroma.co.uk/products/cute-puppy-head-candle-gift-scented-dog-decorative-candle-150g-gift-wrapped?variant=57239814177100)
-    Availability: Available
-    Price: £10.00 GBP
-  - [Pastel purple / fresh](https://siaroma.co.uk/products/cute-puppy-head-candle-gift-scented-dog-decorative-candle-150g-gift-wrapped?variant=57239814209868)
-    Availability: Available
-    Price: £10.00 GBP
 - [Staffordshire dog decorative soy wax candle](https://siaroma.co.uk/products/staffordshire-dog-decorative-soy-wax-candle): Add a playful yet stylish touch to your space with this adorable Staffy dog candle, crafted in a soft pink hue. Designed with charming detail, this unique piece doubles as both a decorative statement and a functional candle. Hand-poured using high-quality soy wax, it offers a cleaner, longer-lasting burn compared to traditional paraffin candles—making it a thoughtful choice for both your home and the environment. Perfect for dog lovers, gift-giving, or as a standout decor piece, this Staffy candle brings personality and warmth to any room. Product Details: Colour: Soft pink Shape: Staffordshire dog (Staffy) Material: Natural soy wax Approx. Size: 13cm (height) x 12cm (width) Weight: 430g Whether displayed on a shelf or lit for a cozy ambiance, this charming candle is sure to turn heads.
   Updated: 2026-06-15T08:46:19Z
   Vendor: Si Aroma
@@ -682,62 +481,6 @@
   - [Cocoa Butter](https://siaroma.co.uk/products/butterfly-garden-soy-wax-melts-pack-of-2-25g-choose-your-scent?variant=59919003091276)
     Availability: Available
     Price: £2.50 GBP
-- [20cl Rose Wonderland Soy Candle](https://siaroma.co.uk/products/20cl-rose-wonderland-soy-candle): The Ultimate Floral Escape Transform your home into a serene blooming garden with our signature Rose Wonderland candle. This isn't just a scent; it’s an experience. Captured in our exquisite iridescent vessel with a sleek rose gold trim, this candle is designed to be a centerpiece of elegance in any room. The Scent Profile:Inspired by the crisp, sweet aroma of a winter rose garden in bloom, Rose Wonderland is a sophisticated blend that balances floral delicacy with a clean, uplifting finish. • Top Notes: Freshly cut rose petals and a hint of sweet citrus. • Heart Notes: Deep blooming geranium and soft violet. • Base Notes: A warm, comforting trail of white musk and precious woods. Why You’ll Love It: • Hand-Poured Excellence: Crafted in small batches at the Si Aroma studio for maximum scent throw. • Stunning Aesthetics: The iridescent glass dances with light, perfectly complemented by our luxury black and rose gold gift box. • Sustainable Quality: Made with high-quality natural wax and premium fragrance oils for a clean, consistent burn. Product Details: • Volume: 20CL • Burn Time: Approx. 30 hours • Packaging: Comes in a signature Si Aroma luxury gift box.
-  Updated: 2026-08-01T17:31:17Z
-  Vendor: Si Aroma
-  Product Type: Candles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_3c627150-286f-497e-91ed-f5e1682225d4.jpg?v=1777927278
-  Price: £12.00 GBP
-- [20cl Driftwood Soy Candle](https://siaroma.co.uk/products/20cl-driftwood-soy-candle): A Coastal Escape in Your Own Home Bring the calming essence of the seaside indoors with our Driftwood soy candle. This scent captures the raw, natural beauty of sun-bleached wood and salty sea air. Encased in a stunning rose gold mirror-finish vessel, this candle adds a touch of modern warmth and sophistication to any interior. The Scent Profile:A clean, woody fragrance that balances salty marine notes with deep, earthy undertones. It’s the perfect scent for those who love a fresh yet grounded atmosphere. • Top Notes: Sea salt, zesty bergamot, and crisp marine air. • Heart Notes: Sun-drenched driftwood and soft sage. • Base Notes: Deep patchouli, white musk, and golden amber. Why You’ll Love It: • Artisan Craftsmanship: Each candle is hand-poured in small batches at the Si Aroma studio for a premium, consistent fragrance. • Rose Gold Elegance: The metallic rose gold jar reflects the light beautifully, creating a warm and inviting glow. • Clean-Burning Soy Wax: Made with 100% natural soy wax for an eco-friendly burn that is kinder to your home. Product Details: • Volume: 20cl • Burn Time: Approx. 30 hours • Packaging: Signature Si Aroma luxury black and rose gold gift box.
-  Updated: 2026-08-01T12:25:17Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-8166.png?v=1777911507
-  Price: £12.00 GBP
-- [20cl Crystal Clear Soy Wax Candle](https://siaroma.co.uk/products/20cl-crystal-clear-signature-candle): The Ultimate Breath of Fresh Air Experience total clarity and rejuvenation with our Crystal Clear candle. This fragrance is designed to cut through the noise of the day, offering a scent that is as transparent and refreshing as mountain spring water. Presented in our signature rose gold mirror-finish vessel, it combines a sleek, modern aesthetic with a scent that feels light, airy, and impeccably clean. The Scent Profile:A bright, ozonic fragrance that captures the essence of pure air and sparkling dew. It is the perfect choice for those who desire a minimalist, "just-cleaned" atmosphere that feels both uplifting and tranquil. • Top Notes: Crisp ozone, chilled aldehydes, and a hint of fresh cotton. • Heart Notes: Delicate white lily, water jasmine, and soft linen. • Base Notes: Smooth sandalwood, light musk, and a touch of crystalline amber. Why You’ll Love It: • Artisan Craftsmanship: Hand-poured in small batches at the Si Aroma studio, ensuring every candle meets our high standards of quality and scent throw. • Reflective Beauty: The rose gold metallic jar creates a stunning focal point, dancing with light even before the wick is lit. • Eco-Conscious Luxury: Crafted with our premium natural wax blend and high-quality fragrance oils for a soot-free, sustainable burn. Product Details: • Volume: 20cl • Burn Time: Approx. 30 hours • Packaging: Comes in the signature Si Aroma luxury black and rose gold gift box, ready for gifting.
-  Updated: 2026-08-01T12:24:36Z
-  Vendor: Si Aroma
-  Product Type: Candles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-8171.png?v=1777921829
-  Price: £12.00 GBP
-- [20cl Juran Dunes Soy Wax Candle](https://siaroma.co.uk/products/20cl-juran-dunes-signature-candle): A Sun-Drenched Coastal Escape Transport yourself to the rolling, golden hills of a distant shoreline with our Juran Dunes candle. This fragrance captures the warmth of the sun on sand and the sophisticated breeze of an exotic coastal retreat. Housed in our signature rose gold mirror-finish vessel, it brings a touch of radiant warmth and effortless luxury to any space. The Scent Profile:A warm, sophisticated solar fragrance that blends creamy exotic florals with the dry, earthy heat of sun-baked dunes. It is the perfect scent for creating an atmosphere of sun-kissed tranquility and high-end relaxation. • Top Notes: Zesty bergamot, coconut water, and a hint of sea salt. • Heart Notes: Exotic jasmine, orange blossom, and warm sand accord. • Base Notes: Creamy vanilla, golden amber, and soft cedarwood. Why You’ll Love It: • Artisan Craftsmanship: Hand-poured in small batches at the Si Aroma studio for an exceptional and consistent fragrance experience. • Luminous Design: The metallic rose gold jar reflects light beautifully, adding a glowing, sophisticated touch to your home décor. • Premium Natural Wax: Made with our high-quality natural wax blend for a long-lasting, clean burn that respects your environment. Product Details: • Volume: 20cl • Burn Time: Approx. 30 hours • Packaging: Signature Si Aroma luxury black and rose gold gift box.
-  Updated: 2026-08-01T12:24:51Z
-  Vendor: Si Aroma
-  Product Type: Candles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_3caff247-4e9d-44a8-821d-47eb48684276.jpg?v=1777922352
-  Price: £12.00 GBP
-- [20cl Orange Blossoms & Coastal Cypress Soy Wax Candle](https://siaroma.co.uk/products/20cl-orange-blossoms-coastal-cypress-soy-wax-candle): A Mediterranean Breeze in Bloom Sweep your senses away to a sun-drenched grove where the citrus-sweet air of the coast meets the rugged freshness of the forest. Our Orange Blossoms & Coastal Cypress candle is a masterclass in balance—blending delicate florals with crisp, evergreen wood. Encased in a stunning silver mirror-finish vessel, it adds a bright, modern elegance to any room. The Scent Profile:A sophisticated, uplifting fragrance that pairs the romantic sweetness of blooming citrus trees with the grounding, salt-sprayed scent of cypress. It’s the ultimate refreshing aroma for a bright and airy home. • Top Notes: Sparkling neroli, zesty petitgrain, and a touch of sea salt. • Heart Notes: Fragrant orange blossom, white gardenia, and herbal rosemary. • Base Notes: Coastal cypress, earthy cedarwood, and clean musk. Why You’ll Love It: • Artisan Craftsmanship: Hand-poured in small batches at the Si Aroma studio, ensuring a premium fragrance throw from first light to last. • Contemporary Chic: The silver metallic jar reflects the flickering flame beautifully, creating a cool, sophisticated glow. • Pure & Natural: Crafted with our high-quality natural wax blend for a clean, sustainable burn that fills your home with fragrance, not soot. Product Details: • Volume: 20cl • Burn Time: Approx. 30 hours • Packaging: Signature Si Aroma luxury black and rose gold gift box.
-  Updated: 2026-08-01T12:24:45Z
-  Vendor: Si Aroma
-  Product Type: Candles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_b41bd350-805a-4702-8f59-9c6cc5ab6e6e.jpg?v=1777923553
-  Price: £12.00 GBP
-- [20cl Ring Leather Soy Wax Candle](https://siaroma.co.uk/products/20cl-ring-leather-soy-wax-candle): The Essence of Timeless Luxury Indulge in the bold, evocative aroma of our Ring Leather candle. This scent is a tribute to craftsmanship and heritage, capturing the unmistakable, rich fragrance of fine grain leather. Housed in our signature rose gold mirror-finish vessel, it provides a warm, commanding presence that feels both classic and contemporary. The Scent Profile:A deep, masculine-leaning fragrance that is smooth, smoky, and incredibly sophisticated. It creates an atmosphere of prestige and comfort, perfect for evening relaxation or adding a refined touch to a workspace. • Top Notes: Saffron, raspberry, and a hint of wild thyme. • Heart Notes: Night-blooming jasmine and olibanum (frankincense). • Base Notes: Black suede, raw leather, amber, and warm woody notes. Why You’ll Love It: • Artisan Craftsmanship: Hand-poured in small batches at the Si Aroma studio, ensuring the fragrance is perfectly balanced for a rich, room-filling throw. • Opulent Design: The metallic rose gold jar creates a beautiful contrast with the deep, dark notes of the scent, reflecting a warm and inviting glow. • Clean-Burning Luxury: Made with our premium natural wax blend for a clean, consistent burn that lets the complex fragrance shine. Product Details: • Volume: 20cl • Burn Time: Approx. 30 hours • Packaging: Signature Si Aroma luxury black and rose gold gift box.
-  Updated: 2026-10-14T12:32:31Z
-  Vendor: Si Aroma
-  Product Type: Candles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_840b9038-a71b-4231-87ec-4d396c4aa369.jpg?v=1777927112
-  Price: £12.00 GBP
-- [20cl Sour Patches Signature Candle | Sweet & Tangy Fruity Home Fragrance](https://siaroma.co.uk/products/20cl-sour-patches-signature-candle): The Ultimate Sweet & Tangy Escape Get ready for a burst of nostalgia! Our Sour Patches candle captures that irresistible, mouth-watering balance of zingy citrus and sugary sweetness. Housed in our signature high-shine vessel, this scent is designed to brighten your mood and fill your space with a playful, energetic vibe. The Scent Profile:A vibrant, multi-layered fragrance that starts with a sharp, sour kick and settles into a smooth, fruity sweetness. It’s the perfect pick-me-up for any room that needs a touch of fun. • Top Notes: Zesty lemon, tangy lime, and sparkling pink grapefruit. • Heart Notes: Juicy blue raspberry, sweet strawberry, and a hint of green apple. • Base Notes: Crystallized sugar, fluffy vanilla, and a touch of light musk. Why You’ll Love It: • Playful Energy: This isn't just a candle; it’s an atmosphere. Perfect for kitchen spaces, dressing rooms, or whenever you need a boost of sunshine. • Signature Glow: Available in both our sleek Silver and warm Rose Gold mirror-finish vessels, creating a stunning light display as the flame reflects off the metallic surface. • Hand-Crafted Quality: Each candle is meticulously hand-poured by Si Aroma using premium natural wax and high-quality fragrance oils for a long-lasting, delicious scent throw. Product Details: • Volume: 20cl • Burn Time: Approx. 30 hours • Packaging: Comes in our luxury black and rose gold gift box, making it a perfect treat for yourself or a sweet gift for someone special.
-  Updated: 2026-08-01T17:25:47Z
-  Vendor: Si Aroma
-  Product Type: Candles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_88aba514-b919-4a06-83fc-84f930c1bf63.jpg?v=1777926021
-  - [Rose gold](https://siaroma.co.uk/products/20cl-sour-patches-signature-candle?variant=57456476586316)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_88aba514-b919-4a06-83fc-84f930c1bf63.jpg?v=1777926021
-    Price: £12.00 GBP
-  - [Silver](https://siaroma.co.uk/products/20cl-sour-patches-signature-candle?variant=57456476619084)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_35f5d2cd-d53d-41af-99d3-b25b1f30b64d.jpg?v=1777926085
-    Price: £12.00 GBP
 - [Sleeping Cat Wax Melts – Natural Soy Wax | Handcrafted with Mini Hearts Inside](https://siaroma.co.uk/products/sleeping-cat-wax-melts-natural-soy-wax-handcrafted-with-mini-hearts-inside): Sleeping Cat Wax Melt — a unique, handcrafted creation made entirely from premium natural soy wax. The whole cat figure is made of wax, and its hollow body is filled with tiny heart-shaped melts inside, making it as beautiful to look at as it is lovely to smell! Each piece weighs 155g, giving you hours of long-lasting, beautiful fragrance. Choose your favourite scent from our wide range and fill your home with a gorgeous, calming aroma. Made from 100% natural soy wax — eco-friendly, clean-burning, and safe for the whole family. ✨ Key Features: • 100% Natural Soy Wax — non-toxic & eco-friendly • Unique Design — entire cat is wax, filled with mini heart melts • Weight: 155g — large size, great value • Handmade & Hand-poured — detailed finish with glitter accents • Choose Your Scent — pick from our premium fragrance options • Perfect Gift — ideal for cat lovers & home fragrance fans 🪄 How to Use: Simply break a piece of the cat wax and place it into your wax burner or warmer. Light a tealight underneath or turn on your electric warmer. As it melts, it will release a beautiful, strong scent throughout your room. Enjoy!
   Updated: 2026-10-19T06:31:50Z
   Vendor: Si Aroma
@@ -1439,20 +1182,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_1b581ea6-cd11-4a1a-9e91-9c149dbf6c38.jpg?v=1785500922
   Price: £3.75 GBP
-- [20cl Coastal Kale & Surf Soy Wax Candle](https://siaroma.co.uk/products/coastal-kale-surf-soy-wax-candle): Hand‑poured right here in the UK with premium natural soy wax, this cruelty‑free and vegan candle delivers a clean, even burn and long‑lasting, refreshing fragrance. 🌸 Scent NotesTop: Crisp sea salt, bright bergamot, fresh lime zest, clean ozoneHeart: Verdant kale leaf, wild seaweed, salty samphire, soft green herbsBase: Sun‑bleached driftwood, sea moss, warm cedarwood, gentle white musk ✨ What it smells likeLike walking windswept coastal cliffs at low tide – crisp briny sea air blends with fresh, earthy green shoreline notes, then settles into a smooth, grounding finish. It’s calming, invigorating, and brings the wild, peaceful spirit of the British coast straight into your home. 📦 Details• Volume: 20cl• 100% natural soy wax• Cruelty‑free & vegan friendly• Hand‑poured in the UK 🇬🇧• Approx. 35–40 hours burn time---
-  Updated: 2026-08-03T18:54:38Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_15fc6524-073b-4196-b050-dbd66900331c.jpg?v=1785606306
-  Price: £12.00 GBP
-- [Jamaican & Fijian Fig Leaf Soy Wax Candle](https://siaroma.co.uk/products/jamaican-fijian-fig-leaf-soy-wax-candle): Hand‑poured in the UK with premium natural soy wax, this cruelty‑free and vegan candle delivers a clean, even burn and beautifully layered, long‑lasting fragrance ✨ 🌸 Scent NotesTop: Sun‑ripened fig fruit, bright lime zest, juicy mandarin, fresh green leafHeart: Velvety fig leaf, tropical jasmine, soft coconut water, subtle ginger warmthBase: Smooth amber, sun‑bleached teak wood, creamy vanilla, gentle earthy musk ✨ What it smells likeA lush journey through sun‑drenched tropical groves – sweet, ripe fig meets crisp green freshness, warmed by soft spice and creamy depth. It feels rich yet light, balancing juicy fruit with elegant earthiness, like stepping into a lush island garden at golden hour ✨ 📦 Details• Volume: 20cl• 100% natural soy wax• Cruelty‑free & vegan friendly• Hand‑poured in the UK 🇬🇧• Approx. 35–40 hours burn time
-  Updated: 2026-08-03T18:54:42Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_76816567-361f-432d-95c3-4ab429a8f458.jpg?v=1785607150
-  Price: £12.00 GBP
 - [Marshmallow & Sweet Strawberry wax melt pot](https://siaroma.co.uk/products/marshmallow-sweet-strawberry-wax-melt-pot): Hand‑poured with love right here in the UK, cruelty‑free and vegan friendly, for a long‑lasting, dreamy fragrance ✨ 🌸 Scent NotesTop: Juicy ripe strawberry, sun‑kissed red berry, bright sugary sparkleHeart: Fluffy vanilla marshmallow, sweet cream, soft strawberry jamBase: Warm vanilla bean, melted sugar, gentle white musk ✨ What it smells likeJust like a bowl of fresh strawberries topped with clouds of fluffy melted marshmallow – bursting with ripe, fruity sweetness, wrapped in creamy, sugary warmth. It’s soft, indulgent and utterly comforting, filling your home with the nostalgic joy of your favourite sweet treat ✨ 📦 Details• Weight: 50g• Cruelty‑free & vegan• Hand‑poured in the UK 🇬🇧• Long‑lasting scent throw
   Updated: 2026-08-17T09:04:35Z
   Vendor: Si Aroma
@@ -1520,13 +1249,6 @@
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_0bc1b27f-a904-435d-9002-3114f8c0c958.jpg?v=1786224781
-  Price: £3.75 GBP
-- [White Witch wax melt pot](https://siaroma.co.uk/products/white-witch-wax-melt-pot): ✨ White Witch Wax Melt Pot – 50g What it smells likeEthereal, soft and enchantingly beautiful — like stepping into a moonlit garden at midnight. Delicate, powdery and gently sweet, with a whisper of cool freshness that feels calm, magical and utterly spellbinding ✨ Scent Notes• Top: Frosted bergamot, white peach, dewy green leaves• Heart: White jasmine, creamy gardenia, soft violet, powdery iris• Base: Vanilla orchid, white musk, soft amber, sandalwood✅ Cruelty‑free & vegan friendly✅ Hand‑poured in the UK 🇬🇧✅ Long‑lasting scent throw
-  Updated: 2026-11-07T14:48:40Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_36af4d76-9789-4287-9866-9b3ea28f7d91.jpg?v=1786227529
   Price: £3.75 GBP
 - [Gin & Tonic Wax melt pot](https://siaroma.co.uk/products/gin-tonic-wax-melt-pot): 🍸 Gin & Tonic Wax Melt Pot – 50g What it smells likeBright, crisp and wonderfully refreshing — just like a perfectly mixed glass on a warm sunny afternoon! Zesty, cool and perfectly balanced, with that unmistakable tangy sparkle that wakes up every room ✨ Scent Notes• Top: Sharp juniper berries, bright lime zest, sparkling lemon• Heart: Crisp quinine, soft mint leaves• Base: Subtle citrus peel, gentle herbal notes, light sugar sweetness
   Updated: 2026-10-19T06:32:15Z
@@ -1712,7 +1434,7 @@
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_eb281423-656a-4ed3-b6a7-fddc6ff212a4.jpg?v=1787252603
     Price: £6.00 GBP
 - [Smart Suit Teddy Wax Melts](https://siaroma.co.uk/products/smart-suit-teddy-wax-melts): Meet our charming, smartly dressed teddies! Each one is beautifully hand‑poured with incredible detail — complete with a dapper little hat, neat bow tie and textured fur, full of warmth and personality. Perfect for gifting or adding a sweet touch to your home 🤍 📦 Product Details • Each melt weighs approx 20g • Colours are picked at random for a lovely surprise ✨ • Cruelty‑free & vegan friendly wax • Hand‑poured in the UK 🇬🇧 • Choose your favourite fragrance from the available options
-  Updated: 2026-11-07T17:46:45Z
+  Updated: 2026-11-16T18:43:41Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
@@ -1730,7 +1452,7 @@
     Availability: Available
     Price: £2.00 GBP
   - [Marshmallow & Blueberry Frosting](https://siaroma.co.uk/products/smart-suit-teddy-wax-melts?variant=58399548408140)
-    Availability: Available
+    Availability: Not Available
     Price: £2.00 GBP
   - [Pink Grapefruit](https://siaroma.co.uk/products/smart-suit-teddy-wax-melts?variant=58407574962508)
     Availability: Available
@@ -1791,7 +1513,7 @@
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_f9845f88-853e-4e5c-9928-a8a7f16106c2.jpg?v=1786709570
   Price: £3.75 GBP
 - [Lemon Verbena Wax Melt Pot](https://siaroma.co.uk/products/lemon-verbena-wax-melt-pot): ✨ What it smells like Bright, crisp and wonderfully refreshing! It’s not just sharp lemon — it has that soft, elegant, herbaceous warmth that makes lemon verbena so special. Think freshly picked leaves steeped with sunny citrus, with a gentle, clean finish that feels light, uplifting and instantly calming. Perfect for waking up any room or clearing stale air, it feels like stepping into a sunlit herb garden ✨ 🌸 Scent Notes • Top: Zesty lemon verbena, bright lemon zest, sweet orange • Heart: Soft herbal green notes, delicate lemongrass, fresh leafy accord • Base: Clean white musk, subtle soft wood 📦 Product Details • Weight: 50g • Cruelty‑free & vegan friendly • Hand‑poured right here in the UK 🇬🇧 • Long‑lasting, even scent throw
-  Updated: 2026-08-18T18:39:49Z
+  Updated: 2026-11-18T05:38:41Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
@@ -1948,7 +1670,382 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_8f01ac90-2362-4874-90c2-53e054811281.jpg?v=1787511708
   Price: £3.75 GBP
-[List Continued](https://siaroma.co.uk/a/llms-agent/llms.txt?shop=qpbn1v-1h.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNjAyMTk1NzUwOTQ1MiwibGFzdF92YWx1ZSI6IjE2MDIxOTU3NTA5NDUyIn0%3D)
+- [🐿️ Squirrel Stack Wax Melts – Approx 80g | Moonlight Scent](https://siaroma.co.uk/products/🐿️-squirrel-stack-wax-melts-approx-80g-moonlight-scent): What it smells like Calm, crisp and beautifully atmospheric — like walking through a quiet juniper forest under a glowing full moon. Bright, cool evergreen notes meet soft, earthy depth, with just a hint of gentle sweetness that keeps it smooth and never sharp. It feels fresh, grounding, and wonderfully peaceful — perfect for unwinding and bringing quiet natural magic to any space ✨ Scent Notes • Top: Crisp juniper berry, bright bergamot, cool eucalyptus, wild mint • Heart: Soft pine needles, cedar leaf, delicate white florals • Base: Smooth sandalwood, warm amber, gentle moss, subtle musk 📦 Product Details• Weight: Approx 80g — generously sized for long‑lasting enjoyment• Charming detailed squirrel design, holding an acorn• Break into smaller pieces to use exactly how much you need• Cruelty‑free & vegan friendly• Hand‑poured in the UK 🇬🇧
+  Updated: 2026-11-10T15:46:43Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-8162.png?v=1792445522
+  Price: £6.99 GBP
+- [Turtle Seaside Stack Wax Melts – Approx. 80g](https://siaroma.co.uk/products/turtle-seaside-stack-wax-melts-approx-80g): Approx. 80g – Choose Your Perfect Combination! ✨ Beautifully hand‑poured with a stunning seaside theme — each generously sized slab features a detailed turtle accent, colourful layered wax and sparkling glitter for a truly eye‑catching finish. Perfectly crafted for an amazing, long‑lasting scent throw to fill your space beautifully. ✨ Make it yours:Pick exactly what you love — choose your favourite design & colour style, plus your preferred fragrance from our full range of available scents! Whether you love fresh & bright, fruity & sweet, or warm & cosy, there’s a perfect match for every mood. 📦 Quality & Details:• Weight: approx. 80g per piece — substantial, satisfying size• Gorgeous decorative shape — looks lovely even before melting• Easy to use: simply break into smaller pieces to suit your burner• Kind to nature: cruelty‑free & vegan friendly 🤍• Proudly hand‑poured with care in the UK 🇬🇧 A wonderful treat for yourself or a thoughtful, unique gift — these detailed turtle melts bring charm and choice together! 🐢🌊
+  Updated: 2026-11-10T15:47:27Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_2703370b-db45-4098-9b10-17f1a528e74e.jpg?v=1787599677
+  - [Vanilla Bean](https://siaroma.co.uk/products/turtle-seaside-stack-wax-melts-approx-80g?variant=58549124432204)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_2703370b-db45-4098-9b10-17f1a528e74e.jpg?v=1787599677
+    Price: £6.99 GBP
+  - [Citronella citrus cocktail Style 1](https://siaroma.co.uk/products/turtle-seaside-stack-wax-melts-approx-80g?variant=58566568018252)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_8a450488-73a5-4506-a375-e36a5ef22fbf.jpg?v=1787666238
+    Price: £6.99 GBP
+  - [Violet style 1](https://siaroma.co.uk/products/turtle-seaside-stack-wax-melts-approx-80g?variant=58653542351180)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_d1b68d07-c4e2-46ce-94d4-83beaf6dccc8.jpg?v=1788287278
+    Price: £6.99 GBP
+  - [Violet style 2](https://siaroma.co.uk/products/turtle-seaside-stack-wax-melts-approx-80g?variant=58665594880332)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5173.png?v=1788376560
+    Price: £6.99 GBP
+  - [Lavender & Chamomile style 2](https://siaroma.co.uk/products/turtle-seaside-stack-wax-melts-approx-80g?variant=58831019540812)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6033.png?v=1789556638
+    Price: £6.99 GBP
+  - [Sweet Chestnut Latte](https://siaroma.co.uk/products/turtle-seaside-stack-wax-melts-approx-80g?variant=58855824490828)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6145.png?v=1789639152
+    Price: £6.99 GBP
+- [Cuddling Kitten Cupcake Wax Melt](https://siaroma.co.uk/products/cuddling-kitten-cupcake-wax-melt): Approx. 50–60g ✨ Beautifully hand‑poured cupcake‑style melt featuring a sweet, cuddly kitten design with sparkling glitter details! Each piece is generously sized for excellent, long‑lasting scent throw. ✨ Choose your perfect one:Pick your favourite design, colour, and fragrance from the available options — every one is unique & lovely! 📦 Details & Quality:• Weight: approx. 50–60 grams — substantial & richly scented• Charming cupcake shape with adorable raised kitten detail• Vegan & cruelty‑free 🤍• Hand‑poured with care right here in the UK 🇬🇧• Smooth finish & beautifully presented Perfect for your burner display, a sweet thoughtful gift, or treating yourself — they look so cute you’ll hardly want to melt them! Break into smaller pieces or use whole depending on your burner size.
+  Updated: 2026-09-28T19:11:06Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6889.png?v=1790622652
+  Price: £4.00 GBP
+- [Cherry Milkshake wax melt pot](https://siaroma.co.uk/products/cherry-milkshake-wax-melt-pot): ✨ What it smells like Rich, creamy and irresistibly sweet — just like a thick, freshly blended cherry milkshake! Bursting with sun‑ripened, juicy cherries that feel plump and vibrant, wrapped in velvety smooth vanilla cream and a soft sugary finish. It’s warm, indulgent and nostalgic — like a delicious treat from your favourite sweet shop, beautifully rounded and long‑lasting without being overpowering. 🌸 Scent Notes • Top: Bright red cherry, wild berry, sweet almond hint • Heart: Creamy milk accord, whipped vanilla, marshmallow fluff • Base: Soft sugar, sweet vanilla bean, gentle musk 📦 Product Details• Weight: 50g premium wax pot• Hand‑poured with care in the UK 🇬🇧• Cruelty‑free & vegan friendly• Smooth, even & long‑lasting scent throw• Simply break into pieces to suit your burner
+  Updated: 2026-09-01T03:24:35Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_f45e7695-b34e-41db-baf8-5a6ff8d94f58.jpg?v=1787663669
+  Price: £3.75 GBP
+- [Pink Lemonade wax melt pot](https://siaroma.co.uk/products/pink-lemonade-wax-melt-pot): What it smells like:Bright, juicy & irresistibly refreshing — exactly like a glass of ice‑cold, sweet‑tart summer lemonade! Sparkling zesty citrus opens fresh and lively, blended with sun‑ripened red berries and a soft sugary finish. Uplifting, cheerful and nostalgic — fills your space with light, fruity, clean sweetness without being heavy. Scent Notes:• Top: Fizzy lemon, lime, bright grapefruit & citrus sparkle• Heart: Sweet raspberry, juicy strawberry, hint of apple• Base: Soft sugar & creamy vanilla sweetness 📦 Product Details:• Size: 50g wax melt pot — generous size for great scent throw• Style: Hand‑poured, smooth & ready to enjoy — break into smaller pieces for your warmer• Quality: Cruelty‑free, crafted for clean, long‑lasting release
+  Updated: 2026-09-10T10:56:51Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-4982.png?v=1788184149
+  Price: £3.75 GBP
+- [Cheeky Monkey wax melt pot](https://siaroma.co.uk/products/cheeky-monkey-wax-melt-pot): What it smells like:Playful, sweet and totally irresistible — a fun, nostalgic crowd‑pleaser! It opens with a burst of bright, juicy tropical and orchard fruits, softens into fluffy, sweet‑fresh cotton and creamy vanilla, and finishes with a light, clean powdery warmth. It’s comforting, fruity‑fresh and beautifully balanced — like a mix of sweet candy, fresh laundry and ripe summer fruit, charming but never overpowering ✨ Scent Notes:• Top: Sweet pineapple, ripe strawberry, juicy berry, bright citrus sparkle• Heart: Fresh cotton, soft floral breeze, creamy banana hint• Base: Warm vanilla, light musk, gentle sugar sweetness 📦 Product Details:• Weight: 50 g — generous hand‑poured pot for great, long‑lasting scent throw• Use: Break into smaller pieces to suit your wax burner• Quality: Cruelty‑free, crafted for clean, even fragrance release• Vibe: Cheerful, unique and full of personality — perfect for everyday or gifting
+  Updated: 2026-11-07T14:48:45Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-4983.png?v=1788184498
+  Price: £3.75 GBP
+- [Blueberry Muffin wax melt pot](https://siaroma.co.uk/products/blueberry-muffin-wax-melt-pot): ✨ What it smells like:Warm, freshly‑baked & incredibly comforting — exactly like pulling a golden, juicy blueberry muffin straight from the oven! Rich, sweet, and bursting with ripe fruit, swirled with buttery pastry and velvety sugar. Cosy, indulgent and mouth‑wateringly realistic — fills your room with the gentle, homely warmth of a bakery ✨ 🍓 Scent Notes: • Top: Juicy wild blueberry, sweet ripe berry, hint of fresh fruit zest • Heart: Warm buttery dough, soft pastry, brown sugar sweetness • Base: Creamy vanilla, light caramel, warm bakery accord 📦 Product Details: • Weight: 50 g generous hand‑poured pot • Performance: Smooth, even melt & beautiful long‑lasting food‑grade scent throw • Use: Break into smaller pieces to suit any burner • Vibe: Cosy, homely & nostalgic — perfect for autumn/winter, gift‑giving or kitchen/living‑room warmth • Cruelty‑free ✅
+  Updated: 2026-09-21T15:10:18Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-4984.png?v=1788184952
+  Price: £3.75 GBP
+- [30cl White Christmas Cookies soy wax candle](https://siaroma.co.uk/products/30cl-white-christmas-cookies-soy-wax-candle): ✨ What it smells like Imagine a cosy Christmas kitchen on a frosty winter morning — a steaming mug of silky white cocoa beside a tray of freshly baked Christmas cookies, still warm from the oven. Sweet, buttery biscuit notes mingle with delicate nutty hints and melt into an indulgent swirl of creamy vanilla. It’s soft, sweet, creamy and deliciously comforting, like wrapping yourself in a warm blanket while Christmas cookies bake in the kitchen. A beautifully nostalgic scent that makes your home feel instantly festive, cosy and inviting. ✨ 🍪 Breakdown by layer • Top Notes: Creamy white cocoa, sweet sugar • Heart Notes: Freshly baked biscuits, warm Christmas cookies, delicate nutty notes • Base Notes: Rich creamy vanilla, soft sweetness, smooth gourmand warmth 📦 Product Details: • Size: Classic 30cl size — generous burn time • Wax: Premium natural soy wax — cruelty-free, clean burning and designed for a beautiful scent throw • Lid: Elegant bamboo lid — perfect for keeping dust out, preserving the fragrance and adding a polished natural finish • Hand-poured: Made with care in small batches • Style: Minimalist and timeless — a beautiful addition to any room and a gorgeous Christmas gift
+  Updated: 2026-10-08T18:02:31Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5107.png?v=1788280004
+  Price: £22.00 GBP
+- [Pixie Dust wax melt pot](https://siaroma.co.uk/products/pixie-dust-wax-melt-pot): What it smells like A sweet, playful fragrance that feels like stepping into a magical world sprinkled with fairy dust! Juicy fruity notes mingle with delicious candy-like sweetness, creating a bright and uplifting scent. Soft vanilla adds a creamy warmth, while sparkling citrus brings a fresh finishing touch. It’s fun, feminine, sweet and wonderfully indulgent — a little burst of magic for your home ✨ Scent Notes • Top: Sugared citrus, juicy pear, sweet fruity notes • Heart: Ripe plum, luscious cherry, playful candy accords • Base: Creamy vanilla, soft musk, sugary sweetness 📦 Product Details • Weight: 50g • Natural soy wax 🌱 • Cruelty-free & vegan 🐰🌿 • Hand-poured in the UK 🇬🇧 • Long-lasting scent throw ✨
+  Updated: 2026-11-13T19:34:05Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5110.png?v=1788285950
+  Price: £3.75 GBP
+- [Various style cupcake wax melt](https://siaroma.co.uk/products/cactus-cupcake-wax-melt): Description: Beautifully detailed cupcake‑style melt topped with a striking designs ! Smooth‑poured and finished with lovely sparkling glitter accents ✨ ✅ Pick yours: Choose your favourite design, colour and scent from the available options listed.✅ Handmade quality: Cruelty‑free & vegan friendly, hand‑poured right here in the UK 🇬🇧✅ Long‑lasting: Generous solid weight — approx. 50–60g for wonderful scent throw & great burn time Perfect for your burner, stylish shelf display, or as a unique little gift — it looks so special & detailed! 💖Simply break gently or use whole depending on your burner size.
+  Updated: 2026-10-09T13:22:51Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6042.png?v=1789560621
+  - [Black Opium perfume inspired/5](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58831791751500)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6042.png?v=1789560621
+    Price: £4.00 GBP
+  - [Citronella citrus cocktail/1](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58858163929420)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6168.png?v=1789656050
+    Price: £4.00 GBP
+  - [Citronella citrus cocktail/2](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58858163962188)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6172.png?v=1789656072
+    Price: £4.00 GBP
+  - [Citronella citrus cocktail/3](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58858188374348)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6173.png?v=1789656180
+    Price: £4.00 GBP
+  - [Citrus Bliss & Frankincense/2](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58894540144972)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6422.png?v=1789923005
+    Price: £4.00 GBP
+  - [Citrus Bliss & Frankincense/3](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58894540177740)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6423.png?v=1789923153
+    Price: £4.00 GBP
+  - [Citrus Bliss & Frankincense/4](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58860761612620)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6197.png?v=1789668994
+    Price: £4.00 GBP
+  - [Citrus Bliss & Frankincense/5](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58894566228300)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6424.png?v=1789923437
+    Price: £4.00 GBP
+  - [Citrus Bliss & Frankincense/6](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58894566261068)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6425.png?v=1789923511
+    Price: £4.00 GBP
+  - [Citrus Bliss & Frankincense/7](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58894566293836)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6426.png?v=1789923571
+    Price: £4.00 GBP
+  - [Citrus Bliss & Frankincense/8](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58894566326604)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6427.png?v=1789923605
+    Price: £4.00 GBP
+  - [Citrus Bliss & Frankincense/9](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58894566359372)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6428.png?v=1789923650
+    Price: £4.00 GBP
+  - [Citrus Bliss & Frankincense/10](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58902794600780)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6531.png?v=1789993039
+    Price: £4.00 GBP
+  - [Citrus Bliss & Frankincense/11](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58902794633548)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6532.png?v=1789993168
+    Price: £4.00 GBP
+  - [Citrus Bliss & Frankincense/12](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58902794666316)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6533.png?v=1789993344
+    Price: £4.00 GBP
+  - [Citrus Bliss & Frankincense/13](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58902794699084)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6534.png?v=1789993362
+    Price: £4.00 GBP
+  - [Citrus Bliss & Frankincense/14](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58902794731852)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6535.png?v=1789993582
+    Price: £4.00 GBP
+  - [Citrus Bliss & Frankincense/15](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58902794764620)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6536.png?v=1789993603
+    Price: £4.00 GBP
+  - [Citrus Bliss & Frankincense/16](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58902794797388)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6537.png?v=1789993635
+    Price: £4.00 GBP
+  - [Citrus Bliss & Frankincense/17](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58902794830156)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6538.png?v=1789993654
+    Price: £4.00 GBP
+  - [Bed time Baby/1](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58903803134284)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6554.png?v=1789996841
+    Price: £4.00 GBP
+  - [Bed time Baby/2](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58903803167052)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6555.png?v=1789996861
+    Price: £4.00 GBP
+  - [Bed time Baby/3](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58903803199820)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6556.png?v=1789996881
+    Price: £4.00 GBP
+  - [Bed time Baby/4](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58903803232588)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6558.png?v=1789996917
+    Price: £4.00 GBP
+  - [Bed time Baby/5](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58903803265356)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6557.png?v=1789996932
+    Price: £4.00 GBP
+  - [Bed time Baby/6](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58903803298124)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6559.png?v=1789997060
+    Price: £4.00 GBP
+  - [Bed time Baby/7](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58903803330892)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6560.png?v=1789997104
+    Price: £4.00 GBP
+  - [Bed time Baby/8](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58903803363660)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6561.png?v=1789997167
+    Price: £4.00 GBP
+  - [Bed time Baby (9)](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58903954489676)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6562.png?v=1789997216
+    Price: £4.00 GBP
+  - [Caramelised Pecans (3)](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58976152518988)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6896.png?v=1790623600
+    Price: £4.00 GBP
+  - [Rose Wonderland (4)](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58976290472268)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6903.png?v=1790624333
+    Price: £4.00 GBP
+  - [Rose Wonderland (5)](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58976290505036)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6904.png?v=1790624418
+    Price: £4.00 GBP
+  - [Rose Wonderland (6)](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=58976290537804)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6905.png?v=1790624472
+    Price: £4.00 GBP
+  - [Victory 1](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=59129654411596)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-7619.png?v=1791552142
+    Price: £4.00 GBP
+  - [Victory 2](https://siaroma.co.uk/products/cactus-cupcake-wax-melt?variant=59129654444364)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-7618.png?v=1791552162
+    Price: £4.00 GBP
+- [Aromatic Honeysuckle wax melt pot](https://siaroma.co.uk/products/aromatic-honeysuckle-wax-melt-pot): A beautifully soft and uplifting floral fragrance inspired by the delicate sweetness of blooming honeysuckle. Aromatic Honeysuckle opens with fresh, juicy citrus and delicate tea leaf notes, leading into a heart of sweet honeysuckle and rich jasmine. A gentle touch of honey adds a warm, nectar-like sweetness, while smooth woods and soft musk create a subtle, comforting finish. Scent Notes Top: Juicy Citrus, Tea Leaves, Honeysuckle Heart: Jasmine, Sweet Honey Base: Smooth Woods, Soft Musk 📦 Product Details• Weight: 50g• Cruelty‑free & vegan friendly• Hand‑poured in the UK 🇬🇧• Long‑lasting scent throw
+  Updated: 2026-10-12T11:38:26Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5123.png?v=1788292661
+  Price: £3.75 GBP
+- [Marshmallow & Tropical Mango wax melt pot](https://siaroma.co.uk/products/marshmallow-tropical-mango-wax-melt-pot): What it smells like: A mouthwatering tropical gourmand where juicy, ripe mango and sweet strawberry mingle with soft, fluffy marshmallow. As the fragrance settles, creamy vanilla adds a smooth, indulgent sweetness while soft musk leaves a warm, comforting finish. The result is a fruity, creamy and irresistibly sweet scent that feels like a tropical treat with a fluffy marshmallow twist. Scent Notes: Top: Juicy Mango, Sweet Strawberry Heart: Soft Fluffy Marshmallow Base: Creamy Vanilla, Soft Musk 📦 Product Details• Weight: 50g• Cruelty‑free & vegan friendly• Hand‑poured in the UK 🇬🇧• Long‑lasting scent throw
+  Updated: 2026-09-21T15:09:46Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5124.png?v=1788294285
+  Price: £3.75 GBP
+- [Autumn Woods wax melt pot](https://siaroma.co.uk/products/autumn-woods-wax-melt-pot): What it smells like A beautifully warm and inviting autumn fragrance that captures the feeling of wandering through a crisp orchard on a golden fall afternoon. It opens with sweet, juicy orchard fruits and a bright sparkle of citrus, creating a fresh and uplifting beginning. As it develops, rich pumpkin brings a warm, burnished sweetness reminiscent of cosy afternoons and pumpkin-patch adventures. Soft white florals add a delicate elegance, while a whisper of smoky black tea gives the fragrance a deeper, slightly mysterious character. The result is a wonderfully cosy, fruity and sophisticated autumn scent with a beautiful balance of freshness, warmth and depth. Scent Notes Top: Sweet Orchard Fruits, Sparkling Citrus Heart: Rich Pumpkin, White Flowers Base: Smoky Black Tea 📦 Product Details• Weight: 50g• Cruelty‑free & vegan friendly• Hand‑poured in the UK 🇬🇧• Long‑lasting scent throw
+  Updated: 2026-09-21T15:09:41Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5125.png?v=1788294861
+  Price: £3.75 GBP
+- [Wax Melt Cupcake – Poinsettia flower design](https://siaroma.co.uk/products/wax-melt-cupcake-poinsettia-flower-design): Approx. 50g each ✨ Charming hand‑poured cupcake‑shaped melts, topped with a delightful detailed Poinsettia flower design and finished with sparkling glitter for a lovely, eye‑catching look. Compact yet generous 50‑gram size delivers excellent, long‑lasting scent throw. ✅ Make it yours: Choose your favourite style, colour combination and scent from all the available options listed — every piece is unique! Why you’ll love them:• Beautifully crafted — vegan & cruelty‑free 🤍• Hand‑poured with care right here in the UK 🇬🇧• Smooth finish, vibrant colours & cute coastal character• Perfect for displaying, gifting, or breaking onto your favourite burner
+  Updated: 2026-10-12T21:12:04Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5664.png?v=1789070337
+  - [Tropical  Twist](https://siaroma.co.uk/products/wax-melt-cupcake-poinsettia-flower-design?variant=58759657292108)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5664.png?v=1789070337
+    Price: £4.00 GBP
+  - [Tropical Twist 2](https://siaroma.co.uk/products/wax-melt-cupcake-poinsettia-flower-design?variant=58810124665164)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5863.png?v=1789460647
+    Price: £4.00 GBP
+  - [Tangerine & Lychee](https://siaroma.co.uk/products/wax-melt-cupcake-poinsettia-flower-design?variant=58811954856268)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5884.png?v=1789469354
+    Price: £4.00 GBP
+  - [Lavender & Chamomile](https://siaroma.co.uk/products/wax-melt-cupcake-poinsettia-flower-design?variant=58812677521740)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5888.png?v=1789474352
+    Price: £4.00 GBP
+  - [Tangerine & Lychee/1](https://siaroma.co.uk/products/wax-melt-cupcake-poinsettia-flower-design?variant=58813688676684)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5908_d96ab5af-0bd8-4bfe-b0f3-c13ee6c01367.png?v=1789480035
+    Price: £4.00 GBP
+  - [Lavender & chamomile/1](https://siaroma.co.uk/products/wax-melt-cupcake-poinsettia-flower-design?variant=58830859469132)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6031.png?v=1789556302
+    Price: £4.00 GBP
+  - [Black Opium (perfume inspired)](https://siaroma.co.uk/products/wax-melt-cupcake-poinsettia-flower-design?variant=58831411380556)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6040.png?v=1789558402
+    Price: £4.00 GBP
+  - [Raspberry & spun sugar](https://siaroma.co.uk/products/wax-melt-cupcake-poinsettia-flower-design?variant=58832103014732)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-6052.png?v=1789562382
+    Price: £4.00 GBP
+- [🐿️ Squirrel Stack Wax Melts – Approx 80g | Refresh Watermelon Bliss](https://siaroma.co.uk/products/🐿️-squirrel-stack-wax-melts-approx-80g-refresh-watermelon-bliss): Top Notes: Fresh Watermelon, Cucumber Middle Notes: Juicy Melon, Fresh Green Notes Base Notes: Soft Musk, Sweetness Scent Description: A refreshing and juicy fragrance combining ripe watermelon with crisp cucumber and fresh green notes. A light, clean and subtly sweet scent that creates a refreshing summer atmosphere. 📦 Product Details• Weight: Approx 80g — generously sized for long‑lasting enjoyment• Charming detailed squirrel design, holding an acorn• Break into smaller pieces to use exactly how much you need• Cruelty‑free & vegan friendly• Hand‑poured in the UK 🇬🇧
+  Updated: 2026-11-10T15:44:57Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5221.png?v=1788436848
+  Price: £6.99 GBP
+- [Aromatic Freesia wax melt pot](https://siaroma.co.uk/products/aromatic-freesia-wax-melt-pot): Scent Notes: Top Notes: Fresh citrus, green notes, and a subtle fruity accord. Middle Notes: Freesia, jasmine, lily, and delicate floral notes. Base Notes: Soft musk, light woods, and a gentle powdery finish. What It Smells Like: A fresh, airy floral fragrance centred around delicate freesia. It combines crisp green and lightly fruity notes with a soft bouquet of white florals, settling into a clean, subtle musky base. The overall fragrance is fresh, elegant, light, and distinctly floral without being overly sweet or heavy. 📦 Product Details• Weight: 50g• Cruelty‑free & vegan friendly• Hand‑poured in the UK 🇬🇧• Long‑lasting scent throw
+  Updated: 2026-09-21T15:09:21Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5226.png?v=1788437895
+  Price: £3.75 GBP
+- [Blue Cypress & Amber wax melt pot](https://siaroma.co.uk/products/blue-cypress-amber-wax-melt-pot): Scent Notes: Top Notes: Fresh cypress, aromatic green notes, and a warm amber accord. Middle Notes: Rosewood, cedarwood, and soft woody notes. Base Notes: Smooth sandalwood, soft musk, and warm amber. What It Smells Like: A fresh, sophisticated woody fragrance combining aromatic blue cypress with warm amber and smooth woods. Cedarwood and rosewood add depth, while creamy sandalwood and soft musk create a warm, comforting finish. The overall fragrance is fresh, earthy, woody, and elegant, with a subtle warmth that makes it feel both clean and inviting. 📦 Product Details • Weight: 50g • Cruelty-free & vegan friendly • Hand-poured in the UK 🇬🇧 • Long-lasting scent throw
+  Updated: 2026-09-21T15:09:19Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5227.png?v=1788440923
+  Price: £3.75 GBP
+- [🐿️ Squirrel Stack Wax Melts – Approx 80g | Citronella Citrus Cocktail](https://siaroma.co.uk/products/🐿️-squirrel-stack-wax-melts-approx-80g-citronella-citrus-cocktail): Top Notes: Juicy Orange, Zesty Lemon, Sweet Mandarin Middle Notes: Tart Rhubarb, Ripe Pineapple Base Notes: Fresh Citronella, Sweet Candy Floss Scent Description: A fresh, fruity and uplifting fragrance bursting with juicy orange, zesty lemon and sweet mandarin. Tart rhubarb adds a refreshing twist, while ripe pineapple brings a delicious tropical sweetness. Finished with fresh citronella and a touch of sweet candy floss for a bright, refreshing and subtly sweet scent that creates a vibrant summer atmosphere. 📦 Product Details • Weight: Approx 80g — generously sized for long-lasting enjoyment • Charming detailed squirrel design, holding an acorn • Break into smaller pieces to use exactly how much you need • Cruelty-free & vegan friendly • Hand-poured in the UK 🇬🇧
+  Updated: 2026-11-10T15:46:31Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_163d1788-b916-4363-979f-e368b8fe1960.jpg?v=1788466207
+  Price: £6.99 GBP
+- [Euphoria Woman (Perfume inspired) wax melt pot](https://siaroma.co.uk/products/euphoria-woman-perfume-inspired-wax-melt-pot): Contains 50g of a captivating, sensual fragrance that fills your home with an air of feminine elegance and irresistible allure. It opens with bright bergamot, zesty lemon, juicy water fruits and sparkling grapefruit, before blooming into a delicate floral heart of lotus blossom, white jasmine, dewy rose and fresh muguet. As the fragrance settles, rich patchouli, warm amber, soft musk and creamy vanilla create a beautifully sensual finish, wrapping your home in a warm, luxurious embrace ✨ 🌸 Scent Notes Top: Bright bergamot, zesty lemon, juicy water fruits, sparkling grapefruit Heart: Delicate lotus blossom, white jasmine, dewy rose, fresh muguet Base: Rich patchouli, warm amber, soft musk, creamy vanilla ✨ What it smells like Like stepping into a world of mystery, elegance and feminine confidence – juicy fruits sparkle through soft exotic florals, while warm amber, creamy vanilla and gentle musk create a rich, seductive finish. It’s fruity, floral, warm and beautifully sensual, making every room feel effortlessly luxurious and inviting ✨ 📦 Product Details • Weight: 50g • Cruelty-free & vegan friendly • Hand-poured in the UK 🇬🇧 • Long-lasting fragrance to fill your space with a sensual, luxurious aroma ✨
+  Updated: 2026-09-21T15:08:51Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5296.png?v=1788602695
+  Price: £3.75 GBP
+- [Plush wax melt pot](https://siaroma.co.uk/products/plush-wax-melt-pot): Contains 50g of a beautifully indulgent fragrance that wraps your home in a sweet, fruity and irresistibly creamy embrace. It opens with a vibrant burst of orange, lime, lemon and juicy tropical fruits, softened by a delicate touch of lavender. At its heart, a beautiful floral bouquet of honeysuckle, rose, violet and lily blooms with gentle sweetness. As the fragrance settles, rich sandalwood, creamy vanilla, tonka, cedar, warm amber and golden caramel create a deliciously smooth finish that lingers beautifully in the air ✨ 🌸 Scent Notes Top: Bright orange, zesty lime, fresh lemon, crisp apple, juicy pear, soft peach, ripe pineapple, delicate lavender Heart: Sweet honeysuckle, romantic rose, soft violet, delicate lily Base: Creamy sandalwood, vanilla, warm tonka, cedarwood, golden amber, sweet caramel ✨ What it smells like Like being wrapped in a soft, luxurious cloud of fruity sweetness and warm creamy comfort – bright citrus and juicy fruits sparkle at first, followed by a soft floral heart of rose, honeysuckle, violet and lily. As it melts into the room, smooth vanilla, caramel, amber and sandalwood create a rich, cosy finish that feels sweet, elegant, warm and utterly addictive ✨ 📦 Product Details • Weight: 50g • Cruelty-free & vegan friendly • Hand-poured in the UK 🇬🇧 • Long-lasting fragrance to fill your space with a beautifully sweet and luxurious aroma ✨
+  Updated: 2026-09-21T15:08:47Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5298.png?v=1788603254
+  Price: £3.75 GBP
+- [Black Snake — Oil & Wax Melt Burner](https://siaroma.co.uk/products/black-snake-oil-wax-melt-burner): Curl up with your favourite home fragrance and let this unique burner bring a touch of mystery to your space 🖤✨ Beautifully shaped as a striking coiled black snake — a bold, eye-catching piece perfect for gothic, witchy or dark decor. Use with wax melts or diluted essential oils, and let your chosen scent fill every room with wonderful aroma. A truly distinctive statement piece and a fantastic gift idea. 🐍 📦 Product Details: • Material: Ceramic • Product size: H 12.3cm × W 11.5cm × D 11cm • Box size: H 13cm × W 12.4cm × D 12.5cm • Dual-use design: Works perfectly for wax melts & fragrance oils
+  Updated: 2026-09-21T15:08:35Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_35152a93-ab42-4f15-95cf-62ca635a9913.jpg?v=1788715523
+  Price: £9.99 GBP
+- [Autumn Gonk — Oil & Wax Melt Burner](https://siaroma.co.uk/products/halloween-gonk-oil-wax-melt-burner): Delightful, cosy and full of autumn charm 🧡✨ This adorable gonk burner brings all the Halloween spirit to your home — featuring warm grey and orange tones, cute pumpkin detail and star cut-outs in his hat that cast a beautiful, magical glow when lit. Perfect for wax melts and fragrance oils, and makes a wonderful seasonal centrepiece or thoughtful gift for autumn lovers. 🕯️ ⚠️ Safety note: Remove lid when in use. Do not use more than one tealight. 📦 Product Details: • Material: Dolomite & Ceramic • Product size: H 13.5cm × W 10cm × D 9.5cm • Box size: H 16.5cm × W 13.5cm × D 12.5cm • Product weight: 300g • Weight (with box): 365g • Dual-use: For wax melts & fragrance oils
+  Updated: 2026-10-21T07:10:26Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_864e644d-b721-4e9b-ba2d-e70108228fa3.jpg?v=1788715872
+  Price: £9.99 GBP
+- [Sweet Bunny Face— Oil & Wax Melt Burner](https://siaroma.co.uk/products/sweet-bunny-face-oil-wax-melt-burner): Cute, gentle and endlessly charming 🤍✨ This adorable bunny burner brings soft, joyful warmth to any room — perfect for Easter, spring, or everyday delight all year round. Beautifully designed with sweet sleepy features and delicate pink ears, it works wonderfully for both wax melts and fragrance oils, filling your home with lovely scent and gentle cheer. Makes a perfect gift for bunny lovers and anyone who loves whimsical decor. 🐾 ⚠️ Safety note: Remove lid when in use. Do not use more than one tealight. 📦 Product Details: • Material: Dolomite • Product size: H 15cm × W 10cm × D 10cm • Box size: H 23.5cm × W 14cm × D 11.5cm • Product weight: 405g • Weight (with box): 500g • Dual-use: For wax melts & fragrance oils
+  Updated: 2026-09-22T02:59:51Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_6f8e5a9a-7eee-4583-823e-691abb7f409e.jpg?v=1788716286
+  Price: £9.99 GBP
+- [Sugarplum Gingerbread House Oil Burner & Wax Warmer](https://siaroma.co.uk/products/sugarplum-gingerbread-house-oil-burner-wax-warmer): Fill your home with wonderful festive fragrance using this sweetly detailed ceramic burner — perfect for pairing with your favourite seasonal wax melts and scents. Simply place your chosen wax melt in the top bowl, light a tea light, and let the warm glow and delicious aroma fill your space with cosy Christmas charm. A truly delightful centrepiece for your winter decor and a lovely gift for anyone who loves sweet, festive magic! 🎄✨ 📦 Product Details: • Material: Ceramic • Product size: H 14cm × W 12cm × D 7cm • Box size: H 14.5cm × W 13cm × D 8cm • Product weight: 380g • Weight (with box): 430g • Dual-use: For wax melts & fragrance oils
+  Updated: 2026-11-08T12:51:35Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_f4121a44-6908-4c2c-8d40-d4bc7a7dd91a.jpg?v=1788718056
+  Price: £10.99 GBP
+- [Greek Column — Oil & Wax Melt Burner](https://siaroma.co.uk/products/greek-column-oil-wax-melt-burner): Timeless, elegant and beautifully serene 🕊️✨ Create a stunning Grecian-inspired aesthetic in any space with this classic column burner — designed to capture the grace of ancient architecture. Simply place a standard tealight inside, add your favourite wax melts or fragrance oil to the top bowl, and let the warm glow and soothing scent fill your home with peaceful, calming atmosphere. A truly elegant statement piece and a wonderful gift for anyone who loves timeless, refined decor. 🕯️ 📦 Product Details: • Material: Ceramic • Product size: H 14cm × W 8.5cm × D 8.5cm • Box size: H 16cm × W 11.5cm × D 11.5cm • Product weight: 400g • Weight (with box): 490g • Dual-use: For wax melts & fragrance oils
+  Updated: 2026-10-28T21:04:26Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_7b415452-b3bb-425f-9d0d-7285ff5894ef.jpg?v=1788719694
+  Price: £7.99 GBP
+- [Winter Puppy — Oil & Wax Burner](https://siaroma.co.uk/products/winter-puppy-oil-wax-burner): Add a wonderful dose of festive charm to your home with this adorable winter puppy burner 🧣❤️ Dressed in a cosy red knit-style bobble hat and matching scarf, he brings such sweet, playful warmth to any room — perfect for Christmas and all through the colder months. Simply remove the lid, place a standard tealight inside, and add your favourite wax melts or fragrance oil to the bowl. Always remove the lid whilst in use. 🕯️ 📦 Product Details: • Material: Ceramic • Product size: H 18.5cm × W 11.5cm × D 12cm • Box size: H 19cm × W 12cm × D 12cm • Product weight: 480g • Weight (with box): 575g • Dual-use: For wax melts & fragrance oils
+  Updated: 2026-09-21T15:07:56Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5439.png?v=1788824187
+  Price: £12.99 GBP
+[List Continued](https://siaroma.co.uk/a/llms-agent/llms.txt?shop=qpbn1v-1h.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNjA3MzY2OTI4MDA3NiwibGFzdF92YWx1ZSI6IjE2MDczNjY5MjgwMDc2In0%3D)
 
 ## Collections
 
@@ -1956,16 +2053,16 @@
   Updated: 2026-06-18T19:23:07Z
   Total Products: 0
 - [Candles](https://siaroma.co.uk/collections/candles): Shop premium scented candles handcrafted for a clean, luxurious burn. Perfect for gifting or treating yourself. Free UK delivery available.
-  Updated: 2026-11-14T12:24:23Z
+  Updated: 2026-11-22T21:30:40Z
   Total Products: 52
 - [Wax Melts](https://siaroma.co.uk/collections/wax-melts): Discover our premium wax melts in rich, spa-inspired fragrances. Long-lasting scent throw for your home. Shop the full range at Si Aroma.
-  Updated: 2026-11-14T12:24:23Z
+  Updated: 2026-11-18T12:28:24Z
   Total Products: 163
 - [Car Fresheners](https://siaroma.co.uk/collections/reed-diffusers): Elevate your drive with our luxury car fresheners. Long-lasting, spa-quality fragrances for your vehicle. Shop the collection at Si Aroma.
-  Updated: 2026-11-14T12:24:23Z
+  Updated: 2026-11-17T12:26:57Z
   Total Products: 5
 - [Gifts & Bundles](https://siaroma.co.uk/collections/gift-sets): Beautifully curated home fragrance gift sets — candles, wax melts & diffusers. Perfect for birthdays, celebrations & occasions. Shop Si Aroma.
-  Updated: 2026-11-13T09:36:28Z
+  Updated: 2026-11-22T21:27:28Z
   Total Products: 21
 - [Wax Melt & Oil Burners](https://siaroma.co.uk/collections/accessories-decor): Shop our range of wax burners, melt liners and home fragrance accessories. Stylish, functional and perfect alongside your Si Aroma wax melts.
   Updated: 2026-11-08T12:20:05Z
@@ -1974,20 +2071,20 @@
   Updated: 2026-11-08T12:20:05Z
   Total Products: 20
 - [Home & Car Fragrances](https://siaroma.co.uk/collections/reed-diffusers-1): Fill your home with beautiful, long-lasting fragrance. Shop our luxury reed diffusers and home scent collection. Delivered across the UK & EU.
-  Updated: 2026-11-14T12:24:23Z
+  Updated: 2026-11-17T12:26:57Z
   Total Products: 24
 - [Little Messages Collection - Custom Products](https://siaroma.co.uk/collections/little-messages-collection): Share a sentiment with our Little Messages collection — thoughtful candles and gifts with heartfelt messages. Perfect for every occasion.
   Updated: 2026-09-14T16:02:46Z
   Total Products: 0
 - [Seasonal Collection](https://siaroma.co.uk/collections/seasonal-collection): Explore our seasonal scented candles, wax melts and diffusers. Limited-edition fragrances inspired by every season. Shop now at Si Aroma UK.
-  Updated: 2026-11-14T12:24:23Z
-  Total Products: 113
+  Updated: 2026-11-22T21:24:32Z
+  Total Products: 117
 - [Wax Melt Shapes](https://siaroma.co.uk/collections/wax-melt-shapes)
-  Updated: 2026-11-14T12:24:23Z
-  Total Products: 112
+  Updated: 2026-11-22T19:48:03Z
+  Total Products: 119
 - [ eligible](https://siaroma.co.uk/collections/-eligible)
-  Updated: 2026-11-14T12:24:23Z
-  Total Products: 416
+  Updated: 2026-11-22T21:30:40Z
+  Total Products: 422
 
 ## Blogs
 
