@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2026-09-09T16:58:43Z
 - Contact Email: mzair415@gmail.com
-- Updated At: 2026-11-15T01:08:16.789Z
+- Updated At: 2026-11-23T01:02:53.541Z
 
 ## Products
 
 - [T-shirt streetwear noir et rouge RED BLACK](https://loner-lps-store.myshopify.com/products/sy-black-red): T-shirt streetwear premium noir & rouge, 100% polyester 220g. Logo Loup au dos. Coupe slim, du XS au XL. Livraison internationale.
-  Updated: 2026-11-11T01:19:59Z
+  Updated: 2026-11-16T17:09:46Z
   Vendor: Sisyphe
   Product Type: 
   Availability: Available
@@ -32,7 +32,7 @@
     Availability: Available
     Price: 39,99 € EUR
 - [T-shirt streetwear orange et noir ORANGE BLACK](https://loner-lps-store.myshopify.com/products/ls-black-orange): T-shirt streetwear premium orange & noir, 100% polyester 220g. Logo Loup au dos. Coupe slim, du XS au XL. Livraison internationale.
-  Updated: 2026-11-11T01:19:43Z
+  Updated: 2026-11-16T17:09:46Z
   Vendor: Sisyphe
   Product Type: 
   Availability: Available
@@ -53,81 +53,88 @@
     Availability: Available
     Price: 19,99 € EUR
 - [Casquette noire ajustable en polyester Sy Cap Black](https://loner-lps-store.myshopify.com/products/lps-cap-black): Casquette noire ajustable Sy Cap Black de SISYPHE. Visière courbée, sangle avec boucle métallique et taille unique pour compléter une tenue streetwear.
-  Updated: 2026-11-11T01:19:43Z
+  Updated: 2026-11-16T17:09:47Z
   Vendor: Sisyphe
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1080/7784/2777/files/rn-image_picker_lib_temp_ef6fdeed-b490-4080-874c-dda3ba989e1c.png?v=1791833445
   Price: 29,99 € EUR
 - [Ensemble hoodie et jogging noir oversize Sy Dark](https://loner-lps-store.myshopify.com/products/sy-dark): Ensemble streetwear noir avec hoodie oversize et jogging. Visuels loup et détails SISYPHE. Disponible du XS au XL.
-  Updated: 2026-11-11T01:19:43Z
+  Updated: 2026-11-22T07:26:08Z
   Vendor: Sisyphe
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1080/7784/2777/files/1000043131.png?v=1793001646
   - [XS](https://loner-lps-store.myshopify.com/products/sy-dark?variant=60060099674457)
     Availability: Available
-    Price: 49,99 € EUR
+    Price: 40,00 € EUR
   - [S](https://loner-lps-store.myshopify.com/products/sy-dark?variant=60060099707225)
     Availability: Available
-    Price: 49,99 € EUR
+    Price: 40,00 € EUR
   - [M](https://loner-lps-store.myshopify.com/products/sy-dark?variant=60060099739993)
     Availability: Available
-    Price: 49,99 € EUR
+    Price: 40,00 € EUR
   - [L](https://loner-lps-store.myshopify.com/products/sy-dark?variant=60060099772761)
     Availability: Available
-    Price: 49,99 € EUR
+    Price: 40,00 € EUR
   - [XL](https://loner-lps-store.myshopify.com/products/sy-dark?variant=60060099805529)
     Availability: Available
-    Price: 49,99 € EUR
+    Price: 40,00 € EUR
 - [Sisyphe Alpha | Tee Oversize Noir – SISYPHE](https://loner-lps-store.myshopify.com/products/sisyphe-alpha): Tee-shirt oversize noir Sisyphe Alpha, logo loup sur la poitrine et grand visuel dans le dos. Streetwear premium, du XS au XL.
-  Updated: 2026-11-11T01:20:04Z
+  Updated: 2026-11-16T21:26:46Z
   Vendor: Sisyphe
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1080/7784/2777/files/rn-image_picker_lib_temp_e55a0035-f7eb-4de2-800c-6438e69f0392.png?v=1792610904
   - [XS](https://loner-lps-store.myshopify.com/products/sisyphe-alpha?variant=60064724156761)
     Availability: Available
-    Price: 49,99 € EUR
+    Price: 39,99 € EUR
   - [S](https://loner-lps-store.myshopify.com/products/sisyphe-alpha?variant=60064724189529)
     Availability: Available
-    Price: 49,99 € EUR
+    Price: 39,99 € EUR
   - [M](https://loner-lps-store.myshopify.com/products/sisyphe-alpha?variant=60064724222297)
     Availability: Available
-    Price: 49,99 € EUR
+    Price: 39,99 € EUR
   - [L](https://loner-lps-store.myshopify.com/products/sisyphe-alpha?variant=60064724255065)
     Availability: Available
-    Price: 49,99 € EUR
+    Price: 39,99 € EUR
   - [XL](https://loner-lps-store.myshopify.com/products/sisyphe-alpha?variant=60064724287833)
     Availability: Available
-    Price: 49,99 € EUR
+    Price: 39,99 € EUR
 - [Bonnet Sisyphe | Bonnet Noir Streetwear – Loup Brodé](https://loner-lps-store.myshopify.com/products/bonnet-sisyphe): Bonnet streetwear noir 100% acrylique, logo loup brodé gris et orange. Chaud, confortable et résistant. Le style sans limites par SISYPHE.
-  Updated: 2026-11-11T01:19:44Z
+  Updated: 2026-11-22T07:26:06Z
+  Vendor: Sisyphe
+  Product Type: beanie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1080/7784/2777/files/1000043134.png?v=1793001844
+  Price: 10,50 € EUR
+- [Sy doudoune](https://loner-lps-store.myshopify.com/products/sy-doudoune)
+  Updated: 2026-11-22T23:44:45Z
   Vendor: Sisyphe
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1080/7784/2777/files/1000043134.png?v=1793001844
-  Price: 20,99 € EUR
+  Image: https://cdn.shopify.com/s/files/1/1080/7784/2777/files/1000043434.png?v=1795347860
+  Price: 35,00 € EUR
 
 ## Collections
 
 - [Page d’accueil](https://loner-lps-store.myshopify.com/collections/frontpage)
-  Updated: 2026-11-05T18:57:13Z
+  Updated: 2026-11-18T11:13:27Z
   Total Products: 1
 - [T-shirts Flocage](https://loner-lps-store.myshopify.com/collections/t-shirts-flocage): 🎨 Collection exclusive LOUP SOLITAIRET-shirts technique avec possibilité de flocage personnalisé (nom, numéro, texte custom).Personnalisation disponible ? Contacte-nous sur Instagram @loup_solitaire 🐺
   Updated: 2026-11-05T18:57:16Z
   Total Products: 2
 - [clothe](https://loner-lps-store.myshopify.com/collections/clothe)
-  Updated: 2026-11-05T18:57:37Z
+  Updated: 2026-11-22T07:26:07Z
   Total Products: 4
 - [cap](https://loner-lps-store.myshopify.com/collections/cap)
-  Updated: 2026-11-05T18:57:35Z
+  Updated: 2026-11-22T07:26:09Z
   Total Products: 3
 - [Été](https://loner-lps-store.myshopify.com/collections/ete): Découvre les t-shirts RED BLACK, ORANGE BLACK et Alpha, ainsi que la casquette noire ajustable Sy Cap Black dans la collection été SISYPHE.
-  Updated: 2026-11-10T13:18:19Z
+  Updated: 2026-11-18T11:13:27Z
   Total Products: 4
 - [Hiver](https://loner-lps-store.myshopify.com/collections/hiver): Découvre la collection hiver SISYPHE : ensemble noir Sy Dark avec hoodie oversize et jogging, et bonnet noir côtelé avec loup brodé.
-  Updated: 2026-11-10T13:18:19Z
+  Updated: 2026-11-22T07:26:09Z
   Total Products: 2
 
 ## Blogs
@@ -206,7 +213,7 @@
 - [Shipping Policy](https://loner-lps-store.myshopify.com/policies/shipping-policy)
   Updated: 2026-09-17T14:29:13Z
 - [Refund Policy](https://loner-lps-store.myshopify.com/policies/refund-policy)
-  Updated: 2026-10-10T07:04:17Z
+  Updated: 2026-11-22T11:50:59Z
 - [Terms of Service](https://loner-lps-store.myshopify.com/policies/terms-of-service)
   Updated: 2026-09-16T15:55:36Z
 - [Contact Information](https://loner-lps-store.myshopify.com/policies/contact-information)
