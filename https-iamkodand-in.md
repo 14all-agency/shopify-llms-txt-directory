@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-01-04T18:48:03Z
 - Contact Email: kunwarjadaorganics@gmail.com
-- Updated At: 2026-11-15T00:18:55.596Z
+- Updated At: 2026-11-23T00:22:42.396Z
 
 # Kodand Honey
 
@@ -581,6 +581,14 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
     Updated: 2026-11-11T12:01:49Z
     Author: Kodand Honey Team
     Tags: ayurveda, health benefits, honey, honey benefits, indian honey, jamun, jamun honey, jamun honey benefits, kodand honey, natural honey, nutritional value, organic jamun honey, pure honey, raw honey
+  - [How to Choose Pure Raw Honey for Winter Wellness](https://iamkodand.in/blogs/news/how-to-choose-pure-raw-honey-for-winter-wellness): How to Choose Pure Raw Honey for Winter Wellness
+    Updated: 2026-11-17T12:00:31Z
+    Author: Kodand Honey Team
+    Tags: health benefits, honey, honey benefits, how to choose honey, indian honey, jamun, jamun honey, kodand honey, natural honey, pure honey, pure honey tips, raw honey, wellness, winter nutrition
+  - [Discover Indian Festive Recipes Featuring Pure Kodand Honey](https://iamkodand.in/blogs/news/discover-indian-festive-recipes-featuring-pure-kodand-honey): Discover Indian Festive Recipes Featuring Pure Kodand Honey
+    Updated: 2026-11-18T12:02:13Z
+    Author: Kodand Honey Team
+    Tags: health benefits, honey, honey benefits, indian cuisine, indian honey, jamun, jamun honey, kodand honey, natural honey, natural sweetener benefits, pure honey, raw honey, recipes, showcasing festive delights
 - [Benefits of Raw Honey – Why KODAND Raw Honey is a Daily Superfood](https://iamkodand.in/blogs/benefits-of-raw-honey-why-kodand-raw-honey-is-a-daily-superfood)
   - [Honey: Your Complete Guide to Pure, Raw & Natural Honey](https://iamkodand.in/blogs/benefits-of-raw-honey-why-kodand-raw-honey-is-a-daily-superfood/honey-the-ultimate-guide-to-pure-raw-natural-honey-benefits-uses-buying-guide): Honey: Your Complete Guide to Pure, Raw & Natural Honey
     Updated: 2026-08-19T11:23:29Z
