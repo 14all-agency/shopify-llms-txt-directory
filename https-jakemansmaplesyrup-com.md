@@ -8,12 +8,12 @@
 - Contact Email: info@themaplestore.com
 - Contact Phone: (519) 539-1366
 - Address: 454414 Trillium Line Beachville Ontario N0J 1A0
-- Updated At: 2026-11-15T00:39:38.247Z
+- Updated At: 2026-11-23T00:39:56.605Z
 
 ## Products
 
-- [Maple Syrup Gift Bottle, Autumn Leaf Glass | Jakeman's](https://jakemansmaplesyrup.com/products/autumn-leaf-maple-syrup-100ml): Pure Grade A Ontario maple syrup in our signature maple leaf glass bottle, 50ml to 500ml. Family-made since 1876. Free shipping in Canada over $100.
-  Updated: 2026-11-14T15:36:08Z
+- [Maple Syrup Gift Bottle, Autumn Leaf Glass | Jakeman's](https://jakemansmaplesyrup.com/products/autumn-leaf-maple-syrup-100ml): Pure Grade A Ontario maple syrup in our signature maple leaf glass bottle, 50ml to 500ml. Family-made since 1876. Free shipping in Canada over $150.
+  Updated: 2026-11-21T23:51:35Z
   Vendor: Jakeman's Maple Syrup
   Product Type: Maple Syrup
   Availability: Available
@@ -34,8 +34,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0163/0338/products/Maple-Syrup-Leaf-Bottle-500ml.jpg?v=1745403789
     Price: $41.95 CAD
-- [Pure Maple Syrup Jug 100ml–1L, Grade A Ontario | Jakeman's](https://jakemansmaplesyrup.com/products/maple-syrup-in-recyclable-lithographed-jug-250ml): Pure Grade A Ontario maple syrup in recyclable plastic jugs, 100ml to 1L. No additives. Family-made since 1876. Free shipping in Canada over $100.
-  Updated: 2026-11-09T22:28:21Z
+- [Pure Maple Syrup Jug 100ml–1L, Grade A Ontario | Jakeman's](https://jakemansmaplesyrup.com/products/maple-syrup-in-recyclable-lithographed-jug-250ml): Pure Grade A Ontario maple syrup in recyclable plastic jugs, 100ml to 1L. No additives. Family-made since 1876. Free shipping in Canada over $150.
+  Updated: 2026-11-22T20:54:16Z
   Vendor: Jakeman's Maple Products
   Product Type: Maple Syrup
   Availability: Available
@@ -43,29 +43,29 @@
   - [100ml](https://jakemansmaplesyrup.com/products/maple-syrup-in-recyclable-lithographed-jug-250ml?variant=19547066309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0163/0338/products/White-Maple-Syrup-Jug-100ml.jpg?v=1745403786
-    Price: $5.90 CAD
+    Price: $6.95 CAD
   - [250mL](https://jakemansmaplesyrup.com/products/maple-syrup-in-recyclable-lithographed-jug-250ml?variant=220089036)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0163/0338/products/White-Maple-Syrup-Jug-250ml.jpg?v=1745403786
-    Price: $11.73 CAD
+    Price: $13.80 CAD
   - [500mL](https://jakemansmaplesyrup.com/products/maple-syrup-in-recyclable-lithographed-jug-250ml?variant=224515482)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0163/0338/products/White-Maple-Syrup-Jug-500ml.jpg?v=1745403786
-    Price: $20.14 CAD
+    Price: $23.70 CAD
   - [1L](https://jakemansmaplesyrup.com/products/maple-syrup-in-recyclable-lithographed-jug-250ml?variant=224515710)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0163/0338/products/White-Maple-Syrup-Jug-1L.jpg?v=1745403785
-    Price: $37.81 CAD
+    Price: $44.49 CAD
   - [3 x 100mL](https://jakemansmaplesyrup.com/products/maple-syrup-in-recyclable-lithographed-jug-250ml?variant=14903781097531)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0163/0338/products/jakemans-maplesyrup-100ml-jug-3-pack.jpg?v=1745403787
-    Price: $17.72 CAD
+    Price: $20.85 CAD
   - [5 x 100mL](https://jakemansmaplesyrup.com/products/maple-syrup-in-recyclable-lithographed-jug-250ml?variant=14903822876731)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0163/0338/products/jakemans-maplesyrup-100ml-jug-5-pack.jpg?v=1745403786
-    Price: $29.54 CAD
-- [Maple Syrup Tin – Rustic Canadian Gift 100ml to 1L | Jakeman's](https://jakemansmaplesyrup.com/products/maple-syrup-tin-250ml): Pure Canadian maple syrup in a rustic collectible tin – 100ml, 250ml, 500ml or 1L. Grade A, perfect souvenir & winter gift. Free shipping over $100 CAD.
-  Updated: 2026-11-14T19:24:46Z
+    Price: $34.75 CAD
+- [Maple Syrup Tin – Rustic Canadian Gift 100ml to 1L | Jakeman's](https://jakemansmaplesyrup.com/products/maple-syrup-tin-250ml): Pure Canadian maple syrup in a rustic collectible tin – 100ml, 250ml, 500ml or 1L. Grade A, perfect souvenir & winter gift. Free shipping over $150 CAD.
+  Updated: 2026-11-22T22:53:28Z
   Vendor: Jakeman's Maple Products
   Product Type: Maple Syrup
   Availability: Available
@@ -87,14 +87,14 @@
     Image: https://cdn.shopify.com/s/files/1/0163/0338/files/15.png?v=1745403783
     Price: $53.99 CAD
 - [Jakeman's Maple Tea – A Canadian Delight in Every Sip](https://jakemansmaplesyrup.com/products/maple-tea): Enjoy a soothing cup of Canadian maple tea, infused with natural flavors for a comforting and aromatic experience.
-  Updated: 2026-11-06T11:58:35Z
+  Updated: 2026-11-16T20:42:28Z
   Vendor: Jakeman's Maple Products
   Product Type: Maple Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0163/0338/files/18.png?v=1745403782
   Price: $12.99 CAD
 - ["Maple Coffee: Canadian Brew with a Sweet Twist | Jakeman's](https://jakemansmaplesyrup.com/products/maple-coffee-250g): Indulge in the rich aroma of maple syrup for coffee, blending the warmth of Canadian maple with smooth roasted beans.
-  Updated: 2026-11-08T21:28:11Z
+  Updated: 2026-11-16T20:42:28Z
   Vendor: Jakeman's Maple Products
   Product Type: Maple Coffee
   Availability: Available
@@ -107,8 +107,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0163/0338/files/3_dba6aa4b-db30-4d78-9b7c-3ebaeebd70ca.png?v=1745403780
     Price: $11.95 CAD
+- [Maple Cream Cookies 400g, Made in Canada | Jakeman's](https://jakemansmaplesyrup.com/products/maple-cookies): Classic maple leaf cream cookies made with pure Ontario maple syrup. A Canadian favourite for gifts and souvenirs. Free shipping in Canada over $150.
+  Updated: 2026-11-22T21:52:16Z
+  Vendor: Jakeman's Maple Products
+  Product Type: Sweets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0163/0338/products/jakemans-maple-cream-cookies.jpg?v=1745403778
+  Price: $10.25 CAD
 - [Gourmet Maple Popcorn (140g)](https://jakemansmaplesyrup.com/products/maple-popcorn): Discover the ultimate Canadian snack! Jakeman’s Gourmet Maple Popcorn is air-popped and coated in a rich, buttery maple glaze. No artificial flavors. Shop now!
-  Updated: 2026-11-14T15:36:07Z
+  Updated: 2026-11-22T20:52:16Z
   Vendor: Jakeman's Maple Products
   Product Type: Sweets
   Availability: Available
@@ -129,7 +136,7 @@
   Image: https://cdn.shopify.com/s/files/1/0163/0338/products/Maple-Toffee-Bulk.jpg?v=1745403775
   Price: $49.99 CAD
 - [Pure Canadian Maple Syrup – Grade A Ontario | Jakeman Since 1876](https://jakemansmaplesyrup.com/products/pure-maple-syrup): Award-winning Grade A Canadian maple syrup, 100% pure from Ontario family farms since 1876. Available in 250ml, 370ml & 500ml glass bottles. Free shipping over $100 CAD.
-  Updated: 2026-11-04T21:55:56Z
+  Updated: 2026-11-21T23:51:35Z
   Vendor: Jakeman's Maple Products
   Product Type: Maple Syrup
   Availability: Available
@@ -139,9 +146,9 @@
     Image: https://cdn.shopify.com/s/files/1/0163/0338/products/Maple-Syrup-Kent-Glass-250ml.jpg?v=1745403773
     Price: $12.99 CAD
   - [370ml](https://jakemansmaplesyrup.com/products/pure-maple-syrup?variant=39867230126269)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0163/0338/products/Maple-Syrup-Kent-Glass-370ml.jpg?v=1745403773
-    Price: $15.99 CAD
+    Price: $17.99 CAD
   - [500mL](https://jakemansmaplesyrup.com/products/pure-maple-syrup?variant=224512644)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0163/0338/products/Maple-Syrup-Kent-Glass-500ml.jpg?v=1745403773
@@ -154,13 +161,13 @@
   Image: https://cdn.shopify.com/s/files/1/0163/0338/products/Granulated-Maple-Sugar-Bulk.jpg?v=1745403771
   Price: $69.99 CAD
 - [Maple Leaf Candy: Canadian Sweet Treat | Jakeman's](https://jakemansmaplesyrup.com/products/maple-leaf-candy-box-80g): Savor the rich flavor of authentic Canadian maple syrup with our Maple Leaf Candy Box 80g. A delightful gift or snack for maple lovers. Buy now and enjoy!
-  Updated: 2026-11-09T18:02:27Z
+  Updated: 2026-11-22T19:09:54Z
   Vendor: Jakeman's Maple Products
   Product Type: Maple Candy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0163/0338/files/jakemans-maple-leaf-candynew.jpg?v=1745403769
   - [80g](https://jakemansmaplesyrup.com/products/maple-leaf-candy-box-80g?variant=2521598596)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0163/0338/products/Maple-Leaf-Hard-Candy-80gnew.jpg?v=1745403770
     Price: $7.99 CAD
   - [160g](https://jakemansmaplesyrup.com/products/maple-leaf-candy-box-80g?variant=9968172229)
@@ -168,13 +175,13 @@
     Image: https://cdn.shopify.com/s/files/1/0163/0338/products/Maple-Leaf-Hard-Candy-160gnew.jpg?v=1745403770
     Price: $13.59 CAD
 - [Maple Flavoured Toffee (100g Box)](https://jakemansmaplesyrup.com/products/maple-flavoured-toffee-box-100g): Indulge in Jakeman’s signature Maple Flavoured Toffee. This 100g box of soft, chewy toffee is infused with real maple flavor. The perfect Canadian souvenir or sweet gift.
-  Updated: 2026-11-14T21:05:39Z
+  Updated: 2026-11-15T20:47:27Z
   Vendor: Jakeman's Maple Products
   Product Type: Maple Candy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0163/0338/files/11_51f6a2b1-345c-452e-9a66-816ba790e20e.png?v=1745403768
   - [100g](https://jakemansmaplesyrup.com/products/maple-flavoured-toffee-box-100g?variant=2521826564)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0163/0338/files/11_51f6a2b1-345c-452e-9a66-816ba790e20e.png?v=1745403768
     Price: $5.99 CAD
   - [200g](https://jakemansmaplesyrup.com/products/maple-flavoured-toffee-box-100g?variant=9968120901)
@@ -182,28 +189,28 @@
     Image: https://cdn.shopify.com/s/files/1/0163/0338/products/Maple-Toffee-200g.jpg?v=1745403768
     Price: $11.59 CAD
 - [Maple Caramels – Soft Canadian Maple Candy 130g & 250g](https://jakemansmaplesyrup.com/products/maple-caramels): Soft, creamy maple caramels made with real Canadian maple syrup. Available in 130g and 250g gift boxes – the perfect sweet Canadian treat. Order online.
-  Updated: 2026-11-14T02:27:47Z
+  Updated: 2026-11-22T20:43:00Z
   Vendor: Jakeman's Maple Products
   Product Type: Maple Candy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0163/0338/files/jakemans-maple-caramelsNew.jpg?v=1745403766
   - [130g](https://jakemansmaplesyrup.com/products/maple-caramels?variant=12626761187387)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0163/0338/products/Maple-Caramel-Box-130gnew.jpg?v=1745403766
     Price: $6.99 CAD
   - [250g](https://jakemansmaplesyrup.com/products/maple-caramels?variant=9968077701)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0163/0338/products/Maple-Caramel-Box-250gnew.jpg?v=1745403766
     Price: $12.99 CAD
 - [Maple Infusions: Flavorful Twist on Syrup | Jakeman's](https://jakemansmaplesyrup.com/products/maple-infusions-four-flavors): Discover unique maple syrup infusions, blending rich Canadian maple with exciting flavors like cinnamon, vanilla, and more.
-  Updated: 2026-11-12T19:50:24Z
+  Updated: 2026-11-22T23:04:12Z
   Vendor: Jakeman's Maple Products
   Product Type: Maple Candy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0163/0338/products/jakemans-maple-infusion-mints.jpg?v=1745403765
   Price: $19.00 CAD
 - ["Maple Leaf Sugar: Sweet Canadian Flavor | Jakeman's "](https://jakemansmaplesyrup.com/products/maple-leaf-sugar-candies): Experience the rich, natural sweetness of real maple syrup in convenient maple leaf sugar shapes. Perfect for gifts and tea!
-  Updated: 2026-11-10T15:16:17Z
+  Updated: 2026-11-22T20:51:07Z
   Vendor: Jakeman's Maple Products
   Product Type: Maple Sugar
   Availability: Available
@@ -217,21 +224,21 @@
     Image: https://cdn.shopify.com/s/files/1/0163/0338/files/7_83108a4e-ca51-47c3-bc68-3063206f855f.png?v=1766999709
     Price: $15.75 CAD
 - [Granulated Maple Sugar Sweetener | Jakeman's](https://jakemansmaplesyrup.com/products/granulated-maple-sugar-150g): Add richness your recipes with granulated maple sugar, a healthier alternative to refined sugar made from pure maple syrup Canada.
-  Updated: 2026-11-10T15:16:17Z
+  Updated: 2026-11-21T14:56:26Z
   Vendor: Jakeman's Maple Products
   Product Type: Cooking & Baking
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0163/0338/products/jakemans-granulated-maple-sugar.jpg?v=1745403760
   Price: $14.29 CAD
 - [Jakeman's Buttermilk Pancake Mix – Perfect for Maple Syrup](https://jakemansmaplesyrup.com/products/premium-buttermilk-pancake-mix-500g): Make fluffy pancakes that pair perfectly with pure maple syrup. Enjoy the ultimate breakfast experience!
-  Updated: 2026-11-14T21:05:36Z
+  Updated: 2026-11-21T19:14:10Z
   Vendor: Jakeman's Maple Products
   Product Type: Cooking & Baking
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0163/0338/products/jakemans-pancake-mix.jpg?v=1745403758
-  Price: $5.94 CAD
+  Price: $6.99 CAD
 - [Jakeman's Maple Syrup Serenade Sampler – Taste the Best of Canada](https://jakemansmaplesyrup.com/products/serenade-bottle): A premium Canadian maple syrup sampler pack featuring five delicious flavors. Perfect for gifting and tasting!
-  Updated: 2026-11-13T23:33:36Z
+  Updated: 2026-11-22T19:22:28Z
   Vendor: Jakeman's Maple Products
   Product Type: Maple Syrup
   Availability: Available
@@ -245,14 +252,14 @@
   Image: https://cdn.shopify.com/s/files/1/0163/0338/products/Maple-Caramel-Candy-Bulk.jpg?v=1745403753
   Price: $54.99 CAD
 - [Maple Leaf Sucker: Sweet Canadian Bite | Jakeman's](https://jakemansmaplesyrup.com/products/jakemans-maple-leaf-sucker-2-pack-x-6): Enjoy a deliciously sweet Canadian maple treat with our maple leaf-shaped suckers, made from real maple syrup.
-  Updated: 2026-11-08T15:54:36Z
+  Updated: 2026-11-22T19:09:28Z
   Vendor: Jakeman's Maple Products
   Product Type: Maple Candy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0163/0338/products/jakemans-maple-leaf-suckers-two-pack.jpg?v=1745403748
   Price: $36.00 CAD
 - [Pure Maple Syrup in Autumn Leaf Glass | Jakeman's](https://jakemansmaplesyrup.com/products/jakemans-crated-autumn-leaf-glass-collection): Experience the finest pure maple syrup Canada has to offer, elegantly bottled in a maple leaf glass.
-  Updated: 2026-11-14T02:10:59Z
+  Updated: 2026-11-22T19:09:33Z
   Vendor: Jakeman's Maple Products
   Product Type: Maple Syrup
   Availability: Available
@@ -270,7 +277,7 @@
     Image: https://cdn.shopify.com/s/files/1/0163/0338/products/jakemans-maple-syrup-crated-leaf-glass-250ml_WhiteBG.jpg?v=1745403747
     Price: $23.95 CAD
 - [Jakeman's Maple Cotton Candy](https://jakemansmaplesyrup.com/products/jakemans-maple-cotton-candy): Enjoy some of Jakeman's Maple Cotton Candy that is spun from 100% Pure Granulated Maple Sugar and Pure Cane Sugar resulting in a more delicious natural taste. Our Maple Cotton Candy is hand-packed and spun at our facility in Beachville Ontario. Ingredients Granulated Maple Sugar, Pure Cane Sugar
-  Updated: 2026-11-09T18:52:15Z
+  Updated: 2026-11-22T22:18:42Z
   Vendor: Jakeman's Maple Products
   Product Type: Maple Candy
   Availability: Available
@@ -295,13 +302,13 @@
     Image: https://cdn.shopify.com/s/files/1/0163/0338/products/G804-maple-syrup-wedding-favour.jpg?v=1745403743
     Price: $216.00 CAD
 - [Pure Maple Spread: Canadian Maple in a Jar | Jakeman's](https://jakemansmaplesyrup.com/products/jakemans-pure-maple-spread-glass-jars-135g-345g): Enjoy the rich taste of pure maple syrup in a creamy, spreadable form. Perfect for toast, desserts, and more!
-  Updated: 2026-11-13T23:33:36Z
+  Updated: 2026-11-22T20:50:16Z
   Vendor: Jakeman's Maple Syrup
   Product Type: maple spread
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0163/0338/files/605_Maple_Spread_175g_6.17_oz_Wood_Background_JPG.jpg?v=1745403738
   - [175g](https://jakemansmaplesyrup.com/products/jakemans-pure-maple-spread-glass-jars-135g-345g?variant=41627912732861)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0163/0338/files/605_Maple_Spread_175g_6.17_oz_Wood_Background_JPG.jpg?v=1745403738
     Price: $11.99 CAD
   - [345g](https://jakemansmaplesyrup.com/products/jakemans-pure-maple-spread-glass-jars-135g-345g?variant=41627912765629)
@@ -323,21 +330,21 @@
   Image: https://cdn.shopify.com/s/files/1/0163/0338/files/imgi_6_Basket_LittleSomething_740x.progressive_33ca011f-74b6-466d-a763-f15da2ba99ad.jpg?v=1791813099
   Price: $24.95 CAD
 - [Good Morning Maple Gift Basket](https://jakemansmaplesyrup.com/products/good-morning-gift-basket): Wake up to the rich taste of pure maple syrup, maple syrup for pancakes, and other breakfast favorites in this delicious gift basket.
-  Updated: 2026-11-08T21:18:58Z
+  Updated: 2026-11-22T20:51:27Z
   Vendor: Jakeman's Maple Products
   Product Type: Gift Baskets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0163/0338/files/imgi_7_Basket_GM_740x_progressive_png.jpg?v=1791813460
   Price: $36.95 CAD
 - [Best Sellers Maple Gift Basket | Jakeman's](https://jakemansmaplesyrup.com/products/best-sellers-gift-basket): Enjoy our most-loved Canadian maple syrup and gourmet treats in one premium gift basket. A delicious maple syrup gift for any occasion!
-  Updated: 2026-11-08T21:17:46Z
+  Updated: 2026-11-22T20:49:12Z
   Vendor: Jakeman's Maple Products
   Product Type: Gift Baskets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0163/0338/files/imgi_5_Basket_BEST_SELLERS_740x.progressive_9bda022d-b4b1-46fb-a3f9-96f13419f9b5.jpg?v=1791813051
   Price: $47.95 CAD
 - [Basket of Hugs: Sweet Maple Gift Set | Jakeman's](https://jakemansmaplesyrup.com/products/basket-of-hugs-gift-basket): Indulge in a delightful maple syrup gift set packed with comforting flavors and real maple syrup treats, perfect for every occasion.
-  Updated: 2026-11-08T21:18:27Z
+  Updated: 2026-11-22T20:49:56Z
   Vendor: Jakeman's Maple Products
   Product Type: Gift Baskets
   Availability: Available
@@ -351,7 +358,7 @@
   Image: https://cdn.shopify.com/s/files/1/0163/0338/files/imgi_8_Basket_Canadian_treats_740x.progressive_3cf56652-9212-4104-9fe5-eb63941c0b53.jpg?v=1791813150
   Price: $129.95 CAD
 - [Maple Breakfast Essentials](https://jakemansmaplesyrup.com/products/test): Elevate your mornings with our Maple Breakfast Essentials Bundle, a delightful duo that promises to make your breakfasts a true indulgence. This thoughtfully curated bundle brings together the rich and authentic flavors of Jakeman's Pure Maple Syrup - Plastic Jugs and the goodness of Jakeman's Premium Buttermilk Pancake Mix. 🥞 The Perfect Pairing: Pure Maple Syrup & Premium Pancake Mix Jakeman's Pure Maple Syrup - Plastic Jugs: Crafted with care, our maple syrup is a liquid gold that embodies the essence of nature's sweetness. Drizzle it generously over your pancakes for an exquisite flavor that takes your breakfast to new heights. Jakeman's Premium Buttermilk Pancake Mix: Experience the joy of fluffy and delicious pancakes with our premium mix. Made with the finest ingredients, it ensures every bite is a taste of comfort and satisfaction.
-  Updated: 2026-11-14T21:05:46Z
+  Updated: 2026-11-22T20:54:24Z
   Vendor: Jakeman's Maple Syrup
   Product Type: 
   Availability: Available
@@ -425,21 +432,21 @@
   Image: https://cdn.shopify.com/s/files/1/0163/0338/files/imgi_13_Basket_MapleBliss_740x.progressive_6509696d-9a8e-43bd-bfdc-d033ee8c580f.jpg?v=1791813384
   Price: $45.95 CAD
 - [Jakeman’s Maple Beer Nuts](https://jakemansmaplesyrup.com/products/jakemans-maple-beer-nuts): Indulge in the perfect crunch with Jakeman’s Maple Beer Nuts. We take premium nuts and glaze them with our 100% Pure Granulated Maple Sugar, creating a rich, natural sweetness that balances a hint of salt. Ingredients 150 gram package-group with sweets
-  Updated: 2026-11-06T11:58:31Z
+  Updated: 2026-11-21T19:14:02Z
   Vendor: Jakeman's Maple Products
   Product Type: Maple Candy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0163/0338/files/imgi_10_Jakemans_BeerNuts_740x.progressive_b0a54cbc-0549-464b-80f1-2eb9dc29e57e.jpg?v=1791813189
-  Price: $7.22 CAD
+  Price: $8.50 CAD
 - [Jakeman’s Maple Peanut Brittle-Sweets](https://jakemansmaplesyrup.com/products/jakemans-peanut-brittle-sweets): Indulge in the perfect crunch with Jakeman’s Maple Peanut Brittle-Sweets. We take premium peanuts and glaze them with our 100% Pure Granulated Maple Sugar, creating a rich, natural sweetness that balances a hint of salt. Ingredients 150 gram package-group with sweets
-  Updated: 2026-11-06T14:41:08Z
+  Updated: 2026-11-21T19:14:02Z
   Vendor: Jakeman's Maple Products
   Product Type: Maple Candy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0163/0338/files/imgi_11_Jakemans_Brittle_740x.progressive_93b4dd79-4ff0-4d03-8cb4-4b2bbffc0aa4.jpg?v=1791813300
-  Price: $7.86 CAD
+  Price: $9.25 CAD
 - [Jakeman’s 150th Anniversary Maple Traditions Gift Box](https://jakemansmaplesyrup.com/products/jakeman-s-maple-traditions-gift-box): Experience the authentic, time-honored taste of Ontario’s finest maple! Crafted for true maple lovers, our Maple Traditions Gift Box brings together a cherished assortment of our sweetest handcrafted favorites. Rooted in over a century of Canadian syrup-making tradition, every item in this box celebrates 100% pure, rich, and natural maple flavor, made with care without any additives or preservatives. Whether you are treating yourself or sharing a warm, sweet gift with someone special, this gift set delivers a complete taste of Canada in every bite and drop. Inside this gift box, you'll discover: 250ml Pure Ontario Maple Syrup in a Rustic Tin: Our iconic, award-winning Grade A maple syrup packaged in a charming vintage-style tin. Perfect for pancakes, waffles, or baking. 400g Maple Cream Cookies: Sweet, golden cookies generously filled with smooth, velvety maple cream. 80g Maple Hard Candy: Long-lasting, classic hard candies crafted from real maple syrup for a quick, sweet treat on the go. 70g Maple Sugar Candy: Melt-in-your-mouth, leaf-shaped treats pure-whipped to delicious perfection. 30g Tin Maple Infusions Candy: Conveniently packaged in a reusable tin, these sweet infusions offer a subtle burst of maple goodness. Features & Details: Pure & Natural: Sourced from local Ontario sugar bushes with no preservatives or artificial ingredients. Perfect for Gifting: Thoughtfully packaged and ideal for holidays, hostesses, corporate gifts, or special occasions. Weight: 6 lbs (approx. 2.72 kg)
-  Updated: 2026-11-08T21:16:57Z
+  Updated: 2026-11-22T14:22:11Z
   Vendor: Jakeman's Maple Syrup
   Product Type: 
   Availability: Available
@@ -460,7 +467,7 @@
   Image: https://cdn.shopify.com/s/files/1/0163/0338/files/imgi_12_Jakeman_s_150th_Anniversary_Maple_Crunch_Sweet_Sampler_Gift_Box_740x.progressive_80d8b93c-b29b-4d75-8760-304372fdbcc2.jpg?v=1791813345
   Price: $46.95 CAD
 - [Jakeman’s 150th Anniversary Pure Canadian Maple Gift Box](https://jakemansmaplesyrup.com/products/jakeman-s-150th-anniversary-pure-canadian-maple-gift-box): Share in 150 years of rich Canadian tradition with our iconic maple favorites! Celebrating a century and a half of 100% pure Ontario maple syrup heritage, this special collection brings together some of our most beloved handcrafted confections, presented in a personalized 150th Anniversary gift package. Bottled and baked with the same time-honored dedication our family has carried for generations, every treat inside captures the cozy, authentic spirit of the Canadian sugarbush. Whether you're looking for a memorable keepsake gift, a sweet Canadian souvenir, or a special holiday treat, this limited-edition set delivers pure delight in every bite and pour. Inside this 150th Anniversary package, you'll discover: 100ml Pure Maple Syrup in an Autumn Leaf Glass Bottle: Our award-winning, 100% pure Grade A Ontario maple syrup showcased in a charming, collectible maple leaf glass bottle. 40g Maple Cream Cookies: Sweet, golden cookies generously filled with smooth, velvety maple cream, a true Canadian classic. 130g Maple Caramels: Rich, buttery caramels infused with pure maple syrup for a melt-in-your-mouth, sweet indulgence. 2-Pack Maple Suckers: Traditional leaf-shaped lollipop treats crafted from pure maple syrup, perfect for sweet tooths of all ages. Features & Details: Commemorative Packaging: Beautifully presented in a personalized 150th Anniversary box celebrating 150 years of pure Ontario maple syrup tradition. 100% Pure & Handcrafted: Sourced from local Ontario sugar bushes with no artificial flavors or preservatives. Weight: 6 lbs (approx. 2.72 kg)
-  Updated: 2026-11-08T15:54:36Z
+  Updated: 2026-11-21T20:44:37Z
   Vendor: Jakeman's Maple Syrup
   Product Type: 
   Availability: Available
@@ -474,7 +481,7 @@
   Image: https://cdn.shopify.com/s/files/1/0163/0338/files/WEBSITE-IMAGE_-G208_Leo_370ml_d195d9ee-044b-4f37-b921-eea5c6bf6336.png?v=1787924543
   Price: $17.95 CAD
 - [Jakeman’s 50ml Pure Ontario Maple Syrup Mini Leo Glass Bottle](https://jakemansmaplesyrup.com/products/jakeman-s-50ml-pure-ontario-maple-syrup-mini-leo-glass-bottle): Pure maple perfection in a charming mini keepsake bottle! Filled with our award-winning Grade A Ontario maple syrup, this pocket-sized 50ml "Leo" glass bottle delivers all the rich, smooth sweetness of our classic sugarbush tradition in a delightful mini form. Crafted with care without any additives or preservatives, it’s 100% natural, sweet Canadian goodness from our family to yours. Whether you're packing a personal treat, building a custom gift basket, or looking for the perfect Canadian takeaway, this sweet mini bottle is sized just right. Why You'll Love It: 100% Pure & Natural: Handcrafted from pure Ontario sap with no artificial ingredients, flavors, or preservatives. Charming Mini Keepsake: Features our signature heavy-bottomed "Leo" glass design in a miniature size that's great for display or travel. Versatile & Gift-Ready: The ideal size for wedding favors, party takeaways, gift basket accents, or stocking stuffers. Features & Details: Volume: 50 ml (1.7 fl oz) Packaging: Mini Leo Glass Bottle Weight: 0.5 lbs (approx. 0.23 kg)
-  Updated: 2026-11-14T21:05:36Z
+  Updated: 2026-11-17T02:02:06Z
   Vendor: Jakeman's Maple Syrup
   Product Type: 
   Availability: Available
@@ -494,105 +501,115 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0163/0338/files/WEBSITE-IMAGE_-G805_Leo_50ml_Unlabeled_2adbc90d-0c34-416c-8d89-4e541d5495a1.png?v=1787924981
   Price: $216.00 CAD
+- [Jakeman’s 454g Pure Ontario Maple Sugar Pouch](https://jakemansmaplesyrup.com/products/jakeman-s-454g-pure-ontario-maple-sugar-pouch): Experience 100% natural, sweet perfection in every sprinkle! Made entirely from our award-winning Grade A Ontario maple syrup, Jakeman’s Pure Maple Sugar offers a delicious, all-natural alternative to refined sugar. Handcrafted by carefully boiling down pure sap until it crystallizes into golden, sweet granules, this versatile pantry staple contains no additives, preservatives, or artificial ingredients—just pure Canadian sweetness from our family sugarbush to your kitchen. Whether you're baking homemade treats, sweetening your morning coffee, or topping warm breakfast dishes, a dash of pure maple sugar elevates every recipe. Why You'll Love It: 100% Pure & Unrefined: Made with 100% natural Ontario maple syrup, packed with authentic flavor and natural minerals. Versatile Kitchen Staple: Perfect for baking, dusting over pancakes and french toast, stirring into oatmeal, or substituting for refined brown or white sugar in your favorite recipes. Resealable Pouch: Keeps your maple sugar fresh, dry, and ready to use whenever sweet inspiration strikes.
+  Updated: 2026-11-18T14:30:16Z
+  Vendor: Jakeman's Maple Syrup
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0163/0338/files/WEBSITE-310_PureMapleSugar_72e12a2e-dc60-43bd-b25e-a46305d4be52.png?v=1787925076
+  Price: $20.95 CAD
 
 ## Collections
 
-- [Pure Maple Syrup Products](https://jakemansmaplesyrup.com/collections/maple-syrup): Shop 100% pure Ontario maple syrup in glass bottles, jugs and tins. Award-winning, family-made since 1876. Free shipping in Canada over $100.
-  Updated: 2026-11-14T12:00:23Z
+- [Pure Maple Syrup Products](https://jakemansmaplesyrup.com/collections/maple-syrup): Shop 100% pure Ontario maple syrup in glass bottles, jugs and tins. Award-winning, family-made since 1876. Free shipping in Canada over $150.
+  Updated: 2026-11-22T12:00:11Z
   Total Products: 17
 - [Maple Popcorn, Cookies and Pancake Mix](https://jakemansmaplesyrup.com/collections/maple-popcorn): Maple Popcorn, Cookies, and Pancake Mix. Treat your taste buds to a symphony of flavors with our new mixed collection! Handcrafted with care, these Canadian treasures come in different forms including maple popcorn, cookies, pancake mix, even maple coffee with sugar!
-  Updated: 2026-11-14T12:00:23Z
+  Updated: 2026-11-22T12:00:11Z
   Total Products: 10
 - [Complete Line of Maple Products](https://jakemansmaplesyrup.com/collections/complete-line-of-maple-products): Shop every Jakeman's maple product: pure maple syrup, maple candy, cookies, pancake mix, maple spread and gift baskets. Made in Ontario since 1876.
-  Updated: 2026-11-14T21:58:23Z
+  Updated: 2026-11-22T12:00:11Z
   Total Products: 158
 - [Pure Organic Maple Syrup](https://jakemansmaplesyrup.com/collections/organic-maple-syrup): Our Organic Maple Syrup is a celebration of nature's bounty. Harvested from organic maple trees, it captures the true essence of maple in every drop. Whether drizzled over breakfast or used in your cooking, this syrup adds a touch of organic goodness to your meals.
   Updated: 2026-10-22T11:00:17Z
   Total Products: 2
-- [Sweets](https://jakemansmaplesyrup.com/collections/sweets): Maple candy, maple leaf lollipops, caramels and toffee from Jakeman's. Great for stocking stuffers, parties and gifts. Free shipping in Canada over $100.
-  Updated: 2026-11-13T12:00:16Z
+- [Sweets](https://jakemansmaplesyrup.com/collections/sweets): Maple candy, maple leaf lollipops, caramels and toffee from Jakeman's. Great for stocking stuffers, parties and gifts. Free shipping in Canada over $150.
+  Updated: 2026-11-22T12:00:11Z
   Total Products: 13
-- [Gift Baskets](https://jakemansmaplesyrup.com/collections/gift-baskets): Handmade Canadian gift baskets with pure Ontario maple syrup, cookies and maple treats. Family-made since 1876. Free shipping in Canada over $100.
-  Updated: 2026-11-09T12:00:07Z
+- [Gift Baskets](https://jakemansmaplesyrup.com/collections/gift-baskets): Handmade Canadian gift baskets with pure Ontario maple syrup, cookies and maple treats. Family-made since 1876. Free shipping in Canada over $150.
+  Updated: 2026-11-22T12:00:11Z
   Total Products: 19
 - [](https://jakemansmaplesyrup.com/collections/): Shop our exclusive  collection and save on your favorite products at lower prices.
   Updated: 2026-07-10T13:12:10Z
   Total Products: 2
 - [Best Sellers](https://jakemansmaplesyrup.com/collections/best-sellers): Browse through our meticulously chosen assortment of maple's finest offerings, showcasing the cream of the crop in maple goodness. Take your pick from these beloved best-sellers and treat yourself to an exceptional culinary experience.
-  Updated: 2026-11-14T21:58:23Z
-  Total Products: 138
+  Updated: 2026-11-22T20:53:58Z
+  Total Products: 139
 - [All Products](https://jakemansmaplesyrup.com/collections/all-products): From the syrupy amber nectar to delectable maple-infused delights, the complete range of artisanal maple products promises an enchanting journey through the world of this cherished sweetener. Dive into the essence of this beloved Canadian tradition.
-  Updated: 2026-11-14T21:58:23Z
-  Total Products: 138
+  Updated: 2026-11-22T20:53:58Z
+  Total Products: 139
 - [Wedding Favors](https://jakemansmaplesyrup.com/collections/wedding-favors): Want to surprise your wedding guests with the best flavors? We have you covered! Choose pure maple syrup as your wedding favour!
-  Updated: 2026-10-09T11:00:18Z
+  Updated: 2026-11-15T12:00:18Z
   Total Products: 1
 - [Quick Order](https://jakemansmaplesyrup.com/collections/quick-order): 🛒 Shop Jakeman's Maple Syrup Quick Order! 🍁 Easily order your favorite maple syrup products with just a few clicks. Fast, convenient, and delicious! 🚀
-  Updated: 2026-11-14T21:58:23Z
+  Updated: 2026-11-22T12:00:11Z
   Total Products: 158
 - [B2B Products](https://jakemansmaplesyrup.com/collections/b2b-products): Explore Jakeman's B2B collection for wholesale maple syrup products. Ideal for retailers and businesses looking for premium Canadian maple syrup in bulk. Shop now!
   Updated: 2026-10-06T19:02:43Z
   Total Products: 70
 - [New! Shopify performance sharing is now turned on](https://jakemansmaplesyrup.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-11-14T21:58:23Z
+  Updated: 2026-11-22T12:00:11Z
   Total Products: 158
 - [Breakfast & Cooking](https://jakemansmaplesyrup.com/collections/breakfast-cooking): Elevate your kitchen with premium buttermilk pancake mix and pure maple syrup. Perfect for Sunday brunch or adding a natural sweetness to your favorite recipes.
-  Updated: 2026-11-14T12:00:23Z
+  Updated: 2026-11-22T12:00:11Z
   Total Products: 6
 - [Maple Candies](https://jakemansmaplesyrup.com/collections/maple-candies): Indulle in Jakeman’s maple hard candies, caramels, and maple leaf suckers. Made with real Canadian maple syrup for a long-lasting, naturally sweet treat.
-  Updated: 2026-11-12T12:00:13Z
+  Updated: 2026-11-21T12:00:06Z
   Total Products: 12
 - [Coffee & Tea](https://jakemansmaplesyrup.com/collections/coffee-tea): Discover the aromatic blend of Jakeman’s maple-flavored coffee and specialty teas. Enjoy the smooth, rich taste of Ontario maple in every morning sip.
-  Updated: 2026-11-07T12:00:24Z
+  Updated: 2026-11-21T17:34:17Z
   Total Products: 6
 - [Sweet Treats](https://jakemansmaplesyrup.com/collections/sweet-treats): Satisfy your sweet tooth with maple cream cookies, maple popcorn, and fudge. Explore Jakeman’s world-famous treats made with local Ontario maple syrup.
-  Updated: 2026-11-11T12:00:09Z
+  Updated: 2026-11-21T12:00:06Z
   Total Products: 9
 - [Pure Maple Products](https://jakemansmaplesyrup.com/collections/pure-maple-products): Shop our core collection of 100% pure Ontario maple syrup, maple butter, and granulated sugar. Authentic, award-winning Canadian quality since 1876.
-  Updated: 2026-11-14T12:00:23Z
+  Updated: 2026-11-22T12:00:11Z
   Total Products: 5
 - [Stocking Stuffers](https://jakemansmaplesyrup.com/collections/stocking-stuffers): Find the perfect small gifts with our maple stocking stuffers. From mini syrup bottles to maple lollipops, these treats bring big holiday smiles.
   Updated: 2026-11-09T12:00:07Z
   Total Products: 5
 - [All Winter Tins](https://jakemansmaplesyrup.com/collections/all-winter-tins): Shop Jakeman’s collectible winter-themed tins filled with award-winning 100% pure Canadian maple syrup. The perfect nostalgic gift or holiday keepsake.
-  Updated: 2026-11-13T12:00:16Z
+  Updated: 2026-11-20T12:00:11Z
   Total Products: 2
 - [10% OFF Easter ](https://jakemansmaplesyrup.com/collections/easter)
-  Updated: 2026-11-12T12:00:13Z
+  Updated: 2026-11-22T12:00:11Z
   Total Products: 5
 - [Spring ](https://jakemansmaplesyrup.com/collections/spring-)
-  Updated: 2026-11-14T12:00:23Z
+  Updated: 2026-11-22T12:00:11Z
   Total Products: 5
 - [Products NOT discounted](https://jakemansmaplesyrup.com/collections/products-not-discounted)
-  Updated: 2026-11-14T21:58:23Z
-  Total Products: 146
+  Updated: 2026-11-22T12:00:11Z
+  Total Products: 151
 - [Autumn ](https://jakemansmaplesyrup.com/collections/autumn-)
-  Updated: 2026-11-14T12:00:23Z
+  Updated: 2026-11-22T12:00:11Z
   Total Products: 5
 - [New Arrivals](https://jakemansmaplesyrup.com/collections/new-arrivals)
-  Updated: 2026-11-09T12:00:07Z
+  Updated: 2026-11-22T12:00:11Z
   Total Products: 9
 - [Halloween Maple Treats](https://jakemansmaplesyrup.com/collections/halloween-maple-treats)
-  Updated: 2026-11-13T12:00:16Z
+  Updated: 2026-11-21T12:00:06Z
   Total Products: 7
 - [Related](https://jakemansmaplesyrup.com/collections/related)
-  Updated: 2026-11-14T12:00:23Z
+  Updated: 2026-11-22T12:00:11Z
   Total Products: 3
 - [Under $30](https://jakemansmaplesyrup.com/collections/under-30)
-  Updated: 2026-11-14T12:00:23Z
+  Updated: 2026-11-22T12:00:11Z
   Total Products: 52
 - [$30 - $60](https://jakemansmaplesyrup.com/collections/30-60)
-  Updated: 2026-11-14T17:45:48Z
+  Updated: 2026-11-22T12:00:11Z
   Total Products: 34
 - [$60-$100](https://jakemansmaplesyrup.com/collections/60-100)
-  Updated: 2026-11-14T21:58:23Z
+  Updated: 2026-11-20T17:37:23Z
   Total Products: 34
-- [$100+ (free shipping)](https://jakemansmaplesyrup.com/collections/100-free-shipping)
-  Updated: 2026-11-13T05:00:52Z
-  Total Products: 47
+- [$150+ (free shipping)](https://jakemansmaplesyrup.com/collections/150-free-shipping)
+  Updated: 2026-11-19T10:52:15Z
+  Total Products: 19
 - [150th Anniversary Collection](https://jakemansmaplesyrup.com/collections/150th-anniversary-collection)
-  Updated: 2026-11-11T06:28:13Z
+  Updated: 2026-11-22T12:00:11Z
   Total Products: 4
+- [Black Friday Early Access](https://jakemansmaplesyrup.com/collections/black-friday-early-access)
+  Updated: 2026-11-22T12:00:11Z
+  Total Products: 9
 
 ## Blogs
 
@@ -759,7 +776,7 @@
     Updated: 2025-11-12T08:25:32Z
     Author: Iosif Mihai
   - [Canadian Gift Ideas by Budget: Maple Gifts | Jakeman’s](https://jakemansmaplesyrup.com/blogs/the-maple-press/canadian-gift-ideas-by-budget): Canadian Gift Ideas by Budget: Maple Gifts | Jakeman’s
-    Updated: 2026-11-09T14:00:51Z
+    Updated: 2026-11-19T10:48:26Z
     Author: Iosif Mihai
 - [Recipes](https://jakemansmaplesyrup.com/blogs/recipes-with-pure-maple-syrup): Maple syrup is a delicious and natural ingredient. It's perfect for making sweet treats, but it also has some other amazing health benefits that you might not know about! This blog will give wonderful recipes based on pure maple syrup!
   - [Breakfast Recipes with Pure Maple Syrup](https://jakemansmaplesyrup.com/blogs/recipes-with-pure-maple-syrup/best-breakfast-recipes-with-pure-maple-syrup): Breakfast Recipes with Pure Maple Syrup
@@ -980,7 +997,7 @@
 - [Holiday Gift Guide](https://jakemansmaplesyrup.com/pages/holiday-gift-guide-1)
   Updated: 2025-11-06T09:20:22Z
 - [Wholesale Inquiry](https://jakemansmaplesyrup.com/pages/wholesale): 
-  Updated: 2026-03-10T13:11:44Z
+  Updated: 2026-11-20T13:10:00Z
 - [test](https://jakemansmaplesyrup.com/pages/test)
   Updated: 2026-01-20T10:11:24Z
 - [Pancake House 1](https://jakemansmaplesyrup.com/pages/pancake-house-12): We’re proud to host the Sweaburg Lions Club Pancake House Fundraiser at the Jakeman’s Maple Syrup Maple Gift Shop for this sweet community traditio...
@@ -999,13 +1016,15 @@
   Updated: 2026-09-23T09:18:58Z
 - [Gift Hub](https://jakemansmaplesyrup.com/pages/gift-hub)
   Updated: 2026-10-22T09:17:25Z
+- [Black Friday 2026](https://jakemansmaplesyrup.com/pages/black-friday)
+  Updated: 2026-11-19T13:02:56Z
 
 ## Policies
 
 - [Privacy Policy](https://jakemansmaplesyrup.com/policies/privacy-policy)
   Updated: 2026-02-24T09:47:01Z
 - [Shipping Policy](https://jakemansmaplesyrup.com/policies/shipping-policy)
-  Updated: 2026-09-17T09:40:39Z
+  Updated: 2026-11-19T10:46:24Z
 - [Refund Policy](https://jakemansmaplesyrup.com/policies/refund-policy)
   Updated: 2022-01-12T09:44:14Z
 - [Terms of Service](https://jakemansmaplesyrup.com/policies/terms-of-service)
