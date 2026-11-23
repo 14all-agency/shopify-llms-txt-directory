@@ -6,7 +6,7 @@
 - Timezone: America/Mexico_City
 - Created At: 2016-12-13T17:20:00Z
 - Contact Email: virgilio@great-mini.mx
-- Updated At: 2026-11-15T00:24:46.946Z
+- Updated At: 2026-11-23T00:27:32.880Z
 
 # GREAT + MINI · Mobiliario Corporativo y Equipamiento Integral
 
@@ -1843,7 +1843,7 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-11-09T00:19:07Z
   Total Products: 6
 - [CAVAS DE VINOS](https://great-mini.mx/collections/cavas-de-vinos)
-  Updated: 2026-11-08T23:24:46Z
+  Updated: 2026-11-17T17:57:16Z
   Total Products: 10
 - [BÁSICOS FOOD SERVICE](https://great-mini.mx/collections/food-service)
   Updated: 2026-10-23T20:27:30Z
@@ -1855,7 +1855,7 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-06-08T18:28:06Z
   Total Products: 5
 - [REFRIGERADORES](https://great-mini.mx/collections/refrigeradores)
-  Updated: 2026-11-08T21:07:52Z
+  Updated: 2026-11-22T12:01:18Z
   Total Products: 42
 - [ESTUFAS](https://great-mini.mx/collections/estufas)
   Updated: 2026-11-08T23:56:52Z
@@ -1876,7 +1876,7 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-06-08T18:46:47Z
   Total Products: 22
 - [KITCHEN AID](https://great-mini.mx/collections/kitchen-aid)
-  Updated: 2026-08-19T05:17:42Z
+  Updated: 2026-11-22T12:01:18Z
   Total Products: 6
 - [IMPERIAL](https://great-mini.mx/collections/imperial-comercial): Descubre la línea de estufas, freidoras, hornos de convección y planchas industriales de Imperial Range. Alta durabilidad y rendimiento para restaurantes y cocinas profesionales.
   Updated: 2026-10-09T13:12:02Z
@@ -1930,7 +1930,7 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-10-19T19:47:57Z
   Total Products: 8
 - [U-LINE RESIDENCIAL](https://great-mini.mx/collections/u-line-residential): Lleva el lujo a tu cocina o terraza con U-LINE Residential en Great-Mini.mx. Refrigeración premium, cajones panelables y fábricas de hielo gourmet.
-  Updated: 2026-06-16T01:33:37Z
+  Updated: 2026-11-17T17:57:16Z
   Total Products: 16
 - [LEVANTE - Mobiliario](https://great-mini.mx/collections/muebles-vivant-levante-mobiliario): Descubre la colección Great+Mini 🚀 Mobiliario de oficina modular y ergonómico que se adapta a grandes áreas corporativas y espacios compactos. ¡Cotiza hoy! ✨
   Updated: 2026-06-19T23:56:28Z
