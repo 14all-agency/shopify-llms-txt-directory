@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-04-21T12:46:29Z
 - Contact Email: annienellcreations@gmail.com
-- Updated At: 2026-11-15T00:35:36.108Z
+- Updated At: 2026-11-23T00:31:40.698Z
 
 ## Products
 
@@ -18,21 +18,21 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/demaquillant-yeux-avril-bouteille-plastique-transparente-etiquette-936.webp?v=1780330797
   Price: 7,00 € EUR
 - [Gel nettoyant visage Avril bio cosmétique peau douce](https://www.nellcreations.com/products/gel-nettoyant-visage-100ml-certifie-bio): Ce gel nettoyant visage Avril certifié bio élimine les impuretés de l'épiderme. Sa formule pour peaux sèches ou grasses contient un parfum naturel d'agrumes.
-  Updated: 2026-11-09T17:34:47Z
+  Updated: 2026-11-21T18:40:16Z
   Vendor: Nellcréations
   Product Type: Gel nettoyant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/gel-nettoyant-visage-avril-tube-bleu-clair-897.webp?v=1780330815
   Price: 5,00 € EUR
 - [Soin bio Avril contour yeux lèvres zones fragiles](https://www.nellcreations.com/products/soin-contour-des-yeux-et-levres): Ce soin bio Avril hydrate les zones fragiles du visage. Sa formule naturelle traite la peau délicate du contour des yeux et des lèvres avec douceur et précision.
-  Updated: 2026-11-05T10:29:30Z
+  Updated: 2026-11-18T16:55:35Z
   Vendor: Nellcréations
   Product Type: contour des yeux et lèvres
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/soin-contour-des-yeux-et-levres-avril-tube-souple-couleur-lavande-pale-899.webp?v=1780330841
   Price: 3,60 € EUR
 - [Crème jour et nuit Avril bio hydratation visage](https://www.nellcreations.com/products/creme-jour-et-nuit-50-ml-certifiee-bio): La crème jour et nuit certifiée bio Avril contient de l'aloe vera et du beurre de karité. Ce soin hydrate les peaux normales, sèches, grasses, mixtes ou matures.
-  Updated: 2026-11-12T22:40:34Z
+  Updated: 2026-11-19T10:32:55Z
   Vendor: Nellcréations
   Product Type: crème visage jour et nuit
   Availability: Available
@@ -46,14 +46,14 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/serum-purifiant-avril-bouteille-verre-transparent-bouchon-compte-593.webp?v=1780330861
   Price: 9,00 € EUR
 - [Sérum désaltérant Avril hydratant bio acide hyaluronique](https://www.nellcreations.com/products/serum-desalterant-30ml-certifie-bio): Ce sérum désaltérant Avril contient de l acide hyaluronique végétal et de l aloe vera bio. Sa texture légère hydrate la peau sans laisser de film gras.
-  Updated: 2026-10-18T23:00:30Z
+  Updated: 2026-11-22T14:50:17Z
   Vendor: Nellcréations
   Product Type: sérum visage désaltérant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/serum-desalterant-avril-visage-elegante-bouteille-verre-transparente-554.webp?v=1780330877
   Price: 9,00 € EUR
 - [Crème visage corps Avril bio karité aloé vera hydratante](https://www.nellcreations.com/products/creme-visage-corps-200-ml-certifiee-bio): Cette crème hydratante Avril pour visage et corps contient du beurre de karité et de l'aloé vera bio. Elle nourrit la peau sèche de toute la famille dès trois ans.
-  Updated: 2026-07-21T14:00:12Z
+  Updated: 2026-11-18T16:55:35Z
   Vendor: Nellcréations
   Product Type: Crème visage et corps
   Availability: Available
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/gel-daloe-vera-avril-aloe-tube-leger-vert-menthe-277.webp?v=1780330945
   Price: 8,00 € EUR
 - [Gommage corporel Avril bio poudre riz lilas blanc](https://www.nellcreations.com/products/gommage-corporel-200-ml-certifie-bio): Ce gommage corporel Avril certifié bio contient de la poudre de riz pour une exfoliation efficace. Son extrait de lilas blanc apporte une odeur fraîche sur la peau.
-  Updated: 2026-06-24T14:06:07Z
+  Updated: 2026-11-18T16:55:36Z
   Vendor: Nellcréations
   Product Type: gommage corps
   Availability: Available
@@ -116,7 +116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/bouquet-parfume-nuage-de-coton-nellcreations-diffuseur-parfum-498.webp?v=1780331155
   Price: 24,00 € EUR
 - [Parfum ambiance nuage coton pour maison douce](https://www.nellcreations.com/products/parfum-dambiance-nuage-de-coton): Ce parfum d ambiance Nellcréations à la fleur de coton diffuse une senteur légère dans la maison. Ce vaporisateur crée une atmosphère par simple pulvérisation.
-  Updated: 2026-07-21T22:32:01Z
+  Updated: 2026-11-19T20:58:41Z
   Vendor: Nellcréations
   Product Type: Parfum d'ambiance
   Availability: Available
@@ -206,7 +206,7 @@
   Updated: 2026-07-21T09:31:26Z
   Total Products: 2
 - [Avril cosmétiques](https://www.nellcreations.com/collections/soin-visage-avril): Nellcréations propose la gamme Avril cosmétiques incluant des soins du visage, du corps et du maquillage bio comme la BB crème, le sérum lissant ou le gommage.
-  Updated: 2026-11-10T12:23:59Z
+  Updated: 2026-11-19T12:22:33Z
   Total Products: 16
 - [Nellcréations - Gamme ambiance](https://www.nellcreations.com/collections/nellcreations-gamme-ambiance): La collection ambiance Nellcréations propose des bouquets parfumés, bougies et parfums pour la maison au parfum nuage de coton pour créer une atmosphère douce.
   Updated: 2026-11-01T12:21:59Z
@@ -221,10 +221,10 @@
   Updated: 2026-11-05T20:44:22Z
   Total Products: 8
 - [Meilleurs ventes](https://www.nellcreations.com/collections/meilleurs-ventes): La collection Meilleurs ventes de Nellcréations propose des soins Avril comme le gel nettoyant et des produits exclusifs tels que le draineur ou le gel fermeté.
-  Updated: 2026-11-10T12:23:59Z
+  Updated: 2026-11-19T12:22:33Z
   Total Products: 10
 - [New! Shopify performance sharing is now turned on](https://www.nellcreations.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-11-10T12:23:59Z
+  Updated: 2026-11-19T12:22:33Z
   Total Products: 40
 
 ## Blogs
@@ -294,8 +294,8 @@
   Updated: 2026-06-15T14:32:20Z
 - [Offres du moment soins exclusifs beauté bien être](https://www.nellcreations.com/pages/offres-du-moment): ✨ Le soin inédit du mois Chaque mois, Le salon de beauté Nellcréations vous propose un soin exclusif, imaginé pour sublimer votre peau et vous offr...
   Updated: 2026-07-21T14:53:11Z
-- [Guide bien-être](https://www.nellcreations.com/pages/guide-bien-etre): Le bien-être commence par soi Prendre soin de soi, c'est aussi apprendre à s'écouter, comprendre son corps et s'accorder du temps. J'ai imaginé cet...
-  Updated: 2026-11-07T17:52:12Z
+- [Guide bien-être](https://www.nellcreations.com/pages/guide-bien-etre): Le bien-être commence par soi Découvrir le guide Prendre soin de soi, c'est aussi apprendre à s'écouter, comprendre son corps et s'accorder du temp...
+  Updated: 2026-11-21T19:53:50Z
 
 ## Policies
 
