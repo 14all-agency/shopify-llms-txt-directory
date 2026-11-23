@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-06-09T18:02:34Z
 - Contact Email: beepeewms@gmail.com
-- Updated At: 2026-11-16T01:03:12.258Z
+- Updated At: 2026-11-23T01:05:19.584Z
 
 ## Products
 
@@ -18,14 +18,14 @@
   Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/IMG_0216.heic?v=1757717182
   Price: $10.50 USD
 - [Holiday Feast Protein Strips - Vegan Freeze Dried Soy Curls | 2 Servings](https://veganelder.com/products/holiday-feast-protein-strips): Vegan jerky alternative & plant-based protein snack! Eat dry like jerky or rehydrate in 5 min. Freeze-dried soy curls, holiday flavor. Perfect for backpacking, emergency food & quick meals.
-  Updated: 2026-11-15T03:36:06Z
+  Updated: 2026-11-20T00:40:36Z
   Vendor: VeganElder's Pantry
   Product Type: Plant Protein Strips and Jerky Alternative
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/Holiday_Feast_Protein_Strips_2_servings.jpg?v=1778000075
   Price: $12.50 USD
 - [Taco Style Protein Strips - Vegan Freeze Dried Soy Curls | 2 Servings](https://veganelder.com/products/taco-style-protein-strips): Vegan jerky alternative & plant-based protein snack! Eat dry like jerky or rehydrate in 5 min. Freeze-dried soy curls, taco flavor. Perfect for backpacking, emergency food & quick meals.
-  Updated: 2026-11-15T03:36:06Z
+  Updated: 2026-11-23T00:28:25Z
   Vendor: VeganElder's Freeze Dried Pantry
   Product Type: Plant Protein Strips and Jerky Alternative
   Availability: Available
@@ -52,7 +52,7 @@
   Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/IMG_0381.heic?v=1758738378
   Price: $10.50 USD
 - [Freeze Dried Vegan Ice Cream Sandwich - Crunchy Plant-Based Treat](https://veganelder.com/products/freeze-dried-vegan-ice-cream-sandwich): Unique freeze dried vegan dessert! Plant-based ice cream sandwiches with a satisfying crunch that melts in your mouth. 2 per pouch, 2.5oz total.
-  Updated: 2026-11-15T03:36:16Z
+  Updated: 2026-11-21T22:54:16Z
   Vendor: My Store
   Product Type: Candy Lane
   Availability: Available
@@ -65,13 +65,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/BCB400B2-F3FF-4135-854A-66F783095B37.jpg?v=1759618880
   Price: $10.50 USD
-- [White Rice Freeze Dried 2 Servings Convenience Pack](https://veganelder.com/products/white-rice-freeze-dried-2-servings): Freeze-dried White Rice: ready in minutes with hot water; 2 servings per pouch, zero added fat, plant-based, perfect for camping, emergencies, or quick meals.
-  Updated: 2026-09-01T16:08:24Z
+- [Rustic Mashed Potatoes Freeze Dried 2 Servings](https://veganelder.com/products/rustic-mashed-potatoes-freeze-dried): Wholesome Rustic Mashed Potatoes (Freeze-Dried) - just add water for a vegan, no-fat 2-serving side with rustic texture, ideal for camping or emergencies.
+  Updated: 2026-11-16T23:45:46Z
   Vendor: VeganElder's Freeze Dried Pantry
-  Product Type: Freeze Dried Sides
+  Product Type: Side Dishes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/steaming-white-rice-in-bowl.png?v=1763141306
-  Price: $7.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/E1007FD7-B751-4186-A0E0-33937CF5C018.jpg?v=1763062423
+  Price: $8.50 USD
+- [Barbecue Protein Strips - Vegan Freeze Dried Soy Curls | 2 Servings](https://veganelder.com/products/barbecue-protein-strips-2-servings): Vegan jerky alternative & plant-based protein snack! Eat dry like jerky or rehydrate in 5 min. Freeze-dried soy curls, BBQ flavor. Perfect for backpacking, emergency food & quick meals.
+  Updated: 2026-11-20T19:36:58Z
+  Vendor: VeganElder's Freeze Dried Pantry
+  Product Type: Plant Protein Strips and Jerky Alternative
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/Barbecue_Protein_Strips_2_servings.jpg?v=1778000802
+  Price: $12.50 USD
 - [Snackaroni Semolina Pasta | Cheezy Marinara](https://veganelder.com/products/snackaroni-cheezy-marinara): One pack of vegan freeze-dried semolina pasta snack with a Marinara taste and Big Crunch. Perfect after-school snack or for that afternoon pick me up snack.
   Updated: 2026-11-13T07:23:40Z
   Vendor: VeganElder's Freeze Dried Pantry
@@ -80,14 +87,21 @@
   Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/DF222FD2-8761-437E-BDAA-0FDD7C1F5F3C.jpg?v=1789403937
   Price: $6.50 USD
 - [VeganElder's Plant-Based Mug - 11oz Ceramic Coffee Mug - VeganElder's Freeze Dried Pantry](https://veganelder.com/products/veganelders-freeze-dried-pantry-mug-11oz-ceramic): Show your plant-based pride with our 11oz ceramic mug featuring the VeganElder's logo. Perfect for coffee, tea, or camping. First item in our new merch collection.
-  Updated: 2026-09-03T15:34:36Z
+  Updated: 2026-11-16T23:45:25Z
   Vendor: VeganElder's Freeze Dried Pantry
   Product Type: Merhandise
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/VeganElder-mug-front.jpg?v=1787847939
   Price: $12.00 USD
+- [Barbecue Protein Strips - Single Serving Sample | Vegan](https://veganelder.com/products/barbecue-protein-strips-single-serving-sample): Try our vegan jerky alternative! Single serving sample. Eat dry like jerky or rehydrate in 5 min. Freeze-dried soy curls, bold BBQ flavor. Test before buying bulk!
+  Updated: 2026-11-20T19:37:31Z
+  Vendor: VeganElder's Freeze Dried Pantry
+  Product Type: Plant Protein Strips and Jerky Alternative
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/Barbecue_Protein_Strips_1_serving_sample.jpg?v=1778001295
+  Price: $7.00 USD
 - [Holiday Feast Protein Strips - Single Serving Sample | Vegan](https://veganelder.com/products/holiday-feast-protein-strips-single-serving-sample): Try our vegan jerky alternative! Single serving sample. Eat dry like jerky or rehydrate in 5 min. Freeze-dried soy curls, savory holiday flavor. Test before buying bulk!
-  Updated: 2026-11-13T07:21:14Z
+  Updated: 2026-11-20T00:38:52Z
   Vendor: VeganElder's Freeze Dried Pantry
   Product Type: Plant Protein Strips and Jerky Alternative
   Availability: Available
@@ -101,7 +115,7 @@
   Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/Oven_Roasted_Protein_strips_on_table.jpg?v=1778104783
   Price: $7.00 USD
 - [Italian Sausage Protein Strips - Vegan Freeze Dried Soy Curls | Single Serving](https://veganelder.com/products/italian-sausage-protein-strips-single-serving-sample): Vegan jerky alternative & plant-based protein snack! Eat dry like jerky or rehydrate in 5 min. Freeze-dried soy curls, Italian sausage flavor. Try a single serving sample.
-  Updated: 2026-11-14T00:33:15Z
+  Updated: 2026-11-18T03:31:35Z
   Vendor: VeganElder's Freeze Dried Pantry
   Product Type: Plant Protein Strips and Jerky Alternative
   Availability: Available
@@ -201,13 +215,13 @@
   Updated: 2026-11-15T12:25:27Z
   Total Products: 8
 - [All](https://veganelder.com/collections/all): Shop all freeze-dried vegan products from VeganElder's Freeze Dried Pantry. Browse our complete selection of delicious freeze-dried treats.
-  Updated: 2026-11-15T12:25:27Z
+  Updated: 2026-11-22T12:24:20Z
   Total Products: 42
 - [Veganelder's Freeze Dried Sides](https://veganelder.com/collections/veganelders-freeze-dried-sides): 🍽️ Veganelder's Freeze Dried Sides Welcome to the ultimate collection of pantry staples and quick-prep solutions! Veganelder's Freeze Dried Sides offers wholesome, flavorful side dishes that are perfect for any lifestyle—from busy weeknights to back-country adventures and reliable emergency food storage. Convenience Meets Quality We take simple, clean ingredients and use the advanced technique of freeze drying to lock in the freshest flavor and peak nutritional value. Just add hot water, and in minutes, you have a perfectly prepared, hearty side dish ready to serve. Why Choose Veganelder's Freeze Dried Sides? ⚡ Ready in Minutes: The fastest way to get quality food on the table. 🌱 100% Plant-Based: Every item in this category is naturally vegan and made with clean ingredients. 🚫 No Added Oil or Fat: Focus on healthy, whole-food ingredients. ⏳ Incredible Shelf Life: An essential addition to your emergency food supply or prepper pantry. 🏞️ Trail Ready: Lightweight, nutrient-dense options perfect for camping and backpacking food. Current Favorites (And More to Come!) Explore our current lineup, including the hearty, whole-food Rustic Mashed Potatoes (made with the peel on for texture!) and our essential Fluffy White Rice. Check back often as we expand our selection of wholesome, freeze-dried vegetables, grains, and other quick-prep staples!
   Updated: 2026-11-15T12:25:27Z
   Total Products: 7
 - [Freeze Dried Snacks](https://veganelder.com/collections/freeze-dried-snacks): Shop freeze-dried vegan snacks — sweet, savory, and shelf-stable. Perfect for hiking, emergency prep, and everyday plant-based snacking.
-  Updated: 2026-11-15T12:25:27Z
+  Updated: 2026-11-22T12:24:20Z
   Total Products: 14
 - [Merchandise](https://veganelder.com/collections/merchandise): Shop VeganElder's branded merchandise including mugs, apparel, and gear. Show your plant-based pride and support wholesome freeze-dried nutrition for adventurers.
   Updated: 2026-10-29T17:11:32Z
@@ -216,7 +230,7 @@
   Updated: 2026-11-15T12:25:27Z
   Total Products: 21
 - [Freeze Dried Candy and Sweets](https://veganelder.com/collections/freeze-dried-candy-and-sweets): We've curated a selection of plant based candy and sweets for your enjoyment!
-  Updated: 2026-11-15T12:25:27Z
+  Updated: 2026-11-22T12:24:20Z
   Total Products: 9
 - [Side Dishes](https://veganelder.com/collections/side-dishes): Our plant based side dishes like Rustic Mashed Potatoes and Green beans are all prepared without oil or preservatives. They are shelf stable and ready to eat.
   Updated: 2026-11-15T12:25:27Z
