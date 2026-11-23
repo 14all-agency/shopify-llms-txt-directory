@@ -83,36 +83,36 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2022-09-27T20:59:19Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-15T01:08:45.920Z
+- Updated At: 2026-11-23T01:20:31.142Z
 
 ## Products
 
 - [I'm Butch Tee](https://fortunefeimster.merchmadeeasy.com/products/im-butch-tee): Butch, please...Flaunt your style with the black I'm Butch Tee! 100% ring spun cotton t-shirt in black
-  Updated: 2026-10-22T20:53:57Z
+  Updated: 2026-11-19T14:57:21Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/products/Myproject.png?v=1679499645
   - [S](https://fortunefeimster.merchmadeeasy.com/products/im-butch-tee?variant=40394297114697)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://fortunefeimster.merchmadeeasy.com/products/im-butch-tee?variant=40394297147465)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://fortunefeimster.merchmadeeasy.com/products/im-butch-tee?variant=40394297180233)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://fortunefeimster.merchmadeeasy.com/products/im-butch-tee?variant=40394297213001)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://fortunefeimster.merchmadeeasy.com/products/im-butch-tee?variant=40394297245769)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [3XL](https://fortunefeimster.merchmadeeasy.com/products/im-butch-tee?variant=40401378705481)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [2023 Live Laugh Love Tour Tee](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-tour-tee): The Live Laugh Love Tour Tee features a sweet ice cream design on the front and Fortune's 2023 tour dates on the back! 100% ring spun cotton t-shirt in black
-  Updated: 2026-10-21T11:08:41Z
+  Updated: 2026-11-19T22:02:56Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -120,554 +120,526 @@ your agent can transact everywhere.
   - [Spring Tour Dates / S](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-tour-tee?variant=40475224899657)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFLLLTourTeeBack.png?v=1712086895
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [Spring Tour Dates / M](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-tour-tee?variant=40475224932425)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFLLLTourTeeBack.png?v=1712086895
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [Spring Tour Dates / L](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-tour-tee?variant=40475224965193)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFLLLTourTeeBack.png?v=1712086895
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [Spring Tour Dates / XL](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-tour-tee?variant=40475224997961)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFLLLTourTeeBack.png?v=1712086895
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [Spring Tour Dates / 2XL](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-tour-tee?variant=40475225030729)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFLLLTourTeeBack.png?v=1712086895
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [Spring Tour Dates / 3XL](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-tour-tee?variant=40475225063497)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFLLLTourTeeBack.png?v=1712086895
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [Summer Tour Dates / S](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-tour-tee?variant=40563518832713)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFSummerDatesBack.png?v=1712086895
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [Summer Tour Dates / M](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-tour-tee?variant=40563518865481)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFSummerDatesBack.png?v=1712086895
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [Summer Tour Dates / L](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-tour-tee?variant=40563518898249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFSummerDatesBack.png?v=1712086895
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [Summer Tour Dates / XL](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-tour-tee?variant=40563518931017)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFSummerDatesBack.png?v=1712086895
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [Summer Tour Dates / 2XL](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-tour-tee?variant=40563518963785)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFSummerDatesBack.png?v=1712086895
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [Summer Tour Dates / 3XL](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-tour-tee?variant=40563518996553)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFSummerDatesBack.png?v=1712086895
-    Price: $15.00 USD
+    Price: $10.50 USD
 - [Good Fortune Trucker Hat](https://fortunefeimster.merchmadeeasy.com/products/good-fortune-trucker-hat): 5-Panel, 4" Structured Crown Polyester Foam Front Mesh Back With Braid Snap Closure
-  Updated: 2026-10-21T23:55:16Z
+  Updated: 2026-11-19T14:57:21Z
   Vendor: Fortune Feimster
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/products/FFTruckerHatRainbow.png?v=1674757320
-  Price: $25.00 USD
+  Price: $17.50 USD
 - [Live Laugh Love Tour Poster](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-tour-poster): The tour poster from Fortune's Live, Laugh, Love Tour!
-  Updated: 2026-10-05T13:02:50Z
+  Updated: 2026-11-19T14:57:21Z
   Vendor: Fortune Feimster
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/products/Myproject-1.png?v=1681233018
-  Price: $15.00 USD
+  Price: $10.50 USD
 - [FORTUNE Hat](https://fortunefeimster.merchmadeeasy.com/products/fortune-hat): 5-panel polyester foam front mesh back, with string braid 4" structured crown Plastic snap adjust One size fits most
-  Updated: 2026-10-05T13:02:51Z
+  Updated: 2026-11-19T14:57:21Z
   Vendor: Fortune Feimster
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/products/FFTruckerHat.jpg?v=1675182717
-  Price: $25.00 USD
+  Price: $17.50 USD
 - [2 Sweet 2 Salty Tour Poster](https://fortunefeimster.merchmadeeasy.com/products/2-sweet-2-salty-poster): Fortune's 2 Sweet 2 Salty Tour poster!
-  Updated: 2026-10-05T13:02:51Z
+  Updated: 2026-11-19T14:57:21Z
   Vendor: Fortune Feimster
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/products/473970471-ff-2-sweet-2-salty-poster.png?v=1676991743
-  Price: $15.00 USD
+  Price: $10.50 USD
 - [Turquoise Ice Cream Tee](https://fortunefeimster.merchmadeeasy.com/products/turquiose-ice-cream-t-shirt): This classic Ice Cream Tee sure is sweet! 100% combed ringspun cotton t-shirt in turquoise
-  Updated: 2026-10-08T08:19:48Z
+  Updated: 2026-11-19T14:57:21Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/products/473970474-ff-turquoise-ice-cream-tee.png?v=1676992065
   - [X-Small](https://fortunefeimster.merchmadeeasy.com/products/turquiose-ice-cream-t-shirt?variant=40493689864265)
     Availability: Available
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [Small](https://fortunefeimster.merchmadeeasy.com/products/turquiose-ice-cream-t-shirt?variant=41595915272265)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [Large](https://fortunefeimster.merchmadeeasy.com/products/turquiose-ice-cream-t-shirt?variant=41595915305033)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [2X-Large](https://fortunefeimster.merchmadeeasy.com/products/turquiose-ice-cream-t-shirt?variant=41595915337801)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [3X-Large](https://fortunefeimster.merchmadeeasy.com/products/turquiose-ice-cream-t-shirt?variant=41595915370569)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $10.50 USD
 - [Brenda Tee](https://fortunefeimster.merchmadeeasy.com/products/brenda-t-shirt): Don't be an S.O.B. like Teeyum...Make Brenda proud and grab her tee now 100% combed ringspun cotton t-shirt in black
-  Updated: 2026-10-21T11:08:48Z
+  Updated: 2026-11-19T14:57:21Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/products/473970478-brenda-tee.png?v=1676992267
   - [X-Small](https://fortunefeimster.merchmadeeasy.com/products/brenda-t-shirt?variant=41595919106121)
     Availability: Available
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [Small](https://fortunefeimster.merchmadeeasy.com/products/brenda-t-shirt?variant=40493650542665)
     Availability: Available
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [Medium](https://fortunefeimster.merchmadeeasy.com/products/brenda-t-shirt?variant=40493650575433)
     Availability: Available
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [Large](https://fortunefeimster.merchmadeeasy.com/products/brenda-t-shirt?variant=41595919138889)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [X-Large](https://fortunefeimster.merchmadeeasy.com/products/brenda-t-shirt?variant=41595919171657)
     Availability: Available
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [2X-Large](https://fortunefeimster.merchmadeeasy.com/products/brenda-t-shirt?variant=40493650673737)
     Availability: Available
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [3X-Large](https://fortunefeimster.merchmadeeasy.com/products/brenda-t-shirt?variant=41595979268169)
     Availability: Available
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [4X-Large](https://fortunefeimster.merchmadeeasy.com/products/brenda-t-shirt?variant=40493735313481)
     Availability: Available
-    Price: $15.00 USD
+    Price: $10.50 USD
 - [Tie Dye Hoodie](https://fortunefeimster.merchmadeeasy.com/products/tie-dye-hoodie): Tie dye hoodie featuring the FF Ice Cream logo. A throwback classic!
-  Updated: 2026-11-09T21:12:40Z
+  Updated: 2026-11-19T14:57:21Z
   Vendor: Fortune Feimster
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/products/473970480-ff-tie-dye-hoodie-front.png?v=1676992408
   - [Small](https://fortunefeimster.merchmadeeasy.com/products/tie-dye-hoodie?variant=40493650706505)
     Availability: Available
-    Price: $40.00 USD
+    Price: $28.00 USD
   - [Medium](https://fortunefeimster.merchmadeeasy.com/products/tie-dye-hoodie?variant=40493650739273)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $28.00 USD
   - [Large](https://fortunefeimster.merchmadeeasy.com/products/tie-dye-hoodie?variant=40493650772041)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $28.00 USD
   - [X-Large](https://fortunefeimster.merchmadeeasy.com/products/tie-dye-hoodie?variant=40493650804809)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $28.00 USD
   - [2X-Large](https://fortunefeimster.merchmadeeasy.com/products/tie-dye-hoodie?variant=40493650837577)
     Availability: Available
-    Price: $40.00 USD
+    Price: $28.00 USD
 - [Biggie Tee](https://fortunefeimster.merchmadeeasy.com/products/biggie-tee): Channel some Biggie energy and be stress-free with this adorable blue tee! Pre-shrunk 100% ringspun USA cotton in blue
-  Updated: 2026-10-08T08:19:46Z
+  Updated: 2026-11-19T14:57:21Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/products/Myproject-2.png?v=1679589868
   - [S](https://fortunefeimster.merchmadeeasy.com/products/biggie-tee?variant=40512445153353)
     Availability: Not Available
-    Price: $25.00 USD
+    Price: $17.50 USD
   - [M](https://fortunefeimster.merchmadeeasy.com/products/biggie-tee?variant=40512445186121)
     Availability: Not Available
-    Price: $25.00 USD
+    Price: $17.50 USD
   - [L](https://fortunefeimster.merchmadeeasy.com/products/biggie-tee?variant=40512445218889)
     Availability: Not Available
-    Price: $25.00 USD
+    Price: $17.50 USD
   - [XL](https://fortunefeimster.merchmadeeasy.com/products/biggie-tee?variant=40512445251657)
     Availability: Available
-    Price: $25.00 USD
+    Price: $17.50 USD
   - [2XL](https://fortunefeimster.merchmadeeasy.com/products/biggie-tee?variant=40512445284425)
     Availability: Available
-    Price: $25.00 USD
+    Price: $17.50 USD
   - [3XL](https://fortunefeimster.merchmadeeasy.com/products/biggie-tee?variant=40512445317193)
     Availability: Available
-    Price: $25.00 USD
+    Price: $17.50 USD
 - [Lesbian Swimsuit Tank - Grey](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-sleeveless-tee): Take a swim or just chill out in the Lesbian Swimsuit Sleeveless Tee! 52% Airlume combed and ring-spun cotton, 48% polyester sleeveless top in heather grey Size Chart Size Body Length (in) Chest Width (Laid Flat) S 26 18 M 27 20 L 28 21 1/2 XL 29 23 1/2 2XL 30 25 1/2
-  Updated: 2026-10-10T17:55:35Z
+  Updated: 2026-11-22T00:47:56Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/products/Myproject-1-25.png?v=1679953633
   - [S](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-sleeveless-tee?variant=40512445612105)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-sleeveless-tee?variant=40512445644873)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-sleeveless-tee?variant=40512445677641)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-sleeveless-tee?variant=40512445710409)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-sleeveless-tee?variant=40512445743177)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [3XL](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-sleeveless-tee?variant=40547630284873)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [Live Laugh Love 2023 Ice Cream Tour Poster](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-ice-cream-tour-poster): This Live Laugh Love Tour Poster is sweet!
-  Updated: 2026-10-05T13:02:55Z
+  Updated: 2026-11-19T14:57:21Z
   Vendor: Fortune Feimster
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFLLL2023TourPoster.png?v=1690573355
-  Price: $20.00 USD
+  Price: $14.00 USD
 - [Sunbeam Hoodie](https://fortunefeimster.merchmadeeasy.com/products/sunbeam-hoodie): 80/20 cotton/polyester blend fleece with 100% cotton face hoodie in black
-  Updated: 2026-11-11T21:05:06Z
+  Updated: 2026-11-19T14:57:21Z
   Vendor: Fortune Feimster
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/160424_1_291856_d.png?v=1700237237
   - [Small](https://fortunefeimster.merchmadeeasy.com/products/sunbeam-hoodie?variant=40718259322953)
     Availability: Available
-    Price: $55.00 USD
+    Price: $38.50 USD
   - [Medium](https://fortunefeimster.merchmadeeasy.com/products/sunbeam-hoodie?variant=40718259355721)
     Availability: Not Available
-    Price: $55.00 USD
+    Price: $38.50 USD
   - [Large](https://fortunefeimster.merchmadeeasy.com/products/sunbeam-hoodie?variant=40718259388489)
     Availability: Not Available
-    Price: $55.00 USD
+    Price: $38.50 USD
   - [X-Large](https://fortunefeimster.merchmadeeasy.com/products/sunbeam-hoodie?variant=40718259421257)
     Availability: Available
-    Price: $55.00 USD
+    Price: $38.50 USD
   - [2X-Large](https://fortunefeimster.merchmadeeasy.com/products/sunbeam-hoodie?variant=40718259454025)
     Availability: Available
-    Price: $55.00 USD
+    Price: $38.50 USD
   - [3X-Large](https://fortunefeimster.merchmadeeasy.com/products/sunbeam-hoodie?variant=40718259486793)
     Availability: Available
-    Price: $55.00 USD
+    Price: $38.50 USD
   - [4X-Large](https://fortunefeimster.merchmadeeasy.com/products/sunbeam-hoodie?variant=40718259519561)
     Availability: Not Available
-    Price: $55.00 USD
-- [Fortune Beanie](https://fortunefeimster.merchmadeeasy.com/products/fortune-beanie): 100% acrylic beanie
-  Updated: 2026-10-05T13:02:56Z
-  Vendor: Fortune Feimster
-  Product Type: Hat
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FORBeanie.png?v=1700237613
-  Price: $25.00 USD
+    Price: $38.50 USD
 - [Livin' Laughin' Lovin' Tee](https://fortunefeimster.merchmadeeasy.com/products/livin-laughin-lovin-tee): 65% polyester, 35% cotton in heather purple
-  Updated: 2026-10-08T08:17:22Z
+  Updated: 2026-11-19T14:57:22Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/160163_1_291366_d-2.png?v=1704318769
   - [Small](https://fortunefeimster.merchmadeeasy.com/products/livin-laughin-lovin-tee?variant=40749487128649)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [Medium](https://fortunefeimster.merchmadeeasy.com/products/livin-laughin-lovin-tee?variant=40749487161417)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [Large](https://fortunefeimster.merchmadeeasy.com/products/livin-laughin-lovin-tee?variant=40749487194185)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [X-Large](https://fortunefeimster.merchmadeeasy.com/products/livin-laughin-lovin-tee?variant=40749487226953)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2X-Large](https://fortunefeimster.merchmadeeasy.com/products/livin-laughin-lovin-tee?variant=40749487259721)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [3X-Large](https://fortunefeimster.merchmadeeasy.com/products/livin-laughin-lovin-tee?variant=40749487292489)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [4X-Large](https://fortunefeimster.merchmadeeasy.com/products/livin-laughin-lovin-tee?variant=40749487325257)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [2024 Live Laugh Love Tour Tee](https://fortunefeimster.merchmadeeasy.com/products/2024-live-laugh-love-tour-tee): The Live Laugh Love Tour Tee features a sweet ice cream design on the front and Fortune's 2024 tour dates on the back! 100% ring spun cotton t-shirt in black
-  Updated: 2026-10-08T08:15:22Z
+  Updated: 2026-11-19T22:03:06Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/160163_1_291366_d-3.png?v=1704486092
   - [S](https://fortunefeimster.merchmadeeasy.com/products/2024-live-laugh-love-tour-tee?variant=40796557541449)
     Availability: Available
-    Price: $25.00 USD
+    Price: $17.50 USD
   - [M](https://fortunefeimster.merchmadeeasy.com/products/2024-live-laugh-love-tour-tee?variant=40796557574217)
     Availability: Available
-    Price: $25.00 USD
+    Price: $17.50 USD
   - [L](https://fortunefeimster.merchmadeeasy.com/products/2024-live-laugh-love-tour-tee?variant=40796557606985)
     Availability: Available
-    Price: $25.00 USD
+    Price: $17.50 USD
   - [XL](https://fortunefeimster.merchmadeeasy.com/products/2024-live-laugh-love-tour-tee?variant=40796557639753)
     Availability: Not Available
-    Price: $25.00 USD
+    Price: $17.50 USD
   - [2XL](https://fortunefeimster.merchmadeeasy.com/products/2024-live-laugh-love-tour-tee?variant=40796557672521)
     Availability: Not Available
-    Price: $25.00 USD
+    Price: $17.50 USD
   - [3XL](https://fortunefeimster.merchmadeeasy.com/products/2024-live-laugh-love-tour-tee?variant=40796557705289)
     Availability: Available
-    Price: $25.00 USD
+    Price: $17.50 USD
   - [4XL](https://fortunefeimster.merchmadeeasy.com/products/2024-live-laugh-love-tour-tee?variant=40796563341385)
     Availability: Available
-    Price: $25.00 USD
+    Price: $17.50 USD
 - [Live Laugh Love 2024 Ice Cream Tour Poster](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-2024-ice-cream-tour-poster): This new Live Laugh Love Tour Poster is sweet! 13x19" poster
-  Updated: 2026-10-05T13:02:58Z
+  Updated: 2026-11-19T14:57:22Z
   Vendor: Fortune Feimster
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/160163_1_291366_d-5.png?v=1704486393
-  Price: $20.00 USD
+  Price: $14.00 USD
 - [2 Sweet 2 Salty Tour Poster - SIGNED](https://fortunefeimster.merchmadeeasy.com/products/2-sweet-2-salty-tour-poster-signed): Fortune's 2 Sweet 2 Salty Tour poster - hand-signed by Fortune!
-  Updated: 2026-10-05T13:02:58Z
+  Updated: 2026-11-19T14:57:22Z
   Vendor: Fortune Feimster
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/473970471-ff-2-sweet-2-salty-poster_4d003fa4-2121-4781-95c6-ec1a8441f321.png?v=1721918880
-  Price: $25.00 USD
+  Price: $17.50 USD
 - [Fortune In Canada Poster - SIGNED](https://fortunefeimster.merchmadeeasy.com/products/fortune-in-canada-poster-signed): Get a hand-signed moose-tastic Canada poster today!
-  Updated: 2026-11-13T15:25:12Z
+  Updated: 2026-11-19T14:57:22Z
   Vendor: Fortune Feimster
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFSignedCanadaPoster.png?v=1739205282
-  Price: $20.00 USD
+  Price: $14.00 USD
 - [Crushing It Hoodie](https://fortunefeimster.merchmadeeasy.com/products/crushing-it-hoodie): 50/50 cotton/poly fleece hoodie in pink Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/8 M 29 22 35 1/8 L 30 24 36 1/8 XL 31 26 37 1/8 2XL 32 28 37 1/8 3XL 33 30 38 1/8
-  Updated: 2026-10-20T14:23:57Z
+  Updated: 2026-11-20T15:16:50Z
   Vendor: Fortune Feimster
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FF_0000_163585_1_299251_d_c2e2544c-f2a9-4048-aa3a-8fc95aa4d0cc.png?v=1732742271
   - [Small](https://fortunefeimster.merchmadeeasy.com/products/crushing-it-hoodie?variant=41875609059401)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [Medium](https://fortunefeimster.merchmadeeasy.com/products/crushing-it-hoodie?variant=41875609092169)
     Availability: Not Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [Large](https://fortunefeimster.merchmadeeasy.com/products/crushing-it-hoodie?variant=41875609124937)
     Availability: Not Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [X-Large](https://fortunefeimster.merchmadeeasy.com/products/crushing-it-hoodie?variant=41875609157705)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [2X-Large](https://fortunefeimster.merchmadeeasy.com/products/crushing-it-hoodie?variant=41875609190473)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [3X-Large](https://fortunefeimster.merchmadeeasy.com/products/crushing-it-hoodie?variant=41875609223241)
     Availability: Available
-    Price: $65.00 USD
-- [Biscuit Time Tee](https://fortunefeimster.merchmadeeasy.com/products/biscuit-time-tee): 100% cotton t-shirt in light blue
-  Updated: 2026-10-08T08:14:07Z
-  Vendor: Fortune Feimster
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FF_0004_163563_1_299224_d.png?v=1732746091
-  - [Small](https://fortunefeimster.merchmadeeasy.com/products/biscuit-time-tee?variant=41875647332425)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [Medium](https://fortunefeimster.merchmadeeasy.com/products/biscuit-time-tee?variant=41875647365193)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [Large](https://fortunefeimster.merchmadeeasy.com/products/biscuit-time-tee?variant=41875647397961)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [X-Large](https://fortunefeimster.merchmadeeasy.com/products/biscuit-time-tee?variant=41875647430729)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [2X-Large](https://fortunefeimster.merchmadeeasy.com/products/biscuit-time-tee?variant=41875647463497)
-    Availability: Available
-    Price: $35.00 USD
-  - [3X-Large](https://fortunefeimster.merchmadeeasy.com/products/biscuit-time-tee?variant=41875647496265)
-    Availability: Not Available
-    Price: $35.00 USD
+    Price: $45.50 USD
 - [Racing Tee](https://fortunefeimster.merchmadeeasy.com/products/racing-tee): 100% cotton t-shirt in natural
-  Updated: 2026-10-08T08:13:34Z
+  Updated: 2026-11-21T01:02:15Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FF_0001_163570_1_299231_d.png?v=1732746091
   - [Small](https://fortunefeimster.merchmadeeasy.com/products/racing-tee?variant=41875647987785)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [Medium](https://fortunefeimster.merchmadeeasy.com/products/racing-tee?variant=41875648020553)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [Large](https://fortunefeimster.merchmadeeasy.com/products/racing-tee?variant=41875648053321)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [X-Large](https://fortunefeimster.merchmadeeasy.com/products/racing-tee?variant=41875648086089)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [2X-Large](https://fortunefeimster.merchmadeeasy.com/products/racing-tee?variant=41875648118857)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [3X-Large](https://fortunefeimster.merchmadeeasy.com/products/racing-tee?variant=41875648151625)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
 - [Crushed Ice Tumbler](https://fortunefeimster.merchmadeeasy.com/products/crushed-ice-tumbler): 16 oz double wall stainless steel tumbler with threaded snap-fit lid
-  Updated: 2026-10-05T13:03:01Z
+  Updated: 2026-11-21T01:02:17Z
   Vendor: Fortune Feimster
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FF_0002_163565_1_299226_d.png?v=1732746090
-  Price: $35.00 USD
+  Price: $24.50 USD
 - [Biscuits Hat](https://fortunefeimster.merchmadeeasy.com/products/biscuits-hat): 100% cotton, garment wash dad hat in charcoal grey
-  Updated: 2026-10-20T16:21:16Z
+  Updated: 2026-11-20T18:08:05Z
   Vendor: Fortune Feimster
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FF_Biscuits_Hat_Front.png?v=1743625296
-  Price: $35.00 USD
+  Price: $24.50 USD
 - [Takin' Care of Biscuits Hoodie](https://fortunefeimster.merchmadeeasy.com/products/takin-care-of-biscuits-hoodie): 50/50 cotton/poly fleece hoodie in heather navy Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/8 M 29 22 35 1/8 L 30 24 36 1/8 XL 31 26 37 1/8 2XL 32 28 37 1/8 3XL 33 30 38 1/8
-  Updated: 2026-11-14T19:28:51Z
+  Updated: 2026-11-21T03:54:26Z
   Vendor: Fortune Feimster
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FF_TCB_Hoodie.png?v=1743625432
   - [Small](https://fortunefeimster.merchmadeeasy.com/products/takin-care-of-biscuits-hoodie?variant=54347257774153)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [Medium](https://fortunefeimster.merchmadeeasy.com/products/takin-care-of-biscuits-hoodie?variant=54347257806921)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [Large](https://fortunefeimster.merchmadeeasy.com/products/takin-care-of-biscuits-hoodie?variant=54347257839689)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [X-Large](https://fortunefeimster.merchmadeeasy.com/products/takin-care-of-biscuits-hoodie?variant=54347257872457)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [2X-Large](https://fortunefeimster.merchmadeeasy.com/products/takin-care-of-biscuits-hoodie?variant=54347257905225)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [3X-Large](https://fortunefeimster.merchmadeeasy.com/products/takin-care-of-biscuits-hoodie?variant=54347257937993)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
 - [Neon Tour Tee - 2025](https://fortunefeimster.merchmadeeasy.com/products/neon-tee): 100% cotton t-shirt in black
-  Updated: 2026-10-21T11:08:47Z
+  Updated: 2026-11-20T00:46:16Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FF_TCB_Neon_Tee_Front.png?v=1743626029
   - [Small](https://fortunefeimster.merchmadeeasy.com/products/neon-tee?variant=54347264032841)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [Medium](https://fortunefeimster.merchmadeeasy.com/products/neon-tee?variant=54347264065609)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [Large](https://fortunefeimster.merchmadeeasy.com/products/neon-tee?variant=54347264098377)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [X-Large](https://fortunefeimster.merchmadeeasy.com/products/neon-tee?variant=54347264131145)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2X-Large](https://fortunefeimster.merchmadeeasy.com/products/neon-tee?variant=54347264163913)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [3X-Large](https://fortunefeimster.merchmadeeasy.com/products/neon-tee?variant=54347264196681)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [Gradient Tour Tee - 2025](https://fortunefeimster.merchmadeeasy.com/products/gradient-tour-tee): 65% polyester/35% ringspun cotton t-shirt in dark heather grey
-  Updated: 2026-10-08T08:10:39Z
+  Updated: 2026-11-20T13:58:46Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FF_TCB_Gradient_Tee_Front.png?v=1743626384
   - [Small](https://fortunefeimster.merchmadeeasy.com/products/gradient-tour-tee?variant=54347266457673)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [Medium](https://fortunefeimster.merchmadeeasy.com/products/gradient-tour-tee?variant=54347266490441)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [Large](https://fortunefeimster.merchmadeeasy.com/products/gradient-tour-tee?variant=54347266523209)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [X-Large](https://fortunefeimster.merchmadeeasy.com/products/gradient-tour-tee?variant=54347266555977)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2X-Large](https://fortunefeimster.merchmadeeasy.com/products/gradient-tour-tee?variant=54347266588745)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [3X-Large](https://fortunefeimster.merchmadeeasy.com/products/gradient-tour-tee?variant=54347266621513)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [Lesbian Swimsuit Tank - Navy](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-tank-navy): 100% cotton sleeveless t-shirt in navy Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 23 1/2 2XL 32 25 3XL 32 1/2 27
-  Updated: 2026-10-23T18:26:46Z
+  Updated: 2026-11-20T08:32:56Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFLesSwimsuitNavy.png?v=1781887190
   - [Small](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-tank-navy?variant=55752770650185)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [Medium](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-tank-navy?variant=55752770682953)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [Large](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-tank-navy?variant=55752770715721)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [X-Large](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-tank-navy?variant=55752770748489)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [2X-Large](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-tank-navy?variant=55752770781257)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [3X-Large](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-tank-navy?variant=55752770814025)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
 
 ## Collections
 
 - [Home page](https://fortunefeimster.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-12T12:10:27Z
+  Updated: 2026-11-22T12:06:05Z
   Total Products: 28
 - [Apparel](https://fortunefeimster.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-12T12:10:27Z
+  Updated: 2026-11-22T12:06:05Z
   Total Products: 20
 - [Accessories](https://fortunefeimster.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-14T12:07:37Z
+  Updated: 2026-11-21T12:07:35Z
   Total Products: 18
 - [All](https://fortunefeimster.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-14T12:07:37Z
+  Updated: 2026-11-22T12:06:05Z
   Total Products: 38
 - [Vintage Merch](https://fortunefeimster.merchmadeeasy.com/collections/old-merch)
-  Updated: 2026-11-14T12:07:37Z
+  Updated: 2026-11-19T14:57:36Z
   Total Products: 8
 - [](https://fortunefeimster.merchmadeeasy.com/collections/)
-  Updated: 2026-10-11T11:07:53Z
-  Total Products: 2
+  Updated: 2026-11-22T12:06:05Z
+  Total Products: 36
 - [Tees & Tanks](https://fortunefeimster.merchmadeeasy.com/collections/tees-tanks)
-  Updated: 2026-10-24T11:08:05Z
+  Updated: 2026-11-22T12:06:05Z
   Total Products: 16
 - [Ice Cream Collection](https://fortunefeimster.merchmadeeasy.com/collections/ice-cream-collection)
-  Updated: 2026-11-10T12:07:56Z
+  Updated: 2026-11-19T14:57:35Z
   Total Products: 5
 - [$40](https://fortunefeimster.merchmadeeasy.com/collections/40)
-  Updated: 2026-11-12T12:10:27Z
-  Total Products: 4
+  Updated: 2026-11-21T12:07:35Z
+  Total Products: 2
 - [$30](https://fortunefeimster.merchmadeeasy.com/collections/30)
-  Updated: 2026-10-23T11:12:34Z
-  Total Products: 7
+  Updated: 2026-11-19T14:58:05Z
+  Total Products: 2
 - [$20](https://fortunefeimster.merchmadeeasy.com/collections/20)
-  Updated: 2026-11-14T12:07:37Z
-  Total Products: 6
+  Updated: 2026-11-19T14:58:04Z
+  Total Products: 0
 - [$10](https://fortunefeimster.merchmadeeasy.com/collections/10)
-  Updated: 2026-10-06T19:40:31Z
-  Total Products: 3
+  Updated: 2026-11-20T12:08:13Z
+  Total Products: 9
 - [Crushing It Collection](https://fortunefeimster.merchmadeeasy.com/collections/crushing-it-collection)
-  Updated: 2026-10-21T11:09:44Z
+  Updated: 2026-11-21T12:07:35Z
   Total Products: 5
 - [$20.24](https://fortunefeimster.merchmadeeasy.com/collections/20-24)
   Updated: 2026-07-13T17:38:11Z
   Total Products: 0
 - [Takin' Care of Biscuits](https://fortunefeimster.merchmadeeasy.com/collections/takin-care-of-biscuits)
-  Updated: 2026-11-12T12:10:27Z
+  Updated: 2026-11-21T12:07:35Z
   Total Products: 7
 - [New Arrivals](https://fortunefeimster.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-11-14T12:07:37Z
+  Updated: 2026-11-22T12:06:05Z
   Total Products: 38
 - [Best Sellers](https://fortunefeimster.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-11-14T12:07:37Z
+  Updated: 2026-11-22T12:06:05Z
   Total Products: 38
 - [$5 Treats](https://fortunefeimster.merchmadeeasy.com/collections/5-bin)
-  Updated: 2026-10-06T19:40:31Z
+  Updated: 2026-11-19T14:57:36Z
   Total Products: 3
+- [EG All Products - DO NOT EDIT](https://fortunefeimster.merchmadeeasy.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu'elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
+  Updated: 2026-11-22T12:06:05Z
+  Total Products: 38
 
 ## Store Pages
 
