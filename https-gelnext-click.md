@@ -6,7 +6,7 @@
 - Timezone: Africa/Casablanca
 - Created At: 2026-06-20T20:18:48Z
 - Contact Email: gelnext1@gmail.com
-- Updated At: 2026-11-15T01:07:04.075Z
+- Updated At: 2026-11-23T00:53:22.377Z
 
 ## Products
 
@@ -142,8 +142,8 @@
   - [45](https://gelnext.click/products/asics-gel-kayano-17?variant=52379553104154)
     Availability: Available
     Price: 18 000,00 FCFA XAF
-- [Asics gel-kayano 14](https://gelnext.click/products/asics-gel-kayano-18)
-  Updated: 2026-08-04T01:17:25Z
+- [Asics Kayano 14 : confort et style rétro au quotidien](https://gelnext.click/products/asics-gel-kayano-18): Adoptez les Asics Kayano 14 : une sneaker au design rétro et sportif, pensée pour accompagner vos journées avec confort et compléter facilement vos tenues.
+  Updated: 2026-11-16T02:11:52Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -175,8 +175,8 @@
   - [45](https://gelnext.click/products/asics-gel-kayano-18?variant=52379566997786)
     Availability: Available
     Price: 18 000,00 FCFA XAF
-- [Asics gel-kayano 14](https://gelnext.click/products/asics-gel-kayano-19)
-  Updated: 2026-08-04T01:18:41Z
+- [asics kayano 14 : confort et style rétro au quotidien](https://gelnext.click/products/asics-gel-kayano-19): Découvrez les asics kayano 14 : un style running rétro, un amorti confortable et un maintien agréable pour accompagner vos journées actives.
+  Updated: 2026-11-16T02:12:39Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -208,8 +208,8 @@
   - [45](https://gelnext.click/products/asics-gel-kayano-19?variant=52379578990874)
     Availability: Available
     Price: 18 000,00 FCFA XAF
-- [Asics gel-kayano 14](https://gelnext.click/products/asics-gel-kayano-20)
-  Updated: 2026-08-04T01:19:57Z
+- [Asics Kayano 14 : baskets rétro confortables au quotidien](https://gelnext.click/products/asics-gel-kayano-20): Découvrez les Asics Kayano 14 : des sneakers au style rétro-running, pensées pour un confort agréable et des tenues urbaines faciles à composer.
+  Updated: 2026-11-16T02:13:19Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -241,8 +241,8 @@
   - [45](https://gelnext.click/products/asics-gel-kayano-20?variant=52379598913818)
     Availability: Available
     Price: 18 000,00 FCFA XAF
-- [Asics Gel-NYC](https://gelnext.click/products/asics-gel-nyc)
-  Updated: 2026-08-08T18:42:21Z
+- [asics gel nyc : confort et style rétro au quotidien](https://gelnext.click/products/asics-gel-nyc): Découvrez les asics gel nyc : une silhouette rétro inspirée du running, facile à porter et pensée pour accompagner vos journées avec style et confort.
+  Updated: 2026-11-16T02:17:40Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -274,8 +274,8 @@
   - [45](https://gelnext.click/products/asics-gel-nyc?variant=52379618279706)
     Availability: Available
     Price: 18 000,00 FCFA XAF
-- [Asics gel-NYC](https://gelnext.click/products/asics-gel-nyc-1)
-  Updated: 2026-08-04T01:22:51Z
+- [asics gel nyc : confort et style urbain au quotidien](https://gelnext.click/products/asics-gel-nyc-1): Découvrez les asics gel nyc : une sneaker au style running urbain, pensée pour offrir un confort agréable et accompagner vos tenues au quotidien.
+  Updated: 2026-11-16T02:19:01Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -307,8 +307,8 @@
   - [45](https://gelnext.click/products/asics-gel-nyc-1?variant=52379636007194)
     Availability: Available
     Price: 18 000,00 FCFA XAF
-- [Asics gel-NYC](https://gelnext.click/products/asics-gel-nyc-2)
-  Updated: 2026-08-08T18:42:22Z
+- [asics gel nyc : confort et style au quotidien | ASICS](https://gelnext.click/products/asics-gel-nyc-2): Découvrez les asics gel nyc : un design rétro revisité, la technologie GEL™ pour un amorti confortable et un style polyvalent, idéal au quotidien.
+  Updated: 2026-11-16T02:21:22Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -340,8 +340,8 @@
   - [45](https://gelnext.click/products/asics-gel-nyc-2?variant=52379685683482)
     Availability: Available
     Price: 18 000,00 FCFA XAF
-- [Asics gel-NYC](https://gelnext.click/products/asics-gel-nyc-3)
-  Updated: 2026-08-04T01:24:28Z
+- [asics gel nyc : sneaker urbaine et confort au quotidien](https://gelnext.click/products/asics-gel-nyc-3): Découvrez les asics gel nyc : une sneaker au style urbain inspiré du running, avec un amorti confortable pour vous accompagner au quotidien.
+  Updated: 2026-11-16T02:21:46Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -2735,10 +2735,10 @@
 ## Collections
 
 - [Asics gel-kayano 14](https://gelnext.click/collections/asics-gel-kayano-14): - GelNext
-  Updated: 2026-09-23T19:22:22Z
+  Updated: 2026-11-15T14:13:15Z
   Total Products: 7
 - [Asics gel-NYC](https://gelnext.click/collections/asics-gel-nyc): - GelNext
-  Updated: 2026-08-08T18:42:26Z
+  Updated: 2026-11-15T14:21:40Z
   Total Products: 5
 - [New balance](https://gelnext.click/collections/new-balance): - GelNext
   Updated: 2026-09-28T11:19:59Z
@@ -2750,7 +2750,7 @@
   Updated: 2026-10-30T11:19:18Z
   Total Products: 6
 - [Icone tendance](https://gelnext.click/collections/nouvelle-tendance): - GelNext
-  Updated: 2026-09-22T11:23:10Z
+  Updated: 2026-11-15T14:21:40Z
   Total Products: 13
 - [Spécial world cup](https://gelnext.click/collections/special-world-cup): - GelNext
   Updated: 2026-08-08T18:42:27Z
@@ -2762,7 +2762,7 @@
   Updated: 2026-09-20T11:24:05Z
   Total Products: 12
 - [Asics](https://gelnext.click/collections/asics): - GelNext
-  Updated: 2026-09-22T11:23:10Z
+  Updated: 2026-11-15T14:21:40Z
   Total Products: 12
 - [New balance](https://gelnext.click/collections/new-balance-1): - GelNext
   Updated: 2026-09-28T11:19:59Z
