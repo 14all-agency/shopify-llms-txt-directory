@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-11-11T17:29:16Z
 - Contact Email: info@lilatee.shop
-- Updated At: 2026-11-15T00:29:14.380Z
+- Updated At: 2026-11-23T00:27:53.837Z
 
 ## German description:
 
@@ -18,89 +18,89 @@ LILATEE ist eine Premium Teemarke aus Deutschland, inspiriert von der Eleganz un
 ## Products
 
 - [Spring Miracle: Blüten- und Malventee | LILATEE](https://lilatee.shop/products/spring-miracle-malventee): Blumiger, koffeinfreier Tee mit Orangenblüten, Malve, Damaszenerrose und Zitronenverbene. 10 Teebeutel, 70 g. Entdecke Spring Miracle.
-  Updated: 2026-11-08T13:50:05Z
+  Updated: 2026-11-22T15:37:56Z
   Vendor: LILATEE
   Product Type: Kräutertee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Spring_Miracle_LILA_TEE_Orangenblueten_Malvenblueten_Damaszenerrose_Produktverpackung_Frontansicht.jpg?v=1772548377
-  Price: 12,99 € EUR
+  Price: 9,00 € EUR
 - [Lady Moon: Fenchel-Kamille-Tee mit Quitte | LILATEE](https://lilatee.shop/products/lady-moon-kraeutertee-fenchel): Milder Kräutertee mit Quitte, Kamille, Fenchel und Apfel. Koffeinfrei, weich und leicht süßlich. Lady Moon mit 10 Teebeuteln und 100 g entdecken.
-  Updated: 2026-11-09T13:26:26Z
+  Updated: 2026-11-21T20:59:01Z
   Vendor: LILATEE
   Product Type: Kräutertee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Lady_Moon_Lila_Tee_Quitte_Kamille_Fenchel_Frauen_Tee_Produktverpackung_Frontansicht.jpg?v=1772548380
-  Price: 12,99 € EUR
+  Price: 9,00 € EUR
 - [Peace: Apfel-Kardamom-Tee, koffeinfrei | LILATEE](https://lilatee.shop/products/peace-fruechtetee-kardamom): Milder Apfel, warme Kardamomwürze und die Süße von Steviablättern: Entdecke Peace, den koffeinfreien Früchtetee. 10 Teebeutel, 100 g.
-  Updated: 2026-11-13T23:59:01Z
+  Updated: 2026-11-21T16:03:46Z
   Vendor: LILATEE
   Product Type: Früchtetee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Peace_Infusion_LILA_TEE_Apfel_Stevia_Kardamom_Produktverpackung_Frontansicht.jpg?v=1772548800
-  Price: 13,99 € EUR
+  Price: 9,00 € EUR
 - [Love Night: Schwarztee mit Pfirsich und Rose | LILATEE](https://lilatee.shop/products/love-night-tee-pfirsich-rose): Schwarztee mit weichem Pfirsichgeschmack und feiner Rosennote. Love Night enthält Koffein. 10 Teebeutel, 100 g. Jetzt bei LILATEE entdecken.
-  Updated: 2026-11-11T21:31:26Z
+  Updated: 2026-11-22T15:37:55Z
   Vendor: LILATEE
   Product Type: Schwarztee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Love_Night_LILA_TEE_Infusion_Schwarzer_Tee_Pfirsich_Rosenblueten_Produktverpackung_Frontansicht.jpg?v=1772548396
-  Price: 11,99 € EUR
+  Price: 8,00 € EUR
 - [Elysian Infusion: Schwarztee mit Minze und Carob | LILATEE](https://lilatee.shop/products/elysian-infusion-johannisbrot-minze-tee): Kräftiger Schwarztee trifft auf Minze, Johannisbrot und Apfel. Elysian Infusion enthält Koffein und schmeckt auch als Eistee. 10 Beutel, 100 g.
-  Updated: 2026-11-07T20:06:56Z
+  Updated: 2026-11-21T16:03:47Z
   Vendor: LILATEE
   Product Type: Schwarztee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Elysian_Infusion_LILA_TEE_Johannisbrot_Minze_Apfel_Schwarzer_Tee_Produktverpackung_Frontansicht.jpg?v=1772548370
-  Price: 13,99 € EUR
+  Price: 9,00 € EUR
 - [Green Menta: Minz-Zitronen-Tee, koffeinfrei | LILATEE](https://lilatee.shop/products/green-menta-minze-zitrone): Frische Minze, Zitrone und milder Apfel: Green Menta ist koffeinfrei und schmeckt warm oder als Eistee. 10 Teebeutel, 100 g. Jetzt entdecken.
-  Updated: 2026-11-08T13:50:06Z
+  Updated: 2026-11-21T16:03:47Z
   Vendor: LILATEE
   Product Type: Kräutertee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Green_Menta_LILA_TEE_Zitrone_Minze_Produktverpackung_Frontansicht.jpg?v=1772548387
-  Price: 12,99 € EUR
+  Price: 9,00 € EUR
 - [Creation: Früchtetee mit Hibiskus und Schwarztee | LILATEE](https://lilatee.shop/products/creation-hibiskustee-fruechte): Hibiskus, Kaki, Erdbeere, Ananas und Quitte treffen auf Schwarztee. Creation enthält Koffein und schmeckt auch als Eistee. 10 Teebeutel, 200 g.
-  Updated: 2026-10-30T11:30:52Z
+  Updated: 2026-11-21T16:03:47Z
   Vendor: LILATEE
   Product Type: Früchtetee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Creation_Tropical_Infusion_LILA_TEE_Hibiskus_Schwarzer_Tee_Produktverpackung_Frontansicht.jpg?v=1772548372
-  Price: 13,99 € EUR
+  Price: 9,00 € EUR
 - [Tee-Geschenkset mit 10 Sorten zum Probieren | LILATEE](https://lilatee.shop/products/lila-special-geschenk-hibiskus-tropischertee): Zehn LILATEE Sorten zum Kennenlernen oder Verschenken: von Kräutertee bis Safrantee. Mit und ohne Koffein. 10 Teebeutel, 107 g. Jetzt entdecken.
-  Updated: 2026-11-11T19:54:21Z
+  Updated: 2026-11-21T19:43:52Z
   Vendor: LILATEE
   Product Type: Tee-Geschenkset
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Lila_Special_-_10_Lila_Tee_Sorten_in_einem_Paket.jpg?v=1772548369
-  Price: 12,99 € EUR
+  Price: 10,00 € EUR
 - [Lemon Mix: Kräutertee mit Zitrone und Ingwer | LILATEE](https://lilatee.shop/products/lemon-mix-zitronen-ingwer-tee): Zitrone, Ingwer und Zitronengras für einen frischen, leicht würzigen Kräutertee. Lemon Mix ist koffeinfrei. 10 Teebeutel, 100 g. Jetzt entdecken.
-  Updated: 2026-11-09T13:26:26Z
+  Updated: 2026-11-21T16:03:48Z
   Vendor: LILATEE
   Product Type: Kräutertee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Lemon_Mix_Infusion_LILA_TEE_Zitrone_Ingwer_Tee_Produktverpackung_Frontansicht.jpg?v=1772548383
-  Price: 12,99 € EUR
+  Price: 9,00 € EUR
 - [Paradise: Safrantee mit Damaszenerrose | LILATEE](https://lilatee.shop/products/paradis-infusion-safran-rose-apfel): Safran, Damaszenerrose und milder Apfel: Entdecke Paradise, einen koffeinfreien Tee mit floralem Aroma. Warm oder als Eistee. 10 Beutel, 100 g.
-  Updated: 2026-11-11T21:31:21Z
+  Updated: 2026-11-21T20:59:00Z
   Vendor: LILATEE
   Product Type: Safran Tee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Paradis_Infusion_Lila_Tee_Damaszenerrose_Safran_Produktverpackung_Frontansicht.jpg?v=1772548805
-  Price: 14,99 € EUR
+  Price: 13,50 € EUR
 - [Golden Smile: Grüner Tee mit Birne und Rose | LILATEE](https://lilatee.shop/products/golden-smile-gruener-tee-birne-rose): Grüner Tee mit Birne, Rosenblüten und der Süße von Steviablättern. Golden Smile enthält Koffein. 10 Teebeutel, 100 g. Bei LILATEE entdecken.
-  Updated: 2026-10-30T11:30:51Z
+  Updated: 2026-11-22T15:37:55Z
   Vendor: LILATEE
   Product Type: Grüner Tee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Golden_Smile_Lila_Tee_Gruener_Tee_Produktverpackung_Frontansicht.jpg?v=1772548390
-  Price: 11,99 € EUR
+  Price: 8,00 € EUR
 - [Royal: Safrantee mit Apfel und Kardamom | LILATEE](https://lilatee.shop/products/royal-safran-infusion-tee-safran): Safran, Apfel, Kardamom und Steviablätter: Royal ist ein koffeinfreier Tee mit fruchtiger Würze. Warm oder als Eistee genießen. 10 Beutel, 100 g.
-  Updated: 2026-11-14T00:02:26Z
+  Updated: 2026-11-21T20:59:02Z
   Vendor: LILATEE
   Product Type: Safran Tee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Royal_Safran_Infusion_Lila_Tee_Produktverpackung_Frontansicht.jpg?v=1772548374
-  Price: 15,99 € EUR
+  Price: 14,50 € EUR
 - [LILATEE Geschenkgutschein – Teemomente verschenken](https://lilatee.shop/products/lilatee-geschenkgutschein): Verschenke die Wahl aus der LILATEE Teewelt: digitaler Geschenkgutschein im Wert von 15, 25, 50 oder 100 Euro. Online einlösbar.
   Updated: 2026-10-01T15:18:20Z
   Vendor: LILATEE
@@ -120,71 +120,71 @@ LILATEE ist eine Premium Teemarke aus Deutschland, inspiriert von der Eleganz un
     Availability: Available
     Price: 100,00 € EUR
 - [Deep Calm](https://lilatee.shop/products/deep-calm): Dein Teeritual für einen ruhigen Abend Den Tag ausklingen lassen, eine Kanne aufgießen und dir Zeit für deine Lieblingstasse nehmen: Deep Calm begleitet deine persönliche Abendroutine mit drei koffeinfreien Mischungen. Milde Früchte, warme Gewürznoten und zarte Blüten sorgen für Abwechslung – ganz ohne Schwarz- oder Grüntee. Das Bundle ist für alle gedacht, die Kräuter- und Früchtetees lieben und ihren Abend gern mit einem kleinen Genussmoment gestalten. Diese drei Sorten sind enthalten 1 × Lady Moon: Fenchel und Kamille treffen auf Quitte und Apfel – mild, weich und sanft fruchtig. 1 × Peace: Apfel, Kardamom und Steviablätter verbinden süßliche Frucht mit warmer Würze. 1 × Spring Miracle: Orangenblüten, Malve und Damaszenerrose, ergänzt durch die feine Zitrusnote der Zitronenverbene. Auf einen Blick 3 Packungen mit insgesamt 30 Teebeuteln · 270 g Alle drei Sorten sind koffeinfrei. Für gemütliche Abende und Liebhaber milder Kräuter-, Früchte- und Blütentees. Dein Genussmoment: Wähle je nach Stimmung eine Sorte und bereite sie nach den Angaben auf der jeweiligen Packung zu.
-  Updated: 2026-11-09T13:26:38Z
+  Updated: 2026-11-22T15:38:06Z
   Vendor: LILATEE
   Product Type: Früchtetee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/LilateeDeepCalmsTeaBundle.png?v=1793809328
-  Price: 29,99 € EUR
+  Price: 20,00 € EUR
 - [Natural Energy](https://lilatee.shop/products/natural-energy): Drei koffeinhaltige Tees für deinen Tag Vom ersten Tee am Morgen bis zur Pause zwischen zwei Terminen: Natural Energy bringt drei unterschiedliche Geschmacksrichtungen in deinen Alltag. Fruchtiger Hibiskus mit Schwarztee, milder Grüntee mit Birne und ein kräftiger Schwarztee mit Minze machen das Bundle zu einer abwechslungsreichen Auswahl für aktive Menschen und Berufstätige. Ob im Büro, zu Hause oder zum gemeinsamen Frühstück – hier findest du für deine Teepause sowohl frische als auch vollmundige Noten. Diese drei Sorten sind enthalten 1 × Creation: Hibiskus, Kaki, Erdbeere, Ananas und Quitte treffen auf schwarzen Tee – fruchtig und angenehm säuerlich. 1 × Golden Smile: Grüner Tee mit Birne, Rosenblüten und Steviablättern – mild, blumig und süßlich. 1 × Elysian Infusion: Schwarzer Tee mit Johannisbrot, Minze und Apfel – vollmundig, frisch und mit einer weichen, an Karamell erinnernden Note. Auf einen Blick 3 Packungen mit insgesamt 30 Teebeuteln · 400 g Alle drei Sorten enthalten Koffein. Für den Morgen, die Büropause und alle, die Grün- und Schwarztee neu entdecken möchten. Serviertipp: Genieße die Sorten warm oder nach dem Aufgießen abgekühlt als Eistee. Beachte die Zubereitung auf der jeweiligen Packung.
-  Updated: 2026-11-07T20:07:06Z
+  Updated: 2026-11-22T15:38:05Z
   Vendor: LILATEE
   Product Type: Grüner Tee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/LILATEENaturalEnergyTeaBundle_2_91092091-8f36-4d43-ae2e-6a856ca26042.png?v=1793809384
-  Price: 32,99 € EUR
-- [Persian Treasures](https://lilatee.shop/products/persian-treasures): Ein Geschenk mit dem Geschmack persischer Teekultur Duftende Rosen, charakteristischer Safran und warme Kardamomnoten: Persian Treasures vereint drei Teekompositionen aus dem Iran, die zum Entdecken und Teilen einladen. Das Zusammenspiel aus Frucht, Blüten und Gewürzen macht dieses Bundle zu einer besonderen Geschenkidee für Menschen, die aromatische Tees und die iranische Teekultur schätzen. Von weichem Pfirsich auf Schwarzteebasis bis zu zwei koffeinfreien Safranmischungen bietet jede Sorte einen eigenen Zugang zu dieser Auswahl. Diese drei Sorten sind enthalten 1 × Love Night: Schwarzer Tee mit Pfirsich und roter Rose – fruchtig, blumig und leicht herb. 1 × Paradise: Safran, Damaszenerrose und Apfel – ein feines Zusammenspiel aus Blütenduft und milder Frucht. 1 × Royal: Safran und Kardamom auf einer Apfelbasis, abgerundet mit Steviablättern – warm, würzig und süßlich. Auf einen Blick 3 Packungen mit insgesamt 30 Teebeuteln · 300 g Love Night enthält Koffein; Paradise und Royal sind koffeinfrei. Eine edle Auswahl zum Verschenken, für Gäste oder für deine eigene Teesammlung. Genusstipp: Serviere die Sorten nacheinander und entdecke, wie unterschiedlich Rose und Safran in der Tasse wirken. Zubereitung nach den Angaben auf der jeweiligen Packung.
-  Updated: 2026-11-11T21:31:35Z
+  Price: 23,00 € EUR
+- [Treasures](https://lilatee.shop/products/persian-treasures): Ein Geschenk mit dem Geschmack persischer Teekultur Duftende Rosen, charakteristischer Safran und warme Kardamomnoten: Persian Treasures vereint drei Teekompositionen aus dem Iran, die zum Entdecken und Teilen einladen. Das Zusammenspiel aus Frucht, Blüten und Gewürzen macht dieses Bundle zu einer besonderen Geschenkidee für Menschen, die aromatische Tees und die iranische Teekultur schätzen. Von weichem Pfirsich auf Schwarzteebasis bis zu zwei koffeinfreien Safranmischungen bietet jede Sorte einen eigenen Zugang zu dieser Auswahl. Diese drei Sorten sind enthalten 1 × Love Night: Schwarzer Tee mit Pfirsich und roter Rose – fruchtig, blumig und leicht herb. 1 × Paradise: Safran, Damaszenerrose und Apfel – ein feines Zusammenspiel aus Blütenduft und milder Frucht. 1 × Royal: Safran und Kardamom auf einer Apfelbasis, abgerundet mit Steviablättern – warm, würzig und süßlich. Auf einen Blick 3 Packungen mit insgesamt 30 Teebeuteln · 300 g Love Night enthält Koffein; Paradise und Royal sind koffeinfrei. Eine edle Auswahl zum Verschenken, für Gäste oder für deine eigene Teesammlung. Genusstipp: Serviere die Sorten nacheinander und entdecke, wie unterschiedlich Rose und Safran in der Tasse wirken. Zubereitung nach den Angaben auf der jeweiligen Packung.
+  Updated: 2026-11-22T15:38:15Z
   Vendor: LILATEE
   Product Type: Safran Tee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/LilateePersianTreasuresTeaBundle.png?v=1793809562
-  Price: 39,99 € EUR
+  Price: 33,00 € EUR
 - [Golden Moments](https://lilatee.shop/products/golden-moments): Feine Aromen für besondere Teemomente Golden Moments ist eine Einladung, Tee bewusst zu genießen. Milde Birne und Rosenblüten, klare Zitrusnoten mit Ingwer sowie duftender Safran mit Damaszenerrose bilden eine Auswahl voller feiner Kontraste. Drei unterschiedliche Kompositionen für alle, die sich im Alltag gern einen besonderen Genuss gönnen. Ob als Begleitung zu einem ruhigen Nachmittag oder als Teeauswahl für Gäste: Dieses Bundle verbindet zarte Frucht- und Blütennoten mit frischen, würzigen Akzenten. Diese drei Sorten sind enthalten 1 × Golden Smile: Grüner Tee mit Birne, Rosenblüten und Steviablättern – mild und blumig mit süßlichem Ausklang. 1 × Lemon Mix: Zitrone, Zitronengras und Ingwer – frisch, zitronig und mit leichter Schärfe. 1 × Paradise: Apfel, Damaszenerrose und Safran – weich, fruchtig und fein duftend. Auf einen Blick 3 Packungen mit insgesamt 30 Teebeuteln · 300 g Golden Smile enthält Koffein; Lemon Mix und Paradise sind koffeinfrei. Für Liebhaber feiner Aromen und besonderer Genussrituale. Dein Genussmoment: Nimm dir Zeit für den Duft jeder Sorte und finde deinen Favoriten. Beachte die Zubereitung auf der jeweiligen Packung.
-  Updated: 2026-11-11T21:31:31Z
+  Updated: 2026-11-22T15:38:05Z
   Vendor: LILATEE
   Product Type: Kräutertee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/GoldenMomentsTeaBundle.png?v=1793809639
-  Price: 35,99 € EUR
+  Price: 28,00 € EUR
 - [Pure Harmony](https://lilatee.shop/products/pure-harmony): Minze, Zitrus und Blüten für deine Auszeit Pure Harmony bringt die Vielfalt von Kräutern, Früchten und Blüten in deine Tasse. Frische Minze, Zitrone mit Ingwer und sanfte Blütennoten bieten drei unterschiedliche Geschmacksrichtungen für deine persönliche Auszeit. Alle enthaltenen Sorten sind koffeinfrei. Für alle, die bewusste Pausen und kleine Wellnessrituale mögen, ist dieses Bundle eine abwechslungsreiche Teeauswahl: mal minzig und fruchtig, mal zitronig und würzig, mal zart und floral. Diese drei Sorten sind enthalten 1 × Green Menta: Minze, Zitrone und Apfel – frisch, klar und mild fruchtig. 1 × Lemon Mix: Zitrone und Zitronengras mit Ingwer – zitronig mit einer warmen, leicht scharfen Note. 1 × Spring Miracle: Orangenblüten, Malve, Damaszenerrose und Zitronenverbene – sanft, blumig und fein zitrisch. Auf einen Blick 3 Packungen mit insgesamt 30 Teebeuteln · 270 g Alle drei Sorten sind koffeinfrei. Für Freunde frischer Kräutertees, floraler Aromen und bewusster Genussmomente. Serviertipp: Die Mischungen schmecken warm oder nach dem Aufgießen abgekühlt als Eistee. Bereite jede Sorte nach den Angaben auf ihrer Packung zu.
-  Updated: 2026-11-09T13:26:37Z
+  Updated: 2026-11-22T15:38:03Z
   Vendor: LILATEE
   Product Type: Früchtetee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/PureHarmonyTeaBundle_1.png?v=1793809703
-  Price: 34,99 € EUR
+  Price: 24,00 € EUR
 - [Royal Selection](https://lilatee.shop/products/royal-selection): Drei charaktervolle Tees für deine Entdeckungsreise Du suchst Tees, die sich geschmacklich deutlich voneinander unterscheiden? Royal Selection verbindet fruchtigen Hibiskus auf Schwarzteebasis, vollmundigen Schwarztee mit Minze und eine koffeinfreie Safranmischung mit Kardamom. Eine Auswahl für neugierige Teeliebhaber, die ungewöhnliche Kombinationen ausprobieren möchten. Von lebendiger Fruchtsäure über frische Minze und malzige Tiefe bis zu warmer Gewürznote: Jede Tasse zeigt einen anderen Charakter. Diese drei Sorten sind enthalten 1 × Creation: Hibiskus, Kaki, Erdbeere, Ananas und Quitte mit schwarzem Tee – fruchtig, exotisch und säuerlich. 1 × Elysian Infusion: Schwarzer Tee, Johannisbrot, Minze und Apfel – kräftig und frisch, mit einer süßlichen Note, die an Kakao und Karamell erinnert. 1 × Royal: Apfel, Kardamom, Safran und Steviablätter – warm, würzig und weich im Ausklang. Auf einen Blick 3 Packungen mit insgesamt 30 Teebeuteln · 400 g Creation und Elysian Infusion enthalten Koffein; Royal ist koffeinfrei. Für Entdecker, Fans besonderer Teemischungen und gemeinsame Teeverkostungen. Genusstipp: Probiere die drei Sorten an verschiedenen Tagen oder teile eine kleine Verkostung mit Freunden. Beachte die jeweilige Zubereitung auf der Packung.
-  Updated: 2026-11-11T21:31:37Z
+  Updated: 2026-11-21T20:59:15Z
   Vendor: LILATEE
   Product Type: Safran Tee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/LilateeRoyalSelectionTeaBundle.png?v=1793809867
-  Price: 39,99 € EUR
+  Price: 31,00 € EUR
 - [Lady’s Ritual](https://lilatee.shop/products/lady-s-ritual): Deine kleine Auszeit – Tasse für Tasse Eine duftende Kanne Tee, ein gutes Buch oder Zeit mit deinen Lieblingsmenschen: Lady’s Ritual macht aus einer alltäglichen Pause einen besonderen Genussmoment. Drei koffeinfreie Mischungen bringen Abwechslung in dein Teeritual – von frischer Zitrone und Ingwer über feinen Safran und Rose bis zu mildem Fenchel mit Kamille. Diese drei Sorten sind enthalten 1 × Lemon Mix: Zitrone, Zitronengras und Ingwer – frisch und zitronig, mit einer angenehm würzigen Note. 1 × Paradise: Apfel, Damaszenerrose und Safran – mild fruchtig, blumig und fein duftend. 1 × Lady Moon: Quitte, Kamille, Fenchel und Apfel – weich, mild und leicht süßlich. Für deinen Moment Genieße die frischen Zitrusnoten am Nachmittag, serviere Paradise zu Gebäck mit Gästen oder lass den Abend mit einer Tasse Lady Moon ausklingen. Alle drei Sorten sind koffeinfrei und passen auch in deine persönliche Abendroutine. Auf einen Blick Drei Packungen mit unterschiedlichen Aromen: zitronig, floral und mild würzig. Koffeinfrei · Vegan · 100 % natürliche Zutaten. Ohne künstliche Aromen, Farbstoffe und Konservierungsstoffe. Eine liebevolle Geschenkidee: Zum Geburtstag, zum Muttertag, als Dankeschön oder als Mitbringsel für eine Einladung – für Menschen, die duftende Tees und kleine Auszeiten schätzen. Oder gönne dir selbst eine neue Auswahl für deine Lieblingstasse. Zubereitung: Bereite jede Sorte nach den Angaben auf ihrer Packung zu. Für eine gemeinsame Teepause lässt sich eine ganze Kanne aufgießen und teilen.
-  Updated: 2026-11-11T21:31:35Z
+  Updated: 2026-11-21T20:59:11Z
   Vendor: LILATEE
   Product Type: Kräutertee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/ExklusiveLILATEETee-Ritual-Box.png?v=1793890727
-  Price: 34,99 € EUR
+  Price: 27,00 € EUR
 
 ## Collections
 
 - [Gentle Dreams - Koffeinfreie Abendtees](https://lilatee.shop/collections/gentle-dreams-abendtee): Gentle Dreams von LILATEE vereint Lady Moon und Spring Miracle: koffeinfreie Abendtees mit Kräutern, Blüten und feinen Fruchtnoten.
-  Updated: 2026-11-10T12:25:06Z
+  Updated: 2026-11-22T12:27:58Z
   Total Products: 2
 - [Clear Focus - Tee für klare Pausen](https://lilatee.shop/collections/clear-focus-tee-klare-pausen): Clear Focus von LILATEE vereint Love Night, Golden Smile und Elysian Infusion: Schwarztee und Grüntee mit natürlichem Koffein.
-  Updated: 2026-11-12T12:25:49Z
+  Updated: 2026-11-22T12:27:58Z
   Total Products: 3
 - [Pure Energy - Erfrischungstees](https://lilatee.shop/collections/pure-energy-belebende-tees): Pure Energy von LILATEE vereint Creation, Green Menta und Lemon Mix: frische Kräutertee und Früchtetee Mischungen.
-  Updated: 2026-11-10T12:25:06Z
+  Updated: 2026-11-21T16:03:49Z
   Total Products: 3
 - [Deep Calm - Tee für ruhige Momente](https://lilatee.shop/collections/deep-calm-entspannungstee): Deep Calm von LILATEE vereint Royal, Paradise und Peace: koffeinfreie Safran Tee und Früchtetee Mischungen für ruhige Teemomente.
-  Updated: 2026-11-12T12:25:49Z
+  Updated: 2026-11-22T12:27:58Z
   Total Products: 3
 - [LILATEE Tee-Geschenke](https://lilatee.shop/collections/lilatee-tee-geschenke): Entdecken Sie hochwertige Tee Geschenkideen von LILATEE: exklusives Tee Geschenkset, Safran Tee, Schwarztee und Früchtetee, inspiriert von iranischer Teekultur.
-  Updated: 2026-11-12T12:25:49Z
+  Updated: 2026-11-22T12:27:58Z
   Total Products: 6
 
 ## Blogs
