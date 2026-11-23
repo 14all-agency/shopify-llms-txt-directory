@@ -6,93 +6,93 @@
 - Timezone: America/Chicago
 - Created At: 2025-09-16T19:14:07Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-15T01:09:02.485Z
+- Updated At: 2026-11-23T01:19:00.686Z
 
 ## Products
 
 - [Photo Tee](https://sofiacamara.merchmadeeasy.com/products/photo-tee): Sofia Camara Photo Tee in white with front print only. 100% ring-spun heavyweight cotton Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 33 26
-  Updated: 2026-11-03T18:57:21Z
+  Updated: 2026-11-21T10:21:15Z
   Vendor: Sofia Camara Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/6320/6644/files/SOFIAPHOTOTEE_6662d0b3-5cd0-4f4c-94b9-8217bbadf5f9.png?v=1759939697
   - [S](https://sofiacamara.merchmadeeasy.com/products/photo-tee?variant=46975453495540)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [M](https://sofiacamara.merchmadeeasy.com/products/photo-tee?variant=46975453528308)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [L](https://sofiacamara.merchmadeeasy.com/products/photo-tee?variant=46975453561076)
     Availability: Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [XL](https://sofiacamara.merchmadeeasy.com/products/photo-tee?variant=46975453593844)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $24.50 USD
   - [2XL](https://sofiacamara.merchmadeeasy.com/products/photo-tee?variant=46975453626612)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $24.50 USD
 - [It's Complicated Hat](https://sofiacamara.merchmadeeasy.com/products/logo-hat): Sofia Camara It's Complicated two tone Hat in white/black. Snapback closure / one size fits most
-  Updated: 2026-11-01T02:38:03Z
+  Updated: 2026-11-17T19:07:35Z
   Vendor: Sofia Camara Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/6320/6644/files/SOFIACOMPLICATEDHAT.png?v=1759939839
-  Price: $35.00 USD
+  Price: $24.50 USD
 - [SC Hoodie](https://sofiacamara.merchmadeeasy.com/products/sc-hoodie): Sofia Camara Initials Hoodie in black with front and back print. 80/20 ring-spun cotton/polyester 3-end fleece with 100% cotton face yarns on solid color recycled polyester from plastic bottles Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 1/2 23 1/4 36 M 28 1/2 24 1/2 37 L 29 1/2 25 1/2 38 XL 30 1/2 26 3/4 39 2XL 32 28 40
-  Updated: 2026-11-03T18:57:17Z
+  Updated: 2026-11-20T15:12:12Z
   Vendor: Sofia Camara Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/6320/6644/files/SOFIASCHOODIE.png?v=1759950835
   - [S](https://sofiacamara.merchmadeeasy.com/products/sc-hoodie?variant=47003659108596)
     Availability: Available
-    Price: $70.00 USD
+    Price: $49.00 USD
   - [M](https://sofiacamara.merchmadeeasy.com/products/sc-hoodie?variant=47003659141364)
-    Availability: Available
-    Price: $70.00 USD
+    Availability: Not Available
+    Price: $49.00 USD
   - [L](https://sofiacamara.merchmadeeasy.com/products/sc-hoodie?variant=47003659174132)
     Availability: Available
-    Price: $70.00 USD
+    Price: $49.00 USD
   - [XL](https://sofiacamara.merchmadeeasy.com/products/sc-hoodie?variant=47003659206900)
     Availability: Available
-    Price: $70.00 USD
+    Price: $49.00 USD
   - [2XL](https://sofiacamara.merchmadeeasy.com/products/sc-hoodie?variant=47003659239668)
     Availability: Not Available
-    Price: $70.00 USD
+    Price: $49.00 USD
 - [The Healing Hearts Club Tote](https://sofiacamara.merchmadeeasy.com/products/the-healing-hearts-club-tote): The Healing Hearts Club Tote in natural with front and back print.
-  Updated: 2026-10-26T15:35:56Z
+  Updated: 2026-11-17T15:00:07Z
   Vendor: Sofia Camara Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/6320/6644/files/SCTOTE-2.png?v=1761753420
-  Price: $25.00 USD
+  Price: $17.50 USD
 - [Healing Hearts Poster (SIGNED)](https://sofiacamara.merchmadeeasy.com/products/healing-hearts-poster-signed): Sofia Camara Healing Hearts Tour Poster! 11x17
-  Updated: 2026-11-12T19:39:03Z
+  Updated: 2026-11-17T19:07:45Z
   Vendor: Sofia Camara Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/6320/6644/files/SCPOSTER.png?v=1763679418
-  Price: $20.00 USD
+  Price: $14.00 USD
 
 ## Collections
 
 - [Home page](https://sofiacamara.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-04T12:20:23Z
+  Updated: 2026-11-21T12:21:03Z
   Total Products: 5
 - [Apparel](https://sofiacamara.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-04T12:20:23Z
+  Updated: 2026-11-21T12:21:03Z
   Total Products: 2
 - [Accessories](https://sofiacamara.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-01T12:22:50Z
+  Updated: 2026-11-18T12:19:13Z
   Total Products: 3
 - [Hats](https://sofiacamara.merchmadeeasy.com/collections/hats)
-  Updated: 2026-11-01T12:22:50Z
+  Updated: 2026-11-18T12:19:13Z
   Total Products: 1
 - [Music](https://sofiacamara.merchmadeeasy.com/collections/music)
   Updated: 2026-08-05T20:01:12Z
   Total Products: 0
 - [All](https://sofiacamara.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-04T12:20:23Z
+  Updated: 2026-11-21T12:21:03Z
   Total Products: 5
 
 ## Store Pages
