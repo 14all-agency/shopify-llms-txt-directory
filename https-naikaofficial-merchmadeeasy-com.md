@@ -6,138 +6,138 @@
 - Timezone: America/Chicago
 - Created At: 2026-01-21T20:12:00Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-16T00:16:00.254Z
+- Updated At: 2026-11-23T00:20:19.072Z
 
 ## Products
 
 - [ECLESIA Standard Vinyl](https://naikaofficial.merchmadeeasy.com/products/eclesia-standard-vinyl): First vinyl pressing of Naïka’s debut album ECLESIA Pressed on standard black vinyl and accompanied by inner lyric sheets. SIDE A WELCOME TO ECLESIA BLOOM RITUAL MATADOR ONE TRACK MIND BARELY BARELY F.I.S.H. SIDE B SOLEIL WHAT A DAY BLESSINGS MEMORY ON ME ALL MY LIFE MESSAGE IN A BOTTLE
-  Updated: 2026-11-12T21:41:40Z
+  Updated: 2026-11-20T20:39:06Z
   Vendor: Naika
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Cody-Mockups-Portraits_0002_ECLESIA-Vinyl-Black-Front.png?v=1775487032
-  Price: $39.98 USD
+  Price: $31.98 USD
 - [ECLESIA Emerald Vinyl](https://naikaofficial.merchmadeeasy.com/products/eclesia-emerald-vinyl): Naïka’s debut album ECLESIA Pressed on Emerald marbled vinyl and accompanied by inner lyric sheets. SIDE A WELCOME TO ECLESIA BLOOM RITUAL MATADOR ONE TRACK MIND BARELY BARELY F.I.S.H. SIDE B SOLEIL WHAT A DAY BLESSINGS MEMORY ON ME ALL MY LIFE MESSAGE IN A BOTTLE As each vinyl pressing is unique, please note that there may be slight variations in color from the product mock-up.
-  Updated: 2026-11-13T21:33:58Z
+  Updated: 2026-11-21T11:30:56Z
   Vendor: Naika
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Naika-Vinyl-Main-Mockup.png?v=1781818904
-  Price: $49.98 USD
+  Price: $39.98 USD
 - [Signed Print](https://naikaofficial.merchmadeeasy.com/products/eclesia-vinyl-signed): 12X12" COVER ART POSTER SIGNED BY NAÏKA
-  Updated: 2026-11-13T21:33:55Z
+  Updated: 2026-11-21T11:30:56Z
   Vendor: Naika
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Vinyl-Jacket-FrontSIGNED_6cba8930-f25c-4b80-bc2b-8a6eb5008bf7.png?v=1770068568
   Price: $30.00 USD
 - [ECLESIA Tee](https://naikaofficial.merchmadeeasy.com/products/eclesia-tee): Vintage-style Naïka ‘Eclesia’ tee featuring a bold back graphic with sun, palm trees, florals and flamingo. Soft, premium cotton for everyday wear.
-  Updated: 2026-11-12T21:41:40Z
+  Updated: 2026-11-20T06:00:09Z
   Vendor: Naika
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Cody-Mockups-Portraits_0006_Eclesia-Tee-Back.png?v=1775487004
   - [S](https://naikaofficial.merchmadeeasy.com/products/eclesia-tee?variant=47011459727538)
     Availability: Available
-    Price: $35.00 USD
+    Price: $28.00 USD
   - [M](https://naikaofficial.merchmadeeasy.com/products/eclesia-tee?variant=47011459760306)
     Availability: Available
-    Price: $35.00 USD
+    Price: $28.00 USD
   - [L](https://naikaofficial.merchmadeeasy.com/products/eclesia-tee?variant=47011459793074)
     Availability: Available
-    Price: $35.00 USD
+    Price: $28.00 USD
   - [XL](https://naikaofficial.merchmadeeasy.com/products/eclesia-tee?variant=47011459825842)
     Availability: Available
-    Price: $35.00 USD
+    Price: $28.00 USD
   - [2XL](https://naikaofficial.merchmadeeasy.com/products/eclesia-tee?variant=47011459858610)
     Availability: Available
-    Price: $35.00 USD
+    Price: $28.00 USD
 - [ZOBODOBODO Tank](https://naikaofficial.merchmadeeasy.com/products/zobodobodo-tank): ZOBODOBODO on a 100% cotton tank in black with Noula on the back neck
-  Updated: 2026-11-12T21:41:40Z
+  Updated: 2026-11-21T23:12:07Z
   Vendor: Naika
   Product Type: Tank
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Photoshoot_0004_NaikaBlackTank.jpg?v=1777561413
   - [XS](https://naikaofficial.merchmadeeasy.com/products/zobodobodo-tank?variant=47152081240242)
     Availability: Available
-    Price: $45.00 USD
+    Price: $36.00 USD
   - [S](https://naikaofficial.merchmadeeasy.com/products/zobodobodo-tank?variant=47081266413746)
     Availability: Available
-    Price: $45.00 USD
+    Price: $36.00 USD
   - [M](https://naikaofficial.merchmadeeasy.com/products/zobodobodo-tank?variant=47081266446514)
     Availability: Available
-    Price: $45.00 USD
+    Price: $36.00 USD
   - [L](https://naikaofficial.merchmadeeasy.com/products/zobodobodo-tank?variant=47081266479282)
     Availability: Available
-    Price: $45.00 USD
+    Price: $36.00 USD
   - [XL](https://naikaofficial.merchmadeeasy.com/products/zobodobodo-tank?variant=47081266512050)
     Availability: Available
-    Price: $45.00 USD
+    Price: $36.00 USD
 - [Noula Tank](https://naikaofficial.merchmadeeasy.com/products/noula-tank): Noula flower on a 100% cotton tank in white with Naika logo on the back neck
-  Updated: 2026-11-12T21:41:40Z
+  Updated: 2026-11-21T23:12:06Z
   Vendor: Naika
   Product Type: Tank
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Noula-Tank-Front.png?v=1771517845
   - [XS](https://naikaofficial.merchmadeeasy.com/products/noula-tank?variant=47152080552114)
     Availability: Available
-    Price: $45.00 USD
+    Price: $36.00 USD
   - [S](https://naikaofficial.merchmadeeasy.com/products/noula-tank?variant=47081273295026)
     Availability: Not Available
-    Price: $45.00 USD
+    Price: $36.00 USD
   - [M](https://naikaofficial.merchmadeeasy.com/products/noula-tank?variant=47081273327794)
     Availability: Not Available
-    Price: $45.00 USD
+    Price: $36.00 USD
   - [L](https://naikaofficial.merchmadeeasy.com/products/noula-tank?variant=47081273360562)
     Availability: Available
-    Price: $45.00 USD
+    Price: $36.00 USD
   - [XL](https://naikaofficial.merchmadeeasy.com/products/noula-tank?variant=47081273393330)
     Availability: Available
-    Price: $45.00 USD
+    Price: $36.00 USD
 - [ECLESIA Tote](https://naikaofficial.merchmadeeasy.com/products/eclesia-tote): Jumbo tote bag with vintage inspired, tropical ECLESIA graphic on the front
-  Updated: 2026-11-12T21:41:39Z
+  Updated: 2026-11-20T06:00:11Z
   Vendor: Naika
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Photoshoot_0005_NaikaToteandTee_a71d7d64-7b45-46e0-8db5-308b900e7357.jpg?v=1779982535
-  Price: $45.00 USD
+  Price: $36.00 USD
 - [Naika Nation Hoodie](https://naikaofficial.merchmadeeasy.com/products/naika-nation-hoodie): Classic, understated hoodie designed for Naika Nation. Unisex style in black.
-  Updated: 2026-11-12T21:41:39Z
+  Updated: 2026-11-20T22:35:26Z
   Vendor: Naika
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Eclesia-Hoodie-Front.png?v=1771518323
   - [S](https://naikaofficial.merchmadeeasy.com/products/naika-nation-hoodie?variant=47081302524082)
     Availability: Available
-    Price: $65.00 USD
+    Price: $52.00 USD
   - [M](https://naikaofficial.merchmadeeasy.com/products/naika-nation-hoodie?variant=47081302556850)
     Availability: Not Available
-    Price: $65.00 USD
+    Price: $52.00 USD
   - [L](https://naikaofficial.merchmadeeasy.com/products/naika-nation-hoodie?variant=47081302589618)
     Availability: Not Available
-    Price: $65.00 USD
+    Price: $52.00 USD
   - [XL](https://naikaofficial.merchmadeeasy.com/products/naika-nation-hoodie?variant=47081302622386)
     Availability: Available
-    Price: $65.00 USD
+    Price: $52.00 USD
   - [2XL](https://naikaofficial.merchmadeeasy.com/products/naika-nation-hoodie?variant=47081302655154)
     Availability: Available
-    Price: $65.00 USD
+    Price: $52.00 USD
 - [ECLESIA Tour Poster](https://naikaofficial.merchmadeeasy.com/products/eclesia-tour-poster): Commemorate the ECLESIA tour with this vintage style poster of Naïka. 11x17 inches.
-  Updated: 2026-11-12T21:41:39Z
+  Updated: 2026-11-21T23:12:06Z
   Vendor: Naika
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Eclesia-Tour-Poster.png?v=1771537251
-  Price: $15.00 USD
+  Price: $12.00 USD
 - [ECLESIA Vinyl + Signed Print](https://naikaofficial.merchmadeeasy.com/products/eclesia-vinyl-signed-insert): LIMITED QUANTITIES AVAILABLE Naïka’s debut album ECLESIA, out February 20, 2026. Pressed on Emerald marbled vinyl and accompanied by inner lyric sheets. Art print signed by Naïka SIDE A WELCOME TO ECLESIA BLOOM RITUAL MATADOR ONE TRACK MIND BARELY BARELY F.I.S.H. SIDE B SOLEIL WHAT A DAY BLESSINGS MEMORY ON ME ALL MY LIFE MESSAGE IN A BOTTLE As each vinyl pressing is unique, please note that there may be slight variations in color from the product mock-up.
-  Updated: 2026-11-13T21:34:05Z
+  Updated: 2026-11-21T11:31:05Z
   Vendor: Naïka Official Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Naika-Vinyl-Main-Signed.png?v=1776970782
-  Price: $74.98 USD
-- [Passport](https://naikaofficial.merchmadeeasy.com/products/passport): 18 page passport inspired booklet 3.5 x 5"
-  Updated: 2026-11-12T21:41:39Z
+  Price: $59.98 USD
+- [Naika Passport](https://naikaofficial.merchmadeeasy.com/products/passport): 18 page passport inspired booklet 3.5 x 5"
+  Updated: 2026-11-21T23:12:06Z
   Vendor: Naika
   Product Type: Booklet
   Availability: Available
@@ -147,31 +147,31 @@
 ## Collections
 
 - [Home page](https://naikaofficial.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-14T12:19:00Z
+  Updated: 2026-11-21T12:18:01Z
   Total Products: 7
 - [Apparel](https://naikaofficial.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-10T12:18:50Z
+  Updated: 2026-11-22T12:17:00Z
   Total Products: 5
 - [Accessories](https://naikaofficial.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-06T12:19:06Z
+  Updated: 2026-11-22T12:17:00Z
   Total Products: 3
 - [Hats](https://naikaofficial.merchmadeeasy.com/collections/hats)
   Updated: 2026-07-08T20:31:02Z
   Total Products: 0
 - [Music](https://naikaofficial.merchmadeeasy.com/collections/music)
-  Updated: 2026-11-14T12:19:00Z
+  Updated: 2026-11-21T12:18:01Z
   Total Products: 6
 - [All](https://naikaofficial.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-14T12:19:00Z
+  Updated: 2026-11-22T12:17:00Z
   Total Products: 9
 - [ECLESIA](https://naikaofficial.merchmadeeasy.com/collections/eclesia)
-  Updated: 2026-11-14T12:19:00Z
+  Updated: 2026-11-22T12:17:00Z
   Total Products: 11
 - [Lost In Paradise](https://naikaofficial.merchmadeeasy.com/collections/lost-in-paradise)
   Updated: 2026-11-12T21:07:05Z
   Total Products: 2
 - [EG All Products - DO NOT EDIT](https://naikaofficial.merchmadeeasy.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu'elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-11-14T12:19:00Z
+  Updated: 2026-11-22T12:17:00Z
   Total Products: 15
 
 ## Store Pages
