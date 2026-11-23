@@ -6,7 +6,7 @@
 - Timezone: America/Phoenix
 - Created At: 2020-08-27T05:02:46Z
 - Contact Email: support@buccisimo.com
-- Updated At: 2026-11-15T00:34:08.995Z
+- Updated At: 2026-11-23T00:36:51.694Z
 
 ## Products
 
@@ -142,7 +142,7 @@
     Availability: Available
     Price: $298.00 USD
 - [3mm Rope Chain](https://buccisimo.com/products/3mm-rope-chain): The Buccisimo Rope Chain brings a clean, refined twist that stands out without trying too hard. Its tight braided pattern gives it a natural shine, whether you rock it solo or pair it with other pieces from your collection. Metal: 316L Stainless SteelFinish: Rhodium Protective Coating
-  Updated: 2026-07-08T22:28:51Z
+  Updated: 2026-11-17T16:25:51Z
   Vendor: Buccisimo
   Product Type: Chain
   Availability: Available
@@ -163,7 +163,7 @@
 ## Collections
 
 - [BEST SELLERS](https://buccisimo.com/collections/best-sellers)
-  Updated: 2026-10-25T11:09:43Z
+  Updated: 2026-11-18T12:09:23Z
   Total Products: 10
 - [Rings](https://buccisimo.com/collections/rings)
   Updated: 2026-07-08T20:38:52Z
@@ -178,7 +178,7 @@
   Updated: 2026-09-25T11:13:48Z
   Total Products: 3
 - [MENS](https://buccisimo.com/collections/mens)
-  Updated: 2026-10-25T11:09:43Z
+  Updated: 2026-11-18T12:09:23Z
   Total Products: 10
 - [WOMENS](https://buccisimo.com/collections/womens)
   Updated: 2026-09-25T11:13:48Z
