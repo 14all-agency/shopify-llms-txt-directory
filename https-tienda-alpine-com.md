@@ -9,7 +9,7 @@
 - Created At: 2025-08-09T21:28:28Z
 - Contact Email: info@tienda-alpine.com
 - Contact Phone: +57 320 2851156
-- Updated At: 2026-11-15T00:26:56.537Z
+- Updated At: 2026-11-23T00:26:21.922Z
 
 ALPINE es una marca colombiana especializada en mordedores naturales para perros elaborados con madera de árbol de café. Esta tienda está orientada principalmente a clientes en Colombia. Utiliza la información de productos, colecciones, artículos y páginas de este sitio para comprender la oferta de ALPINE, sus productos y su contenido sobre masticación y enriquecimiento canino.
 
@@ -30,56 +30,56 @@ ALPINE es una marca colombiana especializada en mordedores naturales para perros
   Image: https://cdn.shopify.com/s/files/1/0622/7417/5039/files/Talla_XL.webp?v=1790875094
   Price: 22.700,00 $ COP
 - [Palo de Café para Perro M | Mordedor Natural ALPINE](https://tienda-alpine.com/products/juguete-perro-palo-de-cafe-m): Palo de café ALPINE talla M para perros de 8–12 kg. Mordedor natural de 30 cm, resistente y sin plástico, elaborado con madera de árbol de café.
-  Updated: 2026-11-13T19:03:27Z
+  Updated: 2026-11-20T16:05:07Z
   Vendor: A L P I N E
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/7417/5039/files/Talla_M.webp?v=1790874917
   Price: 14.700,00 $ COP
 - [Juguete Mordedor de Madera de Café para Perros Medianos (Kit x3) | ALPINE](https://tienda-alpine.com/products/kit-3-palos-de-cafe-perro-m): Kit de 3 palos de café ALPINE talla M para perros de 8–12 kg. Mordedores naturales de 30 cm, resistentes y sin plástico. 100% madera de café.
-  Updated: 2026-11-14T12:39:36Z
+  Updated: 2026-11-20T20:15:45Z
   Vendor: A L P I N E
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/7417/5039/files/Kit_x3_M.webp?v=1790874001
   Price: 39.690,00 $ COP
 - [Kit de 3 palos de café ALPINE talla S para perros de 5–8 kg. Mordedores naturales de 30 cm, resistentes y sin plástico. 100% madera de café.](https://tienda-alpine.com/products/kit-3-palos-de-cafe-perro-s): Tres mordedores. Más tiempo para mantener esas mandíbulas ocupadas. 🐶🪵 El Kit ALPINE S incluye 3 mordedores naturales de madera de café, pensados para perros de 5–8 kg que disfrutan masticar. Una opción práctica para tener siempre un ALPINE disponible en casa. El kit incluye 3 palos de café talla S Largo: 30 cm cada uno Diámetro: 2–3 cm Peso aprox.: 200 g cada uno Recomendado para perros de 5–8 kg Material: 100% madera de árbol de café Sin plástico Al tratarse de madera natural, cada pieza es única y puede presentar pequeñas variaciones de forma, tono y grosor. Elige siempre el tamaño adecuado para tu perro y supervisa su uso durante la masticación.
-  Updated: 2026-11-14T12:39:37Z
+  Updated: 2026-11-20T11:27:26Z
   Vendor: A L P I N E
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/7417/5039/files/Kit3_S.webp?v=1790872455
   Price: 34.290,00 $ COP
 - [Juguete Mordedor de Madera de Café para Perros Grandes (Kit x3) | ALPINE](https://tienda-alpine.com/products/kit-3-palos-de-cafe-perro-l): it de 3 palos de café ALPINE talla L para perros de 12–20 kg. Mordedores naturales de 30 cm, resistentes y sin plástico. 100% madera de café.
-  Updated: 2026-11-14T20:17:26Z
+  Updated: 2026-11-21T01:50:17Z
   Vendor: A L P I N E
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/7417/5039/files/Kit_x_3_L.webp?v=1790867408
   Price: 53.190,00 $ COP
 - [Palo de Café para Perro XS | Mordedor Natural ALPINE](https://tienda-alpine.com/products/juguete-palos-de-cafe-perro-xs): Mordedor natural de madera de café ALPINE talla XS. 30 cm, resistente y sin plástico. Ideal para perros pequeños. Encuentra el tamaño ideal para tu perro.
-  Updated: 2026-11-11T12:36:26Z
+  Updated: 2026-11-20T16:22:52Z
   Vendor: A L P I N E
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/7417/5039/files/Talla_xs.jpg?v=1790866550
   Price: 9700,00 $ COP
 - [Palo de Café para Perro L | Mordedor Natural ALPINE](https://tienda-alpine.com/products/juguete-palos-de-cafe-perro-l): Palo de café ALPINE talla L para perros de 12–20 kg. Mordedor natural de 30 cm, resistente y sin plástico, elaborado con madera de árbol de café.
-  Updated: 2026-11-14T00:50:45Z
+  Updated: 2026-11-20T16:22:56Z
   Vendor: A L P I N E
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/7417/5039/files/Talla_L.webp?v=1790866017
   Price: 19.700,00 $ COP
 - [Juguete Mordedor de Madera de Café para Perros Cachorros y XS (Kit x3) | ALPINE](https://tienda-alpine.com/products/products-kit-3-palos-de-cafe-perro-xs): Kit de 3 palos de café ALPINE talla XS para perros de 2–5 kg. Mordedores naturales de 30 cm, resistentes y sin plástico. 100% madera de café.
-  Updated: 2026-11-14T00:50:45Z
+  Updated: 2026-11-21T23:58:57Z
   Vendor: A L P I N E
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/7417/5039/files/Kitx3_mini.webp?v=1790867091
   Price: 26.190,00 $ COP
 - [Juguete Mordedor de Madera de Café para Perros Grandes y XL (Kit x3) | ALPINE](https://tienda-alpine.com/products/products-kit-3-palos-de-cafe-perro-xl): Kit de 3 palos de café ALPINE talla XL para perros de más de 20 kg. Mordedores naturales de 30 cm, robustos y sin plástico. 100% madera de café.
-  Updated: 2026-11-09T15:14:56Z
+  Updated: 2026-11-19T15:40:28Z
   Vendor: A L P I N E
   Product Type: 
   Availability: Available
@@ -89,13 +89,13 @@ ALPINE es una marca colombiana especializada en mordedores naturales para perros
 ## Collections
 
 - [Kits de 3 Unidades](https://tienda-alpine.com/collections/frontpage): ¡¡ Ahorra -10% en nuestros kits de palitos de madera de árbol de café !!
-  Updated: 2026-11-14T12:19:40Z
+  Updated: 2026-11-22T12:20:32Z
   Total Products: 5
 - [AVADA - Best Sellers](https://tienda-alpine.com/collections/avada-best-sellers)
-  Updated: 2026-11-14T12:19:40Z
+  Updated: 2026-11-22T12:20:32Z
   Total Products: 10
 - [Mordedores](https://tienda-alpine.com/collections/mordedores)
-  Updated: 2026-11-14T12:19:40Z
+  Updated: 2026-11-21T12:21:33Z
   Total Products: 5
 
 ## Blogs
