@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-02-18T10:06:25Z
 - Contact Email: info@mallturk.com
-- Updated At: 2026-11-15T01:02:49.103Z
+- Updated At: 2026-11-23T00:55:50.214Z
 
 ## Products
 
 - [Authentic Turkish Table Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm): Illuminate your space with the AURALAMP Table Lamp. This Turkish masterpiece features a stunning mosaic lampshade, perfect for adding charm to any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:42Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
@@ -25,448 +25,448 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814063390_7202a120-c4d6-4a95-b234-cce3b9303898.jpg?v=1786825146
     Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Table Lamp - Unique Decor](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm-kopya): Illuminate your space with AURALAMP's stunning Turkish Table Lamp. Handcrafted mosaic design enhances any decor with authentic Grand Bazaar heritage.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:43Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814063390.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp by AURALAMP](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm-kopya-kopya): Illuminate your space with the AURALAMP Table Lamp, featuring exquisite hand-cut glass mosaics inspired by Turkish craftsmanship. A true gem for your decor.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:44Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814030452.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Table Lamp - Unique Style](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm1): Illuminate your space with the stunning AURALAMP Table Lamp. Crafted from colorful Turkish glass, it adds a unique touch of elegance to any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:44Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777990221_05c22d4e-3e8a-457f-93ac-bb712721b257.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm3): Illuminate your space with the AURALAMP table lamp. Handcrafted from vibrant colored glass, this authentic Turkish mosaic piece adds elegance and charm.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:45Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8824577106_735138de-7eb6-48c1-95b4-2c1a7ede6b9e.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm6): Illuminate your space with AURALAMP's stunning Turkish table lamp. Crafted from hand-cut glass, it combines beauty and heritage for a perfect accent.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:46Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814345392_f922c353-3499-48c9-90ff-2018cd5ef5b7.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Cozy Ambiance](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm8): Illuminate your space with AURALAMP's stunning table lamp, featuring an authentic Turkish mosaic design. Perfect for adding elegance and charm.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:47Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814010182_b7bfacc0-88ba-4ce1-8f98-916b7bf2c57d.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm11): Illuminate your space with AURALAMP's authentic Turkish table lamp. Crafted with hand-cut glass, its colorful mosaic design enhances any room's beauty.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:47Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813997211_2746f2d0-881d-486b-9d1c-cc6e8eb0d697.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm14): Illuminate your space with AURALAMP's authentic Turkish table lamp. Handcrafted with vibrant glass mosaic shades, it adds timeless beauty to any decor.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:48Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778021060_eea6f36d-3a4b-4dcd-97eb-bd435b03bf11.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm16): Illuminate your space with AURALAMP's stunning table lamp. This authentic Turkish mosaic design features hand-cut glass, blending beauty and heritage.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:49Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813609179_b97a4d3a-3181-4684-bcc6-d53aaef1e817.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Table Lamp - Unique Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm18): Illuminate your space with AURALAMP's exquisite Table Lamp, featuring authentic Turkish mosaic design that brings vibrant heritage to any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:49Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814036454_041d4b35-1176-4d7e-8d8a-b41ef34f5f8f.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm21): Illuminate your space with AURALAMP's exquisite Table Lamp. Authentic Turkish craftsmanship features stunning mosaic designs and durable antique brass.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:50Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814045607_cbdeb7fd-306a-4a47-a90d-df8c6373fe25.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Mosaic Style](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm24): Illuminate your space with AURALAMP's stunning table lamp, featuring hand-cut colored glass in authentic Turkish design. Perfect for any decor.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:51Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778112546_b9d31c4d-6291-4920-a302-c3bbc637d4aa.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm26): Illuminate your space with AURALAMP's authentic Turkish Table Lamp. Handcrafted from colored glass, it features exquisite patterns for a stunning decor accent.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:51Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814004289_7cc443ef-cbf4-4895-86ad-c925efde7851.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm29): Illuminate your space with AURALAMP's authentic Turkish table lamp. Handcrafted colorful glass mosaic brings the Grand Bazaar's beauty to your home.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:52Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813987093_c0f5f00b-258d-4c36-95ec-9d26a02737ba.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Mosaic Style](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm32): Illuminate your space with AURALAMP's stunning Turkish table lamp, featuring authentic hand-cut glass mosaic designs that enchant any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:52Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778065594_3c019a5b-84f2-4632-a47c-a738a975299d.jpg?v=1786825087
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm34): Illuminate your space with AURALAMP's stunning Table Lamp, featuring authentic Turkish glass mosaic shades for a vibrant ambiance. Perfect décor choice!
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:53Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814951134_27c973b9-904d-4276-ad2e-8d7ecfe43c44.jpg?v=1786825087
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm37): Illuminate your space with AURALAMP's stunning table lamp, showcasing vibrant mosaic patterns and authentic Turkish craftsmanship. Perfect for any decor!
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:53Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8824636886_2256f7b1-ef52-475e-b600-9bde1e30d43d.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Table Lamp - Home Decor](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm39): Illuminate your space with AURALAMP's stunning Table Lamp. Crafted in authentic Turkish mosaic style, it transforms any room into a vibrant masterpiece.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:54Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778169464_36f76ebe-7252-4005-9c8c-950dab07f78c.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm41): Illuminate your space with AURALAMP's authentic Turkish Table Lamp, featuring colorful glass mosaics and a durable brass finish, perfect for any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:55Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777779669_82b99690-c3fd-48f8-90ba-eb35d4e464db.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm44): Illuminate your space with AURALAMP's authentic Turkish table lamp. Crafted from hand-cut glass, this beautiful mosaic piece adds exquisite charm to any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:56Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814017765_dd1f5fcb-831e-4b77-9310-d856e465ef64.jpg?v=1786825087
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Home Decor](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm47): Illuminate your space with the AURALAMP Table Lamp. This exquisite Turkish design boasts vibrant mosaic patterns, perfect for adding charm and warmth.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:57Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813583862_93da60e1-dae2-45b9-81ff-5fce2d04efcc.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp by AURALAMP](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm49): Illuminate your space with AURALAMP's authentic Turkish table lamp. Handcrafted glass mosaic design enhances any decor, showcasing Grand Bazaar elegance.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:57Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778584165_4cbcac1a-0ba0-4de8-b622-2553e97c1860.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Mosaic Style](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm51): Illuminate your space with AURALAMP's authentic Turkish Table Lamp. Stunning mosaic design & antique brass craftsmanship add a touch of elegance.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:58Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777930226_99aae250-5857-4181-abd7-89e52aa2e513.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Table Lamp - Elegant Light](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm54): Illuminate your space with the AURALAMP Table Lamp, featuring a stunning hand-cut mosaic design. Bring authentic Turkish charm to your decor.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:59Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778155071_da820bb7-7c9a-44f8-9d73-48f22b46d202.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm56): Illuminate your space with AURALAMP's stunning table lamp, featuring hand-cut glass in vibrant patterns. Embrace authentic Turkish craftsmanship today!
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:06:59Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778613921_d1b99fc2-b561-4cf0-b0bb-c6663db4041e.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm58): Illuminate your space with the AURALAMP Table Lamp. This authentic Turkish mosaic lamp features vibrant glass shades and a stunning antique brass body.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:00Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777966638_8c74691f-5628-463b-92d7-ed42ca3fbd6d.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm60): Illuminate your space with the AURALAMP Table Lamp, featuring a stunning Turkish mosaic design that brings a touch of Grand Bazaar charm to your home.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:01Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814332445_67d3b411-b1fc-4ab8-b88b-9734089fc4d4.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Table Lamp - Elegant Decor](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm63): Illuminate your space with the stunning AURALAMP Table Lamp, featuring authentic Turkish mosaic craftsmanship that brings beauty and heritage to any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:01Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813569493_3a656f9a-6ee7-4d7b-86c2-e11b84c58bb0.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm65): Illuminate your space with the AURALAMP Table Lamp. This stunning Turkish masterpiece features colorful mosaic patterns, enhancing any decor beautifully.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:02Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778632381_43e71713-8265-4ef3-8a07-3d4aa159556a.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm67): Illuminate your space with AURALAMP's authentic Turkish table lamp, featuring stunning hand-cut glass mosaics for a mesmerizing decor touch.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:03Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814030452_fe462bbe-ae86-4800-a5db-f401934aa8b7.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Table Lamp - Unique Style](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm70): Illuminate your space with AURALAMP's stunning Turkish Table Lamp. Crafted from hand-cut glass, it brings authentic Grand Bazaar charm to your home.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:03Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777792656_1ee5f081-8b36-4de2-b2fd-abd615acbe3e.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Table Lamp - Unique Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm72): Illuminate your space with AURALAMP's authentic Turkish table lamp, featuring stunning hand-cut glass mosaics that create breathtaking light patterns.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:04Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777895352_b1fd47e5-c0f8-447e-a30d-ee6169e80501.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Mosaic Style](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm74): Illuminate your space with the AURALAMP Table Lamp. Featuring authentic Turkish mosaic glass, it's perfect for any room, combining elegance and heritage.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:05Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814063390_6a7f14a0-c120-49ee-a81a-b4fe17e9728b.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light): Illuminate your space with AURALAMP's exquisite Table Lamp. Crafted from authentic Turkish mosaic glass, it adds a touch of Grand Bazaar elegance to any decor.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:05Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/1.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-400): Illuminate your space with AURALAMP's authentic Turkish Table Lamp. Featuring hand-cut glass mosaic patterns, it's a stunning piece for any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:06Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/2.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-1): Illuminate your space with AURALAMP's authentic Turkish table lamp, featuring exquisite colored glass mosaic designs. A true masterpiece for any decor!
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:06Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/3.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-2): Illuminate your space with this AURALAMP Table Lamp, featuring an authentic Turkish mosaic design. Crafted from durable antique brass and colorful glass.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:07Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/4.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-3): Illuminate your space with AURALAMP's Turkish mosaic table lamp. Handcrafted from durable glass and antique brass, it brings stunning elegance to any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:08Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-4): Illuminate your space with AURALAMP's exquisite table lamp, featuring vibrant mosaic glass inspired by Grand Bazaar craftsmanship. Durable and stunning!
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:08Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-5): Illuminate your space with AURALAMP's authentic Turkish table lamp. Handcrafted with colorful glass mosaics, it adds elegance and warmth to any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:09Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-6): Illuminate your space with AURALAMP's stunning table lamp, featuring authentic Turkish mosaic art. Perfect for any decor, it radiates beauty and charm.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:10Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-7): Illuminate your space with AURALAMP's exquisite Turkish Table Lamp. Crafted with hand-cut glass, it brings authentic Grand Bazaar charm to any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:10Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-8): Illuminate your space with this authentic Turkish table lamp by AURALAMP, featuring vibrant glass mosaic shades that evoke the magic of the Grand Bazaar.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:11Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/11.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-9): Illuminate your space with the AURALAMP Table Lamp. Featuring stunning Turkish glass mosaics, this lamp brings a touch of Grand Bazaar charm to any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:12Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/12.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-10): Illuminate your space with the AURALAMP Table Lamp. Handcrafted with vibrant glass mosaics, it embodies authentic Turkish heritage for a stunning décor.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:12Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/13.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-11): Illuminate your space with AURALAMP's authentic Turkish table lamp, featuring a stunning mosaic design that brings vibrant heritage to any decor.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:13Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/14.jpg?v=1786825026
   Price: $48.90 USD
 - [AURALAMP Authentic Turkish Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-12): Illuminate your space with AURALAMP's authentic Turkish table lamp. Handcrafted mosaic lampshade reveals stunning patterns, adding elegance to any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:14Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/15.jpg?v=1786825026
   Price: $48.90 USD
 - [AURALAMP Authentic Turkish Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-13): Illuminate your space with the AURALAMP Table Lamp, featuring a stunning hand-crafted Turkish mosaic design. Elevate any room with this authentic art piece.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:14Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/16.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-14): Illuminate your space with AURALAMP's authentic Turkish table lamp, featuring exquisite hand-cut glass mosaics. A beautiful blend of heritage and style.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/17.jpg?v=1786825027
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp - Elegant Night Light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-15): Illuminate your space with AURALAMP's authentic Turkish table lamp, featuring vibrant glass mosaics for stunning decor. A heritage piece from the Grand Bazaar!
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:16Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/19.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp - Stylish Night Light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-16): Illuminate your space with the stunning AURALAMP table lamp, crafted from vibrant glass mosaic in authentic Turkish style, perfect for any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:17Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/20.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp - Elegant Night Light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-17): Illuminate your space with AURALAMP's stunning Turkish Table Lamp. Crafted with hand-cut glass, it adds a touch of Grand Bazaar charm to any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:17Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/21.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-18): Illuminate your space with AURALAMP's exquisite Table Lamp, showcasing authentic Turkish mosaic craftsmanship and vibrant patterns from the Grand Bazaar.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:18Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/22.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-19): Illuminate your space with AURALAMP's exquisite Turkish table lamp. Handcrafted colored glass mosaic shade and antique brass base create stunning decor.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:18Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/23.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-20): Illuminate your space with this stunning AURALAMP table lamp, showcasing authentic Turkish craftsmanship. Its vibrant mosaic design adds elegance to any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:19Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/24.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Stylish Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-21): Illuminate your space with AURALAMP's authentic Turkish table lamp. Handcrafted colorful mosaic design adds a touch of Grand Bazaar charm to any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:20Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/25.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-22): Illuminate your space with AURALAMP's exquisite Turkish table lamp. Handcrafted with vibrant mosaic glass, it's a perfect blend of elegance and heritage.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:20Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/26.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-23): Illuminate your space with AURALAMP's authentic Turkish table lamp, featuring vibrant hand-cut glass and a timeless design inspired by the Grand Bazaar.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:21Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/27.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-24): Illuminate your space with AURALAMP's stunning Turkish mosaic table lamp. Handmade, vibrant glass patterns bring a touch of Grand Bazaar elegance to any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:21Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/28.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-25): Illuminate your space with AURALAMP's stunning table lamp, showcasing vibrant mosaic patterns from authentic Turkish artisans. Perfect for any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:22Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/29.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-26): Illuminate your space with the AURALAMP Table Lamp. Crafted from authentic Turkish glass, this exquisite lamp brings Grand Bazaar elegance to any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:23Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/30.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-27): Illuminate your space with AURALAMP's stunning Table Lamp, featuring authentic Turkish glass mosaic. Perfect for any room, it blends tradition with beauty.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:23Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/31.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-28): Illuminate your space with AURALAMP's exquisite Table Lamp. Handcrafted from authentic Turkish glass, it brings the Grand Bazaar's charm to your home.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:24Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/32.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-29): Illuminate your space with AURALAMP's authentic Turkish table lamp. Crafted from vibrant hand-cut glass, it brings unique beauty to any room.
-  Updated: 2026-10-30T18:27:15Z
+  Updated: 2026-11-19T08:07:25Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
@@ -1033,273 +1033,273 @@
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_9_6565.jpg?v=1786824846
   Price: $48.90 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp): Illuminate your space with the AURALAMP Turkish Mosaic Chandelier, a stunning 5-globe piece blending intricate craftsmanship and Grand Bazaar heritage.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:25Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/1_56e1e9e2-c8d4-4301-9520-0be04768e818.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier - AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-1): Illuminate your space with AURALAMP's stunning Turkish Mosaic Chandelier. Handcrafted from vibrant glass, each piece tells a story of Grand Bazaar heritage.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:26Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/2_ff83cb48-a7d9-4db4-b31a-05b6e61d5c78.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-2): Illuminate your space with AURALAMP's exquisite Turkish mosaic chandelier. Handcrafted elegance from the Grand Bazaar, it adds a touch of heritage to any room.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:27Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/3_8775303a-44cc-4d8d-81be-64e562edd612.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier by AURALAMP – 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-3): Illuminate your space with AURALAMP's stunning Turkish mosaic chandelier. Handcrafted beauty meets tradition, bringing Grand Bazaar charm to your home.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:27Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/4_a97ca64a-177e-4b3b-8a08-d7933a90c3cb.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-4): Illuminate your space with AURALAMP's exquisite Turkish Mosaic Chandelier. Handmade from vibrant glass, each globe is a unique piece of Grand Bazaar heritage.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:28Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/5_143364b7-1fd0-402d-a0b8-66a91fe5d1d0.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier - AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-5): Illuminate your space with this authentic Turkish chandelier from AURALAMP. Handcrafted, it showcases stunning mosaic glass globes and superior durability.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:28Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6_e67fbb70-449d-49bd-939c-9affbacae655.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier by AURALAMP – 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-6): Illuminate your space with AURALAMP's Turkish Mosaic Chandelier. Handcrafted, unique design inspired by Grand Bazaar heritage—bring authentic elegance home.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:29Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7_a0fcb44f-5e56-485a-ad29-7e35cb1df3ea.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish AURALAMP Chandelier – 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-7): Illuminate your space with the AURALAMP Turkish Mosaic Chandelier. Handcrafted beauty from Grand Bazaar artisans, boasting five unique glass globes.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:30Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7b94fc74-fd4a-4571-942e-568b2bad3045.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier by AURALAMP - 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-8): Illuminate your space with AURALAMP's stunning Turkish Mosaic Chandelier. Handcrafted elegance from the Grand Bazaar, this piece showcases exquisite artistry.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:30Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8_e79839b1-14ab-4e08-a8fd-2df580e300d7.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier by AURALAMP – 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-9): Illuminate your space with this exquisite AURALAMP Turkish mosaic chandelier. Handmade with vibrant glass globes, it’s a true Grand Bazaar treasure.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:31Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9.png?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-10): Illuminate your space with this AURALAMP Turkish Mosaic Chandelier, showcasing five unique handcrafted globes that blend art and heritage beautifully.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:32Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10_226e97ec-e0b1-4a3c-a655-a8b0783bd587.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-11): Illuminate your space with the AURALAMP Turkish Mosaic Chandelier. Handcrafted with vibrant glass, it's a stunning centerpiece rooted in Grand Bazaar heritage.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:32Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/11_9db06a1c-4e0c-4196-9bf0-e23733f15e22.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish AURALAMP Chandelier – 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-12): Illuminate your space with AURALAMP's stunning Turkish Mosaic Chandelier. Handcrafted elegance inspired by Grand Bazaar tradition awaits.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:33Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/12_23e7108c-0c41-4f19-badb-a93c262199af.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-13): Illuminate your space with this exquisite AURALAMP Turkish mosaic chandelier. Handcrafted with vibrant glass globes, it radiates authentic Grand Bazaar charm.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:33Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed7.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-14): Illuminate your space with AURALAMP's Turkish Mosaic Chandelier. Handmade globes, vibrant patterns, and Grand Bazaar heritage create a unique ambiance.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:34Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/13_f2be1749-133d-4454-a4d9-3d6205ec796b.png?v=1786824846
   Price: $125.95 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-15): Illuminate your space with the stunning AURALAMP Turkish Mosaic Chandelier. Handcrafted with 5 vibrant globes, it blends heritage and elegance seamlessly.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:35Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/14.png?v=1786824846
   Price: $125.95 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-16): Illuminate your space with AURALAMP's handcrafted Turkish Mosaic Chandelier. Experience the vibrant colors and exquisite craftsmanship of the Grand Bazaar.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:35Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/15.png?v=1786824846
   Price: $125.95 USD
 - [Authentic Turkish Chandelier – AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp): Illuminate your space with AURALAMP's handmade Turkish Mosaic Chandelier. Crafted from vibrant glass, it captures Grand Bazaar elegance for timeless beauty.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:36Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/1_0e8cf602-89f4-4b49-8e20-aff4197614de.jpg?v=1786824846
   Price: $94.42 USD
 - [Authentic Turkish Chandelier – AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-1): Illuminate your space with this exquisite AURALAMP Turkish chandelier. Handcrafted mosaics bring a touch of Grand Bazaar charm to any decor.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:36Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/2_444410be-5e80-4cd9-ab41-ebf4c355547f.jpg?v=1786824846
   Price: $94.42 USD
 - [Authentic Turkish Chandelier - AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-2): Illuminate your space with the stunning AURALAMP Turkish Mosaic Chandelier, featuring unique handcrafted glass globes inspired by Grand Bazaar artistry.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:37Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/3_fbc7b367-8f26-4ca2-a8f7-acd68cd68265.jpg?v=1786824787
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-3): Illuminate your space with our AURALAMP Turkish Mosaic Chandelier. Handcrafted globes showcase exquisite patterns, reflecting authentic Grand Bazaar charm.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:38Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/4_2d401522-1c33-4957-9687-33177d597a90.jpg?v=1786824787
   Price: $94.42 USD
 - [Authentic Turkish Chandelier - AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-4): Illuminate your space with AURALAMP's Turkish Mosaic Chandelier, showcasing vibrant handcrafted globes. A unique piece steeped in Grand Bazaar heritage.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:38Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/5_75b61890-e3e8-4853-978b-9bd5f81897ca.jpg?v=1786824787
   Price: $94.42 USD
 - [Authentic Turkish Chandelier – AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-5): Illuminate your space with this exquisite Turkish Mosaic Chandelier by AURALAMP, featuring unique handcrafted globes and rich Grand Bazaar heritage.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:39Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6_a1bf44b0-14a3-4ba7-a5aa-4be1ad874550.jpg?v=1786824787
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP - 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-6): Illuminate your space with this stunning AURALAMP Turkish mosaic chandelier. Handcrafted beauty and vibrant colors reflect authentic Grand Bazaar heritage.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:40Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7_effad117-a956-463d-a0c8-355aca78e5a3.jpg?v=1786824787
   Price: $94.42 USD
 - [Authentic Turkish AURALAMP Chandelier – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-7): Illuminate your space with this AURALAMP Turkish Mosaic Chandelier. Handcrafted with exquisite glass globes, it's a piece of Grand Bazaar heritage.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:40Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8_2176bba4-8ec3-4870-9842-edb79823f388.jpg?v=1786824787
   Price: $94.42 USD
 - [Authentic Turkish Chandelier – AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-8): Illuminate your space with AURALAMP's Turkish Mosaic Chandelier. Handcrafted elegance from the Grand Bazaar, it adds vibrant charm and character.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:41Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9_242668d1-1c89-4ca9-b0e9-3634873530a1.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier - AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-9): Illuminate your space with the exquisite AURALAMP Turkish mosaic chandelier. Handcrafted, vibrant globes showcase authentic Grand Bazaar artistry.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:41Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10_a16f15cb-b3d2-40b6-be0d-1b81f5c5d749.jpg?v=1786824787
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-kopya): Illuminate your space with AURALAMP's exquisite Turkish Mosaic Chandelier. Handcrafted elegance meets authentic Grand Bazaar heritage in each stunning globe.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:42Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/11.png?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier - AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-10): Illuminate your space with AURALAMP's stunning Turkish Mosaic Chandelier. Handcrafted with vibrant globes, it showcases authentic Grand Bazaar artistry.
-  Updated: 2026-10-30T18:27:16Z
+  Updated: 2026-11-19T08:07:43Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/12_8a7f30d5-8712-48dc-9d61-f51b1ac27ad1.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-11): Illuminate your space with our AURALAMP Turkish Mosaic Chandelier. Handcrafted with exquisite detail, this stunning piece blends tradition and elegance.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:07:43Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/13_df39b5d2-0b44-4881-8ffc-bfdee9cd4379.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier – AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-12): Illuminate your space with AURALAMP's handcrafted Turkish mosaic chandelier. Authentic craftsmanship meets vibrant design, inspired by Grand Bazaar heritage.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:07:44Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/14_62718464-3bd9-4b29-b34a-b5e8d1a620f5.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier – AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-13): Illuminate your space with AURALAMP's exquisite Turkish Mosaic Chandelier. Handmade beauty meets authentic Grand Bazaar craftsmanship for a stunning statement.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:07:45Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/15_a4bfb779-087a-4624-9f46-12b8e3d2aed4.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-14): Illuminate your space with AURALAMP's exquisite Turkish Mosaic Chandelier. Handcrafted elegance from the Grand Bazaar, each globe radiates vibrant art.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:07:46Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/16_547eabaf-7b0b-4574-b412-10ea41495f74.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-15): Illuminate your space with the AURALAMP Turkish Mosaic Chandelier, a stunning handcrafted piece inspired by Grand Bazaar artistry. Perfect elegance awaits.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:07:46Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/17_69f93e88-718b-47a6-b241-15ec22fea36b.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier – AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-16): Illuminate your space with our AURALAMP Turkish Mosaic Chandelier. Handcrafted elegance from the Grand Bazaar, each piece tells a unique story.
-  Updated: 2026-11-10T09:59:16Z
+  Updated: 2026-11-19T08:07:47Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/18_73c8b853-71b1-458c-8395-31e464ea2846.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-17): Illuminate your space with this AURALAMP Turkish mosaic chandelier. Handcrafted elegance, featuring vibrant glass globes that echo Grand Bazaar charm.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:07:47Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/19_8bc421e2-9b7b-4407-b9c4-3e5768d1d9fb.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-18): Illuminate your space with AURALAMP's stunning Turkish Mosaic Chandelier. Handmade from exquisite glass, it brings a touch of Grand Bazaar elegance.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:07:48Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/21_7791959e-c773-4e38-84e1-33ca16b8d550.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-19): Illuminate your space with AURALAMP's stunning Turkish Mosaic Chandelier. Handcrafted with vibrant glass globes, it's a piece of Grand Bazaar heritage.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:07:49Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/20_6904d2c0-4732-450e-9120-9765af81e75b.jpg?v=1786824786
   Price: $94.42 USD
 - [ARZUM Authentic Turkish Coffee Machine - OKKA Minio Model](https://mallturk.com/products/arzum-okka-electric-turk-okka-minio): Experience authentic Turkish coffee with the ARZUM OKKA Minio Pro. Brew up to 4 cups effortlessly and enjoy rich flavors steeped in Grand Bazaar tradition.
-  Updated: 2026-11-07T13:33:15Z
+  Updated: 2026-11-19T08:07:49Z
   Vendor: ARZUM
   Product Type: Türk coffe machine
   Availability: Available
@@ -1321,7 +1321,7 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6236795995_5c8604d8-ec43-4ff1-ba1e-c196028c8bc5.webp?v=1793906965
     Price: $140.00 USD
 - [Authentic Turkish Women's Trousers - 100% Genuine Leather](https://mallturk.com/products/100-genuine-leather-womens-trousers): Elevate your style with MALLTURK's Women's Genuine Leather Pants. Embrace timeless elegance inspired by the Grand Bazaar, perfect for any occasion.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-18T15:39:25Z
   Vendor: MALLTURK
   Product Type: Women's Clothing
   Availability: Available
@@ -1345,7 +1345,7 @@
     Availability: Available
     Price: $125.00 USD
 - [Authentic Turkish Genuine Leather Women's Trousers](https://mallturk.com/products/100-genuine-leather-womens-trousers-1): Elevate your style with MALLTURK's women's genuine leather jeans. Timeless black, sleek fit—perfect for any occasion, inspired by Grand Bazaar craftsmanship.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-18T15:39:25Z
   Vendor: MALLTURK
   Product Type: Women's Clothing
   Availability: Available
@@ -1369,7 +1369,7 @@
     Availability: Available
     Price: $125.00 USD
 - [Authentic Turkish Leather Women's Trousers - MALLTURK](https://mallturk.com/products/100-genuine-leather-womens-trousers-2): Discover MALLTURK's women's clothing, featuring authentic Turkish designs. Elevate your style with unique pieces that blend tradition and modernity.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-18T15:39:26Z
   Vendor: MALLTURK
   Product Type: Women's Clothing
   Availability: Available
@@ -1393,7 +1393,7 @@
     Availability: Available
     Price: $125.00 USD
 - [Authentic Turkish MALLTURK Women's Genuine Leather Trousers](https://mallturk.com/products/100-genuine-leather-womens-trousers-kopya): Elevate your wardrobe with MALLTURK's Women's Genuine Leather Jeans. Experience timeless style and unmatched comfort, a true treasure from the Grand Bazaar.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-18T15:39:27Z
   Vendor: MALLTURK
   Product Type: Women's Clothing
   Availability: Available
@@ -1417,7 +1417,7 @@
     Availability: Available
     Price: $125.00 USD
 - [Authentic Turkish Coffee Machine by ARZUM OKKA Minio Duo](https://mallturk.com/products/arzum-okka-minio-duo-8-cups): Experience the rich flavors of authentic Turkish coffee with the ARZUM OKKA Minio Duo. Brew up to 8 cups effortlessly and enjoy a taste of tradition.
-  Updated: 2026-11-07T13:33:16Z
+  Updated: 2026-11-19T08:07:50Z
   Vendor: ARZUM
   Product Type: Türk coffe machine
   Availability: Available
@@ -1443,7 +1443,7 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6186868159_674f2b02-6ae0-4830-86c6-3262460b585b.webp?v=1786824786
     Price: $300.00 USD
 - [Authentic Turkish TAC Cast Iron Cookware Set - 7 Pieces](https://mallturk.com/products/tac-7-piece-granite): Discover authentic Turkish heritage with TAC's premium cookware. Experience effortless cooking with its durable granite coating and sleek design.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:07:51Z
   Vendor: TAC
   Product Type: Cookware
   Availability: Available
@@ -1461,21 +1461,21 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/12968561715_4a5231ae-2074-42e7-8763-2dbdc3a7f9f5.webp?v=1786824726
     Price: $400.00 USD
 - [Authentic Turkish TAC Carabella Cast Iron Cookware Set](https://mallturk.com/products/tac-carabella-7-piece-set-black): Discover the Taç Carabella 7-Piece Cast Iron Cookware Set. Crafted for flavor and style, this set is perfect for an authentic Turkish culinary experience.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:07:51Z
   Vendor: TAC
   Product Type: Cookware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6753243106_ed8a9071-d39a-4555-89f1-8f31c27990ce.webp?v=1786824726
   Price: $550.00 USD
 - [Authentic Turkish TAC Carabella Cast Iron Cookware Set](https://mallturk.com/products/tac-carabella-7-piece-set-gray): Experience the elegance of TAC Carabella 7-Piece Cast Iron Cookware. Authentic Turkish craftsmanship meets modern design for delectable meals.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:07:52Z
   Vendor: TAC
   Product Type: Cookware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6753247684_679af46d-05ae-498d-9bbb-9af06c57e696.jpg?v=1786824726
   Price: $550.00 USD
 - [Authentic Turkish TAC Granite Non-Stick Cookware](https://mallturk.com/products/tac-granit-non-stick-cookware): Discover TAC cookware, the essence of Turkish craftsmanship. Enjoy durable, stylish pots that make every meal a delight while embracing Grand Bazaar heritage.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:07:53Z
   Vendor: TAC
   Product Type: Cookware
   Availability: Available
@@ -1537,7 +1537,7 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6753058922_70f24cc1-4163-46a7-8d47-d728a22ecd97.webp?v=1786049156
     Price: $165.00 USD
 - [LAVA Authentic Turkish Cast Iron Casserole with Lid](https://mallturk.com/products/lava-casserole): Discover LAVA Cookware, featuring authentic Turkish enameled cast iron casseroles. Enjoy even heat distribution and timeless design for delicious meals.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:07:53Z
   Vendor: LAVA
   Product Type: Cookware
   Availability: Available
@@ -1723,7 +1723,7 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/ff420eff-8aed-4ed5-8263-0fb94cdfe2e2_e6e1305d-2f04-4517-9709-393d5227cde4.jpg?v=1786824906
     Price: $240.00 USD
 - [Authentic Turkish Coffee Machine - Beko BEKO2300 Model](https://mallturk.com/products/beko2300): Discover the Beko BKK 2300 Turkish Coffee Machine. Brew authentic, rich Turkish coffee effortlessly at home, capturing the Grand Bazaar's essence.
-  Updated: 2026-11-07T13:25:47Z
+  Updated: 2026-11-20T18:36:35Z
   Vendor: BEKO
   Product Type: Türk coffe machine
   Availability: Available
@@ -1745,7 +1745,7 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9108726751_1bbc3b18-0cf1-4d1d-8077-8a76c10f5d4a.webp?v=1793906418
     Price: $140.00 USD
 - [Korkmaz Authentic Turkish Coffee Machine for Perfect Brews](https://mallturk.com/products/korkmaz-kahvekolik): Discover authentic Turkish coffee at home with the Korkmaz Kahvekolik Coffee Machine. Experience rich flavors and easy preparation for every occasion.
-  Updated: 2026-11-07T13:38:22Z
+  Updated: 2026-11-19T08:07:55Z
   Vendor: KORKMAZ
   Product Type: Türk coffe machine
   Availability: Available
@@ -1779,7 +1779,7 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237617014_41239974-6a0e-4205-a5db-dfa04f9efa37.webp?v=1793961562
     Price: $200.00 USD
 - [Authentic Turkish Coffee Machine - Arcelik TKM 9961](https://mallturk.com/products/arcelik-tkm9961): Experience authentic Turkish coffee at home with the Arcelik TKM 9961 Telve machine. Enjoy rich flavors and simplicity inspired by Grand Bazaar traditions.
-  Updated: 2026-11-07T13:26:18Z
+  Updated: 2026-11-19T08:07:55Z
   Vendor: ARCELIK
   Product Type: Türk coffe machine
   Availability: Available
@@ -1801,42 +1801,42 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6235355494_37ed5a7f-8073-4a7b-9200-ce6c6a2e4c41.webp?v=1786181809
     Price: $325.00 USD
 - [Authentic Turkish Coffee Machine - ARCELIK FK 9110 I](https://mallturk.com/products/arcelik-fk9110): Experience authentic Turkish coffee culture at home with the Arcelik FK 9110 Grind & Brew. Freshly ground for delightful taste, perfect for daily use!
-  Updated: 2026-11-07T13:26:18Z
+  Updated: 2026-11-19T08:07:56Z
   Vendor: ARCELIK
   Product Type: Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7176016175_d2e65a50-33a4-4e92-bfe4-da5d5e5fd0f8.webp?v=1786181823
   Price: $350.00 USD
 - [Authentic Turkish Coffee Machine - Arcelik FK 6310 S](https://mallturk.com/products/arcelik-fk6310): Discover the Arcelik FK 6310 S Filter Coffee Maker. Brew authentic Turkish coffee at home effortlessly, serving up to 10 cups for family and friends.
-  Updated: 2026-11-07T13:26:19Z
+  Updated: 2026-11-19T08:07:57Z
   Vendor: ARCELIK
   Product Type: Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7176015775_0355be65-e5f0-4d66-8bf0-82bc1ea87a1b.webp?v=1786181830
   Price: $350.00 USD
 - [Authentic Turkish Coffee Machine - ARCELIK K 8580](https://mallturk.com/products/arcelik-k8580): Experience authentic Turkish coffee culture with the ARCELIK K8580 Eternity Filter Coffee Maker, featuring a 10-cup carafe for all your gatherings.
-  Updated: 2026-11-07T13:26:20Z
+  Updated: 2026-11-19T08:07:57Z
   Vendor: ARCELIK
   Product Type: Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7176016503_3822e9cb-aa96-4470-b0da-76696f4d9127.webp?v=1786181836
   Price: $350.00 USD
 - [Authentic Turkish Coffee Machine - ARCELIK CM 9058 B](https://mallturk.com/products/arcelik-cm9058b): Experience authentic Turkish coffee at home with the ARCELIK CM 9058 B. This automatic machine simplifies brewing for a rich and delightful taste.
-  Updated: 2026-11-07T13:26:20Z
+  Updated: 2026-11-19T08:07:58Z
   Vendor: ARCELIK
   Product Type: Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7176015754_97a2fc4b-6907-4fc4-bfc6-ebad5976ff10.webp?v=1786824725
-  Price: $350.00 USD
+  Price: $550.00 USD
 - [Authentic Turkish Coffee Machine - ARCELIK K 8115 KM InLove](https://mallturk.com/products/arcelik-k8115inlove): Savor authentic Turkish coffee culture with the ARCELIK K 8115 KM InLove Filter Coffee Maker. Perfect for daily use, brew up to 12 cups effortlessly.
-  Updated: 2026-11-07T13:26:21Z
+  Updated: 2026-11-19T08:07:59Z
   Vendor: ARCELIK
   Product Type: Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/image_4c03c693-10e6-4cf9-be03-56b775fddaac.webp?v=1786824725
   Price: $350.00 USD
 - [Authentic Turkish Türk Coffee Machine - Arcelik Quality](https://mallturk.com/products/arcelik-telve): Experience authentic Turkish coffee at home with the Arcelik K3300. This user-friendly coffee machine blends tradition and modern design effortlessly.
-  Updated: 2026-11-07T13:26:21Z
+  Updated: 2026-11-19T08:08:00Z
   Vendor: ARCELIK
   Product Type: Türk coffe machine
   Availability: Available
@@ -1858,329 +1858,329 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7033777055_42d2fa8b-b30a-433d-86b3-dc4c1ed0afcc.webp?v=1786182062
     Price: $100.00 USD
 - [Kütahya Porselen Bone Luz 4-Piece Turkish Coffee Cup Set, White, for 2](https://mallturk.com/products/kutahya-porselen-bone-luz-4-piece-turkish-coffee-cup-set-white-for-2-hbc0000am2wad): Bring elegance to your coffee table with the Bone Luz coffee set. The 4-piece set includes two handled porcelain coffee cups and two saucers. Its timeless plain white design is ideal for everyday coffee breaks and special guests. Capacity: 110 ml per cup. Dishwasher and microwave safe.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:00Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001263309857.jpg?v=1786191448
   Price: $59.64 USD
 - [Kütahya Porselen 'Glad You Exist' 4-Piece Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-glad-you-exist-4-piece-turkish-coffee-cup-set-for-2-hb00000w5ifd): A thoughtful 4-piece Turkish coffee set for two. It includes two porcelain coffee cups and two matching saucers, making it a lovely choice for sharing a coffee moment or giving as a gift.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:01Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10716400418866.jpg?v=1786191450
   Price: $62.58 USD
 - [Kütahya Porselen Silvia 12-Piece Turkish Coffee Cup Set, White, for 6](https://mallturk.com/products/kutahya-porselen-silvia-12-piece-turkish-coffee-cup-set-white-for-6-hb000003njlu): The Silvia set brings a simple, elegant look to coffee service. This 12-piece porcelain set contains six handled coffee cups and six saucers. With its plain white finish and 90 ml capacity, it is ideal for daily use and entertaining. Dishwasher safe.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:01Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001604187205.jpg?v=1786191450
   Price: $68.59 USD
 - [Kütahya Porselen Snowy 4-Piece Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-snowy-4-piece-turkish-coffee-cup-set-for-2-hbc00003a857y): A modern 4-piece porcelain coffee set for two, inspired by winter and new beginnings. The patterned design features nature-inspired deer, owl and bear motifs. Includes two handled coffee cups and two saucers. Dishwasher safe.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:02Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000312012189.jpg?v=1786191452
   Price: $65.60 USD
 - [Kütahya Porselen Snowy 4-Piece Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-snowy-4-piece-turkish-coffee-cup-set-for-2-hbc00003a857w): A modern 4-piece porcelain coffee set for two, inspired by winter and new beginnings. The patterned design features nature-inspired deer, owl and bear motifs. Includes two handled coffee cups and two saucers. Dishwasher safe.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:02Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000312012186.jpg?v=1786191455
   Price: $65.60 USD
 - [Kutahya Bone Iron White Turkish Coffee Cup Set for 6](https://mallturk.com/products/kutahya-porselen-bone-iron-12-piece-turkish-coffee-cup-set-white-for-6-hbc00000eztsc): Kutahya Porselen Bone Iron white Turkish coffee cup set for 6, with six handled porcelain cups and six saucers. Free express shipping worldwide.
-  Updated: 2026-10-31T00:01:16Z
+  Updated: 2026-11-19T08:08:03Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000043386831.jpg?v=1786191455
   Price: $68.59 USD
 - [Kutahya Sailboat Turkish Coffee Cup Set for 6](https://mallturk.com/products/kutahya-porselen-gentlemen-series-sailboat-12-piece-turkish-coffee-cup-set-for-6-hb00000sku2w): Kutahya Porselen Gentlemen Series sailboat Turkish coffee cup set for 6, with six handled cups and six saucers. Free express shipping worldwide.
-  Updated: 2026-10-31T00:01:15Z
+  Updated: 2026-11-19T08:08:04Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10567107444786.jpg?v=1786191458
   Price: $69.01 USD
 - [Kutahya Ataturk Turkish Coffee Cup Set for 2 | 4 Pieces](https://mallturk.com/products/kutahya-porselen-ataturk-4-piece-turkish-coffee-cup-set-for-2-hbc000036dva5): Kutahya Porselen Ataturk Turkish coffee cup set for 2, 4 white porcelain pieces with two handled cups and saucers. Free express shipping worldwide.
-  Updated: 2026-10-31T00:01:13Z
+  Updated: 2026-11-19T08:08:05Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000299500538.jpg?v=1786191458
   Price: $70.19 USD
 - [Kutahya Bone Desire Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-bone-desire-prosperity-symbol-4-piece-turkish-coffee-cup-set-for-2-hbc00008gaakv): Kutahya Porselen Bone Desire Turkish coffee cup set for 2 with Anatolian prosperity motifs, two 90 ml cups and saucers. Free express shipping worldwide.
-  Updated: 2026-10-31T00:01:12Z
+  Updated: 2026-11-19T08:08:05Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000983959540.jpg?v=1786191459
   Price: $79.84 USD
 - [Kutahya Bone Luz White Turkish Coffee Cup Set for 6](https://mallturk.com/products/kutahya-porselen-bone-luz-12-piece-turkish-coffee-cup-set-white-for-6-hbc0000b4t4ln): Kutahya Porselen Bone Luz white Turkish coffee cup set for 6, with six 110 ml handled cups and saucers. Microwave safe. Free express shipping worldwide.
-  Updated: 2026-10-31T00:01:24Z
+  Updated: 2026-11-19T08:08:06Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001325367124.jpg?v=1786191461
   Price: $85.73 USD
 - [Kutahya Bone Pure Love Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-bone-pure-love-4-piece-turkish-coffee-cup-set-for-2-hbc0000cszqkl): Kutahya Porselen Bone Pure Love Turkish coffee cup set for 2, colorful patterned with two 90 ml cups and saucers. Free express shipping worldwide.
-  Updated: 2026-10-31T00:01:20Z
+  Updated: 2026-11-19T08:08:06Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001515329563.jpg?v=1786191463
   Price: $83.26 USD
 - [Kutahya Bone Soft Love Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-bone-soft-love-4-piece-turkish-coffee-cup-set-for-2-hbc0000cszoxl): Kutahya Porselen Bone Soft Love Turkish coffee cup set for 2, with two 90 ml handled cups and two saucers. Free express shipping worldwide.
-  Updated: 2026-10-31T00:00:59Z
+  Updated: 2026-11-19T08:08:07Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001515321793.jpg?v=1786191463
   Price: $83.26 USD
 - [Kutahya Briscambille Turkish Coffee Cup Set for 6](https://mallturk.com/products/kutahya-porselen-briscambille-12-piece-turkish-coffee-cup-set-for-6-hbc00003xtrjq): Kutahya Porselen Briscambille Turkish coffee cup set for 6 with pop-art playing-card patterns, 6 cups and 6 saucers. Free express shipping worldwide.
-  Updated: 2026-10-31T00:00:57Z
+  Updated: 2026-11-19T08:08:08Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000391808637.jpg?v=1786191464
   Price: $84.57 USD
 - [Kutahya Ataturk Signature Turkish Coffee Cup Set for 6](https://mallturk.com/products/kutahya-porselen-ataturk-signature-12-piece-turkish-coffee-cup-set-for-6-hb0000000pt7): Kutahya Porselen Turkish coffee cup set for 6 with a platinum Ataturk signature, 6 cups and 6 saucers, dishwasher safe. Free express shipping worldwide.
-  Updated: 2026-10-31T00:00:55Z
+  Updated: 2026-11-19T08:08:08Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9429220261938.jpg?v=1786191465
   Price: $105.75 USD
 - [Kütahya Porselen Bone Luna 4-Piece Teapot and Tea Cup Set](https://mallturk.com/products/kutahya-porselen-bone-luna-4-piece-teapot-and-tea-cup-set-hbc0000fbsv49): The Bone Luna set is inspired by the calm glow of the moon, with balanced forms, rhythmic lines and a butterfly detail. This 4-piece set includes one tea cup, one tea saucer, one teapot and one teapot lid. Dishwasher safe.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:09Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001796146452.jpg?v=1786191467
   Price: $124.42 USD
 - [Karaca Rory Single Turkish Coffee Cup Set 80 ml](https://mallturk.com/products/karaca-rory-single-turkish-coffee-cup-set-80-ml-mturkhbc00004vfey0): This original Karaca set combines practical everyday use with an elegant presentation. Material: glass. Capacity: 80 ml. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:09Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001078399129.jpg?v=1786356214
   Price: $58.49 USD
 - [Karaca Little Prince Turkish Coffee Cup Set for 2](https://mallturk.com/products/karaca-the-little-prince-4-piece-turkish-coffee-cup-and-saucer-set-for-2-mturkhbc00000vxywf): Karaca The Little Prince porcelain Turkish coffee cup set for 2, 4 pieces with cups and saucers, ideal for gifting. Free express shipping worldwide.
-  Updated: 2026-10-31T00:00:54Z
+  Updated: 2026-11-19T08:08:10Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000138079490.jpg?v=1786356214
   Price: $60.67 USD
 - [Karaca Plaid Red Porcelain Turkish Coffee Cup Set for 2](https://mallturk.com/products/karaca-plaid-4-piece-red-porcelain-turkish-coffee-cup-set-for-2-80-ml-mturkhbc00000z0vkk): Karaca Plaid red porcelain Turkish coffee cup set for 2, 4 pieces with 80 ml cups. Hand washing recommended. Free express shipping worldwide.
-  Updated: 2026-10-31T00:00:52Z
+  Updated: 2026-11-19T08:08:11Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001625019613.jpg?v=1786356215
   Price: $60.67 USD
 - [Karaca Lovely Laugh Espresso Cup Set for 4, 100 ml](https://mallturk.com/products/karaca-lovely-laugh-espresso-cup-set-for-4-100-ml-mturkhbc0000373f1k): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 100 ml. Designed for 4 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:11Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000388034245.jpg?v=1786356218
   Price: $62.22 USD
 - [Karaca Ihlamur Turkish Coffee Cup Set for 2, 80 ml](https://mallturk.com/products/karaca-ihlamur-colorful-new-bone-turkish-coffee-cup-set-for-2-80-ml-mturkhbc00004m07oz): Karaca Ihlamur colorful new bone Turkish coffee cup set for 2 with 80 ml cups, elegant for serving and gifting. Free express shipping worldwide.
-  Updated: 2026-10-31T00:00:51Z
+  Updated: 2026-11-19T08:08:12Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000557702189.jpg?v=1786356219
   Price: $62.22 USD
 - [Karaca Aries Striped Turkish Coffee Cup Set 90 ml](https://mallturk.com/products/karaca-aries-striped-turkish-coffee-cup-set-90-ml-mturkhbc0000fle2k0): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 90 ml. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:12Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001961866678.jpg?v=1786356220
   Price: $68.44 USD
 - [Karaca Aries Deer Turkish Coffee Cup Set 90 ml](https://mallturk.com/products/karaca-aries-deer-turkish-coffee-cup-set-90-ml-mturkhbc0000flowus): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 90 ml. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:13Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001961829449.jpg?v=1786824666
   Price: $68.44 USD
 - [Karaca Saturn Gold Porcelain Turkish Coffee Cup Set for 2, 100 ml](https://mallturk.com/products/karaca-saturn-gold-porcelain-turkish-coffee-cup-set-for-2-100-ml-mturkhbc00000fsipy): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 100 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:14Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000576084780.jpg?v=1786356223
   Price: $71.55 USD
 - [Karaca Turkiye Series Turkish Coffee Cup Set 85 ml](https://mallturk.com/products/karaca-turkiye-series-turkish-coffee-cup-set-85-ml-mturkhbc0000fl58r2): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 85 ml. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:14Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001821012238.jpg?v=1786356224
   Price: $68.44 USD
 - [Karaca Bali Turkish Coffee Cup Set for 6, 80 ml](https://mallturk.com/products/karaca-bali-turkish-coffee-cup-set-for-6-80-ml-mturkhbc00003zr61q): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 6 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:15Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000424302791.jpg?v=1786356225
   Price: $74.67 USD
 - [Karaca Nossa Black and White Porcelain Turkish Coffee Cup Set for 6, 8](https://mallturk.com/products/karaca-nossa-black-and-white-porcelain-turkish-coffee-cup-set-for-6-80-ml-mturkhbc00000vkzpt): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 6 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:15Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000094644552.jpg?v=1786356226
   Price: $74.67 USD
 - [Karaca Venus Gold Turkish Coffee Cup Set for 2, 135 ml](https://mallturk.com/products/karaca-venus-gold-turkish-coffee-cup-set-for-2-135-ml-mturkhbc000046y17q): This original Karaca set combines practical everyday use with an elegant presentation. Material: new bone. Capacity: 135 ml. Designed for 2 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:16Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000528105214.jpg?v=1786356227
   Price: $74.67 USD
 - [Karaca Anemon 5-Piece Bone Turkish Coffee Cup Set with Stand for 2, 80](https://mallturk.com/products/karaca-anemon-5-piece-bone-turkish-coffee-cup-set-with-stand-for-2-80-ml-mturkhbc00007cr48e): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 80 ml. Designed for 2 people. Set includes 5 pieces. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001137355594.jpg?v=1786356230
   Price: $71.55 USD
 - [Karaca Ahenk Turkish Coffee Cup Set for 6, 80 ml](https://mallturk.com/products/karaca-ahenk-turkish-coffee-cup-set-for-6-80-ml-mturkhbc0000e2j517): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 80 ml. Designed for 6 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001659468487.jpg?v=1786356230
   Price: $71.55 USD
 - [Karaca Streamline Saturn Single Coffee Presentation Set 100 ml](https://mallturk.com/products/karaca-streamline-saturn-single-coffee-presentation-set-100-ml-mturkhbc0000dj48fo): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 100 ml. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:18Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001816770815.jpg?v=1786356230
   Price: $74.67 USD
 - [Karaca Peacock 4-Piece Patterned Porcelain Turkish Coffee Cup Set for](https://mallturk.com/products/karaca-peacock-4-piece-patterned-porcelain-turkish-coffee-cup-set-for-2-90-ml-mturkhbc000068j10i): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 90 ml. Designed for 2 people. Set includes 4 pieces. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:18Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001076003796.jpg?v=1786356233
   Price: $80.89 USD
 - [Karaca x Galatasaray Licensed Turkish Coffee Cup Set for 6, 80 ml](https://mallturk.com/products/karaca-x-galatasaray-licensed-turkish-coffee-cup-set-for-6-80-ml-mturkhbcv0000fk80tg): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 6 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:19Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001818570458.jpg?v=1786356233
   Price: $80.89 USD
 - [Karaca Iznik Series Fish Turkish Coffee Cup Set 90 ml](https://mallturk.com/products/karaca-iznik-series-fish-turkish-coffee-cup-set-90-ml-mturkhbc0000fg8mw1): This original Karaca set combines practical everyday use with an elegant presentation. Capacity: 90 ml. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:20Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001807118657.jpg?v=1786356234
   Price: $74.67 USD
 - [Karaca Solenne Cream Turkish Coffee Cup Set for 2, 80 ml](https://mallturk.com/products/karaca-solenne-cream-turkish-coffee-cup-set-for-2-80-ml-mturkhbc0000ffc5lj): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:20Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001804825012.jpg?v=1786356235
   Price: $74.67 USD
 - [Karaca Deep Red Striped Turkish Coffee Cup Set 90 ml](https://mallturk.com/products/karaca-deep-red-striped-turkish-coffee-cup-set-90-ml-mturkhbcv0000g12gzl): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 90 ml. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:21Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001861067922.jpg?v=1786356237
   Price: $77.78 USD
 - [Karaca Flowerful Turkish Coffee Cup Set for 6, 80 ml](https://mallturk.com/products/karaca-flowerful-turkish-coffee-cup-set-for-6-80-ml-mturkhbc0000gzthje): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 6 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:22Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001961635061.jpg?v=1786356237
   Price: $77.75 USD
 - [Karaca King and Queen Turkish Coffee Cup Set for 2, 90 ml](https://mallturk.com/products/karaca-king-and-queen-turkish-coffee-cup-set-for-2-90-ml-mturkhbc0000gdpw74): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 90 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:22Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001889688557.jpg?v=1786356238
   Price: $77.78 USD
 - [Karaca Cherry Time Striped Turkish Coffee Cup Set 90 ml](https://mallturk.com/products/karaca-cherry-time-striped-turkish-coffee-cup-set-90-ml-mturkhbc0000fn9gf1): This original Karaca set combines practical everyday use with an elegant presentation. Material: new bone. Capacity: 90 ml. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:23Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001826984268.jpg?v=1786356241
   Price: $68.78 USD
 - [Karaca Jungle Turkish Coffee Cup Set for 6, 80 ml](https://mallturk.com/products/karaca-jungle-turkish-coffee-cup-set-for-6-80-ml-mturkhbc00000e1pa8): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 6 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:24Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001443646760.jpg?v=1786356242
   Price: $77.47 USD
 - [Karaca Art Deco 2-Piece Porcelain Turkish Coffee Cup Set 80 ml](https://mallturk.com/products/karaca-art-deco-2-piece-porcelain-turkish-coffee-cup-set-80-ml-mturkhb00000uwzcn): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Set includes 2 pieces. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:24Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001067980379.jpg?v=1786356242
   Price: $80.89 USD
 - [Karaca 50th Anniversary Signature Collection Korea Turkish Coffee Cup](https://mallturk.com/products/karaca-50th-anniversary-signature-collection-korea-turkish-coffee-cup-set-for-2-100-ml-mturkhbc0000empbwl): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 100 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:25Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001858915695.jpg?v=1786356243
   Price: $77.78 USD
 - [Karaca Swan Porcelain Turkish Coffee Cup Set for 2, 70 ml](https://mallturk.com/products/karaca-swan-porcelain-turkish-coffee-cup-set-for-2-70-ml-mturkhbc000000ywwb): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 70 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:25Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001137355690.jpg?v=1786356247
   Price: $77.78 USD
 - [Karaca Boyoz Turkish Coffee Cup Set for 6, 85 ml](https://mallturk.com/products/karaca-boyoz-turkish-coffee-cup-set-for-6-85-ml-mturkhbc00004jgpe6): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 85 ml. Designed for 6 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:26Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000965343662.jpg?v=1786356245
   Price: $77.78 USD
 - [Karaca Deep Blue Striped Turkish Coffee Cup Set 90 ml](https://mallturk.com/products/karaca-deep-blue-striped-turkish-coffee-cup-set-90-ml-mturkhbcv0000g12gzu): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 90 ml. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:26Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001861067946.jpg?v=1786356248
   Price: $77.78 USD
 - [Karaca Red Rose Turkish Coffee Cup Set for 2, 90 ml](https://mallturk.com/products/karaca-red-rose-turkish-coffee-cup-set-for-2-90-ml-mturkhbc0000g4qy60): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 90 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:27Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001868876413.jpg?v=1786356248
   Price: $77.78 USD
 - [Karaca Giraffe Pattern Turkish Coffee Cup Set for 2, 90 ml](https://mallturk.com/products/karaca-giraffe-pattern-turkish-coffee-cup-set-for-2-90-ml-mturkhbc0000gopkr2): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 90 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:28Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001920397505.jpg?v=1786356249
   Price: $80.89 USD
 - [Karaca Faberge Egg Turkish Coffee Cup Set for 2, 90 ml](https://mallturk.com/products/karaca-faberge-egg-turkish-coffee-cup-set-for-2-90-ml-mturkhbc0000azgdnr): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 90 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-30T18:27:17Z
+  Updated: 2026-11-19T08:08:29Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
@@ -2190,756 +2190,510 @@
 
 ## Collections
 
-- [Home page](https://mallturk.com/collections/frontpage)
-  Updated: 2026-10-23T12:13:08Z
-  Total Products: 3
-- [Turkish Mosaic Chandeliers](https://mallturk.com/collections/chandelier): Explore Turkish mosaic chandeliers at MallTurk. Discover handcrafted designs featuring vibrant colors, unique patterns, and timeless Turkish craftsmanship.
-  Updated: 2026-10-23T12:13:08Z
+- [Turkish Mosaic Chandeliers](https://mallturk.com/collections/chandelier-eski): Explore Turkish mosaic chandeliers at MallTurk. Discover handcrafted designs featuring vibrant colors, unique patterns, and timeless Turkish craftsmanship.
+  Updated: 2026-11-18T15:25:29Z
   Total Products: 65
 - [Turkish Mosaic Floor Lamps](https://mallturk.com/collections/floor-lamp): Explore Turkish mosaic floor lamps at MALLTURK. Discover handcrafted designs featuring vibrant colors, unique patterns, and timeless Turkish craftsmanship.
   Updated: 2026-10-23T12:13:08Z
   Total Products: 27
 - [Turkish Coffee Machines](https://mallturk.com/collections/turkish-coffee-machines): Shop electric Turkish coffee machines from Turkey's leading brands. Rich, foamy coffee at the touch of a button. Free express shipping worldwide.
-  Updated: 2026-11-07T06:14:43Z
+  Updated: 2026-11-21T12:12:01Z
   Total Products: 90
-- [Cookware](https://mallturk.com/collections/cookware): Explore Cookware at MALLTURK. Discover practical and stylish options for everyday cooking and meal preparation.
-  Updated: 2026-10-23T12:13:09Z
+- [Cookware](https://mallturk.com/collections/cookware-eski): Explore Cookware at MALLTURK. Discover practical and stylish options for everyday cooking and meal preparation.
+  Updated: 2026-11-18T15:23:19Z
   Total Products: 596
 - [Women's Clothing](https://mallturk.com/collections/womens-clothing): Shop women's clothing made in Turkey: dresses, tops, trousers, knitwear, outerwear and more. Free express shipping worldwide.
   Updated: 2026-10-23T12:13:09Z
   Total Products: 4
-- [Turkish Coffee Set](https://mallturk.com/collections/turkish-coffee-set): Explore Coffee Set options at MALLTURK. Discover stylish designs for serving Turkish coffee at home or on special occasions.
-  Updated: 2026-10-23T12:13:09Z
-  Total Products: 135
-- [Automatic Coffee Machine](https://mallturk.com/collections/automatic-coffee-machine): Explore automatic coffee machines at MallTurk. Discover practical and modern coffee machines designed for convenient preparation and enjoyable everyday use.
-  Updated: 2026-10-23T12:13:09Z
-  Total Products: 29
-- [Ground Coffee](https://mallturk.com/collections/ground-coffee): Authentic Turkish Coffee – Every Type, One Store, Great Prices From classic finely ground Turkish coffee to rare traditional blends, Mallturk brings you one of the widest selections of authentic Turkish coffee online, all at affordable prices. Discover classic Turkish coffee, dibek coffee, menengiç (terebinth) coffee, Ottoman coffee, and flavored blends such as mastic, cardamom and more. Whether you're a Turkish coffee lover, a café owner, or looking for a unique gift, you'll find your favorite here. Complete your ritual with traditional cezves, Turkish coffee machines and coffee cup sets. Why buy from Mallturk:- Wide variety of authentic Turkish coffee from popular Turkish brands- Affordable prices for retail and wholesale orders- Shipped in original sealed packaging- Free worldwide express shipping on every order- All taxes and duties included for the US and EU – no surprise fees on delivery- Ready to ship within 3 business days, delivered in about 5 business days
-  Updated: 2026-11-04T12:12:06Z
+- [Ground Coffee](https://mallturk.com/collections/ground-coffee-eski): Authentic Turkish Coffee – Every Type, One Store, Great Prices From classic finely ground Turkish coffee to rare traditional blends, Mallturk brings you one of the widest selections of authentic Turkish coffee online, all at affordable prices. Discover classic Turkish coffee, dibek coffee, menengiç (terebinth) coffee, Ottoman coffee, and flavored blends such as mastic, cardamom and more. Whether you're a Turkish coffee lover, a café owner, or looking for a unique gift, you'll find your favorite here. Complete your ritual with traditional cezves, Turkish coffee machines and coffee cup sets. Why buy from Mallturk:- Wide variety of authentic Turkish coffee from popular Turkish brands- Affordable prices for retail and wholesale orders- Shipped in original sealed packaging- Free worldwide express shipping on every order- All taxes and duties included for the US and EU – no surprise fees on delivery- Ready to ship within 3 business days, delivered in about 5 business days
+  Updated: 2026-11-18T15:28:37Z
   Total Products: 979
-- [Turkish Mosaic Wall Lamps](https://mallturk.com/collections/mosaic-wall-lamp): Explore handmade Turkish mosaic wall sconces at MALLTURK. Discover premium wall lighting with special designs, traditional craftsmanship, and elegant style.
-  Updated: 2026-10-23T12:13:09Z
-  Total Products: 26
 - [Turkish Mosaic Table Lamps](https://mallturk.com/collections/turkish-mosaic-lamps-floor-lamp): Explore Turkish mosaic table lamps at MALLTURK. Discover handcrafted designs featuring vibrant colors, unique patterns, and timeless Turkish craftsmanship.
   Updated: 2026-10-23T12:13:09Z
   Total Products: 74
-- [Turkish Delight](https://mallturk.com/collections/turkish-delight): Shop authentic Turkish delight (lokum) with pistachio, rose, hazelnut and more flavors. Fresh from Turkey with free express shipping worldwide.
-  Updated: 2026-11-01T12:12:40Z
+- [Turkish Delight](https://mallturk.com/collections/turkish-delight-eski): Shop authentic Turkish delight (lokum) with pistachio, rose, hazelnut and more flavors. Fresh from Turkey with free express shipping worldwide.
+  Updated: 2026-11-18T15:34:52Z
   Total Products: 1795
 - [Tea](https://mallturk.com/collections/tea-1): Shop Turkish tea made in Turkey, from classic black tea to herbal and fruit blends. Free express shipping worldwide.
   Updated: 2026-10-31T10:28:34Z
   Total Products: 1359
-- [Bathrobe Sets](https://mallturk.com/collections/bathrobe-sets): Shop soft Turkish cotton bathrobe sets made in Turkey. Absorbent, luxurious and perfect as a gift. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:09Z
+- [Bathrobe Sets](https://mallturk.com/collections/bathrobe-sets-eski): Shop soft Turkish cotton bathrobe sets made in Turkey. Absorbent, luxurious and perfect as a gift. Free express shipping worldwide.
+  Updated: 2026-11-18T15:24:39Z
   Total Products: 136
-- [Bedding](https://mallturk.com/collections/bedding): Shop Turkish bedding made in Turkey: bed sheets, quilts and bedding sets for a cosy bedroom. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:09Z
+- [Bedding](https://mallturk.com/collections/bedding-eski): Shop Turkish bedding made in Turkey: bed sheets, quilts and bedding sets for a cosy bedroom. Free express shipping worldwide.
+  Updated: 2026-11-18T15:22:59Z
   Total Products: 30
-- [Towels](https://mallturk.com/collections/towels): Shop Turkish towels made in Turkey, soft bath, hand and beach towels for home and holidays. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:09Z
+- [Towels](https://mallturk.com/collections/towels-eski): Shop Turkish towels made in Turkey, soft bath, hand and beach towels for home and holidays. Free express shipping worldwide.
+  Updated: 2026-11-18T15:23:34Z
   Total Products: 101
-- [Tea Makers Collection](https://mallturk.com/collections/tea-makers): Explore tea makers at MallTurk. Discover practical and modern solutions designed for convenient tea preparation and enjoyable everyday use.
-  Updated: 2026-10-28T11:12:00Z
-  Total Products: 347
-- [Teapot Set](https://mallturk.com/collections/teapot-set): Explore Teapot Set options at MALLTURK. Discover elegant and practical designs for serving tea at home and on special occasions.
-  Updated: 2026-11-07T12:14:20Z
+- [Teapot Set](https://mallturk.com/collections/teapot-set-eski): Explore Teapot Set options at MALLTURK. Discover elegant and practical designs for serving tea at home and on special occasions.
+  Updated: 2026-11-18T15:34:33Z
   Total Products: 431
-- [Cutlery](https://mallturk.com/collections/cutlery): Explore Cutlery at MALLTURK. Discover practical and stylish options for everyday dining, special occasions, and elegant table settings.
-  Updated: 2026-10-23T12:13:10Z
+- [Cutlery](https://mallturk.com/collections/cutlery-eski): Explore Cutlery at MALLTURK. Discover practical and stylish options for everyday dining, special occasions, and elegant table settings.
+  Updated: 2026-11-18T15:23:14Z
   Total Products: 897
-- [Pressure Cookers](https://mallturk.com/collections/pressure-cookers): Explore Pressure Cookers at MALLTURK. Discover practical and versatile options for convenient everyday cooking and meal preparation.
-  Updated: 2026-10-23T12:13:10Z
-  Total Products: 111
-- [Men's Jeans](https://mallturk.com/collections/mens-jeans): Shop men's jeans made in Turkey: slim, regular and relaxed fits in quality Turkish denim. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:10Z
-  Total Products: 211
-- [Home & Living](https://mallturk.com/collections/home-living): Shop Turkish home decor and living essentials made in Turkey, from bedding to kitchenware and decoration. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:10Z
-  Total Products: 0
 - [Rose Products](https://mallturk.com/collections/rose-products): Shop Turkish rose products, from rose water to rose oil and cosmetics, made with roses from Turkey. Free express shipping worldwide.
   Updated: 2026-10-23T12:13:10Z
   Total Products: 86
-- [Boys' Clothing](https://mallturk.com/collections/boys-clothing): Shop boys' clothing made in Turkey: t-shirts, shirts, trousers, jackets and more for every day. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:10Z
-  Total Products: 2
-- [Women's Jeans](https://mallturk.com/collections/womens-jeans): Shop women's jeans made in Turkey, from skinny to wide-leg and mom fits for every day. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:10Z
+- [Women's Jeans](https://mallturk.com/collections/womens-jeans-eski): Shop women's jeans made in Turkey, from skinny to wide-leg and mom fits for every day. Free express shipping worldwide.
+  Updated: 2026-11-18T15:36:13Z
   Total Products: 455
-- [Juicers](https://mallturk.com/collections/juicers): Explore Juicers at MALLTURK. Discover practical options for preparing fresh juices at home and enjoying convenient everyday use.
-  Updated: 2026-10-23T12:13:10Z
-  Total Products: 6
 - [Lipstick](https://mallturk.com/collections/lipstick): Shop lipstick made in Turkey in a range of shades, from everyday nudes to bold reds. Free express shipping worldwide.
   Updated: 2026-10-23T12:13:10Z
   Total Products: 7
-- [Nail Polish](https://mallturk.com/collections/nail-polish): Shop nail polish made in Turkey in a wide range of shades, from classic nudes to bold colours. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:10Z
-  Total Products: 16
-- [Nail Care](https://mallturk.com/collections/nail-care): Shop nail care products made in Turkey, manicure essentials for healthy-looking, well-groomed nails. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:10Z
-  Total Products: 0
-- [Makeup Supplies](https://mallturk.com/collections/makeup-supplies): Explore Makeup Supplies at MALLTURK. Find practical products for everyday makeup and beauty routines.
-  Updated: 2026-10-23T12:13:10Z
-  Total Products: 136
-- [Agricultural Pumps](https://mallturk.com/collections/agricultural-pumps): Shop agricultural pumps for irrigation, farms and gardens, made in Turkey. Reliable water transfer equipment with free express shipping worldwide.
-  Updated: 2026-10-23T12:13:10Z
-  Total Products: 22
-- [Women's Bags](https://mallturk.com/collections/womens-bags): Shop women's bags made in Turkey: handbags, shoulder bags, clutches, backpacks and more. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:11Z
+- [Women's Bags](https://mallturk.com/collections/womens-bags-eski): Shop women's bags made in Turkey: handbags, shoulder bags, clutches, backpacks and more. Free express shipping worldwide.
+  Updated: 2026-11-18T15:22:48Z
   Total Products: 1349
-- [Spices & Seasonings](https://mallturk.com/collections/spices-seasonings): Shop Turkish spices and seasonings made in Turkey to bring authentic flavour to your cooking. Free express shipping worldwide.
-  Updated: 2026-11-09T12:14:20Z
-  Total Products: 146
-- [Hair Care](https://mallturk.com/collections/hair-care): Explore Hair Care products at MALLTURK. Discover practical options for everyday hair care routines and different hair care needs.
-  Updated: 2026-10-23T12:13:11Z
+- [Hair Care](https://mallturk.com/collections/hair-care-eski): Explore Hair Care products at MALLTURK. Discover practical options for everyday hair care routines and different hair care needs.
+  Updated: 2026-11-18T15:23:31Z
   Total Products: 90
-- [Lip Makeup & Care](https://mallturk.com/collections/lip-makeup-care): Explore Lip Makeup & Care at MALLTURK, including lip gloss, lip liner, lip balm, lipstick, and other beauty essentials.
-  Updated: 2026-10-23T12:13:11Z
-  Total Products: 84
-- [Turkish Pestemal](https://mallturk.com/collections/turkish-pestemal): Shop Turkish pestemal towels made in Turkey, light and versatile for the beach, bath, spa and travel. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:11Z
+- [Turkish Pestemal](https://mallturk.com/collections/turkish-pestemal-eski): Shop Turkish pestemal towels made in Turkey, light and versatile for the beach, bath, spa and travel. Free express shipping worldwide.
+  Updated: 2026-11-18T15:34:55Z
   Total Products: 4
-- [Men's Shoes](https://mallturk.com/collections/mens-shoes): Shop men's shoes made in Turkey: sneakers, boots, sandals and formal shoes for every occasion. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:11Z
-  Total Products: 2
-- [Men's Boots](https://mallturk.com/collections/mens-boots): Shop men's boots made in Turkey, sturdy and stylish footwear for city, outdoors and winter. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:11Z
-  Total Products: 78
-- [Women's Boots](https://mallturk.com/collections/womens-boots): Shop women's boots made in Turkey: ankle boots, knee-high styles and more in quality materials. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:11Z
+- [Women's Boots](https://mallturk.com/collections/womens-boots-eski): Shop women's boots made in Turkey: ankle boots, knee-high styles and more in quality materials. Free express shipping worldwide.
+  Updated: 2026-11-18T15:35:39Z
   Total Products: 148
-- [Women's Wallet](https://mallturk.com/collections/womens-wallet): Shop women's wallets made in Turkey: leather and stylish everyday designs with smart card storage. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:11Z
-  Total Products: 73
-- [Vitamins and Supplements](https://mallturk.com/collections/vitamins-and-supplements): Shop vitamins and supplements made in Turkey to support your daily wellness routine. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:11Z
-  Total Products: 365
-- [Women's Backpack](https://mallturk.com/collections/womens-backpack): Shop women's backpack styles made in Turkey, practical and stylish bags for work, study and travel. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:11Z
-  Total Products: 24
-- [Men's Outerwear](https://mallturk.com/collections/mens-outerwear): Shop men's outerwear made in Turkey: coats, jackets and vests for every season and occasion. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:11Z
-  Total Products: 29
-- [Rugs](https://mallturk.com/collections/rugs): Shop Turkish rugs made in Turkey, area rugs and carpets in classic and modern designs for every room. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:11Z
+- [Rugs](https://mallturk.com/collections/rugs-eski): Shop Turkish rugs made in Turkey, area rugs and carpets in classic and modern designs for every room. Free express shipping worldwide.
+  Updated: 2026-11-18T15:33:22Z
   Total Products: 188
 - [Bee Products](https://mallturk.com/collections/bee-products): Shop natural Turkish bee products: honey, honeycomb, pollen, propolis and more, sourced from Turkey. Free express shipping worldwide.
   Updated: 2026-10-23T12:13:12Z
   Total Products: 55
-- [Women's Outerwear](https://mallturk.com/collections/womens-outerwear): Shop women's outerwear made in Turkey: coats, jackets and layering pieces for every season. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:12Z
+- [Women's Outerwear](https://mallturk.com/collections/womens-outerwear-eski): Shop women's outerwear made in Turkey: coats, jackets and layering pieces for every season. Free express shipping worldwide.
+  Updated: 2026-11-18T15:24:14Z
   Total Products: 32
-- [Sports Nutrition](https://mallturk.com/collections/sports-nutrition): Shop sports nutrition products made in Turkey to complement your training and active lifestyle. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:12Z
-  Total Products: 136
-- [Wool Rugs](https://mallturk.com/collections/wool-rugs): Shop Turkish wool rugs with traditional and modern designs. Durable, warm and made in Turkey. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:12Z
-  Total Products: 2378
-- [Bamboo Rugs](https://mallturk.com/collections/bamboo-rugs): Shop bamboo rugs made in Turkey: soft, silky texture with modern designs for every room. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:12Z
-  Total Products: 221
-- [Turkish Ceramic Vases](https://mallturk.com/collections/turkish-ceramic-vases): Shop Turkish ceramic vases with traditional patterns and colors, made in Turkey for home decor and gifts. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:12Z
-  Total Products: 0
-- [Porcelain Vases](https://mallturk.com/collections/porcelain-vases): Shop porcelain vases made in Turkey for flowers, tables and shelves. Elegant decorative pieces and gifts with free express shipping worldwide.
-  Updated: 2026-10-23T12:13:12Z
-  Total Products: 0
-- [Handmade Cini Vases & Decoration](https://mallturk.com/collections/handmade-vases): Shop handmade cini vases and decoration made in Turkey, inspired by traditional Turkish tile art. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:12Z
-  Total Products: 250
 - [Handmade cini](https://mallturk.com/collections/home-decor): Shop handmade Turkish cini ceramics with traditional Ottoman and Iznik-inspired patterns. Unique home decor from Turkey. Free express shipping.
   Updated: 2026-10-23T12:13:12Z
   Total Products: 633
 - [Turkish Baklava](https://mallturk.com/collections/turkish-baklava): Explore Turkish Baklava at MALLTURK. Discover traditional flavors and carefully selected varieties for every occasion.
   Updated: 2026-10-23T12:13:12Z
   Total Products: 102
-- [Garden Equipment](https://mallturk.com/collections/garden-equipment): Shop garden equipment made in Turkey for planting, watering and lawn care. Practical tools for your yard with free express shipping worldwide.
-  Updated: 2026-10-23T12:13:12Z
-  Total Products: 0
-- [Turkish Snacks](https://mallturk.com/collections/turkish-snacks): Shop popular Turkish snacks: chips, crackers, chocolate bars and more favorites from Turkey. Free express shipping worldwide.
-  Updated: 2026-11-14T12:14:40Z
-  Total Products: 66
-- [Turkish Grocery](https://mallturk.com/collections/turkish-grocery): Shop Turkish grocery online: pantry staples, sweets, snacks and drinks made in Turkey. Free express shipping worldwide on every order.
-  Updated: 2026-11-09T12:14:20Z
-  Total Products: 11
-- [Turkish Sweets](https://mallturk.com/collections/turkish-sweets): Shop traditional Turkish sweets: halva, Turkish delight, baklava and more, made in Turkey. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:13Z
-  Total Products: 12
-- [Traditional Turkish Drinks](https://mallturk.com/collections/traditional-turkish-drinks): Shop traditional Turkish drinks made in Turkey, from tea and coffee to classic beverages. Free express shipping worldwide on every order.
-  Updated: 2026-10-23T12:13:13Z
-  Total Products: 6
-- [Turkish Bakery](https://mallturk.com/collections/turkish-bakery): Shop Turkish bakery products: biscuits, cookies, cakes and traditional baked treats from Turkey. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:13Z
-  Total Products: 11
-- [TEA](https://mallturk.com/collections/tea): Shop authentic Turkish tea from Turkey's favorite brands. Brew the rich, red tea served in every Turkish home. Free express shipping worldwide.
-  Updated: 2026-10-27T11:13:38Z
-  Total Products: 6
-- [Turkish Breakfast](https://mallturk.com/collections/turkish-breakfast): Shop Turkish breakfast foods made in Turkey to recreate a traditional kahvaltı spread at home. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:13Z
-  Total Products: 19
-- [Herbal & Fruit Tea](https://mallturk.com/collections/herbal-fruit-tea): Shop herbal tea and fruit tea made in Turkey, flavourful infusions to enjoy hot or cold. Free express shipping worldwide.
-  Updated: 2026-11-06T12:12:52Z
-  Total Products: 1912
-- [Leather Bags](https://mallturk.com/collections/leather-bags): Explore Leather Bags at MALLTURK. Discover stylish and practical designs for everyday use and different occasions.
-  Updated: 2026-10-23T12:13:13Z
-  Total Products: 160
-- [Women's Swimwear](https://mallturk.com/collections/womens-swimwear): Shop women's swimwear made in Turkey: swimsuits, bikinis and beachwear for summer holidays. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:13Z
-  Total Products: 316
-- [Men's Swimwear](https://mallturk.com/collections/mens-swimwear): Shop men's swimwear made in Turkey: swim shorts and trunks in quick-drying fabrics and modern styles. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:13Z
-  Total Products: 60
-- [Men's Sportswear](https://mallturk.com/collections/mens-sportswear): Shop men's sportswear made in Turkey: tracksuits, t-shirts and activewear for training and leisure. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:13Z
-  Total Products: 9
-- [Women's Sportswear](https://mallturk.com/collections/womens-sportswear): Shop women's sportswear made in Turkey: leggings, tops, tracksuits and activewear for every workout. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:13Z
-  Total Products: 69
-- [Girls' Swimwear](https://mallturk.com/collections/girls-swimwear): Shop girls' swimwear made in Turkey, fun swimsuits and bikinis for the beach, pool and holidays. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:13Z
-  Total Products: 13
-- [Leather Gloves](https://mallturk.com/collections/leather-gloves): Shop leather gloves made in Turkey: warm, soft and stylish designs for men and women. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:13Z
-  Total Products: 9
-- [Leather Hats](https://mallturk.com/collections/leather-hats): Shop leather hats made in Turkey, from caps to classic styles for everyday wear and gifts. Free express shipping worldwide on every order.
-  Updated: 2026-10-23T12:13:13Z
-  Total Products: 55
 - [Turkish Mosaic Chandelier – 5 Globe](https://mallturk.com/collections/turkish-mosaic-chandelier-5-globe): Handmade Turkish Mosaic Lamps – Direct from the Manufacturer We don't resell mosaic lamps. We make them. Every lamp in this collection is handcrafted in our own workshop in Türkiye, piece by piece, using colorful glass mosaic and traditional Ottoman-inspired designs. Because you buy directly from the maker, there are no middlemen and no marketplace markups. You get authentic handmade quality at factory-direct prices. Choose from table lamps, floor lamps, hanging lamps and chandeliers, perfect for living rooms, bedrooms, restaurants, cafés and hotels. Why buy from Mallturk:- Made by us, not resold: authentic handmade Turkish mosaic lamps- Free worldwide express shipping on every order- All taxes and duties included for the US and EU – no surprise fees on delivery- Ready to ship within 3 business days, delivered in about 5 business days- Carefully packed for safe international delivery- Wholesale and bulk orders welcome for hotels, restaurants and retailers
   Updated: 2026-10-23T12:13:14Z
   Total Products: 17
-- [Hafiz Mustafa 1864 Products](https://mallturk.com/collections/hafiz-mustafa): Explore Hafiz Mustafa 1864 products at MallTurk. Discover traditional Turkish sweets, delicacies, gift options, and authentic flavors for every occasion.
-  Updated: 2026-11-06T12:12:52Z
-  Total Products: 69
-- [Boys' Swimwear](https://mallturk.com/collections/boys-swimwear): Shop boys' swimwear and swim shorts made in Turkey. Comfortable, quick-drying styles for the beach and pool. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:14Z
-  Total Products: 2
-- [Dried Fruits](https://mallturk.com/collections/dried-fruits): Shop premium Turkish dried fruits: apricots, figs, mulberries and more, straight from Turkey. A healthy, natural snack. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:14Z
-  Total Products: 14
-- [Sand Coffee Makers](https://mallturk.com/collections/sand-coffee-makers): Brew Turkish coffee the traditional way on hot sand. Shop authentic sand coffee makers from Turkey with free worldwide express shipping.
-  Updated: 2026-10-23T12:13:14Z
-  Total Products: 0
-- [Stainless Steel Tea Urns](https://mallturk.com/collections/stainless-steel-tea-urns): Shop stainless steel tea urn models made in Turkey, ideal for serving tea at home, events and businesses. Free express shipping worldwide.
-  Updated: 2026-11-06T10:51:41Z
-  Total Products: 15
 - [Traditional coffee and tea](https://mallturk.com/collections/traditional-coffee-and-tea): Discover authentic Turkish coffee and tea essentials, shipped directly from Turkey. Bring a true taste of Turkish hospitality home. Free express shipping.
   Updated: 2026-11-06T10:51:41Z
   Total Products: 15
-- [Women's Pants](https://mallturk.com/collections/womens-pants): Shop women's pants made in Turkey: wide-leg, straight, high-waisted and more styles for work and everyday. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:14Z
-  Total Products: 386
-- [Women's Shorts](https://mallturk.com/collections/womens-shorts): Shop women's shorts made in Turkey: denim, linen-look and casual styles for warm days. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:14Z
-  Total Products: 0
-- [Women's Skirts](https://mallturk.com/collections/womens-skirts): Shop women's skirts made in Turkey: midi, mini and maxi styles for every occasion. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:14Z
-  Total Products: 167
-- [Women's Dresses](https://mallturk.com/collections/womens-dresses): Shop women's dresses made in Turkey, from casual day dresses to elegant styles for special occasions. Free express shipping worldwide.
-  Updated: 2026-10-24T08:26:25Z
-  Total Products: 228
-- [Women's Bodysuits & Corsets](https://mallturk.com/collections/womens-bodysuits-corsets): Shop women's bodysuits and corsets made in Turkey for everyday and evening looks. Flattering fits with free express shipping worldwide.
-  Updated: 2026-10-23T20:03:06Z
-  Total Products: 240
-- [Women's Tops](https://mallturk.com/collections/womens-t-shirts): Shop women's tops and t-shirts made in Turkey: basics, crop tops and printed styles in quality cotton. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:08Z
-  Total Products: 145
-- [Women's Pajama Sets](https://mallturk.com/collections/womens-pajama-sets): Shop women's pajama sets made in Turkey, comfortable sleepwear and loungewear for every season. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:15Z
-  Total Products: 681
-- [Men's T-Shirts](https://mallturk.com/collections/mens-t-shirts): Shop men's t-shirts made in Turkey: basic, printed and oversized tees in quality Turkish cotton. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:15Z
-  Total Products: 15
-- [Men's Socks](https://mallturk.com/collections/mens-socks): Shop men's socks made in Turkey: comfortable cotton socks for everyday, sport and dress wear. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:09Z
+- [Men's Leather Shoes](https://mallturk.com/collections/mens-leather-shoes-eski): Shop men's leather shoes made in Turkey, classic styles for the office, weddings and smart-casual looks. Free express shipping worldwide.
+  Updated: 2026-11-18T15:31:30Z
   Total Products: 6
-- [Women's Socks](https://mallturk.com/collections/womens-socks): Shop women's socks made in Turkey for everyday comfort, from casual to dressy styles. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:10Z
-  Total Products: 68
-- [Men's Sandals](https://mallturk.com/collections/mens-sandals): Shop men's sandals made in Turkey: comfortable, durable styles for summer, travel and everyday. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:12Z
-  Total Products: 1
-- [Women's Sandals](https://mallturk.com/collections/womens-sandals): Shop women's sandals made in Turkey, from flat everyday sandals to dressy heeled styles for summer. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:13Z
-  Total Products: 111
-- [Women's Slippers](https://mallturk.com/collections/womens-slippers): Shop women's slippers made in Turkey, comfortable slip-on styles for home, summer and everyday wear. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:15Z
-  Total Products: 96
-- [Women's Heels](https://mallturk.com/collections/womens-heels): Shop women's heels made in Turkey: stilettos, block heels and elegant styles for every occasion. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:15Z
-  Total Products: 167
-- [Women's Home Slippers](https://mallturk.com/collections/womens-home-slippers): Shop women's home slippers made in Turkey, cosy and comfortable house slippers for relaxing at home. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:15Z
-  Total Products: 11
-- [Men's Slippers](https://mallturk.com/collections/mens-slippers): Shop men's slippers made in Turkey: comfortable home slippers and slides for everyday relaxation. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:15Z
-  Total Products: 18
-- [Men's Leather Shoes](https://mallturk.com/collections/mens-leather-shoes): Shop men's leather shoes made in Turkey, classic styles for the office, weddings and smart-casual looks. Free express shipping worldwide.
-  Updated: 2026-10-23T12:13:15Z
-  Total Products: 6
-- [Boys' Slippers](https://mallturk.com/collections/boys-slippers): Shop boys' slippers made in Turkey: soft, comfortable and fun designs for kids at home. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:16Z
-  Total Products: 4
-- [Girls' Sandals](https://mallturk.com/collections/girls-sandals): Shop girls' sandals made in Turkey: comfortable, colorful summer styles for kids. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:18Z
-  Total Products: 8
-- [Boys' Sandals](https://mallturk.com/collections/boys-sandals): Shop boys' sandals made in Turkey: durable, comfortable summer styles for active kids. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:19Z
-  Total Products: 13
-- [Women's Sports Shoes](https://mallturk.com/collections/womens-sports-shoes): Shop women's sports shoes made in Turkey, comfortable trainers for the gym, walking and everyday wear. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:20Z
-  Total Products: 141
-- [Women's Casual Shoes](https://mallturk.com/collections/womens-flat-shoes): Shop women's casual shoes made in Turkey, comfortable everyday styles for work, errands and weekends. Free express shipping worldwide.
-  Updated: 2026-10-31T09:55:44Z
-  Total Products: 292
-- [Men's Sports Shoes](https://mallturk.com/collections/mens-sports-shoes): Shop men's sports shoes made in Turkey, comfortable trainers for the gym, walking and active days. Free express shipping worldwide.
-  Updated: 2026-10-31T09:55:44Z
-  Total Products: 95
-- [Men's Casual Shoes](https://mallturk.com/collections/mens-flat-shoes): Shop men's casual shoes made in Turkey, comfortable loafers and everyday styles for work and weekends. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:24Z
-  Total Products: 618
-- [Boys' Sneakers](https://mallturk.com/collections/boys-sneakers): Shop boys' sneakers made in Turkey, comfortable and durable for school, play and everyday wear. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:26Z
-  Total Products: 51
-- [Women's Flats](https://mallturk.com/collections/womens-flats): Shop women's flats made in Turkey, from ballet flats to loafers, for comfortable everyday style. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:27Z
-  Total Products: 32
-- [Girls' Boots](https://mallturk.com/collections/girls-boots): Shop girls' boots made in Turkey, stylish and comfortable for school, autumn and winter days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:29Z
-  Total Products: 10
-- [Girls' Sneakers](https://mallturk.com/collections/girls-sneakers): Shop girls' sneakers made in Turkey: comfortable, colorful styles for school, play and everyday wear. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:30Z
-  Total Products: 4
-- [Girls' Flats](https://mallturk.com/collections/girls-flats): Shop girls' flats made in Turkey, comfortable flat shoes for school, parties and everyday wear. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:31Z
-  Total Products: 1
-- [Girls' Roller Shoes](https://mallturk.com/collections/girls-roller-shoes): Shop girls' roller shoes made in Turkey, fun wheeled sneakers for play and outdoor adventures. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:33Z
-  Total Products: 2
-- [Girls' Heels](https://mallturk.com/collections/girls-heels): Shop girls' heels made in Turkey, low-heeled dress shoes for parties, weddings and special occasions. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:34Z
-  Total Products: 6
-- [Boys' Boots](https://mallturk.com/collections/boys-boots): Shop boys' boots made in Turkey, sturdy and comfortable for school, outdoor play and colder days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:36Z
-  Total Products: 13
-- [Kids' Baby Bodysuit & Onesie](https://mallturk.com/collections/kids-baby-bodysuit-onesie): Shop baby bodysuit and onesie styles made in Turkey, soft everyday essentials for little ones. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:38Z
-  Total Products: 9
-- [Kids' Blouses](https://mallturk.com/collections/kids-blouses): Shop kids' blouses made in Turkey, pretty and comfortable tops for school, parties and everyday wear. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:39Z
-  Total Products: 6
-- [Kids' Bodysuits](https://mallturk.com/collections/kids-bodysuits): Shop kids' bodysuits made in Turkey, comfortable everyday essentials for babies and toddlers. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:41Z
-  Total Products: 23
-- [Kids' Boxer Shorts](https://mallturk.com/collections/kids-boxer-shorts): Shop kids' boxer shorts made in Turkey, comfortable everyday underwear in fun colours and prints. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:42Z
-  Total Products: 13
-- [Kids' Briefs](https://mallturk.com/collections/kids-briefs): Shop kids' briefs made in Turkey, soft and comfortable everyday underwear for boys and girls. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:44Z
-  Total Products: 19
-- [Kids' Cardigans](https://mallturk.com/collections/kids-cardigans): Shop kids' cardigans made in Turkey, cosy layers for school, outings and cooler days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:45Z
-  Total Products: 13
-- [Kids' Dresses](https://mallturk.com/collections/kids-dresses): Shop kids' dresses made in Turkey, from everyday styles to party dresses for special occasions. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:46Z
-  Total Products: 38
-- [Kids' Jackets](https://mallturk.com/collections/kids-jackets): Shop kids' jackets made in Turkey, warm and practical outerwear for school, play and chilly days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:48Z
-  Total Products: 15
-- [Kids' Jeans](https://mallturk.com/collections/kids-jeans): Shop kids' jeans made in Turkey, comfortable denim for school, play and everyday outfits. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:49Z
-  Total Products: 4
-- [Kids' Leggings](https://mallturk.com/collections/kids-leggings): Shop kids' leggings made in Turkey, stretchy and comfortable for school, play and everyday outfits. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:50Z
-  Total Products: 10
-- [Kids' Pajama Bottoms](https://mallturk.com/collections/kids-pajama-bottoms): Shop kids' pajama bottoms made in Turkey, comfy sleep and lounge pants for boys and girls. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:52Z
-  Total Products: 12
-- [Kids' Pajama Sets](https://mallturk.com/collections/kids-pajama-sets): Shop kids' pajama sets made in Turkey, cosy and fun sleepwear for boys and girls in every season. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:53Z
-  Total Products: 54
-- [Kids' Polo T-Shirts](https://mallturk.com/collections/kids-polo-t-shirts): Shop kids' polo t-shirts made in Turkey, smart-casual polos for school, outings and summer days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:55Z
-  Total Products: 22
-- [Kids' Shirts](https://mallturk.com/collections/kids-shirts): Shop kids' shirts made in Turkey, smart and casual styles for school, events and everyday wear. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:56Z
-  Total Products: 48
-- [Kids' Shorts & Bermudas](https://mallturk.com/collections/kids-shorts-bermudas): Shop kids' shorts and bermudas made in Turkey, comfortable summer styles for play and holidays. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:58Z
-  Total Products: 45
-- [Kids' Skirts](https://mallturk.com/collections/kids-skirts): Shop kids' skirts made in Turkey, playful and comfortable styles for school, parties and everyday wear. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:59Z
-  Total Products: 28
-- [Kids' Sweaters](https://mallturk.com/collections/kids-sweaters): Shop kids' sweaters made in Turkey, cosy knitwear for school, play and cooler days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:00Z
-  Total Products: 8
-- [Kids' Sweatpants](https://mallturk.com/collections/kids-sweatpants): Shop kids' sweatpants made in Turkey, comfy joggers for school, sports, play and lounging. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:02Z
-  Total Products: 112
-- [Kids' Sweatshirts](https://mallturk.com/collections/kids-sweatshirts): Shop kids' sweatshirts made in Turkey, cosy hoodies and crew necks for school, play and cooler days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:03Z
-  Total Products: 121
-- [Kids' T-Shirts](https://mallturk.com/collections/kids-t-shirts): Shop kids' t-shirts made in Turkey, comfortable everyday tees for school, play and summer days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:05Z
-  Total Products: 325
-- [Kids' Trench Coats](https://mallturk.com/collections/kids-trench-coats): Shop kids' trench coats made in Turkey, smart and practical coats for spring, autumn and school days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:07Z
-  Total Products: 3
-- [Kids' Trousers](https://mallturk.com/collections/kids-trousers): Shop kids' trousers made in Turkey, comfortable pants for school, play and everyday wear. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:08Z
-  Total Products: 138
-- [Kids' Two Piece Sets](https://mallturk.com/collections/kids-two-piece-sets): Shop kids' two piece sets made in Turkey, coordinated outfits for school, play and special days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:10Z
-  Total Products: 203
-- [Kids' Undershirt](https://mallturk.com/collections/kids-undershirt): Shop kids' undershirt styles made in Turkey, soft everyday base layers for boys and girls. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:11Z
-  Total Products: 13
-- [Kids' Vests](https://mallturk.com/collections/kids-vests): Shop kids' vests made in Turkey, easy layering pieces for school, play and everyday outfits. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:12Z
-  Total Products: 23
-- [Kids' Winter Jackets](https://mallturk.com/collections/kids-winter-jackets): Shop kids' winter jackets made in Turkey, warm and practical coats for cold school days and outdoor play. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:14Z
-  Total Products: 36
-- [Men's Bodysuits](https://mallturk.com/collections/mens-bodysuits): Shop men's bodysuits made in Turkey, close-fitting base layers for comfort under everyday clothing. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:15Z
-  Total Products: 13
-- [Men's Coats](https://mallturk.com/collections/mens-coats): Shop men's coats made in Turkey, warm and stylish outerwear for work, weekends and cold weather. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:16Z
-  Total Products: 247
-- [Men's Jackets](https://mallturk.com/collections/mens-jackets): Shop men's jackets made in Turkey, versatile outerwear for everyday wear, travel and cooler weather. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:18Z
+- [Men's Jackets](https://mallturk.com/collections/mens-jackets-eski): Shop men's jackets made in Turkey, versatile outerwear for everyday wear, travel and cooler weather. Free express shipping worldwide.
+  Updated: 2026-11-18T15:31:24Z
   Total Products: 34
-- [Men's Pajama Sets](https://mallturk.com/collections/mens-pajama-sets): Shop men's pajama sets made in Turkey, comfortable sleepwear and loungewear for every season. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:19Z
-  Total Products: 14
-- [Men's Pajama Tops](https://mallturk.com/collections/mens-pajama-tops): Shop men's pajama tops made in Turkey, comfortable sleep and lounge tops to mix and match. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:20Z
-  Total Products: 4
-- [Men's Polo T-Shirts](https://mallturk.com/collections/mens-polo-t-shirts): Shop men's polo t-shirts made in Turkey, smart-casual polos for work, weekends and summer days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:22Z
-  Total Products: 2
-- [Men's Scarves](https://mallturk.com/collections/mens-scarves): Shop men's scarves made in Turkey, warm and stylish accessories for autumn and winter outfits. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:23Z
-  Total Products: 4
-- [Men's Shirts](https://mallturk.com/collections/mens-shirts): Shop men's shirts made in Turkey, from smart office styles to relaxed casual shirts. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:25Z
-  Total Products: 29
-- [Men's Sweaters](https://mallturk.com/collections/mens-sweaters): Shop men's sweaters made in Turkey, comfortable knitwear for layering at work and on weekends. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:26Z
-  Total Products: 55
-- [Men's Sweatpants](https://mallturk.com/collections/mens-sweatpants): Shop men's sweatpants made in Turkey, comfortable joggers for training, travel and lounging. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:27Z
-  Total Products: 21
-- [Men's Sweatshirts](https://mallturk.com/collections/mens-sweatshirts): Shop men's sweatshirts made in Turkey, comfortable hoodies and crew necks for everyday casual wear. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:29Z
-  Total Products: 118
-- [Men's Trousers](https://mallturk.com/collections/mens-trousers): Shop men's trousers made in Turkey, from smart office pants to casual chinos for every day. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:30Z
-  Total Products: 17
-- [Men's Undershirt](https://mallturk.com/collections/mens-undershirt): Shop men's undershirt styles made in Turkey, comfortable base layers to wear under shirts every day. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:31Z
-  Total Products: 8
 - [Men's Vests](https://mallturk.com/collections/mens-vests): Shop men's vests made in Turkey, smart waistcoats and casual gilets for layering in any season. Free express shipping worldwide.
   Updated: 2026-10-23T20:04:33Z
   Total Products: 5
-- [Men's Winter Jackets](https://mallturk.com/collections/mens-winter-jackets): Shop men's winter jackets made in Turkey, warm and practical outerwear for the coldest months. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:34Z
-  Total Products: 10
-- [Women's Beach Bags](https://mallturk.com/collections/womens-beach-bags): Shop women's beach bags made in Turkey: roomy summer totes for the beach, pool and holidays. Free express shipping worldwide.
-  Updated: 2026-10-30T10:00:11Z
-  Total Products: 5
-- [Women's Beanies](https://mallturk.com/collections/womens-beanies): Shop women's beanies made in Turkey, cosy knit hats to keep you warm and stylish all winter. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:35Z
-  Total Products: 4
-- [Women's Belts](https://mallturk.com/collections/womens-belts): Shop women's belts made in Turkey, stylish accessories to finish dresses, jeans and trousers. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:37Z
-  Total Products: 24
-- [Women's Blazers](https://mallturk.com/collections/womens-blazers): Shop women's blazers made in Turkey, tailored and relaxed styles for the office and smart-casual looks. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:39Z
-  Total Products: 13
-- [Women's Blouses](https://mallturk.com/collections/womens-blouses): Shop women's blouses made in Turkey, elegant and casual tops for the office, weekends and evenings. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:40Z
-  Total Products: 403
-- [Women's Bodysuits](https://mallturk.com/collections/womens-bodysuits): Shop women's bodysuits made in Turkey, sleek fitted tops that pair perfectly with jeans, skirts and trousers. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:42Z
-  Total Products: 295
-- [Women's Boxer Shorts](https://mallturk.com/collections/womens-boxer-shorts): Shop women's boxer shorts made in Turkey, comfortable underwear and sleep shorts for everyday wear. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:43Z
-  Total Products: 8
-- [Women's Bras](https://mallturk.com/collections/womens-bras): Shop women's bras made in Turkey, comfortable and supportive styles for everyday wear and special occasions. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:44Z
-  Total Products: 31
-- [Women's Briefs](https://mallturk.com/collections/womens-briefs): Shop women's briefs made in Turkey, soft and comfortable everyday underwear in many styles. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:46Z
-  Total Products: 52
-- [Women's Bustiers](https://mallturk.com/collections/womens-bustiers): Shop women's bustiers made in Turkey, structured tops for evenings out, parties and layering. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:47Z
-  Total Products: 59
-- [Women's Cardigans](https://mallturk.com/collections/womens-cardigans): Shop women's cardigans made in Turkey, versatile knit layers for work, weekends and cooler days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:48Z
-  Total Products: 108
-- [Women's Clutch Bag](https://mallturk.com/collections/womens-clutch-bag): Shop women's clutch bags made in Turkey: elegant evening and party clutches for weddings and special nights. Free express shipping worldwide.
-  Updated: 2026-10-30T10:00:14Z
-  Total Products: 4
-- [Women's Coats](https://mallturk.com/collections/womens-coats): Shop women's coats made in Turkey, elegant and warm outerwear for work, weekends and winter. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:50Z
-  Total Products: 930
-- [Women's Hair Clips](https://mallturk.com/collections/womens-hair-clips): Shop women's hair clips made in Turkey, pretty and practical hair accessories for every hairstyle. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:51Z
-  Total Products: 9
-- [Women's Handbags](https://mallturk.com/collections/womens-handbags): Shop women's handbags made in Turkey: everyday, work and occasion styles in many colors and shapes. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:53Z
-  Total Products: 46
-- [Women's Hats](https://mallturk.com/collections/womens-hats): Shop women's hats made in Turkey, from sunny-day styles to cosy winter hats for every outfit. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:54Z
-  Total Products: 8
-- [Women's Jackets](https://mallturk.com/collections/womens-jackets): Shop women's jackets made in Turkey, from light spring layers to warm winter styles. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:55Z
-  Total Products: 50
-- [Women's Jumpsuits](https://mallturk.com/collections/womens-jumpsuits): Shop women's jumpsuits made in Turkey, easy one-piece outfits for work, weekends and evenings out. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:57Z
-  Total Products: 19
-- [Women's Kimono & Kaftan](https://mallturk.com/collections/womens-kimono-kaftan): Shop women's kimono and kaftan styles made in Turkey, flowing layers for summer, beach and home. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:58Z
-  Total Products: 8
-- [Women's Leggings](https://mallturk.com/collections/womens-leggings): Shop women's leggings made in Turkey, stretchy and comfortable for workouts, lounging and everyday wear. Free express shipping worldwide.
-  Updated: 2026-10-23T20:04:59Z
-  Total Products: 22
-- [Women's Modest Dresses](https://mallturk.com/collections/womens-modest-dresses): Shop modest dresses made in Turkey, elegant long-sleeved and maxi styles for every occasion. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:01Z
-  Total Products: 79
-- [Women's Modest Swimwear](https://mallturk.com/collections/womens-modest-swimwear): Shop modest swimwear made in Turkey, full-coverage swimsuits for the beach and pool. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:02Z
-  Total Products: 106
-- [Women's Nightgowns](https://mallturk.com/collections/womens-nightgowns): Shop women's nightgowns made in Turkey, comfortable and pretty nightdresses for restful nights. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:04Z
-  Total Products: 13
-- [Women's Pajama Bottoms](https://mallturk.com/collections/womens-pajama-bottoms): Shop women's pajama bottoms made in Turkey, comfortable sleep and lounge pants to mix and match. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:05Z
-  Total Products: 17
-- [Women's Plus Size Pajama Sets](https://mallturk.com/collections/womens-plus-size-pajama-sets): Shop women's plus size pajama sets made in Turkey, comfortable sleepwear in generous sizes. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:07Z
-  Total Products: 29
-- [Women's Polo T-Shirts](https://mallturk.com/collections/womens-polo-t-shirts): Shop women's polo t-shirts made in Turkey, smart-casual polos for work, sport and weekends. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:08Z
-  Total Products: 8
-- [Women's Shawls](https://mallturk.com/collections/womens-shawls): Shop women's shawls made in Turkey, elegant wraps for evenings, travel and cooler days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:10Z
-  Total Products: 9
-- [Women's Shirts](https://mallturk.com/collections/womens-shirts): Shop women's shirts made in Turkey, versatile styles for the office, weekends and evenings out. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:11Z
-  Total Products: 236
-- [Women's Shorts & Bermudas](https://mallturk.com/collections/womens-shorts-bermudas): Shop women's shorts and bermudas made in Turkey, comfortable summer styles for holidays and everyday wear. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:12Z
-  Total Products: 122
-- [Women's Shoulder Bags](https://mallturk.com/collections/womens-shoulder-bags): Shop women's shoulder bags made in Turkey: comfortable, stylish bags for work, travel and daily use. Free express shipping worldwide.
-  Updated: 2026-10-30T10:00:15Z
-  Total Products: 2
-- [Women's Sports Leggings](https://mallturk.com/collections/womens-sports-leggings): Shop women's sports leggings made in Turkey for gym, yoga, running and everyday wear. Comfortable fits with free express shipping worldwide.
-  Updated: 2026-10-30T10:00:17Z
-  Total Products: 2
-- [Women's Sweater Vests](https://mallturk.com/collections/womens-sweater-vests): Shop women's sweater vests made in Turkey, stylish knit layers to wear over shirts and blouses. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:14Z
-  Total Products: 19
-- [Women's Sweaters](https://mallturk.com/collections/womens-sweaters): Shop women's sweaters made in Turkey, cosy knitwear for the office, weekends and cold days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:15Z
-  Total Products: 195
-- [Women's Sweatpants](https://mallturk.com/collections/womens-sweatpants): Shop women's sweatpants made in Turkey, comfy joggers for lounging, workouts and casual days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:17Z
-  Total Products: 104
-- [Women's Sweatshirts](https://mallturk.com/collections/womens-sweatshirts): Shop women's sweatshirts made in Turkey, cosy hoodies and crew necks for relaxed everyday style. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:18Z
-  Total Products: 338
-- [Women's T-Shirts](https://mallturk.com/collections/womens-t-shirts-1): Shop women's t-shirts made in Turkey, comfortable everyday tees in basic and printed styles. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:19Z
-  Total Products: 251
-- [Women's Trench Coats](https://mallturk.com/collections/womens-trench-coats): Shop women's trench coats made in Turkey, timeless outerwear for spring, autumn and city style. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:21Z
-  Total Products: 42
-- [Women's Trousers](https://mallturk.com/collections/womens-trousers): Shop women's trousers made in Turkey, from tailored office pants to relaxed wide-leg styles. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:22Z
-  Total Products: 179
-- [Women's Tunics](https://mallturk.com/collections/womens-tunics): Shop women's tunics made in Turkey, comfortable long tops to wear with leggings, jeans or trousers. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:24Z
-  Total Products: 67
-- [Women's Two Piece Sets](https://mallturk.com/collections/womens-two-piece-sets): Shop women's two piece sets made in Turkey, matching co-ord outfits for effortless everyday style. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:25Z
-  Total Products: 177
-- [Women's Undershirt](https://mallturk.com/collections/womens-undershirt): Shop women's undershirt styles made in Turkey, comfortable camisoles and base layers for every day. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:26Z
-  Total Products: 11
-- [Women's Underwear Sets](https://mallturk.com/collections/womens-underwear-sets): Shop women's underwear sets made in Turkey, matching bra and brief sets for everyday and special days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:28Z
-  Total Products: 4
-- [Women's Vests](https://mallturk.com/collections/womens-vests): Shop women's vests made in Turkey, stylish gilets and waistcoats for easy layering in any season. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:29Z
-  Total Products: 32
-- [Women's Winter Jackets](https://mallturk.com/collections/womens-winter-jackets): Shop women's winter jackets made in Turkey, warm and stylish outerwear for the coldest days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:30Z
-  Total Products: 48
-- [Women's Loafers](https://mallturk.com/collections/womens-loafers): Shop women's loafers made in Turkey, polished slip-on shoes for the office and everyday style. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:32Z
-  Total Products: 23
-- [Men's Sneakers](https://mallturk.com/collections/mens-sneakers): Shop men's sneakers made in Turkey, comfortable casual shoes for everyday wear, walking and travel. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:33Z
-  Total Products: 52
-- [Women's Sneakers](https://mallturk.com/collections/womens-sneakers): Shop women's sneakers made in Turkey, comfortable and stylish shoes for every day, walking and travel. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:34Z
-  Total Products: 43
-- [Women's Plus Size Corset](https://mallturk.com/collections/womens-plus-size-corset): Shop women's plus size corset styles made in Turkey, supportive pieces designed for curvy figures. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:36Z
-  Total Products: 20
-- [Women's Sports Corsets](https://mallturk.com/collections/womens-sports-corsets): Shop women's sports corsets made in Turkey for training, yoga and active days. Supportive, stylish fits with free express shipping worldwide.
-  Updated: 2026-10-30T10:00:19Z
-  Total Products: 14
-- [Men's Boxer Shorts](https://mallturk.com/collections/mens-boxer-shorts): Shop men's boxer shorts made in Turkey, comfortable everyday underwear in classic and printed styles. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:37Z
-  Total Products: 52
-- [Women's Swimsuits](https://mallturk.com/collections/womens-swimsuits): Shop women's swimsuits made in Turkey, flattering one-piece styles for the beach and pool. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:39Z
-  Total Products: 117
-- [Headscarves](https://mallturk.com/collections/headscarves): Shop headscarves made in Turkey, elegant head scarves in many colours and patterns for everyday wear. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:40Z
-  Total Products: 3
-- [Kids' Modest Dresses](https://mallturk.com/collections/kids-modest-dresses): Shop kids' modest dresses made in Turkey, pretty long-sleeved and maxi styles for girls. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:41Z
-  Total Products: 5
-- [Women's Bikini Bottoms](https://mallturk.com/collections/womens-bikini-bottoms): Shop women's bikini bottoms made in Turkey, mix-and-match cuts for beach days and holidays. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:43Z
-  Total Products: 8
-- [Women's Bikini Sets](https://mallturk.com/collections/womens-bikini-sets): Shop women's bikini sets made in Turkey, matching tops and bottoms for beach days and holidays. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:44Z
-  Total Products: 13
-- [Women's Bikini Tops](https://mallturk.com/collections/womens-bikini-tops): Shop women's bikini tops made in Turkey, mix-and-match styles for the beach and pool. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:46Z
-  Total Products: 7
-- [Women's Cape & Abaya](https://mallturk.com/collections/womens-cape-abaya): Shop abaya and cape styles made in Turkey, elegant modest outerwear for everyday and special occasions. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:47Z
-  Total Products: 11
-- [Women's Chemise](https://mallturk.com/collections/womens-chemise): Shop women's chemise styles made in Turkey, light and pretty nightwear for comfortable nights. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:48Z
-  Total Products: 16
-- [Women's Modest Pareos](https://mallturk.com/collections/womens-modest-pareos): Shop modest pareos made in Turkey, elegant full-coverage beach wraps and cover-ups for summer. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:50Z
-  Total Products: 11
-- [Women's Pareos](https://mallturk.com/collections/womens-pareos): Shop women's pareos made in Turkey, light beach wraps and cover-ups for summer holidays. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:51Z
-  Total Products: 14
-- [Women's Plus Size Swimsuits](https://mallturk.com/collections/womens-plus-size-swimsuits): Shop women's plus size swimsuits made in Turkey, flattering and comfortable swimwear for curvy figures. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:53Z
-  Total Products: 1
-- [Women's Sports Shorts](https://mallturk.com/collections/womens-sports-shorts): Shop women's sports shorts made in Turkey for running, gym and summer training. Lightweight, comfortable fits with free express shipping worldwide.
-  Updated: 2026-10-20T11:52:01Z
-  Total Products: 0
 - [Mattress Protectors](https://mallturk.com/collections/mattress-protectors): Shop mattress protectors made in Turkey to help keep your mattress clean and fresh for longer. Free express shipping worldwide.
   Updated: 2026-10-23T20:05:54Z
   Total Products: 514
 - [Bed Sheets](https://mallturk.com/collections/bed-sheets): Shop bed sheets made in Turkey, soft and comfortable bedding in a range of sizes and colours. Free express shipping worldwide.
   Updated: 2026-10-23T20:05:55Z
   Total Products: 120
-- [Double Duvet Covers](https://mallturk.com/collections/double-duvet-cover-sets): Shop double duvet covers made in Turkey, beautiful bedding sets to refresh your bedroom. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:57Z
-  Total Products: 238
-- [Single Duvet Covers](https://mallturk.com/collections/single-duvet-cover-sets): Shop single duvet covers made in Turkey, stylish bedding sets for single beds and kids' rooms. Free express shipping worldwide.
-  Updated: 2026-10-23T20:05:59Z
-  Total Products: 89
-- [Double Quilts](https://mallturk.com/collections/double-quilts): Shop double quilts made in Turkey, warm and comfortable bedding for double beds in many designs. Free express shipping worldwide.
-  Updated: 2026-10-23T20:06:00Z
-  Total Products: 76
-- [Single Quilts](https://mallturk.com/collections/single-quilts): Shop single quilts made in Turkey, warm and comfortable bedding for single beds and kids' rooms. Free express shipping worldwide.
-  Updated: 2026-10-23T20:06:02Z
-  Total Products: 9
-- [Single Bedspreads](https://mallturk.com/collections/single-bedspreads): Shop single bedspreads made in Turkey, decorative bed covers for single beds and kids' rooms. Free express shipping worldwide.
-  Updated: 2026-10-23T20:06:03Z
-  Total Products: 55
-- [Double Bedspreads](https://mallturk.com/collections/double-bedspreads): Shop double bedspreads made in Turkey, decorative bed covers to finish your bedroom in style. Free express shipping worldwide.
-  Updated: 2026-10-31T17:39:33Z
-  Total Products: 136
-- [Bedding Sets](https://mallturk.com/collections/bridal-bedding-sets): Shop bedding sets made in Turkey, coordinated bedding for a beautiful bedroom or a special gift. Free express shipping worldwide.
-  Updated: 2026-10-23T20:06:06Z
+- [Bridal Bedding Sets](https://mallturk.com/collections/bridal-bedding-sets): Shop bedding sets made in Turkey, coordinated bedding for a beautiful bedroom or a special gift. Free express shipping worldwide.
+  Updated: 2026-11-19T20:26:45Z
   Total Products: 16
-- [Bathrobes](https://mallturk.com/collections/bathrobes): Shop turkish bathrobes, soft and comfortable for after the bath or shower, in a range of styles and sizes. Free express shipping worldwide.
-  Updated: 2026-10-31T23:48:34Z
-  Total Products: 1
-- [Double Duvet Cover](https://mallturk.com/collections/double-duvet-cover): Shop a double duvet cover in a range of colors and patterns to refresh your bedroom, made in Turkey. Free express shipping worldwide.
-  Updated: 2026-10-31T23:48:56Z
-  Total Products: 2
-- [Double Sheet Sets](https://mallturk.com/collections/double-sheet-sets): Shop double sheet sets in a range of colors and patterns to refresh your bed, made in Turkey. Free express shipping worldwide.
-  Updated: 2026-10-31T23:48:47Z
-  Total Products: 4
-- [Havlu](https://mallturk.com/collections/havlu): Browse turkish towels (havlu) for bath, hand and everyday use, soft and absorbent and made in Turkey. Free express shipping worldwide.
-  Updated: 2026-10-31T23:48:14Z
-  Total Products: 2
-- [Kids' Towel](https://mallturk.com/collections/kids-towel): Shop kids towels for bath time, the pool and the beach, soft and practical and made in Turkey. Free express shipping worldwide.
-  Updated: 2026-10-31T23:48:21Z
-  Total Products: 2
-- [King Size Coverlet Set](https://mallturk.com/collections/king-size-coverlet-set): Shop a king size coverlet set to finish your bed with a neat, layered look, made in Turkey. Free express shipping worldwide.
-  Updated: 2026-10-31T23:48:59Z
-  Total Products: 1
-- [Mattress Protectors](https://mallturk.com/collections/mattress-protectors-1): Shop mattress protectors that help keep your mattress clean and fresh, made in Turkey in a range of sizes. Free express shipping worldwide.
-  Updated: 2026-10-31T23:48:18Z
-  Total Products: 1
-- [Peshtemals](https://mallturk.com/collections/peshtemals): Shop turkish peshtemal towels for the beach, bath, gym and travel. Light, quick-drying and made in Turkey. Free express shipping worldwide.
-  Updated: 2026-10-31T23:48:11Z
-  Total Products: 2
-- [Pillowcases](https://mallturk.com/collections/pillowcases): Shop pillowcases in a range of colors and styles to refresh your bed, made in Turkey. Free express shipping worldwide.
-  Updated: 2026-10-31T23:48:23Z
-  Total Products: 1
-- [Refurbished Smartphones](https://mallturk.com/collections/refurbished-smartphones): Shop refurbished smartphones at MallTurk and get a capable phone for less. Check each listing for model and condition. Free express shipping worldwide.
-  Updated: 2026-10-31T23:48:50Z
-  Total Products: 0
-- [Single Beadspreads & Beadspread Sets](https://mallturk.com/collections/single-beadspreads-beadspread-sets): Shop single bedspreads and single bedspread sets for bedrooms, guest rooms and kids' rooms, made in Turkey. Free express shipping worldwide.
-  Updated: 2026-10-31T23:49:02Z
-  Total Products: 1
-- [Single Duvet Cover](https://mallturk.com/collections/single-duvet-cover): Find a single duvet cover in a range of colors and patterns for your bed or a kids' room, made in Turkey. Free express shipping worldwide.
-  Updated: 2026-10-31T23:48:53Z
-  Total Products: 1
-- [Single Sheet Sets](https://mallturk.com/collections/single-sheet-sets): Shop single sheet sets in a range of colors and patterns for single beds and kids' rooms, made in Turkey. Free express shipping worldwide.
-  Updated: 2026-10-31T23:49:05Z
-  Total Products: 1
-- [Towel](https://mallturk.com/collections/towel): Find the right turkish towel for bath, hand, beach or kitchen use, soft and absorbent and made in Turkey. Free express shipping worldwide.
-  Updated: 2026-10-31T23:48:30Z
-  Total Products: 1530
-- [Women's Bathrobes](https://mallturk.com/collections/womens-bathrobes): Shop women's bathrobes, soft and cozy for after the bath or shower, in a range of styles and sizes. Free express shipping worldwide.
-  Updated: 2026-10-31T23:49:08Z
-  Total Products: 2
-- [Bathroom Organizer](https://mallturk.com/collections/bathroom-organizer): Shop our bathroom organizer collection made in Turkey to keep toiletries and essentials neat and tidy. Free express shipping worldwide.
-  Updated: 2026-11-03T23:50:12Z
-  Total Products: 2
-- [Bathroom Sets](https://mallturk.com/collections/bathroom-sets): Browse bathroom sets made in Turkey to give your bath a coordinated, stylish look. Free express shipping worldwide.
-  Updated: 2026-11-03T23:48:05Z
-  Total Products: 4
-- [Bowl](https://mallturk.com/collections/bowl): Shop bowls made in Turkey for serving salads, snacks, desserts and more, or for decorating your table. Free express shipping worldwide.
-  Updated: 2026-11-03T23:48:08Z
-  Total Products: 5
-- [Candlestick & Candle Holder](https://mallturk.com/collections/candlestick-candle-holder): Shop candle holders and candlesticks made in Turkey to create a warm, cozy glow in any room. Free express shipping worldwide.
-  Updated: 2026-11-03T23:50:09Z
-  Total Products: 23
-- [Chalice](https://mallturk.com/collections/chalice): Discover our chalice collection made in Turkey, elegant goblets for special occasions, gifting and display. Free express shipping worldwide.
-  Updated: 2026-11-03T23:48:09Z
+- [Turkish Mosaic Lamp](https://mallturk.com/collections/turkish-mosaic-lamp): Shop the Turkish mosaic lamp, made in Turkey with colorful glass patterns that fill any room with warm light. Free express shipping worldwide.
+  Updated: 2026-11-09T23:51:34Z
+  Total Products: 165
+- [Turkish Coffee](https://mallturk.com/collections/turkish-coffee)
+  Updated: 2026-11-21T12:12:01Z
+  Total Products: 1233
+- [Turkish Delights & Spices](https://mallturk.com/collections/turkish-delights-and-spices)
+  Updated: 2026-11-21T11:32:10Z
+  Total Products: 5407
+- [Mosaic Lamps](https://mallturk.com/collections/mosaic-lamps)
+  Updated: 2026-11-20T12:46:39Z
+  Total Products: 192
+- [Copper](https://mallturk.com/collections/copper)
+  Updated: 2026-11-21T11:32:14Z
+  Total Products: 1826
+- [Turkish Ceramics](https://mallturk.com/collections/turkish-ceramics)
+  Updated: 2026-11-21T11:32:16Z
+  Total Products: 1272
+- [Rugs & Kilims](https://mallturk.com/collections/rugs-and-kilims)
+  Updated: 2026-11-20T12:46:43Z
+  Total Products: 2848
+- [Turkish Cotton & Home Textiles](https://mallturk.com/collections/turkish-cotton-and-home-textiles)
+  Updated: 2026-11-21T11:32:17Z
+  Total Products: 2996
+- [Women](https://mallturk.com/collections/women)
+  Updated: 2026-11-21T11:32:18Z
+  Total Products: 7062
+- [Men](https://mallturk.com/collections/men)
+  Updated: 2026-11-21T11:32:20Z
+  Total Products: 982
+- [Kids](https://mallturk.com/collections/kids)
+  Updated: 2026-11-21T11:32:21Z
+  Total Products: 1463
+- [Shoes & Bags](https://mallturk.com/collections/shoes-and-bags)
+  Updated: 2026-11-21T11:32:22Z
+  Total Products: 3720
+- [Household Essentials](https://mallturk.com/collections/household-essentials)
+  Updated: 2026-11-21T11:32:24Z
+  Total Products: 2597
+- [Personal Care](https://mallturk.com/collections/personal-care)
+  Updated: 2026-11-21T11:32:26Z
+  Total Products: 449
+- [Pharmacy & Health](https://mallturk.com/collections/pharmacy-and-health)
+  Updated: 2026-11-21T11:32:27Z
+  Total Products: 532
+- [Copper Lighting](https://mallturk.com/collections/copper-lighting)
+  Updated: 2026-11-20T12:46:16Z
+  Total Products: 73
+- [Copper Jewelry](https://mallturk.com/collections/copper-jewelry)
+  Updated: 2026-11-20T12:46:15Z
+  Total Products: 78
+- [Nail Care](https://mallturk.com/collections/nail-care)
+  Updated: 2026-11-21T11:32:29Z
+  Total Products: 20
+- [Women's Bottoms](https://mallturk.com/collections/womens-bottoms)
+  Updated: 2026-11-21T11:32:30Z
+  Total Products: 1315
+- [Kids' Bottoms](https://mallturk.com/collections/kids-bottoms)
+  Updated: 2026-11-21T11:32:31Z
+  Total Products: 312
+- [Kids' Tops](https://mallturk.com/collections/kids-tops)
+  Updated: 2026-11-21T11:32:33Z
+  Total Products: 406
+- [Makeup Tools](https://mallturk.com/collections/makeup-tools)
+  Updated: 2026-11-21T11:32:34Z
   Total Products: 12
-- [Coasters](https://mallturk.com/collections/coasters): Shop decorative coasters made in Turkey to protect your tables in style while serving tea, coffee and drinks. Free express shipping worldwide.
-  Updated: 2026-11-03T23:48:07Z
-  Total Products: 6
-- [Coffee Pot](https://mallturk.com/collections/coffee-pot): Shop our Turkish coffee pot collection, made in Turkey for brewing rich, foamy coffee the traditional way. Free express shipping worldwide.
-  Updated: 2026-11-03T23:47:32Z
+- [Women's Swimwear](https://mallturk.com/collections/womens-swimwear): Make a splash this summer with our women's swimwear collection, made in Turkey. Browse swimsuits, bikinis and beachwear in a variety of cuts, colours and prints, with styles for lounging by the pool, swimming at the beach and everything in between.Every piece in this collection is produced in Turkey, a country with a strong textile industry and a love of Mediterranean summers. Find the style that suits you best, and enjoy free express shipping worldwide on every order.
+  Updated: 2026-11-19T12:12:50Z
+  Total Products: 483
+- [Women's Outerwear](https://mallturk.com/collections/womens-outerwear): Explore our women's outerwear collection, made in Turkey and designed to keep you comfortable and stylish through changing seasons. Browse coats, jackets and layering pieces in a variety of cuts and colors that pair easily with everyday outfits, office looks and weekend wear.All pieces in this collection are made in Turkey, and every order ships with free express shipping worldwide. Check the size guide and details on each product page to find the right outerwear for your wardrobe.
+  Updated: 2026-11-19T12:12:50Z
+  Total Products: 1186
+- [Women's Tops](https://mallturk.com/collections/womens-tops)
+  Updated: 2026-11-21T11:32:36Z
+  Total Products: 1407
+- [Home & Living](https://mallturk.com/collections/home-and-living)
+  Updated: 2026-11-21T11:32:37Z
+  Total Products: 72
+- [Skin Care & Sun](https://mallturk.com/collections/skin-care-and-sun)
+  Updated: 2026-11-21T11:32:38Z
+  Total Products: 23
+- [Copper Cookware](https://mallturk.com/collections/copper-cookware)
+  Updated: 2026-11-21T11:32:40Z
+  Total Products: 403
+- [Coffee Machines](https://mallturk.com/collections/coffee-machines)
+  Updated: 2026-11-21T12:12:01Z
   Total Products: 46
-- [Decorative Objects & Ornaments](https://mallturk.com/collections/decorative-objects-ornaments): Shop decorative objects and ornaments made in Turkey to add character and charm to your home. Free express shipping worldwide.
-  Updated: 2026-11-03T23:50:13Z
+- [Complexion Makeup](https://mallturk.com/collections/complexion-makeup)
+  Updated: 2026-11-21T11:32:42Z
+  Total Products: 17
+- [Kids' Baby Essentials](https://mallturk.com/collections/kids-baby-essentials)
+  Updated: 2026-11-21T11:32:43Z
+  Total Products: 40
+- [Backpacks & Beach Bags](https://mallturk.com/collections/backpacks-and-beach-bags)
+  Updated: 2026-11-21T11:32:44Z
+  Total Products: 70
+- [Wallets & Travel Pouches](https://mallturk.com/collections/wallets-and-travel-pouches)
+  Updated: 2026-11-21T11:32:46Z
+  Total Products: 196
+- [Herbal Infusions](https://mallturk.com/collections/herbal-infusions)
+  Updated: 2026-11-21T11:32:47Z
+  Total Products: 134
+- [Bamboo Rugs](https://mallturk.com/collections/bamboo-rugs)
+  Updated: 2026-11-20T12:46:01Z
+  Total Products: 221
+- [Bathrobe Sets](https://mallturk.com/collections/bathrobe-sets)
+  Updated: 2026-11-21T11:32:49Z
+  Total Products: 74
+- [Kids' Sleepwear & Robes](https://mallturk.com/collections/kids-sleepwear-and-robes)
+  Updated: 2026-11-21T11:32:50Z
+  Total Products: 129
+- [Copper Coffee & Tea](https://mallturk.com/collections/copper-coffee-and-tea)
+  Updated: 2026-11-21T11:32:52Z
+  Total Products: 294
+- [Copper Drinkware](https://mallturk.com/collections/copper-drinkware)
+  Updated: 2026-11-21T11:33:03Z
+  Total Products: 257
+- [Turkish Towels](https://mallturk.com/collections/turkish-towels)
+  Updated: 2026-11-20T12:46:51Z
+  Total Products: 1642
+- [Sheet Sets](https://mallturk.com/collections/sheet-sets)
+  Updated: 2026-11-21T11:33:04Z
+  Total Products: 117
+- [Bedding Sets](https://mallturk.com/collections/bedding-sets)
+  Updated: 2026-11-20T12:46:03Z
+  Total Products: 18
+- [Health Support Essentials](https://mallturk.com/collections/health-support-essentials)
+  Updated: 2026-11-21T11:33:06Z
+  Total Products: 25
+- [Biscuits & Snacks](https://mallturk.com/collections/biscuits-and-snacks)
+  Updated: 2026-11-21T11:33:07Z
   Total Products: 10
-- [Drinking Glasses](https://mallturk.com/collections/drinking-glasses): Shop drinking glasses made in Turkey for water, juice, tea and cold drinks, from everyday use to entertaining. Free express shipping worldwide.
-  Updated: 2026-11-03T23:50:10Z
-  Total Products: 77
-- [Flatware Sets](https://mallturk.com/collections/flatware-sets): Shop flatware sets made in Turkey, with forks, knives and spoons for everyday dining and special occasions. Free express shipping worldwide.
-  Updated: 2026-11-03T23:48:47Z
-  Total Products: 1
-- [Flower Pot](https://mallturk.com/collections/flower-pot): Shop flower pots made in Turkey to brighten your home, balcony or garden with plants and flowers. Free express shipping worldwide.
-  Updated: 2026-11-03T23:48:15Z
+- [Cheek & Glow Products](https://mallturk.com/collections/cheek-and-glow-products)
+  Updated: 2026-11-21T11:33:09Z
   Total Products: 15
-- [Ice Bucket](https://mallturk.com/collections/ice-bucket): Shop our ice bucket collection made in Turkey to keep drinks chilled at parties, dinners and celebrations. Free express shipping worldwide.
-  Updated: 2026-11-03T23:48:56Z
-  Total Products: 6
-- [Ice Trays](https://mallturk.com/collections/ice-trays): Shop ice trays made in Turkey for making ice cubes for cold drinks, cocktails and summer gatherings. Free express shipping worldwide.
-  Updated: 2026-11-03T23:48:51Z
-  Total Products: 2
+- [Copper Bowls](https://mallturk.com/collections/copper-bowls)
+  Updated: 2026-11-21T11:33:13Z
+  Total Products: 110
+- [Kids' Shoes](https://mallturk.com/collections/kids-shoes)
+  Updated: 2026-11-21T11:33:14Z
+  Total Products: 112
+- [Kids' Swimwear](https://mallturk.com/collections/kids-swimwear)
+  Updated: 2026-11-21T11:33:16Z
+  Total Products: 20
+- [Brass & Wooden Kitchenware](https://mallturk.com/collections/brass-and-wooden-kitchenware)
+  Updated: 2026-11-20T12:46:03Z
+  Total Products: 13
+- [Brass Candlesticks](https://mallturk.com/collections/brass-candlesticks)
+  Updated: 2026-11-21T11:33:17Z
+  Total Products: 23
+- [Gift Sets & Rose Products](https://mallturk.com/collections/gift-sets-and-rose-products)
+  Updated: 2026-11-21T11:33:19Z
+  Total Products: 188
+- [Ceramic Home Decor](https://mallturk.com/collections/ceramic-home-decor)
+  Updated: 2026-11-21T11:33:20Z
+  Total Products: 700
+- [Ceramic Bathroom Essentials](https://mallturk.com/collections/ceramic-bathroom-essentials)
+  Updated: 2026-11-21T11:33:21Z
+  Total Products: 28
+- [Ceramic Wall Tiles](https://mallturk.com/collections/ceramic-wall-tiles)
+  Updated: 2026-11-21T11:33:23Z
+  Total Products: 68
+- [Ceramic Vases](https://mallturk.com/collections/ceramic-vases)
+  Updated: 2026-11-21T11:33:24Z
+  Total Products: 254
+- [Hanging Mosaic Lamps](https://mallturk.com/collections/hanging-mosaic-lamps)
+  Updated: 2026-11-21T11:33:25Z
+  Total Products: 65
+- [Women's Handbags](https://mallturk.com/collections/womens-handbags)
+  Updated: 2026-11-21T11:33:26Z
+  Total Products: 1387
+- [Copper Storage & Essentials](https://mallturk.com/collections/copper-storage-and-essentials)
+  Updated: 2026-11-21T11:33:28Z
+  Total Products: 119
+- [Tea & Coffee Makers](https://mallturk.com/collections/tea-and-coffee-makers)
+  Updated: 2026-11-21T11:33:29Z
+  Total Products: 813
+- [Cookware & Kitchen Tools](https://mallturk.com/collections/cookware-and-kitchen-tools)
+  Updated: 2026-11-21T11:33:31Z
+  Total Products: 455
+- [Cookware Sets](https://mallturk.com/collections/cookware-sets)
+  Updated: 2026-11-21T11:33:32Z
+  Total Products: 259
+- [Copper Home Decor](https://mallturk.com/collections/copper-home-decor)
+  Updated: 2026-11-20T12:46:17Z
+  Total Products: 153
+- [Copper Bath & Spa](https://mallturk.com/collections/copper-bath-and-spa)
+  Updated: 2026-11-21T11:33:33Z
+  Total Products: 64
+- [Copper Plates & Trays](https://mallturk.com/collections/copper-plates-and-trays)
+  Updated: 2026-11-21T11:33:36Z
+  Total Products: 275
+- [Women's Lingerie & Shapewear](https://mallturk.com/collections/womens-lingerie-and-shapewear)
+  Updated: 2026-11-21T11:33:37Z
+  Total Products: 418
+- [Ceramic Tableware](https://mallturk.com/collections/ceramic-tableware)
+  Updated: 2026-11-21T11:33:39Z
+  Total Products: 158
+- [Dietary Supplements](https://mallturk.com/collections/dietary-supplements)
+  Updated: 2026-11-21T11:33:41Z
+  Total Products: 371
+- [Bedspreads & Quilts](https://mallturk.com/collections/bedspreads-and-quilts)
+  Updated: 2026-11-20T12:46:03Z
+  Total Products: 205
+- [Duvet Cover Sets](https://mallturk.com/collections/duvet-cover-sets)
+  Updated: 2026-11-20T12:46:19Z
+  Total Products: 324
+- [Pique Bedding Sets](https://mallturk.com/collections/pique-bedding-sets)
+  Updated: 2026-11-20T12:46:42Z
+  Total Products: 67
+- [Women's Dresses & Sets](https://mallturk.com/collections/womens-dresses-and-sets)
+  Updated: 2026-11-21T11:33:42Z
+  Total Products: 516
+- [Drinkware & Dispensers](https://mallturk.com/collections/drinkware-and-dispensers)
+  Updated: 2026-11-21T11:33:43Z
+  Total Products: 87
+- [Eye & Brow Makeup](https://mallturk.com/collections/eye-and-brow-makeup)
+  Updated: 2026-11-21T11:33:45Z
+  Total Products: 42
+- [Hair Care & Accessories](https://mallturk.com/collections/hair-care-and-accessories)
+  Updated: 2026-11-21T11:33:46Z
+  Total Products: 39
+- [Flatware Sets](https://mallturk.com/collections/flatware-sets)
+  Updated: 2026-11-21T11:33:48Z
+  Total Products: 897
+- [Standing Mosaic Lamps](https://mallturk.com/collections/standing-mosaic-lamps)
+  Updated: 2026-11-21T11:33:49Z
+  Total Products: 101
+- [Hats, Gloves & Belts](https://mallturk.com/collections/hats-gloves-and-belts)
+  Updated: 2026-11-21T11:33:51Z
+  Total Products: 124
+- [Ground Coffee Blends](https://mallturk.com/collections/ground-coffee-blends)
+  Updated: 2026-11-21T11:33:52Z
+  Total Products: 979
+- [Hand-Painted Ceramic Tiles](https://mallturk.com/collections/hand-painted-ceramic-tiles)
+  Updated: 2026-11-21T11:33:53Z
+  Total Products: 64
+- [Women's Accessories](https://mallturk.com/collections/womens-accessories)
+  Updated: 2026-11-21T11:33:55Z
+  Total Products: 83
+- [Men's Sandals & Slippers](https://mallturk.com/collections/mens-sandals-and-slippers)
+  Updated: 2026-11-21T11:33:56Z
+  Total Products: 36
+- [Kids' Underwear & Accessories](https://mallturk.com/collections/kids-underwear-and-accessories)
+  Updated: 2026-11-21T11:33:57Z
+  Total Products: 47
+- [Kids' Outerwear & Knitwear](https://mallturk.com/collections/kids-outerwear-and-knitwear)
+  Updated: 2026-11-21T11:33:59Z
+  Total Products: 107
+- [Kids' Dresses & Skirts](https://mallturk.com/collections/kids-dresses-and-skirts)
+  Updated: 2026-11-21T11:34:00Z
+  Total Products: 72
+- [Kids' Sweatshirts & Sets](https://mallturk.com/collections/kids-sweatshirts-and-sets)
+  Updated: 2026-11-21T11:34:02Z
+  Total Products: 330
+- [Women's Activewear](https://mallturk.com/collections/womens-activewear)
+  Updated: 2026-11-21T11:34:03Z
+  Total Products: 221
+- [Lip Products](https://mallturk.com/collections/lip-products)
+  Updated: 2026-11-21T11:34:05Z
+  Total Products: 93
+- [Men's Bodywear & Corsets](https://mallturk.com/collections/mens-bodywear-and-corsets)
+  Updated: 2026-11-21T11:34:06Z
+  Total Products: 22
+- [Men's Shoes & Boots](https://mallturk.com/collections/mens-shoes-and-boots)
+  Updated: 2026-11-21T11:34:07Z
+  Total Products: 801
+- [Men's Underwear & Sleepwear](https://mallturk.com/collections/mens-underwear-and-sleepwear)
+  Updated: 2026-11-21T11:34:09Z
+  Total Products: 81
+- [Men's Jeans & Trousers](https://mallturk.com/collections/mens-jeans-and-trousers)
+  Updated: 2026-11-20T12:46:35Z
+  Total Products: 237
+- [Men's Coats & Raincoats](https://mallturk.com/collections/mens-coats-and-raincoats)
+  Updated: 2026-11-20T12:46:34Z
+  Total Products: 285
+- [Men's Jackets & Vests](https://mallturk.com/collections/mens-jackets-and-vests)
+  Updated: 2026-11-20T12:46:35Z
+  Total Products: 46
+- [Men's Shirts & T-Shirts](https://mallturk.com/collections/mens-shirts-and-t-shirts)
+  Updated: 2026-11-20T12:46:36Z
+  Total Products: 46
+- [Men's Swimwear & Shorts](https://mallturk.com/collections/mens-swimwear-and-shorts)
+  Updated: 2026-11-20T12:46:38Z
+  Total Products: 60
+- [Men's Sweaters & Sweatshirts](https://mallturk.com/collections/mens-sweaters-and-sweatshirts)
+  Updated: 2026-11-20T12:46:37Z
+  Total Products: 195
+- [Pillows & Pillowcases](https://mallturk.com/collections/pillows-and-pillowcases)
+  Updated: 2026-11-20T12:46:42Z
+  Total Products: 29
+- [Area Rugs](https://mallturk.com/collections/area-rugs)
+  Updated: 2026-11-20T12:46:01Z
+  Total Products: 188
+- [Silk Rugs & Kilims](https://mallturk.com/collections/silk-rugs-and-kilims)
+  Updated: 2026-11-20T12:46:45Z
+  Total Products: 61
+- [Sports Nutrition Products](https://mallturk.com/collections/sports-nutrition-products)
+  Updated: 2026-11-21T11:34:15Z
+  Total Products: 136
+- [Sürmene Kitchen Knives](https://mallturk.com/collections/surmene-kitchen-knives)
+  Updated: 2026-11-21T11:34:16Z
+  Total Products: 32
+- [Sürmene Pocket Knives](https://mallturk.com/collections/surmene-pocket-knives)
+  Updated: 2026-11-21T11:34:17Z
+  Total Products: 19
+- [Turkish Coffee Sets](https://mallturk.com/collections/turkish-coffee-sets)
+  Updated: 2026-11-21T11:34:18Z
+  Total Products: 200
+- [Wall Mosaic Lamps](https://mallturk.com/collections/wall-mosaic-lamps)
+  Updated: 2026-11-20T12:46:51Z
+  Total Products: 26
+- [Women's Sandals & Slippers](https://mallturk.com/collections/womens-sandals-and-slippers)
+  Updated: 2026-11-21T11:34:20Z
+  Total Products: 214
+- [Women's Sneakers & Boots](https://mallturk.com/collections/womens-sneakers-and-boots)
+  Updated: 2026-11-21T11:34:21Z
+  Total Products: 558
+- [Women's Knitwear](https://mallturk.com/collections/womens-knitwear)
+  Updated: 2026-11-21T11:34:22Z
+  Total Products: 660
+- [Women's Sleepwear & Maternity](https://mallturk.com/collections/womens-sleepwear-and-maternity)
+  Updated: 2026-11-21T11:34:24Z
+  Total Products: 773
+- [Women's Heels & Flats](https://mallturk.com/collections/womens-heels-and-flats)
+  Updated: 2026-11-21T11:34:26Z
+  Total Products: 222
+- [Wool Rugs](https://mallturk.com/collections/wool-rugs)
+  Updated: 2026-11-20T12:46:59Z
+  Total Products: 2378
+- [Dinner Plates](https://mallturk.com/collections/dinner-plates)
+  Updated: 2026-11-20T12:41:17Z
+  Total Products: 0
+- [Pasabahce](https://mallturk.com/collections/pasabahce)
+  Updated: 2026-11-20T12:43:05Z
+  Total Products: 0
+- [Porland](https://mallturk.com/collections/porland)
+  Updated: 2026-11-22T14:15:02Z
+  Total Products: 467
+- [Single Serving Dinner Sets](https://mallturk.com/collections/single-serving-dinner-sets)
+  Updated: 2026-11-21T19:41:17Z
+  Total Products: 33
+- [4-Person Dinnerware Sets](https://mallturk.com/collections/4-person-dinnerware-sets)
+  Updated: 2026-11-21T19:11:46Z
+  Total Products: 20
+- [Serving Platters](https://mallturk.com/collections/serving-platters)
+  Updated: 2026-11-21T13:32:35Z
+  Total Products: 0
+- [Plate Sets](https://mallturk.com/collections/plate-sets)
+  Updated: 2026-11-21T13:31:53Z
+  Total Products: 0
+- [Boat Plates](https://mallturk.com/collections/boat-plates)
+  Updated: 2026-11-21T13:32:25Z
+  Total Products: 0
+- [Salad Bowls](https://mallturk.com/collections/salad-bowls)
+  Updated: 2026-11-21T13:32:15Z
+  Total Products: 0
+- [Pasta Plates](https://mallturk.com/collections/pasta-plates)
+  Updated: 2026-11-21T13:32:14Z
+  Total Products: 0
+- [Bowls](https://mallturk.com/collections/bowls)
+  Updated: 2026-11-21T13:32:32Z
+  Total Products: 0
+- [Breakfast Platters](https://mallturk.com/collections/breakfast-platters)
+  Updated: 2026-11-21T13:32:15Z
+  Total Products: 0
+- [Pizza Plates](https://mallturk.com/collections/pizza-plates)
+  Updated: 2026-11-21T13:31:07Z
+  Total Products: 0
+- [6-Person Dinnerware Sets](https://mallturk.com/collections/6-person-dinnerware-sets)
+  Updated: 2026-11-21T13:24:06Z
+  Total Products: 0
+- [12-Piece Dinnerware Set](https://mallturk.com/collections/12-piece-dinnerware-set)
+  Updated: 2026-11-21T14:36:54Z
+  Total Products: 37
+- [Outlet](https://mallturk.com/collections/outlet)
+  Updated: 2026-11-21T14:49:33Z
+  Total Products: 29
+- [Dinner Sets for 6](https://mallturk.com/collections/dinner-sets-for-6)
+  Updated: 2026-11-21T19:41:05Z
+  Total Products: 95
+- [Turkish Coffee Cups & Sets](https://mallturk.com/collections/turkish-coffee-cups-sets)
+  Updated: 2026-11-21T21:16:26Z
+  Total Products: 141
+- [Porcelain Pots and Pans](https://mallturk.com/collections/porcelain-pots-and-pans)
+  Updated: 2026-11-22T12:15:53Z
+  Total Products: 17
+- [Decorative Plates](https://mallturk.com/collections/decorative-plates)
+  Updated: 2026-11-22T12:38:24Z
+  Total Products: 16
+- [Decorative Vases](https://mallturk.com/collections/decorative-vases)
+  Updated: 2026-11-22T12:38:04Z
+  Total Products: 19
+- [Gift Items](https://mallturk.com/collections/gift-items)
+  Updated: 2026-11-22T12:38:36Z
+  Total Products: 13
+- [Coffee Sets & Cezves](https://mallturk.com/collections/coffee-sets-cezves)
+  Updated: 2026-11-22T12:31:11Z
+  Total Products: 1
+- [Breakfast & Serving Sets](https://mallturk.com/collections/breakfast-serving-sets)
+  Updated: 2026-11-22T14:15:02Z
+  Total Products: 46
 
 ## Blogs
 
@@ -3020,7 +2774,7 @@
 - [Help Centre | MallTurk Customer Support](https://mallturk.com/pages/help-centre): Delivery & Tracking Our money-back guarantee is outside the timeframe for non-delivery.The product must be delivered within 45 days, including ship...
   Updated: 2026-10-20T11:53:13Z
 - [Search Results | Search Turkish Products | MallTurk](https://mallturk.com/pages/rapid-search-results): .RAPID-SEARCH----DO-NOT-DELETE-THIS-PAGE { }
-  Updated: 2026-11-08T21:44:00Z
+  Updated: 2026-11-15T22:53:36Z
 - [Wholesale Contact | MallTurk B2B Sales Team](https://mallturk.com/pages/whosale-contact-us): Email: info@mallturk.com Phone: Mr.Mehmet Okatan +90 5465821660 (English - عربي) Ms.Fatmagul Akkavim +90 5446583608 (Русский - English - 한국인) Worki...
   Updated: 2026-10-20T11:52:55Z
 - [ Program | Partner with MALLTURK](https://mallturk.com/pages/afillite): 
