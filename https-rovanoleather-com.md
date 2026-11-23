@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-04-02T13:28:30Z
 - Contact Email: officialrovano@gmail.com
-- Updated At: 2026-11-15T00:29:04.724Z
+- Updated At: 2026-11-23T00:32:06.781Z
 
 ## Products
 
@@ -3131,17 +3131,21 @@
 
 - [News](https://rovanoleather.com/blogs/news)
   - [How to Choose the Perfect Leather Jacket | Rovano](https://rovanoleather.com/blogs/news/the-ultimate-guide-to-choosing-the-perfect-leather-jacket): How to Choose the Perfect Leather Jacket | Rovano
-    Updated: 2026-11-10T12:20:35Z
+    Updated: 2026-11-18T13:45:26Z
     Author: Rovano Leather
     Tags: biker leather jackets, bomber leather jackets, buying guide, cafe racer jackets, how to choose a leather jacket, lambskin leather, leather jacket fit, leather jacket materials, leather jacket sizing, rovano
   - [Transform Your Look with Leather Jackets | Rovano](https://rovanoleather.com/blogs/news/from-casual-to-statement-transform-your-look-with-leather): Transform Your Look with Leather Jackets | Rovano
-    Updated: 2026-11-10T12:23:24Z
+    Updated: 2026-11-18T12:36:01Z
     Author: Rovano Leather
     Tags: fashion trends Leather Jacket, italian inspired fashion, Minimalist Leather Jackets, Premium Leather Jackets, rovano
   - [Quiet Luxury Leather 2026: Minimalist Jackets Guide | Rovano](https://rovanoleather.com/blogs/news/quiet-luxury-leather-2026-minimalist-jackets-guide-rovano-leather): Quiet Luxury Leather 2026: Minimalist Jackets Guide | Rovano
-    Updated: 2026-11-10T12:24:43Z
+    Updated: 2026-11-18T12:12:39Z
     Author: Rovano Leather
     Tags: casual leather fashion, leather jacket outfits, leather jackets, leather outfit ideas, mens leather jacket outfits, rovano, street style jackets, style guide, womens leather jacket outfits
+  - [How to Care for a Leather Jacket | Rovano](https://rovanoleather.com/blogs/news/how-to-care-for-a-leather-jacket): How to Care for a Leather Jacket | Rovano
+    Updated: 2026-11-18T13:48:00Z
+    Author: Rovano Leather
+    Tags: cowhide care, lambskin care, leather cleaning, leather conditioning, leather jacket care, leather jacket storage, leather stain removal, nubuck care, suede care
 
 ## Store Pages
 
