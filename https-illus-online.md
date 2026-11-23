@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-26T14:52:41Z
 - Contact Email: illus.online@outlook.com
-- Updated At: 2026-11-15T00:37:37.703Z
+- Updated At: 2026-11-23T00:28:57.931Z
 
 ## Collections
 
@@ -26,10 +26,12 @@
 
 ## Store Pages
 
-- [About us](https://illus.online/pages/about-us): Based in Hong Kong, illus. is a tactile art print house. We believe pet-inspired wall decor should be art you can feel — not just a poster you hang...
-  Updated: 2026-10-06T08:09:09Z
-- [Our Collections](https://illus.online/pages/our-collections)
-  Updated: 2026-10-07T15:31:25Z
+- [About us](https://illus.online/pages/about-us)
+  Updated: 2026-11-22T14:31:03Z
+- [Collections](https://illus.online/pages/our-collections)
+  Updated: 2026-11-22T03:46:21Z
+- [Wholesale & Licensing](https://illus.online/pages/trade-licensing): Wholesale & Licensing Selected collections are available for: Wholesale Suitable for: ol {margin-bottom:0in;margin-top:0in;}ul {margin-bottom:0in;m...
+  Updated: 2026-11-22T14:16:15Z
 
 ## Policies
 
