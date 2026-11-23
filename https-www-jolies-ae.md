@@ -9,7 +9,7 @@
 - Created At: 2023-04-26T05:16:10Z
 - Contact Email: joliestoreuae@gmail.com
 - Contact Phone: +971502963596
-- Updated At: 2026-11-15T20:45:28.898Z
+- Updated At: 2026-11-23T01:26:08.114Z
 
 ## Products
 
@@ -916,7 +916,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Anua-Heartleaf-Pore-Control-Cleansing-Oil-200-ml-ANUA-JOLIE_S-131731352.jpg?v=1724967914
   Price: AED 80.00 AED
 - [Karseell Collagen Hair  | JOLIE'S UAE](https://www.jolies.ae/products/karseell-collagen-hair--collagen-hair-mask-essence-for-dry-damaged-hair-500-ml): Shop Karseell Collagen Hair  at JOLIE'S UAE. Find product details, usage information and current online availability.
-  Updated: 2026-11-07T12:24:31Z
+  Updated: 2026-11-20T09:46:23Z
   Vendor: KARSEELL
   Product Type: Hair Mask
   Availability: Available
@@ -3026,13 +3026,13 @@
   Updated: 2026-11-14T19:08:52Z
   Total Products: 32
 - [Hair Care](https://www.jolies.ae/collections/hair-care): Shop shampoos, conditioners, masks, oils, serums and scalp care products online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-11-07T12:08:45Z
+  Updated: 2026-11-20T12:10:16Z
   Total Products: 114
 - [Skin Care](https://www.jolies.ae/collections/skin-care): Shop cleansers, serums, moisturizers, sunscreens, masks and skin care routines online in the UAE at JOLIE'S. UAE and international delivery available.
   Updated: 2026-11-03T12:09:18Z
   Total Products: 620
 - [Makeup](https://www.jolies.ae/collections/makeup): Shop makeup online in the UAE, including foundation, eyeshadow, lip, brow, contour and setting products from a range of beauty brands.
-  Updated: 2026-10-03T12:14:35Z
+  Updated: 2026-11-21T14:35:38Z
   Total Products: 41
 - [Bracelets](https://www.jolies.ae/collections/bracelets): Shop elegant stone and leather bracelets online in the UAE. Explore versatile designs for everyday wear and special occasions from JOLIE'S.
   Updated: 2026-10-03T12:14:25Z
@@ -3041,7 +3041,7 @@
   Updated: 2026-08-22T14:29:48Z
   Total Products: 12
 - [Best Sellers](https://www.jolies.ae/collections/best-sellers): Shop popular skincare, hair care, treatments and beauty sets online in the UAE. Explore selected in-stock products available from JOLIE'S.
-  Updated: 2026-11-15T18:46:53Z
+  Updated: 2026-11-21T14:35:38Z
   Total Products: 204
 - [Hair Dryer](https://www.jolies.ae/collections/hair-dryer): Shop professional hair dryers online in the UAE. Compare available wattages, designs and features for everyday or salon-style drying.
   Updated: 2026-08-22T14:28:48Z
@@ -3062,7 +3062,7 @@
   Updated: 2026-10-03T12:14:33Z
   Total Products: 9
 - [Premium products](https://www.jolies.ae/collections/premium-products): - JOLIE'S
-  Updated: 2026-11-14T19:08:52Z
+  Updated: 2026-11-21T14:35:38Z
   Total Products: 514
 - [Normal products](https://www.jolies.ae/collections/premium-products-copy): - JOLIE'S
   Updated: 2026-11-03T12:09:18Z
