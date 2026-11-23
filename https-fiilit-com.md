@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2017-10-12T15:13:09Z
 - Contact Email: fiilit@parfumduvoyage.com
-- Updated At: 2026-11-15T00:28:18.118Z
+- Updated At: 2026-11-23T00:30:43.088Z
 
 ## Products
 
 - [SURYA Bali, eau de parfum 50 ml, florale solaire, frangipanier et ylang | Parfum du Voyage by FiiLiT](https://fiilit.com/products/eau-de-parfum-voyage-surya-bali): Surya : le soleil, en balinais. C'est un parfum qui irradie la volupté. La fleur solaire du frangipanier s'associe à l'élégance de la tubéreuse et à la chaleur de l'Ylang Ylang. Les notes enivrantes de vanille et les baumes miellés d'élémi signent ce sillage d'une sensualité absolue. Osez un parfum aussi ardent que le soleil.
-  Updated: 2026-11-13T07:50:35Z
+  Updated: 2026-11-22T21:47:18Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/surya-bali-eau-de-parfum-7251186.jpg?v=1769187696
     Price: 189,00 € EUR
 - [TUMBAO Cuba, eau de parfum 50 ml, boisée épicée, tabac et rhum | Parfum du Voyage by FiiLiT](https://fiilit.com/products/eau-de-parfum-tumbao-cuba): Tumbao : le rythme de Cuba, cette manière charmante de danser. Cette création capture l'esprit d'une bodeguita festive : elle s’ouvre sur des notes  de citron vert, de gingembre bleu et de cardamome. Le tabac blond et le rhum brun apportent une chaleur mystérieuse, tandis que le piri-piri signe le sillage d'une touche sensuelle et piquante. Un parfum puissant et vibrant. Osez un sillage qui a le rythme dans la peau.
-  Updated: 2026-11-14T20:14:07Z
+  Updated: 2026-11-22T18:41:58Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -71,7 +71,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/tumbao-cuba-eau-de-parfum-3781548.jpg?v=1769187691
     Price: 189,00 € EUR
 - [IRIDA Cyclades, eau de parfum 50 ml, ambrée marine, mastic et néroli | Parfum du Voyage by FiiLiT](https://fiilit.com/products/irida-cyclades-eau-de-parfum): Dans ce parfum évolutif, la fraîcheur lumineuse du petit-grain et de la bergamote évoquent l’air marin d’un matin en Méditerranée. Les notes de terre corsées de la myrrhe et de l’ambre rappellent le soleil sur la peau. Tandis que l’élégance du patchouli, sa puissance de feu, équilibre les éléments dans cette invocation à Irida, divinité grecque de l’arc-en-ciel reliant le ciel et la terre. Osez un parfum qui connecte vos rêves à la réalité.
-  Updated: 2026-11-14T20:14:35Z
+  Updated: 2026-11-20T06:58:42Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -105,7 +105,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/irida-cyclades-eau-de-parfum-8024189.jpg?v=1769187693
     Price: 49,00 € EUR
 - [Coffret parfum découverte : 14 fioles de 1,5 mL | Parfum du Voyage by FiiLiT](https://fiilit.com/products/set-decouverte): 14 eaux de parfum en fioles de 1,5 mL pour trouver celle qui vous ressemble. Bon de 20 € dès 70 € d'achat. De 87 à 100 % d'origine naturelle.
-  Updated: 2026-11-13T10:05:27Z
+  Updated: 2026-11-22T09:02:18Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -130,7 +130,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/le-coffret-collector-offre-2eme-a-50-7494620.jpg?v=1769187676
     Price: 54,00 € EUR
 - [Pack de 10 minis 1,5 ml d'un même parfum | Parfum du Voyage by FiiLiT](https://fiilit.com/products/pack-de-10-echantillon): Pack de 10 formats mini de 1,5 ml d'un même parfum
-  Updated: 2026-11-09T08:03:43Z
+  Updated: 2026-11-19T16:01:47Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -281,7 +281,7 @@
   Image: https://cdn.shopify.com/s/files/1/2447/7731/products/100-touches-a-parfum-3633911.jpg?v=1769187673
   Price: 8,00 € EUR
 - [SAUDADE Amazonie, eau de parfum 50 ml, hespéridée épicée, passion et piment | Parfum du Voyage by FiiLiT](https://fiilit.com/products/eau-de-parfum-saudade-amazonia): Saudade : ce mot unique pour une délicieuse nostalgie, ce désir d'ailleurs. C'est un parfum-voyage, une création 100% naturelle, fraîche, pétillante et sensuelle qui capture l'âme de l'Amazonie. Sentez le soleil des agrumes et les fruits colorés s'épanouir sur la fraîcheur de la jungle luxuriante. Osez le désir d'un ailleurs.
-  Updated: 2026-11-13T13:50:07Z
+  Updated: 2026-11-22T17:14:28Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -303,7 +303,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/saudade-amazonia-eau-de-parfum-5995789.jpg?v=1769187692
     Price: 89,00 € EUR
 - [KADO Japon, eau de parfum 50 ml, florale, yuzu et fleur de cerisier | Parfum du Voyage by FiiLiT](https://fiilit.com/products/kado-japon-eau-de-parfum): KADŌ est 'l'art de faire vivre les fleurs'. C'est la quête japonaise de l'harmonie parfaite entre la nature et l'esprit. Plus qu'un parfum, c'est un rituel. Une façon de trouver son équilibre intérieur et de projeter une élégance sereine. Un sillage discret et envoûtant, aussi pur qu'un jardin japonais après la pluie. Osez le sillage de l'harmonie.
-  Updated: 2026-11-14T20:13:11Z
+  Updated: 2026-11-22T18:41:58Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -333,7 +333,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/kado-japon-eau-de-parfum-2376160.jpg?v=1769187735
     Price: 189,00 € EUR
 - [MAZHAR Atlas, eau de parfum 50 ml, florale, fleur d'oranger et néroli | Parfum du Voyage by FiiLiT](https://fiilit.com/products/mazhar-atlas-eau-de-parfum): Mazhar est une invitation à la gourmandise des sens. C'est l'évasion vers un oasis perdu de l'Atlas. Sentez la fraîcheur du Mandora plonger dans un cœur addictif de fleur d'oranger, avant de se fondre dans la douceur enveloppante du Néroli. Un sillage sensuel et réconfortant. Osez la douceur d'une évasion.
-  Updated: 2026-11-14T10:37:58Z
+  Updated: 2026-11-22T18:53:58Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -355,7 +355,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/mazhar-atlas-eau-de-parfum-9403868.jpg?v=1769187701
     Price: 2,00 € EUR
   - [Recharge 100ml](https://fiilit.com/products/mazhar-atlas-eau-de-parfum?variant=56494902542718)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/mazhar-atlas-eau-de-parfum-2577125.jpg?v=1769187698
     Price: 99,00 € EUR
   - [Recharge 200ml](https://fiilit.com/products/mazhar-atlas-eau-de-parfum?variant=56494902575486)
@@ -367,7 +367,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/mazhar-atlas-eau-de-parfum-9102668.jpg?v=1769187696
     Price: 49,00 € EUR
 - [TEHANI Polynésie, eau de parfum 50 ml, florale solaire, fleur de tiaré et coco | Parfum du Voyage by FiiLiT](https://fiilit.com/products/tehani-polynesie-eau-de-parfum): La fleur de Tiaré est l’une des plantes les plus rares et les plus belles au monde. Elle ne pousse que sur l’archipel des îles polynésiennes de la planète, surtout de Raiatea, aux flancs du volcan éteint du mont Temehani. Dans la création Tehani, l’huile de monoï et la fraîcheur du Citrus offrent à la fleur polynésienne toute la volupté d’une caresse de paradis.
-  Updated: 2026-11-13T09:13:57Z
+  Updated: 2026-11-22T17:14:26Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -401,7 +401,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/tehani-polynesie-eau-de-parfum-7297793.jpg?v=1769187691
     Price: 189,00 € EUR
 - [MUSHUSSU Babylonia, eau de parfum 50 ml, boisée orientale, oud et encens | Parfum du Voyage by FiiLiT](https://fiilit.com/products/eau-de-parfum-mushussu-babylonia): Cette création évoque les jardins suspendus de Babylone, où veille le génie protecteur Mušhuššu. L’essence noble et puissante du bois de Oud accueille des feuilles de menthe givrée. Sur un fond ténébreux de bois et d’épices, ce parfum possède l’intensité fauve d’une alliance de sensualité racée et de fraîcheur enivrante.
-  Updated: 2026-11-13T08:17:56Z
+  Updated: 2026-11-22T01:58:44Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -435,7 +435,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/mushussu-babylonia-eau-de-parfum-3769123.jpg?v=1769187730
     Price: 49,00 € EUR
 - [WAKA Madagascar, eau de parfum 50 ml, chyprée épicée, ravintsara et vanille | Parfum du Voyage by FiiLiT](https://fiilit.com/products/eau-de-parfum-waka-madagascar): WAKA est un parfum-énergie, un sillage charnel qui capture l'âme de Madagascar. C'est une synergie vibrante où l'éclat du Gingembre bleu et la fraîcheur camphrée du Ravintsara se mêlent aux épices et à la flore tropicale. Plus qu'un parfum : un voyage olfactif vers l'île rouge, frais, épicé et profondément boisé. Osez un sillage plein d'énergie.
-  Updated: 2026-11-13T10:25:05Z
+  Updated: 2026-11-20T07:03:40Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -695,7 +695,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/WAKA-MADAGASCAR-Eau-de-Parfum-50mL.jpg?v=1762952013
     Price: 74,00 € EUR
 - [ICE Boréal, eau de parfum 50 ml, boisée marine, eucalyptus et cèdre | Parfum du Voyage by FiiLiT](https://fiilit.com/products/ice-boreal-eau-de-parfum): ICE est un mystère boréal. Une création ambrée, marine et pleine de fraîcheur. Sentez l'air glacial et marin de l'eucalyptus et du poivre se fondre dans la puissance des forêts millénaires de cèdre et de mousse de chêne. Une touche amandée de gurjum signe ce sillage d'une élégance polaire. Osez un parfum aussi vif qu'une aurore boréale.
-  Updated: 2026-11-14T10:37:58Z
+  Updated: 2026-11-22T17:14:27Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -725,7 +725,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/ice-boreal-eau-de-parfum-9440818.jpg?v=1769187686
     Price: 189,00 € EUR
 - [JOLI COEUR La Réunion, eau de parfum 50 ml, gourmande, vanille, cacao et tonka | Parfum du Voyage by FiiLiT](https://fiilit.com/products/joli-coeur-la-reunion-eau-de-parfum): Joli Coeur est un sourire insulaire, une gourmandise de La Réunion enrobée de tendresse. C'est une création irrésistible où le souffle d’une vanille chaude et sensuelle caresse une amande poudrée. Porté par la fève Tonka, le drapé du cacao et un accord caramel, ce sillage est une caresse. Osez la plus douce des gourmandises.
-  Updated: 2026-11-14T10:37:57Z
+  Updated: 2026-11-22T18:29:20Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -755,7 +755,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/joli-coeur-la-reunion-eau-de-parfum-1339584.jpg?v=1776154746
     Price: 189,00 € EUR
 - [PATCHILAÏ Inde, eau de parfum 50 ml, chyprée, patchouli et encens | Parfum du Voyage by FiiLiT](https://fiilit.com/products/india-patchilai-eau-de-parfum): Pour cette création, la sensualité enveloppante de l’essence de Patchouli est sculptée par la douceur miellée du benjoin. Cette fragrance profonde s’imagine éthérée par des notes de bergamote acidulée et de cardamone légèrement mentholée. Un soupçon de magie, un pétale d’ylang-ylang, revisite cet oriental boisé.
-  Updated: 2026-11-13T07:51:05Z
+  Updated: 2026-11-22T18:53:58Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -785,7 +785,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/patchilai-india-eau-de-parfum-6687571.jpg?v=1769187692
     Price: 189,00 € EUR
 - [AMANTE Andalousie, eau de parfum 50 ml, hespéridée, néroli et figue | Parfum du Voyage by FiiLiT](https://fiilit.com/products/amante-andalucia-eau-de-parfum): C’est l’histoire d’un été andalou. Tandis qu’on discute sur la place, linge blanc aux fenêtres, un léger parfum de mandora nous fait tourner la tête. Une silhouette diaphane s’esquisse. Amante est un parfum frais et gorgé d’agrumes. Des feuilles de figues, étoffes vacillantes, dansent entre ses notes aériennes.
-  Updated: 2026-11-13T07:51:10Z
+  Updated: 2026-11-22T01:58:46Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -815,7 +815,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/amante-andalucia-eau-de-parfum-6068284.jpg?v=1769187691
     Price: 189,00 € EUR
 - [LE TEMPS DES SONGES Australie, eau de parfum 50 ml, boisée, santal blanc et eucalyptus | Parfum du Voyage by FiiLiT](https://fiilit.com/products/le-temps-des-songes-australia-eau-de-parfum): La fraîcheur de l’eucalyptus et les notes florales aux facettes animales de l'Osmanthus provoquent une rencontre magnétique avec le bois de santal australien, nous ouvrant aux plus beaux rêves olfactifs. Le temps du rêve désigne l’ère qui précède la création de la Terre, une période où tout n’était que spirituel et immatériel. Les aborigènes utilisent les émanations de fumée pour communiquer avec ce temps onirique.
-  Updated: 2026-11-13T07:51:10Z
+  Updated: 2026-11-20T23:58:27Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -845,7 +845,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/le-temps-des-songes-australia-eau-de-parfum-3352413.jpg?v=1769187697
     Price: 189,00 € EUR
 - [LA PERLA MAYA Yucatán, eau de parfum 50 ml, florale, tubéreuse et mimosa | Parfum du Voyage by FiiLiT](https://fiilit.com/products/la-perla-maya-yucatan-eau-de-parfum): La Tubéreuse, 'reine de nuit', 'la perle' des Mayas. C'est une fleur mythique qui s'ouvre à la nuit tombée, dégageant une fragrance blanche, puissante et voluptueuse. Un sillage étourdissant, un don légendaire capturé dans un flacon, conçu pour éveiller les sens et habiller la peau d'une aura mystique. Osez le pouvoir d'une fleur divine.
-  Updated: 2026-11-14T10:37:59Z
+  Updated: 2026-11-22T01:58:47Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -875,7 +875,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/la-perla-maya-yucatan-eau-de-parfum-3945098.jpg?v=1769187690
     Price: 189,00 € EUR
 - [ROSE DÉSIR Damas, eau de parfum 50 ml, florale épicée, rose de Damas et safran | Parfum du Voyage by FiiLiT](https://fiilit.com/products/rose-desir-damas-eau-de-parfum): ROSE DÉSIR n'est pas un parfum, c'est une ivresse olfactive. Une fragrance qui ne se contente pas de charmer : elle capture. Conçue pour révéler votre pouvoir de séduction absolu, c'est une invitation à vivre une légende. Osez le plus désirable des voyages.
-  Updated: 2026-11-13T07:51:16Z
+  Updated: 2026-11-20T11:42:19Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -968,31 +968,31 @@
 ## Collections
 
 - [Eaux de Parfum : Vos Carnets de Voyage](https://fiilit.com/collections/parfums): 16 eaux de parfum mixtes et vegan, de 87 % à 100 % d'origine naturelle, composées à Grasse. Flacons 11 et 50 ml rechargeables, recharges 100 et 200 ml.
-  Updated: 2026-11-14T12:05:59Z
+  Updated: 2026-11-21T12:06:47Z
   Total Products: 19
 - [Idées Cadeaux : L'Art d'Offrir le Voyage](https://fiilit.com/collections/idees-cadeaux): Coffret parfum femme, homme ou mixte, Set Découverte de 14 parfums en 1,5 ml, coffrets à composer et carte cadeau. Composés à Grasse.
-  Updated: 2026-11-13T12:05:49Z
+  Updated: 2026-11-22T12:07:07Z
   Total Products: 13
 - [Recharges](https://fiilit.com/collections/recharges): Rechargez vos parfums préférés avec nos recharges de 200mL. Suivez nos étapes simples pour remplir vos flacons de 11mL ou 50mL facilement.
   Updated: 2026-10-03T22:19:09Z
   Total Products: 2
 - [Professionnels](https://fiilit.com/collections/professionnels): Outils de ventes, testeurs, présentation
-  Updated: 2026-11-04T10:55:33Z
+  Updated: 2026-11-20T12:10:18Z
   Total Products: 13
 - [Collection limitée](https://fiilit.com/collections/collection-limitee): Bienvenue dans notre univers parfumé en édition limitée, où l'exclusivité rencontre l'opportunité. Venez explorer, découvrir et vous laisser séduire par nos offres spéciales et nos parfums uniques. Profitez d'une sélection d'articles à -20%. C'est le moment de vous offrir le luxe à prix réduit, avec notre collection exclusive en édition limitée. Attention, les flacons 50mL et 100mL en édition limitée ne sont pas rechargeables ! La différence avec les autres flacons concerne seulement les packagings et non les fragrances.
-  Updated: 2026-11-13T12:05:49Z
+  Updated: 2026-11-20T12:10:18Z
   Total Products: 4
 - [L'Intégrale du Voyage : Toutes Nos Créations](https://fiilit.com/collections/all): Parfums de niche composés à Grasse, de 87 % à 100 % d'origine naturelle : eaux de parfum, formats voyage, recharges et coffrets.
-  Updated: 2026-11-14T12:05:59Z
+  Updated: 2026-11-22T12:07:07Z
   Total Products: 29
 - [Digital Goods VAT Tax](https://fiilit.com/collections/digital-goods-vat-tax)
   Updated: 2026-03-11T15:24:23Z
   Total Products: 0
 - [New! Shopify performance sharing is now turned on](https://fiilit.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-11-14T12:05:59Z
+  Updated: 2026-11-22T12:07:07Z
   Total Products: 71
 - [Matériel de vente & Outils de Découverte](https://fiilit.com/collections/materiel-de-vente-outils-de-decouverte): Transformez chaque visite en voyage olfactif. Équipez votre point de vente avec nos outils de découverte professionnels. Un parfum testé est un parfum adopté : offrez à vos clients l'expérience complète FiiLiT Parfum du Voyage grâce à nos testeurs, présentoirs et touches à parfum. 💡 Astuce Pro : Complétez votre assortiment ! Pour accompagner vos ventes, nos testeurs 50mL vous sont offerts par palier selon vos volumes de commande de parfums.
-  Updated: 2026-11-04T10:45:36Z
+  Updated: 2026-11-20T12:10:18Z
   Total Products: 13
 
 ## Blogs
