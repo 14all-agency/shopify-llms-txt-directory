@@ -10,26 +10,12 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
 - Created At: 2024-12-21T15:29:50Z
 - Contact Email: info@anicbeauty.de
 - Address: 74564 Crailsheim
-- Updated At: 2026-11-15T00:41:56.663Z
+- Updated At: 2026-11-23T00:38:26.005Z
 
 ## Products
 
-- [Kurze Glatte Kunsthaarperücke Hitzebeständig – LUX-Anic](https://anicbeauty.de/products/wig-female-wig-short-straight-hair-short-hair-straight-hair-bob-wig): Kurze glatte Kunsthaarperücke, hitzebeständig bis 150°C, verstellbare Kappe. Für Alltag & besondere Anlässe
-  Updated: 2026-10-31T18:03:58Z
-  Vendor: LUX-Anic
-  Product Type: Wigs
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Design_sans_titre_24.png?v=1789645235
-  Price: 22,95 € EUR
-- [Lange Lockige Kunsthaarperücke – Hitzebeständig | LUX-Anic](https://anicbeauty.de/products/long-curly-wig-synthetic-fiber-70-cm): Hitzebeständige Kunsthaarperücke mit Naturlook bis 150°C. Verstellbare Kappe, leicht & weich.
-  Updated: 2026-10-31T18:03:58Z
-  Vendor: LUX-Anic
-  Product Type: Wigs
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/001.png?v=1756046876
-  Price: 25,90 € EUR
 - [Mini Bart- & Haarglätter-Kamm – Herren Styling | LUX-Anic](https://anicbeauty.de/products/mini-beard-hair-straightener-comb-safe-styling-for-men): Kompakter Bart- & Haarglätter für Herren mit Anti-Verbrennungsschutz & EU-Stecker. Glattes Ergebnis in Minuten.
-  Updated: 2026-11-04T17:39:06Z
+  Updated: 2026-11-22T07:25:21Z
   Vendor: LUX-Anic
   Product Type: Accessories
   Availability: Available
@@ -97,7 +83,7 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Lace_Tint_Spray_Concealer.avif?v=1790368452
     Price: 14,90 € EUR
 - [Multifunktionale Haarglätter-Bürste – Alle Haartypen | LUX-Anic](https://anicbeauty.de/products/multifunctional-heated-hair-straightening-brush-effortless-styling): Haarglätter-Bürste für Salon-Ergebnisse zu Hause. Glättet, kämmt & pflegt in einem Schritt – Hitzeschutz-Technologie.
-  Updated: 2026-10-31T18:03:58Z
+  Updated: 2026-11-22T07:25:21Z
   Vendor: LUX-Anic
   Product Type: LUX-Anic Accessories
   Availability: Available
@@ -111,7 +97,7 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Hair_straightener.jpg?v=1789645556
     Price: 22,90 € EUR
 - [Ultraschall Haut Scrubber | Gesichtsspatula Peeling](https://anicbeauty.de/products/ultraschall-haut-scrubber-face-spatula-peeling-dead-skin-removal): Ultraschall Gesichtsspatula für Tiefenreinigung, Peeling & Hautstraffung. Vibrationspeeling entfernt Schmutz & abgestorbene Zellen
-  Updated: 2026-10-31T18:03:58Z
+  Updated: 2026-11-22T07:25:21Z
   Vendor: LUX-Anic
   Product Type: Accessories
   Availability: Available
@@ -377,28 +363,14 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/aloe_msm_gel_pd_main_512_X_512_1771942674788.jpg?v=1789646923
   Price: 35,90 € EUR
 - [Forever Aloe Mango™ Forever Living | 86% Aloe Vera mit Mango – LUX-Anic](https://anicbeauty.de/products/forever-aloe-mango™-86-aloe-vera-gel-kombiniert-mit-mango): Forever Aloe Mango™ – 86% Aloe Vera Gel mit natürlichem Mangogeschmack. IASC-zertifiziert. Jetzt kaufen bei LUX-Anic.
-  Updated: 2026-10-31T18:03:58Z
+  Updated: 2026-11-22T07:25:20Z
   Vendor: LUX-Anic
   Product Type: Forever Active Life
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever_aloe_mango__pd_main_512_X_512_1718720274113.avif?v=1789647118
   Price: 35,90 € EUR
-- [Forever Malosi™ Fine Fragrance - Woodsy Scent with Spiced Nuances | 30ml](https://anicbeauty.de/products/forever-malosi™-fine-fragrance-refreshing-spiced-nuances-30-ml): Sophisticated woodsy fragrance with refreshing spiced nuances. Captivating blend of botanicals. Perfect for everyday or formal occasions.
-  Updated: 2026-10-31T18:03:58Z
-  Vendor: LUX-Anic
-  Product Type: Forever Skin and Personal care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever-malosi-2023-11-30-656878c869360.webp?v=1789417466
-  Price: 37,95 € EUR
-- [Forever Alofa™ Fine Fragrance - Fresh Floral with Jasmine & Sandalwood | 30ml](https://anicbeauty.de/products/forever-alofa™-fine-fragrance-fresh-floral-fragrance-30-ml): Fresh floral fragrance with jasmine, citrus & sandalwood. Slightly sweet fusion of nature's finest botanicals. Long-lasting elegant scent.
-  Updated: 2026-10-31T18:03:58Z
-  Vendor: LUX-Anic
-  Product Type: Forever Skin and Personal care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever-alofa-2023-11-30-656877ded512a.webp?v=1789417570
-  Price: 37,95 € EUR
 - [Forever Tightening Mask & Aloe Activator Toner](https://anicbeauty.de/products/tightening-mask-powder-refreshed-nourished-skin-29gr): Forever Tightening Mask Powder 29 g + Aloe Activator Toner. Sträfft, reinigt & spendet Feuchtigkeit – mit Kamille & Allantoin. Lieferung nach DE, EU & CH.
-  Updated: 2026-11-04T17:39:06Z
+  Updated: 2026-11-22T07:25:20Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
@@ -410,7 +382,7 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   - [Activator](https://anicbeauty.de/products/tightening-mask-powder-refreshed-nourished-skin-29gr?variant=58737822073096)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Green_and_White_Photography_Give_Away_Skincare_Instagram_Post_76.jpg?v=1789646997
-    Price: 34,95 € EUR
+    Price: 18,95 € EUR
 - [Forever Vitamin C Gesichtsmilch 30 ml | 6% Vitamin C Brightening | Anti-Aging – LUX-Anic](https://anicbeauty.de/products/forever-vitamin-c™-brightening-facial-milk): Forever Vitamin C Brightening Facial Milk 30 ml mit 6% Vitamin C. Reduziert dunkle Flecken & Falten, strahlendes Hautbild. Antioxidativer Schutz. Lieferung nach DE, AT & CH.
   Updated: 2026-10-31T18:03:58Z
   Vendor: LUX-Anic
@@ -425,13 +397,6 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever_bakuchiol__nourishing_facial_milk_pd_main_512_X_512_1758698882514.jpg?v=1789412987
   Price: 54,30 € EUR
-- [Day-to-Night Duo - Brightening & Nourishing Facial Milk Set | Vitamin C & Bakuchiol](https://anicbeauty.de/products/set-forever-day-to-night-duo): Complete 24h skincare with Vitamin C Brightening Milk for day & Bakuchiol Nourishing Milk for night. Brighter complexion & renewed skin.
-  Updated: 2026-10-31T18:03:58Z
-  Vendor: LUX-Anic
-  Product Type: Forever Skin and Personal care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever_day-to-night_duo_pd_main_512_X_512_1758614687994_1.jpg?v=1789409893
-  Price: 102,00 € EUR
 - [Forever Therm® Forever Living | B-Vitamine Energieboost – LUX-Anic](https://anicbeauty.de/products/forever-therm®): Nahrungsergänzung mit Grüntee-Extrakt, B-Vitaminen & natürlichem Koffein für aktiven Energiestoffwechsel. Teil von Clean 9 & F15. ✅ Lieferung DE & EU.
   Updated: 2026-11-04T17:45:18Z
   Vendor: LUX-Anic
@@ -440,14 +405,14 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever_therm__pd_main_512_X_512_1672322430454.jpg?v=1789415573
   Price: 41,95 € EUR
 - [Forever Fiber™ Forever Living | Ballaststoffe Verdauung – LUX-Anic](https://anicbeauty.de/products/forever-fiber®-food-for-fiber-supply): Lebensmittel zur Ballaststoffversorgung mit Akazienfasern & Maisfasern. 5 g pro Portion. Bestandteil von Clean 9 & F15. ✅ Lieferung DE & EU.
-  Updated: 2026-10-31T18:03:58Z
+  Updated: 2026-11-22T07:25:20Z
   Vendor: LUX-Anic
   Product Type: Forever Active Life
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever_fiber_fusion_pd_main_512_X_512_1785323623151.png?v=1789407429
   Price: 39,95 € EUR
 - [Herren-Umhängetasche aus Kunstleder | LUX-Anic](https://anicbeauty.de/products/herren-umhaengetasche-kunstleder-crossbody): Entdecken Sie die Herren-Umhängetasche aus Kunstleder mit Reißverschluss. Kompaktes Crossbody-Design, 20 × 7 × 24 cm, für Alltag und Reisen.
-  Updated: 2026-10-31T18:03:58Z
+  Updated: 2026-11-22T07:25:20Z
   Vendor: LUX-Anic
   Product Type: Accessories
   Availability: Available
@@ -455,18 +420,11 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   - [light brown](https://anicbeauty.de/products/herren-umhaengetasche-kunstleder-crossbody?variant=58737824203016)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Shoulder_Umhaengetaschen.jpg?v=1789412077
-    Price: 28,90 € EUR
+    Price: 25,90 € EUR
   - [dark brown](https://anicbeauty.de/products/herren-umhaengetasche-kunstleder-crossbody?variant=58737824235784)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Shoulder_Umhaengetaschen_2.jpg?v=1789412077
-    Price: 28,90 € EUR
-- [Rechargeable Nail Polisher – Manicure & Pedicure Smoother | LUX-Anic](https://anicbeauty.de/products/nail-polisher-manicure-pedicure-rechargeable): Rechargeable nail polisher with USB-C. Smooths nails and removes polish residue. Lightweight, elegant, CE . Perfect for manicure & pedicure.
-  Updated: 2026-11-04T17:39:06Z
-  Vendor: LUX-Anic
-  Product Type: LUX-Anic Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/RechargeableNailPolisher_4.jpg?v=1789405139
-  Price: 12,90 € EUR
+    Price: 25,90 € EUR
 - [Set Aloe Body Wash & Aloe Body Lotion - Nourish Your Skin](https://anicbeauty.de/products/gift-set-1-aloe-body-wash-1-aloe-body-lotion): Set Aloe Body Wash & Aloe Body Lotion - aloe vera, jojoba oil, and argan oil. Ideal for hydration and skin protection. Perfect gift for all occasions.
   Updated: 2026-10-31T18:03:58Z
   Vendor: LUX-Anic
@@ -548,13 +506,6 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/renewing_skin_cr_me_pd_main_512_X_512_1756111201745.jpg?v=1789406339
   Price: 41,90 € EUR
-- [DX4 Body Balancing Program Forever Living | 4-Tage-Neustart – LUX-Anic](https://anicbeauty.de/products/dx4-4-day-body-balancing-program): DX4 von Forever Living – 4-tägiges Body-Balancing-Programm mit 7 Produkten, Online-Guide & Clean-Eating-Rezepten. Idealer Start vor Clean 9. Kaufen bei LUX-Anic.
-  Updated: 2026-10-31T18:03:57Z
-  Vendor: LUX-Anic
-  Product Type: Forever Active Life
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/dx4__pd_main_512_X_512_1673615339607.jpg?v=1789406244
-  Price: 129,90 € EUR
 - [Vital5 Freedom Forever Living | 30 Tage Basisversorgung – LUX-Anic](https://anicbeauty.de/products/vital5-freedom-30-tage-basisversorgung): Vital5 Freedom – 30-Tage-Paket von Forever Living: Freedom, Arctic Sea, Pro-B, Daily & ARGI+ für Gelenke, Omega-3 & Vitamine. Kaufen bei LUX-Anic.
   Updated: 2026-10-31T18:03:58Z
   Vendor: LUX-Anic
@@ -584,21 +535,21 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever_plant_protein__pd_main_512_X_512_1666947577279.jpg?v=1789405828
   Price: 59,90 € EUR
 - [Kurze Lockige Lace Front Echthaarperücke – Naturschwarz 13x1](https://anicbeauty.de/products/kurze-lockige-lace-front-echthaarperucke-naturschwarz-13x1): Kurze Lockige Lace Front Echthaarperücke – Naturschwarz 13x1 - LUX-Anic - Perücke
-  Updated: 2026-11-01T16:54:01Z
+  Updated: 2026-11-22T07:21:46Z
   Vendor: LUX-Anic
   Product Type: Perücke
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Sae1a2f7aa5a54f90afea6bcdfd635477f.jpg?v=1789420032
-  Price: 38,90 € EUR
+  Price: 32,90 € EUR
 - [Headband Perücke Echthaar Body Wave Naturfarbe Brasilianisches Remy](https://anicbeauty.de/products/headband-perucke-echthaar-body-wave-naturfarbe-brasilianisches-remy): Headband Perücke Echthaar Body Wave Naturfarbe Brasilianisches Remy - LUX-Anic - Perücke
-  Updated: 2026-10-31T18:03:58Z
+  Updated: 2026-11-22T07:07:37Z
   Vendor: LUX-Anic
   Product Type: Perücke
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Headband_Wig_Human_Hair_Body_Wave_hair__11.jpg?v=1789420101
-  Price: 98,90 € EUR
+  Price: 69,90 € EUR
 - [Body Wave Echthaar Perücke 13x4 Transparente Lace Front |](https://anicbeauty.de/products/body-wave-echthaar-perucke-13x4-transparente-lace-front-brasilianisches-haar-180-dichte-20-zoll): Body Wave Echthaar Perücke 13x4 Transparente Lace Front | Brasilianisches Haar 180% Dichte | 20 Zoll - LUX-Anic - Perücke
-  Updated: 2026-10-31T18:03:57Z
+  Updated: 2026-11-22T07:07:37Z
   Vendor: LUX-Anic
   Product Type: Perücke
   Availability: Available
@@ -606,84 +557,62 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   - [13x4](https://anicbeauty.de/products/body-wave-echthaar-perucke-13x4-transparente-lace-front-brasilianisches-haar-180-dichte-20-zoll?variant=58739949043976)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Body_wave___12_51fa71c3-06e2-462a-8eae-d02f5483e78a.jpg?v=1789421288
-    Price: 98,90 € EUR
+    Price: 72,90 € EUR
   - [4x4](https://anicbeauty.de/products/body-wave-echthaar-perucke-13x4-transparente-lace-front-brasilianisches-haar-180-dichte-20-zoll?variant=58739949076744)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/4x4_Transparent_Lace_Wig_Body_Wave_23c4e662-8c57-4f3e-b49d-1e07df7ac7d2.jpg?v=1789421287
-    Price: 95,90 € EUR
+    Price: 69,90 € EUR
 - [99J Burgunder Kurze Bob Perücke Glatt 13x4 HD Lace Front | 100%](https://anicbeauty.de/products/99j-burgunder-kurze-bob-perucke-glatt-13x4-hd-lace-front-100-echthaar-200-dichte): 99J Burgunder Kurze Bob Perücke Glatt 13x4 HD Lace Front | 100% Echthaar 200% Dichte - LUX-Anic - Perücke
-  Updated: 2026-10-31T18:03:57Z
+  Updated: 2026-11-22T07:21:23Z
   Vendor: LUX-Anic
   Product Type: Perücke
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/99J_Burgundy_Straight_Bob_Wig__9_b1d89d72-582d-4704-b91f-7175baf63530.jpg?v=1789420139
-  Price: 89,90 € EUR
+  Price: 69,90 € EUR
 - [4/27 Highlight Blonde Kurze Bob Perücke Glueless | Deep Wave Echthaar](https://anicbeauty.de/products/4-27-highlight-blonde-kurze-bob-perucke-glueless-deep-wave-echthaar-250-dichte-13x4-lace): 4/27 Highlight Blonde Kurze Bob Perücke Glueless | Deep Wave Echthaar 250% Dichte 13x4 Lace - LUX-Anic - Perücke
-  Updated: 2026-10-31T18:03:57Z
+  Updated: 2026-11-22T07:21:23Z
   Vendor: LUX-Anic
   Product Type: Perücke
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Short_curly_hair__7_526644a1-4292-412a-a2fc-ba1a0d846a54.jpg?v=1789421179
-  Price: 89,90 € EUR
-- [Geflochtene Perücke Box Braids mit X-Pression-Kunsthaar| LUX-Anic](https://anicbeauty.de/products/braided-wig-knotless-braids-with-baby-hair): Entdecken Sie eine geflochtene Kunsthaar-Perücke mit feinen Box Braids. Wählen Sie zwischen 20 und 26 Zoll sowie verschiedenen Farben.
-  Updated: 2026-11-04T23:53:49Z
-  Vendor: LUX-Anic
-  Product Type: Perücke
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S4307774fe15341159c625ac00b177fe4g_1.webp?v=1790956706
-  - [Brown|20 Zoll](https://anicbeauty.de/products/braided-wig-knotless-braids-with-baby-hair?variant=58872717246728)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/7.jpg?v=1792801027
-    Price: 134,90 € EUR
-  - [Brown|30Zoll](https://anicbeauty.de/products/braided-wig-knotless-braids-with-baby-hair?variant=58971904672008)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/5_cbc6b84a-d927-40e2-a69b-8f50ca05ffca.jpg?v=1792798869
-    Price: 158,90 € EUR
-  - [Schwarz|20 Zoll](https://anicbeauty.de/products/braided-wig-knotless-braids-with-baby-hair?variant=58971904704776)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/6.jpg?v=1792800993
-    Price: 134,90 € EUR
-  - [Schwarz|30 Zoll](https://anicbeauty.de/products/braided-wig-knotless-braids-with-baby-hair?variant=58872717115656)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/4_8676798f-9317-454a-b991-8bf7cea5d83f.jpg?v=1792801122
-    Price: 158,90 € EUR
+  Price: 69,90 € EUR
 - [Lace Melting Spray für Perücken, 120 ml | LUX-Anic](https://anicbeauty.de/products/lace-melting-spray-peruecken-120-ml): Lace Melting Spray für Lace-Front- und Full-Lace-Perücken. Entdecken Sie das 120-ml-Spray zum Fixieren der Lace für einen nahtlosen Look.
-  Updated: 2026-11-04T17:39:06Z
+  Updated: 2026-11-18T21:55:01Z
   Vendor: LUX-Anic
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Sb6a5c92c1ad04cc6ab0b4f675d896661D.png?v=1790600323
   Price: 14,90 € EUR
 - [Haustier Reisetasche | Sicher & Komfortabel Reisen](https://anicbeauty.de/products/dog-and-cat-travel-bag-by-pawzone): Transporttasche für Hund & Katze aus strapazierfähigem Material. Weiche Schaumseiten, verstärkter Boden – sicher & komfortabel bei jeder Reise.
-  Updated: 2026-11-10T14:35:26Z
+  Updated: 2026-11-16T09:37:08Z
   Vendor: LUX-Anic
-  Product Type: 0
+  Product Type: LUX-Anic Accessoires
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/16483_11.webp?v=1791814050
   Price: 23,95 € EUR
 - [Katzenbett Hausform 34×37 cm | Gemütlich & Warm](https://anicbeauty.de/products/plusch-katzenbett-haus-stil-box-34-x-37-cm): Katzenbett im Hausformat aus weichem Plüsch, 34×37 cm. Perfekter gemütlicher Rückzugsort für deine Katze – warm, sicher & leicht zu reinigen.
-  Updated: 2026-11-11T02:30:40Z
+  Updated: 2026-11-15T21:36:06Z
   Vendor: LUX-Anic
   Product Type: LUX-Anic Accessoires
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/16817_1_de6ba35e-33f1-41ae-8520-953013cd431a.jpg?v=1791814080
   Price: 22,95 € EUR
 - [Bambus-Frühstückstablett XL | Faltbares Betttablett](https://anicbeauty.de/products/bamboo-foldable-breakfast-table-large-laptop-desk): XL Bambus-Frühstückstablett, faltbar & stabil – ideal zum Frühstücken im Bett oder Arbeiten am Laptop. Aus nachhaltigem Bambus, leicht zu reinigen.
-  Updated: 2026-11-11T02:30:41Z
+  Updated: 2026-11-16T09:34:29Z
   Vendor: LUX-Anic
   Product Type: LUX-Anic Accessoires
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Breakfasttable_3.jpg?v=1791814083
   Price: 19,95 € EUR
 - [Bambus-Laptoptisch | Verstellbar & Belüftet](https://anicbeauty.de/products/bambus-laptop-tisch-verstellbar-beluftet): Verstellbarer Bambus-Laptoptisch für bis zu 17 Zoll Laptops. Belüftetes Design, nachhaltig & leicht – komfortables Arbeiten überall. Schnelle Lieferung.
-  Updated: 2026-11-11T02:30:40Z
+  Updated: 2026-11-16T09:33:37Z
   Vendor: LUX-Anic
   Product Type: LUX-Anic Accessoires
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Laptop_table.jpg?v=1791814104
   Price: 24,95 € EUR
 - [Klapprad für Kinder "EasyRoll" - 200mm Räder, Bremse - für Kinder ab 8 Jahren](https://anicbeauty.de/products/faltbarer-kinderroller-easyroll-200mm-rader-bremse-ab-8-jahren): Klapprad für Kinder "EasyRoll" - 200mm Räder, Bremse - für Kinder ab 8 Jahren - LUX-Anic - LUX-Anic Accessoires
-  Updated: 2026-11-11T02:40:39Z
+  Updated: 2026-11-22T07:26:29Z
   Vendor: LUX-Anic
   Product Type: LUX-Anic Accessoires
   Availability: Available
@@ -691,25 +620,11 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   - [Schwarz](https://anicbeauty.de/products/faltbarer-kinderroller-easyroll-200mm-rader-bremse-ab-8-jahren?variant=58968117870856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Foldable_Kids_Scooter_200_mm_Wheels_Brake_Strap_5_21c7cd86-a57c-48fa-99d9-8f673578739d.jpg?v=1791814144
-    Price: 48,95 € EUR
+    Price: 42,95 € EUR
   - [Rosa](https://anicbeauty.de/products/faltbarer-kinderroller-easyroll-200mm-rader-bremse-ab-8-jahren?variant=58968117903624)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Foldable_Kids_Scooter_200_mm_Wheels_Brake_Strap_10_4ceab8ba-1d8c-44f3-b05a-347c6d89374e.jpg?v=1791814149
-    Price: 48,95 € EUR
-- [Künstliche Heckenwand Immergrün | Sichtschutz Garten](https://anicbeauty.de/products/artifizielle-heckenwand-von-evergreen-gruner-sichtschutz): Künstliche Heckenwand aus immergrünen Pflanzen – natürlicher Sichtschutz für Garten, Balkon & Zuhause. Wetterfest, pflegeleicht, in 2 Größen.
-  Updated: 2026-11-04T17:39:39Z
-  Vendor: Das CozyNest
-  Product Type: LUX-Anic Accessoires
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Artificialhedgeforfencingbalconywallmeshamaz.jpg?v=1791814224
-  - [5 m x 50 cm](https://anicbeauty.de/products/artifizielle-heckenwand-von-evergreen-gruner-sichtschutz?variant=58968118165768)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Artificialhedgeforfencingbalconywallmeshamaz.jpg?v=1791814224
-    Price: 17,90 € EUR
-  - [3 m x 1 m](https://anicbeauty.de/products/artifizielle-heckenwand-von-evergreen-gruner-sichtschutz?variant=58968118198536)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Artificialhedgeforfencingbalconywallmesh_5.jpg?v=1791814230
-    Price: 21,90 € EUR
+    Price: 42,95 € EUR
 - [Hundebett Purlov Gepolstert | Kleine & Mittlere Hunde](https://anicbeauty.de/products/purlov-soft-padded-dog-bed-for-small-medium-dogs): Weiches, gepolstertes Hundebett für kleine bis mittelgroße Hunde. Warme Polsterung, erhöhte Seiten für Geborgenheit & Komfort – schnelle Lieferung.
   Updated: 2026-11-11T02:30:40Z
   Vendor: LUX-Anic
@@ -724,32 +639,67 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/16916_1.jpg?v=1791814232
   Price: 16,90 € EUR
+- [LOCKMIO Natural Lace Tint Spray Dyed Foam Mousse for Women 100ML Wigs Mesh Skin-fitting Invisible Colorant Cosplay Wig Dye Mist](https://anicbeauty.de/products/lockmio-natural-lace-tint-spray-dyed-foam-mousse-for-women-100ml-wigs-mesh-skin-fitting-invisible-colorant-cosplay-wig-dye-mist): SPECIFICATIONSBrand Name: lockmioChoice: yesHigh-concerned chemical: NoneOrigin: Mainland China
+  Updated: 2026-11-22T19:39:07Z
+  Vendor: LUX-Anic
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S2c7035cefbfa4ea7bf3ef683481b4a6cv.webp?v=1795333143
+  - [100ml Dark Brown](https://anicbeauty.de/products/lockmio-natural-lace-tint-spray-dyed-foam-mousse-for-women-100ml-wigs-mesh-skin-fitting-invisible-colorant-cosplay-wig-dye-mist?variant=59637108703496)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S207c6098098c427ebd3969a5665540a5t.webp?v=1795333143
+    Price: 12,90 € EUR
+  - [100ml Medium Brown](https://anicbeauty.de/products/lockmio-natural-lace-tint-spray-dyed-foam-mousse-for-women-100ml-wigs-mesh-skin-fitting-invisible-colorant-cosplay-wig-dye-mist?variant=59637108736264)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Se79913654f4b4c6994e7ad56ee8872ccf.webp?v=1795333144
+    Price: 12,90 € EUR
+  - [Dark Brown Kit](https://anicbeauty.de/products/lockmio-natural-lace-tint-spray-dyed-foam-mousse-for-women-100ml-wigs-mesh-skin-fitting-invisible-colorant-cosplay-wig-dye-mist?variant=59637108769032)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [Light Brown Kit](https://anicbeauty.de/products/lockmio-natural-lace-tint-spray-dyed-foam-mousse-for-women-100ml-wigs-mesh-skin-fitting-invisible-colorant-cosplay-wig-dye-mist?variant=59637108801800)
+    Availability: Available
+    Price: 18,90 € EUR
+  - [Medium Brown Kit](https://anicbeauty.de/products/lockmio-natural-lace-tint-spray-dyed-foam-mousse-for-women-100ml-wigs-mesh-skin-fitting-invisible-colorant-cosplay-wig-dye-mist?variant=59637108834568)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [100ml Light Brown](https://anicbeauty.de/products/lockmio-natural-lace-tint-spray-dyed-foam-mousse-for-women-100ml-wigs-mesh-skin-fitting-invisible-colorant-cosplay-wig-dye-mist?variant=59637108867336)
+    Availability: Available
+    Price: 11,90 € EUR
+  - [light-brown-16g-30g](https://anicbeauty.de/products/lockmio-natural-lace-tint-spray-dyed-foam-mousse-for-women-100ml-wigs-mesh-skin-fitting-invisible-colorant-cosplay-wig-dye-mist?variant=59637108900104)
+    Availability: Available
+    Price: 21,90 € EUR
+  - [medium-brown-16g-30g](https://anicbeauty.de/products/lockmio-natural-lace-tint-spray-dyed-foam-mousse-for-women-100ml-wigs-mesh-skin-fitting-invisible-colorant-cosplay-wig-dye-mist?variant=59637108932872)
+    Availability: Available
+    Price: 23,90 € EUR
+  - [dark-brown-16g-30g](https://anicbeauty.de/products/lockmio-natural-lace-tint-spray-dyed-foam-mousse-for-women-100ml-wigs-mesh-skin-fitting-invisible-colorant-cosplay-wig-dye-mist?variant=59637108965640)
+    Availability: Available
+    Price: 23,90 € EUR
 
 ## Collections
 
 - [Startseite](https://anicbeauty.de/collections/home-page): LUX-Anic – Dein Shop für Forever Living Naturkosmetik, Aloe Vera Pflege. Schnelle Lieferung nach Deutschland & ganz Europa.
-  Updated: 2026-11-11T11:55:50Z
+  Updated: 2026-11-22T07:25:21Z
   Total Products: 76
 - [Echthaar-Perücken-Haarstyling-Geräte und Zubehör](https://anicbeauty.de/collections/echthaar-perucken-haarstyling-gerate): Entdecke unsere Echthaar-Perücken – natürlicher Look, hoher Tragekomfort & vielseitige Frisuren für jeden Anlass. Kostenloser Versand
-  Updated: 2026-11-08T12:22:12Z
-  Total Products: 14
+  Updated: 2026-11-22T07:25:21Z
+  Total Products: 13
 - [Neuheiten](https://anicbeauty.de/collections/new-arrivals): Entdecke die neuesten Produkte bei LUX-Anic – Forever Living Naturkosmetik, Aloe Vera Pflege. Immer frisch, immer aktuell.
   Updated: 2026-11-10T12:24:01Z
   Total Products: 5
 - [Forever Essentials - Hautpflege](https://anicbeauty.de/collections/skin-and-personal-care-aloe-vera-by-forever-living): Entdecke Forever Living Naturkosmetik – Aloe Vera Gels, Cremes & Serum für Feuchtigkeit, Straffung & Regeneration. Für alle Hauttypen. Kaufen bei LUX-Anic.
-  Updated: 2026-11-11T11:55:50Z
+  Updated: 2026-11-15T21:29:40Z
   Total Products: 35
 - [Hair Care - gesundes und glänzendes Haar](https://anicbeauty.de/collections/hair-care-collection-aloe-vera-by-forever-living): Forever Living Aloe Vera Haarpflege – Shampoos, Conditioner & Haarkuren für gesundes, glänzendes Haar. Natürliche Inhaltsstoffe. Kaufen bei LUX-Anic.
   Updated: 2026-11-11T11:55:50Z
   Total Products: 6
 - [Aktives Leben – Sport & Fitness – von Forever Living](https://anicbeauty.de/collections/active-life-sport-fitness-by-forever-living): Forever Living Sport & Fitness – Aloe Vera Getränke, Shakes, Nahrungsergänzungsmittel & Vitamine für einen aktiven Lebensstil. Kaufen bei LUX-Anic.
-  Updated: 2026-10-16T19:26:23Z
+  Updated: 2026-11-15T21:29:43Z
   Total Products: 24
 - [Forever Living Products](https://anicbeauty.de/collections/forever-living-products): Alle Forever Living Produkte auf einen Blick – Aloe Vera Gels, Naturkosmetik, Nahrungsergänzung & mehr. Kaufen bei LUX-Anic, schnelle Lieferung.
-  Updated: 2026-11-11T11:55:50Z
+  Updated: 2026-11-15T21:29:43Z
   Total Products: 63
 - [Haarstyling-Geräte und Zubehör](https://anicbeauty.de/collections/accessories): Entdecke professionelle Haarstyling-Geräte & Zubehör bei LUX-Anic – Haarglätter, Lockenwickler, Bürsten & mehr für perfekte Frisuren zu Hause.
-  Updated: 2026-10-30T01:24:12Z
+  Updated: 2026-11-19T12:29:24Z
   Total Products: 8
 - [Clean 9 Programm – 9-Tage-Kur von Forever Living](https://anicbeauty.de/collections/clean-9-programm): Clean 9 Programm von Forever Living kaufen – 9-Tage-Kur mit Aloe Vera Gel, Garcinia Plus, Fiber & Shakes. Alle 4 Varianten & Einzelprodukte bei LUX-Anic.
   Updated: 2026-09-18T22:15:36Z
@@ -803,13 +753,13 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
 ## Policies
 
 - [Privacy Policy](https://anicbeauty.de/policies/privacy-policy)
-  Updated: 2026-11-14T03:17:51Z
+  Updated: 2026-11-21T03:09:38Z
 - [Shipping Policy](https://anicbeauty.de/policies/shipping-policy)
   Updated: 2026-11-01T16:34:10Z
 - [Refund Policy](https://anicbeauty.de/policies/refund-policy)
-  Updated: 2026-11-13T01:52:53Z
+  Updated: 2026-11-20T08:26:20Z
 - [Terms of Service](https://anicbeauty.de/policies/terms-of-service)
-  Updated: 2026-11-13T01:45:44Z
+  Updated: 2026-11-21T03:08:30Z
 - [Contact Information](https://anicbeauty.de/policies/contact-information)
   Updated: 2026-07-04T20:02:47Z
 
