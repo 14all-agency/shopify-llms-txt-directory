@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-18T09:45:50Z
 - Contact Email: support@saleshore.com
-- Updated At: 2026-11-15T01:02:35.523Z
+- Updated At: 2026-11-23T01:10:50.309Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/1071/8157/2433/files/High-Pressure_Spray_Kit.png?v=1789822984
   Price: $44.99 USD
 - [Electric Car Polisher - Portable & Powerful Car Polishing Tool](https://saleshore.com/products/electric-car-polisher): Enhance your car's shine with the Electric Car Polisher, a portable device offering smooth operation, quick pad replacement, and versatile use for a flawless finish.
-  Updated: 2026-09-25T09:43:19Z
+  Updated: 2026-11-20T16:17:16Z
   Vendor: Car Accessories-3
   Product Type: car accessories
   Availability: Available
@@ -74,7 +74,7 @@
     Image: https://cdn.shopify.com/s/files/1/1071/8157/2433/files/portable_steering_wheel_desk_tray.jpg?v=1789826497
     Price: $27.99 USD
 - [Car Accessories](https://saleshore.com/products/aromatherapy-double-ring-car-accessories-12495): Freshen your drive with our 360° Rotating Car Air Freshener. Natural fragrance, sun-activated scent, stress relief & chemical-free formula. Safe for the family.
-  Updated: 2026-10-31T19:55:57Z
+  Updated: 2026-11-18T10:35:06Z
   Vendor: Car Accessories-3
   Product Type: car accessories
   Availability: Available
@@ -113,7 +113,7 @@
     Image: https://cdn.shopify.com/s/files/1/1071/8157/2433/files/red_Car_Seat-Back_Storage_Organizer_with_Tray.png?v=1789990028
     Price: $40.99 USD
 - [Gadgets & Electronics](https://saleshore.com/products/t-shaped-headphone-2-in-1-dual-port-headphone-adapte-for-iphone-7-8-plus-x-xs-audio-charger-dispenser-accessories-08594): Charge & listen simultaneously with our 2-in-1 Lightning Adapter. 3.5mm headphone jack, 2.4A fast charging & hi-fi sound quality — supports iPhone.
-  Updated: 2026-09-25T09:43:21Z
+  Updated: 2026-11-23T00:02:42Z
   Vendor: Gadget-4
   Product Type: car accessories
   Availability: Available
@@ -135,7 +135,7 @@
     Image: https://cdn.shopify.com/s/files/1/1071/8157/2433/files/Lightning_Audio_Charging_Extension_Adapter.jpg?v=1789990547
     Price: $14.99 USD
 - [Gadgets & Electronics](https://saleshore.com/products/4-in-1-wireless-bluetooth-selfie-stick-52468): Capture perfect shots with our 4-in-1 Selfie Stick. 360° rotation, adjustable tripod, wireless remote & LED light with brightness & colour control.
-  Updated: 2026-09-25T09:43:21Z
+  Updated: 2026-11-16T21:57:01Z
   Vendor: Gadget-3
   Product Type: home essentials
   Availability: Available
@@ -189,7 +189,7 @@
   Image: https://cdn.shopify.com/s/files/1/1071/8157/2433/files/Stabilizer_with_Fill_Light.png?v=1789999178
   Price: $44.99 USD
 - [Gadgets](https://saleshore.com/products/ultrasonic-cleanser-36849): Deep clean jewelry, glasses & lenses in minutes with our Ultrasonic Cleaner. High-frequency sonic power, adjustable timer & travel-ready design. Shop at  Shore.
-  Updated: 2026-09-25T09:43:22Z
+  Updated: 2026-11-18T04:06:16Z
   Vendor: Gadget-4
   Product Type: gadgets and electronics
   Availability: Available
@@ -402,7 +402,7 @@
     Image: https://cdn.shopify.com/s/files/1/1071/8157/2433/files/Leaf-Shaped_Soap_Dish_with_Draining_Stand.jpg?v=1789997125
     Price: $14.99 USD
 - [Home Essentials](https://saleshore.com/products/aromatherapy-essential-oil-diffuser-10729): .
-  Updated: 2026-09-25T09:43:27Z
+  Updated: 2026-11-19T22:04:46Z
   Vendor: Home Essentials-6
   Product Type: home essentials
   Availability: Available
@@ -416,7 +416,7 @@
     Image: https://cdn.shopify.com/s/files/1/1071/8157/2433/files/Changeable_Aroma_Essential_Oil_Diffuser_Mini_USB_Air_Humidifier_Portable_Ultrasonic_Mist_Air_Purifier_LED_Night.jpg?v=1789988909
     Price: $17.99 USD
 - [Home Essentials](https://saleshore.com/products/mini-household-water-purifier-00789): .
-  Updated: 2026-09-25T09:43:27Z
+  Updated: 2026-11-20T03:16:50Z
   Vendor: Home Essentials-6
   Product Type: Home essentials
   Availability: Available
@@ -647,6 +647,15 @@
     Author: Saleshore
   - [Discover Must Have Home Gadgets for a Better Living](https://saleshore.com/blogs/news/discover-must-have-home-gadgets-for-a-better-living): Discover Must Have Home Gadgets for a Better Living
     Updated: 2026-11-14T00:22:50Z
+    Author: Saleshore
+  - [Smart Gadgets That Will Transform Your Household](https://saleshore.com/blogs/news/smart-gadgets-that-will-transform-your-household): Smart Gadgets That Will Transform Your Household
+    Updated: 2026-11-17T00:06:09Z
+    Author: Saleshore
+  - [Affordable Car Upgrades to Enhance Your Driving Experience](https://saleshore.com/blogs/news/affordable-car-upgrades-to-enhance-your-driving-experience): Affordable Car Upgrades to Enhance Your Driving Experience
+    Updated: 2026-11-19T00:09:40Z
+    Author: Saleshore
+  - [The Most Useful Accessories to Your Car This Year](https://saleshore.com/blogs/news/the-most-useful-accessories-to-your-car-this-year): The Most Useful Accessories to Your Car This Year
+    Updated: 2026-11-21T00:23:36Z
     Author: Saleshore
 
 ## Store Pages
