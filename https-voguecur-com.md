@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-08-20T17:34:28Z
 - Contact Email: chenjie520225@gmail.com
-- Updated At: 2026-11-16T01:00:58.580Z
+- Updated At: 2026-11-24T01:00:31.746Z
 
 VOGUE CUR is an upscale fashion brand specializing in luxury handbags, footwear and fine accessories.
 We focus on premium craftsmanship and timeless style, shipping to most countries around the world.
@@ -1720,8 +1720,8 @@ All products are carefully inspected before dispatch to guarantee quality.
   Updated: 2026-11-06T18:00:02Z
   Total Products: 106
 - [All Products](https://voguecur.com/collections/best-sellers): - Fashion Boutique
-  Updated: 2026-11-14T12:21:16Z
-  Total Products: 602
+  Updated: 2026-11-16T20:15:06Z
+  Total Products: 603
 - [CHANEL Collection](https://voguecur.com/collections/lali-ga): - Fashion Boutique
   Updated: 2026-11-06T18:00:02Z
   Total Products: 39
@@ -1744,8 +1744,8 @@ All products are carefully inspected before dispatch to guarantee quality.
   Updated: 2026-11-06T18:00:02Z
   Total Products: 72
 - [HERMES Collection](https://voguecur.com/collections/hermes): - Fashion Boutique
-  Updated: 2026-11-14T12:21:16Z
-  Total Products: 32
+  Updated: 2026-11-16T20:15:06Z
+  Total Products: 33
 - [DIOR Collection](https://voguecur.com/collections/dior): - Fashion Boutique
   Updated: 2026-11-06T18:00:02Z
   Total Products: 6
