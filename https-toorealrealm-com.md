@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-10-19T22:36:24Z
 - Contact Email: contact@toorealent.com
-- Updated At: 2026-11-16T01:11:53.499Z
+- Updated At: 2026-11-24T01:15:01.586Z
 
 ## Products
 
@@ -101,7 +101,7 @@
   Image: https://cdn.shopify.com/s/files/1/0816/9537/5592/files/6785573891970.jpg?v=1794160806
   Price: $25.00 USD
 - [11 makeup brush sets](https://toorealrealm.com/products/11-makeup-brush-sets): Feature: Category: 11-piece makeup brush Applicable people: professional makeup artist Brush handle features: pole Material: high-end wooden handle / high-quality hole / imported microcrystalline wire Specifications: Brush handle material: wooden / aluminum tube Brush hair material: synthetic hair Quantity: 11 pieces Please remember: This is to remove any chemical residue left from the manufacturing process. So you can clean use it. 1. Before first use, please wash the brushes under cold running water for 2 minutes and allow to dry naturally in any ventilated place. 2. Due to the first use of time, there may be a little hair loss, it is normal phenomenon, hope you can understand! 3. Due to different camera or light environments, it may cause little color difference, please understand. 4. Please allow 1-3mm error due to manual measurement Package Included: 11X Makeup brush
-  Updated: 2026-11-11T13:26:43Z
+  Updated: 2026-11-23T04:26:47Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -347,7 +347,7 @@
   Image: https://cdn.shopify.com/s/files/1/0816/9537/5592/files/0e621510-19dc-4918-8426-846e5493b39f.jpg?v=1794160974
   Price: $20.78 USD
 - [Makeup Brush](https://toorealrealm.com/products/makeup-brush-2)
-  Updated: 2026-11-11T13:15:16Z
+  Updated: 2026-11-23T09:26:37Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
