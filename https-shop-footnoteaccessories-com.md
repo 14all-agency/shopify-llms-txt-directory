@@ -12,7 +12,7 @@ The storefront is available at two mirrored domains: footnoteaccessories.co (pri
 - Timezone: America/New_York
 - Created At: 2025-01-03T03:41:48Z
 - Contact Email: Service@futuragear.com
-- Updated At: 2026-11-16T00:37:18.438Z
+- Updated At: 2026-11-24T00:35:02.648Z
 
 ## Collections
 
