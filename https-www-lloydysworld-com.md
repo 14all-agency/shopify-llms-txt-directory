@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2026-01-10T16:02:05Z
 - Contact Email: Contact@lloydysworld.co.uk
-- Updated At: 2026-11-16T00:35:20.328Z
+- Updated At: 2026-11-24T00:34:33.115Z
 
 ## Products
 
@@ -1125,7 +1125,7 @@
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/10_8a86e083-0fde-45d3-878d-185f4997bd89.jpg?v=1784399215
   Price: £8.00 GBP
 - [LloydysWorld Supporter Membership – £5/month](https://www.lloydysworld.com/products/lloydysworld-supporter-membership-5-month): We provide second‑chance clothing parcels that create real second chances for people. We help individuals who are starting again with nothing prison leavers, homeless individuals, and anyone rebuilding their life from scratch. Your monthly support helps reduce reoffending, creates real pathways back into society, gives people hope and stability, and prevents clothing from going to landfill by giving every item a second life. No one starts again with nothing.
-  Updated: 2026-11-10T20:05:09Z
+  Updated: 2026-11-18T07:38:49Z
   Vendor: lloydysworld
   Product Type: subsription
   Availability: Available
@@ -1291,7 +1291,14 @@
   Product Type: 
   Availability: Available
   Price: £0.50 GBP
-[List Continued](https://www.lloydysworld.com/a/llms-agent/llms.txt?shop=a1fdky-yn.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMTM5MDY5ODk0NjkwMywibGFzdF92YWx1ZSI6IjExMzkwNjk4OTQ2OTAzIn0%3D)
+- [Blankets of Hope Sewing Group Appointment | LloydysWorld CIC](https://www.lloydysworld.com/products/blankets-of-hope-sewing-group-appointment): Book your place at the LloydysWorld CIC Blankets of Hope sewing group and take part in our community blanket-making project.
+  Updated: 2026-11-18T19:33:55Z
+  Vendor: LloydysWorld CIC
+  Product Type: Sewing Group Appointment
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/ChatGPTImageNov5_2026_08_22_23AM.png?v=1794987153
+  Price: £0.00 GBP
+[List Continued](https://www.lloydysworld.com/a/llms-agent/llms.txt?shop=a1fdky-yn.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMTM5ODE0NDIyOTcxOSwibGFzdF92YWx1ZSI6IjExMzk4MTQ0MjI5NzE5In0%3D)
 
 ## Collections
 
@@ -1558,8 +1565,8 @@ Choosing UK sourced preloved skirts reduces waste, saves money and supports sust
   Updated: 2026-11-14T16:20:13Z
   Total Products: 9
 - [New In](https://www.lloydysworld.com/collections/new-in): Fresh on the rail at LloydysWorld. Explore our latest preloved menswear and womenswear, from everyday essentials to cosy layers and distinctive finds. Find something you love and give good clothing another chapter.Every purchase helps LloydysWorld CIC provide clothing parcels and essential items to people in need across Portsmouth and Southsea. Shop preloved, reduce waste and support your community.
-  Updated: 2026-11-15T16:37:05Z
-  Total Products: 181
+  Updated: 2026-11-18T07:38:02Z
+  Total Products: 182
 
 ## Blogs
 
@@ -1838,6 +1845,18 @@ Choosing UK sourced preloved skirts reduces waste, saves money and supports sust
     Tags: clothing parcel, community support, community support portsmouth, donation, help, practical support after prison, preloved, prison release support portsmouth, rehabilitation, reintegration, reuse, safe guarding communities, support, sustainable clothing
   - [Understanding Rehabilitation with Community Support and Donations in Portsmouth](https://www.lloydysworld.com/blogs/news/understanding-rehabilitation-with-community-support-and-donations-in-portsmouth): Understanding Rehabilitation with Community Support and Donations in Portsmouth
     Updated: 2026-11-15T11:00:53Z
+    Author: lloydysworld CIC
+    Tags: clothing parcel, community support, community support portsmouth, donation, help, practical support after prison, preloved, prison release support portsmouth, rehabilitation, reintegration, reuse, safe guarding communities, support, sustainable clothing
+  - [Preloved Clothing’s Role in Prison Release Support and Community Reintegration](https://www.lloydysworld.com/blogs/news/preloved-clothing-s-role-in-prison-release-support-and-community-reintegration): Preloved Clothing’s Role in Prison Release Support and Community Reintegration
+    Updated: 2026-11-20T11:00:53Z
+    Author: lloydysworld CIC
+    Tags: clothing parcel, community support, community support portsmouth, donation, help, practical support after prison, preloved, prison release support portsmouth, rehabilitation, reintegration, reuse, safe guarding communities, support, sustainable clothing
+  - [Addressing Immediate Needs: Clothing Parcel Support for Portsmouth’s Released Residents](https://www.lloydysworld.com/blogs/news/addressing-immediate-needs-clothing-parcel-support-for-portsmouth-s-released-residents): Addressing Immediate Needs: Clothing Parcel Support for Portsmouth’s Released Residents
+    Updated: 2026-11-21T11:03:24Z
+    Author: lloydysworld CIC
+    Tags: clothing parcel, community support, community support portsmouth, donation, help, practical support after prison, preloved, prison release support portsmouth, rehabilitation, reintegration, reuse, safe guarding communities, support, sustainable clothing
+  - [Supporting Portsmouth Communities: Preloved Fashion for Rehabilitation and Reintegration](https://www.lloydysworld.com/blogs/news/supporting-portsmouth-communities-preloved-fashion-for-rehabilitation-and-reintegration): Supporting Portsmouth Communities: Preloved Fashion for Rehabilitation and Reintegration
+    Updated: 2026-11-22T11:01:33Z
     Author: lloydysworld CIC
     Tags: clothing parcel, community support, community support portsmouth, donation, help, practical support after prison, preloved, prison release support portsmouth, rehabilitation, reintegration, reuse, safe guarding communities, support, sustainable clothing
 
