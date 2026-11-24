@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2025-07-28T20:31:13Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-16T01:04:45.172Z
+- Updated At: 2026-11-24T00:54:26.524Z
 
 ## Products
 
 - [Más Amor Hat](https://rickymartin.merchmadeeasy.com/products/mas-amor-hat): Ricky Martin Más Amor Hat in black with adjustable closure.
-  Updated: 2026-11-13T02:55:16Z
+  Updated: 2026-11-23T21:08:26Z
   Vendor: Ricky Martin Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/9039/3342/files/RM_MAS_AMOR_HAT-3.png?v=1771514293
   Price: $30.00 USD
 - [Angle Logo Tee](https://rickymartin.merchmadeeasy.com/products/sinfonico-tee): Ricky Martin Angle Logo Tee in black with front print only.
-  Updated: 2026-11-03T16:48:27Z
+  Updated: 2026-11-23T21:08:26Z
   Vendor: Ricky Martin Merch
   Product Type: Apparel
   Availability: Available
@@ -39,14 +39,14 @@
     Availability: Available
     Price: $30.00 USD
 - [Photo Book](https://rickymartin.merchmadeeasy.com/products/photo-book)
-  Updated: 2026-10-05T13:05:06Z
+  Updated: 2026-11-23T21:08:25Z
   Vendor: Ricky Martin Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/9039/3342/files/RMPHOTOBOOK-3.png?v=1772644663
   Price: $30.00 USD
 - [Sinfónico Hoodie](https://rickymartin.merchmadeeasy.com/products/sinfonico-hoodie): Ricky Martin Sinfónico Hoodie in black with front and back print.
-  Updated: 2026-11-10T05:47:26Z
+  Updated: 2026-11-23T21:08:25Z
   Vendor: Ricky Martin Merch
   Product Type: Apparel
   Availability: Available
@@ -64,14 +64,14 @@
     Availability: Available
     Price: $60.00 USD
 - [Play Mug](https://rickymartin.merchmadeeasy.com/products/play-mug)
-  Updated: 2026-11-10T14:23:26Z
+  Updated: 2026-11-23T21:08:25Z
   Vendor: Ricky Martin Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/9039/3342/files/RMPLAYMUG.png?v=1771452034
   Price: $20.00 USD
 - [Chess Tee](https://rickymartin.merchmadeeasy.com/products/chess-tee): Ricky Martin Chess Tee in white with front print only.
-  Updated: 2026-11-06T21:32:16Z
+  Updated: 2026-11-23T21:08:25Z
   Vendor: Ricky Martin Merch
   Product Type: Apparel
   Availability: Available
@@ -92,7 +92,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Livin' La Vida Crop Hoodie](https://rickymartin.merchmadeeasy.com/products/livin-la-vida-crop-hoodie): Livin' La Vida Crop Hoodie in white with front print only.
-  Updated: 2026-10-28T21:01:09Z
+  Updated: 2026-11-23T21:08:25Z
   Vendor: Ricky Martin Merch
   Product Type: Apparel
   Availability: Available
@@ -110,14 +110,14 @@
     Availability: Available
     Price: $60.00 USD
 - [Más Amor Water Bottle](https://rickymartin.merchmadeeasy.com/products/mas-amor-water-bottle): Ricky Martin Water Bottle
-  Updated: 2026-11-03T16:48:26Z
+  Updated: 2026-11-23T21:08:25Z
   Vendor: Ricky Martin Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/9039/3342/files/RMWATERBOTTLE.png?v=1771453047
   Price: $10.00 USD
 - [Photo Long Sleeve Tee](https://rickymartin.merchmadeeasy.com/products/photo-long-sleeve-tee): Ricky Martin Photo Long Sleeve in black. Front print only.
-  Updated: 2026-10-16T17:10:26Z
+  Updated: 2026-11-23T21:08:25Z
   Vendor: Ricky Martin Merch
   Product Type: Apparel
   Availability: Available
@@ -132,7 +132,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Más Amor Hoodie](https://rickymartin.merchmadeeasy.com/products/mas-amor-hoodie-copy): Ricky Martin Más Amor Hoodie in black with front embroidery.
-  Updated: 2026-10-05T13:05:08Z
+  Updated: 2026-11-23T21:08:25Z
   Vendor: Ricky Martin Merch
   Product Type: Apparel
   Availability: Available
@@ -156,16 +156,16 @@
 ## Collections
 
 - [Home page](https://rickymartin.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-13T12:17:14Z
+  Updated: 2026-11-23T14:57:14Z
   Total Products: 13
 - [Apparel](https://rickymartin.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-10T12:16:32Z
+  Updated: 2026-11-23T14:57:14Z
   Total Products: 7
 - [Accessories](https://rickymartin.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-13T12:17:14Z
+  Updated: 2026-11-21T12:18:33Z
   Total Products: 4
 - [All](https://rickymartin.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-13T12:17:14Z
+  Updated: 2026-11-23T14:57:14Z
   Total Products: 11
 
 ## Store Pages
