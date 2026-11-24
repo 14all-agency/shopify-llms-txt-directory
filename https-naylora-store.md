@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2026-06-28T06:45:04Z
 - Contact Email: support@digicollex.com
-- Updated At: 2026-11-16T01:23:07.672Z
+- Updated At: 2026-11-24T01:09:19.127Z
 
 ## Products
 
@@ -450,7 +450,7 @@
     Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_19_2026_03_21_04_PM_1.png?v=1789795328
     Price: $39.99 USD
 - [Ergonomic Cervical Memory Foam Pillow](https://naylora.store/products/hot--slow-rebound-memory-pillow): Product information: Product dimensions: 60*40*12 cm Manufacturing process: Foaming process Material: Memory foam Filler: Polyurethane Packing list: Pillow*1 Product Image:
-  Updated: 2026-11-08T15:07:46Z
+  Updated: 2026-11-17T18:05:45Z
   Vendor: Digi Collex
   Product Type: neck pillow
   Availability: Available
@@ -468,7 +468,7 @@
     Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_27_2026_02_01_15_PM.png?v=1790481695
     Price: $34.99 USD
 - [Reliva™ Easy-Zip Compression Socks](https://naylora.store/products/mens-and-womens-sports-zipper-elastic-socks): Product information: Pattern: solid color Color: gray, skin color, black, copper skin color, Copper Black, butterfly, stripes Length of socks: Middle calf Size: S/M,L/XL,XXL Thickness: medium Fabric name: Nylon Yarn Main fabric composition: Nylon Inventory Type: entire transaction Function: breathable, shaping, sweat absorption, anti-friction Suitable season: summer, winter, spring, autumn Style: Sports Craft: Jacquard Packing list: Socks*1(Pair) Product Image: Actual Product Photo
-  Updated: 2026-10-30T21:30:46Z
+  Updated: 2026-11-18T06:29:15Z
   Vendor: naylora
   Product Type: zip socks
   Availability: Available
@@ -580,7 +580,7 @@
     Availability: Available
     Price: $98.99 USD
 - [Travora™ 4-in-1 Travel Toiletry Dispenser](https://naylora.store/products/4-in-1-travel-dispenser-portable-travel-bottles-leak-proof-leakproof-travel-container-for-perfume-shampoo-conditioner-lotion): Overview: 1. [4-in-1 Travel Set] This innovative 4-in-1 travel dispenser offers travel convenience. Its compact design cleverly houses four independent refillable bottles, perfectly suited for your cleanser, shower gel, lotion, and makeup remover, making your travel grooming routine easy and convenient. 2. Leak-proof design: The bottle features a safety screw cap and a foldable pump head, providing double-seal protection to effectively prevent leaks and accidental spills. Travel with peace of mind; your toiletries are safely stored and won't soil your luggage. 3. This tranquil green travel dispenser is made from select premium plastic for durability. Measuring approximately 16.5 cm (6.5 inches) high and 5.5 cm (2.2 inches) wide, it's easy to carry and ideal for travel. 4. Easy filling, moderate capacity. Each individual inner bottle holds 30 ml, meeting the carry-on liquid capacity limits of most airlines. The wide opening and easy disassembly design allow you to quickly and easily refill your bottles without any hassle. 5. Compact and portable, with included label stickers. This travel travel bottle features a stylish and compact design, taking up minimal space in your suitcase or handbag. It's the perfect companion for business trips, vacations, camping, or fitness. Each set also includes a label sticker for easy identification of the contents of each bottle. Product information: Specifications: Green (English sticker), Gray (English sticker), Green and Gray (English sticker) Material: Plastic Capacity: 600 Packing list: Dispensing Bottle*1/*2 Product Image:
-  Updated: 2026-11-08T00:15:43Z
+  Updated: 2026-11-22T10:34:26Z
   Vendor: Digi Collex
   Product Type: 1 Hair Growth Cap
   Availability: Available
@@ -629,13 +629,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Nov_1_2026_03_33_14_PM-1.png?v=1793507650
   Price: $14.78 USD
-- [Frostra™ Electric Ice Scraper](https://naylora.store/products/electric-snow-scraper): Overview: 1.【Get Twice the Result with Half the Effort】- Quick, efficient, and even ice removal in just one, even on thick layers. 2.【Easy to Use】- Comfortable solution that requires little pressure when scraping ice. 3.【Box Contents】- Electric window scratch, protective cap, charger, rotating removal disc. Product information: Material: ABS Charging time: 3 hours Use time: 15 minutes Battery: 3.7V2500mah Color: yellow Product size: 11.5*11.5*12cm Product accessories: snow scraper*1 charging cable*1 Packing list: Electric snow scraper*1
-  Updated: 2026-11-15T06:19:38Z
-  Vendor: NAYLORA
-  Product Type: Ice Scraper
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/Electric_Snow_Scraper_in_Action.png?v=1794557074
-  Price: $39.50 USD
 - [Car Window Cleaner Brush](https://naylora.store/products/car-window-cleaner-brush): Product information： colour ： Sky blue, blue, green name ： Car glass brush type ： Car brush Specifications and dimensions ： 39*13*9CM Packing list: Car brush * 1
   Updated: 2026-11-12T21:47:56Z
   Vendor: NAYLORA
@@ -650,6 +643,27 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Nov_13_2026_04_27_57_PM-1.png?v=1794547766
   Price: $15.00 USD
+- [Pimples Cleaning Nose Patches](https://naylora.store/products/pimples-cleaning-nose-patches): Product information: Applicable people: Ladies Specification: Standard specifications Applicable skin type: Universal Net content: 2 Cosmetics for special purposes: no Category: T district nursing Packing list: Nasal Membrane * 1set Product Image:
+  Updated: 2026-11-20T05:05:47Z
+  Vendor: DIGICOLLEX
+  Product Type: 1 Hair Growth Cap
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/d326a20c-60a5-4936-802a-f7c7c8361807.png?v=1794946692
+  Price: $7.99 USD
+- [Nasova™ — Soothing Nasal Warmth](https://naylora.store/products/heat-compression-nasal-mask): Product information: Power: USB, battery Color: Black Specifications: 16 LED beads Functions: Infrared therapy, red-light heating Material: Polyester fiber Packing list: Nose mask x1, USB charging cable x1, instruction manual x1 Product Image:
+  Updated: 2026-11-21T09:40:41Z
+  Vendor: NAYLORA
+  Product Type: NOSE WARMER
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPTImageNov18_2026_07_19_32PM-1.png?v=1795038547
+  Price: $16.99 USD
+- [Snoring Nasal Clip](https://naylora.store/products/snoring-nasal-clip): Product information: Ingredients: acrylic Material: pe Size Information: Size: 3.5*3.5cm Packing list: Snoring nose clip *4pieces
+  Updated: 2026-11-21T01:12:56Z
+  Vendor: NAYLORA
+  Product Type: Snoring clip
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/cf6bb3a5-0627-4a93-9c05-1f1942d25f91.png?v=1794992105
+  Price: $13.00 USD
 
 ## Collections
 
@@ -657,8 +671,8 @@
   Updated: 2026-11-09T12:18:31Z
   Total Products: 16
 - [Quality Products](https://naylora.store/collections/quality-products)
-  Updated: 2026-11-12T22:40:31Z
-  Total Products: 4
+  Updated: 2026-11-20T23:31:15Z
+  Total Products: 7
 - [Must Buy](https://naylora.store/collections/must-buy): Key Features ✅ Warm Fleece Lining – Soft 230G fleece keeps you warm and comfortable in cold weather. ✅ High-Waist Support – Stretchy, tummy-control waistband for a secure and flattering fit. ✅ Comfortable & Flexible – 4-way stretch fabric moves with you without slipping. ✅ Stylish Winter Essential – Pairs perfectly with dresses, skirts, shorts, boots, or jeans. ✅ Perfect for Any Occasion – Great for work, travel, shopping, outdoor activities, and everyday wear. ✅ Lightweight Warmth – Keeps your legs cozy without adding bulk.
   Updated: 2026-08-10T23:49:52Z
   Total Products: 0
@@ -693,8 +707,8 @@
   Updated: 2026-10-14T07:56:59Z
   Total Products: 0
 - [Trending Now](https://naylora.store/collections/best-seller)
-  Updated: 2026-11-09T12:18:31Z
-  Total Products: 21
+  Updated: 2026-11-18T12:20:04Z
+  Total Products: 23
 - [SwiftChop™ Vegetable Chopper](https://naylora.store/collections/swiftchop™-vegetable-chopper)
   Updated: 2026-08-14T11:29:29Z
   Total Products: 1
