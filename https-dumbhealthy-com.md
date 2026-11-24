@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2023-01-10T17:18:42Z
-- Updated At: 2026-11-16T00:21:06.248Z
+- Updated At: 2026-11-24T00:29:13.673Z
 
 ## Products
 
@@ -58,7 +58,7 @@
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/1769138437600-generated-label-image-0.jpg?v=1769549884
   Price: $62.00 USD
 - [Besito De Cafe | Organic Colombian Coffee | Dumb Healthy](https://dumbhealthy.com/products/besito-de-cafe): Organic Colombian coffee roasted in small batches after you order. A simple, fresh coffee from Dumb Healthy with a give-back mission.
-  Updated: 2026-08-08T01:00:56Z
+  Updated: 2026-11-18T04:31:43Z
   Vendor: Dumb Healthy
   Product Type: 
   Availability: Available
@@ -79,7 +79,7 @@
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/products/honeyjar.webp?v=1677545917
   Price: $30.00 USD
 - [Pasture Raised Beef Liver Dog Treats | Dumb Healthy](https://dumbhealthy.com/products/dog-treats-pasture-raised-beef-liver): Simple pasture-raised beef liver dog treats from Dumb Healthy for ingredient-forward treating without  pet claims.
-  Updated: 2026-08-22T15:54:06Z
+  Updated: 2026-11-18T04:31:52Z
   Vendor: Dumb Healthy
   Product Type: Dog Treats
   Availability: Available
@@ -504,7 +504,7 @@
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/9d84170591eb4e3b8b9fc07bf7022242.png?v=1775857941
   Price: $0.00 USD
 - [Ranch and Rover Camo Tee](https://dumbhealthy.com/products/rrcamo): A Ranch and Rover camo tee built on an officially licensed REALTREE camouflage T-shirt. Details include 5.5 oz ring-spun cotton printed jersey, ribbed collar and cuffs, back locker patch, side seams, and easy-tear label.
-  Updated: 2026-09-27T21:56:45Z
+  Updated: 2026-11-17T19:47:08Z
   Vendor: Dumb Healthy
   Product Type: 
   Availability: Available
@@ -910,7 +910,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/5838ddc3daa2469d945c1c027bb1557b.png?v=1776551797
     Price: $35.00 USD
 - [100% Organic Cotton French Terry Hoodie | Ranch and Rover | Dumb Healthy](https://dumbhealthy.com/products/ranch-and-rover-100-organic-cotton-hoodie): Ranch and Rover Organic Hoodie — 8.3oz 100% organic cotton French terry, XS-4XL. Real fabric, real price. No polyester, no plastic, no markup.
-  Updated: 2026-09-27T21:56:49Z
+  Updated: 2026-11-17T19:47:06Z
   Vendor: Dumb Healthy
   Product Type: Hoodie
   Availability: Available
@@ -948,7 +948,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12691964_f_AL4000_cfc5_f.jpg?v=1777239657
     Price: $43.12 USD
 - [100% Organic Cotton Hoodie Tee | Dumb Healthy | No Plastic, No BS](https://dumbhealthy.com/products/r-r-organic-hoodie-tee): The R&R Organic Hoodie Tee by Dumb Healthy — 100% organic cotton, ultra-soft 30 singles. Real fabric, real price. No synthetics, no markup.
-  Updated: 2026-09-27T21:56:41Z
+  Updated: 2026-11-17T19:47:07Z
   Vendor: Dumb Healthy
   Product Type: Hoodie
   Availability: Available
@@ -2748,33 +2748,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/8bd9cd7237334774b7da244ad621ce26.png?v=1785609768
     Price: $30.00 USD
-- [Dumb Healthy Snow Wash Heavyweight Sweatpants](https://dumbhealthy.com/products/dumb-healthy-snow-wash-heavyweight-sweatpants): Dumb Healthy Snow Wash Heavyweight Sweatpants — 12.4 oz 100% cotton, vintage snow wash finish, loose unisex fit. Built for recovery and real life.
-  Updated: 2026-08-08T19:31:28Z
-  Vendor: Dumb Healthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/f9f78bbdecf6486dbd60abb81492dd9d.png?v=1785688249
-  - [Black / S](https://dumbhealthy.com/products/dumb-healthy-snow-wash-heavyweight-sweatpants?variant=55405963411747)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/f9f78bbdecf6486dbd60abb81492dd9d.png?v=1785688249
-    Price: $37.16 USD
-  - [Black / M](https://dumbhealthy.com/products/dumb-healthy-snow-wash-heavyweight-sweatpants?variant=55405963444515)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/f9f78bbdecf6486dbd60abb81492dd9d.png?v=1785688249
-    Price: $37.16 USD
-  - [Black / L](https://dumbhealthy.com/products/dumb-healthy-snow-wash-heavyweight-sweatpants?variant=55405963477283)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/f9f78bbdecf6486dbd60abb81492dd9d.png?v=1785688249
-    Price: $37.16 USD
-  - [Black / XL](https://dumbhealthy.com/products/dumb-healthy-snow-wash-heavyweight-sweatpants?variant=55405963510051)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/f9f78bbdecf6486dbd60abb81492dd9d.png?v=1785688249
-    Price: $37.16 USD
-  - [Black / 2XL](https://dumbhealthy.com/products/dumb-healthy-snow-wash-heavyweight-sweatpants?variant=55405963542819)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/f9f78bbdecf6486dbd60abb81492dd9d.png?v=1785688249
-    Price: $37.16 USD
-[List Continued](https://dumbhealthy.com/a/llms-agent/llms.txt?shop=dumb-healthy.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDMxMjk1MDU0NjcyMywibGFzdF92YWx1ZSI6IjEwMzEyOTUwNTQ2NzIzIn0%3D)
+[List Continued](https://dumbhealthy.com/a/llms-agent/llms.txt?shop=dumb-healthy.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDMxMjYxMzQ5NTA3NSwibGFzdF92YWx1ZSI6IjEwMzEyNjEzNDk1MDc1In0%3D)
 
 ## Collections
 
@@ -2785,25 +2759,25 @@
   Updated: 2026-08-29T01:50:06Z
   Total Products: 11
 - [Clothing](https://dumbhealthy.com/collections/clothing): Shop Dumb Healthy clothing, cotton tees, hoodies, shorts, pants and limited collaboration merch drops.
-  Updated: 2026-09-28T11:06:36Z
+  Updated: 2026-11-18T12:05:45Z
   Total Products: 39
 - [Supplements](https://dumbhealthy.com/collections/supplements): Shop Dumb Healthy supplements, including capsules, gummies, powders, drops, strips, and simple wellness products organized for everyday routines.
   Updated: 2026-10-08T15:57:10Z
   Total Products: 30
 - [Coffee & Beverages](https://dumbhealthy.com/collections/coffee-beverages): Shop Dumb Healthy coffee, mushroom coffee, teas, and beverage-friendly wellness products for simple daily routines.
-  Updated: 2026-10-08T01:21:28Z
+  Updated: 2026-11-18T12:05:45Z
   Total Products: 5
 - [Specialty Coaching & Wellness Consultation](https://dumbhealthy.com/collections/specialty-wellness): Explore Dumb Healthy coaching and specialty wellness products, including raw honey, farm eggs, dog treats, wellness boxes, and practical support.
   Updated: 2026-09-11T00:13:41Z
   Total Products: 12
 - [Dog Treats](https://dumbhealthy.com/collections/dog-treats): Shop Dumb Healthy dog treats, including pasture-raised beef liver treats made with simple, real ingredients.
-  Updated: 2026-07-08T20:59:43Z
+  Updated: 2026-11-18T12:05:45Z
   Total Products: 1
 - [DUMB Merch](https://dumbhealthy.com/collections/dumb-merch): Shop DUMB Merch from Dumb Healthy, including cotton-focused tees, hoodies, shorts and limited graphic apparel drops.
   Updated: 2026-10-09T17:28:20Z
   Total Products: 53
 - [Ranch and Rover Merch](https://dumbhealthy.com/collections/ranch-merch): Shop Ranch Merch from Dumb Healthy, including outdoor-inspired graphic apparel and limited everyday clothing pieces.
-  Updated: 2026-09-28T11:06:36Z
+  Updated: 2026-11-18T12:05:45Z
   Total Products: 15
 - [Hobe Sound Jewelers Merch](https://dumbhealthy.com/collections/hobe-sound-jewelers-merch): Shop official Hobe Sound Jewelers merch — tees, long sleeves, jackets, and more. Wear the HSJ legacy.
   Updated: 2026-09-28T11:06:36Z
@@ -3136,6 +3110,15 @@
     Author: A.
   - [Leveraging Environmental Wellness with the Help of Detoxifying Superfoods](https://dumbhealthy.com/blogs/news/leveraging-environmental-wellness-with-the-help-of-detoxifying-superfoods): Leveraging Environmental Wellness with the Help of Detoxifying Superfoods
     Updated: 2026-11-14T07:03:28Z
+    Author: A.
+  - [Promote a Healthy Home with Beetroot and Elderberry for Inflammation Support](https://dumbhealthy.com/blogs/news/promote-a-healthy-home-with-beetroot-and-elderberry-for-inflammation-support): Promote a Healthy Home with Beetroot and Elderberry for Inflammation Support
+    Updated: 2026-11-19T07:00:24Z
+    Author: A.
+  - [Focus and Sleep Support with Adaptogen and Mushroom Superfoods](https://dumbhealthy.com/blogs/news/focus-and-sleep-support-with-adaptogen-and-mushroom-superfoods): Focus and Sleep Support with Adaptogen and Mushroom Superfoods
+    Updated: 2026-11-20T07:02:44Z
+    Author: A.
+  - [Demystifying Detox: The Role of Magnesium in Clean Living Habits](https://dumbhealthy.com/blogs/news/demystifying-detox-the-role-of-magnesium-in-clean-living-habits): Demystifying Detox: The Role of Magnesium in Clean Living Habits
+    Updated: 2026-11-21T07:01:15Z
     Author: A.
 
 ## Store Pages
