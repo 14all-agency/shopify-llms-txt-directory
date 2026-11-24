@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-05-28T08:33:03Z
 - Contact Email: help@brillianthsolutions.com
-- Updated At: 2026-11-17T00:27:09.987Z
+- Updated At: 2026-11-24T00:34:41.116Z
 
 ## Collections
 
@@ -61,6 +61,8 @@
   Updated: 2026-10-01T21:32:17Z
 - [Cookie Policy](https://brillianthsolutions.com/pages/cookie-policy)
   Updated: 2026-10-05T14:54:44Z
+- [Provider Resources](https://brillianthsolutions.com/pages/provider-resources)
+  Updated: 2026-11-20T13:19:36Z
 
 ## Policies
 
