@@ -6,159 +6,264 @@
 - Timezone: Europe/London
 - Created At: 2023-08-30T18:40:00Z
 - Contact Email: squishyfriendsuk@gmail.com
-- Updated At: 2026-11-16T21:05:12.264Z
+- Updated At: 2026-11-24T01:24:15.803Z
 
 ## Products
 
-- [Arctic The Husky  Squishy](https://squishyfriendsuk.com/products/arctic-the-husky-squishy): Meet Arctic The Husky, your new furry best friend packed with endless cuddles and charm! With his irresistibly soft, plush coat, Arctic is the ultimate squishy companion for kids who love to squeeze, squash, and giggle. Perfect for playtime adventures or cosy quiet moments, this playful pup brings joy to every single day!Did you know? Huskies have an incredibly thick double coat that keeps them warm in freezing temperatures—Arctic's fur is extra cuddly!Why did Arctic go to the dog park? Because he wanted to have a howl of a time!Every Squishy Friend arrives with an official birth certificate, Teddy skin, Squishy stuffing (175g) and friendship promise, plus a heart or star charm for making wishes. Everything is packed into a squishy friends string bag, making it an ideal treat or a thoughtful gift for someone special all wrapped into one cool kit. Each squishy is 16" (inches)/ 40.4 cm in size.Every Squishy Friend arrives with an official birth certificate, Teddy skin, Squishy stuffing (175g) and friendship promise, plus a heart or star charm for making wishes. Everything is packed into a squishy friends string bag, making it an ideal treat or a thoughtful gift for someone special all wrapped into one cool kit. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-08T10:15:03Z
+- [Arctic The Husky  Squishy](https://squishyfriendsuk.com/products/arctic-the-husky-squishy): WOOF, HOWL, SQUISH! 🐺❄️ Meet Arctic the Husky—your new furry best friend bursting with endless cuddles and charm! With a plush coat softer than fresh snow, Arctic is the ultimate squishy companion for kids who love to squeeze, squash, and giggle. Whether you’re zooming on snowy bedroom sled-missions or curling up for cosy bedtime snuggles, this playful pup brings tail-wagging joy to every single day! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T14:28:25Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/3A3306B7-FF00-4DBE-B18D-7E01B30BC5B5.jpg?v=1788648664
-  Price: £15.99 GBP
-- [Sushi The Cat](https://squishyfriendsuk.com/products/sushi-the-cat-squishy): Meet Sushi The Cat, your new furry best friend packed with endless cuddles and charm! With her irresistibly soft, plush coat, Sushi is the ultimate squishy companion for kids who love to squeeze, squash, and giggle. Perfect for playtime adventures or cosy quiet moments, this playful cat pal brings joy to every single day!Did you know? Cats can rotate their ears 180 degrees—Sushi's ears are always listening for fun!Why did Sushi go to school? Because she wanted to be the purr-fect student!Every Squishy Friend arrives with an official birth certificate, Teddy skin, Squishy stuffing (175g) and friendship promise, plus a heart or star charm for making wishes. Everything is packed into a squishy friends string bag, making it an ideal treat or a thoughtful gift for someone special all wrapped into one cool kit. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:05:55Z
+  - [Colouring-in Edition](https://squishyfriendsuk.com/products/arctic-the-husky-squishy?variant=55994716258631)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready to Go Edition](https://squishyfriendsuk.com/products/arctic-the-husky-squishy?variant=55994716291399)
+    Availability: Available
+    Price: £15.99 GBP
+- [Sushi The Cat](https://squishyfriendsuk.com/products/sushi-the-cat-squishy): MEOW, PURR, SQUISH! 🐱🍣 Meet Sushi the Cat—your new furry best friend bursting with endless cuddles and charm! With a plush coat softer than a cloud, Sushi is the ultimate squishy companion for kids who love to squeeze, squash, and giggle. Whether you’re zooming into wild living-room adventures or curling up for cosy naptime snuggles, this playful kitty pal brings purr-fect joy to every single day! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T14:25:54Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/205AC86C-6A6A-4709-8B30-46F75142783A.jpg?v=1788648032
-  Price: £15.99 GBP
-- [Harriet The Hamster Squishy](https://squishyfriendsuk.com/products/harriet-the-hamster-squishy): Say hello to Harriet, your adorable hamster squishy packed with personality! With her irresistibly soft, plush coat, she's the ultimate cuddle buddy. Perfect for squishing, hugging, and taking on all your adventures—Harriet is ready to become your new best friend!Squeeze, squash, and giggle with delight as you discover just how wonderfully squishy Harriet truly is! Whether you're having a silly playtime session or need a cosy companion during quiet moments, this playful hamster pal brings endless fun and joy to every day. Did you know? Hamsters can run up to 5 miles in a single night on their wheel—talk about a little bundle of energy! Every Squishy Friend arrives with an official birth certificate, Teddy skin, Squishy stuffing (175g) and friendship promise, plus a heart or star charm for making wishes. Everything is packed into a squishy friends string bag, making it an ideal treat or a thoughtful gift for someone special all wrapped into one cool kit.. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:05:58Z
+  - [Colouring-in Edition](https://squishyfriendsuk.com/products/sushi-the-cat-squishy?variant=55994631455047)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready to Go Edition](https://squishyfriendsuk.com/products/sushi-the-cat-squishy?variant=55994631487815)
+    Availability: Available
+    Price: £15.99 GBP
+- [Harriet The Hamster Squishy](https://squishyfriendsuk.com/products/harriet-the-hamster-squishy): SQUEAK, ZOOM, SQUISH! 🐹✨ Say hello to Harriet—your adorable hamster squishy bursting with big personality! With a plush coat softer than a cloud, she’s the ultimate pocket-sized cuddle buddy. Squeeze her, squash her, and giggle at just how ridiculously squishy she is! (Psst—fun fact: real hamsters can run up to 5 miles in a single night on their wheel!) Whether she’s zooming on bedroom adventures or curling up for cosy story-time snuggles, Harriet brings non-stop joy everywhere she goes! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T14:23:34Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/8C3FEFAF-3E69-4D50-ACFC-0D5EDA759EC7.jpg?v=1788648032
-  Price: £15.99 GBP
-- [Pippa The Penguin Squishy](https://squishyfriendsuk.com/products/pippa-the-penguin-squishy): Say hello to Pippa, your adorable penguin squishy straight from the icy Antarctic! With her irresistibly soft, plush coat, she's the ultimate cuddle buddy. Perfect for squishing, hugging, and taking on all your adventures—Pippa is ready to become your new best friend!Squeeze, squash, and giggle with delight as you discover just how wonderfully squishy Pippa truly is! Whether you're having a silly playtime session or need a cosy companion during quiet moments, this playful penguin pal brings endless fun and joy to every day. Did you know? Penguins can dive deeper than 500 metres and hold their breath for up to 20 minutes—now that's one impressive swimmer! Every Squishy Friend arrives with an official birth certificate, Teddy skin, Squishy stuffing (175g) and friendship promise, plus a heart or star charm for making wishes. Everything is packed into a squishy friends string bag, making it an ideal treat or a thoughtful gift for someone special all wrapped into one cool kit.. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:06:00Z
+  - [Colouring- in Edition](https://squishyfriendsuk.com/products/harriet-the-hamster-squishy?variant=55994569949511)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready to Go Edition](https://squishyfriendsuk.com/products/harriet-the-hamster-squishy?variant=55994569982279)
+    Availability: Available
+    Price: £15.99 GBP
+- [Pippa The Penguin Squishy](https://squishyfriendsuk.com/products/pippa-the-penguin-squishy): WADDLE, SLIDE, SQUISH! 🐧❄️ Say hello to Pippa—your adorable penguin pal straight from the icy Antarctic! With a plush coat softer than fresh snow, she’s the ultimate cuddle buddy for every frosty mission and cosy nap. Squeeze her, squash her, and giggle at just how ridiculously squishy she is! (Psst—fun fact: real penguins can dive deeper than 500 metres and hold their breath for 20 whole minutes!) Whether she’s belly-sliding across your bedroom floor or snuggling up for story time, Pippa brings cool fun wherever she goes! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T14:19:04Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/09535270-1782-4DF6-A2D8-EC04C4A1DC55.jpg?v=1788648032
-  Price: £15.99 GBP
-- [Heidi The Highland Cow](https://squishyfriendsuk.com/products/clara-cow-squishy): Say hello to Heidi, your adorable Highland Cow straight from the misty Scottish highlands! With her irresistibly soft, fluffy coat, she's the ultimate cuddle buddy. Perfect for squishing, hugging, and taking on all your adventures—Heidi is ready to become your new best friend! Every Squishy Friend arrives with an official birth certificate, Teddy skin, Squishy stuffing (175g) and friendship promise, plus a heart or star charm for making wishes. Everything is packed into a squishy friends string bag, making it an ideal treat or a thoughtful gift for someone special all wrapped into one cool kit.. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:06:03Z
+  - [Colouring-in Edition](https://squishyfriendsuk.com/products/pippa-the-penguin-squishy?variant=55994408206663)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready to Go Edition](https://squishyfriendsuk.com/products/pippa-the-penguin-squishy?variant=55994408239431)
+    Availability: Available
+    Price: £15.99 GBP
+- [Heidi The Highland Cow](https://squishyfriendsuk.com/products/clara-cow-squishy): Say hello to Heidi, your adorable Highland Cow straight from the misty Scottish highlands! With her irresistibly soft, fluffy coat, she's the ultimate cuddle buddy. Perfect for squishing, hugging, and taking on all your adventures—Heidi is ready to become your new best friend! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T14:14:56Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/92FCC445-94F1-49F5-BF14-324224438B00.png?v=1791122188
-  Price: £15.99 GBP
-- [Billy Buzz Bee](https://squishyfriendsuk.com/products/billy-buzz-squishy): Meet Billy Buzz Bee – your striped best friend ready for the buzziest adventures! This happy little honeybee is soft as a cloud and packed with personality. Perfect for bedroom expeditions, pillow fort missions, and silly wiggle-dancing sessions. With his cheerful buzz-worthy charm, Billy is the squishiest, most huggable companion for every wild moment and cosy cuddle time. Ideal for little explorers collecting friends as fabulous as themselves. Squeeze him, take him everywhere, and watch everyone ask where you found such a brilliant squishy friend! Time to get crafty and create your very own Squishy Friend! Every kit bursts with everything you need—a super-soft teddy skin, 175g of lovely fluffy stuffing, an official birth certificate to make it official, a squishy promise card, and a choice of heart or star wishing charm to sprinkle some magic into your new buddy's life. Make it, name it, love it!. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:25:15Z
+  - [Colouring-in Edition](https://squishyfriendsuk.com/products/clara-cow-squishy?variant=55994274971975)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready to Go Edition](https://squishyfriendsuk.com/products/clara-cow-squishy?variant=55994275004743)
+    Availability: Available
+    Price: £15.99 GBP
+- [Billy Buzz Bee](https://squishyfriendsuk.com/products/billy-buzz-squishy): Meet Billy Buzz Bee – your striped best friend ready for the buzziest adventures! This happy little honeybee is soft as a cloud and packed with personality. Perfect for bedroom expeditions, pillow fort missions, and silly wiggle-dancing sessions. With his cheerful buzz-worthy charm, Billy is the squishiest, most huggable companion for every wild moment and cosy cuddle time. Ideal for little explorers collecting friends as fabulous as themselves. Squeeze him, take him everywhere, and watch everyone ask where you found such a brilliant squishy friend! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T14:08:52Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/828716DF-1210-4244-BE76-318AB056DFDF.png?v=1788648033
-  Price: £15.99 GBP
-- [Pip the Strawberry](https://squishyfriendsuk.com/products/pip-the-strawberry-squishy): Squeeze into joy with Pip the Strawberry — the fruitiest, most huggable squishy friend around! With his vibrant red charm and leafy crown, Pip is bursting with personality and ready for non-stop fun. Whether you're squishing, cuddling, collecting, or whisking him away on wild adventures, this little berry buddy delivers smiles every single time. Soft, squishy, and impossibly cute, Pip is your new go-to companion for playtime magic!Why did Pip the Strawberry go to school? Because she wanted to be a little brighter! 🍓 Time to get crafty and create your very own Squishy Friend! Every kit bursts with everything you need—a super-soft teddy skin, 175g of lovely fluffy stuffing, an official birth certificate to make it official, a squishy promise card, and a choice of heart or star wishing charm to sprinkle some magic into your new buddy's life. Make it, name it, love it!. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:06:09Z
+  - [Colouring-in Edition](https://squishyfriendsuk.com/products/billy-buzz-squishy?variant=55994044383559)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready to Go edition](https://squishyfriendsuk.com/products/billy-buzz-squishy?variant=55994044416327)
+    Availability: Available
+    Price: £15.99 GBP
+- [Pip the Strawberry](https://squishyfriendsuk.com/products/pip-the-strawberry-squishy): Squeeze into joy with Pip the Strawberry — the fruitiest, most huggable squishy friend around! With his vibrant red charm and leafy crown, Pip is bursting with personality and ready for non-stop fun. Whether you're squishing, cuddling, collecting, or whisking him away on wild adventures, this little berry buddy delivers smiles every single time. Soft, squishy, and impossibly cute, Pip is your new go-to companion for playtime magic! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T14:06:35Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/BAFD1DED-47F6-4301-AC0E-4A4504D48710.png?v=1788648033
-  Price: £15.99 GBP
-- [Ying Yang the Panda](https://squishyfriendsuk.com/products/ying-yang-the-panda-squishy): Meet Ying Yang the Panda – your new partner in crime for the wildest adventures! This perfectly imperfect squishy legend has enough charm to make bamboo jealous and enough softness to rival a cloud. Ready for midnight expeditions through your bedroom jungle? Check. Epic pillow fort raids? Absolutely. Silly dance-offs in the living room? You . With his cheeky panda personality, Ying Yang is the squishiest, most huggable companion for every wild moment and cosy cuddle session. Perfect for little explorers who collect friends as epic as themselves. Squeeze him, take him everywhere, and watch as everyone wonders where you found such a legendary buddy. Time to get crafty and create your very own Squishy Friend! Every kit bursts with everything you need—a super-soft teddy skin, 175g of lovely fluffy stuffing, an official birth certificate to make it official, a squishy promise card, and a choice of heart or star wishing charm to sprinkle some magic into your new buddy's life. Make it, name it, love it!. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:25:25Z
+  - [Colouring-in Edition](https://squishyfriendsuk.com/products/pip-the-strawberry-squishy?variant=55993963348295)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready to Go Edition](https://squishyfriendsuk.com/products/pip-the-strawberry-squishy?variant=55993963381063)
+    Availability: Available
+    Price: £15.99 GBP
+- [Ying Yang the Panda](https://squishyfriendsuk.com/products/ying-yang-the-panda-squishy): BAM! POW! CUDDLE! 🐼✨ Meet Ying Yang the Panda—your new partner in crime for the wildest adventures! This cheeky, squishy legend has enough charm to make bamboo jealous and enough softness to beat a cloud. Midnight bedroom jungle trek? Check. Epic pillow-fort raid? You . Living room dance-off? Let’s go! Squeeze him, bring him everywhere, and get ready to show off the coolest, most huggable buddy on the planet! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T14:04:02Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/F4F5EFD0-65FB-41C9-BF43-5269BDCD7153.png?v=1788648033
-  Price: £15.99 GBP
-- [Wonky the Owl](https://squishyfriendsuk.com/products/wise-the-owl-squishy): Meet Wonky the Owl – a hilariously lopsided squishy friend bursting with personality! His charmingly wonky look is part of his charm, and boy, is he the squishiest, softest cuddle friend ever! Wonky's always up for midnight adventures, cosy bedtime snuggles, and every bonkers moment in between. This irresistibly squishy pal is perfect for little hands wanting a friend who's gloriously, wonderfully wonky. Kids will love squeezing, collecting, and taking Wonky absolutely everywhere – he's the huggable proof that the best friends are the ones who don't quite fit the mould!Why did Wonky the Owl go to school? Because he wanted to improve his "owl-gebra!" 🦉 Time to get crafty and create your very own Squishy Friend! Every kit bursts with everything you need—a super-soft teddy skin, 175g of lovely fluffy stuffing, an official birth certificate to make it official, a squishy promise card, and a choice of heart or star wishing charm to sprinkle some magic into your new buddy's life. Make it, name it, love it!. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:06:12Z
+  - [Colouring-in Edition](https://squishyfriendsuk.com/products/ying-yang-the-panda-squishy?variant=55993885229383)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready to Go Edition](https://squishyfriendsuk.com/products/ying-yang-the-panda-squishy?variant=55993885262151)
+    Availability: Available
+    Price: £15.99 GBP
+- [Wonky the Owl](https://squishyfriendsuk.com/products/wise-the-owl-squishy): Meet Wonky the Owl – a hilariously lopsided squishy friend bursting with personality! His charmingly wonky look is part of his charm, and boy, is he the squishiest, softest cuddle friend ever! Wonky's always up for midnight adventures, cosy bedtime snuggles, and every bonkers moment in between. This irresistibly squishy pal is perfect for little hands wanting a friend who's gloriously, wonderfully wonky. Kids will love squeezing, collecting, and taking Wonky absolutely everywhere – he's the huggable proof that the best friends are the ones who don't quite fit the mould!Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T13:59:31Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/4850C4F5-FE00-4E3A-899E-F9E65281A40F.png?v=1788648033
-  Price: £15.99 GBP
-- [Burton The Bat](https://squishyfriendsuk.com/products/burton-the-bat-squishy): Meet Burton The Bat – looks wickedly spooky with those dark wings and mysterious charm, but don't let his creepy appearance fool you! He's actually the softest, cuddliest softie you'll ever squeeze. With his adorable embroidered eyes that gleam mischievously in the shadows, Burton's ready for midnight adventures, Halloween hauls, and cosy bedtime snuggles. Why did Burton the bat go to school? Because he wanted to improve his hang-ibility! This black beauty with his plush, squishiest texture is perfect for little hands wanting a friendly fright. Kids will love squeezing, collecting, and taking Burton everywhere – he's one irresistibly huggable squishy friend who proves you can't judge a bat by his wings. Time to get crafty and create your very own Squishy Friend! Every kit bursts with everything you need—a super-soft teddy skin, 175g of lovely fluffy stuffing, an official birth certificate to make it official, a squishy promise card, and a choice of heart or star wishing charm to sprinkle some magic into your new buddy's life. Make it, name it, love it!. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:06:14Z
+  - [Colouring-in Edition](https://squishyfriendsuk.com/products/wise-the-owl-squishy?variant=55993735151943)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready to Go Edition](https://squishyfriendsuk.com/products/wise-the-owl-squishy?variant=55993735184711)
+    Availability: Available
+    Price: £15.99 GBP
+- [Burton The Bat](https://squishyfriendsuk.com/products/burton-the-bat-squishy): Say hello to Burton the Bat! With his midnight-black wings and super-sneaky eyes, Burton looks like a spooky creature of the night… until you feel how ridiculously soft and squishy he is! He’s the ultimate buddy for Halloween hauls, secret blanket-fort missions, and bedtime stories. (Psst: Why did Burton go to school? To improve his hang-ibility!) Grab him, squish him, and take this huggable little bat everywhere! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T13:56:01Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/14835C67-68BC-4206-AF8F-FC1A39BCC843.png?v=1788648032
-  Price: £15.99 GBP
-- [Betty Buttercream Cupcake](https://squishyfriendsuk.com/products/buttercream-the-cupcake-squishy): Meet Betty Buttercream Cupcake – the sweetest squishy friend around! She's a bubblegum-pink cuddle friend with the softest, squishiest texture perfect for little hands. With her adorable embroidered eyes that sparkle with mischief, Betty's ready for tea parties, adventures, and cozy bedtime snuggles. Top her off with her signature strawberry hat, and you've got one irresistibly huggable cupcake friend. Kids will love squeezing, collecting, and taking Betty everywhere! Time to get crafty and create your very own Squishy Friend! Every kit bursts with everything you need—a super-soft teddy skin, 175g of lovely fluffy stuffing, an official birth certificate to make it official, a squishy promise card, and a choice of heart or star wishing charm to sprinkle some magic into your new buddy's life. Make it, name it, love it!. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:06:17Z
+  - [Colouring-in Edition](https://squishyfriendsuk.com/products/burton-the-bat-squishy?variant=55993565020487)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready to go Edition](https://squishyfriendsuk.com/products/burton-the-bat-squishy?variant=55993565053255)
+    Availability: Available
+    Price: £15.99 GBP
+- [Betty Buttercream Cupcake](https://squishyfriendsuk.com/products/buttercream-the-cupcake-squishy): Meet Betty Buttercream Cupcake – the sweetest squishy friend around! She's a bubblegum-pink cuddle friend with the softest, squishiest texture perfect for little hands. With her adorable embroidered eyes that sparkle with mischief, Betty's ready for tea parties, adventures, and cozy bedtime snuggles. Top her off with her signature strawberry hat, and you've got one irresistibly huggable cupcake friend. Kids will love squeezing, collecting, and taking Betty everywhere! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T13:52:35Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/511E4473-3A4B-4DEC-A736-21862B262E7E.png?v=1788648032
-  Price: £15.99 GBP
-- [Sunny The Sloth](https://squishyfriendsuk.com/products/slo-mo-the-sloth-squishy): Meet Sunny, the sleepiest sloth in the jungle — and your new best friend! This adorable slowpoke absolutely adores hanging around (sometimes literally, since sloths love to climb). Sunny's got a heart full of adventure and dreams even bigger than their afternoon naps. Whether you're embarking on epic quests across the bedroom, creating wild jungle expeditions with your other plush pals, or just need the coziest cuddle Friend for story time, Sunny's always ready to join in on the fun. With those dreamy eyes and super-soft fur, Sunny is perfect for hugs, playtime shenanigans, or tucking into bed as your sleepy friend. This gentle giant loves nothing more than sharing stories, going on imaginary adventures through rain forests, and being there for all your giggles and cuddles. Every moment with Sunny is filled with slowwww-motion fun and loads of laughs! Time to get crafty and create your very own Squishy Friend! Every kit bursts with everything you need—a super-soft teddy skin, 175g of lovely fluffy stuffing, an official birth certificate to make it official, a squishy promise card, and a choice of heart or star wishing charm to sprinkle some magic into your new buddy's life. Make it, name it, love it!. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:06:20Z
+  - [Colouring-in Edition](https://squishyfriendsuk.com/products/buttercream-the-cupcake-squishy?variant=55993498698055)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready to Go Edition](https://squishyfriendsuk.com/products/buttercream-the-cupcake-squishy?variant=55993498730823)
+    Availability: Available
+    Price: £15.99 GBP
+- [Sunny The Sloth](https://squishyfriendsuk.com/products/slo-mo-the-sloth-squishy): Say hello to Sunny—the sleepiest, silliest sloth in the jungle! This adorable slowpoke loves to hang around (literally!). Sunny might take the biggest afternoon naps ever, but their dreams are packed with giant adventures. Ready for a wild bedroom safari? Need a plush pal for story time? Or just want the snuggliest hug in the universe? With dreamy eyes and cloud-soft fur, Sunny is always down for giggles, rainforest quests, and slowwww-motion fun! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T13:49:11Z
   Vendor: squishy friends
-  Product Type: 
+  Product Type: soft toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/53B1A191-96B7-436D-9759-BC9911F2CB9A.png?v=1788648032
-  Price: £15.99 GBP
-- [Candy The Unicorn](https://squishyfriendsuk.com/products/crystal-unicorn-squishy): Meet Cotton Candy, the most magical unicorn friend you'll ever snuggle! With her sparkling round eyes and adorable little horn, she's ready for endless adventures by day and coZy cuddles at bedtime. This soft, huggable cutie is the perfect Squishy Friend for playtime fun or sweet dreams. She's waiting to become your new best friend! Time to get crafty and create your very own Squishy Friend! Every kit bursts with everything you need—a super-soft teddy skin, 175g of lovely fluffy stuffing, an official birth certificate to make it official, a squishy promise card, and a choice of heart or star wishing charm to sprinkle some magic into your new buddy's life. Make it, name it, love it!. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:06:22Z
+  - [Colouring-in Edition](https://squishyfriendsuk.com/products/slo-mo-the-sloth-squishy?variant=55993387254087)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready to Go Edition](https://squishyfriendsuk.com/products/slo-mo-the-sloth-squishy?variant=55993387286855)
+    Availability: Available
+    Price: £15.99 GBP
+- [Candy The Unicorn](https://squishyfriendsuk.com/products/crystal-unicorn-squishy): Meet Cotton Candy, the most magical unicorn friend you'll ever snuggle! With her sparkling round eyes and adorable little horn, she's ready for endless adventures by day and coZy cuddles at bedtime. This soft, huggable cutie is the perfect Squishy Friend for playtime fun or sweet dreams. She's waiting to become your new best friend! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T13:40:33Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/10C3E13A-F325-4663-A0DF-322FABC2A02D.png?v=1788648033
-  Price: £15.99 GBP
-- [Fluffzilla](https://squishyfriendsuk.com/products/fluffzilla-squishy): Meet Fluffzilla, the squishy superstar! This adorable blue buddy is soft, squishy, and perfectly round with the sweetest little eyes you ever did see. Don't let his gentle appearance fool you — Fluffzilla is ready for wild adventures, cozy cuddles, and snuggly bedtime snoozes. Your new best friend is waiting! Time to get crafty and create your very own Squishy Friend! Every kit bursts with everything you need—a super-soft teddy skin, 175g of lovely fluffy stuffing, an official birth certificate to make it official, a squishy promise card, and a choice of heart or star wishing charm to sprinkle some magic into your new buddy's life. Make it, name it, love it!. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:06:25Z
+  - [Colouring-in Edition](https://squishyfriendsuk.com/products/crystal-unicorn-squishy?variant=55993111642439)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready to Go Edition](https://squishyfriendsuk.com/products/crystal-unicorn-squishy?variant=55993111675207)
+    Availability: Available
+    Price: £15.99 GBP
+- [Fluffzilla](https://squishyfriendsuk.com/products/fluffzilla-squishy): Meet Fluffzilla, the squishy superstar! This adorable blue buddy is soft, squishy, and perfectly round with the sweetest little eyes you ever did see. Don't let his gentle appearance fool you — Fluffzilla is ready for wild adventures, cozy cuddles, and snuggly bedtime snoozes. Your new best friend is waiting! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T13:36:29Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/75D8808D-98F8-4D75-B25E-64DFABE8DBED.png?v=1788648033
-  Price: £15.99 GBP
-- [Brucey Bat](https://squishyfriendsuk.com/products/brucey-bat-squishy): Meet Brucey Bat, your new caped crusader and softest sidekick ever! This adorable crime-fighting buddy is ready for wild adventures, cozy cuddles, and endless playtime fun. Stuff him, give him an awesome name, squeeze him tight, and watch him become your absolute best friend. Perfect for any young hero who needs a brave, huggable Squishy Friend by their side! Time to get crafty and create your very own Squishy Friend! Every kit bursts with everything you need—a super-soft teddy skin, 175g of lovely fluffy stuffing, an official birth certificate to make it official, a squishy promise card, and a choice of heart or star wishing charm to sprinkle some magic into your new buddy's life. Make it, name it, love it!. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:25:12Z
+  - [Colouring-in Edition](https://squishyfriendsuk.com/products/fluffzilla-squishy?variant=55992999379271)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready to Go Edition](https://squishyfriendsuk.com/products/fluffzilla-squishy?variant=55992999412039)
+    Availability: Available
+    Price: £15.99 GBP
+- [Brucey Bat](https://squishyfriendsuk.com/products/brucey-bat-squishy): Meet Brucey Bat, your new caped crusader and softest sidekick ever! This adorable crime-fighting buddy is ready for wild adventures, cozy cuddles, and endless playtime fun. Stuff him, give him an awesome name, squeeze him tight, and watch him become your absolute best friend. Perfect for any young hero who needs a brave, huggable Squishy Friend by their side! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T13:34:17Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/C0E9461F-9B1A-4ACD-9B6E-81846396E5E5.png?v=1788648033
-  Price: £15.99 GBP
-- [Super Pup](https://squishyfriendsuk.com/products/super-pup-squishy): Meet Super Pup, the cutest caped crusader ever! This adorable, chunky little hero is ready for any adventure that comes his way. With his super-soft fluffy fur and bright red cape, he's prepared to save the day—or snuggle up for cosy playtime. Perfect for kids who love furry friends and amazing adventures! Time to get crafty and create your very own Squishy Friend! Every kit bursts with everything you need—a super-soft teddy skin, 175g of lovely fluffy stuffing, an official birth certificate to make it official, a squishy promise card, and a choice of heart or star wishing charm to sprinkle some magic into your new buddy's life. Make it, name it, love it!. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:06:28Z
+  - [Colouring-in Edition](https://squishyfriendsuk.com/products/brucey-bat-squishy?variant=55992933515591)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready to Go Edition](https://squishyfriendsuk.com/products/brucey-bat-squishy?variant=55992933548359)
+    Availability: Available
+    Price: £15.99 GBP
+- [Super Pup](https://squishyfriendsuk.com/products/super-pup-squishy): Meet Super Pup, the cutest caped crusader ever! This adorable, chunky little hero is ready for any adventure that comes his way. With his super-soft fluffy fur and bright red cape, he's prepared to save the day—or snuggle up for cosy playtime. Perfect for kids who love furry friends and amazing adventures! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T13:24:27Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/3C0F4E56-70B6-4DAF-9678-D7E3029040E6.png?v=1788648033
-  Price: £15.99 GBP
-- [Boo The Black Cat!](https://squishyfriendsuk.com/products/boo-the-black-cat-squishy): BOO! Surprise! Here comes the coolest black cat squishy you've ever seen! Boo is super soft, incredibly huggable, and absolutely adorable — with a spooky mysterious edge that makes him extra awesome. This little furry friend has been on tonnes of midnight adventures and is ready for anything. He's your perfect squishy sidekick for playtime, cuddles, and wild imaginative fun. Get ready for giggles and squeeziness! Time to get crafty and create your very own Squishy Friend! Every kit bursts with everything you need—a super-soft teddy skin, 175g of lovely fluffy stuffing, an official birth certificate to make it official, a squishy promise card, and a choice of heart or star wishing charm to sprinkle some magic into your new buddy's life. Make it, name it, love it!. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:06:31Z
+  - [Colouring-in Edition](https://squishyfriendsuk.com/products/super-pup-squishy?variant=55992655151431)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready to go Edition](https://squishyfriendsuk.com/products/super-pup-squishy?variant=55992655184199)
+    Availability: Available
+    Price: £15.99 GBP
+- [Boo The Black Cat!](https://squishyfriendsuk.com/products/boo-the-black-cat-squishy): BOO! Surprise! Here comes the coolest black cat squishy you've ever seen! Boo is super soft, incredibly huggable, and absolutely adorable — with a spooky mysterious edge that makes him extra awesome. This little furry friend has been on tonnes of midnight adventures and is ready for anything. He's your perfect squishy sidekick for playtime, cuddles, and wild imaginative fun. Get ready for giggles and squeeziness! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T13:28:21Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/3EEA72A9-4EF2-4A42-9603-98DEC9837DE0.png?v=1788648033
-  Price: £15.99 GBP
-- [Winston The Werewolf](https://squishyfriendsuk.com/products/william-the-werewolf-squishy): Meet Winston the Werewolf—a wild and woody friend who looks spooky but is actually super soft and huggable! With his big, bright, sparkling eyes and cheeky grin, Winston is ready for any adventure you can dream up. He's like having your very own furry best friend to squeeze, cuddle, and take everywhere you go. Winston's here to pounce into playtime fun! Time to get crafty and create your very own Squishy Friend! Every kit bursts with everything you need—a super-soft teddy skin, 175g of lovely fluffy stuffing, an official birth certificate to make it official, a squishy promise card, and a choice of heart or star wishing charm to sprinkle some magic into your new buddy's life. Make it, name it, love it!. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:06:34Z
+  - [Colouring-in Edition](https://squishyfriendsuk.com/products/boo-the-black-cat-squishy?variant=55992732451143)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready to go Edition](https://squishyfriendsuk.com/products/boo-the-black-cat-squishy?variant=55992732483911)
+    Availability: Available
+    Price: £15.99 GBP
+- [Winston The Werewolf](https://squishyfriendsuk.com/products/william-the-werewolf-squishy): Meet Winston the Werewolf—a wild and woody friend who looks spooky but is actually super soft and huggable! With his big, bright, sparkling eyes and cheeky grin, Winston is ready for any adventure you can dream up. He's like having your very own furry best friend to squeeze, cuddle, and take everywhere you go. Winston's here to pounce into playtime fun! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T13:21:10Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/DE826464-2F76-410A-AE30-36F650987C5B.png?v=1788648033
-  Price: £15.99 GBP
-- [Blossom The Bunny](https://squishyfriendsuk.com/products/beatrice-the-bunny-squishy): Meet Blossom the Bunny, your new best friend who's ready for magical adventures! With her adorably long floppy ears decorated with gorgeous pink and purple flowers, she's one seriously dazzling bunny. She's super soft and cuddly, perfect for snuggles and playtime. Stuff her with love, give her a special name, and she'll be yours forever! Time to get crafty and create your very own Squishy Friend! Every kit bursts with everything you need—a super-soft teddy skin, 175g of lovely fluffy stuffing, an official birth certificate to make it official, a squishy promise card, and a choice of heart or star wishing charm to sprinkle some magic into your new buddy's life. Make it, name it, love it!. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:06:36Z
+  - [Colouring-In Edition](https://squishyfriendsuk.com/products/william-the-werewolf-squishy?variant=55992562155847)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready-to-Go Edition](https://squishyfriendsuk.com/products/william-the-werewolf-squishy?variant=55992562188615)
+    Availability: Available
+    Price: £15.99 GBP
+- [Blossom The Bunny](https://squishyfriendsuk.com/products/beatrice-the-bunny-squishy): Meet Blossom the Bunny, your new best friend who's ready for magical adventures! With her adorably long floppy ears decorated with gorgeous pink and purple flowers, she's one seriously dazzling bunny. She's super soft and cuddly, perfect for snuggles and playtime. Stuff her with love, give her a special name, and she'll be yours forever! Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T13:20:39Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/252C9388-0AAC-4D42-9DEE-39E363908EAF.png?v=1788648032
-  Price: £15.99 GBP
-- [Care Bare Pink](https://squishyfriendsuk.com/products/care-bare-pink): Meet Care Bare Pink – a soft and cuddly squishy that's perfect for little ones. With its gentle pink colour and sweet design, it's ideal as a first teddy for a newborn or a lovely gift for a baby shower. Super huggable and made to be loved, this plush companion is ready to become a cherished favorite. Our care bear squishy are percect as a gift or as a fun gender revel activity for any party. Time to get crafty and create your very own Squishy Friend! Every kit bursts with everything you need—a super-soft teddy skin, 175g of lovely fluffy stuffing, an official birth certificate to make it official, a squishy promise card, and a choice of heart or star wishing charm to sprinkle some magic into your new buddy's life. Make it, name it, love it!. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:06:39Z
+  - [Colouring-In Edition](https://squishyfriendsuk.com/products/beatrice-the-bunny-squishy?variant=55992453595463)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready-to-Go Edition](https://squishyfriendsuk.com/products/beatrice-the-bunny-squishy?variant=55992453628231)
+    Availability: Available
+    Price: £15.99 GBP
+- [Care Bare Pink](https://squishyfriendsuk.com/products/care-bare-pink): Meet Care Bare Pink – a soft and cuddly squishy that's perfect for little ones. With its gentle pink colour and sweet design, it's ideal as a first teddy for a newborn or a lovely gift for a baby shower. Super huggable and made to be loved, this plush companion is ready to become a cherished favorite. Our care bear squishy are percect as a gift or as a fun gender revel activity for any party. Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T13:14:25Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/B70DF1BD-21EE-442B-BD7D-77AA64F4ABE6.jpg?v=1791121216
-  Price: £16.99 GBP
-- [Care Bare Blue](https://squishyfriendsuk.com/products/care-bare-blue): Meet Care Bare Blue – a soft and cuddly squishy that's perfect for little ones. With its gentle blue colour and sweet design, it's ideal as a first teddy for a newborn or a lovely gift for a baby shower. Super huggable and made to be loved, this plush companion is ready to become a cherished favorite. Our care bear squishy are perfect as a gift or as a fun gender reveal activity for any party. Time to get crafty and create your very own Squishy Friend! Every kit bursts with everything you need—a super-soft teddy skin, 175g of lovely fluffy stuffing, an official birth certificate to make it official, a squishy promise card, and a choice of heart or star wishing charm to sprinkle some magic into your new buddy's life. Make it, name it, love it!. Each squishy is 16" (inches)/ 40.4 cm in size.
-  Updated: 2026-11-07T23:06:42Z
+  - [Colouring-In Edition](https://squishyfriendsuk.com/products/care-bare-pink?variant=55992278909255)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready-to-Go Edition](https://squishyfriendsuk.com/products/care-bare-pink?variant=55992278942023)
+    Availability: Available
+    Price: £15.99 GBP
+- [Care Bare Blue](https://squishyfriendsuk.com/products/care-bare-blue): Meet Care Bare Blue – a soft and cuddly squishy that's perfect for little ones. With its gentle blue colour and sweet design, it's ideal as a first teddy for a newborn or a lovely gift for a baby shower. Super huggable and made to be loved, this plush companion is ready to become a cherished favorite. Our care bear squishy are perfect as a gift or as a fun gender reveal activity for any party. Make it, name it, love it! Roll up your sleeves and create your very own giant 16" (40.4cm) Squishy Friend! Inside every kit, you’ll find a super-soft teddy skin, 175g of ultra-fluffy stuffing, a magical heart or star wishing charm, a squishy promise card, and an official birth certificate. How do you want to play? Choose the Colouring-In Edition to become an artist and decorate your certificate yourself (and we will throw in the colouring pencils), or grab the Ready-to-Go Edition for pre-coloured paperwork and instant squishy cuddles!
+  Updated: 2026-11-22T13:03:56Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/5899/7575/files/3BAAF09B-2978-43E7-A2DC-ED3F266A3DD2.jpg?v=1791121216
-  Price: £16.99 GBP
+  - [Colouring-In Edition](https://squishyfriendsuk.com/products/care-bare-blue?variant=55992122900807)
+    Availability: Available
+    Price: £14.99 GBP
+  - [Ready-to-Go Edition](https://squishyfriendsuk.com/products/care-bare-blue?variant=55992122933575)
+    Availability: Available
+    Price: £15.99 GBP
 - [Farmyard Activity packs / Party Bags](https://squishyfriendsuk.com/products/farmyard-activity-pack): Keep the farm fun alive, rain or shine! These farmyard activity packs are bursting with playful games, puzzles, and creative challenges that'll keep little ones entertained for hours. Perfect for rainy afternoons at home or as the ultimate fuss-free party bag—just hand them out and watch the fun unfold. No prep needed, no mess to worry about, just pure farmyard entertainment. Watch their faces light up as they discover barnyard adventures in every pack! Each bursting bag is packed with playful surprises—stickers, colouring books, temporary tattoos, bat and ball games, and loads more magical treats. No stress, no fuss, just pure joy and endless giggles.Whether it's a celebration or a grey-sky rescue mission, these activity packs are your secret  for keeping little ones happily entertained. (Contents may vary depending on stock.)
-  Updated: 2026-11-07T23:25:09Z
+  Updated: 2026-11-16T22:18:30Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
@@ -170,7 +275,7 @@
     Availability: Available
     Price: £7.99 GBP
 - [Jungle Activity packs / Party Bags](https://squishyfriendsuk.com/products/jungle-activity-packs-party-bags): Unleash the wild with our Jungle Activity Packs — the purr-fect solution for rainy days, special treats, or stress-free party bags!Watch little explorers dive into a roaring good time with jungle-themed activities that keep minds engaged and hands busy. From colouring to puzzles, each pack is packed with fun surprises that spark imagination and adventure.No prep needed. No mess to manage. Just open, play, and let the jungle come alive. Whether you're looking for a quick pick-me-up or the ultimate party favour, these activity packs deliver big smiles without the fuss.Let the adventure begin! Each bursting bag is packed with playful surprises—stickers, colouring books, temporary tattoos, bat and ball games, and loads more magical treats. No stress, no fuss, just pure joy and endless giggles.Whether it's a celebration or a grey-sky rescue mission, these activity packs are your secret  for keeping little ones happily entertained. (Contents may vary depending on stock.)
-  Updated: 2026-11-07T23:25:18Z
+  Updated: 2026-11-16T22:18:30Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
@@ -182,7 +287,7 @@
     Availability: Available
     Price: £7.49 GBP
 - [Mermaid Activity packs / Party Bags](https://squishyfriendsuk.com/products/mermaid-activity-packs-party-bags): Dive into a world of underwater magic with these enchanting Mermaid Activity Packs! Perfect for rainy days or party celebrations, each pack bursts with colourful fun and creative excitement. Packed with activities to keep little ones entertained for hours, these playful packs are ideal as party favours or surprise gifts. Transform any occasion into a splash-tastic adventure! Each bursting bag is packed with playful surprises—stickers, colouring books, temporary tattoos, bat and ball games, and loads more magical treats. No stress, no fuss, just pure joy and endless giggles.Whether it's a celebration or a grey-sky rescue mission, these activity packs are your secret  for keeping little ones happily entertained. (Contents may vary depending on stock.)
-  Updated: 2026-11-07T23:06:45Z
+  Updated: 2026-11-16T22:18:31Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
@@ -194,7 +299,7 @@
     Availability: Available
     Price: £7.49 GBP
 - [Unicorns Activity packs / Party Bags](https://squishyfriendsuk.com/products/unicorns-activity-packs-party-bags): Sprinkle some unicorn magic into your day with our enchanting Activity Packs! Perfect for rainy afternoons or hassle-free party bags that do the fun-planning for you. Just pop one in their hands and watch their faces light up.Each bursting bag is packed with playful surprises—stickers, colouring books, temporary tattoos, bat and ball games, and loads more magical treats. No stress, no fuss, just pure joy and endless giggles.Whether it's a celebration or a grey-sky rescue mission, these activity packs are your secret  for keeping little ones happily entertained. (Contents may vary depending on stock.)
-  Updated: 2026-11-07T23:25:21Z
+  Updated: 2026-11-16T22:18:31Z
   Vendor: squishy friends
   Product Type: 
   Availability: Available
@@ -206,7 +311,7 @@
     Availability: Available
     Price: £7.49 GBP
 - [Party Boxes/Bags (Just add Cake & sweets!)](https://squishyfriendsuk.com/products/party-boxes-just-add-cake): Make party planning easier with a ready-to-go party box packed with 10 toys and activities to keep little guests entertained. Everything comes together in one convenient box or bag—simply add the cake and sweets then get the celebration started. Contents may very due to stock levels!
-  Updated: 2026-11-13T23:44:18Z
+  Updated: 2026-11-16T22:18:31Z
   Vendor: Squishy Friends
   Product Type: 
   Availability: Available
@@ -218,7 +323,7 @@
     Availability: Available
     Price: £4.99 GBP
 - [SQUISHY FRIENDS GIFT CARD](https://squishyfriendsuk.com/products/squishy-friends-gift-card): Can't decide which Squishy Friend to bring home? No worries! Our gift cards let your loved ones pick their perfect friend. Whether they're after a cuddly cow, a squishy dinosaur, or something wildly wonderful, they'll love choosing their own fuzzy friend. The ultimate gift for squishy smile for all ages!
-  Updated: 2026-11-14T00:17:03Z
+  Updated: 2026-11-16T22:18:31Z
   Vendor: Squishy Friends
   Product Type: 
   Availability: Available
@@ -242,19 +347,19 @@
 ## Collections
 
 - [Stuff your own Squishy](https://squishyfriendsuk.com/collections/stuff-your-own-squishy)
-  Updated: 2026-11-14T01:04:34Z
+  Updated: 2026-11-22T02:28:23Z
   Total Products: 22
 - [mascots](https://squishyfriendsuk.com/collections/mascots)
-  Updated: 2026-11-14T01:04:34Z
+  Updated: 2026-11-16T22:19:14Z
   Total Products: 0
 - [Best Sellers](https://squishyfriendsuk.com/collections/best-sellers)
-  Updated: 2026-11-14T01:04:34Z
+  Updated: 2026-11-22T02:19:02Z
   Total Products: 5
 - [Themed Activity packs and Party Bags](https://squishyfriendsuk.com/collections/themed-activity-packs-and-party-bags)
-  Updated: 2026-11-14T01:04:34Z
+  Updated: 2026-11-16T22:19:14Z
   Total Products: 5
 - [Gift Cards](https://squishyfriendsuk.com/collections/gift-cards)
-  Updated: 2026-11-14T01:04:34Z
+  Updated: 2026-11-16T22:19:14Z
   Total Products: 0
 
 ## Blogs
