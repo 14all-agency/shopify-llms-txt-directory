@@ -6,12 +6,12 @@
 - Timezone: America/Santiago
 - Created At: 2018-09-20T10:45:07Z
 - Contact Email: contacto@kayaunite.com
-- Updated At: 2026-11-16T00:33:42.471Z
+- Updated At: 2026-11-24T00:35:39.524Z
 
 ## Products
 
 - [Sandalia Goma Eva Negro - Kaya Unite](https://kayaunite.com/products/sandalia-goma-eva-negro-1): Si la talla de tus Sandalias no es la correcta, no te preocupes: tienes 90 días para cambios garantizados en Kaya Unite.
-  Updated: 2026-11-12T07:35:41Z
+  Updated: 2026-11-20T14:57:43Z
   Vendor: Kaya Unite
   Product Type: Sandalia
   Availability: Available
@@ -32,7 +32,7 @@
     Availability: Not Available
     Price: 10.190,00 $ CLP
 - [Sandalia Goma Eva Camo - Kaya Unite](https://kayaunite.com/products/sandalia-goma-eva-camo): Si la talla de tus Sandalias no es la correcta, no te preocupes: tienes 90 días para cambios garantizados en Kaya Unite.
-  Updated: 2026-11-12T07:39:57Z
+  Updated: 2026-11-20T14:57:43Z
   Vendor: Kaya Unite
   Product Type: Sandalia
   Availability: Available
@@ -56,7 +56,7 @@
     Availability: Not Available
     Price: 10.190,00 $ CLP
 - [Sandalia Goma Eva Café - Kaya Unite](https://kayaunite.com/products/sandalia-goma-eva-cafe): Si la talla de tus Sandalias no es la correcta, no te preocupes: tienes 90 días para cambios garantizados en Kaya Unite.
-  Updated: 2026-11-12T07:42:19Z
+  Updated: 2026-11-20T14:57:43Z
   Vendor: Kaya Unite
   Product Type: Sandalia
   Availability: Available
@@ -80,7 +80,7 @@
     Availability: Available
     Price: 10.190,00 $ CLP
 - [0](https://kayaunite.com/products/flip-flop-flip-flop-black): 0
-  Updated: 2026-11-14T17:57:43Z
+  Updated: 2026-11-20T14:57:43Z
   Vendor: Kaya Unite
   Product Type: Sandalia
   Availability: Available
@@ -129,7 +129,7 @@
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/next1.jpg?v=1583522055
   Price: 3490,00 $ CLP
 - [0](https://kayaunite.com/products/hoodie-iso-camo): 0
-  Updated: 2026-10-09T07:43:56Z
+  Updated: 2026-11-20T14:57:46Z
   Vendor: Kaya Unite
   Product Type: Polerón
   Availability: Available
@@ -153,7 +153,7 @@
     Availability: Available
     Price: 17.490,00 $ CLP
 - [0](https://kayaunite.com/products/hoodie-lion-patch): 0
-  Updated: 2026-11-12T07:39:47Z
+  Updated: 2026-11-20T14:57:46Z
   Vendor: Kaya Unite
   Product Type: Polerón
   Availability: Available
@@ -195,7 +195,7 @@
     Availability: Not Available
     Price: 24.490,00 $ CLP
 - [0](https://kayaunite.com/products/tshirt-m-l-born-long-white): 0
-  Updated: 2026-10-08T11:43:03Z
+  Updated: 2026-11-20T14:57:46Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -219,7 +219,7 @@
     Availability: Available
     Price: 9990,00 $ CLP
 - [0](https://kayaunite.com/products/hoodie-classic-black-2-0): 0
-  Updated: 2026-11-12T07:37:48Z
+  Updated: 2026-11-20T14:57:46Z
   Vendor: Kaya Unite
   Product Type: Polerón
   Availability: Available
@@ -249,7 +249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/04_b0e99b54-7081-42c6-b24e-eeda8aa4ecb3.jpg?v=1594651067
     Price: 24.990,00 $ CLP
 - [0](https://kayaunite.com/products/hoodie-classic-blue-2-0): 0
-  Updated: 2026-11-12T07:40:28Z
+  Updated: 2026-11-20T14:57:46Z
   Vendor: Kaya Unite
   Product Type: Chiporro
   Availability: Available
@@ -279,7 +279,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/04_ebb86a88-753d-48f2-ab7c-09b0cde7a51b.jpg?v=1594651057
     Price: 24.990,00 $ CLP
 - [0](https://kayaunite.com/products/shirt-insulated-grey): 0
-  Updated: 2026-10-08T11:49:44Z
+  Updated: 2026-11-20T14:57:47Z
   Vendor: Kaya Unite
   Product Type: Chaqueta
   Availability: Available
@@ -303,7 +303,7 @@
     Availability: Not Available
     Price: 24.990,00 $ CLP
 - [0](https://kayaunite.com/products/hoodie-surazo-reverse-black): 0
-  Updated: 2026-10-09T07:36:32Z
+  Updated: 2026-11-20T14:57:47Z
   Vendor: Kaya Unite
   Product Type: Chaqueta
   Availability: Available
@@ -327,7 +327,7 @@
     Availability: Not Available
     Price: 29.990,00 $ CLP
 - [0](https://kayaunite.com/products/hoodie-surazo-reverse-brown): 0
-  Updated: 2026-11-12T07:34:26Z
+  Updated: 2026-11-20T14:57:47Z
   Vendor: Kaya Unite
   Product Type: Chaqueta
   Availability: Available
@@ -351,84 +351,84 @@
     Availability: Not Available
     Price: 29.990,00 $ CLP
 - [CAPS SHAKA](https://kayaunite.com/products/cap-shaka): Shaka&Peace Nuevo diseño para esta colección, cap curvo, con malla y correa ajustable. Tamaño único.
-  Updated: 2026-11-14T17:57:43Z
+  Updated: 2026-11-20T14:57:44Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/formato_0005_Capa127.jpg?v=1594651870
   Price: 14.990,00 $ CLP
 - [CAPS RASTA BLACK](https://kayaunite.com/products/caps-rasta-black): Rasta Vibes! nuevo diseño, esta vez un cap curvo, con malla y correa ajustable. Tamaño único.
-  Updated: 2026-11-14T17:57:43Z
+  Updated: 2026-11-20T14:57:44Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/formato_0003_Capa152.jpg?v=1594651861
   Price: 10.490,00 $ CLP
 - [CAPS STAMPED BLACK ALL](https://kayaunite.com/products/caps-earth-black-green): Nuevo diseño, inspirados en los colores otoñales. Con malla y correa ajustable, este podría pasar a ser tu nuevo favorito Kaya!
-  Updated: 2026-11-14T17:57:43Z
+  Updated: 2026-11-20T14:57:44Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/03_7c13a13e-85ad-46d4-a306-81b646bb1490.jpg?v=1594651845
   Price: 14.990,00 $ CLP
 - [CAPS LOGO NAVY](https://kayaunite.com/products/caps-logo-navy): Un nuevo cap de diseño favorito por nuestros #KayaLovers, esta vez de color azul, con correa ajustable. Talla única.
-  Updated: 2026-11-14T17:57:44Z
+  Updated: 2026-11-20T14:57:44Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/04_3ffd4224-faa6-4c01-86e9-9f4ac54d196a.jpg?v=1594651828
   Price: 14.990,00 $ CLP
 - [CAPS EARTH BLACK/GREEN](https://kayaunite.com/products/caps-earth-black-green-1): Otro de la nueva colección, un cap con malla inspirado en el verde que te quiero verde! Nuestro logo bordado de colores verde y amarillo. Con malla y correa ajustable, tamaño único.
-  Updated: 2026-11-14T17:57:44Z
+  Updated: 2026-11-20T14:57:45Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/formato_0000_Capa176.jpg?v=1594651803
   Price: 10.490,00 $ CLP
 - [Gorro Bucket Algodón Camo - Kaya Unite](https://kayaunite.com/products/gorro-bucket-algodon-camo): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Jockey. Tú decides cómo y cuándo tener tu accesorio Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-14T17:57:44Z
+  Updated: 2026-11-20T14:57:45Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/03_32f516cf-240f-42a2-bb2a-a12c56530038.jpg?v=1608090418
   Price: 15.990,00 $ CLP
 - [Bucket Classic Black S/M](https://kayaunite.com/products/bucket-classic-black-s-m-m21s): Bucket Kaya! ☀️ Este nuevo gorro #Unisex es nuestra última creación, ala corta, de nuestra línea clásica y con tratamiento en tela que le da un toque envejecido. 🔥 Hay dos tallas disponibles de este nuevo #Bucket S/M y L/XL Composición: 100% algodón
-  Updated: 2026-10-09T07:32:02Z
+  Updated: 2026-11-20T14:57:45Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/03_aa8282e1-ee09-4514-bd6d-60ecd40aa001.jpg?v=1608091622
   Price: 11.890,00 $ CLP
 - [Bucket Classic Olive S/M](https://kayaunite.com/products/bucket-classic-olive-s-m-m21s): Bucket Kaya! ☀️ Lo prometido es deuda, llegaron nuevos diseños de Bucket que tanto esperabas...😏 Este nuevo bucket #Unisex es nuestra última creación, ala corta, de nuestra línea clásica y disponible en 3 colores: Celeste, Rosado, Crema, Verde Oliva y Naranjo. 🔥 Hay dos tallas disponibles de este nuevo #Bucket S/M y L/XL Composición: 100% algodón
-  Updated: 2026-10-09T07:32:01Z
+  Updated: 2026-11-20T14:57:45Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/03_9757d986-5961-4656-ab9b-3d43d4de6917.jpg?v=1608091176
   Price: 11.890,00 $ CLP
 - [Gorro Bucket Algodón Classic - Kaya Unite](https://kayaunite.com/products/gorro-bucket-algodon-classic): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Jockey. Tú decides cómo y cuándo tener tu accesorio Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-14T17:57:44Z
+  Updated: 2026-11-20T14:57:46Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/03_ee7cbb78-a0b2-4f35-abfb-c398150f5fe9.jpg?v=1608089846
   Price: 11.890,00 $ CLP
 - [Bucket Classic Rose S/M](https://kayaunite.com/products/bucket-classic-rose-s-m-m21s): Bucket Kaya! ☀️ Lo prometido es deuda, llegaron nuevos diseños de Bucket que tanto esperabas...😏 Este nuevo bucket #Unisex es nuestra última creación, ala corta, de nuestra línea clásica y disponible en 3 colores: Celeste, Rosado, Crema, Verde Oliva y Naranjo. 🔥 Hay dos tallas disponibles de este nuevo #Bucket S/M y L/XL Composición: 100% algodón
-  Updated: 2026-10-09T07:32:02Z
+  Updated: 2026-11-20T14:57:46Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/03_c00bfb6c-6f1d-4083-a910-5de0a2ee2820.jpg?v=1608089096
   Price: 11.890,00 $ CLP
 - [Bucket Jungle Plum S/M](https://kayaunite.com/products/bucket-jungle-plum-s-m-m21s): Bucket Kaya! ☀️ Este nuevo bucket #Unisex es nuestra última creación, parte nuestra línea #FullPrint, inspirado en los viajes a las bosques tupidos del sur. 🔥 Hay dos tallas disponibles de este nuevo #Bucket S/M y L/XL Composición: 100% algodón
-  Updated: 2026-11-14T17:57:45Z
+  Updated: 2026-11-20T14:57:46Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/03_d7463562-91aa-40dd-a840-792074135a26.jpg?v=1608089480
   Price: 13.990,00 $ CLP
 - [0](https://kayaunite.com/products/shirt-cotton-shirt-bordo-m21w): 0
-  Updated: 2026-11-12T07:39:18Z
+  Updated: 2026-11-20T14:57:47Z
   Vendor: Kaya Unite
   Product Type: Camisa
   Availability: Available
@@ -452,7 +452,7 @@
     Availability: Not Available
     Price: 17.490,00 $ CLP
 - [0](https://kayaunite.com/products/sherpa-full-zipp-brown-catechu-wood-m21w): 0
-  Updated: 2026-10-09T07:42:16Z
+  Updated: 2026-11-20T14:57:48Z
   Vendor: Kaya Unite
   Product Type: Chiporro
   Availability: Available
@@ -476,7 +476,7 @@
     Availability: Not Available
     Price: 29.990,00 $ CLP
 - [0](https://kayaunite.com/products/sherpa-half-zipp-graphite-m21w): 0
-  Updated: 2026-10-08T11:48:19Z
+  Updated: 2026-11-20T14:57:48Z
   Vendor: Kaya Unite
   Product Type: Chiporro
   Availability: Available
@@ -500,14 +500,14 @@
     Availability: Not Available
     Price: 29.990,00 $ CLP
 - [Bolsa Reutilizable 10 L Algodón - Kaya Unite](https://kayaunite.com/products/bolsa-reutilizable-10-l-algodon): EARTH IS CALLING! 🌎 En nuestro camino por la sustentabilidad y ayudar a nuestro planeta. Decimos #CHAOBOLSAS. En todas nuestras tiendas reemplazamos nuestras bolsas por estas joyitas reutilizables 100% algodón natural confeccionada en tela vegetal , cosida y libre de polímeros, las cuales podrás adquirir a costo o precio de fabricación. CARACTERÍSTICAS: Composición: 100% algodón natural. Cosida, libre de adhesivos o pegamento. Estampado por serigrafía en ambos lados. Reutilizables Biodegradables. Medidas: 39cm x 39cm x 19 cm de fuelle o base CONOCE MÁS DE NUESTRO PLAN DE ACCIÓN AQUÍ
-  Updated: 2026-10-09T07:32:01Z
+  Updated: 2026-11-20T14:57:48Z
   Vendor: Kaya Unite
   Product Type: Camisa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/BOLSA_FRONTAL.jpg?v=1632409117
   Price: 11.990,00 $ CLP
 - [Polera Corcovado Beige - Kaya Unite](https://kayaunite.com/products/polera-corcovado-beige): Polera Kaya Unite, inspirada en Volcán Corcovado, ubicado en la Región de Los Lagos, considerado como uno de los últimos rincones puros de nuestros planeta. Kaya Unite le rinde homenaje como recordatorio de la majestuosidad y belleza de nuestra tierra y la importancia de su cuidado.
-  Updated: 2026-10-26T17:49:07Z
+  Updated: 2026-11-20T14:57:53Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -531,42 +531,42 @@
     Availability: Not Available
     Price: 9990,00 $ CLP
 - [Calcetín Ofqui Blue - Kaya Unite](https://kayaunite.com/products/calcetin-ofqui-blue): Ofqui, ubicado en Aysen y sus imponentes bloques de hielo que cubren la Laguna de San Rafael, son la inspiración de estos calcetín orgánico Kaya Unite.
-  Updated: 2026-10-08T16:24:49Z
+  Updated: 2026-11-20T14:57:50Z
   Vendor: Kaya Unite
   Product Type: Calcetines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/Kaya_ecommerce_15-11-2021_-1004_f3a78ee1-d58c-4b45-b992-5b2c6f112b08.jpg?v=1640034140
   Price: 7990,00 $ CLP
 - [Calcetines Largos Diseño Cochamó Hombre Naranjo - Kaya Unite](https://kayaunite.com/products/calcetines-largos-diseno-cochamo-hombre-naranjo): ¡Kaya Unite con envío gratis por pedidos sobre $59.990! Combina y arma tus packs de Calcetines de Diseño y nosotros pagamos el despacho.
-  Updated: 2026-10-08T16:24:49Z
+  Updated: 2026-11-20T14:57:50Z
   Vendor: Kaya Unite
   Product Type: Calcetines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/Kaya_ecommerce_15-11-2021_-1004_073b7d15-9860-4935-b735-28ced4ef7087.jpg?v=1640092876
   Price: 7990,00 $ CLP
 - [Calcetines Largos Diseño Algodón High Hombre Mostaza - Kaya Unite](https://kayaunite.com/products/calcetines-largos-diseno-algodon-high-hombre-mostaza): ¡Kaya Unite con envío gratis por pedidos sobre $59.990! Combina y arma tus packs de Calcetines de Diseño y nosotros pagamos el despacho.
-  Updated: 2026-10-08T16:24:49Z
+  Updated: 2026-11-20T14:57:50Z
   Vendor: Kaya Unite
   Product Type: Calcetines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/Kaya_ecommerce_15-11-2021_-984_da85694d-1397-48cf-89d4-29456ccf52d2.jpg?v=1639496859
   Price: 7990,00 $ CLP
 - [Calcetines Largos Diseño Algodón Hommies Hombre Azul - Kaya Unite](https://kayaunite.com/products/calcetines-largos-diseno-algodon-hommies-hombre-azul): ¡Kaya Unite con envío gratis por pedidos sobre $59.990! Combina y arma tus packs de Calcetines de Diseño y nosotros pagamos el despacho.
-  Updated: 2026-10-08T16:24:49Z
+  Updated: 2026-11-20T14:57:50Z
   Vendor: Kaya Unite
   Product Type: Calcetines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/Kaya_ecommerce_15-11-2021_-991_9a2a8cf3-62e3-498b-8720-183200433144.jpg?v=1639497011
   Price: 7990,00 $ CLP
 - [Calcetines Largos Diseño Algodón Roots Hombre Negro - Kaya Unite](https://kayaunite.com/products/calcetines-largos-diseno-algodon-roots-hombre-negro): ¡Kaya Unite con envío gratis por pedidos sobre $59.990! Combina y arma tus packs de Calcetines de Diseño y nosotros pagamos el despacho.
-  Updated: 2026-10-08T16:24:49Z
+  Updated: 2026-11-20T14:57:50Z
   Vendor: Kaya Unite
   Product Type: Calcetines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/Kaya_ecommerce_15-11-2021_-984.jpg?v=1639496586
   Price: 7990,00 $ CLP
 - [Short Nylon Híbrido Multiuso Hombre Camel - Kaya Unite](https://kayaunite.com/products/short-nylon-hibrido-multiuso-hombre-camel): No importa dónde estés, tus Shorts de Lino llegan a tu puerta. Despachos a todo Chile con la seguridad y rapidez que buscas.
-  Updated: 2026-10-08T11:52:18Z
+  Updated: 2026-11-20T14:57:51Z
   Vendor: Kaya Unite
   Product Type: Short
   Availability: Available
@@ -590,7 +590,7 @@
     Availability: Not Available
     Price: 17.490,00 $ CLP
 - [Short Nylon Híbrido Multiuso Hombre Camo - Kaya Unite](https://kayaunite.com/products/short-nylon-hibrido-multiuso-hombre-camo): No importa dónde estés, tus Shorts de Lino llegan a tu puerta. Despachos a todo Chile con la seguridad y rapidez que buscas.
-  Updated: 2026-11-12T07:37:52Z
+  Updated: 2026-11-20T14:57:51Z
   Vendor: Kaya Unite
   Product Type: Short
   Availability: Available
@@ -614,21 +614,21 @@
     Availability: Not Available
     Price: 17.490,00 $ CLP
 - [Manta Nylon Picnic Indian Teal - Kaya Unite](https://kayaunite.com/products/manta-nylon-picnic-indian-teal): Como Empresa B, garantizamos un impacto positivo en cada Manta. Estilo y calidez consciente para tu hogar.
-  Updated: 2026-10-09T07:31:51Z
+  Updated: 2026-11-20T14:57:51Z
   Vendor: Kaya Unite
   Product Type: Manta
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/Kaya_ecommerce_15-11-2021_-1015.jpg?v=1644437509
   Price: 29.990,00 $ CLP
 - [Manta Nylon Picnic Indian Café - Kaya Unite](https://kayaunite.com/products/manta-nylon-picnic-indian-cafe): Como Empresa B, garantizamos un impacto positivo en cada Manta. Estilo y calidez consciente para tu hogar.
-  Updated: 2026-10-09T07:31:51Z
+  Updated: 2026-11-20T14:57:51Z
   Vendor: Kaya Unite
   Product Type: Manta
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/Kaya_ecommerce_15-11-2021_-1014.jpg?v=1729007958
   Price: 29.990,00 $ CLP
 - [Boxer Algodón  Hombre Azul - Kaya Unite](https://kayaunite.com/products/boxer-algodon--hombre-azul): BORN TO CHILL✌️ 🍃 Llegó a Kaya Unite, el verdadero compañero de relajo! Corte Holgado y cómodo para los días Chill en casa, playa, montaña y hasta en ocasiones especiales🔥. Relajados y livianos para una día a día más libre. TALLA: Nuestro modelo mide 1,86 y usa talla L. EL calce es relajado, compra tu talla de siempre, si tienes duda puedes usar nuestro Recomendador de tallas CARACTERÍSTICAS: Composición: 100% algodón. para evitar alergias y mantener respirabilidad. Calce relajado. Elastico en cintura Sin botones para mayor comodidad.
-  Updated: 2026-10-09T07:39:32Z
+  Updated: 2026-11-20T14:57:52Z
   Vendor: Kaya Unite
   Product Type: Boxer
   Availability: Available
@@ -646,79 +646,79 @@
     Availability: Available
     Price: 8990,00 $ CLP
 - [Alpargata Algodón Easy Rider Negro - Kaya Unite](https://kayaunite.com/products/alpargata-algodon-easy-rider-negro): Si la talla de tus Alpargatas no es la correcta, no te preocupes: tienes 90 días para cambios garantizados en Kaya Unite.
-  Updated: 2026-11-16T00:12:19Z
+  Updated: 2026-11-21T00:32:30Z
   Vendor: Kaya Unite
   Product Type: Alpargatas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/Kaya_ecommerce_18-2-2022_-0147.jpg?v=1699633563
   - [Negro / 39 / Equivale 37](https://kayaunite.com/products/alpargata-algodon-easy-rider-negro?variant=39643046903881)
     Availability: Available
-    Price: 14.990,00 $ CLP
+    Price: 24.990,00 $ CLP
   - [Negro / 40 / Equivale 38](https://kayaunite.com/products/alpargata-algodon-easy-rider-negro?variant=39643046936649)
     Availability: Available
-    Price: 14.990,00 $ CLP
+    Price: 24.990,00 $ CLP
   - [Negro / 41 / Equivale 39](https://kayaunite.com/products/alpargata-algodon-easy-rider-negro?variant=39643046969417)
     Availability: Available
-    Price: 14.990,00 $ CLP
+    Price: 24.990,00 $ CLP
   - [Negro / 42 / Equivale 40](https://kayaunite.com/products/alpargata-algodon-easy-rider-negro?variant=39643047002185)
     Availability: Available
-    Price: 14.990,00 $ CLP
+    Price: 24.990,00 $ CLP
   - [Negro / 43 / Equivale 42](https://kayaunite.com/products/alpargata-algodon-easy-rider-negro?variant=39643047034953)
     Availability: Available
-    Price: 14.990,00 $ CLP
+    Price: 24.990,00 $ CLP
   - [Negro / 44 / Equivale 43](https://kayaunite.com/products/alpargata-algodon-easy-rider-negro?variant=39643047067721)
     Availability: Not Available
-    Price: 14.990,00 $ CLP
+    Price: 24.990,00 $ CLP
 - [Alpargata Algodón Easy Rider Gris - Kaya Unite](https://kayaunite.com/products/alpargata-algodon-easy-rider-gris): Si la talla de tus Alpargatas no es la correcta, no te preocupes: tienes 90 días para cambios garantizados en Kaya Unite.
-  Updated: 2026-11-15T00:36:42Z
+  Updated: 2026-11-20T21:39:47Z
   Vendor: Kaya Unite
   Product Type: Alpargatas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/Kaya_ecommerce_18-2-2022_-0159.jpg?v=1699633506
   - [Gris / 39 / Equivale 37](https://kayaunite.com/products/alpargata-algodon-easy-rider-gris?variant=39643047100489)
     Availability: Available
-    Price: 14.990,00 $ CLP
+    Price: 24.990,00 $ CLP
   - [Gris / 40 / Equivale 38](https://kayaunite.com/products/alpargata-algodon-easy-rider-gris?variant=39643047133257)
     Availability: Available
-    Price: 14.990,00 $ CLP
+    Price: 24.990,00 $ CLP
   - [Gris / 41 / Equivale 39](https://kayaunite.com/products/alpargata-algodon-easy-rider-gris?variant=39643047166025)
     Availability: Available
-    Price: 14.990,00 $ CLP
+    Price: 24.990,00 $ CLP
   - [Gris / 42 / Equivale 40](https://kayaunite.com/products/alpargata-algodon-easy-rider-gris?variant=39643047198793)
     Availability: Available
-    Price: 14.990,00 $ CLP
+    Price: 24.990,00 $ CLP
   - [Gris / 43 / Equivale 41](https://kayaunite.com/products/alpargata-algodon-easy-rider-gris?variant=39643047231561)
     Availability: Not Available
-    Price: 14.990,00 $ CLP
+    Price: 24.990,00 $ CLP
   - [Gris / 44 / Equivale 42](https://kayaunite.com/products/alpargata-algodon-easy-rider-gris?variant=39643047264329)
     Availability: Not Available
-    Price: 14.990,00 $ CLP
+    Price: 24.990,00 $ CLP
 - [Alpargata Algodón Easy Rider Beige - Kaya Unite](https://kayaunite.com/products/alpargata-algodon-easy-rider-beige): Si la talla de tus Alpargatas no es la correcta, no te preocupes: tienes 90 días para cambios garantizados en Kaya Unite.
-  Updated: 2026-11-16T00:12:19Z
+  Updated: 2026-11-20T21:22:10Z
   Vendor: Kaya Unite
   Product Type: Alpargatas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/Kaya_ecommerce_18-2-2022_-0116.jpg?v=1699633518
   - [Beige / 39 / Equivale 37](https://kayaunite.com/products/alpargata-algodon-easy-rider-beige?variant=39643047297097)
     Availability: Available
-    Price: 14.990,00 $ CLP
+    Price: 24.990,00 $ CLP
   - [Beige / 40 / Equivale 38](https://kayaunite.com/products/alpargata-algodon-easy-rider-beige?variant=39643047329865)
     Availability: Available
-    Price: 14.990,00 $ CLP
+    Price: 24.990,00 $ CLP
   - [Beige / 41 / Equivale 39](https://kayaunite.com/products/alpargata-algodon-easy-rider-beige?variant=39643047362633)
     Availability: Available
-    Price: 14.990,00 $ CLP
+    Price: 24.990,00 $ CLP
   - [Beige / 42 / Equivale 40](https://kayaunite.com/products/alpargata-algodon-easy-rider-beige?variant=39643047395401)
     Availability: Available
-    Price: 14.990,00 $ CLP
+    Price: 24.990,00 $ CLP
   - [Beige / 43 / Equivale 41](https://kayaunite.com/products/alpargata-algodon-easy-rider-beige?variant=39643047428169)
-    Availability: Available
-    Price: 14.990,00 $ CLP
+    Availability: Not Available
+    Price: 24.990,00 $ CLP
   - [Beige / 44 / Equivale 42](https://kayaunite.com/products/alpargata-algodon-easy-rider-beige?variant=39643047460937)
     Availability: Not Available
-    Price: 14.990,00 $ CLP
+    Price: 24.990,00 $ CLP
 - [T-Shirt Loop Black - Kaya Unite](https://kayaunite.com/products/t-shirt-loop-black): 0
-  Updated: 2026-11-12T07:33:51Z
+  Updated: 2026-11-20T14:57:52Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -741,8 +741,31 @@
   - [NEGRO / XXL](https://kayaunite.com/products/t-shirt-loop-black?variant=39654423625801)
     Availability: Not Available
     Price: 9990,00 $ CLP
+- [Polerón Con Cierre Algodón Blank Hombre Camel - Kaya Unite](https://kayaunite.com/products/poleron-con-cierre-algodon-blank-hombre-camel): No importa dónde estés, tu Polerón con Cierre llega a tu puerta. Despachos a todo Chile con la seguridad y rapidez que buscas.
+  Updated: 2026-11-16T20:29:14Z
+  Vendor: Kaya Unite
+  Product Type: Polerón
+  Availability: Available
+  - [L](https://kayaunite.com/products/poleron-con-cierre-algodon-blank-hombre-camel?variant=39719851065417)
+    Availability: Not Available
+    Price: 17.990,00 $ CLP
+  - [M](https://kayaunite.com/products/poleron-con-cierre-algodon-blank-hombre-camel?variant=39719851098185)
+    Availability: Available
+    Price: 17.990,00 $ CLP
+  - [S](https://kayaunite.com/products/poleron-con-cierre-algodon-blank-hombre-camel?variant=39719851130953)
+    Availability: Available
+    Price: 17.990,00 $ CLP
+  - [XL](https://kayaunite.com/products/poleron-con-cierre-algodon-blank-hombre-camel?variant=39719851163721)
+    Availability: Not Available
+    Price: 17.990,00 $ CLP
+  - [XS](https://kayaunite.com/products/poleron-con-cierre-algodon-blank-hombre-camel?variant=39719851196489)
+    Availability: Not Available
+    Price: 17.990,00 $ CLP
+  - [XXL](https://kayaunite.com/products/poleron-con-cierre-algodon-blank-hombre-camel?variant=39719851229257)
+    Availability: Not Available
+    Price: 17.990,00 $ CLP
 - [Polerón Crewneck Groovy Coral - Kaya Unite](https://kayaunite.com/products/poleron-crewneck-groovy-coral): Hemos creado este polerón Kaya Unite de corte clásico, cuello redondo y calce relajado. Estampado en la espalda y estampado frontal a altura del pecho. Este clásico jersey de cuello redondo viene con su propio bolsillo secreto, para que puedas esconder tu esencias de ojos indiscretas.
-  Updated: 2026-11-12T07:40:10Z
+  Updated: 2026-11-20T14:57:48Z
   Vendor: Kaya Unite
   Product Type: Polerón
   Availability: Available
@@ -766,7 +789,7 @@
     Availability: Not Available
     Price: 19.990,00 $ CLP
 - [Polerón Crewneck Groovy Verde - Kaya Unite](https://kayaunite.com/products/poleron-crewneck-groovy-verde): Hemos creado este polerón Kaya Unite de corte clásico, cuello redondo y calce relajado. Estampado en la espalda y estampado frontal a altura del pecho.Este clásico jersey de cuello redondo viene con su propio bolsillo secreto, para que puedas esconder tu esencias de ojos indiscretas.
-  Updated: 2026-11-14T17:57:45Z
+  Updated: 2026-11-20T14:57:50Z
   Vendor: Kaya Unite
   Product Type: Polerón
   Availability: Available
@@ -790,7 +813,7 @@
     Availability: Available
     Price: 19.990,00 $ CLP
 - [Polerón Crewneck Groovy Celeste - Kaya Unite](https://kayaunite.com/products/poleron-crewneck-groovy-celeste): Hemos creado este polerón de corte clásico, cuello redondo y calce relajado. Estampado en la espalda y estampado frontal a altura del pecho. Este clásico jersey de cuello redondo viene con su propio bolsillo secreto, para que puedas esconder tu esencias de ojos indiscretas.
-  Updated: 2026-11-12T07:41:37Z
+  Updated: 2026-11-20T14:57:49Z
   Vendor: Kaya Unite
   Product Type: Polerón
   Availability: Available
@@ -814,7 +837,7 @@
     Availability: Available
     Price: 19.990,00 $ CLP
 - [Buzo Algodón Hombre Negro - Kaya Unite](https://kayaunite.com/products/buzo-algodon-hombre-negro): ¡Viste Kaya Unite con envío gratis! Compra tu Buzo y por pedidos sobre $59.990, nosotros pagamos el despacho.
-  Updated: 2026-11-14T17:57:46Z
+  Updated: 2026-11-20T14:57:49Z
   Vendor: Kaya Unite
   Product Type: Buzo
   Availability: Available
@@ -838,7 +861,7 @@
     Availability: Not Available
     Price: 13.990,00 $ CLP
 - [Chaqueta Surazo Puff Burdeo - Kaya United](https://kayaunite.com/products/chaqueta-surazo-puff-burdeo): Regresa reinventada nuestra chaqueta insulada Surazo PUFF Kaya Unite. Este se reinventa con un diseño más casual y holgado para acompañarte en las tardes citadinas o la ida a playa. Cómoda, apañadora y resistente. Su tela de posee una membrana que impide el paso del viento y tecnología DWR.
-  Updated: 2026-10-08T11:48:51Z
+  Updated: 2026-11-20T14:57:49Z
   Vendor: Kaya Unite
   Product Type: Chaqueta
   Availability: Available
@@ -862,7 +885,7 @@
     Availability: Not Available
     Price: 39.990,00 $ CLP
 - [Buzo Jogger Nylon Hombre Camo - Kaya Unite](https://kayaunite.com/products/buzo-jogger-nylon-hombre-camo): ¡Viste Kaya Unite con envío gratis! Compra tu Buzo y por pedidos sobre $59.990, nosotros pagamos el despacho.
-  Updated: 2026-11-12T07:38:27Z
+  Updated: 2026-11-20T14:57:49Z
   Vendor: Kaya Unite
   Product Type: Pantalones
   Availability: Available
@@ -904,35 +927,35 @@
     Availability: Not Available
     Price: 22.490,00 $ CLP
 - [Calcetines Largos Diseño Algodón 420 Hombre Beige - Kaya Unite](https://kayaunite.com/products/calcetines-largos-diseno-algodon-420-hombre-beige): ¡Kaya Unite con envío gratis por pedidos sobre $59.990! Combina y arma tus packs de Calcetines de Diseño y nosotros pagamos el despacho.
-  Updated: 2026-10-08T16:24:49Z
+  Updated: 2026-11-20T14:57:50Z
   Vendor: Kaya Unite
   Product Type: Calcetines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/Kaya_ecommerce_julio_0041_DSC_4292.jpg?v=1660665332
   Price: 7990,00 $ CLP
 - [Calcetines Largos Diseño Bamboo Hombre Negro - Kaya Unite](https://kayaunite.com/products/calcetines-largos-diseno-bamboo-hombre-negro): Viste con propósito desde los pies. Como Empresa B, garantizamos impacto positivo en cada par de Calcetines de Bamboo.
-  Updated: 2026-10-08T16:24:49Z
+  Updated: 2026-11-20T14:57:59Z
   Vendor: Kaya Unite
   Product Type: Calcetines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/Kaya_ecommerce_julio_0033_DSC_4308.jpg?v=1676222236
   Price: 7990,00 $ CLP
 - [Calcetines Largos Diseño Bamboo Hombre Ladrillo - Kaya Unite](https://kayaunite.com/products/calcetines-largos-diseno-bamboo-hombre-ladrillo): Viste con propósito desde los pies. Como Empresa B, garantizamos impacto positivo en cada par de Calcetines de Bamboo.
-  Updated: 2026-11-12T07:33:32Z
+  Updated: 2026-11-22T02:12:18Z
   Vendor: Kaya Unite
   Product Type: Calcetines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/Kaya_ecommerce_julio_0024_DSC_4317.jpg?v=1676221842
   Price: 7990,00 $ CLP
 - [Calcetines Largos Diseño Bamboo Rasta Negro - Kaya Unite](https://kayaunite.com/products/calcetines-largos-diseno-bamboo-rasta-hombre-negro): Viste con propósito desde los pies. Como Empresa B, garantizamos impacto positivo en cada par de Calcetines de Bamboo.
-  Updated: 2026-10-08T16:24:50Z
+  Updated: 2026-11-20T14:57:59Z
   Vendor: Kaya Unite
   Product Type: Calcetines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/files/Kaya_ecommerce_julio_0001_DSC_4346.jpg?v=1689956557
   Price: 7990,00 $ CLP
 - [Calcetines Largos Diseño Bamboo Hombre Azul - Kaya Unite](https://kayaunite.com/products/calcetines-largos-diseno-bamboo-hombre-azul): Viste con propósito desde los pies. Como Empresa B, garantizamos impacto positivo en cada par de Calcetines de Bamboo.
-  Updated: 2026-10-08T16:24:50Z
+  Updated: 2026-11-20T14:57:59Z
   Vendor: Kaya Unite
   Product Type: Calcetines
   Availability: Available
@@ -953,7 +976,7 @@
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/files/Kaya_ecommerce_julio_0028_DSC_4313.jpg?v=1702657485
   Price: 7990,00 $ CLP
 - [Polerón Con Cierre Algodón Logo Hombre Crema - Kaya Unite](https://kayaunite.com/products/poleron-con-cierre-algodon-logo-hombre-crema): No importa dónde estés, tu Polerón con Cierre llega a tu puerta. Despachos a todo Chile con la seguridad y rapidez que buscas.
-  Updated: 2026-11-15T01:18:37Z
+  Updated: 2026-11-20T18:26:06Z
   Vendor: Kaya Unite
   Product Type: Polerón
   Availability: Available
@@ -977,7 +1000,7 @@
     Availability: Available
     Price: 22.490,00 $ CLP
 - [Camisa Diseño Manga Corta Rayón Aloe Hombre Sand - Kaya Unite](https://kayaunite.com/products/camisa-diseno-manga-corta-rayon-aloe-hombre-sand): Disfruta el confort de la Camisa Dull Diseño. Disfruta envío gratis desde $59.990, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-10-09T15:07:21Z
+  Updated: 2026-11-20T14:58:00Z
   Vendor: Kaya Unite
   Product Type: Guayabera
   Availability: Available
@@ -1001,7 +1024,7 @@
     Availability: Not Available
     Price: 18.490,00 $ CLP
 - [Camisa Diseño Manga Corta Rayón Drip Hombre Lilac - Kaya Unite](https://kayaunite.com/products/camisa-diseno-manga-corta-rayon-drip-hombre-lilac): Disfruta el confort de la Camisa Dull Diseño. Disfruta envío gratis desde $59.990, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-11-12T07:42:32Z
+  Updated: 2026-11-23T01:34:31Z
   Vendor: Kaya Unite
   Product Type: Guayabera
   Availability: Available
@@ -1025,7 +1048,7 @@
     Availability: Available
     Price: 18.490,00 $ CLP
 - [Camisa Diseño Manga Corta Rayón Drip Hombre Peach - Kaya Unite](https://kayaunite.com/products/camisa-diseno-manga-corta-rayon-drip-hombre-peach): Disfruta el confort de la Camisa Dull Diseño. Disfruta envío gratis desde $59.990, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-10-09T15:07:22Z
+  Updated: 2026-11-23T01:34:31Z
   Vendor: Kaya Unite
   Product Type: Guayabera
   Availability: Available
@@ -1049,7 +1072,7 @@
     Availability: Not Available
     Price: 18.490,00 $ CLP
 - [Camisa Diseño Manga Corta Rayón Hazy Hombre Orange - Kaya Unite](https://kayaunite.com/products/camisa-diseno-manga-corta-rayon-hazy-hombre-orange): Contáctanos y recibe atención personalizada sobre tu Camisa Manga Corta. Resolvemos tus dudas sobre tallas, materiales y despachos.
-  Updated: 2026-11-12T07:40:22Z
+  Updated: 2026-11-23T16:21:10Z
   Vendor: Kaya Unite
   Product Type: Guayabera
   Availability: Available
@@ -1073,7 +1096,7 @@
     Availability: Available
     Price: 18.490,00 $ CLP
 - [Camisa Diseño Manga Corta Rayón Moody Hombre Navy - Kaya Unite](https://kayaunite.com/products/camisa-diseno-manga-corta-rayon-moody-hombre-navy): Contáctanos y recibe atención personalizada sobre tu Camisa Manga Corta. Resolvemos tus dudas sobre tallas, materiales y despachos.
-  Updated: 2026-10-09T07:36:56Z
+  Updated: 2026-11-23T01:34:28Z
   Vendor: Kaya Unite
   Product Type: Guayabera
   Availability: Available
@@ -1097,7 +1120,7 @@
     Availability: Not Available
     Price: 18.490,00 $ CLP
 - [Guayabera Traveler Gris - Kaya Unite](https://kayaunite.com/products/guayabera-traveler-gris): Guayabera full stamp de calce relajado y con toda la frescura y comodidad que mereces. Con el mejor estilo Kaya, te invitamos a unirte en la búsqueda por el balance en nuestra vida y con la naturaleza.
-  Updated: 2026-10-09T15:07:19Z
+  Updated: 2026-11-20T14:58:00Z
   Vendor: Kaya Unite
   Product Type: Guayabera
   Availability: Available
@@ -1145,7 +1168,7 @@
     Availability: Available
     Price: 18.490,00 $ CLP
 - [Camisa Clásica Manga Corta Algodón Solid Hombre Verde - Kaya Unite](https://kayaunite.com/products/camisa-clasica-manga-corta-algodon-solid-hombre-verde): No importa dónde estés, tu Camisa Clásica llega a tu puerta. Despachos a todo Chile con la seguridad y rapidez que buscas.
-  Updated: 2026-11-12T07:31:37Z
+  Updated: 2026-11-22T02:12:23Z
   Vendor: Kaya Unite
   Product Type: Camisa
   Availability: Available
@@ -1169,7 +1192,7 @@
     Availability: Not Available
     Price: 18.490,00 $ CLP
 - [Camisa Clásica Manga Larga Algodón Solid Hombre Navy - Kaya Unite](https://kayaunite.com/products/camisa-clasica-manga-larga-algodon-solid-hombre-navy): Si la talla de tu Camisa Manga Larga no es la correcta, no te preocupes: tienes 90 días para cambios garantizados.
-  Updated: 2026-10-08T11:49:54Z
+  Updated: 2026-11-20T14:58:01Z
   Vendor: Kaya Unite
   Product Type: Camisa
   Availability: Available
@@ -1193,7 +1216,7 @@
     Availability: Available
     Price: 18.490,00 $ CLP
 - [Camisa Clásica Manga Corta Viscosa Solid Hombre Azul Oscuro - Kaya Unite](https://kayaunite.com/products/camisa-clasica-manga-corta-viscosa-solid-hombre-azul-oscuro): ¿Vives en Santiago? Recibe tu Camisa de Viscosa en 24 horas hábiles dentro de la RM. Entrega rápida para que no esperes más.
-  Updated: 2026-11-12T07:31:37Z
+  Updated: 2026-11-22T02:12:19Z
   Vendor: Kaya Unite
   Product Type: Camisa
   Availability: Available
@@ -1217,7 +1240,7 @@
     Availability: Available
     Price: 18.490,00 $ CLP
 - [Polera Diseño Algodón Vibes Hombre Negra - Kaya Unite](https://kayaunite.com/products/polera-diseno-algodon-vibes-hombre-negra): Kaya Unite: Moda para Hombre. Disfruta envío gratis desde $59.990 en tu Polera con Diseño, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-11-15T18:08:36Z
+  Updated: 2026-11-23T22:41:53Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -1241,7 +1264,7 @@
     Availability: Available
     Price: 12.990,00 $ CLP
 - [Polera Diseño Algodón Chill Hombre Burdeo - Kaya Unite](https://kayaunite.com/products/polera-diseno-algodon-chill-hombre-burdeo): Kaya Unite: Moda para Hombre. Disfruta envío gratis desde $59.990 en tu Polera con Diseño, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-11-14T17:57:47Z
+  Updated: 2026-11-22T02:12:17Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -1265,7 +1288,7 @@
     Availability: Not Available
     Price: 12.990,00 $ CLP
 - [Polera Diseño Algodón Chill Hombre Verde - Kaya Unite](https://kayaunite.com/products/polera-diseno-algodon-chill-hombre-verde): Kaya Unite: Moda para Hombre. Disfruta envío gratis desde $59.990 en tu Polera con Diseño, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-11-14T17:57:47Z
+  Updated: 2026-11-22T02:12:15Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -1289,7 +1312,7 @@
     Availability: Not Available
     Price: 9990,00 $ CLP
 - [Polera Clásica Algodón Classy Hombre Taupe - Kaya Unite](https://kayaunite.com/products/polera-clasica-algodon-classy-hombre-taupe): ¡Viste Kaya Unite con envío gratis! Compra tu Polera Clásica de hombre y por pedidos sobre $59.990, nosotros pagamos el despacho.
-  Updated: 2026-11-12T07:39:46Z
+  Updated: 2026-11-20T14:57:53Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -1313,7 +1336,7 @@
     Availability: Not Available
     Price: 9990,00 $ CLP
 - [Polera Manga Larga Clásica Algodón Daily Hombre Crema - Kaya Unite](https://kayaunite.com/products/polera-manga-larga-clasica-algodon-daily-hombre-crema): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Polera Manga Larga. Tú decides cómo y cuándo tener tu nuevo outfit. ¡Cómpralo ya!
-  Updated: 2026-11-14T17:57:47Z
+  Updated: 2026-11-23T16:09:47Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -1337,7 +1360,7 @@
     Availability: Available
     Price: 12.990,00 $ CLP
 - [Polera Diseño Algodón Chill Hombre Crema - Kaya Unite](https://kayaunite.com/products/polera-diseno-algodon-chill-hombre-crema): Kaya Unite: Moda para Hombre. Disfruta envío gratis desde $59.990 en tu Polera con Diseño, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-11-14T17:57:47Z
+  Updated: 2026-11-22T02:12:25Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -1361,7 +1384,7 @@
     Availability: Not Available
     Price: 9990,00 $ CLP
 - [Polera Surf Crema - Kaya Unite](https://kayaunite.com/products/polera-surf-crema): Esta polera de clásico corte Kaya Unite, elaborada en 100% Algodón y con nuestro especial tratamiento Antipeeling, para no formar motitas, es una de las clásicas que pasarán a ser de tus favoritas, no te la querrás quitar de encima!
-  Updated: 2026-10-09T15:07:19Z
+  Updated: 2026-11-20T14:57:53Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -1385,7 +1408,7 @@
     Availability: Not Available
     Price: 9990,00 $ CLP
 - [Polera Diseño Algodón Jazz Hombre Negra - Kaya Unite](https://kayaunite.com/products/polera-diseno-algodon-jazz-hombre-negra): Kaya Unite: Moda para Hombre. Disfruta envío gratis desde $59.990 en tu Polera con Diseño, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-10-09T07:38:08Z
+  Updated: 2026-11-22T02:12:19Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -1409,7 +1432,7 @@
     Availability: Not Available
     Price: 9990,00 $ CLP
 - [Polera Diseño Algodón Prix Hombre Lila - Kaya Unite](https://kayaunite.com/products/polera-diseno-algodon-prix-hombre-lila): Kaya Unite: Moda para Hombre. Disfruta envío gratis desde $59.990 en tu Polera con Diseño, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-11-12T07:34:27Z
+  Updated: 2026-11-23T01:34:31Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -1433,7 +1456,7 @@
     Availability: Not Available
     Price: 9990,00 $ CLP
 - [Polera Diseño Algodón Flavor Hombre Rosa Claro - Kaya Unite](https://kayaunite.com/products/polera-diseno-algodon-flavor-hombre-rosa-claro): Kaya Unite: Moda para Hombre. Disfruta envío gratis desde $59.990 en tu Polera con Diseño, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-10-09T07:38:09Z
+  Updated: 2026-11-22T02:12:19Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -1457,7 +1480,7 @@
     Availability: Not Available
     Price: 9990,00 $ CLP
 - [Polera Diseño Orgánica Bamboo Corcovado Hombre Beige - Kaya Unite](https://kayaunite.com/products/polera-diseno-organica-bamboo-corcovado-hombre-beige): Kaya Unite: Moda para Hombre. Disfruta envío gratis desde $59.990 en tu Polera con Diseño, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-11-12T07:42:12Z
+  Updated: 2026-11-21T13:27:50Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -1481,7 +1504,7 @@
     Availability: Available
     Price: 9990,00 $ CLP
 - [Polera 419 Rosada - Kaya Unite](https://kayaunite.com/products/polera-419-rosada): Esta polera de clásico corte Kaya Unite, elaborada en 100% Algodón y con nuestro especial tratamiento Antipeeling, para no formar motitas, es una de las clásicas que pasarán a ser de tus favoritas, no te la querrás quitar de encima!
-  Updated: 2026-11-14T17:57:47Z
+  Updated: 2026-11-23T01:34:28Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -1505,7 +1528,7 @@
     Availability: Not Available
     Price: 9990,00 $ CLP
 - [Polera Diseño Algodón Prix Hombre Tangarine - Kaya Unite](https://kayaunite.com/products/polera-diseno-algodon-prix-hombre-tangarine): Kaya Unite: Moda para Hombre. Disfruta envío gratis desde $59.990 en tu Polera con Diseño, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-11-14T17:57:48Z
+  Updated: 2026-11-22T02:12:18Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -1529,7 +1552,7 @@
     Availability: Not Available
     Price: 9990,00 $ CLP
 - [Polera Diseño Algodón Flavor Hombre Blanca - Kaya Unite](https://kayaunite.com/products/polera-diseno-algodon-flavor-hombre-blanca): Kaya Unite: Moda para Hombre. Disfruta envío gratis desde $59.990 en tu Polera con Diseño, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-10-09T07:38:13Z
+  Updated: 2026-11-22T02:12:25Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -1553,7 +1576,7 @@
     Availability: Not Available
     Price: 9990,00 $ CLP
 - [Traje de Baño Boardshort Nylon Solid Hombre Navy - Kaya Unite](https://kayaunite.com/products/traje-de-bano-boardshort-nylon-solid-hombre-navy): Compra tu Boardshort sin miedo en Kaya Unite. Si no te queda, cambia desde la comodidad de tu casa. Proceso simple y rápido.
-  Updated: 2026-10-09T15:07:21Z
+  Updated: 2026-11-20T14:57:56Z
   Vendor: Kaya Unite
   Product Type: Traje de Baño
   Availability: Available
@@ -1577,7 +1600,7 @@
     Availability: Not Available
     Price: 17.490,00 $ CLP
 - [Traje de Baño Boardshort Nylon Solid Hombre Celeste - Kaya Unite](https://kayaunite.com/products/traje-de-bano-boardshort-nylon-solid-hombre-celeste): Compra tu Boardshort sin miedo en Kaya Unite. Si no te queda, cambia desde la comodidad de tu casa. Proceso simple y rápido.
-  Updated: 2026-10-09T15:07:22Z
+  Updated: 2026-11-20T14:57:56Z
   Vendor: Kaya Unite
   Product Type: Traje de Baño
   Availability: Available
@@ -1601,7 +1624,7 @@
     Availability: Not Available
     Price: 17.490,00 $ CLP
 - [Traje de Baño Boardshort Aqua Negro - Kaya Unite](https://kayaunite.com/products/boardshort-aqua-negro): Traje de Baño #Boardshort diseño clásico, cómodo y relajado elaborado de en tejido 4 way strech, para brindarte comodidad al mas puro estilo Kaya Unite. Relajado compañero que te apañará sin duda a los mejores viajes de esta temporada.
-  Updated: 2026-10-09T15:07:22Z
+  Updated: 2026-11-20T14:57:55Z
   Vendor: Kaya Unite
   Product Type: Traje de Baño
   Availability: Available
@@ -1649,7 +1672,7 @@
     Availability: Not Available
     Price: 14.990,00 $ CLP
 - [Traje de Baño Short Volley Nylon Drop Hombre Verde - Kaya Unite](https://kayaunite.com/products/traje-de-bano-short-volley-nylon-drop-hombre-verde): ¡Viste tu Short Volley con envío gratis! Por pedidos sobre $59.990, nosotros pagamos el despacho. Estilo para el agua sin costos extra.
-  Updated: 2026-10-09T15:07:21Z
+  Updated: 2026-11-20T14:57:55Z
   Vendor: Kaya Unite
   Product Type: Traje de Baño
   Availability: Available
@@ -1673,7 +1696,7 @@
     Availability: Not Available
     Price: 14.990,00 $ CLP
 - [Traje de Baño Volley Morro Rosado - Kaya Unite](https://kayaunite.com/products/traje-de-bano-volley-morro-rosado): Traje de Baño #Volley clásico,  cómodo y relajado traje de baño elaborado de Algodón y Nylon, para brindarte comodidad y velocidad en su secado  al mejor estilo Kaya Unite.
-  Updated: 2026-11-12T07:38:08Z
+  Updated: 2026-11-20T14:57:55Z
   Vendor: Kaya Unite
   Product Type: Traje de Baño
   Availability: Available
@@ -1697,7 +1720,7 @@
     Availability: Not Available
     Price: 14.990,00 $ CLP
 - [Traje de Baño Short Volley Nylon Morro Hombre Azul - Kaya Unite](https://kayaunite.com/products/traje-de-bano-short-volley-nylon-morro-hombre-azul): ¡Viste tu Short Volley con envío gratis! Por pedidos sobre $59.990, nosotros pagamos el despacho. Estilo para el agua sin costos extra.
-  Updated: 2026-11-12T07:38:13Z
+  Updated: 2026-11-20T14:57:56Z
   Vendor: Kaya Unite
   Product Type: Traje de Baño
   Availability: Available
@@ -1721,31 +1744,31 @@
     Availability: Not Available
     Price: 14.990,00 $ CLP
 - [Traje de Baño Short Volley Nylon Solid Hombre Morado - Kaya Unite](https://kayaunite.com/products/traje-de-bano-short-volley-nylon-solid-hombre-morado): ¡Viste tu Short Volley con envío gratis! Por pedidos sobre $59.990, nosotros pagamos el despacho. Estilo para el agua sin costos extra.
-  Updated: 2026-11-12T07:38:08Z
+  Updated: 2026-11-22T15:03:29Z
   Vendor: Kaya Unite
   Product Type: Traje de Baño
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/IMG_2755.jpg?v=1664319576
   - [Lila / XS](https://kayaunite.com/products/traje-de-bano-short-volley-nylon-solid-hombre-morado?variant=40271310061641)
     Availability: Not Available
-    Price: 14.990,00 $ CLP
+    Price: 19.990,00 $ CLP
   - [Lila / S](https://kayaunite.com/products/traje-de-bano-short-volley-nylon-solid-hombre-morado?variant=40271309996105)
     Availability: Available
-    Price: 14.990,00 $ CLP
+    Price: 19.990,00 $ CLP
   - [Lila / M](https://kayaunite.com/products/traje-de-bano-short-volley-nylon-solid-hombre-morado?variant=40271309963337)
     Availability: Available
-    Price: 14.990,00 $ CLP
+    Price: 19.990,00 $ CLP
   - [Lila / L](https://kayaunite.com/products/traje-de-bano-short-volley-nylon-solid-hombre-morado?variant=40271309930569)
     Availability: Not Available
-    Price: 14.990,00 $ CLP
+    Price: 19.990,00 $ CLP
   - [Lila / XL](https://kayaunite.com/products/traje-de-bano-short-volley-nylon-solid-hombre-morado?variant=40271310028873)
     Availability: Available
-    Price: 14.990,00 $ CLP
+    Price: 19.990,00 $ CLP
   - [Lila / XXL](https://kayaunite.com/products/traje-de-bano-short-volley-nylon-solid-hombre-morado?variant=40271310094409)
     Availability: Not Available
-    Price: 14.990,00 $ CLP
+    Price: 19.990,00 $ CLP
 - [Traje de Baño Short Volley Nylon Moody Hombre Navy - Kaya Unite](https://kayaunite.com/products/traje-de-bano-short-volley-nylon-moody-hombre-navy): ¡Viste tu Short Volley con envío gratis! Por pedidos sobre $59.990, nosotros pagamos el despacho. Estilo para el agua sin costos extra.
-  Updated: 2026-10-08T11:52:05Z
+  Updated: 2026-11-22T14:55:31Z
   Vendor: Kaya Unite
   Product Type: Traje de Baño
   Availability: Available
@@ -1769,7 +1792,7 @@
     Availability: Not Available
     Price: 14.990,00 $ CLP
 - [Short Clásico Algodón Chino Solid Hombre Café - Kaya Unite](https://kayaunite.com/products/short-clasico-algodon-chino-solid-hombre-cafe): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Short. Tú decides cómo y cuándo tener tu outfit. ¡Cómpralo ya!
-  Updated: 2026-10-09T15:07:21Z
+  Updated: 2026-11-20T14:57:56Z
   Vendor: Kaya Unite
   Product Type: Short
   Availability: Available
@@ -1793,7 +1816,7 @@
     Availability: Not Available
     Price: 17.490,00 $ CLP
 - [Short Clásico Algodón Chino Acid Hombre Azul - Kaya Unite](https://kayaunite.com/products/short-clasico-algodon-chino-acid-hombre-azul): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Short. Tú decides cómo y cuándo tener tu outfit. ¡Cómpralo ya!
-  Updated: 2026-11-12T07:38:16Z
+  Updated: 2026-11-20T14:57:57Z
   Vendor: Kaya Unite
   Product Type: Short
   Availability: Available
@@ -1817,7 +1840,7 @@
     Availability: Not Available
     Price: 17.490,00 $ CLP
 - [Short Clásico Algodón Chino Aloe Hombre Negro - Kaya Unite](https://kayaunite.com/products/short-clasico-algodon-chino-aloe-hombre-negro): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Short. Tú decides cómo y cuándo tener tu outfit. ¡Cómpralo ya!
-  Updated: 2026-11-12T07:38:17Z
+  Updated: 2026-11-22T02:12:15Z
   Vendor: Kaya Unite
   Product Type: Short
   Availability: Available
@@ -1841,7 +1864,7 @@
     Availability: Not Available
     Price: 17.490,00 $ CLP
 - [Sandalia Goma Eva Negro - Kaya Unite](https://kayaunite.com/products/sandalia-goma-eva-negro-5): Si la talla de tus Sandalias no es la correcta, no te preocupes: tienes 90 días para cambios garantizados en Kaya Unite.
-  Updated: 2026-10-09T07:34:26Z
+  Updated: 2026-11-20T14:57:57Z
   Vendor: Kaya Unite
   Product Type: Sandalia
   Availability: Available
@@ -1865,7 +1888,7 @@
     Availability: Not Available
     Price: 11.990,00 $ CLP
 - [Sandalia Goma Eva Negro - Kaya Unite](https://kayaunite.com/products/sandalia-goma-eva-negro-4): Si la talla de tus Sandalias no es la correcta, no te preocupes: tienes 90 días para cambios garantizados en Kaya Unite.
-  Updated: 2026-10-27T18:10:20Z
+  Updated: 2026-11-20T14:57:57Z
   Vendor: Kaya Unite
   Product Type: Sandalia
   Availability: Available
@@ -1910,14 +1933,14 @@
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/IMG_3462.jpg?v=1671397058
   Price: 16.990,00 $ CLP
 - [Gorro Jockey Algodón Classic Chilling Azul - Kaya Unite](https://kayaunite.com/products/gorro-jockey-algodon-classic-chilling-azul): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Jockey. Tú decides cómo y cuándo tener tu accesorio Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-10-08T11:50:46Z
+  Updated: 2026-11-20T18:59:30Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/products/IMG_3453.jpg?v=1671397225
   Price: 16.990,00 $ CLP
 - [Polera Sin Mangas Algodón Classic Hombre Blanca - Kaya Unite](https://kayaunite.com/products/polera-sin-mangas-algodon-classic-hombre-blanca): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Polera Manga Larga. Tú decides cómo y cuándo tener tu nuevo outfit. ¡Cómpralo ya!
-  Updated: 2026-10-29T13:45:27Z
+  Updated: 2026-11-20T14:57:58Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -1941,7 +1964,7 @@
     Availability: Not Available
     Price: 9990,00 $ CLP
 - [Gorro Bucket Algodón Palms Negro - Kaya Unite](https://kayaunite.com/products/gorro-bucket-algodon-palms-negro): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Jockey. Tú decides cómo y cuándo tener tu accesorio Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-14T17:57:49Z
+  Updated: 2026-11-21T08:53:58Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
@@ -1953,7 +1976,7 @@
     Availability: Not Available
     Price: 19.190,00 $ CLP
 - [Gorro Bucket Algodón Morro Azul - Kaya Unite](https://kayaunite.com/products/gorro-bucket-algodon-morro-azul): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Jockey. Tú decides cómo y cuándo tener tu accesorio Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-14T17:57:49Z
+  Updated: 2026-11-21T08:53:58Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
@@ -1965,7 +1988,7 @@
     Availability: Available
     Price: 19.190,00 $ CLP
 - [Gorro Bucket Algodón Fauna Oliva - Kaya Unite](https://kayaunite.com/products/gorro-bucket-algodon-fauna-oliva): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Jockey. Tú decides cómo y cuándo tener tu accesorio Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-14T17:57:49Z
+  Updated: 2026-11-21T08:54:01Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
@@ -1977,7 +2000,7 @@
     Availability: Not Available
     Price: 19.190,00 $ CLP
 - [Gorro Bucket Algodón Logo Classics Beige - Kaya Unite](https://kayaunite.com/products/gorro-bucket-algodon-logo-classics-beige): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Jockey. Tú decides cómo y cuándo tener tu accesorio Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-14T17:57:49Z
+  Updated: 2026-11-21T08:53:57Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
@@ -1989,7 +2012,7 @@
     Availability: Not Available
     Price: 15.990,00 $ CLP
 - [Gorro Bucket Algodón Logo Classics Oliva - Kaya Unite](https://kayaunite.com/products/gorro-bucket-algodon-logo-classics-oliva): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Jockey. Tú decides cómo y cuándo tener tu accesorio Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-14T17:57:49Z
+  Updated: 2026-11-21T08:53:57Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
@@ -2001,7 +2024,7 @@
     Availability: Not Available
     Price: 15.990,00 $ CLP
 - [Gorro Bucket Algodón Logo Classics Aqua - Kaya Unite](https://kayaunite.com/products/gorro-bucket-algodon-logo-classics-aqua): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Jockey. Tú decides cómo y cuándo tener tu accesorio Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-14T17:57:50Z
+  Updated: 2026-11-21T08:53:57Z
   Vendor: Kaya Unite
   Product Type: Gorros
   Availability: Available
@@ -2025,21 +2048,21 @@
     Availability: Available
     Price: 15.990,00 $ CLP
 - [Mochila 3 Lt Algodón Chill Crudo - Kaya Unite](https://kayaunite.com/products/mochila-3-lt-algodon-chill-crudo): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Mochila Kaya Unite. Tú decides cómo y cuándo tenerla. ¡Cómprala ya!
-  Updated: 2026-10-08T11:53:37Z
+  Updated: 2026-11-22T18:52:19Z
   Vendor: Kaya Unite
   Product Type: Bolso
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/files/mochila1.jpg?v=1700492249
   Price: 5590,00 $ CLP
 - [Mochila 3 Lt Algodón Olas Crudo - Kaya Unite](https://kayaunite.com/products/mochila-3-lt-algodon-olas-crudo): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Mochila Kaya Unite. Tú decides cómo y cuándo tenerla. ¡Cómprala ya!
-  Updated: 2026-10-08T11:53:37Z
+  Updated: 2026-11-22T18:52:20Z
   Vendor: Kaya Unite
   Product Type: Bolso
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/files/mochila2.jpg?v=1700492265
   Price: 4190,00 $ CLP
 - [Polera Clásica Algodón Daily Hombre Blanca - Kaya Unite](https://kayaunite.com/products/polera-clasica-algodon-daily-hombre-blanca): ¡Viste Kaya Unite con envío gratis! Compra tu Polera Clásica de hombre y por pedidos sobre $59.990, nosotros pagamos el despacho.
-  Updated: 2026-10-09T15:07:19Z
+  Updated: 2026-11-20T14:58:10Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -2063,7 +2086,7 @@
     Availability: Available
     Price: 9990,00 $ CLP
 - [Polera Sin Mangas Algodón Aqua Hombre Blanca - Kaya Unite](https://kayaunite.com/products/polera-sin-mangas-algodon-aqua-hombre-blanca): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Polera Manga Larga. Tú decides cómo y cuándo tener tu nuevo outfit. ¡Cómpralo ya!
-  Updated: 2026-11-12T07:42:27Z
+  Updated: 2026-11-23T01:34:29Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -2087,7 +2110,7 @@
     Availability: Available
     Price: 9990,00 $ CLP
 - [Polera Sin Mangas Algodón Logo Hombre Pink - Kaya Unite](https://kayaunite.com/products/polera-sin-mangas-algodon-logo-hombre-pink): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Polera Manga Larga. Tú decides cómo y cuándo tener tu nuevo outfit. ¡Cómpralo ya!
-  Updated: 2026-11-12T21:00:22Z
+  Updated: 2026-11-22T02:12:21Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -2135,7 +2158,7 @@
     Availability: Not Available
     Price: 19.990,00 $ CLP
 - [Traje de Baño Short Volley Nylon Hazy Hombre Naranjo - Kaya Unite](https://kayaunite.com/products/traje-de-bano-short-volley-nylon-hazy-hombre-naranjo): ¡Viste tu Short Volley con envío gratis! Por pedidos sobre $59.990, nosotros pagamos el despacho. Estilo para el agua sin costos extra.
-  Updated: 2026-10-09T15:07:19Z
+  Updated: 2026-11-23T01:34:30Z
   Vendor: Kaya Unite
   Product Type: Traje de Baño
   Availability: Available
@@ -2159,7 +2182,7 @@
     Availability: Not Available
     Price: 14.990,00 $ CLP
 - [Traje de Baño Short Volley Nylon Traveler Hombre Rosa Palo - Kaya Unite](https://kayaunite.com/products/traje-de-bano-short-volley-nylon-traveler-hombre-rosa-palo): ¡Viste tu Short Volley con envío gratis! Por pedidos sobre $59.990, nosotros pagamos el despacho. Estilo para el agua sin costos extra.
-  Updated: 2026-11-12T07:38:17Z
+  Updated: 2026-11-22T14:55:32Z
   Vendor: Kaya Unite
   Product Type: Traje de Baño
   Availability: Available
@@ -2183,7 +2206,7 @@
     Availability: Not Available
     Price: 14.990,00 $ CLP
 - [Traje de Baño Volley Aqua Azul - Kaya Unite](https://kayaunite.com/products/traje-de-bano-volley-aqua-azul): Traje de Baño #Volley clásico,  cómodo y relajado traje de baño elaborado de Algodón y Nylon, para brindarte comodidad y velocidad en su secado  al mejor estilo Kaya Unite.
-  Updated: 2026-10-09T15:07:22Z
+  Updated: 2026-11-22T14:55:32Z
   Vendor: Kaya Unite
   Product Type: Traje de Baño
   Availability: Available
@@ -2207,7 +2230,7 @@
     Availability: Not Available
     Price: 14.990,00 $ CLP
 - [Traje de Baño Short Volley Nylon Beats Hombre Morado - Kaya Unite](https://kayaunite.com/products/traje-de-bano-short-volley-nylon-beats-hombre-morado): ¡Viste tu Short Volley con envío gratis! Por pedidos sobre $59.990, nosotros pagamos el despacho. Estilo para el agua sin costos extra.
-  Updated: 2026-10-09T15:07:22Z
+  Updated: 2026-11-22T14:55:34Z
   Vendor: Kaya Unite
   Product Type: Traje de Baño
   Availability: Available
@@ -2231,7 +2254,7 @@
     Availability: Not Available
     Price: 14.990,00 $ CLP
 - [Guayabera Garden Negra - Kaya Unite](https://kayaunite.com/products/guayabera-garden-negro): Guayabera full stamp de calce relajado y con toda la frescura y comodidad que mereces. Con el mejor estilo Kaya, te invitamos a unirte en la búsqueda por el balance en nuestra vida y con la naturaleza.
-  Updated: 2026-10-09T15:07:20Z
+  Updated: 2026-11-20T14:58:03Z
   Vendor: Kaya Unite
   Product Type: Guayabera
   Availability: Available
@@ -2255,7 +2278,7 @@
     Availability: Not Available
     Price: 18.490,00 $ CLP
 - [Camisa Diseño Manga Corta Rayón Bloom Hombre Pink - Kaya Unite](https://kayaunite.com/products/camisa-diseno-manga-corta-rayon-bloom-hombre-pink): Disfruta el confort de la Camisa Dull Diseño. Disfruta envío gratis desde $59.990, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-10-09T15:07:22Z
+  Updated: 2026-11-20T14:58:03Z
   Vendor: Kaya Unite
   Product Type: Guayabera
   Availability: Available
@@ -2279,7 +2302,7 @@
     Availability: Available
     Price: 18.490,00 $ CLP
 - [Camisa Diseño Manga Corta Rayón Jungle Hombre Peach - Kaya Unite](https://kayaunite.com/products/camisa-diseno-manga-corta-rayon-jungle-hombre-peach): Contáctanos y recibe atención personalizada sobre tu Camisa Manga Corta. Resolvemos tus dudas sobre tallas, materiales y despachos.
-  Updated: 2026-11-12T07:41:57Z
+  Updated: 2026-11-23T01:34:34Z
   Vendor: Kaya Unite
   Product Type: Guayabera
   Availability: Available
@@ -2303,7 +2326,7 @@
     Availability: Available
     Price: 18.490,00 $ CLP
 - [Camisa Diseño Manga Corta Rayón Slowlife Hombre Ocre - Kaya Unite](https://kayaunite.com/products/camisa-diseno-manga-corta-rayon-slowlife-hombre-ocre): Contáctanos y recibe atención personalizada sobre tu Camisa Manga Corta. Resolvemos tus dudas sobre tallas, materiales y despachos.
-  Updated: 2026-11-12T07:40:29Z
+  Updated: 2026-11-22T02:12:21Z
   Vendor: Kaya Unite
   Product Type: Guayabera
   Availability: Available
@@ -2327,7 +2350,7 @@
     Availability: Available
     Price: 18.490,00 $ CLP
 - [Camisa Clásica Manga Corta Lino Solid Hombre Ginger - Kaya Unite](https://kayaunite.com/products/camisa-clasica-manga-corta-lino-solid-hombre-ginger): Viste con propósito. Como Empresa B, garantizamos un impacto positivo en tu Camisa con Lino. ¡Súmate al cambio con Kaya Unite!
-  Updated: 2026-11-12T07:32:27Z
+  Updated: 2026-11-22T17:49:45Z
   Vendor: Kaya Unite
   Product Type: Camisa
   Availability: Available
@@ -2351,7 +2374,7 @@
     Availability: Not Available
     Price: 22.490,00 $ CLP
 - [Traje de Baño Boardshort Nylon Solid Hombre Sand - Kaya Unite](https://kayaunite.com/products/traje-de-bano-boardshort-nylon-solid-hombre-sand): Compra tu Boardshort sin miedo en Kaya Unite. Si no te queda, cambia desde la comodidad de tu casa. Proceso simple y rápido.
-  Updated: 2026-11-12T07:42:02Z
+  Updated: 2026-11-22T14:55:34Z
   Vendor: Kaya Unite
   Product Type: Traje de Baño
   Availability: Available
@@ -2375,7 +2398,7 @@
     Availability: Available
     Price: 17.490,00 $ CLP
 - [Traje de Baño Boardshort Nylon Island Hombre Turquesa - Kaya Unite](https://kayaunite.com/products/traje-de-bano-boardshort-nylon-island-hombre-turquesa): Compra tu Boardshort sin miedo en Kaya Unite. Si no te queda, cambia desde la comodidad de tu casa. Proceso simple y rápido.
-  Updated: 2026-10-09T15:07:22Z
+  Updated: 2026-11-22T14:55:34Z
   Vendor: Kaya Unite
   Product Type: Traje de Baño
   Availability: Available
@@ -2399,7 +2422,7 @@
     Availability: Available
     Price: 17.490,00 $ CLP
 - [Short Lino Solid Hombre Negro - Kaya Unite](https://kayaunite.com/products/short-lino-solid-hombre-negro): No importa dónde estés, tus Shorts de Lino llegan a tu puerta. Despachos a todo Chile con la seguridad y rapidez que buscas.
-  Updated: 2026-11-09T17:46:44Z
+  Updated: 2026-11-20T14:58:05Z
   Vendor: Kaya Unite
   Product Type: Short
   Availability: Available
@@ -2423,7 +2446,7 @@
     Availability: Available
     Price: 22.490,00 $ CLP
 - [Short Lino Solid Hombre Gris - Kaya Unite](https://kayaunite.com/products/short-lino-solid-hombre-gris): No importa dónde estés, tus Shorts de Lino llegan a tu puerta. Despachos a todo Chile con la seguridad y rapidez que buscas.
-  Updated: 2026-11-09T17:47:01Z
+  Updated: 2026-11-20T14:58:04Z
   Vendor: Kaya Unite
   Product Type: Short
   Availability: Available
@@ -2447,7 +2470,7 @@
     Availability: Not Available
     Price: 22.490,00 $ CLP
 - [Short Lino Solid Hombre Sand - Kaya Unite](https://kayaunite.com/products/short-lino-solid-hombre-sand): No importa dónde estés, tus Shorts de Lino llegan a tu puerta. Despachos a todo Chile con la seguridad y rapidez que buscas.
-  Updated: 2026-11-12T07:41:47Z
+  Updated: 2026-11-20T14:58:04Z
   Vendor: Kaya Unite
   Product Type: Short
   Availability: Available
@@ -2471,7 +2494,7 @@
     Availability: Available
     Price: 17.990,00 $ CLP
 - [Camisa Clásica Manga Corta Algodón Solid Hombre Lila - Kaya Unite](https://kayaunite.com/products/camisa-clasica-manga-corta-algodon-solid-hombre-lila): No importa dónde estés, tu Camisa Clásica llega a tu puerta. Despachos a todo Chile con la seguridad y rapidez que buscas.
-  Updated: 2026-10-09T07:44:08Z
+  Updated: 2026-11-22T02:12:22Z
   Vendor: Kaya Unite
   Product Type: Camisa
   Availability: Available
@@ -2494,8 +2517,32 @@
   - [Lila / XXL](https://kayaunite.com/products/camisa-clasica-manga-corta-algodon-solid-hombre-lila?variant=40711491223625)
     Availability: Not Available
     Price: 18.490,00 $ CLP
+- [Short Nylon Híbrido Multiuso Solid Hombre Sand - Kaya Unite](https://kayaunite.com/products/short-nylon-hibrido-multiuso-solid-hombre-sand): ¡Viste Kaya Unite con envío gratis! Compra tus Shorts y por pedidos sobre $59.990, nosotros pagamos el despacho.
+  Updated: 2026-11-21T19:52:18Z
+  Vendor: Kaya Unite
+  Product Type: Short
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/files/604M24S06TAN.jpg?v=1700577868
+  - [Ocre / XS](https://kayaunite.com/products/short-nylon-hibrido-multiuso-solid-hombre-sand?variant=40717436616777)
+    Availability: Not Available
+    Price: 19.990,00 $ CLP
+  - [Ocre / S](https://kayaunite.com/products/short-nylon-hibrido-multiuso-solid-hombre-sand?variant=40717436551241)
+    Availability: Not Available
+    Price: 19.990,00 $ CLP
+  - [Ocre / M](https://kayaunite.com/products/short-nylon-hibrido-multiuso-solid-hombre-sand?variant=40717436518473)
+    Availability: Available
+    Price: 19.990,00 $ CLP
+  - [Ocre / L](https://kayaunite.com/products/short-nylon-hibrido-multiuso-solid-hombre-sand?variant=40717436485705)
+    Availability: Not Available
+    Price: 19.990,00 $ CLP
+  - [Ocre / XL](https://kayaunite.com/products/short-nylon-hibrido-multiuso-solid-hombre-sand?variant=40717436584009)
+    Availability: Not Available
+    Price: 19.990,00 $ CLP
+  - [Ocre / XXL](https://kayaunite.com/products/short-nylon-hibrido-multiuso-solid-hombre-sand?variant=40717436649545)
+    Availability: Not Available
+    Price: 19.990,00 $ CLP
 - [Pantalón Recto Nylon Rockers Heavy Hombre Sand - Kaya Unite](https://kayaunite.com/products/pantalon-recto-nylon-rockers-heavy-hombre-sand): Si la talla de tu Pantalón no es la correcta, no te preocupes: tienes 90 días para cambios garantizados en Kaya Unite.
-  Updated: 2026-10-09T15:07:22Z
+  Updated: 2026-11-20T14:58:05Z
   Vendor: Kaya Unite
   Product Type: Pantalones
   Availability: Available
@@ -2519,7 +2566,7 @@
     Availability: Not Available
     Price: 24.990,00 $ CLP
 - [Traje de Baño Short Volley Nylon Drip Hombre Lila - Kaya Unite](https://kayaunite.com/products/traje-de-bano-short-volley-nylon-drip-hombre-lila): ¡Viste tu Short Volley con envío gratis! Por pedidos sobre $59.990, nosotros pagamos el despacho. Estilo para el agua sin costos extra.
-  Updated: 2026-10-09T15:07:22Z
+  Updated: 2026-11-22T14:55:35Z
   Vendor: Kaya Unite
   Product Type: Traje de Baño
   Availability: Available
@@ -2543,7 +2590,7 @@
     Availability: Not Available
     Price: 14.990,00 $ CLP
 - [Polera Sin Mangas Algodón Fun Hombre Negra - Kaya Unite](https://kayaunite.com/products/polera-sin-mangas-algodon-fun-hombre-negra): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Polera Manga Larga. Tú decides cómo y cuándo tener tu nuevo outfit. ¡Cómpralo ya!
-  Updated: 2026-10-15T02:36:09Z
+  Updated: 2026-11-22T02:12:23Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -2567,7 +2614,7 @@
     Availability: Not Available
     Price: 9990,00 $ CLP
 - [Polera Sin Mangas Algodón Mini Groovy Hombre Blanca - Kaya Unite](https://kayaunite.com/products/polera-sin-mangas-algodon-mini-groovy-hombre-blanca): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Polera Manga Larga. Tú decides cómo y cuándo tener tu nuevo outfit. ¡Cómpralo ya!
-  Updated: 2026-11-12T21:00:23Z
+  Updated: 2026-11-22T02:12:23Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -2591,7 +2638,7 @@
     Availability: Available
     Price: 12.990,00 $ CLP
 - [Polera Sin Mangas Algodón Groovy Hombre Pink - Kaya Unite](https://kayaunite.com/products/polera-sin-mangas-algodon-groovy-hombre-pink): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Polera Manga Larga. Tú decides cómo y cuándo tener tu nuevo outfit. ¡Cómpralo ya!
-  Updated: 2026-11-12T21:00:23Z
+  Updated: 2026-11-21T23:33:04Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -2615,7 +2662,7 @@
     Availability: Available
     Price: 12.990,00 $ CLP
 - [Polera Sin Mangas Algodón Groovy Hombre Lila - Kaya Unite](https://kayaunite.com/products/polera-sin-mangas-algodon-groovy-hombre-lila): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Polera Manga Larga. Tú decides cómo y cuándo tener tu nuevo outfit. ¡Cómpralo ya!
-  Updated: 2026-11-12T21:00:23Z
+  Updated: 2026-11-20T14:58:06Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -2639,7 +2686,7 @@
     Availability: Available
     Price: 12.990,00 $ CLP
 - [Polera Sin Mangas Algodón Trippy Hombre Rosa - Kaya Unite](https://kayaunite.com/products/polera-sin-mangas-algodon-trippy-hombre-rosa): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Polera Manga Larga. Tú decides cómo y cuándo tener tu nuevo outfit. ¡Cómpralo ya!
-  Updated: 2026-10-09T07:42:51Z
+  Updated: 2026-11-22T02:12:24Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -2663,7 +2710,7 @@
     Availability: Not Available
     Price: 9990,00 $ CLP
 - [Polera Sin Mangas Algodón Outline Hombre Verde - Kaya Unite](https://kayaunite.com/products/polera-sin-mangas-algodon-outline-hombre-verde): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Polera Manga Larga. Tú decides cómo y cuándo tener tu nuevo outfit. ¡Cómpralo ya!
-  Updated: 2026-11-12T21:00:23Z
+  Updated: 2026-11-20T14:58:07Z
   Vendor: Kaya Unite
   Product Type: Polera
   Availability: Available
@@ -2687,21 +2734,21 @@
     Availability: Available
     Price: 12.990,00 $ CLP
 - [Neceser Nylon Solid Lila - Kaya Unite](https://kayaunite.com/products/neceser-nylon-solid-lila): ¡Viste Kaya Unite con envío gratis! Compra tu Neceser y por pedidos sobre $59.990, nosotros pagamos el despacho.
-  Updated: 2026-11-14T17:57:51Z
+  Updated: 2026-11-20T14:58:07Z
   Vendor: Kaya Unite
   Product Type: Neceser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/files/705m24s13lil.jpg?v=1767811731
   Price: 15.990,00 $ CLP
 - [Mochila Nomade Rasta 23L Negro - Kaya Unite](https://kayaunite.com/products/mochila-nomade-rasta-23l-negro): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Mochila Kaya Unite. Tú decides cómo y cuándo tenerla. ¡Cómprala ya!
-  Updated: 2026-11-15T20:32:57Z
+  Updated: 2026-11-20T14:58:07Z
   Vendor: Kaya Unite
   Product Type: Mochilas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/files/705m24s01bra.jpg?v=1732728659
   Price: 47.990,00 $ CLP
 - [Mochila Nomade Puya 23L Verde - Kaya Unite](https://kayaunite.com/products/mochila-nomade-puya-23l-verde): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Mochila Kaya Unite. Tú decides cómo y cuándo tenerla. ¡Cómprala ya!
-  Updated: 2026-11-14T17:57:51Z
+  Updated: 2026-11-20T14:58:07Z
   Vendor: Kaya Unite
   Product Type: Mochilas
   Availability: Available
@@ -2714,95 +2761,39 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/files/705m24s04blu.jpg?v=1732728914
   Price: 31.990,00 $ CLP
-- [Gorro Jockey Nylon Jockey Dry Bone - Kaya Unite](https://kayaunite.com/products/gorro-jockey-nylon-jockey-dry-bone): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Jockey. Tú decides cómo y cuándo tener tu accesorio Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-14T17:57:51Z
-  Vendor: Kaya Unite
-  Product Type: Gorros
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/files/501m24w01bon.jpg?v=1732733928
-  Price: 19.990,00 $ CLP
-- [Gorro Jockey Nylon Jockey Dry Teal - Kaya Unite](https://kayaunite.com/products/gorro-jockey-nylon-jockey-dry-teal): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Jockey. Tú decides cómo y cuándo tener tu accesorio Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-14T17:57:52Z
-  Vendor: Kaya Unite
-  Product Type: Gorros
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/files/501m24w02tel_3.jpg?v=1732734035
-  Price: 19.990,00 $ CLP
-- [Gorro Jockey Nylon Jockey Dry Negro - Kaya Unite](https://kayaunite.com/products/gorro-jockey-nylon-jockey-dry-negro): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Jockey. Tú decides cómo y cuándo tener tu accesorio Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-14T17:57:52Z
-  Vendor: Kaya Unite
-  Product Type: Gorros
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/files/501m24w03bla.jpg?v=1732734728
-  Price: 19.990,00 $ CLP
-- [Gorro Jockey Algodón Trucker Lechuza Carbón - Kaya Unite](https://kayaunite.com/products/gorro-jockey-algodon-trucker-lechuza-carbon): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Jockey. Tú decides cómo y cuándo tener tu accesorio Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-14T17:57:52Z
-  Vendor: Kaya Unite
-  Product Type: Gorros
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/files/501m24w04cha.jpg?v=1732734840
-  Price: 19.990,00 $ CLP
-- [Gorro Jockey Algodón Trucker Buho Bone - Kaya Unite](https://kayaunite.com/products/gorro-jockey-algodon-trucker-buho-bone): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Jockey. Tú decides cómo y cuándo tener tu accesorio Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-12T07:32:47Z
-  Vendor: Kaya Unite
-  Product Type: Gorros
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/files/501m24w05bon.jpg?v=1732734938
-  Price: 19.990,00 $ CLP
-- [Gorro Jockey Algodón Trucker Logo Negro - Kaya Unite](https://kayaunite.com/products/gorro-jockey-algodon-trucker-logo-negro): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Jockey. Tú decides cómo y cuándo tener tu accesorio Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-14T17:57:52Z
-  Vendor: Kaya Unite
-  Product Type: Gorros
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/files/501m24w07bla.jpg?v=1732735112
-  Price: 19.990,00 $ CLP
-- [Gorro Jockey Algodón Trucker Logo Camel - Kaya Unite](https://kayaunite.com/products/gorro-jockey-algodon-trucker-logo-camel): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Jockey. Tú decides cómo y cuándo tener tu accesorio Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-14T17:57:52Z
-  Vendor: Kaya Unite
-  Product Type: Gorros
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/files/501m24w08cam.jpg?v=1732735183
-  Price: 19.990,00 $ CLP
-- [Gorro Jockey Algodón Trucker 7 Tazas Negro - Kaya Unite](https://kayaunite.com/products/gorro-jockey-algodon-trucker-7-tazas-negro): ¿Lo quieres ahora? Elige despacho express o retira en tienda tu Jockey. Tú decides cómo y cuándo tener tu accesorio Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-15T14:19:19Z
-  Vendor: Kaya Unite
-  Product Type: Gorros
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0048/0162/6185/files/501m24w09bla.jpg?v=1732735276
-  Price: 19.990,00 $ CLP
-[List Continued](https://kayaunite.com/a/llms-agent/llms.txt?shop=kaya-unite.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2OTg1NTUwMjY2NDQxLCJsYXN0X3ZhbHVlIjoiNjk4NTU1MDI2NjQ0MSJ9)
+[List Continued](https://kayaunite.com/a/llms-agent/llms.txt?shop=kaya-unite.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2OTg1MTIyODQwNjQ5LCJsYXN0X3ZhbHVlIjoiNjk4NTEyMjg0MDY0OSJ9)
 
 ## Collections
 
 - [Hombre](https://kayaunite.com/collections/hombre): No importa dónde estés, el Kaya Unite llega a tu puerta. Despachos a todo Chile con la seguridad y rapidez que buscas.
-  Updated: 2026-11-15T12:06:43Z
-  Total Products: 262
+  Updated: 2026-11-23T12:05:47Z
+  Total Products: 282
 - [Polar](https://kayaunite.com/collections/polar): ¡Viste Kaya Unite con envío gratis! Compra tus favoritos y por pedidos sobre $59.990, nosotros pagamos el despacho. Estilo sin costos extra.
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 201
 - [Camisas](https://kayaunite.com/collections/camisas): Las camisas de hombre de Kaya Unite vienen en diversas calidades y materiales como: algodón, viscosa, lino y mezclas de calidad. Manga corta y larga, fits regular y tallas XXS a XXL desde $36.990.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 57
 - [Poleras](https://kayaunite.com/collections/poleras): Compra sin miedo en Kaya Unite. Si no te queda, cambia desde la comodidad de tu casa. Proceso simple, rápido y pensado en tu total satisfacción.
-  Updated: 2026-11-15T12:06:43Z
-  Total Products: 552
+  Updated: 2026-11-23T13:44:20Z
+  Total Products: 553
 - [Accesorios](https://kayaunite.com/collections/accesorios): Calidad garantizada en cada prenda. Si tu producto presenta fallas, realizamos el cambio por garantía sin costo para ti. Tu confianza es nuestra prioridad.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T14:52:56Z
   Total Products: 383
 - [Calcetines](https://kayaunite.com/collections/calcetines): Kaya Unite: Moda para Hombre, Mujer y Niños. Disfruta envío gratis desde $59.990, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T14:52:56Z
   Total Products: 242
 - [Coolers y Mochilas](https://kayaunite.com/collections/coolers-mochilas): ¿Vives en Santiago? Recibe tus productos en 24 horas hábiles dentro de la RM. Estilo de entrega rápida para que no esperes ni un minuto más.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 29
 - [Chaquetas](https://kayaunite.com/collections/chaquetas): Contáctanos y recibe atención personalizada para resolver todas tus dudas sobre tallas, materiales y despachos.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 158
 - [Chiporros](https://kayaunite.com/collections/chiporros): Viste con propósito. Como Empresa B, garantizamos un impacto positivo en cada prenda. ¡Súmate al cambio!
-  Updated: 2026-11-15T12:06:38Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 66
 - [Polerones](https://kayaunite.com/collections/polerones): Si la talla no es la correcta, no te preocupes: tienes 90 días para cambios garantizados.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 270
 - [Kaya Deals](https://kayaunite.com/collections/kaya-deals): Llévate tus favoritos y paga hasta en 6 cuotas precio contado. Estilo al alcance de todos.
   Updated: 2026-10-08T11:58:12Z
@@ -2814,64 +2805,64 @@
   Updated: 2026-11-06T12:06:36Z
   Total Products: 9
 - [Más Vendidos](https://kayaunite.com/collections/los-mas-vendidos)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 13
 - [Kaya Style](https://kayaunite.com/collections/all): Todo el style de Kaya Unite. Poleras, polerones, polar y chiporros, chaquetas, buzos y más asociado a un estilo de vida con cultura positiva ligado a los deportes al aire libre, cuidado de la naturaleza y la música de raíces africanas.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 1535
 - [Selección Especial](https://kayaunite.com/collections/seleccion-especial): ¡Viste Kaya Unite con envío gratis! Compra tus favoritos y por pedidos sobre $59.990, nosotros pagamos el despacho. Estilo sin costos extra.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T14:52:56Z
   Total Products: 1601
 - [SinDescuento](https://kayaunite.com/collections/sindescuento)
-  Updated: 2026-10-27T11:08:54Z
+  Updated: 2026-11-22T21:12:32Z
   Total Products: 90
 - [Colección  420](https://kayaunite.com/collections/coleccion-especial-420): ¿Lo quieres ahora? Elige despacho express o retira en tienda sin costo. Tú decides cómo y cuándo tener tu nuevo outfit Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 154
 - [Pantalones](https://kayaunite.com/collections/pantalones): ¿Vives en Santiago? Recibe tus productos en 24 horas hábiles dentro de la RM. Estilo de entrega rápida para que no esperes ni un minuto más.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 113
 - [Nature to City](https://kayaunite.com/collections/nature-city): Calidad garantizada en cada prenda. Si tu producto presenta fallas, realizamos el cambio por garantía sin costo para ti. Tu confianza es nuestra prioridad.
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 93
 - [Lo Nuevo](https://kayaunite.com/collections/nuevo): Viste con propósito. Como Empresa B, garantizamos un impacto positivo en cada prenda. ¡Súmate al cambio!
-  Updated: 2026-11-15T12:06:43Z
-  Total Products: 263
+  Updated: 2026-11-23T13:44:20Z
+  Total Products: 268
 - [Kaya Classics](https://kayaunite.com/collections/kaya-classics): Llévate tus favoritos y paga hasta en 6 cuotas precio contado. Estilo al alcance de todos.
-  Updated: 2026-11-15T12:06:43Z
-  Total Products: 365
+  Updated: 2026-11-23T12:05:47Z
+  Total Products: 368
 - [Arma tu tenida](https://kayaunite.com/collections/arma-tu-tenida): MIX & MATCH - Elige, mezcla y combina tu tenida preferida
-  Updated: 2026-11-09T14:39:42Z
+  Updated: 2026-11-22T15:03:30Z
   Total Products: 17
 - [Bananos y Necesers](https://kayaunite.com/collections/bananos-necesers): Contáctanos y recibe atención personalizada para resolver todas tus dudas sobre tallas, materiales y despachos.
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 15
 - [Parkas](https://kayaunite.com/collections/parkas): ¡Viste Kaya Unite con envío gratis! Compra tus favoritos y por pedidos sobre $59.990, nosotros pagamos el despacho. Estilo sin costos extra.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 158
 - [Alpargatas y Sandalias](https://kayaunite.com/collections/alpargatas-sandalias): No importa dónde estés, el Kaya Unite llega a tu puerta. Despachos a todo Chile con la seguridad y rapidez que buscas.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-21T12:04:49Z
   Total Products: 10
 - [Vasos y Botellas](https://kayaunite.com/collections/vasos-botellas): ¿Lo quieres ahora? Elige despacho express o retira en tienda sin costo. Tú decides cómo y cuándo tener tu nuevo outfit Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-15T12:06:35Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 15
-- [Cyber by Kaya](https://kayaunite.com/collections/cyber-kaya): Chaquetas, polerones, chalecos, polar, chiporros, pantalones, camisas, guayaberas, shorts, trajes de baños y mucho más hasta 50%Off. Atento a nuestras promociones Flash.
-  Updated: 2026-11-15T12:06:43Z
-  Total Products: 1080
+- [Black Friday](https://kayaunite.com/collections/black-friday): Poleras, polerones, shorts, trajes de baño, camisas,  pantalones, accesorios, polar, chaquetas, chalecos y mucho más hasta 50%Off. Atento a nuestras promociones Flash.
+  Updated: 2026-11-23T15:12:08Z
+  Total Products: 820
 - [Road Trippin](https://kayaunite.com/collections/road-trippin): Compra sin miedo en Kaya Unite. Si no te queda, cambia desde la comodidad de tu casa. Proceso simple, rápido y pensado en tu total satisfacción.
-  Updated: 2026-11-14T12:05:19Z
+  Updated: 2026-11-23T12:05:41Z
   Total Products: 144
 - [Shorts Mujer](https://kayaunite.com/collections/shorts-mujer): ¿Vives en Santiago? Recibe tus productos en 24 horas hábiles dentro de la RM. Estilo de entrega rápida para que no esperes ni un minuto más.
-  Updated: 2026-11-15T12:06:38Z
+  Updated: 2026-11-23T12:05:43Z
   Total Products: 9
 - [Trajes de Baño](https://kayaunite.com/collections/trajes-bano): Los trajes de baño de hombre de Kaya Unite vienen en corto tipo volley y boardshort largo hasta la rodilla. En colores sólidos y versiones con print, tallas XXS a XXL.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 154
 - [Guayaberas](https://kayaunite.com/collections/guayaberas): Contáctanos y recibe atención personalizada para resolver todas tus dudas sobre tallas, materiales y despachos.
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 47
 - [Gorros Jockey](https://kayaunite.com/collections/gorros-jockey): Si la talla no es la correcta, no te preocupes: tienes 90 días para cambios garantizados.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 62
 - [Safaris y Buckets](https://kayaunite.com/collections/safaris-buckets): Viste con propósito. Como Empresa B, garantizamos un impacto positivo en cada prenda. ¡Súmate al cambio!
   Updated: 2026-10-23T14:59:42Z
@@ -2883,157 +2874,157 @@
   Updated: 2026-11-09T14:39:41Z
   Total Products: 5
 - [La Previa](https://kayaunite.com/collections/la-previa)
-  Updated: 2026-11-12T21:00:23Z
+  Updated: 2026-11-22T12:04:10Z
   Total Products: 20
 - [Mujer](https://kayaunite.com/collections/mujer): Llévate tus favoritos y paga hasta en 6 cuotas precio contado. Estilo al alcance de todos.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 124
 - [Regala Diseño](https://kayaunite.com/collections/regala-diseno): Regala Diseño al niño que llevas dentro
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-22T12:04:10Z
   Total Products: 61
 - [Destacados](https://kayaunite.com/collections/destacados)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-21T12:04:47Z
   Total Products: 23
 - [Listen - Para l@s player@s](https://kayaunite.com/collections/listen-para-los-playeros)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 75
 - [Create - Para l@s Urban@s](https://kayaunite.com/collections/create-para-los-urbanos)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 44
 - [Protect - Para l@s Outdoor](https://kayaunite.com/collections/protect-para-los-outdoor)
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 53
 - [Amigo Secreto](https://kayaunite.com/collections/amigo-secreto)
-  Updated: 2026-11-15T12:06:35Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 86
 - [2 Chinos x $49990](https://kayaunite.com/collections/2-chinos-x-49990)
   Updated: 2026-11-02T12:05:46Z
   Total Products: 4
 - [Flash Poleron $29.990](https://kayaunite.com/collections/flash-poleron-29990): SÓLO POR HOY! Queda como rey con este super regalo. Polerones $29.990 *Solo productos identificados "⚡FLASH "
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-21T12:04:47Z
   Total Products: 13
 - [Flash Shorts $29.990](https://kayaunite.com/collections/flash-shorts-29990): SÓLO POR HORAS! Queda como rey con este super regalo. Shorts $29.990 *Solo productos identificados "⚡PROMO FLASH "
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 9
 - [Flash Navidad](https://kayaunite.com/collections/flash-navidad)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 18
 - [Que no te falte!](https://kayaunite.com/collections/que-no-te-falte)
-  Updated: 2026-11-15T12:06:38Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 29
 - [Catalogo Classics](https://kayaunite.com/collections/catalogo-classics)
-  Updated: 2026-11-15T12:06:38Z
+  Updated: 2026-11-22T21:12:32Z
   Total Products: 45
 - [Chalecos Hombre](https://kayaunite.com/collections/chalecos): Los chalecos de hombre de Kaya Unite están tejidos en algodón 100%. Fit regular y holgado, en 6 tallas desde XS a XXL. Estilo urbano para el año completo.
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 4
 - [Gorro Beanies](https://kayaunite.com/collections/gorro-beanies): ¿Lo quieres ahora? Elige despacho express o retira en tienda sin costo. Tú decides cómo y cuándo tener tu nuevo outfit Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:43Z
   Total Products: 36
 - [Stock Cero](https://kayaunite.com/collections/stock-cero): No importa dónde estés, el Kaya Unite llega a tu puerta. Despachos a todo Chile con la seguridad y rapidez que buscas.
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 345
 - [Fuera de Flash](https://kayaunite.com/collections/promo-flash)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 1012
 - [CHILL DEALS](https://kayaunite.com/collections/chill-deals): Descuentos de invierno
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 86
 - [Después del Ruido](https://kayaunite.com/collections/despues-ruido): Compra sin miedo en Kaya Unite. Si no te queda, cambia desde la comodidad de tu casa. Proceso simple, rápido y pensado en tu total satisfacción.
-  Updated: 2026-11-14T12:05:19Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 17
 - [Sintonía Estéreo](https://kayaunite.com/collections/sintonia-estereo): Calidad garantizada en cada prenda. Si tu producto presenta fallas, realizamos el cambio por garantía sin costo para ti. Tu confianza es nuestra prioridad.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 22
 - [El Ritmo](https://kayaunite.com/collections/ritmo): ¿Vives en Santiago? Recibe tus productos en 24 horas hábiles dentro de la RM. Estilo de entrega rápida para que no esperes ni un minuto más.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 23
 - [Fibras Nobles](https://kayaunite.com/collections/fibras-nobles): Kaya Unite: Moda para Hombre, Mujer y Niños. Disfruta envío gratis desde $59.990, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 55
 - [Vestidos y Faldas](https://kayaunite.com/collections/vestidos-faldas): Viste con propósito. Como Empresa B, garantizamos un impacto positivo en cada prenda. ¡Súmate al cambio!
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-22T12:04:19Z
   Total Products: 12
 - [Jardineras](https://kayaunite.com/collections/jardineras): Llévate tus favoritos y paga hasta en 6 cuotas precio contado. Estilo al alcance de todos.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 6
 - [Blusas y Poleras](https://kayaunite.com/collections/blusas-poleras): Contáctanos y recibe atención personalizada para resolver todas tus dudas sobre tallas, materiales y despachos.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 28
 - [Calcetines 3 x 14.990](https://kayaunite.com/collections/pack-calcetines): ¡Viste Kaya Unite con envío gratis! Compra tus favoritos y por pedidos sobre $59.990, nosotros pagamos el despacho. Estilo sin costos extra.
-  Updated: 2026-11-15T12:06:43Z
-  Total Products: 241
+  Updated: 2026-11-23T14:52:56Z
+  Total Products: 237
 - [Calcetines 4x$19.990](https://kayaunite.com/collections/calcetines-4x-19-990): Si la talla no es la correcta, no te preocupes: tienes 90 días para cambios garantizados.
-  Updated: 2026-11-15T12:06:43Z
-  Total Products: 193
+  Updated: 2026-11-23T14:52:56Z
+  Total Products: 194
 - [Bolsos y Mochilas](https://kayaunite.com/collections/bolsos-mochilas): No importa dónde estés, el Kaya Unite llega a tu puerta. Despachos a todo Chile con la seguridad y rapidez que buscas.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 25
 - [Billeteras](https://kayaunite.com/collections/billeteras): ¿Lo quieres ahora? Elige despacho express o retira en tienda sin costo. Tú decides cómo y cuándo tener tu nuevo outfit Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 8
 - [Jockeys 2x$29.990](https://kayaunite.com/collections/jockeys-2x-29-990): Compra sin miedo en Kaya Unite. Si no te queda, cambia desde la comodidad de tu casa. Proceso simple, rápido y pensado en tu total satisfacción.
   Updated: 2026-07-09T15:24:47Z
   Total Products: 0
 - [Packs Regalables Calcetines](https://kayaunite.com/collections/packs-regalables-calcetines): Cómodos y Frescos.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 7
 - [Promo $9.990](https://kayaunite.com/collections/promo-9990): Agrega x $9.990 cualquiera de estos productos a tu compra de $29.990 o más.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 7
 - [Kaya Kids](https://kayaunite.com/collections/kaya-kids): Para los pequeños de la casa
-  Updated: 2026-11-15T12:06:43Z
-  Total Products: 49
+  Updated: 2026-11-23T19:30:04Z
+  Total Products: 50
 - [Trajes de Baño Niños](https://kayaunite.com/collections/trajes-de-bano-ninos)
-  Updated: 2026-11-15T12:06:38Z
+  Updated: 2026-11-23T12:05:41Z
   Total Products: 5
 - [Summer ](https://kayaunite.com/collections/summer-): ¿Vives en Santiago? Recibe tus productos en 24 horas hábiles dentro de la RM. Estilo de entrega rápida para que no esperes ni un minuto más.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 1281
 - [Kaya Kids (Copy)](https://kayaunite.com/collections/kaya-kids-copy): Para los pequeños de la casa
-  Updated: 2026-11-15T12:06:38Z
+  Updated: 2026-11-23T12:05:41Z
   Total Products: 2
 - [Avance Otoño](https://kayaunite.com/collections/avance-otono): Kaya Unite: Moda para Hombre, Mujer y Niños. Disfruta envío gratis desde $59.990, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 215
 - [Trajes de Baño Boardshorts](https://kayaunite.com/collections/trajes-bano-boardshorts): Viste con propósito. Como Empresa B, garantizamos un impacto positivo en cada prenda. ¡Súmate al cambio!
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 25
 - [Trajes de Baño Shorts Volley](https://kayaunite.com/collections/trajes-bano-shorts-volley): Contáctanos y recibe atención personalizada para resolver todas tus dudas sobre tallas, materiales y despachos.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 92
 - [Camisas Viscosa](https://kayaunite.com/collections/camisas-viscosa): Si la talla no es la correcta, no te preocupes: tienes 90 días para cambios garantizados.
-  Updated: 2026-11-15T12:06:38Z
+  Updated: 2026-11-23T12:05:43Z
   Total Products: 11
 - [Polar y Chiporros Hombre](https://kayaunite.com/collections/polar-chiporro-hombre): Los polar de hombre de Kaya Unite son abrigos ligeros y suaves ideales como segunda capa o capa intermedia en versión cierre completo o medio cierre. Con y sin print, tallas XXS a XXL, desde $49.990
-  Updated: 2026-11-15T12:06:38Z
+  Updated: 2026-11-23T12:05:43Z
   Total Products: 16
 - [Shorts](https://kayaunite.com/collections/shorts): Llévate tus favoritos y paga hasta en 6 cuotas precio contado. Estilo al alcance de todos.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 84
 - [Pantalones Hombre](https://kayaunite.com/collections/pantalones-hombre): Los pantalones de hombre de Kaya Unite van desde el Slim, al Baggy, con estilos clásicos o funcionales como: desmontable o cargo. Elaborados en distintas calidades como el algodón con spandex o nylon para los más técnicos. Tallas 38 a 46, desde $44.990.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 30
 - [Chaquetas Hombre](https://kayaunite.com/collections/chaquetas-hombre): Las chaquetas de hombre de Kaya Unite van desde el modelo más clásico estilo bomber a impermeables y cortavientos, ideales para el outdoor. Les puedes encontrar en 5 estilos distintos, tallas XS a XXL, desde $ 59.990.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 30
 - [Polerones Hombre](https://kayaunite.com/collections/polerones-hombre): Los polerones de hombre de Kaya Unite vienen en tela de 420grs, mezcla algodón-poliéster. Hoodies, Con cierre, Medio Cierre y crewnecks con estilo urbano. Tallas XXS a XXL.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 47
 - [Poleras Hombre](https://kayaunite.com/collections/poleras-hombre): Las poleras de hombre de Kaya Unite son 100% algodón, en fit regular y oversize. Elige desde básicos minimalistas hasta diseños con prints exclusivos. 7 tallas, desde $19.990
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 99
 - [Polar Mujer](https://kayaunite.com/collections/polar-mujer): No importa dónde estés, el Kaya Unite llega a tu puerta. Despachos a todo Chile con la seguridad y rapidez que buscas.
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 5
 - [Chiporros Mujer](https://kayaunite.com/collections/chiporros-mujer): ¿Vives en Santiago? Recibe tus productos en 24 horas hábiles dentro de la RM. Estilo de entrega rápida para que no esperes ni un minuto más.
-  Updated: 2026-11-15T12:06:35Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 3
 - [Faldas](https://kayaunite.com/collections/faldas): Viste con propósito. Como Empresa B, garantizamos un impacto positivo en cada prenda. ¡Súmate al cambio!
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-22T12:04:18Z
   Total Products: 6
 - [Faldas Corta](https://kayaunite.com/collections/faldas-corta): Contáctanos y recibe atención personalizada para resolver todas tus dudas sobre tallas, materiales y despachos.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-22T12:04:12Z
   Total Products: 4
 - [Faldas Larga](https://kayaunite.com/collections/faldas-larga): Si la talla no es la correcta, no te preocupes: tienes 90 días para cambios garantizados.
   Updated: 2026-07-03T18:10:17Z
@@ -3042,236 +3033,248 @@
   Updated: 2026-07-03T18:10:16Z
   Total Products: 0
 - [Chalecos Tejidos](https://kayaunite.com/collections/tejidos): Llévate tus favoritos y paga hasta en 6 cuotas precio contado. Estilo al alcance de todos.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 12
 - [Vestidos](https://kayaunite.com/collections/vestidos): ¿Vives en Santiago? Recibe tus productos en 24 horas hábiles dentro de la RM. Estilo de entrega rápida para que no esperes ni un minuto más.
-  Updated: 2026-10-23T15:15:38Z
+  Updated: 2026-11-21T20:29:49Z
   Total Products: 2
 - [Vestidos Cortos](https://kayaunite.com/collections/vestidos-cortos): Compra sin miedo en Kaya Unite. Si no te queda, cambia desde la comodidad de tu casa. Proceso simple, rápido y pensado en tu total satisfacción.
-  Updated: 2026-11-12T12:07:32Z
+  Updated: 2026-11-22T12:04:19Z
   Total Products: 2
 - [Vestidos Largos](https://kayaunite.com/collections/vestidos-largos): Calidad garantizada en cada prenda. Si tu producto presenta fallas, realizamos el cambio por garantía sin costo para ti. Tu confianza es nuestra prioridad.
-  Updated: 2026-11-13T12:05:26Z
+  Updated: 2026-11-22T12:04:16Z
   Total Products: 2
 - [Blusa](https://kayaunite.com/collections/blusa): Contáctanos y recibe atención personalizada para resolver todas tus dudas sobre tallas, materiales y despachos.
-  Updated: 2026-11-15T12:06:35Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 3
 - [Polerones Mujer](https://kayaunite.com/collections/polerones-mujer): Si la talla no es la correcta, no te preocupes: tienes 90 días para cambios garantizados.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:43Z
   Total Products: 14
 - [Shorts Hombre](https://kayaunite.com/collections/shorts-hombre): Los shorts de hombre de Kaya Unite cubren desde el baño hasta la calle. Estilos distintos, tallas XXS a XXL. Denim, lino, híbrido y más.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 62
 - [Pantalones Mujer](https://kayaunite.com/collections/pantalones-mujer): ¿Vives en Santiago? Recibe tus productos en 24 horas hábiles dentro de la RM. Estilo de entrega rápida para que no esperes ni un minuto más.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 20
 - [Chaquetas Mujer](https://kayaunite.com/collections/chaquetas-mujer): Viste con propósito. Como Empresa B, garantizamos un impacto positivo en cada prenda. ¡Súmate al cambio!
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 15
 - [Poleras Mujer](https://kayaunite.com/collections/poleras-mujer): ¿Lo quieres ahora? Elige despacho express o retira en tienda sin costo. Tú decides cómo y cuándo tener tu nuevo outfit Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 25
 - [Calcetines Largos](https://kayaunite.com/collections/calcetines-largos): Contáctanos y recibe atención personalizada para resolver todas tus dudas sobre tallas, materiales y despachos.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 86
 - [Calcetines Lana](https://kayaunite.com/collections/calcetines-lana): Si la talla no es la correcta, no te preocupes: tienes 90 días para cambios garantizados.
-  Updated: 2026-11-15T12:06:38Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 4
 - [Calcetines Cortos](https://kayaunite.com/collections/calcetines-cortos): Llévate tus favoritos y paga hasta en 6 cuotas precio contado. Estilo al alcance de todos.
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 6
 - [Calcetines Clásicos](https://kayaunite.com/collections/calcetines-clasicos): No importa dónde estés, el Kaya Unite llega a tu puerta. Despachos a todo Chile con la seguridad y rapidez que buscas.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 26
 - [Calcetines Bamboo](https://kayaunite.com/collections/calcetines-bamboo): ¡Viste Kaya Unite con envío gratis! Compra tus favoritos y por pedidos sobre $59.990, nosotros pagamos el despacho. Estilo sin costos extra.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 34
 - [Calcetines Diseño](https://kayaunite.com/collections/calcetines-diseno): Compra sin miedo en Kaya Unite. Si no te queda, cambia desde la comodidad de tu casa. Proceso simple, rápido y pensado en tu total satisfacción.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 61
 - [Calcetines packs](https://kayaunite.com/collections/calcetines-packs): ¿Lo quieres ahora? Elige despacho express o retira en tienda sin costo. Tú decides cómo y cuándo tener tu nuevo outfit Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 10
 - [Bolsos Travel](https://kayaunite.com/collections/bolsos-travel): Calidad garantizada en cada prenda. Si tu producto presenta fallas, realizamos el cambio por garantía sin costo para ti. Tu confianza es nuestra prioridad.
-  Updated: 2026-11-13T12:05:26Z
+  Updated: 2026-11-20T12:06:08Z
   Total Products: 4
 - [Bolsos & Mochila](https://kayaunite.com/collections/bolsos-mochila): ¿Vives en Santiago? Recibe tus productos en 24 horas hábiles dentro de la RM. Estilo de entrega rápida para que no esperes ni un minuto más.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 15
 - [Bananos](https://kayaunite.com/collections/bananos): Kaya Unite: Moda para Hombre, Mujer y Niños. Disfruta envío gratis desde $59.990, cambios fáciles y despacho a todo Chile.
-  Updated: 2026-11-15T12:06:38Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 11
 - [Necesers](https://kayaunite.com/collections/necesers): Viste con propósito. Como Empresa B, garantizamos un impacto positivo en cada prenda. ¡Súmate al cambio!
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-22T12:04:14Z
   Total Products: 2
 - [Manta](https://kayaunite.com/collections/manta): Contáctanos y recibe atención personalizada para resolver todas tus dudas sobre tallas, materiales y despachos.
-  Updated: 2026-11-15T12:06:32Z
+  Updated: 2026-11-22T12:04:12Z
   Total Products: 3
 - [Cinturones](https://kayaunite.com/collections/cinturones): Si la talla no es la correcta, no te preocupes: tienes 90 días para cambios garantizados.
-  Updated: 2026-11-15T12:06:32Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 3
 - [Gorro Safari](https://kayaunite.com/collections/gorro-safari): Llévate tus favoritos y paga hasta en 6 cuotas precio contado. Estilo al alcance de todos.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 12
 - [Alpargatas](https://kayaunite.com/collections/alpargatas): ¡Viste Kaya Unite con envío gratis! Compra tus favoritos y por pedidos sobre $59.990, nosotros pagamos el despacho. Estilo sin costos extra.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-21T12:04:49Z
   Total Products: 3
 - [Cuello Polar](https://kayaunite.com/collections/cuello-polar): No importa dónde estés, el Kaya Unite llega a tu puerta. Despachos a todo Chile con la seguridad y rapidez que buscas.
   Updated: 2026-08-19T13:47:35Z
   Total Products: 1
 - [Gorros](https://kayaunite.com/collections/gorros): ¿Lo quieres ahora? Elige despacho express o retira en tienda sin costo. Tú decides cómo y cuándo tener tu nuevo outfit Kaya Unite. ¡Cómpralo ya!
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 144
 - [Summer 26](https://kayaunite.com/collections/summer-26): Compra sin miedo en Kaya Unite. Si no te queda, cambia desde la comodidad de tu casa. Proceso simple, rápido y pensado en tu total satisfacción.
-  Updated: 2026-11-09T14:39:42Z
+  Updated: 2026-11-23T12:05:43Z
   Total Products: 114
 - [Poleras Venta Bodega](https://kayaunite.com/collections/poleras-venta-bodega)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 429
 - [Polerones Venta Bodega](https://kayaunite.com/collections/polerones-venta-bodega)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 208
 - [Pantalones Venta Bodega](https://kayaunite.com/collections/pantalones-venta-bodega)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 73
 - [Polar Venta Bodega](https://kayaunite.com/collections/polar-venta-bodega)
-  Updated: 2026-11-15T12:06:38Z
+  Updated: 2026-11-22T12:04:18Z
   Total Products: 178
 - [Parkas Venta Bodega](https://kayaunite.com/collections/parkas-venta-bodega)
-  Updated: 2026-11-14T12:05:22Z
+  Updated: 2026-11-22T12:04:16Z
   Total Products: 16
 - [Chaquetas Venta Bodega](https://kayaunite.com/collections/chaquetas-venta-bodega)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 105
 - [Trajes de Baño Venta Bodega](https://kayaunite.com/collections/trajes-de-bano-venta-bodega)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 130
 - [Chalecos Venta Bodega](https://kayaunite.com/collections/chalecos-venta-bodega)
   Updated: 2026-11-13T12:05:29Z
   Total Products: 9
 - [Shorts Venta Bodega](https://kayaunite.com/collections/shorts-venta-bodega)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 61
 - [Vestidos Venta Bodega](https://kayaunite.com/collections/vestidos-venta-bodega)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-22T12:04:19Z
   Total Products: 8
 - [Jardineras Venta Bodega](https://kayaunite.com/collections/jardineras-venta-bodega)
-  Updated: 2026-11-13T12:05:23Z
+  Updated: 2026-11-22T12:04:19Z
   Total Products: 4
 - [Calcetines Venta de Bodega](https://kayaunite.com/collections/calcetines-venta-de-bodega)
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:43Z
   Total Products: 5
 - [](https://kayaunite.com/collections/): Hasta 50% OFF en el producto que buscas. Chaquetas, paras, chalecos, polerones, poleras y mucho más
-  Updated: 2026-11-15T23:17:57Z
-  Total Products: 521
+  Updated: 2026-11-23T22:07:37Z
+  Total Products: 511
 - [Tops Mujer](https://kayaunite.com/collections/tops-mujer): Encuentra lo mejor en tops para mujer. Arma tu tenida y paga hasta en 6 cuotas precio contado. Polerones con estilo al alcance de todos en Kaya Unite.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 55
 - [Tops Hombre](https://kayaunite.com/collections/tops-hombre): Encuentra lo mejor en tops para hombre. Arma tu tenida y paga hasta en 6 cuotas precio contado. Polerones y Chaquetas con estilo al alcance de todos en Kaya Unite.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 200
 - [Bottoms Hombre](https://kayaunite.com/collections/bottoms-hombre): Arma tu tenida y paga hasta en 6 cuotas precio contado. Pantalones, Buzos y shorts con estilo al alcance de todos en Kaya Unite.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 71
 - [Bottoms Mujer](https://kayaunite.com/collections/bottoms-mujer): Arma tu tenida y paga hasta en 6 cuotas precio contado. Faldas, Pantalones y Shorts con estilo al alcance de todos en Kaya Unite.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 19
 - [Nueva Colección 2x34.990](https://kayaunite.com/collections/nueva-coleccion-2x34-990)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 410
 - [Nueva Colección 2x39.990](https://kayaunite.com/collections/nueva-coleccion-2x39-990)
   Updated: 2026-10-08T11:58:57Z
   Total Products: 4
 - [Parkas Hombre](https://kayaunite.com/collections/parkas-hombre): Las parkas de hombre de Kaya Unite van de la ciudad a la montaña. 4 modelos con relleno y algunas con atributos diferenciadores como: repelencia al agua, capucha o la capacidad de autoempacarse.desde $59.990 hasta $179.990.
-  Updated: 2026-11-15T12:06:35Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 14
 - [Despacho Express](https://kayaunite.com/collections/despacho-express)
-  Updated: 2026-11-15T12:06:43Z
-  Total Products: 1096
+  Updated: 2026-11-23T13:44:20Z
+  Total Products: 1117
 - [Outlet](https://kayaunite.com/collections/outlet-kaya): Llévate tus favoritos y paga hasta en 6 cuotas precio contado. Estilo al alcance de todos.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 1254
 - [Best Sellers](https://kayaunite.com/collections/best-sellers)
-  Updated: 2026-11-15T12:06:43Z
-  Total Products: 54
+  Updated: 2026-11-23T21:20:21Z
+  Total Products: 57
 - [Ventas](https://kayaunite.com/collections/nuevoventa): Viste con propósito. Como Empresa B, garantizamos un impacto positivo en cada prenda. ¡Súmate al cambio!
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T14:52:56Z
   Total Products: 2886
 - [Kaya Aliados](https://kayaunite.com/collections/kaya-aliados)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 1243
 - [Outlet Unidades](https://kayaunite.com/collections/outlet-unidades): Llévate tus favoritos y paga hasta en 6 cuotas precio contado. Estilo al alcance de todos.
-  Updated: 2026-11-15T21:27:48Z
-  Total Products: 2378
+  Updated: 2026-11-23T14:52:56Z
+  Total Products: 2367
 - [Básicos](https://kayaunite.com/collections/basicos)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 568
 - [OFICINA](https://kayaunite.com/collections/oficina)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 75
 - [Anorak](https://kayaunite.com/collections/anorak)
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 7
 - [Kaya Flash](https://kayaunite.com/collections/flash-cyber-kaya): Precios Increíbles. Solo por pocas Horas...
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 77
 - [Ultimas Horas](https://kayaunite.com/collections/ultimas-horas)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T14:52:56Z
   Total Products: 1634
 - [Billeteras y Cinturones](https://kayaunite.com/collections/billeteras-y-cinturones)
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 16
 - [Chalecos y Polerones Mujer](https://kayaunite.com/collections/chalecos-y-polerones-mujer): ¡Viste Kaya Unite con envío gratis! Compra tus favoritos y por pedidos sobre $59.990, nosotros pagamos el despacho. Estilo sin costos extra.
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:43Z
   Total Products: 3
 - [Top 5 - Hombre](https://kayaunite.com/collections/top-5): Estos son los más vendidos de la semana
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 12
 - [Dia del niño](https://kayaunite.com/collections/dia-del-nino): Compra tu Chaqueta, polar o chaleco y lleva una de niño x $9.990
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 33
 - [IMPERMEABLES](https://kayaunite.com/collections/impermeables)
-  Updated: 2026-11-15T12:06:38Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 5
 - [Top 5 - Mujer](https://kayaunite.com/collections/top-5-mujer): Estos son los más vendidos de la semana
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 12
 - [Top 5 - Accesorios](https://kayaunite.com/collections/top-5-accesorios): Estos son los más vendidos de la semana
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 12
 - [Gondwana](https://kayaunite.com/collections/gondwana): Este sábado Kaya va a estar dentro del Estadio Bicentenario, con nuestro espacio, merch oficial y una selección de productos Kaya. 5 de septiembreEstadio Bicentenario de La FloridaGondwana & Quique Neira
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 27
 - [Kaya Style (Copia)](https://kayaunite.com/collections/kaya-style): Todo el style de Kaya Unite. Poleras, polerones, polar y chiporros, chaquetas, buzos y más asociado a un estilo de vida con cultura positiva ligado a los deportes al aire libre, cuidado de la naturaleza y la música de raíces africanas.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 1801
 - [Chaquetas - CyberKaya](https://kayaunite.com/collections/chaquetas-cyberkaya)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 21
 - [Polar y Chiporros - CyberKaya](https://kayaunite.com/collections/polar-chiporros-cyberkaya)
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 69
 - [Polerones y Chalecos - CyberKaya](https://kayaunite.com/collections/polerones-chalecos-cyberkaya)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 113
 - [Pantalones - CyberKaya](https://kayaunite.com/collections/poleras-cyberkaya-copia)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 42
 - [Shorts y Trajes de Baño - CyberKaya](https://kayaunite.com/collections/shorts-trajes-bano-cyberkaya)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 113
 - [Rooted in Chile](https://kayaunite.com/collections/rooted-chile): Chile nos inspira. Colección inspirada en la naturaleza, paisajes y parques de Chile.
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 19
 - [Yuju](https://kayaunite.com/collections/yuju)
-  Updated: 2026-11-15T12:06:43Z
+  Updated: 2026-11-23T12:05:47Z
   Total Products: 65
 - [Ultimas Unidades](https://kayaunite.com/collections/ultimas-unidades)
-  Updated: 2026-11-15T23:15:35Z
-  Total Products: 2428
+  Updated: 2026-11-23T23:03:28Z
+  Total Products: 2415
 - [Bikinis y Trajes de Baño Mujer](https://kayaunite.com/collections/bikinis-trajes-de-bano-mujer)
-  Updated: 2026-11-15T12:06:41Z
+  Updated: 2026-11-23T12:05:46Z
   Total Products: 5
+- [Black Friday Hombre](https://kayaunite.com/collections/black-friday-hombre)
+  Updated: 2026-11-23T21:11:20Z
+  Total Products: 553
+- [Black Friday Mujer](https://kayaunite.com/collections/black-friday-mujer)
+  Updated: 2026-11-23T21:13:02Z
+  Total Products: 115
+- [Black Friday Niños](https://kayaunite.com/collections/black-friday-ninos)
+  Updated: 2026-11-23T21:13:02Z
+  Total Products: 28
+- [Black Friday Accesorios](https://kayaunite.com/collections/black-friday-accesorios)
+  Updated: 2026-11-23T21:13:03Z
+  Total Products: 204
 
 ## Blogs
 
@@ -3776,10 +3779,14 @@
   Updated: 2026-03-16T20:48:34Z
 - [Mujer](https://kayaunite.com/pages/mujer)
   Updated: 2026-03-17T16:53:46Z
+- [Venta de Bodega](https://kayaunite.com/pages/venta-de-bodega)
+  Updated: 2026-11-20T12:52:25Z
 - [Beneficio Primera Compra - Kaya Unite](https://kayaunite.com/pages/beneficio-marketplaces): /* Contenedor Principal */ #drip-ef-379488245 { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-widt...
   Updated: 2026-09-29T15:33:39Z
 - [5 Gift Cards de $100.000](https://kayaunite.com/pages/registro-concurso-web): Te invitamos a participar en nuestro exclusivo concurso activo desde el 14 de septiembre hasta el 12 de octubre. Formar parte es muy fácil: solo de...
-  Updated: 2026-11-13T12:27:00Z
+  Updated: 2026-11-17T17:10:02Z
+- [Arma tu Navidad con Kaya](https://kayaunite.com/pages/arma-tu-navidad-con-kaya): Te invitamos a participar en nuestro exclusivo concurso activo desde el 17 de noviembre hasta el 06 de diciembre. Formar parte es muy fácil: solo d...
+  Updated: 2026-11-17T17:05:03Z
 
 ## Policies
 
