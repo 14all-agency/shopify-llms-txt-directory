@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-05-06T17:25:19Z
 - Contact Email: hello@pixieyou.com
-- Updated At: 2026-11-16T00:41:09.908Z
+- Updated At: 2026-11-24T00:39:18.315Z
 
 # PixieYou
 
@@ -17,35 +17,35 @@ Products include shampoo, conditioner, leave-in conditioner, and detangler spray
 ## Products
 
 - [Detangler for Kids | Tear-Free 7-in-1 Leave-in Spray | PixieYou](https://pixieyou.com/products/detangler): A lightweight 7-in-1 detangling spray for kids and loved by all ages. Smooths knots, controls frizz and adds shine on all hair types, including curly and coily. Sulfate and paraben free.
-  Updated: 2026-11-11T02:46:31Z
+  Updated: 2026-11-23T08:21:46Z
   Vendor: Pixie You
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0940/1991/1962/files/DETANGLER-012048X2048.jpg?v=1783783695
   Price: $24.00 USD
 - [Leave-in Cream for Kids | Style & Define Cream for Curls and Frizz | PixieYou](https://pixieyou.com/products/leave-in): Polish. Protect. Go.A lightweight leave-in styling cream for kids and loved by all. Defines curls, controls frizz and softens ends without weighing hair down. Sulfate and paraben free, made for all hair types.
-  Updated: 2026-11-10T01:17:36Z
+  Updated: 2026-11-22T19:32:16Z
   Vendor: Pixie You
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0940/1991/1962/files/style_cream_01.jpg?v=1783794291
   Price: $24.00 USD
-- [The Starter Set | 4-Piece Kids Hair Routine | PixieYou](https://pixieyou.com/products/the-complete-hair-routine-bundle): Detangler, Leave-in, Cloud Brush and Magic Wand in one kit. The perfect morning routine for kids. Sulfate-free, silicone-free. Free shipping.
-  Updated: 2026-11-11T17:33:56Z
+- [The Starter Set](https://pixieyou.com/products/the-complete-hair-routine-bundle): Detangler, Leave-in, Cloud Brush and Magic Wand in one kit. The perfect morning routine for kids. Sulfate-free, silicone-free. Free U.S. shipping on orders of $60 or more.
+  Updated: 2026-11-23T20:38:36Z
   Vendor: Pixie You
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0940/1991/1962/files/71XnNtTq3oL.jpg?v=1792980687
-  Price: $72.00 USD
+  Price: $50.00 USD
 - [Cloud Brush | Detangling Brush for Kids, All Hair Types | PixieYou](https://pixieyou.com/products/cloud-brush): An ultra-lightweight detangling brush for kids. Boar bristles smooth and shine, flexible pins lift knots without breakage. Works on straight, wavy, curly and coily hair.
-  Updated: 2026-11-07T15:36:17Z
+  Updated: 2026-11-23T20:38:26Z
   Vendor: Pixie You
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0940/1991/1962/files/brush01.jpg?v=1783800990
   Price: $18.00 USD
 - [Magic Wand | Hair Stick for Kids, Flyaways and Baby Hairs | PixieYou](https://pixieyou.com/products/magic-wand): A hair finishing stick for kids that tames flyaways, baby hairs and edges in seconds. Flexible hold, no crunch, no white cast, washes out easily.
-  Updated: 2026-11-11T17:33:47Z
+  Updated: 2026-11-23T19:58:09Z
   Vendor: Pixie You
   Product Type: 
   Availability: Available
@@ -55,16 +55,16 @@ Products include shampoo, conditioner, leave-in conditioner, and detangler spray
 ## Collections
 
 - [Home page](https://pixieyou.com/collections/frontpage)
-  Updated: 2026-11-15T12:21:49Z
+  Updated: 2026-11-23T12:17:35Z
   Total Products: 2
 - [The essentials (Home Page)](https://pixieyou.com/collections/the-essentials-home-page)
-  Updated: 2026-11-15T12:21:49Z
+  Updated: 2026-11-23T12:17:35Z
   Total Products: 6
 - [The Essentials 2](https://pixieyou.com/collections/the-essentials-2)
   Updated: 2026-07-22T02:55:23Z
   Total Products: 0
 - [New! Shopify performance sharing is now turned on](https://pixieyou.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-11-15T12:21:49Z
+  Updated: 2026-11-23T12:17:35Z
   Total Products: 7
 
 ## Blogs
@@ -166,7 +166,7 @@ Products include shampoo, conditioner, leave-in conditioner, and detangler spray
 - [Privacy Policy](https://pixieyou.com/policies/privacy-policy)
   Updated: 2026-07-21T02:09:03Z
 - [Shipping Policy](https://pixieyou.com/policies/shipping-policy)
-  Updated: 2026-07-21T02:09:13Z
+  Updated: 2026-11-18T14:37:24Z
 - [Refund Policy](https://pixieyou.com/policies/refund-policy)
   Updated: 2026-07-15T00:38:19Z
 - [Terms of Service](https://pixieyou.com/policies/terms-of-service)
