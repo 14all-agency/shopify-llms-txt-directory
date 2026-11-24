@@ -6,12 +6,12 @@
 - Timezone: Europe/Sofia
 - Created At: 2026-09-27T15:45:47Z
 - Contact Email: tbgnik200@gmail.com
-- Updated At: 2026-11-17T00:15:50.340Z
+- Updated At: 2026-11-24T00:16:55.119Z
 
 ## Products
 
 - [Urban Edge Heavyweight Hoodie | Oversized Streetwear Zip](https://urbanedgeoutfit.myshopify.com/products/casual-oversized-mens-hoodie-heavyweight-streetwear-style-long-sleeve-jacket): Shop the Urban Edge heavyweight hoodie. Thick fleece, oversized fit, and six colors for durable urban style.
-  Updated: 2026-11-09T22:51:21Z
+  Updated: 2026-11-18T06:10:24Z
   Vendor: Urban Edge
   Product Type: Hoodies
   Availability: Available
@@ -899,11 +899,24 @@
   - [Unlock Your Inner Rebel with a Guide to Gothic Washed Graphic Tees](https://urbanedgeoutfit.myshopify.com/blogs/news/unlock-your-inner-rebel-with-a-guide-to-gothic-washed-graphic-tees): Unlock Your Inner Rebel with a Guide to Gothic Washed Graphic Tees
     Updated: 2026-11-16T00:43:16Z
     Author: User
+  - [Oversized Streetwear Tee Guide – Find Your Perfect Fit 2026](https://urbanedgeoutfit.myshopify.com/blogs/news/oversized-streetwear-tee-guide-find-your-perfect-fit-2026): Oversized Streetwear Tee Guide – Find Your Perfect Fit 2026
+    Updated: 2026-11-23T07:05:42Z
+    Author: The Urban Edge Team
+    Tags: 2026 style, casual outfits, oversized tees, streetwear fashion, urban apparel
+  - [Exploring the Vintage Appeal of Urban Edge Washed Oversized Tee in Streetwear Fashion](https://urbanedgeoutfit.myshopify.com/blogs/news/exploring-the-vintage-appeal-of-urban-edge-washed-oversized-tee-in-streetwear-fashion): Exploring the Vintage Appeal of Urban Edge Washed Oversized Tee in Streetwear Fashion
+    Updated: 2026-11-18T00:42:12Z
+    Author: User
+  - [Gothic Washed Graphic Tee Unveiled: A Fashion Statement Guide](https://urbanedgeoutfit.myshopify.com/blogs/news/gothic-washed-graphic-tee-unveiled-a-fashion-statement-guide): Gothic Washed Graphic Tee Unveiled: A Fashion Statement Guide
+    Updated: 2026-11-20T00:27:52Z
+    Author: User
+  - [Exploring the Versatility of the Urban Edge Heavyweight Hoodie Oversized Streetwear Zip](https://urbanedgeoutfit.myshopify.com/blogs/news/exploring-the-versatility-of-the-urban-edge-heavyweight-hoodie-oversized-streetwear-zip): Exploring the Versatility of the Urban Edge Heavyweight Hoodie Oversized Streetwear Zip
+    Updated: 2026-11-23T00:43:20Z
+    Author: User
 
 ## Store Pages
 
-- [Contact](https://urbanedgeoutfit.myshopify.com/pages/contact)
-  Updated: 2026-09-27T15:45:51Z
+- [Contact](https://urbanedgeoutfit.myshopify.com/pages/contact): Have a question about an Urban Edge product or your order? Use the form below to get in touch.For sizing questions, include the product name, the s...
+  Updated: 2026-11-17T18:33:25Z
 - [Your Privacy Choices](https://urbanedgeoutfit.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-09-27T17:29:59Z
 
@@ -914,9 +927,9 @@
 - [Shipping Policy](https://urbanedgeoutfit.myshopify.com/policies/shipping-policy)
   Updated: 2026-11-07T22:02:37Z
 - [Refund Policy](https://urbanedgeoutfit.myshopify.com/policies/refund-policy)
-  Updated: 2026-10-08T14:03:52Z
+  Updated: 2026-11-17T18:40:08Z
 - [Terms of Service](https://urbanedgeoutfit.myshopify.com/policies/terms-of-service)
-  Updated: 2026-11-07T21:28:26Z
+  Updated: 2026-11-17T18:41:58Z
 - [Contact Information](https://urbanedgeoutfit.myshopify.com/policies/contact-information)
   Updated: 2026-11-07T21:37:11Z
 
