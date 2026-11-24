@@ -6,110 +6,110 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-10-15T18:04:26Z
 - Contact Email: nitin.sharma1171998@gmail.com
-- Updated At: 2026-11-17T00:52:55.059Z
+- Updated At: 2026-11-24T00:54:12.247Z
 
 ## Products
 
 - [n8n Workflow Automation Templates Bundle | Fileflora](https://fileflora.com/products/n8n-workflow-automation-templates): Explore n8n workflow templates and automation resources for APIs, webhooks, email, AI research and spreadsheets. Digital access; setup required.
-  Updated: 2026-10-20T18:05:24Z
+  Updated: 2026-11-17T06:36:15Z
   Vendor: Fileflora
   Product Type: Automation Templates
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/n8n-automation-bundle-premium-hero_1cd4170a-74c7-485a-a46e-b81468ea8152.png?v=1792138468
   Price: ₹499.00 INR
 - [Kids Printable Worksheets & Activity Books | Fileflora](https://fileflora.com/products/kids-printable-worksheets-activity-books): Explore printable preschool worksheets, tracing practice, colouring pages and activity books in digital PDF format for parents, tutors and educators.
-  Updated: 2026-10-20T18:05:24Z
+  Updated: 2026-11-17T06:36:14Z
   Vendor: Fileflora
   Product Type: Kids Learning
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/kids-printable-worksheets-premium-hero_fd558b31-3f2f-4995-9876-cd5c7114d974.png?v=1792169477
   Price: ₹199.00 INR
 - [AI Image & Video Prompt Guides PDF | Fileflora](https://fileflora.com/products/ai-image-video-prompt-guides): Explore AI image and video prompt guides with cinematic, fashion, adventure and product photography ideas. Download PDF references; AI tools sold separately.
-  Updated: 2026-11-10T19:06:49Z
+  Updated: 2026-11-17T06:36:12Z
   Vendor: Fileflora
   Product Type: AI Prompts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/ai-image-video-prompt-guides-premium-hero_a43ef035-9c81-4c9c-b14d-4dc3b2141408.png?v=1792093114
   Price: ₹249.00 INR
 - [Stickman Animation Reels MP4 Video Bundle | Fileflora](https://fileflora.com/products/stickman-animation-reels-bundle): Download stickman animation MP4 clips for reels, shorts and creative editing. Browse digital source videos, adapt formats and check usage terms.
-  Updated: 2026-10-20T18:05:25Z
+  Updated: 2026-11-17T06:36:15Z
   Vendor: Fileflora
   Product Type: Reels & Videos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/stickman-animation-reels-premium-hero_3e56e1ac-1990-4c6f-af62-621f143b2cc4.png?v=1792170298
   Price: ₹199.00 INR
 - [Satisfying Reels Video Clips MP4 Bundle | Fileflora](https://fileflora.com/products/satisfying-reels-video-clips-bundle): Explore satisfying short video MP4 clips to download and edit for Reels, Shorts and visual content. Digital resource library with varied footage.
-  Updated: 2026-10-20T18:05:25Z
+  Updated: 2026-11-17T06:36:15Z
   Vendor: Fileflora
   Product Type: Reels & Videos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/satisfying-reels-premium-hero_d2e0f2ef-efab-48b5-83e0-b69f34b2576b.png?v=1792171021
   Price: ₹199.00 INR
 - [AI Object Talking Reels MP4 Video Bundle | Fileflora](https://fileflora.com/products/ai-object-talking-reels-video-bundle): Download object-talking style MP4 video clips for Reels, Shorts and creative editing. Browse talking food, gadgets and character-led visual ideas.
-  Updated: 2026-11-10T19:06:50Z
+  Updated: 2026-11-17T06:36:12Z
   Vendor: Fileflora
   Product Type: Reels & Videos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/ai-object-talking-reels-premium-hero_3c8b293e-f960-4d2a-af06-f8e643ef80b9.png?v=1792171578
   Price: ₹299.00 INR
 - [Digital Marketing eBooks & Business Guides | Fileflora](https://fileflora.com/products/digital-marketing-ebooks-business-guides): Browse digital marketing eBooks on PPC, email marketing, blogging, funnels, leads and online business. Digital PDF and document resources; guidance may be historical.
-  Updated: 2026-10-20T18:05:26Z
+  Updated: 2026-11-17T06:36:14Z
   Vendor: Fileflora
   Product Type: Ebooks & Guides
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/digital-marketing-ebooks-premium-hero_1862bdc7-9162-419f-b1af-f89b3b40986e.png?v=1792172186
   Price: ₹149.00 INR
 - [Social Media Post Templates Bundle | Fileflora](https://fileflora.com/products/social-media-post-design-templates-library): Browse a multi-niche social media post templates library for fashion, bakery, promotions and festival designs. Digital PDF guide with linked resources.
-  Updated: 2026-10-20T18:05:26Z
+  Updated: 2026-11-17T06:36:15Z
   Vendor: Fileflora
   Product Type: Design Templates
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/social-media-post-templates-premium-hero_263c3641-f765-4e07-b4d4-b3ab657a3a1a.png?v=1792092520
   Price: ₹299.00 INR
 - [Editable Canva Templates & Design Resources | Fileflora](https://fileflora.com/products/editable-canva-design-templates-resource-pack): Explore editable Canva template resources via a PDF access guide. Ideal for creators and businesses. Check linked designs, access and licensing before buying.
-  Updated: 2026-10-20T18:05:26Z
+  Updated: 2026-11-17T06:36:14Z
   Vendor: Fileflora
   Product Type: Design Templates
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/canva-10000-bundle-hero.png?v=1792091575
   Price: ₹349.00 INR
 - [Motivational Animation Reels MP4 Clips | Fileflora](https://fileflora.com/products/motivational-text-animation-reels-mp4-video-bundle): Browse motivational text animation MP4 clips for Reels and Shorts. Digital video assets with Google Drive access. Review formats and usage terms.
-  Updated: 2026-10-20T18:05:26Z
+  Updated: 2026-11-17T06:36:15Z
   Vendor: Fileflora
   Product Type: Reels & Videos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/01-motivational-animation-reels-hero_d78729aa-a8b8-4b3c-aabc-eeb722d8b15c.png?v=1792216919
   Price: ₹249.00 INR
 - [Digital Products Mega Bundle | Canva Planners – Fileflora](https://fileflora.com/products/digital-products-mega-bundle-canva-templates-planners): Explore Canva templates, planners, journals, resume layouts and mockups with one PDF access guide. Discover digital design ideas for creators at Fileflora.
-  Updated: 2026-11-10T19:06:50Z
+  Updated: 2026-11-17T06:36:14Z
   Vendor: Fileflora
   Product Type: Digital Resource Bundles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/fileflora-user-design-01-original-60-million-bundle-full-design_c14b4a5e-0c5a-4f0e-bc51-0d8a2476589c.jpg?v=1792258380
   Price: ₹499.00 INR
 - [25,000 AI Image Prompts PDF Bundle | Fileflora](https://fileflora.com/products/25000-ai-image-prompts-pdf-bundle): Explore 25,000 AI image prompts in 10 categories including portraits, fantasy, food and architecture. Four PDF volumes plus a useful prompt guide.
-  Updated: 2026-11-10T19:06:48Z
+  Updated: 2026-11-17T06:36:11Z
   Vendor: Fileflora
   Product Type: AI Prompts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/fileflora-25000-ai-prompts-01-cover.jpg?v=1792259810
   Price: ₹349.00 INR
 - [Creating With Claude AI eBook | Digital Product Guide – Fileflora](https://fileflora.com/products/creating-with-claude-ai-build--digital-products-ebook): Learn to plan, create and  digital products with Claude AI and Canva. Practical 39-page A4 PDF guide with workflows and prompts. Instant access.
-  Updated: 2026-10-20T18:05:27Z
+  Updated: 2026-11-17T06:36:13Z
   Vendor: Fileflora
   Product Type: Ebooks & Guides
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/fileflora-creating-with-claude-original-ebook-cover_6aeb6ca1-d16d-40a2-8d7f-54f82c89341b.png?v=1792326756
   Price: ₹249.00 INR
 - [870+ Flutter Mobile App Source Code Bundle | Fileflora](https://fileflora.com/products/870-flutter-mobile-app-source-code-bundle): Explore 870+ Flutter mobile app source projects, UI concepts and a PDF catalogue across 44 categories. Built for developers, students and app creators.
-  Updated: 2026-11-13T06:26:16Z
+  Updated: 2026-11-17T06:36:12Z
   Vendor: Fileflora
   Product Type: Digital Source Code Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/01_flutter_870_bundle.jpg?v=1793012794
   Price: ₹299.00 INR
 - [STL 3D Models Mega Bundle – ₹199 | FileFlora](https://fileflora.com/products/80m-stl-3d-models-mega-bundle-digital-3d-printing-files): Explore STL design collections for 3D printing: planters, flexi dragons, lamps, masks, vases and organizers. Digital access guide from FileFlora. ₹199.
-  Updated: 2026-11-16T16:59:39Z
+  Updated: 2026-11-22T04:14:25Z
   Vendor: File Flora
   Product Type: Digital STL Files
   Availability: Available
@@ -128,24 +128,31 @@
     Availability: Available
     Price: ₹149.00 INR
 - [100,000+ Digital Product Ideas 2026–2027 | FileFlora](https://fileflora.com/products/100000-digital-product-ideas-2026-2027): Discover 100,000+ Digital Product Ideas 2026–2027. Explore PDF idea guides, niche examples and creative bonuses, including Lightroom presets and sample stock photos.
-  Updated: 2026-11-17T00:18:29Z
+  Updated: 2026-11-22T03:28:15Z
   Vendor: FileFlora
   Product Type: Digital Product Ideas & Guides
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/fileflora-100k-01_100000_plus_digital_product_ideas_cover.jpg?v=1794831401
   Price: ₹199.00 INR
+- [ChatGPT Prompt Guide PDF | 109 Pages | FileFlora](https://fileflora.com/products/chatgpt-ai-prompt-guide-pdf): Explore a 109-page English ChatGPT prompt guide with business, writing and productivity examples, plus A.C.E., T.A.S.K. and C.L.E.A.R. frameworks.
+  Updated: 2026-11-21T05:58:18Z
+  Vendor: FileFlora
+  Product Type: Ebooks & Guides
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/fileflora-chatgpt-ai-prompt-guide-01-cover.png?v=1795024514
+  Price: ₹199.00 INR
 
 ## Collections
 
 - [Home page](https://fileflora.com/collections/frontpage)
-  Updated: 2026-11-16T12:24:00Z
+  Updated: 2026-11-22T12:23:23Z
   Total Products: 10
 - [Automation Templates](https://fileflora.com/collections/automation-templates): Discover n8n automation workflow resources for email, webhooks, APIs and business tools. Explore digital templates and integration ideas.
   Updated: 2026-10-20T18:05:24Z
   Total Products: 1
 - [AI Prompts & Creative Resources](https://fileflora.com/collections/ai-prompts-creative-resources): Find AI image and video prompt PDF guides for creators, designers and marketers. Explore photography, lifestyle and cinematic prompting ideas.
-  Updated: 2026-10-20T18:05:24Z
-  Total Products: 2
+  Updated: 2026-11-18T17:58:09Z
+  Total Products: 3
 - [Reels & Video Bundles](https://fileflora.com/collections/reels-video-bundles): Explore downloadable MP4 video clip collections for reels and short-form edits, including stickman, satisfying and object-talking videos.
   Updated: 2026-10-23T11:32:32Z
   Total Products: 4
@@ -153,13 +160,13 @@
   Updated: 2026-10-20T18:05:24Z
   Total Products: 3
 - [Ebooks & Business Guides](https://fileflora.com/collections/ebooks-business-guides): Browse digital marketing eBooks covering PPC, email, blogging, content and business learning. Download PDF and other document resources.
-  Updated: 2026-10-21T11:28:23Z
-  Total Products: 6
+  Updated: 2026-11-18T17:58:09Z
+  Total Products: 7
 - [Kids Learning & Printables](https://fileflora.com/collections/kids-learning-printables): Browse printable kids learning worksheets, colouring pages, tracing activities and activity books in downloadable PDF format.
   Updated: 2026-10-20T18:05:24Z
   Total Products: 1
 - [All Products](https://fileflora.com/collections/all-products): Shop all Fileflora digital products: Canva designs, AI prompts, MP4 video clips, n8n workflow templates, printable worksheets and eBooks.
-  Updated: 2026-11-16T12:24:00Z
+  Updated: 2026-11-22T12:23:23Z
   Total Products: 21
 - [Education](https://fileflora.com/collections/education)
   Updated: 2026-11-14T10:14:19Z
@@ -210,6 +217,15 @@
     Author: Fileflora Editorial Team
   - [Guide to Using AI Video Prompts for Beginners](https://fileflora.com/blogs/guides/guide-to-using-ai-video-prompts-for-beginners): Guide to Using AI Video Prompts for Beginners
     Updated: 2026-11-16T00:40:34Z
+    Author: Fileflora Editorial Team
+  - [Elevate Your Visuals with Strategic AI Image Prompts](https://fileflora.com/blogs/guides/elevate-your-visuals-with-strategic-ai-image-prompts): Elevate Your Visuals with Strategic AI Image Prompts
+    Updated: 2026-11-18T00:29:50Z
+    Author: Fileflora Editorial Team
+  - [Short-Form Video Editing Tips for Impactful Reels](https://fileflora.com/blogs/guides/short-form-video-editing-tips-for-impactful-reels): Short-Form Video Editing Tips for Impactful Reels
+    Updated: 2026-11-20T00:25:16Z
+    Author: Fileflora Editorial Team
+  - [Top Canva Templates for Custom Social Media Posts](https://fileflora.com/blogs/guides/top-canva-templates-for-custom-social-media-posts): Top Canva Templates for Custom Social Media Posts
+    Updated: 2026-11-23T00:41:08Z
     Author: Fileflora Editorial Team
 
 ## Store Pages
