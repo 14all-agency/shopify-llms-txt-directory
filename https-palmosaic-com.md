@@ -6,7 +6,7 @@
 - Timezone: Asia/Hebron
 - Created At: 2025-04-25T12:04:35Z
 - Contact Email: palmosaic@gmail.com
-- Updated At: 2026-11-17T00:59:27.253Z
+- Updated At: 2026-11-24T01:08:47.155Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/decorative_mosaic_and_earthenware_plaque_with_floral_design_and_God_Bless_Our_Home3.jpg?v=1755862148
   Price: $200.00 USD
 - [The Eternal Olive | Jerusalem Mosaic & Tatreez Art — Pal-Mosaic](https://palmosaic.com/products/the-eternal-olive-jerusalem-mosaic-tatreez): Celebrate Palestinian roots with The Eternal Olive. Hand-cut Jerusalem stone mosaic fused with traditional tatreez embroidery in a handcrafted wood frame.
-  Updated: 2026-10-25T16:23:36Z
+  Updated: 2026-11-23T02:09:26Z
   Vendor: Pal-Mosaic
   Product Type: mosaic and embroidery
   Availability: Available
@@ -185,8 +185,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/Photoroom.jpg?v=1784906811
   Price: $390.00 USD
+- [The Palestinian Carved Rose Mosaic Art | Pal-Mosaic](https://palmosaic.com/products/the-palestinian-carved-rose): Bring the spirit of Palestine into your home with The Palestinian Carved Rose. A handcrafted natural stone mosaic featuring a beautifully hand-carved flower.
+  Updated: 2026-11-21T08:08:16Z
+  Vendor: Pal-Mosaic
+  Product Type: mosaic
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/Photoroom-Photoroom.webp?v=1784972195
+  Price: $160.00 USD
+- [Handmade Palestinian Red & Green Flower Embroidery Art Mosaic | Pal-Mosaic](https://palmosaic.com/products/the-tatreez-blossom-red-green-edition): Bring authentic Palestinian heritage into your home with The Tatreez Blossom (Red & Green Edition). A handcrafted artwork combining traditional tatreez, natural stone mosaic, and a dark wood frame.
+  Updated: 2026-11-21T21:24:01Z
+  Vendor: Pal-Mosaic
+  Product Type: mosaic
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/IMG_0315.jpg?v=1795249937
+  Price: $85.00 USD
 - [The Golden Meadow — Yellow Floral Tatreez & Stone Mosaic](https://palmosaic.com/products/the-golden-meadow-tatreez-mosaic-frame): Radiant yellow and earthy cross-stitch floral motifs embraced by native Palestinian stone mosaics. A warm, artisanal centerpiece for any living space.
-  Updated: 2026-11-14T21:01:41Z
+  Updated: 2026-11-23T12:12:15Z
   Vendor: Pal-Mosaic
   Product Type: Handmade Mosaic & Tatreez Wall Art
   Availability: Available
@@ -199,13 +213,13 @@
   Updated: 2026-08-26T07:52:19Z
   Total Products: 10
 - [Handmade Mosaic & Tatreez](https://palmosaic.com/collections/cultural-embroidery-gifts-pal-mosaic): Discover cultural embroidery gifts at Pal-Mosaic, featuring unique handmade Palestinian mosaic and embroidery art that celebrates heritage.
-  Updated: 2026-11-14T09:09:29Z
+  Updated: 2026-11-23T12:14:05Z
   Total Products: 15
 - [Handmade Palestinian Sculptures](https://palmosaic.com/collections/handmade-palestinian-sculptures): Discover handmade Palestinian sculptures at Pal-Mosaic. Exquisite stone pieces blending tradition and artistry for unique decor.
   Updated: 2026-07-28T07:21:16Z
   Total Products: 2
 - [AVADA - Best Sellers](https://palmosaic.com/collections/avada-best-sellers)
-  Updated: 2026-11-14T09:09:37Z
+  Updated: 2026-11-23T12:14:05Z
   Total Products: 29
 - [Handmade Mosaics & Ceramic](https://palmosaic.com/collections/ceramic-unique-ceramic-decor-gifts): Pal-Mosaic offers unique ceramic decor gifts featuring Palestinian handmade Hebron ceramics that celebrate culture and artistry.
   Updated: 2026-08-26T07:52:19Z
@@ -214,20 +228,20 @@
   Updated: 2026-08-26T07:23:34Z
   Total Products: 1
 - [AVADA Email Marketing - Newest Products](https://palmosaic.com/collections/avada-email-marketing-newest-products)
-  Updated: 2026-11-14T09:09:37Z
-  Total Products: 26
+  Updated: 2026-11-23T12:14:05Z
+  Total Products: 28
 - [AVADA Email Marketing - Best Sellers](https://palmosaic.com/collections/avada-email-marketing-best-sellers)
-  Updated: 2026-11-14T09:09:37Z
-  Total Products: 26
+  Updated: 2026-11-23T12:14:05Z
+  Total Products: 28
 - [all](https://palmosaic.com/collections/all)
-  Updated: 2026-11-14T09:09:37Z
+  Updated: 2026-11-23T12:14:05Z
   Total Products: 29
 - [[Shipping] 200$](https://palmosaic.com/collections/shipping-135111868600)
-  Updated: 2026-11-14T09:09:29Z
+  Updated: 2026-11-23T12:14:05Z
   Total Products: 27
 - [[Shipping] General profile](https://palmosaic.com/collections/shipping-124684828856)
-  Updated: 2026-11-14T09:09:37Z
-  Total Products: 1
+  Updated: 2026-11-21T09:27:00Z
+  Total Products: 2
 
 ## Blogs
 
