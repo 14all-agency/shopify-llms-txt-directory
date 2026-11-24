@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2020-01-08T15:55:40Z
 - Contact Email: info@nameplatedepot.com
-- Updated At: 2026-11-16T00:49:45.979Z
+- Updated At: 2026-11-24T00:46:22.616Z
 
 ## Products
 
 - [Sterling Silver Classic Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/sterling-silver-classic-name-necklace): Here it is! The perfect silver name necklace. Our Personalized Classic Name Necklace in .925 Sterling Silver is a favorite. This beautiful necklace  - NamePlateDepot
-  Updated: 2026-11-10T09:23:35Z
+  Updated: 2026-11-17T20:02:10Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -117,7 +117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/AJS043-Rose-Gold-Name-Necklace.jpg?v=1766256478
     Price: $73.00 USD
 - [Kids 3D Nameplate Necklace with Diamond Accent at NamePlateDepot](https://www.nameplatedepot.com/products/kids-3d-nameplate-necklace-with-diamond-accent): Make your little one sparkle with this elegant Kids 3D Nameplate Necklace with Diamond Accent. Expertly crafted with 15 dazzling cubic zirconia, this  - NamePlateDepot
-  Updated: 2026-11-10T09:23:35Z
+  Updated: 2026-11-20T16:07:35Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -141,7 +141,7 @@
     Availability: Not Available
     Price: $262.00 USD
 - [Double Name Plate Necklace with Diamond Cut at NamePlateDepot](https://www.nameplatedepot.com/products/double-name-plate-necklace-with-diamond-cut): Enjoy timeless elegance with this custom-made Petite Double Name Plate Necklace with Diamond Cut and 15 CZ. Crafted from fine-quality metal and  - NamePlateDepot
-  Updated: 2026-11-10T09:23:36Z
+  Updated: 2026-11-20T16:07:35Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -159,7 +159,7 @@
     Availability: Not Available
     Price: $267.00 USD
 - [Personalized 3D Nameplate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/personalized-3d-nameplate-necklace): Show off your unique style with a personalized 3D Nameplate Necklace with 10 CZ. Crafted with care, this custom-made nameplate features a diamond-cut  - NamePlateDepot
-  Updated: 2026-11-10T09:23:41Z
+  Updated: 2026-11-20T16:07:35Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -174,7 +174,7 @@
     Availability: Available
     Price: $325.00 USD
 - [Double Nameplate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/double-nameplate-necklace): This personalized double nameplate necklaces comes with sparkling CZ set on rhodium cut to give max bling impact. Specs: Type: Double 3D Style Base  - NamePlateDepot
-  Updated: 2026-11-10T09:23:41Z
+  Updated: 2026-11-20T16:07:34Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -189,7 +189,7 @@
     Availability: Available
     Price: $325.00 USD
 - [Custom 3D Nameplate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace): Make a unique statement with our Custom 3D Nameplate Necklace, featuring a double plate with wave pattern for a 3D look. The diamond cut and 20 CZ  - NamePlateDepot
-  Updated: 2026-11-10T09:23:41Z
+  Updated: 2026-11-20T16:07:34Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -213,7 +213,7 @@
     Availability: Not Available
     Price: $306.00 USD
 - [Nameplate Chain Necklace with Heart at NamePlateDepot](https://www.nameplatedepot.com/products/nameplate-chain-necklace-with-heart): This exquise Nameplate Chain Necklace wh Heart is crafted wh love and care, outfted wh 20 dazzling CZ stones for maximum sparkle. Customize  - NamePlateDepot
-  Updated: 2026-11-10T09:23:40Z
+  Updated: 2026-11-20T16:07:34Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -228,7 +228,7 @@
     Availability: Available
     Price: $315.00 USD
 - [3D Heart Nameplate Necklace  at NamePlateDepot](https://www.nameplatedepot.com/products/3d-heart-nameplate-necklace): Adorn yourself in luxury with the 3D Hert Nmeplte Necklce Extr Big with 20 CZ. This chic nme plte necklce showcses  double plte design with  - NamePlateDepot
-  Updated: 2026-11-10T09:23:45Z
+  Updated: 2026-11-20T16:07:33Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -246,7 +246,7 @@
     Availability: Not Available
     Price: $315.00 USD
 - [Personalized Necklace Name Plate at NamePlateDepot](https://www.nameplatedepot.com/products/personalized-necklace-name-plate): Featuring a big, bold nameplate design, this timeless personalized necklace is sure to become your go-to accessory for any special occasion. Boasting  - NamePlateDepot
-  Updated: 2026-11-10T09:23:45Z
+  Updated: 2026-11-20T16:07:33Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -261,7 +261,7 @@
     Availability: Available
     Price: $340.00 USD
 - [Two Heart Nameplate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/two-heart-nameplate-necklace): This two-heart nameplate necklace with 20 CZ offers a custom made design to give you something truly unique and special. Its diamond cut accents  - NamePlateDepot
-  Updated: 2026-11-10T09:23:46Z
+  Updated: 2026-11-20T16:07:33Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -285,7 +285,7 @@
     Availability: Not Available
     Price: $267.00 USD
 - [Double Personalized Necklace with Heart at NamePlateDepot](https://www.nameplatedepot.com/products/double-personalized-necklace-with-heart): This double personalized necklace with heart is a luxurious expression of affection. Its name plate necklace is adorned with a wave design below the  - NamePlateDepot
-  Updated: 2026-11-10T09:23:51Z
+  Updated: 2026-11-20T16:07:32Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -313,7 +313,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP32.jpg?v=1766256530
     Price: $306.00 USD
 - [3D Nameplate Necklace with Bird & Heart at NamePlateDepot](https://www.nameplatedepot.com/products/3d-nameplate-necklace-with-bird-heart): This 3D Nameplate Necklace with Bird &amp; Heart with 20 CZ exudes chic elegance and understated sophistication. The diamond-cut nameplate necklace  - NamePlateDepot
-  Updated: 2026-11-10T09:23:56Z
+  Updated: 2026-11-20T16:07:32Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -340,7 +340,7 @@
     Availability: Not Available
     Price: $301.00 USD
 - [Two Tone Nameplate Necklace with at Bow at NamePlateDepot](https://www.nameplatedepot.com/products/two-tone-nameplate-necklace-with-at-bow): This exquisite Two Tone Nameplate Necklace will elevate y look to luxurious heights. Crafted from sterling silver, this personalized piece features  - NamePlateDepot
-  Updated: 2026-11-10T09:23:55Z
+  Updated: 2026-11-20T16:07:32Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -355,7 +355,7 @@
     Availability: Available
     Price: $315.00 USD
 - [Big Small Letter Nameplate Necklace Two Tone at NamePlateDepot](https://www.nameplatedepot.com/products/big-small-letter-nameplate-necklace-two-tone): This dazzling two-tone  necklace brings a touch of elegance to any look. Crafted in sterling silver and plated in gold, it features a  - NamePlateDepot
-  Updated: 2026-11-10T09:24:01Z
+  Updated: 2026-11-20T16:07:31Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -373,7 +373,7 @@
     Availability: Not Available
     Price: $315.00 USD
 - [Custom 3D Nameplate Necklace with Birthstone Heart at NamePlateDepot](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-with-birthstone-heart): Perfect for a unique expression of love, this custom 3D nameplate necklace features a diamond-cut name and a birthstone heart at its center. Crafted  - NamePlateDepot
-  Updated: 2026-11-10T09:24:05Z
+  Updated: 2026-11-20T16:07:31Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -403,7 +403,7 @@
     Availability: Not Available
     Price: $346.00 USD
 - [3D Name Plate Necklace with Heart at NamePlateDepot](https://www.nameplatedepot.com/products/3d-name-plate-necklace-with-heart): Adorn your neck in sparkling diamond-cut elegance with this exquisitely crafted custom-made 3D Name Plate Necklace with Heart. Featuring 20  - NamePlateDepot
-  Updated: 2026-11-10T09:24:05Z
+  Updated: 2026-11-20T16:07:31Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -418,7 +418,7 @@
     Availability: Available
     Price: $306.00 USD
 - [Big Size Nameplate Necklace with Tail at NamePlateDepot](https://www.nameplatedepot.com/products/big-size-nameplate-necklace-with-tail): This Big Size Nameplate Necklace with Tail provides a personalized touch to a classic design. Crafted with 20 cubic zirconia stones set in a double  - NamePlateDepot
-  Updated: 2026-11-10T09:24:10Z
+  Updated: 2026-11-20T16:07:31Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -433,7 +433,7 @@
     Availability: Available
     Price: $335.00 USD
 - [Custom 3D Name Plate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace): This sophisticated name plate necklace is the perfect way to show your everlasting love and admiration with its exquisite design. The sparkling 10 CZs  - NamePlateDepot
-  Updated: 2026-11-10T09:24:15Z
+  Updated: 2026-11-20T16:07:30Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -467,7 +467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP39.jpg?v=1766256554
     Price: $536.00 USD
 - [Personalized Double Plate 3D Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/personalized-double-plate-3d-name-necklace): Adorn yourself with a timeless keepsake--the Personalized Double Plate 3D Name Necklace with 20 CZ. Showcasing your personal name or the name of a  - NamePlateDepot
-  Updated: 2026-11-10T09:24:16Z
+  Updated: 2026-11-20T16:07:30Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -486,7 +486,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP40.jpg?v=1766256561
     Price: $315.00 USD
 - [Curved 3D Nameplate Necklace with Two Hearts at NamePlateDepot](https://www.nameplatedepot.com/products/curved-3d-nameplate-necklace-with-two-hearts): Introducing the Curved 3D Nameplate Necklace with Two Hearts with 10 CZ! This unique  stylish necklace is the perfect way to show your personality  - NamePlateDepot
-  Updated: 2026-11-10T09:24:40Z
+  Updated: 2026-11-20T16:07:30Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -644,7 +644,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/JME001-3.jpg?v=1766256561
     Price: $615.50 USD
 - [Big 3D Double Plated CZ Nameplate Necklace with Crown at NamePlateDepot](https://www.nameplatedepot.com/products/big-3d-double-plated-cz-nameplate-necklace-with-crown): Admirably opulent, this Big 3D Double Plated CZ Nameplate Necklace with Crown is the perfect statement piece for the modern queen. Featuring a  - NamePlateDepot
-  Updated: 2026-11-10T09:24:46Z
+  Updated: 2026-11-20T16:07:29Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -665,7 +665,7 @@
     Availability: Not Available
     Price: $325.00 USD
 - [Valentines Ruby Hearts Nameplate Necklace for Women at NamePlateDepot](https://www.nameplatedepot.com/products/valentines-ruby-hearts-nameplate-necklace-for-women): This Valentines Ruby Hearts Nameplate Necklace is a perfect way for her to show off her personal style. Crafted from two-tone silver with a classic  - NamePlateDepot
-  Updated: 2026-11-10T09:24:46Z
+  Updated: 2026-11-20T16:07:29Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -683,7 +683,7 @@
     Availability: Not Available
     Price: $572.00 USD
 - [Valentine Day Two Hearts Nameplate Necklace for Women at NamePlateDepot](https://www.nameplatedepot.com/products/valentine-day-two-hearts-nameplate-necklace-for-women): Celebrate love and affection with this Valentine Day Two Hearts Nameplate Necklace for Women. Crafted with a two-tone design, the necklace features a  - NamePlateDepot
-  Updated: 2026-11-10T09:24:51Z
+  Updated: 2026-11-20T16:07:29Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -698,7 +698,7 @@
     Availability: Available
     Price: $383.00 USD
 - [3D Nameplate Neckalce with Back Plate in Sterling Silver at NamePlateDepot](https://www.nameplatedepot.com/products/3d-nameplate-neckalce-with-back-plate-in-sterling-silver): Adorn your neck with style, elegance, and exclusivity with our 3D Nameplate Necklace. Crafted in sterling silver and adorned with 20 dazzling CZ  - NamePlateDepot
-  Updated: 2026-11-10T09:24:50Z
+  Updated: 2026-11-20T16:07:28Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -719,7 +719,7 @@
     Availability: Not Available
     Price: $335.00 USD
 - [Butterfly Name Plate Necklace Big in Gold Overlay at NamePlateDepot](https://www.nameplatedepot.com/products/butterfly-name-plate-necklace-big-in-gold-overlay): This exquisite Butterfly Name Plate Necklace Big with 10 CZ is the perfect way to express your individuality in style. Crafted with a double plate  - NamePlateDepot
-  Updated: 2026-11-10T09:24:55Z
+  Updated: 2026-11-20T16:07:28Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -746,7 +746,7 @@
     Availability: Not Available
     Price: $354.00 USD
 - [Curssive Font Nameplate Necklace Double Plated at NamePlateDepot](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated): Fully loaded nameplate necklace with 20 sparkling crystals will make it stand out in any necklace.   Specs: Type: Double 3D Style Base Metal: .925  - NamePlateDepot
-  Updated: 2026-11-10T09:25:01Z
+  Updated: 2026-11-20T16:07:28Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -776,7 +776,7 @@
     Availability: Not Available
     Price: $335.00 USD
 - [3D Nameplate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/3d-nameplate-necklace): Enhance your look with this exquisite 3D Nameplate Necklace with 20 CZ. Crafted from sterling silver with an elegant plating option, this impressive  - NamePlateDepot
-  Updated: 2026-11-10T09:25:02Z
+  Updated: 2026-11-20T16:07:27Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -791,7 +791,7 @@
     Availability: Available
     Price: $295.00 USD
 - [ Double Plated Name Necklace in Gold Overlay at NamePlateDepot](https://www.nameplatedepot.com/products/-double-plated-name-necklace-in-gold-overlay): Stay ahead of the trends with this stylish and luxurious  Double Plated Name Necklace in Gold Overlay with 20 CZ. This high-end fashion  - NamePlateDepot
-  Updated: 2026-11-10T09:25:05Z
+  Updated: 2026-11-20T16:07:27Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -815,7 +815,7 @@
     Availability: Not Available
     Price: $315.00 USD
 - [3D Block Nameplate Necklace  at NamePlateDepot](https://www.nameplatedepot.com/products/3d-block-nameplate-necklace): Designed for the fashion-forward man, this 3D Block Nameplate Necklace with 20 CZs stands out with its bold, block letters and luxurious nameplate. An  - NamePlateDepot
-  Updated: 2026-11-10T09:25:10Z
+  Updated: 2026-11-20T16:07:27Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -834,7 +834,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP50.jpg?v=1766256594
     Price: $286.00 USD
 - [Large Personalized Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/large-personalized-name-necklace): This luxurious Large Personalized Name Necklace will add a touch of sophistication and class to your look. Crafted from sterling silver, the delicate  - NamePlateDepot
-  Updated: 2026-11-10T09:25:15Z
+  Updated: 2026-11-20T16:07:26Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -858,14 +858,14 @@
     Availability: Not Available
     Price: $185.00 USD
 - [Name Plate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/name-plate-necklace): Specs: Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay : Polish  or Brushed Satin  - NamePlateDepot
-  Updated: 2026-11-10T09:25:15Z
+  Updated: 2026-11-20T16:07:26Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP09B.jpg?v=1766256613
   Price: $131.00 USD
 - [Personalized Curssive Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/personalized-curssive-name-necklace): A classic, subtle style with a personalized touch, this personalized cursive name necklace is perfect for wearing every day. Its timeless design will  - NamePlateDepot
-  Updated: 2026-11-10T09:25:15Z
+  Updated: 2026-11-20T16:07:25Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -886,7 +886,7 @@
     Availability: Not Available
     Price: $176.00 USD
 - [Curssive Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/curssive-name-necklace): For the perfect blend of personal customisation and sophisticated luxury, our sterling silver block name necklace is the perfect choice. Handcrafted  - NamePlateDepot
-  Updated: 2026-11-10T09:25:21Z
+  Updated: 2026-11-20T16:07:25Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -919,7 +919,7 @@
     Availability: Not Available
     Price: $166.00 USD
 - [Personalized Classic Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/personalized-classic-name-necklace): Specs: Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay : Polish  or Brushed Satin  - NamePlateDepot
-  Updated: 2026-11-10T09:25:20Z
+  Updated: 2026-11-20T16:07:24Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -931,7 +931,7 @@
     Availability: Not Available
     Price: $121.00 USD
 - [Large Name Necklace Princess Style at NamePlateDepot](https://www.nameplatedepot.com/products/large-name-necklace-princess-style): Specs: Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay : Polish  or Brushed Satin  - NamePlateDepot
-  Updated: 2026-11-10T09:25:25Z
+  Updated: 2026-11-20T16:07:24Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -946,7 +946,7 @@
     Availability: Not Available
     Price: $176.00 USD
 - [Styled Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/styled-name-necklace): This elegant name necklace is the perfect choice to add a touch of sophistication and timeless style to your jewelry collection. Crafted with precise  - NamePlateDepot
-  Updated: 2026-11-10T09:25:31Z
+  Updated: 2026-11-20T16:07:24Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -982,7 +982,7 @@
     Availability: Not Available
     Price: $225.00 USD
 - [Two Name Necklace with Heart at NamePlateDepot](https://www.nameplatedepot.com/products/two-name-necklace-with-heart): This exquisite two name necklace is hand-cut with a diamond accent to commemorate a special bond or union. The top name and bottom name curve  - NamePlateDepot
-  Updated: 2026-11-10T09:25:35Z
+  Updated: 2026-11-20T16:07:24Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1003,7 +1003,7 @@
     Availability: Not Available
     Price: $259.00 USD
 - [Gothic Name Necklace with All Capital Letters at NamePlateDepot](https://www.nameplatedepot.com/products/gothic-name-necklace-with-all-capital-letters): Crafted from sterling silver and finely detailed with a blockish font, this luxurious Gothic Name Necklace offers a sophisticated and exclusive way to  - NamePlateDepot
-  Updated: 2026-11-10T09:25:36Z
+  Updated: 2026-11-20T16:07:23Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1027,7 +1027,7 @@
     Availability: Not Available
     Price: $176.00 USD
 - [Custom Name Necklace with Heart on Top at NamePlateDepot](https://www.nameplatedepot.com/products/custom-name-necklace-with-heart-on-top): This exclusive Custom Nme Necklce with Hert on Top is the perfect gift for the little girl in your life. Crfted from sterling silver nd feturing  - NamePlateDepot
-  Updated: 2026-11-10T09:25:40Z
+  Updated: 2026-11-20T16:07:22Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1048,7 +1048,7 @@
     Availability: Not Available
     Price: $160.00 USD
 - [Curved Name Necklace with Heart & Accent at NamePlateDepot](https://www.nameplatedepot.com/products/curved-name-necklace-with-heart-accent): Elevate your wardrobe with this sophisticated curved name necklace made of sterling silver and gold overlay. Increase your style with the additional  - NamePlateDepot
-  Updated: 2026-11-10T09:25:40Z
+  Updated: 2026-11-20T16:07:21Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1066,7 +1066,7 @@
     Availability: Not Available
     Price: $131.00 USD
 - [Kids' Solid Gold Name Necklace with Birthstone](https://www.nameplatedepot.com/products/gold-name-necklace-with-birthstone): Personalize a kids' name necklace with a birthstone in solid 10K or 14K gold, with available gold-color options and a matching 16-inch gold chain.
-  Updated: 2026-11-10T09:25:51Z
+  Updated: 2026-11-20T16:07:21Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1104,48 +1104,861 @@
   - [Real Gold - Yellow 10K #MWS Options 1](https://www.nameplatedepot.com/products/gold-name-necklace-with-birthstone?variant=50472117731621)
     Availability: Not Available
     Price: $808.50 USD
-[List Continued](https://www.nameplatedepot.com/a/llms-agent/llms.txt?shop=nameplatedepot.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2NTQyMzY3Nzg1MDA1LCJsYXN0X3ZhbHVlIjoiNjU0MjM2Nzc4NTAwNSJ9)
+- [Kids 3D Nameplate Necklace with Diamond Accent - NamePlateDepot](https://www.nameplatedepot.com/products/kids-3d-gold-nameplate-necklace): Introducing the Kids 3D Nameplate Necklace with Diamond Accent! This dainty and oh-so-cute piece is perfect for any new mama looking to adorn her  - NamePlateDepot
+  Updated: 2026-11-20T16:07:20Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP01C_2675e8dc-f8f2-454e-a457-bcea8720fba7.jpg?v=1766256678
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/kids-3d-gold-nameplate-necklace?variant=45840031678757)
+    Availability: Available
+    Price: $1,023.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/kids-3d-gold-nameplate-necklace?variant=45840031711525)
+    Availability: Available
+    Price: $1,345.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/kids-3d-gold-nameplate-necklace?variant=45840031744293)
+    Availability: Available
+    Price: $1,345.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/kids-3d-gold-nameplate-necklace?variant=45840031777061)
+    Availability: Available
+    Price: $1,559.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 1075091397](https://www.nameplatedepot.com/products/kids-3d-gold-nameplate-necklace?variant=47522237579557)
+    Availability: Not Available
+    Price: $1,345.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1518901076](https://www.nameplatedepot.com/products/kids-3d-gold-nameplate-necklace?variant=47551703351589)
+    Availability: Not Available
+    Price: $1,023.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 1007785922](https://www.nameplatedepot.com/products/kids-3d-gold-nameplate-necklace?variant=47723885068581)
+    Availability: Not Available
+    Price: $1,632.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 283956964](https://www.nameplatedepot.com/products/kids-3d-gold-nameplate-necklace?variant=49648735322405)
+    Availability: Not Available
+    Price: $1,023.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 694146800](https://www.nameplatedepot.com/products/kids-3d-gold-nameplate-necklace?variant=50000843276581)
+    Availability: Not Available
+    Price: $1,149.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1](https://www.nameplatedepot.com/products/kids-3d-gold-nameplate-necklace?variant=50239313215781)
+    Availability: Not Available
+    Price: $1,023.50 USD
+- [Double-Plated Gold Nameplate Necklace | Diamond Cut](https://www.nameplatedepot.com/products/10k-14k-gold-double-name-plate-necklace-with-diamond-cut): Personalize a 10K or 14K gold double-plated nameplate necklace with diamond-cut lettering and a raised 3D design.
+  Updated: 2026-11-17T20:04:36Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP02_1f90d653-59b0-4c93-ab12-2f48d60fd188.jpg?v=1766256684
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/10k-14k-gold-double-name-plate-necklace-with-diamond-cut?variant=45839517942053)
+    Availability: Available
+    Price: $1,282.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/10k-14k-gold-double-name-plate-necklace-with-diamond-cut?variant=45839517974821)
+    Availability: Available
+    Price: $1,604.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/10k-14k-gold-double-name-plate-necklace-with-diamond-cut?variant=45839518007589)
+    Availability: Available
+    Price: $1,604.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/10k-14k-gold-double-name-plate-necklace-with-diamond-cut?variant=45839518040357)
+    Availability: Available
+    Price: $1,818.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 921884140](https://www.nameplatedepot.com/products/10k-14k-gold-double-name-plate-necklace-with-diamond-cut?variant=48574550376741)
+    Availability: Not Available
+    Price: $1,282.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1937364646](https://www.nameplatedepot.com/products/10k-14k-gold-double-name-plate-necklace-with-diamond-cut?variant=49925074649381)
+    Availability: Not Available
+    Price: $1,282.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 1](https://www.nameplatedepot.com/products/10k-14k-gold-double-name-plate-necklace-with-diamond-cut?variant=50387204440357)
+    Availability: Not Available
+    Price: $1,604.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1](https://www.nameplatedepot.com/products/10k-14k-gold-double-name-plate-necklace-with-diamond-cut?variant=50390572663077)
+    Availability: Not Available
+    Price: $1,489.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 2](https://www.nameplatedepot.com/products/10k-14k-gold-double-name-plate-necklace-with-diamond-cut?variant=50508738724133)
+    Availability: Not Available
+    Price: $1,949.50 USD
+  - [Real Gold - Rose 14K #MWS Options 1](https://www.nameplatedepot.com/products/10k-14k-gold-double-name-plate-necklace-with-diamond-cut?variant=50729005777189)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP02_1f90d653-59b0-4c93-ab12-2f48d60fd188.jpg?v=1766256684
+    Price: $1,818.50 USD
+- [Personalized 3D Gold Nameplate Necklace | Double Plate](https://www.nameplatedepot.com/products/real-gold-personalized-3d-nameplate-necklace): Shop a personalized double-plate 3D gold nameplate necklace with diamond-cut lettering, heart detail and genuine diamond or CZ options.
+  Updated: 2026-11-20T16:07:20Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP04_d3b46551-00c1-4cdf-a2d8-469407ae204b.jpg?v=1766256684
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/real-gold-personalized-3d-nameplate-necklace?variant=45865573482789)
+    Availability: Available
+    Price: $1,218.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/real-gold-personalized-3d-nameplate-necklace?variant=45865573515557)
+    Availability: Available
+    Price: $1,667.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/real-gold-personalized-3d-nameplate-necklace?variant=45865573548325)
+    Availability: Available
+    Price: $1,667.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/real-gold-personalized-3d-nameplate-necklace?variant=45865573581093)
+    Availability: Available
+    Price: $1,882.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 1190565703](https://www.nameplatedepot.com/products/real-gold-personalized-3d-nameplate-necklace?variant=47501122994469)
+    Availability: Not Available
+    Price: $3,328.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 798348778](https://www.nameplatedepot.com/products/real-gold-personalized-3d-nameplate-necklace?variant=48663517724965)
+    Availability: Not Available
+    Price: $1,218.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1778439843](https://www.nameplatedepot.com/products/real-gold-personalized-3d-nameplate-necklace?variant=49571427352869)
+    Availability: Not Available
+    Price: $1,491.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1710282401](https://www.nameplatedepot.com/products/real-gold-personalized-3d-nameplate-necklace?variant=49674385391909)
+    Availability: Not Available
+    Price: $1,218.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1812453028](https://www.nameplatedepot.com/products/real-gold-personalized-3d-nameplate-necklace?variant=49917441114405)
+    Availability: Not Available
+    Price: $1,342.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1](https://www.nameplatedepot.com/products/real-gold-personalized-3d-nameplate-necklace?variant=50195200049445)
+    Availability: Not Available
+    Price: $1,218.50 USD
+- [Double-Plated Gold Nameplate Necklace | Cursive](https://www.nameplatedepot.com/products/gold-double-nameplate-necklace): Personalize a cursive double-plated gold nameplate necklace with a raised 3D design, diamond-cut detail and genuine diamond or CZ options.
+  Updated: 2026-11-20T16:07:20Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP06_0634c7ba-aaa2-4ba9-b357-e1f4ecbe0118.jpg?v=1766256690
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/gold-double-nameplate-necklace?variant=45839766159653)
+    Availability: Available
+    Price: $1,400.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/gold-double-nameplate-necklace?variant=45839766192421)
+    Availability: Available
+    Price: $1,720.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/gold-double-nameplate-necklace?variant=45839766225189)
+    Availability: Available
+    Price: $1,720.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/gold-double-nameplate-necklace?variant=45839766257957)
+    Availability: Available
+    Price: $1,936.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 346068903](https://www.nameplatedepot.com/products/gold-double-nameplate-necklace?variant=46862721483045)
+    Availability: Not Available
+    Price: $3,223.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 902944238](https://www.nameplatedepot.com/products/gold-double-nameplate-necklace?variant=48276079313189)
+    Availability: Not Available
+    Price: $1,400.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 542431044](https://www.nameplatedepot.com/products/gold-double-nameplate-necklace?variant=49520912957733)
+    Availability: Not Available
+    Price: $2,728.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1883887271](https://www.nameplatedepot.com/products/gold-double-nameplate-necklace?variant=49971386482981)
+    Availability: Not Available
+    Price: $1,400.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 1](https://www.nameplatedepot.com/products/gold-double-nameplate-necklace?variant=50317188235557)
+    Availability: Not Available
+    Price: $2,065.50 USD
+- [Custom 3D Gold Nameplate Necklace | 10K & 14K](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-in-10k-14k-gold): Personalize a double-plated 3D nameplate necklace in solid 10K or 14K gold with white, yellow or rose gold options and diamond or CZ accents.
+  Updated: 2026-11-20T16:07:19Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP08_0b0d0a1b-b75e-450c-a2b3-da981b82b6b6.jpg?v=1766256697
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-in-10k-14k-gold?variant=45865388179749)
+    Availability: Available
+    Price: $1,667.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-in-10k-14k-gold?variant=45865388212517)
+    Availability: Available
+    Price: $2,097.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-in-10k-14k-gold?variant=45865388245285)
+    Availability: Available
+    Price: $2,097.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-in-10k-14k-gold?variant=45865388278053)
+    Availability: Available
+    Price: $2,206.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3947140892](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-in-10k-14k-gold?variant=47547718959397)
+    Availability: Not Available
+    Price: $1,811.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 2907559450](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-in-10k-14k-gold?variant=48203761058085)
+    Availability: Not Available
+    Price: $2,195.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3110524448](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-in-10k-14k-gold?variant=48245223850277)
+    Availability: Not Available
+    Price: $2,225.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 361289536](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-in-10k-14k-gold?variant=49453178487077)
+    Availability: Not Available
+    Price: $2,648.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3830568657](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-in-10k-14k-gold?variant=49742458323237)
+    Availability: Not Available
+    Price: $1,667.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 292738878](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-in-10k-14k-gold?variant=49923754393893)
+    Availability: Not Available
+    Price: $2,373.50 USD
+  - [Real Gold - Rose 14K #MWS Options 265672297](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-in-10k-14k-gold?variant=49997489864997)
+    Availability: Not Available
+    Price: $2,663.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-in-10k-14k-gold?variant=50684775006501)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP08_0b0d0a1b-b75e-450c-a2b3-da981b82b6b6.jpg?v=1766256697
+    Price: $1,770.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 2](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-in-10k-14k-gold?variant=51181151682853)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP08_0b0d0a1b-b75e-450c-a2b3-da981b82b6b6.jpg?v=1766256697
+    Price: $2,253.50 USD
+- [Double-Plated Gold Heart Nameplate Necklace | 10K & 14K](https://www.nameplatedepot.com/products/10k-14k-gold-nameplate-chain-necklace-with-heart): Personalize a double-plated 3D gold nameplate necklace with a heart detail, diamond-cut lettering and genuine diamond or cubic zirconia options.
+  Updated: 2026-11-20T16:07:19Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP10_a705f90e-d415-4c0a-aeb1-6f89675d691f.jpg?v=1766256702
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/10k-14k-gold-nameplate-chain-necklace-with-heart?variant=45839532032293)
+    Availability: Available
+    Price: $1,646.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/10k-14k-gold-nameplate-chain-necklace-with-heart?variant=45839532065061)
+    Availability: Available
+    Price: $1,972.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/10k-14k-gold-nameplate-chain-necklace-with-heart?variant=45839532097829)
+    Availability: Available
+    Price: $1,972.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/10k-14k-gold-nameplate-chain-necklace-with-heart?variant=45839532130597)
+    Availability: Available
+    Price: $2,183.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3967932118](https://www.nameplatedepot.com/products/10k-14k-gold-nameplate-chain-necklace-with-heart?variant=49649148461349)
+    Availability: Not Available
+    Price: $1,771.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 4070102745](https://www.nameplatedepot.com/products/10k-14k-gold-nameplate-chain-necklace-with-heart?variant=50037640298789)
+    Availability: Not Available
+    Price: $1,896.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 1](https://www.nameplatedepot.com/products/10k-14k-gold-nameplate-chain-necklace-with-heart?variant=50718956880165)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP10_a705f90e-d415-4c0a-aeb1-6f89675d691f.jpg?v=1766256702
+    Price: $2,938.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1](https://www.nameplatedepot.com/products/10k-14k-gold-nameplate-chain-necklace-with-heart?variant=50760193179941)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP10_a705f90e-d415-4c0a-aeb1-6f89675d691f.jpg?v=1766256702
+    Price: $1,646.50 USD
+- [3D Gold Heart Nameplate Necklace | 10K & 14K](https://www.nameplatedepot.com/products/real-gold-3d-heart-nameplate-necklace): Shop a personalized double-plated 3D heart nameplate necklace in solid 10K or 14K gold with three gold colors and diamond or CZ options.
+  Updated: 2026-11-20T16:07:19Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP14_ba55f38b-87f8-414a-ae3e-3f8e0cd9eb21.jpg?v=1766256708
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/real-gold-3d-heart-nameplate-necklace?variant=46245635359013)
+    Availability: Available
+    Price: $1,988.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/real-gold-3d-heart-nameplate-necklace?variant=46245635391781)
+    Availability: Available
+    Price: $2,686.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/real-gold-3d-heart-nameplate-necklace?variant=46245635424549)
+    Availability: Available
+    Price: $2,686.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1465030484](https://www.nameplatedepot.com/products/real-gold-3d-heart-nameplate-necklace?variant=47848289370405)
+    Availability: Not Available
+    Price: $3,459.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1331402574](https://www.nameplatedepot.com/products/real-gold-3d-heart-nameplate-necklace?variant=47848290877733)
+    Availability: Not Available
+    Price: $3,519.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1398249297](https://www.nameplatedepot.com/products/real-gold-3d-heart-nameplate-necklace?variant=47848294056229)
+    Availability: Not Available
+    Price: $3,575.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 2881607193](https://www.nameplatedepot.com/products/real-gold-3d-heart-nameplate-necklace?variant=48203815977253)
+    Availability: Not Available
+    Price: $2,547.50 USD
+  - [Real Gold - White 14K #MWS Options 1](https://www.nameplatedepot.com/products/real-gold-3d-heart-nameplate-necklace?variant=50263609508133)
+    Availability: Not Available
+    Price: $2,686.50 USD
+- [Personalized Double-Plated Gold Nameplate | 10K & 14K](https://www.nameplatedepot.com/products/gold-personalized-necklace-name-plate): Shop a personalized double-plated 3D nameplate necklace in solid 10K or 14K gold with white, yellow or rose gold and diamond or CZ options.
+  Updated: 2026-11-20T16:07:18Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP21_425e045a-440a-4236-8fab-8aab1c0c7cb0.jpg?v=1766256708
+  Price: $1,828.50 USD
+- [Two-Heart Double-Plated Gold Nameplate Necklace](https://www.nameplatedepot.com/products/two-heart-nameplate-necklace-in-10k-14k-gold): Personalize a double-plated 3D gold nameplate necklace with two heart details, diamond-cut styling and genuine diamond or cubic zirconia options.
+  Updated: 2026-11-20T16:07:18Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP31.jpg?v=1766256715
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/two-heart-nameplate-necklace-in-10k-14k-gold?variant=45864162689317)
+    Availability: Available
+    Price: $1,282.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/two-heart-nameplate-necklace-in-10k-14k-gold?variant=45864162722085)
+    Availability: Available
+    Price: $1,581.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/two-heart-nameplate-necklace-in-10k-14k-gold?variant=45864162754853)
+    Availability: Available
+    Price: $1,581.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/two-heart-nameplate-necklace-in-10k-14k-gold?variant=45864162787621)
+    Availability: Available
+    Price: $1,795.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 4023621407](https://www.nameplatedepot.com/products/two-heart-nameplate-necklace-in-10k-14k-gold?variant=46734918025509)
+    Availability: Not Available
+    Price: $1,495.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3934557979](https://www.nameplatedepot.com/products/two-heart-nameplate-necklace-in-10k-14k-gold?variant=47947166908709)
+    Availability: Not Available
+    Price: $1,282.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1](https://www.nameplatedepot.com/products/two-heart-nameplate-necklace-in-10k-14k-gold?variant=51064165105957)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP31.jpg?v=1766256715
+    Price: $1,282.50 USD
+- [Double-Plated Gold Name Necklace with Heart | 10K & 14K](https://www.nameplatedepot.com/products/10k-14k-gold-double-personalized-necklace-with-heart): Personalize a double-plated 3D name necklace in solid 10K or 14K gold with a heart and wave detail, three gold colors and stone options.
+  Updated: 2026-11-20T16:07:18Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP32_5e1f21ab-159c-4b4d-8f94-913aa1ab1d2f.jpg?v=1766256714
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/10k-14k-gold-double-personalized-necklace-with-heart?variant=45864889876773)
+    Availability: Available
+    Price: $1,711.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/10k-14k-gold-double-personalized-necklace-with-heart?variant=45864889909541)
+    Availability: Available
+    Price: $1,923.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/10k-14k-gold-double-personalized-necklace-with-heart?variant=45864889942309)
+    Availability: Available
+    Price: $1,923.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/10k-14k-gold-double-personalized-necklace-with-heart?variant=45864889975077)
+    Availability: Available
+    Price: $2,140.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 4065761057](https://www.nameplatedepot.com/products/10k-14k-gold-double-personalized-necklace-with-heart?variant=47401699148069)
+    Availability: Not Available
+    Price: $1,711.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 505190318](https://www.nameplatedepot.com/products/10k-14k-gold-double-personalized-necklace-with-heart?variant=47574841098533)
+    Availability: Not Available
+    Price: $2,453.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 662083509](https://www.nameplatedepot.com/products/10k-14k-gold-double-personalized-necklace-with-heart?variant=47644262433061)
+    Availability: Not Available
+    Price: $3,369.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 595171250](https://www.nameplatedepot.com/products/10k-14k-gold-double-personalized-necklace-with-heart?variant=47648887537957)
+    Availability: Not Available
+    Price: $3,398.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3067860509](https://www.nameplatedepot.com/products/10k-14k-gold-double-personalized-necklace-with-heart?variant=48245213200677)
+    Availability: Not Available
+    Price: $2,267.50 USD
+  - [Real Gold - Rose 14K #MWS Options 1](https://www.nameplatedepot.com/products/10k-14k-gold-double-personalized-necklace-with-heart?variant=50459071578405)
+    Availability: Not Available
+    Price: $2,554.50 USD
+- [3D Nameplate Necklace with Bird & Heart - NamePlateDepot](https://www.nameplatedepot.com/products/real-gold-3d-nameplate-necklace-with-bird-heart): Show your love for NYC with this stunning 3D Nameplate Necklace with Bird &amp; Heart! Our classic diamond-cut gold nameplate is elevated with a  - NamePlateDepot
+  Updated: 2026-11-20T16:07:18Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP33_0bbe43c4-99d1-4646-a345-c6b148592762.jpg?v=1766256721
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/real-gold-3d-nameplate-necklace-with-bird-heart?variant=45840044032293)
+    Availability: Available
+    Price: $1,345.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/real-gold-3d-nameplate-necklace-with-bird-heart?variant=45840044065061)
+    Availability: Available
+    Price: $1,667.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/real-gold-3d-nameplate-necklace-with-bird-heart?variant=45840044097829)
+    Availability: Available
+    Price: $1,667.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/real-gold-3d-nameplate-necklace-with-bird-heart?variant=45840044130597)
+    Availability: Available
+    Price: $1,882.50 USD
+- [Two-Tone 3D Nameplate Necklace with Bow | Double Plate](https://www.nameplatedepot.com/products/gold-two-tone-nameplate-necklace-with-at-bow): Shop a personalized two-tone double-plated 3D nameplate necklace with a bow-style underline and genuine diamond or cubic zirconia options.
+  Updated: 2026-11-20T16:07:17Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP34_e179e44d-a880-4cb4-9c0d-4503bd5bb225.jpg?v=1766256728
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/gold-two-tone-nameplate-necklace-with-at-bow?variant=45840019194149)
+    Availability: Available
+    Price: $1,345.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/gold-two-tone-nameplate-necklace-with-at-bow?variant=45840019226917)
+    Availability: Available
+    Price: $1,667.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/gold-two-tone-nameplate-necklace-with-at-bow?variant=45840019259685)
+    Availability: Available
+    Price: $1,667.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/gold-two-tone-nameplate-necklace-with-at-bow?variant=45840019292453)
+    Availability: Available
+    Price: $1,882.50 USD
+- [Two-Tone Double-Plated Gold Nameplate | 10K & 14K](https://www.nameplatedepot.com/products/big-small-letter-nameplate-necklace-two-tone-in-10k-14k-gold): Personalize a two-tone double-plated nameplate necklace in solid 10K or 14K gold with mixed-size letters, a 3D design and diamond or CZ options.
+  Updated: 2026-11-20T16:07:17Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP35_6ad90fb9-f474-4fed-b2cf-0093a89b608e.jpg?v=1766256728
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/big-small-letter-nameplate-necklace-two-tone-in-10k-14k-gold?variant=45865055322405)
+    Availability: Available
+    Price: $1,604.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/big-small-letter-nameplate-necklace-two-tone-in-10k-14k-gold?variant=45865055387941)
+    Availability: Available
+    Price: $2,031.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/big-small-letter-nameplate-necklace-two-tone-in-10k-14k-gold?variant=45865055420709)
+    Availability: Available
+    Price: $2,031.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/big-small-letter-nameplate-necklace-two-tone-in-10k-14k-gold?variant=45865055453477)
+    Availability: Available
+    Price: $2,249.50 USD
+  - [Real Gold - White 14K #MWS Options 3908425409](https://www.nameplatedepot.com/products/big-small-letter-nameplate-necklace-two-tone-in-10k-14k-gold?variant=49259623121189)
+    Availability: Not Available
+    Price: $2,261.50 USD
+- [3D Gold Nameplate Necklace with Birthstone Heart](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace): Shop a personalized double-plate 3D gold nameplate necklace with a birthstone heart detail and custom name design.
+  Updated: 2026-11-17T20:05:40Z
+  Vendor: Nameplatedepot
+  Product Type: Name Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP36_f5a6048f-c778-4344-aafe-d4d987bf2c86.jpg?v=1766256741
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=45837128171813)
+    Availability: Available
+    Price: $1,345.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=45837128204581)
+    Availability: Available
+    Price: $1,667.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=45837128237349)
+    Availability: Available
+    Price: $1,667.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=45837128270117)
+    Availability: Available
+    Price: $1,882.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3140982654](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=46232291705125)
+    Availability: Not Available
+    Price: $1,345.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 3506214798](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=47465070952741)
+    Availability: Not Available
+    Price: $2,166.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 3327170438](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=47479687872805)
+    Availability: Not Available
+    Price: $1,887.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3118503805](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=47481069568293)
+    Availability: Not Available
+    Price: $1,345.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 688822199](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=47536143335717)
+    Availability: Not Available
+    Price: $3,255.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 508860335](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=47548122300709)
+    Availability: Not Available
+    Price: $2,150.50 USD
+  - [Real Gold - Rose 14K #MWS Options 2695403212](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=47552541557029)
+    Availability: Not Available
+    Price: $2,703.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 598906803](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=47552545980709)
+    Availability: Not Available
+    Price: $2,485.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 441882540](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=47552552763685)
+    Availability: Not Available
+    Price: $2,005.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 553949105](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=47552559743269)
+    Availability: Not Available
+    Price: $2,100.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 3416627082](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=47558985220389)
+    Availability: Not Available
+    Price: $1,667.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3208484737](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=47570464964901)
+    Availability: Not Available
+    Price: $1,489.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 620926900](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=47758444069157)
+    Availability: Not Available
+    Price: $2,246.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3118897021](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=47787969315109)
+    Availability: Not Available
+    Price: $1,585.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 3320108667](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=48098323464485)
+    Availability: Not Available
+    Price: $1,955.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 3591952003](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=48877715652901)
+    Availability: Not Available
+    Price: $1,943.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 1504564822](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=48951897129253)
+    Availability: Not Available
+    Price: $1,667.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 2231424775](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=49033113534757)
+    Availability: Not Available
+    Price: $1,527.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 2402801420](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=49089378812197)
+    Availability: Not Available
+    Price: $1,618.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 2614351634](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=49217029865765)
+    Availability: Not Available
+    Price: $1,667.50 USD
+  - [Real Gold - Rose 14K #MWS Options 4105164377](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=49508620108069)
+    Availability: Not Available
+    Price: $3,487.50 USD
+  - [Real Gold - White 14K #MWS Options 3624523446](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=49655776018725)
+    Availability: Not Available
+    Price: $1,834.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 625989445](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=49696867516709)
+    Availability: Not Available
+    Price: $3,125.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 2265437960](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=49956418126117)
+    Availability: Not Available
+    Price: $1,345.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 4234270513](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=50031573893413)
+    Availability: Not Available
+    Price: $1,667.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 242472762](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=50062779744549)
+    Availability: Not Available
+    Price: $2,653.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=50137078956325)
+    Availability: Not Available
+    Price: $1,542.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 2](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=50269128294693)
+    Availability: Not Available
+    Price: $1,552.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=50296099832101)
+    Availability: Not Available
+    Price: $1,897.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 4](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=50743023993125)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP36_f5a6048f-c778-4344-aafe-d4d987bf2c86.jpg?v=1766256741
+    Price: $1,345.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 5](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=50814601232677)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP36_f5a6048f-c778-4344-aafe-d4d987bf2c86.jpg?v=1766256741
+    Price: $1,449.50 USD
+  - [Real Gold - Rose 14K #MWS Options 1](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace?variant=51103549620517)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP36_f5a6048f-c778-4344-aafe-d4d987bf2c86.jpg?v=1766256741
+    Price: $1,882.50 USD
+- [3D Gold Nameplate Necklace with Heart | Personalized](https://www.nameplatedepot.com/products/real-gold-3d-name-plate-necklace-with-heart): Personalize a double-plated 3D gold nameplate necklace with an engraved heart detail, diamond-cut styling and genuine diamond or CZ options.
+  Updated: 2026-11-20T16:07:17Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP37_e0841a84-1939-4555-9e7d-eba458fb2fbd.jpg?v=1766256741
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/real-gold-3d-name-plate-necklace-with-heart?variant=45864206631205)
+    Availability: Available
+    Price: $1,388.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/real-gold-3d-name-plate-necklace-with-heart?variant=45864206663973)
+    Availability: Available
+    Price: $1,604.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/real-gold-3d-name-plate-necklace-with-heart?variant=45864206696741)
+    Availability: Available
+    Price: $1,604.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/real-gold-3d-name-plate-necklace-with-heart?variant=45864206729509)
+    Availability: Available
+    Price: $1,818.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1938347687](https://www.nameplatedepot.com/products/real-gold-3d-name-plate-necklace-with-heart?variant=49971808665893)
+    Availability: Not Available
+    Price: $1,388.50 USD
+- [Large Double-Plated Gold Nameplate Necklace | 10K & 14K](https://www.nameplatedepot.com/products/gold-big-size-nameplate-necklace-with-tail): Personalize a large double-plated 3D nameplate necklace in solid 10K or 14K gold with a tail detail, three gold colors and diamond or CZ options.
+  Updated: 2026-11-20T16:07:16Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP38_b0e55dd9-fce2-4684-aa11-97054cf0fd1b.jpg?v=1766256746
+  - [Default Title](https://www.nameplatedepot.com/products/gold-big-size-nameplate-necklace-with-tail?variant=39268586094637)
+    Availability: Available
+    Price: $1,604.50 USD
+  - [Default Title #MWS Options 3635728976](https://www.nameplatedepot.com/products/gold-big-size-nameplate-necklace-with-tail?variant=49420392628517)
+    Availability: Not Available
+    Price: $1,604.50 USD
+  - [Default Title #MWS Options 1](https://www.nameplatedepot.com/products/gold-big-size-nameplate-necklace-with-tail?variant=50654122148133)
+    Availability: Not Available
+    Price: $2,846.50 USD
+- [Our Everlasting Love: 3D Name Plate Necklace in 10K / 14K Gold -](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold): Our Everlasting Love Nameplate Necklace serves as a beautiful reminder of the ones we hold dear. Expertly personalized and custom-made, this piece  - NamePlateDepot
+  Updated: 2026-11-20T16:07:16Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP39_a8db3933-6a41-49ff-a681-968c75aef63d.jpg?v=1766256746
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold?variant=45865247965477)
+    Availability: Available
+    Price: $1,559.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold?variant=45865248031013)
+    Availability: Available
+    Price: $1,988.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold?variant=45865248063781)
+    Availability: Available
+    Price: $1,988.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold?variant=45865248096549)
+    Availability: Available
+    Price: $2,206.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 4093089571](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold?variant=47787963056421)
+    Availability: Not Available
+    Price: $1,800.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3016676892](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold?variant=48203748213029)
+    Availability: Not Available
+    Price: $1,992.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1240323576](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold?variant=48311061872933)
+    Availability: Not Available
+    Price: $1,705.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3220035106](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold?variant=48311070163237)
+    Availability: Not Available
+    Price: $2,282.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1104795124](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold?variant=48651525128485)
+    Availability: Not Available
+    Price: $1,697.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 2086459053](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold?variant=49296180642085)
+    Availability: Not Available
+    Price: $1,559.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 643487559](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold?variant=49554865979685)
+    Availability: Not Available
+    Price: $3,088.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 2120668846](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold?variant=49986054488357)
+    Availability: Not Available
+    Price: $1,584.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 575199045](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold?variant=49996437127461)
+    Availability: Not Available
+    Price: $3,240.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 4179744474](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold?variant=50042252165413)
+    Availability: Not Available
+    Price: $2,267.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 1](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold?variant=50523691319589)
+    Availability: Not Available
+    Price: $2,368.50 USD
+- [Double-Plated Gold Name Necklace | Personalized 3D](https://www.nameplatedepot.com/products/10k-14k-gold-personalized-double-plate-3d-name-necklace): Shop a personalized double-plated 3D gold name necklace with an underline and heart detail plus genuine diamond or cubic zirconia options.
+  Updated: 2026-11-20T16:07:16Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP40_30ba75ff-ed59-47b2-8dc7-981793086a51.jpg?v=1766256751
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/10k-14k-gold-personalized-double-plate-3d-name-necklace?variant=45839550480677)
+    Availability: Available
+    Price: $1,400.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/10k-14k-gold-personalized-double-plate-3d-name-necklace?variant=45839550513445)
+    Availability: Available
+    Price: $1,720.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/10k-14k-gold-personalized-double-plate-3d-name-necklace?variant=45839550546213)
+    Availability: Available
+    Price: $1,720.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/10k-14k-gold-personalized-double-plate-3d-name-necklace?variant=45839550578981)
+    Availability: Available
+    Price: $2,046.50 USD
+  - [Real Gold - White 14K #MWS Options 4129281734](https://www.nameplatedepot.com/products/10k-14k-gold-personalized-double-plate-3d-name-necklace?variant=49136491823397)
+    Availability: Not Available
+    Price: $2,728.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 4259370803](https://www.nameplatedepot.com/products/10k-14k-gold-personalized-double-plate-3d-name-necklace?variant=49774401061157)
+    Availability: Not Available
+    Price: $1,720.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1](https://www.nameplatedepot.com/products/10k-14k-gold-personalized-double-plate-3d-name-necklace?variant=50144023281957)
+    Availability: Not Available
+    Price: $1,599.50 USD
+  - [Real Gold - Rose 14K #MWS Options 1](https://www.nameplatedepot.com/products/10k-14k-gold-personalized-double-plate-3d-name-necklace?variant=50195127566629)
+    Availability: Not Available
+    Price: $2,046.50 USD
+- [Curved 3D Diamond Nameplate Pendant in Solid Gold & Diamonds](https://www.nameplatedepot.com/products/diamond-heart-necklace): Get this curved nameplate necklace personalized in solid gold 10K &amp; 14K and add diamonds to any name.
+  Updated: 2026-11-20T16:07:15Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP41_e14dbdde-a11f-470c-a672-e0b5db1989b2.jpg?v=1766256756
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=45839554674981)
+    Availability: Available
+    Price: $1,100.00 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=45839554707749)
+    Availability: Available
+    Price: $1,200.00 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=45839554740517)
+    Availability: Available
+    Price: $1,200.00 USD
+- [Double-Plated Gold Crown Nameplate Necklace | 10K & 14K](https://www.nameplatedepot.com/products/gold-big-3d-double-plated-cz-nameplate-necklace-with-crown): Personalize a large double-plated 3D crown nameplate necklace in solid 10K or 14K gold with white, yellow or rose gold and diamond or CZ options.
+  Updated: 2026-11-20T16:07:15Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP42_febc57ff-9bf8-4568-895c-ffb1f8cfe1d3.jpg?v=1766256763
+  - [Default Title](https://www.nameplatedepot.com/products/gold-big-3d-double-plated-cz-nameplate-necklace-with-crown?variant=39268586225709)
+    Availability: Available
+    Price: $1,293.50 USD
+  - [Default Title #MWS Options 2228081024](https://www.nameplatedepot.com/products/gold-big-3d-double-plated-cz-nameplate-necklace-with-crown?variant=48367298969893)
+    Availability: Not Available
+    Price: $1,464.50 USD
+  - [Default Title #MWS Options 3293631042](https://www.nameplatedepot.com/products/gold-big-3d-double-plated-cz-nameplate-necklace-with-crown?variant=49716110819621)
+    Availability: Not Available
+    Price: $1,293.50 USD
+  - [Default Title #MWS Options 1140576882](https://www.nameplatedepot.com/products/gold-big-3d-double-plated-cz-nameplate-necklace-with-crown?variant=49919221891365)
+    Availability: Not Available
+    Price: $2,791.50 USD
+  - [Default Title #MWS Options 3360870980](https://www.nameplatedepot.com/products/gold-big-3d-double-plated-cz-nameplate-necklace-with-crown?variant=50068823998757)
+    Availability: Not Available
+    Price: $1,490.50 USD
+  - [Default Title #MWS Options 1106236017](https://www.nameplatedepot.com/products/gold-big-3d-double-plated-cz-nameplate-necklace-with-crown?variant=50068826095909)
+    Availability: Not Available
+    Price: $1,729.50 USD
+  - [Default Title #MWS Options 1](https://www.nameplatedepot.com/products/gold-big-3d-double-plated-cz-nameplate-necklace-with-crown?variant=50568561983781)
+    Availability: Not Available
+    Price: $1,500.50 USD
+- [Valentines Ruby Hearts Nameplate Necklace for Women - NamePlateDepot](https://www.nameplatedepot.com/products/gold-nameplate-necklace-for-women): This Vlentines Ruby Herts Nmeplte Necklce is your pssport to  posh look. Feturing two herts, you cn customize it with your nme nd even dd  - NamePlateDepot
+  Updated: 2026-11-20T16:07:15Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP43_8bed9c62-20b3-421d-b4bd-e2fa553dd5cb.jpg?v=1766256768
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/gold-nameplate-necklace-for-women?variant=45864854749477)
+    Availability: Available
+    Price: $1,667.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/gold-nameplate-necklace-for-women?variant=45864854782245)
+    Availability: Available
+    Price: $1,988.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/gold-nameplate-necklace-for-women?variant=45864854815013)
+    Availability: Available
+    Price: $1,988.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/gold-nameplate-necklace-for-women?variant=45864854847781)
+    Availability: Available
+    Price: $2,150.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1192728392](https://www.nameplatedepot.com/products/gold-nameplate-necklace-for-women?variant=47830253306149)
+    Availability: Not Available
+    Price: $2,533.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 376887104](https://www.nameplatedepot.com/products/gold-nameplate-necklace-for-women?variant=50112337608997)
+    Availability: Not Available
+    Price: $2,108.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1](https://www.nameplatedepot.com/products/gold-nameplate-necklace-for-women?variant=50444690456869)
+    Availability: Not Available
+    Price: $2,046.50 USD
+- [Two-Heart 3D Gold Nameplate Necklace | 10K & 14K](https://www.nameplatedepot.com/products/gold-two-hearts-nameplate-necklace-for-women): Shop a personalized two-heart double-plated 3D nameplate necklace in solid 10K or 14K gold with white, yellow or rose gold and stone options.
+  Updated: 2026-11-20T16:07:14Z
+  Vendor: Nameplatedepot
+  Product Type: Name Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP44_ef9d3e38-e661-4a07-bf3f-fab36676f62e.jpg?v=1766256768
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/gold-two-hearts-nameplate-necklace-for-women?variant=45864936571173)
+    Availability: Available
+    Price: $1,882.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/gold-two-hearts-nameplate-necklace-for-women?variant=45864936603941)
+    Availability: Available
+    Price: $2,140.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/gold-two-hearts-nameplate-necklace-for-women?variant=45864936636709)
+    Availability: Available
+    Price: $2,140.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/gold-two-hearts-nameplate-necklace-for-women?variant=45864936669477)
+    Availability: Available
+    Price: $2,417.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 565614513](https://www.nameplatedepot.com/products/gold-two-hearts-nameplate-necklace-for-women?variant=46235205009701)
+    Availability: Not Available
+    Price: $3,783.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 430741419](https://www.nameplatedepot.com/products/gold-two-hearts-nameplate-necklace-for-women?variant=47410259231013)
+    Availability: Not Available
+    Price: $2,492.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 2933577242](https://www.nameplatedepot.com/products/gold-two-hearts-nameplate-necklace-for-women?variant=48159990874405)
+    Availability: Not Available
+    Price: $2,027.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 3390756479](https://www.nameplatedepot.com/products/gold-two-hearts-nameplate-necklace-for-women?variant=48289020248357)
+    Availability: Not Available
+    Price: $3,294.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 4197963483](https://www.nameplatedepot.com/products/gold-two-hearts-nameplate-necklace-for-women?variant=49610895917349)
+    Availability: Not Available
+    Price: $1,882.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3993491157](https://www.nameplatedepot.com/products/gold-two-hearts-nameplate-necklace-for-women?variant=50031240544549)
+    Availability: Not Available
+    Price: $2,007.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3891254994](https://www.nameplatedepot.com/products/gold-two-hearts-nameplate-necklace-for-women?variant=50062781579557)
+    Availability: Not Available
+    Price: $3,191.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 1](https://www.nameplatedepot.com/products/gold-two-hearts-nameplate-necklace-for-women?variant=50705085333797)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP44_ef9d3e38-e661-4a07-bf3f-fab36676f62e.jpg?v=1766256768
+    Price: $3,175.50 USD
+- [3D Gold Nameplate Necklace with Back Plate | 10K & 14K](https://www.nameplatedepot.com/products/real-gold-3d-nameplate-neckalce-with-back-plate): Personalize a back-plate 3D nameplate necklace in solid 10K or 14K gold with white, yellow or rose gold and genuine diamond or CZ options.
+  Updated: 2026-11-20T16:07:14Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP45_0b3efa05-5ece-4571-8bb3-ba242ebb0495.jpg?v=1766256774
+  - [Default Title](https://www.nameplatedepot.com/products/real-gold-3d-nameplate-neckalce-with-back-plate?variant=39268586356781)
+    Availability: Available
+    Price: $1,667.50 USD
+  - [Default Title #MWS Options 3149173481](https://www.nameplatedepot.com/products/real-gold-3d-nameplate-neckalce-with-back-plate?variant=47367011991845)
+    Availability: Not Available
+    Price: $3,600.50 USD
+- [Gold Butterfly Name Plate Necklace Big - NamePlateDepot](https://www.nameplatedepot.com/products/gold-butterfly-name-plate-necklace-big-in-gold-overlay): This elegant Gold Butterfly Name Plate Necklace Big is a luxurious fashion statement crafted from real gold for an unmistakably opulent finish.  - NamePlateDepot
+  Updated: 2026-11-20T16:07:14Z
+  Vendor: Nameplatedepot
+  Product Type: Double Plated / 3D
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP46_8cb419e6-2256-41a5-a725-6bbfa136951e.jpg?v=1766256780
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/gold-butterfly-name-plate-necklace-big-in-gold-overlay?variant=46245626806565)
+    Availability: Available
+    Price: $2,311.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/gold-butterfly-name-plate-necklace-big-in-gold-overlay?variant=46245626839333)
+    Availability: Available
+    Price: $2,904.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/gold-butterfly-name-plate-necklace-big-in-gold-overlay?variant=46245626872101)
+    Availability: Available
+    Price: $2,904.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1252562763](https://www.nameplatedepot.com/products/gold-butterfly-name-plate-necklace-big-in-gold-overlay?variant=46345182904613)
+    Availability: Not Available
+    Price: $3,310.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3221214755](https://www.nameplatedepot.com/products/gold-butterfly-name-plate-necklace-big-in-gold-overlay?variant=48203791335717)
+    Availability: Not Available
+    Price: $2,871.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 781047628](https://www.nameplatedepot.com/products/gold-butterfly-name-plate-necklace-big-in-gold-overlay?variant=49688369922341)
+    Availability: Not Available
+    Price: $2,979.50 USD
+  - [Real Gold - White 14K #MWS Options 1](https://www.nameplatedepot.com/products/gold-butterfly-name-plate-necklace-big-in-gold-overlay?variant=50261612232997)
+    Availability: Not Available
+    Price: $2,904.50 USD
+- [Cursive Double-Plated Gold Nameplate | 10K & 14K](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated-gold): Personalize a cursive double-plated nameplate necklace in solid 10K or 14K gold with a layered 3D design, heart-wave detail and stone options.
+  Updated: 2026-11-20T16:07:13Z
+  Vendor: Nameplatedepot
+  Product Type: Name Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP47_721fd3ad-172f-4df9-b00c-108c957a87e4.jpg?v=1766256786
+  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated-gold?variant=45865085174053)
+    Availability: Available
+    Price: $1,711.50 USD
+  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated-gold?variant=45865085206821)
+    Availability: Available
+    Price: $1,923.50 USD
+  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated-gold?variant=45865085239589)
+    Availability: Available
+    Price: $1,923.50 USD
+  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated-gold?variant=45865085272357)
+    Availability: Available
+    Price: $2,140.50 USD
+  - [Real Gold - White 14K #MWS Options 1451792184](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated-gold?variant=47798540828965)
+    Availability: Not Available
+    Price: $3,321.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3175732769](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated-gold?variant=48384269746469)
+    Availability: Not Available
+    Price: $1,940.50 USD
+  - [Real Gold - White 14K #MWS Options 3328235027](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated-gold?variant=48800584040741)
+    Availability: Not Available
+    Price: $3,574.50 USD
+  - [Real Gold - White 14K #MWS Options 2817840644](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated-gold?variant=48964703027493)
+    Availability: Not Available
+    Price: $2,061.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 735631178](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated-gold?variant=49691506606373)
+    Availability: Not Available
+    Price: $2,631.50 USD
+  - [Real Gold - White 14K #MWS Options 1](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated-gold?variant=50698300195109)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP47_721fd3ad-172f-4df9-b00c-108c957a87e4.jpg?v=1766256786
+    Price: $2,337.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 1](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated-gold?variant=50705089167653)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP47_721fd3ad-172f-4df9-b00c-108c957a87e4.jpg?v=1766256786
+    Price: $2,958.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated-gold?variant=50712790237477)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP47_721fd3ad-172f-4df9-b00c-108c957a87e4.jpg?v=1766256786
+    Price: $2,746.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 2](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated-gold?variant=51008546275621)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP47_721fd3ad-172f-4df9-b00c-108c957a87e4.jpg?v=1766256786
+    Price: $2,751.50 USD
+[List Continued](https://www.nameplatedepot.com/a/llms-agent/llms.txt?shop=nameplatedepot.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2NTQyMzY4NjY5NzQxLCJsYXN0X3ZhbHVlIjoiNjU0MjM2ODY2OTc0MSJ9)
 
 ## Collections
 
 - [Personalized Name Necklaces & Nameplate Necklaces](https://www.nameplatedepot.com/collections/my-name-necklaces): Shop personalized nameplate necklaces and custom name necklaces in classic, old-school, vintage-inspired, script, block, Old English and statement styles.
-  Updated: 2026-10-29T11:03:50Z
+  Updated: 2026-11-23T12:04:25Z
   Total Products: 61
 - [Sterling Silver Name Necklaces](https://www.nameplatedepot.com/collections/sterling-silver-name-necklaces): Shop personalized sterling silver name necklaces in classic, cursive, block and Old English styles. Custom-made in .925 silver with your name or word.
-  Updated: 2026-10-20T11:04:07Z
+  Updated: 2026-11-20T02:29:38Z
   Total Products: 22
 - [Sterling Silver 3D Nameplate Necklaces](https://www.nameplatedepot.com/collections/silver-3d-double-plate): Shop personalized sterling silver 3D nameplate necklaces with double-plate, raised and CZ-accent styles. Customize a bold silver nameplate with your name.
-  Updated: 2026-08-08T14:14:01Z
+  Updated: 2026-11-21T15:57:39Z
   Total Products: 28
 - [Diamond](https://www.nameplatedepot.com/collections/diamond): - NamePlateDepot
   Updated: 2026-07-10T13:13:17Z
   Total Products: 0
 - [Personalized Name Rings](https://www.nameplatedepot.com/collections/custom-name-rings): Shop personalized name rings with names, two names, birthstones and custom styles in sterling silver and solid gold. Explore nameplate and statement rings.
-  Updated: 2026-11-11T00:15:08Z
+  Updated: 2026-11-21T18:50:21Z
   Total Products: 144
 - [Personalized Name Bracelets](https://www.nameplatedepot.com/collections/name-bracelets): Shop personalized name bracelets with names, children’s names, grandkids’ names, birthstones and family details in silver, plated and select gold styles.
-  Updated: 2026-11-04T20:48:50Z
+  Updated: 2026-11-20T12:04:18Z
   Total Products: 20
 - [Sterling Silver Name Rings & Nameplate Rings](https://www.nameplatedepot.com/collections/silver-name-ring): Shop personalized sterling silver name rings with names, two-name styles, birthstones, script and block fonts, kids’ designs and statement nameplates.
-  Updated: 2026-10-20T11:04:07Z
+  Updated: 2026-11-19T22:50:21Z
   Total Products: 27
 - [Solid Gold Name Rings & Nameplate Rings](https://www.nameplatedepot.com/collections/gold-name-rings): Shop personalized solid gold name rings in 10K and 14K gold, including nameplate, two-name, birthstone, script, block and statement styles.
-  Updated: 2026-09-20T11:04:59Z
+  Updated: 2026-11-19T23:01:11Z
   Total Products: 43
 - [Two & Three Finger Name Rings](https://www.nameplatedepot.com/collections/2-or-more-finger-name-ring): Shop personalized two-finger and three-finger name rings in sterling silver and solid gold with custom names, birthstones, block, script and statement styles.
   Updated: 2026-08-08T01:42:59Z
   Total Products: 28
 - [Trending Personalized Jewelry](https://www.nameplatedepot.com/collections/trending): Explore the latest jewelry trends in 2023. Discover vibrant colors, layered styles, and sustainability in your jewelry choices.
-  Updated: 2026-10-29T11:03:50Z
+  Updated: 2026-11-23T12:04:25Z
   Total Products: 22
 - [10K & 14K Solid Gold Name Necklaces](https://www.nameplatedepot.com/collections/gold-name-necklace): Shop personalized solid gold name necklaces in 10K and 14K gold. Choose classic, cursive, block and statement styles in yellow, white or rose gold.
-  Updated: 2026-10-29T11:03:50Z
+  Updated: 2026-11-23T12:04:25Z
   Total Products: 20
-- [Hip Hop Name Chains: A Symbol of Identity and Style](https://www.nameplatedepot.com/collections/hip-hop-pendants): Discover the significance of hip hop name chains. Learn how they symbolize identity and unique style in hip hop culture.
-  Updated: 2026-07-10T13:13:18Z
+- [Hip Hop Name Chains](https://www.nameplatedepot.com/collections/hip-hop-pendants): Discover the significance of hip hop name chains. Learn how they symbolize identity and unique style in hip hop culture.
+  Updated: 2026-11-20T01:49:52Z
   Total Products: 9
 - [Personalized Engraved Rings](https://www.nameplatedepot.com/collections/engraved-rings): Shop personalized engraved rings with names, dates, messages, handwriting, fingerprints and birthstones. Create a custom ring with meaningful engraving.
-  Updated: 2026-08-08T01:39:44Z
+  Updated: 2026-11-21T18:50:21Z
   Total Products: 33
 - [Personalized Initial Rings](https://www.nameplatedepot.com/collections/initial-rings-1): Shop personalized initial rings with one or two letters, signet styles, heart and geometric designs, plus sterling silver and solid-gold options.
   Updated: 2026-08-08T14:21:02Z
@@ -1154,55 +1967,55 @@
   Updated: 2026-03-11T15:23:30Z
   Total Products: 0
 - [Personalized Engraved Bracelets](https://www.nameplatedepot.com/collections/engraved-bracelet): Shop personalized engraved bracelets with names, dates, messages, handwriting, coordinates and family details in cuff, leather, beaded and charm styles.
-  Updated: 2026-10-23T11:04:54Z
+  Updated: 2026-11-20T12:04:18Z
   Total Products: 19
 - [Personalized Monogram Necklaces](https://www.nameplatedepot.com/collections/monogram-necklace): Shop personalized monogram necklaces with two or more initials. Explore interlocking, disc and statement monogram styles for gifts, weddings and everyday wear.
-  Updated: 2026-08-08T17:37:54Z
+  Updated: 2026-11-19T23:09:01Z
   Total Products: 17
-- [Double-Plated & 3D Gold Nameplate Necklaces](https://www.nameplatedepot.com/collections/gold-3d-double-necklaces): Shop personalized double-plated and 3D gold nameplate necklaces in real 10K and 14K gold, including heart, crown and diamond-cut designs.
-  Updated: 2026-08-08T16:05:42Z
+- [Gold  Double-Plated & 3D Nameplate Necklaces](https://www.nameplatedepot.com/collections/gold-3d-double-necklaces): Shop personalized double-plated and 3D gold nameplate necklaces in real 10K and 14K gold, including heart, crown and diamond-cut designs.
+  Updated: 2026-11-21T15:58:58Z
   Total Products: 47
 - [Personalized Engraved Necklaces](https://www.nameplatedepot.com/collections/engraved-necklaces): Shop personalized engraved necklaces with names, dates, messages, handwriting, fingerprints and photos across hearts, bars, discs and keepsake styles.
-  Updated: 2026-08-08T14:19:15Z
-  Total Products: 60
+  Updated: 2026-11-21T18:49:23Z
+  Total Products: 172
 - [Personalized Mother's Day Gifts & Jewelry](https://www.nameplatedepot.com/collections/mothers_day_gifts): Shop personalized Mother's Day jewelry gifts with children's names, initials, birthstones, family details and meaningful engraving for Mom and Grandma.
-  Updated: 2026-10-23T11:04:54Z
-  Total Products: 45
+  Updated: 2026-11-21T18:50:23Z
+  Total Products: 46
 - [Personalized Jewelry Gifts by Occasion & Recipient](https://www.nameplatedepot.com/collections/gifts-for-occasions): Shop personalized jewelry gifts with names, initials, dates and birthstones. Find custom necklaces, rings and bracelets for birthdays, family and more.
-  Updated: 2026-08-08T21:27:42Z
+  Updated: 2026-11-20T23:13:52Z
   Total Products: 18
 - [Personalized Birthday Gifts & Birthday Jewelry](https://www.nameplatedepot.com/collections/birthday-gifts): Shop personalized birthday jewelry gifts with names, initials, birthstones, dates and meaningful engraving across necklaces, rings and bracelets.
-  Updated: 2026-10-29T11:03:50Z
+  Updated: 2026-11-23T12:04:25Z
   Total Products: 24
 - [Personalized Anniversary Gifts & Jewelry](https://www.nameplatedepot.com/collections/anniversary-gifts): Shop personalized anniversary jewelry with two names, initials, dates, coordinates, fingerprints and matching pieces for couples and milestone years.
-  Updated: 2026-10-23T11:04:54Z
+  Updated: 2026-11-21T12:09:13Z
   Total Products: 33
 - [Personalized Wedding Gifts & Wedding Jewelry](https://www.nameplatedepot.com/collections/wedding-gifts): Shop personalized wedding jewelry gifts with names, initials, wedding dates, coordinates, fingerprints, monograms and matching pieces for couples.
-  Updated: 2026-08-08T17:24:27Z
+  Updated: 2026-11-20T03:03:53Z
   Total Products: 25
 - [Personalized Baby Shower Gifts & Jewelry](https://www.nameplatedepot.com/collections/baby-shower-gifts): Shop personalized baby shower jewelry with baby names, footprints, birth details, initials and keepsakes for new moms, new dads and growing families.
-  Updated: 2026-08-08T17:14:49Z
+  Updated: 2026-11-21T18:50:23Z
   Total Products: 15
 - [Personalized Graduation Gifts & Graduation Jewelry](https://www.nameplatedepot.com/collections/graduation-gifts): Shop personalized graduation gifts and jewelry including name necklaces, initial rings, engraved tags, compass designs and custom keepsakes for graduates.
-  Updated: 2026-10-26T11:06:00Z
+  Updated: 2026-11-19T22:55:35Z
   Total Products: 19
 - [Personalized Father's Day Gifts & Jewelry](https://www.nameplatedepot.com/collections/father-day-gifts): Shop personalized Father's Day jewelry gifts with names, initials, children's names and meaningful details across necklaces, rings and bracelets for Dad.
-  Updated: 2026-08-08T17:19:35Z
+  Updated: 2026-11-20T02:08:18Z
   Total Products: 16
 - [Personalized Valentine's Day Gifts & Jewelry](https://www.nameplatedepot.com/collections/valentines-day-gifts): Shop personalized Valentine's Day jewelry gifts including name necklaces, initials, engraved pieces and meaningful jewelry for partners and loved ones.
-  Updated: 2026-10-29T11:03:50Z
+  Updated: 2026-11-23T12:04:25Z
   Total Products: 23
 - [Personalized Christmas Gifts & Jewelry](https://www.nameplatedepot.com/collections/christmas-gifts): Shop personalized Christmas jewelry gifts including custom name necklaces, initial jewelry, engraved rings and meaningful keepsakes for family and loved ones.
-  Updated: 2026-10-26T11:06:00Z
+  Updated: 2026-11-21T18:50:27Z
   Total Products: 23
 - [Personalized Thanksgiving Jewelry Gifts](https://www.nameplatedepot.com/collections/thanksgiving-gifts): Shop personalized Thanksgiving jewelry gifts with names, initials, handwriting and meaningful engraving for family, hosts and people you appreciate.
-  Updated: 2026-09-20T11:04:59Z
+  Updated: 2026-11-20T02:09:18Z
   Total Products: 7
 - [Personalized Sympathy Gifts & Memorial Jewelry](https://www.nameplatedepot.com/collections/sympathy-gifts): Shop personalized memorial jewelry and sympathy gifts with fingerprints, handwriting, photos, names and meaningful details across necklaces, rings and bracelets.
-  Updated: 2026-09-04T11:04:56Z
-  Total Products: 25
+  Updated: 2026-11-21T18:49:23Z
+  Total Products: 27
 - [Personalized Retirement Gifts & Retirement Jewelry](https://www.nameplatedepot.com/collections/personalized-retirement-gifts-engraved-retirement-jewelry-mementos): Shop personalized retirement gifts and jewelry with names, messages, handwriting and coordinates for a meaningful keepsake to mark the next chapter.
-  Updated: 2026-09-20T11:04:59Z
+  Updated: 2026-11-20T02:09:41Z
   Total Products: 5
 - [Earrings](https://www.nameplatedepot.com/collections/earrings): - NamePlateDepot
   Updated: 2026-07-10T13:13:20Z
@@ -1214,25 +2027,25 @@
   Updated: 2026-07-10T17:07:54Z
   Total Products: 4
 - [Personalized Gifts for Him & Men's Jewelry](https://www.nameplatedepot.com/collections/for-him): Shop personalized jewelry gifts for him including name necklaces, signet rings, men’s name rings, engraved bracelets, initials, dog tags and custom styles.
-  Updated: 2026-09-20T11:04:59Z
+  Updated: 2026-11-20T02:09:18Z
   Total Products: 44
 - [Shop All Necklace Styles](https://www.nameplatedepot.com/collections/personalized_necklace_name): Discover beautiful personalized necklace names that reflect your style. Create a meaningful piece today!
-  Updated: 2026-10-29T11:03:50Z
+  Updated: 2026-11-23T12:04:25Z
   Total Products: 511
 - [Personalized Gifts for Her & Jewelry for Women](https://www.nameplatedepot.com/collections/gifts-for-her): Shop personalized jewelry gifts for her with names, initials, birthstones and family details across necklaces, rings and bracelets for women, Mom, Grandma and Daughter.
-  Updated: 2026-10-23T11:04:54Z
+  Updated: 2026-11-21T18:50:27Z
   Total Products: 45
 - [Personalized Gifts for Kids & Kids Jewelry](https://www.nameplatedepot.com/collections/gifts-for-kid): Shop personalized jewelry gifts for kids including name rings, initial necklaces, birthstones, princess styles, animal charms and meaningful keepsakes.
-  Updated: 2026-10-20T11:04:07Z
+  Updated: 2026-11-19T22:49:27Z
   Total Products: 27
 - [Personalized Gifts for Couples & Couple Jewelry](https://www.nameplatedepot.com/collections/gift-ideas-for-couples): Shop personalized gifts for couples including matching necklaces, two-name rings, initials, dates, birthstones, fingerprints and engraved jewelry sets.
-  Updated: 2026-08-08T17:27:14Z
+  Updated: 2026-11-21T12:09:13Z
   Total Products: 32
 - [Personalized Necklaces](https://www.nameplatedepot.com/collections/necklaces): Shop personalized necklaces by style and customization, including name, initial, engraved, heart, bar, cross and monogram designs.
-  Updated: 2026-10-29T11:03:50Z
-  Total Products: 72
+  Updated: 2026-11-23T12:04:25Z
+  Total Products: 74
 - [Best- Personalized Name Necklaces](https://www.nameplatedepot.com/collections/necklace-best-sellers): Shop best- personalized name necklaces in sterling silver, solid gold, Carrie, Old English, birthstone, heart and 3D nameplate styles.
-  Updated: 2026-10-29T11:03:50Z
+  Updated: 2026-11-23T12:04:25Z
   Total Products: 13
 - [Today's Deals](https://www.nameplatedepot.com/collections/deals): Enjoy Online Deals &amp; Surprise Discounts on Surprise Days&amp;nbspfrom NamePlateDepot. Plus, free ground shipping on all orders to the U.S. &amp; Canada.
   Updated: 2026-07-10T13:13:22Z
@@ -1241,91 +2054,91 @@
   Updated: 2026-09-11T11:05:16Z
   Total Products: 10
 - [Personalized Initial Necklaces](https://www.nameplatedepot.com/collections/initial-necklaces): Shop personalized initial necklaces and letter pendants in silver, gold, rose gold and select 14K styles. Choose classic, cursive, Gothic, birthstone and multi-initial designs.
-  Updated: 2026-09-17T11:05:05Z
+  Updated: 2026-11-21T12:09:13Z
   Total Products: 132
 - [Personalized Cross Necklaces](https://www.nameplatedepot.com/collections/personalized-cross-necklaces): Shop personalized cross necklaces engraved with names, initials, birthstones and meaningful messages. Explore classic, Orthodox, Jerusalem and modern cross styles.
-  Updated: 2026-08-08T14:32:49Z
+  Updated: 2026-11-20T01:48:14Z
   Total Products: 25
 - [Personalized Bar Necklaces](https://www.nameplatedepot.com/collections/personalized-bar-necklaces): Shop personalized bar necklaces engraved with names, initials, dates, coordinates, handwriting, birthstones and messages in horizontal, vertical and 3D styles.
-  Updated: 2026-08-08T14:31:49Z
+  Updated: 2026-11-21T18:50:23Z
   Total Products: 38
 - [Grandma Bracelets With Grandkids Names](https://www.nameplatedepot.com/collections/grandma-bracelets-with-grandkids-names): Shop personalized grandma bracelets with grandkids’ names, birthstones and family details. Meaningful grandmother gifts for birthdays, Mother’s Day and more.
-  Updated: 2026-10-23T11:04:54Z
+  Updated: 2026-11-20T12:04:18Z
   Total Products: 3
 - [Personalized Gifts for Mom](https://www.nameplatedepot.com/collections/personalized-gifts-for-mom): Shop personalized jewelry gifts for Mom with children’s names, initials, birthstones, family details and meaningful engraving across necklaces, rings and bracelets.
-  Updated: 2026-09-17T11:05:05Z
+  Updated: 2026-11-21T18:50:27Z
   Total Products: 40
 - [Personalized Gifts for Dad & Dad Jewelry](https://www.nameplatedepot.com/collections/personalized-gifts-for-dad): Shop personalized jewelry gifts for Dad including name necklaces, signet and name rings, leather bracelets, kids’ names and custom engraved styles.
-  Updated: 2026-08-08T17:29:14Z
+  Updated: 2026-11-20T02:08:18Z
   Total Products: 14
 - [Personalized Gifts for Grandma](https://www.nameplatedepot.com/collections/personalized-gifts-for-grandma): Shop personalized gifts for Grandma with grandchildren’s names, birthstones and family details across necklaces, rings and bracelets made to celebrate her family.
-  Updated: 2026-10-23T11:04:54Z
+  Updated: 2026-11-21T18:50:27Z
   Total Products: 11
 - [Personalized Gifts for Daughter](https://www.nameplatedepot.com/collections/personalized-gifts-for-daughter): Shop personalized gifts for your daughter including mother-daughter necklace sets, initial jewelry, heart designs and birthstone keepsakes for meaningful occasions.
   Updated: 2026-08-08T14:48:51Z
   Total Products: 10
 - [Personalized Push Present Gifts & Jewelry](https://www.nameplatedepot.com/collections/personalized-push-present-jewelry): Shop personalized push present jewelry for new moms with baby names, initials, birthstones, birth dates and meaningful family details.
-  Updated: 2026-08-08T17:12:05Z
+  Updated: 2026-11-21T18:50:23Z
   Total Products: 12
 - [Personalized Engagement Gifts & Jewelry](https://www.nameplatedepot.com/collections/personalized-engagement-gifts): Shop personalized engagement jewelry gifts with initials, names, dates, fingerprints, birthstones and meaningful coordinates for newly engaged couples.
   Updated: 2026-08-08T17:15:30Z
   Total Products: 9
 - [Personalized Bridesmaid Gifts](https://www.nameplatedepot.com/collections/personalized-bridesmaid-gifts): Shop personalized bridesmaid jewelry gifts with initials, names and monograms across necklaces, chokers, pearl styles and wedding-party keepsakes.
-  Updated: 2026-08-08T17:30:36Z
+  Updated: 2026-11-19T23:09:26Z
   Total Products: 10
 - [Personalized Best Friend Gifts & Friendship Jewelry](https://www.nameplatedepot.com/collections/personalized-gifts-for-best-friends): Shop personalized best friend jewelry gifts with initials, two names, split hearts, matching necklaces and friendship keepsakes made for the two of you.
   Updated: 2026-08-08T17:06:45Z
   Total Products: 17
 - [Personalized Heart Necklaces](https://www.nameplatedepot.com/collections/personalized-heart-necklaces): Shop personalized heart necklaces with names, initials, birthstones, handwriting and engraving across heart nameplates, couples and keepsake styles.
-  Updated: 2026-10-25T13:05:00Z
+  Updated: 2026-11-21T12:09:13Z
   Total Products: 33
 - [Personalized Gifts for Girlfriend](https://www.nameplatedepot.com/collections/personalized-gifts-for-girlfriend): Shop personalized gifts for your girlfriend made around the details that matter in your relationship: her name, your initials, an anniversary date, birthstone, meaningful location or a private message. This collection includes personalized name necklaces, initial and heart jewelry, Roman-numeral date pieces, coordinates necklaces, engraved bars, birthstone jewelry and promise rings. Choose a gift that feels specific to her rather than a generic piece of jewelry. Personalized Necklace Gifts for Girlfriend A personalized necklace for your girlfriend is a strong starting point when you want something she can wear regularly. Current options include name necklaces, two-initial designs, heart necklaces, date necklaces, engraved bars and coordinates pendants. If you want the personalization to be immediately visible, choose her name or initial. If you want something more private, consider a meaningful date, location or hidden message. Name & Initial Necklaces for Girlfriend A girlfriend name necklace puts her own name at the center of the design, while an initial necklace can represent her letter, your two initials together or both of you within a heart or infinity motif. Two-name and two-initial jewelry works especially well when you want the gift to represent the relationship rather than only the wearer. For more styles beyond this gift edit, browse our personalized name necklaces and initial necklaces. Anniversary Gifts for Girlfriend For an anniversary gift for your girlfriend, jewelry built around a date or shared milestone can make the meaning clearer. Current options include Roman-numeral necklaces and rings, initial-and-date necklaces, coordinates jewelry, two-name rings and matching relationship pieces. A date can mark when you met, your first date or another milestone. Coordinates can represent where you met, where you became a couple, a favorite trip or another location that belongs to your story. See more ideas in our personalized anniversary gifts. Valentine's Day Gifts for Girlfriend For Valentine's Day gifts for your girlfriend, heart details, initials, names and hidden-message jewelry are natural fits. The collection includes heart name designs, key-to-my-heart pendants, cutout-heart rings and other romantic styles that can still be personalized around your relationship. If Valentine's Day is the main shopping occasion, browse our broader personalized Valentine's Day gifts. Birthday Gifts for Girlfriend A birthday gift for your girlfriend can focus more on her than on the relationship. Consider her name, initial or birthstone when you want the jewelry to feel personal to her, or add a meaningful date or message when you want the piece to reflect both of you. Birthstone bar necklaces are especially useful when you want both personalization and a birthday connection. Explore more personalized birthday gifts. Promise Rings & Personalized Rings for Girlfriend A personalized ring can mark commitment without needing to be an engagement ring. Current options include a custom diamond promise ring, Roman-numeral date rings, secret-message bands, heart designs, two-name rings and birthstone rings. Before ordering a ring, confirm her ring size and check whether the design uses a name, date, message, birthstone or multiple personalization fields. Choose the Meaning First If you want to represent... Good starting point Her identity Name necklace, initial necklace or birthstone jewelry Your relationship Two initials, two names, heart or infinity jewelry A special date Roman-numeral necklace or ring, initial-and-date necklace A meaningful place Coordinates necklace A private message Hidden-message necklace or secret-engraving ring Commitment Personalized promise ring One-Person Gift vs. Couple Jewelry Some girlfriend gifts are designed mainly for her, such as a name necklace, birthstone piece or promise ring. Others represent both partners through two names, initials, dates or matching elements. If you want a piece or matching set specifically built for both people, browse our personalized gifts for couples. What to Check Before Ordering Spelling: enter names and words exactly as they should appear. Initial order: confirm which letter comes first on two-initial designs. Date format: check whether the product uses a standard date or Roman numerals. Coordinates: verify the latitude and longitude before submitting them. Ring size: confirm the correct size for personalized rings. Material: options vary by product and may include sterling silver, plated finishes and selected real-gold choices. Chain length: review the available lengths on necklaces rather than assuming one standard fit. Message length: hidden-message and engraved pieces have product-specific space limits. Frequently Asked Questions What is a good personalized gift for a girlfriend? A good personalized gift uses a detail that matters to her or to the relationship, such as her name, an initial, a meaningful date, a birthstone, coordinates or a private message. The best choice depends on what she normally wears and how visible you want the personalization to be. What necklace should I get my girlfriend? For a simple everyday option, start with her name or initial. For a romantic gift, consider two initials, a heart, a meaningful date or coordinates. Check her preferred metal color and the necklace length she usually wears. Can I personalize a girlfriend gift with our anniversary date? Yes. Several current necklaces and rings are designed for dates, including Roman-numeral styles and initial-and-date jewelry. Do you have personalized promise rings for girlfriends? Yes. The collection includes personalized promise-ring and engraved-ring options that can use names, dates, messages or other available details. Can I use both of our names or initials? Yes. Selected necklaces and rings are specifically made for two names or two initials. Review the product's order and character limits before checkout. Explore Related Personalized Gifts Shop anniversary gifts, Valentine's Day gifts, birthday gifts, couples gifts, name necklaces and engraved necklaces.
-  Updated: 2026-08-08T17:08:07Z
+  Updated: 2026-11-21T12:09:13Z
   Total Products: 19
 - [Personalized Gifts for Wife](https://www.nameplatedepot.com/collections/personalized-gifts-for-wife): Shop personalized gifts for your wife created around the names, dates, initials, birthstones and places that tell your story together. This collection includes personalized necklaces, two-name jewelry, Roman-numeral date pieces, coordinates pendants, hidden-message jewelry, birthstone designs and engraved rings. Whether you are shopping for an anniversary, birthday, Valentine's Day or simply want a meaningful gift for your wife, start with the detail that matters most to both of you. Personalized Necklace Gifts for Wife A personalized necklace for your wife can be built around her name, your two initials, a meaningful date or another shared detail. Name and initial necklaces keep the personalization visible, while coordinates, Roman numerals and hidden-message jewelry can make the meaning more private. For broader style choices, browse our personalized name necklaces, initial necklaces and engraved necklaces. Anniversary Gifts for Wife An anniversary gift for your wife is especially suited to jewelry that preserves a date, two names or another relationship milestone. Current options include Roman-numeral date necklaces and rings, two-name necklaces, two-name rings, coordinates jewelry, initial-and-date necklaces and birthstone designs. You can use your wedding date, the day you met, an important trip or another milestone that belongs to your marriage. For more occasion-specific ideas, browse our personalized anniversary gifts. Name & Initial Jewelry for Wife A name necklace makes her identity the main design, while two-name and two-initial pieces represent both partners together. Heart and infinity motifs add a relationship symbol around the personalization without replacing the names or initials themselves. If you want the gift to feel primarily about her, choose her name or initial. If you want it to represent the marriage, consider both names, both initials or a date connected to you as a couple. Meaningful Date Jewelry Dates are one of the clearest ways to make a wife gift specific to your relationship. Roman numerals create a more subtle date format, while standard engraved dates are easier to read immediately. A date can appear on a necklace, bar or ring depending on the product. Before ordering, verify the exact date and the format required by the product. If the jewelry converts your date into Roman numerals, review the preview or instructions carefully. Coordinates & Hidden-Message Gifts A coordinates necklace can mark the location where you met, married, proposed, bought your first home or shared another important memory. A hidden-message necklace or secret-engraving ring works differently: the meaning is carried in words that are less visible to everyone else. These styles are good choices when you want a personalized wife gift that does not rely only on a visible name or initial. Valentine's Day & Birthday Gifts for Wife For a Valentine's Day gift for your wife, heart, name, initial and private-message jewelry can emphasize the relationship. For a birthday gift for your wife, her name, initial or birthstone can put more focus on her personally. Explore our dedicated Valentine's Day gifts and birthday gifts for broader occasion assortments. Personalized Rings for Wife The collection includes promise-style, date, heart, birthstone and two-name rings. A ring can carry a name, important date, hidden message or two-person personalization depending on the design. Before ordering, confirm her ring size and whether the product requires names, dates, birthstones or another customization. Choose the Personalization by Meaning Meaning Good starting point Her name Name necklace or engraved name jewelry Your marriage Two names, two initials, heart or infinity jewelry Your wedding or anniversary date Roman-numeral necklace or ring, date necklace A shared place Coordinates necklace A private sentiment Hidden-message necklace or secret-engraving ring Her birth month Birthstone necklace or ring What to Check Before Ordering Names and spelling: enter every name exactly as it should be made. Date: confirm the correct day, month and year before submitting. Initial order: verify the order on two-initial designs. Coordinates: double-check the location before ordering. Ring size: confirm her size for personalized rings. Birthstone: verify the correct month or stone. Metal and finish: options vary by design and may include sterling silver, plated finishes and selected real-gold choices. Chain length: check the available necklace lengths on the individual product. Frequently Asked Questions What is a meaningful personalized gift for my wife? Choose a detail that belongs specifically to her or to your relationship, such as her name, your initials, your wedding date, a birthstone, coordinates or a private message. The best choice depends on what she wears and which memory you want the jewelry to represent. What necklace should I get my wife for our anniversary? A date necklace, two-name necklace, coordinates pendant or initial-and-date necklace can all connect directly to an anniversary. If she prefers simpler jewelry, her name or initial can also work as an anniversary gift without being overly themed. Can I personalize jewelry with our wedding date? Yes. Several current necklaces and rings are designed around dates, including Roman-numeral pieces and engraved date jewelry. Do you have wife gifts with both of our names? Yes. Selected necklaces and rings are specifically designed for two names or two initials. Can I add a birthstone? Selected necklaces and rings include birthstone personalization. Check the individual product for available stones and other customization fields. Explore Related Personalized Gifts Shop anniversary gifts, Valentine's Day gifts, birthday gifts, couples gifts, name necklaces and engraved necklaces.
-  Updated: 2026-08-08T17:08:53Z
+  Updated: 2026-11-21T12:09:13Z
   Total Products: 19
 - [Personalized Bridal Shower Gifts for Bride](https://www.nameplatedepot.com/collections/personalized-bridal-shower-gifts-for-bride): Shop personalized bridal shower gifts for the bride designed around her name, initials, wedding date, relationship and the day ahead. This collection brings together bride-to-be necklaces, personalized name and monogram jewelry, meaningful-date pieces, coordinates keepsakes, promise rings and two-name designs that can become a wearable reminder of the engagement and wedding. Personalized Bridal Shower Gifts for the Bride-to-Be A bridal shower gift can feel more personal when it uses a detail that belongs specifically to the bride: her name, new initials, wedding date, a meaningful location or both partners' names. Unlike a general wedding gift for the couple, a bridal shower gift for the bride can focus on something she will wear herself before or after the wedding. Bridal Shower Necklaces A bridal shower necklace is an easy way to combine personalization with a piece she can continue wearing after the wedding. Current options include name necklaces, initial pendants, monogram necklaces, Roman-numeral date bars, coordinates necklaces and two-name designs. If you want the gift to focus mainly on her, choose her name, initial or monogram. If you want it to represent the relationship, choose both names, a wedding date or meaningful coordinates. Personalized Bride Necklaces A personalized bride necklace does not need to literally say “bride.” A name necklace, monogram or initial piece can celebrate her identity and still remain wearable after the wedding. Current styles range from delicate initial discs and chokers to larger statement monograms and classic personalized name necklaces. For more name and letter options, browse personalized name necklaces, initial necklaces and monogram necklaces. Wedding Date Jewelry A wedding date turns the bridal shower gift into a keepsake tied directly to the upcoming marriage. Roman-numeral date necklaces and engraved rings can preserve the date in a more subtle format, while initials-and-date pieces can combine the couple and the milestone in one design. Before ordering, verify the exact wedding date and the format required by the product. New Initials & Monogram Gifts Monogram and initial jewelry can be especially relevant around a wedding because the bride may choose to use new initials after marriage. A monogram combines multiple letters into one design, while a single-initial necklace keeps the personalization simpler. Do not assume the bride plans to change her name or initials. Use the personalization she actually wants and follow the exact letter-order instructions on the product page. Coordinates & Meaningful Location Gifts A coordinates necklace can mark where the couple met, got engaged, will marry or shares another important memory. This creates a bridal shower gift that carries a private connection without needing the wedding date or names to be immediately visible. Promise Rings & Personalized Rings Selected engraved and promise-style rings can work as sentimental bridal shower gifts when they are distinct from the engagement or wedding ring. Current options can use names, a date, fingerprint or other available personalization. Because ring symbolism is personal, consider the bride's preferences and confirm her ring size before ordering. Gift for Bride vs. Bridesmaid Gift vs. Wedding Gift Shopping intent Best collection A gift specifically for the bride before the wedding This Bridal Shower Gifts collection Coordinated gifts for the wedding party Personalized Bridesmaid Gifts A gift for the couple or the wedding itself Personalized Wedding Gifts A gift celebrating the engagement Personalized Engagement Gifts What to Check Before Ordering Name: confirm spelling and capitalization exactly as requested by the product. Initials: verify which initials the bride wants and their correct order. Wedding date: double-check the day, month and year. Coordinates: confirm the meaningful location before submitting it. Ring size: required for personalized ring gifts. Material: options vary by product and may include sterling silver, plated finishes and selected real-gold choices. Chain length: check the individual necklace options. Timing: personalized pieces are made to order, so review current production and shipping information before the shower date. Frequently Asked Questions What is a good personalized bridal shower gift? A good personalized bridal shower gift uses something specific to the bride or the relationship, such as her name, initials, wedding date, meaningful coordinates or both partners' names. Can I give a personalized necklace at a bridal shower? Yes. Name, initial, monogram, date and coordinates necklaces can all work as bridal shower gifts, especially when the design remains wearable after the wedding. Should a bridal shower gift say “bride”? Not necessarily. A personalized piece using her own name, initials or wedding date can celebrate the occasion while remaining useful beyond the wedding. Can I personalize jewelry with the wedding date? Yes. Selected necklaces and rings are designed for date personalization, including Roman-numeral styles. What if I am buying for bridesmaids instead of the bride? Browse Personalized Bridesmaid Gifts for coordinated initial, monogram and name jewelry intended for the wedding party. Explore More Wedding Gifts Browse wedding gifts, engagement gifts, bridesmaid gifts, name necklaces and monogram necklaces.
-  Updated: 2026-08-08T17:11:22Z
+  Updated: 2026-11-20T03:03:53Z
   Total Products: 17
-- [Personalized Gifts for Boyfriend](https://www.nameplatedepot.com/collections/personalized-gifts-for-boyfriend): Shop personalized gifts for your boyfriend built around his initials, name, an important date or a message that belongs to the two of you. Choose engraved leather bracelets, initial and dog-tag necklaces, personalized rings, signets and statement men’s jewelry for birthdays, anniversaries and Valentine’s Day. Personalized Gifts for Boyfriend A strong boyfriend gift starts with how he actually wears jewelry. If he wears bracelets, use a date, name or short message. If he wears chains, choose an initial, dog tag or bolder personalized pendant. If he prefers rings, an engraved band or signet keeps the personalization compact. Bracelets for Boyfriend An engraved men’s bracelet is one of the clearest relationship-gift options because it can carry a date, name or message without feeling overly formal. The collection includes a Roman-numeral leather bracelet and other personalized bracelet styles suited to everyday wear. For an anniversary gift for your boyfriend, a date bracelet can mark when you met, your first date or another milestone. Necklaces for Boyfriend Current men’s necklace options include initial tags, dog tags, double-plated initials, Old English letters, Cuban-chain initials and other stronger-profile personalized designs. A single initial keeps the gift subtle, while a larger letter or tag creates more visual presence. Personalized Rings for Boyfriend Engraved rings and signet rings can carry a name, initial, date or message depending on the product. Choose a signet when you want a classic initial-based gift and a wider engraved band when you want words or a date. Confirm his ring size before ordering. Valentine’s Day Gifts for Boyfriend For a personalized Valentine’s gift for your boyfriend, initials, a meaningful date, an engraved message or a bracelet he can wear every day are strong starting points. Browse our personalized Valentine’s Day gifts for the broader seasonal assortment. Anniversary Gifts for Boyfriend Dates and private messages work especially well for anniversaries because they connect directly to the relationship. Roman numerals can make the date more subtle, while an engraved ring or bracelet can keep the message more . Browse personalized anniversary gifts for more couple-focused designs. Birthday Gifts for Boyfriend For a birthday, his own initial, name, birthstone or zodiac can put more focus on him personally. If you want the gift to represent both of you, use a date or engraved message instead. Explore personalized birthday gifts for the wider occasion collection. How to Choose a Gift for Your Boyfriend If he likes... Good starting point Bracelets Roman-numeral or engraved men’s bracelet Chains Initial, dog-tag or Cuban-chain necklace Rings Engraved band or signet ring Bold jewelry Large initial, Old English or statement name piece Subtle personalization Single initial or meaningful date A private message Engraved bracelet or ring What to Check Before Ordering Initial or name: confirm spelling and capitalization. Date: verify every digit before submitting it. Message: check product-specific character limits. Ring size: required for personalized rings. Bracelet size: check his wrist and the product sizing guide. Chain style and length: confirm what he normally wears. Material: verify sterling silver, stainless steel, plating or real gold on the exact product. Frequently Asked Questions What is a good personalized gift for a boyfriend? An engraved bracelet, initial necklace, dog tag, personalized ring or signet can work well when it matches the jewelry he already wears. What can I engrave for my boyfriend? Depending on the product, you can use a name, initials, important date or short message. Check the exact engraving fields and character limits. What is a good anniversary gift for a boyfriend? A Roman-numeral date bracelet, engraved ring or initial necklace can connect directly to your relationship without being limited to the anniversary itself. Do you have Valentine’s gifts for boyfriends? Yes. The collection includes bracelets, initials, dog tags and rings that can be personalized for Valentine’s Day. Explore Related Gifts Browse gifts for him, Valentine’s Day gifts, anniversary gifts and birthday gifts.
-  Updated: 2026-09-20T11:04:59Z
+- [Personalized Gifts for Boyfriend](https://www.nameplatedepot.com/collections/personalized-gifts-for-boyfriend): Shop personalized gifts for your boyfriend built around his initials, name, an important date or a message that belongs to the two of you. Choose engraved leather bracelets, initial and dog-tag necklaces, personalized rings, signets and statement men’s jewelry for birthdays, anniversaries and Valentine’s Day.
+  Updated: 2026-11-20T02:09:18Z
   Total Products: 16
-- [Personalized Gifts for Husband](https://www.nameplatedepot.com/collections/personalized-gifts-for-husband): Shop personalized gifts for your husband built around your marriage, his name, initials, an anniversary date or the family you share. Choose engraved bracelets, children’s-name jewelry, signet rings, personalized men’s rings, initial necklaces and bold namepieces for anniversaries, birthdays, Valentine’s Day and new-Dad milestones. Personalized Gifts for Husband A strong husband gift can focus on him personally or on the life you have built together. Use his name or initials when you want the piece to feel distinctly his. Use an anniversary date, children’s names or a family detail when you want the personalization to represent the marriage and family. Anniversary Gifts for Husband For an anniversary gift for your husband, date jewelry is a strong starting point. A Roman-numeral leather bracelet or engraved ring can mark your wedding date, the day you met or another milestone without needing a large anniversary symbol. Browse personalized anniversary gifts for more couple and date-focused designs. Bracelets for Husband Current bracelet options include Roman-numeral leather styles, engraved bracelets and family-name designs. A bracelet can carry a date, message or children’s names while keeping the finished piece easy to wear every day. Check wrist size and the number of supported names before ordering. Gifts for Husband with Children’s Names Children’s-name jewelry can turn the gift into a family keepsake. A multi-name bracelet or bar-style piece gives each child a place in the design and can work especially well for Father’s Day, an anniversary or Christmas. Confirm every name and its order before submitting the personalization. Rings for Husband Signet rings, engraved bands and personalized name rings give you several levels of customization. A signet can use his initials, an engraved band can carry a date or message, and a name ring can make his own name the visual focus. Selected men’s rings are available in sterling silver or real gold depending on the design. Confirm ring size and material on the exact product. Initial & Signet Jewelry An initial is a quieter form of personalization than a full name. Current men’s options include black and silver signets, dog-tag initials, Cuban-chain initials and other stronger-profile letter designs. If he already wears rings or chains, match the personalization to the format he uses most often. New Dad Gifts for Husband For a husband becoming a father, a baby-footprint bracelet can connect the piece to the new child and the change in your family. This can work as a new-Dad gift, first Father’s Day gift or post-birth keepsake. Browse Father’s Day gifts or baby shower gifts when the occasion itself is the stronger shopping intent. Valentine’s Day Gifts for Husband For Valentine’s Day, initials, a meaningful date or a private engraving can keep the gift connected to your relationship without requiring heart-heavy styling. An engraved bracelet or ring works especially well for a husband who prefers understated jewelry. Explore personalized Valentine’s Day gifts for the seasonal collection. Birthday Gifts for Husband For his birthday, his own name, initial or sign can put more focus on him personally. If you want the birthday gift to reflect the marriage, choose a date, children’s names or another family detail instead. Browse personalized birthday gifts for the broader occasion hub. Bold Name & Initial Necklaces for Men The live men’s assortment includes initial tags, Cuban-chain initials, bar name necklaces and selected bold nameplate styles. These are best suited to husbands who already wear chains and prefer a more visible personalized piece. For the wider men’s assortment, browse personalized gifts for him. How to Choose a Gift for Your Husband What you want to represent Good starting point Your anniversary Roman-numeral bracelet or engraved date ring Your family Children’s-name bracelet or multi-name piece His identity Initial, signet or personalized name jewelry A new baby Baby-footprint bracelet A private message Engraved ring or bracelet A higher-value milestone Selected real-gold signet, name ring or men’s nameplate What to Check Before Ordering Date: verify your anniversary or milestone date carefully. Children’s names: confirm spelling and order. Initials: check the exact letter or letters for signets and necklaces. Ring size: required for personalized rings. Bracelet size: measure his wrist using the product guidance. Message length: check engraving limits before writing the message. Material: verify sterling silver, stainless steel, plating or real gold on the exact product. Frequently Asked Questions What is a good personalized gift for my husband? An anniversary-date bracelet, children’s-name jewelry, initial signet, engraved ring or personalized men’s necklace can all work when the design matches what he already wears. What can I engrave for my husband? Depending on the product, use a name, initials, wedding date, children’s names or a short private message. What is a good anniversary gift for a husband? A Roman-numeral date bracelet, engraved ring or other piece using your wedding date can tie directly to the anniversary while remaining wearable year-round. Do you have gifts for a new dad from his wife? Yes. The collection includes a baby-footprint bracelet that can mark the arrival of a new child. Do you have real-gold gifts for husbands? Yes. Selected men’s signet rings, name rings and nameplate jewelry are available in real-gold options. Confirm the karat on the product page. Explore Related Gifts Browse gifts for him, anniversary gifts, Valentine’s Day gifts, Father’s Day gifts and birthday gifts.
-  Updated: 2026-09-20T11:04:59Z
+- [Personalized Gifts for Husband](https://www.nameplatedepot.com/collections/personalized-gifts-for-husband): Shop personalized gifts for your husband built around your marriage, his name, initials, an anniversary date or the family you share. Choose engraved bracelets, children’s-name jewelry, signet rings, personalized men’s rings, initial necklaces and bold namepieces for anniversaries, birthdays, Valentine’s Day and new-Dad milestones.
+  Updated: 2026-11-20T02:09:18Z
   Total Products: 14
-- [Personalized New Baby Gifts & Jewelry](https://www.nameplatedepot.com/collections/personalized-new-baby-gifts-jewelry): Celebrate the new arrival with personalized new baby gifts and jewelry made around the details that are finally known: the baby’s name, birth date, birthstone, footprint, initial or birth statistics. Choose baby-name necklaces, footprint jewelry, new-mom keepsakes, initial charms, birthstone pieces and personalized gifts for new dads. New-baby gifting is different from shopping before the birth. Once the baby has arrived, you can use the final spelling, actual birth month, birth date, footprint and other confirmed details to create a more specific keepsake. Personalized New Baby Gifts A personalized new baby gift can celebrate the child, the mother, the father or the family together. Start with who will wear the jewelry, then choose the detail that should represent the baby. A baby name or initial makes the child immediately identifiable. A birthstone represents the birth month. Footprint jewelry preserves a physical detail from the newborn stage, while baby statistics can record information such as the birth date or other product-supported details. Baby Name Necklaces A baby name necklace turns the child’s name into a wearable keepsake for a parent or another close family member. The live assortment includes a dedicated Baby Name Necklace as well as other jewelry that can incorporate a baby’s name. Confirm the final spelling and capitalization before ordering. A personalized piece should use the baby’s actual name rather than an early spelling or nickname unless that is intentionally what you want made. New Baby Necklaces A personalized new baby necklace can use more than a name. Current options include baby-feet designs with a name, date and birthstone, Mom disc necklaces with a name and birthdate, baby-stat necklaces and personalized initial charms. Choose the format by the detail you want to preserve. Name jewelry makes the personalization immediately visible, while a birthstone, footprint or small initial can create a more subtle keepsake. Baby Footprint Jewelry Footprint jewelry creates a direct connection to the newborn stage. The collection includes an engraved baby-feet necklace, a baby-feet birthstone ring, a custom baby-footprint ring and a new-Dad footprint bracelet. Where a product uses the baby’s actual footprint, follow the upload instructions carefully and use the clearest source image available. Where the design uses a baby-feet motif rather than an uploaded print, review the product description so you know exactly what will be personalized. Birthstone & Birth-Date Gifts After the baby arrives, the birth month and birth date are confirmed, making birthstone and date jewelry especially relevant. Current options combine a birthstone with baby feet, a name or other birth details. Double-check the birth month and date before ordering. If a product allows several details, verify each field independently rather than relying on the sample image. Baby-Stats Jewelry The live assortment includes a new-mom necklace designed around baby statistics and a birthstone. Depending on the product, birth details may include a name, date or other supported information. Use only the fields offered on the exact product page and check every number carefully before submitting permanent personalization. New Mom Gifts For a personalized new mom gift, choose a piece that connects her directly to the new child. Baby-name jewelry, a birthstone, a Mom disc necklace, baby statistics or a footprint can all mark her new role without relying on generic motherhood wording. For gifts specifically given to celebrate the mother around delivery, browse our personalized push present gifts. New Dad Gifts The collection includes a personalized baby-footprint bracelet designed for a first-time or new Dad. A footprint, baby name, date or short family message can make the piece specific to the new child while keeping the bracelet wearable after the newborn stage. For more year-round Dad jewelry, browse personalized gifts for Dad. New Parents Gifts A personalized new parents gift can focus on one parent or represent the new family together. Baby-name, initial, date and birthstone jewelry all work because the personalization belongs to the child and family rather than only to one occasion. If you are giving separate gifts, choose a Mom piece and a Dad bracelet that share the same baby detail—such as the name or birth date—without needing the two pieces to match visually. Baby Initial & Charm Necklaces Initial charms offer a smaller alternative to a full baby-name necklace. Current animal-inspired designs include deer, moose, giraffe, bird, teddy-bear and elephant charms personalized with an initial. These are useful when you want the baby’s letter represented in a more playful design while keeping the jewelry wearable for a parent or family member. New Baby Gift vs. Baby Shower Gift vs. Push Present Shopping moment Best personalization Baby shower Details known before birth, Mom/Dad gifts, initials or designs that do not depend on final birth information New baby gift Confirmed baby name, birth date, birthstone, footprint or birth details after arrival Push present A gift specifically celebrating the mother around the birth For gifts before the birth, browse personalized baby shower gifts. For a mother-focused post-birth gift, browse push present jewelry. What to Check Before Ordering Baby’s name: confirm final spelling and capitalization. Birth date: verify every digit before submitting it. Birthstone: confirm the actual birth month and selected stone. Birth statistics: check every product-supported number carefully. Footprint: use a clear source image when the product requires an upload. Initial: verify the correct letter for charm necklaces. Ring or bracelet size: confirm fit for the person who will wear the piece. Material: verify sterling silver, stainless steel or the selected plated finish on the exact product. Frequently Asked Questions What is a good personalized new baby gift? A baby-name necklace, footprint piece, birthstone ring, initial charm, new-mom necklace or new-Dad bracelet can all work because the personalization connects directly to the new arrival. Can I personalize a gift with the baby’s name and birth date? Yes. Selected products support a name and date together, while others may also include a birthstone or additional birth details. Check the fields on the exact product. What is the difference between a baby shower gift and a new baby gift? A baby shower gift is usually chosen before the birth, when some details may still be unknown. A new baby gift can use the confirmed name, birth date, birthstone, footprint or other actual birth details. Do you have new baby gifts for moms? Yes. Current options include baby-name jewelry, a Mom disc necklace, birthstone and baby-stat pieces, footprint jewelry and personalized initial charms. Do you have new baby gifts for dads? Yes. The collection includes a personalized baby-footprint bracelet designed for a new or first-time Dad. Explore Related Personalized Gifts Browse baby shower gifts, push presents, gifts for Mom, gifts for Dad and personalized gifts for kids.
-  Updated: 2026-08-08T17:22:46Z
+- [Personalized New Baby Gifts & Jewelry](https://www.nameplatedepot.com/collections/personalized-new-baby-gifts-jewelry): Celebrate the new arrival with personalized new baby gifts and jewelry made around the details that are finally known: the baby’s name, birth date, birthstone, footprint, initial or birth statistics. Choose baby-name necklaces, footprint jewelry, new-mom keepsakes, initial charms, birthstone pieces and personalized gifts for new dads. New-baby gifting is different from shopping before the birth. Once the baby has arrived, you can use the final spelling, actual birth month, birth date, footprint and other confirmed details to create a more specific keepsake.
+  Updated: 2026-11-21T18:50:23Z
   Total Products: 14
-- [Personalized Baptism Gifts & Cross Jewelry](https://www.nameplatedepot.com/collections/personalized-baptism-gifts-cross-jewelry): Mark a baptism or christening with personalized baptism gifts and cross jewelry made around a name, initial, birthstone or faith symbol. Choose engraved cross necklaces, initial crosses, personalized cross rings, birthstone-cross jewelry and Orthodox or traditional cross styles that can become a wearable keepsake of the occasion. This collection is curated around the religious milestone rather than every cross design on the site. Start with the recipient and the type of personalization you want, then choose the cross style and material that fit them. Personalized Baptism Gifts A personalized baptism gift can combine a symbol of faith with something specific to the recipient. Names and initials make the piece immediately personal, while a birthstone can add a month-based detail. Selected cross necklaces and rings support one or more of these options. For a baptism gift, choose personalization that will still feel relevant after the ceremony rather than relying only on event wording. Personalized Baptism Necklaces A personalized baptism necklace is a strong choice because it can combine a cross with a name or initial without requiring ring sizing. Current options include engraved name crosses, initial crosses, bar necklaces with cross charms, birthstone-cross bars, Canterbury crosses, Orthodox crosses and other personalized faith designs. Check chain length and pendant scale on the exact product, especially when the recipient is younger. Cross Necklaces with Name or Initial A name makes the personalization immediately readable, while an initial creates a subtler keepsake. Current designs include a delicate engraved name cross, a cross with an initial, double-initial-and-cross necklaces and family-style cross necklaces that can hold several initials. For the broader style assortment beyond baptism gifting, browse personalized cross necklaces. Birthstone Cross Jewelry A birthstone can add another personal detail to a baptism gift. The live assortment includes a personalized birthstone cross-bar necklace that combines a name with a stone. Confirm the recipient’s birth month and the selected stone before checkout. Use the individual product page as the source of truth for available stones and personalization fields. Baptism Rings Personalized cross rings provide an alternative when the recipient already wears rings. Current options include engraved name crosses, a small cross charm ring and a double-finger cross name ring. Confirm ring size before ordering. For a younger child, a necklace may be easier to size and wear than a ring. Baptism Gifts for Daughter or Goddaughter For a daughter or goddaughter, a name, initial or birthstone can make the religious keepsake unmistakably theirs. A personalized cross necklace is especially useful when you want the gift to remain wearable as they grow. Our research also identifies baptism gift for goddaughter and goddaughter cross necklace as relevant long-tail directions, so this page is the primary religious-gift destination rather than creating another thin recipient-and-occasion URL. fileciteturn17file0 Baptism Gifts for Boys & Men Cross jewelry is not limited to delicate styles. The store also carries stronger-profile personalized cross and dog-tag designs for men. For a boy or  male recipient, compare pendant size, chain style and material rather than choosing only by the cross shape. Browse personalized gifts for him for the wider men’s assortment. Orthodox & Traditional Cross Styles The live assortment includes Orthodox, Russian Orthodox, Jerusalem and Canterbury-inspired cross designs in addition to simpler engraved crosses. These styles may carry different visual or religious associations, so choose the design that fits the recipient’s tradition and preferences. Selected Orthodox cross products are available in sterling silver, plated finishes and real 14K gold options. Baptism vs. Christening Gifts Searches for baptism gifts and christening gifts often overlap around the same shopping need: a personalized religious keepsake for a child or loved one. Rather than creating two near-duplicate collections, this page supports both terms while keeping one clear shopping destination. If the occasion or denomination calls for a specific cross tradition, use the exact product design and description to guide your choice. Baptism, Confirmation & First Communion Some personalized cross designs can also suit confirmation or First Communion because the faith symbol and personalization remain relevant across religious milestones. The best choice depends on the recipient, age and tradition. We are keeping these related intents within the religious-gift architecture until product depth and search data justify separate pages. How to Choose a Baptism Gift If you want... Good starting point A simple personal keepsake Cross necklace with one initial The recipient’s full name Engraved name cross necklace Name plus birth month Birthstone cross-bar necklace A traditional cross style Orthodox, Jerusalem or Canterbury cross A ring instead of a necklace Personalized cross ring Several family initials Cross-and-initials necklace What to Check Before Ordering Name: verify spelling and capitalization exactly. Initials: confirm the letters and their order. Birthstone: check the correct month and selected stone. Cross style: choose the religious or visual tradition appropriate for the recipient. Chain length: especially important for children and younger recipients. Ring size: required for cross rings. Material: confirm sterling silver, plated finish or real gold on the exact product. Gift timing: personalized jewelry is made to order, so review current production and shipping information before the ceremony. Frequently Asked Questions What is a good personalized baptism gift? A cross necklace with a name or initial, a birthstone cross, or a personalized cross ring can make a strong keepsake because the faith symbol and personal detail remain relevant after the ceremony. Can I personalize a baptism necklace with a name? Yes. Several current cross necklaces support a name or word, while other designs use initials or birthstones. Do you have baptism gifts for goddaughters? Yes. Personalized cross necklaces with a name, initial or birthstone can work well for a goddaughter. Choose the chain length and scale appropriate for the recipient. Can these gifts also work for a christening? Yes. Baptism and christening gift intent overlaps substantially, so this collection is designed to serve both rather than splitting nearly identical products across two pages. Do you have Orthodox baptism jewelry? Yes. Current options include Orthodox and Russian Orthodox personalized cross necklaces, with selected products offering sterling silver, plated and real-gold choices. Explore Related Personalized Jewelry Browse cross necklaces, initial necklaces, engraved necklaces and personalized gifts for kids.
-  Updated: 2026-08-08T17:23:42Z
+- [Personalized Baptism Gifts & Cross Jewelry](https://www.nameplatedepot.com/collections/personalized-baptism-gifts-cross-jewelry): Mark a baptism or christening with personalized baptism gifts and cross jewelry made around a name, initial, birthstone or faith symbol. Choose engraved cross necklaces, initial crosses, personalized cross rings, birthstone-cross jewelry and Orthodox or traditional cross styles that can become a wearable keepsake of the occasion. This collection is curated around the religious milestone rather than every cross design on the site. Start with the recipient and the type of personalization you want, then choose the cross style and material that fit them.
+  Updated: 2026-11-19T23:10:15Z
   Total Products: 15
 - [Personalized Monogram Rings](https://www.nameplatedepot.com/collections/personalized-monogram-rings): Shop personalized monogram rings featuring interlocking, cutout, and bold initial designs in sterling silver, 24K gold plating, and rose gold plating.
   Updated: 2026-08-08T17:31:17Z
   Total Products: 4
-- [Personalized Gifts for Sister](https://www.nameplatedepot.com/collections/personalized-gifts-for-sister): Shop personalized gifts for your sister made around her name, initial, birthstone or the bond you share. Choose initial necklaces, birthstone jewelry, heart designs, friendship-style sets and personalized pendants for birthdays, Christmas, milestones or a gift just for her. A sister gift can focus on her—her initial, name or birthstone—or on your relationship through matching hearts, shared initials or coordinated jewelry. Start with the meaning you want the gift to carry, then choose the style she is most likely to wear. Personalized Gifts for Sister The strongest gifts for sister use a detail that belongs specifically to her or to the two of you. Initial jewelry is easy to wear and keeps the personalization subtle. Birthstones connect the piece to her birth month. Heart and friendship designs can make the relationship more visible. Personalized Sister Necklaces A personalized sister necklace is one of the easiest gift formats because it does not require ring sizing. Current options include initial pendants, heart-and-initial necklaces, birthstone-and-initial designs, bar necklaces and friendship-style heart sets. If you want her full name rather than an initial, browse personalized name necklaces. Initial Necklaces for Sister An initial keeps the gift personal without making the design overly specific to one occasion. Current styles range from delicate discs and slim bars to paperclip-chain initials, geometric pendants and sparkling letter designs. For a wider letter-focused assortment, browse personalized initial necklaces. Birthstone Gifts for Sister Birthstone jewelry can represent your sister’s birth month while keeping the piece wearable year-round. Current options combine initials with birthstones in charm, disc and heart formats. Confirm the correct birth month and selected stone before ordering. Heart Jewelry for Sister Heart designs can work when you want the relationship to be more visible. Current options include heart-and-initial necklaces, layered heart styles and personalized heart pendants. For the broader assortment, browse personalized heart necklaces. Matching & Friendship-Style Gifts for Sisters Sisters can also share friendship-style jewelry. The current collection includes an interlocking heart set that can be divided between people and personalized with initials. If the shared-friendship angle is stronger than the family relationship, browse personalized gifts for Best Friends. Birthday Gifts for Sister For a sister birthday gift, her birthstone, initial or name creates a direct connection to her. Birthstone jewelry makes the birthday link more visible, while an initial or name stays relevant year-round. Browse personalized birthday gifts when the occasion itself is the main shopping mission. Christmas Gifts for Sister For a Christmas gift for your sister, choose a piece she can continue wearing after the holiday. Initials, birthstones, hearts and personalized name jewelry work well because the personalization belongs to her rather than to Christmas. Browse personalized Christmas gifts for the broader seasonal assortment. Milestone Gifts for Sister For graduation, a milestone birthday or another achievement, you can make the gift more specific through a date, birthstone or personalized letter. If the milestone itself matters more than the relationship, use the corresponding occasion collection. Sister Gift vs. Best Friend Gift A sister may also be your best friend, so some products can fit both collections. Use this page when the family relationship should lead. Use the Best Friend collection when matching friendship jewelry or BFF-style symbolism is the stronger shopping intent. How to Choose a Gift for Your Sister What you want to emphasize Good starting point Her identity Initial or name necklace Her birth month Initial-and-birthstone jewelry Your bond Heart or friendship-style set Everyday wear Delicate disc, bar or small initial necklace A little more sparkle Diamond-accent or cubic-zirconia initial A birthday or milestone Birthstone or personalized letter piece What to Check Before Ordering Initial: confirm the correct letter and capitalization. Birthstone: verify the correct month or stone. Set quantity: confirm how many necklaces are included in matching or friendship sets. Chain length: choose a length that fits her usual style. Material: confirm sterling silver, plated finish or other listed material on the exact product. Gift timing: personalized jewelry is made to order, so review current production and shipping information before the occasion. Frequently Asked Questions What is a good personalized gift for a sister? An initial necklace, birthstone design, heart pendant or matching friendship-style set can all work. Start with what she already wears and the detail that will make the gift specifically hers. What necklace should I get my sister? A small initial or birthstone necklace is a versatile everyday option. If you want the relationship to be more visible, choose a heart or matching-style piece. What is a good birthday gift for my sister? A birthstone-and-initial necklace, personalized heart or name-based piece can connect directly to her birthday while remaining wearable afterward. Do you have matching necklaces for sisters? Yes. Selected friendship-style heart sets can be shared between sisters. Check the number of pieces included and assign the initials correctly before ordering. Can I shop sister gifts for Christmas? Yes. Initial, birthstone, heart and personalized jewelry can all work as Christmas gifts while remaining relevant year-round. Explore Related Personalized Gifts Browse gifts for her, birthday gifts, Christmas gifts, Best Friend gifts, initial necklaces and name necklaces.
-  Updated: 2026-08-08T17:33:32Z
+- [Personalized Gifts for Sister](https://www.nameplatedepot.com/collections/personalized-gifts-for-sister): Shop personalized gifts for your sister made around her name, initial, birthstone or the bond you share. Choose initial necklaces, birthstone jewelry, heart designs, friendship-style sets and personalized pendants for birthdays, Christmas, milestones or a gift just for her. A sister gift can focus on her—her initial, name or birthstone—or on your relationship through matching hearts, shared initials or coordinated jewelry. Start with the meaning you want the gift to carry, then choose the style she is most likely to wear.
+  Updated: 2026-11-20T23:13:52Z
   Total Products: 13
-- [Personalized Back to School Jewelry & Gifts](https://www.nameplatedepot.com/collections/personalized-back-to-school-jewelry-gifts): Start the school year with personalized Back to School jewelry and gifts made around a student’s name, initial or birthstone. Shop personalized necklaces and rings for kids, teens and students heading back to elementary school, middle school, high school or college.Choose everyday pieces that feel personal without being tied to one school year. Initial necklaces, name jewelry, birthstone designs and smaller personalized pieces can mark a fresh start, a new school, a first day, a move to high school or the beginning of college.Personalized Back to School GiftsA Back to School gift can celebrate a new beginning without being a traditional school supply. Personalized jewelry gives the student something made specifically for them and can continue to be worn after the first day of school.Start with the personalization they are most likely to connect with: their own name, a single initial or a birthstone.Back to School NecklacesNecklaces are the strongest part of this collection because they are easy to personalize and do not require ring sizing. Current choices include kids’ initial necklaces, cursive letters, sideways initials, hearts, birthstones and personalized name necklaces.For younger students, check pendant size and chain length carefully. For teens and college students, simpler initials, bars and name designs can provide a more grown-up everyday look.Initial Necklaces for StudentsAn initial is a simple way to make a Back to School gift personal. Current styles range from a dedicated Kids Initial Necklace and playful Unicorn Initial Necklace to cursive letters, sideways initials, heart initials and cleaner bar-style designs.For the wider letter-based assortment, browse personalized initial necklaces.Name Jewelry for Back to SchoolA personalized name necklace or name ring puts the student’s own name at the center of the piece. Current options include calligraphy name necklaces, princess-crown name styles and kids’ name rings.For more styles, browse personalized name necklaces.Birthstone Back to School GiftsBirthstone jewelry combines an initial or name with the student’s birth month. It works well when you want the gift to feel more personal than a standard letter pendant while still being wearable year-round.Confirm the correct birth month and stone before ordering.Back to School Gifts for KidsFor younger students, look for smaller-scale personalized pieces, playful motifs and designs made specifically for kids. The collection includes kids’ initials, unicorns, princess-crown name jewelry and personalized kids’ rings.Browse personalized gifts for kids for the broader child-focused assortment.Back to School Gifts for TeensFor middle-school and high-school students, simpler initials, hearts, name necklaces, cursive letters and modern bar or sideways-letter designs can feel more age-appropriate than very childlike motifs.A personalized piece can also mark the transition into high school, a new school or another school-year milestone.Back to College GiftsFor a student heading to college, choose a piece that feels personal but easy to wear every day. Initials, names, birthstones and cleaner geometric or bar designs can work well for campus life and can continue to be worn after graduation.If the student is graduating rather than starting a new school year, browse personalized graduation gifts.First Day of School & New School GiftsA first day at a new school can be a meaningful milestone. A personalized initial, name or birthstone can make a small keepsake for the transition without needing school-specific wording.How to Choose a Back to School Gift Student or style Good starting point Younger child Kids initial, unicorn, crown or kids’ name piece Tween or teen Initial, heart, birthstone or name necklace High-school student Sideways letter, cursive initial, bar or name necklace College student Simple initial, birthstone or everyday personalized necklace Student who likes bold personalization Full name necklace or personalized ring Student who prefers subtle jewelry Single initial or small birthstone piece What to Check Before Ordering Name or initial: verify spelling, capitalization and the correct letter. Birthstone: confirm the student’s birth month. Chain length: choose a length appropriate for the wearer. Ring size: confirm current sizing before ordering a kids’ ring. Material: check whether the selected piece is sterling silver, plated, stainless steel or real gold. School start date: personalized jewelry is made to order, so review current production and shipping timing before the first day. Frequently Asked QuestionsWhat is a good personalized Back to School gift?An initial necklace, name necklace, birthstone piece or personalized ring can all work. Choose something that matches the student’s age and what they already like to wear.What Back to School jewelry works for teenagers?Initials, birthstones, name necklaces, hearts, bars and simple letter pendants are versatile choices for tweens and teens.Do you have Back to School gifts for boys?Yes. Initial, tag and simpler personalized designs can work for boys and teen students. Choose the piece based on the student’s individual style rather than gender alone.Can Back to School jewelry work for college students?Yes. Initial, name, birthstone and simple personalized necklaces can mark the beginning of college while remaining wearable throughout the year.Are these gifts only for the first day of school?No. The personalization is based on the student rather than the school year, so the jewelry can be worn long after the first day.Explore Related Personalized GiftsBrowse gifts for kids, gifts for daughter, birthday gifts, graduation gifts, initial necklaces and name necklaces.
-  Updated: 2026-08-08T18:03:27Z
+- [Personalized Back to School Jewelry & Gifts](https://www.nameplatedepot.com/collections/personalized-back-to-school-jewelry-gifts): Start the school year with personalized Back to School jewelry and gifts made around a student’s name, initial or birthstone. Shop personalized necklaces and rings for kids, teens and students heading back to elementary school, middle school, high school or college. Choose everyday pieces that feel personal without being tied to one school year. Initial necklaces, name jewelry, birthstone designs and smaller personalized pieces can mark a fresh start, a new school, a first day, a move to high school or the beginning of college.
+  Updated: 2026-11-19T23:08:49Z
   Total Products: 16
-- [Personalized Teacher Appreciation Gifts & Jewelry](https://www.nameplatedepot.com/collections/personalized-teacher-appreciation-gifts-jewelry): Thank a teacher with a personalized Teacher Appreciation gift made around a name, initial, birthstone or short engraved detail. Shop personalized necklaces, bracelets and rings that can mark Teacher Appreciation Week, the end of the school year, a holiday thank-you or another moment when a student or family wants to recognize a teacher.The best teacher gift feels specific to the person receiving it. Choose her name or initial for an everyday piece, a birthstone for a more personal detail, or an engravable design when you want to include a short message, date or meaningful word.Personalized Teacher Appreciation GiftsPersonalized jewelry gives you an alternative to a general classroom gift because the finished piece belongs specifically to the teacher. Name necklaces, initial pendants, engraved bars and personalized rings can all work when the design matches what she already wears.Teacher NecklacesNecklaces are an easy starting point because they do not require ring sizing. Choose a name necklace when you want the personalization to be immediately visible, an initial for a subtler everyday gift, or an engraved bar for a clean, modern style.Initial Gifts for TeachersA single initial keeps the gift personal without tying the jewelry to one school year. Current options include cursive letters, sideways initials, heart initials and other compact letter designs.For the wider letter-based assortment, browse personalized initial necklaces.Name Jewelry for TeachersA teacher’s own name can turn a simple necklace or ring into a gift made specifically for her. For more styles, browse personalized name necklaces.Engraved Teacher GiftsSelected engraved bracelets, bar necklaces and rings can carry a name, date, short phrase or other product-supported detail. Keep wording concise and follow the exact character limits shown on the product page.Teacher Appreciation Week GiftsTeacher Appreciation Week is a natural time to give a personal thank-you. If several families or students are contributing, decide on the exact personalization before ordering so the finished gift has one clear message.End-of-Year Teacher GiftsAn end-of-year gift can mark the close of a school year without relying on school-specific wording. An initial, name, birthstone or short engraved message keeps the piece wearable after the classroom year ends.Back to School Teacher GiftsA small personalized piece can also welcome a teacher at the start of a new school year. For student-focused gifts and first-day jewelry, browse Back to School gifts.Teacher Christmas GiftsFor a holiday thank-you, choose personalization that belongs to the teacher rather than to Christmas itself. Names, initials, birthstones and short messages remain relevant year-round.Browse personalized Christmas gifts for the broader holiday assortment.How to Choose a Personalized Teacher Gift If you want... Good starting point A simple everyday gift Initial necklace Her name to be the focus Name necklace A thank-you message Engraved bracelet or bar A birth-month detail Birthstone jewelry A smaller personalized piece Bar or delicate letter pendant A ring Engraved name or birthstone ring What to Check Before Ordering Name or initial: verify spelling and the correct letter. Message: keep engraving within the product’s stated character limit. Birthstone: confirm the correct month when used. Ring size: only choose a ring when you know the teacher’s size. Material: confirm sterling silver, plated finish, stainless steel or other listed material. Gift timing: personalized pieces are made to order, so review current production and shipping information before the school event. Frequently Asked QuestionsWhat is a good personalized Teacher Appreciation gift?An initial necklace, name necklace, engraved bracelet, bar necklace or personalized ring can work well when the style suits the teacher.Can I engrave a thank-you message for a teacher?Selected engravable products support short messages, names or dates. Follow the exact personalization limits on the product page.Can these gifts work for the end of the school year?Yes. Name, initial, birthstone and engraved jewelry can mark an end-of-year thank-you while remaining wearable afterward.Do you have gifts for teachers at Christmas?Yes. Personalized jewelry can work for a holiday thank-you, especially when the personalization is based on the teacher rather than holiday wording.Explore Related Personalized GiftsBrowse Back to School gifts, initial necklaces, name necklaces, engraved necklaces and Christmas gifts.
-  Updated: 2026-09-20T11:04:59Z
+- [Personalized Teacher Appreciation Gifts & Jewelry](https://www.nameplatedepot.com/collections/personalized-teacher-appreciation-gifts-jewelry): Thank a teacher with a personalized Teacher Appreciation gift made around a name, initial, birthstone or short engraved detail. Shop personalized necklaces, bracelets and rings that can mark Teacher Appreciation Week, the end of the school year, a holiday thank-you or another moment when a student or family wants to recognize a teacher.
+  Updated: 2026-11-19T22:59:28Z
   Total Products: 11
-- [Personalized Quinceañera Jewelry & Gifts](https://www.nameplatedepot.com/collections/personalized-quinceanera-jewelry-gifts): Celebrate her 15th birthday with personalized Quinceañera jewelry and gifts made around her name, initial, birthstone or a crown-inspired design. Shop personalized necklaces and rings that can mark the milestone while still feeling like jewelry she can wear after the celebration.A Quinceañera gift can be traditional in meaning without looking generic. Start with the detail that feels most personal to her—her full name, first initial, birthstone or a crown motif—then choose the scale and finish that match her style.Personalized Quinceañera GiftsThe strongest personalized Quinceañera gifts connect directly to the young woman being celebrated. A name necklace makes her identity the focus, a birthstone connects the piece to her birthday, and a crown design can reflect the importance of the milestone.Quinceañera NecklacesA personalized necklace is a natural milestone gift because it can be worn during or after the celebration without requiring ring sizing. Current options include name necklaces, initial pendants, birthstone-and-name jewelry, heart styles, cursive letters and statement Old English pieces.Name Necklaces for a QuinceañeraA name necklace puts her own name at the center of the gift. Choose a classic personalized name style for everyday wear or a bolder font when she prefers more statement jewelry.For the wider assortment, browse personalized name necklaces.Initial Jewelry for a 15th BirthdayAn initial can make the gift personal while keeping the design smaller and easier to wear every day. Current options include heart initials, cursive letters, sideways letters and birthstone-and-initial combinations.Browse personalized initial necklaces for more styles.Quinceañera Birthstone JewelryBirthstone jewelry links the gift directly to her birth month. A name-and-birthstone necklace or an initial-and-birthstone design can combine who she is with when she was born in one piece.Confirm the correct birth month and stone before ordering.Crown Jewelry for a QuinceañeraCrown-inspired jewelry can fit naturally with the celebration when that symbolism suits her style. The current assortment includes a personalized crown name necklace and crown rings that can incorporate a name and birthstone.Quinceañera RingsA personalized ring can make a more substantial milestone keepsake when you know her size. Crown, name, birthstone and bold two-finger designs offer different levels of statement.Confirm current ring size carefully before ordering a personalized ring.Quinceañera Gifts from Parents or GrandparentsParents or grandparents can make the piece more personal by choosing a detail closely tied to her—her name, birthstone or initial—rather than relying only on “15” wording. That keeps the jewelry connected to the milestone while making it wearable later.Quinceañera Gifts for Daughter or GranddaughterIf you are shopping specifically for a daughter or granddaughter, the relationship and the milestone can work together. Use this page when the Quinceañera is the main shopping reason; use the recipient collection when the family relationship should lead.Browse personalized gifts for Daughter for the broader relationship assortment.Quinceañera vs. General Birthday GiftsA Quinceañera is a specific 15th-birthday milestone with its own cultural and family significance. This collection is therefore curated more narrowly around name, birthstone, crown, heart and statement personalization rather than duplicating the full Birthday collection.For birthdays outside this milestone, browse personalized birthday gifts.How to Choose Quinceañera Jewelry If she likes... Good starting point Her name front and center Personalized name necklace Smaller everyday jewelry Initial necklace Birthday symbolism Birthstone jewelry Crown details Crown name necklace or crown ring Hearts and softer shapes Heart initial or name necklace Bold fashion jewelry Old English or statement ring What to Check Before Ordering Name: verify spelling and capitalization carefully. Initial: confirm the correct letter. Birthstone: verify the correct month and stone. Ring size: confirm her current size before ordering a ring. Chain length: choose the placement she is most likely to wear. Material: confirm sterling silver, plated finish, stainless steel or other listed material. Celebration date: review current production and shipping information before the Quinceañera. Frequently Asked QuestionsWhat jewelry is a good Quinceañera gift?A personalized name necklace, initial necklace, birthstone piece or crown-inspired design can work well when it matches her personal style.Can I personalize a Quinceañera necklace with her name?Yes. This collection includes several name-based necklace styles as well as initial and birthstone alternatives.Do you have crown jewelry for a Quinceañera?Yes. Current options include a crown name necklace and crown rings with personalized details.Can grandparents give personalized Quinceañera jewelry?Yes. A name, birthstone or initial can create a milestone gift that feels specific to the granddaughter being celebrated.Is Quinceañera jewelry only for the celebration day?No. The collection emphasizes personalization based on her name, initial, birthstone and style so the jewelry can remain relevant afterward.Explore Related Personalized GiftsBrowse birthday gifts, gifts for Daughter, initial necklaces, name necklaces and heart necklaces.
-  Updated: 2026-10-23T11:04:54Z
+- [Personalized Quinceañera Jewelry & Gifts](https://www.nameplatedepot.com/collections/personalized-quinceanera-jewelry-gifts): Celebrate her 15th birthday with personalized Quinceañera jewelry and gifts made around her name, initial, birthstone or a crown-inspired design. Shop personalized necklaces and rings that can mark the milestone while still feeling like jewelry she can wear after the celebration.
+  Updated: 2026-11-19T22:56:18Z
   Total Products: 14
-- [Personalized Pet Memorial Gifts & Jewelry](https://www.nameplatedepot.com/collections/personalized-pet-memorial-gifts-jewelry): Keep the memory of a beloved pet close with personalized pet memorial gifts and jewelry made around a pet’s name, initial or paw-inspired design. Choose pet necklaces and rings that can serve as a quiet keepsake after the loss of a dog, cat or other companion.This collection is focused specifically on pet remembrance rather than general memorial jewelry. Current pieces include paw-print necklaces, dog-name jewelry, personalized pet rings and cat-inspired designs.Pet Memorial JewelryPet memorial jewelry can turn a name, initial or paw symbol into something wearable. Choose the format that best reflects how you want to remember the pet: a full name, a single initial or a paw-inspired design.Dog Memorial GiftsFor a dog remembrance gift, current options include a bone necklace personalized with the dog’s name, a paw-circle necklace with a name or word, a paw-and-initial necklace and a personalized dog ring.Cat Memorial GiftsFor a cat remembrance gift, the current collection includes a cat initial ring that can carry a meaningful letter. As more cat-specific products are added, this section can expand without creating a separate thin collection.Paw Print Memorial JewelryA paw symbol can make the meaning clear without requiring a long message. Current paw designs include necklaces and rings that can be paired with a name or initial.Pet Name Memorial JewelryUsing the pet’s name creates the most direct personalization. A dog-name bone necklace, paw-circle necklace or personalized ring can keep that name visible in a simple everyday piece.Pet Loss GiftsA personalized pet-loss gift can be appropriate for someone grieving a companion animal when the design is kept personal and understated. If you are buying for someone else, verify the pet’s name or initial carefully before ordering.Pet Memorial Gift vs. General Sympathy GiftUse this collection when the remembrance is specifically for a pet. For broader memorial jewelry involving handwriting, fingerprints, photos, names, dates or urn jewelry, browse personalized sympathy and memorial gifts.What to Check Before Ordering Pet name: verify spelling carefully. Initial: confirm the correct letter. Design: choose dog, cat or paw symbolism that fits the pet being remembered. Ring size: confirm sizing before ordering a personalized ring. Material: check the exact metal or finish on the product page. Gift timing: personalized jewelry is made to order, so review current production and shipping information. Frequently Asked QuestionsWhat is a good personalized pet memorial gift?A paw necklace, pet-name necklace, personalized dog ring or cat initial ring can make a meaningful keepsake when it reflects the pet being remembered.Can I personalize pet memorial jewelry with my dog’s name?Yes. Selected pieces support a dog’s name, while other designs use an initial or paw motif.Do you have pet memorial jewelry for cats?Yes. The collection currently includes a cat initial ring, with additional cat-specific styles to be added as the assortment grows.Can these pieces also be gifts for a living pet owner?Yes. Several designs can also celebrate a living pet. This collection groups them around remembrance because the personalization and symbolism also suit pet memorial intent.Explore Related Personalized GiftsBrowse sympathy and memorial gifts, engraved necklaces, engraved bracelets and personalized gifts by occasion.
-  Updated: 2026-08-08T21:18:06Z
+- [Personalized Pet Memorial Gifts & Jewelry](https://www.nameplatedepot.com/collections/personalized-pet-memorial-gifts-jewelry): Keep the memory of a beloved pet close with personalized pet memorial gifts and jewelry made around a pet’s name, initial or paw-inspired design. Choose pet necklaces and rings that can serve as a quiet keepsake after the loss of a dog, cat or other companion. This collection is focused specifically on pet remembrance rather than general memorial jewelry. Current pieces include paw-print necklaces, dog-name jewelry, personalized pet rings and cat-inspired designs.
+  Updated: 2026-11-19T23:08:39Z
   Total Products: 5
-- [Personalized 21st Birthday Gifts & Jewelry](https://www.nameplatedepot.com/collections/personalized-21st-birthday-gifts-jewelry): Celebrate turning 21 with personalized 21st birthday gifts and jewelry made around a name, initial, birthstone, birth year or meaningful date. This collection is curated for a young- milestone, with personalized necklaces, rings and bracelets for her and him rather than kid-focused birthday styles.A 21st birthday gift can mark the age without needing a large “21” design. A birth year, name, initial, birthstone or important date can make the milestone clear while keeping the jewelry wearable after the celebration.Personalized 21st Birthday GiftsStart with the detail that feels most personal to the recipient. Use a name for an immediately personal piece, a birthstone for a direct birthday connection, an initial for everyday wear, or a year/date design when you want the milestone to lead.21st Birthday Gifts for HerFor her 21st birthday, current options include name necklaces, birthstone necklaces, rose-gold name jewelry, Gothic initials, engraved bars and a personalized birth-year ring. These styles are curated to feel more grown-up than the kid-focused pieces in the broader Birthday collection.For relationship-specific shopping, you can also browse personalized gifts for her, gifts for daughter, gifts for sister or best friend gifts.21st Birthday Gifts for HimFor him, the collection includes personalized initial tags, black onyx initials, men’s name rings, signet rings, Roman-numeral date bracelets and stronger-profile initial necklaces. These provide a more masculine route than simply reusing the general Birthday assortment.Browse personalized gifts for him for the broader men’s collection.21st Birthday NecklacesA necklace is useful when you do not know ring size. Choose a classic name necklace, bold Gothic initial, birthstone pendant, engraved bar, men’s tag or substantial initial chain based on the recipient’s style.Birthstone 21st Birthday JewelryBirthstone jewelry makes the birthday connection immediate without using age-specific wording. Current options combine birthstones with names, dates or engraved bars.Confirm the correct birth month and stone before ordering.Birth Year & Date JewelryA birth-year ring or date-based bracelet can make the milestone more . For someone turning 21 in 2026, the birth year is generally 2004 or 2005 depending on their birthday; always use the recipient’s actual birth year rather than assuming from the calendar year.Roman-numeral bracelets can also carry a birthday or another meaningful date where the product allows.Name & Initial Gifts for a 21st BirthdayName and initial jewelry stays relevant after the birthday itself. A classic script name can feel timeless, while Old English, Gothic, onyx, tag and choker styles create a more fashion-led look for someone entering their twenties.21st Birthday RingsA personalized ring can make a more substantial milestone gift when you know the recipient’s size. Current options include a birth-year ring, men’s name ring and signet ring.Confirm sizing before placing a personalized ring order.21st Birthday Gift vs. General Birthday GiftUse this collection when turning 21 is the main shopping mission. It is deliberately curated around young- styles, birth year/date personalization and distinct gifts for her and him. For other ages and the complete birthday assortment, browse personalized birthday gifts.How to Choose a 21st Birthday Gift If you want... Good starting point A direct birthday connection Birthstone or birth-year jewelry Everyday personalization Name or initial necklace A fashion-forward gift for her Rose-gold choker or Gothic initial A stronger style for him Initial tag, signet ring or men’s chain A meaningful date Engraved bar or Roman-numeral bracelet A milestone keepsake Personalized ring or premium name piece What to Check Before Ordering Name or initial: verify spelling and the correct letter. Birthstone: confirm the correct birth month. Birth year or date: double-check every number before submitting. Ring size: confirm current size before ordering a ring. Chain length: choose a length that matches how the recipient wears necklaces. Material: confirm sterling silver, stainless steel, plated finish or real gold on the exact product. Birthday deadline: personalized jewelry is made to order, so review current production and shipping timing before the celebration. Frequently Asked QuestionsWhat is a good personalized 21st birthday gift?A name necklace, initial necklace, birthstone piece, birth-year ring or date bracelet can all mark a 21st birthday while remaining wearable afterward.What is a good 21st birthday gift for her?Name necklaces, birthstone jewelry, engraved bars, rose-gold name jewelry and personalized rings are strong starting points when they match her style.What is a good 21st birthday gift for him?An initial tag, men’s personalized chain, signet ring, name ring or Roman-numeral date bracelet can provide a stronger-profile personalized option.Can I use the recipient’s birth year instead of “21”?Yes. A birth year or meaningful date can mark the milestone more subtly. Verify the actual year before ordering.Do these gifts have to say “21”?No. The collection is built around personal details—name, initial, birthstone, year or date—so the jewelry can remain relevant after the birthday.Explore Related Personalized GiftsBrowse birthday gifts, gifts for her, gifts for him, best friend gifts, initial necklaces and name necklaces.
-  Updated: 2026-10-23T11:04:54Z
+- [Personalized 21st Birthday Gifts & Jewelry](https://www.nameplatedepot.com/collections/personalized-21st-birthday-gifts-jewelry): Celebrate turning 21 with personalized 21st birthday gifts and jewelry made around a name, initial, birthstone, birth year or meaningful date. This collection is curated for a young- milestone, with personalized necklaces, rings and bracelets for her and him rather than kid-focused birthday styles.
+  Updated: 2026-11-20T02:09:18Z
   Total Products: 17
-- [Personalized Milestone Birthday Gifts & Jewelry](https://www.nameplatedepot.com/collections/personalized-milestone-birthday-gifts-jewelry): Celebrate a significant birthday with personalized milestone birthday gifts and jewelry made around a name, birthstone, birth year, meaningful date or personal message. This collection is curated for milestone ages such as the 30th, 40th, 50th, 60th and 70th birthday, with more substantial name, engraved, birthstone and real-gold options than the general Birthday collection.A milestone gift does not need a large age number to feel connected to the occasion. A birth year, name, birthstone or important date can mark the birthday while keeping the jewelry relevant long after the celebration.Milestone Birthday GiftsFor a milestone birthday, start with the person rather than the number. Consider what they already wear, whether they prefer necklaces, rings or bracelets, and whether a name, birthstone, year or date would carry the most meaning.30th Birthday GiftsA 30th birthday often marks the transition into a new decade without requiring overly formal jewelry. Personalized names, initials, birthstones and engraved dates can make the gift specific while remaining easy to wear every day.40th Birthday GiftsFor a 40th birthday, consider a more substantial personalized piece if that matches the recipient’s style. Birthstone necklaces, name rings, engraved bars and selected real-gold name jewelry can all make the milestone feel more intentional.50th Birthday GiftsA personalized 50th birthday gift can combine the recipient’s name, birthstone or birth year with a design they can continue wearing. For a larger milestone gift, selected solid-gold and statement name pieces provide a higher-value option.60th Birthday GiftsFor a 60th birthday gift, personalized jewelry can focus on identity and family rather than simply displaying the age. A classic name necklace, birthstone piece, engraved date or premium ring can create a keepsake centered on the recipient.70th Birthday GiftsA 70th birthday gift can be understated or substantial depending on the person. Name jewelry, birthstone designs, engraved pieces and real-gold options can all mark the milestone without relying on novelty “70” wording.Milestone Birthday Gifts for HerFor Mom, Grandma, wife, sister, friend or another woman in your life, consider classic name necklaces, birthstone jewelry, engraved bars, statement name rings and selected real-gold pieces. The best choice should reflect what she already wears.For relationship-led shopping, browse personalized gifts for her, gifts for Mom or gifts for Grandma.Milestone Birthday Gifts for HimFor him, stronger-profile engraved bracelets, date pieces, signet-style rings and personalized name rings can create a more masculine milestone route. Browse personalized gifts for him for the wider men’s assortment.Birth Year JewelryA birth-year ring can connect directly to a milestone without using the recipient’s current age. Always confirm the actual birth year before submitting personalization, especially around birthdays that fall near the beginning or end of a calendar year.Birthstone Milestone GiftsBirthstone jewelry connects the gift to the recipient’s birth month. Current options include birthstone name necklaces, engraved bars and real-gold birthstone nameplates.Confirm the correct month and selected stone before ordering.Real Gold Milestone Birthday GiftsSelected milestone pieces are available in real 10K or 14K gold, including name necklaces, birthstone nameplates and personalized rings. A gold-colored or plated product is not automatically solid gold, so verify the exact material and karat on each product page.Milestone Birthday Gift vs. General Birthday GiftUse this collection when the significance of the age is central to the shopping mission and you want a more substantial, birth-year, date, birthstone or premium personalized piece. For all ages and the complete birthday assortment, browse personalized birthday gifts. For turning 21 specifically, browse 21st birthday gifts.How to Choose a Milestone Birthday Gift If you want... Good starting point The milestone to be subtle Name or birthstone jewelry The year to be central Birth-year ring or engraved date piece A substantial gift Statement ring or real-gold name jewelry An easy-to-size gift Personalized necklace A personal everyday piece Classic name necklace or engraved bar A stronger gift for him Engraved bracelet or personalized ring What to Check Before Ordering Name: verify spelling and capitalization. Birth year/date: double-check every number. Birthstone: confirm the correct birth month. Ring size: verify current sizing before ordering a personalized ring. Material: confirm sterling silver, plated finish, stainless steel or real gold. Gift deadline: personalized jewelry is made to order, so review current production and shipping timing before the birthday. Frequently Asked QuestionsWhat is a good personalized milestone birthday gift?A name necklace, birthstone piece, birth-year ring, engraved date bracelet or real-gold personalized piece can all work when the style matches the recipient.Do milestone birthday gifts need the age on them?No. A name, birthstone, birth year or meaningful date can connect the jewelry to the milestone while keeping it wearable afterward.Do you have 50th and 60th birthday gifts?Yes. This collection is curated for significant birthdays including the 30th, 40th, 50th, 60th and 70th, with personalized jewelry that can suit different styles and budgets.Can I choose real gold for a milestone birthday?Yes. Selected products are available in real 10K or 14K gold. Check the exact product and variant before ordering.Explore Related Personalized GiftsBrowse birthday gifts, 21st birthday gifts, gifts for her, gifts for him, name necklaces and engraved necklaces.
-  Updated: 2026-10-29T11:03:50Z
+- [Personalized Milestone Birthday Gifts & Jewelry](https://www.nameplatedepot.com/collections/personalized-milestone-birthday-gifts-jewelry): Celebrate a significant birthday with personalized milestone birthday gifts and jewelry made around a name, birthstone, birth year, meaningful date or personal message. This collection is curated for milestone ages such as the 30th, 40th, 50th, 60th and 70th birthday, with more substantial name, engraved, birthstone and real-gold options than the general Birthday collection.
+  Updated: 2026-11-23T12:04:25Z
   Total Products: 16
-- [Personalized Bar & Bat Mitzvah Gifts & Jewish Jewelry](https://www.nameplatedepot.com/collections/personalized-bar-bat-mitzvah-gifts-jewish-jewelry): Celebrate a Bar or Bat Mitzvah with personalized Jewish jewelry and Mitzvah gifts made around a Hebrew name, initial, meaningful word or Star of David design. This collection is curated specifically for the milestone, with Hebrew-name necklaces and rings, personalized Star of David jewelry and faith- or heritage-inspired pieces that can remain meaningful after the celebration.Rather than separating Bar Mitzvah and Bat Mitzvah into near-duplicate pages, this collection serves both occasions while helping shoppers choose by jewelry style, personalization and recipient.Personalized Bar Mitzvah GiftsFor a Bar Mitzvah, consider a Hebrew name or word, a Star of David, an Israel-inspired symbol or a personalized ring or necklace. Choose the piece based on what the recipient is likely to wear rather than assuming one specific style fits every boy or young man.Personalized Bat Mitzvah GiftsFor a Bat Mitzvah, Hebrew-name jewelry, initials, a Star of David choker or personalized ring can create a wearable keepsake of the milestone. The strongest choice is one that reflects her style while keeping the religious or heritage detail meaningful.Hebrew Name JewelryA Hebrew name can make the personalization especially connected to the occasion. Current options include a multiple Hebrew-name necklace, engraved Hebrew rings and cutout Hebrew-name rings with different textures and finishes.Review the exact product instructions for how the name or word is submitted and translated before ordering.Star of David JewelryCurrent Star of David options include an engraved pendant, an initial choker and an Israel-map ring with a Star of David. These pieces combine a recognizable Jewish symbol with personalization or heritage-inspired design.Bar & Bat Mitzvah NecklacesNecklaces are useful when you do not know ring size. A Hebrew-name necklace, engraved Star of David pendant or personalized initial choker can create a milestone gift without requiring sizing.Bar & Bat Mitzvah RingsPersonalized Hebrew rings provide another route when you know the recipient’s size. Current styles include engraved Hebrew names, hammered textures, cutout lettering, scripture or phrase engraving and an Israel-map design.Confirm the correct ring size before placing a personalized order.Hebrew Scripture & Meaningful WordsSelected rings can carry a Hebrew word, phrase or scripture-style text where the product allows. Keep the requested wording within the available engraving space and verify the text carefully before ordering.Bar Mitzvah Gift vs. Bat Mitzvah GiftThe milestone and faith tradition are shared, while personal style may differ. We keep one collection because many of the same Hebrew-name, Star of David and personalized designs can suit either recipient. Use the product style and personalization—not separate duplicate pages—to narrow the choice.How to Choose a Mitzvah Gift If you want... Good starting point The recipient’s Hebrew name Hebrew name necklace or ring A recognizable Jewish symbol Star of David jewelry A subtle personalized piece Initial choker or slim Hebrew ring A heritage-inspired design Israel-map or Hebrew-script piece A meaningful word or verse Engraved Hebrew phrase ring A gift without ring sizing Personalized necklace What to Check Before Ordering Hebrew name or wording: verify exactly what should appear and follow the product’s submission instructions. Initials: confirm the correct letters and order. Ring size: verify current size before ordering a ring. Chain length: check the available necklace lengths and pendant scale. Material: confirm sterling silver, plated finish or other listed material on the exact product. Ceremony date: personalized jewelry is made to order, so review current production and shipping information before the Bar or Bat Mitzvah. Frequently Asked QuestionsWhat is a good personalized Bar Mitzvah gift?A Hebrew-name necklace or ring, personalized Star of David piece or meaningful Hebrew engraving can make a lasting Bar Mitzvah gift when the style suits the recipient.What is a good personalized Bat Mitzvah gift?A Hebrew-name necklace, Star of David necklace, initial choker or personalized Hebrew ring can all work as a Bat Mitzvah keepsake.Can I personalize jewelry with a Hebrew name?Yes. Selected products are designed for names or words in Hebrew script. Follow the exact product instructions for submission and translation.Do you have Star of David jewelry for a Bar or Bat Mitzvah?Yes. The collection includes selected Star of David necklaces and a ring, including personalized options.Why are Bar and Bat Mitzvah gifts on one page?The product and search intent overlap heavily. One strong collection lets shoppers choose by personalization, symbol and style without creating two competing pages with nearly identical jewelry.Explore Related Personalized JewelryBrowse initial necklaces, engraved necklaces, other personalized religious milestone gifts and personalized gifts by occasion.
-  Updated: 2026-08-08T21:27:15Z
+- [Personalized Bar & Bat Mitzvah Gifts & Jewish Jewelry](https://www.nameplatedepot.com/collections/personalized-bar-bat-mitzvah-gifts-jewish-jewelry): Celebrate a Bar or Bat Mitzvah with personalized Jewish jewelry and Mitzvah gifts made around a Hebrew name, initial, meaningful word or Star of David design. This collection is curated specifically for the milestone, with Hebrew-name necklaces and rings, personalized Star of David jewelry and faith- or heritage-inspired pieces that can remain meaningful after the celebration. Rather than separating Bar Mitzvah and Bat Mitzvah into near-duplicate pages, this collection serves both occasions while helping shoppers choose by jewelry style, personalization and recipient.
+  Updated: 2026-11-19T23:08:28Z
   Total Products: 9
 
 ## Blogs
