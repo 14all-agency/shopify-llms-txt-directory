@@ -23,7 +23,7 @@ Natur-Sense is commonly associated with queries related to aloe vera gel, natura
 - Timezone: America/New_York
 - Created At: 2019-08-07T19:00:28Z
 - Contact Email: support@natur-sense.com
-- Updated At: 2026-11-16T00:39:02.857Z
+- Updated At: 2026-11-24T00:39:29.465Z
 
 Natur-Sense.com is a trusted source for high-quality, nature-inspired wellness and personal care products, with a focus on purity, effectiveness, and transparency. Our flagship Aloe Vera Gel and related products are formulated to support healthy skin, hydration, and everyday well-being.
 
@@ -32,21 +32,21 @@ We are committed to providing accurate product information, clean ingredient sta
 ## Products
 
 - [NaturSense 99% Organic Aloe Vera Gel, Soothing Moisturizer 12oz](https://natur-sense.com/products/natursense-organic-aloe-vera-gel-12oz): 99% Organic Aloe Vera Gel, cold-pressed with vitamins A, C & E. Pure, no sticky residue. Hydrates skin, soothes sunburn, conditions hair. 12oz pump bottle.
-  Updated: 2026-11-13T23:45:28Z
+  Updated: 2026-11-23T22:41:46Z
   Vendor: NaturSense
   Product Type: Organic > Skin Care > Aloe Vera Gel > Sunburn Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/NS-Home-Products-12ozAloe-12.jpg?v=1772465770
   Price: $17.89 USD
 - [99% Organic Aloe Vera Gel Refill, 64.2 oz Moisturizer | NaturSense](https://natur-sense.com/products/natursense-organic-aloe-vera-gel-64-2oz): 99% Organic Aloe Vera Gel, cold-pressed with vitamins A, C & E. Pure, no sticky residue. Hydrates skin, soothes sunburn, conditions hair & scalp. 64oz refill bottle.
-  Updated: 2026-11-15T19:31:56Z
+  Updated: 2026-11-23T23:01:46Z
   Vendor: NaturSense
   Product Type: Organic > Skin Care > Aloe Vera Gel > Sunburn Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/64-oz-aloe-gel-lifestile-1080x1080-2025.jpg?v=1756905834
   Price: $55.89 USD
 - [100% Organic Castile Soap, Unscented 64oz with Pump | NaturSense](https://natur-sense.com/products/organic-castile-soap-64oz): 100% Organic Pure Castile Soap with coconut, olive & aloe oils. Unscented and gentle for body, baby, hands, pets & household cleaning. 64oz with pump.
-  Updated: 2026-11-15T23:37:56Z
+  Updated: 2026-11-23T18:58:57Z
   Vendor: NaturSense
   Product Type: Organic > Personal Care > Castile Soap > Multi-Purpose Liquid Soap
   Availability: Available
@@ -56,13 +56,13 @@ We are committed to providing accurate product information, clean ingredient sta
 ## Collections
 
 - [Home page](https://natur-sense.com/collections/frontpage)
-  Updated: 2026-11-14T12:07:16Z
+  Updated: 2026-11-19T12:06:48Z
   Total Products: 5
 - [Shop All NaturSense Products](https://natur-sense.com/collections/all): Shop all NaturSense products: 99% organic aloe vera gel and pure Castile soap. Unscented, cruelty-free and made by a family-owned company.
-  Updated: 2026-11-14T12:07:16Z
+  Updated: 2026-11-19T12:06:48Z
   Total Products: 7
 - [Aloe Vera Products](https://natur-sense.com/collections/aloe-vera-products): 99% organic, cold-pressed aloe vera gel that soothes sunburn, hydrates skin, and conditions hair. Aloin-free, no sticky residue, made in the USA.
-  Updated: 2026-11-14T12:07:16Z
+  Updated: 2026-11-19T12:06:48Z
   Total Products: 3
 - [Castile Soap Products](https://natur-sense.com/collections/castile-soap-products)
   Updated: 2026-11-01T12:05:46Z
