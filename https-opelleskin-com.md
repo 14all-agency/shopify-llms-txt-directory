@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-04-29T19:10:10Z
 - Contact Email: info@opelleskin.com
-- Updated At: 2026-11-16T13:17:46.371Z
+- Updated At: 2026-11-24T01:15:42.977Z
 
 ## Products
 
@@ -18,12 +18,12 @@
   Image: https://cdn.shopify.com/s/files/1/0818/5774/1029/files/opelle-vitamin-c-ferulic-serum-2.jpg?v=1792432663
   Price: $95.00 USD
 - [Triple Peptide + Copper Serum | Firming Night Serum | Opélle](https://opelleskin.com/products/triple-peptide-copper-serum): A pharmacist-developed peptide and copper serum for smoother, firmer-looking skin. Use each evening. 30 ml, also available by subscription.
-  Updated: 2026-11-16T12:24:11Z
+  Updated: 2026-11-16T13:47:33Z
   Vendor: Opélle
   Product Type: Serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0818/5774/1029/files/opelle-triple-peptide-copper-serum-2.jpg?v=1792432632
-  Price: $110.00 USD
+  Price: $100.00 USD
 - [Opélle Gift Card | Skincare Gift Card, $50–$250](https://opelleskin.com/products/gift-card): Give a considered skincare routine. Opélle gift cards from $50 to $250, redeemable on our pharmacist-developed serums.
   Updated: 2026-11-16T12:09:40Z
   Vendor: Opélle
@@ -46,7 +46,7 @@
     Availability: Available
     Price: $250.00 USD
 - [The Opélle Duo | Vitamin C & Peptide Serum Set](https://opelleskin.com/products/the-opelle-duo): Vitamin C + Ferulic for mornings, Triple Peptide + Copper for evenings. Two pharmacist-developed serums for brighter, firmer-looking skin.
-  Updated: 2026-11-16T13:06:49Z
+  Updated: 2026-11-16T13:48:29Z
   Vendor: Opélle
   Product Type: Serum
   Availability: Available
@@ -56,7 +56,7 @@
 ## Collections
 
 - [Shop All](https://opelleskin.com/collections/all)
-  Updated: 2026-11-16T13:06:50Z
+  Updated: 2026-11-16T13:48:30Z
   Total Products: 4
 
 ## Store Pages
