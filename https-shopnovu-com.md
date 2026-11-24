@@ -6,40 +6,40 @@
 - Timezone: America/New_York
 - Created At: 2026-10-02T05:10:58Z
 - Contact Email: kevinhuff1203@icloud.com
-- Updated At: 2026-11-16T01:07:04.322Z
+- Updated At: 2026-11-24T01:00:49.581Z
 
 ## Products
 
 - [ShadowStrike RGB Gaming Headset](https://shopnovu.com/products/shadowstrike-rgb-gaming-headset): Experience gaming like never before with immersive surround sound, crystal-clear audio, and a noise-reducing microphone. Designed for comfort during long gaming sessions, this headset keeps you focused on every move, sound, and victory.
-  Updated: 2026-11-15T14:23:55Z
+  Updated: 2026-11-23T18:08:13Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/IMG_4924.jpg?v=1794641435
   Price: $75.00 USD
 - [PhantomStrike Mechanical Gaming Keyboard](https://shopnovu.com/products/phantomstrike-mechanical-gaming-keyboard): Take control with responsive keys, smooth performance, and stunning RGB backlighting. Built for precision and speed, this keyboard delivers a comfortable and satisfying experience for casual and competitive gamers.
-  Updated: 2026-11-15T15:45:56Z
+  Updated: 2026-11-22T22:32:36Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/IMG_4928.jpg?v=1794641822
   Price: $90.00 USD
 - [PulseWave RGB Gaming Speakers](https://shopnovu.com/products/pulsewave-rgb-gaming-speakers): Bring your gaming setup to life with powerful sound and vibrant RGB lighting. Enjoy clear audio, deep bass, and an immersive atmosphere whether you're gaming, watching movies, or listening to music.
-  Updated: 2026-11-15T15:49:20Z
+  Updated: 2026-11-22T22:34:26Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/IMG_4936.jpg?v=1794641943
   Price: $80.00 USD
 - [VortexX Precision Gaming Mouse](https://shopnovu.com/products/vortexx-precision-gaming-mouse): Dominate every game with precision tracking, responsive buttons, and an ergonomic design. Featuring customizable RGB lighting and smooth movement, it's built to give gamers better control and comfort.
-  Updated: 2026-11-15T15:55:45Z
+  Updated: 2026-11-23T16:48:16Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/IMG_4933.jpg?v=1794642102
   Price: $60.00 USD
 - [TitanEdge Pro Gaming Desk](https://shopnovu.com/products/titanedge-pro-gaming-desk): Upgrade your gaming space with a sleek, spacious, and modern gaming desk. Designed to keep your equipment organized while providing enough room for your monitor, keyboard, mouse, and accessories.
-  Updated: 2026-11-15T15:42:31Z
+  Updated: 2026-11-23T16:50:36Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
