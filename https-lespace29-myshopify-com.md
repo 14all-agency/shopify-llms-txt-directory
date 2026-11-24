@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2026-10-26T08:43:10Z
 - Contact Email: info@lespace29.com
-- Updated At: 2026-11-17T01:11:20.614Z
+- Updated At: 2026-11-24T01:42:31.188Z
 
 ## Products
 
@@ -390,12 +390,12 @@
   Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Download-2026-03-06T085824.827.jpg?v=1794471210
   Price: 726,00 lei RON
 - [Blue - tablou original, unicat, 30 x 30 cm](https://lespace29.myshopify.com/products/blue-tablou-original-unicat-30-x-30-cm): O floare de un albastru puternic, petalele radiind prin tușe puternice un ritm al mișcării și vitalității. Pe un fond viu de verde, captează esența frumuseții naturii, invitând privitorul la aprecierea detaliilor și vibrației. Tonurile puternice de albastru contrastează cu fundalul verde-crud, generând un echilibru armonios care atrage privirea. Lucrarea este o notă de accent pentru orice spațiu în care aduce o tușă a eleganței naturii în interior. Culori acrilice pe pânză canvas fixata pe cadru lemn, fără ramă (dar poate fi înramată, dacă design-ul interior o cere), certificat de autenticitate. Livrare în ambalaj protector, in 24 ore (lucrătoare) de la confirmarea comenzii
-  Updated: 2026-11-16T10:46:08Z
+  Updated: 2026-11-17T06:33:36Z
   Vendor: LEspace29
   Product Type: tablou original unicat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Download_78.jpg?v=1794558885
-  Price: 264,00 lei RON
+  Price: 211,00 lei RON
 - [Cosmic Dream #2, tablou original 30x50 cm, unicat](https://lespace29.myshopify.com/products/cosmic-dream-2-tablou-original-30x50-cm-unicat): Un joc îndrăzneț de culoare evocând mișcarea celestă pe fondul unui vast cer nocturn. Suspendare între două lumi, stropi aurii subtili evocând aștrii îndepărtați…Tonurile întunecate contrastante cu accentele vibrante crează o tensiune dinamică ce invită la contemplare. Puternică, această lucrare poate adăuga o notă dinamică unui spațiu modern. Se livrează în ambalaj protector, in max 24 ore (lucratoare) de la confirmarea comenzii, cu certificat de autenticitate fără ramă, poate fi expus ca atare.
   Updated: 2026-11-16T10:46:08Z
   Vendor: LEspace29
@@ -425,49 +425,207 @@
   Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Download_43.jpg?v=1794571230
   Price: 180,00 lei RON
 - [Fantasy- tablou original, 30x50 cm, unicat](https://lespace29.myshopify.com/products/fantasy-tablou-original-30x50-cm-unicat): O reprezentare vie și texturată, utilizînd roșu bogat și accente aurii a unei fantezii plină de energie. Suprafața texturată adaugă adâncime și complexitate, invitând la explorarea nuanțelor subtile. Compoziție bogată, prezență dinamică, lucrarea oferă un punct focal puternic pentru un spațiu contemporan. Lucrare realizata in acrilic pe pânză, texturat, cadru lemn, 30x50 cm, fără ramă, certificat autenticitate, se expediaza in 24 ore (lucratoare) de confirmarea comenzii, in ambalaj protector.
-  Updated: 2026-11-16T10:46:09Z
+  Updated: 2026-11-17T06:33:01Z
   Vendor: LEspace29
   Product Type: tablou original unicat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Download-2026-03-20T181559.400.jpg?v=1794819091
   Price: 440,00 lei RON
 - [Minimal Gold- miniatura original, unicat, 20x20 cm](https://lespace29.myshopify.com/products/minimal-gold-miniatura-original-unicat-20x20-cm): O miniatură delicată, texturată, adaugă o dimensiune tactilă compoziției - o fuziune de culori optimiste, vii,puternice, dinamice. Mișcarea și complexitatea imaginii , în ciuda dimensiunii reduse ilustrează ideea conform căreia esențele tari pot fi găsite în recipiente mici… Realizată în acrilic, miniatură, 20x20 cm, fără ramă, certificat autenticitate, se expediază în 24 ore (lucrătoare) de la confirmarea comenzii, în ambalaj protector
-  Updated: 2026-11-16T11:57:05Z
+  Updated: 2026-11-17T06:33:30Z
   Vendor: LEspace29
   Product Type: tablou original unicat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Download-2026-03-20T184330.408.jpg?v=1794829649
-  Price: 150,00 lei RON
+  Price: 180,00 lei RON
+- [Confidence - print arta 23x23 cm](https://lespace29.myshopify.com/products/confidence-print-arta-23x23-cm): Print artă, serie scurtă, înrămat sub sticlă, serie scurtă, reproducere lucrare selectată /participantă la Premio Brera 2026, Centro Internazionale Brera, Milano, martie 2026. Dimensiunea ramei de lemn 23 x 23 cm, imagine 13x13 cm. Se poate discuta ulterior comenzii optiunea de culoare pentru înrămarea printului. (alb, ca alternativa). Poate fi expus fie ancorat pe perete, fie pe o suprafata plana. (vezi imagini) Se livrează în ambalaj protector, în termen de maxim 24 ore (lucrătoare) de la confirmarea comenzii.
+  Updated: 2026-11-18T20:52:34Z
+  Vendor: LEspace29
+  Product Type: print arta
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/IMG_1594.jpg?v=1794917364
+  Price: 72,00 lei RON
+- [Tender Energy - tablou original 30x50 cm, unicat](https://lespace29.myshopify.com/products/tender-energy-tablou-original-30x50-cm-unicat): Un evantai de culori ce cad in cascadă peste un fundal pe care se combina subtil culorile telurice cu albastrul senin. Jocul nuantelor vibrante de rosu, roz, auriu si verde creaza ritmul ce evoca spontaneitatea si mișcarea. Lucrarea aduce un haos vesel in care culorile si formele interacționează liber. Un adaos viu pentru orice spațiu. Se expediază în max.24 ore (lucrătoare) de la confirmarea comenzii, în ambalaj protector, cu certificat de autenticitate. Fără ramă, poate fi expus ca atare sau se poate adapta interiorului prin înrămare
+  Updated: 2026-11-22T08:52:45Z
+  Vendor: LEspace29
+  Product Type: tablou original unicat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Download-2026-03-28T103350.638.jpg?v=1794919733
+  Price: 352,00 lei RON
+- [Blossom - miniatura 18x24 cm, original, unicat](https://lespace29.myshopify.com/products/blossom-miniatura-18x24-cm-original-unicat): O compoziție abstractă, clustere de culoare vie pe un fond ocru, teluric, joc de culoare si texturi ce invită la reverie dar și energizează spațiul. Miniatură unicat, acrilic pe panză fixată pe cadru lemn. Neînrămat, dar se poate înrăma așa cum o cere interiorul Dv. Se livrează în max.24 ore (lucrătoare) de la confirmarea comenzii, în ambalaj protector si cu certificat de autenticitate
+  Updated: 2026-11-18T10:13:55Z
+  Vendor: LEspace29
+  Product Type: tablou original unicat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/IMG_1608.jpg?v=1794920354
+  Price: 144,00 lei RON
+- [Awakening - original, unicat, 30x30 cm](https://lespace29.myshopify.com/products/awakening-original-unicat-30x30-cm): Renașterea naturii, optimism, bucuria naturii reverberând în bucuria individuală, percepută prin oglinda fiecărui suflet; joc de culoare și texturi ce invită la reverie dar și energizează spațiul. Acrilic pe pânză, texturat, fără ramă (dar poate fi înrămat dacă interiorul o cere), certificat autenticitate, se preda curierului in 24 ore (lucratoare) de la confirmarea comenzii
+  Updated: 2026-11-18T10:13:46Z
+  Vendor: LEspace29
+  Product Type: tablou original unicat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Download-2026-03-29T111003.465.jpg?v=1794992546
+  Price: 383,00 lei RON
+- [Hot Summer#2 - original, unicat, 40x60 cm](https://lespace29.myshopify.com/products/hot-summer-2-original-unicat-40x60-cm): Compoziția modernă echilibrează tușe puternice cu nuanțe subtile, evocând sentimente paradoxale de energie și calm. Ideală pentru a aduce o notă contemporană oricărui spațiu, fie ca e un spațiu de locuit sau un birou, această piesă încurajează reflecția și conversația, fiind o notă puternică de accent pentru orice spațiu. Acrilic pe panză, 40x60 cm, fără ramă, certificat de autenticitate, livrare in ambalaj protector, se preda curierului in max.24 ore (lucrătoare) de la comanda
+  Updated: 2026-11-22T08:52:42Z
+  Vendor: LEspace29
+  Product Type: tablou original unicat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/1.Hot_summer.jpg?v=1794993772
+  Price: 503,00 lei RON
+- [Heat - original, unicat, 30x30 cm](https://lespace29.myshopify.com/products/heat-original-unicat-30x30-cm): Lucrarea abstracta ofera un joc de culori (rosu, nuante de verde si stropi de galben care crează o atmosferă densă și energică. Aplicarea texturată a culorii adaugă dimensiune tactila invitînd la analiza balansului culorilor. Mișcare și profunzime, un adaos valoros pentru orice spațiu care are nevoie de un accent - nu are/nu necesită rama exterioara, dar evident poate fi înrămat daca se dorește acest lucru, pentru o mai bună încadrare in spațiu. Se predă curierului, in ambalaj protrctor si cu certificat de autenticitate, in max.24 ore (lucratoare) de la finalizarea comenzii.
+  Updated: 2026-11-18T10:13:41Z
+  Vendor: LEspace29
+  Product Type: tablou original unicat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Download_95.jpg?v=1794994874
+  Price: 317,00 lei RON
+- [Birth - original, unicat, 40x40 cm](https://lespace29.myshopify.com/products/birth-original-unicat-40x40-cm): Lucrarea oferă o desfășurare bogată de straturi texturate, unde nuanțele subtile de purpuriu și auriu intervin discret pentru a genera o experientă vizuală captivanta și misterioasă. La fiecare privire veți găsi detalii noi, invitație la reflecție - o nota accent care va îmbogăți atmosfera spațiului de expunere prin caracterul său unic. Se expediaza fără ramă (dar accepta înrămare dacă interiorul Dv o cere), în ambalaj protector, cu certificat de autenticitate, în max.24 ore (lucrătoare) de la comandă.
+  Updated: 2026-11-18T10:13:35Z
+  Vendor: LEspace29
+  Product Type: tablou original unicat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Download-2025-11-16T123635.545.jpg?v=1794996194
+  Price: 491,00 lei RON
+- [Colorful Horizon - original, unicat, 20x20 cm](https://lespace29.myshopify.com/products/colorful-horizon-original-unicat-20x20-cm): Miniatură - 20x20cm- in culori acrilice pe panza netratată fixata pe cadru de lemn. Straturile de culoare generează mișcare, urma unui apus contopit cu orizontul. Lucrarea invită la reflecție dar aduce spațiului energie și vibrație, potrivită deci pentru un spațiu de lucru. Este unicat, se livrează cu certificat de autenticitate si fără ramă, dar poate fi expusă si înrămată. Se predă curierului în max.24 ore (lucrătoare) de la confirmarea comenzii, în ambalaj protector
+  Updated: 2026-11-23T12:06:01Z
+  Vendor: LEspace29
+  Product Type: tablou original unicat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Download-2025-11-23T100057.405.jpg?v=1795075198
+  Price: 240,00 lei RON
+- [Colorful Chaos - original, diametru 30 cm](https://lespace29.myshopify.com/products/colorful-chaos-original-diametru-30-cm): Tablou acrilic, serie limitată - fiecare piesa este unicat - pictat pe panză de bumbac, alba, fixata pe cadru lemn rotund.Fiecare piesa propune un joc dinamic de culori care generează o imagine de ansamblu vibrantă. Suprafața texturată dezvăluie tușe care invită privitorul să exploreze adâncimea și mișcarea evocate - energia și creativitatea relevate vor face din această piesa un punct focal al spațiului de expunere, o sursă de inspirație și energie pozitivă.Se livrează cu certificat de autenticitateNu este înrămat, poate fi expus ca atare sau poate fi aleasă o ramă care să se încadreze în design-ul interior al locuintei sau biroului unde va fi expus. Se predă curierului în max.24 ore (lucrătoare) de la confirmarea comenzii, în ambalaj protector și cu certificat de autenticitate
+  Updated: 2026-11-22T08:51:58Z
+  Vendor: LEspace29
+  Product Type: tablou original unicat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Download-2025-10-06T113234.080_dfd83221-203b-4fc0-8b3f-81673e861266.jpg?v=1795075927
+  - [Bleumarin](https://lespace29.myshopify.com/products/colorful-chaos-original-diametru-30-cm?variant=55871770132817)
+    Availability: Available
+    Price: 308,00 lei RON
+  - [White](https://lespace29.myshopify.com/products/colorful-chaos-original-diametru-30-cm?variant=55871770165585)
+    Availability: Available
+    Price: 308,00 lei RON
+- [Whispers of Blue #2- original, unicat, 30x40 cm](https://lespace29.myshopify.com/products/whispers-of-blue-2-original-unicat-30x40-cm): Tablou in vopsele acrilice pe panza pe cadru de lemn, lăcuit pentru fixarea si durabilitatea culorii.Este o oază de liniste care aduce valoare oricarui spațiu de expunere, îmbogațind vizual atmosfera de acasă sau de la birou. Realizat în tușe structurate, în culori tonice, potrivit nu doar spatiilor aerisite, moderne, monocrome - unde aduce culoarea accent dar și celor clasice cărora le împrumută o notă de nou, o energie care le va împrospăta.Va fi livrat împreună cu certificat de autenticitate, în ambalaj protector, predat curierului in 24 ore de la finalizarea comenzii
+  Updated: 2026-11-23T12:05:50Z
+  Vendor: LEspace29
+  Product Type: tablou original unicat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Download_73.jpg?v=1795077123
+  Price: 299,00 lei RON
+- [Flori - original, unicat, diametru 30 cm](https://lespace29.myshopify.com/products/fori-original-unicat-diametru-30-cm): Motiv floral abstract, culori puternice, energice - energia roșului, galbenului si rozului pe fondul unui albastru profund aduc nu doar bucurie dar și un accent imediat recognoscibil. Forma rotundă a cadrului pe care e montată pânza oferă o notă de unicitate. Nu este înrîmat, poate fi expus ca atare sau adaptat interiorului prin înrămare.Lucrare pictată în culori acrilice, pe panză montată pe cadrul de lemn, rotund, diametru 30 cm, poate fi livrată imediat după confirmarea comenzii/plății, ambalată pentru protectia livrării, cu certificat de autenticitate - se preda curierului in 24 ore (lucratoare).
+  Updated: 2026-11-19T21:05:57Z
+  Vendor: LEspace29
+  Product Type: tablou original unicat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Download-2026-04-17T160053.388.jpg?v=1795077710
+  Price: 385,00 lei RON
+- [Green Dream - original, unicat, 60x60 cm](https://lespace29.myshopify.com/products/green-dream-original-unicat-60x60-cm): Lucrarea abstractă este un carusel de tonuri verde si gri, stratificat prin accentele texturale care adaugă profunzime si intrigă privitorul. Jocul culorilor telurice și mișcarea dinamică propun ideea haosului naturii care reinvie. Este o prezență puternică, ce oferă energie într-un spațiu contemporan. Nu este înrămat, dar daca interiorul în care va fi plasat o cere, poate fi înrămat....se predă curierului în max.24 ore (lucrătoare) de la comanda, cu certificat de autenticitate si în ambalaj protector
+  Updated: 2026-11-20T10:14:35Z
+  Vendor: LEspace29
+  Product Type: tablou original unicat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Download-2026-04-15T143924.202.jpg?v=1795164055
+  Price: 660,00 lei RON
+- [Rochie pictata unicat - L, 86 cm](https://lespace29.myshopify.com/products/rochie-pictata-unicat-l-86-cm): Rochie cu croială increțită lateral, generând falduri discrete dar de efect, accentuate de culorile aplicate. Pictată cu culori pentru textile de inalta calitate si remanenta de lunga durata.Rochia este potrivita pentru mărimea L , lungimea (jumătatea genunchiului) fiind de 86 cm. Este o tinuta care în mod cert scoate din anonimat, poate fi purtată si cu un sacou pentru o notă mai sobra/elegantă
+  Updated: 2026-11-20T22:25:03Z
+  Vendor: LEspace29
+  Product Type: accesorii pictate
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/911053953_1624907899436050_3476268146920190918_n.webp?v=1795169980
+  Price: 120,00 lei RON
+- [Tricou pictat, unicat](https://lespace29.myshopify.com/products/tricou-picta-unicat): Tricou lejer, bumbac, pictat in culori textile de inalta calitate si durabilitate. Variante culoare fond: maro- mărimea S, rosu- mărimea L Spalati la 30 grade, calcati doar pe dos (sau peste o hartie de copt). Se preda curierului în 24 ore de la comanda.
+  Updated: 2026-11-22T20:07:39Z
+  Vendor: LEspace29
+  Product Type: textile
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/914477261_1893102012049806_4771006502058692150_n_1.webp?v=1795170579
+  - [Red](https://lespace29.myshopify.com/products/tricou-picta-unicat?variant=55887449882961)
+    Availability: Available
+    Price: 89,00 lei RON
+  - [Maro](https://lespace29.myshopify.com/products/tricou-picta-unicat?variant=55887449915729)
+    Availability: Available
+    Price: 89,00 lei RON
+- [Bluza pictata, unicat, M](https://lespace29.myshopify.com/products/bluza-pictata-unicat-m): Bluza femei, pictata in culori vesele, tonice, cu mâneca până la cot. Produsul este unicat. decolteu amplu si pictura pe produs - la spate.Potrivită pentru mărimea M, lungime medie. Compoziție: elastan, linen, poliester. Se spala la 30 grade, se calcă doar pe dos (sau peste o hârtie de copt). Se preda curierului în max.24 ore (lucrătoare) de la confirmarea comenzii
+  Updated: 2026-11-20T11:04:30Z
+  Vendor: LEspace29
+  Product Type: textile
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Bluza.jpg?v=1795171907
+  Price: 80,00 lei RON
+- [Spring Dream #2- original, unicat, 40x40 cm](https://lespace29.myshopify.com/products/spring-dream-original-unicat-40x40-cm): Lucrare abstractă, acrilic pe pânză fixată pe cadru de lemn. Joc dinamic de culoare care sugerează promisiunea primăverii. Lucrarea se livrează în ambalaj protector, fără ramă (alegerea ramei fiind opțiune personală), cu certificat de autenticitate, în max.24 ore (lucrătoare) de la confirmarea comenzii. Lucrarea a fost invitată în expozitia Arte Sempione, Roma, 2026.
+  Updated: 2026-11-20T23:09:47Z
+  Vendor: LEspace29
+  Product Type: tablou original unicat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Download-2026-05-20T141205.849.jpg?v=1795172709
+  Price: 605,00 lei RON
+- [Rochie pictată, unicat](https://lespace29.myshopify.com/products/rochie-pictata-unicat): O rochie vaporoasa, cu lungime mai mare la spate, albă, cu motive abstracte in tonuri de albastru, pictata, potrivită nu doar pentru vara ci si pentru o primăvară timida sau o toamna blândă.Un decolteu discret, marcat de un nasture cu scop decorativ, o amploare care oferă fluiditate, rochia este one-size deci poate fi ajustată mai multor conformatii.
+  Updated: 2026-11-23T12:05:33Z
+  Vendor: LEspace29
+  Product Type: textile
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Rochie_1.jpg?v=1795432759
+  Price: 189,00 lei RON
+- [Top pictat- unicat](https://lespace29.myshopify.com/products/top-pictat-unicat): Top pictat -unicat- poate fi purtat pe umeri sau lasand umerii la vedere - alb, este pictat doar faldul care asigura efectul special al acestui produs. Disponibil imediat varianta dimensională M (se predă curierului în max.24 ore lucratoare de la confirmarea comenzii). Poate fi o completare originala a unei ținute speciale
+  Updated: 2026-11-23T12:06:16Z
+  Vendor: LEspace29
+  Product Type: textile
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Top.jpg?v=1795433429
+  Price: 96,00 lei RON
+- [Zbor - original, unicat, 40x40 cm](https://lespace29.myshopify.com/products/zbor-original-unicat-40x40-cm): Culorile contrastante si miscarea generată din tehnica aplicată oferă dinamism acestei lucrări care poate îmbogati un spațiu modern, aerisit si luminos. Acrilic pe panza, tehnica mixta, pânză canvas fixată pe cadru lemn, 40 x 40 cm, fără rama exterioară, lacuire varnish pentru protectia culorilor. Se livreaza in ambalaj protector, cu certificat de autenticitate, se predă curierului în max.24 ore (lucrătoare) de la confirmarea comenzii.
+  Updated: 2026-11-23T12:06:07Z
+  Vendor: LEspace29
+  Product Type: tablou original unicat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/Download-2026-05-28T085935.821.jpg?v=1795434109
+  Price: 477,00 lei RON
+- [Celebration - original, serie scurtă, 40x40 cm](https://lespace29.myshopify.com/products/celebration-original-serie-scurta-40x40-cm): Lucrarea abstractă realizată în tonuri optimiste celebrează bucuria unei zile de vară în trei variante coloristice, fiecare in parte fiind o lucrare unicat. Culorile tonice, jocul combinațiilor si tușele texturate aduc optimism si energie. Este o prezență puternică, ce oferă un punct focal într-un spațiu contemporan. Nu este înrămat, dar dacă interiorul în care va fi plasat o cere, poate fi înrămat....Se expediaza în max.24 ore (lucrătoare) de la confirmarea comenzii, cu certificat de autenticitate.
+  Updated: 2026-11-23T12:01:35Z
+  Vendor: LEspace29
+  Product Type: tablou original unicat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1094/5694/9585/files/IMG_2459.jpg?v=1795434807
+  - [Galben](https://lespace29.myshopify.com/products/celebration-original-serie-scurta-40x40-cm?variant=55925611299153)
+    Availability: Available
+    Price: 528,00 lei RON
+  - [Albastru](https://lespace29.myshopify.com/products/celebration-original-serie-scurta-40x40-cm?variant=55925611331921)
+    Availability: Available
+    Price: 528,00 lei RON
+  - [Roșu](https://lespace29.myshopify.com/products/celebration-original-serie-scurta-40x40-cm?variant=55925611364689)
+    Availability: Available
+    Price: 528,00 lei RON
 
 ## Collections
 
 - [Home page](https://lespace29.myshopify.com/collections/frontpage): Atelier personal de pictura Maria-Tia Andron Sibiu, Str. Gen.Magheru 29
-  Updated: 2026-11-16T10:46:02Z
-  Total Products: 6
+  Updated: 2026-11-23T12:06:07Z
+  Total Products: 8
 - [Tablouri originale, unicat](https://lespace29.myshopify.com/collections/tablouri-originale-unicat)
-  Updated: 2026-11-16T11:53:22Z
-  Total Products: 37
+  Updated: 2026-11-23T12:06:07Z
+  Total Products: 51
 - [Miniaturi](https://lespace29.myshopify.com/collections/miniaturi): Lucrari de mici dimensiuni
-  Updated: 2026-11-16T11:53:22Z
-  Total Products: 13
+  Updated: 2026-11-23T12:05:57Z
+  Total Products: 16
 - [Alte produse pictate](https://lespace29.myshopify.com/collections/alte-produse-pictate): Pictura pe textile, accesorii pictate
-  Updated: 2026-11-16T10:46:02Z
-  Total Products: 6
+  Updated: 2026-11-23T12:06:12Z
+  Total Products: 11
 - [Expozitii, premii](https://lespace29.myshopify.com/collections/expozitii-premii): Lucrari expuse in expozitii internationale si/sau premiate
-  Updated: 2026-11-16T10:46:02Z
-  Total Products: 7
+  Updated: 2026-11-20T11:09:44Z
+  Total Products: 9
 - [Accesorii pictate](https://lespace29.myshopify.com/collections/accesorii-pictate)
   Updated: 2026-11-16T10:46:02Z
   Total Products: 1
 - [Rochii pictate, unicat](https://lespace29.myshopify.com/collections/rochii-pictate-unicat): Rochii pictate in atelier. Fiecare pesa este unicat
-  Updated: 2026-11-16T10:46:02Z
-  Total Products: 2
+  Updated: 2026-11-23T12:05:29Z
+  Total Products: 3
 - [Print arta](https://lespace29.myshopify.com/collections/print-arta): Serii scurte print arta, copii ale lucrarilor originale realizate in atelier
-  Updated: 2026-11-16T10:46:02Z
-  Total Products: 4
+  Updated: 2026-11-18T10:14:15Z
+  Total Products: 5
 - [Craciun](https://lespace29.myshopify.com/collections/craciun): Un cadou cu personalitate, pentru oameni cu personalitate.De Crăciun, dăruiește artă aleasă cu gândul la omul care o primește. Descoperă selecția L espace29: tablouri originale unicat, printuri de artă în serie limitată și obiecte pictate manual, pentru cei care iubesc culoarea și lucrurile cu poveste.Alege un print înrămat pentru un colț drag al casei, o lucrare originală pentru cineva special sau un obiect pictat care aduce arta în viața de zi cu zi. Fiecare pagină de produs precizează dimensiunile și ce este inclus, ca să poți alege cadoul potrivit.Din atelierul nostru din Sibiu, pentru bucuria de a dărui ceva diferit.
-  Updated: 2026-11-16T11:53:22Z
-  Total Products: 22
+  Updated: 2026-11-23T12:06:12Z
+  Total Products: 31
 
 ## Blogs
 
@@ -476,32 +634,42 @@
     Updated: 2026-10-30T05:59:14Z
     Author: Daniela Andron
     Tags: Andron, Art studio, Maria-Tia
+  - [Portofoliu](https://lespace29.myshopify.com/blogs/jurnal-de-atelier/portofoliu): <p>Portofoliu virtual</p>
+    Updated: 2026-11-18T10:50:19Z
+    Author: Daniela Andron
+    Tags: Art studio, portofoliu
   - [Expoziție colectiva](https://lespace29.myshopify.com/blogs/jurnal-de-atelier/expoziție-colectiva): <p>Expozitie colectiva</p>
     Updated: 2026-11-01T13:34:03Z
     Author: Daniela Andron
-  - [„Idei practice pentru camere mici în designul interior”](https://lespace29.myshopify.com/blogs/jurnal-de-atelier/idei-practice-pentru-camere-mici-in-designul-interior): „Idei practice pentru camere mici în designul interior”
-    Updated: 2026-11-05T08:32:56Z
-    Author: L Espace29
-  - [„Cum alegi paleta de culori potrivită pentru locuința ta”](https://lespace29.myshopify.com/blogs/jurnal-de-atelier/cum-alegi-paleta-de-culori-potrivita-pentru-locuința-ta): „Cum alegi paleta de culori potrivită pentru locuința ta”
-    Updated: 2026-11-08T06:09:05Z
-    Author: L Espace29
-  - [„Elementele esențiale ale unui living modern”](https://lespace29.myshopify.com/blogs/jurnal-de-atelier/elementele-esențiale-ale-unui-living-modern): „Elementele esențiale ale unui living modern”
-    Updated: 2026-11-13T12:37:40Z
-    Author: L Espace29
-- [Portofoliu virtual](https://lespace29.myshopify.com/blogs/news)
-  - [Portofoliu](https://lespace29.myshopify.com/blogs/news/portofoliu): <p>Portofoliu virtual</p>
-    Updated: 2026-11-02T22:34:22Z
-    Author: Daniela Andron
-    Tags: Art studio, portofoliu
 - [Idei utile](https://lespace29.myshopify.com/blogs/idei-utile)
   - [„10 trenduri de design interior care îți transformă locuința”](https://lespace29.myshopify.com/blogs/idei-utile/10-trenduri-de-design-interior-care-iți-transforma-locuința): „10 trenduri de design interior care îți transformă locuința”
-    Updated: 2026-11-02T22:32:59Z
+    Updated: 2026-11-18T10:52:30Z
     Author: L Espace29
     Tags: Andron, Art studio, decoratiuni interioare, Maria-Tia, miniature
+  - [„Idei practice pentru camere mici în designul interior”](https://lespace29.myshopify.com/blogs/idei-utile/idei-practice-pentru-camere-mici-in-designul-interior): „Idei practice pentru camere mici în designul interior”
+    Updated: 2026-11-18T10:49:37Z
+    Author: L Espace29
+    Tags: decoratiuni interioare
+  - [„Cum alegi paleta de culori potrivită pentru locuința ta”](https://lespace29.myshopify.com/blogs/idei-utile/cum-alegi-paleta-de-culori-potrivita-pentru-locuința-ta): „Cum alegi paleta de culori potrivită pentru locuința ta”
+    Updated: 2026-11-18T10:38:41Z
+    Author: L Espace29
+  - [„Întrebări frecvente despre stilul minimal în designul interior”](https://lespace29.myshopify.com/blogs/idei-utile/intrebari-frecvente-despre-stilul-minimal-in-designul-interior): „Întrebări frecvente despre stilul minimal în designul interior”
+    Updated: 2026-11-21T05:45:10Z
+    Author: L Espace29
   - [„Checklist pentru cei care doresc o redecorare completă”](https://lespace29.myshopify.com/blogs/idei-utile/checklist-pentru-cei-care-doresc-o-redecorare-completa): „Checklist pentru cei care doresc o redecorare completă”
-    Updated: 2026-11-11T10:58:10Z
+    Updated: 2026-11-18T10:34:15Z
     Author: L Espace29
     Tags: Art studio, decoratiuni interioare
+  - [„Elementele esențiale ale unui living modern”](https://lespace29.myshopify.com/blogs/idei-utile/elementele-esențiale-ale-unui-living-modern): „Elementele esențiale ale unui living modern”
+    Updated: 2026-11-18T10:32:19Z
+    Author: L Espace29
+    Tags: decoratiuni interioare
+  - [„Istoria designului interior de la renaștere la modernitate”](https://lespace29.myshopify.com/blogs/idei-utile/istoria-designului-interior-de-la-renaștere-la-modernitate): „Istoria designului interior de la renaștere la modernitate”
+    Updated: 2026-11-18T10:30:14Z
+    Author: L Espace29
+  - [„10 greșeli frecvente în designul interior și cum să le eviți”](https://lespace29.myshopify.com/blogs/idei-utile/10-greșeli-frecvente-in-designul-interior-și-cum-sa-le-eviți): „10 greșeli frecvente în designul interior și cum să le eviți”
+    Updated: 2026-11-21T05:51:37Z
+    Author: LEspace29
 
 ## Store Pages
 
@@ -521,7 +689,7 @@
 - [Refund Policy](https://lespace29.myshopify.com/policies/refund-policy)
   Updated: 2026-10-26T10:21:52Z
 - [Terms of Service](https://lespace29.myshopify.com/policies/terms-of-service)
-  Updated: 2026-10-26T10:28:46Z
+  Updated: 2026-11-22T11:53:02Z
 - [Contact Information](https://lespace29.myshopify.com/policies/contact-information)
   Updated: 2026-10-28T17:11:07Z
 
