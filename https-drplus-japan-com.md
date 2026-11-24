@@ -6,7 +6,7 @@
 - Timezone: Asia/Tokyo
 - Created At: 2022-09-30T02:43:56Z
 - Contact Email: help@drplus-usa.com
-- Updated At: 2026-11-16T00:36:19.511Z
+- Updated At: 2026-11-24T00:37:00.398Z
 
 ## Products
 
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/products/C_2.png?v=1678133230
   Price: ￥4,890.00 JPY
 - [高吸収 コエンザイム CoQ10 200mg 120カプセル [4ヶ月分] ドクタープラス+](https://drplus-japan.com/products/coenzyme-q10-200mg): 【予約販売商品】発送予定：2027年初旬現在在庫切れのため、予約注文を承っております。本商品は入荷後の発送となります。発送予定をご確認のうえ、ご注文ください。 コエンザイムQ10は体内で合成される脂溶性の化合物で、体内でのエネルギーの消費に欠かせない成分です。近年ではエネルギーの消費サポートだけではなく、健康サポートの働きが注目され、幅広い方々から高い支持を得ています。肉や魚に含まれているものの十分な量を補うのは難しく、また加齢に伴い体内の量も減ってしまうので、サプリでの補給がお勧めです！1カプセルで200mg の高配合！大容量の４ヶ月分！ 【肌のハリにも効果的！】 コエンザイムCoQ10は、体内にあるサビの原因「活性酸素」を取り除く働きをサポートし、身体の老化、生活習慣病を予防する効果があるだけでなく、シワやたるみなどの老化現象を改善し、若々しい肌を保つ効果があります。
-  Updated: 2026-11-12T12:14:21Z
+  Updated: 2026-11-22T03:56:32Z
   Vendor: Dr.Plus Japan
   Product Type: 
   Availability: Available
@@ -108,7 +108,7 @@
   Updated: 2026-02-20T19:09:47Z
   Total Products: 2
 - [全ての商品](https://drplus-japan.com/collections/all)
-  Updated: 2026-10-21T11:30:00Z
+  Updated: 2026-11-22T12:25:14Z
   Total Products: 16
 - [商品の形状](https://drplus-japan.com/collections/material)
   Updated: 2025-04-21T18:12:20Z
@@ -117,7 +117,7 @@
   Updated: 2026-06-06T06:13:10Z
   Total Products: 4
 - [カプセル](https://drplus-japan.com/collections/capsule)
-  Updated: 2026-10-21T11:30:00Z
+  Updated: 2026-11-22T12:25:14Z
   Total Products: 5
 - [セラム](https://drplus-japan.com/collections/serum)
   Updated: 2025-04-21T18:12:20Z
@@ -156,7 +156,7 @@
   Updated: 2026-06-06T06:13:51Z
   Total Products: 3
 - [肌のハリ](https://drplus-japan.com/collections/firmness)
-  Updated: 2026-10-21T11:30:00Z
+  Updated: 2026-11-22T12:25:14Z
   Total Products: 3
 - [髪の毛のハリ](https://drplus-japan.com/collections/firmness-hair)
   Updated: 2026-06-06T06:13:52Z
@@ -183,7 +183,7 @@
   Updated: 2026-05-14T17:49:52Z
   Total Products: 1
 - [コエンザイム](https://drplus-japan.com/collections/コエンザイム)
-  Updated: 2026-10-21T11:30:00Z
+  Updated: 2026-11-22T12:25:14Z
   Total Products: 2
 - [パウダー・粉末](https://drplus-japan.com/collections/パウダー-粉末)
   Updated: 2026-06-19T18:27:23Z
