@@ -6,14 +6,14 @@
 - Timezone: Asia/Tokyo
 - Created At: 2023-02-08T06:19:55Z
 - Contact Email: newtrip1021@gmail.com
-- Updated At: 2026-11-18T01:01:59.078Z
+- Updated At: 2026-11-25T01:06:01.590Z
 
 NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する日本発のトラベルグッズ専門ブランドです。スーツケースを中心に、旅行や出張を快適にするバッグ・トラベルアクセサリーなどを企画・販売しています。軽量性、使いやすさ、機能性、デザイン性のバランスを大切にし、日常の移動から国内・海外旅行まで、さまざまな旅行スタイルに合った製品を提案しています。本ファイルは、NewTripのブランド情報、商品カテゴリー、公式コンテンツをAIアシスタントが正確に理解するための案内です。
 
 ## Products
 
 - [[New Trip] 超軽量スーツケース 拡張機能付き Sサイズ機内持ち込み 0201](https://newtrip.online/products/0201-suitcase): 【New Trip 0201】拡張機能付きスーツケースの決定版。20%の容量アップで、旅先で荷物が増えても安心です。超軽量ながら耐久性抜群のABS＋PC素材を採用。360度スムーズに回転するキャスターと軽量設計で、移動中のストレスをなくし、快適な旅をサポートする機内持ち込みスーツケース。
-  Updated: 2026-11-18T00:46:55Z
+  Updated: 2026-11-25T00:53:06Z
   Vendor: Top.1 最も人気の商品！
   Product Type: 拉链行李箱
   Availability: Available
@@ -111,7 +111,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_blue.webp?v=1788335117
     Price: ￥8,580.00 JPY
   - [Mサイズ /無料受託手荷物/4～7泊 / 赤色 / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256713711891)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_bordeaus_red.webp?v=1788334816
     Price: ￥8,580.00 JPY
   - [Lサイズ /無料受託手荷物/7泊～長期旅行 / アイボリー / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50304647823635)
@@ -123,7 +123,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_Black.webp?v=1788334567
     Price: ￥9,680.00 JPY
   - [Lサイズ /無料受託手荷物/7泊～長期旅行 / ピンク / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50728590475539)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_pink.webp?v=1788334710
     Price: ￥9,680.00 JPY
   - [Lサイズ /無料受託手荷物/7泊～長期旅行 / ミッドナイトグリーン / 当日～2営業日発送](https://newtrip.online/products/0201-suitcase?variant=50256714039571)
@@ -163,7 +163,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0201_suitcase_bordeaus_red.webp?v=1788334816
     Price: ￥9,680.00 JPY
 - [旅行用ベルト - New Trip アジャスタブルキャリーケースベルト、オレンジ](https://newtrip.online/products/luggage-strap): 旅行用ベルトの調節範囲は約95〜145cm(Mサイズ)、約140〜205cm(Lサイズ)まで。美観性とスムーズな操作が可能な金属留め具と高弾性ベルトを採用。スーツケースの開き防止や目印としても優れている。ご購入後の保証もあり。
-  Updated: 2026-11-16T06:37:48Z
+  Updated: 2026-11-24T10:16:01Z
   Vendor: スーツケースの開き防止
   Product Type: 行李箱配件
   Availability: Available
@@ -209,7 +209,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/a5cd03a9f0b99e4e4a91838e25a497ab-compressed.webp?v=1777452361
     Price: ￥1,280.00 JPY
 - [[New Trip] マジックテープ式荷物固定用スーツケースベルト](https://newtrip.online/products/magic-luggage-strap): ベルトの長さは約95〜160cmまで調節できます、ベルト幅:約5cm。容量30L～75Lまでのスーツケースに適用されます。ジックテープ式のタイプは、簡単に着脱ができるのが特長です。 金属製のバックルを採用しており、耐久性に優れ、しっかりと引っ張るとより強く固定できます。
-  Updated: 2026-11-16T06:37:36Z
+  Updated: 2026-11-24T10:16:01Z
   Vendor: スーツケースの開き防止
   Product Type: 行李箱配件
   Availability: Available
@@ -231,14 +231,14 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_luggage-magic-strap_orange_color-compressed.webp?v=1777452447
     Price: ￥1,360.00 JPY
 - [[New Trip] 荷物デジタルはかり重量器 旅行スーツケース専用 1m巻尺内蔵 吊り下げ式 最大50kgまで](https://newtrip.online/products/luggage-scale): 飛行機に乗る際、機内持込手荷物および無料受託手荷物にはサイズや重量などの制限があります。 許容量を超える場合は超過料金がかかってしまいます。こちらの荷物はかりは1mのメジャーが内蔵されており、事前にスーツケースの重さと大きさが簡単に測れます。また、旅行先で荷物が増えても、重量オーバーの不安もなく思いっきり旅行を楽しめます。
-  Updated: 2026-11-16T06:38:09Z
+  Updated: 2026-11-24T10:16:00Z
   Vendor: 荷物の重量を簡単に計る必需品
   Product Type: 行李箱配件
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_luggage_scale-compressed.webp?v=1777452441
   Price: ￥1,820.00 JPY
 - [[New Trip] 機内持ち込み スーツケース フロントオープン式 0702](https://newtrip.online/products/0702-suitcase): ビジネス出張も子連れ旅行も快適に！軽量＆耐久のフロントオープン型スーツケースNew Trip 0702！荷物が取り出しやすい前開き設計、USB充電でいつでも充電。TSAロックとYKKファスナーで海外旅行も安心。静音キャスターと多段式キャリーバーで空港や新幹線もスムーズ。内部収納と物掛けフックで、快適な旅をサポート！
-  Updated: 2026-11-17T05:03:46Z
+  Updated: 2026-11-24T10:16:01Z
   Vendor: フロントオープン設計
   Product Type: 拉链行李箱
   Availability: Available
@@ -272,7 +272,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/804bae0fd100cd46d6ef7c61daa58e24-compressed.webp?v=1777452579
     Price: ￥9,680.00 JPY
 - [New Trip 0701 Plus｜軽量スーツケース・ストッパー＆物掛けフック付き](https://newtrip.online/products/0701plus-suitcase): New Trip 0701 Plusは、軽量設計とストッパー付きキャスター、便利な物掛けフックを備えたスーツケース。Sサイズは40Lで、1〜3泊の旅行や出張におすすめです。YKKファスナーやTSAロック、整理しやすい内装も魅力。移動のしやすさと収納力を重視する方に。
-  Updated: 2026-11-17T12:24:49Z
+  Updated: 2026-11-24T15:00:56Z
   Vendor: 誰もが大好評
   Product Type: 拉链行李箱
   Availability: Available
@@ -398,7 +398,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_0701Plus_midnightgreen_color.webp?v=1792566574
     Price: ￥9,680.00 JPY
 - [GB0301 スーツケース 静音ダブルキャスター ストッパー USB充電ポート 物掛けフック TSAロック 高品質ボディ YKKファスナー](https://newtrip.online/products/0301-suitcase): 便利なUSB充電ポート付きのNew Trip 0301 スーツケースは、場所を選ばずいつでもどこでも移動しながら効率よく充電ができます。ABS樹脂は軽くて弾力性と割れに強く、PC（ポリカーボネート）樹脂は耐衝撃性・断熱材に優れる、両素材を混合した耐久性が高いハードタイプの高品質ボディを実現しています。
-  Updated: 2026-11-16T06:33:22Z
+  Updated: 2026-11-24T10:16:01Z
   Vendor: 超軽量USBポート付き
   Product Type: 拉链行李箱
   Availability: Available
@@ -464,7 +464,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/New_Trip_1031_gray_color-compressed.webp?v=1777452762
     Price: ￥9,980.00 JPY
 - [1101 耐衝撃アルミフレームスーツケース 静音キャスター・ブレーキ機能・物掛けフック・TSAロック搭載 ポリカーボネート高耐久性](https://newtrip.online/products/1101-suitcase): アルミフレームスーツケースは、360度回転可能なダブルキャスターとショック吸収サスペンションを搭載しており、段差のある場所を走行する際の衝撃を吸収し。超軽量キャリバーは伸縮可能で、ご自分の身長に合わせて最適な高さに調節できます。内装は両面ともファスナー開閉式の中仕切りでしっかりと区切られており、荷物を一杯に詰めても荷崩れしにくく。
-  Updated: 2026-11-16T06:35:34Z
+  Updated: 2026-11-24T10:16:01Z
   Vendor: ビジネスおすすめ
   Product Type: 铝框行李箱
   Availability: Available
@@ -517,8 +517,8 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/3472a449b1ac517a298c504b15efe404-compressed.webp?v=1777452885
     Price: ￥21,580.00 JPY
-- [【New Trip】キャスターカバー NT3101【10個セット】｜3サイズ展開・静音＆摩耗防止・シンプルデザイン](https://newtrip.online/products/luggage-wheel-covers): New TripのNT3101は、出張や日常使用が多いビジネスユーザーに最適なキャスターカバー。市販のカバーは1サイズという問題がありますが、5cm・5.5cm・6cmの3サイズ展開で、ダブルホイールにぴったりフィット。脱落しにくい設計で摩耗を軽減し、キャスターの寿命を大幅に延長。静音性も高く、早朝や深夜の移動も快適。
-  Updated: 2026-11-17T15:38:56Z
+- [【New Trip】スーツケース用キャスターカバー NT3101｜シンプル柄・3サイズ対応｜New Trip公式](https://newtrip.online/products/luggage-wheel-covers): スーツケース用キャスターカバーNT3101。スーツケースのデザインになじみやすいシンプルな模様のシリコン製カバーです。5cm・5.5cm・6cmの3サイズ展開で、ダブルキャスターに対応。キャスターのキズや汚れを防ぎます。
+  Updated: 2026-11-24T17:37:46Z
   Vendor: キャスターを長持ちさせる
   Product Type: 行李箱配件
   Availability: Available
@@ -532,7 +532,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/NT3101_caster_black_color-compressed.webp?v=1777452957
     Price: ￥899.00 JPY
   - [ブラック / 直径6cm](https://newtrip.online/products/luggage-wheel-covers?variant=50256852975891)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/NT3101_caster_black_color-compressed.webp?v=1777452957
     Price: ￥899.00 JPY
   - [ガンブラック / 直径5cm](https://newtrip.online/products/luggage-wheel-covers?variant=49597678682387)
@@ -564,7 +564,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/NT3101_caster_pink_color.jpg?v=1750230733
     Price: ￥899.00 JPY
   - [ピンク / 直径5.5cm](https://newtrip.online/products/luggage-wheel-covers?variant=49597678780691)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/NT3101_caster_pink_color.jpg?v=1750230733
     Price: ￥899.00 JPY
   - [ピンク / 直径6cm](https://newtrip.online/products/luggage-wheel-covers?variant=50256852877587)
@@ -620,7 +620,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/NT3101_caster_green_color_Light-storing_type-compressed.webp?v=1777453006
     Price: ￥899.00 JPY
   - [蓄光タイプ（ピンク） / 直径5cm](https://newtrip.online/products/luggage-wheel-covers?variant=50717801414931)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/NT3101_caster_pink_color_Light-storing_type-compressed.webp?v=1777453000
     Price: ￥899.00 JPY
   - [蓄光タイプ（ピンク） / 直径5.5cm](https://newtrip.online/products/luggage-wheel-covers?variant=50717801447699)
@@ -628,7 +628,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/NT3101_caster_pink_color_Light-storing_type-compressed.webp?v=1777453000
     Price: ￥899.00 JPY
   - [蓄光タイプ（ピンク） / 直径6cm](https://newtrip.online/products/luggage-wheel-covers?variant=50717801480467)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/NT3101_caster_pink_color_Light-storing_type-compressed.webp?v=1777453000
     Price: ￥899.00 JPY
   - [蓄光タイプ（オレンジ） / 直径5cm](https://newtrip.online/products/luggage-wheel-covers?variant=50717801513235)
@@ -636,7 +636,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/NT3101_caster_orange_color_Light-storing_type-compressed.webp?v=1777452994
     Price: ￥899.00 JPY
   - [蓄光タイプ（オレンジ） / 直径5.5cm](https://newtrip.online/products/luggage-wheel-covers?variant=50717801546003)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/NT3101_caster_orange_color_Light-storing_type-compressed.webp?v=1777452994
     Price: ￥899.00 JPY
   - [蓄光タイプ（オレンジ） / 直径6cm](https://newtrip.online/products/luggage-wheel-covers?variant=50717801578771)
@@ -644,7 +644,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/NT3101_caster_orange_color_Light-storing_type-compressed.webp?v=1777452994
     Price: ￥899.00 JPY
 - [New Trip 0201Plus｜機内持ち込みスーツケース USB＆拡張付き 軽量](https://newtrip.online/products/0201plus-suitcase): New Trip 0201Plus 軽量スーツケースは、100％PCボディとYKKファスナーで耐衝撃性抜群。容量20％拡張、USB/Type-C充電ポート、カップホルダー、隠しフックを搭載し、ビジネスやレジャーに最適。TSAロックとキャスターロックで安全・快適な旅をサポート。整理しやすい内部設計で荷物をスマートに収納。
-  Updated: 2026-11-17T15:38:52Z
+  Updated: 2026-11-24T10:16:02Z
   Vendor: USB機能アップグレード
   Product Type: 拉链行李箱
   Availability: Available
@@ -710,7 +710,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Image: https://cdn.shopify.com/s/files/1/0718/4171/0355/files/2adaa317ba69f670f4d1eb501b6c4457-compressed.webp?v=1777453122
     Price: ￥17,980.00 JPY
 - [New Trip 2201｜30L拡張ビジネスリュック 3WAY 防水 PC収納・USB充電](https://newtrip.online/products/business-travel-backpack): New Trip 2201は、通勤から1〜2泊の出張・旅行まで活躍する30L拡張対応の3WAYビジネスリュック。15.6インチPC収納、USB・Type-Cポート、スーツケースのように開く収納構造を備え、荷物をすっきり整理できます。
-  Updated: 2026-11-16T06:38:12Z
+  Updated: 2026-11-24T10:16:01Z
   Vendor: ビジネスおすすめ
   Product Type: 背包
   Availability: Available
@@ -728,142 +728,142 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
 ## Collections
 
 - [人気商品](https://newtrip.online/collections/best-suitcase): New Tripのスーツケースは、機能性とデザイン性を兼ね備えた旅行の必需品です。軽量で耐久性のあるボディ、静音キャスター、安心のTSAロックを搭載し、快適かつ安全な旅をサポートします。 さらに、荷物の整理がしやすい仕切り構造や、便利な拡張機能を備えたモデルも多数ご用意。ビジネスからレジャーまで、あらゆるシーンにフィットするラインナップで、多くのお客様から高い評価をいただいています。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 21
 - [旅行小物](https://newtrip.online/collections/travel-accessory): 荷物固定ベルトコレクションで旅行の安心を手に入れよう。新しい旅行アイテムがたくさん揃っています。オレンジ、ローズレッド、ネイビー、グレーなどの色もあります。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 20
 - [新着商品](https://newtrip.online/collections/new-arrival): New Tripの新作コレクションは、旅のニーズに応える実用性と洗練されたデザインを追求しました。軽量で耐久性に優れたスーツケース、多機能収納を備えたバックパック、防水性や快適性にこだわった小物まで、細部にまで配慮したラインナップです。 あなたの旅を、さらにスムーズで特別なものにするためのアイテムをご提案します。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 13
 - [スーツケース一覧](https://newtrip.online/collections/suitcase): New Trip公式のスーツケース一覧。S・M・Lのサイズや重量、フロントオープン、ストッパー、拡張機能などを比較して、旅行日数や使い方に合う一台を見つけましょう。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 43
 - [すべての商品](https://newtrip.online/collections/all-product): New Trip公式オンラインストア。スーツケース・リュックサック、旅行向けの小物など、旅を快適にする全ラインアップを掲載。機能性とデザイン性を両立したアイテムで、あなたの旅をもっと自由に。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 73
 - [Monomiスーツケース](https://newtrip.online/collections/monomi): MonomiはNew Tripのサブブランドで、スーツケースやトラベルバックパックに特化しています。日本ブランドとして、Monomiは製品デザインに日本独自の感性とトレンド美を取り入れ、実用性と融合させることで、若いお客様から広く愛されています。Monomiのスーツケースを使って、快適でおしゃれな旅を楽しんでください。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 9
-- [リュックサック](https://newtrip.online/collections/backpack): 2026年最新｜仕事も旅もこれ一つ。PC収納や防水機能を備えた「New Trip」の多機能リュックを特集。ビジネスシーンに馴染むスリム設計から、1〜2泊の出張に最適な大容量モデルまで。肩への負担を軽減する人間工学デザインで、毎日の移動をより快適に。
-  Updated: 2026-11-16T06:38:14Z
+- [リュックサック](https://newtrip.online/collections/backpack): New Trip公式のリュックサック一覧。通勤・通学・出張・旅行に便利なモデルを紹介。PC収納、USBポート、拡張機能、軽量設計など、用途や荷物の量に合わせて選べます。
+  Updated: 2026-11-23T12:05:54Z
   Total Products: 4
 - [機内持ち込みスーツケース](https://newtrip.online/collections/carry-on-suitcase): 2026年最新｜機内持ち込みスーツケースの選び方。JAL・ANAからLCC（Peach/Jetstar）まで、厳しい7kg制限をクリアする超軽量モデルを特集。New Tripのフロントオープン型やUSBポート付きなら、空港での待ち時間もスマートに。失敗しないサイズ選びを徹底解説。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 27
 - [拡張機能付きスーツケース](https://newtrip.online/collections/expandable-suitcases): New Trip公式の拡張機能付きスーツケース一覧。ファスナー操作でマチ幅を広げ、旅行中に増えた荷物やお土産も収納しやすいモデルをラインナップ。容量・重量・機能を比較して、自分に合った一台をお選びいただけます。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 15
 - [フロントオープンスーツケース](https://newtrip.online/collections/front-open-suitcases): New Trip公式のフロントオープンスーツケース一覧。前面のポケットからノートPCや小物を取り出しやすく、出張や旅行中の荷物整理にも便利なモデルを紹介。収納構造やサイズ、搭載機能を比較して、自分に合った一台をお選びいただけます。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 11
-- [超軽量スーツケース](https://newtrip.online/collections/ultra-light-suitcase): 女性やお子様でも扱いやすい超軽量スーツケース。機内持ち込みサイズから長期用まで、軽さにこだわったNew Tripの人気ラインナップをご紹介。重い荷物のストレスから解放される、最新の超軽量設計を体感してください。3年保証付きで安心。
-  Updated: 2026-11-17T12:06:38Z
-  Total Products: 21
+- [超軽量スーツケース](https://newtrip.online/collections/ultra-light-suitcase): New Trip公式の超軽量スーツケース一覧。旅行や出張で持ち運びやすい軽量モデルを紹介。S・M・Lサイズの容量や本体重量、キャスターなどの機能を比較して、自分に合った一台をお選びいただけます。
+  Updated: 2026-11-24T12:05:28Z
+  Total Products: 19
 - [静音キャスター付きスーツケース](https://newtrip.online/collections/silent-wheels-suitcases): New Trip公式の静音キャスター付きスーツケース一覧。移動中の走行音を抑える設計のモデルを紹介。キャスターの静音性や走行性、サイズ・機能を比較して、旅行や出張に合った一台をお選びいただけます。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 29
 - [USB充電ポート付きスーツケース](https://newtrip.online/collections/usb-port-suitcases): New Trip公式のUSBポート付きスーツケース一覧。モバイルバッテリーを接続して、移動中もスマートフォンなどを充電できる便利なモデルを紹介。旅行や出張に役立つ機能や使いやすさを比較して、自分に合った一台をお選びいただけます。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 17
 - [TSAロック搭載スーツケース](https://newtrip.online/collections/tsa-lock-suitcases): New Trip公式のTSAロック付きスーツケース一覧。海外旅行や飛行機での預け入れに便利なTSAロックの仕組みや選び方を紹介。サイズ・容量・キャスターなどの機能も比較して、自分に合った一台をお選びいただけます。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 29
 - [1-3泊に適するスーツケース](https://newtrip.online/collections/suitcases-for-1-3-days): 1〜3泊の短期旅行や出張に最適！New Tripの機内持込対応スーツケース特集です。コンパクトながら、着替えやPCを効率よく収納できる設計。軽量で小回りが利くため、混雑した駅や空港でもスムーズに移動できます。コインロッカーにも入りやすく、フットワークの軽い旅をサポート。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 34
 - [4-7泊に適するスーツケース](https://newtrip.online/collections/suitcases-for-4-7-days): 4〜7泊の旅行や1週間の海外出張に最適！New TripのMサイズスーツケース特集です。着替えやお土産もたっぷり入る余裕の収納力と、軽量でスムーズな走行性能を両立。荷物が増えても安心の容量拡張機能や、防犯性に優れたTSAロックも完備しています。修学旅行からレジャーまで、幅広いシーンで活躍する理想のサイズ。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 21
 - [7泊以上に適するスーツケース](https://newtrip.online/collections/suitcases-for-over-7-days): 7泊以上の長期旅行や海外留学、家族旅行に！New TripのLサイズ・大容量スーツケース特集です。着替えや厚手の荷物、お土産も余裕で収まる圧倒的な収納力を実現。大型ながら軽量な設計と高耐久キャスターで、長距離の移動もスムーズにサポートします。長期滞在を支える安心の堅牢性と、使いやすさを備えた一台を。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 21
 - [海外旅行におすすめのスーツケース](https://newtrip.online/collections/overseas-travel-suitcase): New Trip公式の海外旅行向けスーツケース一覧。旅行日数や荷物の量に合わせたサイズ選びから、軽量性・TSAロック・拡張機能など、海外旅行に便利な機能まで紹介。自分の旅行スタイルに合った一台をお選びいただけます。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 30
-- [国内旅行におすすめのスーツケース](https://newtrip.online/collections/domestic-travel): 新幹線や電車移動に便利な国内旅行向けスーツケース。機内持ち込みサイズや軽量スーツケースが人気で、週末旅行や帰省にもぴったりです。キャスターストッパーや前開きデザインなど、日本の旅行スタイルに合わせた機能も充実。短期間の旅を快適にするおすすめキャリーケースをご紹介します。
-  Updated: 2026-11-17T12:06:38Z
-  Total Products: 36
-- [修学旅行におすすめのスーツケース](https://newtrip.online/collections/school-trip-suitcase): 修学旅行の準備はこれ！スマホ充電ができるUSBポート付きや、荷物の出し入れがスムーズなフロントオープンなど、2026年最新トレンドモデルを特集。New Tripなら、お土産が増えても安心の拡張機能付き。おしゃれで機能的なスーツケースが充実！
-  Updated: 2026-11-17T12:06:38Z
+- [国内旅行におすすめのスーツケース](https://newtrip.online/collections/domestic-travel): 国内旅行におすすめのスーツケースを紹介。1～3泊・3～6泊・7泊以上の旅行日数に合わせたサイズ選びや、新幹線・飛行機・車での移動に便利な機能、軽量性や収納力など、選び方のポイントを解説します。
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 29
-- [ビジネスにおすすめのスーツケース](https://newtrip.online/collections/business-suitcases): New Tripが提案する出張に最適なスーツケース。PCや書類を即座に取り出せる「0501」フロントオープンモデルや、静音性に優れ移動中もストレスフリーな「0702 Plus」シリーズなど。機内持ち込みサイズから長期出張用まで、プロフェッショナルな旅を支える高機能モデルを厳選。
-  Updated: 2026-11-17T12:06:38Z
-  Total Products: 16
-- [アウトドアにおすすめのスーツケース](https://newtrip.online/collections/outdoor-friendly-suitcases): キャンプやフェス、アクティブな旅に。New Tripのアウトドア向けスーツケース特集です。未舗装の道でもスムーズに動ける大型・高耐久キャスターや、衝撃に強いタフなボディを採用。大容量でかさばるギアもしっかり収納でき、汚れを拭き取りやすい素材で屋外使用も安心です。自然の中でも頼りになる、タフな相棒を見つけましょう。
-  Updated: 2026-11-17T12:06:38Z
+- [修学旅行におすすめのスーツケース](https://newtrip.online/collections/school-trip-suitcase): 修学旅行の準備はこれ！スマホ充電ができるUSBポート付きや、荷物の出し入れがスムーズなフロントオープンなど、2026年最新トレンドモデルを特集。New Tripなら、お土産が増えても安心の拡張機能付き。おしゃれで機能的なスーツケースが充実！
+  Updated: 2026-11-24T12:05:28Z
+  Total Products: 29
+- [ビジネスにおすすめのスーツケース](https://newtrip.online/collections/business-suitcases): New Trip公式のビジネス用スーツケース一覧。出張日数に合わせたサイズ選びや、ノートPC・書類を取り出しやすいフロントオープン、静音キャスター、ストッパーなど、出張に便利な機能を紹介します。
+  Updated: 2026-11-24T12:05:28Z
+  Total Products: 14
+- [アウトドアにおすすめのスーツケース](https://newtrip.online/collections/outdoor-friendly-suitcases): キャンプやフェス、アウトドア旅行におすすめのスーツケースを紹介。旅行日数に合わせたサイズ選びや、拡張機能・ストッパー・軽量設計など、屋外へのお出かけに便利な機能を解説します。
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 23
 - [ストッパー付きスーツケース](https://newtrip.online/collections/suitcases-with-caster-stopper): New Trip公式のストッパー付きスーツケース一覧。電車やバスでの移動中、キャスターの転がりを抑えるストッパー機能を搭載したモデルを紹介。軽量性やキャスターの使いやすさ、便利な機能を比較して、自分に合った一台をお選びいただけます。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 23
 - [Mサイズのスーツケース](https://newtrip.online/collections/mサイズのスーツケース): New Trip公式のMサイズスーツケース一覧。収納力と持ち運びやすさのバランスに優れたモデルをラインナップ。3〜6泊程度の旅行や出張に適した一台を、容量・重量・機能から比較できます。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 22
 - [Lサイズのスーツケース](https://newtrip.online/collections/lサイズのスーツケース): New Trip公式のLサイズスーツケース一覧。7泊以上の旅行や長期滞在、荷物が多い方に適した大容量モデルをラインナップ。容量・重量・便利な機能を比較して、自分に合った一台をお選びいただけます。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 20
 - [[CloudSearch app] All products](https://newtrip.online/collections/cloud-search-all-products): This collection is used by the Cloud Search & Product Filter app (https://apps.shopify.com/cloudsearch) to query information about products in your store.Please do not edit or delete this collection (unless you've removed the app in which case you can safely delete it).
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 75
 - [Sサイズのスーツケース](https://newtrip.online/collections/sサイズのスーツケース): New Trip公式のSサイズスーツケース一覧。コンパクトで持ち運びやすいモデルを中心に、容量・重量・機能を比較できます。短期旅行や出張など、荷物をすっきりまとめたい方におすすめです。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 27
 - [物掛けフック付きスーツケース](https://newtrip.online/collections/suitcases-with-hanging-hook): New Trip公式の物掛けフック付きスーツケース一覧。ショッピングバッグやサブバッグなどを一時的に掛けられる便利なモデルを紹介。フックの使いやすさやサイズ、キャスターなどの機能を比較して、自分の旅行スタイルに合った一台をお選びいただけます。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 24
 - [スーツケースキャスターカバー](https://newtrip.online/collections/suitcase-wheel-cover): スーツケースの走行音が驚くほど静かに！シリコン製「キャスターカバー」のメリットと選び方を解説。傷や汚れから車輪を守るだけでなく、室内を汚さず保管できる衛生面も魅力。New Tripの静音モデルをさらに快適にする、旅の必須アイテムです。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 3
 - [総合ランキング](https://newtrip.online/collections/best-sellers): New Tripで今最も選ばれているスーツケースは？フロントオープンで利便性の高い「0501」や、超軽量で頑丈な「0201」など、ユーザー満足度の高い人気モデルをランキング形式でご紹介。サイズや機能で迷ったら、まずはこのベストセラーリストをチェック！あなたの旅を彩る一台が見つかります。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 26
 - [実店舗ランキング](https://newtrip.online/collections/実店舗ランキング): New Tripの実店舗で売れているスーツケース・バックパックの人気ランキングをチェック。実際のお客様に選ばれている売れ筋アイテムを集めました。軽量で頑丈なスーツケースから、通勤や出張に便利なビジネスリュックまで、リアルな支持を集めるおすすめ商品をご紹介します。旅行や日常使いにぴったりの一品を見つけてください。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 21
 - [桜の季節におすすめ](https://newtrip.online/collections/sakura-color-suitcase): 桜の季節がやってきました！ 春の旅行を計画中のあなたにぴったりのアイテムといえば、やっぱりピンク色のスーツケースですよね。 淡いピンクが桜とマッチして、旅の気分を一気に盛り上げてくれるんです。 今回は、桜の季節におすすめのスーツケースと、注目の新商品をご紹介します！
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 18
 - [サイズから選ぶ](https://newtrip.online/collections/size): 1〜3泊に最適な機内持ち込みサイズ（S）、3〜5泊の中型（M）、1週間以上の長期旅行・留学に便利な大型（L）まで幅広くラインナップ。各航空会社の規定に合わせたサイズ選びのポイントも。あなたの旅の期間にぴったりの容量を、New Tripで見つけよう。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 32
 - [機能から選ぶ](https://newtrip.online/collections/features): 出し入れ便利な「フロントオープン」、移動を快適にする「超静音キャスター」、PC保護ポケットや拡張機能など、旅の質を高める機能が満載。あなたのこだわりに応える高スペックなモデルをラインナップ。妥協のない機能美で、次の旅をもっとスマートに。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 34
 - [シーンから選ぶ](https://newtrip.online/collections/travel-scenes): 旅行や出張など利用シーンに合わせて最適なスーツケースを選べるコレクションページ。海外旅行や国内旅行、ビジネス出張、アウトドア活動まで、それぞれの用途に特化したスーツケースをご紹介します。軽量・耐久性・サイズ展開・機能性などを比較しながら、あなたにぴったりのキャリーケースを見つけてください。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 45
 - [New Trip スーツケース](https://newtrip.online/collections/new-trip-suitcase): 【New Trip 公式】旅をより快適に、スマートに。大容量で頑丈な0201シリーズから、フロントオープンが人気の0501モデルまで、機能性とデザインを両立したスーツケースが勢揃い。静音キャスターや高耐久素材を採用した日本ブランドならではの品質を、機内持ち込みから大型まで幅広くラインナップ。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 24
 - [New Trip Monthly ](https://newtrip.online/collections/new-trip-monthly-): 月に一度の特別イベント！スーツケース・キャリーケース・バックパック・旅行アクセサリーまで、人気商品が最大47％オフ。盂蘭盆や新学期、年末年始など、季節やイベントに合わせた約3-4日間限定セールを開催します。旅行や出張に欠かせないトラベルアイテムを、この機会にお得に手に入れてください。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 45
 - [New Trip Daily ](https://newtrip.online/collections/new-trip-daily-): 【毎日更新】New Tripの日替わりセール！人気の超軽量スーツケースやビジネスバックパック、旅行アクセサリーが最大47％OFFの特別価格で登場。数量限定・期間限定のタイムセールにつき、早い者勝ちです。旅を快適にする高品質なアイテムを、どこよりもお得に手に入れるチャンス。今すぐ最新のラインナップをチェック！
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 49
 - [ファスナータイプのスーツケース](https://newtrip.online/collections/zipper-suitcase): New Tripのファスナー型スーツケースは、軽量で多機能。PCを取り出しやすいフロントオープンや、荷物が増えても安心な容量拡張モデルを豊富にラインナップ。機内持込Sサイズから大容量Lサイズまで、用途に合わせたサイズとカラーが選べます。耐久性抜群のボディとTSAロックで、安心・快適な旅を楽しみましょう。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 24
 - [フレームタイプのスーツケース](https://newtrip.online/collections/frame-suitcase): 大切な荷物を強固に守る。New Tripのフレームタイプスーツケース特集です。衝撃に強いアルミニウム合金フレームを採用し、高い堅牢性と防犯性を実現。ワンタッチで開閉できるラッチ式で、ファスナー特有の煩わしさがありません。精密機器や割れ物を運ぶ旅にも最適。高級感溢れるデザインと圧倒的な安心感を、あなたの旅に。
-  Updated: 2026-11-16T06:35:36Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 5
 - [女性におすすめのスーツケース](https://newtrip.online/collections/女性におすすめのスーツケース): 旅行や出張をもっと楽しく、もっと自分らしく。こちらのページでは、女性におすすめのスーツケースをテーマに、機能性とデザイン性を兼ね備えたラインナップをご紹介します。軽量で使いやすく、収納力も抜群。さらにかわいいキャリーケースや、思わず写真を撮りたくなるおしゃれなスーツケースも豊富に揃っています。カラーやサイズも多彩なので、初めての一台から長く使える相棒まで、きっとあなたにぴったりのスーツケースが見つかります。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 10
 - [家族旅行](https://newtrip.online/collections/family-travel-suitcases): 2026年最新｜家族旅行をストレスフリーに！パパ・ママが選ぶ「家族向けスーツケース」特集。子供の着替えやお土産で荷物が増えても安心の拡張機能付きや、片手でスイスイ動く静音キャスター搭載のNew Tripモデルを厳選。人数別の最適サイズを詳しく解説します。
-  Updated: 2026-11-14T12:07:35Z
+  Updated: 2026-11-20T06:05:24Z
   Total Products: 10
 - [一人旅向けのスーツケース](https://newtrip.online/collections/single-travel-suitcase): 2026年の一人旅を身軽に！旅行のプロが教える「一人旅に最適なスーツケース」の選び方。機内持ち込みOKの超軽量モデルや、荷物の出し入れが楽なフロントオープン型を徹底比較。New Tripの最新モデルなら、自由でスマートな旅がもっと快適に。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 18
 - [二人旅行向けのスーツケース](https://newtrip.online/collections/couple-travel-suitcase): 二人旅行をより快適に。New Tripが提案する二人旅行に最適なスーツケース特集です。二人の荷物をまとめて収納できるLサイズから、お揃い（ペア）で持ちたいスタイリッシュな機内持込モデルまで豊富にラインナップ。軽量で丈夫なボディとスムーズな走行性で、大切な人との旅の移動をストレスフリーにサポートします。
-  Updated: 2026-11-17T12:06:38Z
+  Updated: 2026-11-21T12:06:09Z
   Total Products: 7
 - [NewTrip & Monomi 折りたたみ傘特集](https://newtrip.online/collections/newtrip-monomi-umbrella): UVカット・遮熱に優れたNew Tripの日傘特集。182gの超軽量3段折から8本骨の男の日傘まで。紫外線カット100%で日光アレルギーや光線過敏症、ポルフィリン症対策にも。美白・アンチエイジングを支える日本製品質の紫外線防止機能。形状記憶のように畳みやすく、日焼け防止を徹底する究極の遮光日傘。
-  Updated: 2026-11-14T12:07:35Z
+  Updated: 2026-11-20T12:06:34Z
   Total Products: 6
 - [スーツケースベルト](https://newtrip.online/collections/suitcase-luggage-strap)
-  Updated: 2026-11-16T12:05:03Z
+  Updated: 2026-11-24T12:05:28Z
   Total Products: 4
 
 ## Blogs
@@ -1131,12 +1131,12 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Updated: 2026-08-21T10:20:25Z
     Author: GemPages
     Tags: New Trip, おすすめ リュックサック, インスタグラム, リュックサック, 新生活キャンペーン, 新生活応援
-  - [スーツケースの帰宅後のケア｜疲れていてもできる簡単お手入れガイド](https://newtrip.online/blogs/guides/suitcase-care-after-trip): スーツケースの帰宅後のケア｜疲れていてもできる簡単お手入れガイド
-    Updated: 2025-11-21T10:02:16Z
+  - [スーツケースの帰宅後のお手入れ方法｜簡単な掃除・乾燥・保管のコツ](https://newtrip.online/blogs/guides/suitcase-care-after-trip): スーツケースの帰宅後のお手入れ方法｜簡単な掃除・乾燥・保管のコツ
+    Updated: 2026-11-19T09:52:33Z
     Author: MinaiKarte
     Tags: New Trip, YKKファスナー, キャスター, スーツケース カバー, スーツケース 手入れ, スーツケースキャスター壊れた, ソフトケース, ハードケース
   - [スーツケースのサイズの選び方｜泊数・荷物量から最適な大きさを解説](https://newtrip.online/blogs/guides/suitcase-size-guide): スーツケースのサイズの選び方｜泊数・荷物量から最適な大きさを解説
-    Updated: 2026-11-12T09:43:09Z
+    Updated: 2026-11-19T09:52:48Z
     Author: WataribeSamina
     Tags: New Trip, TSAロック, YKKファスナー, おすすめ スーツケース, スーツケース, スーツケース サイズ, スーツケース 鍵, 新幹線 スーツケース, 機内持ち込み スーツケース, 軽量スーツケース, 選び方
   - [スーツケースベルトの使い方と選び方を解説!!](https://newtrip.online/blogs/guides/おすすめ-ス-ツケ-スベルト): スーツケースベルトの使い方と選び方を解説!!
@@ -1304,7 +1304,7 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Author: WataribeSamina
     Tags: 2 泊 3 日 バッグ, 2泊3日 キャリーケース, 2泊3日 スーツケース, New Trip, NEW TRIP 0201, New Trip 0501, おすすめ スーツケース, おすすめ リュックサック, キャリー ケース おすすめ, スーツ ケース sサイズ, ボストン バッグ 旅行, 二 泊 三 日 荷物, 旅行 カバン, 旅行 バッグ, 旅行 用 バッグ
   - [スーツケース用キャスターカバーのおすすめ！選び方と使用時の注意点](https://newtrip.online/blogs/guides/suitcase-caster-cover-guide): スーツケース用キャスターカバーのおすすめ！選び方と使用時の注意点
-    Updated: 2026-11-02T09:51:16Z
+    Updated: 2026-11-19T09:53:08Z
     Author: WataribeSamina
     Tags: MONOMI, New Trip, キャスター カバー, キャリー ケース カバー, キャリー ケース キャスター カバー, キャリー ケース 車輪 カバー, スーツ ケース キャスター カバー, スーツ ケース タイヤ カバー, スーツ ケース 車輪 カバー
   - [3泊4日の女性向けスーツケースの選び方｜サイズ・容量とおすすめモデルを紹介](https://newtrip.online/blogs/guides/3nights-4days-womens-suitcase-guide): 3泊4日の女性向けスーツケースの選び方｜サイズ・容量とおすすめモデルを紹介
@@ -1356,8 +1356,8 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Author: GemPages
     Tags: New Trip, スーツ ケース mサイズ, スーツ ケース sサイズ, スーツケース lサイズ, スーツケース おすすめ, スーツケース サイズ, スーツケース 収納
   - [新幹線でスーツケースを足元に置ける？サイズ目安と座席選び・快適に使うコツ](https://newtrip.online/blogs/guides/shinkansen-suitcas-ashimoto): 新幹線でスーツケースを足元に置ける？サイズ目安と座席選び・快適に使うコツ
-    Updated: 2026-11-03T09:30:53Z
-    Author: WataribeSamina
+    Updated: 2026-11-18T02:44:36Z
+    Author: GemPages
     Tags: New Trip, New Trip 0702, おすすめ スーツケース, キャリー ケース おすすめ, スーツ ケース sサイズ, スーツ ケース おすすめ, スーツ ケース 新幹線, フロント オープン スーツケース, フロントオープンスーツケース, フロントオープンスーツケース おすすめ, 新幹線 キャリー ケース, 新幹線 キャリー ケース 足元, 新幹線 スーツ ケース, 新幹線 スーツ ケース サイズ, 新幹線 スーツ ケース 足元 サイズ
   - [【2025年最新】女性におすすめ！おしゃれで機能的なスーツケース5選](https://newtrip.online/blogs/guides/ladies-suitcase-recommendation-2025)
     Updated: 2026-08-21T10:22:22Z
@@ -1375,9 +1375,9 @@ NewTrip（ニュートリップ）は、Semiro Japan株式会社が展開する�
     Updated: 2026-08-21T10:24:20Z
     Author: GemPages
     Tags: 1 週間 スーツ ケース, 3 泊 4 日 荷物 キャリー ケース​, 7 泊 スーツ ケース, アルミ スーツ ケース, キャリー ケース, キャリー ケース おすすめ, キャリー ケース おすすめ メンズ, キャリー ケース おすすめ 女性, キャリー ケース サイズ, キャリー ケース 機内 持ち込み, キャリー ケース 頑丈, スーツ ケース, スーツ ケース 1 週間 おすすめ, スーツ ケース mサイズ, スーツ ケース sサイズ, スーツ ケース おすすめ, スーツ ケース キャスター​, スーツ ケース ストッパー, スーツ ケース 国内 旅行, スーツ ケース 新幹線, 国内 旅行 キャリー ケース, 新幹線 キャリー ケース
-  - [通勤・出張に最適なビジネスリュック・リュックサックおすすめ](https://newtrip.online/blogs/guides/business-rucksack-recommendations): 通勤・出張に最適なビジネスリュック・リュックサックおすすめ
-    Updated: 2026-03-04T09:01:39Z
-    Author: MinaiKarte
+  - [通勤・出張におすすめのビジネスリュックの選び方｜New Tripの人気モデル2選](https://newtrip.online/blogs/guides/business-rucksack-recommendations): 通勤・出張におすすめのビジネスリュックの選び方｜New Tripの人気モデル2選
+    Updated: 2026-11-23T08:50:17Z
+    Author: WataribeSamina
     Tags: おすすめ リュックサック, ビジネスリュック, ビジネスリュック 大容量, リュックサック
   - [週末旅行：機内持ち込みサイズのスーツケースで身軽な旅を！](https://newtrip.online/blogs/guides/週末旅行ガイド): 週末旅行：機内持ち込みサイズのスーツケースで身軽な旅を！
     Updated: 2026-08-21T10:18:41Z
