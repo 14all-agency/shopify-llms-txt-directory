@@ -6,12 +6,12 @@
 - Timezone: America/Santiago
 - Created At: 2025-09-10T20:41:23Z
 - Contact Email: soporte@sb100dobrasil.cl
-- Updated At: 2026-11-17T00:37:15.221Z
+- Updated At: 2026-11-25T00:36:58.011Z
 
 ## Products
 
 - [Semi Definitiva TECHNOLOGY 3000 1L - SIC](https://www.sb100dobrasil.cl/products/semi-definitiva-technology-3000): Alisado semi definitivo profesional que reduce volumen y frizz. Con manteca de murumuru y aceite de grosella que hidratan y protegen. Envíos a todo Chile
-  Updated: 2026-11-16T03:25:38Z
+  Updated: 2026-11-24T13:08:24Z
   Vendor: SIC
   Product Type: 
   Availability: Available
@@ -102,7 +102,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SIC016_padronizada-43647164711203.jpg?v=1792687438
   Price: 41.990,00 $ CLP
 - [Pack Liso Prolongado Radiante - Gota Dorada](https://www.sb100dobrasil.cl/products/pack-liso-radiante): Mantén tu cabello liso, suave, brillante y sin frizz por más tiempo. Rutina fortalecedora completa para liso natural o con alisado. Envíos a todo Chile
-  Updated: 2026-11-16T03:23:44Z
+  Updated: 2026-11-22T12:53:47Z
   Vendor: Gota Dorada
   Product Type: Kit Rutina Capilar Completa
   Availability: Available
@@ -340,21 +340,21 @@
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/00996_padronizada-42727075610915.jpg?v=1792687379
   Price: 12.990,00 $ CLP
 - [Shampoo Fortalecedor Cabello Tratado Químico 430 ml](https://www.sb100dobrasil.cl/products/champu-para-cabello-tratado-quimicamente-gota-dourada-430-ml): Recarga de queratina que restaura y fortalece el cabello con química. Limpia con suavidad y deja el cabello teñido o alisado más resistente. Envíos a todo Chile
-  Updated: 2026-11-16T03:23:51Z
+  Updated: 2026-11-22T19:51:28Z
   Vendor: Gota Dorada
   Product Type: Shampoo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/00723_padronizada-42727532921123.jpg?v=1792687379
   Price: 12.990,00 $ CLP
 - [Máscara Fortalecimiento Cabello Tratado Químico 1 kg](https://www.sb100dobrasil.cl/products/mascara-fortalecimiento-quimicamente-tratados-gota-dorada-1-kg): Reparación intensiva para cabello dañado por alisados, tintes o decoloración. Devuelve fuerza, suavidad y brillo a la fibra debilitada. Envíos a todo Chile
-  Updated: 2026-11-16T03:23:51Z
+  Updated: 2026-11-18T14:46:46Z
   Vendor: Gota Dorada
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/03939_padronizada-43606380544291.jpg?v=1792687379
   Price: 13.990,00 $ CLP
 - [Crema sin Enjuague Cabello Tratado Químico 320 ml](https://www.sb100dobrasil.cl/products/crema-sin-enjuague-para-cabello-tratado-quimicamente-320-ml): Hidratación prolongada con arginina, vitamina C y aceite de coco. Protege y fortalece el cabello teñido o alisado sin necesidad de enjuague. Envíos a todo Chile
-  Updated: 2026-11-16T03:24:26Z
+  Updated: 2026-11-23T18:28:28Z
   Vendor: Gota Dorada
   Product Type: Crema de Peinar
   Availability: Available
@@ -466,119 +466,119 @@
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/07878_padronizada-42727081181475.jpg?v=1792687344
   Price: 14.990,00 $ CLP
 - [Divino Potinho 2 en 1 Kids - Crema de peinar 250 grs](https://www.sb100dobrasil.cl/products/divino-potinho-2-en-1-kids-crema-de-peinar-250-grs): Crema 2 en 1 para niños que hidrata, desenreda y define ondas, rizos y cabello afro. Aporta suavidad y facilita el peinado sin tirones. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:17Z
+  Updated: 2026-11-23T02:48:30Z
   Vendor: Skala
   Product Type: Crema de Peinar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKCP-020613_padronizada-43606361964835.jpg?v=1792687344
   Price: 9990,00 $ CLP
 - [Shampoo rizos perfectos Mais Cachos 325 ml - Skala](https://www.sb100dobrasil.cl/products/shampoo-rizos-perfectos-mais-cachos-325-ml): Limpieza suave e hidratación para rizos definidos. Shampoo que prepara el cabello rizado para la rutina y reduce el frizz desde el lavado. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:18Z
+  Updated: 2026-11-23T02:48:35Z
   Vendor: Skala
   Product Type: Shampoo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/Shampoo_rizos_perfectos_Mais_Cachos_325_ml.jpg?v=1787254761
   Price: 12.990,00 $ CLP
 - [Shampoo Oleo de coco 325 ml - Skala](https://www.sb100dobrasil.cl/products/shampoo-oleo-de-coco-325-ml): Shampoo sin sal con óleo de coco que nutre mientras limpia. Deja el cabello suave, hidratado y con brillo, ideal para cabello seco. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:18Z
+  Updated: 2026-11-23T02:48:35Z
   Vendor: Skala
   Product Type: Shampoo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/Shampoo_Oleo_de_coco_325_ml.jpg?v=1787254806
   Price: 5990,00 $ CLP
 - [Shampoo Babosa Aloe Vera 325 ml - Skala](https://www.sb100dobrasil.cl/products/shampoo-babosa-aloe-vera-325-ml): Hidratación intensa con aloe vera, control del frizz y definición para rizos. Limpia con suavidad y deja el cabello rizado más manejable. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:18Z
+  Updated: 2026-11-23T02:48:34Z
   Vendor: Skala
   Product Type: Shampoo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/shampoobabosa.png?v=1784060365
   Price: 8590,00 $ CLP
 - [Skala Mascarilla Capilar Sandía 1 kg](https://www.sb100dobrasil.cl/products/mascara-watermelon-1000-grs-sandia): Nutrición intensa y definición duradera para rizos y cabello afro. Mascarilla con aroma a sandía que hidrata en profundidad y revitaliza. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:19Z
+  Updated: 2026-11-23T02:48:33Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-026068_padronizada-42930669420835.png?v=1792687344
   Price: 9990,00 $ CLP
 - [Mascara Strawberry 1000 grs (Fresa) - Skala](https://www.sb100dobrasil.cl/products/mascara-strawberry-fresa-1000g): Nutrición intensa y brillo para todo tipo de cabello con aroma a fresa. Mascarilla de 1 kg que revitaliza y restaura la suavidad natural. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:19Z
+  Updated: 2026-11-23T02:48:32Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-026065_padronizada-42937245270307.png?v=1792687344
   Price: 9990,00 $ CLP
 - [Maracuya y Aceite de Pataua – Mascara 1000 grs](https://www.sb100dobrasil.cl/products/mascara-maracuya-y-aceite-de-pataua-1000-grs): Fuerza, nutrición y resistencia inspiradas en Brasil. Maracuyá y aceite de patauá nutren en profundidad y revitalizan todo tipo de cabello. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:19Z
+  Updated: 2026-11-23T02:48:32Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-024681_padronizada-42938777010467.png?v=1792687344
   Price: 9990,00 $ CLP
 - [Mais Cachinhos Kids – Mascara Capilar Rizos 1000 grs](https://www.sb100dobrasil.cl/products/mascara-mais-cachinhos-kids-1000-grs): Hidratación suave y definición para rizos infantiles. Mascarilla de cuidado delicado que nutre el cabello rizado de los niños sin tirones. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:20Z
+  Updated: 2026-11-23T02:48:31Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-024682_padronizada-42838772154659.jpg?v=1792687332
   Price: 9990,00 $ CLP
 - [Potao do amor – Mascara Capilar 1000 grs - Skala](https://www.sb100dobrasil.cl/products/mascara-potao-do-amor-1000-grs): Reparación, brillo y reconstrucción con 18 ingredientes nutritivos. Mascarilla de 1 kg que revitaliza y fortalece el cabello dañado. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:20Z
+  Updated: 2026-11-23T02:48:33Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-024678_padronizada-43721020965155.jpg?v=1792687332
   Price: 10.490,00 $ CLP
 - [Crema para Peinar Almidón de Maíz 250 g – Skala](https://www.sb100dobrasil.cl/products/crema-para-peinar-3-en-1-amido-de-milho-250-grs-almidon-de-maiz): Crema 3 en 1: acondicionador, tratamiento y leave-in. Con almidón de maíz para hidratar, fortalecer y dejar el cabello suave y brillante. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:20Z
+  Updated: 2026-11-23T02:48:29Z
   Vendor: Skala
   Product Type: Crema de Peinar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKCP-019914_padronizada-43606360752419.jpg?v=1792687332
   Price: 9990,00 $ CLP
 - [Acachonados – Mascara Capilar 1000 grs - Skala](https://www.sb100dobrasil.cl/products/mascara-acachonados): Con argán, coco, patauá y carbón activado: nutre y define rizos. Mascarilla de 1 kg que limpia la fibra y deja rizos suaves y brillantes. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:21Z
+  Updated: 2026-11-23T02:48:29Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-023737_padronizada-43721120055587.jpg?v=1792687332
   Price: 9990,00 $ CLP
 - [Skala Mascarilla Capilar Aceite de Coco 1 kg](https://www.sb100dobrasil.cl/products/mascara-oleo-de-coco-1000-grs-aceite-de-coco): Con aceite de coco, vitamina E y D-pantenol: nutre e hidrata el cabello seco o dañado. Mejora la suavidad, el brillo y la resistencia. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:21Z
+  Updated: 2026-11-23T02:48:33Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/oleo_coco_mascara.jpg?v=1778527767
   Price: 9990,00 $ CLP
 - [Mais Cachos 650 ml – Kit Shampoo + Acondicionador](https://www.sb100dobrasil.cl/products/kit-shampoo-acondicionador-mais-cachos-650-ml): Hidratación y definición para cabello rizado, crespo o en transición. Shampoo y acondicionador ricos en nutrientes para rizos sin frizz. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:21Z
+  Updated: 2026-11-23T02:48:31Z
   Vendor: Skala
   Product Type: Kit Shampoo y Acondicionador
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/acondicionadormaiscachos.png?v=1784141596
   Price: 12.990,00 $ CLP
 - [Coctel de frutas Family – Mascara Capilar 1 kg](https://www.sb100dobrasil.cl/products/mascara-coctel-de-frutas-family-1000-grs): Crema 2 en 1 con frutas que hidrata, suaviza y aporta brillo natural a todo tipo de cabello. Ideal para toda la familia y uso diario. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:21Z
+  Updated: 2026-11-23T02:48:30Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-022167_padronizada-42838597042467.jpg?v=1792687293
   Price: 9990,00 $ CLP
 - [Mais Crespinhos Kids 1 kg – Mascara Capilar 2 en 1](https://www.sb100dobrasil.cl/products/mais-crespinhos-kids-mascara-2-en-1): Crema 2 en 1 para cabello crespo, afro y muy rizado infantil. Nutre, controla el frizz y mantiene los rizos de los niños suaves y definidos. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:22Z
+  Updated: 2026-11-23T02:48:31Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-024690_padronizada-42930623447331.png?v=1792687293
   Price: 9990,00 $ CLP
 - [Raízes do Morro – Mascarilla Capilar 1 kg - Skala](https://www.sb100dobrasil.cl/products/mascara-raices-del-morro-1000-grs): Nutrición intensa inspirada en Brasil con coco, açaí y mantecas brasileñas. Mascarilla de 1 kg para un cabello suave, fuerte y brillante. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:22Z
+  Updated: 2026-11-23T02:48:34Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-024121_padronizada-42524055699747.jpg?v=1792687289
   Price: 9990,00 $ CLP
 - [Potao desmaiado – Mascara  1000 grs - Skala](https://www.sb100dobrasil.cl/products/mascara-potao-desmaiado-1000-grs-potencia): Efecto disciplinado y suavidad para todo tipo de cabello. Tratamiento 2 en 1 que alinea la fibra, reduce el frizz y da movimiento natural. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:23Z
+  Updated: 2026-11-23T02:48:33Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
@@ -1082,7 +1082,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SIC015_padronizada-42895995371811.png?v=1792687111
   Price: 53.990,00 $ CLP
 - [Semi Definitiva TECHNOLOGY 3000 250ml - SIC](https://www.sb100dobrasil.cl/products/semi-definitiva-technology-3000-250ml): Alisado semi definitivo en formato de 250 ml. Con manteca de murumuru y aceite de grosella que hidratan y protegen mientras alisan. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:17Z
+  Updated: 2026-11-24T13:16:07Z
   Vendor: SIC
   Product Type: 
   Availability: Available
@@ -1110,7 +1110,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/CD-29_padronizada-42856616558883.png?v=1792687102
   Price: 13.990,00 $ CLP
 - [Aloe Caprichoso 1 kg – Mascarilla Capilar](https://www.sb100dobrasil.cl/products/aloe-caprichoso-mascarilla-capilar-1kg): Aloe vera y manteca de karité para hidratar intensamente y reparar el cabello. Mascarilla que devuelve suavidad y vitalidad al cabello. Envíos a todo Chile
-  Updated: 2026-11-16T03:23:37Z
+  Updated: 2026-11-20T13:56:50Z
   Vendor: Corpo Dourado
   Product Type: Mascarilla Capilar
   Availability: Available
@@ -1159,7 +1159,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SLBO-95127_padronizada-43602299257123.jpg?v=1792687102
   Price: 11.990,00 $ CLP
 - [Kit Fortalecimiento Rizos Definición Pro](https://www.sb100dobrasil.cl/products/pack-rizos-definicion-pro): Rutina completa para ondas, rizos y afro: shampoo, acondicionador, mascarilla, crema sin enjuague y aceite. Hidrata, define y fortalece. Envíos a todo Chile
-  Updated: 2026-11-16T03:24:33Z
+  Updated: 2026-11-24T23:51:43Z
   Vendor: Gota Dorada
   Product Type: Kit Rutina Capilar Completa
   Availability: Not Available
@@ -1173,112 +1173,112 @@
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/LO070_padronizada-43602313347363.jpg?v=1792687089
   Price: 8990,00 $ CLP
 - [Skala Rizos Perfectos Mais Cachos 2 en 1 – 1000 g](https://www.sb100dobrasil.cl/products/skala-rizos-perfectos-mais-cachos-2-en-1-1000-g): Crema 2 en 1 que hidrata y define rizos y ondas. Deja el cabello rizado suave, con movimiento y sin frizz gracias a sus aceites vegetales. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:23Z
+  Updated: 2026-11-23T02:48:40Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-024673_padronizada-43721013002531.jpg?v=1792687088
   Price: 9990,00 $ CLP
 - [Skala Bomba de Vitaminas Keratina Vegetal – 1000 g](https://www.sb100dobrasil.cl/products/skala-bomba-de-vitaminas-keratina-vegetal-1000-g): Fuerza y nutrición para cabello débil o dañado. Mascarilla con keratina vegetal y complejo vitamínico que revitaliza desde la raíz. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:23Z
+  Updated: 2026-11-23T02:48:37Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-022075_padronizada-43606355214627.jpg?v=1792687088
   Price: 9990,00 $ CLP
 - [Skala Restauración 12 en 1 – 1000 g](https://www.sb100dobrasil.cl/products/skala-restauracion-12-en-1-1000-g): Reparación profunda vegana con keratina, argán y palta para cabello seco o poroso. Úsala 3 minutos o como máscara intensiva de 15. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:23Z
+  Updated: 2026-11-23T02:48:40Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-022155_padronizada-43606358851875.jpg?v=1792687088
   Price: 9990,00 $ CLP
 - [Skala Divino Potão – 1000 g](https://www.sb100dobrasil.cl/products/skala-divino-potao-1000-g): Efecto disciplinado y suavidad para todo tipo de cabello. Tratamiento 2 en 1 que alinea la fibra, controla el frizz y aporta brillo. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:24Z
+  Updated: 2026-11-23T02:48:37Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-024674_padronizada-43317900378403.png?v=1792687088
   Price: 9990,00 $ CLP
 - [Skala Aceite Capilar Abacate – 90 g](https://www.sb100dobrasil.cl/products/skala-aceite-capilar-abacate-90-g): Aceite 5 en 1 vegano con palta que nutre, da brillo y controla el frizz. Protege del calor y sella las puntas con solo unas gotas. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:24Z
+  Updated: 2026-11-23T02:48:35Z
   Vendor: Skala
   Product Type: Aceite Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKAC-029796_padronizada-43721061237027.jpg?v=1792687088
   Price: 12.990,00 $ CLP
 - [Skala Mascara Mango – 1000 g](https://www.sb100dobrasil.cl/products/skala-mascara-mango-1000-g): Hidratación profunda, control de frizz y suavidad con mango. Mascarilla de 1 kg ideal para cabello seco o encrespado que necesita vida. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:25Z
+  Updated: 2026-11-23T02:48:39Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-029544_padronizada-43317957689635.png?v=1792687088
   Price: 9990,00 $ CLP
 - [Skala Mascara Babosa Aloe Vera TC Leave-in – 1000 g](https://www.sb100dobrasil.cl/products/skala-mascara-babosa-aloe-vera-tc-leave-in-1000-g): Tratamiento leave-in con aloe vera para rizos. Hidrata en profundidad, define y controla el frizz sin necesidad de enjuague. 1 kg. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:25Z
+  Updated: 2026-11-23T02:48:38Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-024676_padronizada.jpg?v=1787887006
   Price: 9990,00 $ CLP
 - [Skala Mascara Óleo de Argán – 1000 g](https://www.sb100dobrasil.cl/products/skala-mascara-oleo-de-argan-1000-g): Nutrición e hidratación con aceite de argán y vitamina E para cabello seco o dañado. Mascarilla de 1 kg que aporta brillo y suavidad. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:25Z
+  Updated: 2026-11-23T02:48:40Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-024687_padronizada-43721131196707.jpg?v=1792687088
   Price: 9990,00 $ CLP
 - [Skala Kit Shampoo/Acondicionador Mais Lisos – 525 ml](https://www.sb100dobrasil.cl/products/skala-kit-shampoo-acondicionador-mais-lisos-525-ml): Cabello más liso, suave y manejable. Shampoo y acondicionador para cabello liso natural o alisado, con activos alisadores e hidratantes. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:26Z
+  Updated: 2026-11-23T02:48:38Z
   Vendor: Skala
   Product Type: Kit Shampoo y Acondicionador
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKKT-026961_padronizada.png?v=1787886976
   Price: 12.990,00 $ CLP
 - [Skala Mascara Mais Crespo – 1000 g](https://www.sb100dobrasil.cl/products/skala-mascara-mais-crespo-1000-g): Hidratación y definición para cabello crespo y rizado. Mascarilla de 1 kg que nutre la fibra, marca el rizo y controla el frizz a diario. Envíos a todo Chile
-  Updated: 2026-11-16T15:48:32Z
+  Updated: 2026-11-23T02:48:39Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-024672_padronizada-43721129820451.jpg?v=1792687088
   Price: 9990,00 $ CLP
 - [Skala Kit Crespo Divino Shampoo y Acondicionador](https://www.sb100dobrasil.cl/products/skala-kit-shampoo-acondicionador-crespo-divino-525-ml): Hidratación y definición para cabello en transición. Shampoo y acondicionador que controlan el frizz y unifican la textura del rizo. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:26Z
+  Updated: 2026-11-23T02:48:37Z
   Vendor: Skala
   Product Type: Kit Shampoo y Acondicionador
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKKT-027559_padronizada.png?v=1787886984
   Price: 12.990,00 $ CLP
 - [Skala Shampoo Bomba de Vitaminas Banana 325 ml](https://www.sb100dobrasil.cl/products/skala-shampoo-bomba-de-vitaminas-banana-y-bacuri-325-ml): Limpieza nutritiva para cabello seco, débil o sin vida. Con banana y bacuri que fortalecen la fibra y aportan más brillo y vitalidad. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:27Z
+  Updated: 2026-11-23T02:48:40Z
   Vendor: Skala
   Product Type: Shampoo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKSH-015710_Shampoo_Bomba_de_Vitaminas_Banana_y_Bacuri_325_ml.png?v=1784044189
   Price: 5990,00 $ CLP
 - [Skala Aceite Capilar Mais Cachos – 90 g](https://www.sb100dobrasil.cl/products/skala-aceite-capilar-mais-cachos-90-g): Sella la cutícula e hidrata sin sensación grasa. Aceite 5 en 1 para cabello rizado y crespo que controla el frizz, nutre y da brillo. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:27Z
+  Updated: 2026-11-23T02:48:35Z
   Vendor: Skala
   Product Type: Aceite Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKAC-029863_padronizada-43721067954467.jpg?v=1792687077
   Price: 12.990,00 $ CLP
 - [Skala Mascara Almidón de Maíz – 1000 g](https://www.sb100dobrasil.cl/products/skala-mascara-almidon-de-maiz-1000-g): Hidratación y tratamiento multifuncional con almidón de maíz. Mascarilla de 1 kg que suaviza, nutre la fibra y aporta un brillo natural. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:27Z
+  Updated: 2026-11-23T02:48:38Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-024689_padronizada-43721030140195.jpg?v=1792687077
   Price: 9990,00 $ CLP
 - [Skala Gel Líquido Capilar Mais Cachos – 250 g](https://www.sb100dobrasil.cl/products/skala-gel-liquido-capilar-mais-cachos-250-g): Definición flexible y brillo sin dejar el cabello rígido. Gel vegano con aloe, D-pantenol, ricino y karité, sin sulfatos ni parabenos. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:28Z
+  Updated: 2026-11-23T02:48:37Z
   Vendor: Skala
   Product Type: Gel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKGL-024658_padronizada.png?v=1787886931
   Price: 9990,00 $ CLP
 - [Skala Mascara Karité – 1000 g](https://www.sb100dobrasil.cl/products/skala-mascara-karite-1000-g): Nutrición profunda y suavidad con manteca de karité. Mascarilla de 1 kg que hidrata y deja el cabello manejable y con brillo natural. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:28Z
+  Updated: 2026-11-23T02:48:39Z
   Vendor: Skala
   Product Type: Mascarilla Capilar
   Availability: Available
@@ -1348,10 +1348,10 @@
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SLSS-34614_padronizada.jpg?v=1787886786
   Price: 14.990,00 $ CLP
 - [SOS Óleo de Repente Pronta 42 ml - Salon Line](https://www.sb100dobrasil.cl/products/sos-oleo-de-repente-pronta-42-ml): Brillo instantáneo y nutrición con aceites vegetales de rápida absorción. Aporta suavidad y controla el frizz sin sensación grasa. Envíos a todo Chile
-  Updated: 2026-11-16T03:25:35Z
+  Updated: 2026-11-23T20:16:39Z
   Vendor: Salon Line
   Product Type: Aceite Capilar
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SLSS-32632_padronizada.jpg?v=1787886780
   Price: 12.990,00 $ CLP
 - [SOS Gelatina Súper Óleos 400 g - Salon Line](https://www.sb100dobrasil.cl/products/sos-gelatina-super-oleos-400-g): Definición con nutrición extra gracias a sus aceites. Gelatina que marca el rizo, controla el frizz y mantiene la fijación todo el día. Envíos a todo Chile
@@ -1439,7 +1439,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/PAEX0141_padronizada.jpg?v=1787886479
   Price: 16.990,00 $ CLP
 - [Gelatina Modeladora Amo Cachos 420 g – Griffus](https://www.sb100dobrasil.cl/products/griffus-gelatina-modeladora-amo-cachos-420-g): Rizos definidos y sin frizz por más tiempo, con protección térmica. Gelatina vegana libre de sulfatos, parabenos y siliconas, con coco. Envíos a todo Chile
-  Updated: 2026-11-16T03:24:34Z
+  Updated: 2026-11-23T02:40:56Z
   Vendor: Griffus
   Product Type: Gel
   Availability: Available
@@ -1516,21 +1516,21 @@
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/KIT-GD019_padronizada.png?v=1787886622
   Price: 29.980,00 $ CLP
 - [Widi Care Juba Acondicionador Hidronutritivo 500 ml](https://www.sb100dobrasil.cl/products/juba-acondicionador-hidronutritivo-500-ml): Hidrata y nutre en un paso cabellos ondulados, rizados, crespos y afro. Con aceite de linaza dorada para suavidad, brillo y fácil desenredo. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:28Z
+  Updated: 2026-11-19T00:42:36Z
   Vendor: Widi Care
   Product Type: Acondicionador
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/2012_padronizada-46233492586787.jpg?v=1792687063
   Price: 21.990,00 $ CLP
 - [Widi Care Juba Shampoo Higienizante 500 ml](https://www.sb100dobrasil.cl/products/juba-shampoo-higienizante-500-ml): Limpia sin resecar ni enredar ondas, rizos y crespos. Con aceite de linaza dorada y extracto de avellana, fórmula vegana compatible Low Poo. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:29Z
+  Updated: 2026-11-19T00:42:45Z
   Vendor: Widi Care
   Product Type: Shampoo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/1046_padronizada-46233493242147.jpg?v=1792687063
   Price: 21.990,00 $ CLP
 - [Widi Care Juba Crema para Peinar Ondas 500 ml](https://www.sb100dobrasil.cl/products/juba-crema-para-peinar-modeladora-de-ondas-500-ml): Define y activa ondas 2A a 2C sin apelmazar. Con linaza dorada, avellana y manteca de murumuru: menos frizz, brillo y protección térmica. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:29Z
+  Updated: 2026-11-22T16:31:46Z
   Vendor: Widi Care
   Product Type: Crema de Peinar
   Availability: Available
@@ -1544,7 +1544,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/827_padronizada-46252893667619.jpg?v=1792687063
   Price: 21.990,00 $ CLP
 - [Widi Care Juba Mousse Crespo Crespísimo 200 ml](https://www.sb100dobrasil.cl/products/juba-mousse-crespo-crespisimo-200-ml): Crespos definidos hasta por 48 horas. Con colágeno vegetal, avellana y baobá, nutre el cabello seco, controla el frizz y protege del calor. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:30Z
+  Updated: 2026-11-19T00:42:37Z
   Vendor: Widi Care
   Product Type: Mousse Capilar
   Availability: Available
@@ -1558,7 +1558,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/1695_padronizada-46253477658915.jpg?v=1792687063
   Price: 21.990,00 $ CLP
 - [Widi Care Juba Gelatina Selladora 300 g](https://www.sb100dobrasil.cl/products/juba-gelatina-selladora-300-g): Rizos definidos hasta 72 horas, con brillo y sin efecto acartonado. Con linaza dorada y coco, controla el frizz y protege del calor. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:30Z
+  Updated: 2026-11-19T00:42:37Z
   Vendor: Widi Care
   Product Type: Gel
   Availability: Available
@@ -1593,14 +1593,14 @@
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/1688_padronizada-46233508774179.jpg?v=1792687051
   Price: 14.490,00 $ CLP
 - [Widi Care Phyto Keratin Carga de Queratina 250 ml](https://www.sb100dobrasil.cl/products/phyto-keratin-mascarilla-reconstructora-250-ml-carga-de-queratina): Reconstrucción intensiva para cabello dañado, poroso y quebradizo. Con fitoqueratina vegetal y aminoácidos, repone proteínas y fortalece. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:32Z
+  Updated: 2026-11-21T13:10:58Z
   Vendor: Widi Care
   Product Type: Mascarilla Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/1893_padronizada-46233508151587.jpg?v=1792687036
   Price: 15.490,00 $ CLP
 - [Widi Care Juba Gelatina Súper Definición 300 g](https://www.sb100dobrasil.cl/products/juba-gelatina-estilizadora-super-definicion-300-g): Definición y fijación hasta 72 horas para ondas, rizos y crespos. Con ácido hialurónico y linaza: controla el frizz sin resecar el cabello. Envíos a todo Chile
-  Updated: 2026-11-16T03:26:32Z
+  Updated: 2026-11-23T18:28:28Z
   Vendor: Widi Care
   Product Type: Gel
   Availability: Available
@@ -1677,37 +1677,37 @@
   Updated: 2026-11-16T12:18:15Z
   Total Products: 18
 - [Crema de Peinar](https://www.sb100dobrasil.cl/collections/crema-de-peinar-1): Definición y Suavidad Extrema. Consigue una melena perfecta con nuestras cremas de peinar de alta gama. Hidratación profunda y desenredo fácil con la calidad del hair care brasileño original ¡Resultados de salón en casa!
-  Updated: 2026-11-16T12:18:15Z
+  Updated: 2026-11-24T12:20:22Z
   Total Products: 30
 - [Mascarilla Capilar](https://www.sb100dobrasil.cl/collections/mascaras)
-  Updated: 2026-11-16T03:26:24Z
+  Updated: 2026-11-23T02:48:35Z
   Total Products: 45
 - [Post Alisado](https://www.sb100dobrasil.cl/collections/post-alisado)
   Updated: 2026-11-16T03:26:16Z
   Total Products: 3
 - [Gota Dourada](https://www.sb100dobrasil.cl/collections/gotissima): Productos capilares brasileños para fortalecer el cabello, apoyar su crecimiento y dejarlo más saludable, brillante y resistente desde la raíz.
-  Updated: 2026-11-16T12:18:15Z
+  Updated: 2026-11-24T12:20:22Z
   Total Products: 57
 - [Cabello Rizado](https://www.sb100dobrasil.cl/collections/cabello-rizado)
-  Updated: 2026-11-16T12:18:15Z
+  Updated: 2026-11-24T12:20:22Z
   Total Products: 102
 - [Cabellos Quimicamente Tratados](https://www.sb100dobrasil.cl/collections/cabellos-quimicamente-tratados)
-  Updated: 2026-11-16T03:25:39Z
+  Updated: 2026-11-24T12:20:22Z
   Total Products: 15
 - [Línea Hombre](https://www.sb100dobrasil.cl/collections/linea-hombre): Descubre cuidado capilar masculino con productos brasileños diseñados para hidratar, fortalecer y mantener el cabello limpio, suave y saludable
   Updated: 2026-11-16T03:24:31Z
   Total Products: 4
 - [Cabello Liso](https://www.sb100dobrasil.cl/collections/pack-liso-escova): Linea Escova de Gota Dourada que incluye shampoo, acondicionador, mascarilla y crema sin enjuague con fórmula profesional. Ideal para mantener el alisado, controlar el frizz y devolver el brillo desde la primera aplicación.
-  Updated: 2026-11-16T12:18:15Z
+  Updated: 2026-11-23T12:18:27Z
   Total Products: 25
 - [Aceite Capilar](https://www.sb100dobrasil.cl/collections/aceites): Descubre el secreto del brillo brasileño con nuestra selección de aceites capilares de calidad premium. Nutrición profunda, control del frizz y suavidad extrema con lo mejor del hair care de Brasil.¡Dale a tu cabello el cuidado profesional que merece!
-  Updated: 2026-11-16T03:26:28Z
-  Total Products: 15
+  Updated: 2026-11-23T20:17:17Z
+  Total Products: 14
 - [Lola From Rio](https://www.sb100dobrasil.cl/collections/lola-from-rio): Productos capilares 100% brasileños, veganos y libres de crueldad para cuidar tu cabello con fórmulas conscientes, modernas y efectivas.
   Updated: 2026-11-16T03:25:29Z
   Total Products: 21
 - [Skala](https://www.sb100dobrasil.cl/collections/skala): Productos capilares brasileños 100% veganos, con 0% ingredientes de origen animal, para hidratar, nutrir y cuidar todo tipo de cabello.
-  Updated: 2026-11-16T15:49:02Z
+  Updated: 2026-11-23T02:48:41Z
   Total Products: 30
 - [Corpo Dourado](https://www.sb100dobrasil.cl/collections/corpo-dourado): Corpo Dourado ofrece cuidado capilar brasileño con fórmulas pensadas para hidratar, nutrir y dejar el cabello visiblemente más suave y brillante.
   Updated: 2026-11-16T03:23:39Z
@@ -1727,37 +1727,37 @@ Envios a Todo Chile.
   Updated: 2026-11-16T03:25:41Z
   Total Products: 15
 - [Shampoo y Acondicionador](https://www.sb100dobrasil.cl/collections/shampoo-y-acondicionador)
-  Updated: 2026-11-16T12:18:15Z
+  Updated: 2026-11-23T12:18:27Z
   Total Products: 63
 - [Packs / Kits](https://www.sb100dobrasil.cl/collections/packs-kit): Conoce todos los packs y kits de productos capilares brasileños de SB 100% Do Brasil. Compra el pack o kit y ahorra dinero!
-  Updated: 2026-11-16T12:18:15Z
+  Updated: 2026-11-23T02:48:39Z
   Total Products: 15
 - [Linea Infantil](https://www.sb100dobrasil.cl/collections/linea-infantil): Linea de productos capilares brasileños creados para el cuidado y necesidades de los niños.Todo tipo de cabello. aportando brillo, suavidad y definicion.
-  Updated: 2026-11-16T03:26:23Z
+  Updated: 2026-11-23T02:48:32Z
   Total Products: 12
 - [Griffus Cosmetics](https://www.sb100dobrasil.cl/collections/griffus-cosmetics-chile): Productos capilares brasileños para cabello rizado, ondulado, afro. Cuidado capilar Innovador, accesible y libre de crueldad animal. Envios a todo Chile.
-  Updated: 2026-11-16T03:24:38Z
+  Updated: 2026-11-23T12:18:27Z
   Total Products: 9
 - [Salon Line](https://www.sb100dobrasil.cl/collections/salon-line-chile): Productos capilares brasileños para cabello rizado, ondulado, afro y liso. Cremas, mascarillas, activadores y más. Envios a todo Chile.
-  Updated: 2026-11-16T03:25:39Z
-  Total Products: 25
+  Updated: 2026-11-23T20:17:17Z
+  Total Products: 24
 - [Ofertas](https://www.sb100dobrasil.cl/collections/descuento-10-cyber): Productos con descuentos exclusivos, packs con rebajas y mucho mas. envíos a todo chile.
-  Updated: 2026-11-16T12:18:15Z
+  Updated: 2026-11-23T12:18:27Z
   Total Products: 8
 - [Widi Care](https://www.sb100dobrasil.cl/collections/widi-care): Compra Widi Care Chile: productos capilares brasileños para rizadas, onduladas y afro. Encuentra Juba, PhytoManga, cremas para peinar, mascarillas y tratamientos capilares. Envíos a todo Chile.
-  Updated: 2026-11-16T12:18:15Z
+  Updated: 2026-11-24T12:20:22Z
   Total Products: 13
 - [Cabello Ondulado](https://www.sb100dobrasil.cl/collections/ondulado): productos capilares para el cuidado de cabello ondulado. cuida tus ondas con lo mejor de brasil. envios a todo chile.
-  Updated: 2026-11-16T12:18:15Z
+  Updated: 2026-11-24T12:20:22Z
   Total Products: 50
 - [Cabello Crespo](https://www.sb100dobrasil.cl/collections/cabello-crespo)
-  Updated: 2026-11-16T12:18:15Z
+  Updated: 2026-11-23T02:48:40Z
   Total Products: 10
 - [Cabello Afro](https://www.sb100dobrasil.cl/collections/cabello-afro)
-  Updated: 2026-11-16T12:18:15Z
+  Updated: 2026-11-23T02:48:34Z
   Total Products: 10
 - [Todo Tipo de Cabello](https://www.sb100dobrasil.cl/collections/todo-tipo-de-cabello)
-  Updated: 2026-11-16T12:18:15Z
+  Updated: 2026-11-23T02:48:41Z
   Total Products: 142
 - [Dermachem](https://www.sb100dobrasil.cl/collections/dermachem): Productos de skincare brasileña para el cuidado de la piel facial. envios a todo chile.
   Updated: 2026-11-16T12:18:15Z
