@@ -6,7 +6,7 @@
 - Timezone: Europe/Dublin
 - Created At: 2026-05-03T14:41:45Z
 - Contact Email: ztopp_gift@outlook.com
-- Updated At: 2026-11-18T00:55:49.522Z
+- Updated At: 2026-11-25T00:59:33.235Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0994/6107/1134/files/Wireless_TV_Headphones_for_Seniors_Hearing_Impaired_Semi-In-Ear_TV_Amplifier_with_Independent_L_R_Volume_Adjustment.jpg?v=1790607199
   Price: $59.99 USD
 - [Portable Wireless TV Speaker for Seniors & Hard of Hearing](https://www.nightwooolf.com/products/nightwoolf-2-4-ghz-portable-wireless-seniors-tv-speakers): Portable wireless TV speaker for seniors with voice clarity and auto gain control. No headphones or wires - share the TV without blasting volume.
-  Updated: 2026-11-17T14:47:49Z
+  Updated: 2026-11-23T17:57:08Z
   Vendor: Nightwooolf
   Product Type: 
   Availability: Available
@@ -39,14 +39,14 @@
     Image: https://cdn.shopify.com/s/files/1/0994/6107/1134/files/Bluetooth_5.3_with_Real-Time_Echoic_for_Reading_Practice_Language_Training_Multisensory_Learning_headset.jpg?v=1790606691
     Price: $69.99 USD
 - [3-in-1 Bluetooth Transmitter Receiver for TV & Airplane](https://www.nightwooolf.com/products/nightwooolf-3-in-1-bluetooth-transmitter-receiver): 3-in-1 Bluetooth transmitter and receiver: stream TV or airplane audio to your AirPods, or make wired speakers wireless. AUX, 3.5mm, no app.
-  Updated: 2026-11-10T01:31:35Z
+  Updated: 2026-11-18T16:13:45Z
   Vendor: Nightwooolf
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0994/6107/1134/files/3_in_1_Bluetooth_Transmitter_Receiver_Wireless_Audio_Adapter_with_aptX_Adaptive_Support_2_AirPods_or_Headphones_3.5mm_AUX_Adapter_for_Planes_Cars_Travel_TV_PC_Gym_-_Airplane_Travel_Essentials.jpg?v=1790606137
   Price: $34.99 USD
 - [Wireless TV Headphones for Seniors – Large Buttons, One-Dial Volume](https://www.nightwooolf.com/products/wireless-tv-headphones-for-seniors-with-large-buttons): Oversized buttons and a single volume dial — no menus, no pairing. 2.4GHz wireless TV headphones that make dialogue clear again for seniors.
-  Updated: 2026-11-17T14:34:03Z
+  Updated: 2026-11-20T01:55:20Z
   Vendor: Nightwooolf
   Product Type: 
   Availability: Available
@@ -101,13 +101,13 @@
   Updated: 2026-11-17T14:31:52Z
   Total Products: 3
 - [TV Speakers for Seniors](https://www.nightwooolf.com/collections/seniors-tv-speakers): Wireless TV speakers built for seniors and hard-of-hearing viewers. One-dial volume, no pairing, no hearing aid needed. Compare models and pick the right one.
-  Updated: 2026-11-17T14:47:51Z
+  Updated: 2026-11-24T12:20:28Z
   Total Products: 1
 - [Bluetooth TV Adapters](https://www.nightwooolf.com/collections/bluetooth-adapters): `Bluetooth 5.2 transmitter and receiver for TVs, planes and car audio: aptX low latency, 12-hour battery and two pairs of headphones at once.`
-  Updated: 2026-11-17T14:31:24Z
+  Updated: 2026-11-19T12:21:36Z
   Total Products: 2
 - [Best Sellers](https://www.nightwooolf.com/collections/best-sellers): Shop Nightwooolf's best- wireless TV headphones and speakers for seniors. Top-rated audio devices with clear sound and easy wireless setup.
-  Updated: 2026-11-17T14:47:51Z
+  Updated: 2026-11-24T12:20:28Z
   Total Products: 8
 - [Memory & Language Learning Headsets](https://www.nightwooolf.com/collections/memory-learning-headphones): Echo feedback learning headset with Bluetooth and offline TF card playback. Hear your own voice while reading aloud to correct pronunciation and rhythm.
   Updated: 2026-10-28T13:55:55Z
@@ -122,7 +122,7 @@
   Updated: 2026-11-09T14:27:32Z
   Total Products: 2
 - [All products](https://www.nightwooolf.com/collections/all-products): Browse all Nightwooolf wireless headphones, TV speakers, and Bluetooth adapters designed for seniors. Clear sound, easy setup, reliable performance.
-  Updated: 2026-11-17T14:47:51Z
+  Updated: 2026-11-24T12:20:28Z
   Total Products: 10
 
 ## Blogs
@@ -158,6 +158,12 @@
   - [TV Speaker for a Parent With Hearing Loss: Setup Guide](https://www.nightwooolf.com/blogs/news/tv-speaker-for-elderly-parent-setup): TV Speaker for a Parent With Hearing Loss: Setup Guide
     Updated: 2026-11-08T14:05:32Z
     Author: NightWooolf
+  - [Hearing Aids vs TV Headphones vs Speaker: A Practical Guide](https://www.nightwooolf.com/blogs/news/hearing-aids-vs-tv-headphones-vs-speaker): Hearing Aids vs TV Headphones vs Speaker: A Practical Guide
+    Updated: 2026-11-23T14:19:01Z
+    Author: NightWooolf
+  - [Best Headphones for Asymmetric (One-Sided) Hearing Loss](https://www.nightwooolf.com/blogs/news/tv-headphones-asymmetric-one-sided-hearing-loss): Best Headphones for Asymmetric (One-Sided) Hearing Loss
+    Updated: 2026-11-23T14:23:12Z
+    Author: NightWooolf
 
 ## Store Pages
 
@@ -167,8 +173,8 @@
   Updated: 2026-10-06T05:02:52Z
 - [FAQ](https://www.nightwooolf.com/pages/faq): 
   Updated: 2026-10-28T11:48:22Z
-- [About Nightwooolf](https://www.nightwooolf.com/pages/about-nightwooolf): About Nightwooolf The founder of Nightwooolf was raised in a community dedicated to the welfare of the elderly, youth, and children, and deeply und...
-  Updated: 2026-10-28T11:48:04Z
+- [About Nightwooolf](https://www.nightwooolf.com/pages/about-nightwooolf): Better TV sound for the people who need it most. Our story The founder of Nightwooolf was raised in a community dedicated to the welfare of the eld...
+  Updated: 2026-11-20T14:50:43Z
 - [Privacy Policy](https://www.nightwooolf.com/pages/privacy-policy): Last updated: April 28, 2026 Introduction Nightwooolf (collectively,“we”, “our” or “us”) promise that your privacy is under protection as you’re vi...
   Updated: 2026-06-15T14:26:42Z
 - [Bluetooth LE Audio Guide | Nightwooolf Wireless Audio](https://www.nightwooolf.com/pages/bluetooth-le-audio-guide-nightwooolf-wireless-audio): 
