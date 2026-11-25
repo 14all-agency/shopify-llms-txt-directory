@@ -6,7 +6,7 @@
 - Timezone: Australia/Adelaide
 - Created At: 2025-06-21T06:21:38Z
 - Contact Email: carlos.r.lauthier@gmail.com
-- Updated At: 2026-11-17T01:05:25.184Z
+- Updated At: 2026-11-25T01:01:01.450Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/zmn7nn8-front-shortedge-384.jpg?v=1789606891
   Price: $44.00 USD
 - [Who Do You Think You Are? — Hardcover | Spiritual Self-Discovery](https://conscioussoulopreneur.com/products/spiritual-self-discovery-book-hardcover): Who Do You Think You Are? in hardcover, a spiritual memoir exploring identity, consciousness, purpose, and self-discovery. By Ruben Lauthier Wendt.
-  Updated: 2026-11-13T22:07:40Z
+  Updated: 2026-11-20T22:13:50Z
   Vendor: CONSCIOUS SOULOPRENEUR
   Product Type: Hardcover
   Availability: Available
