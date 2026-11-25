@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-10-11T17:55:32Z
 - Contact Email: novora.store88@gmail.com
-- Updated At: 2026-11-17T01:00:13.571Z
+- Updated At: 2026-11-25T00:52:40.655Z
 
 ## Products
 
@@ -3035,6 +3035,9 @@
     Author: vknpie-c6
   - [Dance Leotards for Women: Comfort, Fit & Buying Tips](https://novorashop94.store/blogs/news/dance-leotards-women-comfort-fit): Dance Leotards for Women: Comfort, Fit & Buying Tips
     Updated: 2026-11-16T14:00:14Z
+    Author: vknpie-c6
+  - [Yoga Leggings for Women: Fit and Fabric Buying Guide](https://novorashop94.store/blogs/news/yoga-leggings-women-fit-fabric): Yoga Leggings for Women: Fit and Fabric Buying Guide
+    Updated: 2026-11-23T14:00:19Z
     Author: vknpie-c6
 
 ## Store Pages
