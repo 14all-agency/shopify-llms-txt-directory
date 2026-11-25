@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2024-11-30T17:33:41Z
 - Contact Email: contact@myparismonaco.com
-- Updated At: 2026-11-17T01:07:07.939Z
+- Updated At: 2026-11-25T01:05:21.466Z
 
 ## Products
 
@@ -2513,26 +2513,26 @@
 ## Collections
 
 - [Robes & Jupes longues](https://www.myparismonaco.com/collections/robes-longues): Découvrez notre collection de robes & jupes longues élégantes, parfaites pour toutes les occasions. Des silhouettes fluides et sophistiquées qui incarnent le chic parisien et monégasque. - MyParisMonaco
-  Updated: 2026-11-16T17:05:07Z
-  Total Products: 197
+  Updated: 2026-11-24T16:22:26Z
+  Total Products: 202
 - [Robes & Jupes courtes](https://www.myparismonaco.com/collections/robes-courtes): Explorez notre sélection de robes courtes & jupes chics et modernes. Des pièces polyvalentes qui allient élégance et décontraction, idéales pour vos journées ensoleillées et soirées estivales. - MyParisMonaco
-  Updated: 2026-11-16T18:24:57Z
-  Total Products: 156
+  Updated: 2026-11-24T16:20:10Z
+  Total Products: 162
 - [Hauts & Pulls chics](https://www.myparismonaco.com/collections/hauts-chics): Découvrez notre collection de hauts raffinés, où l'élégance parisienne rencontre le glamour monégasque. Chaque pièce est soigneusement sélectionnée pour sublimer votre silhouette avec sophistication et modernité. Des chemisiers en soie aux tops structurés, notre sélection incarne l'art de vivre à la française : intemporel, chic et résolument féminin. Parfaits pour vos journées au bureau comme pour vos soirées d'exception, ces hauts s'accordent avec votre style de vie cosmopolite. Laissez-vous séduire par des coupes impeccables, des matières nobles et une attention particulière aux détails qui font toute la différence. - MyParisMonaco
-  Updated: 2026-11-16T16:49:18Z
-  Total Products: 315
+  Updated: 2026-11-24T16:27:24Z
+  Total Products: 327
 - [Ensemble & combinaisons](https://www.myparismonaco.com/collections/ensemble-chic): L'élégance parisienne rencontre le raffinement monégasque. Notre collection ensemble chic incarne l'art de vivre à la française avec une touche de sophistication méditerranéenne. Conçue pour la femme moderne qui apprécie les lignes épurées et les matières nobles, cette collection célèbre le chic intemporel. Chaque pièce est pensée pour s'harmoniser parfaitement, créant des silhouettes élégantes du matin au soir. Laissez-vous séduire par l'alliance subtile du bleu marine profond et du blanc immaculé, signature de notre maison, pour un style à la fois classique et contemporain. L'élégance n'est jamais une question de mode, c'est une question d'attitude. - MyParisMonaco
-  Updated: 2026-11-16T12:22:29Z
-  Total Products: 123
+  Updated: 2026-11-24T15:43:25Z
+  Total Products: 127
 - [Sacs à main, Bagages & Ceintures](https://www.myparismonaco.com/collections/sacs-a-main): Alliant l'élégance parisienne au raffinement de Monaco, notre sélection de sacs à main, bagages & Ceintures incarne le chic intemporel et la sophistication moderne. Chaque pièce est soigneusement choisie pour sublimer votre style avec une touche d'élégance française. Des modèles classiques aux créations contemporaines, nos sacs à main sont conçus pour accompagner la femme moderne dans tous ses moments, du quotidien aux occasions spéciales. Matériaux nobles, finitions impeccables et design raffiné : chaque détail compte pour créer des accessoires qui traversent le temps. Laissez-vous séduire par notre collection et trouvez le sac à main qui deviendra votre compagnon d'élégance au quotidien. - MyParisMonaco
-  Updated: 2026-11-09T12:01:19Z
+  Updated: 2026-11-20T06:08:45Z
   Total Products: 84
 - [Chaussures - Bottes](https://www.myparismonaco.com/collections/chaussures): La collection qui sublime chaque pas Découvrez notre sélection de chaussures qui allie élégance parisienne et confort absolu. Des baskets minimalistes aux escarpins raffinés, en passant par les bottines intemporelles et les sandales estivales, chaque paire est choisie pour sublimer votre style avec sophistication. Notre collection réunit les essentiels du vestiaire parisien : des pièces polyvalentes qui se portent aussi bien au quotidien qu'en soirée, des lignes épurées qui traversent les saisons, des matières nobles qui assurent qualité et durabilité. Que vous recherchiez des chaussures pour le bureau, une soirée spéciale ou vos week-ends décontractés, vous trouverez la paire parfaite pour compléter votre look. Notre sélection baskets : des modèles minimalistes en cuir blanc aux versions plus audacieuses, parfaites pour un look décontracté-chic parisien escarpins : des talons aiguilles classiques aux kitten heels, pour une élégance intemporelle du bureau à la soirée bottines : des modèles plats aux talons structurés, en cuir ou daim, essentiels pour l'automne et l'hiver sandales : des nu-pieds plats aux modèles à talons, pour un été chic et confortable mules : des versions à talons aux modèles plats, parfaites pour une élégance sans effort ballerines : des classiques intemporels qui se glissent dans tous les looks parisiens Le style parisien à vos pieds Chaque paire de notre collection est sélectionnée pour incarner cette élégance parisienne si particulière : des lignes épurées, des couleurs intemporelles, des détails raffinés. Nous privilégions les matières nobles comme le cuir, le daim souple et les véritables finitions soignées qui assurent confort et durabilité. Que vous soyez à la recherche de la paire parfaite pour compléter votre tenue de travail, sublimer une robe de soirée ou simplement vous sentir bien au quotidien, notre collection de chaussures vous accompagne à chaque instant avec style et confort. - MyParisMonaco
-  Updated: 2026-11-12T15:08:55Z
-  Total Products: 98
+  Updated: 2026-11-24T16:04:02Z
+  Total Products: 113
 - [Manteaux, blousons, vestes & gilets](https://www.myparismonaco.com/collections/manteaux-trenchs): Découvrez notre sélection de manteaux et vestes qui incarnent l'élégance parisienne intemporelle. Du trench classique beige au manteau en laine structuré, en passant par le perfecto en cuir et le pardessus long, chaque pièce est choisie pour sublimer votre silhouette et vous accompagner avec style à travers les saisons. Notre collection réunit les essentiels du vestiaire parisien : des coupes impeccables qui traversent les années, des matières nobles comme la laine vierge, le cachemire et le cuir de qualité, des finitions soignées qui garantissent durabilité et élégance. - MyParisMonaco
-  Updated: 2026-11-16T12:45:51Z
-  Total Products: 288
+  Updated: 2026-11-24T16:16:07Z
+  Total Products: 301
 - [Pantalons, shorts & jeans](https://www.myparismonaco.com/collections/pantalons-shorts-jeans): Découvrez notre sélection de pantalons, shorts et jeans qui incarnent l'élégance parisienne intemporelle. Du jean brut parfait au pantalon cigarette impeccable, en passant par le short tailleur et le pantalon large fluide, chaque pièce est choisie pour sublimer votre silhouette et composer un vestiaire polyvalent et sophistiqué. Notre collection réunit les essentiels du vestiaire parisien : des coupes impeccables qui traversent les saisons, des matières nobles comme le denim de qualité, la laine vierge et le coton premium, des finitions soignées qui garantissent durabilité et élégance. - MyParisMonaco
   Updated: 2026-11-16T12:09:55Z
   Total Products: 27
@@ -2540,23 +2540,23 @@
   Updated: 2026-11-09T10:56:23Z
   Total Products: 11
 - [Plage, Sport & Lunettes](https://www.myparismonaco.com/collections/plage-lunettes): Découvrez notre collection estivale qui célèbre l'art de vivre à la française. Des maillots de bain raffinés aux lunettes de soleil iconiques, chaque pièce est sélectionnée pour sa qualité exceptionnelle et son élégance intemporelle. Sublimez vos journées ensoleillées avec des essentiels qui allient sophistication parisienne et confort absolu, du bord de mer aux terrasses urbaines. L'été se vit avec style et distinction. - MyParisMonaco
-  Updated: 2026-11-09T10:56:33Z
+  Updated: 2026-11-20T01:58:19Z
   Total Products: 43
 - [Mode masculine](https://www.myparismonaco.com/collections/mode-masculine): Découvrez la mode masculine MyParisMonaco : costumes, chemises et manteaux de luxe aux silhouettes raffinées, entre Paris et Monaco.
   Updated: 2026-10-31T11:03:16Z
   Total Products: 60
 - [Automne & Halloween](https://www.myparismonaco.com/collections/halloween): Découvrez notre sélection Halloween & automne : pièces sombres, matières somptueuses et silhouettes dramatiques pour une élégance envoûtante.
-  Updated: 2026-11-10T23:21:35Z
+  Updated: 2026-11-20T06:09:38Z
   Total Products: 32
 - [Châles, Echarpes, Gants & Bonnets](https://www.myparismonaco.com/collections/chales-echarpes-gants-bonnets): Laine, cachemire, cuir souple — les accessoires qui font la douceur de l'hiver. Châles à draper, écharpes à enrouler, gants et bonnets pour affronter le froid
-  Updated: 2026-10-31T11:03:16Z
+  Updated: 2026-11-18T09:20:36Z
   Total Products: 11
 - [PM GIRLS](https://www.myparismonaco.com/collections/pm-girls): PM Girls — by MyParisMonaco notre Collection - MyParisMonaco
   Updated: 2026-11-09T10:56:48Z
   Total Products: 11
 - [Sortir](https://www.myparismonaco.com/collections/sortir): Sequins, dentelle, cristaux et satin — tout ce qui brille quand la nuit commence. Des robes courtes aux silhouettes longues, des looks cocktail aux tenues de
-  Updated: 2026-11-16T16:37:46Z
-  Total Products: 105
+  Updated: 2026-11-24T15:18:34Z
+  Total Products: 111
 - [Homme Chaussures - Bottes](https://www.myparismonaco.com/collections/homme-chaussures-bottes): Découvrez nos bottes homme en cuir, des modèles élégants et intemporels pour une silhouette parisienne affirmée.
   Updated: 2026-10-31T11:03:17Z
   Total Products: 6
@@ -2564,8 +2564,8 @@
   Updated: 2026-10-31T11:03:17Z
   Total Products: 35
 - [Manteaux - Vestes - Gilets](https://www.myparismonaco.com/collections/manteaux-vestes-gilets): Des manteaux, vestes et gilets aux coupes élégantes pour composer une silhouette parisienne en toute saison. Des matières raffinées et des lignes
-  Updated: 2026-11-12T15:48:11Z
-  Total Products: 29
+  Updated: 2026-11-24T15:21:42Z
+  Total Products: 30
 - [Pulls - Sweatshirts](https://www.myparismonaco.com/collections/pulls-sweatshirts): Des pulls et sweatshirts aux matières douces et aux coupes soigneusement pensées, pour conjuguer confort et élégance au quotidien. Des essentiels intemporels
   Updated: 2026-10-31T11:03:17Z
   Total Products: 6
@@ -2576,23 +2576,23 @@
   Updated: 2026-10-31T11:03:17Z
   Total Products: 4
 - [Noël & Fêtes](https://www.myparismonaco.com/collections/noel-et-fetes): Sélection mode pour les fêtes de fin d'année : tenues de réveillon, hauts festifs, accessoires et idées cadeaux. Élégance parisienne pour Noël et le Nouvel An.
-  Updated: 2026-11-16T12:52:42Z
-  Total Products: 65
+  Updated: 2026-11-24T14:44:53Z
+  Total Products: 68
 - [Accessoires & Livres de bord de mer](https://www.myparismonaco.com/collections/accessoires-livres-bord-de-mer): Accessoires et livres inspirés de la mer et de la navigation. Une sélection pour ceux qui vivent au rythme des marées, des voiliers et des terrasses côtières.
   Updated: 2026-11-09T10:56:31Z
   Total Products: 28
 - [Collections - Meilleures ventes](https://www.myparismonaco.com/collections/meilleures-ventes): Découvrez nos pièces les plus appréciées et une sélection de vêtements et accessoires au style parisien.
-  Updated: 2026-11-09T10:56:49Z
+  Updated: 2026-11-20T11:42:10Z
   Total Products: 50
 - [Cadeaux de fin d’année](https://www.myparismonaco.com/collections/cadeaux-fin-annee): Découvrez notre sélection cadeaux de fin d’année : foulard, écharpes et sacs pour offrir une touche d’élégance parisienne.
-  Updated: 2026-11-09T11:37:35Z
+  Updated: 2026-11-18T09:20:36Z
   Total Products: 13
 - [Handbags, Wallets & Cases](https://www.myparismonaco.com/collections/handbags-wallets-cases)
-  Updated: 2026-11-13T11:44:53Z
-  Total Products: 10
+  Updated: 2026-11-18T09:17:49Z
+  Total Products: 12
 - [Tout le catalogue](https://www.myparismonaco.com/collections/all): Découvrez l’univers MyParisMonaco : vêtements pour femmes et hommes, accessoires et art de vivre, entre allure parisienne et douceur méditerranéenne. Une sélection pour traverser les saisons avec élégance, du bord de mer aux terrasses de la ville.
-  Updated: 2026-11-16T18:25:38Z
-  Total Products: 1600
+  Updated: 2026-11-24T16:27:24Z
+  Total Products: 1662
 
 ## Blogs
 
@@ -2698,6 +2698,15 @@
   - [Innovant et chic: revisiter la mode seaside à la française](https://www.myparismonaco.com/blogs/news/innovant-et-chic-revisiter-la-mode-seaside-a-la-francaise): Innovant et chic: revisiter la mode seaside à la française
     Updated: 2026-11-16T00:07:31Z
     Author: MyParisMonaco - Amélie notre experte mode
+  - [Secrets pour intégrer élégamment des touches maritimes à Paris](https://www.myparismonaco.com/blogs/news/secrets-pour-integrer-elegamment-des-touches-maritimes-a-paris): Secrets pour intégrer élégamment des touches maritimes à Paris
+    Updated: 2026-11-18T00:09:48Z
+    Author: MyParisMonaco - Amélie notre experte mode
+  - [Créez votre propre style côtier adapté à l'élégance urbaine](https://www.myparismonaco.com/blogs/news/creez-votre-propre-style-cotier-adapte-a-lelegance-urbaine): Créez votre propre style côtier adapté à l'élégance urbaine
+    Updated: 2026-11-23T00:07:04Z
+    Author: MyParisMonaco - Amélie notre experte mode
+  - [Match parfait entre les trends balnéaires et le flair parisien](https://www.myparismonaco.com/blogs/news/match-parfait-entre-les-trends-balneaires-et-le-flair-parisien): Match parfait entre les trends balnéaires et le flair parisien
+    Updated: 2026-11-25T00:09:19Z
+    Author: MyParisMonaco - Amélie notre experte mode
 
 ## Store Pages
 
@@ -2731,7 +2740,7 @@
 - [Privacy Policy](https://www.myparismonaco.com/policies/privacy-policy)
   Updated: 2026-11-08T14:53:15Z
 - [Shipping Policy](https://www.myparismonaco.com/policies/shipping-policy)
-  Updated: 2026-11-08T14:54:27Z
+  Updated: 2026-11-20T10:38:02Z
 - [Refund Policy](https://www.myparismonaco.com/policies/refund-policy)
   Updated: 2026-11-08T14:52:13Z
 - [Terms of Service](https://www.myparismonaco.com/policies/terms-of-service)
