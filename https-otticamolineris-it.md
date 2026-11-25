@@ -6,12 +6,12 @@
 - Timezone: Europe/Rome
 - Created At: 2022-01-13T10:57:35Z
 - Contact Email: info@otticamolineris.it
-- Updated At: 2026-11-17T01:04:04.198Z
+- Updated At: 2026-11-25T00:57:22.079Z
 
 ## Products
 
 - [10610H - Ottica Molineris](https://otticamolineris.it/products/10610h): Occhiali da sole originali Matsuda 10610H. Modello unisex, di forma rotondo della collezione Matsuda 2022. La montatura è in titanio. Tutti gli occhiali da sole sono originali e garantiti. “Creo abiti per i sognatori che vogliono avere un look credibile”. Mitushiro Matsuda aveva questa visione quando propose pre la prima volta la sua collezione eyewear che letteralmente dominò il mercato dell’occhialeria di lusso. Gli occhiali derivano da un alta artigianalità abbinata ad un design estremamente creativo, dove la tradizione orientale si sposa alle tendenze contemporanee. - Ottica Molineris
-  Updated: 2026-10-20T07:05:37Z
+  Updated: 2026-11-23T03:26:29Z
   Vendor: Matsuda
   Product Type: Occhiali da sole
   Availability: Available
@@ -47,14 +47,14 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716737475218_q45_4e73e540-d926-48fa-bd24-819fec5d8315.jpg?v=1791676871
     Price: 205,00 € EUR
 - [FT0526 TOM FORD - Ottica Molineris](https://otticamolineris.it/products/alasdhair-ft-0526): TOM FORD FT0526: occhiali da sole da uomo firmati TOM FORD, con montatura geometrica in metallo. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 55 mm, ponte 17 mm, aste 145 mm. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:13:20Z
+  Updated: 2026-11-22T03:57:39Z
   Vendor: TOM FORD
   Product Type: Occhiali da sole
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/664689846986_q45_8fdda9b1-8aa1-4e9f-9fc1-bfc785db7c5b.jpg?v=1783430684
   Price: 350,00 € EUR
 - [ADRIANNA II MK 2024 MICHAEL KORS - Ottica Molineris](https://otticamolineris.it/products/adrianna-ii-mk-2024): MICHAEL KORS ADRIANNA II MK 2024 è un modello di occhiali da sole da donna firmato MICHAEL KORS caratterizzato da una montatura in acetato. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Le lenti in policarbonato offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 57 mm, ponte 16 mm, aste 135 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:17:11Z
+  Updated: 2026-11-21T10:37:15Z
   Vendor: MICHAEL KORS
   Product Type: Occhiali da sole
   Availability: Available
@@ -72,7 +72,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0725125961684_q45.jpg?v=1791676931
     Price: 131,00 € EUR
 - [AMIYAH/G/S KATE SPADE - Ottica Molineris](https://otticamolineris.it/products/amiyah-g-s): KATE SPADE NY AMIYAH/G/S è un modello di occhiali da sole da donna firmato KATE SPADE NY caratterizzato da una montatura rettangolare in acetato. Un modello versatile, facile da abbinare in ogni occasione.Le lenti polarizzate filtrano i riflessi e migliorano il contrasto nelle giornate più luminose.Misure: calibro 56 mm, ponte 17 mm, aste 140 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T16:12:16Z
+  Updated: 2026-11-17T10:17:36Z
   Vendor: KATE SPADE NY
   Product Type: Occhiali da sole
   Availability: Available
@@ -90,7 +90,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736389325_q45.jpg?v=1791421352
     Price: 210,00 € EUR
 - [FT0539 TOM FORD - Ottica Molineris](https://otticamolineris.it/products/andrea-02-ft-0539): TOM FORD FT0539: occhiali da sole da uomo firmati TOM FORD, con montatura rotonda in acetato. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 48 mm, ponte 20 mm, aste 145 mm. Disponibile in 5 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:13:23Z
+  Updated: 2026-11-22T03:57:39Z
   Vendor: TOM FORD
   Product Type: Occhiali da sole
   Availability: Available
@@ -113,7 +113,7 @@
     Availability: Available
     Price: 280,00 € EUR
 - [0AR6110 GIORGIO ARMANI - Ottica Molineris](https://otticamolineris.it/products/ar-6110): GIORGIO ARMANI 0AR6110 è un modello di occhiali da sole da uomo firmato GIORGIO ARMANI caratterizzato da una montatura squadrata in acciaio. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Le lenti in poliammide offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 58 mm, ponte 18 mm, aste 145 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-07-31T11:56:36Z
+  Updated: 2026-11-22T03:57:42Z
   Vendor: GIORGIO ARMANI
   Product Type: Occhiali da sole
   Availability: Available
@@ -127,7 +127,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597204477_q45_8c3c18a4-d06b-46ac-9e0d-ac8d4f7e1369.jpg?v=1783431061
     Price: 221,00 € EUR
 - [0AR6112J GIORGIO ARMANI - Ottica Molineris](https://otticamolineris.it/products/ar-6112j): GIORGIO ARMANI 0AR6112J: occhiali da sole da uomo firmati GIORGIO ARMANI, con montatura rettangolare in metallo. Un equilibrio riuscito tra carattere e leggerezza.Le lenti in poliammide offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 54 mm, ponte 21 mm, aste 145 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:12:46Z
+  Updated: 2026-11-22T03:57:43Z
   Vendor: GIORGIO ARMANI
   Product Type: Occhiali da sole
   Availability: Available
@@ -141,7 +141,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597335782_q45_491e385b-aa73-406f-b042-9b4ad7e50942.jpg?v=1783431062
     Price: 284,00 € EUR
 - [ARTLINE 5546/JT SILHOUETTE - Ottica Molineris](https://otticamolineris.it/products/artline-5546-jt): SILHOUETTE ARTLINE 5546/JT: un articolo firmato SILHOUETTE della linea occhiali da vista.Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:13:05Z
+  Updated: 2026-11-17T13:46:32Z
   Vendor: SILHOUETTE
   Product Type: Occhiali da vista
   Availability: Available
@@ -154,7 +154,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/888465476154_q45.jpg?v=1790568082
     Price: 629,00 € EUR
 - [AR 8146 GIORGIO ARMANI - Ottica Molineris](https://otticamolineris.it/products/ar-8146): GIORGIO ARMANI AR 8146: occhiali da sole da donna firmati GIORGIO ARMANI, con montatura rotonda in acetato. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 50 mm, ponte 21 mm, aste 145 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:12:50Z
+  Updated: 2026-11-17T14:12:41Z
   Vendor: GIORGIO ARMANI
   Product Type: Occhiali da sole
   Availability: Available
@@ -167,7 +167,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597415514_q45_e9bf6906-36fc-478e-9d61-83a68bf135d1.jpg?v=1783431147
     Price: 263,00 € EUR
 - [FT0904 TOM FORD - Ottica Molineris](https://otticamolineris.it/products/aurele-ft-0904): Gli occhiali da sole da uomo TOM FORD FT0904 presentano una montatura rotonda in acetato dalle linee curate. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 50 mm, ponte 19 mm, aste 145 mm. Disponibile in 5 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-12T19:12:37Z
+  Updated: 2026-11-24T21:12:36Z
   Vendor: TOM FORD
   Product Type: Occhiali da sole
   Availability: Available
@@ -225,7 +225,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214605368_q45.jpg?v=1791677091
     Price: 280,00 € EUR
 - [0RB3026 RAY-BAN - Ottica Molineris](https://otticamolineris.it/products/aviator-large-metal-ii-rb-3026): RAY-BAN 0RB3026 è un modello di occhiali da sole unisex firmato RAY-BAN caratterizzato da una montatura a goccia in metallo. Un equilibrio riuscito tra carattere e leggerezza.Le lenti in cristallo offrono una visione nitida e confortevole in ogni condizione di luce. Il modello è predisposto per il montaggio di lenti graduate (RX).Misure: calibro 62 mm, ponte 14 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T20:13:26Z
+  Updated: 2026-11-22T03:57:43Z
   Vendor: RAY-BAN
   Product Type: Occhiali da sole
   Availability: Available
@@ -239,7 +239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/805289628460_q45_eccdcde5-ea0f-41a2-8cbc-46b4ad1b4094.jpg?v=1783431034
     Price: 163,00 € EUR
 - [AVIATOR LARGE METAL RX 6489 RAY-BAN - Ottica Molineris](https://otticamolineris.it/products/aviator-large-metal-rx-6489): RAY-BAN AVIATOR LARGE METAL RX 6489: un articolo firmato RAY-BAN della linea occhiali da vista, realizzato in metallo.Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T15:13:12Z
+  Updated: 2026-11-22T03:57:49Z
   Vendor: RAY-BAN
   Product Type: Occhiali da vista
   Availability: Available
@@ -308,7 +308,7 @@
     Availability: Not Available
     Price: 163,00 € EUR
 - [BATWOLF OO 9101 OAKLEY - Ottica Molineris](https://otticamolineris.it/products/batwolf-oo-9101): OAKLEY BATWOLF OO 9101 è un modello di occhiali da sole da uomo firmato OAKLEY. Un equilibrio riuscito tra carattere e leggerezza.Le lenti in policarbonato offrono una visione nitida e confortevole in ogni condizione di luce.Misure: ponte 12 mm, aste 130 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:12:56Z
+  Updated: 2026-11-21T10:37:15Z
   Vendor: OAKLEY
   Product Type: Occhiali da sole
   Availability: Available
@@ -321,21 +321,21 @@
     Availability: Available
     Price: 172,00 € EUR
 - [BALLISTIC M FRAME 2.0 OO 9213 OAKLEY - Ottica Molineris](https://otticamolineris.it/products/ballistic-m-frame-2-0-oo-9213): OAKLEY BALLISTIC M FRAME 2.0 OO 9213: occhiali da sole da uomo firmati OAKLEY. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Le lenti in policarbonato offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 32 mm, ponte 13 mm, aste 136 mm. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T20:12:58Z
+  Updated: 2026-11-22T03:57:39Z
   Vendor: OAKLEY
   Product Type: Occhiali da sole
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0888392181077_q45_19cc4748-05b0-4b28-9eea-0b09231371e1.jpg?v=1785507191
   Price: 152,00 € EUR
 - [BELIEVER (-) DITA - Ottica Molineris](https://otticamolineris.it/products/believer): DITA BELIEVER (-): un articolo firmato DITA della linea occhiali da vista, realizzato in metallo.Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T16:13:43Z
+  Updated: 2026-11-17T14:33:50Z
   Vendor: DITA
   Product Type: Occhiali da vista
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0814981027792_q45.jpg?v=1783578961
   Price: 460,00 € EUR
 - [BB0096S BALENCIAGA - Ottica Molineris](https://otticamolineris.it/products/bb0096s): BALENCIAGA BB0096S: occhiali da sole da donna firmati BALENCIAGA, con montatura geometrica in acetato. Un equilibrio riuscito tra carattere e leggerezza.Le lenti in nylon offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 51 mm, ponte 18 mm, aste 130 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:17:11Z
+  Updated: 2026-11-17T14:18:01Z
   Vendor: BALENCIAGA
   Product Type: Occhiali da sole
   Availability: Available
@@ -362,7 +362,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889652682716_q45.jpg?v=1791676996
     Price: 385,00 € EUR
 - [0OV1002S OLIVER PEOPLES - Ottica Molineris](https://otticamolineris.it/products/benedict-ov-1002s): Gli occhiali da sole da uomo OLIVER PEOPLES 0OV1002S presentano una montatura a goccia in metallo dalle linee curate. Un modello versatile, facile da abbinare in ogni occasione.Le lenti in cristallo offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 59 mm, ponte 16 mm, aste 130 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-24T15:32:10Z
+  Updated: 2026-11-21T10:37:10Z
   Vendor: OLIVER PEOPLES
   Product Type: Occhiali da sole
   Availability: Available
@@ -384,7 +384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827934524910_q45.jpg?v=1790084543
     Price: 395,00 € EUR
 - [BANYANS 412 MAUI JIM - Ottica Molineris](https://otticamolineris.it/products/banyans-412): Gli occhiali da sole unisex MAUI JIM BANYANS 412 presentano una montatura geometrica in nylon dalle linee curate. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 70 mm, ponte 13 mm, aste 140 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:16:56Z
+  Updated: 2026-11-17T13:59:01Z
   Vendor: MAUI JIM
   Product Type: Occhiali da sole
   Availability: Available
@@ -400,7 +400,7 @@
     Availability: Not Available
     Price: 237,00 € EUR
 - [BARI KATE SPADE - Ottica Molineris](https://otticamolineris.it/products/bari): KATE SPADE NY BARI: un articolo firmato KATE SPADE NY della linea occhiali da vista, realizzato in acetato.Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-10-15T23:57:39Z
+  Updated: 2026-11-21T10:37:08Z
   Vendor: KATE SPADE NY
   Product Type: Occhiali da vista
   Availability: Available
@@ -452,21 +452,21 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214608789_q45.jpg?v=1791677074
     Price: 310,00 € EUR
 - [BLEND 5555/KU SILHOUETTE - Ottica Molineris](https://otticamolineris.it/products/blend-5555-ku): SILHOUETTE BLEND 5555/KU: un articolo firmato SILHOUETTE della linea occhiali da vista, realizzato in titanio.Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T21:17:01Z
+  Updated: 2026-11-17T13:51:36Z
   Vendor: SILHOUETTE
   Product Type: Occhiali da vista
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/7434242662666_q45.jpg?v=1783578770
   Price: 357,00 € EUR
 - [BB0161S - Ottica Molineris](https://otticamolineris.it/products/bb0161s): Occhiali da sole originali Balenciaga BB0161S. Modello unisex, di forma geometrico della collezione Balenciaga 2023. La montatura è in acetato. Tutti gli occhiali da sole sono originali e garantiti. Creazioni di glam e di lusso sono la parola d’ordine degli occhiali del marchio Balenciaga. un Design innovativo, volumi inediti, offrendoci vasta scelta, dalle forme più rigorose a modelli con linee sinuose, sono le principali qualità di questo brand esclusivo. I materiali sono di estrema qualità e danno vita a montature da sole e da vista sofisticati ed eleganti. - Ottica Molineris
-  Updated: 2026-11-16T12:12:57Z
+  Updated: 2026-11-23T03:26:29Z
   Vendor: BALENCIAGA
   Product Type: Occhiali da sole
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/products/img_art_BB0161S_002_F-large-feed.jpg?v=1785509013
   Price: 268,00 € EUR
 - [BOSS 1322/S HUGO BOSS - Ottica Molineris](https://otticamolineris.it/products/boss-1322-s): Gli occhiali da sole da uomo HUGO BOSS BOSS 1322/S presentano una montatura in acetato dalle linee curate. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 55 mm, ponte 18 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-11T10:25:50Z
+  Updated: 2026-11-21T10:37:08Z
   Vendor: HUGO BOSS
   Product Type: Occhiali da sole
   Availability: Available
@@ -484,14 +484,14 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736436876_q45.jpg?v=1791334926
     Price: 260,00 € EUR
 - [BP0228 CABARET - Ottica Molineris](https://otticamolineris.it/products/bp0228-cabaret): Occhiali da sole originali Barton Perreira BP0228 CABARET. Modello donna, di forma cat-eye della collezione Barton Perreira 2023. La montatura è in acetato. Tutti gli occhiali da sole sono originali e garantiti. - Ottica Molineris
-  Updated: 2026-11-16T12:12:47Z
+  Updated: 2026-11-23T03:26:27Z
   Vendor: BARTON PERREIRA
   Product Type: Occhiali da sole
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/products/img_art_BP0228_CABARET_0GX-large-feed.jpg?v=1688563309
   Price: 209,00 € EUR
 - [BILL RB 2198 RAY-BAN - Ottica Molineris](https://otticamolineris.it/products/bill-rb-2198): RAY-BAN BILL RB 2198 è un modello di occhiali da sole unisex firmato RAY-BAN caratterizzato da una montatura in acetato. Un equilibrio riuscito tra carattere e leggerezza.Le lenti in cristallo offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 60 mm, ponte 14 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T20:13:33Z
+  Updated: 2026-11-21T10:37:17Z
   Vendor: RAY-BAN
   Product Type: Occhiali da sole
   Availability: Available
@@ -512,10 +512,10 @@
     Availability: Not Available
     Price: 213,00 € EUR
   - [56/14/145 / Black (901/58)](https://otticamolineris.it/products/bill-rb-2198?variant=54294585508168)
-    Availability: Not Available
+    Availability: Available
     Price: 213,00 € EUR
   - [56/14/145 / Havana](https://otticamolineris.it/products/bill-rb-2198?variant=54294585540936)
-    Availability: Not Available
+    Availability: Available
     Price: 213,00 € EUR
   - [60/14/145 / Havana](https://otticamolineris.it/products/bill-rb-2198?variant=54294585573704)
     Availability: Available
@@ -530,7 +530,7 @@
     Availability: Not Available
     Price: 213,00 € EUR
 - [BOSS 1240/S HUGO BOSS - Ottica Molineris](https://otticamolineris.it/products/boss-1240-s): HUGO BOSS BOSS 1240/S è un modello di occhiali da sole da uomo firmato HUGO BOSS caratterizzato da una montatura rettangolare in metallo. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 60 mm, ponte 15 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-11T20:26:01Z
+  Updated: 2026-11-21T10:37:11Z
   Vendor: HUGO BOSS
   Product Type: Occhiali da sole
   Availability: Available
@@ -542,8 +542,29 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736361468_q45.jpg?v=1791604944
     Price: 230,00 € EUR
+- [BRONWEN KATE SPADE - Ottica Molineris](https://otticamolineris.it/products/bronwen): KATE SPADE NY BRONWEN: un articolo firmato KATE SPADE NY della linea occhiali da vista, realizzato in acetato.Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
+  Updated: 2026-11-21T10:37:13Z
+  Vendor: KATE SPADE NY
+  Product Type: Occhiali da vista
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736152813_q45.jpg?v=1791676887
+  - [50/15/140 / Havana](https://otticamolineris.it/products/bronwen?variant=53491284967752)
+    Availability: Available
+    Price: 170,00 € EUR
+  - [52/15/123.8 / Havana](https://otticamolineris.it/products/bronwen?variant=54269856514376)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736152813_q45.jpg?v=1791676887
+    Price: 170,00 € EUR
+  - [50/15/119.2 / Violet horn](https://otticamolineris.it/products/bronwen?variant=54269856547144)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736282497_q45.jpg?v=1791676888
+    Price: 170,00 € EUR
+  - [52/15/123.8 / Violet horn](https://otticamolineris.it/products/bronwen?variant=54269856579912)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736282503_q45.jpg?v=1791676887
+    Price: 170,00 € EUR
 - [BUTTERFLY VA 1015 VALENTINO - Ottica Molineris](https://otticamolineris.it/products/butterfly-va-1015): VALENTINO BUTTERFLY VA 1015: un articolo firmato VALENTINO della linea occhiali da vista, realizzato in metallo.Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T16:25:27Z
+  Updated: 2026-11-17T13:47:27Z
   Vendor: VALENTINO
   Product Type: Occhiali da vista
   Availability: Available
@@ -556,14 +577,31 @@
     Availability: Available
     Price: 230,00 € EUR
 - [BV1032O BOTTEGA VENETA - Ottica Molineris](https://otticamolineris.it/products/bv1032o): BOTTEGA VENETA BV1032O: un articolo firmato BOTTEGA VENETA della linea occhiali da vista, realizzato in acetato.Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T15:19:15Z
+  Updated: 2026-11-17T13:57:46Z
   Vendor: BOTTEGA VENETA
   Product Type: Occhiali da vista
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889652282497_q45_18e9bff6-c8b3-4d20-9cdb-ffa1cbedba9f.jpg?v=1791676935
   Price: 297,00 € EUR
+- [BV1142S BOTTEGA VENETA - Ottica Molineris](https://otticamolineris.it/products/bv1142s): Gli occhiali da sole da donna BOTTEGA VENETA BV1142S presentano una montatura geometrica in acetato dalle linee curate. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 49 mm, ponte 22 mm, aste 140 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
+  Updated: 2026-11-23T03:26:42Z
+  Vendor: BOTTEGA VENETA
+  Product Type: Occhiali da sole
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889652383378_q45_a6636c31-17c4-48a9-ab24-63de8cebc8ca.jpg?v=1785510888
+  - [49/22/140 / Havana/brown](https://otticamolineris.it/products/bv1142s?variant=53466509410632)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889652383378_q45_a6636c31-17c4-48a9-ab24-63de8cebc8ca.jpg?v=1785510888
+    Price: 477,00 € EUR
+  - [49/22/140 / Yellow/gold](https://otticamolineris.it/products/bv1142s?variant=53466509443400)
+    Availability: Available
+    Price: 345,00 € EUR
+  - [49/22/140 / Green/green](https://otticamolineris.it/products/bv1142s?variant=53466509476168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889652383422_q45_5e372e1a-24de-45bb-baa5-e492d5bf5c7f.jpg?v=1785510916
+    Price: 345,00 € EUR
 - [CAILYE KATE SPADE - Ottica Molineris](https://otticamolineris.it/products/cailye): KATE SPADE NY CAILYE: un articolo firmato KATE SPADE NY della linea occhiali da vista, realizzato in acetato.Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:13:40Z
+  Updated: 2026-11-21T10:37:11Z
   Vendor: KATE SPADE NY
   Product Type: Occhiali da vista
   Availability: Available
@@ -577,7 +615,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736282725_q45_8b77c92d-3a6b-410d-beac-231e35732f29.jpg?v=1791586997
     Price: 175,00 € EUR
 - [BV1031S BOTTEGA VENETA - Ottica Molineris](https://otticamolineris.it/products/bv1031s): Gli occhiali da sole da donna BOTTEGA VENETA BV1031S presentano una montatura geometrica in acetato dalle linee curate. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 52 mm, ponte 21 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T14:18:06Z
+  Updated: 2026-11-17T14:20:06Z
   Vendor: BOTTEGA VENETA
   Product Type: Occhiali da sole
   Availability: Available
@@ -595,7 +633,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889652406336_q45_2023f6f5-2a7e-4c7c-9152-d2a5bbd6f613.jpg?v=1783430477
     Price: 297,00 € EUR
 - [0RB3136 RAY-BAN - Ottica Molineris](https://otticamolineris.it/products/caravan-rb-3136): RAY-BAN 0RB3136: occhiali da sole unisex firmati RAY-BAN, con montatura squadrata in metallo. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Le lenti in cristallo offrono una visione nitida e confortevole in ogni condizione di luce. Il modello è predisposto per il montaggio di lenti graduate (RX).Misure: calibro 55 mm, ponte 15 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-07-31T11:57:25Z
+  Updated: 2026-11-22T03:57:43Z
   Vendor: RAY-BAN
   Product Type: Occhiali da sole
   Availability: Available
@@ -647,7 +685,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214318237_q45_b2ef61f9-3f66-4bd7-8fcf-96bc1e73f832.jpg?v=1794392216
     Price: 295,00 € EUR
 - [CARDUC 001/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carduc-001-s): Gli occhiali da sole da uomo CARRERA CARDUC 001/S presentano una montatura in poliammide dalle linee curate. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 57 mm, ponte 18 mm, aste 135 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-13T19:13:22Z
+  Updated: 2026-11-21T10:37:20Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
@@ -665,7 +703,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736796260_q45_b23bbec1-3050-40ee-acca-b5702f0ec620.jpg?v=1791677047
     Price: 139,00 € EUR
 - [CARRERA 1001/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-1001-s): Gli occhiali da sole da uomo CARRERA 1001/S presentano una montatura squadrata in poliammide dalle linee curate. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 62 mm, ponte 11 mm, aste 140 mm. Disponibile in 5 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T15:13:23Z
+  Updated: 2026-11-21T10:37:16Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
@@ -695,7 +733,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753610317_q45_1509e7b2-4aab-4ded-89ce-ee1e0c0600d3.jpg?v=1791677054
     Price: 169,00 € EUR
 - [BV1121S BOTTEGA VENETA - Ottica Molineris](https://otticamolineris.it/products/bv1121s): Gli occhiali da sole da donna BOTTEGA VENETA BV1121S presentano una montatura geometrica in acetato dalle linee curate. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 55 mm, ponte 16 mm, aste 140 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:17:19Z
+  Updated: 2026-11-23T03:26:41Z
   Vendor: BOTTEGA VENETA
   Product Type: Occhiali da sole
   Availability: Available
@@ -772,7 +810,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886072576_q45_b5f544f9-bb0b-4fce-9c3b-3bea5ed30b16.jpg?v=1791677056
     Price: 179,00 € EUR
 - [CARRERA 5039/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-5039-s): Gli occhiali da sole da uomo CARRERA 5039/S presentano una montatura in poliammide dalle linee curate. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 58 mm, ponte 16 mm, aste 145 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T07:13:13Z
+  Updated: 2026-11-21T10:37:10Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
@@ -790,7 +828,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753946164_q45_106da836-e11e-45a4-8f15-3302870597a0.jpg?v=1791586907
     Price: 109,00 € EUR
 - [0BV6149B BULGARI - Ottica Molineris](https://otticamolineris.it/products/bvlgari-bvlgari-bv-6149b): BULGARI 0BV6149B è un modello di occhiali da sole da donna firmato BULGARI caratterizzato da una montatura in metallo. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 56 mm, ponte 18 mm, aste 140 mm. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-11T16:10:46Z
+  Updated: 2026-11-23T03:26:46Z
   Vendor: BULGARI
   Product Type: Occhiali da sole
   Availability: Available
@@ -823,7 +861,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709758_q45_9e07ff4f-0e9c-48ae-997d-a9a05b34b7fc.jpg?v=1791334968
     Price: 115,00 € EUR
 - [CARRERA 225 CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-225): CARRERA 225: un articolo firmato CARRERA della linea occhiali da vista, realizzato in acetato.Disponibile in 6 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-10-20T09:17:45Z
+  Updated: 2026-11-21T10:37:11Z
   Vendor: CARRERA
   Product Type: Occhiali da vista
   Availability: Available
@@ -859,7 +897,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886070718_q45_6c096fa7-ca50-49d8-9372-e64c76eb2718.jpg?v=1791587178
     Price: 139,00 € EUR
 - [CARRERA 256/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-256-s): CARRERA 256/S: occhiali da sole da uomo firmati CARRERA, con montatura rettangolare in metallo. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 58 mm, ponte 18 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T21:12:36Z
+  Updated: 2026-11-22T03:57:40Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
@@ -873,7 +911,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736360904_q45_ce96e2e0-260b-47c6-b820-cfff0322aaf8.jpg?v=1783430743
     Price: 199,00 € EUR
 - [CAMI/S JIMMY CHOO - Ottica Molineris](https://otticamolineris.it/products/cami-s): JIMMY CHOO CAMI/S: occhiali da sole da donna firmati JIMMY CHOO, con montatura in acetato. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 56 mm, ponte 17 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T20:13:54Z
+  Updated: 2026-11-21T10:37:12Z
   Vendor: JIMMY CHOO
   Product Type: Occhiali da sole
   Availability: Available
@@ -890,21 +928,21 @@
     Availability: Not Available
     Price: 176,00 € EUR
 - [CARRERA 8037/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-8037-s): CARRERA 8037/S: occhiali da sole da uomo firmati CARRERA, con montatura rettangolare in metallo. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 58 mm, ponte 18 mm, aste 140 mm. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-11T19:40:51Z
+  Updated: 2026-11-22T03:57:39Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736230511_q45_bb0686ee-a296-4a28-9b10-73cbc6a4beec.jpg?v=1783430798
   Price: 199,00 € EUR
 - [CARRERA 5041/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-5041-s): CARRERA 5041/S: occhiali da sole da uomo firmati CARRERA, con montatura rettangolare in poliammide. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 56 mm, ponte 16 mm, aste 145 mm. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-10-20T08:14:12Z
+  Updated: 2026-11-22T03:57:40Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753614025_q45_a3d4c13e-b6f2-42a7-b8e8-495db39f496c.jpg?v=1783430796
   Price: 109,00 € EUR
 - [CATS 5000 RB 4125 RAY-BAN - Ottica Molineris](https://otticamolineris.it/products/cats-5000-rb-4125): RAY-BAN CATS 5000 RB 4125 è un modello di occhiali da sole da uomo firmato RAY-BAN. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Le lenti in cristallo offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 59 mm, ponte 13 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:13:24Z
+  Updated: 2026-11-21T10:37:07Z
   Vendor: RAY-BAN
   Product Type: Occhiali da sole
   Availability: Available
@@ -926,7 +964,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8053672788761_q45.jpg?v=1790084235
     Price: 173,00 € EUR
 - [CARRERA 8055/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-8055-s): CARRERA 8055/S è un modello di occhiali da sole da uomo firmato CARRERA caratterizzato da una montatura rettangolare in poliammide. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 58 mm, ponte 16 mm, aste 145 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-11T19:13:16Z
+  Updated: 2026-11-23T19:12:47Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
@@ -952,7 +990,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736796093_q45.jpg?v=1791676870
     Price: 159,00 € EUR
 - [CARY GRANT SUN OV 5413SU OLIVER PEOPLES - Ottica Molineris](https://otticamolineris.it/products/cary-grant-sun-ov-5413su): Gli occhiali da sole unisex OLIVER PEOPLES CARY GRANT SUN OV 5413SU presentano una montatura geometrica in acetato dalle linee curate. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 50 mm, ponte 22 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:13:09Z
+  Updated: 2026-11-17T10:14:29Z
   Vendor: OLIVER PEOPLES
   Product Type: Occhiali da sole
   Availability: Available
@@ -979,14 +1017,14 @@
     Availability: Not Available
     Price: 334,00 € EUR
 - [CAZAL 8505 CAZAL - Ottica Molineris](https://otticamolineris.it/products/cazal-8505): CAZAL 8505 è un modello di occhiali da sole unisex firmato CAZAL caratterizzato da una montatura in acetato. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 57 mm, ponte 16 mm. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T14:14:32Z
+  Updated: 2026-11-17T10:14:33Z
   Vendor: CAZAL
   Product Type: Occhiali da sole
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386522204_q45_9841c2b5-e6c0-4a26-83c2-8988b0d9c6e1.jpg?v=1785516388
   Price: 438,00 € EUR
 - [CAZAL 675 CAZAL - Ottica Molineris](https://otticamolineris.it/products/cazal-675): CAZAL 675 è un modello di occhiali da sole unisex firmato CAZAL caratterizzato da una montatura a goccia in titanio. Un equilibrio riuscito tra carattere e leggerezza.Le lenti in policarbonato offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 60 mm, ponte 14 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T16:15:21Z
+  Updated: 2026-11-17T10:18:30Z
   Vendor: CAZAL
   Product Type: Occhiali da sole
   Availability: Available
@@ -1004,7 +1042,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386528565_q45.jpg?v=1791676934
     Price: 459,00 € EUR
 - [CARRERA 247/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-247-s): CARRERA 247/S è un modello di occhiali da sole da uomo firmato CARRERA caratterizzato da una montatura in titanio. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 58 mm, ponte 17 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-11T16:02:26Z
+  Updated: 2026-11-21T10:37:18Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
@@ -1018,14 +1056,14 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736360942_q45.jpg?v=1791677080
     Price: 249,00 € EUR
 - [CAZAL 790 CAZAL - Ottica Molineris](https://otticamolineris.it/products/cazal-790): CAZAL 790: un articolo firmato CAZAL della linea occhiali da vista, realizzato in titanio.Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T16:04:01Z
+  Updated: 2026-11-22T03:57:47Z
   Vendor: CAZAL
   Product Type: Occhiali da vista
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386521238_q45.jpg?v=1783578871
   Price: 418,00 € EUR
 - [CAZAL 6004-3 - Ottica Molineris](https://otticamolineris.it/products/cazal-6004-3): Occhiali da sole originali Cazal CAZAL 6004-3. Modello unisex, di forma geometrica della collezione Cazal 2023. La montatura è in acetato. Tutti gli occhiali da sole sono originali e garantiti. E’ moda, design, attitudine. . . Parliamo della collezione Cazal. . . che vi lascerà a bocca aperta! Il brand propone una collezione creata negli anni '80, uno stile che ha definito la scena hip-hop di New York, fino ad oggi. Montature in acetato massiccio che sono diventate lo stile e lo status symbol di rapper e break-dancers. Le forme stravaganti e il design audace sono uniche nel loro aspetto e parlano una lingua che è estranea agli scettici di design. - Ottica Molineris
-  Updated: 2026-10-20T14:39:42Z
+  Updated: 2026-11-23T03:26:27Z
   Vendor: Cazal
   Product Type: Occhiali da sole
   Availability: Available
@@ -1051,7 +1089,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/products/img_art_CAZAL_6004_3_017-large-feed.jpg?v=1785516790
     Price: 359,00 € EUR
 - [CARRERA 4410 CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-4410): CARRERA 4410: un articolo firmato CARRERA della linea occhiali da vista, realizzato in poliammide.Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-10-16T02:40:58Z
+  Updated: 2026-11-21T10:37:08Z
   Vendor: CARRERA
   Product Type: Occhiali da vista
   Availability: Available
@@ -1073,7 +1111,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886070909_q45.jpg?v=1791468076
     Price: 179,00 € EUR
 - [CAZAL 669 CAZAL - Ottica Molineris](https://otticamolineris.it/products/cazal-669): CAZAL 669 è un modello di occhiali da sole unisex firmato CAZAL caratterizzato da una montatura geometrica in acetato. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 56 mm, ponte 18 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T16:23:45Z
+  Updated: 2026-11-17T13:49:36Z
   Vendor: CAZAL
   Product Type: Occhiali da sole
   Availability: Available
@@ -1086,7 +1124,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386523430_q45.jpg?v=1791676933
     Price: 459,00 € EUR
 - [CARRERA 6000 CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-6000): Gli occhiali da sole da uomo CARRERA 6000 presentano una montatura squadrata dalle linee curate. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 50 mm, ponte 23 mm, aste 145 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:13:03Z
+  Updated: 2026-11-17T10:20:07Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
@@ -1106,7 +1144,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886223435_q45.jpg?v=1791676867
     Price: 100,00 € EUR
 - [CF 7004/S CHIARA FERRAGNI - Ottica Molineris](https://otticamolineris.it/products/cf-7004-s): CHIARA FERRAGNI CF 7004/S: occhiali da sole da donna firmati CHIARA FERRAGNI, con montatura ovale in propionato. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 50 mm, ponte 21 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:13:33Z
+  Updated: 2026-11-21T10:37:07Z
   Vendor: CHIARA FERRAGNI
   Product Type: Occhiali da sole
   Availability: Available
@@ -1120,7 +1158,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736724027_q45_3a1144d0-696c-4ab5-ac1b-2777051b7b1e.jpg?v=1791334910
     Price: 149,00 € EUR
 - [0RB4187 RAY-BAN - Ottica Molineris](https://otticamolineris.it/products/chris-rb-4187): RAY-BAN 0RB4187 è un modello di occhiali da sole da uomo firmato RAY-BAN caratterizzato da una montatura squadrata in materiale iniettato. Un modello versatile, facile da abbinare in ogni occasione.Le lenti in policarbonato offrono una visione nitida e confortevole in ogni condizione di luce. Il modello è predisposto per il montaggio di lenti graduate (RX).Misure: calibro 54 mm, ponte 18 mm, aste 145 mm. Disponibile in 6 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-10-13T09:13:45Z
+  Updated: 2026-11-22T03:57:43Z
   Vendor: RAY-BAN
   Product Type: Occhiali da sole
   Availability: Available
@@ -1150,11 +1188,11 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597760089_q45_98652cd7-bfab-4341-a1dd-5ef8982a9b16.jpg?v=1783431317
     Price: 177,00 € EUR
   - [54/18/145 / Transparent green](https://otticamolineris.it/products/chris-rb-4187?variant=53466686783816)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597760102_q45_ace531c9-7fbd-4c27-8455-4ce888762b2a.jpg?v=1783431318
     Price: 167,00 € EUR
 - [CK21506S CALVIN KLEIN - Ottica Molineris](https://otticamolineris.it/products/ck21506s): CALVIN KLEIN CK21506S: occhiali da sole da donna firmati CALVIN KLEIN, con montatura squadrata. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 52 mm, ponte 21 mm, aste 140 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T21:17:01Z
+  Updated: 2026-11-21T10:37:10Z
   Vendor: CALVIN KLEIN
   Product Type: Occhiali da sole
   Availability: Available
@@ -1174,7 +1212,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901134865_q45.jpg?v=1791604874
     Price: 159,90 € EUR
 - [CF 7006/S CHIARA FERRAGNI - Ottica Molineris](https://otticamolineris.it/products/cf-7006-s): Gli occhiali da sole da donna CHIARA FERRAGNI CF 7006/S presentano una montatura cat-eye in materiale iniettato dalle linee curate. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 53 mm, ponte 19 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T15:13:51Z
+  Updated: 2026-11-21T10:37:13Z
   Vendor: CHIARA FERRAGNI
   Product Type: Occhiali da sole
   Availability: Available
@@ -1187,7 +1225,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736724379_q45.jpg?v=1791604868
     Price: 149,00 € EUR
 - [CAZAL 790/3 CAZAL - Ottica Molineris](https://otticamolineris.it/products/cazal-790-3): CAZAL 790/3: occhiali da sole unisex firmati CAZAL, con montatura geometrica in titanio. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 61 mm, ponte 16 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T16:17:56Z
+  Updated: 2026-11-22T03:57:40Z
   Vendor: CAZAL
   Product Type: Occhiali da sole
   Availability: Available
@@ -1201,7 +1239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386521276_q45_1665e068-a9b9-4576-b52e-a2438a74f704.jpg?v=1783430850
     Price: 438,00 € EUR
 - [CK20527 CALVIN KLEIN - Ottica Molineris](https://otticamolineris.it/products/ck20527): CALVIN KLEIN CK20527: un articolo firmato CALVIN KLEIN della linea occhiali da vista, realizzato in acetato.Disponibile in 6 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-11T10:17:44Z
+  Updated: 2026-11-23T09:12:40Z
   Vendor: CALVIN KLEIN
   Product Type: Occhiali da vista
   Availability: Available
@@ -1230,11 +1268,11 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901131529_q45.jpg?v=1793887947
     Price: 149,90 € EUR
   - [49/20/145 / Dark havana](https://otticamolineris.it/products/ck20527?variant=54264856772936)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901175370_q45_891dc6f9-d4ed-4554-827e-cc2c39431839.jpg?v=1793887947
     Price: 149,90 € EUR
 - [CHAMPION65/N CARRERA - Ottica Molineris](https://otticamolineris.it/products/champion65-n): CARRERA CHAMPION65/N è un modello di occhiali da sole unisex firmato CARRERA caratterizzato da una montatura in poliammide. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 62 mm, ponte 12 mm, aste 130 mm. Disponibile in 5 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-10-25T10:12:37Z
+  Updated: 2026-11-21T10:37:12Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
@@ -1260,7 +1298,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886448838_q45.jpg?v=1791676888
     Price: 169,00 € EUR
 - [CAZAL LEGENDS 663/3 CAZAL - Ottica Molineris](https://otticamolineris.it/products/cazal-legends-663-3): CAZAL LEGENDS 663/3 è un modello di occhiali da sole unisex firmato CAZAL caratterizzato da una montatura geometrica in acetato. Un equilibrio riuscito tra carattere e leggerezza.Le lenti in policarbonato offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 56 mm, ponte 18 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T16:14:17Z
+  Updated: 2026-11-17T10:14:42Z
   Vendor: CAZAL
   Product Type: Occhiali da sole
   Availability: Available
@@ -1284,7 +1322,7 @@
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/products/img_art_CAZAL_LEGENDS_850_001_D-large-feed_c29e1f11-383b-4e9e-b8d6-f2702d394290.jpg?v=1688573497
   Price: 413,00 € EUR
 - [CK20541S CALVIN KLEIN - Ottica Molineris](https://otticamolineris.it/products/ck20541s): CALVIN KLEIN CK20541S: occhiali da sole da donna firmati CALVIN KLEIN, con montatura a farfalla in acetato. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 57 mm, ponte 19 mm, aste 140 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:13:16Z
+  Updated: 2026-11-21T10:37:11Z
   Vendor: CALVIN KLEIN
   Product Type: Occhiali da sole
   Availability: Available
@@ -1306,7 +1344,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901130836_q45.jpg?v=1791532875
     Price: 159,90 € EUR
 - [CAZAL LEGENDS 991 CAZAL - Ottica Molineris](https://otticamolineris.it/products/cazal-legends-991): CAZAL LEGENDS 991 è un modello di occhiali da sole unisex firmato CAZAL caratterizzato da una montatura geometrica in acetato. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Le lenti in policarbonato offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 62 mm, ponte 12 mm. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T16:23:11Z
+  Updated: 2026-11-21T10:37:14Z
   Vendor: CAZAL
   Product Type: Occhiali da sole
   Availability: Available
@@ -1319,7 +1357,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386516777_q45.jpg?v=1791597651
     Price: 459,00 € EUR
 - [CLARETTA/P/S KATE SPADE - Ottica Molineris](https://otticamolineris.it/products/claretta-p-s): KATE SPADE NY CLARETTA/P/S è un modello di occhiali da sole da donna firmato KATE SPADE NY caratterizzato da una montatura rettangolare in acetato. Un modello versatile, facile da abbinare in ogni occasione.Le lenti in CR-39 offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 53 mm, ponte 16 mm, aste 122 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:13:28Z
+  Updated: 2026-11-17T10:13:25Z
   Vendor: KATE SPADE NY
   Product Type: Occhiali da sole
   Availability: Available
@@ -1333,7 +1371,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753996251_q45_372901f7-e0de-495b-ab04-dec738d4fe0e.jpg?v=1791676898
     Price: 205,00 € EUR
 - [CF 7013/S CHIARA FERRAGNI - Ottica Molineris](https://otticamolineris.it/products/cf-7013-s): CHIARA FERRAGNI CF 7013/S è un modello di occhiali da sole da donna firmato CHIARA FERRAGNI caratterizzato da una montatura geometrica in materiale iniettato. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 53 mm, ponte 18 mm, aste 140 mm. Disponibile in 5 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:13:28Z
+  Updated: 2026-11-21T10:37:10Z
   Vendor: CHIARA FERRAGNI
   Product Type: Occhiali da sole
   Availability: Available
@@ -1356,7 +1394,7 @@
     Availability: Available
     Price: 54,00 € EUR
 - [CLIFDEN OO 9440 OAKLEY - Ottica Molineris](https://otticamolineris.it/products/clifden-oo-9440): OAKLEY CLIFDEN OO 9440 è un modello di occhiali da sole da uomo firmato OAKLEY caratterizzato da una montatura rotonda. Un equilibrio riuscito tra carattere e leggerezza.Le lenti in policarbonato offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 56 mm, ponte 17 mm, aste 146 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T15:20:15Z
+  Updated: 2026-11-17T10:14:10Z
   Vendor: OAKLEY
   Product Type: Occhiali da sole
   Availability: Available
@@ -1375,7 +1413,7 @@
     Availability: Not Available
     Price: 264,00 € EUR
 - [0RB3716 RAY-BAN - Ottica Molineris](https://otticamolineris.it/products/clubmaster-metal-rb-3716): RAY-BAN 0RB3716: occhiali da sole unisex firmati RAY-BAN, con montatura squadrata in metallo. Un equilibrio riuscito tra carattere e leggerezza.Le lenti in cristallo offrono una visione nitida e confortevole in ogni condizione di luce. Il modello è predisposto per il montaggio di lenti graduate (RX).Misure: calibro 51 mm, ponte 21 mm, aste 145 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T20:13:38Z
+  Updated: 2026-11-22T03:57:44Z
   Vendor: RAY-BAN
   Product Type: Occhiali da sole
   Availability: Available
@@ -1403,14 +1441,14 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597767941_q45_fcae4b87-9ab5-413f-a89b-8cc5d790bed8.jpg?v=1783431170
     Price: 173,00 € EUR
 - [COOPER BE 4348 - Ottica Molineris](https://otticamolineris.it/products/cooper-be-4348): Occhiali da sole originali Burberry COOPER BE 4348. Modello uomo, di forma squadrata della collezione Burberry 2023. La montatura è in acetato. Tutti gli occhiali da sole sono originali e garantiti. Primo nome della moda britannica, Burberry Eyewear sfrutta la forza dei suoi 150 anni di storia, bilanciando design classici e moderni. Senza tempo, lussuoso e attraente per uomini e donne di tutte le età, catturando sia i più eleganti che i più avventurosi, Burberry reinterpreta la tradizione del classico stile British in modo moderno e dinamico. - Ottica Molineris
-  Updated: 2026-11-16T21:12:27Z
+  Updated: 2026-11-17T10:14:21Z
   Vendor: BURBERRY
   Product Type: Occhiali da sole
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597559706_q45.jpg?v=1793999568
   Price: 221,00 € EUR
 - [D2 0028/S DSQUARED2 - Ottica Molineris](https://otticamolineris.it/products/d2-0028-s): DSQUARED2 D2 0028/S: occhiali da sole da uomo firmati DSQUARED2, con montatura squadrata in metallo. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 63 mm, ponte 12 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-10-14T08:21:29Z
+  Updated: 2026-11-22T03:57:39Z
   Vendor: DSQUARED2
   Product Type: Occhiali da sole
   Availability: Available
@@ -1424,14 +1462,14 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736717630_q45_9c74fb76-8514-4500-b8fe-a002f84b3a8e.jpg?v=1783430741
     Price: 269,00 € EUR
 - [D2 0035 DSQUARED2 - Ottica Molineris](https://otticamolineris.it/products/d2-0035): DSQUARED2 D2 0035: un articolo firmato DSQUARED2 della linea occhiali da vista, realizzato in acetato.Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-07-31T18:34:13Z
+  Updated: 2026-11-22T03:57:47Z
   Vendor: DSQUARED2
   Product Type: Occhiali da vista
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736714684_q45.jpg?v=1783578963
   Price: 249,00 € EUR
 - [DAPHNE BE 3133 BURBERRY - Ottica Molineris](https://otticamolineris.it/products/daphne-be-3133): BURBERRY DAPHNE BE 3133: occhiali da sole da donna firmati BURBERRY, con montatura geometrica in metallo. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 58 mm, ponte 16 mm, aste 140 mm. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-13T17:12:29Z
+  Updated: 2026-11-22T03:57:49Z
   Vendor: BURBERRY
   Product Type: Occhiali da sole
   Availability: Available
@@ -1446,7 +1484,7 @@
     Availability: Available
     Price: 221,00 € EUR
 - [DB 1015 DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1015): DAVID BECKHAM DB 1015: un articolo firmato DAVID BECKHAM della linea occhiali da vista, realizzato in metallo.Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:12:52Z
+  Updated: 2026-11-20T19:13:06Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da vista
   Availability: Available
@@ -1471,7 +1509,7 @@
     Availability: Not Available
     Price: 120,00 € EUR
 - [DB 1061/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1061-s): DAVID BECKHAM DB 1061/S: occhiali da sole da uomo firmati DAVID BECKHAM, con montatura in acciaio. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 58 mm, ponte 17 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-11T16:12:56Z
+  Updated: 2026-11-21T10:37:06Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
@@ -1485,11 +1523,11 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736396835_q45_53bc9e20-fe9a-43e2-a76f-a167f290a448.jpg?v=1791334917
     Price: 215,00 € EUR
   - [58/17/145 / Matte black ruthenium](https://otticamolineris.it/products/db-1061-s?variant=53466147160392)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736396842_q45_cc1dd07d-168d-48cb-bdc9-9b030554e150.jpg?v=1791334917
     Price: 215,00 € EUR
 - [DB 1079/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1079-s): DAVID BECKHAM DB 1079/S: occhiali da sole da uomo firmati DAVID BECKHAM, con montatura in metallo. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 54 mm, ponte 20 mm, aste 150 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-11T16:16:16Z
+  Updated: 2026-11-21T10:37:10Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
@@ -1507,7 +1545,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736692050_q45_41c5999f-18b6-40fc-8ba1-efd7eed03e1a.jpg?v=1791421484
     Price: 215,00 € EUR
 - [DB 7000/S BOLD DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-7000-s-bold): DAVID BECKHAM DB 7000/S BOLD: occhiali da sole da uomo firmati DAVID BECKHAM, con montatura in acetato. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 52 mm, ponte 20 mm, aste 145 mm. Disponibile in 5 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T20:14:05Z
+  Updated: 2026-11-24T19:13:37Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
@@ -1545,7 +1583,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736793597_q45.jpg?v=1791676881
     Price: 279,00 € EUR
 - [DB 7025 DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-7025): DAVID BECKHAM DB 7025: un articolo firmato DAVID BECKHAM della linea occhiali da vista, realizzato in acetato.Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T12:13:08Z
+  Updated: 2026-11-21T10:37:07Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da vista
   Availability: Available
@@ -1566,7 +1604,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736325927_q45_c2e2db2b-041a-4ed5-9805-40c31a046449.jpg?v=1791421271
     Price: 189,00 € EUR
 - [DB 7033/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-7033-s): Gli occhiali da sole da uomo DAVID BECKHAM DB 7033/S presentano una montatura rotonda in acetato dalle linee curate. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 48 mm, ponte 23 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-11T19:24:35Z
+  Updated: 2026-11-21T10:37:15Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
@@ -1584,7 +1622,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736324333_q45.jpg?v=1791334998
     Price: 229,00 € EUR
 - [D2 0034 DSQUARED2 - Ottica Molineris](https://otticamolineris.it/products/d2-0034): DSQUARED2 D2 0034: un articolo firmato DSQUARED2 della linea occhiali da vista, realizzato in metallo.Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-10-23T09:14:00Z
+  Updated: 2026-11-21T10:37:05Z
   Vendor: DSQUARED2
   Product Type: Occhiali da vista
   Availability: Available
@@ -1612,7 +1650,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736366418_q45.jpg?v=1791421288
     Price: 249,00 € EUR
 - [DB 1006/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1006-s): Gli occhiali da sole da uomo DAVID BECKHAM DB 1006/S presentano una montatura rettangolare in acetato dalle linee curate. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 50 mm, ponte 22 mm, aste 145 mm. Disponibile in 6 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T15:14:03Z
+  Updated: 2026-11-21T10:37:08Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
@@ -1640,7 +1678,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431000_q45_f62e490b-3175-4f88-8186-63814d3a8368.jpg?v=1791421434
     Price: 169,00 € EUR
 - [DB 7075/G DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-7075-g): DAVID BECKHAM DB 7075/G: un articolo firmato DAVID BECKHAM della linea occhiali da vista, realizzato in metallo.Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-13T19:13:51Z
+  Updated: 2026-11-21T10:37:11Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da vista
   Availability: Available
@@ -1654,7 +1692,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736433332_q45.jpg?v=1791676897
     Price: 269,00 € EUR
 - [DB 1018 DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1018): DAVID BECKHAM DB 1018: un articolo firmato DAVID BECKHAM della linea occhiali da vista, realizzato in acetato.Disponibile in 18 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-11T19:13:42Z
+  Updated: 2026-11-21T10:37:14Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da vista
   Availability: Available
@@ -1696,7 +1734,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736280516_q45_a98eb485-2334-411a-8ded-68be51f2a058.jpg?v=1791676969
     Price: 179,00 € EUR
   - [49/20/150 / Mud](https://otticamolineris.it/products/db-1018?variant=54210655420744)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431086_q45_92abbd4a-77cd-443f-a828-584590c25410.jpg?v=1791676969
     Price: 179,00 € EUR
   - [49/20/150 / Grey gold](https://otticamolineris.it/products/db-1018?variant=54252759548232)
@@ -1758,7 +1796,7 @@
     Availability: Not Available
     Price: 179,00 € EUR
 - [DB 7080/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-7080-s): DAVID BECKHAM DB 7080/S: occhiali da sole da uomo firmati DAVID BECKHAM, con montatura rettangolare in acetato. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 56 mm, ponte 17 mm, aste 145 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-11T16:09:38Z
+  Updated: 2026-11-21T10:37:17Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
@@ -1771,7 +1809,7 @@
     Availability: Not Available
     Price: 219,00 € EUR
 - [DB 1007/S - Ottica Molineris](https://otticamolineris.it/products/db-1007-s): Occhiali da sole originali David Beckham DB 1007/S. Modello uomo, di forma arrotondata della collezione David Beckham 2023. La montatura è in acetato. Tutti gli occhiali da sole sono originali e garantiti. "Il mio percorso di stile mi ha insegnato il potere della semplicità e l'importanza dei dettagli e dell'artigianato". David Beckham ha curato una collezione di montature senza tempo realizzate con i migliori materiali. Il suo gusto esigente e il suo occhio per i dettagli hanno unito un'estetica contemporanea eccezionale all'artigianato tradizionale. Il marchio riflette la visione di David, con una costante dedizione alla qualità. - Ottica Molineris
-  Updated: 2026-11-16T21:12:31Z
+  Updated: 2026-11-21T10:37:03Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
@@ -1837,7 +1875,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886072811_q45.jpg?v=1790084324
     Price: 179,00 € EUR
   - [49/24/145 / Green](https://otticamolineris.it/products/db-1007-s?variant=54110036066632)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886532940_q45.jpg?v=1790084323
     Price: 179,00 € EUR
   - [49/24/145 / Yellow](https://otticamolineris.it/products/db-1007-s?variant=54110036099400)
@@ -1849,7 +1887,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886532964_q45.jpg?v=1790084323
     Price: 175,00 € EUR
 - [DB 1033/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1033-s): Gli occhiali da sole da uomo DAVID BECKHAM DB 1033/S presentano una montatura in metallo dalle linee curate. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 49 mm, ponte 23 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-11T20:15:51Z
+  Updated: 2026-11-21T10:37:09Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
@@ -1867,7 +1905,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736326405_q45.jpg?v=1791586876
     Price: 259,00 € EUR
 - [DB 1019 DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1019): DAVID BECKHAM DB 1019: un articolo firmato DAVID BECKHAM della linea occhiali da vista, realizzato in acetato.Disponibile in 12 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-12T22:12:56Z
+  Updated: 2026-11-21T10:37:14Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da vista
   Availability: Available
@@ -1948,7 +1986,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886526321_q45.jpg?v=1794478370
     Price: 175,00 € EUR
 - [FT0834 TOM FORD - Ottica Molineris](https://otticamolineris.it/products/dante-ft-0834): TOM FORD FT0834: occhiali da sole da uomo firmati TOM FORD, con montatura rotonda in acetato. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 50 mm, ponte 21 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T20:13:22Z
+  Updated: 2026-11-24T17:12:38Z
   Vendor: TOM FORD
   Product Type: Occhiali da sole
   Availability: Available
@@ -1966,7 +2004,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214218919_q45.jpg?v=1791677084
     Price: 280,00 € EUR
   - [52/21/145 / Shiny black](https://otticamolineris.it/products/dante-ft-0834?variant=53466486407496)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214218926_q45.jpg?v=1791677084
     Price: 280,00 € EUR
   - [52/21/145 / Dark havana](https://otticamolineris.it/products/dante-ft-0834?variant=53466486440264)
@@ -1978,7 +2016,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214218964_q45.jpg?v=1791677084
     Price: 280,00 € EUR
 - [DB 1036/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1036-s): DAVID BECKHAM DB 1036/S: occhiali da sole da uomo firmati DAVID BECKHAM, con montatura in acetato. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 49 mm, ponte 23 mm, aste 145 mm. Disponibile in 9 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T15:14:04Z
+  Updated: 2026-11-22T05:12:25Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
@@ -1992,7 +2030,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736324401_q45.jpg?v=1791676974
     Price: 179,00 € EUR
   - [49/23/145 / Black horn](https://otticamolineris.it/products/db-1036-s?variant=54252766232904)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736324418_q45_d11f624b-84a1-4030-b7ba-71acd3a19eac.jpg?v=1791676975
     Price: 179,00 € EUR
   - [49/23/145 / Red havana](https://otticamolineris.it/products/db-1036-s?variant=54269934272840)
@@ -2020,7 +2058,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886072842_q45_380ea052-895f-488b-9115-5e3e7556723f.jpg?v=1791676974
     Price: 179,00 € EUR
 - [DB 1045/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1045-s): DAVID BECKHAM DB 1045/S: occhiali da sole da uomo firmati DAVID BECKHAM, con montatura rettangolare in acetato. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 54 mm, ponte 18 mm, aste 145 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-11T10:18:31Z
+  Updated: 2026-11-21T10:37:08Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
@@ -2042,7 +2080,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736365534_q45_58990900-4097-4d8a-baeb-f71f23df3056.jpg?v=1791421461
     Price: 185,00 € EUR
 - [DB 1039/S/FD DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1039-s-fd-folding): Gli occhiali da sole da uomo DAVID BECKHAM DB 1039/S/FD presentano una montatura a goccia in poliammide dalle linee curate. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 54 mm, ponte 20 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-16T10:12:46Z
+  Updated: 2026-11-22T03:57:42Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
@@ -2055,177 +2093,145 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736365862_q45_dd3c2f43-5ff2-4d57-b5d5-ae11cd71f5ac.jpg?v=1783430928
     Price: 299,00 € EUR
-- [DB 7047/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-7047-s): DAVID BECKHAM DB 7047/S è un modello di occhiali da sole da uomo firmato DAVID BECKHAM caratterizzato da una montatura in acetato. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 51 mm, ponte 22 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-11T10:25:41Z
-  Vendor: DAVID BECKHAM
-  Product Type: Occhiali da sole
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736365732_q45_e758574a-8bdd-45c1-b109-f801d198b15e.jpg?v=1783430983
-  - [51/22/145 / Black gold](https://otticamolineris.it/products/db-7047-s?variant=53466361725256)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736365701_q45_d23c3b30-c9f7-439c-afd0-1a28c3a5f0c3.jpg?v=1783430983
-    Price: 229,00 € EUR
-  - [51/22/145 / Ruthenium grey horn](https://otticamolineris.it/products/db-7047-s?variant=53466361758024)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736365725_q45_1b0bf5d4-07d4-4463-b9c9-6d75ea952cb0.jpg?v=1783430983
-    Price: 229,00 € EUR
-  - [51/22/145 / Dark havana gold](https://otticamolineris.it/products/db-7047-s?variant=53466361790792)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736365732_q45_e758574a-8bdd-45c1-b109-f801d198b15e.jpg?v=1783430983
-    Price: 229,00 € EUR
-- [DB 7029/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-7029-s): Gli occhiali da sole da uomo DAVID BECKHAM DB 7029/S presentano una montatura in acetato dalle linee curate. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 48 mm, ponte 25 mm, aste 145 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-11-11T10:20:30Z
-  Vendor: DAVID BECKHAM
-  Product Type: Occhiali da sole
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736326276_q45_4bfa5685-b33f-4771-8cd8-ab1df1d7b718.jpg?v=1783430978
-  - [48/25/145 / Red havana](https://otticamolineris.it/products/db-7029-s?variant=53466283049288)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736326276_q45_4bfa5685-b33f-4771-8cd8-ab1df1d7b718.jpg?v=1783430978
-    Price: 249,00 € EUR
-  - [48/25/145 / Black](https://otticamolineris.it/products/db-7029-s?variant=53466283082056)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736326283_q45_efcd7438-fbc7-4711-bdce-0900cbf00807.jpg?v=1783430978
-    Price: 219,00 € EUR
-[List Continued](https://otticamolineris.it/a/llms-agent/llms.txt?shop=molineris.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODYwNTUyOTkwOTU1LCJsYXN0X3ZhbHVlIjoiNzg2MDU1Mjk5MDk1NSJ9)
+[List Continued](https://otticamolineris.it/a/llms-agent/llms.txt?shop=molineris.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODYwNTUyNTY0OTcxLCJsYXN0X3ZhbHVlIjoiNzg2MDU1MjU2NDk3MSJ9)
 
 ## Collections
 
 - [Donna](https://otticamolineris.it/collections/donna): - Ottica Molineris
-  Updated: 2026-11-16T21:13:32Z
-  Total Products: 33326
+  Updated: 2026-11-25T00:12:47Z
+  Total Products: 33296
 - [Uomo](https://otticamolineris.it/collections/uomo): - Ottica Molineris
-  Updated: 2026-11-16T21:13:32Z
-  Total Products: 31168
+  Updated: 2026-11-25T00:12:47Z
+  Total Products: 31165
 - [Occhiali da sole uomo](https://otticamolineris.it/collections/occhiali-da-sole): Definisci il tuo stile con la collezione di occhiali da sole da uomo di Ottica Molineris. Una selezione pensata per l'uomo contemporaneo che esige il massimo in termini di protezione visiva, materiali premium e design inconfondibile. Che tu preferisca l'eleganza di una montatura squadrata, il fascino retrò di un modello aviatore o linee più sportive e avvolgenti, qui troverai l'occhiale perfetto per ogni occasione. Il nostro catalogo spazia dal lusso assoluto di Cartier e Tom Ford, alle forme decise di Cazal, fino allo stile dinamico e versatile di brand come Calvin Klein, Arnette e Oliver Peoples. - Ottica Molineris
-  Updated: 2026-11-16T21:13:32Z
-  Total Products: 3480
+  Updated: 2026-11-24T19:14:32Z
+  Total Products: 3467
 - [Occhiali da vista uomo](https://otticamolineris.it/collections/occhiali-da-vista-uomo): Praticità, resistenza e uno stile che non passa mai di moda: scopri la linea di occhiali da vista da uomo di Ottica Molineris. Una proposta di montature progettate per accompagnarti in ogni momento della giornata, dal lavoro al tempo libero, garantendo sempre un comfort assoluto e una visione nitida. Scegli tra modelli classici in tartaruga, eleganti forme tondeggianti o versatili montature rettangolari. Un'attenzione particolare è riservata alle collezioni Hally & Son, che uniscono l'artigianalità di ispirazione vintage a soluzioni moderne e intelligenti, come i comodissimi occhiali da vista dotati di clip-on solare magnetico, perfetti per trasformare il tuo occhiale da vista in un occhiale da sole in un solo istante. - Ottica Molineris
   Updated: 2026-10-15T10:18:44Z
   Total Products: 21
 - [Occhiali da sole donna](https://otticamolineris.it/collections/occhiali-da-sole-donna): Scopri la selezione esclusiva di occhiali da sole da donna curata da Ottica Molineris. Che tu stia cercando una montatura oversize per un look da diva, un intramontabile modello cat-eye o linee geometriche moderne, il nostro catalogo offre le migliori soluzioni per esaltare il tuo viso proteggendo i tuoi occhi dai raggi UV. Nel nostro shop online e nel nostro punto vendita di Biella, proponiamo solo marchi di altissima qualità che uniscono design ricercato e lenti certificate. Lasciati conquistare dall'eleganza senza tempo di Tom Ford e Saint Laurent, dal fascino iconico di Prada, o dallo stile audace di Cazal e Oliver Peoples. - Ottica Molineris
-  Updated: 2026-11-16T21:13:32Z
-  Total Products: 4810
+  Updated: 2026-11-24T21:13:12Z
+  Total Products: 4813
 - [Occhiali da vista donna](https://otticamolineris.it/collections/occhiali-da-vista-donna): L'occhiale da vista è diventato molto più di una necessità: è l'accessorio di stile che definisce il tuo volto ogni giorno. La collezione di occhiali da vista da donna di Ottica Molineris è pensata per offrirti il perfetto equilibrio tra estetica raffinata, leggerezza e comfort visivo prolungato. Abbiamo selezionato con cura montature capaci di valorizzare ogni fisionomia, dai modelli in acetato più spessi e di carattere, fino alle montature in metallo ultra-sottili per un look minimal chic. Esplora il nostro catalogo e scopri le ultime novità firmate Givenchy, l'ironia pop di Love Moschino, il design contemporaneo di Mila ZB e l'eleganza vintage di Hally & Son. - Ottica Molineris
   Updated: 2026-10-15T10:18:44Z
   Total Products: 29
 - [Nike](https://otticamolineris.it/collections/nike): La collezione di occhiali Nike soddisfa le esigenze di ogni atleta. Fedele alla sua missione, la collezione di occhiali Nike offre una tecnologia superiore. - Ottica Molineris
-  Updated: 2026-11-16T21:13:32Z
-  Total Products: 402
+  Updated: 2026-11-24T18:13:21Z
+  Total Products: 410
 - [Prada](https://otticamolineris.it/collections/prada): Gli occhiali di Prada sono tra i più brillanti, colorati e briosi. Spesso anticipano e influenzano le tendenze future: da design ricercati arricchiti da particolari preziosi a modelli vintage in diverse nuance di colori. Una collezione imperdibile per chi vuole mostrare un’eleganza aristocratica. - Ottica Molineris
-  Updated: 2026-11-16T21:13:07Z
-  Total Products: 92
+  Updated: 2026-11-24T10:13:20Z
+  Total Products: 91
 - [Oakley](https://otticamolineris.it/collections/oakley): Da quasi 40 anni Oakley sperimenta nuove tecnologie per i suoi occhiali, fondendo scienza ed arte. A questo marchio sono stati riconosciuti oltre seicento brevetti in tutto il mondo. Oggi Oakley è sinonimo di eccellenza per coloro che affrontano la vita senza scendere a compromessi. Per questa ragione è il brand preferito degli sportivi. - Ottica Molineris
-  Updated: 2026-11-16T21:13:27Z
-  Total Products: 111
+  Updated: 2026-11-23T21:13:05Z
+  Total Products: 114
 - [David Beckham](https://otticamolineris.it/collections/david-beckham): "Il mio percorso di stile mi ha insegnato il potere della semplicità e l'importanza dei dettagli e dell'artigianato". David Beckham ha curato una collezione di montature senza tempo realizzate con i migliori materiali. Il suo gusto esigente e il suo occhio per i dettagli hanno unito un'estetica contemporanea eccezionale all'artigianato tradizionale. Il marchio riflette la visione di David, con una costante dedizione alla qualità. - Ottica Molineris
-  Updated: 2026-11-16T15:13:27Z
-  Total Products: 267
+  Updated: 2026-11-24T19:14:05Z
+  Total Products: 269
 - [Coach](https://otticamolineris.it/collections/coach): Fondato nel 1941 come laboratorio a conduzione familiare in un loft di Manhattan, Coach è diventato un marchio di moda americano leader per donne e uomini in tutto il mondo. La collezione di occhiali Coach esprime perfettamente lo stile newyorkese senza sforzo e l'autentica eredità americana. - Ottica Molineris
-  Updated: 2026-11-16T14:13:36Z
+  Updated: 2026-11-17T10:14:06Z
   Total Products: 1
 - [Michael Kors](https://otticamolineris.it/collections/michael-kors): Fondato nel 1981 Michael Kors propone un lifestyle da perfetto jet setter. Uno stile tanto sofisticato quando indulgente, tanto iconico quanto moderno. La collezione di occhiali unisce al lusso una squisita fattura e un glamour esplosivo. - Ottica Molineris
-  Updated: 2026-11-16T14:13:52Z
-  Total Products: 111
+  Updated: 2026-11-18T19:13:11Z
+  Total Products: 112
 - [Tory Burch](https://otticamolineris.it/collections/tory-burch): Tory Burch è un marchio americano di lifestyle di lusso: conosciuta per la sua estetica preppy bohémien, Tory Burch ha lanciato la sua collezione di occhiali con Luxottica nel 2009. Il suo uso audace di colori, stampe grafiche e dettagli eclettici sono tutti segni del marchio. - Ottica Molineris
-  Updated: 2026-11-16T12:13:29Z
+  Updated: 2026-11-17T10:14:37Z
   Total Products: 1
 - [Versace](https://otticamolineris.it/collections/versace): Versace è il marchio moda e lifestyle dedicato a chi ama il lusso glamurous e desidera distinguersi con uno stile unico e personale. Il design innovativo e raffinato delle collezioni di occhiali Versace celebra l’ esclusività e l’eleganza senza tempo della Maison. - Ottica Molineris
-  Updated: 2026-11-16T21:13:32Z
-  Total Products: 95
+  Updated: 2026-11-20T11:12:58Z
+  Total Products: 96
 - [Dita](https://otticamolineris.it/collections/dita): La collezione Dita si ispira alle montature in voga tra gli anni 50 e gli anni 80 che imitavano le bobine del cinema hollywoodiano. Ora sono ideati con materiali moderni e con un ideale contemporaneo. I designer Dita hanno una filosofia precisa in mente: “non vediamo le cose come sono, le vediamo come siamo." - Ottica Molineris
-  Updated: 2026-11-16T21:13:20Z
-  Total Products: 37
+  Updated: 2026-11-21T05:13:11Z
+  Total Products: 36
 - [Thom Browne](https://otticamolineris.it/collections/thom-browne): Il designer Thom Browne spicca nel suo settore per l'artigianalità e l'attenzione quasi ossessiva ai dettagli che utilizza. Nella collezione metallo le montature sono realizzate con titanio di alta qualità assicurando resistenza, leggerezza e comfort. Ma in generale ogni occhiale Thom Browne è un pezzo d'arte al quale nessuno potrà resistere. - Ottica Molineris
-  Updated: 2026-11-16T21:13:14Z
+  Updated: 2026-11-17T10:15:21Z
   Total Products: 10
 - [Dita Lancier](https://otticamolineris.it/collections/dita-lancier): Dita Eyewear annuncia l’introduzione sul mercato di Lancier, una nuova collezione di occhiali da sole creata per viaggiatori, piloti, velisti e altri avventurieri che desiderano occhiali da sole leggeri e artigianali della miglior qualità ottica.Dita Eyewear, sinonimo di occhiali creati meticolosamente con montature artigianali della miglior qualità ottica, annuncia l’introduzione sul mercato di Lancier, una linea totalmente nuova di occhiali da sole ad alte prestazioni. All’inseguimento della velocità – su terra, per mare o nell’aria – gli occhiali Lancier riflettono la verità alla base di un design dalle alte prestazioni: la leggerezza coniugata alla forza trasforma la potenza in precisione. - Ottica Molineris
   Updated: 2026-10-13T20:50:29Z
   Total Products: 0
 - [Oliver Peoples](https://otticamolineris.it/collections/oliver-peoples): Gusto retrò, eleganza e grande attenzione ai dettagli e alla qualità dei materiali. Chi sceglie gli occhiali Oliver Peoples vuole modelli senza tempo che non si conformino alle tendenze stagionali, ma che siano sempre attuali. - Ottica Molineris
-  Updated: 2026-11-16T21:13:30Z
+  Updated: 2026-11-21T02:13:17Z
   Total Products: 68
 - [Calvin Klein](https://otticamolineris.it/collections/calvin-klein): La nuova collezione di occhiali da uomo e da donna CALVIN KLEIN offre uno stile audace e contemporaneo e un'estetica seducente, spesso minimale. È ricercata, attuale e alla moda. Con palette di colori audaci, design distintivo e mix di materiali, la collezione è un ritratto aggiornato e autentico del marchio iconico. - Ottica Molineris
-  Updated: 2026-11-16T21:13:22Z
-  Total Products: 633
+  Updated: 2026-11-24T19:13:56Z
+  Total Products: 624
 - [Calvin Klein Jeans](https://otticamolineris.it/collections/calvin-klein-jeans): Gli occhiali CALVIN KLEIN JEANS offrono un design senza tempo che attira l'attenzione per la sobrietà e l’elegante semplicità, oltre che per gli esclusivi elementi di design ripresi dalla linea denim. La nuova collezione eyewear CALVIN KLEIN JEANS presenta una gamma di modelli di tendenza che presentano lenti flash e combinazioni di colori uniche. Tocchi di colore e un mix deciso di materiali interpretano l'immagine sexy e giovane del marchio. - Ottica Molineris
   Updated: 2026-10-13T20:50:35Z
   Total Products: 97
 - [Salvatore Ferragamo](https://otticamolineris.it/collections/salvatore-ferragamo): La collezione di occhiali Salvatore Ferragamo presenta modelli caratterizzati da un design classico e sobrio. La linea, pensata sia per le donne sia per gli uomini, vanta occhiali realizzati in acetato e metallo ma anche decorati con dettagli di cristalli e pelle. Per essere glam in ogni occasione. - Ottica Molineris
-  Updated: 2026-11-16T21:13:21Z
-  Total Products: 34
+  Updated: 2026-11-18T12:13:09Z
+  Total Products: 33
 - [Lacoste](https://otticamolineris.it/collections/lacoste): La collezione di occhiali Lacoste comprende colori vivaci, la trama classica piquet ed il sempre riconoscibile logo del coccodrillo. Una collezione elegante caratterizzata da uno stile preciso. - Ottica Molineris
-  Updated: 2026-11-16T21:13:10Z
-  Total Products: 290
+  Updated: 2026-11-22T19:13:39Z
+  Total Products: 287
 - [Liu Jo](https://otticamolineris.it/collections/liu-jo): Liu Jo è sinonimo di stile moderno Italiano, fondato nei primi anni ’90. La filosofia del brand si basa sul voler sottolineare la naturale femminilità e bellezza di ogni donna. Lo stile Liu Jo eyewear è sempre raffinato, glamour, aperto all’interpretazione personale di ogni donna, femminile e seducente, un marchio sempre rivolto al futuro pur rimanendo fedele alle proprie radici. - Ottica Molineris
-  Updated: 2026-11-16T21:12:58Z
-  Total Products: 196
+  Updated: 2026-11-18T09:13:31Z
+  Total Products: 195
 - [Arnette](https://otticamolineris.it/collections/arnette): Se pratichi sport da tavola e quel che cerchi è massimo comfort la collezione eyewear di Arnette è quello che stai cercando. Nato nel 1992, questo brand è stato fin da subito amato da surfisti e snowboarder. I modelli, oltre che dalla massima funzionalità, sono caratterizzati da un design accattivante. - Ottica Molineris
-  Updated: 2026-11-16T20:13:27Z
-  Total Products: 32
+  Updated: 2026-11-17T10:14:09Z
+  Total Products: 31
 - [Gucci](https://otticamolineris.it/collections/gucci): Fondata a Firenze nel 1921 Gucci è una delle marche protagoniste della scena mondiale della moda e del lusso. All'inizio del 2015 Gucci si è imbarcata nel capitolo successivo della sua storia, sotto la direzione creativa di Alessandro Michele, con l'introduzione di una nuova visione. Eclettico, romantico, e soprattutto contemporaneo, Gucci sta attualmente reinventando un approccio alla moda completamente moderno, ridefinendo così il lusso del 21esimo secolo. - Ottica Molineris
-  Updated: 2026-11-16T21:13:25Z
-  Total Products: 174
+  Updated: 2026-11-24T16:14:13Z
+  Total Products: 187
 - [Police](https://otticamolineris.it/collections/police): Police è sinonimo di stile underground. Questo brand, con le sue linee aggressive, è molto amato dai giovani che hanno un animo forte, sexy e ribelle. gli occhiali Police sono per chiunque possegga una personalità magnetica e indipendente. - Ottica Molineris
-  Updated: 2026-11-16T12:14:19Z
-  Total Products: 435
+  Updated: 2026-11-24T19:13:37Z
+  Total Products: 426
 - [Lozza](https://otticamolineris.it/collections/lozza): Nata nel 1878, Lozza è la più antica azienda italiana di occhiali. Si è sempre distinta con modelli sobri e raffinati. Le linee vintage rivisitano gli anni ‘70, che pur nella novità hanno un forte potere evocativo, con articoli classici ed eleganti. - Ottica Molineris
-  Updated: 2026-11-16T12:14:13Z
-  Total Products: 217
+  Updated: 2026-11-24T18:13:12Z
+  Total Products: 211
 - [Chopard](https://otticamolineris.it/collections/chopard): La collezione di occhiali Chopard è ispirata ai concetti di alta gioielleria e orologeria che la casa svizzera ha proposto negli anni. ICE CUBE, RADIANT EXTRAVAGANZA e HAPPY DIAMONDS sono le linee guida del loro design raffinato, elegante e contemporaneo. Il risultato è una collezione esclusiva dove l’alta gioielleria e l’orologeria di qualità si fondono creando dei stili unici e sorprendenti. - Ottica Molineris
-  Updated: 2026-11-16T20:14:37Z
-  Total Products: 84
+  Updated: 2026-11-24T19:14:22Z
+  Total Products: 91
 - [Furla](https://otticamolineris.it/collections/furla): Linee morbide e raffinate per una clientela esigente e di stile sempre attenta alla moda. Questi i fondamenti del brand Furla, casa di moda creata nel 1927. Materiali di qualità e tecnologie avanzate per chi è sicuro di sè e vuole essere sempre alla moda. - Ottica Molineris
-  Updated: 2026-11-16T15:14:03Z
-  Total Products: 209
+  Updated: 2026-11-23T19:13:27Z
+  Total Products: 208
 - [Garrett Leight](https://otticamolineris.it/collections/garrett-leight): Concepita a Venice Beach e modellata in L.A. la collezione eyewear Garrett Leight è cool e easy, ispirata allo stile di vita californiano. Garrett si impegna a produrre occhiali che combinano alta artigianalità ad un' estetica senza tempo... - Ottica Molineris
-  Updated: 2026-11-16T21:13:26Z
-  Total Products: 54
+  Updated: 2026-11-24T06:13:14Z
+  Total Products: 53
 - [Rodenstock](https://otticamolineris.it/collections/rodenstock): Il marchio Rodenstock è sinonimo di prodotti altamente sofisticati dal punto di vista tecnologico ed eccellenti dal punto di vista qualitativo. Questo è l’unico brand a prestare attenzione e produrre sia montature che lenti. Da qui nascono le soluzioni per creare prodotti innovativi. La collezione spazia tra modelli classici, garantendo ampia scelta e comfort alla clientela. - Ottica Molineris
-  Updated: 2026-11-13T19:14:34Z
+  Updated: 2026-11-19T16:12:33Z
   Total Products: 191
 - [Porsche Design](https://otticamolineris.it/collections/porsche-design): Passione, performance, purezza, precisione. Questi i quattro pilastri del marchio Porsche Design. Le forme sono pulite e lineari, ottenute con l’impiego dei materiali più avanzati e di primissima qualità. Il lusso è essenziale, figlio di un classicismo moderno. - Ottica Molineris
-  Updated: 2026-11-16T12:13:32Z
-  Total Products: 148
+  Updated: 2026-11-24T18:13:27Z
+  Total Products: 137
 - [Mykita](https://otticamolineris.it/collections/mykita): MYKITA porta un’ondata di novità nelle tendenze eyewear. L’acciaio freddo e lucente nelle sue forme radical incontra le linee calde e i colori intensi dell’acetato: una straordinaria varietà di materiali e superfici frutto di sapiente maestria e nuove tecnologie. Per creazioni sempre moderne e sorprendenti! - Ottica Molineris
-  Updated: 2026-11-16T21:13:18Z
-  Total Products: 22
+  Updated: 2026-11-25T00:13:22Z
+  Total Products: 24
 - [Cazal](https://otticamolineris.it/collections/cazal): E’ moda, design, attitudine...Parliamo della collezione Cazal...che vi lascerà a bocca aperta! Il brand propone una collezione creata negli anni '80, uno stile che ha definito la scena hip-hop di New York, fino ad oggi. Montature in acetato massiccio che sono diventate lo stile e lo status symbol di rapper e break-dancers. Le forme stravaganti e il design audace sono uniche nel loro aspetto e parlano una lingua che è estranea agli scettici di design. - Ottica Molineris
-  Updated: 2026-11-16T21:13:18Z
+  Updated: 2026-11-17T10:15:17Z
   Total Products: 45
 - [Maui Jim](https://otticamolineris.it/collections/maui-jim): La filosofia Maui Jim si contraddistingue dall'Aloha Spirit. La “ohana” ("famiglia", in Hawaiano) Maui Jim crea con passione i migliori occhiali da sole del pianeta. "Perché, a fine giornata, vogliamo vedere il mondo al meglio, come voi, ovunque viviate. Aloha, amici!" è lo slogan del brand. - Ottica Molineris
-  Updated: 2026-11-16T20:14:19Z
-  Total Products: 38
+  Updated: 2026-11-17T10:14:49Z
+  Total Products: 40
 - [Moschino](https://otticamolineris.it/collections/moschino): Creativo, ironico, dissacrante… ecco a voi Moschino! Sotto la direzione creativa di Jeremy Scott, Moschino si distingue per la sua abilità di abbinare elementi di glamour satirico al lusso! Gli occhiali riportano gli elementi iconici del brand: le catene, le borchie, l’orsetto, tutti riproposti in chiave moderna e unica. - Ottica Molineris
-  Updated: 2026-11-16T12:14:00Z
-  Total Products: 209
+  Updated: 2026-11-24T19:13:59Z
+  Total Products: 205
 - [Hugo Boss](https://otticamolineris.it/collections/hugo-boss): La collezione di occhiali Boss - Hugo Boss racchiude in sé classe e fine eleganza, attenzione ai dettagli ed ai materiali di grande qualità. I prodotti BOSS, con uno stile che ben si adatta ad ogni situazione, riflettono un'ispirazione classica. - Ottica Molineris
-  Updated: 2026-11-16T12:14:10Z
-  Total Products: 758
+  Updated: 2026-11-24T19:14:32Z
+  Total Products: 752
 - [Jimmy Choo](https://otticamolineris.it/collections/jimmy-choo): La collezione di occhiali di Jimmy Choo propone occhiali dedicati ad una donna dall’eleganza moderna e seducente. Lo stile è sofisticato, impreziosito dal tocco glamour di cristalli o dettagli glitter, che aggiungono un’allure audace ad un design senza tempo. - Ottica Molineris
-  Updated: 2026-11-16T20:14:30Z
-  Total Products: 108
+  Updated: 2026-11-24T19:14:28Z
+  Total Products: 113
 - [Tommy Hilfiger](https://otticamolineris.it/collections/tommy-hilfiger): La collezione di occhiali Tommy Hilfiger incarna lo stile di vita preppy e contorto del marchio, che è diventato un simbolo globale dello spirito americano. Gli occhiali sono stati appositamente progettati con un tocco classico e moderno che rispecchia lo stile di Tommy Hilfiger. - Ottica Molineris
-  Updated: 2026-11-14T19:13:55Z
-  Total Products: 370
+  Updated: 2026-11-24T19:13:59Z
+  Total Products: 373
 - [Carrera](https://otticamolineris.it/collections/carrera): Con tecnologie di ultima generazione e un design sempre attuale, l’heritage sportiva di Carrera contamina l’urban style, fondendo perfettamente le due anime del brand. Gli occhiali Carrera sono vintage, sempre in linea con le ultime tendenze ma ispirati dai modelli cult del passato e modelli sportivi con un elevato contenuto di design e protezione. - Ottica Molineris
-  Updated: 2026-11-16T21:13:18Z
-  Total Products: 369
+  Updated: 2026-11-24T19:14:10Z
+  Total Products: 365
 - [Polaroid](https://otticamolineris.it/collections/polaroid): POLAROID eyewear è creato per permettere alle persone di vedere il mondo da un altro punto di vista: oltre il riverbero, oltre la superficie, oltre il già visto – per scoprire prospettive inaspettate e sempre nuove. Grazie alle leggendarie lenti polarizzate del marchio, gli occhiali da sole POLAROID ti permettono di vedere oltre, garantendo una visione perfetta ed una protezione assoluta, ma mantenendo sempre un carattere fresco e playful. - Ottica Molineris
-  Updated: 2026-11-16T15:14:42Z
-  Total Products: 587
+  Updated: 2026-11-24T10:13:27Z
+  Total Products: 584
 - [Love Moschino](https://otticamolineris.it/collections/love-moschino): Love Moschino è la linea contemporary del brand Moschino. Un mix di leggerezza ed ironia che creano un cocktail irresistibile, dando vita a collezioni che hanno come spunto i concetti di “peace and love”, con creatività e spensieratezza. La giovinezza e l’irriverenza delle collezioni eyewear di Love Moschino mescolano lo stile urbano con l’ironia e dettagli colorati. Le collezioni sono composte da un’ampia scelta di modelli che ogni giorno ti permettono di trasformare i tuoi occhiali in un accessorio fashion. L’attenzione al dettaglio rende il brand facilmente riconoscibile: le aste sono caratterizzate da grafiche accattivanti (con logo o con la fantasia stagionale) o avane colorate e brillanti. - Ottica Molineris
-  Updated: 2026-11-14T19:14:01Z
-  Total Products: 51
+  Updated: 2026-11-24T19:14:00Z
+  Total Products: 50
 - [Tommy Jeans](https://otticamolineris.it/collections/tommy-jeans): La collezione di occhiali Tommy Jeans incarna lo stile di vita preppy e contorto del marchio, che è diventato un simbolo globale dello spirito americano. Gli occhiali sono stati appositamente progettati con un tocco classico e moderno che rispecchia lo stile di Tommy Hilfiger. - Ottica Molineris
   Updated: 2026-10-13T20:51:19Z
   Total Products: 0
 - [Marc Jacobs](https://otticamolineris.it/collections/marc-jacobs): Marc Jacobs è in grado di esprimere diversi stati d'animo nelle sue collezioni, soffermandosi su qualcosa, per poi cambiare la sua visione di 180 gradi nella stagione successiva. Le sue linee trasmettono uno stile contemporaneo, con un perfetto mix tra eleganza ed ispirazione sporty. - Ottica Molineris
-  Updated: 2026-11-16T20:14:25Z
-  Total Products: 519
+  Updated: 2026-11-24T20:13:17Z
+  Total Products: 514
 - [Missoni](https://otticamolineris.it/collections/missoni): La collezione Eyewear Missoni Cuspidi trasforma l’iconico design fiammato del brand in una gamma di occhiali da sole ricca di glamour. Silhouette espressive si uniscono a colori audaci e terminali a zig zag per un inconfondibile fascino in stile Missoni. Un mondo caleidoscopico , dedicato a donne indipendenti e contemporanee.La famiglia Missoni, già alla terza generazione, continua a dettare lo stile della moda italiana con l’iconica texture zig zag.Colori brillanti, geometrie e giochi di luce creano uno stile allegro e multicolore, glamour e dotato di forte personalità.La collezione eyewear rispecchia il DNA del brand: una palette varia e sofisticata, fantasie striate, toni luminosi e forme geometriche. Le aste sono spesso arricchite di dettagli sobri ed eleganti, grazie alla reinterpretazione del mood Missoni. - Ottica Molineris
-  Updated: 2026-11-16T21:13:10Z
-  Total Products: 200
+  Updated: 2026-11-24T19:13:59Z
+  Total Products: 194
 - [Kate Spade](https://otticamolineris.it/collections/kate-spade): Colori "croccanti", pattern grafici ed una soffisticatezza giocosa sono gli ambasciatori del marchio Kate Spade New York. Il brand interpreta la vita di tutti giorni con un tono esuberante, incoraggiando ognuno a mostrare il proprio stile personale! Silhouette eleganti, adatte a ogni occasione e rigorosamente colorate! - Ottica Molineris
   Updated: 2026-10-13T20:51:24Z
   Total Products: 1
@@ -2233,107 +2239,107 @@
   Updated: 2026-07-31T11:56:30Z
   Total Products: 0
 - [Fendi](https://otticamolineris.it/collections/fendi): Fendi è sinonimo di eleganza assoluta. Questa caratteristica è ciò che contraddistingue la collezione di occhiali, in linea con la tradizione del brand. L’obiettivo è stupire e farsi guardare. Finalità che viene raggiunta grazie a modelli esagerati, colorati e unici. - Ottica Molineris
-  Updated: 2026-11-16T20:13:30Z
-  Total Products: 146
+  Updated: 2026-11-18T20:12:57Z
+  Total Products: 150
 - [Isabel Marant](https://otticamolineris.it/collections/isabel-marant): Con un’estetica disinvolta e ricercata in puro stile parigino, gli occhiali Isabel Marant presentano silhouette classiche dall’animo cool.Isabel ha sempre avuto un amore sconfinato per la moda. È stata un’adolescente ribelle, in lotta con le convenzioni, che creava da sé i propri look riadattando giubbe militari e maglioni del padre. È stato il suo amore per gli abiti e per i materiali a portarla allo Studio Berçot - che non ha più lasciato.C’è chi sogna le icone femminili delle riviste patinate, ma Isabel veste le donne reali, che camminano per la strada e sfrecciano in scooter. Prova personalmente tutto ciò che crea nel suo atelier. Ha sempre incoraggiato le lavorazioni manuali, e collezione dopo collezione si è impegnata a mantenere vive questo savoir-faire tradizionale, un approccio che definisce “l’ecologia della moda”. - Ottica Molineris
-  Updated: 2026-11-16T21:13:23Z
-  Total Products: 183
+  Updated: 2026-11-22T19:13:18Z
+  Total Products: 181
 - [Carrera Ducati](https://otticamolineris.it/collections/carrera-ducati): Due brand sinonimi di eccellenza, uno del mondo motori, l’altro fashion ma con forti richiami verso quell’universo, si sono uniti per creare una collezione di occhiali audace e perfetta per gli sportivi.La collezione CARRERA|DUCATI si compone di occhiali da sole e da vista rivolti a un target giovane e dinamico che può interpretare bene il carattere audace di entrambi i brand. Al tempo stesso la linea di occhiali mantiene gli standard qualitativi e l'approccio innovativo al prodotto e al design. Il risultato sono occhiali speciali, pensati per i piloti del team Ducati Lenovo, ma adatta a tutti gli sportivi. La collezione prende ispirazione dall’iconico design della moto più sportiva e performante della casa, la DUCATI Panigale V4 e ogni particolare è stato studiato per rispecchiare le creazioni del team di design di Ducati, a partire dal dettaglio sulle aste ispirato al profilo della Panigale. - Ottica Molineris
-  Updated: 2026-11-16T12:14:09Z
-  Total Products: 45
+  Updated: 2026-11-24T19:13:50Z
+  Total Products: 44
 - [Chiara Ferragni](https://otticamolineris.it/collections/chiara-ferragni): I nuovi occhiali firmati Chiara Ferragni sono un’esplosione di colori e di forme raffinate e grintose. Oltre all’aspetto estetico c’è l’incredibile magnetismo generato dalle invenzioni di Chiara Ferragni, che da anni ormai è diventata un punto di riferimento per la moda ed un’icona di stile molto amata dal pubblico giovane e dinamico a livello internazionale.Chiara Ferragni, per la sua nuova collezione di montature per occhiali da vista, ha scelto linee raffinate ed essenziali realizzate in acetato di qualità, leggero e indistruttibile. La scelta cromatica spazia dagli immancabili colori basici alle tinte più glam, talvolta impreziosite da finissimo glitter, o rese intriganti da forme cat-eye e butterfly.Immancabile il famosissimo logo Ferragni a forma di occhio sull'asta, e il nome della mitica influencer sul lato interno. - Ottica Molineris
   Updated: 2026-11-11T10:17:35Z
   Total Products: 11
 - [Serengeti](https://otticamolineris.it/collections/serengeti): Non appena indosserai un paio di occhiali da sole Serengeti, vedrai il mondo con nuovi occhi e con colori sono naturali, nitidi. La tecnologia utilizzata da Serengeti infatti concentra tutta la propria attenzione sull'occhio stesso. Una storia di piccoli passi sempre mirati alla ricerca di soluzioni per una visita perfetta e protetta. - Ottica Molineris
-  Updated: 2026-10-13T20:51:34Z
-  Total Products: 0
+  Updated: 2026-11-24T10:13:35Z
+  Total Products: 1
 - [zerOne five](https://otticamolineris.it/collections/zerone-five): Stile contemporaneo ispirato alle bellezze italiane! Terra di tessitori e filatori, luogo di tradizioni secolari e di passati importanti; in Italia, la cura dei dettagli e la selezione dei materiali sono scritte nel nostro patrimonio genetico. Ripartiamo da qui, verso un futuro diverso, più lento, più verde, nel mondo in cui vorremmo vivere. E lo facciamo raccontando l'amore per il nostro territorio attraverso ciò che meglio sappiamo costruire: occhiali. - Ottica Molineris
   Updated: 2026-10-13T20:51:35Z
   Total Products: 0
 - [Matsuda](https://otticamolineris.it/collections/matsuda): “Creo abiti per i sognatori che vogliono avere un look credibile”. Mitushiro Matsuda aveva questa visione quando propose pre la prima volta la sua collezione eyewear che letteralmente dominò il mercato dell’occhialeria di lusso. Gli occhiali derivano da un alta artigianalità abbinata ad un design estremamente creativo, dove la tradizione orientale si sposa alle tendenze contemporanee. - Ottica Molineris
-  Updated: 2026-11-16T20:14:18Z
-  Total Products: 25
+  Updated: 2026-11-25T00:13:12Z
+  Total Products: 26
 - [Silhouette](https://otticamolineris.it/collections/silhouette): Flessibile e dinamici, questa la caratteristica principale degli occhiali Silhouette. Molti i modelli, per cambiare stile a secondo delle occasioni, creati con materiali innovativi. Con Silhouette gli occhiali diventano un accessorio camaleontico per essere sempre trendy. - Ottica Molineris
-  Updated: 2026-11-16T21:13:16Z
+  Updated: 2026-11-17T10:15:00Z
   Total Products: 21
 - [Salice](https://otticamolineris.it/collections/salice): Salice occhiali è il marchio sportivo d' Italia, 90 anni di storia nello sport azzurro certificato da Italcheck e riconosciuto dai migliori campioni del mondo. Sotto il logo tricolore di Salice occhiali c'è la vera Identità italiana, quel mix in cui si fondono creatività, artigianalità, innovazione, ricerca, qualità, tradizione, stile e bellezza unici del Bel Paese. Salice occhiali è una garanzia perché è studiato dagli sportivi per gli sportivi. - Ottica Molineris
-  Updated: 2026-11-16T14:13:46Z
+  Updated: 2026-11-24T16:13:32Z
   Total Products: 18
 - [Salice Protection Glasses](https://otticamolineris.it/collections/salice-protection-glasses): Gli articoli Visiera e Occhiali a maschera per protezioni lavoratori di Salice Occhiali Srl,sono conformi ai requisiti essenziali di salute e sicurezza applicabili e, rispettivamente, previsti dalregolamento 475/2016/UE e dalla direttiva del consiglio 89/686/CEE e sono conformi alla normaUni EN 166 “Protezione personale degli occhi - specifiche”. La procedura di Certificazione prevista dall’Art.10 della 89/686/CEEè stata eseguita da CERTOTTICA, Organismo notificato presso la Commissione Europea (codice identificativo 0530), e l’Istituto di Certificazione CSI S.p.A. ne conferma la conformità ai Requisiti Essenziali dell’Allegato II delRegolamento (UE) 2016/425 e alla norma armonizzata EN 166:2001. - Ottica Molineris
   Updated: 2026-10-13T20:51:43Z
   Total Products: 0
 - [Balmain](https://otticamolineris.it/collections/balmain): Balmain, sinonimo di storicità e modernità, lavora solo con materiali di alta qualità e con gli artigiani migliori. Per questo la sede si trova a Lugano, la sezione design a Los Angeles e la produzione in Giappone. Le équipes di esperti internazionali permettono al brand di creare il tipo di occhiali che corrisponde perfettamente a una Maison come Balmain. - Ottica Molineris
-  Updated: 2026-11-16T15:13:31Z
+  Updated: 2026-11-17T10:14:12Z
   Total Products: 1
 - [Ray-Ban](https://otticamolineris.it/collections/ray-ban): Stile, autenticità, libertà di esprimersi, qualità e funzionalità sono i valori chiave alla base della filosofia del marchio di occhiali Ray-Ban. Ray-Ban, da sempre sinonimo di alta qualità delle lenti e dei materiali, è l’occhiale da sole per eccellenza e di gran lunga il più venduto al mondo, per il suo stile e design inconfondibile. - Ottica Molineris
-  Updated: 2026-11-16T21:12:38Z
-  Total Products: 796
+  Updated: 2026-11-24T21:12:38Z
+  Total Products: 800
 - [Revo](https://otticamolineris.it/collections/revo): Il marchio di occhiali REVO è caratterizzato da una lente innovativa che deriva da una tecnologia sviluppata dalla NASA per gli oblò dei satellite e che è in grado di offrire la massima protezione dai raggi ultravioletti ed infrarossi. REVO è l’occhiale ideale per quelle persone che hanno bisogno di una visione perfetta nelle loro attività sportive all’aria aperta o che necessitano di una specifica protezione degli occhi. - Ottica Molineris
   Updated: 2026-10-13T20:51:48Z
   Total Products: 0
 - [Tiffany & Co.](https://otticamolineris.it/collections/tiffany-co): Tiffany è sinonimo di glamour e di classe. Con disegni classici e senza tempo, famosi per l'alta qualità e per un'artigianalità senza pari, la squisita selezione di occhiali da sole Tiffany incarna uno stile sobrio ed elegante. - Ottica Molineris
-  Updated: 2026-10-13T20:51:50Z
-  Total Products: 6
+  Updated: 2026-11-18T09:05:33Z
+  Total Products: 5
 - [L.G.R](https://otticamolineris.it/collections/l-g-r): Gli occhiali L.G.R sono interamente realizzati a mano in Italia da tre famiglie artigianali, che costruiscono ogni montatura dall'inizio alla fine utilizzando metodi di produzione tradizionali al fine di offrire un prodotto autentico e nobile. L.G.R preserva i valori e il patrimonio italiano attraverso il duro lavoro di persone reali che hanno trascorso la vita specializzandosi in questa meticolosa linea di artigianato. Il risultato è un prodotto genuino che traduce l'eccellenza attraverso passione e autenticità. - Ottica Molineris
-  Updated: 2026-11-16T15:14:14Z
+  Updated: 2026-11-17T10:14:26Z
   Total Products: 5
 - [Prada Linea Rossa](https://otticamolineris.it/collections/prada-linea-rossa): Lanciato nel 1997, Prada Linea Rossa è il partner ufficiale del team di vela Luna Rossa. Gli occhiali di questa collezione sono un perfetto mix di eleganza e innovazione tecnologica. Tutti i modelli, ultra leggeri, sono ideali per l’attività sportiva. - Ottica Molineris
-  Updated: 2026-11-16T12:13:28Z
+  Updated: 2026-11-17T10:14:57Z
   Total Products: 14
 - [Vogue](https://otticamolineris.it/collections/vogue): Il marchio di occhiali Vogue è nato nel 1973 con lo stesso nome della famosa rivista di moda. I modelli Vogue si distinguono per il design innovativo, per il grande assortimento di colori e montature e per i dettagli sulle aste che trasformano l’occhiale in un ambito accessorio “fashion”. - Ottica Molineris
-  Updated: 2026-11-16T21:13:28Z
-  Total Products: 141
+  Updated: 2026-11-18T10:13:21Z
+  Total Products: 124
 - [Dolce & Gabbana](https://otticamolineris.it/collections/dolce-gabbana): Distintivi e intramontabili. Questi gli occhiali delle collezioni di Dolce e Gabbana, vere icone di stile, che celebrano i valori del marchio esaltando la tradizione artigianale dell’Italia, impiegando solo materiali pregiati. Varie le linee e le forme sempre impreziosite da particolari raffinati. - Ottica Molineris
-  Updated: 2026-11-16T21:13:20Z
+  Updated: 2026-11-24T21:13:10Z
   Total Products: 80
 - [Giorgio Armani](https://otticamolineris.it/collections/giorgio-armani): Lo stile Giorgio Armani significa eleganza ed esclusività riflesse in linee e forme essenziali, caratterizzate dall'estrema attenzione al dettaglio e alle rifiniture. Sempre alla ricerca di tecnologie avanzate, che garantiscano al prodotto comfort e funzionalità, la linea di occhiali Giorgio Armani si avvale di materiali di elevatissima qualità ed esclusivi per il marchio. - Ottica Molineris
-  Updated: 2026-11-16T15:14:05Z
+  Updated: 2026-11-17T10:14:28Z
   Total Products: 68
 - [Emporio Armani](https://otticamolineris.it/collections/emporio-armani): “L'eleganza non è farsi notare, ma farsi ricordare”. La collezione di Emporio Armani, segue alla lettera la filosofia del suo creatore linee semplici e informali, che lasciano il segno dando un tocco di eleganza, diventando un tutt’uno con chi li indossa. - Ottica Molineris
-  Updated: 2026-11-16T15:13:52Z
+  Updated: 2026-11-17T10:14:39Z
   Total Products: 116
 - [Burberry](https://otticamolineris.it/collections/burberry): Burberry è sinonimo di british style. Il brand fondato nel 1856 è diventato protagonista della storia inglese, accompagnando le grandi imprese dei sudditi di sua Maestà con classe ed eleganza. Burberry in oltre 150 anni di attività ha mantenuto inalterate queste caratteristiche, che si esprimono appieno nelle collezioni di occhiali, linee e forme innovative, che mantengono inalterato l’antico prestigio. Indossando gli occhiali Burberry, pietra miliare della moda, stile e magnetismo saranno assicurati. - Ottica Molineris
-  Updated: 2026-11-16T21:13:18Z
-  Total Products: 87
+  Updated: 2026-11-18T22:13:10Z
+  Total Products: 88
 - [Valentino](https://otticamolineris.it/collections/valentino): Il marchio Valentino è associato al glamour, all'esclusività e allo stile. La collezione di occhiali Valentino è un'armonia di contrasti, caratteristiche profonde, espressioni di femminilità ed elementi iconici del mondo di Valentino. - Ottica Molineris
-  Updated: 2026-11-16T21:13:22Z
-  Total Products: 21
+  Updated: 2026-11-20T19:13:34Z
+  Total Products: 31
 - [Polo Ralph Lauren](https://otticamolineris.it/collections/polo-ralph-lauren): La collezione Polo by Ralph Lauren propone articoli dall’aspetto sobrio e pulito , sportivi, con un inimitabile gusto chic metropolitano. Lo stile incrocia il mondo delle università della costa orientale americana e la raffinatezza della tradizione inglese. La scelta del brand cade sulle forme intramontabili di ieri, come il modello aviatore con ricercatezze stilistiche di dettagli originali. - Ottica Molineris
-  Updated: 2026-11-16T12:13:37Z
+  Updated: 2026-11-17T10:15:00Z
   Total Products: 61
 - [Ralph](https://otticamolineris.it/collections/ralph): Gli occhiali da sole RALPH catturano lo spirito di Ralph Lauren. Dal giovane trendy, al classico con un tocco innovativo, RALPH è un brand che abbina ottimo design e qualità. - Ottica Molineris
   Updated: 2026-10-13T20:52:09Z
   Total Products: 0
 - [Ralph Lauren](https://otticamolineris.it/collections/ralph-lauren): Silhouette vintage e forme oversize, che assecondano e completano il look di una donna al passo con i tempi, che desidera un’eleganza senza tempo. Questa il leitmotiv della collezione di Ralph Lauren, caratterizzata dalle creazioni raffinate della Maison. Materiali raffinati ed elementi distintivi del marchio fanno dei modelli Ralph Lauren accessori inconfondibili. Un modo per essere chic e glamour ogni giorno dell’anno. - Ottica Molineris
-  Updated: 2026-11-16T14:13:39Z
+  Updated: 2026-11-17T10:15:16Z
   Total Products: 55
 - [Alain Mikli](https://otticamolineris.it/collections/alain-mikli): Alain Mikli è conosciuto per il suo gusto innovativo e provocatorio che da anni rivoluziona il mondo dell'occhialeria. La sua proposta di Collezione si basa su un'accorta ricerca di forme accostata alla scelta di lastre di alta qualità e raffinata unicità. - Ottica Molineris
-  Updated: 2026-11-16T14:13:26Z
+  Updated: 2026-11-17T10:13:59Z
   Total Products: 16
 - [Bvlgari](https://otticamolineris.it/collections/bvlgari): La bellezza come parte integrante della quotidiniatà. Questo il leit motiv della collezione di Bvlgari, che applica la stessa accurata ricercatezza e i rigorosi alti standard di design sugli occhiali sia da uomo sia da donna, offrendo montature raffinate, che possono considerarsi dei piccoli gioielli. - Ottica Molineris
   Updated: 2026-10-13T20:52:15Z
   Total Products: 0
 - [Miu Miu](https://otticamolineris.it/collections/miu-miu): La collezione di occhiali Miu Miu è indirizzata ad una clientela particolarmente attenta alle nuove tendenze, disinvolta e sofisticata. Il marchio Miu Miu è urbano, giovane, sofisticato e sensuale, una visione alternativa, un “nuovo classico”. - Ottica Molineris
-  Updated: 2026-11-16T15:13:51Z
+  Updated: 2026-11-17T10:15:21Z
   Total Products: 37
 - [Kuboraum](https://otticamolineris.it/collections/kuboraum): Kuboraum si distingue per produrre delle vere e proprie "maschere" sui visi dei suoi fan. Gli occhiali Kuboraum sottolieneano la personalità e danno libero sfogo all'identità di ognuno. Appaiono come stanze cubiche dentro le quali uno si sente a suo agio con se stesso e con il mondo che lo circonda. Sono oggetti da collezione, unici manufatti! - Ottica Molineris
-  Updated: 2026-11-16T20:13:47Z
+  Updated: 2026-11-17T10:14:20Z
   Total Products: 3
 - [Cartier](https://otticamolineris.it/collections/cartier): Gli occhiali Cartier incorniciano lo sguardo rendendo quest’accessorio un gioiello a cui non è possibile rinunciare. Modelli originali e ricercati che riflettono in ogni momento l’eccellenza e la passione per i dettagli della Maison francese. - Ottica Molineris
-  Updated: 2026-11-16T21:13:31Z
-  Total Products: 91
+  Updated: 2026-11-24T11:13:32Z
+  Total Products: 45
 - [Etnia Barcelona](https://otticamolineris.it/collections/etnia-barcelona): La collezione Etnia Barcelona eyewear riflette gli eventi culturalmente importanti che hanno riguardato Barcellona nel corso della storia a partire dagli anni 20. Il brand nasce a fine anni Novanta proponendo veri e propri capolavori che si distinguono per 4 aspetti fondamentali: Qualità, Arte, Cultura e Moda. La collezione sole viene proposta con lenti di altissima qualità in cristallo, Barberini. - Ottica Molineris
-  Updated: 2026-11-16T21:13:19Z
+  Updated: 2026-11-17T10:14:37Z
   Total Products: 5
 - [Barton Perreira](https://otticamolineris.it/collections/barton-perreira): Quando Bill Barton e Patty Perreira nel 2007 fondano il brand che porta i loro nomi hanno una vision molto chiara: un marchio indipendente, di lusso, che si distingua dal resto del mondo dell’eyewear per stile ed eleganza. Non a caso, ogni occhiale Barton Perreira è realizzato a mano in Giappone da abili artigiani e vanta l’uso esclusivo dei migliori materiali. Le personalità differenti di Perreira e Barton si mescolano alla perfezione: la designer è caratterizzata da uno stile intuitivo che le permette di individuare in modo tempestivo la fluttuazione del mondo della moda in modo tale da modellarsi in base ai cambiamenti del mercato. Al contrario, Barton si è affacciato al mondo degli occhiali, grazie alla sua professione di ottico. Per il brand, la conoscenza tecnica dell’industria ottica, si è rivelata fondamentale nel corso degli anni.Ogni linea è prodotta in quantità limitate e rende ciascun occhiale un accessorio esclusivo ed unico per chi lo indossa. - Ottica Molineris
-  Updated: 2026-11-16T21:13:11Z
+  Updated: 2026-11-17T10:14:23Z
   Total Products: 21
 - [Tom Ford](https://otticamolineris.it/collections/tom-ford): Stravaganti e con la voglia di esprimere qualcosa di nuovo e di diverso. Questa la base della collezione eyewear Tom Ford, che rientra nel perfetto stile glam dello stilista americano. Altissimo il quoziente di  appeal, abbinato ad un crescente ritmo di audacia ed elegante sfrontatezza. Per queste sue caratteristiche Tom Ford diventa la scelta di James Bond! In "Skyfall" è apparso con il modello Marko FT 0144 mentre nel suo ultimo "Spectre" rivela tutta la sua eleganza con il Snowdon FT 0237. - Ottica Molineris
-  Updated: 2026-11-16T21:13:23Z
-  Total Products: 744
+  Updated: 2026-11-24T17:13:32Z
+  Total Products: 743
 - [Guess](https://otticamolineris.it/collections/guess): GUESS fu fondata nel 1981 dai fratelli Marciano che lasciarono il sud della Francia a caccia del sogno americano. La visione dei fratelli Marciano spinse il brand verso nuove frontiere: GUESS diventò, così, l’emblema di uno stile di vita giovane, sexy e avventuroso. GUESS si rivolge ad un pubblico giovane e alla moda. Una linea di occhiali moderna con dettagli ispirati alle ultime tendenze della moda: l’ampia gamma d’offerta incarna completamente l’essenza valoriale del brand, con forme di tendenza e audaci combinazioni interpretate con silhouettes contemporanee e un design sempre aggiornato. L’offerta sole e quella vista include modelli per lei e lui, come anche per bambini e ragazzi. - Ottica Molineris
-  Updated: 2026-11-16T21:13:30Z
-  Total Products: 509
+  Updated: 2026-11-24T19:14:01Z
+  Total Products: 515
 - [Max&Co.](https://otticamolineris.it/collections/max-co): Le collezioni di occhiali da sole e da vista MAX&Co. sono un imprescindibile complemento di stile, caratterizzati da design impeccabile e ricercato, forme sempre aggiornate, colori originali e materiali all’avanguardia. Un must-have da vera fashionista. - Ottica Molineris
   Updated: 2026-10-13T20:52:28Z
   Total Products: 30
@@ -2341,47 +2347,47 @@
   Updated: 2026-10-13T20:52:30Z
   Total Products: 0
 - [Moncler](https://otticamolineris.it/collections/moncler): I nuovi occhiali da sole Moncler esaltano gli elementi iconici dello stile senza tempo del marchio e si dividono in tre categorie: “sport”, nati per la montagna ma facilmente portabili in città; “duvet”, ossia le proposte che combinano funzionalità estetica e ricerca tecnologica; “timeless”, occhiali iconici, senza tempo d’ispirazione vintage. - Ottica Molineris
-  Updated: 2026-11-16T21:13:14Z
-  Total Products: 138
+  Updated: 2026-11-22T19:13:22Z
+  Total Products: 132
 - [Adidas](https://otticamolineris.it/collections/adidas): Quattro concetti esprimono la qualità degli occhiali firmati Adidas: ottima visione e protezione, vestibilità personalizzata e durata nel tempo. La collezione dello storico marchio sportivo tedesco utilizza materiali tecnologicamente avanzati, testando il prodotto finito con i migliori atleti del mondo. Questi modelli saranno amati soprattutto dagli sportivi. - Ottica Molineris
-  Updated: 2026-11-16T20:13:13Z
-  Total Products: 600
+  Updated: 2026-11-24T19:13:27Z
+  Total Products: 596
 - [Tod's](https://otticamolineris.it/collections/tods): La collezione di occhiali Tod's è caratterizzata da una serie di design contemporaneo che ha uno spirito classico e senza tempo. - Ottica Molineris
-  Updated: 2026-11-16T12:14:10Z
+  Updated: 2026-11-19T19:13:49Z
   Total Products: 160
 - [Max Mara](https://otticamolineris.it/collections/max-mara): Max Mara è espressione di femminilità e di un'autentica eleganza senza tempo: si caratterizza per l'alta qualità dei materiali, il design moderno, il taglio sartoriale. Nei prodotti Max Mara si compenetrano modernità e tradizione, eleganza e semplicità. Max Mara è un marchio indirizzato alla donna moderna che cerca occhiali, sofisticati caratterizzati da dettagli classici e non appariscenti. - Ottica Molineris
-  Updated: 2026-11-16T12:13:35Z
-  Total Products: 331
+  Updated: 2026-11-24T19:13:27Z
+  Total Products: 335
 - [Swarovski](https://otticamolineris.it/collections/swarovski): Gli occhiali Swarovski sono sinonimo di innovazione, creatività e precisione. Le collezioni dimostrano la volontà della società di incorporare i caratterici tipici del marchio nei modelli di occhiali, inserendo i cristalli in modo originale. - Ottica Molineris
-  Updated: 2026-11-16T20:13:42Z
+  Updated: 2026-11-24T19:13:50Z
   Total Products: 153
 - [Saint Laurent](https://otticamolineris.it/collections/saint-laurent): Fondata nel 1961, Yves Saint Laurent è stata la prima maison di moda a lanciare, nel 1966, il concetto del prêt-à-porter di lusso con la creazione della linea "Saint Laurent Rive Gauche", sinonimo di gioventù e di libertà. Questo cambiamento ha rappresentato un primo passo fondamentale nella modernizzazione della moda e ha rivoluzionato lo scenario socio-culturale. Nel corso degli anni, gli stili rivoluzionari della Maison sono diventati punti di riferimento culturali e artistici emblematici e il suo fondatore, il sarto Yves Saint Laurent, si è imposto come uno dei più grandi stilisti del XX secolo. Membro del gruppo Kering, la Maison è rimasta fedele alla sua identità, sempre all'avanguardia della moda. Con la direzione creativa di Anthony Vaccarello da aprile 2016, la Maison offre oggi una gamma completa di articoli di prêt-à-porter femminile e maschile, pelletteria, calzature, gioielli e occhiali con il logo "Saint Laurent Paris". - Ottica Molineris
-  Updated: 2026-11-16T21:13:19Z
+  Updated: 2026-11-23T09:13:32Z
   Total Products: 56
 - [Balenciaga](https://otticamolineris.it/collections/balenciaga): Creazioni di glam e di lusso sono la parola d’ordine degli occhiali del marchio Balenciaga. un Design innovativo, volumi inediti, offrendoci vasta scelta, dalle forme più rigorose a modelli con linee sinuose, sono le principali qualità di questo brand esclusivo. I materiali sono di estrema qualità e danno vita a montature da sole e da vista sofisticati ed eleganti. - Ottica Molineris
-  Updated: 2026-11-16T20:13:20Z
+  Updated: 2026-11-22T16:00:10Z
   Total Products: 24
 - [Montblanc](https://otticamolineris.it/collections/montblanc): La collezione di occhiali Montblanc comprende una gamma di stili classici e straordinari. Le forme sono contemporanee e diverse in termini di dimensioni e stile. - Ottica Molineris
-  Updated: 2026-11-16T21:13:17Z
+  Updated: 2026-11-17T10:14:07Z
   Total Products: 37
 - [Bottega Veneta](https://otticamolineris.it/collections/bottega-veneta): Riservatezza, qualità e una manualità artigianale impareggiabile: fin dalla sua fondazione nel 1966 il brand veneto ha dettato i nuovi canoni del lusso. I suoi mastri artigiani infondono alle proprie creazioni tutta l’attenzione per i dettagli, la precisione e la perfezione tipiche della tradizione artigianale Italiana. Nell’atmosfera unica della villa Ottocentesca che ospita l’Atelier di Montebello Vicentino gli artigiani di Bottega Veneta lavorano con le mani, con gli occhi e con il cuore e trasformano la lavorazione del cuoio in una vera e propria arte. - Ottica Molineris
-  Updated: 2026-11-16T21:13:13Z
-  Total Products: 84
+  Updated: 2026-11-24T20:13:13Z
+  Total Products: 86
 - [Alexander McQueen](https://otticamolineris.it/collections/alexander-mcqueen): Alexander McQueen, la casa del teschio, celebre per il suo stile “tormentato”, dove eros e tanathos trionfano e in cui luce e oscurità si fondono creando modelli quasi gotici, che hanno un fascino unico. Per essere sempre enigmatici e alla moda. - Ottica Molineris
-  Updated: 2026-11-16T21:13:10Z
-  Total Products: 17
+  Updated: 2026-11-21T19:13:14Z
+  Total Products: 18
 - [Chloé](https://otticamolineris.it/collections/chloe): Se sei una donna pragmatica e vuoi esaltare la tua femminilità, la collezione di occhiali firmata Chloé è quella giusta per te. Questi modelli giocano con volumi e sfumature, unendo linee morbide alle forme molto grandi, donando a chi li indossa un’eleganza senza tempo. - Ottica Molineris
-  Updated: 2026-11-16T21:13:17Z
-  Total Products: 68
+  Updated: 2026-11-24T21:13:12Z
+  Total Products: 69
 - [Persol](https://otticamolineris.it/collections/persol): Persol è la leggenda vivente degli occhiali “made in Italy”. Il suo nome è evocativo, in quanto significa “Per il sole” e i suoi modelli fondono estetica e tecnologia con un design senza tempo. L’alta qualità del prodotto offre a chi li indossa un marchio distintivo. Sono considerati gli occhiali preferiti delle star dello showbusiness. - Ottica Molineris
-  Updated: 2026-11-16T15:14:36Z
-  Total Products: 80
+  Updated: 2026-11-23T09:13:21Z
+  Total Products: 79
 - [Kartell](https://otticamolineris.it/collections/kartell): Kartell si prepara a guardare il mondo con occhi nuovi. Anzi, con occhiali di design che racchiudono tutta la tradizione, la storia, l’innovazione e la cifra stilistica del noto marchio. Il brand ha infatti deciso di buttarsi a capofitto nel mondo della moda lanciando Kartell Eyewear, la sua prima linea di occhiali da sole e vista. Due le collezioni attualmente presenti: la Main Collection e la Design Collection, un ventaglio di modelli interpretati e studiati da quattro dei più noti designer: Rodolfo Dordoni, Ferruccio Laviani, Piero Lissoni e Fabio Novembre. Fil rouge di questo nuovo progetto, la trasparenza, chiave estetica di Kartell, che viene declinata nei colori più disparati e accostata a un ventaglio variegato di materiali. Materiali che, lavorati attraverso giochi geometrici di linee e forme, strizzano l’occhio all’ambiente, sottolineando la costante ricerca e l’impegno di Kartell per la sostenibilità. - Ottica Molineris
   Updated: 2026-10-13T20:52:55Z
   Total Products: 2
 - [Web](https://otticamolineris.it/collections/web): Ispirato ai temi del viaggio e delle esplorazioni, Web Eyewear, nel corso degli anni si è evoluto interpretando a suo modo le tendenze senza dimenticare il suo passato. Accenti vintage e attitude moderna rappresentano il mix vincente che identifica Web Eyewear determinando il successo del suo stile senza tempo.Il brand si distingue per un design accattivante dei modelli proposti e collezioni easy-to-wear dall’allure atemporale.Gli occhiali da vista e da sole coniugano tendenza e funzionalità per offrire un prodotto di carattere.Web Eyewear è adatto a chi affronta la vita con curiosità e interesse verso ciò che è nuovo ed inusuale, a uomini e donne dinamici e sicuri di sé che cercano un accessorio moderno ma dal fascino senza tempo, che li accompagni nelle loro avventure quotidiane. L’occhiale diventa un accessorio essenziale, un compagno di viaggio per chi continua ad esplorare, emozionarsi e vivere. - Ottica Molineris
-  Updated: 2026-11-16T10:13:36Z
-  Total Products: 223
+  Updated: 2026-11-24T19:14:08Z
+  Total Products: 227
 - [Kador](https://otticamolineris.it/collections/kador): Kador venne fondata nel 1962 in Cadore, zona conosciuta come uno dei primi distretti dell’occhiale. La volontà del brand è quella di produrre occhiali artigianali di qualità attraverso antiche tecniche che possono essere definite pura arte. L’ispirazione arriva dalle mode passate che vengono però rivisitate in chiave moderna ed è per questo che ogni occhiale Kador è un pezzo di design unico. Obiettivo finale: creare un accessorio unico che risalti la personalità di chi li indossa. - Ottica Molineris
   Updated: 2026-10-13T20:52:59Z
   Total Products: 18
@@ -2398,32 +2404,32 @@
   Updated: 2026-11-16T16:08:06Z
   Total Products: 6
 - [tutti i prodotti](https://otticamolineris.it/collections/tutti-i-prodotti): - Ottica Molineris
-  Updated: 2026-11-16T21:13:17Z
-  Total Products: 39178
+  Updated: 2026-11-25T00:12:47Z
+  Total Products: 39226
 - [I best seller](https://otticamolineris.it/collections/le-novita-dai-brand)
-  Updated: 2026-11-16T20:13:19Z
+  Updated: 2026-11-23T09:12:48Z
   Total Products: 15
 - [Non disponibili](https://otticamolineris.it/collections/non-disponibili): - Ottica Molineris
-  Updated: 2026-11-16T21:13:33Z
-  Total Products: 27426
+  Updated: 2026-11-25T00:12:47Z
+  Total Products: 27593
 - [Solo disponibili](https://otticamolineris.it/collections/solo-disponibili): - Ottica Molineris
-  Updated: 2026-11-16T21:13:33Z
-  Total Products: 22336
+  Updated: 2026-11-25T00:13:22Z
+  Total Products: 22240
 - [Carolina Herrera](https://otticamolineris.it/collections/carolina-herrera): - Ottica Molineris
-  Updated: 2026-11-13T19:14:00Z
-  Total Products: 286
+  Updated: 2026-11-24T17:13:18Z
+  Total Products: 285
 - [Prodotti non in saldo](https://otticamolineris.it/collections/prodotti-non-in-saldo): - Ottica Molineris
-  Updated: 2026-11-16T21:13:33Z
-  Total Products: 22336
+  Updated: 2026-11-25T00:13:22Z
+  Total Products: 22240
 - [Marcelo Burlon County of Milan](https://otticamolineris.it/collections/marcelo-burlon-county-of-milan): - Ottica Molineris
   Updated: 2026-10-13T20:54:22Z
   Total Products: 0
 - [Ophy](https://otticamolineris.it/collections/ophy): Ophy eyewear è un brand che nasce dall’ispirazione e dalla passione di due giovani menti estrose con un interesse comune: l’eyewear e il design moderno contemporaneo. La produzione è stata affidata alle mani di artigiani che hanno battezzato l’eccellenza dell’occhialeria nel mondo. Gli occhiali Ophy hanno un design unico che rende omaggio all’architettura futuristica moderna: angoli acuti, spigoli smussati, lenti squadrate, forme geometriche semplici ma di notevole impatto che incorniciano il viso ad opera d’arte. - Ottica Molineris
-  Updated: 2026-11-16T15:14:40Z
+  Updated: 2026-11-17T10:13:59Z
   Total Products: 3
 - [Dior](https://otticamolineris.it/collections/dior): - Ottica Molineris
-  Updated: 2026-11-16T21:13:17Z
-  Total Products: 266
+  Updated: 2026-11-24T11:13:29Z
+  Total Products: 256
 - [Look](https://otticamolineris.it/collections/look): LOOK si fa portavoce dello stile italiano nell’occhialeria indipendente, interpretando le tendenze cromatiche con modernità e con uno sguardo al futuro. Con oltre 40 anni di esperienza nel settore, porta avanti l’impegno di realizzare prodotti unici, completamente made in Italy e dalle qualità eccellenti, studiati per migliorare il benessere visivo delle persone. L'uso di materiali innovativi e di tecnologie alternative per lavorarli è alla base dello sviluppo di ogni montatura LOOK. Tra questi troviamo il NIL, materiale plastico che permette di creare forme uniche senza rinunciare alla leggerezza; lo XINOX, un acciaio hi-tech ultraleggero e infine l'ALUMIX, una lega metallica composta da alluminio, titanio e acciaio che risulta 2,5 volte più leggero del titanio mantenendo robustezza ed elasticità. - Ottica Molineris
   Updated: 2026-10-13T20:54:28Z
   Total Products: 19
@@ -2443,7 +2449,7 @@
   Updated: 2026-11-11T10:17:51Z
   Total Products: 31
 - [Christian Lacroix](https://otticamolineris.it/collections/christian-lacroix): Casa di moda che nasce nel 1987 e si basa su uno stile barocco, esuberante, unico e colorato. Colori vibranti e forme innovative si fanno subito spazio nell'industria della moda. Oggi la collezione Christian Lacroix include accessori come gioielli, orologi, profumi e l'immancabile eyewear. - Ottica Molineris
-  Updated: 2026-11-11T10:18:49Z
+  Updated: 2026-11-19T19:13:34Z
   Total Products: 31
 - [Derek Lam](https://otticamolineris.it/collections/derek-lam): Derek Lam è un designer americano cresciuto a San Francisco. Ha iniziato la sua carriera lavorando per le migliori etichette di New York. Il brand, fondato nel 2003, racconta uno stile classico ed eclettico. - Ottica Molineris
   Updated: 2026-11-11T19:14:49Z
@@ -2455,14 +2461,14 @@
   Updated: 2026-11-11T19:13:42Z
   Total Products: 57
 - [Silvian Heach](https://otticamolineris.it/collections/silvian-heach): Il lancio della prima collezione eyewear fu nel 2014 al Mido a Milano. Lo scopo di Silvian Heach Eyewear è non solo proporre semplici occhiali da vista e da sole, ma accessori di alta qualità che impreziosiscono e danno un tocco speciale ad ogni outfit. Ogni occhiale Silvian Heach è fatto a mano in Italia nella loro fabbrica, usando solo i migliori materiali, quali acetati di cellulose e metallo da fornitori italiani per creare occhiali da sole e da vista unici e accattivanti per donne con carattere e alla moda. Ciòpermette di avere prezzi competitivi senza compromettere la qualità, e di garantire un alto livello di servizio. - Ottica Molineris
-  Updated: 2026-11-11T10:14:15Z
-  Total Products: 37
+  Updated: 2026-11-18T19:13:01Z
+  Total Products: 38
 - [Phillip Lim by Linda Farrow](https://otticamolineris.it/collections/phillip-lim-by-linda-farrow): In questa collaborazione viene espressa un'attitudine classica che allo stesso tempo trasmette individualità. La collezione è composta da stili diversi pieni di dettagli. - Ottica Molineris
   Updated: 2026-11-11T10:16:59Z
   Total Products: 57
 - [Philipp Plein](https://otticamolineris.it/collections/philipp-plein): Le collezioni di Philipp Plein sono divertenti, provocanti, massimaliste e sempre sfarzose. Grazie ad un’estetica inconfondibile e a codici stilistici forti e innovativi, il brand Philipp Plein rende omaggio ad appassionati individualisti che trasformano i loro desideri più profondi in realtà. - Ottica Molineris
-  Updated: 2026-11-16T20:13:34Z
-  Total Products: 140
+  Updated: 2026-11-24T18:13:31Z
+  Total Products: 136
 - [Matthew Williamson by Linda Farrow](https://otticamolineris.it/collections/matthew-williamson-by-linda-farrow): Rinomato per l'uso di colori brillanti e l'iconico pattern a farfalla, l'approccio di Matthew Williamson verso l'occhialeria non è molto distante da quello per la sua collezione moda. Abbina eleganti forme femminili con un accento floreale a lenti chiare dai toni neutri. - Ottica Molineris
   Updated: 2026-11-11T10:19:00Z
   Total Products: 72
@@ -2473,26 +2479,26 @@
   Updated: 2026-11-11T10:17:08Z
   Total Products: 38
 - [Elie Saab](https://otticamolineris.it/collections/elie-saab): - Ottica Molineris
-  Updated: 2026-11-11T19:13:31Z
+  Updated: 2026-11-24T19:13:34Z
   Total Products: 16
 - [Emilio Pucci](https://otticamolineris.it/collections/emilio-pucci): - Ottica Molineris
   Updated: 2026-07-31T11:57:04Z
   Total Products: 0
 - [Etro](https://otticamolineris.it/collections/etro): - Ottica Molineris
-  Updated: 2026-11-16T21:13:12Z
-  Total Products: 107
+  Updated: 2026-11-17T10:14:51Z
+  Total Products: 108
 - [Boss Orange](https://otticamolineris.it/collections/boss-orange): - Ottica Molineris
   Updated: 2026-10-18T18:14:26Z
   Total Products: 7
 - [Dsquared2](https://otticamolineris.it/collections/dsquared2): - Ottica Molineris
-  Updated: 2026-11-16T12:14:04Z
-  Total Products: 242
+  Updated: 2026-11-23T19:13:21Z
+  Total Products: 243
 - [Jplus](https://otticamolineris.it/collections/jplus): - Ottica Molineris
   Updated: 2026-10-13T20:55:02Z
   Total Products: 0
 - [Lunor](https://otticamolineris.it/collections/lunor): - Ottica Molineris
-  Updated: 2026-11-16T21:13:17Z
-  Total Products: 16
+  Updated: 2026-11-19T18:13:01Z
+  Total Products: 17
 - [Neubau](https://otticamolineris.it/collections/neubau): - Ottica Molineris
   Updated: 2026-10-13T20:55:05Z
   Total Products: 0
@@ -2506,31 +2512,31 @@
   Updated: 2026-11-11T19:14:22Z
   Total Products: 136
 - [Eyepetizer](https://otticamolineris.it/collections/eyepetizer): - Ottica Molineris
-  Updated: 2026-11-13T19:13:22Z
-  Total Products: 25
+  Updated: 2026-11-19T19:14:11Z
+  Total Products: 26
 - [CHANEL](https://otticamolineris.it/collections/chanel): - Ottica Molineris
-  Updated: 2026-11-16T12:14:12Z
+  Updated: 2026-11-17T10:14:02Z
   Total Products: 6
 - [GIVENCHY](https://otticamolineris.it/collections/givenchy): - Ottica Molineris
-  Updated: 2026-11-16T21:13:15Z
+  Updated: 2026-11-17T10:14:48Z
   Total Products: 110
 - [Boss](https://otticamolineris.it/collections/boss): - Ottica Molineris
-  Updated: 2026-11-16T15:13:42Z
+  Updated: 2026-11-19T20:13:06Z
   Total Products: 8
 - [Palm Angels](https://otticamolineris.it/collections/palm-angels): - Ottica Molineris
-  Updated: 2026-11-16T21:13:21Z
-  Total Products: 13
+  Updated: 2026-11-19T16:13:11Z
+  Total Products: 12
 - [Off-White](https://otticamolineris.it/collections/off-white): - Ottica Molineris
   Updated: 2026-11-11T20:14:03Z
   Total Products: 3
 - [KENZO](https://otticamolineris.it/collections/kenzo): - Ottica Molineris
-  Updated: 2026-11-16T21:13:05Z
-  Total Products: 146
+  Updated: 2026-11-24T19:13:48Z
+  Total Products: 144
 - [STELLA MCCARTNEY](https://otticamolineris.it/collections/stella-mccartney): - Ottica Molineris
-  Updated: 2026-11-16T21:13:19Z
+  Updated: 2026-11-17T10:15:12Z
   Total Products: 58
 - [Under Armour](https://otticamolineris.it/collections/under-armour): - Ottica Molineris
-  Updated: 2026-11-16T20:14:08Z
+  Updated: 2026-11-23T10:13:13Z
   Total Products: 166
 - [Scuderia Ferrari](https://otticamolineris.it/collections/scuderia-ferrari): - Ottica Molineris
   Updated: 2026-07-31T11:57:11Z
@@ -2545,20 +2551,20 @@
   Updated: 2026-07-31T11:57:12Z
   Total Products: 0
 - [Prodotti in Saldo](https://otticamolineris.it/collections/prodotti-in-saldo): Scopri tutti i prodotti in saldo: occhiali da sole e da vista dei migliori brand a prezzi ridotti. - Ottica Molineris
-  Updated: 2026-11-16T21:13:33Z
-  Total Products: 2145
+  Updated: 2026-11-24T20:13:17Z
+  Total Products: 2101
 - [Prodotti Disponibili](https://otticamolineris.it/collections/prodotti-disponibili): - Ottica Molineris
-  Updated: 2026-11-16T21:13:33Z
-  Total Products: 22336
+  Updated: 2026-11-25T00:13:22Z
+  Total Products: 22240
 - [Occhiali da sole](https://otticamolineris.it/collections/occhiali-da-sole-1): - Ottica Molineris
-  Updated: 2026-11-16T21:12:49Z
-  Total Products: 18755
+  Updated: 2026-11-25T00:12:47Z
+  Total Products: 18775
 - [StoreRank.ai All Products](https://otticamolineris.it/collections/storerank-ai-all-products): - Ottica Molineris
-  Updated: 2026-11-16T21:13:17Z
-  Total Products: 39179
+  Updated: 2026-11-25T00:12:47Z
+  Total Products: 39227
 - [All Products (ChatGPT-AI Product Description)](https://otticamolineris.it/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - Ottica Molineris
-  Updated: 2026-11-16T21:13:17Z
-  Total Products: 39179
+  Updated: 2026-11-25T00:12:47Z
+  Total Products: 39227
 
 ## Blogs
 
@@ -2700,6 +2706,15 @@
     Author: Massimiliano Vercellino
   - [Guida Esperta per Scoprire Tutte le Caratteristiche del DB 7105 DAVID BECKHAM](https://otticamolineris.it/blogs/notizie/guida-esperta-per-scoprire-tutte-le-caratteristiche-del-db-7105-david-beckham): Guida Esperta per Scoprire Tutte le Caratteristiche del DB 7105 DAVID BECKHAM
     Updated: 2026-11-16T10:03:40Z
+    Author: Massimiliano Vercellino
+  - [Esploriamo l'eleganza sublime degli occhiali MARC 662 di MARC JACOBS per ogni occasione](https://otticamolineris.it/blogs/notizie/esploriamo-leleganza-sublime-degli-occhiali-marc-662-di-marc-jacobs-per-ogni-occasione): Esploriamo l'eleganza sublime degli occhiali MARC 662 di MARC JACOBS per ogni occasione
+    Updated: 2026-11-18T10:02:48Z
+    Author: Massimiliano Vercellino
+  - [Guida Completa allo Stile dei Modelli MO0095 di MAX&CO](https://otticamolineris.it/blogs/notizie/guida-completa-allo-stile-dei-modelli-mo0095-di-max-co): Guida Completa allo Stile dei Modelli MO0095 di MAX&CO
+    Updated: 2026-11-21T10:00:46Z
+    Author: Massimiliano Vercellino
+  - [Versatilità e Stile: Scopri il Fascino del BEO1105 Benetton per Ogni Occasione](https://otticamolineris.it/blogs/notizie/versatilita-e-stile-scopri-il-fascino-del-beo1105-benetton-per-ogni-occasione): Versatilità e Stile: Scopri il Fascino del BEO1105 Benetton per Ogni Occasione
+    Updated: 2026-11-23T10:02:19Z
     Author: Massimiliano Vercellino
 
 ## Store Pages
