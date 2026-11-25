@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-02-26T05:46:13Z
 - Contact Email: zeno.jewells@gmail.com
-- Updated At: 2026-11-18T00:48:25.582Z
+- Updated At: 2026-11-25T01:00:49.897Z
 
 ## Products
 
@@ -46,40 +46,40 @@
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/925SilverHeartLockPendantwithCZAccents-2.png?v=1790737094
   Price: ₹2,199.00 INR
 - [Classic 925 Sterling Silver Band Ring – Unisex | Zenojewels](https://zenojewels.com/products/classic-925-sterling-silver-band-ring-unisex-minimal): Shop the Classic 925 Sterling Silver Band Ring at Zenojewels. A sleek unisex minimal ring available in multiple sizes. Pure silver, timeless style.
-  Updated: 2026-10-02T00:58:14Z
+  Updated: 2026-11-24T07:09:20Z
   Vendor: Zeno Jewels
   Product Type: simple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/Gemini_Generated_Image_mefxnrmefxnrmefx.png?v=1790737139
   - [8](https://zenojewels.com/products/classic-925-sterling-silver-band-ring-unisex-minimal?variant=52944360505643)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹1,599.00 INR
   - [10](https://zenojewels.com/products/classic-925-sterling-silver-band-ring-unisex-minimal?variant=52944360538411)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹1,599.00 INR
   - [12](https://zenojewels.com/products/classic-925-sterling-silver-band-ring-unisex-minimal?variant=52944360571179)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹1,599.00 INR
   - [14](https://zenojewels.com/products/classic-925-sterling-silver-band-ring-unisex-minimal?variant=52944360603947)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹1,599.00 INR
   - [16](https://zenojewels.com/products/classic-925-sterling-silver-band-ring-unisex-minimal?variant=52944360636715)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹1,599.00 INR
   - [18](https://zenojewels.com/products/classic-925-sterling-silver-band-ring-unisex-minimal?variant=52944360669483)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹1,599.00 INR
   - [20](https://zenojewels.com/products/classic-925-sterling-silver-band-ring-unisex-minimal?variant=52944360702251)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹1,599.00 INR
   - [22](https://zenojewels.com/products/classic-925-sterling-silver-band-ring-unisex-minimal?variant=52944360735019)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹1,599.00 INR
   - [24](https://zenojewels.com/products/classic-925-sterling-silver-band-ring-unisex-minimal?variant=52944360767787)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹1,599.00 INR
 - [Men's 925 Silver Cuban Evil Eye Bracelet | Zenojewels](https://zenojewels.com/products/mens-925-silver-cuban-evil-eye-bracelet): Buy the Men's 925 Silver Cuban Evil Eye Bracelet at Zenojewels. Bold protection jewellery for men crafted in pure sterling silver. Shop now.
-  Updated: 2026-11-17T08:14:46Z
+  Updated: 2026-11-25T00:10:11Z
   Vendor: Zeno Jewels
   Product Type: Silver Bracelet
   Availability: Available
@@ -114,7 +114,7 @@
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/2433C576-9B23-4BD6-B0E4-6BF494DF541F.png?v=1790737156
   Price: ₹2,899.00 INR
 - [925 Silver Rose Gold Triangle Pearl Necklace | Zenojewels](https://zenojewels.com/products/925-silver-rose-gold-triangle-pendant-necklace-with-pearls): Shop the 925 Silver Rose Gold Triangle Pendant Necklace with Pearls at Zenojewels. Elegant two-tone silver necklace with pearl accents. Perfect gift for her.
-  Updated: 2026-10-02T00:55:02Z
+  Updated: 2026-11-24T06:48:15Z
   Vendor: Zeno Jewels
   Product Type: simple
   Availability: Available
@@ -128,17 +128,12 @@
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/29.png?v=1790737149
   Price: ₹2,099.00 INR
 - [925 Silver Box Chain for Pendants 18in & 20in | Zenojewels](https://zenojewels.com/products/925-silver-box-chain-for-pendants-sleek-minimal-design): Shop the 925 Silver Box Chain for Pendants at Zenojewels. Available in 18in and 20in. Sleek minimal design in pure sterling silver. Perfect for layering.
-  Updated: 2026-10-15T15:49:08Z
+  Updated: 2026-11-24T07:08:49Z
   Vendor: Zeno Jewels
   Product Type: simple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/IMG-5445.png?v=1790737143
-  - [18 in](https://zenojewels.com/products/925-silver-box-chain-for-pendants-sleek-minimal-design?variant=54943766642987)
-    Availability: Available
-    Price: ₹2,899.00 INR
-  - [20 in](https://zenojewels.com/products/925-silver-box-chain-for-pendants-sleek-minimal-design?variant=54943766675755)
-    Availability: Available
-    Price: ₹2,899.00 INR
+  Price: ₹2,899.00 INR
 - [925 Silver Flat Snake Chain Necklace | Zenojewels](https://zenojewels.com/products/925-silver-flat-snake-chain-necklace-sleek-amp-minimal): Buy the 925 Silver Flat Snake Chain Necklace at Zenojewels. Sleek and minimal pure silver chain necklace for everyday wear. Pairs well with any pendant.
   Updated: 2026-10-02T00:43:27Z
   Vendor: Zeno Jewels
@@ -215,38 +210,38 @@
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/Adjustable_Red_Black_Silver_Beaded_Bracelet_in_925_Silver_Unisex_Rakhi_Bracelet_-_3.png?v=1790737152
   Price: ₹1,699.00 INR
 - [Black-Striped 925 Sterling Silver Ring - Zeno Jewels](https://zenojewels.com/products/black-striped-925-sterling-silver-ring): A symbol of modern sophistication, this exquisite ring combines classic elegance with a striking contemporary design. Crafted from premium 925 sterling silver, the highly polished band features a smooth, reflective surface that catches the light beautifully. The centerpiece of the design is the pair of bold, black enamel stripes that run seamlessly around the ring. This sharp contrast creates a powerful visual statement, making the ring a versatile accessory for any occasion. Whether you're dressing up for a formal event or adding a touch of class to your everyday look, this ring is the perfect choice. Key Features: Material: Authentic 925 Sterling Silver Design: Polished silver band with two parallel black enamel inlays Finish: High-polish for a brilliant, long-lasting shine Versatility: Perfect for both men and women, suitable for daily wear or special occasions Durability: Hypoallergenic and tarnish-resistant for enduring beauty and comfort Note: The clean, classic design makes this ring ideal for use as a wedding band, a promise ring, or a stylish addition to your personal collection. - Zeno Jewels
-  Updated: 2026-10-20T16:23:26Z
+  Updated: 2026-11-24T07:08:26Z
   Vendor: Zeno Jewels
   Product Type: simple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/Gemini_Generated_Image_u74c3au74c3au74c.png?v=1790737145
   - [8](https://zenojewels.com/products/black-striped-925-sterling-silver-ring?variant=52944342581547)
     Availability: Available
-    Price: ₹1,899.00 INR
+    Price: ₹1,799.00 INR
   - [10](https://zenojewels.com/products/black-striped-925-sterling-silver-ring?variant=52944342614315)
     Availability: Available
-    Price: ₹1,899.00 INR
+    Price: ₹1,799.00 INR
   - [12](https://zenojewels.com/products/black-striped-925-sterling-silver-ring?variant=52944342647083)
     Availability: Available
-    Price: ₹1,899.00 INR
+    Price: ₹1,799.00 INR
   - [14](https://zenojewels.com/products/black-striped-925-sterling-silver-ring?variant=52944342679851)
     Availability: Available
-    Price: ₹1,899.00 INR
+    Price: ₹1,799.00 INR
   - [16](https://zenojewels.com/products/black-striped-925-sterling-silver-ring?variant=52944342712619)
     Availability: Available
-    Price: ₹1,899.00 INR
+    Price: ₹1,799.00 INR
   - [18](https://zenojewels.com/products/black-striped-925-sterling-silver-ring?variant=52944342745387)
     Availability: Available
-    Price: ₹1,899.00 INR
+    Price: ₹1,799.00 INR
   - [20](https://zenojewels.com/products/black-striped-925-sterling-silver-ring?variant=52944342778155)
     Availability: Available
-    Price: ₹1,899.00 INR
+    Price: ₹1,799.00 INR
   - [22](https://zenojewels.com/products/black-striped-925-sterling-silver-ring?variant=52944342810923)
     Availability: Available
-    Price: ₹1,899.00 INR
+    Price: ₹1,799.00 INR
   - [24](https://zenojewels.com/products/black-striped-925-sterling-silver-ring?variant=52944350839083)
     Availability: Available
-    Price: ₹1,899.00 INR
+    Price: ₹1,799.00 INR
 - [Oxidised Tiger Head 925 Silver Bracelet - Zeno Jewels](https://zenojewels.com/products/oxidised-tiger-head-925-silver-bracelet): Embrace Your Power with The Tiger’s Embrace Sterling Silver Bangle There’s something truly captivating about a piece of jewellery that tells a story.
   Updated: 2026-10-02T00:47:28Z
   Vendor: Zeno Jewels
@@ -297,18 +292,12 @@
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/DSC_2213.jpg?v=1790737098
   Price: ₹1,899.00 INR
 - [Classic Snake Chain 925 Silver Bracelet - Zeno Jewels](https://zenojewels.com/products/classic-snake-chain-925-silver-bracelet): The Epitome of Understated Style: Sterling Silver Snake Chain Bracelet The sterling silver snake bracelet is designed for those who appreciate elegance in its purest form. Crafted from genuine 925 sterling silver, this bracelet offers a smooth finish and a refined shine that never goes out of style. Its clean design makes it a versatile accessory that fits effortlessly into both modern and classic wardrobes. What makes this bracelet special is its signature snake chain construction. The tightly connected round segments form a seamless, fluid surface that moves naturally with your wrist. Because of this flexible design, the bracelet feels comfortable and light, even when worn throughout the day. As the light hits its polished surface, it creates a subtle glow that adds quiet sophistication to any look. Smooth Design with Everyday Comfort The snake chain is known for its sleek and uniform appearance. Unlike bulky link chains, it sits flat against the skin and drapes smoothly around the wrist. This makes it ideal for everyday wear. In addition, the high-quality sterling silver is durable, hypoallergenic, and resistant to tarnishing when cared for properly. Perfect for Layering or Solo Wear This bracelet works beautifully on its own for a minimalist look. However, it also layers well with other styles if you enjoy mixing textures. You can pair it with pieces from our Sterling Silver Bracelet Collection or explore our Unisex Jewellery Range for complementary designs (internal links). A Timeless Gift for Any Occasion Suitable for both men and women, this bracelet makes a thoughtful gift for birthdays, anniversaries, or special milestones. With its secure lobster clasp, it stays firmly in place while remaining easy to wear. Elegant, simple, and long-lasting, the sterling silver snake bracelet is a piece you’ll return to again and again. - Zeno Jewels
-  Updated: 2026-11-05T03:11:36Z
+  Updated: 2026-11-24T07:08:10Z
   Vendor: Zeno Jewels
   Product Type: simple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/Classic_Snake_Chain_925_Silver_Bracelet_2.jpg?v=1790737072
-  - [5 gm](https://zenojewels.com/products/classic-snake-chain-925-silver-bracelet?variant=54943646122283)
-    Availability: Not Available
-    Price: ₹2,499.00 INR
-  - [8 gm](https://zenojewels.com/products/classic-snake-chain-925-silver-bracelet?variant=54943646089515)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/IMG-5440.png?v=1790737079
-    Price: ₹3,699.00 INR
+  Price: ₹3,499.00 INR
 - [999 Pure Silver Coin - Om design - Zeno Jewels](https://zenojewels.com/products/999-pure-silver-coin-om-design): Auspicious & Pure 999 Silver Om Shubh Labh Coin Celebrate prosperity, purity, and divine blessings with this beautifully crafted 999 silver om shubh labh coin from Zeno Jewels. Made with 99.9% pure silver, this coin shines with a flawless finish and is designed to represent spiritual harmony and positivity. It’s a meaningful keepsake for collectors, a thoughtful gift for loved ones, and a powerful symbol to include in your prayer space. The front of the coin features the sacred Om symbol, known for grounding energy and creating spiritual balance. The weight of the coin is clearly inscribed, giving it both authenticity and collectible value. On the back, the coin displays the auspicious Shubh Labh motif with Goddess Lakshmi and Lord Ganesha. Lakshmi represents wealth and abundance, while Ganesha removes obstacles and brings success. Together, these symbols make the 999 silver om shubh labh coin a beautiful blessing for new beginnings, homes, and businesses. Why This 999 Silver Om Shubh Labh Coin Stands Out The coin is crafted with precision to maintain its shine and texture. Its 999 purity ensures exceptional value, making it ideal as both a devotional piece and a long-term . It comes in protective packaging that prevents scratches and helps preserve the coin’s brilliance. Because the motifs hold deep cultural relevance, the coin becomes a perfect gift for festivals like Diwali, Raksha Bandhan, Akshaya Tritiya, housewarmings, weddings, or baby ceremonies. Meaningful Use, Care & More Place this coin in your pooja room, office desk, locker, or home temple to invite blessings and prosperity. You can also pair it with our Spiritual Silver Collection to create a complete devotional set. To learn more about silver purity standards, you may visit this silver purity guide. Handle the coin gently and store it in its protective case when not in use. Avoid moisture and chemicals to maintain its shine. This coin blends spirituality, purity, and craftsmanship — making it a timeless treasure for gifting, worship, and personal collections. - Zeno Jewels
   Updated: 2026-11-02T12:47:51Z
   Vendor: Zeno Jewels
@@ -413,17 +402,12 @@
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/Itallian_oxidised_bracelet.png?v=1790737075
   Price: ₹5,499.00 INR
 - [925 Sterling Silver Men’s Twisted Rope Bracelet - Zeno Jewels](https://zenojewels.com/products/925-sterling-silver-men-s-twisted-rope-bracelet): Classic Rope Design with Everyday Appeal This men rope silver bracelet features a traditional twisted rope pattern that delivers a clean and timeless look. The interwoven links reflect light evenly and create a subtle shine that works well for daily wear. The design stays balanced and masculine, making it suitable for men who prefer jewellery that looks refined without being flashy. Comfortable Weight with a Secure Fit Crafted using 925 sterling silver, the bracelet offers a solid yet comfortable feel on the wrist. The 10-gram weight gives it a premium presence while remaining easy to wear throughout the day. The smooth inner surface helps prevent irritation, allowing the bracelet to sit naturally even during long hours of use. The 8.5-inch length provides a relaxed fit for most men. Men Rope Silver Bracelet with Timeless Styling This men rope silver bracelet pairs easily with casual outfits, office wear, and traditional clothing. The twisted rope structure adds texture without overwhelming the look. It works well as a standalone piece and also complements watches or rings without clashing. The classic style ensures it remains relevant across changing trends. Twisted Rope Bracelet for Daily Use The tightly woven rope links help the bracelet maintain its shape during everyday movement. In addition, the polished finish reduces surface wear and limits tangling. A sturdy clasp keeps the bracelet securely in place, which is important for men who wear jewellery daily. With simple care, the bracelet keeps its finish and structure for a long time. Reliable Craftsmanship from Zeno Jewels Zeno Jewels focuses on durability, clean finishing, and practical design. This men rope silver bracelet is made from  925 sterling silver with carefully finished links and a secure clasp intended for regular wear. Buyers choose it for its comfort, strength, and classic appearance that suits everyday use. - Zeno Jewels
-  Updated: 2026-11-16T13:01:59Z
+  Updated: 2026-11-21T16:55:11Z
   Vendor: Zeno Jewels
   Product Type: simple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/Men_s_Twisted_rope_bracelet.png?v=1790737072
-  - [6 gm](https://zenojewels.com/products/925-sterling-silver-men-s-twisted-rope-bracelet?variant=67832434557227)
-    Availability: Available
-    Price: ₹2,899.00 INR
-  - [9 gm](https://zenojewels.com/products/925-sterling-silver-men-s-twisted-rope-bracelet?variant=67896134304043)
-    Availability: Available
-    Price: ₹3,799.00 INR
+  Price: ₹2,899.00 INR
 - [925 Sterling Silver Men’s Twisted Rope Chain – 20 Inch - Zeno Jewels](https://zenojewels.com/products/925-sterling-silver-men-s-twisted-rope-chain-20-inch): Classic Rope Chain with a Clean Masculine Look This men rope silver chain is designed for men who want a traditional chain with a strong yet refined appearance. The twisted rope pattern creates a balanced shine and gives the chain a structured look without appearing bulky. It works well for everyday wear and suits men who prefer simple, reliable jewellery. Comfortable Weight with a Premium Feel Crafted from 925 sterling silver, the chain offers a solid build that feels premium around the neck. The 18-gram weight provides presence without causing discomfort during long hours of wear. The smooth finish allows the chain to rest comfortably on the skin while maintaining a polished appearance throughout the day. Men Rope Silver Chain with Timeless Styling This men rope silver chain stands out best when worn on its own. The twisted design adds texture while keeping the overall look clean and classic. It pairs easily with casual outfits, office wear, and traditional clothing, making it a dependable choice for daily styling. Twisted Rope Design Built for Daily Use The tightly woven rope links help the chain hold its shape during regular movement. In addition, the polished surface reduces tangling and surface wear. The secure clasp keeps the chain firmly in place, which is important for men who wear chains every day. Quality You Can Trust from Zeno Jewels Zeno Jewels focuses on durability and clean craftsmanship. This men rope silver chain is made using  925 sterling silver with carefully finished links and a secure clasp designed for long-term use. Buyers choose it for its comfort, strength, and classic design that remains stylish over time. - Zeno Jewels
   Updated: 2026-09-30T02:59:23Z
   Vendor: Zeno Jewels
@@ -439,14 +423,14 @@
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/Gemini_Generated_Image_idiqdridiqdridiq.png?v=1790737073
   Price: ₹3,799.00 INR
 - [Vector Link 925 Sterling Silver Bracelet - Zeno Jewels](https://zenojewels.com/products/vector-link-925-sterling-silver-bracelet): Product Overview Redefining the classic link. Our signature 925 sterling silver bracelet features custom-engineered rectangular links with a subtle, textured finish for a multi-dimensional glint. Designed to catch the light in high-contrast environments, it offers a substantial feel on the wrist without sacrificing a streamlined silhouette. Technical Specifications Material: Solid 925 Sterling Silver (Hallmarked) Link Geometry: Precision-cut rectangular blocks Finish: High-clarity polish with micro-etched detailing Weight: Heavy-gauge construction for a premium feel Clasp: Secure integrated lobster box clasp Weight: 5.8g Dimensions: 22 x 2.1 x 1.2 cm - Zeno Jewels
-  Updated: 2026-11-14T21:17:55Z
+  Updated: 2026-11-24T07:05:58Z
   Vendor: Zeno Jewels
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/Gemini_Generated_Image_pvuxu7pvuxu7pvux.png?v=1790737477
-  Price: ₹2,899.00 INR
+  Price: ₹2,799.00 INR
 - [Gift Instructions - Zeno Jewels](https://zenojewels.com/products/gift-wrap): - Zeno Jewels
-  Updated: 2026-10-04T08:26:37Z
+  Updated: 2026-11-21T16:55:16Z
   Vendor: Zeno Jewels
   Product Type: 
   Availability: Available
@@ -538,7 +522,7 @@
     Availability: Available
     Price: ₹1,899.00 INR
 - [Infinity Ring in 925 Sterling Silver - Zeno Jewels](https://zenojewels.com/products/infinity-ring-in-925-sterling-silver): Timeless Symbolism & DesignCelebrate the concept of forever with the Eternal Infinity Ring. This piece features a beautifully balanced infinity motif, with one half finished in high-polish silver and the other adorned with precision-set pavé stones. Its graceful, looping silhouette offers a modern take on a timeless symbol of empowerment and connection.Solid & Secure ConstructionCrafted as a solid, continuous band, this ring is designed for those who appreciate the permanence and security of a fixed-size piece. The seamless construction enhances the ring's structural integrity, providing a sleek, uninterrupted aesthetic that wraps perfectly around the finger.Premium 925 Pure SilverHandcrafted in  925 sterling silver, this ring is polished to a brilliant mirror finish by expert Indian artisans. The "Made in India" craftsmanship ensures a premium feel and a durable structure that maintains its character and shine through daily wear.Minimalist Layering EssentialWith its clean lines and subtle sparkle, the Eternal Infinity Ring is a versatile addition to any jewelry collection. It wears beautifully as a standalone statement of quiet luxury or can be layered with other silver bands to create a personalized, bold look.Skin-Friendly & All-Day ComfortDesigned for the modern woman on the move, this ring is crafted from hypoallergenic, nickel-free silver. The smooth interior finish ensures a breathable, comfortable fit against the skin, making it a reliable signature piece from morning meetings to evening celebrations. Material: 925 Silver - Zeno Jewels
-  Updated: 2026-10-02T00:30:10Z
+  Updated: 2026-11-24T06:47:25Z
   Vendor: Zeno Jewels
   Product Type: 
   Availability: Available
@@ -596,7 +580,7 @@
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/DSC_3421.jpg?v=1790737123
   Price: ₹4,899.00 INR
 - [Classic Infinty Anklet in 925 Sterling Silver - Zeno Jewels](https://zenojewels.com/products/classic-infinty-anklet-in-925-sterling-silver): Contemporary & Reflective DesignAdd a touch of rhythmic elegance to your movement with the Classic Infinty Anklet. This piece features seven precision-cut circular discs that hang delicately from a sleek silver chain. Designed with a "bold minimalist" edge, the flat surfaces of the infinity discs are polished to a high shine to catch and reflect light from every angle.Premium 925 Pure SilverExpertly handcrafted in  925 sterling silver, this anklet is a celebration of authentic Indian craftsmanship. The solid silver construction ensures the piece maintains its brilliant white luster and signature "weight," standing out as a high-quality staple in any jewelry collection.Adjustable & Secure FitThe Nova Anklet is engineered for versatility, featuring a sturdy lobster clasp and an integrated extender chain. This allows for a customizable fit—style it snugly for a clean, modern look or wear it with a relaxed drape for an effortless summer vibe.Versatile Signature StyleWith its clean geometric silhouette, this anklet is the ultimate accessory for the modern minimalist. It is bold enough to be worn as a standalone statement piece yet delicate enough to be layered with other silver textures for a sophisticated, curated look.Hypoallergenic & Durable ComfortCrafted from skin-friendly, nickel-free silver, this anklet is designed for 24/7 wear. Its lightweight and breathable design ensures maximum comfort, making it a resilient and beautiful companion for everything from office days to beach getaways. Material: 925 Silver - Zeno Jewels
-  Updated: 2026-11-11T21:51:27Z
+  Updated: 2026-11-24T06:49:19Z
   Vendor: Zeno Jewels
   Product Type: 
   Availability: Available
@@ -624,48 +608,48 @@
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/DSC_3417.jpg?v=1790737085
   Price: ₹2,299.00 INR
 - [Astra Karungali Bracelet in 925 Sterling Silver - Zeno Jewels](https://zenojewels.com/products/astra-tulsi-bracelet-in-925-sterling-silver): Sacred Heritage & Structural DesignThe Astra Talisman reimagines the traditional karungali mala with a sharp, contemporary edge. Featuring genuine, hand-carved Karungali beads—revered for their grounding and protective properties—this piece is punctuated by precision-crafted 925 silver spacers. The rhythmic contrast between the organic texture of the wood and the mirror-polished silver creates a "bold minimalist" aesthetic that feels both ancient and modern.Premium 925 Pure SilverHand-finished in  925 sterling silver, this bracelet reflects a commitment to high-tier Indian craftsmanship. Each silver spacer is meticulously textured to catch the light, providing a brilliant structural "weight" that complements the matte finish of the Tulsi beads. This solid silver construction ensures the piece remains a durable signature staple.Customizable & Secure FitEquipped with a sturdy lobster clasp and an adjustable extender chain, the Astra Talisman offers a personalized fit for any wrist size. Whether worn snugly as a sleek daily reminder or styled with a relaxed drape, the secure engineering ensures it remains a permanent part of your personal narrative.The Ultimate Mindful LayerWith its deep earth tones and clean silver silhouette, this bracelet is a masterclass in understated luxury. It makes a powerful standalone statement of "Made in India" pride but is equally effective when stacked with other silver textures to create a curated, modern look.Hypoallergenic & Daily ComfortCrafted from nickel-free, hypoallergenic silver and natural Tulsi wood, this piece is designed for 24/7 wear. Its lightweight and breathable construction ensures it is gentle on the skin, making it an ideal choice for those who seek a daily talisman that never loses its character or shine. Material: 925 Silver - Zeno Jewels
-  Updated: 2026-10-02T00:38:45Z
+  Updated: 2026-11-24T07:05:28Z
   Vendor: Zeno Jewels
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/tulsibracelet.png?v=1790737107
-  Price: ₹2,299.00 INR
+  Price: ₹2,199.00 INR
 - [Astra Rudraksha Bracelet in 925 Sterling Silver - Zeno Jewels](https://zenojewels.com/products/astra-rudraksha-bracelet-in-925-sterling-silver): Ancient Power & Structural DesignThe Astra Talisman bridges the gap between traditional spiritual tools and modern architectural jewelry. It features genuine, five-faced (Panchmukhi) Rudraksha beads, hand-selected for their unique natural textures. Each bead is encased between textured 925 silver spacers, creating a rhythmic, "bold minimalist" silhouette that provides a sense of grounding and character.Premium 925 Pure SilverHand-finished in  925 sterling silver, this bracelet is a showcase of high-tier "Made in India" craftsmanship. The silver spacers are meticulously polished to a high luster, offering a brilliant structural contrast to the organic, earthy tones of the Rudraksha beads. This solid silver construction ensures the piece maintains its signature "weight" and integrity over time.Customizable & Secure FitDesigned for 24/7 durability, the Astra Talisman features a robust lobster clasp and an adjustable extender chain. This engineering allows for a personalized fit on any wrist, ensuring the bracelet sits comfortably and securely whether worn as a standalone signature or layered with other textures.The Ultimate Mindful SignatureWith its blend of sacred geometry and modern silver work, this bracelet is designed for those who value jewelry with deep personal meaning. Its understated luxury makes it a versatile daily companion that complements both formal and casual aesthetics while serving as a constant source of clarity and focus.Hypoallergenic & Skin-FriendlyCrafted from nickel-free, hypoallergenic silver and natural seeds, this piece is gentle on the skin. The lightweight, breathable construction ensures maximum comfort, making it a perfect protective talisman for a lifetime of wear. Material: 925 Silver - Zeno Jewels
-  Updated: 2026-10-02T00:31:44Z
+  Updated: 2026-11-24T07:05:36Z
   Vendor: Zeno Jewels
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/rudrakshbracelet.png?v=1790737119
-  Price: ₹2,499.00 INR
+  Price: ₹2,299.00 INR
 - [Forge Men’s Link Bracelet in 925 Sterling Silver - Zeno Jewels](https://zenojewels.com/products/forge-men-s-link-bracelet-in-925-sterling-silver): Industrial Strength & Modern ArchitectureThe Forge Link Bracelet is a celebration of structural geometry and high-polish minimalism. Composed of precision-carved rectangular silver bars, this piece offers a rhythmic, industrial silhouette that sits with a solid, flat profile against the wrist. It is engineered for the man who appreciates jewelry with a "bold minimalist" edge—clean enough for daily wear but sharp enough to act as modern armor.Premium 925 Pure SilverHand-finished in  925 sterling silver, this bracelet reflects a high-tier standard of craftsmanship. Each link is meticulously polished to achieve a mirror finish, ensuring the piece catches the light from every angle. The solid silver construction provides a satisfying "weight" and a durable shine that maintains its character over time, making it a permanent staple in a curated collection.Secure & Versatile EngineeringEquipped with a streamlined, heavy-duty lobster clasp, the Forge Bracelet is built for security and effortless movement. Its low-profile design ensures it remains comfortable throughout the day, whether worn as a singular, powerful statement of "Made in India" pride or layered with a watch for a textured, modern look.Hypoallergenic & Durable ComfortCrafted from nickel-free, hypoallergenic 925 silver, this piece is designed for 24/7 wear. Its breathable, articulated link construction allows it to contour perfectly to the wrist, offering a seamless blend of luxury and daily resilience. Material: 925 Silver - Zeno Jewels
-  Updated: 2026-09-30T02:58:51Z
+  Updated: 2026-11-24T07:04:59Z
   Vendor: Zeno Jewels
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/forgelinkBracelet.png?v=1790737128
-  Price: ₹4,899.00 INR
+  Price: ₹4,699.00 INR
 - [Matrix Men’s Link Bracelet in 925 Sterling Silver - Zeno Jewels](https://zenojewels.com/products/matrix-men-s-link-bracelet-in-925-sterling-silver): Geometric Precision & Modern EdgeThe Matrix Link Bracelet redefines the classic Figaro silhouette for the modern era. Featuring precision-cut geometric links that play with light and negative space, this piece offers a sharp, architectural look. Designed for the man who seeks a "bold minimalist" aesthetic, it serves as a sophisticated daily anchor that balances industrial strength with refined luxury.Premium 925 Pure SilverHand-finished in  925 sterling silver, the Matrix Bracelet is a testament to top-tier craftsmanship. The flat-link design is meticulously polished to a mirror luster, highlighting the bright authenticity of the silver. Its solid construction provides the signature "weight" you expect from a premium piece, ensuring it remains a durable part of your personal armor for years to come.Engineered for the Modern ManWith its streamlined profile and secure, heavy-duty lobster clasp, this bracelet is built for 24/7 resilience. It sits flush against the wrist, making it comfortable for all-day wear—whether it’s making a statement on its own or paired with a high-end timepiece.Hypoallergenic & ResilientCrafted from nickel-free, hypoallergenic silver, the Matrix Bracelet is as gentle as it is durable. The "Made in India" pride is evident in every hand-finished link, offering a unique blend of global style and authentic soul. Material: 925 Silver - Zeno Jewels
-  Updated: 2026-09-30T02:58:32Z
+  Updated: 2026-11-24T07:04:47Z
   Vendor: Zeno Jewels
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/MatrixLinkBracelet.png?v=1790737109
-  Price: ₹5,099.00 INR
+  Price: ₹4,899.00 INR
 - [Men's Prism Textured Kada in 925 Sterling Silver - Zeno Jewels](https://zenojewels.com/products/mens-prism-textured-kada-in-925-sterling-silver): Architectural Strength & Modern DesignThe Prism Kada is a study in light and geometry for the modern man. Featuring a sharp, knife-edge profile adorned with precision-diagonal textures, this piece is designed to capture and reflect light with every movement. It offers a "bold minimalist" edge that bridges the gap between traditional silver wristwear and modern structural design, making it an essential anchor for any curated collection.Premium 925 Pure SilverHand-finished in  925 sterling silver, the Prism Kada showcases a superior level of Indian craftsmanship. The mirror-polished edges provide a brilliant contrast to the textured center, reinforcing the brand's commitment to high-caliber materials that maintain their shine and character over time.The Ultimate Daily SignatureEngineered for a seamless, comfortable fit, this solid silver kada is designed for 24/7 resilience. Its low-profile silhouette makes it the perfect versatile layer—wear it as a singular, powerful statement of "Made in India" pride or pair it with a watch to create a textured, modern look.Hypoallergenic & ResilientCrafted from nickel-free, hypoallergenic 925 silver, the Prism Kada is gentle on the skin and built for a lifetime of wear. This piece is more than an accessory; it is a durable daily talisman that reflects strength and modern sophistication. Material: 925 Silver - Zeno Jewels
-  Updated: 2026-09-30T02:58:38Z
+  Updated: 2026-11-24T07:04:15Z
   Vendor: Zeno Jewels
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/PrismTexturedKada.png?v=1790737113
   - [2-8 (13 gm)](https://zenojewels.com/products/mens-prism-textured-kada-in-925-sterling-silver?variant=53296753017131)
     Availability: Available
-    Price: ₹4,899.00 INR
+    Price: ₹4,699.00 INR
   - [2-10 (14 gm)](https://zenojewels.com/products/mens-prism-textured-kada-in-925-sterling-silver?variant=53298895487275)
     Availability: Available
-    Price: ₹5,099.00 INR
+    Price: ₹4,899.00 INR
   - [2-12 (15 gm)](https://zenojewels.com/products/mens-prism-textured-kada-in-925-sterling-silver?variant=53296753279275)
     Availability: Available
-    Price: ₹5,299.00 INR
+    Price: ₹5,099.00 INR
 - [Drop-Chain Pearl Earrings in 925 Sterling Silver - Zeno Jewels](https://zenojewels.com/products/drop-chain-pearl-earrings-in-925-sterling-silver): Celestial Grace & Architectural DesignThe Pearl Drop Earrings are a celebration of light and movement. Featuring a brilliant pavé-set crescent stud and a rhythmic box-chain drop, these earrings are designed to frame the face with a sophisticated, celestial glow. This design offers a "bold minimalist" edge, blending sharp industrial lines with the timeless softness of a central pearl.Premium 925 Pure Silver & LusterHandcrafted in  925 sterling silver, these earrings showcase a high-tier level of craftsmanship and detail. The mirror-polished finish of the silver chain and the vibrant sparkle of the zircons highlight the authenticity of the materials. Each pearl is selected for its brightness and luster, ensuring the piece maintains its "Made in India" soul and artistic character for a lifetime.Versatile Movement for Every OccasionDesigned for the modern individual, the Lunar Earrings provide an effortless transition from daily signature style to formal evening looks. The lightweight drop-chain construction ensures maximum comfort and breathability, allowing the pearls to dance with every movement. They serve as a powerful standalone statement or can be paired with other minimalist silver talismans.Hypoallergenic & Durable EleganceCrafted from nickel-free, hypoallergenic 925 silver, these earrings are designed to be gentle on sensitive skin. Their resilient construction and secure butterfly backings ensure they remain a permanent and reliable part of your style narrative, reflecting both strength and modern grace. Material: 925 Silver - Zeno Jewels
   Updated: 2026-10-02T00:26:06Z
   Vendor: Zeno Jewels
@@ -717,12 +701,12 @@
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/Gemini_Generated_Image_e38pm9e38pm9e38p.png?v=1790737115
   Price: ₹2,599.00 INR
 - [Oxidised Caviar Bracelet in 925 Silver - Zeno Jewels](https://zenojewels.com/products/oxidised-caviar-bracelet-in-925-silver): Embrace a dark, textured aesthetic with the Oxidised Caviar Bracelet. Forging a perfect balance between rugged edge and refined craftsmanship, this 925 sterling silver piece trades traditional high-shine chains for a moody, deeply oxidized, tactile design that demands a closer look. Product Specifications Length: 8 inch (20cm) Material: 925 Sterling Silver Finish: Deeply oxidized beadwork with a high-polish, tarnish-resistant clasp Texture: Flexible, tight-knit micro-caviar mesh Clasp Type: Heavy-duty, polished spring-ring clasp with a stamped teardrop charm Style Profile: Unisex, contemporary, industrial-chic Styling Tip The ultimate layering piece. Its dark, textured profile makes it the perfect anchor for a mixed-metal wrist stack. Pair it with a high-shine silver cuff to let the contrast pop, or wear it solo for a subtle, mysterious statement. - Zeno Jewels
-  Updated: 2026-10-02T12:41:11Z
+  Updated: 2026-11-24T07:03:28Z
   Vendor: Zeno Jewels
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/Gemini_Generated_Image_301et0301et0301e.png?v=1790737136
-  Price: ₹2,499.00 INR
+  Price: ₹2,399.00 INR
 - [Men's Dome Hoops in 925 Sterling Silver - Zeno Jewels](https://zenojewels.com/products/mens-dome-hoops-in-925-sterling-silver): Our Men's Dome Hoops move away from thin, traditional earrings to deliver a heavy-looking, architectural statement. Forged from high-grade 925 sterling silver, these mid-sized huggies feature a wide, rounded profile that offers a strong, masculine aesthetic with a premium, liquid-metal shine. Product Specifications Material: Solid 925 Sterling Silver (hypoallergenic and nickel-free) Finish: High-polish, tarnish-resistant mirror finish Closure: Heavy-duty hinged snap-bar (huggie style) Width: Chunky, wide-dome profile Style Profile: Bold minimalist, streetwear-chic, modern masculine Styling Tip These hoops are incredibly versatile. Wear them as a matching pair for a balanced, symmetrical look, or wear a single hoop solo for a classic, understated edge. They pair seamlessly with a heavy silver curb chain or a minimalist signet ring. - Zeno Jewels
   Updated: 2026-10-02T00:38:45Z
   Vendor: Zeno Jewels
@@ -745,7 +729,7 @@
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/Evil_Eye_blue_610rs_c96abb80-7cf5-4a3d-b848-345f55d171d7.png?v=1790737125
   Price: ₹1,899.00 INR
 - [925 Silver Protection Jewelry Combo – Evil Eye Clover Necklace & Triple Evil Eye Earrings - Zeno Jewels](https://zenojewels.com/products/925-silver-protection-jewelry-combo-evil-eye-clover-necklace-triple-evil-eye-earrings): 925 Silver Evil Eye Protection Combo – Clover Pendant Necklace & Triple Evil Eye Long Chain Earrings Elegant & Protective 92.5 Sterling Silver Evil Eye Jewelry Set Complete your jewelry collection with this beautifully crafted 925 Silver Evil Eye Protection Combo by Zeno Jewels. This exclusive set includes a Clover Evil Eye Pendant Necklace and a pair of Triple Evil Eye Long Chain Earrings, both handcrafted in 92.5 sterling silver. Designed to bring together elegance, symbolism, and everyday versatility, this matching jewelry set is perfect for women who appreciate meaningful accessories with timeless style. The necklace features a graceful four-petal clover design with the iconic blue evil eye enamel at its center. Representing good luck, positivity, prosperity, and spiritual protection, it offers a delicate yet meaningful touch to your everyday look. Complementing the necklace, the long chain earrings feature three vibrant evil eye charms suspended along elegant silver chains, creating beautiful movement and adding a sophisticated finish to both traditional and contemporary outfits. Finished with a brilliant high-polish shine, both pieces are lightweight, comfortable, and designed for daily wear. Whether you're heading to work, attending a festive celebration, or enjoying a casual outing, this coordinated jewelry set effortlessly enhances your style while carrying the timeless symbolism of protection against negative energy. Why You'll Love This Combo This carefully curated jewelry set combines two of Zeno Jewels' signature evil eye designs into one elegant collection. The clover pendant symbolizes luck and growth, while the triple evil eye charms reinforce the traditional belief of protection and positivity. Together, they create a stylish matching set that balances modern minimalism with meaningful symbolism. Crafted with precision from genuine 92.5 sterling silver, the necklace and earrings feature premium blue enamel detailing, a radiant polished finish, and hypoallergenic construction for lasting comfort. The necklace comes with a matching silver chain, while the earrings feature secure push-back closures for effortless everyday wear. Perfect For Daily wear Office and casual styling Festive and traditional occasions Birthdays and anniversaries Raksha Bandhan and festive gifting Weddings and special celebrations Thoughtful gifts for women and girls Styling & Care Wear the necklace and earrings together for a coordinated statement look, or style each piece individually with your favorite silver jewelry. They pair beautifully with bracelets, rings, and layered necklaces to create a sophisticated ensemble. To maintain their shine, gently wipe the jewelry with a soft cloth after use and store it in the Zeno Jewels gift box. Avoid exposure to water, perfumes, lotions, and harsh chemicals to preserve the silver finish and vibrant enamel detailing. Elegant, meaningful, and crafted to last, this 925 Silver Evil Eye Protection Combo is the perfect blend of style, positivity, and everyday sophistication. - Zeno Jewels
-  Updated: 2026-10-02T00:21:25Z
+  Updated: 2026-11-23T05:56:50Z
   Vendor: Zeno Jewels
   Product Type: 
   Availability: Available
@@ -780,12 +764,12 @@
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/Gemini_Generated_Image_gw09qwgw09qwgw09.png?v=1790737119
   Price: ₹1,299.00 INR
 - [Men's Box Chain Bracelet in 925 Sterling Silver - Zeno Jewels](https://zenojewels.com/products/mens-box-chain-bracelet-in-925-sterling-silver): The Men’s 8-Inch 925 Sterling Silver Box Chain Bracelet is designed for a modern, effortless statement. Featuring clean geometric links with a smooth
-  Updated: 2026-10-02T00:15:27Z
+  Updated: 2026-11-24T07:03:12Z
   Vendor: Zeno Jewels
   Product Type: Silver Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/Gemini_Generated_Image_7altyr7altyr7alt.png?v=1790737118
-  Price: ₹3,099.00 INR
+  Price: ₹2,949.00 INR
 - [Beaded Evil Eye Bracelet in 925 Sterling Silver](https://zenojewels.com/products/beaded-evil-eye-bracelet-in-925-sterling-silver): Elevate your everyday jewelry collection with our 925 Sterling Silver Beaded Evil Eye Bracelet. Handcrafted for both protection and modern elegance, this delicate bo
   Updated: 2026-10-17T08:26:46Z
   Vendor: zenojewels
@@ -927,20 +911,27 @@
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/22b8b124-a962-44de-a4e8-1066e68c1fab.png?v=1792194670
   Price: ₹1,399.00 INR
 - [Titan Link Bracelet in 925 Sterling Silver](https://zenojewels.com/products/titan-link-bracelet-in-925-sterling-silver): Titan Link Bracelet Elevate your everyday style with the Titan Link Bracelet by Zeno Jewels. Featuring a sleek, intricately structured silver link design, this bracelet blends contemporary sophistication with timeless appeal. Its polished finish and distinctive detailing make it the perfect accessory for effortless styling, whether you're dressing up for an occasion or keeping it minimal every day. Product Highlights Premium Design: A modern, structured link pattern for a bold yet refined look. Sleek Silver Finish: A versatile metallic shine that complements every outfit. Contemporary Style: Clean lines and intricate detailing for a sophisticated aesthetic. Versatile Styling: Perfect for everyday wear, casual outings, and special occasions. Effortless Pairing: Style it solo for a minimalist look or layer it with your favourite accessories. Timeless Appeal: A statement piece designed for the modern man. Wear your aura. Make every detail count with Zeno Jewels.
-  Updated: 2026-11-09T16:19:21Z
+  Updated: 2026-11-24T07:02:44Z
   Vendor: zenojewels
   Product Type: Silver Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/WhatsAppImage2026-10-18at1.46.45AM_1.jpg?v=1792268812
-  Price: ₹2,849.00 INR
+  Price: ₹2,749.00 INR
 - [Zeno Signature Stud in 925 Sterling Silver - Unisex](https://zenojewels.com/products/zeno-signature-stud-in-925-sterling-silver-unisex): Zeno Signature Stud in 925 Sterling Silver – Unisex Timeless, elegant, and effortlessly versatile. The Zeno Signature Stud is designed to make a subtle yet striking statement. Featuring a brilliant round-cut sparkling stone set in premium 925 Sterling Silver, these studs bring refined sophistication to every look. Key Features: Premium 925 Sterling Silver: Crafted with genuine sterling silver for lasting elegance. Brilliant Round-Cut Stone: A dazzling centrepiece that catches the light beautifully. Unisex Design: A versatile style suitable for both men and women. Secure Push-Back Closure: Designed for a comfortable and secure fit. Everyday Elegance: Perfect for daily wear, casual outings, and special occasions. Minimal Yet Statement-Making: A timeless accessory that complements every style. Style it your way. Wear it with confidence. Only at Zeno Jewels.
-  Updated: 2026-11-14T16:25:48Z
+  Updated: 2026-11-24T10:38:30Z
   Vendor: zenojewels
   Product Type: silver earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/IMG_6763.png?v=1794630463
-  Price: ₹1,299.00 INR
-[List Continued](https://zenojewels.com/a/llms-agent/llms.txt?shop=u0anv1-8i.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTUyMzA0NDgxOTI0MywibGFzdF92YWx1ZSI6IjE1NTIzMDQ0ODE5MjQzIn0%3D)
+  Price: ₹1,199.00 INR
+- [Aero Chain Bracelet in 925 Sterling Silver](https://zenojewels.com/products/aero-chain-bracelet-in-925-sterling-silver): The Aero Chain Bracelet is crafted from genuine 925 sterling silver, featuring sleek, elongated paperclip links designed for comfortable, everyday wear. Its open-link silhouette delivers a sharp, contemporary look that wears effortlessly on its own or stacked alongside your favorite watch. Key Features: Minimalist Open-Link Design: Streamlined, elongated links offer a bold yet airy profile without feeling heavy on the wrist. Secure Clasp: Finished with a sturdy spring-ring clasp for a reliable, easy-to-wear fit. Everyday Versatility: Built to transition seamlessly from casual daily wear to elevated evening outfits. Specifications: Material: Solid 925 Sterling Silver Net Silver Weight: 5 gm Length: 8 inches (Standard men's fit) Link Width: ~4mm Finish: High-polish silver Origin: Handcrafted in India
+  Updated: 2026-11-24T19:53:28Z
+  Vendor: zenojewels
+  Product Type: Silver Bracelet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/8240/5163/files/SilverChainBraceletClose-Up.png?v=1795506642
+  Price: ₹2,299.00 INR
+[List Continued](https://zenojewels.com/a/llms-agent/llms.txt?shop=u0anv1-8i.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTU1NTgyMTAxMTI0MywibGFzdF92YWx1ZSI6IjE1NTU1ODIxMDExMjQzIn0%3D)
 
 ## Collections
 
@@ -948,34 +939,34 @@
   Updated: 2026-08-25T23:13:46Z
   Total Products: 0
 - [Accessories](https://zenojewels.com/collections/accessories): - Zeno Jewels
-  Updated: 2026-11-17T12:22:24Z
-  Total Products: 121
+  Updated: 2026-11-24T12:20:16Z
+  Total Products: 122
 - [Best Seller](https://zenojewels.com/collections/best-sellers): Best  Silver Jewelry – 925 Sterling SilverDiscover Zeno Jewels' most loved 925 silver jewelry India pieces — handpicked by our customers. From bold evil eye bracelets to elegant silver pendants, these are the top- styles that combine premium craftsmanship with meaningful design.Customer Favourites – Tried, Loved & TrustedEach piece in our best  silver jewelry collection is crafted in pure 92.5 sterling silver and finished to the highest standard. Whether you're shopping for yourself or looking for the perfect silver jewelry gift for men India or women, these are the pieces our customers keep coming back for.Why These Are Our Best Sellers  925 sterling silver – hypoallergenic & skin-safe Top-rated designs – evil eye, snake chain, pendants & more Perfect for daily wear and gifting Beautifully packaged – ready to gift Free shipping available across India - Zeno Jewels
-  Updated: 2026-11-17T12:22:24Z
+  Updated: 2026-11-24T07:08:11Z
   Total Products: 41
 - [New Arrival](https://zenojewels.com/collections/new-arrival): - Zeno Jewels
-  Updated: 2026-11-14T04:55:05Z
+  Updated: 2026-11-24T12:20:16Z
   Total Products: 58
 - [On ](https://zenojewels.com/collections/on-): - Zeno Jewels
-  Updated: 2026-11-14T12:17:57Z
+  Updated: 2026-11-24T07:08:11Z
   Total Products: 32
 - [For Him 🎁](https://zenojewels.com/collections/silver-jewelry-for-men-india): Silver Jewelry for Men – 925 Sterling Silver CollectionDiscover Zeno Jewels' curated silver jewelry for men India collection — handcrafted in pure 92.5 sterling silver. From bold evil eye bracelets and Cuban link chains to sleek snake chain bracelets, every piece is designed for the modern man who values strength, style, and symbolism.Bold. Minimal. Made for Men.Each piece in our 925 silver bracelet for men India range features a premium polish, secure clasp, and durable construction — built for daily wear and meaningful gifting. Whether it's a Rakhi gift, birthday surprise, or a personal style upgrade, we have the perfect piece for him.Why Choose Zeno Jewels for Men's Silver Jewelry?  925 sterling silver – hypoallergenic & skin-safe Bold designs – evil eye, Cuban link, snake chain & more Ideal for daily wear, Rakhi & birthday gifting Handcrafted with premium finish Free shipping available across India - Zeno Jewels
-  Updated: 2026-11-17T12:22:24Z
+  Updated: 2026-11-24T12:20:16Z
   Total Products: 32
 - [Men’s Bracelet](https://zenojewels.com/collections/mens-silver-bracelets): Men's Silver Bracelets – 925 Sterling Silver CollectionExplore Zeno Jewels' premium men's silver bracelets India collection — handcrafted in pure 92.5 sterling silver. From bold Cuban link evil eye bracelets to sleek snake chain bracelets, every piece is designed for the modern man who values style, strength, and symbolism.Bold Designs for Every StyleWhether you're looking for a 925 silver bracelet for men India for daily wear, a meaningful gift, or a statement piece, our collection has it all. Each bracelet features a premium polish, secure lobster clasp, and adjustable fit — built to last and look great every day.Why Choose Zeno Jewels Men's Bracelets?  925 sterling silver – hypoallergenic & skin-safe Bold designs – Cuban link, snake chain, evil eye & more Ideal for daily wear, Rakhi gifting & special occasions Unisex options available for men & women Free shipping available across India - Zeno Jewels
-  Updated: 2026-11-17T12:22:24Z
-  Total Products: 16
+  Updated: 2026-11-24T07:59:06Z
+  Total Products: 17
 - [Men’s Chain](https://zenojewels.com/collections/men-s-chain): - Zeno Jewels
   Updated: 2026-10-17T21:58:21Z
   Total Products: 8
 - [Anklets](https://zenojewels.com/collections/925-silver-anklets-india): 925 Sterling Silver Anklets – Elegant Payal CollectionAdd a touch of grace to every step with Zeno Jewels' premium 925 silver anklets India collection — handcrafted in pure 92.5 sterling silver. Our sterling silver payal designs blend traditional charm with modern minimalism, perfect for women and girls who love delicate, meaningful jewellery.Lightweight & Comfortable for Daily WearEach silver anklet India piece is designed to be lightweight, skin-friendly, and comfortable enough for all-day wear. Whether you prefer a simple chain anklet or one with delicate charms, our collection offers elegant options for every style and occasion.Why Choose Zeno Jewels Silver Anklets?  925 sterling silver – hypoallergenic & skin-safe Elegant payal designs – minimal & traditional styles Lightweight & comfortable for daily wear Perfect for gifting – beautifully packaged Free shipping available across India - Zeno Jewels
-  Updated: 2026-11-04T12:17:39Z
+  Updated: 2026-11-23T12:18:08Z
   Total Products: 9
 - [Bracelets](https://zenojewels.com/collections/bracelets): - Zeno Jewels
-  Updated: 2026-11-17T12:22:24Z
-  Total Products: 33
+  Updated: 2026-11-24T07:59:06Z
+  Total Products: 34
 - [Kada & Bracelets](https://zenojewels.com/collections/kada-bracelets): - Zeno Jewels
-  Updated: 2026-11-17T12:22:24Z
+  Updated: 2026-11-24T07:08:11Z
   Total Products: 34
 - [Coins](https://zenojewels.com/collections/coins): - Zeno Jewels
   Updated: 2026-11-04T12:17:39Z
@@ -987,37 +978,37 @@
   Updated: 2026-10-17T21:58:21Z
   Total Products: 16
 - [Rings](https://zenojewels.com/collections/rings): - Zeno Jewels
-  Updated: 2026-10-21T11:27:37Z
+  Updated: 2026-11-24T07:09:21Z
   Total Products: 12
 - [Necklace](https://zenojewels.com/collections/necklace): - Zeno Jewels
   Updated: 2026-10-17T21:58:21Z
   Total Products: 19
 - [Earrings](https://zenojewels.com/collections/925-silver-earrings-india): 925 Sterling Silver Earrings – India's Premium CollectionElevate your look with Zeno Jewels' curated 925 silver earrings India collection — handcrafted in pure 92.5 sterling silver. From delicate silver stud earrings to bold evil eye dangler earrings, every pair is designed for comfort, elegance, and everyday wear.Styles for Every OccasionWhether you're looking for minimal everyday studs or statement danglers for a special occasion, our sterling silver earrings India range has the perfect pair. Each piece is hypoallergenic, lightweight, and crafted with a premium finish — safe for sensitive ears and built to last.Why Choose Zeno Jewels Silver Earrings?  925 sterling silver – hypoallergenic & skin-safe Wide range – studs, danglers, hoops & evil eye designs Lightweight & comfortable for all-day wear Perfect for gifting – beautifully packaged Free shipping available across India - Zeno Jewels
-  Updated: 2026-11-14T04:55:05Z
+  Updated: 2026-11-24T12:20:16Z
   Total Products: 19
 - [Toe Ring](https://zenojewels.com/collections/toe-ring): - Zeno Jewels
   Updated: 2026-10-18T05:14:50Z
   Total Products: 7
 - [Silver](https://zenojewels.com/collections/silver): - Zeno Jewels
-  Updated: 2026-11-17T12:22:24Z
-  Total Products: 55
+  Updated: 2026-11-24T12:20:16Z
+  Total Products: 56
 - [Evil Eye Collection](https://zenojewels.com/collections/evil-eye-collection): Evil Eye Jewelry Collection – 925 Sterling SilverDiscover Zeno Jewels' curated evil eye jewelry India collection — handcrafted in pure 92.5 sterling silver. From bold Nazar bracelets to delicate protection pendants, every piece combines ancient symbolism with modern minimal design. Wear your shield in style.Protection Talisman Jewelry for Every OccasionThe evil eye symbol has been cherished across cultures for centuries as a powerful guard against negativity. Our evil eye bracelet silver India pieces and pendants bring this timeless tradition into contemporary jewelry — perfect for daily wear, gifting, and meaningful moments.Why Choose Zeno Jewels Evil Eye Collection?  925 sterling silver – hypoallergenic & skin-safe Blue enamel evil eye charms – authentic Nazar design Bracelets, pendants & necklaces for men, women & teens Ideal for gifting – beautifully packaged Free shipping available across India - Zeno Jewels
-  Updated: 2026-11-17T12:22:24Z
+  Updated: 2026-11-22T12:18:04Z
   Total Products: 7
 - [Anklets And Toe Rings](https://zenojewels.com/collections/anklets-and-toe-rings): - Zeno Jewels
-  Updated: 2026-11-04T12:17:39Z
+  Updated: 2026-11-23T12:18:08Z
   Total Products: 14
 - [Under1499](https://zenojewels.com/collections/under1499): - Zeno Jewels
   Updated: 2026-10-18T05:17:54Z
   Total Products: 31
 - [Under2499](https://zenojewels.com/collections/under2499): - Zeno Jewels
-  Updated: 2026-11-14T12:17:57Z
-  Total Products: 32
+  Updated: 2026-11-24T07:59:06Z
+  Total Products: 33
 - [Under3599](https://zenojewels.com/collections/under3599): - Zeno Jewels
-  Updated: 2026-11-17T12:22:24Z
+  Updated: 2026-11-24T07:09:21Z
   Total Products: 47
 - [Under4599](https://zenojewels.com/collections/under4599): - Zeno Jewels
-  Updated: 2026-11-17T12:22:24Z
+  Updated: 2026-11-24T07:09:21Z
   Total Products: 48
 - [Above5000](https://zenojewels.com/collections/above5000): - Zeno Jewels
   Updated: 2026-09-29T22:51:43Z
@@ -1029,13 +1020,13 @@
   Updated: 2026-09-29T22:32:32Z
   Total Products: 3
 - [Men’s Ring](https://zenojewels.com/collections/men-s-ring): - Zeno Jewels
-  Updated: 2026-10-21T11:27:37Z
+  Updated: 2026-11-24T07:09:21Z
   Total Products: 4
 - [Rakhi](https://zenojewels.com/collections/rakhi-gifts-silver-jewelry): Rakhi Gifts for Brother – 925 Sterling Silver JewelryMake this Raksha Bandhan unforgettable with a gift that lasts a lifetime. Zeno Jewels' Rakhi gifts for brother India collection features premium 925 sterling silver bracelets, evil eye pendants, and protection talisman jewelry — meaningful pieces that go beyond the ordinary.Why Silver Makes the Perfect Rakhi GiftA 925 silver bracelet Rakhi gift is more than just jewellery — it's a symbol of your bond, protection, and love. Our pieces are handcrafted, hypoallergenic, and beautifully packaged, making them ready to gift straight from the box. Whether your brother loves bold evil eye bracelets or sleek snake chain bracelets, we have the perfect piece for him.Why Choose Zeno Jewels for Rakhi?  925 sterling silver – a lasting, meaningful gift Evil eye bracelets, snake chains, Cuban links & more Beautifully packaged – ready to gift on Raksha Bandhan Hypoallergenic & skin-safe for daily wear Free shipping available across India - Zeno Jewels
   Updated: 2026-09-18T05:27:55Z
   Total Products: 13
 - [For Her 🎁](https://zenojewels.com/collections/silver-jewelry-for-women-india): Silver Jewelry for Women – 925 Sterling Silver CollectionDiscover Zeno Jewels' curated silver jewelry for women India collection — handcrafted in pure 92.5 sterling silver. From delicate star charm necklaces and evil eye pendants to elegant CZ heart pendants, every piece is designed for the woman who loves meaningful, minimal luxury.Elegant Designs for Every OccasionWhether you're looking for a silver jewelry gift for women India, a daily wear piece, or something special for a birthday, anniversary, or Valentine's Day — our collection has the perfect piece for her. Each item is hypoallergenic, lightweight, and beautifully packaged.Why Choose Zeno Jewels for Women's Silver Jewelry?  925 sterling silver – hypoallergenic & skin-safe Elegant designs – pendants, necklaces, earrings & bracelets Perfect for birthdays, anniversaries, Valentine's Day & Rakhi Beautifully packaged – ready to gift Free shipping available across India - Zeno Jewels
-  Updated: 2026-11-14T04:55:05Z
+  Updated: 2026-11-24T12:20:16Z
   Total Products: 74
 
 ## Blogs
