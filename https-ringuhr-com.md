@@ -16,7 +16,7 @@ The technical centerpiece is a custom-engineered joint mechanism that allows the
 - Created At: 2025-05-06T13:37:57Z
 - Contact Email: contact@ringuhr.com
 - Address: Königstraße 27, 70173 Stuttgart, Germany
-- Updated At: 2026-11-17T00:37:54.003Z
+- Updated At: 2026-11-25T00:32:58.264Z
 
 ## Collections
 
