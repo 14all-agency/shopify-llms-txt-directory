@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-09-08T17:39:28Z
 - Contact Email: thedailybetterment@zohomail.com
-- Updated At: 2026-11-17T01:02:01.015Z
+- Updated At: 2026-11-25T00:54:51.824Z
 
 ## Products
 
@@ -122,6 +122,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/Calm_the_Storm_-_Store_Cover.jpg?v=1794047410
   Price: $12.00 USD
+- [The Vice Stacks Money Playbook: Unofficial GTA 6 Money Guide (PDF)](https://thedailybetterment.com/products/the-vice-stacks-money-playbook-unofficial-gta-6-money-guide-pdf): Get rich in Leonida without wasting hours. GTA 6 makes you earn your way through the story. This 14-page playbook shows you how to do it fast. 🎁 FREE BONUS: Get the GTA 6 Day One Money Checklist free when you purchase this PDF. 7 money methods ranked, from $2K car flips to $200K bank vaults A first-3-hours route to get out of broke How fences, marked bills and ATMs work How to beat the new Heat system and keep your cash 7 money traps that wipe players out Printable cash-per-hour and goals trackers Every tip labelled Confirmed, Reported or Our tip, so you know what's tested Free updates as we time every method Instant PDF download for phone, tablet or print. Launch week price: $9.99 (normally $12.99). Unofficial guide by Vice Stacks (@vicestacks). Not affiliated with or  by Rockstar Games or Take-Two Interactive.
+  Updated: 2026-11-21T16:23:11Z
+  Vendor: The Daily Betterment
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/Vice-Stacks-Playbook-store-cover.png?v=1795075673
+  Price: $9.99 USD
+- [Free Day One Money Checklist for GTA 6 Players (Unofficial PDF)](https://thedailybetterment.com/products/free-gta-6-day-one-money-checklist-pdf): 10 moves to make before and after you press start in GTA 6. A free one-page printable checklist from Vice Stacks: get set up before launch day, claim your bonuses, and avoid the early money traps that leave players broke.Want the full plan? Grab The Vice Stacks Money Playbook.Unofficial guide by Vice Stacks (@vicestacks). Not affiliated with or  by Rockstar Games or Take-Two Interactive.
+  Updated: 2026-11-21T18:44:24Z
+  Vendor: The Daily Betterment
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/Vice-Stacks-Checklist-store-cover.png?v=1795080170
+  Price: $0.00 USD
 
 ## Collections
 
@@ -134,6 +148,9 @@
 - [Holiday Gift Guide](https://thedailybetterment.com/collections/holiday-gift-guide): Thoughtful gifts that arrive instantly. Every guide is a digital download, delivered to your inbox right after checkout, so it's never too late to give one. Pick a bundle for the couple, the new parents, the nurse in your life, or the reader who wants it all.
   Updated: 2026-11-11T17:30:25Z
   Total Products: 4
+- [Vice Stacks: GTA 6 Guides](https://thedailybetterment.com/collections/vice-stacks-gta-6-guides): GTA 6 money, made simple. Unofficial guides and checklists from Vice Stacks (@vicestacks). Not affiliated with or  by Rockstar Games or Take-Two Interactive.
+  Updated: 2026-11-19T09:41:46Z
+  Total Products: 2
 
 ## Blogs
 
@@ -193,6 +210,18 @@
     Author: The Daily Betterment
   - [Top Free Mindset Books for Beginners You Can Read Online Now](https://thedailybetterment.com/blogs/the-daily-read/top-free-mindset-books-for-beginners-you-can-read-online-now): Top Free Mindset Books for Beginners You Can Read Online Now
     Updated: 2026-11-15T07:00:19Z
+    Author: The Daily Betterment
+  - [Understanding the Impact of Self Help Books to Read Online for Free on Modern Mindsets](https://thedailybetterment.com/blogs/the-daily-read/understanding-the-impact-of-self-help-books-to-read-online-for-free-on-modern-mindsets): Understanding the Impact of Self Help Books to Read Online for Free on Modern Mindsets
+    Updated: 2026-11-17T07:01:18Z
+    Author: The Daily Betterment
+  - [Exploring the History and Benefits of Self Help PDF Downloads in Personal Development](https://thedailybetterment.com/blogs/the-daily-read/exploring-the-history-and-benefits-of-self-help-pdf-downloads-in-personal-development): Exploring the History and Benefits of Self Help PDF Downloads in Personal Development
+    Updated: 2026-11-19T07:01:04Z
+    Author: The Daily Betterment
+  - [The Best Websites to Read Self Help Books for Free Today](https://thedailybetterment.com/blogs/the-daily-read/the-best-websites-to-read-self-help-books-for-free-today): The Best Websites to Read Self Help Books for Free Today
+    Updated: 2026-11-22T07:03:38Z
+    Author: The Daily Betterment
+  - [Uncover the Secrets of Personal Growth with Online Self Help PDFs for Beginners](https://thedailybetterment.com/blogs/the-daily-read/uncover-the-secrets-of-personal-growth-with-online-self-help-pdfs-for-beginners): Uncover the Secrets of Personal Growth with Online Self Help PDFs for Beginners
+    Updated: 2026-11-24T07:01:26Z
     Author: The Daily Betterment
 
 ## Store Pages
