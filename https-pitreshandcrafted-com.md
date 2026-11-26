@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-06-20T19:56:13Z
 - Contact Email: pitreshandcrafted2025@gmail.com
-- Updated At: 2026-11-18T01:18:41.130Z
+- Updated At: 2026-11-26T01:21:56.537Z
 
 ## Products
 
@@ -71,7 +71,7 @@
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/31bbd54348b337374128a291cd1dbc4f5b886f30ee143f881189cb9e0fb016d0.jpg?v=1794797081
     Price: $13.00 USD
 - [Authentic Louisiana Alligator Paw Necklace | Genuine Pendant](https://pitreshandcrafted.com/products/authentic-louisiana-alligator-paw-necklace-genuine-foot): Authentic Louisiana Alligator Paw Necklace, handcrafted in Cut Off, Louisiana, with a genuine paw, adjustable cord, unique scale patterns, and classic or beaded styles.
-  Updated: 2026-11-16T02:59:38Z
+  Updated: 2026-11-25T01:15:44Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Pendant/Charm Necklace
   Availability: Available
@@ -117,7 +117,7 @@
   Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3847f903893dc4d939b79862f1ed666511108388643d5e83f8af58a9aba8d60b.jpg?v=1786019691
   Price: $15.00 USD
 - [Rustic Cypress Knee Jewelry | Hand-Stained Wood Display Stand](https://pitreshandcrafted.com/products/rustic-cypress-knee-jewelry-display-natural-wood-earring-ring-organizer): Rustic Cypress Knee Jewelry displays are handcrafted from unique cypress knees, hand-selected, cleaned, stained, and sealed to showcase natural wood grain and organic knots.
-  Updated: 2026-11-17T15:31:29Z
+  Updated: 2026-11-20T02:42:51Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Jewelry Stand & Display
   Availability: Available
@@ -143,7 +143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3195d9515bb165647c3a0c98a4b628b892a727e6eac39e1800827240687ff3fd.jpg?v=1794797189
     Price: $170.00 USD
 - [Real Louisiana Alligator Head Taxidermy | Genuine Gator Desk Decor](https://pitreshandcrafted.com/products/real-louisiana-alligator-head-taxidermy-cajun-heritage-desk-decor): Shop authentic Louisiana alligator head taxidermy hand-cured since 1970. Real American alligator head specimen for desk and curio decor. Official tag included.
-  Updated: 2026-11-17T22:12:20Z
+  Updated: 2026-11-23T18:40:31Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Sculpture
   Availability: Available
@@ -212,7 +212,7 @@
   Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/6adc265b8a44a87b0cc477430400b3403b22e1622a1f5c8df739a1281e093740.jpg?v=1794797220
   Price: $29.00 USD
 - [Men's Tall Alligator Leather Bifold Wallet in Chocolate Brown](https://pitreshandcrafted.com/products/mens-tall-wallet-handcrafted-alligator-leather-bifold-wallet): Carry your essentials in a handcrafted bifold wallet made from genuine Louisiana alligator leather, with rich chocolate brown color and distinctive scales
-  Updated: 2026-11-17T23:15:18Z
+  Updated: 2026-11-20T09:30:28Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Wallet - Men's
   Availability: Available
@@ -280,12 +280,12 @@
   Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3bfedae89f05231fa556c913152e35ed57da96405b8793418912baeb389d948f.jpg?v=1794797045
   Price: $9.00 USD
 - [Authentic 11foot Monster Alligator Head Taxidermy Decor](https://pitreshandcrafted.com/products/authentic-11foot-monster-alligator-head-taxidermy-decor): Authentic 11foot Monster Alligator head, preserved in South Louisiana with a high-gloss finish. A 16-inch taxidermy centerpiece for oddities collections and decor.
-  Updated: 2026-11-18T00:15:23Z
+  Updated: 2026-11-24T00:44:47Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Wall Accent
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/511dcdfe97c32444b09cc05c32d6295bd70963e0567d684526311b2383a67f89.jpg?v=1794797073
-  Price: $355.00 USD
+  Price: $300.00 USD
 - [Whimsical Wood-Burned Feline | Rustic Cat Coasters Set of Four](https://pitreshandcrafted.com/products/whimsical-wood-burned-feline-drink-coasters-set-four): Whimsical Wood-Burned Feline coasters feature hand-burned cat illustrations on natural wood slices with bark edges. Choose the Midnight or Hiding set of four.
   Updated: 2026-11-16T15:37:47Z
   Vendor: PITRESHANDCRAFTED
@@ -301,7 +301,7 @@
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/eb7987bf67cbed5aaa29c88d2fa03a82a95bb67a3bb095268c737cd06169b6d8.jpg?v=1794797267
     Price: $38.00 USD
 - [Handmade Engraved Wood Cutting Board & Charcuterie Serving Tray](https://pitreshandcrafted.com/products/handmade-engraved-wood-cutting-board-rustic-serving-tray): Handmade engraved wood cutting board and rustic charcuterie serving tray in bamboo, red cedar, or cypress. Hand-burned designs sealed with food-safe beeswax.
-  Updated: 2026-11-17T21:37:36Z
+  Updated: 2026-11-18T01:36:16Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Cutting Board
   Availability: Available
@@ -368,12 +368,12 @@
   Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/sportmans-paradise-louisiana-cypress-woodburned-sign.jpg?v=1794797281
   Price: $103.00 USD
 - [Louisiana Alligator Leather Stitchless Long Flat Wallet](https://pitreshandcrafted.com/products/louisiana-alligator-leather-handcrafted-stitchless-long-flat-wallet): Showcase the natural character of genuine Louisiana alligator hide in a handcrafted, stitchless long wallet rooted in bayou heritage. Discover its unique
-  Updated: 2026-11-17T20:27:14Z
+  Updated: 2026-11-25T17:12:17Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Long Wallet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/vibelisting_gen_1794793910570_9ve913.png?v=1794793968
-  Price: $225.00 USD
+  Price: $125.00 USD
 - [Alligator scutes Louisiana | Vulture Culture Specimens](https://pitreshandcrafted.com/products/alligator-scutes-louisiana-alligator-backbones-vulture-culture): Alligator scutes Louisiana specimens from Bayou Lafourche bring natural character to a vulture culture collection. The bones are fossilized and whitened through processing.
   Updated: 2026-11-17T14:47:38Z
   Vendor: PITRESHANDCRAFTED
@@ -393,7 +393,7 @@
     Availability: Available
     Price: $10.00 USD
 - [Gilded Oyster Shell Trinket Dish | Coastal Catchall Decor](https://pitreshandcrafted.com/products/gilded-oyster-shell-trinket-dish-coastal-smudge-bowl-ring-holder-ashtray): Add coastal elegance with a Gilded Oyster Shell Trinket Dish, crafted from authentic Louisiana oyster shells with a pearlescent purple interior and gold-leafed edges.
-  Updated: 2026-11-16T00:06:49Z
+  Updated: 2026-11-18T08:45:13Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Jewelry Dish
   Availability: Available
@@ -425,7 +425,7 @@
   Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/93f974a64d3990d39527e4b122198066a8f23aae899fb7a6a5c6a78e801c2b43.jpg?v=1786021233
   Price: $13.00 USD
 - [Alligator Keychains | Leather, Tooth, Foot & Gold Cajun Charms](https://pitreshandcrafted.com/products/alligator-keychains-leather-tooth-foot-gold-cajun-charms): Shop Alligator Keychains from Pitres Handcrafted, with leather straps, natural alligator teeth and feet, backbone styles, and plated gold charms in varied designs.
-  Updated: 2026-11-17T11:05:24Z
+  Updated: 2026-11-18T02:28:32Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Keychain - Unisex
   Availability: Available
@@ -811,12 +811,12 @@
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/7b648294630f255b70c327c4279939b04eb7cf600812670bb26b4c21a5aab5de.jpg?v=1794787098
     Price: $380.00 USD
 - [Louisiana Alligator Leather Handcrafted Wallet No. 2](https://pitreshandcrafted.com/products/louisiana-alligator-leather-handcrafted-wallet-2): Carry a wallet crafted from authentic Louisiana alligator leather, with distinctive natural markings and rugged bayou character. Discover this handcrafted
-  Updated: 2026-11-17T19:13:42Z
+  Updated: 2026-11-25T17:12:37Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Wallet - Men's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/aa9cd31f622ed6c64c64e1441d324de5c00299718ec810b4b633fb9480868165.jpg?v=1794787036
-  Price: $300.00 USD
+  Price: $225.00 USD
 - [Turtle Alligator Tooth Pendant | Boho Cord Necklace](https://pitreshandcrafted.com/products/turtle-alligator-tooth-pendant-boho-cord-necklace): Turtle Alligator Tooth Pendant necklace pairs a detailed turtle charm with an alligator tooth accent and adjustable rope cord, for short or relaxed styling.
   Updated: 2026-11-17T22:13:17Z
   Vendor: PITRESHANDCRAFTED
@@ -911,12 +911,17 @@
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/ec98ed55e5166fe8c2bdebce8e9930ff4768a5579fef0f2cec684396f383e9cd.jpg?v=1794785225
     Price: $170.00 USD
 - [Authentic Louisiana Alligator Leather Cuff Bracelets](https://pitreshandcrafted.com/products/authentic-louisiana-alligator-leather-cuff-bracelets): Add a rugged yet refined accent with a handcrafted cuff bracelet made from authentic Louisiana alligator leather. Find a standout piece for your collection.
-  Updated: 2026-11-16T08:31:37Z
+  Updated: 2026-11-21T02:05:36Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Cuff Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/609b67b509118b59076215370eebb88c9d7eb3a31163732563323e7440913668.jpg?v=1794785237
-  Price: $80.00 USD
+  - [black](https://pitreshandcrafted.com/products/authentic-louisiana-alligator-leather-cuff-bracelets?variant=68421435982052)
+    Availability: Available
+    Price: $80.00 USD
+  - [Brown](https://pitreshandcrafted.com/products/authentic-louisiana-alligator-leather-cuff-bracelets?variant=68421436014820)
+    Availability: Available
+    Price: $80.00 USD
 - [Tribal & earth tone boho - Alligator Tooth Braided Bracelet](https://pitreshandcrafted.com/products/tribal-earth-tone-boho-hemp-alligator-tooth-braclets-braid): Tribal & earth tone boho alligator tooth bracelets feature braided leather or woven wraps, with varied colors and textures for earthy styling, stacking, or festivals.
   Updated: 2026-11-15T23:26:59Z
   Vendor: PITRESHANDCRAFTED
@@ -969,7 +974,7 @@
   Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/ec68d70d26dca61dd4c989b7459fc1ee666d6c9758c84e290d11e5aa63f9fb9d.jpg?v=1794785077
   Price: $13.00 USD
 - [Alligator Leather Dough Bowl Valet Tray and Wooden Catchall](https://pitreshandcrafted.com/products/genuine-alligator-leather-dough-bowl-valet-tray): Keep everyday essentials together in a hand-carved wooden dough bowl accented with genuine alligator hide. Bring handcrafted bayou character to your space.
-  Updated: 2026-11-16T08:31:38Z
+  Updated: 2026-11-25T17:13:26Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Decorative Tray
   Availability: Available
@@ -977,11 +982,11 @@
   - [Brown](https://pitreshandcrafted.com/products/genuine-alligator-leather-dough-bowl-valet-tray?variant=67522140143844)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/b8704bc60d0c9fed6ad6035bf6900833bce0db8fc1cf42bb93391a01afa46bb6.jpg?v=1794784994
-    Price: $110.00 USD
+    Price: $80.00 USD
   - [White](https://pitreshandcrafted.com/products/genuine-alligator-leather-dough-bowl-valet-tray?variant=67522140176612)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/a32b8f9de2ff1bb7100e3938fadbcb275a29fb1abcb15948269a29f0812c3824.jpg?v=1794784979
-    Price: $130.00 USD
+    Price: $80.00 USD
 - [Authentic Louisiana Baby – Mini Alligator Head Collector Piece](https://pitreshandcrafted.com/products/authentic-louisiana-baby-mini-alligator-head-5-inch-pocket): Authentic Louisiana Baby mini alligator head, approximately 4 inches, with textured scales and tiny teeth. A rare Louisiana souvenir and distinctive curio cabinet display piece.
   Updated: 2026-11-15T23:24:09Z
   Vendor: PITRESHANDCRAFTED
@@ -990,7 +995,7 @@
   Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/65c727bc3719e3eebda6c42e32e09516aca6c42992f503744e6b0a6874e5d432.png?v=1794784964
   Price: $36.00 USD
 - [Authentic Louisiana Alligator Head Taxidermy | Wild Gator Skull](https://pitreshandcrafted.com/products/authentic-louisiana-alligator-head-taxidermy-wild-gator-skull): Authentic Louisiana Alligator Head Taxidermy, wild-harvested in Louisiana and preserved with a high-gloss finish. Each unique head features marble eyes and natural teeth.
-  Updated: 2026-11-15T23:23:31Z
+  Updated: 2026-11-25T14:08:20Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Wall Accent
   Availability: Available
@@ -1024,12 +1029,12 @@
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/587cf592b654dadf6d5791e21e1a0a28943050a2fb4ac40b60c46b29ebb0b364_eb7606e7-a031-462f-82f4-5cf723226e51.jpg?v=1794784906
     Price: $125.00 USD
 - [Large Print KJV Thinline Bible | Embossed Alligator Front](https://pitreshandcrafted.com/products/large-print-kjv-thinline-bible-embossed-alligator-front): Large Print KJV Thinline Bible with an embossed alligator-texture front, smooth faux-leather spine and back, gold-edged pages, and a satin ribbon page marker.
-  Updated: 2026-11-16T15:38:00Z
+  Updated: 2026-11-21T02:05:58Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Book - 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/4fb89b74dd69560995dd03b7d1c2d637686b0e0e352f239cc6fa256ab5c05773.jpg?v=1794784918
-  Price: $370.00 USD
+  Price: $200.00 USD
 - [Louisiana Alligator Tooth Pendant | Rebel Flag & More Styles](https://pitreshandcrafted.com/products/louisiana-alligator-tooth-pendant-necklace-rebel-flag-more): Louisiana Alligator Tooth Pendant necklace in Rebel Flag, Hunter Green, or Floral styles. Each features a naturally unique tooth, hand-selected, cleaned, and prepared.
   Updated: 2026-11-15T23:21:29Z
   Vendor: PITRESHANDCRAFTED
@@ -1056,7 +1061,7 @@
   Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/a429ce597199061404bc421087c6144c79d5089d62097d6ec1203ca034eaddb5.png?v=1794784805
   Price: $66.00 USD
 - [Seamless Louisiana Wild Alligator Bifold Wallet for Men](https://pitreshandcrafted.com/products/seamless-louisiana-wild-gator-bifold-wallet-hidden-stitch): Carry daily essentials in a minimalist bifold wallet crafted from genuine Louisiana wild alligator leather, with hidden stitching and heirloom character
-  Updated: 2026-11-16T08:31:40Z
+  Updated: 2026-11-25T17:10:14Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Wallet - Men's
   Availability: Available
@@ -1064,13 +1069,13 @@
   - [old fashioned leather](https://pitreshandcrafted.com/products/seamless-louisiana-wild-gator-bifold-wallet-hidden-stitch?variant=67522151284964)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/074b8355e5451ddc1705f921c5cd9d184af053a103e39a7cb235b16c72de3f3d.jpg?v=1794784735
-    Price: $225.00 USD
+    Price: $150.00 USD
   - [ID slot](https://pitreshandcrafted.com/products/seamless-louisiana-wild-gator-bifold-wallet-hidden-stitch?variant=67522151317732)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/6dd0bf7317ede923e63971c88a4e2c726804eb708a9e6161b2e60b7c5640c1d9.jpg?v=1794784774
-    Price: $251.00 USD
+    Price: $150.00 USD
 - [Alligator Scute Necklace – Genuine Cajun Heritage Pendant](https://pitreshandcrafted.com/products/alligator-scute-necklace-traditional-louisiana-protection): Alligator Scute Necklace handcrafted by Pitres from genuine alligator backbone, with a natural porous texture, adjustable knotted cord, and unique bone coloration.
-  Updated: 2026-11-17T19:00:45Z
+  Updated: 2026-11-18T14:36:45Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Pendant/Charm Necklace
   Availability: Available
@@ -1438,7 +1443,7 @@
   Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/7dfb7870fb33e634c2359b2566ff52e9f21aec655236dd9580f3a14aadca9f9c.jpg?v=1794782102
   Price: $17.00 USD
 - [Woodburned Cypress Tarot Cards | Handcrafted Gothic Lovers Art](https://pitreshandcrafted.com/products/woodburned-cypress-tarot-cards-bayou-gothic-design): Woodburned Cypress Tarot Cards feature two skeletons in an eternal embrace, hand-burned into solid wood and hand-painted for a one-of-a-kind gothic display.
-  Updated: 2026-11-17T20:02:28Z
+  Updated: 2026-11-20T06:08:19Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Decorative Tabletop Object
   Availability: Available
@@ -1578,49 +1583,49 @@
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/0107aa7842d33f5e1d38e43ee1b970b15d5c3285eb7e65fe4759ba5edcfead37.jpg?v=1794782060
     Price: $70.00 USD
 - [Handcrafted Wood-Burned Scripture | Cypress Live Edge Plaque](https://pitreshandcrafted.com/products/handcrafted-wood-burned-scripture-wall-art-louisiana): Handcrafted Wood-Burned Scripture wall art made in Louisiana from native cypress, with hand-burned pyrography, natural live edges, and custom verse options.
-  Updated: 2026-11-16T21:19:44Z
+  Updated: 2026-11-23T15:12:58Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Wall Accent
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/vibelisting_gen_1794367401777_914p58.png?v=1794782018
   - [phill 11:13](https://pitreshandcrafted.com/products/handcrafted-wood-burned-scripture-wall-art-louisiana?variant=67522173698276)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/455f6b1c29d5122a356f723536570665294bfae83246739a6100f9928bc864e9_d1bffe2b-8a51-40b7-865d-031afea14766.jpg?v=1794781999
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3372.jpg?v=1795226633
     Price: $90.00 USD
   - [pink sand](https://pitreshandcrafted.com/products/handcrafted-wood-burned-scripture-wall-art-louisiana?variant=67522173731044)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/6dba080c84a89e5f8ace497a018f61a6e8ddaf1a7d0d796aa70d7fd0e7207afa_ec460f3b-b156-453d-bdbf-4b3adcc60e06.jpg?v=1794781965
     Price: $70.00 USD
   - [for that was when i carried you](https://pitreshandcrafted.com/products/handcrafted-wood-burned-scripture-wall-art-louisiana?variant=67522173763812)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3ad0d7ef85674d964edd1b33e1b59bcc8011d8bfb02342d9e3f34a0b106f49fb_bb99aa12-87e2-4e77-b5ef-9b5390a907ee.jpg?v=1794781972
     Price: $55.00 USD
   - [one the strong survive](https://pitreshandcrafted.com/products/handcrafted-wood-burned-scripture-wall-art-louisiana?variant=67522173796580)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/1775ccdc1c2de6b6d8b0b0f9ce6336e2840d4eb7d4b6150f3ac6b31a7292a9c3_a0927566-1bb3-4bcb-8e52-22b71b6393b2.jpg?v=1794781968
     Price: $65.00 USD
   - [boaters cross](https://pitreshandcrafted.com/products/handcrafted-wood-burned-scripture-wall-art-louisiana?variant=67522173829348)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/0eeeb7bc345a9c8b4fb095cb77a22cc0363bc6a66415baf3a1d13703f77fbbea_955ca07d-8307-47b4-874f-8b6453561c59.jpg?v=1794781984
-    Price: $130.00 USD
+    Price: $100.00 USD
   - [alligator](https://pitreshandcrafted.com/products/handcrafted-wood-burned-scripture-wall-art-louisiana?variant=67522173862116)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/a7be56ef0343eadc6ef1682e4aa035dd1e7e3e219395f630b6c6e08c5f47c1e1_ab4f65dd-49b7-457c-809e-8299cb95107b.jpg?v=1794781988
-    Price: $95.00 USD
+    Price: $85.00 USD
   - [jesus](https://pitreshandcrafted.com/products/handcrafted-wood-burned-scripture-wall-art-louisiana?variant=67522173894884)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/6dc13a1cc8a90286909b4516b97dafb5bf6309836d2fadc09c9b8225b7a0bc4c_c44bf8e7-031a-4e04-a6d8-8ac1edf958d9.jpg?v=1794781953
-    Price: $90.00 USD
+    Price: $75.00 USD
   - [dream catcher](https://pitreshandcrafted.com/products/handcrafted-wood-burned-scripture-wall-art-louisiana?variant=67522173927652)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/73db0799c1ba9bd9fe75597658364821497193ecad065cd63d7373fa6f358bb0_2e5b30e3-d327-42c6-97b1-a40990c59104.jpg?v=1794781961
-    Price: $65.00 USD
+    Price: $58.00 USD
   - [custom (your idea)](https://pitreshandcrafted.com/products/handcrafted-wood-burned-scripture-wall-art-louisiana?variant=67522173960420)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/a7be56ef0343eadc6ef1682e4aa035dd1e7e3e219395f630b6c6e08c5f47c1e1_ab4f65dd-49b7-457c-809e-8299cb95107b.jpg?v=1794781988
     Price: $100.00 USD
   - [mother mary](https://pitreshandcrafted.com/products/handcrafted-wood-burned-scripture-wall-art-louisiana?variant=67522173993188)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/37b93bbabe7b0ccbb8e064ae23818a88567e77997aa61aa48a70daf8bf938513_5a09b154-ab2e-483a-ab32-eb97fa567033.jpg?v=1794781976
     Price: $80.00 USD
   - [praying hands](https://pitreshandcrafted.com/products/handcrafted-wood-burned-scripture-wall-art-louisiana?variant=67522174025956)
@@ -1628,11 +1633,11 @@
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/dea2512b5fed5bfb161975e3e7d11f2091a7bb6a4c2d22995bb64eef40becb87_072bf6e3-1983-4719-aa31-385b4471ad18.jpg?v=1794781980
     Price: $70.00 USD
   - [only god can judge me](https://pitreshandcrafted.com/products/handcrafted-wood-burned-scripture-wall-art-louisiana?variant=67522174058724)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/5151d094c321c76f0062817968357eba231bf15d5d1c7cbb18cbc64866cc7f5e_4b769501-f29b-441f-89ef-8d34df053699.jpg?v=1794781957
     Price: $60.00 USD
 - [Handcrafted Louisiana Gator Leather | Trifold Wallet with RFID](https://pitreshandcrafted.com/products/handcrafted-louisiana-gator-leather-trifold-wallet): Handcrafted Louisiana Gator Leather trifold wallet with RFID-blocking lining, clear ID window, card compartments, cash space, and handcrafted Louisiana construction.
-  Updated: 2026-11-15T22:38:04Z
+  Updated: 2026-11-21T02:06:19Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Wallet - Men's
   Availability: Available
@@ -1640,11 +1645,11 @@
   - [style 1](https://pitreshandcrafted.com/products/handcrafted-louisiana-gator-leather-trifold-wallet?variant=67522174091492)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/17c146bfad91167b20911b7e0c4ea86827d96b103a311b9b59ec40f68988036f.jpg?v=1794782231
-    Price: $300.00 USD
+    Price: $250.00 USD
   - [style 2](https://pitreshandcrafted.com/products/handcrafted-louisiana-gator-leather-trifold-wallet?variant=67522174124260)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/1fa826cdb61b5ecace44c8fc992aaff1174ca7f6e17f9ab8ab081b1f1a749323.jpg?v=1794782208
-    Price: $270.00 USD
+    Price: $250.00 USD
 - [Custom Handbound alligator Leather Bible | Matching Duo Set](https://pitreshandcrafted.com/products/custom-handbound-alligator-leather-bible-devotional-set): Custom Handbound alligator Leather Bible and matching devotional set, handcrafted in Louisiana with genuine wild alligator leather and a split-cover binding in rich brown.
   Updated: 2026-11-17T20:00:30Z
   Vendor: PITRESHANDCRAFTED
@@ -1720,7 +1725,7 @@
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/57c7099f751e6535f9e8dfca8cdeaeb1c169e213986c9e9c4909b85626e93277.jpg?v=1794782178
     Price: $40.00 USD
 - [Allgator Tooth Earrings – Handcrafted Louisiana Statement Jewelry](https://pitreshandcrafted.com/products/allgator-tooth-earrings-natural-earth-bone-louisiana-plated): Allgator Tooth Earrings are handcrafted in Louisiana with genuine alligator teeth and plated metal findings. Choose minimalist or adorned styles with unique natural variations.
-  Updated: 2026-11-17T21:33:04Z
+  Updated: 2026-11-20T04:06:13Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Dangle Earrings
   Availability: Available
@@ -1912,7 +1917,7 @@
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/365-days-walking-with-god-brown-alligator-leather-cover-1.jpg?v=1794775395
     Price: $550.00 USD
 - [Authentic Cypress Knees | Rustic Decor and Jewelry Displays](https://pitreshandcrafted.com/products/authentic-cypress-knees-rustic-decor-jewelry-displays): Authentic Cypress Knees are hand-peeled, smoothly sanded, and sealed with a moisture-resistant urethane finish for rustic decor and natural jewelry displays.
-  Updated: 2026-11-17T22:37:46Z
+  Updated: 2026-11-23T23:24:06Z
   Vendor: PITRESHANDCRAFTED
   Product Type: Jewelry Stand & Display
   Availability: Available
@@ -2070,11 +2075,11 @@
   Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/silver-black-metal-alligator-catchall-tray.png?v=1794773300
   Price: $115.00 USD
 - [Genuine Louisiana Alligator Leather | Handcrafted Hair Clips](https://pitreshandcrafted.com/products/genuine-louisiana-alligator-leather-hair-accessories-handcrafted-claw-clips-barrettes): Genuine Louisiana Alligator Leather hair accessories, handcrafted by hand in South Louisiana. Choose from claw clips, classic barrettes, and slim snap clips; each is one of a kind.
-  Updated: 2026-11-16T08:02:32Z
+  Updated: 2026-11-18T20:48:41Z
   Vendor: pitreshandcrafted
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/genuine-louisiana-alligator-leather-dark-brown-scaled-hair-claw-clip.jpg?v=1794773192
+  Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/genuine-louisiana-alligator-leather-hair-clips-claw-brown-3.jpg?v=1794773186
   - [claw](https://pitreshandcrafted.com/products/genuine-louisiana-alligator-leather-hair-accessories-handcrafted-claw-clips-barrettes?variant=68298863050980)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/genuine-louisiana-alligator-leather-dark-brown-scaled-hair-claw-clip.jpg?v=1794773192
@@ -2088,7 +2093,7 @@
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/genuine-louisiana-alligator-leather-tan-hair-clips-barrettes-2.jpg?v=1794773190
     Price: $25.00 USD
 - [Authentic Louisiana Alligator hat | Leather Patch Wholesale Caps](https://pitreshandcrafted.com/products/authentic-louisiana-alligator-leather-patch-hats): Authentic Louisiana Alligator hat bundle features hand-cut leather patches and randomly selected mixed colors. Handcrafted wholesale caps for Louisiana heritage retailers.
-  Updated: 2026-11-17T02:47:49Z
+  Updated: 2026-11-18T08:06:13Z
   Vendor: pitreshandcrafted
   Product Type: hat
   Availability: Available
@@ -2112,54 +2117,174 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/handcrafted-charred-wood-keepsake-box-black-leather-lid-drawer-10.jpg?v=1794856651
     Price: $100.00 USD
-- [Torched Wood Curio Display Box & Jewelry Case | Shadow Box](https://pitreshandcrafted.com/products/artisan-hinged-curio-amp-jewelry-display-box-mixed-metallic-pearl-trim-torched-wood-amp-leather-details): Handcrafted torched wood curio display box and jewelry case with hinged viewing lid, antique latch, metallic pearl trim, and genuine alligator leather.
-  Updated: 2026-11-17T18:17:31Z
+- [Handcrafted Torched Wood Curio Display Box & Jewelry Case | Hinged Keepsake Shadow Box - Pitreshandcrafted](https://pitreshandcrafted.com/products/artisan-hinged-curio-amp-jewelry-display-box-mixed-metallic-pearl-trim-torched-wood-amp-leather-details): Elevate your heirloom keepsakes, retail merchandise, and collector treasures with the Handcrafted Torched Wood Curio Display Box & Jewelry Display Case by Pitres Handcrafted. Built in Louisiana from flame-torched solid timber and accented with genuine alligator leather, each piece merges rugged Southern woodworking with ornate metallic rhinestone and pearl trims. Whether used as a protective keepsake chest on your dresser, a tabletop display for oddities and pocket tools, or an eye-catching countertop showcase for boutique retail goods, this hinged shadow box provides dust-free visibility and timeless artisanal character. Artisan Craftsmanship & Key Features Torched Timber Construction: Solid wood body finished with a rich flame-charred technique that accentuates natural wood grain patterns. Hinged Viewing Lid: Transparent plexiglass window lets you view rings, necklaces, watches, and artifacts clearly without opening the box. Antique-Style Hardware: Sturdy metal hinges and an antique swing-latch front closure keep your contents securely in place, framed by vintage-style filigree corner brackets. Exotic Accents & Bedding: Lined with genuine Louisiana alligator leather or cushioned with shimmering metallic mesh ribbon bedding to cradle delicate items. One-of-a-Kind Detail: Embellished by hand with signature mixed metallic borders—including silver, gold, rose gold, mirror tiles, and white pearl trim. Available Sizes & Distinct Editions 12-Inch Signature Curio Box: Ideal for fine jewelry collections, rings, watches, everyday carry (EDC) items, and cherished keepsakes. 12-Inch Alligator Leather Edition: Features genuine textured black alligator leather integrated directly on the lid exterior or interior floor. 16-Inch Grand Relic Shadow Box: An expanded profile engineered for longer statement artifacts, knives, pocket watches, and curated gift displays. Versatile Home Decor & Retail Merchandising Home & Vanity Organizer: Display your daily jewelry, crystals, and mementos neatly on a dresser or nightstand. Boutique Countertop Showcase: An attractive point-of- display box for independent shops and craft vendors to merchandise leather goods, cuffs, and accessories under protective glass. Artisan Gift Box: An unforgettable presentation chest for wedding mementos, anniversaries, and heirloom gifts. Care Instructions Wipe the torched wood exterior gently with a clean, dry microfiber cloth. Clean the plexiglass window using a soft microfiber cloth and mild plastic or glass cleaner, avoiding abrasive pads. Keep away from prolonged standing moisture to preserve natural wood and leather integrity. - Pitreshandcrafted
+  Updated: 2026-11-23T17:59:50Z
   Vendor: pitreshandcrafted
   Product Type: Keepsake Box
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/artisan-hinged-curio-distressed-wood-box-leather-case.jpg?v=1794856654
+  Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/artisan-hinged-curio-distressed-wood-box-leather-case.jpg?v=1795456773
   - [16 inch](https://pitreshandcrafted.com/products/artisan-hinged-curio-amp-jewelry-display-box-mixed-metallic-pearl-trim-torched-wood-amp-leather-details?variant=68336366387428)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/artisan-hinged-curio-clear-lid-ornate-metallic-trim-2.jpg?v=1794856655
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/artisan-hinged-curio-clear-lid-ornate-metallic-trim-2.jpg?v=1795456789
     Price: $88.00 USD
   - [12 inch](https://pitreshandcrafted.com/products/artisan-hinged-curio-amp-jewelry-display-box-mixed-metallic-pearl-trim-torched-wood-amp-leather-details?variant=68336366420196)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/artisan-hinged-curio-torched-wood-display-boxes-metallic-trim-1.jpg?v=1794856654
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/artisan-hinged-curio-torched-wood-display-boxes-metallic-trim-1.jpg?v=1795456781
     Price: $68.00 USD
   - [12 inch alligator leather](https://pitreshandcrafted.com/products/artisan-hinged-curio-amp-jewelry-display-box-mixed-metallic-pearl-trim-torched-wood-amp-leather-details?variant=68336366452964)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/artisan-hinged-curio-distressed-wood-box-leather-case.jpg?v=1794856654
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/artisan-hinged-curio-distressed-wood-box-leather-case.jpg?v=1795456773
     Price: $150.00 USD
+- [Authentic Hand-Burned Louisiana Wood Ornaments - Pitreshandcrafted](https://pitreshandcrafted.com/products/authentic-hand-burned-louisiana-wood-ornaments): Bring Authentic Southern Charm to Your Retail Shelves This Holiday Season Stock your boutique, gift shop, or holiday market with our genuine, handcrafted Louisiana wood slice ornaments. Perfectly capturing the rustic, laid-back spirit of a Southern Christmas, these live-edge ornaments are a proven best-seller for retailers looking to offer high-quality, tactile artisan goods that stand out from mass-produced factory decor. The Artisan Craftsmanship & Materials Every single ornament in our collection is meticulously burned by hand into natural wood slices. We do not use lasers, stamps, or digital overlays—this is authentic pyrography. We carefully select wood slices that feature a rich, warm inner grain surrounded by a beautifully textured, dark live-edge bark rim. The deep, textural hand-burned linework gives each piece a tactile, heirloom feel that your customers will immediately recognize and appreciate. Because they are made from real, raw wood and illustrated by hand, no two ornaments are exactly alike. When your customers buy one of these, they are taking home a truly unique, one-of-a-kind keepsake. The "Dirty Santa Louisiana" Collection & Classic Holiday Designs Our catalog features a mix of beloved regional staples, Southern humor, and classic holiday nostalgia. The hand-burned artwork available includes: * The Pelican: Wrapped in a winter scarf and carrying a bindle of ornaments. * The Crawfish: A smiling Louisiana staple holding a gift and a holiday beverage. * The Gator with Presents: A grinning alligator in a Santa hat standing next to a stack of gifts. * The Gator with a Jug: A classic bayou alligator in a flannel shirt holding a moonshine jug. * The Vintage Christmas Truck: The timeless holiday scene of a classic pickup hauling a fresh pine tree. * The Highland Cow: A shaggy, beloved Highland cow bundled up for winter. * The Mason Jar Pine Bouquet: A Southern classic featuring a glowing mason jar filled with winter foliage. * The Light & Love Lantern: An intricate, glowing vintage lantern surrounded by pine needles. * The Warm Wishes Mittens: Cozy winter mittens holding a snowball, perfect for traditional holiday displays. * The Classic Snowman: A highly detailed, nostalgic snowman complete with a top hat and broom. Ideal Retail Partners These ornaments are highly giftable and boast incredible -through rates for a variety of wholesale partners, including: * Southern Boutiques & Gift Shops: A must-have for locals proud of their Louisiana roots. * Tourist Destinations & Souvenir Shops: The perfect, packable keepsake for out-of-town visitors looking for genuine local art. * Garden Centers & General Stores: A flawless fit for shops that cater to a rustic, farmhouse, or natural aesthetic. Merchandising & Display Magic These ornaments practically  themselves when merchandised well. Their compact, lightweight size makes them an ideal checkout counter impulse buy or a high-margin stocking stuffer. We highly recommend displaying them hanging from a tabletop mini-tree, nestled in rustic wooden crates, or tied to a tiered display using natural jute twine or gingham ribbon. Product Specifications: * Material: 100% natural wood slices with intact live-edge bark. * Aesthetic: Rustic, unpolished, warm, and highly textural. * Hanging: Ornaments come drilled and ready to hang (we recommend pairing them with rustic twine, leather cording, or holiday ribbon to match your store's aesthetic). Add a touch of handcrafted Louisiana soul to your storefront this winter. We pride ourselves on excellent communication, careful packaging, and reliable wholesale fulfillment. Partner with us today and give your customers a holiday keepsake they will treasure for years to come! - Pitreshandcrafted
+  Updated: 2026-11-25T11:55:33Z
+  Vendor: pitreshandcrafted
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3419.jpg?v=1795607714
+  - [snowman](https://pitreshandcrafted.com/products/authentic-hand-burned-louisiana-wood-ornaments?variant=68368289399012)
+    Availability: Available
+    Price: $10.00 USD
+  - [pelican](https://pitreshandcrafted.com/products/authentic-hand-burned-louisiana-wood-ornaments?variant=68368289431780)
+    Availability: Available
+    Price: $10.00 USD
+  - [fuer dis les](https://pitreshandcrafted.com/products/authentic-hand-burned-louisiana-wood-ornaments?variant=68368289464548)
+    Availability: Available
+    Price: $10.00 USD
+  - [crawfish](https://pitreshandcrafted.com/products/authentic-hand-burned-louisiana-wood-ornaments?variant=68368289497316)
+    Availability: Available
+    Price: $10.00 USD
+  - [alligator](https://pitreshandcrafted.com/products/authentic-hand-burned-louisiana-wood-ornaments?variant=68368289530084)
+    Availability: Available
+    Price: $10.00 USD
+  - [truck](https://pitreshandcrafted.com/products/authentic-hand-burned-louisiana-wood-ornaments?variant=68368289562852)
+    Availability: Available
+    Price: $10.00 USD
+  - [wreath](https://pitreshandcrafted.com/products/authentic-hand-burned-louisiana-wood-ornaments?variant=68368289595620)
+    Availability: Available
+    Price: $10.00 USD
+  - [jar](https://pitreshandcrafted.com/products/authentic-hand-burned-louisiana-wood-ornaments?variant=68368289628388)
+    Availability: Available
+    Price: $10.00 USD
+  - [lantern](https://pitreshandcrafted.com/products/authentic-hand-burned-louisiana-wood-ornaments?variant=68368289661156)
+    Availability: Available
+    Price: $10.00 USD
+  - [custom](https://pitreshandcrafted.com/products/authentic-hand-burned-louisiana-wood-ornaments?variant=68368289693924)
+    Availability: Available
+    Price: $10.00 USD
+  - [logo](https://pitreshandcrafted.com/products/authentic-hand-burned-louisiana-wood-ornaments?variant=68368289726692)
+    Availability: Available
+    Price: $10.00 USD
+  - [cow](https://pitreshandcrafted.com/products/authentic-hand-burned-louisiana-wood-ornaments?variant=68368310206692)
+    Availability: Available
+    Price: $10.00 USD
+- [Reversible Alligator Leather Pendant Necklace and Earring Sets](https://pitreshandcrafted.com/products/reversible-alligator-leather-wood-resin-18k-gold-plated-pendant-necklaces-earring-set-options): Reversible Alligator Leather pendant necklace with a wood and turquoise resin or bamboo backing, 18k gold-plated chain, assorted shapes, and coordinating earring sets.
+  Updated: 2026-11-22T13:30:05Z
+  Vendor: pitreshandcrafted
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3459_30f6d32e-9397-4139-b588-4f39ba98b672.jpg?v=1795115355
+  - [bamboo earring necklace set](https://pitreshandcrafted.com/products/reversible-alligator-leather-wood-resin-18k-gold-plated-pendant-necklaces-earring-set-options?variant=68392198176996)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3461.jpg?v=1795115344
+    Price: $30.00 USD
+  - [resin earring set](https://pitreshandcrafted.com/products/reversible-alligator-leather-wood-resin-18k-gold-plated-pendant-necklaces-earring-set-options?variant=68392198209764)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3459_30f6d32e-9397-4139-b588-4f39ba98b672.jpg?v=1795115355
+    Price: $34.00 USD
+  - [resin necklace](https://pitreshandcrafted.com/products/reversible-alligator-leather-wood-resin-18k-gold-plated-pendant-necklaces-earring-set-options?variant=68392198242532)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3459_30f6d32e-9397-4139-b588-4f39ba98b672.jpg?v=1795115355
+    Price: $24.00 USD
+  - [bamboo necklace](https://pitreshandcrafted.com/products/reversible-alligator-leather-wood-resin-18k-gold-plated-pendant-necklaces-earring-set-options?variant=68392198275300)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3461.jpg?v=1795115344
+    Price: $20.00 USD
+  - [resin earrings](https://pitreshandcrafted.com/products/reversible-alligator-leather-wood-resin-18k-gold-plated-pendant-necklaces-earring-set-options?variant=68392198308068)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3459_30f6d32e-9397-4139-b588-4f39ba98b672.jpg?v=1795115355
+    Price: $20.00 USD
+  - [bamboo earrings](https://pitreshandcrafted.com/products/reversible-alligator-leather-wood-resin-18k-gold-plated-pendant-necklaces-earring-set-options?variant=68392198340836)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3461.jpg?v=1795115344
+    Price: $15.00 USD
+- [Hand-Burned Christmas Wood Sign | Cypress and Cedar Wall Art](https://pitreshandcrafted.com/products/hand-burned-christmas-wood-sign-solid-louisiana-sinker-cypress-red-cedar-wall-decor): Hand-Burned Christmas Wood Sign made with solid Louisiana cypress or aromatic red cedar. Each plaque is hand-burned, hand-colored, and sealed with a protective finish.
+  Updated: 2026-11-24T18:46:50Z
+  Vendor: pitreshandcrafted
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3548.jpg?v=1795485071
+  - [Merry clawmas](https://pitreshandcrafted.com/products/hand-burned-christmas-wood-sign-solid-louisiana-sinker-cypress-red-cedar-wall-decor?variant=68466304221412)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3558_797c5039-1345-4d1c-8f75-4334addbff66.jpg?v=1795485073
+    Price: $40.00 USD
+  - [Reindeer](https://pitreshandcrafted.com/products/hand-burned-christmas-wood-sign-solid-louisiana-sinker-cypress-red-cedar-wall-decor?variant=68466304254180)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3556_e9344071-bb4e-49dc-b9cf-a7db85778056.jpg?v=1795485135
+    Price: $40.00 USD
+  - [the grinch](https://pitreshandcrafted.com/products/hand-burned-christmas-wood-sign-solid-louisiana-sinker-cypress-red-cedar-wall-decor?variant=68466304286948)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3552_ba9519f7-ab3f-43b1-b8d5-7688cd6a6fde.jpg?v=1795485077
+    Price: $40.00 USD
+  - [custom](https://pitreshandcrafted.com/products/hand-burned-christmas-wood-sign-solid-louisiana-sinker-cypress-red-cedar-wall-decor?variant=68466304319716)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3548.jpg?v=1795485071
+    Price: $50.00 USD
+- [Hand-Burned Christmas Wooden Cooking Spatula | Cypress Gift](https://pitreshandcrafted.com/products/hand-burned-christmas-wooden-cooking-spatula-flat-edge-cypress-roux-paddle-holiday-kitchen-gift-wooden-utensil): Hand-Burned Christmas Wooden Cooking Spatula crafted from solid Louisiana Cypress, with hand-shaped details and traditional pyrography. A distinctive holiday kitchen gift.
+  Updated: 2026-11-25T09:19:49Z
+  Vendor: pitreshandcrafted
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3531.jpg?v=1795485595
+  - [truck](https://pitreshandcrafted.com/products/hand-burned-christmas-wooden-cooking-spatula-flat-edge-cypress-roux-paddle-holiday-kitchen-gift-wooden-utensil?variant=68466509152484)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3532_16e24ea1-312c-47fa-8af7-bf9794dd7a28.jpg?v=1795485571
+    Price: $25.00 USD
+  - [snowman](https://pitreshandcrafted.com/products/hand-burned-christmas-wooden-cooking-spatula-flat-edge-cypress-roux-paddle-holiday-kitchen-gift-wooden-utensil?variant=68466509185252)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3531_d352b8d6-6951-4630-8394-2de5d88aeed9.jpg?v=1795485586
+    Price: $25.00 USD
+  - [fleur-de-lis](https://pitreshandcrafted.com/products/hand-burned-christmas-wooden-cooking-spatula-flat-edge-cypress-roux-paddle-holiday-kitchen-gift-wooden-utensil?variant=68466509218020)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3531_63bc3342-a6b4-484f-a7e7-8b32168082eb.jpg?v=1795485551
+    Price: $25.00 USD
+  - [Reindeer](https://pitreshandcrafted.com/products/hand-burned-christmas-wooden-cooking-spatula-flat-edge-cypress-roux-paddle-holiday-kitchen-gift-wooden-utensil?variant=68466509250788)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3534_496a0f61-d8bb-4006-827b-299e6869ad74.jpg?v=1795485556
+    Price: $25.00 USD
+  - [custom](https://pitreshandcrafted.com/products/hand-burned-christmas-wooden-cooking-spatula-flat-edge-cypress-roux-paddle-holiday-kitchen-gift-wooden-utensil?variant=68466509283556)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0824/2518/4484/files/3526_5b7d2187-0adf-4542-af76-413fffb1f8f0.jpg?v=1795485567
+    Price: $25.00 USD
 
 ## Collections
 
 - [🐊 Alligator Jewelry](https://pitreshandcrafted.com/collections/alligator-jewelry): Shop Alligator Jewelry featuring genuine alligator tooth necklaces, bracelets, earrings, leather accessories, and handcrafted Louisiana gifts Jewelry handcrafted....
-  Updated: 2026-11-16T18:20:20Z
+  Updated: 2026-11-25T12:23:20Z
   Total Products: 32
 - [alligator leather wallets, bibles, bracelets, earrings, etc.](https://pitreshandcrafted.com/collections/leather-goods): Shop premium Leather Goods handcrafted from genuine Louisiana alligator leather. Explore wallets, Bible covers, bracelets, padfolios and custom leather gifts Leather
-  Updated: 2026-11-16T18:20:20Z
+  Updated: 2026-11-25T17:13:05Z
   Total Products: 20
 - [🐊 Alligator Heads & Taxidermy](https://pitreshandcrafted.com/collections/alligator-heads): Shop authentic Alligator Heads from Louisiana. Explore taxidermy mounts, trophy alligator heads, rustic wall décor, Cajun collectibles, and handcrafted displays.....
-  Updated: 2026-11-16T03:35:51Z
+  Updated: 2026-11-25T12:23:20Z
   Total Products: 14
 - [🦴 Bones & Craft Supplies](https://pitreshandcrafted.com/collections/bones-craft-supplies): Shop Bones & Craft Supplies including alligator teeth, scutes, bones, antlers, and natural materials for jewelry making, taxidermy, and crafts Bones & Craft Supplies
-  Updated: 2026-11-11T03:39:01Z
+  Updated: 2026-11-25T12:23:20Z
   Total Products: 14
 - [🪵 Handmade Wood Decor](https://pitreshandcrafted.com/collections/handmade-wood-decor): Shop Handmade Wood Decor featuring handcrafted cypress and cedar wall art, signs, serving boards, pyrography, and rustic Louisiana wood crafts natural Bring natural.
-  Updated: 2026-11-16T21:19:46Z
-  Total Products: 27
+  Updated: 2026-11-24T12:22:12Z
+  Total Products: 29
 - [🍽 Kitchen & Dining](https://pitreshandcrafted.com/collections/kitchen-dining): Shop Kitchen & Dining essentials including handcrafted wooden serving boards, trivets, spoon rests, paddles and rustic Louisiana kitchen décor our handcrafted wooden
   Updated: 2026-11-16T03:56:47Z
   Total Products: 12
 - [🏡 Home Decor](https://pitreshandcrafted.com/collections/home-decor): Shop Home Decor featuring handcrafted wood art, alligator taxidermy rustic accents, wildlife décor and unique Louisiana-nspired home accessories our handcrafted Home
-  Updated: 2026-11-16T21:19:46Z
-  Total Products: 36
+  Updated: 2026-11-25T17:13:05Z
+  Total Products: 38
 - [✝️ Religious Gifts](https://pitreshandcrafted.com/collections/religious-gifts): Shop Religious Gifts including personalized Bible covers Christian wall art, handcrafted wood signs and meaningful faith-inspired keepsakes Religious Gifts Religious
-  Updated: 2026-11-16T21:19:46Z
+  Updated: 2026-11-21T02:05:59Z
   Total Products: 8
 - [all](https://pitreshandcrafted.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-11-16T21:19:46Z
-  Total Products: 99
+  Updated: 2026-11-25T17:13:05Z
+  Total Products: 103
 
 ## Store Pages
 
