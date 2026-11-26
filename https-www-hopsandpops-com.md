@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-12-18T15:55:45Z
 - Contact Email: support@hopsandpops.com
-- Updated At: 2026-11-18T00:49:36.062Z
+- Updated At: 2026-11-26T00:49:33.490Z
 
 Sitemap containing all images at this link: https://hopsandpops.com/image-sitemap.xml
 
@@ -819,10 +819,10 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-09-19T12:29:57Z
   Total Products: 12
 - [Animal Kingdom Plushies](https://www.hopsandpops.com/collections/animal-kingdom-plushies): Shop 150+ animal plush toys & stuffed animals. Cats, dinos, ducks, capybaras, pandas & more. Kawaii soft plushies, body pillows & cuddly gifts. Free shipping. Hops & Pops.
-  Updated: 2026-11-14T12:06:37Z
+  Updated: 2026-11-21T12:04:14Z
   Total Products: 118
 - [Looong Plushies](https://www.hopsandpops.com/collections/looong-plushies): Looking for extra cuddles? Our Looong Plushies are oversized stuffed animals designed for ultimate snuggling and body pillow comfort. Stretching over 90cm, these plush toys are perfect for beds, couches, or cozy corners. Ideal for both kids and adults who love plush hugs that never end.
-  Updated: 2026-09-21T13:49:59Z
+  Updated: 2026-11-18T12:05:21Z
   Total Products: 81
 - [Yummy Plushies](https://www.hopsandpops.com/collections/yummy-plushies): Sweeten up your space with our Yummy Plushies! They are adorable food-themed plush toys inspired by cakes, fruits, ice creams, and more. These dessert plushies make perfect gifts, room decor, and cuddly companions. Discover soft and squishy treats you can hug, only at Hops & Pops.
   Updated: 2026-09-22T11:11:14Z
@@ -840,7 +840,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-07-10T13:12:30Z
   Total Products: 0
 - [Capybaras](https://www.hopsandpops.com/collections/capybaras): Meet your new favorite snuggle buddy with our capybara plushies! Soft, quirky, and irresistibly cute, these capybara stuffed animals are perfect for gifts, decor, or cuddles anytime.
-  Updated: 2026-10-26T11:05:58Z
+  Updated: 2026-11-18T12:05:21Z
   Total Products: 21
 - [Cats](https://www.hopsandpops.com/collections/cats): Shop every cat plush style: extra-long huggers, round cat pillows, chonky cube cats & sleepy cats. Soft, oversized, and gift-ready. Free US shipping.
   Updated: 2026-11-14T12:06:37Z
@@ -942,7 +942,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-07-10T13:12:34Z
   Total Products: 0
 - [Best  Plushies](https://www.hopsandpops.com/collections/best--plushies)
-  Updated: 2026-11-14T12:06:37Z
+  Updated: 2026-11-21T12:04:14Z
   Total Products: 240
 - [Pink Happy Unicorn Plushies](https://www.hopsandpops.com/collections/pink-happy-unicorn-plushies): Introducing the Pink Happy Unicorn Plushies, your new favorite stuffed animal from Hops & Pops. These cute and kawaii plushies are perfect for cuddling and bringing joy to any room. With their squishy texture and vibrant colors, they are an irresistible plush companion.
   Updated: 2026-07-10T13:26:43Z
