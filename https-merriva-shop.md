@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-23T00:25:43Z
 - Contact Email: gomezroseronald20012001@gmail.com
-- Updated At: 2026-11-19T01:06:47.631Z
+- Updated At: 2026-11-26T01:17:03.442Z
 
 ## Products
 
@@ -2106,21 +2106,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5539/8796/files/Jigsaw-Puzzle-Polish-Glass-Christmas-Tree-Ornament-Toy-Game-Decoration-Poland_6ec0cde8-4b32-4acd-8a14-2a322d3ed56f.6e81849d0b50333b86f9a52c611c1fe7.jpg?v=1790357664
   Price: $44.95 USD
-- [Merriva™ Joseph's Studio The Little Drummer Boy](https://merriva.shop/products/josephs-studio-the-little-drummer-boy-christmas-ornament-decoration-36310-new): Shop the Joseph's Studio The Little Drummer Boy Christmas O by Merriva™. Elevate your seasonal celebration with premium craftsmanship, festive charm, and tim...
-  Updated: 2026-10-03T12:11:16Z
-  Vendor: Merriva™
-  Product Type: Christmas Ornaments
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5539/8796/files/Joseph-s-Studio-The-Little-Drummer-Boy-Christmas-Ornament-Decoration-36310-New_59e7bb97-7ed8-4d42-a788-4eb790ddd328.0d9d725ed7aa808f234ee6ab01bd7b2e.jpg?v=1790357666
-  Price: $32.14 USD
-- [Merriva™ Joyfy 40" Christmas Gnomes Plush Decorations,](https://merriva.shop/products/joyfy-40-christmas-gnomes-plush-decorations-standing-couple-decoration-knitting-style-with-long-retractable-legs-tomte-handmade-gnome-gift-holiday-home-decor-christmas-indoor-decor): Shop the Joyfy 40" Christmas Gnomes Plush Decorations, Stan by Merriva™. Elevate your seasonal celebration with premium craftsmanship, festive charm, and tim...
-  Updated: 2026-10-03T12:11:16Z
-  Vendor: Merriva™
-  Product Type: Wreaths & Garlands
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5539/8796/files/Joyfy-2Pcs-40-Christmas-Gnomes-Plush-Set-of-Christmas-Ornaments-Decorations_ee8eefb0-9395-416d-960a-4ac353f879e0.4f66b412b41a49f7742dc85226e75361.jpg?v=1790357668
-  Price: $71.41 USD
-[List Continued](https://merriva.shop/a/llms-agent/llms.txt?shop=b1zdm7-3k.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDYyNDc0NjQ1NTE4MCwibGFzdF92YWx1ZSI6IjEwNjI0NzQ2NDU1MTgwIn0%3D)
+[List Continued](https://merriva.shop/a/llms-agent/llms.txt?shop=b1zdm7-3k.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDYyNDc0NjM1Njg3NiwibGFzdF92YWx1ZSI6IjEwNjI0NzQ2MzU2ODc2In0%3D)
 
 ## Collections
 
@@ -2223,6 +2209,15 @@
     Author: Merriva
   - [Timeless Tradition Meets Modern Appeal: Merriva™ Glass Ornaments Transform Artificial Christmas Trees and Outdoor Holiday Decor](https://merriva.shop/blogs/news/timeless-tradition-meets-modern-appeal-merriva™-glass-ornaments-transform-artificial-christmas-trees-and-outdoor-holiday-decor): Timeless Tradition Meets Modern Appeal: Merriva™ Glass Ornaments Transform Artificial Christmas Trees and Outdoor Holiday Decor
     Updated: 2026-11-18T11:03:37Z
+    Author: Merriva
+  - [Illuminate Your Christmas Decorations with the Merriva™ Zimtown LED Christmas Ornament: Perfect for Realistic Artificial Christmas Trees and Outdoor Holiday Lights](https://merriva.shop/blogs/news/illuminate-your-christmas-decorations-with-the-merriva™-zimtown-led-christmas-ornament-perfect-for-realistic-artificial-christmas-trees-and-outdoor-holiday-lights): Illuminate Your Christmas Decorations with the Merriva™ Zimtown LED Christmas Ornament: Perfect for Realistic Artificial Christmas Trees and Outdoor Holiday Lights
+    Updated: 2026-11-23T11:02:45Z
+    Author: Merriva
+  - [Merriva™ Uxcell Christmas Ball Ornaments: Elevate Your Holiday Tree Decor with Shatterproof Elegance and Waterproof Christmas String Lights](https://merriva.shop/blogs/news/merriva™-uxcell-christmas-ball-ornaments-elevate-your-holiday-tree-decor-with-shatterproof-elegance-and-waterproof-christmas-string-lights): Merriva™ Uxcell Christmas Ball Ornaments: Elevate Your Holiday Tree Decor with Shatterproof Elegance and Waterproof Christmas String Lights
+    Updated: 2026-11-24T11:02:14Z
+    Author: Merriva
+  - [Merriva™ Santa Swing Christmas Ornaments: Turn Your Holiday Home Decor into a Dreamy Wonderland with Shatterproof Elegance and Permanent Outdoor Lights](https://merriva.shop/blogs/news/merriva™-santa-swing-christmas-ornaments-turn-your-holiday-home-decor-into-a-dreamy-wonderland-with-shatterproof-elegance-and-permanent-outdoor-lights): Merriva™ Santa Swing Christmas Ornaments: Turn Your Holiday Home Decor into a Dreamy Wonderland with Shatterproof Elegance and Permanent Outdoor Lights
+    Updated: 2026-11-25T11:03:07Z
     Author: Merriva
 
 ## Store Pages
