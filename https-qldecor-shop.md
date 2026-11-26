@@ -9,7 +9,7 @@
 - Created At: 2025-09-09T10:58:51Z
 - Contact Email: sales@qldecor.com
 - Contact Phone: +48572008079
-- Updated At: 2026-11-19T00:59:22.381Z
+- Updated At: 2026-11-26T01:34:18.265Z
 
 ## Products
 
@@ -189,35 +189,35 @@
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888649260.jpg?v=1767348849
   Price: 355,00 zł PLN
 - [Titanio Infinito – front MetaLux Ciemny Srebrny | QLdecor](https://qldecor.shop/products/titanio-infinito): Front Titanio Infinito ze szczotkowanym metalem w ciemnym srebrze. Odporna powłoka MetaLux do ekskluzywnych mebli – QLdecor.
-  Updated: 2026-11-18T03:29:08Z
+  Updated: 2026-11-23T05:47:36Z
   Vendor: QLdecor
   Product Type: Metalux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4890382441.jpg?v=1767348849
   Price: 886,00 zł PLN
 - [Acciaio Rosa – front MetaLux Srebrny | QLdecor](https://qldecor.shop/products/acciaio-rosa): Front Acciaio Rosa ze szczotkowanym aluminium w delikatnie różowym srebrze. Elegancka powłoka MetaLux do mebli premium QLdecor.
-  Updated: 2026-11-18T03:28:34Z
+  Updated: 2026-11-23T05:47:38Z
   Vendor: QLdecor
   Product Type: Metalux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4890409889.jpg?v=1767348849
   Price: 886,00 zł PLN
 - [Puro Platino – front MetaLux Srebrny | QLdecor](https://qldecor.shop/products/puro-platino): Front Puro Platino ze szczotkowanym metalem imitującym stal w kolorze srebra. Odporna powłoka MetaLux – oferta QLdecor.
-  Updated: 2026-11-18T03:28:35Z
+  Updated: 2026-11-23T05:47:39Z
   Vendor: QLdecor
   Product Type: Metalux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4890365773.jpg?v=1767348849
   Price: 886,00 zł PLN
 - [Rame Vivo – front MetaLux Miedź | QLdecor](https://qldecor.shop/products/rame-vivo): Front Rame Vivo ze szczotkowanym metalem w miedzianym kolorze, elegancki i odporny na zarysowania. Powłoka MetaLux QLdecor.
-  Updated: 2026-11-18T02:54:57Z
+  Updated: 2026-11-23T05:47:40Z
   Vendor: QLdecor
   Product Type: Metalux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4890360115.jpg?v=1767348849
   Price: 886,00 zł PLN
 - [Ambra – front MetaLux Złoty | QLdecor](https://qldecor.shop/products/ambra): Front Ambra ze szczotkowanym metalem w złotym odcieniu, odporny na zarysowania i ścieranie. Ekskluzywna powłoka MetaLux QLdecor.
-  Updated: 2026-11-18T02:54:30Z
+  Updated: 2026-11-23T05:47:42Z
   Vendor: QLdecor
   Product Type: Metalux
   Availability: Available
@@ -273,7 +273,7 @@
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4970099348.jpg?v=1767348849
   Price: 389,00 zł PLN
 - [OR-8057 – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-8057): Minimalistyczny uchwyt meblowy OR-8057 z aluminium, 200 mm. Dostępny w 4 kolorach – Copper Gold, Orange, Black, Silver Grey. Sklep QLdecor.
-  Updated: 2026-11-14T09:41:35Z
+  Updated: 2026-11-22T20:56:53Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -761,7 +761,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/harsh2-scaled.webp?v=1776094360
     Price: 8441,69 zł PLN
 - [Próbnik frontów meblowych QLdecor](https://qldecor.shop/products/probnik-frontow-meblowych): Zamów próbki materiałów QLdecor i sprawdź kolor oraz strukturę płyt przed zakupem. Próbniki ColorPro i MetaLux w formie listków już za 3 zł.
-  Updated: 2026-11-15T18:11:15Z
+  Updated: 2026-11-23T05:47:42Z
   Vendor: QLdecor
   Product Type: Sampler
   Availability: Available
@@ -1004,6 +1004,9 @@
 - [Próbki](https://qldecor.shop/collections/probki): Zamów próbki frontów MetaLux, WoodSense, ColorPro i próbnik blatów stalowych QLdecor. Sprawdź kolor i strukturę przed zakupem. Wysyłka do Polski i całej UE.
   Updated: 2026-11-16T13:29:19Z
   Total Products: 2
+- [Uchwyty i wieszaki](https://qldecor.shop/collections/uchwyty-i-wieszaki): Uchwyty, gałki i wieszaki meblowe QLdecor – aluminium i miedź, różne długości i wykończenia.
+  Updated: 2026-11-19T12:23:49Z
+  Total Products: 13
 
 ## Blogs
 
@@ -1017,6 +1020,15 @@
   - [Opinia google⭐⭐⭐⭐⭐](https://qldecor.shop/blogs/https-www-instagram-com-qldecorpl/opinia-google⭐⭐⭐⭐⭐)
     Updated: 2025-12-29T11:00:38Z
     Author: My Store Admin
+- [Journal](https://qldecor.shop/blogs/journal)
+  - [Stolarz powiedział: „Ładny fornir”. To nie był fornir.](https://qldecor.shop/blogs/journal/stolarz-powiedzial-ladny-fornir): Doświadczeni stolarze brali fronty WoodSense za prawdziwy fornir. Sprawdź, jak ocenić fronty o strukturze drewna dotykiem i światłem, i jak zamówić próbkę.
+    Updated: 2026-11-19T18:20:53Z
+    Author: QLdecor
+    Tags: fronts, furniture fronts, samples, veneer fronts, WoodSense
+  - [Odnów kuchnię IKEA METOD: fronty na wymiar w 3 krokach](https://qldecor.shop/blogs/journal/odnow-kuchnie-ikea-metod-fronty-na-wymiar): Masz korpusy IKEA METOD i chcesz zmienić wygląd kuchni? Zobacz, jak zamówić fronty na wymiar w 3 krokach: wymiary, seria, krawędzie i wiercenie pod zawiasy.
+    Updated: 2026-11-22T11:45:43Z
+    Author: QLdecor
+    Tags: custom fronts, fronts, furniture fronts, IKEA METOD
 
 ## Store Pages
 
@@ -1028,6 +1040,8 @@
   Updated: 2026-08-21T18:34:09Z
 - [Request a quote](https://qldecor.shop/pages/sb-request-quote)
   Updated: 2026-04-13T18:18:07Z
+- [Partners](https://qldecor.shop/pages/partners)
+  Updated: 2026-11-19T06:43:20Z
 
 ## Policies
 
