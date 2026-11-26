@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-07-27T00:19:29Z
 - Contact Email: ramirezmelissaqkwnb2382@gmail.com
-- Updated At: 2026-11-19T01:49:34.521Z
+- Updated At: 2026-11-26T01:56:33.551Z
 
 ## Products
 
@@ -2024,10 +2024,10 @@
   Updated: 2026-10-03T12:47:32Z
   Total Products: 1
 - [Christmas Trees](https://avelune.art/collections/christmas-trees)
-  Updated: 2026-10-03T12:47:32Z
+  Updated: 2026-11-19T12:20:58Z
   Total Products: 72
 - [Ornaments & Tree Trimmings](https://avelune.art/collections/ornaments-tree-trimmings)
-  Updated: 2026-11-18T12:21:00Z
+  Updated: 2026-11-20T12:20:19Z
   Total Products: 94
 - [Lights & Glow](https://avelune.art/collections/lights-glow)
   Updated: 2026-11-17T12:21:22Z
@@ -2039,7 +2039,7 @@
   Updated: 2026-11-18T12:21:00Z
   Total Products: 77
 - [Outdoor](https://avelune.art/collections/outdoor)
-  Updated: 2026-11-18T12:21:00Z
+  Updated: 2026-11-19T12:20:58Z
   Total Products: 131
 - [Best Sellers](https://avelune.art/collections/best-sellers)
   Updated: 2026-10-03T12:47:33Z
@@ -2116,6 +2116,15 @@
     Author: Avelune
   - [Creating a Festive Wonderland: How Avelune™ Open Box ProductWorks Rudolph & Bumble Transforms Your Holiday Decor with Pre-Lit Christmas Trees and Mantel Garland](https://avelune.art/blogs/news/creating-a-festive-wonderland-how-avelune™-open-box-productworks-rudolph-bumble-transforms-your-holiday-decor-with-pre-lit-christmas-trees-and-mantel-garland): Creating a Festive Wonderland: How Avelune™ Open Box ProductWorks Rudolph & Bumble Transforms Your Holiday Decor with Pre-Lit Christmas Trees and Mantel Garland
     Updated: 2026-11-18T01:07:45Z
+    Author: Avelune
+  - [Avelune™ Lighted Blow Mold Candy Nutcracker: Bringing Festive Holiday Decor to Life with Pre-Lit Christmas Trees and Outdoor Holiday Lights](https://avelune.art/blogs/news/avelune™-lighted-blow-mold-candy-nutcracker-bringing-festive-holiday-decor-to-life-with-pre-lit-christmas-trees-and-outdoor-holiday-lights): Avelune™ Lighted Blow Mold Candy Nutcracker: Bringing Festive Holiday Decor to Life with Pre-Lit Christmas Trees and Outdoor Holiday Lights
+    Updated: 2026-11-23T00:11:50Z
+    Author: Avelune
+  - [Elevate Your Holiday Decor with Avelune™ Christmas String Lights: Sparkling Accents for Pre-Lit Xmas Trees and Outdoor Festive Displays](https://avelune.art/blogs/news/elevate-your-holiday-decor-with-avelune™-christmas-string-lights-sparkling-accents-for-pre-lit-xmas-trees-and-outdoor-festive-displays): Elevate Your Holiday Decor with Avelune™ Christmas String Lights: Sparkling Accents for Pre-Lit Xmas Trees and Outdoor Festive Displays
+    Updated: 2026-11-24T00:22:49Z
+    Author: Avelune
+  - [Avelune™ Lighted Blow Mold Flamingo: Unique Holiday Decor Accent to Complement Pre-Lit Christmas Trees and Flocked Xmas Trees](https://avelune.art/blogs/news/avelune™-lighted-blow-mold-flamingo-unique-holiday-decor-accent-to-complement-pre-lit-christmas-trees-and-flocked-xmas-trees): Avelune™ Lighted Blow Mold Flamingo: Unique Holiday Decor Accent to Complement Pre-Lit Christmas Trees and Flocked Xmas Trees
+    Updated: 2026-11-25T01:01:00Z
     Author: Avelune
 
 ## Store Pages
