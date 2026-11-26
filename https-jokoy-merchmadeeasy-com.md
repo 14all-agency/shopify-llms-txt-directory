@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2026-03-30T17:33:45Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-19T01:03:44.513Z
+- Updated At: 2026-11-26T01:13:35.784Z
 
 ## Products
 
 - [Mahal Kita Bandana](https://jokoy.merchmadeeasy.com/products/mahal-kita-bandana): Jo Koy Mahal Kita Bandanas available in 8 colors!
-  Updated: 2026-11-16T02:24:06Z
+  Updated: 2026-11-26T00:52:26Z
   Vendor: Jo Koy Official Store
   Product Type: Accessories
   Availability: Available
@@ -19,37 +19,37 @@
   - [Red](https://jokoy.merchmadeeasy.com/products/mahal-kita-bandana?variant=45021362290824)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKMKBANDANA-4.png?v=1775831887
-    Price: $6.00 USD
+    Price: $4.20 USD
   - [Black](https://jokoy.merchmadeeasy.com/products/mahal-kita-bandana?variant=45021362323592)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKMKBANDANA.png?v=1775831887
-    Price: $6.00 USD
+    Price: $4.20 USD
   - [Gold](https://jokoy.merchmadeeasy.com/products/mahal-kita-bandana?variant=45021362356360)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKMKBANDANA-6.png?v=1775831887
-    Price: $6.00 USD
+    Price: $4.20 USD
   - [Green](https://jokoy.merchmadeeasy.com/products/mahal-kita-bandana?variant=45021362389128)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKMKBANDANA-2.png?v=1775831887
-    Price: $6.00 USD
+    Price: $4.20 USD
   - [Purple](https://jokoy.merchmadeeasy.com/products/mahal-kita-bandana?variant=45021362421896)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKMKBANDANA-5.png?v=1775831887
-    Price: $6.00 USD
+    Price: $4.20 USD
   - [Burgundy](https://jokoy.merchmadeeasy.com/products/mahal-kita-bandana?variant=45021362454664)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKMKBANDANA-7.png?v=1775831887
-    Price: $6.00 USD
+    Price: $4.20 USD
   - [Brown](https://jokoy.merchmadeeasy.com/products/mahal-kita-bandana?variant=45021362487432)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKMKBANDANA-8.png?v=1775831887
-    Price: $6.00 USD
+    Price: $4.20 USD
   - [Blue](https://jokoy.merchmadeeasy.com/products/mahal-kita-bandana?variant=45021362520200)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKMKBANDANA-3.png?v=1775831887
-    Price: $6.00 USD
+    Price: $4.20 USD
 - [Mahal Kita Hat](https://jokoy.merchmadeeasy.com/products/mahal-kita-hat): Jo Koy Mahal Kita Trucker Admiral Hat available in 4 colors! Snapback closure / One size fits most
-  Updated: 2026-11-18T06:26:31Z
+  Updated: 2026-11-26T00:52:25Z
   Vendor: Jo Koy Official Store
   Product Type: Accessories
   Availability: Available
@@ -57,266 +57,266 @@
   - [Black](https://jokoy.merchmadeeasy.com/products/mahal-kita-hat?variant=45021526917256)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKMKHAT-2.png?v=1775832563
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [Royal Blue](https://jokoy.merchmadeeasy.com/products/mahal-kita-hat?variant=45021526950024)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JK_MK_HAT-4.png?v=1776115006
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [Burgundy](https://jokoy.merchmadeeasy.com/products/mahal-kita-hat?variant=45182345183368)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKMKHAT-3.png?v=1776115006
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [Navy Blue](https://jokoy.merchmadeeasy.com/products/mahal-kita-hat?variant=45021526982792)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKMKHAR.png?v=1776115006
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [White](https://jokoy.merchmadeeasy.com/products/mahal-kita-hat?variant=45037323288712)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JK_MK_HAT-6.png?v=1776288713
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [Red](https://jokoy.merchmadeeasy.com/products/mahal-kita-hat?variant=46153881157768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKMK_TRUCKER_HAT_RED.png?v=1783009688
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [Just Being Koy Tour Hoodie](https://jokoy.merchmadeeasy.com/products/just-being-koy-tour-hoodie): Just Being Koy 2026 Tour Hoodie in black with front and back print.
-  Updated: 2026-10-30T20:48:16Z
+  Updated: 2026-11-24T17:17:54Z
   Vendor: Jo Koy Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKJBKHOODIE-2.png?v=1775833604
   - [S](https://jokoy.merchmadeeasy.com/products/just-being-koy-tour-hoodie?variant=45021611819144)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [M](https://jokoy.merchmadeeasy.com/products/just-being-koy-tour-hoodie?variant=45021611851912)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [L](https://jokoy.merchmadeeasy.com/products/just-being-koy-tour-hoodie?variant=45021611884680)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [XL](https://jokoy.merchmadeeasy.com/products/just-being-koy-tour-hoodie?variant=45021611917448)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [2XL](https://jokoy.merchmadeeasy.com/products/just-being-koy-tour-hoodie?variant=45021611950216)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [3XL](https://jokoy.merchmadeeasy.com/products/just-being-koy-tour-hoodie?variant=46102213197960)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
 - [Raptor Hoodie](https://jokoy.merchmadeeasy.com/products/raptor-hoodie): Raptor Hoodie from Jo Koy's sold out Canada Tour in grey with front and back print.
-  Updated: 2026-10-05T13:06:17Z
+  Updated: 2026-11-24T17:17:54Z
   Vendor: Jo Koy Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKRAPTORHOODIE.png?v=1775834033
   - [S](https://jokoy.merchmadeeasy.com/products/raptor-hoodie?variant=45021629841544)
     Availability: Available
-    Price: $60.00 USD
+    Price: $42.00 USD
   - [M](https://jokoy.merchmadeeasy.com/products/raptor-hoodie?variant=45021629874312)
     Availability: Not Available
-    Price: $60.00 USD
+    Price: $42.00 USD
   - [L](https://jokoy.merchmadeeasy.com/products/raptor-hoodie?variant=45021629907080)
     Availability: Available
-    Price: $60.00 USD
+    Price: $42.00 USD
   - [XL](https://jokoy.merchmadeeasy.com/products/raptor-hoodie?variant=45021629939848)
     Availability: Available
-    Price: $60.00 USD
+    Price: $42.00 USD
   - [2XL](https://jokoy.merchmadeeasy.com/products/raptor-hoodie?variant=45021629972616)
     Availability: Available
-    Price: $60.00 USD
+    Price: $42.00 USD
   - [3XL](https://jokoy.merchmadeeasy.com/products/raptor-hoodie?variant=45021630005384)
     Availability: Available
-    Price: $60.00 USD
+    Price: $42.00 USD
 - [Memory Lane Tee](https://jokoy.merchmadeeasy.com/products/just-being-koy-tour-tee): Just Being Koy Tour Tee in black with front and back print.
-  Updated: 2026-11-16T02:23:57Z
+  Updated: 2026-11-25T23:12:09Z
   Vendor: Jo Koy Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKJBKTEE-5.png?v=1775834741
   - [S](https://jokoy.merchmadeeasy.com/products/just-being-koy-tour-tee?variant=45021646913672)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://jokoy.merchmadeeasy.com/products/just-being-koy-tour-tee?variant=45021646946440)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://jokoy.merchmadeeasy.com/products/just-being-koy-tour-tee?variant=45021646979208)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://jokoy.merchmadeeasy.com/products/just-being-koy-tour-tee?variant=45021647011976)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://jokoy.merchmadeeasy.com/products/just-being-koy-tour-tee?variant=45021647044744)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [3XL](https://jokoy.merchmadeeasy.com/products/just-being-koy-tour-tee?variant=45021647077512)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [Jodeki Tour Tee](https://jokoy.merchmadeeasy.com/products/jodeki-tour-tee): Jo Koy Jodeki Tour Tee in black with front and back print.
-  Updated: 2026-11-15T04:14:15Z
+  Updated: 2026-11-25T04:58:15Z
   Vendor: Jo Koy Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKJBKTEE_9b014966-f415-4570-a01e-bbba6bd07e8a.png?v=1775834788
   - [S](https://jokoy.merchmadeeasy.com/products/jodeki-tour-tee?variant=45021651599496)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://jokoy.merchmadeeasy.com/products/jodeki-tour-tee?variant=45021651632264)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://jokoy.merchmadeeasy.com/products/jodeki-tour-tee?variant=45021651665032)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://jokoy.merchmadeeasy.com/products/jodeki-tour-tee?variant=45021651697800)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://jokoy.merchmadeeasy.com/products/jodeki-tour-tee?variant=45021651730568)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [3XL](https://jokoy.merchmadeeasy.com/products/jodeki-tour-tee?variant=45021651763336)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [Raptor Tee](https://jokoy.merchmadeeasy.com/products/raptor-tee): Jo Koy Raptor Tee from the Toronto stop of the Just Being Koy Tour. White tee with front print only.
-  Updated: 2026-10-05T13:06:18Z
+  Updated: 2026-11-24T17:17:53Z
   Vendor: Jo Koy Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKRAPTORTEE.png?v=1775835018
   - [S](https://jokoy.merchmadeeasy.com/products/raptor-tee?variant=45021654384776)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://jokoy.merchmadeeasy.com/products/raptor-tee?variant=45021654417544)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://jokoy.merchmadeeasy.com/products/raptor-tee?variant=45021654450312)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://jokoy.merchmadeeasy.com/products/raptor-tee?variant=45021654483080)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://jokoy.merchmadeeasy.com/products/raptor-tee?variant=45021654515848)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [3XL](https://jokoy.merchmadeeasy.com/products/raptor-tee?variant=45021654548616)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [Sasquatch Tee](https://jokoy.merchmadeeasy.com/products/sasquatch-tee): Jo Koy Sasquatch Tee from the Seattle stop of the Just Being Koy Tour. White tee with front print only.
-  Updated: 2026-11-15T07:20:23Z
+  Updated: 2026-11-24T17:17:53Z
   Vendor: Jo Koy Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKSASQUATCHTEE.png?v=1775835192
   - [S](https://jokoy.merchmadeeasy.com/products/sasquatch-tee?variant=45021656481928)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://jokoy.merchmadeeasy.com/products/sasquatch-tee?variant=45021656514696)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://jokoy.merchmadeeasy.com/products/sasquatch-tee?variant=45021656547464)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://jokoy.merchmadeeasy.com/products/sasquatch-tee?variant=45021656580232)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://jokoy.merchmadeeasy.com/products/sasquatch-tee?variant=45021656613000)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [3XL](https://jokoy.merchmadeeasy.com/products/sasquatch-tee?variant=45021656645768)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [Jo Koy Funko Pop!](https://jokoy.merchmadeeasy.com/products/jo-koy-funko-pop): Jo Koy World Arena Tour Funko Pop! Vinyl figure is approximately 4.3 in (10.9 cm) tall.
-  Updated: 2026-11-17T16:12:32Z
+  Updated: 2026-11-24T17:17:53Z
   Vendor: Jo Koy Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKFUNKOPOP.png?v=1775835489
-  Price: $25.00 USD
+  Price: $17.50 USD
 - [Jo Koy Barong Funko Pop! (SIGNED)](https://jokoy.merchmadeeasy.com/products/jo-koy-funko-pop-signed): Jo Koy in Phillipine Barong Funko Pop! SIGNED by the man himself! Vinyl figure is approximately 4.3 in (10.9 cm) tall.
-  Updated: 2026-11-18T06:26:36Z
+  Updated: 2026-11-25T22:12:55Z
   Vendor: Jo Koy Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JK_FUNKO_POP_SIGNED-4.png?v=1775836780
-  Price: $50.00 USD
+  Price: $35.00 USD
 - [Jo Koy Barong Funko Pop!](https://jokoy.merchmadeeasy.com/products/jo-koy-barong-funko-pop): Jo Koy in Phillipine Barong Funko Pop! Vinyl figure is approximately 4.3 in (10.9 cm) tall.
-  Updated: 2026-11-17T16:12:36Z
+  Updated: 2026-11-25T17:43:48Z
   Vendor: Jo Koy Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JK_FUNKO_POP_-3.png?v=1775836806
-  Price: $25.00 USD
+  Price: $17.50 USD
 - [Mahal Kita Hoodie](https://jokoy.merchmadeeasy.com/products/mahal-kita-hoodie-ao): Jo Koy's Best Seller Mahal Kita Hoodie in black with front and back print.
-  Updated: 2026-11-18T19:17:47Z
+  Updated: 2026-11-25T22:12:46Z
   Vendor: Jo Koy Official Store
   Product Type: Apparel
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKMKHOODIE-5.png?v=1775833300
+  Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKMKHOODIE-4.png?v=1775833300
   - [S](https://jokoy.merchmadeeasy.com/products/mahal-kita-hoodie-ao?variant=46094928019592)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [M](https://jokoy.merchmadeeasy.com/products/mahal-kita-hoodie-ao?variant=46094928052360)
-    Availability: Available
-    Price: $65.00 USD
+    Availability: Not Available
+    Price: $45.50 USD
   - [L](https://jokoy.merchmadeeasy.com/products/mahal-kita-hoodie-ao?variant=46094928085128)
     Availability: Not Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [XL](https://jokoy.merchmadeeasy.com/products/mahal-kita-hoodie-ao?variant=46094928117896)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [2XL](https://jokoy.merchmadeeasy.com/products/mahal-kita-hoodie-ao?variant=46094928150664)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
   - [3XL](https://jokoy.merchmadeeasy.com/products/mahal-kita-hoodie-ao?variant=46094928183432)
     Availability: Available
-    Price: $65.00 USD
+    Price: $45.50 USD
 - [Raccoon Tee](https://jokoy.merchmadeeasy.com/products/raccoon-tee): Jo Koy Raccoon Tee from the Just Being Koy Tour. White tee with front print only.
-  Updated: 2026-11-18T06:26:36Z
+  Updated: 2026-11-24T17:17:52Z
   Vendor: Jo Koy Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKRACCOONTEE_5623323c-9caa-4735-9665-8b4198a1735a.png?v=1783009344
   - [S](https://jokoy.merchmadeeasy.com/products/raccoon-tee?variant=46095755149448)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://jokoy.merchmadeeasy.com/products/raccoon-tee?variant=46095755182216)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://jokoy.merchmadeeasy.com/products/raccoon-tee?variant=46095755214984)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://jokoy.merchmadeeasy.com/products/raccoon-tee?variant=46095755247752)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://jokoy.merchmadeeasy.com/products/raccoon-tee?variant=46095755280520)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [3XL](https://jokoy.merchmadeeasy.com/products/raccoon-tee?variant=46095755313288)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [Jodeki Tour Tee - Gold](https://jokoy.merchmadeeasy.com/products/jodeki-tour-tee-gold): Jo Koy Jodeki Tour Tee in black with front and back print.
-  Updated: 2026-10-05T13:06:22Z
+  Updated: 2026-11-24T17:17:52Z
   Vendor: Jo Koy Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKGOLDJODEKITEE.png?v=1783009461
   - [S](https://jokoy.merchmadeeasy.com/products/jodeki-tour-tee-gold?variant=46095793291400)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://jokoy.merchmadeeasy.com/products/jodeki-tour-tee-gold?variant=46095793324168)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://jokoy.merchmadeeasy.com/products/jodeki-tour-tee-gold?variant=46095793356936)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://jokoy.merchmadeeasy.com/products/jodeki-tour-tee-gold?variant=46095793389704)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://jokoy.merchmadeeasy.com/products/jodeki-tour-tee-gold?variant=46095793422472)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [3XL](https://jokoy.merchmadeeasy.com/products/jodeki-tour-tee-gold?variant=46095793455240)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 - [JK Beanie](https://jokoy.merchmadeeasy.com/products/jk-beanie-white): Jo Koy Logo Beanies available in 3 different colors!
-  Updated: 2026-11-18T06:26:36Z
+  Updated: 2026-11-25T20:23:27Z
   Vendor: Jo Koy Official Store
   Product Type: Accessories
   Availability: Available
@@ -324,17 +324,17 @@
   - [Camo](https://jokoy.merchmadeeasy.com/products/jk-beanie-white?variant=46153888235656)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKBEANIECAMO-2.png?v=1783010240
-    Price: $20.00 USD
+    Price: $14.00 USD
   - [Black](https://jokoy.merchmadeeasy.com/products/jk-beanie-white?variant=46153888202888)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKBEANIEBLACK-2.png?v=1783010240
-    Price: $20.00 USD
+    Price: $14.00 USD
   - [White](https://jokoy.merchmadeeasy.com/products/jk-beanie-white?variant=46153888170120)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKBEANIEWHITE-2.png?v=1783010239
-    Price: $20.00 USD
+    Price: $14.00 USD
 - [Mahal Kita Beanie](https://jokoy.merchmadeeasy.com/products/mahal-kita-beanie): Jo Koy Mahal Kita Beanie available in black and white.
-  Updated: 2026-11-18T06:26:32Z
+  Updated: 2026-11-26T00:52:25Z
   Vendor: Jo Koy Official Store
   Product Type: Accessories
   Availability: Available
@@ -342,13 +342,13 @@
   - [Black](https://jokoy.merchmadeeasy.com/products/mahal-kita-beanie?variant=46153896165512)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKMKBEANIEBLACK.png?v=1783010461
-    Price: $20.00 USD
+    Price: $14.00 USD
   - [White](https://jokoy.merchmadeeasy.com/products/mahal-kita-beanie?variant=46153896198280)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKMKBEANIEWHITE.png?v=1783010460
-    Price: $20.00 USD
+    Price: $14.00 USD
 - [Pin Sets](https://jokoy.merchmadeeasy.com/products/pin-sets): Jo Koy Pin Sets!
-  Updated: 2026-11-15T13:05:07Z
+  Updated: 2026-11-25T22:12:46Z
   Vendor: Jo Koy Official Store
   Product Type: Accessories
   Availability: Available
@@ -356,70 +356,70 @@
   - [Set of 4](https://jokoy.merchmadeeasy.com/products/pin-sets?variant=46153900130440)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JK_4_PIN_SET.png?v=1783010908
-    Price: $15.00 USD
+    Price: $10.50 USD
   - [Set of 2](https://jokoy.merchmadeeasy.com/products/pin-sets?variant=46153900163208)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JK_2_PIN_SET.png?v=1783010887
-    Price: $10.00 USD
+    Price: $7.00 USD
 - [Mahal Kita Tee](https://jokoy.merchmadeeasy.com/products/mahal-kita-tee): Mahal Kita Tee in natural with front and back print. 100% Cotton
-  Updated: 2026-11-15T13:05:07Z
+  Updated: 2026-11-25T17:35:35Z
   Vendor: Jo Koy Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/0886/5672/files/JKMAHALKITATEE-2.png?v=1786471811
   - [S](https://jokoy.merchmadeeasy.com/products/mahal-kita-tee?variant=46349608419464)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [M](https://jokoy.merchmadeeasy.com/products/mahal-kita-tee?variant=46349608452232)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [L](https://jokoy.merchmadeeasy.com/products/mahal-kita-tee?variant=46349608485000)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [XL](https://jokoy.merchmadeeasy.com/products/mahal-kita-tee?variant=46349608517768)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [2XL](https://jokoy.merchmadeeasy.com/products/mahal-kita-tee?variant=46349608550536)
     Availability: Available
-    Price: $30.00 USD
+    Price: $21.00 USD
   - [3XL](https://jokoy.merchmadeeasy.com/products/mahal-kita-tee?variant=46349608583304)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $21.00 USD
 
 ## Collections
 
 - [Home page](https://jokoy.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-18T12:19:46Z
+  Updated: 2026-11-25T12:15:36Z
   Total Products: 23
 - [Apparel](https://jokoy.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-18T12:19:46Z
+  Updated: 2026-11-25T12:15:36Z
   Total Products: 14
 - [Accessories](https://jokoy.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-18T12:19:46Z
+  Updated: 2026-11-25T12:15:36Z
   Total Products: 9
 - [Hats](https://jokoy.merchmadeeasy.com/collections/hats)
-  Updated: 2026-11-18T12:19:46Z
+  Updated: 2026-11-25T12:15:36Z
   Total Products: 1
 - [Music](https://jokoy.merchmadeeasy.com/collections/music)
   Updated: 2026-07-08T21:41:26Z
   Total Products: 0
 - [All](https://jokoy.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-18T12:19:46Z
+  Updated: 2026-11-25T12:15:36Z
   Total Products: 19
 - [Funko Pop! Collection](https://jokoy.merchmadeeasy.com/collections/funko-pop-collection)
-  Updated: 2026-11-18T12:19:46Z
+  Updated: 2026-11-25T12:15:36Z
   Total Products: 3
 - [Tour Collection](https://jokoy.merchmadeeasy.com/collections/tour-collection)
-  Updated: 2026-11-18T12:19:46Z
+  Updated: 2026-11-25T12:15:36Z
   Total Products: 14
 - [BOGO TEES](https://jokoy.merchmadeeasy.com/collections/bogo-tees)
-  Updated: 2026-11-18T12:19:46Z
+  Updated: 2026-11-25T12:15:36Z
   Total Products: 6
 - [STOCKING STUFFERS](https://jokoy.merchmadeeasy.com/collections/stocking-stuffers)
-  Updated: 2026-11-18T12:19:46Z
+  Updated: 2026-11-25T12:15:36Z
   Total Products: 4
 - [EG All Products - DO NOT EDIT](https://jokoy.merchmadeeasy.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu'elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-11-18T12:19:46Z
+  Updated: 2026-11-25T12:15:36Z
   Total Products: 23
 
 ## Store Pages
