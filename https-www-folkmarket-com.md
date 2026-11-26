@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2020-04-23T07:14:05Z
 - Contact Email: info@folkmarket.com
-- Updated At: 2026-11-18T01:14:01.274Z
+- Updated At: 2026-11-26T01:09:31.064Z
 
 ## Products
 
@@ -1520,13 +1520,13 @@
   Updated: 2026-07-09T23:44:15Z
   Total Products: 3
 - [Tourmaline Crystals](https://www.folkmarket.com/collections/tourmaline-crystals): Shop natural tourmaline crystals – raw bulk lots, pendants, rings & earrings. Ethically sourced. Wholesale deals available. Order at Folkmarket.
-  Updated: 2026-08-06T22:18:49Z
+  Updated: 2026-11-22T23:16:46Z
   Total Products: 30
 - [Peridot Crystals](https://www.folkmarket.com/collections/peridots-crystals): Shop natural peridot crystals, loose faceted gems, and wholesale parcels from Pakistan. Untreated, , and priced for collectors and jewelers.
   Updated: 2026-08-06T22:20:09Z
   Total Products: 7
 - [Black Tourmaline Crystals](https://www.folkmarket.com/collections/buy-black-tourmaline-crystals): Explore Natural Black Tourmaline Stones for Collectors, Decor & Personal Belief Black Tourmaline is one of the popular gemstone for crystal collectors and crystal healing lovers. Its deep black color and strong crystal structure has long standing traditional beliefs which made this stone popular among people. At Folkmarket, our Black Tourmaline collection includes raw crystals, black tourmaline crystal jewelry, black tourmaline crystal pendants. Which re carefully selected for authenticity, appearance, and material quality. Why Is Black Tourmaline So Popular? Black tourmaline is not only durable but it has also cultural beliefs associated with protective qualities. Many people associate black tourmaline with protection from black magic. Please Note: There is no scientific evidence that Black Tourmaline can detoxify the body, remove heavy metals, or  health conditions.These claims are part of cultural beliefs and personal practices, not  facts. That said, belief systems play a meaningful role for many individuals, and Black Tourmaline continues to be chosen for personal belief, meditation, decor, and collecting purposes. Common Beliefs Associated With Black Tourmaline (Belief-based, not scientifically proven) People who work with Black Tourmaline often believe it may support: Emotional grounding and balance A sense of calm and stress reduction Improved focus and mental clarity Support for a positive and stable mood A feeling of protection from negative energy These beliefs vary by culture and individual experience and should be viewed as personal or spiritual interpretations, not health claims. Black Tourmaline & Metaphysical Perspectives In metaphysical traditions, Black Tourmaline is considered a grounding stone, often associated with connecting personal energy to the Earth. While metaphysical concepts are not recognized by science, they remain an important part of crystal traditions worldwide. Belief-based metaphysical associations include: Grounding personal energy Cleansing or stabilizing one’s aura Supporting emotional release (stress, anger, negativity) Encouraging emotional security and balance Many people use Black Tourmaline during meditation, mindfulness practices, or personal rituals, based on belief rather than scientific validation. Chakra Association (Traditional Belief) Black Tourmaline is commonly associated with the Root Chakra, which is traditionally linked to stability, security, and grounding. Some traditions also connect it to the Earth Star Chakra, believed to strengthen one’s connection to nature and physical presence. Again, these associations are spiritual concepts, not  or scientific systems. Products of Black Tourmaline Available at Folkmarket Our collection may include: Tourmaline Raw stone jewelry Loose Gemstones related Black Tourmaline Tourmaline Cabochons Tumbles Natural raw Black Tourmaline crystals Rough and unpolished stones Specimen-quality crystal pieces Stones suitable for decor, collecting, or personal belief use Each product listing provides clear details about size, form, and condition. Authenticity & Ethical Sourcing At Folkmarket, we focus on: Natural, untreated Black Tourmaline Transparent product descriptions Ethical sourcing through trusted suppliers Visual variations, surface texture, and crystal structure differences are natural characteristics of genuine Black Tourmaline. Custom Orders & Availability If you are looking for specific sizes, bulk quantities, or custom crystal requirements not listed on our website, you are welcome to contact us. We support custom gemstone and crystal sourcing depending on availability. Frequently Asked Questions (FAQ) Is Black Tourmaline scientifically proven to heal or detox the body? No. There is no scientific evidence supporting detoxification, heavy metal removal, or  healing claims related to Black Tourmaline. Why do people still use Black Tourmaline? Many people value Black Tourmaline for cultural, spiritual, decorative, or personal belief reasons rather than scientific or  purposes. Are your Black Tourmaline crystals natural? Yes. Our Black Tourmaline crystals are natural stones, and any notable characteristics are clearly described in the product listings. Can Black Tourmaline be used for meditation or decor? Yes. Many customers choose Black Tourmaline for meditation practices, home decor, or personal collections based on belief or aesthetic preference. Do you offer wholesale or bulk Black Tourmaline? Selected Black Tourmaline crystals may be available for wholesale or bulk purchase. Please contact us for current availability and pricing. learn about tourmaline as birthstones:-
-  Updated: 2026-08-06T21:49:20Z
+  Updated: 2026-11-22T23:16:46Z
   Total Products: 6
 - [Zircon Crystals](https://www.folkmarket.com/collections/zircon-crystals): Shop natural zircon crystals, rough stones, and zircon jewelry at Folkmarket.  authentic gems. Worldwide shipping. Explore the collection now.
   Updated: 2026-08-24T20:10:54Z
@@ -1535,25 +1535,25 @@
   Updated: 2026-07-09T20:07:19Z
   Total Products: 1
 - [Crystal Pendants](https://www.folkmarket.com/collections/crystal-pendants): Shop genuine crystal pendants in silver & gold settings. Amethyst, rose quartz, tourmaline & more. Retail & wholesale.  Shop now.
-  Updated: 2026-08-06T22:27:05Z
+  Updated: 2026-11-22T23:16:46Z
   Total Products: 45
 - [Cabochons | Tumbles | Healing Crystals](https://www.folkmarket.com/collections/healing-crystal-cabochons-tumbles): Buy natural gemstone cabochons & crystal tumbles wholesale. Lapis lazuli, tourmaline, turquoise & more. Bulk pricing available. Shop Folkmarket.
   Updated: 2026-08-06T22:17:28Z
   Total Products: 6
 - [Quartz Crystals](https://www.folkmarket.com/collections/quartz-crsytals-bulk): Shop raw quartz crystals, pendants, and gift sets wholesale. Bulk pricing from $10. Sourced from Pakistan. Order online at Folkmarket.
-  Updated: 2026-07-20T15:37:45Z
+  Updated: 2026-11-22T23:12:25Z
   Total Products: 14
 - [Amethyst](https://www.folkmarket.com/collections/amethyst-crystals): Shop natural amethyst crystals, loose gemstones, and handmade jewelry at Folkmarket. Ethically sourced. Wholesale deals available. Order today.
-  Updated: 2026-10-28T10:04:00Z
+  Updated: 2026-11-22T23:14:40Z
   Total Products: 12
 - [Herkimer Diamond Quartz Double Terminated](https://www.folkmarket.com/collections/herkimer-diamond-quartz-crystals)
-  Updated: 2026-07-20T15:37:45Z
+  Updated: 2026-11-22T23:12:25Z
   Total Products: 12
 - [Opal Crystals](https://www.folkmarket.com/collections/opal-stones): Shop genuine fire opal sterling silver pendants at Folkmarket. Bulk deals available. Ethically sourced opal crystals for healing, jewelry & gifting.
   Updated: 2026-07-09T23:44:12Z
   Total Products: 1
 - [Agate Crystals](https://www.folkmarket.com/collections/agate-crystals): Shop agate crystal pendants, tribal cuffs & wholesale jewelry at Folkmarket. Handcrafted pieces Retail & bulk deals available. Shop now.
-  Updated: 2026-07-09T23:44:32Z
+  Updated: 2026-11-22T23:09:55Z
   Total Products: 16
 - [Citrine Crystals](https://www.folkmarket.com/collections/citrine-crystals): Shop authentic citrine crystals, raw stones, and polished gemstones. Premium quality natural citrine for jewelry making, healing, and collecting.
   Updated: 2026-07-09T20:07:54Z
@@ -1562,7 +1562,7 @@
   Updated: 2026-07-09T20:07:21Z
   Total Products: 1
 - [Fluorite](https://www.folkmarket.com/collections/flourite-stones): Shop natural fluorite crystal pendants and jewelry at Folkmarket. Wholesale sets, sterling silver, handcrafted. Bulk pricing available. Order now.
-  Updated: 2026-08-06T22:18:49Z
+  Updated: 2026-11-22T23:16:46Z
   Total Products: 33
 - [Kunzite](https://www.folkmarket.com/collections/kunzite-crystals)
   Updated: 2026-10-06T12:43:10Z
@@ -1580,14 +1580,14 @@
   Updated: 2026-07-09T16:48:31Z
   Total Products: 0
 - [New Arrivals Crafts](https://www.folkmarket.com/collections/new-arrivals): Latest Crystals Deals, vintage jewelry, handicrafts,
-  Updated: 2026-11-03T22:14:38Z
-  Total Products: 189
+  Updated: 2026-11-25T06:37:27Z
+  Total Products: 192
 - [All Type Jewelry](https://www.folkmarket.com/collections/unique-handmade-jewelry): Shop raw crystal pendants, Afghan Kuchi jewelry, Rose Quartz, Amethyst & gemstone necklaces. Artisan-crafted, wholesale-friendly. Free global shipping available.
-  Updated: 2026-11-09T11:41:23Z
+  Updated: 2026-11-22T23:16:46Z
   Total Products: 179
 - [Sales Deals on Crystal and Crafts](https://www.folkmarket.com/collections/sales-deals-with-folkmarket): Shop authentic crystals, vintage jewelry, artisan crafts, home decor & more on . Premium quality at special prices. Limited stock available.
-  Updated: 2026-11-17T12:33:26Z
-  Total Products: 98
+  Updated: 2026-11-25T16:35:11Z
+  Total Products: 97
 - [Polished Crystals - Loose Gems](https://www.folkmarket.com/collections/polished-crystals): Explore high-quality loose gemstones online at Folkmarket Crystal Store. Buy loose gemstones for jewelry or collection — emeralds, rubies, sapphires, peridots, tourmalines, amethysts, and more. Trusted worldwide for loose gemstones for  and gemstones and crystals near me.
   Updated: 2026-10-28T12:01:45Z
   Total Products: 17
@@ -1595,40 +1595,40 @@
   Updated: 2026-07-09T20:07:46Z
   Total Products: 1
 - [Under $500](https://www.folkmarket.com/collections/under-500)
-  Updated: 2026-11-17T12:34:07Z
-  Total Products: 404
+  Updated: 2026-11-25T06:42:31Z
+  Total Products: 403
 - [Under $300USD](https://www.folkmarket.com/collections/deals-under-300-usd)
-  Updated: 2026-11-17T12:23:33Z
-  Total Products: 364
+  Updated: 2026-11-25T06:42:31Z
+  Total Products: 362
 - [Deals $100 USD Crystals | Jewelry | Crafts](https://www.folkmarket.com/collections/folkmarket-craft-sales-under-100-usd): Discover crystals, vintage jewelry, handicrafts, packaging supplies, handbags & home decor under $100. Premium artisan products at affordable prices.
-  Updated: 2026-11-16T19:46:26Z
+  Updated: 2026-11-22T23:16:46Z
   Total Products: 198
 - [Turquoise Crystals](https://www.folkmarket.com/collections/turquoise-crystals): Shop natural turquoise crystals, loose stones & jewelry at Folkmarket. Ethically sourced, bohemian-luxury pieces for collectors & healers.
   Updated: 2026-08-24T20:10:44Z
   Total Products: 15
 - [Home](https://www.folkmarket.com/collections/home)
-  Updated: 2026-10-07T11:37:55Z
+  Updated: 2026-11-22T23:14:40Z
   Total Products: 127
 - [Start Up Crafts Materials](https://www.folkmarket.com/collections/deals-for-beginners): Start Up Material for New Businesses
-  Updated: 2026-11-17T12:23:33Z
-  Total Products: 369
+  Updated: 2026-11-25T06:42:31Z
+  Total Products: 368
 - [Afghan Vintage Rings](https://www.folkmarket.com/collections/afghan-kuchi-tribal-rings): Shop Afghan Kuchi vintage rings in single pieces & wholesale sets. Handmade in Peshawar with turquoise, coral & lapis lazuli. Buy now at Folkmarket.
   Updated: 2026-07-09T23:44:08Z
   Total Products: 18
 - [Handmade Handbags, Purses & Wallets](https://www.folkmarket.com/collections/handmade-handbags-purses-wallets): Shop handmade handbags: genuine leather, vintage-style, Kuchi tribal, Sindhi mirror work, totes & custom bags. Handcrafted, shipped from the USA
-  Updated: 2026-10-21T11:27:02Z
+  Updated: 2026-11-25T06:42:31Z
   Total Products: 96
 - [Bracelets](https://www.folkmarket.com/collections/handmade-bracelets): Shop handmade Afghan Kuchi bracelets in tribal, boho & vintage styles. Single pieces & wholesale deals from $25. Secure checkout. Shop Folkmarket.
   Updated: 2026-07-09T20:09:12Z
   Total Products: 26
 - [Necklaces Handmade- Vintage Pendants](https://www.folkmarket.com/collections/handmade-necklaces): Handmade Necklaces Collection Vintage, Afghan Kuchi & Artisan Pendants at Folkmarket Introduction Discover a curated collection of handmade necklaces at Folkmarket, featuring vintage necklaces, Afghan Kuchi tribal jewelry , and artisan pendants crafted using traditional techniques. Each piece reflects cultural heritage, hand-finished detailing, and timeless design—making this collection ideal for everyday wear, statement styling, gifting, and boutique resale. Our handmade necklaces combine natural stones , metalwork, beads, and pendants , offering distinctive styles that celebrate craftsmanship and authenticity rather than mass production. Types of Handmade Necklaces in This Collection Afghan Kuchi Necklaces Traditional Afghan Kuchi necklaces are known for their bold designs, tribal motifs, coin elements, and handcrafted metalwork. These necklaces are deeply rooted in nomadic culture and are often worn as statement jewelry for festivals, cultural wear, and collectors. Vintage Necklaces Our vintage necklaces include timeless designs sourced from artisan workshops and traditional markets. Each piece carries character, aged finishes, and unique detailing that cannot be replicated in modern factory-made jewelry. Handmade Pendants & Statement Pieces This collection also features handmade pendants, combining natural stones, symbolic shapes, and artisan metal settings. These pieces are perfect for layering, boho styling, or standalone statement wear. Materials & Craftsmanship Each necklace is handcrafted using carefully selected materials such as: Natural stones and crystals Hand-cast or hand-engraved metal components Beads, coins, shells, and traditional elements Artisans use manual techniques, ensuring no two pieces are exactly alike. Variations in texture, color, and finish are a hallmark of genuine handmade jewelry. Who This Collection Is For Our handmade necklaces are ideal for: Jewelry lovers seeking authentic, handmade designs Collectors of Afghan and tribal jewelry Boutiques and resellers looking for unique statement pieces Festival, boho, and ethnic fashion styling Gift buyers searching for meaningful handcrafted jewelry Ethical Sourcing & Authenticity At Folkmarket, we focus on ethical sourcing and artisan collaboration. Many pieces are created or sourced through small workshops and independent makers, supporting traditional craftsmanship while offering fair and transparent pricing. Shipping & Availability Ready-to-ship handmade necklaces are processed within 3–5 business days Custom or limited pieces may require additional handling time Worldwide shipping available (customs duties may apply)
-  Updated: 2026-11-09T11:41:23Z
+  Updated: 2026-11-22T23:16:46Z
   Total Products: 74
 - [Earrings Handmade](https://www.folkmarket.com/collections/handmade-earrings): Shop handmade Afghan tribal, Kuchi boho & gemstone earrings. Sterling silver, natural crystals & wholesale deals. Ethically sourced. Order at Folkmarket.
   Updated: 2026-08-06T21:46:40Z
   Total Products: 35
 - [Crystal Crafts](https://www.folkmarket.com/collections/handmade-crystals-crafts): Shop crystal crafts at Folkmarket — gemstone pendants, Himalayan salt lamps, raw crystal rings & bulk deals. Ethically sourced. Shop now.
-  Updated: 2026-10-28T12:01:45Z
+  Updated: 2026-11-22T23:16:46Z
   Total Products: 102
 - [Jewelry Boxes](https://www.folkmarket.com/collections/jewelry-boxes-for-)
   Updated: 2026-08-06T21:50:06Z
@@ -1646,13 +1646,13 @@
   Updated: 2026-08-06T22:24:56Z
   Total Products: 20
 - [Raw Crystals](https://www.folkmarket.com/collections/raw-crystals-for-craft-making): Natural raw crystals for crafts! Natural healing crystals, unique gemstones & DIY supplies for jewelry, decor, or healing kits. Affordable, high-quality options for crafters & resellers. Shop now!
-  Updated: 2026-08-06T22:27:54Z
+  Updated: 2026-11-22T23:14:40Z
   Total Products: 18
 - [Featured Crafts](https://www.folkmarket.com/collections/featured-crafts): Shop handmade handicrafts: crystals, tribal jewelry, rattan bags & artisan decor. Wholesale deals available. Secure checkout. Order at Folkmarket.
   Updated: 2026-07-09T20:08:47Z
   Total Products: 13
 - [Wholesale Raw Crystals](https://www.folkmarket.com/collections/wholesale-raw-crystals): wholesale deals in Natural raw crystals ethically sourced for those who want to save on big buying. Shipping worldwide. Safe Payment Gateways
-  Updated: 2026-08-06T22:27:05Z
+  Updated: 2026-11-22T23:16:46Z
   Total Products: 48
 - [Crafts Gifts and Gift Bundle Boxes](https://www.folkmarket.com/collections/handmade-craft-gifts): Shop handmade craft gifts and curated gift bundle boxes at Folkmarket. Natural crystals, wooden spice jars & birthstone sets. Free US shipping. Shop now.
   Updated: 2026-07-23T19:41:31Z
@@ -1679,7 +1679,7 @@
   Updated: 2026-10-06T12:43:10Z
   Total Products: 34
 - [Home & Lifestyle Décor Artisans Made](https://www.folkmarket.com/collections/home-decor-home-accessories-crafts): Shop hand-carved artisan home décor and wellness lighting. Natural crystal lamps, sphere lights & salt room kits from $39. Authentic. Secure checkout.
-  Updated: 2026-11-17T12:33:26Z
+  Updated: 2026-11-24T09:20:38Z
   Total Products: 27
 - [Featured Collections](https://www.folkmarket.com/collections/featured-collections): Shop handmade tribal jewelry, natural crystals, boho bags & artisan crafts at Folkmarket. Wholesale deals from $10. Secure checkout. Shop now.
   Updated: 2026-07-09T20:07:55Z
@@ -1691,7 +1691,7 @@
   Updated: 2026-08-06T22:20:09Z
   Total Products: 17
 - [Raw Crystal Jewelry](https://www.folkmarket.com/collections/raw-crystal-jewelry): Unique handmade raw crystal jewelry at Folkmarket. Explore necklaces, bracelets, and rings featuring amethyst, rose quartz, citrine, and more.
-  Updated: 2026-08-06T22:22:41Z
+  Updated: 2026-11-22T23:16:46Z
   Total Products: 42
 - [Natural Crystal Earrings](https://www.folkmarket.com/collections/natural-crystal-earrings)
   Updated: 2026-08-06T21:47:23Z
@@ -1712,13 +1712,13 @@
   Updated: 2026-11-03T22:14:38Z
   Total Products: 8
 - [Vintage-Style Accessories](https://www.folkmarket.com/collections/vintage-style-accessories): Shop 85 handcrafted vintage accessories at Folkmarket — exotic leather wallets, Italian bags, Afghan tribal jewelry & boho bags. Wholesale deals available.
-  Updated: 2026-11-09T12:13:02Z
+  Updated: 2026-11-25T06:42:31Z
   Total Products: 108
 - [Handmade Leather Handbags & Wallets](https://www.folkmarket.com/collections/handmade-leather-bags): Shop handmade leather bags, Italian suede handbags, boho bags, totes &amp; purses at Folkmarket. Artisan-crafted, ethically sourced, shipped worldwide.
-  Updated: 2026-10-12T18:05:25Z
+  Updated: 2026-11-25T06:42:31Z
   Total Products: 33
 - [Jasper](https://www.folkmarket.com/collections/jasper-stones): Shop natural Jasper crystals, sterling silver pendants & wholesale gemstone sets. Ethically sourced, artisan-crafted. Order now at Folkmarket.
-  Updated: 2026-07-09T23:44:34Z
+  Updated: 2026-11-22T23:15:38Z
   Total Products: 3
 - [Kitchen Accessories](https://www.folkmarket.com/collections/kitchen-accessories): Shop kitchen accessories at Folkmarket: bulk Himalayan pink salt, artisan raffia placemats, ceramic mugs & salt bricks. Food grade & handmade. Order now.
   Updated: 2026-11-03T22:14:38Z
@@ -1736,10 +1736,10 @@
   Updated: 2026-10-12T13:27:48Z
   Total Products: 19
 - [Handmade Wallets, Pouches, Card Holders](https://www.folkmarket.com/collections/handmade-wallets): Handmade wallets and card holders are cut, stitched, and finished by hand rather than machine-assembled, which is why grain, texture, and stitching vary slightly from piece to piece. This collection spans exotic leathers — alligator, ostrich, and crocodile — alongside traditional Sindhi and Kashmiri mirror-work pouches, giving a range from everyday minimalist card holders to luxury exotic-leather bifolds. Many styles can be personalized, and the exotic leather pieces are individually hand-finished, making them well suited as gifts for anniversaries, graduations, or the holidays. Whether you're after a slim everyday card holder or a statement handcrafted wallet, each piece is built to be used and to age well with wear. Shopping for a matching bag? Explore our boho and tribal artisan purses for embroidered and mirror-work styles, or see our handmade leather bags and handmade tote bags for a complete set.
-  Updated: 2026-10-04T16:24:43Z
+  Updated: 2026-11-25T06:39:30Z
   Total Products: 30
 - [TAKEASY](https://www.folkmarket.com/collections/takeasy): TAKEASY
-  Updated: 2026-09-23T06:42:08Z
+  Updated: 2026-11-25T06:42:31Z
   Total Products: 21
 
 ## Blogs
