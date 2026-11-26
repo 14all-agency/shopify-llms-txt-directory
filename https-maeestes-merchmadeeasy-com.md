@@ -83,38 +83,63 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2026-09-04T16:30:11Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-19T00:53:15.702Z
+- Updated At: 2026-11-26T01:02:13.787Z
 
 ## Products
 
 - [The 90s Called - Signed CD](https://maeestes.merchmadeeasy.com/products/the-90s-called-signed-cd): SIGNED CD OF MAE ESTES' THE 90S CALLED ALBUM The 90s Called She's Not The Cheatin' Kind Moon Over Georgia (ft. Shenandoah) You Can Feel Bad The Fool Do Ya
-  Updated: 2026-11-14T15:36:56Z
+  Updated: 2026-11-25T19:17:17Z
   Vendor: Mae Estes
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/4616/9029/files/MAEFSO90sCalledSignedCD.png?v=1791559002
   Price: $15.00 USD
+- [Cassette Tee](https://maeestes.merchmadeeasy.com/products/cassette-tee): 60 combed ring-spun cotton, 40% polyester t-shirt with Mae Estes cassette design printed on front.
+  Updated: 2026-11-25T19:52:03Z
+  Vendor: Mae Estes
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0805/4616/9029/files/ESTES_Cassette_Tee_edit.png?v=1795127219
+  - [S](https://maeestes.merchmadeeasy.com/products/cassette-tee?variant=51023354953925)
+    Availability: Available
+    Price: $30.00 USD
+  - [M](https://maeestes.merchmadeeasy.com/products/cassette-tee?variant=51023354986693)
+    Availability: Available
+    Price: $30.00 USD
+  - [L](https://maeestes.merchmadeeasy.com/products/cassette-tee?variant=51023355019461)
+    Availability: Available
+    Price: $30.00 USD
+- [Embroidered Signature Hat](https://maeestes.merchmadeeasy.com/products/embroidered-signature-hat): Embroidered logo hat in white
+  Updated: 2026-11-25T19:51:55Z
+  Vendor: Mae Estes
+  Product Type: Hat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0805/4616/9029/files/EstesLogoHat_e3bc1ad8-395b-45b4-8abe-fc59d0c2d5d2.png?v=1795127276
+  Price: $35.00 USD
 
 ## Collections
 
 - [Home page](https://maeestes.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-15T12:25:31Z
+  Updated: 2026-11-24T12:24:58Z
   Total Products: 1
 - [Apparel](https://maeestes.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-22T21:25:20Z
-  Total Products: 0
+  Updated: 2026-11-20T12:21:27Z
+  Total Products: 1
 - [Accessories](https://maeestes.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-22T21:25:20Z
-  Total Products: 0
+  Updated: 2026-11-19T22:29:48Z
+  Total Products: 1
 - [Hats](https://maeestes.merchmadeeasy.com/collections/hats)
-  Updated: 2026-10-22T21:25:20Z
-  Total Products: 0
+  Updated: 2026-11-19T22:29:48Z
+  Total Products: 1
 - [Music](https://maeestes.merchmadeeasy.com/collections/music)
-  Updated: 2026-11-15T12:25:31Z
+  Updated: 2026-11-24T12:24:58Z
   Total Products: 1
 - [All](https://maeestes.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-15T12:25:31Z
-  Total Products: 1
+  Updated: 2026-11-24T12:24:58Z
+  Total Products: 3
+- [Merch](https://maeestes.merchmadeeasy.com/collections/merch)
+  Updated: 2026-11-20T12:21:27Z
+  Total Products: 2
 
 ## Store Pages
 
