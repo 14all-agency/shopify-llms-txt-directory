@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2026-08-17T20:15:00Z
 - Contact Email: Lbballigator@gmail.com
-- Updated At: 2026-11-18T01:19:27.034Z
+- Updated At: 2026-11-26T01:15:21.650Z
 
 ## Products
 
@@ -80,7 +80,7 @@
   Image: https://cdn.shopify.com/s/files/1/0763/7952/1180/files/1454.heic?v=1790445799
   Price: $225.00 USD
 - [Genuine Alligator Bifold Wallet for Men | Handcrafted Exotic Leather](https://louisianabayoubite.com/products/bi-fold-alligator-hide-wallet): Handcrafted in Louisiana from 100% genuine wild American alligator hide. Seamless stitchless spine, premium full-grain interior, and 3 layout options.
-  Updated: 2026-11-16T14:11:01Z
+  Updated: 2026-11-23T22:44:31Z
   Vendor: Louisiana Bayou Bites
   Product Type: wallet
   Availability: Available
@@ -98,7 +98,7 @@
     Image: https://cdn.shopify.com/s/files/1/0763/7952/1180/files/genuine-wild-louisiana-alligator-bifold-wallet-for-men-handcrafted-seamless-exotic-leather-billfold-6782081.jpg?v=1794824137
     Price: $200.00 USD
 - [Wild Louisiana Alligator Trifold Chain Wallet | Louisiana Bayou Bites](https://louisianabayoubite.com/products/genuine-wild-louisiana-alligator-trifold-chain-wallet-handcrafted-brown-leather-mens-wallet-with-hidden-stitching-zip-pocket): Handcrafted in Louisiana from genuine wild alligator hide and tough cowhide. Features concealed stitching, secure gold chain, 10+ slots, and coin zip pocket.
-  Updated: 2026-11-16T14:09:13Z
+  Updated: 2026-11-26T00:57:27Z
   Vendor: Louisiana Bayou Bites
   Product Type: wallet
   Availability: Available
@@ -161,39 +161,39 @@
   Image: https://cdn.shopify.com/s/files/1/0763/7952/1180/files/handmade-louisiana-alligator-leather-earring-necklace-set-3002836.png?v=1794823522
   Price: $30.00 USD
 - [Authentic Louisiana Alligator Leather Patch Hats - Wholesale](https://louisianabayoubite.com/products/authentic-louisiana-alligator-leather-patch-hats-assorted-colors-camo-wholesale-hat-bundle): Explore our Authentic Louisiana Alligator Leather Patch Hats, a mixed batch of unique trucker hats with a 1970 year history and genuine alligator leather.
-  Updated: 2026-11-16T13:29:22Z
+  Updated: 2026-11-21T07:03:39Z
   Vendor: Louisiana Bayou Bites
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/7952/1180/files/authentic-louisiana-alligator-leather-patch-hats-assorted-camo-colors-wholesale-bundle-5657252.png?v=1794823522
-  Price: $45.00 USD
+  Price: $35.00 USD
 - [Designer Beanie for Men: The Heritage Alligator Patch Beanie](https://louisianabayoubite.com/products/the-heritage-alligator-leather-patch-beanie-sherpa-lined): Discover the designer beanie for men that combines warmth and rugged style. Perfect for enduring winter’s chill with plush sherpa lining.
-  Updated: 2026-11-16T13:58:46Z
+  Updated: 2026-11-21T07:03:19Z
   Vendor: Louisiana Bayou Bites
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/7952/1180/files/the-heritage-alligator-leather-patch-beanie-sherpa-lined-3529908.png?v=1794823522
-  Price: $35.00 USD
+  Price: $30.00 USD
 
 ## Collections
 
 - [Home page](https://louisianabayoubite.com/collections/frontpage)
-  Updated: 2026-11-16T10:03:09Z
+  Updated: 2026-11-24T12:22:33Z
   Total Products: 9
 - [Leather Goods example products](https://louisianabayoubite.com/collections/leather-goods-example-products)
   Updated: 2026-11-16T03:45:42Z
   Total Products: 3
 - [wallets, purses, and padfolios](https://louisianabayoubite.com/collections/wallets-purses-and-padfolios): Everyday Luxury, Forged in the Bayou. > Explore our signature collection of handcrafted wild Louisiana alligator wallets, luxury women’s purses, and executive leather padfolios. Every piece in this collection is crafted from 100% genuine, ethically harvested American alligator hide (Alligator mississippiensis) and paired with rugged full-grain leather interiors. From seamless hidden-stitch men’s bifold billfolds to statement crossbody bags and heirloom tablet folios, each item showcases one-of-a-kind wild scale geometry built to last for generations.
-  Updated: 2026-11-16T10:04:07Z
+  Updated: 2026-11-24T12:22:33Z
   Total Products: 5
 - [New! Shopify performance sharing is now turned on](https://louisianabayoubite.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-11-16T10:03:09Z
+  Updated: 2026-11-24T12:22:33Z
   Total Products: 17
 - [bibles](https://louisianabayoubite.com/collections/bibles): all our hand made bibles in one easy place.
   Updated: 2026-11-16T10:04:09Z
   Total Products: 5
 - [accessories hats jewelry boxes](https://louisianabayoubite.com/collections/accessories-hats-jewelry-boxes)
-  Updated: 2026-11-16T03:45:42Z
+  Updated: 2026-11-21T07:03:40Z
   Total Products: 5
 
 ## Blogs
