@@ -6,12 +6,12 @@
 - Timezone: Europe/Warsaw
 - Created At: 2026-07-25T12:17:20Z
 - Contact Email: rzannywieslaw@interia.pl
-- Updated At: 2026-11-18T09:44:15.735Z
+- Updated At: 2026-11-26T01:50:37.895Z
 
 ## Products
 
 - [Bieżnia elektryczna DL Model I do domu i mieszkania](https://dlfitness.pl/products/dl-runner-model-i): Bieżnia elektryczna DL Model I do domu i mieszkania. Kompaktowa konstrukcja, wygodny trening i łatwe przechowywanie. Sprawdź ofertę DL Fitness.
-  Updated: 2026-09-17T22:50:16Z
+  Updated: 2026-11-24T08:30:33Z
   Vendor: Mój sklep 3
   Product Type: 
   Availability: Available
@@ -60,12 +60,26 @@ Bieżnia elektryczna Kinetic do 10 km/h. Składana konstrukcja, ręczna regulacj
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1056/8050/3124/files/IMG_9093.png?v=1794329371
   Price: 800,00 zł PLN
+- [Orbitrek FINNLO Ellypsis E3000 używany | DL Fitness](https://dlfitness.pl/products/orbitrek-finnlo-e3000): Używany orbitrek FINNLO Ellypsis E3000 za 1500 zł. Podświetlany wyświetlacz i czujniki pulsu. Odbiór w Wolsztynie, możliwy dowóz. Sprawdź!
+  Updated: 2026-11-19T09:54:46Z
+  Vendor: DL
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1056/8050/3124/files/IMG_9161.png?v=1795081874
+  Price: 1700,00 zł PLN
+- [Orbitrek treningowy | DL Fitness](https://dlfitness.pl/products/orbitrek-treningowy): Orbitrek treningowy w bardzo dobrym stanie. Wygodne pedały, ruchome uchwyty i komputer z wyświetlaczem. Idealny do ćwiczeń w domu.
+  Updated: 2026-11-23T10:08:02Z
+  Vendor: DL
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1056/8050/3124/files/xxxxorxxxx.png?v=1795428297
+  Price: 350,00 zł PLN
 
 ## Collections
 
 - [Strona główna](https://dlfitness.pl/collections/frontpage)
-  Updated: 2026-11-11T18:22:43Z
-  Total Products: 5
+  Updated: 2026-11-23T10:08:00Z
+  Total Products: 7
 - [DL Model I](https://dlfitness.pl/collections/dl-model-i)
   Updated: 2026-08-30T21:35:39Z
   Total Products: 0
@@ -73,8 +87,8 @@ Bieżnia elektryczna Kinetic do 10 km/h. Składana konstrukcja, ręczna regulacj
   Updated: 2026-09-15T05:49:38Z
   Total Products: 1
 - [Używane](https://dlfitness.pl/collections/uzywane)
-  Updated: 2026-11-10T16:52:34Z
-  Total Products: 6
+  Updated: 2026-11-23T10:08:00Z
+  Total Products: 8
 - [Bieżnie do mieszkania](https://dlfitness.pl/collections/bieznie-do-mieszkania): Bieżnie elektryczne do mieszkania – kompaktowe i składane modele do chodzenia i treningu w domu. Sprawdź dostępne bieżnie w DL Fitness.
   Updated: 2026-11-10T16:52:34Z
   Total Products: 5
@@ -85,8 +99,8 @@ Bieżnia elektryczna Kinetic do 10 km/h. Składana konstrukcja, ręczna regulacj
   Updated: 2026-11-03T13:42:03Z
   Total Products: 3
 - [Orbitreki](https://dlfitness.pl/collections/orbitreki-do-domu): Odkryj orbitreki do domu w DL Fitness! Nowe i używane modele w atrakcyjnych cenach. Popraw kondycję i trenuj całe ciało. Odbiór w Wolsztynie, możliwy dowóz.
-  Updated: 2026-11-11T18:22:43Z
-  Total Products: 0
+  Updated: 2026-11-23T10:08:00Z
+  Total Products: 2
 
 ## Blogs
 
@@ -135,6 +149,18 @@ Bieżnia elektryczna Kinetic do 10 km/h. Składana konstrukcja, ręczna regulacj
     Updated: 2026-11-18T09:25:07Z
     Author: DL Fitness
     Tags: bieżnia, bieżnia do fitnessu domowego, bieżnia do mieszkania, bieżnia pod biurko, fitness, sprzęt do ćwiczeń, trening w domu, zdrowie
+  - [Bieżnia do mieszkania CardioStrong TR70i Czy warto wybrać](https://dlfitness.pl/blogs/aktualnosci/bieznia-do-mieszkania-cardiostrong-tr70i-czy-warto-wybrac): Bieżnia do mieszkania CardioStrong TR70i Czy warto wybrać
+    Updated: 2026-11-20T09:01:52Z
+    Author: DL Fitness
+    Tags: bieżnia, bieżnia do mieszkania, bieżnia elektryczna, cardio, cardiostrong tr70i, fitness, recenzja bieżni cardiostrong, sprzęt do ćwiczeń
+  - [Bieżnia do mieszkania: kompaktowa i składana AsVIVA do domu](https://dlfitness.pl/blogs/aktualnosci/bieznia-do-mieszkania-kompaktowa-i-skladana-asviva-do-domu): Bieżnia do mieszkania: kompaktowa i składana AsVIVA do domu
+    Updated: 2026-11-23T09:01:10Z
+    Author: DL Fitness
+    Tags: bieżnia, bieżnia do mieszkania, bieżnia składana, fitness, kompaktowa bieżnia asviva, sprzęt sportowy, trenażer, trening w domu
+  - [Najlepsza bieżnia do mieszkania: CardioStrong TR70i do domu](https://dlfitness.pl/blogs/aktualnosci/najlepsza-bieznia-do-mieszkania-cardiostrong-tr70i-do-domu): Najlepsza bieżnia do mieszkania: CardioStrong TR70i do domu
+    Updated: 2026-11-25T09:01:06Z
+    Author: DL Fitness
+    Tags: bieżnia, bieżnia do domu, cardio, najlepsza bieżnia do mieszkania, recenzje bieżni do domu, sprzęt fitness, trening, zdrowe życie
 
 ## Store Pages
 
