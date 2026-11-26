@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-10-23T15:29:14Z
 - Contact Email: customercare@adolf.pk
-- Updated At: 2026-11-19T01:06:37.826Z
+- Updated At: 2026-11-26T01:16:00.436Z
 
 ## Products
 
@@ -395,7 +395,7 @@
     Availability: Available
     Price: Rs 2,500.00 PKR
 - [Men's Burnished Brown Leather Horsebit Loafers | Adolf Footwear](https://adolf.pk/products/adolf-mens-handcrafted-burnished-brown-leather-horsebit-loafers): Shop Adolf premium handcrafted burnished brown leather horsebit loafers for men. Featuring gold hardware and a cushioned insole, these formal shoes are perfect for weddings and business wear. Available in Sheikhupura, Punjab & delivery across Pakistan.
-  Updated: 2026-11-13T19:45:49Z
+  Updated: 2026-11-23T16:21:55Z
   Vendor: Adolf.pk
   Product Type: 
   Availability: Available
@@ -769,7 +769,7 @@ TAGS
   Updated: 2026-11-16T12:20:10Z
   Total Products: 15
 - [Loafers](https://adolf.pk/collections/loafers)
-  Updated: 2026-11-16T12:20:10Z
+  Updated: 2026-11-24T12:21:34Z
   Total Products: 12
 - [FEATURED](https://adolf.pk/collections/featured)
   Updated: 2026-11-16T12:20:10Z
