@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-23T00:24:20Z
 - Contact Email: youngwilliambrandon15041992@gmail.com
-- Updated At: 2026-11-19T01:07:12.069Z
+- Updated At: 2026-11-26T01:09:42.556Z
 
 ## Products
 
@@ -3491,28 +3491,7 @@
   - [Peacock Blush / King/Cal King](https://fernpaperco.shop/products/sateen-flat-sheet-peacock-blush?variant=44332464078935)
     Availability: Available
     Price: $80.10 USD
-- [FernPaperCo™ Percale Sheet Set - Garden Party](https://fernpaperco.shop/products/percale-sheet-set-garden-party): Shop the authentic FernPaperCo™ Percale Sheet Set - Garden Party. Crafted with exceptional quality, timeless design, and unmatched style. Order now from Cl...
-  Updated: 2026-10-03T07:52:08Z
-  Vendor: FernPaperCo™
-  Product Type: Bedding & Bath > Blankets & Throws
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0674/8861/2439/files/BDSS08-01.jpg?v=1790156250
-  - [Garden Party / Twin XL](https://fernpaperco.shop/products/percale-sheet-set-garden-party?variant=44332464111703)
-    Availability: Available
-    Price: $116.10 USD
-  - [Garden Party / Twin](https://fernpaperco.shop/products/percale-sheet-set-garden-party?variant=44332464144471)
-    Availability: Available
-    Price: $116.10 USD
-  - [Garden Party / Full](https://fernpaperco.shop/products/percale-sheet-set-garden-party?variant=44332464177239)
-    Availability: Available
-    Price: $152.10 USD
-  - [Garden Party / Queen](https://fernpaperco.shop/products/percale-sheet-set-garden-party?variant=44332464210007)
-    Availability: Available
-    Price: $170.10 USD
-  - [Garden Party / King](https://fernpaperco.shop/products/percale-sheet-set-garden-party?variant=44332464242775)
-    Availability: Available
-    Price: $201.60 USD
-[List Continued](https://fernpaperco.shop/a/llms-agent/llms.txt?shop=p6u0g9-gm.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzkxMTc1MDczODc5LCJsYXN0X3ZhbHVlIjoiNzc5MTE3NTA3Mzg3OSJ9)
+[List Continued](https://fernpaperco.shop/a/llms-agent/llms.txt?shop=p6u0g9-gm.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzkxMTc1MDQxMTExLCJsYXN0X3ZhbHVlIjoiNzc5MTE3NTA0MTExMSJ9)
 
 ## Collections
 
@@ -3597,6 +3576,15 @@
     Author: Fern Paper Co
   - [Elevate Your Aesthetic Planners with FernPaperCo™ Dahlia Cotton Fabric in Aubergine and Florals](https://fernpaperco.shop/blogs/news/elevate-your-aesthetic-planners-with-fernpaperco™-dahlia-cotton-fabric-in-aubergine-and-florals): Elevate Your Aesthetic Planners with FernPaperCo™ Dahlia Cotton Fabric in Aubergine and Florals
     Updated: 2026-11-18T11:02:19Z
+    Author: Fern Paper Co
+  - [Transform Your Cozy Home Decor with FernPaperCo™'s Herb Garden Peel & Stick Wallpaper Featuring Thoughtful Stationery Gifts and Illustrated Paper Goods](https://fernpaperco.shop/blogs/news/transform-your-cozy-home-decor-with-fernpaperco™s-herb-garden-peel-stick-wallpaper-featuring-thoughtful-stationery-gifts-and-illustrated-paper-goods): Transform Your Cozy Home Decor with FernPaperCo™'s Herb Garden Peel & Stick Wallpaper Featuring Thoughtful Stationery Gifts and Illustrated Paper Goods
+    Updated: 2026-11-23T11:01:48Z
+    Author: Fern Paper Co
+  - [Embrace the Flora: A Guide to FernPaperCo™ Embroidered Cross - Rosette Botanical Stationery for Your Cozy Lifestyle](https://fernpaperco.shop/blogs/news/embrace-the-flora-a-guide-to-fernpaperco™-embroidered-cross-rosette-botanical-stationery-for-your-cozy-lifestyle): Embrace the Flora: A Guide to FernPaperCo™ Embroidered Cross - Rosette Botanical Stationery for Your Cozy Lifestyle
+    Updated: 2026-11-24T11:01:15Z
+    Author: Fern Paper Co
+  - [FernPaperCo™ Baseball Cap – Garden Study: A Guide to Our Botanical Stationery and Floral Lifestyle Gifts](https://fernpaperco.shop/blogs/news/fernpaperco™-baseball-cap-garden-study-a-guide-to-our-botanical-stationery-and-floral-lifestyle-gifts): FernPaperCo™ Baseball Cap – Garden Study: A Guide to Our Botanical Stationery and Floral Lifestyle Gifts
+    Updated: 2026-11-25T11:02:13Z
     Author: Fern Paper Co
 
 ## Store Pages
