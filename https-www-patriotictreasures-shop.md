@@ -6,26 +6,26 @@
 - Timezone: America/New_York
 - Created At: 2026-09-07T16:07:44Z
 - Contact Email: wedoitpropertycare@yahoo.com
-- Updated At: 2026-11-19T00:50:39.581Z
+- Updated At: 2026-11-26T01:03:32.343Z
 
 ## Products
 
 - [Groomsman, Promoted From Wingman to Groomsman, Men's Watch](https://www.patriotictreasures.shop/products/groomsman-promoted-from-wingman-to-groomsman-mens-watch-shop-236701-5127): A personalized gift that can withstand constant use, this Engraved Design Black Chronograph Watch is the perfect gift for all the special men in your life. A thoughtful groomsmen gift, an anniversary memento, or a long-lasting keepsake for Father’s Day - it's a versatile piece sure to warm hearts and create smiles. Featuring a three-dial face, calendar function, and luxury pointer in a water-resistant and scratch-proof vessel. Made from high-quality Stainless Steel and featuring a Copper Dial. Ships in a gift box - so it can be sent directly to your lucky recipient. Product Details Stainless Steel (316L) Luxury Copper Dial Quartz Movement Water-resistance rating 3ATM (30m/100ft) Face Diameter 1.5″ (38.1mm) Watch Strap 7″ (177.8mm) Adjustable Clasp 3″ (76.2 mm)
-  Updated: 2026-10-03T02:20:50Z
+  Updated: 2026-11-22T00:14:05Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_1496_transformation_4750_3687fe68-cbb5-474c-b8c9-1a77f310443e.jpg?v=1790635163
   Price: $69.95 USD
 - [Groomsman, You've Always Had My Back, Men's Watch](https://www.patriotictreasures.shop/products/groomsman-youve-always-had-my-back-mens-watch-shop-236701-9283): A personalized gift that can withstand constant use, this Engraved Design Black Chronograph Watch is the perfect gift for all the special men in your life. A thoughtful groomsmen gift, an anniversary memento, or a long-lasting keepsake for Father’s Day - it's a versatile piece sure to warm hearts and create smiles. Featuring a three-dial face, calendar function, and luxury pointer in a water-resistant and scratch-proof vessel. Made from high-quality Stainless Steel and featuring a Copper Dial. Ships in a gift box - so it can be sent directly to your lucky recipient. Product Details Stainless Steel (316L) Luxury Copper Dial Quartz Movement Water-resistance rating 3ATM (30m/100ft) Face Diameter 1.5″ (38.1mm) Watch Strap 7″ (177.8mm) Adjustable Clasp 3″ (76.2 mm)
-  Updated: 2026-10-03T02:20:50Z
+  Updated: 2026-11-22T00:14:06Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_1496_transformation_4750_42ef4582-a3db-4d33-a5df-2715edbd8410.jpg?v=1790635219
   Price: $69.95 USD
 - [My Baby Girl - Interlocking Heart Necklace](https://www.patriotictreasures.shop/products/my-baby-girl-interlocking-heart-necklace-shop-236701-4932): "Never forget that I love you. If I had to choose between loving you and breathing, I would use my last breath to say I love you. Just remember that no matter how near or far apart, I am always right there in your heart. You'll always be my Baby Girl. Love, Dad" Two hearts embellished with Cubic Zirconia stones, interlocked together as a symbol of never-ending love between a father and daughter. Made with highest quality polished surgical stainless steel.
-  Updated: 2026-10-03T02:20:50Z
+  Updated: 2026-11-22T00:14:06Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -39,14 +39,14 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4384_transformation_12046_927f6c02-b843-490b-8685-f3caa13cf582.jpg?v=1790635266
     Price: $39.95 USD
 - [Men's Watch, Be on Your Guard, 1 Corinthians 16:13 NIV](https://www.patriotictreasures.shop/products/mens-watch-be-on-your-guard-1-corinthians-1613-niv-shop-236701-7040): A personalized gift that can withstand constant use, this Engraved Design Black Chronograph Watch is the perfect gift for all the special men in your life. A thoughtful groomsmen gift, an anniversary memento, or a long-lasting keepsake for Father’s Day - it's a versatile piece sure to warm hearts and create smiles. Featuring a three-dial face, calendar function, and luxury pointer in a water-resistant and scratch-proof vessel. Made from high-quality Stainless Steel and featuring a Copper Dial. Ships in a gift box - so it can be sent directly to your lucky recipient. Product Details Stainless Steel (316L) Luxury Copper Dial Quartz Movement Water-resistance rating 3ATM (30m/100ft) Face Diameter 1.5″ (38.1mm) Watch Strap 7″ (177.8mm) Adjustable Clasp 3″ (76.2 mm)
-  Updated: 2026-10-03T02:20:50Z
+  Updated: 2026-11-22T00:14:06Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_1496_transformation_4750_288db3a5-18ed-4b23-b079-829baa06f609.jpg?v=1790635333
   Price: $69.95 USD
 - [TO MY DAUGHTER OLD LION NAME NECKLACE GIFT SET](https://www.patriotictreasures.shop/products/to-my-daughter-old-lion-name-necklace-gift-set-shop-236701-6576): Give your special someone a custom necklace made just for them! Our Personalized Name Necklace is the perfect gift for your loved ones and will become a versatile accessory for any occasion. From a heart-warming holiday present, anniversary or birthday gift, or just because, this unique necklace adds a trendy touch to any outfit. This stylish necklace features a cursive name design suspended on an 16”-18” adjustable cable chain, making it both personal and beautiful! Your necklace will be custom made upon ordering in the name or word of your choice, with up to 8 characters. It's a gift that they will surely want to keep close to their heart forever! Product specifications: Customized with up to 8 characters Polished stainless steel Adjustable cable chain (16”-18”) 9mm lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:20:51Z
+  Updated: 2026-11-22T00:14:06Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -60,21 +60,21 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4534_transformation_15548.jpg?v=1790635516
     Price: $59.95 USD
 - [Men's Watch, Godliness Has Value for All Things, 1 Timothy 4:8](https://www.patriotictreasures.shop/products/mens-watch-godliness-has-value-for-all-things-1-timothy-48-shop-236701-2269): A personalized gift that can withstand constant use, this Engraved Design Black Chronograph Watch is the perfect gift for all the special men in your life. A thoughtful groomsmen gift, an anniversary memento, or a long-lasting keepsake for Father’s Day - it's a versatile piece sure to warm hearts and create smiles. Featuring a three-dial face, calendar function, and luxury pointer in a water-resistant and scratch-proof vessel. Made from high-quality Stainless Steel and featuring a Copper Dial. Ships in a gift box - so it can be sent directly to your lucky recipient. Product Details Stainless Steel (316L) Luxury Copper Dial Quartz Movement Water-resistance rating 3ATM (30m/100ft) Face Diameter 1.5″ (38.1mm) Watch Strap 7″ (177.8mm) Adjustable Clasp 3″ (76.2 mm)
-  Updated: 2026-10-03T02:20:51Z
+  Updated: 2026-11-22T00:14:06Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_1496_transformation_22456_690ea9b2-808f-4c77-9fb3-537ca50612b2.jpg?v=1790635522
   Price: $69.95 USD
 - [Men's Watch, Be Quick to Listen, James 1:19-20](https://www.patriotictreasures.shop/products/mens-watch-be-quick-to-listen-james-119-20-shop-236701-4177): A personalized gift that can withstand constant use, this Engraved Design Black Chronograph Watch is the perfect gift for all the special men in your life. A thoughtful groomsmen gift, an anniversary memento, or a long-lasting keepsake for Father’s Day - it's a versatile piece sure to warm hearts and create smiles. Featuring a three-dial face, calendar function, and luxury pointer in a water-resistant and scratch-proof vessel. Made from high-quality Stainless Steel and featuring a Copper Dial. Ships in a gift box - so it can be sent directly to your lucky recipient. Product Details Stainless Steel (316L) Luxury Copper Dial Quartz Movement Water-resistance rating 3ATM (30m/100ft) Face Diameter 1.5″ (38.1mm) Watch Strap 7″ (177.8mm) Adjustable Clasp 3″ (76.2 mm)
-  Updated: 2026-10-03T02:20:51Z
+  Updated: 2026-11-22T00:14:07Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_1496_transformation_4689_d0fb79a4-32ba-4699-bbc5-0a0b006f5cd4.jpg?v=1790635576
   Price: $69.95 USD
 - [My Baby Girl - Interlocking Heart Necklace](https://www.patriotictreasures.shop/products/my-baby-girl-interlocking-heart-necklace-shop-236701-3879): Two hearts embellished with Cubic Zirconia stones, interlocked together as a symbol of never-ending love. Made with high quality polished surgical steel. Cable chain measures 18 inches with a 4 inch extension, and fastens with a lobster clasp.Pendant Dimensions: • Height 0.6" (1.5cm)• Width 1.1" (2.7cm)• Adjustable cable chain 18"-22"
-  Updated: 2026-10-03T02:20:51Z
+  Updated: 2026-11-22T00:14:07Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -88,28 +88,28 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4386_transformation_14202_4c57ac28-8bec-483e-bd4c-2fb80bf77e78.jpg?v=1788882158
     Price: $79.95 USD
 - [Men's Watch, I Have Hidden Your Word, Psalm 119:11](https://www.patriotictreasures.shop/products/mens-watch-i-have-hidden-your-word-psalm-11911-shop-236701-2717): A personalized gift that can withstand constant use, this Engraved Design Black Chronograph Watch is the perfect gift for all the special men in your life. A thoughtful groomsmen gift, an anniversary memento, or a long-lasting keepsake for Father’s Day - it's a versatile piece sure to warm hearts and create smiles. Featuring a three-dial face, calendar function, and luxury pointer in a water-resistant and scratch-proof vessel. Made from high-quality Stainless Steel and featuring a Copper Dial. Ships in a gift box - so it can be sent directly to your lucky recipient. Product Details Stainless Steel (316L) Luxury Copper Dial Quartz Movement Water-resistance rating 3ATM (30m/100ft) Face Diameter 1.5″ (38.1mm) Watch Strap 7″ (177.8mm) Adjustable Clasp 3″ (76.2 mm)
-  Updated: 2026-10-03T02:20:51Z
+  Updated: 2026-11-22T00:14:07Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_1496_transformation_4855.jpg?v=1788882104
   Price: $69.95 USD
 - [Men's Engraved Watch, We've Got Your Six, Charcoal Black, Gift Watch](https://www.patriotictreasures.shop/products/mens-engraved-watch-weve-got-your-six-charcoal-black-gift-watch-shop-236701-7182): A personalized gift that can withstand constant use, this Engraved Design Black Chronograph Watch is the perfect gift for all the special men in your life. A thoughtful groomsmen gift, an anniversary memento, or a long-lasting keepsake for Father’s Day - it's a versatile piece sure to warm hearts and create smiles. Featuring a three-dial face, calendar function, and luxury pointer in a water-resistant and scratch-proof vessel. Made from high-quality Stainless Steel and featuring a Copper Dial. Ships in a gift box - so it can be sent directly to your lucky recipient. Product Details Stainless Steel (316L) Luxury Copper Dial Quartz Movement Water-resistance rating 3ATM (30m/100ft) Face Diameter 1.5″ (38.1mm) Watch Strap 7″ (177.8mm) Adjustable Clasp 3″ (76.2 mm)
-  Updated: 2026-10-16T18:37:46Z
+  Updated: 2026-11-22T00:14:07Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_1496_transformation_4750_f1af1029-b13f-4e51-9d71-f72153ea5938.jpg?v=1788882092
   Price: $69.95 USD
 - [To My Beautiful Daughter Acrylic Heart Plaque](https://www.patriotictreasures.shop/products/to-my-beautiful-daughter-acrylic-heart-plaque-shop-236701-7801): Show your loved ones how much you care with our Printed Heart Shaped Acrylic Plaque! Crafted with precision and care, this stunning piece of art is a perfect expression of your heartfelt emotions. Made from premium quality acrylic, it boasts a crystal-clear finish that catches the light, adding a touch of elegance to any space. The vibrant printed design creates a unique gift giving experience that will leave your special someone speechless! This is the ideal present for your beloved partner, family members, or dear friends on special occasions like anniversaries, weddings, birthdays, or Valentine's Day. Let your loved ones know how much they mean to you by purchasing today! Your plaque will be made from high quality acrylic and will feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured for years to come! Product specifications: Premium acrylic Size: 4.9" (124mm) x 4.9" (124mm) Depth: 0.6" (15mm) Sharp, detailed printed design Each order is lovingly packaged and ready to be cherished for a lifetime!
-  Updated: 2026-10-03T02:20:52Z
+  Updated: 2026-11-22T00:14:07Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4748_transformation_16540.jpg?v=1788877796
   Price: $39.95 USD
 - [TO MY SON THIS OLD LION CROSS NECKLACE GIFT SET](https://www.patriotictreasures.shop/products/to-my-son-this-old-lion-cross-necklace-gift-set-shop-236701-8638): Wear your faith proudly with this stunning artisan-crafted Stainless Steel Cross Necklace. Perfect for special occasions or everyday wear, our Cross Necklace is a wonderful gift idea for you or your loved one. Imagine the look on their face when they open up this thoughtful gift! Sizing is appropriate for all ages, and tasteful for both men and women. The artisan crafted detail makes this pendant stand out from other cross necklaces. Includes a luxury adjustable snake chain (18" - 22") and attaches with an easy to use lobster clasp. Cross Necklace Details • Stainless Steel • Adjustable snake chain (18" - 22") • Lobster clasp closure • Height: 1.3" (33.5mm) • Width: 0.8" (19mm)
-  Updated: 2026-10-03T02:20:52Z
+  Updated: 2026-11-22T00:14:07Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -123,7 +123,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_999_transformation_2978.jpg?v=1788877963
     Price: $69.95 USD
 - [TO MY SISTER SQUEEZED LOVE KNOT NECKLACE GIFT SET](https://www.patriotictreasures.shop/products/to-my-sister-squeezed-love-knot-necklace-gift-set-shop-236701-8140): The Love Knot Necklace represents an unbreakable bond between two souls. This symbol of eternal love is a forever favorite and trending everywhere. Surprise your loved one with this gorgeous gift today! The beautiful Love Knot is crafted with brilliant 14k white gold over stainless steel, and swings from an adjustable cable chain, fastened securely with a lobster clasp. The center cubic zirconia crystal measures 6mm in diameter, and is surrounded with smaller cubic zirconia, showcasing added sparkle and shine to this gorgeous gift. You must see it for yourself! Specifications: • 14k white gold over stainless steel • 6mm round cut cubic zirconia stone • 18"-22" adjustable cable chain necklace • Lobster clasp attachment
-  Updated: 2026-10-03T02:20:52Z
+  Updated: 2026-11-22T00:14:08Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -137,7 +137,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4381_transformation_14181.jpg?v=1788877976
     Price: $69.95 USD
 - [TO MY DAUGHTER CHAPTERS SQUEEZED NAME NECKLACE GIFT SET](https://www.patriotictreasures.shop/products/to-my-daughter-chapters-squeezed-name-necklace-gift-set-shop-236701-4274): Give your special someone a custom necklace made just for them! Our Personalized Name Necklace is the perfect gift for your loved ones and will become a versatile accessory for any occasion. From a heart-warming holiday present, anniversary or birthday gift, or just because, this unique necklace adds a trendy touch to any outfit. This stylish necklace features a cursive name design suspended on an 16”-18” adjustable cable chain, making it both personal and beautiful! Your necklace will be custom made upon ordering in the name or word of your choice, with up to 8 characters. It's a gift that they will surely want to keep close to their heart forever! Product specifications: Customized with up to 8 characters Polished stainless steel Adjustable cable chain (16”-18”) 9mm lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:20:52Z
+  Updated: 2026-11-22T00:14:08Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -151,21 +151,21 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4534_transformation_14690_95010db6-9e09-41d3-9b28-afd3f5b9915c.jpg?v=1788877950
     Price: $59.95 USD
 - [TO MY DAUGHTER OLD LION HEART ACRYLIC PLAQUE](https://www.patriotictreasures.shop/products/to-my-daughter-old-lion-heart-acrylic-plaque-shop-236701-7150): Show your loved ones how much you care with our Printed Heart Shaped Acrylic Plaque! Crafted with precision and care, this stunning piece of art is a perfect expression of your heartfelt emotions. Made from premium quality acrylic, it boasts a crystal-clear finish that catches the light, adding a touch of elegance to any space. The vibrant printed design creates a unique gift giving experience that will leave your special someone speechless! This is the ideal present for your beloved partner, family members, or dear friends on special occasions like anniversaries, weddings, birthdays, or Valentine's Day. Let your loved ones know how much they mean to you by purchasing today! Your plaque will be made from high quality acrylic and will feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured for years to come! Product specifications: Premium acrylic Size: 4.9" (124mm) x 4.9" (124mm) Depth: 0.6" (15mm) Sharp, detailed printed design Each order is lovingly packaged and ready to be cherished for a lifetime!
-  Updated: 2026-10-03T02:20:52Z
+  Updated: 2026-11-22T00:14:08Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4748_transformation_16540_21132bcf-d9c3-4bbf-b4a8-3c7e93a464b4.jpg?v=1788877873
   Price: $39.95 USD
 - [TO MY BEAUTIFUL DAUGHTER SQUARE ACRYLIC PLAQUE](https://www.patriotictreasures.shop/products/to-my-beautiful-daughter-square-acrylic-plaque-shop-236701-9068): Combine modern technology and a heartfelt message with our Square Acrylic Plaque! This design is printed on crystal-clear premium acrylic and easily becomes the centerpiece of any room. And the contemporary design wouldn't be complete without its sleek wooden base, elevating the display that will instantly become a conversation starter. Create a memorable presentation when you upgrade to the LED wooden base! This is the ideal present for your beloved partner, family members, or dear friends on special occasions like anniversaries, birthdays, or any occasion where you want to express your love and appreciation in an unforgettable way. Let your loved ones know how much they mean to you by purchasing today! Your plaque will be made from high quality acrylic and will feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured for years to come! Product specifications: Premium acrylic Size with wooden base: 6.5" (165mm) height x 6.5" (165mm) width Acrylic Depth: 0.1" (5mm) Wooden base: 1.2" (30mm) height x 6.5" (165mm) width x 1.8" (45mm) depth (Optional) Wooden base with colorful built-in LED lights Sharp, detailed printed design Each order is lovingly packaged and ready to be cherished for a lifetime!
-  Updated: 2026-10-03T02:20:53Z
+  Updated: 2026-11-22T00:14:08Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4752_transformation_16539.jpg?v=1788877879
   Price: $49.95 USD
 - [TO MY DAUGHTER BRAVER NAME NECKLACE GIFT SET](https://www.patriotictreasures.shop/products/to-my-daughter-braver-name-necklace-gift-set-shop-236701-3548): Give your special someone a custom necklace made just for them! Our Personalized Name Necklace is the perfect gift for your loved ones and will become a versatile accessory for any occasion. From a heart-warming holiday present, anniversary or birthday gift, or just because, this unique necklace adds a trendy touch to any outfit. This stylish necklace features a cursive name design suspended on an 16”-18” adjustable cable chain, making it both personal and beautiful! Your necklace will be custom made upon ordering in the name or word of your choice, with up to 8 characters. It's a gift that they will surely want to keep close to their heart forever! Product specifications: Customized with up to 8 characters Polished stainless steel Adjustable cable chain (16”-18”) 9mm lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:20:53Z
+  Updated: 2026-11-22T00:14:08Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -179,21 +179,21 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4534_transformation_14689.jpg?v=1788877940
     Price: $59.95 USD
 - [TO MY BEAUTIFUL WIFE SQUARE ACRYLIC PLAQUE](https://www.patriotictreasures.shop/products/to-my-beautiful-wife-square-acrylic-plaque-shop-236701-5547): Combine modern technology and a heartfelt message with our Square Acrylic Plaque! This design is printed on crystal-clear premium acrylic and easily becomes the centerpiece of any room. And the contemporary design wouldn't be complete without its sleek wooden base, elevating the display that will instantly become a conversation starter. Create a memorable presentation when you upgrade to the LED wooden base! This is the ideal present for your beloved partner, family members, or dear friends on special occasions like anniversaries, birthdays, or any occasion where you want to express your love and appreciation in an unforgettable way. Let your loved ones know how much they mean to you by purchasing today! Your plaque will be made from high quality acrylic and will feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured for years to come! Product specifications: Premium acrylic Size with wooden base: 6.5" (165mm) height x 6.5" (165mm) width Acrylic Depth: 0.1" (5mm) Wooden base: 1.2" (30mm) height x 6.5" (165mm) width x 1.8" (45mm) depth (Optional) Wooden base with colorful built-in LED lights Sharp, detailed printed design Each order is lovingly packaged and ready to be cherished for a lifetime!
-  Updated: 2026-10-03T02:20:53Z
+  Updated: 2026-11-22T00:14:08Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4752_transformation_16539_175fdb5e-0700-4c13-b206-2bb4b3c1d138.jpg?v=1788877898
   Price: $49.95 USD
 - [TO MY WIFE SOONER JOURNAL](https://www.patriotictreasures.shop/products/to-my-wife-sooner-journal-shop-236701-1084): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-10-03T02:20:53Z
+  Updated: 2026-11-22T00:14:08Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_2645_transformation_10376.jpg?v=1788877941
   Price: $29.95 USD
 - [TO MY SON SKIES BRACELET](https://www.patriotictreasures.shop/products/to-my-son-skies-bracelet-shop-236701-9553): Are you looking for a gift as special as the man in your life? Then this Men's "Love You Forever" Bracelet is perfect! Engraved with a heartfelt message, this gift is great for birthdays, anniversaries, or just a thoughtful way to say "I love you". It's not just an accessory; it's a daily reminder of your love and appreciation. Whether it's your son, husband, or any deserving guy, this bracelet will have them grinning from ear to ear while rocking some serious style. Composed of stainless steel and vegan leather, this handsome bracelet features a strong magnetic clasp, making your sentimental gift last a lifetime! Your piece is packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight. Product specifications: Total length: 8.3" (21 cm) Engraved “love you forever” sentiment Braided vegan leather band Stainless steel decorative beads Stainless steel magnetic clasp with black finish Each order is lovingly packaged and shipped with care!
-  Updated: 2026-10-03T02:20:54Z
+  Updated: 2026-11-22T00:14:09Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -207,7 +207,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_5118_transformation_17450_632c58d0-47a3-4dcf-8863-c57fdd6045a5.png?v=1788878051
     Price: $59.95 USD
 - [TO MY SON STAND TALL BRACELET](https://www.patriotictreasures.shop/products/to-my-son-stand-tall-bracelet-shop-236701-8343): Are you looking for a gift as special as the man in your life? Then this Men's "Love You Forever" Bracelet is perfect! Engraved with a heartfelt message, this gift is great for birthdays, anniversaries, or just a thoughtful way to say "I love you". It's not just an accessory; it's a daily reminder of your love and appreciation. Whether it's your son, husband, or any deserving guy, this bracelet will have them grinning from ear to ear while rocking some serious style. Composed of stainless steel and vegan leather, this handsome bracelet features a strong magnetic clasp, making your sentimental gift last a lifetime! Your piece is packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight. Product specifications: Total length: 8.3" (21 cm) Engraved “love you forever” sentiment Braided vegan leather band Stainless steel decorative beads Stainless steel magnetic clasp with black finish Each order is lovingly packaged and shipped with care!
-  Updated: 2026-10-03T02:20:54Z
+  Updated: 2026-11-22T00:14:09Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -221,63 +221,63 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_5118_transformation_17209_decba046-893b-44c7-847e-6849ea712dfc.jpg?v=1788878026
     Price: $64.95 USD
 - [TO MY DAUGHTER PROUD LEATHER JOURNAL](https://www.patriotictreasures.shop/products/to-my-daughter-proud-leather-journal-shop-236701-2689): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-10-03T02:20:54Z
+  Updated: 2026-11-22T00:14:09Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_2645_transformation_10376_1f036a86-d9ee-4ce4-9822-8259b0035fab.jpg?v=1788877951
   Price: $29.95 USD
 - [Daughter Distance Acrylic Plaque – A Loving Reminder She’s Close](https://www.patriotictreasures.shop/products/to-my-daughter-distance-square-acrylic-plaque-shop-236701-7879): Surprise your daughter with a heartfelt distance acrylic plaque—a beautiful keepsake that reminds her your love is always close, wherever life takes her.
-  Updated: 2026-10-11T14:54:18Z
+  Updated: 2026-11-22T00:14:09Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4752_transformation_16539_b389b426-21c0-45b8-8437-2909767527f7.jpg?v=1788877961
   Price: $49.95 USD
 - [Acrylic Heart Plaque for Daughter – A Loving Daily Reminder](https://www.patriotictreasures.shop/products/to-my-daughter-braver-acrylic-heart-shop-236701-7884): Give her a daily reminder of how loved and strong she is. This acrylic heart plaque for daughter is a heartfelt keepsake for birthdays, graduation, or just because.
-  Updated: 2026-10-11T14:55:15Z
+  Updated: 2026-11-22T00:14:09Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4748_transformation_16540_78fc21b3-2a88-4a2a-80e3-a79f18b0a61d.jpg?v=1788877991
   Price: $39.95 USD
 - [Lion Crown Daughter Journal – A Keepsake for Her Dreams](https://www.patriotictreasures.shop/products/to-my-daughter-lion-crown-journal-shop-236701-2100): Give her the Lion Crown Daughter Journal—a thoughtful keepsake for journaling, school notes, and big dreams, with lined pages, a ribbon bookmark, and elastic closure.
-  Updated: 2026-10-11T14:56:49Z
+  Updated: 2026-11-22T00:14:09Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_2645_transformation_10376_93df83fa-5814-4de1-a30d-d09186cad5c9.jpg?v=1788878040
   Price: $29.95 USD
 - [daughter promise leather journal | Gift for Your Daughter](https://www.patriotictreasures.shop/products/to-my-daughter-promise-leather-journal-shop-236701-6188): Give her a daughter promise leather journal for notes, goals, and reflection. A thoughtful keepsake with a loving message, lined pages, and a ribbon bookmark.
-  Updated: 2026-10-11T14:57:45Z
+  Updated: 2026-11-22T00:14:10Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_2645_transformation_10376_83ef2058-7549-49e7-a29e-5e632fc94b15.jpg?v=1788878041
   Price: $29.95 USD
 - [TO MY DAUGHTER VIKING SQUARE ACRYLIC PLAQUE](https://www.patriotictreasures.shop/products/to-my-daughter-viking-square-acrylic-plaque-shop-236701-3333): Combine modern technology and a heartfelt message with our Square Acrylic Plaque! This design is printed on crystal-clear premium acrylic and easily becomes the centerpiece of any room. And the contemporary design wouldn't be complete without its sleek wooden base, elevating the display that will instantly become a conversation starter. Create a memorable presentation when you upgrade to the LED wooden base! This is the ideal present for your beloved partner, family members, or dear friends on special occasions like anniversaries, birthdays, or any occasion where you want to express your love and appreciation in an unforgettable way. Let your loved ones know how much they mean to you by purchasing today! Your plaque will be made from high quality acrylic and will feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured for years to come! Product specifications: Premium acrylic Size with wooden base: 6.5" (165mm) height x 5.9" (150mm) width Acrylic Depth: 0.1" (5mm) Wooden base: 1.2" (30mm) height x 5.9" (150mm) width x 1.8" (45mm) depth (Optional) Wooden base with colorful built-in LED lights Sharp, detailed printed design Each order is lovingly packaged and ready to be cherished for a lifetime!
-  Updated: 2026-10-03T02:20:55Z
+  Updated: 2026-11-22T00:14:10Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_8202_transformation_16541_3d17702d-551c-4cd6-922e-7c6cefc80b81.jpg?v=1788878063
   Price: $49.95 USD
 - [To My Daughter Leather Journal Your Crown](https://www.patriotictreasures.shop/products/to-my-daughter-leather-journal-your-crown-shop-236701-7626): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-10-03T02:20:55Z
+  Updated: 2026-11-22T00:14:10Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_2645_transformation_10376_59ed59a7-25f6-4b56-99d6-1031b1d62613.jpg?v=1788878114
   Price: $29.95 USD
 - [Badass Crown - Daughter Birthday Necklace with Rose Box](https://www.patriotictreasures.shop/products/badass-crown-daughter-birthday-necklace-with-rose-box-shop-236701-7041): Imagine her reaction as she receives this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this stunning pendant is adorned with premium cubic zirconia crystals, making it a timeless symbol of love and devotion. The luxurious box, featuring a meticulously preserved rose that never fades, adds an extra touch of love. With a simple turn of the gold knob, her breathtaking gift is revealed—making it the perfect sentimental gift for that special someone. For the daughter who was born to shine and brave enough to wear her crown. 👑 Celebrate your daughter's birthday with a meaningful gift that reminds her how strong, beautiful, and extraordinary she truly is. The Badass Crown Necklace is more than jewelry. It's a heartfelt reminder that she deserves to walk through life with confidence, courage, and her head held high. Why she'll love it: A bold, empowering birthday gift from a parent A meaningful keepsake she can treasure A beautiful way to celebrate her individuality Presented with a special rose gift box for a memorable birthday surprise Give her more than a necklace. Give her a reminder of how amazing she is. Make her birthday unforgettable with a gift that comes straight from the heart. Product Specifications: 14k white gold finish Stainless steel base 6mm round cut cubic zirconia stone Pendant dimensions: 0.62" (15.7mm) height / 0.62" (15.7mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Luxurious gift box with preserved red rose Gift box dimensions: 80mm x 80mm x 80mm Gift box material: plastic and acrylic
-  Updated: 2026-10-11T13:17:22Z
+  Updated: 2026-11-22T00:14:10Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_8681_transformation_26934_8ab19da1-9a69-4af4-9ce8-ffb5c0a869f7.jpg?v=1788894990
   Price: $69.95 USD
 - [Love You Forever To My Grandson Bracelet Pages Of My Life](https://www.patriotictreasures.shop/products/love-you-forever-to-my-grandson-bracelet-pages-of-my-life-shop-236701-2381): Are you looking for a gift as special as the man in your life? Then this Men's "Love You Forever" Bracelet is perfect! Engraved with a heartfelt message, this gift is great for birthdays, anniversaries, or just a thoughtful way to say "I love you". It's not just an accessory; it's a daily reminder of your love and appreciation. Whether it's your son, husband, or any deserving guy, this bracelet will have them grinning from ear to ear while rocking some serious style. Composed of stainless steel and vegan leather, this handsome bracelet features a strong magnetic clasp, making your sentimental gift last a lifetime! Your piece is packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight. Product specifications: Total length: 8.3" (21 cm) Engraved “love you forever” sentiment Braided vegan leather band Stainless steel decorative beads Stainless steel magnetic clasp with black finish Each order is lovingly packaged and shipped with care!
-  Updated: 2026-10-03T02:20:55Z
+  Updated: 2026-11-22T00:14:10Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -291,7 +291,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_5118_transformation_25524.jpg?v=1788878162
     Price: $64.95 USD
 - [Love You Forever To My Grandson Bracelet Achieve Anything](https://www.patriotictreasures.shop/products/love-you-forever-to-my-grandson-bracelet-achieve-anything-shop-236701-7422): Are you looking for a gift as special as the man in your life? Then this Men's "Love You Forever" Bracelet is perfect! Engraved with a heartfelt message, this gift is great for birthdays, anniversaries, or just a thoughtful way to say "I love you". It's not just an accessory; it's a daily reminder of your love and appreciation. Whether it's your son, husband, or any deserving guy, this bracelet will have them grinning from ear to ear while rocking some serious style. Composed of stainless steel and vegan leather, this handsome bracelet features a strong magnetic clasp, making your sentimental gift last a lifetime! Your piece is packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight. Product specifications: Total length: 8.3" (21 cm) Engraved “love you forever” sentiment Braided vegan leather band Stainless steel decorative beads Stainless steel magnetic clasp with black finish Each order is lovingly packaged and shipped with care!
-  Updated: 2026-10-03T02:20:56Z
+  Updated: 2026-11-22T00:14:10Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -305,7 +305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_5118_transformation_17449.jpg?v=1788878168
     Price: $64.95 USD
 - [To my Son, You will never lose; you either win or learn](https://www.patriotictreasures.shop/products/to-my-son-you-will-never-lose-you-either-win-or-learn-shop-236701-3786): Quote on Card : To My Husband, You are my partner in adventure, the one who steadies me when life feels uncertain. I admire your strength, your kindness, and the way you love without reservation. With you, ordinary moments turn into treasured memories I’ll hold forever. Thank you for choosing me every day, for protecting my heart, and for being my one true home. I Love You , Forever & Always Give your special someone a classic necklace that shows off their strength and style! Our Cuban Link Chain is the perfect gift for any occasion, including birthdays and holidays. Available in polished stainless steel or 14K yellow gold, you can be sure this wonderfully weighted necklace will be a staple piece in their wardrobe. And since the chain is adjustable, this necklace will look spectacular on everyone who wears it. Polished stainless steel and 14k yellow gold over stainless steel Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Chain width: 5 mm Weight: 28.5 grams (1.005 oz) Parrot clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:20:56Z
+  Updated: 2026-11-22T00:14:11Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -327,21 +327,21 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4351_transformation_11476.jpg?v=1788878482
     Price: $89.95 USD
 - [Father's Legacy Journal –  Tree of Life Notebook](https://www.patriotictreasures.shop/products/fathers-legacy-journal-tree-of-life-notebook-shop-236701-2859): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-10-03T02:20:56Z
+  Updated: 2026-11-22T00:14:11Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_2645_transformation_10371_759c1dba-6db7-48b4-8638-0532cd8fd538.jpg?v=1788878411
   Price: $29.95 USD
 - [Adventure Seeker Journal – Wilderness Sunset Notebook](https://www.patriotictreasures.shop/products/adventure-seeker-journal-wilderness-sunset-notebook-shop-236701-3973): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-10-03T02:21:08Z
+  Updated: 2026-11-22T00:14:11Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_2645_transformation_10371_0a46ad72-9e51-4f3f-abab-95ca7d432a7a.jpg?v=1788878414
   Price: $29.95 USD
 - [Best Dad Ever - Woven Blanket](https://www.patriotictreasures.shop/products/best-dad-ever-woven-blanket-shop-236701-3052): Create a unique keepsake with our Heirloom Artwork Woven Blanket. This custom product is lovingly woven on a loom with cozy 100% cotton yarn. It makes an ideal gift for your beloved partner, family members, or dear friends on special occasions like birthdays, anniversaries, or any event where you want to express your love and appreciation in an unforgettable way. Product specifications: Material: 100% cotton yarn and colorful fringe Please note: This product transitions your image into a woven memento. Actual product colors may vary from mockups due to differences in available yarn colors. Each order is lovingly packaged and ready to be cherished for a lifetime!
-  Updated: 2026-10-03T02:20:56Z
+  Updated: 2026-11-22T00:14:11Z
   Vendor: ShineOn Fulfillment
   Product Type: Blanket
   Availability: Available
@@ -359,7 +359,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_8413_transformation_25447.jpg?v=1788878476
     Price: $109.99 USD
 - [To My Daughter, You Will Always Be My Baby Girls](https://www.patriotictreasures.shop/products/to-my-daughter-you-will-always-be-my-baby-girls-shop-236701-8248): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:20:57Z
+  Updated: 2026-11-22T00:14:11Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -381,7 +381,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4380_transformation_12024.jpg?v=1788878447
     Price: $89.95 USD
 - [To my beautiful wife, Every moment with you leaves a mark on me](https://www.patriotictreasures.shop/products/to-my-beautiful-wife-every-moment-with-you-leaves-a-mark-on-me-shop-236701-4878): Quote On Card : To MyBeautiful Wife : From the moment our paths crossed, my soul recognized its home in you. Through laughter, tears, triumphs, and trials, you’ve been the one constant, my heart’s anchor and my sweetest joy. Your love transforms ordinary days into miracles, reminding me of the blessing it is to walk beside you. I promise to honor you, cherish you, and love you without end. Love, Your Husband Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:20:57Z
+  Updated: 2026-11-22T00:14:11Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -403,7 +403,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4380_transformation_12385.jpg?v=1788878512
     Price: $89.95 USD
 - [To my beautiful daughter, I promise to love you for the rest of my life](https://www.patriotictreasures.shop/products/to-my-beautiful-daughter-i-promise-to-love-you-for-the-rest-of-my-life-shop-236701-9651): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:20:57Z
+  Updated: 2026-11-22T00:14:11Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -425,7 +425,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4380_transformation_12027_b66a194c-7f49-42d3-8b2e-43a4a311d721.jpg?v=1788878469
     Price: $89.95 USD
 - [To My Beautiful Daughter, Just Hold This To Feel My Love](https://www.patriotictreasures.shop/products/to-my-beautiful-daughter-just-hold-this-to-feel-my-love-shop-236701-4712): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:20:57Z
+  Updated: 2026-11-22T00:14:12Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -447,7 +447,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4380_transformation_12027_8628f1ac-a42e-4fef-b701-8311a7a1773d.jpg?v=1788878466
     Price: $89.95 USD
 - [To my beautiful Wife,  I filled this small  with my love and light](https://www.patriotictreasures.shop/products/to-my-beautiful-wife-i-filled-this-small--with-my-love-and-light-shop-236701-3144): Quote On Card : To MyBeautiful Wife : From the moment our paths crossed, my soul recognized its home in you. Through laughter, tears, triumphs, and trials, you’ve been the one constant, my heart’s anchor and my sweetest joy. Your love transforms ordinary days into miracles, reminding me of the blessing it is to walk beside you. I promise to honor you, cherish you, and love you without end. Love, Your Husband Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:20:57Z
+  Updated: 2026-11-22T00:14:12Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -469,7 +469,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4380_transformation_12610.jpg?v=1788878537
     Price: $89.95 USD
 - [To My Mommy, Love From Your Tummy](https://www.patriotictreasures.shop/products/to-my-mommy-love-from-your-tummy-shop-236701-2854): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:20:58Z
+  Updated: 2026-11-22T00:14:12Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -491,7 +491,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4385_transformation_12067.jpg?v=1788878499
     Price: $94.95 USD
 - [Interlocking Hearts Necklace - A Heartfelt Gift for Granddaughters](https://www.patriotictreasures.shop/products/to-my-granddaughter-i-love-you-for-the-rest-of-my-life-shop-236701-8998): Gift the Interlocking Hearts Necklace to your granddaughter—a timeless symbol of your love and bond. Perfect for any occasion, she’ll treasure it forever.
-  Updated: 2026-10-04T09:09:25Z
+  Updated: 2026-11-22T00:14:12Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -512,14 +512,14 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4385_transformation_12107.jpg?v=1788878506
     Price: $94.95 USD
 - [Personalized Acrylic Keepsake - Capture and Illuminate Your Memories](https://www.patriotictreasures.shop/products/keepsake-acrylic-bundle-you-left-pawprints-in-my-heart-shop-236701-5860): Discover the Personalized Acrylic Keepsake to celebrate cherished memories. Perfect for gifting, it transforms your moments into beautiful art for your home.
-  Updated: 2026-10-04T09:10:47Z
+  Updated: 2026-11-22T00:14:12Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_8202_transformation_24593.jpg?v=1788878472
   Price: $39.95 USD
 - [Acrylic Square Design Grandpa](https://www.patriotictreasures.shop/products/acrylic-square-design-grandpa-shop-236701-6902): Combine modern technology and a heartfelt message with our Square Acrylic Plaque!Your design is printed on crystal-clear premium acrylic and will easily become the centerpiece of any room.We offer 2 wooden base options to light up and display your artwork - a corded USB powered LED base, or a battery powered LED base (batteries not included).This product is perfect for loved ones celebrating any special occasion such as holidays, anniversaries, graduations, or “just because”. Let your creativity go wild! Product Specifications: Premium acrylic with UV printed design Acrylic Depth: 0.1" (5mm) Corded Wooden Base LED Features: Full product size: 6.5" (16.5cm) height x 5.9" (15cm) width x 1.8" (4.5cm) depth USB power cord (59.5" length) with attached controller to power on / off and to customize multiple lighting and color options First Class Energy Efficient (Electric current: 0.012A Power: 1 W) Battery Powered LED Base Features Full product size: 7" (17.8cm) height x 5.9" (15cm) width x 1.8" (45cm) depth Battery Powered LED Base uses a single button to customize light options with an On / Off switch located on the bottom of base First Class Energy Efficient (Electric current: 0.012A Power: 1 W)
-  Updated: 2026-10-03T02:20:58Z
+  Updated: 2026-11-22T00:14:12Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -532,7 +532,7 @@
     Availability: Available
     Price: $39.95 USD
 - [To My Daughter, You'll Always Be My Baby Girl](https://www.patriotictreasures.shop/products/to-my-daughter-youll-always-be-my-baby-girl-shop-236701-3799): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:20:59Z
+  Updated: 2026-11-22T00:14:13Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -552,7 +552,7 @@
     Availability: Available
     Price: $89.95 USD
 - [To My Mom, I Will Always Be Your Little Boy](https://www.patriotictreasures.shop/products/to-my-mom-i-will-always-be-your-little-boy-shop-236701-2846): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:20:59Z
+  Updated: 2026-11-22T00:14:13Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -573,14 +573,14 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4385_transformation_12107_3e95ac4f-7440-43a3-a2e8-ed7ec758bfe0.jpg?v=1788878544
     Price: $94.95 USD
 - [To My Daughter Butterfly Journal - Mom's Love Letter Notebook](https://www.patriotictreasures.shop/products/to-my-daughter-butterfly-journal-moms-love-letter-notebook-shop-236701-7092): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-10-03T02:20:59Z
+  Updated: 2026-11-22T00:14:13Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_2645_transformation_10371_cf6c6c00-0925-461b-a796-7c7dd5382c85.jpg?v=1788878527
   Price: $29.95 USD
 - [To My Granddaughter, Always Keep Me In Your Heart,](https://www.patriotictreasures.shop/products/to-my-granddaughter-always-keep-me-in-your-heart-shop-236701-6221): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:20:59Z
+  Updated: 2026-11-22T00:14:13Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -600,21 +600,21 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4380_transformation_12027_0255e51f-c093-4b2a-bf03-104e043a72d1.jpg?v=1788878554
     Price: $89.95 USD
 - [Floral Scripture Love Journal](https://www.patriotictreasures.shop/products/floral-scripture-love-journal-shop-236701-2770): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-10-03T02:20:59Z
+  Updated: 2026-11-22T00:14:13Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_2645_transformation_10371_6c1e8af7-efea-4461-bda6-0ddc14cd8342.jpg?v=1788878565
   Price: $29.95 USD
 - [Journey Of A Thousand Miles - Graphic Journal](https://www.patriotictreasures.shop/products/journey-of-a-thousand-miles-graphic-journal-shop-236701-2351): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-10-03T02:21:00Z
+  Updated: 2026-11-22T00:14:13Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_2645_transformation_10371_199f76a0-51e9-4661-9325-e2668b7d0646.jpg?v=1788878579
   Price: $29.95 USD
 - [To My Bonus Daughter, Always Shine Like The Brightest Star](https://www.patriotictreasures.shop/products/to-my-bonus-daughter-always-shine-like-the-brightest-star-shop-236701-5583): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:21:00Z
+  Updated: 2026-11-22T00:14:13Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -635,7 +635,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4380_transformation_12027_a44ec286-632d-434c-9bb3-3dd402141c38.jpg?v=1788878744
     Price: $89.95 USD
 - [To My Granddaughter, This Old Woman Will Always Have Your Back](https://www.patriotictreasures.shop/products/to-my-granddaughter-this-old-woman-will-always-have-your-back-shop-236701-3770): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:21:00Z
+  Updated: 2026-11-22T00:14:14Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -657,7 +657,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4385_transformation_12107_2ea81b64-20f0-419c-b56d-699ca7ef25ad.jpg?v=1788878772
     Price: $94.95 USD
 - [To My Soulmate, I Love You, Forever & Always](https://www.patriotictreasures.shop/products/to-my-soulmate-i-love-you-forever-always-shop-236701-6266): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:21:00Z
+  Updated: 2026-11-22T00:14:14Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -679,7 +679,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4385_transformation_12107_027f21c8-7f42-4476-950c-04b78a7048b3.jpg?v=1788878760
     Price: $94.95 USD
 - [Bohemian Butterfly - Woven Blanket](https://www.patriotictreasures.shop/products/bohemian-butterfly-woven-blanket-shop-236701-3902): Create a unique keepsake with our Heirloom Artwork Woven Blanket. This custom product is lovingly woven on a loom with cozy 100% cotton yarn. It makes an ideal gift for your beloved partner, family members, or dear friends on special occasions like birthdays, anniversaries, or any event where you want to express your love and appreciation in an unforgettable way. Product specifications: Material: 100% cotton yarn and colorful fringe Please note: This product transitions your image into a woven memento. Actual product colors may vary from mockups due to differences in available yarn colors. Each order is lovingly packaged and ready to be cherished for a lifetime!
-  Updated: 2026-10-03T02:21:00Z
+  Updated: 2026-11-22T00:14:14Z
   Vendor: ShineOn Fulfillment
   Product Type: Blanket
   Availability: Available
@@ -697,7 +697,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_8413_transformation_25368.jpg?v=1788878821
     Price: $109.99 USD
 - [To My Daughter, You Will Never Lose](https://www.patriotictreasures.shop/products/to-my-daughter-you-will-never-lose-shop-236701-4049): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:21:01Z
+  Updated: 2026-11-22T00:14:14Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -719,7 +719,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4380_transformation_12027_46a0d4f7-5010-4ae3-a0bb-7b9243cf703e.jpg?v=1788878765
     Price: $89.95 USD
 - [To My Daughter, I'm Always Right Here In Your Heart](https://www.patriotictreasures.shop/products/to-my-daughter-im-always-right-here-in-your-heart-shop-236701-5486): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-10-03T02:21:01Z
+  Updated: 2026-11-22T00:14:14Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -741,14 +741,14 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4380_transformation_12027_79cd9e47-2deb-4f8c-88d8-7c4430f7b746.jpg?v=1788878759
     Price: $89.95 USD
 - [Keepsake Acrylic Bundle - mom - I am forever thankful](https://www.patriotictreasures.shop/products/keepsake-acrylic-bundle-mom-i-am-forever-thankful-shop-236701-9554): Combine modern technology and a heartfelt message with our Square Acrylic Plaque!Your design is printed on crystal-clear premium acrylic and will easily become the centerpiece of any room.We offer 2 wooden base options to light up and display your artwork - a corded USB powered LED base, or a battery powered LED base (batteries not included).This product is perfect for loved ones celebrating any special occasion such as holidays, anniversaries, graduations, or “just because”. Let your creativity go wild! Product Specifications: Premium acrylic with UV printed design Acrylic Depth: 0.1" (5mm) Corded Wooden Base LED Features: Full product size: 6.5" (16.5cm) height x 5.9" (15cm) width x 1.8" (4.5cm) depth USB power cord (59.5" length) with attached controller to power on / off and to customize multiple lighting and color options First Class Energy Efficient (Electric current: 0.012A Power: 1 W) Battery Powered LED Base Features Full product size: 7" (17.8cm) height x 5.9" (15cm) width x 1.8" (45cm) depth Battery Powered LED Base uses a single button to customize light options with an On / Off switch located on the bottom of base First Class Energy Efficient (Electric current: 0.012A Power: 1 W)
-  Updated: 2026-10-03T02:21:01Z
+  Updated: 2026-11-22T00:14:14Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_8202_transformation_24593_4ebbb7af-3707-4128-b193-36c0c65867ef.jpg?v=1788878724
   Price: $39.95 USD
 - [Interlocking Hearts Necklace - The Perfect Gift for Mom](https://www.patriotictreasures.shop/products/to-my-mom-thank-you-for-everything-shop-236701-4393): Elevate your gifting with the Interlocking Hearts Necklace, a stunning symbol of love crafted in elegant surgical steel. Perfect for moms and special occasions.
-  Updated: 2026-10-03T02:21:01Z
+  Updated: 2026-11-22T00:14:15Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -770,7 +770,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4385_transformation_12107_80f50277-7b5b-4ac2-8292-45023804063d.jpg?v=1788878772
     Price: $94.95 USD
 - [Interlocking Hearts Necklace for Sister – A Gift of Love](https://www.patriotictreasures.shop/products/to-my-sister-thank-you-for-everything-shop-236701-4838): Celebrate your special bond with an Interlocking Hearts Necklace for Sister. Sparkling CZ hearts add a loving touch to everyday outfits and make a memorable gift.
-  Updated: 2026-10-11T02:52:43Z
+  Updated: 2026-11-22T00:14:15Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -792,7 +792,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4385_transformation_12067_806f56a4-5d1e-4f54-8359-a8b871b2b10e.jpg?v=1788878769
     Price: $94.95 USD
 - [Interlocking Hearts Necklace: Cherish Unbreakable Love](https://www.patriotictreasures.shop/products/to-my-mom-i-know-its-not-easy-shop-236701-8885): Discover the Interlocking Hearts Necklace, a stunning symbol of unbreakable love for your mom. Perfect for making cherished memories on any occasion.
-  Updated: 2026-10-03T02:21:02Z
+  Updated: 2026-11-22T00:14:15Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -814,7 +814,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4385_transformation_12067_b65c073b-48f3-4777-b185-d9d0fafab9c2.jpg?v=1788878771
     Price: $94.95 USD
 - [Love Knot Necklace for Daughter: A Timeless Gift of Love](https://www.patriotictreasures.shop/products/to-my-beautiful-daughter-you-are-special-to-me-shop-236701-9496): Discover the Love Knot Necklace for Daughter, a stunning symbol of your bond. Perfect gift for any occasion that she'll cherish forever.
-  Updated: 2026-10-03T02:21:02Z
+  Updated: 2026-11-22T00:14:15Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -836,7 +836,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4380_transformation_12024_0e91d9a9-a760-4571-bfa7-fa82eb0d1a61.jpg?v=1788878771
     Price: $89.95 USD
 - [Love Knot Necklace for Daughter - A Gift of Strength & Love](https://www.patriotictreasures.shop/products/to-my-beautiful-daughter-you-are-braver-than-you-believe-shop-236701-5801): Discover the Love Knot Necklace for Daughter, a perfect gift symbolizing strength and love. Elevate her joy and connection with this stunning piece.
-  Updated: 2026-10-03T02:21:02Z
+  Updated: 2026-11-22T00:14:15Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -857,7 +857,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Interlocking Hearts Necklace - A Cherished Gift for Loved Ones](https://www.patriotictreasures.shop/products/to-my-mom-thank-you-for-being-my-friend-shop-236701-1278): Discover the Interlocking Hearts Necklace - the perfect symbol of love for Mom or your best friend. A timeless gift for any occasion, crafted with elegance.
-  Updated: 2026-10-03T09:56:19Z
+  Updated: 2026-11-22T00:14:15Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -879,7 +879,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4385_transformation_12107_f6d355c6-26c2-4235-94bd-d80cb933dc18.jpg?v=1788878781
     Price: $94.95 USD
 - [Interlocking Hearts Necklace: A Cherished Gift for Moms](https://www.patriotictreasures.shop/products/to-my-mom-i-loved-you-my-whole-life-shop-236701-1969): Discover the Interlocking Hearts Necklace, a perfect symbol of love for your mom. This elegant piece of jewelry enhances her look while celebrating your unbreakable bond.
-  Updated: 2026-10-03T10:05:30Z
+  Updated: 2026-11-22T00:14:16Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -901,7 +901,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4385_transformation_12107_0782a9cc-03da-42fc-be3a-1510df0bcb30.jpg?v=1788878815
     Price: $94.95 USD
 - [Celtic Tree Woven Blanket: Embrace Family Connections & Warmth](https://www.patriotictreasures.shop/products/family-roots-celtic-tree-woven-blanket-shop-236701-5886): Embrace warmth and connection with the Celtic Tree Woven Blanket, a beautiful 100% cotton heirloom that enriches family moments. Perfect for gifting!
-  Updated: 2026-10-03T10:03:49Z
+  Updated: 2026-11-22T00:14:16Z
   Vendor: ShineOn Fulfillment
   Product Type: Blanket
   Availability: Available
@@ -919,14 +919,14 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_8413_transformation_25368_cbcb5fe6-0e3c-412a-90d7-e8e99536fcda.jpg?v=1788878911
     Price: $109.99 USD
 - [Acrylic Keepsake for Daughter - Timeless Gift of Love & Friendship](https://www.patriotictreasures.shop/products/keepsake-acrylic-bundle-to-my-daughter-you-are-my-best-friend-shop-236701-4003): Celebrate your special bond with our Acrylic Keepsake for Daughter. Perfect for any occasion, this elegant plaque captures memories and lights up her heart.
-  Updated: 2026-10-03T10:04:41Z
+  Updated: 2026-11-22T00:14:16Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_8202_transformation_24593_ebcc46ff-4a64-4e18-bf64-539dc1bb6a05.jpg?v=1788878786
   Price: $39.95 USD
 - [Personalized Woven Blanket for Grandma - A Cozy Keepsake](https://www.patriotictreasures.shop/products/to-my-grandma-elephant-woven-blanket-shop-236701-7156): Discover the warmth of our personalized woven blanket for grandma. This cherished keepsake is a beautiful reminder of love, perfect for any occasion!
-  Updated: 2026-10-03T09:55:06Z
+  Updated: 2026-11-22T00:14:16Z
   Vendor: ShineOn Fulfillment
   Product Type: Blanket
   Availability: Available
@@ -944,7 +944,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_8413_transformation_25368_87dcb7b3-1ccf-4516-842e-14def3ae9a9e.jpg?v=1788878888
     Price: $109.99 USD
 - [Interlocking Hearts Necklace: A Timeless Gift for Mom's Love](https://www.patriotictreasures.shop/products/to-my-mother-thank-you-for-always-being-there-shop-236701-8279): Celebrate love with our Interlocking Hearts Necklace. A perfect gift for Mom, this elegant piece embodies affection and style, a timeless reminder of your bond.
-  Updated: 2026-10-03T10:02:59Z
+  Updated: 2026-11-22T00:14:16Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -966,7 +966,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4385_transformation_12107_7a7cb0f6-42cf-498d-9b58-4c9ccfa2259c.jpg?v=1788878843
     Price: $94.95 USD
 - [Interlocking Hearts Necklace - Unconditional Love for Your Daughter](https://www.patriotictreasures.shop/products/to-my-lovely-daughter-hold-this-tight-to-feel-my-love-shop-236701-9699): Discover the Interlocking Hearts necklace, a beautiful symbol of love for your daughter. Elevate her style while expressing your unbreakable bond today!
-  Updated: 2026-10-03T09:53:15Z
+  Updated: 2026-11-22T00:14:16Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -988,14 +988,14 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4385_transformation_12107_3ba57bbc-2584-489d-9100-356b712c7226.jpg?v=1788878836
     Price: $94.95 USD
 - [Custom Acrylic Plaque Gift: A Joyful Keepsake for Your Daughter](https://www.patriotictreasures.shop/products/keepsake-acrylic-bundle-to-my-daughter-wherever-your-journey-in-life-may-take-you-shop-236701-9138): Discover the Custom Acrylic Plaque Gift for your daughter’s journey. Personalize this elegant keepsake to celebrate her milestones and create lasting memories.
-  Updated: 2026-10-03T09:51:59Z
+  Updated: 2026-11-22T00:14:17Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_8202_transformation_24593_45d379ab-067f-45f9-98c4-73b7b67967f0.jpg?v=1788879317
   Price: $39.95 USD
 - [Necklace for My Granddaughter: Celebrate Our Special Bond](https://www.patriotictreasures.shop/products/to-my-granddaughter-youll-feel-my-love-within-this-shop-236701-8229): Discover the To My Granddaughter necklace—an elegant symbol of love crafted with interlocking hearts. Perfect for any occasion, cherish your bond today!
-  Updated: 2026-10-03T02:21:04Z
+  Updated: 2026-11-22T00:14:17Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -1017,7 +1017,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4385_transformation_12107_80254178-ac96-49ee-91e3-57e3dc84df2c.jpg?v=1788879362
     Price: $94.95 USD
 - [Love Knot Necklace for Granddaughter - Unbreakable Bond Jewelry](https://www.patriotictreasures.shop/products/to-my-granddaughter-hold-this-tight-to-feel-my-love-shop-236701-9829): Discover the Love Knot Necklace for Granddaughter - a timeless symbol of your unbreakable bond. Perfect gift for any occasion. Show her your love today!
-  Updated: 2026-10-03T02:21:04Z
+  Updated: 2026-11-22T00:14:17Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -1039,7 +1039,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4380_transformation_12027_4b63a053-ab4a-42d8-b08a-23cff4839b74.jpg?v=1788879350
     Price: $89.95 USD
 - [Woven Blanket - Snuggling Kitties for Cozy Comfort & Memories](https://www.patriotictreasures.shop/products/snuggling-kitties-woven-blanket-shop-236701-5111): Cozy up with our Snuggling Kitties Woven Blanket, crafted from 100% cotton. Perfect for warmth and vibrant memories. Order your ultimate comfort today!
-  Updated: 2026-10-03T02:21:04Z
+  Updated: 2026-11-22T00:14:17Z
   Vendor: ShineOn Fulfillment
   Product Type: Blanket
   Availability: Available
@@ -1056,7 +1056,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_8413_transformation_25368_b0ad4b3a-bfc1-429b-9542-459d5bd0d980.jpg?v=1788879419
     Price: $109.99 USD
 - [Sister Bond Interlocking Necklace - Cherish Your Unbreakable Love](https://www.patriotictreasures.shop/products/to-my-sister-bond-interlocking-necklace-gift-set-shop-236701-8500): Celebrate your bond with the Sister Bond Interlocking Necklace. A timeless gift of love, perfect for showing how much your sister means to you.
-  Updated: 2026-10-03T02:21:04Z
+  Updated: 2026-11-22T00:14:17Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -1070,70 +1070,70 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4386_transformation_15271.jpg?v=1788879877
     Price: $69.95 USD
 - [Men's Engraved Chronograph Watch - Strength & Timeless Style](https://www.patriotictreasures.shop/products/mens-watch-be-strong-and-courageous-joshua-19-shop-236701-4390): Discover the Men's Engraved Chronograph Watch - a perfect blend of style and motivation. Gift strength and courage with this timeless piece. Order now!
-  Updated: 2026-10-03T02:21:05Z
+  Updated: 2026-11-22T00:14:17Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_1496_transformation_4750_e5951404-b486-4d19-bc4b-c1e2f841ee50.jpg?v=1788882092
   Price: $69.95 USD
 - [Heart Shaped Acrylic Plaque - A Timeless Gift for Your Wife](https://www.patriotictreasures.shop/products/to-my-beautiful-wife-acrylic-heart-plaque-shop-236701-3097): Celebrate your love with our heart shaped acrylic plaque, a timeless gift for your wife that beautifully transforms cherished moments into lasting memories.
-  Updated: 2026-10-03T02:21:05Z
+  Updated: 2026-11-22T00:14:18Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4748_transformation_16540_ef7038a8-d6ac-49cb-8b22-de0942a43886.jpg?v=1788879709
   Price: $39.95 USD
 - [Engraved Men's Watch Gift: A Meaningful Symbol of Love](https://www.patriotictreasures.shop/products/mens-watch-blessed-is-the-one-psalm-11-3-niv-shop-236701-1062): Discover our Engraved Men's Watch Gift, a stylish reminder of faith and love. Perfect for any occasion, it symbolizes cherished moments with personalized elegance.
-  Updated: 2026-10-03T02:21:05Z
+  Updated: 2026-11-22T00:14:18Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_1496_transformation_4750.jpg?v=1788882088
   Price: $69.95 USD
 - [Personalized Daughter Journal: A Gift That Inspires Dreams](https://www.patriotictreasures.shop/products/to-my-beautiful-daughter-journal-shop-236701-5291): Gift your daughter our Personalized Daughter Journal—an inspiring, stylish tool for creativity and self-reflection. Perfect for cherishing her dreams!
-  Updated: 2026-10-03T02:21:05Z
+  Updated: 2026-11-22T00:14:18Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_2645_transformation_10376_f2c077f7-2986-4353-ac25-b5506088010d.jpg?v=1788879929
   Price: $29.95 USD
 - [Personalized Daughter Acrylic Plaque - A Heartfelt Gift for Her](https://www.patriotictreasures.shop/products/to-my-daughter-square-acrylic-plaque-shop-236701-6582): Celebrate your bond with our Personalized Daughter Acrylic Plaque. A timeless gift that brightens her space and warms her heart. Order now for a cherished keepsake!
-  Updated: 2026-10-03T02:21:05Z
+  Updated: 2026-11-22T00:14:18Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4752_transformation_16539_a258141a-95c8-4546-ab95-c024acd67e55.jpg?v=1788879933
   Price: $49.95 USD
 - [Personalized Fighter Journal: Empower Your Mind and Goals](https://www.patriotictreasures.shop/products/you-are-fighter-journal-shop-236701-1236): Empower yourself daily with our personalized fighter journal. A stylish, vegan leather companion for reflection and growth—unlock your potential today!
-  Updated: 2026-10-03T02:21:06Z
+  Updated: 2026-11-22T00:14:18Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_2645_transformation_10376_0278f781-8ec0-4b81-9aed-aaebd19c9a35.jpg?v=1788879931
   Price: $29.95 USD
 - [Braver Square Acrylic Plaque - A Heartfelt Gift for Your Daughter](https://www.patriotictreasures.shop/products/to-my-daughter-braver-square-acrylic-shop-236701-4481): Celebrate your daughter's uniqueness with the Braver Square Acrylic Plaque, a heartfelt gift that brightens any room and conveys your love beautifully.
-  Updated: 2026-10-03T02:21:06Z
+  Updated: 2026-11-22T00:14:18Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4752_transformation_16539_97d76287-8cb7-45d9-985c-211943cc0a3a.jpg?v=1788879932
   Price: $49.95 USD
 - [Acrylic Plaque for Daughter - A Gift of Unforgettable Love](https://www.patriotictreasures.shop/products/to-my-daughter-chapters-square-plaque-shop-236701-9167): Gift the Acrylic Plaque for Daughter, a timeless expression of love. This stunning keepsake brightens her space and her heart—perfect for any special occasion.
-  Updated: 2026-10-03T02:21:06Z
+  Updated: 2026-11-22T00:14:18Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4752_transformation_16539_1bdabc36-7f24-4a91-8d75-f5a7bc2fe4e4.jpg?v=1788879932
   Price: $49.95 USD
 - [Custom Acrylic Plaque for Daughter-in-Law - A Timeless Gift](https://www.patriotictreasures.shop/products/to-my-daughter-in-law-honor-square-acrylic-shop-236701-4298): Discover the Custom Acrylic Plaque for Daughter-in-Law – a heartfelt keepsake that adds charm and warmth to any space. Perfect for special occasions or just because!
-  Updated: 2026-10-03T02:21:06Z
+  Updated: 2026-11-22T00:14:19Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4752_transformation_16539_f21a12ca-eac4-4481-bdff-2597ae257f8b.jpg?v=1788879935
   Price: $49.95 USD
 - [Love You Forever Bracelet: A Timeless Gift for Your Grandson](https://www.patriotictreasures.shop/products/love-you-forever-to-my-grandson-bracelet-will-never-lose-shop-236701-8090): Gift your grandson the Love You Forever Bracelet—a timeless piece that symbolizes your unending love. Perfect for any occasion and beautifully packaged!
-  Updated: 2026-10-03T02:21:06Z
+  Updated: 2026-11-22T00:14:19Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -1147,7 +1147,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_5118_transformation_25524.png?v=1788879981
     Price: $64.95 USD
 - [Step Dad Gift Bracelet - A Heartfelt  of Love & Style](https://www.patriotictreasures.shop/products/to-my-step-dad-gift-of-life-bracelet-shop-236701-9249): Discover the Heartfelt Step Dad Gift Bracelet, a meaningful  of love for every occasion. Perfectly crafted to elevate his style and celebrate your bond.
-  Updated: 2026-10-03T02:21:07Z
+  Updated: 2026-11-22T00:14:19Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -1161,28 +1161,28 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_5118_transformation_17210_9928a29b-abf0-48c4-8386-87f42565a475.jpg?v=1788879957
     Price: $64.95 USD
 - [Heart Shaped Acrylic Plaque - Cherished Tribute for Daughter](https://www.patriotictreasures.shop/products/to-my-daughter-promise-heart-acrylic-plaque-shop-236701-8520): Celebrate your bond with our Heart Shaped Acrylic Plaque. A stunning tribute for your daughter, perfect for any occasion. Order your unique gift today!
-  Updated: 2026-10-03T02:21:07Z
+  Updated: 2026-11-22T00:14:19Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4748_transformation_16540_68274802-7435-46ef-a149-df83dcabae85.jpg?v=1788879937
   Price: $39.95 USD
 - [Custom Encouragement Journal: Elevate Your Thoughts Today](https://www.patriotictreasures.shop/products/encouragement-journal-shop-236701-6868): Transform your thoughts with our Custom Encouragement Journal. Embrace positivity and organization, perfect for personal growth and creativity on the go!
-  Updated: 2026-10-03T02:21:07Z
+  Updated: 2026-11-22T00:14:19Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_2645_transformation_10376_72525eb6-37bc-4269-8bf2-2d7082858879.jpg?v=1788879939
   Price: $29.95 USD
 - [Daughter Birthday Necklace - Love Knot with Preserved Rose Gift](https://www.patriotictreasures.shop/products/braver-name-daughter-birthday-necklace-with-rose-box-shop-236701-8846): Celebrate your daughter's special day with our stunning Daughter Birthday Necklace. An exquisite love knot design in a luxurious rose box.
-  Updated: 2026-10-03T02:21:07Z
+  Updated: 2026-11-22T00:14:19Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_8681_transformation_26934.png?v=1788895006
   Price: $69.95 USD
 - [Love You Forever Bracelet - A Meaningful Gift for Him](https://www.patriotictreasures.shop/products/love-you-forever-promise-bracelet-you-are-the-one-shop-236701-4502): Discover the Love You Forever Bracelet, a heartfelt gift for him. Stylish, durable, and engraved, it’s the perfect reminder of your love.
-  Updated: 2026-10-03T02:21:07Z
+  Updated: 2026-11-22T00:14:19Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -1196,7 +1196,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_5118_transformation_25524_6fb18a13-70fa-46b7-bad8-caa8e6d09806.png?v=1788879997
     Price: $64.95 USD
 - [Grandson Engraved Bracelet – A Timeless Gift of Love](https://www.patriotictreasures.shop/products/love-you-forever-to-my-grandson-bracelet-believe-deep-shop-236701-4892): Discover the Love You Forever Grandson Engraved Bracelet, a heartfelt gift that reminds him of your love. Perfect for any occasion!
-  Updated: 2026-10-03T02:21:08Z
+  Updated: 2026-11-22T00:14:20Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -1210,35 +1210,35 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_5118_transformation_25524_72c36697-31f5-4468-b253-a009f739de3c.jpg?v=1788879993
     Price: $64.95 USD
 - [Daughter Birthday Necklace - Heartfelt Love Knot Gift](https://www.patriotictreasures.shop/products/chapters-cross-daughter-birthday-necklace-with-rose-box-shop-236701-8570): Gift your daughter a Daughter Birthday Necklace—a stunning Love Knot pendant wrapped in elegance. Celebrate your unbreakable bond with this timeless symbol of love.
-  Updated: 2026-10-03T02:21:08Z
+  Updated: 2026-11-22T00:14:20Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_8681_transformation_26934_6e727e83-83ea-445a-88d9-10041b2624e4.jpg?v=1788894977
   Price: $69.95 USD
 - [Lion Crown Acrylic Plaque for Daughter - A Heartfelt Gift](https://www.patriotictreasures.shop/products/to-my-daughter-lion-crown-acrylic-square-plaque-shop-236701-4067): Discover the Lion Crown Acrylic Plaque for Daughter, a heartfelt keepsake that illuminates her space with love and beauty. Perfect for any occasion!
-  Updated: 2026-10-03T02:21:08Z
+  Updated: 2026-11-22T00:14:20Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4752_transformation_16539_1907cc17-0793-4b11-a23a-e617e3e99b38.jpg?v=1788879992
   Price: $49.95 USD
 - [Acrylic Heart Plaque for Daughter - A Loving Keepsake Gift](https://www.patriotictreasures.shop/products/to-my-daughter-proud-acrylic-heart-plaque-shop-236701-2598): Shop our Acrylic Heart Plaque for Daughter, a heartfelt gift that beautifully expresses your love. Perfect for any occasion—treasure her always!
-  Updated: 2026-10-03T02:21:08Z
+  Updated: 2026-11-22T00:14:20Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4748_transformation_16540_3ae880bf-109d-4f4a-9252-38dfd003582a.jpg?v=1788880006
   Price: $39.95 USD
 - [Personalized Acrylic Plaque Gift for Daughter-in-Law - Cherished Keepsake](https://www.patriotictreasures.shop/products/to-my-daughter-in-law-honor-heart-acrylic-plaque-shop-236701-6314): Discover the perfect personalized acrylic plaque gift for daughter-in-law. A heartfelt keepsake that celebrates your special bond. Order now for lasting memories!
-  Updated: 2026-10-03T02:21:08Z
+  Updated: 2026-11-22T00:14:20Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4748_transformation_16540_62ae70f8-27bc-46a7-8e1b-812d46d5be77.jpg?v=1788880044
   Price: $39.95 USD
 - [Cuban Link Chain Necklace: A Timeless Gift for Him](https://www.patriotictreasures.shop/products/to-my-beloved-husband-you-are-my-rock-the-steady-presence-i-lean-on-shop-236701-9054): Discover the Cuban Link Chain Necklace, a powerful symbol of love for your husband. Stylish, durable, and adjustable, it's the perfect gift to celebrate your bond.
-  Updated: 2026-10-03T02:21:09Z
+  Updated: 2026-11-22T00:14:20Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -1260,21 +1260,21 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4351_transformation_11472.jpg?v=1788880310
     Price: $89.95 USD
 - [Daughter Birthday Necklace: A Heartfelt Gift of Eternal Love](https://www.patriotictreasures.shop/products/chapters-squeezed-name-daughter-birthday-necklace-with-rose-box-shop-236701-3360): Surprise your daughter with our Daughter Birthday Necklace. A timeless symbol of love, this elegant gift will make her special day unforgettable!
-  Updated: 2026-10-03T02:21:09Z
+  Updated: 2026-11-22T00:14:21Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_8681_transformation_26933_19cb4d4e-12df-4fc4-8ab4-edb122c0c1db.jpg?v=1788894974
   Price: $69.95 USD
 - [Love Knot Necklace Gift: Eternal Elegance with Preserved Rose](https://www.patriotictreasures.shop/products/im-sorry-gifts-for-her-love-knot-with-rotating-rose-gift-box-shop-236701-3660): Surprise her with the Love Knot Necklace Gift, a stunning symbol of unbreakable love. Includes a preserved rose for an unforgettable touch!
-  Updated: 2026-10-03T02:21:09Z
+  Updated: 2026-11-22T00:14:21Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_8681_transformation_26934.jpg?v=1788894968
   Price: $69.95 USD
 - [Acrylic Plaque Gift for Wife - Illuminate Your Love Today!](https://www.patriotictreasures.shop/products/to-my-beautiful-wife-printed-acrylic-plaque-gift-set-shop-236701-5413): Illuminate your love with our Acrylic Plaque Gift for Wife. A heartfelt keepsake that beautifully lights up her day, making special moments unforgettable.
-  Updated: 2026-10-03T02:21:09Z
+  Updated: 2026-11-22T00:14:21Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -1287,14 +1287,14 @@
     Availability: Available
     Price: $39.95 USD
 - [Daughter Birthday Necklace - A Heartfelt Gift to Cherish Forever](https://www.patriotictreasures.shop/products/breathing-interlocking-daughter-birthday-necklace-with-rose-box-shop-236701-5588): Celebrate your daughter with our stunning Daughter Birthday Necklace. A timeless gift that symbolizes your unbreakable bond. Order now and make her day unforgettable!
-  Updated: 2026-10-03T02:21:09Z
+  Updated: 2026-11-22T00:14:21Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_8681_transformation_26370_7e980fec-f158-44b0-8471-8f7e22dfd7b7.jpg?v=1788880291
   Price: $69.95 USD
 - [Love Knot Necklace for Daughter - A Timeless Gift of Love](https://www.patriotictreasures.shop/products/to-my-daughter-i-will-always-carry-you-in-my-heart-shop-236701-8585): Discover the Love Knot Necklace for Daughter—a timeless symbol of your unbreakable bond. Perfect for any occasion, this elegant gift will make her feel cherished.
-  Updated: 2026-10-03T02:21:10Z
+  Updated: 2026-11-22T00:14:22Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -1316,7 +1316,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4380_transformation_12024_be88725f-0b6a-40ac-ba83-b8cc0b827137.jpg?v=1788880620
     Price: $89.95 USD
 - [Heirloom Woven Blanket: A Cozy Gift for Your Beloved Wife](https://www.patriotictreasures.shop/products/to-my-wife-heirloom-woven-blanket-shop-236701-8078): Discover warmth and love with our Heirloom Woven Blanket for your wife. Perfect for cherished memories, anniversaries, and special moments. Order today!
-  Updated: 2026-10-03T02:21:10Z
+  Updated: 2026-11-22T00:14:22Z
   Vendor: ShineOn Fulfillment
   Product Type: Blanket
   Availability: Available
@@ -1334,7 +1334,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_8413_transformation_25368_c98e1255-26f1-46ee-9041-4edca111da8f.jpg?v=1788881027
     Price: $109.99 USD
 - [Love You Forever Promise Bracelet: Cherish Your Bond Today](https://www.patriotictreasures.shop/products/love-you-forever-promise-bracelet-last-forever-shop-236701-6751): Discover the Love You Forever Promise Bracelet, a heartfelt gift symbolizing love and commitment. Ideal for any occasion. Shop now and treasure your bond!
-  Updated: 2026-10-03T02:21:10Z
+  Updated: 2026-11-22T00:14:22Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -1348,35 +1348,35 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_5118_transformation_25524_2c2bb2e7-674c-4f22-9e41-070247f5dc95.jpg?v=1788882085
     Price: $64.95 USD
 - [Acrylic Plaque for Daughter - Heartwarming Gift for All Occasions](https://www.patriotictreasures.shop/products/to-my-daughter-skies-acrylic-plaque-2-shop-236701-5439): Celebrate your bond with our Acrylic Plaque for Daughter. A perfect gift that transforms cherished moments into lasting memories. Shop now!
-  Updated: 2026-10-03T02:21:10Z
+  Updated: 2026-11-22T00:14:22Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4752_transformation_16539_e266e55b-2ae6-4c3b-aeb3-c5b0415531b6.jpg?v=1788882061
   Price: $49.95 USD
 - [Personalized Acrylic Plaque Gift: A Cherished Keepsake for Your Wife](https://www.patriotictreasures.shop/products/to-my-beautiful-wife-square-acrylic-plaque-1-shop-236701-5096): Show your love with our personalized acrylic plaque gift for your wife. A beautiful keepsake that brightens her space and captures cherished moments.
-  Updated: 2026-10-03T02:21:11Z
+  Updated: 2026-11-22T00:14:22Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/asset_4752_transformation_16539_f1acd102-acf4-4f43-80ad-cca11d1d09f8.jpg?v=1788882063
   Price: $49.95 USD
 - [Old Grudges: 8X10 wildlife picture](https://www.patriotictreasures.shop/products/old-grudges-8x10): Old Grudges by Dallen Lambson. 100% Made in the USA Canvas Giclee. Printed on a pre-coated cotton-based canvas, so that it is protected from UV light and  to not fade over time. Also, can be wiped off with a damp cloth and not disturb any ink. All-Natural Wood frame that compliments that image's overall esthetic. Comes with a preinstalled hanging system ready to hang on the wall.
-  Updated: 2026-10-07T17:25:13Z
+  Updated: 2026-11-22T00:14:22Z
   Vendor: Patriotictreasures
   Product Type: WildlifePicture
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/b46e46d26b4d7769fac26d43e08f777e7e4803695f1edcb02fda5395da8a260e.jpg?v=1790391142
   Price: $29.99 USD
 - [America Sunflower Shirt, USA Flag Flower Tee, Gift For Ameri: Black / M](https://www.patriotictreasures.shop/products/america-sunflower-shirt-usa-flag-flower-tee-gift-for-ameri-black-m): America Sunflower Shirt, USA Flag Flower Tee, Gift For American, 4th Of July Tshirt, Freedom Shirt, Independence Day Gift, Patriotic Shirt For Her Hello! Welcome to My Shop Product • Heavy Cotton T-Shirt - Gildan • 5.3-ounce, 100% cotton (fabrication may be different for certain colors) • Double-needle neck; sleeves and hem • Roomy Unisex Fit • Taped neck and shoulders • Tear away label Do warm/cold machine wash Do not bleach/dry clean/iron directly onto the design How to Order Your T-shirt • Choose your size • Choose your design & text color • Choose your t-shirt color (You can choose the color you want in the color chart I attached and note it down below customize.) ✨ Please check all color and size charts before placing the order. Since all shirts are custom-made based on your selection, I don’t accept returns or exchanges unless there is an issue with your order. • Thank you for visiting. If you have any questions please feel free contact us.♥
-  Updated: 2026-10-05T15:48:52Z
+  Updated: 2026-11-22T00:14:22Z
   Vendor: Patriotictreasures
   Product Type: T shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/228d1b3ea124b8909e4fc45f26a3d72b9770f6c680e507c0faf33ce004172d94.png?v=1790391144
   Price: $19.99 USD
 - [Small Natural Agate Slice - Patriotictreasures](https://www.patriotictreasures.shop/products/small-natural-agate-slice): Bring the natural beauty of this Small Natural Agate Slice into your home, featuring beautiful banding and unique organic patterns. Agate slices are cut perpendicular to the stone's natural banding, revealing the intricate layers and one-of-a-kind patterns hidden within. As one of the world's most abundant yet uniquely beautiful gemstones. Because these are natural stones, each slice will vary in color, pattern, shape, and size. Approximately 3.75" – 4.75" Each Agate Slice is Unique - Patriotictreasures
-  Updated: 2026-11-02T21:58:27Z
+  Updated: 2026-11-25T19:02:16Z
   Vendor: Patriotictreasures
   Product Type: 
   Availability: Available
@@ -1398,7 +1398,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/4PremiereAgateSliceSM.Studio.1.jpg?v=1791719811
     Price: $14.99 USD
   - [#5](https://www.patriotictreasures.shop/products/small-natural-agate-slice?variant=67631056552035)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/5PremiereAgateSliceSM.Studio.1.jpg?v=1790988240
     Price: $14.99 USD
   - [#6](https://www.patriotictreasures.shop/products/small-natural-agate-slice?variant=67631056584803)
@@ -1410,7 +1410,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/7PremiereAgateSliceSM.Studio.1.jpg?v=1790988239
     Price: $14.99 USD
 - [USA 250th Anniversary Baseball Jersey – Patriotic Statue of Liberty 1776–2026 Semiquincentennial Unisex Shirt - Patriotictreasures](https://www.patriotictreasures.shop/products/usa-250th-anniversary-baseball-jersey-patriotic-statue-of-liberty-1776-2026-semiquincentennial-unisex-shirt): 🗽 Celebrate 250 Years of Freedom. Honor the Legacy. Mark a historic milestone in American history with the USA 250th Anniversary Baseball Jersey. Celebrating the 1776–2026 Semiquincentennial, this exclusive patriotic jersey features a stunning, detailed Statue of Liberty print that perfectly captures the enduring spirit of liberty and independence. Whether you're attending a massive 4th of July parade, hosting a family backyard barbecue, or looking for the ultimate Independence Day outfit, this jersey lets you wear your American pride loud and proud. Designed for patriots who want to honor two and a half centuries of freedom, this unisex shirt blends timeless athletic style with a momentous historical celebration. It’s not just apparel—it’s a collectible piece of American history you can wear. Key Features: Our custom-made baseball jerseys are crafted to the highest quality standards, ensuring exceptional softness and breathability. We use sustainable fabrics for printing, so you can be confident that your jersey won’t shrink, flake, peel, or crack. The colors are vibrant and long-lasting, and the thread line comes in black or white only. As each item is custom-printed, cut, and sewn to order, there may be slight variations in design on the seams and arms, making each jersey a unique piece. ✅ Why You’ll Love It: Because a historic milestone this big only happens once in a lifetime—showcase your pride for 250 years of American freedom. ✅ Grab Yours Now: Be part of the historic celebration! Secure your USA 250th Anniversary Baseball Jersey today and honor the America Semiquincentennial in unforgettable style. - Patriotictreasures
-  Updated: 2026-10-28T09:38:06Z
+  Updated: 2026-11-22T00:14:26Z
   Vendor: Pasimax
   Product Type: Jerseys
   Availability: Available
@@ -1434,7 +1434,7 @@
     Availability: Available
     Price: $45.50 USD
 - [America 250th Anniversary Baseball Jersey – USA 1776–2026 Semiquincentennial Patriotic Shirt - Patriotictreasures](https://www.patriotictreasures.shop/products/america-250th-anniversary-baseball-jersey-usa-1776-2026-semiquincentennial-patriotic-shirt): 🇺🇸 250 Years of Freedom. Wear the History. Celebrate a monumental milestone in American history with our exclusive America 250th Anniversary Baseball Jersey. Commemorating the journey from 1776 to 2026, this patriotic jersey is the ultimate way to honor the Semiquincentennial. Featuring a classic, bold design that captures the spirit of the USA, it’s the perfect attire for Independence Day parades, community gatherings, or any event where you want to display your deep love for the nation. Designed for patriots of all ages, this unisex USA jersey blends high-performance athletic aesthetics with historical significance. It’s not just a shirt—it’s a testament to 250 years of resilience, growth, and liberty. Whether you’re searching for the perfect 4th of July gift or adding a centerpiece to your own collection, this jersey is built for those who honor the past and look toward the future. Key Features: Our custom-made baseball jerseys are crafted to the highest quality standards, ensuring exceptional softness and breathability. We use sustainable fabrics for printing, so you can be confident that your jersey won’t shrink, flake, peel, or crack. The colors are vibrant and long-lasting, and the thread line comes in black or white only. As each item is custom-printed, cut, and sewn to order, there may be slight variations in design on the seams and arms, making each jersey a unique piece. ✅ Why You’ll Love It: Because this historic 250th Anniversary only happens once—celebrate in a style as timeless as the nation itself. ✅ Grab Yours Now: Don't miss out on this historic limited-edition release. Secure your America 250th Anniversary Baseball Jersey and celebrate the 1776–2026 legacy in style. - Patriotictreasures
-  Updated: 2026-10-28T09:38:11Z
+  Updated: 2026-11-22T00:14:26Z
   Vendor: Pasimax
   Product Type: Jerseys
   Availability: Available
@@ -1512,7 +1512,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/2_df5e8c88-568a-4a7c-825c-532756f06b1c.png?v=1791241876
     Price: $45.50 USD
 - [USA 250th Anniversary Tank Top – Patriotic Commemorative Graphic Tee, Classic Fit Summer Apparel for Men - Patriotictreasures](https://www.patriotictreasures.shop/products/usa-250th-anniversary-tank-top-patriotic-commemorative-graphic-tee-classic-fit-summer-apparel-for-men): 🇺🇸✨ Celebrate 250 Years of History. Mark the historic milestone of American independence with the USA 250th Anniversary Tank Top. This isn't just summer wear—it’s a tribute to 250 years of freedom, strength, and legacy. Whether you're heading to a 4th of July celebration, a local parade, or a casual backyard BBQ, this tank top ensures you’re dressed for the occasion with timeless patriotic style. Crafted with the latest breakthrough in soft cotton technology, this garment offers an ultra-soft, lived-in feel from the moment you put it on. With its classic fit and durable construction, it is designed to be a reliable staple in your wardrobe for years to come. 🧵 Key Features: Premium U.S. Cotton: Crafted from 6 oz./yd² (100% cotton) for superior quality and durability. Remastered Comfort: Features the latest soft cotton technology for a feel you can see and feel. Classic Fit & Construction: Designed with a bound neck and armholes for a clean, sturdy silhouette. Eco-Conscious Manufacturing: Proud member of the U.S. Cotton Trust Protocol and made with OEKO-TEX  low-impact dyes. Convenience & Durability: Includes a tear away label and is proudly manufactured in the United States. Note: Please allow for a 1-2 inch difference in manual measurements. Print size and color may vary slightly due to monitor and lighting effects. ✅ Why You’ll Love It: Because history is best celebrated with quality that lasts as long as the nation’s legacy. ✅ Grab Yours Now: Commemorate the quarter-millennium in style with the USA 250th Anniversary Tank Top — where heritage meets modern comfort. - Patriotictreasures
-  Updated: 2026-10-28T09:38:10Z
+  Updated: 2026-11-22T00:14:26Z
   Vendor: Pasimax
   Product Type: Tank Top
   Availability: Available
@@ -1590,7 +1590,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/3_829b9b6b-e612-4944-9085-0f7dd55b9b73.jpg?v=1791940959
     Price: $40.50 USD
 - ["Stars and Stripes and Human Rights" T-Shirt – America 250th Anniversary Social Justice Patriotic Graphic Tee - Patriotictreasures](https://www.patriotictreasures.shop/products/stars-and-stripes-and-human-rights-t-shirt-america-250th-anniversary-social-justice-patriotic-graphic-tee): The Anthem of Progressive Liberty – A Tribute to 250 Years of History, Endless Evolution, and Unapologetic Social Justice 🇺🇸🗽✊🏽🏳️🌈🔥 Let’s be completely honest: celebrating the United States turning 250 years old demands a look that honors the core promises of freedom, equality, and the continuous fight for a more perfect union. Our "Stars and Stripes and Human Rights" Semiquincentennial Graphic Tee takes America’s monumental landmark anniversary and frames it through a powerful, high-visibility lens of modern social justice. Fusing an iconic star-spangled design with a bold, uncompromising message about our ongoing pursuit of human dignity, this premium unisex shirt is built for the expressive advocate who has officially retired from "boring, plain everyday basics" and is ready to sport their principles with absolute confidence. Whether you're engaging in a community holiday forum, attending an intersectional Independence Day rally, or styling a meaningful, head-turning streetwear outfit for a casual weekend city link-up, this shirt ensures your deep-rooted commitment to equality is perfectly on brand. This piece is essential Progressive Patriotic Apparel & Commedic Advocacy Wear, providing a structured fit and remastered softness that easily handles hot July afternoons, intense community organization, and endless trips through the laundry. It stands as a legendary, high-quality 250th Anniversary Gift for Activists, Unique 4th of July Social Justice Present, Human Rights Advocate Statement Clothing Piece, or Conscious Freedom Day Uniform, a distinct addition to your graphic drawer that proves the fight for true equality is beautifully permanent. 🧵 Key Features: Premium Quality: 5.3 oz./yd² (US) / 8.8 oz./L yd (CA) midweight fabric. Remastered Comfort: Made with 100% U.S. cotton and the latest breakthrough in soft cotton technology for a quality you can see and feel. Material Blends: Heather, Neon, and Safety colors are 50/50 cotton/polyester; Antique colors are 90/10; Ash Grey is 99/1. High-Visibility Safety: Safety Green is compliant with ANSI / ISEA 107 high-visibility standards. Durable Construction: Features a classic fit with a rib collar and taped neck/shoulders for lasting comfort and durability. Seamless Finish: Includes a convenient tear-away label for an irritation-free experience. Advanced Printing: Remastered for improved printability using high-quality DTG or DTF technology depending on location. Made in the USA: Proudly manufactured in the United States. Note: Manual measurement may exist a 1-2 inch difference. Note: Actual print color and size may vary slightly due to monitor effects and geographic size. ✅ Why You’ll Love It: It features a High-Resolution Distressed American Flag Motif & Modern Clean Typography Layout and a Remastered Midweight Texture, making it a durable, breathable, and essential piece of Aesthetic Advocacy Streetwear Fashion. - Patriotictreasures
-  Updated: 2026-10-28T09:38:14Z
+  Updated: 2026-11-22T00:14:27Z
   Vendor: Pasimax
   Product Type: T-Shirt
   Availability: Available
@@ -1716,7 +1716,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/65412ddecd2e4ae68db765b9c56f8ba8_tplv-fhlh96nyum-crop-webp_3000_3000.webp?v=1791241878
     Price: $30.50 USD
 - [Kindergarten Graduation T-Shirt – "Look Out 1st Grade Here I Come" Kids Last Day Of School Graphic Tee - Patriotictreasures](https://www.patriotictreasures.shop/products/kindergarten-graduation-t-shirt-look-out-1st-grade-here-i-come-kids-last-day-of-school-graphic-tee): Next Stop: First Grade! – A Tribute to Big Milestones and Playground Legends 🎓🎒✏️ The ABCs are mastered, the juice boxes have been cleared, and the class of 2026 is officially moving on to bigger and better things. Our "Look Out 1st Grade Here I Come" Kids Graduation Tee is a bright, high-energy monument to your little scholar's very first academic milestone. Featuring a playful, colorful typographic layout styled with a vibrant mix of schoolhouse elements, this unisex kids' shirt is for the little graduate who has officially retired from "the finger-painting era" and is ready to take on the elementary big leagues in style. Whether they're walking across the stage at their kindergarten graduation ceremony, flashing a toothless grin for the classic "Last Day of School" driveway photoshoot, or celebrating with ice cream alongside proud grandparents, this shirt ensures their milestone moment is perfectly on brand. This piece is essential Kindergarten Graduation Apparel & Last Day of School Fashion, providing a structured fit and remastered softness that keeps up with recess running, summer camp adventures, and endless trips through the laundry. It makes a legendary, high-quality Gift for Kindergarten Graduates, Proud Sons, Daughters, and Grandchildren, a standout addition to their milestone memory box, or a personal statement piece that proves they are officially ready for the first-grade spotlight. 🧵 Key Features: Premium Quality: 5.3 oz./yd² (US) / 8.8 oz./L yd (CA) midweight fabric. Remastered Comfort: Made with 100% U.S. cotton and the latest breakthrough in soft cotton technology for a quality you can see and feel. Material Blends: Heather, Neon, and Safety colors are 50/50 cotton/polyester; Antique colors are 90/10; Ash Grey is 99/1. High-Visibility Safety: Safety Green is compliant with ANSI / ISEA 107 high-visibility standards. Durable Construction: Features a classic fit with a rib collar and taped neck/shoulders for lasting comfort and durability. Seamless Finish: Includes a convenient tear-away label for an irritation-free experience. Advanced Printing: Remastered for improved printability using high-quality DTG or DTF technology depending on location. Made in the USA: Proudly manufactured in the United States. Note: Manual measurement may exist a 1-2 inch difference. Note: Actual print color and size may vary slightly due to monitor effects and garment size. ✅ Why You’ll Love It: It features a High-Resolution Playful Elementary Typography Layout and a Remastered Midweight Texture, making it a durable, breathable, and essential piece of Aesthetic Childhood Milestone Fashion. - Patriotictreasures
-  Updated: 2026-10-28T09:38:08Z
+  Updated: 2026-11-22T00:14:27Z
   Vendor: Pasimax
   Product Type: T-Shirt
   Availability: Available
@@ -1872,7 +1872,7 @@
     Availability: Available
     Price: $22.50 USD
 - [Spicy Brain Skull T-Shirt – Funny Neurospicy Mental Health Graphic Tee, Vintage Washed Edgy Skeleton Lightweight Cotton Meme Top - Patriotictreasures](https://www.patriotictreasures.shop/products/spicy-brain-skull-t-shirt-funny-neurospicy-mental-health-graphic-tee-vintage-washed-edgy-skeleton-lightweight-cotton-meme-top): 🧠🌶️ "Too many tabs open. Brain operating at maximum spice level." Own your mental chaos with pride in the "Spicy Brain" Skull Vintage Washed Tee. Serving up the perfect blend of dark humor and relatable internet culture, this shirt is a salute to everyone navigating life with a hyperactive, beautifully unconventional mind. Whether you're fueling an overnight hyperfixation, heading to a casual hangout, or just need a funny warning label for your mood, this tee says it all so you don't have to. The centerpiece features a high-impact 2D graphic design of a retro skull with glowing neon-spicy brain pathways exposed, surrounded by gritty, vaporwave-inspired or Y2K-style accent lines. The entire print is purposefully distressed to blend seamlessly with the premium vintage wash finish, giving the fabric a smoky, mineral-faded, "heritage-worn" texture. This specialized washing process ensures your tee looks like a prized rock band grail straight out of the thrift store, while delivering an ultra-soft, lived-in feel from day one. Crafted from breathable, lightweight cotton, this tee provides a premium, relaxed fit. Its structured but loose silhouette pairs flawlessly with ripped jeans, oversized zip-up hoodies, or utility cargo pants for a classic grunge look. It’s not broken—it’s just spicy. Wear it with pride. 🧵 Key Features: 9 Vibrant Color Options: Available in 9 rich and trendy colors, allowing you to choose the perfect shade for any style or occasion. Stylish 2D Design: Features a modern 2D graphic design, perfect for fashion-forward individuals who want a unique, artistic look. Breathable and Lightweight: The cotton blend fabric is breathable, lightweight, and ideal for year-round wear, keeping you cool in warmer weather and comfortable during layering in cooler months. Versatile and Easy to Style: A classic t-shirt that pairs well with jeans, shorts, skirts, or jackets, making it a versatile piece for any wardrobe. Great for Everyday Wear: The comfortable and stylish design makes this t-shirt perfect for daily use, casual outings, or even relaxed office days. Note: Please allow for a 1-2 inch difference in manual measurements. Print size and color may vary slightly. ✅ Why You’ll Love It: Because awareness apparel doesn't have to be boring. This graphic flips standard mental health relatability into a genuinely cool piece of alternative street fashion. The premium acid-wash finish perfectly complements the edgy skeleton aesthetic, giving you a boutique-level statement piece that is both funny and undeniably stylish. ✅ Grab Yours Now: Keep your thoughts running in style. Secure your "Spicy Brain" Skull Washed Tee and rock your unique vibe today! - Patriotictreasures
-  Updated: 2026-10-28T09:38:12Z
+  Updated: 2026-11-22T00:14:27Z
   Vendor: Pasimax
   Product Type: T-Shirt
   Availability: Available
@@ -2032,88 +2032,88 @@
 ## Collections
 
 - [Elevate Your Home Experience - Transform Your Living Space](https://www.patriotictreasures.shop/collections/frontpage): Elevate your home experience with our curated collection. Transform your living space into a cozy, stylish sanctuary that reflects your unique taste.
-  Updated: 2026-10-03T02:20:49Z
+  Updated: 2026-11-22T00:14:05Z
   Total Products: 1
 - [Heartfelt Surprises: Our Sister Gift Collection](https://www.patriotictreasures.shop/collections/to-my-sister): Explore our Sister Gift Collection for heartfelt surprises that celebrate your bond. Thoughtful gifts for every occasion she’ll cherish forever.
-  Updated: 2026-10-03T02:20:49Z
+  Updated: 2026-11-22T00:14:05Z
   Total Products: 3
 - [Timeless Treasures: Gifts for Your Soulmate](https://www.patriotictreasures.shop/collections/to-my-soulmate): Explore our Timeless Treasures collection for gifts for your soulmate. Perfect for any occasion, each item expresses love and creates lasting memories.
-  Updated: 2026-10-17T23:02:32Z
+  Updated: 2026-11-22T00:14:05Z
   Total Products: 4
 - [Thoughtful Gifts for My Wife: Cherishing Love in Every Detail](https://www.patriotictreasures.shop/collections/to-my-wife): Discover Thoughtful Gifts for My Wife that deepen your connection. Explore unique, personalized treasures designed to celebrate your love story effortlessly.
-  Updated: 2026-10-27T00:42:54Z
+  Updated: 2026-11-22T00:14:05Z
   Total Products: 10
 - [Meaningful Gifts for Dad: Celebrate His Unforgettable Moments](https://www.patriotictreasures.shop/collections/to-my-dad): Discover meaningful gifts for dad that celebrate his unique journey. Show appreciation with lasting memories. Perfect for every occasion!
-  Updated: 2026-10-18T01:55:24Z
+  Updated: 2026-11-24T12:40:28Z
   Total Products: 54
 - [Sentimental Gifts for Mom: Heartfelt Treasures She'll Cherish](https://www.patriotictreasures.shop/collections/to-my-mom): Explore our sentimental gifts for mom, perfect for creating cherished memories. Find heartfelt treasures that express your love and strengthen your bond!
-  Updated: 2026-10-05T23:12:51Z
+  Updated: 2026-11-22T00:14:05Z
   Total Products: 14
 - [Meaningful Gifts for Daughters That Celebrate Your Bond](https://www.patriotictreasures.shop/collections/to-my-daughter): 43 sentimental gifts for daughters from moms: necklaces from $59.95, plaques from $39.95, journals from $29.95. Free US shipping over $100, 90-day returns.
-  Updated: 2026-10-18T01:45:09Z
+  Updated: 2026-11-22T00:14:06Z
   Total Products: 44
 - [Thoughtful Gifts for Granddaughters: Create Lasting Memories](https://www.patriotictreasures.shop/collections/to-my-granddaughter): Explore thoughtful gifts for granddaughters that celebrate her spirit and create lasting memories. Find the perfect treasure today!
-  Updated: 2026-10-03T21:09:23Z
+  Updated: 2026-11-22T00:14:06Z
   Total Products: 5
 - [Heartfelt Gifts for Your Son: Cherish Your Bond](https://www.patriotictreasures.shop/collections/to-my-son): Explore heartfelt gifts for your son to celebrate your special bond. Perfect for any occasion, these unique treasures express love and appreciation.
-  Updated: 2026-10-17T23:10:17Z
+  Updated: 2026-11-22T00:14:06Z
   Total Products: 27
 - [Elegant Acrylic Plaques: Elevate Your Space with Style](https://www.patriotictreasures.shop/collections/acrylic-plaques): Discover our Elegant Acrylic Plaques that enhance your space with style and sophistication. Perfect for any setting, shop now for design and durability!
-  Updated: 2026-10-11T02:55:12Z
+  Updated: 2026-11-22T00:14:06Z
   Total Products: 24
 - [Discover Cozy and Stylish Blankets for Every Occasion](https://www.patriotictreasures.shop/collections/blankets): Explore our cozy and stylish blankets that elevate comfort and elegance in any space. Perfect for every occasion—curl up in luxury today!
-  Updated: 2026-10-03T02:20:50Z
+  Updated: 2026-11-22T00:14:06Z
   Total Products: 6
 - [Stylish Bracelets for Every Occasion](https://www.patriotictreasures.shop/collections/bracelets): Explore our Stylish Bracelets for Every Occasion. Elevate your look with versatile designs perfect for any setting. Shop now to find your statement piece!
-  Updated: 2026-10-03T02:20:50Z
+  Updated: 2026-11-22T00:14:06Z
   Total Products: 9
 - [Elevate Your Style with Our Personalized Name Necklaces](https://www.patriotictreasures.shop/collections/name-necklace): Elevate your style with our stunning personalized name necklaces, crafted to celebrate your individuality and add elegance to any look. Discover yours today!
-  Updated: 2026-10-03T02:20:50Z
+  Updated: 2026-11-22T00:14:06Z
   Total Products: 3
 - [Discover Timeless Elegance: Men's Luxury Watches Collection](https://www.patriotictreasures.shop/collections/mens-watch): Discover elegance with our Men's Luxury Watches collection. Elevate your style with exquisite designs and unmatched durability—because you deserve timeless sophistication.
-  Updated: 2026-10-03T02:20:50Z
+  Updated: 2026-11-22T00:14:06Z
   Total Products: 8
 - [Inspiring Journal Collection: Unlock Your Creativity and Reflect](https://www.patriotictreasures.shop/collections/journal): Explore our Inspiring Journal Collection to unlock creativity and reflection. Perfect for every occasion, these journals empower your thoughts and dreams.
-  Updated: 2026-10-11T02:57:42Z
+  Updated: 2026-11-22T00:14:06Z
   Total Products: 13
 - [Illuminate Your Space with Our Acrylic Heart Block Collection](https://www.patriotictreasures.shop/collections/acrylic-heart-block): Brighten your home with our Acrylic Heart Block Collection. Perfect for decor or gifts, these stunning pieces capture light and love beautifully.
-  Updated: 2026-10-11T02:55:43Z
+  Updated: 2026-11-22T00:14:06Z
   Total Products: 4
 - [Elevate Your Gifting Experience with Our Rotating Rose Gift Box](https://www.patriotictreasures.shop/collections/rotating-rose-gift-box): Discover our Rotating Rose Gift Box collection, where elegance meets enchantment. Perfect for any occasion, create unforgettable memories with every gift.
-  Updated: 2026-10-03T02:20:50Z
+  Updated: 2026-11-22T00:14:06Z
   Total Products: 2
 - [Patriotic Apparel & Clothing](https://www.patriotictreasures.shop/collections/patriotic-apparel-1): Shop patriotic clothing and American pride T-shirts featuring flag graphics, military-inspired designs, and freedom-focused messages at Patriotictreasures.
-  Updated: 2026-11-01T01:42:20Z
+  Updated: 2026-11-22T00:14:06Z
   Total Products: 247
 - [Military Pride](https://www.patriotictreasures.shop/collections/military-pride): Shop Military Pride products honoring U.S. Armed Forces veterans and active duty. Gifts, apparel, and more.
-  Updated: 2026-10-18T01:24:55Z
+  Updated: 2026-11-22T00:14:06Z
   Total Products: 1
 - [First Responders](https://www.patriotictreasures.shop/collections/first-responders): Shop patriotic gifts and gear for police officers, firefighters, EMTs, and first responders. Show your support and gratitude.
-  Updated: 2026-11-01T01:54:50Z
+  Updated: 2026-11-22T00:14:06Z
   Total Products: 1
 - [Faith & Freedom](https://www.patriotictreasures.shop/collections/faith-freedom): Shop faith-inspired and freedom-themed patriotic gifts, apparel, and décor celebrating God and country. Perfect for Christians who love America.
-  Updated: 2026-10-18T01:26:58Z
+  Updated: 2026-11-22T00:14:06Z
   Total Products: 3
 - [Mugs & Drinkware](https://www.patriotictreasures.shop/collections/mugs-drinkware): Shop patriotic mugs, tumblers, and drinkware featuring American flag and military designs. Perfect gifts for coffee lovers who love America.
-  Updated: 2026-10-18T01:29:42Z
+  Updated: 2026-11-22T00:14:06Z
   Total Products: 7
 - [Home Décor](https://www.patriotictreasures.shop/collections/home-decor): Shop patriotic home décor including American flag wall art, signs, pillows, and Americana accents. Bring your American pride home.
-  Updated: 2026-10-07T01:30:27Z
+  Updated: 2026-11-22T00:14:06Z
   Total Products: 2
 - [Gift Ideas](https://www.patriotictreasures.shop/collections/gift-ideas): Find the perfect patriotic gift for any occasion. Shop American flag gifts, military pride, faith and freedom items, and more at Patriotic Treasures.
-  Updated: 2026-10-18T03:54:18Z
+  Updated: 2026-11-22T00:14:07Z
   Total Products: 70
 - [Hunting & Outdoors](https://www.patriotictreasures.shop/collections/hunting-outdoors): Explore hunting, fishing, and camping shirts, mugs, and accessories inspired by the American outdoors. Find gear for your next adventure.
-  Updated: 2026-10-23T23:38:12Z
+  Updated: 2026-11-22T00:14:07Z
   Total Products: 37
 - [Decals](https://www.patriotictreasures.shop/collections/decals): - Patriotictreasures
-  Updated: 2026-11-01T01:03:20Z
+  Updated: 2026-11-24T12:40:28Z
   Total Products: 71
 - [2nd Amendment](https://www.patriotictreasures.shop/collections/2a): - Patriotictreasures
-  Updated: 2026-10-23T23:30:30Z
+  Updated: 2026-11-22T00:14:07Z
   Total Products: 74
 - [GENX](https://www.patriotictreasures.shop/collections/genx): All GENX products
-  Updated: 2026-11-01T01:16:56Z
+  Updated: 2026-11-22T00:14:07Z
   Total Products: 12
 
 ## Blogs
@@ -2201,11 +2201,23 @@
     Updated: 2026-11-16T06:02:09Z
     Author: Patriotictreasures
     Tags: best t-shirt ideas, bucking dad, fashion, outfit inspiration, pride, rocking dad look, style guide, t-shirt
+  - [Why Every Adventurer Should Own the All Faster than Dialing 911 Pocket Tee](https://www.patriotictreasures.shop/blogs/news/why-every-adventurer-should-own-the-all-faster-than-dialing-911-pocket-tee): Why Every Adventurer Should Own the All Faster than Dialing 911 Pocket Tee
+    Updated: 2026-11-20T06:00:36Z
+    Author: Patriotictreasures
+    Tags: adventure, best gear for adventurers, emergency clothing, gear, outdoor apparel, pocket tee, safety essentials for adventurers, tee
+  - [Understanding the Appeal of the Well Sheeyit Decal in Contemporary Design](https://www.patriotictreasures.shop/blogs/news/understanding-the-appeal-of-the-well-sheeyit-decal-in-contemporary-design): Understanding the Appeal of the Well Sheeyit Decal in Contemporary Design
+    Updated: 2026-11-22T06:01:32Z
+    Author: Patriotictreasures
+    Tags: aesthetic wall decals, art trends, contemporary, decals, design, graphic design, home decor, modern interior decoration
+  - [The Rise of Customization: How Raised Right Decals Make a Powerful Personal Statement](https://www.patriotictreasures.shop/blogs/news/the-rise-of-customization-how-raised-right-decals-make-a-powerful-personal-statement): The Rise of Customization: How Raised Right Decals Make a Powerful Personal Statement
+    Updated: 2026-11-23T06:02:46Z
+    Author: Patriotictreasures
+    Tags: custom decals, customization, decals, personal, personalized decor, powerful statement, raised right, unique wall art
 
 ## Store Pages
 
 - [Contact Patriotic Treasures | Customer Support](https://www.patriotictreasures.shop/pages/contact): Contact Us to Elevate Your Experience Looking to get in touch? Our Contact page is your gateway to exceptional support and personalized service. Wh...
-  Updated: 2026-10-17T19:03:23Z
+  Updated: 2026-11-22T00:41:51Z
 - [Privacy Choices | Patriotic Treasures](https://www.patriotictreasures.shop/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-10-17T19:03:23Z
 - [About Patriotic Treasures | Gifts & American Pride](https://www.patriotictreasures.shop/pages/about-us): About Us: Your Trusted Source for Quality ProductsWelcome to our About Us page, your trusted source for quality products that can elevate your life...
