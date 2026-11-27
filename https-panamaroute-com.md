@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-04-23T15:52:29Z
 - Contact Email: stefano@panamaroute.com
-- Updated At: 2026-11-19T01:19:36.146Z
+- Updated At: 2026-11-27T00:56:38.815Z
 
 ## Products
 
@@ -1299,7 +1299,7 @@
     Availability: Not Available
     Price: 176,00 € EUR
 - [JEFF 06T Gardenia](https://panamaroute.com/products/jeff-06t-gardenia): Felpa girocollo con maniche raglan
-  Updated: 2026-10-16T17:30:28Z
+  Updated: 2026-11-21T10:27:35Z
   Vendor: Panama Route
   Product Type: 
   Availability: Available
@@ -1314,7 +1314,7 @@
     Availability: Available
     Price: 159,00 € EUR
   - [L](https://panamaroute.com/products/jeff-06t-gardenia?variant=58671151939848)
-    Availability: Available
+    Availability: Not Available
     Price: 159,00 € EUR
   - [XL](https://panamaroute.com/products/jeff-06t-gardenia?variant=58671151972616)
     Availability: Available
@@ -1917,7 +1917,7 @@
   Updated: 2026-10-23T11:35:57Z
   Total Products: 30
 - [Cardigan](https://panamaroute.com/collections/cardigan)
-  Updated: 2026-11-17T12:38:06Z
+  Updated: 2026-11-21T12:30:02Z
   Total Products: 10
 - [Accessori](https://panamaroute.com/collections/accessori)
   Updated: 2026-02-24T10:07:50Z
@@ -1929,13 +1929,13 @@
   Updated: 2026-07-18T08:57:00Z
   Total Products: 17
 - [Shop](https://panamaroute.com/collections/shop)
-  Updated: 2026-11-17T12:38:06Z
+  Updated: 2026-11-21T12:30:02Z
   Total Products: 115
 - [SS 26](https://panamaroute.com/collections/spring-summer-26)
   Updated: 2026-10-16T11:30:50Z
   Total Products: 55
 - [FW26/27](https://panamaroute.com/collections/fw26-27)
-  Updated: 2026-11-17T12:38:06Z
+  Updated: 2026-11-21T12:30:02Z
   Total Products: 23
 
 ## Store Pages
@@ -1954,7 +1954,7 @@
 ## Policies
 
 - [Privacy Policy](https://panamaroute.com/policies/privacy-policy)
-  Updated: 2026-11-01T07:05:33Z
+  Updated: 2026-11-26T14:33:10Z
 - [Shipping Policy](https://panamaroute.com/policies/shipping-policy)
   Updated: 2026-11-05T04:44:36Z
 - [Refund Policy](https://panamaroute.com/policies/refund-policy)
