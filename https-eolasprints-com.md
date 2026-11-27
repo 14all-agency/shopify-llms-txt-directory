@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2026-11-20T00:53:17.440Z
+- Updated At: 2026-11-27T00:57:21.097Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -37,7 +37,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
 ## Products
 
 - [PLA Ingeo 850 Filament - Heat-Resistant](https://eolasprints.com/products/pla-ingeo-850-filament): PLA Ingeo 850 filament reaches 85°C+ heat resistance after annealing - an ABS alternative with PLA ease of printing. Made in Spain under ISO standards.
-  Updated: 2026-11-18T11:09:24Z
+  Updated: 2026-11-24T19:54:00Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -97,7 +97,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-ingeo-870-filament-white-football-helmet-1-75-mm-1-kg-372.webp?v=1782995466
     Price: €30.50 EUR
 - [PLA Filament 1.75mm - 20+ Colours](https://eolasprints.com/products/pla-filament-1-75-mm): Premium PLA filament 1.75mm in 20+ colours. Easy to print, food-safe, ±0.05mm tolerance. ISO & REACH , made in Spain. Next-day delivery in Spain.
-  Updated: 2026-11-19T16:24:57Z
+  Updated: 2026-11-26T14:20:52Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -127,7 +127,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-filament-1-75-mm-bright-orange-3d-printed-1-kg-241.webp?v=1782976552
     Price: €19.90 EUR
   - [1.75 mm / 1 Kg / Cyan](https://eolasprints.com/products/pla-filament-1-75-mm?variant=42329912148227)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-filament-1-75-mm-blue-3d-printed-boots-1-kg-cyan-783.webp?v=1782976356
     Price: €19.90 EUR
   - [1.75 mm / 1 Kg / Mint](https://eolasprints.com/products/pla-filament-1-75-mm?variant=42329912410371)
@@ -215,11 +215,11 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-filament-1-75-mm-3d-printed-perforated-boots-1-kg-grey-382.webp?v=1782976464
     Price: €117.50 EUR
   - [1.75 mm / 5 Kg / Natural](https://eolasprints.com/products/pla-filament-1-75-mm?variant=42329914179843)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-filament-1-75-mm-pair-cream-colored-boots-1-kg-natural-737.webp?v=1782976611
     Price: €117.50 EUR
   - [1.75 mm / 5 Kg / Black](https://eolasprints.com/products/pla-filament-1-75-mm?variant=42329911853315)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-filament-1-75-mm-3d-printed-black-boot-1-kg-843.webp?v=1782976339
     Price: €117.50 EUR
   - [1.75 mm / 5 Kg / White](https://eolasprints.com/products/pla-filament-1-75-mm?variant=42329912738051)
@@ -390,7 +390,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-transition-filament-pair-3d-printed-boots-1-75-mm-1-kg-960.webp?v=1782995524
     Price: €13.90 EUR
 - [PETG Filament - Strong & Food-Safe](https://eolasprints.com/products/petg-filament): PETG filament: strong, water- and chemical-resistant, food-contact . For functional and outdoor parts. ISO & REACH , made in Spain.
-  Updated: 2026-11-18T11:10:12Z
+  Updated: 2026-11-24T10:03:37Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -416,7 +416,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-filament-spool-3d-printer-1-75-mm-1-kg-natural-618.webp?v=1782976360
     Price: €25.50 EUR
   - [1.75 mm / 1 Kg / Cyan](https://eolasprints.com/products/petg-filament?variant=42324525809923)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-filament-spool-blue-3d-1-75-mm-1-kg-cyan-495.webp?v=1782976289
     Price: €25.50 EUR
   - [1.75 mm / 1 Kg / Green](https://eolasprints.com/products/petg-filament?variant=48672674709831)
@@ -718,17 +718,17 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-transition-filament-spool-blue-3d-1-75-mm-250-g-329.webp?v=1782995491
     Price: €17.40 EUR
 - [PLA Pellets for 3D Printing | Virgin, Bulk Supply](https://eolasprints.com/products/pla-pellets): Virgin PLA pellets for pellet-fed 3D printers, FGF and moulding. Food-contact-safe raw material in bulk, shipped worldwide from Spain.
-  Updated: 2026-11-14T07:48:26Z
+  Updated: 2026-11-25T18:12:26Z
   Vendor: Eolas Prints
   Product Type: Pellets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-pellets-white-sphere-subtle-500-g-628.webp?v=1783474664
   Price: €10.99 EUR
 - [TPU Pellets for 3D Printing | Virgin 93A, Bulk](https://eolasprints.com/products/tpu-pellets): Virgin flexible TPU pellets (Shore 93A) for pellet-fed 3D printers and bulk flexible parts. Skin-safe raw material, shipped worldwide from Spain.
-  Updated: 2026-11-14T07:48:25Z
+  Updated: 2026-11-24T17:15:17Z
   Vendor: Eolas Prints
   Product Type: Pellets
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-pellets-white-circular-disc-500-g-182.webp?v=1783474671
   Price: €18.90 EUR
 - [PETG Pellets for 3D Printing | Virgin, Bulk Supply](https://eolasprints.com/products/petg-pellets): Virgin PETG pellets for pellet-fed 3D printers, FGF and moulding. Strong, clear, food-contact-safe raw material in bulk, shipped worldwide from Spain.
@@ -1135,17 +1135,17 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/flashforge-adventurer-5m-3d-printer-digital-379.webp?v=1783474876
   Price: €299.00 EUR
 - [TPU Flexible Filament - Shore D53](https://eolasprints.com/products/tpu-flex-filament-shore-d53): Semi-rigid TPU filament, Shore D53, for parts needing flexibility plus structural strength - hinges, clips and functional prototypes. Made in Spain.
-  Updated: 2026-11-18T11:09:28Z
+  Updated: 2026-11-26T12:44:08Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-d53-spool-black-3d-1-75-mm-1-kg-928.webp?v=1782995582
   - [1.75 mm / 1 Kg / Black](https://eolasprints.com/products/tpu-flex-filament-shore-d53?variant=49637563433287)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-d53-spool-black-3d-1-75-mm-1-kg-928.webp?v=1782995582
     Price: €38.50 EUR
   - [1.75 mm / 1 Kg / White](https://eolasprints.com/products/tpu-flex-filament-shore-d53?variant=49880647041351)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-d53-3d-printer-1-75-mm-1-kg-white-858.webp?v=1782995594
     Price: €38.50 EUR
   - [1.75 mm / 1 Kg / Grey](https://eolasprints.com/products/tpu-flex-filament-shore-d53?variant=49641460760903)
@@ -1153,11 +1153,11 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-d53-3d-printer-1-75-mm-1-kg-grey-553.webp?v=1782995609
     Price: €38.50 EUR
   - [2.85 mm / 1 Kg / Black](https://eolasprints.com/products/tpu-flex-filament-shore-d53?variant=49637563466055)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-d53-spool-black-3d-1-75-mm-1-kg-928.webp?v=1782995582
     Price: €38.50 EUR
 - [Antibacterial PLA Filament - ISO 22196](https://eolasprints.com/products/pla-antibacterial-filament): Antibacterial PLA filament, ISO 22196  - 99.9% more hygienic surfaces for handles, , toys and food aids. Made in Spain.
-  Updated: 2026-11-18T11:09:29Z
+  Updated: 2026-11-24T16:36:10Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1178,7 +1178,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/flashforge-adventurer-5m-pro-3d-printer-digital-848.webp?v=1783474894
   Price: €499.00 EUR
 - [Prusa XL+ Tool-Changer 3D Printer](https://eolasprints.com/products/original-prusa-xl-fully-assembled): Prusa XL+: large-format CoreXY toolchanger with up to 5 toolheads, automatic tool offset sensor, nozzle wiper and GT1.5 belts. 360×360×360mm. Authorised reseller, from Spain.
-  Updated: 2026-11-14T07:49:05Z
+  Updated: 2026-11-23T03:23:01Z
   Vendor: Prusa Research
   Product Type: 3D Printer
   Availability: Available
@@ -1203,12 +1203,12 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/magigoo-pro-flex-the-3d-printing-adhesive-for-flexible-materials-670.webp?v=1783474902
   Price: €25.41 EUR
 - [Bambu Lab P1S Combo with AMS – Buy in Spain](https://eolasprints.com/products/bambu-lab-p1s-combo): Buy the Bambu Lab P1S Combo with AMS for multi-colour printing: enclosed CoreXY, 256³ mm, 500 mm/s. Ships from Spain with local support.
-  Updated: 2026-11-19T14:59:33Z
+  Updated: 2026-11-26T15:55:57Z
   Vendor: Bambu Lab
   Product Type: 3D Printer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-p1s-combo-3d-printer-colorful-279.webp?v=1783474917
-  Price: €653.99 EUR
+  Price: €645.99 EUR
 - [Prusa CORE One+ (Gen 2) Enclosed CoreXY 3D Printer](https://eolasprints.com/products/prusa-core-one): Prusa CORE One+ (Gen 2): enclosed CoreXY with 55°C active chamber, 250×220×270mm, Nextruder auto-levelling. For ASA, PC and PA-CF. Authorised reseller, from Spain.
   Updated: 2026-11-14T07:49:10Z
   Vendor: Prusa Research
@@ -1222,21 +1222,21 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Availability: Available
     Price: €1,099.00 EUR
 - [Prusa Pro HT90 High-Temp 3D Printer](https://eolasprints.com/products/prusa-pro-ht90): Prusa Pro HT90: 90°C heated chamber for high-temp engineering polymers like PEEK, PEI and PA-CF. Industrial FDM. Authorised Prusa reseller, ships from Spain.
-  Updated: 2026-11-14T07:49:10Z
+  Updated: 2026-11-24T04:08:46Z
   Vendor: Prusa Research
   Product Type: 3D Printer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/prusa-pro-ht90-delta-style-3d-printer-461.webp?v=1783474923
   Price: €12,599.00 EUR
 - [Original Prusa MINI+ with Enclosure Bundle](https://eolasprints.com/products/original-prusa-mini-semi-assembled): Original Prusa MINI+ with official enclosure: 180×180×180mm, 280°C nozzle, Input Shaper, Prusa Connect. Compact FDM printer. Authorised reseller, from Spain.
-  Updated: 2026-11-14T07:49:10Z
+  Updated: 2026-11-23T03:23:03Z
   Vendor: Prusa Research
   Product Type: 3D Printer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/original-prusa-mini-semi-assembled-enclosure-bundle-black-orange-661.webp?v=1783474926
   Price: €549.00 EUR
 - [Original Prusa SL1S SPEED + CW1S Bundle | MSLA Resin Printer](https://eolasprints.com/products/original-prusa-sl1s-speed-3d-printer-cw1s-bundle): Original Prusa SL1S SPEED resin 3D printer with CW1S wash &  station. Fast MSLA, 0.025 mm detail,  industrial resins. Official reseller.
-  Updated: 2026-11-14T07:49:15Z
+  Updated: 2026-11-23T03:23:05Z
   Vendor: Prusa Research
   Product Type: 3D Printer
   Availability: Available
@@ -1272,7 +1272,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/support-for-groundbreaking-carbon-removal-technologies-abstract-158.webp?v=1787943823
   Price: €0.50 EUR
 - [Bambu Lab A1 & A1 Combo | Eolas Prints](https://eolasprints.com/products/bambu-lab-a1): Bambu Lab A1 and A1 Combo with AMS Lite: 4-colour printing, 256³ mm, full auto-calibration. Setup support, shipping worldwide from Spain.
-  Updated: 2026-11-19T14:59:32Z
+  Updated: 2026-11-26T15:55:54Z
   Vendor: Bambu Lab
   Product Type: 3D Printer
   Availability: Available
@@ -1280,11 +1280,11 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   - [A1 Combo](https://eolasprints.com/products/bambu-lab-a1?variant=51817654255943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-a1-3d-printer-multi-filament-combo-528.webp?v=1783474929
-    Price: €431.99 EUR
+    Price: €450.99 EUR
   - [A1](https://eolasprints.com/products/bambu-lab-a1?variant=51817654223175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-a1-silver-3d-printer-192.webp?v=1783474931
-    Price: €302.99 EUR
+    Price: €316.99 EUR
 - [Flashforge 5M & 5M Pro Nozzles](https://eolasprints.com/products/flashforge-5m-5m-pro-nozzles): Replacement nozzles for Flashforge Adventurer 5M and 5M Pro. Keep print quality sharp with genuine spare nozzles. Ships from Spain.
   Updated: 2026-11-14T07:49:17Z
   Vendor: Flashforge
@@ -1304,14 +1304,14 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Availability: Available
     Price: €36.90 EUR
 - [Flashforge Guider 3 Ultra Large-Format Printer](https://eolasprints.com/products/flashforge-guider-3-ultra): Flashforge Guider 3 Ultra: 330×330×600 mm, dual extruders, 500 mm/s CoreXY, 350°C nozzle, HEPA 13 filtration. For industrial production. Ships from Spain.
-  Updated: 2026-11-18T23:13:12Z
+  Updated: 2026-11-24T04:08:44Z
   Vendor: Flashforge
   Product Type: 3D Printer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/flashforge-guider-3-ultra-black-enclosed-3d-983.webp?v=1783475078
   Price: €4,199.00 EUR
 - [Bambu Lab H2D Dual-Nozzle 3D Printer](https://eolasprints.com/products/bambu-lab-h2d): Bambu Lab H2D: dual-nozzle large-format printer, 350×320×325mm, 350°C nozzle, 65°C chamber, AMS 2 Pro Combo. Ships from Spain with setup support.
-  Updated: 2026-11-16T22:35:31Z
+  Updated: 2026-11-26T15:56:01Z
   Vendor: Bambu Lab
   Product Type: 3D Printer
   Availability: Available
@@ -1319,13 +1319,13 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   - [AMS Combo](https://eolasprints.com/products/bambu-lab-h2d?variant=51947816681799)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-h2d-3d-printer-filament-ams-combo-369.webp?v=1783475088
-    Price: €2,279.99 EUR
+    Price: €2,134.99 EUR
   - [H2D](https://eolasprints.com/products/bambu-lab-h2d?variant=51947816714567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-h2d-enclosed-gray-3d-156.webp?v=1783475093
-    Price: €2,045.99 EUR
+    Price: €1,890.99 EUR
 - [Flashforge AD5X Multi-Colour 3D Printer](https://eolasprints.com/products/flashforge-ad5x-multi-colour): Flashforge AD5X: enclosed dual-filament printer, 600mm/s, 300°C nozzle, automatic filament switching. For dual-colour prints and soluble supports. From Spain.
-  Updated: 2026-11-14T07:49:20Z
+  Updated: 2026-11-22T03:54:27Z
   Vendor: Flashforge
   Product Type: 3D Printer
   Availability: Available
@@ -1410,7 +1410,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Availability: Available
     Price: €1,499.00 EUR
 - [Bambu Lab P2S & P2S Combo | Eolas Prints](https://eolasprints.com/products/bambu-lab-p2s): Bambu Lab P2S and P2S Combo with AMS 2 Pro: enclosed, 600 mm/s, 256³ mm. Setup support, shipping worldwide from Spain.
-  Updated: 2026-11-19T14:59:32Z
+  Updated: 2026-11-26T15:55:58Z
   Vendor: Bambu Lab
   Product Type: 3D Printer
   Availability: Available
@@ -1418,13 +1418,13 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   - [AMS Combo](https://eolasprints.com/products/bambu-lab-p2s?variant=52536709480775)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-p2s-gray-3d-printer-ams-combo-489.webp?v=1783475131
-    Price: €875.99 EUR
+    Price: €852.99 EUR
   - [P2S](https://eolasprints.com/products/bambu-lab-p2s?variant=52536709513543)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-p2s-3d-printer-black-907.webp?v=1783475136
-    Price: €606.99 EUR
+    Price: €633.99 EUR
 - [Bambu Lab H2S Large-Format 3D Printer](https://eolasprints.com/products/bambu-lab-h2s): Bambu Lab H2S: large-format CoreXY, 340×320×340mm, 1000mm/s, 350°C nozzle, 65°C chamber. AMS 2 Pro Combo available. Ships from Spain with setup support.
-  Updated: 2026-11-16T22:35:33Z
+  Updated: 2026-11-26T15:56:00Z
   Vendor: Bambu Lab
   Product Type: 3D Printer
   Availability: Available
@@ -1432,13 +1432,13 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   - [AMS Combo](https://eolasprints.com/products/bambu-lab-h2s?variant=52532987527495)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-h2s-3d-printer-multi-filament-ams-combo-680.webp?v=1783475135
-    Price: €1,635.99 EUR
+    Price: €1,584.99 EUR
   - [H2S](https://eolasprints.com/products/bambu-lab-h2s?variant=52532987560263)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-h2s-sleek-gray-3d-733.webp?v=1783475141
-    Price: €1,343.99 EUR
+    Price: €1,340.99 EUR
 - [xTool P3 80W Flagship CO2 Laser Cutter](https://eolasprints.com/products/xtool-p3-80w-flagship-co2-laser-cutter-with-intelligent-automation): xTool P3: 80W CO2 laser cutter, 700×430mm work area. Cuts basswood 30mm, acrylic 25mm. AI fire detection, built-in CO2 suppression. Ships from Spain.
-  Updated: 2026-11-14T07:49:31Z
+  Updated: 2026-11-21T10:33:48Z
   Vendor: xTool
   Product Type: Laser Engravers and Cutters
   Availability: Available
@@ -1456,42 +1456,42 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-p3-80w-flagship-co2-laser-cutter-with-intelligent-automation-667.webp?v=1783475170
     Price: €10,678.00 EUR
 - [Prusa CORE One L+ Large-Format 3D Printer](https://eolasprints.com/products/prusa-core-one-l): Prusa CORE One L+: 300×300×330mm build volume, 60°C active AC chamber, Nextruder, CoreXY. For large engineering parts and batch production. Authorised reseller.
-  Updated: 2026-11-14T07:49:35Z
+  Updated: 2026-11-23T03:23:03Z
   Vendor: Prusa Research
   Product Type: 3D Printer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/prusa-core-one-l-3d-printer-orange-677.webp?v=1783475146
   Price: €1,899.00 EUR
 - [Original Prusa XL Silicone Toolhead Cover](https://eolasprints.com/products/original-prusa-xl-silicone-printing-toolhead): Original Prusa XL silicone printing toolhead cover for better thermal stability and protection. Genuine Prusa part. Ships from Spain.
-  Updated: 2026-11-14T07:49:35Z
+  Updated: 2026-11-23T03:23:00Z
   Vendor: Prusa Research
   Product Type: 3D Printer Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/original-prusa-xl-silicone-printing-toolhead-3d-printer-extruder-284.webp?v=1783475136
   Price: €999.00 EUR
 - [Prusa HT Hotend Upgrade for CORE One & CORE One L](https://eolasprints.com/products/ht-hotend-upgrade-for-core-one-and-core-one-l): Genuine Prusa HT hotend upgrade for the CORE One, CORE One+ and CORE One L: higher nozzle temperatures for engineering and high-temp filaments.
-  Updated: 2026-11-14T07:49:35Z
+  Updated: 2026-11-23T03:23:01Z
   Vendor: Prusa Research
   Product Type: 3D Printer Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/ht-hotend-upgrade-for-core-one-and-one-l-3d-printer-nozzle-662.webp?v=1783475159
   Price: €269.00 EUR
 - [Prusa Pro SLX Industrial MSLA Resin Printer | Eolas Prints](https://eolasprints.com/products/prusa-pro-slx-msla-3d-printer): Prusa Pro SLX industrial MSLA resin system: SLX printer, WX washer, CX . Heated chamber, 12K, 30 µm, full traceability. Dental, , engineering. Worldwide.
-  Updated: 2026-11-14T07:49:35Z
+  Updated: 2026-11-24T04:08:53Z
   Vendor: Prusa Research
   Product Type: 3D Printer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/prusa-pro-slx-msla-3d-printer-industrial-resin-black-617.webp?v=1783475158
   Price: €30,999.00 EUR
 - [Prusa USS Drybox - Filament Storage](https://eolasprints.com/products/prusa-uss-drybox): Prusa USS Drybox keeps filament dry during storage and printing - prevents moisture defects in PA, PETG and TPU. Genuine Prusa part, ships from Spain.
-  Updated: 2026-11-14T07:49:40Z
+  Updated: 2026-11-24T04:08:45Z
   Vendor: Prusa Research
   Product Type: 3D Printer Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/prusa-uss-drybox-filament-spool-186.webp?v=1783475161
   Price: €39.99 EUR
 - [xTool F2 Dual Laser Engraver - 15W + 5W IR](https://eolasprints.com/products/xtool-f2-5w-ir-15w-diode-portable-dual-laser-engraver): xTool F2: 15W diode + 5W IR galvo laser at 6,000 mm/s. Engrave metals, glass and ceramics with IR; cut wood, leather and acrylic with diode. 400×400mm area.
-  Updated: 2026-11-19T14:59:33Z
+  Updated: 2026-11-21T10:33:54Z
   Vendor: xTool
   Product Type: Laser Engravers and Cutters
   Availability: Available
@@ -1509,7 +1509,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-f2-5w-ir-15w-diode-portable-dual-laser-engraver-orange-3d-477.webp?v=1783475187
     Price: €2,440.00 EUR
 - [3DMakerPro Toucan Compact 3D Scanner](https://eolasprints.com/products/3dmakerpro-toucan-3d-scanner): 3DMakerPro Toucan: compact 3D scanner with 0.02mm accuracy and full-colour texture capture. For small to medium objects. Official distributor, ships from Spain.
-  Updated: 2026-11-14T07:49:40Z
+  Updated: 2026-11-24T04:08:53Z
   Vendor: 3DMakerPro
   Product Type: 3D Scanner
   Availability: Available
@@ -1523,7 +1523,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/3dmakerpro-toucan-3d-scanner-silver-geomagic-lite-premium-750.webp?v=1783475189
     Price: €2,661.00 EUR
 - [3DMakerPro Moose 3D Scanner](https://eolasprints.com/products/3dmakerpro-moose-3d-scanner): 3DMakerPro Moose: 0.05mm accuracy 3D scanner for faces, bodies and medium objects. Eye-safe, full colour. Official distributor, ships from Spain.
-  Updated: 2026-11-14T07:49:41Z
+  Updated: 2026-11-24T04:08:49Z
   Vendor: 3DMakerPro
   Product Type: 3D Scanner
   Availability: Available
@@ -1541,7 +1541,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/3dmakerpro-moose-3d-scanner-sennheiser-maker-luxury-498.webp?v=1783475215
     Price: €1,127.00 EUR
 - [3DMakerPro Moose Lite 3D Scanner](https://eolasprints.com/products/3dmakerpro-moose-lite-3d-scanner): 3DMakerPro Moose Lite: affordable entry 3D scanner with 0.1mm accuracy for makers and hobbyists. Easy to use. Official distributor, ships from Spain.
-  Updated: 2026-11-14T07:49:45Z
+  Updated: 2026-11-23T03:23:01Z
   Vendor: 3DMakerPro
   Product Type: 3D Scanner
   Availability: Available
@@ -1566,14 +1566,14 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/3dmakerpro-seal-3d-scanner-sleek-matte-black-375.webp?v=1768174213
   Price: €791.00 EUR
 - [3DMakerPro Seal Lite 3D Scanner](https://eolasprints.com/products/3dmakerpro-seal-lite-3d-scanner): 3DMakerPro Seal Lite: 0.02mm accuracy blue-light 3D scanner for fine detail on small objects. Full colour. Official distributor, ships from Spain.
-  Updated: 2026-11-14T07:49:45Z
+  Updated: 2026-11-23T03:23:02Z
   Vendor: 3DMakerPro
   Product Type: 3D Scanner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/3dmakerpro-seal-lite-3d-scanner-gray-maker-154.webp?v=1783475229
   Price: €409.00 EUR
 - [3DMakerPro Eagle LIDAR 3D Scanner with RTK](https://eolasprints.com/products/3dmakerpro-eagle-lidar-3d-scanner): 3DMakerPro Eagle: LIDAR 3D scanner with RTK for survey-grade mapping of buildings, sites and large spaces. Official distributor, ships from Spain.
-  Updated: 2026-11-14T07:49:50Z
+  Updated: 2026-11-23T03:23:02Z
   Vendor: 3DMakerPro
   Product Type: 3D Scanner
   Availability: Available
@@ -1623,7 +1623,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/3dmakerpro-whale-3d-scanner-black-360-degree-luxury-420.webp?v=1783475241
     Price: €8,268.00 EUR
 - [xTool F2 Ultra UV 5W Laser Engraver](https://eolasprints.com/products/xtool-f2-ultra-uv-5w-uv-laser-engraver): xTool F2 Ultra UV: first desktop UV laser with 3D inner glass engraving. Cold-process marking on glass, crystal, ceramics and sensitive plastics. From Spain.
-  Updated: 2026-11-14T07:49:55Z
+  Updated: 2026-11-21T10:33:54Z
   Vendor: xTool
   Product Type: Laser Engravers and Cutters
   Availability: Available
@@ -1641,7 +1641,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-f2-ultra-uv-5w-laser-engraver-orange-silver-deluxe-bundle-580.webp?v=1783475245
     Price: €6,080.00 EUR
 - [Bambu Lab X2D Dual-Nozzle 3D Printer – Buy](https://eolasprints.com/products/bambu-lab-x2d): Buy the Bambu Lab X2D: dual-nozzle enclosed printer with 65 °C chamber for ABS, ASA and nylon, 256×256×260 mm. Ships from Spain with setup support.
-  Updated: 2026-11-16T22:35:33Z
+  Updated: 2026-11-26T15:55:59Z
   Vendor: Bambu Lab
   Product Type: 3D Printer
   Availability: Available
@@ -1649,20 +1649,20 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   - [AMS Combo](https://eolasprints.com/products/bambu-lab-x2d?variant=53703408222535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-x2d-black-3d-ams-combo-537.webp?v=1783475233
-    Price: €992.99 EUR
+    Price: €1,035.99 EUR
   - [X2D](https://eolasprints.com/products/bambu-lab-x2d?variant=53703408255303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-x2d-sleek-black-3d-815.webp?v=1783475237
-    Price: €735.99 EUR
+    Price: €767.99 EUR
 - [3DMakerPro Fox Handheld 3D Scanner | Official Reseller](https://eolasprints.com/products/3dmakerpro-fox-3d-scanner): 3DMakerPro Fox handheld 3D scanner: high accuracy and full-colour texture for design and reverse engineering. Official reseller with setup and training support.
-  Updated: 2026-11-14T07:49:56Z
+  Updated: 2026-11-23T03:23:03Z
   Vendor: 3DMakerPro
   Product Type: 3D Scanner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/3dmakerpro-fox-3d-scanner-orange-black-349.webp?v=1783475245
   Price: €289.00 EUR
 - [Raven LiDAR 3D Scanner for Architecture | 3DMakerPro](https://eolasprints.com/products/3dmakerpro-raven-lidar-3d-scanner): 3DMakerPro Raven LiDAR scanner for architecture, surveying and heritage: scans rooms, buildings and sites up to 100 m. Official reseller, ships worldwide.
-  Updated: 2026-11-14T07:49:56Z
+  Updated: 2026-11-23T03:23:04Z
   Vendor: 3DMakerPro
   Product Type: 3D Scanner
   Availability: Available
@@ -1680,7 +1680,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/3dmakerpro-raven-lidar-3d-scanner-gray-dji-optiscan-max-2-cameras-547.webp?v=1783475275
     Price: €3,992.00 EUR
 - [Bambu Lab A2L Large-Format 3D Printer – Buy](https://eolasprints.com/products/bambu-lab-a2l): Buy the Bambu Lab A2L: large-format open-frame 3D printer, 330×320×325 mm, multi-tool blade cutting, full auto-calibration. Ships from Spain with setup support.
-  Updated: 2026-11-19T14:59:31Z
+  Updated: 2026-11-26T15:55:56Z
   Vendor: Bambu Lab
   Product Type: 3D Printer
   Availability: Available
@@ -1688,13 +1688,13 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   - [A2L Combo](https://eolasprints.com/products/bambu-lab-a2l?variant=54054210011463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-a2l-silver-black-desktop-combo-865.webp?v=1783475248
-    Price: €571.99 EUR
+    Price: €596.99 EUR
   - [A2L](https://eolasprints.com/products/bambu-lab-a2l?variant=54054210044231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-a2l-silver-gray-metal-548.webp?v=1783475252
-    Price: €443.99 EUR
+    Price: €462.99 EUR
 - [xTool M2 Color Craft Laser Cutter & Printer | Eolas Prints](https://eolasprints.com/products/xtool-m2-color-craft-laser-cutter-engraver): xTool M2: 10W or 20W laser cutting and engraving plus CMYK inkjet printing for full-colour crafts. Official xTool reseller, ships worldwide.
-  Updated: 2026-11-14T07:50:02Z
+  Updated: 2026-11-21T10:33:53Z
   Vendor: xTool
   Product Type: Laser Engravers and Cutters
   Availability: Available
@@ -1724,14 +1724,14 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-m2-color-craft-laser-cutter-engraver-white-orange-20w-252.webp?v=1783475282
     Price: €1,451.00 EUR
 - [Flashforge Creator 5 Multi-Colour Printer](https://eolasprints.com/products/flashforge-creator-5-high-speed-multi-colour-3d-printer): Flashforge Creator 5: 4 independent toolheads for zero-waste, 600mm/s multi-colour and multi-material 3D printing. Ships from Spain. Authorised distributor.
-  Updated: 2026-11-14T07:50:00Z
+  Updated: 2026-11-24T04:08:53Z
   Vendor: Flashforge
   Product Type: 3D Printer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/flashforge-creator-5-high-speed-multi-colour-3d-printer-gray-981.webp?v=1783475258
   Price: €899.00 EUR
 - [Flashforge Creator 5 Pro Enclosed Printer](https://eolasprints.com/products/flashforge-creator-5-pro-enclosed-industrial-3d-printer): Flashforge Creator 5 Pro: enclosed printer with 4 toolheads, 65°C active chamber and HEPA filtration for engineering materials. Ships from Spain.
-  Updated: 2026-11-14T07:50:02Z
+  Updated: 2026-11-24T04:08:57Z
   Vendor: Flashforge
   Product Type: 3D Printer
   Availability: Available
@@ -1772,7 +1772,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/flashforge-wj51c-desktop-wax-3d-printer-for-jewellery-casting-black-829.webp?v=1783475272
   Price: €44,649.00 EUR
 - [Original Prusa  One Dental SLA 3D Printer | Eolas Prints](https://eolasprints.com/products/original-prusa--one-dental-3d-printer): Original Prusa  One:  dental SLA 3D printer for biocompatible resins. Models, surgical guides, crowns, bridges. Exocad-integrated. With  CW One.
-  Updated: 2026-11-14T07:50:10Z
+  Updated: 2026-11-24T04:08:54Z
   Vendor: Prusa Research
   Product Type: 3D Printer
   Availability: Available
@@ -1817,70 +1817,70 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-o1-omni-uv-printer-desktop-dtf-fabric-edition-versatile-677.webp?v=1784574307
     Price: €4,507.00 EUR
 - [Snapmaker U1 Tool-Changer 3D Printer – Buy](https://eolasprints.com/products/snapmaker-u1): Buy the Snapmaker U1: 4-toolhead tool-changing 3D printer for fast, low-waste multi-colour and multi-material prints. Official reseller, ships from Spain.
-  Updated: 2026-11-19T11:05:45Z
+  Updated: 2026-11-22T03:54:27Z
   Vendor: Snapmaker
   Product Type: 3D Printer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/snapmaker-u1-tool-changer-3d-printer-4-colour-multi-material-white-132.webp?v=1783117694
   Price: €999.00 EUR
 - [ELEGOO Saturn 4 Ultra 16K Resin 3D Printer | Eolas Prints](https://eolasprints.com/products/elegoo-saturn-4-ultra-16k-resin-3d-printer): ELEGOO Saturn 4 Ultra 16K: 10" 16K LCD, 14×19 µm XY, tilt release and heated vat for miniatures, jewellery and dental. Ships worldwide.
-  Updated: 2026-11-14T07:50:10Z
+  Updated: 2026-11-24T04:08:55Z
   Vendor: Elegoo
   Product Type: 3D Printer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/elegoo-saturn-4-ultra-16k-msla-resin-3d-printer-black-silver-231.webp?v=1785839177
   Price: €499.00 EUR
 - [ELEGOO Jupiter 2 Large Resin 3D Printer | Eolas Prints](https://eolasprints.com/products/elegoo-jupiter-2-large-format-resin-3d-printer): ELEGOO Jupiter 2: 14" 16K LCD, 302×162×300 mm build, automatic resin feeding and tilt release for large resin parts. Ships worldwide.
-  Updated: 2026-11-14T07:50:10Z
+  Updated: 2026-11-22T03:54:29Z
   Vendor: Elegoo
   Product Type: 3D Printer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/elegoo-jupiter-2-large-format-msla-resin-3d-printer-sleek-black-812.webp?v=1785839206
   Price: €929.00 EUR
 - [ELEGOO Mars 5 | 4K Resin 3D Printer | Eolas Prints](https://eolasprints.com/products/elegoo-mars-5-resin-3d-printer): ELEGOO Mars 5 MSLA resin 3D printer. 6.6-inch 4K mono LCD, 143×90×150 mm build volume, COB light source, open materials. Miniatures, jewellery and prototypes. Shipped from Spain.
-  Updated: 2026-11-14T07:50:11Z
+  Updated: 2026-11-24T04:08:52Z
   Vendor: Elegoo
   Product Type: 3D Printer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/elegoo-mars-5-msla-resin-3d-printer-05-706.webp?v=1785839416
   Price: €229.00 EUR
 - [ELEGOO Mars 5 Ultra 9K Resin 3D Printer | Eolas Prints](https://eolasprints.com/products/elegoo-mars-5-ultra-resin-3d-printer): ELEGOO Mars 5 Ultra: 7" 9K mono LCD, 150 mm/h, auto-levelling. The compact resin printer for miniatures and detail parts. Ships worldwide.
-  Updated: 2026-11-14T07:50:15Z
+  Updated: 2026-11-24T04:08:51Z
   Vendor: Elegoo
   Product Type: 3D Printer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/elegoo-mars-5-ultra-msla-resin-3d-printer-sleek-black-silver-141.webp?v=1785840748
   Price: €319.00 EUR
 - [ELEGOO Saturn 4 | 12K Resin 3D Printer | Eolas Prints](https://eolasprints.com/products/elegoo-saturn-4-resin-3d-printer): ELEGOO Saturn 4 MSLA resin 3D printer. 10-inch 12K mono LCD, 218.9×122.9×220 mm build volume, COB + Fresnel collimating optics. Shipped worldwide from Spain.
-  Updated: 2026-11-14T07:50:16Z
+  Updated: 2026-11-24T04:08:52Z
   Vendor: Elegoo
   Product Type: 3D Printer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/elegoo-saturn-4-msla-resin-3d-printer-green-transparent-acrylic-735.webp?v=1785840780
   Price: €359.00 EUR
 - [ELEGOO Saturn 4 Ultra | 12K Resin 3D Printer | Eolas Prints](https://eolasprints.com/products/elegoo-saturn-4-ultra-resin-3d-printer): ELEGOO Saturn 4 Ultra MSLA resin 3D printer. 10-inch 12K LCD, Tilt Release, heated resin tank, AI camera and 150 mm/h. Shipped worldwide from Spain.
-  Updated: 2026-11-14T07:50:17Z
+  Updated: 2026-11-24T04:08:53Z
   Vendor: Elegoo
   Product Type: 3D Printer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/elegoo-saturn-4-ultra-msla-resin-3d-printer-black-gray-556.webp?v=1785840975
   Price: €429.00 EUR
 - [ELEGOO Mercury Plus V3.0 Wash &  Station | Eolas Prints](https://eolasprints.com/products/elegoo-mercury-plus-v3-wash-and--station): ELEGOO Mercury Plus V3.0 2-in-1 wash and  station. 7.5 L wash capacity, ø250×290 mm curing, 24 x 405nm UV LEDs, fits build plates up to 10 inches. Shipped from Spain.
-  Updated: 2026-11-14T07:50:15Z
+  Updated: 2026-11-24T04:08:53Z
   Vendor: Elegoo
   Product Type: 3D Printer Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/elegoo-mercury-plus-v3-0-wash--station-orange-tinted-resin-819.webp?v=1785843642
   Price: €154.00 EUR
 - [ELEGOO Mercury XS Bundle Wash &  Station | Eolas Prints](https://eolasprints.com/products/elegoo-mercury-xs-bundle-wash-and--station): ELEGOO Mercury XS Bundle with separate washing and curing stations plus handheld 405nm UV lamp. 7 L sealed tank, ø200×260 mm curing. Shipped worldwide from Spain.
-  Updated: 2026-11-14T07:50:20Z
+  Updated: 2026-11-24T04:08:56Z
   Vendor: Elegoo
   Product Type: 3D Printer Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/elegoo-mercury-xs-bundle-wash--stations-yellow-transparent-948.webp?v=1785843858
   Price: €159.00 EUR
 - [3DMakerpro Turtle | Modular 3D Scanner, 0.01 mm | Eolas Prints](https://eolasprints.com/products/3dmakerpro-turtle-modular-3d-scanner): 3DMakerpro Turtle modular 3D scanner with swappable S, M and L optical modules. 0.01 mm accuracy, 2.3 MP sensor, up to 30 fps. Jewellery, dental, reverse engineering. Shipped from Spain.
-  Updated: 2026-11-14T07:50:25Z
+  Updated: 2026-11-25T02:25:54Z
   Vendor: 3DMakerPro
   Product Type: 3D Scanner
   Availability: Available
@@ -1938,20 +1938,20 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/c3cd8a3256649d5a85b5464f26d0c018.png?v=1789987495
   Price: €4,499.00 EUR
 - [Bambu Lab R1 | 55W CO2 Laser Cutter | Eolas Prints](https://eolasprints.com/products/bambu-lab-r1-55w-co2-laser-cutter): Bambu Lab R1 55W CO2 laser cutter and engraver. 600x300 mm work area, 1000 mm/s, cuts 20 mm acrylic, auto alignment, Class 1 safety. Ships from Spain.
-  Updated: 2026-11-14T07:50:25Z
+  Updated: 2026-11-26T15:56:04Z
   Vendor: Bambu Lab
   Product Type: Laser Engravers and Cutters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/chu-chuang-tu-compressed.jpg?v=1790089535
   - [R1](https://eolasprints.com/products/bambu-lab-r1-55w-co2-laser-cutter?variant=55123583271239)
     Availability: Available
-    Price: €2,922.99 EUR
+    Price: €3,049.99 EUR
   - [R1 Long Material Bundle](https://eolasprints.com/products/bambu-lab-r1-55w-co2-laser-cutter?variant=55123583500615)
     Availability: Available
-    Price: €3,892.99 EUR
+    Price: €4,061.99 EUR
   - [R1 Long Material & Rotary Bundle](https://eolasprints.com/products/bambu-lab-r1-55w-co2-laser-cutter?variant=55123583533383)
     Availability: Available
-    Price: €4,161.99 EUR
+    Price: €4,342.99 EUR
 - [eufyMake E1 3D-Texture UV Printer – Buy](https://eolasprints.com/products/eufymake-e1-3d-texture-uv-printer): Buy the eufyMake E1 UV printer: raised 3D texture up to 5 mm, 1440 DPI, 330×420 mm bed, every bundle with ink included. Official reseller, ships from Spain.
   Updated: 2026-11-14T07:50:30Z
   Vendor: eufyMake
@@ -2018,14 +2018,14 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/eufymake-purifier-p1-with-duct-kit-and-filter.png?v=1792253204
   Price: €699.99 EUR
 - [Prusa CW1S – Resin Wash, Dry and UV  Station](https://eolasprints.com/products/original-prusa-cw1s): Original Prusa CW1S: preheats resin, washes prints in IPA, dries and UV-cures them at 405 nm in one compact unit. Made for the SL1S SPEED. Shipped from Spain.
-  Updated: 2026-11-14T07:50:35Z
+  Updated: 2026-11-23T03:23:05Z
   Vendor: Prusa Research
   Product Type: 3D Printer Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/original-prusa-cw1s-front.jpg?v=1792253948
   Price: €749.00 EUR
 - [Enclosure for Prusa XL+ – 50 °C Chamber with HEPA](https://eolasprints.com/products/prusa-xl-plus-enclosure): Official Prusa enclosure for the XL+: holds up to 50 °C from the heatbed (60 °C with the upcoming heater), HEPA filtration and touchscreen control.
-  Updated: 2026-11-14T07:50:35Z
+  Updated: 2026-11-23T03:23:09Z
   Vendor: Prusa Research
   Product Type: 3D Printer Accessories
   Availability: Available
@@ -2060,7 +2060,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-safetypro-ap2-ap2-max.webp?v=1792254268
     Price: €2,520.00 EUR
 - [Prusa XL+ with Enclosure – Large-Format Toolchanger](https://eolasprints.com/products/prusa-xl-plus-enclosure-bundle): Prusa XL+ toolchanger (1, 2 or 5 heads) bundled with its enclosure: 360×360×360 mm, 50 °C chamber, HEPA filtration. Official Prusa reseller in Spain.
-  Updated: 2026-11-14T07:50:40Z
+  Updated: 2026-11-23T03:23:13Z
   Vendor: Prusa Research
   Product Type: 3D Printer
   Availability: Available
@@ -2075,7 +2075,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Availability: Available
     Price: €4,539.00 EUR
 - [Bambu Lab H2C Vortek Multi-Material 3D Printer | Eolas](https://eolasprints.com/products/bambu-lab-h2c): Bambu Lab H2C with Vortek hotend change: up to 7 materials with minimal purge, 350 °C nozzles and 65 °C chamber. AMS and Laser Combos, shipped from Spain.
-  Updated: 2026-11-17T11:17:28Z
+  Updated: 2026-11-26T15:56:02Z
   Vendor: Bambu Lab
   Product Type: 3D Printer
   Availability: Available
@@ -2083,17 +2083,17 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   - [AMS Combo](https://eolasprints.com/products/bambu-lab-h2c?variant=55457877033287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/H2CC.jpg?v=1792254124
-    Price: €2,471.99 EUR
+    Price: €2,622.99 EUR
   - [Laser Full Combo 10W](https://eolasprints.com/products/bambu-lab-h2c?variant=55457877066055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/H2CL.jpg?v=1792254123
-    Price: €2,931.99 EUR
+    Price: €3,110.99 EUR
   - [Laser Full Combo 40W](https://eolasprints.com/products/bambu-lab-h2c?variant=55457877098823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/H2CL.jpg?v=1792254123
-    Price: €3,391.99 EUR
+    Price: €3,598.99 EUR
 - [xTool RA3 & RA3 Lite MagSwap Rotary Attachment](https://eolasprints.com/products/xtool-ra3-rotary): xTool RA3 rotary for X1, P3 and F-Series lasers, and RA3 Lite for the M2: tool-free MagSwap modes, chuck up to 130 mm, 1200 mm/s engraving of cups and rings.
-  Updated: 2026-11-14T07:50:45Z
+  Updated: 2026-11-23T03:23:11Z
   Vendor: xTool
   Product Type: Laser Accessories
   Availability: Available
@@ -2118,7 +2118,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-or1-rotary-attachment-main.webp?v=1792254270
   Price: €403.00 EUR
 - [Bambu Lab A1 mini Compact 3D Printer | Eolas Prints](https://eolasprints.com/products/bambu-lab-a1-mini): Bambu Lab A1 mini: 180 mm³ build volume, 500 mm/s, fully automatic calibration and 4-colour printing with the AMS lite Combo. Ships from Spain with manufacturer warranty.
-  Updated: 2026-11-19T14:54:21Z
+  Updated: 2026-11-26T15:55:52Z
   Vendor: Bambu Lab
   Product Type: 3D Printer
   Availability: Available
@@ -2126,11 +2126,11 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   - [A1 mini Combo](https://eolasprints.com/products/bambu-lab-a1-mini?variant=55457900560711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/A1_mini_C.jpg?v=1792254187
-    Price: €343.99 EUR
+    Price: €364.99 EUR
   - [A1 mini](https://eolasprints.com/products/bambu-lab-a1-mini?variant=55457900593479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/A1_mini.jpg?v=1792254187
-    Price: €217.99 EUR
+    Price: €230.99 EUR
 - [xTool LM1 Laminator & RF1 Roll Feeder for O1 Omni](https://eolasprints.com/products/xtool-lm1-laminator): xTool LM1 Laminator for the O1 Omni: finish UV DTF crystal decals and foil effects up to 8 mm thick. Add the RF1 Roll Feeder for 15 m rolls and auto cutting.
   Updated: 2026-11-14T07:50:50Z
   Vendor: xTool
@@ -2174,7 +2174,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-intelligent-conveyor-feeder-for-p3-main.webp?v=1792407312
   Price: €676.00 EUR
 - [xTool M2 Modules – 20W Diode, 3W IR Laser and CMYK Print](https://eolasprints.com/products/xtool-m2-modules): Expand your xTool M2: 20W diode laser for 10 mm cuts, 3W 1064 nm infrared for metal engraving, or CMYK inkjet module for 1200 × 1200 dpi full-colour printing.
-  Updated: 2026-11-14T07:50:52Z
+  Updated: 2026-11-25T02:25:55Z
   Vendor: xTool
   Product Type: Laser Accessories
   Availability: Available
@@ -2192,28 +2192,28 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-m2-modules-cmyk-module.webp?v=1792407314
     Price: €171.00 EUR
 - [xTool P3 5W IR Laser Module – 1064 nm Metal Engraving](https://eolasprints.com/products/xtool-5w-ir-laser-module-for-p3): Add metal and plastic engraving to the xTool P3 with the 5W 1064 nm IR laser module: 0.03 mm spot, up to 1000 mm/s, 650 × 426 mm area, powered by the P3.
-  Updated: 2026-11-14T07:50:55Z
+  Updated: 2026-11-24T04:09:01Z
   Vendor: xTool
   Product Type: Laser Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-5w-ir-laser-module-for-p3-main.webp?v=1792407339
   Price: €837.00 EUR
 - [xTool F1 / F2 Foot Pedal – Hands-Free Start & Pause](https://eolasprints.com/products/xtool-foot-pedal-f-series): Foot pedal for xTool F1, F1 Lite, F2, F1 Ultra, F2 Ultra and F2 Ultra UV: start, pause and repeat jobs hands-free. 250 cm cable, aluminium body.
-  Updated: 2026-11-14T07:50:55Z
+  Updated: 2026-11-24T04:08:59Z
   Vendor: xTool
   Product Type: Laser Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-foot-pedal-f-series-foot-pedal.jpg?v=1792407462
   Price: €42.00 EUR
 - [xTool Auto Streamline Conveyor – F2 Ultra Batch Feeder](https://eolasprints.com/products/xtool-auto-streamline-conveyor): Conveyor for xTool F1 Ultra, F2 Ultra and F2 Ultra UV: 500 x 220 mm processing area, 10 kg load and camera-aligned batch engraving. Ships from Spain.
-  Updated: 2026-11-14T07:50:55Z
+  Updated: 2026-11-24T04:08:55Z
   Vendor: xTool
   Product Type: Laser Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-auto-streamline-conveyor-conveyor.jpg?v=1792407495
   Price: €535.00 EUR
 - [xTool F1 / F2 Slide Extension – 115 x 400 mm Work Area](https://eolasprints.com/products/xtool-slide-extension-f1-f2): Slide Extension for the xTool F1, F1 Lite and F2: four times the working area (115 x 400 mm), five clamps, scale rulers and one-button batch jobs.
-  Updated: 2026-11-14T07:51:00Z
+  Updated: 2026-11-24T04:08:57Z
   Vendor: xTool
   Product Type: Laser Accessories
   Availability: Available
@@ -2227,7 +2227,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-air-purifier-go-f2-purifier.webp?v=1792407544
   Price: €161.00 EUR
 - [xTool RA2 Pro Rotary – Roller, Chuck, Sphere & Ring](https://eolasprints.com/products/xtool-ra2-pro-rotary): xTool RA2 Pro 4-in-1 rotary for F1, F2 and F2 Ultra: engrave cups, bottles, spheres and rings from 3 to 198 mm in diameter.
-  Updated: 2026-11-14T07:51:01Z
+  Updated: 2026-11-24T04:08:56Z
   Vendor: xTool
   Product Type: Laser Accessories
   Availability: Available
@@ -2248,7 +2248,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-safetypro-if2-inline-duct-fan-duct-fan.webp?v=1792407631
   Price: €201.00 EUR
 - [xTool Screen Printer – Screen Printing with Your Laser](https://eolasprints.com/products/xtool-screen-printer): xTool Screen Printer: make stencils with your xTool laser in 1–30 minutes, no emulsion or darkroom. Standard frame for P/F/S/D, compact frame for M Series.
-  Updated: 2026-11-14T07:51:03Z
+  Updated: 2026-11-23T03:23:07Z
   Vendor: xTool
   Product Type: Laser Accessories
   Availability: Available
@@ -2262,7 +2262,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-screen-printer-compact-frame-m-series.webp?v=1792407665
     Price: €305.00 EUR
 - [xTool Laser Material Kit – Explore 111 or Ultimate 155 pcs](https://eolasprints.com/products/xtool-laser-material-kits): xTool Selected material kits for laser engraving and cutting: Explore (111 pcs, 17 materials) or Ultimate (155 pcs, 27 materials) with tested settings.
-  Updated: 2026-11-14T07:51:05Z
+  Updated: 2026-11-23T03:23:09Z
   Vendor: xTool
   Product Type: Laser Accessories
   Availability: Available
@@ -2276,21 +2276,21 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-laser-material-kits-ultimate-kit.jpg?v=1792407698
     Price: €206.00 EUR
 - [eufyMake E1 Roll-to-Film – 10 m UV Roll Printing Add-On](https://eolasprints.com/products/eufymake-roll-to-film-attachment-e1): eufyMake Roll-to-Film Attachment for the E1: print up to 10 m on 100–305 mm film with auto cut-off and 1 mm raised texture. Official reseller in Spain.
-  Updated: 2026-11-14T07:51:05Z
+  Updated: 2026-11-26T03:23:23Z
   Vendor: eufyMake
   Product Type: UV Printer Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/eufymake-roll-to-film-attachment-e1-product.png?v=1792533125
   Price: €499.99 EUR
 - [eufyMake UV DTF Laminator – Crystal Stickers with the E1](https://eolasprints.com/products/eufymake-uv-dtf-laminating-machine): eufyMake UV DTF Laminating Machine for the E1: 310 mm width, 90 °C, warm-up under 3 min, auto feed detection. A and B starter films included. Official reseller.
-  Updated: 2026-11-14T07:51:07Z
+  Updated: 2026-11-26T03:23:29Z
   Vendor: eufyMake
   Product Type: UV Printer Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/eufymake-uv-dtf-laminating-machine-product.png?v=1792533126
   Price: €399.99 EUR
 - [xTool X1 55W CO2 Laser – Swap UV, MOPA, Fibre Sources](https://eolasprints.com/products/xtool-x1-modular-co2-laser-cutter-engraver): xTool X1 modular CO2 laser: 55W, 615×320 mm area, 6,000 mm/s galvo, triple camera. Add UV, MOPA or fibre later. Pre-order from Eolas Prints, manufacturer warranty.
-  Updated: 2026-11-14T07:51:11Z
+  Updated: 2026-11-20T17:07:16Z
   Vendor: xTool
   Product Type: Laser Engravers and Cutters
   Availability: Available
@@ -2298,65 +2298,65 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   - [Single CO2 / No add-on / Standalone](https://eolasprints.com/products/xtool-x1-modular-co2-laser-cutter-engraver?variant=55621980750151)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-x1-single-co2-no-add-on-standalone.webp?v=1793257368
-    Price: €3,428.00 EUR
+    Price: €3,730.00 EUR
   - [Single CO2 / No add-on / Versatile Bundle](https://eolasprints.com/products/xtool-x1-modular-co2-laser-cutter-engraver?variant=55621981339975)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-x1-single-co2-no-add-on-versatile.webp?v=1793257368
-    Price: €4,577.00 EUR
+    Price: €4,880.00 EUR
   - [Single CO2 / No add-on / All-in-one Bundle](https://eolasprints.com/products/xtool-x1-modular-co2-laser-cutter-engraver?variant=55621981372743)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-x1-single-co2-no-add-on-all-in-one.webp?v=1793257368
-    Price: €5,485.00 EUR
+    Price: €5,787.00 EUR
   - [CO2 + Diode Galvo / No add-on / Standalone](https://eolasprints.com/products/xtool-x1-modular-co2-laser-cutter-engraver?variant=55621981405511)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-x1-dg-no-add-on-standalone.webp?v=1793257368
-    Price: €4,033.00 EUR
+    Price: €4,335.00 EUR
   - [CO2 + Diode Galvo / No add-on / Versatile Bundle](https://eolasprints.com/products/xtool-x1-modular-co2-laser-cutter-engraver?variant=55621981438279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-x1-dg-no-add-on-versatile.webp?v=1793257368
-    Price: €5,182.00 EUR
+    Price: €5,485.00 EUR
   - [CO2 + Diode Galvo / No add-on / All-in-one Bundle](https://eolasprints.com/products/xtool-x1-modular-co2-laser-cutter-engraver?variant=55621981471047)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-x1-dg-no-add-on-all-in-one.webp?v=1793257368
-    Price: €6,090.00 EUR
+    Price: €6,392.00 EUR
   - [CO2 + Diode Galvo / UV 5W / Standalone](https://eolasprints.com/products/xtool-x1-modular-co2-laser-cutter-engraver?variant=55621981503815)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-x1-dg-uv-5w-standalone.webp?v=1793257368
-    Price: €6,554.00 EUR
+    Price: €7,058.00 EUR
   - [CO2 + Diode Galvo / UV 5W / Versatile Bundle](https://eolasprints.com/products/xtool-x1-modular-co2-laser-cutter-engraver?variant=55621981536583)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-x1-dg-uv-5w-versatile.webp?v=1793257368
-    Price: €7,703.00 EUR
+    Price: €8,207.00 EUR
   - [CO2 + Diode Galvo / UV 5W / All-in-one Bundle](https://eolasprints.com/products/xtool-x1-modular-co2-laser-cutter-engraver?variant=55621981569351)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-x1-dg-uv-5w-all-in-one.webp?v=1793257368
-    Price: €8,611.00 EUR
+    Price: €9,115.00 EUR
   - [CO2 + Diode Galvo / MOPA 60W / Standalone](https://eolasprints.com/products/xtool-x1-modular-co2-laser-cutter-engraver?variant=55621981602119)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-x1-dg-mopa-60w-standalone.webp?v=1793257368
-    Price: €6,735.00 EUR
+    Price: €7,239.00 EUR
   - [CO2 + Diode Galvo / MOPA 60W / Versatile Bundle](https://eolasprints.com/products/xtool-x1-modular-co2-laser-cutter-engraver?variant=55621981634887)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-x1-dg-mopa-60w-versatile.webp?v=1793257368
-    Price: €7,885.00 EUR
+    Price: €8,389.00 EUR
   - [CO2 + Diode Galvo / MOPA 60W / All-in-one Bundle](https://eolasprints.com/products/xtool-x1-modular-co2-laser-cutter-engraver?variant=55621981667655)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-x1-dg-mopa-60w-all-in-one.webp?v=1793257368
-    Price: €8,792.00 EUR
+    Price: €9,296.00 EUR
   - [CO2 + Diode Galvo / Fibre 30W / Standalone](https://eolasprints.com/products/xtool-x1-modular-co2-laser-cutter-engraver?variant=55621981700423)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-x1-dg-fibre-30w-standalone.webp?v=1793257368
-    Price: €5,848.00 EUR
+    Price: €6,150.00 EUR
   - [CO2 + Diode Galvo / Fibre 30W / Versatile Bundle](https://eolasprints.com/products/xtool-x1-modular-co2-laser-cutter-engraver?variant=55621981733191)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-x1-dg-fibre-30w-versatile.webp?v=1793257368
-    Price: €6,997.00 EUR
+    Price: €7,300.00 EUR
   - [CO2 + Diode Galvo / Fibre 30W / All-in-one Bundle](https://eolasprints.com/products/xtool-x1-modular-co2-laser-cutter-engraver?variant=55621981765959)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-x1-dg-fibre-30w-all-in-one.webp?v=1793257368
-    Price: €7,905.00 EUR
+    Price: €8,207.00 EUR
 - [Bambu Lab H3C 9-Material Tool Changer – Buy in Spain](https://eolasprints.com/products/bambu-lab-h3c): Buy the Bambu Lab H3C: 9 PrintTools, 6-second SwapTek switching, AMS 3H with 85 °C dryer, 65 °C chamber, 330×320×325 mm. Ships from Spain with setup support.
-  Updated: 2026-11-17T11:17:20Z
+  Updated: 2026-11-26T15:56:04Z
   Vendor: Bambu Lab
   Product Type: 3D Printer
   Availability: Available
@@ -2364,11 +2364,11 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   - [AMS 3H Combo](https://eolasprints.com/products/bambu-lab-h3c?variant=55689566224711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-h3c-01.jpg?v=1793723711
-    Price: €2,922.99 EUR
+    Price: €3,049.99 EUR
   - [Full Combo + Bambu Station L FRAME](https://eolasprints.com/products/bambu-lab-h3c?variant=55689566323015)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-h3c-full-combo-station-l-frame.jpg?v=1793724672
-    Price: €3,261.99 EUR
+    Price: €3,403.99 EUR
 - [MY YARD FORMART S Desktop Vacuum Former A4 | Eolas Prints](https://eolasprints.com/products/my-yard-formart-s-desktop-vacuum-former): Compact desktop vacuum former for A4-size sheets: built-in -90 kPa pump, quartz heater, 160 mm max height. Ideal for 3D-printed moulds. Ships worldwide.
   Updated: 2026-11-14T07:51:15Z
   Vendor: MY YARD
@@ -2385,7 +2385,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Availability: Available
     Price: €1,499.40 EUR
 - [MY YARD FORMART SE Vacuum Former 500×300 | Eolas Prints](https://eolasprints.com/products/my-yard-formart-se-desktop-vacuum-former): Large-format desktop vacuum former: 4 sheet sizes up to 500 × 300 mm, built-in -90 kPa pump, 3 suction modes. For 3D-printed moulds. Ships worldwide.
-  Updated: 2026-11-14T07:51:15Z
+  Updated: 2026-11-23T03:23:10Z
   Vendor: MY YARD
   Product Type: Vacuum Former
   Availability: Available
@@ -2400,7 +2400,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Availability: Available
     Price: €2,890.45 EUR
 - [MY YARD FORMART 2 Smart Vacuum Former | Eolas Prints](https://eolasprints.com/products/my-yard-formart-2-smart-vacuum-former): Smart desktop vacuum former: QR material detection, auto mould release, stepless -90 kPa vacuum, sheets up to 500 × 300 mm. Ships worldwide.
-  Updated: 2026-11-14T07:51:20Z
+  Updated: 2026-11-23T03:23:14Z
   Vendor: MY YARD
   Product Type: Vacuum Former
   Availability: Available
@@ -2415,37 +2415,30 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Availability: Available
     Price: €3,495.45 EUR
 - [MY YARD Volume Control Kit for FORMART SE/2 | Eolas Prints](https://eolasprints.com/products/my-yard-volume-control-kit): Movable separator for the MY YARD FORMART SE and FORMART 2 vacuum formers that eliminates webbing and bridging for cleaner moulds. Ships worldwide.
-  Updated: 2026-11-14T07:51:20Z
+  Updated: 2026-11-24T04:09:07Z
   Vendor: MY YARD
   Product Type: Vacuum Forming Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/MY-YARD-Volume-Control-Kit-31864.jpg?v=1794249437
   Price: €107.90 EUR
-- [MY YARD Microporous Forming Bed | Eolas Prints](https://eolasprints.com/products/my-yard-microporous-forming-bed): 1.0 mm microporous A4 forming bed for all MY YARD FORMART vacuum formers. Spreads pressure evenly to stop LDPE and PP sheets breaking. Ships worldwide.
-  Updated: 2026-11-14T07:51:20Z
-  Vendor: MY YARD
-  Product Type: Vacuum Forming Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/MY-YARD-Microporous-Forming-Bed-31865.jpg?v=1794249470
-  Price: €50.90 EUR
-[List Continued](https://eolasprints.com/a/llms-agent/llms.txt?shop=eolas-prints.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMTQ5NjkyNjg3MTg3OSwibGFzdF92YWx1ZSI6IjExNDk2OTI2ODcxODc5In0%3D)
+[List Continued](https://eolasprints.com/a/llms-agent/llms.txt?shop=eolas-prints.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMTQ5NjkyNjUxMTQzMSwibGFzdF92YWx1ZSI6IjExNDk2OTI2NTExNDMxIn0%3D)
 
 ## Collections
 
 - [PLA](https://eolasprints.com/collections/pla): Premium PLA filament in 20+ colours - matte, silk, neon, high-speed and transition. Food-safe, easy to print. ISO-, made in Spain.
-  Updated: 2026-11-19T12:14:38Z
+  Updated: 2026-11-26T12:20:09Z
   Total Products: 13
 - [PETG](https://eolasprints.com/collections/petg): Strong, chemical-resistant PETG filament for functional and outdoor parts. UV-resistant and food-safe grades. ISO & REACH , made in Spain.
-  Updated: 2026-11-17T12:14:18Z
+  Updated: 2026-11-24T12:17:12Z
   Total Products: 8
 - [TPU](https://eolasprints.com/collections/tpu): Flexible TPU filament in Shore 93A, D53 and UV-resistant D60. For gaskets, grips and wearables. Food-safe grades, made in Spain.
   Updated: 2026-11-18T12:15:08Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://eolasprints.com/collections/orderlyemails-recommended-products): This collection features recommended products for the OrderlyEmails app. It is automatically updated with our best- Eolas Prints for notification emails.
-  Updated: 2026-11-19T12:14:38Z
+  Updated: 2026-11-26T12:20:09Z
   Total Products: 23
 - [Pellets](https://eolasprints.com/collections/pellets): 3D printing pellets for pellet-fed, FGF and large-format (LFAM) systems: PLA, PETG, TPU, ABS and recycled rPET. ISO- manufacturers, REACH on file, shipped from Spain.
-  Updated: 2026-11-10T13:30:32Z
+  Updated: 2026-11-26T12:20:09Z
   Total Products: 5
 - [3D Filament Offers](https://eolasprints.com/collections/3d-filament-offers): Current offers on PLA, PETG and TPU filament. ISO & REACH , food-safe and made in Spain. Stock up on premium filament for less.
   Updated: 2026-11-09T12:14:36Z
@@ -2454,35 +2447,35 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2026-11-11T12:14:51Z
   Total Products: 1
 - [Accessories](https://eolasprints.com/collections/3d-printers-accessories): 3D printing accessories from Magigoo, Prusa, Bambu Lab and Flashforge: nozzles, hotends, dryboxes, AMS units and adhesives. Ships from Spain.
-  Updated: 2026-11-17T12:14:18Z
+  Updated: 2026-11-26T15:56:07Z
   Total Products: 20
 - [3D Printer Filament](https://eolasprints.com/collections/3d-printer-filament): 3D printer filament made in Spain: PLA, PETG, TPU, ABS and ASA in 1.75mm and 2.85mm. ISO & REACH , food-safe. Ships across Europe.
-  Updated: 2026-11-19T12:14:38Z
+  Updated: 2026-11-26T12:20:09Z
   Total Products: 25
 - [ASA](https://eolasprints.com/collections/asa): Weatherproof ASA filament with 85°C heat resistance and UV stability for outdoor, automotive and marine parts. ISO-, made in Spain.
   Updated: 2026-11-12T12:14:13Z
   Total Products: 1
 - [Codigo Escuela 4.0](https://eolasprints.com/collections/codigo-escuela-4-0): 3D printers and equipment for the Codigo Escuela 4.0 programme - Bambu Lab and more for modern education and digital literacy in Spain.
-  Updated: 2026-11-19T12:14:38Z
+  Updated: 2026-11-26T15:55:59Z
   Total Products: 8
 - [Craft Machines](https://eolasprints.com/collections/craft-machines): Buy xTool laser cutters and engravers: diode, CO2, MOPA fibre and UV for craft, signage, metal marking and glass. Authorised xTool reseller, Spain.
   Updated: 2026-11-10T00:34:40Z
   Total Products: 15
 - [3D Printers](https://eolasprints.com/collections/3d-printers): Buy 3D printers from Bambu Lab, Prusa and Flashforge. FDM, multi-material and enclosed engineering machines. Ships from Spain.
-  Updated: 2026-11-17T12:14:18Z
-  Total Products: 53
+  Updated: 2026-11-26T15:56:05Z
+  Total Products: 54
 - [3D Scanners](https://eolasprints.com/collections/3d-scanners): Handheld, all-in-one, desktop, metrology and LIDAR 3D scanners from Shining 3D, Revopoint and 3DMakerpro. Authorised reseller in Spain, ships worldwide.
-  Updated: 2026-11-18T16:50:32Z
-  Total Products: 19
+  Updated: 2026-11-26T15:35:01Z
+  Total Products: 20
 - [Laser Cutters & Engravers](https://eolasprints.com/collections/laser-cutters-engravers): Full xTool laser range: diode, CO2, MOPA fibre and UV cutters and engravers for craft, signage, metal and glass. Authorised reseller, ships worldwide.
-  Updated: 2026-11-11T12:14:51Z
+  Updated: 2026-11-26T15:56:05Z
   Total Products: 14
 - [LIDAR 3D Scanners](https://eolasprints.com/collections/lidar-3d-scanners): LIDAR 3D scanners from 3DMakerPro: Eagle with RTK for survey-grade mapping, Raven for large spaces to 100m. Official distributor, ships from Spain.
   Updated: 2026-11-18T16:50:32Z
   Total Products: 3
 - [Bambu Lab 3D Printers](https://eolasprints.com/collections/bambu-lab): Buy genuine Bambu Lab 3D printers: A1, A2L, P1S, P2S, X2D, H2S and H2D with AMS multi-colour. Ships worldwide from Spain.
-  Updated: 2026-11-17T12:14:18Z
-  Total Products: 23
+  Updated: 2026-11-26T15:56:07Z
+  Total Products: 25
 - [Prusa 3D Printers](https://eolasprints.com/collections/prusa): Buy Original Prusa 3D printers: MINI+, MK4S, Core One, Core One L, XL and Pro HT90. Authorised Prusa reseller with warranty, ships from Spain.
   Updated: 2026-11-02T19:17:00Z
   Total Products: 27
@@ -2490,40 +2483,40 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2026-11-02T19:17:02Z
   Total Products: 9
 - [Beginner 3D Printers](https://eolasprints.com/collections/beginner-3d-printers): Beginner 3D printers with auto-levelling and easy setup - print your first model the same day. Authorised Prusa & Flashforge dealer, ships from Spain.
-  Updated: 2026-10-19T10:29:50Z
+  Updated: 2026-11-26T15:55:57Z
   Total Products: 6
 - [Multicolor & Multi-Material 3D Printers](https://eolasprints.com/collections/multicolor-multi-material-3d-printers): Multicolour and multi-material 3D printers with AMS and tool-changing systems - many colours in one print. Authorised Prusa & Flashforge dealer.
-  Updated: 2026-11-17T12:14:18Z
-  Total Products: 16
+  Updated: 2026-11-26T15:56:05Z
+  Total Products: 17
 - [Resin 3D Printers](https://eolasprints.com/collections/resin-3d-printers): Resin (MSLA) 3D printers for jewellery casting, dental models, miniatures and prototypes. ELEGOO Mars, Saturn & Jupiter plus industrial Prusa. Compare 4K to 16K. Shipped from Spain across the EU.
   Updated: 2026-11-10T00:36:35Z
   Total Products: 9
 - [Large-Format 3D Printers](https://eolasprints.com/collections/large-format-3d-printers): Large-format 3D printers for big prints, props, prototypes and production. Heated beds, enclosed chambers. Authorised Prusa & Flashforge dealer, Spain.
-  Updated: 2026-11-16T23:57:12Z
+  Updated: 2026-11-26T15:56:02Z
   Total Products: 19
 - [Professional & Production 3D Printers](https://eolasprints.com/collections/professional-production-3d-printers): Professional and production 3D printers for workshops and print farms. Reliable enclosed machines for engineering materials. Authorised dealer, Spain.
-  Updated: 2026-11-17T12:14:18Z
+  Updated: 2026-11-26T15:56:05Z
   Total Products: 32
 - [Outdoor & UV-Resistant Filament](https://eolasprints.com/collections/outdoor-uv-resistant-filament): Outdoor UV-resistant filament - ASA, UV-stable PETG and TPU for garden, automotive and signage. Won't fade or go brittle in sun. Made in Spain.
-  Updated: 2026-11-18T12:15:08Z
+  Updated: 2026-11-24T12:17:12Z
   Total Products: 5
 - [Flexible Filament](https://eolasprints.com/collections/flexible-filament): Flexible TPU filament in Shore 93A, D53 and D60 for gaskets, grips, wearables and phone cases. Soft to firm options. Made in Spain.
-  Updated: 2026-11-18T12:15:08Z
+  Updated: 2026-11-25T12:16:35Z
   Total Products: 7
 - [Antibacterial Filament](https://eolasprints.com/collections/antibacterial-filament): Antibacterial PLA filament, ISO 22196  - 99.9% more hygienic surfaces for handles, , toys and food aids. Made in Spain.
-  Updated: 2026-11-11T12:14:51Z
+  Updated: 2026-11-25T12:16:35Z
   Total Products: 1
 - [Recycled & Sustainable Filament](https://eolasprints.com/collections/recycled-sustainable-filament): Recycled, sustainable 3D printing materials - rPET pellets for large-format printing. Circular, lower-impact, ISO-. Made in Spain.
   Updated: 2026-11-09T12:14:36Z
   Total Products: 1
 - [Functional Parts Filament](https://eolasprints.com/collections/functional-parts-filament): Functional 3D printing filament - PETG, ABS and ASA for strong, durable working parts: brackets, enclosures, clips and tools. Made in Spain.
-  Updated: 2026-11-18T12:15:08Z
+  Updated: 2026-11-25T12:16:35Z
   Total Products: 14
 - [Decorative & Display Filament](https://eolasprints.com/collections/decorative-display-filament): Decorative filament - silk, matte, wood-fill and neon PLA for décor, cosplay, gifts and display models. Premium finishes. Made in Spain.
-  Updated: 2026-11-19T12:14:38Z
+  Updated: 2026-11-26T12:20:09Z
   Total Products: 10
 - [Food-Safe Filament](https://eolasprints.com/collections/food-safe-filament): Food-safe filament from EU food-contact  material, plus metal-detectable grades for food production. Made in Spain under ISO standards.
-  Updated: 2026-11-11T12:14:51Z
+  Updated: 2026-11-25T12:16:35Z
   Total Products: 3
 - [High-Temperature Filament](https://eolasprints.com/collections/high-temperature-filament): High-temperature filament - ABS and heat-resistant composites for automotive, electronics housings and tooling. Holds shape where PLA fails. Made in Spain.
   Updated: 2026-11-16T14:59:41Z
@@ -2532,26 +2525,26 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2026-11-16T14:59:54Z
   Total Products: 3
 - [Metal Marking Lasers](https://eolasprints.com/collections/metal-marking-lasers): Fibre and MOPA laser engravers for permanent metal marking - steel, aluminium, brass, titanium. Serialisation, jewellery, tools. xTool, ships from Spain.
-  Updated: 2026-11-11T12:14:51Z
+  Updated: 2026-11-20T17:07:17Z
   Total Products: 5
 - [Wood & Leather Laser Engravers](https://eolasprints.com/collections/wood-leather-laser-engravers): Diode laser engravers for wood, leather, bamboo and cork - dark, detailed marks for gifts and small-batch products. xTool M2, ships from Spain.
-  Updated: 2026-11-11T12:14:51Z
+  Updated: 2026-11-20T17:07:17Z
   Total Products: 7
 - [CO2 Laser Cutters](https://eolasprints.com/collections/co2-laser-cutters): CO2 laser cutters for acrylic, plywood, leather and signage - clean cuts through thick stock. xTool X1 & P3. Authorised stockist, ships from Spain.
-  Updated: 2026-11-11T12:14:51Z
+  Updated: 2026-11-20T17:07:17Z
   Total Products: 4
 - [Color Marking Lasers](https://eolasprints.com/collections/color-marking-lasers): Colour laser marking machines - MOPA fibre and UV lasers for vivid marks on steel, titanium and anodised metal. xTool, authorised stockist.
   Updated: 2026-11-02T19:10:46Z
   Total Products: 2
 - [Reverse Engineering 3D Scanners](https://eolasprints.com/collections/reverse-engineering-3d-scanners): 3D scanners for reverse engineering: digitise parts into CAD to rebuild, modify or reproduce them. Shining 3D, Revopoint and 3DMakerpro. Ships worldwide.
-  Updated: 2026-11-18T16:50:32Z
-  Total Products: 18
+  Updated: 2026-11-26T15:35:01Z
+  Total Products: 19
 - [Large-Object 3D Scanners](https://eolasprints.com/collections/large-object-3d-scanners): Large-object 3D scanners for cars, furniture, machinery and rooms: infrared handhelds, optical tracking and LIDAR from Shining 3D, Revopoint and 3DMakerpro.
-  Updated: 2026-11-18T16:50:32Z
-  Total Products: 11
+  Updated: 2026-11-26T15:35:01Z
+  Total Products: 12
 - [Quality Inspection 3D Scanners](https://eolasprints.com/collections/quality-inspection-3d-scanners): 3D scanners for quality inspection: compare parts to CAD, check tolerances and report deviations. Revopoint Trackit metrology scanners and 3DMakerpro. Ships worldwide.
-  Updated: 2026-11-12T10:49:30Z
-  Total Products: 5
+  Updated: 2026-11-26T15:35:01Z
+  Total Products: 6
 - [ & Dental 3D Scanners](https://eolasprints.com/collections/-dental-3d-scanners): 3D scanners for  and dental: high-precision blue-light scanning for dental models and a hybrid body scanner for orthotics and prosthetics. Ships worldwide.
   Updated: 2026-11-12T10:49:30Z
   Total Products: 3
@@ -2583,7 +2576,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2026-11-02T19:17:08Z
   Total Products: 2
 - [xTool Laser Engravers & UV Printers](https://eolasprints.com/collections/xtool): Buy xTool in Spain: M2, F2 Ultra, P3 and X1 lasers, O1 Omni UV printer, DTF printer, heat press and genuine accessories. Official xTool reseller.
-  Updated: 2026-11-11T12:14:51Z
+  Updated: 2026-11-20T17:07:17Z
   Total Products: 43
 - [3DMakerpro 3D Scanners](https://eolasprints.com/collections/3dmakerpro): 3DMakerpro 3D scanners in Spain: Seal, Moose, Lynx, Whale, Toucan, Turtle and Eagle and Raven LIDAR scanners. Official reseller with advice and support.
   Updated: 2026-11-18T16:50:32Z
@@ -2869,7 +2862,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Author: Sergio Peciña
     Tags: Bambu Lab AMS, Elegoo, Eolas Prints, Flashforge, multi-colour, Prusa
   - [Bambu Lab H3C Explained: 9-Tool Changer vs H2C & INDX](https://eolasprints.com/blogs/advanced-3d-printing/bambu-lab-h3c-tool-changer-explained): Bambu Lab H3C Explained: 9-Tool Changer vs H2C & INDX
-    Updated: 2026-11-18T00:04:05Z
+    Updated: 2026-11-26T16:02:17Z
     Author: Eolas Prints
     Tags: 3D Printer Comparison, Bambu Lab, Bambu Lab H3C, Buyer's Guide, Multicolour 3D Printing, Tool Changer
   - [3D Printing Pellets Guide: PLA, PETG, TPU, ABS & rPET](https://eolasprints.com/blogs/advanced-3d-printing/pellets-3d-printing-buying-guide): 3D Printing Pellets Guide: PLA, PETG, TPU, ABS & rPET
@@ -2889,7 +2882,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Author: Eolas Prints
     Tags: 3D Printed Moulds, Chocolate Moulds, Food, FORMART, MY YARD, PET, PLA, Vacuum Forming
   - [Pellet 3D Printer Buying Guide 2026: Cost & Payback](https://eolasprints.com/blogs/advanced-3d-printing/pellet-3d-printer-buying-guide): Pellet 3D Printer Buying Guide 2026: Cost & Payback
-    Updated: 2026-11-10T16:49:27Z
+    Updated: 2026-11-26T18:09:08Z
     Author: Eolas Prints
     Tags: Buyer's Guide, Comparison, FGF, LFAM, Pellet 3D Printers, Pellets, PioCreat, PioCreat G12, PioCreat G5 Ultra, PioCreat MS01
   - [Importing a 3D Printer from Spain: DAP, HS Code, Duties](https://eolasprints.com/blogs/advanced-3d-printing/import-3d-printer-from-spain-hs-code-dap): Importing a 3D Printer from Spain: DAP, HS Code, Duties
@@ -2897,7 +2890,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Author: Eolas Prints
     Tags: Buyer's Guide, CreatBot, DAP, Elegoo, HS Code 8485.20, Import & Export, Incoterms, large-format, Mingda, Prusa
   - [IDEX vs Dual Nozzle vs Toolchanger: Large 3D Printers](https://eolasprints.com/blogs/advanced-3d-printing/idex-vs-dual-nozzle-vs-toolchanger): IDEX vs Dual Nozzle vs Toolchanger: Large 3D Printers
-    Updated: 2026-11-18T11:29:44Z
+    Updated: 2026-11-26T16:06:42Z
     Author: Eolas Prints
     Tags: Bambu Lab, Bambu Lab H2D, Buyer's Guide, Comparison, CreatBot, Elegoo, Elegoo OrangeStorm Giga, IDEX, large-format, Large-Format 3D Printers, Mingda, Mingda MD-400D, Multi-Material 3D Printing, Prusa, Prusa CORE One L+ INDX, Prusa XL, Tool Changer
   - [Printing 1-Metre Parts in One Piece: Moulds and Models](https://eolasprints.com/blogs/advanced-3d-printing/print-1-metre-parts-in-one-piece): Printing 1-Metre Parts in One Piece: Moulds and Models
@@ -2905,21 +2898,25 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Author: Eolas Prints
     Tags: Architectural Models, CreatBot, Elegoo OrangeStorm Giga, Foundry Patterns, Guide, large-format, Large-Format 3D Printers, Mingda, Moulds, PioCreat G12
   - [Open vs Enclosed vs Heated Chamber: Large 3D Printers](https://eolasprints.com/blogs/advanced-3d-printing/open-frame-vs-enclosed-vs-heated-chamber-3d-printer): Open vs Enclosed vs Heated Chamber: Large 3D Printers
-    Updated: 2026-11-18T11:21:23Z
+    Updated: 2026-11-26T17:10:18Z
     Author: Eolas Prints
     Tags: ABS, ASA, Bambu Lab, Buyer's Guide, Carbon Fibre, Comparison, CreatBot, Elegoo, Flashforge, Heated Chamber, large-format, Large-Format 3D Printers, Mingda, Nylon, Prusa
   - [Buying a 3D Printer for a University or Public Lab Abroad](https://eolasprints.com/blogs/advanced-3d-printing/3d-printer-for-university-public-procurement): Buying a 3D Printer for a University or Public Lab Abroad
-    Updated: 2026-11-18T11:31:52Z
+    Updated: 2026-11-26T16:15:48Z
     Author: Eolas Prints
     Tags: Bambu Lab, Buyer's Guide, CreatBot, Education, Elegoo, Flashforge, large-format, Mingda, Prusa, Public Procurement, Universities
   - [Large-Format 3D Printers 2026: Buyer's Guide & Prices](https://eolasprints.com/blogs/advanced-3d-printing/large-format-3d-printer-buying-guide): Large-Format 3D Printers 2026: Buyer's Guide & Prices
-    Updated: 2026-11-18T11:21:30Z
+    Updated: 2026-11-26T16:59:55Z
     Author: Eolas Prints
     Tags: Bambu Lab, Buyer's Guide, Comparison, CreatBot, Elegoo, Flashforge, Industrial 3D Printers, large-format, Large-Format 3D Printers, Mingda, Prusa
   - [True Cost of a Large-Format 3D Printer (2026 Breakdown)](https://eolasprints.com/blogs/advanced-3d-printing/large-format-3d-printer-true-cost): True Cost of a Large-Format 3D Printer (2026 Breakdown)
-    Updated: 2026-11-18T11:36:13Z
+    Updated: 2026-11-26T16:16:34Z
     Author: Eolas Prints
     Tags: Bambu Lab, Buyer's Guide, Cost Guide, CreatBot, Elegoo, Flashforge, large-format, Large-Format 3D Printers, Mingda, Prusa
+  - [How to Use a Pellet 3D Printer: Setup to First Print](https://eolasprints.com/blogs/advanced-3d-printing/how-to-use-pellet-3d-printer-piocreat): How to Use a Pellet 3D Printer: Setup to First Print
+    Updated: 2026-11-26T18:01:39Z
+    Author: Eolas Prints
+    Tags: FGF, Guides, How-To, Pellet 3D Printers, Pellets, PioCreat, PioCreat G12, PioCreat G5 Ultra, PioCreat MS01
 - [3D printing in schools](https://eolasprints.com/blogs/3d-printing-in-schools): 3D printing is becoming an increasingly popular tool in schools. Here's what you need to know to get started with 3D printing in your school.
   - [Getting Started with Tinkercad - Teachers](https://eolasprints.com/blogs/3d-printing-in-schools/getting-started-with-tinkercad): Getting Started with Tinkercad - Teachers
     Updated: 2026-06-21T23:31:26Z
@@ -3021,9 +3018,13 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Author: Eolas Prints
     Tags: 3D Scanning, All-in-One Scanner, Comparison, Guides, Shining 3D
   - [3DMakerpro Owl LiDAR Scanner: Sample Scans and Price](https://eolasprints.com/blogs/lidar-3d-scanning/3dmakerpro-owl-lidar-scanner-sample-scans-price): 3DMakerpro Owl LiDAR Scanner: Sample Scans and Price
-    Updated: 2026-11-18T17:13:19Z
+    Updated: 2026-11-26T13:33:18Z
     Author: Eolas Prints
     Tags: 3D Scanning, 3DMakerpro, Architecture, Guides, LIDAR, Owl, Professional Tools
+  - [How to Use the 3DMakerpro Owl: Scan to Floor Plan Guide](https://eolasprints.com/blogs/lidar-3d-scanning/how-to-use-3dmakerpro-owl-lidar-scanner): How to Use the 3DMakerpro Owl: Scan to Floor Plan Guide
+    Updated: 2026-11-26T13:35:18Z
+    Author: Eolas Prints
+    Tags: 3D Scanning, 3DMakerpro, Guides, How-To, LIDAR, Owl, Professional Tools
 - [Laser Cutting & Engraving](https://eolasprints.com/blogs/laser-cutting-engraving)
   - [Which xTool Laser Do You Need? Buyer's Guide](https://eolasprints.com/blogs/laser-cutting-engraving/xtool-laser-buyer-guide): Which xTool Laser Do You Need? Buyer's Guide
     Updated: 2026-11-09T15:07:54Z
@@ -3130,7 +3131,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
 - [How PLA & 3D Printer Filament Is Made | Eolas Prints](https://eolasprints.com/pages/making-3d-printer-filament): The creation of premium printer filament is a meticulous manufacturing process, critical for achieving dependable and high-resolution 3D prints. Eo...
   Updated: 2026-06-17T19:13:47Z
 - [FAQs — Shipping, Filament & Orders | Eolas Prints](https://eolasprints.com/pages/faqs): .ep-faq-page{max-width:1100px;margin:0 auto;font-size:16px;line-height:1.7;color:#1a1a1a;} .ep-faq-page h2{font-size:26px;font-weight:700;margin:38...
-  Updated: 2026-11-09T18:33:12Z
+  Updated: 2026-11-23T14:47:37Z
 - [Bulk & Industrial 3D Printer Filament | Made in Spain](https://eolasprints.com/pages/large-3d-printer-filament-spool-for-industries): .ep-industrial{max-width:1100px;margin:0 auto;font-size:16px;line-height:1.7;color:#1a1a1a;} .ep-industrial h2{font-size:26px;font-weight:700;margi...
   Updated: 2026-06-24T16:26:52Z
 - [Our Team | Eolas Prints](https://eolasprints.com/pages/team): Our team is guided by the combined business and technical leadership of Tanuj Goswami, our CEO and CTO. This integrated approach ensures our strate...
@@ -3140,7 +3141,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
 - [3D Printing Materials Catalogue — PLA, PETG, ABS, ASA, TPU](https://eolasprints.com/pages/materials-catalogue): Welcome to the Eolas Prints materials catalogue — a complete guide to our 3D printing filaments and pellets, manufactured in-house in Spain under I...
   Updated: 2026-06-23T09:44:32Z
 - [Shipping Policy — UPS Express & Worldwide | Eolas Prints](https://eolasprints.com/pages/shipping-policy): When do you ship? We ship Monday to Friday from our warehouse in Cantabria, Spain. In-stock orders placed before the cut-off time ship the same bus...
-  Updated: 2026-09-28T17:13:38Z
+  Updated: 2026-11-23T14:44:37Z
 - [ 3D Printing — Anatomical Models & Orthotics](https://eolasprints.com/pages/3d-printing-in-): Eolas Prints works with hospitals, clinics, orthopaedic and podiatry practices, universities and -device developers to produce anatomical mo...
   Updated: 2026-06-22T16:01:11Z
 - [Architectural 3D Printing & Scale Models](https://eolasprints.com/pages/architectural-3d-printing): Eolas Prints turns architectural designs into precise, presentation-ready physical scale models. We work with architects, property developers and p...
