@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2020-09-01T05:30:25Z
 - Contact Email: david@dreamanddestroy.com
-- Updated At: 2026-11-19T01:03:33.333Z
+- Updated At: 2026-11-27T00:51:04.512Z
 
 ## Products
 
@@ -234,13 +234,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/ebd38799-50e0-463e-ac77-8e246a8edb74.jpg?v=1764990889
   Price: $2,100.00 USD
-- [Goyard Artois MM Tote Bag- Goyardine](https://dreamanddestroy.com/products/goyard-artois-mm-tote-bag-goyardine): Shop the pristine Goyard Artois MM Tote Bag- Goyardine, complete with care cards and dustbag. Authenticity !
-  Updated: 2026-10-09T11:11:20Z
-  Vendor: Goyard
-  Product Type: accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Goyard_Tote.jpg?v=1791500988
-  Price: $4,000.00 USD
 - [TOM FORD BLACK DRESS SPECIAL OCCASION PANTS 38- 6](https://dreamanddestroy.com/products/tom-ford-black-dress-special-occasion-pants-38-6): Elevate your style with TOM FORD BLACK DRESS SPECIAL OCCASION PANTS, designed for comfort and elegance, perfect for any special event.
   Updated: 2026-11-16T16:01:15Z
   Vendor: Tom Ford
@@ -262,13 +255,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/dbd0f1ab-8742-416b-8eea-7fecc9818fc7.jpg?v=1781650825
   Price: $150.00 USD
-- [JAMIE HALLER BLACK HIGH WAIST DENIM JEANS](https://dreamanddestroy.com/products/jamie-haller-black-high-waist-denim-jeans-pants-26): JAMIE HALLER BLACK HIGH WAIST DENIM JEANS PANTS IN A MARKED SIZE 26- FITS A 28 (FOLLOW MEASUREMENTS BELOW. FEATURES A HIGH WAIST, SLIGHT BARREL FIT, 5 POCKET DESIGN. IN EXCELLENT CONDITIONMEASUREMENTS: WAIST: 14 X INSEAM: 30 X FOOT RISE: 9 X FRONT RISE: 12 X THIGH: 13RETAILED AT: $575
-  Updated: 2026-11-16T15:56:35Z
-  Vendor: JAMIE HALLER
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Jamie_Haller_Jeans.jpg?v=1789076911
-  Price: $399.00 USD
 - [COMME DES GARCONS HOMME GEORGE COX DIANO CREEPERS SHOES](https://dreamanddestroy.com/products/comme-des-garcons-homme-george-cox-diano-creepers-shoes-9): BRAND NEW IN BOX COMME DES GARCONS HOMME PLUS X GEORGE COX BLACK ORIGINAL CREEPERS WITH GROMMETS IN A MARKED SIZE 9. THE SHOES WERE TAKEN OUT OF THE PLASTIC BAG JUST TO TAKE THESE IMAGES, I PURCHASED THESE FROM H LORENZO IN LOS ANGELES ONLINE NOT ACTUALLY REALIZING THE POINTED TOE SOMETHING I CANNOT WEAR AS A HAIRSTYLIST DUE TO MOBILITY WITH MY STYLIST CHAIR, MY $700 PURCHASE IS MY LOSS AND YOUR GAIN. NEVER WORN, NEVER TRIED ON AND NEVER TOUCHED THE FLOOR.The Comme des Garçons Homme Plus Spring/Summer 2025 collection presents the Derby shoes in collaboration with George Cox. The creeper-style design features a pointed moc toe in black leather, metal eyelet embellishments at the vamp and sides, and lace-up closure.
   Updated: 2026-11-16T15:56:14Z
   Vendor: COMME DES GARCONS X GEORGE COX
@@ -353,13 +339,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/NOAH_NYC_SHIRT.jpg?v=1791676602
   Price: $110.00 USD
-- [MACKAGE NAVI-Z LAMBSKIN LEATHER SKINNY PANTS 6](https://dreamanddestroy.com/products/mackage-navi-z-lambskin-leather-plonge-super-skinny-pants-6): MACKAGE NAVI-Z ULTRA SKINNY LAMBSKIN SECOND SKIN PLONGE LEATHER PANTS IN A MARKED SIZE 6. THE PANTS FEATURE A SIDE ZIP CLOSURE, HIDDEN ZIPPERS AT THE ANKLES AND A STRETCH LAMBSKIN PLONGE LEATHER. THE PANTS ARE IN PRISTINE CONDITION.MEASUREMENTS:WAIST: 14 X INSEAM: 29.5 X FOOT: 4 X FRONT RISE: 7 X THIGH: 9CURRENT DESIGN, IN STORES NOW AND RETAILS AT: $1090.00FROM THE DESIGNER:NAVI-Z are sleek, unlined leggings crafted from stretch lamb leather. Designed with a branded inner elastic waistband, side seam closure at the waist, and zip openings at the hem. A streamlined silhouette with sleek design.
-  Updated: 2026-11-16T15:49:36Z
-  Vendor: Mackage
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/mackage_leather_pants.jpg?v=1791677127
-  Price: $650.00 USD
 - [Marrika Nakk Floral Boho Wedding Mariposa Dress 0/S](https://dreamanddestroy.com/products/marrika-nakk-floral-lace-dress-tiered-boho-wedding-mariposa-dress-0-s): AUTHENTIC MARRIKA NAKK BOHO WEDDING DRESS IN A RELEASED ONE SIZE FITS ALL- SEE MEASUREMENTS BELOW. THE DRESS IS A CURRENT DESIGN AND CAME IN 3 DIFFERENT DESIGNS, THIS DRESS WAS THE WEDDING RELEASE AND FEATURES LONGER LACE AT THE BOTTOM. SEE LAST IMAGE SHOWCASING THE DRESS ON HER BUSINESS PAGE.THE DRESS FEATURES AND OVERSIZED BOHO FIT IN A WHITE BODY WITH PURPLE FLORAL PRINT WITH TIERED WITH LACE AT THE HEM AND THE OPERA SLEEVES. THE DRESS IS LIMITED EDITION AND A SMALL RELEASE.NO CONDITION ISSUES TO MENTION. SHOULDER: 20 X CHEST: 22 X WAIST: 24 X LENGTH WITH THE LONGEST PORTION OF LACE: 51.
   Updated: 2026-11-16T15:49:00Z
   Vendor: Marrika Nakk
@@ -403,7 +382,7 @@
 ## Store Pages
 
 - [Biography for David Garcia and Jovan Townsend](https://dreamanddestroy.com/pages/biography-for-david-garcia-and-jovan-townsend): Biography for David Garcia and Jovan Townsend DAVID GARCIA David graduated from the renowned FIDM in Los Angeles, Ca. in 2005. Having a reputation ...
-  Updated: 2026-04-02T02:36:26Z
+  Updated: 2026-11-22T09:19:23Z
 - [CONTACT INFORMATION- GET A HOLD OF US](https://dreamanddestroy.com/pages/contact-information-get-a-hold-of-us): CONTACT INFORMATION- GET A HOLD OF US. WE HAVE ENABLED THE MUCH QUICKER CHAT FEATURE, PLEASE EXPECT A RESPONSE WITHIN 60 MINUTES OF SENDING IN A RE...
   Updated: 2026-04-02T02:23:22Z
 
