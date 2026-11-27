@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2018-08-11T23:07:15Z
 - Contact Email: Dashtrendevent@gmail.com
-- Updated At: 2026-11-20T00:57:03.675Z
+- Updated At: 2026-11-27T01:04:39.260Z
 
 ## Products
 
@@ -341,7 +341,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/86e97cfc-1c44-49fc-a6f3-2e316a5880e7-Max.jpg?v=1775620336
     Price: $85.99 USD
 - [Slit Floral Sequin Bodycon Maxi Dress](https://dashtrendstore.com/products/slit-floral-sequin-bodycon-maxi-dress): Features:Sequin,Slit Stretch:No stretch Body:Lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Bust S 48 26 34.6 M 48.4 27.6 36.2 L 48.8 29.9 38.6 XL 49.2 32.3 40.9
-  Updated: 2026-11-16T14:56:15Z
+  Updated: 2026-11-22T09:06:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1263,7 +1263,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/8d7a73ca19fb4d31899679e3ca646cc0-Max.jpg?v=1780413784
     Price: $64.00 USD
 - [Western Style Fringe Zip Front Jumpsuit](https://dashtrendstore.com/products/western-style-fringe-zip-front-jumpsuit): Features:Zipper,Tassel Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Inseam Waist S 54.7 34.6 0 0 M 55.1 36.2 0 0 L 55.5 38.6 0 0 XL 55.9 40.9 0 0 2XL 56.3 43.3 0 0
-  Updated: 2026-11-16T14:56:19Z
+  Updated: 2026-11-21T18:26:07Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1355,7 +1355,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/6e3d94eb7a0142d5a67095da726c531c-Max-Origin.webp?v=1780413981
     Price: $101.99 USD
 - [Floral Print Wide Leg Pleated Jumpsuit](https://dashtrendstore.com/products/floral-print-wide-leg-pleated-jumpsuit): Features:Pleated Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Inseam Waist Bust S 26 26.8 37 M 26.2 28.3 38.6 L 26.4 30.7 40.9 XL 26.6 33.1 43.3
-  Updated: 2026-11-16T14:56:20Z
+  Updated: 2026-11-24T03:46:01Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1683,7 +1683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/6de9e8845b41452d8935f7842813c3aa-Max.jpg?v=1780415219
     Price: $142.99 USD
 - [Raw Hem Maxi Denim Skirt](https://dashtrendstore.com/products/raw-hem-maxi-denim-skirt): Features:Buttoned Stretch:No stretch Material composition:85% cotton, 15% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip S 39 27.6 37.8 M 39.4 29.1 39.4 L 39.8 30.7 40.9 XL 40.2 32.3 41.7
-  Updated: 2026-11-16T14:56:22Z
+  Updated: 2026-11-24T10:52:10Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1964,40 +1964,14 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/1ffd6bef-931f-450a-b667-9b657b2722a0-Max-Origin.webp?v=1780415428
     Price: $83.99 USD
-- [High Waist Mini Denim Skirt](https://dashtrendstore.com/products/high-waist-mini-denim-skirt): Features:Pocketed Stretch:Slightly stretchy Material composition:85% cotton, 15% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip S 14.2 24.8 34.6 M 14.6 26.4 36.2 L 15.2 28.7 38.6 XL 15.7 31.1 40.9 2XL 16.1 33.5 43.3
-  Updated: 2026-11-16T14:56:23Z
-  Vendor: Trendsi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/0e9342274aac47e6be485dd95091f52f-Max-Origin.webp?v=1780415487
-  - [Blue / S](https://dashtrendstore.com/products/high-waist-mini-denim-skirt?variant=48684826624235)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/0e9342274aac47e6be485dd95091f52f-Max-Origin.webp?v=1780415487
-    Price: $58.99 USD
-  - [Blue / M](https://dashtrendstore.com/products/high-waist-mini-denim-skirt?variant=48684826657003)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/0e9342274aac47e6be485dd95091f52f-Max-Origin.webp?v=1780415487
-    Price: $58.99 USD
-  - [Blue / L](https://dashtrendstore.com/products/high-waist-mini-denim-skirt?variant=48684826689771)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/0e9342274aac47e6be485dd95091f52f-Max-Origin.webp?v=1780415487
-    Price: $58.99 USD
-  - [Blue / XL](https://dashtrendstore.com/products/high-waist-mini-denim-skirt?variant=48684826722539)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/0e9342274aac47e6be485dd95091f52f-Max-Origin.webp?v=1780415487
-    Price: $58.99 USD
-  - [Blue / 2XL](https://dashtrendstore.com/products/high-waist-mini-denim-skirt?variant=48684826755307)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/0e9342274aac47e6be485dd95091f52f-Max-Origin.webp?v=1780415487
-    Price: $58.99 USD
 - [Leopard Sheer Midi Skirt](https://dashtrendstore.com/products/leopard-sheer-midi-skirt): Features:Sheer Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip S 35.8 26.4 36.2 M 36.2 28.7 38.6 L 36.6 31.1 40.9 XL 37 34.3 44.1
-  Updated: 2026-11-16T14:56:24Z
+  Updated: 2026-11-22T03:42:20Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/dd52e749-4e05-4650-a90f-1c4afc60c6b4-Max-Origin.webp?v=1780415646
   - [Leopard / S](https://dashtrendstore.com/products/leopard-sheer-midi-skirt?variant=48684858999019)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/dd52e749-4e05-4650-a90f-1c4afc60c6b4-Max-Origin.webp?v=1780415646
     Price: $42.99 USD
   - [Leopard / M](https://dashtrendstore.com/products/leopard-sheer-midi-skirt?variant=48684859031787)
@@ -2043,7 +2017,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/c0bc3f67-6e97-4717-8f88-56e5386b2415-Max-Origin.webp?v=1780416737
     Price: $78.99 USD
 - [Striped Tube Top and Slit Skirt Set](https://dashtrendstore.com/products/striped-tube-top-and-slit-skirt-set): Features:Slit Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Length S 25.2 18.5 26.8 35 M 26.4 18.8 28.3 35 L 28.3 19.3 30.7 35.6 XL 30.3 19.8 33.1 36.2
-  Updated: 2026-11-16T14:56:24Z
+  Updated: 2026-11-24T09:51:22Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2053,7 +2027,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/cde4c5691cd644f69e1249a578cdb306-Max-Origin.webp?v=1780515521
     Price: $63.99 USD
   - [White / M](https://dashtrendstore.com/products/striped-tube-top-and-slit-skirt-set?variant=48704813531371)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/cde4c5691cd644f69e1249a578cdb306-Max-Origin.webp?v=1780515521
     Price: $63.99 USD
   - [White / L](https://dashtrendstore.com/products/striped-tube-top-and-slit-skirt-set?variant=48704813564139)
@@ -2585,7 +2559,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/c558d98c-3e68-4d86-8278-24f5943bbe82-Max-Origin.webp?v=1780516034
     Price: $94.99 USD
 - [Open Toe Wedge Sandals](https://dashtrendstore.com/products/open-toe-wedge-sandals-2): Includes:Box not included Heel height:Mid heels Material:PU Leather,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4
-  Updated: 2026-11-16T14:56:25Z
+  Updated: 2026-11-26T22:59:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2765,7 +2739,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/5d3125aa-74d9-41ef-9c9e-36c62319c1a7-Max-Origin.webp?v=1780516066
     Price: $84.99 USD
 - [Top model 228695](https://dashtrendstore.com/products/top-model-228695): Women's casual tank top with thin straps, with a simple and universal character. Made of high-quality cotton and elastane blend in a ribbed structure, which provides flexibility, comfort and a good fit to the silhouette. The model of standard length has a smooth pattern, which emphasizes its minimalist style and makes the tank top a perfect base for many everyday stylizations. The V-neck subtly slims the neck and adds a feminine character to the whole. The lightweight and comfortable construction makes the tank top perfect for casual outfits, especially on warmer days. It can be easily combined with jeans, shorts or skirts, creating simple and fashionable stylizations. Cotton 90 % Spandex 10 % Size Lenght Hips Chest EU L/XL | US L/XL 60 cm 86 cm 76 cm EU S/M | US S/M 58 cm 82 cm 72 cm
-  Updated: 2026-11-18T17:41:36Z
+  Updated: 2026-11-24T13:27:46Z
   Vendor: Rue Paris
   Product Type: 
   Availability: Available
@@ -2972,13 +2946,35 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/3451F7C61186FB88537860F7EEFD5A01.jpg?v=1780520796
     Price: $32.37 USD
-[List Continued](https://dashtrendstore.com/a/llms-agent/llms.txt?shop=hair-frenzy-now.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NjE2Mjc4NzgyMTg3LCJsYXN0X3ZhbHVlIjoiOTYxNjI3ODc4MjE4NyJ9)
+- [Striped neck and hip hugging long skirt](https://dashtrendstore.com/products/striped-neck-and-hip-hugging-long-skirt): Color: BrownStyle: Resort StylePattern Type: Stripe/CheckeredSleeve Length: SleevelessNeckline: Round NeckDress Length: Long DressWaistline: High WaistMaterial: Polyester ,SpandexClosure Type: PulloverFit Type: FittedOccasion: CasualSize: S, M, L, XLSize:unit：cm Size Bust Length Waist S 82 128.5 66-98 M 86 129.5 70-102 L 92 130.5 76-108 XL 98 131.5 82-114
+  Updated: 2026-11-16T14:56:27Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/D6FB7DBA5C62C2A7648A1EA852E9D35B.jpg?v=1780520828
+  - [Brown / S](https://dashtrendstore.com/products/striped-neck-and-hip-hugging-long-skirt?variant=48706159378667)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/D1579975F53948483C068DC8AEDBD2F0.jpg?v=1780520831
+    Price: $42.75 USD
+  - [Brown / M](https://dashtrendstore.com/products/striped-neck-and-hip-hugging-long-skirt?variant=48706159411435)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/D1579975F53948483C068DC8AEDBD2F0.jpg?v=1780520831
+    Price: $42.75 USD
+  - [Brown / L](https://dashtrendstore.com/products/striped-neck-and-hip-hugging-long-skirt?variant=48706159444203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/D1579975F53948483C068DC8AEDBD2F0.jpg?v=1780520831
+    Price: $42.75 USD
+  - [Brown / XL](https://dashtrendstore.com/products/striped-neck-and-hip-hugging-long-skirt?variant=48706159476971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/D1579975F53948483C068DC8AEDBD2F0.jpg?v=1780520831
+    Price: $42.75 USD
+[List Continued](https://dashtrendstore.com/a/llms-agent/llms.txt?shop=hair-frenzy-now.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NjE2Mjg3MDM5NzIzLCJsYXN0X3ZhbHVlIjoiOTYxNjI4NzAzOTcyMyJ9)
 
 ## Collections
 
 - [OrderlyEmails - Recommended Products](https://dashtrendstore.com/collections/orderlyemails-recommended-products): Enhance your emails with free recommended products that update every 4 hours. Boost sales with OrderlyEmails while enjoying seamless integration.
-  Updated: 2026-11-18T09:22:14Z
-  Total Products: 224
+  Updated: 2026-11-22T04:10:14Z
+  Total Products: 223
 - [Women Sport](https://dashtrendstore.com/collections/women-sport): Discover premium Women's Sport gear designed for performance and style. Shop now for the latest apparel and accessories to boost your workouts.
   Updated: 2026-10-21T07:11:28Z
   Total Products: 0
@@ -2995,8 +2991,8 @@
   Updated: 2026-11-17T17:11:26Z
   Total Products: 252
 - [Recommended products (Seguno)](https://dashtrendstore.com/collections/recommended-products-seguno): Explore top- products in stock from our Top collection
-  Updated: 2026-11-18T09:22:14Z
-  Total Products: 224
+  Updated: 2026-11-22T04:10:14Z
+  Total Products: 223
 - [Women Jewelry](https://dashtrendstore.com/collections/women-jewelry-accessories): Discover our stunning Women Jewelry collection featuring elegant designs that enhance any outfit. Perfect for any occasion and style!
   Updated: 2026-11-16T14:56:14Z
   Total Products: 2
@@ -3232,6 +3228,15 @@
     Author: Dash Trend
   - [Step-by-Step Guide to Nailing the Monochromatic Look](https://dashtrendstore.com/blogs/dash-trend-blogs/step-by-step-guide-to-nailing-the-monochromatic-look): Step-by-Step Guide to Nailing the Monochromatic Look
     Updated: 2026-11-20T00:25:37Z
+    Author: Dash Trend
+  - [Exploring the Revival of 90s Fashion Trends](https://dashtrendstore.com/blogs/dash-trend-blogs/exploring-the-revival-of-90s-fashion-trends): Exploring the Revival of 90s Fashion Trends
+    Updated: 2026-11-23T00:41:29Z
+    Author: Dash Trend
+  - [FAQs Answered Your Burning Fashion Trend Questions](https://dashtrendstore.com/blogs/dash-trend-blogs/faqs-answered-your-burning-fashion-trend-questions): FAQs Answered Your Burning Fashion Trend Questions
+    Updated: 2026-11-25T00:27:34Z
+    Author: Dash Trend
+  - [Navigating Fashion Trends for Plus-Size Wearers](https://dashtrendstore.com/blogs/dash-trend-blogs/navigating-fashion-trends-for-plus-size-wearers): Navigating Fashion Trends for Plus-Size Wearers
+    Updated: 2026-11-27T00:23:06Z
     Author: Dash Trend
 
 ## Store Pages
