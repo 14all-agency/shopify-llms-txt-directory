@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2024-09-12T13:08:00Z
 - Contact Email: mmeziad@trefir.com
-- Updated At: 2026-11-20T00:43:38.044Z
+- Updated At: 2026-11-27T00:43:43.886Z
 
 Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying clogs, sandals, slippers, and casual shoes in bulk to retailers worldwide, with no minimum order quantity. Based in Istanbul, Türkiye, with 12+ years of manufacturing experience and 6 million+ pairs shipped to buyers in 30+ countries. Trefir is also the factory behind the Dr. Klompa® and Dr. Mez® brands.
 
@@ -105,7 +105,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Slippers_154002_Black--Synthetic-Fanetta_1.jpg?v=1751009000
     Price: $52.00 USD
 - [Women's Slippers Wholesale | Synthetic Mozaik](https://wholesale.trefir.com/products/womens-slippers-154011): Shop women's slippers wholesale from Trefir Wholesale in Türkiye. Synthetic mozaik material. Pu (polyurethane) outsole. Contact us for bulk orders.
-  Updated: 2026-11-19T08:33:25Z
+  Updated: 2026-11-26T05:17:52Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -583,7 +583,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-09-15-59-04.jpg?v=1751008986
     Price: $52.00 USD
 - [Men's Slippers Wholesale | Synthetic Nubuck](https://wholesale.trefir.com/products/mens-slippers-154088): Shop men's slippers wholesale from Trefir Wholesale in Türkiye. Synthetic nubuck material. Pu (polyurethane) outsole. Contact us for bulk orders.
-  Updated: 2026-11-19T08:33:17Z
+  Updated: 2026-11-23T11:47:00Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1016,7 +1016,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541040_Print--Synthetic-Pranetta_1.jpg?v=1751008956
   Price: $55.20 USD
 - [Men's Sabo Clogs Wholesale | Synthetic Nubuck](https://wholesale.trefir.com/products/mens-sabo-1541043): Shop men's sabo clogs wholesale from Trefir Wholesale in Türkiye. Synthetic nubuck material. Pu (polyurethane) outsole. Contact us for bulk orders.
-  Updated: 2026-11-19T08:33:02Z
+  Updated: 2026-11-24T08:14:46Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -1069,7 +1069,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Slippers_1541045_Print--Synthetic-Pranetta_1.jpg?v=1751008952
   Price: $55.20 USD
 - [Women's Printed Sabo Clogs Wholesale | Synthetic Pranetta](https://wholesale.trefir.com/products/womens-sabo-1541046): Shop women's printed sabo clogs wholesale from Trefir Wholesale in Türkiye. Synthetic pranetta material. Pu (polyurethane) outsole. Contact us for bulk orders.
-  Updated: 2026-11-19T08:33:00Z
+  Updated: 2026-11-23T10:43:55Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -1083,14 +1083,14 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541047_Print--Synthetic-Pranetta_1.jpg?v=1751008950
   Price: $65.20 USD
 - [Women's Printed Sabo Clogs Wholesale | Synthetic Pisa](https://wholesale.trefir.com/products/womens-sabo-1541048): Shop women's printed sabo clogs wholesale from Trefir Wholesale in Türkiye. Synthetic pisa material. Pu (polyurethane) outsole. Contact us for bulk orders.
-  Updated: 2026-11-19T08:32:59Z
+  Updated: 2026-11-23T10:43:25Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541048_Print--Synthetic-Pranetta_1.jpg?v=1751008949
   Price: $55.20 USD
 - [Women's Printed Sabo Clogs Wholesale | Synthetic Pranetta](https://wholesale.trefir.com/products/womens-sabo-1541049): Shop women's printed sabo clogs wholesale from Trefir Wholesale in Türkiye. Synthetic pranetta material. Pu (polyurethane) outsole. Contact us for bulk orders.
-  Updated: 2026-11-19T08:32:55Z
+  Updated: 2026-11-23T10:44:10Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -1117,14 +1117,14 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541052_Print--Synthetic-Pranetta_1.jpg?v=1751008945
   Price: $55.20 USD
 - [Women's Printed Sabo Clogs Wholesale | Synthetic Fanetta](https://wholesale.trefir.com/products/womens-sabo-1541053): Shop women's printed sabo clogs wholesale from Trefir Wholesale in Türkiye. Synthetic fanetta material. Pu (polyurethane) outsole. Contact us for bulk orders.
-  Updated: 2026-11-19T08:32:56Z
+  Updated: 2026-11-23T10:43:20Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541053_Print--Synthetic-Pranetta_1.jpg?v=1751008944
   Price: $55.20 USD
 - [Women's Printed Sabo Clogs Wholesale | Synthetic Pranetta](https://wholesale.trefir.com/products/womens-sabo-1541054): Shop women's printed sabo clogs wholesale from Trefir Wholesale in Türkiye. Synthetic pranetta material. Pu (polyurethane) outsole. Contact us for bulk orders.
-  Updated: 2026-11-19T08:32:55Z
+  Updated: 2026-11-25T06:24:55Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -1351,7 +1351,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541082_Print--Synthetic-Pranetta_1.jpg?v=1751008928
   Price: $55.20 USD
 - [Women's Printed Sabo Clogs Wholesale | Synthetic Fanetta](https://wholesale.trefir.com/products/womens-sabo-1541083): Shop women's printed sabo clogs wholesale from Trefir Wholesale in Türkiye. Synthetic fanetta material. Pu (polyurethane) outsole. Contact us for bulk orders.
-  Updated: 2026-11-19T08:32:49Z
+  Updated: 2026-11-25T06:24:14Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1372,7 +1372,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541085_Print--Synthetic-Pranetta_1.jpg?v=1751008926
   Price: $55.20 USD
 - [Women's Printed Sabo Clogs Wholesale | Synthetic Pranetta](https://wholesale.trefir.com/products/womens-sabo-1541086): Shop women's printed sabo clogs wholesale from Trefir Wholesale in Türkiye. Synthetic pranetta material. Pu (polyurethane) outsole. Contact us for bulk orders.
-  Updated: 2026-11-19T08:32:49Z
+  Updated: 2026-11-23T13:13:10Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -1793,7 +1793,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-09-16-18-16.jpg?v=1751008914
     Price: $52.00 USD
 - [Men's Slippers Wholesale | Synthetic Nubuck](https://wholesale.trefir.com/products/mens-slippers-154143): Shop men's slippers wholesale from Trefir Wholesale in Türkiye. Synthetic nubuck material. Pu (polyurethane) outsole. Contact us for bulk orders.
-  Updated: 2026-11-19T08:32:41Z
+  Updated: 2026-11-25T12:37:05Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -1933,7 +1933,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-09-16-24-03.jpg?v=1751008910
     Price: $52.00 USD
 - [Women's Sandals Wholesale | Synthetic Fanetta](https://wholesale.trefir.com/products/womens-sandals-154148): Shop women's sandals wholesale from Trefir Wholesale in Türkiye. Synthetic fanetta material. Pu (polyurethane) outsole. Contact us for bulk orders.
-  Updated: 2026-11-19T08:32:38Z
+  Updated: 2026-11-24T14:50:54Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2425,7 +2425,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/5870596432908630174.jpg?v=1764842841
     Price: $58.00 USD
 - [Men's Sandals Wholesale | Synthetic Nubuck](https://wholesale.trefir.com/products/mens-sandals-154181): Shop men's sandals wholesale from Trefir Wholesale in Türkiye. Synthetic nubuck material. Pu (polyurethane) outsole. Contact us for bulk orders.
-  Updated: 2026-11-19T08:32:30Z
+  Updated: 2026-11-25T04:15:16Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2631,7 +2631,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Mens_Sandals_154181_Navy--Synthetic-Nubuck-3_1.jpg?v=1778761008
     Price: $68.00 USD
 - [Women's Sabo Clogs Wholesale | Synthetic Nubuck Fanetta](https://wholesale.trefir.com/products/womens-sabo-154182): Shop women's sabo clogs wholesale from Trefir Wholesale in Türkiye. Synthetic nubuck fanetta material. Pu (polyurethane) outsole. Contact us for bulk orders.
-  Updated: 2026-11-19T08:32:28Z
+  Updated: 2026-11-23T12:50:35Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2884,7 +2884,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-11-19T13:48:07Z
   Total Products: 200
 - [Wholesale Footwear Catalog – Shoes, Slippers, Clogs & Sandals](https://wholesale.trefir.com/collections/full-catalog-wholesale-footwear): Explore Trefir's wholesale footwear catalog from Turkey. Browse men's and women's clogs, slippers, sandals and shoes for retailers and distributors.
-  Updated: 2026-11-19T13:49:36Z
+  Updated: 2026-11-24T19:13:54Z
   Total Products: 1309
 - [Women's Footwear Wholesale – Slippers, Clogs, Sandals & Shoes](https://wholesale.trefir.com/collections/womens-footwear-wholesale): Source women's footwear wholesale from Turkey. Explore sabo clogs, slippers, sandals and casual shoes for retailers, wholesalers and distributors at Trefir.
   Updated: 2026-11-19T13:48:07Z
@@ -2896,7 +2896,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-11-18T20:33:08Z
   Total Products: 177
 - [Men's Footwear Wholesale – Slippers, Clogs, Sandals & Shoes](https://wholesale.trefir.com/collections/mens-footwear-wholesale): Explore men's footwear wholesale from Turkey. Source slippers, sabo clogs, sandals and casual shoes in bulk for retailers, wholesalers and distributors at Trefir.
-  Updated: 2026-11-19T13:49:36Z
+  Updated: 2026-11-24T19:13:54Z
   Total Products: 445
 - [Clogs & Sabo Wholesale – Men's & Women's Clogs from Turkey](https://wholesale.trefir.com/collections/clogs-sabo-wholesale): Explore men's and women's clogs and sabo wholesale from Turkey. Source classic, printed and seasonal styles in bulk for retailers and distributors at Trefir.
   Updated: 2026-11-19T13:48:13Z
@@ -2920,7 +2920,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-11-18T20:26:39Z
   Total Products: 4
 - [Casual Shoes Wholesale – Men's & Women's Shoes from Turkey](https://wholesale.trefir.com/collections/casual-shoes-wholesale): Explore casual shoes wholesale from Turkey. Source men's and women's leather and synthetic shoes in bulk for retailers, wholesalers and distributors at Trefir.
-  Updated: 2026-11-18T20:27:07Z
+  Updated: 2026-11-24T19:13:54Z
   Total Products: 258
 - [Men's Clogs & Sabo Wholesale – Manufacturer in Turkey](https://wholesale.trefir.com/collections/mens-clogs-sabo-wholesale): Explore men's sabo clogs wholesale from Turkey. Source classic and seasonal styles in different materials and EU sizes for retailers and distributors.
   Updated: 2026-11-19T13:48:13Z
@@ -2947,7 +2947,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-11-18T20:33:18Z
   Total Products: 25
 - [Faire Smart Collection (Do Not Edit)](https://wholesale.trefir.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire to support product performance reporting on Shopify. Please do not modify or delete this collection, as it is used for analytics and sales insights.
-  Updated: 2026-11-19T13:49:36Z
+  Updated: 2026-11-24T19:13:54Z
   Total Products: 1310
 - [Men's Best- Wholesale Footwear – Slippers, Clogs & Sandals](https://wholesale.trefir.com/collections/mens-best-sellers-wholesale-footwear): Explore men's best- wholesale footwear from Turkey. Browse selected slippers, sabo clogs, sandals and casual shoes for retailers and distributors.
   Updated: 2026-11-18T20:33:13Z
@@ -2965,7 +2965,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-11-18T20:21:39Z
   Total Products: 0
 - [Tigerline Wholesale Footwear – Clogs, Slippers, Sandals & Shoes](https://wholesale.trefir.com/collections/tigerline-wholesale-footwear): Explore Tigerline wholesale footwear from Turkey. Browse men's and women's sabo clogs, slippers, sandals and shoes for retailers, wholesalers and distributors.
-  Updated: 2026-11-18T20:33:18Z
+  Updated: 2026-11-24T19:13:54Z
   Total Products: 300
 - [Dr. Klompa Wholesale Footwear – Sabo Clogs, Slippers & Sandals](https://wholesale.trefir.com/collections/dr-klompa-wholesale-footwear): Explore Dr. Klompa wholesale footwear from Turkey. Discover men's and women's sabo clogs, slippers and sandals in bulk for retailers and distributors.
   Updated: 2026-11-19T13:49:36Z
@@ -2992,7 +2992,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-11-18T20:33:14Z
   Total Products: 275
 - [Regional Wholesale Footwear – Explore Collections by Market](https://wholesale.trefir.com/collections/regional-top-sellers-wholesale): Explore regional wholesale footwear collections from Turkey. Browse slippers, sabo clogs, sandals and shoes selected for different markets at Trefir.
-  Updated: 2026-11-19T13:49:36Z
+  Updated: 2026-11-24T19:13:54Z
   Total Products: 1310
 - [Wholesale Footwear for Africa – Clogs, Slippers & Sandals](https://wholesale.trefir.com/collections/africa-top-sellers-wholesale): Explore wholesale footwear for African retailers and distributors. Source men's and women's sabo clogs, slippers and sandals in bulk from Trefir in Turkey.
   Updated: 2026-11-18T20:33:13Z
@@ -3031,7 +3031,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-11-18T20:33:21Z
   Total Products: 35
 - [Ultimate Search - Do not delete](https://wholesale.trefir.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best  items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2026-11-19T13:49:36Z
+  Updated: 2026-11-24T19:13:54Z
   Total Products: 893
 - [Kernazi - Womens Sandals](https://wholesale.trefir.com/collections/kernazi-womens-sandals)
   Updated: 2026-11-18T20:25:44Z
@@ -3052,7 +3052,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-11-18T20:25:27Z
   Total Products: 0
 - [Kernazi - Men Shoe](https://wholesale.trefir.com/collections/kernazi-men-shoe)
-  Updated: 2026-11-18T20:27:07Z
+  Updated: 2026-11-24T19:13:54Z
   Total Products: 56
 - [Catalog - Womens sabo](https://wholesale.trefir.com/collections/catalog-womens-sabo)
   Updated: 2026-11-19T13:42:51Z
@@ -3223,6 +3223,9 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Author: Mahmoud Aljabouli
   - [Wholesale Footwear Manufacturer Turkey | Trefir Wholesale](https://wholesale.trefir.com/blogs/news/wholesale-footwear-manufacturer-turkey): Wholesale Footwear Manufacturer Turkey | Trefir Wholesale
     Updated: 2026-11-18T15:52:07Z
+    Author: Mahmoud Aljabouli
+  - [Wholesale Footwear Trends 2027: Retailer's Guide | Trefir](https://wholesale.trefir.com/blogs/news/wholesale-footwear-trends-2027): Wholesale Footwear Trends 2027: Retailer's Guide | Trefir
+    Updated: 2026-11-24T18:31:09Z
     Author: Mahmoud Aljabouli
 
 ## Store Pages
