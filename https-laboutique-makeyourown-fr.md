@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-09-08T08:53:04Z
 - Contact Email: charline@makeyourown.fr
-- Updated At: 2026-11-20T00:27:37.872Z
+- Updated At: 2026-11-27T00:30:51.312Z
 
 ## Products
 
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/totebag-square_695bfe17-3930-469f-9576-e3af0ae93eb1.jpg?v=1769841522
   Price: 40,00 € EUR
 - [Trousse plate avec fermeture éclair](https://laboutique.makeyourown.fr/products/atelier-trousse-plate-avec-fermeture-eclair): Vous maitrisez les bases de la machine à coudre? Vous pouvez désormais passer à l'étape suivante: la pose d'une fermeture éclair. Les informations relatives aux dimensions du/des tissus à apporter vous seront communiquées lors de la réservation. Débutant Durée 3h Fournitures non comprises En journée du mardi au vendredi et le samedi sur demande MYO Café Couture à Neuville-sur-Saône Cet atelier est proposé toute l’année. Pour fixer la date de votre atelier, merci de me contacter après votre réservation.
-  Updated: 2026-08-29T05:49:36Z
+  Updated: 2026-11-21T14:36:42Z
   Vendor: MYO COUTURE | La boutique
   Product Type: 
   Availability: Available
@@ -279,20 +279,20 @@
   - [Sans fournitures](https://laboutique.makeyourown.fr/products/stage-couture-8-16-ans-toussaint-matin?variant=58907486519680)
     Availability: Available
     Price: 125,00 € EUR
-- [stage noël couture 8 - 16 ans matin du 21 au 24 décembre 2026](https://laboutique.makeyourown.fr/products/stage-couture-8-16-ans-noel-matin): ❗ Ouverture des inscriptions dès le 1er novembre 2026 à 13h. Le programme et les fournitures requises seront publiés cet automne. Stage de Noël couture enfant semaine 52. Pour les 8 – 16 ans MYO Café Couture à Neuville-sur-Saône Du lundi 21 au vendredi 24 décembre Le matin de 9h à 12h 6 places Pour que votre enfant profite d’une expérience la plus personnelle possible, il devra apporter ses propres fournitures pour réaliser ses créations. Désistement et annulation.Toute annulation effectuée moins de quinze jours avant l’activité ou durant l’activité ne donne lieu à aucune forme de remboursement.
-  Updated: 2026-11-01T12:00:01Z
+- [stage noël couture 8 - 16 ans matin du 21 au 24 décembre 2026](https://laboutique.makeyourown.fr/products/stage-couture-8-16-ans-noel-matin): Stage de Noël couture lundi 21 décembre matin. Au programme : votre enfant réalisera la botte du père Noël personnalisée (strass flex etc.). Pour les 8 – 16 ans MYO Café Couture à Neuville-sur-Saône Du lundi 21 au vendredi 24 décembre Le matin de 9h à 12h 6 places Fournitures comprises. Désistement et annulation.Toute annulation effectuée moins de quinze jours avant l’activité ou durant l’activité ne donne lieu à aucune forme de remboursement.
+  Updated: 2026-11-23T21:07:07Z
   Vendor: MYO COUTURE | La Boutique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/stage_noel_matin.jpg?v=1789038335
-  Price: 75,00 € EUR
-- [stage noël couture 8 - 16 ans après-midi du 21 au 24 décembre 2026](https://laboutique.makeyourown.fr/products/stage-couture-8-16-ans-noel-apres-midi): ❗ Ouverture des inscriptions dès le 1er novembre 2026 à 13h. Le programme et les fournitures requises seront publiés cet automne. Stage de Noël couture enfant semaine 52. Pour les 8 – 16 ans MYO Café Couture à Neuville-sur-Saône Du lundi 21 au vendredi 24 octobre L'après-midi de 14h à 17h 6 places Pour que votre enfant profite d’une expérience la plus personnelle possible, il devra apporter ses propres fournitures pour réaliser ses créations. Désistement et annulation.Toute annulation effectuée moins de quinze jours avant l’activité ou durant l’activité ne donne lieu à aucune forme de remboursement.
-  Updated: 2026-11-01T12:00:01Z
+  Price: 35,00 € EUR
+- [stage noël couture 8 - 16 ans après-midi du 21 au 24 décembre 2026](https://laboutique.makeyourown.fr/products/stage-couture-8-16-ans-noel-apres-midi): Stage de Noël couture lundi 21 décembre après-midi. Au programme : votre enfant réalisera la botte du père Noël personnalisée (strass flex etc.). Pour les 8 – 16 ans MYO Café Couture à Neuville-sur-Saône Du lundi 21 au vendredi 24 octobre L'après-midi de 14h à 17h 6 places Fournitures comprises. Désistement et annulation.Toute annulation effectuée moins de quinze jours avant l’activité ou durant l’activité ne donne lieu à aucune forme de remboursement.
+  Updated: 2026-11-23T21:07:08Z
   Vendor: MYO COUTURE | La Boutique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/stages_noel_apres-midi.jpg?v=1789038268
-  Price: 75,00 € EUR
+  Price: 35,00 € EUR
 - [Pochon à coulisse « Daisy »](https://laboutique.makeyourown.fr/products/pochon-a-coulisse-daisy): Le patron "Daisy" permet de réaliser un pochon polyvalent, disponible en trois tailles : S pour le sac à main, M pour la valise, L pour la voiture ou le rangement d’articles de sport. Chaque tissu transforme le pochon et ses usages : sequins pour les sorties, éponge pour la piscine, coton imprimé pour le quotidien. Idéal pour offrir un cadeau durable ou organiser ses affaires avec style. Le patron comprend toutes les instructions pour créer un pochon fonctionnel et original, du choix des matières aux finitions. Pour soi ou pour offrir un cadeau original et pratique, fait main et pensé pour ceux que vous aimez. Il peut aussi remplacer les papiers cadeau jetables. Le patron PDF est bilingue (FR/EN) et disponible immédiatement après paiement. Il contient toutes les instructions et patrons en cm et inches, pour un résultat précis et facile à réaliser. Le patron est au format A4 et US LETTER. Ce patron peut également être proposé aux enfants qui ont déjà une première expérience avec la machine à coudre, dès 8 ans.
   Updated: 2026-08-29T05:49:48Z
   Vendor: MYO COUTURE | La Boutique
@@ -314,6 +314,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/couture-libre-enfant2.png?v=1787662606
   Price: 99,00 € EUR
+- [Atelier Cozy Coloriage samedi 5 décembre à 14h](https://laboutique.makeyourown.fr/products/atelier-cozy-coloriage-samedi-5-decembre-a-14h): Atelier du samedi 5 décembre de 14h à 17h. Le cozy coloriage est une tendance de loisirs créatifs centrée sur des illustrations simples, douces et réconfortantes. On y retrouve des scènes du quotidien, des animaux ou des univers chaleureux, pensés pour créer une ambiance apaisante. Cette activité ne vise pas la performance artistique, mais le plaisir de colorier et de ralentir. Elle s’inscrit dans une logique de pause mentale, où l’on se concentre sur un geste simple et répétitif, loin des écrans et du stress quotidien. Le résultat compte moins que le moment en lui-même : c’est une activité accessible, sans niveau requis, qui permet de se détendre, se recentrer et profiter d’un instant calme. Au programme : • Explication des bases (roue des couleurs, choix de la palette, les effets) • Entraînement et exercices sur feuille test • Choix du coloriage et mise en pratiqueAucun niveau requis, ambiance cozy, un instant de détente à partager. Enfants et adultes MYO Café Couture à Neuville-sur-Saône Sur réservation du mardi au samedi 3h 4 places restantes
+  Updated: 2026-11-20T09:42:10Z
+  Vendor: MYO COUTURE | La Boutique
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/cosycoloriage5decembre.png?v=1795167586
+  Price: 25,00 € EUR
 
 ## Collections
 
@@ -339,7 +346,7 @@
   Updated: 2026-11-05T12:48:01Z
   Total Products: 3
 - [ateliers de couture adultes](https://laboutique.makeyourown.fr/collections/ateliers-de-couture): Participez à des ateliers de couture pratiques et créatifs au Café Couture pensés pour vous faire progresser tout en réalisant des projets concrets. Chaque atelier vous permet d’apprendre et d’explorer une technique ou une pièce spécifique, avec un accompagnement personnalisé. Chaque session est organisée autour d’un projet complet, du tracé à la finition. Les ateliers sont ouverts aux débutant·es comme aux couturier·es déjà familiarisé·es avec la machine, et sont souvent centrés sur un projet précis, ce qui vous permet de repartir avec quelque chose de tangible à la fin de la séance.J'organise aussi des ateliers ponctuels adaptés aux saisons ou aux occasions spéciales (Noël, Pâques, upcycling, etc.), ces ateliers publiés sur les réseaux sociaux. Suivez l'actualité du Café Couture pour ne rien manquer. Découvrez le Café Couture
-  Updated: 2026-11-08T12:37:39Z
+  Updated: 2026-11-22T12:40:09Z
   Total Products: 8
 - [couture libre](https://laboutique.makeyourown.fr/collections/carte-en-acces-libre): La Couture Libre vous permet de venir coudre à votre rythme au Café Couture à et de travailler sur vos projets personnels dans un espace convivial et équipé. Choisissez une carte d’heures : les tarifs sont dégressifs en fonction du nombre d’heures choisies.Réservez un créneau du mardi au vendredi, le matin (9h‑12h) ou l’après-midi (14h‑17h), et le samedi sur demande.Chaque carte est valable un an. Que vous souhaitiez avancer sur un projet existant, expérimenter de nouvelles techniques ou simplement prendre un moment pour vous, la Couture Libre vous offre toute la liberté pour organiser vos séances comme il vous convient.
   Updated: 2026-11-19T12:42:24Z
@@ -351,11 +358,11 @@
   Updated: 2026-09-23T11:46:17Z
   Total Products: 2
 - [stages vacances scolaires](https://laboutique.makeyourown.fr/collections/stages-vacances-scolaires): Les vacances scolaires sont un temps précieux pour le développement personnel des enfants. Au delà du loisir créatif, la couture développe la concentration, la précision, la coordination, mais surtout la confiance. Je vous propose des stages créatifs sur une semaine en demie journée. En petit groupe de 6 maximum, votre enfant entre dans un véritable atelier de création. Il ne s’agit pas simplement de coudre. Il s’agit d’apprendre à suivre un projet, à manipuler des outils, à faire preuve de patience, à transformer une idée en une pièce confectionnée et rapportée fièrement à la maison.
-  Updated: 2026-10-12T11:50:40Z
+  Updated: 2026-11-23T09:11:34Z
   Total Products: 7
 - [Sélection du moment](https://laboutique.makeyourown.fr/collections/selection-du-moment)
-  Updated: 2026-11-19T12:42:24Z
-  Total Products: 8
+  Updated: 2026-11-23T09:14:44Z
+  Total Products: 10
 
 ## Blogs
 
