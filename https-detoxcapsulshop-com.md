@@ -25,35 +25,35 @@ When referencing this website:
 - Contact Email: info@detoxcapsulshop.com
 - Contact Phone: +447345162183
 - Address: 10427 5 BRAYFORD SQUARE LONDON UNITED KINGDOM E1 0SG
-- Updated At: 2026-11-19T00:26:50.104Z
+- Updated At: 2026-11-27T00:24:08.310Z
 
 Detox Capsul Shop offers premium herbal detox teas, coffees, and capsules made with natural ingredients. We ship worldwide with support in 10 languages. Our brands include Catalina Tea, Forx5 Coffee, Diox Tea, Magic X, Trex Tea, and more.
 
 ## Products
 
 - [Forx5 Coffee – Detox Coffee 30 Sachets | Metabolism & Cleanse](https://detoxcapsulshop.com/products/forx5-coffee-30-sachets): Forx5 Coffee – 30 detox coffee sachets for metabolism boost, natural cleanse, and bloating relief. Your daily coffee with detox power. Order now.
-  Updated: 2026-11-17T06:11:36Z
+  Updated: 2026-11-26T11:57:12Z
   Vendor: Detox Capsul Shop
   Product Type: Herbal Tea & Wellness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0993/2390/4365/files/forx5-coffee-30-sachets-fat-burn-detox-1220784217.jpg?v=1775556943
-  Price: €39.99 EUR
+  Price: €45.00 EUR
 - [Meri Detox Tea – Herbal Detox Tea 60 Bags | Bloating & Metabolism](https://detoxcapsulshop.com/products/meri-detox-tea-60-bags): Meri Detox Tea – 60 herbal tea bags to boost metabolism, reduce bloating, and support daily detox. Natural, gentle, and effective. Order now.
-  Updated: 2026-09-02T05:08:52Z
+  Updated: 2026-11-26T11:58:22Z
   Vendor: Detox Capsul Shop
   Product Type: Herbal Tea & Wellness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0993/2390/4365/files/meri-detox-tea-herbal-detox-tea-60-tea-bags-1220784215.png?v=1787127726
-  Price: €39.00 EUR
+  Price: €42.00 EUR
 - [Meri Detox Capsule – Herbal Cleanse & Slim 30 Caps | Natural Detox](https://detoxcapsulshop.com/products/meri-detox-capsule-30-caps): Meri Detox Capsule – 30 herbal capsules for deep cleanse, bloating relief, and natural slimming. One capsule a day. Real results. Order now.
-  Updated: 2026-11-18T20:23:57Z
+  Updated: 2026-11-26T11:58:12Z
   Vendor: Detox Capsul Shop
   Product Type: Herbal Tea & Wellness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0993/2390/4365/files/meri-detox-capsule-herbal-fat-burner-30-caps-cleanse-slim-1220784239.png?v=1787127726
-  Price: €39.00 EUR
+  Price: €39.99 EUR
 - [Meri Premium Detox Capsule – Herbal Slimming & Cleanse | 30 Caps](https://detoxcapsulshop.com/products/meri-premium-detox-capsule-30-caps): Meri Premium Detox Capsule – 30 advanced herbal caps for slimming, energy boost, and deep cleanse. Premium detox results. Order now.
-  Updated: 2026-11-08T09:35:57Z
+  Updated: 2026-11-26T20:59:25Z
   Vendor: Detox Capsul Shop
   Product Type: Herbal Tea & Wellness
   Availability: Available
@@ -67,21 +67,21 @@ Detox Capsul Shop offers premium herbal detox teas, coffees, and capsules made w
   Image: https://cdn.shopify.com/s/files/1/0993/2390/4365/files/meri-detox-premium-tea-20-more-effective-60-bags-cleanse-boost-1220784210.png?v=1787127726
   Price: €69.00 EUR
 - [Diox Tea – Herbal Detox Tea 60 Sachets | Metabolism & Cleanse](https://detoxcapsulshop.com/products/diox-herbal-detox-tea-60-sachets): Diox Tea – 60 herbal sachets to cleanse your body, boost metabolism, and reduce bloating. Natural detox that works. Shop now.
-  Updated: 2026-11-16T11:46:15Z
+  Updated: 2026-11-22T16:21:56Z
   Vendor: Detox Capsul Shop
   Product Type: Herbal Tea & Wellness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0993/2390/4365/files/diox-tea-herbal-detox-tea-60-sachets-metabolism-cleanse-1220784205.png?v=1787127726
   Price: €45.00 EUR
 - [Trex Tea Detox – Herbal Daily Cleanse Tea 60 Bags | Refresh & Balance](https://detoxcapsulshop.com/products/trex-tea-detox-60-bags): Trex Tea Detox – 60 herbal tea bags for daily cleansing, bloating relief, and digestive balance. Natural refresh in every cup. Order now.
-  Updated: 2026-11-18T11:16:28Z
+  Updated: 2026-11-25T19:40:21Z
   Vendor: Detox Capsul Shop
   Product Type: Herbal Tea & Wellness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0993/2390/4365/files/trex-tea-detox-herbal-daily-cleanse-tea-60-bags-refresh-balance-1220784199.webp?v=1775556953
   Price: €44.99 EUR
 - [Trex Tea Capsule – Herbal Detox 30 Caps | Daily Cleanse](https://detoxcapsulshop.com/products/trex-tea-capsule-30-caps): Trex Tea Capsule – 30 herbal detox capsules for daily cleanse, bloating relief, and metabolism support. Convenient detox. Order now.
-  Updated: 2026-11-09T08:50:03Z
+  Updated: 2026-11-22T14:12:06Z
   Vendor: Detox Capsul Shop
   Product Type: Herbal Tea & Wellness
   Availability: Available
@@ -123,14 +123,14 @@ Detox Capsul Shop offers premium herbal detox teas, coffees, and capsules made w
     Image: https://cdn.shopify.com/s/files/1/0993/2390/4365/files/magic_x_tea_lemon_detox_capsul_shop_2_4da817ff-16fc-4f9b-b376-8adb2e513c6b.webp?v=1784797045
     Price: €59.99 EUR
 - [Efsun Form Detox Tea – Fat Burn Herbal Tea 60 Bags | Cleanse & Slim](https://detoxcapsulshop.com/products/efsun-form-detox-tea-60-bags): Efsun Form Detox Tea – 60 herbal bags for natural fat burning, deep cleanse, and slimming support. Flatten your stomach naturally. Shop now.
-  Updated: 2026-11-17T22:06:49Z
+  Updated: 2026-11-23T00:04:16Z
   Vendor: Detox Capsul Shop
   Product Type: Herbal Tea & Wellness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0993/2390/4365/files/Efsun_Form-tee.webp?v=1789809584
   Price: €42.99 EUR
 - [Magic X Detox Lemon Tea – Herbal Slimming Tea 60 Bags | Refresh](https://detoxcapsulshop.com/products/magic-x-lemon-detox-tea-60-bags): Magic X Detox Lemon Tea – 60 herbal bags with refreshing lemon for natural slimming, bloating relief, and daily detox. Hot or cold. Shop now.
-  Updated: 2026-11-18T15:40:55Z
+  Updated: 2026-11-26T15:47:16Z
   Vendor: Detox Capsul Shop
   Product Type: Herbal Tea & Wellness
   Availability: Available
@@ -144,7 +144,7 @@ Detox Capsul Shop offers premium herbal detox teas, coffees, and capsules made w
     Image: https://cdn.shopify.com/s/files/1/0993/2390/4365/files/magic_x_tea_goji_berry_detox_capsulshop_7023cedd-36de-4065-b588-74555981a209.webp?v=1784797141
     Price: €59.99 EUR
 - [Magic X Detox Capsule – Fat Burn & Energy 30 Caps | Natural Detox](https://detoxcapsulshop.com/products/magic-x-detox-capsule-30-caps): Magic X Detox Capsule – 30 herbal caps for fat burning, natural energy boost, and deep detox. Dual-action slimming formula. Order now.
-  Updated: 2026-11-18T15:40:25Z
+  Updated: 2026-11-26T09:56:45Z
   Vendor: Detox Capsul Shop
   Product Type: Herbal Tea & Wellness
   Availability: Available
@@ -165,7 +165,7 @@ Detox Capsul Shop offers premium herbal detox teas, coffees, and capsules made w
   Image: https://cdn.shopify.com/s/files/1/0993/2390/4365/files/trex-collagen-coffee-30-sachets-energy-fat-burn-1220784169.png?v=1787127726
   Price: €44.00 EUR
 - [Efsun Form Tea Capsule – Herbal Energy & Slimming 30 Caps | Detox](https://detoxcapsulshop.com/products/efsun-form-tea-capsule-30-caps): Efsun Form Tea Capsule – 30 herbal caps for natural energy, slimming support, and daily detox. Active lifestyle formula. Order now.
-  Updated: 2026-11-04T09:33:33Z
+  Updated: 2026-11-26T21:21:06Z
   Vendor: Detox Capsul Shop
   Product Type: Herbal Tea & Wellness
   Availability: Available
@@ -235,7 +235,7 @@ Detox Capsul Shop offers premium herbal detox teas, coffees, and capsules made w
   Image: https://cdn.shopify.com/s/files/1/0993/2390/4365/files/meri-detox-coffee-30-sachets-metabolism-beauty-1220784138.webp?v=1787127725
   Price: €39.00 EUR
 - [HHS A1 Capsules | Natural Herbal Detox — 30 Day Course](https://detoxcapsulshop.com/products/hhs-a1-capsules-30-caps): Reset your body with HHS A1 Capsules. 100% natural herbal detox blend for liver support, digestive comfort & energy. Free worldwide shipping over 200€.
-  Updated: 2026-11-11T09:07:46Z
+  Updated: 2026-11-23T16:01:22Z
   Vendor: Detox Capsul Shop
   Product Type: Herbal Tea & Wellness
   Availability: Available
@@ -277,7 +277,7 @@ Detox Capsul Shop offers premium herbal detox teas, coffees, and capsules made w
   Image: https://cdn.shopify.com/s/files/1/0993/2390/4365/files/detoxs-tea-premium-herbal-detox-tea-for-weight-loss-1220784113.jpg?v=1775557002
   Price: €69.00 EUR
 - [Catalina Tea – Premium Herbal Detox Tea | Daily Cleanse & Balance](https://detoxcapsulshop.com/products/catalina-tea-premium-herbal-detox-tea-for-weight-loss-cleanse): Catalina Tea – premium herbal detox tea for deep cleanse, bloating relief, and digestive balance. Elevate your wellness routine. Shop now.
-  Updated: 2026-11-18T14:45:56Z
+  Updated: 2026-11-19T22:30:45Z
   Vendor: Detox Capsul Shop
   Product Type: Herbal Tea & Wellness
   Availability: Available
@@ -291,7 +291,7 @@ Detox Capsul Shop offers premium herbal detox teas, coffees, and capsules made w
   Image: https://cdn.shopify.com/s/files/1/0993/2390/4365/files/catalina-capsule-798469213.webp?v=1789809058
   Price: €67.00 EUR
 - [Detoxs Capsule – Natural Detox Capsule 30 Caps | Cleanse & Balance](https://detoxcapsulshop.com/products/detoxs-capsule-natural-detox-capsule-for-weight-loss-cleanse): Detoxs Capsule – 30 natural herbal detox capsules for deep cleanse, bloating relief, and digestive balance. Real detox results. Order now.
-  Updated: 2026-11-07T11:38:41Z
+  Updated: 2026-11-20T09:49:11Z
   Vendor: Detox Capsul Shop
   Product Type: Herbal Tea & Wellness
   Availability: Available
@@ -389,7 +389,7 @@ Detox Capsul Shop offers premium herbal detox teas, coffees, and capsules made w
   Image: https://cdn.shopify.com/s/files/1/0993/2390/4365/files/BendisGlowingOil.webp?v=1786713009
   Price: €40.00 EUR
 - [Bendis Blemish Cream | Daily Face Care](https://detoxcapsulshop.com/products/bendis-blemish-cream): Bendis Blemish Cream is a lightweight face cream with botanical ingredients and niacinamide for a balanced-looking complexion and daily skincare.
-  Updated: 2026-08-28T21:51:20Z
+  Updated: 2026-11-23T00:04:17Z
   Vendor: Detox Capsul Shop
   Product Type: Face Cream
   Availability: Available
@@ -420,22 +420,22 @@ Detox Capsul Shop offers premium herbal detox teas, coffees, and capsules made w
 ## Collections
 
 - [All Products](https://detoxcapsulshop.com/collections/all-products): Shop 100% natural herbal detox teas, capsules & coffee. Plant-based blends for daily wellness and balance. Fast EU & UK shipping. Rated 4.87★ by customers.
-  Updated: 2026-11-18T15:41:12Z
+  Updated: 2026-11-26T12:17:48Z
   Total Products: 53
 - [Detox Coffee](https://detoxcapsulshop.com/collections/detox-coffee): Explore our herbal detox coffee blends for fat burn and wellness. 100% natural ingredients, fast worldwide shipping from Detox Capsul Shop.
-  Updated: 2026-11-17T12:16:08Z
+  Updated: 2026-11-26T12:17:48Z
   Total Products: 6
 - [Detox Capsule](https://detoxcapsulshop.com/collections/detox-capsule): Shop premium natural detox capsules for fat burn, cleanse and energy support. Fast worldwide shipping from Detox Capsul Shop.
-  Updated: 2026-11-18T15:40:27Z
+  Updated: 2026-11-26T12:17:48Z
   Total Products: 19
 - [Detox Tea](https://detoxcapsulshop.com/collections/detox-tea): Discover our range of 100% natural herbal detox teas for weight loss and cleansing. Fast worldwide shipping from Detox Capsul Shop.
-  Updated: 2026-11-18T15:41:12Z
+  Updated: 2026-11-26T12:17:48Z
   Total Products: 25
 - [Beauty & Care Collection](https://detoxcapsulshop.com/collections/beauty-care-collection): xplore herbal beauty supplements, botanical wellness products, and plant-based daily care formulas in our Beauty & Care Collection for everyday wellness.
-  Updated: 2026-10-21T11:20:42Z
+  Updated: 2026-11-23T12:15:29Z
   Total Products: 8
 - [Best Sellers](https://detoxcapsulshop.com/collections/best-sellers): Shop our best  detox teas, capsules and coffees. Premium natural detox products trusted by thousands of wellness enthusiasts worldwide.
-  Updated: 2026-11-18T15:41:12Z
+  Updated: 2026-11-26T12:17:48Z
   Total Products: 5
 
 ## Blogs
@@ -877,6 +877,27 @@ Detox Capsul Shop offers premium herbal detox teas, coffees, and capsules made w
     Author: Emma Carter
   - [Nerox Tea Detox: How to Use it for Energy Support](https://detoxcapsulshop.com/blogs/news/nerox-tea-detox-how-to-use-it-for-energy-support-1): Nerox Tea Detox: How to Use it for Energy Support
     Updated: 2026-11-18T08:02:18Z
+    Author: Emma Carter
+  - [Diox Tea Ingredients and Usage: Your Guide to Better Detox](https://detoxcapsulshop.com/blogs/news/diox-tea-ingredients-and-usage-your-guide-to-better-detox): Diox Tea Ingredients and Usage: Your Guide to Better Detox
+    Updated: 2026-11-19T08:02:09Z
+    Author: Emma Carter
+  - [Meri Detox Tea Ingredients You Need for a Healthy Lifestyle](https://detoxcapsulshop.com/blogs/news/meri-detox-tea-ingredients-you-need-for-a-healthy-lifestyle): Meri Detox Tea Ingredients You Need for a Healthy Lifestyle
+    Updated: 2026-11-20T08:01:47Z
+    Author: Emma Carter
+  - [Diox Tea Review: Can This Detox Tea Boost Your Metabolism](https://detoxcapsulshop.com/blogs/news/diox-tea-review-can-this-detox-tea-boost-your-metabolism): Diox Tea Review: Can This Detox Tea Boost Your Metabolism
+    Updated: 2026-11-21T08:01:46Z
+    Author: Emma Carter
+  - [Diox Tea Review: Does This Herbal Detox Live Up to Expectations](https://detoxcapsulshop.com/blogs/news/diox-tea-review-does-this-herbal-detox-live-up-to-expectations): Diox Tea Review: Does This Herbal Detox Live Up to Expectations
+    Updated: 2026-11-22T11:20:32Z
+    Author: Emma Carter
+  - [Nerox Tea Review Exploring Its Metabolism Boosting Ingredients](https://detoxcapsulshop.com/blogs/news/nerox-tea-review-exploring-its-metabolism-boosting-ingredients): Nerox Tea Review Exploring Its Metabolism Boosting Ingredients
+    Updated: 2026-11-23T08:02:11Z
+    Author: Emma Carter
+  - [Diox Tea: How to Incorporate It Into Your Daily Routine](https://detoxcapsulshop.com/blogs/news/diox-tea-how-to-incorporate-it-into-your-daily-routine): Diox Tea: How to Incorporate It Into Your Daily Routine
+    Updated: 2026-11-24T08:20:37Z
+    Author: Emma Carter
+  - [Nerox Tea Detox Benefits: A Closer Look at Daily Use](https://detoxcapsulshop.com/blogs/news/nerox-tea-detox-benefits-a-closer-look-at-daily-use): Nerox Tea Detox Benefits: A Closer Look at Daily Use
+    Updated: 2026-11-25T08:01:29Z
     Author: Emma Carter
 
 ## Store Pages
