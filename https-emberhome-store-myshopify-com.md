@@ -6,7 +6,7 @@
 - Timezone: Africa/Accra
 - Created At: 2026-09-28T15:12:47Z
 - Contact Email: edwardzebulon777@gmail.com
-- Updated At: 2026-11-19T01:50:03.851Z
+- Updated At: 2026-11-27T01:42:45.052Z
 
 ## Products
 
@@ -429,6 +429,18 @@
     Author: Edward Zebulon
   - [Captivating Decor Explained: Bringing Dynamic Beauty to Your Space with Sand Art](https://emberhome-store.myshopify.com/blogs/news/captivating-decor-explained-bringing-dynamic-beauty-to-your-space-with-sand-art): Captivating Decor Explained: Bringing Dynamic Beauty to Your Space with Sand Art
     Updated: 2026-11-16T06:37:07Z
+    Author: Edward Zebulon
+  - [Immerse Your Space in Beauty: A Guide to Selecting the Perfect Sand Art](https://emberhome-store.myshopify.com/blogs/news/immerse-your-space-in-beauty-a-guide-to-selecting-the-perfect-sand-art): Immerse Your Space in Beauty: A Guide to Selecting the Perfect Sand Art
+    Updated: 2026-11-21T01:42:08Z
+    Author: Edward Zebulon
+  - [Enhance Your Interior's Elegance with Beautiful 3D Moving Sand Art](https://emberhome-store.myshopify.com/blogs/news/enhance-your-interiors-elegance-with-beautiful-3d-moving-sand-art): Enhance Your Interior's Elegance with Beautiful 3D Moving Sand Art
+    Updated: 2026-11-22T23:44:08Z
+    Author: Edward Zebulon
+  - [Creating tranquil spaces with unique moving sand art](https://emberhome-store.myshopify.com/blogs/news/creating-tranquil-spaces-with-unique-moving-sand-art): Creating tranquil spaces with unique moving sand art
+    Updated: 2026-11-23T22:45:09Z
+    Author: Edward Zebulon
+  - [Exploring the Unique Elements of 3D Moving Sand Art for Home Decor](https://emberhome-store.myshopify.com/blogs/news/exploring-the-unique-elements-of-3d-moving-sand-art-for-home-decor): Exploring the Unique Elements of 3D Moving Sand Art for Home Decor
+    Updated: 2026-11-27T00:04:21Z
     Author: Edward Zebulon
 
 ## Store Pages
