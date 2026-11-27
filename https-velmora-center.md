@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2026-08-20T05:06:30Z
 - Contact Email: moricenoelle24@gmail.com
-- Updated At: 2026-11-19T01:06:16.546Z
+- Updated At: 2026-11-27T01:11:04.180Z
 
 ## Products
 
@@ -2434,33 +2434,7 @@
   - [4 Pack](https://velmora.center/products/better-homes-gardens-brown-rattan-organizer-basket-with-lid?variant=48864572604608)
     Availability: Available
     Price: $99.88 AUD
-- [Velmora™ 3 Cube Storage Organizer, Rustic Gray](https://velmora.center/products/better-homes-gardens-3-cube-storage-organizer-rustic-gray): Discover the 3 Cube Storage Organizer, Rustic Gray by Velmora™. Premium quality storage baskets & bins designed for exceptional style, lasting durability, an...
-  Updated: 2026-08-28T21:52:59Z
-  Vendor: Velmora™
-  Product Type: Storage Baskets & Bins
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/1586/5792/files/Better-Homes-Gardens-3-Cube-Storage-Organizer-Rustic-Gray_352a3b04-1f61-46c2-9569-8b5d395e2059.8d5a7baeef763b5035a175ee104614ba.jpg?v=1787337652
-  - [Charcoal](https://velmora.center/products/better-homes-gardens-3-cube-storage-organizer-rustic-gray?variant=48864573063360)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/1586/5792/files/Better-Homes-Gardens-3-Cube-Storage-Organizer-Charcoal_b629227f-7140-46d8-b864-3ce54cc36c5b.14a9c1b69ecd76d763b038ffd3c26d8d.jpg?v=1787337652
-    Price: $42.00 AUD
-  - [Rustic Gray](https://velmora.center/products/better-homes-gardens-3-cube-storage-organizer-rustic-gray?variant=48864573096128)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/1586/5792/files/Better-Homes-Gardens-3-Cube-Storage-Organizer-Rustic-Gray_352a3b04-1f61-46c2-9569-8b5d395e2059.8d5a7baeef763b5035a175ee104614ba.jpg?v=1787337652
-    Price: $42.00 AUD
-  - [Solid Black](https://velmora.center/products/better-homes-gardens-3-cube-storage-organizer-rustic-gray?variant=48864573128896)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/1586/5792/files/Better-Homes-Gardens-3-Cube-Storage-Organizer-Solid-Black_8242b936-0b81-4574-b96a-c8131de1e470.a87c2640d4caf71fe6bd4be549540e75.jpg?v=1787337653
-    Price: $42.00 AUD
-  - [Textured White](https://velmora.center/products/better-homes-gardens-3-cube-storage-organizer-rustic-gray?variant=48864573161664)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0777/1586/5792/files/Better-Homes-Gardens-3-Cube-Storage-Organizer-White-Texture_562c0a51-0fa6-407b-862a-52ceb9ff311c.9f16430b80d67edbb1f4062affeb80e4.jpg?v=1787337652
-    Price: $42.00 AUD
-  - [Tobacco Oak](https://velmora.center/products/better-homes-gardens-3-cube-storage-organizer-rustic-gray?variant=48864573194432)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0777/1586/5792/files/Better-Homes-Gardens-3-Cube-Storage-Organizer-Tobacco-Oak_6073728d-c5ad-4e26-ae67-9f5ed297998d.995fb72fe3e69c11a4fef2eacec0a308.jpg?v=1787337653
-    Price: $42.00 AUD
-[List Continued](https://velmora.center/a/llms-agent/llms.txt?shop=vpknhp-0c.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Njk2MDcwNzk5NTUyLCJsYXN0X3ZhbHVlIjoiODY5NjA3MDc5OTU1MiJ9)
+[List Continued](https://velmora.center/a/llms-agent/llms.txt?shop=vpknhp-0c.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Njk2MDcwNzY2Nzg0LCJsYXN0X3ZhbHVlIjoiODY5NjA3MDc2Njc4NCJ9)
 
 ## Collections
 
@@ -2614,6 +2588,15 @@
     Author: Velmora™
   - [Design Your Cozy Reading Nook: Transform with Velmora™ Microfiber Bucket Accent Chair and Warm Minimalism Decor](https://velmora.center/blogs/news/design-your-cozy-reading-nook-transform-with-velmora™-microfiber-bucket-accent-chair-and-warm-minimalism-decor): Design Your Cozy Reading Nook: Transform with Velmora™ Microfiber Bucket Accent Chair and Warm Minimalism Decor
     Updated: 2026-11-17T11:04:19Z
+    Author: Velmora™
+  - [Creating a Clutter Free Modern Home Decor with Velmora™: Styling Your Space with Neutral Area Rugs and Ambient Floor Lighting](https://velmora.center/blogs/news/creating-a-clutter-free-modern-home-decor-with-velmora™-styling-your-space-with-neutral-area-rugs-and-ambient-floor-lighting): Creating a Clutter Free Modern Home Decor with Velmora™: Styling Your Space with Neutral Area Rugs and Ambient Floor Lighting
+    Updated: 2026-11-20T11:00:49Z
+    Author: Velmora™
+  - [How Velmora™ Ivory Shag Rugs Perfectly Blend Modern Home Decor in Quiet Luxury Living Rooms](https://velmora.center/blogs/news/how-velmora™-ivory-shag-rugs-perfectly-blend-modern-home-decor-in-quiet-luxury-living-rooms): How Velmora™ Ivory Shag Rugs Perfectly Blend Modern Home Decor in Quiet Luxury Living Rooms
+    Updated: 2026-11-23T11:05:44Z
+    Author: Velmora™
+  - [Creating a Warm Minimalist Space With Velmora™ Jasper Gray Abstract Rug and Living Room Styling Ideas](https://velmora.center/blogs/news/creating-a-warm-minimalist-space-with-velmora™-jasper-gray-abstract-rug-and-living-room-styling-ideas): Creating a Warm Minimalist Space With Velmora™ Jasper Gray Abstract Rug and Living Room Styling Ideas
+    Updated: 2026-11-24T11:04:48Z
     Author: Velmora™
 
 ## Store Pages
