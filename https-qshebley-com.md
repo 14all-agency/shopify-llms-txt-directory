@@ -9,7 +9,7 @@
 - Created At: 2014-06-06T22:31:25Z
 - Contact Email: info@shopqbyqs.com
 - Contact Phone: 18883188144
-- Updated At: 2026-11-20T01:01:17.031Z
+- Updated At: 2026-11-27T01:02:33.074Z
 
 Que Shebley is an independent artisan brand specializing in handcrafted footwear. We provide a human-connected alternative to mass-market luxury, offering superior craftsmanship and a unique rationale for Millennial and Gen X shoppers who value quality over brand names. Our heritage is rooted in Lebanese craftsmanship, moving to the beat of our own drum to provide truly unique dress shoes and boots.
 
@@ -1526,7 +1526,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-08-12T23:02:13Z
   Total Products: 44
 - [New Releases](https://qshebley.com/collections/new-releases): Explore our New Releases collection featuring luxury bespoke shoes for men, including Jorgo Double Monk Shoes and Gall Chelsea Boots. Enjoy exclusive styles and rush shipping.
-  Updated: 2026-11-16T06:26:54Z
+  Updated: 2026-11-23T04:29:15Z
   Total Products: 13
 - [The Culture Collection](https://qshebley.com/collections/the-culture-collection): The Culture Collection offers limited-edition, award-winning patina wholecut shoes, including Script 2, Quswa 2, Egyptian, and Lapis designs, starting at $625.
   Updated: 2026-08-12T23:05:38Z
@@ -1688,8 +1688,8 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-07-22T02:18:39Z
   Total Products: 6
 - [New! Shopify performance sharing is now turned on](https://qshebley.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-11-15T05:47:31Z
-  Total Products: 2874
+  Updated: 2026-11-26T15:52:11Z
+  Total Products: 2879
 - [Spring/Summer 2026](https://qshebley.com/collections/spring-summer-2026): Discover Que Shebley Spring Summer 2026, a refined fusion of artistry and comfort showcasing luxury bespoke shoes for men and hand-painted patina styles.
   Updated: 2026-07-22T02:18:39Z
   Total Products: 41
