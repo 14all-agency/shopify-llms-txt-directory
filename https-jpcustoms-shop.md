@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-07-23T20:15:53Z
 - Contact Email: jpcustoms.store@gmail.com
-- Updated At: 2026-11-20T00:46:51.759Z
+- Updated At: 2026-11-27T00:50:39.610Z
 
 JP Customs offers premium automotive parts, exterior upgrades, interior accessories, and lighting solutions for car enthusiasts in the UK and internationally at a lower price point than most automotive online stores. Specializing in show-quality finishes and durable engineering, we provide professional-grade automotive upgrades with fast UK delivery and worldwide shipping.
 
@@ -111,7 +111,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/lrgscale17546-90ASC4-Scorpion-Car-Exhaus-Upgrade-Kit-90mm-Carbon-Ascari-All-Makes-and-Models-1498-0.jpg?v=1757275185
     Price: £510.00 GBP
 - [Magnetic Numberplate Kit SWIFTMAG Removable License](https://jpcustoms.shop/products/swiftmag-magnetic-removable-numberplate-kit): SWIFTMAG magnetic numberplate kit - install or remove in seconds. No screws, no tape, no damage. Strong magnets ensure secure, reliable fitting.
-  Updated: 2026-11-17T21:53:02Z
+  Updated: 2026-11-25T13:01:07Z
   Vendor: Diversion Automotive
   Product Type: Numberplate Holder
   Availability: Available
@@ -218,7 +218,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Not Available
     Price: £49.99 GBP
 - [Future Design Hoodie - Premium Automotive Streetwear](https://jpcustoms.shop/products/future-hoodie): Future Design hoodie by Late Brake. Premium unisex automotive apparel with modern progressive graphics. Perfect for car enthusiasts. Sizes S-3XL. UK stock.
-  Updated: 2026-10-30T14:09:55Z
+  Updated: 2026-11-24T14:16:42Z
   Vendor: Late Brake
   Product Type: Hoodie
   Availability: Available
@@ -1683,14 +1683,14 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £174.99 GBP
 - [Invisible Number Plate Holder | PlexiClick Frameless Clip UK](https://jpcustoms.shop/products/plexiclick®-invisible-number-plate-holder-clip): Invisible number plate holder with frameless PlexiClick clips. No drilling, quick install, easy removal for shows. UK plates only. Weather-resistant design.
-  Updated: 2026-11-15T10:31:15Z
+  Updated: 2026-11-26T21:22:46Z
   Vendor: Car Enhancements UK
   Product Type: Number Plate Holder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/3_2755384e-fe2f-4f92-bf7b-2e1e9967b65f.webp?v=1770556172
   Price: £12.00 GBP
 - [Universal Footwell Light Kit | Plug & Play LED Ambient Set](https://jpcustoms.shop/products/universal-permanent-footwell-light-kit-ceuk-plug-play-ambient-upgrade): Universal footwell light kit with plug & play installation. Ultra-bright 12SMD LEDs, 6 colours, auto on/off with ignition. Fits any vehicle in 10 minutes.
-  Updated: 2026-11-09T11:56:42Z
+  Updated: 2026-11-24T00:34:25Z
   Vendor: Car Enhancements UK
   Product Type: Ambient Lighting Kit
   Availability: Available
@@ -2191,23 +2191,17 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £263.99 GBP
 - [Honda Civic Type R EP3 Uprated Polyurethane Suspension Bush Kit (2001-2005) | Godflex](https://jpcustoms.shop/products/honda-civic-type-r-ep3-2001-2005-front-rear-suspension-arm-anti-roll-bar-bushes): Upgrade your Honda Civic Type R EP3 (2001-2005) with Godflex uprated polyurethane front & rear arm and ARB bushes. Better handling & custom colours available.
-  Updated: 2026-08-29T04:25:14Z
+  Updated: 2026-11-26T13:29:07Z
   Vendor: My Store
   Product Type: Performance Bushing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/5b3b009ef8e8f5f9a20b36163761cc1d.jpg?v=1780698859
-  - [Red / Violet Flip](https://jpcustoms.shop/products/honda-civic-type-r-ep3-2001-2005-front-rear-suspension-arm-anti-roll-bar-bushes?variant=58185428566341)
+  - [Godflex Green](https://jpcustoms.shop/products/honda-civic-type-r-ep3-2001-2005-front-rear-suspension-arm-anti-roll-bar-bushes?variant=60427254563141)
     Availability: Available
-    Price: £140.00 GBP
-  - [Tein Green](https://jpcustoms.shop/products/honda-civic-type-r-ep3-2001-2005-front-rear-suspension-arm-anti-roll-bar-bushes?variant=58185428599109)
+    Price: £149.99 GBP
+  - [Custom Colour](https://jpcustoms.shop/products/honda-civic-type-r-ep3-2001-2005-front-rear-suspension-arm-anti-roll-bar-bushes?variant=60427254595909)
     Availability: Available
-    Price: £140.00 GBP
-  - [Deep Space Blue](https://jpcustoms.shop/products/honda-civic-type-r-ep3-2001-2005-front-rear-suspension-arm-anti-roll-bar-bushes?variant=58185428631877)
-    Availability: Available
-    Price: £140.00 GBP
-  - [Aztec Yellow Gold](https://jpcustoms.shop/products/honda-civic-type-r-ep3-2001-2005-front-rear-suspension-arm-anti-roll-bar-bushes?variant=58185428664645)
-    Availability: Available
-    Price: £140.00 GBP
+    Price: £179.99 GBP
 - [VW Golf Mk4 GTi Uprated Polyurethane Suspension Bush Kit (1997-2004) | Godflex](https://jpcustoms.shop/products/vw-golf-mk4-incl-gti-1997-2004-front-suspension-arm-rear-beam-mounting-bushes): Upgrade your VW Golf Mk4 or GTi (1997-2004) with Godflex uprated polyurethane front arm & rear beam bushes. Improved handling, durability & custom colours available.
   Updated: 2026-08-29T04:25:14Z
   Vendor: My Store
@@ -2288,7 +2282,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £38.00 GBP
 - [501 LED Interior Bulb T10 W5W | Ultra Bright Ambient Light | 5 Colours | Car Enhancements UK](https://jpcustoms.shop/products/britevue-501-interior-led-bulb-ultra-bright-ambient-light-t10-w5w): Upgrade your interior with the CEUK 501 T10 W5W LED bulb. Plug-and-play, 500k+ hour lifespan, 5 colours. Fits dome, map, footwell & glove box lights.
-  Updated: 2026-10-21T06:21:58Z
+  Updated: 2026-11-25T13:35:33Z
   Vendor: Car Enhancements UK
   Product Type: 
   Availability: Available
@@ -2345,7 +2339,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Updated: 2026-09-26T11:26:48Z
   Total Products: 2
 - [Suspension Upgrades](https://jpcustoms.shop/collections/suspension-upgrades): Shop GodFlex uprated suspension bushes at JP Customs. Polyurethane bush kits for sharper handling, better geometry, and longer service life.
-  Updated: 2026-09-01T15:28:17Z
+  Updated: 2026-11-26T13:29:04Z
   Total Products: 5
 - [K-Braces 🏁](https://jpcustoms.shop/collections/k-braces): Shop premium K-Braces at JP Customs. Titanium or steel construction, bolt-on fitment, improved steering response and chassis stiffness.
   Updated: 2026-11-08T12:24:16Z
@@ -2695,6 +2689,18 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Tags: automotive products, car accessories, car care, car mods
   - [Solutions for Common Car Care Dilemmas](https://jpcustoms.shop/blogs/product-insights/solutions-for-common-car-care-dilemmas): Solutions for Common Car Care Dilemmas
     Updated: 2026-11-19T18:02:18Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [Effective Car Accessories for Secure and Safe Drives](https://jpcustoms.shop/blogs/product-insights/effective-car-accessories-for-secure-and-safe-drives): Effective Car Accessories for Secure and Safe Drives
+    Updated: 2026-11-20T18:02:40Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [Improving Daily Maintenance with Reliable Automotive Products](https://jpcustoms.shop/blogs/product-insights/improving-daily-maintenance-with-reliable-automotive-products): Improving Daily Maintenance with Reliable Automotive Products
+    Updated: 2026-11-25T18:00:27Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [Enhance Your Driving Experience with These Car Accessories](https://jpcustoms.shop/blogs/product-insights/enhance-your-driving-experience-with-these-car-accessories): Enhance Your Driving Experience with These Car Accessories
+    Updated: 2026-11-26T18:02:12Z
     Author: Jamie, JP Customs
     Tags: automotive products, car accessories, car care, car mods
 
