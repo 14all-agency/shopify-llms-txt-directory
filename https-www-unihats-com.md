@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-17T05:39:00Z
 - Contact Email: bonillacross00@gmail.com
-- Updated At: 2026-11-20T01:02:16.175Z
+- Updated At: 2026-11-27T01:15:52.494Z
 
 ## Products
 
@@ -3323,53 +3323,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-688-4-1.jpg?v=1793441160
     Price: $5.99 USD
-- [Slouchy Ribbed Knit Beanie - Detachable Pompom | Uhatsco](https://www.unihats.com/products/slouchy-ribbed-knit-beanie-attachable-pompom-acrylic-small): Slouchy ribbed knit beanie in soft acrylic with an attachable pompom and cozy fit. Shop now with free US shipping.
-  Updated: 2026-11-04T17:18:21Z
-  Vendor: Uhatsco
-  Product Type: Beanies
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-639-1-1.jpg?v=1793441162
-  - [Black / Small](https://www.unihats.com/products/slouchy-ribbed-knit-beanie-attachable-pompom-acrylic-small?variant=49215606980726)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-639-1-1.jpg?v=1793441162
-    Price: $5.99 USD
-  - [Wine Red / Small](https://www.unihats.com/products/slouchy-ribbed-knit-beanie-attachable-pompom-acrylic-small?variant=49215607013494)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-639-2-1.jpg?v=1793441161
-    Price: $5.99 USD
-  - [Navy Blue / Small](https://www.unihats.com/products/slouchy-ribbed-knit-beanie-attachable-pompom-acrylic-small?variant=49215607046262)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-639-3-1.jpg?v=1793441162
-    Price: $5.99 USD
-  - [Purple Red / Small](https://www.unihats.com/products/slouchy-ribbed-knit-beanie-attachable-pompom-acrylic-small?variant=49215607079030)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-639-4-1.jpg?v=1793441162
-    Price: $5.99 USD
-  - [Green / Small](https://www.unihats.com/products/slouchy-ribbed-knit-beanie-attachable-pompom-acrylic-small?variant=49215607111798)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-639-5-1.jpg?v=1793441161
-    Price: $5.99 USD
-  - [Deep Yellow / Small](https://www.unihats.com/products/slouchy-ribbed-knit-beanie-attachable-pompom-acrylic-small?variant=49215607144566)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-639-6-1.jpg?v=1793441162
-    Price: $5.99 USD
-  - [Dark Grey / Small](https://www.unihats.com/products/slouchy-ribbed-knit-beanie-attachable-pompom-acrylic-small?variant=49215607177334)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-639-7-1.jpg?v=1793441161
-    Price: $5.99 USD
-  - [Blue / Small](https://www.unihats.com/products/slouchy-ribbed-knit-beanie-attachable-pompom-acrylic-small?variant=49215607210102)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-639-8-1.jpg?v=1793441162
-    Price: $5.99 USD
-  - [Orange / Small](https://www.unihats.com/products/slouchy-ribbed-knit-beanie-attachable-pompom-acrylic-small?variant=49215607242870)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-639-9-1.jpg?v=1793441162
-    Price: $5.99 USD
-  - [Pink / Small](https://www.unihats.com/products/slouchy-ribbed-knit-beanie-attachable-pompom-acrylic-small?variant=49215607275638)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-639-10-1.jpg?v=1793441162
-    Price: $5.99 USD
-[List Continued](https://www.unihats.com/a/llms-agent/llms.txt?shop=ctmmtm-dm.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDk2MzA4MjkzNzUwLCJsYXN0X3ZhbHVlIjoiOTA5NjMwODI5Mzc1MCJ9)
+[List Continued](https://www.unihats.com/a/llms-agent/llms.txt?shop=ctmmtm-dm.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDk2MzA4MjYwOTgyLCJsYXN0X3ZhbHVlIjoiOTA5NjMwODI2MDk4MiJ9)
 
 ## Collections
 
@@ -3433,6 +3387,15 @@
     Author: Uhatsco
   - [Effortlessly Rock Casual Outdoor Hats: Uhatsco Mesh Cadet Cap Versus Vintage Trucker Hats and Retro Baseball Caps](https://www.unihats.com/blogs/news/effortlessly-rock-casual-outdoor-hats-uhatsco-mesh-cadet-cap-versus-vintage-trucker-hats-and-retro-baseball-caps): Effortlessly Rock Casual Outdoor Hats: Uhatsco Mesh Cadet Cap Versus Vintage Trucker Hats and Retro Baseball Caps
     Updated: 2026-11-18T11:05:11Z
+    Author: Uhatsco
+  - [Uhatsco's Manhattan Trucker Hat: A Retro Baseball Cap Perfect for Your Vintage Trucker Hat Collection](https://www.unihats.com/blogs/news/uhatscos-manhattan-trucker-hat-a-retro-baseball-cap-perfect-for-your-vintage-trucker-hat-collection): Uhatsco's Manhattan Trucker Hat: A Retro Baseball Cap Perfect for Your Vintage Trucker Hat Collection
+    Updated: 2026-11-23T11:04:22Z
+    Author: Uhatsco
+  - [Discover Timeless Style with Uhatsco's Solid Color Flat Cap: A Unique Blend of Vintage Trucker and Retro Baseball Hat Inspiration](https://www.unihats.com/blogs/news/discover-timeless-style-with-uhatscos-solid-color-flat-cap-a-unique-blend-of-vintage-trucker-and-retro-baseball-hat-inspiration): Discover Timeless Style with Uhatsco's Solid Color Flat Cap: A Unique Blend of Vintage Trucker and Retro Baseball Hat Inspiration
+    Updated: 2026-11-24T11:03:29Z
+    Author: Uhatsco
+  - [Exploring the Timeless Appeal of Uhatsco's Swallow Embroidered Baseball Cap and Vintage Trucker Hats for Casual Outdoor Adventures](https://www.unihats.com/blogs/news/exploring-the-timeless-appeal-of-uhatscos-swallow-embroidered-baseball-cap-and-vintage-trucker-hats-for-casual-outdoor-adventures): Exploring the Timeless Appeal of Uhatsco's Swallow Embroidered Baseball Cap and Vintage Trucker Hats for Casual Outdoor Adventures
+    Updated: 2026-11-25T11:04:21Z
     Author: Uhatsco
 
 ## Store Pages
