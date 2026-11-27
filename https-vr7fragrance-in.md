@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-12-09T21:12:30Z
 - Contact Email: contact@vr7fragrance.in
-- Updated At: 2026-11-20T00:43:46.344Z
+- Updated At: 2026-11-27T00:50:40.714Z
 
 ## Products
 
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_sweet_desire_20_ml_new_b.jpg?v=1791969533
     Price: ₹349.00 INR
 - [Midnight Smoke – Smoky Leather Tobacco Oud | VR7](https://vr7fragrance.in/products/midnight-smoke-extrait-de-parfum-vr7-fragrance): Smoky leather, tobacco, rose & oud extrait de parfum for men. 33% oil, 8–12h lasting. Winter-ready scent by VR7 Fragrance. Ships in India.
-  Updated: 2026-11-15T11:20:46Z
+  Updated: 2026-11-23T18:02:26Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
@@ -67,7 +67,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_fragrance_morning_star_20_ml_..jpg?v=1792604701
     Price: ₹349.00 INR
 - [VR7 Discovery Set – 7 Extrait de Parfum Sprays Sampler](https://vr7fragrance.in/products/vr7-perfume-discovery-set-7x3ml-extrait-de-parfum): Sample 7 luxury extrait de parfum sprays—oud, vanilla, aquatic, and more. High-concentration, unisex, premium gift. Only ₹499.
-  Updated: 2026-10-24T13:38:17Z
+  Updated: 2026-11-24T16:09:26Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
@@ -288,7 +288,7 @@
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Buildyourownperfumeformulaebook.jpg?v=1787161798
   Price: ₹49.00 INR
 - [Burning Woods | Smoky Woody Vanilla | Extrait de Parfum | VR7 Fragrance](https://vr7fragrance.in/products/burning-woods-smoky-woody-vanilla-extrait-de-parfum-vr7-fragrance): Key Features & Specs Size: 50 ml Concentration: Extrait de Parfum with 33% fragrance oil Scent Profile: Smoky woods, warm spice and creamy vanilla Fragrance Family: Woody, spicy, gourmand Perfume Type: Unisex Recommended Occasions: Evening wear, date nights and special occasions Country of Origin: India Cruelty-free: Not tested on animals A Cozy Smoky Blend Bring the warmth of a fireside evening to your fragrance collection. Burning Woods by VR7 Fragrance pairs smoky woods with comforting chestnut, soft spice and creamy vanilla for a warm, inviting signature. Pink pepper and clove introduce a spicy opening, followed by a heart of chestnut and smoked wood. Vanilla, amber and sandalwood create a smooth, enveloping finish. The result is a balance of smoky depth and gourmand warmth for those who enjoy rich, comforting fragrances. Presented in a 50 ml bottle, this Extrait de Parfum contains 33% fragrance oil and is crafted for long-lasting wear. Actual longevity and projection vary with skin, application and weather. Fragrance Notes Top Notes: Pink Pepper, Clove Middle Notes: Chestnut, Smoked Wood Base Notes: Vanilla, Amber, Sandalwood Fragrance notes describe the scent character and are not a full ingredient list. Recommended Use Cases Choose Burning Woods for cozy evenings, dinner dates, intimate gatherings and special occasions. Its smoky, vanilla-rich character makes it a warm choice for cooler weather and evening gifting. For an office or close indoor setting, apply lightly according to your surroundings. How to Wear & Store Apply lightly to pulse points and adjust the amount to your preference and setting. Keep the bottle tightly closed in a cool, dry place away from direct sunlight, heat and open flames. For external use only; avoid contact with eyes. Frequently Asked Questions What does Burning Woods smell like? It combines smoky woods and chestnut with pink pepper and clove, settling into a warm base of vanilla, amber and sandalwood. Expect a smoky, spicy and comforting vanilla fragrance. Is Burning Woods suitable for men and women? Yes. Burning Woods is a unisex fragrance for anyone who enjoys smoky woods, warm spice and gourmand vanilla notes. What is its concentration and size? This listing is for one 50 ml bottle of Extrait de Parfum with 33% fragrance oil concentration. How long does the fragrance last? Burning Woods has an estimated longevity of 8–10 hours. Actual wear varies with skin, climate and application. Projection: Strong. Sillage: 8.5/10 (VR7 brand estimates; results vary by skin, climate and application).
-  Updated: 2026-11-10T21:43:20Z
+  Updated: 2026-11-23T16:55:56Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
@@ -392,25 +392,25 @@
   Updated: 2026-11-06T16:58:28Z
   Total Products: 4
 - [Intense collection by VR7 Fragrance](https://vr7fragrance.in/collections/intense-collection-by-vr7fragrance): Discover VR7’s Intense Collection—luxury extrait de parfum with 33% oil for bold, lasting scent. Ideal for sophisticated evening wear and unforgettable impressions.
-  Updated: 2026-11-17T12:18:32Z
+  Updated: 2026-11-24T12:16:31Z
   Total Products: 5
 - [Spicy collection by VR7 Fragrance](https://vr7fragrance.in/collections/spicy-collection-by-vr7fragrance): Explore VR7's spicy collection—luxury extrait de parfum with 33% oil, featuring cardamom, amber, and saffron. Bold, long-lasting scents for special occasions.
   Updated: 2026-11-17T12:18:32Z
   Total Products: 6
 - [Gourmand collection by VR7 Fragrance](https://vr7fragrance.in/collections/gourmand-collection-vr7fragrance): Explore VR7 Gourmand Collection—luxury extrait de parfum with vanilla, caramel, and spice notes. Long-lasting, unisex, artisan-crafted fragrances.
-  Updated: 2026-11-06T18:43:46Z
+  Updated: 2026-11-24T12:16:31Z
   Total Products: 4
 - [Latest arrivals by VR7 Fragrance](https://vr7fragrance.in/collections/latest-arrivals-by-vr7fragrance): Explore the new extrait de parfum arrivals by VR7 Fragrance—luxury scents with 33% oil concentration for lasting, sophisticated impressions. Find your signature today.
-  Updated: 2026-11-17T12:18:32Z
+  Updated: 2026-11-25T12:17:15Z
   Total Products: 22
 - [Men's collection by VR7 Fragrance](https://vr7fragrance.in/collections/mens-collection-by-vr7fragrance): Explore men’s extrait de parfum by VR7 Fragrance—luxury scents with 33% oil for lasting impression. Shop top-rated, signature perfumes online.
-  Updated: 2026-11-17T12:18:32Z
+  Updated: 2026-11-24T12:16:31Z
   Total Products: 13
 - [Unisex collection by VR7 Fragrance](https://vr7fragrance.in/collections/unisex-collection-by-vr7fragrance): Explore VR7's Unisex Collection: extrait de parfum with 33% oil concentration, crafted for lasting, gender-inclusive fragrance impressions. Shop unique scents.
-  Updated: 2026-11-17T12:18:32Z
+  Updated: 2026-11-24T12:16:31Z
   Total Products: 12
 - [Discovery sets by VR7 Fragrance](https://vr7fragrance.in/collections/discovery-sets-by-vr7-fragrance): Explore 7 luxury extrait de parfum sprays by VR7 in one premium gift set for men and women. Long-lasting, unisex, travel-ready, just ₹499.
-  Updated: 2026-11-10T06:42:28Z
+  Updated: 2026-11-25T12:17:15Z
   Total Products: 1
 - [Everyday Perfumes](https://vr7fragrance.in/collections/everyday-perfumes): Shop VR7 Extrait de Parfum selected for everyday wear—fresh, versatile and long-lasting fragrances for daily confidence.
   Updated: 2026-10-30T11:16:26Z
@@ -419,19 +419,19 @@
   Updated: 2026-10-30T11:16:26Z
   Total Products: 4
 - [Date Night Perfumes](https://vr7fragrance.in/collections/date-night-perfumes): Discover warm, seductive VR7 Extrait de Parfum for date nights and special evenings, selected to leave a lasting impression.
-  Updated: 2026-11-06T18:43:46Z
+  Updated: 2026-11-24T12:16:31Z
   Total Products: 7
 - [Party Perfumes](https://vr7fragrance.in/collections/party-perfumes): Shop bold VR7 Extrait de Parfum for parties and nights out—powerful, long-lasting statement fragrances made to stand out.
-  Updated: 2026-11-15T12:20:15Z
+  Updated: 2026-11-24T12:16:31Z
   Total Products: 6
 - [Wedding & Festive Perfumes](https://vr7fragrance.in/collections/wedding-festive-perfumes): Shop rich and luxurious VR7 Extrait de Parfum for weddings, festivals and celebrations—statement fragrances for memorable occasions.
   Updated: 2026-11-17T12:18:32Z
   Total Products: 6
 - [Perfume Gifts](https://vr7fragrance.in/collections/perfume-gifts): Shop VR7 perfume gifts, Discovery Sets and luxury Extrait de Parfum gift sets for birthdays, celebrations and special occasions.
-  Updated: 2026-11-10T10:35:01Z
+  Updated: 2026-11-25T12:17:15Z
   Total Products: 9
 - [All Perfumes](https://vr7fragrance.in/collections/all-perfumes): Explore VR7 Fragrance perfumes and fragrance gift collections. Sample-size 3 ml products and digital education products are shown separately.
-  Updated: 2026-11-17T12:18:32Z
+  Updated: 2026-11-25T12:17:15Z
   Total Products: 28
 
 ## Blogs
