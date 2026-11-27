@@ -6,7 +6,7 @@
 - Timezone: Europe/Helsinki
 - Created At: 2024-04-30T05:49:45Z
 - Contact Email: myynti@omillaanshop.fi
-- Updated At: 2026-11-19T01:21:55.005Z
+- Updated At: 2026-11-27T01:26:34.837Z
 
 ## Products
 
@@ -186,12 +186,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0847/7763/2091/files/6b38ce14-13b9-4abc-8a0c-38287bbf9e26.jpg?v=1727430594
     Price: 25,00 € EUR
-- [Wot](https://omillaanshop.fi/products/wot)
-  Updated: 2026-04-04T23:51:45Z
-  Vendor: Omillaan Osk Shop
-  Product Type: 
-  Availability: Available
-  Price: 34,50 € EUR
 - [Magneetit](https://omillaanshop.fi/products/magneetit-1)
   Updated: 2026-03-18T10:52:26Z
   Vendor: Omillaan Osk Shop
@@ -233,11 +227,11 @@
   Availability: Available
   Price: 35,00 € EUR
 - [Uniikit taidekassit](https://omillaanshop.fi/products/uniikit-taidekassit)
-  Updated: 2026-03-18T10:52:27Z
+  Updated: 2026-11-23T07:17:04Z
   Vendor: Omillaan Osk Shop
   Product Type: 
   Availability: Available
-  Price: 25,00 € EUR
+  Price: 40,00 € EUR
 - [Aivottomat Heijastimet ja Pinssit](https://omillaanshop.fi/products/heijastimet-ja-pinssit)
   Updated: 2026-11-05T08:07:23Z
   Vendor: Omillaan Osk Shop
@@ -274,8 +268,8 @@
   Product Type: 
   Availability: Available
   Price: 15,99 € EUR
-- [OmaPolun vuosipaita 2026 unisex t-paita Point of ](https://omillaanshop.fi/products/omapolun-vuosipaita-2026-unisex-t-paita-point-of-): Design: kissakuvat Kia Tamminen, logo Vilho Koski Helppo yhdistellä, miellyttävän pehmeä ja luontoa kunnioittaen tehty – niillä tämä klassinen pyöreäpäänteinen unisex-t-paita vakuuttaa. Suoranmallinen unisex-t-paita, jossa istutetut hihat 1x1-joustinneule pääntiessä ja niskanauha samaa materiaalia Kaksinkertainen tikkaus hihansuissa ja helmassa Pehmeää, miellyttävän tuntuista kangasta: 180 g/m² Materiaali: 100 % luomupuuvillaa Merkki: Stanley/Stella
-  Updated: 2026-11-10T05:25:42Z
+- [Kissat t-paita unisex  Point of ](https://omillaanshop.fi/products/omapolun-vuosipaita-2026-unisex-t-paita-point-of-): Design: kissakuvat Kia Tamminen, logo Vilho Koski Helppo yhdistellä, miellyttävän pehmeä ja luontoa kunnioittaen tehty – niillä tämä klassinen pyöreäpäänteinen unisex-t-paita vakuuttaa. Suoranmallinen unisex-t-paita, jossa istutetut hihat 1x1-joustinneule pääntiessä ja niskanauha samaa materiaalia Kaksinkertainen tikkaus hihansuissa ja helmassa Pehmeää, miellyttävän tuntuista kangasta: 180 g/m² Materiaali: 100 % luomupuuvillaa Merkki: Stanley/Stella
+  Updated: 2026-11-23T18:08:13Z
   Vendor: Omillaan Osk Shop
   Product Type: Stanley/Stella CREATOR unisex luomu-t-paita
   Availability: Available
@@ -297,7 +291,7 @@
     Image: https://cdn.shopify.com/s/files/1/0847/7763/2091/files/1_9f37dda7-b245-4b52-9692-c88ebb521b72.png?v=1764846113
     Price: 40,00 € EUR
   - [toffee / M](https://omillaanshop.fi/products/omapolun-vuosipaita-2026-unisex-t-paita-point-of-?variant=51770151469403)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0847/7763/2091/files/1_88213ff6-115c-4248-bb21-1cf021fd2a06.png?v=1764846116
     Price: 40,00 € EUR
   - [toffee / L](https://omillaanshop.fi/products/omapolun-vuosipaita-2026-unisex-t-paita-point-of-?variant=51770151502171)
@@ -318,14 +312,14 @@
   Availability: Available
   Price: 3,00 € EUR
 - [Red bird Punalintu](https://omillaanshop.fi/products/red-bird-punalintu)
-  Updated: 2026-11-11T11:29:56Z
+  Updated: 2026-11-23T05:37:13Z
   Vendor: Omillaan osuuskunta
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0847/7763/2091/files/520A61C3BF14FF1D4657559085DA108261952E02C1472BD0AC430E15694A7BD7.jpg?v=1787134261
   Price: 20,00 € EUR
 - [Omillaan Shop Lahjakortti](https://omillaanshop.fi/products/omillaan-shop-lahjakortti): Omillaan Shopin lahjakortti on harkittu ja varma valinta, joka antaa saajalleen vapauden valita juuri sen, mitä hän eniten toivoo. Lahjakortti avaa oven ainutlaatuiseen, paikallisten tekijöiden tuotteista koottuun valikoimaamme ja tukee samalla osuuskuntamme arvoja sekä yhteisöämme. Valitse lahjakortin summa joustavasti ja anna lahja, joka tarjoaa valinnanvapauden sekä tukee paikallista osaamista helposti ja nopeasti.
-  Updated: 2026-09-07T07:27:10Z
+  Updated: 2026-11-26T12:38:55Z
   Vendor: Omillaan Osk Shop
   Product Type: 
   Availability: Available
@@ -341,8 +335,8 @@
   - [100,00 €](https://omillaanshop.fi/products/omillaan-shop-lahjakortti?variant=53990793183579)
     Availability: Available
     Price: 100,00 € EUR
-- [Kissat t-paita](https://omillaanshop.fi/products/kissat-t-paita): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, phthalates and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Omillaan osuuskunta ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at info@omillaan.fi or write to us Yliopistonkatu 58 B 3krs Tampere 33100 Finland .Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ 4XL 34 30 24 ¼ 5XL 35 32 25 ¼ LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) S 71.1 45.7 39.7 M 73.7 50.8 43.2 L 76.2 55.9 47 XL 78.7 61 50.8 2XL 81.3 66 54.6 3XL 83.8 71.1 58 4XL 86.4 76.2 61.5 5XL 89 81.3 64.3
-  Updated: 2026-11-07T23:09:46Z
+- [Kissat t-paita](https://omillaanshop.fi/products/kissat-t-paita): Design: kissakuvat Kia Tamminen, logo Vilho Koski The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton• Sport Grey is 90% cotton, 10% polyester• Ash Grey is 99% cotton, 1% polyester• Heather colors are 50% cotton, 50% polyester• Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn• Tubular fabric• Taped neck and shoulders• Double seam at sleeves and bottom hem• Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, MexicoDisclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white.• Dark color speckles throughout the fabric are expected for the color Natural.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Age restrictions: For adultsEU Warranty: 2 yearsOther compliance information: Meets the flammability, lead, cadmium, phthalates and formaldehyde level requirements.In compliance with the General Product Safety Regulation (GPSR), Omillaan osuuskunta ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at info@omillaan.fi or write to us Yliopistonkatu 58 B 3krsTampere 33100Finland. Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ 4XL 34 30 24 ¼ 5XL 35 32 25 ¼ LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) S 71.1 45.7 39.7 M 73.7 50.8 43.2 L 76.2 55.9 47 XL 78.7 61 50.8 2XL 81.3 66 54.6 3XL 83.8 71.1 58 4XL 86.4 76.2 61.5 5XL 89 81.3 64.3
+  Updated: 2026-11-26T12:38:55Z
   Vendor: Omillaan osuuskunta
   Product Type: 
   Availability: Available
@@ -380,7 +374,7 @@
     Image: https://cdn.shopify.com/s/files/1/0847/7763/2091/files/unisex-classic-tee-sand-front-6aeaeb27974c0.jpg?v=1793780537
     Price: 40,00 € EUR
 - [Aivottomat pipo](https://omillaanshop.fi/products/aivottomat-pipo): A snug, form-fitting beanie. It's not only a great head-warming piece but a staple accessory in anyone's wardrobe. • 100% Turbo Acrylic • 12″ (30 cm) in length • Hypoallergenic • Unisex style • Hand washable • Blank product sourced from Vietnam, Bangladesh or the Republic of Korea This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the lead, cadmium, phthalates and bisphenols level requirements. In compliance with the General Product Safety Regulation (GPSR), Omillaan osuuskunta ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at info@omillaan.fi or write to us Yliopistonkatu 58 B 3krs Tampere 33100 Finland .
-  Updated: 2026-11-11T21:58:41Z
+  Updated: 2026-11-26T12:38:55Z
   Vendor: Omillaan osuuskunta
   Product Type: 
   Availability: Available
@@ -402,7 +396,7 @@
     Image: https://cdn.shopify.com/s/files/1/0847/7763/2091/files/cuffed-beanie-dark-grey-front-6aeaeeba30da7.jpg?v=1793781446
     Price: 35,00 € EUR
 - [Kyyhky T-paita](https://omillaanshop.fi/products/kyyhky-t-paita): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, phthalates and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Omillaan osuuskunta ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at info@omillaan.fi or write to us Yliopistonkatu 58 B 3krs Tampere 33100 Finland .Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) S 71.1 45.7 39.7 M 73.7 50.8 43.2 L 76.2 55.9 47 XL 78.7 61 50.8 2XL 81.3 66 54.6
-  Updated: 2026-11-11T14:24:24Z
+  Updated: 2026-11-26T12:38:55Z
   Vendor: Omillaan osuuskunta
   Product Type: 
   Availability: Available
@@ -527,8 +521,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0847/7763/2091/files/unisex-classic-tee-sand-front-6af1a741eac31.jpg?v=1794221914
     Price: 40,00 € EUR
-- [Kissat kestokassi](https://omillaanshop.fi/products/kissat-kestokassi): Get rid of all the plastic and pack your goodies in this spacious organic cotton tote bag. Fill it up with groceries, books, and travel essentials—there’s room for everything! • 100%  organic cotton 3/1 twill • Fabric weight: 8 oz/yd² (272 g/m²) • Dimensions: 20″ × 14″ × 5″ (50.8 × 35.6 × 12.7 cm) • Capacity: 6 gallons (23 l) • Weight limit: 30 lbs (13.6 kg) • 1″ × 25″ (2.5 × 63.5 cm) long self-fabric dual straps • Open main compartment, flat bottom • Blank product sourced from China or India Disclaimer: The care instructions on the tearaway label may wash off after cleaning. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Omillaan osuuskunta ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at info@omillaan.fi or write to us Yliopistonkatu 58 B 3krs Tampere 33100 Finland .
-  Updated: 2026-11-09T23:12:32Z
+- [Kissat kestokassi](https://omillaanshop.fi/products/kissat-kestokassi): Design: kissakuvat Kia Tamminen, logo Vilho Koski Get rid of all the plastic and pack your goodies in this spacious organic cotton tote bag. Fill it up with groceries, books, and travel essentials—there’s room for everything!• 100%  organic cotton 3/1 twill• Fabric weight: 8 oz/yd² (272 g/m²)• Dimensions: 20″ × 14″ × 5″ (50.8 × 35.6 × 12.7 cm)• Capacity: 6 gallons (23 l)• Weight limit: 30 lbs (13.6 kg)• 1″ × 25″ (2.5 × 63.5 cm) long self-fabric dual straps• Open main compartment, flat bottom• Blank product sourced from China or IndiaDisclaimer: The care instructions on the tearaway label may wash off after cleaning.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Age restrictions: For adultsEU Warranty: 2 yearsOther compliance information: Meets the flammability and formaldehyde level requirements.In compliance with the General Product Safety Regulation (GPSR), Omillaan osuuskunta ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at info@omillaan.fi or write to us Yliopistonkatu 58 B 3krsTampere 33100Finland.
+  Updated: 2026-11-26T12:38:56Z
   Vendor: Omillaan osuuskunta
   Product Type: 
   Availability: Available
@@ -541,8 +535,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0847/7763/2091/files/large-eco-tote-oyster-front-6af1aa8e6ce39.jpg?v=1794222747
     Price: 30,00 € EUR
-- [Kissat kestokassi (long)](https://omillaanshop.fi/products/kissat-kestokassi-long): Say goodbye to plastic, and bag your goodies in this organic cotton tote bag. There’s more than enough room for groceries, books, and anything in between. • 100%  organic cotton 3/1 twill • Fabric weight: 8 oz/yd² (272 g/m²) • Dimensions: 16″ × 14 ½″ × 5″ (40.6 cm × 35.6 cm × 12.7 cm) • Weight limit: 30 lbs (13.6 kg) • 1″ (2.5 cm) wide dual straps, 24.5″ (62.2 cm) length • Open main compartment • Blank product sourced from India This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the azo dyes and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Omillaan osuuskunta and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Yliopistonkatu 58 B 3krs Tampere 33100 Finland or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.
-  Updated: 2026-11-10T19:02:03Z
+- [Kissat kestokassi (long)](https://omillaanshop.fi/products/kissat-kestokassi-long): Design: kissakuvat Kia Tamminen, logo Vilho Koski Say goodbye to plastic, and bag your goodies in this organic cotton tote bag. There’s more than enough room for groceries, books, and anything in between.• 100%  organic cotton 3/1 twill• Fabric weight: 8 oz/yd² (272 g/m²)• Dimensions: 16″ × 14 ½″ × 5″ (40.6 cm × 35.6 cm × 12.7 cm)• Weight limit: 30 lbs (13.6 kg)• 1″ (2.5 cm) wide dual straps, 24.5″ (62.2 cm) length• Open main compartment• Blank product sourced from IndiaThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Age restrictions: For adultsEU Warranty: 2 yearsOther compliance information: Meets the azo dyes and formaldehyde level requirements.In compliance with the General Product Safety Regulation (GPSR), Omillaan osuuskunta and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Yliopistonkatu 58 B 3krsTampere 33100Finland or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.
+  Updated: 2026-11-26T12:38:56Z
   Vendor: Omillaan osuuskunta
   Product Type: 
   Availability: Available
@@ -556,7 +550,7 @@
     Image: https://cdn.shopify.com/s/files/1/0847/7763/2091/files/eco-tote-bag-oyster-front-6af1ab12b1ad3.jpg?v=1794222879
     Price: 30,00 € EUR
 - [Aivottomat T-paita](https://omillaanshop.fi/products/aivottomat-t-paita): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! • Traceability: - Knitting—Honduras, the Dominican Republic - Dyeing—Honduras, the Dominican Republic - Manufacturing—Nicaragua, Honduras, Haiti, El Salvador, or the Dominican Republic • Contains 0% recycled polyester • Contains 0% dangerous substances Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, phthalates and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Omillaan osuuskunta ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at info@omillaan.fi or write to us Yliopistonkatu 58 B 3krs Tampere 33100 Finland .Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) S 71.1 45.7 39.7 M 73.7 50.8 43.2 L 76.2 55.9 47 XL 78.7 61 50.8 2XL 81.3 66 54.6 3XL 83.8 71.1 58
-  Updated: 2026-11-11T23:54:42Z
+  Updated: 2026-11-26T12:38:56Z
   Vendor: Omillaan osuuskunta
   Product Type: 
   Availability: Available
@@ -592,40 +586,40 @@
   Updated: 2025-01-13T19:04:53Z
   Total Products: 0
 - [Taideteokset](https://omillaanshop.fi/collections/taideteokset)
-  Updated: 2026-11-09T11:12:30Z
+  Updated: 2026-11-23T12:21:56Z
   Total Products: 5
 - [Taidetuotteet](https://omillaanshop.fi/collections/taidetuotteet)
-  Updated: 2026-11-18T12:20:24Z
+  Updated: 2026-11-23T12:21:56Z
   Total Products: 15
 - [Kirja](https://omillaanshop.fi/collections/kirja)
   Updated: 2026-11-11T12:20:28Z
   Total Products: 2
 - [Catalog](https://omillaanshop.fi/collections/all)
-  Updated: 2026-11-18T12:20:24Z
-  Total Products: 49
+  Updated: 2026-11-26T12:38:54Z
+  Total Products: 48
 - [Omillaan osuuskunnan tuotteet](https://omillaanshop.fi/collections/omillaan-osuuskunnan-tuotteet)
-  Updated: 2026-09-07T11:15:29Z
+  Updated: 2026-11-26T12:38:54Z
   Total Products: 3
 - [Aivottomat tuotteet](https://omillaanshop.fi/collections/aivottomat-tuotteet): Aivottomat tuotteet tukevat Tamperelaisen punkbändin toimintaa soittimien ja treenikämppän rahoituksessa.
-  Updated: 2026-11-11T11:55:18Z
+  Updated: 2026-11-26T12:38:54Z
   Total Products: 13
 - [Digital Goods VAT Tax](https://omillaanshop.fi/collections/digital-goods-vat-tax)
   Updated: 2025-01-13T19:04:53Z
   Total Products: 0
 - [Palvelut](https://omillaanshop.fi/collections/palvelut)
-  Updated: 2026-07-10T11:27:14Z
+  Updated: 2026-11-26T12:38:54Z
   Total Products: 0
 - [Lahjakortit](https://omillaanshop.fi/collections/lahjakortit)
-  Updated: 2026-09-07T07:23:41Z
+  Updated: 2026-11-26T12:38:54Z
   Total Products: 1
 - [Elintarvikkeet](https://omillaanshop.fi/collections/elintarvikkeet)
-  Updated: 2025-07-01T19:30:55Z
-  Total Products: 1
+  Updated: 2026-11-22T14:39:18Z
+  Total Products: 0
 - [OmaPolun vuosituotteet](https://omillaanshop.fi/collections/omapolun-kauden-parhaat-tuotteet): Kauden parhaat tuotteet - löydä OmaPolun vuoden tarjonnasta parhaat valinnat ja nauti uusista suosikeista!
-  Updated: 2026-11-11T07:31:32Z
-  Total Products: 7
+  Updated: 2026-11-26T12:38:54Z
+  Total Products: 6
 - [OmaPolku 20-v edition](https://omillaanshop.fi/collections/omapolku-20-v-edition)
-  Updated: 2026-11-11T07:31:30Z
+  Updated: 2026-11-26T12:38:54Z
   Total Products: 3
 - [omnibus-label-omnibus-compliant](https://omillaanshop.fi/collections/omnibus-label-omnibus-compliant): Omnibus smartcollection for Omnibus Label: Omnibus: Compliant
   Updated: 2025-12-08T10:03:19Z
@@ -658,7 +652,7 @@
 ## Policies
 
 - [Privacy Policy](https://omillaanshop.fi/policies/privacy-policy)
-  Updated: 2026-10-29T17:21:40Z
+  Updated: 2026-11-23T09:38:42Z
 - [Shipping Policy](https://omillaanshop.fi/policies/shipping-policy)
   Updated: 2026-11-04T10:12:23Z
 - [Refund Policy](https://omillaanshop.fi/policies/refund-policy)
