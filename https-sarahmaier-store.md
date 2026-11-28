@@ -9,7 +9,7 @@
 - Created At: 2020-11-02T16:08:42Z
 - Contact Email: claudiamadaleno@sarahmaier.store
 - Contact Phone: +351913522163
-- Updated At: 2026-11-21T00:40:52.834Z
+- Updated At: 2026-11-28T00:46:23.821Z
 
 ## Products
 
@@ -88,7 +88,7 @@ Inspired by a classic high heel shoe by Sarah Maier. So, this is the model you a
     Availability: Available
     Price: €370.00 EUR
 - [Milan 01 Black | Women's shoes | High heel black sandals](https://sarahmaier.store/products/milan-01-black): When less is more! The lines may be simple but the leather with snake patterns and the high heel in black metal stylized with the brand's logo transform this sandal
-  Updated: 2026-10-16T14:36:52Z
+  Updated: 2026-11-26T02:38:53Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -281,7 +281,7 @@ Simple and elegant lines, the white color combined with the white sole, are the
     Availability: Available
     Price: €510.00 EUR
 - [MILAN DESERT - Camel Snake-Embossed Pumps | Sarah Maier](https://sarahmaier.store/products/milan-01-camel): Handcrafted in Italy using suede and snake-engraved goat leather, the Milan Desert pumps feature a stunning 9cm golden metal heel. We designed this camel-toned stiletto for timeless, versatile elegance.
-  Updated: 2026-10-05T01:15:20Z
+  Updated: 2026-11-26T02:38:55Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -305,7 +305,7 @@ Simple and elegant lines, the white color combined with the white sole, are the
     Availability: Available
     Price: €375.00 EUR
 - [MILAN SERPENTINE - Petrol Snake-Embossed Pumps](https://sarahmaier.store/products/milan-petrol-and-metallic): Handcrafted in Italy using suede and snake-engraved goat leather, the Milan Serpentine pumps feature a striking 9cm sculptural metal heel. We designed this petrol-hued stiletto to blend bold texture with modern artistry.
-  Updated: 2026-10-05T01:15:20Z
+  Updated: 2026-11-26T02:38:57Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -558,7 +558,7 @@ An elegant and shophisticated pouch in shiny leather.One buttoned compartment.We
   Image: https://cdn.shopify.com/s/files/1/0510/3173/6470/files/139A6387.jpg?v=1712083660
   Price: €2,600.00 EUR
 - [AURIGA VERDANT - Green Laminated Leather Caged Mules](https://sarahmaier.store/products/auriga-green-sandals): Handcrafted in Italy using high-shine laminated leather, the Auriga Verdant mules feature a retro cage design and a comfortable block heel. We designed this green slip-on sandal to add a fresh, metallic pop to your wardrobe.
-  Updated: 2026-11-08T11:28:21Z
+  Updated: 2026-11-24T03:15:46Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -588,7 +588,7 @@ An elegant and shophisticated pouch in shiny leather.One buttoned compartment.We
     Availability: Available
     Price: €335.00 EUR
 - [VELA ARGENT - Silver Laminated Leather Sandals | Sarah Maier](https://sarahmaier.store/products/silver-sandals): Handcrafted in Italy from high-shine laminated leather, the Vela Argent sandals feature a retro cage design and a comfortable block heel. We designed this pair to add a timeless metallic touch to any outfit.
-  Updated: 2026-10-18T08:22:51Z
+  Updated: 2026-11-25T01:39:02Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -618,7 +618,7 @@ An elegant and shophisticated pouch in shiny leather.One buttoned compartment.We
     Availability: Available
     Price: €335.00 EUR
 - [FUCHSIA VIVID - Pink Laminated Leather Mules | Sarah Maier](https://sarahmaier.store/products/fuchsia-sandals): Handcrafted in Italy using high-shine laminated leather, the Fuchsia Vivid mules feature a retro cage design and a comfortable block heel. We designed this vibrant pink sandal to add a joyful pop of color to your summer wardrobe.
-  Updated: 2026-11-08T11:28:20Z
+  Updated: 2026-11-24T03:15:49Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -649,7 +649,7 @@ An elegant and shophisticated pouch in shiny leather.One buttoned compartment.We
     Price: €335.00 EUR
 - [TURQUOISE SANDALS made in Italy by Sarah Maier](https://sarahmaier.store/products/turquoise-sandals): SANDAL S2 Turquoise
 Sarah Maier's sandals are topped with the label's 'Ʌ' plaque. They've been crafted in Italy from textured-leather that gets softer over time, so
-  Updated: 2026-10-16T14:36:53Z
+  Updated: 2026-11-25T01:39:03Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -679,7 +679,7 @@ Sarah Maier's sandals are topped with the label's 'Ʌ' plaque. They've been craf
     Availability: Available
     Price: €335.00 EUR
 - [TIBESTI NEUTRAL - Beige Textured Leather Sandals](https://sarahmaier.store/products/tibesti-neutral-sandals): Handcrafted in Italy from soft textured leather, the Tibesti Neutral sandals feature Sarah Maier's signature 'Ʌ' plaque. We designed these flats for versatile summer elegance and all-day comfort.
-  Updated: 2026-11-07T01:09:25Z
+  Updated: 2026-11-25T01:39:02Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -709,7 +709,7 @@ Sarah Maier's sandals are topped with the label's 'Ʌ' plaque. They've been craf
     Availability: Available
     Price: €335.00 EUR
 - [TRITONE BLUE - Italian Laminated Leather Mules | Sarah Maier](https://sarahmaier.store/products/tritone-blue-sandals): Handcrafted in Italy, these Tritone Blue sandals feature a retro cage design in shiny laminated leather. We designed them to look unique and feel comfortable, whether you wear them with jeans or a dress.
-  Updated: 2026-10-18T08:22:56Z
+  Updated: 2026-11-25T01:39:04Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -739,7 +739,7 @@ Sarah Maier's sandals are topped with the label's 'Ʌ' plaque. They've been craf
     Availability: Available
     Price: €345.00 EUR
 - [ERIS FUCHSIA WAVE Women's Leather Mule Heels | Sarah Maier](https://sarahmaier.store/products/eris-fuchsia-sandals): Handcrafted Italian leather mule heels in metallic fuchsia. Mid-height block heel, sculptural design, premium comfort. Made in Italy. Shop now.
-  Updated: 2026-11-05T00:48:05Z
+  Updated: 2026-11-24T03:15:45Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -769,7 +769,7 @@ Sarah Maier's sandals are topped with the label's 'Ʌ' plaque. They've been craf
     Availability: Available
     Price: €345.00 EUR
 - [RADIANT MULE - Metallic Italian Leather Sandals | Sarah Maier](https://sarahmaier.store/products/radiant-sandals): Handcrafted in Italy, the Radiant Mule features a retro cage design in galvanized metallic leather. We designed these block-heel sandals to stay comfortable all night, from dinner to the dance floor.
-  Updated: 2026-11-01T14:53:31Z
+  Updated: 2026-11-25T01:39:00Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -799,7 +799,7 @@ Sarah Maier's sandals are topped with the label's 'Ʌ' plaque. They've been craf
     Availability: Not Available
     Price: €345.00 EUR
 - [CETUS ORANGE - Italian Laminated Leather Sandals | Sarah Maier](https://sarahmaier.store/products/cetus-orange-sandals): We handcrafted the Cetus Orange sandals in Italy using bright laminated leather. With a square toe and stable block heel, they offer all-day comfort and a pop of color for your summer outfits.
-  Updated: 2026-10-05T01:15:21Z
+  Updated: 2026-11-24T03:15:47Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -829,7 +829,7 @@ Sarah Maier's sandals are topped with the label's 'Ʌ' plaque. They've been craf
     Availability: Available
     Price: €385.00 EUR
 - [VELA VERDANT - Green Laminated Leather Sandal](https://sarahmaier.store/products/vela-green-sandals): Handcrafted in Italy using high-shine laminated leather, the Vela Verdant sandals feature a chic square toe and comfortable block heel. We designed this pair to bring a fresh, vibrant pop of color to your wardrobe.
-  Updated: 2026-10-23T00:47:05Z
+  Updated: 2026-11-25T01:39:05Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -859,7 +859,7 @@ Sarah Maier's sandals are topped with the label's 'Ʌ' plaque. They've been craf
     Availability: Available
     Price: €385.00 EUR
 - [LAVENDER HAZE - Embellished Suede Block Heel Sandals](https://sarahmaier.store/products/lavander-sandals): Handcrafted in Italy, the Lavender Haze sandals feature soft suede embellished with sparkling rhinestones. We designed these block-heel sandals to add a touch of glamour to your eveningwear while keeping you comfortable.
-  Updated: 2026-10-18T08:22:57Z
+  Updated: 2026-11-25T01:39:00Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -943,7 +943,7 @@ Sarah Maier's sandals are topped with the label's 'Ʌ' plaque. They've been craf
     Availability: Available
     Price: €345.00 EUR
 - [RAINBOW PRISM - Women's White Leather Sneakers | Sarah Maier](https://sarahmaier.store/products/rainbow-sneakers-woman): Handcrafted in Italy using premium white calf leather, the Rainbow Prism sneakers feature a vibrant, hand-embroidered rainbow detail. We designed this pair to bring a joyful pop of color to your daily stride.
-  Updated: 2026-10-05T01:15:20Z
+  Updated: 2026-11-26T02:38:53Z
   Vendor: Sarah Maier
   Product Type: SNEAKERS
   Availability: Available
@@ -984,7 +984,7 @@ Sarah Maier's sandals are topped with the label's 'Ʌ' plaque. They've been craf
 - [BARBIE PLATFORMS - Inspired in 90's platforms and Barbie film](https://sarahmaier.store/products/barbie-platforms): Barbie Platforms are inspired in the 90's and fits normal take normal size
 Italian size,Heel measures approximately 110 mm /1.5 inches platform
 Pink leather calf
-  Updated: 2026-10-05T01:15:21Z
+  Updated: 2026-11-24T03:15:42Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -1014,7 +1014,7 @@ Pink leather calf
     Availability: Available
     Price: €475.00 EUR
 - [VOLT EMBER - Women's Grey & Orange Leather Sneakers](https://sarahmaier.store/products/grey-and-orange): Handcrafted in Italy, the Volt Ember sneakers combine premium grey calf leather with a vibrant orange signature. We designed this pair to add a modern, energetic touch to your everyday wardrobe.
-  Updated: 2026-10-18T08:22:58Z
+  Updated: 2026-11-26T02:38:52Z
   Vendor: Sarah Maier
   Product Type: SNEAKERS
   Availability: Available
@@ -1070,7 +1070,7 @@ Lace-up front. Brand’s logo impressed in both sneaker tongue.
     Availability: Available
     Price: €345.00 EUR
 - [AMARANTO LUXE - Wine Red Textured Leather Sandals | Sarah Maier](https://sarahmaier.store/products/amaranto-sandals): Handcrafted in Italy from soft textured leather, the Amaranto Luxe sandals feature Sarah Maier's signature 'Ʌ' plaque. We designed these flats for effortless elegance and all-day walking comfort.
-  Updated: 2026-10-18T08:23:02Z
+  Updated: 2026-11-24T03:15:44Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -1104,7 +1104,7 @@ Thanks to the block heels and squared toes SM pumps feel playful and retro.
 Laminated-leather. 
 Fits true (normal size).
 Heel measures +/- 110mm
-  Updated: 2026-10-05T01:15:21Z
+  Updated: 2026-11-25T01:38:57Z
   Vendor: Sarah Maier
   Product Type: PUMPS
   Availability: Available
@@ -1139,7 +1139,7 @@ Italian size
 Heel measures approximately 110 mm
 Neutral patant-leather (calf)
 Classic and elegant
-  Updated: 2026-10-24T00:48:51Z
+  Updated: 2026-11-26T02:39:43Z
   Vendor: Sarah Maier
   Product Type: PUMPS
   Availability: Available
@@ -1169,7 +1169,7 @@ Classic and elegant
     Availability: Available
     Price: €450.00 EUR
 - [CUBANITA VERDE - Green Laminated Platform Sandals](https://sarahmaier.store/products/cubanita-sandals): Handcrafted in Italy from green laminated leather, the Cubanita Verde sandals feature a 110mm heel and 1.5-inch platform. We designed these bold platforms for vibrant style and confident height.
-  Updated: 2026-10-24T00:48:36Z
+  Updated: 2026-11-24T03:15:50Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -1202,7 +1202,7 @@ Classic and elegant
 Denim Boots heel measures 110 mm
 Denim light blue with rhinestones
 Zip fastening along side...
-  Updated: 2026-10-05T01:15:20Z
+  Updated: 2026-11-24T03:15:43Z
   Vendor: Sarah Maier
   Product Type: BOOTS
   Availability: Available
@@ -1232,7 +1232,7 @@ Zip fastening along side...
     Availability: Available
     Price: €560.00 EUR
 - [SIENNA KNEE-HIGH - Light Brown Leather Heeled Boots](https://sarahmaier.store/products/knee-boots): Handcrafted in Italy from smooth light brown leather, the Sienna Knee-High boots feature a 110mm heel and a perfect glove-like fit. We designed these elegant boots for timeless sophistication and comfort.
-  Updated: 2026-10-05T01:15:22Z
+  Updated: 2026-11-25T01:38:57Z
   Vendor: Sarah Maier
   Product Type: BOOTS
   Availability: Available
