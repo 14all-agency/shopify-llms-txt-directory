@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-04-18T14:51:11Z
 - Contact Email: thedailygrindhouse2026@gmail.com
-- Updated At: 2026-11-21T00:18:56.347Z
+- Updated At: 2026-11-28T00:31:00.735Z
 
 ## Products
 
@@ -3354,7 +3354,7 @@
     Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-garment-dyed-heavyweight-t-shirt-bay-front-2-69eb96a04f018.jpg?v=1785328594
     Price: $31.00 USD
 - [Men’s Box Tee - The Daily Grindhouse](https://thedailygrindhouse.com/products/men-s-box-tee): Want a tee with a flattering fit and sturdy construction? Look no further. Men’s boxy tee is the best choice for relaxed streetwear looks and layering. With a
-  Updated: 2026-11-16T13:13:45Z
+  Updated: 2026-11-27T08:59:03Z
   Vendor: The Daily Grindhouse
   Product Type: T-SHIRT
   Availability: Available
@@ -3444,7 +3444,7 @@
     Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/mens-box-tee-vintage-black-front-69eb96ad3b060.jpg?v=1785328669
     Price: $45.00 USD
   - [Vintage White / S](https://thedailygrindhouse.com/products/men-s-box-tee?variant=49110483271922)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/mens-box-tee-vintage-white-front-69eb96ad3b0ff.jpg?v=1785328643
     Price: $30.00 USD
   - [Vintage White / M](https://thedailygrindhouse.com/products/men-s-box-tee?variant=49110483304690)
