@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-02-02T05:40:43Z
 - Contact Email: kavya.aaradhya@gmail.com
-- Updated At: 2026-11-20T01:19:49.502Z
+- Updated At: 2026-11-28T01:04:25.509Z
 
 ## Products
 
@@ -320,11 +320,11 @@
     Availability: Available
     Price: ₹1,900.00 INR
 - [Sage Green Cotton Seersucker Midi Length Pacche Skirt For Women](https://singaarabykavya.com/products/sage-green-cotton-seersucker-midi-length-pacche-skirt): Shop Sage Green Cotton Seersucker Midi-Length Pacche Skirt for Women with breathable seersucker cotton for everyday comfort. Order today online!
-  Updated: 2026-08-07T07:06:17Z
+  Updated: 2026-11-27T15:46:41Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC05930_e67151ef-ee6a-47f5-9659-301c67098f15.jpg?v=1770719499
+  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/IMG_4300.jpg?v=1795794210
   - [S](https://singaarabykavya.com/products/sage-green-cotton-seersucker-midi-length-pacche-skirt?variant=47379632259293)
     Availability: Available
     Price: ₹1,700.00 INR
@@ -362,11 +362,11 @@
     Availability: Not Available
     Price: ₹2,200.00 INR
 - [Mustard Handwoven Kala Cotton Ganga Midi Skirt For Women](https://singaarabykavya.com/products/mustard-handwoven-kala-cotton-ganga-midi-skirt): Buy Mustard Handwoven Kala Cotton Ganga Midi Skirt for Women for breathable comfort, artisan craftsmanship & effortless everyday style today!
-  Updated: 2026-08-07T07:07:08Z
+  Updated: 2026-11-27T15:37:03Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC06227.jpg?v=1770720513
+  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/IMG_4299.jpg?v=1795793601
   - [S](https://singaarabykavya.com/products/mustard-handwoven-kala-cotton-ganga-midi-skirt?variant=47379796295901)
     Availability: Not Available
     Price: ₹2,200.00 INR
@@ -383,11 +383,11 @@
     Availability: Available
     Price: ₹2,200.00 INR
 - [Multi Color Handloom Cotton Gowri Halter Top For Women](https://singaarabykavya.com/products/multi-color-handloom-cotton-gowri-halter-top): Discover Multi Color Handloom Cotton Gowri Halter Top For Women with breathable handloom cotton. Shop now for effortless everyday elegance!
-  Updated: 2026-10-10T11:57:56Z
+  Updated: 2026-11-27T15:41:34Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC06232.jpg?v=1770726377
+  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/IMG_4292.jpg?v=1795793933
   - [S](https://singaarabykavya.com/products/multi-color-handloom-cotton-gowri-halter-top?variant=47380347355357)
     Availability: Available
     Price: ₹1,600.00 INR
@@ -404,11 +404,11 @@
     Availability: Available
     Price: ₹1,600.00 INR
 - [Green Handloom Cotton Girija Halter Top For Women](https://singaarabykavya.com/products/green-handloom-cotton-girija-halter-top): Shop Green Handloom Cotton Girija Halter Top for Women crafted for breathable comfort, versatile styling & handcrafted elegance. Buy now!
-  Updated: 2026-08-07T07:04:41Z
+  Updated: 2026-11-27T15:32:25Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC06149.jpg?v=1770788756
+  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/IMG_4285.jpg?v=1795793080
   - [S](https://singaarabykavya.com/products/green-handloom-cotton-girija-halter-top?variant=47381082767581)
     Availability: Available
     Price: ₹1,600.00 INR
@@ -676,6 +676,48 @@
   - [2XL](https://singaarabykavya.com/products/beige-and-black-cotton-poplin-payana-dress-for-women?variant=48352499368157)
     Availability: Not Available
     Price: ₹3,200.00 INR
+- [Blue Handloom Cotton Hakki Midi Dress For Women](https://singaarabykavya.com/products/blue-handloom-cotton-hakki-midi-dress-for-women): Buy Blue Handloom Cotton Hakki Midi Dress For Women handcrafted from premium cotton. Shop today for timeless comfort & style!
+  Updated: 2026-11-27T15:07:22Z
+  Vendor: Singaarabykavya
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/IMG_4278.jpg?v=1795787619
+  - [S](https://singaarabykavya.com/products/blue-handloom-cotton-hakki-midi-dress-for-women?variant=68735088230621)
+    Availability: Available
+    Price: ₹3,500.00 INR
+  - [M](https://singaarabykavya.com/products/blue-handloom-cotton-hakki-midi-dress-for-women?variant=68735088263389)
+    Availability: Available
+    Price: ₹3,500.00 INR
+  - [L](https://singaarabykavya.com/products/blue-handloom-cotton-hakki-midi-dress-for-women?variant=68735088296157)
+    Availability: Available
+    Price: ₹3,500.00 INR
+  - [XL](https://singaarabykavya.com/products/blue-handloom-cotton-hakki-midi-dress-for-women?variant=68735088328925)
+    Availability: Available
+    Price: ₹3,500.00 INR
+  - [2XL](https://singaarabykavya.com/products/blue-handloom-cotton-hakki-midi-dress-for-women?variant=68735088361693)
+    Availability: Not Available
+    Price: ₹3,500.00 INR
+- [Brown Cotton Khaga Midi Dress For Women](https://singaarabykavya.com/products/brown-cotton-khaga-midi-dress-for-women): Buy Blue Handloom Cotton Hakki Midi Dress For Women handcrafted from premium cotton. Shop today for timeless comfort & style!
+  Updated: 2026-11-27T15:10:47Z
+  Vendor: Singaarabykavya
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/IMG_4270.jpg?v=1795791582
+  - [S](https://singaarabykavya.com/products/brown-cotton-khaga-midi-dress-for-women?variant=68735309316317)
+    Availability: Available
+    Price: ₹3,500.00 INR
+  - [M](https://singaarabykavya.com/products/brown-cotton-khaga-midi-dress-for-women?variant=68735309349085)
+    Availability: Available
+    Price: ₹3,500.00 INR
+  - [L](https://singaarabykavya.com/products/brown-cotton-khaga-midi-dress-for-women?variant=68735309381853)
+    Availability: Available
+    Price: ₹3,500.00 INR
+  - [XL](https://singaarabykavya.com/products/brown-cotton-khaga-midi-dress-for-women?variant=68735309414621)
+    Availability: Available
+    Price: ₹3,500.00 INR
+  - [2XL](https://singaarabykavya.com/products/brown-cotton-khaga-midi-dress-for-women?variant=68735309447389)
+    Availability: Not Available
+    Price: ₹3,500.00 INR
 
 ## Collections
 
@@ -686,14 +728,14 @@
   Updated: 2026-08-17T14:03:23Z
   Total Products: 6
 - [Handcrafted Dresses for Women](https://singaarabykavya.com/collections/handcrafted-dresses-for-women): Discover handcrafted dresses for women by Singaara By Kavya, made with natural fabrics, comfortable silhouettes, thoughtful details, and timeless style.
-  Updated: 2026-08-17T14:04:42Z
-  Total Products: 18
+  Updated: 2026-11-27T15:06:35Z
+  Total Products: 20
 - [Featured Clothing for Women](https://singaarabykavya.com/collections/featured-clothing-for-women): Explore featured clothing for women from Singaara By Kavya, thoughtfully crafted with natural fabrics, elegant silhouettes, and distinctive handcrafted details.
   Updated: 2026-08-17T14:05:17Z
   Total Products: 6
 - [Top  Garments for Women](https://singaarabykavya.com/collections/top--garments-for-women): Shop Top  Garments for women by Singaara By Kavya, featuring handcrafted designs, natural fabrics, comfortable fits, and timeless everyday style.
-  Updated: 2026-08-20T14:20:07Z
-  Total Products: 31
+  Updated: 2026-11-27T15:06:35Z
+  Total Products: 33
 - [Clothing for Women Under ₹2499](https://singaarabykavya.com/collections/clothing-for-women-under-2499): Shop clothing for women under ₹2499 from Singaara By Kavya, featuring handcrafted tops, dresses, and skirts made for comfort and effortless style.
   Updated: 2026-08-17T14:04:08Z
   Total Products: 20
