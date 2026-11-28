@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-28T09:17:14Z
 - Contact Email: aztekbhn@gmail.com
-- Updated At: 2026-11-20T01:23:41.189Z
+- Updated At: 2026-11-28T01:07:44.969Z
 
 ## Products
 
@@ -252,6 +252,15 @@
     Author: Solara™
   - [11 Ways the Solara™ Solea Sunset Aura Lamp Enhances Aesthetic Room Decor with Ambient Lighting for Your Bedroom from the Levitating Moon Lamp to the Infinity Cube Lamp](https://solaralight.shop/blogs/news/11-ways-the-solara™-solea-sunset-aura-lamp-enhances-aesthetic-room-decor-with-ambient-lighting-for-your-bedroom-from-the-levitating-moon-lamp-to-the-infinity-cube-lamp): 11 Ways the Solara™ Solea Sunset Aura Lamp Enhances Aesthetic Room Decor with Ambient Lighting for Your Bedroom from the Levitating Moon Lamp to the Infinity Cube Lamp
     Updated: 2026-11-18T11:02:44Z
+    Author: Solara™
+  - [Transform Your Bedroom with the Solara™ Dune Sand Art Lamp: A Unique Blend of Kinetic Sand Art and Galaxy Star Projector Adding Ambient Mood Lighting to Your Space](https://solaralight.shop/blogs/news/transform-your-bedroom-with-the-solara™-dune-sand-art-lamp-a-unique-blend-of-kinetic-sand-art-and-galaxy-star-projector-adding-ambient-mood-lighting-to-your-space): Transform Your Bedroom with the Solara™ Dune Sand Art Lamp: A Unique Blend of Kinetic Sand Art and Galaxy Star Projector Adding Ambient Mood Lighting to Your Space
+    Updated: 2026-11-23T11:02:12Z
+    Author: Solara™
+  - [Enhance Your Desk Setup Aesthetic with Solara™ 3D Dragon Night Light: The Future of Ambient Mood Lighting and Unique Home Decor Gifts](https://solaralight.shop/blogs/news/enhance-your-desk-setup-aesthetic-with-solara™-3d-dragon-night-light-the-future-of-ambient-mood-lighting-and-unique-home-decor-gifts): Enhance Your Desk Setup Aesthetic with Solara™ 3D Dragon Night Light: The Future of Ambient Mood Lighting and Unique Home Decor Gifts
+    Updated: 2026-11-24T11:01:39Z
+    Author: Solara™
+  - [The Solara™ Lumi Flat Page Book Light: A Guide to Elevating Aesthetic Room Decor with Ambient Lighting and Unique Desk Accessories](https://solaralight.shop/blogs/news/the-solara™-lumi-flat-page-book-light-a-guide-to-elevating-aesthetic-room-decor-with-ambient-lighting-and-unique-desk-accessories): The Solara™ Lumi Flat Page Book Light: A Guide to Elevating Aesthetic Room Decor with Ambient Lighting and Unique Desk Accessories
+    Updated: 2026-11-25T11:02:35Z
     Author: Solara™
 
 ## Store Pages
