@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-10-07T08:08:26Z
 - Contact Email: wych200@outlook.com
-- Updated At: 2026-11-20T01:01:42.373Z
+- Updated At: 2026-11-28T00:53:06.203Z
 
 ## Products
 
@@ -26,8 +26,8 @@
 - [Minglun B2B Pouches](https://mlleather.com/collections/minglun-b2b-pouches): Explore coin pouches and an SN005 leather pencil case with product images and supplied dimensions. Send your private-label or bulk sourcing requirements.
   Updated: 2026-11-02T15:52:20Z
   Total Products: 18
-- [Leather Handbag Manufacturer Catalogue | MINGLUN](https://mlleather.com/collections/minglun-b2b-handbags): Explore MINGLUN handbags by material and shape. Private label and small-batch manufacturing in Guangzhou, China: catalogue 20+/style; your design 100+.
-  Updated: 2026-11-02T15:52:20Z
+- [Leather Handbag Manufacturer Catalogue | MINGLUN](https://mlleather.com/collections/minglun-b2b-handbags): Explore MINGLUN handbags by material and shape. Private label and small-batch manufacturing in Guangzhou, China: catalogue 20+/style; your design 50+.
+  Updated: 2026-11-23T13:09:23Z
   Total Products: 12
 
 ## Blogs
@@ -46,6 +46,18 @@
     Updated: 2026-11-02T15:52:20Z
     Author: MINGLUN
     Tags: buyer guide, Canton Fair, leather handbag sourcing, OEM/ODM, private label
+  - [Guangzhou Leather Handbag Manufacturer | MINGLUN Partners](https://mlleather.com/blogs/buyer-guides/guangzhou-leather-handbag-manufacturer-global-partners): Guangzhou Leather Handbag Manufacturer | MINGLUN Partners
+    Updated: 2026-11-21T10:14:18Z
+    Author: MINGLUN
+    Tags: Manufacturing Partnerships, Private Label, Wholesale Sourcing
+  - [Designing Your First Handbag with AI? A Single Clasp Can Delay the Whole Run](https://mlleather.com/blogs/buyer-guides/designing-first-handbag-ai-clasp-hardware-moq): <p>A practical guide to custom handbag hardware for new brands: clasp samples, tooling, plating minimums and planning a first production run.</p>
+    Updated: 2026-11-27T05:57:11Z
+    Author: MINGLUN Leather, Guangzhou
+    Tags: custom handbag hardware, handbag development, MOQ, private label handbags
+  - [Custom Leather Handbags for  Companies and E-Commerce Sellers](https://mlleather.com/blogs/buyer-guides/custom-leather-handbags--companies-ecommerce-sellers): <p>MINGLUN works with  companies, brands and cross-border sellers on custom leather handbags, sampling and small-batch private-label production. Learn about customisation options, minimum quantities and factory visits in Guangzhou.</p>
+    Updated: 2026-11-27T07:18:46Z
+    Author: MINGLUN Leather, Guangzhou
+    Tags: cross-border e-commerce, Guangzhou, handbag OEM, leather handbag manufacturer, private label handbags
 
 ## Store Pages
 
@@ -66,18 +78,18 @@
 - [Genuine Leather Shoulder Straps](https://mlleather.com/pages/leather-shoulder-straps): The shoulder strap shapes how a bag is carried. Enquire about genuine leather shoulder straps for new bag ranges or coordinated accessory collectio...
   Updated: 2026-10-09T06:03:18Z
 - [Private Label Leather Handbags & OEM Manufacturing](https://mlleather.com/pages/private-label-oem): Develop private label leather handbags with MINGLUN in Guangzhou, China. We bring 25 years of high-end women's handbag manufacturing experience to ...
-  Updated: 2026-11-02T15:52:20Z
+  Updated: 2026-11-27T11:33:08Z
 - [Materials & Craftsmanship](https://mlleather.com/pages/materials-and-craftsmanship): A clear material and construction brief makes a leather accessories project easier to review. Use the points below to describe the intended product...
   Updated: 2026-10-09T06:03:18Z
 - [Leather Bag Manufacturer in China](https://mlleather.com/pages/our-factory): body:has(.factory-story) #MainContent .shopify-section > .section .section-content-wrapper > .text-block:has(> h1) { display: none !important; } .f...
   Updated: 2026-10-18T05:25:33Z
 - [Small-Batch Private-Label Leather Bag Manufacturing | MINGLUN](https://mlleather.com/pages/request-a-quote): Contact Us on WhatsApp WhatsApp: +1 380 218 8498 Chat on WhatsApp ↗ Share your product reference, quantity per style and customisation requirements...
-  Updated: 2026-10-18T05:25:33Z
+  Updated: 2026-11-23T12:58:55Z
 
 ## Policies
 
 - [Privacy Policy](https://mlleather.com/policies/privacy-policy)
-  Updated: 2026-10-29T15:16:02Z
+  Updated: 2026-11-23T13:21:01Z
 
 ## Optional
 
