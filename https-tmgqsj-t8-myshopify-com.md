@@ -6,12 +6,12 @@
 - Timezone: America/Denver
 - Created At: 2026-10-10T21:21:23Z
 - Contact Email: krystalheady6@gmail.com
-- Updated At: 2026-11-20T01:24:24.424Z
+- Updated At: 2026-11-28T00:15:53.495Z
 
 ## Products
 
 - [Momfann 2-Seater Stroller Wagon for Kids, All-Terrain Design](https://tmgqsj-t8.myshopify.com/products/momfann-2-seater-all-terrain-stroller-wagon-for-kids): Shop the Momfann 2-Seater All-Terrain Stroller Wagon for Kids.  highlights free U.S. shipping, no sales tax, and a limited-time price before holiday pricing ends.
-  Updated: 2026-11-20T01:12:04Z
+  Updated: 2026-11-27T20:27:47Z
   Vendor: Momfann
   Product Type: Stroller Wagons
   Availability: Available
@@ -40,7 +40,7 @@
   Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/sunset-dock-pier-spiral-bound-journal-lake-sunset-cover.jpg?v=1794499280
   Price: $19.60 USD
 - [Sunset Pier Ocean Scene Velveteen Plush Throw Blanket](https://tmgqsj-t8.myshopify.com/products/sunset-pier-ocean-scene-velveteen-plush-blanket): This sunset pier Ocean Scene velveteen plush throw blanket features an ocean scene and soft fabric, available in three sizes for daily comfort.
-  Updated: 2026-11-16T15:41:37Z
+  Updated: 2026-11-25T04:39:01Z
   Vendor: Printify
   Product Type: Throw Blankets
   Availability: Available
@@ -94,7 +94,7 @@
     Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/cute-halloween-ghosts-pumpkins-cats-plush-throw-blanket.jpg?v=1794503174
     Price: $51.20 USD
 - [Ocean Wave Beach Scene - Velveteen Plush Blanket for Home](https://tmgqsj-t8.myshopify.com/products/ocean-wave-beach-scene-velveteen-plush-blanket): Ocean Wave Beach Scene velveteen plush blanket features a sunlit shoreline, turquoise waves, vivid colors, and a soft touch. Drape it over your shoulders or couch.
-  Updated: 2026-11-16T15:41:36Z
+  Updated: 2026-11-25T04:39:18Z
   Vendor: Printify
   Product Type: Throw Blankets
   Availability: Available
@@ -1703,11 +1703,11 @@
     Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/mommy-s-little-reindeer-toddler-long-sleeve-tee.jpg?v=1794330612
     Price: $30.57 USD
 - [Grinch-themed Long Sleeve Tee - Christmas Mischief Classic Fit](https://tmgqsj-t8.myshopify.com/products/grinch-themed-mode-activated-christmas-long-sleeve-tee): Grinch-themed Long Sleeve Tee with a colorful “Grinch Mode Activated” design, bright berries and stars. Made from 100% cotton in a classic fit; check the size chart.
-  Updated: 2026-11-16T15:41:23Z
+  Updated: 2026-11-22T05:07:13Z
   Vendor: Printify
   Product Type: Long-sleeve
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/grinch-themed-long-sleeve-tee-black-christmas-graphic.png?v=1794328554
+  Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/male-model-wearing-the-grinch-mode-activated-shirt-in-the-existing-christmas-setting.png?v=1795280812
   - [S / Red](https://tmgqsj-t8.myshopify.com/products/grinch-themed-mode-activated-christmas-long-sleeve-tee?variant=49791073484897)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/grinch-themed-long-sleeve-tee-red-christmas-graphic-4.jpg?v=1794328560
@@ -1900,11 +1900,11 @@
   Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/pumpkin-harvest-16oz-sipper-glass-bamboo-lid-straw.jpg?v=1794324770
   Price: $28.43 USD
 - [Sherpa Fleece Blanket – Red Construction Trucks for Kids](https://tmgqsj-t8.myshopify.com/products/sherpa-fleece-blanket-red-construction-trucks-holiday-blanket-for-kids): Bring a little firehouse adventure to cozy time with this red Sherpa fleece blanket, covered in charming fire trucks, dump trucks, hard hats, traffic cones, tools, a
-  Updated: 2026-11-16T15:41:22Z
+  Updated: 2026-11-23T06:31:09Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/sherpa-fleece-blanket-red-construction-trucks.png?v=1794301018
+  Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/fleece-cozy-yearround-20261122-6.png?v=1795372197
   - [30" × 40"](https://tmgqsj-t8.myshopify.com/products/sherpa-fleece-blanket-red-construction-trucks-holiday-blanket-for-kids?variant=49801691725921)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/sherpa-fleece-blanket-red-holiday-construction-trucks-2.jpg?v=1794301020
@@ -2558,11 +2558,11 @@
     Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/2870650585699799192_2048.jpg?v=1793140146
     Price: $20.00 USD
 - [My 1st Thanksgiving Infant Bodysuit Krystal's Boutique](https://tmgqsj-t8.myshopify.com/products/my-1st-thanksgiving-infant-long-sleeve-bodysuit): Baby will celebrate a 1st thanksgiving infant holiday in this long-sleeve cotton bodysuit featuring soft ribbed binding and a three-snap closure.
-  Updated: 2026-11-16T15:41:19Z
+  Updated: 2026-11-22T04:43:01Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/18414926859807676681_2048.jpg?v=1793209169
+  Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/baby-wearing-the-my-1st-thanksgiving-bodysuit-in-a-cozy-autumn-setting.png?v=1795279360
   - [Kelly / NB (0-3M)](https://tmgqsj-t8.myshopify.com/products/my-1st-thanksgiving-infant-long-sleeve-bodysuit?variant=49876471939169)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/18414926859807676681_2048_698186cc-b294-4af9-be19-e5d0ea3d4552.jpg?v=1793209170
@@ -2628,11 +2628,11 @@
     Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/18414926859807676681_2048.jpg?v=1793209169
     Price: $27.63 USD
 - [Little Turkey Toddler Long Sleeve Tee Low Heat](https://tmgqsj-t8.myshopify.com/products/little-turkey-toddler-long-sleeve-tee): Toddlers wear this cotton turkey toddler long sleeve tee for Thanksgiving festivities featuring autumn colors and festive turkey details.
-  Updated: 2026-11-16T15:41:18Z
+  Updated: 2026-11-22T04:45:50Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/5108401180048581870_2048.jpg?v=1793141124
+  Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/little-turkey-toddler-shirt-with-a-cozy-thanksgiving-background.png?v=1795279597
   - [2T / White](https://tmgqsj-t8.myshopify.com/products/little-turkey-toddler-long-sleeve-tee?variant=49804605194337)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/5108401180048581870_2048.jpg?v=1793141124
@@ -2650,11 +2650,11 @@
     Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/5108401180048581870_2048.jpg?v=1793141124
     Price: $25.00 USD
 - [Turkey Toddler Long Sleeve Tee Thanksgiving Shirt](https://tmgqsj-t8.myshopify.com/products/too-cute-to-gobble-turkey-thanksgiving-toddler-long-sleeve-tee): Krystal's Boutique offers a toddler unisex fit long sleeve tee featuring a pilgrim turkey graphic for Thanksgiving celebrations.
-  Updated: 2026-11-16T15:41:18Z
+  Updated: 2026-11-22T04:49:44Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/9708591414633689884_2048.jpg?v=1793141284
+  Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/too-cute-to-gobble-toddler-shirt-with-a-cozy-thanksgiving-background.png?v=1795279767
   - [2T / Heather](https://tmgqsj-t8.myshopify.com/products/too-cute-to-gobble-turkey-thanksgiving-toddler-long-sleeve-tee?variant=49804781912161)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/8238357700717308771_2048.jpg?v=1793141288
@@ -2915,11 +2915,11 @@
   Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/fall-three-views-6b5de695-7b5b-48b3-b291-6966a081eeaf.png?v=1794081939
   Price: $29.00 USD
 - [Baby 1st Christmas Bodysuit Classic Fit](https://tmgqsj-t8.myshopify.com/products/my-1st-christmas-infant-long-sleeve-bodysuit): Krystals Boutique offers this 1st christmas infant long sleeve bodysuit featuring santa print soft fabric three snap closure and classic fit.
-  Updated: 2026-11-16T15:41:10Z
+  Updated: 2026-11-22T04:40:59Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/10189814381216579748_2048.jpg?v=1793209239
+  Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/baby-wearing-the-my-1st-christmas-bodysuit-in-a-cozy-christmas-setting.png?v=1795279241
   - [Kelly / NB (0-3M)](https://tmgqsj-t8.myshopify.com/products/my-1st-christmas-infant-long-sleeve-bodysuit?variant=49876585545825)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/10189814381216579748_2048_5993ea0a-0387-487f-b130-33a1cbd15265.jpg?v=1793209241
@@ -2984,231 +2984,25 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/10189814381216579748_2048.jpg?v=1793209239
     Price: $27.63 USD
-- [Football Mama Long Sleeve Tee Krystal's Boutique](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee): This football mama long sleeve tee features a retro design with footballs and bold letters on thick cotton fabric for game days.
-  Updated: 2026-11-16T15:41:09Z
-  Vendor: Printify
-  Product Type: Long-sleeve
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/3504922323510527376_2048.jpg?v=1793209250
-  - [S / Royal](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588396641)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/16208067375988979507_2048.jpg?v=1793209289
-    Price: $20.00 USD
-  - [S / White](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588429409)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/3504922323510527376_2048.jpg?v=1793209250
-    Price: $20.00 USD
-  - [S / Black](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588462177)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/6953124504678380842_2048.jpg?v=1793209255
-    Price: $20.00 USD
-  - [S / Sport Grey](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588494945)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/6170043644228242148_2048.jpg?v=1793209258
-    Price: $20.00 USD
-  - [S / Carolina Blue](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588527713)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/13200791854675363562_2048.jpg?v=1793209285
-    Price: $20.00 USD
-  - [S / Irish Green](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588560481)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/8263021201679769862_2048.jpg?v=1793209272
-    Price: $20.00 USD
-  - [S / Light Blue](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588593249)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/15635028261950373076_2048.jpg?v=1793209282
-    Price: $20.00 USD
-  - [S / Light Pink](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588626017)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/10290715974771789620_2048.jpg?v=1793209304
-    Price: $20.00 USD
-  - [S / Maroon](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588658785)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/16939823423407964715_2048.jpg?v=1793209266
-    Price: $20.00 USD
-  - [S / Purple](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588691553)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/8496347915196684305_2048.jpg?v=1793209296
-    Price: $20.00 USD
-  - [S / Dark Chocolate](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588724321)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/10132571249419170356_2048.jpg?v=1793209269
-    Price: $20.00 USD
-  - [S / Dark Heather](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588757089)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/4695449168370528503_2048.jpg?v=1793209277
-    Price: $20.00 USD
-  - [S / Gold](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588789857)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/1808329862657271201_2048.jpg?v=1793209261
-    Price: $20.00 USD
-  - [S / Navy](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588822625)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/7637270821863103962_2048.jpg?v=1793209293
-    Price: $20.00 USD
-  - [M / Royal](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588855393)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/16208067375988979507_2048.jpg?v=1793209289
-    Price: $20.00 USD
-  - [M / White](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588888161)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/3504922323510527376_2048.jpg?v=1793209250
-    Price: $20.00 USD
-  - [M / Black](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588920929)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/6953124504678380842_2048.jpg?v=1793209255
-    Price: $20.00 USD
-  - [M / Sport Grey](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588953697)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/6170043644228242148_2048.jpg?v=1793209258
-    Price: $20.00 USD
-  - [M / Carolina Blue](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876588986465)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/13200791854675363562_2048.jpg?v=1793209285
-    Price: $20.00 USD
-  - [M / Irish Green](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589019233)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/8263021201679769862_2048.jpg?v=1793209272
-    Price: $20.00 USD
-  - [M / Light Blue](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589052001)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/15635028261950373076_2048.jpg?v=1793209282
-    Price: $20.00 USD
-  - [M / Light Pink](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589084769)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/10290715974771789620_2048.jpg?v=1793209304
-    Price: $20.00 USD
-  - [M / Maroon](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589117537)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/16939823423407964715_2048.jpg?v=1793209266
-    Price: $20.00 USD
-  - [M / Purple](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589150305)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/8496347915196684305_2048.jpg?v=1793209296
-    Price: $20.00 USD
-  - [M / Dark Chocolate](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589183073)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/10132571249419170356_2048.jpg?v=1793209269
-    Price: $20.00 USD
-  - [M / Dark Heather](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589215841)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/4695449168370528503_2048.jpg?v=1793209277
-    Price: $20.00 USD
-  - [M / Gold](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589248609)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/1808329862657271201_2048.jpg?v=1793209261
-    Price: $20.00 USD
-  - [M / Navy](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589281377)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/7637270821863103962_2048.jpg?v=1793209293
-    Price: $20.00 USD
-  - [L / Royal](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589314145)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/16208067375988979507_2048.jpg?v=1793209289
-    Price: $20.00 USD
-  - [L / White](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589346913)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/3504922323510527376_2048.jpg?v=1793209250
-    Price: $20.00 USD
-  - [L / Black](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589379681)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/6953124504678380842_2048.jpg?v=1793209255
-    Price: $20.00 USD
-  - [L / Sport Grey](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589412449)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/6170043644228242148_2048.jpg?v=1793209258
-    Price: $20.00 USD
-  - [L / Carolina Blue](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589445217)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/13200791854675363562_2048.jpg?v=1793209285
-    Price: $20.00 USD
-  - [L / Irish Green](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589477985)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/8263021201679769862_2048.jpg?v=1793209272
-    Price: $20.00 USD
-  - [L / Light Blue](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589510753)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/15635028261950373076_2048.jpg?v=1793209282
-    Price: $20.00 USD
-  - [L / Light Pink](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589543521)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/10290715974771789620_2048.jpg?v=1793209304
-    Price: $20.00 USD
-  - [L / Maroon](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589576289)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/16939823423407964715_2048.jpg?v=1793209266
-    Price: $20.00 USD
-  - [L / Purple](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589609057)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/8496347915196684305_2048.jpg?v=1793209296
-    Price: $20.00 USD
-  - [L / Dark Chocolate](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589641825)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/10132571249419170356_2048.jpg?v=1793209269
-    Price: $20.00 USD
-  - [L / Dark Heather](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589674593)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/4695449168370528503_2048.jpg?v=1793209277
-    Price: $20.00 USD
-  - [L / Gold](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589707361)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/1808329862657271201_2048.jpg?v=1793209261
-    Price: $20.00 USD
-  - [L / Navy](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589740129)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/7637270821863103962_2048.jpg?v=1793209293
-    Price: $20.00 USD
-  - [XL / Royal](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589772897)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/16208067375988979507_2048.jpg?v=1793209289
-    Price: $20.00 USD
-  - [XL / White](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589805665)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/3504922323510527376_2048.jpg?v=1793209250
-    Price: $20.00 USD
-  - [XL / Black](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589838433)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/6953124504678380842_2048.jpg?v=1793209255
-    Price: $20.00 USD
-  - [XL / Sport Grey](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589871201)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/6170043644228242148_2048.jpg?v=1793209258
-    Price: $20.00 USD
-  - [XL / Carolina Blue](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589903969)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/13200791854675363562_2048.jpg?v=1793209285
-    Price: $20.00 USD
-  - [XL / Irish Green](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589936737)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/8263021201679769862_2048.jpg?v=1793209272
-    Price: $20.00 USD
-  - [XL / Light Blue](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876589969505)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/15635028261950373076_2048.jpg?v=1793209282
-    Price: $20.00 USD
-  - [XL / Light Pink](https://tmgqsj-t8.myshopify.com/products/football-mama-long-sleeve-tee?variant=49876590002273)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/2713/4305/files/10290715974771789620_2048.jpg?v=1793209304
-    Price: $20.00 USD
-[List Continued](https://tmgqsj-t8.myshopify.com/a/llms-agent/llms.txt?shop=tmgqsj-t8.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NTI2MTMyOTMyNzA1LCJsYXN0X3ZhbHVlIjoiOTUyNjEzMjkzMjcwNSJ9)
+[List Continued](https://tmgqsj-t8.myshopify.com/a/llms-agent/llms.txt?shop=tmgqsj-t8.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NTI2MTMyNzY4ODY1LCJsYXN0X3ZhbHVlIjoiOTUyNjEzMjc2ODg2NSJ9)
 
 ## Collections
 
 - [Fleece Blankets](https://tmgqsj-t8.myshopify.com/collections/fleece-blankets-soft-cozy-warm-designs): Explore Fleece Blankets featuring a variety of different style designs. Find soft, cozy, warm fleece blankets all in one spot and browse the collection's styles.
-  Updated: 2026-11-14T20:29:40Z
-  Total Products: 1
+  Updated: 2026-11-22T18:26:18Z
+  Total Products: 6
 - [Fall and Thanksgiving Tumblers](https://tmgqsj-t8.myshopify.com/collections/fall-and-thanksgiving-tumblers): Shop Fall and Thanksgiving Tumblers featuring autumn designs for crisp mornings, and thankful moments. Find a favorite for yourself or share a little fall joy.
   Updated: 2026-11-14T20:29:40Z
   Total Products: 29
 - [Kids and Baby clothing and apparel](https://tmgqsj-t8.myshopify.com/collections/kids-and-baby-clothing-and-apparel): Shop Kids and Baby clothing and apparel, featuring a collection for little ones. Browse the styles and options available for children and babies
-  Updated: 2026-11-18T14:58:31Z
-  Total Products: 9
+  Updated: 2026-11-24T18:31:35Z
+  Total Products: 13
 - [Velveteen Plush Blankets](https://tmgqsj-t8.myshopify.com/collections/velveteen-plush-blankets): Find all your favorite Velveteen Plush Blankets in one place. Explore this collection of plush blankets and choose favorites from a dedicated selection made easy
-  Updated: 2026-11-14T20:29:41Z
-  Total Products: 2
+  Updated: 2026-11-24T18:28:48Z
+  Total Products: 9
 - [Spiral notebooks](https://tmgqsj-t8.myshopify.com/collections/spiral-notebooks-and-journals): Explore spiral notebooks featuring a mixture of designs for all year round. Browse the collection to find varied designs gathered together for every season.
-  Updated: 2026-11-14T20:29:41Z
-  Total Products: 1
+  Updated: 2026-11-22T18:06:29Z
+  Total Products: 16
 - [Autumn Arrivals](https://tmgqsj-t8.myshopify.com/collections/autumn-arrivals-cozy-seasonal-designs-fall-moments): Explore Autumn Arrivals for cozy seasonal designs inspired by golden leaves, pumpkin-patch days and relaxing evenings—find your new fall favorite today.
   Updated: 2026-11-18T03:00:29Z
   Total Products: 9
@@ -3219,8 +3013,8 @@
   Updated: 2026-11-14T20:29:41Z
   Total Products: 8
 - [Everyday Tumblers](https://tmgqsj-t8.myshopify.com/collections/everyday-tumblers): Explore Everyday Tumblers in different designs for any vibe you're feeling. Browse the collection to find a tumbler design that matches your mood and personal style.
-  Updated: 2026-11-14T20:29:41Z
-  Total Products: 3
+  Updated: 2026-11-24T18:30:00Z
+  Total Products: 12
 - [Halloween Spiral Notebooks](https://tmgqsj-t8.myshopify.com/collections/halloween-spiral-notebooks): Explore Halloween Spiral Notebooks featuring all your favorite designs. Browse the collection to find notebooks with Halloween designs for your writing, notes, and everyday use.
   Updated: 2026-11-14T20:29:41Z
   Total Products: 8
@@ -3228,14 +3022,14 @@
   Updated: 2026-11-18T22:58:19Z
   Total Products: 26
 - [Christmas Notebooks](https://tmgqsj-t8.myshopify.com/collections/christmas-notebooks): Shop Christmas notebooks for holiday memories, gift lists, and cozy inspiration. Find festive stocking stuffers and thoughtful gifts at Krystal’s Boutique.
-  Updated: 2026-11-19T02:09:40Z
-  Total Products: 14
+  Updated: 2026-11-22T18:35:48Z
+  Total Products: 15
 - [Christmas Tumblers](https://tmgqsj-t8.myshopify.com/collections/christmas-tumblers): Shop Christmas tumblers at Krystal’s Boutique for cozy holiday moments, thoughtful gifts, and festive cheer. Find a merry favorite for someone special or you.
-  Updated: 2026-11-19T02:10:46Z
-  Total Products: 14
+  Updated: 2026-11-23T16:14:40Z
+  Total Products: 20
 - [All Products (AI Product Description-ChatGPT)](https://tmgqsj-t8.myshopify.com/collections/all-products-ai-product-description-chatgpt): Explore All Products (AI Product Description-ChatGPT) to create SEO-friendly product descriptions in bulk and boost your store's visibility with ease.
-  Updated: 2026-11-19T02:10:46Z
-  Total Products: 191
+  Updated: 2026-11-24T17:23:30Z
+  Total Products: 230
 - [Christmas Fleece Blankets](https://tmgqsj-t8.myshopify.com/collections/christmas-fleece-blankets): Bring home a little Christmas fleece blankets magic  from Krystal’s Boutique. From snowy scenes and cheerful snowmen to glowing fireplaces and classic holiday
   Updated: 2026-11-14T20:29:41Z
   Total Products: 10
@@ -3255,23 +3049,23 @@
   Updated: 2026-11-13T08:16:28Z
   Total Products: 0
 - [Notebooks](https://tmgqsj-t8.myshopify.com/collections/notebooks-all-seasons)
-  Updated: 2026-11-19T02:09:40Z
-  Total Products: 39
+  Updated: 2026-11-22T18:03:16Z
+  Total Products: 52
 - [Tumblers](https://tmgqsj-t8.myshopify.com/collections/tumblers-all-seasons)
-  Updated: 2026-11-19T02:10:46Z
-  Total Products: 54
+  Updated: 2026-11-24T17:23:30Z
+  Total Products: 64
 - [Hoodies](https://tmgqsj-t8.myshopify.com/collections/hoodies-all-seasons)
   Updated: 2026-11-14T20:29:42Z
   Total Products: 7
 - [Blankets](https://tmgqsj-t8.myshopify.com/collections/blankets-all-seasons): Find your next cozy favorite in our blanket collection. From scenic designs to festive seasonal prints, these blankets bring personality and a welcoming touch to your space. Curl up for a movie night, add a decorative layer to your couch, or choose a thoughtful gift for someone who loves getting cozy. Explore designs for every season and make your everyday moments a little more comforting.
-  Updated: 2026-11-18T14:59:11Z
-  Total Products: 40
+  Updated: 2026-11-24T17:22:45Z
+  Total Products: 55
 - [Children’s](https://tmgqsj-t8.myshopify.com/collections/childrens-all-seasons)
-  Updated: 2026-11-18T14:59:11Z
-  Total Products: 14
+  Updated: 2026-11-24T17:20:27Z
+  Total Products: 16
 - [T-Shirts](https://tmgqsj-t8.myshopify.com/collections/t-shirts-all-seasons)
-  Updated: 2026-11-18T04:51:20Z
-  Total Products: 37
+  Updated: 2026-11-24T17:23:29Z
+  Total Products: 38
 - [Christmas Plush Blankets](https://tmgqsj-t8.myshopify.com/collections/christmas-plush-blankets): Bring a little Christmas magic to your cozy moments. Our Christmas plush blankets add a festive touch to quiet evenings, holiday movie nights, and your favorite spot to curl up as the season settles in.Whether you’re treating yourself or choosing a thoughtful gift, find a blanket that brings the warmth and wonder of Christmas home. At Krystal’s Boutique, we’re all about the little comforts that make the season feel special.
   Updated: 2026-11-14T20:29:42Z
   Total Products: 5
@@ -3282,8 +3076,8 @@
   Updated: 2026-11-19T02:10:46Z
   Total Products: 4
 - [ Apparel](https://tmgqsj-t8.myshopify.com/collections/-apparel)
-  Updated: 2026-11-19T15:57:13Z
-  Total Products: 28
+  Updated: 2026-11-24T17:23:29Z
+  Total Products: 29
 
 ## Blogs
 
@@ -3311,6 +3105,15 @@
     Author: Krystal's Boutique
   - [Tips for Celebrating Holidays Sustainably](https://tmgqsj-t8.myshopify.com/blogs/news/tips-for-celebrating-holidays-sustainably): Tips for Celebrating Holidays Sustainably
     Updated: 2026-11-19T08:01:11Z
+    Author: Krystal's Boutique
+  - [What to Do if Your Holiday Plans Go Awry](https://tmgqsj-t8.myshopify.com/blogs/news/what-to-do-if-your-holiday-plans-go-awry): What to Do if Your Holiday Plans Go Awry
+    Updated: 2026-11-22T08:00:32Z
+    Author: Krystal's Boutique
+  - [Fascinating Holiday Traditions Explained](https://tmgqsj-t8.myshopify.com/blogs/news/fascinating-holiday-traditions-explained): Fascinating Holiday Traditions Explained
+    Updated: 2026-11-24T08:01:58Z
+    Author: Krystal's Boutique
+  - [Comparing Beach vs. Mountain Holidays: Which is Right for You?](https://tmgqsj-t8.myshopify.com/blogs/news/comparing-beach-vs-mountain-holidays-which-is-right-for-you): Comparing Beach vs. Mountain Holidays: Which is Right for You?
+    Updated: 2026-11-26T08:01:15Z
     Author: Krystal's Boutique
 
 ## Store Pages
