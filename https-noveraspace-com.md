@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-06T15:37:20Z
 - Contact Email: phillipsmichelleevelyn12122000@gmail.com
-- Updated At: 2026-11-21T01:14:21.157Z
+- Updated At: 2026-11-28T01:15:13.826Z
 
 ## Products
 
@@ -218,6 +218,15 @@
     Author: Novera Space
   - [Elevate Your Bedroom Ambiance with Novera Space Astronaut Galaxy Projector and Smart Ambient Lighting Solutions](https://noveraspace.com/blogs/news/elevate-your-bedroom-ambiance-with-novera-space-astronaut-galaxy-projector-and-smart-ambient-lighting-solutions): Elevate Your Bedroom Ambiance with Novera Space Astronaut Galaxy Projector and Smart Ambient Lighting Solutions
     Updated: 2026-11-18T11:03:10Z
+    Author: Novera Space
+  - [Novera Space 3D Galaxy Moon Lamp: A Game-Changer in Smart Ambient Lighting and Aesthetic Bedroom Decor with Cordless Reading and Levitation Features](https://noveraspace.com/blogs/news/novera-space-3d-galaxy-moon-lamp-a-game-changer-in-smart-ambient-lighting-and-aesthetic-bedroom-decor-with-cordless-reading-and-levitation-features): Novera Space 3D Galaxy Moon Lamp: A Game-Changer in Smart Ambient Lighting and Aesthetic Bedroom Decor with Cordless Reading and Levitation Features
+    Updated: 2026-11-23T11:02:24Z
+    Author: Novera Space
+  - [How Novera Space Smart Linkable Motion Sensor Night Lights Transform Hallway and Stairways with Renter Friendly Rechargeable Wall Light and Magnetic LED Sconce Features](https://noveraspace.com/blogs/news/how-novera-space-smart-linkable-motion-sensor-night-lights-transform-hallway-and-stairways-with-renter-friendly-rechargeable-wall-light-and-magnetic-led-sconce-features): How Novera Space Smart Linkable Motion Sensor Night Lights Transform Hallway and Stairways with Renter Friendly Rechargeable Wall Light and Magnetic LED Sconce Features
+    Updated: 2026-11-24T11:01:50Z
+    Author: Novera Space
+  - [Top Tips for Using Novera's Rechargeable Wall Light as a Magnetic LED Sconce and Aesthetic Renter Friendly Solution](https://noveraspace.com/blogs/news/top-tips-for-using-noveras-rechargeable-wall-light-as-a-magnetic-led-sconce-and-aesthetic-renter-friendly-solution): Top Tips for Using Novera's Rechargeable Wall Light as a Magnetic LED Sconce and Aesthetic Renter Friendly Solution
+    Updated: 2026-11-25T11:02:48Z
     Author: Novera Space
 
 ## Store Pages
