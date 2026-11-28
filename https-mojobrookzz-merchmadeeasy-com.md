@@ -83,117 +83,93 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2026-09-01T15:10:34Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-20T00:59:26.537Z
+- Updated At: 2026-11-28T01:15:58.614Z
 
 ## Products
 
 - [Chicago Event Tee](https://mojobrookzz.merchmadeeasy.com/products/chicago-tee): 100% cotton heavyweight tee in black with a logo print on the front and Chicago event design on the back
-  Updated: 2026-10-05T20:45:04Z
+  Updated: 2026-11-20T14:02:04Z
   Vendor: Mojo Brookzz
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9634/7786/files/MJBRZChicagoTee.png?v=1789677949
   - [S](https://mojobrookzz.merchmadeeasy.com/products/chicago-tee?variant=50224952279178)
     Availability: Available
-    Price: $30.00 USD
+    Price: $24.00 USD
   - [M](https://mojobrookzz.merchmadeeasy.com/products/chicago-tee?variant=50224952311946)
     Availability: Available
-    Price: $30.00 USD
+    Price: $24.00 USD
   - [L](https://mojobrookzz.merchmadeeasy.com/products/chicago-tee?variant=50224952344714)
     Availability: Available
-    Price: $30.00 USD
+    Price: $24.00 USD
   - [XL](https://mojobrookzz.merchmadeeasy.com/products/chicago-tee?variant=50224952377482)
     Availability: Available
-    Price: $30.00 USD
+    Price: $24.00 USD
   - [2XL](https://mojobrookzz.merchmadeeasy.com/products/chicago-tee?variant=50224952410250)
     Availability: Available
-    Price: $30.00 USD
+    Price: $24.00 USD
   - [3XL](https://mojobrookzz.merchmadeeasy.com/products/chicago-tee?variant=50224952443018)
     Availability: Available
-    Price: $30.00 USD
-- [Lyin' Tee](https://mojobrookzz.merchmadeeasy.com/products/lyin-tee): 100% cotton heavyweight tee in black with a photo print on the front and text design on the back
-  Updated: 2026-11-18T17:40:26Z
-  Vendor: Mojo Brookzz
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0794/9634/7786/files/MJBRZLyin_Tee.png?v=1789677949
-  - [S](https://mojobrookzz.merchmadeeasy.com/products/lyin-tee?variant=50224953884810)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [M](https://mojobrookzz.merchmadeeasy.com/products/lyin-tee?variant=50224953917578)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [L](https://mojobrookzz.merchmadeeasy.com/products/lyin-tee?variant=50224953950346)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [XL](https://mojobrookzz.merchmadeeasy.com/products/lyin-tee?variant=50224953983114)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [2XL](https://mojobrookzz.merchmadeeasy.com/products/lyin-tee?variant=50224954015882)
-    Availability: Available
-    Price: $40.00 USD
-  - [3XL](https://mojobrookzz.merchmadeeasy.com/products/lyin-tee?variant=50224954048650)
-    Availability: Not Available
-    Price: $40.00 USD
+    Price: $24.00 USD
 - [MB Rhinestone Keychain](https://mojobrookzz.merchmadeeasy.com/products/mb-rhinestone-keychain): 2.5 inch rhinestone keychain in a silver color
-  Updated: 2026-11-16T15:40:06Z
+  Updated: 2026-11-27T19:00:27Z
   Vendor: Mojo Brookzz
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9634/7786/files/MJBRZKeychain.png?v=1790957384
-  Price: $15.00 USD
+  Price: $12.00 USD
 - [Call 'Em Tee](https://mojobrookzz.merchmadeeasy.com/products/call-em-tee): 100% cotton heavyweight tee in white with a illustration print on the front
-  Updated: 2026-10-29T15:39:43Z
+  Updated: 2026-11-20T20:39:15Z
   Vendor: Mojo Brookzz
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9634/7786/files/MJBRZCallEmtee.png?v=1793133554
   - [S](https://mojobrookzz.merchmadeeasy.com/products/call-em-tee?variant=50584569970826)
     Availability: Available
-    Price: $40.00 USD
+    Price: $32.00 USD
   - [M](https://mojobrookzz.merchmadeeasy.com/products/call-em-tee?variant=50584570003594)
     Availability: Available
-    Price: $40.00 USD
+    Price: $32.00 USD
   - [L](https://mojobrookzz.merchmadeeasy.com/products/call-em-tee?variant=50584570036362)
     Availability: Available
-    Price: $40.00 USD
+    Price: $32.00 USD
   - [XL](https://mojobrookzz.merchmadeeasy.com/products/call-em-tee?variant=50584570069130)
     Availability: Available
-    Price: $40.00 USD
+    Price: $32.00 USD
   - [2XL](https://mojobrookzz.merchmadeeasy.com/products/call-em-tee?variant=50584570101898)
     Availability: Available
-    Price: $40.00 USD
+    Price: $32.00 USD
   - [3XL](https://mojobrookzz.merchmadeeasy.com/products/call-em-tee?variant=50584570134666)
     Availability: Available
-    Price: $40.00 USD
+    Price: $32.00 USD
 - [Lyin' Hat](https://mojobrookzz.merchmadeeasy.com/products/lyin-hat): 6 Panel Pro Style Snapback Hat in black with embroidered "Lyin'" design and MB logo.
-  Updated: 2026-11-12T03:27:54Z
+  Updated: 2026-11-24T14:50:02Z
   Vendor: Mojo Brookzz
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9634/7786/files/MJBRZ_Lyin_Hat_edit.png?v=1794338761
-  Price: $40.00 USD
+  Price: $32.00 USD
 
 ## Collections
 
 - [Home page](https://mojobrookzz.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-19T12:25:27Z
+  Updated: 2026-11-25T12:27:28Z
   Total Products: 5
 - [Apparel](https://mojobrookzz.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-19T12:25:27Z
+  Updated: 2026-11-21T12:25:03Z
   Total Products: 3
 - [Accessories](https://mojobrookzz.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-11T12:21:27Z
+  Updated: 2026-11-25T12:27:28Z
   Total Products: 2
 - [Hats](https://mojobrookzz.merchmadeeasy.com/collections/hats)
-  Updated: 2026-11-11T12:21:27Z
+  Updated: 2026-11-25T12:27:28Z
   Total Products: 1
 - [Music](https://mojobrookzz.merchmadeeasy.com/collections/music)
   Updated: 2026-09-08T19:38:53Z
   Total Products: 0
 - [All](https://mojobrookzz.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-19T12:25:27Z
-  Total Products: 5
+  Updated: 2026-11-25T12:27:28Z
+  Total Products: 4
 
 ## Store Pages
 
