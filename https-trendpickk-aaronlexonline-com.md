@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-08-01T08:18:25Z
 - Contact Email: aaronlexbusinesssolutions@gmail.com
-- Updated At: 2026-11-21T01:05:18.074Z
+- Updated At: 2026-11-28T01:41:47.941Z
 
 ## Products
 
@@ -470,7 +470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/ec3aa678-76f0-4955-9358-17f007f601c9.jpg?v=1786393817
     Price: ₹2,999.00 INR
 - [Fashionable sunglasses](https://trendpickk.aaronlexonline.com/products/fashionable-sunglasses): Structure of glasses: frame Polarized or not: no Lens material: AC Frame material: metal UV resistance level: UV400 Visible light fluoroscopy: 99.9 (%)
-  Updated: 2026-08-29T03:01:06Z
+  Updated: 2026-11-21T09:46:50Z
   Vendor: TrendPickk
   Product Type: Fashion
   Availability: Available
