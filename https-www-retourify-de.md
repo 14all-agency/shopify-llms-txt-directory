@@ -10,7 +10,7 @@
 - Contact Email: a.motschenbacher@retourify.de
 - Contact Phone: +4995116094240
 - Address: Geisfelder Straße 16, 96050 Bamberg
-- Updated At: 2026-11-20T00:44:27.665Z
+- Updated At: 2026-11-28T00:39:37.087Z
 
 ## Products
 
@@ -184,7 +184,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/livoo-crepesmaker-crepesmaschine-38-cm-antihaftplatte-c-ware-498866.webp?v=1748691107
   Price: 19,95 € EUR
 - [Mysterybox Spielwaren B-Ware/Gebraucht kaufen | Retourify](https://www.retourify.de/products/mysterybox-spielwaren-ab-3-jahre-b-ware-oder-gebraucht): Mysterybox Spielwaren für Kinder ab 3 Jahren, gemischt aus B-Ware & Gebrauchtware, große Preisersparnis. Jetzt entdecken!
-  Updated: 2026-11-14T07:31:27Z
+  Updated: 2026-11-20T23:03:48Z
   Vendor: Retourify
   Product Type: Spielwaren
   Availability: Available
@@ -460,63 +460,63 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/2-er-set-blomus-vase-peat-rudea-anthrazit-b-ware-872761.webp?v=1748691003
     Price: 29,95 € EUR
 - [HG01 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg01-mysteryset-haushalt-garten--teile--gramm-neu-kopie): HG01 Mysteryset Haushalt/Garten, 5 Teile, 500 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-14T07:31:24Z
+  Updated: 2026-11-20T23:03:04Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg01-mysteryset-haushalt-garten-5-teile-500-gramm-neu-4773867.png?v=1758787352
   Price: 30,00 € EUR
 - [HG02 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg02-mysteryset-haushalt-garten--teile--gramm-neu-kopie-kopie): HG02 Mysteryset Haushalt/Garten, 4 Teile, 1.200 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-14T07:31:24Z
+  Updated: 2026-11-20T23:03:06Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg02-mysteryset-haushalt-garten-4-teile-1200-gramm-neu-4711023.png?v=1758787271
   Price: 22,00 € EUR
 - [HG03 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg03-mysteryset-haushalt-garten--teile--gramm-neu): HG03 Mysteryset Haushalt/Garten, 6 Teile, 1.100 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-14T07:31:25Z
+  Updated: 2026-11-20T23:03:08Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg03-mysteryset-haushalt-garten-6-teile-1100-gramm-neu-3319147.png?v=1758787397
   Price: 30,00 € EUR
 - [HG05 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg04-mysteryset-haushalt-garten--teile--gramm-neu): HG05 Mysteryset Haushalt/Garten, 4 Teile, 2.200 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-14T07:31:25Z
+  Updated: 2026-11-20T11:05:56Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg05-mysteryset-haushalt-garten-4-teile-2200-gramm-neu-3232996.png?v=1758787293
   Price: 59,95 € EUR
 - [HG04 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg04-mysteryset-haushalt-garten--teile--gramm-neu-kopie): HG04 Mysteryset Haushalt/Garten, 2 Teile, 5.650 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-14T07:31:25Z
+  Updated: 2026-11-20T23:03:07Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg04-mysteryset-haushalt-garten-2-teile-5650-gramm-neu-9761158.png?v=1758787279
   Price: 70,00 € EUR
 - [HG06 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg05-mysteryset-haushalt-garten--teile--gramm-neu): HG06 Mysteryset Haushalt/Garten, 3 Teile, 850 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-14T07:31:25Z
+  Updated: 2026-11-20T23:03:07Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg06-mysteryset-haushalt-garten-3-teile-850-gramm-neu-9360869.png?v=1758787381
   Price: 26,00 € EUR
 - [HG07 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg07-mysteryset-haushalt-garten--teile--gramm-neu-kopie): HG07 Mysteryset Haushalt/Garten, 4 Teile, 270 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-14T07:31:24Z
+  Updated: 2026-11-20T23:03:48Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg07-mysteryset-haushalt-garten-4-teile-270-gramm-neu-4235098.png?v=1758787366
   Price: 15,00 € EUR
 - [HG08 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg08-mysteryset-haushalt-garten--teile--gramm-neu-kopie): HG08 Mysteryset Haushalt/Garten, 3 Teile, 350 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-14T07:31:26Z
+  Updated: 2026-11-20T23:03:48Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg08-mysteryset-haushalt-garten-3-teile-350-gramm-neu-5480459.png?v=1758787382
   Price: 20,00 € EUR
 - [Posten Mysterysets Beauty Gesundheit Neuware | Retourify](https://www.retourify.de/products/posten-mysterysets-beauty-gesundheit-versch-ausfuhrungen-neu): Posten Mysterysets Beauty/Gesundheit, versch. Ausführungen, Neuware – große Auswahl, kleiner Preis!
-  Updated: 2026-11-14T07:31:26Z
+  Updated: 2026-11-20T23:03:48Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
@@ -570,36 +570,43 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/solac-ultraschall-luftbefeuchter-air-from-kyoto-ultraleise-neu-5264742.jpg?v=1758787277
   Price: 14,95 € EUR
+- [M02 Mystery Mischset 4,15kg Neuware | Retourify](https://www.retourify.de/products/m02-mystery-mischset-versch-kategorien-ca-4-15-kg-neu): M02 Mystery Mischset, verschiedene Kategorien, ca. 4,15 kg, Neuware – großes Überraschungspaket. Jetzt entdecken!
+  Updated: 2026-11-23T14:09:39Z
+  Vendor: Retourify
+  Product Type: Mysterysets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/m02-mystery-mischset-versch-kategorien-ca-415-kg-neu-1637030.jpg?v=1758787360
+  Price: 79,00 € EUR
 - [M03 Mystery Mischset 250g Neuware | Retourify](https://www.retourify.de/products/m03-mystery-mischset-versch-kategorien-ca-250-gramm-neu): M03 Mystery Mischset, verschiedene Kategorien, ca. 250 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-14T07:31:27Z
+  Updated: 2026-11-20T23:03:49Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/m03-mystery-mischset-versch-kategorien-ca-250-gramm-neu-2649717.jpg?v=1758787394
   Price: 22,00 € EUR
 - [M04 Mystery Mischset 400g Neuware | Retourify](https://www.retourify.de/products/m04-mystery-mischset-versch-kategorien-ca-400-gramm-neu): M04 Mystery Mischset, verschiedene Kategorien, ca. 400 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-14T07:31:25Z
+  Updated: 2026-11-20T23:04:22Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/m04-mystery-mischset-versch-kategorien-ca-400-gramm-neu-4522112.jpg?v=1758787393
   Price: 35,00 € EUR
 - [M05 Mystery Mischset 500g Neuware | Retourify](https://www.retourify.de/products/m05-mystery-mischset-versch-kategorien-ca-500-gramm-neu-kopie): M05 Mystery Mischset, verschiedene Kategorien, ca. 500 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-14T07:31:26Z
+  Updated: 2026-11-20T23:04:22Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/m05-mystery-mischset-versch-kategorien-ca-500-gramm-neu-6182856.jpg?v=1758787379
   Price: 37,00 € EUR
 - [M06 Mystery Mischset 450g Neuware | Retourify](https://www.retourify.de/products/m06-mystery-mischset-versch-kategorien-ca-450-gramm-neu): M06 Mystery Mischset, verschiedene Kategorien, ca. 450 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-14T07:31:26Z
+  Updated: 2026-11-20T23:04:22Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/m06-mystery-mischset-versch-kategorien-ca-450-gramm-neu-9332664.jpg?v=1758787392
   Price: 35,00 € EUR
 - [M08 Mystery Mischset 450g Neuware | Retourify](https://www.retourify.de/products/m08-mystery-mischset-versch-kategorien-ca-450-gramm-neu): M08 Mystery Mischset, verschiedene Kategorien, ca. 450 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-11-14T07:31:26Z
+  Updated: 2026-11-20T23:04:22Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
@@ -833,7 +840,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/9002759321185-Kopie-Photoroom_1d76f549-648a-497b-a193-b9a39b26bae3.jpg?v=1761249170
   Price: 19,95 € EUR
 - [KitchenCraft Weihnachts-Nudelhölzer Neuware | Retourify](https://www.retourify.de/products/kitchencraft-3er-set-weihnachts-nudelholzer-neu): KitchenCraft 3er-Set Weihnachts-Nudelhölzer Keksroller, Neuware – festliche Backstube. Jetzt sichern!
-  Updated: 2026-11-05T19:01:26Z
+  Updated: 2026-11-25T09:07:35Z
   Vendor: KitchenCraft
   Product Type: Nudelhölzer
   Availability: Available
@@ -901,13 +908,6 @@
   Product Type: Haus und Garten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/71cmDPwbnCL._SL1417_-Photoroom.jpg?v=1762190365
-  Price: 14,95 € EUR
-- [Royal Swiss Wasserkocher 2L B-Ware | Retourify](https://www.retourify.de/products/royal-swiss-wasserkocher-rs-ek01-slk-2-liter-rot-neuware): Royal Swiss Wasserkocher, 2 Liter, 1500 Watt, geprüfte B-Ware – ideal für Haushalt, WG & Büro. Jetzt sichern!
-  Updated: 2026-11-05T19:29:30Z
-  Vendor: Royal Swiss
-  Product Type: Küche
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251110_142618-Photoroom.jpg?v=1762784172
   Price: 14,95 € EUR
 - [Eisenbach Wasserkocher 1,8L B-Ware | Retourify](https://www.retourify.de/products/eisenbach-professional-wasserkocher-1-8-liter-1500-watt-silber-neuware): Eisenbach Professional Wasserkocher, 1,8 Liter, 1500 Watt, Silber, geprüfte B-Ware. Jetzt günstig sichern!
   Updated: 2026-11-05T18:58:36Z
@@ -1163,7 +1163,7 @@
 ## Collections
 
 - [Haushalt Elektro](https://www.retourify.de/collections/haushalt-elektro): Elektro-Retourenware & B-Ware für die Küche und den Haushalt – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
-  Updated: 2026-11-06T09:18:14Z
+  Updated: 2026-11-23T12:20:07Z
   Total Products: 26
 - [Freizeit - Spiel und Spaß](https://www.retourify.de/collections/freizeit): Freizeitartikel und Spielwaren als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
   Updated: 2026-11-18T12:18:12Z
@@ -1322,7 +1322,7 @@
   Updated: 2026-08-07T09:45:53Z
   Total Products: 0
 - [_Wasserkocher](https://www.retourify.de/collections/wasserkocher): Langsame Wasserkocher nerven und verschwenden Strom? Mit unseren energiesparenden Wasserkochern kochst du schnell und nachhaltig. Jetzt bei Retourify sichern!
-  Updated: 2026-10-02T15:04:33Z
+  Updated: 2026-11-23T12:20:07Z
   Total Products: 7
 - [_Vakuumiergeräte](https://www.retourify.de/collections/vakuumierer): Mit einem Vakuumiergerät ziehen den Sauerstoff aus dem lebensmittelechten Beutel und verschweißen diesen anschließend. So werden Ihre Lebensmittel länger haltbar! Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
   Updated: 2026-08-07T09:45:53Z
@@ -1460,7 +1460,7 @@
   Updated: 2026-08-07T09:45:38Z
   Total Products: 0
 - [Haushaltswaren](https://www.retourify.de/collections/haushaltswaren): Praktische Haushaltswaren als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
-  Updated: 2026-10-19T07:15:53Z
+  Updated: 2026-11-24T12:19:00Z
   Total Products: 22
 - [_Kochgeschirr](https://www.retourify.de/collections/kochgeschirr): Probleme beim Kochen? Mit unserem hochwertigen Kochgeschirr erlebst Du langlebige Pfannen und vielseitige Töpfe für kreative Küchenmomente. Jetzt bei Retourify!
   Updated: 2026-08-07T09:41:26Z
@@ -1487,7 +1487,7 @@
   Updated: 2026-09-16T09:07:19Z
   Total Products: 8
 - [Mysterysets / Mischsets](https://www.retourify.de/collections/mysterysets-mischsets): Überraschungen beim Kauf von Mysterysets / Mischsets. Entdecke nachhaltige Retouren- und B-Ware zu günstigen Preisen und spare deutlich. Jetzt mit 50 % Rabatt. Retourify – DIE Bezugsquelle für Retourenware.
-  Updated: 2026-11-10T12:14:05Z
+  Updated: 2026-11-23T14:09:40Z
   Total Products: 6
 - [Mysterysets Freizeit](https://www.retourify.de/collections/mysterysets-freizeit): Überraschungseffekte bei unseren Mysterysets Freizeit. Spare deutlich bei nachhaltigen B-Ware Freizeitartikeln, während Du variantenreiche Angebote genießt. Jetzt mit 50 % Rabatt sichern. Retourify – Deine Bezugsquelle für Retourenware und Sonderposten.
   Updated: 2026-09-16T09:07:20Z
@@ -1511,13 +1511,13 @@
   Updated: 2026-11-16T09:13:31Z
   Total Products: 9
 - [_Preisupdates - täglich aktualisiert](https://www.retourify.de/collections/preisupdates-taglich-aktualisiert): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-11-18T12:18:12Z
+  Updated: 2026-11-24T12:19:00Z
   Total Products: 230
 - [Optionize Add-ons](https://www.retourify.de/collections/optionize-add-ons): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-11-18T12:18:12Z
+  Updated: 2026-11-24T12:19:00Z
   Total Products: 244
 - [All products](https://www.retourify.de/collections/all): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-11-18T12:18:12Z
+  Updated: 2026-11-24T12:19:00Z
   Total Products: 269
 - [_Weihnachtsdeko - Fertigsets](https://www.retourify.de/collections/weihnachten-fertigsets): Weihnachtsdeko stressfrei gestalten mit unseren Weihnachtsdeko - Fertigsets. Schnell und nachhaltig dekorieren, dabei Geld sparen. Jetzt bei Retourify bestellen!
   Updated: 2026-10-21T15:17:39Z
@@ -1526,7 +1526,7 @@
   Updated: 2026-09-16T09:07:20Z
   Total Products: 1
 - [AVADA - Best Sellers](https://www.retourify.de/collections/avada-best-sellers)
-  Updated: 2026-11-18T12:18:12Z
+  Updated: 2026-11-24T12:19:00Z
   Total Products: 244
 - [Schnapper 5,- bis 10,- Euro](https://www.retourify.de/collections/schnapper-bis-10-euro): Hochwertige Retouren und geprüfte B-Ware zum Sparpreis in unserer Schnapper 5,- bis 10,- Euro. Top-Qualität ohne Kompromisse. Jetzt nachhaltige Deals sichern bei Retourify!
   Updated: 2026-11-18T12:18:12Z
@@ -1708,13 +1708,13 @@
 ## Policies
 
 - [Privacy Policy](https://www.retourify.de/policies/privacy-policy)
-  Updated: 2026-11-18T02:50:57Z
+  Updated: 2026-11-26T19:32:26Z
 - [Shipping Policy](https://www.retourify.de/policies/shipping-policy)
   Updated: 2026-09-15T15:32:45Z
 - [Refund Policy](https://www.retourify.de/policies/refund-policy)
-  Updated: 2026-11-13T13:06:24Z
+  Updated: 2026-11-26T19:36:29Z
 - [Terms of Service](https://www.retourify.de/policies/terms-of-service)
-  Updated: 2026-11-18T02:50:25Z
+  Updated: 2026-11-26T19:21:44Z
 - [Contact Information](https://www.retourify.de/policies/contact-information)
   Updated: 2023-05-05T13:40:01Z
 
