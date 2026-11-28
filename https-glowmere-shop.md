@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-08T11:39:53Z
 - Contact Email: gilebrooks@gmail.com
-- Updated At: 2026-11-21T01:27:29.216Z
+- Updated At: 2026-11-28T01:30:57.251Z
 
 ## Products
 
@@ -1231,7 +1231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0778/8799/6069/files/FIONAS_OFF.jpg?v=1792926726
     Price: $88.99 USD
 - [Walnut Base Linen Shade Table Lamp - Walnut Base | Glowmere](https://glowmere.shop/products/oliver-walnut-base-cylinder-linen-shade-table-lamp): Table lamp with sculpted walnut base and cylindrical linen shade. Free shipping on every US order. Shop now at Glowmere.
-  Updated: 2026-10-25T23:12:13Z
+  Updated: 2026-11-24T02:26:05Z
   Vendor: Glowmere
   Product Type: Table Lamps
   Availability: Available
@@ -1589,7 +1589,7 @@
   Updated: 2026-10-29T16:58:45Z
   Total Products: 47
 - [Table Lamps](https://glowmere.shop/collections/table-lamps): Shop table lamps for nightstands, desks and shelves. Free shipping on every order and 30-day returns. Browse the collection at Glowmere.
-  Updated: 2026-10-29T16:53:47Z
+  Updated: 2026-11-24T12:14:44Z
   Total Products: 64
 - [Portable Lamps](https://glowmere.shop/collections/portable-lamps): Shop portable cordless lamps for tables, shelves and patios. Free shipping on every order and 30-day returns. Shop Glowmere today.
   Updated: 2026-10-29T16:54:16Z
@@ -1601,10 +1601,10 @@
   Updated: 2026-10-29T16:54:52Z
   Total Products: 16
 - [Bedroom Lighting](https://glowmere.shop/collections/bedroom-lighting): Shop bedroom lamps, bedside lights and string lights. Free shipping on every order and 30-day returns. Find your bedroom lighting.
-  Updated: 2026-10-29T16:55:12Z
+  Updated: 2026-11-24T12:14:44Z
   Total Products: 100
 - [Living Room Lighting](https://glowmere.shop/collections/living-room-lighting): Shop living room floor lamps, table lamps and accent lights. Free shipping on every order and 30-day returns. Shop Glowmere.
-  Updated: 2026-10-29T16:55:38Z
+  Updated: 2026-11-24T12:14:44Z
   Total Products: 90
 - [Home Office Lighting](https://glowmere.shop/collections/home-office-lighting): Shop desk lamps and floor lamps for your home office. Free shipping on every order and 30-day returns. Find your lamp today.
   Updated: 2026-10-29T16:55:59Z
@@ -1660,6 +1660,15 @@
     Author: Glowmere
   - [Glowmere™ Kingpin Transparent Disk Black Marble Table Lamp: Your Guide to Choosing an Aesthetic Bedside Accent Lamp and Modern Living Room Lighting Tips](https://glowmere.shop/blogs/news/glowmere™-kingpin-transparent-disk-black-marble-table-lamp-your-guide-to-choosing-an-aesthetic-bedside-accent-lamp-and-modern-living-room-lighting-tips): Glowmere™ Kingpin Transparent Disk Black Marble Table Lamp: Your Guide to Choosing an Aesthetic Bedside Accent Lamp and Modern Living Room Lighting Tips
     Updated: 2026-11-18T11:04:57Z
+    Author: Glowmere
+  - [Glowmere™ Sphere: A Deep Dive into Modern Floor Lamps for Living Room](https://glowmere.shop/blogs/news/glowmere™-sphere-a-deep-dive-into-modern-floor-lamps-for-living-room): Glowmere™ Sphere: A Deep Dive into Modern Floor Lamps for Living Room
+    Updated: 2026-11-23T11:04:13Z
+    Author: Glowmere
+  - [How to Elevate Your Living Room with the Glowmere™ Leo Black Arc Floor Lamp and Layered Lighting Techniques](https://glowmere.shop/blogs/news/how-to-elevate-your-living-room-with-the-glowmere™-leo-black-arc-floor-lamp-and-layered-lighting-techniques): How to Elevate Your Living Room with the Glowmere™ Leo Black Arc Floor Lamp and Layered Lighting Techniques
+    Updated: 2026-11-24T11:03:19Z
+    Author: Glowmere
+  - [Enhance Your Living Space: A Complete Guide to Integrating Glowmere™ Marlow Mini Table Lamp with Modern Floor and Cordless Lighting Techniques](https://glowmere.shop/blogs/news/enhance-your-living-space-a-complete-guide-to-integrating-glowmere™-marlow-mini-table-lamp-with-modern-floor-and-cordless-lighting-techniques): Enhance Your Living Space: A Complete Guide to Integrating Glowmere™ Marlow Mini Table Lamp with Modern Floor and Cordless Lighting Techniques
+    Updated: 2026-11-25T11:04:10Z
     Author: Glowmere
 
 ## Store Pages
