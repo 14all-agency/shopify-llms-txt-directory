@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-10-02T02:47:03Z
 - Contact Email: triciatoussi262@gmail.com
-- Updated At: 2026-11-21T01:00:38.161Z
+- Updated At: 2026-11-28T01:21:12.289Z
 
 ## Products
 
@@ -378,13 +378,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0779/8875/7720/files/manual-chrome-black-gray-carbon-fiber-shift-knob-bc31-1.jpg?v=1794781624
   Price: $9.99 USD
-- [Honey Burlwood Wood Grain Film Vinyl Sheet Roll Wrap 48" x](https://autodirectsave.com/products/auto-direct-save-honey-burlwood-wood-grain-film-vinyl-sheet-roll-wrap-48-x-15): Honey Burlwood Wood Grain Roll Vinyl 48" x 15"
-  Updated: 2026-11-16T09:32:27Z
-  Vendor: Auto Direct Save
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/8875/7720/files/auto-direct-save-honey-burlwood-wood-grain-film-vinyl-sheet-roll-wrap-48-x-15-1.jpg?v=1794781638
-  Price: $19.99 USD
 - [LED Mini Light Bar Red and Blue 1 Watt 13 Inch Lightbar](https://autodirectsave.com/products/led-mini-light-bar-red-and-blue-1-watt-13-inch-lightbar-mount-on-roof): LED Mini Light Bar Red and Blue 1 Watt 13 Inch Lightbar Mount on Roof is sold by Auto Direct Save. LED configuration is 20 1 watt LEDs. Flash patterns: 14
   Updated: 2026-11-16T09:59:58Z
   Vendor: 1W13
@@ -1244,8 +1237,8 @@
   Updated: 2026-11-16T01:43:19Z
   Total Products: 1
 - [All](https://autodirectsave.com/collections/all): Shop All is the Auto Direct Save catalog: LED light bars, strobe and warning lights, made-in-USA forklift hitches, shift knobs, relays, and harnesses. Every buyer gets the same wholesale price. There is no membership and no minimum order. In-stock parts ship from California. Search by SKU or part number when you already have one, or start from the category pages for light bars, strobes, hitches, and accessories. Each product page lists the LED layout, voltage, mount, and size when the original listing included those details. The store has sold this equipment wholesale since 1999, and the hitch line is made in the USA.
-  Updated: 2026-11-16T01:47:48Z
-  Total Products: 180
+  Updated: 2026-11-25T17:14:32Z
+  Total Products: 179
 - [Gasket Material](https://autodirectsave.com/collections/gasket-material): Gasket Material
   Updated: 2026-11-16T01:45:28Z
   Total Products: 3
