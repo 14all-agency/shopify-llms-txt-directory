@@ -9,7 +9,7 @@
 - Created At: 2026-04-06T10:15:38Z
 - Contact Email: info@silynxcom.com
 - Contact Phone: +1 571-748-7152
-- Updated At: 2026-11-21T00:36:57.740Z
+- Updated At: 2026-11-28T00:40:23.372Z
 
 ## Products
 
@@ -84,7 +84,7 @@
   - [Tan](https://silynxcom.com/products/harris-xg-75-radio-cable-adaptor?variant=43282648989799)
     Availability: Not Available
 - [Baofeng / Kenwood 2-Pin Cable Adaptor | Silynx Communications](https://silynxcom.com/products/baofeng-kenwood-2-pin-cable-adaptor): Silynx Baofeng/Kenwood 2-pin cable adaptor for CLARUS. Kenwood SKU: CA0211-00, Baofeng SKU: CA0211-02. Not compatible with C4OPS.
-  Updated: 2026-11-02T11:33:49Z
+  Updated: 2026-11-24T04:33:17Z
   Vendor: Silynx
   Product Type: Cable Adaptors
   Availability: Not Available
@@ -174,7 +174,7 @@
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/VIC-5-450x450.jpg?v=1775480340
 - [Peltor / Sordin Headset Adaptor for C4OPS | Silynx](https://silynxcom.com/products/peltor-sordin-adaptor): Silynx Peltor/Sordin Headset Adaptor — connects Peltor or Sordin OTE headsets to the Silynx C4OPS PTT. Multiple variants. Tan only. Export controlled.
-  Updated: 2026-08-11T09:45:00Z
+  Updated: 2026-11-26T03:46:21Z
   Vendor: Silynx
   Product Type: Cable Adaptors
   Availability: Not Available
@@ -293,7 +293,7 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/ClarusIIGreen_DSC3601.jpg?v=1779179045
 - [PROTEGO PRO — In-Ear Tactical Hearing Protection NRR 31 | Silynx](https://silynxcom.com/products/protego-pro): Silynx PROTEGO PRO — in-ear tactical hearing protection. NRR 31 dB, IP68 waterproof, Hear-Thru ambient sound, in-ear voice mic. For military, LE, and shooters.
-  Updated: 2026-08-11T09:44:57Z
+  Updated: 2026-11-25T02:47:15Z
   Vendor: Silynx
   Product Type: In-Ear sound protection Headsets
   Availability: Not Available
@@ -311,7 +311,7 @@
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/CA0389-B-00_adaptor_002.png?v=1782622202
 - [HSI Tactical Headset | Silynx Communications](https://silynxcom.com/products/hsi-over-the-ear-headset): HSI Tactical Headset — rugged single-sided infantry headset for Clarus/Fortis. Available in 2M and 10M immersion versions. MIL-STD-810G.
-  Updated: 2026-08-11T09:44:57Z
+  Updated: 2026-11-25T02:47:16Z
   Vendor: Silynx
   Product Type: Single Side Tactical Headsets
   Availability: Not Available
@@ -431,19 +431,19 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/DSC1262.jpg?v=1779946977
 - [EAGLE MARITIME Tactical Headset | Silynx Communications](https://silynxcom.com/products/eagle-maritime-tactical-headset): Silynx EAGLE MARITIME tactical headset — single-sided, 20m dive-proof, for divers and maritime operators. Compatible with CLARUS/FORTIS.
-  Updated: 2026-08-11T09:44:53Z
+  Updated: 2026-11-25T02:47:16Z
   Vendor: Silynx
   Product Type: Single Side Tactical Headsets
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/EAGLE-no-BKG-DSC_186-1536x1536.webp?v=1777894692
 - [FALCON Tactical Headset | Silynx Communications](https://silynxcom.com/products/falcon): Silynx FALCON tactical headset — single-sided infantry headset, IP68, Clarus/Fortis compatible. Dynamic or differential mic options.
-  Updated: 2026-08-11T09:44:53Z
+  Updated: 2026-11-25T02:47:14Z
   Vendor: Silynx
   Product Type: Single Side Tactical Headsets
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Falcon-Side-DSC_0167-HDR-1536x1536.webp?v=1777894623
 - [Silynx Clarus Pro X — Electronic In-Ear Ear Protection for Shooting](https://silynxcom.com/products/silynx-clarus-pro-x): Silynx Clarus Pro X — military-grade electronic in-ear hearing protection for shooting, hunting, and tactical use. NRR 31 dB, Hear-Thru, IP68, 72-hour battery.
-  Updated: 2026-08-11T09:44:53Z
+  Updated: 2026-11-25T02:47:15Z
   Vendor: Silynx
   Product Type: Sound Protection Plugs
   Availability: Not Available
@@ -459,7 +459,7 @@
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/OTE_Salvus_Green.jpg?v=1784109648
 - [PROTEGO PLT Converted Peltor Headset | Silynx Communications](https://silynxcom.com/products/protego-plt): Silynx PROTEGO PLT — Peltor ComTac converted OTE headset. SNR 39dB, IP68, QDC powered. Compatible with ComTac XPI, V, VIII. SKU: HSPLT-CLR-HB-B-00.
-  Updated: 2026-08-11T09:44:53Z
+  Updated: 2026-11-26T03:46:11Z
   Vendor: Silynx
   Product Type: Over The Ear Sound Protection Headset
   Availability: Not Available
@@ -533,13 +533,13 @@
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/inearnoretainersProtegoin-earheadsetwornandsecuredatneckfromfront1eggcovertheadsethead.jpg?v=1779701667
 - [Silynx C4OPS Tactical Headset System | Military PTT Comms](https://silynxcom.com/products/c4ops): The Silynx C4OPS — rugged tactical headset system for special forces. In-ear hearing protection, modular PTT control, MIL-STD durability for combat ops.
-  Updated: 2026-08-11T09:44:51Z
+  Updated: 2026-11-26T03:46:14Z
   Vendor: Silynx
   Product Type: Sound Protection Radio Controllers
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/product_9bfcd50f-a0d2-11ef-aeb5-00155df2f401.jpg?v=1777649210
 - [Peltor / Sordin Headset Adaptor for Clarus | Silynx](https://silynxcom.com/products/clarus-peltor-sordin-adaptor): Silynx Peltor/Sordin Headset Adaptor — connects Peltor or Sordin OTE headsets to the Silynx Clarus PTT. Tan only. Export controlled.
-  Updated: 2026-08-11T09:44:51Z
+  Updated: 2026-11-24T04:33:23Z
   Vendor: Silynx
   Product Type: Cable Adaptors
   Availability: Not Available
@@ -941,6 +941,10 @@
     Tags: investor-relations, press-release
   - [Press Release: Silynxcom Announces Development of New AI-Powered Wearable Technology to Strategically Target the Counter-Drone Defense Market](https://silynxcom.com/blogs/press-releases/silynxcom-announces-development-of-new-ai-powered-wearable-technology-to-strategically-target-the-counter-drone-defense-market): Press Release: Silynxcom Announces Development of New AI-Powered Wearable Technology to Strategically Target the Counter-Drone Defense Market
     Updated: 2026-10-21T14:17:17Z
+    Author: Silynx Communications
+    Tags: investor-relations, press-release
+  - [Press Release: Silynxcom Reports Over $1 Million in Orders Since September, Including Over $440,000 from Government Entities](https://silynxcom.com/blogs/press-releases/silynxcom-reports-over-1-million-in-orders-since-september-including-over-440-000-from-government-entities): Press Release: Silynxcom Reports Over $1 Million in Orders Since September, Including Over $440,000 from Government Entities
+    Updated: 2026-11-24T19:51:05Z
     Author: Silynx Communications
     Tags: investor-relations, press-release
 
