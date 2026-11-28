@@ -6,12 +6,12 @@
 - Timezone: America/Phoenix
 - Created At: 2024-10-26T17:05:09Z
 - Contact Email: wright92a@tutanota.com
-- Updated At: 2026-11-20T00:26:15.463Z
+- Updated At: 2026-11-28T00:25:28.652Z
 
 ## Products
 
 - [Orgonite Tower Busters – Black Sun Orgone Energy Generator](https://orgoniteandy.us/products/black-sun-orgonite-tower-buster): Black Sun Orgonite Tower Busters for EMF protection, energy clearing & 5G defense. Great for gifting, gridding, and harmonizing your space.
-  Updated: 2026-11-19T00:50:46Z
+  Updated: 2026-11-27T15:49:55Z
   Vendor: OrgoniteAndy
   Product Type: Tower Buster
   Availability: Available
@@ -61,7 +61,7 @@
     Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/black-sun-orgonite-tower-busters-puck-set.jpg?v=1793842772
     Price: $224.95 USD
 - [Orgonite Tower Buster – Reiki, Chakra & Energy Healing Tool](https://orgoniteandy.us/products/red-rock-sedona-orgonite-tower-buster): Andy's Red Vortex Orgonite Tower Buster made for Reiki, chakra healing, meditation, and energy balancing. A perfect tool for healers and spiritual practitioners
-  Updated: 2026-11-18T03:22:15Z
+  Updated: 2026-11-27T15:49:55Z
   Vendor: OrgoniteAndy
   Product Type: Tower Buster
   Availability: Available
@@ -146,7 +146,7 @@
     Availability: Available
     Price: $4.95 USD
 - [Orgonite Cell Phone Sticker – EMF Radiation Harmonizer](https://orgoniteandy.us/products/orgonite-cell-phone-sticker-black-sun-emf-blocker): Orgonite cell phone sticker protects against EMF radiation. Easy to apply, harmonizes energy, and restores balance with powerful orgone energy.
-  Updated: 2026-11-19T00:50:45Z
+  Updated: 2026-11-27T04:29:05Z
   Vendor: OrgoniteAndy
   Product Type: EMF Sticker
   Availability: Available
@@ -228,7 +228,7 @@
     Availability: Available
     Price: $21.95 USD
 - [Orgonite Tower Buster – Black Sun Orgone Energy Generator](https://orgoniteandy.us/products/large-black-sun-orgonite-tower-buster-crystals): Discover Andy's Large Black Sun Orgonite Tower Buster, a powerful orgone generator handcrafted using the Black Sun Blend for unparalleled EMF protection.
-  Updated: 2026-11-19T20:13:46Z
+  Updated: 2026-11-25T22:50:31Z
   Vendor: OrgoniteAndy
   Product Type: Tower Buster
   Availability: Available
@@ -268,7 +268,7 @@
   - [10](https://orgoniteandy.us/products/large-black-sun-orgonite-tower-buster-crystals?variant=49328586850589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/large-black-sun-orgonite-pucks-product-closeup.jpg?v=1791398582
-    Price: $119.95 USD
+    Price: $125.95 USD
   - [12](https://orgoniteandy.us/products/large-black-sun-orgonite-tower-buster-crystals?variant=49328586883357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/large-black-sun-orgonite-pucks-product-closeup.jpg?v=1791398582
@@ -276,9 +276,9 @@
   - [15](https://orgoniteandy.us/products/large-black-sun-orgonite-tower-buster-crystals?variant=49328586916125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/large-black-sun-orgonite-pucks-product-closeup.jpg?v=1791398582
-    Price: $169.95 USD
+    Price: $175.95 USD
 - [Orgonite Pendant – EMF Protection | Orgone Energy Necklace](https://orgoniteandy.us/products/black-sun-orgonite-pendant-donut-necklace): Handcrafted Black Sun Orgonite Pendant for EMF protection, grounding & energy balance. Features premium crystals, metals & 432Hz healing frequency.
-  Updated: 2026-11-19T02:21:46Z
+  Updated: 2026-11-25T04:24:07Z
   Vendor: OrgoniteAndy
   Product Type: Pendant
   Availability: Available
@@ -310,21 +310,21 @@
     Availability: Available
     Price: $45.95 USD
 - [Red Rock Sedona Vortex Orgonite Pendant | Crystal Energy Jewelry](https://orgoniteandy.us/products/sedona-red-rock-orgonite-pendant-necklace): Handmade Sedona Red Rock Orgonite Pendant Necklace – Orgone energy vortex harmonizer with 7 healing crystals for chakra balance, grounding & positive energy.
-  Updated: 2026-11-18T03:22:15Z
+  Updated: 2026-11-24T01:08:27Z
   Vendor: OrgoniteAndy
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/sedona-red-rock-orgonite-donut-pendant.jpg?v=1791398446
   Price: $22.95 USD
 - [Orgonite Tower Buster – Powerful EMF Protection Tool](https://orgoniteandy.us/products/large-black-sun-orgonite-tower-buster): Discover Andy's Large Black Sun Orgonite Tower Buster, your ideal solution for EMF shielding and energy harmonizing.
-  Updated: 2026-11-19T22:14:57Z
+  Updated: 2026-11-25T02:01:02Z
   Vendor: OrgoniteAndy
   Product Type: Tower Buster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/large-black-sun-orgonite-tower-buster.jpg?v=1791398165
   Price: $16.95 USD
 - [Orgonite Energy - Large Sedona Vortex Tower Buster Pucks](https://orgoniteandy.us/products/large-sedona-orgonite-tower-buster): Discover Orgone Energy with orgonite tower buster for EMF protection & chakra healing. Handcrafted with powerful crystals & metals for energy balance.
-  Updated: 2026-11-18T03:22:11Z
+  Updated: 2026-11-25T02:00:21Z
   Vendor: OrgoniteAndy
   Product Type: Tower Buster
   Availability: Available
@@ -377,7 +377,7 @@
   Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/sedona-red-rock-orgonite-tower-busters.jpg?v=1791398129
   Price: $5.95 USD
 - [Shungite Bracelet - EMF Protection | 8mm Beads - Stretch Fit](https://orgoniteandy.us/products/shungite-bracelet-8mm-beads): Authentic Russian Shungite bracelet with 8mm beads. Benefits include EMF protection, energy healing, and stylish wearable wellness.
-  Updated: 2026-11-18T03:22:15Z
+  Updated: 2026-11-21T00:48:17Z
   Vendor: OrgoniteAndy
   Product Type: Bracelet
   Availability: Available
@@ -420,7 +420,7 @@
   Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/il_340x270.2173152803_tgpd.jpg?v=1754276842
   Price: $11.95 USD
 - [Shungite Pendant - Eclipse - Black - EMF Protection Necklace](https://orgoniteandy.us/products/black-shungite-pendant-2-inch-round-eclipse-emf-necklace): Discover our handcrafted Shungite pendant, designed to neutralize EMF radiation and promote emotional balance with style.
-  Updated: 2026-11-18T03:22:15Z
+  Updated: 2026-11-27T04:29:06Z
   Vendor: OrgoniteAndy
   Product Type: Pendant
   Availability: Available
@@ -434,14 +434,14 @@
   Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/polished-black-shungite-oval-bead-necklace.jpg?v=1791399135
   Price: $74.95 USD
 - [Orgonite Starter Set Bundle – Tower Busters, Shungite & Phone Sticker](https://orgoniteandy.us/products/orgonite-starter-set-bundle): Complete handcrafted orgonite starter bundle with 7 Tower Busters, genuine Shungite Eclipse necklace, and EMF phone sticker. Made in Arizona. Free U.S. shipping.
-  Updated: 2026-11-19T01:04:05Z
+  Updated: 2026-11-27T04:29:06Z
   Vendor: OrgoniteAndy
   Product Type: Orgonite Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/798724610_2510612979450196_5370538598942058751_n_2b47cbff-b4a5-4722-bbe7-5305d4fa62d8.jpg?v=1789419851
   Price: $65.95 USD
 - [Give the Gift of Orgonite! 🎁](https://orgoniteandy.us/products/give-the-gift-of-orgonite-🎁): Not sure which orgonite product to choose? Let them decide with an OrgoniteAndy Digital Gift Card! Perfect for birthdays, holidays, special occasions, or simply sharing the gift of positive energy. Gift cards can be used toward our handcrafted orgonite tower busters, pendants, shungite jewelry, gemstones, and more. Why Choose an OrgoniteAndy Gift Card? ✓ Delivered digitally by email ✓ Choose from multiple gift card amounts ✓ Redeemable on anything at OrgoniteAndy.us ✓ No shipping required ✓ A thoughtful gift for any orgonite enthusiast Give them the freedom to choose something they'll truly love!
-  Updated: 2026-11-19T07:52:39Z
+  Updated: 2026-11-21T07:49:14Z
   Vendor: OrgoniteAndy
   Product Type: 
   Availability: Available
@@ -462,13 +462,13 @@
 ## Collections
 
 - [Orgonite Andy's Home page](https://orgoniteandy.us/collections/orgonite-andys-home-page): OrgoniteAndy.us – Handcrafted orgonite crystals, and chakra jewelry for EMF protection, energy balancing, meditation, and spiritual wellness.
-  Updated: 2026-11-19T12:15:45Z
+  Updated: 2026-11-27T12:16:47Z
   Total Products: 5
 - [What Is a Orgonite Tower Buster?](https://orgoniteandy.us/collections/orgonite-tower-busters): Boost your space with Orgonite Tower Busters—handcrafted orgone energy generators that neutralize EMFs, cleanse energy, and restore balance in your environment.
-  Updated: 2026-11-19T12:15:45Z
+  Updated: 2026-11-26T12:16:18Z
   Total Products: 6
 - [Orgonite Pendants & Shungite Jewelry](https://orgoniteandy.us/collections/orgonite-pendants-chakra-jewlery): Handcrafted Orgonite pendants & chakra jewelry for EMF protection, energy balance, chakra alignment, and spiritual wellness—wear daily for positive vibes.
-  Updated: 2026-11-16T17:30:18Z
+  Updated: 2026-11-27T12:16:47Z
   Total Products: 7
 - [Shungite Chips, Crushed Quartz & Crystal Stones](https://orgoniteandy.us/collections/shungite-quartz-crystal-chips): Shop shungite chips, crushed clear quartz, and crystal stones for orgonite making, resin crafts, inlay art, and décor. Find fine granules and coarse chips.
   Updated: 2026-11-06T20:37:41Z
@@ -477,10 +477,10 @@
   Updated: 2026-11-15T12:16:16Z
   Total Products: 4
 - [EMF Stickers & Shields – Cell Phone & Device Protection](https://orgoniteandy.us/collections/emf-stickers-and-shields-cell-phone-protection): Orgonite EMF stickers protect phones, tablets, laptops & WiFi. Small, sleek, and crystal-infused for portable energy balancing and EMF defense.
-  Updated: 2026-11-19T12:15:45Z
+  Updated: 2026-11-27T12:16:47Z
   Total Products: 2
 - [Recommended Products (Wiz Email)](https://orgoniteandy.us/collections/recommended-products-wiz-email): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-11-19T12:15:45Z
+  Updated: 2026-11-27T12:16:47Z
   Total Products: 24
 
 ## Blogs
