@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2023-07-31T11:42:42Z
 - Contact Email: folkmarketgems@gmail.com
-- Updated At: 2026-11-20T01:11:04.968Z
+- Updated At: 2026-11-28T01:23:10.423Z
 
 ## Products
 
@@ -143,7 +143,7 @@
   Availability: Available
   Price: $550.00 USD
 - [2.8 Carats 100% Natural Burmese Red Spinel](https://www.gemstonesfinder.com/products/2-8-carats-100-natural-burmese-red-spinel): 2.7 to 3 ct in between Carats 100% Natural Burmese Red Spinel. Dimension: 9 x 8 mm. : None. Clarity: VVS. Shape: Oval. Origin: Burmese, Mogok
-  Updated: 2026-10-14T07:17:47Z
+  Updated: 2026-11-24T17:00:55Z
   Vendor: Gemstones Finder
   Product Type: Loose Gemstones
   Availability: Available
@@ -685,28 +685,28 @@
   Image: https://cdn.shopify.com/s/files/1/0803/8583/5314/files/rare-hackmanite-loose-stones.jpg?v=1785671148
   Price: $550.00 USD
 - [3.20 ct Natural Pakistani Peridot | VVS Cushion Cut Loose Gemstone](https://www.gemstonesfinder.com/products/3-20-ct-natural-pakistani-peridot): 3.20 ct natural peridot from Pakistan. VVS clarity, vivid green, cushion cut, ~9×7mm. Genuine loose gemstone. August birthstone. Ships worldwide.
-  Updated: 2026-09-30T16:07:56Z
+  Updated: 2026-11-24T17:00:53Z
   Vendor: Gemstones Finder
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/8583/5314/files/loose-peridot-kohistan-valley.png?v=1787573082
   Price: $480.00 USD
 - [Pakistani Peridot Pair, 9 ct Total | Gemstones Finder](https://www.gemstonesfinder.com/products/pakistani-peridot-pair-9ct-10x9mm): Shop a loose Pakistani peridot pair, approximately 9 ct total and 10 × 9 mm each. Green, square-shaped, untreated stones for paired settings.
-  Updated: 2026-10-01T00:32:00Z
+  Updated: 2026-11-24T17:00:55Z
   Vendor: Gemstones Finder
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/8583/5314/files/Fancy_Pair-peridots.jpg?v=1790772159
   Price: $790.00 USD
 - [Watermelon Tourmaline Loose Stones | 3.45 ct Parcel](https://www.gemstonesfinder.com/products/watermelon-tourmaline-loose-stones-3-45ct): Shop four natural watermelon tourmaline loose stones from Afghanistan, totaling 3.45 ct, with pink-green color zones, step cuts, and SI to eye-clean clarity.
-  Updated: 2026-11-09T22:11:57Z
+  Updated: 2026-11-24T17:00:53Z
   Vendor: Gemstones Finder
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/8583/5314/files/bi-color-Tourmaline-stones.jpg?v=1790772354
   Price: $850.00 USD
 - [3.45 ct Natural Peridot Emerald Cut Loose Gem | Gemstones Finder](https://www.gemstonesfinder.com/products/natural-peridot-emerald-cut-3-45-ct): Untreated 3.45 carat natural peridot, emerald cut, 11.1 x 6.7 x 4.9 mm, VVS eye-clean clarity, from Pakistan. August birthstone for custom jewelry.
-  Updated: 2026-10-01T03:53:14Z
+  Updated: 2026-11-24T17:00:55Z
   Vendor: Gemstones Finder
   Product Type: Loose Gemstones
   Availability: Available
@@ -725,13 +725,72 @@
     Availability: Not Available
     Price: $1,440.00 USD
 - [Natural Peridot Pair | Fancy Cut 7.4 × 7.3 mm](https://www.gemstonesfinder.com/products/7-4-x-7-3-mm-fancy-cut-pair-of-peridots): Shop a natural peridot pair from Pakistan with fancy cuts, green colour and no . Weight: 3.90 carats. Each stone measures 7.4 × 7.3 × 5.2 mm.
-  Updated: 2026-11-09T22:16:35Z
+  Updated: 2026-11-24T17:00:55Z
   Vendor: Gemstones Finder
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/8583/5314/files/pair-peridots.jpg?v=1794219366
   Price: $280.00 USD
-[List Continued](https://www.gemstonesfinder.com/a/llms-agent/llms.txt?shop=2be459-2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQ4NjA1NTU3OTk1NCwibGFzdF92YWx1ZSI6IjE1NDg2MDU1NTc5OTU0In0%3D)
+- [2 to 3 mm size Natural Burmese Spinel Parcel Bulk](https://www.gemstonesfinder.com/products/2-to-3-mm-size-natural-burmese-spinel-parcel-bulk): 140 carats Burmese Spinels Measurement: 2 to 3 mm per piece no  colors: Mixed Origin: Myanmar
+  Updated: 2026-11-25T04:39:23Z
+  Vendor: Gemstones Finder
+  Product Type: Spinels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0803/8583/5314/files/c2b541c2-328e-4cdb-9f4f-18937ce90aed.jpg?v=1795538760
+  - [50 carats](https://www.gemstonesfinder.com/products/2-to-3-mm-size-natural-burmese-spinel-parcel-bulk?variant=68766534205746)
+    Availability: Available
+    Price: $1,500.00 USD
+  - [90 Carats](https://www.gemstonesfinder.com/products/2-to-3-mm-size-natural-burmese-spinel-parcel-bulk?variant=68766534238514)
+    Availability: Available
+    Price: $2,250.00 USD
+- [3 to 4mm Burmese Red Spinel Loose Stones in Bulk Deals](https://www.gemstonesfinder.com/products/3-to-4mm-burmese-red-spinel-loose-stones-in-bulk-deals): This parcel is of red spinels sourced from Burma. The sizes are under 1 carat size. The color is deep red. There is no . Sizes are of loose shapes. 3 to 4 mm
+  Updated: 2026-11-25T05:07:35Z
+  Vendor: Gemstones Finder
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0803/8583/5314/files/Burma_spinels_loose_stones.jpg?v=1795540587
+  - [10 Carats](https://www.gemstonesfinder.com/products/3-to-4mm-burmese-red-spinel-loose-stones-in-bulk-deals?variant=68766607900978)
+    Availability: Available
+    Price: $1,000.00 USD
+  - [20 Carats](https://www.gemstonesfinder.com/products/3-to-4mm-burmese-red-spinel-loose-stones-in-bulk-deals?variant=68766602035506)
+    Availability: Available
+    Price: $1,600.00 USD
+  - [40 Carats](https://www.gemstonesfinder.com/products/3-to-4mm-burmese-red-spinel-loose-stones-in-bulk-deals?variant=68766602068274)
+    Availability: Available
+    Price: $3,000.00 USD
+  - [60 Carats](https://www.gemstonesfinder.com/products/3-to-4mm-burmese-red-spinel-loose-stones-in-bulk-deals?variant=68766602101042)
+    Availability: Available
+    Price: $4,200.00 USD
+- [Round Moissanite 6.5 mm, VVS | Gemstones Finder](https://www.gemstonesfinder.com/products/round-brilliant-moissanite): Lab-created round brilliant moissanite, 0.93 ct, measuring 6.5 × 6.5 × 4 mm. Clear white appearance, VVS clarity, supplied as one loose stone.
+  Updated: 2026-11-27T05:13:34Z
+  Vendor: Gemstones Finder
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0803/8583/5314/files/moissanite-stone-single.jpg?v=1795712753
+  Price: $200.00 USD
+- [6.5 x 6.5 mm Round Moissanite Gemstone](https://www.gemstonesfinder.com/products/round-brilliant-moissanite-vvs): Lab-created round brilliant moissanite, 0.93 ct, measuring 6.5 × 6.5 × 4 mm. Clear white appearance, VVS clarity, supplied as one loose stone.
+  Updated: 2026-11-27T05:19:45Z
+  Vendor: Gemstones Finder
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0803/8583/5314/files/moissanite-round-brilliant.jpg?v=1795713573
+  Price: $200.00 USD
+- [Natural Orange Clinohumite from Tajikistan | 22.80 ct Parcel](https://www.gemstonesfinder.com/products/22-carats-bulk-natural-rare-clinohumite-tajikistan): Shop 22.80 carats of natural orange clinohumite from Tajikistan. This 32-piece, untreated gemstone parcel has an average weight of 0.71 carats per stone.
+  Updated: 2026-11-27T22:09:59Z
+  Vendor: Gemstones Finder
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0803/8583/5314/files/clinohumite.jpg?v=1795774138
+  - [5 Pieces](https://www.gemstonesfinder.com/products/22-carats-bulk-natural-rare-clinohumite-tajikistan?variant=68798938906930)
+    Availability: Available
+    Price: $650.00 USD
+  - [10 Pieces](https://www.gemstonesfinder.com/products/22-carats-bulk-natural-rare-clinohumite-tajikistan?variant=68798938939698)
+    Availability: Available
+    Price: $1,200.00 USD
+  - [20 Pieces](https://www.gemstonesfinder.com/products/22-carats-bulk-natural-rare-clinohumite-tajikistan?variant=68798938972466)
+    Availability: Available
+    Price: $2,200.00 USD
+[List Continued](https://www.gemstonesfinder.com/a/llms-agent/llms.txt?shop=2be459-2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTUzMjc5NjA4NDUzMCwibGFzdF92YWx1ZSI6IjE1NTMyNzk2MDg0NTMwIn0%3D)
 
 ## Collections
 
@@ -739,8 +798,8 @@
   Updated: 2026-07-14T17:46:03Z
   Total Products: 6
 - [Spinels](https://www.gemstonesfinder.com/collections/natural-spinel-stones-for-): Discover premium spinel loose gems & rough stones. August birthstone collection featuring Burmese, Sri Lankan & African spinels. Expert healing stones.
-  Updated: 2026-10-13T19:22:13Z
-  Total Products: 7
+  Updated: 2026-11-24T17:14:20Z
+  Total Products: 9
 - [Morganite](https://www.gemstonesfinder.com/collections/morganite-faceted-stones-rough-morganite): Discover authentic Morganite gemstones from Brazil, Madagascar & Afghanistan. Premium rough & cut morganite stones, healing crystals & love stones.
   Updated: 2026-07-14T17:45:52Z
   Total Products: 2
@@ -766,7 +825,7 @@
   Updated: 2026-11-09T10:20:27Z
   Total Products: 21
 - [Peridots](https://www.gemstonesfinder.com/collections/peridot-rough-loose-stones): Explore a stunning collection of Peridot stones at GemstonesFinder. Choose from a variety of options including Facet Rough, Lapidary Rough Peridots, Loose Peridots, and Peridot Crystals. Peridot Stone Deals available in bulk with competitive price.  Shop now for high-quality, handpicked Peridots to add a touch of brilliance to your designs.
-  Updated: 2026-11-09T10:31:55Z
+  Updated: 2026-11-24T16:51:29Z
   Total Products: 13
 - [Garnet](https://www.gemstonesfinder.com/collections/garnet-rough-stones-loose-garnets): Browse loose garnets in green, orange, and red-purple varieties, including tsavorite, spessartite, rhodolite, and rough Mali garnet. Choose from single cut stones, pairs, larger lots, and rough material for lapidary work.
   Updated: 2026-09-30T16:15:40Z
@@ -778,20 +837,20 @@
   Updated: 2026-07-14T17:46:05Z
   Total Products: 11
 - [Sphene / Titanite](https://www.gemstonesfinder.com/collections/natural-sphene-for-): Discover authentic Sphene Titanite gemstones from Pakistan, Madagascar & Brazil. Premium rough & cut sphene stones, rare specimens & collector gems.
-  Updated: 2026-07-18T19:54:43Z
+  Updated: 2026-11-24T16:54:38Z
   Total Products: 3
 - [Facet Rough Gemstones Deals for Gems Cutters / Lapidary Artists](https://www.gemstonesfinder.com/collections/facet-rough-gemstones-deals-for-gems-cutters-lapidary-artists): Experience the art of lapidary and faceting with our facet rough gemstone deals designed for gems cutters and lapidary artists. Source the best quality rough gems and facet them into extraordinary creations.
-  Updated: 2026-09-30T16:16:38Z
+  Updated: 2026-11-26T10:21:31Z
   Total Products: 9
 - [Gemstone Accessories](https://www.gemstonesfinder.com/collections/gemstone-accessories): Find all types of natural gemstone accessories here at a very reasonable prices.
   Updated: 2026-06-03T22:30:46Z
   Total Products: 1
 - [Loose Gemstones](https://www.gemstonesfinder.com/collections/loose-gemstones-for-): Explore Natural loose cut gemstones, birthstones, colored stones for jewelry making. Natural emeralds, rubies, sapphires & more.  quality, competitive prices, fast shipping.
-  Updated: 2026-10-13T19:21:30Z
-  Total Products: 47
+  Updated: 2026-11-27T11:11:52Z
+  Total Products: 134
 - [New Arrival Gems](https://www.gemstonesfinder.com/collections/new-arrivals-gemstones): Shop our latest gemstone arrivals! Discover rare precious stones, healing crystals & natural gems.  authentic with free shipping over $50.
-  Updated: 2026-11-09T10:20:27Z
-  Total Products: 81
+  Updated: 2026-11-27T11:11:52Z
+  Total Products: 86
 - [Apatite](https://www.gemstonesfinder.com/collections/buy-apatite-gemstones): Shop premium Apatite gemstones at Gemstones Finder. Natural blue & green crystals, healing stones, jewelry grade specimens. Expert curation, fast shipping, satisfaction .
   Updated: 2026-08-24T12:35:12Z
   Total Products: 4
@@ -799,8 +858,8 @@
   Updated: 2026-08-24T12:34:18Z
   Total Products: 3
 - [Loose Precious Stones](https://www.gemstonesfinder.com/collections/loose-precious-stones): Shop loose gemstones in a variety of colors, shapes, and sizes, from individual sapphires and emeralds to mixed stone lots. Browse each listing for its cut, carat weight, and stated origin where provided.
-  Updated: 2026-11-09T10:31:55Z
-  Total Products: 67
+  Updated: 2026-11-27T11:11:52Z
+  Total Products: 72
 
 ## Blogs
 
@@ -893,6 +952,98 @@
     Updated: 2026-11-09T11:12:45Z
     Author: Adnan Akram
     Tags: A to Z Gemstones, Alexandrite, Birthstones, Gemstone and Jewelry Trends, Gemstone Buying Guide, Moonstone, Pearl
+  - [Diamond Buying Guide: Meaning, Value, Quality and Shapes](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/buying-guide-on-diamond): Diamond Buying Guide: Meaning, Value, Quality and Shapes
+    Updated: 2026-11-23T11:52:04Z
+    Author: Adnan Akram
+    Tags: A to Z Gemstones, Diamond, Gemstone Buying Guide
+  - [Alexandrite Color Change: The Science of Color-Changing Gems](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/behind-alexandrite-and-other-changing-gems): Alexandrite Color Change: The Science of Color-Changing Gems
+    Updated: 2026-11-23T11:53:01Z
+    Author: Adnan Akram
+    Tags: A to Z Gemstones, Gemstone and Jewelry Trends, Gemstone Buying Guide, Gemstone Science
+  - [Turquoise, Zircon & Tanzanite Buying Guide: Color & Origin](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/color-origin-and-meaning): Turquoise, Zircon & Tanzanite Buying Guide: Color & Origin
+    Updated: 2026-11-23T12:05:19Z
+    Author: Adnan Akram
+    Tags: A to Z Gemstones, Gemstone Buying Guide, Tanzanite, Turquoise, Zircons
+  - [Aquamarine vs Bloodstone: Meaning, Color and Value](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/guide-on-aquamarine-and-bloodstone-meaning-value-and-price): Aquamarine vs Bloodstone: Meaning, Color and Value
+    Updated: 2026-11-23T12:03:39Z
+    Author: Adnan Akram
+    Tags: A to Z Gemstones, Aquamarine, Beryl, Gemstone Buying Guide, March Birthstones
+  - [Reading a Gemstone Certificate: Identification & ](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/reading-gemstone-certificates): Reading a Gemstone Certificate: Identification & 
+    Updated: 2026-11-23T12:05:07Z
+    Author: Adnan Akram
+    Tags: A to Z Gemstones, Gemstone Buying Guide, Gemstone Science
+  - [Star Sapphire & Star Ruby: Asterism in Gemstones](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/gemstone-star-in-sapphire-ruby): Star Sapphire & Star Ruby: Asterism in Gemstones
+    Updated: 2026-11-23T12:33:02Z
+    Author: Adnan Akram
+    Tags: A to Z Gemstones, Gemstone and Jewelry Trends, Gemstone Buying Guide, July Birthstones, Rubies, Sapphire, September Birthstones
+  - [Gemstone  Explained: Heat, Filling & Dyeing](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/explaining-gemstone-): Gemstone  Explained: Heat, Filling & Dyeing
+    Updated: 2026-11-26T09:53:58Z
+    Author: Adnan Akram
+    Tags: Gemstone Science, Gemstone , Gemstones Identification
+  - [Gemstone Fluorescence & Phosphorescence: UV Light Guide](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/glowing-gems-fluorescence): Gemstone Fluorescence & Phosphorescence: UV Light Guide
+    Updated: 2026-11-26T09:56:07Z
+    Author: Adnan Akram
+    Tags: Gemstone Science, Gemstones Identification
+  - [Gemstone Cutting: Faceting, Polishing & How It Works](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/how-gemstone-cutting-works): Gemstone Cutting: Faceting, Polishing & How It Works
+    Updated: 2026-11-26T09:54:45Z
+    Author: Adnan Akram
+    Tags: Gemstone Buying Guide, Gemstone Science, Gemstones Identification
+  - [How Are Gemstones Formed? Natural Gemstone Formation](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/gemstone-formation-from-deep-earth): How Are Gemstones Formed? Natural Gemstone Formation
+    Updated: 2026-11-26T09:55:48Z
+    Author: Adnan Akram
+    Tags: Gemstone Buying Guide, Gemstone Science, Gemstones Identification
+  - [Gemstone Colors: Why Ruby, Emerald & Sapphire Have Color](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/colorful-gemstones-and-its-science-behind-it): Gemstone Colors: Why Ruby, Emerald & Sapphire Have Color
+    Updated: 2026-11-26T10:42:14Z
+    Author: Adnan Akram
+    Tags: Gemstone Science
+  - [Natural vs Lab-Grown Gemstones: Differences & Buying Guide](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/natural-gems-vs-lab-grown-gemstones): Natural vs Lab-Grown Gemstones: Differences & Buying Guide
+    Updated: 2026-11-26T10:39:06Z
+    Author: Adnan Akram
+    Tags: Gemstone Buying Guide, Gemstone Science, Gemstone , Gemstones Identification
+  - [Purpose of Gemstones: Jewelry, Value & Practical Uses](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/purpose-of-gemstones): Purpose of Gemstones: Jewelry, Value & Practical Uses
+    Updated: 2026-11-26T10:39:41Z
+    Author: Adnan Akram
+    Tags: Gemstone and Jewelry Trends, Gemstone Buying Guide
+  - [Rainbow Colors in Gemstones: Optical Effects Explained](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/rainbow-colors-in-gemstones): Rainbow Colors in Gemstones: Optical Effects Explained
+    Updated: 2026-11-26T10:40:33Z
+    Author: Adnan Akram
+    Tags: Gemstone and Jewelry Trends, Gemstone Buying Guide, Gemstone Science, Gemstones Identification
+  - [Bicolor Gemstones: Two-Color Stones, Meaning & Value](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/bi-color-gemstone-value): Bicolor Gemstones: Two-Color Stones, Meaning & Value
+    Updated: 2026-11-26T11:07:05Z
+    Author: Adnan Akram
+    Tags: Gemstone Science, Gemstone , Gemstones Identification
+  - [Rare Gemstones: Appearance, Minerals and Gemstone Value](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/rare-gemstone-and-its-worth): Rare Gemstones: Appearance, Minerals and Gemstone Value
+    Updated: 2026-11-26T11:04:57Z
+    Author: Adnan Akram
+    Tags: Gemstone Science, Gemstones Identification, Rare Gemstones
+  - [How to Tell If a Gemstone Is Real | Gemstone Identification](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/how-to-spot-a-false-gemstone): How to Tell If a Gemstone Is Real | Gemstone Identification
+    Updated: 2026-11-26T11:03:16Z
+    Author: Adnan Akram
+    Tags: Gemstone Buying Guide, Gemstone Science, Gemstones Identification
+  - [Gemstone Colors: How Hue, Tone & Saturation Affect Value](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/gemstone-colors-determines-value): Gemstone Colors: How Hue, Tone & Saturation Affect Value
+    Updated: 2026-11-26T11:04:35Z
+    Author: Adnan Akram
+    Tags: Gemstone Buying Guide, Gemstone Science, Gemstones Identification
+  - [Gemstone Clarity: Inclusions, Transparency & Value](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/explaining-gemstone-clarity-inclusion): Gemstone Clarity: Inclusions, Transparency & Value
+    Updated: 2026-11-26T11:04:17Z
+    Author: Adnan Akram
+    Tags: Gemstone Buying Guide, Gemstone Science, Gemstones Identification
+  - [Gemstone Carat Weight: Size, Density & Value Explained](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/explaining-carat-weight-size-measurement-density-and-value): Gemstone Carat Weight: Size, Density & Value Explained
+    Updated: 2026-11-26T11:06:14Z
+    Author: Adnan Akram
+    Tags: Did You know?, FAQs, Gemstone Buying Guide, Gemstone Education, Gemstones Identification, How to?
+  - [Gemstone Jewelry Design: 5 Types of Gemstone Settings](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/gemstone-jewelry-design-explained): Gemstone Jewelry Design: 5 Types of Gemstone Settings
+    Updated: 2026-11-27T15:58:31Z
+    Author: Adnan Akram
+    Tags: Did You know?, FAQs, Gemstone and Jewelry Trends, Gemstone Buying Guide, Gemstone Education, How to?, Tips
+  - [Source of Gemstones: Mining, Deposits & Formation](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/source-of-gemstones-mining-famous-deposits-and-their-refinement): Source of Gemstones: Mining, Deposits & Formation
+    Updated: 2026-11-27T15:10:14Z
+    Author: Adnan Akram
+    Tags: Gemstone Education, Gemstone Science, Gemstones Identification, How to?
+  - [Gemstone Durability: Hardness, Care & Everyday Jewelry](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/durable-gemstone-meaning-and-purpose-and-value): Gemstone Durability: Hardness, Care & Everyday Jewelry
+    Updated: 2026-11-27T15:12:18Z
+    Author: Adnan Akram
+    Tags: FAQs, Gemstone and Jewelry Trends, Gemstone Education, Gemstone Science, Gemstones Identification, How to?
 
 ## Store Pages
 
