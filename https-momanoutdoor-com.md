@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-03-13T02:48:37Z
 - Contact Email: operation@momanoutdoor.com
-- Updated At: 2026-11-21T01:21:48.169Z
+- Updated At: 2026-11-28T01:44:28.207Z
 
 ## Products
 
@@ -435,7 +435,7 @@
     Author: Moman Outdoor
     Tags: ATV, Off Road
   - [Ski Helmet Headset: How to Choose for Better Skiing](https://momanoutdoor.com/blogs/insights/ski-helmet-headset-choose-for-better-skiing): <p>Choose a ski helmet headset with 6 key features in mind. Explore Moman options for solo skiing, two-rider communication, and group intercom for a better skiing.</p>
-    Updated: 2026-11-18T02:11:51Z
+    Updated: 2026-11-27T03:54:49Z
     Author: Moman Outdoor
     Tags: Helmet Headset, Helmet Intercom, Ski
   - [How to Communicate While Skiing - 3 Ways to Stay Connected](https://momanoutdoor.com/blogs/insights/how-to-communicate-while-skiing-3-ways): <p>Learn how to communicate while skiing by using helmet intercoms, two-way radios, or phone apps. Compare pros and cons to find the right option.</p>
@@ -500,9 +500,21 @@
     Author: Moman Outdoor
     Tags: Helmet Intercom, Snowboard
   - [Things to Consider when Choosing a Snowboard Headset](https://momanoutdoor.com/blogs/insights/choose-snowboard-headset): <p>Explore how to choose a snowboard headset for clear communication, reliable performance, and great sound on the slopes.</p>
-    Updated: 2026-11-20T01:44:40Z
+    Updated: 2026-11-24T03:14:24Z
     Author: Moman Outdoor
     Tags: Helmet Headset, Helmet Intercom, Snowboard
+  - [A Complete Guide to Snowboard Helmet Communication System](https://momanoutdoor.com/blogs/insights/snowboard-helmet-communication-system-guide): <p>Avoid losing contact when riders split up on the slopes. Explore a snowboard helmet communication system for reliable communication.</p>
+    Updated: 2026-11-23T01:31:11Z
+    Author: Moman Outdoor
+    Tags: Helmet Intercom, Snowboard
+  - [How to Listen to Music While Snowboarding Safely](https://momanoutdoor.com/blogs/insights/how-to-listen-to-music-while-snowboarding-safely): <p>Enjoy music on the slopes without compromising safety. Discover snowboard headset benefits, volume control, and smarter listening habits.</p>
+    Updated: 2026-11-25T17:01:13Z
+    Author: Moman Outdoor
+    Tags: Helmet Headset, Snowboard
+  - [How to Install Intercom in Helmet](https://momanoutdoor.com/blogs/insights/how-to-install-intercom-in-helmet): <p>Learn how to install intercom in helmet step by step. Discover how to fit speakers, position the mic, mount the unit, and pair devices for clear, comfortable communication.</p>
+    Updated: 2026-11-27T17:32:51Z
+    Author: Moman Outdoor
+    Tags: Helmet Headset, Helmet Intercom
 
 ## Store Pages
 
