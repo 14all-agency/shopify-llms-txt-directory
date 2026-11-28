@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-01-21T11:17:34Z
 - Contact Email: kashmirgemsjewelry@gmail.com
-- Updated At: 2026-11-21T01:07:23.695Z
+- Updated At: 2026-11-28T01:23:08.229Z
 
 ## Products
 
@@ -18,35 +18,35 @@
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/kashmir-ruby-loose-gems.png?v=1768995431
   Price: $200.00 USD
 - [100 Carat Raw Sapphire Parcel | Purplish Pink Kashmir Rough Gemstones](https://www.kashmirstones.com/products/100-carats-facet-rough-parcel-of-purplish-raw-sapphires): Natural 100 carat raw sapphire parcel from Kashmir Pakistan. Purplish pink untreated rough gemstones, SI-VS clarity. Perfect for faceting and custom jewelry. No heat . Shop authentic Kashmir sapphires!
-  Updated: 2026-09-15T20:35:58Z
+  Updated: 2026-11-26T04:06:22Z
   Vendor: Kashmir Gems
   Product Type: Rough Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Rough-Kashmir-Sapphires.webp?v=1769023274
   Price: $990.00 USD
 - [0.55 Carat Purplish Pink Kashmir Sapphire | Natural Oval Cut Gemstone](https://www.kashmirstones.com/products/0-55-carats-purplish-pink-sapphire-from-kashmir-oval-cut): Natural 0.55 carat purplish pink Kashmir sapphire with violet hues. Untreated oval cut loose gemstone, SI clarity. Perfect for custom jewelry. Shop authentic Kashmir sapphires from Pakistan!
-  Updated: 2026-09-15T20:35:58Z
+  Updated: 2026-11-26T04:06:19Z
   Vendor: Kashmir Gems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Purple-Batakundi-Sapphire.png?v=1769023264
   Price: $300.00 USD
 - [1.5 Carat Natural Kashmir Lavender Sapphire | Untreated Loose Gemstone](https://www.kashmirstones.com/products/1-5-carats-kashmir-pink-sapphire-emerald-cut-sapphire-loose-gem): Rare 1.5 carat natural Kashmir lavender sapphire with purplish-pink and blue tones. 100% untreated loose gemstone from Pakistan Kashmir. Perfect for custom jewelry. Shop authentic Kashmir sapphires!
-  Updated: 2026-09-15T20:35:58Z
+  Updated: 2026-11-25T03:07:09Z
   Vendor: Kashmir Gems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Kashmir-sapphire-loose-stone.png?v=1769023024
   Price: $650.00 USD
 - [1.9 Carat Natural Emerald Cut Kashmir Ruby | Pigeon Blood Red Gemstone](https://www.kashmirstones.com/products/1-8-ct-kashmir-ruby-emerald-cut-red-ruby): Stunning 1.9 carat natural Kashmir ruby with pigeon blood red color. Emerald cut, untreated loose gemstone from Kashmir. 100% natural, translucent clarity. Shop authentic Kashmir rubies now!
-  Updated: 2026-09-15T20:35:59Z
+  Updated: 2026-11-26T04:06:17Z
   Vendor: Kashmir Gems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/kashmir-ruby1.3_11zon_1.webp?v=1768995212
   Price: $490.00 USD
 - [1.45 Carat Purplish Pink Kashmir Sapphire | Shop Natural Loose Gemstone](https://www.kashmirstones.com/products/1-45-carats-purplish-pink-kashmir-sapphire-loose-pink-sapphires): Rare 1.45 carat natural purplish pink Kashmir sapphire - loose gemstone perfect for custom jewelry. Untreated corundum from Kashmir. Certificate available. Shop authentic pink sapphires now!
-  Updated: 2026-09-15T20:35:59Z
+  Updated: 2026-11-25T03:07:03Z
   Vendor: Kashmir Gems
   Product Type: Loose Gemstones
   Availability: Available
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Batakundi-Sapphire-gems_15ced415-2a01-4c28-ba0b-a6ddb5aa7774.png?v=1768995187
   Price: $1,200.00 USD
 - [10 Carat Natural Kashmir Sapphires | Loose Stones](https://www.kashmirstones.com/products/10-carats-natural-kashmir-sapphires-loose-stones): Authentic 10 carat natural Kashmir sapphires - untreated loose stones. Rare -quality gemstones perfect for custom jewelry. Certificate available. Shop genuine Kashmir sapphires now.
-  Updated: 2026-09-15T20:35:59Z
+  Updated: 2026-11-26T04:06:16Z
   Vendor: Kashmir Gems
   Product Type: Loose Gemstones
   Availability: Available
@@ -74,14 +74,14 @@
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Swat-Emeralds.png?v=1768995064
   Price: $300.00 USD
 - [19.40 Carat Pink Sapphires Loose Stones - Emerald Oval Cut](https://www.kashmirstones.com/products/19-40-carats--of-pink-sapphires-loose-stones-emerald-oval-cut-sapphires): Premium 19.40 carat natural pink sapphires in emerald & oval cuts. Authentic Kashmir gemstones perfect for custom jewelry. Special  price $1,450. Shop loose pink sapphire stones now!
-  Updated: 2026-09-15T20:36:00Z
+  Updated: 2026-11-25T03:07:04Z
   Vendor: Kashmir Gems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/batakundi-purple-sapphires.png?v=1768995039
   Price: $1,450.00 USD
 - [10 carat Oval Cushion Cut Pink Kashmir Sapphire Precious Loose Stones Lot](https://www.kashmirstones.com/products/10-carat-lot-of-pink-sapphires): Discover the captivating beauty of these stunning pink Kashmir sapphires, sourced from the legendary gemstone region of Kashmir. This exceptional 10-carat lot features carefully selected oval and cushion-cut stones that showcase the mesmerizing pink hues that Kashmir sapphires are renowned for worldwide. Why Choose These Kashmir Sapphires? Premium Quality: Each stone in this lot has been hand-selected for its exceptional color, clarity, and brilliance Rare Origin: Kashmir sapphires are among the most sought-after gemstones in the world, prized by collectors and jewelry designers Versatile Shapes: Oval and cushion cuts offer timeless elegance, perfect for custom jewelry designs  Value: Kashmir sapphires continue to appreciate in value, making them both beautiful and valuable  Authenticity: Genuine Kashmir origin, ensuring you receive authentic precious gemstones Perfect For: These loose sapphires are ideal for jewelry designers, collectors, and anyone looking to create bespoke engagement rings, pendants, earrings, or other fine jewelry pieces. The romantic pink color adds a unique and feminine touch to any design. Specifications: Total Weight: 10 carats Origin: Kashmir, Pakistan Cuts: Oval and Cushion Color: Pink Type: Natural Corundum (Sapphire) Imagine owning a piece of Kashmir's legendary gemstone heritage - these sapphires carry the mystique and beauty of one of the world's most celebrated gem-producing regions. Each stone tells a story of geological wonder and natural artistry.
-  Updated: 2026-09-15T20:36:00Z
+  Updated: 2026-11-25T03:07:05Z
   Vendor: Kashmir Gems
   Product Type: Loose Gemstones
   Availability: Available
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Mozambique-rough-rubies.jpg?v=1769973186
   Price: $350.00 USD
 - [20 Ct Melee Size Pigeon Blood Kashmir Rough Ruby Stones – Untreated](https://www.kashmirstones.com/products/20-ct-natural-pigeon-blood-kashmir-rough-ruby-stones-untreated): Rare and exceptional 20-carat parcel of natural Kashmir rough rubies displaying the coveted pigeon blood red color. These untreated gemstones are perfect for collectors and professional gem cutters seeking premium-quality material from one of the world's most legendary ruby sources. What You Get: 20 carats total weight of genuine Kashmir rough rubies Melee size stones (under 1 carat each when rough) Prized pigeon blood red color – the most sought-after ruby hue 100% natural and completely untreated Authentic Kashmir origin – extremely rare in today's market Gemstone Specifications: Stone Type: Natural Ruby (Corundum) Origin: Kashmir, Pakistan Color: Pigeon Blood Red : None – Completely Natural Size Category: Melee size rough Condition: Raw, uncut Perfect For: Serious gemstone collectors Professional lapidaries and gem cutters Fine jewelry designers seeking rare material -grade gemstone portfolios Why Kashmir Rubies Are Special: Kashmir rubies are among the rarest and most valuable gemstones in the world. The region's mines have produced very limited quantities, making authentic Kashmir material highly prized by collectors and connoisseurs. The distinctive pigeon blood red color combined with Kashmir origin makes these stones exceptionally desirable. This parcel offers an opportunity to own genuine, untreated Kashmir rubies – a treasure that's increasingly difficult to find in today's gemstone market.
-  Updated: 2026-09-15T20:36:03Z
+  Updated: 2026-11-26T04:06:18Z
   Vendor: Kashmirgems®
   Product Type: Rough Gemstones
   Availability: Available
@@ -172,7 +172,7 @@
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/cut_blue_sapphire.jpg?v=1770106640
   Price: $6,000.00 USD
 - [36.8 Carats Natural Lapidary Rough Sapphires - From Basil Mine Kashmir, Pakistan](https://www.kashmirstones.com/products/36-8-carats-natural-lapidary-rough-basil-mine-kashmir-sapphires-pakistan): This offering features a select parcel of natural corundum rough, comprising sapphire, Kashmir sapphire, and ruby material, sourced from Kashmir, Pakistan mining regions. Supplied in untreated rough form, these stones are intended for professional faceting, lapidary processing, and specialist gemstone work. The parcel carries a total weight of 36.8 carats and includes 11 individual rough stones, with stone sizes ranging from approximately 1.4 carats to 7.45 carats per piece. The size distribution spans multiple commercial cutting brackets, including 1–3 carats, 3–5 carats, 5–8 carats, and up to 8–10 carats, offering flexibility for different cutting strategies. Color tones within the lot are predominantly purple to lavender, characteristic of certain corundum occurrences from the region. Clarity varies from semi-transparent to translucent and included, which is expected in genuine, unenhanced corundum rough. The stones are classified as Good (G) condition, retaining their natural crystal integrity and original surface features. This material is 100% earth-mined and untreated, with no heat or chemical enhancements applied. Due to its limited availability and origin-specific sourcing, this parcel is considered rare, making it suitable for experienced gemstone cutters, collectors, and professionals seeking authentic corundum rough for cutting, study, or collection purposes.
-  Updated: 2026-09-15T20:36:05Z
+  Updated: 2026-11-26T04:06:28Z
   Vendor: Kashmirgems®
   Product Type: Rough Gemstones
   Availability: Available
@@ -193,7 +193,7 @@
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/natural_ruby_loose.jpg?v=1770316058
   Price: $3,000.00 USD
 - [18.70 Carats Trapiche Sapphire Cabochon - from Batakundi Kashmir](https://www.kashmirstones.com/products/batakundi-trapiche-sapphire): This 18.70-carat Trapiche Sapphire cabochon is a rare and genuine Kashmir gemstone sourced from Azad Kashmir, Pakistan. Part of the corundum mineral family, this loose precious stone showcases a distinctive purplish hue with the characteristic trapiche pattern that makes each piece truly unique. The gemstone measures 15 mm x 14 mm x 7.5 mm and features semi-transparent to translucent clarity with natural inclusions that authenticate its earthly origin. This stone is completely untreated and natural, mined directly from the earth with no enhancements, preserving its authentic beauty and geological integrity. The stone is classified as a rare gemstone in good condition. As a September birthstone, it makes an ideal choice for jewelry creation for those who are born in the month of September. The cabochon cut beautifully highlights the trapiche pattern, making it perfect for custom jewelry designs or as a standalone precious stone for collectors. Ideas for Jewelry Designing:- Minimal Bezel Statement Ring A clean bezel-set ring that highlights the trapiche sapphire’s natural hexagonal shape and star pattern.Metals: US: 14K Gold | EU: 18K Gold | Collectors: Platinum Hexagon Open-Back Pendant An elegant pendant design with an open back to enhance light and internal patterning.Metals: US: 14K Gold, Silver | EU: 18K Gold | Collectors: Platinum Vintage Halo Cocktail Ring A statement ring framed with a fine diamond or sapphire halo for a classic look.Metals: US: 14K Gold | EU: 18K Gold | Collectors: Platinum Artisan Unisex Ring A raw, handcrafted design celebrating the stone’s natural inclusions and geological form.Metals: US: Silver, 14K Gold | EU: Recycled Gold | Collectors: Hand-forged Silver
-  Updated: 2026-09-15T20:36:06Z
+  Updated: 2026-11-26T04:06:21Z
   Vendor: Kashmirgems®
   Product Type: Loose Gemstones
   Availability: Available
@@ -219,7 +219,7 @@
     Availability: Available
     Price: $650.00 USD
 - [Buy 1.46 Afghanistan Ruby Gemstone Online | Natural Ruby Stone](https://www.kashmirstones.com/products/1-46-afghan-ruby-loose-gem): This 1.46-carat natural Afghan ruby is a genuine earth-mined corundum gemstone, sourced from the renowned ruby-producing regions of Afghanistan. Featuring an elegant oval cut and measuring approximately 8.2 × 6.3 × 3.4 mm, this loose gemstone displays an attractive red to pinkish-red hue with natural internal characteristics typical of authentic corundum. Belonging to the mineral family corundum (crystal system: trigonal), this ruby exhibits semi-transparent clarity with slight inclusions (SI), consistent with naturally formed stones from high-pressure metamorphic environments of the Hindu Kush region. Offered as a single loose gemstone, this piece is ideal for: Custom jewelry settings (rings, pendants, or statement pieces) July birthstone jewelry Collectors seeking natural Afghan ruby specimens Designers looking for authentic untreated corundum The stone is 100% natural and untreated, preserving its original geological character and color integrity. With a Very Good (VG) condition rating and classified as uncommon, this ruby offers a balance of affordability and genuine origin value. Gemstone Highlights Stone Type: Natural Ruby (Corundum) Weight: 1.46 Carats Shape: Oval Cut Color: Red to Pinkish Red Clarity: SI, Semi-Transparent Origin: Afghanistan : None (Natural & Untreated) Crystal System: Trigonal Birthstone: July  Type: Single Gem Frequently Asked Questions 1. Is this ruby natural or treated?This ruby is 100% natural and untreated. No heat or enhancement has been applied. 2. Is Afghan ruby valuable compared to other origins?Afghan rubies are valued for their vibrant red tones and natural formation. While each stone varies, untreated origin-specific rubies hold strong collector and jewelry appeal. 3. Is this stone suitable for engagement or fine jewelry?Yes. Its oval cut and manageable 1.46-carat size make it suitable for custom rings, pendants, or designer jewelry projects.
-  Updated: 2026-09-15T20:36:07Z
+  Updated: 2026-11-26T04:06:28Z
   Vendor: Kashmirgems®
   Product Type: Loose Gemstones
   Availability: Available
@@ -233,7 +233,7 @@
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Rare-hackmanite-stones.jpg?v=1771176811
   Price: $150.00 USD
 - [1.96 carats Brilliant Vivid Green Swat Emerald Loose Gem - Pakistan](https://www.kashmirstones.com/products/1-96-carats-brilliant-vivid-green-swat-emerald-loose-gem): Product Overview This magnificent rare emerald, also known as beryl, originates from the renowned Swat Valley of Pakistan, one of the world's most prestigious sources for fine emeralds. Weighing 1.96 carats with dimensions of 8.9 x 6.40 x 4.75mm, this stunning gemstone features a brilliant octagonal cut that perfectly showcases its vivid green color and included clarity characteristic of natural emeralds. As a May birthstone, this single gem is completely natural and earthly mined with minor oil , a traditional and accepted enhancement that brings out the emerald's inherent beauty. The emerald falls within the 1 to 2 carat weight range and is classified as a loose gemstone, making it ideal for creating exquisite custom jewelry and ornamental pieces. Frequently Asked Questions What makes Swat Valley emeralds special? Swat Valley emeralds from Pakistan are celebrated for their exceptional vivid green color and brilliance. They rival Colombian emeralds in quality and are highly sought after by collectors and connoisseurs for their rich saturation and unique characteristics. What does "minor oil"  mean? Minor oil  is a traditional and widely accepted practice in the emerald industry where colorless oil or resin is used to fill natural surface-reaching inclusions. This enhances the emerald's clarity and luster while maintaining its natural beauty. Over 90% of emeralds on the market receive this . Is this emerald suitable for an engagement ring? Yes, emeralds make stunning engagement rings with proper care. While softer than diamonds or sapphires (7.5-8 on the Mohs scale), this octagonal-cut Swat emerald can be beautifully set in a protective bezel or halo setting. With gentle care and occasional professional cleaning, it will remain a cherished heirloom for generations.
-  Updated: 2026-09-15T20:36:08Z
+  Updated: 2026-11-26T04:06:28Z
   Vendor: Kashmirgems®
   Product Type: 
   Availability: Available
@@ -268,14 +268,14 @@
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/certified_loose_sapphire_1.jpg?v=1772132260
   Price: $4,000.00 USD
 - [Natural 36.8 Carat Uncut Purplish Pink Sapphire Crystal Lot](https://www.kashmirstones.com/products/natural-36-8-carat-uncut-purplish-pink-sapphire-crystal-lot): This parcel includes natural corundum rough from Kashmir, Pakistan, featuring sapphires and rubies in loose uncut form. The lot weighs 36.8 carats in total, with 11 pieces ranging from approximately 1.40 to 7.45 carats, suitable for faceting, lapidary work, or selective cabochon cutting depending on individual quality. The stones display purple to lavender tones with semi-transparent to translucent clarity, typical of untreated corundum rough. All pieces are 100% natural, earth-mined, and unheated, ideal for professional cutters, collectors, and gemstone specialists seeking authentic material from a classic source.
-  Updated: 2026-09-15T20:36:10Z
+  Updated: 2026-11-25T03:07:12Z
   Vendor: Kashmir Gems
   Product Type: Rough Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/rough0-batakundi-sapphire.jpg?v=1772478741
   Price: $350.00 USD
 - [9.50 Carat Faceted Loose Blue Sapphire](https://www.kashmirstones.com/products/9-50-carat-faceted-loose-blue-sapphire): Gemstone: Natural Blue SapphireWeight: 9.50 CaratsDimensions: 13.1 × 11 × 7 mmShape & Cut: Oval Shape – Faceted CutOrigin: Sri Lanka (Ceylon)Clarity: Included (natural internal inclusions visible): Heated (standard enhancement to improve colour and appearance)Birthstone: September Birth MonthThis beautiful 9.50 carat oval blue sapphire features a classic elongated shape that enhances brilliance and finger coverage, making it ideal for statement rings or luxury pendants. Sapphires from Sri Lanka are world-renowned for their vibrant blue tones and excellent lustre. Can Virgo wear blue sapphire? Yes, Virgo can wear Blue Sapphire, but with proper guidance. Stone: Blue SapphireSeptember: BirthstoneOrigin: Sri LankaComment HeatedAstrological Point of View:Virgo (August 23 – September 22) is ruled by Mercury (Budh). Blue Sapphire is associated with Saturn (Shani). Technically in astrology: Saturn and Mercury are generally considered friendly planets. Because Virgo natives have strong analytical and practical traits, Blue Sapphire can support discipline, focus, career growth, and financial stability Gemological View (Technical):Blue Sapphire belongs to the mineral corundum and ranks 9 on the Mohs hardness scale, making it highly durable for daily wear. So yes, Virgo can wear Blue Sapphire — but only if it suits their personal horoscope.
-  Updated: 2026-09-15T20:36:10Z
+  Updated: 2026-11-26T04:06:24Z
   Vendor: Kashmirgems®
   Product Type: Loose Gemstones
   Availability: Available
@@ -289,21 +289,21 @@
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/cut_sapphire.jpg?v=1772561294
   Price: $990.00 USD
 - [11 Carat Cushion Cut Royal Blue Sapphire Stone](https://www.kashmirstones.com/products/11-carat-blue-sapphire-stone): Gemstone: SapphireWeight: 11 CaratsDimensions: 13.1 × 12 × 7.2 mmCut: FacetedOrigin: Sri LankaClarity: Included (Natural internal characteristics): HeatedBirthstone: SeptemberImpressive large size – perfect for statement jewelleryFaceted cut enhances brilliance and light performanceHeated  (common industry practice to improve colour and clarity)Strong durability (Mohs hardness 9) – suitable for rings, pendants, or heirloom piecesHighly sought-after Sri Lankan origin
-  Updated: 2026-09-15T20:36:11Z
+  Updated: 2026-11-26T04:06:39Z
   Vendor: Kashmirgems®
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/blue_sapphire_cut.jpg?v=1772562689
   Price: $4,000.00 USD
 - [1.65ct Natural Pink Ruby Afghanistan | Untreated Step Cut Loose Gemstone](https://www.kashmirstones.com/products/165ct-pink-ruby-afghanistan): Stunning 1.65 carat natural pink ruby from Afghanistan. Untreated, step-cut with excellent clarity. Perfect for engagement rings, fine jewelry & collectors. Authentic gemstone, worldwide shipping.
-  Updated: 2026-09-15T20:36:11Z
+  Updated: 2026-11-26T04:06:31Z
   Vendor: Kashmirgems®
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/afghan-ruby-stones.webp?v=1772994904
   Price: $850.00 USD
 - [11.30 Carats Tiny Ruby Crystal on Calcite](https://www.kashmirstones.com/products/11-30-carats-tiny-ruby-crystal-on-calcite): Explore this 11.30-carat natural ruby crystal elegantly set on a calcite matrix—a stunning fine mineral specimen from Pakistan. This genuine, earthly-mined treasure has the raw beauty of corundum in its most authentic form. Specimen Details Weight: 11.30 Carats (1 Piece) Dimensions: 20 x 15 - 10 mm Stone Type: Ruby (Corundum) Category: Fine Mineral Specimen Clarity: Semi Transparent Color: Red to Pink Gemological Properties Crystal System: Hexagonal/Trigonal Mineral Class: Nesosilicates Origin: Pakistan : 100% Natural - Earthly Mined, No Treatments Authenticity: Genuine Rarity: Rare Classification Gem Type: Natural Gemstone, Precious Stone Category: Rare Gems, Minerals & Crystals Birthstone: July  Type: Single Specimen Why This Ruby Specimen is Special? This natural ruby crystal represents the untouched beauty of Pakistan's renowned gemstone deposits. As a fine mineral specimen, it showcases the hexagonal crystal structure characteristic of corundum, making it perfect for collectors, mineralogists, and gem enthusiasts who appreciate the raw, uncut beauty of precious stones in their natural state. The semi-transparent clarity allows light to dance through the red-pink hues, while the calcite matrix provides a stunning natural contrast that highlights the ruby's vibrant color. This is not just a gemstone—it's a piece of geological history, formed deep within the earth over millions of years. Perfect For Mineral and crystal collectors Gemstone enthusiasts seeking rare specimens Educational displays and geological studies July birthstone collectors Those who appreciate natural, untreated gemstones
-  Updated: 2026-09-15T20:36:11Z
+  Updated: 2026-11-26T04:06:30Z
   Vendor: Kashmirgems®
   Product Type: Mineral Specimens
   Availability: Available
@@ -363,35 +363,35 @@ This gemstone is 100% natural and has received no treatments or enhancements.
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/loose-tsavorite-garnets.jpg?v=1781552647
   Price: $899.00 USD
 - [200 Carats Emerald Rough Stone for Cabbing / Tumbling Beading](https://www.kashmirstones.com/products/200-carats-cabs-grade-emerald-rough): This is a parcel of 200 carats Natural Vivid Green Raw emeralds from Swat. The stones have very nice fine color of rich green. They are cans grade and can be cut into beads, cabochons or tumbling. They can also be used into raw stone jewelry or wirewrapping jewelry. Their sizes are under 1 to 6 carats per piece with no . Origin is Pakistan
-  Updated: 2026-09-15T20:36:14Z
+  Updated: 2026-11-26T04:06:29Z
   Vendor: Kashmir Stones
   Product Type: Rough Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/1A2D6198-4DA6-44A3-9CDB-2CBB29219E2E.jpg?v=1781737461
   Price: $650.00 USD
 - [100 Carats Swat Emerald Rough Stones | Natural Pakistan Emerald Parcel](https://www.kashmirstones.com/products/swat-emerald-rough-stones-100-carats): Shop 100 carats of natural Swat Emerald rough stones from Pakistan — vivid green, hexagonal crystals with minor oil  only. Ideal for lapidary, faceting, and collectors. Rare, genuine precious stones from Kashmir Stones.
-  Updated: 2026-09-15T20:36:14Z
+  Updated: 2026-11-25T03:07:16Z
   Vendor: Kashmir Stones
   Product Type: Rough Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Swat_Emerald-Rough_Stones.jpg?v=1781784009
   Price: $2,000.00 USD
 - [Buy 17 Carats Purplish Pink Kashmir Sapphire Online](https://www.kashmirstones.com/products/purple-kashmir-sapphire): These are Natural Kashmir Sapphires offered in small  lots. Displayed in a beautiful purplish pink color Sourced from Azad Kashmir, Pakistan, known for quality gemstones. Stones are completely untreated, maintaining their natural beauty. Recognized as part of the September birthstone category. Suitable for collectors, gemstone dealers, and fine jewelry designers. Frequently Asked Questions Are these Kashmir Sapphires natural? Yes, these are 100% natural Kashmir Sapphires in their original state. Which birthstone category do they belong to? Sapphires are the traditional birthstone for September.
-  Updated: 2026-09-15T20:36:14Z
+  Updated: 2026-11-26T04:06:24Z
   Vendor: Kashmir Stones
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/17_carats_purplish_pink_Kashmir_sapphire_loose_stone.jpg?v=1783334403
   Price: $1,500.00 USD
 - [42 Carats Natural Swat Emeralds | Loose Emerald Parcel from Pakistan](https://www.kashmirstones.com/products/natural-swat-emerald-parcel-42-carats-pakistan): Shop a 42.55-carat parcel of 15 natural emeralds from Swat, Pakistan. Sizes range from 7.55 ct to under 1 ct. Ideal for collectors, jewelers & gem traders. Certificate included.
-  Updated: 2026-09-15T20:36:15Z
+  Updated: 2026-11-26T04:06:27Z
   Vendor: Kashmir Stones
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/42-ct-swat-emeralds.jpg?v=1781798824
   Price: $6,800.00 USD
 - [Heart Shape Natural Emerald & Ruby Pairs | 7.7 Ct Untreated Loose Gemstones](https://www.kashmirstones.com/products/heart-shape-natural-emeralds-and-rubies-pairs): Buy rare heart-shaped natural Emerald & Ruby pairs — 7.7 carats, untreated, from Pakistan & Mozambique. Genuine loose gemstones for custom jewelry. SKU EMRR-654.
-  Updated: 2026-09-15T20:36:15Z
+  Updated: 2026-11-24T04:55:44Z
   Vendor: Kashmir Stones
   Product Type: Loose Gemstones
   Availability: Available
@@ -405,35 +405,35 @@ This gemstone is 100% natural and has received no treatments or enhancements.
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/green-panjshir-emerald-cushion.png?v=1781984610
   Price: $250.00 USD
 - [Natural Panjshir Emerald 0.60ct | Emerald Cut Loose Gemstone – Afghanistan](https://www.kashmirstones.com/products/natural-panjshir-emerald-0-62ct): Buy a rare 0.60ct natural Panjshir Emerald from Afghanistan. Eye-clean, vivid green, emerald cut loose gemstone with minor oil . Genuine, graded, and mint condition.
-  Updated: 2026-09-15T20:36:16Z
+  Updated: 2026-11-26T04:06:27Z
   Vendor: Kashmir Stones
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Panjshir-emerald-cut-emerald-stone.webp?v=1782067778
   Price: $700.00 USD
 - [Natural Panjshir Emerald 0.88ct 7x4mm Octagonal Faceted Eye-Clean – Kashmir Stones](https://www.kashmirstones.com/products/0-88-natural-panjshir-emerald-octagonal-loose-gem-afghanistan): Genuine 0.88ct Panjshir emerald, octagonal faceted cut, eye-clean clarity, 7x4mm. Sourced from Afghanistan. Ideal for collectors and jewelry designers.
-  Updated: 2026-09-15T20:36:16Z
+  Updated: 2026-11-26T04:06:33Z
   Vendor: Kashmir Stones
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/panjshir-emerald-white-background.png?v=1782070263
   Price: $750.00 USD
 - [1.79 Ct Natural Kashmir Ruby, Blue Sapphire & Swat Emerald  | Untreated Loose Gemstones](https://www.kashmirstones.com/products/1-79-carats-kashmir-ruby-swat-emerald-): Buy a rare 1.79-carat trio of natural, untreated Kashmir Ruby, Blue Kashmir Sapphire, and Swat Emerald. Genuine loose gemstones from Pakistan — perfect for collectors and custom jewelry.
-  Updated: 2026-09-18T21:08:35Z
+  Updated: 2026-11-23T04:11:31Z
   Vendor: Kashmir Stones
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/PRECIOUS-STONES-.png?v=1782306503
   Price: $790.00 USD
 - [1 Carat Swat Emerald Cabochon | 8x5mm Oval Natural Green Emerald](https://www.kashmirstones.com/products/8x5mm-oval-swat-emerald-cabochon): Buy a natural 1 carat Swat Valley emerald cabochon (8×5.4×3.4mm). Rich green, oval cut, origin-sourced from Pakistan. Ideal for custom jewelry and collectors.
-  Updated: 2026-09-15T20:36:17Z
+  Updated: 2026-11-26T04:06:27Z
   Vendor: Kashmir Stones
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/swat-emerald-cabochon-stone.webp?v=1782306764
   Price: $350.00 USD
 - [45 Carats Rough Swat Emerald | Natural Green Beryl Cabbing Stones from Pakistan](https://www.kashmirstones.com/products/rough-swat-emerald-rich-green-stones-for-cabbing): Buy 45 carats of genuine rough Swat Emerald stones (9 pieces) from Pakistan. Natural, untreated green beryl ideal for cabbing, lapidary work, and mineral collections.
-  Updated: 2026-09-15T20:36:17Z
+  Updated: 2026-11-26T04:06:31Z
   Vendor: Kashmir Stones
   Product Type: Rough Gemstones
   Availability: Available
@@ -442,14 +442,14 @@ This gemstone is 100% natural and has received no treatments or enhancements.
 - [1.7 Ct Emerald Cut Purplish Pink Kashmir Sapphire | Untreated Loose Gemstone](https://www.kashmirstones.com/products/1-7-ct-purplish-pink-kashmir-sapphire): Buy a natural 1.7-carat Emerald Cut Purplish Pink Sapphire from Azad Kashmir, Pakistan. 
 Untreated, unmounted loose corundum — 8.4×5.6×4.2 mm. Perfect for custom jewelry or 
 collectors. September birthstone.
-  Updated: 2026-09-15T20:36:18Z
+  Updated: 2026-11-25T03:07:08Z
   Vendor: Kashmir Stones
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Purplish-pink-batakundi-sapphire.png?v=1782307336
   Price: $550.00 USD
 - [400 Carats Sapphires Facet Rough – Purplish Pink - Lavender - Basal Pakistan](https://www.kashmirstones.com/products/400-carats-sapphires-rough-parcel): Buy 400 carats of genuine, untreated Kashmir Sapphires rough parcel. Sourced from Kashmir, Pakistan. Facet-grade & lapidary rough. Purplish-pink to lavender hues. Rare &  natural.
-  Updated: 2026-09-15T20:36:18Z
+  Updated: 2026-11-24T04:55:45Z
   Vendor: Kashmir Stones
   Product Type: Rough Gemstones
   Availability: Available
@@ -617,7 +617,7 @@ collectors. September birthstone.
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/natural_tourmaline_gemstone_for_ring_setting.jpg?v=1791741516
   Price: $3,740.00 USD
 - [Buy African Rough Ruby Stones For Collectors](https://www.kashmirstones.com/products/raw-rubies-from-africa): Raw ruby crystals from Africa make up this 100-gram lot of loose gemstones. The total weight applies to the combined lot, not to each individual crystal. The crystals have purplish-pink coloring, with variation in tone across the pieces. Their shapes range from elongated forms to shorter, irregular crystals, and their surfaces have visible texture. These untreated raw ruby crystals have received no treatments. Individual dimensions and an exact piece count are not confirmed, so the total weight is the useful measure of quantity. This is a raw-crystal lot rather than a finished jewelry item, with differences in shape and surface texture between pieces. For background on the gemstone and its origins, read our ruby composition and formation guide. Key details Gemstone: RubyTotal weight: 100 gramsOrigin: AfricaColor: Purplish pinkTreatment: No treatments Frequently asked questions What does the weight mean in this 100-gram raw ruby lot? The 100-gram raw ruby lot weighs 100 grams in total, not per crystal. Are these raw ruby crystals for jewelry making already faceted? No. These raw ruby crystals for jewelry making are not faceted stones or finished jewelry components. What color are these untreated ruby crystals from Africa? These untreated ruby crystals from Africa are purplish pink, with visible differences in tone between crystals.
-  Updated: 2026-11-18T16:20:50Z
+  Updated: 2026-11-26T04:06:27Z
   Vendor: Kashmir Stones
   Product Type: Rough Gemstones
   Availability: Available
@@ -707,14 +707,14 @@ collectors. September birthstone.
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/KS-Swat-Emerald-Gemstone.jpg?v=1795018621
   Price: $800.00 USD
 - [Loose Peridot Gemstones – 13.80 Carats from Kohistan](https://www.kashmirstones.com/products/5-pieces-kohistan-loose-peridot-cushion-cut-olivine-green): Explore five natural, untreated peridot gemstones from Supat mine, Kohistan, Pakistan, with a total weight of 13.80 carats and two sizes for custom jewelry.
-  Updated: 2026-11-20T16:04:42Z
+  Updated: 2026-11-21T03:23:41Z
   Vendor: Kashmir Stones
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Olivine_Green_Peridot_Pairs.jpg?v=1795189385
   Price: $760.00 USD
 - [Octagonal Peridot Gemstones – 14.60 Carats, 4 Pieces](https://www.kashmirstones.com/products/4-pieces-of-olivine-green-peridots-octagonal-shape-pakistan-peridots): Explore four olivine-green peridot gemstones from Pakistan, weighing 14.60 carats in total, with octagonal shapes and varied sizes for custom jewelry designs.
-  Updated: 2026-11-20T16:32:02Z
+  Updated: 2026-11-21T03:42:53Z
   Vendor: Kashmir Stones
   Product Type: Loose Gemstones
   Availability: Available
@@ -820,6 +820,9 @@ collectors. September birthstone.
 - [Kashmir Gemstones  (Batakundi, Kashmir, Gilgit Baltistan )](https://www.kashmirstones.com/collections/kashmir-gemstones): Shop authenticated Kashmir-origin gemstones — rare Basal sapphires, Batakundi rubies & more.  provenance, natural unheated stones. Trusted by collectors & jewelers.
   Updated: 2026-11-19T14:30:34Z
   Total Products: 27
+- [Tourmaline](https://www.kashmirstones.com/collections/tourmaline-stones): Explore natural green and bi-color tourmaline gemstones for jewelry making and collecting. Compare loose stone parcels, cuts and carat weights at Kashmir Stones.
+  Updated: 2026-11-22T16:34:34Z
+  Total Products: 2
 
 ## Blogs
 
@@ -848,14 +851,14 @@ collectors. September birthstone.
     Updated: 2026-02-13T12:01:32Z
     Author: Samina Gulzar
     Tags: A to Z Gemstone List, FAQs, Technical Gemstone Knowledge
-  - [Kashmir Sapphire Price Per Carat - 2026 Value Guide](https://www.kashmirstones.com/blogs/kashmir-gems-insider/what-is-kashmir-sapphire-price-per-carat): Kashmir Sapphire Price Per Carat - 2026 Value Guide
-    Updated: 2026-01-23T18:35:11Z
+  - [Kashmir Sapphire Price Per Carat - Value Guide](https://www.kashmirstones.com/blogs/kashmir-gems-insider/what-is-kashmir-sapphire-price-per-carat): Kashmir Sapphire Price Per Carat - Value Guide
+    Updated: 2026-11-22T16:09:15Z
     Author: Samina Gulzar
-    Tags: A to Z Gemstone List, Did You Know?, FAQs
+    Tags: A to Z Gemstone List, Buying Guide for Gemstones, Did You Know?, FAQs, Technical Gemstone Knowledge
   - [Popular Gemstones in Kashmir Valley Pakistan | Kashmir Sapphires & More](https://www.kashmirstones.com/blogs/kashmir-gems-insider/what-are-popular-gemstones-in-kashmir-valley-of-pakistan): Popular Gemstones in Kashmir Valley Pakistan | Kashmir Sapphires & More
-    Updated: 2026-01-23T18:24:20Z
+    Updated: 2026-11-22T16:35:01Z
     Author: Samina Gulzar
-    Tags: FAQs
+    Tags: A to Z Gemstone List, Buying Guide for Gemstones, Did You Know?, FAQs
   - [How Rare is a Kashmir Sapphire? Understanding Their Exceptional Value](https://www.kashmirstones.com/blogs/kashmir-gems-insider/learn-about-kashmir-sapphire-rarity): How Rare is a Kashmir Sapphire? Understanding Their Exceptional Value
     Updated: 2026-01-23T18:33:18Z
     Author: Samina Gulzar
