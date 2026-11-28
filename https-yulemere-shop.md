@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-05T05:41:06Z
 - Contact Email: meyermarlonkl031023@gmail.com
-- Updated At: 2026-11-21T01:21:47.935Z
+- Updated At: 2026-11-28T01:49:34.752Z
 
 ## Products
 
@@ -3134,35 +3134,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/3605/9041/files/FLWSTM3084Boxwood_RedBerryBushFauxWinterGreeneryPick-21_2.jpg?v=1792476772
   Price: $16.99 USD
-- [Hand Dipped Skinny Taper Luxury Wax Candle | Yulemere](https://yulemere.shop/products/hand-dipped-skinny-taper-luxury-wax-candle): Hand Dipped Skinny Taper Luxury Wax Candle. Candlelight look with no open flame. Add it to your cart today.
-  Updated: 2026-10-20T18:13:01Z
-  Vendor: Yulemere
-  Product Type: Flameless Candles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0745/3605/9041/files/HMD1366Hand-DippedSkinnyTaperLuxuryWaxCandle-MatteGold_1.jpg?v=1792476772
-  - [Regular](https://yulemere.shop/products/hand-dipped-skinny-taper-luxury-wax-candle?variant=48149825061025)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0745/3605/9041/files/HMD1366Hand-DippedSkinnyTaperLuxuryWaxCandle-MatteGold_2.jpg?v=1792476772
-    Price: $11.99 USD
-  - [Extra Tall](https://yulemere.shop/products/hand-dipped-skinny-taper-luxury-wax-candle?variant=48149825093793)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0745/3605/9041/files/HMD1366Hand-DippedSkinnyTaperLuxuryWaxCandle-MatteGold_1.jpg?v=1792476772
-    Price: $18.99 USD
-- [Ivory and Gold Beaded Ball Tassel Garland | Yulemere](https://yulemere.shop/products/ivory-and-gold-beaded-ball-tassel-christmas-garland): Ivory and Gold Beaded Ball Tassel Christmas Garland. A garland for mantels, stairs and tables. Shop Yulemere today.
-  Updated: 2026-10-20T18:13:00Z
-  Vendor: Yulemere
-  Product Type: Christmas Garlands
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0745/3605/9041/files/HMD1526Ivory_GoldBeadedBallTasselGarlandSeasonalDecorTinselBowlFiller_1.jpg?v=1792476774
-  Price: $33.99 USD
-- [Pre Lit Long Needle Pine and Pinecone Garland | Yulemere](https://yulemere.shop/products/pre-lit-long-needle-pine-and-pinecone-christmas-garland): Pre Lit Long Needle Pine and Pinecone Christmas Garland. A garland for mantels, stairs and tables. Order from Yulemere.
-  Updated: 2026-10-20T19:08:04Z
-  Vendor: Yulemere
-  Product Type: Christmas Garlands
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0745/3605/9041/files/GAR1165Pre-LitLongNeedlePine_PineconeChristmasGarlandWinterCenterpiece_1.jpg?v=1792476776
-  Price: $228.99 USD
-[List Continued](https://yulemere.shop/a/llms-agent/llms.txt?shop=3yu0md-rp.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4ODA5MTk1Nzk4Njg5LCJsYXN0X3ZhbHVlIjoiODgwOTE5NTc5ODY4OSJ9)
+[List Continued](https://yulemere.shop/a/llms-agent/llms.txt?shop=3yu0md-rp.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4ODA5MTk1MzcyNzA1LCJsYXN0X3ZhbHVlIjoiODgwOTE5NTM3MjcwNSJ9)
 
 ## Collections
 
@@ -3265,6 +3237,15 @@
     Author: Yulemere
   - [Crafting a Vintage Christmas Charm with Yulemere's Lifelike Boxwood Centerpiece for Front Door Holiday Decor and Classic Table Ambiance](https://yulemere.shop/blogs/news/crafting-a-vintage-christmas-charm-with-yulemeres-lifelike-boxwood-centerpiece-for-front-door-holiday-decor-and-classic-table-ambiance): Crafting a Vintage Christmas Charm with Yulemere's Lifelike Boxwood Centerpiece for Front Door Holiday Decor and Classic Table Ambiance
     Updated: 2026-11-18T11:04:31Z
+    Author: Yulemere
+  - [How Yulemere's Champagne Gold Glitter Ornaments Transform Classic Holiday Table Decor Using Real Touch Greenery and Norfolk Pine Garland](https://yulemere.shop/blogs/news/how-yulemeres-champagne-gold-glitter-ornaments-transform-classic-holiday-table-decor-using-real-touch-greenery-and-norfolk-pine-garland): How Yulemere's Champagne Gold Glitter Ornaments Transform Classic Holiday Table Decor Using Real Touch Greenery and Norfolk Pine Garland
+    Updated: 2026-11-23T11:03:48Z
+    Author: Yulemere
+  - [Enhance Your Front Door Holiday Decor with the Yulemere Houndstooth Pattern Bow and Its Lifelike Christmas Garland Companions](https://yulemere.shop/blogs/news/enhance-your-front-door-holiday-decor-with-the-yulemere-houndstooth-pattern-bow-and-its-lifelike-christmas-garland-companions): Enhance Your Front Door Holiday Decor with the Yulemere Houndstooth Pattern Bow and Its Lifelike Christmas Garland Companions
+    Updated: 2026-11-24T11:02:57Z
+    Author: Yulemere
+  - [Yulemere Seeding Needle Leaf Christmas Wreath A Perfect Blend of Outdoor Christmas Wreaths and Front Door Holiday Decor](https://yulemere.shop/blogs/news/yulemere-seeding-needle-leaf-christmas-wreath-a-perfect-blend-of-outdoor-christmas-wreaths-and-front-door-holiday-decor): Yulemere Seeding Needle Leaf Christmas Wreath A Perfect Blend of Outdoor Christmas Wreaths and Front Door Holiday Decor
+    Updated: 2026-11-25T11:03:48Z
     Author: Yulemere
 
 ## Store Pages
