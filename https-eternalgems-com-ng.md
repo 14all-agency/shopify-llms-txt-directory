@@ -6,7 +6,7 @@
 - Timezone: Africa/Algiers
 - Created At: 2018-10-08T16:46:06Z
 - Contact Email: Helpdesk.eternalgems@gmail.com
-- Updated At: 2026-11-21T01:12:58.416Z
+- Updated At: 2026-11-28T01:13:29.323Z
 
 ## Products
 
@@ -1593,63 +1593,12 @@
   - [12](https://eternalgems.com.ng/products/new-22?variant=43685117558873)
     Availability: Available
     Price: ₦50,000.00 NGN
-- [Solaris Gold Titanium Wedding Band | Engraved Comfort Fit Ring | Eternal Gems](https://eternalgems.com.ng/products/new-24): Discover The Solaris Gold Titanium Wedding Band by Eternal Gems. Featuring a luxurious gold finish, elegant engraved detailing, comfort-fit design, and exceptional durability. Backed by a one-year warranty and 7-day size exchange guarantee.
-  Updated: 2026-08-28T18:05:13Z
-  Vendor: Eternal Gems
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0059/0505/5833/files/ChatGPTImageJul18_2026_05_45_31PM.png?v=1784393266
-  - [6](https://eternalgems.com.ng/products/new-24?variant=43685119852633)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-  - [7](https://eternalgems.com.ng/products/new-24?variant=43685119885401)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-  - [8](https://eternalgems.com.ng/products/new-24?variant=43685119918169)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-  - [9](https://eternalgems.com.ng/products/new-24?variant=43685119950937)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-  - [10](https://eternalgems.com.ng/products/new-24?variant=43685119983705)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-  - [11](https://eternalgems.com.ng/products/new-24?variant=43685120016473)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-  - [12](https://eternalgems.com.ng/products/new-24?variant=43685120049241)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-- [Obsidian Crest Black Titanium Wedding Band with Silver Inlay | 8mm Men's Ring](https://eternalgems.com.ng/products/the-obsidian-crest-titanium-wedding-band): Discover the Obsidian Crest Titanium Wedding Band featuring a sophisticated matte black finish, polished silver centre inlay, and lightweight comfort-fit design. Crafted from premium aerospace-grade titanium for lasting durability and timeless style.
-  Updated: 2026-08-28T18:05:13Z
-  Vendor: Eternal Gems
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0059/0505/5833/files/grok-image-4a11a863-8474-420f-adbd-8cc28a8bb84e_dd5682a8-5692-453c-b1d5-299eb89120bd.jpg?v=1784371322
-  - [7](https://eternalgems.com.ng/products/the-obsidian-crest-titanium-wedding-band?variant=43685157109849)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-  - [8](https://eternalgems.com.ng/products/the-obsidian-crest-titanium-wedding-band?variant=43685157142617)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-  - [9](https://eternalgems.com.ng/products/the-obsidian-crest-titanium-wedding-band?variant=43685157175385)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-  - [10](https://eternalgems.com.ng/products/the-obsidian-crest-titanium-wedding-band?variant=43685157208153)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-  - [11](https://eternalgems.com.ng/products/the-obsidian-crest-titanium-wedding-band?variant=43685157240921)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-  - [12](https://eternalgems.com.ng/products/the-obsidian-crest-titanium-wedding-band?variant=43685157273689)
-    Availability: Available
-    Price: ₦50,000.00 NGN
-[List Continued](https://eternalgems.com.ng/a/llms-agent/llms.txt?shop=eternalgems.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MjgxOTU3Njk1NTc3LCJsYXN0X3ZhbHVlIjoiODI4MTk1NzY5NTU3NyJ9)
+[List Continued](https://eternalgems.com.ng/a/llms-agent/llms.txt?shop=eternalgems.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MjgxOTMxMzgyODczLCJsYXN0X3ZhbHVlIjoiODI4MTkzMTM4Mjg3MyJ9)
 
 ## Collections
 
 - [Sterling Silver Bridal Sets](https://eternalgems.com.ng/collections/sterling-silver-bridal-sets): This Beautiful Silver Bridal set is the perfect set.It came in so much quantity but currently  out so fast!!⠀⠀⠀⠀⠀⠀⠀⠀⠀Send us a DM, Order now and have it delivered to you before your sizes get sold out.The Ring store Offers High quality With Great Value!
-  Updated: 2026-11-12T19:54:58Z
+  Updated: 2026-11-26T12:08:55Z
   Total Products: 173
 - [Men’s Rings](https://eternalgems.com.ng/collections/men-rings): Shop men’s rings in Nigeria. Wedding bands and statement rings crafted in gold, silver and moissanite for modern gentlemen.
   Updated: 2026-11-18T12:07:57Z
@@ -1688,7 +1637,7 @@
   Updated: 2026-07-15T11:31:44Z
   Total Products: 126
 - [Silver Rings](https://eternalgems.com.ng/collections/silver-rings)
-  Updated: 2026-11-20T12:09:10Z
+  Updated: 2026-11-26T12:08:55Z
   Total Products: 589
 - [Gold Titanium Rings](https://eternalgems.com.ng/collections/gold-titanium-rings): Titanium has become one of the most sought-after materials for modern wedding bands because it combines incredible strength with outstanding comfort. It's lightweight, comfortable for all-day wear, highly durable for everyday use, resistant to scratches and corrosion and it's designed to retain its appearance for years to come.
   Updated: 2026-11-18T12:07:57Z
@@ -3762,6 +3711,27 @@ Shop engagement rings, proposal rings, and wedding rings at our stores in Lagos,
     Author: Eternal Gems
   - [The Timeless Appeal of Diamond Wedding and Proposal Rings](https://eternalgems.com.ng/blogs/know-your-rings/the-timeless-appeal-of-diamond-wedding-and-proposal-rings): The Timeless Appeal of Diamond Wedding and Proposal Rings
     Updated: 2026-11-21T01:00:56Z
+    Author: Eternal Gems
+  - [Titanium vs. Tungsten Wedding Bands: A Comparative Guide](https://eternalgems.com.ng/blogs/know-your-rings/titanium-vs-tungsten-wedding-bands-a-comparative-guide): Titanium vs. Tungsten Wedding Bands: A Comparative Guide
+    Updated: 2026-11-22T00:45:59Z
+    Author: Eternal Gems
+  - [Where to Find the Best Moissanite and Diamond Rings at Eternal Gems Lagos](https://eternalgems.com.ng/blogs/know-your-rings/where-to-find-the-best-moissanite-and-diamond-rings-at-eternal-gems-lagos): Where to Find the Best Moissanite and Diamond Rings at Eternal Gems Lagos
+    Updated: 2026-11-23T01:05:24Z
+    Author: Eternal Gems
+  - [The Ultimate Guide to Choosing Moissanite Proposal Rings and 18k Gold Engagement Rings](https://eternalgems.com.ng/blogs/know-your-rings/the-ultimate-guide-to-choosing-moissanite-proposal-rings-and-18k-gold-engagement-rings): The Ultimate Guide to Choosing Moissanite Proposal Rings and 18k Gold Engagement Rings
+    Updated: 2026-11-24T01:04:04Z
+    Author: Eternal Gems
+  - [How to Select Between Sterling Silver Engagement Rings and Diamond Proposal Rings](https://eternalgems.com.ng/blogs/know-your-rings/how-to-select-between-sterling-silver-engagement-rings-and-diamond-proposal-rings): How to Select Between Sterling Silver Engagement Rings and Diamond Proposal Rings
+    Updated: 2026-11-25T01:07:23Z
+    Author: Eternal Gems
+  - [Understanding the Benefits of Moissanite Engagement Rings vs. Diamond Engagement Rings](https://eternalgems.com.ng/blogs/know-your-rings/understanding-the-benefits-of-moissanite-engagement-rings-vs-diamond-engagement-rings): Understanding the Benefits of Moissanite Engagement Rings vs. Diamond Engagement Rings
+    Updated: 2026-11-26T01:04:40Z
+    Author: Eternal Gems
+  - [Exploring the Range: Titanium and Tungsten Wedding Rings and Their Unique Properties](https://eternalgems.com.ng/blogs/know-your-rings/exploring-the-range-titanium-and-tungsten-wedding-rings-and-their-unique-properties): Exploring the Range: Titanium and Tungsten Wedding Rings and Their Unique Properties
+    Updated: 2026-11-27T01:03:32Z
+    Author: Eternal Gems
+  - [Why Choose Moissanite Wedding Rings Over Traditional Diamond Wedding Rings?](https://eternalgems.com.ng/blogs/know-your-rings/why-choose-moissanite-wedding-rings-over-traditional-diamond-wedding-rings): Why Choose Moissanite Wedding Rings Over Traditional Diamond Wedding Rings?
+    Updated: 2026-11-28T00:52:08Z
     Author: Eternal Gems
 - [Care & Tips](https://eternalgems.com.ng/blogs/care-tips): Read about taking care of your rings and how to retain their brilliance always. Find a variety of steps on maintaining sterling silver rings, gold plated rings, diamond rings, gold rings and much more.
 Visit Eternal Gems stores in Lagos, Abuja, Owerri, Ibadan | Nigeria for more info.
