@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-28T11:02:43Z
 - Contact Email: okunoyakazuiti175@gmail.com
-- Updated At: 2026-11-20T01:18:50.507Z
+- Updated At: 2026-11-28T01:07:06.279Z
 
 ## Products
 
@@ -2795,33 +2795,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/7785/7733/files/Costway-Kids-2-Shelf-Bookcase-5-Cube-Wood-Toy-Storage-Cabinet-Organizer-White_611d4c11-931e-4a22-a65a-65284f008d29.fde2d414650c32f5f1fec03b6865b237.jpg?v=1793978913
   Price: $75.99 USD
-- [Kids Bookshelf - 2 Tier Storage | Witchwood](https://witchwood.design/products/2-tier-5-cube-kids-bookshelf-with-storage-cabinet): Shop the 2 Tier 5 Cube Kids Bookshelf with Storage Cabinet from Witchwood. Wood storage for books and decor with free US shipping. Order yours today.
-  Updated: 2026-11-08T10:09:38Z
-  Vendor: Witchwood
-  Product Type: Kids Bookshelves
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0797/7785/7733/files/Costway-Kids-2-Shelf-Bookcase-5-Cube-Wood-Toy-Storage-Cabinet-w-Shelves-Beige_ab400d2e-fd5e-442c-ad1a-9955b576a889.429d36c482ca69f137279f836852499b.jpg?v=1793978915
-  - [Beige](https://witchwood.design/products/2-tier-5-cube-kids-bookshelf-with-storage-cabinet?variant=50897516363973)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7785/7733/files/Costway-Kids-2-Shelf-Bookcase-5-Cube-Wood-Toy-Storage-Cabinet-w-Shelves-Beige_ab400d2e-fd5e-442c-ad1a-9955b576a889.429d36c482ca69f137279f836852499b.jpg?v=1793978915
-    Price: $75.99 USD
-  - [Gray](https://witchwood.design/products/2-tier-5-cube-kids-bookshelf-with-storage-cabinet?variant=50897516396741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7785/7733/files/Costway-Kids-2-Shelf-Bookcase-5-Cube-Wood-Toy-Storage-Cabinet-Organizer-Grey_588cf0c1-33b5-49c5-88ac-a436ca5f5ccf.5dfb517de5d48bd085494b52adabba23.jpg?v=1793978915
-    Price: $75.99 USD
-  - [Light Natural](https://witchwood.design/products/2-tier-5-cube-kids-bookshelf-with-storage-cabinet?variant=50897516429509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7785/7733/files/Costway-2-Tier-Kids-Bookcase-with-Spacious-Top-Raised-Base-Toy-Organizer-with-5-Compartments-Light-Natural_d68410e6-d1a8-45c8-bc49-a3cb8fac84a8.3a3e1b308a652e9210413d38d9d5a0c2.jpg?v=1793978915
-    Price: $75.99 USD
-  - [Light White](https://witchwood.design/products/2-tier-5-cube-kids-bookshelf-with-storage-cabinet?variant=50897516462277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7785/7733/files/Costway-2-Tier-Kids-Bookcase-with-Spacious-Top-Raised-Base-Toy-Organizer-with-5-Compartments-Light-White_f7c8f487-4dde-4247-ada0-7933140285a7.cb33f5cef774a070220acf21adfe0fcc.jpg?v=1793978915
-    Price: $75.99 USD
-  - [Natural Wood](https://witchwood.design/products/2-tier-5-cube-kids-bookshelf-with-storage-cabinet?variant=50897516495045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0797/7785/7733/files/Costway-Wooden-5-Cube-Chidren-Storage-Cabinet-Bookcase-Toy-Storage-Kids-Rooms-Classroom_0647f089-b127-45ad-b677-01198a4b5e83.e5a1267454498ed372b0871c47081b17.jpg?v=1793978915
-    Price: $75.99 USD
-[List Continued](https://witchwood.design/a/llms-agent/llms.txt?shop=ck0wuj-cp.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQwOTY3MTAzMzAyOSwibGFzdF92YWx1ZSI6IjEwNDA5NjcxMDMzMDI5In0%3D)
+[List Continued](https://witchwood.design/a/llms-agent/llms.txt?shop=ck0wuj-cp.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQwOTY3MTAwMDI2MSwibGFzdF92YWx1ZSI6IjEwNDA5NjcxMDAwMjYxIn0%3D)
 
 ## Collections
 
@@ -2894,6 +2868,15 @@
     Author: Witchwood
   - [Modern Wall Shelf Decor Tips: Elevate Your Home with Witchwood Stackable 3 Tier Bookcase and Solid Wood Shelving](https://witchwood.design/blogs/news/modern-wall-shelf-decor-tips-elevate-your-home-with-witchwood-stackable-3-tier-bookcase-and-solid-wood-shelving): Modern Wall Shelf Decor Tips: Elevate Your Home with Witchwood Stackable 3 Tier Bookcase and Solid Wood Shelving
     Updated: 2026-11-18T11:05:47Z
+    Author: Witchwood
+  - [The Witchwood Arched Tall 4 Tier Bookcase: Perfecting Solid Wood Shelving with Modern Wall Shelf Decor and Floating Wood Shelves](https://witchwood.design/blogs/news/the-witchwood-arched-tall-4-tier-bookcase-perfecting-solid-wood-shelving-with-modern-wall-shelf-decor-and-floating-wood-shelves): The Witchwood Arched Tall 4 Tier Bookcase: Perfecting Solid Wood Shelving with Modern Wall Shelf Decor and Floating Wood Shelves
+    Updated: 2026-11-23T11:04:43Z
+    Author: Witchwood
+  - [Reimagine Your Home with Witchwood Folding Bookcase: Enhancing Spaces through Floating Wood Shelves Rustic Wood Charm and Modern Decor](https://witchwood.design/blogs/news/reimagine-your-home-with-witchwood-folding-bookcase-enhancing-spaces-through-floating-wood-shelves-rustic-wood-charm-and-modern-decor): Reimagine Your Home with Witchwood Folding Bookcase: Enhancing Spaces through Floating Wood Shelves Rustic Wood Charm and Modern Decor
+    Updated: 2026-11-24T11:03:51Z
+    Author: Witchwood
+  - [Top 5 Reasons Witchwood S Shaped 6 Tier Bookcase Set of 2 is the Ultimate Modern Wall Shelf Decor with Rustic Wood Shelves](https://witchwood.design/blogs/news/top-5-reasons-witchwood-s-shaped-6-tier-bookcase-set-of-2-is-the-ultimate-modern-wall-shelf-decor-with-rustic-wood-shelves): Top 5 Reasons Witchwood S Shaped 6 Tier Bookcase Set of 2 is the Ultimate Modern Wall Shelf Decor with Rustic Wood Shelves
+    Updated: 2026-11-25T11:04:44Z
     Author: Witchwood
 
 ## Store Pages
