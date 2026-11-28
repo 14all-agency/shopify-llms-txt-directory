@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-02-25T10:19:46Z
 - Contact Email: support@paisleyautocare.com
-- Updated At: 2026-11-21T01:04:23.739Z
+- Updated At: 2026-11-28T01:06:25.169Z
 
 ## Products
 
@@ -75,7 +75,7 @@
     Availability: Available
     Price: £92.00 GBP
 - [Class 4 MOT in Paisley | £39.99 | Paisley Autocare](https://paisleyautocare.co.uk/products/mot): Book a Class 4 MOT in Paisley for £39.99. VOSA- testing, qualified technicians, and a free retest subject to T&amp;Cs.
-  Updated: 2026-11-20T16:26:38Z
+  Updated: 2026-11-27T11:15:28Z
   Vendor: Paisley Autocare
   Product Type: MOT
   Availability: Available
@@ -93,7 +93,7 @@
     Availability: Available
     Price: £59.99 GBP
 - [Standard Service | Car Service Every 12,000 Miles](https://paisleyautocare.co.uk/products/full-service): Book a Standard Service with OEM-spec parts and oil. Includes 12,000-mile checks, fluid top-ups, brakes, tyres, suspension and more.
-  Updated: 2026-11-10T16:27:18Z
+  Updated: 2026-11-25T15:03:30Z
   Vendor: Paisley Autocare LTD
   Product Type: Car Service
   Availability: Available
@@ -159,7 +159,7 @@
     Availability: Available
     Price: £174.98 GBP
 - [DPF Clean Service | Diesel Particulate Filter Cleaning](https://paisleyautocare.co.uk/products/dpf-cleaning): Professional DPF Clean service from Paisley Autocare to help restore performance, improve MPG and reduce emissions from blocked diesel particulate filters.
-  Updated: 2026-10-12T22:29:13Z
+  Updated: 2026-11-23T04:28:55Z
   Vendor: Paisley Autocare
   Product Type: 
   Availability: Available
@@ -171,7 +171,7 @@
     Availability: Available
     Price: £389.99 GBP
 - [Interim Service | Oil Change & Safety Checks | Paisley Autocare](https://paisleyautocare.co.uk/products/interim-service-1): Interim Service in Paisley with oil and filter replacement, coolant top-up and essential safety checks. Ideal between major service intervals.
-  Updated: 2026-11-17T16:43:16Z
+  Updated: 2026-11-22T14:53:56Z
   Vendor: Paisley Autocare
   Product Type: 
   Availability: Available
@@ -189,7 +189,7 @@
     Availability: Available
     Price: £184.99 GBP
 - [Standard Service And MOT  - Save £20 Now!](https://paisleyautocare.co.uk/products/std-service-mot-): Save £20 on Standard Service And MOT . Was £239.99, now only £219.99. Get your car serviced and MOT done at an unbeatable price. Book today!
-  Updated: 2026-11-20T13:56:44Z
+  Updated: 2026-11-27T17:32:19Z
   Vendor: Paisley Autocare LTD
   Product Type: Car Service
   Availability: Available
@@ -274,7 +274,7 @@
 ## Collections
 
 - [Car Servicing Paisley](https://paisleyautocare.co.uk/collections/car-servicing-paisley): Get top-quality car servicing paisley. Our experienced team ensures your vehicle runs smoothly and safely.
-  Updated: 2026-11-20T12:18:03Z
+  Updated: 2026-11-27T12:25:16Z
   Total Products: 15
 - [Car Brakes](https://paisleyautocare.co.uk/collections/car-brakes): Want to know more about car brakes? This guide covers everything you need to know about car brakes, from types to maintenance.
   Updated: 2026-10-12T10:27:41Z
@@ -283,7 +283,7 @@
   Updated: 2026-10-20T14:06:18Z
   Total Products: 0
 - [Car Servicing](https://paisleyautocare.co.uk/collections/service): Discover the essential aspects of car servicing. Learn how regular car servicing enhances performance and extends your vehicle's lifespan.
-  Updated: 2026-11-20T12:18:03Z
+  Updated: 2026-11-27T12:25:16Z
   Total Products: 4
 - [Tyres](https://paisleyautocare.co.uk/collections/tyres): Looking for new car tyres? Find a wide range of tyres at unbeatable prices. Get free delivery & fitting. Order now online or visit us in-store.
   Updated: 2026-04-20T16:41:01Z
