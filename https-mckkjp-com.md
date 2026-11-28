@@ -6,7 +6,7 @@
 - Timezone: Asia/Tokyo
 - Created At: 2025-01-22T02:51:28Z
 - Contact Email: support@mckkjp.com
-- Updated At: 2026-11-20T01:26:12.682Z
+- Updated At: 2026-11-28T01:02:36.784Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/MCKK_Hand_Wash_be6694b0-8357-422b-bf1f-adb490d4fcca.jpg?v=1772281755
   Price: ￥4,675.00 JPY
 - [淡路島の職人が手仕事で仕上げた天然由来100%のお香｜安息・活力・集中](https://mckkjp.com/products/incense_3set): 淡路島の職人がつくる、人工香料不使用・植物性100％の日本製お香。3種の香りで、集中・安息・活力の“寄り道”体験をお楽しみください。
-  Updated: 2026-11-13T02:30:20Z
+  Updated: 2026-11-23T15:00:35Z
   Vendor: MCKK
   Product Type: 
   Availability: Available
@@ -54,7 +54,7 @@
     Availability: Available
     Price: ￥2,640.00 JPY
 - [アロマミスト 100ml｜植物由来100%（※ 水を除く）](https://mckkjp.com/products/aromamist): 香りを「効かせるもの」ではなく、ひとつの行為に入る前の切り替えの所作としてのアロマミストです。 その場の空気が静かに切り替わるような気配を残します。香りが消えていく余韻も楽しんでみてください。 読書や思考、作業に入る前、次の時間へ移るための合図として。
-  Updated: 2026-11-13T02:30:20Z
+  Updated: 2026-11-20T01:27:17Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: 
   Availability: Available
@@ -86,7 +86,7 @@
 ## Collections
 
 - [すべての商品](https://mckkjp.com/collections/all)
-  Updated: 2026-11-11T12:13:37Z
+  Updated: 2026-11-24T12:14:44Z
   Total Products: 7
 
 ## Blogs
