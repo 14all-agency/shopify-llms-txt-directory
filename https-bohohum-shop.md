@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-10-03T21:41:59Z
 - Contact Email: contact@greenwich-emporium.com
-- Updated At: 2026-11-20T01:07:18.253Z
+- Updated At: 2026-11-28T00:58:31.057Z
 
 ## Products
 
 - [Boho Off-Shoulder Maxi Dress with Side Slit](https://bohohum.shop/products/boho-off-shoulder-maxi-dress-with-side-slit): Features:Belted,Slit Stretch:Slightly stretchy Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust Sleeve Length XS 50.8 40.6 17.3 S 51.2 42.5 17.7 M 51.6 44.5 18.1 L 52 46.5 18.5 XL 52.4 48.4 18.9 XXL 52.8 50.4 19.3
-  Updated: 2026-11-12T22:07:29Z
+  Updated: 2026-11-23T01:09:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -661,7 +661,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/592f363f-c58d-408a-9962-c605f1378910-Max-Origin.webp?v=1794485900
     Price: $28.66 USD
 - [Decorative Button Longline Coat](https://bohohum.shop/products/decorative-button-longline-coat): Features:Pocketed,Decorative Button,Double-breasted Thickness:Thick Body:Lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 49.6 40.2 24 M 50 41.7 24.4 L 50.4 44.1 24.8 XL 50.8 46.5 25.2 XXL 51.2 48.8 25.6
-  Updated: 2026-11-13T00:19:59Z
+  Updated: 2026-11-24T12:52:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -747,7 +747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/284bd8d9-9bc1-4784-9ccd-4ee81793577e-Max-Origin.webp?v=1794485993
     Price: $59.62 USD
 - [Button Down Cape Coat with Belted Waist](https://bohohum.shop/products/button-down-cape-coat-with-belted-waist): Features:Tied,Belted,Buttoned Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.8 39.4 23.6 M 25.2 40.9 24 L 25.6 43.3 24.4 XL 26 45.7 24.8 2XL 26.4 48 25.2
-  Updated: 2026-11-13T00:20:40Z
+  Updated: 2026-11-23T05:56:48Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/d54d7e6004624bfc928641c76adaf4b0-Max-Origin.webp?v=1794486034
     Price: $50.32 USD
 - [Vintage Faux Leather Zip-Up Jacket](https://bohohum.shop/products/vintage-faux-leather-zip-up-jacket): Features:Zipper,Seam detail,Contrast Stitching Fit type:Relaxed fit Closure type:Zip up Thickness:Normal Body:Lined Material composition:Faux leather; Polyester ≤30%. Care instructions:Hand wash. Do not dry clean. Imported a复制成功 Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length S 25.2 47.2 19.5 21.5 M 25.6 48.8 19.9 21.9 L 26 50.4 20.3 22.2 XL 26.4 52 20.7 22.6 2XL 26.8 53.5 21.1 23
-  Updated: 2026-11-17T21:55:45Z
+  Updated: 2026-11-23T05:58:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -919,7 +919,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/5fe28d192685111b235c9a3f96aec709-a576c79d-v3-Max-Origin.webp?v=1794486078
     Price: $43.30 USD
 - [Classic Houndstooth Double-Breasted Blazer](https://bohohum.shop/products/classic-houndstooth-double-breasted-blazer): Features:Buttoned Thickness:Normal Body:Not lined Material composition:100%polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 29.1 34.6 22 M 29.5 36.2 22.4 L 29.9 37.8 22.8 XL 30.3 39.4 23.2 2XL 30.7 40.9 23.6
-  Updated: 2026-11-13T00:21:36Z
+  Updated: 2026-11-27T18:54:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -965,7 +965,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/92a21d78-73f4-4340-a0a1-1ce531e78cec-Max-Origin.webp?v=1794486091
     Price: $31.52 USD
 - [Zip Up Printed Jacket](https://bohohum.shop/products/zip-up-printed-jacket): Features:Pocketed,Zipper Thickness:Normal Body:Lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 23.6 37.8 22.8 M 24 39.4 23.2 L 24.4 41.7 23.6 XL 24.8 44.1 24 2XL 25.2 46.5 24.4
-  Updated: 2026-11-13T00:22:23Z
+  Updated: 2026-11-23T05:58:05Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1031,7 +1031,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/b876f81444ab4601b163087f118249c8-Max-Origin.webp?v=1794486138
     Price: $33.68 USD
 - [Perfee Leopard Open Front Long Sleeve Jacket](https://bohohum.shop/products/perfee-leopard-open-front-long-sleeve-jacket): Features: Pocketed Thickness: Normal Body: Not lined Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Shoulder Sleeve Length S 4 22.8 43.3 24.4 19.7 M 6/8 23.2 44.9 25.2 19.9 L 10/12 23.8 47.2 26.4 20.2
-  Updated: 2026-11-17T21:55:38Z
+  Updated: 2026-11-23T05:47:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2034,7 +2034,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/c22d194a71bb452cb2ec4851f9127b69-Max-Origin.webp?v=1794489081
     Price: $15.78 USD
 - [18K Gold-Plated Five Layered Necklace](https://bohohum.shop/products/18k-gold-plated-five-layered-necklace): Pieces:1-piece Material:18K Gold-Plated,Alloy Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length Extension chain length onesize 14.6 2
-  Updated: 2026-11-15T19:28:47Z
+  Updated: 2026-11-23T23:27:34Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2104,35 +2104,49 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/2cf392db266a4da185bfee84607bcadb-Max-Origin.webp?v=1794552593
     Price: $27.78 USD
+- [Openwork Tassel Open Front Knit Cover Up](https://bohohum.shop/products/openwork-tassel-open-front-knit-cover-up): Features: Openwork, Sheer Stretch: No stretch Material composition: 100% polyester Care instructions: Hand wash. Do not dry clean. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length One-size 25.6
+  Updated: 2026-11-24T01:07:38Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/e19d66cd-b3f9-4318-9bb3-dbe47d13cfa4-Max-Origin.webp?v=1795439196
+  - [White / One-size](https://bohohum.shop/products/openwork-tassel-open-front-knit-cover-up?variant=46671424094343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/e19d66cd-b3f9-4318-9bb3-dbe47d13cfa4-Max-Origin.webp?v=1795439196
+    Price: $21.90 USD
+  - [Cream / One-size](https://bohohum.shop/products/openwork-tassel-open-front-knit-cover-up?variant=46671424127111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/5f0c6d53-7b77-4dcf-812f-71d912608fd8-Max-Origin.webp?v=1795439196
+    Price: $21.90 USD
 
 ## Collections
 
 - [Outerwear](https://bohohum.shop/collections/outerwear)
-  Updated: 2026-11-12T12:46:33Z
+  Updated: 2026-11-26T13:41:20Z
   Total Products: 6
 - [Sweaters](https://bohohum.shop/collections/sweaters)
-  Updated: 2026-11-12T12:45:38Z
+  Updated: 2026-11-26T13:41:32Z
   Total Products: 3
 - [Tops](https://bohohum.shop/collections/tops)
-  Updated: 2026-11-12T12:44:23Z
+  Updated: 2026-11-26T13:40:15Z
   Total Products: 5
 - [Dresses](https://bohohum.shop/collections/dresses)
-  Updated: 2026-11-13T06:50:25Z
-  Total Products: 20
+  Updated: 2026-11-26T13:40:27Z
+  Total Products: 14
 - [Jumpsuits & Rompers](https://bohohum.shop/collections/jumpsuits-rompers)
-  Updated: 2026-11-12T12:59:33Z
+  Updated: 2026-11-26T13:41:05Z
   Total Products: 10
 - [Bottoms](https://bohohum.shop/collections/bottoms)
-  Updated: 2026-11-12T13:02:25Z
+  Updated: 2026-11-26T13:40:53Z
   Total Products: 3
 - [Accessories](https://bohohum.shop/collections/accessories)
-  Updated: 2026-11-12T13:11:58Z
+  Updated: 2026-11-26T13:39:28Z
   Total Products: 9
 - [jewelry](https://bohohum.shop/collections/jewellery)
-  Updated: 2026-11-17T14:34:15Z
+  Updated: 2026-11-26T13:40:39Z
   Total Products: 6
 - [Bags](https://bohohum.shop/collections/bags)
-  Updated: 2026-11-12T12:19:02Z
+  Updated: 2026-11-26T13:41:47Z
   Total Products: 3
 
 ## Store Pages
@@ -2151,8 +2165,8 @@
   Updated: 2026-11-10T09:11:43Z
 - [Frequently Asked Questions (FAQs) | Greenwich Emporium](https://bohohum.shop/pages/faqs): We want your shopping experience at Bohohum to feel simple, transparent, and enjoyable. Below, you’ll find answers to our most common customer ques...
   Updated: 2026-11-10T09:03:16Z
-- [About Us | The Story of Greenwich Emporium](https://bohohum.shop/pages/about-us): Welcome to Bohohum — Bohemian Style From Yesterday for Today. Bohohum is an online women's fashion and accessories store operated by Kahn Consultin...
-  Updated: 2026-11-10T08:12:38Z
+- [About Us | The Story of Greenwich Emporium](https://bohohum.shop/pages/about-us): Bohemian Style From Yesterday, Reimagined for Today. Welcome to Bohohum, where personal style has room to be expressive, relaxed, and entirely your...
+  Updated: 2026-11-20T13:55:29Z
 - [Secure Checkout](https://bohohum.shop/pages/secure-checkout): Your security is a priority at Bohohum. This page explains the measures we use to keep your personal and payment information safe every time you sh...
   Updated: 2026-11-10T08:45:38Z
 - [Billing Policy](https://bohohum.shop/pages/billing-policy): This Billing Policy explains how payments, charges, and billing matters are handled at Bohohum. Accepted Payment Methods We accept the following pa...
