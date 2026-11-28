@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-12-04T08:40:28Z
 - Contact Email: info@yourcustomkeyboard.com
-- Updated At: 2026-11-21T00:21:51.431Z
+- Updated At: 2026-11-28T00:22:01.279Z
 
 ## Products
 
@@ -18,14 +18,14 @@
   Image: https://cdn.shopify.com/s/files/1/1017/7940/7187/files/Zonder_titel_1200_x_800_px_1.png?v=1780162658
   Price: € 60,00 EUR
 - [gmk 87 keyboard - RGB verlichting voor optimaal typcomfort en stijl](https://yourcustomkeyboard.com/products/gmk-87-keyboard): Ontdek de GMK 87 keyboard met RGB verlichting voor een unieke typervaring. Perfect voor gamers en schrijvers die stijl en functionaliteit willen combineren!
-  Updated: 2026-11-10T00:37:35Z
+  Updated: 2026-11-23T22:20:26Z
   Vendor: your custom keyboard
   Product Type: keyboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1017/7940/7187/files/Zonder_titel_1200_x_800_px.png?v=1780161973
   Price: € 60,00 EUR
 - [Holy Panda Switches voor de Ultieme Typervaring - Ervaar het Verschil](https://yourcustomkeyboard.com/products/holy-panda-switches): Ervaar de ultieme typervaring met onze Holy Panda Switches. Perfect voor gamers en schrijvers. Verbeter je toetsenbord met deze populaire switches en typ sneller en nauwkeuriger!
-  Updated: 2026-11-10T22:37:14Z
+  Updated: 2026-11-23T22:20:27Z
   Vendor: your custom keyboard
   Product Type: switch
   Availability: Available
@@ -40,7 +40,7 @@
     Availability: Available
     Price: € 19,00 EUR
 - [Gateron Oil King: Premium Mechanische Toetsels voor Perfect Typen](https://yourcustomkeyboard.com/products/gateron-oil-king): Ervaar de ultieme typervaring met de Gateron Oil King. Deze premium mechanische toetsen bieden superieure prestaties en comfort. Perfect voor gamers en schrijvers!
-  Updated: 2026-11-09T17:22:52Z
+  Updated: 2026-11-23T23:52:45Z
   Vendor: your custom keyboard
   Product Type: switch
   Availability: Available
@@ -55,7 +55,7 @@
     Availability: Available
     Price: € 74,95 EUR
 - [Ktt Kang White V3 - Premium Switches voor een Betaalbare Prijs](https://yourcustomkeyboard.com/products/ktt-kang-white-v3): Ontdek de Ktt Kang White V3 - Premium kwaliteit switches voor een betaalbare prijs. Perfect voor gamers en typisten die prestaties en stijl waarderen. Bestel nu!
-  Updated: 2026-11-11T05:57:35Z
+  Updated: 2026-11-23T22:20:28Z
   Vendor: your custom keyboard
   Product Type: switch
   Availability: Available
@@ -70,7 +70,7 @@
     Availability: Available
     Price: € 24,00 EUR
 - [Outemu Cream Pro schakelaars voor top prestaties in jouw toetsenbord](https://yourcustomkeyboard.com/products/outemu-cream-pro): Maximaliseer de prestaties van jouw toetsenbord met Outemu Cream Pro schakelaars. Ervaar ongeëvenaard comfort en responsiviteit. Upgrade vandaag nog voor optimale gaming!
-  Updated: 2026-11-10T00:43:31Z
+  Updated: 2026-11-23T22:20:28Z
   Vendor: your custom keyboard
   Product Type: switch
   Availability: Available
@@ -85,7 +85,7 @@
     Availability: Available
     Price: € 29,95 EUR
 - [Gateron Milky Yellow Switches - Superieure Snelheid en Reactiviteit](https://yourcustomkeyboard.com/products/gateron-milky-yellow): Ervaar de ultieme typervaring met Gateron Milky Yellow Switches. Deze switches bieden een soepele actie en uitstekende respons. Upgrade je toetsenbord vandaag nog!
-  Updated: 2026-11-11T05:58:30Z
+  Updated: 2026-11-23T22:20:29Z
   Vendor: your custom keyboard
   Product Type: switch
   Availability: Available
@@ -114,14 +114,14 @@
   Image: https://cdn.shopify.com/s/files/1/1017/7940/7187/files/Schermafbeelding2025-12-18175127.png?v=1779374255
   Price: € 50,00 EUR
 - [Black & Gold Marble Keycaps - Luxe toetsenborden voor gamers](https://yourcustomkeyboard.com/products/black-gold-marble-keycaps): Ontdek onze unieke black & gold marble keycaps! Perfect voor gamers en typeliefhebbers die stijl en functionaliteit willen combineren. Upgrade je toetsenbord vandaag nog!
-  Updated: 2026-11-10T00:37:36Z
+  Updated: 2026-11-23T22:20:30Z
   Vendor: your custom keyboard
   Product Type: keycap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1017/7940/7187/files/Schermafbeelding2025-12-18215552.png?v=1779374318
   Price: € 50,00 EUR
 - [Gradient Lined Keycaps - Verbeter de stijl van uw toetsenbord](https://yourcustomkeyboard.com/products/gradient-lined-keycaps): Ontdek onze gradient lined keycaps voor een unieke en stijlvolle uitstraling van je toetsenbord. Verander je typervaring met kleur en karakter. Koop nu!
-  Updated: 2026-11-12T02:19:55Z
+  Updated: 2026-11-23T22:20:30Z
   Vendor: your custom keyboard
   Product Type: keycap
   Availability: Available
@@ -143,7 +143,7 @@
   Image: https://cdn.shopify.com/s/files/1/1017/7940/7187/files/FullSizeRender.jpg?v=1790101263
   Price: € 40,00 EUR
 - [Gold Black Marble Keyboard Set – 65% Compact GMK67 Bundel](https://yourcustomkeyboard.com/products/gold-black-marble-keyboard-set): Ontdek de Gold Black Marble Keyboard Set van Your Custom Keyboard. Luxe 65%-toetsenbord met goudaderring en unieke keycaps; 67 toetsen, losse pijltjestoetsen, compacte bureau-ruimte en stijlvolle, eigenzinnige look.
-  Updated: 2026-11-09T17:09:55Z
+  Updated: 2026-11-23T22:20:31Z
   Vendor: your custom keyboard
   Product Type: Bundel
   Availability: Available
@@ -164,13 +164,13 @@
   Updated: 2026-09-23T11:28:49Z
   Total Products: 3
 - [kk](https://yourcustomkeyboard.com/collections/kk): - Your custom keyboard
-  Updated: 2026-09-23T11:28:49Z
+  Updated: 2026-11-23T23:52:46Z
   Total Products: 11
 - [pro](https://yourcustomkeyboard.com/collections/pro): - Your custom keyboard
-  Updated: 2026-09-23T11:28:49Z
+  Updated: 2026-11-23T23:52:46Z
   Total Products: 4
 - [Campagne](https://yourcustomkeyboard.com/collections/campagne): - Your custom keyboard
-  Updated: 2026-09-30T18:31:46Z
+  Updated: 2026-11-23T23:52:46Z
   Total Products: 11
 - [Kant-en-klare Builds](https://yourcustomkeyboard.com/collections/kant-en-klare-builds): Geen zin om zelf switches en keycaps uit te zoeken? Kies een van onze kant-en-klare builds — wij hebben de beste combinatie al voor je samengesteld en gebouwd. - Your custom keyboard
   Updated: 2026-10-26T16:07:26Z
@@ -406,6 +406,18 @@
     Updated: 2026-11-20T00:06:32Z
     Author: your custom keyboard
     Tags: beste gaming keyboards, custom keyboard, custom toetsenborden, ergonomische gaming, games, gaming, gaming setup, gaming setup ideeën, gaming toetsenborden, mechanisch toetsenbord, setup, toetsenborden
+  - [Creëer de Ultieme Gaming Setup met Deze Toetsenbordtips](https://yourcustomkeyboard.com/blogs/nieuws/creeer-de-ultieme-gaming-setup-met-deze-toetsenbordtips): Creëer de Ultieme Gaming Setup met Deze Toetsenbordtips
+    Updated: 2026-11-21T00:26:31Z
+    Author: your custom keyboard
+    Tags: aangepast toetsenbord, custom keyboard, games, gaming, gaming setup, gaming toetsenbord tips, gaming toetsenborden, mechanisch toetsenbord, setup, tips voor gaming toetsenborden, toetsenborden, ultieme setup
+  - [Gids voor het Kiezen van het Beste Mechanische Toetsenbord](https://yourcustomkeyboard.com/blogs/nieuws/gids-voor-het-kiezen-van-het-beste-mechanische-toetsenbord): Gids voor het Kiezen van het Beste Mechanische Toetsenbord
+    Updated: 2026-11-25T00:05:25Z
+    Author: your custom keyboard
+    Tags: beste toetsenborden voor gamers, custom keyboard, custom toetsenbord, games, gaming, gaming setup, ideale gaming toetsenbord kiezen, mechanisch toetsenbord, setup, toetsenbord
+  - [Op Zoek naar Een Custom Keyboard? Ontdek Jouw Mogelijkheden](https://yourcustomkeyboard.com/blogs/nieuws/op-zoek-naar-een-custom-keyboard-ontdek-jouw-mogelijkheden): Op Zoek naar Een Custom Keyboard? Ontdek Jouw Mogelijkheden
+    Updated: 2026-11-27T00:06:14Z
+    Author: your custom keyboard
+    Tags: custom keyboard, custom toetsenbord, games, gaming, gaming setup, gaming toetsenbord, goeie gaming toetsenborden, mechanisch toetsenbord, setup, toetsenborden, unieke custom keyboards
 
 ## Store Pages
 
@@ -425,7 +437,7 @@
 ## Policies
 
 - [Privacy Policy](https://yourcustomkeyboard.com/policies/privacy-policy)
-  Updated: 2026-11-03T08:13:42Z
+  Updated: 2026-11-23T21:13:20Z
 - [Shipping Policy](https://yourcustomkeyboard.com/policies/shipping-policy)
   Updated: 2026-09-30T18:47:14Z
 - [Refund Policy](https://yourcustomkeyboard.com/policies/refund-policy)
