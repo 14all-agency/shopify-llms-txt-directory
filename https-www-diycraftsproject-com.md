@@ -6,7 +6,7 @@
 - Timezone: Europe/Dublin
 - Created At: 2020-02-25T00:37:03Z
 - Contact Email: support@diycraftsproject.com
-- Updated At: 2026-11-20T00:59:28.757Z
+- Updated At: 2026-11-28T01:10:50.523Z
 
 ## Products
 
@@ -155,7 +155,7 @@
   Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/files/Vintage_floral_vellum_sticker_sheets_10_10_cm_10pc_set.webp?v=1791615196
   Price: $2.95 USD
 - [27-Piece Clay Sculpting Tools Set – Pottery & Modeling Kit](https://www.diycraftsproject.com/products/27-piece-clay-sculpting-tools-set-pottery-kit): 27-piece pottery sculpting kit with wooden tools, ball stylus, rubber pens, metal needle & sponge. Works with air dry, polymer & ceramic clay.
-  Updated: 2026-11-13T18:33:56Z
+  Updated: 2026-11-22T03:44:17Z
   Vendor: DiyCraftsProject
   Product Type: Clay Sculpting Tools
   Availability: Available
@@ -663,7 +663,7 @@
     Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/files/Round-Leather-Cord-Brown-Black-Rust-Genuine-Leather-Cord-for-Necklaces-Bracelets-DIY-Jewelry-Making-Supplies-6.jpg?v=1726617245
     Price: $1.95 USD
 - [Everlasting Inkless Pen | Infinite Writing Eternal Pencil](https://www.diycraftsproject.com/products/everlasting-inkless-eternal-pen-infinite-pencil): Never sharpen or refill again. This eco-friendly inkless pen uses a metal alloy tip to create smooth, smudge-proof lines.
-  Updated: 2026-11-19T16:25:45Z
+  Updated: 2026-11-24T20:21:25Z
   Vendor: DiyCraftsProject
   Product Type: Pens
   Availability: Available
@@ -1204,7 +1204,7 @@
     Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/products/fragile-stickers-for-shipping-labels-7035441.jpg?v=1776462250
     Price: $3.95 USD
 - [No-Mess Refillable Paint Roller Kit](https://www.diycraftsproject.com/products/refillable-no-mess-paint-roller-kit-diy): Paint like a pro with our refillable paint roller kit. No dipping, no mess, and no bending. Includes flocked edger and extender rods. Choose your set today!
-  Updated: 2026-11-18T18:28:24Z
+  Updated: 2026-11-24T20:21:26Z
   Vendor: DiyCraftsProject
   Product Type: DIY tools & accessories
   Availability: Available
@@ -2228,40 +2228,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/files/MJVowynqmzeFVVJR.png?v=1793699709
     Price: $6.95 USD
-- [Rainbow Scratch Art Paper & Stencil Kit | DIY Craft Set](https://www.diycraftsproject.com/products/scratch-painting-set-stencil-painting-kit): Reveal rainbow colors with our Scratch Art Paper & Stencil Kit! Includes wooden styluses & drawing stencils for kids.
-  Updated: 2026-11-18T16:34:48Z
-  Vendor: DiyCraftsProject
-  Product Type: Kids Arts & Crafts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/files/Scratch-painting-set-stencil-painting-kit-for-kids-and-adults.jpg?v=1723545440
-  - [A — Animal & Peacock Set](https://www.diycraftsproject.com/products/scratch-painting-set-stencil-painting-kit?variant=39872844824739)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/products/scratch-painting-set-stencil-painting-kit-for-kids-and-adults-4.jpg?v=1725572170
-    Price: $2.95 USD
-  - [Option B](https://www.diycraftsproject.com/products/scratch-painting-set-stencil-painting-kit?variant=39872844857507)
-    Availability: Available
-    Price: $2.95 USD
-  - [C — Christmas Set](https://www.diycraftsproject.com/products/scratch-painting-set-stencil-painting-kit?variant=39872844923043)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/products/scratch-painting-set-stencil-painting-kit-for-kids-and-adults-6.jpg?v=1725572174
-    Price: $2.95 USD
-  - [D — Wildlife & Nature Set](https://www.diycraftsproject.com/products/scratch-painting-set-stencil-painting-kit?variant=39872844955811)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/products/scratch-painting-set-stencil-painting-kit-for-kids-and-adults-7.jpg?v=1725572176
-    Price: $2.95 USD
-  - [E — Landmark Set](https://www.diycraftsproject.com/products/scratch-painting-set-stencil-painting-kit?variant=39872844988579)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/products/scratch-painting-set-stencil-painting-kit-for-kids-and-adults-8.jpg?v=1725572177
-    Price: $2.95 USD
-  - [F — Birthday & Celebration Set](https://www.diycraftsproject.com/products/scratch-painting-set-stencil-painting-kit?variant=39872845054115)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/products/scratch-painting-set-stencil-painting-kit-for-kids-and-adults-9.jpg?v=1725572179
-    Price: $2.95 USD
-  - [G — Animal Portraits Set](https://www.diycraftsproject.com/products/scratch-painting-set-stencil-painting-kit?variant=39872845086883)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/products/scratch-painting-set-stencil-painting-kit-for-kids-and-adults-10.jpg?v=1725572181
-    Price: $2.95 USD
-[List Continued](https://www.diycraftsproject.com/a/llms-agent/llms.txt?shop=diycraftsprojects.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2NzMxMzI4NDIyMDUxLCJsYXN0X3ZhbHVlIjoiNjczMTMyODQyMjA1MSJ9)
+[List Continued](https://www.diycraftsproject.com/a/llms-agent/llms.txt?shop=diycraftsprojects.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2NzMxMzIzNTA2ODUxLCJsYXN0X3ZhbHVlIjoiNjczMTMyMzUwNjg1MSJ9)
 
 ## Collections
 
@@ -2272,13 +2239,13 @@
   Updated: 2026-11-19T16:27:10Z
   Total Products: 125
 - [Jewelry Making Supplies](https://www.diycraftsproject.com/collections/jewelry-making-supplies): Shop jewelry making supplies: beads, wire, findings, resin, tools and kits for handmade necklaces, bracelets and earrings. Beginner to pro.
-  Updated: 2026-11-19T16:27:15Z
+  Updated: 2026-11-27T12:05:39Z
   Total Products: 87
 - [Storage + Packaging Supplies](https://www.diycraftsproject.com/collections/storage-packaging-supplies): Craft storage and packaging supplies: gift boxes, cupcake boxes, mesh and organza bags, ribbon and organizers for gifts and small businesses.
   Updated: 2026-11-19T16:27:05Z
   Total Products: 42
 - [Calligraphy Pens](https://www.diycraftsproject.com/collections/calligraphy-pens): Shop calligraphy pens, nibs, ink and lettering supplies. Perfect for beginners and experienced writers. Free US shipping over $50 (international over $69; heavy items excluded).
-  Updated: 2026-11-19T16:27:03Z
+  Updated: 2026-11-27T12:05:39Z
   Total Products: 20
 - [Halloween Crafts & Decor](https://www.diycraftsproject.com/collections/halloween-crafts-decorations): Halloween craft kits for kids, skull and pumpkin silicone molds, stickers, face paint and DIY decorations. Everything for spooky parties and classrooms.
   Updated: 2026-11-19T16:27:08Z
@@ -2311,16 +2278,16 @@
   Updated: 2026-11-19T16:27:07Z
   Total Products: 26
 - [All Craft Supplies](https://www.diycraftsproject.com/collections/all-craft-supplies): Browse all our craft supplies: molds, pottery tools, cross stitch kits, paints, stickers, sewing supplies and DIY kits for every hobby.
-  Updated: 2026-11-19T16:27:15Z
+  Updated: 2026-11-27T12:05:39Z
   Total Products: 2023
 - [Adhesives & Glues](https://www.diycraftsproject.com/collections/adhesives-glues): Craft adhesives and glues: glue  and sticks, UV resin glue, fabric glue, super glue and double-sided tape for DIY, repairs and art.
-  Updated: 2026-11-19T16:25:51Z
+  Updated: 2026-11-27T12:05:39Z
   Total Products: 13
 - [Kids Craft Kits](https://www.diycraftsproject.com/collections/kids-craft-kits-supplies): Fun, easy kids craft kits: sewing, weaving, clay, painting and jewelry making. Screen-free activities for home, school and birthday gifts.
   Updated: 2026-11-19T16:26:48Z
   Total Products: 57
 - [Crafting Tools & Equipment](https://www.diycraftsproject.com/collections/crafting-tools-equipment): Crafting tools and equipment: scissors, craft knives, cutting mats, quilling tools, clay tools and more for precise DIY and hobby projects.
-  Updated: 2026-11-19T16:27:08Z
+  Updated: 2026-11-25T12:06:19Z
   Total Products: 106
 - [Cross Stitch Kits](https://www.diycraftsproject.com/collections/cross-stitch-kits): Complete cross stitch kits with printed or counted patterns, fabric, thread and needles. Floral, animal, landscape and Christmas designs.
   Updated: 2026-11-19T16:26:47Z
@@ -2329,13 +2296,13 @@
   Updated: 2026-11-19T16:26:58Z
   Total Products: 18
 - [Ceramics & Pottery Supplies](https://www.diycraftsproject.com/collections/ceramics-pottery-supplies-1): Shop pottery tools, sculpting sets, clay, underglaze, ceramic decals, mini pottery wheels and more. Supplies for hand-building, wheel throwing and glazing.
-  Updated: 2026-11-19T16:27:14Z
+  Updated: 2026-11-22T12:05:09Z
   Total Products: 278
 - [Model Building & Construction Kits](https://www.diycraftsproject.com/collections/model-building-kits): Shop model building and construction kits: wooden models, 3D puzzles, STEM kits, vehicles, buildings and DIY projects for adults and beginners.
   Updated: 2026-11-19T16:27:05Z
   Total Products: 35
 - [Drawing & Sketching Supplies](https://www.diycraftsproject.com/collections/drawing-sketching-supplies): Sketching pencils, colored pencil sets, fine-liner pens, soft pastels, charcoal, sketchbooks and easels for beginners and experienced artists.
-  Updated: 2026-11-19T16:27:13Z
+  Updated: 2026-11-25T12:06:19Z
   Total Products: 17
 - [Fiber Arts Supplies](https://www.diycraftsproject.com/collections/fiber-arts-supplies): Fiber arts supplies for embroidery, crochet, knitting, needle felting and weaving: yarn, floss, hoops, needles and looms for all skill levels.
   Updated: 2026-11-19T16:27:06Z
@@ -2347,7 +2314,7 @@
   Updated: 2026-11-19T16:27:07Z
   Total Products: 39
 - [Resin Art Supplies](https://www.diycraftsproject.com/collections/resin-art-supplies): Resin art supplies: epoxy and UV resin, silicone molds, pigments, mica and tools for jewelry, coasters, trays and casting projects.
-  Updated: 2026-11-19T16:27:15Z
+  Updated: 2026-11-27T12:05:39Z
   Total Products: 86
 - [Woodworking Tools](https://www.diycraftsproject.com/collections/woodworking-tools): Woodworking tools for DIY and carpentry: clamps, carving sets, saw guides, contour gauges, trimmers and more for fine woodcraft.
   Updated: 2026-11-19T16:26:19Z
@@ -2356,13 +2323,13 @@
   Updated: 2026-11-19T16:25:47Z
   Total Products: 13
 - [DIY Soap Making](https://www.diycraftsproject.com/collections/diy-soap-making): Soap making supplies: silicone soap molds, loaf molds, cutters, dyes and kits for melt and pour or cold process soap at home.
-  Updated: 2026-11-19T16:27:03Z
+  Updated: 2026-11-21T12:05:34Z
   Total Products: 48
 - [Kids Art Supplies](https://www.diycraftsproject.com/collections/kids-art-supplies): Kids art supplies for home and school: markers, colored pencils, modeling clay, face paint, diamond painting, easels and no-mess activity kits.
   Updated: 2026-11-19T16:27:07Z
   Total Products: 43
 - [Painting Supplies](https://www.diycraftsproject.com/collections/painting-supplies): Shop painting supplies for acrylic and watercolor: brushes, paints, palettes, canvases and tools for beginners, kids and experienced artists.
-  Updated: 2026-11-19T16:27:01Z
+  Updated: 2026-11-25T12:06:19Z
   Total Products: 68
 - [Printables & Digital Downloads](https://www.diycraftsproject.com/collections/digital-products): Instant-download craft printables: project planners, paper craft templates, SVG and laser cut files, party games and kids activity pages. Print at home today.
   Updated: 2026-11-19T16:25:24Z
@@ -2386,10 +2353,10 @@
   Updated: 2026-11-19T16:26:19Z
   Total Products: 9
 - [Silicone Molds for Resin, Candles, Soap & Baking](https://www.diycraftsproject.com/collections/molds): Shop 290+ silicone molds for resin art, candle making, soap, plaster and baking — coasters, trays, 3D shapes and seasonal designs. Free US shipping over $50 (international over $69; heavy items excluded).
-  Updated: 2026-11-19T16:27:07Z
+  Updated: 2026-11-20T12:05:04Z
   Total Products: 279
 - [Customer Favorites](https://www.diycraftsproject.com/collections/customer-favorites): Our most popular craft supplies and tools in one place: calligraphy sets, clay sculpting tools, watercolor sets, silicone candle molds and more.
-  Updated: 2026-11-19T16:25:47Z
+  Updated: 2026-11-27T12:05:39Z
   Total Products: 16
 
 ## Blogs
@@ -2428,7 +2395,7 @@
     Author: Liam Maguire
     Tags: crafts, diy, has-products, tutorial
   - [Cake Making for Beginners: Bake & Decorate Step by Step](https://www.diycraftsproject.com/blogs/diy-crafts-projects/cake-making-guide-art-of-sweets-baking): Cake Making for Beginners: Bake & Decorate Step by Step
-    Updated: 2026-11-03T19:13:17Z
+    Updated: 2026-11-26T00:50:42Z
     Author: Liam Maguire
     Tags: has-products, home-decor, tutorial
   - [Calligraphy for Beginners: Tools, Strokes & Styles](https://www.diycraftsproject.com/blogs/diy-crafts-projects/calligraphy-guide-art-of-elegant-writing): Calligraphy for Beginners: Tools, Strokes & Styles
@@ -2436,7 +2403,7 @@
     Author: Liam Maguire
     Tags: crafts, diy, has-products, tutorial
   - [Sewing 101: How to Sew for Absolute Beginners](https://www.diycraftsproject.com/blogs/diy-crafts-projects/sewing-101-guide-for-beginners): Sewing 101: How to Sew for Absolute Beginners
-    Updated: 2026-11-03T19:13:33Z
+    Updated: 2026-11-26T16:49:37Z
     Author: Liam Maguire
     Tags: beginners, fiber-arts, has-products, tutorial
   - [How to Make a Paper Mache Mask: Step-by-Step Guide](https://www.diycraftsproject.com/blogs/diy-crafts-projects/how-to-craft-decorative-paper-mache-masks-a-step-by-step-project): How to Make a Paper Mache Mask: Step-by-Step Guide
@@ -2516,7 +2483,7 @@
     Author: Liam Maguire
     Tags: art-supplies, has-products, paint-brushes, painting, tips, tutorial
   - [10 Craft Projects to Make and  (With Pricing Tips)](https://www.diycraftsproject.com/blogs/diy-crafts-projects/craft-projects-to-make-and-): 10 Craft Projects to Make and  (With Pricing Tips)
-    Updated: 2026-10-02T11:01:39Z
+    Updated: 2026-11-26T16:49:45Z
     Author: Liam Maguire
     Tags: crafts, diy, has-products, make-and-, -crafts, tutorial
   - [How to Start a Daily Sketchbook Practice](https://www.diycraftsproject.com/blogs/diy-crafts-projects/daily-sketchbook-practice-guide): How to Start a Daily Sketchbook Practice
@@ -2563,6 +2530,10 @@
     Updated: 2026-10-07T01:59:10Z
     Author: liam maguire
     Tags: diy home decor, eco-friendly crafts, has-products, sustainable decor, upcycling
+  - [Eco-Friendly Swing Sets from Reusable Household Items](https://www.diycraftsproject.com/blogs/diy-crafts-projects/learn-how-to-make-eco-friendly-swing-sets-from-reusable-household-items): Eco-Friendly Swing Sets from Reusable Household Items
+    Updated: 2026-11-20T03:25:39Z
+    Author: liam maguire
+    Tags: crafts, diy recycled crafts, eco-friendly, environmentally friendly swing sets, has-products, household projects, recycling, reusable items, swing sets
   - [Recycled Crafts for Kids: 5 Easy Projects](https://www.diycraftsproject.com/blogs/diy-crafts-projects/trendy-diy-ideas-to-go-green-fun-recycled-projects-for-kids): Recycled Crafts for Kids: 5 Easy Projects
     Updated: 2026-11-04T22:23:37Z
     Author: liam maguire
@@ -2644,7 +2615,7 @@
     Author: liam maguire
     Tags: art, color, common painting mistakes, diy painting, has-products, how to paint, how to paint walls, paint techniques, painting, painting tips
   - [How to Choose Unfinished Wood Beads for Jewelry](https://www.diycraftsproject.com/blogs/diy-crafts-projects/how-to-choose-the-best-natural-unfinished-wood-beads-for-your-next-jewelry-project): How to Choose Unfinished Wood Beads for Jewelry
-    Updated: 2026-11-07T00:32:10Z
+    Updated: 2026-11-26T00:53:17Z
     Author: liam maguire
     Tags: has-products
   - [How to Paint on a Budget: Cheap Art Supplies That Work](https://www.diycraftsproject.com/blogs/diy-crafts-projects/how-to-paint-on-a-budget-creative-tips-for-cost-effective-art-supplies): How to Paint on a Budget: Cheap Art Supplies That Work
@@ -2652,7 +2623,7 @@
     Author: liam maguire
     Tags: affordable art supplies, art, budget painting, cost-effective painting techniques, creative tips, diy art, has-products, how to paint, paint, supplies
   - [Heat Shrink Tubing: Craft Uses and Safer Wiring Tips](https://www.diycraftsproject.com/blogs/diy-crafts-projects/top-ways-heat-shrink-tube-sleeves-ensure-safe-electrical-wiring): Heat Shrink Tubing: Craft Uses and Safer Wiring Tips
-    Updated: 2026-11-07T00:40:52Z
+    Updated: 2026-11-26T00:56:53Z
     Author: liam maguire
     Tags: craft organization, has-products, jewelry making, wire wrapping
   - [Shading for Beginners: 10 Light and Shadow Exercises](https://www.diycraftsproject.com/blogs/diy-crafts-projects/mastering-light-and-shadow-10-essential-shading-tutorials-for-beginners): Shading for Beginners: 10 Light and Shadow Exercises
@@ -2680,7 +2651,7 @@
     Author: liam maguire
     Tags: art, art tips, beginner drawing, drawing, drawing techniques, drawing tips, drawing tips for beginners, drawing tutorials, easy drawing tutorials, has-products, how to draw, sketch
   - [How to Use a Hand Plane: Beginner Woodworking Guide](https://www.diycraftsproject.com/blogs/diy-crafts-projects/unearthing-the-timeless-craft-of-woodworking-with-the-harden-woodworking-plane): How to Use a Hand Plane: Beginner Woodworking Guide
-    Updated: 2026-10-02T11:18:43Z
+    Updated: 2026-11-25T02:38:13Z
     Author: liam maguire
     Tags: has-products
   - [How to Draw Portraits: Step-by-Step Beginner Guide](https://www.diycraftsproject.com/blogs/diy-crafts-projects/beginners-guide-on-how-to-draw-amazing-portraits-effortlessly): How to Draw Portraits: Step-by-Step Beginner Guide
@@ -2732,7 +2703,7 @@
     Author: liam maguire
     Tags: beginner pottery tutorials, ceramics, clay, hand-building techniques, has-products, master pottery skills, pottery, pottery tips, unique pottery creations
   - [Bent Leg Caliper for Pottery: 10 Practical Uses](https://www.diycraftsproject.com/blogs/diy-crafts-projects/10-innovative-ways-to-enhance-your-pottery-skills-with-a-bent-leg-caliper-measuring-tool): Bent Leg Caliper for Pottery: 10 Practical Uses
-    Updated: 2026-11-07T00:32:14Z
+    Updated: 2026-11-26T00:52:02Z
     Author: liam maguire
     Tags: has-products
   - [Pottery Glaze Finishes: How to Choose the Right Glaze](https://www.diycraftsproject.com/blogs/diy-crafts-projects/glazes-demystified-how-to-pick-the-right-finish-for-your-pottery-projects): Pottery Glaze Finishes: How to Choose the Right Glaze
@@ -2740,7 +2711,7 @@
     Author: liam maguire
     Tags: ceramics, choosing pottery finishes, finish selection, glaze techniques, glazes, has-products, pottery, pottery glazing tips, pottery tutorials
   - [Kids Pottery Wheel Kit Guide: Setup & Tips for Ages 6-12](https://www.diycraftsproject.com/blogs/diy-crafts-projects/kids-pottery-wheel-kit-ages-6-12): Kids Pottery Wheel Kit Guide: Setup & Tips for Ages 6-12
-    Updated: 2026-11-07T00:32:18Z
+    Updated: 2026-11-26T00:47:59Z
     Author: liam maguire
     Tags: has-products
   - [Types of Clay for Pottery: How to Choose the Right One](https://www.diycraftsproject.com/blogs/diy-crafts-projects/under-the-surface-why-clay-types-matter-and-how-to-choose): Types of Clay for Pottery: How to Choose the Right One
@@ -2783,8 +2754,8 @@
     Updated: 2026-10-01T22:26:25Z
     Author: liam maguire
     Tags: has-products
-  - [10 Paper Craft Ideas for Home Decor: Easy Projects for Adults](https://www.diycraftsproject.com/blogs/diy-crafts-projects/paper-craft-ideas-home-decor): 10 Paper Craft Ideas for Home Decor: Easy Projects for Adults
-    Updated: 2026-11-07T00:05:58Z
+  - [10 Paper Craft Ideas for Home Decor (Easy for Adults)](https://www.diycraftsproject.com/blogs/diy-crafts-projects/paper-craft-ideas-home-decor): 10 Paper Craft Ideas for Home Decor (Easy for Adults)
+    Updated: 2026-11-26T16:49:29Z
     Author: liam maguire
     Tags: craft ideas, crafts, decor, diy crafts, easy paper projects, has-products, paper, paper art, unique paper crafts
   - [Vintage Journaling: Paper, Supplies & Techniques](https://www.diycraftsproject.com/blogs/diy-crafts-projects/transform-your-journaling-with-a-vintage-aesthetic-paper-guide-for-every-craft-enthusiast): Vintage Journaling: Paper, Supplies & Techniques
@@ -2792,7 +2763,7 @@
     Author: liam maguire
     Tags: has-products
   - [How to Make Greeting Cards: Easy Step-by-Step Guide](https://www.diycraftsproject.com/blogs/diy-crafts-projects/how-to-make-greeting-cards): How to Make Greeting Cards: Easy Step-by-Step Guide
-    Updated: 2026-10-02T10:53:45Z
+    Updated: 2026-11-26T16:49:43Z
     Author: liam maguire
     Tags: cards, crafts, creative paper crafts, diy projects, greeting cards, handmade crafts, has-products, paper, unique greeting card ideas
   - [Airbrushing for Beginners: Setup, Thinning & PSI](https://www.diycraftsproject.com/blogs/diy-crafts-projects/mastering-airbrushing-a-comprehensive-guide-for-beginners): Airbrushing for Beginners: Setup, Thinning & PSI
@@ -2802,6 +2773,10 @@
   - [Candle Making Safety: Flash Points & Fire Prevention](https://www.diycraftsproject.com/blogs/diy-crafts-projects/candle-making-safety): Candle Making Safety: Flash Points & Fire Prevention
     Updated: 2026-11-07T00:28:15Z
     Author: Shopify API
+    Tags: has-products
+  - [Tibet Beads & Fuzhou Lacquerware: History & Artistry](https://www.diycraftsproject.com/blogs/diy-crafts-projects/discover-the-artistry-and-history-of-large-tibet-beads-and-fuzhou-lacquerware-craftsmanship): Tibet Beads & Fuzhou Lacquerware: History & Artistry
+    Updated: 2026-11-26T00:47:06Z
+    Author: liam maguire
     Tags: has-products
   - [Paper Crafting for Beginners: Tools, Paper & Tips](https://www.diycraftsproject.com/blogs/diy-crafts-projects/paper-crafting-essentials-for-beginners-dive-into-creativity-with-these-tips): Paper Crafting for Beginners: Tools, Paper & Tips
     Updated: 2026-10-02T11:03:05Z
@@ -2908,7 +2883,7 @@
     Author: Liam Maguire
     Tags: classroom crafts, diy crafts, halloween, kids crafts
   - [How to Make Resin Christmas Ornaments in Silicone Molds](https://www.diycraftsproject.com/blogs/diy-crafts-projects/resin-christmas-ornaments-silicone-molds): How to Make Resin Christmas Ornaments in Silicone Molds
-    Updated: 2026-11-07T00:20:54Z
+    Updated: 2026-11-26T16:49:55Z
     Author: Liam Maguire
     Tags: Beginner, Christmas, Resin, Silicone Molds
   - [DIY Christmas Candles with Silicone Molds (Step-by-Step)](https://www.diycraftsproject.com/blogs/diy-crafts-projects/diy-christmas-candles-silicone-molds): DIY Christmas Candles with Silicone Molds (Step-by-Step)
@@ -2916,7 +2891,7 @@
     Author: Liam Maguire
     Tags: Beginner, Candle Making, Christmas, Silicone Molds
   - [20 Easy Christmas Crafts for Kids (Toddlers to Tweens)](https://www.diycraftsproject.com/blogs/diy-crafts-projects/christmas-crafts-for-kids): 20 Easy Christmas Crafts for Kids (Toddlers to Tweens)
-    Updated: 2026-11-07T00:06:00Z
+    Updated: 2026-11-26T16:49:51Z
     Author: Liam Maguire
     Tags: Beginner, Christmas, Kids Crafts
   - [Christmas Cross Stitch for Beginners: Kits, Stitches, Gifts](https://www.diycraftsproject.com/blogs/diy-crafts-projects/christmas-cross-stitch-embroidery-beginners): Christmas Cross Stitch for Beginners: Kits, Stitches, Gifts
@@ -2931,12 +2906,16 @@
     Updated: 2026-11-07T00:06:02Z
     Author: Liam Maguire
     Tags: Beginner, Christmas, Painting, Wood Crafts
+  - [Christmas Gift Crafts: 15 Easy Handmade Ideas to Make & Give](https://www.diycraftsproject.com/blogs/diy-crafts-projects/easy-handmade-christmas-gift-ideas): Christmas Gift Crafts: 15 Easy Handmade Ideas to Make & Give
+    Updated: 2026-11-26T16:11:42Z
+    Author: Liam Maguire
+    Tags: Beginner, Christmas, DIY Crafts, Gift Ideas
   - [12 DIY Christmas Ornaments for Outside: Weather-Smart](https://www.diycraftsproject.com/blogs/diy-crafts-projects/diy-christmas-ornaments-for-outside): 12 DIY Christmas Ornaments for Outside: Weather-Smart
     Updated: 2026-11-07T12:23:13Z
     Author: DiyCraftsProject
     Tags: Christmas Crafts, Christmas Ornaments, DIY Decorations, Outdoor Decorations, Seasonal Crafts
   - [15 Easy Christmas Crafts for Adults: Gifts and Decor](https://www.diycraftsproject.com/blogs/diy-crafts-projects/christmas-crafts-for-adults): 15 Easy Christmas Crafts for Adults: Gifts and Decor
-    Updated: 2026-11-07T12:23:06Z
+    Updated: 2026-11-26T16:49:47Z
     Author: DiyCraftsProject
     Tags:  Crafts, Christmas Crafts, DIY Christmas, Handmade Gifts, Seasonal Crafts
   - [12 Christmas Crafts to Make and : Ideas and Pricing](https://www.diycraftsproject.com/blogs/diy-crafts-projects/christmas-crafts-to-make-and-): 12 Christmas Crafts to Make and : Ideas and Pricing
@@ -2944,7 +2923,7 @@
     Author: DiyCraftsProject
     Tags: Christmas Crafts, Craft Fair, Crafts to , Handmade Business, Seasonal Crafts
   - [12 Christmas Handprint Crafts for Kids: Easy Keepsakes](https://www.diycraftsproject.com/blogs/diy-crafts-projects/christmas-handprint-crafts): 12 Christmas Handprint Crafts for Kids: Easy Keepsakes
-    Updated: 2026-11-07T12:23:08Z
+    Updated: 2026-11-26T16:49:42Z
     Author: DiyCraftsProject
     Tags: Christmas Activities, Christmas Crafts, Family Crafts, Handprint Crafts, Kids Crafts
   - [9 Pipe Cleaner Christmas Crafts for Adults (Easy Decor)](https://www.diycraftsproject.com/blogs/diy-crafts-projects/pipe-cleaner-christmas-crafts-for-adults): 9 Pipe Cleaner Christmas Crafts for Adults (Easy Decor)
@@ -2956,11 +2935,11 @@
     Author: DiyCraftsProject
     Tags: Christmas Activities, Christmas Crafts, Family Crafts, Kids Crafts, Preschool Crafts
   - [How to Make a Christmas Wreath: Easy Step-by-Step Guide](https://www.diycraftsproject.com/blogs/diy-crafts-projects/how-to-make-a-christmas-wreath): How to Make a Christmas Wreath: Easy Step-by-Step Guide
-    Updated: 2026-11-07T12:38:38Z
+    Updated: 2026-11-26T16:49:36Z
     Author: DiyCraftsProject
     Tags: Christmas Crafts, Christmas Wreath, DIY Decorations, Home Decor, Seasonal Crafts
   - [10 DIY Christmas Table Decorations: Easy, Low Centerpieces](https://www.diycraftsproject.com/blogs/diy-crafts-projects/diy-christmas-table-decorations): 10 DIY Christmas Table Decorations: Easy, Low Centerpieces
-    Updated: 2026-11-08T16:12:57Z
+    Updated: 2026-11-26T16:49:49Z
     Author: DiyCraftsProject
     Tags: Christmas Crafts, Christmas Entertaining, DIY Home Decor, Seasonal Crafts, Table Decorations
   - [How to Make a Christmas Garland: 5 Easy DIY Ideas](https://www.diycraftsproject.com/blogs/diy-crafts-projects/how-to-make-a-christmas-garland): How to Make a Christmas Garland: 5 Easy DIY Ideas
@@ -2968,61 +2947,89 @@
     Author: DiyCraftsProject
     Tags: Christmas Crafts, Christmas Garland, DIY Decorations, Home Decor, Seasonal Crafts
   - [7 DIY Christmas Gift Wrapping Ideas (Easy and Reusable)](https://www.diycraftsproject.com/blogs/diy-crafts-projects/diy-christmas-gift-wrapping-ideas): 7 DIY Christmas Gift Wrapping Ideas (Easy and Reusable)
-    Updated: 2026-11-07T12:38:31Z
+    Updated: 2026-11-26T16:49:41Z
     Author: DiyCraftsProject
     Tags: Christmas Crafts, DIY Christmas, Gift Wrapping, Handmade Gifts, Seasonal Crafts
-  - [Homemade Christmas Cards: 10 Easy Ideas to Make](https://www.diycraftsproject.com/blogs/diy-crafts-projects/homemade-christmas-cards): <p>Make thoughtful homemade Christmas cards with 10 easy ideas, from layered paper trees and stamped stars to stitched details and simple handwritten designs.</p>
-    Updated: 2026-11-13T09:44:47Z
-    Author: DiyCraftsProject
+  - [25 Easy Homemade Christmas Card Ideas for Kids & Adults](https://www.diycraftsproject.com/blogs/diy-crafts-projects/homemade-christmas-cards): 25 Easy Homemade Christmas Card Ideas for Kids & Adults
+    Updated: 2026-11-26T16:45:05Z
+    Author: Liam Maguire
     Tags: Christmas Cards, Christmas Crafts, Handmade Gifts, Paper Crafts, Seasonal Crafts
-  - [DIY Christmas Advent Calendar: 6 Easy Ideas to Make](https://www.diycraftsproject.com/blogs/diy-crafts-projects/diy-christmas-advent-calendar): <p>Make a DIY Christmas advent calendar with six easy ideas, from envelope walls and paper houses to reusable pockets and activity prompts.</p>
-    Updated: 2026-11-13T09:44:44Z
+  - [DIY Christmas Advent Calendar: 6 Easy Ideas to Make](https://www.diycraftsproject.com/blogs/diy-crafts-projects/diy-christmas-advent-calendar): DIY Christmas Advent Calendar: 6 Easy Ideas to Make
+    Updated: 2026-11-26T16:48:56Z
     Author: DiyCraftsProject
     Tags: Advent Calendar, Christmas Crafts, DIY Christmas, Family Crafts, Seasonal Crafts
-  - [Christmas Crafts for Teens: 10 Creative Ideas to Make](https://www.diycraftsproject.com/blogs/diy-crafts-projects/christmas-crafts-for-teens): <p>Discover 10 creative Christmas crafts for teens, from personalised clay ornaments and embroidery to beaded charms and handmade gifts.</p>
-    Updated: 2026-11-13T09:44:41Z
+  - [Christmas Crafts for Teens: 10 Creative Ideas to Make](https://www.diycraftsproject.com/blogs/diy-crafts-projects/christmas-crafts-for-teens): Christmas Crafts for Teens: 10 Creative Ideas to Make
+    Updated: 2026-11-26T16:48:51Z
     Author: DiyCraftsProject
     Tags: Christmas Crafts, DIY Christmas, Handmade Gifts, Seasonal Crafts, Teen Crafts
-  - [DIY No-Sew Christmas Stocking: An Easy Beginner Project](https://www.diycraftsproject.com/blogs/diy-crafts-projects/diy-no-sew-christmas-stocking): <p>Make a DIY no-sew Christmas stocking with felt or fleece, a simple template, fabric glue and easy personalised details.</p>
-    Updated: 2026-11-13T09:44:38Z
-    Author: DiyCraftsProject
+  - [DIY No-Sew Christmas Stocking: Easy Felt Beginner Project](https://www.diycraftsproject.com/blogs/diy-crafts-projects/diy-no-sew-christmas-stocking): DIY No-Sew Christmas Stocking: Easy Felt Beginner Project
+    Updated: 2026-11-26T16:45:27Z
+    Author: Liam Maguire
     Tags: Christmas Crafts, DIY Christmas, Handmade Gifts, Seasonal Crafts, Sewing Crafts
-  - [Salt Dough Christmas Ornaments: Easy Recipe and Ideas](https://www.diycraftsproject.com/blogs/diy-crafts-projects/salt-dough-christmas-ornaments): <p>Make salt dough Christmas ornaments with a simple recipe, easy decorating ideas and practical tips for drying, painting and hanging them.</p>
-    Updated: 2026-11-13T09:44:34Z
+  - [Salt Dough Christmas Ornaments: Easy Recipe and Ideas](https://www.diycraftsproject.com/blogs/diy-crafts-projects/salt-dough-christmas-ornaments): Salt Dough Christmas Ornaments: Easy Recipe and Ideas
+    Updated: 2026-11-26T16:49:22Z
     Author: DiyCraftsProject
     Tags: Christmas Crafts, Christmas Ornaments, Kids Crafts, Salt Dough, Seasonal Crafts
-  - [Christmas Craft Kits for Kids: How to Choose a Fun, Low-Stress Project](https://www.diycraftsproject.com/blogs/diy-crafts-projects/christmas-craft-kits-for-kids): A practical guide to choosing Christmas craft kits for kids, with project ideas for quick activities, keepsakes and cosy family afternoons.
-    Updated: 2026-11-13T09:45:01Z
-    Author: DIY Crafts Project
+  - [Christmas Craft Kits for Kids: How to Choose the Right One](https://www.diycraftsproject.com/blogs/diy-crafts-projects/christmas-craft-kits-for-kids): Christmas Craft Kits for Kids: How to Choose the Right One
+    Updated: 2026-11-26T16:45:23Z
+    Author: Liam Maguire
     Tags: Christmas Activities, Christmas Crafts, Craft Kits, Kids Crafts, Seasonal Crafts
-  - [Christmas Craft Supplies Checklist: What You Need for Cards, Ornaments & Gift Wrapping](https://www.diycraftsproject.com/blogs/diy-crafts-projects/christmas-craft-supplies-checklist): A practical Christmas craft supplies checklist for handmade cards, ornaments, gift wrapping and simple festive projects.
-    Updated: 2026-11-13T09:44:58Z
-    Author: DIY Crafts Project
+  - [Christmas Craft Supplies Checklist: Cards, Ornaments & Wrap](https://www.diycraftsproject.com/blogs/diy-crafts-projects/christmas-craft-supplies-checklist): Christmas Craft Supplies Checklist: Cards, Ornaments & Wrap
+    Updated: 2026-11-26T16:45:19Z
+    Author: Liam Maguire
     Tags: Christmas Crafts, Christmas Decorations, Craft Supplies, Gift Wrapping, Seasonal Crafts
-  - [Easy Christmas Classroom Crafts: 8 Low-Mess Ideas for Primary School](https://www.diycraftsproject.com/blogs/diy-crafts-projects/easy-christmas-classroom-crafts): Eight low-mess Christmas classroom craft ideas for primary-school groups, with realistic prep tips and inclusive seasonal alternatives.
-    Updated: 2026-11-13T09:44:54Z
+  - [8 Easy Christmas Classroom Crafts (Low-Mess, One Lesson)](https://www.diycraftsproject.com/blogs/diy-crafts-projects/easy-christmas-classroom-crafts): 8 Easy Christmas Classroom Crafts (Low-Mess, One Lesson)
+    Updated: 2026-11-26T16:49:00Z
     Author: DIY Crafts Project
     Tags: Christmas Crafts, Classroom Crafts, Kids Crafts, School Activities, Seasonal Crafts
-  - [Upcycled Christmas Decorations: 9 Easy Ideas Using Things You Already Have](https://www.diycraftsproject.com/blogs/diy-crafts-projects/upcycled-christmas-decorations-ideas): Nine practical upcycled Christmas decoration ideas using cards, jars, fabric scraps, cardboard and tired ornaments.
-    Updated: 2026-11-13T09:44:51Z
+  - [9 Upcycled Christmas Decorations From Things You Have](https://www.diycraftsproject.com/blogs/diy-crafts-projects/upcycled-christmas-decorations-ideas): 9 Upcycled Christmas Decorations From Things You Have
+    Updated: 2026-11-26T16:49:02Z
     Author: DIY Crafts Project
     Tags: Christmas Crafts, DIY Decorations, Eco-Friendly Crafts, Seasonal Crafts, Upcycling
-  - [Christmas Craft Games and Activities for Kids: 12 Low-Prep Ideas](https://www.diycraftsproject.com/blogs/diy-crafts-projects/christmas-craft-games-activities-kids): Twelve low-prep Christmas craft games and activities for kids, families, classrooms and holiday groups.
-    Updated: 2026-11-13T00:00:34Z
+  - [12 Christmas Craft Games & Activities for Kids (Low-Prep)](https://www.diycraftsproject.com/blogs/diy-crafts-projects/christmas-craft-games-activities-kids): 12 Christmas Craft Games & Activities for Kids (Low-Prep)
+    Updated: 2026-11-26T16:48:47Z
     Author: DIY Crafts Project
     Tags: Christmas Activities, Christmas Crafts, Family Crafts, Kids Crafts, School Activities
-  - [Christmas Party Games for Kids: 12 Easy Ideas for Home, Classrooms & Family Gatherings](https://www.diycraftsproject.com/blogs/diy-crafts-projects/christmas-party-games-for-kids): Twelve simple Christmas party games for kids, plus practical tips for setting up a calm family or classroom celebration.
-    Updated: 2026-11-13T00:00:30Z
+  - [12 Christmas Party Games for Kids (Home or Classroom)](https://www.diycraftsproject.com/blogs/diy-crafts-projects/christmas-party-games-for-kids): 12 Christmas Party Games for Kids (Home or Classroom)
+    Updated: 2026-11-26T16:48:54Z
     Author: DIY Crafts Project
     Tags: Christmas Activities, Christmas Party Games, Classroom Activities, Family Crafts, Kids Activities
-  - [How to Host a Christmas Escape Room for Kids: Easy Setup & Puzzle Ideas](https://www.diycraftsproject.com/blogs/diy-crafts-projects/how-to-host-christmas-escape-room-kids): A practical guide to hosting a Christmas escape room for kids, with easy puzzle types, setup tips and classroom adaptations.
-    Updated: 2026-11-13T00:00:27Z
+  - [How to Host a Christmas Escape Room for Kids: Easy Setup](https://www.diycraftsproject.com/blogs/diy-crafts-projects/how-to-host-christmas-escape-room-kids): How to Host a Christmas Escape Room for Kids: Easy Setup
+    Updated: 2026-11-26T16:49:11Z
     Author: DIY Crafts Project
     Tags: Christmas Activities, Christmas Escape Room, Classroom Activities, Kids Games, Printable Games
-  - [How to Make a 3D Paper Christmas Village: A Beginner-Friendly Tutorial](https://www.diycraftsproject.com/blogs/diy-crafts-projects/how-to-make-3d-paper-christmas-village): Learn how to make a 3D paper Christmas village with simple fold-and-glue steps, safe lighting ideas and display tips.
-    Updated: 2026-11-13T00:00:23Z
-    Author: DIY Crafts Project
+  - [3D Paper Christmas Village: How to Make One Step by Step](https://www.diycraftsproject.com/blogs/diy-crafts-projects/how-to-make-3d-paper-christmas-village): 3D Paper Christmas Village: How to Make One Step by Step
+    Updated: 2026-11-26T16:45:15Z
+    Author: Liam Maguire
     Tags: Christmas Crafts, Christmas Village, DIY Decorations, Paper Crafts, Printable Crafts
+  - [How to Plan a Craft Session for Mixed Ages (Low-Stress)](https://www.diycraftsproject.com/blogs/diy-crafts-projects/how-to-plan-low-stress-craft-session-mixed-age-group): How to Plan a Craft Session for Mixed Ages (Low-Stress)
+    Updated: 2026-11-26T16:49:20Z
+    Author: DIY Crafts Project
+  - [Craft Material Substitutions: Easy DIY Swaps](https://www.diycraftsproject.com/blogs/diy-crafts-projects/craft-material-substitutions): Craft Material Substitutions: Easy DIY Swaps
+    Updated: 2026-11-24T10:03:26Z
+    Author: Liam Maguire
+  - [How to Photograph Finished Crafts at Home](https://www.diycraftsproject.com/blogs/diy-crafts-projects/how-to-photograph-finished-crafts-at-home): How to Photograph Finished Crafts at Home
+    Updated: 2026-11-24T10:05:44Z
+    Author: Liam Maguire
+  - [How to Make Folded Paper Christmas Trees (Easy DIY)](https://www.diycraftsproject.com/blogs/diy-crafts-projects/folded-paper-christmas-trees): How to Make Folded Paper Christmas Trees (Easy DIY)
+    Updated: 2026-11-26T16:49:09Z
+    Author: DIY Crafts Project
+    Tags: Christmas crafts, DIY Christmas decorations, paper crafts
+  - [How to Make Paper Snowflakes: Easy Step-by-Step Guide](https://www.diycraftsproject.com/blogs/diy-crafts-projects/how-to-make-paper-snowflakes): How to Make Paper Snowflakes: Easy Step-by-Step Guide
+    Updated: 2026-11-26T16:49:14Z
+    Author: DIY Crafts Project
+    Tags: Christmas crafts, kids crafts, paper crafts
+  - [How to Make a Pine Cone Christmas Tree: Easy Nature Craft](https://www.diycraftsproject.com/blogs/diy-crafts-projects/how-to-make-pine-cone-christmas-tree): How to Make a Pine Cone Christmas Tree: Easy Nature Craft
+    Updated: 2026-11-26T16:49:17Z
+    Author: DIY Crafts Project
+    Tags: Christmas crafts, kids crafts, nature crafts
+  - [How to Make a Yarn-Wrapped Christmas Star Ornament](https://www.diycraftsproject.com/blogs/diy-crafts-projects/yarn-wrapped-christmas-star-ornament): How to Make a Yarn-Wrapped Christmas Star Ornament
+    Updated: 2026-11-26T16:49:26Z
+    Author: DIY Crafts Project
+    Tags: Christmas crafts, upcycled crafts, yarn crafts
+  - [Craft Project Planning Checklist: Time, Materials & Cleanup](https://www.diycraftsproject.com/blogs/diy-crafts-projects/craft-project-planning-checklist): Craft Project Planning Checklist: Time, Materials & Cleanup
+    Updated: 2026-11-25T10:07:15Z
+    Author: Liam Maguire
 
 ## Store Pages
 
@@ -3044,20 +3051,18 @@
   Updated: 2026-11-03T16:17:35Z
 - [Delivery Times & Shipping | DiyCraftsProject](https://www.diycraftsproject.com/pages/shipping-delivery-information): We ship to the USA, Canada, the UK, Ireland, Europe, Australia and many other destinations. Every order is tracked after dispatch. Delivery timing ...
   Updated: 2026-11-18T18:25:33Z
-- [llms.txt — AI Reference](https://www.diycraftsproject.com/pages/llms-txt): DIY Crafts Project — AI Reference File (llms.txt) An online arts and crafts supplies store based in Monaghan, Ireland, run by Liam Maguire. Sells c...
-  Updated: 2026-11-18T18:25:42Z
 - [Track Your Order | DIY Crafts Project](https://www.diycraftsproject.com/pages/tracking-page): Once your order ships, we email you a tracking number within 48 hours. Here's how to follow your parcel: From your shipping email: click the tracki...
   Updated: 2026-11-03T16:17:35Z
-- [Craft Fair Pricing Calculator for Makers | DIY Crafts Project](https://www.diycraftsproject.com/pages/craft-fair-calculator): Craft fair pricing calculator for makersUse this free craft fair pricing calculator to work out the true cost of making a batch of handmade items. ...
-  Updated: 2026-11-03T16:17:35Z
+- [Craft Fair Pricing Calculator for Makers | DIY Crafts Project](https://www.diycraftsproject.com/pages/craft-fair-calculator): Use the result as your break-even baseline This free calculator divides the costs you enter for one batch by the number of sellable items to estima...
+  Updated: 2026-11-24T16:09:10Z
 - [Etsy Pricing & Profit Calculator for Digital Products](https://www.diycraftsproject.com/pages/etsy-fee-calculator): Use this free Etsy pricing calculator to work out a profitable price for digital downloads, printables, handmade goods and craft products. Choose U...
   Updated: 2026-11-03T16:20:40Z
 - [Free Christmas Gift Tag Generator](https://www.diycraftsproject.com/pages/christmas-gift-tag-generator): Create and print free personalised Christmas gift tags for handmade presents, craft projects and festive gifts.
   Updated: 2026-11-03T16:34:26Z
 - [Free Craft Tools for Makers](https://www.diycraftsproject.com/pages/free-craft-tools): Explore free practical tools for makers, handmade sellers and creative small businesses. Use our calculators and printable generator to price produ...
   Updated: 2026-11-03T17:58:08Z
-- [Craft Pricing Calculator for Handmade Sellers](https://www.diycraftsproject.com/pages/craft-pricing-calculator): Use this free craft pricing calculator to build a sustainable  price for handmade products. Add your materials, time, packaging,  fee...
-  Updated: 2026-11-03T17:58:09Z
+- [Craft Pricing Calculator for Handmade Sellers](https://www.diycraftsproject.com/pages/craft-pricing-calculator): Use one currency and per-item figures. This guide shows what to include, how to work out a simple making-cost baseline and what to check before com...
+  Updated: 2026-11-24T16:09:08Z
 - [Reviews](https://www.diycraftsproject.com/pages/reviews): h1.page-title, h1.main-page-title, #MainContent h1 { display: none; }
   Updated: 2026-11-13T18:39:41Z
 - [Collabs](https://www.diycraftsproject.com/pages/collab)
